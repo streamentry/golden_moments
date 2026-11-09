@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Деменция өсөн сенсор эшмәкәрлек"
+seoTitle: "Деменция өсөн сенсор эшмәкәрлек: идеялар һәм хәүефһеҙлек"
+description: "Деменциялы кешеләр өсөн сенсор эшмәкәрлек: ҡул массажы, матаһы себер, тәбиғәт тауыштары. Тамаҡ тығылыу, аллергия һәм еҫтәр тураһында аныҡ кәңәштәр."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Сенсор эшмәкәрлек тейеү, еҫ, тәм, тауыш һәм күренеш аша эшләй: әкрен ҡул
+  массажы, йомшаҡ матаһы себер, тотоу өсөн яңы үләндәр, тәбиғәт тауыштары йәки
+  тәҙрә аша ҡоштарҙы ҡарау. Улар теләһә ниндәй этапҡа яраша һәм һуңғы осорҙа айырыуса
+  ҡиммәтле. Башта тамаҡ тығылыу, аллергия, тире проблемалары һәм еҫкә һиҙгерлекте
+  тикшерегеҙ, бер ваҡытта бер нәмә тәҡдим итегеҙ, һәм кеше борсолоп күренһә, туҡтағыҙ.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Сенсор эшмәкәрлектә дөрөҫ яуап кәрәкмәй, шуға күрә ул һәр этапта, шул исәптә карауатта йәки креслола ултырғанда ла, яраша."
+  - "Тыныс бүлмәлә бер ваҡытта бер тойғо ғына тәҡдим итегеҙ һәм кранар алдынан һорағыҙ йәки хәбәр итегеҙ."
+  - "Кесе әйберҙәрҙән һәм ашамлыҡҡа оҡшаған, әммә ашамлыҡ булмаған нәмәләрҙән һаҡланығыҙ: кеше уларҙы авыҙына ҡуйырға мөмкин."
+  - "Лосьондарҙы, еҫтәрҙе йәки ашамлыҡтарҙы ҡулланыр алдынан аллергияны, тире проблемаларын һәм һулыш ҡыйынлығын тикшерегеҙ."
+  - "Аромотерапияның деменция симптомдарына ярҙам итеүе тураһында ышандырырлыҡ дәлил юҡ; еҫтәрҙе, әгәр ҙә, бары ябай рәхәтләнеү өсөн генә ҡулланығыҙ."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Деменциялы кешегә ниндәй сенсор эшмәкәрлектәр яраҡлы?"
+    a: "Ябай идеялар: лосьон менән әкрен ҡул массажы, йомшаҡ матаһы менән эш итеү, яңы үләндәр йәки кофе еҫкәү, яратҡан музыка йәки тәбиғәт тауыштарын тыңлау, ҡоштарҙы йәки балыҡ һауыҙын ҡарау, яратҡан ризыҡты хәүефһеҙ текстурала татып ҡарау. Бер ваҡытта бер нәмә тәҡдим итегеҙ һәм кешенең реакцияһын күҙәтегеҙ."
+  - q: "Тамаҡҡа әйберҙәр ҡуйған кешегә сенсор эшмәкәрлектәр хәүефһеҙме?"
+    a: "Иғтибарлы булғанда — була ала. Йотолмаҫлыҡ кенә ҙур әйберҙәр ҡулланығыҙ, кесе йәки ватыла торған нәмәләрҙән баш тартығыҙ, эшмәкәрлектән һуң лосьондарҙы, ҡул юыу сәйҙәрен һәм еҫле продукцияны ҡулдан алыҫ тотоғоҙ, сөнки улар ашамлыҡҡа оҡшарға мөмкин. Кеше менән бөтә ваҡыт бергә булығыҙ."
+  - q: "Аромотерапия деменцияға ярҙам итәме?"
+    a: "Cochrane тикшереүе деменциялы кешеләргә аромотерапиҙың ярҙам итеүе тураһында ышандырырлыҡ дәлил табылмауын күрһәтте, тик тикшереүҙәр бик аҙ һәм һөҙөмтәләре бер-береһенә тап килмәй. Кешегә еңел, таныш еҫ оҡшаһа, был зарарлы түгел, әммә көслө эфир майҙарынан, айырыуса һулыш проблемалары йәки аллергия булғанда, тартынығыҙ."
+  - q: "Фиджет йәки эшмәкәрлек фартуғы ул нимә?"
+    a: "Был — тотоу өсөн нәмәләре ныҡ итеп тегелгән матаһы фартуғы, йәки тубыҡ өҫтөнә ябыу. Унда ҙур төймәләр, ҡыҫҡыстар, тасмалар һәм текстуралы яңылыҡтар була. Ул ҡулдарға ҡарарға нәмә бирә. Еш тикшереп торғоҙ: берәй нәмә шыуып төшмәһен."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +47,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Сенсор эшмәкәрлек биш тойғоны ҡуллана: тейеү, еҫ, тәм, тауыш һәм күренеш. Улар хәтерҙе, аҙымдарҙы һәм «дөрөҫ» яуаптарҙы талап итмәй, шуға күрә теләһә ниндәй этапта яраша ала. Иң ҡиммәтлеһе — һуңғы осорҙа. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) билдәләүенсә, һуңғы этапта донъя төп вә нәҡ тойғолар аша ҡабул ителә, һәм ҡайғыртыуығыҙҙы тейеү, тауыш, күренеш, тәм һәм еҫ аша күрһәтергә мөмкин. Бер нисә хәүефһеҙлек тикшерешенән һуң был эшмәкәрлектәр барыһына ла рәхәт булырға мөмкин.
 
-## What are sensory activities for dementia?
+## Деменция өсөн сенсор эшмәкәрлек ниндәй?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Сенсор эшмәкәрлек — бер ваҡытта бер тойғоға бағышланған ябай тәжрибәләр, мәҫәлән, матаны тойоу, үләндәрҙең еҫен тойоу йәки яңғыр тауышын тыңлау. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) һуңғы этап эшмәкәрлектәренең күп осраҡта тойғоларға йүнәлтелергә тейешлеген яҙа, һәм музыканы, ҡулға алырлыҡ нәмәләрҙе һәм ҡул массажын атап үтә. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) билдәләй: һуңғы этаптағы кешеләрҙең тыныслану өсөн ниҙер ҡулға алып тотоу ихтыяжы көслө булырға мөмкин.
 
-## Sensory ideas, sense by sense
+## Сенсор идеялар, тойғо буйынса
 
-### Touch
+### Тейеү
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Ҡул массажы.** Ҡулдарығыҙҙа бер аҙ лосьон йылытығыҙ һәм буғаҙҙан бармаҡ осона тиклем әкрен һыйпағыҙ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) еҫһеҙ лосьон менән массаж яһауҙы тынғанлыҡ өсөн атап үтә.
+- **Матаһы себер.** Вельвет, бәхмәт, флис, атлас һәм йөн ҙур квадраттары: һыйпарға, бөкләргә һәм һөйләшергә.
+- **Йылы сепрәк.** Һалҡын көндә ҡулдар өсөн йылы, нәм сепрәк. Температураны тәүҙә үҙегеҙҙең беләгегеҙҙә тикшерегеҙ.
+- **Эшмәкәрлек фартуғы йәки тубыҡ һуҙғыс.** Ҙур төймәләр, ҡыҫҡыстар, тасмалар һәм текстуралы яңылыҡтар ныҡ итеп тегелгән.
+- **Бөкләү һәм тигеҙләү.** Таҙа сепрәктәр йәки салфеткалар себере: бөкләргә, йыйырға һәм яңынан бөкләргә.
+- **Йомшаҡ нәмә тотоу.** Флис пледы, эстәлек йәки реаль йомшаҡ хайуан, ябай ғына тәҡдим ителгән, бер ҡасан да уйынсыҡ кеүек түгел.
 
-### Smell
+### Еҫ
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Яңы үләндәр.** Мәтрүшкә, розмарин, базилик йәки лаванда япраҡтарын бармаҡтар араһында ышҡығыҙ һәм кешегә тотоғоҙ.
+- **Ашхана еҫтәре.** Кофе ҡайнаған, икмәк ҡыҙҙырған, корица йәки апельсин ҡабығы — йәнәһе генә янда.
+- **Сәскәләр.** Баҡсанан йәки кибеттән бер нисә яңы сәскә алып килегеҙ.
+- **Таныш продукт.** Улар мәңге ҡулланған ял йәки лосьон, әгәр тире уны күтәрә алһа.
 
-### Taste
+### Тәм
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Яратҡан тәм.** Бер аҙ ғына яратҡан нәмә — мәҫәлән, алма ҡуйыртмаһы, пудинг йәки ҡатыҡ — хәүефһеҙ текстурала.
+- **Пешерешкә ярҙам.** Бергә пешергәндә емешкә йәки бер аҙ глазурға тәм ҡарау.
+- **Миҙгел ризыҡтары.** Йәйҙә карбуз, көҙҙә йылы алма шәрбәте — хәүефһеҙ температурала.
 
-### Sound
+### Тауыш
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Яратҡан музыка.** Таныш йырҙар йомшаҡ күләмдә; ҡарағыҙ: [музыка эшмәкәрлеге](/activities/music/).
+- **Тәбиғәт тауыштары.** Яңғыр, дулкындар йәки ҡоштар һайрауы. NIA билдәләүенсә, музыка, аҡ шау-шыу һәм тәбиғәт тауыштары кайһы бер кешеләрҙе тынысландыра кеүек.
+- **Һеҙҙең тауыш.** Тыңлаусыға юллап уҡыу, моңлау йәки хикәйә һөйләү.
+- **Ябай инструменттар.** Ҡул барабаны, шейкер йәки ҡыңғырау — музыка менән бергә уйнау өсөн.
 
-### Sight
+### Күренеш
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Тәҙрә аша ҡарау.** Тышта ҡош азығы, мәктәптән ҡайтҡан балалар йәки ҡар яуыуы.
+- **Балыҡ һауыҙы йәки әкрен видео.** Шау-шыуһыҙ, еңел хәрәкәт.
+- **Ҙур фотолар.** Бер ваҡытта бер аныҡ фото, күҙ кимәлендә тотоу.
+- **Төҫ һәм рәсем.** Төҫлө матаһы киҫәктәрен, сәскәләрҙе йәки салфеткаларҙы төҫтәр буйынса тәртипкә килтереү, йәки беҙҙең [буяу биттәре](/games/coloring/) йыйынтығынан ябай бит.
+- **Тышта.** NHS еҫле үҫемлектәре, текстуралы өлөштәре һәм һыу эйәләре булған сенсор баҡсалар тәҡдим итә. Ҡарағыҙ: [тышта һәм баҡсасылыҡ эшмәкәрлеге](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Сенсор тартмаһы нисек яһарға
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Тема һайлағыҙ**, кешенең тормошона бәйле: диңгеҙ, баҡса, ашхана, остахана, тегеү.
+2. **Биш-алты ҙур, хәүефһеҙ әйбер һайлағыҙ**, мәҫәлән, ҙур диңгеҙ ҡабығы, ағас ҡалаҡ, йомшаҡ шарф, ябылған ҡоро лаванда ҡапсығы йәки тигеҙ ағас блок.
+3. **Һәр әйберҙе тикшерегеҙ**: кесе өлөштәр, үткер ситтәр, бәйләнмәгән ептәр һәм ватыла торған нәмәләр өсөн.
+4. **Бер ваҡытта бер әйберҙе сығарығыҙ.** Бирегеҙ, аңлатығыҙ һәм кешегә үҙе тикшерергә мөмкинлек бирегеҙ.
+5. **Тартманы һуңынан йыйып ҡуйығыҙ**, шулай ул айырыуса булып ҡала, ә киләһе тапҡыр ҡулланыр алдынан әйберҙәр яңынан тикшерелә.
 
-## Safety first
+## Иң беренсе — хәүефһеҙлек
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Сенсор эшмәкәрлектәр еңел, әммә берничә хәүеф мөһим. Деменциялы кайһы бер кешеләр ашамлыҡ булмаған нәмәләрҙе ашарлыҡ нәмәләр менән ҡарыштыра, һәм ашау-эсеү ваҡыт үтеү менән ауырлаша. NIA иҫкәртә: һуңғы этаптағы йотыу проблемалары тамаҡ тығылыу хәүефен арттыра.
 
-| Risk | What to do |
+| Хәүеф | Нимә эшләргә |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Тамаҡ тығылыу | Йотолмаҫлыҡ кенә ҙур әйберҙәр ҡулланығыҙ. Тартмала бәйләнмәгән төймәләр, моңдар, тәңкәләр, шарҡыштар йәки кесе уйынсыҡтар булмаһын. Ашамлыҡты бары ҡарау командаһы хәүефһеҙ тип иҫәпләгән текстураларҙа ғына тәҡдим итегеҙ. |
+| Ашамлыҡҡа оҡшаған нәмәләр | NIA лосьондарҙы, ял, шампундарҙы һәм духиҙы ҡулдан алыҫ тотоуҙы кәңәш итә: улар ашамлыҡҡа оҡшарға йәки еҫләнергә мөмкин. Сәнғәти емештәрҙе лә алып ташлағыҙ. Сенсор продукттарҙы ҡулланғандан һуң йыйып ҡуйығыҙ. |
+| Аллергия | Башлар алдынан ҡует, ҡыҙыл сумырға, латекс, йөн, үләндәр йәки еҫтәргә аллергияны тикшерегеҙ. |
+| Көслө еҫтәр | Көслө духиҙарҙан һәм эфир майҙарынан тартынығыҙ, айырыуса астма йәки башҡа һулыш проблемалары булғанда. Йомшаҡ, тәбиғи еҫтәр хәүефһеҙерәк. |
+| Тире | Массаждан алда тире ярыҡ, яраһыҙ йәки нескә түгелме, тикшерегеҙ. Еңел баҫыу ҡулланығыҙ; кеше йыйрылһа — туҡтағыҙ. |
+| Температура | Йылы сепрәктәрҙе һәм эскелектәрҙе тәүҙә үҙегеҙҙең беләгегеҙҙә һынағыҙ. |
+| Үткер йәки зарарлы әйберҙәр | Үткер ҡоралдар, пыяла йәки зарарлы ҡул эше материалдары юҡ. |
 
-## Does aromatherapy help?
+## Аромотерапия ярҙам итәме?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Бәлки, күренерлек файҙа килтермәйәсәк. [Cochrane тикшереүе деменция өсөн аромотерапия тураһында](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) 708 кеше ҡатнашҡан 13 тикшереүгә бәйле; барыһы ла ҡарау йорттарында үткәрелгән, һәм ышандырырлыҡ файҙа табылмаған. Тикшереүҙәр бик ваҡ, һөҙөмтәләре ҡаршы килә, яҡ тәьҫирҙәре яҡшы яҙылмаған. Әгәр кеше еңел, таныш еҫте, мәҫәлән, баҡсанан лаванданы, ошата икән — уны бүлешергә сәбәп бар. Ә был дауалау түгел.
 
-## How to offer a sensory activity
+## Сенсор эшмәкәрлекте нисек тәҡдим итергә
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Тыныс мәл һайлағыҙ** һәм телевизорҙы һүндерегеҙ.
+- **Алдан яҡынлашығыҙ**, исемен әйтегеҙ, тейер алдынан һорағыҙ йәки хәбәр итегеҙ: «Миндә лосьон бар. Ҡулығыҙҙы массажлап ҡарайыкмы?»
+- **Бер ваҡытта бер нәмә тәҡдим итегеҙ**, ҡабул итмәҫлек булмаһын өсөн.
+- **Реакцияһын күҙәтегеҙ.** Йомшаҡ йөҙ, ирекле ҡулдар йәки йылмайыу — яҡшы билдәләр. Артҡа сигенеү, йыйрылыу йәки борсолоу — туҡтау кәрәк.
+- **Ҡыҫҡа тотоғоҙ.** Биш тыныс минут — яҡшы сессия.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Бергә тын алыу туҡтауы, мәҫәлән [тыныс тын алыу](/games/calm-breathing/), әкрен тамамлау өсөн яраҡлы булырға мөмкин. Карауат янындағы идеялар өсөн [һуңғы этап эшмәкәрлектәрен](/activities/late-stage/) ҡарағыҙ, ә кискә ҡараған борсолоу тураһында — [көндөң һуңғы өлөшөндә борсолоу](/caregiving/late-day-restlessness/).

@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Може ли деменцията да се предотврати?"
+seoTitle: "Какво показват изследванията за риска от деменция"
+description: "Какво откриха Комисията на Lancet от 2024 г. и големите изпитвания за намаляване на риска от деменция, какво не откриха и какви стъпки да обсъдите с лекар."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Никой не може да обещае, че ще предотврати деменцията. Комисията на Lancet от
+  2024 г. изчислява, че почти половината от случаите на деменция в света са
+  свързани с 14 рискови фактора, които потенциално могат да се променят, като
+  високо кръвно налягане, загуба на слух и неподвижност. Изпитванията показват
+  малки ефекти върху тестовете за мислене, но не и доказателство за по-малко
+  случаи на деменция. Много хора, които правят всичко „както трябва“, все пак
+  развиват деменция, и това не е нечия вина.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Комисията на Lancet от 2024 г. свързва около 45% от случаите на деменция в света с 14 потенциално променливи рискови фактора. Това е оценка за населението, а не лична гаранция."
+  - "Намаляването на риска означава да се намалят шансовете за цялото население. Не означава, че който и да е човек може да избегне деменцията."
+  - "Големи изпитвания като FINGER, US POINTER и SPRINT MIND откриха малки ползи в тестовете за мислене или в леко когнитивно увреждане, но никое не доказа, че програма за начин на живот предотвратява деменцията."
+  - "Възрастта е най-големият известен рисков фактор за болестта на Алцхаймер и не може да бъде променена. Много хора със здравословен начин на живот все пак развиват деменция."
+  - "Стъпките, които най-често се изследват, като лечение на високото кръвно налягане, използване на слухови апарати и поддържане на активност, си струва да се обсъдят с лекар, защото помагат и за други аспекти на здравето."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Може ли деменцията да се предотврати?"
+    a: "За отделния човек няма доказан начин да се предотврати деменцията. Изследванията показват, че намаляването на някои рискове, като високото кръвно налягане, нелекуваната загуба на слух и тютюнопушенето, може да намали шанса за деменция в рамките на населението или да отложи появата ѝ. Това са шансове, а не обещания."
+  - q: "Какво означава цифрата 45% от Комисията на Lancet?"
+    a: "Комисията на Lancet от 2024 г. изчислява, че около 45% от случаите на деменция в света са свързани с 14 рискови фактора, които теоретично могат да бъдат променени. Оценката приема, че тези фактори причиняват деменция, а авторите отбелязват, че някои връзки може да са само частично причинно-следствени. Тя описва цели населения и не казва нищо за риска на конкретен човек."
+  - q: "Ако моят родител е водил здравословен живот, защо е развил деменция?"
+    a: "Възрастта, гените и много фактори, които никой не контролира, играят голяма роля при деменцията. Авторите на Комисията на Lancet отбелязват, че намаляването на риска за цялото население не гарантира, че всеки отделен човек ще избегне деменцията. Диагнозата не е признак, че някой е сгрешил."
+  - q: "Късно ли е да се намали рискът от деменция след 65-годишна възраст?"
+    a: "Комисията на Lancet казва, че никога не е твърде рано или твърде късно да се намали рискът, въпреки че голяма част от доказателствата се отнасят до средната възраст. Лечението на проблемите със слуха и зрението, поддържането на активност и поддържането на връзка с хората са примери за стъпки в по-късна възраст, които са изследвани. Говорете с лекар за това какво е подходящо за вашето здраве."
+  - q: "Игрите за мозъка или специалните диети предотвратяват ли деменцията?"
+    a: "Нито една игра, храна, добавка или диета не е доказано, че предотвратява деменцията. Тригодишно изпитване на MIND диетата не установи значима разлика в мисленето в сравнение с контролна диета, а търговските приложения за тренировка на мозъка не са показали ефектите, наблюдавани в изследователските изпитвания."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,289 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ако се грижите за човек с деменция или сте наблюдавали как родител живее с нея,
+вероятно сте се питали дали можеше да се спре и дали може да ви се случи. Тази
+страница излага какво казват изследванията, на прост език. Краткият отговор е:
+никой не може да обещае, че ще предотврати деменцията, но изследванията
+показват, че някои рискове могат да се намалят и че намаляването им за цялото
+население може да означава по-малко хора с деменция или по-късна поява на
+болестта.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Това е обща информация, а не медицинска консултация. Моля, прочетете нашето
+[медицинско предупреждение](/medical-disclaimer/) и говорете с лекар за
+вашето здраве.
 
-## Can dementia be prevented?
+## Може ли деменцията да се предотврати?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+За отделния човек няма доказан начин да се предотврати деменцията. Националният
+институт по стареене (NIA) казва, че въпреки че
+[още нищо не е доказано като предотвратяващо болестта на Алцхаймер](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+изследователите са открили обещаващи подходи и тепърва разбират кое може и кое
+не може да работи.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Изследванията *показват*, че някои здравословни състояния и навици са свързани
+с по-висок шанс за деменция. Когато тези рискове са по-ниски в цялото население,
+може да има по-малко хора с деменция или тя да се появи по-късно в живота. Това
+е съвсем различно от гаранция.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Един обнадеждаващ знак: Комисията на Lancet от 2024 г. съобщава, че в някои
+страни с високи доходи, включително САЩ и Великобритания, делът на възрастните
+хора с деменция е намалял. Авторите смятат, че това вероятно се дължи отчасти
+на по-доброто образование, по-добрата здравна грижа и по-малкото увреждане на
+кръвоносните съдове през целия живот, според
+[обобщението на University College London за доклада](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Какво откри Комисията на Lancet през 2024 г.?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Комисията на Lancet по предотвратяването, лечението и грижите при деменция е
+група от 27 изследователи на деменцията, които преглеждат доказателствата на
+всеки няколко години. Техният доклад от 2024 г. посочва **14 рискови фактора**,
+които потенциално могат да се променят, и изчислява, че заедно те обясняват
+**почти половината (около 45%) от случаите на деменция в света**. Според
+авторите тези случаи *теоретично* биха могли да бъдат предотвратени или отложени,
+ако рисковете бъдат премахнати
+([докладът на Комисията на Lancet от 2024 г.](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Четиринадесетте фактора, групирани според етапа от живота, на който доказателствата
+са най-силни:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Ранен живот:** по-малко образование.
+- **Средна възраст (приблизително между 40 и 65 години):** загуба на слух, висок
+  LDL („лош“) холестерол, депресия, травма на главата, физическа неподвижност,
+  диабет, тютюнопушене, високо кръвно налягане, затлъстяване и силно пиене на
+  алкохол.
+- **По-късен живот:** социална изолация, замърсен въздух и нелекувана загуба на
+  зрението.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Двата най-нови добавки през 2024 г. са високият LDL холестерол и нелекуваната
+загуба на зрението. Факторите, свързани с най-голям дял от случаите, са загубата
+на слух и високият LDL холестерол (около 7% всеки), следвани от по-малкото
+образование и социалната изолация (около 5% всеки).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Нашето [ръководство за рисковите фактори](/brain-health/risk-factors/) разглежда
+всички 14 в таблица, с това, което показват изследванията, и с това, което можете
+да направите.
 
-### What the 45% figure does not mean
+### Какво не означава цифрата 45%
 
-It is easy to misread this number, so it helps to be precise:
+Това число лесно се разбира погрешно, затова е полезно да бъдем точни:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Това е оценка за населението.** Тя описва случаите на деменция в целия свят,
+  а не вашия шанс или шанса на вашия родител.
+- **Тя приема причинно-следствена връзка.** Авторите казват, че са включили само
+  рискови фактори с убедителни доказателства, но че някои връзки може да са само
+  частично причинно-следствени. Например депресията в по-късна възраст понякога
+  може да е ранен симптом на деменция, а не причина за нея.
+- **Тя не гарантира нищо за един човек.** Резюмето на UCL отбелязва, че
+  намаляването на риска работи на ниво население и не гарантира, че всеки
+  отделен човек ще избегне деменцията.
+- **Другата половина не се обяснява с тези фактори.** Възрастта, гените и
+  причините, които учените все още не разбират, представляват останалото.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Каква е разликата между „намаляване на риска“ и „предотвратяване“?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Намаляването на риска** означава намаляване на шансовете. Ако голяма група
+хора намали кръвното си налягане, с течение на години може да се разболеят от
+деменция по-малко, отколкото иначе биха се разболели. Някои от хората в тази
+група все пак ще я развият.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Предотвратяването** означава да се спре нещо да се случи изобщо. При деменцията
+изследванията днес не могат да обещаят това на никого.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Изследователите говорят и за **отлагане**. Комисията на Lancet съобщава за нови
+данни, че намаляването на риска може да отложи началото на деменцията и да
+съкрати времето, през което човек живее с влошено здраве. Дори отлагане с няколко
+години може да е от голямо значение за човека и семейството му.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+На този сайт използваме „намаляване на риска“ и „свързано с“ нарочно. Когато
+видите продукт, добавка или програма, която обещава да „предотврати болестта на
+Алцхаймер“, подходете с внимание. NIA съветва да се консултирате с лекар, преди
+да пробвате каквото и да е хапче или лечение, което обещава такова предотвратяване,
+защото подобни продукти може да са небезопасни, да са пари на вятъра или и двете.
 
-## What have large trials found?
+## Какво показват големите изпитвания?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Наблюдателните проучвания (които следят какво се случва с хората във времето)
+могат да покажат връзки. Рандомизираните изпитвания, при които хората се
+разпределят към програма или към група за сравнение по жребий, са по-силната
+проверка. Ето какво показват някои от най-известните изпитвания.
 
-### FINGER (Finland)
+### FINGER (Финландия)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Изпитването FINGER включва 1260 възрастни на възраст от 60 до 77 години, които
+са в по-висок риск от деменция. Половината получиха двугодишна програма със
+съвети за хранене, упражнения, компютърни упражнения за мозъка и проверки на
+сърдечното и съдовото здраве; другата половина получи общи здравни съвети.
+Групата с програмата се представи леко по-добре в набор от тестове за мислене,
+малка, но статистически значима разлика
+([изпитването FINGER в The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)).
+Изпитването измерва резултати от тестове, а не диагнози на деменция.
 
-### US POINTER (United States)
+### US POINTER (Съединени щати)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER включва 2111 възрастни на възраст от 60 до 79 години, които са били
+неактивни, са се хранили по-малко здравословно и са имали други рискови фактори.
+И двете групи бяха насърчавани да са по-физически и умствено активни, да се
+хранят по-добре, да поддържат социални контакти и да следят сърдечното си
+здраве. Едната група получи структурирана програма с наставник, а другата
+работеше самостоятелно. През две години резултатите от тестовете за мислене се
+подобриха в **двете** групи, а малко повече в структурираната
+([изпитването US POINTER в JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)).
+Авторите казват, че е нужно по-дълго проследяване, за да се разбере дали
+разликата има значение в ежедневието. Тъй като нямаше група без никаква намеса,
+изпитването не може да каже колко е помогнала всяка програма в сравнение с
+липсата на промяна.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (кръвно налягане)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND проучи 9361 възрастни в САЩ на 50 и повече години с високо кръвно
+налягане. Те бяха разпределени към по-ниска цел за кръвното налягане (горната
+стойност под 120) или към стандартната цел (под 140). По-ниската цел значително
+намали **леката когнитивна недостатъчност**, етап на проблеми с паметта и
+мисленето, който може да предхожда деменцията. За **вероятната деменция**
+случаите бяха по-малко в групата с по-ниската цел, но разликата не беше
+статистически значима. Изпитването беше спряно по-рано и имаше по-малко случаи
+на деменция, отколкото се очакваше, затова може да е било твърде малко, за да
+отговори на този въпрос
+([SPRINT MIND в JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Какво показват обзорите заедно
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Обзор на Cochrane от 2021 г. обедини девет големи изпитвания на програми, които
+се занимават с няколко риска едновременно, с над 18 000 души. Той установи малка
+полза за тестовете за мислене, но **няма ясна разлика в броя на хората, които са
+развили деменция**, в двете изпитвания, които са я измервали
+([обзор на Cochrane за многообластни интервенции](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Обзор от 2017 г. на Националните академии на науките, инженерството и медицината,
+обобщен от NIA, намира „обнадеждаващи, но неубедителни“ доказателства за три
+подхода: контрол на високото кръвно налягане, повишаване на физическата
+активност и когнитивно обучение.
 
-## Does it matter when you start?
+## Има ли значение кога започвате?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Съветът на Комисията на Lancet е да се намаляват рисковете възможно най-рано и
+да се поддържат ниски колкото може по-дълго: „колкото по-рано, толкова по-добре“
+и „колкото по-дълго, толкова по-добре“. Той също така казва, че никога не е
+твърде рано или твърде късно да се намали рискът. Голяма част от доказателствата
+се отнасят до средната възраст, приблизително между 40 и 65 години, но някои
+фактори, като загубата на зрение и социалната изолация, са рискове за по-късен
+живот, при които действията все още могат да имат смисъл.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Докладът казва, че вече има по-силни доказателства, че по-продължителното
+излагане на риск има по-голям ефект. Например диабетът, който започва в средна
+възраст, изглежда има по-голямо значение от диабета, който започва по-късно.
 
-## Is dementia risk the same for everyone?
+## Еднакъв ли е рискът от деменция за всички?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Не. Комисията установи, че хората в страни с ниски и средни доходи, хората от
+малцинствени групи и хората с по-малко средства често носят повече от тези
+рискове, поради което деменцията често се появява по-рано. Много рискове са
+свързани с обстоятелства, които хората не са избрали, като качеството на
+образованието, което са получили като деца, въздуха в мястото, където живеят, и
+това дали здравословната храна е достъпна и достъпна по цена.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Затова препоръките на Комисията са насочени както към правителствата, така и
+към отделните хора: добро образование за всички деца, по-чист въздух, мерки за
+намаляване на тютюнопушенето, по-малко захар и сол в храните, продавани в
+магазини и ресторанти, и слухови апарати за всеки, който има нужда от тях.
+Личните усилия имат значение, но значение има и средата, в която хората живеят.
+Това е още една причина да не обвиняваме никого за диагноза.
 
-## What are the honest limits of this research?
+## Какви са честните ограничения на това изследване?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Деменцията се развива с десетилетия**, но повечето изпитвания продължават
+  от две до пет години. Измерването на самата деменция, а не само на резултатите
+  от тестове, изисква много дълги и много големи проучвания.
+- **Повечето изпитвания измерват тестове за мислене.** Малко подобрение в
+  тест не означава непременно, че по-малко хора ще развият деменция или че
+  ежедневието ще стане по-лесно.
+- **Доброволците често са по-здрави** и с по-високо образование от обществото
+  като цяло. Комисията на Lancet отбелязва, че голяма част от доказателствата все
+  още идват от страни с високи доходи и че малцинствата са недостатъчно
+  представени.
+- **Някои връзки работят в двете посоки.** По-малката активност или по-малката
+  социална ангажираност може да бъдат ранен ефект на деменцията, а не само причина.
+- **Изпитванията на диети досега са разочароващи.** Тригодишно изпитване на
+  MIND диетата не установи значима разлика в мисленето в сравнение с контролна
+  диета. Вижте нашето [ръководство за хранене](/brain-health/diet/).
+- **Игрите за мозъка не са доказано средство за предотвратяване на деменция.**
+  Вижте нашето ръководство за [игрите за мозъка и деменцията](/brain-health/brain-games/).
+- **Има много ограничени данни за гладуването при хора**, а то може да е рисковано
+  за възрастни. Вижте нашето [ръководство за гладуване](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ако човек е направил всичко „както трябва“, защо все пак е развил деменция?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Защото деменцията не е просто резултат от избори. NIA казва, че
+[възрастта е най-големият известен рисков фактор за болестта на Алцхаймер](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+а тя не може да се промени. Гените също играят роля. А учените все още не
+разбират напълно какво причинява болестта на Алцхаймер при повечето хора.
+Дори ако всичките 14 рискови фактора бъдат премахнати, собствената оценка на
+Комисията на Lancet оставя повече от половината случаи необяснени.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Затова, ако се грижите за човек, който е спортувал, хранил се е добре, никога
+не е пушил и въпреки това е развил деменция, от негова страна или от ваша не е
+имало нищо погрешно. Ако самите вие живеете с деменция, не е ваша вина. Чувството
+за вина е често срещано в семействата, но то не е заслужено. Сега важното е
+комфортът, връзката с другите и добрите дни, а нашите [идеи за дейности](/activities/ideas/)
+и [ръководството за грижа за себе си](/caregiving/caregiver-self-care/) са
+добро място да започнете.
 
-## What steps can you talk over with a doctor?
+## Какви стъпки можете да обсъдите с лекар?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Това са областите, които най-често се изследват. Заслужава да ги повдигнете при
+преглед, защото повечето от тях помагат и на сърцето, настроението и
+самостоятелността, независимо от това какъв ще се окаже ефектът им върху
+деменцията.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Кръвно налягане.** Попитайте какви са вашите стойности и каква цел е подходяща
+   за вас. Комисията на Lancet предлага да се стреми към горна стойност 130 или
+   по-ниска от около 40-годишна възраст, но подходящата цел за възрастен човек
+   зависи от общото му здраве.
+2. **Слух.** Поискайте преглед на слуха и попитайте дали слуховият апарат би
+   помогнал. Нашето [ръководство за слуха](/brain-health/hearing/) обяснява
+   изследванията.
+3. **Зрение.** Правете редовни очни прегледи и попитайте дали проблеми като
+   катаракта могат да се лекуват.
+4. **Холестерол.** Попитайте дали трябва да проверите LDL холестерола си и дали
+   нещо трябва да се промени.
+5. **Кръвна захар.** Ако имате диабет, попитайте как да го контролирате безопасно.
+6. **Настроение.** Депресията е честа и може да се лекува. Кажете на лекаря си,
+   ако сте се чувствали тъжни или сте загубили интерес към нещата за повече от
+   няколко седмици.
+7. **Тютюнопушене и алкохол.** Попитайте за помощ за отказване от цигарите и за
+   безопасни граници на алкохола.
+8. **Движение.** Попитайте какъв вид активност е безопасна за вас. Нашето
+   [ръководство за упражнения](/brain-health/exercise/) съдържа идеи.
+9. **Защита на главата.** Носете каска при колоездене и контактни спортове и
+   попитайте за профилактика на падания.
+10. **Поддържане на връзки.** Времето с други хора е част от здравословния живот.
+    Вижте нашето ръководство за [социалната връзка](/brain-health/social-connection/)
+    и също за [съня](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Преди да промените лекарства, храна, добавки, гладуване или упражнения, първо
+говорете с лекаря си, особено ако имате сърдечно заболяване, диабет, история на
+падания или вече живеете с деменция.
 
-## Talk with a doctor
+## Говорете с лекар
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ако забележите промени в паметта или мисленето, които ви тревожат, у себе си или
+у друг човек, запишете час при лекар. NIA отбелязва, че
+[проблемите с паметта могат да имат и други причини](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+като странични ефекти от лекарства, проблеми с щитовидната жлеза, депресия или
+нисък витамин B12, и че някои от тези проблеми отминават, след като причината
+бъде лекувана. Нашето [ръководство за предупредителни признаци](/brain-health/warning-signs/)
+обяснява на какво да обърнете внимание.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Потърсете спешна помощ** при внезапни промени: внезапно объркване, слабост или
+изтръпване от едната страна на тялото, затруднено говорене или силно главоболие
+могат да бъдат признаци на инсулт или друга спешна ситуация. Обадете се на 112.
 
-## Where Golden Moments fits
+## Къде е Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments създава прости съвместни дейности, като
+[карти за разговор](/games/conversation-cards/),
+[картинко бинго](/games/picture-bingo/) и
+[пауза за спокойно дишане](/games/calm-breathing/). Те са за удоволствие и
+времето, прекарано заедно. Те не са лечение и не предотвратяват и не забавят
+деменцията.

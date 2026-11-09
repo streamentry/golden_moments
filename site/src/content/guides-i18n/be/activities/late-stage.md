@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Заняткі на позняй стадыі дэменцыі, ў ложку ці ў крэсле"
+seoTitle: "Заняткі на позняй стадыі дэменцыі: ідэі для ложка і крэсла"
+description: "Мяккія заняткі на позняй стадыі дэменцыі, у тым ліку ў ложку ці ў крэсле: музыка, дотык, чытанне ўслых, гукі і побыт разам, з парадамі пра бяспеку."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  На позняй стадыі дэменцыі заняткі будуюцца на пачуццях і на вашай блізкасці:
+  любімая музыка, трыманне за рукі, павольны масаж рук, чытанне ўслых,
+  разгляданне фатаграфій, гукі прыроды і сядзенне каля акна ці на свежым
+  паветры. Гэтыя заняткі падыходзяць і ў ложку, і ў крэсле. Трымайце кароткія
+  сеансы, глядзіце на твар і рукі, каб бачыць, ці камфортна чалавеку, і
+  памятайце: ваша прысутнасць і ёсць занятак.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Сувязь яшчэ магчыма. На позняй стадыі свет адчуваецца галоўным чынам праз пачуцці."
+  - "Музыка, мяккі дотык, знаёмыя голасы і мяккія рэчы, якія можна трымаць, часта дасягаюць чалавека там, дзе словы ўжо не працуюць."
+  - "Амаль кожная ідэя тут падыходзіць таму, хто ляжыць у ложку ці сядзіць у крэсле."
+  - "Сачыце за камфортам і дыскамфортам па твары, руках і дыханні і спыняйцеся пры любым прыкмеце трывогі."
+  - "Не пакідайце дробных прадметаў у досяг і прапануйце ежу ці піццё толькі так, як параіць каманда догляду, бо глытанне можа стаць небяспечным."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Якія заняткі можна рабіць з чалавекам на позняй стадыі дэменцыі, які ляжыць у ложку?"
+    a: "Уключыце яму любімую музыку, трымайце за руку, зрабіце павольны масаж рук з крэмам, пачытайце ўслых з любімай кнігі ці малітвы, пакажыце фатаграфіі або ўключыце мяккія гукі прыроды. Адкрыйце фіранкі, каб ён мог бачыць вуліцу. Кароткія спакойныя сеансы з адной рэччу за раз звычайна працуюць лепш за ўсё."
+  - q: "Ці могуць людзі на позняй стадыі дэменцыі яшчэ любіць музыку?"
+    a: "Многія могуць. Alzheimer's Association адзначае, што нават на позняй стадыі чалавек можа адбіваць рытм ці спяваць разам з песняй з дзяцінства. Выбірайце музыку, якую ён любіў у маладосці, і трымайце гучнасць мяккай."
+  - q: "Як зразумець, ці падабаецца чалавеку занятак?"
+    a: "Сачыце за дробнымі прыкметамі: расслабленыя плечы, мякчэйшы твар, позірк у вочы, гул, ціск рукі ці больш павольнае дыханне. Скрыўленне твару, адсоўванне, неспакой ці стогн могуць азначаць дыскамфорт ці боль. Калі вы бачыце гэта, спыніцеся і скажыце каманде догляду, калі гэта працягваецца."
+  - q: "Ці варта наведваць, калі чалавек мяне ўжо не пазнае?"
+    a: "Варта. Нацыянальны інстытут старэння (National Institute on Aging) адзначае, што сама прысутнасць можа супакойваць, а дотык, музыка і гісторыі могуць і далей даваць суцяшэнне пры запушчанай дэменцыі. Ваш голас і дотык могуць быць знаёмымі нават тады, калі імя — не."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+На позняй стадыі дэменцыі чалавек можа гаварыць вельмі мала, патрабаваць дапамогі ва ўсім, што тычыцца побыту, і большую частку дня праводзіць у ложку ці ў крэсле. Можа здавацца, што разам рабіць нічога не застаецца. Але застаецца. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) адзначае, што нейкае ядро асобы чалавека можа захавацца і што на гэтай стадыі свет адчуваецца галоўным чынам праз пачуцці. Музыка, дотык, знаёмы голас і ваша спакойная прысутнасць і далей могуць даваць суцяшэнне і моманты блізкасці.
 
-## What activities help in late-stage dementia?
+## Якія заняткі дапамагаюць на позняй стадыі дэменцыі?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+На гэтай стадыі больш за ўсё дапамагаюць простыя заняткі для пачуццяў і ціхая прысутнасць. Alzheimer's Association раіць ставіць любімую музыку, чытаць часткі значных кніг, ужываць крэм з любімым пахам і разам сядзець на вуліцы ў добры дзень. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) дадае распавяданне гісторый, паказ фатаграфій, мяккі дотык ці масаж, а таксама музыку, белы шум або гукі прыроды, і адзначае, што адна ваша прысутнасць можа супакойваць.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) адзначае, што людзі на позняй стадыі часта моцна патрабуюць нешта трымаць пры сабе для суцяшэння, і раіць простыя заняткі для пачуццяў, мяккія расцяжкі, рух з шалікам, музыку, наведванні жывёл, дотык чалавека і творчасць без строгіх правілаў.
 
-## Activities for someone in bed or a chair
+## Заняткі для чалавека ў ложку ці ў крэсле
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Ставіце яго музыку.** Выбірайце песні з юнацтва, з веры ці з сямейнага жыцця. Трымайце гучнасць мяккай і сядзьце побач. Нават цяпер некаторыя людзі пастукваюць пальцам ці гудуць. Гл. [заняткі з музыкай](/activities/music/).
+2. **Трымайцеся за рукі.** Нават проста трыманне рукі з мяккім рухам вялікага пальца — гэта занятак. Спачатку скажыце, што робіце.
+3. **Зрабіце павольны масаж рук.** Размясціце крыху крэму на далонях і гладзьце ад запясця да кончыкаў пальцаў. Выбірайце крэм без пахаў або з пахам, які ён заўсёды любіў, калі скура гэта цярпіць.
+4. **Чытайце ўслых.** Любімы верш, урывак з добра знаёмай кнігі, Святое Пісанне ці спартыўная старонка газеты. Рытм вашага голасу важнейшы за словы.
+5. **Распавядайце гісторыю.** Пра сямейную паездку ці дзень вяселля. Адказы не патрэбныя.
+6. **Паказвайце фатаграфіі.** Трымайце адно вялікае фота за раз на ўзроўні вачэй і цёпла распавядайце, што на ім. Не пытайцеся, хто на ім.
+7. **Дайце што-небудзь мяккае трымаць.** Складзеную сурвэтку, кавалак флісу ці мяккую цацку. NIA раіць даць чалавеку сурвэтку, каб ён трымаў яе, пакуль яго перамяшчаюць, — тады ён радзей будзе хапацца за вас ці за мэблю.
+8. **Уключайце гукі прыроды.** Дождж, хвалі ці спевы птушак ціхім голасам могуць змякчыць шумны пакой.
+9. **Прынясіце знешні свет у пакой.** Адчыніце фіранкі, паставце кармушку для птушак за акном або прынясіце некалькі свежых кветак ці лісточкаў, каб глядзець і датыкацца.
+10. **Выходзьце на вуліцу.** Калі чалавек можа сядзець у інвалідным крэсле, некалькі хвілін у ценю ў мяккі дзень могуць быць вельмі добрымі.
+11. **Расчэсвайце валасы ці прапануйце цёплую сурвэтку.** Павольны, мяккі догляд і цёплая сурвэтка для рук і твару могуць здавацца клапатлівымі.
+12. **Рухайцеся пад музыку мяккімі рухамі.** Памахайце разам лёгкім шалікам ці пагайдайце рукамі ў такт песні. Для расцяжак і рухаў суставамі спачатку папрасіце фізіятэрапеўта ці медсястру паказаць, як гэта рабіць бяспечна.
+13. **Займайцеся вольнай творчасцю.** Размазвайце нетаксічную фарбу на вялікім аркушы губкай ці рукой, накіроўваючы яго рукой. Правільнага выніку няма.
+14. **Прымайце наведванні жывёл.** Спакойная хатняя жывёла на ложку ці на каленях, калі чалавеку падабаліся жывёлы і абстаноўка гэта дазваляе.
+15. **Дыхайце разам павольна.** Сядзьце побач і дыхайце павольна, так каб было чуваць. [Спакойнае дыханне](/games/calm-breathing/) можа задаваць рытм вам абаім, а пачынаеце і спыняеце вы.
+16. **Проста будзьце побач.** Сядзьце паблізу, гудзеце, вяжыце ці ціха чытайце. Вашай прысутнасці дастаткова.
 
-## How to share an activity at this stage
+## Як дзяліцца заняткам на гэтай стадыі
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Падыходзьце спераду.** Назавіце яго імя і сваё, гаварыце павольна і мяккім голасам, перш чым дакрануцца.
+- **Прапануйце па адной рэчы.** Выключыце тэлевізар перад тым, як ставіць музыку. Займайцеся адным пачуццём за раз.
+- **Трымайце кароткім.** Некалькіх хвілін можа быць дастаткова. Некалькі кароткіх момантаў на працягу дня лепшыя, чым адзін доўгі сеанс.
+- **Спачатку зручна ўладкуйце.** Праверце, ці добра падтрымліваецца чалавек. NIA раіць падстаўку пад рукі, якая дапамагае рукам адпачываць і падтрымлівае верхнюю частку цела пры сядзенні.
+- **Сачыце за рэакцыяй.** Расслабленыя рукі, мякчэйшы твар, позірк у вочы ці гул сведчаць пра камфорт. NIA адзначае, што стогны, скрыўленне твару, абарона пэўнай часткі цела ці раптоўная трывога могуць быць прыкметамі болю. Спыніцеся і скажыце каманде догляду.
 
-## A quick guide by sense
+## Кароткі дапаможнік па пачуццях
 
-| Sense | Ideas | Take care |
+| Пачуццё | Ідэі | Асцярожна |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Слых | Любімая музыка, ваш голас, які чытае, гукі прыроды | Трымайце гучнасць нізкай; адзін гук за раз |
+| Дотык | Масаж рук, трыманне за рукі, мяккая тканіна, цёплая сурвэтка | Спачатку спытайце ці папярэдзьце; праверце, ці скура не баліць і не пашкоджана |
+| Зрок | Фатаграфіі, кветкі, від з акна, павольнае відэа прыроды | Трымайце прадметы на ўзроўні вачэй; добрае святло, без бліскучасці |
+| Нюх | Любімы крэм, свежыя кветкі, кава, якая завараецца паблізу | Пазбягайце моцных пахаў; праверце алергіі і дыханне |
+| Смак | Невялікі кавалачак любімага смаку | Толькі тое, што каманда догляду назвала бяспечным па ежы і тэкстуры |
 
-## Safety at this stage
+## Бяспека на гэтай стадыі
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Глытанне на позняй стадыі можа стаць цяжкім, і NIA папярэджвае, што гэта павялічвае рызыку задушэння. Не пакідайце дробныя прадметы ў дасягальнасці, і прапануйце ежу ці піццё толькі ў тэкстуры і паставе, якія рэкамендуе каманда догляду. Пры дотыкавых занятках мякка глядзіце на скуру, бо яна можа лёгка парвацца ці збіцца. Больш пра бяспечныя заняткі для пачуццяў — гл. [заняткі для пачуццяў](/activities/sensory/).
 
-## Looking after yourself too
+## Клапаціцеся і пра сябе
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Догляд на позняй стадыі фізічна і эмацыянальна цяжкі, ці то дома, ці то падчас наведванняў у доме састарэлых. Каманды хоспіса і паліятыўнай дапамогі могуць дапамагчы з камфортам, падтрымкай і планаваннем, і NIA называе іх крыніцай дапамогі. Кароткія спакойныя наведванні вартыя таго; гл. [наведванне чалавека з дэменцыяй](/activities/visiting/). Калі вы вядзяце групы, у [групавых занятках у доме састарэлых](/activities/care-home-groups/) ёсць ідэі, як адаптаваць сеансы. І калі ласка, прачытайце [клопат пра сябе для тых, хто даглядае](/caregiving/caregiver-self-care/): адпачынак — частка добрага догляду.

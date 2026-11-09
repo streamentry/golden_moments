@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Aktiviti Long Fas Stap Blong Dementia"
+seoTitle: "Aktiviti Long Fas Stap Blong Dementia: Ol Ideas we i Fit"
+description: "Ol aidia blong aktiviti long fas stap blong dementia: hobi, gem, aotin, raetem mo planem tugeta, wetem ol smol jenis we man i stap enjoem mo i stap kontrolem."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Long fas stap blong dementia, plante man oli save kontinu long ol samting
+  we oli laekem: hobi, kad mo bod gem, kukum kaikai, gaden, wokabaot, klob,
+  fasin blong bilif mo volanitia. Ol jenis we i sensem moa oli ol smol grup,
+  ol smol trip, ol simpol plan we i raetem, mo wan pat we i stap klosap. Askem
+  man ia wanem help hem i laek, mo letem hem i lidim.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Moa man long fas stap oli stap laef wetem independens. Aktiviti oli nid fiksim smol, no jenisim olgeta."
+  - "Askem man ia wanem help hem i wantem, mo agri long wan simpol saen blong taem we help i welkam."
+  - "Smol grup, kwaet taem mo ol smol trip oli save mekem bigfala jenis."
+  - "Hemia i gud taem blong man ia i lidim ol project long laef blong hem, olsem jenal no buk blong stori blong laef."
+  - "Jusel ol gem blong enjoy. Lusim eni wan we i stat fil olsem test."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Wanem ol aktiviti we i gud long fas stap blong dementia?"
+    a: "Usually, ol sem ol samting we man i already enjoem: kad, bod gem, kukum kaikai, gaden, wokabaot, singsing, fasin blong bilif, klob mo volanitia. Yu save neidim ol ia blong oli smol moa, kwaet moa, o simpol moa. Jenal raetem, raetem leta mo mekem buk blong laef oli fit gud long stej ia tu."
+  - q: "Hao mi save helpem, be mi no tekem kontrol?"
+    a: "Askem wanem kaen help man ia i laek, mo jekem oltaem. Agri long wan tok o wan nod we i minim oke blong jamp insaed, eksampol taem wan wod o nem i no kam. Sipos i no gat risk long sefti, letem hem mekem long fasin blong hem, even if i kasem taem moa."
+  - q: "Eni man we i gat dementia long fas stap i fitim traem ol niu aktiviti?"
+    a: "Yes, sipos hem i wantem. Ol famil hobi oli isi moa, be bambae planti man oli enjoem sam samting nyu, olsem wan walking grup we i fit long dementia, wan klas blong art o wan singing grup. Traem wan taem nomo we i no gat pressure, mo lukluk hao i fil."
+  - q: "Ol app blong trenim brain oli wot long fas stap?"
+    a: "Sam man oli enjoem ol puzzle mo ol wod gem, mo hemia i gud pinis. No eni app o gem i save prufum se i save trit, slowem o stopem dementia. Sipos wan gem i mekem stres o i mekem man ia i fil se hem i fael, putum i go."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Long fas stap blong dementia, plante man oli stap laef olsem olsem we oli bin laef bifo. Oli save wok, volanitia, lukaotem fren mo ronem bigfala pat blong dei blong olgeta. Aktiviti oli no nid replesem; oli nid ol smol jenis nomo blong oli stap enjoyable. Rol blong yu i klosap moa long wan pateno dan wan kiper: wan man we i sapoti, planem wetem olgeta mo i stap nomo taem oli askem.
 
-## What activities are good in early-stage dementia?
+## Wanem ol aktiviti we i gud long fas stap blong dementia?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Ol bes aktiviti long fas stap oli usually ol wan we man i already laekem, be we i mekem isi smol. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i lis ol aidia olsem kad mo bod gem, ol gem blong faenem wod, wokabaot, dans, gaden, flaor arenjmen, storitel, pentem, singsing, jenal raetem, raetem leta, skrapbuking, kukum kaikai mo ol tradisin blong holide.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Wat we i jenis oltaem i setting, no aktiviti. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i tokbaot se ol man long fas stap oli save stat blakem ol samting we oli bin enjoem, mo i givim wan eksampol blong wan man we i fil hevi long wan bigfala pati be i save gud moa long wan smol grup. Toktok stret long ol samting we i harem moa, mo jenisim tugeta.
 
-## Ask first, and agree on how to help
+## Askem fes, mo agri long hao blong help
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) i sajestem sam fasin we i apply tu long aktiviti:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Askem stret.** "Wanem nao bae i mekem buk klob i isi moa long yu?" i gat gud ansa moa dan gesing.
+- **Tingting se oli save.** Sipos i no gat risk long sefti, letem man ia traem, mo givim enkorej, no teik kontrol.
+- **Agri long wan saen.** Jusum wan tok o wan nod we i minim "i oke blong jamp insaed," eksampol taem wan nem i no kam long taem blong kad gem.
+- **Jekem regula.** Askem sipos kantaem help i stap fit, tumas o no inaf.
 
-## Activity ideas for the early stage
+## Aktiviti aidia blong fas stap
 
-### Keep up roles and hobbies
+### Kipim ol rol mo hobi
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Kipim wan regula komitmen.** Wan wik volanitia shift, kwaea o klob i givim wik ia wan sep. Sipos i kamap stres, wan smol o kwaet rol i save moa fit.
+- **Planem kaikai tugeta.** Sipos i kam hard blong go long maket, Alzheimer's Association i sajestem askem man ia blong helpem planem menu blong wik mo raetem list insted.
+- **Kukum mo bekem.** Folem wan fevrit resipi tugeta. Lukaotem ol ingredient long ordo befo yu stat, blong ol step oli stap oli luk.
+- **Gaden.** Planem wan bed, jusum sid o planis, mo wok tugeta. Wan raetem list blong ol wok long gaden blong wik i helpem.
+- **Kipim wan kraf i go.** Woodwok, sewing, nitting o model bilding oli save kontinu wetem ol simpol pattern mo gud laet.
 
-### Games for enjoyment
+### Gem blong enjoyment
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Pleim kad mo bod gem.** Ol fevrit gem oli isi moa. Pleim long tim blong no eni wan i stap long spot, mo keepem skoa laos o no keepem nomo.
+- **Traem wan wod sej we i gat big print.** [Wod sej](/games/word-search/) blong yumi i save pleim long skrin o printem blong wan kwaet taem.
+- **Mekem jigsaw puzzel.** Jusum namba blong pis we i rilaksim, no i tu hard. [Picture puzzle](/games/picture-puzzle/) i wan saet short version long skrin, mo gaed blong yumi long [puzzel blong dementia](/activities/puzzles/) i kavremap hao blong jusum.
+- **Joinim trivia blong fun.** Sam man oli laekem wan taem nait blong trivia long tim. Sipos i kamap olsem test, jusum sampla narafala samting, o traem [ol isi trivia kwestin](/activities/trivia/) we i gat ansa jois mo no skoa.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Gem oli blong pleża hem. No eni gem i no bin prufum se i save trit o slowem dementia; ridim moa long [brain games: wanem ol risej i seem](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Raetem, tingting mo sev
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Kipim wan jenal.** Alzheimer's Association i sajestem jenal raetem olsem wan wei blong wakem ol fil afta we man i stat save se hem i gat dementia. Sam laen long wan dei i stap gud.
+- **Lidim wan buk blong laef.** Long fas stap, i gud taem blong man ia i jusum ol fotos blong hem, mo raetem o talem ol stori we i stap behaen. Lukim [ol aktiviti blong rimembrins](/activities/reminiscence/).
+- **Raetem leta.** Wan leta long pikinini blong pikinini, wan olo fren, o wan fomas wekman i save min tu long tufala saet.
+- **Toktok long ol fotos.** [Photo pairs](/games/photo-pairs/) i tejem famil fotos i kam wan gentol matching gem, mo [ol kad blong toktok](/games/conversation-cards/) i givim isi stat blong wan toktok.
 
-### Go out and move
+### Go aotsaed mo muv
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i sajestem kontinu ol famil aotin olsem lon as yufala tufala i stap komfotebol. Planem olgeta long bes taem blong dei blong man ia, mo no letem olgeta i longfala tumas.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Smol kalsa trip.** Wan muzium, wan matine o wan art eksibisen, sopos long wan kwaet taem.
+- **Swimming.** NIA i sajestem wan pul long wan slo taem blong dei.
+- **Walking grup mo dans klas.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i mentionem dans, tai chi, yoga, swimming mo walking grup, mo ol sesen we i fit long dementia long ples we i avelebol.
+- **Singing grup mo memory kafe.** Ol relaks grup we ol man mo woman we oli gat dementia mo ol partna blong olgeta oli save mitim ol narafala we oli stap long sem sistuesen.
 
-## Small changes that keep activities enjoyable
+## Ol smol jenis we i mekem aktiviti i stap enjoyable
 
-| If this is getting harder | Try this |
+| Sipos ol samting i kamap moa hard | Traem dis |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Ol ples we i bisi o i strong nois | Go long kwaet taem, jusum ol smol grup, sit long edge blong rum |
+| Rimembrim ol niu nem | Introdusum man long nem evri taem; askem grup oli yusum nem tag |
+| Folem ol plan we i gat plante step | Raetem ol step, o lukaotem evrisamting long ordo fastaem |
+| Taed | Ol smol trip, wan rest afta, no eni narafala samting long dei ia |
+| Kipim trak insaed wan gem | Pleim long tim, simplifaem ol rul, o no keepem skoa |
+| Faenem ol wod | Letem taem; ofarem wan wod nomo sipos saen we yufala i agri long hemia i talem |
 
-## When to slow down
+## Taem blong slowem
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Stopem o jenisim wan aktiviti taem i mekem moa stres dan plesa. Ol taem we i repit frustresen, i stop long hobi, o man i talem "mi just no save moa", i gud blong toktok gentol, no blong pusum. Plante taem ansa i wan smol vesen blong sem samting. Sipos man ia i nidim moa help blong stat mo folem step, ol aidia long [middle-stage aktiviti](/activities/middle-stage/) i save moa fit. Long moa tingting long sapotiv toktok, lukim [komunikesen tips](/caregiving/communication-tips/), mo long planti moa aidia, lukim [101 aktiviti](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ol partna tu oli nidim sapot. Long fas stap i gud taem blong biltem wan netwok blong help blong yu wan; lukim [self-kea blong kea gifa](/caregiving/caregiver-self-care/).

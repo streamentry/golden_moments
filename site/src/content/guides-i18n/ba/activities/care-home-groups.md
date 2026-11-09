@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Деменция өсөн төркөм эш-сараһы: ҡарау йорттары өсөн ҡулланма"
+seoTitle: "Деменция өсөн төркөм эштәре: бинго, йырҙар, хикәйәләр"
+description: "Хәтер ҡарауы, ҡарау йорттары һәм көндөҙгө программалар өсөн төркөм эштәре: һүрәтле бинго, бергә йырлау, иҫтәлек төркөмдәре, ултырыу һәм төркөм ҙурлығы кәңәштәре."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Хәтер ҡарауында һәм көндөҙгө программаларҙа яҡшы төркөм эш-саралары ҡыҫҡа,
+  таныш һәм теләһә ниндәй кимәлдә ҡушылырға еңел була: һүрәтле бинго, бергә
+  йырлау, иҫтәлек түңәрәктәре, ябай хәрәкәт һәм бергә уйнала торған һүҙ
+  уйындары. Мөмкин булғанда төркөмдәрҙе кесерәк тотоғоҙ, ултыртығыҙ кешеләрҙе
+  бөтәһе лә күрә һәм ишетә алһын өсөн, бер ваҡытта бер генә ғәмәл бирегеҙ, һәм
+  йәнә еңелерәк роль менән тыныс сығыу юлы ҡарағыҙ.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Кесерәк төркөмдәр, күп осраҡта, ҙур сара менән сағыштырғанда яҡшыраҡ эшләй һәм күберәк кешегә генә ҡарап ултырмай, актив ҡатнашырға мөмкинлек бирә."
+  - "Кешеләрҙе түңәрәктә йәки ат туяғы формаһында, алып барыусыға яҡын ултыртығыҙ; ишетеү һәм күреү ихтыяждарын иҫкә алығыҙ, фонда тауыш булмаһын."
+  - "Һәр эште ике йәки өс кимәлдә планлаштырығыҙ, төрлө мөмкинлекле кешеләр барыһы ла ҡушыла алһын өсөн."
+  - "Һынауҙан, иҫәптән һәм еңеүселәрҙән ҡасығыҙ. Һүрәтле бингола барыһы ла тулы карточка менән тамамлай ала."
+  - "Иртә китеү, ҡарау йәки йоҡлап китеү — ҡалыпта. Тынысыраҡ урынға сығырға теләгән кешегә ярҙам итергә хеҙмәткәр әҙер торһон."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Деменция эш-сараһы өсөн ниндәй төркөм ҙурлығы яҡшы?"
+    a: "Бер генә дөрөҫ һан юҡ, ул ҡарау йортоноң кешеләренә, бүлмәгә һәм хеҙмәткәрҙәр һанына бәйле. Күп командалар күрә: кесерәк төркөмдәр бөтәһенә күрергә, ишетергә һәм ҡатнашырға мөмкинлек бирә, ә ҙур бүлмәлә үткән сараларҙа күберәк кеше генә ҡарап ултыра. Ҙур сара үткәрһәгеҙ, кешеләр араһында ултыра алыусы һәм бер-ике кешегә ярҙам итә алыусы хеҙмәткәрҙәр йәки волонтерҙар өҫтәгеҙ."
+  - q: "Төрлө мөмкинлекле төркөм менән ничек эшләргә?"
+    a: "Һәр эштә ҡушылырға бер нисә юл планлаштырығыҙ. Йырлауҙа кемдер бөтә һүҙҙе йырлай, кемдер ҡул шаплатай йәки ғына моңлана, кемдер шакшы тота. Һүрәтле бингола кемдер үҙе картинкаларҙы таба, ә кемгәлер ярҙамсы күрһәтә. Күберәк ярҙам кәрәк булған кешеләрҙе хеҙмәткәр йәки волонтер янына ултыртығыҙ."
+  - q: "Һүрәтле бингоны ярыш итмәй нисек уйнарға?"
+    a: "Һәр картинаны барыһының карточкаһы тулғансы әйтегеҙ, шулай итеп берәү ҙә ситтә ҡалмай. Һәр картинаның тураһында һөйләшегеҙ, еңеүселәр өсөн бүләк бирмәгеҙ йәки бөтәһенә бер үк кесе бүләк тараты. Маҡсат — бергә иғтибар һәм һөйләшеү, кем беренсе булып бөтә, шуға түгел."
+  - q: "Беҙҙең уйындарҙы төркөм менән ҙур экранда ҡуллана алаһығыҙмы?"
+    a: "Эйе. Беҙҙең уйындар веб-браузерҙа эшләй, шуға күрә уларҙы телевизорға йәки проекторға бәйләнгән ноутбукта йәки планшетта асып була. Һүрәтле бинго баҫтырыла торған карточкалар һәм экран өҫтөндә алып барыусыһы менән килә. «Әйтеп бөт» һәм «Һүрәт парҙары» уйындары ла бер кеше төркөм өсөн тап баҫҡанда ҙур экранда яҡшы бара."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ббыл етекселек ҡарау йорттары, хәтер ҡарауы бүлексәләре һәм көндөҙгө программа етәкселәре өсөн. Монда эшләгән форматтар, бүлмә йәйгеләүе, төрлө мөмкинлекле төркөм өсөн эште үҙгәртеү һәм беҙҙең баҫтырыла торған бинго карточкалары менән ҙур экран уйындарын ҡулланыу тураһында яҙылған. Бөтә нәмәнең маҡсаты — ыңғай тойғо, аралашыу һәм үҙ теләгенә күрә ҡатнашыу. Бында һынау юҡ.
 
-## What makes a group activity work in memory care?
+## Хәтер ҡарауында төркөм эше нимә менән уңышлы була?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Яҡшы төркөм эше таныш, ҡыҫҡа, теләһә ниндәй кимәлдә ҡушылырға еңел һәм баҫымһыҙ була. Альцгеймер ассоциацияһының [деменцияға ҡарау тәжрибәһе тәҡдимдәре](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) мәғәнәле ҡатнашыуҙы кешенең ҡыҙыҡһыныуҙарын һәм теләктәрен хуплаған, һайлау һәм уңыш мөмкинлеге биргән эш итеп тасвирлай, хатта деменция ауыр булғанда ла. Шул ук документта әйтелгәнсә, традицион программалар көнөнә бер-ике ҙур төркөм сарала таянып, ундағы кешеләр күбеһенсә пассив ҡатнаша.
 
-That points to a few practical rules:
+Шуның нигеҙендә ошо ябай ҡағиҙәләр:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Таныш — яңынан яҡшыраҡ.** Йырҙар, мәҡәлдәр, һүрәттәр һәм кешеләрҙең йәштәрендәге нәмәләр ҡушылыуға еңелерәк.
+- **Ҡыҫҡа — оҙонан яҡшыраҡ.** Төркөмдең иғтибар оҙонлоғона тиң вакыт планлаштырығыҙ, уртала тәбиғи туҡтау булһын.
+- **Ҡылыу — ҡарауҙан яҡшыраҡ.** Һәр кешегә тотор, шартла, һайла йәки әйт өсөн нимә лә булһын.
+- **Бер эш — күп кимәл.** Еңелерәк һәм ҡыйыныраҡ ҡатнашыу юлдарын төҙөгөҙ.
+- **Еңеүсе юҡ, иҫәп юҡ.** Ярыш форматтары кайһы берҙәрҙә ҡыйыу тойғоһо тыуҙыра.
 
-## How big should the group be?
+## Төркөм нисек ҙурлыҡта булырға тейеш?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Кесерәге, нигеҙҙә, еңелерәк. Альцгеймер ассоциацияһы әйтеүенсә, ҙур йыйылыштан арыу һиҙгән кеше кесерәк төркөмдә аралашыуҙы уңыштырағыраҡ итә ала. Бер генә дөрөҫ һан юҡ. Ул кешеләргә, бүлмәгә һәм мөмкин булған хеҙмәткәрҙәр һәм волонтерҙар һанына бәйле.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Файҙалы һынау: барыһы ла алып барыусының йөҙөн күрә алаыммы, айырым ишетә алаыммы һәм ярҙамсы бер нисә секундта етә алаыммы? Юҡ икән, төркөмдө бүлегеҙ, ярҙамсы өҫтәгеҙ йәки кесерәк бүлмәгә күсегеҙ.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Ҙур сара өсөн, мәҫәлән байрам концертында, хеҙмәткәрҙәрҙе һәм волонтерҙарҙы стена буйлап түгел, ә кешеләр араһында ултыртығыҙ.
 
-## How should I set up the room and seating?
+## Бүлмәне һәм ултырыуҙы нисек йәйгеләргә?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Түңәрәк йәки ат туяғы.** Тәжрибә тәҡдимдәре бүлешеү түңәрәген бөтәһе түңәрәктә ултыра алырлыҡ киңлектә, фонда тауыш булмағанда иң яҡшы итеп тасвирлай.
+- **Алып барыусы яҡын һәм күҙ кимәлендә.** Мөмкин булғанда торманыҡ, ултырығыҙ.
+- **Ишетеү һәм күреү — беренсе урында.** Ишетеүе насар кешеләрҙе алып барыусыға иң яҡын, яҡшыраҡ ҡолағы менән ултыртығыҙ. Күҙлектәр һәм ишетеү аппараттары тағылғанмы, тикшерегеҙ. Альцгеймер ассоциацияһы күрә һәм ишетеү проблемалары аралашыуҙы ҡыйыныраҡ итә ала.
+- **Яҡтылыҡ кешеләрҙең артында, һеҙҙең артта түгел.** Ҡамаштырыусы тәҙрә алдында ултырмаһын.
+- **Телевизорҙы һәм радионы һүндерегеҙ.** Альцгеймер ассоциацияһы йырлау һәм музыка эштәре ваҡытында ярыш тауыштарын юйырға кәңәш итә.
+- **Бер ваҡытта бер һөйләшеү.** Бер-береһенә ҡушылып һөйләшеү деменция менән йәшәгән һәм ишетеүе насар кешеләр өсөн ауыр, Альцгеймер ассоциацияһы ошо тураһында [байрам кәңәштәрендә](https://www.alz.org/help-support/caregiving/holidays) яҙа.
+- **Ап-ас сығыу юлы һәм тыныс мөйөш.** Теләгән кеше еңел сыға алһын, яныңда хеҙмәткәр менән.
 
-## Group activity ideas
+## Төркөм эш-сараһы фекерҙәре
 
-### Picture bingo
+### Һүрәтле бинго
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Һүрәтле бинго номерҙар урынына анық картинкалар ҡуллана, мәҫәлән сәйнәк, эт йәки роза. Шулай итеп оҙон һандарҙы иҫләргә һәм бәләкәй хәрефтәрҙе уҡырға кәрәкмәй.
 
-**How to run it:**
+**Нисек үткәрергә:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Беҙҙең [Һүрәтле бинго](/games/picture-bingo/) биттән һәр кешегә бер карточка баҫтырығыҙ, «Баҫтырыу» төймәһен ҡулланып. Ауыр ҡағыҙ ҡулланыу еңелерәк. Ҡабат файҙаланыр өсөн ламинатлағыҙ.
+2. Ҙур, ҡулда еңел тотола торған маркерҙар бирегеҙ, мәҫәлән фишкалар, шешә ҡапҡастары йәки ҡағыҙҙан киҫелгән квадраттар.
+3. Телевизорҙа йәки проекторҙа экран өҫтөндәге алып барыусыны ҡулланығыҙ, шулай итеп һеҙ картинаның исемен әйткәндә бөтәһе лә күрә.
+4. Һәр картинанан һуң туҡтап, ҡыҫҡа фекер алмашыу һорағыҙ: «Берәйһе үҙе белгән эт тураһында һөйләп бирә алырмы?» йәки «Был картинала нимә күрәһегеҙ?»
+5. Һәр карточка тулғансы әйтеүҙе дауам итегеҙ. Бөтәһе лә тамамлай.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Көйләү:** Тулы карточка артыҡ ауыр булған кешеләр өсөн азыраҡ квадрат ҡулланығыҙ. Ярҙамсы кәрәк булған кешегә тап килгән картинаны күрһәтә ала. Кайһы берәүҙәр алып барыусының картинаһын үҙҙәре тотоп, төркөмгә күрһәтергә яратыр.
 
-### Sing-alongs
+### Бергә йырлау
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Музыка — иң күп ошаған төркөм эштәренең береһе. Альцгеймер ассоциацияһы әйтеүенсә, хатта һуңғы этапта ла кеше [ритмға ҡул шаплатырға йәки балалыҡтан таныш йыр йырларға](https://www.alz.org/help-support/caregiving/daily-care/art-music) мөмкин.
 
-**How to run it:**
+**Нисек үткәрергә:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Алып барыусының үҙ яраттарын түгел, кешеләр үҫкән йырҙарҙы һайлағыҙ. Ғаиләләрҙән һәр кешенең нимә яратҡанын һорағыҙ.
+- Реклама булмаған музыка ҡулланығыҙ, ассоциация әйтеүенсә, улар буталыу тыуҙыра ала.
+- Текстарҙы һүҙҙәрен уҡый алған кешеләр өсөн ҙур хәрефтәр менән баҫтырығыҙ, ләкин уҡырға мәжбүр итмәгеҙ.
+- Шакшылар, ҡул барабандары йәки силкер өсөн шарфтар тәҡдим итегеҙ.
+- Ҡул шаплатырға һәм хәрәкәт итергә ярҙам итегеҙ, тауышты ҡулай кимәлдә тотоғоҙ.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Көйләү:** Кемдер һәр һүҙҙе йырлай, кемдер моңлана, кемдер аяғы менән тап бирә, ә кемдер ғәҙәттә генә тыңлай. Был барыһы ла иҫәпкә ала. Күберәк өсөн беҙҙең [музыка эштәре буйынса ҡулланма](/activities/music/) ҡарағыҙ.
 
-### Reminiscence groups
+### Иҫтәлек төркөмдәре
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Иҫтәлек төркөме теманы әйләнә-тирәһенә йыя, мәҫәлән мәктәп йылдары, беренсе машиналар, мәтбәхәләр йәки йәй, фотографиялар, әйберҙәр һәм музыка ҡулланып. Маҡсат — йәмле һөйләшеү, төгәл иҫләү түгел.
 
-**How to run it:**
+**Нисек үткәрергә:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Бер тема һайлағыҙ һәм кешеләр тотоп ҡарай ала торған берничә әйбер алығыҙ: ҡул миксеры, бейзбол тотҡаһы, кәпәс, орлоҡ каталогы.
+2. Бер әйберҙе бер ваҡытта әйләндерегеҙ. Асыҡ һорауҙар бирегеҙ: «Был тураһында һөйләп бир», «Нимә күрәһең?», «Был кеүек нәмәне кем ҡуллана торғайны?»
+3. Һәр яуапты ҡабул итегеҙ. Датаны йәки фактты беркайһы ла төҙәтмәгеҙ.
+4. Һөйләшеүҙе йылы иҫтәлектәргә йүнәлтегеҙ. Ҡарау тәжрибәһе тәҡдимдәре әйтеүенсә, хеҙмәт күрһәтеүселәр иҫтәлектәрҙе кәрәксеҙ ҡайғыға килтереүе ихтимал булғандарынан юнәлткә, яҡшы иҫтәлектәргә йүнәлтергә тейеш.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Һөйләшеү карточкалары](/games/conversation-cards/) — тема буйынса асыҡ һорауҙар менән баҫтырыла торған һүрәт карточкалары, һөйләшеүҙе башлар өсөн яҡшы. Күберәк фекерҙәр беҙҙең [иҫтәлек ҡулланмаһында](/activities/reminiscence/) бар.
 
-### Finish the saying
+### Мәҡәлде тамамлау
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Таныш мәҡәлдәр («Йыйылған тиен — ҡалған тиен...») барыһын бергәләп аҙағын әйтергә саҡыра. [Мәҡәлде тамамлау](/games/finish-the-saying/) уйынын ҙур экранда күрһәтегеҙ һәм төркөмгә бер тауыштан яуап бирергә рөхсәт итегеҙ. Һәр мәҡәлдән һуң һөйләшеү өсөн һорау бар. Әгәр беркем аҙағын әйтмәһә, күрһәтегеҙ һәм алға китегеҙ. Дөрөҫ йәки дөрөҫ түгел яуап юҡ.
 
-### Large-print word search, together
+### Бергә ҙур хәрефле һүҙҙәр таптырыу
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Ҙур хәрефле [Һүҙҙәр таптырыу](/games/word-search/) уйынын экранға проекторлап, төркөм менән һүҙҙәр эҙләгеҙ, йәки өҫтәл артында үҙ аллы эшләргә яратҡан кешеләр өсөн баҫтырып таратығыҙ. Һүҙҙәр бары тик буйға һәм туғанға ғына урынлаша.
 
-### Gentle movement
+### Еңел хәрәкәт
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Ултырып эшләнгән һуҙылыу, йомшаҡ туп йәки шар тапшырыу, таныш музыка аҫтында стулда бейеү. Һәр хәрәкәтте һүҙ менән генә һүрәтләмәй, күрһәтегеҙ.
 
-### Sorting and matching at the table
+### Өҫтәлдә һортлау һәм пар табыу
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Өс-дүрт кешелек кесе өҫтәлдәр бергә картинкаларҙы, матә өлгөләрен йәки ашханә әйберҙәрен һортлай ала. Экранда [Һүрәт парҙары](/games/picture-pairs/) уйынын картинкалар күренеп торғанда уйнарға була, бер кеше тап баҫа, ә өҫтәл һәр картина тураһында һөйләшә.
 
-## How do I use your games on a big screen?
+## Уйындарҙы ҙур экранда нисек ҡулланырға?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Беҙҙең уйындар веб-браузерҙа эшләй, шуға күрә телевизорҙа йәки проекторҙа бер нәмә лә индермәй ҡулланырға мөмкин.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Уйынды ноутбукта йәки планшетта асығыҙ, уны экранға кабель йәки күрһәтеү аша тоташтырығыҙ.
+2. Браузерҙы тулы экранға ҡуйығыҙ, тауышты ҡулай кимәлгә көйләгеҙ.
+3. Бер алып барыусы тап баҫһын, ә төркөм вариантты үҙе әйтһен. Йә булмаһа планшетты тәғәрәш теләгән кешегә бирегеҙ.
+4. Төркөм әҙер булғанда туҡтағыҙ. Уйындарҙа таймер, иҫәп йәки мәжбүри тамамлау юҡ.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Һүрәтле бинго](/games/picture-bingo/), [Мәҡәлде тамамлау](/games/finish-the-saying/), [Һүрәт парҙары](/games/picture-pairs/) һәм [Һөйләшеү карточкалары](/games/conversation-cards/) төркөмдәргә иң яҡшы тура килә. Бөтә вариантты беҙҙең [уйындар биттәре](/games/) аша ҡарағыҙ.
 
-## How do I adapt one activity for mixed abilities?
+## Бер эште төрлө мөмкинлекле кешеләр өсөн нисек көйләргә?
 
-Plan at least three ways to join every activity.
+Һәр эштә ҡушылырға кәмендә өс юл планлаштырығыҙ.
 
-| Activity | More independent | Some support | Most support |
+| Эш | Күберәк мөстәҡил | Кәрәкле ярҙам | Иң күп ярҙам |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Һүрәтле бинго | Үҙе картинаны таба һәм ҡаплай | Ярҙамсы күрһәтә; кеше ҡаплай | Картинкалы карточканы тота; тыңлай һәм күрә |
+| Бергә йырлау | Йырлай, киләһе йырҙы һайлай | Моңлана, ҡул шаплата, шакшы ҡуллана | Тыңлай, шарф тота, ҡулын һыйпата |
+| Иҫтәлек | Хикәйәләр һөйләй | Эйе-юҡ яуап бирә йәки күрһәтә | Әйберҙе тота һәм һиҙә |
+| Һүҙҙәр таптырыу | Үҙ баҫтырылған бите менән эшләй | Ярҙамсы менән экрандағы һүҙҙәрҙе таба | Һүҙҙәр уҡылғанда тыңлай |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Һуңғы этаптағы кешеләр өсөн NHS әйтеүенсә, эштәр гәҙәттә ябайыраҡ булырға һәм сенсорҙарға — музыкаға, ҡулға тейгән әйберҙәргә, ҡул массажына — күберәк иғтибар бирергә тейеш. Уларға төркөмдән тыш йәки һуң, бер-бер менән булған мәл яҡшыраҡ тура килергә мөмкин. Ҡарағыҙ: [һуңғы этап эштәре](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Алып барыусылар төркөм ваҡытында нисек һөйләшергә тейеш?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Һәр тапҡыр үҙегеҙҙе таныштырығыҙ һәм һәр кешенең яратҡан исемен ҡулланығыҙ.
+- Яйлап һөйләгеҙ, бер ваҡытта бер аҙым бирегеҙ, әйткәнсе күрһәтегеҙ.
+- Асыҡ саҡырыуҙар («Һөйләп бир...») йәки ябай һайлауҙар бирегеҙ, викторина һорауҙары («Иҫеңдә буламы...?») түгел.
+- Төҙәтмәгеҙ. Һәр өлөшкә рәхмәт әйтегеҙ.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Был тураһында күберәк беҙҙең [аралашыу кәңәштәрендә](/caregiving/communication-tips/) бар.
 
-## Ending well, and letting people leave
+## Яҡшы тамамлау һәм кешеләргә китергә рөхсәт итеү
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Туҡтау — яҡшы һөҙөмтә. Кешенең арыуын, тыныс тормауын йәки борсолоуын күрһәгеҙ, ярҙамсы урынлашҡан башҡа урынға барырға йәки тыныс урындыҡҡа ултырырға тәҡдим итһен. Йырлау ваҡытында йоҡлап киткән кеше, бәлки, йәй генә рәхәтләнеп ултыра.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Һәр төркөмде бер үк рәүешле тамамлағыҙ: таныш йыр йәки ябай рәхмәт менән, шулай итеп аҙаҡ тыныс һәм көтөлгән булып тоя. Һуңынан яҙып ҡуйығыҙ: нимә эшләне, кем нимә яратты. Ошондай яҙмалар киләһе осрашыуҙы яҡшыраҡ итә.

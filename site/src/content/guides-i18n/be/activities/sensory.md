@@ -1,33 +1,28 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Сенсорныя заняткі для людзей з дэменцыяй"
+seoTitle: "Сенсорныя заняткі пры дэменцыі: ідэі і бяспека"
+description: "Сенсорныя заняткі для людзей з дэменцыяй: ад масажу рук да кошыкаў з тканінамі і гукаў прыроды, з парадамі пра задушэнне, алергіі і пахі."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Сенсорныя заняткі звязаны з дотыкам, пахам, смакам, гукам і зрокам: павольны масаж рук, кошык з мяккімі тканінамі, свежыя травы для паху, гукі прыроды ці назіранне за птушкамі за акном. Яны падыходзяць на любым этапе і асабліва важныя пазней. Перад заняткам праверце рызыку задушэння, алергію, стан скуры і адчувальнасць да пахаў, прапаноўвайце адну рэч за раз і спыніцеся, калі чалавек выглядае напружаным.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Сенсорным заняткам не патрэбныя правільныя адказы, таму яны падыходзяць на любым этапе, нават у ложку або ў крэсле."
+  - "Прапаноўвайце адно пачуццё за раз у ціхім пакоі і пытайцеся або папярэджвайце, перш чым дакрануцца."
+  - "Пазбягайце дробных прадметаў і рэчаў, якія выглядаюць або пахнуць як ежа, але ёй не з'яўляюцца, бо людзі могуць класці рэчы ў рот."
+  - "Перад тым як выкарыстоўваць крэмы, пахі або ежу, праверце на алергію, праблемы са скурай і з дыханнем."
+  - "Няма пераканаўчых доказаў, што араматэрапія дапамагае пры сімптомах дэменцыі; карыстайцеся пахамі толькі для простай прыемнасці, калі ўвогуле."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Якія добрыя сенсорныя заняткі для чалавека з дэменцыяй?"
+    a: "Простыя ідэі: павольны масаж рук з крэмам, дотык да мяккіх тканін, водар свежых траў або кавы, слуханне любімай музыкі ці гукаў прыроды, назіранне за птушкамі або акварыумам і проба любімай стравы ў бяспечнай кансістэнцыі. Прапаноўвайце адну рэч за раз і глядзіце, як чалавек рэагуе."
+  - q: "Ці бяспечныя сенсорныя заняткі для чалавека, які кладзе рэчы ў рот?"
+    a: "Яны могуць быць бяспечнымі пры належнай увазе. Выкарыстоўвайце толькі вялікія прадметы, якія нельга праглынуць, не давайце нічога дробнага або крохкага, а крэмы, мыла і духі пасля заняткаў хавайце далей ад чалавека, бо яны могуць выглядаць або пахнуць як ежа. Заставайцеся побач з чалавекам увесь час."
+  - q: "Ці дапамагае араматэрапія пры дэменцыі?"
+    a: "Агляд Cochrane не знайшоў пераканаўчых доказаў, што араматэрапія дапамагае людзям з дэменцыяй, хоць даследаванні былі невялікімі і супярэчлівымі. Калі чалавеку падабаецца мяккі знаёмы пах, гэта добра, але пазбягайце моцных эфірных алеяў, асабліва пры праблемах з дыханнем або алергіях."
+  - q: "Што такое фартушок для заняткаў?"
+    a: "Гэта кавалак тканіны, фартушок або коўдра на калені, на якую трывала прышыты рэчы для рук: вялікія гузікі, маланкі, стужкі і фактурныя латкі. Ён дае занятым рукам што даследаваць. Часта правярайце, ці няма на ім свабодных дэталяў, якія могуць адарвацца."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Сенсорныя заняткі выкарыстоўваюць пяць пачуццяў: дотык, пах, смак, гук і зрок. Для іх не патрэбны памяць, пакрокавыя інструкцыі і правільныя адказы, таму яны могуць падысці на любым этапе. Найбольш яны важныя пазней. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) адзначае, што на позняй стадыі чалавек пазнае свет галоўным чынам праз пачуцці, і што клопат можна выказаць праз дотык, гук, зрок, смак і пах. Некалькі праверак бяспекі дапамогуць зрабіць гэтыя заняткі спакойнымі для ўсіх.
 
-## What are sensory activities for dementia?
+## Што такое сенсорныя заняткі пры дэменцыі?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Сенсорныя заняткі — гэта простыя ўражанні, пабудаваныя на адным пачуцці за раз: дотык да тканіны, водар траў або слуханне дажджу. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) піша, што заняткі на позняй стадыі часта трэба будаваць вакол пачуццяў, і называе музыку, прадметы для дотыку і масаж рук. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) адзначае, што людзі на позняй стадыі могуць моцна патрабаваць нешта трымаць блізка для суцяшэння.
 
-## Sensory ideas, sense by sense
+## Сенсорныя ідэі па пачуццях
 
-### Touch
+### Дотык
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Масаж рук.** Сагрэйце трохі крэму ў далонях і павольна гладзьце ад запясця да кончыкаў пальцаў. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) згадвае масаж нясмярдзючым крэмам для суцяшэння.
+- **Кошык з тканінамі.** Вялікія квадраты аксаміту, вельвету, флісу, атласу і вовны, каб гладзіць, складаць і разважаць пра іх.
+- **Цёплая ануча.** Ціплая вільготная ануча для рук у халодны дзень. Спачатку праверце тэмпературу на сваім запясці.
+- **Фартушок або коўдра для рук.** Вялікія гузікі, маланкі, стужкі і фактурныя латкі, трывала прышытыя.
+- **Складанне і выраўноўванне.** Кошык з чыстымі ручнікамі або сурвэткамі, каб складаць, штабеляваць і зноў складаць.
+- **Нешта мяккае для трымання.** Флісавы плед, падушка або рэалістычная мяккая жывёлка, прапанаваныя проста і з павагай, без дзіцячай інтанацыі.
 
-### Smell
+### Пах
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Свежыя травы.** Патрыце паміж пальцамі лісты мяты, розмарыну, базілікі або лаванды і паднясіце да чалавека.
+- **Водар кухні.** Кава, тост, карыца або апельсін, які чысцяць побач.
+- **Кветкі.** Прынясіце некалькі свежых кветак з саду або крамы.
+- **Знаёмы сродак.** Мыла або крэм, якім чалавек заўсёды карыстаўся, калі скура гэта пераносіць.
 
-### Taste
+### Смак
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Любімы смак.** Невялікая лыжка таго, што падабаецца, напрыклад яблычнае пюрэ, пудынг або марожанае, у кансістэнцыі, якую чалавек можа бяспечна з'есці.
+- **Дапамога з выпечкай.** Пробуйце фрукт або трохі крэму, пакуль разам пячэце.
+- **Сезонныя ласункі.** Кавун улетку, гарачы сідр увосень, падаваныя пры бяспечнай тэмпературы.
 
-### Sound
+### Гук
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Любімая музыка.** Знаёмыя песні пры мяккай гучнасці; гл. [музычныя заняткі](/activities/music/).
+- **Гукі прыроды.** Дождж, хвалі або спевы птушак. NIA адзначае, што музыка, белы шум і гукі прыроды, відаць, расслабляюць некаторых людзей.
+- **Ваш голас.** Чытанне ўслых, напяванне або аповед.
+- **Простыя інструменты.** Ручны барабан, шэйкер або званочак, каб іграць разам з музыкай.
 
-### Sight
+### Зрок
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Назіранне за вокнам.** Кармушка для птушак за шклом, дзеці, якія ідуць дадому, або снег.
+- **Акварыум або павольнае відэа.** Мяккі рух без гучнага гуку.
+- **Вялікія фота.** Адно выразнае фота за раз, падняты на ўзроўні вачэй.
+- **Колер і ўзор.** Сартаванне яркіх тканінавых абрэзкаў, кветак або каляровых сурвэтак, ці простая старонка для размалёўкі з нашага набору [размалёвак](/games/coloring/).
+- **На вуліцы.** NHS прапануе сенсорныя сады з пахучымі раслінамі, фактурамі і вадой. Гл. [заняткі на вуліцы і ў садзе](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Як зрабіць сенсорную скрыню
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Выберыце тэму**, звязаную з жыццём чалавека: пляж, сад, кухня, майстэрня, шыццё.
+2. **Абярыце пяць-шэсць вялікіх, бяспечных рэчаў**, напрыклад вялікую ракавіну, драўляную лыжку, мяккі шалік, мяшэчак з сушанай лавандай, зашыты наглуха, або гладкі драўляны брусок.
+3. **Праверце кожную рэч** на дробныя дэталі, вострыя краі, свабодныя ніткі і тое, што можа разбіцца.
+4. **Даставайце па адной рэчы.** Перадайце яе, апішыце і дайце чалавеку даследаваць.
+5. **Пасля схавайце скрыню**, каб яна заставалася асаблівай, і перад наступным разам зноў праверце рэчы.
 
-## Safety first
+## Перш за ўсё бяспека
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Сенсорныя заняткі мяккія, але некалькі рызык маюць значэнне. Некаторыя людзі з дэменцыяй могуць прыняць нехарчовыя рэчы за ежу, а з часам праглынанне можа стаць цяжэйшым. NIA папярэджвае, што праблемы з праглынаннем на позняй стадыі павялічваюць рызыку задушэння.
 
-| Risk | What to do |
+| Рызыка | Што рабіць |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Задушэнне | Выкарыстоўвайце толькі рэчы, занадта вялікія, каб праглынуць. Ніякіх гузікаў, пацерак, манет, шарыкаў або дробных цацак, якія ляжаць у скрыні без нагляду. Прапаноўвайце ежу толькі ў тых кансістэнцыях, якія каманда догляду лічыць бяспечнымі. |
+| Рэчы, што выглядаюць як ежа | NIA раіць хаваць крэмы, мыла, шампуні і духі, якія могуць выглядаць або пахнуць як ежа, і прыбраць штучныя садавіну. Пасля выкарыстання хавайце сенсорныя сродкі. |
+| Алергіі | Перад пачаткам праверце, ці няма алергіі на арэхі, латэкс, воўну, расліны або араматызатары. |
+| Моцныя пахі | Пазбягайце моцных духоў і эфірных алеяў, асабліва пры астме або іншых праблемах з дыханнем. Мяккія натуральныя пахі бяспечнейшыя. |
+| Скура | Перад масажам праверце, ці няма бальнай, пашкоджанай або далікатнай скуры. Ціскайце мякка і спыніцеся, калі чалавек моршчыцца. |
+| Тэмпература | Цёплыя ануч і напоі спачатку праверце на сваім запясці. |
+| Вострыя або таксічныя рэчы | Ніякіх вострых інструментаў, шкла або таксічных матэрыялаў для рукадзелля. |
 
-## Does aromatherapy help?
+## Ці дапамагае араматэрапія?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Хутчэй за ўсё, не ў якім-небудзь вымерным сэнсе. [Агляд Cochrane па араматэрапіі пры дэменцыі](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) разгледзеў 13 даследаванняў з 708 людзьмі, усе ў дамах догляду, і не знайшоў пераканаўчых доказаў карысці. Даследаванні былі невялікімі, вынікі разыходзіліся, а пабочныя эфекты былі дрэнна адлюстраваны. Калі чалавеку падабаецца мяккі знаёмы пах, напрыклад лаванда з саду, гэта добрая прычына падзяліцца ім. Але гэта не лячэнне.
 
-## How to offer a sensory activity
+## Як прапанаваць сенсорнае заняткі
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Выберыце ціхую хвіліну** і выключыце тэлевізар.
+- **Падыходзьце спераду**, назавіце імя і пытайцеся або папярэджвайце, перш чым дакрануцца: «У мяне ёсць крэм. Хочаце, я патру вам рукі?»
+- **Прапаноўвайце адну рэч за раз**, каб не перагрузіць.
+- **Глядзіце на рэакцыю.** Мякчэйшы твар, расслабленыя рукі або ўсмешка — добрыя знакі. Адсоўванне, насупраны твар або неспакой азначаюць спыніцца.
+- **Трымайце кароткім.** Пяць спакойных хвілін — добры занятак.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Павольная дыхальная паўза разам, як [спакойнае дыханне](/games/calm-breathing/), можа быць мяккім завяршэннем. Больш ідэй для ложка — у [заняткаў для позняй стадыі](/activities/late-stage/), а пры вечаровай трывозе — у [вечаровай неспакойнасці](/caregiving/late-day-restlessness/).

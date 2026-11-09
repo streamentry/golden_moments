@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Sɛnɛkɛ ni baarakɛ demansi la mɔgɔ kɔrɔw ye"
+seoTitle: "Sɛnɛkɛ demansi la: mɔgɔ kɔrɔ ye, denw ye te"
+description: "Mɔgɔ kɔrɔw ka sɛnɛkɛ ni baarakɛ ladilikanw, demansi la mɔgɔw ye, kɛlɛ ni kɛnɛ jɔsiraw fɛ, sɛnɛ ni tɛmɛnen ladilikan jɛkulu ye, ani ka laɲini sɔrɔ."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Demansi la mɔgɔ kɔrɔw ye sɛnɛkɛ ni baarakɛ ɲumanw ye mɔgɔ kɔrɔ ye, ani olu bɛ
+  hakili ta mɔgɔ kɔrɔ ye: sɛnɛkɛ tɔɔrɔ, kɔlɔnsira ka sɛnɛkɛ, fɛnw ka kɔlɔsi ni
+  sɛnɛ, tɛrɛ ka ɲɛ, dɔgɔ ni sɛnɛkɛ ka kasikɛ-kasikɛ, walima kɛnɛ ka pajiri ka
+  bɛɛ. Fɛn dɔw don ka ɲɛ, a bɛ se ka dɛmɛ a fɔlɔ ka dɔgɔya, kuma ka kan ka
+  baara kɛ ni ɲɛnamaya ye, ani baara kɛ ka jɔ ka ta ye ka ɲɛ. Ka baara kɛ ka
+  dɔ fɛ ka ɲɛ ye ɲɛnɔgɔn ye.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Sɛnɛkɛ fɛn ni ladilikan minnu bɛ mɔgɔ kɔrɔ ye, i ko sɛnɛ kɔlɔsili ni ɲɔgɔn ni lafiyɛ ni wagati ke: kɛnɛ ka pajiri, kɛnɛ dɔ ka kɔlɔsili, sɛnɛ ka fɛnw ni tile ka yɛlɛn, ayi fɛnw ni ɲɛ ka sɛnɛ bɛ sɔrɔ, o ye, ka sɔrɔ nɛɛnɛ ni lalajɛ fɛn ye ten."
+  - "Baara ka kɔrɔ kɛ: kɔlɔsi, sɛnɛ jɔsira ka kasikɛ ni kuma. Fɛn sɔrɔlen ye kɔrɔ ye, nka o tɛ ni ye."
+  - "Ka sɛnɛ kɛ dɔ ka fɛn kɛ ni bɛ ɲɛ bɛ, i ko kɛnɛ ka ni ka dɔ ka ɲɛ, walima ka tabli ka fɛn bɛ ɲɛ."
+  - "Dɛmɛ mɔgɔ ka kɛ fɔlɔ, o kɔfɛ ka ɲɛ, ka ɲɛ. Ka tɛrɛ ka kɔnɔ kɛ ni ɲɔgɔn ye, o bɛ se ka ɲɛ."
+  - "Baara tɛ ka kan ka bɔ sigi kelen na, ani ka dɔgɔya a kɔfɛ ka tɛmɛ ye tuma bɛɛ."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ne bɛ se ka sɛnɛkɛ kɛ ka mɔgɔ kɔrɔ ye, ka a kɛ denw ye te cogo di?"
+    a: "I ka sɛnɛ fɛnw ni ladilikan ɲumanw ta: lafiyɛ sɛnɛkɛ fɛnw, kɛnɛ ka pajiri, nɛgɛ, bidi ni tɛrɛ fɔlɔ ka ɲɛ. Kɔlɔsi ni kɛnɛ jɔsira ka ɲɛ, ka ɲɛ ni tilejiri ni tɛrɛ ka sɛnɛkɛ ta, ka kolo ni sɛnɛkɛ kɛ. Mɔgɔ kɔrɔ sɛnɛkɛ fɛn ko kɛ ka kɛ denw sɛnɛkɛ fɛn ye, aw kuma ka kɛ mɔgɔ kɔrɔ ye, aw kɔnɔ ka kɛ mɔgɔ ye."
+  - q: "Sɛnɛkɛ jɔsiraw ye jɔ wa demansi la wagati kɔfɛ?"
+    a: "Ɲɛnamaya ladilikan minnu bɛ dɔgɔ ka fɛ, olu ye kɛ wagati kɔfɛ ɲumanw ye: kɛnɛ ka ko jɔlen ni kɛnɛ jɔsira ka tɛrɛ, nɛgɛ jɔsira ka kɛnɛ ka kɔsɔn, ka fɛn kelen wɛrɛ ka bolo, walima ka bolo sɛnɛ jɔsira ka kɛ ni bolo. O ka fɛ, mɔgɔ bɛ se ka bolo ka kɛnɛ ni ɲɔgɔn ye. Aw ka kɛnɛ ni aw kɔrɔ ka ɲɛ ka kɛ ye, o ye ɲɛnɔgɔn ye."
+  - q: "Ni a ko ne tɛ se ka sɛnɛ kɛ, o bɛ se ka kɛ cogo di?"
+    a: "Ka kɔlɔsi ta. Ka sɛnɛkɛ fɛn ni jaabi ɲuman tɛ minnu, i ko kɛnɛ ka ni tile, kolo, walima fɛn ka yɛlɛn. Aw bɛ se ka fɔ ko aw ka dɛmɛ ka fɛ fɛn kelen ma, i ko kɛnɛ ka ni dɔ sugandi kɛ ka kɛ ka karti ye, o kɛ ka dɛmɛ ye, kɛ ka sɛnɛkɛ ye tɛ."
+  - q: "Ɲɔgɔn kɛnɛ bɛ dɔ ka mɔgɔ kɔrɔw ye wa?"
+    a: "Ni ɲɔgɔn ye, olu bɛ se ka kɛ ni dɔ ye. Ni ka sɛnɛ kɛ dɔ ye ka ɲɛ. Ni mɔgɔ kɔrɔ ka kɛnɛ tɛ, aw bɛ se ka kɛ kɛnɛ ni ɲɔgɔn ye: i ko ɲɔgɔn ye, kolo jɔsira ye, ni kɛnɛ ka ɲɛ. Ka ɲɛ ka kɛnɛ ka kɛ ni kɛnɛ ye, o tɛ kɛnɛ ka sɛnɛ tɛ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Sɛnɛkɛ ni baarakɛ bɛ se ka dɛmɛ demansi la mɔgɔw ka kuma ni ka hakilina fɔ, o tɛ ka kan ka jaabi dɔ sɔrɔ. Alzheimer's Association bɛ fɔ ko sɛnɛkɛ bɛ se ka [ɲɛnamaya kɔnɔ fɛn dɔ ka laɲini ni ka kɛlɛ](https://www.alz.org/help-support/caregiving/daily-care/art-music) ani ka kuma kɛ ɲɛnɔgɔn ye, mɔgɔ min bɛ dɛmɛ ni demansi la mɔgɔ min bɛ a ka sɛnɛkɛ kɛ. Fɛn ka gɛlɛya ye ka sɛnɛkɛ ka kɛ mɔgɔ kɔrɔ ye, ka a kɛ ladilikan ye, ani ka a kɛ ni tɛ kɛnɛ ye. Nin kunnafonidɛ bɛ sɛnɛkɛ jɔsira ɲumanw fɔ, a cogo ka sɛnɛkɛ kɛ, ani a cogo ka a ka kɛ ka yɛlɛn ni fɛn ye.
 
-## What makes an art activity adult and not childish?
+## Mun bɛ sɛnɛkɛ kɛ ka mɔgɔ kɔrɔ ye, ka a tɛ denw ye?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Sɛnɛkɛ ka baara bɛ mɔgɔ kɔrɔ ye ni a bɛ kɛ ni fɛn ɲuman ye, fɛn ka kɛɲɛ mɔgɔ kɔrɔw ye, ani kuma ni hakilina. Alzheimer's Association bɛ fɔ ko ka sɛnɛkɛ kɛ mɔgɔ kɔrɔ ye, ka a kɛ fɛn min tɛ mɔgɔ ka hakilina tɔɔrɔ, ani ka a kɛ fɛn min bɛ denw ka i ko fɛn.
 
-| Feels childish | Feels adult |
+| Bɛ denw ye i ko | Bɛ mɔgɔ kɔrɔ ye i ko |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Kɔlɔsili ni kɛnɛ jɔsira, sɛnɛkɛ jɔsira, kɛnɛ ka ɲɛ | Lafiyɛ sɛnɛkɛ kɔnɔ, bolo, fɛn ka ɲɛ |
+| Kɛnɛ kɔlɔsili ni fɛn kolo | Kɛnɛ kɔlɔsili ni kɔlɔsili ka fɛn: tabulu, kolon, tilebin, walima lafiyɛ |
+| "Ɲɛ kɛ" kɛnɛ kelen kelen bɛɛ ye | Kuma ka ɲɛ: "O sɛnɛ ka ɲɛ, ka fɛ ka ɲɛ ye" |
+| Baara ko tɛ se ka kɛ | Baara ka dɛmɛ ye, a bɛ kɛ kɛnɛ ni ɲɔgɔn ye, walima ka ni kɛ |
+| Ka karamɔgɔya bɛ kɔrɔ ka kɛ kalan ye | Ka kɛ ka hɛrɛ bɛ ɲɛ: "Aw bɛ se ka dɛmɛ ka fɛn nin kɛ?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Aw ka mɔgɔ ka kanuya ni ka ladiliya ye yɛrɛ ka dɔ ye. Mɔgɔ min ye sɛnɛkɛ ni baarakɛ ye ka fɛ, a bɛ se ka dusu ka fɛ fɛn ni fɛn. Mɔgɔ min ye sɛnɛkɛ ni kɔrɔ kɛ, a bɛ se ka dɔ ka jɛ ni tilebin ye. Mɔgɔ min ye kalan ye, a bɛ se ka kan ka karti kɛ.
 
-## Why focus on the process, not the product?
+## Mun na baara kɛ ka kɔrɔ kɛ, ka fɛn sɔrɔlen tɛ?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Sɛnɛkɛ bɛ kɛ kɔrɔ ye, ka ɲɛnamaya ɲɔgɔn ye. Alzheimer's Association ka [baarakɛ fɛnw ni ɲɛnamaya](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) kunnafonidɛ bɛ fɔ ko i ka hakili ta baara kɛli kɔrɔ, fɛn sɔrɔlen kɔrɔ ye te. Sɛnɛkɛ min bɛ fɔ "a tɛ ka bɔ ka bla" , o bɛ sɛnɛkɛ ye. Karti kelen min bɛ sɛnɛkɛ ye ni fɛnw saba, o bɛ karti ye.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association bɛ fɔ fana ko sɛnɛkɛ kɛlɛ bɛ se ka kɛ ni fɛn gɛlɛya ye, a ka tɛmɛnen ka bɔ sɛnɛkɛ ka kɔrɔ fɛ, ka bɛn ka kɛ ni kɛnɛ ka kɔlɔsili ye, ka kɛ kɔlɔsi kɔlɔsili ye. Ni mɔgɔ ye sɛnɛkɛ kɔrɔ ye, a bɛ se ka sɛnɛ jɔsira kɛ ka kɛ ni ɲɔgɔn ye, ka fɛn kɛ ka kɔlɔsi, ka fɛn tɛ mɔgɔ ka kɛ ka kɛnɛ ni ɲɔgɔn ye.
 
-## Arts and crafts ideas to try
+## Sɛnɛkɛ jɔsira ɲumanw ka kɛ
 
-Each idea includes how to make it simpler if it becomes hard.
+Jɔsira kelen-kelen bɛ kɛ ni kɛ cogo min na ka a kɛ ka dɔgɔ ni a bɛ gɛlɛn.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Kɛnɛ ka pajiri.** Ka kɛnɛ jɔsira (watercolor paper) kɔrɔ ka kɛ kɛnɛ ka tile fɛ, ka mɔgɔ ka kɔlɔsi kɛnɛ ka kɔnɔ ni kɔlɔsi ka kɛ ka ɲɛ. Kɔlɔsi ka kɛ ka taa ni a ɲɛ, ni kɛnɛ bɛ bɛn ka taa a yɛrɛ ye, o bɛ se ka kɛ ni fɛn ye min tɛ jaabi. *Ka dɔgɔya:* kɔlɔsi fila kɔnɔ, walima ka kɛnɛ ni ji kɛ ka kɛ dɔ ni a bɛ se ka ɲɛ.
+2. **Magazin ka sɛnɛ fɛn.** Ka sɛnɛkɛ ka dɔ ta ka fɛn magazini ka kɔnɔ kɔrɔ: kulukasi, dumuni, mɔtɔ, sira, walima mɔgɔ ka kɛnɛ kɔrɔ. Ka mɔgɔ ka fɛn sugandi ka ɲɛ ni ka a kɛ karti kɔnɔ. *Ka dɔgɔya:* fɛn naani sɔrɔlen, ni ka mɛn kɛ ka ɲɔgɔn ye.
+3. **Fɛn ka sigi.** Alzheimer's Foundation of America bɛ fɔ ko ka [fɛn sigi ni fɛn ka kɛnɛ](https://alzfdn.org/dementia-activity-gardening/) ka sɔrɔ ka tile ka kɔnɔ. Ka dulo kɛnɛ, ka sɔrɔ bi ka ɲɛ. *Ka dɔgɔya:* ka fɛn dɔ sigi ka dulo dɔgɔ kɔnɔ, kelen-kelen.
+4. **Fɛn ka kaɲɛ ni karti.** Ka fɛn dɔ kaɲɛ ka kɔnɔ kitabu kɔrɔ tile fɛ, ka a ka kɛ ka karti kɔnɔ. *Ka dɔgɔya:* i ye glue sɔrɔ, a ye fɛn ka tɔ ka bɔ.
+5. **Mɔgɔ kɔrɔ ka sɛnɛkɛ ɲumanw.** Ka ɲumanw sugandi, sɛnɛkɛ ka fɛnw ni ɲɔgɔn bɛ ɲɛ. Aw ka [sɛnɛkɛ fɛnw](/games/coloring/) bɛ se ka kɛ ni tabulu ka kɛnɛ ka kɔrɔ, ka kɔlɔsi ka kɛnɛ ka ɲɛ. *Ka dɔgɔya:* ɲɛ ka kɔrɔ dɔgɔ, kɔlɔsi kɛnɛ, kɛnɛ ka kɔlɔsi dɔ.
+6. **Tɛ walima bɛn ka dumuni.** Ka tɛ ka bɛn ka dumuni, ka a mɔgɔ ka dɔ ye. Ka wuli ka dɔ kɛ tɛ ka kɛnɛ ni ɲɔgɔn ye. *Ka dɔgɔya:* ka tɛ ka ɲɛ ka bolo ni ɲɔgɔn ye, o ye baara kelen ye. Ka a ɲɛ, ka mɔgɔ ka tɛ ka tɛ ka dumuni bɔ ka kɔnɔ.
+7. **Karti kɛli.** Alzheimer's Association bɛ fɔ ko ka a kɛ baara ye: "An bɛ karti ci ka ɲɛ ni mɔgɔ dɔ ye ka ɲɛ, aw bɛ se ka dɛmɛ?" Kɛnɛ ka karti ni tilebin ni sigi sɔrɔ, o bɛ ɲɛ.
+8. **Sɛnɛkɛ kitabu ka kɛnɛ.** Ka sɔrɔ ka ɲɛnamaya sɛbɛn, karti ni sɛbɛn kɔrɔ, ka a kɛ kitabu kɔnɔ. Ka fɛn kelen-kelen kuma. Aw ka [kuma kalan fɛn](/activities/reminiscence/) bɛ se ka dɛmɛ ka kuma ka ɲɛ ka tɛmɛnen ka ɲɛ.
+9. **Kɛnɛ ka tile ni sigi.** Ka kɛnɛ ka mɔgɔ ka fɛn sɔrɔ, i ko kolon, velvet, burlap ni silk, ka a ka kɛ karti kɔnɔ. A ka kɛ ye baara ye; a ka dɔ ka tɔ ye tuma wɛrɛ. Fɛn wɛrɛ bɛ sɔrɔ [sɛnsu fɛnw ka kalan](/activities/sensory/) kɔnɔ.
+10. **Dugukolo ni wɔ ka baara.** Mɔgɔ min ye wɔ ka baara kɛ, a bɛ se ka wɔ ka dɔ kɛ, i ko ka wɔ kɔrɔ ka dɔ kɛ, walima ka wɔ ka kɛnɛ ka ɲɛ. Ka fɛn kɔrɔ dɔ bɔ, ka i ka ɲɛ.
+11. **Sɛnɛkɛ ni dɔ fɛ.** Ka dɔ ni mɔgɔ ka fɛn ka kɛnɛ kɔrɔ, ka tile ni kɔlɔsi ka kɛnɛ ka sɛnɛ ni dɔ ka kɔnɔ. Nin bɛ baara fila ka kɛ ni mɔgɔ caman ka dusu ye. Aw ka [dɔ kalan](/activities/music/) bɛ ɲɛ.
 
-## How do I set up an art session?
+## Mun na ka sɛnɛkɛ kɔrɔ lase?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Ka fɛn ɲɛ fɔlɔ.** Ka fɛn bɛɛ kɔrɔ, ka a ka kɛ fɔlɔ, k'a ka sigi mɔgɔ ka ɲɛ. Ni i bɛ makɛ ka ta ka ɲɛ, ni i bɛ kɛnɛ ɲɛ, o bɛ ɲɛnamaya ɲɛ.
+2. **Ka a ka dɔgɔ.** Kɔlɔsi saba walima fila, tabulu kelen, kɛnɛ kelen. Ni sigi caman bɛ, a bɛ se ka mɔgɔ ka kɛ gɛlɛya.
+3. **Ka tabulu ka ɲɛ ka mɔgɔ kɛ.** Ni tabulu ka kɔrɔ ka kɛ ni kɛnɛ kɔrɔ, ka ɲɛ ka sɛnɛ kɔrɔ, o tɛ ka gɛlɛya.
+4. **Ka sigi ka ɲɛ ni mɔgɔ fɛ.** Ka i ka sɛnɛkɛ ka kɛ ni a ka ɲɛ. A bɛ kɛ ni ɲɔgɔn ye, o tɛ kɛ ni kɔlɔsili ye.
+5. **Ka a fɔlɔ ka kɛ.** Alzheimer's Association bɛ fɔ ko i bɛ se ka kɛnɛ ka tile fɔlɔ ni mɔgɔ ye. Ni a bɛ kɛ, mɔgɔ caman bɛ taa kɔfɛ.
+6. **Ka kuma ni sɛnɛkɛ.** Ka kɔlɔsi ni tile ka kuma fɔ, walima ka kuma ka fɛn ka kuma dɔ fɔ. Ka kuma ka i ko "O ye mun ye?" o tɛ ka kɛ.
+7. **Ka waati caman di.** Baara tɛ ka kan ka kɛ sigi kelen na.
 
-## How do I adapt art as dementia changes?
+## Mun na ka sɛnɛkɛ ka kɛ demansi ka yɛlɛn na?
 
-| Stage | What tends to work | What to adjust |
+| Sigi | Mun bɛ ɲɛ | Mun ka kan ka yɛlɛn |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Fɔlɔ | Kalan, sɛnɛkɛ ka dɔgɔ, sɛnɛkɛ kitabu, karti kɛli, sɛnɛkɛ ka fɛn ni foto ye | Ka mɔgɔ ka sugandi ka baara; ka kɛ ni mɔgɔ caman ye |
+| Kɔnɔ | Magazini ka sɛnɛ fɛn ka dɔgɔ, kɛnɛ ka kɔlɔsi, fɛn sigi, kɔlɔsi ka sɛnɛkɛ ni kɔrɔ caman | Sɔrɔ ka kɛ kelen-kelen; aw ka sɛnɛ ni kɔrɔ ka kɛ |
+| Kɔfɛ | Kɛnɛ ka kɔlɔsi ka dɔgɔ, kɛnɛ ka tile, dumuni ka bɛn, ka mɔgɔ ka kɛ ye ka ɲɛ | Ka sɛnsu ka kɛ fɛn; ka bolo ka kɛ ka ɲɛ ni ɲɔgɔn ye, ni a bɛ se |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS bɛ fɔ ko sigi kɔfɛ, baarakɛ ka kɛ dɔgɔ, ka sɛnsu kɛ fɛn. Mɔgɔ dɔ ka sɛnɛkɛ ka kɛ ka ɲɛ, ka kuma ka kɔlɔsi ɲɛ, o ye kɛnɛ ni ɲɔgɔn ye. Ni i bɛ ɲɛnamaya ka jɔsira caman ye sigi sigi, [sigi bɛɛ ka baarakɛ](/activities/ideas/) bɛ sɔrɔ.
 
-## Safety with art supplies
+## Sɛnɛkɛ fɛnw ka lafiyɛ
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Ka sɛnɛkɛ fɛn min tɛ ka ji, dumuni, ni glue bɛ.
+- Ka makɛ, kɛnɛ ka sɛnɛkɛ ni bɛ sɛnɛkɛ, walima kɛnɛ tilebin ka bɔ mɔgɔ ka ɲɛ. Aw yɛrɛ ka tile ka tɛmɛnen.
+- Ka ɲɛ ni mɔgɔ ka dumuni ka kɛ, walima ka fɛn dɔ ka mɔgɔ ka kɔnɔ.
+- Ka ji ni fɛn kɔrɔ ka kɔnɔ, ka tile ka kɛ ka ɲɛ.
 
-## When should we stop?
+## Ni i ka ɲɛnamaya ka tɛ, mun na ka tɛ?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Ka tɛ ni mɔgɔ ka hakili bɔ, walima ni kɔlɔsi bɛ bɔ. Alzheimer's Association bɛ fɔ ko ka baara tɛ ni ɲɛnamaya bɛ bɔ, walima ni kɔlɔsi bɛ bɔ. Ka fɛn ka ɲɛ ka ɲɛ, ka dɔ ka dusu ɲɛ. Ni i bɛ se ka ɲɛ sini, walima ka ɲɛ ni ɲɔgɔn ye. Ni a tɛ ɲɛ, o tɛ ɲɛ.
 
-## Display the work, if the person wants
+## Ni mɔgɔ bɛ fɛ, ka sɛnɛkɛ jɔsira ka ɲɛ
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Sɛnɛkɛ ka kɛnɛ ka ɲɛ ni ka karti ka ɲɛ, o bɛ se ka kɛ ka ɲɛ ni ɲɔgɔn ye. Ka mɔgɔ ka ɲɛ fɔlɔ. Mɔgɔ dɔw bɛ fɛ ka a ka sɛnɛkɛ ka ɲɛ ni ɲɛ; dɔw tɛ fɛ.
 
-## Pair art with our games
+## Sɛnɛkɛ ni aw ka fɛnw ka kɛ
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Ni fɛn ka caman ka sɛnɛkɛ ka kɛ, [Sɛnɛkɛ](/games/coloring/) bɛ kɛ tabulu kɔnɔ ni tile ka tɛ. [Kɛnɛ ka tile](/games/picture-puzzle/) bɛ ɲɛ ka kɛnɛ ka fɛn ka kɔrɔ. [Kuma karti](/games/conversation-cards/) bɛ kuma ɲumanw di. Olu bɛɛ tɛ waati walima ka laɲini dɔ. Aw bɛ se ka [sɛnɛkɛ fɛnw](/activities/printable/) bɛ ka sɛnɛ ka ɲɛ fana.

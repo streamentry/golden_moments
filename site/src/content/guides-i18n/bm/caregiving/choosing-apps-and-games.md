@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Dementia Apps and Games: How to Choose Wisely"
+seoTitle: "Choosing Dementia Apps and Games: A Checklist"
+description: "Un jɛkabɔ ka dɛmɛ ni kalan dɔrɔn ka bɛn dementia ka kɛlɛw ni o bɛnnin: aw ka makɔnɔ labɛn fɔlɔ, waatigɛlɛ, sɛbɛn ni ɲɛmɔgɔya ɲɛfɛ, ani aw ka ko dɔ tɛ min ɲɛnɛma ko ka kɛ."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Aw ka makɔnɔ labɛn fɔlɔ: aw bɛ se ka kɛ ni kalan dɔrɔn ka hakili ka kɛ, ka hakili ka kɛnɛ ka kɛ, ka hɛrɛ ni jigiya ye, walima ka mɔgɔw ka ɲɛmɔgɔya kɛ. O kɔfɛ, aw ka kalanden sugandi kɛ min bɛ mɔgɔ min ka fɛn dɔw bɛ se ka kɛ bi, ni sɛbɛn ɲɛnɛ, waatigɛlɛ tɛ, sukɔrɔ tɛ, ani sɛbɛn sɛbɛn tɛ, ani aw bɛ se ka a tiɲɛ ka bɔ kɛ kosɛbɛ. A bɛ se ka a dɔn ten min bɛ sigi fɔ ni a bɛ se ka a ɲɛnɛ ka bɔ. Ka hakili to ka dementia kɔrɔfɔ wala a kɛ sigi, o ka ɲɛfɛ ye: kalan dɔ tɛ ɲɛfɛ ye.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Makɔnɔ labɛn fɔlɔ: hakili ka kɛ, kalan ka kɛ, hɛrɛ ni jigiya, walima ɲɛmɔgɔya ka kalan ni dɔw ka ɲɛfɛ ye."
+  - "Mɔgɔ min bɛ se ka kɛ bi ka kɛ, a ka waati ye, ka ɲɛfɛ ye ka gɛlɛya tɛ; kɛlɛ, ka makɔnɔ ye ka ɲɛfɛ ye."
+  - "Kalan min bɛ waatigɛlɛ, sukɔrɔ, jiko, lamɛnɛ, sɛbɛn walima sɛbɛn ka makɔnɔ bɛ, o bɛ bɔ ka kɛ."
+  - "Sɛbɛn ɲɛnɛ, sɛbɛn ka tɔ ni a ka bɔ ka kɛ. HIPAA kɛ fɛn dɔw ye, nka a tɛ mɔgɔ ka kalanden ye."
+  - "Ka hakili to ka \"dementia kɔrɔfɔ\" fɛn ye; kalan dɔ ni kalan ka sukɔrɔ ɲɛ tɛ ɲɛfɛ ye."
+  - "Golden Moments ye kalan ye min bɛ kɛ ka dusu ni kumaw ka ɲɛfɛ ye. A tɛ fɛn ye min bɛ kalan ni fɛn dɔw ye."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Hakili kalan ka ɲɛfɛ ka dementia kɔrɔfɔ?"
+    a: "Hakili kalan kalan dɔw ka sɛbɛn ka ɲɛnɛ ka dementia kɔrɔfɔ wala a ka bɔ ka dɔgɔ. Sɛbɛn ɲɛnɛ National Institute on Aging ye ko, sɛbɛn ka ɲɛnɛ min bɛ kalan ka ɲɛfɛ, o tɛ sɛbɛn ka ɲɛnɛ min bɛ kalan ka ɲɛfɛ ni hakili kalan ka sɛbɛn min bɛ ka ɲɛnɛ ka ɲɛfɛ ye. Kalan sugandi ka ɲɛfɛ ka dusu ni ɲɛmɔgɔya ye, dawa ye tɛ."
+  - q: "HIPAA bɛ kalan ka sɛbɛn kɔnɔ wa?"
+    a: "Ɔwɔ tɛ. HIPAA bɛ kɛ kɔlɔsili ka ɲɛmɔgɔw, dɔnkilidaw ni olu ka ɲɛmɔgɔw ye. Kalan min aw yɛrɛ bɛ a bila, o tɛ HIPAA kɔnɔ tuma dɔw la. FTC ka Health Breach Notification Rule bɛ kalan dɔw kɔnɔ min HIPAA tɛ."
+  - q: "Dementia kalan ɲɛfɛ bɛ kɛ cogo di?"
+    a: "Ɲɛnɛ fɛ ni sɛbɛn fɛ, ka ɲɛ ni fɛn dɔ kelen ye ɲɛkɔrɔ kɔnɔ, waatigɛlɛ tɛ, sukɔrɔ tɛ, sɛbɛn ka lamɛnɛ tɛ, ɲɛmɔgɔya tɛ, ani a bɛ se ka bɔ walima ka tiɲɛ kosɛbɛ. A ka kɛ mɔgɔ kɔrɔ ye, ani mɔgɔ fɔlɔ bɛ se ka don ka kɛ ka ɲɛfɛ."
+  - q: "Golden Moments bɛ fɔ ko a bɛ hakili dɛmɛ?"
+    a: "Ɔwɔ tɛ. Golden Moments ye kɛlɛ dɔ ye min bɛ kɛ ka dusu ni kumaw ka ɲɛfɛ ye. A tɛ dementia ka kɔrɔfɔ, a ka tɔɔrɔ, a ka dɔgɔ wala a ka suɲɛ ye, ani an tɛ hakili kalan ka fɛn fɔ."
+  - q: "Ka wari di dementia kalan ye wa?"
+    a: "Fɔlɔ ka kɛlɛ bɛɛ ka wari tɛ walima ka kalan ka sɛbɛn fɔlɔ ka ɲɛ. Ka mɔgɔ ka ɲɛmɔgɔya ka lɔ kɛ don fɛ kalan ka kɛ. Wari di kalan ye ka ɲɛfɛ ka ɲɛ tɛ. Ka kalan kɔnɔ fɔ ka a ka wari ka kɛ ka bɔ kɛ kɔfɛ."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,121 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+App sɔrɔli ka bɔ ko "mɔgɔ kɔrɔw ye", "hakili" walima "dementia" ye. Dɔw ka ɲɛ bɛ, dɔw bɛ waatigɛlɛ, sɔrɔ dɔw bɛ sɛbɛn walima sɛbɛn ka kɛlɛ. Nin kunnafoni bɛ kɛ aw ka ɲɛfɛ ye ka app bɛɛ ɲɛfɛ. An tɛ app wɛrɛw ka ɲɛfɔ wala ka ɲɛmɔgɔya kɛ.
 
-## What should I decide before choosing a dementia app?
+## Dementia app dɔ sugandi fɔlɔ, nɔ bɛ min ka makɔnɔ?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Aw ka makɔnɔ labɛn fɔlɔ. "Ma ka kalan" bɛ se ka kɛ fɛn caman ye, ani makɔnɔ dɔ ka ɲɛfɛ bɛ se ka gɛlɛya makɔnɔ wɛrɛ ye.
 
-| Goal | What it looks like | What to look for |
+| Makɔnɔ | A bɛ i ye cogo di | Min bɛ ɲɛnɛ |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Kɛnɛ hakili | Kɛlɛ ni ɲɛ, lɔ wala kumaw ka kalan | Gɛlɛya bɛ se ka yɛrɛ ka ɲɛ, ɲɛfɛ bɛ kɛ, waati gɛlɛya tɛ |
+| Hakili kɛnɛ | Sɛbɛn kɔrɔ wala kumaw min ye, ka sɛbɛn kɛ ni dusukun ka kɛlɛ | Aw ka ɲɛfɛ, ka kumaw kɛ, sɛbɛn tɛ |
+| Hɛrɛ | Kɛlɛ min bɛ jigi, ɲɛfɛ min ka fɔlɔ, kɛnɛ min bɛ kɛ | Ka se ka bɔ ani ka tiɲɛ kosɛbɛ, ka fɛn kɛnɛ tɛ, ka fɛn sɔrɔli tɛ |
+| Ɲɛmɔgɔya | Ka kɛlɛ walima ka kumaw ka kɛ aw ni mɔgɔ dɔ ye, sɔrɔ walima ka kɛ video la | Mɔgɔ fila ka kalan ye, kumaw ka kɛlɛ |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Sɛbɛn kɛlɛ ka "structured cognitive stimulation" dɔ ka fɛn caman bɛ kɛ jama kɔnɔ, ni ɲɛnɛ fɛ ka kalan ni kuma, kɛlɛ, dɔ ni dusu ye. Ka sɛbɛn ka ɲɛnɛ bɛ kɛ ko [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ka ɲɛfɛ dɔgɔ kosɛbɛ, ka ɲɛfɛ min bɛ yɛrɛ ka fɛn fɛ. Nin kalan ni app dɔ tɛ kelen ye, ka app dɔ kɛ kɛlɛ dɔ ye min bɛ kɛ jama kɔnɔ.
 
-## How do I know if an app fits the person's abilities?
+## Mɔgɔ ka se ka app ni a ka fɛn bɛ se ka kɛ, o ɲɛnɛ cogo di?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Ka mɔgɔ ka kɛ ye ka ɲɛ, ka a tɔ kɔrɔ ka fɔ a ka "stage" ye. Mɔgɔ fila min bɛ "stage kelen" kɔnɔ, u ka ɲɛ, ka kɛlɛ, ka kuma, ni u ka dusu ka ɲɛfɛ ka don kalan ni ɲɛnɛ kɔnɔ ka yɛlɛma. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ye ko, aw ka ɲɛ ka mɔgɔ ka kɛlɛ fɔlɔ ni a ka fɛn ka ɲɛfɛ ka dusu ye, ka kɛ ka ɲɛfɛ, ka tɛ ka ɲɛfɛ ka ɲɛ.
 
-Signs of a good fit:
+Ɲɛnɛ ka ɲɛfɛ:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- a bɛ kɛ ni sɛbɛn tɛ, a bɛ se ka don;
+- a bɛ dusu, a bɛ kuma walima a bɛ ko dɔ fɔ;
+- a tɛ dusu ka ɲɛ ni fili ye;
+- a bɛ se ka bɔ ni waati bɛ se.
 
-Signs it is a poor fit:
+Ɲɛnɛ ka gɛlɛya:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- "Ne tɛ se" walima "nin ye fili ye" bɛ sɔrɔ ka tɛmɛ;
+- a tɛ ɲɛ ka ɲɛ min bɛ kɛ;
+- sɛgɛn, hakɛto walima a bɛ sɛgɛ ka ɲɛnɛ bɛ kɛ min ka fɛn;
+- a bɛ se ka kɛ ni aw bɛ fɛn caman kɛ.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Sɛgɛn ye ɲɛnɛ ye, a tɛ ka ɲɛ ka kɛ. Ka [mɔgɔ ka "ɔwɔ" ka fɔ](/caregiving/when-they-say-no/) ɲɛfɛ. App kɔfɛ ka fɛn sugandili, [early-stage](/activities/early-stage/) ani [late-stage](/activities/late-stage/) kalan dɔw bɛ sɔrɔ.
 
-## What design features should I look for or avoid?
+## Ni app bɛ ɲɛfɛ, ni fɛn min bɛ kɛ, o bɛ se ka kɛ cogo di?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Ka ɲɛ ka kɛ ka sɛbɛn ka fɛn ni ɲɛ, ka sɛbɛn ni kuma, ani ka sɛbɛn ka sɛbɛn kɔrɔ. Ka fɛn ni ɲɛ, ani ka sɛbɛn ka ɲɛfɛ ka fɛn kɛnɛ, o bɛ ɲɛ.
 
-| Look for | Be wary of |
+| Ka fɛn ɲɛ | Ka fɛn ka ɲɛfɛ |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Sɛbɛn kɔrɔ ni ka ɲɛfɛ kɛlɛ | Sɛbɛn ka ɲɛ tɛ, sɛbɛn caman |
+| Ɲɛkɔrɔ kelen ye kɛlɛ dɔ | Ɲɛkɔrɔ caman, menu wala sɛbɛn ka sɛbɛn kɛlɛ |
+| Waatigɛlɛ tɛ, walima waatigɛlɛ ka se ka bɔ | Waatigɛlɛ bɛ ka tiɲɛ, sukɔrɔ, "i ka waati ka tɛmɛ" |
+| Sukɔrɔ tɛ, walima sukɔrɔ dɔgɔ | Sukɔrɔ, sɛbɛn, jigiya, "dusu ka dɔnko" |
+| Sɛbɛn sɛgɛn ka ɲɛ | Sɛbɛn sɛgɛ, kulu X, "Wala" ka fɔ |
+| Mɔgɔ ka pɛrɛnɛ ka yɛrɛ, dɔ tɛ bɔ ka mɔgɔw ka ɲɛ | Mɔgɔ ka kɛlɛ kelen kɔnɔ, kɛlɛ min bɛ ɲɛ |
+| Kɛlɛ ka ɲɛ, mɔgɔ ka tɔ, sɛbɛn ka tɔ | Sɛbɛn ka kɛlɛ, jɛkabɔ ka tɔ, kiri ka tɔ |
+| Kɛlɛ bɛ se ka kɛ, a ka tɔ tɛ | Ka kɛlɛ ka ɲɛ, dɛmɛ tɛ |
+| Ka bɔ ani ka tiɲɛ ka ɲɛ | Pop-up ka sɛbɛn ka kɛlɛ ka tɔ, walima ka "app ɲɛ" |
+| Sɛbɛn tɛ, wari ka ɲɛ | Sɛbɛn, wari ka kɛlɛ caman |
+| Ka mɔgɔ fɔlɔ ka don ka kɛ ka ɲɛfɛ | Mɔgɔ kelen kɔnɔ, mɔgɔ ka kɛ ka ɲɛ |
 
-Ads and purchase prompts are easy to tap by accident.
+Sɛbɛn ni wari ka kɛlɛ bɛ ka ɲɛfɛ ka dɔgɔ ka kɛ.
 
-## How do I check an app's privacy?
+## Ka app ka sɛbɛn cogo di?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Ka ɲɛ ka sɛbɛn min bɛ sɔrɔ, ani min bɛ bɔ, ani a bɛ se ka tiɲɛ wala ka. A ka kɛlɛ fɔlɔ:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Ka sɛbɛn ka kuma ɲɛ.** Google Play ka [Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ani App Store ka [privacy information](https://support.apple.com/en-us/102399) bɛ fɛn ye min app bɛ sɔrɔ ani bɔ. U fɛ ko kalan kɛlaw yɛrɛ bɛ o kuma, o tɛ kɛlɛ ka ɲɛfɛ ye, kɛlɛ fɔlɔ ye.
+2. **Ka ɲɛ a ka kɛ ni konti.** Ni app bɛ kɛ sɛbɛn ni kalan tɛ, a tɛ ka don ka i tɔgɔ, email walima i ka sɛgɛn dɔn.
+3. **Ka ɲɛ ka sɔrɔ kɛ.** Ni kalan bɛ kɛ ka location, kontakt, microphone walima i ka sɛbɛn bɛɛ dɔn, o ka fɛn ye wa? Fɛn min tɛ ka gɛlɛya, o ka tɔ.
+4. **Ka ɲɛ sɛbɛn ni tracking.** Sɛbɛn kɛlɛ bɛ se ka kɛ ka kalan ka ɲɛfɛ kuma bɔ mɔgɔ wɛrɛw ma.
+5. **Ka ɲɛ foto bɔlen.** Ni aw ka foto don, u bɛ kɔnɔ wa, walima u bɛ server la wa? I bɛ se ka u bɔ wa?
+6. **Ka ɲɛ ka bɔ.** Privacy policy walima data summary kɔnɔ, ka ɲɛ ka data ani konti bɔ cogo di. App min ko data tɛ se ka bɔ, o ka ɲɛfɛ ka ɲɛfɛ, ni a bɛ foto walima dusu kuma ɲɛ.
+7. **Ka privacy policy ɲɛ** ka ɲɛ ka fɔ ko, fɛn min sɔrɔli, ni o ka mun, ni a bɛ ɲɛ ka fɔ, ani mɔgɔ min bɛ a ye.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA bɛ kalan ka kuma dɔn wa?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Ɔwɔ tɛ, ko min bɛ mɔgɔ caman kɛ ka gɛlɛya. U Department of Health and Human Services ka [kuma](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) bɛ ko HIPAA bɛ kɛ kɔlɔsili, dɔnkilidaw, ani olu ka ɲɛmɔgɔw ye. A tɛ kuma caman kɔnɔ, mɔgɔ ka kalan min a yɛrɛ bɛ sɛbɛn, o tɛ HIPAA kɔnɔ, ni tuma tɛ ka kɛ kɔlɛ ka ɲɛmɔgɔ ka kalan ye. App ka kalan kɛ dementia ye, a bɛ kuma ka dusu ni ka ɲɛ, nka a bɛ se ka tɛ HIPAA kɔnɔ.
 
-### What protects health data in apps that HIPAA does not cover?
+### HIPAA tɛ min ka dɛmɛ, o bɛ dusu ka sɛbɛn cogo di?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission ka Health Breach Notification Rule bɛ kalan caman dɛmɛ. 2024 la FTC [ka kɛlɛ kɔrɔfɛ](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ka ko o rule bɛ kɛ app ni fɛn wɛrɛw ye min HIPAA tɛ. "Breach" bɛ kɛ data min bɛ bɔ ni yɛrɛ ka mɔgɔ tɛ, o tɛ kɛ hack kelen ye, ani kompanieaw ka mɔgɔw ni FTC ka lakana. O ye dɛmɛ ye fɛn ka ɲɛ kɔfɛ, o tɛ ka kuma ko app bɛ sɛbɛn ɲɛfɛ kelen ye.
 
-## How should I read claims about research and evidence?
+## Ka ɲɛ ka sɛbɛn, a ka ɲɛfɛ cogo di?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Ka sɛbɛn kuma ɲɛ ni dusukun ka kɛlɛ, ani ka fɛn ka gɛlɛya ɲɛ fɔlɔ. Ka ɲɛ ka sɛbɛn min kɛ:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Fɛn jumɛn ye min ka ɲɛ kɛ?** Kalan kelen ka sɛbɛn tɛ ko kalan bɛɛ bɛ kɛ kelen ye.
+- **Mɔgɔ jumɛn ye min ka ɲɛ kɛ?** Ɲɛnɛ min kɛ mɔgɔ dusu ye, o tɛ dementia ni mɔgɔ ye.
+- **Fɛn jumɛn ye min ka ɲɛ kɛ?** Ka kalan ka kɛlɛ kɔnɔ ka ɲɛfɛ ye, o tɛ ka kɛlɛ ka kɛlɛ kɔnɔ, kuma, dusu walima mɔgɔ ka ɲɛfɛ ye.
+- **Sɛbɛn ka ɲɛ cogo di?** Randomized controlled trial (RCT) bɛ mɔgɔ dɔ ye min bɛ kalan kɛ, ani mɔgɔ dɔ ye min tɛ. A ka ɲɛ ka kɛ, nka sɛbɛn kelen tɛ fili ye. Sɛbɛn caman ka ɲɛfɛ, mɔgɔ wɛrɛw min ka ɲɛ, o ka ɲɛ ka kɛ.
+- **A bɛ dementia kɔrɔfɔ wa?** Ni sɛbɛn bɛ ɲɛfɛ dɔgɔ ko ka ɲɛ kɛ, o tɛ fili ko app bɛ dementia kɔrɔfɔ, ka a tiɲɛ, walima ka a dɔgɔ.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging ka [kuma](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) min bɛ hakili kalan ka dɔn, o bɛ ko NIH ka sɛbɛn caman ka kalan, ani o bɛ ko aw ka hakili ka ɲɛfɛ ka kɛlɛ, ka kuma ko kalan dɔ bɛ hakili kɛnɛ. A bɛ ko sɛbɛn ka ɲɛnɛ bɛ kɛ ka dusu ni hakili ka kɛlɛ, o tɛ hakili kalan kɔnɔ min bɛ kɛ sɛbɛn kɔnɔ. Aw bɛ se ka kalan ka [brain games](/brain-health/brain-games/) ni [dementia ka kɔrɔfɔ](/brain-health/can-dementia-be-prevented/) ka kuma ɲɛ.
 
-### What is a public example of a misleading claim?
+### Ni fɛn kɔrɔ ye min ye fɛn dɔ ye?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Januari 2016 la FTC ka [kɛlɛ kɔrɔfɛ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ka Lumosity, "brain training" program ka kɛlaw ni u ka kɛlɛ. FTC ko kompani ka kuma ko u ka kalan bɛ hakili ka tɔɔrɔ dɔgɔ, dementia ni Alzheimer's ka kɔrɔfɔ, sɛbɛn ka ɲɛfɛ tɛ. Kompani ye wari 2 million dollar di, ani a ka sɛbɛn kɔrɔ ni sɛbɛn ka ɲɛfɛ ka don kɔfɛ. Nin ye kuma ye ko kuma ka sɛbɛn tɛ.
 
-### Which words are red flags?
+### Ni kumaw min bɛ ɲɛfɛ?
 
-Be cautious when an app or ad says it:
+Aw ka ɲɛ ni app walima dɔnkili bɛ fɔ ko:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- "bɛ dementia walima Alzheimer's ka kɔrɔfɔ," "bɛ a dɔgɔ," "bɛ a tiɲɛ," "bɛ a kɛ fɛn tɛ";
+- "clinically proven" ko, nka sɛbɛn tɔɔ tɛ, mɔgɔ min bɛ kɔnɔ, ani fɛn min ka ɲɛ tɛ;
+- "brain age" walima hakili sukɔrɔ min bɛ ko mɔgɔ dusu bɛ;
+- "bɛ hakili kɛnɛ," "bɛ a ka fɛn kɛ," "bɛ hakili kalan";
+- mɔgɔw ka kuma bɛ kɛ sɛbɛn ye.
 
-If you are unsure about a claim, ask the person's doctor.
+Ni aw ma dɔn, a ka a ka dɔkitɔrɔ ka ɲɛ.
 
-## Where does Golden Moments fit?
+## Golden Moments bɛ min ka fɛn ye?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ye kɛlɛ dɔ ye min bɛ kɛ jama kɔnɔ, a tɛ hakili sɛbɛn, a tɛ kɛlɛ, walima dɔkitɔrɔ ka kuma. An ka kalan, i ko [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ani [Calm Breathing](/games/calm-breathing/), u bɛ kɛ dusu ni kuma ye. U tɛ dementia ka kɔrɔfɔ, a ka tɔɔrɔ, a ka dɔgɔ wala a ka suɲɛ ye, ani an tɛ hakili kalan ka fɛn fɔ.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+An bɛ app dɔ bila fana, [Golden Moments for iPhone, iPad and Android](/app/). A bɛ sɛbɛn ni tile caman ka mɔgɔ ka ɲɛfɛ, foto ka kalan ni aw ka foto min sugandi, ani foto pack min bɛ kɛ offline, konti tɛ, sɛbɛn tɛ, waatigɛlɛ tɛ, sukɔrɔ tɛ. Kunnafoni ka kɛ ye, o ka kuma ka kɛ: App Store ka privacy label bɛ kɛ "Data Not Collected" (English la), ani [app privacy policy](/app-privacy/) bɛ fɔ foto ka kɔrɔ min bɛ maro.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+An bɛ fɛ ko aw ka an ɲɛ, aw kɛ ka an ɲɛ ka kɛ ka an dɔn. Aw ka nin kunnafoni ka ɲɛfɛ, aw ka an [privacy page](/privacy/) ani [medical disclaimer](/medical-disclaimer/) ɲɛ, ani aw ka fɛn bɛɛ bɔ, an ka ko min bɛ ka mɔgɔ ka kalan ni a ka fɛn ma ka tɔ, o ko bɔ.
 
-## What is a sensible way to try a new app?
+## App kura ɲɛ cogo di?
 
-Try it together for a couple of weeks and watch what happens.
+Ka kɛlɛ kɛ ni mɔgɔ ye don kɛlɛ ka ɲɛ, ka ɲɛ ka fɛn min kɛ.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Ka a sɛgɛn fɔlɔ** ni an [tablet and phone setup guide](/caregiving/tablets-and-screens/), ka daminɛ ni ka ɲɛ nɔgɔn ka kɛlɛ.
+2. **Ka waati dɔgɔ kɛ,** ka dusu, kuma ani hɛrɛ ɲɛ, ka kɛlɛ bɔ ni fɛn ɲɛ.
+3. **Ni kɛlɛ ka gɛlɛya kɛ, a bɔ,** a ka tɛ ka kɛ ni a ka tɔgɔ ye.

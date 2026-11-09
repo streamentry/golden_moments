@@ -1,541 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Go to the main content",
+    "skipLink": "Arore ngeni bwimwin tekuteku",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home page",
-    "mainNav": "Main menu",
+    "brandTag": "Mwakumwakun engame ma demensia",
+    "homeLabel": "Bwiin Golden Moments",
+    "mainNav": "Nuaw me ean",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Language",
+    "defaultImageAlt": "Golden Moments: pija me ekay, kapin ti, titaubwij me yimur",
+    "languages": "Dorer",
     "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "machineTranslated": "Bwien peij ñea etu oweron iyit makin me epo e reit iyit engame ñea dorerin Naoero.",
+    "readOriginal": "Aea dorerin Ingeran me obwen",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Kiwiñ",
+      "activities": "Mwakumwaku",
+      "caregiving": "Reit edet",
+      "brainHealth": "Iwiin anan"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Kiwiwid me uweron",
+    "breadcrumb": "Bredkram",
+    "home": "Bwiin",
+    "lastUpdated": "Aea mwiñen",
+    "topics": "Mwak",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text",
-      "contrast": "Higher contrast"
+      "label": "Ekayin tekuteku",
+      "smaller": "Tekuteku me nene",
+      "larger": "Tekuteku me ekay",
+      "contrast": "Tekuteku me emare"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Activities for the later stage",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "Kiwiñ",
+    "picturePairs": "Pija me ewe",
+    "conversationCards": "Kadi me dorer",
+    "pictureBingo": "Bingo me pija",
+    "allGames": "Omo kiwiñ",
+    "pictures": "Pija me print",
+    "activityIdeas": "Nuaw me mwakumwaku",
+    "ideas101": "101 nuaw me mwakumwaku",
+    "lateStage": "Mwakumwaku ngeni auweron me ean",
+    "printable": "Mwakumwaku me print",
+    "allActivities": "Omo mwakumwaku",
+    "forCaregivers": "Ngeni engame me reit edet",
+    "playTogether": "Bwena kiwiñ ma ngage",
+    "selfCare": "Reit edem",
+    "brainHealth": "Tutuin iwiin anan",
+    "faq": "Kiwiwid me uweron",
+    "about": "Aea Golden Moments",
+    "approach": "Anida mwaku",
+    "howWeWrite": "Bwena am tekuteku",
+    "organizations": "Ngeni kupe",
+    "app": "Ap me Golden Moments",
+    "appHelp": "Iwiid ngeni ap",
+    "support": "Iwiid",
+    "legal": "Garuw",
+    "sitePrivacy": "Bwiin websait me aban",
+    "appPrivacy": "Polisi me aban me ap",
+    "privacyChoices": "Nuaw me aban",
+    "terms": "Kondisin me laisen me ap",
+    "safety": "Mo me eñe mwaku",
+    "accessibility": "Mwak ngeni omo engame",
+    "healthNotice": "Mwak me eñin anan",
+    "allLegal": "Omo mwak me garuw",
+    "note": "Golden Moments e kudo mwakumwaku me eñid ngeni engame ma ngage. Epo e mediko advais, epo e test me triitment, me epo e skoa me measa engame. Ngeni kiwiwid me eñin anan, dorer ma dokta. Ngeni emejensi, omamo 111.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
     "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together, at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "description": "Kiwiñ me pija me free me kamie me e aea onlain me nuaw me mwakumwaku ngeni engame ñea etoani demensia me Alzheimer's ma engame me reit edet. Epo e sain-ap, taiyim me skoa.",
+    "eyebrow": "Free · Epo e ads · Epo e sain-ap · Epo e taiyim me skoa",
+    "h1": "Kiwiñ me Mwakumwaku me Kamie ngeni Engame ma Demensia",
+    "lede": "Kiwiñ me pija me eñid, pija me o eñena, me mwakumwaku me e kaiyet ma ngage—ngeni taiyim me o mwina.",
+    "playGame": "Kiwiñ a Kiwiñ",
+    "findIdeas": "Aea nuaw me mwakumwaku",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Mwak ngeni terepon, tablet me kompiuta",
+      "Pija me ekay me e mendu",
+      "Mudubwen ngeni aen taiyim; epo e bwabwa"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Ap me free ngeni iPhone, iPad me Android, ma pija me famili amen",
+    "albumNote": "“Aro pija me kapin ti, ma ngage.”",
+    "gamesEyebrow": "Kiwiñ ngeni browser",
+    "gamesTitle": "Kiwiñ me o kiwiñ ngage",
+    "gamesLede": "Omo kiwiñ e kamie, ngeni engame me ekay me uwe ngeni arama. Kudo a kiwiñ, tekeda ma ngage, me kikiwin tei.",
+    "seeAllGames": "Aea omo {count} kiwiñ",
+    "howTitle": "Bwena mwaku",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Kudo me o eñena",
+        "text": "Pija me kapin ti, garen, pets me bout. Epo e tekuteku me ruls me aea obwen."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Tekeda ma ngage",
+        "text": "Kudo me kikiwin. Dorer ngeni pija. Pija me epo e ewe e mendu ngeni aen kikiwin."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Mudubwen ñea e kaiyet",
+        "text": "A kiwiñ e nuaw me omo mwakumwaku. “Mudubwen ngage” e mendu ngeni skriin."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Iyo me skriin",
+    "stageTitle": "Nuaw me mwakumwaku ngeni omo taiyim",
+    "stageLede": "Dorerin eke, mwaku me eñed, eñenan me kamie me iwiid, me e arama ngeni me o mwina ngage.",
+    "ideas101": "101 nuaw me mwakumwaku",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Taiyim me obwen",
+        "text": "Mwak me o mwina, ma kakid me eñid: hobis, fariu, kiwiñ me dorer me nuaw ma ngage.",
+        "label": "Nuaw ngeni taiyim me obwen"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Taiyim me ior",
+        "text": "Mwak me eñid me o eñena: foud, sort, dorerin eke, kiwiñ me pija me teteri.",
+        "label": "Nuaw ngeni taiyim me ior"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Taiyim me auweron",
+        "text": "Kamie me dorer ma ngage ngeni tapo, dengeringer me aea: reit bai, dorerin eke me mwina, pija me tekeda ma ngage.",
+        "label": "Nuaw ngeni taiyim me auweron"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "O kudo mwak me eñena? Aea <a href=\"/activities/alzheimers/\">mwakumwaku me kiwiñ ngeni Alzheimer's</a>, <a href=\"/activities/memory-games/\">kiwiñ me kamie</a>, <a href=\"/activities/trivia/\">trivia me eñid</a> me <a href=\"/activities/puzzles/\">pasels</a>.",
+    "approachEyebrow": "Anida mwaku",
+    "approachTitle": "Mwakumwaku ma ngage, epo e test me anan",
+    "approachLede": "Kiwiñ me anan me meam e mwak ngeni arama, skoa me rekod. Ngeni engame ñea etoani demensia e mwina me eñin ekzam. Am mwak me ibwiin me ian.",
+    "approachLink": "Bwena am mwak iyei",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Epo e bwabwa",
+        "text": "Epo e kurok, skoa, laifs me luus. Pija me tsimine e mendu, epo e mistek."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Pija e mendu",
+        "text": "Aea me eñena, epo e kakid me anan. Pija e pwiye iat ebwan, me epo e kakid ngeni anan."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Ngeni engame me ekay me maran",
+        "text": "Dorer me maran me eñid ma pija me kor. Epo e katoon me dorerin amweno."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Aban me bwina",
+        "text": "Epo e akaun me ads. Pija amen e mendu ngeni divais amen."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ngeni engame me reit edet",
+    "guidesTitle": "Bwena reit edet ngeni aen rube",
+    "allCaregiving": "Omo gaid me reit edet",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Bwena kiwiñ ma ngage",
+        "text": "Aea bwina, taiyim, me mwak ñea kiwiñ e epo e kaiyet."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Ñea etang e epo e mwina kiwiñ",
+        "text": "Nuaw me epo e mwina, me bwena kiwiñ ma ngage ngeni taiyim me ian."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Bwena kudo tablet",
+        "text": "Tekuteku me ekay, epo e mwak me kakarou, me skriin me eñid."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Mwakumwaku me free me print",
+        "text": "Kiwiñ me dorer me tekuteku ekay, peij me kala, bingo me kadi me dorer."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Iwiin anan: me tutuin e eñena",
+    "researchText": "Demensia e buwida me arama? Kiwiñ me anan e iwiid? Bwena ngeni eñan, daet, kibu me dengeringer? Uweron me maran me kor, ma mwak me tutuin e epo e pwiye.",
+    "researchLink": "Aea gaid me tutuin",
+    "appEyebrow": "Ap ngeni divais",
+    "appTitle": "Golden Moments ngeni iPhone, iPad me Android",
+    "appText": "Ap me free e mwak oflain me kudo pija me famili me o mwina, me mendu ngeni divais amen. Desain me kamie: auwo pija me ekay, epo e taiyim, epo e skoa.",
+    "aboutApp": "Aea ap",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Ko ngan kangape ko ibe ko ngan a kakabo, ko ngan a pressure: pictures ko boboi ko ngan a matching, sorting, jigsaw ko ibe, ko ngan a finishing ko sayings ko ibe, colouring, picture bingo ma conversation cards. Ko ngan ko ibe ko mwi ko ngan ko ibe ko oni ko ngan e ngan ko ngan ko ibe. Ko timers, scores ma ko ngan ko ngan a test, ko ngan ko ibe ko ngan."
+        "q": "Me kiwiñ me ekay ngeni engame ma demensia?",
+        "a": "Kamwitwit ngago eor re bita e mwamwi, omo ekoe erowa, ma eko kowen: pija egbil me e etok, bita ikurin, jigsaws me e mwamwi, kaeodun dorer ngago engame erowa, kala, bingo me pija, ma kad nio kakaraman. Bita me magit ngago amen bita e ouga an kakaraman ean bita ibum. Eko kowen re taim, makur me e bita maka, me eko me e arongeiy me aea test."
       },
       {
-        "q": "Ko ngan kangape ko dementia ko free?",
-        "a": "Aiwo. Ko ngan ma printable ko Golden Moments ko free, ko ngan account, sign-up ma download. Ko ngan ko ibe ko web browser ko phone, tablet ma computer."
+        "q": "E kamwitwit me dementia nio eko amwien?",
+        "a": "E. Omo kamwitwit me pepa me e bita mwitwit ean Golden Moments eko amwien, eko akaun, sign-up me eko daunlod. Kamwitwit nio re mwitwit ean browser ean fon, tablet me kombiuta."
       },
       {
-        "q": "Ko brain games ko ibe ko prevent dementia?",
-        "a": "Ko ngan ko oni ko ibe ko prevent dementia, ma Golden Moments ko ngan ko claim ko treat ma prevent ko ngan. Ko ngan ko ibe ko enjoyment ma ko time ko ngan. Ko brain health ko ngan ko explain ko research ko ngan ko show ma ko ngan ko show."
+        "q": "E kamwitwit in tutuo bita e iuwin dementia?",
+        "a": "Eko kamwitwit me e ainganiyen bwe e iuwin dementia, ma Golden Moments eko an dorer me e kiudo me e iuwin ouga. Kamwitwit ma ngago an Golden Moments e bita kakaraman ma an e pwipwi ibum. Bita sekson in tutuo an aen e bita e waneiy me ainganiyen me dorer me e waneiy me research."
       },
       {
-        "q": "Ko ngan ko ibe ko someone ko Alzheimer's?",
-        "a": "Aiwo. Alzheimer's ko most common cause ko dementia, ma ko ngan ko ibe ko ngan: pictures ko stay showing, choices ko kakabo, ma ko nothing ko remember ko ngan get wrong. Matching, sorting ma finishing ko sayings ko familiar ko ngan ko lean ko long-held knowledge, ko ngan ko learning ko ngan."
+        "q": "E kamwitwit nio e omo re engame me bita Alzheimer's?",
+        "a": "E. Bita gogoro Alzheimer's e bita me e gbil in oron me dementia, ma kamwitwit nio me aiyuin me bita: pija egbil me e pwer, mwaid me eko mwait, ma eko me bita aea tutuo me ba ouga. Etokon, ikurin, ma kaeodun dorer ngago erowa e iuwin ean tutuo me etam oiya erowa, ma eko me bo me e rita."
       },
       {
-        "q": "Ko someone ko later-stage dementia ko ngan ko use ko activities?",
-        "a": "Ko ngan ko often, aiwo, ko someone ko beside. Start ko Find the same ko two pictures, Picture pairs ko four tiles, coloring page ma calm breathing pause. Keep ko short, follow ko lead ko ngan ma stop ko when ko ngan had enough."
+        "q": "E engame me bita dementia me etam uwan e mwitwit nio?",
+        "a": "Mwait ibum, e, me engame epwipwi ean arere. Omo kamwitwit Find the same me pija aro, Picture pairs me tile eangit, pepa in kala, me arongeiy an tutuo. Ouga me mwamwit, aea an ouga, ma kaeodun ngago e meta me e da."
       },
       {
-        "q": "Ko information ko ngan ko private?",
-        "a": "Ko site ko ngan ko accounts ma ko advertising. Ko ngan ko use Google Analytics ko understand ko pages ko visited. Ko photos ko ngan ko choose ko Photo pairs ko shown ko browser ko ngan ma ko ngan uploaded."
+        "q": "E dorer ngago an ngaga e kowen?",
+        "a": "Bita sait eko akaun me eko ad. Anga aea Google Analytics me e aen bita pej ngago engame e rita. Pija ngago ekoe ituga me Photo pairs e ainganiyen re browser engame ma eko bita upload."
       },
       {
-        "q": "Ko who ko make Golden Moments?",
-        "a": "Golden Moments ko small team ko making calm, adult picture activities ko families ma caregivers, ko web ma ko free app. Ko ngan clinicians, ma nothing ko here ko medical advice."
+        "q": "Iga me aiyuin Golden Moments?",
+        "a": "Golden Moments e bita amen makur me eko gbil me aiyuin kamwitwit me pija me mwamwi re faimli me amen aea engame, ean web me app eko amwien. Anga eko dokta, ma eko me nio bita medical advice."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "bita me oiya",
+    "middle": "bita me inuged",
+    "late": "bita me etam",
+    "hintOne": "E omo re stage {list}",
+    "hintMany": "E omo re stages {list}",
+    "labelEarly": "Stage me oiya",
+    "labelMiddle": "Stage me inuged",
+    "labelLate": "Stage me etam"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Dorer me bita kamwitwit",
+    "printable": "Pepa in print",
+    "play": "Mwitwit {name} →",
+    "readGuide": "Rita bita guide"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score ma nothing ko sign up. Play together ko browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "E omo am kamwitwit me mwamwi?",
+    "text": "Pija egbil, eko taim, eko amwien me eko sign-up. Kamwitwit epwipwi ean browser.",
+    "play": "Mwitwit Kamwitwit",
+    "all": "Aea omo kamwitwit",
+    "aria": "Mwitwit kamwitwit"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "Ko free Golden Moments app ko iPhone, iPad ma Android: picture tiles ko large, games ko family photos ko ngan, ma picture packs ko work ko ngan Wi‑Fi. No account, ads, timer ma score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Oiya kamwitwit nio re ibum",
+    "text": "Bita free app Golden Moments me iPhone, iPad me Android: pija egbil, kamwitwit me pija me an faimli, me pija ngago mwitwit me eko Wi‑Fi. Eko akaun, ads, taim me skoa.",
+    "appStore": "Oiya ean App Store",
+    "googlePlay": "Oiya ean Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Dorer me bita app",
+    "aria": "Oiya bita app"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities ko People ko Dementia",
-      "seo": "Activities ko People ko Dementia: Ideas ko Stage",
-      "description": "Activity ideas ko people living ko dementia ko every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors ma free printables.",
-      "lede": "Meaningful activity ko anything ko brings comfort, purpose ma moment ko connection. Start ko what ko person ko always enjoyed, ma adapt ko today."
+      "label": "Kamwitwit",
+      "title": "Kamwitwit re Engame me bita Dementia",
+      "seo": "Kamwitwit re Engame me bita Dementia: Aen ean Stage",
+      "description": "Aen in kamwitwit re engame me bita dementia ean omo stage: miusik, tutuo me erowa, makur in ibum, sensory moments, makur in be, rogon me pepa me eko amwien.",
+      "lede": "Kamwitwit me e omo e bita me e kaetawa, e omo tutuo, me e oiya te moment epwipwi. Omo me bita me amen bita e goro erowa, ma kaeodun me ibum nio."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides ko dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps ma self-care.",
-      "lede": "Plain, practical help ko everyday moments ko caring ko someone living ko dementia, including caring ko yourself."
+      "label": "Aea engame",
+      "title": "Guides me Aea Engame",
+      "seo": "Guides me Aea Engame me Dementia: Iuwin me Ibum",
+      "description": "Guides me mwamwi ma omo re amen aea engame me dementia: kamwitwit epwipwi, dorer, ngago e ouwa, ngago e meta me atawe, tablet, ituga app me aea ngaga.",
+      "lede": "Iuwin me e mwamwi me omo re ibum in aea amen ngago ekoe aea me bita dementia, me an aea ngaga."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health ma Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides ko dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing ma early warning signs.",
-      "lede": "What large studies actually show ko lowering dementia risk, explained plainly, including where the evidence is weak ko mixed. General information, not medical advice."
+      "label": "Tutuo in aen",
+      "title": "Tutuo in Aen: Dorer me bita Research",
+      "seo": "Tutuo in Aen me Risk me Dementia: Dorer me Research",
+      "description": "E iuwin dementia me e ainganiyen? Guides me e kakaraman ean risk me dementia, kamwitwit in tutuo, fasting, ean, exercise, matur, arongeiy me aen me oiya.",
+      "lede": "Bita me research me egbil e aen me iuwin risk me dementia, dorer me mwamwi, me ngago me dorer e eko me e kowen. Dorer in general, ma eko medical advice."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
+    "updated": "Kaewen",
+    "minuteRead": "Rita ean {n} minit",
+    "byTeam": "Aiyuin me bita team Golden Moments",
+    "howWeWrite": "Rogon anga aea",
+    "shortAnswer": "Dorer me mwamwi",
+    "onThisPage": "Ean pej nio ({n} sekson)",
+    "commonQuestions": "Duwen ngago e mwait",
     "sources": "Sources",
-    "sourcesNote": "We link ko the organizations ma studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "sourcesNote": "Anga ainganiyen link re organizations me studies ngago pej nio e aea. Omo me nio aea ngago kaewen pej nio.",
+    "tryTogether": "Kamwitwit epwipwi",
+    "relatedGuides": "Guides me arere",
+    "related": "Me arere",
+    "startHere": "Omo ean nio"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research ko families. It cannot tell you what is right ko one person. Talk ko a doctor before changing diet, exercise, sleep, medicines ko supplements. For sudden confusion ko other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Notis me health information",
+    "title": "Dorer in general, ma eko medical advice",
+    "textHtml": "Pej nio e dorer me published research re faimli. Eko iuwin me e dorer me omo re amen aea. Dorer me dokta me eko kaewen ean, exercise, matur, edet me supplement. Ngago e bita atawe me kaewen in tutuo, aea medical help me mwamwi. <a href=\"/medical-disclaimer/\">Rita bita notis me health information</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores ma streaks, why pictures stay showing, ma what we will ma will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver ma someone living ko dementia can enjoy side by side.",
-      "bodyHtml": "<h2>Me aita aea iduwen</h2><p>Te bwiida me aea ninino e nita me iya: dorer, mema, te omar in te piksa erik, me nita in tekawa ma etea. Ete iat bwe anang engame, teik bwe e magit me aea iduwen meta.</p><p>Aebum app in brain-training e re iat mwin, score, streaks me levels. Bwiin engame ngaga etea dementia, e kona nita me exam me ete kona pass. Aita erian teina me aita touwi tarawong nein:</p><ul><li><strong>Eke me ko fail.</strong> Eke clock, score, move counter, mour, streaks, confetti me countdown, iat screen roo.</li><li><strong>Aea me omar ngaga keta iat baga.</strong> Piksa roo e re keta kakar. Dorer e mena dorer me ete quiz eta me aea ngaga orin.</li><li><strong>Gagago, plain me kateitei.</strong> Dorer gagago me piksa gagago, contrast obwien, me control roo e keta iat tebana ebika.</li><li><strong>Dignity in engame gagago.</strong> Piksa in eb ebika me dorer plain me warm. Eke cartoons, sing-song praise me emoji rewards.</li><li><strong>Marara bwe ko eao.</strong> “Done for now” e bita keta. Nuwaer bwe ko oiya iat nukan.</li><li><strong>Private ean aita.</strong> Eke accounts me ads. Piksa roo ko aea e re keta iat device am.</li></ul><h2>Me aita ete claim</h2><p>Games aita e nita bwe enjoyment me connection. Ete diagnose, test, measure, treat, slow me prevent dementia me Alzheimer’s disease, me eke engame me aea teina bwe anea. Ngaga aita erian research iat <a href=\"/brain-health/\">brain health pages</a> aita, aita dorer plain ean te evidence me weak, me aita ete connect iat games aita.</p><h2>Aita me iya</h2><p>Golden Moments e nita team eke gagago me independent. Aita ete clinicians. Guide aita e erian ngaga guidance published bwiin organizations nita National Institute on Aging me Alzheimer’s Association, me guide roo e lists source roo. Read <a href=\"/editorial-policy/\">metu aita erian me check pages aita</a>.</p><h2>Dorer me aita me iya me kona help</h2><p>Aita keta mwiya bwe aita runguw me iya me nuwaer me ete nuwaer, especially bwiin engame ngaga etea dementia, family caregivers me staff in activity. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Kamwitwit Epwipwi, Ma Eko Test me Tutuo",
+      "seoTitle": "Dorer me Golden Moments: Rogon anga aea",
+      "description": "Bita ibit ngago kamwitwit an Golden Moments eko timer, skoa me streak, bita pija me e pwer, me dorer me anga kaewen me dementia.",
+      "crumb": "Rogon anga aea",
+      "lede": "Golden Moments e aiyuin kamwitwit me pija me mwamwi ngago amen aea me engame me bita dementia re kamwitwit epwipwi ean arere.",
+      "bodyHtml": "<h2>Nan engame iat enim</h2><p>Dogin awo katenten engame, e reidamen ngago nane kogon: dorer, memer, e mwiya ngago eto pija iat aiya, me aea bwo wo ean me tengani engame. Eab dogin bwo wo aea ean kaimo, me katow, me katei ian nim ean.</p><p>Makur me katenten me bwiema n ninikini ian phone bet app me ebo, e katei ean bwo wo ekaura, me e tsimine score me level me timer. Dogin engame ñe e tsimine dementia, e kakum bwo aea n exam me eab omo bwo wo paas. Am makur e kowawa ian bwo e omo, me a kogon iat kikiñ nane:</p><ul><li><strong>Eab tsimine fail.</strong> Eab tsimine kurok, score, katen ian timer, lives, confetti, me countdown ian aea n screen.</li><li><strong>Aea me ata, eab aea bwo wo ninikini.</strong> Pija e tsimine ngago omo. Dorer me katenten e katei bwo wo dorer me eab kiudoita dogin eg me ninikini me bwiema.</li><li><strong>E raudo, e eti me e kokow.</strong> E raudo dorer me pija, e eti aea, me botin me kontrol e tsimine iat aea n tekinei.</li><li><strong>Aea n kakarau bwo engame e raudo.</strong> Pija n bet ean me dorer me e omo me warm. Eab tsimine cartoon, dorer n meme me praise n ebo, me emoji.</li><li><strong>E eti bwo wo katei.</strong> “E muña ngago nane” e tsimine iat aea. Ngago wo etoga iat nubuwa, e omo ngago nane.</li><li><strong>Private ian aea.</strong> Eab tsimine account me ads. Pija me wo aea e tsimine ian device umen.</li></ul><h2>Nan a eab katei</h2><p>Am katenten e dogin bwo wo mwiya me ean dorer. Eab dogin bwo a doctor me test, measure, katei bwo e omo, me slower me prevent dementia me Alzheimer’s disease, me eab omo bwo engame e aea dogin nane. Ngago a dorer dogin research ian <a href=\"/brain-health/\">peij n ninikini me omo</a>, a dorer e eti ngago evidence eab kor, me a eab eowita me am katenten.</p><h2>Amen Golden Moments</h2><p>Golden Moments e kakarau engame me e gidit. A eab clinician me doctor. Am dorer me guide e bita iat dorer n organization me eto, me aea National Institute on Aging me Alzheimer’s Association, me guide e tsimine aea n sources. Aea <a href=\"/editorial-policy/\">keit a dorer me aea am peij</a>.</p><h2>Dorer me kakum bwo a omo</h2><p>A omo bwo a row ean wo, me nan e omo me nan eab omo, dogin engame ñe e tsimine dementia, famili me amen kakarau engame, me staff n katenten. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "Metu Aita Erian me Check Pages Aita",
+      "title": "Keit A Dorer me Aea Am Peij",
       "seoTitle": "Editorial Policy",
-      "description": "Metu Golden Moments aea research, erian, sources me update dementia activity me brain health pages, me metu aita ete publish.",
+      "description": "Keit Golden Moments e aea research, dorer, aea sources me update peij n katenten me dementia me omo n ninikini, me nan a eab publish.",
       "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Source aita</h2><p>Aita touwi guide aita ean guidance bwiin organizations nita National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance me NHS, me peer-reviewed research nita Cochrane reviews me clinical trials gagago. Guide roo e lists source roo me e relies on. Aita open source roo ean aita cite, me aita report me iduwen e dorer.</p><h2>Metu aita erian</h2><ul><li>Practical ean: me iya ko aea nita, iat dorer plain.</li><li>Iduwen ean evidence: aita dorer “linked with”, “may” me “the evidence is mixed” ngaga iduwen.</li><li>Respectful: aita erian ean engame ngaga etea dementia nita engame gagago, me aita ete use quizzing me shaming dorer.</li><li>Eke invented content: eke made-up statistics, quotes, experts, studies, reviews me testimonials.</li></ul><h2>Engame me review pages aita</h2><p>Pages roo e erian me check bwiin team in Golden Moments, ma help bwiin AI tools bwiin research me drafting. Page roo e check ma source roo bwiin team. Pages aita e <strong>ete</strong> review bwiin doctor me clinician, me aita ete claim otherwise. E nita general information, ete medical advice.</p><h2>Me aita ete publish</h2><ul><li>Claims bwe game, eiy, supplement, fast me routine e prevent, treat, slow me cure dementia.</li><li>Tests, quizzes me scores me suggest bwe engame etea, me ete etea, dementia.</li><li>Advice bwe start, stop me change medicine roo.</li><li>Advertising me sponsored content ngaga disguised nita guidance.</li></ul><h2>Updates me corrections</h2><p>Page roo e aea date ngaga last updated. Ngaga ko aea mistake me out-of-date source, email <a href=\"mailto:{email}\">{email}</a> me aita check promptly.</p>"
+      "bodyHtml": "<h2>Am sources</h2><p>Am guide e bita iat public guidance me eowita organization me raudo, me National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance me NHS, me iat research me Cochrane reviews me clinical trials me raudo. Guide me eto e tsimine source ean. A aea source me eto ngago a dorer, me a dorer nane e bita iat nan e dorer.</p><h2>Keit a dorer</h2><ul><li>Omo dogin ngago: nan wo aea ngago, ian dorer me e eti.</li><li>Dorer n kor dogin evidence: a dorer “linked with”, “may” me “evidence e mixed” ngago e kor.</li><li>Kakarau engame: a dorer dogin engame ñe e tsimine dementia bwo engame e raudo, me a eab aea dorer n kiudoita me shaming.</li><li>Eab tsimine dorer n am: eab tsimine statistics me quotes me experts me research me review n ebo me eab kor.</li></ul><h2>Amen aea am peij</h2><p>Peij e dorer me aea bita iat Golden Moments team, me tsimine help ean AI tools dogin research me drafting. Peij me eto e aea iat sources bita iat team. Am peij <strong>eab</strong> aea bita iat doctor me clinician, me a eab dorer bwo e doctor. E dorer dogin information me general, eab medical advice.</p><h2>Nan a eab publish</h2><ul><li>Dorer bwo katenten, emera, supplement, fast me routine e prevent, treat, slower me cure dementia.</li><li>Test, kiudoita me score me e dorer bwo engame e tsimine, me eab tsimine, dementia.</li><li>Dorer bwo wo start, katei me change edor me medicine.</li><li>Ad me sponsored content me e bita iat guidance.</li></ul><h2>Update me dorer n kor</h2><p>Peij me eto e tsimine date ngago e update. Ngago wo aea mistake me source me eab ebo, email <a href=\"mailto:{email}\">{email}</a> me a aea ean ekaura.</p>"
     },
     "faq": {
-      "title": "Questions me Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers bwiin questions ean dementia games me activities: games me ko try, amwa orin in play, ideas bwiin later-stage, brain health me privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Answers me plain me obwien bwiin questions me caregivers aea tsieda.",
+      "title": "Kiudoita me Duwom",
+      "seoTitle": "Katenten me Dementia: Kiudoita me Duwom",
+      "description": "Duwom dogin kiudoita me e tsimine dogin katenten n dementia: katenten me omo, e ga reit katenten, nan wo aea ngago e raudo, omo n ninikini me privacy.",
+      "crumb": "Kiudoita me duwom",
+      "lede": "Duwom me e eti dogin kiudoita me amen kakarau e kiudoita.",
       "groups": [
         {
           "id": "games",
-          "title": "Ean games roo",
+          "title": "Dogin katenten",
           "items": [
             {
-              "q": "Me games me best bwiin engame ngaga etea dementia?",
-              "a": "Games me best e familiar, simple me eke pressure, me game me nuwaer e me engame aea mwiya nita. Picture matching ma piksa roo keta, sorting, jigsaws me marara, finishing sayings me familiar, coloring me picture bingo e nuwaer bwiin engame roo. Eke timers, scores me meta me nita test."
+              "q": "Meda katenten me omo dogin engame ñe e tsimine dementia?",
+              "a": "Katenten me omo e eti, ata me eab tsimine pressure, me e omo nan engame e mwiya ngago nane. Pija matching me pija e aea, sorting, jigsaws me e eti, dorer me ata bita, coloring me pija bingo e omo dogin engame me eto. Eab aea timer, score me nan e aea exam."
             },
             {
-              "q": "Games roo e iduwen free?",
-              "a": "Eeyo. Ekeke ni mweng ekakaiang ma ran ekakairũ ar fri, ko ekeke ka account, sign-up, download ma advertising."
+              "q": "E kor bwo katenten e free me eab kaniwon?",
+              "a": "Ehe. Akani kakuri ma bwiida me pwerint e dorer (free), eke akaun, eke sain-ap, daunrot me eke katangain."
             },
             {
-              "q": "Imwin ruaiu na score, level ma timer?",
-              "a": "Speed ma score e tauaniden ekakaiang ngan ekakairũ ibwa ekakairũ ekakaiang, ka a ekakaiang ngan mena ma ekakairũ. Ima tauaniden ekakaiang ibwa ran ekakairũ ma ran ekakaiang iuena ma mwa ekakairũ, ka a eko ekakairũ ibwa. Nau ka ekeke ni fail, ma e mwan ekakairũ ibwa ma ekakairũ ka ekaraom."
+              "q": "Erangan eke skoar, reber, me taima?",
+              "a": "Bita omo me skoar ogona eouweiy bita makur animwen ngeni eketam, me ogona aroweniy me kakarur. Ango anani tsimine ian animwen ma ao karowa, eno eke tsimine me feir me ogona tubwi ian nene ao."
             },
             {
-              "q": "Ma ekakairũ ka mweng ekakaiang ibwa?",
-              "a": "Phone, tablet ma computer ka browser ka modern. Tablet ka mweng ngan stand ma table e mweng ekakairũ ngan ran rua ni ekakaiang ngan. Laptop ka mweng ngan TV e mweng ekakairũ ngan group."
+              "q": "Aiet masin me animwen ngeni bita?",
+              "a": "Nene terepon, tablet me komputa me tsimine web browser gouw. Bita tablet ian stand ean thebur e animwen bwe arow engame ogona kakuri iturin. Bita laptop me komet ngeni TV e animwen ngeni gurup."
             },
             {
-              "q": "Ma eko ka mweng ekakaiang ngan ran ekakairũ ma photo ran mwa?",
-              "a": "Eeyo. Photo pairs e tauaniden 2 ngan 6 photo ka ekeke ni tauaniden ibwa matching game. Ran photo e mweng ngan browser ma ekeke ni upload ko save."
+              "q": "Ango ogona kakuri ngeni pija ian anga nuwawin?",
+              "a": "Ehe. Photo pairs e eouweiy 2 ngeni 6 pija me om reiet ngeni kakuri me matching. Akani pija e mendet ian om browser me eab upload me seif."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Ekakaiang ma ekakairũ ran",
+          "title": "Makur ma kakarameie",
           "items": [
             {
-              "q": "Ekakaiang e mweng ekakairũ ngan ruaiu?",
-              "a": "Ekakairũ e ekakaiang 10 ngan 20 minute, ma ekakairũ ka 2 minute e success. Ngauen ekakairũ ka tired ko frustrated ma ekakairũ ibwa ka ekaraom ngan ekakairũ e mweng. Ekeke ekakairũ ka ekaraom."
+              "q": "Aiet ao me makur ogona totow?",
+              "a": "Ngaian 10 ngeni 20 minit e bwo, me nene 2 minit e animwen. Taramwi amen om karameie ean magum me rur me tubwi ngago e animwen. Eke tsimine bita ao me bwiida."
             },
             {
-              "q": "Ma iuena ran ekeke ka mweng ekakaiang?",
-              "a": "Ekakairũ ran ekeke e ekaraom, ma ekakairũ e ekaraom ngan ekakairũ ibwa ma ngan ekakairũ ibwa. Ekeke ka tired, pain, ekeke ka unsure ko ekeke ka interest. Ngauen ekakairũ ibwa ka guide ka ekakairũ ran ekeke ka no."
+              "q": "Ite me re eab rogen makur?",
+              "a": "Kakarameie bita 'eab', me anian teke ian bita ao eke tsimine me gouw. Eab rogen ogona metu tsin magum, ngudu, meturur me eab rogen. Taraw bita anan guide ean aiet makur ngago re ouga 'eab'."
             },
             {
-              "q": "Ekakaiang ka mweng ekakairũ ran dementia ka ekaraom ibwa?",
-              "a": "Ekakairũ ma senses: ekakairũ music ka ekakairũ, hand massage ngan lotion, ekakairũ photo ngan ran rua, ekakairũ blanket ka soft, ekakairũ ibwa ma ekakairũ ngan picture game ka simple ngan ran ka mweng ngan ekeke. Later-stage guide ka mwa ekakairũ ibwa ideas."
+              "q": "Aiet makur me animwen ngeni later-stage dementia?",
+              "a": "Animwen ma matani: deretoi musik animwen, kakarameie be ngeni lotion, taraw pija karowa, dobe berangket marur, teki iturin mwimwi, me kakuri pija ewewe ngeni amen iturin. Bita guide ian later-stage e tsimine bwo iedia."
             },
             {
-              "q": "Ma ekakaiang ka mweng ekakairũ ngan group ngan care home?",
-              "a": "Eeyo. Picture bingo e mweng printable card ma caller ka on-screen, ma Finish the saying ma Conversation card e mweng ekakairũ ngan ekeke ka read aloud. Care home groups guide e tauaniden group size, seating ma adapting ngan mixed abilities."
+              "q": "E tsimine makur ngeni gurup ian mwengo me kakarameie (care home)?",
+              "a": "Ehe. Picture bingo e tsimine kadi me pwerint me caller ian skrin, me Finish the saying ma Conversation cards e animwen ngago ango dorer ebio. Bita anan guide ngeni care home e dorer ean ranga gurup, teki me aroweniy makur."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Ekakairũ ka ekaraom ibwa",
+          "title": "Emaron an ut",
           "items": [
             {
-              "q": "Ma game e mweng prevent ko slow dementia?",
-              "a": "Game ka aikakairũ ibwa ka prevent dementia, ma game ni ekakairũ ibwa ka claim ka. Cognitive stimulation ngan ekakairũ social e ekakairũ ibwa benefit ngan research ngan ran ka mild ngan moderate dementia, ma ekakairũ ka ibwa game ka prevent disease. Ekakairũ ka game ngan enjoyment ma connection."
+              "q": "Kakuri ogona tubwi me eouweiy dementia me meteketek?",
+              "a": "Eke tsimine kakuri me tsimodu bwe e tubwi dementia, me anan kakuri eab ouga. Makur ian ut ian gurup e tsimodu ian risits bwe ogona kowat amen etokatok me mild ngeni moderate dementia, ma e ewewe me kakuri bwe e tubwi mwiyan. Ango anani kakuri bwe animwen me karowa."
             },
             {
-              "q": "Ma dementia e mweng prevent?",
-              "a": "Ekeke ma certainty. Research e link 14 health ma lifestyle factor ngan dementia risk, ka hearing loss, high blood pressure, physical inactivity ma social isolation. Ekakairũ ka ekeke ibwa e mweng lower risk ngan ran ibwa, ma ran ibwa ka do everything right ekakairũ ibwa e still develop dementia. Ekeke ka fault ngan ekeke."
+              "q": "Ogona tubwi dementia?",
+              "a": "Eab tsimine ropwit. Risits e aroweniy 14 metani emaron ma rogen mour ngeni dementia, ngeni eab dereto, daro ebio, eab makur ma eko engame iturin. Taramwi akani ogona kakarameie ngeni eke engame, ma bwo engame me makur animwen me ouga dementia. Eab tsimine amen eatan."
             },
             {
-              "q": "Intermittent fasting e ekaraom ngan brain health?",
-              "a": "Human evidence e limited ma early, ma research ibwa e ngan animal. Fasting e mweng risk ngan ran ka old, ekakairũ ngan diabetes medicine ko unintended weight loss, ma e not recommended ngan ran ka mweng dementia. Talk ngan doctor ekeke ka change how you eat."
+              "q": "Eanimwen intermittent fasting ngeni emaron an ut?",
+              "a": "Aroweniy ean engame e eke bwo, me bwo risits e ian menin. Fasting ogona eouweiy emaron ngeni rodu, ian anani rogen medisene ean diabetes me ibeibe, me eab anian ngeni engame me dementia. Dorer ngeni dokita me eab eouweiy om eam."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy ma safety",
+          "title": "Kamimi ma aminene",
           "items": [
             {
-              "q": "Ma eko ka collect information?",
-              "a": "Ko account ma ko ad. Ekakairũ ngan Google Analytics ekakairũ visit ma ekakairũ page ka ekaraom, ma browser ekakairũ ekeke ka soft sound. Photo ka ekeke ni tauaniden ngan Photo pairs e never upload. Ekakairũ privacy notice ngan detail."
+              "q": "Ango ean nene information?",
+              "a": "Eke akaun me ads. Ango ougid Google Analytics bwe tsieda engame metu me peipa me animwen, me om browser e tsieda ngago soft sounds e on. Pija me om reiet ngeni Photo pairs eab upload. Taraw bita privacy notice ean bwiida."
             },
             {
-              "q": "Ma eko ka medical advice?",
-              "a": "Ko. Golden Moments e ngan recreation ma general information. Ngan health question, talk ngan doctor, ma ngan emergency, call 110."
+              "q": "Nene dorer ean dokita?",
+              "a": "Eab. Golden Moments e ngeni animwen ma information. Ean emaron, dorer ngeni dokita, me ian emedjensi kiy 111."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">ekakairũ ibwa ran ekakairũ</a>, <a href=\"/caregiving/when-they-say-no/\">ekakairũ ran ekeke ka no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> ma <a href=\"/brain-health/can-dementia-be-prevented/\">ma dementia e mweng prevent?</a>"
+      "moreHtml": "Tsimine bita: <a href=\"/caregiving/how-to-play-together/\">aiet kakuri karowa</a>, <a href=\"/caregiving/when-they-say-no/\">ngago re ouga 'eab'</a>, <a href=\"/activities/late-stage/\">makur ian later-stage</a> me <a href=\"/brain-health/can-dementia-be-prevented/\">ogona tubwi dementia?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games ngan Ran ka Ekakairũ Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "Printable handout ka page ka ekeke ngan family ma caregiver ngan free, gentle picture game ngan ran ka ekakairũ dementia, ngan support group ma care packet.",
-      "crumb": "Printable handout",
-      "lede": "Print page ka ngan support group, care packet ko fridge door. Tauaniden browser's Print command; menu ma button e left off ngan printout.",
-      "introHtml": "<p>Large picture, plain word ma ekeke ka fail. Free ngan phone, tablet ko computer, ko sign-up, ko ad, ko timer ma ko score. Ekakairũ side by side ma take turns.</p>",
-      "gamesTitle": "Game ka ekakairũ ngan ekeke",
-      "restHtml": "<h2>Ran tips</h2><ul><li>Choose time ka ran ekakairũ e at their best.</li><li>Start ngan easiest setting. Four tile e plenty.</li><li>Talk about picture. Conversation e often best part.</li><li>Stop while it still feels pleasant. Ending early e good outcome.</li></ul><h2>Also on site</h2><ul><li>Free printable: large-print word search, coloring page, conversation card ma picture bingo.</li><li>Activity idea ngan every stage, ma guide ngan playing together ma caring ngan yourself.</li></ul><p class=\"muted\">For enjoyment ma time together. Not medical advice, test ko treatment. Golden Moments e published ngan Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Kakuri Animwen me Dorer ngeni Engame me Dementia",
+      "seoTitle": "Peipa Pwerint: Free Dementia Games Online",
+      "description": "Aiyukw peipa me pwerint ngeni nuwawin ma amen kakarameie ean kakuri pija me dorer (free) ngeni engame me dementia, ngeni gurup me care packet.",
+      "crumb": "Peipa pwerint",
+      "lede": "Pwerint nene peipa ngeni support group, care packet me dor an fridge. Ougid Print command ian om browser; akani menu me batan eab tsimine ian bita print.",
+      "introHtml": "<p>Pija ebio, dorer ewewe me eke tsimine me feir. Dorer (free) ian terepon, tablet me komputa, eke sain-ap, eke ads, eke taima me eke skoar. Teki iturin me aroweniy kakarameie.</p>",
+      "gamesTitle": "Kakuri me ogona anian karowa",
+      "restHtml": "<h2>Bita tips</h2><ul><li>Reiet ao ian ean ngago amen om karameie e animwen.</li><li>Tubwi ngeni bita ewewe. Aiyukw aie (4) tiles e bwo.</li><li>Dorer ean akani pija. Bita dorer e bita me animwen.</li><li>Tubwi ngago e animwen. Tubwi ian nene ao e animwen.</li></ul><h2>Tsimine ian bita saet</h2><ul><li>Peipa me pwerint me dorer (free): word search me ebio, coloring pages, conversation cards me picture bingo.</li><li>Iedia ean makur ngeni bita stage, me guide ean kakuri karowa ma kakarameie ean bwiida.</li></ul><p class=\"muted\">Ngeni animwen ma ao karowa. Eab dorer ean dokita, eketam me metani. Golden Moments e pwerintin Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "Ngan Care Home, Library ma Support Group",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "Ngan care homes, adult day programs, libraries, aging agencies me support groups e ayuk dementia games ko free, me text ko ayuk im ko resource list.",
-      "crumb": "Ko organizations",
-      "lede": "Ekakairũ ko site ngaio e free ko ayuk ran residents, members me clients, ko account, license ka fee. Page ngaio e ayuk kaun ko ekakairũ me ayuk ko share.",
-      "shortText": "{name}: free, gentle picture games me activity guides ran ko ayuk ran people living with dementia me ran caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) e ayuk {count} free browser games ran ko dementia, kaun matching pairs me pictures ko showing, jigsaw ko easy, sorting, familiar sayings me picture bingo me printable cards. No account, advertising, timer ka score. Site ngaio e ayuk plain-language activity guides ko stage ko dementia, ko cite ko National Institute on Aging me Alzheimer's Association.",
-      "useTitle": "Ekakairũ ko organizations e ayuk ko use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> ko run ko laptop, tablet ka TV ko connect ko computer. No install, account ka download. Ayuk <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Ayuk ko Print button ko page kaun.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> e ayuk printable cards me on-screen caller, me <a href=\"/activities/trivia/\">easy trivia</a> e ayuk 50 questions me answer choices me talking points.</li><li><strong>Activity guides</strong> ran ko staff me families, ko stage me ko type, ko plain language me sources. Ayuk ko <a href=\"/activities/ideas/\">101 activity ideas</a> ka <a href=\"/activities/care-home-groups/\">group activities ko care homes</a>.</li>",
-      "restHtml": "<h2>Ngan groups e ayuk ko ekakairũ ngaio</h2><ul><li><strong>Care homes me memory care:</strong> picture bingo ka finish-the-saying ko TV ko common room, me eman kaun e tap ko group.</li><li><strong>Adult day programs:</strong> tablet station me Picture pairs e set ko four tiles, ko short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches me conversation cards ko memory kits, me site ngaio e bookmarked ko library tablets.</li><li><strong>Caregiver support groups me memory cafés:</strong> <a href=\"/handout/\">one-page printable handout</a> ran ko families e ayuk kaun ko home.</li><li><strong>Hospitals me discharge planners:</strong> handout ngaio ko caregiver packets, ran ko something calm ko home ka ko bedside.</li></ul><h2>Ekakairũ ngaio ka do ko</h2><p>Ran games e ayuk ko enjoyment me time ko together. Ra ka diagnose, test, score, treat ka slow ko dementia, me ami ask ko organizations ka describe ra ko ayuk. No ads, me ran games ka ask ko names, health details ka photos ko upload. Website e ayuk Google Analytics ko count ko visits; <a href=\"/privacy/\">privacy notice</a> ami e explain ko collect ngaio. Photos e ayuk ko <a href=\"/games/photo-pairs/\">Photo pairs</a> e stay ko browser.</p><h2>Add ami ko resource list ami</h2><p>Ka ayuk list ko resources ran ko caregivers, ami welcome ko link ko <a href=\"/\">{domain}</a>. Ayuk copy ka description ngaio.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Pages ngaio e useful ko link ko direct: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities ko Alzheimer's</a> me <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions ka corrections</h2><p>Ka ayuk kaun ko site ngaio e wrong ka unclear, ka needs ko resident ka client ka ka met ko ekakairũ ngaio, ami ayuk ko tell ami ko <a href=\"mailto:{email}\">{email}</a>. Ami ka ask ko send personal ka health information ko residents ka clients.</p>"
+      "title": "Ngeni Mwengo me Kakarameie, Raipreri me Support Groups",
+      "seoTitle": "Pwerapwera in Dementia bwe Ekeow Moni bwiin Mwio in Aea Engame ma Kudo",
+      "description": "Kaitro ean mwio in aea engame, program in engame ro ketaura, mwio in buk, kudo in aea engame ma kudo in oebwi re aea games in dementia me ekeow moni, ma dorer bwe wo aenomwei ian list.",
+      "crumb": "Bwiin kudo",
+      "lede": "Meikona eat website ekeow moni bwe aron aea ma engame ro iat mwio, kudo me membara, ekeow account, ekeow license me ekeow amebweda. Eiy page e kaalolo ate nimin ma aron wo keno me eita.",
+      "shortText": "{name}: games in pija ma bweben makur me ekeow moni bwiin engame ro e bwe dementia ma ro re aea. Ekeow sign-up, ekeow timer, ekeow score.",
+      "longText": "{name} ({domain}) e ketaura {count} games ian browser me ekeow moni bwiin engame ro e bwe dementia, ian eiy pija me re anet ma re bita pija re aea, jigsaw me e oebwi, aenomwei, dorer in ngago ma bingo in pija ma kood bwe wo print. Ekeow account, ekeow advertising, ekeow timer me ekeow score. Eiy website e bwe bweben makur me e mwaereng ian dorer bwiin stage in dementia me e aea National Institute on Aging ma Alzheimer's Association.",
+      "useTitle": "Nimin kudo re kak aea",
+      "gamesItemHtml": "<strong>{count} games ian browser</strong> me e kak makur eat laptop, tablet me TV e oebwi me computer. Ekeow install, account me download. Aea <a href=\"/games/\">games meikona</a>.",
+      "printablesLabel": "{count} pepa bwe wo print:",
+      "printablesAfter": "Aea Print button eat page meikona.",
+      "moreItemsHtml": "<li><strong>Format bwiin kudo:</strong> <a href=\"/games/picture-bingo/\">Bingo in pija</a> e bwe kood bwe wo print ma caller eat screen, ma <a href=\"/activities/trivia/\">trivia me e oebwi</a> e bwe 50 kiijin ma answer choices ma dorer.</li><li><strong>Bweben makur</strong> bwiin staff ma famili, ean stage ma type, e mwaereng ian dorer me e oebwi ma e aea sources. Wo kak bita ean <a href=\"/activities/ideas/\">101 makur in pwerapwera</a> me <a href=\"/activities/care-home-groups/\">makur bwiin kudo eat mwio in aea engame</a>.</li>",
+      "restHtml": "<h2>Aron kudo re aea</h2><ul><li><strong>Mwio in aea engame ma memory care:</strong> bingo in pija me kano-dorer eat TV ian common room, me engame aipwon e tano screen bwiin kudo meikona.</li><li><strong>Program in rane bwiin engame ro ketaura:</strong> tablet station me Picture pairs e oebwi ean tile auwogo, bwiin sessions me e oebwi.</li><li><strong>Mwio in buk:</strong> pepa in word search ma conversation cards ian kits bwiin memory, ma bookmark website eat tablets ian mwio in buk.</li><li><strong>Kudo in oebwi bwiin ro re aea engame ma memory cafés:</strong> <a href=\"/handout/\">pepa aipwon bwe wo print</a> bwiin famili bwe re bweronga mwio.</li><li><strong>Hospitals ma planners in bweronga mwio:</strong> pepa eat packet bwiin ro re aea engame, bwe e bwe nimin me e maraurau bwe re aea eat mwio me irin bed.</li></ul><h2>Nimin ang ekeow makur ean</h2><p>Games meikona bwiin aenomwei ma mwaereng in bwieta. Re gonae diagnose, test, score, treat me slow dementia, ma ang dorer kudo bwe re ekeow dorer ean aron eiy. Ekeow ads, ma games meikona re gonae kiijin eta, health details me re download photos. Eiy website e aea Google Analytics bwe e aea visits; amat <a href=\"/privacy/\">privacy notice</a> e kaalolo nimin e aea. Photos me wo aea ian <a href=\"/games/photo-pairs/\">Photo pairs</a> re bita ian browser.</p><h2>Aenomwei ang eat list in resources</h2><p>Nga wo bwe list in resources bwiin ro re aea engame, wo kak link me <a href=\"/\">{domain}</a>. Wo kak copy aipwon dorer meikona.</p>",
+      "shortTitle": "Dorer me e kadudu",
+      "longTitle": "Dorer me e mwimwi",
+      "linksHtml": "<p>Pages me e mwaereng bwe wo link me eita: <a href=\"/games/\">games me ekeow moni</a>, <a href=\"/activities/printable/\">pepa bwe wo print me ekeow moni</a>, <a href=\"/activities/alzheimers/\">makur bwiin Alzheimer's</a> ma <a href=\"/caregiving/how-to-play-together/\">aron pwerapwera bwieta</a>.</p><h2>Kiijin me kano</h2><p>Nga e bwe nimin eat site me e ba me ekeow mwaereng, me nimin ekeow oebwi me engame iat mwio, dorer ang eat <a href=\"mailto:{email}\">{email}</a>. Omo ekeow aenomwei personal me health information bwiin engame ro iat mwio me clients.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App ko iPhone me Android",
-      "description": "Golden Moments app ngaio e free: gentle photo matching me four large tiles, family photos ko keep ko device, offline picture packs me no account.",
-      "crumb": "App ngaio",
-      "lede": "Ekakairũ ko site ngaio ran ko like ko, ko app ko work offline me e ayuk use family photos ko choose.",
-      "worksOn": "Work ko {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Tomwin mwiniyo</h2><p>Tomwin ko ami me yiyet tiles ko 4 me pictures ko rekiñ eni nañ. Ami pictures kokwi ne ñin rimerimre, ke ami konom kin ayo ko kimi nañ. Mwiniyo ko ayo imwi ko timer, score ke penalty. Ayo 4, 6, 8 ke 12 tiles.</p><h2>Ayo nan iyo</h2><p>Ayo family photos ko device eni photo picker. App ko ayo kopi ko kiñin para activities ko kimi. Ayo bon scan library eni ke bon change original photos ko ami; ko ayo up to 24 photos ni ano collection.</p><h2>Ayo lookiño tomo</h2><p>Lookiño ano picture ano tokweo. Prompts ko kwoy ayo conversation ke bon asking eni ayo rememberiño names ke ayo correct answer. Lookiño yo rekiñ.</p><h2>Offline ayo me ayo kimi</h2><p>Starter pictures ke all eight picture packs ko kiñin ni app. Kopi photos ko import ayo work offline. Choose originals ko stored ni iCloud kokwi ayo kiñin internet connection.</p><h2>Bon account, bon photo-sync server</h2><p>Kopi photos ko family ayo stay ni app ni device. Ayo remove kopi ko bon deleting originals. Device backups ko kwoy include app data. Read <a href=\"/app-privacy/\">app privacy policy</a>, ke <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments ko ni recreation ke shared conversation. Ko bon diagnose, treat, prevent ke measure dementia ke Alzheimer's disease.",
+      "title": "App bwiin Golden Moments",
+      "seoTitle": "App bwiin Golden Moments bwiin iPhone ma Android",
+      "description": "App bwiin Golden Moments me ekeow moni: photo matching me e maraurau ma tile auwogo me e lulumu, photos bwiin famili re bita eat device, offline picture packs ma ekeow account.",
+      "crumb": "App",
+      "lede": "Nimin meikona wo aea eat website, ian app me e makur offline ma e kak aea photos bwiin famili me wo keno.",
+      "worksOn": "Makur eat {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Bwitok me ebang</h2><p>Bwitok ma aoeo pija eongobwang ngago o etae. Nuwawin pija e atengame, me ogogo eng e oij me e oeb. Gentle mode ekeow timer, score me penalty. Iwi 4, 6, 8 me e 12 pija.</p><h2>Aen bwioma</h2><p>Iwi pija me pamli me gadjit me device me aen. App e oten pija ebang me kakarara. Eab scan library me eab keta original pija, me e oten 24 pija me collection.</p><h2>Aea ma kakarara</h2><p>Aea aipwon pija ngeni aea. Dorer e oaten eab keta engame bwe iat egore iy me dorer engame. Nuwawin aea e rogon.</p><h2>Eaen offline</h2><p>Pija me bwitok me aijuw pak pija e ngago me app. Kopii me pija eeaen offline. Iwi original me iCloud e kain internet.</p><h2>Ekeow account, ekeow server me photo-sync</h2><p>Kopii me pija me pamli e tsimine me app me device. Oita kopii me eab ko original. Backup me device e tsimine data me app. Aea <a href=\"/app-privacy/\">app privacy policy</a>, me <a href=\"/help/\">app help</a> e aen animwen.</p>",
+      "disclaimer": "Golden Moments e tsimine bwe kakarara me dorer ngeni engame. Eab diagnose, treat, prevent me measure dementia me gogor me Alzheimer’s.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games ko ayo play tomo ni browser. Large pictures, plain words, ke bon nañ ko fail: bon timers, bon scores, bon sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages ko rough guide nañ. Follow ko eni enjoy ke ko comfortable tomwin.",
+    "title": "Kakarara Free Online me Dementia & Alzheimer’s",
+    "description": "Kakarara online ekeow wane me engame rogon me dementia me Alzheimer’s: matching pija, jigsaw ebang, sorting, dorer, coloring, bingo. Ekeow sign-up, timer me score.",
+    "crumb": "Kakarara",
+    "h1": "Kakarara me Ebang me Engame me Bwiin Dementia",
+    "lede": "{count} kakarara free bwe kakarara ma browser. Pija eongobwang, dorer ebang, me ekeow failure: ekeow timer, ekeow score, ekeow sign-up.",
+    "listName": "Kakarara me ebang me engame me bwiin dementia",
+    "byStageTitle": "Iwi kakarara me stage",
+    "byStageLede": "Stage e rogon guide. Aea engame ngago o aea mwiin oij me rogon aranit.",
     "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> ke <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "gamesCol": "Kakarara me rogon",
+    "moreHtml": "Nuwa ideas ekeow screen: <a href=\"/activities/ideas/\">101 activities me engame me bwiin dementia</a>, <a href=\"/activities/alzheimers/\">activities me kakarara me Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> me <a href=\"/activities/puzzles/\">puzzles</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs ko 4 tiles ko calm first choice. Ke choosing between pictures kokwi too much, ayo try Find the same ko 2 pictures. Para group, ayo try Picture bingo."
+        "q": "Kakarara arir o bwitok ma iy?",
+        "a": "Picture pairs ma aoeo pija e rogon me bwitok. Ean pija e rogon keta, aea Find the same ma aro pija. Me group, aea Picture bingo."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game work ni browser ni phones, tablets ke computers, ke pictures grow ayo fill screen. Tablet ko ni stand ko often ko most comfortable para eni rua."
+        "q": "Kakarara e rogon ma iPad me tarepon?",
+        "a": "Ehe. Kakarara me nuka e rogon ma browser me tarepon, tablet me computer, me pija e eongobwang me screen. Tablet ma stand e rogon me aro engame."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. Ko made para people living with dementia, ke Alzheimer's, the most common cause. Pictures stay showing, ko bon ño choices kin, ke bon nañ timed ke scored, so games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Kakarara nanei e rogon me engame me bwiin Alzheimer’s?",
+        "a": "Ehe. Karow me engame me bwiin dementia, me Alzheimer’s e tsimine. Pija e atengame, ekeow ngago e kain, me ekeow timer me score, me kakarara e aea pija ngago o etae me eab kain etae ngago e tsimine."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "Ko matching ke picture games ko any older adult ko enjoy, be ko built ko bon test memory: ni Picture pairs pictures stay face up unless you choose otherwise. Guide eni ko memory games for seniors with dementia explains how ayo keep any memory game gentle."
+        "q": "Kakarara nanei memory games me engame rogon?",
+        "a": "Ngago matching me kakarara pija ngago engame rogon e oij, me karow bwe eab test memory: me Picture pairs pija e atengame ngago o eab ogogo. Guide ama me memory games me engame rogon me dementia e aen me kakarara e gentle."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo ko printable cards ke on-screen caller, ke Finish the saying ke Conversation cards work well read aloud ni group."
+        "q": "E tsimine kakarara me groups me care home?",
+        "a": "Ehe. Picture bingo e tsimine printable cards me caller ma screen, me Finish the saying me Conversation cards e rogon bwe iat dorer ngeni group."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad me Android",
+    "requirements": "iOS 15 me e ngago; Android 7.0 me e ngago",
+    "summary": "App ekeow wane me iPhone, iPad me Android ma gentle matching pija me aoeo ngeni ataungai aro pija eongobwang, matching me aea pija me pamli ngago o iwi, me aijuw pak pija e rogon ekeow internet. Ekeow account, ads, timer me score.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Gentle matching pija ma 4, 6, 8 me 12 pija eongobwang; pija e atengame ngago o eab ogogo",
+      "Pija me pamli ngago o iwi e kopii ngeni app bwe matching me aea ma kakarara",
+      "Aea ma kakarara: aipwon pija ngeni aea ma prompts me dorer",
+      "Aijuw pak pija e tsimine ma app; e rogon offline",
+      "Ekeow account, ads, in-app purchases, timer, score me penalty"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "E tsimine app me activities me dementia?",
+        "a": "Ehe. Golden Moments (e aen \"{storeName}\") e ekeow wane ma App Store me Google Play. E oaten gentle matching pija ma pija eongobwang, kakarara ma pija me pamli ngago o iwi, me pak pija ngago e rogon offline."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "App Golden Moments e ekeow wane?",
+        "a": "Ehe. E ekeow wane bwe download, ekeow ads, account me in-app purchases."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "App e rogon ekeow internet?",
+        "a": "Ehe. Pija me bwitok me nuka aijuw pak pija e tsimine ma app, me pija me pamli e rogon offline ngago e kopii ngeni app. Iwi pija ngago tsimine ma iCloud e kain internet."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Io. Itugida pija me eow amin pija picker iturũ masin. App ñe e aea pija me pupu eow devais bwe meñan magum, eab ugot me eab ogodae pija me ngago. Kom aenuk pija me e pupu ngae ngago kom kudo."
+        "q": "Nga e rogon eaen pija me pamli ama?",
+        "a": "Io. Kote foto me ibwin photo picker eat am devais. App e kabwike kopin pija me iyuwik eat devais bwa makur in karamwen, eka upload eiy me eka erereiy foto adamonit. Awe konga eriri kopin nane eat arani iwi."
       },
       {
-        "q": "Ñe e app bwe en aea at me test inon engame?",
-        "a": "Eab. Golden Moments e bwe mwiwi me mimin eow amie. Eab tsimine score me test, me eab aea, ogodae, me test dementia me arani Alzheimer’s."
+        "q": "Aio app in training iy brain me test in memory?",
+        "a": "Eka. Golden Moments e bwa omoiy me taim in karamwen eai. Eko score me eko test, me eka diagnose, treat, prevent, me measure iy dementia me Alzheimer’s disease."
       },
       {
-        "q": "Mea devais me app ñe e magum eow?",
+        "q": "Ia devais me e makur ie?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "E tsimine app me magum ñe?",
-      "a": "Io. App Golden Moments me eab obo bwe iPhone, iPad me Android e tsimine matching pija me kamwiwi, e magum me pija me pamli kom itugida, me magum eow eab tsimine intanet. Eab tsimine akaun, ads me score."
+      "q": "Iña version in app bwa me karamwen aea?",
+      "a": "Io. App Golden Moments me free bwa iPhone, iPad me Android e iña matching in foto me omo, konga aea foto in famili me awe kote, me e makur offline. Eko account, ads, me score."
     },
     "gameFaqNo": {
-      "q": "E tsimine app me magum ñe?",
-      "a": "Eab me magum ñe. App Golden Moments me eab obo bwe iPhone, iPad me Android e tsimine matching pija me kamwiwi me kadudu e owoma me pija me pamli kom itugida, me e magum eow eab tsimine intanet. Magum ñe e mem bwe eab obo nina eow am browser."
+      "q": "Iña version in app bwa me karamwen aea?",
+      "a": "Eka bwa me karamwen aea. App Golden Moments me free bwa iPhone, iPad me Android e iña matching in foto me omo me tiles ouwak, me foto in famili me awe kote, me e makur offline. Karamwen aea e free ine eat am browser."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: pija me owoma me omo",
-    "noscript": "Magum ñe e iko JavaScript bwe en omo eow am browser. Dorer me mwimwi i eta e magum me eab tsimine JavaScript.",
+    "imageAlt": "{name}: pija ouwak me omo",
+    "noscript": "Karamwen aea e obweni JavaScript eat am browser. Tips me ian e makur eko JavaScript.",
     "about": "Dorerin {name}",
-    "aboutAria": "Dorerin magum ñe",
-    "noTimer": "Eab tsimine taimer me score",
-    "printable": "Aenuk bwe en print",
-    "howTo": "Meda bwe kom magum {name}",
-    "tips": "Dorer bwe kom magum mimin",
-    "newToPlayingHtml": "Kom bwa magum me amen ñea e arani dementia? Rida <a href=\"/caregiving/how-to-play-together/\">meda bwe kom magum mimin</a>, me mea me kom ogodae ngago eab kudo magum.",
-    "moreAria": "Ieta bwe aea",
-    "helpfulGuides": "Dorer me aea omo",
-    "appTitle": "Magum eow app",
-    "appText": "App Golden Moments me eab obo e tsimine matching pija me kamwiwi me kadudu e owoma me pija me pamli, me e magum eab tsimine Wi‑Fi. iPhone, iPad me Android.",
-    "photoAppTitle": "Aea pija me bwe omo",
-    "photoAppText": "Eow app Golden Moments me eab obo, pija me kom itugida e mem eow devais bwe mwurin, me magum e magum eab tsimine Wi‑Fi. iPhone, iPad me Android.",
-    "goodToKnow": "Omo bwe kom etani",
-    "goodToKnowText": "Magum ñe e bwe mwiwi me mimin eow amie. Eab test, mea, me ogodae arani.",
-    "moreGames": "Magum me kamwiwi me ieta",
-    "crumb": "Magum"
+    "aboutAria": "Dorerin me karamwen aea",
+    "noTimer": "Eko timer me score",
+    "printable": "Konga print eiy",
+    "howTo": "Bagin karamwen {name}",
+    "tips": "Tips bwa kakarimwi eai",
+    "newToPlayingHtml": "Awe bogor eat kakarimwi me amen etoi dementia? Aea <a href=\"/caregiving/how-to-play-together/\">bagin kakarimwi eai</a>, me ian imin me konga aea ñaga ar eko omoiy me karamwen.",
+    "moreAria": "Imin iwi me konga aea",
+    "helpfulGuides": "Guides me buok",
+    "appTitle": "Karamwen eat app",
+    "appText": "App Golden Moments me free e iña matching in foto me omo, tiles ouwak, me foto in am famili, me e makur eko Wi‑Fi. iPhone, iPad me Android.",
+    "photoAppTitle": "Kabwike am foto bwa ready",
+    "photoAppText": "Eat app Golden Moments me free, foto me awe kote e kiki eat am devais bwa taim me iwi, me karamwen e makur eko Wi‑Fi. iPhone, iPad me Android.",
+    "goodToKnow": "Omo bwa erieñ",
+    "goodToKnowText": "Me karamwen aea e bwa omoiy me taim in karamwen eai. Eka test, measure, me treat iy imin.",
+    "moreGames": "Karamwen me omo iwi",
+    "crumb": "Karamwen"
   }
 }

@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Cuando una persona con demencia pide volver a casa"
+seoTitle: "Demencia y pedir volver a casa: qué decir"
+description: "Por qué una persona con demencia pide volver a casa aunque ya esté en ella, qué decir, actividades tranquilas para probar y cómo mantenerla a salvo si intenta salir."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Cuando una persona con demencia pide volver a casa una y otra vez, "casa"
+  suele significar una sensación de seguridad o un lugar del pasado, no un
+  edificio. No discuta que ya está en casa. Reconozca lo que siente, asegúrele
+  que está a salvo, pregúntele por su casa y luego pase con suavidad a fotos,
+  música, un tentempié, un paseo o una tarea sencilla. Mire si tiene hambre,
+  sed, necesita ir al baño o le duele algo. Si empieza de repente, llame a su
+  médico.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"Quiero volver a casa\" suele significar \"no me siento seguro ni tranquilo\", no es una petición de una dirección."
+  - "Discutir o demostrar que ya está en casa suele empeorar la angustia. Responda al sentimiento."
+  - "Pídale que le cuente cómo era su casa y luego ofrézcale fotos, música, un tentempié, un paseo o una tarea sencilla."
+  - "Mire si hay algo que se pueda arreglar: hambre, sed, el baño, dolor, calor o frío, ruido, cansancio."
+  - "Si pasa todas las tardes, puede ser sundowning; una rutina estable y buena luz pueden ayudar."
+  - "Prepárese por si intenta salir, y llame a su médico ante cualquier cambio repentino."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "¿Por qué mi madre con demencia pide volver a casa aunque ya esté en casa?"
+    a: "La demencia puede hacer que las habitaciones conocidas parezcan extrañas, y a veces la persona siente que vive en una etapa anterior de su vida. \"Casa\" puede ser la casa de la infancia o, sencillamente, la sensación de estar a salvo y a gusto. Responder a ese sentimiento suele funcionar mejor que señalarle dónde está."
+  - q: "¿Qué debo decir cuando pida volver a casa?"
+    a: "Pruebe con \"Aquí estás a salvo, y yo me quedo contigo\", y luego con \"Cuénteme cómo era su casa\". Escuche, comparta una foto o una canción, y ofrezca algo de beber o un paseo corto. Evite decir \"Ya está en casa\" como corrección, porque puede sentirse como si le dijeran que se equivoca."
+  - q: "¿Está bien decir que volveremos a casa más tarde?"
+    a: "Las familias y las organizaciones de demencia no se ponen de acuerdo en esto. Muchas empiezan con un consuelo sincero y un cambio de tema, y reservan una pequeña mentira amable para momentos en los que la verdad solo causaría una angustia que la persona no puede manejar. Elija lo que elija, sea amable y coherente, y nunca se burle de su manera de ver la realidad."
+  - q: "¿Qué hago si intenta salir de casa?"
+    a: "Mantenga la calma y camine con la persona en vez de bloquearle el paso; un paseo corto suele calmar el impulso. Tome medidas de seguridad con antelación, como una pulsera de identificación, timbres en la puerta y una foto reciente. Si desaparece, empiece a buscar de inmediato, y llame al 112 si no la ha encontrado en 15 minutos, diciendo que la persona tiene demencia."
+  - q: "¿Cuándo debo llamar al médico?"
+    a: "Llame a su médico cuanto antes si las preguntas o la confusión empiezan de repente o empeoran mucho en horas o días, sobre todo con fiebre, un medicamento nuevo o signos de infección urinaria. La confusión repentina puede ser un delirium, que necesita atención urgente. Llame al 112 si alguien corre peligro."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"Quiero volver a casa." Para muchas familias es una de las frases más duras de oír, sobre todo cuando la persona a la que cuida vusté está sentada en su propio salón. Es frecuente, puede pasar en cualquier etapa de la demencia, y hay maneras tranquilas y prácticas de responder. Esta página explica qué suelen significar esas palabras, qué decir, qué actividades pueden ayudar en el momento y cómo mantenerse a salvo.
 
-## Why does someone with dementia keep asking to go home?
+## ¿Por qué alguien con demencia pide volver a casa una y otra vez?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Normalmente, "casa" es más una sensación que un lugar. La Alzheimer's Society la describe como una sensación de confort y seguridad, o como una casa del pasado, más que la vivienda en sí. La demencia puede hacer que las habitaciones conocidas parezcan extrañas, y la persona puede sentir que vive en una etapa anterior de su vida, cuando su casa era la de la infancia o el lugar donde crio a sus hijos.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Las palabras también pueden ser una señal de que algo más va mal en ese momento: tiene hambre, sed, necesita ir al baño, le duele algo, tiene demasiado calor o frío, está cansada, sola, asustada o agobiada por el ruido. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) cita entre las causas de la agitación el dolor, el ruido, la soledad, los cambios de rutina y los medicamentos.
 
-## What should I say when they ask to go home?
+## ¿Qué debo decir cuando pida volver a casa?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Responda al sentimiento, no a las palabras. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) aconseja no intentar convencer a la persona de que se equivoca: sus sentimientos son reales, así que primero responda con consuelo y tranquilidad, y luego cambie de tema con suavidad.
 
-Phrases that often help:
+Frases que a menudo ayudan:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Nombre el sentimiento.** "Parece que echa de menos su casa."
+- **Tranquilice.** "Aquí está a salvo, y yo me quedo con usted." La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) sugiere las palabras sencillas "Aquí está a salvo".
+- **Invite a recordar.** "Cuénteme cómo era su casa. ¿Cómo era su cocina?" Preguntar por el pasado lejano suele ser más cómodo que preguntar por el presente.
+- **Haga algo juntos.** "Tomemos primero un té", o "¿Me ayuda a doblar estas toallas?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Un tono cálido y una mano en el brazo, si a la persona le gusta el contacto, pueden decir más que las palabras.
 
-## What should I avoid?
+## ¿Qué debo evitar?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Discutir o explicar.** "Ahora vive aquí" o "Esta ha sido su casa durante 40 años" le pide aceptar algo que la demencia hace difícil de aceptar, y puede sentirse como si le dijeran que se equivoca.
+- **Interrogar.** "¿No se acuerda?" o "¿Cuál es la dirección?" añade presión.
+- **Bloquear la puerta con enfado.** Si quiere salir, mantenga la calma y camine con ella. Un paseo corto juntos suele calmar el impulso.
+- **Tener prisa.** Déjele tiempo para hablar de su casa antes de cambiar de tema.
 
-## Activities that can help in the moment
+## Actividades que pueden ayudar en el momento
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Una vez que haya reconocido el sentimiento, una actividad tranquila y conocida puede cambiar la atención sin ignorarla.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Mirar fotos de la casa y de la familia.** Pase las páginas y haga comentarios ("Mire ese jardín") en vez de hacer preguntas. En un teléfono o una tableta, [Photo pairs](/games/photo-pairs/) convierte sus propias fotos familiares en un juego de parejas suave, y las fotos se quedan en su dispositivo.
+2. **Hablar de la casa.** [Conversation cards](/games/conversation-cards/) ofrece preguntas abiertas sobre casas, cocinas, vecinos y fiestas, sin respuestas correctas.
+3. **Poner música que le guste.** El National Institute on Aging incluye la música relajante entre las formas de calmar la agitación. Vea nuestras [actividades con música](/activities/music/).
+4. **Tomar algo o un tentempié.** El hambre y la sed pueden parecer inquietud. Un té o un dulce preferido también es un pequeño ritual de estar en casa.
+5. **Dar un paseo o sentarse fuera.** El movimiento y la luz del día ayudan, sobre todo por la mañana.
+6. **Dar una tarea conocida.** Doblar la ropa, ordenar los cubiertos o regar las plantas puede devolver la sensación de llevar una casa.
+7. **Bajar el ritmo de todo.** Apague la televisión, reduzca el ruido y los reflejos de luz, y pruebe una pausa de [respiración tranquila](/games/calm-breathing/) juntos.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Si una idea no funciona, pruebe otra más tarde. Sentarse en silencio juntos también es un buen resultado.
 
-## Check for a cause you can fix
+## Mire si hay una causa que pueda arreglar
 
-| Check | What to try |
+| Qué mirar | Qué probar |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Hambre o sed | Ofrezca una bebida y un tentempié pequeño |
+| Necesita ir al baño | Ofrezca ir al baño, con calma y sin dramatizar |
+| Dolor o molestia | Busque señales como gestos de dolor, tocarse una parte del cuerpo o estreñimiento, y coméntelo con su médico |
+| Demasiado calor o frío | Ajuste una prenda o la temperatura de la habitación |
+| Ruido o mucha gente | Pase a una habitación más tranquila y apague la televisión |
+| Cansancio o sobreestimulación | Descanse, baje la luz y ponga música suave |
+| Final de la tarde | Vea la sección sobre sundowning más abajo |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+La Alzheimer's Society sugiere llevar un registro breve de cuándo ocurre la petición, por ejemplo antes de las comidas, después de las visitas o al anochecer. Los patrones facilitan planificar con antelación.
 
-## Is it okay to tell a white lie?
+## ¿Está bien decir una mentira piadosa?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Es un debate real, y las familias cariñosas llegan a conclusiones distintas. La Alzheimer's Society dice que no hay una única respuesta correcta: las mentiras pueden hacer que algunas personas desconfíen más, así que hay que decidir qué es lo mejor para la persona y ser coherente. En el Penn Memory Center, la codirectora sostiene que la verdad es lo habitual, y que una pequeña mentira amable solo es aceptable cuando la persona no puede procesar una verdad concreta, y que nunca hay que burlarse de su realidad.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Muchas personas cuidadoras encuentran útil un término medio: primero el consuelo sincero y el cambio de tema ("Nos quedamos aquí esta noche, y yo estoy aquí con usted"), sin discutir dónde está su casa.
 
-## What if it happens every afternoon or evening?
+## ¿Qué hacer si pasa todas las tardes o noches?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+La inquietud que empieza o empeora a última hora de la tarde se suele llamar sundowning. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) sugiere un horario estable, luz solar y actividad a diario, siestas tardías reducidas, y nada de cafeína ni alcohol al final del día. Encender las luces antes del anochecer también puede ayudar. Nuestra guía de [actividades tranquilas para última hora de la tarde](/caregiving/late-day-restlessness/) tiene más información.
 
-## Keeping them safe if they try to leave
+## Cómo mantener a salvo a la persona si intenta salir
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Pedir volver a casa puede llevar a deambular. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) calcula que seis de cada diez personas con demencia deambularán al menos una vez.
 
-**Prepare ahead:**
+**Prepárese con antelación:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Una pulsera de identificación o médica con su nombre y su teléfono, y etiquetas en la ropa. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) menciona el programa MedicAlert y el programa Safe and Found de la Alzheimer's Association, que puede tener un coste.
+- Un timbre o una alarma en la puerta, y cerraduras colocadas arriba o abajo. Nunca encierre a la persona sola.
+- Una foto reciente de cerca, y una lista de lugares a los que podría ir, como una casa anterior o un antiguo lugar de trabajo.
+- Avise a los vecinos de confianza y déjeles su número.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Si desaparece:** empiece a buscar de inmediato; la Alzheimer's Association indica que muchas personas se encuentran a menos de 2,5 kilómetros. Si no la ha encontrado en 15 minutos, llame al 112 y diga que la persona tiene demencia. Llame al 112 de inmediato si alguien corre peligro.
 
-## When should I call a doctor?
+## ¿Cuándo debo llamar al médico?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Llame a su médico cuanto antes si las preguntas o la confusión empiezan de repente, o empeoran mucho en horas o días. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dice que los cambios de conducta repentinos o muy rápidos, sobre todo después de una infección o de un cambio de medicación, deben revisarse de inmediato. La confusión repentina puede ser un delirium, que según el [NHS](https://www.nhs.uk/symptoms/confusion/) necesita ayuda urgente; las infecciones urinarias son una causa frecuente en personas mayores.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+También conviene comentar en la próxima cita un patrón constante, ya que el dolor, el estado de ánimo bajo, los problemas de sueño o los efectos secundarios de los medicamentos pueden influir.

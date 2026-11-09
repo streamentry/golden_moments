@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Kɛlɛw dimansi bɛ cɛw ye"
+seoTitle: "Kɛlɛw dimansi bɛ cɛw ye: Kɛlɛ misaliw ka ɲɛfɛ"
+description: "Kɛlɛ misaliw dimansi bɛ cɛ min na: minnu bɛ kɛ a ka baara, a ka nisɔndiyaw ani a ka ɲɛfɛ kɔnɔ kɛlɛw ye, ani kɛlɛ kelen-kelen ka ɲɛfɛ sɔrɔ ka kɛ ɲuman."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Kɛlɛ ɲuman ka dimansi bɛ cɛ min na, o bɛ bɔ a ka ɲɛnamaya kɔnɔ: baara min
+  o kɛra, nisɔndiyaw min o bɛ kɛ, ani waati ka kɛlɛw min o bɛ kɛ every day. Baara
+  kɛlɛ dɔ bɛ se ka kɛ sɛbɛnni tanɛ ka kɛ cɛ min kɛra bureau na; mekanisiɛn
+  bɛ se ka kɛ kɛlɛ ka sumanw ka tɔnɔ; sport kanubaga bɛ se ka kɛ kɛlɛ ka
+  taariki. Cɛ kelen-kelen ka nisɔndiyaw bɛ yɛrɛ ka ɲɛ, o de kama aw ka kɛlɛ
+  daminɛ cɛ ka ɲɛnamaya kɔnɔ, aw kana daminɛ a ka cɛya kɔnɔ.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Daminɛ ni a ka ɲɛnamaya taariki ye: a ka baara, a ka nisɔndiyaw, a ka waati kɛlɛw ani o min ye a ka hinɛ ye."
+  - "Kɛlɛ minnu bɛ kɛ ko dɔ ka kɛ, i n'a fɔ sumanw sɔrɔ, wagati ka kɔnɔ ni fɛn ye, walima kurun ka ta, o bɛ nisɔndiya cɛ caman ma ka tɛmɛ kɛlɛ minnu bɛ kɛ i n'a fɔ kalan."
+  - "Cɛ bɛɛ tɛ sumanw walima sport nisɔndiya. Cɛ caman bɛ nisɔndiya ni sɔgɔsɔgɔ, tulonkɛ, dɔnkili, sɛgɛsɛgɛ walima ni denw ka ɲɛnamaya. Aw ka a ɲini, a ye, ka a kɔfɛ taa."
+  - "Baara bɛ kɛ ko ye ni sumanw bɛ ka bɔ, ani aw bɛ ɲɛ, kɛlɛ bɛ se ka kɛ ɲuman; a ka fɛn caman bɛ labɛn ka fɛ ni a ka fɛn tɛmɛnen ye."
+  - "A bɔ ka ko ɔwɛ, i kana a kɔrɔ ka ko. Ka baara dɔ ko kɛ, i kana a sigi ka ko cɛ kɔnɔ; ka sɔn tɛmɛn ka kɛ kɔfɛ."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Ɲɛnamaya kɔnɔ cɛw bɛ kɛlɛ jumɛn nisɔndiya?"
+    a: "Kɛlɛ tɔw ye tɛ kelen ye, katugu cɛ nisɔndiyaw bɛ bɔ mɔgɔ kelen ni kelen ka nisɔndiya ma. Daminɛ ɲuman ye kɛlɛ minnu bɛ kɛ a ka baara kɔfɛ ko la, i n'a fɔ dɔkumaŋ ka sɔrɔ ni a ka cɛya kɔnɔ, walima kɛlɛ minnu o nisɔndiya bɛ ko ka teli, i n'a fɔ sumanw, mɛxiki, dɔnkili, mɔgɔ dɔgɔ ka dumuni walima sport. A ka fɛn min kɛ a yɛrɛ ye, o ɲini ka kɔnɔ aw ka o kɛlɛ kɛ."
+  - q: "Ne fa tɛ kɛlɛ ka kɔnɔ kɛ kɛlɛ caman ye. Ne bɛ se ka mun kɛ?"
+    a: "Cɛ caman, cɛ ni muso bɛɛ, bɛ kɛlɛ minnu bɛ i n'a fɔ kalan walima minnu bɛ i n'a fɔ denya, o bɛ ban. Aw ka baara dɔ di a ma: 'I bɛ se ka n dɛmɛ ka sɛbɛnnw sɔrɔ?' Mɔgɔ dɔgɔ kɔnɔ walima kelen-kelen ka waati bɛ se ka ɲɛ ka tɛmɛ trou kɔnɔ kɔnɔ nisɔndiya."
+  - q: "Ka mekanisiɛn ka sumanw kɛ, a bɛ se ka kɛ ka hɛrɛ wa?"
+    a: "A bɛ se ka kɛ kɛ ni ɲɛmɔgɔya ni sumanw ka hɛrɛ ye. Sumanw minnu bɛ kɛ ni elektirisite ye, ni kɔnɔ minnu bɛ se ka ɲɔgɔn, o bɛ bɔ, ka baara minnu bɛ kɛ i n'a fɔ ka ɲɛgɛ kɛ kumba ka sɔnsɔnni, ka sumanw ka nɔrɔ-ɲɛ ɲuman kɔnɔ ni ɲɛnamaya tɔw sɔrɔ ni sumanw ye. Alzheimer's Association bɛ a fɔ ko ka sumanw bɔ ka kɛ kɛlɛ ka yɔrɔ, i n'a fɔ kɛ ka ɲɛfɛ ni ɲɛgɛ kɛ, kɛlɛ bɛ se ka kɛ hɛrɛ ni."
+  - q: "A kɛra kɛlɛ kɛlɛnw ye. Baara dɔgɔ minnu bɛ kɛ, o bɛ se ka ɲɛ kɔnɔ?"
+    a: "Ni o bɛ kɛ i n'a fɔ baara dɔgɔ, o bɛ se ka ɲɛ. Baara dɛmɛ ka kɛ fɛn ye min bɛ mako ka kɛ, adamadenw ka sumanw kɛ, ani kɛlɛ min bɛ kɛ a ka baarakɛ ka ɲɛ kɔnɔ, i n'a fɔ sɛbɛnnw kɛlɛ ka kɛ, walima ka ɲɛkɔrɔ jɛlɛ. Ni a kɛra kɛlɛ dɔ ye min bɛ kɛ kɛ, kɛlɛ dɔ tɔw bɛ se ka ɲɛ ka tɛmɛ a ka kɛlɛ ɲɛfɛ ma."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,81 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Mɔgɔw bɛ "kɛlɛw dimansi bɛ cɛw ye" ko ka sɛbɛnni, katugu kɛlɛ minnu bɛ fɔ bɛɛ tɛ ɲɛ cɛ min bɛ aw ka ɲɛnamaya kɔnɔ. O ye ɲɛfɛ ye. Nka jaabi tɛ kɛlɛ "cɛ-ta" siriw ka siya ye. A ye daminɛ ni cɛ nin ye tuma bɛɛ: a ka baara min kɛra, a ka wati tɔw min kɛra, ani min bɛ a yɛrɛ ka ɲɛfɛ dɔn ka kɛ baarakɛ. Nisɔndiyaw bɛ yɛrɛ ka ɲɛ mɔgɔ bɛɛ la. Cɛ caman bɛ nisɔndiya ni mɔgɔ ye ka mɔgɔ dɔ ka tɔ ni, ka dɔnkili, ka sɛgɛsɛgɛ walima ka dɔnkili kɛ; muso caman bɛ nisɔndiya ni mekanisiɛn ni baseball ye.
 
-## How do I find activities he will actually enjoy?
+## Kɛlɛ jumɛn bɛ se ka nisɔndiya cɛ min na?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Daminɛ ni a ka ɲɛnamaya taariki ye. Alzheimer's Association bɛ a fɔ ko ka [kɛlɛ ka sɛbɛn](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) kɛ mɔgɔ ka nisɔndiyaw, a ka ɲɛfɛ, a ka fɛn ɲuman ani a ka nisɔndiyaw la, ani a ka waati kɛlɛ a ka don kɛra o la. Aw ka aw yɛrɛ ɲininkali kɛ:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **A ka baara ye min ye?** Bureau, sɔlɔ, sumanw ka yɔrɔ, kɛlɛ, kalan, sɔrɔ-sɔrɔ, dɔnkili, so kɔnɔ?
+- **A bɛ min kɛ a ka waati kɔnɔ?** Sumanw kɛ, karti kɛ, sɔgɔsɔgɔ, sport, dɔnkili ni muso, mɔgɔ nin yɛrɛ ni sɛgɛsɛgɛ ye?
+- **A ka kɛlɛw ye jɔ ye?** Ka kafe ni kɛnɛ kɛ don bɛɛ? Ka sankolo ɲini? Ka mɛxiki kɔ don dɔ?
+- **Min bɛ a yɛrɛ daminɛ ka kɛ tɛ ka wele?** Alzheimer's Association bɛ a fɔ ko ni mɔgɔ bɛ kɛlɛ daminɛ ka kɛ tɛ ka wele, i n'a fɔ ka so kɔnɔ sɔrɔ, o kɛlɛ bɛ se ka kɛ a ka ɲɛnamaya kɔnɔ.
+- **A bɛ min ban?** Cɛ tɔw bɛ nisɔndiya ni sport ɲini; tɔw bɛ ban ni a ka ɲɛnamaya ni kɛlɛ ka ɲɛ. Aw ka a ɲini ni a bɛ nisɔndiya, ni a bɛ jɛ walima ni a bɛ mɛn.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Aw ka kumakan ni a ka mɔgɔ ka dɔnkili kɛ ka sɔrɔ ka ɲininkali. O mɔgɔw bɛ ɲɛ ni kɛlɛ minnu bɛ a ka ɲɛnamaya kɔnɔ tɛ bɛ ɲɛ bi.
 
-## Activity ideas based on past work
+## Kɛlɛ misaliw a ka baara kɔfɛ ko la
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association bɛ misali ɲuman dɔ di: bureau baara kɛbaga bɛ se ka nisɔndiya ni kɛlɛ ka baara ye, i n'a fɔ ka wari ka kɛlɛ dɔ kɔnɔ, ka sɛbɛnnw ka kɔnɔ kɛ, walima ka to-do liste kɛ, nka sɔlɔkɛ bɛ se ka nisɔndiya ka dɔ kɛ ka sɛgɛ kɔnɔ. Baara caman bɛ se ka kɛ ko kelen ye.
 
-| Past work | Activity ideas | Simpler version |
+| A ka baara kɔfɛ | Kɛlɛ misaliw | Kɛlɛ dɔgɔlen |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Bureau walima sɔrɔ-sɔrɔ | Sɛbɛnnw kɔnɔ ni kɔnɔ kɛ, siyɛ kɛ kɔnɔ, liste ɲininkali, bureau dɔgɔ sɛgɛ | Waraw ka kɔnɔ kɛ; ka bɛlɛkɔrɔ ka dɔgɔ kɔnɔ |
+| Baarakɛ walima mekanisiɛn | Nɔgɔn ka sumanw, bolou ni kanw ka sɔrɔ ka dɛ; kɛlɛ ka bolou dɔ ka fɔ ni sɔsɔ kɔnɔ; sumanw ka kalan sɛbɛnnw ɲini | Sumanw ka tɔnɔ ni sɔrɔ ka kɔnɔ nɛgɛ kelen-kelen |
+| Sɔlɔkɛ walima dɔgɔ dɔgɔ | Ka jɔ, ka jiri kɛ, ka kɛnɛ ɲɛ, ka bɔ ka kɔnɔ ka fɛ | Ka sigi ka ɲɛ ni i ye baara kɛ; ka sɛgɛ ka sɛmɛn |
+| Sɔdaw | Ka bɛlɛkɔrɔ jigi, ka so ka dɔ siga, ka sɔrɔ ni nɔmɔ ye ni a ka dɔ bɛ ɲɛ | Ka sɔrɔ ni a ka dɔ ka nɔ ka tɛmɛ dɔ ka ɲɛ |
+| Kalanw | Ka sɛbɛnnw kalan kɔfɛ, ka sɛbɛnnw ka kɔnɔ kɛ, ka sɛbɛn ka yɔrɔ kɛ | Ka kalanfɛn dɔ ka kɔnɔ ni a ye |
+| Sumanw ka sɔrɔ walima transport | Ka sankolo ɲini walima ka mɛxiki kalan kɛ, ka mɛxiki kɔ | Ka mɛxiki ka tɛmɛ ka kɔnɔ ni a ye ka sɛgɛ |
+| So ni denw | Ka sɛmɛnw ka sɔrɔ, ka sɔrɔ ka sɔrɔ kɛ, ka sɔn ka dɔ kɛ | Ka sɛmɛnw ka fasa; ka sɔ |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Dɔ ni kɛlɛ ka ɲɛ, i n'a fɔ sɔrɔ-sɔrɔ ka ɲɛ, bɛ hakili ni ɲɛnamaya cɛ ka bɔ. Aw ka a ɲini, ka kuma ka ɲɛ ka kɛ kɛ ɲuman ka tɛmɛ waati kɔfɛ ma, ani ni a bɛ ɲɛ ka bɛ wa, aw ka kuma yɔrɔ ɲuman ka tɛmɛ.
 
-## Activity ideas based on hobbies
+## Kɛlɛ misaliw a ka nisɔndiyaw kɔfɛ ko la
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Tɔ kɛ.** Ka tɔ jɛmɛ dɔ tɛmɛ walima ka sigɛ kalan kɛ. Alzheimer's Association bɛ a fɔ ko ka sumanw bɔ ka kɛ ka kɛlɛ ka yɔrɔ ka ɲɛfɛ ani ka nɔrɔ-ɲɛ ɲuman, o kɛlɛ i n'a fɔ ka tɔ ka tɛmɛ bɛ se ka kɛ hɛrɛ ni.
+2. **Sɔgɔsɔgɔ.** Ka sɔgɔsɔgɛ kɔnɔ ka ɲɛ, ka sɔgɔsɔgɔ kalan kɛ, walima ka sɔgɔsɔgɔ jɔ kɛ ni ɲɛ ye.
+3. **Mɛxiki.** Ka mɛxiki kɔ, ka mɛxiki ka sɔrɔ ka ɲɛ, ka mɛxiki ka sɛbɛn kalan kɛ, walima ka taa ka taa ni mɛxiki kɔnɔ ni i ye sɔrɔ.
+4. **Sport.** Ka sport ka taariki walima ka ɲɛfɛ kalan kɛ, ka ballon dɔgɔ dɔ bɔ, ka golf ka bɔlɔ tapis kɔnɔ, walima ka baseball ka karti sɔrɔ.
+5. **Karti ni dumuni.** Karti dɔ ka dumuni ni dɔ, dominɔ, walima karti dɔ ka ɲɛ ka ɲɛ sɔrɔ. Aw ka a ɲini ka nisɔndiya, ka sɔn ka yɔrɔ dɔn ka bɔ.
+6. **Dɔnkili.** Dɔnkili min bɛ a ka dɔgɔ kɔnɔ, a ka ɲɔgɔn dɔnkili, walima dɔnkili. Aw ka [dɔnkili kɛlɛw ka kalan](/activities/music/) ɲini.
+7. **Mafɛ ni sɔn.** Ka sɔgɔ ka tɛmɛ, ka sɔ ka sɔ, ka bɔ ka bɔ ka jɔ ka fɛn kɔnɔ, walima a ka misɛn ka kɛ ko a ka kɛ kɔfɛ fɛn ka bɔ ka sɔ.
+8. **Kɛnɛ.** Alzheimer's Association bɛ a fɔ ko cɛ min bɛ kɛnɛ kalan don bɛɛ, o bɛ se ka nisɔndiya ka kɛ ka tɛmɛ a bɛ kuma ɲɔgɔn dɔn. Kafe ni kɛnɛ bɛ se ka kɛ don kɔnɔ kɛlɛ.
+9. **Sɔrɔ.** Ka kɛlɛ dɔgɔ kɛ ni fɛn caman ye walima ka kɛlɛ ka sumanw kɛ mɔgɔ dɔ ka nɔ. Aw ka fɛn minnu bɛ se ka sɔrɔ ka sɔ.
+10. **Fɛn dɔ kɛ ka sɔn.** Ka sɛgɛ ka kɛ ka sɔ, ka ɲɛnamaya ka tɛmɛ, walima ka jɛ ka ji. NIA bɛ [sɛgɛ ka kɛ, ka dɔgɔ kɛ walima ka sigi ka taa ni dɔ ye](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lɛrɛ kɔnɔ, o minnu bɛ nisɔndiya cɛ caman ka kɛ.
 
-## How do I offer an activity without it feeling like busywork?
+## Kɛlɛ dɔ ka kɛ cogo di ka kɛ kɛlɛ ka baara ye, a kana kɛ dɔ sigi ye?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Aw ka a kɛ dɛmɛ ɲuman ye. Alzheimer's Association bɛ a fɔ ko aw ka ko "I bɛ se ka n dɛmɛ?" ka kɛ, ani aw ka kɛlɛ ka yɔrɔ jɛlen ni ɲɛfɛ ye. Aw ka ɲɛfɛ:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "I bɛ sɛgɛ sumanw sɔrɔ?" (o bɛ kɛ i n'a fɔ kɛ kalan ye)
+- "N ye sumanw sɔrɔ, n ka sumanw ka tɔnɔ kɛ, a kɔfɛ n bɛ shelf nin ɲɛ. I bɛ n dɛmɛ?" (o bɛ kɛ i n'a fɔ kɛ baara ye)
 
-Other tips:
+Tɔw:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Ka fɛn ɲuman kɛ.** Fɛn ɲuman minnu bɛ se ka kɛ hɛrɛ ni, i n'a fɔ sumanw min ka sɔgɔ bɔra, katalɔg ɲuman, sɛbɛnni ɲuman.
+- **Ka kɛlɛ ɲɛ ni ɲɛ.** Cɛ fila bɛ baara kɛ ɲɔgɔn ɲɛ ni ɲɛ, o ye nisɔndiya ye. Cɛ kelen bɛ ɲɛ dɔ ye, o ye ɲɛmɔgɔya ye.
+- **Ka sɔrɔ kɛ.** Ni sumanw sɔrɔ-sɔrɔ, aw ka a to. Fɛn min ye tuma min ni a ka ɲɛfɛ ye, o ye ɲɛfɛ ye.
+- **Ka a daminɛ.** Alzheimer's Association bɛ a fɔ ko mɔgɔ caman bɛ fɛn kɛ ka wele, nka u bɛ kɛ dɔgɔ dɔ ka kɛlɛ dɔ ka sɔrɔ ka daminɛ. Kɛlɛ fɔlɔ ka kɛ ni ɲɔgɔn ye.
 
-## How do I adapt as things change?
+## A ka dɔgɔya ni a ka dɔ kɔnɔ, ka kɛ cogo di?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Dimansi bɛ taa ɲɛ, Alzheimer's Association bɛ a fɔ ko kɛlɛ dɔgɔ ni kɛlɛ caman tɛmɛ kɛ, ani mɔgɔ kɛ ka sɔn ka tɛmɛ ka kɛlɛ dɔgɔ dɔ kɛ. Cɛ min bɛ sumanw ka ɲɛ kɛ kɔfɛ, o bɛ se ka nisɔndiya ka sumanw dɔ ka kɛ ka mɛn ni a ka sɔrɔ, walima a bɛ ɲɛ ka ɲɛ i ka baara. Ɲɛ ka kɛ kɛlɛ ye.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Ni a bɛ fɛn dɔ kɛ kɛ ka ɲɛ, kɛlɛ dɔ min bɛ a ka kɛlɛ ɲɛ, o bɛ se ka ɲɛ ka tɛmɛ a ka kɛlɛ fɔlɔ ma. Alzheimer's Association bɛ a fɔ ko ɲɛmɔgɔ min bɛ kɛ ka baara kɛ, a bɛ se ka ɲɛ ni a ka baara ka yɛrɛ ka kɛ; mɔgɔ min tɛ kɛ kɛlɛ ka kɛ kɔfɛ, a bɛ se ka nisɔndiya kɛlɛ kura ni. Kɛlɛ ka ɲɛ kɛra ɲɛnajɛ ni kalanw ye.
 
-## Safety with work-style tasks
+## Baara ka kɛlɛ ka hɛrɛ
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Sumanw min bɛ kɛ elektirisite ye, sumanw min ka sɔgɔ bɛ ɲɛ, sɔgɔsɔgɔ ni sumanw min ka tɔnɔ bɛ kɛ, o bɔ.
+- Ka sɛgɛ kɔnɔ ka sɔ, ka ɲɛ, ni ɲɛgɛ kɛ ka sɔ.
+- Ni a tɛ mɛxiki kɛ tuma bɛɛ, ka mɛxiki kɛlɛ ka sɔrɔ ka ɲɛ.
+- Ka baara bɛɛ kɛ ni ɲɛ ye.
+- Ka fɛn dɔ sɔrɔ min bɛ se ka dɔgɔ ka sɔ.
 
-## What if he says no?
+## Ni a ko ɔwɛ, a ka kɛ cogo di?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+I kana o ɲɛ. Ɔwɛ ye ko kɛlɛ ka ɲɛ ka tɛmɛ, walima ko a ka kɛlɛ bɛ dɔgɔ, walima ko bi tɛ ɲɛ. Alzheimer's Association bɛ a fɔ ko kɛlɛ kɛ dɛmɛ ka ɲɛ. Kɛlɛ dɔ tɔw, waati dɔ tɔw, walima ka sigi ka kuma ɲɔgɔn ni ɲɔgɔn ye. Aw ka [ni cɛ bɛ ko ɔwɛ, o bɛ se ka kɛ cogo di](/caregiving/when-they-say-no/) ɲini.
 
-## Games and conversation that fit
+## Karti ni kuma min bɛ kɛ ɲɛ
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) bɛ ko dɔw minnu bɛ cɛ caman dɔn kɛ, o bɛ kuma ka ɲɛ. [Conversation Cards](/games/conversation-cards/) bɛ ko minnu bɛ kɛ ka kuma ɲɛ, o bɛ kɛ ko tɛ ɲɛfɛ, a bɛ se ka baara ni nisɔndiyaw ka taariki wulila. [Picture Puzzle](/games/picture-puzzle/) bɛ sɛgɛ ka kɛ bɛɛ bɛ ɲɛ, ni a bɛ sɛgɛ tɔw sɔrɔ, ani [Word Search](/games/word-search/) min bɛ kɛ ni ɲɛ dɔ ye, a bɛ se ka bɔ ka kɛ ni ɲɛ ye kɛnɛ kɔnɔ. Ka kuma a ka ɲɛnamaya taariki kɔnɔ tɛ ka ɲɛfɛ ka kɛ ɲɔgɔn ye, aw ka [dɔnkili ka kɛlɛ ka kalan](/activities/reminiscence/) ɲini.

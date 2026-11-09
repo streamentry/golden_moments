@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Isi Kwis Blong Ol Man We Oli Gat Dementia, Bitim Presa"
+seoTitle: "Kwestin Kwis Blong Ol Man We Oli Gat Dementia, Wetem Ansa"
+description: "50 isi kwestin kwis wetem ol jois blong ansa mo ol samting blong toktok, plus hao blong ranem kwis we nating man i filim presa o i stap aotsaed."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Isi kwis blong ol man we oli gat dementia i wok gud taem i olsem wan toktok,
+  nating wan test. Askem long ol samting we man i lanem finis longtaem bifo,
+  olsem ol sog blong olfala taem, ol tok, ol holide mo laef blong ol de. Oltaem
+  givim tu o tri jois. Givim ansa long fri we, nating mekem eni man i stap aotsaed,
+  skipem score, mo yusum ol ansa blong stat wan stori. Kwestin "dis o dat" we
+  nogat rong ansa i gud long ol laet stej.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Askem long ol samting we oli stap longtaem: ol sog, ol tok, ol holide, kakae mo laef blong ol de bifo."
+  - "Givim tu o tri jois blong ansa i kan rikognaesem, nating blong rimemba long hed."
+  - "Talem ansa wetem gud tingting mo go long nekis kwestin. Eni ges we i stat wan stori i wan gud ges."
+  - "Nogat pointi, nogat tim blong rês, nogat wan man nomo we oli askem. Letem ol ansa i kam long evriwan long rum."
+  - "Taem i had blong jusum ansa, jenisim i go long kwestin dis o dat we nogat rong ansa."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Eis kwis i gud blong ol man we oli gat dementia?"
+    a: "I save gud, sipos yu rann hem wetem isi tingting. Alzheimer's Foundation of America i putum kwis long ol aktiviti blong erli stej. Kipim ol kwestin long ol samting we oli stap longtaem, givim ol jois, nating putum wan man long presa, mo lukluk long ansa olsem wan rod blong toktok, nating wan test."
+  - q: "Wanem ol toktok we i gud blong kwis blong dementia?"
+    a: "Ol samting we oli lanem longtaem bifo i gud moa: ol gud sog mo ol singa blong taem we man i yang, ol tok we oli yusum, ol holide, kakae, spot, mo laef blong ol de olsem ol milk deliveri mo ol rotary telefon. Yu no nid yusum ol niuspepa blong nao, mo ol samting we i nid man i rimemba samting we i kamaot long sesen."
+  - q: "Hao blong mi ranem kwis long wan hom blong kea wetem nating mekem wan man i sem?"
+    a: "Ridim ol kwestin long evriwan long grup, soem o talem ol jois, mo welkamem ansa long eni man. Yu no nid kolem individual o kipim score. Talem ansa wetem smael nomo, wetem wanem we eni man i gesem, mo askem wan nekis kwestin olsem 'Hu long yumi we i bin go long drive-in?' blong jenisim i kam wan stori."
+  - q: "Wanem samting mi save duim instead blong kwis long ol laet stej?"
+    a: "Jenisim i go long ol kwestin we nogat rong ansa, olsem 'Kofi o te?' o 'Bij o ol maon?', mo long finisim ol sawe o ol sog we oli save finis, wetem yu. Lukluk long ol pikja mo talem wanem i stap long ol pikja tugeta i gud tu."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Kwis i wan long ol gudfala grup aktiviti we ol man i askem plenti long ol hom blong kea mo ol program blong dei, mo plenti famili i pleim tu long tebol blong kisin. Sipos yu rann hem olsem usual, wetem pointi mo wan man nomo i ansa, hemi save mekem wan man we i gat dementia i filim presa. Sipos yu rann hem wetem isi tingting, hemi wan laef fulap rod blong harem ol stori. Hia i gat 50 isi kwestin, wetem ol jois blong ansa mo samting blong toktok long each wan, bihaen hao blong ranem wan sesen.
 
-## How do you make trivia work for someone with dementia?
+## Hao blong mekem kwis i wok gud long man we i gat dementia?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Mekem i stap long rimemba mo rikognaesem ol samting we i bin hapen longtaem bifo, mo mekem evri ansa i gat wolkam.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Askem long ol samting long taem i bin pas longwe.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) i talem se wan long ol moss sain blong Alzheimer's we i kamap fastaem hemi trabol blong rimemba ol niu samting we man i jes lanem. Ol sog, ol tok mo laef blong ol de long planti yia bifo, ofen hemi isi moa.
+2. **Oltaem givim ol jois.** Jusum rait ansa long tri o tu hemi isi moa, bitim taem man i mas talem ansa long nating.
+3. **Ridim ol kwestin long vois mo soem olgeta long bigfala raet.** Wan waetbod o wan tablet we yu holem antap i halpem ol man we oli harem smol.
+4. **Givim ansa long fri we.** Sipos nating man i save, talem long gud fasin mo go long nekis. Nating talem "Kam nao, yu save long hemia."
+5. **Nogat score.** Nogat blong ol individual mo nogat blong ol tebol. Sipos ol man oli wantem wan namba, kipim wan grup totol nomo.
+6. **Nating kolem wan man nomo.** Letem ansa i kam long eni man. Long wan-long-wan, ansarem tugeta: "Mi tingting hemi piano. Yu tingting wanem?"
+7. **Yusum toktok.** Ansa hemi stat nomo, i no finis. Ol stori hemi gol we i tru.
+8. **Kipim i sot.** Ten kwestin wetem ol stori long midol i inaf ol.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i talem rul we i main long isi fasin: lukaotem sipos man i kam frustret, mo mekem sua se man i filim se hem i wok gud. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i putum kwis long ol aktiviti blong erli stej. Long midol stej, kipim tu jois mo sapotem long ol toktok. Bihaen, jenisim i go long ol kwestin "dis o dat" we i stap long bilo.
 
-## Music and entertainment trivia
+## Trivia long musik mo entatenmen
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Ansa i stap long **bold**. Mekem ol kwestin ya i stret long man: wan we i bin grow wetem Motown bambae i wantem ol narafala singa from wan we i bin grow wetem big band.
 
-| Question | Choices | Talk about |
+| Kwestin | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Hu i bin kolem King blong Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Yu bin lukim Elvis long TV nogat? |
+| Wanem singa i bin kolem Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Wanem song blong Sinatra we yu laekem moa? |
+| Bing Crosby i dreamem wan waet... | **Krismas**, mared, haos | Singim wan lain tugeta |
+| Louis Armstrong i singim "What a Wonderful..." | Dei, **Wol**, Laef | Wanem i mekem wol i wanderful long yu? |
+| "Over the Rainbow" i bin singim long Judy Garland long wanem muvi? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Weja nao yu bin lukim ol muvi we yu laekem? |
+| Hu i stap olsem Lucy long "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Wanem ol sou we famili blong yu i bin lukim tugeta? |
+| Wanem kaobwoi i bin raed hos we i naem Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Yu bin pleim ol kaobwoi taem yu smol nogat? |
+| Hu i bin hostem "The Tonight Show" long 30 yia? | Ed Sullivan, **Johnny Carson**, Bob Hope | Yu bin slip let blong lukim TV nogat? |
+| Wanem instrumen i gat 88 ki? | Gita, **piano**, trumpet | Wan long famili blong yu i bin pleim nogat? |
+| Wanem dans i kaonted wan-tu-tri, wan-tu-tri? | **Waltz**, twist, tango | Weja nao yu bin go dens? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Sipos yu wantem moa long musik, lukim [aktiviti blong musik long dementia](/activities/music/).
 
-## Everyday life trivia
+## Trivia long laef blong ol de
 
-| Question | Choices | Talk about |
+| Kwestin | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Bifo ol refrijerator, ol haos i kipim kakae kol long wan... | **Ais bokis**, ovens, atik | Hu i bin karem ais i kam? |
+| Hu i karem milk i kam long doa long ol glas botol? | Postman, **man blong milk**, boy blong niuspepa | Wanem narafala samting i bin kam long haos? |
+| Yu bin dialem rotary telefon olsem wanem? | Presem ol batin, **wilim wan wil**, toktok long hem | Tellem mi long telefon long haos blong yu |
+| Wanem kampani i bin mekem kar Model T? | **Ford**, Chevrolet, Buick | Tellem mi long wan kar we yu bin laekem |
+| Weja nao yu bin faenem wan soda jerk? | **Wan soda fawntin**, wan bekeri, wan bank | Wanem yu bin oda long kaonta? |
+| Wanem toy i wan metal spring we i save wakabaot daon long stiers? | Yo-yo, **Slinky**, hula hoop | Wanem toy yu bin laekem? |
+| Wan drive-in i wan ples blong lukim... | **Muvi long kar blong yu**, ol bol gem, ol paredi | Hu nao yu bin go wetem? |
+| Hu i stap long wan-dala bil? | Lincoln, **George Washington**, Jefferson | Wanem i bin save baem long wan dala long taem ya? |
+| Hu i stap long penny? | **Abraham Lincoln**, Washington, Franklin | Yu bin seivim penny long wan bokis long taem ya? |
+| Wan skul bas usually i wanem kala? | Red, **yelo**, blu | Yu bin go long skul hao? |
 
-## Holidays, nature and places
+## Holide, nesa mo ples
 
-| Question | Choices | Talk about |
+| Kwestin | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Wanem holide i stap long fot Tosde long Novemba? | Labor Day, **Thanksgiving**, Memorial Day | Wanem i alwe stap long tebol blong yu? |
+| Jack-o'-lanterns i mekem long wanem holide? | **Halloween**, Easter, Krismas | Tellem mi long Halloween long ples we yu bin kamap long hem |
+| Fourth of July i selebretem Declaration blong... | Raet, **Independence**, Fridom | Weja nao yu bin lukim faiwok? |
+| Mothers Day i stap long wanem mun? | Epril, **Mei**, Jun | Famili blong yu i bin selebretem olsem wanem? |
+| Hamas stoa i stap long Ameriken flag? | 48, **50**, 52 | Flag i bin gat 48 stoa go kasem 1959. Eni ansa i wan gud memori |
+| Wanem sie i stap long East Coast? | Pasifik, **Atlantik**, Arctic | Yu bin go long bij nogat? |
+| Statue of Liberty i stap long wanem taon? | Boston, **New York**, Philadelphia | Yu bin go long New York nogat? |
+| Wanem i mekem ol bi? | Milk, **hani**, silk | Hani long toas o long te? |
+| Wan smol kaow i kolem wan... | Foal, **kalf**, kid | Yu bin stap klosap long wan fam nogat? |
+| Wanem tol yelo flaoa we i famous blong turnem i kam long san? | Rose, **sanflaoa**, tulip | Wanem i bin grow long garden blong yu? |
+| Hamas de i stap long wan liep yia? | 365, **366**, 360 | Tellem mi long wan birtde we yu rimemba |
+| Wanem seson i kam bihaen winta? | Fol, **Spring**, Sama | Wanem seson yu laekem moa? |
 
-## Food and sports trivia
+## Kakae mo spoat trivia
 
-| Question | Choices | Talk about |
+| Kwestin | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Raisins i ol dreiden... | Plam, **grep**, cheri | Yu bin pakem raisins long lanch nogat? |
+| Prunes i ol dreiden... | **Plam**, fig, apol | Hu long famili blong yu i laekem prunes? |
+| Pinat bata mo... | **Jem**, jiis, ham | Crunchy o smooth? |
+| Guacamole i mekem moa long... | Pi, **avokado**, kukumba | Wanem dip i bin kam aot long ol pati? |
+| Wanem paei i famous long Thanksgiving? | **Pampkin**, lemon, cheri | Wanem paei yu bin mekem? |
+| Hamas pleya i stap long fild long wan baseball tim? | 7, **9**, 11 | Wanem tim yu bin sapotem? |
+| Hamas strike i mekem wan aut long baseball? | Tu, **tri**, fo | Yu bin pleim bol nogat? |
+| Babe Ruth i famous long wanem spoat? | Boksing, **baseball**, golf | Yu bin go lukim ol bol gem? |
+| Hamas hol i stap long wan standad golf kos? | 9, **18**, 24 | Yu bin pleim golf, o mini golf? |
+| Long wanem spoat yu save mekem wan touchdown? | **Football**, hockey, basketball | Hu i bin lukim football long haos blong yu? |
 
-## Familiar sayings
+## Ol tok we oli save yusum
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Finisim wan tok i tekem langwis we oli lanem longtaem bifo, mo ofen hemi isi nomo. Gem [Finisim tok](/games/finish-the-saying/) blong mifala i gat planti moa, wetem wan tap blong soem eni fining.
 
-| Saying | Choices | Talk about |
+| Tok | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Wan apol long wan dei i stopem... | **dokta**, ren, kat | Hu nao i bin talem yu long hem? |
+| Brid we i kirap erli i kasem... | Bas, **vom**, tren | Yu man we i kirap erli nogat? |
+| Yu no kaontem ol hen blong yu bifo oli... | **hatj**, slip, singsing | Famili blong yu i bin gat ol hen nogat? |
+| Penny we yu seivim i wan penny we yu... | **wokem**, lusum, spendem | Hu nao i bin seivim long famili blong yu? |
+| Hom i ples we... | Gaden i, **hat i**, kisin i | Wanem i mekem wan ples i filim olsem hom? |
+| I stret se late, bitim... | Erli, **nevva**, sori | Hu nao i olwe late? |
+| Evri klaod i gat wan silva... | **laen**, spun, koin | Talem mi long wan lak we yu bin gat. |
+| Wok i toktok moa long... | **tok**, musik, fanda | Talem mi long wan man we i bin talem olsem. |
 
-## This-or-that questions with no wrong answer
+## Kwestin "dis o dat" we nogat rong ansa
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Oli fit long evri stej, inklud long ol laet stej, from we nogat wan samting we yu mas kisim rait. Askem, harem, mo sherem ansa blong yu tu.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kofi o te?
+- Bij o ol maon?
+- Dog o kat?
+- Samra o winta?
+- Pae o keik?
+- Dens o lukim?
+- Sanraes o sanset?
+- Front porch o back yard?
+- Radio o rekods?
+- Pankek o eg?
+- Rosa o daisi?
+- Trip long trein o trip long rod?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Long ol toktok we i kam wetem ol pikja, traem [Ol kad blong toktok](/games/conversation-cards/) we yu save printim.
 
-## How do you run a trivia session in a care home or group?
+## Hao blong ranem wan sesen kwis long wan hom blong kea o long grup?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Setem ol man blong oli save luk mo harem.** Ol hiring-eid i stap long ia, ol glas i stap long ai, TV i ofem.
+2. **Introdiusim i olsem wan toktok.** "Mi gat sam kwestin long ol bifo dei, mi biliv yu save moa long mi."
+3. **Ridim ol kwestin tu taem, mo soem ol jois long bigfala raet.**
+4. **Welkamem ansa long eni ples long rum.** Ripitim ol gud ansa blong evriwan i harem.
+5. **Talemaot ansa long evriwan,** bihaen askem toktok long rum.
+6. **Folem energi.** Sipos wan kwestin i stat ten minis blong ol stori, letem i go.
+7. **Finisim wetem wan singsing o wan raon blong dis o dat,** blong evriwan i finisim long wan samting isi.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Sipos yu wantem ol narafala fasin blong grup, inklud pikja bingo mo singsing, lukim [ol grup aktiviti long ol hom blong kea](/activities/care-home-groups/).
 
-## When to change the plan
+## Taem blong jenisim plan
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Sipos wan man i luk i worri, i kam kwaet, o i talem "Mi no save" moa wan taem, mekem i isi moa: kasem tu jois nomo, ansarem tugeta, o jenisim i go long kwestin dis o dat. Sipos grup i wantem toktok long wan kwestin olsem long aftenun, hemia i wan sakses. Taget i nating blong ol ansa we oli stret. Taget i blong taem long gudfala kampani.

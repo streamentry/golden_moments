@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "जब डिमेंशिया से जूझत आपन केहू बेर-बेर घरे जाए के कहे"
+seoTitle: "डिमेंशिया में घरे जाए के रट: का कहीं आ कइसे संभालीं"
+description: "घरे रहला पर भी डिमेंशिया से जूझत लोग काहें घरे जाए के कहेला, का कहल ठीक रही, मन शांत करे वाला काम आ बाहर जाए पर सुरक्षा के उपाय।"
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  जब डिमेंशिया से जूझत रउआ आपन केहू बेर-बेर घरे जाए के कहे, त "घर" के मतलब अक्सर
+  कवनो मकान ना, बलुक सुरक्षा के अहसास भा बीतल समय के कवनो जगह होला। उनुका से ई
+  बहस मत करीं कि उहाँ लोग घरे ही बा। उनुकर भावना के समझीं, भरोसा दिआईं कि उहाँ
+  सुरक्षित बानी, घर के बारे में बतियाईं, आ फेर आराम से फोटो देखे, गाना सुने,
+  नाश्ता, टहले भा कवनो छोट काम में मन लगाईं। भूख, पियास, पेशाब-शौच भा दर्द के
+  जांच करीं। जदि ई अचानक सुरू भइल होखे, त डॉक्टर से संपर्क करीं।
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"हमरा घरे जाए के बा\" के मतलब अक्सर ई होला कि \"हमरा सुरक्षित भा सहज नइखे लगत,\" कवनो पता खोजल ना।"
+  - "बहस कइल भा ई साबित कइल कि उहाँ लोग घरे ही बा, अक्सर परेशानी बढ़ा देला। शब्द के जगह भावना के समझीं।"
+  - "उनुका से घर के बारे में पूछे के कहीं, फेर फोटो, संगीत, हल्का नाश्ता, टहलल भा कवनो सीधा-सादा काम में मन लगाईं।"
+  - "तुरंत ठीक होखे वाला कारण देखीं: भूख, पियास, पेशाब-शौच, दर्द, ढेर जाड़ा भा गरमी, हल्ला-गुल्ला, भा थकान।"
+  - "जदि ई रोज सांझ के बेरा सुरू होला, त ई सनडाउनिंग हो सकेला; एगो नियमित दिनचर्या आ भरपूर रोशनी से मदद मिल सकेला।"
+  - "जदि उहाँ लोग बाहर निकले के कोसिस करे त सुरक्षा के तइयारी राखीं, आ अचानक कवनो बदलाव आवे पर डॉक्टर से बात करीं।"
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "डिमेंशिया से जूझत हमार माई घरे रहला पर भी बेर-बेर घरे जाए के काहें कहेली?"
+    a: "डिमेंशिया के चलते जानल-पहचानल कमरा भी बेगाना लग सकेला, आ लोग के लागेला कि उहाँ लोग जिनगी के कवनो पुरान दौर में बा। \"घर\" के मतलब लइकई के घर भा खाली सुरक्षित आ आरामदेह महसूस कइल हो सकेला। उहाँ कहाँ बानी ई बतावे के जगह उनुकर भावना के संभारे से जादे मदद मिलेला।"
+  - q: "जब उहाँ लोग घरे जाए के कहे त हमरा का कहे के चाहीं?"
+    a: "अइसन कह के देखीं कि \"रउआ इहाँ सुरक्षित बानी, आ हम रउए लगे बानी,\" फेर पूछीं \"हमरा के आपन घर के बारे में बताईं ना।\" ध्यान से सुनीं, कवनो फोटो भा गाना साझा करीं, आ पानी-चाय भा थोड़िका देर टहले के कहीं। \"रउआ घरे ही त बानी\" कह के टोकला से बचीं, काहें से कि एहसे लागेला कि उनुका के गलत ठहरावल जा रहल बा।"
+  - q: "का ई कहल ठीक बा कि हमनी के बाद में घरे चलल जाई?"
+    a: "परिवारन आ डिमेंशिया संस्था सभ के एह पर अलग-अलग राय बा। बहुते लोग साँच तसल्ली आ मन बझवला से सुरू करेला, आ कवनो मीठ झूठ के खाली ओइसन घड़ी खातिर राखेला जब साँच कहल से खाली परेशानी बढ़ी जवना के उहाँ लोग संभाल ना सके। रउआ जवन भी चुनीं, मयालू आ एकरस रहीं, आ उनुका नजरिया के कबो मजाक मत उड़ाईं।"
+  - q: "अगर उहाँ लोग घर से बाहर निकले के कोसिस करे त का करीं?"
+    a: "शांत रहीं आ रस्ता रोके के जगह उनुका साथे-साथे टहलीं; तनिक देर टहलला से अक्सर ई बेचैनी शांत हो जाला। पहिले से सुरक्षा के इंतजाम राखीं, जइसे कि नाम-पता वाला ब्रेसलेट, दरवाजा पर घंटी आ एगो हाल के फोटो। अगर उहाँ लोग कहीं निकस जाव, त तुरंत खोजल सुरू करीं, आ 15 मिनट में ना मिलला पर 112 पर फोन करीं आ बताईं कि उहाँ डिमेंशिया से जूझ रहल बानी।"
+  - q: "डॉक्टर के कब फोन करे के चाहीं?"
+    a: "अगर ई रट भा उलझन अचानक सुरू हो जाव भा कुछ घंटा भा दिन में बहुते बढ़ जाव, त तुरंत डॉक्टर से बात करीं, खास तौर पर अगर बुखार, कवनो नया दवाई भा पेशाब के इन्फेक्शन के लच्छन होखे। अचानक भइल उलझन डेलिरियम हो सकेला, जवना में तुरंत डॉक्टरी मदद चाहीं। अगर केहू खतरा में होखे त तुरंत 112 पर फोन करीं।"
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"हमरा घरे जाए के बा।" बहुते परिवारन खातिर ई सुनल सबसे भारी बातन में से एगो होला, खास क के तब जब जेकर रउआ देखभाल करत बानी उहाँ अपना ही बैठक में बइठल होखीं। ई बात आम हवे, डिमेंशिया के कवनो भी पड़ाव पर हो सकेला, आ एकरा के संभारे के शांत आ व्यावहारिक तरीका मौजूद बा। एह पन्ना पर बतावल गइल बा कि एह बात के असली मतलब का हो सकेला, का कहल ठीक रही, ओह घड़ी कवन काम मन शांत कर सकेला, आ सुरक्षित कइसे रहल जाव।
 
-## Why does someone with dementia keep asking to go home?
+## डिमेंशिया से जूझत लोग बेर-बेर घरे जाए के काहें कहेला?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+आम तौर पर, "घर" कवनो जगह से जादे एगो भावना होला। Alzheimer's Society एकरा के मकान के जगह आराम आ सुरक्षा के अहसास, भा बीतल जमाना के घर के रूप में बतावेला। डिमेंशिया के चलते जानल-पहचानल कमरा भी अजनबी लग सकेला, आ आदमी के अइसन लग सकेला कि उहाँ लोग जिनगी के पुरान दौर में बा, जब घर के मतलब लइकई के घर भा उ जगह रहे जहाँ उहाँ लोग आपन बाल-बच्चा के पोसले-पलले रहे।
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+एह बात के ईहो मतलब हो सकेला कि एह घड़ी कवनो दोसर तकलीफ बा: भूख, पियास, पेशाब-शौच के जरूरत, दर्द, ढेर गरमी भा जाड़ा, थकान, अकेलापन, डर, भा शोर-शराबा से बेचैनी। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) दर्द, हल्ला, अकेलापन, दिनचर्या में बदलाव आ दवाइयन के बेचैनी के कारणन में गिनेला।
 
-## What should I say when they ask to go home?
+## जब उहाँ लोग घरे जाए के कहे त का कहे के चाहीं?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+शब्द के जगह भावना के समझीं। [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ई सलाह देला कि उनुका के गलत साबित करे के कोसिस मत करीं: उनुकर भावना सच हवे, एहसे पहिले तसल्ली आ भरोसा दीं, फेर धीमे से ध्यान दोसर ओर ले जाईं।
 
-Phrases that often help:
+अइसन बात जवना से अक्सर मदद मिलेला:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **भावना के समझीं।** "लागत बा रउआ घर के याद आवत बा।"
+- **भरोसा दिआईं।** "रउआ इहाँ सुरक्षित बानी, आ हम रउए लगे बानी।" [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ई सीधा बात कहे के सलाह देला कि "रउआ इहाँ सुरक्षित बानी।"
+- **पुरान बातन के याद करीं।** "हमरा के आपन घर के बारे में बताईं ना। राउर रसोई कइसन रहे?" आज के बारे में सवाल पूछे के तुलना में पुरान दिनन के बारे में बात कइल अक्सर जादे सहज होला।
+- **साथे कवनो काम करे के कहीं।** "चलीं पहिले एक कप चाय पी लिहल जाव," भा "का रउआ एह तौलिया के समेटे में हमार मदद करब?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+मीठ बोली आ बांह पर नेह से हाथ रखल (अगर उनुका छूअल पसंद होखे) शब्दन से जादे असर करेला।
 
-## What should I avoid?
+## कवन बातन से बचे के चाहीं?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **बहस कइल भा समझावल।** "रउआ अब इहंईं रहीं ला" भा "ई त 40 साल से राउर घर हवे" जइसन बात उनुका से उ स्वीकार करावे के कोसिस करेला जवन डिमेंशिया के चलते समझल मुश्किल होला, आ अइसन लागेला कि उनुका के गलत ठहरावल जा रहल बा।
+- **इम्तिहान लीहल।** "का रउआ इयाद नइखे?" भा "घर के पता का हवे?" जइसन सवाल तनाव बढ़ा देला।
+- **खीस में दरवाजा रोकल।** अगर उहाँ लोग बाहर निकले लागे, त शांत रहीं आ उनुका साथे-साथे टहलीं। साथे थोड़िका देर टहलला से अक्सर ई बेचैनी दूर हो जाला।
+- **जल्दबाजी कइल।** बात बदले से पहिले उनुका के घर के बारे में बोले के पूरा समय दीं।
 
-## Activities that can help in the moment
+## ओह घड़ी काम आवे वाली शांत गतिविधियन
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+एक बेर भावना के समझ लिहला के बाद, कवनो शांत आ जानल-पहचानल काम उनुकर बात अनसुनी कइले बिना ध्यान दोसर ओर ले जा सकेला।
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **घर आ परिवार के फोटो देखीं।** सवाल पूछे के जगह पन्ना पलटत जाईं आ बात करीं ("देखीं, कतेक सुंदर बगइचा बा")। फोन भा टैबलेट पर, [Photo pairs](/games/photo-pairs/) रउआ परिवार के फोटो के एगो सीधा-सादा मिलान वाला खेल बना देला, आ फोटो राउर आपन फोन भा टैबलेट में ही सुरक्षित रहेला।
+2. **घर के बारे में बात करीं।** [Conversation cards](/games/conversation-cards/) घर, रसोई, आस-पड़ोस आ त्योहारन से जुड़ल खुला सवाल पेश करेला, जवना में कवनो सही भा गलत जबाब ना होला।
+3. **उनुकर मनपसंद संगीत बजाईं।** National Institute on Aging बेचैनी शांत करे खातिर धीमा आ मनपसंद संगीत सुने के सुझाव देला। हमनी के [music activities](/activities/music/) देखीं।
+4. **हल्का नाश्ता भा पानी-चाय दीं।** भूख आ पियास भी बेचैनी के रूप में देखाई पड़ सकेला। एक कप चाय भा कवनो मनपसंद चीज घरे होखे के सुखद अहसास करावेला।
+5. **टहले जाईं भा बाहर बइठीं।** चहल-पहल आ दिन के घाम से आराम मिलेला, खास क के दिन के पहिले पहर में।
+6. **कवनो जानल-पहचानल काम दीं।** धोवल कपड़ा समेटल, चम्मच-बासन तरतीब से राखल भा पेड़-पौधा में पानी डालल घर संभारे के अहसास फेर से जगा सकेला।
+7. **माहौल के शांत करीं।** टीवी बंद करीं, शोर आ चकाचौंध रोशनी कम करीं, आ साथे मिल के [calm breathing](/games/calm-breathing/) से धीमा सांस लीहल आजमाईं।
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+अगर कवनो तरीका काम ना करे, त बाद में दोसर आजमाईं। साथे शांति से बइठल भी अपने आप में बहुते नीक बात हवे।
 
-## Check for a cause you can fix
+## अइसन वजह देखीं जवना के तुरंते सुलझावल जा सके
 
-| Check | What to try |
+| का जाँचे के चाहीं | का कइल जा सकेला |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| भूख भा पियास | पानी भा पेय आ हल्का नाश्ता दीं |
+| पेशाब-शौच के जरूरत | बिना हड़बड़ी के, आराम से शौचालय ले जाईं |
+| दर्द भा बेचैनी | चेहरा सिकोड़ल, शरीर के कवनो अंग पकड़ल भा कब्ज जइसन लच्छन देखीं, आ डॉक्टर के बताईं |
+| ढेर गरमी भा जाड़ा | कपड़ा कम-बेसी करीं भा कमरा के तापमान ठीक करीं |
+| शोर-शराबा भा भीड़भाड़ | शांत कमरा में ले जाईं, टीवी बंद करीं |
+| थकान भा ढेर बेचैनी | आराम करावे के उपाय करीं, रोशनी धीमी करीं, धीमा संगीत बजाईं |
+| सांझ के बेरा | नीचे दिहल सनडाउनिंग वाला हिस्सा देखीं |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society ई सुझाव देला कि ई रट कब सुरू होला ओकर एगो छोट डायरी रखीं, जइसे कि खाना खाए से पहिले, मेहमानन के अइला के बाद, भा गोधूलि बेला में। एह तरीकन के समझ के पहिले से योजना बनावल सहज हो जाला।
 
-## Is it okay to tell a white lie?
+## का कवनो मीठ झूठ बोलल ठीक बा?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+एह पर सचहू एगो बहस बा, आ भले लोगन के अलग-अलग राय हो सकेला। Alzheimer's Society कहेला कि एकर कवनो एक तय जबाब नइखे: झूठ से कुछ लोगन के शक बढ़ सकेला, एहसे ई तय करीं कि उनुका भलाई खातिर का सही बा आ आपन बात में एकरस रहीं। Penn Memory Center के सह-निदेशक के विचार बा कि सच बोलल ही नियम होखे के चाहीं आ मीठ झूठ खाली तबे स्वीकार बा जब व्यक्ति कवनो खास सच के पचा ना पावत होखे, आ उनुका नजरिया के कबो उपहास ना उड़ावे के चाहीं।
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+बहुते देखभाल करे वाला लोग बीच के रस्ता चुनत बा: पहिले साँच दिलासा आ मन बझवला ("हमनी के आज रात इहंईं रहब, आ हम रउए लगे बानी"), घर कहाँ बा एह पर बिना बहस कइले।
 
-## What if it happens every afternoon or evening?
+## अगर ई रोज सांझ भा रात के बेरा होखे तब?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+सांझ के बेरा सुरू होखे वाली भा बढ़े वाली बेचैनी के अक्सर सनडाउनिंग कहल जाला। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) एगो नियमित दिनचर्या, रोज घाम आ चहल-पहल, दिन ढलला पर झपकी ना लीहल, आ सांझ के चाय, कॉफी भा नशा से बचे के सलाह देला। सांझ होखे से पहिलहीं बत्ती बार दिहला से भी फायदा हो सकेला। एह बारे में अउरी जाने खातिर हमनी के [calm late-afternoon activities](/caregiving/late-day-restlessness/) वाला गाइड देखीं।
 
-## Keeping them safe if they try to leave
+## अगर उहाँ लोग बाहर निकले के कोसिस करे त सुरक्षा कइसे राखीं
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+घरे जाए के रट से भटके (घूमे निकले) के खतरा बढ़ जाला। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) के अनुमान बा कि डिमेंशिया से जूझत दस में से छह लोग कम से कम एक बेर जरूर भटकेला।
 
-**Prepare ahead:**
+**पहिले से तइयारी:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- नाम आ राउर फोन नंबर वाला कवनो पहचान पत्र भा मेडिकल ब्रेसलेट, आ कपड़ा पर लेबल। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) MedicAlert आ Alzheimer's Association Safe and Found कार्यक्रम के चर्चा करेला, जवना में कुछ पइसा लग सकेला।
+- दरवाजा पर घंटी भा अलार्म, आ ताला ऊपर भा नीचे लगवाईं। उहाँ के घरे अकेला बंद कबो मत करीं।
+- एगो हाल के साफ फोटो, आ अइसन जगहन के लिस्ट जहाँ उहाँ जा सकेनी, जइसे कि पुरान घर भा काम करे के जगह।
+- भरोसा वाला पड़ोसियन के बता के राखीं, आ उनुका के आपन फोन नंबर दीं।
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**अगर उहाँ लोग गुम हो जाव:** तुरंत खोजल सुरू करीं; Alzheimer's Association बतावेला कि बहुते लोग 1.5 मील के दायरा में मिल जाला। अगर 15 मिनट के भीतर ना मिल पावत होखीं, त 112 पर फोन करीं आ बताईं कि उहाँ डिमेंशिया से जूझ रहल बानी। अगर केहू पर खतरा होखे त तुरंत 112 पर फोन करीं।
 
-## When should I call a doctor?
+## डॉक्टर के कब फोन करे के चाहीं?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+अगर ई रट भा उलझन अचानक सुरू हो जाव, भा कुछ घंटा भा दिनन में बहुते बढ़ जाव, त तुरंत डॉक्टर से संपर्क करीं। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) कहेला कि अचानक भा तेजी से बदलत व्यवहार, खास क के कवनो इन्फेक्शन भा दवाई बदलला के बाद, ओकर तुरंत जांच करावे के चाहीं। अचानक भइल भ्रम डेलिरियम हो सकेला, जवना खातिर [NHS](https://www.nhs.uk/symptoms/confusion/) कहेला कि तुरंत डॉक्टरी मदद के जरूरत होला; बुजुर्गन में पेशाब के इन्फेक्शन एकर एगो आम कारण हवे।
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+अगलका बेर डॉक्टर से भेंट में एह बात के लगातार पैटर्न के चर्चा कइल भी मददगार होला, काहें से कि दर्द, उदासी, नींद के समस्या भा दवाई के साइड इफेक्ट सभ के भूमिका हो सकेला।

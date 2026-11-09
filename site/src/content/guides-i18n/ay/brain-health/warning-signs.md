@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Demencia ukan qalltanakapa ukat doctor uñjañ pacha"
+seoTitle: "Demencia ukan qalltanakapa ukat doctor uñjañ pacha"
+description: "Demencia ukan qalltanakapa, jaqinakan jakañapa ukat amuyu chhaqhañapa ukanakat t'aqhisiñapa, ukat doctor uñjañatakix kunjamsa yatiqañapa."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Amuyu chhaqhaña, jakañ lurañanakar jaytañ ukat uru pacha jan yatiñ ukanakax demencia ukan
+  qalltanakapax ukax utjaspawa. Yaqha qullqanakax, kuna jiwasan thyroid ukat vitamina B12 ukan
+  jan wali sañ, medicina ukan mayjt'awinakapa, llakisiña ukat jan ch'amanit puriña ukax akham
+  mayjt'awinakar purapxi. Jan ukax qhanañ chiqat yatiri ukax demencia uñjañ atipxi. Thuqhanakan
+  chiqa chuymaxa presurampi uñjañ munaski.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Achuqallan amuyu chhaqhaña jaqinakan awtipax akhamawa; jakañ lurañanakar jaytañ uñjañ wali askiwa."
+  - "Alzheimer's Association ukax 10 uñachtʼäwi uñacht'ayi, sapa uñachtʼäwi ukax awtinak uñtañatakix jaqinakan mayjt'awipa."
+  - "Thyroid, vitamina B12 ukan jan wali sañ, medicina ukan mayjt'awinakapa, llakisiña, jan ch'amanit puriña ukanakax amuyu ukar mayjt'apxi, mayakanakax allichasiñax atipxi."
+  - "Demencia uñjañax qhanañ yatiri ukanakan ukhamaraki, intirnit ukan prueba ukanakax jan atipxi."
+  - "Chuymachañ ukax sapa uru utjañ kunapachatixa, uru jan kunkay, kunapachatixa wali sut'ikarai, delirium ukax utjayañapa ukat wali presurampi yanapt'añapa."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "¿Amuyu chhaqhaña awtinakax jaqinakan awtipa?"
+    a: "Mayni awtipaw. Jach'a jaqinakan qhanañ yatichañ utapan (National Institute on Aging) siwayi, qullqi ukat yaqha lurañanakar jan amtañax achuqallan, awtinakan amuyu chhaqhañapawa. Demencia ukax jaqinakan awtipa jan ukhamäkiti. Jakañ lurañanakar, uñjañ, qalltaña jan ukax utar mariñ jan ukhamarak amuyu chhaqhañanakax doctor uñjañ wali askiwa."
+  - q: "¿Amuyu chhaqhañax demencia jan ukhamarak mayni ukat utjaspa?"
+    a: "Ukhamawa. National Institute on Aging ukax thyroid, qhurux ukat hígado ukan jan wali sañ, medicina ukan mayjt'awinakapa, llakisiña, vitamina B12 jan wali sañ, alkoholinak lurañ, jan ch'amanit puriña, infeksiones ukat uma uñjañ ukanakar yatiyaraki. Yaqhanakax allichasiñax atipxi, ukatakix doctor uñjañax wali askiwa."
+  - q: "¿Utankama jaqi demencia uñjañ atipxitati?"
+    a: "Janiwa. Qhanañ yatiri sapa demencia uñjañ atipxi, jaqin qullqi uñjaña, lurañ, amuyu ukat yatiñ prueba ukanakat, laboratorio prueba ukanakat, jan ukax uma uñjañ scanners ukanakat. Doctorinakan ocupa ukanakax janiw demencia uñjañatak mayni ch'amañkiti."
+  - q: "¿Kunas lurañ jaqi sapa sutchawa ch'uxña chuymachasiñ qalltaskixa?"
+    a: "Jichhürux yanapt'añ mantañama. Utjañ chuymachañax delirium ukax utjaspa, ukax U.S. Department of Veterans Affairs ukan siwayi wali sut'ikaña thaqhat uñjaskiwa. Jaqi yanapt'añ yatiri ukar jichhürux luqtañama jan ukax emergencia thaqhar qhanañama, jaqi ukamp sayt'ayañama, medicinanakap yatiñama."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Jaqi jan uñjañamp amuyu chhaqhañ uñjañax, jan ukax munat jaqi uñjañax, ch'iqhapt'añ utjaspa. Aka qillqatax doctor uñjañ pachaw yatiyañataki, ukat ukar kunjamsa sarañ amuyañatakis yanapt'aniwa. Jan ukax jaqi demencia utjaspasa janiw yatiyañ atipkiti. **Qhanañ yatiri chiqpachaw demencia uñjañ atipxi**, ukat amuyu chhaqhañ mayni mayni mayjt'awinakax demencia janiwa. Intirnit ukan prueba ukanakar jan confíe.
 
-## What are the early signs of dementia?
+## ¿Kunas demencia ukan qalltanakapa?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) ukax 10 qalltanakap uñacht'ayi. Sapa uñachtʼäwiru jaqinakan awtipar uñtasa. Nuestra kamachi ukan siwayi:
 
-| Sign worth checking | More typical with age |
+| Uñjañ wali askiwa | Jaqinakan awtipar mayjt'ata |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Amuyu chhaqhaña jakañ lurañanakar jaytañ, kunapachatixa uru mayni yatiñ ukanakar jan amtañ jan ukax mayni mayni jutañ | Kunas sutiñ jan ukax uru chiqa lurañ amtañ, ukat qhipäx amtañ |
+| Amuyu luraña ukat jaqin lurañanakap thaqhaña, kunjamsa wali yatiñ jan ukax qullqi uñjaña | Uta qullqi ukan kuna chiqa jan lurañ |
+| Yatiñ lurañanakar tukuyañ askichañ, utan, trabajon jan ukax thakinkama | Microondas ukan yanapt'añ jan ukax TV ukan awtipa uñjaña |
+| Uru, mara pacha jan ukax kawkir utjasa amuyu chhaqhaña | Uru jan yatiñ, qhipäxa amuyañ |
+| Jaya jan ukax colores ukanakar mayjt'añ jaya | Ojos ukan mayjt'awi jan ukax yanapt'añ |
+| Arunaka ukan jan ch'amanit puriña, arunak jan ukax mayni arunak sum parlañ | Kunas arux jan jaytaña |
+| Kunanakas jan ukhamarak uñjaña, ukat ukat uñtañ jan atipaña | Uru mayni kunanakar jan uñjaña, uñtayañanakap qhipäx jaytayañ |
+| Jan wali amuyuñ, qullqi jan ukax chuymaña lurañanakan | Uru jan wali amuyu ukax |
+| Kunanakat jaytaña, trabajo jan ukax jaqinakan tantachawinakat | Uru jaya jan ukax tantachaw sarañ jan munañ |
+| Chuymanakan jan ukax amuyunakan mayjt'awi, kunap jan ukax llakisiñ, jan confíe, mayni ukat llakisiña | Lurañanakax sapa uru ukhamaraki, rutina jan ukhamarak ukat ch'ixi |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Mayni uñachtʼäwi ukax demencia utjasa sañ janiw ukhamäkiti. Aka sum uñjañax **jaqin awtipat mayjt'awi**, khitinakats wali askichañ jan ukax jakañ jaqinak ukhamarak uñjañ.
 
-## How is normal aging different from dementia?
+## ¿Kunjamasa jaqinakan awtipax demencia ukat mayjt'ata?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) siwayi, wali jaqinak amuyu chhaqhañ mayni mayni jan ukax achuqalla amuyapxi. Ukax achuqallan amuyu chhaqhaña ukhamaw. **Demencia janiwa jaqinakan awtipa.** Amuyu chhaqhaña jach'a jakañ lurañanakar jaytañ, kunjamasa jaqi jan atipkiti, uñjañ, luqtañ, jan ukax utar mariñ.
 
-The NIA suggests talking with a doctor if someone:
+NIA siwayi, doctor parlañ wali askiwa jaqi:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Ukhamaraki mayni mayni jutañ
+- Kawkisa wali yatiqañ utjasa, ukanakan jan thaqhaña
+- Jakañ amuyu, yatiñ jan ukax lurañanakar jaytañ
+- Uru, jaqinaka, ukat sapa chiqan jan ch'iqhapt'aña
+- Jakañ amtañ jan ukax chuymaña jan ukax jaqi uñjañ jan ukhamarak jan arsutaña
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Yaqha jaqinakax **mild cognitive impairment (MCI)** utjapxi. Ukax amuyu chhaqhañ jan ukax amuyu luraña mayni jaqinakat jach'awa, ukampis nayra jakañ jakasipxi. NIA siwayi, MCI ukax Alzheimer's ukan qalltanakap utjaspa, ukampis khitinakas MCI utjatap taqini Alzheimer's ukar puriñapa janiwa.
 
-## What else can cause memory problems?
+## ¿Kunanakas amuyu chhaqhañ mayjt'aspa?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Demencia ukat yaqha kunanakas amuyu ukar mayjt'apxi, ukat yaqhanakax allichasiñax atipxi. NIA ukax akhanakar uñacht'ayi:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Thyroid, qhurux jan ukax hígado jan wali sañ**
+- **Medicina ukan mayjt'awinakapa**
+- **Llakisiña ukat jan ch'amanit puriña**
+- **Vitamina B12 jan wali sañ**, jan ukax wali manq'añ jan amtaña
+- **Jakañ jan wali sañ**
+- **Alkoholinak jan ukax drogas lurañ**
+- **Infeksiones, uma ch'allt'añ jan ukax umanakan ch'uxña**
+- **Umat jaqhañ**, akham kunjamasa jaqinaka jaqhasipxi
+- **Jach'a llakisiña jan ukax jaya**, akham jubilarse jan ukax jaqi jaya jan ukax warmi jan ukax chacha jaya
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Uñjañ jan ukax ist'añ mayjt'awinakax chuymachañ uñtasa; [ist'añ qillqatanakar](/brain-health/hearing/) uñjapxam. Ukatakix doctor uñjañax wali askiwa. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) siwayi, doctor wali kutiw thyroid, vitamina jan wali sañ ukat infeksiones uñjañatak laboratorio prueba mayjt'apxi. Wali [jakañ](/brain-health/sleep/) ukat llakisiña allichasiña ukax parlañ wali askiwa.
 
-## Sudden confusion is an emergency
+## Utjañ chuymachañ ukax emergencia ukaraki
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Uru, horas jan ukax uru ukan utjañ chuymachañ ukax jichhürux yanapt'añ mantañama.** Delirium ukat utjaspa. [VA ukax delirium ukar](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) emergencia siwayi, jaqi yatiri ukar jichhürux luqtañ jan ukax emergencia thaqhar qhanañ yatiyi. Uñachtʼäwinakax:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Amuyu qhanañ ukan jaqsuqat jaqsut sarañ
+- Chuymachañ jan ukax amuyu ch'ixi
+- Amuyunakax jan ukhamaraki
+- Jan wali ch'ixi jan ukax wali jan ch'amañ, jan ukax ch'amañ, ch'ixi
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Aka sapa jaqirux utjaspa, demencia ukat jakkiri jaqinakanakapas. [NHS](https://www.nhs.uk/symptoms/confusion/) siwayi, mayni awtipax infeksiones (wali jaqinakan uta ukan infeksion), stroke, diabetes ukan wali jan wali uma ukhamaraki, umat jaqhañ ukat medicinanakas. Yanapt'iri utjañ sapa, jaqi sayt'ayañama, jisk'a arunakampi yanapt'añama. Wali jisk'a jaytañamay, medicinanakap yatiñama.
 
-## How do I prepare for the doctor's appointment?
+## ¿Kunjamsa doctor uñjañ pachar sarañ?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Wali uñjañ utjañ ukax wali qillqatanakampi qalltaspa. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) siwayi, apanukuñama:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Amuyu, chuyma ukat lurañanakan mayjt'awinakan lista**, kunanak uñjata ukat kunapachax qalltaspa uk qillqata
+2. **Nayra ukat jichhüru jan wali sañanakan**, amuyu chhaqhañ jaqinakan awtipa ukhamaraki
+3. **Medicinanakan jan ukax recetanakan**, mayni farmacia jan ukax sapa medicina ukanakan
+4. **Vitaminanakan jan ukax suplementonakan**
+5. **Jumax yatiñam mayjt'awinakam**, kuna prueba lurasa, kunjamasa suma pacha ukhamaraki kunapachas resultado utjaspa
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Yanapt'iri jaqi ukat jaqi yatiri ukat apanukuñamay. [NIA yatiyi](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) siwayi, doctor jaqi ukat uywa ukan jan jaqi ukanakat jan ukax jakañ lurañanakat, medicinanakat ukat uru lurañanakat jan ukax awtinakat parlañ. Doctor ukax:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Amuyu, lurañ, yatiñ, jaya ukat arunakan prueba lurañ
+- Yaqha mayni kunanakat uñjañatak laboratorio, uma jan ukax jukuña prueba lurañ
+- Llakisiña jan ukax yaqha amuyu chuymachañanakat uñjañ
+- CT jan ukax MRI uma uñjañ scanners lurañ
+- Especialista ukar yatiyañ, akham geriatra, neurólogo, psiquiatra jan ukax neuropsicólogo
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA siwayi, amuyu uñjañ ukax Medicare revisión anual ukan wali utjaspa, ukax chuymachañanakap parlañatakix askiwa. Doctor ukan jisk'a prueba ukanakax janiw demencia uñjañatak mayni ch'amañkiti. Ukax qalltañ laq'a, ukat walja utjañ utjañ wali jisk'a qhipat uñjañ. NIA siwayi, amuyu chhaqhañ jaqinakax 6 jan ukax 12 mes ukan doctor kutiñ wali askiwa.
 
-## Raising the subject kindly
+## Chuymaña ukat suma parlañ
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Yaqha jaqi llakisiñ utjaspa ukhax, sapa chuyma ukat jisk'a pacha ajlliñama. Uñjata kunanakat parlañama, jan ch'iqhapt'añ, jaqi jakañatak llakisiñat. Ukat jaqi kuna amuyu luraña ukan yanapt'añama, sapa jaqi ukham uñjañama. Nuestros [consejos de comunicación](/caregiving/communication-tips/) yanapt'apxi.
 
-## Talk with a doctor
+## Doctor ukamp parlaña
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Amuyu chhaqhaña, amuyu, chuyma jan ukax lurañanakan mayjt'awinakax utjaspa ukhax, primer doctor ukar luqtañama. Utjañ chuymachañ uru ukhax, 911 jan ukax jaqi yatiri ukar jichhürux qhanañama. Jan wali lurañanakat yanapt'añ ukhax, mayni jaqi ukan qalltañ thakhi ukat jan ukax yanapt'iri ukanakat jaytañ wali askiwa. Uñjañat yanapt'äna ukax, demencia utjaspa ukhax, kuna thakhinakas jaytayañ. Juma pachpat chuymam yanapt'aña; [chuymaña uñjañ qillqata](/caregiving/caregiver-self-care/) uñjapxam.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Aka qillqataxa ukax nayra yatiñawa, janiw qhanañ yanapt'awa. Uñjapxam [qhanañ yanapt'awi ukat jaqinakan yatiyawi](/medical-disclaimer/).

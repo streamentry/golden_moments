@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Activitatas sensorials pa personas con demencia"
+seoTitle: "Activitatas sensorials pa la demencia: idiyas y seguranza"
+description: "Activitatas sensorials pa personas con demencia: masache de mans, cistellas de teixidos y sons de la naturaleza, con notas de seguranza sobre afogo, alergias y olors."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  As activitatas sensorials usan o tacto, l'olfacto, o gusto, o sons y a vista:
+  un masache lento de mans, una cistella de teixidos suaus, herbas fresquitas
+  pa olfatar, sons de la naturaleza, o mirar los pallaros por a finestra. Son
+  adequadas en cada fase y son especialmente valiosas más tarde. Primero, mira
+  os riscos de afogo, las alergias, los problemas de piel y la sensibilidat a
+  los olors. Ofrece una cosa cada vez, y para si la persona parece incomoda.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "As activitatas sensorials no necesitan respuestas correutas, por eso pueden funcionar en cada fase, tamién en a cama o en una cadiera."
+  - "Ofrece un sentito cada vez en una sala tranquila, y pregunta o avisa antes de tocar."
+  - "Evita los chiquitos objectos y cualquier cosa que parezca o guela a comida sin serlo, porque la gent puede poner cosas en a boca."
+  - "Mira si hai alergias, problemas de piel o de respiración antes de usar cremas, olors o comidas."
+  - "No hai pruebas convincents de que a aromaterapia ayude a los sintomas de la demencia; usa los olors solo pa gosar, si cuadra."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Quals son buenas activitatas sensorials pa una persona con demencia?"
+    a: "Idiyas simples son un masache lento de mans con crema, tocar teixidos suaus, olfatar herbas fresquitas o café, escuchar musica favorita o sons de la naturaleza, mirar pallaros o una pecera, y tastar una comida favorita con una textura segura. Ofrece una cosa cada vez y mira como responde la persona."
+  - q: "Son seguras las activitatas sensorials pa alguien que se pon cosas en a boca?"
+    a: "Pueden serlo, con cuidau. Usa solo elementos grans que no se puedan tragar, evita los chiquitos o los que se rompan, y tiene las cremas, sabons y productos perfumaus fuera d'alcance dimpués, porque pueden parecer o guelar a comida. Quédate con la persona tot o tiempo."
+  - q: "Ayuda a aromaterapia con a demencia?"
+    a: "Una revisión de Cochrane no trobó pruebas convincents de que a aromaterapia ayude a personas con demencia, aunque los estudios eran chicos y no daban resultaus iguals. Si la persona gosa de un olor suau y conoixido, no pasa nada, pero evita os aceites esenciales fuertes, sobre todo si hai problemas de respiración o alergias."
+  - q: "Qué es un delantal o manta d'activitats?"
+    a: "Es un tela, delantal o manta pa las piernas con cosas pa tocar cosidas firmement, como botons grans, cremalleras, cintas y remendos con textura. Da a las mans inquietas algo que explorar. Mira-lo sovén por si hai algo suelto que se pueda arrancar."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+As activitatas sensorials usan os cinco sentitos: tacto, olfacto, gusto, sons y vista. No necesitan memoria, pasos ni respuestas correutas, asinas que pueden funcionar en cualquier fase. Son más importants más tarde. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) indica que en la fase avanzada lo mundo se vive sobre todo por los sentitos, y que se puede amostrar cuidau con tocar, sons, vista, gusto y olor. Unas poquas comprebacions de seguranza fan que estas activitatas sían relaxantes pa tot o mundo.
 
-## What are sensory activities for dementia?
+## Qué son las activitatas sensorials pa la demencia?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+As activitatas sensorials son esperiencias simples basadas en un sentito cada vez, como tocar un teixido, olfatar herbas o escuchar a pluya. La [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dice que las activitatas en a fase avanzada sovén han de centrar-se en os sentitos, y menciona musica, objectos pa tocar y manipular, y masache de mans. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) indica que la gent en a fase avanzada puede tener una necesidat fuerte de tener algo agarrau cerca pa estar consolada.
 
-## Sensory ideas, sense by sense
+## Idiyas sensorials, sentito por sentito
 
-### Touch
+### Tacto
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Masache de mans.** Calienta un poco de crema en as tuyas mans y acaricia lentament de la muñeca a las puntas d'os dedos. A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) menciona masachar con crema sin olor pa dar consuelo.
+- **Cistella de teixidos.** Cuadros grans de velour, pana, polar, rasa y lana pa acariciar, doblar y charrar sobre ellos.
+- **Pano caliente.** Un pano calient y umido pa las mans en un día frío. Prueba primero a temperatura en a tuya muñeca.
+- **Delantal o manta d'activitats.** Botons grans, cremalleras, cintas y remendos con textura cosidos firmement.
+- **Doblar y alisar.** Una cistella de panos o servilletas limpias pa doblar, apilar y tornar a doblar.
+- **Algo suau pa tener.** Una manta de polar, un coxín o un animal de peluche realista, ofrecido con naturalidat, nunca como juguete.
 
-### Smell
+### Olfacto
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Herbas fresquitas.** Frota entre los dedos fuellas de menta, romero, albahaca o lavanda y pasa-las por delant.
+- **Olors de cocina.** Café que se fa, pan tostando, canela o una naranja pelando-se cerca.
+- **Flors.** Trai unas poquas flors frescas de l'orto o d'a tienda.
+- **Un producto conoixido.** O sabón o a crema que siempre usaba, si a piel lo tolera.
 
-### Taste
+### Gusto
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Un sabor favorito.** Una cucharadeta chica de algo que le guste, como compota de poma, flan o helau, en una textura que pueda manechar con seguranza.
+- **Ayuda a cocer.** Tastar fruta o un poquet de glasa mientres cocis chuntos.
+- **Golosinas de tiempo.** Sandía en verano, sidra calient en otoño, servida a una temperatura segura.
 
-### Sound
+### Sons
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Musica favorita.** Canciones conoixidas a un volumen suau; mira [activitatas de musica](/activities/music/).
+- **Sons de la naturaleza.** Pluya, ondas o cantar d'os pallaros. A NIA indica que la musica, o ruido blanco y os sons de la naturaleza semblan relaxar a algunas personas.
+- **A tuya voz.** Leyer en alto, tararear, o contar una historia.
+- **Instrumentos simples.** Un tambor de mano, una sonaja o una campana pa tocar siguiendo una musica.
 
-### Sight
+### Vista
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Mirar por a finestra.** Un comedero de pallaros fuera de la finestra, chicos que tornan a casa, o nieu que cai.
+- **Una pecera o un video lento.** Movimiento suau sin sonido fuerte.
+- **Fotos grans.** Una imachen clara cada vez, sostenida a altura d'os güellos.
+- **Color y dibuixo.** Clasificar retalles de teixido de colors vivos, flors o servilletas de colors, o una simple pachina pa colorear d'o nuestro set de [colorear](/games/coloring/).
+- **Fuera.** A NHS suchiere jardins sensorials con plantas olorosas, texturas y fuents. Mira [activitatas d'orto y jardinería](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Como fer una caixa sensorial
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Tría un tema** relacionau con a vida de la persona: a playa, l'orto, a cosina, o taller, a costura.
+2. **Escoge cinco o seis elementos grans y seguros,** como una concha grande, una cuchara de fusta, una bufanda suau, una bolseta de lavanda seca cosida, o un bloque de fusta llis.
+3. **Mira cada elemento** por si tiene piezas chiquitas, bordes agudos, fils sueltos o cosas que se rompan.
+4. **Saca un elemento cada vez.** Dale-lo, describe-lo y deja que la persona lo explore.
+5. **Guarda la caixa dimpués** pa que siga siendo especial, y mira de nuevo os elementos antes de la siguient vez.
 
-## Safety first
+## Seguranza primero
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+As activitatas sensorials son suaus, pero hai unos riscos que importan. Algunas personas con demencia pueden confundir cosas que no son comida con comida, y tragar puede fer-se más difficil con o tiempo; a NIA avisa que los problemas de deglución en a fase avanzada aumentan o risco d'afogo.
 
-| Risk | What to do |
+| Risco | Qué fer |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Afogo | Usa solo elementos prou grans pa no tragar-los. Nada de botons, cuentas, monedas, canicas o chuguetes sueltos en una caixa. Ofrece comida solo en texturas que o equipo d'atención diga que son seguras. |
+| Cosas que parecen comida | A NIA aconseya guardar bien con chave as cremas, sabons, champús y perfumes, que pueden parecer o guelar a comida, y quitar as frutas artificials. Guarda os productos sensorials después d'usar-los. |
+| Alergias | Mira si hai alergias a los fruitos secos, o latex, a lana, a plantas o a fragancias antes de empezar. |
+| Olors fuertes | Evita los perfumes fuertes y los aceites esenciales, sobre todo si hai asma u otros problemas de respiración. Los olors suaus y naturals son más seguros. |
+| Piel | Mira si hai piel doliente, rompida o fraca antes de masachar. Usa una presión suau y para si hace ganas d'arrufar-se. |
+| Temperatura | Prueba primero los panos calients y las bebidas en a tuya muñeca. |
+| Elementos agudos o tóxicos | Nada de herramientas agudas, vidrio o material de manualidades tóxico. |
 
-## Does aromatherapy help?
+## Ayuda a aromaterapia?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Probablement no de forma que se pueda medir. Una [revisión de Cochrane sobre aromaterapia pa la demencia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) estudió 13 estudios con 708 personas, todas en residencias, y no trobó pruebas convincents de beneficio. Los estudios eran chicos, los resultaus no concordaban y los efectos secundarios estaban mal informaus. Si la persona gosa d'un olor suau y conoixido, como a lavanda de l'orto, ye una buena razón pa compartir-lo. No ye un tratamiento.
 
-## How to offer a sensory activity
+## Como ofrecer una activitat sensorial
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Tría un momento tranquilo** y apaga a tele.
+- **Acércate por delant,** di o su nombre, y pregunta o avisa antes de tocar: "Tiengo una crema. Quiers que te masache as mans?"
+- **Ofrece una cosa cada vez** pa no abrumar.
+- **Mira la reacción.** Una cara más suau, las mans relaxadas o una sonrisa son buenos sinals. Apartar-se, fruncir o inquietut significan que paras.
+- **Fes-lo curt.** Cinco minutos tranquilos son una buena sesión.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Una pausa de respiración chunta, como la de [respiración tranquila](/games/calm-breathing/), pot ser una manera suau de rematar. Pa más idiyas pa la cama, mira [activitatas en a fase avanzada](/activities/late-stage/), y pa la inquietut d'a tardada, mira [inquietut en as tardadas](/caregiving/late-day-restlessness/).

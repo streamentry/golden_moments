@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Aktiviti long Middle-Stage Dementia"
+seoTitle: "Aktiviti long Middle-Stage Dementia: Ol Simpol Aidia"
+description: "Simpol aktiviti long middle-stage dementia: haos wok, music, fotogaraf, isi gem, step-by-step setap mo ol aidia blong taem man i restless."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Long middle-stage dementia, ol best aktiviti oli short, familiar mo oli brokem
+  i go long ol single step: fouwen laondri, pea sok, wasem dish, singsing, gaed
+  wok, fotoalbam mo ol simpol pikja gem. Setem samting redi, showim fastfala
+  step, tekem ol hard pat blong yu mo givim aktiviti wan purpos. Stop taem i no
+  gat gud fil moa.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Ol familiar haos wok ofen i wok gud from oli mekem man i fil se hem i yusum samting mo hem i adalt."
+  - "Showim, no talem nomo; givim wan step long wan taem, mo givim tu simpol jusin, no ol open kwesten."
+  - "Tekem hard pat blong aktiviti blong man i save mekem pat we i givim hem gud fil."
+  - "Restless fasin ofen i minim man i nidim samting blong mekem. Givim wan aktiviti we i matsem, no talem 'no'."
+  - "Lukluk, helpim wan liklik, o stop erli, ol samting ia oli olsem stret."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Wanem aktiviti i gud long middle-stage dementia?"
+    a: "Ol short, familiar, hands-on aktiviti usually i wok gud: fouwen towel, pea sok, wasem dish, setem tebol, singsing wetem ol old fevret, gaed wok, lukluk long fotoalbam mo ol simpol pikja gem. Brokem wanwan aktiviti i go long ol single step mo mekem tugeta."
+  - q: "Hao blong mi helpim man we i gat dementia blong stat wan aktiviti?"
+    a: "Redi evri samting finis, then yu stat aktiviti yu wan, mo askem hem blong helpim: 'Yu save helpim mi wetem ol towel ia?' Plante man oli wantem blong joen, bat oli fidim hard blong stat. Showim fastfala step i wok gud moa long taem yu eksplenem."
+  - q: "Wanem mi sud mekem taem hem i mekem sam samting seim seim olwe?"
+    a: "Repitisen ofen i no bad mo i save minim man i wantem fil se hem i bisi o i nidim sua. Insted blong korektem, givim wan aktiviti we i matsem muv, olsem wan basket blong washcloth blong fouwen o wan song blong singsing tugeta."
+  - q: "Wanem if hem i mekem aktiviti rong?"
+    a: "Sipos i no bad, letem i stap. Towel we oli fouwen i defren o ol spun long rong ples i no important. Korektem i save filim olsem i kritisim, bat taem yu letem hem mekem long fasin blong hem, hem i save fil se hem i save mo hem i yusum."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Middle stej blong dementia ofen i longest taem, mo hemi taem we aktiviti oli stat nidim sapot. Tok i kam hard, step oli mikis, mo stat eni samting i save fil hard. Bat fasin blong wantem wokem samting mo joen i stap ya. Wetem liklik setap, man long middle stej i save enjoyem planti samting, espesol ol familiar wok, music mo ol pikja we yu mekem side-bae-side wetem hem.
 
-## What activities work well in middle-stage dementia?
+## Wanem aktiviti i wok gud long middle-stage dementia?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Short, familiar, hands-on aktiviti we oli brokem i go long ol single step i wok best. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) i talem se yu no nidim fanem nyufala samting blong mekem: ol aktiviti oli save kam pat blong ordinary laef, olsem mekem dinua tugeta, gaden, lisin long music o go wakabaot.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i nolsem se ol man long stej ia ofen i gat strong nid blong fil se oli gat purpos, o blong lukaftarem wan samting, mo oli nidim help blong stat o kontinum ol aktiviti. Middle-stage list blong hem i iklud fouwen laondri, wasem dish, pea ol sok, isi eksasaes, danis long familiar music, gaed wok, singalong, simpol pentem mo lukluk long fotoalbam.
 
-## How do you set up an activity so it works?
+## Hao blong setem wan aktiviti blong hem i wok?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Ol aktiviti oli save sakses o fael long setap. Ol fasin ia, we oli kam from [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) mo [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), i mekem bigfala defren:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Klirim spes.** Oflem TV, lokem dua mo putum nomo ol samting we aktiviti i nidim.
+2. **Stat long yu wan.** Stat fouwen o stirim, then invaetem hem: "Yu save helpim mi wetem ia?"
+3. **Showim, then wet.** Demonstret wan step. Pointim o guidim wetem han blong yu, olsem showim ples we plet i go.
+4. **Givim wan step long wan taem.** "Fouwen i go haf" i isi moa dan "fouwen ol ia mo stakem long kala."
+5. **Givim tu jusin, no open kwesten.** "Ol blu towel o ol wait wan?" i isi blong ansarem dan "Wanem yu wantem blong mekem?"
+6. **Mekem hard pat yu wan.** Yu mesarem, hem i stirim. Yu tredem nidol, hem i winem yan.
+7. **Givim wan rison.** "Ol napkin ia i blong dinua long Sande" i mekem wok ia i fil stret.
+8. **Letem hem lukluk sipos hem i wantem.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i talem se jus lukluk tu i save i gud.
 
-## Activity ideas for the middle stage
+## Ol aidia blong aktiviti long middle stej
 
-### Useful jobs
+### Ol haos wok we oli yusful
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Fouwen towel mo washcloth.** Ol smol, flet samting i isi moa. Basket blong ol warm washcloth i ken fouwen, smudum mo fouwen gen.
+- **Pea sok.** Stat wetem sam pea we oli defren nomo. Sotem long kala nomo i gud tu.
+- **Wasem o drae ol dish we i no brek.** Warm soapy wota i gud long han. Dreim taem yu sidaon i isi moa long lek.
+- **Setem tebol.** Givim wan kaen samting nomo long wan taem, mo yu setem wan ples blong sampol.
+- **Helpim long dinua.** Wasem potato, tearem lettuce o stirim wan bol. Yu wok long naef mo hit.
+- **Swipim, dastem o wipem.** Wan kaleko blong tebol, wan leit broom blong verenda.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Lukim [household tasks](/activities/household-tasks/) blong planti moa.
 
-### Music and movement
+### Music mo muvmen
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Singsing ol old fevret.** Stat singsing yu wan; plante man oli joen long ol song we oli save longfala. Lukim [music activities](/activities/music/).
+- **Danis fri.** Swae, clap o muv hao we i fil gud. Sidaon i olright tu.
+- **Tos wan balun.** I muv slow mo isi blong katsem from wan jea.
+- **Tekem wan gaed wok.** Wakabaot wan smol, familiar loup tugeta, arem long arem sipos i helpim.
 
-### Pictures and stories
+### Pikja mo stori
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Lukluk long fotoalbam.** Komentem long wanem yu lukim, no askem kwesten: "Lukim dat ka. Talem mi long hem." Lukim [reminiscence activities](/activities/reminiscence/).
+- **Yusum conversation cards.** [Conversation cards](/games/conversation-cards/) i pairem wan pikja wetem wan open prompt we no kwiz.
+- **Lukim wan old muvi tugeta.** Jusim wan we i familiar, stap klosap mo pausim blong rest.
 
-### Simple, pressure-free games
+### Ol simpol gem we i no presa
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Picture pairs wetem pikja we i soum nomo.** [Picture pairs](/games/picture-pairs/) i lusum ol pikja blong stap luk, so i hemi long nowem, no long rimembam.
+- **Find the same.** [Find the same](/games/find-the-same/) i soum wan pikja mo just tu o fo jes.
+- **Sort together.** [Sort together](/games/sort-together/) i olsem sotem laondri long screen: tap wan pikja, then basket blong hem.
+- **Picture bingo.** [Picture bingo](/games/picture-bingo/) i wok gud long famili miting mo grup.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Sipos wan gem i kausem frustresen, stop mo mekem narafala samting. Lukim [how to play together](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Jenisem restlessness i kam wan aktiviti
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Restless o ol fasin we oli repit ofen i gat wan rison. Family Caregiver Alliance i pointim se wan man we i kipim empti wan closet, hem i save traehad blong mit wan nid blong fil bisi mo produktiv. Alzheimer's Association i sajestem blong jenisem strong fil ia i go long wan aktiviti we i matsem, no blong stopem.
 
-| What you see | Something to offer |
+| Wanem yu lukim | Wanem blong ofarem |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Rabem o pikim tebol | Wan wet kaleko mo askem hem blong waepem tebol |
+| Lek i restless o tapem | Music we i gat klia bit blong tapem o clap long hem |
+| Empti drawer o closet | Basket blong klos o washcloth blong fouwen mo sotem |
+| Askem sem kwesten gen | Sua, then wan song o wan wok blong sharem |
+| Pacing | Wakabaot tugeta, o wan wok we i involvum karem samting |
+| Late-afternoon unease | Wan kwaet, familiar taskem long gud laet; lukim [late-day restlessness](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Taem blong stop o jenisem rod
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Stop taem yu lukim ol saen blong taed, frustresen, sem o boring, olsem fidget, frown, pushim ol samting i go aot o talem "mi no save." Alzheimer's Association i talem blong traem gen long narafala taem blong dei o mekem aktiviti i simpol moa. No fosem. Wan refusal i save kamaot from fiar o from taskem i hard tumas; lukim [when they say no](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Endem erli i olsem. I gud tu blong jus sidaon tugeta wetem wan kap ti. Taem abiliti oli jenis moa, ol aidia long [late-stage activities](/activities/late-stage/) i ken moa fit, mo [101 activities](/activities/ideas/) i gat planti moa blong traem.

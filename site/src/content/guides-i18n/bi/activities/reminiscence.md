@@ -1,32 +1,28 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Tingting long Past: Bokis, Stori mo Foto"
+seoTitle: "Tingting long Past for Dementia: Ideas we no gat kwiz"
+description: "Hao blong sherem tingting wetem man we gat dementia, no gat kwiz: toktok long foto, bokis blong tingting mo buk blong stori laef, wetem ol toktok we i isi."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Tingting long past i minim blong enjoyem past wetem. Yu save yusum foto, samting, miusik mo stori. Mekem wan bokis blong tingting, mekem wan buk blong stori laef, o lukluk long foto long saed blong man. Nating kwestin long hem: skip "Yu tingting?" mo "Hu ya?" mo yusum ol invitesen we i openim tingting, olsem "Talem mi long dei ia." Wan warm toktok i impoten moa winim ol fakt we i kroskro.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Tingting long past i wan toktok, no wan test. Fakt i no impoten; enjoyment i impoten."
+  - "Yusum ol komen mo invitesen olsem 'Talem mi long dei ia' instead blong 'Yu tingting...?' mo 'Hu ya?'"
+  - "Wan bokis blong tingting wetem ol samting blong laef blong man i givim han mo toktok wan samting blong holem."
+  - "Wan buk blong stori laef i helpem famili, ol visita mo ol wokman blong keya blong save man ya, no jes daeknosis blong hem."
+  - "Sipos wan tingting i karem sorrow, fastem komfot firstaet mo isi isi i go long narafala samting."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Wat nao tingting long past long ol man mo woman we gat dementia?"
+    a: "Hemi ol man mo woman i sherem tingting mo ol eksperiens bifo, oftenem wetem ol foto, samting, miusik o vidio. I save hapen wan-wan o long grup. Namba blong hem i wan toktok we i gud mo i minim samting, no blong testim wat man ya i save tingting."
+  - q: "Wai nao mi no sud askem 'Yu tingting?'"
+    a: "Ol kwestin we i testim tingting i save mekem man i fiel shem o fraet taem ansa i no kam. National Institute on Aging i lisim askem wan man sipos hem i tingting wan samting o wan man olsem wan samting blong avoidem. Instead, talem wanem yu lukim, mo letem man ya i add wanem hem i wantem."
+  - q: "Wat nao mi save putum long bokis blong tingting?"
+    a: "Jusum sef mo strong samting we i kanektem wetem laef blong man: samting blong wok, samting blong hobi, wan fevrit sikaf, postkad, recipe kad, sport souvenir o ol kopi blong foto. Avoidem sap samting, smol samting we man i save kakae, mo ol originol samting we no save kasem gen."
+  - q: "Wat sipos oli stap talem ol fakt we i no stret?"
+    a: "Letem i go. Sipos mama blong yu i talem se foto i sho hem wetem sista blong hem taem hemi kasin blong hem, hemia i oraet. Korektem bae i mekem wan warm taem i kam wan test. Folem stori we oli stap talem mo enjoyem wetem."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +37,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Tingting long past i minim jes enjoyem past wetem. Fo plante man we gat dementia, ol tingting long olfala yia oli stap kliya moa winim wanem i hapen long dis moning. Foto, ol samting we oli fomiliar, miusik mo stori oli save openem ol tingting ya mo givim yu wan samting warm blong sherem. Wan rul nomo: hemi wan toktok, nating wan kwiz.
 
-## What is reminiscence, and how is it different from quizzing?
+## Wat nao tingting long past, mo hao hem i defren long kwiz?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Tingting long past i sherem ol tingting thru long foto, samting, miusik o vidio, long pes blong man. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i talemaot se hemi sherem ol eksperiens mo stori bifo wetem help blong foto, samting, vidio o miusik, long buk o long tablet. Kwiz i defren: hemi askem man blong givim wan kiret ansa, mo hemia i save mekem man i fiel shem instead blong enjoyment.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) i lisim askem wan man sipos hem i tingting wan samting o wan man, olsem wan samting blong avoidem. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i sujestem blong avoidem kwestin we i depen long shotfala memori, mo toktok long pastfala taem we i longfala moa.
 
-| Instead of | Try |
+| Instead blong | Traem |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Yu tingting long samting ia?" | "Hemia i luk olsem wan hapi dei. Talem mi long hem." |
+| "Hu ya ia?" | "Hemia Aunt Rose long bij. Lukim dat hat." |
+| "Wanem yia nao?" | "Hemia i luk olsem ol old haos. Wanem nao i wan laef long hem?" |
+| "Nating, hem i no Bill, hem i Frank." | "Hem i luk olsem hem i gat plante fun." |
+| "Yu talem mi finis long stori ia." | "Mi laekem stori ia tumas." |
 
-## How do you talk about photos without quizzing?
+## Hao nao yu save toktok long foto witaut kwiz?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Stat wetem wanem yu lukim, then letem rum blong man ya add wan samting sipos hem i wantem.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Sidaon saed bae saed.** Holem album blong yutufala i lukluk tugeta, no testim long wan tebol.
+2. **Jusum sam gud foto.** Faev gud foto i betta winim wan bokis ful. Ol bigfala mo klia print i wok betta.
+3. **Yu yu mekem nem.** "Hemia yu mo Dadi long dei blong mared" i tekemaot presa.
+4. **Komentem ol smol samting.** Klos, ka, kakae, weta, fes. "Wanem wan ka. I luk olsem i sain tumas."
+5. **Invitem, no fosem.** "Talem mi long..." o "Wanem nao yu lukim?" Silen i oraet.
+6. **Folem wanem hem i lidim.** Sipos hem i toktok long wan narafala samting, folem.
+7. **Stopem taem i stap gud.** Klosem album bifo taed i kam.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Blong ol redi-med piksa prompt, traem [conversation cards](/games/conversation-cards/). Blong jenisim ol famili foto blong yu i kam wan isi matjing gem, traem [photo pairs](/games/photo-pairs/); ol foto we yu jusum bae i stap long browser blong yu.
 
-## How do you make a memory box?
+## Hao nao yu save mekem bokis blong tingting?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Wan bokis blong tingting i wan kontena blong ol samting long laef blong man, blong holem mo toktok long hem.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Jusum wan strong bokis** we i isi blong openem, olsem wan shu bokis, hat bokis o smol wudden jes.
+2. **Jusum wan tema o mikis.** Wok, hobi, wan ples, wan dekad, o smol blong evri samting.
+3. **Gedaremap sef samting.** Faev i go kasem ten aetem i naf blong stat.
+4. **Yusum kopi blong ol valuebol samting.** Kopim ol foto mo dokumen we no save kasem gen mo kipim ol originol i sef.
+5. **Tekemaot ol samting wan-wan.** Givim wan, talem wan samting long hem, mo lukim we toktok i go.
 
-Ideas to include:
+Ol aedia blong putum insaed:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Wok:** nem badj, wan smol tul, patch blong yunifom, buk blong akaont, pin blong nes, buk blong kakae long wan kafe.
+- **Haos:** recipe kad long han blong hem, tawel blong kisin, fevrit sikaf o tae.
+- **Hobi:** fising lua we i no gat hook, bolbolo, wan bol blong yanam, pakis blong sid.
+- **Ples:** postkad, map, wan turis souvenir, niusfeba blong ples we hem i bon long hem.
+- **Famili:** kopi blong foto, pikja blong pikinini, invitesen blong mared.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Leavim aot ol sap samting, smol samting we man i save kakae, mo eni samting we save karemaot painful tingting, sapos yu no save se hemia i welkam.
 
-## How do you make a life-story book?
+## Hao nao yu save mekem buk blong stori laef?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Wan buk blong stori laef i wan simpol album blong foto mo sotfala kapsen long laef blong man. Hemi samting blong lukluk tugeta, mo i helpem ol visita mo ol wokman blong keya blong luk ol fulfala man.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Jusum wan fomat.** Wan binda wetem sit protekta, wan printed foto buk, o wan slaed sou long tablet.
+2. **Planem sam smol sekson.** Pikinini, skul, wok, famili, ol ples we hem i stap long hem, fet, hobi, fevrit kakae mo miusik.
+3. **Putum wan o tu foto long wan pej** wetem wan sotfala kapsen we i bigfala prin: "Mary, 22 yias, i stat wok long bank."
+4. **Putum laekem mo ol rutin.** "I dringim kofi wetem milk. I laekem Sande singsing. I no laekem loud TV." Hemia i helpem evriwan we i keya long hem.
+5. **Involvem man ya** olsem hem i wantem, jusum foto, talem ol stori, o jes lukim i kam tugeta.
+6. **Kipim putum moa.** I no nid fining blong i yusful.
 
-## More reminiscence ideas
+## Ol moa aedia blong tingting long past
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Pleim miusik long taem blong yangfala yia** mo toktok long wea hem i karem hem i go. Lukim [music activities](/activities/music/).
+- **Lukim ol homemuvi o TV sho** long ol dekad we hem i laekem.
+- **Kukum wan pikinini dish** mo letem ol smel i lidim toktok.
+- **Lukim wan map** blong ples blong hem mo trasem ol stret we hem i save.
+- **Hanemaot ol olo katalog o megasin** mo toktok long prais, fasen mo ka.
+- **Rikodem ol stori blong hem** long fon, wetem permisen blong hem, blong famili.
+- **Sherem long ol kol.** Holem wan foto long wan vidio kol; lukim [phone and video calls](/activities/phone-and-video-calls/).
+- **Karem wan foto o samting taem yu visitim.** Hemia i givim visit ya wan isi fokas; lukim [visiting](/activities/visiting/).
 
-## What if a memory is painful?
+## Wat sipos wan tingting i painful?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Sam tingting i karem sorrow, regret o fraet. Sipos man ya i kam kros o sore, stopem, komfortem hem, mo isi isi jenisim toktok o akt. No argumentem wanem i bin hapen. Family Caregiver Alliance i advaesem agensem trae konvinsim man se hem i rong, mo i sujestem ansarem ol filing we hem i soem, we oli real. Sipos hem i toktok long wan man we i ded olsem se hem i stap yet, ansarem filing: "Yu miss hem. Talem mi long hem."
 
-## What does the research say?
+## Wanem nao risej i talem?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Wan [Cochrane review blong tingting long past](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), we i kavarem 22 trael mo 1,972 man, i faenem se ol efek i no sem, i smol, mo i jenis long setting mo fomat. I no faenem pruf blong harm long ol man we gat dementia. Mifala i sujestem tingting long past because hemi save mekem wan warm, minim taem tugeta, no olsem wan tritmen. Blong moa long isi toktok, lukim [communication tips](/caregiving/communication-tips/).

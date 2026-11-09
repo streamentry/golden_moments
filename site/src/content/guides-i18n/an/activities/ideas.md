@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Actividatz pa personas con demencia: 101 ideas simples"
+seoTitle: "Ideas d'actividatz pa la demencia: 101 actividatz simples"
+description: "101 actividatz simples y de adulto pa personas que viven con demencia, de doblar toallas a la música y as fotos, con maneras de adaptar cada una cuan se faiga más difícil."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  As buenas actividatz pa personas con demencia son conoxidas, de adulto y
+  fáciles de compartir: doblar a ropa, clasificar, cocinar, la música, mirar
+  fotos, caminar, la chardinería, o tiempo con as mascotas y os chuegos
+  simples. Triar lo que la persona siempre ha disfrutau, fer vusted as partes
+  difíciles y parar cuan se cansa. Un rato agradable en compañía importa más
+  que acabar cosa denguna.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Comience por a vida propia d'a persona: o suyo trabajo, as aficiones, a fe y a musica favorita son a mellor guía."
+  - "Faiga cada actividat más chicota si fa falta: menos pasos, menos opcions, vusted fa a parte difícil."
+  - "Mirar, sostener una cosa o simplament sentar-se cerca tamién cuenta como participar."
+  - "Pare o cambie cuan vea cansancio, frustración o aburrimiento. Acabar pronto ye un buen resultau."
+  - "Feyo chunto importa más que feyo bien."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "¿Qué actividatz son buenas pa una persona con demencia?"
+    a: "Actividatz conoxidas que a persona ha feito durant años, feitas una mica más sinxillas: doblar ropa, poner a mesa, cocinar, la música, mirar fotos, caminar, la chardinería y o tiempo con una mascota. Triar cosas que se sientan de adulto y útiles, y feyas chuntos."
+  - q: "¿Cuanto ha de durar una actividat?"
+    a: "No hi ha una duración correcta. Unos minutos doblando toallas pueden bastar un día, y una hora en o chardín puede parecer fácil en otro. Deixe que a persona marque o ritmo y acabe mientres siga siendo agradable."
+  - q: "¿Qué pasa si a persona se niega a feyo una actividat?"
+    a: "No la empuxe. Un no puede significar que la tarea le paga muito difícil, que o momento no ye o adecuau, o que está cansada o incómoda. Prebe más tarde, ofrezca una versión más chicota, o empece vusted la tarea a l'alredor y invite a ajudar."
+  - q: "¿Son bonos os chuegos mentals pa personas con demencia?"
+    a: "Os chuegos pueden ser una manera agradable de pasar o tiempo chunto, pero denguno chuego ha demostrau que trate, alentezca o pare la demencia. Triar chuegos sin cronómetro, puntuación ni sonidos de error, y tratarlos como una actividat compartida, no como una prueba."
+  - q: "¿Cómo evito que as actividatz paresquen de chiquetes?"
+    a: "Use materials reals y de adulto: toallas reals, recetas reals, música pa adultos y material de pintura, y imáchens con temas de adultos. Presente as tareas como ajuda que vusted de verdá necesita, y hable con a persona como lo adulto que ye."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+A millor actividat pa una persona con demencia ye cheneralment una cosa que ya sabe feyo, feita una mica más sinxilla y en compañía de alguien en qui confía. Ta baixo hai 101 ideas, agrupadas por tipo, cada una con cómo prepararla y cómo fer-la más fácil cuan se faiga más difícil. No fa falta equipo especial, y no fa falta acabar cosa denguna. Una buena tarde puede ser una cesta de toallas y una tacilla de café chunto.
 
-## How do you choose the right activity?
+## ¿Cómo triar a actividat adecuada?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Triar por a persona, no por a lista: comience por lo que siempre ha disfrutau y lo que puede feyo cómodament hoy.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Pienso en o suyo trabajo y as aficiones.** A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suchiere que un antigo empleau de oficina puede disfrutar clasificando monedas o preparando envíos, y un chardinero puede disfrutar de feyas en o chardín.
+- **Fíxese en lo que ya fa.** Si o suyo pai barre o balcón cada mañana sin que se lo pidan, faiga que ixa costumbre forme parte d'o día.
+- **Planifique alrededor de os límites.** Cansancio, vista, oyida, manos doloridas y equilibrio importan todos.
+- **Vixile o estau d'ánimo.** As actividatz ocupadas y ruidosas convienen a unos y asustan a otros.
+- **Dé-le un sentido.** Doblar servilletas pa una cena d'a parroquia paresce más valioso que un ejercicio por si mesmo.
 
-### A rough guide by stage
+### Una guía orientativa por etapa
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+A demencia se describe a menudo en etapas iniziales, medias y finals. Son etiquetas flexibles, no caixas, y muitas personas tienen días mellores y días más difíciles, asinas que guíe-se por lo que ve hoy. A [lista por etapa de la Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) sigue un patrón similar.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Tema | Etapa inicial | Etapa media | Etapa final |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Qué puede notar | Mayormén independiente; planificar, nomás nuevos y lugares ocupados se fan más difíciles | Necesita ajuda pa empecipiar y con os pasos; as parolas vienen menos fácilment | Necesita ajuda con a mayoría d'o cuidau diario; os sentidos son o más importante |
+| Actividatz que sovén encaixan | Naipes, chuegos de mesa, cocinar, chardinería, diario, salidas, clubs | Doblar ropa, clasificar, pasos sinxillos de cocina, cantar, álbums de fotos, paseos guiaus | Música favorita, masache de mans, cosas blandas pa tener, que li lean, sentar-se fuera |
+| O suyo papel | Compañero: pregunte qué ajuda quiere | Preparar, amostrar, fer as partes difíciles | Lleve la actividat a ell; a suya compañía ye a actividat |
+| Más ideas | [Etapa inicial](/activities/early-stage/) | [Etapa media](/activities/middle-stage/) | [Etapa final](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## ¿Cómo empecipiar una actividat con una persona con demencia?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Empiece chicot, empiece al suyo lau y faiga fácil dicir que sí. Muitas personas todavía quieren participar pero tienen difícil planificar o empecipiar.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Triar o suyo mellor momento,** sovén por a mañana.
+2. **Ponga todo a punto primero** pa poder empezar de inmediato.
+3. **Pida ajuda, no un espectáculo:** "¿Me podría echar una mano con estas?"
+4. **Empiece vusted.** Done o primer tovallón y deixe que se sume. Amostrar vale más que explicar.
+5. **Ofrezca un paso cada vez.**
+6. **Tome a parte más difícil.** A Alzheimer's Association suchiere medir os ingredientes vusted mesmo y dar-le a cuchara pa remover.
+7. **Deixe que se faga a su manera.** Toallas doblaus de forma diferent están bien.
+8. **Pare cuan deixe de ser agradable.** Moverse nerviosa, fruncir o ceño o decir "no puedo" son sinyals pa cambiar o descansar.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Vea también [cómo chugar chunto](/caregiving/how-to-play-together/) y [consellos de comunicación](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Tareas de cada día en casa
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+As tareas d'a casa son conoxidas y útiles, y por eso son un buen lugar pa empecipiar. A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) cita fregar platos, poner a mesa, barrer, clasificar a correspondencia y doblar ropa entre as actividatz que a gente puede disfrutar. Más en [tareas d'a casa](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Doblar toallas calentas.** Tire una cesta d'a secadora sobre a mesa y doblen una a l'altra. Más tarde, alisar y apilar ye igual de útil.
+2. **Emparellar calcetins.** Empiece con colors muito diferents. Más tarde, clasificar claro d'oscuro ye suficiente.
+3. **Poner a mesa.** Dé un tipo de cosa cada vez. Ponga vusted un cubierto de modelo.
+4. **Lavar o secar platos.** Agua calenta con chabón y platos que no se trenquen. Secar sentada ye más fácil pa as piernas.
+5. **Limpiar a mesa.** Dé un trapo humedo después de comer. Ye un trabajo de verdá pa as manos inquietas.
+6. **Clasificar a correspondencia.** Catálogos y publicidá en "guardar" y "reciclar". Los recibos de verdá, fuera.
+7. **Recortar cupones.** Tixeras de punta redondeada y folletos d'o supermercau. Más tarde, rodear las comidas favoritas tamién sirve.
+8. **Clasificar monedas.** Ordenar as monedas en tazas o envolver-las en rollos. Evite las piezas chicas si la persona se mete cosas en a boca.
+9. **Barrer o quitar o polvo.** Una escoba lleugera en o balcón, o un plumero de mango largo usau desde una silla.
+10. **Ajudar a preparar una comida.** Lavar verduras, romper lechuga, remover. Vusted maneja os cuchiellos y o fuego.
+11. **Feyo una receta familiar.** Use a tarjeta con a suya letra si la tiene. Más tarde, pueden ser os que prueben.
+12. **Hacer trabajo de oficina.** Doblar cartas, meter y sellar sobres, o escribir a lista d'a compra chunto.
 
-## Music
+## Música
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+A música conoxida puede llegar a a gente aun cuan as parolas son difíciles. As [consellos de música de la Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) suchieren canciones conoxidas, sin anuncios y con a television apagada. Vea [actividatz de música](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Faga una lista personal.** Música de a suya adolescencia y veintes, de a suya boda, de a suya parroquia y de a suya cultura.
+14. **Cantar chunto.** Empiece cantando vusted. Tararear o escuchar tamién cuenta.
+15. **Seguir o ritmo.** Aplaudir, dar palmadas en as rodillas o tocar un tambor de mano. Funciona sentada y en etapas finals.
+16. **Bailar.** Un baile lento en a cocina, o balancear-se sentada mientres se sostién de as manos.
+17. **Poner un álbum entero.** Un disco favorito de principio a fin, con café y sin nada más de fondo.
+18. **Hablar d'a música.** Convide a historias, no a datos: "Cuénteme d'os bailes a los que iba."
+19. **Ver un musical o concierto grabau.** Un espectáculo que le encantaba fa una buena tarde. Pare en cualquier momento.
+20. **Tocar un instrumento conoxido.** Una antigua pianista puede disfrutar de piezas sinxillas; más tarde, unas notas chuntos.
+21. **Escuchar música en directo.** Un concierto corto comunitario o un ensayo de coro. Siéntese cerca d'a salida.
 
-## Reminiscence: photos, objects and stories
+## Recuerdos: fotos, objetos e historias
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Disfruten chuntos d'o pasau sin ponerlo a prueba. Evite "¿Se acuerda de...?" y "¿Quién ye este?" y use invitaciones abiertas. Vea [actividatz de recuerdos](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Mirar un álbum de fotos.** Diga lo que ve: "Qué vestido más bonito. Cuénteme d'este día." Siga los nombres que use.
+23. **Faga una caixa de recuerdos.** Una caixa de zapatos con cosas de a suya vida, como una tarjeta d'o trabajo o una receta. Saque un objeto cada vez.
+24. **Empiece un libro de historia de vida.** Unas fotos por página con pies de foto en letra grande. Ayuda a nuevos cuidadores a conocer a persona.
+25. **Use tarjetas de conversación.** [Tarjetas de conversación](/games/conversation-cards/) unen una imachen con una pregunta abierta.
+26. **Faga un chuego de fotos familiars.** [Parellas de fotos](/games/photo-pairs/) convierte as suyas propias fotos en un chuego de emparellar.
+27. **Ver vídeos caseros o television antiga.** Comenten chuntos en vez de hacer preguntas.
+28. **Manejar objetos d'a suya vida laboral.** Una llave inglesa, un fonendoscopio, un libro de cuentas. As manos sovén guían a historia.
+29. **Cocinar un plato d'a infancia.** Pueden remover, probar o simplement sentar-se en a cocina con vusted.
+30. **Mirar un mapa de os lugares donde viviú.** Siga con o dedo as carreteras conoxidas en un atlas grande mientres charla.
 
-## Creative activities
+## Actividatz creativas
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+O arte trata de fer, no de la pieza acabada. Mantenga los materiales de adulto y seguros. Vea [artesanía y manualidades](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Pintar con acuarelas.** Papel grueso, unos colors. Si empezar cuesta, guíen os primers trazos chuntos.
+32. **Colorear diseños de adulto.** Flors o colchas, no dibujos animaus. Nuestras [páginas para colorear](/games/coloring/) funcionan en pantalla o impresas.
+33. **Faga un collage.** Rasgue imáchens de revistas de chardins, coches o comida y péguelas. Más tarde, nomás escoyer imáchens ye suficiente.
+34. **Arreglar flors.** Un ramo de supermercau y un florero. Más tarde, unos tallos en un frasco.
+35. **Tricotar o ganchillo chunto.** Filas sinxillas con agullas grandes. Más tarde, enrollar la lana en ovillos.
+36. **Faga tarjetas pa a familia.** Selle, firme o decore tarjetas de cumpleaños o de "mejórese" pa personas reals.
+37. **Modelar arcilla que seque al aire.** Faga un platiello chicot. Use materiales no tóxicos y quédese cerca.
+38. **Lijar y acabar madera.** Un kit de casa de pájaros precortada y papel de lija, sin herramientas eléctricas. Vea [actividatz pa hombres](/activities/for-men/).
+39. **Escribir o dictar una carta.** A un nieto o a un viello amigo. Si escribir cuesta, ellos hablan y vusted escribe.
 
-## Outdoors and gardening
+## Fuera y chardinería
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+O aire fresco y a luz d'o día son buena compañía. Vea [actividatz al aire libre y de chardinería](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Regar as plantas.** Una regadera chicota y unas macetas. Regar cada día da un ritmo a o día.
+41. **Plantar una maceta.** Póngala sobre una mesa pa que nadie tenga que arrodillar-se. As plantetas son más fáciles que as semillas.
+42. **Desherbar o quitar as flors marchitas.** Con guantes, un parterre chicot cada vez.
+43. **Rastrillar as fuellas.** Un trozo chicot. Más tarde, sostener a bolsa abierta ye un trabajo de verdá.
+44. **Caminar por un camino conoxido.** Por a manzana o hasta o buzón. Más cort tamién vale.
+45. **Sentar-se fuera chuntos.** Una silla en o balcón en un día suau. Mirar as nubes o a gent que pasa.
+46. **Dar de comer a los pájaros.** Llenar un comedero chuntos y mirar desde un asiento junto a la ventana.
+47. **Lavar o coche.** Cubo, esponja y una tarde calenta. Aclarar os tapacubos ye una buena tarea de un paso.
 
-## Sensory activities
+## Actividatz sensoriales
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+O tacto, l'olfato, o gusto, o oyir y a vista importan más a medida que avanza a demencia. A [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) menciona a música, objetos pa tocar y o masache de mans pa as etapas finals. Compruebe primero as alerxias y os riesgos de atragantamiento; vea [actividatz sensoriales](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Dar un masache de mans.** Pregunte primero y use una mica de crema. Triar sin perfume si tiene dudas sobre a piel o alerxias.
+49. **Tocar telas.** Una cesta de terciopelo, pana, lana y raso pa acariciar y doblar.
+50. **Oler hierbas y café.** Frote menta o romero fresco entre os dedos. Evite os olores fuertes si tiene problemas pa respirar.
+51. **Cepillar o pelo.** Lento y suau, si le gusta.
+52. **Compartir una toalla calienta.** Pa las manos y a cara en un día fredo. Compruebe antes a temperatura.
+53. **Explorar un delantal de actividades.** Botones grandes y cremalleras cosidas firmement. Compruebe que nada pueda soltar-se.
+54. **Probar un capricho favorito.** Una cuchariadeta pequeña, en una textura que pueda tragar sin peligro.
+55. **Poner sonidos de a naturaleza.** Lluvia, olas o cantos de pájaros a poco volumen.
+56. **Mirar algo lento.** Un acuario, un vídeo de a naturaleza o nieve que cai.
 
-## Games and puzzles
+## Chuegos y rompezabezas
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Os chuegos funcionan cuan no hai cronómetro, puntuación ni presión. Si uno empieza a paréixer una prueba, guárdelo. Vea [elegir aplicaciones y chuegos](/caregiving/choosing-apps-and-games/) y [chuegos cerebrals](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Emparellar imáchens.** [Parellas de imáchens](/games/picture-pairs/) deixa as imáchens boca arriba, asinas que se trata de fijar-se, no de recordar.
+58. **Trobar la mesma imachen.** [Trobar la mesma](/games/find-the-same/) ofrece entre dos y cuatro opcions. Charle de cada imachen.
+59. **Ordenar en cestas.** [Ordenar chuntos](/games/sort-together/) ye como clasificar calcetins en pantalla.
+60. **Faga un rompezabezas de piezas grandes.** Imáchens de adulto, con un número facil de piezas. [Rompezabezas de imachen](/games/picture-puzzle/) mantiene visible la imachen completa. Más en [rompezabezas pa la demencia](/activities/puzzles/).
+61. **Chugar un chuego de naipes antigo.** O que chugaba durant años. Más tarde, ordenar a baraja por colors ye un chuego en sí mesmo.
+62. **Chugar al dominó.** Emparellar os extremos. Más tarde, alinear as fichas ye igual.
+63. **Probar una sopa de letras en letra grande.** A nuestra [sopa de letras](/games/word-search/) tiene palabras nomás en horizontal y vertical, y se puede imprimir.
+64. **Acabar refranes conoxidos.** [Acabar o refrán](/games/finish-the-saying/) deixa mostrar o final en cualquier momento.
+65. **Chugar a bingo de imáchens.** [Bingo de imáchens](/games/picture-bingo/) convién a familias y grupos. Ayude a marcar os cartons con libertá.
+66. **Chugar a as damas.** Mantienga as normas flexibles. Mover as fichas mientres charlan cuenta.
 
-## Movement
+## Movimiento
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+A NIA suchiere paseos, una bicicleta estática, bandas elásticas, lanzar una pelota blanda o un globo, levantar latas de sopa y vídeos de ejercicio pa personas mayors. Consulte con o medico antes de empezar cosa nueva, sobre too si tiene problemas d'equilibrio.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Lanzar un globo.** Sentense una enfrent de l'atra. Se mueve lento, asinas que ye fácil de coller.
+68. **Seguir un vídeo de ejercicio sentada** pensau pa personas mayors, uno al lau de l'atro.
+69. **Estirar con una banda.** Tirons suaus de brazos con una banda lleugera, sentada.
+70. **Levantar latas de sopa.** Subidas lentas de brazos, quizá con música.
+71. **Pedalear en una bicicleta estática.** Unos minutos fáciles, con vusted cerca.
+72. **Bailar con pañuelos.** Agitar pañuelos lleugeros con música, sentada o de pie.
+73. **Caminar con un fin.** Pa echar una carta o comprar un café. Un motivo pa salir ye natural.
+74. **Compartir una pausa de respiración.** Vayan más lentos chuntos con [respiración tranquila](/games/calm-breathing/).
 
-## Social activities
+## Actividatz sociales
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+A compañía importa aunque os nombres sean difíciles, y los grupos chicos son más fáciles que os grandes. A NIA nota que una persona puede no recordar quién ye una visita pero sovén disfruta igualmén d'a compañía. Vea [visitas](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Recibir una o dos visitas cada vez.** Visitas cortas en una sala tranquila, con fotos pa mirar.
+76. **Llamar en vídeo a a familia.** Llamadas cortas, una voz cada vez. Vea [llamadas telefónicas y de vídeo](/activities/phone-and-video-calls/).
+77. **Probar un café de memoria.** Reunions informales a las que se puede ir sin cita pa personas que viven con demencia y sus cuidadores. Pregunte en os servicios sociales de la suya zona qué hay cerca.
+78. **Comer fuera en una hora tranquila.** La NIA suchiere un restaurant conoxido y tranquilo fuera de hora punta, con una mesa cerca d'o baño.
+79. **Visitar un centro de mayores o un centro de día.** Compañía pa ell y un respiro pa vusted.
+80. **Pasar tiempo con chiquetes.** Una visita corta y tranquila de nietos, o leer un libro ilustrau a un nen pequeño.
+81. **Compartir o periódico con un café.** Lea os titulares en voz alta. O ritual importa más que as noticias.
+82. **Ayudar a otros.** Doblar programas de misa o faer una tarjeta pa una vecina.
 
-## Faith and spiritual activities
+## Actividatz de fe y espirituals
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Siga a tradición propia d'a persona, o ninguna. A NIA suchiere servicios conoxidos, lecturas, música sacra, oración, meditación y ritos de fiestas.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Asistir a un servicio conoxido.** Triar uno más tranquilo, sentarse cerca d'o pasillo y avisar a a gente de allí sobre a demencia.
+84. **Ver un servicio en línia** en días en que salir es demasiau.
+85. **Rezar o leer chuntos.** Palabras conoxidas, leídas despacio. Puede que se sumen en as partes que se saben.
+86. **Cantar himnos o música sacra** de a suya tradición.
+87. **Mantener os ritos de fiesta.** Velas de pilas, una bendición, as decoracions que siempre usaba.
+88. **Compartir un tiempo tranquilo.** Sentense en un chardín o miren a puesta de sol chuntos.
 
-## Pets and animals
+## Mascotas y animals
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+A NIA suchiere dar de comer, peinar, pasear, o sentar-se con una mascota y tenerla en brazos.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Cepillar a un perro o gato tranquilo** con trazos largos y lentos.
+90. **Dar de comer a la mascota chuntos.** Vusted mide; ell vierte.
+91. **Pasear al perro chuntos.** Vusted sostién a correa.
+92. **Tener una mascota en o regazo.** Un gato tranquilo sobre una manta puede calmar muito.
+93. **Recibir visitas de animals.** Algunas residencias y centros de día acogen visitas de animals. Pregunte en a suya zona.
+94. **Ofrecer un animal blando realista.** Si no hai mascota, a algunas personas les gusta tener en brazos un gato o perro de peluche realista. Ofrézcalo con sencillez, nunca como un juguete, y acepte un no.
 
-## Seasonal activities
+## Actividatz de temporada
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Mantenga as tradicions, pero más sinxillas. A NIA suchiere ser realista y tener un espacio tranquilo pa descansar durant as fiestas.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Decorar pa a temporada.** Una calabaza, una corona o flors frescas en a mesa.
+96. **Faer un dulce de fiesta.** Estirar a masa o glasear galletas. Vusted maneja o forno.
+97. **Colgar adornos.** Adornos que no se trenquen, dados de uno en uno.
+98. **Ir a ver as luces.** Una corta salida nocturna en coche no pide nada más que compañía.
+99. **Plantar bulbos de primavera.** Meter os bulbos en una maceta en otoño y mirar cuan salen os primers brotes.
+100. **Desgranar mazorcas o pelar guisantes.** Una tarea de porche en verano con un cuenco en o regazo.
+101. **Escribir sobres de tarjetas de fiesta.** Ellos firman, sellan o cierran; vusted se encarga de as direccions.
 
-## What if an activity is not working?
+## ¿Qué hacer si una actividat no funciona?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Pare, y pruebe otra cosa en otro momento. A NIA suchiere vixilar a frustración y dexar que a persona simplement mire si prefiere. Un no sovén significa que a tarea ye demasiau difícil, que o momento no ye o adecuau, o que algo le molesta, como dolor, hambre o ruido. Hágala más chicota, prebe antes en o día, o empece vusted y vea si se suma. Vea [cuan dicen que no](/caregiving/when-they-say-no/) y [inquietud a última hora d'a tarde](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Pa encaixar as actividatz entre comidas y descansos, vea [una rutina diaria tranquila](/activities/daily-routine/). Pa tener a mano, vea [actividatz pa imprimir](/activities/printable/), y si dirige un grupo, [actividatz de grupo en residencias](/activities/care-home-groups/). Tamién importa o suyo propio descanso: vea [autocuidau pa cuidadores](/caregiving/caregiver-self-care/).

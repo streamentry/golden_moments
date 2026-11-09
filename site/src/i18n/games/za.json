@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Doiq ralbienz",
+    "seoTitle": "Youx doiq ralbienz vih boux miz bingh sitceiq: Doiq ralbienz",
+    "h1": "Doiq ralbienz: Youx doiq ralbienz ndei yaep",
+    "description": "Aen youx doiq ralbienz mbouj aeu sen, ndei yaep vih boux miz bingh sitceiq. Ralbienz hung caenh yawj raemx, mbouj miz biu dingzgih roxnaeuz faensoiq, mwngz coux gaenq aeu 4 daengz 12 bienz.",
+    "short": "Ra song aen ralbienz doxtungq. Ralbienz ndaej caenh ciuq roengz.",
+    "players": "1 roxnaeuz 2 boux, gyaeppien doxgah",
+    "intro": "Diemj aen ralbienz ndeu, laeng haenx diemj aen ralbienz doxtungq de. Ralbienz caenh ciuq roengz coux gyoengq de, cawq mbouj aeu geiq doengz. Mwh song aen ralbienz doxtungq hwnj daeuj, de coux miz rim kim caeuq daeg gouq.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Gaenq aeu gij bienz ralbienz lae. Bonj song song (4 bienz) coux heuh baez ndei raemx.",
+      "Diemj ralbienz aen lae doh ndaej. De coux miz rim kim hwnj daeuj.",
+      "Diemj aen ralbienz yawj doxtungq haenx. Song aen ralbienz neix coux doiq gyaep caeuq daeg gouq.",
+      "Tep song aen ralbienz mbouj doxtungq, yaep mbouj miz matyaez mbouj ndei fatseng. Mwh mwngz coux ndei coux diemj baez laeng.",
+      "Coux cix bat “Ralbienz ndip” mwh song boux mwngz roemx aeu gij ciuqdoengz daep roengz."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Haeux ciuq mingz ralbienz doxgah caeuq daeuj goj: “Aen wan caz boiq. Mwngz gya noemh hoemq caz lox?”",
+      "Luengh boux mwngz ciuqgu diemj aeu, lij aeu yaep lai mwh. Cij bienz mbouj aeu diemj daep de.",
+      "Youx 4 bienz cix gij yaep mwh faenx sim. Bienz lai lai haenx coux gaenq aeu, mbouj cij aeu baezbaez daengz.",
+      "Youx daengz mwh lij wanx coux doemq roengz. Youx baez ndeu coux aen huoddoengh cienzbaenj."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Miz biu dingzgih roxnaeuz faensoiq lox?",
+        "a": "Mbouj miz. Mbouj miz biu dingzgih, faensoiq, biu geiq diemj roxnaeuz baih. Mwngz ndaej doemq youx gwnz gizlae doh ndaej, doemq youx buenqdaengx coux aen fangjfap doemq ndei raemx."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Mwhciengx ralbienz caenh ciuq roengz mbouj daep?",
+        "a": "Caenh ciuq ralbienz roengz haenx bienq youx baenz yawj caeuq doiq, mbouj aeu geiq doengz. Boux lai lai naeuz neix ndei raemx. Mwngz diemj baez ndeu ndaej bienq baenz ralbienz ndip mwh mwngz roemx."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "De mbouj aeu sen lox, lij gou aeu ndanghaeh lox?",
+        "a": "Aen, mbouj aeu sen, mbouj aeu canghauh, ndanghaeh roxnaeuz haehroengz. De ndaej youx gwnz liuqlanjgi gwnz soujgi, bingzbanj roxnaeuz denhnauj."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Raeuz ndaej aeu ralbienz ranz raeuz lox?",
+        "a": "Ndaej. Yiengh Doiq ralbienz ranz, ndaej aeu ralbienz youq gwnz sezbei mwngz. Gij ralbienz neix youq gwnz liuqlanjgi mwngz, mbouj sangcuanz bae gizlae."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Ra aen doxtungq",
+    "seoTitle": "Ra aen ralbienz doxtungq: Youx riengz vih boux miz bingh sitceiq",
+    "h1": "Ra aen ralbienz doxtungq",
+    "description": "Aen ralbienz ndeu youq gwnz, song daengz seiq aen youq laj. Diemj aen doxtungq haenx. Aen youx ralbienz mbouj aeu sen, ndei raemx vih boux miz bingh sitceiq, mbouj miz biu dingzgih.",
+    "short": "Yawj ralbienz youq gwnz, diemj aen doxtungq youq laj.",
+    "players": "1 roxnaeuz 2 boux",
+    "intro": "Aen ralbienz dan ndeu youq gwnz moek. Youq laj de miz song, sam roxnaeuz seiq aen ralbienz. Diemj aen doxtungq haenx. Baez ndeu cix gaenq aeu aen ndeu, miz gyaep doxgah goj lai lai.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Gaenq aeu song, sam roxnaeuz seiq aen ralbienz daeuj gaenq. Song aen coux riengz raemx.",
+      "Yawj aen ralbienz youq gwnz doxgah.",
+      "Diemj aen ralbienz doxtungq youq laj. De miz daeg gouq caeuq gij vah unq raemx.",
+      "Tep diemj aen ralbienz mbouj doxtungq, aen youx cix heuh mingz de laeng coux lae. Mwngz guh riengz riengz.",
+      "Diemj “Ralbienz laeng” mwh mwngz coux ndei aeu aen ndeu."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Goj gij ralbienz gvaq laeng coux gaenq: saek, dohsik, gizlae ndaej raemx.",
+      "Song aen gaenq haenx mbouj dwg “riengz lai”. Mukbiuh coux dwg yaep mwh wanx, mbouj dwg aeu gaenx.",
+      "Tep diemj mbouj faenx, boux haenx ndaej cij bienz, mwngz diemj daep de doh ndaej."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Miz biu dingzgih roxnaeuz faensoiq lox?",
+        "a": "Mbouj miz. Mbouj miz biu dingzgih, faensoiq, biu geiq diemj roxnaeuz baih. Mwngz ndaej doemq youx gwnz gizlae doh ndaej, doemq youx buenqdaengx coux aen fangjfap doemq ndei raemx."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Tep diemj loek ralbienz yaep miz matyaez fatseng?",
+        "a": "Mbouj miz matyaez mbouj ndei. Mbouj miz sing lingz, daeg cag deng roxnaeuz ndin. Aen youx heuh mingz ralbienz deng diemj haenx, laeng coux lae baez diemj laeng."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "De mbouj aeu sen lox, lij gou aeu ndanghaeh lox?",
+        "a": "Aen, mbouj aeu sen, mbouj aeu canghauh, ndanghaeh roxnaeuz haehroengz. De ndaej youx gwnz liuqlanjgi gwnz soujgi, bingzbanj roxnaeuz denhnauj."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Doiq ral",
+    "seoTitle": "Youx doiq ral vih boux miz bingh sitceiq: Mbouj aeu sen vangjsang",
+    "h1": "Doiq ral: Youx ralbienz ndei yaep",
+    "description": "Ral dumyouq youq gwnz, song daengz seiq aen ralbienz youq laj. Diemj aen ralbienz ok ral haenx. Aen youx doiq ral mbouj aeu sen, ndei yaep vih boux miz bingh sitceiq, mbouj miz biu dingzgih.",
+    "short": "Yawj ral haenx laeng diemj aen ralbienz ok de daeuj.",
+    "players": "1 roxnaeuz 2 boux",
+    "intro": "Doiq ral dwg aen huoddoengh baeukuh youq gwnz cej in, youq neix miz ralbienz hung mbouj aeu in cej. Ral unq ndeu youq gwnz moek, song, sam roxnaeuz seiq aen ralbienz lae youq laj. Diemj aen ralbienz ok ral haenx. Dohsik yiengh daegcez, romq roxnaeuz wan caz doh riengz daeuj goj.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Gaenq aeu song, sam roxnaeuz seiq aen ralbienz daeuj gaenq. Song aen coux riengz raemx.",
+      "Yawj ral doxgah. De dwg dohsik matyaez? Sang roxnaeuz moenx?",
+      "Diemj aen ralbienz ok ral haenx. Mingz de coux hwnj youq laj ral.",
+      "Tep diemj aen ralbienz mbouj doxtungq, aen youx cix heuh mingz de laeng coux lae. Mwngz guh riengz riengz.",
+      "Diemj “Ral laeng” mwh mwngz coux ndei aeu aen ndeu."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Aeu faenxniux vawz rim ral laeng coux goj gij dohsik de.",
+      "Tep ral vanz neix yawj yaep naek, bienq bae Ra aen doxtungq, gizhaenx ralbienz yawj doxtungq.",
+      "Mwh ra ndaej coux goj gij ralbienz haenx: “Raeuz gvaqgonq miz aen romq yiengh neix.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Miz biu dingzgih roxnaeuz faensoiq lox?",
+        "a": "Mbouj miz. Mbouj miz biu dingzgih, faensoiq, biu geiq diemj roxnaeuz baih. Mwngz ndaej doemq youx gwnz gizlae doh ndaej, doemq youx buenqdaengx coux aen fangjfap doemq ndei raemx."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Doiq iengx miz ickawx doiq boux miz bingh lumz lwi?",
+        "a": "Doiq sam-faenh boux, daegbied dwg ndaw seizgeiz daih-it, de ndaej baenz aen hozdung hungzndwen, gaanjdanj ndeu. Hingzfaeh gaeuq vaij rox san-saw. De dwg yungh daeuj luenh-yied caeuq gangj-ueh, mbouj dwg gij gaujsi, lij mbouj saej bingh lumz ndei hwnjdaeuj roxnaeuz ienx manh roengzdaeuj. Lauxfaenh de baenz sim yawz, cix caep aen «Haj aen doengz» roxnaeuz dazyienz yawj gij vah caemhcungx."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Lauxfaenh diemj loek vah cix baenz lau?",
+        "a": "Mbouj miz gijmaz mbouj suenghsim. Mbouj miz sing lingz, gah-cawz boengz roxnaeuz iengx dondat. Youzyi cix gouh mingz vah de hwnjdaeuj, laengneix ciuqbae deng mwngz diemj."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbouj au cienz lwi, aeu daengjgeiq mbouj?",
+        "a": "Dwg, mbouj au cienz, lij mbouj aeu danghoq, daengjgeiq roxnaeuz haehcaj. Yungh liujlanjsi ndaw soujgei, bingzbanj roxnaeuz dienhnauj coux ndaej yungh."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Caemhcungx faenbui",
+    "seoTitle": "Youzyi Faenbui Doiqqyaep Boux Miz Bingh Lumz: Caemhcungx Faenbui",
+    "h1": "Caemhcungx Faenbui: Aen Hozdung Faenbui Vah",
+    "description": "Diemj vah ndeu, laengneix diemj aen loeng de danghnaeuz: ranz-gwn roxnaeuz suen-va, maej-faeiz roxnaeuz doengzvuz. Aen hozdung faenbui angq-angq, mbouj au cienz doiq boux miz bingh lumz.",
+    "short": "Ciuh aen vah caep roengz aen loeng de: ranz-gwn roxnaeuz suen-va, lij miz gijwnq.",
+    "players": "1 roxnaeuz 2 boux",
+    "intro": "Faenbui dwg aen gungcoz moix ngoenz bienq guh lij suenghsim, doengzbaenz sou gij gaeq daeuj roxnaeuz doiq va. Diemj vah ndeu, laengneix diemj aen loeng de danghnaeuz. Mbouj aeu ciz, mbouj miz loek.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Genx aen cuwdaez: ranz-gwn caeuq suen-va, maej-faeiz caeuq doengzvuz, roxnaeuz ranz caeuq luyouh.",
+      "Diemj aen vah ndeu. De cix miz bian rim-gim.",
+      "Diemj aen loeng de danghnaeuz. Vah cix ienx bae ndaw aen loeng haenx.",
+      "Lauxfaenh de danghnaeuz aen loeng wnq, youzyi cix vumzvunz gangj hwnjdaeuj lij ciuqbae deng.",
+      "Dangzmoix aen vah faenbui le, caemhcungx yawj gij ndaw loeng."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Ndaw sangh-hoh ciengzcangz mbouj miz daeb-loek. Lauxfaenh miz boux naeuz aen hu doq namx danghnaeuz ranz-gwn, cix cam de gohyienh. Sou ndaej dingx aen go-sê ndei ndeu.",
+      "Yungh gij vah daeuj dae: \"Mwngz ndaw suen-va boek gijmaz?\"",
+      "Faenbui gij gaeq cin-cingq, doengzbaenz faemx caeuq ca, roxnaeuz goj-aep ciuq saek, dwg aen hozdung ndei liax daiz dienhnauj."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Miz gi-seiz roxnaeuz fwn-soq lwi?",
+        "a": "Mbouj miz. Mbouj miz cung, fwn-soq, soq buhkau roxnaeuz baih. Mwngz ndaej dengz ndaw seizgeiz gah hanh, dingx ndaw cawx goj dwg aen leix-leux ndei ndeu."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Gohmaz aeu faenbui?",
+        "a": "Lai boux gyaez faenbui, vawjviensang de lumj gungcoz miz ickawx lij rox-naj. Ciuqbaih guh ciuqbaih gangj gij vah goj gaanjdanj."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbouj au cienz lwi, aeu daengjgeiq mbouj?",
+        "a": "Dwg, mbouj au cienz, lij mbouj aeu danghoq, daengjgeiq roxnaeuz haehcaj. Yungh liujlanjsi ndaw soujgei, bingzbanj roxnaeuz dienhnauj coux ndaej yungh."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Baep vah",
+    "seoTitle": "Youzyi Baep Vah Gaanjdanj Doiqqyaep Boux Miz Bingh Lumz: 4 roxnaeuz 9 Doek",
+    "h1": "Baep Vah: Aen Baep Vah Gaanjdanj",
+    "description": "Aen baep vah fangz-lianj gaanjdanj doiq boux miz bingh lumz: 4 roxnaeuz 9 doek hung, aen vah daengx aen cijengz yawj ndaej, diemj song doek cix ndaej hoenx doengx.",
+    "short": "Diemj song doek daeuj hoenx doengx, daengz aen vah caemhcungx baenz ndei.",
+    "players": "1 roxnaeuz 2 boux",
+    "intro": "Aen vah ndei yawj ndeu deng cet baenz seiq roxnaeuz gouj doek hung lij luanh le. Aen vah daengx aen cijengz yawj ndaej daeuj baenz caemjcoux. Diemj aen doek ndeu, laengneix diemj aen wnq, song doek cix hoenx viqdiz. Mbouj aeu laek bae.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Genx aen vah caeuq 4 roxnaeuz 9 doek. Seiq doek dwg aen laeb-daeuz vumzvunz.",
+      "Yawj daengx aen vah youq bae-gwnz.",
+      "Diemj aen doek ndeu, laengneix diemj aen viqdiz de wngdang bae. Song doek cix hoenx doengx.",
+      "Doek youq viqdiz deng-cawz miz aen maeg gouj iq ndeu.",
+      "Dangz aen vah baenz ndei le, caemhcungx yiemq-yied yawj, laengneix genx aen wnq."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Diemj song doek daeuj hoenx doengx, doiq lai boux daeuj naeuz gaeuq laek gaanjdanj lai.",
+      "Ciuqbaih baep ciuqbaih gangj aen vah: \"Aen rim-ranz nding youq haenx.\"",
+      "Aen baep vah faex cin-cingq miz 12 daengz 24 doek hung goj dwg hozdung baenz-yied youq gwnz daiz."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Miz gi-seiz roxnaeuz fwn-soq lwi?",
+        "a": "Mbouj miz. Mbouj miz cung, fwn-soq, soq buhkau roxnaeuz baih. Mwngz ndaej dengz ndaw seizgeiz gah hanh, dingx ndaw cawx goj dwg aen leix-leux ndei ndeu."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Aeu laek gij doek vah lwi?",
+        "a": "Mbouj aeu. Diemj aen doek ndeu, laengneix diemj aen wnq, song de cix hoenx viqdiz. Guh baenzneix doiq fwen faeiz iq roxnaeuz mwnh-bingz iq gaeuq gaanjdanj."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbouj au cienz lwi, aeu daengjgeiq mbouj?",
+        "a": "Dwg, mbouj au cienz, lij mbouj aeu danghoq, daengjgeiq roxnaeuz haehcaj. Yungh liujlanjsi ndaw soujgei, bingzbanj roxnaeuz dienhnauj coux ndaej yungh."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Daem vah-dauq",
+    "seoTitle": "Daem Vah-dauq: Youzyi Vah-dauq Doiqqyaep Boux Laux",
+    "h1": "Daem Vah-dauq",
+    "description": "Gij vah-dauq rox-naj miz aen vah laeng doek, lumjnaeuz \"A penny saved is a penny ___\". Diemj aen genx roxnaeuz haek ok aen laeng de, laengneix caemhcungx gangj-ueh.",
+    "short": "Caemhcungx daem gij vah-dauq rox-naj, laengneix caemhcungx gangj-ueh.",
+    "players": "1, 2 boux roxnaeuz aen doenz",
+    "intro": "Gij vah-cawz laux ciengzcangz rox daengz bak bi. Moix aen gya-kat baenj aen vah-dauq rox-naj miz aen vah laeng doek, sam aen genx, caeuq aen biujciw \"Haek ok aen laeng\". Haek ok aen laeng le, miz aen cam vumzvunz daeuj cauh ueh.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Caemhcungx doeg aen vah-dauq haenx ok sing.",
+      "Diemj aen vah daem de, roxnaeuz diemj \"Haek ok aen laeng\".",
+      "Doeg daengx aen vah-dauq ndeu lij ciuq aen dae daeuj gangj-ueh.",
+      "Cunhbeiq ndei le, diemj \"Aen vah-dauq laengneix\"."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Doeg manh-manh lij youq gonq aen vah laeng dingx ndeu. Ciengzcangz mwngz lij mbouj doeg le de coux gangj ok le.",
+      "Lauxfaenh miz boux gangj aen laeng mbouj doengz, coux suenghsim aeu. Gij leix-leux vah-dauq ndaw ranz roxnaeuz aen dieg doengz mbouj doengz.",
+      "Youq ndaw doenz boux, boux ndeu doeg lij daengx doenz caemhcungx daem aen laeng."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Miz gi-seiz roxnaeuz fwn-soq lwi?",
+        "a": "Mbouj miz. Mbouj miz cung dinghsiz, deifwn, suenq bujcawz, hix mbouj miz suengh baih. Mwngz yienzheih dingz cungx ndaej, dingz youq gyang roeg hix dwg aen fuengwfap bae liux ndei."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Toxgonq dou genx aen vah mbouj doengz ne yaengx?",
+        "a": "Guhcaemz yaemh ciuq laeuz aen gietgoj ciengzcangz, laengne bae daeuj daemq vah. Mbouj miz deifwn, daeb aen vah mbouj doengz hix ndei."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Guhcaemz ne mbouj aeu cienz le, gou aeu danghgi mbouj?",
+        "a": "Dwg, mbouj aeu cienz, hix mbouj aeu cawzhoq, danghgi roxbaez haehcaiq. Mwngz yungh sauqlaemz youq souji, bingzbanj roxbaez dienhnauj cungx ndaej yungh."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ra cih cawj daih",
+    "seoTitle": "Ra Cih Cawj Daih Cingh Boux Miz Bingh Siiqceh, Ndaej In",
+    "h1": "Ra Cih Cawj Daih",
+    "description": "Aen guhcaemz ra cih cawj daih mbouj aeu cienz cingh boux laux caeuq boux miz bingh siiqceh. Cih noix, cawj daih, cih danq miz heiq hengz caeuq heiq suq. Ndaej guh youq vangj roxbaez in okdaeuj.",
+    "short": "Cawj daih, cih noix, danq miz heiq hengz caeuq heiq suq. Hix ndaej in okdaeuj.",
+    "players": "1 roxbaez 2 boux",
+    "intro": "Aen bangz iq miz cawj daih caeuq geij aen cih xwnh, cungx dwg ciuq heiq hengz roxbaez heiq suq daeuj doeg. Diemj aen cawj daegog aen cih, laengne diemj aen cawj laeng loek de. He haeuj aeu cej? Diemj baez ndeu couh ndaej in aen daeg moq.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Genx aen cujti caeuq gveiqgawz bangz.",
+      "Yawj dan cih. Cih dwg ciuq heiq hengz (swix daeuj gvaz) roxbaez heiq suq (gwnz daeuj laj) daeuj doeg.",
+      "Diemj aen cawj daegog aen cih, laengne diemj aen cawj laeng loek de.",
+      "Aen cih ra ndaej couh aeu saek leix okdaeuj, hix gouq ok dan cih.",
+      "Diemj \"In aen daeg ne\", couh ndaej yungh yenzbit roxbaez bit mak youq cej guh."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Ci aen cih youq dan cih, caez ra aen cawj daegog de.",
+      "Youq gwnz cej, bit leixsaek comh rox vih yenzbit.",
+      "Daemq aen cih cujti ne. Cih makmaig dwg aen laeuz daeuj naeuz daengz cinghsaem riep mak, hamh roxbaez bae haih."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Miz cung dinghsiz roxbaez fwn mbouj?",
+        "a": "Mbouj miz. Mbouj miz cung dinghsiz, deifwn, suenq bujcawz, hix mbouj miz suengh baih. Mwngz yienzheih dingz cungx ndaej, dingz youq gyang roeg hix dwg aen fuengwfap bae liux ndei."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Gou ndaej in aen ra cih ne okdaeuj mbouj?",
+        "a": "Ndaej. Diemj \"In aen daeg ne\" couh ndaej aeu cawj daih in bangz ne okdaeuj, laj de miz dan cih. Moix aen daeg moq cungx mbouj doengz."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Guhcaemz ne mbouj aeu cienz le, gou aeu danghgi mbouj?",
+        "a": "Dwg, mbouj aeu cienz, hix mbouj aeu cawzhoq, danghgi roxbaez haehcaiq. Mwngz yungh sauqlaemz youq souji, bingzbanj roxbaez dienhnauj cungx ndaej yungh."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Yiep saek iengh",
+    "seoTitle": "Yiep Saek Iengh Cingh Boux Laebnyinh Miz Bingh Siiqceh (Mbouj Aeu Cienz)",
+    "h1": "Yiep Saek Iengh",
+    "description": "Aen iengh yiep saek cingh boux laebnyinh, gij aen gvangq hix ginqdanh: diemj aen saek, laengne diemj gwnz iengh. Mbouj lau ndoj laeglaeg, mbouj miz saek loek, moix yieb cej cungx ndaej in mbouj aeu cienz.",
+    "short": "Diemj aen saek, laengne diemj aen iengh. Hix ndaej in cej okdaeuj.",
+    "players": "1 roxbaez 2 boux",
+    "intro": "Cej miz hingzsik daih hix ginqdanh: ndoengxva youq bwnh, ranz ndeu, fanzcah ndeu, mbaepnbaj ndeu caeuq ruzlaemz ndeu. Diemj aen saek, laengne diemj gwnz aen iengh couh ndaej buh saek. Mbouj miz saek loek.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Genx aen cej ndeu.",
+      "Diemj aen saek. Moix aen saek cungx miz mingz cih de.",
+      "Diemj gwnz iengh couh buh aen saek haenx haeujbae.",
+      "Mwngz yienzheih siengj bienq, gamhdaeuj buh aen saek moq haeujbae hix ndaej.",
+      "Diemj \"In aen cej ne\" couh ndaej in cej haeuj okdaeuj, yungh yenzbit roxbaez bit mak daeuj yiep saek."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Lauxsaemh genx laeglaeg le, ndaej aeu song aen saek hawj de genx, mbouj aeu aeu daengx aen.",
+      "Maiq saek ceij roxbaez taengzngwenz saek laemx cungx ndei. Ne dwg vih aen hwnqhung saek, mbouj dwg vih ceng daekcaeq.",
+      "Cej in okdaeuj ne yungh bit mak na roxbaez bit laxbwn yiep saek ndei, comh daeb hix gvaiz."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Miz cung dinghsiz roxbaez fwn mbouj?",
+        "a": "Mbouj miz. Mbouj miz cung dinghsiz, deifwn, suenq bujcawz, hix mbouj miz suengh baih. Mwngz yienzheih dingz cungx ndaej, dingz youq gyang roeg hix dwg aen fuengwfap bae liux ndei."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Gij cej ne miz saeuh lwgnyez lai mbouj?",
+        "a": "Dou veiq gij aen dienhdingh caeuq ginqdanh, mbouj veiq manhva, couh dwg vih aeu hap boux laebnyinh. Hingzsik daih hawj yiep saek ginqdanh, hix mbouj lumj lwgnyez."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Guhcaemz ne mbouj aeu cienz le, gou aeu danghgi mbouj?",
+        "a": "Dwg, mbouj aeu cienz, hix mbouj aeu cawzhoq, danghgi roxbaez haehcaiq. Mwngz yungh sauqlaemz youq souji, bingzbanj roxbaez dienhnauj cungx ndaej yungh."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kaj daemq vah",
+    "seoTitle": "Vah Daemq Cingh Boux Miz Bingh Siiqceh: Kaj Iengh",
+    "h1": "Kaj Daemq Vah",
+    "description": "Kaj iengh miz vah daemq onq-oet cingh boux miz bingh siiqceh: mbouj hawj gauj, mbouj miz daeb daekcaeq. Ndaej yungh youq bingz roxbaez in daengx buhsik okdaeuj.",
+    "short": "Kaj iengh miz vah daemq honhhonh caeuq onq-oet. Mbouj hawj gauj.",
+    "players": "2 boux roxbaez aen doih",
+    "intro": "Moix aen kaj cungx miz iengh siengx caeuq vah daemq honhhonh, lumjbaenz \"Mwngz he aeu gij dingz deocienh lawz?\" Mbouj miz daeb daekcaeq, hix mbouj aeu geiq aen maz. Genx aen cujti ndeu roxbaez siemj daengxbolex.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Genx aen cujti ndeu, roxbaez giengz \"Daengx aen kaj\".",
+      "Aeu heiq daih doeg aen vah daemq, caez yawj iengh.",
+      "Dingiq, naeuz daeb gouq mwngz, hawj vah daemq laepdaep bae.",
+      "Mwh baenz le diemj \"Kaj laeng loek\", roxbaez youq aen kaj ne giengz geij laux cungx ndaej.",
+      "Diemj \"In daengx aen kaj\" couh ndaej in okdaeuj daet cej."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Gouq mwngz hix daeb aen vah daemq ne. Lumjbaenz daemq vah, mbouj lumj hoifangj.",
+      "Ciuq aen goqsêiq bae, mbouj aeu ceng aen laebsoek. Gij aen iq bienq hix mbouj guhmaz.",
+      "Lauxsaemh aen kaj ne daeuj naeuz daengz aen cungj yaek roengz ndang, aeu hiuq saem de, laengne onq-oet bae aen kaj moq."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Vihmaz mbouj miz aen vah daemq \"Mwngz hix geiq ndaej... mbouj?\"",
+        "a": "Vah daemq gauj aen geiq ndaej lumjbaenz gaujsi, hawj boux lauxsaemh naeuz loek. Vah daemq honhhonh lumjbaenz \"Naeuz daengz... hawj gou dingiq\" hawj moix boux cungx caez daeuj, geiq ndaej geijlaux cungx ndaej."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Gou ndaej in kaj okdaeuj mbouj?",
+        "a": "Ndaej. \"In daengx aen kaj\" aeu cawj daih in daengx buhsik okdaeuj, moix yieb cej miz geij aen kaj, ndaej daet okdaeuj."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Guhcaemz ne mbouj aeu cienz le, gou aeu danghgi mbouj?",
+        "a": "Coengh, de mbouj aeu cienz, lij mbouj aeu danghhoh, danghcwqs roxnaeuz haicai. Youq ndaw liujlangjgi soujgi, bingjbanj roxnaeuz dienhnao couh yungh ndaej."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Cawq cauhbieuz",
+    "seoTitle": "Aeu Cauhbieuz Ndaw Ranz Guh Youzyisi Baehcawq",
+    "h1": "Cawq Cauhbieuz: Baeh Cauhbieuz Caeuqseh",
+    "description": "Aeu cauhbieuz ndaw ranz bienq baenz youzyisi baehcawq ndei-singz. Gwnz seiqbi mwngz ghaeuq 2 daengz 6 buhs cauhbieuz; gyoengqde cix youq ndaw liujlangjgi mwngz, cungj mbouj wnghsang.",
+    "short": "Ghaeuq cauhbieuz ciuqseh bae baehcawq. Mbouj miz maz wnghsang.",
+    "players": "2 boux, naengh gyaep cank",
+    "intro": "Cangq soujgi, bingjbanj roxnaeuz dienhnao ghaeuq song daengz loeg buhs cauhbieuz, gyoengqde couh bienq baenz youzyisi baehcawq miz cauhbieuz hung lwnh. Cauhbieuz caemncik youq ndaw yieb neix heauq okdaeuj. Mbouj wnghsang, mbouj soucanz, mbouj funghsiengj, hoeng bae yieb neix couh mbouj lij miz lo.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Nyeiq \"Ghaeuq cauhbieuz\" rox couh ghaeuq song daengz loeg buhs cauhbieuz.",
+      "Muensik buhs cauhbieuz cungj okdaeuj song baez. Nyeiq aeu buhs ndeu, laengneix nyeiq aeu buhs cawq de.",
+      "Ra rox buhs ndeu couh gangj daengz buhs ndeu.",
+      "Liux le, bae yieb neix roxnaeuz nyeiq \"Ciengz cauhbieuz\". Maz cungj mbouj liuz."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Ghaeuq cauhbieuz ndat mbw loekmiz gwnz gij saeh riengzroengh, roxgyaek: doxguh, suenhoh, dieg hoengq, ngoenz gyaeundei.",
+      "Cauhbieuz dieg caeuq doxgaiq ndaej gvaq cauhbieuz naeuh ranz doxdin, lij mbouj miet aeu heuh minzcwh gyoengqboux.",
+      "Lauxnaeuz cauhbieuz boux gvaqseiq ndaej baenz simnaenh, couh mbouj aeu ghaeuq, cujbifei mwngz roxnaeuz gyoengqde baenz ndaej sim'on."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Cauhbieuz gou miz wnghsang bae dieg'wnq lwi?",
+        "a": "Mbouj. Yieb neix cix youq ndaw liujlangjgi mwngz doeg cauhbieuz mwngz ghaeuq, lij heauq youq gwnz yinghmuk. Gyoengqde mbouj song daengz dou roxnaeuz boux'wnq, bae yieb roxnaeuz cungxsin gaiq yieb couh mbouj lij miz lo."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Miz geiqsiz roxnaeuz geiqfaen lwi?",
+        "a": "Mbouj miz. Mbouj miz geiqsiz, geiqfaen, geiq baez roxnaeuz suet. Mwngz saejgiz hwnjdaeuj dingx cungj ndaej, dingx youq henjroen couh baenz ngoenz liux ndei ndeu."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Gou ndaej soucanz youzyisi neix vih baezlaeng yungh lwi?",
+        "a": "Youq ndaw liujlangjgi mbouj ndaej sou, neix hedoek sehgiz vih mbouj soucanz gij saeh ciuqseh. Apu Golden Moments mienhfei vih iPhone caeuq iPad ndaej liuz cauhcungz buhs cauhbieuz mwngz ghaeuq youq gwnz seiqbi mwngz."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Cauhbieuz bingo",
+    "seoTitle": "Cauhbieuz Bingo Vih Bouxceiq Miz Cingzhingz Caehsou: Ndaej Doyin",
+    "h1": "Cauhbieuz Bingo Vih Gyoengq Boux",
+    "description": "Cauhbieuz bingo mienhfei ndaej doyin vih bouxceiq caeuq gyoengq boux aeu boux baujguenx gwnz sim, miz bouxheuh hung gwnz yinghmuk. Cauhbieuz hung lij miz saw, 9 roxnaeuz 16 lwgfanh, mbouj aeu doeg saw cungj ndaej guh.",
+    "short": "Kaj cauhbieuz bingo ndaej doyin caeuq bouxheuh yinghmuk hung vih gyoengq boux.",
+    "players": "Gyoengq boux 2 daengz 30 boux",
+    "intro": "Bingo gvangsik yungh cauhbieuz daeuj thaei sousoh, couh mbouj aeu bouxlawz doeg saw iq. Doyin aeu yiengh kaj doxbwt, laengneix yungh bouxheuh gwnz yinghmuk aeu cauhbieuz hung heauq youq gwnz dienhsi, dienhnao roxnaeuz bingjbanj.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Ghaeuq muensik kaj miz 9 roxnaeuz 16 lwgfanh, caeuq geijlai boux doxcawz.",
+      "Nyeiq \"Doyin kaj\". Muensik kaj cungj doxbwt.",
+      "Youq gwnz yinghmuk hung hai bouxheuh. Nyeiq \"Cauhbieuz laeng\" daeuj heauq muensik cauhbieuz caeuq minzcwh de.",
+      "Gyoengq boux doxcawz aeu tongcienz, nyouj roxnaeuz cizheuh bae dam cauhbieuz doxtungz gwnz kaj de.",
+      "Bouxlawz diemx mwnx yit hangz roxnaeuz gvaeng kaj, cungj ndaej gyoengqboux hoqheuh. Youzyisi baezneix mbouj miz boux suet: liuh dox guh daengz muensik boux cungj diemx mwnx yit hangz."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Yungh gij doxgaiq hung dam, lumbaenz cizgi roxnaeuz gaeb buendit. Nyouj iq caix ndaej roep.",
+      "Heuh minzcwh cauhbieuz lij gangj geij gouq: \"Yit soek ruz buem. Bouxlawz gvaq ruz lwi?\"",
+      "Boux haidaeux mbouj ndei naengh gyaep yinghmuk, boux doxcawz aeu boux bang couh cawq song boux.",
+      "Doiq geijlai gyoengq boux daengz gangj, gouj lwgfanh couh daihdoek lo. Cingqyouzyisi liuz youq 20 daengz 30 faencungh couh ndei."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Youq ndaw ranz bouxceiq gou guh cauhbieuz bingo panzlawz?",
+        "a": "Muensik boux doxcawz doyin yit kaj, aeu bouxheuh boengz youq yinghmuk hung ciengx, caemncik heuh cauhbieuz caeuq minzcwh de. Guh daengz muensik boux cungj diemx mwnx yit hangz, mbouj liuz bouxlawz."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Doyin aeu cienz lwi?",
+        "a": "Mbouj aeu cienz. Mwngz aeu geijlai couh doyin geijlai, aeu baezlawz cungj ndaej, yungh ndaw ranz roxnaeuz yungh gyoengq boux cungj ndaej."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Mbouj doeg saw ndaej guh lwi?",
+        "a": "Ndaej. Muensik lwgfanh cungj dwg cauhbieuz hung, gizlaj lij miz minzcwh vih gyoengq boux hoengq doeg saw."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Hoep heiq sim'on",
+    "seoTitle": "Yit Baez Hoep Heiq Sim'on Vih Bouxceiq Caeuq Boux Guenxbauj",
+    "h1": "Yit Baez Hoep Heiq Sim'on",
+    "description": "Yit baez hoep heiq yienz caeuq cingsing vih doxgvanh: voenz ndeu hoep loeg baez heiq laengneix hung hwnj caeuq iq loeg. Mwngz hai de, saejgiz dingx cungj ndaej.",
+    "short": "Voenz yienz bae hoep heiq doxcang. Hai caeuq dingx ciuq sim mwngz.",
+    "players": "1 roxnaeuz 2 boux",
+    "intro": "Mizsae gij doxguh ndei ciengx dwg yit baez cingsing. Nyeiq \"Hai\", voenz hung hwnj couh hoep heiq haeuj, voenz iq loeg couh boet heiq ok. Ghaeuq faix roxnaeuz yienz. Neix mbouj dwg yihliuz, cix dwg yit cingq cingsing vih doxgvanh.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Naengh gyaep cank ndei-singz.",
+      "Ghaeuq faixyienz: yienz roxnaeuz on.",
+      "Nyeiq \"Hai\". Voenz hung hwnj couh hoep heiq haeuj, voenz iq loeg couh boet heiq ok.",
+      "Hoep loeg baez heiq le de cawz dingx, roxnaeuz saejgiz nyeiq \"Dingx\" cungj ndaej."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Lauxnaeuz boux de hoengq, bae kam fwt roxnaeuz aeu fwt boengz gwnz gieng boux de.",
+      "Mbouj aeu miet. Lauxnaeuz gyoengqde cix hoengq yawj, couh ndei lo.",
+      "Lauxnaeuz boux miz heiq mbouj saenq, couh hoep heiq ciuq gvangsik lij yawj voenz couh ndaej. Miz maz saeh heiq mbouj saenq couh bae sam yisi."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Neix dwg yihliuz hoep heiq lwi?",
+        "a": "Mbouj dwg. Neix dwg yit baez cingsing caeuq doxcawz gienjdanh, aeu rox mbouj aeu ciuq sim. Mbouj dwg gij fap yihliuz gij maz dingzvangz roxnaeuz bingh. Miz saeh ndanghangx couh bae gangj caeuq yisi."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Gou mbouj hai de, voenz neix cawz yiengh lwi?",
+        "a": "Mbouj. Mwngz mbouj nok Start couh mbouj miz maz dongh, roemx heiq loek baez liux roxnaeuz mwngz nok Stop de couh dingz. Dangxnieqs saedbei mwngz sietciengq geijsieu donghvaq, saw couh bienq hoeng aen yienz mbouj bienq hung."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "De mienjfih lwg mbouj, lij aeu danghci mbouj?",
+        "a": "Dox, de mienjfih, lij mbouj miz ciengqhoh, mbouj aeu danghci roxnaeuz hahcaeh. Youq liuxlanygi gwnz soujgi, bingzbanj roxnaeuz denhnauj couh ndaej sawj."
       }
     ]
   }

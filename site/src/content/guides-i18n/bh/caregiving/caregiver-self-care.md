@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "देखभाल करे वाला के अपना ख्याल: आराम अउर सहारा"
+seoTitle: "डिमेंशिया देखभाल करे वाला: आराम अउर सहारा"
+description: "देखभाल करे वाला में थकान के निसानी, आराम अउर सहारा समूह कइसे खोजल जाला, अउर अमेरिका के मुफ्त हेल्पलाइन, जइसे Alzheimer's Association 24/7 Helpline अउर Eldercare Locator।"
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  डिमेंशिया से जूझ रहल कौनो मनई के देखभाल करल कठिन बा, अउर अपना ख्याल रखल भी काम के हिस्सा बा। थकान, चिढ़चिढ़ापन, नींद ना आवे अउर दोस्तन से दूर होखे जइसन चेतावनी के निसानी पर ध्यान दीं। खास मदद मांगीं, आराम देवे वाला देखभाल (respite care) के इस्तेमाल करीं, अउर कौनो सहारा समूह से जुड़ीं। अमेरिका में मुफ्त मदद में शामिल बा Alzheimer's Association 24/7 Helpline, 1-800-272-3900, अउर Eldercare Locator, 1-800-677-1116।
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "देखभाल करे वाला के थकान अक्सर थकावट, चिढ़चिढ़ापन, नींद ना आवे, उदासी अउर अपना सेहत के ख्याल ना रखला के रूप में दिखेला।"
+  - "आराम देवे वाला देखभाल (respite care) से रउआ के कुछ घंटा से लेके कई हफ्ता तक आराम मिल सकेला, घरे या देखभाल केंद्र में।"
+  - "खास काम खातिर मदद मांगीं; कई लोग मदद करे के चाहेलन, बाकी जानेलन ना कि कइसे।"
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) कौनो भी समय मुफ्त, गोपनीय सहारा देला।"
+  - "Eldercare Locator (1-800-677-1116) रउआ के स्थानीय सेवा से जोड़ेला, जइसे रउआ के Area Agency on Aging।"
+  - "अगर रउआ संकट में बानी, त 988 पर कॉल या टेक्स्ट करीं, या भारत में KIRAN (1800-599-0019)। कौनो इमरजेंसी में 112 पर कॉल करीं।"
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "देखभाल करे वाला के थकान के निसानी का होखेला?"
+    a: "आम निसानी बा थकल-हारल महसूस होखल, परेसान या बेचैन होखल, जल्दी गुस्सा या अधीर होखल, नींद में दिक्कत, उदास या निराश लागल, दोस्तन से दूर होखल, बार-बार माथा दरद या दर्द, अउर अपना खाना, कसरत या डॉक्टरी देखभाल छोड़ दिहल। अगर अइसन निसानी बार-बार होखे त डॉक्टर से बात करीं।"
+  - q: "हमरa लगे आराम देवे वाला देखभाल कहवाँ मिली?"
+    a: "Eldercare Locator (1-800-677-1116 या eldercare.acl.gov) से शुरू करीं, जहाँ से रउआ स्थानीय Area Agency on Aging, ARCH National Respite Locator Service, या Alzheimer's Association Helpline 1-800-272-3900 तक पहुँच सकीं। परिवार, दोस्त अउर सेवक भी आराम दे सकेलन।"
+  - q: "का Medicare आराम देवे वाला देखभाल के पैसा देला?"
+    a: "जे हॉस्पिस देखभाल पावत बा, ओकरा खातिर National Institute on Aging के हिसाब से Medicare अस्पताल या skilled nursing facility में लगातार पाँच दिन तक के आराम देखभाल के ज्यादातर खरचा उठावेला। ज्यादातर निजी स्वास्थ्य बीमा में आराम देखभाल ना आवेला; Medicaid अउर कुछ long-term care बीमा योजना मदद कर सकेला।"
+  - q: "का Alzheimer's Association Helpline सच में मुफ्त बा अउर रात में भी मिलेला?"
+    a: "हाँ। Alzheimer's Association कहेला कि उनकर Helpline 1-800-272-3900 मुफ्त, गोपनीय बा अउर साल के 365 दिन, चौबीसो घंटा, कई भाषा में मदद खातिर स्टाफ रहेला। रिले सेवा खातिर 711 डायल करीं।"
+  - q: "देखभाल से ब्रेक लेवल स्वार्थ बा का?"
+    a: "ना। आराम से रउआ देखभाल जारी रख पावेनी, अउर आराम देखभाल से जेकर देखभाल होखता ओकरो माहौल अउर गतिविधि में बदलाव आ सकेला। बहुत देखभाल करे वाला लोग बाद में कहेलन कि उ पहिले मदद मांगल चाहत रहलन।"
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+अगर रउआ डिमेंशिया से जूझ रहल कौनो मनई के देखभाल करत बानी, त शायद रउआ देर रात थकल-हारल ई पढ़त होखब, आउर लिस्ट में अभी कई काम बाकी होई। ई सामान्य बा। अपना ख्याल रखल कौनो विलासिता या सब काम पूरा कइला के इनाम ना ह। इहे से रउआ आगे चल पावेनी।
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+एह पन्ना में थकान के चेतावनी के निसानी, असली आराम कइसे लीहल जाई, सहारा कहाँ मिली, अउर आज फोन कर सकेनी अइसन मुफ्त अमेरिकी हेल्पलाइन के बारे में बतावल गइल बा।
 
-## What are the signs of caregiver burnout?
+## देखभाल करे वाला के थकान के निसानी का होखेला?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+थकान अक्सर धीरे-धीरे आवेला, से अपना निसानी जानल जरूरी बा। [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) देखभाल करे वाला के तनाव के निसानी गिनावेला, जइसे:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- थकल-हारल, परेसान या बेचैन महसूस होखल;
+- जल्दी गुस्सा होखल या अधीर होखल;
+- अकेला या दोसर लोग से कटल महसूस होखल;
+- नींद में दिक्कत, या पर्याप्त नींद ना मिलल;
+- उदास या निराश लागल, या जवन चीज पहिले अच्छा लागत रहे ओम्मे मन ना लागल;
+- बार-बार माथा दरद, दर्द या दोसर शारीरिक परेसानी;
+- कसरत या अपना खातिर सेहतमंद खाना बनावे के समय ना मिलल;
+- नहाना या दोसर निजी देखभाल छोड़ दिहल;
+- शराब या दवाई, जइसे डॉक्टर के लिखल दवाई, के गलत इस्तेमाल।
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) अउर निसानी जोड़ेला, जइसे बीमारी से इनकार, मनई पर गुस्सा (“उ बस जिद्दी बा”), भविष्य के चिंता, ध्यान लगावे में दिक्कत, अउर सेहत पर असर। ई कहेला कि अगर अइसन निसानी बार-बार होखे त डॉक्टर से बात करीं।
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA के सलाह बा कि पूरा थक जाए तक इंतजार मत करीं। निसानी जल्दी पहचानीं अउर ओकरा पर ध्यान दीं।
 
-## What can I do today, in five minutes?
+## आज, पाँच मिनट में, का कर सकेनी?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+छोट-छोट आराम भी मायने राखेला। ई थकान पूरा ठीक ना करेला, बाकी मुश्किल दुपहरिया पार करे में मदद कर सकेला।
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **बाहर निकलीं।** जब मनई सुरक्षित आ शांत होखे, त बरंडा पर बइठीं या डाकघर तक टहल आईं।
+- **धीरे-धीरे साँस लीं।** कउनो कठिन सवाल के जवाब देवे से पहिले कुछ धीमा साँस लीं। रउआ जेकर देखभाल करत बानी ओकरा साथे [Calm Breathing](/games/calm-breathing/) के ठहराव भी बाँट सकेनी।
+- **पानी पीं अउर कुछ खाईं।** अपना खाना के भुला जाए के आसानी होला।
+- **एक दोस्त के मैसेज करीं।** कुछ माँगे खातिर ना, बस जुड़े खातिर।
+- **अपना से कुछ दयालु बात कहीं।** NIA के [अपना ख्याल रखे के गाइड](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) सुझावे ले कि अइसन बात कहीं, जइसे “हम जतना कर सकीले, ओतना करत बानी,” “हम परफेक्ट नइखी, अउर ठीक बा,” अउर “जब हम दुनों शांति से साथ होखेम, त ओ पल के आनंद लेब।”
 
-## What is respite care, and how do I get it?
+## आराम देवे वाला देखभाल का ह, अउर कइसे मिली?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+आराम देवे वाला देखभाल (respite care) उ अल्पकालिक देखभाल ह जवन रउआ के आराम दिहे खातिर होखेला। NIA के [आराम देखभाल वाला पन्ना](https://www.nia.nih.gov/health/caregiving/what-respite-care) बतावेला कि ई कुछ घंटा से लेके कई हफ्ता तक चल सकेला, अउर घरे, स्वास्थ्य सुविधा में या adult day care केंद्र में हो सकेला।
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) आम प्रकार बतावेला:
 
-| Type | What it is |
+| प्रकार | का ह |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| घर में मदद | कौनो दोस्त, रिश्तेदार, सेवक या तनख्वाह वाला साथी/सहायक घरे आवेला |
+| Adult day center | संगीत अउर कला जइसन योजनाबद्ध गतिविधि सुरक्षित समूह माहौल में; अक्सर परिवहन अउर खाना भी मिलेला |
+| रात भर या छोट ठहराव | लंबा-समय देखभाल केंद्र कुछ रात, कुछ दिन या कुछ हफ्ता खातिर देखभाल करेला |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**कउन खरचा उठाई?** NIA के हिसाब से परिवार, दोस्त या सेवक से मिले आराम के खरचा ना लागे। पेशेवर सेवा घंटा या दिन के हिसाब से पैसा लेवेले। जे हॉस्पिस देखभाल पावत बा, ओकरा खातिर Medicare अस्पताल या skilled nursing facility में लगातार पाँच दिन तक के आराम के ज्यादातर खरचा उठावेला। Medicaid मदद कर सकेला। ज्यादातर निजी स्वास्थ्य बीमा में आराम देखभाल ना आवेला, हालाँकि कुछ long-term care बीमा योजना में आवेला।
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**सुझाव:** Alzheimer's Association कहेला कि आपातकाल ना होखे तब्बे आराम देखभाल देवे वाला से मिल लीं, ताकि अचानक जरूरत पड़े त उ तैयार रहस।
 
-## Where can I find help near me?
+## हमरा लगे मदद कहाँ मिली?
 
-Several free US services can point you to local help.
+कई मुफ्त अमेरिकी सेवा स्थानीय मदद तक पहुँचा सकेली।
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) मुफ्त अउर गोपनीय बा, साल के हर दिन चौबीसो घंटा चलेला, अउर बहुभाषी स्टाफ या दुभाषिया से 200 से ज्यादा भाषा में मदद मिलेला। रिले सेवा खातिर 711 डायल करीं। व्यवहार में बदलाव, देखभाल करे वाला के तनाव, आराम के विकल्प, स्थानीय कार्यक्रम अउर अउर बात पर बात कर सकीले, अउर देखभाल सलाहकार से लंबा बातचीत माँग सकीले। स्टाफ चिकित्सा सलाह ना देवेला।
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living के सार्वजनिक सेवा ह, जे बुजुर्ग अउर उनकर परिवार खातिर सेवा से जोड़ेला। रउआ फोन, टेक्स्ट, ऑनलाइन चैट या ईमेल से प्रशिक्षित स्टाफ से बात कर सकीले, या जगह से खोज सकीले। ई रउआ के स्थानीय Area Agency on Aging तक पहुँचा सकेला।
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) राज्य के हिसाब से आराम देवे वाला खोजे में मदद करेला, अउर अगर रउआ राज्य में State Respite Coalition या Lifespan Respite program बा त पहिले ओकरा से संपर्क करे के सुझाव देला। ARCH कहेला कि उ सेवा देवे वालन के जाँच ना करेला, से उनकर अनुभव अउर पृष्ठभूमि खुद देखीं।
 
-## How do I find a support group?
+## सहारा समूह कइसे खोजीं?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Helpline से पूछीं या ऑनलाइन लोकल समूह खोजीं। Alzheimer's Association [सहारा समूह चलावेला](https://www.alz.org/help-support/community/support-groups) देखभाल करे वाला अउर डिमेंशिया से जूझ रहल लोग खातिर, व्यक्तिगत रूप से अउर ऑनलाइन, प्रशिक्षित संचालक के नेतृत्व में। कई जगह खास समूह भी होला, जइसे वयस्क देखभाल करे वाला खातिर, या कम उम्र में या शुरुआती चरण वाला Alzheimer's से जूझ रहल लोग खातिर। संस्था ALZConnected भी चलावेला, एगो मुफ्त ऑनलाइन समुदाय जहाँ देखभाल करे वाला सलाह बाँटेलन।
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+सहारा समूह में बिना फैसला सुनले मन के बात कहल जा सकेला, उ लोग से व्यावहारिक सुझाव मिल सकेला जे खुद ओ दौर से गुजरल बा, अउर अकेलापन कम लागेला। पहिला समूह ठीक ना लागे त कउनो दोसर समूह आजमाईं।
 
-## How do I ask family and friends for help?
+## परिवार अउर दोस्तन से मदद कइसे माँगीं?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+साफ-साफ माँगीं। कई लोग मदद करे के चाहेलन, बाकी जानेलन ना कि का दिहल जाई। NIA के सलाह बा:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **काम के एगो लिस्ट रखीं।** जवन काम दोसर लोग ले सकेलन, ओकर लिस्ट बनाईं, अउर लोग खुद चुनस।
+- **छोट से शुरू करीं,** अगर माँगल मुश्किल लागे।
+- **काम के मनई से मिलाईं।** जेकरा खाना बनावे के शौक बा, ऊ गुरुवार के खाना लेके आवे। जे कागजी काम में होशियार बा, ऊ कागज में मदद करे।
+- **फोन या ईमेल** करीं, अगर आमने-सामने माँगे में असहजता होखे।
+- **जवाब के अभ्यास करीं,** जब कउनो मदद के प्रस्ताव दे: “पूछे खातिर धन्यवाद। रउआ इ कर सकेनी।”
+- **कुछ ना** सुने खातिर तैयार रहीं, अउर ओकरा निजी ना लीं।
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+दोसर तरीका: कउनो से एक दुपहरिया हर हफ्ता मनई के साथ बइठे के कहीं, उनका के छोट सैर पर ले जाईं, या मिल के खेल खेलीं। हमार [साथ मिल के खेले के गाइड](/caregiving/how-to-play-together/) मेहमानन से बाँटे में आसान बा।
 
-## What if something happened to me?
+## अगर हमरा साथे कुछ हो जाए त?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+अभी से एगो सरल बैकअप योजना बनाईं। NIA सलाह देवेला कि परिवार या करीबी दोस्तन से तय करीं कि के आगे आई, अउर एगो नोटबुक रखीं जेमे आपातकालीन नंबर, दवा, काम करे वाला व्यवहार के सुझाव, अउर मनपसंद गतिविधि लिखल होखे। Alzheimer's Association भी सलाह देवेला कि मनई के चिकित्सा संपर्क अउर ताजा दवा के सूची आसानी से मिले।
 
-## When should I get professional or urgent help?
+## कब पेशेवर या तुरंत मदद लीं?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+अगर तनाव के निसानी बार-बार होखे, रउआ उदास महसूस करीं, या सँभाले में मुश्किल होखे, त डॉक्टर से बात करीं। डॉक्टर के बतावीं कि रउआ देखभाल करे वाला बानी। NIA बतावेला कि काउंसलर अउर सोशल वर्कर कठिन भावना अउर योजना में मदद कर सकेलन, अउर Medicare, Medicaid अउर कुछ निजी बीमा कुछ मानसिक स्वास्थ्य खरचा उठा सकेला।
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+अगर रउआ संकट में बानी या खुद के नुकसान पहुँचावे के विचार आवत बा, त [988 Suicide & Crisis Lifeline](https://988lifeline.org/) पर 988 पर कॉल या टेक्स्ट करीं, जे मुफ्त अउर 24/7 उपलब्ध बा। भारत में KIRAN हेल्पलाइन 1800-599-0019 पर कॉल करीं। अगर कउनो तुरंत खतरा में बा, त 112 पर कॉल करीं।
 
-## Can shared activities give me a break too?
+## साझा गतिविधि से भी आराम मिल सकेला?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+कभी-कभी। कउनो शांत गतिविधि जवन रउआ दुनो के पसंद होखे, मनई खातिर भी दिन के नरम हिस्सा बन सकेला, जइसे पुराना गाना सुनल, फोटो देखल, या [Conversation Cards](/games/conversation-cards/) जइसन खेल जेमे कउनो सही जवाब ना चाही। अगर मनई के संगत पसंद बा, त senior center या adult day program में [Picture Bingo](/games/picture-bingo/) के समूह सत्र से रउआ के एक घंटा आराम मिल सकेला। विचार खातिर [care home groups के गतिविधि](/activities/care-home-groups/) देखीं।

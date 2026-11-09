@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Tie Nkwa ne Dementia Kyinkyin: Nea Nhwehwɛmu Kyerɛ"
+seoTitle: "Tie Nkwa ne Dementia: Nea Nhwehwɛmu Kyerɛ"
+description: "Efiti a tie nkwa yɛ dementia kyinkyin a ɛyɛ den, nea ACHIEVE tie aboa (hearing aid) nhwehwɛmu hunuu, ne sɛnea wobɛhwehwɛ wo tie na wɔakasa yie."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lancet Commission a wɔyɛe wɔ 2024 kyerɛ sɛ tie nkwa yɛ dementia kyinkyin kɛse a yɛbɛtumi asesa. Wɔ ACHIEVE nhwehwɛmu mu no, tie aboa nnyaa dementia nnwuma ase nyinaa, nanso nnipa a wɔwɔ kyinkyin kɛse mu no yɛɛ yie. Tie aboa boa nkasa ne da biara nnwuma wɔ ne nyinaa mu. Hwehwɛ wo tie, hwɛ sɛ wobetumi anya tie aboa a wɔde bɔ wo ho ban anaa a wɔtɔ wɔ dwumadie so, na kasa ne dokota.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission bu sɛ tie nkwa de dementia abɛyɛ about 7% wɔ wiase, na ɛyɛ nea ɛkɔ anim wɔ factors 14 no mu."
+  - "Wɔ ACHIEVE nhwehwɛmu mu, nnipa 977 a wɔyɛ mmofra, tie aboa nsesaa nneɛma a ɛfa adwene kɔ so no wɔ mfe abiɛsa mu."
+  - "Wɔ nnipa kakraa a wɔwɔ kyinkyin kɛse mu wɔ ACHIEVE mu no, adwene nsɛ yɛɛ 48% brɛoo sɛ wɔde tie aboa wɔ; eyi hia sɛ wobɛsisi no."
+  - "Wɔ October 2022 fi, wɔ United States no, tie nkwa a ɛyɛ kakraa kɔ akyɛre kɔ so no mma nnipa a wɔwɔ mfe 18 kɔ soro tumi tɔ tie aboa wɔ dwumadie so san nsɛ ɔdokota kyerɛ."
+  - "Wɔ 2024 no, wɔde ahuhuru a wonhwɛ ho yie ka dementia kyinkyin ho, enti nhwɛso ho nso hia."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Tie aboa tumi ban dementia a?"
+    a: "Wɔnnya nkyerɛ sɛ ɛyɛ saa. ACHIEVE nhwehwɛmu no hunuu sɛ adwene nsɛ nkɔ kwan nnyinaa nnaa mfe abiɛsa, nanso kyinkyin kɛse mu nnipa no yɛɛ yie. Ɛda so ara na tie aboa ka ho, efisɛ ɛboa wɔ nkasa, ahoɔden ne da biara nnwuma mu."
+  - q: "Hena na tumi tɔ tie aboa a wɔde dwumadie so?"
+    a: "Wɔ United States no, FDA ma nnipa a wɔwɔ mfe 18 kɔ soro a wɔka sɛ wɔte nka tie ayɛ kakraa anaa ɛdɛn ara no tumi tɔ tie aboa wɔ dwumadie so, wɔ sima mu anaa wɔ intanɛt so, a ɛnhia sɛ wɔde ɔdokota kyerɛwsɛm. Ɛnyɛ ma tie nkwa a ɛyɛ den. Ɔman foforɔ mu mmara nyinaa nyɛ pɛ, enti bisa ɔtie adwumayɛfo anaa ɔdokota ansa na wotɔ. Sɛ wowɔ ntamadeɛ wɔ nkɔtɔ mu, nsu fi nkɔtɔ mu, abɔdeɛ anaa tie a ɛsesa ntɛm, hyia dokota ansa na wɔayɛ biribi."
+  - q: "Tie nkwa betumi ada sɛ dementia a?"
+    a: "Ɛbetumi. National Institute on Aging ka sɛ nnipa a wɔyɛ mmofra a wɔntumi ntie yie no, wɔbɔ mmuaeɛ wɔ sɛ wɔrenhu nea wɔreka anaa wɔrenya ahoɔden kɔ so. Sɛ obi a wodi no ho ba adwene ho nnyɛ no ya anaa wonnte nea wɔka no, tie nhwehwɛmu yɛ anidasoɔ kwan."
+  - q: "Ɛda bɛn na mmofra a wɔyɛ mmofra kɔhwɛ wɔn ani?"
+    a: "National Institute on Aging ka sɛ wɔnhwɛ ani wɔ ani mu nsɔhwɛ bere biara mfe biako anaa mfe abien akyi wɔ mfe 60 akyi, anaa sɛnea wo ani hwɛfo ka. Nnipa a wɔwɔ sukrɔm anaa mogya kɔkɔɔ yɔnko no sɛ wɔhwɛ ani no bere biara mfe biako."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Tie nkwa yɛ yare a nnipa pii wɔ no bere a wɔaba mfe mu, na nhwehwɛfo hwɛ so yie sɛ ɛyɛ dementia kyinkyin. Eyi nkyerɛ sɛ tie aboa yɛ ɔkwan a wɔasi hɔ pefee sɛ ɛbɛban dementia; nhwehwɛmu a ɛkɔ anim no nyinaa yɛɛ nea ɛnyɛ pɛ. Saa nkyekyɛmu yi kyerɛ nea nhwehwɛmu no kyerɛ, sɛnea wobɛhwehwɛ wo tie, tie aboa a wɔtɔ wɔ dwumadie so wɔ United States, ne sɛnea wobɛma nkasa ayɛ yie.
 
-## Why does hearing matter for brain health?
+## Adɛn nti na tie yɛ hia ma adwene ho yare?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Tie nkwa ne dementia kyinkyin di ntam. [Lancet Commission a wɔyɛe wɔ 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ka sɛ ɛde dementia abɛyɛ about 7% wɔ wiase. Eyi ma ɛyɛ nea ɛkɔ anim, ka ho ne high LDL cholesterol, wɔ factors 14 a wɔbɛtumi asesa no mu wɔ Commission no nhwehwɛmu mu, sɛnea [UCL nkyerɛase a ɛfa lipoti no ho](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) kyerɛ.
 
-Key findings from the Commission:
+Commission no nhwehwɛmu mu nsɛm titiriw:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Tie nkwa de kyinkyin kɛse ba.** Wɔ nhwehwɛmu a wɔboaboa ho nhwehwɛmu pa nsia mu no, nnipa a tie nkwa wɔ no wɔ dementia kyinkyin about 37% kɛse sen nnipa a wɔtie yie.
+- **Nea ɛyɛ den no, kyinkyin no nso kɛse.** Nhwehwɛmu a ɛhwehwɛ sɛnea tie nkwa yɛ den no hunuu sɛ sɛ tie ayɛ den a, kyinkyin no nso kɔ soro.
+- **Nsɛmmisa a wɔnnya mmuaeɛ pefee no.** Nneɛma a wɔsusuw no ho ka ho ahonyadeɛ ne ahoɔfɛ a ɛba, mmerɛw a wɔbɛyɛ ne kɔkɔbɔ ne adwene so nnɛyɛ ne tumi a ɛbɛyɛ adwene.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Tie nkwa yɛ yare a nnipa pii wɔ. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) ka sɛ about mfeɛ mu ɔkyeneɛ biako wɔ mmofra a wɔyɛ mmofra mu wɔ no, na ɛbɛkɔ soro sɛnea wɔn mfe kɔ soro.
 
-## What did the ACHIEVE hearing aid trial find?
+## Dɛn na ACHIEVE tie aboa nhwehwɛmu hunuu?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE ne nhwehwɛmu a edi kan a wɔyɛɛ wɔ tie aboa ne adwene kyinkyin ho. Nnipa pii kyerɛkyerɛ ne nsesaeɛ yiye, enti yei ne nsɛm a ɛwɔ [nhwehwɛmu a wɔakyerɛw no mu](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) mu.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Nnipa a wɔyɛɛ nhwehwɛmu no:** Nnipa 977 a wɔyɛ mfe 70 kɔ 84 a tie nkwa wɔ wɔn ho nanso wɔn adwene nyɛ yaw kɛse, wɔ United States mpɔtam nkitahodie baanu mu.
+- **Nea wɔtoo mu:** Ɛfã biako nyaa tie aboa ne nkyerɛkyerɛ a ɔtie aboa dwumadifo a ɔyɛ ɔbɔadeɛ kyerɛ wɔn. Ɛfã a ɛtoatoa so no nyaa ayɛde a ɛkyerɛkyerɛ ahoɔfɛ wɔ mmerɛ a wɔrehyɛ ase.
+- **Nea ɛfiri mu baeɛ:** Afe abiɛsa akyi no, nnipa a wɔyɛ ɛnnɛ ne nnipa a wɔnnyaa tie aboa no ntam ammɛyɛ adwene kyinkyin mu **nsɛ nsesaeɛ**.
+- **Nea ɛfa nnipa akɛse ho nsɛm:** Nhwehwɛmu no fi nnipa a wɔyɛ ɔkwan biako mu. Nnipa 238 fii ARIC, adesua a ɛfa koma ho a wɔyɛ de mfe pii, mu, na wɔn nyinaa wɔ kyinkyin kɛse wɔ adwene ho. Wɔ saa nnipa yi mu no, adwene nsɛ brɛɛ **48% brɛoo** wɔ tie aboa a wɔde wɔ so. Nnipa 739 a wɔyɛ nnipa a wɔwɔ yare pa a wɔboa wɔ nkurɔfo mu no, nsesaeɛ a ɛda so ara ntumi nhu.
 
-How to read this honestly:
+Sɛnea wobɛkenkan eyi yiye:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Mmuaeɛ titiriw ne sɛ ɛnyɛ nea ɛyɛ.
+- Nea wohunuu wɔ nnipa a wɔyɛ kakraa mu no, wɔsusuw ho dedaw, nanso ɛfiri nhwehwɛmu a wɔsi kɛse so nnye. Ɛsɛ sɛ nhwehwɛmu foforɔ si so.
+- Nnipa a wɔyɛ nhwehwɛmu no nyinaa nyaa nea wɔbɛyɛ, eyi betumi anka nsesaeɛ no.
+- Lancet Commission no kyerɛ sɛ nsɛm a wɔahwehwɛ ho no ka sɛ tie aboa yɛ mmoa kɛse ma nnipa a tie nkwa wɔ no ne nneɛma foforɔ a ɛma dementia kyinkyin wɔ wɔn ho.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Nsɛm titiriw ne sɛ tie aboa nyɛ ɔkwan a wɔasi hɔ pefee sɛ ɛbɛban dementia. Nanso ɛboa nnipa ma wɔtie, wɔka nkɔm, na wɔtena ase wɔ nkurɔfo mu, eyi ara na ɛma ɛyɛ nea ɛfata sɛ wobɛsusuw ho.
 
-## How do I know if hearing should be checked?
+## Ɛdeɛ na ɛsɛ sɛ wohwɛ me tie?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA kyerɛ sɛ hyia dokota sɛ wo anaa obi a wodi no ho ba:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Wohia ahohia sɛ wobɛte nea wɔka wɔ telefon so
+- Ɛyɛ den ma wo sɛ wobɛdi nkasa a nnipa baanu anaa sen baanu di ntam
+- Ɛbɛba sɛ wobisa nnipa sɛ wɔnsan nka nea wɔaka
+- Wodi TV so kɔ soro kosi sɛ afoforɔ kɔmplen
+- Ɛyɛ den ma wo sɛ wobɛte nkasa wɔ nsɛnneɛ a ɛreba mu
+- Wosusuw sɛ afoforɔ kasa nna kasa mu
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Fi ɔdokota a ɔhwɛ nnipa nkwa ase, a ɔbɛtumi akɔma wo akɔ ɔtie adwumayɛfo (ɔtie aboa dwumadifo) anaa ɔdokota a ɔhwɛ tie, ano ne ti ho yare. Tie a ɛyɛ ne nkwa ne ɛfa mu ba a ɛdɛ a ɔdokota betumi ahwehwɛ no. **Tie a ɛsɛe ntɛm yɛ yare a ɛyɛ ntɛmntɛm**, na NIA kyerɛ sɛ hyia dokota ntɛmntɛm.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Wɔbɛtumi asusuw tie nkwa sɛ adwene yare. NIA ka sɛ nnipa a wɔyɛ mmofra a wɔntumi ntie yie no, wɔbɔ mmuaeɛ wɔ sɛ wɔn adwene nsɛ yɛ den, wɔnnte nea wɔka, anaa wɔnnyɛ nea wɔka. Sɛ obi a wodi no ho ba adwene ho nnyɛ no ya anaa wonte nea wɔka no, tie nhwehwɛmu yɛ anidasoɔ kwan a ɛyɛ.
 
-## What are over-the-counter hearing aids?
+## Dɛn ne tie aboa a wɔtɔ wɔ dwumadie so?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Efi October 17, 2022 no, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ama tie aboa kuw a wɔtɔ wɔ dwumadie so (OTC) bi wɔ United States. Eyi ne sɛnea wɛn no te ne tie aboa a ɔdokota kyerɛ wɔ:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Nneɛma | Tie aboa a wɔtɔ wɔ dwumadie so | Tie aboa a ɔdokota kyerɛ |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Hena na ɛyɛ ma | Mfe 18 kɔ soro a wɔka sɛ wɔte nka ɛyɛ kakraa anaa ɛdɛn ara | Tie nkwa nkyɛn biara, mfe biara |
+| Baabi a wɔbɛnya no | Sima mu anaa intanɛt so, a ɛnhia nhwehwɛmu anaa ɔdokota kyerɛwsɛm | Ɔtie adwumayɛfo a wɔama no ho ntoboɔ |
+| Sɛnea wɔde siesie | Wo ara wo ho sesa nhyehyɛeɛ, a ɛtɔ so de app boa | Ɔbɔadeɛ siesie no ma wo tie |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA ka sɛ tie aboa a wɔtɔ wɔ dwumadie so nyɛ ma tie nkwa a ɛyɛ den anaa ɛyɛ den koraa. Ɔka sɛ ɛnyɛ den sɛ wobɛtɔ bi ansa na wohyia ɔdokota, de sɛ ɛyɛ ɔtie ayaresafo (ɔtie, ano ne ti ho yare) no, sɛ wowɔ:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Ntamadeɛ wɔ tie mu anaa tie ho a ɛyɛ den
+- Nsu, nsiw anaa mogya fi tie mu wɔ bere a atwa mfe fam ne mu
+- Tie a ɛsesa ntɛm anaa ɛsesa a ɛyɛ ntɛmntɛm
+- Tie a ɛyɛ bi ayɛ den sen ɛfã foforɔ, anaa mmoho wɔ tie baako mu
+- Nkwagyeɛ anaa ɛtɔ wo, nti wobɛhwɛ wo ho
+- Tie nkwa kɛse
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Ɛyɛ den sɛ wobɛtena tie aboa ase, enti hwɛ sɛ wɔbɛtumi asan asan wɔ tɔ ansa na wotɔ, sɛnea FDA kyerɛ. NIA kyerɛ sɛ wobisa sɛ wo asiane betumi aboa wo wɔ ho bi. Wɔ dementia ho no, ɔtie adwumayɛfo betumi aboa wo ma wohu tie aboa ne nsiesie a ɛbɛyɛ ma ɛyɛ mmerɛ ma wo da biara.
 
-## How can I talk more easily with someone who has hearing loss?
+## Sɛnea mebetumi akasa yie wɔ nnipa a wɔwɔ tie nkwa ho?
 
-The NIA suggests:
+NIA kyerɛ sɛ:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Hwɛ onipa no ani na hwɛ ne ani,** wɔ hann pa mu, na ɛbɛma ɔhunu wo anom ne wo ani mu nneyɛe.
+2. **Hwehwɛ beaeɛ a ɛyɛ dwodwoo.** Gyae TV anaa kɔ baabi a nne nnwom nni.
+3. **Kasa kɛse kakraa, na nnteam.** Kasa sɛnea wokasa daa, na fa ntɛm a ɛyɛ mmerɛ.
+4. **Fa wo anom ma ɛtɔ so.** Nnye aduane, nnɛn nkyene, na nkata wo anom wɔ bere a wɔrekasa.
+5. **Kyerɛ nsɛm no ntam sɛnea ɛtɔ so, na nnsan nka no** sɛ wɔannte nea wɔka.
+6. **Obi biako bere biako.** Wɔ nnipa a wɔboaboa ho no mu, ma ɛyɛ yie sɛ obi no wɔ nkɔm mu.
+7. **Mmɔ mmoa, na bisa sɛ wobetumi aboa wo sɛnea.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Eyi nhyehyɛeɛ yi yɛ adwuma kɛse bere a wɔde ka [yɛn dementia nkasa mmoa](/caregiving/communication-tips/) ho. Mfonini a wɔde yɛ adwuma nso yɛ nnwuma mmerɛ. [Picture Pairs](/games/picture-pairs/) ne [Conversation Cards](/games/conversation-cards/) ma wo hwehwɛ nea wohwɛ, na [Finish the Saying](/games/finish-the-saying/) ma wokyerɛ awiei mmom sen sɛ wobɛka no. Sɛ ɛfa telefon anaa video frɛ ho a, hwɛ yɛn [telefon ne video frɛ](/activities/phone-and-video-calls/) akwankyerɛ.
 
-## Vision matters too
+## Ani ho nso hia
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Wɔ 2024 no, Lancet Commission ka ani a wɔnhwɛ ho yie sɛ dementia kyinkyin foforɔ. UCL nkyerɛase no ka sɛ ɛde dementia nsɛm 2% abɛyɛ, na Commission no kɔtra sɛ wɔma nnipa nyinaa nya ani ahwehwɛ ne ayaresa. [NIA kyerɛ](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) sɛ wɔnhwɛ ani wɔ ani mu mfe biako anaa mfe abien akyi wɔ mfe 60 akyi, na wɔhwɛ sɛ mfiri ani ntwa no ka. Ani ho nsesaeɛ ketewa nso betumi ama ɔsɛe ka ho.
 
-## Talk with a doctor
+## Kasa ne dokota
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Bisa dokota ho tie ne ani nhwehwɛmu sɛ wuhu biribi a ɛwɔ akyiri yi mu. Hwehwɛ ayaresa ntɛmntɛm sɛ tie a ɛsesa ntɛm, nkɔtɔ mu ntamadeɛ, anaa nsu fi tie mu wɔ. Sɛ wodi obi a wɔwɔ dementia ho ban a, ka wɔn dokota ho tie anaa ani nsakrae, efisɛ eyi betumi ama ahoɔfɛ, ahobammɔ ne sɛnea onipa no betumi ayɛ adwuma ka ho.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Eyi nkyerɛwsɛm yɛ ade a ɛfa ho nkyerɛkyerɛ ara, ɛnyɛ ayaresa afotu. Hwɛ yɛn [ayaresa kyerɛwsɛm](/medical-disclaimer/). Kenkan [nkurɔfo ntam nkitahodi ne adwene yare](/brain-health/social-connection/) ho nsɛm.

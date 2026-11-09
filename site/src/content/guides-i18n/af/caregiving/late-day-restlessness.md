@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Rustige aktiwiteite vir laatmiddag"
+seoTitle: "Sundowning: Rustige laatmiddag-aktiwiteite"
+description: "Gereelde roetines, kamerveranderings en rustige aktiwiteite wat late-dag-onrus kan help verminder, plus wanneer u 'n dokter moet bel oor nuwe of erger simptome."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning is onrus, verwarring of prikkelbaarheid wat in die laatmiddag of
+  aand begin of erger word. Praktiese stappe wat dalk help, sluit in 'n vaste
+  daaglikse roetine, daglig en aktiwiteit vroeër op die dag, minder laat
+  dutjies, minder kafeïen, helder binnelig voor skemer, 'n stiller huis, en
+  rustige aktiwiteite soos musiek, foto's of klere vou. Nuwe of erger simptome
+  moet deur 'n dokter nagegaan word.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning beteken onrus of verwarring wat begin of erger word soos die daglig verval."
+  - "Plaas veeleisende take, uitstappies en badtyd in die oggend of vroeg in die middag."
+  - "Daglig, 'n daaglikse stapwandeling, minder laat dutjies en minder kafeïen laat in die dag kan help dat die aande soepeler verloop."
+  - "Skakel lig aan voor skemer, verlaag geraas, en skakel oor na rustige, bekende aktiwiteite."
+  - "Hou 'n dagboek om snellers op te spoor, en bly kalm en gerusstellend wanneer onrus begin."
+  - "Sien 'n dokter vir nuwe of erger simptome: pyn, infeksie of medisyne kan 'n rol speel."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Op watter tyd van die dag kom sundowning gewoonlik voor?"
+    a: "Dit begin of word gewoonlik erger in die laatmiddag of vroeg in die aand, soos die daglig verval. Die presiese tyd verskil van persoon tot persoon, daarom kan 'n kort dagboek vir een of twee weke help."
+  - q: "Watter aktiwiteite help met sundowning?"
+    a: "Rustige, bekende aktiwiteite met min inspanning werk gewoonlik die beste in die laatmiddag: kalmerende musiek, foto's kyk, 'n gunstelingprogram of -fliek op TV, klere vou, 'n kort stap of 'n versnapering saam. Bewaar nuwe of uitdagende aktiwiteite vir vroeër op die dag."
+  - q: "Kan sundowning 'n teken van 'n mediese probleem wees?"
+    a: "Gesondheidsprobleme soos pyn, infeksies soos urienweginfeksies, slaapprobleme of newe-effekte van medisyne kan dit vererger. As onrus nuut, skielik of erger is, kontak die persoon se dokter."
+  - q: "Moet ek die dokter oor medisyne vir sundowning vra?"
+    a: "Dit is 'n gesprek om met die dokter te voer. Die Alzheimer's Association sê nie-medisyne-benaderings word gewoonlik eerste voorkeur gegee, en dat enige medisyne vir onrus in die aand slegs oorweeg moet word nadat die risiko's en voordele opgeweeg is. Hierdie bladsy gee nie medisynadvies nie."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Baie families merk dieselfde patroon: die oggende is redelik rustig, maar soos die middag verloop, word die persoon met demensie onrustig, angstig, verward of prikkelbaar. Hulle kan heen en weer loop, vra om "huis toe te gaan" selfs al is hulle tuis, of maklik ontsteld raak. Dit word dikwels sundowning genoem.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Daar is geen enkele oplossing nie, maar veranderinge in die dag se ritme, die kamer en die soort aktiwiteite wat u aanbied, kan laatmiddae dalk rustiger maak. Hierdie bladsy bied praktiese, nie-mediese idees van die National Institute on Aging en die Alzheimer's Association. Dit is nie mediese advies nie. As simptome nuut, skielik of erger is, praat met die persoon se dokter.
 
-## What is sundowning?
+## Wat is sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning is onrus, agitasie, prikkelbaarheid of verwarring wat begin of erger word soos die daglig verval, in die laatmiddag of vroeg in die aand. Die [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) meld dat té moeg wees laatmiddag-onrus kan verhoog.
 
-## What can make late-day restlessness worse?
+## Wat kan laatdag-onrus erger maak?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Verskeie dinge kan bydra, dikwels saam. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) noem faktore soos:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- uitputting na 'n vol dag;
+- nuwe of verwarrende omgewings;
+- 'n "interne liggaamsklok" wat uit pas is, sodat die persoon bedags slaperig is en snags wakker is;
+- swak lig en skaduwees, wat verwarrend kan wees;
+- die opvang van spanning of frustrasie by mense rondom hulle;
+- minder slaap nodig hê, wat algemeen is by ouer volwassenes.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+Die NIA voeg algemene oorsake van agitasie by, insluitend pyn, depressie of stres, te min rus, verstopping, te veel geraas of te veel mense, en sekere medisyne of medisynewisselwerkings.
 
-## How can I plan the day to make evenings calmer?
+## Hoe kan ek die dag beplan om aande rustiger te maak?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Skuif veeleisende dinge vroeër en hou die laatmiddag sag en voorspelbaar. Sowel die NIA as die Alzheimer's Association beveel 'n gereelde roetine aan. 'n Voorbeeld van 'n dag, om by u eie aan te pas:
 
-| Time | What may help |
+| Tyd | Wat kan help |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Oggend | Afsprake, bad, uitstappies en enige taak wat moeite verg, wanneer baie mense die meeste wakker is |
+| Laat oggend | Tyd buitekant of by 'n sonnige venster; 'n stap of ander aktiwiteit |
+| Middag | 'n groter ete (die Alzheimer's Association stel 'n groter middagete en 'n ligter aandete voor) |
+| Vroeg in die middag | Rus indien nodig, maar vermy lang dutjies laat in die dag |
+| Middag tot laatmiddag | Rustige, bekende aktiwiteite; 'n versnapering en drankie; geen kafeïen nie |
+| Voor skemer | Skakel binneligte aan en trek die gordyne toe voordat dit donker word |
+| Aand | 'n ligter maaltyd, sagte musiek, min prikkeling, 'n vaste slaaptyd-roetine |
 
-A few specific points from the sources:
+'n Paar spesifieke punte uit die bronne:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Daglig.** Die NIA stel voor dat u elke dag tyd buite of by 'n venster vir sonlig reël.
+- **Daaglikse beweging, maar nie te veel nie.** Mik daarna om elke dag fisiek aktief te wees sonder om te veel aktiwiteite te beplan, sê die NIA.
+- **Drankies laat in die dag.** Vermy alkohol en drankies met kafeïen, soos koffie of kola, laat in die dag (NIA). Die Alzheimer's Association noem ook nikotien.
+- **Dutjies.** Ontmoedig lang dutjies en aan die slaap raak laat in die dag (NIA). Die Alzheimer's Association beveel aan dat middagdutjies beperk word as slaap in die nag 'n probleem is.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Vir meer oor die opbou van 'n vaste dag, sien [daaglikse roetine-aktiwiteite](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Hoe maak ek die huis laatmiddag rustiger?
 
-Reduce noise, add light and keep familiar things close.
+Verminder geraas, voeg lig by en hou bekende dinge naby.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Helder, gelykmatige lig.** Die Alzheimer's Association beveel aan dat die huis saans goed verlig is. Maak die ruimte lig voordat skaduwees verskyn.
+- **Minder geraas.** Skakel die TV en radio af of verlaag dit, en beperk besoekers of besige huishoudelike werk op hierdie tyd. Die Alzheimer's Association stel voor dat prikkeling in die aand verminder word, soos TV, huishoudelike werk en harde musiek.
+- **Bekende troos.** Die NIA stel sagte musiek voor en dat geliefde voorwerpe en foto's in die huis bly.
+- **Troostoetse.** Die Alzheimer's Association beveel aan dat u kyk na pyn, honger, dors, verstopping, 'n vol blaas, moegheid, infeksies en velirritasie, en dat die kamer op 'n gemaklike temperatuur bly.
+- **U eie gemoedstoestand.** Mense neem spanning waar. Die NIA stel voor dat u stadiger maak en probeer ontspan as u eie kommer die spanning verhoog.
 
-## What calm activities can we do in the late afternoon?
+## Watter rustige aktiwiteite kan ons laatmiddag doen?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Kies aktiwiteite wat bekend, ongehaas en maklik om te stop is. Die Alzheimer's Association stel kalmerende aktiwiteite voor, soos rustige musiek, foto's of 'n gunstelingfliek, en 'n stap saam om onrus te verminder. Die NIA stel 'n versnapering of drankie, 'n gunstelingprogram op TV, musiek, 'n stap, lees, of 'n eenvoudige huishoudelike taak soos klere vou voor.
 
-Ideas to try:
+Idees om te probeer:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Vou klere saam.** Die NIA stel hierdie soort eenvoudige huishoudelike taak voor. Handdoeke is maklik om te hanteer, en die taak het 'n duidelike einde.
+2. **Speel gunstelingmusiek.** Bekende liedjies uit hul jonger jare, teen 'n lae volume. Saamsing met die neurie tel mee. Meer idees in [musiekaktiwiteite](/activities/music/).
+3. **Kyk na foto's.** 'n Fotoalbum, of 'n paar familiefoto's in [Photo Pairs](/games/photo-pairs/) met die prente sigbaar, kan lei tot rustige gesprek.
+4. **Neem 'n kort stap.** In die tuin, om die blok of in 'n gang, voordat dit donker word.
+5. **Deel 'n versnapering en 'n drankie.** Iets eenvoudigs, warm en sonder kafeïen, saam aan die tafel.
+6. **Sagte pas-pas.** [Picture Pairs](/games/picture-pairs/) met vier teëls en die prente sigbaar is maklik om mee te begin en maklik om mee op te hou.
+7. **Kleur.** [Coloring](/games/coloring/) op die skerm of op 'n gedrukte bladsy, sonder die doel om klaar te maak.
+8. **Kyk en praat.** [Conversation Cards](/games/conversation-cards/) bied 'n prent en 'n oop vraag. Net kyk is genoeg.
+9. **'n Asemhalingspouse.** [Calm Breathing](/games/calm-breathing/) is 'n stadige, stil pouse wat u self begin en stop.
+10. **Handtake.** Knope of sokkies sorteer, 'n sagte kombersie gladstryk, of 'n bekende voorwerp vashou. Sien [sensoriese aktiwiteite](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Vermy nuwe speletjies, besige uitstappies en enigiets wat baie geheue of konsentrasie vra laat in die dag. Bewaar dit vir die oggend.
 
-## What should I do when restlessness starts?
+## Wat moet ek doen wanneer onrus begin?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Bly kalm, gee gerustheid en lei die aandag versigtig af. Die NIA stel voor dat u rustig praat, na die persoon se kommer luister, twisgesprekke vermy, die persoon verseker dat hulle veilig is, en sagte aanraking gebruik as dit help. Probeer dan afleiding: 'n versnapering, 'n drankie, musiek of 'n stap.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Die Alzheimer's Association stel frases soos "Jy is hier veilig" en "Dit spyt my dat u ontsteld is" voor, en raai aan om lig by te voeg, stadiger te maak en prikkeling te beperk. Moenie die persoon in 'n hoek dring, op hulle toe beweeg of hulle vashou nie, en moenie met hulle stry nie.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+As die persoon aggressief word, raai die NIA aan om op 'n veilige afstand te bly totdat die gedrag ophou. In 'n noodgeval, bel die plaaslike noodnommer (in Suid-Afrika 112 vanaf 'n selfoon, of 10111) en verduidelik dat die persoon demensie het.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Ons gidse oor [kommunikasie](/caregiving/communication-tips/) en [wat om te doen wanneer hulle nee sê](/caregiving/when-they-say-no/) bevat meer oor kalmerende woorde.
 
-## How do I find the triggers?
+## Hoe vind ek die snellers?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Hou 'n kort dagboek vir een of twee weke. Die Alzheimer's Association beveel aan dat u dit wat voorafgaan aan sundowning-episodes naspoor om snellers te identifiseer. Teken die tyd wat die onrus begin het, wat in die uur daarvoor gebeur het, dutjies, maaltye en drankies, besoekers, geraas en lig aan. Neem die dagboek na die dokter toe. Die NIA meld dat die hou van rekord van gedragsveranderinge caregivers en gesondheidsorgverskaffers kan help om 'n patroon te herken.
 
-## When should I call a doctor about sundowning?
+## Wanneer moet ek 'n dokter bel oor sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kontak die persoon se dokter as onrus nuut is, skielik erger word, of gepaard gaan met ander veranderinge. Die NIA sê dat skielike of vinnig wisselende gedragsveranderinge, veral na 'n infeksie of onlangse medisynewisseling, onmiddellik aan 'n dokter voorgelê moet word.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Vra die dokter om te kyk na dinge wat aande moeiliker kan maak. Die Alzheimer's Association noem fisiese probleme soos urienweginfeksies, inkontinensie, rustelose bene en slaapapnee, en stel voor dat u vra watter tye van die dag die beste is vir elke medisyne. Die NIA noem pyn, verstopping en medisyne-newe-effekte of -wisselwerkings onder moontlike oorsake van agitasie.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Die Alzheimer's Association sê nie-medisyne-benaderings word gewoonlik eerste voorkeur gegee vir slaapprobleme wat met Alzheimer's verband hou, en dat medisyne vir laatmiddag-agitasie slegs oorweeg moet word as dié misluk, nadat die risiko's en voordele opgeweeg is. Daardie besluit berus by die dokter. Moenie enige medisyne, slaapmiddel of aanvulling begin, staak of verander sonder mediese advies nie.
 
-## How do I get through the evenings myself?
+## Hoe kom ek self deur die aande?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Laatmiddae kan die moeilikste deel van 'n versorger se dag wees. As u kan, vra 'n familielid, vriend of betaalde helper om die laatmiddag 'n paar dae per week te oorneem, al is dit net vir 'n uur. Ons gids oor [self-sorg vir versorgers](/caregiving/caregiver-self-care/) lys respyt-opsies en die gratis Alzheimer's Association 24/7 Helpline.

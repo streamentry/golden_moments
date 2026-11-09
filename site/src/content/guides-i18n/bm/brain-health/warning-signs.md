@@ -1,31 +1,28 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Dementia ka fɔlɔ siginɛw ani dɔkotɔrɔ ye tuma min na"
+seoTitle: "Dementia ka fɔlɔ siginɛw ani dɔkotɔrɔ ye tuma min na"
+description: "Dementia ka fɔlɔ siginɛ caman, u ka cɛma ka fɛ cogo min na, hakili ka bana caman minnu bɛ se ka labɔ, ani aw bɛ se ka aw yɛrɛ labɛn cogo min na dɔkotɔrɔ ka dɔnkili ye."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Hakili bɔli min bɛ ɲɛnamaya kɛwale kɔrɔsi, kɛlɛ min bɛ ka kɛ ko caman ye, dɔ min bɛ ka kɛ cɛ fɛ ni yɔrɔ fɛ, ani ɲɛnamaya ni hakili kɔnɔ ka yɛlɛma bɛ se ka kɛ dementia ka fɔlɔ siginɛw ye. Bana tɔw caman, o cɛ, tiroyidi ka kɛlɛ, B12 ka kɔ, dawolo ka kɔfɛ kɛlɛ, dusu kɛlɛ ani dormi kɛlɛ, bɛ se ka kɛ yɛlɛmali tɔw ye. Dɔkotɔrɔ min ka dɔnkili bɛ, o kelen de bɛ se ka dementia labɔ. Hakili fɛɛrɛ tɔɔrɔ kɛra tuma dɔ la, o bɛ ka kɛ wagati dɔ la, a ka ca.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Hakili bɔli dɔɔnin ɲɛnamaya ka kɔrɔ fɛ, nka yɛlɛmali min bɛ ɲɛnamaya kɛwale kɔrɔsi, o ka ca ka ɲɛsin."
+  - "Alzheimer's Association b'a fɔ siginɛw 10 min bɛ dementia ka fɔlɔ ye, o kelen-kelen ni ɲɛnamaya ka kɔrɔ ka yɛlɛmali ye ka ɲɛsin walasa ka ɲɛ."
+  - "Tiroyidi ka kɛlɛ, B12 ka kɔ, dawolo ka kɔfɛ kɛlɛ, dusu, infɛksiɔn ani dormi kɛlɛ bɛ se ka hakili kɛ, ani tɔw bɛ se ka labɔ."
+  - "Dɔkotɔrɔ min ka dɔnkili bɛ, o kelen de bɛ se ka dementia ɲini; sɛbɛnni dɔ ni ɲɛfɛ ɲininiw tɛ se ka o kɛ."
+  - "Hakili bɔli min bɛ na lɔn sani wagati dɔ, walima don dɔ la, o bɛ se ka kɛ delirium ye, ani a ka dɔkɔtɔrɔ dɛmɛ dɔ ka wajibi."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Hakili bɔli ye ɲɛnamaya ka kɔrɔ ka dɔ ye wa?"
+    a: "Dɔ bɛ yen. National Institute on Aging b'a fɔ ko ka fɛn dɔ ɲini walima ka wari sɛbɛn dɔ ɲɛ, o ye hakili bɔli dɔɔnin ye ɲɛnamaya kɔrɔ fɛ. Dementia tɛ ɲɛnamaya ka kɔrɔ ka dɔ ye. Hakili kɛlɛ min bɛ ka kɛ ka sira ni telefɔni ni so ka sira ɲini fɛ kɛ gɛlɛya, o ka dɔkotɔrɔ ni ɲɔgɔn ka sɛgɛsɛgɛli kɛ ka ɲɛ."
+  - q: "Hakili kɛlɛ bɛ se ka kɛ dementia tɔw de ye wa?"
+    a: "Ɔwɔ. National Institute on Aging b'a fɔ ko tiroyidi, dɛgɛ walima kɔ ka kɛlɛ, dawolo ka kɔfɛ kɛlɛ, dusu ni hɔrɔnya, B12 ka kɔ, dolo ka ɲɛ ni ɲɛnamaya ka kɛlɛ, dormi kɛlɛ, infɛksiɔn ani kun ka kɛlɛ bɛ se ka kɛ tuma caman na. Tɔw bɛ ɲɛ ka kɔfɛ ka dɔ kɛ ka ɲɛ; o de kɛra dɔkotɔrɔ ka sɛgɛsɛgɛli ka mago."
+  - q: "Ne bɛ se ka mɔgɔ dɔ ka dementia sɛgɛsɛgɛ ni so ye wa?"
+    a: "Ayi. Dɔkotɔrɔ min ka dɔnkili bɛ, o kelen de bɛ se ka dementia ɲini, a bɛ o kɛ ni ɲɛnamaya ka tariku, sɛgɛsɛgɛli, hakili ni kɛwale sɛgɛsɛgɛli, labɔsiri sɛgɛsɛgɛli ani tuma dɔw ni ɲɛ-fitini ye. Dɔkotɔrɔw ka sɛgɛsɛgɛli ɲɔgɔn tɛ se ka dementia ɲini kelen-kelen."
+  - q: "Ne ka kan ka kɛ cogo di, ni mɔgɔ dɔ hakili bɔra lɔn sani?"
+    a: "Dɛmɛ ɲɛmɔgɔ kɛ tuda. Hakili bɔli lɔn sani bɛ se ka kɛ delirium ye, VA b'o fɔ ko o ye sɛgɛn dɔ ye min ka wajibi ka dɔkɔtɔrɔ dɛmɛ. Mɔgɔ ka dɔkotɔrɔ wele tuma ɲɔgɔn na, walima wele kunnafoni nɔmɔrɔ 15 (SAMU) ma. Ka a sigi a fɛ, ka dawolo min bɛ a ka nɛnɛ ye, o ɲini."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Hakili yɛrɛ ka hakili bɔli walima mɔgɔ min ka i ka nege ye, o ka hakili ɲɛnɔgɔn bɔli, o bɛ siran. Ko nin page bɛ dɛmɛ i ka dɔn tuma min na dɔkotɔrɔ ye, ani a ka kɛ cogo min na. A tɛ se ka fɔ mɔgɔ dɔ bɛ dementia la walima ko. **Dɔkotɔrɔ min ka dɔnkili bɛ, o kelen de bɛ se ka dementia ɲini**, ani hakili bɔli caman tɛ dementia ye. Aw ka ɲɛ, aw kana dɛsɛ online sɛbɛnni walima aw yɛrɛ ka sɛgɛsɛgɛli la.
 
-## What are the early signs of dementia?
+## Dementia ka fɔlɔ siginɛw ye mun ye?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) b'a fɔ siginɛw 10 fɔlɔ. A b'o kelen-kelen ni ɲɛnamaya ka kɔrɔ ka yɛlɛmali ye ka ɲɛsin. An ka kuma la:
 
-| Sign worth checking | More typical with age |
+| Siginɛ min ka ɲɛ ka ɲɛnɔgɔn | Ɲɛnamaya ka kɔrɔ fɛ a bɛ kɛ cogo di |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Hakili bɔli min bɛ ɲɛnamaya kɛwale kɔrɔsi, i ko kunnafoni kɔrɔ ko dɔ ɲini ka tɛmɛ, walima kuma dɔ ko ka ɲɛ ka ɲɛ | Kɔrɔ ɲɛnamaya kɔnɔ tuma dɔw la, mɔgɔ tɔgɔ walima ɲininkali dɔ bɛ ɲini, nka a bɛ o kɔfɛ ka hakili la ka o ɲini |
+| Sigi ka kɛwale kɔrɔ kɛ walima ka kɛwale ɲɛnɔgɔn kɛ, i ko dɔ min ka sira ka ɲɛ | Tuma dɔw la kɛwale ɲɛnɔgɔn ni ɲɛnamaya ka kɔrɔ ka wari sɛbɛn ka jɔ |
+| Gɛlɛya ka kɛwale dɔ kɛ so kɔnɔ, baara la walima sira kɔnɔ | Tuma dɔw la mɛnɛ dɔ ka ɲɛ walima kanjɛ ka ɲɛ, o ɲinin ka dɛmɛ ka kɔrɔ |
+| Tuma, don walima yɔrɔ ɲini | Kɔrɔ ɲɛnamaya kɔnɔ tuma ɲɔgɔn na, dɔ ka tuma ɲininin, nka a ka ɲɛ kɔfɛ |
+| Ɲɛ kɔrɔ ni yɛlɛ, walima kɔnɔ dɔ ka sigi ɲɛ | Ɲɛ ka ɲɛfɛ dɔ kɛlɛ ka kɔrɔ ɲɛnamaya kɔnɔ |
+| Kuma ni kɛli ɲɛ ka kɛ: kuma ka ɲɛ ɲɛfɛ, walima tɔgɔ kɛ ko ɲɛnɔgɔn | Kuma kɛ ɲɛfɛ tuma dɔw la, nka a bɛ o kɛ kɔfɛ |
+| Fɛn kɛlɛ yɔrɔ ɲɛnɔgɔn la, ani a ka sira ɲini ka ɲɛ | Fɛn tuma dɔw la yɔrɔ ɲɛnɔgɔn la, nka a bɛ o ɲini ni a ka sira ɲinini ye |
+| Hakili ka ɲɛ kɛ sɛnɛ ni wari ɲɛ, walima ka ɲɛ kɛ yɛrɛ ka lafiya la | Ɲɛnamaya kɔnɔ tuma dɔw la, dɔ ka hakili kɛ sɛbɛn |
+| Ka dɔ kɛ kɛwale min bɛ mɔgɔ fɛ, walima ka kɛ ko min bɛ ka sɛnɛ ni ɲɛnamaya bɛ, ka bɔ o la | Tuma dɔw la mɔgɔ tɛ fɛ ka taa dɔ la fo kɛnɛya ni dɔ ye |
+| Hakili ni ɲɛnamaya ka yɛlɛma: hakili ka ɲɛ, ka siran, ka ɲɛ ka ɲɛ walima ka hɛrɛ bɔ | Ɲɛnamaya ka kɔrɔ fɛ, mɔgɔ bɛ kɛ kɛwale ɲɛnɔgɔn ye, ani a bɛ dimi ni sira kɔnɔ dɔ ka ɲɛ |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Siginɛ dɔ kelen tɛ fɔ ko dementia. Ko min ka mago ye, o ye **yɛlɛma min bɛ bɔ mɔgɔ ka ɲɛnamaya ka kɔrɔ la**, ka kɛ ko min bɛ ɲɛnamaya ka kɛlɛ dɔ, o ye ka sɔrɔ.
 
-## How is normal aging different from dementia?
+## Ɲɛnamaya kɔrɔ ni dementia ye mun ye ka ɲɛsin?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) b'a fɔ ko kɔrɔ ɲɛnamaya caman bɛ ka hakili ɲɛ ka kɛ fɛ, walima ka hakili ɲɛ ka ɲɛ, walima ka wari sɛbɛn dɔ ɲini. Nin ye hakili bɔli dɔɔnin ye. **Dementia tɛ ɲɛnamaya ka kɔrɔ ka dɔ ye.** Hakili kɛlɛ min bɛ ka kɛ ka kɛwale ɲɔgɔn kɛ, i ko sira ɲini, telefɔni ni so ka sira ɲini, o bɛ ka kɛ gɛlɛya.
 
-The NIA suggests talking with a doctor if someone:
+NIA b'a fɔ ko dɔkotɔrɔ ni kuma ka kɛ ɲɛ, ni mɔgɔ dɔ:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Ka ɲininkali ɲɔgɔn ɲini ka tɛmɛ
+- Yɔrɔ min ka a dɔn ka ɲɛ, o la sira kɛ
+- Ka sɔn ka ɲɛ, walima ka sira ni kuma ɲɛnɔgɔn kɛ
+- Ka hakili bɔ tuma, mɔgɔw ni yɔrɔw ko la
+- Ka yɛrɛ labɛn bɔ, i ko ka dumuni dɔn ɲɔgɔn, ka dɔ ko, walima ka yɛrɛ ɲinɛ
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Mɔgɔ dɔw bɛ **hakili kɛlɛ dɔɔnin (MCI)** la. O kɔrɔ ye hakili walima kɛlɛ caman ye ka tɛmɛ mɔgɔ dɔw fɛ ka kɔrɔ, nka mɔgɔ ka ɲɛnamaya ka kɛ tuma caman na. NIA b'a fɔ ko MCI bɛ se ka kɛ Alzheimer's ka fɔlɔ siginɛ ye, nka mɔgɔ bɛɛ min bɛ MCI la, o tɛ Alzheimer's sɔrɔ.
 
-## What else can cause memory problems?
+## Hakili kɛlɛ dɔw tɔw bɛ se ka kɛ mun ye?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Dementia bɛ se ka hakili kɛ, nka ko tɔw caman bɛ se ka hakili kɛ, ani tɔw bɛ ɲɛ ka kɔfɛ dawolo ka kɔfɛ. NIA b'o yɛrɛ fɔ:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Tiroyidi, dɛgɛ walima kɔ ka kɛlɛ**
+- **Dawolo ka kɔfɛ kɛlɛ**
+- **Dusu ni hɔrɔnya**
+- **B12 ka kɔ** walima dɔ ka ɲɛ ka fɛn ɲumanw kɛ
+- **Dormi kɛlɛ**
+- **Dɔlɔ walima jɛlen ka kɔfɛ kɛlɛ**
+- **Infɛksiɔn, sanga kɛlɛ walima dɛ** hakili kɔnɔ
+- **Kun ka kɛlɛ**, i ko kun kɔrɔ
+- **Hɛrɛ ka kɛlɛ caman walima nɛnɛ**, i ko ka baara bɔ walima mɔgɔ ka sɛnɛ bɔ
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Tendɛn ni hakili kɛlɛ bɛ se ka kɛ kuma ɲɛnɔgɔn ye ka dementia ɲɛ. O de kɛra dɔkotɔrɔ ka sɛgɛsɛgɛli ka mago. Aw ka [hakili ka dɛmɛ](/brain-health/hearing/) ci a ɲɛ ka ɲɛ. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) b'a fɔ ko dɔkotɔrɔ bɛ jɛnɛ sɛgɛsɛgɛli kɛ ka tiroyidi kɛlɛ, B vitamini ka kɔ ani infɛksiɔn ɲini. [Dɔrɔn ka ɲɛ](/brain-health/sleep/) ani dusu ka labɔ, o fana ka kan ka fɔ.
 
-## Sudden confusion is an emergency
+## Sɛgɛn lɔnnen bɛ ka kɛ hakili kɛlɛ ye
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Hakili bɔli min bɛ na lɔn sani wagati dɔ, walima don dɔ la, o bɛ kɛ dɔkɔtɔrɔ dɛmɛ ye ka kɔrɔ.** A bɛ se ka kɛ delirium ye. [VA b'a fɔ delirium la](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ko o ye sɛgɛn dɔ ye min ka wajibi, ani a b'a fɔ ko ka mɔgɔ ka dɔkotɔrɔ wele tuma ɲɔgɔn na, walima wele kunnafoni nɔmɔrɔ 15 (SAMU) ma. Siginɛw ye nin ye:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Hakili ka sɛbɛn dɔ bɛ ɲɛ ka tɛmɛ ni dɔ ye
+- Sɔn tɛ ka ɲɛ ka ɲinɛ
+- Hakili bɛ ɲɛ ka hakili ɲɛnɔgɔn
+- Ka ɲɛ ka sɔn kosɛbɛ, walima ka ɲɛ ka siran kosɛbɛ
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Nin bɛ se ka kɛ mɔgɔ o mɔgɔ la, mɔgɔ min bɛ dementia la fana. [NHS](https://www.nhs.uk/symptoms/confusion/) b'a fɔ ko kɛlɛ caman bɛ se ka kɛ infɛksiɔn ye (sɛnɛ ka infɛksiɔn caman bɛ ɲɛ ka kɔ mɔgɔ kɛnɛmanw ni dementia bɛ mɔgɔ la), dɛ dɔ, dusu kɛlɛ ni dolo ka kɔfɛ kɛlɛ, kun ka kɛlɛ ani dawolo dɔw. Ka dɛmɛ ka na ɲɛ, ka mɔgɔ sigi a fɛ, ka kuma ɲuman ni kuma gɛlɛn ɲɛnɔgɔn fɔ ka a hakili ɲɛ. Aw kana ɲininkali caman ɲini, ani aw ka dawolo min bɛ a ka nɛnɛ ye, o ɲini.
 
-## How do I prepare for the doctor's appointment?
+## Dɔkotɔrɔ ka sɛgɛsɛgɛli ka ɲɛfɛ kɛ cogo di?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Sɛgɛsɛgɛli ɲuman bɛ daminɛ ni sɛbɛnni ɲuman ye. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) b'a fɔ ko aw ka ɲɛ ka nin ɲini:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Hakili, dusukasi ani kɛwale ka yɛlɛmali sɛbɛn**, ni misali ye ani tuma min na a daminɛna
+2. **Ɲɛnamaya ka kɛlɛw kɔ ni sɔrɔ**, ani hakili kɛlɛ min bɛ ka kɛ ka bɔ ɲɛnamaya kɔnɔ
+3. **Dawolo ka kɔfɛ ani ɲɛdiɲɛ dawolo bɛɛ**
+4. **Vitamini ni dawolo ka ɲɛfɛ wɛrɛ**
+5. **Aw ka ɲininkali**, i ko ko min bɛ kɛ sɛgɛsɛgɛli ye, o bɛ se ka jɔ jɛn, ani jɛnɛjɛn bɛ se ka na cogo di
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+A fana ɲuman ka mɔgɔ dɔ ɲɛ ka aw ni ɲɔgɔn ye, mɔgɔ min bɛ ɲɛnamaya kɔrɔ ka dɔ kɛ kɛwale ye. [NIA b'o fɔ](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ko dɔkotɔrɔ bɛ se ka mɔgɔ ni a ka denmisɛnnin ɲinɛ ka ɲɛ ko lafiya, dawolo, kɛwale ani hakili ka yɛlɛmali la. Dɔkotɔrɔw bɛ se fana ka:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Hakili, ɲɛnamaya ka kɛwale, ka hakili kɔnɔ, ka jɛnɛ ni kuma ka sɛgɛsɛgɛli kɛ
+- Ka jɛnɛ, ka sɛgɛsɛgɛ ani ɲɛ ka sɛgɛsɛgɛli kɛ ka fɛn tɔw ɲini
+- Ka hakili kɔnɔ kɛlɛ walima sɛnɛ kɛlɛ sɛgɛsɛgɛ
+- Ka brɛn sɛgɛsɛgɛli kɛ, i ko CT walima MRI
+- Ka mɔgɔ ci dɔkotɔrɔ kɛnɛma ma, i ko gériatre, neurologue, psychiatre ani neuropsychologue
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA b'a fɔ ko hakili sɛgɛsɛgɛli ye sɛgɛsɛgɛli dɔ ye min bɛ kɛ ɲɛnamaya ka cɛɲɛ fɛ, a bɛ se ka kɛ tuma ɲuman ye ka ɲɛɲɛmajɔ fɔ. Dɔkotɔrɔ sɛgɛsɛgɛli dɔɔnin tɛ se ka dementia ɲini kelen-kelen. O ye daminɛ de ye, ani ɲini bɛ se ka kɛ tuma kelen caman. NIA b'a fɔ ko hakili kɛlɛ bɛ se ka kɛ mɔgɔ min bɛ dɔkotɔrɔ bɛ ka ɲɛ tuma o tuma sanga 6 ni 12 kɔnɔ.
 
-## Raising the subject kindly
+## Kuma ɲumanw ni mɔgɔ wɛrɛ ka hakili ɲɛ
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ni aw bɛ siran mɔgɔ wɛrɛ kosɔn, sɔrɔ wagati ɲuman ni yɔrɔ tɛ mɔgɔ caman ye. Ka kuma ka fɛn kɔnɔ ni aw ye ko min ɲɛ, ka a fɔ ko aw bɛ siran a ka lafiya kosɔn, aw tɛ kɔrɔ fɔ. Ka fɔ ko ka dɔkotɔrɔ ka sɛgɛsɛgɛli kɛ, o bɛ se ka kɛ ko min tɛ siran kosɔn. Ka mɔgɔ ka kɛli kɛ, ka a ɲɛ i ko mɔgɔ min ye mɔgɔ fɔlɔ. [Kuma ka ɲuman](/caregiving/communication-tips/) bɛ se ka dɛmɛ.
 
-## Talk with a doctor
+## Dɔkotɔrɔ ni kuma ka kɛ
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ni aw ye hakili, kɛlɛ, dusukasi walima ɲɛnamaya ka kɛwale ka yɛlɛmali ye min kura, min bɛ kɛ tuma caman, aw ka dɔkotɔrɔ ni kɛ ka ɲɛ tuma min na. Sɛgɛn lɔnnen tuma, aw ka 15 (SAMU) walima mɔgɔ ka dɔkotɔrɔ wele tuma ɲɔgɔn na. Tuma ɲuman sɛgɛsɛgɛli bɛ se ka kɛ ko min bɛ kɛ dawolo ye, ani ni dementia ye, o kɔ waati caman bɛ sɔrɔ ka labɛn ani ka dɛmɛ sɔrɔ. Aw yɛrɛ fana ka lafiya; ka ɲɛ [aw yɛrɛ ka lafiya ka kɛli](/caregiving/caregiver-self-care/) la.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Nin page ye kunnafoni ye ka bɔ sɛbɛnni kɔnɔ, a tɛ dawolo ko ye. Ka ɲɛ [dawolo ka fɛn](/medical-disclaimer/) la.

@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Звонкъабилъ ва телефонилъ гьабулаб ишал деменция бугеб инсаналъе"
+seoTitle: "Деменция бугебазе видеозвонкъабилъ ишал"
+description: "Видеозвонкъабилъ ва телефонилъ гьабулаб ишал: гьарсиб бугеб, ва тӏехьлъи бугеб инсанлъун гьабулаб ишал, кӏанлъи хъвалъи, хъвалъи, кӏиго ва жакӏ ишал, кумек гьабулаб инсанлъе кӏвечӏонаб."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Деменция бугеб инсанлъун звонкъаби гьарсиб, кӏиго ва регуляр гьабулъ, ва
+  щибаб ишалъе тӏехьлъи бугеб гьабулъ гьабизе кӏвечӏо: бичӏчӏаб мугӏ, тӏуру
+  гьоркьоб, кӏанлъи хъвалъи, гьамулаб кӏиго ёт ё жакӏ гӏуцӏаб жакӏ. Гьеб
+  шартлъун, еликӏаб бакӏалда щибаб, гьамлъи гьабизе бакӏ тӏехьлъи, ва гьамлъи
+  бегьулеб инсан кумек гьабиялъе кӏвечӏонаб.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Ишал звонкъе кӏаркьи гьабулъ ва хъвалъи бакӏан рекъе гьабулъ. Гьамулаб щибаб ишал пландасан."
+  - "Гьарсиб, регуляр звонкъаби, щиб вахтгоб, тӏуру звонкъабилъ кӏвечӏаб бугеб."
+  - "Щибаб вахтгоб щибаб гьабулъ. Бихьараб хъвалъи звонкъабилъ, къабул бугеб инсанлъе, гӏуцӏаб кӏвечӏо."
+  - "Бакӏалда бугеб кумек гьабулеб инсан: гьеб ишалъе кӏвечӏонаб, ва ишал ё мугӏ инсаналъе «гьоркьоб къуллъи» бугеб."
+  - "Звонк бугеб бахъин щиб тӏехьлъи ва тӏуру хъвалъи, ахиргъун гьабулъ. Бахъинилъ жиб гьабулъ гьабизе кӏвечӏаб."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Видеозвонкъабилъ деменция бугеб инсанлъе щиб гьабизе кӏвечӏо?"
+    a: "Щибаб гьарсиб ишал пландасан: гьабулъ гьабулъ бакӏ, кӏиго ё кухня гьабулъ; кӏвалъ ва хъвалъи мугӏ гьабулъ; щибаб тӏуру хъвалъи ё хат кӏвалъ; гьабулеб кӏанлъи хъвалъи; гьабулеб гьабулъ гьабулъ ё тӏехьлъи кӏиго ишал. Ишал звонк тӏехьлъи бугеб гьабулъ, инсаналъе гьабиялъе хъвалъи гӏуцӏаб."
+  - q: "Видеозвонк щибаб вахтгоб бегьулеб?"
+    a: "Гьабулъ гьабизе бегьулеб, тӏуру. Бичӏчӏаб минут гьабулъ кӏвечӏо, инсан бахъинилъ бакӏан гьабулеб бугеб. Гьарсиб вахтгоб звонкъаби тӏехьлъи бугеб, звонкъабилъ щибаб вахтгоб гьабулъ гьабизе кӏвечӏаб."
+  - q: "Инсан видеозвонкъабилъ хъвалъи ё гьарсиб бугеб бахъинилъ?"
+    a: "Щибаб инсан экраналъе тӏех хъвалъи бегьулеб. Жакӏ чӏвалъ телефон звонк, кумек гьабулеб инсан ахиргъун гьабулеб тӏуру видеожаб, ё хатилъ кӏвалъ ва суратал. Звонк гьабулеб бахъинилъ, тӏуру ахиргъун гьабулъ, ва жакӏ рекъе ё жакӏ вахтгоб гьабулъ."
+  - q: "Инна телефонилъ хъвалъи гьабиялъе бегьулеб бахъинилъ щиб гьабулъ?"
+    a: "Гьабулъ кумек бугеб инсан, яс ё кумек гьабулеб персонал звонк гьабулъ ва планшет ё телефон тӏехьлъи бугеб бакӏан гьабулъ. Бихьараб жигар кумек тӏехьлъи гьабулъ, хъвалъи. Тӏуру экран ва кӏвечӏаб хъвалъи планшет гьарсиб гьабулъ."
+  - q: "Видео хъвалъи ишал жиб гьабулъ гьабизе бегьулеб?"
+    a: "Бегьулеб. Экран гьабулъ инсан ишал гьабулъ, ва жакӏ инсан щибаб сурат гьабулъ гьабизе гьабулъ. Ё кумек гьабулеб инсан щибаб ишалъе гьабулъ, гьабизе гьабулъ. Тӏуру, таймер ва ччвалъ бугеб ишал гьабулъ."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Деменция бугеб инсанлъе бакӏ ахиргъун кӏвечӏаб гьабулъ гьабулъ. Телефон ё видеозвонк хъвалъи гьабулеб кӏвалъ гьабизе бегьулеб, amma гьабулъ бакӏан гьабулъ гьабулъ. Гьабулъ гьабизе кӏвечӏаб: щибаб тӏехьлъи гьабулъ гьабулъ гьабизе кӏвечӏаб, ва щибаб гьабулъ ишал пландасан. Гьеб ишал видеоялъ ва телефонилъ гьабулеб, звонк гьабизе ва инсан кумек гьабулеб инсан щиб гьабулъ гьабизе кӏвечӏонаб.
 
-## Why plan an activity for a call?
+## Жиб ишал звонкъе пландасан?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Ишал звонкъе шакл гьабулъ. «Гьабулъ гьабулъ? Щиб гьабулъ?» — инсаналъе гьабулъ, ва гьеб кӏвечӏаб, ва инсан гьабизе кӏвечӏо. «Ахир, помидорал гьабулъ» — инсаналъе щиб гьабулъ гьабизе кӏвечӏаб.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association гьабулъ, видео ахиргъун бугеб бичӏчӏаб гьабулъ гьабулъ кӏвечӏаб, ва [звонк структура гьабизе](https://www.alz.org/help-support/caregiving/holidays) — кӏанлъи ё сурат гьабулъ — гьабулъ гьабулъ.
 
-## What activities work on a video call?
+## Видеозвонкъабилъ жиб ишал бегьулеб?
 
-### Show and tell
+### Гьабулъ ва хъвалъи
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Гьабулъ гьабулъ. Камера гьабулъ бакӏ гьабулъ, кӏиго гьабулъ, гьабулъ гьабулъ, тӏуру гьабулъ, ё тӏехьлъи гьабулъ. Гьабулъ гьабулъ, гьабулъ ва тӏуру хъвалъи гьабулъ. Вопрос гьабизе кӏвечӏаб бугеб.
 
-### Look at photos together
+### Сурат гьабулъ
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Сурат гьабулъ ё экран гьабулъ, тӏуру сурат гьабулъ гьабулъ. Гьабулъ: «Дада, гьабулъ шапка.» «Ты помнишь?» ё «Кто это?» гьабизе кӏвечӏаб. Инсан щибаб инсан гьабулъ гьабулъ, гьабулъ гьабулъ. Ишал [гьабулъ гьабулъ](/activities/reminiscence/).
 
-### Read aloud
+### Тӏуру хъвалъи
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Тӏуру шиър, гьабулъ, гьабулъ гьабулъ гьабулъ, ё гьабулъ кӏвалъ, гьабулъ гьабулъ. Гьабулъ хъвалъи гьабулъ гьабулъ, инсан гьабизе кӏвечӏаб гьабулъ.
 
-### Sing or listen to music together
+### Кӏанлъи ё кӏиго гьабулъ
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Инсан бихьараб кӏанлъи гьабулъ, ё гьабулъ гьабулъ. Кӏанлъи гьабулъ гьабулъ. [Кӏиго ишал](/activities/music/) гьабулъ.
 
-### Cook or bake at the same time
+### Гьабулъ гьабулъ, гьабулъ гьабулъ
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association гьабулъ, звонкъабилъ гьабулъ гьабулъ гьабулъ. Гьабулъ гьабулъ, ва инсан кумек гьабулъ.
 
-### Watch something together
+### Фильм ё телевизор гьабулъ
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association гьабулъ гьабулъ гьабулъ, тӏуру гьабулъ. Инсаналъе бичӏчӏаб клип, гьабулъ ё гьабулъ гьабулъ.
 
-### Play a gentle game on a shared screen
+### Экраналъ гьабулъ тӏуру ишал
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Видеоялъ гьабулеб программаялъ экран гьабулъ. Гьабулъ ва тӏуру ишал гьабулъ: инсан гьабулъ, ва гьабулъ гьабулъ.
 
-Games that work well this way:
+Гьабулъ кӏвечӏеб ишал:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Гьабулъ гьабулъ](/games/finish-the-saying/):** гьабулъ гьабулъ, инсан ахиргъун гьабулъ.
+- **[Сурат пара](/games/picture-pairs/):** тӏуру сурат, таймер ва балл бугеб.
+- **[Гьабулъ карточка](/games/conversation-cards/):** сурат ва хъвалъи вопрос.
+- **[Сурат пара](/games/photo-pairs/):** гьабулъ гьабулъ сурат. Суратал гьабулъ, гьабулъ.
 
-### Recorded messages
+### Хатилъ видео
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Звонк гьабулеб кӏвалъ, тӏуру видео гьабулъ: салам, кӏанлъи, гьабулъ. Кумек гьабулеб инсан гьабулъ, гьабулъ бакӏан. Alzheimer's Association гьабулъ гьабулъ гьабулъ.
 
-## What about plain phone calls?
+## Телефон звонк гьабулъ?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Телефон звонк гьабулъ кӏвечӏо. Dementia Australia гьабулъ [гьарсиб вахтгоб звонк гьабулъ](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia), ва гьабулъ. Телефонилъ:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Гьабулъ ва гьабулъ гьабулъ: «Салам, дада, гьабулъ — Дженни, гьабулъ.»
+- Тӏуру, бичӏчӏаб гьабулъ гьабулъ.
+- Гьабулъ гьабулъ, гьабулъ гьабулъ.
+- Тӏуру шиър ё кӏанлъи гьабулъ.
+- Тӏуру ва гьабулъ гьабулъ ахиргъун.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia гьабулъ гьабулъ видео гьабулъ, гьабулъ гьабулъ. Телефон гьабулъ гьабулъ — видео, ё гьабулъ.
 
-## How do I set up a video call that works?
+## Видеозвонк гьабулъ гьабизе жиб гьабулъ?
 
-**Before the call:**
+**Звонк ахиргъун:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Вахт гьабулъ**, инсан тӏуру бугеб. Гьабулъ.
+2. **Бакӏалда кумек гьабулеб инсан гьабулъ.** Хат гьабулъ.
+3. **Устройство гьабулъ.** Планшет гьабулъ. Заряд, экран, гьабулъ гьабулъ.
+4. **Щибаб ишал гьабулъ.**
 
-**During the call:**
+**Звонк гьабулъ:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Камера гьабулъ** гьабулъ, гьабулъ.
+- **Гьабулъ гьабулъ** звонк гьабулъ, гьабулъ ва гьабулъ.
+- **Щибаб вахтгоб.** Alzheimer's Association гьабулъ. Щибаб гьабулъ гьабулъ.
+- **Вопрос щибаб гьабулъ.** Family Caregiver Alliance гьабулъ [гьабулъ вопрос](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/).
+- **Тӏуру пауза гьабулъ.** Гьабулъ гьабулъ. Гьабулъ.
+- **Гьабулъ, хъвалъи.** Гьабулъ.
+- **Гьабулъ гьабулъ.** Гьабулъ гьабулъ.
 
-**Ending the call:**
+**Звонк ахиргъун:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Инсан тӏуру бугеб гьабулъ.
+- Гьабулъ гьабулъ: «Завтра обед вахтгоб звонк гьабулъ. Гьабулъ.»
+- Гьабулъ гьабулъ.
 
-## Tips for the helper on site
+## Кумек гьабулеб инсаналъе кӏвечӏонаб
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Гьабулъ ё кумек гьабулеб инсан бугеб, гьабулъ гьабулъ.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Тӏуру бакӏ гьабулъ.** Телевизор гьабулъ.
+- **Звонк гьабулъ гьабулъ,** планшет гьабулъ.
+- **Гьабулъ гьабулъ.** Гьабулъ гьабулъ гьабулъ.
+- **Гьабулъ гьабулъ:** сурат гьабулъ, гьабулъ гьабулъ.
+- **Тӏуру ва гьабулъ гьабулъ.**
+- **Гьабулъ гьабулъ.** «Гьабулъ гьабулъ.»
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA гьабулъ, гьабулъ [телефон гьабулъ гьабизе](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), гьабулъ видео. Гьабулъ гьабулъ гьабулъ, кумек гьабулеб инсан гьабулъ.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Инсан гьабулъ гьабулъ гьабулъ гьабулъ, Alzheimer's Foundation of America гьабулъ гьабулъ. AFA гьабулъ, гьабулъ гьабулъ гьабулъ.
 
-## What if the call doesn't go well?
+## Звонк гьабулъ бахъинилъ?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Бахъинилъ звонкъабилъ тӏуру, гьабулъ ё хъвалъи гьабулъ. Гьеб гьабулъ гьабулъ гьабулъ, гьабулъ гьабулъ.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Инсан экраналъ гьабулъ бахъинилъ, телефон звонк ё хатилъ видео гьабулъ.
+- Инсан гьабулъ гьабулъ, гьабулъ ва тӏуру ахиргъун гьабулъ.
+- Гьабулъ бахъинилъ гьабулъ, жакӏ вахт гьабулъ.
+- Инсан гьабулъ гьабулъ, гьабулъ гьабулъ.
 
-It is fine to end early. A short, warm call is a good outcome.
+Гьабулъ ахиргъун гьабулъ ишал. Тӏуру звонк — гьабулъ гьабулъ.
 
-## Between calls
+## Звонкъабилъ гьабулъ
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Гьабулъ гьабулъ гьабулъ. Dementia Australia гьабулъ гьабулъ, суратал, гьабулъ. Гьарсиб тӏуру сурат ва тӏуру хат гьабулъ гьабулъ. Гьабулъ [гьабулъ карточка](/games/conversation-cards/) ишал гьабулъ.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Планшет гьабулъ гьабизе, [экран ва планшет](/caregiving/tablets-and-screens/) гьабулъ. Бакӏан гьабулъ, [гьабулъ](/activities/visiting/) гьабулъ.

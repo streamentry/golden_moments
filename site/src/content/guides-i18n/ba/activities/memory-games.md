@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Деменция өсөн хәтер уйындары: иркен, һынауһыҙ варианттар"
+seoTitle: "Деменция өсөн иң яҡшы хәтер уйындары, иркен фекерҙәр"
+description: "Деменция менән йәшәгән кешеләр өсөн парлы, рәсемле һәм карта уйындары: рәсемдәр асыҡ, парҙар аҙ, иҫәп юҡ, команда булып уйнау."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Деменция менән йәшәгән кешеләр өсөн хәтер уйындары иң яҡшы эшләй, әгәр улар
+  хәтергә бәйле булмаһа. Парлаштырыу уйындарын рәсемдәр асыҡ ваҡытта уйнағыҙ,
+  дүрт-алты плитка алығыҙ, команда булып уйнағыҙ һәм иҫәпте ташлағыҙ. Рәсемде
+  танып алыу уны иҫкә төшөрөүгә ҡарағанда еңелерәк, шуға күрә бөтә нәмә күренеп
+  торған уйындарҙы һайлағыҙ. Маҡсат — ҡыуаныс, һөҙөмтә түгел.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Классик хәтер уйындары карталарҙы йәшерә, был деменция менән иң ҡыйын булған нәмәне һынай. Уның урынына рәсемдәрҙе асыҡ ҡалдырығыҙ."
+  - "Аҙ предмет, эре рәсемдәр һәм бер ваҡытта бер генә һайлау уйынды рәхәт итә."
+  - "Команда булып уйнағыҙ, сиратлап ярҙам итегеҙ һәм иҫәпте ташлағыҙ. Берәү ҙә ҡыйынлыҡҡа ҡалмаһын."
+  - "Бер ниндәй хәтер уйыны ла деменцияны дауалай, әкренәйтә йәки туҡтата тип иҫбатланмаған. Уны рәхәт ваҡыт үткәреү өсөн уйнағыҙ."
+  - "Ҡыуаныс бөтмәгәндә туҡтағыҙ. Рәсемдәр тураһында һөйләшеү — яҡшы һөҙөмтә."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Деменция менән йәшәгән кеше өсөн нисек хәтер уйыны яҡшы?"
+    a: "Иҫтә ҡалыусы эре рәсемдәр менән парлы уйын, мәҫәлән, дүрт йәки алты плиткаға ҡуйылған рәсем парҙары, рәсемдәр асыҡ торһон. Күренеп торған рәсемдең парын табыу ҡәнәғәтләндерә, ҡыҫҡа мөддәтле хәтерҙе һынамай. «Шул уҡ табыу» тағы ла ябыңҡыраҡ: ике-дүрт вариант араһынан бер рәсемгә тап килгәнде табаһығыҙ."
+  - q: "Хәтер уйындары деменцияға ярҙам итәме?"
+    a: "Бер ниндәй хәтер уйыны деменцияны дауалай, әкренәйтә йәки туҡтата тип иҫбатланмаған; Cochrane обзоры компьютер менән аң тренировкаһы тураһындағы дәлилдәрҙе деменцияны профилактикалай ала тип әйтергә бик аҙ тип тапҡан. Уйындар бергә ваҡыт үткәреүҙең йылы юлы булырға мөмкин. Уларҙы ҡыуаныс һәм аралашыу өсөн һайлағыҙ."
+  - q: "Деменция булған кеше менән классик «Концентрация»ны уйнарға кәрәкме?"
+    a: "Башланғыс ваҡытта кайһы берҙәре был уйынды әле лә ошата, айырыуса аҙ карталар менән. Әгәр карталарҙың ҡайҙа икәнен иҫкә төшөрөү ҡыйынлыҡ тыуҙыра башлаһа, карталарҙы асыҡ борып, парҙарҙы бергәләп табығыҙ. Шулай итеп парлаштырыу ҡала, ә хәтер һынауы юҡҡа сыға."
+  - q: "Төркөм өсөн ҡай хәтер уйындары яраҡлы?"
+    a: "Экрандағы алып барыусы менән рәсемле лото, таныш әйтемдәрҙе бергә әйтеп тамамлау һәм аралашыу карталары — барыһы ла төркөм өсөн яраҡлы. Бөтә карталар тулғансы уйнағыҙ һәм кем дөрөҫ яуап биргәнен атап әйтмәгеҙ, шулай берәү ҙә айырылып ҡалмаҫ."
+  - q: "Онлайн өлкән кешеләр өсөн бушлай хәтер уйындары бармы?"
+    a: "Бар. Был сайттағы уйындар, шул иҫәптән Парлы рәсемдәр, Шул уҡ табыу, Фото парҙар һәм Рәсем головоломкаһы, бушлай, теркәлеү кәрәк түгел, телефонда, планшетта һәм компьютерҙа эшләй. Уларҙың берәүендә лә таймер йәки иҫәп юҡ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+«Өлкән кешеләр өсөн хәтер уйындары»н эҙләһәгеҙ, күп нәмә йәшерелгән карталар, иҫәп таймерҙары, кимәлдәр һәм иҫәптәр өсөн эшләнгән булып сыға. Деменция менән йәшәгән кеше өсөн был үҙенсәлектәр уйынды хәҙер ауыр булған нәмәне тикшереүгә әйләндерә. Шул уҡ уйындарҙы йомшаҡ итеп тә уйнарға мөмкин. Был биттә ҡалай уйнарға һәм һәр этапта нимә яраҡлы булырға мөмкинлеге күрһәтелә.
 
-## Why do classic memory games frustrate people with dementia?
+## Классик хәтер уйындары ни өсөн деменция менән йәшәгән кешеләрҙе ҡурҡыта?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Сөнки улар яңы мәғлүмәтте иҫтә тотоуға нигеҙләнгән, ә был Альцгеймер ауырыуы — деменцияның иң йышы сәбәбе — иң беренсе шуға яфалана. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) әйтеүенсә, Альцгеймерҙың иң йышы осраған беренсе билдәһе — яңы өйрәнелгән мәғлүмәтте иҫкә төшөрөүҙең ауырлығы. Классик «Концентрация»ла һеҙ ике карта борасығыҙ, уларҙың ҡайҙа ятҡанын иҫтә тотаһығыҙ һәм бер минуттан шуны файҙаланаһығыҙ. Был — яңы мәғлүмәт, тотолған һәм иҫкә төшөрөлгән.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Таймер, иҫәп йәки ялған яуап өсөн һыҡтау өҫтәгәндә, кеше яратҡан кеше алдында үҙе эшли алмаған нәмәне иҫкә төшөрөп ала. Күп кешеләр уйнауҙан тыныс ҡына туҡтай.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Күренгән нәмәне танып алыу — башҡа, һәм ғәҙәттә еңелерәк эш. Ике кәсә күренеп торғанда икенсе кәсәне күрһәтеү ҡыуандыра. Шуға күрә маҡсат — парлаштырыуҙы ҡалдырып, хәтер һынауын ташлау.
 
-## How do you make a memory game gentle?
+## Хәтер уйынын нисек еңел итергә?
 
-These adjustments work for card games, board games and games on a screen.
+Был көйләүҙәр карта уйындарына, таҡта уйындарына һәм экран уйындарына ла тура килә.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Рәсемдәрҙе асыҡ ҡалдырығыҙ.** Күренгән рәсемдәрҙе парлаштырыу — ысын уйын, һәм ул йыш ҡына ҡәнәғәтләндерә.
+2. **Аҙ предмет ҡулланығыҙ.** Ике-өс парҙан башлағыҙ. Бигерәк еңел тиһә һәм күберәк теләһә генә өҫтәгеҙ.
+3. **Эре, таныш, оло кеше рәсемдәрен һайлағыҙ.** Кәсә, көнбағыш, парусниклы көймә. Мультфильмдар йәки бик күп фигуралы ҡатмарлы сәхнәләр түгел.
+4. **Команда булып уйнағыҙ.** «Эттәрҙе табайыҡ» тип әйтегеҙ, «Һеҙҙең сират» түгел. Сиратлап күрһәтегеҙ һәм ярҙам итегеҙ.
+5. **Иҫәпте ташлағыҙ.** Берәүҙе еңеү кәрәкмәй. Әгәр кеше һорай икән, «Беҙ эшләп сыҡтыҡ» тигән ябай һүз етә.
+6. **Ваҡыт менән ярыша һалмағыҙ.** Таймер юҡ, сиратлар араһында ашығыу юҡ.
+7. **Рәсемдәр тураһында һөйләшегеҙ.** «Ҡарағыҙ, ул көймә. Һеҙ ҡасандыр парусҡа сыҡҡанығыҙ бармы?» Аралашыу — күп осраҡта иң яҡшы өлөш.
+8. **Яҡшы хәл менән туҡтағыҙ.** Бер парлаштырғандан һуң, әле рәхәт булғанда, тамамлағыҙ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) шул рухта гомуми кәңәш бирә: эшмәкәрлекте кешенең ни эшләй алыуына ҡарап һайлағыҙ, һыҡтауҙы күҙәтегеҙ һәм уның үҙен уңышлы тойоуына иғтибар итегеҙ.
 
-## Gentle memory and matching games to try
+## Еңел хәтер һәм парлаштырыу уйындары, уларҙы һынап ҡарарға
 
-### Picture pairs (matching with pictures showing)
+### Парлы рәсемдәр (рәсемдәр күренеп торғанда парлаштырыу)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Парлы рәсемдәр](/games/picture-pairs/) — эре рәсемдәр һәм 4-тән 12-гә тиклем плиткалы парлаштырыу уйыны. Рәсемдәр күренеп тора ала, шуға күрә был бөтөнләй ҡайҙа булғанын иҫкә төшөрөү түгел, ә ике тиңдәште табыу тураһында. Дүрт плиткалан башлағыҙ. Башланғыс этапта булған һәм күберәк ҡатмарлылыҡ теләгән кеше өсөн **Йәшерен рәсемдәр** режимына күсергә мөмкин, ләкин уйын рәхәт булмай башлауы менән рәсемдәрҙе яңынан күрһәтегеҙ.
 
-### Find the same
+### Шул уҡ табыу
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Шул уҡ табыу](/games/find-the-same/) өҫтә бер рәсем һәм аҫта ике-дүрт вариант күрһәтә. Тап килгәнен баҫығыҙ. Был сайттағы иң ябай парлаштырыу уйыны, һәм тулы таблица бик ҡатмарлы тип тапҡан кешеләр өсөн яраҡлы, шул иҫәптән һуңғы этаптағы күп кешеләр өсөн, эргәһендә кемдер булғанда.
 
-### Photo pairs (family photo memory game)
+### Фото парҙар (ғаиләнең фотоһы менән хәтер уйыны)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Фото парҙар](/games/photo-pairs/) һайлаған фотоларығыҙҙы парлаштырыу уйынына әйләндерә: эт, баҡса, күл буйындағы йорт. Таныш йөҙҙәр һәм урындар стандарт рәсемдәргә ҡарағанда күберәк һөйләшеүгә сәбәп була. Фотолар ғына һеҙҙең браузерҙа ҡала һәм бер ҡасан да йөкләнмәй.
 
-### Sort together
+### Бергә тәртипкә һалыу
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Бергә тәртипкә һалыу](/games/sort-together/) һәр рәсемде уның урынына — мәҫәлән, кухня йәки баҡса себетенә һалырға һорай. Тәртипкә һалыу бөтә ғүмер йыйылған донъя нисек эшләүе тураһындағы белемгә нигеҙләнә, ҡыҫҡа мөддәтле хәтергә түгел.
 
-### Picture puzzle
+### Рәсем головоломкаһы
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Рәсем головоломкаһы](/games/picture-puzzle/) рәсемде 4 йәки 9 киҫәккә бүлә. Рәсем тулы булғанса ике киҫәкте баҫып алмаштырығыҙ. Тулы рәсем экранда ярҙамсы булып ҡала.
 
-### Real cards on the table
+### Өҫтәлдә ысын карталар
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Экран кәрәкмәй. Ике колода картанан йәки рәсемле карта йыйыуҙан парҙар алығыҙ. Уларҙы ике рәттә асыҡ һалып, парҙарҙы бергә табығыҙ. Һуңынан төҫ йәки масть буйынса тәртипкә һалығыҙ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) башланғыс этап өсөн эшмәкәрлектәр араһында карта һәм таҡта уйындарын атай.
 
-## Which memory games suit each stage?
+## Һәр этапҡа ниндәй хәтер уйындары тура килә?
 
-Stages are loose labels. Go by what the person enjoys today.
+Этаптар — шартлы атамалар. Кешенең бөгөн нимә ошатыуына ҡарағыҙ.
 
-| Stage | Games that often fit | How to set them up |
+| Этап | Йыш тура килгән уйындар | Нисек әҙерләргә |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Башланғыс | Парлы рәсемдәр, Фото парҙар, 9 киҫәкле рәсем головоломкаһы, таныш карта уйындары | Һайларға ирек бирегеҙ. Плиткалар әйләнә ала, әгәр ошатһа; иҫәп борсолдорһа, уны ташлағыҙ |
+| Урта | Рәсемдәр асыҡ 4–6 плиткалы парлы рәсемдәр, Шул уҡ табыу, Бергә тәртипкә һалыу | Рәсемдәр һәр ваҡыт күренеп торһон. Эргәһендә ултырығыҙ һәм сиратлап ярҙам итегеҙ |
+| Һуңғы | 2 вариантлы Шул уҡ табыу, бер эре рәсемде бергә ҡарау | Бик ҡыҫҡа. Планшетты һеҙ тотоғоҙ; кеше күрһәтә, йәки ҡарап тыңлай |
 
-## Do memory games help with dementia?
+## Хәтер уйындары деменцияға ярҙам итәме?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Бер ниндәй хәтер уйыны деменцияны дауалай, әкренәйтә йәки туҡтата тип иҫбатланмаған. [Cochrane обзоры](https://pubmed.ncbi.nlm.nih.gov/30864747/) еңел когнитив бозолоу булған кешеләр өсөн компьютер менән аң тренировкаһы тураһында, был деменцияны профилактикалай ала тип әйтер өсөн дәлилдәр бик аҙ тип табыла. Беҙҙең [деменция һәм аң уйындары](/brain-health/brain-games/) тураһындағы ҡулланмабыҙ тикшеренеүҙәр нимә күрһәтә һәм нимә күрһәтмәй — шуны аңлата.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Был уйындарҙы ташлау сәбәбе түгел. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ҡаҙаныштан ҡыуаныһҡа иғтибар итергә кәңәш бирә. Рәсемдәрҙе парлаштырыу һәм уларҙы тураһында ун минут һөйләшеү көнөң ысын яҡшы өлөшө була ала.
 
-## What about memory games for seniors without dementia?
+## Деменцияһыҙ өлкән кешеләр өсөн хәтер уйындары тураһында нимә әйтергә?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Әгәр хәтер проблемаһы булмаған өлкән кеше ваҡыт менән уйналған головоломкаларҙы, иҫәптәрҙе һәм ҡатмарлы кимәлдәрҙе ярата икән, быға бер ниндәй ҙә зыян юҡ. Әммә быны деменциянан һаҡлай тип көтмәгеҙ; бер ниндәй уйын да был тураһында иҫбатламаған. Юғарыла һүрәтләнгән еңел версиялар быуындар бергә уйнағанда ла яҡшы эшләй: деменция менән йәшәгән олатай йәки өләсәй һәм кесе ейән-ейәнсәре рәсемдәрҙе команда булып парлаштыра ала, береһе лә һынала торғаны юҡ.
 
-## When should you stop or change the game?
+## Ҡасан туҡтарға йәки уйынды алмаштырырға?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Ауыр һулау, планшетты этеп ебәреү, «Минән булмай» тип әйтеү йәки борсолоу — уйынды еңеләйтергә йәки туҡтатырға сигналдар. Аҙыраҡ плиткалар менән һынағыҙ, рәсемдәрҙе асыҡ ҡалдырығыҙ, [Шул уҡ табыу](/games/find-the-same/) режимына күсегеҙ, йәки рәсемдәргә ҡарап һөйләшегеҙ. Әгәр улар уйнарға теләмәһә, был да ярай. Беҙҙең [бергә уйнау ҡулланмаһы](/caregiving/how-to-play-together/) тиҙлек һәм ярҙам тураһында күберәк әйтә.

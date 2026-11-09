@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Советы по общению с человеком, у которого деменция"
+seoTitle: "Общение при деменции: что говорить и чего избегать"
+description: "Практические способы разговаривать с человеком с деменцией: как начать беседу, что сказать вместо расспросов и поправок и как слушать."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Говорите в тихом месте, смотрите человеку в лицо, называйте его по имени и
+  говорите медленно, короткими простыми фразами. Задавайте один вопрос за раз,
+  предлагайте выбор из двух вариантов вместо открытых вопросов и ждите дольше,
+  чем кажется удобным. Не спорьте, не поправляйте и не устраивайте проверок.
+  Откликайтесь на чувство, которое стоит за словами, и используйте прикосновения,
+  картинки и жесты, когда речь даётся труднее.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Уберите фоновый шум и поймайте взгляд, прежде чем начать говорить."
+  - "Используйте короткие фразы, одну мысль за раз и имена вместо «он», «она» или «они»."
+  - "Предлагайте выбор из двух или вопрос, на который можно ответить «да» или «нет», а не открытые вопросы."
+  - "Дождитесь ответа. Если вас не поняли, повторите те же слова, потом попробуйте другие."
+  - "Не спорьте и не поправляйте. Откликайтесь на чувство, которое стоит за сказанным."
+  - "Когда слова уходят, общайтесь через прикосновения, интонацию, выражение лица и общие картинки."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Чего не стоит говорить человеку с деменцией?"
+    a: "Не устраивайте проверок («Вы помните…?»), не поправляйте («Это неправильно»), не напоминайте о потерях («Я же уже говорил») и не говорите о человеке так, будто его нет рядом. Не используйте детскую речь. Это обычно вызывает смущение или тревогу и ничем не помогает."
+  - q: "Надо ли поправлять, когда человек путает факты?"
+    a: "Обычно нет. Если ошибка безвредна, пусть остаётся. Споры редко меняют мнение человека и часто его расстраивают. Сосредоточьтесь на том, что он чувствует и что ему нужно сейчас."
+  - q: "Что делать, если человек не может найти слово?"
+    a: "Сначала дайте ему время. Если он явно мучается, можно мягко подсказать слово или угадать, что он имеет в виду, и уточнить. Помочь могут также указание рукой, жесты и картинки."
+  - q: "Как общаться с человеком на поздней стадии деменции, который почти не говорит?"
+    a: "Подходите спереди, назовите себя и говорите спокойным голосом, с мягкими прикосновениями. Следите за лицом и телом, чтобы понять чувства. Ваше присутствие, знакомая песня или держание за руку могут передать очень многое без слов."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Деменция может затруднять поиск слов, понимание длинных фраз и заглушать фоновый шум. Это не значит, что человек перестал хотеть общаться. Небольшие изменения в том, как вы начинаете разговор, как говорите и как слушаете, могут сделать общение легче и спокойнее для вас обоих.
 
-## What are the most important tips for talking with someone who has dementia?
+## Какие советы важнее всего для разговора с человеком с деменцией?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Привлеките внимание, говорите просто и будьте терпеливы. Если запомнить только пять вещей:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Уберите шум и смотрите человеку в лицо.** Выключите телевизор, сядьте на уровне глаз и назовите его по имени.
+2. **Говорите по одному. ** Короткие фразы, одна мысль, один вопрос.
+3. **Предлагайте выбор из двух.** «Чай или кофе?» легче, чем «Что вы хотите?»
+4. **Подождите.** Дайте на ответ больше времени, чем кажется удобным, и старайтесь не перебивать.
+5. **Никогда не спорьте и не устраивайте проверок.** Откликайтесь на то, что человек чувствует, а не на то, верны ли факты.
 
-## How should I start a conversation?
+## Как начать разговор?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Устройте всё так, чтобы человек мог сосредоточиться на вас. [Руководство Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) советует сначала убрать шум: выключить радио или телевизор, закрыть шторы или дверь либо перейти в более тихое место.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Подходите спереди.** Если подойти сзади или сбоку, человек может испугаться.
+- **Назовите себя.** «Привет, папа, это Сара, твоя дочь». Так ему не придётся искать, кто вы.
+- **Опуститесь до его уровня.** Если человек сидит, сядьте или присядьте на корточки, чтобы глаза были на одной линии.
+- **Следите за лицом и тоном.** [Национальный институт старения (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) советует следить за тоном, громкостью, выражением лица и языком тела и говорить тепло и спокойно.
+- **Проверьте очки и слуховой аппарат.** Трудно следить за разговором, если плохо видно или слышно.
 
-## How should I phrase what I say?
+## Как строить фразы?
 
-Use simple words, short sentences and a calm, low voice.
+Используйте простые слова, короткие фразы и спокойный, низкий голос.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Одна мысль в одной фразе.** «Давайте наденем куртку. Потом пойдём на улицу». А не всё сразу.
+- **Называйте по имени, а не местоимениями.** «Тётя Жанна звонила» понятнее, чем «Она звонила».
+- **Говорите ниже, а не громче.** Family Caregiver Alliance советует низкий голос, а не повышенный.
+- **Повторите, потом переформулируйте.** Если вас не поняли, повторите те же слова один раз. Если не помогло, помолчите и скажите иначе.
+- **Показывайте, а не только говорите.** Укажите на чашку, покажите два свитера или продемонстрируйте первый шаг.
+- **Говорите с человеком, а не о нём.** NIA предостерегает от разговоров о человеке так, будто его нет рядом, и от «детской речи».
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA советует упрощать привычные вопросы. Вот примеры в таком духе:
 
-| Instead of | Try |
+| Вместо этого | Попробуйте |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Что вы хотите на ужин?» | «Вы хотите рыбу или курицу?» |
+| «Как вы себя чувствуете?» | «Вы устали?» |
+| «Вы голодны?» | «Ужин будет готов через 5 минут». |
+| «Это не так делается». | «Давайте попробуем так». |
+| «Вы помните нашу поездку на озеро?» | «Я думала о нашей поездке на озеро. Расскажите, что вам там понравилось». |
+| «Я же уже говорил». | Ответьте снова, спокойно, как будто в первый раз. |
 
-## How do I listen well?
+## Как хорошо слушать?
 
-Listen for the meaning and the feeling, not just the words.
+Слушайте смысл и чувство, а не только слова.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Подождите.** Молчание часто означает, что человек думает. Медленно досчитайте до 10, прежде чем вмешаться.
+- **Подсказывайте слово, только если человек застрял.** Family Caregiver Alliance считает, что подсказать слово можно, когда человеку трудно.
+- **Проверьте, правильно ли вы поняли.** [Руководство Alzheimer's Association по общению](https://www.alz.org/help-support/caregiving/daily-care/communications) советует искать смысл за словами и пересказывать его, чтобы проверить понимание. «Вас тревожит машина?»
+- **Смотрите на лицо и тело.** По мере того как речь становится труднее, NIA отмечает, что выражение лица может яснее показать грусть, злость или раздражение, чем слова.
+- **Относитесь к беспокойству серьёзно.** Даже если тревога основана на ошибочном факте, чувство настоящее.
 
-## What if they say something that is not true?
+## Что делать, если человек говорит то, что не соответствует действительности?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Не спорьте. Вы вряд ли убедите, а человек может почувствовать себя смущённым или испуганным. Лучше откликнуться на чувство, а потом мягко перевести разговор.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance советует сначала признать эмоцию и только потом перенаправить разговор. Например, если мама настаивает, что ей нужно забрать детей из школы:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Не так: «Мама, твои дети уже взрослые. Это было сорок лет назад».
+- А так: «Ты всегда была такой заботливой мамой. Расскажи, как ты их забирала. Может, сначала перекусим?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association также советует не спорить о высказываниях, с которыми вы не согласны. Выбирайте момент: если ошибочное убеждение безвредно, пусть оно останется.
 
-## How does communication change as dementia progresses?
+## Как меняется общение с развитием деменции?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Потребности меняются со временем, и подход нужно корректировать. Alzheimer's Association описывает три общих этапа:
 
-| Stage | What helps |
+| Этап | Что помогает |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Ранний | Не считайте, что человек не может общаться. Вовлекайте его в разговоры, обращайтесь к нему напрямую, спрашивайте, какая помощь ему нужна, и используйте юмор, если он уместен. |
+| Средний | Беседы один на один в тихом месте. Говорите медленно, поддерживайте зрительный контакт, задавайте вопросы с ответом «да» или «нет», давайте инструкции по шагам и не критикуйте и не поправляйте. |
+| Поздний | Подходите спереди и назовите себя. Поощряйте указание рукой и жесты. Используйте прикосновения, звуки, образы и запахи. Никогда не говорите так, будто человека нет рядом. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Каждый человек различен, и у одного и того же человека бывают хорошие и трудные дни. Откликайтесь на то, каков человек сейчас, а не на ярлык.
 
-## Can pictures and activities make conversation easier?
+## Могут ли картинки и занятия облегчить разговор?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Да. Общая картинка снимает напряжение и даёт вам обоим что-то, на что можно смотреть и показывать.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Картинки для разговора.** [Карточки для беседы](/games/conversation-cards/) содержат картинки и открытые вопросы, но никогда не устраивают проверок.
+- **Семейные фотографии.** [Пары фотографий](/games/photo-pairs/) превращает выбранные вами фото в спокойную игру на сопоставление, которая часто пробуждает воспоминания.
+- **Знакомые поговорки.** [Доскажи поговорку](/games/finish-the-saying/) использует широко известные поговорки и подсказку для разговора.
+- **Игры на сопоставление как фон.** [Пары картинок](/games/picture-pairs/) даёт рукам занятие, пока вы беседуете.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Подробнее см. [как играть вместе](/caregiving/how-to-play-together/) и [занятия с воспоминаниями](/activities/reminiscence/). Для визитов и звонков читайте наши руководства по [визитам](/activities/visiting/) и [телефонным и видеозвонкам](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Что делать, если терпение кончилось?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Это бывает с каждым. NIA советует, если вы расстроились, взять паузу и успокоиться. Выйдите в другую комнату, сделайте несколько медленных вдохов и вернитесь, когда будете готовы. Вы всегда можете начать разговор заново, и человек, скорее всего, откликнется на ваше более спокойное настроение. Если раздражение становится постоянным, это знак, что вам нужна дополнительная поддержка, а не что вы не справляетесь. В нашем руководстве по [заботе о себе для ухаживающих](/caregiving/caregiver-self-care/) есть, куда обратиться.

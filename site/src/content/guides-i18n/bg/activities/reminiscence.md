@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Спомени: кутии с памет, истории и снимки"
+seoTitle: "Активности за спомени при деменция: идеи без тест"
+description: "Как да споделяте спомени с близък с деменция без въпроси-тест: разговор за снимки, кутия с предмети и книга за живота с успокояващи фрази."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Припомнянето на миналото означава да се радвате заедно на снимки, предмети,
+  музика и истории. Направете кутия с памет, изработете проста книга за живота
+  или разгледайте снимки една до друга. Никога не задавайте въпроси-тест:
+  пропуснете „Помниш ли?“ и „Кой е това?“ и използвайте отворени покани като
+  „Разкажи ми за това.“ Топлият разговор е по-важен от точните факти.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Припомнянето е разговор, а не изпит. Точността няма значение; значение има радостта."
+  - "Заменете „Помниш ли...?“ и „Кой е това?“ с коментари и покани като „Разкажи ми за този ден.“"
+  - "Кутия с предмети от живота на човека дава на ръцете и на разговора нещо, за което да се хванат."
+  - "Книгата за живота помага на семейството, посетителите и грижещите се да познават човека, а не само диагнозата."
+  - "Ако спомен донесе тъга, първо утешете, а после нежно сменете темата."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Какво е припомняне при хора с деменция?"
+    a: "Припомнянето е споделяне на спомени и минали преживявания, често с помощта на снимки, предмети, музика или видео. Може да се случва на четири очи или в група. Целта е приятен, смислен разговор, а не проверка на това какво човекът може да си спомни."
+  - q: "Защо да не питам „Помниш ли?“"
+    a: "Въпросите, които проверяват паметта, могат да накарат човека да се почувства смутен или тревожен, когато отговорът не идва. National Institute on Aging посочва като нещо, което трябва да се избягва, питането дали човекът си спомня нещо или някого. Вместо това коментирайте какво виждате и оставете човека сам да добави каквото иска."
+  - q: "Какво да сложа в кутия с памет?"
+    a: "Избирайте безопасни, здрави предмети, свързани с живота на човека: неща от работата, принадлежности за хоби, любим шал, пощенски картички, рецепти, спортни сувенири или копия на снимки. Избягвайте остри предмети, дребни неща, които могат да бъдат глътнати, и незаменими оригинали."
+  - q: "Какво, ако помнят фактите грешно?"
+    a: "Оставете го. Ако майка ви каже, че на снимката е сестра ѝ, когато всъщност е братовчедка, това е добре. Поправянето превръща топлия момент в тест. Следвайте историята, която разказват, и се радвайте заедно."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Припомнянето означава просто да се радвате заедно на миналото. За много хора с деменция спомените от преди десетилетия са по-ясни от това, което се е случило тази сутрин. Снимките, познатите предмети, музиката и историите могат да отворят тези спомени и да ви дадат нещо топло, което да споделите. Едно правило: това е разговор, никога изпит.
 
-## What is reminiscence, and how is it different from quizzing?
+## Какво е припомняне и с какво се различава от проверката с въпроси?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Припомнянето е споделяне на спомени чрез снимки, предмети, музика или видео, в темпото на човека. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) го описва като споделяне на минали преживявания и истории с помощта на снимки, предмети, видеа или музика, в книга или на таблет. Проверката с въпроси е различна: тя изисква човекът да даде правилен отговор, а това може да донесе смущение вместо радост.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) посочва като нещо, което трябва да се избягва, питането дали човекът помни нещо или някого. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) препоръчва да се избягват въпроси, които разчитат на краткотрайната памет, и вместо това да се говори за по-отдалеченото минало.
 
-| Instead of | Try |
+| Вместо да кажете | Опитайте така |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Помниш ли това?" | "Това изглежда като щастлив ден. Разкажи ми за него." |
+| "Кой е това?" | "Ето леля Роуз на плажа. Виж тази шапка." |
+| "Коя година беше това?" | "Това изглежда като старата къща. Какво беше да живееш там?" |
+| "Не, това не е Бил, а Франк." | "Той изглежда много весел." |
+| "Вече ми разказа това." | "Обичам тази история." |
 
-## How do you talk about photos without quizzing?
+## Как да говорите за снимки, без да изпитвате?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Започнете с това, което виждате, и после оставете място човекът да добави нещо, ако пожелае.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Седнете една до друга.** Дръжте албума между вас, за да гледате заедно, а не да изпитвате през маса.
+2. **Изберете няколко снимки.** Пет добри снимки са по-добре от цяла кутия. Най-добре действат големи, ясни копия.
+3. **Назовавайте хората сами.** „Ето теб и татко в деня на сватбата ви“ премахва напрежението.
+4. **Коментирайте детайли.** Дрехи, коли, храна, време, лица. „Каква кола. Изглежда толкова блестяща.“
+5. **Каните, не изисквате.** „Разкажи ми за...“ или „Какво забелязваш?“ Мълчанието е наред.
+6. **Следвайте техния ход.** Ако заговорят за съвсем друго, тръгнете с тях.
+7. **Спрете, докато е приятно.** Затворете албума, преди умората да се появи.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+За готови картинки с въпроси пробвайте [картите за разговор](/games/conversation-cards/). За да превърнете собствените си семейни снимки в нежна игра за сдвояване, пробвайте [двойки снимки](/games/photo-pairs/); снимките, които избирате, остават във вашия браузър.
 
-## How do you make a memory box?
+## Как да направите кутия с памет?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Кутията с памет е съд с предмети от живота на човека, които може да държи и за които да говорите.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Изберете здрава кутия**, която се отваря лесно, например кутия за обувки, кутия за шапка или малък дървен сандък.
+2. **Изберете тема или смес.** Работа, хоби, място, десетилетие или малко от всичко.
+3. **Съберете безопасни предмети.** Пет до десет неща са достатъчни, за да започнете.
+4. **Използвайте копия на ценни неща.** Копирайте незаменими снимки и документи, а оригиналите пазете на сигурно място.
+5. **Вадете по едно нещо.** Дайте го в ръцете на човека, кажете нещо за него и вижте накъде ще тръгне разговорът.
 
-Ideas to include:
+Идеи за включване:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Работа:** значка с име, малък инструмент, нашивка от униформа, тефтер, значка на медицинска сестра, готварска книга от ресторант.
+- **Дом:** рецепта, написана с неговия или нейния почерк, кухненска кърпа, любим шал или вратовръзка.
+- **Хоби:** примамка за риболов без куката, бейзболна топка, кълбо прежда, пакетче семена.
+- **Места:** пощенски картички, карти, туристически сувенир, изрезка от местен вестник.
+- **Семейство:** копия на снимки, рисунка на дете, сватбена покана.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Оставете настрана остри предмети, дребни неща, които могат да бъдат глътнати, и всичко, което може да върне болезнени спомени, освен ако не знаете, че е добре дошло.
 
-## How do you make a life-story book?
+## Как да направите книга за живота?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Книгата за живота е прост албум със снимки и кратки надписи за живота на човека. Това е нещо, което да разглеждате заедно, и помага на посетителите и грижещите се да видят цялостния човек.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Изберете формат.** Папка с джобове за прозрачни листове, отпечатана фотокнига или слайдшоу на таблет.
+2. **Планирайте няколко раздела.** Детство, училище, работа, семейство, места, на които сте живели, вяра, хобита, любими храни и музика.
+3. **Добавете една-две снимки на страница** с кратък надпис с едри букви: „Мария, на 22 години, започва работа в банката.“
+4. **Включете харесвания и навици.** „Пие кафе с мляко. Обича неделните химни. Не харесва силен телевизор.“ Това помага на всеки, който се грижи за човека.
+5. **Включвайте човека** толкова, колкото иска: избира снимки, разказва истории или просто наблюдава как се сглобява книгата.
+6. **Добавяйте постепенно.** Не е нужно да е завършена, за да е полезна.
 
-## More reminiscence ideas
+## Още идеи за припомняне
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Пуснете музика от младостта** и говорете за това, къде ги отвежда. Вижте [музикалните активности](/activities/music/).
+- **Гледайте домашни филми или предавания** от любимите им десетилетия.
+- **Сгответе ястие от детството** и оставете миризмите да водят разговора.
+- **Разгледайте карта** на родния им град и проследете познатите улици.
+- **Разгледайте стари каталози или списания** и говорете за цени, модни тенденции и коли.
+- **Записвайте техните истории** на телефон, с тяхно разрешение, за семейството.
+- **Споделяйте по време на разговори.** Покажете една снимка по време на видеоразговор; вижте [телефонни и видео разговори](/activities/phone-and-video-calls/).
+- **Носете снимка или предмет, когато ги посещавате.** Това дава на посещението лесен фокус; вижте [посещения](/activities/visiting/).
 
-## What if a memory is painful?
+## Какво, ако някой спомен е болезнен?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Някои спомени носят скръб, съжаление или страх. Ако човекът се разстрои, спрете, утешете го и нежно сменете темата или дейността. Не спорете за това какво се е случило. Family Caregiver Alliance съветва да не се опитвате да убедите човека, че греши, и да отговаряте на чувствата, които показва, а те са истински. Ако говори за починал човек, сякаш е жив, отговорете на чувството: „Липсва ти тя. Разкажи ми за нея.“
 
-## What does the research say?
+## Какво казват изследванията?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Систематичен преглед на Cochrane за припомнянето](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), който обхваща 22 изпитвания и 1972 души, установява, че ефектите са непоследователни, малки и се различават според обстановката и формата. Не е открита доказателства за вреда за хората с деменция. Препоръчваме припомнянето, защото може да направи времето заедно топло и смислено, а не като лечение. За повече за лесния разговор вижте [съвети за общуване](/caregiving/communication-tips/).

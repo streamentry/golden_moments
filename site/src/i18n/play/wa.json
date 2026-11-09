@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lére a hôt",
+      "stopReading": "Arester d' lére",
+      "region": "Djeu",
+      "restart": "Recomincî",
+      "soundOn": "Doûs sons en alaedje",
+      "soundOff": "Doûs sons distindous",
+      "done": "Assez po asteure",
+      "feedbackQuestion": "Est ç' k' çoula vos a fwait do bén ouy ?",
+      "feedbackYes": "Oyi",
+      "feedbackNo": "Nén vormint",
+      "feedbackThanks": "Merci di nos l' aveur dit."
+    },
+    "tile": {
+      "named": "{name}, platele {n}",
+      "hidden": "Catchêye imådje, platele {n}",
+      "withState": "{label}, {state}",
+      "matched": "Pålêye",
+      "selected": "Tchoezeye",
+      "picture": "Imådje",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Totes les påres eshonne. Ridjowez u fijhoz ene pôze.",
+      "photoPair": "Ene påre di fotos, eshonne.",
+      "picturePair": "Deus imådjes di l' {name|lower}, eshonne.",
+      "selected": "{name}. Asteure, trovez s' påre.",
+      "mismatch": "Prindoz vosse tins. Clitchîz so ene imådje po continouwer.",
+      "mismatchNamed": "{a} eyet {b}. Prindoz vosse tins. Clitchîz so ene imådje po continouwer."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Clitchîz so ene imådje, ey adon so cene ki va avou.",
+      "guidanceHidden": "Clitchîz so deus plateles po les rtourner. Cwerez après deus les minmes.",
+      "restart": "Novès imådjes",
+      "sizeLegend": "Cwombén d' plateles",
+      "size": {
+        "one": "{n} platele",
+        "other": "{n} plateles"
+      },
+      "viewLegend": "Kimint djower",
+      "viewShowing": "Imådjes k' on voet",
+      "viewHidden": "Catchêyès imådjes",
+      "playAgain": "Ridjower avou des novès imådjes",
+      "talk": "Divizer eshonne so ls imådjes"
+    },
+    "choose": {
+      "countLegend": "Cwombén d' imådjes",
+      "count": "{n} po tchoezi",
+      "thatOne": "Vola l' {name|lower}. Prindoz vosse tins."
+    },
+    "findTheSame": {
+      "guidance": "Loukîz l' imådje al copete. Clitchîz sol minme chal pa dzo.",
+      "yes": "Oyi, li minme {name|lower}.",
+      "next": "Imådje shuvante"
+    },
+    "shadowMatch": {
+      "guidance": "Loukîz l' ombe al copete. Clitchîz sol imådje ki fwait l' ombe.",
+      "yes": "Oyi, li {name|lower} fwait ciste ombe la.",
+      "next": "Ombe shuvante",
+      "shadowAlt": "Ene ombe a rtrover",
+      "foundAlt": "L' ombe di l' {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Clitchîz so ene imådje, ey adon sol panî la k' ele va.",
+      "restart": "Novès imådjes",
+      "themeLegend": "Tinme",
+      "selected": "{name}. Asteure, clitchîz sol panî la k' i va.",
+      "pickFirst": "Clitchîz d' abord so ene imådje, ey adon so on panî.",
+      "hint": "Li {name|lower} pôreut aler dins « {basket} ». Clitchîz so ç' panî la po l' î mete.",
+      "placed": "Li {name|lower} est dins « {basket} ».",
+      "sorted": "Tot est rindjî. Loukîz eshonne dins les panîs, u sayîz èn ôte tinme.",
+      "basket": {
+        "one": "Panî « {basket} », {count} imådje divins",
+        "other": "Panî « {basket} », {count} imådjes divins"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Clitchîz so ene pîce, ey adon so ene ôte. Ele candjnut d' plaece.",
+      "restart": "Riscandjî co on côp",
+      "pictureLegend": "Imådje",
+      "pictures": {
+        "sailboat": "Batea a vwele",
+        "house": "Måjhone",
+        "balloon": "Balon",
+        "sunflower": "Tournesol",
+        "lighthouse": "Phare",
+        "cat": "Tchet"
+      },
+      "sizeLegend": "Pîces",
+      "size": {
+        "one": "{n} pîce",
+        "other": "{n} pîces"
+      },
+      "pickedUp": "Pîce ramoennêye. Asteure, clitchîz la k' ele doet aler.",
+      "whole": "Li {name|lower} est rmetowe eshonne. Tchoezixhoz ene ôte imådje cwand vos vloz.",
+      "swapped": {
+        "one": "Echandjî. {correct} pîce so {total} est a s' plaece.",
+        "other": "Echandjî. {correct} pîces so {total} sont a leu plaece."
+      },
+      "guideAlt": "L' imådje etire : {name}",
+      "guideText": "Vola a cwè l' imådje rissonne cwand ele est etire.",
+      "piece": "Pîce {place}",
+      "pieceInPlace": ", a s' plaece",
+      "piecePickedUp": ", ramoennêye",
+      "places4": [
+        "al copete a hintche",
+        "al copete a droete",
+        "al valêye a hintche",
+        "al valêye a droete"
+      ],
+      "places9": [
+        "al copete a hintche",
+        "al copete å mitan",
+        "al copete a droete",
+        "å mitan a hintche",
+        "å mitan",
+        "å mitan a droete",
+        "al valêye a hintche",
+        "al valêye å mitan",
+        "al valêye a droete"
+      ],
+      "done": "L' imådje est rmetowe eshonne. Ridjowez u fijhoz ene pôze.",
+      "playAgain": "Riscandjî les pîces co on côp"
+    },
+    "finishTheSaying": {
+      "guidance": "Lijhoz l' spot eshonne, ey adon clitchîz sol mot ki l' ahoteye.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Oyi, « {start} {end}. »",
+      "otherEnding": "« {word} » va bén ossu. Li spot å pus sovint s' ahoteye avou « {end} ».",
+      "revealed": "Li spot fwait « {start} {end}. »",
+      "choicesLabel": "Tchoezixhoz l' dierin mot",
+      "show": "Môstrer l' fén",
+      "talk": "Divizans-è : ",
+      "next": "Spot shuvant"
+    },
+    "wordSearch": {
+      "guidance": "Les mots vont d' triviè u d' hôt a bas. Clitchîz sol prumire lete d' on mot, ey adon sol dierinne.",
+      "restart": "Novea djeu",
+      "themeLegend": "Tinme",
+      "sizeLegend": "Grandeur del griye",
+      "size": {
+        "one": "{n} so {n} ({words} mot)",
+        "other": "{n} so {n} ({words} mots)"
+      },
+      "print": "Imprimer ç' djeu ci",
+      "letterChosen": "Lete {letter} tchoezeye. Asteure, clitchîz sol dierinne lete do mot.",
+      "found": "{word} ritoûvé.",
+      "foundAll": "{word} ritoûvé. Vola tos les mots. Ridjowez u fijhoz ene pôze.",
+      "tryAgain": "Prindoz vosse tins. Clitchîz sol prumire lete d' on mot, ey adon sol dierinne.",
+      "gridLabel": "Griye di letes, {n} rindjeyes di {n} letes. Eployîz les flotches po bodjî inte les letes.",
+      "cell": "{letter}, rindjeye {row}, colone {col}",
+      "cellFound": ", pîce d' on mot ritoûvé",
+      "wordsHeading": "Mots a rtrover",
+      "wordFound": " (ritoûvé)",
+      "sheetTitle": "Mots a rtrover : {theme}",
+      "sheetNote": "Les mots vont d' triviè u d' hôt a bas.",
+      "unavailable": "Ene griye di letes n' est nén ahessåve po ç' lingaedje ci, do côp les mots a rtrover èn sont nén porsious chal. Sayîz purade les djeus d' imådjes."
+    },
+    "coloring": {
+      "guidance": "Clitchîz so ene coleur, ey adon so ene pårteye di l' imådje.",
+      "restart": "Rissaetchî les coleurs",
+      "cleared": "Li pådje est blanke a novea.",
+      "pageLegend": "Pådje",
+      "print": "Imprimer cisse pådje ci",
+      "colorsLabel": "Coleurs",
+      "paintChosen": "{paint} tchoezi.",
+      "painted": "{part} est asteure {paint|lower}.",
+      "artLabel": "{page}, {count} bokets a rcolori",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, nén co rcoloré",
+      "paints": {
+        "red": "Rodje",
+        "orange": "Orandje",
+        "yellow": "Djaene",
+        "green": "Vete",
+        "blue": "Bleu",
+        "purple": "Violet",
+        "pink": "Rôze",
+        "brown": "Brun",
+        "sky-blue": "Bleu cir",
+        "cream": "Creme",
+        "gray": "Gris",
+        "white": "Blanc"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lijhoz l' cåte a hôte vos. I n' a nole boune ni måvaize responreye.",
+      "position": "Cåte {n} so {total}",
+      "themeLegend": "Tinme",
+      "next": "Cåte shuvante",
+      "previous": "Cåte di dvant",
+      "print": "Imprimer totes les cåtes",
+      "sheetTitle": "Cåtes di cåzreye"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Cmincîz pa tchoezi vos fotos.",
+      "guidance": "Clitchîz so ene foto, ey adon so cene ki va avou.",
+      "restart": "Rimicsciî co on côp",
+      "intro": "**Tchoezixhoz 2 disk' a 6 fotos** so ç' matricule ci. Ele ni sont håynêyes ki so cisse pådje ci ey èn sont måy eberwetêyes ni såvêyes.",
+      "choose": "Tchoezi des fotos",
+      "chooseDifferent": "Tchoezi des ôtes fotos",
+      "clear": "Vudî les fotos",
+      "cleared": "Les fotos ont stî rsaetcheyes di cisse pådje ci.",
+      "atLeastTwo": "Tchoezixhoz å moens deus fotos s' i vos plait.",
+      "usingFirst": "On-z eploye les {max} prumirès fotos.",
+      "skipped": {
+        "one": "{count} fitchî n' esteut nén ene foto k' on pout môstrer.",
+        "other": "{count} fitchîs n' estént nén des fotos k' on pout môstrer."
+      },
+      "playAgain": "Ridjower avou ces fotos ci",
+      "empty": "Vos fotos vont aparexhe chal, tchaeke deus côps."
+    },
+    "pictureBingo": {
+      "guidance": "Imprimez d' abord les cåtes. Adon, môstrez ç' tireu ci sol pus grand ecran ki vos avoz.",
+      "called": {
+        "one": "{name}. {called} imådje so {total} a stî tirêye.",
+        "other": "{name}. {called} imådjes so {total} ont stî tirêyes."
+      },
+      "start": "Clitchîz so « Imådje shuvante » po tirar l' prumire imådje.",
+      "restart": "Cmincî on novea djeu",
+      "squaresLegend": "Cwårêyes so tchaeke cåte",
+      "squares": "{n} cwårêyes ({side} so {side})",
+      "cardsLegend": "Cwombén d' cåtes a-t i a imprimer",
+      "cards": {
+        "one": "{n} cåte",
+        "other": "{n} cåtes"
+      },
+      "print": {
+        "one": "Imprimer {n} cåte di bingo",
+        "other": "Imprimer {n} cåtes di bingo"
+      },
+      "ready": "Pris cwand vos vloz",
+      "next": "Imådje shuvante",
+      "allCalled": "Totes les imådjes ont stî tirêyes",
+      "alreadyCalled": "Dedja tirêye",
+      "sheetTitle": "Bingo d' imådjes · cåte {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Halez l' air cwand l' rondea crexhe, eyet shoflez foû cwand i dvént pus ptit. I s' arestêye tot seu après shijh respiråcions.",
+      "paceLegend": "Cadince",
+      "paceSlow": "Londjin (5 segondes a tchaeke côp)",
+      "paceGentle": "Doûs (4 segondes a tchaeke côp)",
+      "ready": "Paré cwand vos vôrez",
+      "in": "Halez l' air",
+      "hold": "Ripoizî",
+      "out": "Shoflez foû",
+      "start": "Ataker",
+      "stop": "Arester",
+      "started": "C' est ataké. Halez l' air cwand l' rondea crexhe.",
+      "stopped": "Aresté.",
+      "finished": "C' esteut shijh doûcès respiråcions. Ratakez cwand vos l' vôrez."
+    }
+  },
+  "pictures": {
+    "teacup": "Djate di té",
+    "kettle": "Bouywere",
+    "bread": "Pwin",
+    "frying-pan": "Paile avou èn oû",
+    "cake": "Gatea d' fiesse",
+    "sunflower": "Tournesol",
+    "tulip": "Tulipe rodje",
+    "watering-can": "Arrouzou",
+    "potted-plant": "Plante e pot",
+    "tree": "Åbe",
+    "bird": "Roidjegoidje so ene coxhe",
+    "butterfly": "Papiyon",
+    "dog": "Tchén",
+    "cat": "Tchet",
+    "fish": "Pexhon rodje",
+    "apple": "Peme rodje",
+    "pear": "Poere",
+    "strawberry": "Fråjhe",
+    "banana": "Bannane",
+    "lemon": "Citron",
+    "cherries": "Ceréjhes",
+    "house": "Måjhone",
+    "lamp": "Lampe di tåve",
+    "armchair": "Fotrouye",
+    "key": "Clé viye",
+    "umbrella": "Paraploûve",
+    "sailboat": "Batea a vweles",
+    "car": "Oto d' epoke",
+    "bicycle": "Biciclete",
+    "balloon": "Montgolfire",
+    "lighthouse": "Får",
+    "sun": "Solea",
+    "moon": "Lune eyet stoeles",
+    "teapot": "Teyire",
+    "apple-pie": "Tåte ås pemes",
+    "honey-jar": "Pot d' mîr",
+    "boiled-egg": "Oû e potiket",
+    "toaster": "Griyoe d' pwin",
+    "cheese": "Morcea d' froumadje",
+    "milk-jug": "Pot a laecea",
+    "cupcake": "Gatlet",
+    "orange": "Orindje",
+    "grapes": "Troque di rejhins",
+    "watermelon": "Trintche di pastêye",
+    "pineapple": "Ananås",
+    "peach": "Pexhe",
+    "rose": "Rôze",
+    "daisies": "Margrîtes",
+    "mushroom": "Tchampion",
+    "wheelbarrow": "Berwete",
+    "birdhouse": "Nizet",
+    "cactus": "Cactusse e pot",
+    "acorn": "Glan",
+    "autumn-leaf": "Foye d' åtone",
+    "rabbit": "Robiete",
+    "duck": "Cånård",
+    "hen": "Poye",
+    "sheep": "Mouton",
+    "owl": "Houpet",
+    "ladybird": "Coccinelle",
+    "snail": "Caracole",
+    "frog": "Régnoe",
+    "bee": "Moxhe d' amel",
+    "clock": "Ôlodje di tchminêye",
+    "vase-of-flowers": "Våze di fleurs",
+    "radio": "Radjo d' antan",
+    "books": "Pîce di lives",
+    "candle": "Tchandele",
+    "glasses": "Lunetes po lére",
+    "telephone": "Telifone",
+    "ball-of-wool": "Pelote di linne",
+    "straw-hat": "Tchapea d' solea",
+    "train": "Trén a vapeur",
+    "bus": "Busse",
+    "airplane": "Avion",
+    "suitcase": "Valijhe",
+    "tractor": "Tracteur",
+    "rowing-boat": "Batea ås rames",
+    "rainbow": "Årk-e-cir",
+    "rain-cloud": "Nûlêye di plouve",
+    "snowflake": "Flocon d' nive",
+    "kite": "Cerf-volant",
+    "sunrise": "Lever d' solea so les colenes"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruts",
+          "words": [
+            "PEME",
+            "POERE",
+            "PRONE",
+            "PEXHE",
+            "MELON",
+            "FIKE",
+            "NOEJHE",
+            "CITRON",
+            "BANANE"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Djårdin",
+          "words": [
+            "ROZE",
+            "TULIPE",
+            "GRAENE",
+            "TERE",
+            "FOYE",
+            "ABE",
+            "FLEUR",
+            "MOXHE",
+            "HERBE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cujhene",
+          "words": [
+            "DJATE",
+            "CAYIR",
+            "PWIN",
+            "PAILE",
+            "BOLE",
+            "ASIETE",
+            "KUTEA",
+            "FOR",
+            "SOUPE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tins",
+          "words": [
+            "SOLEA",
+            "PLOUVE",
+            "NIVE",
+            "VINT",
+            "NULE",
+            "ORADJE",
+            "BROWI",
+            "TCHOD",
+            "FROED"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Biesses",
+          "words": [
+            "TCHEN",
+            "TCHET",
+            "PEXHON",
+            "CHIVA",
+            "VATCHE",
+            "POYE",
+            "GADE",
+            "COK",
+            "MOUTON"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Måjhone",
+          "words": [
+            "OUXH",
+            "SHIJHE",
+            "LAMPE",
+            "LET",
+            "TAPE",
+            "TAVE",
+            "CLE",
+            "BANTCH",
+            "PURNEA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Totes les caetes",
+        "food": "A magnî",
+        "home": "Måjhone",
+        "outdoors": "Dfoû",
+        "animals": "Biesses",
+        "travel": "Voyaedjes",
+        "work": "Ovrindje eyet passetins",
+        "music": "Muzike eyet amuzmint",
+        "seasons": "Såjhons"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Kéne odeur di cujhene est çki vos inmez bén?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ké sôre di gatea tchwezrixhîz-ve po ene fiesse?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Cåzez-m' d' ene tåte ås fruts u d' on dessert ki vos inmez bén."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kimint prindoz-ve voltî vosse té u vosse café?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Cwè k' i gn a dins on bon didjuner po vos?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Avoxhe dedja ctapé des fruts direct so l' åbe u l' bouxhon?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dous u seur: kékén inmez-ve li mî?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kéne nouriteure vos fwait tuzer a l' esté?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Cåzez-m' d' ene måjhone la k' vos avoz voltî dmoré."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Wice est çki vos vos plaijhoz l' pus po vos ashir et vos rpoizî?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Cwè çki vos inmez fé cwand l' vesprêye est trankile?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ké trezôr wårdêyrîz-ve dins ene boesse da vosse?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kî inviterîz-ve po boere ene djate di té?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Cwè çki vos inmez fé cwand i ploût?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kénès fleurs planterîz-ve dins on djårdin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Cåzez-m' d' èn åbe u d' on parc ki vos inmez bén."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Cwè çki vos plait l' pus cwand vos estoz e djårdin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kéne coleur di fleurs inmez-ve li pus?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Inmez-ve awè des plantes e vosse måjhone?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kéne sereut po vos ene bele djournêye di solea?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Cåzez-m' d' on tchén k' vos avoz cnoxhou."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Tchets u tchéns, u nole biesse? Cwè çki vos plait e zels?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kéns oujheas veyoz-ve u etindoz-ve difoû?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Avoxhe dedja stî a pexhe, u yeu des pexhons e-n èn akwariom?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kéne est l' pus bele biesse ki vos avoz veyou?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Cåzez-m' d' ene oto ki vos avoz bén inmé."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Inmrîz-ve mî passer ene djournêye al mer u al montinne?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Wice inmrîz-ve fé ene tournêye?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Si vos polîz voler dzeu on payis, kéne plaece tchwezrîz-ve?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Cåzez-m' d' on voyaedje ki vos a fwait plaijhi."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ké sôre d' ovraedje avoz-ve fwait voltî?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "A ké passetins polîz-ve passer des eures?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Kéne sacwè estoz-ve cnoxhou po fé u po racomodî?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ké consey donrîz-ve a on djonne ki cmince a bouter?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kéne sôre di muzike vos dene l' envie di bodjî les pîds?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Cwè k' i gn a dins ene fiesse reusseye?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ké tchanter inmez-ve aschoûter?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ké film u kéne emission d' televuzion rveyoz-ve voltî?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Cwè çki vos inmez l' pus a l' esté?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Cwè çki vos plait a l' åtone?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Cwè d' agreyåve a fé tins d' ene vesprêye d' iwier?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Kéns sont po vos les prumîs senes do prétins?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nive, plouve u solea: kékén inmez-ve li mî?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fleur e pot",
+          "regions": {
+            "sky": "Fond",
+            "table": "Tåve",
+            "stem": "Tidje",
+            "leaf-left": "Foye di hintche",
+            "leaf-right": "Foye di droete",
+            "petal-1": "Petale 1",
+            "petal-2": "Petale 2",
+            "petal-3": "Petale 3",
+            "petal-4": "Petale 4",
+            "petal-5": "Petale 5",
+            "petal-6": "Petale 6",
+            "petal-7": "Petale 7",
+            "petal-8": "Petale 8",
+            "center": "Mitan del fleur",
+            "pot": "Pot",
+            "pot-rim": "Boir do pot"
+          }
+        },
+        "house": {
+          "name": "Måjhone",
+          "regions": {
+            "sky": "Cir",
+            "sun": "Solea",
+            "grass": "Yebe",
+            "chimney": "Tchminêye",
+            "walls": "Murs",
+            "roof": "Toet",
+            "door": "Ouxh",
+            "window-left": "Purnea d' hintche",
+            "window-right": "Purnea d' droete",
+            "path": "Pazea"
+          }
+        },
+        "teacup": {
+          "name": "Djate di té",
+          "regions": {
+            "background": "Fond",
+            "saucer": "Sotase",
+            "handle": "Anse",
+            "cup": "Djate",
+            "band": "Binde so l' djate",
+            "tea": "Té"
+          }
+        },
+        "butterfly": {
+          "name": "Papiyon",
+          "regions": {
+            "background": "Fond",
+            "wing-top-left": "Hôte aiyete di hintche",
+            "wing-top-right": "Hôte aiyete di droete",
+            "wing-bottom-left": "Basse aiyete di hintche",
+            "wing-bottom-right": "Basse aiyete di droete",
+            "spot-left": "Tatche di hintche",
+            "spot-right": "Tatche di droete",
+            "body": "Coir"
+          }
+        },
+        "sailboat": {
+          "name": "Batea a vweles",
+          "regions": {
+            "sky": "Cir",
+            "sea": "Mer",
+            "sail-big": "Grande vwele",
+            "sail-small": "Ptite vwele",
+            "mast": "Måt",
+            "hull": "Batea",
+            "flag": "Drapea"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cujhene eyet djårdin",
+          "baskets": [
+            "El coujhene",
+            "El corti"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruts et biesses",
+          "baskets": [
+            "Fruts",
+            "Biesses"
+          ]
+        },
+        "home-travel": {
+          "label": "Måjhon et voyaedje",
+          "baskets": [
+            "Al måjhon",
+            "E voyaedje"
+          ]
+        }
+      }
+    }
+  }
+}

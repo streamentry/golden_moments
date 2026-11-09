@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Слух и риск от деменция: какво показват изследванията"
+seoTitle: "Загуба на слух и деменция: какво показват изследванията"
+description: "Защо загубата на слух се свързва с риска от деменция, какво показа проучването ACHIEVE и как да проверите слуха си и да общувате по-лесно."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Комисията на The Lancet от 2024 г. посочва загубата на слух като един от най-големите променливи рискови фактори за деменция. В проучването ACHIEVE слуховите апарати не забавиха когнитивния спад като цяло, но една група с по-висок риск показа по-бавен спад. Слуховите апарати така или иначе помагат при разговори и в ежедневието. Проверете слуха си, обмислете апарат с рецепта или без нея и се консултирайте с лекар.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Комисията на The Lancet оценява, че загубата на слух се дължи на около 7% от случаите на деменция в света, което я нарежда първа по дял сред 14 фактора."
+  - "В проучването ACHIEVE с 977 възрастни хора слуховите апарати не промениха спада в когнитивните способности за три години като цяло."
+  - "В по-малка група с по-висок риск в ACHIEVE когнитивният спад беше с 48% по-бавен със слухови апарати; това трябва да бъде потвърдено."
+  - "От октомври 2022 г. възрастни в САЩ с усещана лека до умерена загуба на слух могат да купуват регулирани от FDA слухови апарати без рецепта."
+  - "През 2024 г. необработеното зрително увреждане беше добавено като рисков фактор за деменция, затова и прегледите на очите имат значение."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Слуховите апарати предпазват ли от деменция?"
+    a: "Това не е доказано. Проучването ACHIEVE не установи общ ефект върху когнитивния спад за три години, макар че една група с по-висок риск се представи по-добре. Слуховите апарати все пак си заслужава да се обмислят, защото улесняват разговорите, безопасността и ежедневието."
+  - q: "Кой може да купи слухов апарат без рецепта?"
+    a: "FDA позволява на възрастни от 18 години нагоре с усещана лека до умерена загуба на слух да купуват слухови апарати без рецепта в магазини или онлайн. Те не са предназначени за тежка загуба на слух. Ако имате болка в ухото, теч от ухото, световъртеж или внезапна промяна в слуха, first посетете лекар."
+  - q: "Загубата на слух може ли да прилича на деменция?"
+    a: "Понякога да. Националният институт по стареене (NIA) отбелязва, че възрастни хора, които не чуват добре, понякога погрешно се смятат за объркани или нестанали да сътрудничат. Проверката на слуха е разумна стъпка, когато някой се дистанцира или не разбира какво му се казва."
+  - q: "Колко често възрастните хора трябва да правят преглед на очите?"
+    a: "Националният институт по стареене препоръчва разширен преглед на очите на всяка една или две години след 60-годишна възраст или според препоръката на офталмолога. Хората с диабет или високо кръвно налягане обикновено се нуждаят от такъв преглед поне веднъж годишно."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Загубата на слух е често срещана в напреднала възраст, а изследователите я приемат сериозно като рисков фактор за деменция. Това не означава, че слуховите апарати са доказан начин за предпазване от деменция; най-доброто досега проучване даде смесени резултати. Тази страница обяснява какво показват изследванията, как да се провери слухът, какво представляват слуховите апарати без рецепта в САЩ и как да се улесни разговорът.
 
-## Why does hearing matter for brain health?
+## Защо слухът е важен за здравето на мозъка?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Загубата на слух е свързана с по-висок риск от деменция. [Комисията на The Lancet от 2024 г.](https://doi.org/10.1016/S0140-6736(24)01296-0) оценява, че тя се дължи на около 7% от случаите на деменция в света. По този показател тя е наравно с високия LDL холестерол и заема първо място сред 14-те променливи рискови фактора в модела на Комисията, според [обобщението на UCL за доклада](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Основни констатации на Комисията:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **По-висок риск при загуба на слух.** В обобщен анализ на шест висококачествени проучвания хората със загуба на слух имаха около 37% по-висок риск от деменция в сравнение с хората с нормален слух.
+- **По-голяма загуба, по-голям риск.** Проучванията, които са оценявали степента на загубата, показват, че рискът нараства с влошаване на слуха.
+- **Възможни причини, но все още не доказани.** Сред предположенията са самотата и отдръпването, депресията, по-малкото стимулиране на мозъка и допълнителното умствено усилие, което изисква слушането.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Загубата на слух е често срещана. [Националният институт по стареене (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) съобщава, че около една трета от възрастните хора я имат, а вероятността нараства с възрастта.
 
-## What did the ACHIEVE hearing aid trial find?
+## Какво показа проучването ACHIEVE със слухови апарати?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE е първото рандомизирано проучване за слухови апарати и когнитивен спад. Резултатите му често се поднасят неточно, затова ето подробностите от [публикувания доклад за проучването](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Кои участваха:** 977 души на възраст от 70 до 84 години с необработена загуба на слух и без значителни проблеми с мисленето, в четири общностни центъра в САЩ.
+- **Какво беше сравнено:** Едната половина получи слухови апарати и консултации с audiologist. Другата половина участва в програма за здравно образование за здравословно стареене.
+- **Основен резултат:** След три години **не се установи разлика** в когнитивния спад между двете групи като цяло.
+- **Резултат за подгрупа:** Участниците бяха набрани от два източника. 238 души дойдоха от дългосрочно изследване на сърдечното здраве (ARIC) и като група имаха по-висок риск от когнитивен спад. В тази група спадът беше **с 48% по-бавен** със слухови апарати. Сред 739-те здрави доброволци от общността не се установи ясен ефект.
 
-How to read this honestly:
+Как да се чете това честно:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Общият отговор е, че няма ефект.
+- Констатацията за подгрупата беше планирана предварително, но идва от вторичен анализ на по-малка група. Тя трябва да бъде потвърдена в други проучвания.
+- Участниците знаеха в коя програма са, а това може да повлияе на резултатите.
+- Комисията на The Lancet тълкува доказателствата така, че слуховите апарати изглеждат особено полезни за хора със загуба на слух, които имат и други рискови фактори за деменция.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Крайният извод е, че слуховите апарати не са доказан начин за предпазване от деменция. Те обаче помагат на хората да чуват, да участват в разговори и да поддържат връзки с другите, а това е достатъчна причина да се обмислят.
 
-## How do I know if hearing should be checked?
+## Как да разбера дали слухът трябва да се провери?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA препоръчва да се посетите лекар, ако вие или човекът, за когото се грижите:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Има затруднения да разбира хората по телефона
+- Трудно проследява разговор, когато говорят двама или повече души
+- Често моли хората да повтарят казаното
+- Пуска телевизора толкова силно, че другите се оплакват
+- Трудно разбира речта при фонов шум
+- Смята, че другите говорят неясно
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Започнете с личния лекар, който може да ви насочи към audiologist (специалист по слуха) или към ушно-носно-гърлен специалист (ЛОР). Натрупването на ушна кал е една от честите причини за загуба на слух, която лекарят може да провери. **Внезапната загуба на слух е медицински спешен случай** и NIA препоръчва незабавно посещение при лекар.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Загубата на слух може да се сбърка с обърканост. NIA отбелязва, че възрастни хора, които не чуват добре, понякога погрешно се смятат за объркани, неотзивчиви или нестанали да сътрудничат. Ако някой, когото обичате, изглежда отдръпнат или не разбира какво му се казва, проверката на слуха е добра ранна стъпка.
 
-## What are over-the-counter hearing aids?
+## Какво представляват слуховите апарати без рецепта?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+От 17 октомври 2022 г. [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) разрешава категория слухови апарати без рецепта (OTC). Ето как те се сравняват с апаратите с рецепта:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Характеристика | Слухови апарати без рецепта | Слухови апарати с рецепта |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| За кого са | Възрастни от 18 години нагоре с усещана лека до умерена загуба на слух | За всяка степен на загуба на слух, на всяка възраст |
+| Къде се купуват | В магазини или онлайн, без преглед или рецепта | От лицензиран специалист по слуха |
+| Настройка | Сами регулирате настройките, често с приложение | Специалист ги настройва според вашия слух |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA казва, че апаратите без рецепта не са предназначени за тежка или дълбока загуба на слух. Преди покупка, ако имате някое от следните състояния, FDA препоръчва първо да посетите лекар, за предпочитане ушно-носно-гърлен специалист:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Болка или дискомфорт в ухото
+- Течност, гной или кръв от ухото през последните шест месеца
+- Внезапни или колебливи промени в слуха
+- По-лош слух в едното ухо или звън само в едното ухо
+- Световъртеж или замайване
+- Много ушна кал
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Свикването със слуховите апарати изисква практика, затова, както препоръчва FDA, проверете условията за връщане преди покупка. NIA препоръчва да попитате дали застраховката ви покрива част от разходите. За човек, който живее с деменция, audiologist може да помогне да се реши кой вид апарат и каква настройка ще бъдат най-лесни за ежедневно ползване.
 
-## How can I talk more easily with someone who has hearing loss?
+## Как мога да общувам по-лесно с човек, който има загуба на слух?
 
-The NIA suggests:
+NIA препоръчва:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Обърнете се към човека и поддържайте зрителен контакт** на добро осветление, за да може да вижда устните и изражението ви.
+2. **Намерете тихо място.** Изключете телевизора или се преместете далеч от шума.
+3. **Говорете малко по-силно, но не крещете.** Говорете естествено и в разумно темпо.
+4. **Дръжте устата си открита.** Не яжте, не дъвчете дъвка и не закривайте устата си, докато говорите.
+5. **Перифразирайте, вместо да повтаряте,** когато нещо не е чуто.
+6. **Един човек наведнъж.** В група се погрижете да включите човека в разговора.
+7. **Бъдете търпеливи и попитайте как можете да помогнете.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Тези съвети работят добре заедно с нашите [съвети за общуване при деменция](/caregiving/communication-tips/). Дейностите с картинки също облекчават слушането. [Picture Pairs](/games/picture-pairs/) и [Conversation Cards](/games/conversation-cards/) се фокусират върху това, което се вижда, а [Finish the Saying](/games/finish-the-saying/) позволява да покажете края на изречението, вместо да го изричате. За разговори по телефона вижте нашето ръководство за [телефонни и видеоразговори](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Зрението също има значение
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+През 2024 г. Комисията на The Lancet добави необработеното зрително увреждане като нов рисков фактор. Според обобщението на UCL то се дължи на около 2% от случаите на деменция, а Комисията препоръчва прегледите и лечението на зрителни проблеми да бъдат достъпни за всички. [NIA препоръчва](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) разширен преглед на очите на всяка една или две години след 60-годишна възраст, както и проверка на очилата и рецептата за тях. Дори малки промени в зрението могат да повишат риска от падания.
 
-## Talk with a doctor
+## Говорете с лекар
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Попитайте лекар за проверка на слуха и зрението, ако забележите някое от описаните по-горе признаци. Потърсете помощ веднага при внезапна загуба на слух, болка в ухото или течност от ухото. Ако се грижите за човек с деменция, съобщете на неговия лекар за промени в слуха или зрението, които могат да повлияят на настроението, безопасността и на това колко добре човекът може да участва в ежедневието.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Тази страница съдържа обща информация и не е медицински съвет. Вижте нашия [медицински отказ от отговорност](/medical-disclaimer/). Прочетете повече за [социалната връзка и здравето на мозъка](/brain-health/social-connection/).

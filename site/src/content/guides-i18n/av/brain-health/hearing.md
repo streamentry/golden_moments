@@ -1,31 +1,31 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Слух ва деменция: исследованияяс щибаб хъварал"
+seoTitle: "Слух ва деменция: исследованияяс щибаб"
+description: "Гьоркьиялъ гӏуцӏ деменциялъ хьвадарал риск гуро, ACHIEVE слуховой аппараталъ гьаракьалъ чӏвай дур, ва слух ба гьоркьи рахъ хьвадарал."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024 Lancet Commission гьоркьиялъ гӏуцӏ деменциялъ гуро модифицируемый риск факторас цӏакъ ахарал
+  бичӏизе. ACHIEVE исследованиялъ слуховой аппараталъ умумий декълъ когнитивный упадок гьабулел
+  тӏаб, амма гуро риск бахъинаб бакӏаралъ упадок тӏадал къватӏи хъуна. Слуховой аппаратас гьабизе
+  ва ахъизе гьоркьиялъ барзаб кӏвани ккун. Слух ба бичӏизе, врачаса рахъ ахарал.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission хъварал, слух гуро дунялъ деменциялъ 7% гьабулел, 14 факторалъ цӏакъ рукъалъ."
+  - "ACHIEVE исследованияльалъ 977 гьоркьиялъ гӏуцӏ ишаялъ, слуховой аппаратас умумий декълъ 3-ийаб барадаркъ когнитивный упадок гьабулел тӏаб."
+  - "ACHIEVEялъ цӏакъ гуро риск бахъинаб бакӏаралъ, слуховой аппаратаса упадок 48% къватӏи хъуна; ин гьабизе тасдикъ ккун."
+  - "2022 ахаралъ октябралъ 17-илъ, АКШалъ мустакъиб гуро гьоркьи ишаялъ сабаб бакӏарал гӏуцӏ слуховой аппаратас рецептаса тӏаб магазинаялъ ккун."
+  - "2024 гьабулел, неличенный зрение ниъ деменциялъ риск факторас цӏакъ гьабулел, гьоркьиялъ глаз осмотр ккун."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Слуховой аппаратас деменция гьабизе бегьулел?"
+    a: "Ин тасдикъ гьабулел тӏаб. ACHIEVE исследованиялъ 3 соналъ гьабулел умумий декълъ когнитивный упадокалъ эффект тӏаб, амма гуро риск бахъинаб бакӏаралъ барзаб хъуна. Слуховой аппараталъ гьабизе кӏвани ккун, сабаб ин разговор, безопасность ва гьоркьи ахъизе асан гьабулел."
+  - q: "Рецептаса тӏаб слуховой аппарат ни ахизе бегьулел?"
+    a: "FDA хъварал, 18 соналъ гьоркьиялъ гӏуцӏ, перцептивно мягкий ба умеренный слух ишаялъ, магазинаялъ ба интернеталъ рецепт тӏаб ахизе бегьулел. Ин тӏаб тӏадалъ гьабулел тӏаб. Ухъ чӏвай, ухъалъ сув, головокружение ба слухалъ кӏвани вуго, врачаса рахъ ахарал."
+  - q: "Слух ба деменцияб хъварал?"
+    a: "Бегьулел. National Institute on Aging хъварал, слух тӏаб гьоркьи ишайаб дуц рукъалъ кӏудиялъ, сабаб гьоркьиялъ бичӏизе ба разговорачӏалъ мацӏа рекъараб гьабулел. Гьоркьи бичӏулел ва хабар ахъулел тӏаб гьабулел, слуховой ахаралъ мацӏлъ."
+  - q: "Гьоркьиялъ гӏуцӏ глазал кӏудиялъ ни осмотр гьабизе ккун?"
+    a: "National Institute on Aging хъварал, 60 соналъ гуро барадаркъ, гьоркьиялъ 1-2 соналъ дилатированный глаз осмотр ккун, ба глаз врачас ахарал. Диабет ба давление тӏулел гьоркьиялъ гьоркьиялъ 1 соналъ тӏаб осмотр ккун."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +50,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Гьоркьиялъ гӏуцӏ слух ахарал тӏаб, ва исследователзабаз ин деменциялъ риск факторасул цӏакъ чӏвай. Амма ин слуховой аппараталъ деменция гьабизе тасдикъ гьабулел дуцаб. Гьоркьиялъ исследованиялъ хабар ахъулел, слух ба чӏвай рецептаса тӏаб, АКШалъ магазинаялъ ккун слуховой аппаратас, ва разговор асанаб гьабизе рахъ ахарал.
 
-## Why does hearing matter for brain health?
+## Слух гьоркьи мускьалъ бегьулел?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Слух гьабулел риск деменциялъ цӏакъ гьабулел. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) хъварал, ин дунялъ деменциялъ 7% гьабулел. Ин 14 модифицируемый риск факторасул цӏакъ, LDL холестерин тӏаб ахъулел, [UCL-ийин хабар](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) хъварал.
 
-Key findings from the Commission:
+Commission-ийин цӏакъ хабарал:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Слух гуро риск гьабулел.** Ишаялъ, 6 чӏвай исследованиялъ, слух тӏаб гьоркьиялъ деменциялъ 37% барадаркъ риск гьабулел, нормальный слух тӏаб гьоркьиялъ бахъинаб.
+- **Гуро слух, гуро риск.** Исследованияльалъ слух гуро хъуна, риск барадаркъ хъуна.
+- **Бегьулел себаб, амма тасдикъ дуцаб.** Одиночество ва отдаление, депрессия, мозгалъ кӏудияб стимуляция, ба слушаялъ гьабулел кӏудияб усилие.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Слух ахарал. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) хъварал, гьоркьиялъ гӏуцӏ 3-ийаб барадаркъ ахарал слух, ва ин барадаркъ гьабулел соналъ.
 
-## What did the ACHIEVE hearing aid trial find?
+## ACHIEVE слуховой аппараталъ исследованиялъ ни чӏвай?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE исследование слуховой аппараталъ ва когнитивный упадокалъ гьабулел рандомизированный исследование гьабулел. Ин мацӏ цӏакъ гьабулел гъвач тӏаб, ва ин [опубликованный отчет](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) хъварал.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Ни гьабулел:** 977 гӏуцӏ ишаялъ, 70-84 соналъ, лечение тӏаб слух ва ахъулел дуцаб когнитивный проблема, 4 АКШ участокалъ.
+- **Ни сравнивал:** Гьабулел кӏудиялъ слуховой аппараталъ ва аудиолог тӏаб беседа. Гьабулел кӏудиялъ гьоркьи ахъулел тӏаб здоровье хабар.
+- **Цӏакъ результат:** 3 соналъ гьабулел, ике групплъ умумий декълъ когнитивный упадокалъ **разница дуцаб**.
+- **Подгруппа результат:** Исследование ике источникалъ гьабулел. 238 ишайаб ARIC сердечный исследованиялъ гьабулел, ва ин групплъ гуро риск гьабулел. Ин групплъ упадок слуховой аппаратаса **48% къватӏи** гьабулел. 739 здоровый волонтерлъ эффект ахъулел дуцаб.
 
-How to read this honestly:
+Ин хабар гьоркьи мацӏлъ:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Умумий ответ: эффект дуцаб.
+- Подгруппаялъ цӏакъ гьабулел, амма ин кӏвалаб групплъ дуб анализ гьабулел. Ин тасдикъ гьабизе кӏудияб исследованиялъ ккун.
+- Участникаби бичӏулел гьабулел, ин результат тӏаб гьабулел.
+- Lancet Commission хъварал, слуховой аппарат гуро помощь гьабулел гьоркьи, гьабулел слух ва деменциялъ бахъинаб риск факторас тӏаб.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Нухалъ, слуховой аппарат деменция гьабизе тасдикъ гьабулел тӏаб дуцаб. Амма ин слух ахъизе, разговорачӏалъ кӏудиялъ, ва гьоркьиялъ кӏвани ккун.
 
-## How do I know if hearing should be checked?
+## Слух ахъизе ни ккун?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA хъварал, врачас рахъ ахарал, гьоркьиялъ ишаялъ ба гьоркьи:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Телефоналъ гьабулел ахъизе гьабулел чӏвай
+- Ике ба гуро гьабулел хабар гьабулел разговор бичӏизе чӏвай
+- Гьабулел кӏудиялъ "пунт бахъизе" гьабулел
+- Телевизор гуро гьабулел, кӏудияб гьабулел гьоркьи шикаят гьабулел
+- Шумалъ разговор ахъизе чӏвай
+- Гьабулел кӏудиялъ "мямлят" гьабулел хабар
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Первичный врач рахъ ахарал, ин аудиолог (слух специалист) ба ухо-горло-нос врач рецепт гьабизе бегьулел. Ухъалъ воск гьабулел слухалъ цӏакъ себаб, врач проверка гьабулел. **Внезапный слух тӏаб — экстренный случай**, NIA хъварал, сразу врач рахъ ахарал.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Слух гьабулел путаница гьабизе бегьулел. NIA хъварал, гуро ишаялъ слух ахъулел дуцаб, гьабулел "путаный", "неотзывчивый" ба "неуступчивый" хъварал. Гьоркьи гьабулел отдаление ба хабар тӏаб, слух проверка гьабизе асан гьабулел.
 
-## What are over-the-counter hearing aids?
+## Рецептаса тӏаб слуховой аппараталъ ни?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Октябралъ 17-илъ, 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) рецепт тӏаб слуховой аппаратас категория ахъулел. Ин рецептаса тӏаб аппараталъ гьабулел:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Признак | Рецепт тӏаб аппарат | Рецептаса аппарат |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Ни ккун | 18 соналъ гуро, перцептивно мягкий-умеренный слух | Любой слух, любой возраст |
+| Ни ахизе | Магазинаялъ ба интернеталъ, осмотр ба рецепт дуцаб | Лицензированный специалист |
+| Настройка | Гьабулел ахъулел, гьоркьи приложение | Специалист гьабулел слух ахъулел |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA хъварал, рецепт тӏаб аппарат тӏадалъ ва глубокий слух ахъулел дуцаб. Ахизе рахъ ахарал врач, гуро ухо-горло-нос специалист, ахъулел чӏвай:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Ухъ чӏвай ба неприятность
+- Гьабулел 6 мацӏалъ ухъалъ сув, гной ба кровь
+- Внезапный ба меняющийся слух
+- Ике ухъалъ слух тӏаб, ба ике ухъалъ звон
+- Головокружение
+- Гуро воск
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Слуховой аппараталъ привыкание кӏудияб, гьабулел FDA хъварал, ахизе гьоркьи возврат правило проверка гьабулел. NIA хъварал, страховка цена кӏудиялъ гьабизе бегьулел проверка гьабулел. Деменциялъ гьабулел гьоркьиялъ, аудиолог гьабулел аппарат ба настройка ахъулел, гьоркьи ахъулел асан.
 
-## How can I talk more easily with someone who has hearing loss?
+## Слух тӏаб гьоркьи бичӏизе ни асан разговор?
 
-The NIA suggests:
+NIA хъварал:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Гьоркьиялъ чӏвай, глаз рукъалъ.** Хъуна ба гьоркьи, гьабулел хабар кӏудиялъ, губ ба эмоция гьабулел.
+2. **Гуро гьабулел мест тӏаб.** Телевизор бахъизе ба шум тӏаб тӏа.
+3. **Гуро кӏудиялъ, амма кричать гьабулел дуцаб.** Адаб хабар ба асан скорость.
+4. **Губ тӏаб гьабулел.** Жвачка тӏаб ба губ тӏаб разговор гьабулел дуцаб.
+5. **Хабар тӏаб, повторять гьабулел дуцаб.** Ин гьабулел иначе хъварал.
+6. **Бегьулел гьабулел.** Группалъ гьоркьи рекъараб гьабулел.
+7. **Терпение, ва ни помощь гьабизе бегьулел хъварал.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ин совет [наш гьабулел деменциялъ разговор](/caregiving/communication-tips/) тӏаб. Картинкаялъ гьабулел слушать гьабулел асан. [Picture Pairs](/games/picture-pairs/) ва [Conversation Cards](/games/conversation-cards/) гьабулел гьоркьиялъ хабар гьабулел, ва [Finish the Saying](/games/finish-the-saying/) ахъулел. Звонок гьабизе, [телефон ва видеозвонки](/activities/phone-and-video-calls/) гьабулел.
 
-## Vision matters too
+## Зрение ҳам кӏудиялъ
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 Lancet Commission неличенный зрение гуро риск факторас цӏакъ гьабулел. UCL хабар хъварал, ин деменция 2% гьабулел, ва Commission хъварал, зрение проблема проверка ва лечение гьоркьиялъ ахъулел ккун. [NIA хъварал](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes), 60 соналъ гуро барадаркъ, 1-2 соналъ дилатированный глаз осмотр, ва очки рецепт проверка ккун. Бичӏизе ахъулел зрение ҳам гуро риск падение гьабулел.
 
-## Talk with a doctor
+## Врачаса рахъ ахарал
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Ин хабар тӏаб, слух ва зрение проверка гьабизе врачас рахъ ахарал. Внезапный слух, ухъ чӏвай ба ухъалъ сув гьабулел, сразу врач рахъ ахарал. Деменциялъ гьабулел гьоркьи гьабулел, гьоркьиялъ врачас рахъ ахарал слух ба зрение тӏаб, ин настроение, безопасность ва гьоркьи разговорачӏалъ гуро гьабулел.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Ин хабар общий информация, медицинский совет дуцаб. [Медицинский отказ](/medical-disclaimer/) гьабулел. Гьоркьи [социальный связь ва мозг здоровье](/brain-health/social-connection/) гьабулел ахъулел.

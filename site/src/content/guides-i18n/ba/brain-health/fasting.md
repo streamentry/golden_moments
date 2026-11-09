@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Аралаш ашамау һәм деменция: фәндәр нимә әйтә"
+seoTitle: "Аралаш ашамау һәм деменция: тикшеренеүҙәр нимә әйтә"
+description: "Аралаш ашамаудың деменцияға ҡағылышы тураһындағы дәлилдәр сикле һәм башлангыс. Өлкән кешеләр өсөн хәүефтәр һәм деменция менән йәшәгән кеше өсөн ашау-эсеү ни өсөн мөһимерәк."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Аралаш ашамаудың деменцияны булдырыуы йәки уның барышын әкренәйтеүе
+  тураһында яҡшы дәлил юҡ. Күп тикшеренеүҙәр хайуандар өҫтөндә үткәрелгән, ә
+  өлкән кешеләр менән кеше тикшеренеүҙәре кесерәк һәм ҡыҫҡа. Ашамау өлкән
+  кешеләр өсөн хәүефле булырға мөмкин: тән ауырлығы һәм мускул юғалыу, кайһы
+  диабет дарыуҙары менән ҡан шикәре бик түбән төшөү, һыуһыҙланыу һәм ҡолау.
+  Деменция менән йәшәгән кешеләр өсөн, ғәҙәттә, еткән аш-һыу ашау-эсеү
+  мөһимерәк мәсьәлә. Тәү сиратта табип менән кәңәшләшегеҙ.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "АҠШ-тың Картайыу буйынса милли институты әйтеүенсә, ниндәй генә ашамау йәки калорияны сикләү режимын тәҡдим итергә етерлек дәлил юҡ, айырыуса өлкән кешеләр өсөн."
+  - "Ашамау һәм картайыу тураһындағы тикшеренеүҙәрҙең күбеһе хайуандарҙан алынған, ә был һөҙөмтәләр кешегә һис тә тап килмәүе мөмкин."
+  - "Өлкән кешеләр өсөн мөмкин булған хәүефтәр: ниәт итмәгән ауырлыҡ кәмеү, мускул юғалыу, кайһы диабет дарыуҙары менән ҡан шикәре түбән төшөү, һыуһыҙланыу, баш әйләнеү һәм ҡолау."
+  - "Деменция менән йәшәгән кешеләр күп осраҡта ашарға йәки эсергә онотола, йәки ашағанын ҡайтаҡтан күҙаллай. Уларға еткән аш-һыу ашарға ярҙам итеү, ғәҙәттә, ҡасан ашауҙан бик мөһимерәк."
+  - "Деменция менән йәшәгән кеше өсөн ашамауҙы ҡулланмағыҙ. Ашау режимын үҙгәртер алдынан табип йәки теркәлгән диетолог менән кәңәшләшегеҙ."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Аралаш ашамау Альцгеймерҙы булдыра алamы?"
+    a: "Был тураһында яҡшы дәлил юҡ. Күп тикшеренеүҙәр хайуандар өҫтөндә үткәрелгән, кеше менән һынауҙар күбеһенсә ҡыҫҡа булған, йәш йәки артыҡ ауырлыҡлы кешеләр менән үткәрелгән һәм ауырлыҡ кәметеүгә бағышланған. АҠШ-тың Картайыу буйынса милли институты халыҡҡа ашамау режимдарын тәҡдим итергә етерлек дәлил юҡ, тип әйтә."
+  - q: "Аралаш ашамау өлкән кешеләр өсөн хәүефһеҙме?"
+    a: "Бәлки, хәүефһеҙ түгелдер. Ашамау ниәт итмәгән ауырлыҡ һәм мускул юғалыуына, һыуһыҙланыуға, баш әйләнеүгә һәм ҡолауға килтерергә мөмкин, инсулин йәки кайһы диабет дарыуҙарын эскән кешеләрҙә ҡан шикәре хәүефле дәрәжәлә түбән төшөргә лә мөмкин. Mayo Clinic әйтеүенсә, ул ҡойроҡ һөйәктәренең юғалыу һәм ҡолау хәүефе юғары кешеләргә тап килмәүе мөмкин. Башлар алдынан табип менән кәңәшләшегеҙ."
+  - q: "Деменциялы кеше ашамауҙы һынарға тейешме?"
+    a: "Юк. Деменция менән йәшәгән кешеләргә күп осраҡта еткән аш-һыу ашау-эсеү ауыр була, һәм насар туҡланыу тәртип симптомдарын көсәйтергә һәм ауырлыҡтың төшөүенә килтерергә мөмкин. Ашамау исбатланған файҙаһыҙ хәүеф өҫтәй. Урынға, мөнтәзәм ашауға, яратҡан аш-туҙынан һәм еткән эсемлектәргә иғтибар итегеҙ."
+  - q: "Деменциялы кеше еткән аш-һыу ашамауының билдәләре нимә?"
+    a: "Ауырлыҡтың төшөүен, кейемдең буш булып китеүен, арыуҙы, көсһөҙлөктө, эсәк ҡаты булыуын йәки аш ашаудан баш тартыуҙы күҙәтегеҙ. АҠШ-тың Картайыу буйынса милли институты күрһәткән һыуһыҙланыу билдәләре: ауыҙ ҡороуы, баш әйләнеүе, йөрәк тибешенең тиҙләшеүе һәм күҙгә күренмәгән нәмәләрҙе күреү. Был билдәләрҙе күргәндә, уның табибына әйтегеҙ."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Аралаш ашамау, мәҫәлән, тәүлектең бер ни тиклем сәғәт эсендә генә ашау йәки ике көндә ашауҙы бик кәметеү, күп иғтибар яулай, һәм кайһы мәҡәләләр уның мейене һаҡлай ала тип яҙа. Һеҙ өлкән кеше булһағыҙ йәки деменция менән йәшәгән кешегә ҡарайһығыҙ икән, фәндәр ысынлап нимә күрһәтә һәм ниңә иғтиятлелек кәрәк — шуны аңлатабыҙ.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Был умумилек мәғлүмәт, медицина кәңәше түгел. Ашауҙы башламағыҙ йәки ҡараған кешеегеҙҙең ашауын үҙгәртмәгеҙ, табип йәки теркәлгән диетолог менән кәңәшләшмәйенсә. Беҙҙең [медицина иҫкәртеүе](/medical-disclaimer/) менән танышығыҙ.
 
-## Does intermittent fasting prevent dementia?
+## Аралаш ашамау деменцияны булдыра аламы?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Аралаш ашамаудың деменцияны булдырыуы йәки уның барышын әкренәйтеүе тураһында яҡшы дәлил юҡ. АҠШ-тың Картайыу буйынса милли институты (NIA) әйтеүенсә, ҡайһы генә калорияны сикләү йәки ашамау режимын тәҡдим итергә етерлек дәлил юҡ, һәм уның эффективлығы һәм хәүефһеҙлеге тураһында, айырыуса өлкән кешеләр өсөн, әле күп нәмә өйрәнергә кәрәк ([NIA: калорияны сикләү һәм ашамау тураһында](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Дәлилдәр ни өсөн бик сикле
 
-The NIA gives several reasons:
+NIA бер нисә сәбәп килтерә:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Тикшеренеүҙәрҙең күбеһе хайуандарҙа үткәрелгән.** Тычҡандарҙа, сиғырсаҡтарҙа, маймылдарҙа һәм тағы башҡа хайуандарҙа һығымталар ҡыҙыҡлы булған, ләкин улар кешегә һис тә тап килмәүе мөмкин. Хайуандарҙа ла һөҙөмтәләр төрлө: кайһы тычҡан төрҙәрендә калорияны сикләү ғүмерҙе ҡыҫҡарткан.
+- **Кеше менән һынауҙар ҡыҫҡа булған.** Күбеһе бер нисә аҙнанан бер нисә айға тиклем барған.
+- **Күпселек кеше менән һынауҙар** артыҡ ауырлыҡлы кешеләрҙә ауырлыҡ кәметеүгә бағышланған, хәтер йәки деменцияға түгел.
+- **Өлкән кешеләр һирәк ҡатнаша.** Күп һынауҙарға 60 йәш һәм унан кәм кешеләр алынған.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026 йылда үткәрелгән системалы тикшеренеү айырыуса 60 йәш һәм уларҙан өлкән кешеләргә аралаш ашамауға бағышланған. Был йәштәге дәлилдәр әле сикле булып ҡала: кесе тикшеренеүҙәр, ҡыҫҡа күҙәтеү һәм төрлө булған дизайндар. Фекерләү һәм хәтер тураһындағы һығымталар айырым тикшеренеүҙәрҙән алынған, уртаҡ һөҙөмтә юҡ. Тикшеренеүҙә шулай уҡ кайһы тикшеренеүҙәр бик ҡыҫҡа ашау тәҙрәһен йәки оҙон ашамауҙы насар һөҙөмтәләр менән бәйләгән, һәм авторҙар өлкән кешеләр өсөн иғтиятлелекте кәңәш иткән ([Nutrients журналындағы 2026 йыл тикшеренеүе](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Кайһы фәнсеҙҙәр ашамау ваҡытында тәндең ярҙар яғына, йәғни ағыҙ янығыуға күсеүе мейегә йоғонто яһағанын уйлай, ләкин был әле өйрәнелә торған фараз. NIA фәндең әле асыҡ түгеллеген билдәләй.
 
-## What are the risks of fasting for older adults?
+## Өлкән кешеләр өсөн ашамауҙың хәүефтәре нимә?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Күп өлкән кешеләр өсөн ашамау зарарһыҙ тәжрибә түгел. Мөмкин булған хәүефтәр:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Ниәт итмәгән ауырлыҡ кәмеү.** Тәнгә кәрәгенән аҙ ашау ауырлыҡтың кәмеүенә һәм мускул көсөнөң кәмеүенә килтерергә мөмкин, был кешене нығыраҡ ҡыҙғанысҡа ҡалдыра.
+- **Мускул һәм һөйәк юғалыуы.** NIA ярҙам иткән, йәш һәм урта йәштәге кешеләр өҫтөндә ике йыллыҡ калорияны сикләү һынауында ҡатнашыусыларҙа һөйәк тығыҙлығы һәм тән мускулы бер аҙ кәмегән.
+- **Диабет дарыуҙары менән ҡан шикәре түбән төшөү.** Инсулин йәки кайһы диабет дарыуҙарын эскән кешеләрҙә, ашауҙы ҡалдырһа йәки һуҙһа, ҡан шикәре бик түбән төшөргә мөмкин, тип иҫкәртә [Диабет, эшкәртеү һәм бөйөр ауырыуҙары милли институты](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Түбән ҡан шикәре баш әйләнеүгә, аңғармаҫлыҡҡа һәм асыуланыуға килтерергә мөмкин.
+- **Һыуһыҙланыу.** Ашау менән бергә эсемлектәр ҡалдырылһа, кеше һыуһыҙлана ала.
+- **Баш әйләнеү һәм ҡолау.** Mayo Clinic әйтеүенсә, аралаш ашамау кешене бик арыта һәм баш әйләндерә ала, һәм ул ҡойроҡ һөйәктәренең юғалыу һәм ҡолау хәүефе юғары кешеләр өсөн һаулыҡлы режим булмаҫҡа мөмкин ([Mayo Clinic: аралаш ашамау тураһында](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Башҡа эффекттар.** Mayo Clinic шулай уҡ баш ауырыуын, кәйефтең үҙгәреүен һәм эсәк ҡаты булыуын атай, һәм 16 сәғәт ашамау менән 8 сәғәт ашау тәҙрәһенең йөрәк ауырыуы хәүефен башҡа ашау тәҙрәләренә ҡарағанда арттырыуы мөмкин тигән дәлилдәр бар тип яҙа. Был дәлил әле асыҡланмаған.
 
-## Why is eating enough the bigger concern with dementia?
+## Деменция менән йәшәгән кешеләр өсөн ни өсөн еткән аш-һыу ашау мөһимерәк?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Деменция менән йәшәгән кешеләр өсөн, ғәҙәттә, мәсьәлә күп ашау түгел, ә **еткән** аш-һыу ашау. Альцгеймер берләшмәһе (Alzheimer's Association) аңлатыуынса, урта һәм һуңғы баҫҡыстағы кешеләр аш һайлауҙан ҡыйналырға, ашарға онотоп ҡуйырға йәки инде ашап бөткәндәрен уйларға мөмкин. Шулай уҡ насар туҡланыу тәртип симптомдарын көсәйтергә һәм ауырлыҡтың кәмеүенә килтерергә мөмкин, тип әйтә ул ([Альцгеймер берләшмәһе: аш һәм ашау тураһында](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Альцгеймер йәмғиәте (Alzheimer's Society) билдәләүенсә, еткәрелмәгән ашау ауырлыҡтың төшөүенә, мускул көсөнөң кәмеүенә, арыуға һәм көсһөҙлөккә килтерергә мөмкин, был кешене нығыраҡ ҡыҙғанысҡа ҡалдыра һәм инфекциянан тергеҙелеүен кыйындыра ([Альцгеймер йәмғиәте: аппетит тураһында](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Был сәбәптәр арҡаһында деменция менән йәшәгән кеше өсөн ашамау яҡшы фекер түгел.** Ҡалдырылған ашау һаман ашарға онотолған ашауға әйләнергә мөмкин. Деменциялы кешенең ашау ысулын үҙгәртеү уның табибы йәки теркәлгән диетологы менән килешелергә тейеш.
 
-## What are the warning signs of poor eating or drinking?
+## Ашау йәки эсеү еткәнһеҙлеге билдәләре нимә?
 
-Watch for:
+Күҙәтегеҙ:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Ауырлыҡтың төшөүен**, йәки кейемдең буш булып китеүен.
+- **Аш ҡалдырыуҙы йәки аш ашаудан баш тартыуҙы**, йәки ауыҙҙа аш тотоуҙы.
+- **Арыуҙы йәки көсһөҙлөктө.**
+- **Эсәк ҡаты булыуын**, был аш һәм һыуһыҙланыу менән бәйле булырға мөмкин.
+- **Һыуһыҙланыу билдәләрен.** NIA ауыҙ ҡороуын, баш әйләнеүен, йөрәк тибешенең тиҙләшеүен һәм күҙгә күренмәгән нәмәләрҙе күреүҙе атай; был билдәләр деменцияның үҙе арҡаһында ла булырға мөмкин ([NIA: уртаҡ медицина проблемалары тураһында](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Аппетиттың кәмеүенең күп сәбәптәре бар: тештәр ауырта йәки протез бош, яңы дарыулар, депрессия, эсәк ҡаты булыуы, әҙерәк хәрәкәт, йәки тәм һәм еҫ тойғоһоноң үҙгәреүе. Был билдәләрҙең береһе булһа ла, кешенең табибына әйтегеҙ. Табип сәбәбен эҙләй ала һәм диетолог йәки туҡлыҡ өҫтәмәләре тәҡдим итергә мөмкин.
 
-## How can you help someone eat and drink enough?
+## Кешенең еткән аш-һыу ашауына нисек ярҙам итергә мөмкин?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Ешерәк кbecek һәм бәләкәй ашау итегеҙ**, өс ҙур ашау урынына.
+- **Яратҡан аш-туҙын тәҡдим итегеҙ**, һәм тәм үҙгәргәндә еңелсә булығыҙ. Аппетит кәм булһа, татлы аш-туҙын ҡабул ителергә мөмкин; ҡәнт сикләргә медицина сәбәптәре бар-юҡлығын табиптан һорағыҙ.
+- **Эсемлектәрҙе ҡулдан алыҫ түгел тотоғоҙ** һәм көн буйы бәләкәй стакандарҙа тәҡдим итегеҙ. Шулай уҡ шыйыҡ аш, емеш, смузи һәм молочный коктейль дә иҫәпкә инә.
+- **Мөмкин булғанда бергә ашағыҙ.** Ашау — компания өсөн мөмкинлек, ашыҡтырыла торған эш түгел.
+- **Ҡулдан ашарға еңел аш-туҙынан** ҡулланығыҙ, мәҫәлән, бутерброд, емеш киҫәктәре йәки тауыҡ киҫәктәре, әгәр ашау әсбаптары ҡыйын булһа.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Беҙҙең [диета буйынса ҡулланма](/brain-health/diet/) ашау вакытына тағы ла фекерҙәр бирә. Аш әҙерләүгә ярҙам итеү ҙә бергәлләп уйнаған яҡшы эш була ала; ҡарағыҙ: [өй эштәре](/activities/household-tasks/).
 
-## Talk with a doctor
+## Табип менән кәңәшләшегеҙ
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Үҙегеҙ ашамау планын башлар алдынан табип йәки теркәлгән диетолог менән һөйләшегеҙ, айырыуса әгәр диабет йәки ҡан баҫымы дарыуҙары ҡабул итһәгеҙ, яҡында ауырлыҡ юғалтһағыҙ, йәки ҡолағанығыҙ булһа. Деменция менән йәшәгән кеше өсөн, ашамауҙан һуң, уның көнөнә нисә граммдың ашарға һәм эсергә тейешлеген табибынан һорағыҙ.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Ашыҡтыс медицина ярҙамы кәрәк булған осраҡ: кинәт аңғармаҫлыҡ, һуғылыу, йәки шәкәр бик түбән булыуҙың тиҙ уңмай торған билдәләре.

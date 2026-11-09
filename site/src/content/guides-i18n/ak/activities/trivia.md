@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Nsɛmmisa a Ɛyɛ Yie ma Nnipa a Wɔwɔ Dementia, Enni Ahohia"
+seoTitle: "Nsɛmmisa ma Nnipa a Wɔwɔ Dementia, Ne Mmuae"
+description: "Nsɛmmisa 50 a ɛyɛ yie ma nnipa a wɔwɔ dementia, wɔ mmuae akyinnyeɛ ne nsɛm a wobɛka mu, ne sɛnea wɔbɛyɛ trivia a obiara remfa ho ahohia."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Trivia ma nnipa a wɔwɔ dementia yɛ yie sɛ ɛyɛ nkɔmmɔ, ɛnyɛ ɔsɔhwɛ. Bisa
+  nneɛma a wosuaa wɔ bere a atwam, te sɛ nnwom a ɛtɔ so, mmebusɛm, afahyɛ ne
+  nkwa a ɛyɛ da biara, na ma mmuae abiɛsa anaa abien ayɛ ho nhyehyɛe daa. Ma
+  mmuae no wɔ anuonyam mu, nnyɛ obi ho mmoa, nnyina mmɔden ho, na fa mmuae biara
+  sɛ ɛbɛma abɔdeɛ. Nsɛmmisa a amumuyɛ biara nni mu boa ma ɛberɛ a ɔyare no akɔ
+  akyiri.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Bisa nneɛma a wɔsuaa dedaw: nnwom, mmebusɛm, afahyɛ, aduane ne nkwa a ɛyɛ da biara wɔ bere a atwam."
+  - "Ma mmuae abiɛsa anaa abien ɔkwan a obi bɛtumi ahu mmuae no mmom sɛ ɔbɛkae."
+  - "Ka mmuae no wɔ anuonyam mu na kɔ so. Abisa biara a ɛma asɛm bɛtɔ so yɛ abisa a ɛyɛ."
+  - "Mfeɛ nni hɔ, ɛnyɛ nnipa a wɔpere sɛ ɛntɔ, na ɛnyɛ obi nkyɛn na wobɛfrɛ. Ma mmuae nam nnipa nyinaa mu ba."
+  - "Sɛ ɛyɛ den sɛ wobɛpaw mmuae, sesa kɔ nsɛmmisa a ɛyɛ 'Yi anaa Yei' a mmuae nni mu tɔ."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Trivia yɛ dwumadie a ɛfata ma nnipa a wɔwɔ dementia anaa?"
+    a: "Ɛbɛtumi ayɛ, sɛ wɔyɛ no nyinaa yɛ mmerɛ. Alzheimer's Foundation of America kyerɛ sɛ trivia yɛ so wɔ dwumadie a ɛfata ma ɛberɛ a ɔyare no rehyɛ ase. Fa nsɛmmisa a ɛfa nneɛma a asuaa wɔ bere a atwam ho, ma mmuae, nnyina obi ho mmoa, na fa mmuae no sɛ kwan a wɔfa so rekɔ nkɔmmɔ mu, ɛnyɛ sɛ ɛyɛ ɔsɔhwɛ."
+  - q: "Nsɛm bɛn na ɛyɛ yie ma trivia a ɛfa dementia ho?"
+    a: "Nneɛma a wɔsuaa wɔ bere a atwam na ɛtɔ so yie: nnwom a nnipa tɔ so ne nnwomfo wɔ ɔbarima ne ɔbaa mmerɛ mu, mmebusɛm a wɔka daa, afahyɛ, aduane, mmerɛ ne nkwa a ɛyɛ da biara, te sɛ aduane a wɔde fi nkuro ma ne ntorɔ a wɔfa ne tɔ sɛ 'telefon' a wɔbɛfa. Gyae asɛm foforo a wɔtetew ho ne nneɛma a ehia sɛ wokae biribi a ɛfiri saa berɛ no mu."
+  - q: "Ɛdeɛn na mɛyɛ trivia wɔ ɔdan a wɔhwɛ nnipa mu a ɛremfa nsow obiara?"
+    a: "Kenkan nsɛmmisa no kyerɛ ayɛfo nyinaa, de mmuae kyerɛ wɔn, na ma obiara a ɔwɔ hɔ nnye mmuae. Nnfrɛ obi biara nkyerɛ ne sɛ ɔnkyerɛ mmuae, na nnyina nkontaabu. Ka mmuae no ne anigye, ɛnyɛ asɛm sɛ wɔsɔ nea wɔbuaa, na bisa nsɛmmisa a ɛkɔ akyiri te sɛ 'Ɛhɔ nnipa biara a wɔkɔɔ drive-in bere bi?' sɛnea wɔbɛyɛ asɛm."
+  - q: "Ɛdeɛn na mɛyɛ bere a ɔyare no akɔ akyiri mu sɛ mɛgyae trivia?"
+    a: "Sesa kɔ nsɛmmisa a amumuyɛ biara nni mu, te sɛ 'Kɔfi anaa tii?' anaa 'Mframa kɛse anaa bepɔw?' ne sɛ wobɛka mmebusɛm anaa nnwom a wɔasuaa no bom. Wɔ mfonini ho, wɔ wɔn ho ka ho nso yɛ yie."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Trivia yɛ dwumadie a nnipa pii pɛ wɔ ɔdan a wɔhwɛ nnipa mu ne afɛ a wɔyɛ ho ho ne nkɔmmɔ mu, na abusua pii nso yɛ no wɔ wɔn aduane adan mu. Sɛ wɔyɛ no sɛnea ɛyɛ daa, a mmuae ne ntoto ka ho, ɛbɛma obi a wɔwɔ dementia ani abɔ sɛ wɔrehwɛ no. Sɛ wɔyɛ no yie, ɛyɛ akwan a ɛyɛ anigye so de tie nkɔmmɔ. Wɔ hɔ, wɔde nsɛmmisa 50 a ɛyɛ yie ne mmuae mmiaasa ne asɛm a wɔbɛka ma biribiara, a ɛdi so de kyerɛ sɛnea wɔbɛyɛ nkɔmmɔ.
 
-## How do you make trivia work for someone with dementia?
+## Ɛdeɛn na wobɛyɛ trivia ma obi a wɔwɔ dementia atumi aye?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Ma ɛnyɛ nea ɛfa nneɛma a wosuaa wɔ bere a atwam ho na wɔbɛkae, na ma mmuae biara nyɛ ɛfɛ.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Bisa nneɛma a efi akyirikyiri.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) kyerɛ sɛ Alzheimer's a ɛba ɛberɛ a ɛrehyɛ ase no ada so sɛ nkaebɔ a ɛtɔ so ne sɛ ɛyɛ den ma obi kae nneɛma foforo a wasua. Nnwom, mmebusɛm ne nkwa a ɛyɛ da biara fi mfeɛ a atwam no mu ɛyɛ hia kɛse kɔ so.
+2. **Ma mmuae daa.** Ɛyɛ mmerɛ sɛ obi bɛpaw mmuae a ɛyɛ no fi mmuae abiɛsa anaa abien mu sen sɛ ɔbɛka mmuae a ɛyɛ no fi ne ti mu.
+3. **Kenkan nsɛmmisa no kɛse na hwɛ ɛmfa.** Ɛboa sɛ wobɛde tabe kɛse anaa tablet a wɔbɛma nnipa a ntease ye bɛhwɛ.
+4. **Ma mmuae no anigye.** Sɛ obiara nnim, ka mmuae no ɛne anigye na kɔ so. Nkɔ so ka "Monkɔ, wunim saa" bio.
+5. **Nkontaabu nni hɔ.** Nnyɛ nkontaabu ma obi ankasa na nnyɛ nkontaabu ma nnipa a wɔtete bo mu. Sɛ nnipa pɛ nkontaabu, ɛnyɛ mmoa kɛse biako nyinaa.
+6. **Nnfrɛ obi biako.** Ma mmuae nam obiara mu ba. Sɛ ɛyɛ nnipa biako nkyɛn, ka mmuae no bom: "Mesusuw sɛ ɛyɛ piano. Wo ankasa wosusuw sɛ dɛn?"
+7. **Fa asɛm a ɛwɔ nsɛmmisa no mu di dwuma.** Mmuae no yɛ ɛfiase, ɛnyɛ awiei. Asɛm no ne nea yɛpɛ.
+8. **Ma ɛnyɛ tenten.** Nsɛmmisa mmienu anaa mmienu ne asɛm a wɔka wɔ mu no ɛboro, ɛfata.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka mmara a ɛyɛ titiriw no sɛnkyerɛnne: hwɛ sɛ obi rentete ne ho ano, na hwɛ sɛ obi no ahu sɛ ɔayɛ adwuma yie. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kyerɛ sɛ trivia yɛ dwumadie a ɛfata ma ɛberɛ a ɔyare no rehyɛ ase. Wɔ ɛberɛ a ɛyɛ mfinimfini no, fa mmuae mmienu ara na fa asɛm a ɛwɔ nsɛmmisa no mu di dwuma. Ɛberɛ a ɛkɔ akyiri no, sesa kɔ 'Yi anaa Yei' nsɛmmisa a ɛwɔ ase no.
 
-## Music and entertainment trivia
+## Nnwom ne akwanside trivia
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Mmuae no wɔ **mmɔfra** mu. Yɛ saa nsɛmmisa yi ma obi: obi a wakɔ nkuro a wɔatwa so ka Motown a ɔbɛpɛ anyimyɛ ahyɛn nnwomfo a ɛyɛ foforo sen obi a ɔdaa Big Band nnwom.
 
-| Question | Choices | Talk about |
+| Nsɛmmisa | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Hena na wɔfrɛɛ no King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Wohui Elvis wɔ TV so anaa? |
+| Dɛn nnwomfo na wɔfrɛ no Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Sinatra nnwom bɛn na wopɛ sen biara? |
+| Bing Crosby hwehwɛɛ sɛ Krismas a ɛyɛ... | **Krismas**, ayeforo, fie | Yɛ nnwom no mmɔfra bi bom |
+| Louis Armstrong totoo "What a Wonderful..." | Da, **Wiase**, Nkwa | Dɛn na ɛma wiase yɛ anigye ma wo? |
+| "Over the Rainbow" a Judy Garland totoo wɔ sini bɛn mu? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Wohui wo ho sini a wopɛ wɔ he? |
+| Hena na ɔyɛɛ Lucy wɔ "I Love Lucy" mu? | **Lucille Ball**, Doris Day, Betty White | TV sɛnea bɛn na wo abusua hwɛɛ bom? |
+| Ɔkɔboy bɛn na ɔtenaa akɔnnɔa a wɔfrɛ no Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Woyɛɛ ɔkɔboy wɔ mmofra mmere mu anaa? |
+| Hena na ɔdaa "The Tonight Show" mfe 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | Woforo TV dadwow anaa? |
+| Ɛdwumadie bɛn na ɛwɔ mmɛnkyɛn 88? | Gitaa, **piano**, trumpet | Obi wɔ wo abusua mu a ɔtu piano anaa? |
+| Anyanyɛ bɛn na wɔkan sɛ ɛyɛ baako-mmienu-abiɛsa, baako-mmienu-abiɛsa? | **Waltz**, twist, tango | Wofinii anyanyɛ wɔ he? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Sɛ wopɛ nsɛm kɛse wɔ nnwom ho, hwɛ [dwumadie a ɛfa nnwom ho ma dementia](/activities/music/).
 
-## Everyday life trivia
+## Adan nneɛma a ɛwɔ da biara mu trivia
 
-| Question | Choices | Talk about |
+| Nsɛmmisa | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Ansa na firiji reba no, fie pii kora aduane wɔ... | **Icebox**, oven, atiko | Hena na ɔde ice bɛba? |
+| Hena na ɔde nufɔ bɛba ɔpon wɔ ahoma a wɔde nkaa yɛ no mu? | Akwadaa a ɔde leta bɛba, **nufɔ fo**, akwadaa a ɔde nkɔsoɔ bɛba | Ɛdeɛn foforo na wɔde bɛba fie? |
+| Ɛdeɛn na wɔfrɛ telefon a ɛyɛ rotary? | Ntoto botum, **ɔnam so kɔ nkasa**, ka kyerɛ no | Ka asɛm ho nea ɛwɔ wo fie telefon ho |
+| Kompani bɛn na ɔyɛe Model T kar? | **Ford**, Chevrolet, Buick | Ka kar a wopɛ no ho asɛm |
+| Ɛhe na wobɛhwehwɛ soda jerk? | **Soda fountain**, bɛkɛrɛ, sika bank | Dɛn na wopɛ wɔ counter no so? |
+| Ɛdwumadie bɛn na ɛyɛ metal spring a ɛbɛtumi atena stairs so? | Yo-yo, **Slinky**, hula hoop | Akwadaa dwumadie bɛn na woperɛ? |
+| Drive-in yɛ baabi a wɔhwɛ... | **Sini a wotena kar mu**, bɔɔl ayɛ, ɔhyɛmu | Hena na woakɔ no? |
+| Hena ankasa na ɛwɔ dɔlar baako no so? | Lincoln, **George Washington**, Jefferson | Dɛn na dɔlar baako tumi tɔn saa bere no? |
+| Hena ankasa na ɛwɔ penny no so? | **Abraham Lincoln**, Washington, Franklin | Woboaboaa pennies wɔ ɔsikakɔkɔɔ mu saa bere no anaa? |
+| Ɛnsoɔ a wɔde akɔ sukuu no yɛ kɔla bere bɛn? | Fitaa, **kɔkɔɔ**, buruu | Wodii sukuu kɔ ɛdeɛn? |
 
-## Holidays, nature and places
+## Afahyɛ, ahyɛase ne baabi
 
-| Question | Choices | Talk about |
+| Nsɛmmisa | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Afahyɛ bɛn na ɛba da a ɛto so anan wɔ Thanksgiving Thursday wɔ November? | Labor Day, **Thanksgiving**, Memorial Day | Dɛn na na ɛwɔ wo ɛpon so daa? |
+| Wɔyɛ jack-o'-lanterns ma afahyɛ bɛn? | **Halloween**, Easter, Krismas | Ka Halloween a wodii kɔsii wɔ hɔ ho asɛm |
+| Fourth of July hyɛ Declaration of... | Rights, **Independence**, Freedom | Ɛhe na wohwɛɛ fireworks? |
+| Mother's Day wɔ bosome bɛn mu? | Ebɔw, **Mɛ**, Ɔbɔsɛm | Sɛnea wo abusua hyɛɛ afahyɛ no? |
+| Nsoromma bɛn na ɛwɔ American flag no so? | 48, **50**, 52 | Flag no ne nsoromma 48 kosii 1959. Mmuae biara yɛ asɛm a ɛfata |
+| Ɛpo bɛn na ɛwɔ East Coast? | Pacific, **Atlantic**, Arctic | Wɔwɔ ɔpɔnkɔ mu bere bi anaa? |
+| Ɛkuro bɛn na Statue of Liberty wɔ? | Boston, **New York**, Philadelphia | Woakɔ New York anaa? |
+| Nnunum bɛn na ɛyɛ nnuban? | Nufɔ, **ɛnuadeɛ**, nsiaseɛ | Ɛnuadeɛ wɔ toast anaa tii mu? |
+| Ɛberɛ a ɔmaa nantwi bɛn nyɛ? | Ɔmaa, **nantwi**, ɔbɛmma | Wotenaa afuom sɛ ɛbɛn? |
+| Ɛhwɛ bɛn a ɛyɛ tenten ne kɔlɔ a ɛdan sɛ ɛde ne ani kɔ owia so? | Ɔsɛe, **sunflower**, tulip | Dɛn na na ɛdan wo afuw mu? |
+| Nnanson bɛn na ɛwɔ bɔfɛfe mu? | 365, **366**, 360 | Ka birthday bi a wokae ho asɛm |
+| Bere bɛn na ɛdi awia akyi? | Ahinime, **Osuso**, Owia | Bere bɛn na wopɛ sen biara? |
 
-## Food and sports trivia
+## Aduane ne akwan a wɔfa so tu fo trivia
 
-| Question | Choices | Talk about |
+| Nsɛmmisa | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Raisins yɛ... | Ahwetɛ, **aburoo**, ɛkrakyɛ | Woyɛɛ raisins di mmofra ayɛ no anaa? |
+| Prunes yɛ... | **Ahwetɛ**, nkwadua, aborɔdɛ | Hena wɔ wo abusua mu a ɔpɛ prunes? |
+| Peanut butter ne... | **Jelly**, warankɛse, ɛmo | Ɛkrakyɛ anaa ɛyɛ nwuw? |
+| Guacamole yɛ fi... | Ɛpɛ, **avocado**, nkwadua a ɛyɛ nti | Dɛn na wɔde yɛ dip wɔ afahyɛ mu? |
+| Ɛpie bɛn na Thanksgiving pɛ? | **Ɔfiri**, aborɔdɛ, ɛkrakyɛ | Ɛpie bɛn na woyɛe? |
+| Baseball kurom wɔ nnipa a wɔrekɔ fam mu? | 7, **9**, 11 | Kurom bɛn na woboaboa ma? |
+| Mpɛn nkyɛ bɛn na ɛyɛ out wɔ baseball mu? | Mmienu, **mmiɛnsa**, anan | Woboaa bɔɔl anaa? |
+| Babe Ruth yɛ ɛdwumadie bɛn mu a ɔyɛ fɛ? | Boxing, **baseball**, golf | Wokɔ bɔɔl agorɔ anaa? |
+| Mpɛn bɛn na ɛwɔ standard golf course mu? | 9, **18**, 24 | Woatu golf anaa mini golf? |
+| Ɛdwumadie bɛn na wowɔ touchdown wɔ mu? | **Football**, hockey, basketball | Hena na ɔhwɛɛ football wɔ wo fie? |
 
-## Familiar sayings
+## Mmebusɛm a wɔka daa
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Sɛ wɔka mmebusɛm a wɔka daa ayɛ, ɛfa kasa a wɔsuaa wɔ bere a atwam so, na ɛtɔ so mmerɛ. Yɛn [Finish the saying](/games/finish-the-saying/) dwumadie wɔ mmebusɛm pii bio, ne asiesie biara a wobɛtumi ahu no.
 
-| Saying | Choices | Talk about |
+| Mmebusɛm | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Apple biako da biara, ɛbɛma ɔdɔkotaafoɔ... | **Ɛbɛtwe no firi wo nkyɛn**, osu bɛtwe, ɔsɛ bɛtwe | Hena na ɔka eyi kyerɛɛ wo? |
+| Ɔkɔkɔ a ɔsɔre ntɛm na ɔnya... | Kaa, **ɔbɔfuo**, tren | Wo ara wo ɛberɛ a ɛdi kan mu anaa? |
+| Nnɔnkɔ mma... ansa na wɔapopɔw | **Ahyɛ**, ɛnteɛ, ɛnnwom | Wɔde nkukuo bɛn ara wɔ wo abusua mu anaa? |
+| Sika a wɔakora yɛ... | **Wɔanya**, ɛbɔ, ɛtɔ | Hena na ɔyɛe sikakora wɔ wo abusua mu? |
+| Fie yɛ... | Akyiri ɛyɛ, **koma ne**, ɔpon ne | Ɛdeɛn na ɛma baabi bi yɛ fie? |
+| Ɛsen sɛ wɔbɛba akyiri... | Ɛtɔ, **nkyɛ**, mpaebɔ | Hena na na ɔbɛkyɛ daa? |
+| Ɔdesie biara wɔ... | **Ɛbɛn ahoma**, kɔkɔɔ | Nsɛm a ɛyɛ hia kɛse ara ne ɔmansa |
+| Nneyɛe ka nsɛm kɛse sen... | **Nsɛm**, nnwom, ɔpɛ | Ka obi a ɔkaa saa asɛm ho asɛm |
 
-## This-or-that questions with no wrong answer
+## Yi anaa Yei nsɛmmisa a mmuae nni mu
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Saa nsɛmmisa yi yɛ bere nyinaa, ɛfiri sɛ mmuae biara nni mu. Bisa, tie, na ka wo ankasa mmuae nso.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kɔfi anaa tii?
+- Ɛpo ho anaa bepɔw?
+- Nkraman anaa mmoaa?
+- Ɛbere anaa ɔpɛpɛ?
+- Ɛpie anaa keeki?
+- Anyanyɛ anaa hwɛ?
+- Owia sɛe anaa owia ɔfa?
+- Ɛpon ano anaa akyi fie?
+- Radio anaa records?
+- Pancakes anaa nkɔkɔɔ?
+- Roses anaa daisies?
+- Tren akwantuo anaa kar akwantuo?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Sɛ wopɛ nsɛmhwɛ a ɛne mfonini ka ho, hwɛ yɛn printable [Conversation cards](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Ɛdeɛn na wobɛyɛ trivia wɔ ɔdan a wɔhwɛ nnipa mu anaa wɔ nnipa kuw mu?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Fa nnipa so sɛnea wɔbɛhunu na wɔatie.** Tie nkwa, fa ahuhuw ano, na ma TV no nnhyɛ so.
+2. **Ka sɛ ɛyɛ nkɔmmɔ.** "Mewɔ nsɛmmisa a ɛfa bere a atwam ho, na mesuro sɛ wunim sen me."
+3. **Kenkan nsɛmmisa no mmienu na hwɛ mmuae no kɛse.**
+4. **Ma nnipa nyinaa mu ba ka mmuae.** San ka mmuae a ɛyɛ bio ma obiara ati.
+5. **Ka mmuae no ma obiara, afei bisa asɛm a ɛwɔ nsɛmmisa no mu ma kuw no.**
+6. **Di asɛm a ɛyɛ nkɔmmɔ no akyi.** Sɛ nsɛmmisa baako ma nkɔmmɔ bɛtɔ so nkaa simma du, ma ɛnkɔ so.
+7. **Fa dwoom anaa Yi anaa Yei abien na ɛba awiei,** na obiara nkɔ so nam nea ɛyɛ ɛmfa awiei.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Sɛ wopɛ afahyɛ ahodwoɔ a ɛfa nnwom, bingo ho ne nnwom a wɔka bom, hwɛ [group activities for care homes](/activities/care-home-groups/).
 
-## When to change the plan
+## Ɛberɛ a ɛsɛ sɛ wosesa nhyehyɛe no
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Sɛ obi hwɛ sɛ ɔwɔ awerɛhyɛ, ɔyɛ ɔkorɔn, anaa ɔka "Merenim" nkyɛn mpɛn pii a, ma ɛnyɛ mmerɛ: fa mmuae mmienu ara, ka mmuae no bom, anaa sesa kɔ 'Yi anaa Yei' nsɛmmisa. Sɛ kuw no pɛ sɛ wɔka nsɛmmisa baako wɔ mmɔnsɛn nyinaa, ɛyɛ ɔkwan a ɛkɔ so. Ɛnyɛ mmuae a ɛyɛ pɛpɛɛpɛ na yɛpɛ, na ɛyɛ bere a wɔde di nnipa a wɔn ho yɛ anigye.

@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Видео һәм телефон шылтыратыуы: деменция булған кеше өсөн"
+seoTitle: "Деменция өсөн видео шылтыратыу эшмәкәрлектәре"
+description: "Ерҙән алыҫ йәшәгән ғаиләләр өсөн видео һәм телефон шылтыратыуҙары эшмәкәрлектәре: күрһәтеү, ҡысҡырып уҡыу, йырлау, экран уйындары һәм ярҙамсыларға кәңәштәр."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Деменцияһы булған кеше менән шылтыратыу иң яҡшы нәтижә бирә, ҡасан ул ҡыҫҡа,
+  даими булһа һәм бергә эшләргә нимәлер менән нығытылһа: мал йәки баҡсаны
+  күрһәтеү, фотоларға ҡарау, ҡысҡырып уҡыу, яратҡан йыр йырлау йә экранда
+  йомшаҡ уйын уйнау. Мөмкинлек булһа, көнөнөң бер үк ваҡытында шылтыратығыҙ,
+  бер ваҡытта бер генә кеше һөйләһен, һәм урында ярҙам итә торған кешенән
+  ярҙам һорағыҙ.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Эшмәкәрлек шылтыратыуға форма бирә һәм һөйләшеү өсөн баҫымды кими. Уртаҡлашыу өсөн берҙән-бер ябай нәмә планлаштырығыҙ."
+  - "Ҡыҫҡа, даими шылтыратыуҙар, көнөнөң бер үк ваҡытында, йыш ҡына оҙон, ара-тирә шылтыратыуҙарға ҡарағанда яҡшыраҡ эшләй."
+  - "Бер ваҡытта бер кеше һөйләй. Бер-береһен бүлгән төркөм шылтыратыуын аңлау ауыр, айырыуса ишетеү кәметелгәндә."
+  - "Урында булған ярҙамсы ҡоролманы көйләй ала, кеше яғында ултыра ала һәм һәр уйын йә фото өсөн «ҡул» булып тора ала."
+  - "Әгәр бөгөн шылтыратыу уңмаһа, уны йылы итеп тамамлағыҙ. Иртәгә янәшә тырышыу яраша."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Деменция булған кеше менән видео шылтыратыуҙа нимә эшләй алам?"
+    a: "Берҙән-бер ябай эшмәкәрлек планлаштырығыҙ: баҡсағыҙҙы, йәнлекте йә кухняны күрһәтегеҙ; борондан ҡалған фотоларға бергәләп ҡарағыҙ; ҡыҫҡа шиғыр йә хатты ҡысҡырып уҡығыҙ; яратҡан йырын йырлағыҙ; бер үк рецепт буйынса бергә ашарға бешерегеҙ; йә уртаҡ экранда йомшаҡ рәсем уйыны уйнағыҙ. Эшмәкәрлек шылтыратыуға маҡсат бирә, шуға күрә кеше бөтә һөйләшеүҙе үҙе алып барырға мәжбүр булмай."
+  - q: "Шылтыратыу ни тиклем оҙаҡ булырға тейеш?"
+    a: "Күпсә, һеҙ уйлағанғараҡ ҡыҫҡа. Ике-өс йылы минут та етә, айырыуса кеше тиҙ арыһа. Көнөнөң бер үк ваҡытында даими шылтыратыу һәр шылтыратыуҙың оҙонлоғонан мөһимерәк булырға мөмкин."
+  - q: "Әгәр улар видео шылтыратыуҙан ҡарышып йә борсолһа?"
+    a: "Кайһы бер кешеләр экрандағы йөҙҙө аңлай алмай. Ябай телефон шылтыратыуын, ярҙамсы тыныс мәлдә уйнатып була торған видео хәбәрен, йә почта аша карточкаларҙы һәм фотоларҙы ебәреп ҡарағыҙ. Әгәр шылтыратыу насар үтһә, уны йылы итеп өҙөгөҙ һәм икенсе көн йә башҡа ваҡытта янәдән тырышығыҙ."
+  - q: "Әсәйем телефон ҡуллана алмаған саҡта видео шылтыратыуға нисек ярҙам итә алам?"
+    a: "Ғаилә ағзаһынан, өйҙә ярҙам итеүсе кешенән йә ҡарау урынының хеҙмәткәренән шылтыратыуҙы башлауҙы һәм ҡоролманы тотоп торорға йә таяныс ҡуйырға һорағыҙ. Күп ҡарау урындары ғаиләләргә видео шылтыратыуҙа ярҙам итә, шуға күрә улар нимә тәҡдим итәүен һорағыҙ. Станокта торған, ҙур экраны һәм ишетерлек тауышы булған планшет барыһы өсөн дә еңелерәк."
+  - q: "Видео аша бергә уйын уйнай алабыҙмы?"
+    a: "Эйе. Иң еңел юл: береһе видео ҡушымтаһында экраныһын уртаҡлаштыра, икенсеһе кайһы рәсемгә баҫырға кәрәк икәнен әйтә. Йә урындағы ярҙамсы шул уйынды планшетта асып, һеҙ аңлатҡан ваҡытта кеше өсөн баҫа ала. Таймер йә очко булмаған уйындарҙы һайлағыҙ."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Ерҙән алыҫ йәшәү деменцияһы булған кеше өсөн ярҙамһыҙлыҡ тойғоһо тыуҙырырға мөмкин. Телефон һәм видео шылтыратыуҙар ҡосаҡлауҙы ала алмай, әммә яҡшы әҙерләнгәндә һаман да ысын дуҫлыҡ мәлдәре бирә ала. Төп хәл: ғәҙәти һөйләшеү эҙләүҙән туҡтап, уртаҡлашырға ябай нәмә уйлап табыу. Был биттә видео һәм телефон аша эшләй торған эшмәкәрлектәр, шылтыратыуҙы нисек әҙерләү һәм урындағы ярҙамсы нимә ярҙам итә ала тураһында яҙылған.
 
-## Why plan an activity for a call?
+## Шылтыратыуға эшмәкәрлек нимә өсөн планлаштырырға?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Эшмәкәрлек шылтыратыуға форма бирә. «Нисек һыҙаттарың? Бөгөн нимә эшләнең?» кештән иҫтә тотоуҙы һәм хәбәр итеүҙе талап итә, был ауыр һәм борсолоу тыуҙырыра ала. «Ҡарағыҙ, помидорҙар һыу инде» кештән бер ни ҙә талап итмәй.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association билдәләүенисә, видео аша ҙур төркөм менән һөйләшеү ауыр булырға мөмкин, һәм ул йырлау йә фото күрһәтеү кеүек нәмәләр менән [шылтыратыуға структура өҫтәргә](https://www.alz.org/help-support/caregiving/holidays) тәҡдим итә.
 
-## What activities work on a video call?
+## Видео шылтыратыуҙа нимә эшләй?
 
-### Show and tell
+### Күрһәтеү һәм һөйләү
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Үҙегеҙҙең донъяғыҙҙы алып барығыҙ. Камераны баҡсағыҙ буйлап әкрен йүгәртегеҙ, йәнлекте таныштырығыҙ, нимә бешерәгеҙҙе күрһәтегеҙ, ейәнсәрегеҙҙең рәсемен күтәрегеҙ йә телефонды тәҙрә аша ҡарлы баҡсаны күрһәтегеҙ. Күргәнегеҙҙе ябай һүҙҙәр менән һүрәтләгеҙ һәм улар реакция бирһен өсөн туҡтауҙар ҡалдырығыҙ. Һорауҙар кәрәкмәй.
 
-### Look at photos together
+### Фотоларға бергәләп ҡарау
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Иҫке фотоны камерҙарға күрһәтегеҙ йә экранығыҙҙы уртаҡлаштырып ҙур фотоларҙы береһен-береһен күрһәтегеҙ. Нимә күреүегеҙҙе һөйләгеҙ: «Атайымдың эшләпәһенә ҡарағыҙ». «Кем был?» йә «Иҫләйһеңме?» тип һорамағыҙ. Әгәр кеше кемдер тураһында ялған атаһа, уның менән килешегеҙ. Ҡыҙыҡһындырыр өсөн нескә һорауҙар өсөн беҙҙең [иҫкә төшөрөү буйынса ҡулланма](/activities/reminiscence/) ҡарағыҙ.
 
-### Read aloud
+### Ҡысҡырып уҡыу
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Ҡыҫҡа шиғыр, зәбур, ейәнсәргә бер шылтыратыуҙа яратҡан балалар китабын, туғанынан хат йә кеше яратҡан китаптың бер биттәрен уҡығыҙ. Ҡысҡырып уҡыу кешегә яуап бирмичә ишетерлек тыныс нәмә бирә.
 
-### Sing or listen to music together
+### Бергә йырлау йә музыка тыңлау
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Яҡшы белгән йыр йырлағыҙ йә үҙегеҙҙә яратҡан плastинка уйнағыҙ. Күп кеше өсөн йырлау менән ҡушылыу һөйләшеүгә ҡарағанда еңелерәк. [Музыка эшмәкәрлектәре буйынса ҡулланмабыҙға](/activities/music/) ҡарағыҙ.
 
-### Cook or bake at the same time
+### Бергә пешереү йә бешерергә
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association махсус рецепт буйынса видео шылтыратыу аша бергә пешереү йә бешерергә планлаштырырға тәҡдим итә. Ике кухняла ла шылтыратыуҙы көйләгеҙ. Урындағы ярҙамсы, һеҙ уларҙың иҫке рецепт карточкаһын ҡарап торғанда, ашты болғатырға йә тәмләргә ярҙам итә ала.
 
-### Watch something together
+### Бергә бер нәмә ҡарау
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association шулай уҡ айырым өйҙәрҙән бер үк ваҡытта яратҡан фильм ҡарарға, телефон йә видео аша һөйләшергә тәҡдим итә. Деменцияһы булған кеше өсөн ҡыҫҡа клип, иҫке ТВ-эпизод йә футбол матчы тулы фильмдан яҡшыраҡ булыуы мөмкин.
 
-### Play a gentle game on a shared screen
+### Экранда йомшаҡ уйын уйнау
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Күп видео ҡушымталар экранды уртаҡлаштырырға мөмкинлек бирә. Уйынды асығыҙ һәм баҫығыҙ; кеше һеҙгә кайһы рәсемде һайлау кәрәклеген әйтә йә күрһәтә. Йә урындағы ярҙамсы шул уҡ уйынды планшетта асып, һеҙ һөйләшкәндә кеше өсөн баҫа ала.
 
-Games that work well this way:
+Был рәүешле яҡшы эшләгән уйындар:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Мәҡәлде тамамлау](/games/finish-the-saying/):** һеҙ таныш мәҡәлде уҡыйһығыҙ, ә кеше аҙағын әйтә, һәм һөйләшеүгә кәңәш бирелә.
+- **[Рәсем парҙары](/games/picture-pairs/):** ҙур рәсемдәре булған йомшаҡ тап-тап уйыны; рәсемдәр күренеп тора ала, таймер һәм очко юҡ.
+- **[Һөйләшеү карточкалары](/games/conversation-cards/):** бергә һөйләшергә рәсем һәм асық һорау.
+- **[Фото парҙары](/games/photo-pairs/):** үҙегеҙ ҡоролмаңыҙҙа һайлаған фотоларҙан яһалған тап-тап уйыны. Фотолар һеҙҙең браузерҙа ҡала, кеше уларҙы уртаҡ экран аша күрә.
 
-### Recorded messages
+### Яҙылған хәбәрҙәр
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Тере шылтыратыуҙар ауыр булғанда, ҡыҫҡа видео яҙығыҙ: сәләм, йыр, ишегалдағы серәйеү. Ярҙамсы уларҙы тыныс мәлдә, кеше ошатҡан тиклем тапҡыр уйнатыр ала. Alzheimer's Association балалар бүләктәрҙе асҡан мәлдәр кеүек махсус мәлдәрҙе яҙыу һәм ебәреү хаҡында әйтә.
 
-## What about plain phone calls?
+## Ябай телефон шылтыратыуҙары тураһында нимә?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Телефон шылтыратыуҙары әле лә мәғәнәле. Dementia Australia көн һайын бер үк ваҡытта [шылтыратырға](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) һәм ашыҡмаҫҡа тәҡдим итә, сөнки деменцияһы булған кеше һөйләшеүгә ҡушылыр өсөн ваҡыт кәрәк итә ала. Телефонда:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Бөтә нәмәнән элек исемегеҙҙе һәм кем икәнегеҙҙе әйтегеҙ: «Сәләм, атай, мин Дженни, ҡыҙың.»
+- Әкрен һөйләгеҙ, ҡыҫҡа өкөмдәр менән, бер ваҡытта бер фекер.
+- Һорау биреүҙән бигерәк, яңылыҡ хәбәр итегеҙ: «Кисә мин һеҙҙең ҡаҙан итен пешерҙем.»
+- Ҡыҫҡа шиғыр уҡығыҙ йә яратҡан йыр бүлеген йырлағыҙ.
+- Ҡыҫҡа итегеҙ һәм йылы тауыш менән тамамлағыҙ.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia шулай уҡ әйтә: һөйләшеү ауырлашҡанда, видео шылтыратыу ярҙам итергә мөмкин, сөнки кеше һеҙҙең йөҙҙө күрә ала. Әгәр телефон шылтыратыуҙары аптыратһа, видеоға күсегеҙ, йә киреһенсә.
 
-## How do I set up a video call that works?
+## Нисек эшләгән видео шылтыратыуҙы әҙерләргә?
 
-**Before the call:**
+**Шылтыратыу алдынан:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Даими ваҡыт һайлағыҙ**, ҡасан кеше гәҙәттә ял иткән була, һәм шуға ярашығыҙ. Тәртип ярҙам итә.
+2. **Урындағы ярҙамсы менән килешегеҙ.** Алдан ҡайтҡан хәбәр уларға планлаштырырға ярҙам итә.
+3. **Ҡоролманы тикшерегеҙ.** Ҡул менән тотолған телефонға ҡарағанда станокта торған планшет еңелерәк. Зарядлы булыуын, экранының яҡты булыуын һәм тауышының ишетерлек булыуын тикшерегеҙ. Ҡушымта тәҡдим итһә һәм кеше яҡшы уҡый икән, субтитрҙарҙы ҡабыҙығыҙ.
+4. **Бер эшмәкәрлек планлаштырығыҙ** һәм кәрәк нәмәне әҙер итегеҙ.
 
-**During the call:**
+**Шылтыратыу барғанда:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Камерағыҙға яҡын ултырығыҙ**, яҡты урында, тәҙрәгә ҡарап ултырығыҙ, артығыҙҙа тәҙрә булмаһын.
+- **Һәр юлы үҙегеҙҙе таныштырығыҙ**: исемегеҙ һәм кем икәнегеҙ.
+- **Бер ваҡытта бер кеше.** Alzheimer's Association билдәләүенисә, бер-береһен бүлгән һөйләшеү деменцияһы булған һәм ишетеүе кәметелгән кешеләр өсөн ауыр. Бик күп туғандар ҡушылһа, сиратлап һөйләгеҙ йә ике-өс кеше менән сикләгеҙ.
+- **Бер ваҡытта бер һорау бирегеҙ.** Family Caregiver Alliance [«әйе» йә «юҡ» тип яуап талап иткән ябай һораулар](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) һәм мөмкин булғанда һайлау варианттарын күрһәтеүҙе тәҡдим итә.
+- **Оҙон туҡтауҙарға рөхсәт итегеҙ.** Яуапты көтөгөҙ. Әгәр кеше эҙләһә, бер һүҙ әйтеү мөмкин.
+- **Йөҙөгөҙҙе һәм тауышығыҙҙы ҡулланығыҙ.** Йылмайығыҙ, башығыҙҙы кәкләгеҙ, тауышығыҙҙы йылы тотоғоҙ. Йөҙ һәм тон күп ваҡыт һүҙҙән артығыраҡ аңлата.
+- **Төҙәтмәгеҙ.** Әгәр кеше дөрөҫ булмаған нәмә әйтә, уны шулай ҡалдырығыҙ.
 
-**Ending the call:**
+**Шылтыратыуҙы тамамлағанда:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Кеше арыр алдынан тамамлағыҙ, мөмкин булһа, яҡшы хистә.
+- Һәр юлы бер үк хушлашыу ҡулланығыҙ: «Иртәгә төшкө аш ваҡытында шылтыратырмын. Яратам һеҙҙе.»
+- Оҙайтмағыҙ.
 
-## Tips for the helper on site
+## Урындағы ярҙамсыға кәңәштәр
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Әгәр һеҙ шылтыратыуға ярҙам иткән ир-ҡатын, ҡарау кешеһе, туған йә хеҙмәткәр булһағыҙ, һеҙ уны мөмкин итәһегеҙ.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Тыныс урын әҙерләгеҙ.** Телевизорҙы ҡабыҙығыҙ, ишекте ябығыҙ.
+- **Шылтыратыуҙы үҙегеҙ башлағыҙ**, һуңынан кешегә станокта торған планшетты бирегеҙ йә күҙ кимәлендә тотоғоҙ.
+- **Улар янында ултырығыҙ, алдында түгел.** Һеҙҙең булыу тыныслыҡ бирә. Кәрәк булһа, йомшаҡ ишарә итегеҙ: «Ҡарағыҙ, был Дженни.»
+- **Ҡулдар булығыҙ.** Фотоларҙы күтәрегеҙ, уйынға баҫығыҙ, бүлмәне күрһәтер өсөн планшетты борғоғоҙ.
+- **Арыуҙы йә борсолоуҙы күҙәтегеҙ** һәм шылтыратыусыға тамамлау ваҡыты килгәнен әйтегеҙ.
+- **Шылтыратыусыға нимә эшләгәнен һөйләгеҙ.** «Ул эттән бик ҡыуанды» кеүек хәбәр киләһе шылтыратыуҙы планлаштырырға ярҙам итә.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA ерҙән алыҫ туғандарға олраҡ кешегә телефонының мөмкинлектәрен өйрәнергә, мәҫәлән видео шылтыратыуҙарға, [ярҙам итергә](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) тәҡдим итә. Һуңғы этаптарҙа ярҙамсы, ғәҙәттә, ҡоролма менән бөтөнләй эшләргә тейеш буласаҡ. Был тиклем булырға тейеш.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Әгәр кеше ҡарау йортонда йәшәһә, Alzheimer's Foundation of America ҡарау урыны ғаиләләргә видео аралашыу менән ярҙам итә-итмәүен һорарға тәҡдим итә. AFA шулай уҡ ғаиләләрҙең ҡарау урыны хеҙмәткәрҙәре менән фотоларҙы бер-береһенә ебәреүен һәм, урын рөхсәт иткәнен тикшергәс, яратҡан тәм-томдар йә кесерткән ҡулайлыҡтар ебәреүен телгә ала.
 
-## What if the call doesn't go well?
+## Шылтыратыу уңмаһа нимә эшләргә?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Кайһы бер шылтыратыуҙар аптыратыр, ялҡытыр йә борсотор. Был һеҙҙең ғәйебегеҙ түгел һәм шылтыратыуҙар мәғәнәһеҙ икәнен аңлатмай.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Әгәр кеше экранға аптыраған кеүек булһа, телефон шылтыратыуына йә яҙылған хәбәргә күсегеҙ.
+- Әгәр улар борсолһа, хистәрен таныығыҙ, юатыу һүҙе әйтегеҙ һәм йомшаҡ итеп тамамлағыҙ.
+- Әгәр көндөң бер вакытында шылтыратыу йыш ҡына насар үтһә, башҡа ваҡыт һайлағыҙ.
+- Әгәр улар һеҙҙе башҡа кеше тип уйлаһа, уның менән һөйкөмлө килешегеҙ.
 
-It is fine to end early. A short, warm call is a good outcome.
+Иртәрәк тамамлау ҡараңғы түгел. Ҡыҫҡа, йылы шылтыратыу — яҡшы һөҙөмтә.
 
-## Between calls
+## Шылтыратыуҙар араһында
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Башҡа юлдар менән бәйләнештә булығыҙ. Dementia Australia карточкалар, хаттар, фотолар йә кесе бүләктәр ебәреүҙе тәҡдим итә. Бер ҙур фотолы һәм ҡыҫҡа хәбәрле аҙна һайын открытка һәр ваҡыт яңынан уҡыла ала. Ярҙамсыға почта аша ебәрелгән баҫма [һөйләшеү карточкалары](/games/conversation-cards/) киләһе шылтыратыу өсөн әҙер тема бирә ала.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Планшет һайлау һәм көйләү хаҡында кәңәштәр өсөн [планшеттар һәм экрандар](/caregiving/tablets-and-screens/) биткә ҡарағыҙ. Шәхсән осрашыу ваҡыты өсөн беҙҙең [килеү](/activities/visiting/) буйынса ҡулланмаға ҡарағыҙ.

@@ -1,32 +1,31 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Занаяти и изкуство за възрастни с деменция"
+seoTitle: "Изкуство и занаяти при деменция: за възрастни, не детински"
+description: "Идеи за занаяти и изкуство за възрастни, от акварел и колаж до подреждане на цветя, със съвети за подготовка, адаптиране и повече процес, отколкото продукт."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Добрите занаяти и изкуство за възрастни с деменция изглеждат и се усещат като за възрастни:
+  акварел, колаж от списания, подреждане на цветя, глина, прости картички или страници за
+  оцветяване за възрастни. Подредете няколко материала, помогнете с първия щрих, ако е нужно,
+  говорете, докато работите, и считайте общото време за смисъла. Завършеното произведение е по желание.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Избирайте материали и теми, които изглеждат като за възрастни, например акварелна хартия, истински цветя и снимки от списания, а не брокат, стикери или детски работни листове."
+  - "Съсредоточете се върху процеса: цветовете, усещането от глината, разговора. Завършеното произведение е бонус, а не целта."
+  - "Давайте повод, когато можете, например картичка за внук или украса за масата."
+  - "Помогнете да се започне, после отстъпете назад. Често е достатъчно да започнете заедно един щрих с четката."
+  - "Проектите не е нужно да се довършват наведнъж и спирането по-рано винаги е наред."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Как да не допусна занаятите да изглеждат детински?"
+    a: "Използвайте истински художествени материали, теми за възрастни и уважителен тон. Заменете броката и детските страници с акварелна хартия, плат, цветя, снимки от списания и подробни страници за оцветяване. Не хвалете работата така, както бихте похвалили детски рисунки; говорете за нея така, както бихте говорили с всеки възрастен приятел."
+  - q: "Какви занимания с изкуство работят при напреднала деменция?"
+    a: "Най-добре работят прости сензорни проекти: рисуване с широки щрихи с голяма четка, мачкане на мека глина, подреждане на няколко цветя въвваза или сортиране на образци от плат по допир. Може да се наложи да започнете движението заедно. Гледането как рисувате и разговорът за цветовете също е начин да участва човекът."
+  - q: "Ами ако кажат, че не умеят да рисуват?"
+    a: "Премахнете напрежението. Пробвайте проекти без правилен отговор, например попивка от акварел, колаж или подреждане на цветя. Може да кажете и че имате нужда от помощ с нещо конкретно, например с избора на цветове за картичка, така че задачата да прилича на услуга, а не на изпит."
+  - q: "Не са ли страниците за оцветяване твърде детински за възрастни?"
+    a: "Не, когато са създадени за възрастни. Избирайте страници с теми за възрастни, като градини, пачуърк завивки, коли или пейзажи, и ги представяйте като успокояващи, а не като урок. Нашите страници за оцветяване могат да се отпечатат или да се оцветят на таблет."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +47,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Занаятите и изкуството дават на хората с деменция начин да се изразят, който не зависи от намирането на точните думи. Алцхаймер асоциейшън отбелязва, че проектите в областта на изкуството могат да дадат [чувство за постижение и смисъл](https://www.alz.org/help-support/caregiving/daily-care/art-music) и възможност за самоизразяване, както за грижещия се, така и за човека с деменция. Ключът е занимането да остане за възрастни, просто и без напрежение. Тази страница предлага конкретни проекти, как да ги подготвите и как да ги адаптирате, когато нещата се променят.
 
-## What makes an art activity adult and not childish?
+## Какво прави занимането с изкуство подходящо за възрастни, а не детинско?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Занимание с изкуство за възрастни използва истински материали, теми за възрастни и уважителен тон. Алцхаймер асоциейшън препоръчва проектите да бъдат на възрастен наравно и да се избягва всичко, което може да изглежда унизително или детинско.
 
-| Feels childish | Feels adult |
+| Изглежда детински | Изглежда като за възрастни |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Брокат, стикери от пяна, очички за лепене | Акварелна хартия, плат, пресовани цветя |
+| Детски страници за оцветяване с герои | Страници за оцветяване с градини, завивки, коли или пейзажи |
+| "Браво" за всяка черта | Истински разговор: "Това синьо е прекрасно до зеленото" |
+| Занаят без употреба | Картичка за приятел, украса за маса, подарък |
+| Инструкции, четени като урок | Покана: "Бихте ли ми помогнали с това?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Мислете за собствения вкус на човека. Някой, който е обичал ръкоделието, може да се радва да работи с плат. Пенсиониран инженер може да предпочете макет с едри части или сортиране на инструменти за проект. Бивш учител може да обича да прави картички.
 
-## Why focus on the process, not the product?
+## Защо да се съсредоточим върху процеса, а не върху продукта?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Защото времето заедно е смисълът. Алцхаймер асоциейшън в своето ръководство за [занимания у дома](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) препоръчва вниманието да е върху процеса, а не върху резултата. Картина, на която има "само синьо", си остава картина. Колаж с три снимки си остава колаж.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Организацията отбелязва също, че професионален художник може да се фрустрира от промените в работата си, докато аматьорът може да се радва на нова възможност да се изрази. Ако човекът е бил опитен художник, пробвайте друга техника, различна от тази, която е владеел, така че да изглежда като игра, а не като сравнение.
 
-## Arts and crafts ideas to try
+## Идеи за занаяти и изкуство за опит
 
-Each idea includes how to make it simpler if it becomes hard.
+Всяка идея включва как да я направите по-проста, ако стане трудна.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Акварелни петна.** Навлажнете лист тежка акварелна хартия и оставете човека да капе боя върху нея с голяма четка. Цветовете се разливат сами, така че няма грешен резултат. *По-просто:* предложете само два цвята или рисувайте с вода върху тъмна хартия, на която се виждат мокрите следи.
+2. **Колаж от списания.** Изрежете предварително снимки от списания за градинарство, готвене, коли, пътувания или от старите хобита на човека. Нека избере и залепи картинките върху картон. *По-просто:* предложете четири предварително изрязани снимки и лепило, и залепвайте заедно.
+3. **Подреждане на цветя.** Алцхаймер фондейшън ъф Америка предлага [подреждане на отрязани цветя и зеленина](https://alzfdn.org/dementia-activity-gardening/) в прости сезонни букети. Използвайте тежка, стабилна ваза и предварително подрязани стъбла. *По-просто:* поставяйте по няколко стъбла в малка чаша, едно по едно.
+4. **Картички с пресовани цветя.** Пресувайте цветя от букет между страници на книга в продължение на една седмица, после ги залепете върху сгънат картон. *По-просто:* вие нанасяте лепилото, а човекът натиска цветето.
+5. **Страници за оцветяване за възрастни.** Избирайте страници с ясни контури и истински теми. Нашите [страници за оцветяване](/games/coloring/) могат да се отпечатат, а могат и да се оцветят на екрана, като докоснете цвят и после част от картината. *По-просто:* по-големи области, по-малко цветове, дебели маркери.
+6. **Глина или мека маса.** Разточвайте, притискайте и оформяйте глина, която съхне на въздух, или мека моделираща маса. Притискането на лист в глина създава прост отпечатък върху плочка. *По-просто:* само мачкането и разточването е цяло занимание. Внимавайте човекът да не вкарва глина в устата си.
+7. **Правене на картички.** Алцхаймер асоциейшън предлага да го представите като истинска задача: "Ще изпратим картичка за пожелаване на бързо оздравяване на приятел. Ще ми помогнете ли?" Добре работят предварително нарязан картон и няколко стикера с цветя или печати.
+8. **Албум със спомени.** Залепете заедно копия на стари снимки, пощенски картички или билети върху страници на албум. Говорете за всяка от тях, докато работите. За нежни начини да говорите за миналото вижте нашето [ръководство за спомени](/activities/reminiscence/).
+9. **Табла с текстура и плат.** Залепете образци от велур, кадифе, юта и коприна върху твърд картон. Самото правене е занимание; докосването им по-късно е друго. Още идеи има в нашето [ръководство за сензорни занимания](/activities/sensory/).
+10. **Прости дървени изделия.** За човек, който е обичал дърводелството, шлифоването на гладък дървен блок или боядисването на комплект за скворечник може да изглежда познато. Махнете острите инструменти и бъдете до човека.
+11. **Рисуване под музика.** Пуснете любима плоча и рисувайте форми или цветове, които съответстват на настроението. Така се съчетават две занимания, които мнозина обичат. Вижте [занимания с музика](/activities/music/).
 
-## How do I set up an art session?
+## Как да подготвите сесия по изкуство?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Подгответе първо.** Изрежете, подрежете и подредете всичко, преди да поканите човека. Ако търсите ножицата, докато той чака, може да изгубите момента.
+2. **Дръжте нещата малки.** Два-три цвята, една четка, един лист хартия. Твърде много избор може да претовари.
+3. **Защитете масата.** Пластмасова покривка или стар чаршаф означава, че разливането не е притеснение.
+4. **Седнете един до друг.** Работете върху собственото си произведение до неговото. Така е споделено, а не контролирано.
+5. **Помогнете да се започне.** Алцхаймер асоциейшън отбелязва, че може да се наложи да започнете движението на четката заедно с човека. След като се започне, мнозина продължават сами.
+6. **Говорете, докато работите.** Коментирайте цветовете и текстурите или оставете изкуството да отвори разговор за спомени. Избягвайте въпроси като на викторина, например "Какво е това?"
+7. **Отделете достатъчно време.** Проектът не е нужно да се довърши наведнъж.
 
-## How do I adapt art as dementia changes?
+## Как да адаптирате изкуството, когато деменцията се променя?
 
-| Stage | What tends to work | What to adjust |
+| Етап | Какво обикновено помага | Какво да се промени |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Ранен | Класове, подробно оцветяване, албуми със спомени, правене на картички, рисуване по снимка | Предложете избор на проекти; запазете социалния характер |
+| Среден | Предварително изрязан колаж, акварелни петна, подреждане на цветя, оцветяване с големи области | Една стъпка наведнъж; вие режете и лепите |
+| Късен | Широки щрихи с четка, мачкане на глина, докосване на плат, гледане как рисувате | Фокус върху сетивата; водете ръката нежно, ако е желано |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+Националната здравна служба (NHS) предлага в по-късните етапи занималията често да се опростяват и да се фокусират върху сетивата. Гледането как някой друг рисува и разговорът за цветовете е истински начин да се участва. За повече идеи по етапи вижте [занимания за всеки етап](/activities/ideas/).
 
-## Safety with art supplies
+## Безопасност при художествените материали
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Избирайте нетоксични бои, маркери и лепила тип стик.
+- Дръжте ножиците, ножовете за рисуване и пистолетите за горещо лепене далеч от достъп. Режете сами, предварително.
+- Следете за всеки, който вкарва глина, боя или дребни предмети в устата си.
+- Използвайте стабилни, тежки съдове за вода и вази.
 
-## When should we stop?
+## Кога да спрем?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Спрете, когато вниманието се разсейва или се появи раздразнение. Алцхаймер асоциейшън препоръчва да прекратите или смените занимание, когато концентрацията намалее или раздразнението нарасне. Оставете проекта на сигурно място и предложете нещо спокойно. Може да се върнете към него утре или никога. И двете са наред.
 
-## Display the work, if the person wants
+## Покажете работата, ако човекът желае
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Закачането на картина на хладилника или поставянето на колаж в рамка може да е тих начин да покажете уважение. Попитайте първо. На някои хора им е приятно да виждат работата си на стената; други предпочитат да не я показват.
 
-## Pair art with our games
+## Съчетайте изкуството с нашите игри
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+В дни, когато подготовката на боите е твърде много, [Оцветяване](/games/coloring/) работи на таблет без никакво изцапване. [Пъзел с картина](/games/picture-puzzle/) показва цялата картина като водач, докато разменяте парчетата. [Карти за разговор](/games/conversation-cards/) предлагат отворени въпроси, които могат да превърнат една картина в разказ. Всички нямат таймер или резултат. Можете също да отпечатате страници от нашата колекция [занимания за печат](/activities/printable/).

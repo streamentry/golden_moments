@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Активности при ранней стадии деменции"
+seoTitle: "Активности при ранней деменции: идеи, что подходят"
+description: "Идеи активностей при ранней деменции: хобби, игры, прогулки, письмо и совместное планирование, с небольшими изменениями, которые помогают человеку получать удовольствие и сохранять самостоятельность."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  На ранней стадии деменции большинство людей могут продолжать то, что им нравится:
+  хобби, карточные и настольные игры, готовку, садоводство, прогулки, клубы, вере
+  и волонтёрство. Основные изменения — небольшие группы, короткие выходы, простые
+  письменные планы и партнёр рядом. Спросите человека, какая помощь ему нужна,
+  и пусть он ведёт.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Большинство людей на ранней стадии живут довольно самостоятельно. Активности обычно нужно немного подстроить, а не заменить."
+  - "Спросите человека, какая поддержка ему нужна, и договоритесь о простом знаке, когда помощь будет кстати."
+  - "Небольшие группы, более тихое время и короткие выходы часто многое меняют."
+  - "Сейчас хорошее время, чтобы человек вёл проекты о своей жизни, например дневник или книгу воспоминаний."
+  - "Выбирайте игры для удовольствия. Избегайте всего, что начинает походить на экзамен."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Какие активности подходят при ранней стадии деменции?"
+    a: "Обычно те же, что человек и так любит: карты, настольные игры, готовка, садоводство, прогулки, музыка, занятия в храме или мечети, клубы и волонтёрство. Возможно, их придётся сделать короче, тише или проще. Ведение дневника, письма и создание книги воспоминаний тоже хорошо подходят на этом этапе."
+  - q: "Как помогать и не подменять человека?"
+    a: "Спрашивайте, какая помощь нужна человеку, и часто проверяйте. Договоритесь о фразе или кивке, который будет означать, что можно вмешаться, например когда не вспоминается слово или имя. Если нет риска для безопасности, пусть человек делает по-своему, даже если это занимает больше времени."
+  - q: "Стоит ли людям с ранней деменцией пробовать новые занятия?"
+    a: "Да, если им самим хочется. Знакомые увлечения, как правило, проще всего, но многим нравится и что-то новое, например группа ходьбы, дружелюбная к людям с деменцией, кружок рисования или хор. Попробуйте один раз без давления и посмотрите, как это принимается."
+  - q: "Стоит ли на ранней стадии пользоваться приложениями для тренировки мозга?"
+    a: "Некоторым людям нравятся головоломки и словесные игры, и одного этого удовольствия уже достаточно. Ни одно приложение и ни одна игра не доказали, что они лечат, замедляют или останавливают деменцию. Если игра вызывает стресс или заставляет человека чувствовать, что он не справляется, отложите её."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+На ранней стадии деменции многие люди живут почти так же, как раньше. Они могут работать, заниматься волонтёрством, видеться с друзьями и сами вести большую часть своего дня. Активности обычно не нужно заменять; нужно лишь немного их подстроить, чтобы они оставались приятными. Ваша роль ближе к роли партнёра, чем к роли опекуна: вы поддерживаете, planируете вместе с человеком и вмешиваетесь только тогда, когда вас об этом попросили.
 
-## What activities are good in early-stage dementia?
+## Какие активности подходят при ранней стадии деменции?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Лучшие активности на ранней стадии — обычно те, которые человек уже любит, только немного упрощённые. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) перечисляет такие идеи, как карточные и настольные игры, поиск слов, прогулки, танцы, садоводство, составление букетов, рассказывание историй, живопись, музыка, ведение дневника, письмо, создание альбомов, готовка и семейные традиции.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Часто меняется не сама активность, а обстановка. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) отмечает, что на ранней стадии люди могут начать отходить от того, что раньше приносило им радость, и приводит пример: человек, которому тяжело на большом празднике, чувствует себя лучше в небольшой компании. Открыто говорите о том, что становится труднее, и вместе подстраивайте занятия.
 
-## Ask first, and agree on how to help
+## Сначала спросите и договоритесь, как помогать
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Рекомендации Alzheimer's Association для ранней стадии](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) предлагают несколько привычек, которые относятся и к активностям:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Спрашивайте прямо.** «Что сделало бы для вас клуб книголюбов удобнее?» — лучше, чем гадать.
+- **Исходите из того, что человек справится.** Если нет риска для безопасности, дайте человеку попробовать и подбодрите его, а не берите всё на себя.
+- **Договоритесь о знаке.** Выберите фразу или кивок, который будет означать «можно вмешаться», например когда во время карточной игры не вспоминается имя.
+- **Регулярно проверяйте.** Спрашивайте, достаточно ли помощи, слишком много её или мало.
 
-## Activity ideas for the early stage
+## Идеи активностей для ранней стадии
 
-### Keep up roles and hobbies
+### Сохраняйте роли и увлечения
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Сохраняйте регулярные обязательства.** Еженедельная смена в волонтёрской группе, хор или клуб задают неделе ритм. Если это становится слишком напряжённым, может подойти более короткая или спокойная роль.
+- **Планируйте меню вместе.** Если покупки стали тяжёлым делом, Alzheimer's Association советует попросить человека помочь спланировать меню на неделю и записать список.
+- **Готовьте и пеките вместе.** Приготовьте любимое блюдо по рецепту вдвоём. Перед началом разложите ингредиенты по порядку, чтобы шаги были видны.
+- **Занимайтесь садом.** Спланируйте грядку, выберите семена или растения и работайте вместе. Письменный список садовых дел на неделю помогает.
+- **Продолжайте рукоделие.** Столярное дело, шитьё, вязание или сборка моделей могут продолжаться с более простыми схемами и хорошим освещением.
 
-### Games for enjoyment
+### Игры для удовольствия
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Играйте в карты и настольные игры.** Знакомые игры проще всего. Играйте командами, чтобы никто не оказался в центре внимания, и ведите счёт свободно или вообще не ведите.
+- **Попробуйте поиск слов крупным шрифтом.** Наш [поиск слов](/games/word-search/) можно играть на экране или распечатать для спокойной минуты.
+- **Собирайте пазлы.** Выбирайте количество деталей, которое расслабляет, а не утомляет. [Картинный пазл](/games/picture-puzzle/) — короткая версия на экране, а наше руководство по [головоломкам при деменции](/activities/puzzles/) поможет выбрать подходящую.
+- **Играйте в викторины ради удовольствия.** Некоторым людям нравятся командные викторины. Если это начинает походить на экзамен, выберите что-то другое или попробуйте наши [простые вопросы для викторины](/activities/trivia/), где есть варианты ответов и нет счёта.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Здесь игры — ради удовольствия. Ни одна игра не доказала, что лечит или замедляет деменцию; подробнее читайте в статье [тренировка мозга: что говорят исследования](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Писать, размышлять и записывать
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Ведите дневник.** Alzheimer's Association предлагает вести дневник как один из способов переживать чувства после постановки диагноза. Нескольких строк в день вполне достаточно.
+- **Ведите книгу воспоминаний.** Ранняя стадия — хорошее время, чтобы человек сам выбрал фотографии и написал или продиктовал истории, которые за ними стоят. См. [активности с воспоминаниями](/activities/reminiscence/).
+- **Пишите письма.** Письмо внуку, старому другу или бывшему коллеге может много значить для обоих.
+- **Говорите о фотографиях.** [Парные картинки](/games/photo-pairs/) превращают семейные фотографии в мягкую игру на сопоставление, а [карточки для разговора](/games/conversation-cards/) дают простые поводы для беседы.
 
-### Go out and move
+### Выходите и двигайтесь
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) советует продолжать знакомые выходы, пока вам обоим комфортно. Планируйте их на лучшее для человека время суток и не давайте им слишком затягиваться.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Короткие культурные выходы.** Музей, дневной спектакль или выставка искусства, желательно в более тихое время.
+- **Плавание.** NIA советует бассейн в спокойное время дня.
+- **Группы ходьбы и танцевальные занятия.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) упоминает танцы, тай-цзи, йогу, плавание и группы ходьбы, а также занятия, дружелюбные к людям с деменцией, где они есть.
+- **Песенные группы и «кафе памяти».** Спокойные группы, где люди с деменцией и их партнёры могут познакомиться с другими, оказавшимися в такой же ситуации.
 
-## Small changes that keep activities enjoyable
+## Небольшие изменения, которые помогают сохранять удовольствие от занятий
 
-| If this is getting harder | Try this |
+| Если становится труднее | Попробуйте так |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Людные или шумные места | Ходите в тихое время, выбирайте небольшие группы, садитесь на край комнаты |
+| Запоминание новых имён | Каждый раз называйте людей по имени; попросите группы использовать бейджики |
+| Выполнение многошаговых планов | Запишите шаги или сначала разложите всё по порядку |
+| Усталость | Короткие выходы, отдых после и ничего лишнего в этот день |
+| Учёт в игре | Играйте командами, упростите правила или не ведите счёт |
+| Поиск слов | Дайте время; подсказывайте слово, только если договорённый знак это предполагает |
 
-## When to slow down
+## Когда стоит сбавить темп
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Остановите или измените активность, если она приносит больше стресса, чем радости. Повторяющееся расстройство, избегание любимого занятия или фраза «я просто не могу больше» — повод для мягкого разговора, а не для настойчивости. Часто помогает уменьшенная версия того же занятия. Если человеку нужно больше помощи, чтобы начать и выполнять шаги, может лучше подойти то, что описано в статье [активности на средней стадии](/activities/middle-stage/). Больше о поддерживающем разговоре — в статье [советы по общению](/caregiving/communication-tips/), а множество других идей — в статье [101 активность](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Партнёрам тоже нужна поддержка. Ранняя стадия — хорошее время, чтобы создать собственную сеть помощи; см. [заботу о себе для опекуна](/caregiving/caregiver-self-care/).

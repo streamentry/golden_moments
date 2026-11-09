@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Be Yumi Save Blokem Dementia? Wanem Ol Risej I Talem"
+seoTitle: "Be Yumi Save Blokem Dementia? Wanem Risej I Talem"
+description: "Wanem Lancet Commission long 2024 mo ol bigfala trial oli faenem long wei blong redyusim risk blong dementia, wanem oli no faenem, mo ol step blong toktok wetem dokta."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  No eniwan save promisim se oli save blokem dementia. Lancet Commission long
+  2024 i estimatem se klosap haf long ol kes blong dementia long wol oli
+  konektem wetem 14 risk fakta we oli save jenisim, olsem hae blood pressure,
+  les long herem mo no muvmen. Ol trial i soem liklik ejis long ol test blong
+  tingting, be oli no pruvem se i gat smol kes blong dementia. Plante man we oli
+  mekem evri samting “stret” oli gat dementia tu, mo i no fol blong eniwan.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet Commission long 2024 i konektem abaot 45% long ol kes blong dementia long wol wetem 14 risk fakta we oli save jenisim. Hemi wan estimet blong ful popalesen, no garantii blong wan man."
+  - "Risk reduction i minim lowa ol jans long wan hol popalesen. I no minim se eniwan man i save ravoidem dementia."
+  - "Ol bigfala trial olsem FINGER, US POINTER mo SPRINT MIND oli faenem liklik ejis long ol test blong tingting o mild cognitive impairment, be i no gat wan we i pruvem se wan program blong laef i blokem dementia."
+  - "Ej i biggest risk fakta we oli save long Alzheimer's, mo yu no save jenisim. Plante man we oli gat gud habit oli gat dementia tu."
+  - "Ol step we oli stadi plenti, olsem tritim hae blood pressure, yusum hiering aid mo stap aktiv, i wat blong toktok long dokta, from oli helpem helt long ol narafala wei tu."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Be dementia i save blokem?"
+    a: "No gat wan pruvim fastfala wei blong blokem dementia long wan man. Ol risej i soem se taem yumi lowem sam risk, olsem hae blood pressure, les long herem we oli no tritim, mo smoking, i save lowem jans blong dementia long wan popalesen, o i save mekem i kamap leitim. Ol ya oli jans nomo, no promis."
+  - q: "Wanem namba 45% blong Lancet Commission i minim?"
+    a: "Lancet Commission long 2024 i estimatem se abaot 45% long ol kes blong dementia long wol oli konektem wetem 14 risk fakta we long tiori oli save jenisim. Estimet ya i tekem tingting se ol fakta ya oli kosem dementia, mo ol raetman i talem se sam konektem i save nomo wan part we i kosem. Hemi talem long ol hol popalesen, mo i no talem risk blong wan man."
+  - q: "Sapos papa o mama blong mi i gat gud laef, be from wanem tu i gat dementia?"
+    a: "Ej, jenis mo ol planti samting we no eni man i save kontrolem oli gat bigfala pat long dementia. Ol raetman blong Lancet Commission i talem se lowem risk long hol popalesen i no garantii se eniwan man bambae i avoidem dementia. Wan dagnosis i no sams se eniwan i fel."
+  - q: "Waet olsem i leitim toomas blong lowem risk blong dementia afta 65 yia?"
+    a: "Lancet Commission i talem se i no gat taem we i tumas erli o tumas leitim blong lowem risk, be planti evidens i stap long midlife. Tritim pruvlem blong hiring mo ae, stap aktiv mo stap kontaktem ol man, olsem ol step long laef we oli bin stadi. Toktok wetem dokta long wanem i fit wetem helt blong yu."
+  - q: "Ol brain gem o spesol kaikai i save blokem dementia?"
+    a: "No gem, kaikai, sapleman o daet i bin pruvem se i save blokem dementia. Wan trial blong tri yia blong MIND daet i no soem bigfala jenis long tingting kompea long wan kontrol daet, mo ol app blong trening tingting we oli selem oli no soem sem efekt olsem we oli kam aot long ol risej trial."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Sapos yu stap lukaotem wan man we i gat dementia, o yu bin lukluk long wan papa o mama we i stap wetem dementia, yu bambae i bin tinkem sapos hemi save stop, mo sapos yu save stopem hem i no kamap long yu. Pej ia i talem wanem risej i talem long saed ya, long ol wod we i isi. Sot ansa: no eniwan i save promisim blokem dementia, be risej i soem se sam risk i save lowem, mo taem ol risk oli lowa long wan hol popalesen, bambae i gat less man we oli kasem dementia, o oli kasem long laet long laef blong olgeta.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Hemi jeneral infomesen nomo, no medikol advaes. Plis ridim [medical disclaimer](/medical-disclaimer/) blong mifala mo toktok wetem dokta long helt blong yu.
 
-## Can dementia be prevented?
+## Eni hem i save blokem dementia?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+No gat wan pruvim fastfala wei blong blokem dementia long wan man. National Institute on Aging (NIA) i talem se [nating i bin pruvem yet blong blokem Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), be ol risej oli faenem ol promising strategi mo oli stap lanem wanem i save wok mo wanem i no save wok.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Wanem risej *i soem* hemi se sam helt kondisen mo habit oli konektem wetem hae jans blong dementia. Taem ol risk ya oli lowa long wan hol popalesen, bambae i gat less man we oli kasem dementia, o oli kasem long laet long laef. Hemi defren tumas long wan garantii.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Wan gudfala saen: Lancet Commission long 2024 i ripotem se long sam kantri we i gat hae inkam, olsem US mo UK, seka blong ol olfala we oli gat dementia i bin go daon. Ol raetman i tingting se hemi kamaot from gud edukesen, gud helt kea mo less damej long ol blad vesel long wan laef, long [samari blong University College London long ripot ya](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Wanem Lancet Commission long 2024 i faenem?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission long dementia prevention, intervention and care hemi wan grup blong 27 dementia risej man we oli ridim ol evidens evri sam yia. Ripot blong olgeta long 2024 i nemem **14 risk fakta** we oli save jenisim, mo i estimatem se olgeta togeta oli akaontem **klosap haf (abaot 45%) long ol kes blong dementia long wol**. Long wod blong ol raetman, ol kes ya *long tiori* bambae oli save blokem o lusum taem risk ya oli bin tekaot ([ripot blong Lancet Commission long 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Ol 14 fakta ya, grup long stej blong laef we evidens i strongfala:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Erli laef:** less edukesen.
+- **Midlife (abaot 40 long 65 yia):** les long herem, hae LDL ("nogud") kolesterol, sed sik long hed, sot long hed, no muvmen, sugar sik (diabetes), smoking, hae blood pressure, fat tumas, mo dring tumas blong alkol.
+- **Leiter laef:** wan man i stap nomo, bagarap eya, mo les long ae we oli no tritim.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Tu niufala samting long 2024 hemi hae LDL kolesterol mo les long ae we oli no tritim. Ol fakta we oli konektem wetem bigfala pat blong ol kes hemi les long herem mo hae LDL kolesterol (abaot 7% from wan), i folem nao less edukesen mo wan man i stap nomo (abaot 5% from wan).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[gaed blong risk fakta](/brain-health/risk-factors/) blong mifala i talem ol 14 ya long wan tebol, wetem wanem risej i konektem mo wanem yu save mekem.
 
-### What the 45% figure does not mean
+### Wanem namba 45% i no minim
 
-It is easy to misread this number, so it helps to be precise:
+I isi blong misrisem namba ia, so i gud blong klia:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Hemi wan estimet blong popalesen.** I talem long ol kes blong dementia long wol, no long jans blong yu o blong papa o mama blong yu.
+- **I tekem tingting se wan samting i kosem narafala.** Ol raetman i talem se oli bin akaontem nomo ol risk fakta we oli gat strong evidens, be sam konektem i save nomo wan part we i kosem. Example, sed sik long leit laef i save sam taem i kamap olsem wan erli saen blong dementia, i no wan kos.
+- **I no garantii eni samting long wan man.** Smol ripot blong UCL i talem se lowem risk i wok long level blong hol popalesen, mo i no garantii se eniwan man bambae i avoidem dementia.
+- **Haf narafala i no eksplenem long ol fakta ya.** Ej, jin mo ol kos we ol saentis oli no save yet oli mekem narafala pat.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Wanem defren i stap long "lowem risk" mo "blokem"?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Lowem risk** i minim lowem ol jans. Sapos wan bigfala grup blong man oli lowem blood pressure blong olgeta, fewfala long olgeta bambae oli kasem dementia long plante yia, i winim wanem bambae i kamap sapos oli no mekem. Sam man long grup ya bambae oli kasem dementia yet.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Blokem** i minim stopem wan samting blong no kamap. Long dementia, risej i no save promisim wanem man long tudei.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ol raetman i talem tu long **dilei**. Lancet Commission i ripotem nyuiem evidens se lowem risk i save pusum bak taem we dementia i stat mo i save skotem taem we man i laef wetem bad helt. Even wan dilei blong sam yia i save minim tumas long man mo famili blong hem.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Long saet ia, mifala i yusum "lowem risk" mo "konektem wetem" from i stret. Taem yu si wan prodak, supliment o program we i promisim "blokem Alzheimer's", yu mas wari gud. NIA i advaes se yu mas askem dokta bifo yu traem eni pil o trit we i promisim blokem Alzheimer's, from ol samting olsem oli save no sef, o oli waste moni, o tu-tu.
 
-## What have large trials found?
+## Wanem ol bigfala trial oli faenem?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Ol obsevesen studi (we oli lukaotem wanem i hapen long ol man long taem) i save soem ol konektem. Ol randomized trial, we ol man oli stap long wan program o wan grup blong kompea nomo long jans, oli strong test. Hemia nao wanem sam long ol trial we oli save tumas oli faenem.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Trial blong FINGER i rolem 1,260 adal we oli bin 60 long 77 yia we oli gat hae risk blong dementia. Haf blong olgeta i gat tu yia blong program blong advaes long kaikai, muvmen, komputa brain exasais mo jek long hat mo blood vesel helt; narafala haf i gat jeneral helt advaes nomo. Grup we i gat program i gat sam gud risal long wan set blong test blong tingting, wan smol be statistikli signifikant defren ([trial blong FINGER long The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Trial ia i mesem test risal, no dagnosis blong dementia.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER i rolem 2,111 adal we oli bin 60 long 79 yia, we oli no muvmen, oli no gat gud kaikai mo oli gat narafala risk fakta. Olgeta tufala grup oli bin inkurejem blong muv long bodi mo tingting moa, kaikaim gud moa, stap socail mo jekem helt blong hat. Wan grup i gat wan program we i gat strakja mo koj; narafala i wokem long hem seleva. Long tu yia, risal blong test blong tingting i gat gud long **tufala** grup, mo i gat smol moa long strakja grup ([trial blong US POINTER long JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Ol raetman i talem se i nidim moa taem blong followap blong save sapos defren ya i impoten long laef blong ol man. From i no gat wan "no wanem" grup, trial ia i no save talem hao moas narafala program i helpem, kompea long no eni jenis.
 
 ### SPRINT MIND (blood pressure)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND i studyem 9,361 adal long US we oli 50 yia o moa, we oli gat hae blood pressure. Oli bin asaenem olgeta long wan laen goal blong lowa blood pressure (namba antap i andanit long 120) o long standad goal (andanit long 140). Lowa goal i redyusim **mild cognitive impairment** tumas, wan stej blong problem long memori mo tingting we i save kam bifo dementia. Long **probable dementia**, i gat fewfala kes long grup we i gat lowa goal, be defren i no statistikli signifikant. Trial ia i stop bifo taem mo i gat fewfala kes blong dementia i winim wanem ol raetman i ekspektem, so hemi save smol tumas blong ansarem kwesten ya ([SPRINT MIND long JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Wanem ol risej blong olgeta i talem
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Wan Cochrane risyu long 2021 i kasem togeta naen bigfala trial blong program we oli wokem long plante risk long wan taem, wetem moa long 18,000 man. I faenem wan liklik gud long test blong tingting, be **i no gat klia defren long hamas man we oli kasem dementia** long tu trial we i mesurem hemia ([Cochrane risyu blong multi-domain intervensen](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Wan risyu long 2017 blong National Academies of Sciences, Engineering, and Medicine, we NIA i samarem, i faenem evidens we i "encouraging but inconclusive" (i gud be i no klia) long tri step: kontrolem hae blood pressure, insrisem fisikol muvmen, mo kognitif trening.
 
-## Does it matter when you start?
+## Eh taem we yu stat i impoten?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Advaes blong Lancet Commission hemi lowem ol risk we erli moa, mo kipim tem oli low long longfala taem: "we i erli, i moa gud" mo "we i longfala, i moa gud." Tu i talem se i no gat taem we i tumas erli o tumas leitim blong lowem risk. Planti evidens i stap long midlife, abaot 40 long 65 yia, be sam fakta, olsem les long ae mo wan man i stap nomo, i risk long leiter laef we aksen i save mekem sens yet.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Ripot ya i talem se nao i gat strong evidens se longfala taem blong stap wetem risk i mekem bigfala efekt. Example, sugar sik we i stat long midlife i luk olsem i impoten moa long sugar sik we i stat leitim.
 
-## Is dementia risk the same for everyone?
+## Eni risk blong dementia i sem long evri man?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+No. Commission i faenem se ol man long lo mo middle inkam kantri, ol man long ol minoriti grup, mo ol man we oli gat les moni, oli oftem karem moa long ol risk ya, so dementia i save kamap long yangfala ej. Plante risk i konektem wetem ol kondisen we ol man oli no jusum, olsem kwaliti blong skul we oli bin gat taem oli smol pikinini, eya blong ples we oli stap, mo wanem i stret blong kaikai we i sef i stap long maket o long ples blong kaikai.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Dat i wanem Commission i mekem ol advaes blong oli go long gavman olsem long ol man. Gud edukesen blong evri pikinini, klin eya, step blong redyusim smoking, less sugar mo sol long kaikai we i sel long ol stoa mo ol restorant, mo hiring aid blong evriwan we i nidim. Ol man oli save mekem wan defren, be ples we yumi stap long hem i impoten tu. Hemi wan narafala rison blong no blem eniwan long wanem dagnosis.
 
-## What are the honest limits of this research?
+## Wanem ol limit blong risej ia we i stret?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementia i tekem ol deka blong kamap**, be planti trial i stap tu-tri yia nomo. Blong mesurem dementia seleva, no jas test risal, i nidim ol studi we oli longfala tumas mo oli bigfala.
+- **Planti trial i mesurem test blong tingting.** Wan smol gud long wan test i no minim olwe fewfala man bambae i kasem dementia o laef bambae i isi moa.
+- **Ol volanta oli oftem winim ol narafala man** long helt mo edukesen. Lancet Commission i talem se planti evidens i kamap nomo long ol hae inkam kantri, mo ol minoriti grup oli no kasem moa.
+- **Sam konektem i go long tufala saet.** Wan man i no muvmen tumas o i no stap socail i save wan erli saen blong dementia, i no nomo wan kos.
+- **Ol trial long daet oli no gud yet.** Wan trial blong tri yia blong MIND daet i no soem bigfala jenis long tingting kompea long wan kontrol daet. Lukluk long [gaed blong daet](/brain-health/diet/) blong mifala.
+- **Ol brain gem i no pruvem se oli blokem dementia.** Lukluk long gaed blong mifala long [brain gem mo dementia](/brain-health/brain-games/).
+- **Fasting i gat smol evidens long ol man.** Mo i save risk long ol olfala. Lukluk long [gaed blong fasting](/brain-health/fasting/) blong mifala.
 
-## If someone did everything "right", why did they still get dementia?
+## Sapos wan man i mekem evri samting "stret", from wanem bae i gat dementia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+From dementia i no nomo wan rizol blong jes ol jenis we man i mekem. NIA i talem se [ej i biggest risk fakta we oli save long Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), mo no eniwan i save jenisim. Jin i gat pat. Mo ol saentis oli no save yet fulwan wanem i kosem Alzheimer's long ol man plante. Nomata sapos ol 14 risk fakta ya oli bin tekaot evriwan, eseman blong Lancet Commission i lusum moa long haf blong ol kes we i no klia.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+So sapos yu stap lukaotem wan man we i bin wok, kaikai gud, i no bin smoke evat, be i gat dementia yet, i no gat eni rong we hem i mekem, o yu i mekem. Sapos yu stap wetem dementia seleva, i no fol blong yu. Sensin blong fol i kamon long ol famili, be i no fair. Wanem i impoten nao hemi komfot, konekson mo ol gud deiten. Ol [aktiviti ideas](/activities/ideas/) mo [gaed blong caregiver self-care](/caregiving/caregiver-self-care/) blong mifala oli gud ples blong statem.
 
-## What steps can you talk over with a doctor?
+## Wanem ol step yu save toktok long dokta?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ol ia nao ol eria we planti taem oli stadi. Oli gud blong ravemaot long taem blong jek-ap long dokta, from planti long olgeta i helpem helt blong hat, feling mo fridom blong laef, nomata wanem i kamaot long dementia.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Blood pressure.** Askem wanem ol namba blong yu, mo wanem goal i sut long yu. Ripot blong Lancet Commission i sajestem se i gud blong raonem namba antap 130 o andanit, stat long abaot 40 yia, be stret goal blong olfala man i depen long helt blong hem long wanem.
+2. **Herem.** Askem blong tesem herem blong yu, mo sapos hiring aid i save helpem. [Gaed blong herem](/brain-health/hearing/) blong mifala i eksplenem ol risej.
+3. **Ae.** Gat ae chek long taem blong taem mo askem sapos ol problem olsem katarak i save trit.
+4. **Kolesterol.** Askem sapos LDL kolesterol blong yu i nidim chek mo sapos i gat wan samting we i nidim jenis.
+5. **Sugar long blad.** Sapos yu gat sugar sik, askem hao blong kontrolem hem long wan sef wei.
+6. **Tingting long mind.** Sed sik i kamon mo i save trit. Tellem dokta sapos yu bin filim daon o yu lus intres long ol samting ilong moa long tu wik.
+7. **Smoking mo alkol.** Askem long sapot blong stopem smoking mo long sef limit blong alkol.
+8. **Muvmen.** Askem wanem kaen aktiviti i sef long yu. [Gaed blong exasais](/brain-health/exercise/) blong mifala i gat ol aedia.
+9. **Protektem hed.** Usum helmet taem yu saeklem o playem ol kontak sport, mo askem abaot wei blong stopem fol.
+10. **Stap konektem.** Taem wetem ol narafala man i impoten long wan helti laef. Lukluk long [gaed blong social konekson](/brain-health/social-connection/) blong mifala, mo [slip](/brain-health/sleep/) tu.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Bifo yu jenisim ol medisin, daet, supliment, fasting o exasais, toktok long dokta bifo, namely sapos yu gat heart sik, sugar sik, histri blong fol, o yu stap wetem dementia finis.
 
-## Talk with a doctor
+## Toktok wetem dokta
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Sapos yu lukim ol jenis long memori o tingting we i wari yu, long yu seleva o long narawan, mekem apointmen. NIA i talem se [ol problem long memori i save gat ol narafala kos](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), olsem sayd efekt blong medisin, problem long tyroid, sed sik o les long vitamin B12, mo sam long ol problem ya i save finis taem kos i bin trit. [Gaed blong warning saen](/brain-health/warning-signs/) blong mifala i eksplenem wanem i sud blong lukaot.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Kasem hep kwik** sapos i gat jenis we i kamap kwik: konfiuson we i kamap kwik, wik o numb long wan saet blong bodi, hevi long toktok, o hed we i strong tumas, oli save minim wan stroke o narafala emjensi. Kolem nemba blong emjensi long ples blong yu.
 
-## Where Golden Moments fits
+## Ples we Golden Moments i stap
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments i mekem ol simpol shared aktiviti, olsem [conversation cards](/games/conversation-cards/), [picture bingo](/games/picture-bingo/) mo wan [calm breathing pause](/games/calm-breathing/). Ol ia i blong enjoyment mo taem wetem famili. Ol i no trit, mo ol i no blokem o slowem dementia.

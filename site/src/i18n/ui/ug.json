@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "ئاساسىي مەزمۇنغا ئۆتۈش",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "دەمېنسىيە پائالىيەتلىرى",
+    "homeLabel": "Golden Moments باش بېتى",
+    "mainNav": "ئاساسىي تىزىملىك",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "ئۇيغۇرچە",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: چاي ئىستاكىنى، ئاپتاپپەرەس ۋە ئىتنىڭ چوڭ، يېقىشلىق رەسىملىرى",
+    "languages": "تىل",
+    "englishOnly": "(ئىنگلىزچە)",
+    "machineTranslated": "بۇ بەت ئاپتوماتىك تەرجىمە قىلىنغان بولۇپ، تېخى ئانا تىلدا سۆزلىشىدىغان بىرى تەرىپىدىن تەكشۈرۈلمىدى.",
+    "readOriginal": "ئەسلى نۇسخىسىنى ئىنگلىزچە ئوقۇش",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "ئويۇنلار",
+      "activities": "پائالىيەتلەر",
+      "caregiving": "پەرۋىش قىلىش",
+      "brainHealth": "مېڭە ساغلاملىقى"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "سوئال-جاۋابلار",
+    "breadcrumb": "يول باشلىغۇچ",
+    "home": "باش بەت",
+    "lastUpdated": "ئەڭ ئاخىرقى يېڭىلىنىشى",
+    "topics": "تېمىلار",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "خەت چوڭلۇقى",
+      "smaller": "ئۆلچەملىك خەت",
+      "larger": "چوڭراق خەت",
+      "contrast": "يۇقىرى سېلىشتۇرما"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "ئويناش",
+    "picturePairs": "رەسىم جۈپلەش",
+    "conversationCards": "پاراڭلىشىش كارتىلىرى",
+    "pictureBingo": "رەسىملىك بىنگو",
+    "allGames": "بارلىق ئويۇنلار",
+    "pictures": "بېسىپ چىقىرىدىغان رەسىملەر",
+    "activityIdeas": "پائالىيەت پىكىرلىرى",
+    "ideas101": "101 پائالىيەت پىكىرى",
+    "lateStage": "كېيىنكى مەزگىل پائالىيەتلىرى",
+    "printable": "بېسىپ چىقارغىلى بولىدىغان پائالىيەتلەر",
+    "allActivities": "بارلىق پائالىيەتلەر",
+    "forCaregivers": "پەرۋىشكارلار ئۈچۈن",
+    "playTogether": "بىللە ئويناش ئۇسۇلى",
+    "selfCare": "ئۆزىڭىزگە كۆڭۈل بۆلۈش",
+    "brainHealth": "مېڭە ساغلاملىقى تەتقىقاتى",
+    "faq": "سوئال-جاۋابلار",
+    "about": "ھەققىدە",
+    "approach": "بىزنىڭ ئۇسۇلىمىز",
+    "howWeWrite": "بىزنىڭ يېزىش ئۇسۇلىمىز",
+    "organizations": "ئورگانلار ئۈچۈن",
+    "app": "Golden Moments ئەپ دېتالى",
+    "appHelp": "ئەپ ياردىمى",
+    "support": "قوللاش",
+    "legal": "قانۇنىي ئۇچۇرلار",
+    "sitePrivacy": "تور بېكەت مەخپىيەتلىكى",
+    "appPrivacy": "ئەپ مەخپىيەتلىك سىياسىتى",
+    "privacyChoices": "مەخپىيەتلىك تاللانمىلىرى",
+    "terms": "شەرتلەر ۋە ئەپ ئىجازەتنامىسى",
+    "safety": "بىخەتەرلىك ۋە مەقسەتلىك ئىشلىتىش",
+    "accessibility": "قولايلىقلىق",
+    "healthNotice": "ساغلاملىق ئۇچۇرى ئۇقتۇرۇشى",
+    "allLegal": "بارلىق قانۇنىي ئۇچۇرلار",
+    "note": "Golden Moments كۆڭۈل ئېچىش ئۈچۈن بىرلىكتە قىلىدىغان ئاددىي پائالىيەتلەرنى تەمىنلەيدۇ. بۇ تېببىي مەسلىھەت، سىناق ياكى داۋالاش ئەمەس ھەمدە ھېچكىمگە دىئاگنوز قويمايدۇ، ھالىتىنى ئۆلچىمەيدۇ ياكى نومۇر بەرمەيدۇ. ساغلاملىققا ئائىت سوئاللار بولسا دوختۇر بىلەن مەسلىھەتلىشىڭ. جىددىي ئەھۋالغا يولۇقسىڭىز، 120 غا تېلېفون قىلىڭ.",
+    "publisher": "نەشر قىلغۇچى: Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "دەمېنسىيە ۋە ئالزىمېر ئويۇنلىرى ھەم پائالىيەتلىرى | Golden Moments",
+    "description": "دەمېنسىيە ياكى ئالزىمېر كېسىلى بىلەن ياشاۋاتقان كىشىلەر ۋە ئۇلارنىڭ پەرۋىشكارلىرى ئۈچۈن توردا ئوينايدىغان ھەقسىز، خاتىرجەم رەسىم ئويۇنلىرى ۋە پائالىيەت پىكىرلىرى. تىزىملىتىش، ۋاقىت چەكلىمىسى ياكى نومۇر قويۇش يوق.",
+    "eyebrow": "ھەقسىز · ئېلان يوق · تىزىملىتىش يوق · ۋاقىت ياكى نومۇر يوق",
+    "h1": "دەمېنسىيە بىلەن ياشاۋاتقان كىشىلەر ئۈچۈن ئاددىي ۋە يېقىشلىق ئويۇنلار ھەم پائالىيەتلەر",
+    "lede": "ئۆزىڭىزگە قولايلىق قەدەمدە بىرلىكتە ھۇزۇرلىنىدىغان ئاددىي رەسىم ئويۇنلىرى، تونۇش سۈرەتلەر ۋە پائالىيەتلەر.",
+    "playGame": "ئويۇن ئويناش",
+    "findIdeas": "پائالىيەت پىكىرلىرىنى كۆرۈش",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "تېلېفون، تاختا كومپيۇتېر ۋە كومپيۇتېردا ئىشلەيدۇ",
+      "كۆرۈنۈپ تۇرىدىغان چوڭ رەسىملەر",
+      "خالىغان ۋاقىتتا توختىتىشقا بولىدۇ، مەغلۇپ بولۇش دېگەن يوق"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "شۇنداقلا ئۆزىڭىزنىڭ ئائىلە سۈرەتلىرى ئىشلىتىلىدىغان iPhone، iPad ۋە Android ئۈچۈن ھەقسىز ئەپ بار",
+    "albumNote": "«چاي ئىستاكىنىنىڭ ئىككى رەسىمى بىللە.»",
+    "gamesEyebrow": "تور كۆرگۈچىڭىزدە ئويناڭ",
+    "gamesTitle": "ھازىرلا ئوينىيالايدىغان ئويۇنلار",
+    "gamesLede": "ھەر بىرى خاتىرجەم، چوڭلارغا ماس كېلىدىغان ۋە تېز باشلىنىدىغان ئويۇنلاردۇر. بىرىنى تاللاپ، يانمۇيان ئولتۇرۇپ، نۆۋەت بىلەن بېسىپ ئويناڭ.",
+    "seeAllGames": "بارلىق {count} ئويۇننى كۆرۈش",
+    "howTitle": "قانداق ئوينايدۇ",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "تونۇش بىر نەرسىنى تاللاڭ",
+        "text": "چاي ئىستاكانلىرى، باغچىلار، ئەرمەك ھايۋانلار ۋە يەلكەنلىك كېمىلەرنىڭ رەسىملىرى. ئالدىن ئوقۇش ياكى قائىدە ئۆگىنىشنىڭ ھاجىتى يوق."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "يانمۇيان ئولتۇرۇڭ",
+        "text": "ئۇلار ئەركىن باسسۇن. رەسىملەر ھەققىدە پاراڭلىشىڭ. جۈپ بولمىغان تەقدىردىمۇ، پەقەت كېيىنكى بېسىشنى كۈتىدۇ."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "كۆڭۈللۈك ۋاقتىدا توختىتىڭ",
+        "text": "بىر مەيدان ئويۇن تولۇق بىر پائالىيەت ھېسابلىنىدۇ. ئېكراندا ھەمىشە «ھازىرچە تۈگىدى» دېگەن كۇنۇپكا كۆرۈنۈپ تۇرىدۇ."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "ئېكراندىن ھالقىغان پائالىيەتلەر",
+    "stageTitle": "ھەر بىر مەزگىلگە ماس كېلىدىغان پائالىيەت پىكىرلىرى",
+    "stageLede": "مۇزىكا، كۈندىلىك ئىشلار، ئەسلىمىلەر ۋە ئازادە سېزىم دەقىقىلىرى، ھازىر قايسىسى قولايلىق تۇيۇلسا شۇنىڭغا ماسلاشتۇرۇلغان.",
+    "ideas101": "101 پائالىيەت پىكىرى",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "دەسلەپكى مەزگىل",
+        "text": "ئۇلار ياخشى كۆرىدىغان ئىشلارنى ئازراق تەڭشەش بىلەن داۋاملاشتۇرۇش: قىزىقىشلار، سىرتقا چىقىش، سۆز ئويۇنلىرى ۋە بىللە پىلانلاش.",
+        "label": "دەسلەپكى مەزگىل پىكىرلىرى"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "ئوتتۇرا مەزگىل",
+        "text": "باسقۇچلارغا بۆلۈنگەن ئاددىي، تونۇش ئىشلار: كىيىم قاتلاش، رەتلەش، مۇزىكا ئاڭلاش، رەسىم ئويۇنلىرى ۋە قىسقا سەيلە.",
+        "label": "ئوتتۇرا مەزگىل پىكىرلىرى"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "كېيىنكى مەزگىل",
+        "text": "تېگىشىش، ئاۋاز ۋە كۆرۈش ئارقىلىق راھەتلىنىش ۋە يېقىنلىق ھېس قىلىش: قول پەرۋىشى، ياخشى كۆرىدىغان ناخشىلار، رەسىملەر ۋە بىللە بولۇش.",
+        "label": "كېيىنكى مەزگىل پىكىرلىرى"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "ئالاھىدە بىر نەرسە ئىزدەۋاتامسىز؟ <a href=\"/activities/alzheimers/\">ئالزىمېر كېسىلى ئۈچۈن پائالىيەتلەر ۋە ئويۇنلار</a>، <a href=\"/activities/memory-games/\">ئاددىي ئەستە تۇتۇش ئويۇنلىرى</a>، <a href=\"/activities/trivia/\">ئوڭاي سوئال-جاۋابلار</a> ياكى <a href=\"/activities/puzzles/\">تېپىشماقلار</a>نى سىناپ بېقىڭ.",
+    "approachEyebrow": "بىزنىڭ ئۇسۇلىمىز",
+    "approachTitle": "بىرلىكتىكى پائالىيەت، ئەستە تۇتۇش سىنىقى ئەمەس",
+    "approachLede": "نۇرغۇن «مېڭە ئويۇنلىرى» سۈرئەت، نومۇر ۋە ئۇدا غەلىبە قىلىشنى چۆرىدەپ لايىھەلەنگەن. دەمېنسىيە بىلەن ياشاۋاتقان بىر كىشى ئۈچۈن، بۇ ئۆزىنى ئىمتىھاندەك ھېس قىلدۇرۇپ قويۇشى مۇمكىن. بىز دەل بۇنىڭ ئەكسىچە قىلدۇق.",
+    "approachLink": "نېمىشقا بۇنداق لايىھەلىدۇق",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "مەغلۇبىيەت يوق",
+        "text": "ۋاقىت، نومۇر، جان سانى ياكى ئۇتتۇرۇش يوق. ئوخشىمىغان رەسىم چىقىش خاتالىق ئەمەس، پەقەت بىر كۈتۈشتۇر."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "رەسىملەر كۆرۈنۈپ تۇرىدۇ",
+        "text": "ئەسلەشكە ئەمەس، كۆرۈپ تونۇشقا ئەھمىيەت بېرىلگەن. رەسىملەر ئوچۇق ھالەتتە جۈپلىنىدۇ، شۇڭا بىر نەرسىنى مەجبۇرىي ئەستە تۇتۇشنىڭ ھاجىتى يوق."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "چوڭلارغا ماس ۋە ئىززەت-ھۆرمەتلىك",
+        "text": "ئىللىق، ئاددىي سۆزلەر ۋە تۇرمۇشتىكى ھەقىقىي رەسىملەر. كارتون ياكى بالىلارچە سۆزلەر ھەرگىز ئىشلىتىلمەيدۇ."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "ئەسلىدىنلا مەخپىيەتلىك كاپالەتلەندۈرۈلگەن",
+        "text": "ھېسابات ياكى ئېلان يوق. رەسىملىرىڭىز ئۈسكۈنىڭىزدىن سىرتقا چىقمايدۇ."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "پەرۋىشكارلار ئۈچۈن",
+    "guidesTitle": "كۈندىلىك پەرۋىش ئۈچۈن ئەمەلىي قوللانمىلار",
+    "allCaregiving": "بارلىق پەرۋىش قوللانمىلىرى",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "بىللە ئويۇن ئويناش ئۇسۇلى",
+        "text": "تەييارلىق، سۈرئەت ۋە ئويۇن كۆڭۈللۈك بولماي قالغاندا نېمە قىلىش كېرەكلىكى."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "ئۇلار پائالىيەتنى رەت قىلغاندا",
+        "text": "رەت قىلىشنىڭ ئورتاق سەۋەبلىرى ۋە كېيىنرەك قايتا سىناپ كۆرۈشنىڭ مۇلايىم ئۇسۇللىرى."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "تاختا كومپيۇتېرنى تەڭشەش",
+        "text": "چوڭراق خەت، ئاز ئاۋارىچىلىك ۋە ئاددىي بىر ئاساسىي ئېكران."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "ھەقسىز بېسىپ چىقىرىلىدىغان پائالىيەتلەر",
+        "text": "چوڭ خەتلىك سۆز تېپىش، رەڭ بېرىش بەتلىرى، بىنگو ۋە پاراڭلىشىش كارتىلىرى."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "مېڭە ساغلاملىقى: تەتقىقاتلار نېمە دەيدۇ",
+    "researchText": "دەمېنسىيەنىڭ ئالدىنى ئالغىلى بولامدۇ؟ مېڭە ئويۇنلىرى پايدىلىقمۇ؟ ئاچ تۇرۇش، يېمەك-ئىچمەك، ئۇيقۇ ۋە ئاڭلاش سەزگۈسىچۇ؟ ئىسپاتلار كەمچىل بولغان تەرەپلەرنىمۇ ئۆز ئىچىگە ئالغان ئاددىي، مەنبەلىك جاۋابلار.",
+    "researchLink": "تەتقىقات قوللانمىلىرىنى ئوقۇش",
+    "appEyebrow": "شۇنداقلا بىر ئەپ",
+    "appTitle": "iPhone، iPad ۋە Android ئۈچۈن Golden Moments",
+    "appText": "بۇ ھەقسىز ئەپ تورسىزمۇ ئىشلەيدۇ ھەمدە سىز تاللىغان، ئۈسكۈنىڭىزدە نۇسخىسى ساقلانغان ئائىلە سۈرەتلىرىنى ئىشلىتەلەيدۇ. ئوخشاش خاتىرجەم لايىھە: تۆت چوڭ كاتەكچە، ۋاقىت يوق، نومۇر يوق.",
+    "aboutApp": "ئەپ ھەققىدە",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "دەمېنسىيە بىلەن ياشاۋاتقان كىشىلەرگە قايسى ئويۇنلار ماس كېلىدۇ؟",
+        "a": "ياخشى ئويۇنلار ئاددىي، كۆنۈككەن ۋە ھېچقانداق بېسىمسىز بولىدۇ: ماسلاشتۇرىدىغان چوڭ رەسىملەر، تۈرگە ئايرىش، ئاددىي قۇراشتۇرما رەسىملەر، كۆپچىلىككە تونۇش ماقال-تەمسىللەرنى تاماملاش، بوياش، رەسىملىك بىنـگو ۋە پاراڭ كارتىلىرى. ئەڭ ياخشى تاللاش — شۇ كىشى بۈگۈن خۇشاللىق تاپقان تاللاشتۇر. ۋاقىت ئۆلچىگۈچ، نومۇر ۋە ئىمتىھاندەك تۇيغۇ بېرىدىغان ھەرقانداق نەرسىدىن يىراق تۇرۇڭ."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "بۇ دېمېنسىيە ئويۇنلىرى ھەقسىزمۇ؟",
+        "a": "ھەئە. Golden Moments دىكى ھەر بىر ئويۇن ۋە قەغەزگە بېسىپ چىقىرىلىدىغان مەزمۇنلار ھەقسىز بولۇپ، ھېسابات ئېچىش، تىزىملىتىش ياكى ئەپ چۈشۈرۈش تەلەپ قىلىنمايدۇ. ئويۇنلار تېلېفون، تاختا كومپيۇتېر ياكى كومپيۇتېردىكى تور كۆرگۈچتە بىۋاسىتە ئىشلەيدۇ."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "مېڭە ئويۇنلىرى دېمېنسىيەنىڭ ئالدىنى ئالامدۇ؟",
+        "a": "ھېچقانداق ئويۇننىڭ دېمېنسىيەنىڭ ئالدىنى ئالىدىغانلىقى ئىسپاتلانمىغان، شۇنداقلا Golden Moments ھەرقانداق كېسەللىكنى داۋالاش ياكى ئالدىنى ئېلىش توغرىسىدا تەشەببۇس قىلمايدۇ. ئويۇنلىرىمىز پەقەت كۆڭۈل ئېچىش ۋە بىللە ۋاقىت ئۆتكۈزۈش ئۈچۈندۇر. مېڭە ساغلاملىقى سەھىپىمىزدە تەتقىقاتلاردا نېمىلەرنىڭ ئېنىقلانغانلىقى ۋە نېمىلەرنىڭ ئىسپاتلانمىغانلىقى چۈشەندۈرۈلگەن."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "بۇ ئويۇنلار ئالزېيمېر كېسىلى بار كىشىلەرگە ماس كېلەمدۇ؟",
+        "a": "ھەئە. ئالزېيمېر كېسىلى دېمېنسىيەنىڭ ئەڭ كۆپ ئۇچرايدىغان سەۋەبى بولۇپ، ئويۇنلار مەخسۇس شۇنىڭغا ماسلاشتۇرۇلغان: ئېكراندا داۋاملىق تۇرىدىغان چوڭ رەسىملەر، ئاز ساندىكى تاللاشلار، شۇنداقلا ئەستە تۇتۇش ياكى خاتالىشىپ قېلىش ئەندىشىسى بولمىغان مۇھىت. ماسلاشتۇرۇش، تۈرگە ئايرىش ۋە تونۇش ماقال-تەمسىللەرنى تولۇقلاش يېڭى نەرسە ئۆگىنىشكە ئەمەس، بەلكى ئۇزاق يىللاردىن بۇيان ساقلىنىپ كەلگەن بىلىملەرگە تايىنىدۇ."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "كېيىنكى باسقۇچتىكى دېمېنسىيە بىلەن ياشاۋاتقان كىشىلەرمۇ بۇ پائالىيەتلەرنى قىلالامدۇ؟",
+        "a": "كۆپىنچە ئەھۋالدا قىلالايدۇ، بىراق يېنىدا بىر كىشى ھەمراھ بولۇشى كېرەك. ئىككى رەسىم ئىچىدىن ئوخشىشىنى تېپىش، تۆت كۆزنەكلىك رەسىم جۈپلىرى، بويامچىلىق بېتى ياكى بىر دەملىك ئازادە نەپەس ئېلىش مەشىقى بىلەن باشلاڭ. ۋاقىتنى قىسقا تۇتۇڭ، ئۇلارنىڭ خاھىشىغا ئەگىشىڭ ھەمدە چارچىغاندەك قىلسا دەرھال توختىتىڭ."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "ئۇچۇرلىرىم مەخپىي تۇرامدۇ؟",
+        "a": "تور بېكەتتە ھېسابات تۈزۈمى يوق، ھېچقانداق ئېلان بېرىلمەيدۇ. قايسى بەتلەرنىڭ زىيارەت قىلىنغانلىقىنى چۈشىنىش ئۈچۈنلا Google Analytics نى ئىشلىتىمىز. سۈرەت جۈپلىرى ئۈچۈن سىز تاللىغان رەسىملەر پەقەت ئۆزىڭىزنىڭ تور كۆرگۈچىدە كۆرسىتىلىدۇ ۋە تورغا ھەرگىز يۈكلەنمەيدۇ."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Golden Moments نى كىملەر تەييارلىغان؟",
+        "a": "Golden Moments — ئائىلىلەر ۋە ھالىدىن خەۋەر ئالغۇچىلار ئۈچۈن توردا ۋە ھەقسىز ئەپ سۈپىتىدە خاتىرجەم، قۇرامىغا يەتكەنلەرگە ماس رەسىملىك پائالىيەتلەرنى ئىشلەيدىغان كىچىك بىر گۇرۇپپىدۇر. بىز كىلىنىكىلىق دوختۇر ئەمەس، بۇ يەردىكى ھېچقانداق مەزمۇن تېببىي مەسلىھەت ھېسابلانمايدۇ."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "دەسلەپكى",
+    "middle": "ئوتتۇرا",
+    "late": "كېيىنكى",
+    "hintOne": "كۆپىنچە {list} باسقۇچقا ماس كېلىدۇ",
+    "hintMany": "كۆپىنچە {list} باسقۇچلىرىغا ماس كېلىدۇ",
+    "labelEarly": "دەسلەپكى باسقۇچ",
+    "labelMiddle": "ئوتتۇرا باسقۇچ",
+    "labelLate": "كېيىنكى باسقۇچ"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "بۇ ئويۇن ھەققىدە",
+    "printable": "بېسىپ چىقىرىلىدىغان مەزمۇن",
+    "play": "{name} ئويناش →",
+    "readGuide": "قوللانمىنى ئوقۇش"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "ئازادە، تىنچ ئويۇنغا تەييارمۇ؟",
+    "text": "چوڭ رەسىملەر، ۋاقىت چەكلىمىسى يوق، نومۇر ئالمايدۇ ۋە تىزىملىتىش تەلەپ قىلىنمايدۇ. تور كۆرگۈچىڭىزدە بىللە ئويناڭ.",
+    "play": "ئويۇن ئويناش",
+    "all": "بارلىق ئويۇنلارنى كۆرۈش",
+    "aria": "ئويۇن ئويناش"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "بۇ ئويۇنلارنى يېنىڭىزدا ئېلىپ يۈرۈڭ",
+    "text": "iPhone، iPad ۋە Android ئۈچۈن ھەقسىز Golden Moments ئەپى: چوڭ رەسىم كاتەكچىلىرى، ئۆز ئائىلە سۈرەتلىرىڭىز بىلەن ئوينايدىغان ئويۇنلار ۋە تورسىزمۇ ئىشلەيدىغان رەسىم توپلاملىرى بار. ھېسابات، ئېلان، ۋاقىت ئۆلچىگۈچ ياكى نومۇر يوق.",
+    "appStore": "App Store دىن ئېلىڭ",
+    "googlePlay": "Google Play دىن ئېلىڭ",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "ئەپ ھەققىدە",
+    "aria": "ئەپنى چۈشۈرۈش"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "پائالىيەتلەر",
+      "title": "دېمېنسىيە بىلەن ياشاۋاتقانلار ئۈچۈن پائالىيەتلەر",
+      "seo": "دېمېنسىيە بىلەن ياشاۋاتقانلار ئۈچۈن پائالىيەتلەر: باسقۇچ بويىچە پىكىرلەر",
+      "description": "دېمېنسىيە بىلەن ياشاۋاتقانلار ئۈچۈن ھەر بىر باسقۇچقا ماس كېلىدىغان پائالىيەت پىكىرلىرى: مۇزىكا، ئەسلىمىلەر، كۈندىلىك ئىشلار، سېزىم دەملىرى، قول ھۈنەرلىرى، ئوچۇق ھاۋا پائالىيەتلىرى ۋە ھەقسىز قەغەز مەزمۇنلىرى.",
+      "lede": "مەزمۇنلۇق پائالىيەت كىشىگە ئاراملىق، مەقسەت تۇيغۇسى ياكى بىر دەملىك ئالاقە باغلاش ھۇزۇرى ئېلىپ كېلىدىغان ھەرقانداق ئىشتۇر. ئۇلار بۇرۇندىن ياقتۇرۇپ كەلگەن ئىشلاردىن باشلاڭ ۋە ئۇنى بۈگۈنكى ھالىتىگە ماسلاشتۇرۇڭ."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "پەرۋىش قىلىش",
+      "title": "پەرۋىش قىلىش قوللانمىلىرى",
+      "seo": "دېمېنسىيە كۈتۈش قوللانمىلىرى: كۈندىلىك ئەمەلىي ياردەم",
+      "description": "دېمېنسىيە بىلەن ياشاۋاتقانلارنىڭ ھالىدىن خەۋەر ئالغۇچىلار ئۈچۈن ئەمەلىي، مېھرىبان يېتەكچىلەر: بىللە ئويۇن ئويناش، ئالاقە، رەت قىلىشلار، كەچقۇرۇنلۇق بىئاراملىق، تاختا كومپيۇتېر ئىشلىتىش، ئەپ تاللاش ۋە ئۆزىگە كۆڭۈل بۆلۈش.",
+      "lede": "دېمېنسىيە بىلەن ياشاۋاتقان يېقىنىڭىزنىڭ ھالىدىن خەۋەر ئېلىش جەريانىدىكى كۈندىلىك دەقىقىلەر ئۈچۈن، شۇنداقلا ئۆزىڭىزگە پەرۋىش قىلىش ئۈچۈن ئاددىي، ئەمەلىي ياردەملەر."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "مېڭە ساغلاملىقى",
+      "title": "مېڭە ساغلاملىقى: تەتقىقاتلار نېمە دەيدۇ",
+      "seo": "مېڭە ساغلاملىقى ۋە دېمېنسىيە خەۋپى: تەتقىقات نەتىجىلىرى",
+      "description": "دېمېنسىيەنىڭ ئالدىنى ئالغىلى بولامدۇ؟ دېمېنسىيەنىڭ خەۋپ ئامىللىرى، مېڭە ئويۇنلىرى، روزا تۇتۇش، يېمەك-ئىچمەك، چېنىقىش، ئۇيقۇ، ئاڭلاش قابىلىيىتى ۋە دەسلەپكى ئاگاھلاندۇرۇش بەلگىلىرى ھەققىدە ئىشەنچلىك، مەنبەلىك چۈشەندۈرۈشلەر.",
+      "lede": "چوڭ تىپتىكى تەتقىقاتلارنىڭ دېمېنسىيە خەۋپىنى تۆۋەنلىتىش ھەققىدە كۆرسەتكەن نەتىجىلىرى، دەلىل-ئىسپاتلار ئاجىز ياكى ئېنىق بولمىغان تەرەپلەرنىمۇ ئۆز ئىچىگە ئالغان ئاساستا ئاددىي بايان قىلىندى. ئومۇمىي ئۇچۇر، تېببىي مەسلىھەت ئەمەس."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "يېڭىلانغان ۋاقتى",
+    "minuteRead": "{n} مىنۇتلۇق ئوقۇش",
+    "byTeam": "Golden Moments گۇرۇپپىسى تەييارلىغان",
+    "howWeWrite": "يېزىش ئۇسۇلىمىز",
+    "shortAnswer": "قىسقىچە جاۋاب",
+    "onThisPage": "بۇ بەتتە ({n} بۆلەك بار)",
+    "commonQuestions": "كۆپ سورىلىدىغان سوئاللار",
+    "sources": "پايدىلانغان مەنبەلەر",
+    "sourcesNote": "بىز بۇ بەت پايدىلانغان تەتقىقاتلار ۋە تەشكىلاتلارنىڭ ئۇلانمىلىرىنى تەقدىم قىلدۇق. مەزمۇن يېڭىلانغاندا ئۇلارنىڭ ھەر بىرى تەكشۈرۈلگەن.",
+    "tryTogether": "بىللە سىناپ كۆرۈڭ",
+    "relatedGuides": "مۇناسىۋەتلىك قوللانمىلار",
+    "related": "مۇناسىۋەتلىك",
+    "startHere": "بۇ يەردىن باشلاڭ"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "سالامەتلىك ئۇچۇرى ئەسكەرتىشى",
+    "title": "ئومۇمىي ئۇچۇر، تېببىي مەسلىھەت ئەمەس",
+    "textHtml": "بۇ بەت ئائىلىلەر ئۈچۈن ئېلان قىلىنغان تەتقىقاتلارنى يىغىنچاقلاپ بېرىدۇ. ئۇ بىرەر كىشى ئۈچۈن نېمىنىڭ ئەڭ مۇۋاپىق ئىكەنلىكىنى بەلگىلەپ بېرەلمەيدۇ. يېمەك-ئىچمەك، چېنىقىش، ئۇيقۇ، دورا ياكى كۈندىلىك قوشۇمچە ماددىلارنى ئۆزگەرتىشتىن بۇرۇن دوختۇر بىلەن مەسلىھەتلىشىڭ. تۇيۇقسىز ھوش سېزىمسىزلىنىش ياكى باشقا تۇيۇقسىز ئۆزگىرىشلەر يۈز بەرسە، دەرھال دوختۇرغا كۆرۈنۈڭ. <a href=\"/medical-disclaimer/\">سالامەتلىك ئۇچۇرى ئەسكەرتىشىمىزنى ئوقۇڭ</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "ئورتاق پائالىيەت، ئەستە تۇتۇش ئىمتىھانى ئەمەس",
+      "seoTitle": "Golden Moments ھەققىدە: ئۇسۇلىمىز",
+      "description": "نېمە ئۈچۈن Golden Moments ئويۇنلىرىدا ۋاقىت ئۆلچىگۈچ، نومۇر ياكى نەتىجە ساناقلىرىنىڭ يوقلۇقى، رەسىملەرنىڭ داۋاملىق كۆرۈنۈپ تۇرۇش سەۋەبى ھەمدە بىزنىڭ دېمېنسىيە توغرىسىدا نېمىلەرنى دەپ، نېمىلەرنى تەشەببۇس قىلمايدىغانلىقىمىز.",
+      "crumb": "ئۇسۇلىمىز",
+      "lede": "Golden Moments پەرۋىش قىلغۇچى بىلەن دېمېنسىيە بىلەن ياشاۋاتقان يېقىنى يانداش تۇرۇپ بىللە ھۇزۇرلىنالايدىغان خاتىرجەم، قۇرامىغا يەتكەنلەرگە ماس رەسىملىك پائالىيەتلەرنى يارىتىدۇ.",
+      "bodyHtml": "<h2>بىزنىڭ ئىشەنچىمىز</h2><p>پائالىيەتنىڭ ئەھمىيىتى دەل مۇشۇ دەقىقىنىڭ ئۆزىدە: بىر پاراڭ، تەبەسسۇم، ئىككى رەسىمنى بىرلەشتۈرۈشتىن كەلگەن خۇشاللىق ياكى پەقەت بىللە يېقىن ئولتۇرۇش. بۇنىڭ مەقسىتى كىمنىدۇر سىناش، قىستاش ياكى بىرەر نەرسىنى ئىسپاتلاش ئەمەس.</p><p>نۇرغۇن مېڭە چېنىقتۇرۇش دېتاللىرى تېزلىك، نومۇر، ئۇدا ئۇتۇش ۋە دەرىجىلەر ئاساسىدا لايىھەلەنگەن. زېھىن توسالغۇسى بار بىر كىشى ئۈچۈن بۇ ئۆتكىلى بولمايدىغان بىر ئىمتىھاندەك تۇيۇلۇشى مۇمكىن. بىز دەل بۇنىڭ ئەكسىچە لايىھەلىدۇق ھەم ئۆزىمىزگە مۇنداق قائىدىلەرنى بېكىتتۇق:</p><ul><li><strong>مەغلۇبىيەت دېگەن نەرسە يوق.</strong> ھېچقانداق ئېكراندا سائەت، نومۇر، باسقۇچ سانى، جان، ئۇدا ئۇتۇش تىزىملىكى، رەڭلىك قەغەز چاچقۇ ياكى ۋاقىت قايتۇرۇپ ساناش بولمايدۇ.</li><li><strong>ئېسىگە ئالدۇرۇشتىن كۆرە تونۇشقا ئەھمىيەت بېرىش.</strong> رەسىملەر كۆرۈنۈپ تۇرىدۇ. كۆرسەتمىلەر پاراڭلىشىشقا ئۈندەيدۇ، ھەرگىزمۇ ئىسىملارنى ياكى ئەسلىمىلەرنى سوراپ سىنىمايدۇ.</li><li><strong>چوڭ، ئاددىي ۋە مۇقىم.</strong> چوڭ يېزىق ۋە رەسىملەر، ئېنىق سېلىشتۇرما ھەم ئورنى ئۆزگەرمەيدىغان كۇنۇپكىلار.</li><li><strong>چوڭلارغا خاس ئىززەت-ھۆرمەت.</strong> رېئال تۇرمۇشتىكى رەسىملەر ۋە ئاددىي، ئىللىق سۆزلەر. كارتون فىلىم ئۇسلۇبى، كىچىك بالىلارچە ماختاش ياكى چىراي ئىپادىسى مۇكاپاتلىرى يوق.</li><li><strong>ئاسان ئاخىرلاشتۇرۇش يولى.</strong> «ھازىرچە مۇشۇ يەردە توختىتىش» كۇنۇپكىسى ھەمىشە كۆرۈنۈپ تۇرىدۇ. يېرىم يولدا توختىتىشمۇ ياخشى بىر نەتىجە.</li><li><strong>ئەسلىدىنلا شەخسىيەتنى قوغداش.</strong> ھېسابات ئېچىش ۋە ئېلانلار يوق. سىز تاللىغان سۈرەتلەر پەقەت ئۆز ئۈسكۈنىڭىزدە ساقلىنىدۇ.</li></ul><h2>بىز دەۋا قىلمايدىغان مەزمۇنلار</h2><p>ئويۇنلىرىمىز كۆڭۈل ئېچىش ۋە ئۆزئارا يېقىنلىشىش ئۈچۈندۇر. ئۇلار زېھىن توسالغۇسىنى ياكى ئالزھېيمېر كېسىلىنى تەكشۈرمەيدۇ، سىنىمايدۇ، ئۆلچىمەيدۇ، داۋالىمايدۇ، ئاستىلاتمايدۇ ياكى ئالدىنى ئالمايدۇ، ھېچكىم بۇ ئويۇنلارنى شۇ مەقسەتتە تاللىماسلىقى كېرەك. بىز <a href=\"/brain-health/\">مېڭە ساغلاملىقى بەتلىرىمىز</a>دە تەتقىقاتلار ھەققىدە يازغاندا، ئىسپاتلار يېتەرلىك بولمىغان جايلارنى ئوچۇق ئەسكەرتىمىز ھەم ئۇ تەتقىقاتلارنى ئۆزىمىزنىڭ ئويۇنلىرى بىلەن باغلىمايمىز.</p><h2>بىز كىم</h2><p>Golden Moments كىچىك بىر مۇستەقىل كوماندا. بىز كىلىنىكا دوختۇرى ئەمەسمىز. بىزنىڭ يېتەكچىلىرىمىز National Institute on Aging ۋە Alzheimer’s Association غا ئوخشاش تەشكىلاتلارنىڭ ئېلان قىلغان يوليورۇقلىرىغا ئاساسەن يېزىلغان بولۇپ، ھەر بىر يېتەكچىدە تايانغان مەنبەلەر كۆرسىتىلگەن. <a href=\"/editorial-policy/\">بەتلىرىمىزنى قانداق يېزىپ تەكشۈرىدىغانلىقىمىزنى ئوقۇڭ</a>.</p><h2>سىزگە نېمىنىڭ ياردىمى بولىدىغانلىقىنى ئېيتىپ بېرىڭ</h2><p>سىزگە نېمىنىڭ ياخشى كەلگەنلىكىنى ۋە نېمىنىڭ توغرا كەلمىگەنلىكىنى ئاڭلاشنى خالايمىز، بولۇپمۇ زېھىن توسالغۇسى بار كىشىلەر، ئائىلىدە قارىغۇچىلار ۋە پائالىيەت خىزمەتچىلىرىنىڭ پىكىرلىرى بىز ئۈچۈن قىممەتلىك. ئېلخەت ئادرېسىمىز: <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "بەتلىرىمىزنى قانداق يازىمىز ۋە تەكشۈرىمىز",
+      "seoTitle": "تەھرىرلەش پىرىنسىپى",
+      "description": "Golden Moments زېھىن توسالغۇسىغا ئائىت پائالىيەتلەر ۋە مېڭە ساغلاملىقى بەتلىرىنى قانداق تەتقىق قىلىدۇ، يازىدۇ، مەنبەلەرگە تايىنىدۇ ۋە يېڭىلايدۇ، شۇنداقلا بىز نېمىلەرنى ھەرگىز ئېلان قىلمايمىز.",
+      "crumb": "تەھرىرلەش پىرىنسىپى",
+      "bodyHtml": "<h2>مەنبەلىرىمىز</h2><p>بىز يېتەكچىلىرىمىزنى National Institute on Aging، CDC، Alzheimer’s Association، Alzheimer’s Foundation of America، Family Caregiver Alliance ۋە NHS قاتارلىق تەشكىلاتلارنىڭ ئاممىۋى يوليورۇقلىرىغا، شۇنداقلا Cochrane تەكشۈرۈشلىرى ۋە كەڭ كۆلەملىك كىلىنىكىلىق تەتقىقاتلار قاتارلىق باھالانغان ئىلمىي ئىزدىنىشلەرگە ئاساسلايمىز. ھەر بىر يېتەكچى ئۆزى تايانغان مەنبەلەرنى تىزىپ كۆرسىتىدۇ. نەقىل ئېلىشتىن بۇرۇن ھەر بىر مەنبەنى ئۆزىمىز ئېچىپ كۆرىمىز ۋە پەقەت ئۇنىڭدا ئەمەلىي ئېيتىلغان مەزمۇنلارنىلا يازىمىز.</p><h2>قانداق يازىمىز</h2><ul><li>ئەمەلىي قولايلىقنى ئالدىنقى ئورۇنغا قويۇش: بۈگۈن نېمە قىلىش كېرەكلىكىنى ئاددىي تىلدا بايان قىلىش.</li><li>ئىسپاتلارغا سەمىمىي بولۇش: ئەمەلىيەت قانداق بولسا بىز «مۇناسىۋەتلىك بولۇشى مۇمكىن»، «مۇمكىن» ۋە «ئىسپاتلار بىردەك ئەمەس» دەپ يازىمىز.</li><li>ھۆرمەت قىلىش: بىز زېھىن توسالغۇسى بار كىشىلەر توغرىسىدا چوڭلارغا خاس ھۆرمەت بىلەن يازىمىز، ھەرگىزمۇ ئۇلارنى سىنايدىغان ياكى كۆڭلىگە ئازار بېرىدىغان تىلنى ئىشلەتمەيمىز.</li><li>ئويدۇرۇپ چىقىرىلغان مەزمۇنلار يوق: يالغان سانلىق مەلۇماتلار، نەقىللەر، مۇتەخەسسىسلەر، تەتقىقاتلار، باھالار ياكى كاپالەتلەر كىرگۈزۈلمەيدۇ.</li></ul><h2>بەتلىرىمىزنى كىملەر تەكشۈرىدۇ</h2><p>بەتلەر Golden Moments كوماندا ئەزالىرى تەرىپىدىن يېزىلىدۇ ۋە تەكشۈرۈلىدۇ؛ تەتقىقات ۋە دەسلەپكى تېكىستنى تەييارلاشقا سۈنئىي ئىدراك قوراللىرى ياردەم بېرىدۇ. ھەر بىر بەت كوماندا تەرىپىدىن مەنبەلەرگە سېلىشتۇرۇلۇپ تەپسىلىي تەكشۈرۈلىدۇ. بەتلىرىمىز دوختۇر ياكى باشقا تېببىي مۇتەخەسسىسلەر تەرىپىدىن تەكشۈرۈل<strong>مىگەن</strong>، بىز ئۇنداق دەپمۇ دەۋا قىلمايمىز. ئۇلار پەقەت ئادەتتىكى ئۇچۇر بولۇپ، داۋالاش تەكلىپى ئەمەس.</p><h2>بىز ھەرگىز ئېلان قىلمايدىغان مەزمۇنلار</h2><ul><li>مەلۇم بىر ئويۇن، يېمەكلىك، ئوزۇقلۇق قوشۇمچىسى، روزا تۇتۇش ياكى ئادەت زېھىن توسالغۇسىنىڭ ئالدىنى ئالىدۇ، داۋالايدۇ، ئاستىلىتىدۇ ياكى ساقايتىدۇ دېگەن دەۋالار.</li><li>بىراۋدا زېھىن توسالغۇسى بار ياكى يوقلۇقىنى پەرەز قىلىدىغان سىناقلار، تېپىشماقلار ياكى نومۇرلار.</li><li>ھەرقانداق دورىنى باشلاش، توختىتىش ياكى ئۆزگەرتىش توغرىسىدىكى مەسلىھەتلەر.</li><li>يېتەكچى تۈسىنى ئالغان ئېلانلار ياكى پۇل تۆلەنگەن مەزمۇنلار.</li></ul><h2>يېڭىلاشلار ۋە تۈزىتىشلەر</h2><p>ھەر بىر بەتتە ئۇنىڭ ئەڭ ئاخىرقى قېتىم يېڭىلانغان ۋاقتى كۆرۈنىدۇ. ئەگەر خاتالىق ياكى ۋاقتى ئۆتكەن مەنبەنى بايقىسىڭىز، <a href=\"mailto:{email}\">{email}</a> ئادرېسىغا ئېلخەت ئەۋەتىڭ، بىز ئۇنى دەرھال تەكشۈرىمىز.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "سوئال-جاۋابلار",
+      "seoTitle": "زېھىن توسالغۇسىغا ئائىت ئويۇنلار ۋە پائالىيەتلەر: سوئال-جاۋابلار",
+      "description": "زېھىن توسالغۇسى بار كىشىلەرنىڭ ئويۇنلىرى ۋە پائالىيەتلىرى ھەققىدىكى ئورتاق سوئاللارغا جاۋابلار: قايسى ئويۇنلارنى سىناپ بېقىش كېرەك، قانچىلىك ۋاقىت ئويناش مۇۋاپىق، كېيىنكى باسقۇچلاردىكى تەۋسىيەلەر، مېڭە ساغلاملىقى ۋە شەخسىيەتنى قوغداش.",
+      "crumb": "سوئال-جاۋابلار",
+      "lede": "ھالىدىن خەۋەر ئالغۇچىلار ئەڭ كۆپ سورايدىغان سوئاللارغا قىسقا، ئاددىي جاۋابلار.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "ئويۇنلار ھەققىدە",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "زېھىن توسالغۇسى بار كىشىگە قايسى ئويۇنلار ئەڭ ماس كېلىدۇ؟",
+              "a": "ئەڭ ياخشى ئويۇنلار تونۇش، ئاددىي ۋە بېسىمسىز بولغان ئويۇنلاردۇر؛ ئەڭ توغرىسى بولسا شۇ كىشى بۈگۈن قايسىسىدىن ھۇزۇرلانسا شۇدۇر. رەسىملىرى كۆرۈنۈپ تۇرىدىغان رەسىم جۈپلەش، تۈرگە ئايرىش، ئاددىي قۇراشتۇرۇش، تونۇش ماقال-تەمسىللەرنى تاماملاش، بوياش ۋە رەسىملىك بىن گو نۇرغۇن كىشىلەرگە بەك ياخشى كېلىدۇ. ۋاقىت چەكلىمىسى، نومۇرلار ۋە ئىمتىھاندەك تۇيۇلىدىغان ھەرقانداق نەرسىدىن يىراق تۇرۇڭ."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "ئويۇنلار راستتىنلا ھەقسىزمۇ؟",
+              "a": "ھەئە. بارلىق ئويۇنلار ۋە بېسىپ چىقىرىش ماتېرىياللىرى ھەقسىز بولۇپ، ھېسابات ئېچىش، تىزىملىتىش، چۈشۈرۈش ياكى ئېلانلار يوق."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "نېمىشقا نومۇر، باسقۇچ ياكى ۋاقىت چەكلىمىسى يوق؟",
+              "a": "سۈرئەت ۋە نومۇر كۆڭۈللۈك بىر پائالىيەتنى ئىمتىھانغا ئايلاندۇرۇپ قويۇپ، تەڭقىسلىق ياكى ئۈمىدسىزلىك تۇيغۇسى پەيدا قىلىشى مۇمكىن. بىز بارلىق دىققىتىمىزنى خۇشاللىققا ۋە بىللە ئۆتكۈزگەن ۋاقىتقا قاراتتۇق، شۇڭا بۇ يەردە مەغلۇپ بولۇش دېگەن گەپ يوق، خالىغان ۋاقىتتا توختاتسىڭىز بولىدۇ."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "قايسى ئۈسكۈنىلەر ئەڭ قولايلىق؟",
+              "a": "زامانىۋى تور كۆرگۈچ بار ھەر قانداق يانفون، تاختا كومپيۇتېر ياكى كومپيۇتېر بولىۋېرىدۇ. تاختا كومپيۇتېرنى ئۈستەلگە تىرەپ قويۇش ئىككى كىشىنىڭ يانمۇيان ئولتۇرۇپ ئوينىشى ئۈچۈن كۆپىنچە ئەڭ راھەت ئۇسۇلدۇر. نوتبۇكنى تېلېۋىزورغا ئۇلاش كوللېكتىپ پائالىيەتلەر ئۈچۈن ياخشى ئۈنۈم بېرىدۇ."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "ئۆزىمىزنىڭ ئائىلە سۈرەتلىرى بىلەن ئوينىساق بولامدۇ؟",
+              "a": "ھەئە. Photo pairs سىز تاللىغان 2 دىن 6 كىچە سۈرەتنى جۈپ تېپىش ئويۇنىغا ئايلاندۇرىدۇ. بۇ سۈرەتلەر پەقەت تور كۆرگۈچىڭىزدە ساقلىنىدۇ، ھېچ يەرگە يوللانمايدۇ ياكى ساقلىۋېلىنمايدۇ."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "پائالىيەتلەر ۋە پەرۋىش قىلىش",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "بىر قېتىملىق پائالىيەت قانچىلىك داۋاملىشىشى كېرەك؟",
+              "a": "كۆپىنچە 10 دىن 20 مىنۇتقىچە ۋاقىت يېتەرلىك، بەزىدە 2 مىنۇت ئوينىيالىغان تەقدىردىمۇ بىر ئۇتۇق ھېسابلىنىدۇ. چارچاش ياكى قىينىلىش ئالامەتلىرىگە دىققەت قىلىڭ ھەمدە كۆڭۈللۈك كەيپىيات تېخى ساقلىنىۋاتقاندا توختىتىڭ. بۇنىڭغا مۇنداق بىر تۇراقلىق مىقدار يوق."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "ئەگەر ئۇلار پائالىيەت قىلىشنى خالىمىسا قانداق قىلىش كېرەك؟",
+              "a": "رەت قىلىشىغا ھۆرمەت قىلىڭ، سەل تۇرۇپ ياكى باشقا ئۇسۇلدا قايتا سىناپ كۆرۈڭ. رەت قىلىش چارچاش، ئاغرىق، ئىشەنچسىزلىك ياكى پەقەتلا قىزىقماسلىقتىن كېلىپ چىققان بولۇشى مۇمكىن. ئۇلار رەت قىلغاندا قانداق قىلىش كېرەكلىكى توغرىسىدىكى قوللانمىمىزنى كۆرۈڭ."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "كېيىنكى مەزگىلدىكى ئەقلىي ئاجىزلىققا قايسى پائالىيەتلەر ماس كېلىدۇ؟",
+              "a": "راھەتلىك ۋە سېزىمگە ئەھمىيەت بېرىش تەۋسىيە قىلىنىدۇ: ياخشى كۆرىدىغان مۇزىكىنى ئاڭلاش، مەلھەم بىلەن قولىنى ئۇۋىلاپ بېرىش، بىللە سۈرەت كۆرۈش، يۇمشاق ئەدىيالنى تۇتۇپ ئولتۇرۇش، سىرتتا ئولتۇرۇش ياكى يېنىدا بىرى ھەمراھ بولۇپ ئاددىي رەسىملىك ئويۇن ئويناش قاتارلىقلار. كېيىنكى مەزگىللىك قوللانمىمىزدا تېخىمۇ كۆپ تەۋسىيەلەر بار."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "پەرۋىش ئورۇنلىرىدىكى كوللېكتىپقا ماس كېلىدىغان پائالىيەتلەر بارمۇ؟",
+              "a": "ھەئە. Picture bingo دا بېسىپ چىقىرىلىدىغان كارتىلار ۋە ئېكراندا چاقىرغۇچى بار، Finish the saying ۋە سۆھبەت كارتىلىرىنى ئاۋاز چىقىرىپ ئوقۇپ ئويناشمۇ ياخشى نەتىجە بېرىدۇ. پەرۋىش ئورۇنلىرى كوللېكتىپ قوللانمىمىزدا گۇرۇپپا چوڭ-كىچىكلىكى، ئولتۇرۇش ئورۇنلاشتۇرۇلۇشى ۋە ئوخشىمىغان ئىقتىدارغا ماسلاشتۇرۇش ئۇسۇللىرى كۆرسىتىلگەن."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "مېڭە ساغلاملىقى",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "ئويۇنلار ئەقلىي ئاجىزلىقنىڭ ئالدىنى ئالامدۇ ياكى كېسەللىكنى ئاستىلىتالامدۇ؟",
+              "a": "ھېچقانداق ئويۇننىڭ ئەقلىي ئاجىزلىقنىڭ ئالدىنى ئالىدىغانلىقى كۆرسىتىلمىگەن، بىزنىڭ ئويۇنلىرىمىزمۇ بۇنداق دەۋادا بولمايدۇ. تەتقىقاتلاردا ئىجتىمائىي مۇھىتتىكى تەپەككۇر قوزغىتىشنىڭ يېنىك ۋە ئوتتۇراھال دەرىجىدىكى ئەقلىي ئاجىزلىقى بار كىشىلەرگە بەلگىلىك پايدىسى بارلىقى بايقالغان، لېكىن بۇ ئويۇننىڭ كېسەللىكنىڭ ئالدىنى ئېلىشىدىن پۈتۈنلەي پەرقلىنىدۇ. بىز ئويۇنلارنى پەقەت خۇشاللىق ۋە ئۆزئارا يېقىنلىشىش ئۈچۈنلا تەمىنلەيمىز."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "ئەقلىي ئاجىزلىقنىڭ ئالدىنى ئالغىلى بولامدۇ؟",
+              "a": "ئېنىق بىر نېمە دېگىلى بولمايدۇ. تەتقىقاتلار ئاڭلاش ئىقتىدارى تۆۋەنلەش، يۇقىرى قان بېسىمى، ھەرىكەت كەمچىل بولۇش ۋە يالغۇزلىنىش قاتارلىق ساغلاملىق ۋە تۇرمۇش ئۇسۇلىغا ئالاقىدار 14 ئامىلنى ئەقلىي ئاجىزلىق خەۋپى بىلەن باغلايدۇ. بۇ مەسىلىلەرگە ئەھمىيەت بېرىش بەزى كىشىلەردە خەۋپنى ئازايتىشى مۇمكىن، ئەمما ھەممە ئىشنى توغرا قىلغان نۇرغۇن كىشىلەردىمۇ ئەقلىي ئاجىزلىق كۆرۈلۈپ قالىدۇ. بۇ ھەرگىزمۇ كىمنىڭدۇر خاتالىقى ئەمەس."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "ئارىلاپ ئاچ تۇرۇش مېڭە ساغلاملىقىغا پايدىلىقمۇ؟",
+              "a": "ئىنسانلاردىكى ئىسپاتلار تېخى دەسلەپكى ۋە چەكلىك باسقۇچتا تۇرماقتا، تەتقىقاتلارنىڭ كۆپىنچىسى ھايۋانلاردا ئېلىپ بېرىلغان. ئاچ تۇرۇش ياشانغانلار ئۈچۈن خەتەر ئېلىپ كېلىشى مۇمكىن، بولۇپمۇ دىئابېت دورىلىرىنى ئىستېمال قىلىۋاتقانلار ياكى كۈتۈلمىگەن ھالدا ئورۇقلاپ كېتىۋاتقانلار ئۈچۈن؛ شۇنداقلا ئەقلىي ئاجىزلىق بىلەن ياشاۋاتقان كىشىلەرگە بۇ تەۋسىيە قىلىنمايدۇ. يېمەك-ئىچمەك ئادىتىڭىزنى ئۆزگەرتىشتىن بۇرۇن دوختۇر بىلەن مەسلىھەتلىشىڭ."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "مەخپىيەتلىك ۋە بىخەتەرلىك",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "سىزلەر بىرەر ئۇچۇر توپلامسىلەر؟",
+              "a": "ھېسابات ياكى ئېلانلار يوق. بىز زىيارەت سانىنى خاتىرىلەش ۋە قايسى بەتلەرنىڭ پايدىلىق ئىكەنلىكىنى بىلىش ئۈچۈن Google Analytics نى ئىشلىتىمىز، تور كۆرگۈچىڭىز مۇلايىم ئاۋازلارنى ئاچقان-ئاچمىغانلىقىڭىزنى ئەستە ساقلايدۇ. Photo pairs ئۈچۈن تاللىغان سۈرەتلەر ھەرگىز تورغا چىقىرىلمايدۇ. تەپسىلاتىنى مەخپىيەتلىك ئۇقتۇرۇشىدىن كۆرۈڭ."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "بۇ تېببىي مەسلىھەتمۇ؟",
+              "a": "ياق. Golden Moments پەقەت كۆڭۈل ئېچىش ۋە ئومۇمىي ئۇچۇر ئۈچۈندۇر. ساغلاملىققا مۇناسىۋەتلىك سوئاللاردا دوختۇر بىلەن مەسلىھەتلىشىڭ، جىددىي قۇتقۇزۇش ئەھۋاللىرىدا 120 غا تېلېفون قىلىڭ."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "تېخىمۇ كۆپ تەپسىلاتلار: <a href=\"/caregiving/how-to-play-together/\">بىللە ئويناش ئۇسۇلى</a>، <a href=\"/caregiving/when-they-say-no/\">ئۇلار رەت قىلغاندا</a>، <a href=\"/activities/late-stage/\">كېيىنكى مەزگىللىك پائالىيەتلەر</a> ۋە <a href=\"/brain-health/can-dementia-be-prevented/\">ئەقلىي ئاجىزلىقنىڭ ئالدىنى ئالغىلى بولامدۇ؟</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "ئەقلىي ئاجىزلىق بىلەن ياشاۋاتقانلار ئۈچۈن ھەقسىز، ئاددىي ئويۇنلار",
+      "seoTitle": "بېسىپ چىقىرىلىدىغان ۋاراقچە: توردىكى ھەقسىز ئەقلىي ئاجىزلىق ئويۇنلىرى",
+      "description": "ئائىلىلەر ۋە پەرۋىش قىلغۇچىلار ئۈچۈن تەييارلانغان بىر بەتلىك بېسىپ چىقىرىلىدىغان ۋاراقچە؛ ياردەم گۇرۇپپىلىرى ۋە پەرۋىش قىسقۇچلىرى ئۈچۈن ئەقلىي ئاجىزلىق بىلەن ياشاۋاتقان كىشىلەرگە ماس كېلىدىغان ھەقسىز، يېنىك رەسىملىك ئويۇنلار ھەققىدە چۈشەنچە بېرىدۇ.",
+      "crumb": "بېسىپ چىقىرىلىدىغان ۋاراقچە",
+      "lede": "بۇ بەتنى ياردەم گۇرۇپپىسى، پەرۋىش قىسقۇچى ياكى توڭلاتقۇ ئىشىكىگە چاپلاش ئۈچۈن بېسىپ چىقىرىڭ. تور كۆرگۈچىڭىزنىڭ «بېسىپ چىقىرىش» بۇيرۇقىنى ئىشلىتىڭ؛ تىزىملىكلەر ۋە كۇنۇپكىلار بېسىپ چىقىرىلغان نۇسخىدا چىقىرىۋېتىلىدۇ.",
+      "introHtml": "<p>چوڭ رەسىملەر، ئاددىي سۆزلەر ۋە مەغلۇپ بولۇش دېگەن گەپ يوق. يانفون، تاختا كومپيۇتېر ياكى كومپيۇتېردا ھەقسىز تەمىنلىنىدۇ، تىزىملىتىش، ئېلان، ۋاقىت چەكلىمىسى ۋە نومۇر يوق. يانمۇيان ئولتۇرۇپ نۆۋەت بىلەن ئويناڭ.</p>",
+      "gamesTitle": "بىللە ئويناپ كۆرىدىغان ئويۇنلار",
+      "restHtml": "<h2>بىر قانچە تەكلىپ</h2><ul><li>يېقىنىڭىز كەيپىياتى ۋە زېھنى ئەڭ ياخشى بولغان بىرەر ۋاقىتنى تاللاڭ.</li><li>ئەڭ ئاسان تەڭشەكتىن باشلاڭ. تۆت كۇۋادىرات تامامەن يېتەرلىك.</li><li>سۈرەتلەر ھەققىدە سۆزلىشىڭ. پاراڭلىشىش كۆپىنچە پائالىيەتنىڭ ئەڭ كۆڭۈللۈك قىسمى بولۇپ قالىدۇ.</li><li>تېخى ياخشى كەيپىيات بار ۋاقىتتا توختىتىڭ. بالدۇرراق ئاياغلاشتۇرۇشمۇ كۆڭۈلدىكىدەك نەتىجە.</li></ul><h2>تور بېكەتتىكى باشقا مەزمۇنلار</h2><ul><li>ھەقسىز بېسىپ چىقىرىلىدىغان مەزمۇنلار: چوڭ خەتلىك سۆز تېپىش، رەڭ بېرىش بەتلىرى، سۆھبەت كارتىلىرى ۋە رەسىملىك بىن گو.</li><li>ھەر بىر باسقۇچقا ماس كېلىدىغان پائالىيەت تەۋسىيەلىرى، شۇنداقلا بىللە ئويناش ۋە ئۆزىڭىزگە پەرۋىش قىلىش ھەققىدىكى قوللانمىلار.</li></ul><p class=\"muted\">خۇشاللىق ۋە بىللە ۋاقىت ئۆتكۈزۈش ئۈچۈندۇر. تېببىي مەسلىھەت، سىناق ياكى داۋالاش ئۇسۇلى ئەمەس. Golden Moments مەزمۇنى Cloudjet Solutions Pte. Ltd. تەرىپىدىن تارقىتىلغان.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "پەرۋىش ئورۇنلىرى، كۇتۇپخانىلار ۋە ياردەم گۇرۇپپىلىرى ئۈچۈن",
+      "seoTitle": "ياشانغانلار كۈتۈنۈش ئورۇنلىرى ۋە گۇرۇپپىلار ئۈچۈن ھەقسىز پائالىيەتلەر",
+      "description": "كۈتۈنۈش ئورۇنلىرى، كۈندۈزلۈك كۈتۈنۈش مەركەزلىرى، كۇتۇپخانىلار، ياشانغانلار مۇلازىمەت ئورگانلىرى ۋە ياردەم گۇرۇپپىلىرىنىڭ بىزنىڭ ھەقسىز ئويۇنلىرىمىزدىن قانداق پايدىلىنىدىغانلىقى، شۇنداقلا بىزنى مەنبە تىزىملىكىگە قوشۇش ئۈچۈن تەييارلانغان تېكىست.",
+      "crumb": "ئورگانلار ئۈچۈن",
+      "lede": "بۇ تور بەتتىكى پۈتۈن مەزمۇنلاردىن كۈتۈنۈش ئورنىدىكى ئاھالىلەر، ئەزالار ۋە مۇلازىمەت ئالغۇچىلار بىلەن بىللە ھەقسىز بەھرىمەن بولالايسىز؛ ھېسابات ئېچىش، رۇخسەتنامە ياكى ھەق تەلەپ قىلىنمايدۇ. بۇ بەتتە نېمىلەرنىڭ بارلىقى ۋە ئۇلاردىن قانداق ئورتاقلىشىش چۈشەندۈرۈلگەن.",
+      "shortText": "{name}: ئەستە تۇتۇش قابىلىيىتى تۆۋەنلىگەن كىشىلەر ۋە ئۇلارنىڭ ھالىدىن خەۋەر ئالغۇچىلار ئۈچۈن ھەقسىز، كۆڭۈللۈك سۈرەتلىك ئويۇنلار ھەم پائالىيەت قوللانمىلىرى. تىزىملىتىش يوق، ۋاقىت چەكلىمىسى يوق، نومۇر ھېسابلاش يوق.",
+      "longText": "{name} ({domain}) ئەستە تۇتۇش قابىلىيىتى تۆۋەنلىگەن كىشىلەر ئۈچۈن مەخسۇس لايىھەلەنگەن {count} ھەقسىز توركۆرگۈ ئويۇنىنى تەمىنلەيدۇ؛ بۇلار سۈرەتلەر ئوچۇق كۆرۈنۈپ تۇرىدىغان جۈپلەشتۈرۈش، ئاددىي پارچە قۇراشتۇرۇش، تۈرگە ئايرىش، تونۇش ماقال-تەمسىللەرنى تولۇقلاش ۋە بېسىپ چىقارغىلى بولىدىغان كارتىلىق سۈرەتلىك بىنكونى ئۆز ئىچىگە ئالىدۇ. ھېسابات ئېچىش، ئېلان، ۋاقىت چەكلىمىسى ياكى نومۇر ھېسابلاش يوق. بۇ تور بەتتە يەنە National Institute on Aging بىلەن Alzheimer's Association نىڭ تەتقىقاتلىرىغا تايىنىپ، ئەستە تۇتۇش چېكىنىشنىڭ ھەربىر باسقۇچىغا ئاساسەن ئاددىي تىلدا يېزىلغان پائالىيەت يېتەكچىلىرى بار.",
+      "useTitle": "ئورگانلار پايدىلانسا بولىدىغان تۈرلەر",
+      "gamesItemHtml": "خاتىرە كومپيۇتېر، تاختا كومپيۇتېر ياكى كومپيۇتېرغا ئۇلانغان تېلېۋىزوردا بىۋاسىتە ئوينىغىلى بولىدىغان <strong>{count} توركۆرگۈ ئويۇنى</strong>. قاچىلاش، تىزىملىتىش ياكى چۈشۈرۈش تەلەپ قىلىنمايدۇ. <a href=\"/games/\">بارلىق ئويۇنلارنى كۆرۈڭ</a>.",
+      "printablesLabel": "بېسىپ چىقىرىشقا بولىدىغان {count} تۈر:",
+      "printablesAfter": "ھەربىر بەتتىكى «بېسىپ چىقىرىش» كۇنۇپكىسىنى ئىشلىتىڭ.",
+      "moreItemsHtml": "<li><strong>گۇرۇپپا پائالىيەتلىرى:</strong> <a href=\"/games/picture-bingo/\">سۈرەتلىك بىنكو</a>نىڭ بېسىپ چىقىرىلىدىغان كارتىلىرى ۋە ئېكراندا چىقىدىغان بەلگە چاقىرغۇچىسى بار؛ <a href=\"/activities/trivia/\">ئاددىي بىلىم سىناش</a> بولسا تاللاش تۈرلىرى ۋە پاراڭلىشىش تېمىلىرى بار 50 سوئالنى ئۆز ئىچىگە ئالىدۇ.</li><li><strong>پائالىيەت قوللانمىلىرى:</strong> خىزمەتچىلەر ۋە ئائىلە ئەزالىرى ئۈچۈن مەخسۇس تۈزۈلگەن بولۇپ، باسقۇچ ۋە تۈرلەرگە ئايرىلغان، ئىشەنچلىك مەنبەلەر ئاساسىدا چۈشىنىشلىك يېزىلغان. كۆرمەكچى بولسىڭىز، <a href=\"/activities/ideas/\">101 پائالىيەت ئىدىيەسى</a> ياكى <a href=\"/activities/care-home-groups/\">كۈتۈنۈش ئورۇنلىرى ئۈچۈن كوللېكتىپ پائالىيەتلەر</a>دىن باشلاڭ.</li>",
+      "restHtml": "<h2>گۇرۇپپىلار بۇلاردىن قانداق پايدىلىنىدۇ</h2><ul><li><strong>ياشانغانلار كۈتۈنۈش ئورۇنلىرى ۋە ئەستە تۇتۇش ئاسراش بۆلۈملىرى:</strong> دەم ئېلىش ئۆيىدىكى تېلېۋىزوردا بىر كىشى ئېكراننى بېسىپ بېرىپ، كۆپچىلىك بىللە سۈرەتلىك بىنكو ئوينايدۇ ياكى ماقال-تەمسىللەرنى تاماملايدۇ.</li><li><strong>چوڭلار كۈندۈزلۈك كۈتۈنۈش مەركەزلىرى:</strong> تاختا كومپيۇتېردا سۈرەت جۈپلەشتۈرۈش ئويۇنىنى تۆت كۆزنەككە تەڭشەپ، يالغۇز بىرمۇبىر قىسقا ۋاقىتلىق پائالىيەت ئۆتكۈزىدۇ.</li><li><strong>ئاممىۋى كۇتۇپخانىلار:</strong> ئەستە تۇتۇش سومكىسىغا بېسىپ چىقىرىلغان سۆز تېپىش ۋە سۆھبەت كارتىلىرىنى سېلىپ قويۇش، شۇنداقلا كۇتۇپخانىنىڭ تاختا كومپيۇتېرلىرىدا بۇ تور بېكەتنى ساقلاپ قويۇش.</li><li><strong>ھالىدىن خەۋەر ئالغۇچىلارنىڭ ياردەم گۇرۇپپىلىرى ۋە قاھىۋىخانىلار:</strong> ئائىلىلەر ئۆيىگە ئېلىپ كېتىشى ئۈچۈن تەييارلانغان <a href=\"/handout/\">بىر بەتلىك بېسىپ چىقىرىلىدىغان قوللانما</a>.</li><li><strong>دوختۇرخانىلار ۋە بىمار ئۇزىتىش مەسلىھەتچىلىرى:</strong> ئۆيدە ياكى كېسەل كارىۋىتى يېنىدا بىللە خاتىرجەم ۋاقىت ئۆتكۈزۈش ئۈچۈن، خەۋەر ئالغۇچىلارنىڭ ماتېرىيال قىسقۇچىغا بۇ قوللانمىنى سېلىپ بېرىش.</li></ul><h2>بىز قىلمايدىغان ئىشلار</h2><p>بۇ ئويۇنلار پەقەت كۆڭۈللۈك ۋاقىت ئۆتكۈزۈش ۋە ھەمدەم بولۇش ئۈچۈندۇر. ئۇلار كېسەللىككە دىئاگنوز قويمايدۇ، سىنىمايدۇ، نومۇر قويمايدۇ، ئەستە تۇتۇش چېكىنىشنى داۋالىمايدۇ ياكى ئاستىلاتمايدۇ؛ ئورگانلارنىڭمۇ بۇلارنى ئۇنداق تەرىپلىمەسلىكىنى سورايمىز. ھېچقانداق ئېلان يوق، ئويۇنلاردا شەخسىي ئىسىم، سالامەتلىك ئۇچۇرى سورالمايدۇ ياكى سۈرەت يۈكلەش تەلەپ قىلىنمايدۇ. تور بېكەت زىيارەتچىلەر سانىنى بىلىش ئۈچۈن Google Analytics ئىشلىتىدۇ؛ نېمىلەرنىڭ توپلىنىدىغانلىقى <a href=\"/privacy/\">مەخپىيەتلىك باياناتىمىز</a>دا تەپسىلىي بار. <a href=\"/games/photo-pairs/\">سۈرەت جۈپلەشتۈرۈش</a>تە ئىشلىتىلگەن رەسىملەر پەقەت ئۆزىڭىزنىڭ توركۆرگۈچىسىدىلا ساقلىنىدۇ.</p><h2>بىزنى مەنبە تىزىملىكىڭىزگە كىرگۈزۈڭ</h2><p>ئەگەر ھالىدىن خەۋەر ئالغۇچىلار ئۈچۈن مەنبەلەر تىزىملىكى تۈزۈۋاتقان بولسىڭىز، <a href=\"/\">{domain}</a> گە ئۇلىنىش بېرىشىڭىزنى خۇشاللىق بىلەن قارشى ئالىمىز. تۆۋەندىكى تونۇشتۇرۇشلارنىڭ خالىغان بىرىنى كۆچۈرۈپ ئىشلەتسىڭىز بولىدۇ.</p>",
+      "shortTitle": "قىسقا تونۇشتۇرۇش",
+      "longTitle": "تەپسىلىيرەك تونۇشتۇرۇش",
+      "linksHtml": "<p>بىۋاسىتە ئۇلىنىش بېرىشكە قۇلايلىق بەتلەر: <a href=\"/games/\">ھەقسىز ئويۇنلار</a>، <a href=\"/activities/printable/\">بېسىپ چىقىرىلىدىغان ھەقسىز ماتېرىياللار</a>، <a href=\"/activities/alzheimers/\">ئالزىمېر كېسىلى بارلار ئۈچۈن پائالىيەتلەر</a> ۋە <a href=\"/caregiving/how-to-play-together/\">بىللە قانداق ئويناش كېرەك</a>.</p><h2>سوئاللار ياكى تۈزىتىشلەر</h2><p>ئەگەر تور بېكەتتە بىرەر خاتالىق بولسا، مەزمۇنلار چۈشىنىكسىز تۇيۇلسا ياكى بىرەر ياشانغان يېقىنىڭىزنىڭ ئېھتىياجى تولۇق قاندۇرۇلمىغان بولسا، بىزگە <a href=\"mailto:{email}\">{email}</a> ئارقىلىق خەۋەر قىلىڭ. كۈتۈنۈۋاتقان كىشىلەرنىڭ شەخسىي ياكى كېسەللىك ئەھۋالىغا دائىر ئۇچۇرلىرىنى يوللىماسلىقىڭىزنى ئۆتىنىمىز.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments ئەپ دېتالى",
+      "seoTitle": "iPhone ۋە Android ئۈچۈن Golden Moments ئەپ دېتالى",
+      "description": "ھەقسىز Golden Moments ئەپ دېتالى: تۆت چوڭ كاتەكچىلىك يېنىك سۈرەت جۈپلەشتۈرۈش، ئائىلە سۈرەتلىرى پەقەت ئۆز ئۈسكۈنىڭىزدە ساقلىنىدۇ، تورسىزمۇ ئىشلەتكىلى بولىدىغان رەسىم بوغچىلىرى بار، ھېسابات ئېچىش ھاجەتسىز.",
+      "crumb": "ئەپ دېتالى",
+      "lede": "تور بېكىتىمىزدىكى سىز ياقتۇرغان بارلىق مەزمۇنلار ئەمدى تورسىزمۇ ئىشلەيدىغان، ئۆزىڭىز تاللىغان ئائىلە سۈرەتلىرىنى قوشقىلى بولىدىغان ئەپ دېتالىدا.",
+      "worksOn": "{platforms} دا ئىشلەيدۇ ({requirements}).",
+      "bodyHtml": "<h2>ئازدىن باشلاڭ</h2><p>تۆت چوڭ كارتوچكا ۋە كۆنۈك سۈرەتلەر بىلەن باشلاڭ. سۈرەتلەرنى كۆرۈنۈپ تۇرىدىغان قىلىپ قويۇڭ ياكى ئۆزىڭىزگە ئازادە تۇيۇلغاندا ئۇلارنى يوشۇرۇپ قويۇڭ. ئاستا-ئېغىر ھالەتتە ۋاقىت چەكلىمىسى، نومۇر ياكى جازا يوق. 4، 6، 8 ياكى 12 كارتوچكىنى تاللاڭ.</p><h2>ئۆزىڭىزگە ماسلاشتۇرۇڭ</h2><p>ئۈسكۈنىڭىزنىڭ سۈرەت تاللىغۇچىسى ئارقىلىق ئائىلە سۈرەتلىرىنى تاللاڭ. ئەپ پائالىيەتلەر ئۈچۈن ئۇلارنىڭ كىچىكرەك كۆپەيتىلگەن نۇسخىلىرىنى ساقلايدۇ. ئۇ سۈرەت ئامبىرىڭىزنى سىكانىرلىمايدۇ ياكى ئەسلى سۈرەتلىرىڭىزنى ئۆزگەرتمەيدۇ، ھەمدە بىر توپلامدا 24 دانىغىچە سۈرەت ساقلايدۇ.</p><h2>پەقەت بىللە كۆرۈڭ</h2><p>بىر قېتىمدا بىرلا سۈرەتنى كۆرۈڭ. كىشىلەردىن ئىسىملارنى ئەستە تۇتۇشنى ياكى توغرا جاۋاب بېرىشنى تەلەپ قىلمايدىغان تاللاشچان مەسلىھەتلەر سۆھبەتكە ئۈندەيدۇ. پەقەت قاراپ بېقىشنىڭ ئۆزىلا كۇپايە.</p><h2>ئەڭ مۇھىم پەيتتە تورسىزمۇ ئىشلەيدۇ</h2><p>دەسلەپكى سۈرەتلەر ۋە بارلىق سەككىز سۈرەت بوغچىسى ئەپ بىلەن بىللە كېلىدۇ. كىرگۈزۈلگەن سۈرەتلەرنىڭ كۆپەيتىلگەن نۇسخىلىرى تورسىزمۇ ئىشلەيدۇ. پەقەت iCloud تىلا ساقلانغان ئەسلى سۈرەتلەرنى تاللاش ئۈچۈن تور ئۇلىنىشى كېرەك بولۇشى مۇمكىن.</p><h2>ھېسابات ھاجەتسىز، سۈرەت ماسقەدەملەش مۇلازىمېتىرى يوق</h2><p>ئائىلە سۈرەتلىرىنىڭ كۆپەيتىلگەن نۇسخىلىرى ئۈسكۈنىدىكى ئەپ ئىچىدىلا ساقلىنىدۇ. ئەسلى سۈرەتلەرنى ئۆچۈرمەيلا كۆپەيتىلگەن نۇسخىلارنى چىقىرىۋەتسىڭىز بولىدۇ. ئۈسكۈنىنىڭ زاپاسلىنىشى ئەپ سانلىق مەلۇماتلىرىنى ئۆز ئىچىگە ئېلىشى مۇمكىن. <a href=\"/app-privacy/\">ئەپنىڭ شەخسىيەت سىياسىتى</a>نى ئوقۇڭ، <a href=\"/help/\">ئەپ ياردىمى</a> ھەر بىر قەدەمنى ئېنىق كۆرسىتىپ بېرىدۇ.</p>",
+      "disclaimer": "Golden Moments كۆڭۈل ئېچىش ۋە بىللە پاراڭلىشىش ئۈچۈندۇر. ئۇ دېمېنسىيە ياكى ئالزىمېر كېسىلىگە دىئاگنوز قويمايدۇ، داۋالىمايدۇ، ئالدىنى ئالمايدۇ ياكى دەرىجىسىنى ئۆلچىمەيدۇ.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "توردىكى ھەقسىز دېمېنسىيە ۋە ئالزىمېر ئويۇنلىرى",
+    "description": "دېمېنسىيە ياكى ئالزىمېر بىلەن ياشاۋاتقان چوڭلار ئۈچۈن ھەقسىز تور ئويۇنلىرى: سۈرەت جۈپتەش، ئاددىي پارچە قۇراشتۇرۇش، تۈرگە ئايرىش، ماقال-تەمسىللەر، رەڭ بېرىش، بىڭگو. تىزىملىتىش، ۋاقىت چەكلىمىسى ياكى نومۇر يوق.",
+    "crumb": "ئويۇنلار",
+    "h1": "دېمېنسىيە بىلەن ياشاۋاتقانلار ئۈچۈن خاتىرجەم ئويۇنلار",
+    "lede": "توركۆرگۈچىڭىزدە بىللە ئوينايدىغان {count} ھەقسىز ئويۇن. چوڭ سۈرەتلەر، ئاددىي سۆزلەر ۋە ئۇتتۇرۇپ قويۇش بولمايدىغان مەزمۇنلار: ۋاقىت چەكلىمىسى، نومۇر ياكى تىزىملىتىش يوق.",
+    "listName": "دېمېنسىيە بىلەن ياشاۋاتقانلار ئۈچۈن خاتىرجەم ئويۇنلار",
+    "byStageTitle": "باسقۇچقا قاراپ ئويۇن تاللاش",
+    "byStageLede": "باسقۇچلار پەقەت ئومۇمىي مەلۇمات ئۈچۈندۇر. يېقىنىڭىزنىڭ نېمىدىن ھۇزۇرلىنىدىغانلىقىغا ۋە بۈگۈن نېمىنىڭ ئازادە تۇيۇلىدىغانلىقىغا ئەھمىيەت bېرىڭ.",
+    "stageCol": "باسقۇچ",
+    "gamesCol": "كۆپىنچە ماس كېلىدىغان ئويۇنلار",
+    "moreHtml": "ئېكراندىن يىراق تېخىمۇ كۆپ تەۋسىيەلەر: <a href=\"/activities/ideas/\">دېمېنسىيە بىلەن ياشاۋاتقانلار ئۈچۈن 101 پائالىيەت</a>، <a href=\"/activities/alzheimers/\">ئالزىمېر ئۈچۈن پائالىيەتلەر ۋە ئويۇنلار</a>، <a href=\"/activities/memory-games/\">خاتىرجەم ئەستە تۇتۇش ئويۇنلىرى</a> ۋە <a href=\"/activities/puzzles/\">تېپىشماقلار</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "قايسى ئويۇندىن باشلىساق بولار؟",
+        "a": "تۆت كارتوچكىلىق سۈرەت جۈپتەش خاتىرجەم بىر تۇنجى تاللاش. ئەگەر سۈرەتلەر ئارىسىدىن تاللاش بەك ئېغىر كەلسە، ئىككى سۈرەتلىك ئوخشىشىنى تېپىشنى سىناپ بېقىڭ. بىر گۇرۇپپا كىشىلەر بىرلىكتە ئوينىغاندا، سۈرەتلىك بىڭگونى سىناپ بېقىڭ."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "ئويۇنلار iPad ياكى تېلېفوندا ئىشلەمدۇ؟",
+        "a": "ھەئە. ھەر بىر ئويۇن تېلېفون، تاختا كومپيۇتېر ۋە كومپيۇتېردىكى توركۆرگۈچتە ئىشلەيدۇ، ھەمدە سۈرەتلەر چوڭىيىپ پۈتۈن ئېكراننى ئىگىلەيدۇ. تىرەككە قويۇلغان تاختا كومپيۇتېر ئىككى كىشى ئۈچۈن كۆپىنچە ئەڭ قولاي بولىدۇ."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "بۇ ئويۇنلار ئالزىمېر بىلەن ياشاۋاتقان كىشىگە ماس كېلەمدۇ؟",
+        "a": "ھەئە. بۇلار دېمېنسىيە بىلەن ياشاۋاتقان كىشىلەر، جۈملىدىن ئۇنىڭ ئەڭ كۆپ كۆرۈلىدىغان تۈرى بولغان ئالزىمېر بىلەن ياشاۋاتقانلار ئۈچۈن لايىھەلەنگەن. سۈرەتلەر داۋاملىق كۆرۈنۈپ تۇرىدۇ، تاللاشلار ساناقلىق بولۇپ، ۋاقىت ياكى نومۇر چەكلىمىسى يوق، شۇڭا ئويۇنلار يېڭى نەرسىلەرنى ئەستە تۇتۇشتىن كۆرە تونۇش نەرسىلەرنى بايقاشقا تايىنىدۇ."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "بۇلار چوڭلار ئۈچۈن ئەستە تۇتۇش ئويۇنلىرىمۇ؟",
+        "a": "بۇلار ھەر قانداق ياشانغان كىشى ھۇزۇرلىنالايدىغان جۈپتەش ۋە سۈرەت ئويۇنلىرىدۇر، ئەمما ئۇلار ئەستە تۇتۇش قابىلىيىتىنى سىناش ئۈچۈن لايىھەلەنمىگەن: سۈرەت جۈپتەشتە، باشقىچە تاللىمىسىڭىزلا سۈرەتلەر كۆرۈنۈپ تۇرىدۇ. دېمېنسىيە بىلەن ياشاۋاتقان چوڭلار ئۈچۈن ئەستە تۇتۇش ئويۇنلىرى قوللانمىمىزدا ھەر قانداق ئەستە تۇتۇش ئويۇنىنى قانداق قىلىپ خاتىرجەم ئويناش چۈشەندۈرۈلگەن."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "كۈتۈنۈش مەركىزىدىكى كۆپچىلىك بىرلىكتە ئوينايدىغان ئويۇنلار بارمۇ؟",
+        "a": "ھەئە. سۈرەتلىك بىڭگونىڭ بېسىپ چىقارغىلى بولىدىغان كارتىلىرى ۋە ئېكراندا چاقىرغۇچىسى بار، ماقالنى داۋاملاشتۇرۇش ۋە سۆھبەت كارتىلىرىنى بىر گۇرۇپپىغا ئۈنلۈك ئوقۇپ بېرىش ئارقىلىق ياخشى ئوينىغىلى بولىدۇ."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone، iPad ۋە Android",
+    "requirements": "iOS 15 ياكى كېيىنكى نەشرى؛ Android 7.0 ياكى كېيىنكى نەشرى",
+    "summary": "iPhone، iPad ۋە Android ئۈچۈن ھەقسىز بىر ئەپ بولۇپ، تۆتتىن ئون ئىككىگىچە چوڭ كارتوچكىدا خاتىرجەم سۈرەت جۈپتەش، ئۆزىڭىز تاللىغان ئائىلە سۈرەتلىرى بىلەن جۈپتەش ۋە كۆرۈش، شۇنداقلا تورسىزمۇ ئىشلەيدىغان سەككىز خىل سۈرەت بوغچىسىنى ئۆز ئىچىگە ئالىدۇ. ھېسابات، ئېلان، ۋاقىت چەكلىمىسى ياكى نومۇر يوق.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "4، 6، 8 ياكى 12 چوڭ كارتوچكا بىلەن خاتىرجەم سۈرەت جۈپتەش؛ يوشۇرۇشنى تاللىمىسىڭىزلا سۈرەتلەر كۆرۈنۈپ تۇرىدۇ",
+      "تاللىغان ئائىلە سۈرەتلىرىڭىز بىللە كۆرۈش ۋە جۈپتەش ئۈچۈن ئەپكە كۆپەيتىلىدۇ",
+      "بىللە كۆرۈڭ: بىر قېتىمدا بىرلا سۈرەت كۆرۈنىدۇ ۋە تاللاشچان پاراڭ مەسلىھەتلىرى بار",
+      "ئەپكە سەككىز سۈرەت بوغچىسى قوشۇپ كىرگۈزۈلگەن؛ ئۇلار تورسىزمۇ ئىشلەيدۇ",
+      "ھېسابات، ئېلان، ئەپ ئىچى سېتىۋېلىشلىرى، ۋاقىت چەكلىمىسى، نومۇر ياكى جازا يوق"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "دېمېنسىيە پائالىيەتلىرى ئۈچۈن بىرەر ئەپ بارمۇ؟",
+        "a": "ھەئە. Golden Moments (ئەپ دۇكىنىدا «{storeName}» دەپ كۆرسىتىلگەن) App Store ۋە Google Play دا ھەقسىز. ئۇ چوڭ كارتوچكىلار بىلەن خاتىرجەم سۈرەت جۈپتەش، ئۆزىڭىز تاللىغان ئائىلە سۈرەتلىرى بىلەن ئويناش ۋە تورسىزمۇ ئىشلەيدىغان سۈرەت بوغچىلىرىنى تەمىنلەيدۇ."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Golden Moments ئەپى ھەقسىزمۇ؟",
+        "a": "ھەئە. چۈشۈرۈش ھەقسىز بولۇپ، ئېلان، ھېسابات ياكى ئەپ ئىچى سېتىۋېلىشلىرى يوق."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "ئەپ تورسىزمۇ ئىشلەمدۇ؟",
+        "a": "ھەئە. دەسلەپكى سۈرەتلەر ۋە بارلىق سەككىز سۈرەت بوغچىسى ئەپ بىلەن بىللە كېلىدۇ، ئائىلە سۈرەتلىرى ئەپكە كۆپەيتىلگەندىن كېيىن تورسىزمۇ ئىشلەيدۇ. پەقەت iCloud تىلا ساقلانغان سۈرەتلەرنى تاللاش ئۈچۈنلا تور ئۇلىنىشى كېرەك بولۇشى مۇمكىن."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "ئۆزىمىزنىڭ ئائىلە سۈرەتلىرىنى ئىشلەتسەك بولامدۇ؟",
+        "a": "ھەئە. ئۈسكۈنىڭىزنىڭ سۈرەت تاللىغۇچىسى ئارقىلىق سۈرەتلەرنى تاللاڭ. ئەپ بۇ پائالىيەتلەر ئۈچۈن سۈرەتلەرنىڭ كىچىكرەك نۇسخىسىنى ئۈسكۈنىڭىزدە ساقلايدۇ، تورغا يوللىمايدۇ ھەمدە ئەسلىدىكى سۈرەتلەرنى ھەرگىز ئۆزگەرتمەيدۇ. كۆچۈرۈلمە نۇسخىلىرىنى خالىغان ۋاقىتتا ئۆچۈرەلەيسىز."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "بۇ مېڭە چېنىقتۇرۇش ياكى ئەستە تۇتۇش قابىلىيىتىنى سىناش ئەپىمۇ؟",
+        "a": "ياق. Golden Moments پەقەت كۆڭۈل ئېچىش ۋە بىللە خۇشال ۋاقىت ئۆتكۈزۈش ئۈچۈندۇر. ئۇنىڭدا نومۇر ياكى سىناقلار بولمايدۇ، شۇنداقلا ئۇ ئەقلى ئاجىزلىشىش ياكى ئالزھېيمېر كېسىلىگە دىئاگنوز قويمايدۇ، داۋالىمايدۇ، ئالدىنى ئالمايدۇ ياكى ئۆلچىمەيدۇ."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "ئۇ قايسى ئۈسكۈنىلەردە ئىشلەيدۇ؟",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "بۇ ئويۇننىڭ ئەپ نۇسخىسى بارمۇ؟",
+      "a": "ھەئە. iPhone، iPad ۋە Android ئۈچۈن چىقىرىلغان ھەقسىز Golden Moments ئەپىدىمۇ ئوخشاش كۆڭۈللۈك رەسىم ماسلاشتۇرۇش بار بولۇپ، سىز تاللىغان ئائىلە سۈرەتلىرىنى ئىشلەتكىلى بولىدۇ ھەمدە تورسىزمۇ ئىشلەيدۇ. ھېسابات ئېچىش، ئېلان ياكى نومۇر يوق."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "بۇ ئويۇننىڭ ئەپ نۇسخىسى بارمۇ؟",
+      "a": "بۇ ئويۇننىڭ يوق. iPhone، iPad ۋە Android ئۈچۈن چىقىرىلغان ھەقسىز Golden Moments ئەپىدە چوڭ كاتەكچىلەر ۋە سىز تاللىغان ئائىلە سۈرەتلىرى بىلەن كۆڭۈللۈك رەسىم ماسلاشتۇرۇش بار بولۇپ، تورسىزمۇ ئىشلەيدۇ. بۇ ئويۇن بولسا تور كۆرگۈڭىزدە ھەقسىز تۇرىدۇ."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: چوڭ، ئېنىق رەسىملەر",
+    "noscript": "بۇ ئويۇننى ئويناش ئۈچۈن تور كۆرگۈڭىزدە JavaScript نى قوزغىتىش كېرەك. تۆۋەندىكى مەسلىھەتلەر ئۇنىڭسىزمۇ كۆرۈنىدۇ.",
+    "about": "{name} ھەققىدە",
+    "aboutAria": "بۇ ئويۇن ھەققىدە",
+    "noTimer": "ۋاقىت ياكى نومۇر چەكلىمىسى يوق",
+    "printable": "بېسىپ چىقارغىلى بولىدۇ",
+    "howTo": "{name} نى قانداق ئويناش كېرەك",
+    "tips": "بىللە ئويناش ھەققىدىكى مەسلىھەتلەر",
+    "newToPlayingHtml": "ئەقلى ئاجىزلىشىش كېسىلى بار يېقىنىڭىز بىلەن ئويۇن ئويناش تەجرىبىڭىز ئازمۇ؟ <a href=\"/caregiving/how-to-play-together/\">بىللە ئويۇن ئويناش ئۇسۇلى</a>نى ئوقۇپ بېقىڭ، بۇنىڭ ئىچىدە قىزىقىشى پەسەيگەندە نېمە قىلىش كېرەكلىكىمۇ بار.",
+    "moreAria": "تېخىمۇ كۆپ مەزمۇنلار",
+    "helpfulGuides": "پايدىلىق قوللانمىلار",
+    "appTitle": "ئەپتە ئويناڭ",
+    "appText": "ھەقسىز Golden Moments ئەپىدە چوڭ كاتەكچىلەر ۋە ئۆزىڭىزنىڭ ئائىلە سۈرەتلىرى بىلەن ئاددىي رەسىم ماسلاشتۇرۇش بار بولۇپ، Wi‑Fi بولمىسىمۇ ئىشلەيدۇ. iPhone، iPad ۋە Android ئۈچۈن بار.",
+    "photoAppTitle": "سۈرەتلىرىڭىز تەييار تۇرسۇن",
+    "photoAppText": "ھەقسىز Golden Moments ئەپىدە، سىز تاللىغان سۈرەتلەر كېيىنكى قېتىم ئىشلىتىش ئۈچۈن ئۈسكۈنىڭىزدە ساقلىنىدۇ، ئويۇنلار بولسا Wi‑Fi سىزمۇ ئىشلەيدۇ. iPhone، iPad ۋە Android ئۈچۈن بار.",
+    "goodToKnow": "بىلىۋېلىشقا تېگىشلىك مەزمۇنلار",
+    "goodToKnowText": "بۇ ئويۇن كۆڭۈل ئېچىش ۋە بىللە ۋاقىت ئۆتكۈزۈش ئۈچۈن لايىھەلەنگەن. ئۇ ھېچقانداق نەرسىنى سىنىمايدۇ، ئۆلچىمەيدۇ ياكى داۋالىمايدۇ.",
+    "moreGames": "تېخىمۇ كۆپ يېنىك ئويۇنلار",
+    "crumb": "ئويۇنلار"
   }
 }

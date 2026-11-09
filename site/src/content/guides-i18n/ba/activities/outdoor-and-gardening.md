@@ -1,32 +1,28 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Деменция менән йәшәгән кешеләр өсөн баҡса эштәре"
+seoTitle: "Деменция өсөн баҡса һәм тыш һауа эштәре"
+description: "Баҡса һәм тышта эш идеялары: күтәрелгән кәртәләр, һауыттағы баҡса, эҫе һәм кояштан һаҡланыу, юлдан яҙыу хәүефе өсөн кәңәштәр."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Баҡса эше һәм тышта вакыт үткәреү деменция менән йәшәгән кеше өсөн тыныс һәм таныш шөғөл булырға мөмкин. Һыу һибеү, дары үләндәрен ултыртыу, һулған сәскәләрҙе өҙөү йәки ҡыҫҡа ғына йөрөү менән ҡарай ала һеҙ. Күтәрелгән кәртәләр йәки өҫтәл ҡулланығыҙ, шулай итеп тубыҡлап эйелергә кәрәкмәй. Ҡурҡыныс ҡоралдарҙан һәм агыулы үҫемлектәрҙән һаҡланығыҙ. Көндөң һалҡыныраҡ мәлендә сығығыҙ һәм кешене бер ваҡыт та иғтибарһыҙ ҡалдырмағыҙ.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Һыу һибеү, орлоҡ ултыртыу, дары үләндәренең еҫен тойоу һәм сәскә өҙөү кеүек ябай эштәрҙе баҫып йәки ултырып башҡарырға мөмкин."
+  - "Күтәрелгән кәртәләр, һауыттар һәм ябыҡ өҫтәл баҡсаны бил бейеклегенә килтерә һәм ҡолау хәүефен кәметә."
+  - "Ҡурҡыныс ҡоралдарҙан, тикәнле йәки тетеүсе үҫемлектәрҙән һәм агыулы нәмәләрҙән һаҡланығыҙ. Туфракты аш тип уйламаҫ өсөн күҙәтегеҙ."
+  - "Эҫе һауа олоғайған кешеләр өсөн хәүефле булырға мөмкин. Иртән йәки кискә сығығыҙ, һыу һәм күләгә алығыҙ, ә ыңғай булмаған билдәләр күренгәндә тиҙ өйгә инегеҙ."
+  - "Деменция менән йәшәгән күп кешеләр ҡайһы бер ваҡыт юлдан яҙырға мөмкин. Тышта кеш янында булығыҙ һәм яңыраҡ төшкән фотоһы менән шәхес документы ҡулда булһын."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Деменция менән йәшәгән кеше ниндәй баҡса эштәрен башҡара ала?"
+    a: "Һыу һибеү, бәләкәй һауыттарға орлоҡ ултыртыу, дары үләндәрен еҫкәү һәм тейеп ҡарау, һулған сәскәләрҙе өҙөү, яшелсә йыйыу, киҫелгән сәскәләрҙе бәйләмгә йыйыу һәм юлды һепереү — барыһы ла яҡшы һайлауҙар. Өйҙә тәҙрә төбөндәге дары үләне һауыты йәки өҫтәлдәге туфрак тәбәк яҡшы килә. Эште кешенең элек яратҡанына һәм хәҙер рәхәт башҡара алыуына ҡарап һайлағыҙ."
+  - q: "Деменция менән йәшәгән кешене эҫе көндә нисек һаҡларға?"
+    a: "Тышта булыуҙы иртәнге йәки кискә һалҡын ваҡытҡа күсерегеҙ, ҡыҫҡа итегеҙ һәм һыуҙы йыш тәҡдим итегеҙ. Күләгә, киң ҡарыш башлыҡ, еңел һәм бушлыҡлы кейем һәм кояштан һаҡлаусы крем ҡулланығыҙ. Олоғайған кешеләр эҫе һауанан ауырыуға тиҙ тарыу хәүефе юғарыраҡ, һәм аптырау, баш әйләнеү йәки ҡолоҡ килеү — хәүеф билдәләре. Улар күренгәндә тиҙ генә өйгә инегеҙ һәм һыуҙан һуҡ һыу менән һалҡынайтығыҙ."
+  - q: "Улар юлдан яҙа торған булһа, тышҡа нисек сығырға?"
+    a: "Кеш менән бөтә ваҡыт бергә булығыҙ, ябыҡ баҡса йәки ҡапҡаһы бикләнгән ҡурыҡ ҡулланығыҙ, һәм кешенең шәхес билдәле браслеты йәки документы булһын. Яңыраҡ төшкән фотоһы ҡулда булһын. Әгәр кеше юғалһа, Альцгеймер ассоциацияһы 15 минут эсендә табылмаһа, 112 номерына шылтыратырға кәңәш итә."
+  - q: "Беҙҙең баҡса булмаһа?"
+    a: "Балкондағы бер нисә һауыт, тәҙрә һауыты йәки аш бүлмәһе өҫтәлендәге дары үләндәре лә еткән. Шулай ҙа парк, йәмәғәт баҡсаһы йәки берлектәге баҡсаға барырға мөмкин. Тышта ултырып, ҡоштарҙың һайрауын тыңлау ла тышҡы шөғөл булып һанала."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +47,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Күп кешеләр өсөн баҡса — иң таныш урындарҙың береһе. Ҡаҙыу, һыу һибеү, сәскә өҙөү — оҙаҡ йылдар элек өйрәнелгән күнекмәләр, ә тышта булыу — саф һауа, ҡояш нуры һәм ҡоштар йыры. National Institute on Aging (NIA) Альцгеймер ауырыуы менән йәшәгән кешеләр өсөн ярай торған шөғөлдәр рәтенә үҫемлек ҡарауҙы, сәскә һәм яшелсә ултыртыуҙы һәм [үҫемлектәрҙең нисек үҫеүе тураһында һөйләшеүҙе](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) индерә. Был биттә нимә һынап ҡарарға, баҡсаны нисек еңелерәк итергә һәм эҫе, кояш һәм юлдан яҙыу хәүефенән нисек һаҡланырға икәне бирелгән.
 
-## What outdoor and gardening activities work well?
+## Нинди баҡса һәм тышҡы эштәр яхшы эшләй?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Иң яҡшы эштәр — ябай, таныш һәм баҫып йәки ултырып башҡарыла торғандары. Кеше элек нимә яратҡанына ҡарап һайлағыҙ.
 
-### In the garden
+### Баҡсала
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Һыу һибеү.** Еңел һыу савыты йәки йомшаҡ шланг башлығы һәм ҡулға еткән бер нисә һауыт. Һыу һибеүҙең башы ла, аҙағы ла асыҡ, уны насар башҡарыу ҡыйын.
+2. **Орлоҡтарҙы һауыттарға ултыртыу.** Alzheimer's Foundation of America (AFA) орлоҡтарҙы бәләкәй һауыттарға ултыртырға һәм [уларҙың үҫешен күҙәтергә](https://alzfdn.org/dementia-activity-gardening/) тәҡдим итә. Ҙур орлоҡтар — ҡарлыған, ҡояш сәскәһе йәки борсаҡ — ҡулға еңелерәк.
+3. **Һулған сәскәләрҙе өҙөү.** Һулған сәскәләрҙе ҡул менән өҙөү — йомшаҡ, ҡабатланған эш. Тикәнһеҙ үҫемлектәр һайлағыҙ.
+4. **Яшелсә йәки дары үләндәрен йыйыу.** Черри помидорҙар, борсаҡ һәм дары үләндәре йыйырға еңел һәм тәмле. Өйгә индереп, шул уҡ көндө өйлә ашына ҡулланығыҙ.
+5. **Дары үләндәрен еҫкәү һәм тейеп ҡарау.** Розмарин, мята һәм лаванда ҡаты, матур еҫле. Яфраҡты бармаҡтар араһында ышҡығыҙ, аҙаҡ уны ҡул аша үткәреп ҡарағыҙ.
+6. **Юлды йәки майҙансыҡты һепереү.** Яҫы, ҡоро ерҙә һепергес, әгәр тигеҙлек нығыраҡ булһа.
+7. **Ҡоштар ашатҡысын тултырыу.** Унан һуң бергә ултырып, кемдәр килгәнен күҙәтегеҙ.
 
-### Indoors, when going out is not possible
+### Өйҙә, сығырға мөмкин булмағанда
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Тәҙрә төбөндәге дары үләне**: рейхан, петрушка йәки шнит-лук.
+- **Ябыҡ өҫтәлдә туфрак менән эш.** AFA ашханә стилендәге тәбәктәрҙе туфракты бер урында тотоу һәм уны бәләкәй ҡасалар менән күсереү өсөн ҡулланырға тәҡдим итә.
+- **Киҫелгән сәскәләр менән бәйләм эше**: баҡсанан йәки кибеттән алынған сәскә һәм ҡатыҡ үләндәр.
+- **Баҫылған сәскәләр**: бәйләмдән алынған сәскәләр һуңынан ҡаҙҡыҡтарға ябыштырыла. Күберәк өсөн [сәнғәт һәм ҡул эштәре](/activities/arts-and-crafts/) биттәрен ҡараңыҙ.
+- **Лаванда йәки роза еҫле мешоктар** — AFA тәҡдим иткән тағы бер ысул, ул баҡсаның еҫен өйҙә һаҡлай.
 
-### Getting out and about
+### Сығып йөрөү
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Ҡыҫҡа йөрөү** — блок буйлап, парк йәки баҡса үҙәгенә, яй аҙымлап, ултырыр урын менән.
+- **Тышта ултырыу** — ҡыуышта йәки эскәмйәлә, ҡоштар һайрауын тыңлап, елдең ҡырыуын тойоп. Был — айырым, тулы шөғөл.
+- **Йәмәғәт баҡсаһына бару** — тыныс ваҡытта. NHS билдәләүенсә, кайһы бер урындарҙа еҫле үҫемлектәр, төрлө тоҡомдар һәм һыу фонтандары булған сенсор баҡсалар бар.
+- **Ҡоштарға ашатыу йәки ҡоштарҙы күҙәтеү** урындағы күл яғында, һыу ярынан ерәгерәк торғанда.
 
-## How do I make a garden easier to use?
+## Баҡсаны нисек еңелерәк ҡулланырға?
 
-Bring the garden up to the person, not the other way around.
+Баҡсаны кешегә яҡынайтығыҙ, кеше баҡсаға түгел.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Күтәрелгән кәртәләр йәки бейек һауыттар** бил бейеклегендә — тубыҡлап эйелергә кәрәкмәй.
+- **Өҫтәлдәге һауыттар** — коляскала йөрөгән йәки ултырырға яраткан кешеләр өсөн.
+- **Киң, тигеҙ юлдар** — ташлы урын йәки шланг ятмаһын, шул сәбәпле тайыу хәүефе кәмей.
+- **Ҡулдар тоторға урынлы эскәмйәләр** һәм юл буйында күләгә — ялыу һәр ваҡыт мөмкин булһын.
+- **Йомшаҡ һаплы ҡоралдар** — тотоуға еңел. Ҡайсы-ҡайсылар, пычаҡтар һәм ҡырҡыу нәмәләрҙән ваз кисегеҙ.
+- **Бикләнгән ҡапҡалы ҡурыҡ**, унда кеше ирекле гәзиткән, һеҙ яҡында торғанда.
 
-## Which plants should I avoid?
+## Ниндәй үҫемлектәрҙән һаҡланырға?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Тейеүе хәүефһеҙ, ә мөмкин булһа, татыуы ла хәүефһеҙ үҫемлектәр һайлағыҙ. AFA тире бәрелеүен сығармаған үҫемлектәр ҡулланырға, аллергияны тикшерергә һәм туфракты аш тип уйлаған кешегә иғтибарлы булырға кәңәш итә. NIA-ның өй хәүефһеҙлеге тәҡдимдәре ағыулы үҫемлектәрҙе алып ташлауҙы йәки бикләп ҡуйыуҙы индерә.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Тикәнле роза, кактустар һәм тире тетеүсе шырәһе булған үҫемлектәрҙән ваз кисегеҙ.
+- Ышанғыһыҙ үҫемлекте ултыртыр алдынан агыулы матдәләр буйынса кәңәш биреү үҙәгенән йәки урындағы баҡса кибетенән һорағыҙ.
+- Таныш яратҡан нәмәләр рәхәт тойғолар уята ала. AFA роза һәм Раштуа кактусын миҫал итә. Тикәнһеҙ сорттарҙы һайлағыҙ.
+- Ашлыҡтарҙы, пестицид һәм сорнякҡа ҡаршы матдәләрҙе бикләп һаҡлағыҙ һәм уларҙы кеше ирешә торған урындарҙа ҡулланмағыҙ.
 
-## How do I stay safe in the heat and sun?
+## Эҫе һәм кояш ваҡытында нисек һаҡланырға?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Тышта булыуҙы һауа торошона ҡарап планлаштырығыҙ. NIA аңлатыуынса, олоғайған кешеләр [эҫенән килгән ауырыуға](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) тейешле тиклем тиҙ яраҡлаша алмағанлыҡтан һәм кайһы бер дарыуҙар организмдың эҫене кисереүенә йоғонто яһағанлыҡтан, юғарыраҡ хәүеф аҫтында.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Иртә йәки кискә сығығыҙ.** Йылы айҙа көндөң уртаһынан ҡасығыҙ. Температураны ғына түгел, эҫелек индексын да ҡарағыҙ.
+- **Һыуҙы йыш тәҡдим итегеҙ.** Кеш сусаны тип әйтеүен көтмәгеҙ. Эҫе көндә алкоголь һәм кофеинлы эсемлектәрҙән ҡасығыҙ.
+- **Кейемде һауаға ҡарап һайлағыҙ.** Аҡ йәки яҡты төҫтә, бушлыҡлы кейем, киң ҡарыш башлыҡ һәм күҙлек.
+- **Кояштан һаҡлаусы крем ҡулланығыҙ.** NIA киң спектрлы SPF 15 йәки юғарыраҡ кремды тәҡдим итә, ҡөнө буйы яңынан һөртөргә кәрәк.
+- **Күләгә һайлағыҙ.** Баҡса өҫтәлен ағас йәки шатыр аҫтына ҡуйығыҙ.
+- **Ҡыҫҡа итегеҙ.** Ҡыҫҡа ғына тышта булыу ҙа етә, айырыуса йылы көндәрҙә.
+- **Хәүеф билдәләренә иғтибар итегеҙ.** NIA эҫе һауанан ауырыу билдәләре итеп баш ауыртыу, аптырау, баш әйләнеү йәки ҡолоҡ килеүен атай. Деменция менән йәшәгән кеше бер ни хаҡта ла үҙенең ауырыуын әйтмәҫкә мөмкин, шуға күрә йөҙөнә һәм ҡылығына ҡарағыҙ. Өйгә инегеҙ, һыу һәм һыуыҡ лупкә менән һалҡынайтығыҙ, ә тиҙ яҡшырмаһа, медицина ярҙамына мөрәжәғәт итегеҙ. Эҫе тәре (һуҡ ҡайтыу) булһа — һуш юғалыу, аптырау, ҡоро һәм ҡыҙарған тире кеүек билдәләр менән — ул медицина ғәҙәттән тыш хәле: 112 номерына шылтыратығыҙ.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Һалҡын һауа ла мөһим. Ҡышын тышта булыуҙы ҡыҫҡа итегеҙ, ҡулдар менән аяҡтар йылы һәм ҡоро булыуын тәьмин итегеҙ.
 
-## How do I handle wandering when we go outside?
+## Тышҡа сыҡҡанда юлдан яҙыуҙы нисек хәл итергә?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Кеш тышта булғанда, һәр ваҡыт янында булығыҙ. Альцгеймер ассоциацияһы әйтеүенсә, [деменция менән йәшәгән ун кешенең алтыһы](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) кәмендә бер тапҡыр юлдан яҙа, ә күптәре бер тапҡырҙан ашыу. Был исталыштың истәлә һәр баҫҡысында ла булырға мөмкин.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA-ның [юлдан яҙыу һәм юғалыу буйынса кәңәштәре](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) түбәндәгеләрҙе индерә:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Кеш исеме, адресы һәм һеҙҙең телефон номерыгыҙ яҙылған шәхес йәки медицина браслетын кейеүен тәьмин итегеҙ, йәки кейемдәренә исеме яҙығыҙ.
+- Кешенең яңыраҡ төшкән фотоһын йәки видеоһын һаҡлағыҙ.
+- Күрше-тирәләргә кешенең юлдан яҙа алыуы тураһында әйтеп ҡуйығыҙ.
+- Ҡурыҡты ҡамыр һәм бикләнгән ҡапҡа менән нығытығыҙ.
+- Элек юлдан яҙыуы булған кешеҙе иғтибарһыҙ ҡалдырмағыҙ.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Альцгеймер ассоциацияһы шулай уҡ хәүефһеҙ, бикләнгән урындарҙа ирекле йөрөй торған урындар булдырырға һәм тынғыһыҙлыҡ иң күп булған ваҡытҡа шөғөлдәр планлаштырырға тәҡдим итә. Хәүефһеҙ, бикләнгән баҡсала йөрөү көндөң һуңғы өлөшөндәге тынғыһыҙлыҡ өсөн яраҡлы булырға мөмкин. Беҙҙең [көндөң һуңғы тынғыһыҙлығы](/caregiving/late-day-restlessness/) буйынса биттә ҡарағыҙ.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Әгәр кеше юғалһа, Альцгеймер ассоциацияһы тиҙ арала яҡын тирәлә эҙләргә һәм 15 минут эсендә табылмаһа, 112 номерына шылтыратырға кәңәш итә. Полицияға деменция менән йәшәгәнен әйтегеҙ.
 
-## How do I adapt gardening as things change?
+## Баҡса эшен үҙгәрештәр менән нисек яраҡлаштырырға?
 
-| If this has become hard | Try this instead |
+| Хәҙер ауыр булһа | Уның урынына был ҡулланығыҙ |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Бөтә грядканы ултыртыу | Бер һауытҡа бер орлоҡ ултыртыу |
+| Сорнякты айырыу (үҫемлектән айырып) | Һыу һибеү йәки асыҡ һулған сәскәләрҙе өҙөү |
+| Баҡса буйлап йөрөү | Туфрак һәм үҫемлек һалынған тәбәк менән өҫтәлдә ултырыу |
+| Тышҡа сыҡмау | Ашханәлә дары үләне һауыты йәки асыҡ тәҙрә янында урын |
+| Теге йә был эште башҡарыу | Тышта бергә ултырыу, тыңлау һәм ҡарау |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Кайһы берәүҙәр һеҙҙең эшләүегеҙҙе ҡарарға яраты. NIA билдәләүенсә, кеш яратһа, йәй генә ҡарап ултырыу ҙа яҡшы.
 
-## When should we head inside?
+## Ҡасан өйгә инергә?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Кеш арыған, эҫе, һалҡын, борсолған йәки тамамлауға әҙер булып күренгәндә инегеҙ. Ҡыҫҡа, рәхәт ун минут оҙаҡ, ауыр тамамланған ярты көндән яҡшыраҡ. Вакытынан алда туҡтау — дөрөҫ һөҙөмтә.
 
-## Bring the garden indoors on screen
+## Экран аша баҡсаны өйгә индереү
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Ямғырлы көндәрҙә [Sort Together](/games/sort-together/) уйыны рәсемдәрҙе тәртипкә килтереү өсөн баҡса себеүен тәҡдим итә, ә [Conversation Cards](/games/conversation-cards/) баҡса хикәйәләренә юл асырға мөмкин булған ачыҡ һорауҙар бирә. Эҫенән арыу һәм ашыҡҡан кеүек тойолһа, [Calm Breathing](/games/calm-breathing/) уртаҡлашырға мөмкин булған тыныс, әкрен тынғыны тәҡдим итә. Тойғо, еҫ һәм тауышҡа таянған башҡа идеялар өсөн беҙҙең [сенсор шөғөлдәр буйынса](/activities/sensory/) биттә ҡарағыҙ.

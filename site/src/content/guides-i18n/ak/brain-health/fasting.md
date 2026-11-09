@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Intermittent Fasting ne Dementia: Nea Nhwehwɛmu Kyerɛ"
+seoTitle: "Intermittent Fasting ne Dementia: Nea Nhwehwɛmu Ka"
+description: "Nhwehwɛmu a ɛfa intermittent fasting ne dementia ho wɔ nnipa mu yɛ kakra na ɛreyɛ ne mfiase. Kenkan nsɛm a ɛwɔ mfomso ma nkwaseafoɔ ne sɛnea aduane a ɛboro so ho hia wɔ dementia mu."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Nhwehwɛmu a ɛyɛ mfasoɔ nni hɔ a ɛkyerɛ sɛ intermittent fasting siw anaa ɛma
+  dementia nyini mu. Nhwehwɛmu pii wɔ mmoa mu, na nnipa a wɔn afe ayɛ nnɔnhwerew
+  wɔ mmofra mu ne nea ɛnyɛ tenten. Fasting ebetumi ayɛ asiane ma nkwaseafoɔ:
+  nipadua ne kɔnkɔn a ɛbɛtew, sikasɛm a ɛbɛtew wɔ ɔyaredɛ bi a wɔfa so ayaw
+  shuga, nsuo a ɛbɛtew wɔ nipadua mu ne ɔhoho. Wɔ dementia mu, aduane ne nsuo a
+  obi nom ase nyinaa yɛ nsɛm a ɛyɛ kɛse. Kasa ne dɔkota ansa na woayɛ biribi.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging kyerɛ sɛ nhwehwɛmu no nni ase a ɛterɛ sɛ wɔde fasting anaa aduane a ɛtew nsuban ano bi ma nkwaseafoɔ, titiriw nkwaseafoɔ."
+  - "Nhwehwɛmu pii a ɛfa fasting ne ayaw ho no fi mmoa mu, na ebia nsɛmmisa no nni ho nkyerɛ nnipa."
+  - "Asiane a ebetumi aba nkwaseafoɔ so ne sɛ nipadua bɛtew a wɔrennyɛ no, kɔnkɔn bɛtew, sikasɛm bɛtew wɔ ɔyaredɛ bi a wɔfa so ayaw shuga, nsuo bɛtew wɔ nipadua mu, ɔhoho ne ɔbɔ."
+  - "Nnipa a dementia atwa wɔn ho no sɛ ɛbaa mu sɛ wowɛre sɛ wobɛdi anaa wɔnom nsuo, anaa wɔsusuw sɛ wɔadi wɔ ɛsɛ. Ɛboa sɛ wɔdi aduane ne nom nsuo ase kɛse sen sɛ wodi bere bɛn."
+  - "Nnyɛ fasting ma obi a dementia atwa no ho. Kasa ne dɔkota anaa registered dietitian ansa na wosesa aduane no kwan biara."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Intermittent fasting siw Alzheimer's ano anaa?"
+    a: "Nhwehwɛmu a ɛyɛ mfasoɔ nni hɔ a ɛkyerɛ sɛ ɛyɛ saa. Nhwehwɛmu pii wɔ mmoa mu, na nnipa mu sɔhwɛ no bɛyɛ mmere tenten, wɔyɛ no wɔ mmofra anaa nnipa a wɔn nipadua bɛtew, na ɛtwe adwene si kɔnkɔn tew so. National Institute on Aging kyerɛ sɛ nhwehwɛmu no nni ase a ɛterɛ sɛ wɔkyerɛ nnipa sɛ wɔndi fasting ahyɛde."
+  - q: "Intermittent fasting yɛ nkwa ma nkwaseafoɔ anaa?"
+    a: "Ebia ɛnyɛ. Fasting ebetumi ama kɔnkɔn ne nipadua atew a wɔampɛ no, nsuo ntew nipadua mu, ɔhoho ne ɔbɔ, na ɛbetumi de sikasɛm a ɛyɛ den ba nnipa a wɔfa insulin anaa ɔyaredɛ foforo a ɛyɛ shuga ayaw so. Mayo Clinic kyerɛ sɛ ebia ɛremfa nnipa a wɔn ahoɔden wɔ mmerɛ tenten ne nnipa a wɔn nkɔ ne ɔbɔ so mfomso kɛse ho. Kasa ne dɔkota ansa na woayɛ."
+  - q: "Ɛsɛ sɛ obi a wɔwɔ dementia sɔ fasting anaa?"
+    a: "Dabi. Nnipa a dementia atwa wɔn ho no nam mmere pii so sɛ wobedi aduane ne nom nsuo ase, na aduane a ɛnyɛ yiye ebetumi ama adwene ho yareɛ ayɛ sɛ ɛba kɛse na ɛma nipadua atew. Fasting ka asiane ho, nanso nhwɛso a ɛda adi sɛ ɛboa no nni hɔ. Mmom, fa adwuma a ɛyɛ mmere pii, aduane a wɔpɛ, ne nsuo a ɛmfa ho."
+  - q: "Ɛdɛn na ɛkyerɛ sɛ obi a dementia atwa no nni aduane anaa nsuo ase yiye?"
+    a: "Hwɛ sɛ nipadua retew, ntama retwa, ɔhoho, nkwa a ɛyɛ mmerɛ, kɔnkɔn ayɛ den, anaa wɔpo aduane. Nsɛnkyerɛnne a National Institute on Aging kyerɛ sɛ ɛkyerɛ nsuo nni nipadua mu ne sɛ ano yɛ hyew, ɔhoho, abɔdeɛ bɔ ntɛm, ne ahuhuru a ɛyɛ nea ɛnyɛ nokwar. Sɛ wuhu saa nsɛnkyerɛnne yi a, ka kyerɛ ne dɔkota."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Intermittent fasting, te sɛ sɛ wodi aduane wɔ dwoma nnɔnhwerew mu anaa wotew aduane kɛse nnafua mmienu a ɛwɔ dapɛn biara mu, da so ara ma nnipa pii ani gye, na nkyerɛwee bi kyerɛ sɛ ebetumi aboa adwene. Sɛ woyɛ obi a afe akɔ so, anaa wo boa obi a dementia atwa no ho, hwɛ nea nhwehwɛmu no kyerɛ ankasa ne nea ɛma ɛho hia sɛ wodi akyinnyeɛ.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Eyi yɛ amanneɛ a ɛfa ho, na ɛnyɛ akwankyerɛ a ɛfa ayaresa ho. Nnyɛ fasting, anaa nsesa nea obi a wo boa no di, kɔsi sɛ woakasa kyerɛ dɔkota anaa registered dietitian. Hwɛ yɛn [medical disclaimer](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Intermittent fasting siw dementia ano anaa?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Nhwehwɛmu a ɛyɛ mfasoɔ nni hɔ a ɛkyerɛ sɛ intermittent fasting siw anaa ɛma dementia nyini mu. National Institute on Aging (NIA) kyerɛ sɛ nhwehwɛmu no nni ase a ɛterɛ sɛ wɔde aduane a ɛtew nsuban anaa fasting biara ma nnipa, na ɛsɛ sɛ wɔsua nnɔso wɔ ne yiyedi ne ne ahobammɔ ho, titiriw wɔ nkwaseafoɔ mu ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Adɛn nti na nhwehwɛmu no nni dodow?
 
-The NIA gives several reasons:
+NIA kyerɛ nsɛmmisa a ɛma sɛ ɛnni dodow:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Nhwehwɛmu pii wɔ mmoa mu.** Nhwehwɛmu a wɔyɛ wɔ mpoma, ntoma, nkɔkɔɔ ne ɛfũ mu no ama nsɛm a ɛyɛ anigye, nanso ebia nsɛm yi nnyɛ nnipa nyinaa. Ɛwɔ mmoa mu deɛ, nso nsɛm no nyɛ pɛpɛɛpɛ: ebinom mu, aduane a ɛtew nsuban ama nkwa tenten, foforo ama nkwa tew.
+- **Nnipa mu nhwehwɛmu yɛ mmere tenten.** Ɛbɛyɛ nnawɔtwe anaa bosome.
+- **Nnipa mu nhwehwɛmu fa nipadua a ɛyɛ mmerɛ so.** Wɔde nnipa a wɔn nipadua bɛtew sɛ ɛbɛboa ma wɔaba bɔfoɔ anaa wɔhwehwɛ nea ɛyɛ adwene ho yareɛ.
+- **Nkwaseafoɔ rennya ayɔnkofa.** Nnipa pii a wɔyɛ nhwehwɛmu no wɔ afe 60 anaa ase.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Nhwehwɛmu a wɔyɛ afe yi, 2026, hwehwɛɛ intermittent fasting wɔ nnipa a wɔn afe ayɛ 60 anaa ɛboro so mu. Ɛhunuu sɛ nsɛm no ka ho kakra wɔ saa mmerɛ yi mu, na nhwehwɛmu no yɛ kakra, mmere a ɛtenten nni hɔ, ne nhyehyɛe a ɛnyɛ pɛ. Adwene ne adwene ho nsɛm fi nhwehwɛmu nketenkete mu, na wɔammoa nsɛm no nyinaa ano. Nhwehwɛmu no kyerɛɛ nso sɛ nhwehwɛmu bi kyerɛ sɛ aduane a ɛntɛn ara anaa fasting a ɛtenten no ka nea ɛyɛ bɔne ho, na nnyinasosɛm no bisaa nkwaseafoɔ sɛ wɔnhyɛ adwene so yiye ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Ebinom susuw sɛ sɛ nipadua sesa de ahyɛ ahoɔden fi kɔnkɔn mu bere a wɔrennidi no, ebetumi aka adwene ho, nanso eyi ka ɛyɛ adwene a wɔreyɛ nhwehwɛmu ho. NIA kyerɛ sɛ nimdeɛ no nyɛ pɛpɛɛpɛ.
 
-## What are the risks of fasting for older adults?
+## Asiane bɛn na ɛwɔ fasting ma nkwaseafoɔ?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Fasting nyɛ adwuma a ɛnni asiane ma nnipa pii a wɔyɛ nkwaseafoɔ. Asiane a ebetumi aba ni:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Nipadua a wɔampɛ sɛ ɛtew.** Aduane a ɛtew sen nea nipadua hia ebetumi ama nipadua atew na ahoɔden a ɛwɔ nipadua mu atew, na ɛbɛma obi ayɛ kɔkɔ.
+- **Kɔnkɔn ne sɛnkyerɛnne a ɛtew.** NIA ayɛ nhwehwɛmu bi wɔ mfe mmienu a wɔyɛ wɔ nnipa a wɔn afe ayɛ nnɔnhwerew ne mfe a ɛdi kan wɔ mmerɛ a wɔn nkwa ne mfe ayɛ nkyɛn. Wɔn a wɔyɛ nhwehwɛmu no wɔ nsakrae kakra wɔ sɛnkyerɛnne ne kɔnkɔn a ɛwɔ wɔn nipadua mu mu.
+- **Sikasɛm a ɛtew wɔ ɔyaredɛ a wɔfa so ayaw shuga.** Nnipa a wɔfa insulin anaa ɔyaredɛ foforo a ɛyɛ shuga ayaw so no, sɛ wɔnhyɛ aduane anaa wɔdaa so, ebetumi ama sikasɛm atew kɛse. Eyi kyerɛ National Institute of Diabetes and Digestive and Kidney Diseases ([Low blood sugar](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia)). Sikasɛm a ɛtew betumi ama ɔbɔ, adwene ho ɔhaw, ne abufuw.
+- **Nsuo a ɛtew.** Sɛ wɔde nom nsuo ne aduane nyinaa bɔ ho bio a, obi betumi ayɛ nsuo a ɛtew nipadua mu.
+- **Ɔhoho ne ɔbɔ.** Mayo Clinic kyerɛ sɛ intermittent fasting betumi ama obi ayɛ kɔkɔ ne ɔhoho, na ɛremfa nnipa a wɔn nkɔ ne ɔbɔ so mfomso kɛse ho ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Nsɛm foforo.** Mayo Clinic kyerɛ nso sɛ ebetumi aba tiri yea, abɔ ntɛm, ne kɔnkɔn ayɛ den. Ɛkyerɛ nso sɛ fasting a ɛyɛ nnɔnhwerew wɔ ahama a ɛyɛ dwoma nnɔnhwerew nkyɛn ebetumi ama yaredɛ a ɛfa abɔnten ho ayɛ kɛse wɔ nnipa mu, nanso nsɛm no nnyina hɔ ankasa.
 
-## Why is eating enough the bigger concern with dementia?
+## Adɛn nti na aduane ne nom nsuo ase yiye yɛ nsɛm a ɛyɛ kɛse wɔ dementia mu?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Wɔ nnipa a dementia atwa wɔn ho no, nsɛm a ɛyɛ kɛse ne sɛ wɔrenni aduane ne nsuo **a ɛdɔɔso**, ɛnyɛ sɛ wɔdi kɛse. Alzheimer's Association kyerɛ sɛ nnipa a wɔn yareɛ wɔ mfiase anaa mfiase kɛse mu betumi ayɛ nwoma sɛ wɔanya aduane a wɔpɛ, wobu wɔn ho nsɛnkyerɛ wɔ aduane ho, anaa wɔsusuw sɛ wɔadi aduane dedaw. Ɛka nso sɛ aduane a ɛnyɛ yiye ebetumi ama adwene ho yareɛ ayɛ kɛse, ama obi atew, ne ama obi nkɔ so ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society kyerɛ sɛ sɛ obi nni aduane yiye a, ebetumi ama wɔatew, wɔn nipadua mu ahoɔden atew, ntama ne nkwa mmerɛ aba, na ɛma obi ayɛ kɔkɔ na ɛbɛyɛ den sɛ ɔbɛsa ayaredeɛ ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Saa nsɛm yi nti, fasting nyɛ adwene pa ma obi a dementia atwa no.** Aduane a wɔatew mpɛn pii betumi ayɛ aduane a wɔrenni koraa. Sɛ wɔresesa sɛnea obi a wɔwɔ dementia di aduane a, kasa ne dɔkota anaa registered dietitian.
 
-## What are the warning signs of poor eating or drinking?
+## Nsɛnkyerɛnne bɛn na ɛkyerɛ sɛ aduane anaa nsuo nom ase nyɛ yiye?
 
-Watch for:
+Hwɛ:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Nipadua a ɛtew**, anaa ntama a ɛyɛ nnɔnhwerew.
+- **Aduane a wɔgyaa anaa wɔpo aduane**, anaa wɔsusuw aduane wɔ ano.
+- **Ntama anaa nkwa mmerɛ.**
+- **Kɔnkɔn ayɛ den**, a ebetumi ayɛ nsɛm a ɛfa nsuo ne aduane ho.
+- **Nsɛnkyerɛnne a ɛkyerɛ sɛ nsuo nni nipadua mu.** NIA kyerɛ sɛ ano yɛ hyew, ɔhoho, abɔdeɛ bɔ ntɛm, ne ahuhuru a ɛyɛ nea ɛnyɛ nokwar, na dementia ankasa betumi ama nsɛnkyerɛnne yi nso aba ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Aduane a ɛnyɛ yiye betumi ayɛ nsɛm bebree a ɛde ba: nsa a ɛyɛ yaw anaa dentures a ɛnyɛ yiye, ayaresa foforo, abrabɔ a ɛyɛ den, kɔnkɔn ayɛ den, nnwuma a ɛtew, anaa nsakrae wɔ nnompe ne nhwiren mu. Ka nsɛnkyerɛnne yi kyerɛ obi dɔkota. Wɔbetumi ahwehwɛ sɛ ɛde ba, na wɔbetumi akyerɛ wo sɛ wɔfrɛ registered dietitian anaa wɔde nnuane ama.
 
-## How can you help someone eat and drink enough?
+## Ɛdɛn na wobetumi aboa obi adi aduane ne nom nsuo ase yiye?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Ma aduane ketewa ne nnuane wɔ bere tenten**, sen sɛ wobɛma aduane kɛse abiɛsa.
+- **Ma aduane a ɔpɛ**, na fa sesa wɔ bere a ne nnompe sesa no ho. Nnuane a ɛyɛ dodoɔ betumi aba sɛ ne ho nni yiye, nanso bisa dɔkota sɛ ɛwɔ ayaresa nsɛm a ɛmma wɔtew sukwa ho.
+- **Ma nsuo ayɛ hia ne ho wɔ nkyɛn, na ma nsuo ketewa nom ɛberɛ nyinaa.** Nsuo, abɔdeɛ, nsuo a wɔde abɔdeɛ ayɛ, ne nkuto nso kɔ.
+- **Didi ne obi bom sɛ ɛbɛtumi.** Aduane yɛ bere a wɔbɛtumi akasa, nkɔsoɔ a ɛyɛ den nnyɛ.
+- **Sɛ nsa rebɛyɛ den ma ɔnam aduane so a**, fa nnuane a wɔbɛtumi adi nsa mu, sɛ sanwiss, abɔdeɛ bɔbɔ, anaa nkɔkɔɔ nnompe.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Yɛn [diet guide](/brain-health/diet/) wɔ aduane afotu foforo. Aduane yiyedi a obi ne obi bom yɛ ne nnwuma a ɛnyɛ den a wobetumi ayɛ bom, hwɛ [household tasks](/activities/household-tasks/).
 
-## Talk with a doctor
+## Kasa ne dɔkota
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Ansa na woayɛ fasting nhyehyɛe biara wo ho, kasa ne dɔkota anaa registered dietitian, titiriw sɛ wofa ɔyaredɛ a wɔfa so ayaw shuga anaa mogya ntɛm so, sɛ woatew nipadua bio, anaa wo ho adi. Wɔ obi a dementia atwa no ho, bisa ne dɔkota sɛ ɛsɛ sɛ ɔnom ne nom nsuo dodow bɛn da biara, sen sɛ wobɛbisa fasting.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Hwehwɛ mmoa ntɛm wɔ ayaresa mu sɛ ahoɔden fi wɔ mpɛn koro, sɛ obi nkɔ wɔ ne nnipa so, anaa nsɛnkyerɛnne a ɛkyerɛ sɛ sikasɛm atew kɛse a ɛnyɛ ntɛm a ɛnyɛ.

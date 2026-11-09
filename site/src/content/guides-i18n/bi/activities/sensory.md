@@ -1,33 +1,28 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Aktiviti blong Senses for Ol Man wetem Dementia"
+seoTitle: "Aktiviti blong Senses long Dementia: Ol Aedia mo Sefti"
+description: "Ol aktiviti blong senses for ol man we oli stap laef wetem dementia, from masej blong han go kasem basket blong kaleko mo saon blong nesa, wetem ol save long sefti blong vomit, alajik mo smel."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Ol aktiviti blong senses i yusum tajem, smel, kakae, saon mo lukluk: wan masej blong han we i slo, wan basket blong ol soft kaleko, ol fresh gris blong smelem, saon blong nesa, o lukluk ol bed long windo. Oli gud long evri stej mo oli moa gud long bihaen. Fastem ol save long ol risk blong vomit, alajik, ol problem blong sking mo smel we i save hevi long man, ofarem wan samting wan taem nomo, mo stopem sipos man i no fil gud.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Ol aktiviti blong senses oli no gat ol rong o stret ansa, so oli wok long evri stej, including long bed o long jea."
+  - "Ofarem wan sens wan taem nomo long wan kuiet rum, mo askem o talem bifo yu tajem man."
+  - "Lavem ol smol samting mo enikaen samting we i lukluk o smelem olsem kakae be i no kakae, from man save putum samting long maot blong hem."
+  - "Jekem alajik, problem blong sking mo problem blong win bifo yu yusum ol lotion, smel o kakae."
+  - "I no gat wan gud evidens we aromatherapy i helpem ol simtom blong dementia; yusum ol smel nomo blong ol simpol fanmi plesua, sipos yu wantem."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Wanem nao ol gud aktiviti blong senses for man we i gat dementia?"
+    a: "Ol simpol aedia oli inkludum wan slo masej blong han wetem lotion, handel ol soft kaleko, smelem ol fresh gris o kofi, lisin long ol miusik we man i laekem o saon blong nesa, lukluk ol bed o wan fish tank, mo testem wan kakae we man i laekem long wan tekstja we i sefti. Ofarem wan samting wan taem nomo mo lukluk hao man i ansarem."
+  - q: "Ol aktiviti blong senses oli sef from man we i putum samting long maot blong hem?"
+    a: "Oli save sef, be yu mas kea. Yusum nomo ol bigfala samting we oli no save kasem fo swalom, lusum enikaen smol o i save brok samting, mo kipim ol lotion, sop mo ol samting we i gat smel aftawod we oli no stap kasem, from oli save lukluk o smel olsem kakae. Stap wetem man ol taem."
+  - q: "Aromatherapy i helpem long dementia?"
+    a: "Wan risej blong Cochrane i faendem se i no gat wan gud evidens we aromatherapy i helpem ol man we oli gat dementia, be ol study oli smol mo oli no seim. Sipos man i laekem wan laet mo famliar smel, i oraet, be lusum ol strong essential oil, namel long taem we man i gat ol problem blong win o alajik."
+  - q: "Wanem nao wan fidget o activity apron?"
+    a: "Hemi wan pis kaleko, apron o blanket blong lap we oli sutim ol samting blong handelem olsem ol bigfala batan, zipa, ribon mo ol textured patch we oli sutim strong long hem. Hemi givim ol busy han wan samting blong eksploa. Jekem hemi oltaem blong luk sipos i gat wan samting we i lous mo man i save pulum i kam."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Ol aktiviti blong senses i yusum fo sens: tajem, smel, kakae, saon mo lukluk. Oli no nidim memori, no oli nidim ol stap, mo no gat ol stret ansa, so oli save wok long eni stej. Oli impoten moa long bihaen. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) i talem se long leith stej, man i save filim wol i kam long ol sens, mo yu save soem kea long ol tajem, saon, lukluk, kakae mo smel. Sam simpol sefti jek i save mekem ol aktiviti ya i kamfot long evriwan.
 
-## What are sensory activities for dementia?
+## Wanem nao ol aktiviti blong senses long dementia?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Ol aktiviti blong senses oli ol simpol ekspiriens we oli bilt long wan sens wan taem, olsem filim wan kaleko, smelem ol gris o lisin long ren. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i talem se ol aktiviti long leith stej oli nidim blong fokas long ol sens, mo i mentionem miusik, ol samting blong tajem mo holem, mo masej blong han. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i talem se ol man long leith stej oli save gat strong nid blong holem wan samting klostu long olgeta blong kamfot.
 
-## Sensory ideas, sense by sense
+## Ol aedia blong senses, wan wan sens
 
-### Touch
+### Tajem
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Masej blong han.** Warmem smol lotion long han blong yu mo strokem i slo from wrist i go kasem ol fingatip. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) i mentionem masej wetem lotion we i no gat smel for kamfot.
+- **Basket blong kaleko.** Ol bigfala skwea blong velvet, corduroy, fleece, satin mo wul blong strokem, folem mo toktok long hem.
+- **Warm washcloth.** Wan warm mo wet kloth blong han long wan kol de. Testem tempretja long wrist blong yu fastaem.
+- **Activity apron o lap blanket.** Ol bigfala batan, zipa, ribon mo ol textured patch we oli sutim strong long hem.
+- **Folem mo smoothem.** Wan basket blong ol klin washcloth o napkin blong folem, stakem mo folem bakegen.
+- **Samting soft blong holem.** Wan fleece throw, wan kushin o wan soft animol we i realistik, ofarem i simpol, nating olsem tingting blong pleiem.
 
-### Smell
+### Smel
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Fresh gris.** Rabem mint, rosemary, basil o lavender lif long ol fingga blong yu mo pasem i kam klosap long nous blong man.
+- **Smel long kitjen.** Kofi we i stap bolem, bred we i stap raosta, sinamon o wan orens we i stap pilem klostu.
+- **Flaoa.** Kasem sam fresh flaoa from gaden o from stoa.
+- **Wan famliar prodak.** Sop o lotion we hem i yusum evri taem, sipos skin blong hem i akseptem.
 
-### Taste
+### Kakae
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Wan fevarit flevo.** Smol spun blong samting we hem i laekem, olsem applesauce, pudding o ais krim, long wan tekstja we hem i save kakae sefti.
+- **Helpem long bekem.** Testem frut o smol frostingi taem yufala i stap bekem wantogeta.
+- **Seasonal tritim.** Watermelon long sama, warm saedа long fol, i servem long wan sefti tempretja.
 
-### Sound
+### Saon
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Miusik we hem i laekem.** Ol song we oli famliar long wan gentel vol; luk [ol aktiviti blong miusik](/activities/music/).
+- **Saon blong nesa.** Ren, wes o ol bed i singsing. NIA i talem se miusik, waet noiz mo saon blong nesa oli luk olsem oli helpem sam man blong relaks.
+- **Voes blong yu.** Ridim i loud, hambag, o tokstori.
+- **Ol simpol instrumen.** Wan hand drum, shaker o bel blong pleiem wetem miusik.
 
-### Sight
+### Lukluk
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Lukluk long windo.** Wan bed feda we i stap aotsaed long windo, ol pikinini we oli wakabaot i go hom, o snoa we i stap foldaon.
+- **Wan fish tank o slo vidio.** Gentel muvmen we i no gat loud saon.
+- **Bigfala foto.** Wan klia pikja nomo long wan taem, holem long ai level.
+- **Kala mo pataen.** Sotem ol bright kaleko pis, flaoa o kala napkin, o wan simpol kala pej from [kala set](/games/coloring/) blong yumi.
+- **Aotsaed.** NHS i sajestem ol sensory gaden we i gat ol plant we i gat smel, ol textua mo ol wota fitja. Luk [ol aktiviti blong aotsaed mo gaden](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Hao blong mekem bokis blong senses
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Jusim wan tema** we i konektem long laef blong man: bij, gaden, kitjen, wokshop, swing.
+2. **Jusum faev o sikis bigfala, sef samting,** olsem wan bigfala sel, wan wud spun, wan soft sakaf, wan sachet blong drae lavender we i sutim i sut, o wan smooth wud blok.
+3. **Jekem evri samting** long ol smol pis, ol sharp ej, ol lous tred mo eni samting we i save brok.
+4. **Kasem wan samting wan taem nomo.** Givim long han, deskraebem, mo letem man i ekspleum.
+5. **Putum bokis i go bak afterwod** blong hem i stap spesol mo ol samting oli jekem bakegen bifo nekis taem.
 
-## Safety first
+## Sefti fes
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Ol aktiviti blong senses oli gentel, be sam risk i impoten. Sam man we oli gat dementia oli save tingting se ol samting we no kakae oli kakae, mo swalom i save kamap i hadwan long taem; NIA i warnem se ol problem blong swalom long leith stej i save mekem risk blong vomit i go hae.
 
-| Risk | What to do |
+| Risk | Wanem blong mekem |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Vomit | Yusum nomo ol samting we oli bigwan blong no save swalom. No batan, bid, koen, marbol o ol smol toi we oli lous long bokis. Ofarem kakae nomo long ol tekstja we tim blong kea i talem se oli sef. |
+| Ol samting we oli lukluk olsem kakae | NIA i talem blong lokem lotion, sop, sampu mo perfum, we oli save lukluk o smelem olsem kakae, mo ol artifisel frut. Putum ol prodak blong senses we i stap awe afta yusum. |
+| Alajik | Jekem alajik long nat, latex, wul, plant o fragrans bifo yu stat. |
+| Strong smel | Lusum strong perfum mo essential oil, namel sipos man i gat asma o ol narafala problem blong win. Ol laet nacural smel i sefmoa. |
+| Sking | Jekem sore, brok o wik sking bifo masej. Yusum gentel presa mo stopem sipos oli wins. |
+| Tempretja | Testem ol warm kloth mo drink long wrist blong yu fastaem. |
+| Sharp o poisen samting | No sharp tul, glas o ol poisen krafti sapla. |
 
-## Does aromatherapy help?
+## Aromatherapy i save helpem?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Oli no save faendem wan gud evidens. Wan [Cochrane review blong aromatherapy long dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) i lukluk long 13 study wetem 708 man, ol olgeta long kea haos, mo i no faendem wan gud evidens blong benefit. Ol study oli smol, ol risal oli no seim, mo ol side efek oli no stap ripotem gud. Sipos man i laekem wan laet mo famliar smel, olsem lavender from gaden, i wan gud risen blong sherem. Hemi no wan tritmen.
 
-## How to offer a sensory activity
+## Hao blong ofarem wan aktiviti blong senses
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Jusum wan kuiet taem** mo kilim TV.
+- **Kam long fes blong man,** kolem nem blong hem, mo askem o talem bifo yu tajem hem: "Mi gat sam lotion. Yu laekem mi masej han blong yu?"
+- **Ofarem wan samting wan taem nomo** blong i no stretem hem.
+- **Lukluk ansa blong hem.** Wan saoa fes, ol han we oli relaks o wan smaela i gud saen. Sipos hem i pulum i go bak, i mekem fes i tait, o i gat wari, i minim blong stop.
+- **Mekem i sot.** Faev kwaet minit i gud sesen.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Wan slo breting taem wantogeta, olsem [kalm breting](/games/calm-breathing/), i save wan gentel rod blong finisim. Blong moa bed aedia, luk [aktiviti blong leith stej](/activities/late-stage/), mo blong ivning wari, luk [late-day restlessness](/caregiving/late-day-restlessness/).

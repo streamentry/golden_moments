@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Налада планшэта ці тэлефона для чалавека з дэменцыяй"
+seoTitle: "Наладзьце планшэт ці тэлефон для чалавека з дэменцыяй"
+description: "Пакрокавая налада планшэта і тэлефона для чалавека з дэменцыяй: доступ толькі да адной праграмы, большы тэкст, менш апавяшчэнняў, просты галоўны экран, гук і прыватнасць."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Зрабіце планшэт ці тэлефон прасцейшым, перш чым аддаць яго чалавеку. Замацуйце
+  прыладу на адной праграме з дапамогай Кіранога доступу на iPad і iPhone або
+  замацавання праграм на Android, альбо скарыстайцеся функцыяй Apple Assistive
+  Access для спрошчанага выгляду. Зрабіце тэкст большым, адключыце апавяшчэнні,
+  пакіньце на адным галоўным экране толькі некалькі праграм, наладзьце гучнасць,
+  выкарыстоўвайце падстаўку і абмяжоўвайце дазволы праграм. Выкарыстоўвайце
+  гэта разам з заняткамі без экрана.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Кіраваны доступ (iPhone, iPad) і замацаванне праграм (Android) утрымліваюць экран на адной праграме, пакуль вы не разблакіруеце прыладу."
+  - "Assistive Access ад Apple прапануе спрошчаны выгляд, распрацаваны для людзей з кагнітыўнымі парушэннямі."
+  - "Зрабіце тэкст большым і адключыце апавяшчэнні і ўсплывальныя вокны, каб нічога не перапыняла і не збівала з толку."
+  - "На адным галоўным экране застаўце толькі некалькі знаёмых праграм і наладзьце гучнасць перад пачаткам."
+  - "Падстаўка і месца для зарадкі, якое ніколі не мяняецца, палягчаюць карыстанне прыладай і пошук яе."
+  - "Праверце дазволы праграм і абмен данымі: HIPAA, як правіла, не абараняе тое, што захоўваецца на асабістай прыладзе."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Як не даць чалавеку з дэменцыяй выйсці з праграмы на iPad?"
+    a: "Уключыце Кіраваны доступ у Налады > Спецыяльныя магчымасці > Кіраваны доступ і задайце код. Адкрыйце праграму, тройчы націсніце верхнюю кнопку (або кнопку «Дадому» на старых iPad) і націсніце «Пачаць». iPad застаецца ў гэтай праграме, пакуль хто-небудзь не ўвядзе код."
+  - q: "Як замацаваць планшэт Android на адной праграме?"
+    a: "Уключыце замацаванне праграм у праграме «Налады», звычайна ў раздзеле «Бяспека» (часам «Бяспека і месцазнаходжанне») > «Дадаткова» > «Замацаванне праграм». Затым адкрыйце праграму, адкрыйце агляд, націсніце на значок праграмы уверсе і націсніце «Замацаваць». Для адмацавання патрэбны ваш PIN-код, узор або пароль."
+  - q: "Ці бяспечна выкарыстоўваць Кіраваны доступ на ўласным тэлефоне чалавека?"
+    a: "Будзьце асцярожныя. Apple паведамляе, што Выяўленне аварыі і Экстранныя службы не працуюць, пакуль уключаны Кіраваны доступ. Калі чалавек спадзяецца на тэлефон для экстранных выклікаў, карыстайцеся Кіраваным доступам толькі тады, калі вы побач, або разгледзьце Assistive Access."
+  - q: "Колькі часу з экранам дапушчальна для чалавека з дэменцыяй?"
+    a: "Адназначнай колькасці няма. Кароткія сумесныя сеансы, якія чаргуюцца з прагулкамі, музыкай, хатняй працай і размовамі, робяць дзень больш напоўненым, чым доўгі час аднаму перад экранам. Калі прылада выклікае раздражненне або выцясняе іншыя заняткі, карыстайцеся ёю радзей."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Планшэт можа стаць добрым спосабам разам глядзець фотаздымкі, слухаць музыку і гуляць у простыя гульні. Але ён можа і збіваць з толку: выпадковае націсканне адкрывае іншую праграму, з'яўляецца апавяшчэнне, тэкст вельмі дробны або экран гасне ў сярэдзіне гульні. Невялікая налада перад пачаткам вырашае большую частку гэтых праблем.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Гэтыя крокі выкарыстоўваюць убудаваныя налады iPhone, iPad і Android. Назвы пунктаў меню могуць мяняцца ў залежнасці ад версіі праграмнага забеспячэння і вытворцы прылады. Калі нешта выглядае інакш, карыстайцеся спасылкай на старонку Apple або Google для вашай прылады. Наладзьце прыладу самі, перш чым сесці разам.
 
-## Should someone with dementia use a tablet or phone?
+## Ці варта чалавеку з дэменцыяй карыстацца планшэтам ці тэлефонам?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Гэта залежыць ад чалавека. Многім падабаецца карыстацца планшэтам, калі побач ёсць хтосьці, хто можа дапамагчы, нават калі самастойна яны б не справіліся. Пачніце з сумеснага выкарыстання: адна праграма адкрыта, некалькі хвілін. Калі гэта дорыць радасць і размову, працягвайце. Калі гэта выклікае блытаніну або раздражненне, альбом з фотаздымкамі, раздрукаваныя старонкі ці музыка могуць падысці больш. Адной з альтэрнатыў з'яўляюцца нашы [друкаваныя заняткі](/activities/printable/).
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Планшэт звычайна зручнейшы за тэлефон: экран і малюнкі большыя, да таго ж ён не з'яўляецца асноўным сродкам экстранай сувязі чалавека.
 
-## How do I lock a tablet or phone to one app?
+## Як зафіксаваць планшэт або тэлефон на адной праграме?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Выкарыстоўвайце Кіраваны доступ на iPhone і iPad або замацаванне праграм на Android. Абодва спосабы ўтрымліваюць экран на адной праграме, пакуль вы не ўвядзяце код, таму выпадковае націсканне ці гартанне не адкрые нічога іншага.
 
-### iPad and iPhone: Guided Access
+### iPad і iPhone: Кіраваны доступ
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Паводле [інструкцый Apple па Кіраваным доступе](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Адкрыйце **Налады**, націсніце **Спецыяльныя магчымасці**, потым **Кіраваны доступ** і ўключыце яго.
+2. У раздзеле **Налады кода** задайце код Кіранога доступу. Таксама можна дазволіць Face ID або Touch ID.
+3. Па жаданні: у раздзеле **Аўтаблакіроўка экрана** выберыце, як хутка экран блакуецца падчас сеансу, каб ён не гас у сярэдзіне гульні.
+4. Адкрыйце праграму, якую хочаце выкарыстоўваць.
+5. Тройчы націсніце бакавую кнопку (iPhone), верхнюю кнопку (iPad) або кнопку «Дадому» на старых прыладах.
+6. Па жаданні: абкрэсліце часткі экрана, на якія не павінны рэагаваць дotyki. Націсніце **Параметры** (або **Налады сеансу**), каб адключыць кнопкі гучнасці або паварот экрана.
+7. Націсніце **Пачаць**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Каб завяршыць сеанс, тройчы націсніце тую ж кнопку, увядзіце код і націсніце **Завяршыць**. Apple адзначае, што на некаторых старых версіях праграмнага забеспячэння трэба націснуць двойчы.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Важна:** Apple паведамляе, што Выяўленне аварыі і Экстранныя службы падчас сеансу Кіранога доступу недаступныя. Не пакідайце Кіраваны доступ уключаным на тэлефоне, які чалавеку можа спатрэбіцца для экстранага выкліку.
 
-### Android: app pinning
+### Android: замацаванне праграм
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Паводле [даведкі Google па замацаванні экранаў на Android](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Адкрыйце праграму **Налады**.
+2. Націсніце **Бяспека** (або **Бяспека і месцазнаходжанне**), потым **Дадаткова**, потым **Замацаванне праграм**. Калі не знаходзіце гэты пункт, праверце даведку вытворцы вашай прылады.
+3. Уключыце **Замацаванне праграм**. Для адмацавання спатрэбіцца ваш PIN-код, узор або пароль.
+4. Адкрыйце патрэбную праграму. Прагартайце ўверх да сярэдзіны экрана і ўтрымлівайце, каб адкрыць агляд (або націсніце «Агляд» пры навігацыі з трыма кнопкамі).
+5. Уверсе перадпрагляду праграмы націсніце на значок праграмы, потым націсніце **Замацаваць**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Каб адмацаваць з жэставай навігацыяй, прагартайце ўверх і ўтрымлівайце. Пры навігацыі з трыма кнопкамі ўтрымлівайце «Назад» і «Агляд». Пры навігацыі з дзвюма кнопкамі ўтрымлівайце «Назад» і «Дадому». Затым увядзіце PIN-код, узор або пароль.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Ці ёсць прасцейшы рэжым для ўсяго iPhone або iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Так. Assistive Access ад Apple замяняе звычайны галоўны экран спрошчаным. [Apple апісвае](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) гэтую функцыю як распрацаваную, каб людзям з кагнітыўнымі парушэннямі было прасцей самастойна карыстацца iPhone, з большымі элементамі экрана і больш сканцэнтраванымі функцыямі. Apple прапануе [тую ж функцыю і для iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Хто наладжвае.** Apple рэкамендуе, каб налады рабіў давераны памочнік, напрыклад член сям'і або даглядальнік, які ведае гэтага чалавека і дапамагае выбраць праграмы і функцыі.
+- **З чаго пачаць.** Адкрыйце **Налады > Спецыяльныя магчымасці > Assistive Access**, націсніце **Наладзіць Assistive Access**, потым **Далей**.
+- **Праграмы.** Вы выбіраеце, якія праграмы з'явяцца на экране. Некаторыя праграмы Apple маюць спецыяльныя спрошчаныя версіі, а большасць іншых праграм можна дадаць у звычайным выглядзе.
+- **Макет.** Выберыце **Радкі** (зручны для чытання спіс) або **Сетка** (большыя элементы, якія падкрэсліваюць малюнкі і значкі).
+- **Код.** Вы задаяце асобны код Assistive Access для ўваходу, выхаду і змены налад. Apple рэкамендуе падчас наладкі наладзіць адноўлены ўліковы запіс Apple, бо без яго забыты код азначае скід прылады.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access можа падысці таму, хто кожны дзень карыстаецца сваёй прыладай. Для агульнага сумеснага гульнявога сеансу хутчэй падыдзе Кіраваны доступ або замацаванне праграм.
 
-## How do I make text and pictures bigger?
+## Як зрабіць тэкст і малюнкі большымі?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Павялічце тэкст і памер экрана, потым праверце, ці ўсе кнопкі па-ранейшаму змяшчаюцца на экране.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone і iPad.** Паводле [інструкцый Apple па памеры шрыфту](https://support.apple.com/en-us/102453), адкрыйце **Налады > Экран і яркасць > Памер тэксту** і перасуньце паўзунок. Для яшчэ большага тэксту адкрыйце **Налады > Спецыяльныя магчымасці > Экран і тэкст > Большы тэкст**. Apple адзначае, што вельмі вялікі тэкст можа ўскладніць націсканне некаторых кнопак, таму, калі трэба, зменіце гэта.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Паводле [даведкі Google па налядзе тэксту і экрана](https://support.google.com/accessibility/android/answer/11183305?hl=en), адкрыйце **Налады** і знайдзіце **Памер шрыфту**, потым перасуньце паўзунок. Знайдзіце **Памер экрана**, каб павялічыць усё на экране. Таксама можна ўключыць **Тлусты тэкст** у раздзеле **Спецыяльныя магчымасці > Памер экрана і тэкст**. Некаторыя праграмы не падпарадкоўваюцца гэтым наладам.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+У гульнях, такіх як [Пары малюнкаў](/games/picture-pairs/) і [Знайдзі такі самы](/games/find-the-same/), таксама можна выбраць меншую колькасць плітак або варыянтаў. Так на экране будзе прасцей.
 
-## How do I stop notifications and pop-ups?
+## Як спыніць апавяшчэнні і ўсплывальныя вокны?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Выключыце апавяшчэнні для праграм, якія не патрэбныя, і выкарыстоўвайце рэжым «Не турбаваць» падчас заняткаў.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone і iPad.** Адкрыйце **Налады > Апавяшчэнні**, націсніце праграму ў раздзеле **Стыль апавяшчэнняў** і выключыце **Дазволіць апавяшчэнні** ([даведка Apple па наладах апавяшчэнняў](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Каб на некаторы час выключыць выклікі, сігналы і апавяшчэнні, адкрыйце Цэнтр кіравання і ўключыце **Не турбаваць** з кнопкі **Фокус** ([даведка Apple па рэжыме «Не турбаваць»](https://support.apple.com/en-us/105112)). Можна задаць расклад у **Налады > Фокус > Не турбаваць > Задаць расклад**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Праверце верхні край экрана і націсніце **Не турбаваць** або адкрыйце **Налады > Рэжымы > Не турбаваць** ([даведка Google па рэжыме «Не турбаваць»](https://support.google.com/android/answer/9069335?hl=en)). У раздзеле **Фільтры апавяшчэнняў** можна выбраць, каму і якім праграмам дазволена паведамляць. Налады залежаць ад вытворцы прылады.
 
-## How do I make a simple home screen?
+## Як зрабіць просты галоўны экран?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Застаўце некалькі знаёмых праграм на адным экране, а астатнія прыбярыце з вачэй. Адзінай налады для гэтага няма: справа ў тым, каб прыбраць лішняе.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Выберыце ад трох да шасці праграм.** Напрыклад, фотаздымкі, музыку, праграму відэазвязі і адну гульню.
+- **Пакладзіце іх на першы экран** на адных і тых жа месцах кожны раз, а ўсё астатняе перанясіце на другі экран або ў папку.
+- **Выкарыстоўвайце просты фон з добрым кантрастам**, напрыклад аднаколерны або адну знаёмую фотаздымку, каб значкі вылучаліся.
+- **Выдаліце праграмы, якія не патрэбныя.** Менш праграм — менш месцаў для блытаніны і менш сабраных даных.
+- **Разгледзьце Assistive Access** на прыладах Apple, калі хочаце, каб прылада зрабіла гэта за вас.
 
-## What about volume and sound?
+## Што з гучнасцю і гукам?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Перад тым як аддаць прыладу, наладзьце зручную гучнасць. З Кіраваным доступам можна адключыць кнопкі гучнасці, каб яна не змянялася ў сярэдзіне заняткаў. Праверце, ці ўстаўлены і працуюць слыхавыя апараты, калі іх выкарыстоўвае чалавек.
 
-## Where should the tablet live?
+## Дзе павінен стаяць планшэт?
 
-Give it a stand and a permanent charging spot.
+Дайце яму падстаўку і пастаяннае месца для зарадкі.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Падстаўка або чахол**, якія трымаюць планшэт прама на стале, — тады не трэба трымаць яго ў руках, а паказваць на экран лягчэй.
+- **Адно месца для зарадкі**, якое ніколі не мяняецца, лепш за ўсё падстаўка на стале ў пакоі, які вы выкарыстоўваеце кожны дзень. Планшэт заўсёды зараджаны і заўсёды на адным месцы.
+- **Памяншайце бліск.** Павярніце экран так, каб на яго не падаў яркі свет з акна.
 
-## How much screen time is okay?
+## Колькі часу можна праводзіць з экранам?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Правільнай колькасці хвілін няма. Ставце мэтай кароткія сумесныя сеансы як адну частку дня, у які таксама ўваходзяць рух, музыка, хатнія справы, размовы і час на свежым паветры. Калі вечары бываюць загружаныя, а ўвечары неспакой паглыбляецца, стараецеся заняткі з экранам праводзіць раней у дзень. Гл. [спакойныя заняткі другой паловы дня](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Калі планшэт выкарыстоўваецца разам, а не як спосаб заняць чалавека, ён застаецца сродкам зносін. Наш даведнік пра [сумесныя гульні](/caregiving/how-to-play-together/) тлумачыць, як гэта рабіць.
 
-## How do I protect their privacy on the device?
+## Як абараніць прыватнасць чалавека на прыладзе?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Абмяжоўвайце тое, што праграмы могуць збіраць, і не спадзявайцеся, што закон аб медыцынскай прыватнасці гэта ахоўвае. Міністэрства аховы здароўя і сацыяльных службаў ЗША (HHS) [тлумачыць](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), што правілы HIPAA, амерыканскага закона аб медыцынскай таямніцы, як правіла, не абараняюць медыцынскую інфармацыю, якая захоўваецца на асабістых тэлефонах і планшэтах або да якой ёсць доступ праз іх. У большасці выпадкаў HIPAA таксама не абараняе даныя, уведзеныя ў праграмы для асабістага карыстання, калі толькі праграма не прадастаўлена медыцынскім пастаўшчыком, страхавой арганізацыяй або іх партнёрам па бізнесе. Законы вашай краіны могуць адрозьнівацца, таму высветліце, які закон аб асабістых данych там дзейнічае, і прачытайце палітыку прыватнасці кожнай праграмы.
 
-HHS suggests:
+HHS раіць:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- пазбягаць непатрэбных або выпадковых праграм, асабліва «бясплатных»;
+- не даваць праграмам доступ да месцазнаходжання, калі яны гэтага сапраўды не патрабуюць, напрыклад картам.
 
-Also consider:
+Таксама варта:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Ўсталяваць код** на прыладзе і запісаць яго ў надзейным месцы.
+- **Праверыць дазволы** на фотаздымкі, камеру, мікрафон, кантакты і месцазнаходжанне, і адключыць тыя, якія праграме не патрэбныя.
+- **Праверыць, што збірае праграма**, перш чым яе ўсталёўваць. У нашым даведніку пра [выбар праграм і гульняў для дэменцыі](/caregiving/choosing-apps-and-games/) ёсць спіс праверак прыватнасці.
+- **Будзьце асцярожныя з сямейнымі фотаздымкамі.** Дзяліцеся толькі тымі фотаздымкамі, якія чалавек быў бы не супраць, і ведайце, дзе праграма іх захоўвае. У [Фота-парах](/games/photo-pairs/) выбраныя вамі фотаздымкі застаюцца ў вашым браўзеры.
+- **Адключыце пакупкі ў праграмах** або выдаліце плацежныя даныя з уліковых запісаў, якімі карыстаецца чалавек.

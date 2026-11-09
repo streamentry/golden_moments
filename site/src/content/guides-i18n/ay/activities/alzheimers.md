@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Alzheimer ukan jakirinakatakix lurañanaka ukat juegunaka"
+seoTitle: "Alzheimer lurañanaka: etapa ukat ideas"
+description: "Alzheimer ukan jakirinakatakix lurañanaka ukat juegunaka, sapa etapa ukan, ukat walja juegunaka sapa kuna ukhamarak jukhurinaka."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Alzheimer ukan jakirinakatakix askinaka lurañanaka, ukat jiwasan utjki
+  ukanakaru sarnaqañ uñtasiñ: maynit yatiqtanakasa, kantu aruxa, kawkïrinaka
+  ukat uñjañanaka. Qalltanxa, naipirinaka, sara juegunaka, manq'añ ukat
+  sarañanaka walja askiwa. Chiqa etapan, tejidu, qillqatañ, jawsañ ukat
+  uñacht'äwinaka aruxa askiwa. Qhipa etapan, jawsañ, lakampi aka utjaña
+  ukat jakañ phuqhasiñ wali wakiskiwa. Uñjasipxam jiwasan sarnaqañ.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer ukax demencia ukan sapa qalltat ukhamawa, ukatwa demencia lurañanaka ideanakax ukar apaskiwa."
+  - "Machaq yatiqañanakax nayrarux jaysiwa, ukampis maya pachan yatiqat yatiqañanakax, walja kipkaru utjaspawa. Ukanakan sarnaqañax."
+  - "Etapanakax mayacht'atäpxi, ukat askinak ukat jan askinak jakañ ukhamawa. Jichhürunsa jaqix kuna lurañ puedi ukat kusisiñ ukar ajllima."
+  - "Juegunak ajlliñax, janiw relojanïkaspa, punt'anïkaspa, ni tanta jawsatäñanïkaspa, uñacht'äwinakax uñjasiñapawa."
+  - "Uñjañ, kuna ukanak apañ, jan ukax chika qhiqsa sarañ, sapa ukax lurañ ukhamawa."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "¿Kuna lurañanakas Alzheimer ukan jakiri jaqitakix askiwa?"
+    a: "Jakañ ukan yatiqta lurañanaka, ukat sänka ukham sapa: ch'uqinak thaqhañ, mesa ch'amañ, chika lurañ, arsüña ukat arsuña, uñacht'äwinak uñjañ, sarañ ukat quri wawa uñjañ. Askin uñacht'äwinaka juegunaka ukat yatiqañ qillqanakax walja jaqinakatakix askiwa. Jaqix kuna sum munañapa ajlliñ ukat lakampi lurañ."
+  - q: "¿Juegunakax Alzheimer ukan jakiri jaqitakix askiwa?"
+    a: "Juegunakax jaqix munañapa ukhamaw walja kusisiñ ukat jukhu lakampi sarañ puedi. Janiw juego ukax Alzheimer ukar Jaytkañ, jan ukax jaytkañ yatiñ uñjatäkiti, ukatwa kusisiñatak ajlliña: jach'a uñacht'äwinaka, jisk'a ajlliñanaka, ukat janiw relojanïkaspa, punt'anïkaspa, ni jan allinak sarañ."
+  - q: "¿Demencia lurañanaka ukat Alzheimer lurañanaka ukax uka mayjtaskiwa?"
+    a: "Walja kunjamäkaspas janiw. Alzheimer ukax demencia ukan sapa qalltat ukhamawa, ukatwa lurañ ideanakax ukhamarakiwa. Alzheimer ukan askinak ukax, machaq uñtasiñanakax nayrarux jaytanipxi ukat, maya pachanakan yatiqat yatiqañanaka, arsuñanaka ukat sarañanakax sum sarnaqañ ukar apaskiwa."
+  - q: "¿Kuna lurañanakas Alzheimer ukan qhipa etapan jakiri jaqix ukat kusisiñ puedi?"
+    a: "Munat taqi, lakampi pisi maynit sarnaqaña, ch'uqi chharkañ, arsuñanak ist'añ, qhurunakan sayt'añ ukat jupar uñtat jaqi lakampi utjañ. Jisk'a ukat lurañanakax t'aqhisiñ utjañ, uñjañ, jupax kuna munañapa uñjañ."
+  - q: "¿Kunjamasa Alzheimer ukan jakiri jaqi lurañ munaraki?"
+    a: "Lurañ ukat yanapt'añ jawsañ, janiw sapa kuna lurañ sarañamax, taqi kuna mesa ukar churañ, ukatsa jumax nayrar lurañ, ukhamat jupax lakampi sarañ puedi. Uru pacha askinak ajlliñax walja yanapt'i. Janiw munkaspati ukhaxa, qhipa uru jawsañ jan ukax jisk'a chiqar lurañ jawsañ."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Jumax Alzheimer ukan jakir jaqi uñjaskta ukhaxa, walja kuna jiwasan uñtasiñanakax sum jaytanipxi, ukampis maynit ukax sum sarnaqañapawa. Jupax uru pacha tilifunu parlañanakax yatiñapksna, ukampis taqi aru ukat ch'uqinakax akham uñjañanakas uñjasi. Ukanakan sarnaqañ lurañanakax chiqpachaw sum sarnaqaski. Akax yatiyaraki kunatsa ukham utjki, ukat sapa etapatak lurañanaka, ukhamarak aka qillqatan juegunak yatiyaraki.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## ¿Alzheimer ukax demencia lurañanakan juk'ampi ukhamaraktati?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Janiw juk'ampi. Demencia ukax sapa sutiwa, Alzheimer ukax demencia ukan walja utjki ukawa: [Alzheimer Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) qillqañapan sasaw, 60 ukat 80 por ciento demencia jaqinakan utjaskiwa. Walja qillqatanakax demencia lurañanakat qillqatawa, Alzheimer ukatakis sum mayacht'asi, jiwasan [101 lurañ ideanakasa](/activities/ideas/) ukhamarak.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Yatiñ askiwa kunjamasa uñjasi ukax. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) qillqañapan sasaw, Alzheimer ukax nayrarux uñtasiñ ukan ch'iqanakar jaqhachi, qhipatxa arsuñ, yatiñ ukat jaqinakan sarnaqañar. Alzheimer Association ukax sasaw, qalltanxa mayjt'awi machaq yatiqatanakax uñtasiñ ukhamaw. Taqi jaqix mayakiwa, walja jaqinakax mayjt'a ch'uqinakaniwa, ukampis akax lurañanakan sum sarnaqañ uñjatäki.
 
-## What kinds of activities suit Alzheimer's best?
+## ¿Kuna lurañanakas Alzheimer ukan sum utji?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Maya pachan yatiqat, sum yatiqat yatiqañanakax machaq yatiqañanakat sipansa, sum sarnaqaski.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Maya pachan yatiqat yatiqañanaka.** Alzheimer Association ukax sasaw, jaqix walja maranakan piano ukan yatiqat t'aqa ukanakax sum lurañ puedi. Ch'uqinaka ch'uqiñ, qhuyñat t'ant'a, ch'uqinak tiqtañ, t'ant'a ch'uñuñ ukat wakt'añanakax ukham utjiwa.
+- **Maya pachan arsuñanaka ukat juk'ampi musika.** Walja jaqinakax chikata sipansa arsunakax uñtasi, mä ukat sipansa taqi arsut uñtasi, jach'a ukanakax jach'a machaq arsunaka. Uñjañ [musika lurañanaka](/activities/music/).
+- **Sapa uru lurañanaka amtampi.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ukax qillqañapan sasaw, quri ch'uqiñ, mesa ch'amañ, ch'uqi sort'añ ukat ch'uqi chharkañ, jaqinakax munañapa lurañanaka. Jaqix yanapt'asiñax wali wakiskiwa.
+- **Uñjañ, janiw uñtasiñ.** Uñacht'äwi uñjaña ukax, sut uñtasiñat juk'ampi sayt'añatakix sum. Ukhamat uñacht'äwinaka uñjañ juegunakax quiz ukat sipansa aski.
+- **Ch'uqinaka.** Ch'uqi, p'iq'i, t'ant'a, ch'uñu ukat arsut uñtasiñax, arsuñ juk'ampi jaysi ukhamaxaw. Uñjañ [sensory lurañanaka](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Kuna jan askiwa: relojunaka, machaq yatiñanakax, walja sarañanakax, jan ukax uñtasiñ taqpachan arsuñanakax, kunjamasa "Ukax kawkiri ukhaxa, uñtasmati?" ukham. Ukanakax Alzheimer ukan jan askinak wali uñtayaraki.
 
-## Activities for early-stage Alzheimer's
+## Qalltanxa Alzheimer ukan lurañanaka
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Qalltanxa, [Alzheimer Association](https://www.alz.org/alzheimers-dementia/stages) ukax sasaw, jaqix mayampi jan ukax sapa phuqhasiñ, lurasiña, sociedad lurañanakan utjaspawa, ukampis sut uñtasiñ ch'uqinak uñjasi, ukham sasaw sutinaka jan uñtasiñ ukat kawkïrinakas utji ukanakax. Sum tuqita jiwasan jaqi lakampi parlañaxa, kuna lurañ munaski, kuna yanapt'añ munaski uñjañawa.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Maya pachan lurañanaka tukuyañ.** Golf, bridge, quilting, coro ukat iglesia lurañanaka, jisk'a grupu ukat jisk'a sarañanakampi.
+2. **Maya pachan ch'uqi ukat mesa juegunaka.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ukax qalltanxa trivia, palabra ch'uqinaka, ch'uqi juegunaka ukat mesa juegunaka amtasiwa. Jaqi uñtasiñ ch'uqiyasa, equipo ukhamaw juega, jan ukax punt'anïkaspa.
+3. **Chika lurañ.** Jaqix yatiqat receta ukan lurañ munaski; jumaxa instrucciones arsuñ.
+4. **Uñtasiñ uñacht'äwinakampi lurañ.** Uñacht'äwinaka, receta ukat arsutanakampi, jaqix jiwasan ukan qillqañapan. Uñjañ [reminiscence lurañanaka](/activities/reminiscence/).
+5. **Sarañanaka.** Jaqix kusisiñ restaurante ukar sarañ, museo ukar jisk'a pacha, ukhamarak qullu sarañ.
+6. **Jaqix ajllita rompecabezas.** Jach'a letra crucigrama, palabra ch'uqi ukat rompecabezas. Uñjañ [demencia rompecabezas](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Walja lurañanaka: [qalltanxa lurañanaka](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Chiqa etapan Alzheimer ukan lurañanaka
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer Association ukax sasaw, chiqa etapa ukax sapa jukhu walja maranak sarañ puedi. Arsuñax mayacht'asi, llakisiñ ukat yanapt'añ wakisi. Alzheimer's Foundation of America ukax sasaw, walja jaqinakax lurañ qalltañat ukat tukuyañat yanapt'añ wakisi. Jumax uñjañ, sarañ ukat qhipa lurañanaka phuqhañ uñjañan.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Tejidu, sort'añ ukat jaqisa.** Ch'uqinaka, medias, cuchara, botones color ukat sapa.
+2. **Arsuña ukat sarañ musikan.** Palmotear, jawsañ ukat kocina ukan sarañ. Jumax arsuñ qalltam, jaqix mayacht'añ.
+3. **Uñacht'äwi álbumanaka uñjaña.** Kunsa uñjasmati uñtayañ ukat parlañ: "Ukax auto. Kunsa uñtasmati?" Sutinakax kunjamasa sutinakax ukhamaraki.
+4. **Sapa ch'uqi juegunaka.** [Pares de imágenes](/games/picture-pairs/) mä tapanaka ukat uñacht'äwinaka uñjañ, jan ukax [Find the same](/games/find-the-same/).
+5. **Yatiqat arsunaka tukuyaña.** "Sapa uru manzana ukax..." Maya pachan arsunakax sapa t'aqhi ukax. Uñjañ [Finish the saying](/games/finish-the-saying/).
+6. **Qurinak ukat quri ukanak uñjaña.** Uta quri ukat jisk'a yaku ukan.
+7. **Uñtasiñ juego ukat jaqinakan uñacht'äwinaka.** [Photo pairs](/games/photo-pairs/) ukax jumax ajllita uñacht'äwinak ukanakampi, uñacht'äwinakax jumax deviceax janiw jaysiti.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Walja lurañanaka: [chiqa etapan lurañanaka](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Qhipa etapan Alzheimer ukan lurañanaka
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Qhipa etapan, Alzheimer Association ukax sasaw, jaqix kunapachatix sarnaqañ ukat parlañ ukanakan jan yati, ukampis arsuñ ukat sutinaka arsuñ puedi. Lurañax ukhamarak amuyt'añ, sum sarnaqañ ukat jaqi lakampi utjañaw.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Musika ukat amuyt'aña.** Jisk'a ukham musika arsuña, TV jan ukhaxa.
+2. **Ch'uqi maqt'añ.** Jaqix munat lipi ukampi, ch'uqi maqt'añ.
+3. **Walja tuqi ch'uqinaka churañ.** Jisk'a kumbla, lana, jan ukax t'ant'a ch'uqi.
+4. **Arsuña.** Salmos, poemas, jan ukax yatiqat arsunakax. Ritmo ukax sut tuqita sipansa juk'ampi wakiskiwa.
+5. **Qullu sarañ.** Sum aruma, jan ukax uñtasiñ manq'añ.
+6. **Mä jach'a uñacht'äwi uñjaña.** Jumax kunsa uñjasmati arsuñ.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Walja lurañanaka: [qhipa etapan lurañanaka](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## ¿Kuna juegunakas Alzheimer ukan jakiri jaqitakix askiwa?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Ajllima janiw ch'iqa juegunakax, janiw jan ch'uqi. Aka qillqatan taqi juegunakax janiw qillqañ, janiw relojanïkaspa, janiw punt'anïkaspa.
 
-| Game | What you do | Often suits |
+| Juego | Kuna lurañ | Kunawsa askiwa |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Jach'a uñacht'äwinaka mayt'añ | Qalltanxa ukat chiqa etapa |
+| [Find the same](/games/find-the-same/) | Uñacht'äwi uñjaña | Chiqa ukat qhipa etapa, yanapt'añ |
+| [Finish the saying](/games/finish-the-saying/) | Arsuña tukuyañ | Qalltanxa ukat chiqa etapa |
+| [Picture puzzle](/games/picture-puzzle/) | 4 jan ukax 9 p'iqinak mayt'añ | Qalltanxa ukat chiqa etapa |
+| [Conversation cards](/games/conversation-cards/) | Uñacht'äwi ukat parlañ | Taqi etapa, parlañataki jaqi lakampi |
+| [Photo pairs](/games/photo-pairs/) | Jumax uñacht'äwinakamp juego | Qalltanxa ukat chiqa etapa |
+| [Coloring](/games/coloring/) | Color ukat uñacht'äwi ch'uqiña; jan ukax imprimir | Taqi etapa, yanapt'añ |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Kunsa lurañ, kuna yanapt'añ ukat kunapachatix sayt'añ sarañataki, uñjañ [demencia jaqinakampi juegunaka lurañ](/caregiving/how-to-play-together/). "Memory games" ukat uñjañ, [demencia jaqinakan uñtasiñ juegunaka](/activities/memory-games/).
 
-## How to make any activity easier
+## Kunjamasa taqi lurañ sayt'añ
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA ukax yatiyaraki: jaqi ukan kuna lurañ puedi uñjañ, qalltañ yanapt'añ, jan askinak uñjañ, sum sarañ uñjañ, jan ukax uñjañ kusisiñ ukat sipansa.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Uru pacha askinak ajlliña,** ukat sarañanakax jisk'a.
+- **Taqi kuna mesa ukar churañ** ukhamat qalltañ sayt'ayañ.
+- **Mayt'añ, janiw amtañ.** "¿Yanapt'aspati?" ukax sum ukat sipansa "Lurañ pacha ukax akawa" ukham.
+- **Nayrax lurañ** ukat jaqi lakampi mayacht'añ.
+- **Mä ch'uqi ukat mä ajllita sapa kuti.**
+- **Jaqi ukan sarañ.** Ch'iqa t'ant'a ukax sum utjiwa.
+- **Kusisiñ ukat sayt'añ.** Jan ukat t'aqhisiñ ukat jak'achañ ukax jan jan askiwa. Jan munaspa ukhaxa, [demencia jaqix jan sasa ukat](/caregiving/when-they-say-no/) uñjañ.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ukax akham sasaw: kusisiñ uñjañ, janiw lurañ tukuyañ.

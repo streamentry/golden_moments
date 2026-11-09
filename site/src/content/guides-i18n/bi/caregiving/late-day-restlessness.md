@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Ol Kalmgud Aktiviti long Lasta Aftanun"
+seoTitle: "Sundowning: Ol Kalmgud Aktiviti long Lasta Aftanun"
+description: "Ol stedi rutin, jenis long rum mo ol kalmgud aktiviti we oli save helpem long hevi long lasta dei, mo taem blong kolem dokta long ol nyu o ol simptom we oli kam nogud moa."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning i wan hevi, konfiuson o kros we i stat o i kam nogud long lasta
+  aftanun o long evening. Ol stap we oli save helpem oli inkludim wan stedi
+  dei rutin, sanlaet mo aktiviti long moning, ol sleep long lasta aftanun we
+  i no longfala, no gat drink we i gat kafein, ol lait insaed haos bifo i dak,
+  wan haos we i kwaet, mo ol kalmgud aktiviti olsem myusik, fotopiksa o foldim
+  laondri. Ol nyu o ol simptom we i kam nogud oli nidim wan dokta blong jekem.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning i minim hevi o konfiuson we i stat o i kam nogud taem sanlaet i stat i lus."
+  - "Putum ol wok we i hevi, ol trip aot mo taem blong bat long moning o long ertaem afternun."
+  - "Sanlaet, wok long dei, sleep long lasta aftanun i no longfala mo i no gat kafein long lasta aftanun i save helpem ol evening i go gud moa."
+  - "Onem ol lait bifo i dak, lusum noes, mo jenisim i go long ol kalmgud aktiviti we i fríndli."
+  - "Keepem wan lif blong lukaot ol samting we i save kosem hevi, mo stap kam mo givim tingting we i save kiaremap taem hevi i stat."
+  - "Lukaot wan dokta long ol nyu o ol simptom we i kam nogud: pein, sik we i kam long insaed o ol medisin i save gat paat long hem."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Wanem taem long dei we sundowning i save kam?"
+    a: "I save stat o i kam nogud long lasta aftanun o long erli evening, taem sanlaet i stat i lus. Taem i stap i no sem long ol man, from hemia i gud blong kipim wan lif we i sot long wan o tu wik."
+  - q: "Wanem ol aktiviti i save helpem long sundowning?"
+    a: "Ol kalm, we oli fríndli mo oli no nidim bigfala wok, oli moa gud long lasta aftanun: myusik we i kalmem, lukluk long fotopiksa, wan TV sou o muvi we i fríndli, foldim laondri, wan sotfala wok, o kaikai smol wan wan wetem. Ol nyu o ol aktiviti we i hevi, seivem olgeta long moning."
+  - q: "Eniwan sundowning i save minim wan sik long bodi?"
+    a: "Hem i save kam nogud from ol hevi long bodi olsem pein, sik long insaed olsem sik long blad blong pisin, ol problem long sleep o ol saed efek blong medisin. Sipos hevi i kam nyu, i kam wan taem, o i kam nogud, kontaktem dokta blong man ya."
+  - q: "Mi shud askem dokta long medisin blong sundowning?"
+    a: "Hemia i wan toktok we yu mas gat wetem dokta. National Institute on Aging ... Alzheimer's Association i talem se ol tramata we no gat medisin oli stap fastaem, mo eni medisin blong naet hevi i shud konsidarem nomo afta we oli weitem ol risk mo ol benefit. Pej ya i no givim advaes long medisin."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Plante famili oli luk sem patern: long moning ol samting i kam kwaet, be taem aftanun i go, man we yu kea long hem i kam naf, i no save kalmdaon, i gat konfiuson o i kam kros kwik. Hem i save wakabaot i no stop, o askem blong "go bak long haos" evbuilt taem hem i stap finis long haos, o hem i kam hevi kwik. Ol man oli save kolem hemia sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+I no gat wan wei nomo blong fiksim, be ol jenis long rutin blong dei, long rum mo long ol aktiviti we yu ofem, oli save mekem ol lasta aftanun i kwaet moa. Pej ya i kolektem ol aidia we oli no gat tingting long medisin, we National Institute on Aging mo Alzheimer's Association oli givim. Hemia i no advaes blong dokta. Sipos ol simptom oli nyu, oli kam wan taem, o oli kam nogud, toktok wetem dokta blong man ya.
 
-## What is sundowning?
+## Wanem sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning i hevi, i no save kalmdaon, i kros o i gat konfiuson we i stat o i kam nogud taem sanlaet i lus, long lasta aftanun o erli evening. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) i talem se taem man i tayed tumas, hemia i save mekem hevi long lasta dei i kam moa.
 
-## What can make late-day restlessness worse?
+## Wanem ol samting we i save mekem hevi long lasta dei i kam nogud?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Sam samting i save mekem hemia, mo ofen oli kam tugeta. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) i lisemaot ol samting olsem:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- man i tayed tumas afta wan fulap dei;
+- ol nyu o ol samting we i konfius long hem;
+- "bodi klok" we i no stret, we i mekem man i slip long dei mo i wekap long naet;
+- dak mo ol seko we i konfiusem hem;
+- man i ridim stres o ol kros long ol man we oli stap raon long hem;
+- hem i nidim sleep smol moa, wanfala samting we i kamon long ol olfala.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA i addem ol kos blong hevi moa long wan wei, olsem pein, sedhed o stres, no gat rest we i gud, kost, noes tumas o ol man tumas, mo sam medisin o medisin we oli mikis wetem narafala.
 
-## How can I plan the day to make evenings calmer?
+## Hao blong mi save plan dei blong mekem ol evening i kwaet moa?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Putum ol wok we i hevi i go long erli taem mo kipim lasta aftanun i gentel mo i stedi. Bot NIA mo Alzheimer's Association oli rekomendem wan stedi rutin. Hemia i wan sampol dei, we yu save jenisim long famili blong yu:
 
-| Time | What may help |
+| Taem | Wanem i save helpem |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Moning | Apointmen, bat, trip aot mo eni wok we i nidim strong, long taem we ol man i moa redi |
+| Late moning | Taem aotsaet o long wan sanlaet windo; wan wak o narafala aktiviti |
+| Midel dei | Wan bigfala kaikai long lanj (Alzheimer's Association i sajestem wan bigfala lanj mo wan smol kaikai long naet) |
+| Erli afternun | Rest sipos i nid, be no slip longfala long lasta dei |
+| Midel to lasta afternun | Kalm, fríndli aktiviti; wan kaikai mo drink; no kafein |
+| Bifo i dak | Onem ol lait insaed mo klosem ol kateng bifo i kam dak |
+| Evening | Wan smol kaikai, kwaet myusik, no gat tumas samting we i kakae mon, wan stedi rutin blong go slip |
 
-A few specific points from the sources:
+Sam spesifik pointi long ol sos ya:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Sanlaet.** NIA i sajestem blong arenjem taem aotsaet o long wan windo blong sanlaet evri dei.
+- **Muvmen long dei, be no tumas.** Traehad blong muv bodi long evri dei be no planem tumas ol aktiviti, NIA i talem.
+- **Drink long lasta dei.** Lusum alkol mo ol drink we i gat kafein, olsem kofi o kola, long lasta dei (NIA). Alzheimer's Association i mekem toktok tu long nikotin.
+- **Naps.** Lusum ol longfala naps mo slip long lasta dei (NIA). Alzheimer's Association i sajestem blong limitem ol naps long dei sipos sleep long naet i wan hevi.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Blong moa long wei blong mekem wan stedi dei, luk [ol aktiviti long stedi dei rutin](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Hao blong mi save mekem haos i kwaet moa long lasta aftanun?
 
-Reduce noise, add light and keep familiar things close.
+Lusum noes, putum moa lait mo kipim ol samting we i fríndli klosap.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Lait we i bright mo i stret.** Alzheimer's Association i rekomendem blong kipim haos we i gat gud lait long evening. Lait i go long rum bifo ol seko i kam.
+- **Lesin noes.** Lusum o daonem TV mo redio, mo limitem ol visita o ol bisi hosehold wok long taem ya. Alzheimer's Association i sajestem blong lusum ol samting we i mekem tumas noes long evening olsem TV, wok long haos mo myusik we i strong.
+- **Ol samting we i mekem man i fíling gud.** NIA i sajestem blong slowem tingting mo traehad blong relaks sipos ol wari blong yu i save mekem stres i kam moa.
+- **Jek long kies.** Alzheimer's Association i rekomendem blong jekem pein, hangre, tristi long drink, kosti, fulap blata, tayed, sik long insaed mo skin i nogud, mo kipim rum long wan tempereja we i kamfot.
+- **Fílin blong yu.** Ol man oli ridim stres. NIA i sajestem blong slowem tingting mo traehad blong relaks sipos ol wari blong yu i save mekem tensen i kam moa.
 
-## What calm activities can we do in the late afternoon?
+## Wanem ol kalm aktiviti yumi save mekem long lasta aftanun?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Jusum ol aktiviti we i fríndli, we no gat hari mo we i isi blong stopem. Alzheimer's Association i sajestem ol kalmgud aktiviti olsem kwaet myusik, fotopiksa o wan fevarit muvi, mo wan wak tugeta blong lusum hevi. NIA i sajestem wan kaikai o drink, wan fevarit TV sou, myusik, wan wak, ridim, o wan simpol wok long haos olsem foldim laondri.
 
-Ideas to try:
+Ol aidia blong traem:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Foldim laondri tugeta.** NIA i sajestem kaen simpol wok long haos ya. Tauel oli isi blong hanem, mo wok ya i gat wan klia end.
+2. **Plei fevarit myusik.** Ol fevarit singsing from taem we hem i yang, long wan low volium. Singsing i stap i gat tu. Moa ol aidia long [ol aktiviti blong myusik](/activities/music/).
+3. **Lukluk long fotopiksa.** Wan album blong fotopiksa, o sam famili piksa long [Photo Pairs](/games/photo-pairs/) we ol piksa i stap i kam, i save mekem wan kwaet toktok.
+4. **Wan sotfala wak.** Raon long garden, long bloc o long wan haloe, bifo i dak.
+5. **Sheraem wan kaikai mo wan drink.** Wan samting we i simpol, wom mo we i no gat kafein, long tebol tugeta.
+6. **Gentel matching.** [Picture Pairs](/games/picture-pairs/) wetem fo tael mo ol piksa we i stap i kam, i isi blong stat mo isi blong stop.
+7. **Kalaring.** [Coloring](/games/coloring/) long skrin o long wan printed pej, no wetem goal blong finisim.
+8. **Lukluk mo toktok.** [Conversation Cards](/games/conversation-cards/) i givim wan piksa mo wan open kwestin. Jus lukluk i gud finis.
+9. **Wan brif we i slow.** [Calm Breathing](/games/calm-breathing/) i wan slow mo kwaet pos we yu save stat mo stopem yu wan.
+10. **Hanwok we i isi.** Sotem ol batn o ol sok, smutem wan sofi blanket, o holem wan samting we i fríndli. Luk [ol sensory aktiviti](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Lusum ol nyu gem, ol trip aot we i bisi mo eni samting we i askem tumas long memori o tingting long lasta aftanun. Seivem ol samting ya long moning.
 
-## What should I do when restlessness starts?
+## Wanem mi shud mekem taem hevi i stat?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Stap kam, givim tingting blong gudfala, mo jenisim gentel. NIA i sajestem toktok we i kam, herem ol wari blong man, no mekem ol ragumen, talem hem se hem i seif, mo yusum gentel tase sipos i help. Afta, traem wan difren samting: wan kaikai, wan drink, myusik o wan wak.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association i sajestem ol toktok olsem "Yu seif long hia" mo "Mi sore we yu i kros", mo i advaesem blong putum moa lait, slowem ol samting mo limitem ol samting we i mekem man i fíling tumas. No kornerem, no pusum, no holem man strong, o ragumenem hem.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Sipos man i kam strong nogud, NIA i advaesem blong stap long wan seif distans kasem hevi i stopem. Long wan emergensi, kolem namba blong emergensi long ples blong yu mo talem se man ya i gat dementia.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Ol gaed blong [kominiketem](/caregiving/communication-tips/) mo [wanem blong mekem taem oli talem no](/caregiving/when-they-say-no/) i gat moa samting long ol toktok we i kiaremap.
 
-## How do I find the triggers?
+## Hao blong mi faenem ol samting we i kosem hevi?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Kipim wan short lif long wan o tu wik. Alzheimer's Association i rekomendem blong trakem wanem i kamaot bifo ol sundowning episod blong faenem ol samting we i kosem hevi. Ratem taem we hevi i stat, wanem i happen long wan aoa bifo, ol naps, kaikai mo drink, ol visita, noes mo lait. Karem lif ya long dokta. NIA i talem se kipim trak blong ol jenis long bihevia i save helpem ol man we oli kea mo ol man we oli wok long helt kea blong lukim wan pateln.
 
-## When should I call a doctor about sundowning?
+## Wanem taem mi shud kolem dokta long sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kontaktem dokta blong man ya sipos hevi i nyu, i kam nogud i kwik, o i kam wetem ol narafala jenis. NIA i talem se ol jenis long bihevia we i kam kwik o i jenis kwik, namel afta infeksen o jenis long medisin we i nyu, oli mas kasem atensen blong dokta long hao we i kwik.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Askem dokta blong jekem ol samting we i save mekem lasta dei i harem moa. Alzheimer's Association i mekem toktok long ol hevi long bodi olsem sik long blata we i stap long pisin, pisin we i no save kontrolem, sik long leg we i muv tumas long naet, mo sleep apnea, mo i sajestem blong askem wanem taem long dei i gud moa blong eni medisin. NIA i lisemaot pein, kost mo ol saed efek blong medisin o ol medisin we oli mikis wetem narafala, olsem sam ol kos blong hevi.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association i talem se ol tramata we no gat medisin oli kamaot fastaem blong ol sleep problem we i kanekt long Alzheimer's, mo medisin blong hevi long lasta aftanun i shud konsidarem nomo sipos ol tramata ya i no wok, afta we oli weitem ol risk mo ol benefit. Dicision ya i blong dokta. No stat, no stopem o jenisim eni medisin, sleep medisin o suplemen we i no gat advaes blong dokta.
 
-## How do I get through the evenings myself?
+## Hao blong mi save pas long ol evening mi wan?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Lasta aftanun i save kam hadest pat blong dei blong wan man we i kea. Sipos yu save, askem wan famili memba, fren o wan man we i pem blong helpem blong kavarem lasta aftanun sam dei long wik, eniwe wan haoa nomo. Gaed blong yumi long [kea blong yu wan](/caregiving/caregiver-self-care/) i lisemaot ol sans blong rest mo fri Alzheimer's Association 24/7 Helpline.
