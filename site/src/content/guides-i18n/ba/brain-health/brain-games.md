@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Аҡыл уйындары деменцияның алдын ала аламы?"
+seoTitle: "Аҡыл уйындары деменцияны булдырамы? Дәлилдәр"
+description: "Аҡыл уйындары һәм деменция тураһында фәнни тикшеренеүҙәр: когнитив стимуляция, компьютер аҡыл тренировкалары, ACTIVE һынауы һәм Lumosity осрағы ябай телдә."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Бер ниндәй аҡыл уйыны ла деменцияны булдырыуы иҫбатланмаған. Компьютер
+  аҡыл тренировкалары, күбәһенсә, кеше практикалаған эштәрҙе генә яҡшырта.
+  ACTIVE һынауының бер тикшеренеүе конкрет тиҙлек тренировкаһын һәм ҡабатлау
+  сессияларын 20 йыл эсендә азыраҡ деменция диагнозы менән бәйләгән, бына был
+  тар табыш. Деменцияһы инде булған кешеләр өсөн когнитив стимуляция төркөмдәре
+  ҡыҫҡа вакытлы әҙ файҙа күрһәтә. Уйындар иң яҡшыһы — рәхәт булыу һәм бергә
+  булыу өсөн.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Аҡыл тренировкаһы тураһындағы тикшеренеүҙәр күрһәтә: кеше үҙе практикалаған эштәрҙә яҡшыраҡ башкара, ә был көнкүреш тормошона күсеүе тураһында дәлил бик әҙ."
+  - "ACTIVE һынауында 20 йыл эсендә деменция диагнозы азыраҡ булған кешеләр генә конкрет тиҙлек тренировкаһын һәм ҡабатлау сессияларын үткән. Ҡабатлау сессияларынан башҡа тиҙлек тренировкаһы, хәтер һәм фекерләү тренировкалары был эффектты күрһәтмәгән."
+  - "2016 йылда Lumosity яһаусы деменцияны тотҡарлау тураһындағы дәғүәләр өсөн фәнни нигеҙ булмауы буйынса FTC ғәйепләүҙәрен туҡтатыу өсөн $2 миллион түләгән."
+  - "Еңел-урта деменцияһы булған кешеләр өсөн когнитив стимуляция төркөмдәре фекерләүҙә әҙ, ҡыҫҡа вакытлы файҙа һәм аралашыуҙа, социаль мөнәсәбәттә асыҡ яҡшыраҡ үҙгәрештәр күрһәтә."
+  - "Golden Moments уйындары рәхәтлек һәм бергә вакыт өсөн. Улар дауалау саралары түгел һәм деменцияны булдырмай йәки тотҡарламай."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Аҡыл уйындары Альцгеймерҙы булдыра аламы?"
+    a: "Юҡ, бер ниндәй аҡыл уйыны ла Альцгеймерҙы йәки башҡа деменцияны булдырыуы иҫбатланмаған. АҠШ-тың Милли карт кешеләр институты әйтеүенсә, коммерция аҡыл тренировкаһы ҡушымталарының тикшеренеү һынауҙарында күренгән эффекты булыуын раҫлаған дәлил етерлек түгел. Уйындар әле лә рәхәт итеп вакыт үткәреү өсөн файҙалы булырға мөмкин."
+  - q: "ACTIVE һынауы тиҙлек тренировкаһы һәм деменция тураһында нимә тапҡан?"
+    a: "2026 йылғы анализ ACTIVE ҡатнашыусыларын 20 йыл эсендә Medicare яҙмалары менән бәйләгән. Тиҙлек эшкәртеү тренировкаһын һәм кәмендә бер ҡабатлау сессияһын үткән кешеләрҙә тренировка алмаған төркөмгә ҡарағанда деменция диагнозы ҡуйылыу дәрәжәһе түбәнерәк булған. Ҡабатлау сессияларынан башҡа тиҙлек тренировкаһы, йәки хәтер йәки фекерләү тренировкаһы мөһим эффект күрһәтмәгән."
+  - q: "Таҡмаҡтар һәм уйындар деменцияһы инде булған кеше өсөн яраймы?"
+    a: "Кешегә оҡшаһа, яраҡлы булырға мөмкин. Һүҙ уйындарын, таҡмаҡтарҙы, музыканы һәм һөйләшеүҙе үҙ эсенә алған когнитив стимуляция төркөмдәре фекерләүҙә ҡыҫҡа вакытлы әҙ файҙа, аралашыу менән социаль мөнәсәбәттә асыҡ файҙа күрһәтә. Маҡсат — тест һөҙөмтәһе түгел, ә рәхәтлек."
+  - q: "Нимә өсөн Lumosity-ны FTC штрафлаған?"
+    a: "2016 йылда Federal Trade Commission (FTC) Lumos Labs-ты уйындары тураһында дәғүәләре өсөн ғәйепләгән: йәш менән бәйле кәмеүҙе һәм деменцияны тотҡарлау тураһында, фәнни нигеҙһеҙ. Компания $2 миллион түләргә һәм киләсәктә шундай дәғүәләр яһар алдынан иғтибарлы фәнни дәлилдәр булырға ризалашҡан."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Аҡыл уйындары бик күп, һәм күптәре ағзағыҙҙы йәш тоторға вәғәҙә итә. Әгәр һеҙ деменцияһы булған кешегә ҡарайһығыҙ, йәки үҙегеҙҙең хәтерегеҙ тураһында борсолаһығыҙ, уларҙы уйнауҙың ярҙам итер-итмәҫе тураһында уйлау тәбиғи. Бында тикшеренеүҙәр нимә күрһәтә, ҡыуандырғыс яҡтары ла, ҡыуандырмаған яҡтары ла.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Был — дөйөм мәғлүмат, медицина кәңәше түгел. Ҡарағыҙ: [медицина иҫкәрмәһе](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Аҡыл уйындары деменцияны булдыра аламы?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Бер ниндәй аҡыл уйыны ла деменцияны булдырыуы иҫбатланмаған. АҠШ-тың Милли карт кешеләр институты (NIA) компьютер һәм онлайн уйындарының хәтерҙе яҡшырта алыуы тураһындағы дәғүәләренән иҫәпкә алып булырға кәңәш итә, һәм коммерция аҡыл тренировкаһы ҡушымталарының клиник һынауҙарҙа һынаған тренировка кеүек эффекты булыуын раҫлау өсөн етерлек дәлил юҡ тиеп әйтә ([NIA: Альцгеймерҙы булдырыу тураһында](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Был уйындарҙы файҙаһыҙ итмәй. Был уларҙың файҙаһы рәхәтлектә, бергә булыуҙа һәм тәртиптә, ә ҡайһы бер кешене деменциянан һаҡлауҙа түгел тигәнде аңлата.
 
-## What is "near transfer", and why does it matter?
+## «Ят күсеү» (near transfer) нимә һәм ни өсөн мөһим?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Эште практикалағанда, кеше ғәҙәттә шул эште яҡшыраҡ башкара. Тикшеренеүселәр быны тренировка эффекты тип атай. Ҡатмарлыраҡ һорау — был яҡшыртыу башҡа нәмәгә күсә алыуы: оҡшаш эштәргә («ят күсеү», near transfer) йәки көнкүреш тормошона («ерак күсеү», far transfer), мәҫәлән, осрашыуҙарҙы иҫтә тотоуға йәки аҡсаны идара итеүгә.
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 йылдағы бөйөк тикшеренеү аҡыл тренировкаһы компанияләренең иң яҡшы дәлил итеп килтергән тикшеренеүҙәрен ҡараған. Уларҙа кешеләрҙең тренировкаланған эштәрҙә яҡшырыуы тураһында бик күп дәлил табылған, оҡшаш эштәрҙә яҡшырыу тураһында әҙерәк, ә көнкүреш фекерләүен яҡшыртыу тураһында бик аҙ дәлил табылған. Күп тикшеренеүҙәрҙә лә эш планлаштырыуында проблемалар булған, шуға күрә асыҡ нәтиҗәләр яһап булмаған ([Simons һәм иптәштәре, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Компьютер аҡыл тренировкаһы тураһында шәрехтәр нимә әйтә?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane шәрехтәре, ул иң яҡшы булған һынауҙарҙы берләштерә, кәмендә 12 атна дауам иткән компьютер тренировкаһын ҡараған:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Һаулыҡлы 65 йәштән өлкән кешеләр:** 1183 кешеле 8 һынау. Дәлил түбән йәки бик түбән сифатлы булған. Тренировкадан бик тиҙ арттан ғына әҙ генә файҙа булыуы мөмкин, ә ул оҙаҡҡа һаҡлана тигән асыҡ дәлил юҡ ([Cochrane шәрехе, һаулыҡлы өлкән кешеләр](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Еңел аңлы ҡыйынлыҡтары булған кешеләр (mild cognitive impairment):** 660 кешеле 8 һынау. Ниндәй ҙә булһа һынауҙа кешеләрҙең деменция алыуы тураһында хәбәр ителмәгән, ә дәлил нәтиҗә яһау өсөн бик ныҡ түгел ([Cochrane шәрехе, еңел аңлы ҡыйынлыҡтар](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## ACTIVE һынауы нимә тапҡан?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE — АҠШ-та 1998 йылда башланған ерлек ҙур һынау, унда 65 йәштән өлкән, үҙ аллы йәшәгән һәм хәтер йәки фекерләүҙә мөһим проблемалары булмаған 2802 кеше ҡатнашҡан. Кешеләр өс төр ҡарта төркөмдәренең береһенә (тиҙлек эшкәртеү, хәтер йәки фекерләү) йәки бер ниндәй ҡатнашыу булмаған төркөмгә бүлеп ебәрелгән. Тренировка 5–6 атна эсендә ун тиклем сессияға тиклем булған. Күп сессияларҙы тамамлаған ҡайһы бер кешеләргә, мәҫәлән, якынса бер һәм өс йыл үткәс, **ҡабатлау сессиялары** ла бүлеп ебәрелгән.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Тиҙлек тренировкаһы визуаль мәғлүмәтте ҡыҫҡараҡ һәм ҡыҫҡараҡ ҡарауҙар арҡылы табыу һәм эшкәртеүҙе үҙ эсенә алған, кеше яҡшырған һайын кимәл үҙгәргән.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 йылда тикшеренеүселәр 2021 ҡатнашыусыны 20 йыл дауамында Medicare яҙмалары менән бәйләгән ([ACTIVE 20 йыллыҡ анализы](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Бына улар тапҡан нәмәләр:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Тиҙлек тренировкаһы һәм кәмендә бер ҡабатлау сессияһы:** тренировка алмаған төркөмгә ҡарағанда деменция диагнозы ҡуйылыу дәрәжәһе түбәнерәк (хаҡлы ҡарағанда 0,75 хазард коэффициенты, ул якынса 25% түбән дәрәжә тигәнде аңлата).
+- **Тиҙлек тренировкаһы ҡабатлау сессияларынан башҡа:** түбәнерәк дәрәжә юҡ.
+- **Хәтер йәки фекерләү тренировкаһы:** деменция диагнозына мөһим йоғонто юҡ.
+- **Һәр тренировка төркөмө бөтәйтеп, тренировка алмаған төркөм менән сағыштырғанда:** түбәнерәк дәрәжәгә ынтылыш бар, ләкин статистик яҡтан мөһим түгел.
 
-### The limits of this finding
+### Был табыштың сиктәре
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Был **бер конкрет төр контролдә булған тиҙлек тренировкаһына һәм ҡабатлау сессияларына** ҡағыла, аҡыл уйындарына гомүмән түгел.
+- Мөһим нәтиҗә **подгруппанан** килгән (беренсе сессияларҙың күбеһен үткән һәм ҡабатлау сессияһы тәҡдим ителгән кешеләр), бөтә тиҙлек төркөмөнән түгел.
+- Деменция **Medicare талаптары диагноз кодтары** менән үлсәнгән, һәр кешене тикшереп түгел. Беренсе ҡатнашыусыларҙың яҡынса дүрттән бере ҡалдырылған, сөнки улар Medicare Advantage-та булған, ә унда тулы талап яҙмалары юҡ.
+- Ҡатнашыусыларҙың башланғыста фекерләүҙә мөһим проблемалары булмаған. Һөҙөмтәләр **деменцияһы инде булған** кешеләр өсөн уйындар тураһында бер нәмә лә әйтмәй.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Был ҡыҙыҡлы табыш, ул өҫтәмә тикшеренеүҙе талап итә. Ул ниндәй ҙә булһа ҡушымтаның деменцияны булдырыуының дәлиле түгел.
 
-## What did the FTC say about Lumosity?
+## FTC Lumosity тураһында нимә әйтә?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016 йылдың гинуарында Lumos Labs, Lumosity яһаусыһы, Federal Trade Commission ғәйепләүҙәрен алдау реклама буйынса түләй төптө $2 миллион түләргә ризалашҡан. FTC компания фәнни нигеҙһеҙ дәғүә иткән: уның уйындары эш һәм мәктәптә эш күрһәткестәрен яҡшырта ала, йәш менән бәйле кәмеүҙе, еңел аңлы ҡыйынлыҡтарҙы, деменцияны һәм Альцгеймерҙы тотҡарлай ала тип. Ҡарар компанияға киләсәктә шундай дәғүәләр яһар алдынан уңышлы һәм ышаныслы фәнни дәлилдәр булырға талап итә ([FTC матбуғат хәбәре](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Ғаиләләр өсөн һабаҡ: хәтерҙе һаҡлау йәки деменцияны булдырыу тураһында вәғәҙә иткән теләһә ниндәй уйын, ҡушымта йәки программаға шикле ҡарағыҙ.
 
-## Can games help someone who already has dementia?
+## Инде деменцияһы булған кешегә уйындар ярҙам итә аламы?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Улар яҡшы көнгә өҫтәй ала, был бик мөһим. Иң яҡшы тикшерелгән алым — **когнитив стимуляция**: төркөмдә рәхәт сәғәттәр, мәҫәлән, фекер алышыу, иҫкә төшөрөү, һүҙ уйындары, таҡмаҡтар һәм музыка, ғәҙәттә ярҙамсы етәкселегендә кесе төркөмдә.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 йылғы Cochrane шәрехе 37 һынауҙы, 2766 кешене, еңел-урта деменциялы кешеләрҙе ҡараған ([Cochrane шәрехе: когнитив стимуляция](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- фекерләү тестарында **кесе, ҡыҫҡа вакытлы файҙа** (урта сифатлы дәлил);
+- аралашыуҙа һәм социаль мөнәсәбәттә **клиник яҡтан әһәмиәтле яҡшыртыуҙар** (юғары сифатлы дәлил, әҙерәк һынауҙарҙан);
+- тормош сифаты, кәйеф һәм тәртип буйынса **ярайһы ғына файҙа**.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Файҙа күбеһенсә якынса ун атналыҡ программалардан һуң бирелә, һәм бик аҙ тикшеренеү уның оҙаҡҡа һаҡланыуын тикшергән. Когнитив стимуляция — структуралы төркөм программаһы, шуға күрә был һөҙөмтәләр планшетта яңғыҙ уйнаған кешегә автоматик рәүештә ҡағылмай.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024 йылғы Lancet Commission шулай ук әйтә: эшмәкәрлек программалары деменцияһы булған кешеләр өсөн мөһим, рәхәтлекте һәм маҡсатты һаҡлау өсөн ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Уйындар ысынлап нимәгә ярай?
 
-When chosen well, games can offer:
+Дөрөҫ һайланғанда, уйындар бирә ала:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Рәхәтлек.** Рәхәт ярты сәғәт үҙе өсөн дә ҡиммәтле.
+- **Бәйләнеш.** Янғыңда ултырып уйнау, һөйләшеү ауыр булғанда, уртаҡлашырлыҡ ябай нәмә бирә. Ҡарағыҙ: [нисек бергә уйнарға](/caregiving/how-to-play-together/).
+- **Тәртип.** Көн һайын бер үк ваҡытта таныш эш тыныслыҡ килтерергә мөмкин.
+- **Ышаныс.** Кеше әле яҡшы башҡара алған эштәргә ярашҡан шөғөлдәр уны һынауҙа түгел, үҙенә ышанған итеп тоя.
+- **Һөйләшеү.** Рәсем йәки таныш әйтем хикәйәне асырға мөмкин. Ҡарағыҙ: [һөйләшеү карталары](/games/conversation-cards/) йәки [әйтемде тамамлау](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Нимәләрҙән һаҡланырға: таймерҙар, очконар, сериялар һәм хәтер тестына оҡшаған нәмәләр. Әгәр кеше аптырай йәки ҡыйынлыҡ кисерә, туҡтағыҙ. Иртәрәк туҡтау, йәки бергә генә ултырыу ҙа яҡшы һөҙөмтә. Ҡушымталарҙы һәм уйындарҙы һайлау тураһында беҙҙең [ҡарау кәңәштәре](/caregiving/choosing-apps-and-games/) исемлеге бар.
 
-## Where Golden Moments fits
+## Golden Moments ҡайҙа инә
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments уйындары, мәҫәлән, [рәсемле парҙар](/games/picture-pairs/), [рәсемле табышмаҡ](/games/picture-puzzle/) һәм [ҙур хәрефле һүҙ эҙләү](/games/word-search/), рәхәтлек һәм бергә вакыт өсөн яһалған. Уларҙа ваҡыт үлсәүсе һәм очко юҡ. Улар дауалау саралары **түгел**, һәм деменцияны ла **булдырмай йәки тотҡарламай**. Беҙ был тураһында асыҡ әйтергә телибеҙ, бер ниндәй уйын да бирә алмаған нәмәне вәғәҙә итмәҫ өсөн.
 
-## Talk with a doctor
+## Табибҡа мөрәжәғәт итегеҙ
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Әгәр һеҙ үҙегеҙҙең йә ҡарағаныгыҙҙың хәтерендә үҙгәрештәр тураһында борсолаһығыҙ, аппка таянмай, табибҡа күренегеҙ. Табип дауалана торған сәбәптәрҙе эҙләй һәм иң яҡшы дәлилле аҙымдар тураһында һөйләшә ала, мәҫәлән, ҡан баҫымын көйләү һәм ишетеүҙе тикшереү. Күберәк мәғлүмәт өсөн ҡарағыҙ: [Деменцияны булдырып була мы?](/brain-health/can-dementia-be-prevented/). Кинәт аңлашылмаусанлыҡ йәки башҡа кинәт үҙгәрештәр булһа, шунда уҡ ашығыс медицина ярҙамы сақырығыҙ.

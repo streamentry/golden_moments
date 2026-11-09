@@ -1,34 +1,30 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Деменция өсөн эшмәкәрлек: 101 ябай идея"
+seoTitle: "Деменция өсөн эшмәкәрлек идеялары: 101 ябай шөғөл"
+description: "Деменция менән йәшәгән кешеләр өсөн 101 ябай, ололар өсөн тейешле эшмәкәрлек: һөлгөләрҙе ҡатлауҙан музыка һәм фотоларға тиклем, һәр береһен ҡыйынлашҡанда нисек еңеләйтергә."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Деменция менән йәшәгән кешеләр өсөн яҡшы эшмәкәрлек — уларға таныш, ололарса һәм бергә башҡарыу еңел булған эштәр: кейем ҡатлау, һортлау, аш пешереү, музыка, фотоларға ҡарау, йөрөү, баҡсала эшләү, йорт хайуандары менән вакыт үткәреү һәм ябай уйындар. Кеше бик яратҡанды һайлағыҙ, ауыр өлөштө үҙегеҙ алығыҙ, ә арыһа — туҡтағыҙ. Бергә күңелле үткән вакыт нимәнедер тамамлауҙан мөһимерәк.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Кешенең үҙ тормошонан башлағыҙ: уның эше, хоббиҙары, ышанысы һәм яратҡан музыкаһы — иң яҡшы бүлдерәүсе."
+  - "Кәрәк булһа, эште кәмерәк итегеҙ: аҙыраҡ аҙым, аҙыраҡ һайлау, ауыр өлөштө һеҙ башҡарығыҙ."
+  - "Ҡарау, бер нәмәне тотоу йәки янында ултырыу — ҡатнашыу булып һанала."
+  - "Арыу, ҡаушау йәки һыҡтау күренһә, туҡтағыҙ йәки икенсегә күсегеҙ. Иртәрәк тамамлау — яҡшы һөҙөмтә."
+  - "Бергә эшләү, дөрөҫ эшләүҙән мөһимерәк."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Деменция менән йәшәгән кеше өсөн нинди эшмәкәрлек яҡшы?"
+    a: "Кеше күп йылдар башҡарған, бер аз ғына еңеләйтелгән таныш эштәр: кейем ҡатлау, өҫтәл яҡлау, аш пешереү, музыка, фотоларға ҡарау, йөрөү, баҡсала эшләү һәм йорт хайуаны менән вакыт үткәреү. Ололарса һәм файҙалы эштәрҙе һайлағыҙ һәм бергә башҡарығыҙ."
+  - q: "Эш ҡасан тиклем оҙаҡ барырға тейеш?"
+    a: "Дөрөҫ оҙонлоҡ юҡ. Бер көн өсөн бер нисә минут һөлгө ҡатлау ла етерлек булыуы мөмкин, икенсе көндө баҡсала бер сәғәт еңел тоҡолоуы ихтимал. Тиҙлекте кеше үҙе билдәләһен һәм йәм-йәм тойолғанда туҡтағыҙ."
+  - q: "Кеше эштән баш тартһа?"
+    a: "Көсләмәгеҙ. «Юҡ» тигәне эш бик ауыр тойолғанлыҡтан, вакыт дөрөҫ булмағанлыҡтан йәки ул арыған, ауырһынғанлыҡтан булыуы мөмкин. Һуңыраҡ һынағыҙ, ҡыҫҡараҡ варианты тәҡдим итегеҙ, йәки эште үҙегеҙ янында башлап, ярҙам һорағыҙ."
+  - q: "Аҡыл уйындары деменция менән йәшәгән кешеләр өсөн файҙалы мы?"
+    a: "Уйындар бергә күңелле вакыт үткәреүгә ярарға мөмкин, әммә бер ниндәй уйын да деменцияны дауалай, әкренләтә йәки туҡтата тип иҫбатланмаған. Таймеры, очконы йәки яңылыш тигән тауышы булмаған уйындар һайлағыҙ һәм уларҙы һынау түгел, уртаҡ эшмәкәрлек итеп ҡабул итегеҙ."
+  - q: "Эштәр балаларса тойолмаһын өсөн нимә эшләргә?"
+    a: "Ысын, ололар материалдарын ҡулланығыҙ: ысын һөлгөләр, ысын рецепттар, ололар музыкаһы һәм рәсем материалдары, ололар темаһындағы фотолар. Эштәрҙе кеше өсөн ысын кәрәкле ярҙам итеп тәҡдим итегеҙ һәм кешегә ул булған кеүек — ололарса мөнәсәбәт итегеҙ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +46,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Деменция менән йәшәгән кеше өсөн иң яҡшы эшмәкәрлек — күпселек осраҡта уға таныш булған, бер аз ғына еңеләйтелгән һәм ышанған кеше менән бергә башҡарыла торған эш. Түбәндә 101 идея бар, төрҙәре буйынса төркөмләнгән; һәр береһенең нисек әҙерләргә һәм ҡыйынлашҡанда нисек еңеләйтергә икәне яҙылған. Махсус йыһаз кәрәкмәй, бер нәмәне лә тамамларға мәжбүр түгелһегеҙ. Яҡшы кисә бер себерҙә һөлгөләр һәм бергә эскән кофе ҙа етә.
 
-## How do you choose the right activity?
+## Тейешле эшмәкәрлекте нисек һайларға?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Һайлағыҙ кешегә ҡарап, исемлеккә ҡарап түгел: ул нимәне бик яратҡанын һәм бөгөн нимә рәхәт башҡара алыуын беренселәй белегеҙ.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Уның эше һәм хоббиҙарын уйлағыҙ.** [Альцгеймер ассоциацияһы](https://www.alz.org/help-support/caregiving/daily-care/activities) әйтеүенсә, элек офиста эшләгән кеше тәңкә һортлауҙан йәки почта материалдарын йыйыуҙан ләззәт ала ала, баҡсасы булған кеше — баҡса эштәренән.
+- **Уның инде нимә эшләүен күҙәтегеҙ.** Әгәр атайығыҙ һәр иртә үтенмәй генә ишек алдын һепергәндер, шуны көнөнөң бер өлөшө итегеҙ.
+- **Сиктәрҙе иҫтә тотоғоҙ.** Арыу, күреү, ишетеү, ауыртҡан ҡулдар һәм тигеҙлек — барыһы ла мөһим.
+- **Кәйефен күҙәтегеҙ.** Шау-шулы, хәрәкәтле эштәр кемдәргә оҡшай, кемдәрҙе ҡурҡыта.
+- **Маҡсат биреге.** Сәркәшләр өсөн сепрәк ҡатлау — спорт өсөн генә көс һалыуҙан мәғәнәлерәк.
 
-### A rough guide by stage
+### Стадиялар буйынса ҡыҫҡа күрһәтмә
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Деменцияны күпселек осраҡта башланғыс, урта һәм һуңғы стадиялар итеп һүрәтләйҙәр. Был — ҡатғыл сиктәр түгел, ә ҡурама ярлыҡтар; күп кешенең яҡшы һәм ауыр көндәре була, шуға күрә бөгөнгө хәлгә ҡарағыҙ. [Америка Альцгеймер фондының стадиялар буйынса исемлеге](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) шуға оҡшаш схема менән бара.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Тема | Башланғыс стадия | Урта стадия | Һуңғы стадия |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Нимә күҙәтеләһе | Күберәк үҙе эшләй; планлаштырыу, яңы исемдәр һәм шау-шулы урындар ауырыраҡ | Эште башлауға һәм аҙымдарға ярҙам кәрәк; һүҙҙәр ҡыйыныраҡ килә | Көнүҙәк ҡайғыртыуҙың күбеһендә ярҙам кәрәк; сенсор тойғолар иң мөһим |
+| Еңел тәҡдим ителгән эштәр | Карталар, таҡта уйындары, аш пешереү, баҡса, көнкүреш яҙыуы, сығыштар, клубтар | Һөлгөләр ҡатлау, һортлау, аш пешереүҙең ябай аҙымдары, йырлау, фотоальбомдар, йүнәлешле йөрөүҙәр | Яратҡан музыка, ҡул массажы, тотоу өсөн йомшаҡ әйберҙәр, уҡып бирелеү, тышта ултырыу |
+| Һеҙҙең роль | Өлөшсе: ниндәй ярҙам кәрәклеген һорағыҙ | Әҙерләгеҙ, күрһәтегеҙ, ауыр өлөштө үҙегеҙ алығыҙ | Эште уға еткерегеҙ; һеҙҙең яныңда булыу — эшмәкәрлек үҙе |
+| Тағы идеялар | [Башланғыс стадия](/activities/early-stage/) | [Урта стадия](/activities/middle-stage/) | [Һуңғы стадия](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Деменция менән йәшәгән кеше менән эште нисек башларға?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Ваҡ башлағыҙ, янында башлағыҙ, «эйе» тип әйтеүҙе еңеләйтегеҙ. Күп кеше әле лә ҡатнашырға теләй, әммә планлаштырыу йәки башлау уға ауыр була.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Уның иң яҡшы ваҡытын һайлағыҙ,** күпселек осраҡта иртәнге ваҡыт.
+2. **Бөтә нәмәне алдан әҙерләгеҙ,** шунда ук башлай алыр өсөн.
+3. **Ярҙам һоранығыҙ, сығыш түгел:** «Бына был нәмәләр менән ярҙам итә алаһығыҙмы?»
+4. **Эште үҙегеҙ башлағыҙ.** Беренсе һөлгөне ҡатлағыҙ һәм уға ҡушылырға рөхсәт итегеҙ. Күрһәтеү аңлатыуҙан яҡшыраҡ.
+5. **Бер аҙымды бер тапҡыр тәҡдим итегеҙ.**
+6. **Ауыр өлөштө үҙегеҙ алығыҙ.** Альцгеймер ассоциацияһы әйтеүенсә, ингредиентарҙы үҙегеҙ үлсәгеҙ, ә ҡалаҡты уға бирегеҙ.
+7. **Эште уның ысулы менән башҡарырға ирек бирегеҙ.** Төрлөсә ҡатланған һөлгөләр ҙә яҡшы.
+8. **Рәхәт булмаһа, туҡтағыҙ.** Ҡыбырлау, йыуан ҡарау йәки «мин ала алмайым» тигән һүҙҙәр — алмаштырыр йәки ял итер ваҡыт.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Шулай уҡ ҡарағыҙ: [бергә уйнау ысулы](/caregiving/how-to-play-together/) һәм [аралашыу кәңәштәре](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Өйҙәге көнкүреш эштәре
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Йорт эштәре таныш һәм файҙалы, шуға күрә башларға табиғи урын. [Милли ҡарттар институты (NIA)](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) кеше яратырға мөмкин булған эштәр араһында ыштар юыуҙы, өҫтәл әҙерләүҙе, себереүҙе, почтаны һортлауҙы һәм кейем ҡатлауҙы атай. Тағыраҡ [өй эштәре](/activities/household-tasks/) биләмәһендә.
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Йылы һөлгөләр ҡатлағыҙ.** Киптергескә һалынған себерҙе өҫтәлгә түгегеҙ һәм ҡушылып ҡатлағыҙ. Һуңыраҡ һыпаҡлау һәм йыйыу шул тиклем ярҙам итә.
+2. **Оекмәләрҙе парлағыҙ.** Башта төрлө төҫтәрҙән башлағыҙ. Һуңыраҡ яҡты һәм ҡараны айырыу ҙа етә.
+3. **Өҫтәл әҙерләгеҙ.** Бер ваҡытта бер төр әйбер бирегеҙ. Бер урынды үҙегеҙ әҙерләп, өлгө күрһәтегеҙ.
+4. **Ыштар юығыҙ йәки һөртөгөҙ.** Йылы, ҡыҙғылт һыу һәм һындырылмаҫ ыштар. Ултырып һөртөү аяҡтар өсөн еңелерәк.
+5. **Өҫтәлде һөрткөләгеҙ.** Ашағандан һуң нәмһеҙ таҫтымал биреп ҡарағыҙ. Тынғыһыҙ ҡулдар өсөн был — ысын эш.
+6. **Почтаны һортлағыҙ.** Каталогтарҙы һәм реклама хаттарын «һаҡларға» һәм «ҡабатлап эшкәртергә» тип айырығыҙ. Ысын счеттарҙы ситтә тотоғоҙ.
+7. **Купондарҙы киҫегеҙ.** Осо түңәрәк ҡайсыһы һәм аҙыҡ-түлек буклеттары. Һуңыраҡ яратҡан аш-һыу әйберҙәрен әйләндереп билдәләү ҙә ярай.
+8. **Тәңкәләрҙе һортлағыҙ.** Улар һалынған ҡәҙәктәргә айырығыҙ йәки ҡағыҙҙарға төргөләгеҙ. Ауыҙға һалырға ярайһы ваҡ әйберҙәрҙе алып ташлағыҙ.
+9. **Себергеҙ йәки сүпләгеҙ.** Ишек алдына еңел себер, йәки оҙон таяҡлы сүпләү сөйгөсө — ултырып ҡулланырға.
+10. **Аш әҙерләргә ярҙам итегеҙ.** Яшелсәләр йыуыу, салат йолҡоу, болғатыу. Пычаҡтар һәм ут — һеҙҙең ҡулда.
+11. **Ғаилә рецепты бешерегеҙ.** Әгәр уның ҡулъяҙмаһындағы карточка булһа, шуны ҡулланығыҙ. Һуңыраҡ ул — тәмле ауыҙ һынаусы.
+12. **Офис эштәре башҡарығыҙ.** Хаттарҙы ҡатлағыҙ, конверттарға һалығыҙ һәм марка ябышторығыҙ, йәки бергәләп аш-һыу исемлеге яҙығыҙ.
 
-## Music
+## Музыка
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Таныш музыка, һүҙҙәр ауыр булғанда ла, кешегә барып етә ала. [Альцгеймер ассоциацияһының музыка кәңәштәре](https://www.alz.org/help-support/caregiving/daily-care/art-music) таныш йырҙар, реклама булмауы һәм телевизорҙы һүндереү тураһында әйтә. Тағыраҡ: [музыка эшмәкәрлеге](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Шәхси плейлист төҙөгөҙ.** Уның үҫмер һәм егерме йәш саҡтағы, туйы, сиркәүе һәм милли музыкаһы.
+14. **Бергә йырлағыҙ.** Үҙегеҙ йырлай башлағыҙ. Ғөрләү йәки тыңлау ла иҫәпкә инә.
+15. **Ритм тотоғоҙ.** Алҡағыҙ, тубыҡтарҙы һуғығыҙ йәки ҡул барабанында уйнағыҙ. Ултырғанда һәм һуңғы стадияла ла эшләй.
+16. **Бейегеҙ.** Мутфарҙа баяу бейегеҙ, йәки ултырып ҡул тотоношоп тирбәлегеҙ.
+17. **Бөтә альбомды тыңлағыҙ.** Яратҡан пластинканы башынан аҙағына тиклем, кофе менән, башҡа бер нәмә лә булмай торған ваҡытта.
+18. **Музыка тураһында һөйләшегеҙ.** Факттар түгел, хикәйәләр һорағыҙ: «Ниндәй бейеүҙәргә барғайнығыҙ, һөйләп бирегеҙ?»
+19. **Фильм йәки концерт ҡарағыҙ.** Яратҡан спектакль — матур кисә. Теләһә ҡасан туҡтатырға мөмкин.
+20. **Таныш инструментта уйнағыҙ.** Элек пианиновала уйнаған кеше ябай пьесаларҙан ләззәт ала ала; һуңыраҡ бер нисә аваз бергә.
+21. **Тере музыка тыңлағыҙ.** Ҡыҫҡа йәмәғәт концерты йәки хор репетицияһы. Сығыш яғына ултырығыҙ.
 
-## Reminiscence: photos, objects and stories
+## Иҫкә төшөрөү: фотолар, әйберҙәр һәм хикәйәләр
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Үткәндә бергә рәхәтләнегеҙ, уны һынамайынса. «Иҫеңдәме...?» йәки «Был кем?» тигән һорауҙарҙан ҡасығыҙ, ә асыҡ сакырыуҙар әйтегеҙ. Тағыраҡ: [иҫкә төшөрөү эшмәкәрлеге](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Фотоальбомдан ҡарағыҙ.** Күргәнегеҙҙе әйтегеҙ: «Ниндәй матур күлдәк! Был көн тураһында һөйләгеҙ әле.» Ул әйткән исемдәргә ҡушылығыҙ.
+23. **Иҫтәлекле йәшник яһағыҙ.** Уның тормошонан әйберҙәр: эш таныҡлығы, рецепт карточкаһы. Әйберҙәрҙе береһен-береһен алып ҡарағыҙ.
+24. **Тормош китабы башлағыҙ.** Һәр биттә бер нисә фото һәм ҙур хәрефтәр менән яҙылған аңлатмалар. Яңы ярҙамсыларға кешене танырға ярҙам итә.
+25. **Һөйләшеү карталарын ҡулланығыҙ.** [Һөйләшеү карталары](/games/conversation-cards/) рәсемде асыҡ һорау менән бергә бирә.
+26. **Ғаилә фото уйыны яһағыҙ.** [Фото парҙары](/games/photo-pairs/) үҙегеҙҙең фотоларығыҙҙы парлап уйнай торған уйынға әйләндерә.
+27. **Өй видеоларын йәки иҫке телевизорҙы ҡарағыҙ.** Һорау бирмәй, бергә фекер алышығыҙ.
+28. **Эш тормошонан әйберҙәр тотоғоҙ.** Бер гаечный ключ, стетоскоп, гроссбух. Ҡулдар күпселек осраҡта хикәйәне алып бара.
+29. **Балалыҡ аш-һыуын пешерегеҙ.** Болғатыр, тәмен тикшерер йәки мутфарҙа һеҙ менән ултыра ала.
+30. **Йәшәгән урындарын картала ҡарағыҙ.** Ҙур атлас аша таныш юлдарҙы бармаҡ менән күрһәтегеҙ, һөйләшеп барығыҙ.
 
-## Creative activities
+## Ижади эшмәкәрлек
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Сәнғәт — финалда түгел, эш барышында. Материалдарҙы ололар өсөн уңайлы һәм хәүефһеҙ итеп һайлағыҙ. Тағыраҡ: [сәнғәт һәм ҡул эштәре](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Акварель менән буяғыҙ.** Ҡалын ҡағыҙ, бер нисә төҫ. Башлау ауыр булһа, беренсе һыҙыҡтарҙы бергә йүнәлтегеҙ.
+32. **Ололар өсөн нәҡыштар буяғыҙ.** Сәскәләр йәки туҡыма нәҡыштары, мультфильм түгел. Беҙҙең [буяу биттәре](/games/coloring/) экранда ла, баҫып алынған ҡағыҙҙа ла эшләй.
+33. **Коллаж яһағыҙ.** Журналдан баҡсалар, машиналар йәки аш-һыу рәсемдәрен киҫеп, ябыштырығыҙ. Һуңыраҡ рәсемдәр һайлау ла етә.
+34. **Сәскәләр бәйләгеҙ.** Кибеттән алынған сәскә букеты һәм вазаһы. Һуңыраҡ банкала бер нисә сабаҡ.
+35. **Бергә бәйләгеҙ йәки токығыҙ.** Ҙур спицаларҙа ябай рәттәр. Һуңыраҡ ептәрҙе шарҙарға урағыҙ.
+36. **Ғаилә өсөн открыткалар яһағыҙ.** Тыуған көн йәки хәл белеү открыткаларын ысын кешеләр өсөн мөһөрләгеҙ, ҡул ҡуйығыҙ, биҙәгеҙ.
+37. **Һауала ҡатып торған балсыҡтан ҡалып яһағыҙ.** Ваҡ ҡапты баҫығыҙ. Уңайлы, зарарһыҙ материалдар ҡулланығыҙ һәм янында булығыҙ.
+38. **Ағасты ышҡығыҙ һәм яҡлағыҙ.** Алдан киҫелгән ҡоштар йортонан комға һәм ҡағыҙға, электр ҡоралһыҙ. Тағыраҡ: [ир-аттар өсөн эшмәкәрлек](/activities/for-men/).
+39. **Хат яҙығыҙ йәки продиктовка итегеҙ.** Ейән йәки иҫке дуҫҡа. Яҙыу ауыр булһа, ул һөйләй, һеҙ яҙаһығыҙ.
 
-## Outdoors and gardening
+## Тышта һәм баҡсала эшләү
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Һауа һәм көн яҡтылығы — яҡшы иптәш. Тағыраҡ: [тыш һәм баҡса эшмәкәрлеге](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Сәскәләргә һыу һибегеҙ.** Ваҡ һауыт һәм бер нисә ҡап. Көн һайын һыу һибеү көнгә тәртип бирә.
+41. **Ҡапҡа үҫемлек ултыртығыҙ.** Өҫтәлгә ҡуйығыҙ, беркем тубыҡ һуҙмаһын. Орлоҡтан ҡарағанда үҫентеләр еңелерәк.
+42. **Үләндәрҙе ултыртығыҙ йәки сәскәләрҙең һуҙылғанын алығыҙ.** Эш перчаткаһы кейеп, бер ваҡ грядала.
+43. **Яфраҡтарҙы бешләгеҙ.** Бер ваҡ майҙан. Һуңыраҡ оҙон тотоп торған сумкаһы — ысын эш.
+44. **Таныш маршрут буйлап йөрөгеҙ.** Квартал буйлап йәки почта йәшеккә тиклем. Ҡыҫҡаһы ла ярай.
+45. **Тышта бергә ултырығыҙ.** Йылы көндө ишек алдында урындыҡтарҙа. Болоттарға йәки үтеп барыусыларға ҡарағыҙ.
+46. **Ҡоштарҙы ашатығыҙ.** Ҡоштар ашатҡысын бергә тултырығыҙ һәм тәҙрә янында ултырып күҙәтегеҙ.
+47. **Машина йыуығыҙ.** Биҙрә, губка, йылы көндөҙ. Ҡапҡыстарҙы сайҡау — бер аҙымлы еңел эш.
 
-## Sensory activities
+## Сенсор эшмәкәрлек
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Тойоу, еҫ, тәм, тауыш һәм күреү — деменция алға киткән һайын әһәмиәтлерәк була. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) һуңғы стадияларға музыканы, ҡулға алырлыҡ әйберҙәрҙе һәм ҡул массажын атай. Иң тәүҙә аллергияны һәм боролоу хәүефен тикшерегеҙ; тағыраҡ: [сенсор эшмәкәрлек](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Ҡул массажы яһағыҙ.** Башта рөхсәт һорағыҙ, бер аҙ крем ҡулланығыҙ. Тиреһе йәки аллергияһы хаҡында шик булһа, еҫһеҙен һайлағыҙ.
+49. **Туҡымаларҙы тойоғоҙ.** Бархат, вельвет, йөн һәм атлас сөпрәк, һыйпап ҡарарға һәм ҡатлаға.
+50. **Үлән һәм кофе еҫкәгеҙ.** Яңы бадьян йәки розмарин япраҡтарын бармаҡтар араһында ышҡығыҙ. Тын алыу ҡыйынлыҡтары булһа, көслө еҫтәрҙән ҡасығыҙ.
+51. **Сәс тарағыҙ.** Ял, йомшаҡ, әгәр ул шулай ҡыҙыҡһына.
+52. **Йылы сепрәк тотоғоҙ.** Һыуыҡ көндө ҡулдар һәм йөҙ өсөн. Температураны алдан һынағыҙ.
+53. **Эш фартугы менән танышығыҙ.** Ҙур төймәләр һәм ҡапҡыстар нығытып тегелгән. Бер нәмә лә һыпырылмаһын тип тикшерегеҙ.
+54. **Яратҡан тәмлекәй менән ҡыҙыҡлаҡ.** Бер ваҡ ҡалаҡ, уның һаҡлы ашай алған текстурала.
+55. **Тәбиғәт тауыштарын ҡуйығыҙ.** Яңғыр, дулкындар йәки ҡош тауышы — тыныс кенә.
+56. **Баяу нәмәне ҡарағыҙ.** Балыҡ һауыты, тәбиғәт видеоһы йәки ҡар яуыуы.
 
-## Games and puzzles
+## Уйындар һәм головоломкалар
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Уйындар таймерһыҙ, очконаһыҙ һәм көсләүһеҙ эшләй. Берәй уйын һынау кеүек тоя башлаһа, уны йыйыштырығыҙ. Тағыраҡ: [ҡулланмалар һайлау](/caregiving/choosing-apps-and-games/) һәм [аҡыл уйындары](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Рәсем парлағыҙ.** [Рәсем парҙары](/games/picture-pairs/) рәсемдәрҙе йөҙ менән өҫкә ҡуя, шулай итеп ул иҫләү түгел, күреү хаҡында.
+58. **Бер үк рәсемде табығыҙ.** [Бер үк табыу](/games/find-the-same/) ике-дүрт вариант бирә. Һәр рәсем тураһында һөйләшегеҙ.
+59. **Савыттарға айырығыҙ.** [Бергә һортлау](/games/sort-together/) — экранда оекмәләрҙе айырыу кеүек.
+60. **Ҙур ҡисемле мозаика йыйығыҙ.** Ололар темаһындағы һүрәттәр, еңел ҡисемдәр. [Рәсем мозаикаһы](/games/picture-puzzle/) бөтә һүрәтте күрһәтеп тора. Тағыраҡ: [деменция өсөн головоломкалар](/activities/puzzles/).
+61. **Иҫке карта уйынын уйнағыҙ.** Ул йылдар буйы уйнаған нәмәне. Һуңыраҡ картаны төҫкә ҡарап һортлау — үҙе бер уйын.
+62. **Домино уйнағыҙ.** Осоно тура килтерегеҙ. Һуңыраҡ таштарҙы рәттәргә ҡуйыу ҙа ярай.
+63. **Ҙур хәрефле һүҙҙәр табышмағы сешерегеҙ.** Беҙҙең [һүҙҙәр табышмағы](/games/word-search/) һүҙҙәрҙе тик горизонталь һәм вертикаль рәүештә ҡуя һәм баҫып алыу мөмкинлеге бар.
+64. **Таныш әйтемдәрҙе тамамлағыҙ.** [Әйтемде тамамлау](/games/finish-the-saying/) теләһә ҡасан осон күрһәтергә мөмкинлек бирә.
+65. **Рәсемле бинго уйнағыҙ.** [Рәсемле бинго](/games/picture-bingo/) ғаилә һәм төркөм өсөн яраҡлы. Карточкаларҙы иркен билдәләгеҙ.
+66. **Шашка уйнағыҙ.** Ҡағиҙәләрҙе иркен ҡуйығыҙ. Һөйләшеп барғанда фишкаларҙы күсереү ҙә һанала.
 
-## Movement
+## Хәрәкәт
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA карттар өсөн йөрөүҙәрҙе, стационар велосипедты, эластик лентаны, йомшаҡ туп йәки шар ташлауҙы, консерва банкаларын күтәреүҙе һәм видео-гимнастиканы тәҡдим итә. Яңы нәмә башлар алдынан, айырыуса тигеҙлек проблемалары булһа, врач менән кәңәшләшегеҙ.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Шар ташлағыҙ.** Бер-береңә ҡаршы ултырығыҙ. Шар әкрен осҡан, тотоу еңел.
+68. **Ололар өсөн ултырып башҡарыла торған видео-гимнастиканы** һеҙ менән бергә ҡабатлағыҙ.
+69. **Лента менән һуҙылығыҙ.** Ултырғанда ҡулдарҙы еңел лентаға һуҙығыҙ.
+70. **Консерва банкаларын күтәреүҙе эшләгеҙ.** Ҡулдарҙы баяу күтәрегеҙ, мөмкин, музыка өҫтөнән.
+71. **Стационар велосипедта йөрөгеҙ.** Бер нисә еңел минут, һеҙ янында булғанда.
+72. **Шарфтар менән бейегеҙ.** Еңел шарфтарҙы музыка буйынса болғатығыҙ, ултырып йәки баҫып.
+73. **Маҡсатлы йөрөгеҙ.** Хат ебәрергә йәки кофе алырға. Барыр сәбәп булһа, йөрөү табиғи була.
+74. **Тын алыу тынлығын бергә кисерегеҙ.** [Тыныс тын алыу](/games/calm-breathing/) менән баяуланығыҙ.
 
-## Social activities
+## Социаль эшмәкәрлек
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Исемдәр ауыр булһа ла, кешеләр янында булыу мөһим, һәм ваҡ төркөмдәр ҙур төркөмдәрҙән еңелерәк. NIA әйтеүенсә, кеше ҡунаҡтың кем икәнен иҫләмәһә лә, күп осраҡта иптәшлекте ҡабул итә. Тағыраҡ: [килеп күреү](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Бер ваҡытта бер-ике ҡунаҡ.** Тыныс бүлмәлә ҡыҫҡа ғына килеү, карау өсөн фотолар менән.
+76. **Ғаиләгә видео-шылтыратығыҙ.** Ҡыҫҡа шылтыратыуҙар, бер ваҡытта бер тауыш. Тағыраҡ: [телефон һәм видео-шылтыратыуҙар](/activities/phone-and-video-calls/).
+77. **Хәтер кафеһына барығыҙ.** Деменция менән йәшәгән кешеләр һәм уларҙы ҡайғыртыусылар өсөн ябай йыйылыштар. Урындағы Ҡарттар буйынса район агентлығынан, яҡында нимә барлығын һорағыҙ.
+78. **Тыныс ваҡытта ашханаға сығығыҙ.** NIA таныш, тыныш ашханаға төш ваҡытынан һуңғараҡ барырға, туалет яғына яҡын өҫтәлдә ултырырға тәҡдим итә.
+79. **Ҡарттар үҙәге йәки көндөҙгө программаға барығыҙ.** Уның өсөн иптәшлек, һеҙҙең өсөн ял.
+80. **Балалар менән вакыт үткәрегеҙ.** Ейәндәрҙән ҡыҫҡа, тыныс ҡунаҡлыҡ, йәки кескәйгә рәсемле китап уҡыу.
+81. **Кофе ваҡытында гәзит уҡығыҙ.** Башлыҡтарҙы оҙонораҡ уҡығыҙ. Йола хәбәрҙән мөһимерәк.
+82. **Кемгәлер ярҙам итегеҙ.** Сиркәү программаларын ҡатлағыҙ йәки күрше өсөн открытка яһағыҙ.
 
-## Faith and spiritual activities
+## Диндәр һәм рухи эшмәкәрлек
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Кешенең үҙ динен һәм йолаларын хөрмәт итегеҙ, йәки булмаһа — бүтән нәмә. NIA таныш ғибәҙәттәрҙе, уҡыуҙарҙы, изге музыканы, доғаны, медитацияны һәм байрам йолаларын атай.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Таныш ғибәҙәткә барығыҙ.** Тыныҡыраҡ ғибәҙәт һайлағыҙ, ишек яғына ултырығыҙ һәм унда кешеләрҙе деменция тураһында белдерегеҙ.
+84. **Онлайн ғибәҙәт ҡарағыҙ.** Сығыу ауыр булған көндәрҙә.
+85. **Бергә доға уҡығыҙ йәки уҡығыҙ.** Таныш һүҙҙәр, баяу уҡыу. Белгән өлөштәрендә ул ҡушыла ала.
+86. **Гимндар йәки изге музыка йырлағыҙ.** Уның традицияһынан.
+87. **Байрам йолаларын һаҡлағыҙ.** Батарейкалы шәм, фатиха, уның һәр ваҡыт ҡулланған биҙәктәре.
+88. **Тын ваҡыт бүлешегеҙ.** Баҡсала ултырығыҙ йәки кояш баҫыуын бергә күрегеҙ.
 
-## Pets and animals
+## Хайуандар менән эшмәкәрлек
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA хайуанды ашатыу, ҡайғыртыу, йөрөтөү, янында ултырыу йәки ҡосаҡлауҙы тәҡдим итә.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Тыныс эт йәки мышыҡты** оҙон, баяу хәрәкәттәр менән тарағыҙ.
+90. **Хайуанды бергә ашатығыҙ.** Һеҙ үлсәйһегеҙ, ул ҡоя.
+91. **Эте менән бергә йөрөгөҙ.** Тағанаҡты һеҙ тотоғоҙ.
+92. **Хайуанды тубыҡта тотоғоҙ.** Аҡрын мышыҡ күлдәк өҫтөндә бик тыныслата.
+93. **Килгән хайуандарҙы ҡабул итегеҙ.** Кайһы бер ҡарау йорттарында һәм көндөҙгө программаларҙа хайуандар килә. Урында һорағыҙ.
+94. **Тере кеүек йомшаҡ хайуан тәҡдим итегеҙ.** Хайуаны булмаһа, кайһы берәүҙәр реалистик ҡуянсыҡ мышыҡ йәки эт ҡосаҡлауҙан ләззәт ала. Уны ябай тәҡдим итегеҙ, уйынсыҡ итеп түгел, һәм «юҡ» тигәнде ҡабул итегеҙ.
 
-## Seasonal activities
+## Миҙгел эшмәкәрлеге
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Йолаларҙы һаҡлағыҙ, әммә ябайыраҡ. NIA байрамдарҙа реалистик булырға һәм ял итер тыныс урын әҙерләргә кәңәш итә.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Миҙгелгә биҙәгеҙ.** Өҫтәлдә балҡабаҡ, эшләнмә йыһаҙ йәки сәскәләр.
+96. **Байрам тәмлеге әҙерләгеҙ.** Ҡамыр йәйегеҙ йәки печеньеға глазурь һалығыҙ. Мейестә һеҙ эшләйһегеҙ.
+97. **Ағасҡа биҙәк эҫтегеҙ.** Һыныҡмаған биҙәктәр, береһен-береһен тапшырып.
+98. **Яҡтыларҙы ҡарарға машинала барығыҙ.** Ҡыҫҡа ағымдағы кискә йөрөү — тик компания генә кәрәк.
+99. **Яҙғы ҡыр шыршыларын ултыртығыҙ.** Көҙ ваҡытында ҡапҡа ултыртығыҙ һәм үҫентеләрен күҙәтегеҙ.
+100. **Ҡарағай башағын йәки коймаҡ орлоғон таҙартығыҙ.** Ҡайнар көндө балҡон эше, тубыҡта сәнәк менән.
+101. **Байрам открыткаларына адрес яҙығыҙ.** Улар ҡул ҡуя, марка ябыштыра; адреска һеҙ яуаплы.
 
-## What if an activity is not working?
+## Эшмәкәрлек эшләмәһә нимә эшләргә?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Туҡтағыҙ һәм икенсе ваҡытта башҡасағыраҡ нәмә менән булығыҙ. NIA ҡаушауҙы күҙәтергә һәм кеше теләһә, һыу сиктә генә ултырып ҡарарға рөхсәт итергә кәңәш итә. «Юҡ» тигәне күпселек осраҡта эш бик ауыр, вакыт дөрөҫ түгел, йәки ауырыу, асыҡҡан йәки тауыш кеүек нәмә борсолта. Эште кәмерәк итегеҙ, көнөң иртәрәк ваҡытында башлағыҙ, йәки үҙегеҙ башлап ҡарағыҙ — ул ҡушыламы. Тағыраҡ: [«юҡ» тигәндә](/caregiving/when-they-say-no/) һәм [кискә тынғыһыҙлыҡ](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Эштәрҙе аш-һыу һәм ял араһына тейешләп ҡуйыу өсөн, [тыныс көнкүреш тәртибе](/activities/daily-routine/) биҙәгеҙ. Алдан әҙер тотор өсөн эштәр өсөн [баҫып алырға мөмкин булған эштәр](/activities/printable/) ҡарағыҙ, ә төркөм менән эшләһәгеҙ, [ҡарау йорттары төркөм эштәре](/activities/care-home-groups/). Һеҙҙең ял да мөһим: [ҡайғыртыусының үҙ-үҙен ҡарауы](/caregiving/caregiver-self-care/).

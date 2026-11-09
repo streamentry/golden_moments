@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Деменция менән йәшәгән кеше менән аралашыу кәңәштәре"
+seoTitle: "Деменция менән аралашыу: нимә әйтергә, нимәнән һаҡланырға"
+description: "Деменция менән йәшәгән кеше менән аралашыуҙың ябай юлдары: һөйләшеүҙе нисек башларға, тикшереү һәм төҙәтеү урынына нимә әйтергә, нисек тыңларға."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Тыныс урында һөйләшегеҙ, кешегә йөҙөгөҙ менән боролоғоҙ, исемен әйтегеҙ һәм
+  әкрен, ҡыҫҡа, ябай һөйләмдәр менән һөйләгеҙ. Бер ваҡытта бер генә һорау
+  бирегеҙ, асыҡ һорауҙар урынына ике һайлау тәҡдим итегеҙ һәм тәбиғи тойолғанынан
+  оҙағыраҡ көтөгөҙ. Бәхәсләшмәгеҙ, төҙәтмәгеҙ, тикшермәгеҙ. Һүҙҙәр артындағы
+  тойғоға яуап бирегеҙ, һөйләү ауырлашҡан һайын тейеү, рәсемдәр һәм ымдар
+  ҡулланығыҙ.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Һөйләшә башлағансы фон шауҙы кәметегеҙ һәм күҙ менән аралашығыҙ."
+  - "Ҡыҫҡа һөйләмдәр, бер ваҡытта бер фекер, һәм «ул» урынына исем ҡулланығыҙ."
+  - "Асыҡ һорауҙар урынына ике һайлау йә «эйе» йә «юҡ» тигән һорау тәҡдим итегеҙ."
+  - "Яуапты көтөгөҙ. Аңланылмаһа, шул уҡ һүҙҙәрҙе ҡабатлағыҙ, аҙаҡ башҡа һүҙҙәр менән әйтегеҙ."
+  - "Бәхәсләшмәгеҙ һәм төҙәтмәгеҙ. Әйткән һүҙҙәр артындағы тойғоға яуап бирегеҙ."
+  - "Һүҙҙәр юғала башлағас, тейеү, тон, йөҙ мимикаһы һәм уртаҡ рәсемдәр аша аралашығыҙ."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Деменция менән йәшәгән кешегә нимә әйтмәҫкә кәрәк?"
+    a: "Тикшереүҙән («Хәтерегеҙҙәме...?»), төҙәтеүҙән («Был дөрөҫ түгел»), юғалтуҙар тураһында иҫкәртеүҙән («Мин инде әйткәйнем») һәм ул кеше юҡ кеүек итеп һөйләүҙән һаҡланығыҙ. Бала теле ҡулланмағыҙ. Был ыңғайһыҙлыҡ йә борсолоу тыуҙыра ала, ә файҙа килтермәй."
+  - q: "Факттар дөрөҫ булмағанда төҙәтергә кәрәкме?"
+    a: "Ғәҙәттә юҡ. Хата факт зыян килтермәһә, уны ебәрергә була. Бәхәсләшеү кешенең фекерен һирәк кенә үҙгәртә, ә йыш ҡына ул кешене ныҡ борсой. Хәҙер нимә тояһын һәм нимә кәрәк икәнен иғтибар итегеҙ."
+  - q: "Һүҙҙе таба алмағанда нимә эшләргә?"
+    a: "Тәүҙә вакыт бирегеҙ. Бик ауыр булһа, йомшаҡ ғына бер һүҙ тәҡдим итергә йәки кеше нимә уйлағанын фараз итеп, тикшереп ҡарарға мөмкин. Күрһәтеү, ымдар һәм рәсемдәр лә ярҙам итә ала."
+  - q: "Һуңғы стадиялағы деменцияла, һирәк һөйләшкән кеше менән нисек аралашырға?"
+    a: "Алдынан килегеҙ, үҙегеҙҙе таныштырығыҙ, тыныс тауыш һәм йомшаҡ тейеү ҡулланығыҙ. Тойғоларҙы йөҙҙәренә һәм тән хәрәкәтенә ҡарап күҙәтегеҙ. Ҡатнаш булыу, таныш көй йә ҡулды тотоу һүҙһеҙ ҙә бик күп нәмә еткерә ала."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Деменция һүҙ табыуҙы ауырлаштыра, оҙон һөйләмде аңлауҙы ҡыйынлаштыра йә фон шауын бүлә алмауға килтерә. Был кешенең аралашырға теләүен юҡҡа сығармай. Һөйләшеүҙе нисек ойоштороуҙа, нисек һөйләүҙә һәм нисек тыңлауҙа бәләкәй үҙгәрештәр ҡылыу, икегеҙгә лә һөйләшеүҙе еңелерәк һәм тынысыраҡ итә ала.
 
-## What are the most important tips for talking with someone who has dementia?
+## Деменция менән йәшәгән кеше менән һөйләшкәндә нимә иң мөһим?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Иғтибарҙы йыйығыҙ, ябай итегеҙ һәм сабыр булығыҙ. Әгәр бары биш нәмәне генә иҫтә тотһағыҙ:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Бүлмәне тыныслаңдырығыҙ һәм кешегә йөҙ менән боролоғоҙ.** Телевизорҙы һүндерегеҙ, күҙ кимәлендә ултырығыҙ һәм исемен әйтегеҙ.
+2. **Бер ваҡытта бер нәмә әйтегеҙ.** Ҡыҫҡа һөйләмдәр, бер фекер, бер һорау.
+3. **Ике һайлау тәҡдим итегеҙ.** «Сәй йәки кофеме?» тигән һорау «Нимә теләйһегеҙ?» тигәндән еңелерәк.
+4. **Көтөгөҙ.** Яуап биреү өсөн тәбиғи тойолғанынан оҙағыраҡ вакыт бирегеҙ һәм бүлдермәгеҙ.
+5. **Бәхәсләшмәгеҙ һәм тикшермәгеҙ.** Факттарҙың дөрөҫлөгөнә түгел, уларҙың тойғоһона яуап бирегеҙ.
 
-## How should I start a conversation?
+## Һөйләшеүҙе нисек башларға?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Кешегә иғтибар йыйырға мөмкинлек булдырығыҙ. [Family Caregiver Alliance кулланмаһы](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) тәүҙә шауҙы кәметергә кәңәш итә: радио йә телевизорҙы һүндерергә, пәрҙәне йә ишекте ябырға йәки тынысыраҡ урынға күсергә.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Алдан килегеҙ.** Арттан йә яндан килеү ҡурҡытырға мөмкин.
+- **Үҙегеҙҙе таныштырығыҙ.** «Сәләм, атай, мин — Сара, ҡыҙың.» Был уларға исемегеҙҙе эҙләп йөрөргә кәрәк итмәй.
+- **Уларҙың кимәленә төшөгөҙ.** Ултыралар икән, күҙҙәрегеҙ тигеҙ булһын өсөн ултырығыҙ йә тубыҡ тирәләгеҙ.
+- **Йөҙөгөҙҙө һәм тауышығыҙҙы тикшерегеҙ.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) тауыш, тон, йөҙ мимикаһы һәм тән телен күҙәтергә һәм йылы, ябай рәүештә аралашырға кәңәш итә.
+- **Күҙлек һәм ишетеү аппараттары тағылған булһын.** Күрмәй йә ишетмәй торған һөйләшеүҙе аңлау ауыр.
 
-## How should I phrase what I say?
+## Нисек һөйләргә?
 
-Use simple words, short sentences and a calm, low voice.
+Ябай һүҙҙәр, ҡыҫҡа һөйләмдәр һәм тыныс, түбән тауыш ҡулланығыҙ.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Бер һөйләмгә бер фекер.** «Пальтоңды кейәйек. Аҙаҡ тышҡа сығырбыҙ.» Бер тын алыуҙа ике нәмә түгел.
+- **Исем ҡулланығыҙ, алмаш түгел.** «Джин апай шылтыратты» тигән һөйләм «Ул шылтыратты» тигәндән аңлашыңҡырак.
+- **Түбәнерәк, ҡатмарлыраҡ түгел.** Family Caregiver Alliance ҡатмарлы тауыш урынына түбән тауышта һөйләргә кәңәш итә.
+- **Ҡабатлағыҙ, аҙаҡ башҡа һүҙҙәр менән әйтегеҙ.** Аңланылмаһа, шул уҡ һүҙҙәрҙе бер тапҡыр ҡабатлағыҙ. Был булышмаһа, бер аҙ тороп, башҡа һүҙҙәр ҡулланығыҙ.
+- **Күрһәтегеҙ, әйтеү генә түгел.** Ҡасҡа күрһәтегеҙ, ике кофтаны күтәрегеҙ йә беренсе аҙымды күрһәтегеҙ.
+- **Уларға һөйләгеҙ, уларҙың тураһында түгел.** NIA кешене юҡ кеүек итеп һөйләүҙән һәм «бала теле»нән кисәтә.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ғәҙәти һорауҙарҙың ябайыраҡ варианттарын тәҡдим итә. Түбәндә шул рухта миҫалдар бирелгән:
 
-| Instead of | Try |
+| Ни урынына | Нимә әйтергә |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Киске ашҡа нимә теләйһегеҙ?" | "Киске ашҡа балыҡ йә тауыҡ теләйһегеҙме?" |
+| "Нисек һиҙәһегеҙ?" | "Һеҙ арыныңмы?" |
+| "Асыҡтыңмы?" | "Киске аш биш минуттан әҙер булыр." |
+| "Был рәүешле түгел бит." | "Моғайын башҡаса һынап ҡарайыҡ." |
+| "Күлгә сәйәхәтебеҙҙе иҫләйһеңме?" | "Күлгә сәйәхәтебеҙ тураһында уйланым. Һеҙгә нимә оҡшағаны тураһында һөйләгеҙ әле." |
+| "Мин инде әйттем бит." | Тағы ла һыйлап яуап бирегеҙ, беренсе тапҡыр һорағандай. |
 
-## How do I listen well?
+## Нисек тыңларға?
 
-Listen for the meaning and the feeling, not just the words.
+Һүҙҙәрҙе генә түгел, мәғәнәне һәм тойғоно тыңлағыҙ.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Көтөгөҙ.** Тын булыу күп осраҡта уйлау ваҡыты була. Ярҙам итер алдынан тағы ла бер аҙ көтөгөҙ.
+- **Бер һүҙ тәҡдим итегеҙ, бары улар тығылып ҡалғанда.** Family Caregiver Alliance кеше көрәшкәндә һүҙҙәр тәҡдим итеүҙе дөрөҫ тип иҫәпләй.
+- **Ишеткәнегеҙҙе тикшерегеҙ.** [Alzheimer's Association аралашыу кулланмаһы](https://www.alz.org/help-support/caregiving/daily-care/communications) һүҙҙәр артындағы мәғәнәне эҙләргә һәм уны ҡабат әйтеп, аңлауығыҙҙы тикшерергә кәңәш итә. «Машина тураһында борсолаһығыҙмы?»
+- **Йөҙҙәренә һәм тәненә иғтибар итегеҙ.** NIA яҙа: һөйләү ауырлашҡан һайын, йөҙ мимикаһы һүҙҙәргә ҡарағанда асыҡ итеп моңһоҙлоҡто, асыуҙы йә ҡыйынлыҡты күрһәтә ала.
+- **Борсоуҙарға ҡарағыҙ.** Борсоу хата факттан килһә лә, тойғо ысын.
 
-## What if they say something that is not true?
+## Әгәр улар дөрөҫ булмаған нәмә әйтһә, нимә эшләргә?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Бәхәсләшмәгеҙ. Еңеү ихтималлығы әҙ, ә кеше ыңғайһыҙ йә ҡурҡыу кисереүе ихтимал. Урынына тойғоға яуап бирегеҙ, аҙаҡ йомшаҡ рәүештә икенсе темаға күсегеҙ.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance ҡарар ҡабул итер алдынан тойғоны таныу кәңәш итә. Миҫал: әсәгеҙ балаларҙы мәктәптән алырға кәрәк тип ысынлап ышана икән:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Урынына: "Әсәй, балаларығыҙ үҫеп еткән. Ул ҡырҡ йыл элек булған."
+- Әйтегеҙ: "Һеҙ был тиклем кайғыртыусан әсәй булдығыҙ. Мәктәптән алыуығыҙ тураһында һөйләгеҙ. Әүәл бер аҙ ашап алайыҡмы?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association шулай уҡ һеҙҙең фекерегеҙгә ҡаршы килгән фекерҙәр буйынса бәхәсләшмәҫкә кәңәш итә. Моментты һайлағыҙ: хата ышаныс зыянһыҙ булһа, ул шулай ҡалһын.
 
-## How does communication change as dementia progresses?
+## Деменция прогрессировать иткәндә аралашыу нисек үҙгәрә?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ихтыяждар ваҡыт үтеү менән үҙгәрә, шуға күрә яҡлашыуығыҙ ҙа үҙгәрергә тейеш. Alzheimer's Association өс киңерәк этапты һүрәтләй:
 
-| Stage | What helps |
+| Этап | Нимә булыша |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Башланғыс | Аралаша алмай тип уйламағыҙ. Һөйләшеүгә индерегеҙ, туранан-тура һөйләгеҙ, нимә кәрәк икәнен һорағыҙ, кәрәк булһа, йыуаш юмор ҡулланығыҙ. |
+| Урта | Тыныс урында бер-бер менән һөйләшегеҙ. Әкрен һөйләгеҙ, күҙгә ҡарағыҙ, эйе йә юҡ тигән һорауҙар ҡулланығыҙ, аҙым-аҙым күрһәтмәләр бирегеҙ, тәнҡит итмәгеҙ һәм төҙәтмәгеҙ. |
+| Һуңғы | Алдынан килегеҙ һәм үҙегеҙҙе таныштырығыҙ. Күрһәтеүгә һәм ымдарға ярҙам итегеҙ. Тейеү, тауыш, күренеш һәм еҫтәр ҡулланығыҙ. Улар юҡ кеүек итеп һөйләмәгеҙ. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Кешеләр төрлө, шул уҡ кеше яҡшы һәм ауыр көндәр кисерергә мөмкин. Ярлыҡҡа түгел, ул кеше хәҙер нисек торғанына яуап бирегеҙ.
 
-## Can pictures and activities make conversation easier?
+## Рәсемдәр һәм уйындар һөйләшеүҙе еңелләтә алалырҙа?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Эйе. Уртаҡ рәсем баҫымды кәметә һәм икегеҙгә ҡарарға һәм күрһәтергә нәмә бирә.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Рәсем һорауҙары.** [Conversation Cards](/games/conversation-cards/) тикшереүҙе эшләмәгән асыҡ һорауҙар менән рәсемдәр тәҡдим итә.
+- **Ғаилә фотолары.** [Photo Pairs](/games/photo-pairs/) һеҙ һайлаған фотоларҙы йомшаҡ парлау уйынына әйләндерә, ул йыш ҡына хикәйәләр уята.
+- **Танылған әйтемдәр.** [Finish the Saying](/games/finish-the-saying/) билдәле әйтемдәрҙе ҡулланып, һөйләшеү темаһына алып бара.
+- **Парлау уйыны фон булараҡ.** [Picture Pairs](/games/picture-pairs/) һөйләшкәндә ҡулдарығыҙға эш бирә.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Күберәк өсөн ҡарағыҙ: [уйындарҙы бергә нисек уйнарға](/caregiving/how-to-play-together/) һәм [иҫләү эштәре](/activities/reminiscence/). Ҡунаҡлашыу һәм шылтыратыуҙар өсөн беҙҙең [ҡунаҡлашыу](/activities/visiting/) һәм [телефон һәм видео шылтыратыуҙар](/activities/phone-and-video-calls/) тураһындағы яҙмаларҙы уҡығыҙ.
 
-## What if I lose my patience?
+## Сабырлыҡ бөтһә нимә эшләргә?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Был һәркем менән була. NIA, әгәр көйһөҙлөк арта икән, бер аҙ тынысланырға кәрәклеген әйтә. Икенсе бүлмәгә сығығыҙ, бер нисә әкрен тын алығыҙ, һуңынан мөмкинлек булғанда ҡайтығыҙ. Һөйләшеүҙе һәр ваҡыт яңынан башлай аласығыҙ, һәм кеше һеҙҙең тыныс кәйефегеҙгә яуап бирергә мөмкин. Әгәр көйһөҙлөк даими булып китһә, был һеҙгә өҫтәмә ярҙам кәрәклеген күрһәтә, үҙегеҙҙең етешһеҙлегегеҙ түгел. [Ҡайғыртыусыларҙың үҙ-үҙен ҡарауы](/caregiving/caregiver-self-care/) тураһындағы кулланмабыҙҙа ярҙам таба торған урындар бар.

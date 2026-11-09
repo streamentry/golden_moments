@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Ҡараусының үҙ-үҙен ҡарауы: ял, ярҙам һәм арыу билдәләре"
+seoTitle: "Деменция ҡараусыһы: ял һәм ярҙам"
+description: "Ҡараусы арыуының билдәләре, ял һәм ярҙам эҙләү, АҠШ-тың бушлай телефондары: Alzheimer's Association 24/7 Helpline, Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Деменция менән йәшәгән кеше ҡарау — ауыр эш, һәм үҙегеҙҙе ҡарау ошо эштең бер өлөшө. Арыуҙың алдан билдәләренә иғтибар итегеҙ: тиҙ арыу, асыуланыу, насар йоҡо, дуҫтарҙан айырылыу. Конкрет ярҙам һорағыҙ, ваҡытлыҡ ҡарауҙан (respite care) файҙаланығыҙ һәм ярҙам төркөмөнә ҡушылығыҙ. АҠШ-та бушлай ярҙам: Alzheimer's Association 24/7 Helpline 1-800-272-3900 һәм Eldercare Locator 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Арыу ешләп күренә: тиҙ арыу, асыуланыу, насар йоҡо, моңһоҙлоҡ һәм үҙ һаулығың хаҡында ҡайғыртмау."
+  - "Ваҡытлыҡ ҡарау һеҙгә ял бирә: ҡайһы саҡ бер нисә сәғәттән берничә аҙнаға тиклем, өйҙә йәки ҡарау учреждениеһында."
+  - "Конкрет эштәр буйынса ярҙам һорағыҙ; күптәр ярҙам итергә теләй, ләкин нимә эшләргә икәнен белмәй."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) теләһә ҡасан бушлай, конфиденциаль ярҙам күрһәтә."
+  - "Eldercare Locator (1-800-677-1116) һеҙҙе урындағы хеҙмәттәргә, шул иҫәптән Area Agency on Aging-ға тоташтыра."
+  - "АҠШ-та кризис хәлендә 988 номерына шылтыратығыҙ йәки СМС яҙығыҙ. Ғәжәл хәлдә 112 номерына шылтыратығыҙ."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Ҡарауса арыуының билдәләре нимә?"
+    a: "Иң ешле билдәләр: арыу, ауыр йөк йәки борсолоу тойоу, тиҙ асыуланыу йәки сабырһыҙланыу, йоҡо бүленеүе, моңһоҙлоҡ йәки өмөтһөҙлөк, дуҫтарҙан айырылыу, йыш баш ауыртыуы йәки ауырыу, шулай уҡ үҙегеҙҙең ашауҙы, спортты йәки медицина ярҙамын ҡәҙерһеҙ итеү. Был билдәләр даими булһа, табибығыҙға мөрәжәғәт итегеҙ."
+  - q: "Яным янында ваҡытлыҡ ҡарау табырға нишләйем?"
+    a: "Eldercare Locator (1-800-677-1116 йәки eldercare.acl.gov) аша урындағы Area Agency on Aging-ҡа, ARCH National Respite Locator Service-ға йәки Alzheimer's Association Helpline-ға (1-800-272-3900) мөрәжәғәт итегеҙ. Ғаиләһе, дуҫтары һәм волонтерҙар да ваҡытлыҡ ҡарау бирә ала."
+  - q: "Medicare ваҡытлыҡ ҡарауҙы түләйме?"
+    a: "National Institute on Aging мәғлүмәтенсә, hospice ҡарауында булған кеше өсөн Medicare хастаханәлә йәки белгес ҡарау учреждениеһында өҙлөкһеҙ биш көнгә тиклем ваҡытлыҡ ҡарауҙың күпселек хаҡын ҡаплай. Күпселек шәхси сәләмәтлек сигорталары ваҡытлыҡ ҡарауҙы ҡапламай; Medicaid һәм кайһы бер озаҡ мөддәтле ҡарау сигорта пландары ярҙам итә ала."
+  - q: "Alzheimer's Association Helpline сынлап бушмы һәм төнө буйы эшләйме?"
+    a: "Эйе. Alzheimer's Association әйтеүенсә, уның 1-800-272-3900 Helpline-ы бушлай, конфиденциаль һәм йыл буйы, тәүлек әйләнәһенә эшләй, күп телдәрҙә ярҙам күрһәтә. Relay хеҙмәте өсөн 711 номерын йыйығыҙ."
+  - q: "Ҡарау эшенән ял алыу — үҙ-үҙеңде ярлыҡау булыуымы?"
+    a: "Юҡ. Ял һеҙгә ҡарауҙы дауам итергә ярҙам итә, ә ваҡытлыҡ ҡарау ҡарап торған кешегә лә яңы кешеләр һәм эшмәкәрлек бирә ала. Күп ҡарауҙар һуңынан ярҙамды иртәрәк һорарға кәрәк ине, тип әйтәләр."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Әгәр һеҙ деменция менән йәшәгән кешегә ҡарайһығыҙ, был битте ихтимал, аҡрын, арыған хәлдә һәм эшләп бөтмәгән эштәр исемлеге менән уҡыйһығыҙ. Был ғәҙәти. Үҙегеҙҙе ҡарау — бүләк йәки бөтә эште бөтөрөүҙең шарты түгел. Ул һеҙгә дауам итергә ярҙам итә.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Был биттә арыу билдәләре, ысын ял алыу юлдары, ярҙам табыу урындары һәм бөгөн шылтыратып була торған АҠШ-тың бушлай ярҙам телефондары хаҡында яҙылған.
 
-## What are the signs of caregiver burnout?
+## Ҡарауса арыуының билдәләре нимә?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Арыу аҡрын ғына килеп инә, шуға күрә үҙегеҙҙең билдәләрегеҙҙе белеү файҙалы. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ҡарау стрессының билдәләрен һанай, шул иҫәптән:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- арыу, ауыр йөк йәки борсолоу тойоу;
+- тиҙ асыуланыу йәки сабырһыҙланыу;
+- яңғыҙлыҡ тойоу йәки башҡалардан айырылыу;
+- йоҡо бүленеүе йәки етерлек йоҡо алмау;
+- моңһоҙлоҡ йәки өмөтһөҙлөк, элек ярату менән эшләгән эштәргә ҡыҙыҡһыныуҙың юғалыуы;
+- йыш баш ауыртыуы, ауырыу йәки башҡа физик проблемалар;
+- үҙегеҙ өсөн спорт йәки сәләмәт ашау өсөн ваҡыт булмауы;
+- шәхси гигиена эштәрен (йыуыныу һ.б.) ташлау;
+- спирт йәки наркотиктарҙы, шул иҫәптән рецепт буйынса дарыуҙарҙы, дөрөҫ булмаған рәүештә ҡулланыу.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) өҫтәп ҡуя: ауырыуҙы инкар итеү, кеше өсөн асыу («ул ысынлап та ҡаты баш»), киләсәк өсөн борсолоу, иғтибарҙы туплай алмау һәм һаулыҡтың зыян күреүе. Был билдәләр даими булһа, табибығыҙға әйтергә кәрәк.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA кәңәше: тулыһынса ҡалғанға тиклем көтмәгеҙ. Билдәләрҙе иртә күрегеҙ һәм шул саҡта эш итегеҙ.
 
-## What can I do today, in five minutes?
+## Бөгөн, биш минутта, нимә эшләй алам?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Ҡыҫҡа ял ҙа һанала. Береһе лә арыуҙы бөтөнләй төҙәтмәй, ләкин ҡыйын көндө үткәрергә ярҙам итә ала.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Тышҡа сығығыҙ.** Ҡарап торған кеше ҡәүемле һәм тыныс ваҡытта балконда ултырығыҙ йәки почтаға барып ҡайтығыҙ.
+- **Баяу тын алығыҙ.** Ҡыйын һорауға яуап биреү алдынан бер нисә баяу тын алығыҙ. Ҡарап торған кеш менән дә [Тыныс алыу](/games/calm-breathing/) тынлығын бүлешә алаһығыҙ.
+- **Һыу эсегеҙ, ашағыҙ.** Үҙегеҙҙең ашығыҙҙы онотоу еңел.
+- **Бер дуҫығыҙға СМС яҙығыҙ.** Бер нәмә һорамай ғына, аралашыу өсөн.
+- **Үҙегеҙгә яҡшы һүҙ әйтегеҙ.** NIA-ның [үҙегеҙҙе ҡарау буйынса ҡулланмаһы](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) мәҫәлән шундай фразалар тәҡдим итә: «Мин мөмкин тиклем яҡшы эшләйем», «Мин камил түгелмен, һәм был ҡурҡыныс түгел», һәм «Тыныслыҡта бергә булған мәлдәрҙән ләззәт алырмын».
 
-## What is respite care, and how do I get it?
+## Ваҡытлыҡ ҡарау нимә һәм ул нисек алына?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Ваҡытлыҡ ҡарау — һеҙ ҡараған кешегә ҡыҫҡа мөҙҙәтле ҡарау, шул ваҡытта һеҙ ял ала аласығыҙ. NIA-ның [ваҡытлыҡ ҡарау буйынса биттә](https://www.nia.nih.gov/health/caregiving/what-respite-care) әйтелгәнсә, ул берничә сәғәттән берничә аҙнаға тиклем дауам итә ала, өйҙә, сәләмәтлек һаҡлау учреждениеһында йәки өлкәндәр көндөҙгө ҡарау үҙәгендә булырға мөмкин.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) киң таралған төрҙәрен һанай:
 
-| Type | What it is |
+| Төр | Ул нимә |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Өйҙә ярҙам | Дуҫ, туғандаш, волонтер йәки түләүле юлдаш йәки ярҙамсы өйгә килә |
+| Өлкәндәр көндөҙгө үҙәге | Музыка, рәсем һ.б. кеүек план буйынса саралар ҡәүемле төркөм мөхитендә; транспорт һәм аш йыш бирелә |
+| Төндә йәки ҡыҫҡа торошло тороу | Оҙаҡ мөддәтле ҡарау берләшмәһе ҡарап торған кешене бер төн, берничә көн йәки берничә аҙнаға алып тора |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Кем түләй?** NIA-ға ярашлы, ғаиләнән, дуҫтарҙан йәки волонтерҙарҙан ваҡытлыҡ ҡарау бушлай булырға мөмкин. Профессиональ хеҙмәттәр сәғәт йәки көн менән хаҡ ала. Hospice ҡарауында булған кеше өсөн Medicare хастаханәлә йәки белгес ҡарау учреждениеһында өҙлөкһеҙ биш көнгә тиклем ваҡытлыҡ ҡарауҙың күпселек хаҡын ҡаплай. Medicaid ярҙам итергә мөмкин. Күпселек шәхси сәләмәтлек сигорталары ваҡытлыҡ ҡарауҙы ҡапламай, ә кайһы бер озаҡ мөддәтле ҡарау сигорталары ҡаплай.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Кәңәш:** Alzheimer's Association ваҡытлыҡ ҡарау биреүселәре менән алдан, ғәжәл булмаған хәлдә танышырға тәҡдим итә, шулай итеп ҡыйын саҡта улар әҙер булыр.
 
-## Where can I find help near me?
+## Яҡын арала ярҙамды ҡайҙан табырға?
 
-Several free US services can point you to local help.
+Бер нисә бушлай АҠШ хеҙмәте урындағы ярҙам табырға ярҙам итә.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) бушлай һәм конфиденциаль, йыл буйы, аҙнаның бөтә көндәрендә, 200-ҙән ашыу телдә (ике телле хеҙмәткәрҙәр йәки тәржемәселәр аша) ярҙам күрһәтә. Relay хеҙмәте өсөн 711 йыйығыҙ. Һеҙ тәртип үҙгәрештәре, ҡарау стрессы, ваҡытлыҡ ҡарау варианттары, урындағы программалар һ.б. хаҡында һөйләшә алаһығыҙ һәм ҡарау консультанты менән оҙағыраҡ һөйләшеүҙе һорай алаһығыҙ. Хеҙмәткәрҙәр медицина кәңәше бирмәй.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living-ның йәмәғәт хеҙмәте, өлкән йәштәге кешеләргә һәм уларҙың ғаиләләренә хеҙмәттәргә тоташтыра. Өйрәтелгән хеҙмәткәрҙәргә шылтыратып, СМС, онлайн чат йәки электрон почта аша мөрәжәғәт итә аласығыҙ, йәки урын буйынса эҙләй аласығыҙ. Ул һеҙҙе урындағы Area Agency on Aging-ҡа йүнәлтә ала.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) штат буйынса ваҡытлыҡ ҡарау биреүселәрҙе табырға ярҙам итә һәм әгәр штатта булһа, элек State Respite Coalition йәки Lifespan Respite программаһы менән бәйләнергә кәңәш итә. ARCH әйтеүенсә, ул биреүселәрҙе тикшермәй, шуға күрә уларҙың тәжрибәһен һәм биографияһын үҙегеҙ ҡарағыҙ.
 
-## How do I find a support group?
+## Ярҙам төркөмөн нисек табырға?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Helpline-дан һорағыҙ йәки яҡын арала төркөмдәрҙе интернетта эҙләгеҙ. Alzheimer's Association [ҡарауселәр һәм деменция менән йәшәгән кешеләр өсөн ярҙам төркөмдәре](https://www.alz.org/help-support/community/support-groups) ойоштора, шәхсән йәки онлайн, өйрәтелгән алып барыусылар менән. Күп урындарҙа махсус төркөмдәр лә бар, мәҫәлән, олоҙаҡ ҡарауселәр өсөн, йәки йәш йәштә йәки башлангыс баҫҡыстағы Альцгеймер ауырыуы менән йәшәгән кешеләр өсөн. Ул шулай уҡ ALZConnected, ҡарауселәр кәңәш менән уртаҡлаша торған бушлай онлайн берләшмәне алып бара.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ярҙам төркөмдәре хөкөм итмәйенсә, теләһә нәмәне әйтергә, тәжрибәле кешеләрҙән практик кәңәштәр алырға һәм яңғыҙлыҡты кәметергә урын була ала. Беренсе төркөм тап килмәһә, икенсеһен һынап ҡарағыҙ.
 
-## How do I ask family and friends for help?
+## Ғаиләнән һәм дуҫтарҙан ярҙам һорарға нисек?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Конкрет булығыҙ. Күптәр ярҙам итергә теләй, ләкин нимә тәҡдим итергә белмәй. NIA тәҡдим итә:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Исемлек яҙығыҙ** — башҡалар ала алған эштәр, һәм кешеләргә үҙҙәре һайлап алырға мөмкинлек бирегеҙ.
+- **Кесе башлағыҙ**, әгәр һорау бирергә ҡыйын булһа.
+- **Эште кешегә тап килтерегеҙ.** Аш пешерергә яратҡан ҡустығыҙ шимбә көнөндә аш алып килә. Ҡағыҙҙар менән оҫта дуҫығыҙ документтар менән ярҙам итә.
+- **СМС йәки электрон почта ебәрегеҙ**, йөҙ-йөҙгә һорау ауыр булһа.
+- **Яуап әҙерләгеҙ**, кем дә булһа тәҡдим иткәндә: «Рәхмәт, һорағаныңа. Бына нимә эшләй аласың.»
+- **Баш тартыуҙарҙы көтөгөҙ** һәм уларҙы шәхси итеп тоймаҫҡа тырышығыҙ.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Башҡа фекерҙәр: кемдәндер аҙнаға бер ярым сәғәт ҡарап торорға һорағыҙ, ҡыҫҡа сәйәхәткә алып барығыҙ, йәки бергә уйын уйнағыҙ. [Бергә уйнау буйынса беҙҙең ҡулланмабыҙ](/caregiving/how-to-play-together/) ҡунаҡтар менән уртаҡлашыу өсөн ябай.
 
-## What if something happened to me?
+## Миңә лә бер нәмә булһа?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Хәҙер ябай резерв план төҙөгөҙ. NIA тәҡдим итә: ғаиләгеҙ йәки яҡын дуҫтарығыҙ менән кем һеҙҙең урынығыҙға инә алыуын алдан килешегеҙ, һәм ғәжәл номерҙар, дарыуҙар, эшләгән тәртип кәңәштәре һәм яратҡан эштәр яҙылған блокнот тотоғоҙ. Alzheimer's Association шулай уҡ ҡарап торған кешенең медицина контактарын һәм яңыртылған дарыу исемлеген ябай табыла торған урында тотоуҙы тәҡдим итә.
 
-## When should I get professional or urgent help?
+## Профессиональ йәки ғәжәл ярҙам ҡасан кәрәк?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Стресс билдәләре даими булһа, һеҙ депрессия тойһағыҙ, йәки көс-хәлгеҙ етмәһә, табибығыҙға әйтегеҙ. Табибҡа ҡарауселәр булыуығыҙҙы әйтегеҙ. NIA әйтеүенсә, консультанттар һәм социаль хеҙмәткәрҙәр ауыр тойғолар һәм планлаштырыуҙа ярҙам итә ала, һәм Medicare, Medicaid һәм кайһы бер шәхси сигорталар психик һаулыҡ сығымдарының өлөшөн ҡаплай ала.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Әгәр һеҙ кризиста тойһағыҙ йәки үҙегеҙгә зыян килтерергә уйлаһағыҙ, АҠШ-та [988 Suicide & Crisis Lifeline](https://988lifeline.org/) номерына, 988-гә шылтыратығыҙ йәки СМС яҙығыҙ; ул бушлай һәм 24/7 эшләй. Кемдер ғәжәл хәүеф аҫтында булһа, 112 номерына шылтыратығыҙ.
 
-## Can shared activities give me a break too?
+## Уртаҡ эшмәкәрлек миңә лә ял бирә аламы?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Ҡайһы саҡ — эйе. Икегеҙгә лә ошаған тыныс эшмәкәрлек ҡарап торған кеш менән бергә көндө йомшарта ала: көйҙәр тыңлау, фотоларға ҡарау, йәки [Һөйләшеү карталары](/games/conversation-cards/) кеүек уйын, унда дөрөҫ яуап кәрәк түгел. Әгәр кеше компанияны ярата икән, өлкәндәр үҙәгендә йәки көндөҙгө программала [Һүрәтле бинго](/games/picture-bingo/) менән төркөм сессияһы һеҙгә бер сәғәт ял бирә ала. Идеялар өсөн [ҡарау өйҙәре төркөмдәре өсөн эшмәкәрлек](/activities/care-home-groups/) бүлеген ҡарағыҙ.

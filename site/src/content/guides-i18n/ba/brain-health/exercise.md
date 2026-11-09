@@ -1,32 +1,31 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Физик хәрәкәт һәм аң һаулығы: тикшереүҙәр нимә күрһәтә"
+seoTitle: "Физик хәрәкәт һәм деменция: тикшереүҙәр нимә әйтә"
+description: "Тикшереүҙәр физик хәрәкәт һәм деменция хәүефе араһында нимә бәйләй, һәм картайған һәм деменция менән йәшәгән кешеләр өсөн хәүефһеҙ, рәхәтле хәрәкәт ысулдары."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Тикшереүҙәр регуляр физик хәрәкәт менән деменция хәүефенең кәмеүе араһында бәйләнеш таба, ә 2024 йылғы
+  Lancet комиссияһы физик хәрәкәтһеҙлекте 14 үҙгәртелә ала торған хәүеф факторының береһе итеп атай. Һынаулар
+  күнекмәнең деменцияны киртеүен иҫбатламаған. Ләкин хәрәкәт көс, тәңгәллек, кәйеф һәм йоҡоға ярҙам итә, шуға
+  күрә йөрөү, урындыҡ күнекмәләре һәм бейеү үҙ файҙаһы өсөн дә файҙалы. Яңы күнекмә башлар алдынан врач менән кәңәшләшегеҙ.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Физик яҡтан әүҙем кешеләрҙә деменция хәүефе орташа булараҡ түбәнерәк, ләкин был нигеҙҙә күҙәтеү тикшереүҙәренән, һынауҙарҙан түгел."
+  - "Картайған кешеләр араһында биш йыллыҡ күнекмә һынауы төркөмдәр араһында аң һәләттәрендә асыҡ айырма күрһәтмәне."
+  - "CDC-ның 65 йәш һәм өлкәнерәк кешеләр өсөн тәҡдимдәре аэробик, мускул нығытыу һәм тәңгәллек күнекмәләрен үҙ эсенә ала һәм ҡайһы бер хәрәкәт әллә ни булмауҙан яҡшыраҡ, тип әйтә."
+  - "Деменция менән йәшәгән кешеләр өсөн ҡыҫҡа, таныш, бергәләп башҡарылған хәрәкәт, мәҫәлән, көнсағыш йөрөү йәки урындыҡта уйындар, теләгән маҡсаттан мөһимерәк."
+  - "Картайған кешеләрҙең дүрттән бер өлөшөнән күберәге йыл һайын ауа, шуға күрә тәңгәллек күнекмәләре һәм хәүефһеҙ урын беренсе урында тора."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Физик хәрәкәт деменцияны киртә аламы?"
+    a: "Был тураһында һис кем вәғәҙә бирә алмай. Күп тикшереүҙәр әүҙем булыуҙы деменция хәүефенең кәмеүе менән бәйләй, ләкин клиник һынауҙар күнекмәнең деменцияны киртеүен күрһәтмәне. Физик хәрәкәттең башҡа иҫбатланған файҙалары ҡалай, шуға күрә ул әле лә кәрәк."
+  - q: "Деменция менән йәшәгән кеше өсөн күнекмә ҡурҡынысһыҙмы?"
+    a: "Алдан планлаштырылған осраҡта, ғәҙәттә, ҡурҡынысһыҙ. NIA яңы режим башлар алдынан кеше врачына мөрәжәғәт итергә, рәхәт аяҡ кейеме һайларға, һыу тәҡдим итергә һәм сессияларҙы ҡыҫҡа тоторға кәңәш итә. Кеше арыған, теңрәп йәки ҡәнәғәтһеҙ күренһә, туҡтағыҙ."
+  - q: "Ултырып башҡарыла торған кә күнекмәләр кайҙа?"
+    a: "Ултырып эшләү варианттары: урындыҡта һуҙылыу йәки урындыҡ йогаһы, бал ҡапсыҡтарын ырғытыу, йомшаҡ туп йәки шарик атыу, аш консервы банкаларын күтәреү, эластик таҫмалар һәм педальле тренажерҙар. Йөрөү ауыр булғанда, был яҡшы һайлау."
+  - q: "Кеше хәрәкәт итергә теләмәһә нисек?"
+    a: "Көсләмәгеҙ. Һуңыраҡ янынан булығыҙ, үҙегеҙ ҡушылығыҙ, таныш көйҙәр ҡуйығыҙ йәки хәрәкәтте эш менән алыштырығыҙ: һепереү йәки сәскәләргә һыу һибеү. Почтаға ҡыҫҡа барыу ҙа һанала, бергәләп тышта ултырыу ҙа."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +50,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Физик хәрәкәт — аң һаулығы буйынса иң күп өйрәнелгән ғәҙәттәрҙең береһе. Тикшереүҙәр уны деменция хәүефенең кәмеүе менән бәйләй, ләкин күнекмәнең деменцияны киртеүен иҫбатламаған. Әммә асыҡ нәмә бар: хәрәкәт теләһә ниндәй йәштә көс, тәңгәллек, кәйеф һәм йоҡоға ярҙам итә. Был биттә тикшереүҙәр нимә әйтә, өлкән йәштәге кешеләргә нисә күләмдә хәрәкәт кәңәш ителә, һәм деменция менән йәшәгән кеше менән йомшаҡ рәүештә нисек хәрәкәт итергә — шул тураһында яҙылған.
 
-## Does exercise lower the risk of dementia?
+## Физик хәрәкәт деменция хәүефен кәметәме?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Тикшереүҙәр физик яҡтан әүҙем кешеләрҙең деменция менән ауырыу ихтималлығы түбәнерәк икәнен күрһәтә, ләкин дәлилдәрҙең сиктәре бар. [2024 йылғы Lancet комиссияһы деменция буйынса](https://doi.org/10.1016/S0140-6736(24)01296-0) физик хәрәкәтһеҙлекте 14 үҙгәртелә ала торған хәүеф факторының береһе итеп атай. Был 14 фактор, уларҙың моделе буйынса, донъяла деменцияның яҡлап 45%-ын барлыҡҡа килтерә.
 
-Here is what the evidence looks like:
+Дәлилдәр былай күренә:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Күҙәтеү тикшереүҙәре бер яҡҡа күрһәтә.** Комиссия искә алған 58 тикшереүҙе бергә туплап ҡарағанда, физик яҡтан әүҙем кешеләрҙең деменция хәүефе яҡлап 20%-ҡа түбәнерәк булған. Иң ҙур айырма тулыһынса хәрәкәтһеҙ кешеләр менән ни кәмендә бер аз хәрәкәт иткән кешеләр араһында булған.
+- **Бәйләнеш ике яҡлы булыуы мөмкин.** Комиссия хәрәкәтһеҙлектең хәүефте арттырыуы мөмкинлеген билдәләй. Шулай уҡ деменцияның ерҙә башланған мейе үҙгәрештәре, улар диагноздан бер нисә йыл элек башлана, кешеләрҙе әҙерәк хәрәкәт итергә этәреүе ихтимал, тип яҙа.
+- **Һынауҙар асыҡ түгел.** Бер һынауҙа 78 йәш самаһындағы 945 өлкән кеше биш йыл дауамында аҙнаһына ике тапҡыр күҙәтелгән күнекмәләргә йәки сағыштырыу төркөмөнә бүленгән. Аҙаҡ аң һәләттәре төркөмдәр араһында асыҡ айырылмаған. Сағыштырыу төркөмендәге күп кеше лә әүҙем булған, был һөҙөмтәне аңлауҙы ауырлаштыра.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Ҡартайыу буйынса АҠШ милли институты (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) был хаҡта асыҡ әйтә. Альцгеймер ауырыуын киртеү менән физик хәрәкәт араһында асыҡ бәйләнеш билдәле түгел, ә күнекмәнең ауырыуҙы киртеүен йәки һуҙыуын әйтерлек дәлил етмәй. Шулай ҙа хәрәкәт йыҡылыу, депрессия, ҡант диабеты, юғары ҡан баҫымы һәм инсульт хәүефен кәметә. Ошо ауырыуҙарҙың береһе лә үҙе аң һәләттәренең кәмеүе менән бәйләнгән.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Асыҡ һығымта: хәрәкәт итегеҙ, сөнки ул бөгөн үҙегеҙҙе яҡшыраҡ һиҙергә һәм эшләргә ярҙам итә. Мейе файҙаһы — ихтимал өҫтәмә бүләк, вәғәҙә түгел.
 
-## How much activity do older adults need?
+## Өлкән кешеләргә нисә күләмдә хәрәкәт кәрәк?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[65 йәш һәм өлкәнерәк кешеләр өсөн CDC тәҡдимдәре](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) һәр аҙнала өс төр хәрәкәт кәңәш итә:
 
-| Type | Weekly amount | Examples |
+| Төр | Аҙналыҡ күләм | Миҫалдар |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Аэробик | Кәм тигәндә 150 минут урта дәрәжәле хәрәкәт, мәҫәлән, 5 көн 30 минут | Тиҙ йөрөү, бейеү, һыу аэробикаһы |
+| Мускул нығытыу | Кәм тигәндә 2 көн, бөтә эре мускул төркөмдәре өсөн | Еңел гантелдәр йәки аш консервы банкалары күтәреү, эластик таҫмалар |
+| Тәңгәллек | Даими | Табан-тубыҡ менән йөрөү, урындыҡтан торорға |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Был маҡсаттар, талаптар түгел. CDC әйтеүенсә, әгәр улар тултырыла алмаһа, үҙ һәләтегеҙ һәм һаулығығыҙ рөхсәт иткән тиклем әүҙем булығыҙ. Ҡайһы бер хәрәкәт әллә ни булмауҙан яҡшыраҡ.
 
-## Gentle ways to move for older adults
+## Картайған кешеләр өсөн рәхәт хәрәкәт ысулдары
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Иптәш менән йөрөгөҙ.** Көнсағыш йөрөү дуҫ, күрше йәки йөрөү төркөме менән һөйләшеүгә һәм хәүефһеҙлеккә ярҙам итә.
+- **Урындыҡ күнекмәләре.** Ултырып ҡул күтәреү, ҡулыҡ буғындарын әйләндереү, урында атлау һәм урындыҡ йогаһы көс өсөн яраған, тәңгәллек хәүефе булмаған варианттар.
+- **Ашханәлә бейеү.** Кешенең үҫмерлек һәм ике-өс-дистә йәштәрендәге көйҙәрен ҡуйығыҙ, һелкенегеҙ, баҫығыҙ. Беҙҙең [музыка күнекмәләре буйынса бит](/activities/music/) идеялар бирә.
+- **Өй әйберҙәре менән көс.** Тултырылған һыу шешәләрен йәки аш консервы банкаларын фильм ҡарағанда күтәреү.
+- **Баҡса ҡарау йәки ҡулдан эш.** Сәскәләргә һыу һибеү, тырмалау, һепереү һәм кер ҡатлау — барыһы ла иҫәпкә инә. Ҡарағыҙ: [тышта һәм баҡсала күнекмәләр](/activities/outdoor-and-gardening/) һәм [ҡулдан эштәр](/activities/household-tasks/).
+- **Һыу менән күнекмәләр.** NIA һыу аэробикаһы кластарын, ер өҫтөндәге күнекмәләр буғындар өсөн ауыр булған кешеләр өсөн бер вариант итеп атай.
 
-## How to exercise with someone living with dementia
+## Деменция менән йәшәгән кеше менән нисек күнекмә башҡарырға
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Деменция менән йәшәгән кеше өсөн маҡсат — рәхәтлек, ләззәт һәм көнүҙәк һәләттәрҙе һаҡлау, һан-маҡсатҡа ирешеү түгел. NIA әйтеүенсә, физик хәрәкәт Альцгеймер менән йәшәгән кешенең мускулдарын, буғындарын һәм йөрәген торошта тота, шулай уҡ кәйефте һәм йоҡоны яҡшырта ала. Яңы режим башлар алдынан уның врачы менән кәңәшләшегеҙ. [NIA-ның караусы өсөн ҡулланмаһындағы](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) тәҡдимдәр:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Көн һайын бергә йөрөгөҙ.** Хәүефһеҙ, таныш юлды һайлағыҙ, юлда киртәләр булмаһын. Әгәр кеше яңғыҙ йөрөһә, телефон номерын яҙылған ID браслет яҡшы фекер.
+2. **Өлкән кешеләр өсөн күнекмә видеоларын ҡарағыҙ.** Бергәләп ултырып йәки баҫып ҡабатлағыҙ.
+3. **Сессияларҙы ҡыҫҡа итегеҙ.** Бер оҙон күнекмәнән күрә, бер нисә ҡыҫҡа «мини-күнекмә» яҡшыраҡ эшләүе ихтимал.
+4. **Музыка өҫтәгеҙ.** Таныш йырҙар хәрәкәтте эш түгел, ә эшмәкәрлек итеп тоя. Кеше яратһа, бейегеҙ.
+5. **Һыу һәм ҡулай кейем тәҡдим итегеҙ.** Күнекмә ваҡытында һәм унан һуң һыу йәки шешә шыйыҡлыҡ биреп тороғоҙ, күнекмә өсөн яраған ҡулай кейем һәм тап килгән аяҡ кейеме кейегеҙ.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Йөрөү ауыр булһа, [Альцгеймер менән йәшәгән кешегә ҡарау буйынса NIA ҡулланмаһы](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ултырып башҡарыла торған варианттар тәҡдим итә: урындыҡ күнекмәләре йәки йога, бал ҡапсыҡтарын ырғытыу, йомшаҡ туп йәки шарик ырғытыу, эластик таҫмалар, еңел өй әйберҙәрен күтәреү һәм педальле тренажерҙар. Һепереү һәм сүкеү кеүек ябай эштәр ҙә һанала.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Хәрәкәттең нимә бирә алыуын реалистик баһалағыҙ. Lancet комиссияһы күнекмәнең ғәмсеҙлек кеүек кәртәләр үҙгәреүен кәметеүгә дәлил табылмаған. Бергә хәрәкәт итегеҙ, сөнки ул рәхәт булыуы мөмкин, ауыр көндө төҙәтеү өсөн түгел. Кеше «юҡ» тип әйтһә, был ҡалыплы. [Кеше «юҡ» тигәндә](/caregiving/when-they-say-no/) биттә һуңыраҡ йәнә теләүҙең йомшаҡ юлдары бар. Иртәрәк туҡтау йәки бергә тышта ултырыу ҙа яҡшы һөҙөмтә.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Хәрәкәттән һуң, мәҫәлән [Тыныс алыу](/games/calm-breathing/) кеүек тыныс туҡтау ике яҡты ла тынысландырырға ярҙам итә. Ҡулдың йомшаҡ хәрәкәте менән ултырып башҡарыла торған уйын өсөн [Бергә айырыу](/games/sort-together/) һәм [Һүрәтле бинго](/games/picture-bingo/) өҫәлдә яҡшы эшләй.
 
-## Balance and fall safety
+## Тәңгәллек һәм йыҡылыуҙан һаҡланыу
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Йыҡылыу йыш осрай һәм ауыр. [CDC мәғлүмәттәре](https://www.cdc.gov/falls/data-research/facts-stats/index.html) күрһәтеүенсә, картайған кешеләрҙең дүрттән бер өлөшөнән күберәге йыл һайын ауа, ә ярты кешеләрҙән аҙы ғына врачына әйтә. Бер тапҡыр ауыу йәнә ауыу хәүефен ике тапҡырға арттыра. CDC иҫкәрткән хәүеф факторҙары:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Аяҡтар һәм ҡалҡан көсһөҙлөгө
+- Йөрөүҙә һәм тәңгәллектә ауырлыҡ
+- Ҡайһы бер дарыуҙар, шул иҫәптән тынысландырыусылар һәм ҡайһы бер антидепрессанттар
+- Күреү проблемалары
+- Табан ауырыуы йәки яраҡһыҙ аяҡ кейеме
+- Өйҙәге хәүеф: артыҡ әйберҙәр, эҙәрлек килемдәре (ковриктар), һыныҡ баҫҡыстар
 
-To move more safely:
+Хәүефһеҙ хәрәкәт итер өсөн:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Тотҡолоҡлы урындыҡ** кулланығыҙ, тәгәрәүсе түгел, һәм баҫып тороу күнекмәләре өсөн таянысҡа йәки тотҡаға яҡын булығыҙ.
+- **Урынды таҙартығыҙ**: элек эҙәрлек килемдәрен, сымдарҙы һәм артыҡ әйберҙәрҙе алығыҙ.
+- **Баҫып торғанда әкрен** булығыҙ, кеше баш әйләнеү йәки тотороҡһоҙлоҡ тойһа, туҡтағыҙ.
+- **Таянысы булған аяҡ кейеме** кейегеҙ, оса һәм бушлай тапочкаларҙан һаҡланығыҙ.
+- **Тәңгәллекте таянысҡа яҡын күнегегеҙ.** Урындыҡтан торорға һәм табан-тубыҡ менән йөрөргә — CDC тәңгәллек күнекмәләренә миҫалдар.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC кәңәш итә: башын һуҡҡан өлкән кеше, айырыуса ҡан йоҡарта торған дарыу эсһә, шунда уҡ врачҡа барырға тейеш.
 
-## Talk with a doctor
+## Врач менән һөйләшегеҙ
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Яңы күнекмә башлар алдынан врач менән кәңәшләшегеҙ, айырыуса йөрәк йәки үпкә ауырыуы, буғындар ауырыуы, тәңгәллек проблемалары йәки деменция булған кеше өсөн. Врач йәки физиотерапевт хәүефһеҙ күнекмәләр тәҡдим итә ала һәм дарыуҙар тәңгәллеккә йоғонто яһай-яһамауын тикшерә ала. Һәр йыҡылыу тураһында әйтегеҙ, зарар булмаһа ла. Күнекмә ваҡытында бер нәмә һыҙлаһа йәки ярамай тойолһа, туҡтағыҙ. Кинәт күкрәктә ауырыу, тын ала алмау йәки кинәт аң буҙоу булһа, 112 шылтыратығыҙ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Был ғуумилек мәғлүмәте, медицина кәңәше түгел. Беҙҙең [медицина иҫкәрмәһенә](/medical-disclaimer/) ҡарағыҙ. Киңерәк күренеш өсөн [тикшереүҙәр деменция хәүеф факторҙары тураһында нимә әйтә](/brain-health/risk-factors/) һәм [деменцияны киртеп буламы](/brain-health/can-dementia-be-prevented/) тигән биттәрҙе уҡығыҙ.

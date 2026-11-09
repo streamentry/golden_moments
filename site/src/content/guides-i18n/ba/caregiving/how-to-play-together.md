@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Деменция менән йәшәгән кеше менән нисек уйын уйнарға"
+description: "Практик кәңәштәр: деменция менән йәшәгән кеше менән уйын уйнау, әҙерләнеү, темпты билдәләү, хаталарҙы төҙәтмәү, уйынды еңеләйтеү һәм туҡтау."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Уйынды һынау итеп түгел, бергә вакыт үткәреү итеп ҡарағыҙ. Тыныс ваҡыт һайлағыҙ,
+  тыныс бүлмәлә янма-янды ултырығыҙ һәм бер ябай уйын тәҡдим итегеҙ. Темпты кеше
+  үҙе билдәләһен, зарарһыҙ хаталарҙы төҙәтмәгеҙ, көсөргәнеш күренгәндә уйынды
+  еңеләйтегеҙ һәм һүрәттәрҙе һөйләшеүгә әйләндерегеҙ. Рәхәт булғанда туҡтағыҙ.
+  Иртә туҡтау йәки бергә генә ултырыу — яҡшы һөҙөмтә.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Маҡсат — рәхәт алыу һәм аралашыу, уйынды тамамлау йәки дөрөҫ яуап биреү түгел."
+  - "Алдан әҙерләнегеҙ: тыныс бүлмә, яҡшы яҡтылыҡ, күҙлек һәм тыңлау аппараты тағылған, телевизор һүндерелгән, бер уйын әҙер."
+  - "Зарарһыҙ хаталарҙы төҙәтмәгеҙ. Әйтегеҙ: «Был юлы башҡасса итеп ҡарайыҡ» йәки ғәҙәти рәүештә дауам итегеҙ."
+  - "Ҡыйынлыҡ тупланыр алдынан уйынды еңеләйтегеҙ: һүрәттәр аҙыраҡ, һайлау аҙыраҡ, һүрәттәр күренеп торһон."
+  - "Һүрәттәр менән «Миңә һөйләп бирегеҙ...» кеүек башланғыстар ҡулланығыҙ, «Иҫеңдәме...?» түгел."
+  - "Арыу йәки борсолоу билдәләренә ҡарап туҡтағыҙ. Иртә туҡтау — уңыш, уңышһыҙлыҡ түгел."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Уйынды ни тиклем оҙаҡ уйнарға?"
+    a: "Дөрөҫ оҙонлоҡ юҡ. Күп кешегә бер нисә минут та етә, ҡайһы көндө бер раунд ҡына етә. Сәғәткә түгел, кешегә ҡарағыҙ һәм ул тыныс ҡалғанда туҡтағыҙ."
+  - q: "Яңылышҡанда еңеп бирергә йәки һиҙмәҫкә тырышырғамы?"
+    a: "Уртаҡ, баҫымһыҙ уйында еңеү йәки еңелеү юҡ. Хата кешегә ауыр тәьҫир итмәһә, уны үткәреп ебәрегеҙ. Әгәр ауыр тәьҫир итһә, күрһәтмәй генә ярҙам итегеҙ йәки киләһе раундта уйынды еңеләйтегеҙ."
+  - q: "Улар минең уйнауымды ҡарағанды яратһа?"
+    a: "Был дөрөҫ. National Institute on Aging (NIA) кешегә, әгәр ул шуны яратһа, ябай ҡарап ултырырға рөхсәт итергә тәҡдим итә. Күргән нәмәһе тураһында һөйләшегеҙ һәм теләге буйынса күрһәтергә йәки һайларға саҡырығыҙ."
+  - q: "Был уйындар хәтерҙе тикшереү өсөнмө?"
+    a: "Юҡ. Беҙҙең уйындар — рәхәт алыу һәм һөйләшеү өсөн ябай, бергә уйнала торған эштәр. Улар хәтер һынауы түгел, бер нәмәне лә үлсәмәй һәм деменцияны дауалау саралары түгел."
+  - q: "Нимә менән башларға?"
+    a: "Кешегә тура килгән иң ябай уйын менән башлағыҙ. Дүрт плиткалы «Һүрәт пары» һәм һүрәттәре күренеп торған уйын, йәки ике варианты булған «Шул бер үк нәмәне табығыҙ» — йомшаҡ башланғыстар. Кеше һөйләшергә ҡыуанһа, «Һөйләшеү карточкалары» яҡшы килеп тиә."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Деменция менән йәшәгән кеше менән яҡшы уйын — ярыш кеүек түгел. Ул ике кешенең янма-янд ултырыуы, һүрәттәргә күрһәтеүе, маҡал буйынса көлөшөүе һәм килеп сыҡҡан нәмә тураһында һөйләшеүе кеүек күренә. Уйын — бергә вакыт үткәреү өсөн сәбәп кенә.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Был күрһәтмә уйынды нисек әҙерләргә, темпты нисек билдәләргә, «боҙолғанда» нимә әйтергә, теләһә ниндәй уйынды еңелерәк йәки бер аз ҡыйыныраҡ итергә, уны һөйләшеүгә нисек әйләндерергә һәм ҡасан туҡтарға кәрәк икәнен аңлата. Ул беҙҙең [уйындар](/games/) өсөн дә, һеҙҙә булған карталар, головоломкалар һәм таҡта уйындары өсөн дә тура килә.
 
-## What is the best way to play a game with someone who has dementia?
+## Деменция менән йәшәгән кеше менән уйын уйнаудың иң яҡшы ысулы нимә?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Ғәҙәттә уңышҡа түгел, рәхәткә иғтибар итегеҙ. Был — [Alzheimer's Association күрһәтмәһенең](https://www.alz.org/help-support/caregiving/daily-care/activities) төп кәңәше: кешенең әле булған һәләттәренә таяныҙ, башларға ярҙам итегеҙ, ауыр өлөштө үҙегеҙ тамамлағыҙ һәм зарарһыҙ эште тәнҡит итмәгеҙ, хаталарҙы төҙәтмәгеҙ.
 
-In practice that means:
+Ғәмәлдә был түбәндәгенең аңлатыла:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Янәшә ултырығыҙ, ҡаршы түгел.** Янма-янд ултырғанда икегеҙ ҙә экранды йәки өҫтәлде күрә, ярҙам итеү — ҡайғыртыу түгел, бергә эш кеүек булып тоола.
+- **Бер ваҡытта бер уйын тәҡдим итегеҙ.** Һайлау исемлеге уйын башланғансы ук имтихан кеүек тойола ала.
+- **Кешенең етәкселегенә эйәреп барығыҙ.** Әгәр ул һүрәттәрҙе үҙ тәртибе буйынса баҫҡыһы килһә, бер һүрәт тураһында ун минут һөйләшкәһе килһә, йә ике хәрәкәттән һуң туҡтағыһы килһә — бөгөнгө уйын ошо.
+- **Бөтөрөлгән раундтарҙы түгел, яҡшы мизгелдәрҙе иҫәпләгеҙ.** Йылмайыу, хикәйә йәки тыныс ярты сәғәт — эҙләгән һөҙөмтәгеҙ.
 
-## How do I set up before we start?
+## Башлар алдынан нисек әҙерләнергә?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Бер нисә минут әҙерлек — күп ҡыйынлыҡтарҙы булдырмай, улар күбенсә уйынға төртөлә.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Кешенең иң яҡшы ваҡытын һайлағыҙ.** [National Institute on Aging (NIA) күрһәтмәһе](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) сығыштарҙы һәм эште кешенең иң яҡшы хәлендә булған ваҡытҡа планлаштырырға тәҡдим итә. Күп кешегә был — иртән урталары. Кисен күберәк ауыр була; ҡарағыҙ: [кискә тыныс эштәр](/caregiving/late-day-restlessness/).
+2. **Бүлмәне тыныс итегеҙ.** Мөмкин булһа, телевизорҙы һәм радиоуҙы һүндерегеҙ, ишекте ябығыҙ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) һөйләшә башларға алдан шау-шыуҙы һәм баш бүлдергән нәмәләрҙе киҫәтергә тәҡдим итә.
+3. **Иң тәүге ҡайғыны күрегеҙ.** Яҡында эсемлек, алдан ваннаға инеү/туалетҡа барыу, яйлы урындыҡ, күҙлек һәм тыңлау аппараты тағылған булһын.
+4. **Бүлмәне яҡшы яҡтыртығыҙ.** Экранда ялтырауһыҙ, тигеҙ яҡтылыҡ һүрәттәрҙе күрергә еңелерәк итә.
+5. **Уйынды ултырыр алдынан әҙер итегеҙ.** Уны асығыҙ, көйләүҙәрен һайлағыҙ, тауышты үҙегеҙ көйләгеҙ. Һуңынан экранды уларға бороғоҙ. Планшет буйынса кәңәштәр өсөн ҡарағыҙ: [планшетты йәки телефонды көйләү](/caregiving/tablets-and-screens/).
+6. **Ҡорамалды торғоҙоғоҙ.** Планшетты тик торғоҙоп тота торған таяныс йәки тышлыҡ менән ҡулланырға мөмкин — кәрәкмәй ҡулда тотоу, күрһәтеү еңелерәк.
 
-## How do I invite them without pressure?
+## Баҫымһыҙ нисек саҡырырға?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Саҡырыуҙы ябай һәм баш тартыуы еңел итегеҙ. Күп осраҡта яҡшы килеп тигән фразалар:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Бағса һүрәттәре таптым. Беҙ улар менән бергә ҡарайыҡмы?»
+- «Был головоломкала миңә ярҙам итә алаһығыҙмы? Мин туҡталдым.»
+- «Бөгөн ҡыр гөлдәрен йәки ҡоштарҙы ҡарайыҡмы?» (ике һайлау асыҡ һорауҙан еңелерәк)
+- «Мин һеҙҙең апай өсөн открытка яһайым. Был ниндәй төҫтә булһын?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association кеүек ойошмалар эштең маҡсатын аңлатырға тәҡдим итә, мәҫәлән, дуҫҡа открытка яһау — сөнки сәбәп мәғәнә бирә. Ярҙам һорау ла эшләй, сөнки кеше үҙенең файҙалы икәнен тоя.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Уны «юҡ» тип әйтһә, ҡабул итегеҙ. Һуңыраҡ яйлап торғоҙорға йәки икенсе нәмә тәҡдим итергә мөмкин. Беҙҙең [баш тартҡанда нимә эшләргә](/caregiving/when-they-say-no/) тураһындағы күрһәтмә был хаҡта киңерәк һөйләй.
 
-## How long should a game last, and how fast should we go?
+## Уйын ни тиклем оҙаҡ барырға һәм нисек тиҙ барырға?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Темпты кеше үҙе билдәләһен, ҡыҫҡа сессиялар план итегеҙ. Бергә уйнарға «дөрөҫ» ҡатышлы оҙонлоҡ тураһында дәлилдәр юҡ. Ике-биш тыныс минут та тулы эш була ала.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Тәбиғи булғанынан оҙағыраҡ көтөгөҙ.** NIA яуап биреү өсөн вакытты киңерәк биреүҙе һәм бүлдермәүгә тырышыуҙы тәҡдим итә. Ярҙам итер алдынан башығыҙҙа ун тиклем һанағыҙ.
+- **Бер ваҡытта бер аҙым.** Бер ҡыҫҡа күрһәтмә бирегеҙ («Бер һүрәткә баҫығыҙ»), аҙаҡ көтөгөҙ. Аңлатыу урынына күрһәтегеҙ: нимә баҫырға кәрәклеген бармағығыҙ менән күрһәтегеҙ.
+- **Теләгәнсә туҡтағыҙ.** Әгәр улар һүрәт тураһында һөйләшергә туҡтаһа, уйын көтә ала. Ашыҡмағыҙ.
+- **Ҡарарға рөхсәт итегеҙ.** NIA күп кешенең ҡарарға яратыуын билдәләй, был — дөрөҫ һайлау.
 
-## Should I correct wrong answers?
+## Хаталы яуаптарҙы төҙәтергәме?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Юҡ. Кешене йыш-йыш төҙәтеү уға үҙенең уңышһыҙлыҡҡа дусар булыуын әйтә, һеҙ нисек кенә яҡшы уйлаһағыҙ ҙа. Alzheimer's Association зарарһыҙ эшкә тәнҡит итмәҫкә һәм төҙәтмәҫкә кәңәш итә. Уйында, демәк, ташлағыҙ, практик рәүештә һәр хата зарарһыҙ.
 
-| Instead of | Try |
+| Ниндәй әйтергә түгел | Нимә әйтергә |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Юҡ, был дөрөҫ түгел.» | «Был юлы башҡасса итеп ҡарайыҡ.» (NIA килтергән миҫал) |
+| «Был пар түгел. Тағы ҡарағыҙ.» | Ҡайҙа ҡалһаң — ҡалдыр, йәки «Ә, улар икеһе лә ҡыҙыл», тип әйт. |
+| «Был кемде беләһеңме?» | «Был һүрәт тураһында һөйләп бир.» |
+| «Был һүрәтте элек эшләгәнһең.» | «Был яҡшы. Тағы бер тапҡыр эшләйек.» |
+| «Һин моны беләһең бит, ҡарағыҙ.» | «Аҙаҡҡыһын күрһәтәйемме?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Әгәр хата уны асыу менән ныҡ борсолтһа, күрһәтмәй генә ярҙам итегеҙ. Дөрөҫ һүрәткә күрһәтегеҙ, үҙегеҙ бер тапҡыр уйнағыҙ, йә киләһе раундта уйынды еңеләйтегеҙ. Әгәр маҡал ҡыҙыҡлы хаталы осонда тамамланһа, улар менән бергә көлөгөҙ. Уларҙың осо бәлки яҡшыраҡ булыр.
 
-## How do I make a game easier or harder?
+## Уйынды нисек еңеләйтергә йәки ҡыйынлаштырырға?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Уйынды кешенең бөгөнгө хәленә көйләгеҙ, стадияһы буйынса түгел. Шул уҡ кеше иртән кисегә ҡарағанда ябайыраҡ версияға мохтаж булырға мөмкин. NIA-ның беренсе кәңәше — эште кешенең ни эшләй алыуына тап килтереү һәм уны уңышлы тойоуын тәьмин итеү.
 
-| Game | Make it easier | Make it a little harder |
+| Уйын | Еңеләйтеү | Бер аҙ ҡыйынлаштырыу |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Һүрәт пары](/games/picture-pairs/) | 4 плиткалан башлағыҙ, һүрәттәрҙе күренеп торһон | Күберәк плитка, йәки рәхәт булһа, һүрәттәрҙе йәшерегеҙ |
+| [Шул бер үк нәмәне табығыҙ](/games/find-the-same/) | 2 вариант | 4 вариантҡа тиклем |
+| [Бергә һорт](/games/sort-together/) | Һеҙ һүрәтте тотаһығыҙ, улар себеркегә күрһәтә | Улар һүрәтте лә, себеректе лә үҙҙәре баҫа |
+| [Һүрәт головоломкаһы](/games/picture-puzzle/) | 4 киҫәк, алдан бөтә һүрәт тураһында һөйләшегеҙ | 9 киҫәк |
+| [Маҡалды тамамлағыҙ](/games/finish-the-saying/) | Осонда күрһәтегеҙ, аҙаҡ бергә әйтегеҙ | Улар баҫырға алдан осонда әйтһен |
+| [Һүҙҙәр эҙләү](/games/word-search/) | Баҫтырығыҙ, бергә бер һүҙ эҙләгеҙ, беренсе хәрефенә күрһәтегеҙ | Киләһе эҙләнәсәк һүҙҙе улар һайлаһын |
+| [Буяу](/games/coloring/) | Һеҙ ике төс һайлағыҙ, улар шуларҙың береһен һайлай | Бөтә төстәрҙе улар һайлай |
+| [Һөйләшеү карточкалары](/games/conversation-cards/) | Һүрәтте бергә ҡарағыҙ | Карточкала асыҡ һорауҙарҙы ҡулланығыҙ |
+| [Фото пары](/games/photo-pairs/) | Бик яратылған бер нисә ғаилә фотоһы | Фотоларҙы өҫтәгеҙ |
+| [Һүрәт бинго](/games/picture-bingo/) | Һәр уйында ҡатнашыусы янында ярҙамсы ултыра | Уйыусылар үҙ карталарын билдәләй |
+| [Тыныс тын алыу](/games/calm-breathing/) | Бергә ултырып ҡарағыҙ | Бергә бик әкрен тын алығыҙ |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Уйын ауыр булыуын күрһәткән билдәләр: һағайған ҡиәфәтле оҙаҡ тынлыҡтар (уйланыу түгел), ҡабатланған «Мин булдыра алмайым», ҡорамалды этеп ебәреү, йә хаталар уларҙы борсолтоу. Ябайлыҡтан арыу билдәләре: ысҡынғанлыҡ йә «был балаларса» тигән фекер. Шундай саҡта был фекерҙе хөрмәт итегеҙ һәм ҡайһы бер «олораҡ» нәмәгә күсегеҙ, мәҫәлән, һүҙҙәр эҙләү, реаль фотоһуратһын головоломкаһы йә уларҙың элекке эше тураһында һүрәт тураһында һөйләшеү.
 
-## How do I turn a game into a conversation?
+## Уйынды нисек һөйләшеүгә әйләндерергә?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Һәр һүрәтте һөйләшергә саҡырыу итеп ҡулланығыҙ, һәм улар әйткән нәмәне яҡшы яуап итеп ҡабул итегеҙ. Күп ғаиләләр өсөн уйындың иң яҡшы өлөшө — ошо.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Асыҡ, дөрөҫ яуабы булмаған һорауҙар бирегеҙ.** «Һеҙ нимә күрәһеҙ?» «Ҡайһыһы осһа?» «Миңә шундай кухня тураһында һөйләп бирегеҙ.»
+- **Элек үҙегеҙ уртаҡлашығыҙ.** «Минең өләсәйемдең шундай эте булды.» Һеҙҙең хикәйәгеҙ уларға үҙҙәренеке менән уртаҡлашырға еңеллек бирә.
+- **Тангенсы буйынса эйәрегеҙ.** Әгәр машина һүрәте сәйәхәт хикәйәһенә алып барһа, хикәйә — ул эш. Уйынды туҡтатып торғоҙоғоҙ.
+- **Факттарҙы тикшермәгеҙ.** Хәтерләүҙә күңелле һөйләшеү дөрөҫ деталдәрҙән мөһимерәк. Әгәр хикәйә үткән тапҡырҙан айырылһа, яңы версияһын ҡыуанып тыңлағыҙ.
+- **Төҙөлгән һорауҙарҙы ҡулланығыҙ.** [Маҡалды тамамлағыҙ](/games/finish-the-saying/) һәр маҡалдан һуң һөйләшеү һорауы бирә, ә [Һөйләшеү карточкалары](/games/conversation-cards/) тап ошо өсөн эшләнгән. [Фото пары](/games/photo-pairs/) ҡулланыусының үҙ ғаилә фотоларын ҡуллана, улар күп ваҡыт иң бай хикәйәләр уята.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Күберәк фекерҙәр — беҙҙең [хәтерләү эшмәкәрлеге](/activities/reminiscence/) һәм [аралашыу кәңәштәре](/caregiving/communication-tips/) тураһындағы күрһәтмәләрҙә.
 
-## When should we stop?
+## Ҡасан туҡтарға?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Арыу йәки борсолоу тәүге билдәһендә туҡтағыҙ, мөмкин булһа, бер аҙ иртәрәк. Alzheimer's Association иғтибар һүнгәндә йәки ҡыйынлыҡ арта башлағанда эште туҡтатырға йәки үҙгәртергә кәңәш итә.
 
-Watch for:
+Күҙәтегеҙ:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- әкрен ысҡыныу, һыҙылып ултырыу йәки күҙҙәрҙең экрандан ситкә китеүе;
+- ҡуҙғалыу, торонғаһы килеү йә китергә һорау;
+- һаҙлау, ҡыҫҡа яуаптар йәки «Мин был эштә яман» тигән фекер;
+- ҡорамалды тәртипһеҙ баҫыу йә этеп ебәреү;
+- илау, асыуланыу йә көтмәгәндә кәйефтең үҙгәреүе.
 
-How to stop well:
+Нисек яҡшы туҡтатырға:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Еңел нәмә менән тамамлағыҙ.** Бер һуңғы пар, йә ҡарарға бер һүрәт.
+- **Был турала үҙегеҙ тураһында әйтегеҙ.** «Миңә сәй эсергә ошай. Бынан туҡтайыҡмы?» — улар насар эшләгәне тураһында ишара булмаһын.
+- **Физик йәки тынысландырыусы нәмәгә күсегеҙ.** Ҡыҫҡа йөрөү, ашарға, кейемде йыйыу йәки моң.
+- **Йылы бер нәмә әйтегеҙ.** «Һеҙ менән бергә шулай итеү миңә оҡшаны.» Нөрсәне «дөрөҫ эшләгәне» өсөн маҡтамағыҙ, бары бергә үткән вакыттан ғына ҡыуаныу.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Иртә туҡтау, планды үҙгәртеү йәки уйынды ташлап бергә генә ултырыу — барыһы ла яҡшы һөҙөмтә.
 
-## Can we play in a group or over a video call?
+## Төркөмдә йәки видео бәйләнештә уйнарға мөмкинме?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Әйе, бер аҙ өҫтәмә әҙерлек менән. Төркөмдә бер нисә кеше менән сикләгеҙ, ярҙам кәрәк булғандарҙың янында ярҙамсыларҙы ултыртығыҙ, уртаҡ асыҡ маҡсатлы уйын һайлағыҙ. [Һүрәт бинго](/games/picture-bingo/) төркөмдәр өсөн баҫтырыла торған карталар һәм экрандағы йөрөтөүсе менән килә. Күберәк өсөн [төҙәлтмә төркөмдәре өсөн эшмәкәрлек](/activities/care-home-groups/) ҡарағыҙ.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Видео бәйләнештә бәйләнештә булған кеше һүрәтте тасуирлай ала, ә бүлмәлә булған кеше бармағы менән күрһәтеп, баҫып тора ала. Бәйләнеште ҡыҫҡа һәм таныш тотоғоҙ. Беҙҙең [телефон һәм видео шылтыратыу](/activities/phone-and-video-calls/) тураһындағы күрһәтмәлә күберәк кәңәштәр бар.
 
-## What if a game just isn't working?
+## Уйын эшләмәһә нимә эшләргә?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Бәғзе көндәрҙә бер нәмә лә эшләмәй, был һеҙгә йәки уларға ҡағылмай. Уйынды йыйып ҡуйығыҙ, башҡа ваҡытта, башҡа уйын менән йәки бер ниндәй уйынһыҙ ҡарарға мөмкин. Күп яҡшы эшмәкәрлек экран менән бәйләнмәй: моң, сәсеп кейем йыйыу, фото альбомына ҡарау йә ҡыҫҡа йөрөү. Күберәк өсөн беҙҙең [эшмәкәрлек фекерҙәре](/activities/ideas/) битенә ҡарағыҙ.

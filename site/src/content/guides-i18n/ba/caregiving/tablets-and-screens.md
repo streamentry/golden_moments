@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Деменция менән йәшәгән кеше өсөн планшетты көйләү"
+seoTitle: "Деменция менән йәшәгән кеше өсөн планшетты көйләү"
+description: "Деменция менән йәшәгән кеше өсөн планшет йәки телефонды аҙым-аҙым көйләү: бер ҡушымталағы режим, ҙур текст, аҙ хәбәр, ябай экран, тауыш һәм шәхси мәғлүмәт."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Планшетты йәки телефонды бирер алдынан уны ябайлаштырығыҙ. iPad һәм iPhone-ла
+  Guided Access, Android-та app pinning ярҙамында уны бер генә ҡушымтаға
+  ҡуйығыҙ, йә Apple-ның Assistive Access һайлауын ҡулланығыҙ. Текстты ҙурайтығыҙ,
+  хәбәрҙәрҙе һүндерегеҙ, баш экранда бер нисә таныш ҡушымта ҡалдырығыҙ, тауышты
+  көйләгеҙ, таянды ҡулланығыҙ һәм ҡушымталарҙың рөхсәттәрен сикләгеҙ. Уны
+  экранһыҙ эшмәкәрлектәр менән бергә ҡулланығыҙ.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) һәм app pinning (Android) экранды һеҙ асмаһағыҙ, бер ҡушымтала тота."
+  - "Apple-ның Assistive Access тәьҫирләүе танып-белеү кыйынлыҡтары булған кешеләр өсөн иңләтелгән күренеш тәҡдим итә."
+  - "Текстты ҙурайтығыҙ, хәбәрҙәрҙе һәм ҡалҡып сыҡҡан тәҙрәләрҙе һүндерегеҙ, шулай итеп бер нәмә лә боҙмаһын һәм ҡыйынлыҡ тыуҙырмаһын."
+  - "Баш экранда бер нисә таныш ҡушымта ҡалдырығыҙ, башлағансы тауышты көйләгеҙ."
+  - "Таян һәм даими урында зарядлау ҡоралды ҡулланыуҙы еңеләйтә һәм уны табыуҙы еңелләтә."
+  - "Ҡушымталарҙың рөхсәттәрен һәм мәғлүмәт уртаҡлашыуын тикшерегеҙ: HIPAA, нигеҙҙә, шәхси ҡоралда һаҡланған нәмәне яҡламай."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Деменция менән йәшәгән кеше iPad-та ҡушымтанан сыға алмаһын өсөн нимә эшләргә?"
+    a: "Settings > Accessibility > Guided Access бүлегендә Guided Access-ты ҡабыҙығыҙ һәм уға код ҡуйығыҙ. Ҡушымтаны асығыҙ, өҫкө төймәне (йә иҫке iPad-тарҙа Home төймәһен) өс тапҡыр баҫығыҙ һәм Start тип баҫығыҙ. iPad код индерелгәнсе шул ҡушымтала ҡала."
+  - q: "Android планшетын бер генә ҡушымтаға ничек бикләргә?"
+    a: "Settings ҡушымтаһында app pinning-ты ҡабыҙығыҙ, рәүештә Security (йәки Security & location) > Advanced > App pinning аша. Һуңынан ҡушымтаны асығыҙ, Overview-ны асығыҙ, ҡушымтаның биҙәге өҫтөндә тапҡыр баҫығыҙ һәм Pin тип баҫығыҙ. Уны бүтән ябыр өсөн PIN, һыҙма йәки парол кәрәк."
+  - q: "Guided Access-ты кешенең үҙ телефонында ҡулланыу хәүефһеҙме?"
+    a: "Иғтибарлы булығыҙ. Apple иҫкәртә: Guided Access эшләп тороу ваҡытында Crash Detection һәм Emergency Services эшләмәй. Әгәр кеше ашығыс шалтыратыуҙар өсөн телефонға таяна икән, Guided Access-ты ул кеше менән бергә булғанда ғына ҡулланығыҙ, йәки уның урынына Assistive Access-ты ҡарағыҙ."
+  - q: "Деменция менән йәшәгән кеше өсөн экран алдында ултырыу ҡасан тиклем ҡабул ителә?"
+    a: "Билдәле бер минут һаны юҡ. Ҡыҫҡа, бергәләп үткәрелгән ваҡыттар йөрөү, музыка, эш һәм һөйләшеү менән алмаша торғанда, оҙаҡ яңғыҙ экран алдында ултырыуҙан тулыраҡ көн бирә. Әгәр ҡоро ҡыуандыра йәки башҡа эшмәкәрлектәрҙе баҫа икән, уны ҡулланыуҙы кәметегеҙ."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Планшет — ҡәҙерле ҡорал: уның ярҙамында фотоларҙы, музыканы һәм ябай уйындарҙы бергә ҡарарға мөмкин. Шул уҡ ваҡытта ул ҡарышлы була ала: артыҡ баҫыу башҡа ҡушымта асыуға килтерә, хәбәр килеп сыға, текст бик бәләкәй була, йә уйын ваҡытында экран һүнә. Һеҙ аҙ ғына көйләү эшләй ала, ул күп проблемаларҙы бөтөрә.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Был аҙымдар iPhone, iPad һәм Android-та ҡоролма көйләүҙәрен ҡуллана. Менюлар исемдәре программа версияһына һәм ҡоролма етештереүсегә бәйле үҙгәрергә мөмкин, шуға күрә бер нәмә икенсерәк булһа, Apple йә Google биттәренә һылтанмаға ҡарағыҙ. Көйләүҙе үҙегеҙ, бергә ултырғансы, башҡарығыҙ.
 
-## Should someone with dementia use a tablet or phone?
+## Деменция менән йәшәгән кеше планшет йәки телефон ҡулланырға тейешме?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Был кешенән дә тора. Күпселек кешеләр янында кемдер булғанда планшетты ҡулланырға ярата, үҙе генә булдыра алмаһа ла. Бергә, бер ҡушымта асып, бер нисә минут менән башлағыҙ. Әгәр ул рәхәтлек һәм һөйләшеү килтерһә, дауам итегеҙ. Әгәр ул буталыу йәки ризаһыҙлыҡ тыуҙырһа, фото альбомы, баҫма биттәр йәки музыка уға яраҡлыраҡ булыуы ихтимал. Беҙҙең [баҫма эшмәкәрлектәр](/activities/printable/) — шуның бер альтернативаһы.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Планшет телефонға ҡарағанда һәм ябайыраҡ: экран һәм һүрәттәр ҙурыраҡ, һәм ул шулай уҡ кешенең ашығыс шалтыратыу ҡоралы түгел.
 
-## How do I lock a tablet or phone to one app?
+## Планшетты йәки телефонды бер ҡушымтаға ничек бикләргә?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+iPhone һәм iPad-та Guided Access, Android-та app pinning ҡулланығыҙ. Улар экранды һеҙ код индермәгәнсе бер ҡушымтала тота, шуға күрә бер артыҡ тап йәки һыпырыу башҡа нәмәне асып ебәрмәй.
 
-### iPad and iPhone: Guided Access
+### iPad һәм iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple-ның Guided Access күрһәтмәләренән](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. **Settings** асығыҙ, **Accessibility** тапҡыры, аҙаҡ **Guided Access** тапҡыры һәм уны ҡабыҙығыҙ.
+2. **Passcode Settings** аҫтында Guided Access коды ҡуйығыҙ. Шулай уҡ Face ID йәки Touch ID рөхсәт итә алаһығыҙ.
+3. Теләк буйынса: **Display Auto-Lock** аҫтында сессия ваҡытында экран ни тиклем тиҙ бикләнеүен һайлағыҙ, шулай итеп уйын ваҡытында ул һүнмәһен.
+4. Кәрәкле ҡушымтаны асығыҙ.
+5. Яҡ төймәне (iPhone), өҫкө төймәне (iPad) йәки иҫке ҡоролмаларҙа Home төймәһен өс тапҡыр баҫығыҙ.
+6. Теләк буйынса: экрандың теләһә ниндәй өлөшөн әйләндереп ҡуйығыҙ, уға тейеү эшләмәһен. **Options** (йәки **Session Settings**) тапҡыр баҫып, тауыш төймәләрен йәки экрандың әйләнеүен һүндерегеҙ.
+7. **Start** тип баҫығыҙ.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Сессияны туҡтатыу өсөн шул уҡ төймәне өс тапҡыр баҫығыҙ, кодты индерегеҙ һәм **End** тип баҫығыҙ. Apple иҫкәртә: ҡайһы бер иҫке программа версияларында уның урынына ике тапҡыр баҫырға кәрәк.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Мөһим:** Apple иҫкәртә, Guided Access сессияһы ваҡытында Crash Detection һәм Emergency Services эшләмәй. Кеше ашығыс шалтыратыуҙар өсөн таянған телефонда Guided Access-ты эшләтеп ҡалдырмағыҙ.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google-ҙың экрандарҙы беркетеү буйынса Android ярҙамынан](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. **Settings** ҡушымтаһын асығыҙ.
+2. **Security** (йәки **Security & location**) тапҡыры, аҙаҡ **Advanced**, һуңынан **App pinning** тапҡыры. Уны таба алмаһағыҙ, ҡоролма етештереүсеһенең ярҙам биттәрен ҡарағыҙ.
+3. **App pinning**-ты ҡабыҙығыҙ. Уны бүтән ябыу өсөн PIN, һыҙма йәки парол кәрәк буласаҡ.
+4. Кәрәкле ҡушымтаны асығыҙ. Экран уртаһына тиклем өҫкә һыпырығыҙ һәм аҙ ғына тотоғоҙ, шулай итеп Overview асыласаҡ (3 төймәле навигацияла Overview тапҡыры).
+5. Ҡушымта алдан ҡарауының өҫтөндә ҡушымтаның биҙәгенә тапҡыр баҫығыҙ, һуңынан **Pin** тип баҫығыҙ.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Ишараләр менән навигацияла беркетеүҙе туҡтатыу өсөн өҫкө һыпырығыҙ һәм аҙ ғына тотоғоҙ. 3 төймәле навигацияла Back һәм Overview төймәләрен аҙ ғына тотоғоҙ. 2 төймәле навигацияла Back һәм Home төймәләрен аҙ ғына тотоғоҙ. Шунан PIN, һыҙма йәки парол индерегеҙ.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Бөтә iPhone йәки iPad өсөн ябайыраҡ режим бармы?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Бар. Apple-ның Assistive Access ғәҙәти баш экранды ябайыраҡ экран менән алмаштыра. [Apple уны тасуирлай](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) — танып-белеү кыйынлыҡтары булған кешеләргә iPhone-ҙы мөстәҡилерәк файҙаланыуы еңелерәк булһын өсөн эшләнгән, ҙур элементтар һәм иғтибарҙы йыйғыраҡ функциялар менән. Apple был функцияны [iPad-та ла тәҡдим итә](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Кем көйләй.** Apple иҫкәртә: ҡушымталарҙы һәм функцияларҙы кешене белгән ышаныслы ярҙамсы, мәҫәлән, ғаилә ағзаһы йәки ҡарашыусы һайлаһын.
+- **Ҡайҙан башларға.** **Settings > Accessibility > Assistive Access** бүлегенә инегеҙ, **Set Up Assistive Access** тип баҫығыҙ, аҙаҡ **Continue**.
+- **Ҡушымталар.** Ҡайһы ҡушымталар күренеүен һеҙ һайлайһығыҙ. Ҡайһы Apple ҡушымталарының ябайыраҡ версиялары бар, ә күпселек башҡа ҡушымталар үҙ дизайны менән өҫтәлә ала.
+- **Урынлаштырыу.** **Rows** (уҡырға еңел исемлек) йәки **Grid** (һүрәттәр менән биҙәктәрҙе баҫым яһаған ҙурыраҡ элементтар) һайлағыҙ.
+- **Код.** Инергә, сығырға йәки көйләүҙәрҙе үҙгәртергә айырым Assistive Access коды ҡуйыла. Apple көйләү ваҡытында тергеҙеү Apple Account ҡуйырға тәҡдим итә, сөнки ул булмаһа, онотолған код ҡоролманы тергеҙеүҙе аңлата.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access ҡоролманы көн дә үҙе ҡулланған кешегә тап килергә мөмкин. Бергә ойоштороулаған уйын ваҡыты өсөн Guided Access йәки app pinning тиҙерәк.
 
-## How do I make text and pictures bigger?
+## Текст һәм һүрәттәрҙе ничек ҙурайтырға?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Текст һәм дисплей ҙурлығын арттырығыҙ, һуңынан төймәләрҙең әле лә экранға һыймауын тикшерегеҙ.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone һәм iPad.** [Apple-ның текст ҙурлығы күрһәтмәләре](https://support.apple.com/en-us/102453) буйынса **Settings > Display & Brightness > Text Size** бүлегенә инегеҙ һәм ҡырағайҙы күсерегеҙ. Тағы ла ҙурыраҡ текст өсөн **Settings > Accessibility > Display & Text Size > Larger Text** бүлегенә инегеҙ. Apple иҫкәртә: бик ҙур текст кайһы бер төймәләргә баҫыуҙы ҡыйыныраҡ итә ала, кәрәк булһа, көйләгеҙ.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google-ҙың текст һәм дисплей көйләүҙәре буйынса ярҙамы](https://support.google.com/accessibility/android/answer/11183305?hl=en) буйынса **Settings** асығыҙ һәм **Font size** тип эҙләгеҙ, һуңынан ҡырағайҙы күсерегеҙ. Экрандағы бөтә нәмәне ҙурайтыр өсөн **Display size** эҙләгеҙ. Шулай уҡ **Accessibility > Display size and text** аҫтында **Bold text** ҡабыҙа алаһығыҙ. Ҡайһы бер ҡушымталар был көйләүҙәргә буйһонмай.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+[Picture Pairs](/games/picture-pairs/) һәм [Find the Same](/games/find-the-same/) кеүек уйындарҙа ла аҙыраҡ плитка йәки вариант һайлай алаһығыҙ, был экранды ябайыраҡ итә.
 
-## How do I stop notifications and pop-ups?
+## Хәбәрҙәрҙе һәм ҡалҡып сыҡҡан тәҙрәләрҙе ничек туҡтатырға?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Кәрәкмәгән ҡушымталарҙың хәбәрҙәрен һүндерегеҙ, эшмәкәрлек ваҡытында Do Not Disturb ҡулланығыҙ.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone һәм iPad.** **Settings > Notifications** бүлегенә инегеҙ, **Notification Style** аҫтында ҡушымтаны тапҡыр баҫығыҙ һәм **Allow Notifications** һүндерегеҙ ([Apple-ның хәбәрҙәр көйләүҙәре буйынса ҡулланмаһы](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Шалтыратыуҙарҙы, иҫкәртмәләрҙе һәм хәбәрҙәрҙе бер аҙ ваҡытҡа һүндерер өсөн Control Center асығыҙ һәм **Focus** төймәһенән **Do Not Disturb** ҡабыҙығыҙ ([Apple-ның Do Not Disturb буйынса ярҙамы](https://support.apple.com/en-us/105112)). Уны **Settings > Focus > Do Not Disturb > Set a Schedule** аҫтында графикка ҡуйырға мөмкин.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Экран башынан аҫҡа һыпырығыҙ һәм **Do Not Disturb** тапҡыры, йәки **Settings > Modes > Do Not Disturb** бүлегенә инегеҙ ([Google-ҙың Do Not Disturb буйынса ярҙамы](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters** аҫтында кемдәр һәм ниндәй ҡушымталар хәбәр ебәрә алыуын һайлай алаһығыҙ. Көйләүҙәр ҡоролма етештереүсегә бәйле тиклем айырыла.
 
-## How do I make a simple home screen?
+## Ябай баш экранды ничек яһарға?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Бер экранда бер нисә таныш ҡушымта ҡалдырығыҙ, ҡалғанын күҙгә күренмәҫ урынға күсерегеҙ. Был өсөн берҙән-бер көйләү юҡ; мәсьәлә — артыҡ нәмәне алып ташлауҙа.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Өс-алты ҡушымта һайлағыҙ.** Мәҫәлән, фотолар, музыка, видео шалтыратыу ҡушымтаһы һәм бер уйын.
+- **Уларҙы беренсе экранға һәр саҡ бер үк урынға ҡуйығыҙ**, ҡалғанын икенсе экранға йәки папкаға күсерегеҙ.
+- **Ябай, контрастлы фон ҡулланығыҙ**, мәҫәлән, бер төҫ йәки таныш фото, шулай итеп биҙәктәр айырылып тороусан булһын.
+- **Кәрәкмәгән ҡушымталарҙы юғалтығыҙ.** Ҡушымталар аҙ булһа, буталыу ҡыйыраҡ, мәғлүмәт тә аҙыраҡ йыйыла.
+- **Apple ҡоролмаларында** шуны ҡоролма үҙе эшләһын өсөн **Assistive Access**-ты ҡарағыҙ.
 
-## What about volume and sound?
+## Тауыш һәм аң-белеү тураһында нимә?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Ҡоролманы бирер алдынан ҡулай тауышты ҡуйығыҙ. Guided Access менән һеҙ тауыш төймәләрен һүндерә алаһығыҙ, шулай итеп эшмәкәрлек ваҡытында тауыш үҙгәрмәһен. Иш аппараттары һалынған һәм эшләүен тикшерегеҙ.
 
-## Where should the tablet live?
+## Планшет ҡайҙа торорға тейеш?
 
-Give it a stand and a permanent charging spot.
+Уға таян һәм даими зарядлау урыны бирегеҙ.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Таян йәки тышлыҡ**, ул планшетты остәлдә тик тораҡ тота, шулай итеп уны ҡулда тотоу кәрәк түгел, һәм күрһәтеү еңелерәк була.
+- **Бер даими зарядлау урыны**, көн һайын ҡулланылған бүлмәлә остәлдә зарядлау таянысы булһа яҡшы. Планшет дайым зарядланған һәм дайым бер үк урында була.
+- **Яҡтыртыуҙы кәметегеҙ.** Экранды яңылыҡ тәҙрәнән алыҫыраҡ урынлаштырығыҙ.
 
-## How much screen time is okay?
+## Экран алдында ултырыу ҡасан тиклем ҡабул ителә?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Дөрөҫ минут һаны юҡ. Ҡыҫҡа, бергәләп үткәрелгән ваҡыттарға ынтылығыҙ, был — хәрәкәт, музыка, йорт эштәре, һөйләшеү һәм тыш һауала булыу менән бер көндөң өлөшө булһын. Кисен ҡурҡыу йәки ҡаушау көсәйә ала, шуға экран эшмәкәрлектәрен көндөң алғараҡ ваҡытына ҡалдырығыҙ. [Кис ауыр булмаған эшмәкәрлектәр](/caregiving/late-day-restlessness/) биттәрен ҡарағыҙ.
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Планшетты бала ҡарау урынына түгел, бергә ҡулланыу — ул социаль булып ҡала. Беҙҙең [бергә уйнау](/caregiving/how-to-play-together/) буйынса ҡулланмабыҙ был тураһында аңлата.
 
-## How do I protect their privacy on the device?
+## Ҡоролмала уның шәхси мәғлүмәтен ничек һаҡларға?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Ҡушымталарҙың ниндәй мәғлүмәт йыйыуын сикләгеҙ һәм һаулыҡ мәғлүмәтен һаҡлау законы уны ҡаплай тип уйламағыҙ. АҠШ-тың Һаулыҡ һаҡлау һәм кеше хеҙмәте департаменты (HHS) [аңлата](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html): HIPAA ҡағиҙәләре, нигеҙҙә, шәхси телефондарҙа һәм планшеттарҙа һаҡланған йәки улар аша алынған һаулыҡ мәғлүмәтен ҡаплай торғаны юҡ. Күпселек осраҡта HIPAA шәхси маҡсаттар өсөн ҡушымталарға индерелгән мәғлүмәтте лә яҡламай, әгәр ҡушымта һаулыҡ һаҡлау биреүсенән, һаулыҡ планынан йәки уларҙың бизнес-партнерҙарынан булмаһа.
 
-HHS suggests:
+HHS киңәш итә:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- кәрәкмәгән йәки осраҡлы ҡушымталарҙан ҡаса тороғоҙ, айырыуса "бушлай" булғандарҙан;
+- ҡушымталарға урынлашыу мәғлүмәтенә рөхсәт бирмәгеҙ, уны сәйәхәт картаһы кеүек, сөнки ул әммә кәрәк түгел.
 
-Also consider:
+Шулай уҡ иҫтә тотоғоҙ:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Ҡоролмаға код ҡуйығыҙ**, уны хәүефһеҙ урында яҙып алығыҙ.
+- **Фотоға, камераға, микрофонға, контакттарға һәм урынлашыуға рөхсәттәрҙе тикшерегеҙ**, ҡушымтаға кәрәкмәгәндәрен һүндерегеҙ.
+- **Ҡушымтаны ҡуйыр алдынан ул нимә йыйғанын тикшерегеҙ.** Беҙҙең [деменция ҡушымталарын һәм уйындарын һайлау](/caregiving/choosing-apps-and-games/) буйынса ҡулланмала шәхси мәғлүмәт тикшереү исемлеге бар.
+- **Ғаилә фотолары менән иғтибарлы булығыҙ.** Һаҡлау урынын белеп, ҡулланыусы ризалыҡ бирерлек фотоларҙы ғына уртаҡлашығыҙ. [Photo Pairs](/games/photo-pairs/) уйынында һеҙ һайлаған фотолар һеҙҙең браузерҙа ҡала.
+- **Ҡушымталар эсендәге түләүҙәрҙе һүндерегеҙ**, йәки кеше ҡулланған иҫәптәрҙән түләү реквизиттарын алып ташлағыҙ.

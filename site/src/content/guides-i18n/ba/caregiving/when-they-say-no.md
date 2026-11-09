@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Деменция менән йәшәгән кеше шөғөлдән баш тартканда"
+seoTitle: "Деменция менән йәшәгән кеше баш тартканда"
+description: "Деменция менән йәшәгән кеше ни өсөн шөғөлдән баш тартһа йәки ҡәһәрләнһә, нимә эшләргә, нимәнән һаҡланырға һәм ҡасан духтырға мөрәжәғәт итергә."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Деменция менән йәшәгән кеше «юҡ» тигәндә, уны тыныс ҡабул итегеҙ һәм һуңыраҡ
+  йәки башҡаса итеп кире ҡайтығыҙ. Баш тартыуҙың сәбәбе, ғәҙәттә, була:
+  эш уға бик ауыр йәки балаларса тойолоуы, арыуы, ауырыуы, асҡыс булыуы йәки
+  тауыштың күп булыуы. Таларға йәки үҙ итеүгә ҡуйырға ярамай. Аҙ ғына итеп
+  ҡылығыҙ, ике һайлау тәҡдим итегеҙ йәки уның ярҙамын һорағыҙ. Кинәт йәки тиҙ
+  үҙгәреү, айырыуса инфекциядән йәки яңы дарудан һуң, духтырға тиҙ арала
+  күрһәтергә кәрәк.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Юҡ» — хөрмәт итергә кәрәк булған яуап, еңергә кәрәк булған проблема түгел."
+  - "Баш тартыуҙың, ғәҙәттә, сәбәбе була: бик ауыр, балаларса, арыған, ауырған, ауыр тойолған йәки күңеле бушлыҡ."
+  - "Артҡа сигенегеҙ, көтөгөҙ һәм һуңыраҡ, башҡа ваҡытта йәки аҙ ғына итеп яңынан тырышығыҙ."
+  - "Үҙҙәренән башҡарыуын һорау түгел, ярҙам һорау һөҙөмлөрәк."
+  - "Бер ҡасан да талашмағыҙ, таламағыҙ, тикшереү һорамағыҙ, төҙәтмәгеҙ. Үҙегеҙҙе ашыҡтырыуҙан йәки ҡыҫыуҙан тикшерегеҙ."
+  - "Кинәт йәки тиҙ үҙгәргән тәртип, айырыуса инфекция йәки яңы дарулар менән бергә, шунда уҡ духтырға барырға тейеш."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Бөтөнләй шөғөлдәрҙән баш тартырға рөхсәт итеү дөрөсмө?"
+    a: "Эйе, теләһә қайсы көндә. Бергә ултырыу, музыка тыңлау йәки тәҙрәнән ҡарап ултырыу етә ала. Əгәр кеше аҙ-аҙ итеп бөтә нәмәнән күңелен бөтөрһә, был тураһында духтырға әйтергә кәрәк, сөнки кәйефһеҙлек, ауырыу йәки башҡа һаулыҡ мәсьәләләре булырға мөмкин."
+  - q: "Ни өсөн ул элек яратҡан нәмәһенән баш тарта?"
+    a: "Элекке хоббиҙы деменция ауырлаштырған күнекмәләр талап иткәндә, ул ҡыйын булып китә һәм кеше ояла. Шул уҡ шөғөлдөң еңелерәк өлөшөн һынап ҡарағыҙ, мəҫәлән, теккә түгел, төймәләрҙе туралауға, йәки баҡсаны ултырғанда түгел, баҡса фотоларына ҡарарға."
+  - q: "Уны ышандырырға тырышырғамы?"
+    a: "Юҡ. Деменция ауырлаштырған нәмәне эшләргә мәжбүр итеү билдәле ҡыҙыу тыуҙырыусы сәбәп. Баш тартыуҙы ҡабул итегеҙ, темаҫты үҙгәртегеҙ һәм һуңыраҡ йәки башҡаса итеп тағы тәҡдим итегеҙ."
+  - q: "Тәртиптең үҙгәреүе ҡасан ғәҙәттән тыш хәл була?"
+    a: "Əгәр кеше хәүеф аҫтында булһа йәки медицина ғәҙәттән тыш хәле билдәләре булһа, 112 номерына шылтыратығыҙ. Кинәт аңлашылмаусылыҡ йәки сәғәттәр, көндәр эсендә тиҙ үҙгәргән тәртип булһа, айырыуса температура, инфекция йәки яңы дару менән, уның духтырына тиҙ арала мөрәжәғәт итегеҙ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Һеҙ бөтә нәмәне әҙерләйһегеҙ, уйын йәки йөрөү тәҡдим итәһегеҙ, һәм «Юҡ» ишетәһегеҙ. Йәки шөғөл яҡшы башланып, таш ҡулъяҙма һәм асыу һүҙе менән бөтә. Был күңелдән төшөрөүсе, һәм бик киң таралған хәл. Баш тартыу һәм ҡәһәрләнеү, ғәҙәттә, хәбәр, таш холоҡ түгел. Уның нимә хәбәр итеүен аңлау киләһе аҙымдың нимә булыуын күрһәтә.
 
-## Why does someone with dementia refuse activities?
+## Деменция менән йәшәгән кеше ни өсөн шөғөлдән баш тарта?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Ғәҙәттә сәбәп була, кеше уны һүҙ менән әйтә алмаһа ла. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) билдәләүенсә, ҡаршы торыу кешенең эште башҡара алмауын йәки уны башларға ҡурҡыуын аңлатырға мөмкин. Төп сәбәптәр:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Бик ауыр тоя.** Шөғөл хәҙер деменцияның ауырлаштырған күнекмәләрен talap итә, һәм кеше алдында ҡыйынлыҡ ҡыйынлыҡ бирә, бу оялтыу тыуҙыра.
+- **Балаларса тоя.** Ологар мультфильм рәсемдәрен, балаларса тауыштарҙы һәм балалар өсөн эшләнгән шөғөлдәрҙе тиҙ күрә.
+- **Арыу.** Күп кешенең көн уҙған һайын көсө кәмей. Ҡарағыҙ: [көндөҙҙөң һуңғы өлөшөндә тыныс шөғөлдәр](/caregiving/late-day-restlessness/).
+- **Тән ауырлығы.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ауырыу, оҙаҡ йоҡоһоҙлоҡ, күреү йәки ишетеү ҡыйынлығы, эскеҙлек, ҡорһаҡ, сикләү һәм яңы дарулар яны эффекттарын ҡайғыртыу сәбәптәре итеп атай.
+- **Бик күп хәл бар.** Ҡатты телевизор, берән-бер һөйләшеү йәки тығыҙ бүлмә ауырлыҡ тыуҙыра ала.
+- **Этәрелгән тойола.** NIA ҡыҙыу тыуҙырыусы сәбәп итеп Альцгеймер ауырлаштырған нәмәне эшләргә мәжбүр итеүҙе, йәки ваҡиғаларҙы һәм кешеләрҙе иҫкә төшөрөүҙе атай.
+- **Күңел төшөнкөлөгө.** Бөтә нәмәгә ҡыҙыҡһыныу юғалыуы кәйефһеҙлек билдәһе булыуы мөмкин, был тураһында духтырға әйтергә кәрәк.
+- **Улар теләмәй.** Олоғайған кешеләр «юҡ» тип әйтергә хоҡуҡлы.
 
-## What should I try when they say no?
+## «Юҡ» тигәндә ни менән тырышырға?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Баш тартыуҙы тыныс ҡабул итегеҙ, аҙаҡ нимәлер үҙгәртегеҙ: ваҡытты, шөғөлдө, ауырлыҡты йәки һорау ысулын.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Хәҙергә ҡалдырығыҙ.** «Ярай, был ҡалһын. Бәлки һуңыраҡ.» Һуңынан башҡа нәмәгә күсегеҙ, зарланмайынса.
+2. **Һуңыраҡ яңынан тырышығыҙ.** Alzheimer's Association һуңыраҡ йәки көндөң башҡа ваҡытында яңынан тырышырға тәҡдим итә.
+3. **Кәмерәк итегеҙ.** Бөтә уйын урынына бер парлы. Бөтә йыуынтыҡ урынына бер сүкә. Азыраҡ рәсем, азыраҡ һайлау, рәсемдәр күренеп торһон.
+4. **Ике һайлау тәҡдим итегеҙ.** «Ҡоштар рәсемдәренә ҡарайыҡмы, әллә музыка тыңлайыҡмы?» Һайлау кешегә контроль тойғоһо кире ҡайтара.
+5. **Башҡарыуын түгел, ярҙамды һорағыҙ.** «Был нәмәләрҙе һортларға ярҙам итә алаһыңмы?» йәки «Ниндәй төс матураҡ тип уйлайһың?» Кәрәк булыу, һынау аҫтында булыуҙан бик айырыла.
+6. **Үҙегеҙ башлағыҙ.** Шөғөлдө һорамайынса, яндарында башлағыҙ. Күптәр нәмә башланғас ҡушыла, ҡушылмаһа ла, бергә ваҡыт үткәрәһегеҙ.
+7. **Физик йәки тынысландырыусы нәмәгә күсегеҙ.** Ҡыҫҡа йөрөү, музыка, табыш, кейем йыйыу йәки бергә [тыныс сулыш алыу](/games/calm-breathing/). NIA иғтибарҙы музыкаға, китапҡа йәки йөрөүгә күсереү тәҡдим итә.
+8. **Үҙ юлы менән эшләргә рөхсәт итегеҙ.** Əгәр ул ҡағиҙәләрҙән башҡаса уйнағы килһә, ризалашығыҙ. Alzheimer's Association ҡулайлы булырға кәңәш итә.
 
-## What should I say when they get frustrated?
+## Ҡәһәрләнгәндә нимә әйтергә?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Аҫтараҡ, тауышты түбәнәйтеп, ышандырығыҙ. [Alzheimer's Association ҡәһәрләнеү тураһындағы аңлатмаһы](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) артҡа сигенергә, рөхсәт һорарға, тыныс һәм уңай һүҙҙәр әйтергә һәм ике һайлау тәҡдим итергә кәңәш итә. Был рухта әйтелгән һүҙҙәр:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Ғәфү итегеҙ, был ҡыйын. Туҡтайыҡ.»
+- «Һеҙ яҡшы эшләйһегеҙ. Мин бында.»
+- «Башҡа нәмә менән ярҙам итә алаһығыҙмы?»
+- «Əллә сәй эсәйекме?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Аҙаҡ шөғөлдө ҙур проблемаға әйләндермәйенсә тамамлағыҙ. Беҙҙең [аралашыу кәңәштәре](/caregiving/communication-tips/) был тураһында күберәк әйтә.
 
-## What should I avoid?
+## Нимәнән һаҡланырға?
 
-Some natural reactions tend to make things worse.
+Ҡайһы бер тәбиғи реакциялар хәлде ауырлаштыра.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Талашыу йәки таларға тырышыу.** «Тағы бер тапҡыр, зинһар» йәки «Һин был нәмәне яратаһың бит» бик һирәк ярҙам итә.
+- **Тикшереү йәки төҙәтеү.** «Был нимә икәнен беләһең бит» йәки «Юҡ, был дөрөҫ түгел» өҫтәмә баҫым һала.
+- **Шәхсиләштереү.** NIA һаҡлаусыларға иҫкәртә: был үҙгәрештәрҙе кеше түгел, ауырыу сәбәпсе.
+- **Ашыҡтырыу йәки ҡыҫыу.** Alzheimer's Association тауышты күтәрмәҫкә, хәүефте күрһәтмәҫкә, мөйөшкә ҡыҫмаҫҡа, тоттормаҫҡа, ғәйепләмәҫкә, иғтибар итмәҫкә, таламаҫҡа һәм кәнәк хәрәкәттәрҙән ҡосмаҫҡа кәңәш итә.
+- **Ғәйеп менән баҫым яһау.** «Мин бығаса был бөтәһен һинең өсөн әҙерләнем» — икегеҙгә лә ауыр була.
+- **Ярлыҡлау.** «Үжәр» йәки «Ауыр» тигән һүҙҙәр асыҡ сәбәпте ҡаплай һәм мәсьәләне хәл итеүҙе ҡыйынлаштыра.
 
-## How can I find out what is behind repeated refusals?
+## Ҡабат баш тартыуҙың сәбәбен нисек табырға?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Бер-ике аҙнаға ябай дәфтәр алып барығыҙ. NIA әйтеүенсә, тәртип үҙгәрештәрен күҙәтеү һаҡлаусыларға һәм сәләмәтлек һаҡлау белгестәренә ҡалыпты танырға һәм сәбәпте асыҡларға ярҙам итә.
 
-Jot down:
+Яҙығыҙ:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- көндөң ваҡыты;
+- нимә тәҡдим иткәнегеҙҙе һәм нисек һораҡ ҡуйғаныгыҙҙы;
+- әйләнә-тирәлә нимәләр булғанын (шау-шыу, ҡунаҡтар, телевизор);
+- ул нисек йоқлаған, ашаған, эскән, һуңғы тапҡыр туалетҡа нисек барғаны;
+- яңы дарулар йәки яҡынса булған ауырыу.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Ҡалыптар тиҙ күренә: мәҫәлән, 16:00 - нән һуң ғына баш тартыу, бер генә уйын менән, йәки телевизор ҡабыҙғанда ғына. Family Caregiver Alliance-ның [деменция тәртибе буйынса ҡулланмаһы](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) был хаҡта ябай ғына әйтә: беҙ кешене үҙгәртә алмайбыҙ, ләкин үҙебеҙҙең тәртипте һәм тирә-яҡ мөхитте үҙгәртә алабыҙ.
 
-## When should I talk to a doctor about refusal or frustration?
+## Баш тартыу йәки ҡәһәрләнеү тураһында ҡасан духтырға мөрәжәғәт итергә?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Тәртип кинәт, тиҙ йәки ауырыу билдәләре менән бергә үҙгәргәндә духтырға мөрәжәғәт итегеҙ. NIA әйтеүенсә, тәртиптең кинәт йәки тиҙ үҙгәреүе, айырыуса инфекция йәки яңы дару үҙгәреше булғанда, шунда уҡ духтырға күрһәтелергә тейеш.
 
-Contact their doctor promptly if you notice:
+Түбәндәге билдәләрҙе күрһәгеҙ, тиҙ арала уның духтырына шылтыратығыҙ:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- сәғәттәр йәки көндәр эсендә кинәт аңлашылмаусылыҡ йәки ҙур үҙгәреш;
+- ауырыу билдәләре: ҡырышыу, тән өлөшөн һаҡлау йәки яңы ҡыйынлыҡ менән хәрәкәт итеү;
+- температура йәки инфекция башҡа билдәләре;
+- яңы йәки үҙгәргән дарулар, унан һуң тәртип үҙгәреше;
+- ике аҙнанан ашыу дауам иткән бөтә нәмәгә ҡыҙыҡһыныу юғалыуы, илауыҡлыҡ йәки төрлөсә ситләшеү;
+- ашаудан йәки эскенән баш тартыу.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association тәртип симптомдары булған теләһә кемгә тулы медицина тикшереүе тәҡдим итә, айырыуса улар кинәт барлыҡҡа килһә. Family Caregiver Alliance шулай уҡ тәртип проблемалары медицина сәбәпле булыуы мөмкин булғанғанан, элек духтыр менән кәңәшләшергә кәңәш итә. Духтыр йәки аптека хеҙмәткәре менән һөйләшмәйенсә, бер ниндәй дарыны ла башламағыҙ, туҡтатмағыҙ йәки үҙгәртмәгеҙ.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Əгәр кеше хәүеф аҫтында булһа йәки медицина ғәҙәттән тыш хәле билдәләре булһа, 112 номерына шылтыратығыҙ. NIA оператор менән һөйләшкәндә кешенең деменцияһы барлығын әйтергә кәңәш итә.
 
-## Is it okay if we do nothing at all?
+## Бөтөнләй бер нәмә лә эшләмәһәк тә була аламы?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Эйе. Кайһы ваҡыт иң яҡшы шөғөл — бер ни эшләмәү: бергә ултырыу, ҡулдан тотоу, яратҡан яҙма тыңлау йәки тәҙрә аша ҡоштарға ҡарау. Был уңышһыҙлыҡ түгел. Беҙҙең [бергә уйнау буйынса ҡулланма](/caregiving/how-to-play-together/) аңлатамы, ни өсөн иртәрәк туҡтау йәки башламау ҙа дөрөҫ ҡарар булырға мөмкин.

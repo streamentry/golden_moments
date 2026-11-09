@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Деменция менән йәшәгән өлкәндәр өсөн еңел викторина"
+seoTitle: "Деменция булған өлкәндәр өсөн викторина, яуаптары менән"
+description: "50 еңел викторина һорауы деменция менән йәшәгән өлкәндәр өсөн: яуап варианттары, һөйләшеү темалары һәм уйнау ҡағиҙәләре, кешегә көсөргәнеш тыумаһын өсөн."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Деменция менән йәшәгән өлкәндәр өсөн еңел викторина яҡшы эшләй, ҡасан ул тест түгел, ә әңгәмә кеүек булһа. Оҙаҡ элек өйрәнелгән нәмәләр тураһында һорағыҙ: көйҙәр, мәҡәлдәр, байрамдар һәм көнкүреш тураһында, һәм һәр ваҡыт ике йәки өс вариант тәҡдим итегеҙ. Яуапты йылы итеп әйтегеҙ, кемде лә булһа айырып алмағыҙ, иҫәп тотмағыҙ, һәм һәр яуапты хикәйә башлау өсөн файҙаланығыҙ. Дөрөҫ яуабы булмаған «был йәки тағы» һорауҙары һуңғы этаптар өсөн тура килә.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Оҙаҡ таныш нәмәләр тураһында һорағыҙ: көйҙәр, мәҡәлдәр, байрамдар, аш-һыу һәм элекке көнкүреш."
+  - "Ике йәки өс вариант тәҡдим итегеҙ, шулай итеп яуапты иҫкә төшөрөү түгел, танып алыу мөмкин булһын."
+  - "Яуапты йылы әйтегеҙ һәм алға китегеҙ. Хикәйә башлаған теләһә ниндәй фараз — яҡшы фараз."
+  - "Балл юҡ, командалар ярышы юҡ, бер кешене исемләп саҡырмағыҙ. Яуаптар бөтә бүлмәнән килһен."
+  - "Яуап табыу ҡыйын булғанда, дөрөҫ яуабы булмаған «был йәки тағы» һорауҙарына күсегеҙ."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Деменция булған кешеләр өсөн викторина яҡшы сара булыуы мөмкинме?"
+    a: "Ул яҡшы булырға мөмкин, әгәр ул йомшаҡ итеп үткәрелһә. Alzheimer's Foundation of America викториналы сараларҙы авырыу башланғыс этабы өсөн тәҡдим итә. Оҙаҡ таныш темалар һорағыҙ, вариант тәҡдим итегеҙ, береһен дә ҡыйын хәлгә ҡуймағыҙ һәм яуаптарҙы тест итеп түгел, әңгәмә юлы итеп ҡарағыҙ."
+  - q: "Деменция өсөн викторинаға ниндәй темалар иң яраҡлы?"
+    a: "Оҙаҡ элек өйрәнелгән нәмәләр иң яҡшы килә: кешенең йәштәшлек осоронан билдәле көйҙәр һәм йырсылар, таныш мәҡәлдәр, байрамдар, аш-һыу, спорт һәм көнкүреш, мәҫәлән, һөт еткереү һәм диск телефондары. Яңы яңылыҡтарҙан һәм бер сессия эсендә алдағыны иҫтә тотоуҙы талап иткән нәмәләрҙән тартығыҙ."
+  - q: "Ҡарт кешеләр йортонда викторинаны ҡалай итеп кешене ыңғайһыҙлыҡҡа ҡалдырмай үткәрергә?"
+    a: "Һәр һорауҙы бөтә төркөмгә уҡығыҙ, варианттарҙы күрһәтегеҙ йәки әйтегеҙ, һәм яуап биреүгә теләһә кемде саҡырығыҙ. Кешеләрҙе исемләп саҡырмағыҙ һәм иҫәп тотмағыҙ. Ҡайһы яуап әйтелһә лә, йылмайып яуапты әйтегеҙ, һәм «Монда кемдер машинала кинога барған?» кеүек өҫтәмә һорау менән хикәйәләргә юл асығыҙ."
+  - q: "Һуңғы этаптарҙа викторина урынына нимә эшләргә мөмкин?"
+    a: "Дөрөҫ яуабы булмаған һорауҙарға күсегеҙ, мәҫәлән: «Кофе йәки сәйме?» йәки «Пляжмы әллә тауҙармы?», һәм бергәләп таныш мәҡәлдәрҙе йәки йырҙарҙы тамамлағыҙ. Рәсемдәргә ҡарап, уларҙы бергә һүрәтләү лә яҡшы килә."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Викторина ҡарт кешеләр йортарында һәм көндөҙгө программаларҙа иң һорала торған төркөм уйындарының береһе, ә күп ғаиләләр уны аш өҫтәле артында ла уйнай. Балл һәм бер кеше яуап биреү менән уҙғарылһа, деменция менән йәшәгән кеше үҙен һынауҙа тоя ала. Йомшаҡ итеп үткәрелһә, ул хикәйәләр тыңларға тере юл була. Түбәндә һәр һорау өсөн яуап варианттары һәм һөйләшер тема менән 50 еңел һорау, шулай уҡ сессияны ҡалай үткәреү тураһында бирелгән.
 
-## How do you make trivia work for someone with dementia?
+## Деменция менән йәшәгән кеше өсөн викторина ҡалай эшләй?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Һүҙ оҙаҡ элек булған нәмәләрҙе танырға һәм иҫкә төшөрөргә тураһында барһын, һәр яуапты хупларға ла онотмағыҙ.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Оҙаҡ үткәнгә һорағыҙ.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) әйтеүенса, Альцгеймер ауырыуының иң таралған башланғыс билдәһе — яңы өйрәнелгән мәғлүмәтте иҫтә тота алмау. Оҙаҡ элек булған көйҙәр, мәҡәлдәр һәм көнкүреш күпкә еңелерәк була.
+2. **Һәр ваҡыт вариант бирегеҙ.** Ике йәки өс вариантан дөрөҫөн һайлау, бер нәмәнән уйлап табыуҙан күпкә еңелерәк.
+3. **Һорауҙарҙы юғары тауыш менән уҡығыҙ һәм зур итеп күрһәтегеҙ.** Аҡ таҡта йәки планшет күтәреп күрһәтеү ҡолаҡ яҡшы ишетмәгән кешеләргә ярҙам итә.
+4. **Яуапты азат итеп әйтегеҙ.** Кем дә булһа белмәһә, йылы итеп яуап әйтегеҙ һәм алға китегеҙ. Бер ваҡытта ла «Ҡуй инде, беләһең бит» тигән һүҙҙәр әйтмәгеҙ.
+5. **Иҫәп тотмағыҙ.** Ни айырым кешегә, ни өҫтәлгә. Һанлы яуап кәрәк булһа, бер төркөм буйынса дөйөм иҫәп кенә тотоғоҙ.
+6. **Бер кешене ҡасыуламағыҙ.** Яуаптар теләһә кемдән килһен. Ике кеше менән генә булһа, бергәләп яуап бирегеҙ: «Минеңсә, был пианино. Һеҙ ни уйлайһығыҙ?»
+7. **Һөйләшеү темаһын ҡулланығыҙ.** Яуап — башланғыс, аҙаҡ түгел. Хикәйәләр — төп маҡсат.
+8. **Ҡыҫҡа итегеҙ.** Хикәйәләр менән ун һорау — етерлек.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) төп ҡағиҙәне ябай итеп әйтә: көсөргәнеш билдәләренә иғтибар итегеҙ һәм кешенең үҙен уңышлы тойоуын тәьмин итегеҙ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) викториналы сараларҙы башланғыс этап өсөн инә. Урта этапта ике вариант менән сикләнегеҙ һәм һөйләшеү темаларына таянығыҙ. Һуңынан аҡрын аҫтараҡ «был йәки тағы» һорауҙарына күсегеҙ.
 
-## Music and entertainment trivia
+## Музыка һәм күңел асыу викторинаһы
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Дөрөҫ яуап **ҡалын** шрифт менән. Был һорауҙарҙы кешегә ярашлы итегеҙ: Motown менән үҫкән кеше өсөн бер башҡа йырсылар, big bands тыңлаған кеше өсөн икенсе кәрәк булыр.
 
-| Question | Choices | Talk about |
+| Һорау | Варианттар | Һөйләшегеҙ |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Кемде «Рок-н-роллдың короле» тип атағандар? | **Элвис Пресли**, Фрэнк Синатра, Бинг Кросби | Элвисты телевизорҙан күргәнегеҙ бармы? |
+| Кемде «Ол' Блю Айз» тип исемләгәндәр? | Дин Мартин, **Фрэнк Синатра**, Перри Комо | Синатраның ҡайһы йырын яраталар? |
+| Бинг Кросби ап-аҡ ... хаҡында төш күргән. | **Раштуа**, туй, өй | Бергәләп бер юлды йырлағыҙ |
+| Луи Армстронг «Ниндәй матур ...» тигән йыр йырлаған. | Көн, **донъя**, тормош | Донъяла нимә һеҙгә матур? |
+| «Over the Rainbow» йырын Джуди Гарленд кайһы фильмда йырлай? | **«Оз иленең сихерсеһе»**, «Ел менән киткән», «Яңғырҙа йырлап» | Иң яратҡан фильмдарҙы ҡайҙа ҡаранығыҙ? |
+| «I Love Lucy» фильмында Люсиды кем уйнаған? | **Люсилл Болл**, Дорис Дэй, Бетти Уайт | Ғаиләгеҙ бергәләп ниндәй шоуҙар ҡараны? |
+| Трайгер исемле аттағы ковбой кем? | **Рой Роджерс**, Джин Отри, Джон Уэйн | Бала сағығыҙҙа ковбойҙар уйнағанығыҙ бармы? |
+| «The Tonight Show» программаһын 30 йыл кем алып барған? | Эд Салливан, **Джонни Карсон**, Боб Хоуп | Һуң ятып телевизор ҡараған саҡтар булдымы? |
+| 88 клавишлы инструмент ниндәй? | Гитара, **пианино**, труба | Ғаиләгеҙҙә кемдер уйнаны мы? |
+| Ниндәй бейеү «бер-ике-өс, бер-ике-өс» тип иҫәпләнә? | **Вальс**, твист, танго | Бейергә ҡайҙа йөрөнөгөҙ? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Музыка тураһында күберәк өсөн ҡарағыҙ: [деменция өсөн музыка активлыҡтары](/activities/music/).
 
-## Everyday life trivia
+## Көнкүреш викторинаһы
 
-| Question | Choices | Talk about |
+| Һорау | Варианттар | Һөйләшегеҙ |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Холодильниктар булғанға тиклем, өйҙәрҙә аҙыҡты салҡын тотҡан ... | **боҙ һандыҡ**, мейес, мансарда | Боҙҙо кем еткергән? |
+| Шешәләрҙә һөтте ишек төбөнә кем килтергән? | Почтальон, **һөт еткереүсе**, гәзит таратыусы | Өйгә тағы ниҙәр килтерелгән? |
+| Диск телефонды ҡалай ҡыңғыраулатҡандар? | Төймәләр баҫып, **түңәрәкте әйләндереп**, телефонға һөйләп | Өгөгөҙҙәге телефон тураһында һөйләгеҙ |
+| Model T автомобилен кем етештергән? | **Форд**, Шевроле, Бьюик | Ошаған машина тураһында һөйләгеҙ |
+| Soda jerk кәрәк булһа, ҡайҙа табырға мөмкин? | **Газлы һыу буфетында**, бағыра, банкта | Прилавкала нимә заказ иткәнегеҙ? |
+| Аяҡ аҫтынан төшөп түбән ағып, баҫып атлаған металл пружина — ниндәй уйынсыҡ? | Йо-йо, **Слинки**, хула-хуп | Ниндәй уйынсыҡтар яраттығыҙ? |
+| Драйв-ин — ... ҡарау өсөн урын ине. | **машинанан фильмдар**, футбол уйындары, парадтар | Кем менән барғанығыҙ? |
+| Бер доллар банкнотында кемдең йөҙө? | Линкольн, **Джордж Вашингтон**, Джефферсон | Ул саҡта бер доллар нимәгә етә торғайны? |
+| Цент тинендә кемдең йөҙө? | **Авраам Линкольн**, Вашингтон, Франклин | Ул саҡта тин ҡапҡа йыйғанығыҙ бармы? |
+| Мәктәп автобусы, ғәҙәттә, ниндәй төҫтә? | Ҡыҙыл, **һары**, зәңгәр | Мәктәпкә нисек барғанығыҙ? |
 
-## Holidays, nature and places
+## Байрамдар, табиғат һәм урындар
 
-| Question | Choices | Talk about |
+| Һорау | Варианттар | Һөйләшегеҙ |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Ноябрҙең дүртенсе пәнйешәмбеһендә ниндәй байрам? | Хеҙмәт көнө, **Рәхмәт әйтеү көнө (Thanksgiving)**, Иҫтәлек көнө | Өҫтәлегеҙҙә һәр ваҡыт нимә була торғайны? |
+| Джек-о'-лантерндар кем өсөн яһала? | **Хэллоуин**, Пасха, Раштуа | Үҫкән еринегеҙҙә Хэллоуин тураһында һөйләгеҙ |
+| 4 июль — Бойондороҡһоҙлоҡ декларацияһы көнө. Декларация нимә хаҡында? | Хоҡуҡтар, **бойондороҡһоҙлоҡ**, ирек | Фейерверкты ҡайҙа ҡаранығыҙ? |
+| Әсәләр көнө ниндәй айҙа билдәләнә? | Апрель, **май**, июнь | Ғаиләгеҙ нисек билдәләне? |
+| Америка флагында нисә йондоҙ бар? | 48, **50**, 52 | Флагта 1959 йылға тиклем 48 йондоҙ булған. Ике яуап та яҡшы иҫтәлек булырға мөмкин. |
+| Көнсығыш ярҙа ниндәй океан? | Тын, **Атлантик**, Арктик | Пляжға барғанығыҙ бармы? |
+| Азатлыҡ статуяһы ҡайҙа урынлашҡан? | Бостон, **Нью-Йорк**, Филадельфия | Нью-Йоркта булғанығыҙ бармы? |
+| Балҡорттар нимә етештерә? | Һөт, **бал**, ебәк | Бал менән ҡаҡ йәки сәйгә? |
+| Бәләкәй һыйыр бәтәйе нисек атала? | Айғыр бәтәй, **бозауҡай**, кәзә бәтәйе | Ауыл яҡынында йәшәгәнегеҙ бармы? |
+| Ҡояшҡа боролоп ҡарауы менән дан тоторға ярай торған бейек һары сәскә ниндәй? | Роза, **ҡояшҡарай**, лала | Бағағыҙҙа нимә үҫә торғайны? |
+| Йыл елле булғанда нисә көн була? | 365, **366**, 360 | Иҫтә ҡалған тыуған көн тураһында һөйләгеҙ |
+| Ҡыштан һуң ниндәй миҙгел килә? | Көҙ, **яҙ**, йәй | Иң яратҡан миҙгел ниндәй? |
 
-## Food and sports trivia
+## Аш һәм спорт викторинаһы
 
-| Question | Choices | Talk about |
+| Һорау | Варианттар | Һөйләшегеҙ |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Ҡорғатылған өҙөм — ул ... | Сливалар, **өҙөм**, вишня | Төшкө аш өсөн өҙөм һалғаныҙ бармы? |
+| Ҡорғатылған сливалар — ул ... | **Сливалар**, инжир, алма | Ғаиләгеҙҙә кем сливаларҙы яратҡан? |
+| Яңғаҡ майы һәм ... | **джем**, ветчина, бәрәңге | Ҡаты йәки йомшаҡ яҡшыраҡмы? |
+| Гуакамоле төп нигеҙҙә нимәнән әҙерләнә? | Бәрәңге, **авокадо**, огурец | Туйҙарҙа нимә менән ҡунаҡтарға ҡаршы алғанығыҙ? |
+| Рәхмәт әйтеү байрамында иң яратҡан ашмаҡ ниндәй? | **балҡабаҡ ашмағы**, лимон, вишня | Һеҙ ниндәй ашмаҡ бешерҙегеҙ? |
+| Бейсбол командаһында мәйҙанда нисә уйыншы була? | 7, **9**, 11 | Кем команданы яҡланығыҙ? |
+| Бейсболда нисә һуҡҡы аутҡа килтерә? | Ике, **өс**, дүрт | Бейсбол уйнағанығыҙ бармы? |
+| Бейб Рут нимә менән дан тота ине? | Бокс, **бейсбол**, гольф | Матчтарға барғанығыҙ бармы? |
+| Стандарт гольф майҙанында нисә һуҡыр була? | 9, **18**, 24 | Гольф йәки мини-гольф уйнағанығыҙ бармы? |
+| Ниндәй спортта тачдаун һуғыла? | **футбол**, хоккей, баскетбол | Һеҙҙең өйҙә футболды кем ҡарай ине? |
 
-## Familiar sayings
+## Таныш мәҡәлдәр
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Оҙаҡ элек өйрәнелгән телдән мәҡәлдәрҙе тамамлау еңел килә. Беҙҙең [Мәҡәлдәрҙе тамамла](/games/finish-the-saying/) уйыны күп мәҡәлдәр була, теләһә ниндәй осона бер баҫыу менән күрһәтә.
 
-| Saying | Choices | Talk about |
+| Мәҡәл | Варианттар | Һөйләшегеҙ |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Көнөнә бер алма — ... ҡасыр. | **табип**, яңғыр, мәсәй | Ҡайһы кеше был һүҙҙе һеҙгә әйтә торғайны? |
+| Иртә торған ҡош ... эләктерә. | Автобус, **ҡорт**, поезд | Иртә торған кешеме һеҙ? |
+| Һуҡмаһа, тауыҡтарҙы алдан һанама. | **сыҡмаһа**, йоҡлаһа, йырлаһа | Ғаиләгеҙҙә тауыҡ тотоп торғанығыҙ бармы? |
+| Йыйылған тин — ... тин. | **эшләнгән**, юғалған, тотонған | Ғаиләгеҙҙә кем иң тырышып аҡса йыйған ине? |
+| Өй — ... торған урын. | баҡса, **йөрәк**, мутфак | Нимә бер урынды өйгә оҡшатҡан? |
+| Һуңлап булһа ла — ... ҡарағанда яҡшыраҡ. | Иртәрәк, **бер ваҡыт та булмауынан**, ғәфү итегеҙ | Ҡайһы кеше һәр ваҡыт һуңлай торғайны? |
+| Һәр боттоҡтың көмөш ... бар. | **ситлеге**, ҡалағы, тины | Бәхетле осраҡ тураһында һөйләгеҙ |
+| Эш һүҙҙән ... көслерәк. | **һүҙҙән**, йырҙан, күк күкрәүенән | Ошо һүҙҙәрҙе кемдең әйткәне иҫегеҙҙә? |
 
-## This-or-that questions with no wrong answer
+## «Был йәки тағы» һорауҙары, дөрөҫ яуабы юҡ
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Был һорауҙар бөтә этапҡа ла тура килә, шул иҫәптән һуңғы этаптарға ла, сөнки тап һәм ялғыш яуап юҡ. Һорағыҙ, тыңлағыҙ, һәм үҙегеҙҙең яуабығыҙҙы ла әйтегеҙ.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Кофе йәки сәймеме?
+- Пляжмы әллә тауҙармы?
+- Эттәрме йәки мәсәйҙәрме?
+- Йәйме йәки ҡышмы?
+- Пирогмы йәки тортмо?
+- Бейеүме йәки ҡарап ултырыумы?
+- Таң ҡояшымы йәки кис ҡояшымы?
+- Алғы айванмы йәки артҡы баҡсамы?
+- Радиомы йәки пластинкаларҙамы?
+- Блинмы йәки йомортҡамы?
+- Розаларҙымы йәки ромашкаларҙымы?
+- Поезд менән сәйәхәтме йәки машина менән?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Һүрәттәр менән бәйле һөйләшеү һорауҙары өсөн беҙҙең баҫма [Һөйләшеү карточкалары](/games/conversation-cards/) менән танышығыҙ.
 
-## How do you run a trivia session in a care home or group?
+## Ҡарт кешеләр йортонда йәки төркөмдә викторинаны ҡалай үткәрергә?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Кешеләрҙе күрә һәм ишетә алырлыҡ итеп ултыртығыҙ.** Колаҡ аппараттары тағылған, күҙлек кейгән, телевизор һүндерелгән.
+2. **Уны әңгәмә итеп тәҡдим итегеҙ.** «Миндә иҫке көндәр тураһында бер нисә һорау бар, һеҙ минән күберәк беләһегеҙ тип уйлайым.»
+3. **Һәр һорауҙы ике тапҡыр уҡығыҙ һәм варианттарҙы зур итеп күрһәтегеҙ.**
+4. **Бүлмәнең теләһә кайһыһынан яуап ҡабул итегеҙ.** Яҡшы яуаптарҙы ҡабатлағыҙ, шулай итеп барыһы ишетһен.
+5. **Барыһы өсөн дөрөҫ яуапты әйтегеҙ,** һуңынан бүлмәгә һөйләшеү темаһын биреп ҡарағыҙ.
+6. **Энергияны күҙәтегеҙ.** Береһе ун минут хикәйәләр башлаһа, рөхсәт итегеҙ.
+7. **Йыр йәки «был йәки тағы» түңәрәге менән тамамлағыҙ,** шулай итеп барыһы еңел нәмә менән тамамлаһын.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Башҡа төркөм форматтары, шул иҫәптән картинкалы бинго һәм бергәләп йырлау өсөн ҡарағыҙ: [ҡарт кешеләр йорто өсөн төркөм сараһы](/activities/care-home-groups/).
 
-## When to change the plan
+## Планды ҡасан үҙгәртергә?
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Әгәр кемдер борсолған күренһә, тынып ҡалһа йәки «Белмәйем» тип бер нисә тапҡыр әйтһә, еңелерәк итегеҙ: ике вариант ҡалдырығыҙ, бергәләп яуап бирегеҙ, йәки «был йәки тағы» һорауҙарына күсегеҙ. Әгәр төркөм бөтә кис бер һорау тураһында һөйләшергә теләһә, был уңыш. Маҡсат бер ваҡытта ла дөрөҫ яуаптар булманы. Маҡсат — яҡшы компанияла ваҡыт үткәреү ине.

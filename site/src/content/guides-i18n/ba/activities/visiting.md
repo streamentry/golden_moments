@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Деменция менән йәшәгән кешене ҡарау йортонда йәки хастаханәлә күреү"
+seoTitle: "Деменция менән йәшәгән кешене күреү: нимә эшләргә һәм нимә алырға"
+description: "Ҡарау йортонда, ҡарттар йортонда йәки хастаханәлә деменция менән йәшәгән кешене күреүҙә нимә эшләргә: нимә алырға, ябай эштәр, ҡыҫҡа ҡунаҡлыҡтар һәм яҡшы итеп китеү."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Деменция менән йәшәгән кешене ҡарау йортонда йәки хастаханәлә күргәндә, ябай итеп
+  эш итегеҙ: килеп ингәндә үҙегеҙҙең исемегеҙҙе әйтегеҙ, уртаҡлашыр өсөн нимәлер
+  алып барығыҙ, мәҫәлән фотоһүрәттәр, музыка йәки яратҡан туҡлыҡ, һәм бергәләп бер
+  еңел эш эшләгеҙ. Ҡыҫҡа, даими ҡунаҡлыҡтар күпселек осраҡта оҙон, һирәк ҡунаҡлыҡтарға
+  ҡарағанда яҡшыраҡ үтә. Китеүҙе тыныс һәм даими итеп планлаштырығыҙ, шуның өсөн
+  ике яҡ өсөн дә китеү еңелерәк буласаҡ.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Кешене исеме менән иҫәнләшегеҙ һәм кем икәнегеҙҙе әйтегеҙ, шулай итеп ул уйлап тороп тормаҫ: «Сәләм, әсәй, мин — Сүзән, ҡыҙың»."
+  - "Уртаҡлашыу өсөн бер-ике нәмә алып барығыҙ, мәҫәлән фотоальбом, яратҡан музыка, йомшаҡ шәл йәки персонал раҫлаған туҡлыҡ."
+  - "Ҡыҫҡа, даими ҡунаҡлыҡтар оҙон, һирәк ҡунаҡлыҡтарға ҡарағанда күпселек осраҡта яҡшыраҡ үтә. Ҡайҙа һеҙ булыуығыҙ, нимә әйтеүегеҙҙән бигерәк, мөһимерәк."
+  - "Хастаханәлә персоналға кеше тураһында бер битлек мәғлүмәт биреп ҡуйығыҙ һәм ҡатын-ҡыҙ табибҡа һәр кәмә һуҡ үҙгәреш тураһында шунда уҡ әйтегеҙ."
+  - "Китеү вәҡытын планлаштырығыҙ: ҡасан китәсәкегеҙҙе әйтегеҙ, һәр юлы бер үк хушлашыуҙы ҡулланығыҙ һәм көтөп тормай китегеҙ."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Деменция менән йәшәгән кешене күргәндә нимә алырға?"
+    a: "Һөйләшер өсөн түгел, уртаҡлашыр өсөн нимәлер алығыҙ. Бәләкәй фотоальбом, яратҡан йырҙар исемлеге, йомшаҡ шәл, ҡулға крем йәки персонал раҫлаған туҡлыҡ — барыһы ла яраша. Ҡарау йортонда ғаилә фотоһүрәттәре һәм таныш әйберҙәр бүлмәне өйгә оҡшатырға ярҙам итә ала."
+  - q: "Деменция менән йәшәгән кешене күргәндә ҡасан китергә?"
+    a: "Бер генә дөрөс оҙонлоҡ юҡ. Күп ғаиләләр оҙон, һирәк ҡунаҡлыҡтарға ҡарағанда ҡыҫҡа, йышыраҡ ҡунаҡлыҡтарҙың яҡшыраҡ икәнен күрә, сәбәбе — кеше тиҙ арыуы мөмкин һәм һеҙҙең ҡасан китеүегеҙҙе иҫендә тотмаҫ. Арыу билдәләренә иғтибар итегеҙ һәм ҡунаҡлыҡ әле яҡшы булғанда китегеҙ."
+  - q: "Улар өйгә кайтырға теләгәндә, мин нимә әйтергә тейеш?"
+    a: "Һүҙҙәргә түгел, тойғоға яуап бирегеҙ. «Мин өйгә кайтырға теләйем» тигән һүҙ күпселек осраҡта «миңә рәхәт түгел йәки хәүефһеҙ түгел» тигәнде аңлата. «Өйөң тураһында һөйлә» әйтеп ҡарағыҙ, бергәләп фотоһүрәттәрҙе ҡараығыҙ йәки йөрөп ҡайтығыҙ, ашарға бирегеҙ. Тартышыу йәки ни өсөн китә алмауҙарын аңлатыу, ғәҙәттә, борсолоуҙы арттыра."
+  - q: "Улар мине танымаһа?"
+    a: "Был ауыр тойолорға мөмкин, ләкин уларҙы төҙәтергә йәки «Һин мине танымайһыңмы?» тип һорарға тырышмағыҙ. Йылы итеп һәм ябай ғына үҙегеҙҙе таныштырығыҙ һәм бергәләп вакыт үткәрегеҙ. Күп кеше, кемдең килгәнен таный алмаһа ла, күрһәтелгән иғтибарҙы һәм йылыһын тоя һәм ҡунаҡ булыуҙан ҡыуана."
+  - q: "Хастаханәлә ятыу ваҡытында мин ни рәүешле ярҙам итә алам?"
+    a: "Мөмкинлек булғанда кеше менән булығыҙ, ашарға һәм эсергә ярҙам итегеҙ, таныш нәмәләр — фотоһүрәттәр кеүек — алып барығыҙ. Персоналға кешенең режимын, ҡулланған исемен, яратҡан һәм ошамаған нәмәләрен, ауырыу билдәләрен һанаған бит биреп ҡуйығыҙ. Кеше кинәт ҡатмарлыраҡ йәки башҡасараҡ булһа, шунда уҡ табибҡа әйтегеҙ, сөнки кинәт буталыу медицина проблемаһы тураһында һигнал булырға мөмкин."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Яратҡан кешеңде ҡарау йортонда, ҡарттар йортонда йәки хастаханәлә күреү бик күп тойғолар уята ала. Һеҙ уйлап торорһоғоҙ: нимә әйтергә, нимә алырға, әгәр улар хәтерләмәһә, күреүҙең кәрәге бармы. Бар. National Institute on Aging иҫкәртә: Альцгеймер сирҙе булған кешеләр [күп осраҡта ҡунаҡтарҙы яратып ҡабул итә](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), улар кем икәнегеҙҙе хәтерләмәһә лә. Был биттә күреүгә тиклем, күреү ваҡытында һәм унан һуң ҡулланыла торған практик адымдар, шулай уҡ хастаханәгә ятҡанда өсөн кәңәштәр бирелә.
 
-## How do I get ready for a visit?
+## Күрешергә нисек әҙерләнергә?
 
-A little planning makes the visit easier for both of you.
+Ҡайһы бер planлаштырыу күреүҙе ике яҡ өсөн дә еңелерәк итә.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Яҡшы ваҡыт һайлағыҙ.** Dementia Australia кеше иң теләһә ҡайҙа һәйбәт аңлағанда, күпселек кешеләр өсөн иртәнге йәки төшкө тирәләй күрергә тәҡдим итә. Family Caregiver Alliance йортоң режимын өйрәнергә һәм [шөғөл ваҡытында түгел, буш ваҡытта](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) килергә ярҙам итә.
+- **Персонал менән һөйләшегеҙ.** Кеше бөгөн нисек икәнен һорағыҙ һәм ашау, хайуан йәки сығып йөрөү тураһындағы ҡағиҙәләрҙе тикшерегеҙ.
+- **Бәләкәй генә сумка әҙерләгеҙ.** Уртаҡлашыр өсөн бер-ике нәмә етә (түбәндәге исемлеккә ҡарағыҙ).
+- **Бер нисә темаға әҙер булығыҙ.** Кешенең яңылыҡтары булмаясаҡ, шуға күрә үҙегеҙ алып барығыҙ: ғаилә хәбәрҙәре, һауа торошо, футбол матчы, көлкөлө хикәйә.
+- **Үҙегеҙгә ниндәй көтөүҙәр булыуын билдәләгеҙ.** Кайһы ваҡыт ҡунаҡлыҡ йылы һәм һөйләшеп үтәсәк. Башҡа мәлдәрҙә ул тыныс йәки ауыр булыуы мөмкин. Ике осраҡ та ғәҙәти.
 
-## What should I bring?
+## Нәмә алырға?
 
-Bring things to share, not things that test. Good choices include:
+Һынауға һалыр өсөн түгел, уртаҡлашыр өсөн нәмәләр алығыҙ. Яҡшы һайлауҙар:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Бәләкәй фотоальбом**, ҙур һәм ап-асыҡ фотоһүрәттәр менән. Персонал өсөн артҡы яғына яҙып ҡуйығыҙ.
+- **Яратҡан йырҙар исемлеге** телефонда, ябай ҡолаҡсындар йәки бәләкәй колонка менән.
+- **Ҡулға алырға ят нәмә**, мәҫәлән таныш юрғаны, шарф йәки свитер.
+- **Ҡул кремы** ҡулды йомшаҡ массаж ҡылыу өсөн, әгәр кеше тейешеүҙе ярата икән.
+- **Журнал йәки һүрәтле китап** иҫке ҡыҙыҡһыныу тураһында, мәҫәлән баҡсасылыҡ, машиналар, ҡоштар йәки ашъяҙыу.
+- **Яратҡан туҡлыҡ**, әгәр персонал уны хәүефһеҙ тип иҫәпләһә.
+- **Бүлмә өсөн таныш әйберҙәр.** Family Caregiver Alliance сәскәләр, үҫемлектәр, ғаилә һүрәттәре йәки уҙған замандың ғаилә фотоларынан торған ҙур плакат тәҡдим итә.
+- **Планшет**, ғаилә фотоларын ҡарау йәки бергәләп еңел уйын уйнау өсөн.
 
-## What can we do together during a visit?
+## Күреү ваҡытында бергәләп нимә эшләргә мөмкин?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Бергә нимәлер эшләү һөйләшеү ауырлығын еңеләйтә. Dementia Australia фотоһүрәттәрҙе ҡарарға, еңел эш ҡылырға, сәскә утыртырға, музыка тыңларға, туҡлыҡ менән бүлешергә йәки баҡсала йөрөргә кәңәш итә. Тағы ла берничә фекер:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Фотоһүрәттәрҙе ҡарағыҙ.** Күргәнегеҙҙе күрһәтегеҙ: «Был шляпаға ҡарағыҙ.» «Был пляж матур күренә.» Кешегә етәкселек итергә бирегеҙ. «Был кем?» тип һорамағыҙ.
+2. **Музыка ҡуйығыҙ һәм йырлағыҙ.** Таныш йырҙар кәйефте күтәрә ала һәм һөйләшеү ауыр булғанда ла уртаҡ мәл бүләк итә.
+3. **Ҡыҫҡа йөрөш яһағыҙ.** Family Caregiver Alliance йортоң тирәһендә, айырыуса баҡсала йөрөүҙе тәҡдим итә. Коляскала йөрөү ҙә һанала.
+4. **Ҡулды массаж ҡылығыҙ.** Бер аҙ крем һәм ай-һай ғына ҡулдарҙы һыйпау тынысландырырға мөмкин.
+5. **Таҙартыуға ярҙам итегеҙ.** Dementia Australia сәс тараған, тырнаҡ буяған йәки яратҡан кейемгә кейендергән кеүек эштәрҙе әйтә, әгәр кеше был эштәрҙе ярата икән.
+6. **Ябай уйын уйнағыҙ.** Family Caregiver Alliance карта, домино йәки кешенең элек уйнаған уйынын тәҡдим итә. Планшетта [Picture Pairs](/games/picture-pairs/) уйынын фотоһүрәттәр күренеп торғанда һәм таймерһыҙ уйнарға мөмкин. [Photo Pairs](/games/photo-pairs/) һайлаған фотоларығыҙҙы парлау уйынына әйләндерә, һәм фотолар һеҙҙең браузерҙа ҡала.
+7. **Бергәләп ҡарағыҙ.** Family Caregiver Alliance көлкөлө фильмдарҙы һәм иҫке фильмдарҙы тәҡдим итә. Кеше хикәйәне аңламаһа ла, яндарға ултырып ваҡыт уртаҡлашырға була.
+8. **Юғары тауыш менән уҡығыҙ.** Ҡыҫҡа шиғыр, яратҡан өҙөк йәки ғаиләнән хат.
+9. **Бергә генә ултырығыҙ.** Ҡулдарҙы тотоу йәки тыныс ултырыу — ысын күреү. Alzheimer's Association нимә әйтергә белмәүегеҙ ҙә ярай, ә һеҙҙең булыуығыҙ иң мөһиме, тип билдәләй.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Һүҙ бөткәндә, [Conversation Cards](/games/conversation-cards/) ярҙам итә ала. Һәр карточкала һүрәт һәм асыҡ һорау бар.
 
-## How should I talk during the visit?
+## Күреү ваҡытында нисек һөйләшергә?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Һәр юлы үҙегеҙҙе таныштырығыҙ.** «Сәләм, әтәй, мин — Марат, улың.» NIA һөйләшеүҙе башлау өсөн ҡунаҡтарға ҡыҫҡа ғына үҙҙәрен таныштырырға кәңәш итә.
+- **Алғы яҡтан яҡынлашығыҙ** һәм күҙ дәрәжәһендә ултырығыҙ.
+- **Төҙәтмәгеҙ һәм тартышмағыҙ.** NIA ҡунаҡтарға кеше хата ҡылһа йәки нимәнедер онотһа, уны төҙәтмәҫкә кәңәш итә.
+- **Сабыр булығыҙ**, һүҙҙәр табыу ҡыйын булғанда. Күберәк ваҡыт бирегеҙ.
+- **Тойғоға яуап бирегеҙ.** Кеше ҡайғылы йәки борсолған кеүек булһа, темаға күсер алдынан уны танығыҙ.
+- **Имтихан һорауҙарынан һаҡланығыҙ**, мәҫәлән: «Һин мине хәтерләйһеңме?» йәки «Төшкө аш нимә ашағанһың?»
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Күберәк кәңәш өсөн [аралашыу кәңәштәренә](/caregiving/communication-tips/) ҡарағыҙ.
 
-## What do I do when they say "I want to go home"?
+## Улар «Мин өйгә кайтырға телим» тигәндә нимә эшләргә?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Һүҙҙәр артындағы тойғоға яуап бирегеҙ (ҡабатлап һорауҙар бирелгәндә, [кеше өйгә кайтырға һорай торғанда](/caregiving/asking-to-go-home/) тураһындағы ҡулланмабыҙ күберәк аңлата). Family Caregiver Alliance аңлата: «Мин өйгә кайтырға телим» — ғәҙәттә «миңә рәхәт түгел» тигәнде аңлата, һәм «Өйөң тураһында һөйлә» йәки «Өйҙә иң яратҡан нәмәң нимә ине?» кеүек яуаптар тәҡдим итә. Dementia Australia өҫтәй: «өй» тигәндә кеше үҙен хәүефһеҙ һиҙгән ваҡыт йәки урын, мәҫәлән бала сағы, аңлашыла ала.
 
-Try:
+Һынап ҡарағыҙ:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- тойғоны таныу: «Был өйөңдө һағынғанлыҡ тойолалыр.»
+- кеше рөхсәт биргән осраҡта, кулдан тотоп йылытыу
+- фотоһүрәттәрҙе ҡарау йәки ғаилә йорто тураһында һөйләшеү
+- йөрөүгә, эсергә йәки туҡлыҡҡа тәҡдим итеү
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Китә алмауҙарын аңлатыуҙан һәм тартышыуҙан һаҡланығыҙ. Был ешlykle файҙа килтерми, киреһенсә борсолоуҙы арттыра.
 
-## How long should a visit be?
+## Ҡунаҡлыҡ ҡасан булырға тейеш?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Ҡыҫҡа һәм йышыраҡ ҡунаҡлыҡ күпселек осраҡта яҡшыраҡ эшләй. Family Caregiver Alliance белдерә: кеше күпселек осраҡта һеҙ биш минутҡамы, биш сәғәткәме торғанығыҙҙы хәтерләмәй, һәм атна һайын өс ҡыҫҡа ҡунаҡлыҡ бер оҙонон яҡшыраҡ булыуы мөмкин, тип тәҡдим итә. Dementia Australia әйтә: ҡунаҡлыҡтарҙың дөрөс һаны йәки дөрөс оҙонлоғо юҡ.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Ҡарау йортонда күстәнән һуң беренсе аҙналарҙа Family Caregiver Alliance йышыраҡ килергә, аҙаҡ даими режимға килергә тәҡдим итә. Персоналдан, улар нимә күрә, тип һорағыҙ.
 
-## How do I leave without upsetting them?
+## Улар борсолмаһын өсөн, нисек китергә?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Китеү иң ауыр мәл булырға мөмкин. Dementia Australia түбәндәгеләрҙе тәҡдим итә:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Килгәндә ни тиклем торасаҡығыҙҙы әйтегеҙ.** «Мин бер сәғәт тора алам, аҙаҡ магазинға барырға тейешмен.»
+- **Эшҙе тәбиғи tamamlaү итеп файҙаланығыҙ.** «Был йыр бөткәс, китәм.»
+- **Вакытты туҡлыҡ йәки шөғөл менән туғырға,** йәки кешене башҡа нәмәгә кереп ултырырға персоналдан ярҙам һорағыҙ.
+- **Хушлашыуҙы ҡыҫҡа һәм һәр юлы бер үк итеп тотоғоҙ.** Оҙаҡ тороу, ғәфү һорау йәки «бер аҙ ҡалайым әле» тип ултырыу киләсәк хушлашыуҙарҙы ауырлаштыра ала.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Китеп барғаныңдан һуң, һағыныу тәбиғи. Ял итергә рөхсәт бирегеҙ. Әгәр кеше борсолһа, персонал ғәҙәттә уны бик тиҙ тынысландыра ала.
 
-## Visiting someone with dementia in the hospital
+## Хастаханәлә деменция менән йәшәгән кешене күреү
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Хастаханә шау-шулы, таныш булмаған һәм ят кешеләргә тулы, был деменция менән йәшәгән кеше өсөн бик ауыр булырға мөмкин. NIA-ның [Альцгеймер менән йәшәгән кешене хастаханәгә алып барыу](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) буйынса ҡулланмаһында түбәндәге тәҡдимдәр бар:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Кеше менән мөмкин тиклем күберәк булығыҙ:** ғаилә ағзаһы, ышанған дуҫ йәки яллаған ҡарасы.
+- **Персоналға шәхси мәғлүмәт биреп ҡуйығыҙ:** кешенең режимы, ҡулланылған исеме, яратҡан һәм ошамаған нәмәләре, мөмкин булған борсолоу сәбәптәре һәм ауырыуҙың һүҙһеҙ билдәләре. Күсермәләрен бүлмәгә һәм ҡарау бүлмәһенә ҡуйығыҙ.
+- **Ашарға һәм эсергә ярҙам итегеҙ.** Ҡарттар хастаханәлә туҡлыҡ етеҙлеге кисерергә мөмкин. Ҡаптарҙы асығыҙ, аш ваҡытында ярҙам итегеҙ, бергә ашағыҙ һәм эсерегеҙ.
+- **Йыуатыусы нәмәләр алып барығыҙ,** мәҫәлән фотоһүрәттәр йәки рухи әйберҙәр.
+- **Тауыш кәметегеҙ.** Телевизорҙы һүндерегеҙ, телефон һәм интерком тауышын кәметегеҙ.
+- **Тынысландырыу ғәҙәттәре менән бәйле эштәр һайлағыҙ,** мәҫәлән йомшаҡ музыка, уҡыу, дога ҡылыу, йырлау йәки иҫке фотоларҙы ҡарау.
+- **Хәүефһеҙ булғанса, хәрәкәтләнергә булышығыҙ,** персоналдың раҫлауы менән.
+- **Кеше кинәт ауыртыраҡ йәки башҡасараҡ булһа, шунда уҡ табибҡа әйтегеҙ.** NIA аңлата: кинәт ҡаты буталыу, delirium тип атала, инфекция, температура, һыу етеҙлеге йәки дарыу яндәшмәләре кеүек проблемалар сәбәп булырға мөмкин, һәм медицина ярҙамын талап итә.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Таныш йөҙ һәм яратҡан йыр менән ҡыҫҡа, тыныс ҡунаҡлыҡ хастаханә көнөндәге иң юаныс мәл булырға мөмкин.
 
-## Bringing children on a visit
+## Балалар менән бергә килеү
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Балалар бик күп йылылыҡ килтерә ала. Уларҙы алдан ябай һәм сыр булмаған һүҙҙәр менән әҙерләгеҙ, ҡунаҡлыҡты ҡыҫҡа тотоғоҙ, һәм уларға эш бирегеҙ, мәҫәлән һүрәт күрһәтергә йәки фотоһүрәт бирергә. NIA балалар һәм Альцгеймер менән йәшәгән кешеләр ябай шөғөлдәрҙе бергә ярата ала, мәҫәлән фотоальбом ҡарау йәки музыка тыңлау, тип әйтә. Dementia Australia балаларҙы мәшғүл итер өсөн бәләкәй туҡлыҡ йәки тыныс әйберҙәр сумкаһы алырға тәҡдим итә.
 
-## Take care of yourself too
+## Үҙегеҙҙе лә ҡайғыртығыҙ
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Күреү арыталыр һәм тойғоларҙы ҡуҙғатыр, айырыуса кеше бик ныҡ үҙгәргән булһа. Әгәр кәрәк булһа, ҡайтаһы күреүҙе һирәгерәк итеү, ҡайғырған өсөн дуҫ алып барыу йәки ауыр көндә иртәрәк китеү — барыһы ла ҡабул ителә. Үҙегеҙҙе ҡарау тураһында идеялар өсөн [ҡарауҙы үҙ-үҙеңде ҡайғыртыу](/caregiving/caregiver-self-care/) биттәренә ҡарағыҙ. Әгәр һеҙ алыҫта йәшәйһегеҙ, [телефон һәм видео шылтыратыуҙар](/activities/phone-and-video-calls/) буйынса ҡулланмабыҙға ҡарағыҙ.

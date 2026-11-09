@@ -1,32 +1,31 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Яңғыҙлыҡ, социаль айырылыу һәм деменция"
+seoTitle: "Яңғыҙлыҡ, социаль айырылыу һәм деменция куркынысы"
+description: "Яңғыҙлыҡ һәм социаль айырылыу нисек деменция куркынысы менән бәйле булыуы, АҠШ Хирург-генералының кисәтеүе нимә әйткәне һәм бергә аралашыуҙың ябай юлдары."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Тикшеренеүҙәр ҡартлыҡ сағында социаль айырылыу һәм яңғыҙлыҡ менән деменция куркынысының юғарырак булыуы араһында бәйләнеш таба.
+  2024 йылғы Lancet комиссияһы баһалауынса, айырылыу осраҡтарҙың яҡынса 5%-ына сәбәп була, ләкин бәйләнештең бер өлөшө
+  деменцияның алғы фазаһы менән бәйле булыуы ихтимал: кеше үҙе айырыла башлауы мөмкин. Аралашыуҙы дауам итеү, уртаҡ хоббилар
+  һәм ишетеү менән ярҙам итеү бәйләнешҡә ярҙам итә. Деменция менән йәшәгән кешеләр өсөн уртаҡ эшмәкәрлек ләззәт һәм тормош сифаты өсөн мөһим.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet комиссияһы ҡартлыҡ сағындағы социаль айырылыуҙы үҙгәртергә мөмкин булған 14 деменция куркынысы факторының береһе итеп атай, ул осраҡтарҙың яҡынса 5%-ын тәшкил итә."
+  - "АҠШ Хирург-генералының 2023 йылғы кисәтеүе дауамлы яңғыҙлыҡ һәм айырылыуҙы ҡартайған кешеләрҙә деменция куркынысының яҡынса 50%-ға юғарырак булыуы менән бәйләй."
+  - "Был дәлилдәрҙең күпселеге байҡау мәғлүматтарына нигеҙләнгән, һәм деменцияның алғы фазаһы кешене үҙе айырылырға этәрергә мөмкин."
+  - "Ишетеү һәм күреү проблемалары, яңғыҙ йәшәү һәм ҡайғыртыу айырылыу куркынысын арттыра."
+  - "Деменция менән йәшәгән кешеләр өсөн ләззәтле уртаҡ эшмәкәрлек тормош сифатын яҡлай; маҡсат — бәйләнеш, оҫталыҡ түгел."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Яңғыҙлыҡ деменцияға сәбәп буламы?"
+    a: "Был исбатланмаған. Күп тикшеренеүҙәр яңғыҙлыҡ һәм айырылыуҙы деменция куркынысының юғарырак булыуы менән бәйли, ләкин мейенең алғы үҙгәрештәре кешене башҡаларҙан читләшергә мөмкин. Бәйләнеште нығытыу күңел күтәрелеше һәм һаулыҡ өсөн башҡа күп файҙа килтерә, шуға күрә уны ҡулдау яраҡлы."
+  - q: "Яңғыҙлыҡ менән социаль айырылыу араһындағы айырма нимәлә?"
+    a: "Социаль айырылыу — даими аралашыу өсөн бик аҙ кешенең булыуы. Яңғыҙлыҡ — айырылған йәки ташланған тойғоно аңлата, ул бик ауыр. Яңғыҙ йәшәп тә үҙеңде яңғыҙ тоймаҫҡа мөмкин, йәки күп кеше араһында булып та яңғыҙлыҡ кисерергә мөмкин."
+  - q: "Деменциялы ата-әсәне бәйләнештә тотоуға нисек ярҙам итергә?"
+    a: "Ҡыҫҡа, даими аралашыу яҡшы эш итә. Аҙна һайын билдәле ваҡытта шылтыратыу йәки видео-һөйләшеү, аш бүлмәһендә уртаҡ эшмәкәрлек, «хәтер кафеһы» йәки хайуан менән йә ейәндәр менән осрашыу ҡарарға мөмкин. Төркөмдәрҙе бәләкәй һәм тыныс тотоғоҙ, темпты кешенең үҙенә ҡалдырығыҙ."
+  - q: "Яңғыҙ ҡалған өлкән кешегә урындағы ярҙамды ҡайҙан табырға?"
+    a: "Үҙ ҡалаңдағы йәки райондағы социаль хеҙмәт үҙәгенә, өлкәндәр менән эшләүсе ойошмаларға, ҡарттар үҙәгенә йәки урындағы ярҙам программаларына мөрәжәғәт итегеҙ. Ҡайҙа барырға икәнен белергә ҡала хакимиәтенең социаль бүлеге йәки табип ярҙам итә ала."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +53,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Кешеләр компания өсөн яратылған, һәм был йәш менән үҙгәрмәй. Тикшеренеүҙәр ҡартлыҡ сағында яңғыҙлыҡ һәм социаль айырылыу менән деменция куркынысының юғарырак булыуын, шулай уҡ йөрәк ауырыуы һәм депрессияны бәйли. Тикшеренеү был бәйләнештең ҡайһы өлөшө сәбәп һәм һөҙөмтә икәнен әлегә әйтә алмай. Был биттә дәлилдәр нимә күрһәтә, аралашыуҙы һаҡлаудың ябай юлдары һәм деменция менән йәшәгән кешеләр өсөн уртаҡ эшмәкәрлек ни өсөн шул тиклем мөһим икәне яҙылған.
 
-## Are loneliness and isolation linked with dementia?
+## Яңғыҙлыҡ һәм айырылыу деменция менән бәйлеме?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Эйе, күп тикшеренеүҙәр уларҙы бәйләй, ләкин йүнәлеш тулыһынса асыҡ түгел. [2024 Lancet комиссияһы](https://doi.org/10.1016/S0140-6736(24)01296-0) ҡартлыҡ сағындағы социаль айырылыуҙы үҙгәртергә мөмкин булған 14 куркыныс факторының береһе итеп атай. [UCL-ҙың отчет буйынса йомғағы](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) был донъя буйынса деменция осраҡтарының яҡынса 5%-ын тәшкил итә, тип баһалай.
 
-What the evidence shows:
+Дәлилдәр нимә күрһәтә:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Аҙыраҡ аралашыу — юғарырак куркыныс.** Комиссия ике обзорҙо һүрәтләй, улар сирәгерәк социаль аралашыуҙы деменция куркынысының юғарырак булыуы менән бәйләгән. Берешендә яҡынса 57%, икенсеһендә яҡынса 18% юғарырак куркыныс табылған.
+- **Яңғыҙлыҡ та.** Айырылған тойғо — яңғыҙлыҡ — бер нисә обзорҙа деменция куркынысының юғарырак булыуы менән дә бәйләнгән.
+- **АҠШ Хирург-генералының фекере.** 2023 йылдың майында АҠШ Хирург-генералы [яңғыҙлыҡ һәм айырылыу тураһында кисәтеү](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) сығарҙы. Унда әйтелгәнсә, дауамлы яңғыҙлыҡ һәм айырылыу ҡартайған кешеләрҙә деменция куркынысын яҡынса 50%-ға арттыра ала. Ул шулай уҡ һыҙат социаль бәйләнешһеҙлекте йөрәк ауырыуы куркынысы 29%-ға, инсульт куркынысы 32%-ға юғарырак булыуы менән бәйләй.
+- **Ул нисек киң таралған.** [Милли фәндәр академияһы отчеты](https://www.ncbi.nlm.nih.gov/books/NBK557972/) буйынса, АҠШ-та йәшәү урынында йәшәгән 65 йәш һәм уны узған кешеләр араһында яҡынса 24% социаль айырылған.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Мөһим иҫкәртеү: Lancet комиссияһы әйтә, кешеләр деменцияның алғы, асыҡланмаған фазаһында социаль эшмәкәрлекте кәметергә мөмкин. Шулай итеп, бәйләнештең бер өлөшө деменциянан айырылыуға сәбәп булыуы ихтимал. Был дәлилдәрҙең килеп сыҡҡаны күбеһенсә байҡау өйрәнеүҙәренән.
 
-## What is the difference between loneliness and isolation?
+## Яңғыҙлыҡ менән айырылыу араһындағы айырма нимәлә?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Ҡартлыҡ буйынса Милли институт (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) был төшөнсәне шулай аңлата. **Социаль айырылыу** — бик аҙ социаль контакт йәки даими аралашыу өсөн бик аҙ кеше булыуы. **Яңғыҙлыҡ** — айырылған йәки яңғыҙ ҡалыу тураһындағы борсолоу тойғо. Кеше яңғыҙ йәшәп бәхетле булыуы мөмкин, ә тулы бүлмәлә лә яңғыҙлыҡ кисерергә мөмкин.
 
-The NIA lists factors that raise the risk of both:
+NIA ошо ике хәлгә лә куркыныс арттырған факторҙар исемлеген килтерә:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Ишетеү йәки күреү проблемалары
+- Йөрөү ҡыйынлығы йәки транспорт юҡлығы
+- Яңғыҙ йәшәү, йәки ғүмер юлдашын юғалтыу, йәки пенсияға сығыу кеүек ҙур үҙгәреш
+- Хәтер йәки уйлау үҙгәрештәре
+- Һаулығы насар булған яҡын кешене ҡайғыртыу
+- Аҡсаға борсолоу йәки тел киртәләре
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Ишетеү — ҙур мәсьәлә. NIA әйтә: ишетә алмаған кешеләр аралашыуы ауыр йәки уңайһыҙ булғанға, читләшергә мөмкин. Беҙҙең [ишетеү һәм мейе һаулығы буйынса бит](/brain-health/hearing/) ишетеүҙе тикшереү һәм рецепһыҙ ишетеү аппараттары тураһында яҙа.
 
-## Practical ways to stay connected
+## Бәйләнештә ҡалыу өсөн ябай юлдар
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA төрлө фекерҙәр тәҡдим итә. Үҙегеҙгә тура килгәндәрен һайлағыҙ:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Даими аралашыуҙы планлаштырығыҙ.** Ғаиләһе, дуҫтары йәки күршеләре менән көнөнә йәки аҙнаһына билдәле ваҡыт: шылтыратыу, яҙыу, хат йәки открытка ебәреү.
+- **Видео-һөйләшеү йәки аҡыллы динамиктарҙы ҡулланығыҙ.** Технология яңы булһа, күп ҡала китапханәләре һәм йәмәғәт үҙәктәре курстар үткәрә. Беҙҙең [телефон һәм видео-һөйләшеүҙәр буйынса бит](/activities/phone-and-video-calls/) ҡарағыҙ.
+- **Берәй нәмәгә ҡушылығыҙ.** Курс, дини ҡәрҙәштәр төркөмө, йөрөү клубы йәки волонтерлыҡ аралашыу һәм мәғәнә бирә.
+- **Элекке хоббиғыҙҙы ҡабаттан башлағыҙ** йәки башҡалар менән яңыһын өйрәнегеҙ.
+- **Башҡалар менән хәрәкәт итегеҙ.** Дуҫ йәки төркөм менән физкультура. Беҙҙең [физик әүҙемлек буйынса бит](/brain-health/exercise/) еңел варианттар бирә.
+- **Хайуан тотоуҙы уйлағыҙ**, әгәр уны ҡарай алһағыҙ.
+- **Урындағы хеҙмәттәрҙе ҡулланығыҙ.** Ҡарттар үҙәктәре, өлкәндәр менән эшләүсе райондағы ойошмалар һәм социаль хеҙмәт бүлеге программалар һәм транспорт буйынса юл күрһәтә ала.
 
-## Why do shared activities matter in dementia?
+## Деменцияла уртаҡ эшмәкәрлек ни өсөн мөһим?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Деменция менән йәшәгән кеше өсөн бәйләнеш — ләззәт, тынғылыҡ һәм үҙен кәрәкле итеп тойоу тураһында, куркынысты кәметеү тураһында түгел. Lancet комиссияһы әйтә, эшмәкәрлек деменция менән йәшәгән кешеләргә ләззәтте һәм мағналы тормошто һаҡларға ярҙам итә. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) тормош сифатын яҡшыртыуҙан тыш, эшмәкәрлек «адашыу» йәки борсолоу кеүек тәртипте кәметергә мөмкин, тип билдәләй. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) өҫтәй: Альцгеймер сирле кешеләргә хәрәкәт итергә һәм үҙҙәренә оҡшаған эштәр менән шөғөлләнергә кәрәк.
 
-Ideas that work well:
+Файҙалы фекерҙәр:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Фотоларға бергә ҡарағыҙ.** [Һөйләшеү карточкалары](/games/conversation-cards/) — асыҡ, тест түгел һорауҙар: «Миңә ... тураһында һөйләгеҙ». [Хәтирәләр буйынса бит](/activities/reminiscence/) ҡарағыҙ.
+2. **Янә-янында уйнағыҙ.** [Пар рәсемдәр](/games/picture-pairs/) рәсемдәрҙе күренеп торған хәлдә һаҡлай, ваҡыт йәки очко юҡ, шуға баҫым юҡ. [Бергә ҡалай уйнарға](/caregiving/how-to-play-together/) буйынса кәңәштәр ҡарағыҙ.
+3. **Ғаилә фотоларын ҡулланығыҙ.** [Фото пары](/games/photo-pairs/) һайлаған фотоларығыҙҙы парлау уйынына әйләндерә, фотолар ҡорамалда ҡала.
+4. **Кешеләрҙе бергә йыйығыҙ.** [Рәсем бинго](/games/picture-bingo/) ғаилә йыйылыштары һәм [ҡарттар йортондағы төркөмдәр](/activities/care-home-groups/) өсөн яраҡлы.
+5. **Музыка, йорт эштәре йәки баҡсаны уртаҡлаштырығыҙ.** Ҡарағыҙ: [музыка эшмәкәрлеге](/activities/music/), [йорт эштәре](/activities/household-tasks/) һәм тулы [эшмәкәрлек фекерҙәре](/activities/ideas/) исемлеге.
+6. **Осрашыуҙарҙы еңелерәк итегеҙ.** Беҙҙең [осрашыу буйынса бит](/activities/visiting/) ҡыҫҡа, тыныс осрашыуҙар тураһында: улар барыһына ла рәхәт.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Уны ябай һәм рәхәт тотоғоҙ. Бәләкәй бүлмәлә бер-ике кеше менән булыу күп осраҡта ҙур төркөмгә ҡарағанда яҡшыраҡ эшләй. Әгәр кеше арый йәки ҡыҙыҡһыныуын юғалта, туҡтатыу ҙа дөрөҫ. Бергә сәй эсеү ҙә — уңышлы һөҙөмтә.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Деменция менән йәшәгән, яңғыҙ йәшәгән кеше өсөн NIA шулай тәҡдим итә: ышанған кешене табығыҙ, ул даими килеп йәки видео-һөйләшеп торһон һәм ашығыс осраҡта контакт булһын. Шулай уҡ урындағы «хәтер кафеһы» — хәтер юғалтҡан кешеләр һәм уларҙың ғаиләләре өсөн рәхәт социаль урын — тураһында әйтелә.
 
-## Caregivers get lonely too
+## Ҡайғыртыусылар ҙа яңғыҙлыҡ кисерә
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA яҡын кешене ҡайғыртыуҙы айырылыу куркынысы итеп атай. Үҙегеҙҙең дуҫтарығыҙ, ҡулдау төркөмдәре һәм ял өсөн ваҡыт һаҡлағыҙ. Беҙҙең [ҡайғыртыусының үҙ-үҙен тәрбиәләү буйынса бит](/caregiving/caregiver-self-care/) практик фекерҙәр бирә.
 
-## Talk with a doctor
+## Табип менән һөйләшегеҙ
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Әгәр һеҙ йәки һеҙ ҡайғыртҡан кеше күп ваҡыт яңғыҙлыҡ йәки айырылыу кисерә, табипҡа әйтегеҙ. NIA кешеләрҙе ғаиләлә үлем кеүек ҙур тормош үҙгәрештәре тураһында һөйләргә өндәй, табип тулы картинаны аңлауы өсөн. Бер нисә аҙна буйы күңелһеҙлек — депрессия булырға мөмкин, ә уны дауалап була. Әгәр өлкән кеше элекке дуҫтарынан йәки ярата торған эшмәкәрлектән яңыраҡ читләшә башлаһа, был үҙгәреште лә табипҡа әйтеү кәрәк. [Башланғыс билдәләр һәм ҡасан табипҡа барырға](/brain-health/warning-signs/) ҡарағыҙ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Был бит — гомуми мәғлүмәт, медицина кәңәше түгел. [Медицина иҫкәртеүе](/medical-disclaimer/) менән танышығыҙ.

@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Деменция менән йәшәгән кеше өйгә кайтырға һорағанда"
+seoTitle: "Деменция: өйгә кайтырға һорағанда нимә әйтергә"
+description: "Деменция менән йәшәгән кеше өйҙә булһа ла ни өсөн өйгә кайтырға һорай, нимә әйтергә, тынысландырыр өсөн нимә эшләргә һәм китергә теләһә, нисек һаҡлана."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Деменция менән йәшәгән кеше өйгә кайтырға һорай башлағанда, «өй» күп осраҡта
+  бина түгел, ә хәүефһеҙлек тойғоһо йә үткән заман урыны тураһында була. Уның
+  менән бәхәсләшмәгеҙ, өйҙә булыуын иҫбатларға тырышмағыҙ. Тойғоһон танығыҙ,
+  хәүефһеҙ булыуын ышандырығыҙ, өй тураһында һорағыҙ, һуңынан фото, музыка,
+  ашамлыҡ, йөрөү йә ябай эш менән күсегеҙ. Аслығын, сәңкеләнеүен, туалетҡа
+  кәрәклеген йә ауырыуын тикшерегеҙ. Әгәр ул кинәт башланһа, табибҡа
+  шылтыратығыҙ.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Өйгә кайтырға телим» һүҙҙәре күп осраҡта адрес һорау түгел, ә «үҙемде хәүефһеҙ һәм тыныс тоймайым» тигәнде аңлата."
+  - "Бәхәсләшеү йә өйҙә булыуын иҫбатлау, ғәҙәттә, борсолоуҙы көсәйтә. Яуап бирегеҙ тойғоға, һүҙҙәргә түгел."
+  - "Өй тураһында һөйләп бирергә һорағыҙ, һуңынан фото, музыка, ашамлыҡ, йөрөү йә ябай эш тәҡдим итегеҙ."
+  - "Төҙәтергә мөмкин булған нәмәне тикшерегеҙ: аслык, сәңкеләнеү, туалет, ауырыу, артыҡ йылы йә һалҡын, шау-шу, арыу."
+  - "Әгәр был һәр кискә ҡабатланһа, ул кискә ҡарай торған аптырағанлыҡ (sundowning) булырға мөмкин; тәртипле көнлөк һәм яҡтылыҡ ярҙам итергә мөмкин."
+  - "Улар китергә теләһә, хәүефһеҙлек сараларын алдан ҡарағыҙ, һәм ниндәйҙер кинәт үҙгәреш тураһында табибҡа хәбәр итегеҙ."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Минең әсәм деменция менән өйҙә булғанда ла ни өсөн өйгә кайтырға һорай?"
+    a: "Деменция таныш бүлмәләрҙе ят итеп күрһәтергә мөмкин, һәм кешеләр ҡайһы саҡ үҙҙәрен ғүмерҙең элекке осоронда тоялар. «Өй» балалыҡ йортон йә бары хәүефһеҙлек һәм рәхәтлек тойғоһон аңлатырға мөмкин. Ул тойғоға яуап биреү, ғәҙәттә, уның хәҙерге урынын күрһәтеүгә ҡарағанда яҡшыраҡ эшләй."
+  - q: "Улар өйгә кайтырға һорағанда нимә әйтергә?"
+    a: "«Һеҙ монда хәүефһеҙ, һәм мин һеҙҙең яныңда торам» тип әйтеп ҡарағыҙ, һуңынан: «Миңә үҙегеҙҙең өйөгөҙ тураһында һөйләгеҙ» тигеҙ. Тыңлағыҙ, фото йә йыр күрһәтегеҙ, эсерегеҙ йә ҡыҫҡа йөрөүгә тәҡдим итегеҙ. «Һеҙ өйҙәсегеҙ» тип төҙәтеү рәүешендә әйтмәгеҙ: был улар дөрөҫ түгел тигәндәй тойолорға мөмкин."
+  - q: "«Һуңыраҡ өйгә кайтырбыҙ» тип әйтеү дөрөҫмө?"
+    a: "Ғаиләләр һәм деменция буйынса ойошмалар был мәсьәлә буйынса фекер менән айырыла. Күптәр асыҡ йыуатыу һәм иғтибарҙы икенсе нәмәгә күсереүҙән башлай, ә йомшаҡ ялғанды шул мәлдәрҙә генә ҡуллана, ҡасан ысын хәл ул кешенең аңлай алмаған борсолоуын ғына арттыра. Ниндәй юл һайлағанығыҙҙа ла, мәрхәмәтле һәм тотошлай бер үк булығыҙ, уның хис-тойғоһон мыҫҡыл итмәгеҙ."
+  - q: "Улар өйҙән сығырға теләһә, нимә эшләргә?"
+    a: "Тыныс булығыҙ һәм юлын тытмай, уның менән бергә атлағыҙ; ҡыҫҡа йөрөү сәбәп булған теләкте еңеләйтергә мөмкин. Алдан хәүефһеҙлек саралары күрегеҙ, мәҫәлән, танытыу браслеты, ишек ҡыңғырауы һәм яңы фото. Әгәр улар юғалһа, шунда уҡ эҙләй башлағыҙ, һәм 15 минут эсендә таба алмаһағыҙ, 112 һанына шылтыратығыҙ, кешенең деменциясе барлығын әйтегеҙ."
+  - q: "Ҡасан табибҡа шылтыратырға?"
+    a: "Әгәр һорау йә аптырау кинәт башланһа, йә сәғәттәр йә көндәр эсендә бик яман көсәйһә, табибҡа тиҙ шылтыратығыҙ, айырыуса температура, яңы дарыу йә ҡыуыҡ юлы инфекцияһы билдәләре булһа. Кинәт аптырау делирий булырға мөмкин, уға шәп ярҙам кәрәк. Кемдер хәүеф аҫтында булһа, 112 һанына шылтыратығыҙ."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Өйгә кайтырға телим». Күп ғаиләләр өсөн был иң ауыр ишетелгән һүҙҙәрҙең береһе, айырыуса һеҙ ҡараған кеше үҙ уҡ торған бүлмәһендә ултырғанда. Был бик күп осрай, деменцияның теләһә ниндәй осоронда була ала, һәм тыныс, ғәмәли яуап биреү юлдары бар. Бына был биттә был һүҙҙәр күп осраҡта нимә аңлатыуы, нимә әйтергә, ул мәлдә ниҙәр ярҙам итә алыуы һәм нисек хәүефһеҙ булырға кәрәклеге яҙылған.
 
-## Why does someone with dementia keep asking to go home?
+## Ни өсөн деменция менән йәшәгән кеше өйгә кайтырға һорай бирә?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Күпселек осраҡта «өй» — урын түгел, ә тойғо. Alzheimer's Society (Альцгеймер ҡоролмаһы) уны бер ниндәй бина түгел, ә рәхәтлек һәм хәүефһеҙлек тойғоһо, йә үткән заман өйө тип тасуирлай. Деменция таныш бүлмәләрҙе ят итеп күрһәтергә мөмкин, һәм кеше үҙенең ғүмерендә элекке осорҙа йәшәгәндәй тоя ала: балалыҡ йорто йә балаларын үҫтергән урын.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Был һүҙҙәр шулай ук хәҙерге ваҡытта бер ниндәй нәмәнең насар булыуын күрһәтергә мөмкин: улар аслы, һыуһаған, туалетҡа кәрәк, ауыртына, артыҡ йылы йә һалҡын, арыған, яңғыҙ, ҡурҡа йә шау-шудан һыҡмаҡ булырға мөмкин. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) борсолоу сәбәптәре араһында ауыртыу, шау-шу, яңғыҙлыҡ, көнлөк үҙгәреше һәм дарыуҙарҙы атай.
 
-## What should I say when they ask to go home?
+## Улар өйгә кайтырға һорағанда нимә әйтергә?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Һүҙҙәргә түгел, тойғоға яуап бирегеҙ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) кешене ялған тип ышандырырға тырышмаҫҡа кәңәш итә: уның тойғоһо ысын, шуға күрә иң элек йыуатыу һәм ышандырыу менән яуап бирегеҙ, һуңынан иғтибарҙы йомшаҡ итеп икенсе нәмәгә күсерегеҙ.
 
-Phrases that often help:
+Күп осраҡта ярҙам иткән фразалар:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Тойғоно атағыҙ.** «Һеҙ өйөгөҙҙө һағынғанһығыҙ, был аңлашыла».
+- **Ышандырығыҙ.** «Һеҙ монда хәүефһеҙ, һәм мин һеҙҙең яныңда торам». [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) «Һеҙ монда хәүефһеҙ» тигән ябай һүҙҙәрҙе тәҡдим итә.
+- **Хәтирәләргә саҡыру.** «Миңә өйөгөҙ тураһында һөйләгеҙ. Ә ашханағыҙ нисек булған?» Alыҫ үткәндән һорау бирергә, ғәҙәттә, бөгөнгө хаҡындағы һорауҙарға ҡарағанда еңелерәк.
+- **Бергәләп нимә лә булһа эшләргә тәҡдим итегеҙ.** «Элек сәй эсеп алайыҡ» йә «Был һөлөктәрҙе йыйыуға ярҙам итмәҫһегеҙме?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Йылы тон һәм, әгәр ул һыйпауҙы ошатһа, ҡулдан тотоу һүҙҙәрҙән дә күберәк әйтә ала.
 
-## What should I avoid?
+## Нимәнән һаҡланырға кәрәк?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Бәхәсләшмәгеҙ һәм аңлатмағыҙ.** «Һеҙ хәҙер монда йәшәйһегеҙ» йә «Был өй 40 йыл һеҙҙең өйөгөҙ булды» тип әйтеү — деменция ауыр иткән нәмәне ҡабул итергә талап итә, һәм ул үҙен дөрөҫ түгел тип ҡабул итеүе мөмкин.
+- **Һорау менән һынамағыҙ.** «Һеҙ иҫләмәйһегеҙмеni?» йә «Адресы ниндәй?» тигән һорауҙар басым яһай.
+- **Асыу менән ишекте бикләмәгеҙ.** Әгәр улар сығырға итһә, тыныс булығыҙ һәм уның менән бергә йөрөгөҙ. Бергә ҡыҫҡа йөрөү күп осраҡта борсолоуҙы баҫа.
+- **Ашыҡмағыҙ.** Темаһын үҙгәртер алдынан, өй тураһында һөйләшергә ваҡыт бирегеҙ.
 
-## Activities that can help in the moment
+## Ул мәлдә ярҙам итергә мөмкин булған эштәр
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Тойғоно танығандан һуң, тыныс, таныш эш иғтибарҙы икенсе яҡҡа йүнәлтә ала, уны кире ҡағып түгел.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Өй һәм ғаилә фотоларын ҡарағыҙ.** Бер-бер артлы битләрҙе борағыҙ һәм иҫкәрмәләр яҙығыҙ («Был баҡсаны ҡарағыҙ»), һорау бирмәгеҙ. Телефон йә планшетта [Фото парҙар](/games/photo-pairs/) үҙегеҙҙең ғаилә фотоларын йомшаҡ парлау уйынына әйләндерә, фотолар ҡорамаңыҙҙа ҡала.
+2. **Өй тураһында һөйләшегеҙ.** [Һөйләшеү карточкалары](/games/conversation-cards/) өйҙәр, ашханалар, күршеләр һәм байрамдар тураһында асыҡ һорауҙар тәҡдим итә, дөрөҫ яуап юҡ.
+3. **Ярата торған музыка уйнағыҙ.** National Institute on Aging борсолоуҙы баҫырға ярҙам иткән ҡәнәғәтләндергеҙ музыканы атай. Беҙҙең [музыка эштәре](/activities/music/) менән танышығыҙ.
+4. **Ашағыҙ йә эсегеҙ.** Аслыҡ һәм ыһыҙлыҡ тынғыһыҙлыҡ кеүек күренергә мөмкин. Сәй йә яратҡан тәм-томлоҡ та өйҙә булыу тойғоһон бирә.
+5. **Йөрөгөҙ йә тышта ултырығыҙ.** Хәрәкәт һәм көндөҙгө яҡтылыҡ, айырыуса көндөң тәүге яртыһында, ярҙам итә.
+6. **Таныш эш бирегеҙ.** Кейем йыуыу, пычаҡ-ашаҡ тәртипкә килтереү йә сәскәләрҙе һыуытыу өйҙө алып барыу тойғоһон ҡабат ҡайтара ала.
+7. **Бөтә нәмәне әкренләтегеҙ.** Телевизорҙы һүндерегеҙ, шау-шуҙы һәм яҡтылыҡ ялтыраўын кәметегеҙ, бергә [тыныс сулыш алыуҙы](/games/calm-breathing/) ойоштороғоҙ.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Әгәр бер идея эшләмәһә, һуңыраҡ икенсеһен һынап ҡарағыҙ. Бергәләп тыныс ултырыу ҙа яҡшы һөҙөмтә.
 
-## Check for a cause you can fix
+## Төҙәтергә мөмкин булған сәбәпте тикшерегеҙ
 
-| Check | What to try |
+| Тикшерегеҙ | Нимә һынарға |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Аслы йә ыһыҡлы | Эсерегеҙ һәм бәләкәй ашамлыҡ тәҡдим итегеҙ |
+| Туалетҡа кәрәк | Ҡунаҡлыҡһыҙ, тыныс рәүештә, юынырға йә туалетҡа барырға тәҡдим итегеҙ |
+| Ауыртыу йә ыңғайһыҙлыҡ | Ҡыйшайыу, тотоу йә эскелек кеүек билдәләрҙе күҙәтегеҙ, табибҡа әйтегеҙ |
+| Артыҡ йылы йә артыҡ һалҡын | Кейемде йә бүлмә температураһын төҙәтегеҙ |
+| Шау-шу йә тығыҙлыҡ | Тыныраҡ бүлмәгә күсегеҙ, телевизорҙы һүндерегеҙ |
+| Арыған йә артыҡ тулыҡҡан | Ял итергә, бүлмәне яҡтыртмағыҙ, йомшаҡ музыка уйнағыҙ |
+| Кискә ҡарай | Түбәндәге «кискә ҡарай торған аптырағанлыҡ» бүлеген ҡарағыҙ |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society ҡыҫҡа яҙма алып барырға тәҡдим итә: һорау ҡасан килә, мәҫәлән, ашарҙан алда, кунаҡтарҙан һуң йә ҡараңғыға ҡарай. Ҡабатланған ҡағиҙәләр алдан планлаштырырға ярҙам итә.
 
-## Is it okay to tell a white lie?
+## Ялған әйтергә яраймы?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Был — ысын бәхәс, һәм мәрхәмәтле ғаиләләр төрлө фекерҙә. Alzheimer's Society бер генә дөрөҫ яуап юҡ тип иҫәпләй: ялған ҡайһы бер кешеләрҙе шикләндерергә мөмкин, шуға күрә кеше мәнфәғәтен иҫәпкә алып ҡарар ҡабул итергә һәм тотороҡло булырға кәрәк. Penn Memory Center-ҙа бер кеше фекере буйынса, дөрөҫлөк — ғәҙәти юл, ә йомшаҡ ялған ул конкрет дөрөҫлөктө ҡабул итә алмаған сағында ғына ярай, һәм кешенең ысынбарлығын мыҫҡыл итергә ярамай.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Күп ҡарауҙар урталыҡ юлды ярҙам итеүсе табыу: тәүҙә асыҡ йыуатыу һәм иғтибарҙы күсереү («Бөгөн төндә шунда ҡалабыҙ, һәм мин һеҙҙең яныңда»), өй ҡайҙа икәне тураһында бәхәсләшмәйенсә.
 
-## What if it happens every afternoon or evening?
+## Һәр көндө йә кискә ҡабатланһа, нимә эшләргә?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Көндөҙ һуңғы яртыла йә кискә ҡарай башланған йә көсәйгән борсолоу күп осраҡта sundowning тип атала. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) тәртипле график, көн яҡтылығы һәм эш-хәрәкәт, һуңғы төштән һуң ял итеүҙе ҡыҫҡартыу һәм көн һуңында кофе йә спиртлы эсемлек алмауҙы тәҡдим итә. Кискә яҡтылыҡ ҡабыҡлау ла ярҙам итергә мөмкин. Беҙҙең [кискә тыныс эштәр](/caregiving/late-day-restlessness/) буйынса киңерәк мәғлүмәт бар.
 
-## Keeping them safe if they try to leave
+## Улар китергә теләһә, уларҙы нисек һаҡларға
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Өйгә кайтырға һорау ҡайһы саҡ аҙашыуға килтерергә мөмкин. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) баһалауынса, деменция менән йәшәгән кешеләрҙең алты һанынан ун береһе кәм тигәндә бер тапҡыр аҙашыр.
 
-**Prepare ahead:**
+**Алдан әҙерләнегеҙ:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Исеме һәм телефон номерығыҙ яҙылған шәхес йә медицина браслеты, кейемдәренә исемдәрен элегеҙ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) MedicAlert һәм Alzheimer's Association Safe and Found программаһын атай, улар аҡса түләүҙе талап итергә мөмкин.
+- Ишек ҡыңғырауы йә signal, һәм ишектәрҙе бейек йә түбән урынға бикләүсе ҡоралдар. Кешене яңғыҙ бикләмәгеҙ.
+- Яҡынғы арала төшкән яҡын фото һәм улар бара алыу урындарының исемлеге, мәҫәлән, элекке өй йә эш урыны.
+- Ышанып була торған күршеләргә әйтегеҙ һәм үҙегеҙҙең номерығызҙы бирегеҙ.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Улар юғалһа:** шунда уҡ эҙләй башлағыҙ; Alzheimer's Association билдәләүенсә, күп кешеләр 1,5 миль (яҡынса 2,4 км) эсендә табыла. Әгәр 15 минут эсендә таба алмаһағыҙ, 112 һанына шылтыратығыҙ һәм кешенең деменциясе барлығын әйтегеҙ. Кемдер хәүеф аҫтында булһа, шунда уҡ 112 һанына шылтыратығыҙ.
 
-## When should I call a doctor?
+## Ҡасан табибҡа шылтыратырға?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Әгәр һорау йә аптырау кинәт башланһа, йә сәғәттәр йә көндәр эсендә бик яман көсәйһә, табибҡа тиҙ шылтыратығыҙ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) әйтеүенсә, кинәт йә тиҙ үҙгәргән тәртип, айырыуса инфекциянан йә дарыу үҙгәреүенән һуң, шунда уҡ тикшерелергә тейеш. Кинәт аптырау делирий булырға мөмкин, уға [NHS](https://www.nhs.uk/symptoms/confusion/) шәп ярҙам кәрәк тип яҙа; ҡыуыҡ юлы инфекциялары олараҡ кешеләрҙә йыш осрай.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Киләһе визитта ла ышаныслы түгел кисәк-кисәк үҙгәрештәр тураһында әйтеү файҙалы: ауыртыу, кәйефһеҙлек, йоҡо мәсьәләләре йә дарыуҙың эффекттары — береһе лә роль уйнай ала.

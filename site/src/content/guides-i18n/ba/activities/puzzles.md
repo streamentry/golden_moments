@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Деменция өсөн пазлдар, һүҙ уйындары һәм онлайн пазлдар"
+seoTitle: "Деменция өсөн пазлдар һәм һүҙ уйындары"
+description: "Деменция булған кешегеҙ өсөн пазл, һүҙ уйындары һәм онлайн пазлдарҙы нисек һайларға: ватыҡтар һаны, һүрәттәр, эре хәреф, бергә уйнау һәм ни ваҡытта еңеләйтергә."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Деменцияһы булған кешегеҙ өсөн иң яҡшы пазл — ул, уны бәләкәй ярҙам менән
+  тамамлай алған һәм барыһында ла рәхәт алған пазл. Аҙ, эре ватыҡлы һәм асыҡ
+  адәм һүрәтле пазл һайлағыҙ, ҡорама ҡапҡағындағы рәсем күҙ алдында булһын, һәм
+  сикәләге ватыҡтарҙы элек һалығыҙ. Һүҙ табыу һәм кроссворддар эре хәреф менән
+  яҡшыраҡ. Дүрт ватыҡлы еңел онлайн пазлдар урта осорға тура килә. Рәхәт булғанда
+  туҡтағыҙ.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Нисек бара, шуға ҡарап һайлағыҙ, этап исеме буйынса түгел: әгәр пазл ауыр тойолһа, ватыҡтары аҙыраҡ булғанын алығыҙ."
+  - "Эре, нығыраҡ ватыҡтар һәм айырылып торған төҫтәре булған һүрәт ваҡ ватыҡтарҙан һәм ҙур күк йөҙөнән еңелерәк."
+  - "Адәм һүрәттәре мөһим. Баҡсалар, кухня, машиналар, хайуандар — мультфильмдар түгел."
+  - "Бергә уйнау — төп маҡсат. Ватыҡтар бирегеҙ, сикәләрҙе йыйығыҙ, ҡорама ҡапҡағын күҙ алдында тотоғоҙ."
+  - "Эре хәреф менән һүҙ табыу һәм 4 йәки 9 ватыҡлы онлайн пазлдар был сайтта бушлай."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Деменция булған кешегеҙ өсөн нисә ватыҡлы пазл иң яҡшы?"
+    a: "Бер генә дөрөҫ һан юҡ. Элек 1000 ватыҡлы пазл йыйған кеше беренсе осорҙа бер нисә йөҙ ватыҡ менән дә рәхәтләнергә мөмкин, ә икенсе кешегә ун-ун ике эре ватыҡ иң яҡшыһы. Әгәр пазл ауыр һәм борсоу килтерһә, ватыҡтарын аҙайтығыҙ. Беҙҙең онлайн «Һүрәт пазлы»ның 4 йәки 9 ватыҡы бар."
+  - q: "Пазлдар деменция булған кешеләр өсөн файҙалыме?"
+    a: "Күп кеше, айырыуса элек пазлдар яраттаһа, рәхәт ала. Пазл ҡулдарға эш, асыҡ маҡсат һәм һөйләшер һүрәт бирә. Һис бер пазл деменцияны дауалай йәки тотҡарлай тип иҫбатланмаған, шуға күрә уларҙы рәхәт һәм аралашыу өсөн һайлағыҙ."
+  - q: "Кеше пазлды башҡара алмаһа, нимә эшләргә?"
+    a: "Уны бәләкәйерәк итегеҙ һәм күберәген үҙегеҙ эшләгеҙ: береһен-береһен бирегеҙ, йәки аҙаҡҡы бер нисә ватыҡты ғына ҡалдырығыҙ. 4 ватыҡлы онлайн пазлды, ватыҡтарҙы төҫө буйынса һалыуҙы йәки бөтә һүрәтте бергә ҡарауҙы һынап ҡарағыҙ."
+  - q: "Кроссворддар һәм һүҙ табыу деменцияға яраймы?"
+    a: "Беренсе осорҙа, эре хәреф менән, яраштыра ала. Һүҙҙәр бары киңлек һәм бейеклек буйынса булған һүҙ табыу диагональ йәки кире яҙылған һүҙҙәр булғанға ҡарағанда еңелерәк. Һорауҙарҙы йәки һүҙҙәр исемлеген юғары тауыш менән уҡығыҙ һәм бергә эшләгеҙ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Өҫтәлдә ҡорама һалынған пазл — иң еңел бүлешелгән эштәрҙең береһе. Һеҙ һөйләшмәйенсә лә бергә ултыра алаһығыҙ, һүрәт һөйләшер тема бирә, һуңғы ватыҡты һалыу ҙа рәхәт. Тик пазл деменция үҙгәреп барғанда ла үҙгәрергә тейеш. Бик ауыр пазл тыныс кисте ҡырыҫ итеп ебәрергә мөмкин. Был биттә пазлдарҙы, һүҙ уйындарын һәм еңел онлайн пазлдарҙы нисек һайлап ҡуйырға һәм ауыр булғанда нимә эшләргә кәрәклеге яҙылған.
 
-## Are puzzles good for people with dementia?
+## Пазлдар деменция булған кешеләр өсөн яраймы?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Күп кеше уларҙы ярата, айырыуса элек пазлдар йыйған кешеләр. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) беренсе осор өсөн һүҙ табыу, карта һәм таҡта уйындарын атай, ә [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) планшеттағы онлайн уйындар һәм пазлдарҙы аҡтив булып ҡалыу юлы итеп телгә ала.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Пазлдар дауа түгел. Һис бер пазл деменцияны тотҡарламай йәки туҡтатмай тип иҫбатланмаған; фәнни мәғлүмәт өсөн беҙҙең [деменция һәм аҡыл уйындары](/brain-health/brain-games/) тураһындағы биттә ҡарағыҙ. Пазл менән шөғөлләнеүҙең сәбәбе — ул бергә рәхәт һәм иғтибарлы сәғәт үткәрергә ярҙам итә. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) был хаҡта әйтә: ҡаҙаныш түгел, рәхәткә иғтибар итегеҙ.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Деменция булған кешегеҙ өсөн пазлды нисек һайларға?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Этап исеме буйынса түгел, кешенең нимәне яратыуы һәм алдағы пазлы нисек барыуы буйынса һайлағыҙ.
 
-### Number of pieces
+### Ватыҡтар һаны
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Дөрөҫ һан юҡ. Ғүмер буйы пазл йыйған кеше бәлки әле бер нисә йөҙ ватыҡты яратыр, ә икенсе кешегә ун ике ватыҡ иң рәхәте. Практик ҡағиҙә: әгәр һуңғы пазл эш кеүек тойолһа, тақыр ярымға кәм ватыҡлыһын алығыҙ. Тиҙ тамамланһа һәм кеше күберәк теләһә, бер аҙ өҫтәгеҙ.
 
-### Piece size and feel
+### Ватыҡтың ҙурлығы һәм тойолошо
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Эре ватыҡтар** күрергә, алырға һәм әйләндерергә еңелерәк.
+- **Ҡалын, нығыраҡ ватыҡтар** урында тора һәм тамһа бысмай.
+- **Матовый өҫ** ламп һәм тәҙрә яҡтыһындағы ялтыраудың кәмерәк булыуына ярҙам итә.
+- **Бәләкәй ватыҡтарҙан һаҡланығыҙ**, әгәр кеше уларҙы ауыҙына һалырға мөмкин булһа. Был деменцияның һуңраҡ осорҙарында була ала.
 
-### The picture
+### Һүрәт
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Адәм темалары.** Баҡсалар, кухня, ҡәҙимге машиналар, фермер хайуандары, диңгеҙ буйындағы ҡала, яратҡан спорт. Мультфильмдар йәки бала уйыншығына оҡшаған нәмә түгел.
+- **Төҫтәре айырылып торған өлөштәр.** Ҡыҙыл амбар, зәңгәр кеме һәм йәшел баҫыу ярты пазлды биләгән күк йөҙөнән еңелерәк.
+- **Таныш һәм шәхси.** Кешенең йәшәгән урыны йәки яратҡан шөғөлө тураһындағы һүрәт һөйләшергә бай бирә. Кайһы баҫма ғаиләнең фотоһынан пазл яһай ала.
 
-## How do you do a puzzle together?
+## Пазлды бергә нисек башҡарырға?
 
-Set it up so the person can get straight to the enjoyable part.
+Уны шулай ойоштороғоҙ, кеше тиҙ генә рәхәтле өлөшкә инә алһын.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Яҡшы урын һайлағыҙ.** Яҡтылыҡ яҡшы, ҡулдыҡлы урындыҡ, пазл тороп ҡала алған өҫтәл йәки таҡта.
+2. **Ҡорама ҡапҡағын** ике кеше лә күрә алған урында терәп ҡуйығыҙ.
+3. **Ватыҡтарҙы башлар алдынан** йөҙө менән өҫкә борғоҙ.
+4. **Кәрәкһә, ситтәрен үҙегеҙ йыйығыҙ**, йәки сикәләрен алдан эшләп, уртаһын уларға ҡалдырығыҙ.
+5. **Ватыҡтарҙы төҫө буйынса** бер нисә тайыҙ таҡтаға йәки тәрелкәгә төркөмләгеҙ.
+6. **Бер ватыҡты бирегеҙ**, әгәр өйөм ауыр тойолһа. «Мин уйлайым, был амбарҙың өлөшө».
+7. **Һүрәт тураһында һөйләшегеҙ**, прогресс түгел. «Был минең атайымдың кемесенә оҡшай».
+8. **Һалып ҡуйығыҙ.** Берничә көн буйы, ашыҡмайынса, кире әйләнеп ҡайтығыҙ.
+9. **Яҡшы мәлдә туҡтағыҙ**, ватыҡ һалынғас, әле рәхәт булғанда.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) кешене башлауға ярҙам итергә, ауырлыҡты күҙәтергә һәм, әгәр ул ябай ғына ҡарап ултырғанды яратһа, шуны ҡабул итергә ҡуша. Һеҙҙең ватыҡтарҙы һалғанығыҙҙы ҡарап ултырыу һәм ҡайһылыр ватыҡтың ҡайҙа барыуын күрһәтеү — һаман да ҡатнашыу.
 
-## Easy online puzzles
+## Онлайн еңел пазлдар
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Планшет пазлдарының ҡайһы бер өҫтөнлөктәре бар: юғалған ватыҡтар юҡ, экранды тултырған эре һүрәттәр, һәм өҫтәлде бушатыу кәрәкмәй.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Беҙҙең бушлай [Һүрәт пазлы](/games/picture-puzzle/) һүрәтте 4 йәки 9 ватыҡҡа бүлә. Ике ватыҡҡа тейеп, улар урынын алыштырығыҙ, һүрәт тулы булғанға тиклем. Тулы һүрәт экранда ярҙамсы булып тора, таймер юҡ, һәм теләһә ҡайһы ваҡытта туҡтарға мөмкин. Дүрт ватыҡ — яныҡта кеше булғанда урта осорҙағы күп кешегә тура килә.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Тағы ла ябайыраҡ рәсем уйындары өсөн: [Шул бер үк](/games/find-the-same/), онда өҫтәге һүрәткә тап килгәнен баҫаһығыҙ, йә [Бергә тәртипкә һалыу](/games/sort-together/), онда һүрәттәр савәттәргә — ашҡанға йә баҡсаға — һалына.
 
-## Word puzzles: word searches and crosswords
+## Һүҙ уйындары: һүҙ табыу һәм кроссворддар
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Һүҙ уйындары элек шул уйындарҙы яратҡан кешеләргә тура килә, деменцияның беренсе осорҙарында.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Эре хәрефле һүҙ табыу.** Беҙҙең бушлай [Һүҙ табыу](/games/word-search/) эре хәрефтәр һәм бер нисә һүҙ куллана, улар киңлек һәм бейеклек буйынса ғына, диагональ йәки кире түгел. Экранда уйнағыҙ йәки баҫтырығыҙ.
+- **Исемлекте юғары тауыш менән уҡығыҙ.** Береһе һүҙ уҡый, икенсеһе уны эҙләй. Тик беренсе хәрефте түңәрәкләү ҙа ярай.
+- **Эре хәрефле кроссворддар** китаптарҙан беренсе осорҙа эшләй ала. Һорауҙарҙы юғары тауыш менән уҡығыҙ, ҡәләмде бүлешегеҙ һәм яуапты бергә яҙығыҙ. Еңел, темалы кроссворддар шифрлы кроссворддарҙан яҡшыраҡ.
+- **Һүҙҙәр тураһында һөйләшегеҙ.** «Баҡса» һүҙе помидорҙар тураһында ун минутлыҡ һөйләшеүгә килтерергә мөмкин.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Ҡағыҙ эштәре һәм уларҙы күренеп тораһы һәм ҡулға ҡулай итеп баҫтырыу тураһында күберәк өсөн ҡарағыҙ: [деменция өсөн бушлай баҫтырыла торған эштәр](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Һәр этапҡа кайһы пазлдар тура килә?
 
-Stages overlap, and good and hard days are normal.
+Этаптар бер-береһенә инә, яҡшы һәм ауыр көндәр — ғәҙәти хәл.
 
-| Stage | Puzzles that often fit | Your role |
+| Этап | Ешлыҡ менән тура килгән пазлдар | Һеҙҙең роль |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Беренсе | Элекке ватыҡтарҙан аҙыраҡ ватыҡлы таныш пазлдар, эре хәрефле кроссворддар һәм һүҙ табыу, 9 ватыҡлы онлайн пазлдар | Төҙәш: кеше һайлаһын, һораған саҡта ярҙам итегеҙ |
+| Урта | Ун ике тирәһе эре ватыҡлы пазлдар, 4 ватыҡлы онлайн пазлдар, һүрәт табыу һәм һүҙ табыу юғары тауыш менән бергә | Әҙерләгеҙ, ватыҡтарҙы һалығыҙ, береһен-береһен бирегеҙ |
+| Һуңғы | Тамамланған һүрәтте бергә ҡарау, ике һүрәт менән Шул бер үк, бер нисә эре ватыҡ тотоу | Уларға килтерегеҙ; һеҙҙең яныҡта булыу — эш |
 
-## When should you make a puzzle easier, or stop?
+## Пазлды ҡасан еңеләйтергә йәки туҡтатырға?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Һулыу, ватыҡтарҙы этеп ебәреү, ҡабат «Мин ала алмайым» тигән һүҙҙәр йәки борсолоу ҡарашы — улар бер нәмәне үҙгәртергә кәрәклеген күрһәтә, көсләп дауам итергә түгел.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Бәләкәйерәк итегеҙ.** Аҙыраҡ ватыҡ, йәки аҙаҡҡы бер нисәһен генә ҡалдырығыҙ.
+- **Күберәген үҙегеҙ эшләгеҙ** һәм еңел өлөштәрҙә ярҙам һорағыҙ.
+- **Яҡындағы бүтән нәмәгә күсегеҙ:** ватыҡтарҙы төҫө буйынса һалыу, 4 ватыҡлы онлайн пазл, йәки [буяу](/games/coloring/).
+- **Туҡтағыҙ.** Пазлды ситкә ҡуйығыҙ, сәй эсегеҙ. Башҡа көндө ҡайтырға мөмкин, йә бөтөнләй ҡайтмаҫҡа ла.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Әгәр пазлдар ҡыйын булған нәмәне иҫкә төшөрә башласа, уларҙы ташлауы ла дөрөҫ. Бергә яҡшы ваҡыт үткәреүҙең башҡа күп юлдары бар; беҙҙең [101 шөғөл идеяһы](/activities/ideas/) ҡарарға яҡшы урын.

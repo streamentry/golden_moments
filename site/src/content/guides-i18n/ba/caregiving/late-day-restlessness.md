@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: деменция менән йәшәгән кешеләр өсөн тыныс кис"
+seoTitle: "Sundowning: тыныс кис эшмәкәрлектәре"
+description: "Тәртип, бүлмә үҙгәртеүҙәре һәм тыныс эшмәкәрлектәр кискеге тынғыһыҙлыҡты йомшарта алыр. Яңы йәки көсәйгән симптомдар булғанда табип менән һөйләшегеҙ."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning — кискә ҡарай башланған йәки көсәйгән тынғыһыҙлыҡ, аптыраш йәки асыулылыҡ. Файҙалы булырға мөмкин булған практик аҙымдар: тотороҡло көнләк тәртип, көндөҙ яҡтылыҡ һәм эшмәкәрлек, оҙон ял итмәү, кискә ҡарай кофеин ҡулланмау, мрак төшмәҫ борон яҡты ҡулланыу, тыныс өй, һәм музыка, фотолар йәки киәм йыйыу кеүек тыныс эшмәкәрлектәр. Яңы йәки көсәйгән симптомдар табип тикшереүен кәрәк итә.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning — яҡтылыҡ һүнгәндә башланған йәки көсәйгән тынғыһыҙлыҡ йәки аптыраш."
+  - "Ауыр эштәрҙе, сығыштарҙы һәм йыуыныуҙы иртәнгә йәки көндөҙгө беренсе яртыға ҡалдырығыҙ."
+  - "Көндөҙ яҡтылыҡ, көнөнә йөрөү, кис оҙон ял итмәү һәм кискә ҡарай кофеин ҡулланмау кистәрҙе тыныбыраҡ үткәрергә ярҙам итергә мөмкин."
+  - "Мрак төшмәҫ борон яҡтыртығыҙ, тауышты кәметегеҙ һәм таныш, тыныс эшмәкәрлектәргә күсегеҙ."
+  - "Тынғыһыҙлыҡ сәбәптәрен табыр өсөн журнал тотоғоҙ, тынғыһыҙлыҡ башланғанда тыныс һәм йәтешләндереүсе булығыҙ."
+  - "Яңы йәки көсәйгән симптомдар өсөн табипҡа күренегеҙ: ауырыу, инфекция йәки дарыуҙар роль уйнай ала."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Sundowning ғәҙәттә көндөң ҡайһы сағында була?"
+    a: "Ул ғәҙәттә яҡтылыҡ кәмегән һайын, кис яҡынлашыу менән башлана йәки көсәйә. Ваҡыт кешегә күрә төрлөсә, шуға ла бер-ике аҙна ҡыҫҡа журнал алып барыу ярҙам итергә мөмкин."
+  - q: "Sundowning тынғыһыҙлығына ниндәй эшмәкәрлектәр ярҙам итә?"
+    a: "Кискә ҡарай иң яҡшы эшләй торғандар — таныш, ауыр булмаған, тыныс эшмәкәрлектәр: тыныс музыка, фотоларға ҡарау, яратҡан телевизор йәки фильм, киәм йыйыу, ҡыҫҡа йөрөш йәки бергә закуска ашау. Яңы йәки ауыр эшмәкәрлектәрҙе көндөҙгө беренсе яртыға ҡалдырығыҙ."
+  - q: "Sundowning ниндәйҙер медицина сирҙең билдәһе булырға мөмкинме?"
+    a: "Уны һаулыҡ проблемалары көсәйтергә мөмкин: ауырыу, сидек юлдары инфекцияһы кеүек инфекциялар, йоҡо проблемалары йәки дарыуҙар яны тәьҫирҙәре. Тынғыһыҙлыҡ яңы, кинәт йәки көсәйә икән, кешенең табибы менән бәйләнешегеҙ."
+  - q: "Sundowning өсөн дарыу тураһында табип менән һөйләшергә кәрәкме?"
+    a: "Был табип менән һөйләшә торған мәсьәлә. Alzheimer's Association әйтеүенсә, дарыуһыҙ алымдар беренсе итеп киңерәк тәҡдим ителә, ә кис тынғыһыҙлығы өсөн кәрәкле дарыуҙар тик риск һәм файҙа үлсәп ҡарағандан һуң ғына ҡаралырға тейеш. Был биттә дарыу буйынса кәңәш бирелмәй."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Күп ғаиләләр бер үк хәлде күрә: иртәнсе сәғәттәр тыныс үтә, ә көн уҙған һайын, кис яҡынлашыу менән, деменция менән йәшәгән кеше тынғыһыҙланып, борсолоп, аптырап йәки тиҙ асыулана башлай. Улар йөрөй, өйҙә булһа ла «өйгә китәйек» тип һорай, йәки бик тиҙ борсолалар. Был ғәҙәттә sundowning тип атала.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Берҙән-бер сара юҡ, ләкин көндөң рәүешен, бүлмәне һәм тәҡдим иткән эшмәкәрлектәрҙе үҙгәртеү кистәрҙе тыныбыраҡ итергә мөмкин. Был бит National Institute on Aging һәм Alzheimer's Association ҡарашынан медицина түгел, практик, дарыуһыҙ тәҡдимдәр йыйыны. Был медицина кәңәше түгел. Симптомдар яңы, кинәт йәки көсәйә икән, кешенең табибы менән һөйләшегеҙ.
 
-## What is sundowning?
+## Sundowning нимә ул?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning — яҡтылыҡ һүнгәндә, кис яҡынлашҡанда йәки кис башында башланған йәки көсәйгән тынғыһыҙлыҡ, борсолоу, асыулылыҡ йәки аптыраш. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) билдәләүенсә, бик арыу булыу кис тынғыһыҙлығын арттырырға мөмкин.
 
-## What can make late-day restlessness worse?
+## Кис тынғыһыҙлығын нимә көсәйтергә мөмкин?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Төрлө сәбәптәр, күп осраҡта бергә, роль уйнарға мөмкин. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) түбәндәге факторҙарҙы иҫәпләй:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- көн буйы арыу булыу;
+- яңы йәки аңлашылмаусы тирә-яҡ;
+- «эске биология сәғәте» тигеҙһеҙ булыуы, кеше көндөҙ йоҡосоло, төнөн уяу булып ҡала;
+- аҙ яҡтылыҡ һәм күләгәләр, улар аптыратырға мөмкин;
+- тирәлә булғандарҙың стрессы йәки асыуын тойоу;
+- йоҡоға кәм кәрәк булыу, был картлыҡ йәшендәге кешеләргә хас.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA тынғыһыҙлыҡтың киңерәк сәбәптәрен дә өҫтәй: ауырыу, депрессия йәки стресс, етәрлек ял итмәү, эсәк ҡатыуы (constipation), күп шау-шыу йәки күп кеше, шулай уҡ кайһы бер дарыуҙар йәки уларҙың үҙ-ара тәьҫире.
 
-## How can I plan the day to make evenings calmer?
+## Көнөн нисек планлаштырырға, кис тыныбыраҡ булыу өсөн?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Ауыр эштәрҙе алдараҡҡа күсерегеҙ, ә кис тыныс һәм һәр саҡ бер үк рәүешле булһын. NIA һәм Alzheimer's Association тотороҡло тәртипте тәҡдим итә. Яҡынса көн, үҙегеҙ өсөн көйләп ҡулланығыҙ:
 
-| Time | What may help |
+| Сәғәт | Нимә ярҙам итергә мөмкин |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Иртә | Ҡабул итеүҙәр, йыуыныу, сығыштар һәм көс талап иткән бөтә эш, күп кеше иң тетрәк ваҡытта |
+| Төш алды | Урамда йәки тәҙрә янында ваҡыт; йөрөш йәки башҡа эшмәкәрлек |
+| Төш | Көндөҙ ҙурыраҡ аш, кискә еңелерәк аш (Alzheimer's Association шулай тәҡдим итә) |
+| Көндөҙгө беренсе яртыға | Кәрәк булһа ял итергә, ләкин көндөң ахырында оҙон йоҡламағыҙ |
+| Кис алды (төштән һуң) | Тыныс, таныш эшмәкәрлектәр; закуска һәм эсемлек; кофеин юҡ |
+| Мрак төшөр алдынан | Бүлмәләге һарыҡтарҙы яндырығыҙ, мрак төшмәҫ борон пәрҙәләрҙе ябығыҙ |
+| Кис | Еңел аш, тыныс музыка, аҙ тәьҫир, тотороҡло йоҡлау алды тәртибе |
 
-A few specific points from the sources:
+Ғаләмәттән алынған конкрет нөктәр:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Яҡтылыҡ.** NIA көн һайын тышта йәки тәҙрә янында ҡояш нурында ваҡыт үткәреүҙе тәҡдим итә.
+- **Көн һайын хәрәкәт, әммә артыҡ түгел.** Көн һайын физик актив булырға тырышығыҙ, ләкин бик күп эшмәкәрлек планлаштырмағыҙ, — ти NIA.
+- **Кис эсемлектәре.** Кис алкоголь һәм кофе йәки кола кеүек кофеинлы эсемлектәрҙән тартығыҙ (NIA). Alzheimer's Association шулай уҡ никотинды телгә ала.
+- **Ял итеү.** Кис оҙон ял итеүҙән һәм йоҡоға ятыуҙан тыйығыҙ (NIA). Alzheimer's Association, төндә йоҡо проблемаһы булһа, көндөҙгө ял итеүҙе сикләргә тәҡдим итә.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Тотороҡло көн ойоштороу тураһында күберәк өсөн, [көнлөк тәртип эшмәкәрлектәре](/activities/daily-routine/) битен ҡарағыҙ.
 
-## How can I make the home calmer in the late afternoon?
+## Кис өйҙө нисек тыныбыраҡ итергә мөмкин?
 
-Reduce noise, add light and keep familiar things close.
+Тауышты кәметегеҙ, яҡтылыҡ өҫтәгеҙ һәм таныш нәмәләрҙе яҡын тотоғоҙ.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Яҡты, тигеҙ яҡтыртыу.** Alzheimer's Association кис өйҙө яҡшы яҡтыртып тороуҙы тәҡдим итә. Күләгәләр барлыҡҡа килер алдынан бүлмәне яҡтыртығыҙ.
+- **Аҙыраҡ тауыш.** Телевизорҙы, радионы һүндерегеҙ йәки кәметегеҙ, был ваҡытта ҡунаҡтарҙы һәм мәшәҡәтле өй эштәрен сикләгеҙ. Alzheimer's Association кис телевизор, эш һәм ҡаты музыка кеүек тәьҫирҙе кәметергә тәҡдим итә.
+- **Таныш ыңғайлылыҡ.** NIA тыныс музыканы һәм яратҡан нәмәләрҙе, фотоларҙы өйҙә яҡында тотоуҙы тәҡдим итә.
+- **Ыңғайлылыҡты тикшереү.** Alzheimer's Association ауырыуҙы, аслыҡты, сәнсәне, эсәк ҡатыуын, тулы ҡыуыҡты, арыуҙы, инфекцияларҙы һәм тире тәьҫирен тикшерергә, шулай уҡ бүлмә температураһын ыңғай итеп тоторға тәҡдим итә.
+- **Үҙегеҙҙең кәйеф-хәлегеҙ.** Кешеләр стрессты тоя. Үҙегеҙҙең борсолоуығыҙ тынғыһыҙлыҡты арттырһа, NIA тиҙлекте кәметергә һәм тынысланырға тырышырға кәңәш итә.
 
-## What calm activities can we do in the late afternoon?
+## Кис алды өсөн нинди тыныс эшмәкәрлектәр эшләй?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Таныш, ашыҡмаған һәм еңел туҡтатыла торған эшмәкәрлектәр һайлағыҙ. Alzheimer's Association тынғыһыҙлыҡты йомшартыр өсөн тыныс музыка, фотолар йәки яратҡан фильм, шулай уҡ бергә йөрөү кеүек эшмәкәрлектәрҙе тәҡдим итә. NIA закуска йәки эсемлек, яратҡан телевизор шоуы, музыка, йөрөш, уҡыу йәки киәм йыйыу кеүек ябай өй эштәрен тәҡдим итә.
 
-Ideas to try:
+Ҡулланып ҡарарға тәҡдимдәр:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Киәм йыйығыҙ бергә.** NIA шундай ябай өй эшен тәҡдим итә. Сөсәк (полотенце) еңел тотола, эштең асыҡ ахыры бар.
+2. **Яратҡан музыка уйнағыҙ.** Йәш сағында таныш булған йырҙар, аҙ тауыш менән. Бергә көйләү ҙә һанала. Күберәк идеялар: [музыка эшмәкәрлектәре](/activities/music/).
+3. **Фотоларға ҡарағыҙ.** Фотоальбом, йәки [Фото парҙары](/games/photo-pairs/) уйынында ғаилә фотоһы, фотолар күренеп торғанда, тыныс һөйләшеүгә килтерергә мөмкин.
+4. **Ҡыҫҡа йөрөш.** Баҡсала, урамда йәки коридорҙа, ҡараңғы булмаҫ борон.
+5. **Закуска һәм эсемлек бүлешегеҙ.** Ябай, йылы, кофеинһыҙ нәмә, өҫтәл янында бергә.
+6. **Йомшаҡ парлау.** [Һүрәт парҙары](/games/picture-pairs/) — дүрт плитка, һүрәттәр күренеп торғанда, башлау һәм туҡтатыу еңел.
+7. **Буяу.** [Буяу](/games/coloring/) экран аша йәки баҫма биттә, тамамлау маҡсатыһыҙ.
+8. **Ҡарау һәм һөйләшеү.** [Һөйләшеү карточкалары](/games/conversation-cards/) һүрәт һәм асыҡ һорау бирә. Ҡарау ғына ла етә.
+9. **Тыныс һулыш.** [Тыныс һулыш](/games/calm-breathing/) — һеҙ үҙегеҙ башлаған һәм туҡтатҡан әкрен, тыныс тын алыу.
+10. **Ҡул эштәре.** Төймәләр йәки оймаҡтар һорттоу, йомшаҡ юрғанды тигеҙләү, таныш предметты тотоу. Һеҙ [сенсор эшмәкәрлектәре](/activities/sensory/) битен ҡарай ала.
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Кис алдында яңы уйындарҙан, ашыҡлы сығыштарҙан һәм күп хәтер йәки иғтибар талап иткән нәмәләрҙән тартығыҙ. Уларҙы иртәгә ҡалдырығыҙ.
 
-## What should I do when restlessness starts?
+## Тынғыһыҙлыҡ башланғанда нимә эшләргә?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Тыныс булығыҙ, йыуатығыҙ һәм нәҙек кенә икенсе нәмәгә күсегеҙ. NIA тыныс итеп һөйләшергә, кешенең борсолоуҙарын тыңларға, бәхәсләшмәҫкә, уға хәүефһеҙ булыуын әйтергә һәм кирәк булһа йомшаҡ ҡағып-һыпаларға тәҡдим итә. Шунан бүлдереү ҡулланығыҙ: закуска, эсемлек, музыка йәки йөрөш.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association «Һеҙ монда хәүефһеҙһегеҙ» һәм «Һеҙ борсолоп торғаныңа бик ныҡ ҡайғырам» кеүек фразалар тәҡдим итә, шулай уҡ яҡтыртыуҙы өҫтәргә, тиҙлекте кәметергә һәм тәьҫирҙе сикләргә кәңәш итә. Кешене мөйөшкә ҡыҫмағыҙ, тығыҙ тормағыҙ, тотоп тормағыҙ һәм бәхәсләшмәгеҙ.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Әгәр кеше агрессив булһа, NIA тынғыһыҙлыҡ бөткәнсе хәүефһеҙ ара һаҡларға тәҡдим итә. Ғәҙәттән тыш хәлдә 112 номерына шылтыратығыҙ һәм деменция булыуын аңлатығыҙ.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+[Аралашыу](/caregiving/communication-tips/) һәм [«юҡ» тигәндә нимә эшләргә](/caregiving/when-they-say-no/) буйынса биттәрҙә тыныслантыр өсөн һүҙҙәр тураһында күберәк бар.
 
-## How do I find the triggers?
+## Тригтерҙарҙы нисек табырға?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Бер-ике аҙнаға ҡыҫҡа журнал алып барығыҙ. Alzheimer's Association sundowning эпизодтарынан алдағы хәлдәрҙе яҙыуҙы тәҡдим итә, тригтерҙарҙы табыр өсөн. Тынғыһыҙлыҡ ҡасан башланғанын, алдағы бер сәғәттә нимә булғанын, ял, аш һәм эсемлектәрҙе, ҡунаҡтарҙы, тауышты һәм яҡтылыҡты яҙығыҙ. Журналды табипҡа алып барығыҙ. NIA билдәләүенсә, тәртип үҙгәрештәрен күҙәтеү ғаиләгә һәм медицина хеҙмәткәрҙәренә ҡағиҙәне танырға ярҙам итә.
 
-## When should I call a doctor about sundowning?
+## Sundowning буйынса табипҡа ҡасан мөрәжәғәт итергә?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Тынғыһыҙлыҡ яңы булһа, кинәт көсәйһә йәки башҡа үҙгәрештәр менән килһә, кешенең табибына мөрәжәғәт итегеҙ. NIA әйтеүенсә, тәртиптең кинәт йәки тиҙ үҙгәреүе, айырыуса инфекциядән йәки дарыу үҙгәренән һуң, табип иғтибарына шунда уҡ еткерелергә тейеш.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Табипҡан кискә ҡарай ауырлаштырған нәмәләрҙе тикшерергә һорағыҙ. Alzheimer's Association физик проблемаларҙы телгә ала: сидек юлдары инфекцияһы, сидек тотмау, аяҡтарҙың тынғыһыҙлығы һәм йоҡо апноэһы; шулай уҡ һәр дарыуҙың ҡайһы ваҡытта иң яҡшы икәнен һорарға тәҡдим итә. NIA ауырыуҙы, эсәк ҡатыуын һәм дарыу яны тәьҫирҙәрен тынғыһыҙлыҡ сәбәптәре рәтенә индерә.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association әйтеүенсә, Alzheimer-ға бәйле йоҡо проблемалары өсөн дарыуһыҙ алымдар киңерәк ҡулланыла, ә кис тынғыһыҙлығы өсөн дарыу тик улар эшләмәһә генә, риск һәм файҙа үлсәлгәндән һуң ғына ҡарала. Был ҡарарҙы табип ҡабул итә. Табип кәңәшеһеҙ ниндәйҙер дарыуҙы, йоҡо дарыуын йәки өҫтәмәне башламағыҙ, туҡтатмағыҙ йәки үҙгәртмәгеҙ.
 
-## How do I get through the evenings myself?
+## Кискә үҙегеҙ нисек үтәргә?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Кис — ҡарауҙар көнөнөң иң ауыр өлөшө булырға мөмкин. Мөмкин булһа, ғаилә ағзаһынан, дуҫтан йәки түләүле ярҙамсынан бернисә көн кис ярҙам итеүен һорағыҙ, бер сәғәткә булһа ла. Беҙҙең [үҙ-үҙеңде ҡарау](/caregiving/caregiver-self-care/) буйынса ҡулланмала ял итеү мөмкинлектәре һәм Alzheimer's Association-тың бушлай 24/7 Helpline-ы телгә алына.
