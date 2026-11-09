@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Заняткі і гульні для людзей з хваробай Альцгеймера"
+seoTitle: "Заняткі і гульні пры хваробе Альцгеймера: ідэі па этапах"
+description: "Заняткі і гульні для людзей з хваробай Альцгеймера на кожным этапе, на аснове доўга захаваных навыкаў і ўспамінаў, з бясплатнымі гульнямі, у якія можна гуляць разам."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Добрыя заняткі для чалавека з хваробай Альцгеймера абапіраюцца на тое, што
+  захоўваецца даўжэй за ўсё: навыкі, старыя песні, знаёмыя хатнія справы і
+  пачуцці. На ранім этапе часта добра працуюць карты, настольныя гульні,
+  гатаванне і прагулкі. На сярэднім этапе добра падыходзяць складанне рэчаў,
+  сартаванне, спевы, фотаальбомы і простыя гульні з малюнкамі. Пазней
+  найважнейшыя музыка, дотык і блізкасць. Арыентуйцеся на тое, які чалавек
+  сёння.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Хвароба Альцгеймера — найчасцейшая прычына дэменцыі, таму ідэі заняткаў пры дэменцыі падыходзяць і да яе."
+  - "Новая інфармацыя звычайна першай дастаецца цяжэй за ўсё, а навыкі і песні, якія засвоены даўно, часта захоўваюцца даўжэй. Абапірайцеся на іх."
+  - "Этапы перасякаюцца, і добрыя і цяжкія дні — звычайная з'ява. Выбірайце тое, што чалавек можа і любіць сёння."
+  - "Выбірайце гульні без таймера, ачкоў і выпрабаванняў, і няхай малюнкі застаюцца відавочнымі."
+  - "Назіранне, трыманне чаго-небудзь у руках або проста сумеснае сядзенне — гэта таксама ўдзел."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Якія заняткі добрыя для чалавека з хваробай Альцгеймера?"
+    a: "Знаёмыя заняткі, трохі спрошчаныя: складанне бялізны, накрыванне стала, гатаванне разам, музыка і спевы, гляданне фотаздымкаў, прагулкі, садоўніцтва і час з хатнім жывёлай. Простыя гульні з малюнкамі, лёгкія пазлы і карткі для размовы таксама падыходзяць многім. Выбірайце тое, што чалавек заўсёды любіў, і займайцеся гэтым побач з ім."
+  - q: "Ці добрыя гульні для людзей з хваробай Альцгеймера?"
+    a: "Гульні могуць быць прыемным спосабам правесці час разам, калі чалавеку яны падабаюцца. Ніводная гульня не паказала, што можа лячыць, запаволіць або спыніць хваробу Альцгеймера, таму выбірайце гульні для задавальнення: вялікія малюнкі, невялікі выбар і без таймера, ачкоў і гукаў пра памылку."
+  - q: "Ці ёсць розніца паміж заняткамі пры дэменцыі і заняткамі пры хваробе Альцгеймера?"
+    a: "У асноўным няма. Хвароба Альцгеймера — найчасцейшая прычына дэменцыі, і ідэі заняткаў адносяцца да абедзвюх. Што дапамагае пры хваробе Альцгеймера, гэта веданне таго, што нядаўнія ўспаміны звычайна згасаюць першымі, таму заняткі, пабудаваныя на старых навыках, песнях і звычках, часта ідуць лягчэй."
+  - q: "Чым можа цешыцца чалавек з хваробай Альцгеймера на позднім этапе?"
+    a: "Любімай музыкай, ласкавым масажам рук, мяккімі рэчамі, якія можна трымаць, чытаннем уголас, сядзеннем на вуліцы і блізкасцю з чалавекам, якому ён давярае. Трымайце ўсё коратка і спакойна, і сачыце па твары і целе, што яму падабаецца."
+  - q: "Як зацікавіць чалавека з хваробай Альцгеймера заняткам?"
+    a: "Папрасіце аб дапамозе, а не абвяшчайце заняткі, усё падрыхтуйце загадзя і пачніце сам, каб ён мог далучыцца. Выбар часу дня, калі чалавек у найлепшым стане, мае вялікае значэнне. Калі ён адмаўляецца, паспрабуйце пазней або прапануйце меншую версію."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Калі вашы блізкія хварэюць на хваробу Альцгеймера, вы, напэўне, ужо заўважылі, што адны рэчы сыходзяць хутка, а іншыя застаюцца. Чалавек можа забыць, пра што быў ранішні званок, але ўсё роўна ведае кожнае слова гімна, складае ручнік так, як рабіў заўсёды, або раздае карты, не задумваючыся. Добрыя заняткі пабудаваныя на гэтых навыках, што застаюцца. Тут тлумачыцца, чаму так, і даюцца ідэі для кожнага этапу, а таксама бясплатныя гульні на гэтым сайце, якія да іх падыходзяць.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Ці адрозніваецца хвароба Альцгеймера ад дэменцыі, калі гаворка пра заняткі?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Не асабліва. Дэменцыя — агульны тэрмін, а хвароба Альцгеймера — найчасцейшая яе прычына: [Альцгеймераўская асацыяцыя](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) паведамляе, што на яе прыходзіцца ад 60 да 80 працэнтаў выпадкаў дэменцыі. Амаль усё, што напісана пра заняткі пры дэменцыі, падыходзіць і да хваробы Альцгеймера, у тым ліку наш [спіс з 101 ідэяй заняткаў](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Карысна ведаць звычайны парадак змен. [Нацыянальны інстытут старэння](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) тлумачыць, што хвароба Альцгеймера спачатку пашкоджвае ўчасткі мозгу, якія адказваюць за памяць, а пазней уплывае на мову, меркаванне і паводзіны ў зносінах. Альцгеймераўская асацыяцыя піша, што найбольш частым ранні сімптом з'яўляецца цяжкасць запамінаць толькі што выведзеную інфармацыю. Кожны чалавек розны, і ў многіх могуць быць розныя прычыны, але гэтая заканамернасць вызначае, што, як правіла, працуе.
 
-## What kinds of activities suit Alzheimer's best?
+## Якія заняткі найлепш падыходзяць пры хваробе Альцгеймера?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Заняткі, якія абапіраюцца на старыя, добра адпрацаваныя веды, звычайна ідуць лягчэй, чым тыя, дзе трэба запомніць нешта новае і ўтрымліваць у галаве.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Навыкі, адпрацаваныя гадамі.** Альцгеймераўская асацыяцыя адзначае, што чалавек можа яшчэ іграць простыя мелодыі, якія вывучыў на фартэпіяна шмат гадоў таму. Падобныя да гэтага вязанне, шліфоўка дрэва, тасаванне карт, замес цеста і складанне бялізны.
+- **Старыя песні і знаёмая музыка.** Многія яшчэ ведаюць кожнае слова песень сваіх юных гадоў, гімны і песні з вяселля. Глядзіце [заняткі з музыкай](/activities/music/).
+- **Паўсядзённая работа з мэтай.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) называе сярод заняткаў, якія могуць спадабацца людзям, мыццё посуду, накрыванне стала, сартаванне шкарпетак і складанне бялізны. Адчуванне карысці важнае.
+- **Пазнаванне замест прыгадвання.** Паказаць патрэбны малюнак прасцей, чым назваць яго па памяці. Таму гульні з малюнкамі, дзе ўсё відаць, працуюць лепш за выпрабаванні.
+- **Пачуцці.** Фактура, пах, цяпло, смак і гук застаюцца важнымі і тады, калі словы ўжо даюцца цяжка. Глядзіце [заняткі для пачуццяў](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Горш за ўсё ідуць заняткі з гадзіннікам, новымі правіламі, мностваю крокаў для запамінання або пытаннямі, якія правяраюць памяць, напрыклад: «Вы ведаеце, хто гэта?» Такія заняткі ставяць самую цяжкую частку хваробы Альцгеймера ў цэнтр.
 
-## Activities for early-stage Alzheimer's
+## Заняткі пры хваробе Альцгеймера на ранім этапе
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+На ранім этапе [Альцгеймераўская асацыяцыя](https://www.alz.org/alzheimers-dementia/stages) піша, што чалавек яшчэ можа кіраваць аўтамабілем, працаваць і ўдзельнічаць у грамадскім жыцці, але заўважае правалы памяці, напрыклад, забыты знаёмы слова або месца, дзе што ляжыць. Лепшы падыход — гэта партнёрства: спытайцеся, што ён хоча працягваць рабіць і якая дапамога яму патрэбна.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Працягвайце ранейшыя захапленні.** Гольф, брыдж, шыццё коўдраў, хор і царкоўныя групы з невялікімі змяненнямі, напрыклад меншымі групамі і спакойнейшым часам.
+2. **Гуляйце ў знаёмыя карткавыя і настольныя гульні.** [Альцгеймераўскі фонд Амерыкі](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) называе для ранняга этапу віктарыны, пошук слоў, карткавыя і настольныя гульні. Калі падлік ачкоў пачынае непакоіць, гуляйце ў камандзе або зусім адмовіцеся ад ачкоў.
+3. **Гатуйце разам.** Няхай ён вядзе рэцэпт, які ведае напамяць, а вы возьмяце на сябе чытанне крокаў.
+4. **Пачніце праект пра жыццёвую гісторыю.** Фота, рэцэпты і апавяданні ў альбоме, які ён кіруе сам. Глядзіце [заняткі з успамінамі](/activities/reminiscence/).
+5. **Выходзьце на прагулкі.** Любімая кавярня ў ціхую гадзіну, кароткае наведванне музея, прагулка ў парку.
+6. **Пробуйце пазлы, якія ён выбірае.** Крыжаванкі вялікім шрыфтам, пошук слоў і пазлы. Глядзіце [пазлы пры дэменцыі](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Больш ідэй: [заняткі на ранім этапе](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Заняткі пры хваробе Альцгеймера на сярэднім этапе
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Альцгеймераўская асацыяцыя апісвае сярэдні этап як звычайна самы доўгі, які можа цягнуцца шмат гадоў. Словыblytаюць, раздражненне ўзнікае хутчэй, і чалавеку трэба больш догляду. Альцгеймераўскі фонд Амерыкі дадае, што многім патрэбна дапамога, каб пачаць або працягнуць заняткі. Ваша роля змяняецца: вы наладжваеце ўсё, пакazваеце, а не тлумачыце, і бераце на сябе цяжкія часткі.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Складайце, сартуйце і падбірайце.** Ручнікі, шкарпеткі, сталовыя прыборы, гузікі па колеры. Сапраўдныя справы, якія робяцца побач.
+2. **Спявайце і рухайцеся пад музыку.** Пляскайце, гайдайцеся або танчыце на кухні. Пачніце спяваць сам і дайце яму далучыцца.
+3. **Гартайце фотаальбомы.** Апісвайце, што бачыце, і запрашайце расказаць: «Якая машына! Раскажыце пра яе». Пагаджайцеся з любымі імёнамі, якімі ён называе людзей.
+4. **Гуляйце ў простыя гульні з малюнкамі.** [Пары малюнкаў](/games/picture-pairs/) з чатырма–шасцю плітачкамі і малюнкамі, якія застаюцца відавочнымі, або [Знайсці тое самае](/games/find-the-same/) з двума–трыма варыянтамі.
+5. **Дакончвайце знаёмыя прымаўкі.** «Яблык на дзень — і доктар...» Прымаўкі, засвоеныя даўно, часта прыходзяць лёгка. Пракладзіце [Дакончыце прымаўку](/games/finish-the-saying/), дзе любы канец можна паказаць адным націскам.
+6. **Палівайце і даглядайце расліны.** Пакаёвыя кветкі або грады, з невялікай лейкай.
+7. **Зрабіце гульню на падбор са сямейных фота.** [Пары фотаздымкаў](/games/photo-pairs/) выкарыстоўвае здымкі, якія вы выбіраеце на прыладзе, і яны з яе не выходзяць.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Больш ідэй: [заняткі на сярэднім этапе](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Заняткі пры хваробе Альцгеймера на позднім этапе
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+На позднім этапе Альцгеймераўская асацыяцыя піша, што людзі губляюць здольнасць рэагаваць на навакольнае і весці размову, хоць могуць яшчэ казаць асобныя словы або фразы. Цяпер заняткі азначаюць суцяшэнне і блізкасць, арганізаваныя там, дзе чалавек адпачывае.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Гуляйце любімую музыку** ціха, без тэлевізара, які перашкаджае.
+2. **Зрабіце масаж рук** крэмам з пахам, які ён любіць.
+3. **Дайце мяккія рэчы для трымання:** цёплую коўдру, флісавую тканіну, гладкі камень.
+4. **Чытайце ўголас** псалмы, вершы або знаёмую гісторыю. Рытм важнейшы за сэнс.
+5. **Сядзьце на вуліцы** ў ценю або каля вакна, з птушкамі, за якімі можна назіраць.
+6. **Разглядвайце адзін вялікі малюнак разам.** Сланечнік або сабаку, які займае ўвесь экран планшэта, а вы распавядаеце, што бачыце.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Больш ідэй: [заняткі на позднім этапе](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Якія гульні падыходзяць чалавеку з хваробай Альцгеймера?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Выбірайце гульні, у якіх нельга «прайграць». Кожная гульня на гэтым сайце бясплатная, працуе ў браўзеры і не мае таймера, ачкоў або рэгістрацыі.
 
-| Game | What you do | Often suits |
+| Гульня | Што вы робіце | Часта падыходзіць |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Пары малюнкаў](/games/picture-pairs/) | Падбіраеце вялікія малюнкі; яны могуць заставацца адкрытымі | Ранні і сярэдні этап |
+| [Знайсці тое самае](/games/find-the-same/) | Націскаеце на малюнак, які супадае з тым, што ўверсе | Сярэдні і позні этап, з дапамогай |
+| [Дакончыце прымаўку](/games/finish-the-saying/) | Выбіраеце апошняе слова знаёмай прымаўкі або паказваеце яго | Ранні і сярэдні этап |
+| [Пазл з малюнкам](/games/picture-puzzle/) | Пераставіце 4 або 9 кавалачкаў на месца, з паказаным малюнкам | Ранні і сярэдні этап |
+| [Карткі для размовы](/games/conversation-cards/) | Малюнак і адкрытае пытанне, пра якое пагаварыць | Любы этап, з суразмоўцам |
+| [Пары фотаздымкаў](/games/photo-pairs/) | Гульня на падбор са сваіх фота | Ранні і сярэдні этап |
+| [Размалёўка](/games/coloring/) | Націскаеце на колер, потым на частку малюнка; або друкуеце яго | Любы этап, з дапамогай |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Як сядзець разам, колькі дапамагаць і калі спыніцца, чытайце ў артыкуле [як гуляць у гульні з чалавекам з дэменцыяй](/caregiving/how-to-play-together/). Калі вас цікавяць «гульні на памяць», глядзіце [гульні на памяць для пажылых з дэменцыяй](/activities/memory-games/).
 
-## How to make any activity easier
+## Як зрабіць любыя заняткі лягчэйшымі
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Парады NIA зводзяцца да некалькіх звычак: падбірайце заняткі да таго, што чалавек можа; дапамагайце пачаць; сачыце за раздражненнем; дбайце, каб ён адчуваў поспех; і дайце яму проста назіраць, калі гэта тое, што яму падабаецца.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Выбірайце час дня, калі чалавек у найлепшым стане,** і трымайце заняткі коратка.
+- **Спачатку ўсё разложыце,** каб пачаць адразу.
+- **Запрашайце, а не загадвайце.** «Не маглі б вы мне дапамагчы?» дзейнічае лепш, чым «Час для занятку».
+- **Зрабіце першы крок самі** і дайце яму далучыцца.
+- **Прапануйце адзін крок і адзін выбар за раз.**
+- **Дайце рабіць так, як яму зручна.** Крыва складзены ручнік — гэта нармальна.
+- **Спыніцеся, пакуль усё яшчэ прыемна.** Раней спыненне — добры вынік, а не няўдача. Калі ён адмаўляецца, глядзіце [што рабіць, калі чалавек з дэменцыяй кажа «не»](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Альцгеймераўская асацыяцыя](https://www.alz.org/help-support/caregiving/daily-care/activities) гаворыць прасцей за ўсё: засяродзьцеся на задавальненні, а не на дасягненнях.

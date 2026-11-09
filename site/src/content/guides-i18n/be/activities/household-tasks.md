@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Хатняя праца як заняткі для людзей з дэменцыяй"
+seoTitle: "Хатнія заняткі пры дэменцыі: штодзённыя справы"
+description: "Складанне бялізны, сартаванне шкарпэтак і накрыванне стала могуць быць значнымі заняткамі для людзей з дэменцыяй. Як падрыхтаваць і зрабіць іх бяспечнымі."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Штодзённыя справы, такія як складанне ручнікоў, сартаванне шкарпэтак, накрыванне стала,
+  выціранне стальніцы, паліванне раслін і дапамога з простым гатаваннем, могуць даць
+  чалавеку з дэменцыяй рэальную магчымасць дапамагчы. Выбірайце справы, якія ён ведае,
+  падзяляйце іх на адзін крок за раз, прыбірайце завостраныя і гарачыя прадметы і
+  цэніце ўдзел больш, чым тое, ці «правільна» ўсё зроблена.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Знаёмыя справы могуць дапамагчы чалавеку адчуваць сябе карысным і часткай дома. Гэта часта важней за тое, наколькі добра ўсё зроблена."
+  - "Падзяляйце кожнае заданне на асобныя крокі, паказвайце, а не тлумачце, і ціха бярыцеся за любы крок, які стаў цяжкім."
+  - "Схоўвайце ножы, сродкі для прыбірання і капсулы з пральным порашкам, а перад сумесным гатаваннем ставьце накладкі на ручкі плыты або аўтаматычнае адключэнне."
+  - "Складзеныя ручнікі не трэба пераскладваць у прысутнасці чалавека. Калі нешта абавязкова трэба перарабіць, зрабіце гэта пазней і ўбаку ад яго вачэй."
+  - "Калі справа выклікае расстройства, перайдзіце да больш простага кроку, паспрабуйце іншым разам або проста пасядзіце разам."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "З якой хатняй працай людзі з дэменцыяй яшчэ могуць дапамагаць?"
+    a: "Многія яшчэ могуць складаць бялізну, падбіраць шкарпэткі, сартаваць відэльцы і лыжкі, накрываць стол, выціраць стальніцу, сцерці пыл, падмятаць, паліваць расліны або памешваць цеста ў місцы. Выбірайце справы, якія чалавек рабіў раней, і падбірайце іх да таго, што ён можа зрабіць зараз. На пазнейшых стадыях дастаткова і аднаго паўтаральнага руху, напрыклад, разглажваць сурвэткі."
+  - q: "Ці бяспечна чалавеку з дэменцыяй дапамагаць на кухні?"
+    a: "Гэта можа быць бяспечна пры ўважлівым нагляданні і правільнай арганізацыі. Трымайце ножы, сродкі для прыбірання і ўсё гарачае далей ад чалавека, ставце накладкі на ручкі плыты або аўтаматычнае адключэнне і даручыце бяспечную справу, напрыклад, мыццё гародніны, памешванне або раскладванне талерак. Ніколі не пакідайце яго адзінокім, калі плыта ўключана."
+  - q: "Што рабіць, калі ён складае рэчы няправільна або нешта псуе?"
+    a: "Не звяртайце ўвагі. Мэта — час разам і адчуванне карыснасці, а не ідэальны вынік. Калі нешта абавязкова трэба перарабіць, пачакайце і зрабіце гэта, калі чалавек не бачыць, каб ён не адчуваў, што яго папраўляюць."
+  - q: "Што рабіць, калі ён адмаўляецца дапамагаць?"
+    a: "«Не» можа азначаць, што справа зараз здаецца занадта цяжкай, блытанай або стомлівай. Не настаўляйце. Паспрабуйце прасцейшы варыянт, прапануйце пабыць побач з вамі або папытайцеся іншым часам дня."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Многія людзі з дэменцыяй усё жыццё вялі дамашнюю гаспадарку, выхоўвалі сем'ю або падтрымлівалі парадак на працы. Калі ў іх пытаюцца дапамогі з рэальнымі хатнімі справамі, гэта можа сказаць «ты ўсё яшчэ частка гэтай сям'і» так, як мала якія іншыя заняткі. На гэтай старонцы разгледжаны справы, якія звычайна добра працуюць, як іх наладзіць, як адаптаваць іх па меры змен і як захаваць бяспеку на кухні і ў прачэчнай.
 
-## Why do everyday chores work well as activities?
+## Чаму штодзённая праца добра працуе як заняткі?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Хатнія справы добрыя тым, што яны знаёмыя і маюць зразумелую мэту. Нацыянальны інстытут старэння ў ліку [штодзённых заняткаў, якія людзі з хваробай Альцгеймера могуць любіць](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), называе мыццё посуду, накрыванне стала, падмятанне, сціранне пылу, сартаванне пошты, складанне бялізны і сартаванне смецця для перапрацоўкі. Асацыяцыя Альцгеймера адзначае, што такія справы, як накрыванне стала, могуць дапамагчы чалавеку [адчуць сябе каштоўным членам сям'і](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+У справы ёсць і ўласная прычына пачаць. «Ці не маглі б вы мне дапамагчы з гэтымі ручнікамі?» — прасцей пагадзіцца, чым на «Ці не хацелі б вы заняцца нейкім заняткам?»
 
-## Which household tasks are good to try?
+## Якія хатнія справы варта паспрабаваць?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Пачніце з тых справаў, якія чалавек рабіў раней, а потым падбярыце іх да таго, што ён можа зрабіць сёння.
 
-### Laundry and linens
+### Бялізна і посцілачная тканіна
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Складанне ручнікоў і ануч.** Дайце кошык з невялікімі плоскімі рэчамі. Ручнікі вельмі даравальныя: няма няправільнага спосабу іх скласці.
+- **Падбор шкарпэтак.** Пакладзіце на стол змешаную кучу. Калі пары цяжка знайсці, выкарыстоўвайце толькі дзве-тры вельмі розныя колеры.
+- **Разгладжванне і складванне.** Сурвэткі, навалачкі або ручнікі для посуду можна разгладзіць і скласці ў стос. Гэта добра падыходзіць пазней, калі складанне стала занадта доўгім працэсам.
 
-### Table and kitchen
+### Стол і кухня
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Накрыванне стала.** Пакажыце адзін прыбор як узор і дайце чалавеку паўтарыць. Калі і гэта занадта, перадавайце адну рэч за раз: «Вось відэлец для кожнай талеркі».
+- **Сартаванне сталовых прыбораў.** Змяшайце чыстыя відэльцы, лыжкі і маслёнкі ў місцы і разложыце іх у падзелены лятачок. Завостраныя ножы пакіньце ўбаку.
+- **Выціранне посуду.** Пластыкавы або небітыя талеркі і мяккі ручнік робяць гэтую справу бяспечнай.
+- **Выціранне стала або стальніцы.** Вільготная анучка і чыстая паверхня. Асацыяцыя Альцгеймера раіць прапанаваць анучку, калі чалавек ужо церціць стол рукой: так неспакойны рух становіцца карысным.
 
-### Around the house
+### Па дому
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Сціранне пылу.** Мяккая шчотка і некалькі трывалых паверхняў, напрыклад, журнальны столік або паліца для кніг.
+- **Сартаванне пошты.** Дайце рэкламу і каталогі, каб сартаваць іх на кучкі: захаваць, аддаць на перапрацоўку, прачытаць пазней. Сапраўдныя рахункі і чэкі трымайце ў іншым месцы.
+- **Сартаванне смецця для перапрацоўкі.** Чыстыя банкі, бутэлькі і папера — у розныя кантэйнеры.
+- **Падмятанне.** Невялікая шчотка на веранды або на кухоннай падлозе, калі раўнавага добрая.
+- **Паліванне раслін.** Невялікая лёгкая лейка і некалькі раслін, да якіх лёгка дацягнуцца.
 
-### Simple cooking with supervision
+### Просты відаў гатавання з наглядам
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Гатаванне можа вярнуць моцныя і прыемныя адчуванні. Нацыянальны інстытут старэння раіць дазволіць чалавеку зжыць прадукты, адмераць, змяшаць і наліць або проста расказаць камусьці, як рыхтаваць любімую страву. Добрыя справы:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- мыццё гародніны або садавіны
+- памешванне цеста або халоднага салата
+- разрыванне салаты рукамі
+- намазванне тосту тупым нажом
+- выкладанне печыва на бляху
+- выкладанне начыння на піцу
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Калі адмяраць стала цяжка, Асацыяцыя Альцгеймера раіць самім закончыць адмяранне і дазволіць чалавеку зрабіць іншы крок, напрыклад, памешаць.
 
-## How do I set up a chore so it goes well?
+## Як наладзіць справу, каб яна прайшла добра?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Выберыце зручны час.** Абярыце частку дня, калі чалавек звычайна адпачыў і спакойны. Для многіх гэта ранак.
+2. **Прыбярыце прастору.** Адна справа, адна паверхня, нічога лішняга на стале.
+3. **Запрашайце, а не даручайце.** «Мне б не памешала твая дапамога з гэтымі рэчамі» працуе лепш, чым «Пара складаць бялізну».
+4. **Пакажыце першы раз.** Складзіце адзін ручнік павольна, потым дайце наступны. Паказваць зразумелей, чым тлумачыць.
+5. **Давайце адзін крок за раз.** Занадта шмат указанняў адразу можа пераадолець. Чакайце, пакуль адзін крок скончыцца, перш чым назваць наступны.
+6. **Працуйце побач.** Рабіць тую ж працу побач адзін з адным — гэта адчуванне кампаніі, а не назірання.
+7. **Гутарыце пра справу, а не пра вынік.** «Гэта такая мяккая тканіна» або «Раскажы, як ты дагляд шафу з бялізнай» запрашае да размовы, але нікога не выпрабоўвае.
 
-## How do I adapt chores as abilities change?
+## Як адаптаваць справы па меры змен?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Магчымасці змяняюцца з часам і нават ад дня да дня. Асацыяцыя Альцгеймера раіць па меры прагрэсавання хваробы пераходзіць да прасцейшых і больш паўтаральных спраў.
 
-| If this has become hard | Try this instead |
+| Калі гэта стала цяжка | Паспрабуйце замест гэтага |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Складанне вялікіх прасцірадлаў | Складанне ручнікоў або разгладжванне сурвэтак |
+| Накрыванне поўнага стала | Выкладанне адной сурвэткі на кожнае месца |
+| Сартаванне пошты па катэгорыях | Складанне канвертаў у адзін стос |
+| Выкананне рэцэпта | Памешванне або назіранне і пробаванне, пакуль вы гатуеце |
+| Падмятанне ўсёй падлогі | Выціранне аднаго маленькага стала |
+| Наогул не можа заняцца справай | Пасядзець побач з вамі і зрабіць кампанію, пакуль вы працуеце |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Назіранне таксама нешта значыць. Нацыянальны інстытут старэння адзначае, што некаторым людзям проста падабаецца назіраць, і гэта добры спосаб удзельнічаць.
 
-## How do I keep household tasks safe?
+## Як захаваць хатнія справы бяспечнымі?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Бяспека на першым месцы, асабліва на кухні. [Парады Нацыянальнага інстытута старэння па бяспецы дома для апекуноў людзей з хваробай Альцгеймера](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) уключаюць:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Замыкайце або прыбірайце сродкі для прыбірання, у тым ліку капсулы з пральным порашкам, якія могуць быць падобныя на цукерку.
+- Захоўвайце ножы, нажніцы і электрычныя інструменты ў замкнёным месцы.
+- Ставце на плыту засцерагальныя накладкі на ручкі і аўтаматычнае адключэнне.
+- Павесьце знакі «Стоп» або «Вельмі гарача» каля духоўкі, тостара і прасу, так каб яны не маглі загарэцца.
+- Налажыце тэмпературу бойлера не вышэй за 49°C, каб знізіць рызыку апёку.
+- Прыбярыце штучныя садавіну і магніты ў выглядзе ежы, бо яны могуць выглядаць як ядомыя.
 
-A few more practical habits help:
+Яшчэ некалькі практычных звычак дапамогуць:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Заставайцеся ў пакоі, калі плыта, духоўка або завостраны інструмент у выкарыстанні.
+- Для выцірання і накрывання стала выкарыстоўвайце небітыя талеркі.
+- Пры падмятанні або мыцці падлогі трымайце яе сухой і вольнай ад прадметаў.
+- Калі чалавек раней карыстаўся інструментамі, Асацыяцыя Альцгеймера раіць прыбраць небяспечныя рэчы з майстэрні, каб ён мог займацца бяспечнай справай, напрыклад, шліфаваць кавалак дрэва.
 
-## What if they do it "wrong"?
+## Што рабіць, калі ён робіць «не так»?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Адпусціце. Ручнік, складзены на трэці замест палавіны, усё роўна застаецца складзеным ручніком. Асацыяцыя Альцгеймера гаворыць прама: галоўнае — праведзены час разам і адчуванне карыснасці ў чалавека, а не тое, ці правільна складзены ручнікі. Калі нешта абавязкова трэба перарабіць, пачакайце і зрабіце гэта ўбаку ад яго вачэй.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Выпраўленне ў момант можа ператварыць прыемную працу ў нагадванне пра тое, што страчана. «Дзякуй, гэта мне вельмі дапамагло» — амаль заўсёды правільныя словы.
 
-## When should we stop?
+## Калі спыніцца?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Спыніцеся або змяніце справу, калі бачыце прыкметы расстройства, стомленасці або страты цікавасці. Раннае заканчэнне — добры вынік, а не няўдача. Можна:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- перайсці да прасцейшага кроку
+- перайсці да чаго-небудзь расслабляльнага, напрыклад, да музыкі або кубка кавы
+- паспрабаваць пазней або іншым днём
+- проста пасядзець разам
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Калі чалавек кажа «не», не настаўляйце. Глядзіце [што рабіць, калі яны гавораць «не»](/caregiving/when-they-say-no/), там ёсць мяккія спосабы адказаць.
 
-## Low-effort extras for a quieter moment
+## Простыя заняткі для ціхай хвіліны
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Калі фізічная праца немагчымая, сартаванне і падбор можна рабіць і сядзячы. [Sort Together](/games/sort-together/) дазваляе націскаць на карцінкі і класці іх у кошыкі для кухні або саду, а [Picture Pairs](/games/picture-pairs/) — мяккая гульня на падбор з вялікімі карцінкамі і без таймера. [Conversation Cards](/games/conversation-cards/) мае адкрытыя пытанні пра дом і сям'ю, якія добра спалучаюцца з кубкам кавы пасля працы.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Каб даведацца, як размеркаваць хатнія справы ў дні, глядзіце наш дапаможнік па [спакойным распарадку дня](/activities/daily-routine/). Больш ідэй па стадыях — у раздзеле [заняткі для сярэдняй стадыі](/activities/middle-stage/).
