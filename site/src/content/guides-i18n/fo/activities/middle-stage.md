@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Virksemi við demens á miðstøði"
+seoTitle: "Virksemi við demens á miðstøði: Einfaldar hugskot"
+description: "Einfalt virksemi við demens á miðstøði: kend arbeiði, tónleikur, myndir og lættir spælir, við stig-fyri-stig vegleiðing og góðum ráðum."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Tá demens er á miðstøði, rigga stutt, kend virksemi best, sum eru sundurbýtt í
+  einstøk stig: leggja klæði saman, sorta sokkar, vaska upp, syngja, ganga túrar
+  saman, hyggja í fotoalbum og spæla einfaldar myndaspælir. Ger alt klárt, vís
+  fyrsta stigið, tak tær av teimum truplu pørtunum og gev virkisminum eitt
+  endamál. Steðga, tá tað ikki longur er hugnaligt.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Kend hushaldsarbeiði rigga ofta best, tí tey geva eina kenslu av at vera til nyttu og vaksin."
+  - "Vís heldur enn at greiða frá, bjóð eitt stig í senn, og gev tvey einfald úrval í staðin fyri opin spurningar."
+  - "Tak tær av tí truplasta partinum, so persónurin kann gera tann partin, sum gevur gleði."
+  - "Órógv kann ofta merkja, at persónurin hevur brúk fyri onkrum at gera. Bjóð eitt hóskandi virksemi í staðin fyri at siga nei."
+  - "At hyggja við, hjálpa eitt sindur ella steðga tíðliga er alt í lagi."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Hvat slag av virksemi riggar væl við demens á miðstøði?"
+    a: "Stutt, kend og hondlig virksemi rigga vanliga best: leggja handklæði saman, finna sokkapør, vaska upp, seta borðið, syngja við á gomlum yndislagi, ganga túrar saman, hyggja í fotoalbum og spæla einfaldar myndaspælir. Sundurbýt alt í einstøk stig og ger tað saman."
+  - q: "Hvussu fái eg onkran, ið livir við demens, at byrja eitt virksemi?"
+    a: "Hav alt klárt, byrja so sjálv/ur virkismini og bjóð viðkomandi at hjálpa: „Kanst tú hjálpa mær við hesum handklæðunum?“ Nógv hava hug at vera við, men kunnu hava ilt við at byrja. At vísa fyrsta stigið riggar vanliga betur enn at greiða frá."
+  - q: "Hvat geri eg, tá tey gera tað sama umaftur og umaftur?"
+    a: "Endurtøka er ofta óskaðilig og kann vera eitt tekin um, at persónurin vil kenna seg uppií ella hevur brúk fyri trygd. Í staðin fyri at rætta, kanst tú bjóða eitt virksemi, sum hóskar til rørsluna, til dømis ein kurv við vaskiklútum at leggja saman ella ein sang at syngja saman."
+  - q: "Hvat um tey gera virkismini skeivt?"
+    a: "Um tað er óskaðiligt, lat tað vera. Tað hevur ongan týdning, um handklæði verða løgd øðrvísi saman ella skeiðir koma á skeivan stað. At rætta kann kennast sum atvold, meðan tað at gera tað á teirra hátt kann lata tey kenna seg før fyri og til nyttu."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Miðstøðið í demens er ofta tað longsta, og tað er tá, at virksemi fara at krevja meira stuðul. Orðini kunnu vera truplari at finna, stig kunnu blandast saman, og tað kann kenna torført at byrja nakað. Men ynskið um at vera til nyttu og vera við heldur vanliga fram. Við eitt sindur av fyrireiking kann ein persónur á miðstøði enn njóta nógv, serliga kend arbeiði, tónleik og myndir, tá tit gera tað saman.
 
-## What activities work well in middle-stage dementia?
+## Hvat slag av virksemi riggar væl við demens á miðstøði?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Stutt, kend og hondlig virksemi, sundurbýtt í einstøk stig, rigga best. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) sigur, at tú ikki skalt finna upp á nýggjum tingum: virksemi kunnu vera partur av gerandisdegnum, so sum at gera døgurða saman, garða, lurta eftir tónleiki ella ganga ein túr.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) vísir á, at fólk á hesum støði ofta hava eitt sterkt brúk fyri at kenna seg til nyttu ella at taka sær av onkrum, og at tey hava brúk fyri hjálp at byrja ella halda fram við virksemi. Listin teirra fyri miðstøðið fevnir um at leggja klæði saman, vaska upp, sorta sokkar, lætta rørslu, dansa til kendan tónleik, túrar saman, felags sang og at hyggja í fotoalbum.
 
-## How do you set up an activity so it works?
+## Hvussu setur tú eitt virksemi upp, so tað riggar?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Tað er ofta fyrireikingin, sum avger, um eitt virksemi riggar ella ikki. Hesir vanarnir, grundaðir á [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) og [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), gera størstan mun:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Rudda plássið.** Sløkk sjónvarpið, lat hurðina aftur og legg bert tað fram, sum virkismini hevur brúk fyri.
+2. **Byrja sjálv/ur.** Byrja at leggja saman ella røra runt og bjóð viðkomandi at vera við: „Kanst tú hjálpa mær við hesum?“
+3. **Vís, og bíða so.** Vís eitt stig. Peika ella leið við hondini, til dømis vís hvar tallerkurin skal liggja.
+4. **Gev eitt stig í senn.** „Legg tað saman á miðjuni“ er lættari enn „legg hesi saman og stabla tey eftir liti“.
+5. **Bjóð tvey úrval, ikki opin spurningar.** „Tey bláu handklæðini ella tey hvítu?“ er lættari at svara enn „Hvat vilt tú gera?“
+6. **Ger tann trupla partin sjálv/ur.** Tú málar, tey røra. Tú tráðar nálina, tey vinda garnið.
+7. **Gev tí eina orsøk.** „Hesir servittarnir eru til sunnudagsdøgurðan“ letur arbeiðið kenna meira veruligt.
+8. **Lat tey hyggja við, um tey heldur vilja tað.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) vísir á, at tað eisini kann vera hugnaligt bert at hyggja við.
 
-## Activity ideas for the middle stage
+## Hugskot til virksemi á miðstøði
 
-### Useful jobs
+### Arbeiði, sum gevur meining
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Legg handklæði og vaskiklútar saman.** Smá, fløt pløgg eru lættast. Ein kurvur við lunknum vaskiklútum kann leggjast saman, slættast og leggjast saman umaftur.
+- **Finn sokkapør.** Byrja við nøkrum fáum, sera ymiskum pørum. Tað er eisini fínt bert at sorta eftir liti.
+- **Vaska ella turka óbrotligt uppvask.** Heitt sápuvatn kennist gott í hondunum. Tað er lættari fyri beinini at turka, meðan ein situr.
+- **Set borðið.** Gev ein sløg av lutum í senn, og set eitt pláss sjálv/ur sum fyrimynd.
+- **Hjálp við døgurðan.** Vaska epli, ríva salat ella røra í eini bollar. Tú tekur tær av knívum og hita.
+- **Kosta, turka dust ella vaska av.** Ein klútur til borðið, ein lættur kostur til trappuna.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Sí [hushaldsarbeiði](/activities/household-tasks/) fyri fleiri hugskot.
 
-### Music and movement
+### Tónleikur og rørsla
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Syng gomul yndisløg.** Byrja sjálv/ur at syngja; nógv syngja ofta við á løgum, tey hava kent í áratíggju. Sí [tónleikur sum virksemi](/activities/music/).
+- **Dansa frítt.** Veiva, klappa ella rør teg, so sum tað kennist gott. Tað ber eisini til at sita.
+- **Kasta ein ballón.** Hann flytur seg spakuliga og er lættur at fanga úr einum stóli.
+- **Gakk ein túr saman.** Ganga ein stuttan, kendan túr saman, armin í arm, um tað hjálpir.
 
-### Pictures and stories
+### Myndir og søgur
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Hygg í einum fotoalbumi.** Greið frá tí, tú sært, í staðin fyri at seta spurningar: „Hygg, tann bilin. Sig mær frá honum.“ Sí [minnisvirksemi](/activities/reminiscence/).
+- **Nýt samrøðukort.** [Samrøðukort](/games/conversation-cards/) seta eina mynd saman við eini opinari áheitan uttan spurningar.
+- **Hygg at einum gomlum filmi saman.** Vel ein, sum er kendur, ver hjá og steðga til steðgar.
 
-### Simple, pressure-free games
+### Einfaldir spælir uttan trýst
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Myndapør við myndunum sjónligum.** [Myndapør](/games/picture-pairs/) letur myndirnar vera sjónligar, so tað snýr seg um at leggja til merkis, ikki um at minnast.
+- **Finn tað sama.** [Finn tað sama](/games/find-the-same/) vísir eina mynd og bert tvey til fýra úrval.
+- **Sortera saman.** [Sortera saman](/games/sort-together/) er sum at sorta vaski á skíggjanum: pikka á eina mynd og so á rætta kurvin.
+- **Myndabingo.** [Myndabingo](/games/picture-bingo/) riggar væl, tá familjan ella ein bólkur er saman.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Um ein spælur byrjar at elva til órógv, steðga og ger okkurt annað. Sí [hvussu tit spæla saman](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Ger órógv til eitt virksemi
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Órógv ella endurtikin atferð hevur ofta eina orsøk. Family Caregiver Alliance vísir á, at ein persónur, sum altíð tømur eitt skáp, kanska roynir at nøkta eitt brúk fyri at kenna seg uppií og til nyttu. Alzheimer's Association mælir til at venda slíka orku til eitt hóskandi virksemi í staðin fyri at steðga tí.
 
-| What you see | Something to offer |
+| Tað, tú sært | Okkurt at bjóða |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Gníggjar ella pjakar í einum borði | Ein rakur klútur og ein umbøn um at turka borðið |
+| Órógv í beinunum ella tromman | Tónleikur við greiðum takti at tromma ella klappa til |
+| Tømir skúffur ella skáp | Ein kurvur við klæðum ella vaskiklútum at leggja saman og sorta |
+| Setur sama spurningin umaftur | Trygd, og so ein sangur ella eitt arbeiði at gera saman |
+| Góngur fram og aftur | Ein túr saman, ella eitt arbeiði, har ein ber okkurt |
+| Órógv seint um eftirmiðdagin | Ein rólig, kend uppgáva í góðum ljósi; sí [órógv seinni um dagin](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Nær tú skalt steðga ella broyta
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Steðga, tá tú sært tekin um trættleika, órógv, skomm ella keðsemi, so sum órógv í kroppinum, rynkuta brún, at skumpa ting burtur ella siga „Eg klári tað ikki“. Alzheimer's Association mælir til at royna aftur eina aðra tíð á degnum ella gera virkismini einfaldari. Neyð ikki. Eitt nei kann koma av ótta ella av, at uppgávan er ov tung; sí [tá tey siga nei](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Tað er heilt í lagi at enda tíðliga. Tað er eisini í lagi bert at sita saman við einari kopp av te. Tá førleikar broytast meira, kunnu hugskotini í [virksemi á seinasta støði](/activities/late-stage/) passa betur, og [101 virksemi](/activities/ideas/) hevur nógv fleiri at royna.

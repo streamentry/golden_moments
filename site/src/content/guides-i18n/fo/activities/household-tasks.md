@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Húsarhaldsligar uppgávur hjá fólki við demensu"
+seoTitle: "Húsarhaldsligt virksemi við demensu: Gerandisdagar"
+description: "At leggja saman, sortera, dekka borðið og hjálpa við einføldum mati kunnu vera meiningsfull virksemi. Hvussu tú skipar fyri, tillagar og tryggjar tey."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Gerandisuppgávur sum at leggja handklæði saman, sortera sokkar, dekka borðið,
+  turka av, vatna plantur og hjálpa við einføldum mati kunnu geva einum persóni,
+  ið livir við demensu, ein veruligan møguleika at hjálpa til. Vel uppgávur, sum
+  persónurin kennir, tak eina uppgávu í senn, tak burtur knívar og heitar
+  vandar, og legg dent á at vera við heldur enn at gera tað „rætt“.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Kendar gerandisuppgávur kunnu hjálpa einum persóni at kenna seg nyttigan og sum part av húsarhaldinum, og tað hevur ofta størri týdning enn, hvussu væl uppgávan verður gjørd."
+  - "Tak hvørja uppgávu sundur í einstøk stig, vís heldur enn at greiða frá, og tak spakuliga yvir stig, sum eru vorðin torfør."
+  - "Læs knívar, reinsivørur og vaskimiðlakapslar burtur, og set verjuknøttar á komfýrin ella sjálvvirkandi sløkking, áðrenn tit gera mat saman."
+  - "Samanløgd handklæði nýtast ikki at verða løgd saman umaftur, meðan persónurin sær tað. Um tú veruliga mást gera nakað umaftur, ger tað seinni og uttan at persónurin sær tað."
+  - "Um ein uppgáva elvir til frustratión, skift til eitt lættari stig, royn aftur eina aðra ferð ella ver bara saman."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Hvørjar gerandisuppgávur kann ein persónur við demensu framvegis hjálpa við?"
+    a: "Nógv fólk kunnu framvegis leggja tøyv saman, finna rættar sokkapør, sortera borðreiðskap, dekka borðið, turka av einum borði, stova av, kosta, vatna plantur ella røra í eini deigskál. Vel uppgávur, sum persónurin hevur gjørt áður, og tillaga tær til tað, sum hann ella hon megnar nú. Seinni í gongdini kann ein einstøk endurtikin rørsla, sum at strúka serviettar, vera nóg mikið."
+  - q: "Er tað trygt, at onkur við demensu hjálpir til í køkinum?"
+    a: "Tað kann tað vera við góðum eftirliti og røttum fyrireikingum. Halt knívar, reinsivørur og alt, sum er heitt, burtur úr røkki, brúka verjuknøttar á komfýrin ella sjálvvirkandi sløkking, og gev persóninum eina trygga uppgávu, sum at vaska grønmeti, røra ella seta tallerkar fram. Lat hann ella hana ongantíð vera einsamøll, meðan komfýrið er tendrað."
+  - q: "Hvat um tey leggja ting skeivt saman ella gera rusk?"
+    a: "Lat tað vera. Endamálið er tíð saman og ein kensla av at vera nyttigur, ikki eitt fullkomið úrslit. Um nakað veruliga má gerast umaftur, bíða til seinni og ger tað, tá persónurin ikki hyggur, so hann ella hon ikki kennir seg rættað."
+  - q: "Hvat um tey nokta at hjálpa?"
+    a: "Eitt nei kann merkja, at uppgávan kennist ov torfør, ørkymlandi ella trættandi beint nú. Trýst ikki á. Royn eina einfaldari útgávu, bjóða persóninum at halda tær við felag í staðin, ella spyr aftur á eini betri tíð á degnum."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Nógv fólk, ið liva við demensu, hava brúkt áratíggju til at stýra einum heimi, ala børn upp ella halda skil á einum arbeiðsplássi. At verða biðin um at hjálpa við veruligar gerandisuppgávur kann siga „tú hoyrir framvegis til hetta húsarhaldið“ á ein hátt, sum fá onnur virksemi megna. Hendan síðan fevnir um hvørjar uppgávur ofta rigga væl, hvussu tú skipar fyri teimum, hvussu tú tillagar tær, tá ið lutirnir broytast, og hvussu tú tryggjar køkin og vaskarúmið.
 
-## Why do everyday chores work well as activities?
+## Hví rigga gerandisuppgávur væl sum virksemi?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Gerandisuppgávur rigga væl, tí tær eru kendar og hava eitt greitt endamál. National Institute on Aging nevnir at vaska upp, dekka borðið, kosta, stova av, sortera post, leggja tøyv saman og sortera endurvinnslu millum [dagligu virkseminið, sum fólk við Alzheimer kunnu hava hug at gera](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer’s Association peikar á, at uppgávur sum at dekka borðið kunnu hjálpa einum persóni at [kenna seg sum ein virðismikil partur av húsarhaldinum](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Ein gerandisuppgáva hevur eisini sína egnu orsøk til at byrja. „Kundi tú hjálpt mær við hesum handklæðunum?“ er lættari at siga ja til enn „Hava tú hug at gera eitt virksemi?“
 
-## Which household tasks are good to try?
+## Hvørjar húsarhaldsligar uppgávur er vert at royna?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Byrja við uppgávur, sum persónurin hevur gjørt áður, og tillaga tær so til tað, sum hann ella hon megnar í dag.
 
-### Laundry and linens
+### Tøyv og linklæði
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Leggja handklæði og vaskiklútar saman.** Rekk einum persóni eina kurv við smáum, fløtum lutum. Handklæði eru lætt at arbeiða við: tað ber til at leggja tey saman á fleiri háttir.
+- **Finna sokkapør.** Legg ein blandaðan haug á borðið. Um tað gerst torført at síggja pørini, brúka bert tveir ella tríggjar sera ymiskar litir.
+- **Strúka og stabla.** Serviettar, koddar ella uppvaskarklútar kunnu strúkast flatar og stablast. Hetta riggar ofta væl seinni, tá ið tað eru ov nógv stig í at leggja saman.
 
-### Table and kitchen
+### Borð og køkur
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Dekka borðið.** Set eitt borðreiðskap sum fyrimynd og lat persónin gera tað eftir. Um tað er ov nógv, fá honum ella henni ein lut í senn: „Her er ein gaffil til hvønn tallerk.“
+- **Sortera borðreiðskap.** Blanda reinar gafflar, skeiðir og smørknívar í ein kassa og sortera tey í ein bakk við rumbýti. Lat hvassar knívar vera burtur.
+- **Turka upp.** Plasttallerkar ella onnur tallerk, sum ikki brotna lætt, og ein bleytur klútur gera hetta til eina trygga uppgávu.
+- **Turka av borðinum ella borðplátunum.** Ein rakur klútur og ein rein flata. Alzheimer’s Association mælir til at bjóða ein klút, um onkur longu gníggjar borðið við hondini, so ein órólig rørsla verður gjørd til nakað nyttigt.
 
-### Around the house
+### Rundan um húsið
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Stova av.** Ein bleytur stovari og nakrar fáar sterkar flatur, sum eitt sofuborð ella ein bókahill.
+- **Sortera post.** Rekk persóninum óynsktan post og bløð at sortera í bunkar: goyma, endurvinna, lata upp seinni. Halt veruligar rokningar og ávísingar aðrastaðni.
+- **Sortera endurvinnslu.** Reinar dósir, fløskur og pappír í hvør sín kassa.
+- **Kosta.** Ein lítil kostur á einum altani ella køksgólvi, um javnvágin er góður.
+- **Vatna plantur.** Ein lítil, lætt vatnkannga og nakrar fáar plantur, sum eru lættar at røkka.
 
-### Simple cooking with supervision
+### Einfaldur matur við eftirliti
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+At gera mat kann vekja sterk, góð minni. NIA mælir til at lata persónin savna tilfar, máta, blanda og hella, ella bara greiða øðrum frá, hvussu ein yndisrættur verður gjørdur. Góðar uppgávur eru til dømis:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- at vaska grønmeti ella frukt
+- at røra í deigi ella einum køldum salati
+- at ríva salat
+- at smyrja breyð við einari sløvari knív
+- at leggja smákøkudeig á eitt breyði
+- at leggja álegg á ein pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Um tað gerst torført at máta, mælir Alzheimer’s Association til, at tú ger mátingina lidna og síðan letur persónin taka eitt annað stig, sum at røra.
 
-## How do I set up a chore so it goes well?
+## Hvussu skipi eg fyri eini gerandisuppgávu, so tað gongur væl?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Vel rættu tíðina.** Vel ein part av degnum, tá persónurin vanliga er hvíldur og róligur. Hjá nógvum er tað um morgunin.
+2. **Rudda plássið.** Ein uppgáva, ein flata, einki yvirlop á borðinum.
+3. **Bjóða, ikki áleggja.** „Eg kundi brúk fyri eina hond við hesum“ riggar betur enn „Nú skulu vit leggja tøyv saman.“
+4. **Vís tað fyrsta.** Legg eitt handklæði spakuliga saman, og rekk so tað næsta. At vísa er greiðari enn at forklára.
+5. **Gev ein stig í senn.** Ov nógvar vegleiðingar í senn kunnu gerast ov nógv. Bíða til eitt stig er liðugt, áðrenn tú nevnir tað næsta.
+6. **Arbeiðið síð um síð.** At gera somu uppgávu hvør hjá øðrum kennist sum felag, ikki eftirlit.
+7. **Tosa um uppgávuna, ikki úrslitið.** „Hesi eru so bleyt“ ella „Hvussu dámdi tær best at halda skil á linnskápinum?“ bjóðar inn til samrøðu uttan at royna nakran.
 
-## How do I adapt chores as abilities change?
+## Hvussu tillagi eg gerandisuppgávur, tá førleikin broytist?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Førleikin broytist við tíðini og eisini frá degi til dag. Alzheimer’s Association mælir til at fara yvir til einfaldari, meira endurtakandi uppgávur, sum sjúkan gongur fram.
 
-| If this has become hard | Try this instead |
+| Um hetta er vorðið torført | Royn hetta í staðin |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| At leggja stór løk saman | At leggja vaskiklútar saman ella strúka serviettar |
+| At dekka eitt heilt borð | At leggja eina serviett við hvørt pláss |
+| At sortera post í bólkar | At stabla bræv í ein haug |
+| At fylgja eini uppskrift | At røra, ella at hyggja og smakka, meðan tú gert mat |
+| At kosta eitt heilt gólv | At turka av einum lítlum borði |
+| At gera uppgávuna yvirhøvur | At sita hjá tær og halda tær við felag, meðan tú gert tað |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+At hyggja er eisini at vera við. NIA nevnir, at summi einfaldliga dáma at hyggja, og tað er ein fínur máti at vera partur av tí á.
 
-## How do I keep household tasks safe?
+## Hvussu haldi eg húsarhaldsligar uppgávur tryggar?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Trygd kemur fyrst, serliga í køkinum. [Trygdarráðini hjá NIA til tey, sum røkja fólk við Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips), fevna millum annað um:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Læs ella tak burtur reinsivørur, eisini vaskimiðlakapslar, sum kunnu síggja út sum góðgæti.
+- Goym knívar, saksar og el-amboð í einum læstum øki.
+- Set verjuknøttar og sjálvvirkandi sløkking á komfýrin.
+- Set „Steðga“ ella „Sera heitt“ skilti nærindis ovninum, brauðristaranum og strikujarninum, so tey ikki kunnu taka eld.
+- Still heitavatnstankin á 49 °C fyri at minka vandan fyri brenniskaða.
+- Tak burtur plastfrukt og magnetar, sum síggja út sum matur, tí tey kunnu síggja etilig út.
 
-A few more practical habits help:
+Nakrir fáir praktiskir vanar hjálpa eisini:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Verð verandi í rúminum, tá komfýrið, ovnurin ella eitt hvast amboð er í nýtslu.
+- Brúka tallerk, sum ikki brotna lætt, tá tit turka upp og dekka borð.
+- Halt gólvini turr og rein, meðan tit kosta ella turka.
+- Um persónurin áður brúkti amboð, mælir Alzheimer’s Association til at taka vandamiklar lutir burtur úr amboðsrúminum, so ein trygg uppgáva, sum at pússa eitt stykki av træi, framvegis kann gerast.
 
-## What if they do it "wrong"?
+## Hvat um tey gera tað „skeivt“?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lat tað fara. Eitt handklæði, sum er lagt saman í tríggjar partar í staðin fyri tveir, er framvegis eitt samanlagt handklæði. Alzheimer’s Association setir tað beint: tað, sum hevur týdning, er tíð saman og at persónurin kennir seg nyttigan, ikki um handklæðini eru løgd rætt saman. Um nakað veruliga má gerast umaftur, bíða til seinni og ger tað, uttan at persónurin sær tað.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+At rætta í løtuni kann gera eina hugnaliga uppgávu til eina áminning um tað, sum er mist. „Takk, hetta er ein stór hjálp“ er næstan altíð tað rætta at siga.
 
-## When should we stop?
+## Nær skulu vit steðga?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Steðga ella skift, tá tú sært tekin um frustratión, tráleik ella minkandi áhuga. At enda tíðliga er eitt gott úrslit, ikki eitt miseydnaðist tiltak. Tú kanst:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- skifta til eitt lættari stig
+- fara yvir til nakað róliga, sum tónleik ella ein kopp av kaffi
+- royna aftur seinni ella ein annan dag
+- bara sita saman
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Um persónurin sigur nei, trýst ikki á. Sí [hvat tú kanst gera, tá ið persónurin sigur nei](/caregiving/when-they-say-no/), har tú finnur blíð ráð.
 
-## Low-effort extras for a quieter moment
+## Lætt hjálp til ein róligari løtu
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Tá kropsligar gerandisuppgávur ikki bera til, kann tað framvegis berast til at sortera og finna pør, meðan tit sita. [Sort Together](/games/sort-together/) letur teg trýsta á myndir og leggja tær í kurvar til køkin ella urtagarðin, og [Picture Pairs](/games/picture-pairs/) er eitt blítt samsvarandi spæli við stórum myndum og ongari tíðartakmarking. [Conversation Cards](/games/conversation-cards/) hevur opin hugskot um heimið og familjuna, sum passa væl saman við ein kopp av kaffi, tá arbeiðið er liðugt.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Fyri hjálp til at fáa gerandisuppgávur inn í dagin, sí okkara vegleiðing til ein [róligan gerandisdag](/activities/daily-routine/). Fyri fleiri hugskot eftir støði, sí [virksemi í miðstøði](/activities/middle-stage/).

@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Svevnur og heilaheilsa: Hvat kanningar benda á"
+seoTitle: "Svevnur og demens: Hvat kanningar benda á"
+description: "Hvat kanningar benda á um svevn og vand fyri demens, hví røkkingargranskingin enn er tíðliga, og góðir svevnivanar hjá eldri og røktarum."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Nakrar langtíðarkanningar knýta stuttan svevn í miðlívinum at størri vanda fyri demens, og
+  gransking í royndarstovu bendir á, at svevnur kann hjálpa heilanum at rudda burturúr. Hetta
+  prógv er enn tíðliga, og Lancet-nevndin fyri 2024 nevndi ikki svevn sum ein broytanligan
+  vandafaktor. Regluligir svevnivanar hjálpa, hvussu tú hevur tað frá degi til dag.
+  Svevntrupulleikar eru vanligir hjá fólki, ið liva við demens, og tey er vert at nevna fyri lækna.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Ein bretsk kanning, sum fylgdi umleið 8.000 fólkum í 25 ár, knýtti seks tímar ella minni av svevni í miðlívinum at størri vanda fyri demens."
+  - "Svevnbroytingar kunnu eisini vera eitt tíðligt tekin um demens, so tað er torført at siga, hvat er orsøk og hvat er ávirkan."
+  - "Gransking um, at svevnur ruddar beta-amyloid úr heilanum, er veruleik, men enn tíðlig, og nógv av henni er gjørd í músum."
+  - "Svevnøki er vanligt, kann viðgerast og er í kanningum knýtt at demens; harður snorkur og deyvleiki um dagin er vert at kanna."
+  - "Byrja, steðga ella broyt ongantíð svevnheilivág ella svevnstuðul uttan at tosa við lækna."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Elvir vánaligur svevnur til Alzheimer?"
+    a: "Tað er ikki prógvað. Nakrar kanningar knýta stuttan svevn at størri vanda fyri demens, men demens sjálvt órógvar svevnin, ofta ár áður enn sjúkan verður staðfest. Lancet-nevndin fyri 2024 metti prógvini ov ójavnar til at nevna svevn sum ein broytanligan vandafaktor."
+  - q: "Hvussu nógv svevn hava eldri tørv á?"
+    a: "National Institute on Aging sigur, at eldri hava umleið sama tørv sum onnur vaksin, 7 til 9 tímar um náttina. Nógv eldri fara at leggja seg og vakna tíðliga enn áður, og tað er vanligt."
+  - q: "Hví svevur onkur, ið livir við demens, um dagin og vaknar um náttina?"
+    a: "Demens kann ávirka kropsklokkuna, so svevn- og vakutíðirnar renna saman. Pína, keðsemi, hungur ella hjáárin av heilivági kunnu eisini spæla inn. Dagsljós, daglig rørsla og ein róligur kvøldvani kunnu hjálpa. Ein lækni kann kanna orsøkir, sum kunnu viðgerast."
+  - q: "Skal eg geva tann, eg taki mær av, svevnstuðul?"
+    a: "Tosa við læknan hjá honum ella henni fyrst, eisini um handkeypsvørur. National Institute on Aging vísir á, at nakrir svevnheilivágir kunnu økja vandan fyri svimleika, fallum og ørkymlan hjá fólki, ið liva við Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Svevnur og heilaheilsa hanga týðiliga saman, men hvussu tey hanga saman, verður enn kannað. Nakrar kanningar knýta stuttan svevn at størri vanda fyri demens. Demens, hinvegin, órógvar ofta svevnin. Hendan síðan greiðir frá, hvat granskingin vísir og ikki vísir, gevur praktisk ráð um svevnivanar og fevnir um svevntrupulleikar, sum eru vanligir hjá fólki, ið liva við demens. Hon gevur ikki ráð um svevnheilivág; tann samrøðan hoyrir heima hjá lækna.
 
-## Is poor sleep linked with dementia?
+## Er vánaligur svevnur knýttur at demens?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Nakrar langtíðarkanningar knýta stuttan svevn at størri vanda fyri demens, men prógvini eru ikki heilt greið.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Ein bretsk kanning yvir 25 ár.** Granskarar fylgdu umleið 8.000 vaksnum í [Whitehall II-kanningini](https://www.nature.com/articles/s41467-021-22354-2). Fólk, sum svav seks tímar ella minni, tá tey vóru 50 ella 60 ár, høvdu størri vanda fyri demens seinni enn tey, sum svóvu sjey tímar. Fólk, sum svav seks tímar ella minni, tá tey vóru 50, 60 og 70 ár, høvdu umleið 30% størri vanda enn tey, sum regluliga svóvu sjey tímar. Hetta var ein eygleiðingarkanning, so hon vísir eitt samband, ikki eina orsøk.
+- **Sjónarmiðið hjá Lancet-nevndini.** [Lancet-nevndin fyri 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) legði ikki svevn afturat listanum við 14 broytanligum vandafaktorum. Hon metti prógvini ikki nóg javn. Ein orsøk er „øvt orsakasamband“: heilabroytingar frá demens byrja ár áður enn sjúkan verður staðfest og kunnu órógva svevnin. Í eini stórari kanning hvarv eitt samband millum langan svevn og demens, tá fyrstu fimm árini av eftirlitinum vórðu tikin frá.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+So ein stutt nátt av og á er ikki orsøk til stúran. Regluligur, góður svevnur er vert at miða ímóti, tí hann hjálpir lyndi, varsemi og trygd í dag.
 
-## What is the "brain-clearing" sleep research?
+## Hvat er granskingin um, at heilin „ruddar“ seg í svevni?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Tú kanst hava lisið, at svevnur „reinsar“ heilan. Tað hugskotið kemur úr veruleikari gransking, men hon er tíðlig.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Í músum.** Ein kanning frá 2013, [lýst av NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), fann, at rúmið millum heilakyknur vaks umleið 60%, tá mýs svóvu. Vøtvi rann lættari gjøgnum heilan, gjøgnum tað, sum granskarar kalla glymfatiska skipanina. Beta-amyloid, eitt protein, sum er knýtt at Alzheimer, varð ruddað skjótari úr heilanum á svøvandi músum.
+- **Í fólki.** Ein lítil [kanning frá 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) skannaði 20 frísk vaksin, 22 til 72 ára gomul, eftir eina vanliga nátt og eftir eina nátt uttan svevn. Eftir náttina uttan svevn vaks eitt skanningartekin fyri beta-amyloid í heilanum umleið 5% á einum øki, sum fevndi um hippocampus, eitt øki, sum er týdningarmikið fyri minni. Høvundarnir nevndu hetta fyribils prógv. Teir vistu ikki, um broytingin hvørvur aftur eftir hvíld, ella um hon stavar frá seinni rudding ella meiri framleiðslu av amyloid.
+- **Tað gongur báðar vegir.** Lancet-nevndin vísir á, at uppsavnaður av amyloid sjálvur kann órógva svevnin hjá eldri.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Hesar niðurstøður hjálpa at greiða frá, hví granskarar hava áhuga fyri svevni. Tær vísa ikki, at betri svevnur fyribyrgir Alzheimer.
 
-## What sleep habits may help?
+## Hvørjir svevnivanar kunnu hjálpa?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Eldri hava tørv á umleið 7 til 9 tímum av svevni um náttina, tað sama sum onnur vaksin, sambært [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Uppskotini hjá stovninum fevna um:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Halt eina regluliga skipan.** Far at leggja teg og statt upp á sama tíð hvønn dag, eisini í vikuskiftinum.
+- **Ger ein róandi kvøldvana.** Les, lurta eftir róligari tónleik ella tak eitt heitt bað, áðrenn tú fert at leggja teg.
+- **Ger sovikamarin góðan,** ikki ov heitan ella ov kaldan.
+- **Avmarka koffein seint á degi.** Kaffi, te, sodavatn og sjokuláta kunnu halda tær vakandi.
+- **Lat vera við alkohol,** eisini í smáum nøgdum, mælir NIA til.
+- **Lat vera við stórum máltíðum tvey til trý tímar áðrenn tú fert at leggja teg,** og lat vera við stórum drykkjum seint á degi.
+- **Ven regluliga, men ikki tær 3 síðstu tímarnar áðrenn tú fert at leggja teg.** Sí okkara [leiðbeining um rørslu](/brain-health/exercise/).
+- **Halt skíggjar uttan fyri sovikamarin.** NIA mælir til ikki at hyggja at sjónvarpi ella brúka teldu, telefon ella teldil har.
+- **Lat vera við at blunda seint um seinnapartin ella um kvøldið,** um tú kanst.
 
-## Sleep problems in dementia
+## Svevntrupulleikar hjá fólki, ið liva við demens
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Broytingar í svevni eru vanligar hjá fólki, ið liva við demens. [NIA nevnir](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ov nógv ella ov lítið svevn, at vakna ofta um náttina og at blunda nógv um dagin. Stovnurin lýsir eisini kvøldórógv: óstøði, órógv ella ørkymlan, sum byrjar ella versnar, tá dagsljósið hvørvur.
 
-Caregiver tips from the NIA include:
+Ráð frá NIA til røktarar fevna um:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Fá dagsljós og rørslu tíðliga.** Far út ella sit við einum vindeyga um dagin, og hjálp persóninum at vera virkin hvønn dag. Bjart ljós kann hjálpa at stilla kropsklokkuna.
+2. **Legg virknar gerðir á morgunin.** Royn at baða um morgunin ella at eta størsta máltíðina mitt á degi.
+3. **Halt blund stutt og tíðliga.** Avmarka at dumba seint á degi.
+4. **Ger kvøldið róligt.** Deyv ljósið, minka um larm og spæl róliga tónleik, um persónurin dámar tað. Leiðbeiningin okkara um [órógv seint á degi](/caregiving/late-day-restlessness/) hevur fleiri hugskot.
+5. **Halt ein fastan kvøldvana.** At lesa hart á sama tíð hvønn kvøld er eitt dømi frá NIA. Ein [fastur gerandisdagur](/activities/daily-routine/) hjálpir eisini.
+6. **Avmarka koffein og alkohol.**
+7. **Brúka náttarljós** í sovikamara, ganga og baðirúmi.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Fyri tað, at vakna um náttina, fevna [trygdarráðini hjá NIA heima](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) um náttarljós ella sjálvvirkandi ljósnemarar, halditeinar í baðirúminum, bjartlitt límband á trappukantum og heilivág, sum verða goymd á læstum staði.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Ein stutt, rólig løta um kvøldið kann hjálpa tykkum báðum at róa tykkum. Royn eina spakuliga løtu við [Rólig anding](/games/calm-breathing/) ella nøkur avslappa [Samrøðukort](/games/conversation-cards/). Lat vera við øllum, sum órógvar, tætt við legutíð, og steðga, tá persónurin hevur fingið nokk.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Brotin náttarsvevnur slítur eisini røktarar. Leiðbeiningin okkara um [egnumrøkt hjá røktarum](/caregiving/caregiver-self-care/) fevnir um mátar at fáa hvíld og hjálp.
 
-## What about sleep apnea?
+## Hvat við svevnøki?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Svevnøki elvir til stuttar steðgir í andadráttinum í svevni, ofta mangan hvørja nátt. NIA sigur, at um tað ikki verður viðgjørt, kann tað føra til trupulleikar sum høgan blóðtrýst, heilablóðfall ella minnistrupulleikar. Tekin fevna um harðan snork og at kenna seg deyvan um dagin, og nógv vita ikki, at tey hava tað. Lancet-nevndin lýsir eina gjøgnumgongd av 11 kanningum, har fólk við svevnøki høvdu umleið 43% størri vanda fyri demens. Fáar av hesum kanningum tóku tó hædd fyri vekt, so sambandi er óvíst.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Svevnøki kann staðfestast og viðgerast. NIA vísir á, at ein CPAP-maskina næstan altíð hjálpir. Um tú ella tann, tú tekur tær av, snorkar hart, steðgar í andadráttinum í svevni, ella er sera deyvur um dagin, so sig tað við lækna.
 
-## A note about sleep medicines
+## Ein viðmerking um svevnheilivág
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Vit geva ikki ráð um svevnheilivág ella kostískoyti. NIA vísir á, at svevnheilivágir kunnu hjálpa í stutta tíð, men ikki loysa svevnloysi. Stovnurin vísir eisini á, at nakrir heilivágir, sum verða givnir fyri at hjálpa fólki við Alzheimer at sova, kunnu økja vandan fyri svimleika, fallum og ørkymlan. Byrja, steðga ella broyt ongan svevnheilivág, eisini handkeyps svevnstuðlar, uttan at tosa við lækna ella apotekara.
 
-## Talk with a doctor
+## Tosa við lækna
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Far til lækna, um tú ella tann, tú tekur tær av, altíð er troyttur, hevur trupult við at sova flestu nætur, snorkar hart, ella hevur steðgir í andadráttinum um náttina. Um svevntrupulleikar hjá fólki, ið liva við demens, halda fram, [mælir NIA til](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) at biðja um læknafakligt ráð. Ein kanning kann finna orsøkir sum pínu, aðra svevnsjúku, sjúku ella hjáárin av heilivági. Bráð ørkymlan, ella ein bráð broyting í svevni saman við ørkymlan, krevur skjóta hjálp. Les [nær tú eigur at fara til lækna](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Hendan síðan er almenn kunning, ikki læknafaklig ráðgeving. Sí okkara [læknafakligu frágreiðing](/medical-disclaimer/).

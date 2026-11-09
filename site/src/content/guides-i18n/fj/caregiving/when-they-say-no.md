@@ -1,34 +1,36 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Ni Sega ni Via Cakacaka se Rarawa e Dua e Bula kei na Dementia"
+seoTitle: "Ni Sega ni Via Cakacaka e Dua e Bula kei na Dementia"
+description: "Na vuna era sega ni vinakata se rarawa kina na tamata era bula kei na dementia, na ka mo tovolea, na ka mo levea, kei na gauna me raici kina e dua na vuniwai."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Ni kaya e dua e bula kei na dementia ni sega, ciqoma vakamalua ka tovolea tale
+  ena dua na gauna se solia e dua tale na ka. Na sega ni vinakata e dau tiko
+  kina na vuna: e rui dredre na cakacaka, e vaka me baleta na gone, e oca, e
+  mosi, e viakana, se e levu sara na ka e yaco wavoki koya. Kakua ni veiba se
+  vakasaurarataki koya. Vakarawarawataka, solia rua na digidigi, se kerea na
+  nona veivuke. Na veisau vakasauri se totolo, vakabibi ni oti e dua na mate
+  vaka na mate ni manumanu lalai se e dua na wainimate vou, e gadrevi me raici
+  totolo e dua na vuniwai.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Na \"sega\" e dua na saumi me dokai, sega ni dua na leqa me wali."
+  - "Na sega ni vinakata e dau tiko kina na vuna: e rui dredre, e vaka me baleta na gone, e oca, e tauvi mate, e sega ni marau, se e levu sara na ka e yaco wavoki koya."
+  - "Vakamalumalumutaka, wawa, ka tovolea tale, ena dua na gauna duidui, se ena dua na kena ivakarau rawarawa."
+  - "Na kerekere vua me veivuke e vinaka cake mai na kerekere vua me cakava."
+  - "Kakua ni veiba, vakasaurarataki, taroga vakadodonu se vakadodonutaka. Raica mo kakua ni totolo se voleka sara vua."
+  - "Na veisau vakasauri se totolo ena itovo, vakabibi kei na mate ni manumanu lalai se na wainimate vou, e dodonu me kau yani vua e dua na vuniwai ena gauna vata oqori."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "E vinaka beka me ra kakua sara ga ni vakaitavi ena dua na itaviqaravi?"
+    a: "Io, ena dua na siga. Na tiko vata, na vakarorogo ki na ivakatagi se na sarava ga na veika e yaco e tautuba e rauti. Kevaka e dua e sega ni taleitaka e dua na ka ena vica vata na macawa, tukuna vua na nona vuniwai, ni na lomabibi, na mosi se so tale na leqa ni bula e rawa ni tiki ni ka e yaco."
+  - q: "Na cava era sega kina ni vinakata na ka era dau taleitaka e liu?"
+    a: "E dua na ka era dau taleitaka e rawa ni veivakararawataki ni gadrevi kina na kila era vakadredretaka na dementia, ka na tamata e rairai madua. Tovolea e dua na tiki rawarawa ni itaviqaravi vata oqori, me vaka na tuvatuva na ilapi ni sulu ka sega ni cula, se na raica na iyaloyalo ni iteitei ka sega ni teivaka."
+  - q: "E dodonu beka meu tovolea meu vakauqeti koya?"
+    a: "Sega. Na vakasaurarataki e dua me cakava e dua na ka e vakadredretaka na dementia e kilai ni dua na ka e vakavuna na rarawa. Ciqoma na sega, veisautaka na veitalanoa, ka solia tale ena dua na gauna se ena dua na sala duidui."
+  - q: "Na gauna cava e yaco kina me leqa tubukoso e dua na veisau ni itovo?"
+    a: "Qiri 911 kevaka e dua e tu ena rerevaki se e tiko na ivakatakilakila ni leqa tubukoso ni bula. Me baleta na veilecayaki vakasauri se na itovo e veisau totolo ena vica na aua se siga, vakabibi kei na katakata ni yago, na mate ni manumanu lalai se e dua na wainimate vou, veitaratara kei na nona vuniwai ena gauna vata oqori."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +52,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+O vakarautaka na veika kece, solia e dua na qito se dua na taubale, ka rogoca na "Sega." Se e tekivu vinaka na itaviqaravi ka cava ena dua na tebeleti e biligi tani kei na dua na vosa kaukauwa. E rawa ni vakalolomataki, ka e ka e dau yaco vakalevu. Na sega ni vinakata kei na rarawa e dau dua na itukutuku, sega ni kaukauwa ni lomana. Na tovolea mo kila na ibalebale ni itukutuku e rawa ni vakaraitaka na ka mo tovolea tarava.
 
-## Why does someone with dementia refuse activities?
+## Na cava e sega kina ni vinakata na itaviqaravi e dua e bula kei na dementia?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+E dau tiko na vuna, dina ga ni na sega ni rawa vua na tamata me vakamacalataka ena vosa. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e tukuna ni na veisaqasaqa e rairai baleta ni sega ni rawa vua na tamata me cakava na cakacaka se e rerevaka me tovolea. Na vuna e dau yaco kina:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **E rairai rui dredre.** Na itaviqaravi e gadreva ena gauna oqo na kila e vakadredretaka na dementia, ka na druka e matadra e dua tale e vakamaduataki.
+- **E rairai vaka me baleta na gone.** Na qase e ra kila na iyaloyalo vaka na iyaloyalo ni gone, na domo ni sere ni gone kei na itaviqaravi e rairai caka me baleti ira na gone.
+- **Oca.** E levu na tamata e lailai sobu na nodra igu ena yakavi. Raica na [itaviqaravi vakacegu ena yakavi](/caregiving/late-day-restlessness/).
+- **Na sega ni marau vakayago.** Na [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) e cavuta na mosi, na lailai ni moce, na leqa ni raica se rogoca, na dredre ni lako ki valelailai, na viakana, na viagunu kei na revurevu ni wainimate vou me ra rawa ni vakavuna na rarawa.
+- **E levu sara na ka e yaco.** E dua na retio e domolevu, e vica na veitalanoa se e dua na rumu osooso e rawa ni levu sara.
+- **E rairai vakasaurarataki.** Na NIA e cavuta na vakasaurarataki me cakava e dua na ka e vakadredretaka na Alzheimer's, se me nanuma lesu na ka e yaco se na tamata, me dua na vuna ni rarawa.
+- **Na lomabibi.** Na yali ni taleitaka na veika e rawa ni ivakatakilakila ni lomabibi, ka e vinaka me tukuni vua e dua na vuniwai.
+- **E sega ga ni vinakata.** E dodonu me ra kaya na qase ni sega.
 
-## What should I try when they say no?
+## Na cava meu tovolea ni kaya ni sega?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Ciqoma vakamalua na sega, oti qai veisautaka e dua na ka: na gauna, na itaviqaravi, na kena dredre se na sala o kerea kina.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Biuta me tu mada.** "E vinaka tu ga. De dua ena dua na gauna." Oti qai toso ki na dua tale na ka ka sega ni cegu vakadomoilevu.
+2. **Tovolea tale ena dua na gauna.** Na Alzheimer's Association e vakatura me tovolei tale ena dua na gauna, se ena dua na gauna duidui ni siga.
+3. **Vakalailaitaka.** Dua ga na veidonui ka sega ni dua na qito taucoko. Dua ga na tauleni ka sega ni dua na kato ni sulu. Lailai na iyaloyalo, lailai na digidigi, biuta na iyaloyalo me ra laurai.
+4. **Solia rua na digidigi.** "O via raica na iyaloyalo ni manumanu vuka se vakarorogo ki na ivakatagi?" E dua na digidigi e solia lesu na yalo ni lewa.
+5. **Kerea na veivuke ka sega ni cakava.** "O rawa ni vukei au meu tuvatuva oqo?" se "O rawa ni tukuna vei au na roka e rairai vinaka?" Na yalo ni gadrevi e duidui sara mai na vakatovolei.
+6. **Tekivuna ga o iko.** Tekivuna na itaviqaravi ena yasana ka sega ni kerea. E levu na tamata era dau curu mai ni sa tekivu tu e dua na ka, ka kevaka era sega, o sa tiko vata ga kei koya.
+7. **Veisautaka ki na dua na ka vakayago se vakacegu.** E dua na taubale lekaleka, ivakatagi, dua na kakana lailai, na lolovi ni sulu, se e dua na cegu ni [icegu vakamalua](/games/calm-breathing/) vata. Na NIA e vakatura me vagolei na vakasama ki na ivakatagi, dua na ivola se dua na taubale.
+8. **Vakatara me cakava ena nona sala.** Kevaka e vinakata me qito ena dua na sala e duidui mai na lawa, muria. Na Alzheimer's Association e vakatura me veisau rawarawa.
 
-## What should I say when they get frustrated?
+## Na cava meu kaya ni sa rarawa?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Vakamalumalumutaka, vakalolovira na domomu ka vakacegui koya. Na [idusidusi ni Alzheimer's Association me baleta na rarawa](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) e vakatura mo vakamalumalumutaka ka kerea na veivakadonui, vakayagataka na vosa malua ka vinaka, ka solia e dua na digidigi vakataki ena rua na digidigi. Na vosa ena yalo vata oqo:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Vosoti au, na ka oqo e veivakararawataki. Me da muduka."
+- "O cakava vinaka tu ga. Au tiko eke."
+- "E tiko beka na nomu gauna mo vukei au ena dua tale na ka?"
+- "Me da gunuva beka e dua na ti?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Oti qai tinia na itaviqaravi ka kakua ni cakava me ka levu. Na noda [idusidusi ni veivosaki](/caregiving/communication-tips/) e tiko kina eso tale na ka mo kaya.
 
-## What should I avoid?
+## Na cava meu levea?
 
-Some natural reactions tend to make things worse.
+Eso na ivakarau e dau yaco e rawa ni vakalevutaka na leqa.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Na veiba se vakasaurarataki.** "Mai, dua tale ga" se "O dau taleitaka oqo" e sega ni dau vukei koya.
+- **Na taroga vakadodonu se vakadodonutaka.** "O kila na ka oqo" se "Sega, e cala oqori" e kuria na kaukauwa ni lomana.
+- **Na taura vakataki iko.** Na NIA e vakananumi ira na qaravi ni na mate, sega ni tamata, e vakavuna na veisau oqo.
+- **Na voleka sara se totolo.** Na Alzheimer's Association e vakatura mo kakua ni vakalevutaka na domomu, vakaraitaka na rere, vakavolivolita, voleka sara, tarova, veivakacacani, vakawalena se veiba kei koya, ka levea na toso vakasauri mai na yasana e sega ni raica.
+- **Na vakayagataka na veivakamaduataki.** "Au a vakarautaka na ka kece oqo baleti iko" e biuta kemudrau ruarua mo vakaloloma.
+- **Na vakatokayacataki.** "Kaukauwa ni lomana" se "dredre" e vunitaka na dina ni vuna ka vakadredretaka na wali.
 
-## How can I find out what is behind repeated refusals?
+## Me'u kila vakacava na ka e tu e muri ni sega ni vinakata e dau yaco?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Maroroya e dua na ivolatukutuku rawarawa ena dua se rua na macawa. Na NIA e kaya ni na vakamuria na veisau ni itovo e rawa ni vukei ira na qaravi kei ira na dauveiqaravi ni bula me ra kila e dua na ivakarau ka kunea na vuna.
 
-Jot down:
+Vola sobu:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- na gauna ni siga;
+- na ka o a solia kei na sala o a kerea kina;
+- na ka e yaco wavoki kemudrau (domolevu, vulagi, retio);
+- na nona moce, kana kei na gunu, kei na gauna e muri a lako kina ki valelailai;
+- e dua na wainimate vou se na mate e yaco walega oqo.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+E dau laurai totolo na ivakarau: na sega ni vinakata e yaco ga ni oti na 4 ena yakavi, e yaco ga ena dua na qito, se e yaco ga ni waqa tu na retio. Na [idusidusi ni Family Caregiver Alliance me baleta na itovo ni dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e tukuna vakamatata: eda sega ni rawa ni veisautaka na tamata, ia eda rawa ni veisautaka na noda itovo kei na vanua e tiko kina.
 
-## When should I talk to a doctor about refusal or frustration?
+## Na gauna cava meu veitaratara kina kei na vuniwai me baleta na sega ni vinakata se na rarawa?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Veitaratara kei na vuniwai ni veisau vakasauri se totolo na itovo, se ni yaco vata kei na ivakatakilakila ni tauvi mate. Na NIA e kaya ni na veisau vakasauri se totolo ena itovo, vakabibi kevaka e a sotava na tamata e dua na mate ni manumanu lalai se e dua na veisau walega oqo ena wainimate, e dodonu me tukuni vua e dua na vuniwai ena gauna vata oqori.
 
-Contact their doctor promptly if you notice:
+Veitaratara totolo kei na nona vuniwai kevaka o raica:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- na veilecayaki vakasauri se e dua na veisau levu ena vica na aua se siga;
+- na ivakatakilakila ni mosi, me vaka na luluva ni mata, na taqomaki ni dua na tiki ni yago, se na dredre vou ni toso;
+- na katakata ni yago se so tale na ivakatakilakila ni mate ni manumanu lalai;
+- na wainimate vou se veisau kei na veisau ni itovo e tarava;
+- na yali ni taleitaka e vuqa na ka, na tagi se na biu tu vakataki koya e sivia e rua na macawa;
+- na sega ni vinakata me kana se gunu.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Na Alzheimer's Association e vakatura e dua na dikevi taucoko ni bula vei ira kece era vakaraitaka na ivakarakilakila ni itovo, vakabibi ni ra basika vakasauri. Na Family Caregiver Alliance tale ga e vakatura mo taroga mada na vuniwai, ni na leqa ni itovo e rawa ni tiko kina na vuna vakavuniwai. Kakua ni tekivuna, muduka se veisautaka e dua na wainimate ka sega ni veitalanoa kei na vuniwai se dua na daunivakasala ni wainimate.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Kevaka e dua e tu ena rerevaki se e tiko na ivakatakilakila ni leqa tubukoso ni bula, qiri 911. Na NIA e vakatura mo tukuna vua na dauveitataratari ni tamata e bula kei na dementia.
 
-## Is it okay if we do nothing at all?
+## E vinaka beka ke keirau sega ni cakava e dua na ka?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Io. Eso na siga na itaviqaravi vinaka duadua sa na sega ni itaviqaravi: na tiko vata, na tauri liga, na vakarorogo ki na dua na sere taleitaki, se na sarava na manumanu vuka mai na katubaleka. Oqori e sega ni druka. Na noda [idusidusi ni qito vata](/caregiving/how-to-play-together/) e vakamacalataka na vuna e rawa kina ni dodonu na muduka vakatotolo, se na sega sara ni tekivu.

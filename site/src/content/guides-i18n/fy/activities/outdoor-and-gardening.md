@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Bûtendoar en túnwurk foar minsken mei demens"
+seoTitle: "Túnwurk en bûtendoar aktiviteiten by demens"
+description: "Ideeën foar túnwurk en bûtendoar aktiviteiten foar minsken mei demens, mei ferhege bakken, potten en tips foar hjitte, sinne en fuortrinne."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Túnwurk en tiid bûtendoar kinne in rêstige, bekende aktiviteit wêze foar in
+  persoan dy't mei demens libbet. Probearje planten wetter te jaan, krûden te
+  potten, ferwelke blommen fuort te heljen of in koarte kuier yn in ôfsluten
+  tún. Brûk ferhege bakken of in tafel, sadat net hoeft te knibbeljen, mij
+  skerpe ark en giftige planten, gean yn it koelste diel fan 'e dei nei bûten
+  en bliuw altyd by de persoan.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Ienfâldige túnklussen lykas wetter jaan, siedden potten, oan krûden rûke en blommen plukke kinne steand of sittend dien wurde."
+  - "Ferhege bakken, potten en in oerhuifde tafel bringe de tún op heuphichte en meitsje it risiko op fallen lytser."
+  - "Mij skerpe ark, toarnige of irriterende planten en alles wat giftich is. Let op dat grûn net foar iten oansjoen wurdt."
+  - "Waarmte kin gefaarlik wêze foar âldere folwoeksenen. Gean moarns betiid of let nei bûten, nim wetter en skaad mei en gean nei binnen as der earste tekens fan ûngemak binne."
+  - "In protte minsken dy't mei demens libje rinne op in stuit fuort. Bliuw bûtendoar altyd by de persoan en hâld in resinte foto en in identiteitsbewiis by de hân."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Hokker túnaktiviteiten kin in persoan mei demens dwaan?"
+    a: "Planten wetter jaan, siedden yn lytse potten plantsje, oan krûden rûke en dy oanreitsje, ferwelke blommen fuorthelje, griente plukke, snieblommen opsette en in paad feie binne allegear goede karren. Binnen wurket in krûdepot op 'e finsterbank of in bak mei grûn op in oerhuifde tafel ek goed. Kies de klus op basis fan wat de persoan earder leuk fûn en no noflik kin dwaan."
+  - q: "Hoe kin ik ien mei demens feilich hâlde yn 'e hjitte?"
+    a: "Plan tiid bûtendoar yn 'e koelere iere moarn of jûn, hâld it koart en bied faak wetter oan. Kies skaad, in hoed mei brede râne, lichte losse klean en sinneskerm. Âldere folwoeksenen hawwe in grutter risiko op waarmteklachten, en betizing, duizeligens of wearze kinne warskôgingstekens wêze. Gean dus daliks nei binnen en koel ôf as jo dat opmerke."
+  - q: "Hoe kinne wy nei bûten as de persoan faak fuortrint?"
+    a: "Bliuw de hiele tiid by de persoan, brûk in ôfsluten tún mei in hek op 'e klink en soargje dat de persoan in ID-armbân draacht of in identiteitsbewiis by him of har hat. Hâld in resinte foto by de hân. As de persoan ferdwynt, advisearret de Alzheimer's Association om 112 te beljen as de persoan binnen 15 minuten net fûn is."
+  - q: "Wat as wy gjin tún hawwe?"
+    a: "In pear potten op in balkon, in finsterbak of in bak mei krûden op 'e keukentafel is genôch. Jo kinne ek nei in park, in iepenbiere tún of in mienskipstún gean. Bûtendoar sitten en nei fûgels harkje telt ek as in aktiviteit bûtendoar."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Foar in protte minsken is de tún ien fan 'e meast bekende plakken dy't se kenne. Graven, wetter jaan en blommen plukke brûke feardigens dy't al lang geleard binne, en bûtendoar wêze bringt friske loft, sinneljocht en fûgelsang. It National Institute on Aging neamt ûnder oare it soargjen foar planten, blommen en griente plantsje en [prate oer hoe't de planten groeie](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) as aktiviteiten dêr't minsken mei de sykte fan Alzheimer genietsje fan kinne. Dizze side giet oer wat jo probearje kinne, hoe't jo in tún makliker te brûken meitsje en hoe't jo feilich bliuwe by hjitte, sinne en fuortrinne.
 
-## What outdoor and gardening activities work well?
+## Hokker aktiviteiten bûtendoar en yn 'e tún wurkje goed?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+De bêste klussen binne ienfâldich, bekend en kinne steand of sittend dien wurde. Kies op basis fan wat de persoan earder leuk fûn.
 
-### In the garden
+### Yn 'e tún
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Wetter jaan.** In lytse, lichte gieter of in sêfte slangekop en in pear potten binnen berik. Wetter jaan hat in dúdlik begjin en ein en is net maklik ferkeard te dwaan.
+2. **Siedden yn potten plantsje.** De Alzheimer's Foundation of America stelt foar om siedden yn lytse potten te plantsjen en [te sjen hoe't se groeie](https://alzfdn.org/dementia-activity-gardening/). Grutte siedden lykas beanen, sinneblommen of erten binne makliker fêst te hâlden.
+3. **Ferwelke blommen fuorthelje.** Ferwelke blommen mei de hân fuortknype is in sêfte, werheljende klus. Kies planten sûnder toarnen.
+4. **Griente of krûden plukke.** Kerse-tomaten, beanen en krûden binne maklik te plukken en lekker om te probearjen. Nim se mei nei binnen om by de middeimiel te brûken.
+5. **Oan krûden rûke en dy oanreitsje.** Rozemarijn, munt en lavendel hawwe sterke, noflike geuren. Wriuw in blêd tusken jo fingers en jou it troch.
+6. **In paad of terras feie.** In lichte besem op in flak, droech oerflak, as it lykwicht goed genôch is.
+7. **In fûgelfiederbak folmeitsje.** Gean dêrnei tegearre sitten en sjoch wa't op besite komt.
 
-### Indoors, when going out is not possible
+### Binnen, as nei bûten gean net kin
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **In krûdetún op 'e finsterbank** mei basilikum, peterselie of bieslook.
+- **Potten op in oerhuifde tafel.** De AFA stelt foar om kanteinetafels te brûken om grûn op ien plak te hâlden en grûn mei lytse bekers te ferpleatsen.
+- **Blommen opsette** mei snieblommen en grien út 'e tún of de supermerk.
+- **Blommen droegje** út in boeket en dy letter op kaarten plakke. Sjoch [keunst en hânwurk](/activities/arts-and-crafts/) foar mear ideeën.
+- **Lavendel- of roazebûsjes meitsje**, ek in idee fan de AFA om de geur fan 'e tún binnen te hâlden.
 
-### Getting out and about
+### Eromhinne gean
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **In koarte kuier** om 'e blok, yn in park of in túnsintrum, yn in rêstich tempo en mei in plak om te sitten.
+- **Bûtendoar sitten** op in stoep of bankje om nei fûgels te harkjen en de wyn te fielen. Dit is op himsels al in folsleine aktiviteit.
+- **In iepenbiere tún besykje** op in rêstich momint fan 'e dei. De NHS neamt dat guon plakken sintúchlike túnen hawwe mei geurige planten, ferskillende struktueren en wetter.
+- **Einen fiede of fûgels besjen** by in pleatslike fiver, mei genôch ôfstân fan 'e wetterkant.
 
-## How do I make a garden easier to use?
+## Hoe meitsje ik in tún makliker te brûken?
 
-Bring the garden up to the person, not the other way around.
+Bring de tún nei de persoan ta, net oarsom.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Ferhege bakken of hege plantenbakken** op sawat heuphichte betsjutte dat net hoeft te knibbeljen of te bûgen.
+- **Potten op in tafel** wurkje goed foar minsken dy't in rolstoel brûke of leaver sitte.
+- **Brede, flakke paden** sûnder losse stiennen of slangen deroerhinne meitsje it risiko op stroffeljen lytser.
+- **Sitplakken mei leuningen en skaad** ûnderweis, sadat rêst nimmen altyd kin.
+- **Ark mei dikke, sêfte handgrepen** dy't maklik fêst te hâlden binne. Lit snoeiskearen, messen en alles wat skerp is fuort.
+- **In ôfsluten gebiet mei in hek op 'e klink** dêr't de persoan frij rûn rinne kin wylst jo yn 'e buert bliuwe.
 
-## Which plants should I avoid?
+## Hokker planten moat ik mijde?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Kies planten dy't feilich binne om oan te reitsjen en it leafst ek feilich as der oan likt wurdt. De AFA advisearret om planten te brûken dy't de hûd net gau irritearje, te kontrolearjen op allergyen en goed op te letten by minsken dy't grûn foar iten oansjen kinne. It advys fan de NIA oer feilichheid yn hûs omfettet ek it fuortheljen of op slot dwaan fan giftige planten.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Mij roazen mei toarnen, kaktussen en planten mei sop dat de hûd irritearret.
+- Kontrolearje in plant dêr't jo net wis fan binne by in antigifsintrum of in pleatslik túnsintrum foardat jo dy plantsje.
+- Bekende favoriten kinne noflike gefoelens werom bringe. De AFA neamt roazen en krystkaktus as foarbylden. Kies soarten sûnder toarnen.
+- Hâld dong, bestridingsmiddels en ûnkrûdmiddels op slot en brûk se net op plakken dêr't de persoan by kin.
 
-## How do I stay safe in the heat and sun?
+## Hoe bliuw ik feilich by hjitte en sinne?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Plan tiid bûtendoar om it waar hinne. De NIA leit út dat âldere folwoeksenen in grutter risiko hawwe op [klachten troch hjitte](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), ûnder oare om't it lichem minder goed oanpast oan temperatuerferoaringen en guon medisinen beynfloedzje hoe't it lichem mei hjitte omgiet.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Gean moarns betiid of let nei bûten.** Mij it midden fan 'e dei yn waarme moannen. Sjoch nei de waarmtetabel, net allinich nei de temperatuer.
+- **Bied faak wetter oan.** Wachtsje net oant de persoan seit dat er of sy toarst hat. Mij alkohol en drank mei kafee yn 'e hjitte.
+- **Klaai jo derop.** Lichte, losse klean, in hoed mei brede râne en in sinnebryl.
+- **Brûk sinneskerm.** De NIA advisearret breedspektrum sinneskerm mei SPF 15 of heger en dat op 'e dei opnij oan te bringen.
+- **Kies skaad.** Set de pottafel ûnder in beam of parasol.
+- **Hâld it koart.** In koart skoft bûtendoar kin genôch wêze, benammen op waarme dagen.
+- **Let op warskôgingstekens.** De NIA neamt hoofdpijn, betizing, duizeligens of wearze as mooglike tekens fan waarmteklachten. In persoan mei demens fertelt jo miskien net dat er of sy him of har net goed fielt, dus let op it gesicht en gedrach. Gean nei binnen, koel ôf mei wetter en in koele doek, en helje medyske help as it net gau better wurdt. Sinnesteek, mei tekens lykas flaufallen, betizing of droege, reade hûd, is in medysk needgefal: belje 112.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Kâld waar telt ek. Hâld yn 'e winter de tiid bûtendoar koart en soargje dat hannen en fuotten waarm en droech bliuwe.
 
-## How do I handle wandering when we go outside?
+## Hoe gean wy om mei fuortrinne as wy nei bûten geane?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Bliuw altyd by de persoan as se bûtendoar binne. De Alzheimer's Association seit dat [6 op 'e 10 minsken dy't mei demens libje](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) op syn minst ien kear fuortrinne, en in protte dogge dat faker. It kin yn elke faze barre.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+De [tips fan de NIA oer fuortrinne en ferdwale](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) omfetsje ûnder oare:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Soargje dat de persoan in ID- of medysk armbân draacht mei namme, adres en jo telefoannûmer, of set in label yn de klean.
+- Hâld in resinte foto of fideo fan de persoan.
+- Lit buorlju witte dat de persoan fuortrinne kin.
+- Meitsje de tún feilich mei in hek en in hek op slot.
+- Lit immen dy't earder fuorrûn is net sûnder tafersjoch.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+De Alzheimer's Association stelt ek foar om binnen en bûten plakken te meitsjen dêr't feilich ferkend wurde kin, en aktiviteiten te plannen op it momint fan 'e dei dat ûnrêst it wierskynlikst is. In kuier yn in feilige, ôfsluten tún kin goed passe by ûnrêst letter op 'e dei. Sjoch ús gids oer [ûnrêst letter op 'e dei](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+As de persoan dochs ferdwynt, advisearret de Alzheimer's Association om daliks yn 'e buert te sykjen en 112 te beljen as de persoan binnen 15 minuten net fûn is. Fertel de plysje dat de persoan demens hat.
 
-## How do I adapt gardening as things change?
+## Hoe pas ik túnwurk oan as dingen feroarje?
 
-| If this has become hard | Try this instead |
+| As dit lestich wurden is | Probearje dit dan |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| In hiele bak beplantsje | Ien sied yn ien pot plantsje |
+| Skoffelje (ûnkrûd fan planten ûnderskiede) | Wetter jaan, of dúdlik ferwelke blommen fuorthelje |
+| Troch de tún rinne | Oan in tafel sitten mei in bak grûn en in plant |
+| Hielendal nei bûten gean | In pot mei krûden op 'e keukentafel, of in sitplak by in iepen finster |
+| Elke klus dwaan | Tegearre bûtendoar sitten, harkje en sjen |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Guon minsken wolle leaver sjen hoe't jo wurkje. De NIA neamt dat it prima is om ien gewoan sjen te litten as dat is wat de persoan leuk fynt.
 
-## When should we head inside?
+## Wannear moatte wy nei binnen?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Gean nei binnen as de persoan wurch liket, it te waarm of te kâld hat, him of har net op syn gemak fielt of klear is. Tsien noflike minuten binne better as in lange middei dy't yn spanning einiget. Op tiid stopje is in goede útkomst.
 
-## Bring the garden indoors on screen
+## Nim de tún binnen op it skerm
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Op reinige dagen hat [Sort Together](/games/sort-together/) in túnkoer om ôfbyldingen te sortearjen, en [Conversation Cards](/games/conversation-cards/) befettet iepen fragen dy't liede kinne ta ferhalen oer de tún. As jo nei binnen komme en jo gehaast fiele troch de waarmte, biedt [Calm Breathing](/games/calm-breathing/) in stadige, stille pauze dy't jo tegearre dwaan kinne. Sjoch foar mear ideeën mei oanreitsjen, rûke en harkjen ús [gids oer sintúchlike aktiviteiten](/activities/sensory/).

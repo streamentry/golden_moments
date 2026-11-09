@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Tónleikavirksemi fyri fólk, ið livir við demens"
+seoTitle: "Tónleikavirksemi við demens: Spælilistar og hugskot"
+description: "Hvussu tú kanst deila tónleik við ein, ið livir við demens: ger ein persónligan spælilista, royn 15 einfaldar tónleikahugskot og fá ráð til øll stig."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Tónleikur er eitt av teimum lættastu virkseminum at deila við ein, ið livir
+  við demens. Ger ein persónligan spælilista við tónleiki frá ungdomsárunum,
+  trúgvini og familjuni, spæl hann uttan lýsingar og bakgrundsórava, og syng,
+  klappa, svinga ella lurta saman. Vel róligan ella lívligan tónleik, alt
+  eftir støðuni, halt ljóðstyrkina spaka, og steðga, um ein sangur órógvar
+  persónin.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Persónligur tónleikur riggar best: slagini, tey vóru fegin um sum ung vaksin, umframt tónleikur frá trúgv, mentan og familjuhendingum."
+  - "Spæl bert eitt í senn, uttan lýsingar og við sløktum sjónvarpi."
+  - "At syngja, klappa, svinga og bara lurta eru alt mátar at vera við."
+  - "Brúka róligan tónleik til at róa og lívligan tónleik til at lyfta stemningin, og fylg við, hvussu persónurin svarar."
+  - "Gransking í skipaðum tónleikalutum er avmarkað; vit mæla til tónleik sum okkurt hugnaligt at deila, ikki sum eina viðgerð."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Hvat slag av tónleiki riggar best fyri ein, ið livir við demens?"
+    a: "Tónleikur, sum persónurin hevur kent og hildið av í langa tíð, ofta frá teinárunum og tjúgárunum, saman við tónleiki frá trúgv, mentan og familjuhátíðum. Um tað ber til, lat persónin velja. Hygg eftir andliti og kroppi fyri at vita, hvat viðkomandi nýtur, og legg frá tær alt, sum tykist órógva."
+  - q: "Eigi eg at brúka heyrnatól?"
+    a: "Summir dáma væl heyrnatól, tí tey sperra fyri órava, meðan onnur kenna seg illa ella koma í villu. Royn fyrst ein hátalara, so tit kunnu lurta saman. Brúkar tú heyrnatól, so halt ljóðstyrkina lága og ver nærhendis."
+  - q: "Kann tónleikur hjálpa við óró ella strongd?"
+    a: "Róligur, kendur tónleikur kann hjálpa við at skapa eina friðarliga stemning, og Alzheimer’s Association mælir til at brúka tónleik til at seta tann tónan, tú ynskir. Tað riggar ikki hvørja ferð. Um persónurin er illa fyri, kanna eisini, um hann hevur pínu, er svangur, hoyrir órava ella er troyttur."
+  - q: "Kunnu fólk, ið livir við seinari demens, framvegis njóta tónleik?"
+    a: "Nógv kunnu tað. Alzheimer’s Association viðmerkir, at ein persónur á seinasta stigi enn kann trumma taktin ella syngja við eini barnaferðasang. Set teg tætt at, spæl tónleik spakuliga og halt í hondina á persóninum ella svinga saman."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Tónleikur er eitt av teimum einfaldastu tingunum, tú kanst deila við ein, ið livir við demens. Hann krevur einki: eingi røtt svar, eingi stig at fylgja. Ein kendur sangur kann geva eitt bros, ein fót, sum trummar, ella nøkur orð sungin við, sjálvt ein dag, tá samrøðan er torfør. Alt, tú tørvar, er rætti tónleikurin til júst henda persónin og eitt róligt løta at spæla hann.
 
-## What music activities work for people with dementia?
+## Hvat tónleikavirksemi riggar fyri fólk, ið livir við demens?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+At lurta, syngja, klappa, svinga og tosa um tónleik riggar alt væl. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mælir til at spæla tónleik, tosa um tónleikin og listafólkið, syngja ella dansa til kend sang, og fara á konsertir ella tónleikadagar í nærumhvørvinum. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) leggur afturat, at rørslur sum at klappa ella dansa kunnu økja um gleðina, og at tónleikur kann vera ein háttur at fáa samband á, tá orðini gerast truplari.
 
-## How do you build a personal playlist?
+## Hvussu gert tú ein persónligan spælilista?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Tað mest nýtiliga, tú kanst gera, er ein spælilisti við tónleiki, sum hevur týdning fyri henda persónin. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) leggur eisini dent á tónleik við persónligum týdningi. Her er ein einfaldur háttur at gera ein.
 
-### Start with their life
+### Byrja við lívinum hjá teimum
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Teinárini og tjúgárini.** Hugsa um, hvat spældi í útvarpinum, á dansi og í biografunum, tá tey vóru ung.
+- **Stór løtur.** Tónleikurin til brúdleypið, fyrsta dansin, eitt yndis familjuferðutónleikaalbum.
+- **Trúgv og mentan.** Sálmar, gospel, andalig tónleik ella sangir á fyrsta málinum hjá teimum.
+- **Arbeiði og tænasta.** Marsjbólkar, arbeiðssangir ella tónleikur knýttur at eini tíð í herinum.
+- **Hvat familjan minnist.** Spyr systkin, børn og gamlar vinir, hvat tey altíð spældu ella sungu.
 
-### Think in genres, not just songs
+### Hugsa í sløgum, ikki bert sangum
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ert tú ikki vísur í, hvar tú skalt byrja, so royn nakrar fáar minuttir av hvørjum av hesum og fylg við svarinum: stór bólk og swing, doo-wop, Motown og soul, tíðliga rock and roll, country og western, bluegrass, gospel og sálmar, Broadway-sangir, jazz-standardar, latin tónleikur sum boleros ella mariachi, polka, fólkatónleikur og klassiskur tónleikur. Halt tað, sum gevur eitt bros ella ein trummandi fót; legg frá tær tað, sum gevur eina rán.
 
-### Make it easy to play
+### Ger tað lætt at spæla
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Ongar lýsingar.** Alzheimer’s Association ávarar, at lýsingar kunnu elva til ørkymlan. Brúka niðurtiknan tónleik, CD-fløgur, plátur ella eina tænastu uttan lýsingar.
+- **Ein einfald tóleind.** Ein hátalari við einari stórari knapp ella ein spælilisti, sum er goymdur og klárur, so øll kunnu seta hann í gongd.
+- **Tveir stuttir listar.** Ein róligur listi til at róa og ein lívligur listi til at lyfta stemningina.
+- **Set spjaldur á.** Skriva navnið hjá persóninum og „yndistónleikur“ á tóleindina, so vitjandi familja og starvsfólk eisini kunnu brúka hana.
 
-## 15 music activities to try
+## 15 tónleikahugskot at royna
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Lurta saman.** Set teg lið um lið uttan nakað annað, sum fer fram. At lurta er eitt heilt virksemi.
+2. **Syng við.** Byrja sjálvur at syngja. At nunnra ella forma orðini við munninum telur eisini.
+3. **Klappa ella trumma taktin.** Slá á knæini, trumma á borðið ella brúka eina lítla hondtrummu ella ristara.
+4. **Spakuligur dansur.** Halt í hondunum og svinga í køkinum, ella dans sitandi og rør armar saman.
+5. **Turriklæðadansur.** Veiva við ljósum turriklæðum í takti við tónleikin, standandi ella sitandi.
+6. **Tosa um tónleikin.** Bjóða inn, ikki royna: „Hetta ljóðar sum ein dansisalur. Fortel mær um dansirnar.“ Spyr aldrin „Minnist tú henda sangin?“
+7. **Spæl eitt heilt album.** Set á eina plátu, tey vóru fegin um, frá byrjan til enda, saman við einari kopp av kaffi.
+8. **Hygg at plátuhylstrum.** Gomul plátuhylstur eru góð at tosa út frá um móta, bilar og andlit.
+9. **Hygg at einari syngispælumynd.** Ein filmgjørd syngispælumynd ella konsert frá teirra tíð er góð til eitt kvøld. Steðga til steðgar.
+10. **Spæl eitt ljóðføri, tey kenna.** Ein, sum fyrr spældi piano ella gittar, kann njóta at spæla einfalt. Seinni er tað nóg mikið at finna nøkur fá tónasløg saman.
+11. **Tónleikur meðan tú arbeiðir.** Spæl yndissangir, meðan tú bretter klæði ella setur borð.
+12. **Morgunsangur.** Byrja hvønn dag við sama hugnaliga sanginum sum part av gerandisdegnum.
+13. **Syng sálmar ella andaligan tónleik.** Spæl tónleik frá teirra trúarsiðvenju og syng saman.
+14. **Ver við í einum sangbólki.** NHS lýsir sangbólkar sum góðar fyri stemning og trivnað. Spyr í nærumhvørvinum um kórar, sum taka væl ímóti fólki, ið livir við demens.
+15. **Far til livandi tónleik.** Ein stutt konsert í nærumhvørvinum ella ein bólkur uttandura. Set teg nær útgongdini og far, tá tú vilt.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Fyri eitt lættari orðaspæl við kendum orðatiltøkum, royn [Enda orðatakið](/games/finish-the-saying/), har tú altíð kanst vísa endan.
 
-## Matching music to the moment
+## At laga tónleikin til løtuna
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer’s Association mælir til at brúka tónleik til at skapa ta stemningina, tú ynskir: róligan tónleik til eina friðarliga stemning og ein lívligan sang frá ungdomini hjá onkrum til at lyfta huganum.
 
-| Moment | Try | Tip |
+| Løta | Royn | Góð ráð |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| At standa upp | Ein kendur, hugnaligur sangur | Sami sangur hvørjan morgun verður eitt spakuligt tekin |
+| Husarbeiði | Lívligir yndissangir | Tónleikur kann fáa arbeiðið at kenna sum felagsskap |
+| Máltíðir | Spakuligur tónleikur uttan sang | Halt tað lágt, so tað ikki kappast við at eta |
+| Seint seinnapart | Róligur, kendur tónleikur í góðum ljósi | Sí [órógv seint um dagin](/caregiving/late-day-restlessness/) |
+| Nátturði | Spakuligur, blíður tónleikur | Lækka ljóðstyrkina og ljósið saman |
+| Seinni stig | Teirra mest elskaðu sangir, sera spakuliga | Set teg tætt at og halt í hondina |
 
-## Tips for a good experience
+## Góð ráð til eina góða uppliving
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Sløkk fyri øðrum ljóði.** Alzheimer’s Association mælir til at lata vindeygu og dyr aftur og sløkkja sjónvarpið, so tónleikur er einasti ljóðurin.
+- **Halt ljóðstyrkina spaka.** Tónleikur skal vera hugnaligur, ikki harður. Brúkar persónurin hoyritól, syrg fyri, at tey eru í og virka; sí [hoyrn](/brain-health/hearing/).
+- **Ans eftir sorgblíðum minnum.** Summir sangir vekja sorg, kríggj ella miss. Um ein sangur órógvar persónin, ugga og skift sang.
+- **Lat persónin leiða.** Um tað ber til, lat persónin velja tónleikin, og góðtak eitt nei.
+- **Steðga nær sum helst.** Fimm minuttir við tónleiki er eitt fínt virksemi. Tað er eisini fínt at sløkkja og sita í stilli.
 
-## What does the research say about music and dementia?
+## Hvat sigur granskingin um tónleik og demens?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Prógvini eru avmarkað. Ein [Cochrane-yvirlit frá 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) hugdi at 30 kanningum av skipaðum tónleikalutum, mest við bólkum á røktarheimum. Tað vísti, at hesir lutir sannlíkt lótu strongd kenslur eitt sindur í mun til vanliga røkt, men funnu onga greiða ávirkan á óró, trivnað ella hugsan og minni, og ongar ávirkanir, sum vørðu, tá lutirnir vóru lidnir.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Vit deila tónleik, tí tað er ein hugnaligur og avslappaður háttur at vera saman á, ikki sum eina viðgerð. Fyri bólkastøður, sí [bólkavirksemi á røktarheimi](/activities/care-home-groups/); fyri at brúka tónleik saman við myndum og søgum, sí [minnavirksemi](/activities/reminiscence/).

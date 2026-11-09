@@ -1,31 +1,31 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Hoyrnarbrek og vandi fyri demens: Hvat gransking vísir"
+seoTitle: "Hoyrnarbrek og demens: Hvat gransking vísir"
+description: "Hví hoyrnarbrek er ein stórur vandafaktorur fyri demens, hvat ACHIEVE-royndin veruliga vísti, og hvussu tú fært hoyrnina kannaða."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lancet-nevndin frá 2024 nevnir hoyrnarbrek sum ein av størstu broytanligu vandafaktorunum fyri
+  demens. Í ACHIEVE-royndini gjørdu hoyritól ikki kognitivu afturgongdina hægri yvirhøvur, men ein
+  bólkur við størri vanda hevði minni afturgongd. Hoyritól hjálpa kortini í samrøðum og gerandisdegnum.
+  Fá hoyrnina kannaða, umhugsa hoyritól við ella uttan resept, og tosa við ein lækna.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet-nevndin metir, at hoyrnarbrek stendur fyri umleið 7% av demens í heiminum, og hevur størsta partin saman við 13 øðrum faktorunum."
+  - "Í ACHIEVE-royndini við 977 eldri vaksnum broyttu hoyritól ikki kognitivu afturgongdina á trý ár yvirhøvur."
+  - "Í einum minni bólki við størri vanda í ACHIEVE var kognitiva afturgongdin 48% minni hjá teimum, sum fingu hoyritól. Hetta má staðfestast."
+  - "Síðan oktober 2022 kunnu vaksnir í USA við væntaðum mildum til miðal hoyrnarbreki keypa hoyritól, sum FDA hevur góðkent, uttan resept."
+  - "Óviðgjørt sjónarbrek varð lagt afturat sum vandafaktorur fyri demens í 2024, so sjónarkanningar eru eisini týdningarmiklar."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Fyribyrgja hoyritól demens?"
+    a: "Tað er ikki prógvað. ACHIEVE-royndin fann onga samlaða ávirkan á kognitiva afturgongd á trý ár, hóast ein bólkur við størri vanda hevði betri úrslit. Hoyritól eru kortini verd at umhugsa, tí tey gera samrøður, trygd og gerandisdagin lættari."
+  - q: "Hvør kann keypa hoyritól uttan resept?"
+    a: "FDA loyvir vaksnum, sum eru 18 ár ella eldri og hava væntað milt til miðal hoyrnarbrek, at keypa OTC-hoyritól í handlum ella á netinum uttan resept. Tey eru ikki ætlað til álvarsligt hoyrnarbrek. Øll, sum hava pínu í oyranum, vætu úr oyranum, svima ella bráð hoyrnarbroyting, eiga at fara til lækna fyrst."
+  - q: "Kann hoyrnarbrek líkjast demens?"
+    a: "Av og á. National Institute on Aging greiðir frá, at eldri fólk, sum ikki hoyra væl, av og á verða skeivt hildin at vera ørkymlað ella ósamstarvsfús. Ein hoyrnarkanning er eitt skilagott stig, tá onkur tykist draga seg aftur ella ikki hoyrir, hvat verður sagt."
+  - q: "Hvussu ofta skulu eldri vaksnir fáa eyguni kannað?"
+    a: "National Institute on Aging mælir til eina eygakanning við víðkaðum sjónsteinum á hvørjum ári ella annaðhvørt ár eftir 60 ára aldur, ella sum eygnalæknin mælir til. Fólk við sukursjúku ella høgum blóðtrýsti hava vanliga brúk fyri kanning minst einaferð um árið."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +50,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Hoyrnarbrek er vanligt, tá fólk gerast eldri, og granskarar taka tað álvarsliga sum ein vandafaktor fyri demens. Tað ger ikki hoyritól til eina prógvaða leið at fyribyrgja demens. Besta royndin higartil hevði blandað úrslit. Hendan síðan greiðir frá, hvat granskingin vísir, hvussu tú fært hoyrnina kannaða, hvat hoyritól uttan resept eru í USA, og hvussu samrøður kunnu gerast lættari.
 
-## Why does hearing matter for brain health?
+## Hví hevur hoyrnin týdning fyri heilsuna á heilanum?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Hoyrnarbrek er knýtt at størri vanda fyri demens. [Lancet-nevndin frá 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) metir, at tað stendur fyri umleið 7% av demens í heiminum. Tað hevur sama stóran part sum høgt LDL-kolesterol millum teir 14 broytanligu vandafaktorarnar í modellinum hjá nevndini, sambært [samandrátti UCL av frágreiðingini](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Høvuðsniðurstøður hjá nevndini:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Størri vandi við hoyrnarbreki.** Í eini samanumtiknari greining av seks góðskukanningum høvdu fólk við hoyrnarbreki umleið 37% størri vanda fyri demens enn fólk við vanligari hoyrn.
+- **Meira brek, størri vandi.** Kanningar, sum hugdu at styrkini, vístu, at vandin vaks, tá hoyrnin versnaði.
+- **Møguligar orsøkir, ikki prógvaðar enn.** Hugskot fevna um einsemi og afturhaldni, tunglyndi, minni íblástur til heilan og ta eyka mentanu orkuna, sum tað krevur at lurta.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Hoyrnarbrek er vanligt. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) sigur, at umleið ein triðingur av eldri vaksnum hevur tað, og møguleikin veksur við aldrinum.
 
-## What did the ACHIEVE hearing aid trial find?
+## Hvat vísti ACHIEVE-royndin við hoyritólum?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE var fyrsta tilvildarliga royndin um hoyritól og kognitiva afturgongd. Úrslitini verða ofta skeivt endurgivin, so her eru smálutirnir úr [útgivnu royndarfrágreiðingini](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Hvør luttók:** 977 vaksin á aldrinum 70 til 84 ár við óviðgjørdum hoyrnarbreki og uttan munandi hugsanartrupulleikar, á fýra støðum í USA.
+- **Hvat varð samanborið:** Helmingurin fekk hoyritól og ráðgeving við audiolog. Hin helmingurin fekk eina heilsuupplýsingarskrá um heilsugott ellisár.
+- **Høvuðsúrslit:** Eftir trý ár var **ongin munur** á kognitivari afturgongd millum teir báðar bólkarnar yvirhøvur.
+- **Úrslit í undirbólki:** Royndin tók lutttakarar úr tveimum keldum. 238 fólk komu úr eini langvarandi hjartaheilsukanning (ARIC), og sum bólkur høvdu tey størri vanda fyri kognitivari afturgongd. Í hesum bólki var afturgongdin **48% minni** hjá teimum við hoyritólum. Millum teir 739 frísku sjálvbodnu í samfelagnum var eingin týðilig ávirkan.
 
-How to read this honestly:
+Hvussu hetta skal lesast ærligt:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Samlaða svarið var eingin ávirkan.
+- Úrslitið í undirbólkinum var ásett frammanundan, men tað kom úr eini sekunderari greining av einum minni bólki. Tað má staðfestast í øðrum kanningum.
+- Lutttakararnir vistu, hvørja skrá teir vóru við til, og tað kann ávirka úrslitini.
+- Lancet-nevndin lesur prógvini sum so, at hoyritól tykjast serliga hjálpsom hjá fólki, sum hava hoyrnarbrek saman við øðrum vandafaktorum fyri demens.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Høvuðsniðurstøðan er, at hoyritól ikki eru ein prógvað leið at fyribyrgja demens. Tey hjálpa fólki at hoyra, at luttaka í samrøðum og at halda sambandi, og tað er í sjálvum sær ein góð orsøk at umhugsa tey.
 
-## How do I know if hearing should be checked?
+## Hvussu veit eg, um hoyrnin eigur at verða kannað?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA mælir til at fara til lækna, um tú ella persónurin, tú røkir um:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Hevur trupulleikar við at skilja fólk í telefonini
+- Heldur tað vera torført at fylgja við í samrøðum, tá tveir ella fleiri tosa
+- Ofta biður fólk um at taka tað umaftur
+- Skrúvar so hart upp fyri sjónvarpinum, at onnur kvørja seg
+- Hevur trupulleikar við at skilja talu, tá bakgrundsljóð eru
+- Heldur, at onnur tykjast mumla
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Byrja hjá vanligum lækna, sum kann vísa víðari til ein audiolog (hoyrnarserfrøðing) ella ein oyra-, nøs- og hálslækna. Oyrnavaks er ein vanlig orsøk til hoyrnarbrek, sum ein lækni kann kanna eftir. **Brátt hoyrnarbrek er ein bráðfeingis støða**, og NIA mælir til at fara beinanvegin til lækna.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Hoyrnarbrek kann verða hildið at vera ørkyml. NIA greiðir frá, at eldri fólk, sum ikki hoyra væl, av og á verða skeivt hildin at vera ørkymlað, órørd ella ósamstarvsfús. Um onkur, tú heldur av, tykist draga seg aftur ella ikki hoyrir, hvat verður sagt, er ein hoyrnarkanning eitt gott fyrst stig.
 
-## What are over-the-counter hearing aids?
+## Hvat eru hoyritól uttan resept?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Síðan 17. oktober 2022 hevur [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) loyvt ein bólk av hoyritólum, sum kunnu keypast uttan resept (OTC). Soleiðis berast tey saman við hoyritólum á resept:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Eginleiki | OTC-hoyritól | Hoyritól á resept |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Hvørji tey eru til | Vaksnir, 18 ár ella eldri, við væntaðum mildum til miðal hoyrnarbreki | Øll stig av hoyrnarbreki, allir aldur |
+| Hvar tey kunnu fáast | Í handlum ella á netinum, uttan kanning ella resept | Hjá góðkendum hoyrnarserfrøðingi |
+| Tilpassing | Tú stillar sjálvur, ofta við eini app | Ein serfrøðingur forritar tey til tína hoyrn |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA sigur, at OTC-hoyritól ikki eru ætlað til álvarsligt ella sera djúpt hoyrnarbrek. FDA mælir til at fara til lækna, helst ein oyra-, nøs- og hálslækna, áðrenn tú keypir, um tú hevur:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Pínu ella óbehag í oyranum
+- Vætu, grøv ella blóð úr oyranum seinastu seks mánaðirnar
+- Bráðar ella skiftandi hoyrnarbroytingar
+- Verri hoyrn í einum oyranum, ella suð bert í einum oyranum
+- Svima ella skakkahugaloysi
+- Nógv av oyrnavaksi
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Tað tekur tíð at venja seg við hoyritól, so kanna afturberingartreytirnar, áðrenn tú keypir, sum FDA mælir til. NIA mælir til at spyrja, um tryggingin rindar part av kostnaðinum. Hjá einum persóni, sum livir við demens, kann ein audiologur hjálpa við at gera av, hvør sløg av hoyritólum og hvør tilpassing verður lættast at handfara í gerandisdegnum.
 
-## How can I talk more easily with someone who has hearing loss?
+## Hvussu kunnu vit tosa lættari við onkran, sum hevur hoyrnarbrek?
 
-The NIA suggests:
+NIA mælir til:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Vend tær móti persóninum og halt eygnasamband**, í góðum ljósi, so viðkomandi kann síggja varrarnar og andlitsbragdini hjá tær.
+2. **Finn ein róligan stað.** Sløkk fyri sjónvarpinum ella flyt teg burtur frá larmi.
+3. **Tosa eitt sindur harðari, men rópa ikki.** Tosa natúrligt og í rímiligum ferð.
+4. **Halt munnin fría.** Ikki et, tygg tyggigummi ella fjal munnin, meðan tú tosar.
+5. **Umorða heldur enn at taka tað umaftur**, tá okkurt ikki verður hoyrt.
+6. **Ein í senn.** Í einum bólki skalt tú syrgja fyri, at persónurin er við.
+7. **Ver tolmodur og spyr, hvussu tú kanst hjálpa.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Hesi ráð virka væl saman við okkara [ráð um samskifti við demens](/caregiving/communication-tips/). Virksemi við myndum kunnu eisini lætta trýstið av at lurta. [Myndapør](/games/picture-pairs/) og [Samrøðukort](/games/conversation-cards/) byggja á tað, tit síggja, og [Enda orðiðtakið](/games/finish-the-saying/) letur teg vísa endan í staðin fyri at siga hann. Um tú ynskir ráð um samrøður, sí okkara vegleiðing um [telefonsamrøður og videosamrøður](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Sjónin hevur eisini týdning
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Í 2024 legði Lancet-nevndin óviðgjørt sjónarbrek afturat sum ein nýggjan vandafaktor. Samandráttur UCL setir tað til umleið 2% av demensførum, og nevndin mælir til at gera kanning og viðgerð av sjónartrupulleikum tøk fyri øll. [NIA mælir til](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) eina eygakanning við víðkaðum sjónsteinum á hvørjum ári ella annaðhvørt ár eftir 60 ára aldur, og at kanna brilustyrkina eisini. Sjálvt smáar broytingar í sjónini kunnu økja vandan fyri at detta.
 
-## Talk with a doctor
+## Tosa við ein lækna
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Spyr ein lækna um hoyrnar- og sjónarkanningar, um tú leggur til merkis nøkur av teknunum omanfyri. Far beinanvegin til lækna við bráðum hoyrnarbreki, pínu í oyranum ella vætu úr oyranum. Um tú røkir um ein persón, sum livir við demens, so fortel læknanum hjá viðkomandi frá broytingum í hoyrn ella sjón, tí tær kunnu ávirka skap, trygd og hvussu væl persónurin kann vera við.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Hendan síðan er almenn kunning, ikki læknaráðgeving. Sí okkara [læknafakliga fráboðan](/medical-disclaimer/). Les meira um [felagsskap og heilsuna á heilanum](/brain-health/social-connection/).
