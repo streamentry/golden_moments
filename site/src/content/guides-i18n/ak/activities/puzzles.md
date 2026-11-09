@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzles ma Dementia: Nkɔmmɔ, Nsɛmmisa ne Puzzles a Ɛyɛ Mmerɛ"
+seoTitle: "Puzzles ma Dementia: Nkɔmmɔ ne Nsɛmmisa"
+description: "Sɛnea wobɛpaw nkɔmmɔ, nsɛmmisa ne online puzzles ma obi a dementia wɔ no: ɛkwan a ɛfa ntɛntɛn, mfonini, nsɛm kɛse ne sɛnea wobɛyɛ no wɔ ne ho, ne bere a wobɛyɛ no ntɛm."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Puzzle a eye sɛ obi a dementia wɔ no ne no ne deɛ obi bɛtumi aguu ano wɔ
+  mmoa kakra ase na ɔnnye nni wɔ kwan so. Paw nkɔmmɔ a nkɔmmɔ kakraa ne
+  nkɔmmɔ kɛse ka ho, ma mfonini a ɛda no pefee a ɛyɛ ɔkurofo nkyerɛ wɔ mu,
+  na hwɛ sɛ mfonini a ɛwɔ abɔsoo so no hwɛ hɔ daa. Fi nkɔmmɔ a ɛyɛ nkyɛnkyɛn
+  so kɔ nkɔmmɔ a ɛwɔ nkyɛn no kan. Nsɛmmisa ne nsɛm a wɔkyerɛw wɔ nkɔmmɔ kɛse
+  mu yɛ paa. Online puzzles a nkɔmmɔ anan ka ho yɛ paa ma bere a ɛdi mfeasɛm
+  mu. Gyina hɔ bere a ɛda so ara yɛ anigye.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Paw sɛnea ɛte, na nni stage label so: sɛ puzzle no yɛ adwuma, sɔ nkɔmmɔ a ɛkakɔ mu bi."
+  - "Nkɔmmɔ kɛse a ɛyɛ den ne mfonini a ɛwɔ amanneɛ a ɛyɛ soronko nkyerɛ yɛ mmerɛ sen nkɔmmɔ kakraa ne ɔsorɔ kɛse a ɛwɔ mu."
+  - "Mfonini a ɛfa nnipa ho yɛ hia. Aduaberɛ, aburow, kar ne mmoa, na ɛnyɛ anansesɛm."
+  - "Ɛyɛ ho nkɔfo a ɛyɛ hia. Fa nkɔmmɔ bi ma wɔn, sie nkyɛn, na kora no ahyɛ wɔ hɔ."
+  - "Nsɛmmisa a ɛyɛ kɛse ne online puzzles a nkɔmmɔ anan anaa nkɔmmɔ kɛse ka ho wɔ ha so free."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Nkɔmmɔ bɛn na ɛyɛ paa ma obi a dementia wɔ no?"
+    a: "Nkɔmmɔ bi nni hɔ a ɛyɛ nokorɛ. Obi a ɔdii nkɔmmɔ 1,000 ahyɛ no bi bɛtumi ani gye nkɔmmɔ kakraa wɔ mfitiase, nanso afoforo ani gye no sen wɔ nkɔmmɔ dozen bi a ɛyɛ kɛse. Sɛ puzzle no yɛ adwuma anaa ɛma ɔnnye nni, sesa kɔ nkɔmmɔ a ɛkakɔ mu. Yɛn online Picture puzzle wɔ nkɔmmɔ 4 anaa 9."
+  - q: "Jigsaw puzzles yɛ paa ma nnipa a dementia wɔ?"
+    a: "Nnipa pii ani gye, titiriw sɛ wɔpɛ puzzles dedaw. Puzzle ma nsa wɔ adwuma, ɛma wɔwɔ botaeɛ pefee, na ɛma wɔwɔ mfonini a wɔbɛka ho asɛm. Nhwehwɛmu amfa nkyerɛ sɛ puzzle biara ayaresa dementia anaa ɛma ɛyɛ nwoa, enti paw wɔn ma anigye ne abusuabɔ."
+  - q: "Dɛn na metumi ayɛ sɛ obi no rentumi nyɛ jigsaw bio?"
+    a: "Ma ɛnyɛ kɛse na yɛ adwuma kɛse wɔ so: ma nkɔmmɔ biako biako, anaa gyaa nkɔmmɔ a ɛda so ara mmiensa ma wɔn. Sɔ online puzzle a nkɔmmɔ anan wɔ mu, kora nkɔmmɔ wɔ nkyɛn sɛ wɔn ahoɔfɛ, anaa hwɛ mfonini a wɔaba awie no ka ho asɛm."
+  - q: "Nsɛmmisa ne nsɛm a wɔkyerɛw wɔ nkɔmmɔ kɛse mu yɛ paa ma dementia?"
+    a: "Wobetumi de yɛ adwuma wɔ mfitiase, wɔ nkɔmmɔ kɛse mu. Nsɛmmisa a nsɛm no yɛ kwan a ɛfa atifi ne ɔfam so nko ara yɛ mmerɛ sen nea nsɛm no wɔ akwan a ɛkɔ akyi anaa ɛyɛ dwoodwoo. Kenkan nsɛmmisa no ahyɛ no nkɔ, anaa kenkan nsɛm a ɛwɔ mu, na mo mmom mo nyinaa mmɔ mu."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jigsaw a wɔatrɛw wɔ aduaberɛ so yɛ biribi a ɛyɛ mmerɛ paa sɛ wobɛkyekye. Mobetumi atena fam abɔ mu a ɛnhia sɛ mokasa, mfonini no ma mo ka ho asɛm, na sɛ wukɔ nkɔmmɔ a ɛtwa so no ano a, ɛma wo ani gye. Nanso, puzzles hia sɛ wɔsesa wɔn bere a dementia sesa. Puzzle a ɛyɛ den pɛpɛɛpɛ bɛma anwummere a ɛyɛ dekɛ no ayɛ mmerɛ. Saa asɛmti yi kyerɛkyerɛ sɛnea wobɛpaw na wobɛhyehyɛ jigsaws, nsɛmmisa ne online puzzles a ɛyɛ mmerɛ, ne deɛ wobɛyɛ sɛ ɛyɛ den.
 
-## Are puzzles good for people with dementia?
+## Puzzles yɛ paa ma nnipa a dementia wɔ?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Nnipa pii ani gye, titiriw wɔn a wɔdɔɔ puzzles ansa na wɔnnye dementia. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) de nsɛmmisa, card games ne board games ka ho wɔ mfitiase a wɔn stage, na [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ka online games ne puzzles wɔ tablet so sɛ ɔkwan bi a ɛboa ma obi tena ase.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzzles nyɛ ayaresa. Nhwehwɛmu amfa nkyerɛ sɛ puzzle biara tɔ dementia so anaa ɛma ɛyɛ nwoa. Yɛn [nkɔmmɔ wɔ brain games ne dementia ho](/brain-health/brain-games/) mu kyerɛ nhwehwɛmu no. Ɛnti, deɛ ɛma yɛyɛ puzzle ne sɛ ɛbɛyɛ anigye, ɛbɛma yɛn nyinaa ayɛ wɔ bere bi mu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ka no yiye: fa ho ma anigye, na nni ahofadi.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Ɛdeɛn na wobɛpaw jigsaw puzzle ma obi a dementia wɔ?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Fa nea obi no pɛ ne nea ɛkɔɔ so wɔ puzzle a edi kan so, na nni stage label so.
 
-### Number of pieces
+### Nkɔmmɔ dodow
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Nkɔmmɔ dodow nni hɔ a ɛyɛ nokorɛ. Obi a wadi puzzles afe pii bɛtumi ani gye nkɔmmɔ ɔha bi wɔ mfitiase, nanso afoforo ani gye sen wɔ nkɔmmɔ dozen bi. Ɛsɛ sɛ wodi so: sɛ puzzle a ɛdi kan no yɛɛ adwuma, paw nkɔmmɔ a ɛyɛ fitaa ne mmienu. Sɛ wɔkyerɛɛ kɔɔ so ntɛm na wɔpɛ bio a, sɔ kakra.
 
-### Piece size and feel
+### Nkɔmmɔ kɛse ne ahoɔden
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Nkɔmmɔ kɛse** hyɛ mmerɛ sɛ wobɛhunu, wobɛfa, na wobɛsesa.
+- **Nkɔmmɔ a ɛyɛ den ne ahoɔden** tena hɔ na ɛnntwe, na ɛnyɛ den sɛ wɔtow.
+- **Ɛhyɛ a ɛnyɛ soronko** twe ahoɔyɛ a ɛfiri hɔ wɔ ogya ne windo so.
+- **Twe nkɔmmɔ a ɛyɛ ketewa** sɛ obi no betumi de ntwa ne ano bere a dementia akɔ akyiri.
 
-### The picture
+### Mfonini
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Mfonini a ɛfa nnipa ho.** Atɔkwa, aduaberɛ, kar a ɛyɛ kan, mmoa a wɔtena afuo mu, kurow a ɛwɔ ɛpono ho, anaa ɔkwan a wɔdɔ sɛ wɔbɛyɛ. Ɛnyɛ anansesɛm anaa biribi a ɛte sɛ abofra nneɛma.
+- **Nsusuwii a ɛda so pefee.** Ɔkɔkɔɔ ɔsoro a ɛyɛ dedaw, ɔpon a ɛyɛ kɔkɔɔ, ne nsuo a ɛyɛ bruu bɛyɛ mmerɛ sen ɔsoro a ɛyɛ nkyɛn a ɛfa mfonini no fã.
+- **Nea wɔanya bere tenten.** Beaeɛ a wotenaa, adwuma a wɔdɔɔ no, ɛbɛma mo nkyerɛkyerɛ pii. Nkɔmmɔ bi a wɔde yɛ nkɔmmɔ kɔ kwan so ahwɛ ma mo ka asɛm.
 
-## How do you do a puzzle together?
+## Ɛdeɛn na wobɛyɛ jigsaw ne ɔno nko?
 
-Set it up so the person can get straight to the enjoyable part.
+Hyehyɛ ho ma obi no betumi akɔ anigye no ho ntɛm.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Paw beaeɛ a ɛyɛ.** Ɔhyew a ɛyɛ mmerɛ, agyapade a ɛwɔ nkyɛn, ne tebɛl anaa tray a wobɛtumi de puzzle no agyina hɔ.
+2. **Bue box no kɔnkɔn** wɔ beaeɛ a mobɛtumi ahwɛ.
+3. **Sesa nkɔmmɔ no ano** kan ansa na mofi ase.
+4. **Hyehyɛ nkɔmmɔ a ɛda so** wo ara, anaa fi ntoma no kan na gyaa mmiensa ama wɔn.
+5. **Kyekyɛ nkɔmmɔ de ayɛ nkɔmmɔ** wɔ tray anaa plate kakra mu.
+6. **Fa nkɔmmɔ biako biako ma wɔn** sɛ nkɔmmɔ no kɛse. "Mete sɛ eyi yɛ kar no ankasa."
+7. **Ka mfonini ho asɛm,** na ɛnyɛ nea wɔayɛ. "Eyi te sɛ ɔkɔɔ a me papa wɔ."
+8. **Gyae no ha.** San yɛ bio nna pii akyi. Ɛnhia sɛ wɔyɛ no ntɛm.
+9. **Gyae bere a ɛyɛ.** Sɛ nkɔmmɔ bi kɔ mu wiei, bere a ɛda so ara yɛ anigye.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ mmoa obi no ma ɔfi ase, hwɛ sɛnea ahohorɛ rebɛba, na ma ɔnhwɛ kwan so sɛ ɔpɛ saa. Sɛ wohwɛ wo ho nkɔmmɔ ɔhyew na wokyerɛ beaeɛ a nkɔmmɔ bi bɛkɔ hɔ, saa nso yɛ ɔkwan a wɔfa ho.
 
-## Easy online puzzles
+## Online puzzles a ɛyɛ mmerɛ
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tablet puzzle wɔ mfaso bi: nkɔmmɔ biara nnwera, mfonini kɛse a ɛma ɛdɔ ɔsɛnhyɛn nyinaa, na ɛnhia sɛ wotew tebɛl.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Yɛn [Picture puzzle](/games/picture-puzzle/) a wɔntua ka no tow mfonini no mu ayɛ nkɔmmɔ 4 anaa 9. Fa nkɔmmɔ mmienu bɛsesa wɔn kɔsi sɛ mfonini no bɛyɛ pii. Mfonini a ɛyɛ pɛpɛɛpɛ no gyina sɛnkyerɛnne so, sɛnkyerɛnne nni hɔ, na wobetumi agyae bere biara. Nkɔmmɔ 4 yɛ paa ma nnipa pii a dementia atwa mfinimfini no, sɛ obi wɔ wɔn ho.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Sɛ wopɛ nkɔmmɔ a ɛyɛ mmerɛ sen saa, sɔ [Find the same](/games/find-the-same/) hwɛ, baabi a wobɛfa mfonini a ɛtɔ mmoa ano so no, anaa [Sort together](/games/sort-together/) baabi a mfonini kɔ basket mu te sɛ aduaberɛ anaa afuo.
 
-## Word puzzles: word searches and crosswords
+## Nsɛmmisa: nsɛmmisa ne crosswords
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Nsɛmmisa yɛ paa ma nnipa a wɔdɔɔ nneɛma yi daa, titiriw wɔ mfitiase a dementia rensɛe.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Nsɛmmisa a nsɛm kɛse.** Yɛn [Word search](/games/word-search/) a ɛnhia ka no wɔ nsɛm kɛse ne nsɛm kakraa, ɛkɔ ano ne fam nko, na ɛnkɔ dwoodwoo anaa akyiri. Wobetumi ayɛ no wɔ screen so anaa wotwe no.
+- **Kenkan nsɛm no ahyɛ no nkɔ.** Obi kenkan nsɛm, afoforo hwehwɛ no. Sɛ wokyerɛ nsɛm no mfitiase nko a, ɛyɛ.
+- **Crosswords a nsɛm kɛse wɔ mu** wɔ puzzle books mu betumi ayɛ adwuma wɔ mfitiase. Kenkan nsɛmmisa, kyekyɛ aseɛ, na mo nyinaa mmɔ nsɛm no. Crosswords a ɛyɛ mmerɛ ne a ɛfa asɛm bi ho no yɛ paa sen nea ɛyɛ den.
+- **Ka nsɛm no ho asɛm.** "Ɔkɔɔ" betumi aka asɛm a ɛbɛfa nkwadaa ne ɛdiyɛ no mu.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Sɛ wopɛ nnwuma bi a wɔwɔ krataa so, hwɛ [ɛdɔ kwan a wɔbɛtwe dementia nnwuma](/activities/printable/) ne sɛnea wɔbɛtwe no na ɛbɛyɛ mmerɛ a obi bɛhu na ɔbɛkyere no.
 
-## Which puzzles suit each stage?
+## Puzzles bɛn na ɛfata stage biara?
 
-Stages overlap, and good and hard days are normal.
+Stages no mu biara nni ntam, na nna a ɛyɛ yiye ne nna a ɛyɛ den yɛ nea ɛbaa hɔ.
 
-| Stage | Puzzles that often fit | Your role |
+| Stage | Puzzles a ɛfata | Wo kwan |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Mfitiase | Jigsaws a wodi kan dɔ, nkɔmmɔ kakraa sen kan, nsɛmmisa ne crosswords a nsɛm kɛse wɔ mu, 9-piece online puzzles | Ɔyɔnko: ma wɔnpaw, boa sɛ wɔbisa |
+| Mfinimfini | Jigsaws a nkɔmmɔ dozen bi a ɛyɛ kɛse wɔ mu, 4-piece online puzzles, nsɛmmisa a wɔkenkan wɔ mu | Hyehyɛ, sesa nkɔmmɔ, gyaa biribiara mmiensa ma wɔn |
+| Akyiri | Mfonini a wɔawie no hwɛ wɔ hɔ, Find the same a mfonini mmienu wɔ mu, nkɔmmɔ kɛse kakraa a wɔbɛfa | Fa ma wɔn; wo ho mu ne nnwuma no |
 
-## When should you make a puzzle easier, or stop?
+## Ɛberɛ bɛn na wobɛyɛ puzzle no ntɛm, anaa wogyae?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Hwɛ sɛ ɔbɛtɔ ahyɛfoɔ, ɔbɛtu nkɔmmɔ fi ne ho, anaa ɔka "Metumi nyɛ" daa anaa ne ani ahohorɛ. Eyinom yɛ nsɛnkyerɛnne sɛ ɛsɛ sɛ wosesa biribi, na ɛnyɛ sɛ wɔde bɔ mu.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Ma ɛnyɛ kɛse.** Ma nkɔmmɔ nketewa, anaa gyaa nkɔmmɔ a ɛda so ara mmiensa ma wɔn.
+- **Yɛ adwuma kɛse wo ho,** na frɛ wɔn sɛ wɔmmoa wo wɔ nneɛma a ɛyɛ mmerɛ mu.
+- **Sesa kɔ biribi a ɛbɛn:** nkɔmmɔ kyekyɛ de ayɛ nkɔmmɔ wɔ mu sɛnkyerɛnne so, 4-piece online puzzle, anaa [coloring](/games/coloring/).
+- **Gyae.** Fa no sie, na nom tee. Ɛbetumi aba ɛda foforo, anaa ɛrenba.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Sɛ puzzles bɛyɛ sɛ ɛreyɛ wo ayɛyɛde sɛ nneɛma a ɛyɛ den no ara, ɛyɛ mmerɛ sɛ wogyae. Nneɛma pii foforo wɔ hɔ a wobɛfa bere a ɛyɛ yiye ne wo ho. [101 activity ideas](/activities/ideas/) yɛ beaeɛ a ɛyɛ mmerɛ sɛ wobɛhwehwɛ.

@@ -1,33 +1,34 @@
 ---
-title: "Dementia le Marah Damqit Aban Caalateena"
-seoTitle: "Dementia le Marah Damqi Caalateena: Yaalitte kee Nagaynan"
-description: "Dementia le marah damqit aban caagiditte, gaba maxaaxuk kaaduk suufe kee ugagih tan sugeenit fanah, nagaynan kacanoodi leluk."
+title: "Hawwaanta Dareenka ee Ummata Dementia Qabeenta"
+seoTitle: "Hawwaanta Dareenka ee Dementia: Fikradaha iyo Nagaanta"
+description: "Hawwaanta dareenka ee ummata dementia qabeenta, marka laga bilaabo masaajka gacanta ilaa agabka dhaqqan iyo codadka dabeecadda, oo leh talooyin nagaanta ah oo ku saabsan qaylada, xasaasiyadda iyo udgoonka."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Damqi caagiditte konoy damqit taamitta: ibbixiyya, sunso, tamoo, aabbi kee
-  yabalo. Kas-le gaba maxaaxo, lafaftu le maroh salata, ur le cusub caxxa,
-  ugagih aabbittite, hinnay takkit haada wagittaana. Kulli baaxo kee addat
-  meqem kinnuk, aala dadal addat mangoh tuxiq le. Naharat laqasitoh kacano,
-  allergy, gogih dhibi kee uruh tan caddeeti qellisa, kullumuk inki iim
-  cedeisa, kaaduk num madaqqo waaqay tekkeh kalta.
+  Hawwaanta dareenku waxay isticmaalaan dareenka taabashada, udgoonka, dhadhanka,
+  codka iyo aragga: masaaj gacanta oo tartiib tartiib ah, dambiil ay ku jiraan
+  dhaqqan jilicsan, cawo cusub oo lagu udgoonsado, codad dabeecadeed, ama
+  eegidda shimbiraha daaqadda. Waxay ku habboon yihiin dhammaan marxaladaha, gaarkiise
+  marxaladda dambe waa ay qiimo weyn leeyihiin. Marka hore hubi khatarta
+  xiriirka neefsashada, xasaasiyadda, dhibaatooyinka maqaarka iyo udgoonka, oo mid
+  mid ka bilow, haddii qofku ka dareero joojiso.
 keyPoints:
-  - "Damqi caagiditte faxximta cato meceelak ma-faxxa, taamissek kulli dafat addat taamitta, sarir kee korsi addal yan waqdi kaaduk."
-  - "Gaab le qari addal inki damqi inki waqdi cedeisa, kaaduk gaba haak naharat essera hinnay warisa."
-  - "Uqqunhuk yan iimitte kee maaqoh ceelo le hinnay maaqo ur le iimittek xeqa, mara afoh addal heeleenimik sabbatah."
-  - "Kareemitte, ur le iimitte hinnay maaqo cedeisak naharat allergy, gogih dhibitte kee faagih dhibitte qellisa."
-  - "Aromatherapy dementia astootit qoklaaxah daacisiyya le asti aneewayta; ur le iimitte axawah fayxit elle abtaanah tekkeh akke waytek."
+  - "Hawwaanta dareenku ma u baahna jawaab sax ah, taas oo ka dhigta mid ku shaqeeya dhammaan marxaladaha, oo ay ku jiraan sariirta ama kursiga."
+  - "Hal dareen mar keliya u soo bandhig qol aamusan, oo weydii ama ogeysii ka hor intaadan taaban."
+  - "Ka fogow walxaha yaryar iyo waxyaabaha u egyihiin ama udgoonkooda ku badan cunto, maxaa yeelay dadku waxay geli karaan afka."
+  - "Hubi xasaasiyadda, dhibaatooyinka maqaarka iyo dhibaatooyinka neefsashada ka hor intaadan isticmaalin subagyada, udgoonka ama cuntada."
+  - "Ma jiro caddayn xoog leh oo muujinaysa in aromatherapy ka caawiso calaamadaha dementia; udgoonka isticmaal kaliya farxadda fudud, haddii aad isticmaasho."
 faq:
-  - q: "Dementia le numuh meqe damqi caagiditte miyya?"
-    a: "Sarraab le yaalitte: kareemil gaba kas-le maxaaxo abiyya, lafaftu le maro ibbixiyya, cusub caxxi ur hinnay bun ur sunsuniyya, kacan le muuziqah hinnay ugagih aabbitte ankaciyya, haada hinnay kulli tanki wagittaana, kaaduk kacan le maaqo nagaynan le dafat tammoomi. Inki iim inki waqdi cedeisa kaaduk num elle yabalo dacrisa."
-  - q: "Afoh addal iimitte haa numuh damqi caagiditte nagaynan liyo?"
-    a: "Dacrisiyyah lih meqe takkeemik xiqta. Laqasitoonum duude wayta kaxxa iimitte calli elle taamita, uqqunhuk yan hinnay kaskassoota iimitte xeqa, kaaduk sarrah kareemitte, saamun kee ur le iimitte gabak xeqa, maaqo celtam hinnay maaqo urteemik sabbatah. Kulli waqdi numuh garil suga."
-  - q: "Aromatherapy dementia addat qokolaa?"
-    a: "Cochrane qellisiisa aromatherapy dementia le mara qoklaah iyyamih daacisiyya le asti mageyinna, tunsussuqitte uqqun kee sissik waytik sugeenimih sabbatah. Num meqe, aaxiguk yan urik fayxi geyek, too tamih meqe, takkay immay gibdi zaytittek xeqa, xalaalay faagih dhibi hinnay allergy yan waqdi."
-  - q: "Fidget hinnay taamoomi apron miyya?"
-    a: "Kaadu maroh xalu, apron hinnay korsi korat iimitte elle urrumtah tanim kinni, kaxxa ziraaritte, zipper, ribboonitte kee lafaftu le maroqoota elle suunissimeteh tan. Taamoomi le gabobah koroosite iimitte yacee. Fanti-fantal furrumteeh korisaanam xiqta iimitte qellisa."
+  - q: "Waa maxay hawwaanta dareenka wanaagsan ee qof dementia qabo?"
+    a: "Fikradaha fudud waxaa ka mid ah masaaj gacan oo tartiib tartiib ah oo lagu maydho subagga, taabashada dhaqqan jilicsan, udgoonka geedaha cusub ama kafeega, dhegaysiga heeso uu jecel yahay ama codadka dabeecadda, eegidda shimbiraha ama weelka kalluunka, iyo dhadhanka cunto uu jecel yahay oo qaab ammaan ah. Mid mid u bandhig oo eeg sida qofku u jawaabayo."
+  - q: "Ma ammaan baa hawwaanta dareenka qofka afka wax geliya?"
+    a: "Way ammaan noqon kartaa, adigoo taxadar leh. Isticmaal kaliya waxyaabaha waaweyn oo aan la liqi karin, ka fogow waxa yar ama jajabi kara, oo subagga, saabuunta iyo alaabta udgoonka leh ka dhig meel aan gacanta lagu gaarin kadib, sababtoo ah waxay u egyihiin ama udgoonkooda ku badan yihiin cunto. Qofka la jir intuu socdo."
+  - q: "Ma aromatherapy waxay ka caawisaa dementia?"
+    a: "Dib-u-eegista Cochrane waxay ogaatay in aan la helin caddayn xoog leh oo muujinaysa in aromatherapy ka caawiso dadka dementia qabo, in kastoo daraasadaha ay yaraayeen oo natiijooyinkoodu isku khilaafeen. Haddii qofku jecel yahay udgoon fudud oo caadi ah, waa wanaagsan tahay, laakiin ka fogow sagxadaha xoogga leh, gaar ahaan haddii neefsashadu dhibaato ku haysato ama xasaasiyad jirto."
+  - q: "Waa maxay apron-ka firfircoonida ama apron-ka dareenka?"
+    a: "Waa xoog dhaqqan ah, apron ama buste (huwaan) oo lagu xidhay walxo lagu qabto oo si adag loogu xidhay, sida badhamada waaweyn, zipper-yada, suufyada iyo calaamadaha dhumuc leh. Wuxuu siiyaa gacmaha firfircoon wax ay baarto. Mar walba hubi haddii wax dhaqdhaqaaq ah ama furmi kara jiraan."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Damqi caagiditte konoy damqit taamitta: ibbixiyya, sunso, tamoo, aabbi kee yabalo. Kas-le kassit, kas-le kaloota kee kas-le gari cato ma-faxxa, toomah sabbatah kulli dafat addat taamitaanam xiqtaanih. Aala dadal addat mangoh tuxiq le. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) warissam aala dafat addat baaxo aalaak damqootit geytimtam kinnuk, kaaduk ibbixiyya, aabbi, yabalo, tamoo kee sunsol gacsim qellisaanam xiqtaana. Dagoon nagaynan qellisiisitte ta caagiditte kulli numuh rarraq leemih abta.
+Hawwaanta dareenku waxay isticmaalaan shan dareen: taabashada, udgoonka, dhadhanka, codka iyo aragga. Ma u baahna xasuus, tillaabooyin ama jawaabo sax ah, sidaas darteed waxay shaqeyn karaan marxaladda kasta. Waxay muhiim yihiin gaar ahaan marxaladda dambe. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) waxay sheegtaa in marxaladda dambe dunida la dareemo ugu horreyn dareenka, iyo in daryeelka laga muujin karo taabashada, codka, aragga, dhadhanka iyo udgoonka. Hubinta yar ee nabadgelyada ayaa ka dhigta hawwaankan mid qofkii oo dhan ku nasiya.
 
-## Dementia le marah damqi caagiditte miyya?
+## Waa maxay hawwaanta dareenka ee dementia?
 
-Damqi caagiditte inki damqih gubal gintam kinni, maro ibbixiyya, cusub caxxa sunsuniyya hinnay rob aabbitte ankaciyya innaah. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) warissam aala dafat caagiditte aalaak damqootit baxxaagisso faxxam, kaaduk muuziqa, ibbixaanah gaba haan iimitte kee gabah maxaaxo elle tembeedde. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) warissam aala dafat addat yan marat rarraq geyooh iimitte xayiik ibbixaanaah faxo lem xiqta.
+Hawwaanta dareenku waa waayo-aragnimo fudud oo ku saleysan hal dareen markiiba, sida dareenka dharka, udgoonka geedaha ama dhegaysiga roobka. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) waxay sheegtaa in hawwaanta marxaladda dambe inta badan ay u baahan yihiin in ay diiradda saaraan dareenka, waxayna soo xusaysaa muusikada, walxaha la taabto oo la qaado, iyo masaajka gacanta. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) waxay sheegtaa in dadka marxaladda dambe ay laga yaabo inay u baahdaan in ay wax ku qabtaan oo ku xidhaan si ay u helaan raaxo.
 
-## Damqi yaalitte, damqik damqih fanah
+## Fikradaha dareenka, dareen kasta gooni ahaan
 
-### Ibbixiyya
+### Taabashada
 
-- **Gabah maxaaxo.** Dagoon kareem gabal qariirisa kaaduk gaba-kibirik fan gabah faro fan kas-luk maxaaxa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) rarraqah ur wayta kareemil maxaaxiyya tembeedde.
-- **Maroh salata.** Velvet, corduroy, fleece, satin kee wool kaxxa maroqoota ibbixaanaah, alifaanaah kaaduk elle yaabaanaah.
-- **Lafta maro.** Qabbow yanim ayro gabobah lafta, dagal cafafe maro. Qariiro naharat ku gaba-kibiril qellisa.
-- **Taamoomi apron hinnay korsi kora.** Kaxxa ziraaritte, zipper, ribboonitte kee lafaftu le maroqoota gibdik elle suunissimteh tan.
-- **Alifiyya kee soolisiya.** Culan maroqootah salata alifaanaah, sissikuk hannaasoonaah.
-- **Ibbixaanah lafaf le iim.** Fleece throw, cushion hinnay ceelo le lafaftu qidim, axawah yaceenim, qidimih abbaxak akke kalak.
+- **Masaajka gacanta.** Subag yar gacmahaaga ku kulul, kadibna si tartiib ah ugu saar laga bilaabo dhabta gacanta ilaa farxadaha. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) waxay soo xusaysaa masaajka subag udgoon la'aan ah oo raaxo leh.
+- **Dambiilka dharka.** Laab waaweyn oo velvet, corduroy, fleece, satin iyo suuf ah oo la maydho, la qaado oo laga hadlo.
+- **Maro kulul.** Maro diirran oo qoyan oo gacmaha loogu talagalay maalinta qabow. Marka hore heerkulka ku tijaabi dhabta gacmahaaga.
+- **Apron-ka dareenka ama buste-ka huwaanta.** Badhamo waaweyn, zipper-yo, suufyo iyo calaamado dhumuc leh oo si adag loo xidho.
+- **Dayashada iyo sarifida.** Dambiil maro nadiif ah ama salfeedho ah oo lagu dayo, lagu ururiyo, markaas mar kale lagu dayo.
+- **Wax jilicsan oo la qabto.** Huwaan fleece ah, barkin ama shimbir xayawaan jilicsan oo dabiici ah, oo si fudud loo siiyo, hase ahaatee weligeed ha loo siin sidii ciyaar.
 
-### Sunso
+### Udgoonka
 
-- **Cusub caxxa.** Naanaaq, rosemary, basil hinnay lavender ayti faro fantiitil xisisaah cedeisa.
-- **Kushiina ur.** Bun axcaanih yan waqdi, gaqambo toocem, qirfa hinnay burtukaan xayiik korisan waqdi.
-- **Kacanuubitte.** Madaarakaak hinnay suuqik cusub kacan le kacanuubitte baaha.
-- **Aaxigeenim ur.** Usun kulli waqdi elle taamitan saamun hinnay kareem, gogi qoklek.
+- **Geedo cusub.** Nacnac, timbir, basil ama caleemaha lavender ku kala mari farahaaga, kadibna u soo wad qofka.
+- **Udgoonka guriga.** Kafeega oo karkaraysa, ka dibna buufinta bur, qaraanka ama liin la quruxaysa oo u dhow.
+- **Ubaxyo.** Keen dhowr ubax cusub oo beerta ama suuqa laga keenay.
+- **Alaab la yaqaan.** Saabuunta ama subagga ay had iyo jeer isticmaali jireen, haddii maqaarkoodu aqbali karo.
 
-### Tamoo
+### Dhadhanka
 
-- **Kacan le tamoo.** Usun kican maaqok uqqun maqlaga, applesauce, pudding hinnay ice cream innaah, nagaynan le dafat alxaanoonum duudan.
-- **Kareebat qokol.** Xuun caxxa hinnay dagoon sokkor tamoo isin maaqo inkih abtan waqdi.
-- **Waqdih maaqo.** Karmat watermelon, gilalil lafta cider, nagaynan le qariirot cedeisan.
+- **Dhadhan ay jecel yihiin.** Qaado yar oo cunto ay jecel yihiin, sida apple sauce, pudding ama ice cream, oo qaab ammaan ah oo ay nabad ku cuni karaan.
+- **Caawinta foornada.** Dhadhami midho ama baraf yar intaad wada karkarinayso.
+- **Cunto xilliyeed.** Tarbuus xagaaga, cider diiran dayrta, oo heerkul ammaan ah lagu bixiyo.
 
-### Aabbi
+### Codka
 
-- **Kacan le muuziqa.** Aaxigan kacan le gita meqe dafat; wagita [music activities](/activities/music/).
-- **Ugagih aabbitte.** Rob, daaciyyi hinnay haadah aabbitte. NIA warissam muuziqa, white noise kee ugagih aabbitte tu mara rarraqisaah ceelata.
-- **Ku aabbi.** Kaxxa aabbit akriyo, daacaano, hinnay sheeka warisaana.
-- **Sarraab le insturmentitte.** Gabah kabal, shaker hinnay kooleeta muuziqat ankaxiseeniik abaanam.
+- **Muusikada aad jeceshahay.** Heeso la yaqaan oo cod tartiib tartiib ah ku dhegaysi; eeg [hawwaanta muusikada](/activities/music/).
+- **Codad dabeecadeed.** Roob, mawjado ama heesta shimbiraha. NIA waxay sheegtaa in muusikada, codka caadiga ah iyo codadka dabeecadda ay u muuqdaan kuwo qaar nasiya.
+- **Codkaaga.** Akhriso si cod ah, ama qaylo yar ku qaad, ama sheeko sheeg.
+- **Qalab fudud.** Durbaan gacanta, shaakar ama dhawaan la ciyaaro si aad muusikada ula ciyaarto.
 
-### Yabalo
+### Aragga
 
-- **Takkit wagittaana.** Takkik afal haadah maaqo haanaah, xayiik taturta xaylo, hinnay caxaabaano radam wagittaana.
-- **Kullih tanki hinnay kas-le video.** Sissik wayta maymuca kaxxa aabbi malelek.
-- **Kaxxa suuritte.** Inki baxxaagisso le suura inki waqdi, intiih meceelat ibbixaana.
-- **Kalu kee ceelo.** Doolan le maro xalitte, kacanuubitte hinnay doolan le maroqoota fanti-fantal haysiyya, hinnay nanu le [coloring](/games/coloring/) addak sarraab le kalu karraasitaana.
-- **Baxaaxik yan buxa.** NHS sugusem damqi madaarak ur le caxxa, lafaftu kee leeh calat elle yan. Wagita [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Daaqadda la eego.** Quudiye shimbiraha dibadda daaqadda, carruurta soo socota gurigooda, ama barafka oo da'aya.
+- **Weelka kalluunka ama fiidyow tartiib tartiib ah.** Dhaqdhaqaaq nabad ah oo aan cod weyn lahayn.
+- **Sawirro waaweyn.** Hal sawir oo cad mar kasta, oo indhaha laga hayo heerka indhaha.
+- **Midabka iyo qaabka.** Kala soco xariiqyada dharka midabka leh, ubaxyo ama maro midab leh, ama bogga midabinta fudud ee [midabinta](/games/coloring/) ah.
+- **Dibadda.** NHS waxay soo jeedinaysaa beero dareenka ah oo ay ku jiraan geedo udgoon leh, qaabab kala duwan iyo biyo. Eeg [hawwaanta beerta iyo beerashada](/activities/outdoor-and-gardening/).
 
-## Damqi saanduq mannal ginaana
+## Sida loo sameeyo sanduuq dareen
 
-1. **Madqa doora** numih manot xayiik tanim: bahari, madaara, kushiina, taamah qari, suunisiyya.
-2. **Koonu hinnay lici kaxxa, nagaynan le iimitte doora,** kaxxa bahar-qaxu, caxxi maqlaga, lafaf le shal, alifte lavander kora, hinnay biluulic caxxi bilok innaah.
-3. **Kulli iim qellisa** uqqunhuk yan agle, qawke le carfeena, furrumte maro kee kaskassoota iimitte geytimewaytaah.
-4. **Inki iim inki waqdi yawqeem.** Gabaxta, elle yaaba, kaaduk num gaba haamih caba.
-5. **Saanduq sarrah alifa** baxaaxik le yaaba akkeeh, kaaduk sarralih abaanak naharat iimitte kas-luk qellisaanaah.
+1. **Dooro mawduuc** la xiriira noloshiisa: xeebta, beerta, guriga cuntada, shaqada gacanta, ama sarifidda.
+2. **Dooro shan ilaa lix walxood oo waaweyn oo ammaan ah**, sida qolof badda oo weyn, qashin alwaax ah, huwaan jilicsan, boorsada lavender qallalan oo la xidhay, ama alwaax jilicsan oo la sawiray.
+3. **Hubi walxo kasta** qaybaha yaryar, geesaha jarjaran, xuduudaha dhaadhacsan iyo wax kasta oo jajabi kara.
+4. **Mid mid soo saar.** Gacanta ku sii, sharax, oo u oggolow qofka inuu baaro.
+5. **Kadib sanduuqa dib u geli** si ay u sii ahaato mid gaar ah, walxaha mar kale looga hubiyo marka xigta.
 
-## Nagaynan naharat
+## Marka hore nabadgelyada
 
-Damqi caagiditte kas-leey rarraq leem kinnuk, dagoon kacanooni faxximta. Dementia le mari tu gaba maaqo hinnaah tan iimitte maaqo axceh laqasaanam duudan, kaaduk laqasito aala dafat addat gibdi takkem xiqta; NIA qellisiiseem aala dafat addat laqasitoh gabbooti laqasitoh kacanoodi dadlisam duudam.
+Hawwaanta dareenku waa kuwo nabad leh, laakiin khataro yar ayaa muhiim ah. Qaar ka mid ah dadka dementia qabo ayaa wax aan cunto ahayn u qaato cunto, iyo wax liqidda waxay sii adkaan kartaa wakhtiga ka dib; NIA waxay digaysaa in dhibaatooyinka liqidda marxaladda dambe ay kordhiyaan khatarta xiriirka neefsashada.
 
-| Kacano | Macah abna |
+| Khatarta | Waxa la sameeyo |
 | --- | --- |
-| Laqasito | Laqasoonum duude wayta kaxxa iimitte calli elle taamita. Ziraaritte, luul, lakqo, tiira hinnay uqqun qidimitte saanduq addat laaleh aneewaytay. Maaqo dacrisiyyah gaba nagaynan liyoh iyyen dafat callil yaceen. |
-| Maaqo celta iimitte | NIA kassiiseem kareemitte, saamun, shampoo kee qushuub alifaanaah heeleenim faxximtam, maaqo celtaanam hinnay maaqo urtaanam duudaanih sabbatah, kaaduk gintoh caxxa kalanaah. Taamisseenik sarrah damqi iimitte xeqa. |
-| Allergies | Qumburo, latex, wool, caxxa hinnay ur le iimittek allergy yan waqdi naharat qellisa. |
-| Gibdi ur | Gibdi qushuub kee zaytittek xeqa, xalaalay faagih dhibi hinnay waraara yan waqdi. Dagoon, ugagih ur meqe. |
-| Gogi | Maxaaxok naharat koboxe, dhibte hinnay lafafti le gogi qellisa. Kas-le kibir haana kaaduk rarraq wayteh kalta. |
-| Qariiro | Lafta maro kee cabbaana naharat ku gabat qellisa. |
-| Qawke le hinnay summi le iimitte | Qawke le qulbaab, kaskas hinnay summi le agle aneewaytay. |
+| Xiriirka neefsashada | Isticmaal kaliya walxaha waaweyn ee aan la liqi karin. Ha dhigin badhamo, xabbado, sen ama sacad yar oo ka soo baxsan sanduuqa. Cunto kaliya ku bixi qaababka ay kooxda daryeelku ammaan ku tiri. |
+| Waxyaabaha u egyihiin cunto | NIA waxay talisay in la xidho subagyada, saabuunta, shaambo iyo udgoonka, kuwaas oo u egyihiin ama udgoonkooda cunto ah, iyo in la ka saaro midhaha been abuurka ah. Alaabta dareenka mar kasta kadib dib u dhig. |
+| Xasaasiyadda | Ka hor bilowga hubi xasaasiyadda kuwa dhulka, latex-ka, suufka, dhirta ama udgoonka. |
+| Udgoonka xoogga leh | Ka fogow udgoonka xoogga leh iyo subagyada udgoonka, gaar ahaan haddii ay qofku qabo xanuunka sambabka ama dhibaato kale oo neefsashada. Udgoonka fudud ee dabiiciga ah ayaa ammaan badan. |
+| Maqaarka | Ka hor masaajka hubi haddii maqaarku qaxan yahay, jaban yahay ama nugul yahay. Cadaadis tartiib tartiib ah isticmaal oo joogso haddii ay indhaha ku hoos caddeeyaan. |
+| Heerkulka | Maro diirran iyo cabitaanno marka hore dhabta gacmahaaga ku tijaabi. |
+| Walxaha jilicsan ama sun ah | Ha isticmaalin qalab jaban, dhalo ama alaab midab-sumeed ah oo farshaxan. |
 
-## Aromatherapy qokolaa?
+## Ma aromatherapy waa ka caawisaa?
 
-Meeqaamih astil qokol aneewaytam xiqta. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) 13 tunsussuq kee 708 num dacrisiyyah qaariitik qellise, kaaduk tuxiq leeh axceh daacisiyya le asti mageyinna. Tunsussuqitte uqqun takkem kee catooti inkih maleh sugeenim, kaaduk tu kak radde caagiditte meqeh ma-warisinna. Num meqe aaxiguk yan urik fayxi geyek, madaarak geytinta lavender innaah, toomah cedeisaanam meqe. Daawa hinna.
+Inta badan ma caawiso, si la cabbiri karo. [Dib-u-eegista Cochrane ee aromatherapy ee dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) waxay eegtay 13 daraasadood oo ay ku jiraan 708 qof, dhammaantood xarumaha daryeelka, waxayna ogaatay in aan la helin caddayn xoog leh oo ah faa'iido. Daraasadaha way yaraayeen, natiijooyinkuna way isku khilaafeen, saamaynta dhinacyada kalena si liidi ah ayaa loo diiwaan geliyay. Haddii qofku jecel yahay udgoon fudud oo caadi ah, sida lavender-ka beerta ka soo baxay, taasi waa sabab wanaagsan oo lagu wadaago. Laakiin ma aha daawo.
 
-## Damqi caagate mannal cedeisaana
+## Sida loo bandhigo hawl dareen
 
-- **Gaab le waqdi doora** kaaduk TV alifa.
-- **Foocak gaca,** migaq deeqa, kaaduk gaba haak naharat essera hinnay warisa: "Kareem liyo. Gabah maxaaxo kiccintaa?"
-- **Inki iim inki waqdi cedeisa** num mabarsiise kalak.
-- **Wabalo dacrisa.** Lafafe fooca, rarraq le gabobah hinnay taamula meqe astooti kinni. Gaba kalto, fooca cissiyya hinnay madaqqo waaye tekkeh kalta.
-- **Uqqunhuk caba.** Konoy daqiiqah rarraq meqe waqdi kinni.
+- **Dooro wakhti aamusan** oo demi TV-ga.
+- **Ka soo hor dhig isagoo ka soo horjeeda,** magaca u sheeg, oo weydii ama ogeysii ka hor intaadan taabanin: "Waxaan haystaa subag. Ma rabtaa in gacanta la masaajo?"
+- **Mid mid bandhig** si aanu u culayn.
+- **Eeg jawaabta.** Wejiga oo jilicsan, gacmo nasan ama dhoolladeed waa calaamado wanaagsan. Gurasho, indha-cadaadis ama dhaqdhaqaaq xoog badan waxay ka dhigan tahay joogso.
+- **Gaaban ha ahaato.** Shan daqiiqo oo nabad ah waa kal-fadhi wanaagsan.
 
-Sissik wayta faagi inkih cato, [calm breathing](/games/calm-breathing/) innaah, gaba kaloonuh meqe gita takkeem xiqta. Sarir dafat addat yaalitte geyooh wagita [late-stage activities](/activities/late-stage/), kaaduk carrah rarraq wayte caalat addat wagita [late-day restlessness](/caregiving/late-day-restlessness/).
+Neefsasho wada jir oo tartiib ah, sida [neefsashada nabadda](/games/calm-breathing/), ayaa lagu dhammeyn karaa si ammaan ah. Fikradaha dheeraadka ah ee sariirta, eeg [hawwaanta marxaladda dambe](/activities/late-stage/), iyo haddii habeenka welwelku kor u kacayo, eeg [dhaqdhaqaaqa habeenka](/caregiving/late-day-restlessness/).

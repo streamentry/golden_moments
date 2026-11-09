@@ -1,33 +1,33 @@
 ---
 title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+seoTitle: "MIND Aduane ne Dementia: Nea Nhwehwɛmu Kyerɛ"
+description: "Nea nhwehwɛmu kyerɛ fa MIND ne Mediterranean aduane ho ne dementia ho, sɛnea adesua kɛseɛ bi kyerɛɛ sɛ ɛnyɛ nea ɛboa, ne sɛnea wobɛboa obi a ɔwɔ dementia sɛ ɔndi yie."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Adesua a wɔdi nnipa so akyire kyerɛ sɛ Mediterranean ne MIND aduane ka ho
+  kyerɛ sɛ dementia ntwentwen ba tase, nanso ɛnyɛ nyinaa. Adesua a wɔyɛe wɔ
+  mfirihyia abiɛsa mu wɔ 2023 mu, a wɔkyɛɛ MIND aduane, kyerɛɛ sɛ ɛnsesaa adwene
+  anaa brain scan no mu sɛ ɛyɛ mfaso sen aduane a wɔde toto ho. Ɛnam nneɛma biara
+  anaa nnuru biara nti dementia nntumi nkɔ. Ma nnipa a wɔwɔ dementia no, ɛho hia
+  paa sɛ wodi na wonom nsu ase yiye.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Nhwehwɛmu bi, nanso ɛnyɛ nyinaa, a wɔdi nnipa so akyire kyerɛ sɛ Mediterranean ne MIND aduane ka ho sɛ dementia ntwentwen ba tase."
+  - "Wɔ adesua a wɔyɛe wɔ 2023 mu wɔ mpanyin 604 ho, nnipa a wɔdi MIND aduane no nyaa mfaso biara wɔ adwene ho nnwinnade anaa brain scan mu sen nnipa a wɔdi aduane a wɔde toto ho no wɔ mfirihyia abiɛsa akyi."
+  - "National Institute on Aging ka sɛ nsɛm biara nni ho adanse sɛ nneɛma bi a wodi anaa wompɛ no nntumi nnwene Alzheimer's, na nhyehyɛe biara anaa nnuru biara nso nnwene no a wɔayɛ adanse ho."
+  - "Aduane a aba, nkɔm, ɛbɛ, aburow a wɔsɛe ne nsuo bi mu ka ho boa koma yiyedi, na ɛtumi boa ma nsɛnkyerɛnne te sɛ mogya a ɛyɛ den ne shuga."
+  - "Ma nnipa a wɔwɔ dementia no, nneɛma a wobɛtumi de nsa ahwe, nsɔnnɔ a ɛkyerɛ, aduane a ɛyɛ dodo ne nsuo a wɔma daa daa no hia sen aduane biara."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "MIND aduane tumi wene dementia anaa?"
+    a: "Wɔnnyinkyɛ sɛ ɛtumi yɛ saa. Adesua a wɔdi nnipa so akyire kyerɛɛ sɛ MIND aduane ka ho sɛ dementia ntwentwen ba tase, nanso mfirihyia abiɛsa a wɔyɛe wɔ 2023 mu a wɔkyɛɛ mmara no kyerɛɛ sɛ ɛnsesaa adwene nnwinnade anaa brain scan no mu sɛ nnipa a wɔdi MIND aduane ne nnipa a wɔdi aduane a wɔde toto ho nyaa nsesaeɛ kɛseɛ biara. Nnipa a wɔwɔ ibiara mu no yɛɛ yie kakra, na wɔn mu biara tuu ahoɔden bɛyɛ pɛ."
+  - q: "Ɛdɛn na MIND aduane ne Mediterranean aduane di nkyɛn?"
+    a: "Mediterranean aduane de nkɔm, aburow, nkɔm a wɔsɛe, aba, nam ne ɔsaa aduro a wɔfa ayɛ, na ɛnte mmoa a ɛyɛ den ne ɛdɛ a ɛyɛ dodo. MIND aduane fa DASH aduane a ɛboa mogya ho kɔ ne mu na ɛma ɛhyɛ nkɔm a ɛyɛ ahahan ne aburow nso so ikyerɛ, bere a ɛmfa mmoa a ɛyɛ den, ɛdɛ, foforo, ne nneɛma a wɔtwa wɔ amanneɛ mu so nni."
+  - q: "Nneɛma anaa nnuru bi wɔ hɔ a ɛbɛtumi asiw Alzheimer's ano?"
+    a: "Dabi. National Institute on Aging ka sɛ nsɛm biara nni ho adanse sɛ nneɛma bi a wodi anaa wompɛ no nntumi nnwene Alzheimer's anaa adwene a ɛsesa wɔ bere a ɔkɔ akyiri ho, na nhyehyɛe biara anaa nnuru biara nso nnwene Alzheimer's a wɔayɛ adanse ho. Fa wo ho ka kyerɛ dɔkotafo ansa na wofa nnuru biara."
+  - q: "Nneɛma bɛn na ɛyɛ mfasoɔ sɛ obi a ɔwɔ dementia bedi?"
+    a: "Nneɛma a wɔyɛ nkakrankakra, te sɛ sandwich nkyene, akokɔ nkyene, nkyene a wɔatwa, anaa nhwiren a wɔayɛ ngu, yɛ mfasoɔ sen sɛ wobɛde afɔdeɛ bedi. Sɛ ɛyɛ den sɛ obi bɛnwe anaa anom a, nneɛma a ɛyɛ dodo te sɛ nkwan a wɔakɔ nkyene, apple sauce anaa cottage cheese boa. Sɛ obi twe anaa ɔbɔ sɛ ɔredi a, bisa dɔkotafo sɛ ɔnhwɛ sɛ ɛbɛyɛ sɛ ɔnom anaa ɔnwe yie."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Ebia woakenkan sɛ aduane a ɛyɛ "brain-healthy" betumi abɔ Alzheimer's ho ban. Nokorɛ ne sɛ ɛyɛ kakra. Nneyɛe bi a wɔde toto ho kyerɛ sɛ ebetumi ama asiane sua kakra wɔ adesua a wɔdi nnipa so akyire mu, nanso adesua a ɛyɛ mfaso paa a wɔayɛ kɔsi seesei nkyerɛɛ sɛ ɛnyɛ nea ɛboa pefee. Saa krataa yi kyerɛkyerɛ ne nyinaa, na afei ɛkɔ nea ɛho hia sen biara ma obi a ɔwɔ dementia dada: sɛ ɔdi na ɔnom nsu ase yiye, ne sɛ ɔnnya anigye wɔ so.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Eyi yɛ amanneɛ a ɛyɛ ade wɔ so, na ɛnyɛ ayaresa afotu. Kasa kyerɛ dɔkotafo anaa registered dietitian ansa na wosesa wo aduane anaa wo wɔ obi aduane. Hwɛ yɛn [nkyerɛkyerɛ a ɛfa ayaresa ho](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Mediterranean ne MIND aduane yɛ dɛn?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) kyerɛkyerɛ wɔn saa ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Mediterranean aduane:** nkɔm pii, aba, nkɔm a wɔsɛe, nkwan, nam ne ɔsaa aduro a wɔfa ayɛ, na aburow ne nkwan mmoa ne nnuru a ɛyɛ dodo sua.
+- **MIND aduane** (Mediterranean–DASH Intervention for Neurodegenerative Delay): ɛyɛ Mediterranean aduane ne DASH aduane a ɛboa mogya ho nkɔm. Ɛma nkɔm, titiriw nkɔm a ɛyɛ ahahan; ɛdɛ; aba a wɔsɛe; nkwan; nkɔsɔ; nam; ne ɔsaa aduro a wɔfa ayɛ. Ɛtwa aburow, nkɔm a ɛyɛ dodo, foforo, ɛdɛ a wɔyɛ wɔ ngu, anaa mmoa a ɛyɛ den so.
 
-## Do these diets lower dementia risk?
+## Ɛma aduane yi tew dementia asiane so anaa?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Adanse no yɛ nhwɛsoɔ. NIA ka sɛ adesua bi, nanso ɛnyɛ nyinaa, kyerɛɛ sɛ Mediterranean ne MIND aduane ka ho sɛ dementia ntwentwen ba tase sen aduane a ɛwɔ mmoa a ɛyɛ den, saturated fat ne shuga pii a wɔdi wɔ Western mmusuakuw mu.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024 Lancet Commission hwehwɛɛ nhwehwɛmu no mu yie ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Nhwehwɛmu bi a wɔyɛe wɔ cohort adesua mu kyerɛɛ sɛ aduane a ɛyɛ mfaso kɛse ka ho sɛ dementia ntwentwen ba tase bɛyɛ 20%.
+- Nhwehwɛmu kɛseɛ bi a wɔyɛe wɔ cohort abiɛsa mu kyerɛɛ sɛ nnipa a wɔdi MIND aduane mu pefee ntwentwen dementia asiane.
+- Nanso Swedish adesua bi a ɛdii nnipa 28,025 a wɔwɔ mfirihyia 40 mu akyi bere a ɛyɛ mfirihyia 20 nyinaa hyɛɛ nsɛm sɛ aduane a wɔkyerɛkyerɛ anaa Mediterranean aduane biara nni ntwentwen asiane.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Adesua a wɔdi nnipa so akyire ntumi nkyerɛ nea ɛde nea ɛba. Nnipa a wɔdi saa aduane yi mu pii nso wɔn ho yɛ soronko ahodoɔ, wɔn adesua, wɔn ahoɔden, ne sɛnea wonya ayaresa boasɛm no akyerɛ. Commission no kɔnkɔɔ so sɛ adanse no nni so sɛ aduane a ɛyɛ mfaso tumi nnwene dementia pefee, nanso ɛyɛ mfaso sɛ wodi nkɔm ne aba pii na wodi ɛdɛ a wɔyɛ ntwentwen bi ho pii ɛboa nnipa pii ayaresa, na ɛtumi ka asiane te sɛ nipa a ɛyɛ den, shuga ne mogya a ɛyɛ den. Ɛnam nea ɛte saa, commission no nnyɛ aduane ne [14 nsɛnkyerɛnne a ɛkyerɛ asiane](/brain-health/risk-factors/) no mu.
 
-## What did the 2023 MIND diet trial find?
+## Dɛn na MIND aduane adesua a wɔyɛe wɔ 2023 mu kyerɛɛ?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Nhwehwɛmu a ɛyɛ den sen nea wɔayɛ kɔsi seesei ne randomized adesua a wɔkyerɛɛ wɔ New England Journal of Medicine mu wɔ 2023 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Hwan:** mpanyin 604 a wɔn mfirihyia ne 65 anaa ɛboro saa wɔ Chicago ne Boston mpɔtam hɔ, a wɔnni adwene nsɛnnennen, a wɔn abusua mu obi bi wɔ dementia, a wɔn nipadua yɛ kɛse, na wɔn aduane ansa na ɛnyɛ yie.
+- **Nea wɔyɛe:** mfirihyia abiɛsa, fã bi di MIND aduane, na fã foforo di wɔn aduane a wɔde toto ho. Wɔka kyerɛɛ nnipa nyinaa sɛ wɔntew nkɔm a ɛdɔɔso nsa 250 ɛda biara, na registered dietitian boaboaa wɔn daa daa.
+- **Nea efi mu bae:** adwene nnwinnade mu nsɛm kɔɔ so yɛe kakra wɔ **nnipa nyinaa** mu. Nsesaeɛ a ɛda fã abiɛsa no ntam no yɛ kakra na **ɛnyɛ nea wɔbɛkyerɛ sɛ ɛwɔ mfaso ampa**. Brain scan no nso kyerɛɛ sɛ nsesaeɛ a ɛba fã mmienu no mu yɛ pɛ.
+- **Nipadua:** fã mmienu no nyinaa tew kilogram 5 (bere a ɛyɛ pound 11).
 
-### Why might the trial have found no difference?
+### Adɛn nti na adesua no nyaa nsesaeɛ biara?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Nhwehwɛfoɔ no kyerɛɛ nsɛnkyerɛnne bi. Ebia fã a wɔde toto ho no nso sesaa wɔn aduane, esiane sɛ wɔn nipadua tew pɛ. Bere a wɔsan yɛ adwene nnwinnade no nso tumi ma nsɛm yɛ yie kwan so, esiane sɛ nnipa rehyɛ wɔn ho ho. Mfirihyia abiɛsa nso ebia nnyɛ mfirihyia pii. Nnipa a wɔyɛ adesua no pii yɛ nnipa a wɔasua wɔ sukuu kɛse, na wɔn yɛ Europe nnipa mu, enti nsesaeɛ no ebia ntumi nfa nnipa nyinaa nnyɛ.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Enti ɛyɛ nokorɛ sɛ MIND aduane anyɛ mfaso sen aduane a wɔde toto ho a wɔde kyerɛ nkɔm a ɛyɛ kakra wɔ mfirihyia abiɛsa mu. Eyi nkyerɛ sɛ aduane a ɛyɛ mfaso nyɛ hwee, nanso ɛnkyerɛ sɛ obi bɛtumi ahwɛ aduane biara a wɔde bɛtew dementia asiane.
 
-## What about specific foods and supplements?
+## Ɛdeɛn ne nneɛma a wɔayɛ pefee ne nnuru?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA ka sɛ nsɛm biara nni ho adanse sɛ nneɛma bi a wodi anaa wompɛ no nntumi nnwene Alzheimer's anaa adwene a ɛsesa wɔ bere a ɔkɔ akyiri ho. Wɔasua blueberries, nkɔm a ɛyɛ ahahan ne turmeric, nanso ɛnnyinkyɛ. NIA nso ka sɛ nhyehyɛe biara anaa nnuru biara nnwene Alzheimer's a wɔayɛ adanse ho, na wɛnnhyɛ no ma saa nneyɛe no. NIA hyɛ nkuran sɛ nneɛma a wɔayɛ adanse ho a wɔde gyina Alzheimer's ano no, ebetumi ayɛ ɔhaw, ayɛ sika a ɛnyɛ, anaa ɛbɛnyɛ abɔnten nnuro ho sɛ wɔde bedi, na ɛbetumi asɛe nnuru a wɔde ma wo. Fa wo ho ka kyerɛ dɔkotafo ansa na woyɛ biribiara ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Ɛdeɛn na aduane bɛtumi ayɛ yie na ɛnyɛ anigye?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Ma nnipa a wɔayɛ mfirihyia pii no, ɛho hia sɛ aduane no ma ɔhyira, ɛyɛ nea wɔn ani gye na ɛyɛ anigye, na ɛnyɛ nhyehyɛe a wɔde ahoɔden ahyɛ so:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Hyehyɛ aduane wɔ nneɛma a wopɛ so** a ɛfiri Mediterranean akwan mu: nkɔm, aba, ɛdɛ, nkwan, nam ne ɔsaa aduro a wɔfa ayɛ.
+- **Kɔ so de nneɛma a wopɛ no ma wo ho.** Anigye ne ani a wowɔ wɔ aduane ho ho hia, titiriw bere a wɔrekɔ akyiri.
+- **Di aduane wɔ nnipa ho** sɛ wobɛtumi. Nnipa a wɔdi aduane bom no yɛ nnamfonom pa.
+- **Yɛ aduane bom.** Sɛ wobɛsa nkɔm anaa wobɛhwehwɛ ɛmoa a wɔde yɛ aduane no, ɛyɛ adwuma a ɛbɛma wo nyinaa anya anigye. Hwɛ [adwuma a wɔyɛ afie](/activities/household-tasks/). Abusua ɛdɛ a wɔpɛ no nso bɛtumi aguare [adwene a ɛba mu bere a wɔkaa nneɛma a atwam](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Nkulaa nnipa nntew nkɔm anaa wɔnnyɛ kilogram a wɔrennkasa kyerɛ dɔkotafo. Nneyɛe a wɔnnyɛ aduane ɛyɛ nsɛnnennen kɛse. Hwɛ yɛn [nneyɛe a wɔnnidi](/brain-health/fasting/) ho amanneɛ.
 
-## How can you help someone with dementia eat well?
+## Ɛdeɛn na wobɛboa obi a ɔwɔ dementia sɛ ɔdi yie?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Ma nnipa a wɔwɔ dementia no, ɛho hia kɛse ne sɛ wodi na wonom nsu **ase yiye**. Alzheimer's Association ka sɛ nnipa bi nnwɛn sɛ wɔn di, sɛ wɔn ara adi, anaa sɛ nneɛma a wobɛpaw ahyɛ wɔn so ayɛ den, na sɛ aduane a ɛnyɛ yie ma nsɛnkyerɛnne a ɛwɔ adwene mu nyinaa kɔ so, ne sɛ ɔba a ɛnyɛ yie nso tumi ma nipadua tew ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Nkyerɛkyerɛ yi fi Alzheimer's Association, NIA ne Alzheimer's Society hɔ:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Ma nneɛma a wɔde nsa ahwe.** Nneɛma a ɛyɛ nkakrankakra a wobetumi de nsa afa, te sɛ sandwich nkyene, akokɔ nkyene, nkyene a wɔatwa, orange nkyene anaa nhwiren a wɔayɛ ngu, ma obi di ne ho sɛ ɔnnyɛ cutlery.
+2. **Fa mmara a ɛhyɛ ntoma mu sɛ wɔde nneɛma atwa.** Ahunuhunu a ɛsesa nso tumi ma ɛyɛ den sɛ obi bɛhunu aduane fi aduro so. Aduro a ɛyɛ fitaa anaa mpɔtam a ɛyɛ fitaa wɔ abɔdeɛ ase tumi boa. Mma nkyɛnkyɛn anaa ɛdɛ a ɛyɛ nkaebɔ ntwa aduane.
+3. **Ma nneɛma baako anaa mmienu pɛ bere biara.** Aduane a wɔde ahyɛ aduro ma ahyɛ nnipa ma ɛyɛ den.
+4. **Ma aduane no nyɛ basabasa.** Gyae TV no, ma nsa ntan wɔ ntoma no so, na ma bere pii. NIA kamfo sɛ wɔnnyɛ vinvin anaa nnyɛ ɔhaw.
+5. **Ma aduane ketewa ne nnuru ntɛm.** NIA kamfo sɛ aduane ketewa, a wɔde bere tiaa ne ho, ne nnuru a ɛyɛ dodo wɔ hɔ sɛ obi nni aduane yie ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Boa wɔn ma wɔnom.** Ma nsuo kakra anaa nsuo foforo a wɔnom ɛda so, ne aduane a nsuo pii wɔ mu te sɛ aba, nkwan, nufusu ne smoothies. Sɛ obi nnim nsuo a, NIA kamfo sɛ wosɔ juice, flavored water, nkwan nsuo, nufusu anaa decaf kɔfi anaa tea.
+7. **Hwɛ ɛhyeɛ.** Obi bi ntumi nhu sɛ aduane anaa nsuo ɛyɛ hyew.
+8. **Sesa nneɛma a wɔde di aduane ne nsuo.** Ebowa a ɛyɛ den a wɔde di aduane, ahoma kɛse a wɔde ntwa anaa nkwanfo nsuo ahyɛ aduane di ɔhaw. Mmɛma wɔn nteɛnteɛ.
+9. **Ma aduane ayɛ mmerɛ sɛ wɔbɛnwe anaa wɔanom.** Tew aduane ma ɛyɛ ketewa anaa ma aduane a ɛyɛ dodo. Sɛ obi twe anaa ɔbɔ sɛ ɔredi, ka kyerɛ ne dɔkotafo.
+10. **Yɛ ntɔ sɛ wɔde aduane bɛma wo.** NIA kyerɛ sɛ akɔnnaa a obi di aduane wɔ so tew ankasa bere a Alzheimer's rekɔ akyiri.
 
-### Signs to tell the doctor about
+### Nsɛnkyerɛnne a ɛsɛ sɛ wɔka kyerɛ dɔkotafo
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Nipadua tew, obi mpɛ aduane, abrɛ anaa mmerɛ nyɛ nsɛnkyerɛnne a ɛkyerɛ sɛ obi nni aduane yie. Alzheimer's Society ka sɛ ntini a ɛyɛ ayaw anaa ntini a wɔde yɛ, awerɛhow, awɛn, ne sɛ wɔsesa aduro bi nso tumi ma obi nnwɛn aduane ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Nsɛnkyerɛnne a NIA kyerɛ sɛ nsuo ayera mu ni ne sɛ ano ayɛ hyew, ɔtwe, abɔ a ɛyɛ ntɛm, ne nneɛma a wohu a ɛnyɛ nokorɛ ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Kasa kyerɛ dɔkotafo
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Ansa na wosesa wo aduane anaa obi a ɔnam wo nsa so no aduane, kasa kyerɛ dɔkotafo anaa registered dietitian, titiriw sɛ wowɔ shuga, ɔyare a ɛfa nsã ho, nsɛm a ɛfa nne ho, anaa wo nipadua atew bio. Ma obi a ɔwɔ dementia no, bisa dɔkotafo sɛ ɛdeɛn na ɛsɛ sɛ ɔdi na ɔnom nsu ɛda biara, ne sɛ dietitian anaa nnuru bi betumi aboa anaa.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Hwehwɛ mmoa ntɛm sɛ obi twe, anaa sɛ ne nkaebɔ nhyehyɛe ntɛm, ɔtwe, anaa ɔhwe ase.

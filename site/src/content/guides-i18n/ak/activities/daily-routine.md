@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Adwuma Ahodoɔ a Ɛyɛ Ɛyɛ Kɛse ma Obi a Ɔwɔ Dementia"
+seoTitle: "Dementia Da Nhyehyɛe: Da Bi a Wobetumi Asesa"
+description: "Da bi a wobetumi asesa ma obi a ɔwɔ dementia, a ɛwɔ aduane, adwuma ne ahome wɔ ɔkwan a ɛyɛ mmerɛ so, ne sɛnea wobetumi de wo ara nhyehyɛe yɛ na wosesa no wɔ nnansa a ɛyɛ den mu."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Adwuma a ɛyɛ mmerɛ bɛma wosɔre, aduane, nneɛma a wɔde hwɛ onipa ho ne
+  ahodie bɛda hɔ wɔ bere bɛn so. Ɛma adwuma a ɛyɛ anigye no ba bere a onipa
+  no ani ayɛ ye, na ɛma adwuma ne ahomegyei yɛ abɔ mu. Fa wo ara nhyehyɛe
+  yɛ nneɛma a onipa no adwene ne ne nkɔnsɔnkɔnso a ɔwɔ de ara ne bere nyinaa,
+  mma nhyehyɛe no nyɛ den, fa owia ne nneyɛe kakra da biara, na sesa nhyehyɛe
+  no sɛnea nnansa no hia.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Bere a wosɔre, aduane, ahoɔfɛ ne ahodie a wɔde ka ho bɛma da no yɛ sɛ bere a wohu."
+  - "Fa adwuma a ɛyɛ kɛse no bere a onipa no ani ayɛ ye no mu, a ɛbɛyɛ anɔpa."
+  - "Mma wo ara nnyinasoɔ mu nyɛ ma wo nyinaa ahyɛ ma. Ahomegyei ne ahomɛ bere nso yɛ nhyehyɛe no mu nneɛma."
+  - "Owia, nneyɛe a wɔyɛ da biara, ne sɛ wɔntwe ahomka tenten ne ahomka a ɛnyɛ bere a ɛnsɔ anadwo nkɔ ho ka mmerɛ so ahonyadeɛ a ɛba anadwo no ho."
+  - "Nhyehyɛe yɛ akwankyerɛ, na ɛnyɛ mmara. Sesa, tew anaa gyae biribiara wɔ nnansa a ɛyɛ den mu."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Dɛn nti na ɛboa sɛ obi a ɔwɔ dementia wɔ nhyehyɛe?"
+    a: "Da a ɛyɛ kyerɛkyerɛ mu ma nneyɛe kakra ne nneɛma a ɛde ahaw ba, na nea ɛma nkurɔfo a wɔwɔ dementia dwiriw ani. Alzheimer's Association kyerɛ sɛ da a wɔahyehyɛ ma ɛma wo ne wɔn a wodi wɔn ho ani ayɛ fi nsɛm a wobɛyɛ ho adwene kɔ nneɛma a mo baanu duru. Ɛboa obi a ɔhwɛ ho ara nso sɛ ɔbɛhyehyɛ ne da."
+  - q: "Dɛn ne nhyehyɛe a ɛyɛ yie ma obi a ɔwɔ dementia?"
+    a: "Nhyehyɛe a ɛte sɛɛ biara nni hɔ. Nea ɛyɛ yie kyɛ wɔ sɛ ɛma wosɔre, anidie ne anadwo ba bere bi a ɛyɛ mmerɛ, ɛma wɔhwɛ onipa no ho ne adwuma a ɛyɛ kɛse wɔ bere a ɔni ayɛ ye, ɛma ɔbɛfiri hɔ anaa ɔbɛte wo nkyɛn bere bi, na ɛma ɔbɛdi ahomegyei. Fa ɛno ayɛ wɔ ɔkwan a onipa no atra so da nyinaa so."
+  - q: "Ɛsɛ sɛ obi a ɔwɔ dementia da ahomka anadwo?"
+    a: "Ahomka tenten betumi aboa, de kɔ so awia. National Institute on Aging kyerɛ sɛ ɛsɛ sɛ wɔma ahomka tenten ne ahomka a ɛfiri da mu ɛnhyɛ wɔn anaa ɛnnyɛ ahunahuna ahoɔden, efisɛ sɛ onipa nni ahoɔden anaa ɔnnya ahomegyei yiye betumi ama ahonyadeɛ a ɛba anadwo no ayɛ den. Sɛ ahomegyei yɛ ɔhaw kɛse, kasa wɔ n'oyarefoɔ ho."
+  - q: "Dɛn na ɛbɛyɛ sɛ wɔn ampene so wɔ nhyehyɛe no mu?"
+    a: "Ma ɛnkɔ so kyɛ, na sɔ hwan bio anaa fa ɔkwan foforo so. Ampene betumi kyerɛ sɛ wɔayɛ hwee, wɔrehwehwɛ yare, wɔrehyɛ ɔhaw, anaa wɔnnyɛ nea ɛbɛyɛ kɔ. Nhyehyɛe no wɔ hɔ de ma da no ayɛ mmerɛ, enti fa so kɔ, na nfa so kɔ."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Adwuma a ɛyɛ mmerɛ ma da no yɛ sɛ bere a wohu: wostore, wodi aduane, wobɔ kakra adwuma, wodi ahomegyei, na wosɔ hyia bere a ɛbɛyɛ pɛpɛɛpɛ koro. Ɛtew ahyɛdeɛ ne nneɛma a ɛde ahaw ba, na ɛma wo nhyehyɛe bere a wobɛhwehwɛ nea wɛbɛyɛ ɛdi hɔ. Nhyehyɛe a ɛwɔ hɔ yi yɛ nhwehwɛmu, ɛnyɛ mmara. Fa sɛ wo hyɛ ase, na fa ɔbarima anaa ɔbaa a wohwɛ ho no ahyɛ no ho.
 
-## Why does a daily routine help?
+## Dɛn nti na da nhyehyɛe boa?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Nhyehyɛe a wɔsesa mmerɛ boa efisɛ nneyɛe a wɔbɔ bere pii di so yɛ mmerɛ sen nneyɛe foforɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) kyerɛ sɛ da a wɔahyehyɛ ma ɛma wɔnhwehwɛ nea wɛbɛyɛ kakra na ɛma wɔwɔ bere pii ma nneyɛe a ɛyɛ anigye, na ɛkyerɛ sɛ bere a wɔsɔre ne bere a wɔkɔ moa a wɔyɛ nyinaa betumi aboa wɔ ahomegyei ho nsɛnkyerɛnne ne ahonyadeɛ a ɛba anadwo no ho. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) kyerɛ sɛ wɔsɔre, wɔhodi ne wɔdi aduane bere a ɛyɛ pɛpɛɛpɛ da biara wɔ ahofama fie mu ho ho, na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nso kamfo sɛ wɔkɔ so de nneyɛe a wɔyɛ da biara.
 
-## A sample gentle day
+## Da bi a ɛyɛ mmerɛ
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Bere no yɛ nhwɛso nko. Sesa da no nyinaa kɔ anɔpa anaa kɔ anadwo sɛnea onipa no ahoɔden bere te.
 
-| Time | What happens | Ideas | On a harder day |
+| Bere | Dɛn na ɛba | Nneɛma a wobetumi ayɛ | Sɛ da no yɛ den |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Stori, hohoro, ntoma | Ɔkwan koro a wɔfa so da biara; hyehyɛ ntoma a wɔbɛtoto so no sɛnea wɔde bɛhyɛ ho | Fa ahwɛyiye ayɛ kakraa; ntoma foforɔ nko ara na ɛfata |
+| 8:45 a.m. | Aduane anɔpa | Kɔfi ne nsɛm a wɔka kyerɛ wo wɔ nkwa mu, anaa radio | Di aduane ka ho ɛnam nkɔmmɔ so; ɛnsɛ sɛ wokasa dodo |
+| 9:30 a.m. | Adwuma a ɛyɛ kɛse | Pete ntama, sie paanoo, yɛ turo, kɔ akɔnnɔ sɛ wobɛtu kwan anaa nantew | Adwuma a ɛyɛ tiaa, anaa ma wɔnhwɛ sɛnea wobɛyɛ no |
+| 10:30 a.m. | Ahomegyei bere | Nnwom, nwoma a ɛwɔ mfonini, anaa ɔtena ase wɔ fenestri ho | Ahome wɔ ne pɛ a ɔpɛ no mu |
+| 11:00 a.m. | Boa aduane ansa na wɔaduan | Sasa nkɔbɔ, gyina aduanekɔno | Wo na wobɛyɛ aduane; wɔn bɛka wo ho |
+| 12:00 p.m. | Aduane ne ahohoro | Pepɛ dabɔ, guan nkwan kakra | Gyae adwuma a wɔyɛ fie no |
+| 1:00 p.m. | Ahomegyei tiaa | Nan so, nnwom a ɛyɛ dodo | Saa ara |
+| 2:00 p.m. | Wɔ abɔnten anaa adwuma | Nantew, ɔtena wɔ fie ɔpon so, tɔ nsuo ma nnua, tow bɔɔlo | Fa ho ɔtena wɔ fenestri a owia wɔ so |
+| 3:00 p.m. | Nkɔmhyɛ anaa adwuma a ɛyɛ nhyehyɛe | Nkyɛn kɔkyerɛ, frɛ, [picture pairs](/games/picture-pairs/), nkyekyɛ mfonini, kaate | Nsa ne nnɔbae ne mo ho |
+| 4:30 p.m. | Ahomegyei bere ma ɛyɛ | Nkyekyɛ kɔ so, kanea so, adwuma a ɛyɛ dodo te sɛ ahoɔden ne ahoɔfɛ | Nnwom a ɛyɛ ɛfa, anyɛ nnyɛ dwiriw |
+| 5:30 p.m. | Anadwo aduane | Boa ɛbɔ anaa hyehyɛ aduane ho | Aduane a ɛyɛ mmerɛ, a wɔyɛ dada |
+| 6:30 p.m. | Anadwo a wɔne wɔn ho | Kaa mfe a atwam wɔ aduane ho, kaate, dwumadi a ɔpɛ, nsa a wɔhohoro | Nkɔmmɔ a ɛyɛ dodo |
+| 8:00 p.m. | Ɔkwan a wɔfa so kɔ moa | Hohoro anaa tɔ nsu, ntoma a wɔbɛhyɛ, nnwom a ɛyɛ dodo, kanea a ɛyɛ tiaa | Ma biribiara nyɛ ntɛm; ahomegyei na ɛdi kan |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Saa nhyehyɛe yi di Alzheimer's Association ankyerɛ nhyehyɛe a ɛyɛ ne nkyɛn ma ɔkwan a ɛwɔ mfiase ne ɛkɛseɛ mu, a ɛfiri ahwɛ onipa ho ne aduane anɔpa de kɔ adwuma a wɔyɛ, nantew, nnwom, ahomegyei ne nkyɛn kɔkyerɛ, kɔsi aduane anadwo, mmoa a ɛbɛkɔ anadwo ne nkyekyɛ a wɔyɛ de ma wɔbɛkɔ moa.
 
-## How do you build your own routine?
+## Dɛn na wobɛyɛ de hyehyɛ wo ankasa nhyehyɛe?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Fi ɔkwan a onipa no atra so da nyinaa so ase, na ɛnyɛ chart. Alzheimer's Association kyerɛ sɛ ɛsɛ sɛ wususu nneɛma yi ansa na wahyehyɛ:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Nea ɔpɛ, nea ɔmpɛ, ne ne botaeɛ ne ne nkɔnsɔnkɔnso.**
+- **Sɛnea ɔde ne da yɛɛ bere a atwam.** Obi a ɔsɔre ntɛm a ɔnam ne kyɛ kɔ tu kwan no, ɛsɛ sɛ ɔkɔ so tu kwan anɔpa. Obi a ɔdwane anadwo ntɔ nnɛ ara nnɛ ara anɔpa agyae 8 a.m.
+- **Bere a ɔni ayɛ ye.** Fa hohoro, akwantu ne adwuma a ɛyɛ kɛse no ka ho.
+- **Bere a ɛybɛtumi ama** aduane, hohoro ne ntoma, sɛnea biribiara renyɛ ntɛm.
+- **Bere a wɔsɔre ne bere a wɔkɔ moa a wɔyɛ nyinaa.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ɔfaso no kamfo sɛ wɔka adwuma a ɛwɔ fie, aduane, ahwɛ onipa ho, adwuma a ɛma ɔdi ahohosɛm, nneyɛe a ɛyɛ nnipa ho, ahomegyei a ɛyɛ ɔkwan a wɔfa so ne adwuma a ɛfiri nkurɔfo ne wɔn ho, sɛ ɛyɛ osetie a ɛfa nipasu ho, ne nneɛma a ɛba koro koro sɛnea obi a ɔrebɛfi kwan bɛba, de ka ho.
 
-### Try it for a week, then adjust
+### Sɔ hwɛ nnansa, na sesa
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Kɔ so kyerɛw nsɛm kakra da biara. Alzheimer's Association kamfo sɛ wubisa nneyɛe bɛn na ɛyɛ yie sen biara ne nea ɛma, sɛ bere bi na nneyɛe pii ka ho anaa nneyɛe kakra ka ho, ne sɛ nhyehyɛe a wɔyɛ ntɛm ne ɛyɛ anigye anaa ɛde ɔhaw ba. Kora nea ɛyɛ yie na sesa nea ɛnyɛ yie.
 
-### Make it visible
+### Ma ɛhyɛ mfonini
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Sɛ obi no betumi akenkan nsɛm ka, ɛboa sɛ wɔde papa kɛse anaa nkyerɛwde a ɛwɔ nsɛm kɛse a ɛkyerɛ da no nhyehyɛe, na ɛma ɔdi ahoyeraw. Ma ɛnyɛ tenten: "Aduane anɔpa. Tu kwan ne Sarah. Aduane. Ahomegyei." Obi bi tumi yɛ yie sɛ wonnim nea ɛbɛba kyɛn; Family Caregiver Alliance kamfo sɛ sɛ nhyehyɛe no de ɔhaw ba a, nkasa ho kɔsi bere a ɛrebɛba ntɛm.
 
-## How to adapt the routine
+## Ɔkwan a wɔfa so sesa nhyehyɛe no
 
-### Leave room to breathe
+### Ma ahomegyei wɔ hɔ
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Mma da nyinaa nnyɛ ma ɛfi ma. Alzheimer's Association kyerɛ sɛ onipa no hia adwuma ne ahomegyei a ɛyɛ pɛpɛɛpɛ na ɛbɛyɛ sɛ ɔbɛdi ahomegyei bere pii. Sɛ ɔyɛ sɛ ɔwɔ mmerɛ, ɔmfa ne ho nni adwene, anaa ɔnyɛ ɔdɔ no, sesa adwuma anaa ma ɔdi ahomegyei.
 
-### Protect the late afternoon
+### Hwɛ anadwo a ɛrebɛba ho yie
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Nkurɔfo pii yɛ den sɛ owia reguare. NIA kamfo sɛ owia a ɛyɛ owia wɔ ɔkwan a ɛboa, ɛyɛ mmerɛ wɔ da biara, ntɔ nsu, nnɔbae ne sigareti a ɛyɛ anadwo ne nsa a ɛbɛyɛ anadwo, ne ahomka tenten a ɛyɛ anadwo a wɔrenyɛ. Mmoa bi nso hu sɛ ɛboa sɛ wɔtwe ntɔn ahyɛ ntɔnkwa ne hyɛ akosua ansa na owia reguare. Hwɛ [ahoɔfɛ a ɛdi anadwo](/caregiving/late-day-restlessness/) ne [ahomka](/brain-health/sleep/).
 
-### Change it as needs change
+### Sesa sɛnea nneɛma a wohia sesa no
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Mfiase bere:** ma wɔnhyehyɛ nhyehyɛe no wɔ ne nkyɛn. Onipa no betumi apɛ nhyehyɛe a wɔakyerɛw a ɔno ankasa bɛhwɛ.
+- **Ɛkɛseɛ mu bere:** wo na wodi kan. Adwuma a ɛyɛ tiaa, ahomegyei a ɛyɛ pii ne adwuma pii a ɛyɛ dada; hwɛ [adwuma wɔ ɛkɛseɛ mu](/activities/middle-stage/).
+- **Awiei bere:** nhyehyɛe no bɛyɛ ahome, aduane ne ahwɛ onipa ho, ɛne nkyekyɛ kakra a ɛyɛ nnwom anaa nsa a wɔhohoro wɔ mu; hwɛ [adwuma wɔ awiei bere](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Sesa nneyɛe, na nnyɛ nhyehyɛe no ankasa
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Ma aduane, ahomegyei ne anadwo ayɛ pɛpɛɛpɛ, na sesa nneyɛe a ɛwɔ mu. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kamfo sɛ wɔsɔ hwehwɛ nneyɛe a ɛyɛ soronko da a ɛnyɛ pɛ nkyerɛ sɛ ɛntumi nyɛ anigye. Ɛbɛyɛ sɛ wo bɛyɛ aduane kɔ tɔ ɔkwan a ɛyɛ Dwowda, wo bɛyɛ akɔnnɔ Kwasida, na wo bɛhwɛ mfonini Wukuda. Yɛn [nneyɛe 101 a wobɛyɛ](/activities/ideas/) ne [adwuma a wɔyɛ fie](/activities/household-tasks/) betumi aboa ma nneyɛe no yɛ ma.
 
-## When the day goes sideways
+## Sɛ da no nyɛ yie
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Nnansa bi renyɛ nhyehyɛe biara. Yare, anadwo a wonnya ahomegyei yiye, dokota a ɔbɛba, anaa ewiem nsakrae betumi ama biribiara ahyɛ mu. Gyae nhyehyɛe no, fa nneɛma a ɛho hia (aduane, nsuo, ahomegyei, ahome) kɔ so, na san bɔ mmɔden bio ɔkyena. Sɛ onipa no ampene biribiara a, hwɛ [sɛ wɔka no ampene](/caregiving/when-they-say-no/). Ahomegyei a wobɛyɛ wɔ mu bere a wohome, te sɛ [ahomegyei a ɛyɛ nkɔmmɔ](/games/calm-breathing/), betumi aboa mo baanu nsan aba.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Wo ankasa nhyehyɛe nso ho hia. Fa ahomegyei ka wo ho, na bisa wo mmusua anaa adwuma a ɛboa wɔn a wɔhwɛ ho ara sɛ wɔbɛboa wo bere a wobɛtumi akɔ ahomegyei. Hwɛ [ahwɛ wo ho ara](/caregiving/caregiver-self-care/).

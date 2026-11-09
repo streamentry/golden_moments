@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Sɛ Wobɛsra Obi a Ɔwɔ Dementia wɔ Ayaresabea"
+seoTitle: "Sɛ Wobɛsra Obi a Ɔwɔ Dementia: Nea Wobɛyɛ"
+description: "Nea wobɛyɛ sɛ wobɛsra obi a ɔwɔ dementia wɔ nkaebɔ fie, ayaresabea anaa ɔsram hwehwɛ fie: nea wobɛfa, nneyɛe a ɛyɛ mmerɛw, mmere tiawa ne sɛnea wobɛkɔ a ɛyɛ yiye."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Sɛ wobɛsra obi a ɔwɔ dementia wɔ nkaebɔ fie anaa ayaresabea a, fa mu yɛ
+  mmerɛw: ka wo din bi bere a wobɛba, fa biribi a wobɛma wɔn ahɔho sɛ mfonini,
+  nnwom anaa bɔnsuo a wɔpɛ, na yɛ biribi a ɛyɛ mmerɛw bom. Mmere tiawa a
+  wobɛkɔ daa daa yɛ yiye sen mmere autɔ a ɛyɛ tiaa. Yɛ akwahosan a ɛyɛ bɔne
+  na ɛyɛ mmerɛ, sɛnea wɔn ne wo bɛkɔ no ayɛ mmerɛw ma mo nyinaa.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Fa din frɛ ɔno, na ka sɛ wo ne hena: 'Maame, ɛyɛ Susan, wo babaa.' Ɛnsɛ sɛ ɔbɛdwene nea ɛreba."
+  - "Fa biribi baako anaa mmienu a wobɛma wɔn ahɔho, te sɛ mfonini bɔkɔ, nnwom a wɔpɛ, kyɛw a ɛyɛ nwanwa anaa aduane a adwumfoɔ no ama wo sɛ ɛyɛ."
+  - "Mmere tiawa a wobɛkɔ daa daa yɛ yiye sen mmere tenten a wobɛkɔ bere a bi. Wo ba so ho hia sen nea wobɛka."
+  - "Wɔ ayaresabea mu no, ma adwumfoɔ krataa a ɛwɔ asɛm a ɛfa ɔno ho, na ka nea ɛsɛ sɛ dokota te ntɛm sɛ sɛnkyerɛnne a ɛbaa vɛ."
+  - "Hyehyɛ wo kwan a wobɛfi hɔ: ka sɛnea wobɛtena bere a ɛboro, fa ɔkwan koro a ɛyɛ pɛ bere nyinaa, na kɔ a wɔnnkɔ."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Dɛn na mede bɛfa bere a mereba obi a ɔwɔ dementia nkyɛn?"
+    a: "Fa biribi a wobɛma wɔn ahɔho sen biribi a wobɛka. Mfonini bɔkɔ tiaa, nnwom a wɔpɛ kɔ ɔbɔnsuo mu, kyɛw a ɛyɛ nwanwa, nsuo a wotwa nsa, anaa bɔkɔ a ɛfa adwuma a ɔdi kan ho ne ade a ɛyɛ nwanwa a adwumfoɔ no ama wo sɛ ɛyɛ, nyinaa yɛ. Wɔ nkaebɔ fie mu no, mfonini a ɛfa abusua ho ne nneɛma a wɔde ayɛ fie a ɛbɛma baabi no yɛ fie nso yɛ."
+  - q: "Ɛdeɛn na mɛtena bere a mereba obi a ɔwɔ dementia nkyɛn?"
+    a: "Biribi nni tɛkrɛma a ɛfata. Abusuafoɔ pii hu sɛ mmere tiawa a wobɛkɔ daa daa yɛ yiye sen mmere autɔ a ɛyɛ tiaa, efisɛ obi no bɛyɛ sɛ ɔbɛdwo ntɛm, na ɛnyɛ den sɛ ɔbɛkae sɛ woatena hɔ bere bɛn. Hwɛ sɛnea ɔyɛ sɛ ɔbɛdwo, na fi hɔ bere a nneyɛe no ka yiye."
+  - q: "Ɛdeɛn na mɛka bere a wɔka sɛ wɔpɛ sɛ wɔkɔ fie?"
+    a: "Di nea ɔrepɛ ho dwuma, na nea ɔka no ankasa nni ho. 'Mepɛ sɛ mekɔ fie' gyina hɔ kɛse sɛ, 'Me ho nnye' anaa 'Me ho nni ahoɔden.' Bisa sɛ, 'Ka wo fie ho asɛm ma me,' hwehwɛ mfonini ka ho, anaa ma wɔnantew anaa kyɛw. Sɛ woreka sɛnea ɛnyɛ yie sɛ wɔkɔ anaa woreyɛ nkyerɛkyerɛ no, ɛde ahohia ba daa."
+  - q: "Dɛn na ɛba sɛ wɔnnim me?"
+    a: "Ɛbɛyɛ yaw, nanso mma wo ho nsesa nea ɔka, na mma wo nka sɛ 'Woannim me?' Ka wo din ma no yɛ, na tɔ wo ho nsɛn bere a mo ne no di. Nnipa pii ka wɔ bere a wɔnnim obi ankasa no, wɔn ho yɛ wɔn anigye sɛ obi ba hɔ, na wɔn ho hwe ahoɔfɛ ba a ɔba no."
+  - q: "Ɛdeɛn na metumi aboa wɔ ayaresabea mu bere a ɔwɔ hɔ?"
+    a: "Sɛ wobɛtumi a, ka ho ne ɔno, boa no sɛ ɔnni ne nsuo, na fa mfonini ne nneɛma a ɛfata baa mu. Ma adwumfoɔ krataa a ɛka ne nneyɛe, din a ɔpɛ sɛ wɔfrɛ no, nea ɔpɛ, nea ɔmpɛ ne nea ɛma no yea. Ka ntɛm sɛ dokota bɛhwɛ sɛ obi no yɛ bɔne sɛ ɔsesa, anaa ɔyɛ sɛ ɔnyɛ ne ankasa, efisɛ ntɛm sɛ obi twe ho anyɛ yie ba no ka ɔyareɛ ho asɛm."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Sɛ wobɛsra obi a wo dɔ no wɔ nkaebɔ fie, ayaresabea anaa ɔsram hwehwɛ fie a, ɛbɛma wo adwene pii aba. Wobetumi ahyɛ wo ho nsow nea wobɛka, nea wobɛfa, anaa sɛ ɛho hia sɛ wobɛkɔ hɔ de, sɛ ɔrenkae sɛ woabɛba no. Ɛho hia. National Institute on Aging ka sɛ nnipa a wɔwɔ Alzheimer's [di anigye wɔ nnipa ho](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bere a wɔnkae nnipa a wɔbɛba wɔn nkyɛn no. Saa nkyekyerɛ yi de nneyɛe a ɛyɛ mmerɛw ma ansa na wobɛkɔ, bere a wɔrekɔ so, ne bere a wɔafi hɔ, ne akwankyerɛ a ɛfa ayaresabea mu ho.
 
-## How do I get ready for a visit?
+## Ɛdeɛn na mede me ho bɛyɛ ma ɔkwan a mɛkɔ so?
 
-A little planning makes the visit easier for both of you.
+Nhyehyɛe kakraa bi ma ɔkwan no yɛ mmerɛw ma mo nyinaa.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Yiyɛ bere a ɛyɛ.** Dementia Australia kyerɛ sɛ mmere a obi no yɛ hɔ kɛse, a ɛbɛyɛ sɛ nnipa pii ne anɔpa anaa ɛpo a ɛreba, ɛyɛ bere a wobɛkɔ. Family Caregiver Alliance kyerɛ sɛ hwehwɛ ayaresabea no nhyehyɛe na wo kɔ bere a [ɛnyɛ adwuma bere a, ɛyɛ ahomegyebere](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Ka kyerɛ adwumfoɔ.** Bisa sɛnea obi no ayɛ nnɛ, na hwɛ nea ɛwɔ nneɛma a wobɛdi, mmoa ne nneyɛe a wɔde wɔ abɔdeɛ mu ho mmara.
+- **Fa biribi kakraa bi wɔ wo kɔkɔbɔ mu.** Biribi baako anaa mmienu a wobɛma wɔn ahɔho no ase (hwɛ nkyerɛwee a ɛdi so no).
+- **Hyehyɛ asɛm kakraa bi.** Obi no betumi anni asɛm a ɔbɛka, enti fa wo ankasa bi bra: asɛm a ɛfa abusua ho, ewiem tebea, ɛbɔ kɔfotɔ, anaa ɔbɔfo a ɛsɛe.
+- **Hyehyɛ wo ho anidasoɔ.** Nkyɛn bɛyɛ anigye ne nkɔmhyɛ a ɛyɛ den. Ebinom nso bɛyɛ komm anaa ɛyɛ den. Ebiara yɛ nea ɛfata.
 
-## What should I bring?
+## Dɛn na mede bɛfa?
 
-Bring things to share, not things that test. Good choices include:
+Fa nneɛma a wobɛma wɔn ahɔho, na ɛnyɛ nneɛma a ɛbɛyɛ sɛ wobɛsɔ hwɛ. Nneɛma a ɛyɛ yiye ne saa:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Mfonini bɔkɔ kakraa** a mfonini no kɛse na ɛhyerɛn. Kyerɛw wɔ akyi sɛ adwumfoɔ betumi ahu.
+- **Nnwom a wɔpɛ** a wɔde ato foon so, bere a ɛwɔ ntadwa nkɔ anaa bɔnsuo ketewa.
+- **Biribi a ɛyɛ nwanwa a wobetumi akyere** te sɛ kɛntɛn a wɔde ahyɛ, ntoma anaa aboa a ɛyɛ nwanwa a obi no ani gye.
+- **Sare a wɔbɛsra mu** sɛ obi no pɛ sɛ wɔsra ne nsa.
+- **Magazine anaa mfoniniwa bɔkɔ** a ɛfa adwuma a ɔdi kan a ɔpɛ ho, te sɛ kuayɛ, kar, mmoa anaa ayɛyɛde.
+- **Bɔnsuo a wɔpɛ**, sɛ adwumfoɔ ka sɛ ɛyɛ mmerɛw.
+- **Nneɛma a wɔfa wɔ dan mu.** Family Caregiver Alliance kyerɛ sɛ fa nnua, nnua a wɔyɛ, mfonini a ɛfa abusua ho ne nwoma, anaa mfonini kɛse a ɛfa abusua mfonini a atwam ho.
+- **Tabletɔ**, sɛ wobɛhwɛ abusua mfonini anaa yɛ akwan a ɛyɛ mmerɛw bom.
 
-## What can we do together during a visit?
+## Ɛdeɛn na yɛbɛyɛ bom bere a wobɛkɔ?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Nneyɛe a wɔyɛ bom ma asɛm ka mmerɛ. Dementia Australia kyerɛ sɛ mohwɛ mfonini, yɛ dwumadie a ɛyɛ mmerɛw, dua nkuruwa, to nnwom, di bɔnsuo bi, anaa mo nyinaa nante mpɔtam ho. Nneyɛe a ɛka ho ara:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Hwɛ mfonini.** Ka nea wuhu: "Hwɛ ntadwa no." "Saa beaboo no yɛ fɛ." Ma obi no nkyerɛ kwan. Mfa "Ideɛn ne hena?" nka.
+2. **Gyina nnwom so na to dwom.** Nnwom a wɔn ani gye betumi ama anigye aba na ama mo nyinaa wɔ bere bi, ɛbɛyɛ sɛ kasa yɛ den.
+3. **Nante nantew tiaa.** Family Caregiver Alliance kyerɛ sɛ nante ayaresabea no ho, titiriw sɛ ɛwɔ akyiri bi a. Kɔnkɔ a wɔde kɔtɔ ntoma so nso yɛ.
+4. **Hyɛ nsa so.** Ɛbɛyɛ sɛ wode kyɛw kakraa ne nsa a wɔbɛsɛ so, ɛbɛma wo ho ayɛ hɔ.
+5. **Boa wɔ ho ahoɔfɛ mu.** Dementia Australia ka sɛ, sɛ obi no pɛ a, boa sɛ wobɛdwa ne tiri, wobɛpen ne nsa ntwene, anaa wobɛboa no ahyɛ ntadeɛ a ɔpɛ mu.
+6. **Di dwumadie a ɛyɛ mmerɛw.** Family Caregiver Alliance kyerɛ sɛ kɔ kaad, domino, anaa dwumadie biara a obi no de di kan. Wɔ tabletɔ so no, [Picture Pairs](/games/picture-pairs/) betumi ayɛ wɔ mfonini a wɔda so no, na wɔn bere nyɛ hwɛ. [Photo Pairs](/games/photo-pairs/) de mfonini a wopɛ no ayɛ dwumadie a wɔbɔ mfonini, na mfonini no da wo browser mu.
+7. **Hwɛ biribi bom.** Family Caregiver Alliance kyerɛ sɛ kɔ ɔsɛnkɔfɛ ne abɔde a ɛdi kan. Ɛwom sɛ obi no ntumi nte nsɛm no ase a, woteɛ ne nkyɛn na mo bɛgyina bere no mu.
+8. **Kenkan ma no tie.** Abɔdeɛ a ɛyɛ tiaa, kwan a ɛyɛ pɛ anaa abusua mu nkrataa.
+9. **Ntena ho pɛpɛɛpɛ.** Nsa a mo nyinaa fa ho anaa mo bɛtena ho nti ɛyɛ ahyɛaseɛ. Alzheimer's Association kyerɛ sɛ ɛyɛ mmerɛw sɛ wonnim nea wɔbɛka, na wo ho ba ho hia kɛse.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) betumi aboa sɛ asɛm regyae. Kaad biara wɔ mfonini ne asɛmmisa a ɛbue.
 
-## How should I talk during the visit?
+## Ɛdeɛn na mɛka bere a mereba?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Ka wo ho ankasa bere biara.** "Maame, ɛyɛ Kwame, wo babarima." NIA kyerɛ sɛ ɔhɔfo bɛka ne din tiatiaa ansa na ɔrebɛhyɛ asɛm ase.
+- **Bɛba ne nkyɛn afa anim** na tena ne ani ase.
+- **Mfa nsɛ nkɔ anaa mfa nsɛ ankɔ.** NIA kyerɛ sɛ ɔhɔfo ntɔ nkyerɛ obi no sɛ wɔn ho nsɛ anaa wɔnnkae biribi.
+- **Yɛ abɔadeɛ** bere a nsɛm yɛ den sɛ wobɛka. Ma no bere pii.
+- **Di ne nneɛma so.** Sɛ obi no nyɛ anigye anaa ɔnya ahosɔ, gye no adi ansa na wosesa asɛm no.
+- **Twe mmisa a ɛte sɛ nsɛmmisa a ɛyɛ nnwinnade** te "Wo kae me anaa?" anaa "Dɛn na woduaa wɔ anɔpa?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Hwɛ yɛn [nkitahodie a ɛfa nkasa ho](/caregiving/communication-tips/) wɔ hɔ.
 
-## What do I do when they say "I want to go home"?
+## Dɛn na mɛyɛ sɛ wɔka sɛ "Mepɛ sɛ mekɔ fie"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Di nea ɛwɔ asɛm no akyi so (yɛn akwankyerɛ a ɛfa [sɛnea obi bɛtoa so abisa sɛ ɔbɛkɔ fie](/caregiving/asking-to-go-home/) no kɔ akyiri). Family Caregiver Alliance kyerɛ sɛ "Mepɛ sɛ mekɔ fie" yɛ ɔkwan a ɔfa so ka sɛ "Me ho nnye", na ɛkyerɛ mmuae te sɛ "Ka wo fie ho asɛm ma me" anaa "Dɛn na wo pɛ sɛ ɛwɔ wo fie?" Dementia Australia ka sɛ "fie" betumi akyerɛ bere anaa baabi a obi no ahoɔfɛ, te sɛ ne mmofra mmere.
 
-Try:
+Sɔ hwɛ:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- gyina ho hia sɛ wo ka: "Ɛte sɛ wo pɛ wo fie."
+- ma ahoɔfɛ ba wɔ nkɔsoɔ mu, sɛ ɛye sɛ wobɛma ne nsa a
+- hwɛ mfonini anaa ka wo abusua fie ho asɛm
+- ma wɔnantew, nsuo anaa ɔbɔfo
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Mfa nkɔ nka anaa nkyerɛkyerɛ sɛ nea ɛma wɔntumi nkɔ. Ɛnboa, na ɛde ahohia ba daa.
 
-## How long should a visit be?
+## Mmere tenten a wobɛkɔ bɛyɛ sɛn?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Ɛyɛ yiye sɛ mmere tiaa, nanso ɛtɔ so pii. Family Caregiver Alliance ka sɛ obi no nnim sɛ woatena hɔ nsɛnnsɛ anaa nnɔnhwerew, na ɔka sɛ mmere mmiɛnsa a wobɛkɔ a ɛyɛ tiaa wɔ nnawɔtwe biako mu yɛ nea ɛyɛ sen ɔkwan a wobɛkɔ pɛɛ bere tenten bɛyɛ. Dementia Australia ka sɛ biribiara nni nkɔso kɛse bere a wobɛkɔ anaa bere a wobɛtena hɔ.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Wɔ nnawɔtwe a ɛdi kan a wɔde obi a ɔwɔ dementia kɔ ɔsram hwehwɛ fie no mu no, Family Caregiver Alliance kyerɛ sɛ kɔ bere pii, na afei ma nkɔ nhyehyɛe bi a ɛyɛ pɛ mu. Bisa adwumfoɔ sɛnea wɔhwɛ.
 
-## How do I leave without upsetting them?
+## Ɛdeɛn na mede bɛkɔ a menyɛ obi no awerɛhoɔ?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Akɔ no bere ara na ɛyɛ den sen biara. Dementia Australia kyerɛ sɛ:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Ka sɛ wobɛtena bere bɛn bere a wobɛba.** "Metumi atena hɔ dɔnhwer baako, afei mɛkɔ adwadie."
+- **Fa dwumadie bi sɛ ɔkwan a ɛyɛ pɛ de awie.** "Sɛ yɛwie saa nnwom yi a, mɛkɔ."
+- **Fa bere a wobɛdi anaa dwumadie bi ntaa,** anaa bisa adwumfoɔ sɛ wɔmmoa obi no sɛ ɔnkɔ nea ɔbɛyɛ foforɔ.
+- **Ma akwaaba no ayɛ tiaa na ɛyɛ pɛ bere nyinaa.** Sɛ woyɛ ahoho, kɔkɔ ne "ɛnyɛ den sɛ meyɛ bere tiaa" no, ɛde ahohia ba daa wɔ akwaaba a ɛdi so no mu.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Wo kɔ akyi no, ɛyɛ nea ɛbɛyɛ sɛ wobɛwɔ awerɛhoɔ. Ma wo ho nnyɛ. Sɛ obi no ayɛ komm a, adwumfoɔ betumi aboa no ada ase ntɛm.
 
-## Visiting someone with dementia in the hospital
+## Ɔwɔ dementia a ɔwɔ ayaresabea mu a wobɛsra no
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Ayaresabea yɛ nsɛnnsɛ, ɛnyɛ nea wɔbɛn na ɛma nnipa pii a wonnim mo. Ɛyɛ den ma obi a ɔwɔ dementia. NIA akwankyerɛ a ɛfa [sɛnea wɔbɛkɔ ne obi a ɔwɔ Alzheimer's ayaresabea](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ho kyerɛ sɛ:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Ma obi ntena ne nkyɛn** sɛnea ɛbɛyɛ kɛse: abusua mu obi, ɔdamfo a ɔde ne ho to mu anaa ɔsoafoɔ a wɔtua ka.
+- **Ma adwumfoɔ krataa a ɛfa obi no ho** a ɛka ne nneyɛe, din a ɔpɛ sɛ wɔfrɛ no, nea ɔpɛ ne nea ɔmpɛ, nneɛma a ɛbɛyɛ sɛ ɔsɔre, ne sɛnea wɔhunu sɛ ɔyɛ komm no ho. Fa nkyerɛwee no bi wɔ dan mu ne wɔ adwumfoɔ tebea no so.
+- **Boa no sɛ ɔdi ne ɛmu na ɔnom nsuo.** Obi a ɔayɛ kɔ so no betumi ayɛ ɔsɛnkyerɛ wɔ ayaresabea. Bue nneɛma, boa wɔ ɛmu, di ɛmu bom, na ma nsuo.
+- **Fa nneɛma a ɛma obi ahoɔfɛ** te mfonini anaa nneɛma a ɛfa honhom ho.
+- **Ma nnyɛ bɔnsuo.** Gyae TV no na tew foon ne intercom no nne.
+- **Sɔ nneyɛe a ɛma ahoɔfɛ ba** so, te sɛ nnwom a ɛma ahoɔfɛ ba, kenkan, mpaebɔ, to dwom anaa hwɛ mfonini a atwam.
+- **Kɔfra obi sɛ ɔntena ase** sɛ ɛyɛ ɔkwan a ɛyɛ mmerɛw, sɛ adwumfoɔ pene so.
+- **Ka ntɛm sɛ dokota bɛhwɛ sɛ obi no yɛ bɔne sɛ ɔsesa, anaa ɔyɛ sɛ ɔnyɛ ne ankasa.** NIA kyerɛ sɛ nsɛnkyerɛnne a ɛyɛ den a ɛsɛ sɛ obi twe ho anyɛ yie ba, a wɔfrɛ no delirium, betumi asi nsɛm te sɛ yare, ahoɔyaw, nsuo a ɛnnim anaa nnuro a ɛbɛyɛ yaw, na ɛhwehwɛ ayaresabea mmoa.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Mmere tiaa a wɔ hɔ, ɛnyɛ nea ɛyɛ den, a obi a wonim wo ne nnwom a ɔpɛ bɛyɛ ayaresabea da no mu ahoɔfɛ a ɛboro nea ɛma no nyɛ yie.
 
-## Bringing children on a visit
+## Mmofra a wɔde bɛkɔ
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Mmofra betumi ama ahoɔfɛ aba kɛse. Kyerɛkyerɛ wɔn ansa na wɔrekɔ kɔ, de asɛm a ɛyɛ mmerɛw ne nokware ka, ma mmere no nyɛ tiaa, na de adwuma bi ma wɔn, te sɛ wɔbɛkyerɛ ɔwɔwɔ bi anaa wɔde mfonini bi ma obi. NIA ka sɛ mmofra ne nnipa a wɔwɔ Alzheimer's betumi ani gye nneyɛe a ɛyɛ mmerɛw bom, te sɛ mfonini bɔkɔ hwehwɛ anaa nnwom tie. Dementia Australia ka sɛ mmofra a wɔyɛ ketewa no, fa aduane kakraa anaa nneɛma a ɛma wɔn ani nnye a wɔn ho bɛhyɛ no ma.
 
-## Take care of yourself too
+## Di wo ho akwan nso
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ɛbɛyɛ den, na ɛde awerɛhoɔ ba sɛ wobɛkɔ, titiriw sɛ obi no asesa kɛse. Ɛyɛ yiye sɛ woba bere a ɛnyɛ pii sɛ ɛho hia, sɛ wobɛfa obi ba ka wo ho, anaa sɛ wofi hɔ ntɛm da a ɛyɛ den. Sɛ wɔ hyɛ wo ho ban ho akwankyerɛ a, hwɛ [wo ho hwehwɛ](/caregiving/caregiver-self-care/). Sɛ wo te akyirikyiri a, hwɛ yɛn akwankyerɛ a ɛfa [fon ne video frɛ](/activities/phone-and-video-calls/) ho.

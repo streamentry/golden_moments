@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Dwaneɛ Asɛm: Nkaebɔ Kɔfa, Nkrasɛm Nhoma ne Mfonini"
+seoTitle: "Dwaneɛ Asɛm ma Dementia: Nsɛm a Ɛnyɛ Nhwehwɛmu"
+description: "Sɛnea wubetumi aka nkaebɔ ho asɛm wɔ obi a ɔwɔ dementia nkyɛn a worenhwehwɛ ho nsɛm: mfonini ho asɛm, nkaebɔ kɔfa ne nkrasɛm nhoma, ne nsɛm a ɛbɛma ɛnyɛ den."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Dwaneɛ ho asɛm kyerɛ sɛ wobɛn dwaneɛ wɔ mfonini, nneɛma, nnwom ne nsɛm so.
+  Yɛ nkaebɔ kɔfa, yɛ nkrasɛm nhoma a ɛyɛ kakra, anaa hwɛ mfonini bom. Mmisa
+  obi nsɛm: fa "Wokae sɛn?" ne "Ɔno da?" nni, na fa nkyerɛkyerɛ a ɛbue pɛ te sɛ
+  "Ka nea ɛfa eyi ho kyerɛ me." Nkitahodi a ɛyɛ anigye yɛ hia sen sɛ wobɛka
+  nneɛma no pɛpɛɛpɛ.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Dwaneɛ ho asɛm yɛ nkitahodi, ɛnyɛ sɔhwɛ. Pɛpɛɛpɛ nni hia; anigye ni hia."
+  - "Fa 'Wokae sɛn?' ne 'Ɔno da?' nni, na fa nkyerɛkyerɛ ne nsɛm a ɛte sɛ 'Ka ho asɛm ma me wɔ da no ho.'"
+  - "Nkaebɔ kɔfa a ɛwɔ nneɛma a ɛfiri onipa no asetena mu ma ne nsa ne nkitahodi ne bi a wɔbɛkyere."
+  - "Nkrasɛm nhoma boa abusuafo, nkɔhyiafo ne ayaresabea mpanimfo sɛ wɔbɛhunu onipa no, ɛnyɛ dementia nko ara."
+  - "Sɛ dwaneɛ bi ma awerɛhyɛ, ma ne ho ntɔ kan, na wɔ ahobrɛase ma wɔnkɔ akyiri."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Dwaneɛ ho asɛm ne dɛn ma nnipa a wɔwɔ dementia?"
+    a: "Dwaneɛ ho asɛm yɛ sɛ wobɛka dwaneɛ ne amanneɛ a wɔn ho asɛm, bere bi wɔde mfonini, nneɛma, nnwom anaa video boa. Ɛbetumi aba ɔkwan a ɔnipa baako ne obi nkitahodi, anaa nnipa pii bom. Ɛno kyerɛ sɛ nkitahodi a ɛyɛ anigye ne ɛwɔ hia, ɛnyɛ sɛ wɔbɛhwehwɛ nea onipa no tumi kae."
+  - q: "Adɛn nti na ɛnsɛ sɛ mebisa 'Wokae sɛn?'"
+    a: "Nsɛm a ɛhwehwɛ nkaebɔ betumi ama obi ayɛ ahu anaa ayɛ suro bere a wɔnnya nsesa. Nhyehyɛeɛ a National Institute on Aging de aka no kyerɛ sɛ ɛsɛ sɛ wosie nsɛm a ɛbisa sɛ obi kae ade anaa onipa bi bio. Mfa nsɛm no nka eyi ho nkyerɛ, na ma onipa no nna nea ɔpɛ ka."
+  - q: "Dɛn na ɛsɛ sɛ mefa mu wɔ nkaebɔ kɔfa mu?"
+    a: "Paw nneɛma a ɛyɛ den, a wɔn ho ntease, a ɛfa onipa no asetena ho: adwuma ho nneɛma, adwuma a wɔpɛ, kɛntɛn a ɔdɔ, kaad, nneɛma a wɔde kɔ asɛmpa, anaa mfonini a wɔatwa. Fa nneɛma a ɛyɛ mmerɛw, nneɛma a obi betumi aka, ne mfonini a ɛyɛ ankasa a ɛnyɛ sɛ wobɛtu mmɔden."
+  - q: "Sɛ wɔka nsɛm a ɛnteɛ bi a?"
+    a: "Gyae. Sɛ w'awofo kyerɛ sɛ mfonini no yɛ ne nuabaa bere a ɛyɛ ne abusua, ɛno ne yie. Sɛ wɔsesa no a, anigye bere no bɛyɛ sɔhwɛ. Di akyi nsɛm a wɔreka, na mo nyinaa nni anigye mu."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Dwaneɛ ho asɛm kyerɛ sɛ yɛn nyinaa di dwaneɛ ho asɛm bom. Nnipa dodow a wɔwɔ dementia no, wɔn nkaebɔ a ɛfa mfe a atwam ho no ye sen nea ɛbaa nnɛ mu. Mfonini, nneɛma a wɔde ko, nnwom ne nsɛm betumi abue saa nkaebɔ no na ama mo nyinaa nya asɛm a ɛyɛ anigye ka ho. Ɔkwan baako pɛ: ɛyɛ nkitahodi, ɛnyɛ sɔhwɛ.
 
-## What is reminiscence, and how is it different from quizzing?
+## Dwaneɛ ho asɛm ne dɛn, na ɛyɛ dɛn sɛ ɛne sɔhwɛ fa?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Dwaneɛ ho asɛm yɛ sɛ wobɛka nkaebɔ wɔ mfonini, nneɛma, nnwom anaa video so, sɛnea onipa no pɛ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) kyerɛ sɛ ɛyɛ sɛ wobɛka dwaneɛ ne nsɛm a wɔaka ho, de mfonini, nneɛma, video anaa nnwom boa, wɔ nhoma mu anaa tablet so. Sɔhwɛ yɛ adwuma a ɛsoma onipa sɛ ɔnnuanom bɔ ɔkyerɛ a ɛteɛ, na eyi betumi ama ɔnhu awerɛhyɛ mmom ɛnyɛ anigye.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) de sɛ ɛsɛ sɛ wosie nsɛm a ɛbisa sɛ onipa kae ade anaa onipa bi bio. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ka sɛ ɛsɛ sɛ wosie nsɛm a ɛhwehwɛ nkaebɔ a ɛyɛ mmerɛw, na wobɛka dwaneɛ a ɛyɛ kyɛn ho asɛm.
 
-| Instead of | Try |
+| Sɛ wobɛka | Sɛ wobɛka saa |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Wokae eyi?" | "Eyi te sɛ da a ɛyɛɛ anigye. Ka ho asɛm ma me." |
+| "Hena ne eyi?" | "Yei ne Rose wɔ mframa mu. Hwɛ ntadeɛ no." |
+| "Afe bɛn na eyi yɛ?" | "Eyi te sɛ fie a yɛtenaa mu. Ɛte sɛn wɔ hɔ?" |
+| "Daabi, yei nni Bill, ɛyɛ Frank." | "Ɔbɛyɛ ɔbarima a ɔwɔ anigye pii." |
+| "Wokaa saa ansa na yekae." | "Mepɛ sɛ mete abakɔsɛm no." |
 
-## How do you talk about photos without quizzing?
+## Ɛdeɛn na ɛsɛ sɛ wɔyɛ de kasa mfonini ho a wɔmmisa nsɛm?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Fi nea wohwɛ no ho kɔfa, na ma onipa no wɔ hia sɛ ɔbɛka biribi bio sɛ ɔpɛ.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Fa mo nyinaa atena ho.** Fa album no nyinaa hwɛ, na mo nyinaa hwɛ mu, na wɔnhwɛ mo sɛ mo ne obi bɛyɛ asɛmmisa wɔ ntabra so.
+2. **Yi mfonini kakraa bi.** Mfonini anum a ɛyɛ pa sen nhoma a ɛma. Mfonini a ɛyɛ kɛse na ɛyɛ pefee yɛ de.
+3. **Ka din no ho asɛm wo ho.** "Eyi ne wo ne Papa wɔ w'awareɛ da no" yi ahobrɛaseɛ no.
+4. **Ka nneɛma a wohu ho asɛm.** Ntoma, kar, aduane, ewiase, nnipa mmofra. "Ɛyɛ kar kɛse. Ɛte sɛ ɛwɔ hann."
+5. **Frɛ, na mfa nhyɛ mu.** "Ka ho asɛm ma me" anaa "Wohu nea ɛwɔ hɔ?" Ɛnyɛ mmerɛ sɛ ɔnkasa.
+6. **Di ne kwan akyi.** Sɛ ɔka biribi a ɛfiri baabi foforo ho a, di akyi.
+7. **Gyae bere a ɛrekɔ so yɛ anigye.** Kyere album no ansa na abrɛ aba.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Sɛ wopɛ mfonini a wɔaka ho nsɛm a wɔayɛ ma, hwehwɛ [kaad ho nkɔmhyɛ](/games/conversation-cards/). Sɛ wopɛ sɛ wobɛyɛ mo abusua mfonini ayɛ ahyehyɛde a ɛyɛ anigye, hwehwɛ [photo pairs](/games/photo-pairs/); mfonini a wopaw no te wɔ wo browser mu.
 
-## How do you make a memory box?
+## Ɛdeɛn na ɛsɛ sɛ wɔyɛ nkaebɔ kɔfa?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Nkaebɔ kɔfa yɛ kɔfa a ɛwɔ nneɛma a ɛfiri onipa no asetena mu, a wobɛfa wɔ wo nsa mu na wɔaka ho asɛm.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Paw kɔfa a ɛyɛ den.** Sɛ nkoko, ɔbɔx bi, anaa kɔfa a ɛyɛ nwoma.
+2. **Yi asɛm anaa nneɛma a ɛkɔ ho.** Adwuma, adwuma a wɔpɛ, baabi, afe, anaa nneɛma nyinaa bɛyɛ.
+3. **Hwehwɛ nneɛma a ɛyɛ mmerɛw.** Nneɛma baanu anaa mmienu na ɛfata.
+4. **Fa nkyerɛwde ne mfonini a ɛyɛ nsoɔ.** Kyerɛw nea wɔ hɔ mfonini ne nkyerɛwde a ɛyɛ den, na kɛse, na sie wɔ bea a ɛyɛ ɛsɛ.
+5. **Yi nneɛma bi bi firi mu.** Kyere ɔno bi, ka ho asɛm, na hwɛ sɛ nkitahodi no bɛkɔ he.
 
-Ideas to include:
+Nneɛma a ɛsɛ sɛ wofa mu:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Adwuma:** din ntoma, ɔkwan tool kakraa bi, adwuma ntoma, nhoma a wɔkyerɛw ho sika, ɔbaayɛfo ntoma, kuku nhoma a wɔde kɔ aduaneɛ.
+- **Fie:** kaad a wɔkyerɛw nkyerɛwde ho wɔ mu, nsa so kɛntɛn, ntama anaa atade a ɔdɔ.
+- **Anigyeɛ:** ɛnyɛ sɛ wobɛtumi aka ɛnya agyinamoa, bɔɔl, abɛ akɔkɔ kɛntɛn, nkoko nkyene.
+- **Baabi:** postcards, mfonini a ɛkyerɛ kwan, asɛnkabɔ a ɛfa ɔkurɔ no ho, nsɛmpa a wɔde hyɛ kurom.
+- **Abusua:** mfonini a wɔatwa, ɔmmofra adaworoma, awareɛ kɔfa.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Mma nneɛma a ɛyɛ mmerɛw, nneɛma a obi betumi aka, ne nneɛma a ɛbɛma awerɛhyɛ bɛba, gye sɛ wonim sɛ ɛyɛ.
 
-## How do you make a life-story book?
+## Ɛdeɛn na ɛsɛ sɛ wɔyɛ nkrasɛm nhoma?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Nkrasɛm nhoma yɛ album a ɛwɔ mfonini ne nkyerɛkyerɛ tiaa wɔ onipa no asetena ho. Ɛyɛ biribi a wobɛhwɛ wɔ hɔ bom, na ɛboa nnipa a wɔbɛsrɛ anaa ayaresabea mpanimfo sɛ wohu onipa no pefee.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Paw nhoma no kwan.** Binder a ɛwɔ sheet protectors mu, photo book a wɔde ahyɛ, anaa slideshow wɔ tablet so.
+2. **Yɛ nkyekyɛmu kakraa bi.** Mmofraso, sukuu, adwuma, abusua, baabi a wɔatena, nsɔhwɛ, anigyeɛ a ɛfa nnuane ne nnwom.
+3. **Ka mfonini baanu anaa baako wɔ kratafa biara so** ne nkyerɛkyerɛ tiaa a wɔbɛkenkan: "Mary, mfe 22, ɔfiri adwuma wɔ bank."
+4. **Ka nea ɔpɛ ne nea ɔyɛ daa.** "Ɔnom kɔfi a nsuo nam so. Ɔpɛ Sunday hymns. Ɔmpɛ TV a ɛbɔ dɔ." Eyi boa obiara a ɔhwɛ no.
+5. **Ma onipa no nnyina ho sɛnea ɔpɛ.** Ɔbɛtumi apaw mfonini, aka nsɛm, anaa ɔhwɛ nhoma no yɛ.
+6. **Kɔ so de ka ho.** Ɛnsɛ sɛ wɔawie ansa na ɛbɛboa.
 
-## More reminiscence ideas
+## Dwaneɛ ho adwuma foforo
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Gyina nnwom a wɔtetee wɔ wɔn mmofra bere mu** na kasa nea ɛfa ho. Hwɛ [nnwom ho adwuma](/activities/music/).
+- **Hwɛ fie mu video anaa TV a wɔpɛ wɔ wɔn mfe mu.**
+- **Yɛ aduane a wɔdidi wɔ wɔn mmofra bere mu** na ma ɔhoɔ no ma nkitahodi nkɔ so.
+- **Hwɛ kwan a ɛkɔ wɔ wɔn kurom ho** na tu ɔkwan a wɔn ho nnyinasoɔ.
+- **Hwɛ katalɔg anaa magazine a ɛyɛ dwaneɛ** na kasa ɛfa boɔ, ntama ne kar ho.
+- **Kyerɛw wɔn nsɛm** wɔ foon so, sɛ ɔma wo nkyerɛ, ma abusua no.
+- **Kasa bere a wowɔ video frɛ.** Yɛ mfonini bi wɔ video frɛ mu; hwɛ [foon ne video frɛ](/activities/phone-and-video-calls/).
+- **Fa mfonini anaa nneɛma bi kɔ wɔn hɔ bere a wodi kɔkɔ.** Eyi ma nkɔsɔ no wɔ asɛm bi ho; hwɛ [nkɔsɔ](/activities/visiting/).
 
-## What if a memory is painful?
+## Sɛ dwaneɛ bi ma awerɛhyɛ a?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Dwaneɛ bi betumi ama awerɛhyɛ, ahohia anaa suro. Sɛ onipa no ayɛ abufuw, gyae, boa no, na sesa asɛm anaa adwuma no ntɛmntɛm. Mmɛka nea ɛbaa ho asɛm. Family Caregiver Alliance ka sɛ ɛnsɛ sɛ wobɔ mmɔden sɛ wobɛma onipa no ate sɛ ɔnteɛ, na mmom ɛsɛ sɛ wobua nneɛma a ɔda no adi, a ɛyɛ nokware. Sɛ ɔka obi a awu sɛ ɔwɔ hɔ a, di ne nneɛma ho akyi: "Woyɛ wo nua so kɔfa. Ka ho asɛm ma me."
 
-## What does the research say?
+## Nhwehwɛmu no ka dɛn?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane review a ɛfa dwaneɛ ho asɛm](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), a ɛhwehwɛɛ trials 22 ne nnipa 1,972, hunuu sɛ mmuae no nyɛ pɛ, ɛyɛ kakraa, na ɛsesa sɛnea ɛbɛyɛ ne nea wɔde yɛ no. Ɛnhunuu nsɛnkyerɛnne sɛ ɛde awerɛhyɛ ba dementia nnipa so. Yɛkamfo dwaneɛ ho asɛm ɛfiri sɛ ɛbetumi ama bere a wɔnam so di nkitahodi yɛ anigye ne nea ɛyɛ hia, ɛnyɛ sɛ ɛbɛyɛ ayaresa. Ma nkɔ akyiri, hwɛ [nkitahodi ho nkyerɛkyerɛ](/caregiving/communication-tips/) ma nsɛm a ɛyɛ mmerɛw.

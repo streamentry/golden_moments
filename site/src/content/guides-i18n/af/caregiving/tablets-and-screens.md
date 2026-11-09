@@ -1,34 +1,33 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Tablet of foon opstel vir iemand met demensie"
+seoTitle: "Stel 'n tablet of foon op vir iemand met demensie"
+description: "Stap-vir-stap opstel van 'n tablet of foon vir iemand met demensie: sluit by een app, groter teks, minder kennisgewings, 'n eenvoudige tuisskerm, volume en privaatheid."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Maak 'n tablet of foon eenvoudiger voordat u dit oorhandig. Sluit dit by een app
+  met Geleide toegang op iPad en iPhone, of app-vasmaak op Android, of gebruik
+  Apple se Assistive Access vir 'n vereenvoudigde uitleg. Maak teks groter, demp
+  kennisgewings, hou net 'n paar apps op een tuisskerm, stel die volume, gebruik
+  'n stut en beperk app-toestemmings. Gebruik dit saam met aktiwiteite sonder skerm.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Geleide toegang (iPhone, iPad) en app-vasmaak (Android) hou die skerm op een app totdat u dit ontsluit."
+  - "Apple se Assistive Access bied 'n vereenvoudigde uitleg wat ontwerp is vir mense met kognitiewe beperkings."
+  - "Maak teks groter en skakel kennisgewings en opspringvensters af, sodat niks onderbreek of verwar nie."
+  - "Hou net 'n paar bekende apps op een tuisskerm en stel die volume voordat u begin."
+  - "'n Stut en 'n laaiplek wat nooit skuif nie, maak die toestel makliker om te gebruik en te vind."
+  - "Gaan app-toestemmings en datadeling na: die Amerikaanse HIPAA-wet beskerm gewoonlik nie wat op 'n persoonlike toestel gestoor word nie."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Hoe keer ek dat iemand met demensie op 'n iPad uit 'n app gaan?"
+    a: "Skakel Geleide toegang aan onder Instellings > Toeganklikheid > Geleide toegang en stel 'n wagwoord. Maak die app oop, tik drie keer op die boonste knoppie (of die Tuisknoppie op ouer iPads) en tik Begin. Die iPad bly in daardie app totdat iemand die wagwoord invoer."
+  - q: "Hoe sluit ek 'n Android-tablet by een app?"
+    a: "Skakel app-vasmaak aan in die Instellings-app, gewoonlik onder Sekuriteit (soms Sekuriteit en ligging) > Gevorderd > App-vasmaak. Maak dan die app oop, open Oorsig, tik die app se ikoon bo-aan en tik Vasmaak. U PIN, patroon of wagwoord is nodig om dit los te maak."
+  - q: "Is dit veilig om Geleide toegang op die persoon se eie foon te gebruik?"
+    a: "Wees versigtig. Apple sê Botsingsopsporing en Nooddienste is nie beskikbaar terwyl Geleide toegang aan is nie. As die persoon op hul foon staatmaak vir noodoproepe, gebruik Geleide toegang net terwyl u by hulle is, of oorweeg Assistive Access in plaas daarvan."
+  - q: "Hoeveel skermtyd is reg vir iemand met demensie?"
+    a: "Daar is geen vaste getal nie. Kort, gedeelde sessies saam met stap, musiek, huishoudelike take en gesprek maak 'n voller dag as lang tydperke alleen voor 'n skerm. As die toestel frustrasie veroorsaak of ander aktiwiteite verdring, gebruik dit minder."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +64,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+'n Tablet kan 'n mooi manier wees om foto's, musiek en eenvoudige speletjies te deel. Dit kan ook verwarrend wees: 'n verkeerde tik maak 'n ander app oop, 'n kennisgewing spring op, die teks is klein, of die skerm word donker in die middel van 'n speletjie. 'n Bietjie opstel deur u help die meeste van dit regmaak.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Hierdie stappe gebruik die ingeboude instellings op iPhone, iPad en Android. Die names van kieslyste kan verskil tussen sagteware-weergawes en toestelvervaardigers. As iets anders lyk, volg die gekoppelde Apple- of Google-bladsy vir u toestel. Doen die opstel self, voordat u saam gaan sit.
 
-## Should someone with dementia use a tablet or phone?
+## Is 'n tablet of foon reg vir iemand met demensie?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Dit hang van die persoon af. Baie mense geniet 'n tablet as iemand langs hulle sit, selfs al sou hulle dit nie alleen kon hanteer nie. Begin deur dit saam te gebruik, met een app oop, vir 'n paar minute. As dit plesier en gesprek bring, gaan voort. As dit verwarring of frustrasie bring, pas 'n fotoalbum, gedrukte bladsye of musiek dalk beter. Ons [drukbare aktiwiteite](/activities/printable/) is een alternatief.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+'n Tablet is gewoonlik makliker as 'n foon: die skerm en die foto's is groter, en dit is nie ook die persoon se noodlyn nie.
 
-## How do I lock a tablet or phone to one app?
+## Hoe sluit ek 'n tablet of foon by een app?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Gebruik Geleide toegang op iPhone en iPad, of app-vasmaak op Android. Albei hou die skerm op een app totdat u 'n kode invoer, sodat 'n verkeerde tik of veeg niks anders kan oopmaak nie.
 
-### iPad and iPhone: Guided Access
+### iPad en iPhone: Geleide toegang
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Volgens [Apple se instruksies vir Geleide toegang](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Maak **Instellings** oop, tik **Toeganklikheid**, tik dan **Geleide toegang** en skakel dit aan.
+2. Onder **Wagwoordinstellings** stel 'n Geleide toegang-wagwoord. U kan ook Face ID of Touch ID toelaat.
+3. Opsioneel: onder **Outomatiese sluit van vertoning** kies hoe vinnig die skerm tydens 'n sessie sluit, sodat dit nie in die middel van 'n speletjie donker word nie.
+4. Maak die app oop wat u wil gebruik.
+5. Tik drie keer op die sysknoppie (iPhone), die boonste knoppie (iPad) of die Tuisknoppie op ouer toestelle.
+6. Opsioneel: omkring enige dele van die skerm wat nie op aanraking moet reageer nie. Tik **Opsies** (of **Sessie-instellings**) om die volumeknoppies af te skakel of te keer dat die skerm draai.
+7. Tik **Begin**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Om die sessie te beëindig, tik weer drie keer op dieselfde knoppie, voer die wagwoord in en tik **Beëindig**. Apple sê dat dit op sommige ouer sagteware-weergawes dubbeltik is.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Belangrik:** Apple sê Botsingsopsporing en Nooddienste is nie beskikbaar tydens 'n Geleide toegang-sessie nie. Moenie Geleide toegang aanlaat op 'n foon wat die persoon dalk vir noodoproepe nodig het nie.
 
-### Android: app pinning
+### Android: app-vasmaak
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Volgens [Google se Android-hulp oor vasmaak van skerms](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Maak die **Instellings**-app oop.
+2. Tik **Sekuriteit** (of **Sekuriteit en ligging**), dan **Gevorderd**, dan **App-vasmaak**. As u dit nie kan vind nie, kyk na die hulpbladsye van u toestelvervaardiger.
+3. Skakel **App-vasmaak** aan. U PIN, patroon of wagwoord sal nodig wees om dit los te maak.
+4. Maak die app oop wat u wil hê. Veeg op na die middel van die skerm en hou vas om Oorsig oop te maak (of tik Oorsig met 3-knoppienavigasie).
+5. Tik bo-aan die app se voorskou die app se ikoon, en tik dan **Vasmaak**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Om met gebare-navigasie los te maak, veeg op en hou vas. Met 3-knoppienavigasie hou Terug en Oorsig vas. Met 2-knoppienavigasie hou Terug en Tuis vas. Voer dan u PIN, patroon of wagwoord in.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Is daar 'n eenvoudiger modus vir die hele iPhone of iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ja. Apple se Assistive Access vervang die gewone tuisskerm met 'n eenvoudiger een. [Apple beskryf dit](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as ontwerp om iPhone makliker te maak vir mense met kognitiewe beperkings om onafhanklik te gebruik, met groter items op die skerm en meer gefokusde funksies. Apple bied [dieselfde funksie op iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) aan.
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Wie stel dit op.** Apple stel voor dat 'n vertroude helper, soos 'n familielid of versorger wat die persoon ken, help om die apps en funksies te kies.
+- **Waar om te begin.** Gaan na **Instellings > Toeganklikheid > Assistive Access**, tik **Stel Assistive Access op**, en dan **Gaan voort**.
+- **Apps.** U kies watter apps verskyn. Sommige Apple-apps het spesiale vereenvoudigde weergawes, en die meeste ander apps kan in hul gewone ontwerp bygevoeg word.
+- **Uitleg.** Kies **Rye** ('n maklik leesbare lys) of **Rooster** (groter items wat foto's en ikone beklemtoon).
+- **Wagwoord.** U stel 'n aparte Assistive Access-wagwoord om in te gaan, uit te gaan of instellings te verander. Apple beveel aan dat u tydens opstel 'n herstel-Apple-rekening instel, want as 'n wagwoord vergeet word, moet die toestel sonder een teruggestel word.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access kan pas by iemand wat elke dag hul eie toestel gebruik. Geleide toegang of app-vasmaak is vinniger vir 'n gedeelde speelsessie.
 
-## How do I make text and pictures bigger?
+## Hoe maak ek teks en foto's groter?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Verhoog die teks- en vertoongrootte, en kyk dan of knoppies steeds op die skerm pas.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone en iPad.** Volgens [Apple se instruksies oor lettergrootte](https://support.apple.com/en-us/102453), gaan na **Instellings > Vertoning en helderheid > Teksgrootte** en sleep die skuifbalk. Vir selfs groter teks, gaan na **Instellings > Toeganklikheid > Vertoning en teks > Groter teks**. Apple sê dat baie groot teks sommige knoppies moeiliker kan maak om aan te raak, dus pas aan indien nodig.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Volgens [Google se hulp oor teks- en vertoninstellings](https://support.google.com/accessibility/android/answer/11183305?hl=en), maak **Instellings** oop en soek na **Lettergrootte**, en skuif dan die skuifbalk. Soek na **Vertoongrootte** om alles op die skerm groter te maak. U kan ook **Vetteks** aanskakel onder **Toeganklikheid > Vertoongrootte en teks**. Sommige apps volg hierdie instellings nie.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+In speletjies soos [Picture Pairs](/games/picture-pairs/) en [Find the Same](/games/find-the-same/) kan u ook minder teëls of keuses kies, wat dinge eenvoudiger op die skerm hou.
 
-## How do I stop notifications and pop-ups?
+## Hoe stop ek kennisgewings en opspringvensters?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Skakel kennisgewings af vir apps wat u nie nodig het nie, en gebruik Moenie Pla Nie tydens aktiwiteite.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone en iPad.** Gaan na **Instellings > Kennisgewings**, tik 'n app onder **Kennisgewingstyl**, en skakel **Laat kennisgewings toe** af ([Apple se gids oor kennisgewingsinstellings](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Om oproepe, waarskuwings en kennisgewings vir 'n tydjie stil te maak, maak Kontrolesentrum oop en skakel **Moenie Pla Nie** aan vanaf die **Fokus**-knoppie ([Apple se hulp oor Moenie Pla Nie](https://support.apple.com/en-us/105112)). U kan dit skeduleer onder **Instellings > Fokus > Moenie Pla Nie > Stel 'n skedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Veeg af vanaf die boonste deel van die skerm en tik **Moenie Pla Nie**, of gaan na **Instellings > Modusse > Moenie Pla Nie** ([Google se hulp oor Moenie Pla Nie](https://support.google.com/android/answer/9069335?hl=en)). Onder **Kennisgewingfilters** kan u kies watter mense en apps nog deurkom. Instellings verskil van toestelvervaardiger tot vervaardiger.
 
-## How do I make a simple home screen?
+## Hoe maak ek 'n eenvoudige tuisskerm?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Hou 'n paar bekende apps op een skerm en skuif die res uit die oog. Daar is geen enkele instelling hiervoor nie; dit gaan oor die verwydering van rommel.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Kies drie tot ses apps.** Byvoorbeeld foto's, musiek, 'n videoroep-app en een speletjie.
+- **Plaas hulle op die eerste skerm,** altyd op dieselfde plekke, en skuif al die ander na 'n tweede skerm of 'n vouer.
+- **Gebruik 'n eenvoudige, hoëkontrasagtergrond,** soos een kleur of een bekende foto, sodat die ikone uitstaan.
+- **Vee apps uit wat u nie nodig het nie.** Minder apps beteken minder kans op verwarring en minder data wat ingesamel word.
+- **Oorweeg Assistive Access** op Apple-toestelle as u wil hê die toestel moet dit vir u doen.
 
-## What about volume and sound?
+## Wat van volume en klank?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Stel 'n gemaklike volume voordat u die toestel oorhandig. Met Geleide toegang kan u die volumeknoppies afskakel, sodat dit nie tydens 'n aktiwiteit verander nie. Kyk dat gehoortoestelle in is en werk.
 
-## Where should the tablet live?
+## Waar moet die tablet staan?
 
-Give it a stand and a permanent charging spot.
+Gee dit 'n stut en 'n vaste laaiplek.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **'n Stut of hoesie** wat die tablet regop op die tafel hou, beteken dat niemand dit hoef vas te hou nie, en wys is makliker.
+- **Een laaiplek** wat nooit skuif nie, liefs 'n laaistut op 'n tafel in 'n kamer wat u elke dag gebruik. Die tablet is altyd gelaai en altyd op dieselfde plek.
+- **Verminder weerkaatsing.** Plaas die skerm weg van 'n helder venster.
 
-## How much screen time is okay?
+## Hoeveel skermtyd is reg?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Daar is geen regte getal minute nie. Mik na kort, gedeelde sessies as een deel van 'n volle dag wat ook beweging, musiek, huishoudelike take, gesprek en tyd buitekant insluit. Omdat besige aande late-dag-onrustigheid kan vererger, oorweeg om skermaktiwiteite vroeër in die dag te hou. Sien [kalm aktiwiteite in die laat middag](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+As u die tablet saam gebruik, eerder as om die persoon net te laat besig hou, bly dit sosiaal. Ons gids oor [saam speletjies speel](/caregiving/how-to-play-together/) verduidelik hoe.
 
-## How do I protect their privacy on the device?
+## Hoe beskerm ek hul privaatheid op die toestel?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Beperk wat apps kan insamel, en moenie aanvaar dat gesondheidsprivaatheidswetgewing dit dek nie. Die Amerikaanse departement van gesondheid en menslike dienste (HHS) [verduidelik](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) dat die HIPAA-reëls gewoonlik nie gesondheidsinligting beskerm wat op persoonlike fone en tablette gestoor of daardeur verkry word nie. In die meeste gevalle beskerm HIPAA ook nie data wat in apps vir persoonlike gebruik ingevoer word nie, tensy die app van 'n gedekte gesondheidsorgverskaffer, gesondheidsplan of een van hul sakevennote kom.
 
-HHS suggests:
+HHS stel voor:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- om onnodige of ewekansige apps te vermy, veral "gratis" apps;
+- om apps nie toegang tot ligging te gee nie, tensy hulle dit werklik nodig het, soos kaarte.
 
-Also consider:
+Oorweeg ook:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Gebruik 'n wagwoord** op die toestel, en hou 'n notas van dit op 'n veilige plek.
+- **Gaan toestemmings na** vir foto's, kamera, mikrofoon, kontakte en ligging, en skakel af wat 'n app nie nodig het nie.
+- **Kyk wat 'n app insamel** voordat u dit installeer. Ons gids oor [die keuse van demensie-apps en -speletjies](/caregiving/choosing-apps-and-games/) het 'n privaatheidslys.
+- **Wees versigtig met familiefoto's.** Deel net foto's wat die persoon gemaklik sou vind, en weet waar 'n app dit stoor. In [Photo Pairs](/games/photo-pairs/) bly die foto's wat u kies in u blaaier.
+- **Skakel in-app-aankope af** of verwyder betalingsbesonderhede van rekeninge wat die persoon gebruik.

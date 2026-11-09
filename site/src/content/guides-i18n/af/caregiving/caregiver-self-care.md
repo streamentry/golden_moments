@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Selfsorg vir versorgers: rustyd, steun en uitbranding"
+seoTitle: "Selfsorg vir demensie-versorgers: rus en steun"
+description: "Tekens van uitbranding, hoe u tydelike sorg en steungroepe kan vind, en gratis VSA-hulplyne, insluitend die Alzheimer’s Association 24/7 Helpline en die Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Om iemand met demensie te versorg is moeilik, en om na uself om te sien is
+  deel van die taak. Let op waarskuwingstekens soos uitputting, prikkelbaarheid,
+  swak slaap en om van vriende af weg te trek. Vra om spesifieke hulp, gebruik
+  tydelike sorg en sluit aan by ’n steungroep. Gratis hulp in die VSA sluit in
+  die Alzheimer’s Association 24/7 Helpline by 1-800-272-3900 en die Eldercare
+  Locator by 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Uitbranding wys dikwels as uitputting, prikkelbaarheid, swak slaap, hartseer en die versuim om na u eie gesondheid om te sien."
+  - "Tydelike sorg gee u ’n breek, van ’n paar uur tot verskeie weke, by die huis of in ’n sorgsentrum."
+  - "Vra om hulp met spesifieke take; baie mense wil help, maar weet nie hoe nie."
+  - "Die Alzheimer’s Association 24/7 Helpline (1-800-272-3900) bied gratis, vertroulike steun op enige tyd."
+  - "Die Eldercare Locator (1-800-677-1116) verbind u met plaaslike dienste, insluitend u Area Agency on Aging."
+  - "As u in ’n krisis voel, bel of SMS 988 (VSA). In ’n noodgeval, bel 112."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Wat is die tekens van uitbranding by versorgers?"
+    a: "Algemene tekens sluit in moegheid, oorweldiging of angs, maklik kwaad of ongeduldig word, slaapprobleme, hartseer of hopeloosheid, van vriende wegtrek, gereelde hoofpyn of pyn, en om u eie maaltye, oefening of mediese sorg te versuim. As tekens soos hierdie gereeld voorkom, praat met u dokter."
+  - q: "Hoe vind ek tydelike sorg naby my?"
+    a: "Begin met die Eldercare Locator (1-800-677-1116 of eldercare.acl.gov) om u plaaslike Area Agency on Aging te bereik, die ARCH National Respite Locator Service, of die Alzheimer’s Association Helpline by 1-800-272-3900. Familie, vriende en vrywilligers kan ook tydelike sorg bied."
+  - q: "Betaal Medicare vir tydelike sorg?"
+    a: "Vir iemand wat hospisiesorg ontvang, dek Medicare volgens die National Institute on Aging die meeste van die koste van tot vyf opeenvolgende dae tydelike sorg in ’n hospitaal of ’n vaardige verpleegfasiliteit. Meeste privaat mediese versekering dek nie tydelike sorg nie; Medicaid en sommige langtermynsorgversekeringsplanne kan help."
+  - q: "Is die Alzheimer’s Association Helpline werklik gratis en ook snags beskikbaar?"
+    a: "Ja. Die Alzheimer’s Association sê hul Helpline by 1-800-272-3900 is gratis, vertroulik en word 24 uur per dag, 365 dae per jaar deur personeel bemans, met hulp in baie tale. Kies 711 vir ’n relaisdiens in die VSA."
+  - q: "Is dit selfsugtig om ’n breek van versorging te neem?"
+    a: "Nee. Rus help u om te bly sorg, en tydelike sorg kan die persoon wat u versorg ook ’n verandering van geselskap en aktiwiteit gee. Baie versorgers sê later dat hulle wens hulle het vroeër hulp gevra."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+As u na iemand versorg wat met demensie leef, lees u hierdie waarskynlik laat, moeg, en met ’n lys van dinge wat u nog nie gedoen het nie. Dit is normaal. Om na uself om te sien is nie ’n luukse of ’n beloning vir die afhandeling van alles nie. Dit is wat u help om aan die gang te bly.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Hierdie bladsy verduidelik die waarskuwingstekens van uitbranding, hoe u ’n werklike breek kan kry, waar u steun kan vind, en gratis VSA-hulplyne wat u vandag kan bel.
 
-## What are the signs of caregiver burnout?
+## Wat is die tekens van uitbranding by versorgers?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Uitbranding sluip dikwels stadig in, so dit help om u eie waarskuwingstekens te ken. Die [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lys tekens van versorgerstres, insluitend:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- moeg, oorweldig of angstig voel;
+- maklik kwaad of ongeduldig word;
+- eensaam voel of van ander vervreemd voel;
+- slaapprobleme, of nie genoeg slaap kry nie;
+- hartseer of hopeloos voel, of belangstelling verloor in dinge wat u vroeër geniet het;
+- gereelde hoofpyn, pyn of ander fisiese probleme;
+- geen tyd hê om te oefen of gesonde kos vir uself te maak nie;
+- badens of ander persoonlike sorg oorslaan;
+- alkohol of dwelms misbruik, insluitend voorskrifmedisyne.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+Die [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) voeg tekens by soos ontkenning oor die siekte, woede teenoor die persoon (“hy is net koppig”), angs oor die toekoms, konsentrasieprobleme, en gesondheidsprobleme wat ’n tol eis. Die organisasie adviseer dat u met u dokter praat as u gereeld tekens soos hierdie het.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Die NIA se raad is om nie te wag totdat u heeltemal oorweldig is nie. Let vroeg op u tekens en tree daarop op.
 
-## What can I do today, in five minutes?
+## Wat kan ek vandag doen, in vyf minute?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Klein breekies tel. Geen van hierdie los uitbranding op nie, maar hulle kan u deur ’n moeilike middag help.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Gaan buitentoe.** Sit op die stoep of loop na die posbus terwyl die persoon veilig en rustig is.
+- **Asem stadig.** ’n Paar stadige asemhalings voordat u ’n moeilike vraag beantwoord. U kan ook ’n [Calm Breathing](/games/calm-breathing/)-oomblik met die persoon wat u versorg deel.
+- **Drink water en eet iets.** Dit is maklik om u eie maaltye te vergeet.
+- **Stuur ’n SMS aan een vriend.** Nie om iets te vra nie, net om in verbinding te bly.
+- **Sê iets vriendeliks vir uself.** Die NIA se [gids oor selfsorg](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) stel frases voor soos “Ek doen die beste wat ek kan,” “Ek is nie perfek nie, en dit is reg so” en “Ek sal die oomblikke geniet wanneer ons in vrede saam kan wees.”
 
-## What is respite care, and how do I get it?
+## Wat is tydelike sorg, en hoe kry ek dit?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Tydelike sorg (respytsorg) is korttermynsorg vir die persoon wat u versorg, sodat u kan rus. Die NIA se [bladsy oor tydelike sorg](https://www.nia.nih.gov/health/caregiving/what-respite-care) verduidelik dat dit van ’n paar uur tot verskeie weke kan duur en by die huis, in ’n gesondheidsorgfasiliteit of by ’n volwasse dagsorgsentrum kan plaasvind.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+Die [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) beskryf algemene tipes:
 
-| Type | What it is |
+| Tipe | Wat dit is |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Hulp in die huis | ’n Vriend, familielid, vrywilliger of betaalde metgesel of helper kom na die huis |
+| Volwasse dagsentrum | Beplande aktiwiteite soos musiek en kuns in ’n veilige groepsituasie; vervoer en maaltye word dikwels aangebied |
+| Oornagverblyf of kort verblyf | ’n Langtermynsorggemeenskap sorg vir die persoon vir ’n nag, ’n paar dae of ’n paar weke |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Wie betaal?** Volgens die NIA kan tydelike sorg van familie, vriende of vrywilligers niks kos nie. Professionele dienste hef fooie per uur of per dag. Vir iemand wat hospisiesorg ontvang, dek Medicare die meeste van die koste van tot vyf opeenvolgende dae tydelike sorg in ’n hospitaal of vaardige verpleegfasiliteit. Medicaid kan help. Meeste privaat mediese versekering dek nie tydelike sorg nie, hoewel sommige langtermynsorgversekeringsplanne dit wel doen.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Wenk:** Die Alzheimer’s Association beveel aan dat u tydelike sorgverskaffers in ’n nie-noodsituasie probeer, sodat hulle gereed is as u skielik hulp nodig het.
 
-## Where can I find help near me?
+## Waar kan ek hulp naby my vind?
 
-Several free US services can point you to local help.
+Verskeie gratis VSA-dienste kan u na plaaslike hulp wys.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer’s Association 24/7 Helpline: 1-800-272-3900.** Die [Helpline](https://www.alz.org/help-support/resources/helpline) is gratis en vertroulik, en word die hele jaar deur, 24 uur per dag bemans, met hulp in meer as 200 tale deur meertalige personeel of tolke. Kies 711 vir ’n relaisdiens. U kan praat oor gedragsveranderinge, versorgerstres, opsies vir tydelike sorg, plaaslike programme en meer, en vra vir ’n langer gesprek met ’n sorgkonsultant. Personeel gee nie mediese advies nie.
+- **Eldercare Locator: 1-800-677-1116.** Die [Eldercare Locator](https://eldercare.acl.gov/), ’n openbare diens van die Administration for Community Living, verbind u met dienste vir ouer volwassenes en hul families. U kan bel, SMS, aanlyn klets of e-pos na opgeleide personeel, of volgens plek soek. Dit kan u na u plaaslike Area Agency on Aging wys.
+- **ARCH National Respite Locator Service.** Die [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) help u om tydelike sorgverskaffers volgens staat te vind, en beveel aan dat u eers u State Respite Coalition of Lifespan Respite-program kontak as u staat een het. ARCH sê dit kontroleer nie verskaffers nie, so hersien hul ondervinding en agtergrond self.
 
-## How do I find a support group?
+## Hoe vind ek ’n steungroep?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Vra die Helpline of soek aanlyn na groepe naby u. Die Alzheimer’s Association [bedryf steungroepe](https://www.alz.org/help-support/community/support-groups) vir versorgers en mense wat met demensie leef, persoonlik en aanlyn, gelei deur opgeleide fasiliteerders. Baie plekke bied ook gespesialiseerde groepe aan, byvoorbeeld vir volwasse versorgers of vir mense met jong-aanvang- of vroeë-stadium-Alzheimer. Die organisasie bied ook ALZConnected aan, ’n gratis aanlyn gemeenskap waar versorgers raad deel.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Steungroepe kan ’n plek wees om sonder oordeel u hart uit te stort, praktiese wenke te kry van mense wat dit al beleef het, en minder alleen te voel. As die eerste groep nie pas nie, probeer ’n ander een.
 
-## How do I ask family and friends for help?
+## Hoe vra ek familie en vriende om hulp?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Wees spesifiek. Baie mense wil help, maar weet nie wat om aan te bied nie. Die NIA stel voor:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Hou ’n lys** van take wat ander kan oorneem, en laat mense kies.
+- **Begin klein** as vra moeilik voel.
+- **Pas die taak by die persoon aan.** Die neef wat van kook hou, bring Donderdae aandete. Die buurman wat goed is met vorms, help met papierwerk.
+- **Stuur ’n SMS of e-pos** as dit ongemaklik is om van aangesig tot aangesig te vra.
+- **Oefen ’n antwoord** vir wanneer iemand aanbied: “Dankie dat u vra. Dit is wat u kan doen.”
+- **Verwag ’n paar nee’s** en probeer om dit nie persoonlik op te neem nie.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ander idees: vra iemand om een middag per week by die persoon te sit, neem hulle op ’n kort uitstappie, of besoek en speel ’n spel saam. Ons [gids oor saam speel](/caregiving/how-to-play-together/) is maklik om met besoekers te deel.
 
-## What if something happened to me?
+## Wat as iets met my gebeur?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Maak nou ’n eenvoudige back-upplan. Die NIA stel voor dat u met familie of goeie vriende besluit wie sal instap, en ’n notaboek hou met noodnommers, medisyne, gedragswenke wat werk, en gunstelingaktiwiteite. Die Alzheimer’s Association beveel ook aan dat die persoon se mediese kontakte en ’n opgedateerde medisynelys maklik vindbaar is.
 
-## When should I get professional or urgent help?
+## Wanneer moet ek professionele of dringende hulp soek?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Praat met u dokter as stresstekens gereeld is, as u depressief voel, of as u sukkel om te hanteer. Vertel u dokter dat u ’n versorger is. Die NIA sê beraders en maatskaplike werkers kan help met moeilike gevoelens en beplanning, en dat Medicare, Medicaid en sommige privaat versekering sommige koste vir geestesgesondheid kan dek.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+As u in ’n krisis voel of gedagtes het om uself skade aan te doen, bel of SMS 988 (VSA) om die [988 Suicide & Crisis Lifeline](https://988lifeline.org/) te bereik, gratis en 24/7 beskikbaar. As iemand in onmiddellike gevaar is, bel 112.
 
-## Can shared activities give me a break too?
+## Kan gedeelde aktiwiteite ook vir my ’n breek gee?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Soms. ’n Rustige aktiwiteit wat u albei geniet, kan ’n sagter deel van die dag wees, vir u sowel as die persoon wat u versorg: na ou liedjies luister, na foto’s kyk, of ’n spel soos [Conversation Cards](/games/conversation-cards/) wat geen regte antwoorde vereis nie. As die persoon geselskap geniet, kan ’n groepsessie met [Picture Bingo](/games/picture-bingo/) by ’n seniorsentrum of volwasse dagprogram u ’n uur se rus gee. Sien [aktiwiteite vir groepe in versorgingstehuise](/activities/care-home-groups/) vir idees.

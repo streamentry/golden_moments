@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Akyiwadeɛ Nneɛma Ti Dementia Ano? Nea Adesua Kyerɛ"
+seoTitle: "Akyiwadeɛ Nneɛma Ti Dementia Ano? Adesua Nsɛm"
+description: "Nea nhwehwɛmu kyerɛ wɔ akyiwadeɛ nneɛma ne dementia ho: adwene ahodoɔ, kɔmputa akyiwadeɛ, ACTIVE nhwehwɛmu ne FTC Lumosity asɛm, ɛne tebea a wɔkyerɛ yie."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Akyiwadeɛ neɛma biara nni nhwehwɛmu a ɛkyerɛ sɛ ebi ti dementia ano. Kɔmputa
+  akyiwadeɛ boa ma nipa tu mmirika wɔ nneɛma a wɔsua no nko ara. ACTIVE
+  nhwehwɛmu no kyerɛɛ sɛ nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm, ne nkɔsoɔ a wɔsuaa
+  bio, nam so, nnipa bi dementia yiyi ase bɛtɔ mmere 20 mu, nanso ɛyɛ asɛm a
+  ɛtra. Ma nnipa a wɔwɔ dementia dada, adwene ahodoɔ wɔ nkommɔ mu boa ma ɛyɛ
+  kakra wɔ mmere tiaa mu. Akyiwadeɛ neɛma yɛ dɛ sɛ wobɛdi wɔn anigye ne nnipa
+  ka ho.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Akyiwadeɛ nhwehwɛmu kyerɛ sɛ nnipa tu mmirika wɔ nneɛma a wɔsua no mu, nanso ɛnyɛ kakraa sɛ eyi kɔ asetena so."
+  - "Wɔ ACTIVE nhwehwɛmu mu no, nnipa a wɔsuaa nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm ne nkɔsoɔ a wɔsuaa bio nko ara na wɔnyaa dementia yiyi ase kakraa mmere 20 mu. Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm a ɛnni nkɔsoɔ a wɔsuaa bio, ne adwene a wɔsuaa wɔ nkaeɛ ne adwene mu, nkyerɛɛ saa."
+  - "Wɔ 2016, Lumosity a ɔyɛ no yɛɛ $2 million de bɔɔ FTC ka a ɛka sɛ wɔnni nhwehwɛmu a ɛboa wɔn nkɔmmɔ wɔ nkɔsoɔ a ɛbɛtwe dementia ho asɛm ho."
+  - "Ma nnipa a wɔwɔ dementia kakraa kɔ akɔsi sɛ ɛyɛ den kakra, adwene ahodoɔ wɔ nkommɔ mu boa wɔn adwene ne nkɔsoɔ a ɛbɛma wɔn nkɔsoɔ mu nkɔ so ntɛm wɔ mmere tiaa mu."
+  - "Golden Moments nneɛma yɛ anigye ne bere a wɔde nnipa nyinaa ka ho. Wɔnyɛ ayaresa, na wɔnnye dementia ntwe anaa ɛnnyɛ no ntɛm."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Akyiwadeɛ nneɛma ti Alzheimer's ano?"
+    a: "Akyiwadeɛ neɛma biara nnyɛ nhwehwɛmu a ɛkyerɛ sɛ ɛti Alzheimer's anaa dementia foforo ano. National Institute on Aging ka sɛ nhwehwɛmu nni dodow a ɛboa sɛ kɔmputa akyiwadeɛ no tumi yɛ sɛ nhwehwɛmu mu nneɛma no. Nneɛma yi bɛyɛ bere a ɛyɛ anigye wɔ hɔ."
+  - q: "ACTIVE nhwehwɛmu kyerɛɛ dɛn wɔ nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm ne dementia ho?"
+    a: "Nhwehwɛmu a wɔyɛe wɔ 2026 no de ACTIVE nnipa no nsɛm kɔɔ Medicare abakɔsɛm mu mmere 20 mu. Nnipa a wɔsuaa nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm ne bio koraa no, wɔn a wɔyɛe dementia yiyi ase no yɛ kakra sen wɔn a wɔammɔ adwene wɔ nkommɔ mu. Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm a ɛnni nkɔsoɔ a wɔsuaa bio, ne nkaeɛ anaa adwene nkommɔ, nkyerɛɛ nsɛm a ɛyɛ mmaa."
+  - q: "Nneɛma a ɛma ntease ne akyiwadeɛ boa ma nipa a ɔwɔ dementia dada anaa?"
+    a: "Ɛboa sɛ nipa no ani gye ho. Nkommɔ a wɔyɛ ma wɔn a wɔwɔ dementia, a ɛka nsɛm, ntease ne nnwom ne nkɔmmɔ ho, kyerɛ sɛ ɛboa kakra wɔ mmere tiaa mu ma adwene, ne ɛboa sɛ nkɔmmɔ ne nkɔsoɔ nnipa ntam yɛ kɛse. Anigye ne ɛyɛ nea ɛsɛ sɛ yɛhwehwɛ, na ɛnyɛ nsɛmfua no ho."
+  - q: "Adɛn nti na FTC bubuu Lumosity sika?"
+    a: "Wɔ 2016, Federal Trade Commission kae sɛ Lumos Labs yɛɛ ka wɔ ne nneɛma ho, a ɛka sɛ ɛbɛyɛ sɛ nkɔsoɔ a ɛfa mmere ho ne dementia bɛtwe, nanso wɔnni nhwehwɛmu a ɛboa saa ka no. Kompani no pɛɛ sɛ ɔbɛtua $2 million, na ɔbɛhyɛ nsa sɛ ɔbɛhwehwɛ nhwehwɛmu a ɛyɛ nokorɛ ansa na wakyerɛ saa nsɛm bio."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Akyiwadeɛ nneɛma wɔ baabi nyinaa, na bebree hyɛ bɔ sɛ wɔbɛma wo adwene atena ase daa. Sɛ wo ne obi a wodi ho dwuma wɔ dementia, anaa wo ho wo ho hwehwɛ wo kokoam ho a, ɛyɛ nea ɛma wobisa sɛ ebia wɔn no boa. Ɛnyɛ nea ɛma wo ho nhwɛ mu no ara, na yɛbɛkyerɛ wo nea nhwehwɛmu kyerɛ ankasa, nea ɛyɛ anigye ne nea ɛnyɛ saa.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Eyi yɛ amanneɛ a ɛfa asetena ho, nanso ɛnyɛ ayaresa afotu. Hwɛ yɛn [akwankyerɛ a ɛfa ayaresa ho amanneɛ](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Akyiwadeɛ nneɛma ti dementia ano?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Akyiwadeɛ neɛma biara nni nhwehwɛmu a ɛkyerɛ sɛ ɛti dementia ano. National Institute on Aging (NIA) kuruwa sɛ nnipa nhwɛ yie wɔ nkyerɛaseɛ a ɛka sɛ kɔmputa ne ɔkwan so akyiwadeɛ nneɛma boa ma adwene yɛ mmerɛ. Wɔka nso sɛ nhwehwɛmu nni dodow a ɛkyerɛ sɛ kɔmputa akyiwadeɛ app a wɔtɔn no tumi yɛ sɛ nhwehwɛmu mu akyiwadeɛ a wɔyɛe no ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Ɛnyɛ sɛ nneɛma no nni baabi so, nanso ne botae yɛ anigye, nnipa ka ho ne nkɔsoɔ ho. Ɛnyɛ sɛ ɛbɛboa obiara ahwɛ dementia so.
 
-## What is "near transfer", and why does it matter?
+## Dɛn ne "near transfer", na adɛn nti na ɛho hia?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Sɛ wosua adwuma bi a, wunya nkɔsoɔ wɔ saa adwuma no mu. Nhwehwɛfo frɛ saa nkɔsoɔ yi training effect. Asɛm a ɛyɛ den sen biara ne sɛ, nkɔsoɔ no kɔ adwuma foforo mu anaa? Ɛkɔ nneɛma a ɛte saa so (near transfer) anaa ɛkɔ abrabɔ a ɛda so ara, te sɛ nkaeɛ nsɛm a wobɛkae anaa sika a wobɛhwɛ (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Nhwehwɛmu kɛse a wɔyɛe wɔ 2016 hwehwɛɛ nhwehwɛmu a akyiwadeɛ kompani no bɔɔ kɛse wɔ ne mmoa so no. Ɛhunuu sɛ nhwehwɛmu no kyerɛ sɛ nnipa tu mmirika wɔ nneɛma a wɔsuaa no mu dodow, nanso ɛnyɛ dodow sɛ wɔtu mmirika wɔ nneɛma a ɛtɔ so, na nkɔsoɔ no kɔ abrabɔ a ɛda so ara adwene mu nso nni dodow. Nhwehwɛmu bebree nso nyaa nsakrae a ɛma ɛnyɛ den sɛ wobɛka nokware asɛm ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Dɛn na nsɛmmisa ka wɔ kɔmputa akyiwadeɛ ho?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane nsɛmmisa, a ɛboa nhwehwɛmu a ɛyɛ pa a wɔayɛ no nyinaa ano, ahwehwɛ kɔmputa akyiwadeɛ a ɛtenaa bere a ɛyɛ dapɛn 12 anaa ɛboro saa:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Nnipa a wɔyɛ ahoɔden a wɔn afe ne 65 anaa ɛboro saa:** nhwehwɛmu nsia, nnipa 1,183. Nhwehwɛmu no ne tumi a ɛbrɛ ase anaa ɛbrɛ ase kɛse. Ebia ɛboaa kakra bere a wɔtɔɔ akyiwadeɛ no awie, nanso nhwehwɛmu no nkyerɛ sɛ ɛbɛtena ase kɔsi bere bɔne ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Nnipa a adwene wɔ mmerɛ kakra (mild cognitive impairment):** nhwehwɛmu nsia, nnipa 660. Nhwehwɛmu biara nka sɛ nnipa no nyaa dementia anaa, na nsɛm no ye sɛ wɔbɛtumi ayɛ afotu koro ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## ACTIVE nhwehwɛmu no kyerɛɛ dɛn?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE yɛ US nhwehwɛmu kɛse a ɛfii 1998 mu, nnipa 2,802 a wɔn afe ne 65 anaa ɛboro saa ne wɔn a wɔtena wɔn ara ara ne wɔn a wɔnnyɛ adwene mmerɛ kɛse wɔ nkaeɛ anaa nteaseɛ mu na wɔfaa wɔn. Wɔkyɛɛ wɔn ma wɔsuaa ɔkwan biara mu nkɔsoɔ kakra (nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm, nkaeɛ, anaa nteaseɛ) anaa wɔhyɛɛ wɔn a wɔnni nkitahodie mu. Nkɔsoɔ no bɛyɛ nkɔmmɔ 10 wɔ dapɛn 5 anaa 6 mu. Nnipa a wɔwiee nkɔmmɔ no pii no, wɔde bio ma wɔn bere a ɛyɛ dapɛn 1 ne mfe 3 akyi.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm no hwehwɛ nsɛm a wɔhwɛ ntɛm, ne nsɛm a ɛyɛ tuntum wɔ bere a ɛyɛ tiaa mu.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Wɔ 2026, nhwehwɛfo kyekyee nnipa 2,021 wɔ Medicare abakɔsɛm mu mmere 20 ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Eyi ne nea wohunuu no ankasa:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm ne bio koraa no:** dementia a wɔkyerɛɛ sɛ wɔyɛ no yiyi ase kakra sen nnipa a wɔammɔ adwene wɔ nkommɔ mu (hazard ratio 0.75, a ɛkyerɛ sɛ ɛyɛ 25% ketewa).
+- **Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm a ɛnni bio:** yiyi ase no nni ketewa.
+- **Nkaeɛ anaa adwene nkommɔ:** nkyerɛɛ dementia yiyi ase nsɛm a ɛyɛ mmaa.
+- **Nkommɔ biara a wɔka ho nyinaa sen nnipa a wɔammɔ adwene wɔ nkommɔ mu:** ɛkyerɛɛ sɛ yiyi ase no yɛ ketewa kakra, nanso ɛnyɛ nsɛm a ɛyɛ mmaa wɔ ɔkwan a wɔfa so ahwehwɛ no mu.
 
-### The limits of this finding
+### Nsɛm a ɛtra wɔ nhwehwɛmu yi mu
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Ɛfa **nkɔsoɔ bi a wɔsua ne wɔn a wɔhwɛ so no bere a ɛyɛ ntɛm ne bio** ho nko ara, ɛnyɛ kɔmputa akyiwadeɛ nyinaa ho.
+- Nsɛm a ɛyɛ mmaa no fi **ɔkyɛ kakra** (nnipa a wɔyɛe nkɔsoɔ mfirihyia no ne wɔn a wɔmaa wɔn bio) mu, na ɛnyɛ nnipa nyinaa a wɔwɔ nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm no mu.
+- Wɔhwehwɛɛ dementia wɔ **Medicare nsɛm mu codes**, na ɛnyɛ sɛ wɔhwɛɛ nnipa biara. Nnipa a ɛboro ɔha mmiɛnsa a wɔfiri nhwehwɛmu no mu wɔ Medicare Advantage mu, a nsɛm a ɛfa wɔn ho nni mu koraa.
+- Nnipa a wɔfiri nhwehwɛmu no mu no nni adwene mmerɛ a ɛyɛ kɛse wɔ bere a wɔfiri ase. Nhwehwɛmu no nkyerɛ asɛm biara ho ma nnipa **a wɔwɔ dementia dada** nneɛma.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Ɛyɛ nsɛm a ɛsɛ sɛ wɔsua ho ankasa, nanso ɛnyɛ sɛ kɔmputa app biara tumi ti dementia ano.
 
-## What did the FTC say about Lumosity?
+## Dɛn na FTC kaa ho asɛm wɔ Lumosity ho?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Wɔ January 2016, Lumos Labs a ɔyɛ Lumosity no yɛɛ ka sɛ ɔbɛtua $2 million de bɔ Federal Trade Commission ka a ɛka sɛ wɔde nkyerɛaseɛ a ɛnni nokware bɔɔ nneɛma no. FTC kae sɛ kompani no kaa sɛ ne nneɛma tumi boa adwuma ne sukuu mu adwene, na ɛbɛtwe mmere ho nsɛm, adwene mmerɛ, dementia ne Alzheimer's, nanso nhwehwɛmu a ɛboa saa ka no nni. Wɔ ɔkwan a wɔde kyerɛɛ no mu no, ɛsɛ sɛ kompani no nya nhwehwɛmu a ɛyɛ nokorɛ ansa na wakyerɛ saa nsɛm bio ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Nkyerɛkyerɛ ma abusua: fa ho bɔ app, neɛma anaa nkɔmmɔ biara a ɛka sɛ ɛbɛboa wo adwene anaa ɛbɛtwe dementia ho.
 
-## Can games help someone who already has dementia?
+## Ebia nneɛma betumi aboa obi a wɔwɔ dementia dada anaa?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Ɛboa ma da no yɛ anigye, ɛyɛ nea ɛho hia paa. Nhwehwɛmu a wɔayɛ wɔ ho pii ne **adwene ahodoɔ** (cognitive stimulation): nkɔmmɔ a ɛyɛ anigye a wɔyɛ wɔ nnipa ntam, te sɛ nkɔkɔ, nkaeɛ, nsɛm a ɛfa nkaeɛ ho, ntease ne nnwom. Ɛtaa yɛ wɔakuw ketewa mu, ɔkyerɛkyerɛfo a ɔdi kan.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Cochrane nsɛmmisa a wɔyɛe wɔ 2023 hwehwɛɛ nhwehwɛmu 37 a nnipa 2,766 a wɔwɔ dementia kakra kɔ akɔsi sɛ ɛyɛ den kakra ka ho. Ɛhunuu sɛ ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **nkɔsoɔ ketewa, a ɛtena ase kakra,** wɔ adwene nhwehwɛmu so (nsɛm a ne tumi yɛ mmerɛ);
+- **nkɔsoɔ a ɛyɛ nea wɔhu wɔ ɔkwan a ɛfa nkɔmmɔ ne nnipa ntam so** (nsɛm a ne tumi yɛ kɛse, fi nhwehwɛmu kakra mu);
+- **nkɔsoɔ kakra** wɔ asetena ne ahoɔfɛ, awerɛhow ne abrabɔ mu.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Wɔhwehwɛɛ nkɔsoɔ no sɛ ɛbɛyɛ dapɛn 10 akyi, na nhwehwɛmu kakra nko na wɔhwehwɛɛ sɛ ɛbɛtena ase. Cochrane adwene ahodoɔ yɛ nkɔmmɔ a wɔhyehyɛ yie wɔ nnipa ntam, enti eyi nsɛm no nkyerɛ sɛ ɛbɛyɛ mmerɛ sɛ ɛkɔ ɔbarima anaa ɔbaa a ɔrekyea kɔmputa anaa tablet no ho pɛnkoro.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission a wɔyɛe wɔ 2024 nso ka sɛ nkɔmmɔ a ɛma nnipa a wɔwɔ dementia wɔ nkɔsoɔ ho yɛ hia, sɛ ɛbɛboa wɔn ani gye ne wɔn adwene a wɔwɔ ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Dɛn na nneɛma yɛ ma mmoa?
 
-When chosen well, games can offer:
+Sɛ wɔpaw yie a, nneɛma betumi ama:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Anigye.** Mmerɛ a ɛyɛ anigye kakra ho bɔne, ɛwɔ nʼankasa ho nhyira.
+- **Abusuabɔ.** Sɛ wo ne ɔno retu ntam a, ɛma wowɔ biribi a ɛyɛ mmerɛ sɛ wobɛka bom sɛ nkasa yɛ den. Hwɛ [sɛnea wobɛtu ntam](/caregiving/how-to-play-together/).
+- **Nhyehyɛe.** Adwuma a wɔnim, a wɔyɛ bere a ɛsɛ sɛ wɔyɛ da biara, betumi ama awerɛhow.
+- **Ahotoso.** Nneɛma a ɛfata nea ɔno betumi ayɛ yie ma ɔnya ahoɔden, na ɛnyɛ sɛ wɔrehwehwɛ no.
+- **Nkɔmmɔ.** Ɔwɔ a wɔhwɛ anaa ɔsɛm a wɔnim betumi ahyɛ asɛm ase. Sɔ [nkɔmmɔ kaad](/games/conversation-cards/) anaa [ka mmuaeɛ no](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Nea ɛsɛ sɛ wogyina ho: bere a wɔde ahyɛ nsɛm, nkaeɛ, nkyerɛ ne nneɛma a ɛte sɛ adwene nhwehwɛmu. Sɛ ɔno ayɛ mmerɛ a, gyae. Sɛ wɔgyae ntɛm anaa wotena ɔkɔ ntam, ɛyɛ nea ɛyɛ. Yɛn [akwankyerɛ a ɛfa app ne nneɛma a wɔpaw](/caregiving/choosing-apps-and-games/) wɔ nsɛmmisa a ɛboa.
 
-## Where Golden Moments fits
+## Golden Moments wɔ baabi a ɛfata
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments nneɛma, te sɛ [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) ne [large-print word search](/games/word-search/), yɛyɛ maa anigye ne bere a wɔde nnipa nyinaa ka ho. Wɔnni bere ne nkontaabu. **Wɔnyɛ** ayaresa, na **wɔnnye** dementia ntwe anaa ɛnnyɛ no ntɛm. Yɛpɛ sɛ yɛka eyi ho nokorɛ sen sɛ yɛbɛhyɛ bɔ a nneɛma biara ntumi nnyɛ no.
 
-## Talk with a doctor
+## Kasa kyerɛ dɔkota
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Sɛ wowɔ nsɛmmɔne wɔ wo ho anaa obi a wodi ho dwuma wɔ adwene ho a, kɔ dɔkota nkyɛn, na ɛnyɛ sɛ wode wo ho to app so. Dɔkota betumi ahwehwɛ nneɛma a wɔbɛtumi asan ayɛ, na ɔbɛkyerɛ wo akwan a ɛyɛ nea ɛsen biara a nhwehwɛmu koro kyerɛ, te sɛ mogya bɔne ho nhwɛso ne ntisɛm ho nhwɛso. Hwɛ [Dementia betumi aban ano?](/brain-health/can-dementia-be-prevented/) ma nsɛm a ɛso. Sɛ wohu ntɛmntɛm nkɔmhyɛ anaa nsakrae a ɛntɛm wɔ wo mu, kɔ ayaresabea ntɛm.
