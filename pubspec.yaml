@@ -67,6 +67,8 @@ flutter:
     - assets/images/catalog/
     # Drawings shared with the website (site/scripts/export-pictures.mjs).
     - assets/images/pictures/
+    # More drawings in the same style, made with the Codex CLI image tool.
+    - assets/images/illustrations/
     - assets/sounds/
 
 flutter_launcher_icons:

@@ -1,0 +1,506 @@
+{
+  "size": 720,
+  "source": "Generated with the Codex CLI image tool, 2026-11-08, matching the style of assets/images/pictures",
+  "illustrations": [
+    {
+      "id": "rocking-chair",
+      "name": "Rocking chair",
+      "category": "home"
+    },
+    {
+      "id": "rolling-pin",
+      "name": "Wooden rolling pin",
+      "category": "home"
+    },
+    {
+      "id": "sewing-machine",
+      "name": "Old sewing machine",
+      "category": "home"
+    },
+    {
+      "id": "record-player",
+      "name": "Record player with a vinyl record",
+      "category": "home"
+    },
+    {
+      "id": "typewriter",
+      "name": "Typewriter",
+      "category": "home"
+    },
+    {
+      "id": "flat-iron",
+      "name": "Old flat iron",
+      "category": "home"
+    },
+    {
+      "id": "cooking-pot",
+      "name": "Cooking pot with a lid",
+      "category": "home"
+    },
+    {
+      "id": "wooden-spoon",
+      "name": "Wooden spoon",
+      "category": "home"
+    },
+    {
+      "id": "jam-jar",
+      "name": "Jar of jam",
+      "category": "home"
+    },
+    {
+      "id": "coffee-pot",
+      "name": "Coffee pot",
+      "category": "home"
+    },
+    {
+      "id": "mixing-bowl",
+      "name": "Mixing bowl",
+      "category": "home"
+    },
+    {
+      "id": "broom",
+      "name": "Broom",
+      "category": "home"
+    },
+    {
+      "id": "bucket",
+      "name": "Bucket",
+      "category": "home"
+    },
+    {
+      "id": "knitting",
+      "name": "Knitting needles with wool",
+      "category": "home"
+    },
+    {
+      "id": "button-tin",
+      "name": "Tin of buttons",
+      "category": "home"
+    },
+    {
+      "id": "fireplace",
+      "name": "Fireplace with a fire",
+      "category": "home"
+    },
+    {
+      "id": "bookshelf",
+      "name": "Bookshelf",
+      "category": "home"
+    },
+    {
+      "id": "bed",
+      "name": "Bed with a quilt",
+      "category": "home"
+    },
+    {
+      "id": "window-curtains",
+      "name": "Window with curtains",
+      "category": "home"
+    },
+    {
+      "id": "front-door",
+      "name": "Front door of a cottage",
+      "category": "home"
+    },
+    {
+      "id": "letterbox",
+      "name": "Red letterbox",
+      "category": "home"
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "category": "food"
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "category": "food"
+    },
+    {
+      "id": "potato",
+      "name": "Potato",
+      "category": "food"
+    },
+    {
+      "id": "corn-cob",
+      "name": "Corn on the cob",
+      "category": "food"
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin",
+      "category": "food"
+    },
+    {
+      "id": "onion",
+      "name": "Onion",
+      "category": "food"
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "category": "food"
+    },
+    {
+      "id": "bread-roll",
+      "name": "Bread roll",
+      "category": "food"
+    },
+    {
+      "id": "soup-bowl",
+      "name": "Bowl of soup",
+      "category": "food"
+    },
+    {
+      "id": "ice-cream",
+      "name": "Ice cream cone",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-bar",
+      "name": "Bar of chocolate",
+      "category": "food"
+    },
+    {
+      "id": "biscuits",
+      "name": "Plate of biscuits",
+      "category": "food"
+    },
+    {
+      "id": "sandwich",
+      "name": "Sandwich",
+      "category": "food"
+    },
+    {
+      "id": "plum",
+      "name": "Plum",
+      "category": "food"
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut",
+      "category": "food"
+    },
+    {
+      "id": "kiwi",
+      "name": "Sliced kiwi fruit",
+      "category": "food"
+    },
+    {
+      "id": "blueberries",
+      "name": "Blueberries",
+      "category": "food"
+    },
+    {
+      "id": "pomegranate",
+      "name": "Pomegranate",
+      "category": "food"
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "category": "food"
+    },
+    {
+      "id": "coffee-cup",
+      "name": "Cup of coffee",
+      "category": "food"
+    },
+    {
+      "id": "lemonade",
+      "name": "Jug of lemonade",
+      "category": "food"
+    },
+    {
+      "id": "horse",
+      "name": "Horse",
+      "category": "animals"
+    },
+    {
+      "id": "cow",
+      "name": "Cow",
+      "category": "animals"
+    },
+    {
+      "id": "pig",
+      "name": "Pig",
+      "category": "animals"
+    },
+    {
+      "id": "goat",
+      "name": "Goat",
+      "category": "animals"
+    },
+    {
+      "id": "squirrel",
+      "name": "Squirrel",
+      "category": "animals"
+    },
+    {
+      "id": "hedgehog",
+      "name": "Hedgehog",
+      "category": "animals"
+    },
+    {
+      "id": "deer",
+      "name": "Deer",
+      "category": "animals"
+    },
+    {
+      "id": "fox",
+      "name": "Fox",
+      "category": "animals"
+    },
+    {
+      "id": "swan",
+      "name": "Swan",
+      "category": "animals"
+    },
+    {
+      "id": "penguin",
+      "name": "Penguin",
+      "category": "animals"
+    },
+    {
+      "id": "elephant",
+      "name": "Elephant",
+      "category": "animals"
+    },
+    {
+      "id": "giraffe",
+      "name": "Giraffe",
+      "category": "animals"
+    },
+    {
+      "id": "parrot",
+      "name": "Parrot",
+      "category": "animals"
+    },
+    {
+      "id": "turtle",
+      "name": "Turtle",
+      "category": "animals"
+    },
+    {
+      "id": "dolphin",
+      "name": "Dolphin",
+      "category": "animals"
+    },
+    {
+      "id": "lion",
+      "name": "Lion",
+      "category": "animals"
+    },
+    {
+      "id": "goose",
+      "name": "Goose",
+      "category": "animals"
+    },
+    {
+      "id": "crab",
+      "name": "Crab",
+      "category": "animals"
+    },
+    {
+      "id": "seahorse",
+      "name": "Seahorse",
+      "category": "animals"
+    },
+    {
+      "id": "pine-tree",
+      "name": "Pine tree",
+      "category": "outdoors"
+    },
+    {
+      "id": "palm-tree",
+      "name": "Palm tree",
+      "category": "outdoors"
+    },
+    {
+      "id": "waterfall",
+      "name": "Waterfall",
+      "category": "outdoors"
+    },
+    {
+      "id": "mountain",
+      "name": "Mountain with snow on top",
+      "category": "outdoors"
+    },
+    {
+      "id": "beach-umbrella",
+      "name": "Beach umbrella",
+      "category": "outdoors"
+    },
+    {
+      "id": "seashell",
+      "name": "Seashell",
+      "category": "outdoors"
+    },
+    {
+      "id": "starfish",
+      "name": "Starfish",
+      "category": "outdoors"
+    },
+    {
+      "id": "windmill",
+      "name": "Windmill",
+      "category": "outdoors"
+    },
+    {
+      "id": "haystack",
+      "name": "Haystack",
+      "category": "outdoors"
+    },
+    {
+      "id": "stone-bridge",
+      "name": "Stone bridge",
+      "category": "outdoors"
+    },
+    {
+      "id": "campfire",
+      "name": "Campfire",
+      "category": "outdoors"
+    },
+    {
+      "id": "barn",
+      "name": "Red barn",
+      "category": "outdoors"
+    },
+    {
+      "id": "snowman",
+      "name": "Snowman",
+      "category": "outdoors"
+    },
+    {
+      "id": "anchor",
+      "name": "Anchor",
+      "category": "outdoors"
+    },
+    {
+      "id": "guitar",
+      "name": "Acoustic guitar",
+      "category": "music-and-play"
+    },
+    {
+      "id": "piano",
+      "name": "Upright piano",
+      "category": "music-and-play"
+    },
+    {
+      "id": "violin",
+      "name": "Violin",
+      "category": "music-and-play"
+    },
+    {
+      "id": "accordion",
+      "name": "Accordion",
+      "category": "music-and-play"
+    },
+    {
+      "id": "harmonica",
+      "name": "Harmonica",
+      "category": "music-and-play"
+    },
+    {
+      "id": "trumpet",
+      "name": "Trumpet",
+      "category": "music-and-play"
+    },
+    {
+      "id": "drum",
+      "name": "Drum",
+      "category": "music-and-play"
+    },
+    {
+      "id": "paint-palette",
+      "name": "Paint palette and brush",
+      "category": "music-and-play"
+    },
+    {
+      "id": "camera",
+      "name": "Old camera",
+      "category": "home"
+    },
+    {
+      "id": "chess",
+      "name": "Chess pieces",
+      "category": "music-and-play"
+    },
+    {
+      "id": "playing-cards",
+      "name": "Playing cards",
+      "category": "music-and-play"
+    },
+    {
+      "id": "teddy-bear",
+      "name": "Teddy bear",
+      "category": "music-and-play"
+    },
+    {
+      "id": "fishing-rod",
+      "name": "Fishing rod and fish",
+      "category": "music-and-play"
+    },
+    {
+      "id": "football",
+      "name": "Football",
+      "category": "music-and-play"
+    },
+    {
+      "id": "steamship",
+      "name": "Steamship",
+      "category": "travel"
+    },
+    {
+      "id": "helicopter",
+      "name": "Helicopter",
+      "category": "travel"
+    },
+    {
+      "id": "scooter",
+      "name": "Scooter",
+      "category": "travel"
+    },
+    {
+      "id": "signpost",
+      "name": "Signpost",
+      "category": "travel"
+    },
+    {
+      "id": "compass",
+      "name": "Compass",
+      "category": "travel"
+    },
+    {
+      "id": "globe",
+      "name": "World globe",
+      "category": "travel"
+    },
+    {
+      "id": "woolly-hat",
+      "name": "Woolly hat",
+      "category": "home"
+    },
+    {
+      "id": "scarf",
+      "name": "Knitted scarf",
+      "category": "home"
+    },
+    {
+      "id": "wellington-boots",
+      "name": "Wellington boots",
+      "category": "home"
+    },
+    {
+      "id": "handbag",
+      "name": "Handbag",
+      "category": "home"
+    },
+    {
+      "id": "pocket-watch",
+      "name": "Pocket watch",
+      "category": "home"
+    }
+  ]
+}
