@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Gweythresow rag Gwer ow Bywa gans Demens"
+seoTitle: "Gweythresow rag Gwer ow Bywa gans Demens: Tybyansow"
+description: "Tybyansow gweythres rag gwer ow bywa gans demens, selys war aga ober, hobbys ha dalghow, gans profyansow dhe aswonnya pubonan yn saw."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  An gwella gweythresow rag gour ow bywa gans demens a dheu dhyworth y vewnans
+  y honan: an ober a wrug ev, an hobbys a garas ev ha’n dalghow beydhek a sewis
+  ev. Y hyll oberer soedhek y vos lowen orth restra paperyow, y hyll jynnor y
+  vos lowen orth handla toulys glan, ha’y hyll den a gar sport y vos lowen orth
+  gwari koth. Lesow yw dihaval dhyworth den dhe dhen, ytho dalleth gans an den,
+  a-der y reydh.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Dalleth gans istori an den ma: y ober, y hobbys, y dhalghow ha’n pyth a wrug ev bos prout anodho."
+  - "Oberow gans porpos gwir, kepar ha restra daffar, golhi an karr po tretha prenn, a yll bos moy a dhen dhodho ages gweythresow a hevel dhe glass."
+  - "Nyns yw pub gour ow kara toulys po sport. Lies den a gar kog, ilow, lowarthiseth, art po gwitha erel. Govynn, gwra mires, ha syw y arwedh."
+  - "Gwra oberow a hevel dhe ober yn saw dre gemeres dhe-ves toulys lymm ha dre wolya, hag esya anjei pan wrello gallosow chanjya."
+  - "Yma kummyas dhe leverel ‘na’. Profya rolya, a-der hwarvos, ha tria arta dydh aral."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Py gweythresow a yw lowen gans gwer ow bywa gans demens?"
+    a: "Nyns eus unn rol unnik, drefen bos lesow gwer mar dhihaval ha lesow tus erel. Poyntyow da dhe dhallath yw oberow kevrynnys dh’y ober kens, kepar ha restra paperyow po restra know ha pols, keffrys ha hobbys a garas ev, kepar ha pyskessa, kerri, ilow, kog po sport. Gwra mires orth an pyth a wra ev y honan ha drehevel warnodho."
+  - q: "Ow thas a wra nagha gweythresow bagas. Pyth a allav vy gul?"
+    a: "Lies den, gwer ha benenes keffrys, a wra nagha gweythresow a hevel dhe glass po a hevel yn floghik. Tria profya ober yn hy le: ‘A yllydh hwi ow gweres dhe restra hemma?’ Bagasow byghan po termyn unn orth unn a yll hevel moy es gans stevell vras."
+  - q: "Yw saw dhodho devnydhya toulys?"
+    a: "Marnas gans golyas ha toulys saw. Kemmer dhe-ves toulys nerth, lannow ha puptra lymm, ha profya oberow kepar ha tretha prennik es, restra daffar glan, po strotha pols bras gans an leuv. An Alzheimer’s Association a brof restra taklow peryllys a-ves a workshop may hallo ober kepar ha tretha bos gwrys yn saw hwath."
+  - q: "Ev o sodhoger. A wra oberow sempel hevel dhe dhispresyans?"
+    a: "I a yll, mar pews profys avel ober didhynni. Present an ober avel gweres gwir, devnydh daffar rag tevesogyon, ha dewis neppyth ogas dh’y rolya koth, kepar ha daswel rol, restra restren po gweres dhe guntell post. Mar o ev pur skentel yn neppyth, gweythres kevrynnys mes dihaval a yll hevel le ages komparyans."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Tus a wra hwilas yn fenowgh rag «gweythresow rag gwer ow bywa gans demens» drefen na wra an profyansow usadow heveli bos ewn rag an gour yn aga bewnans. Hemm yw preder ewn. Mes ny dal an gorthyp bos rol a weythresow «rag gwer». Y tal dalleth gans an gour arbennik ma: pyth a wrug ev rag bewnans, pyth a wrug ev y’n bennseythun, ha’n pyth a wrug dhodho omglywes dhe les. Lesow yw dihaval rag pubonan. Lies gour a gar kog, lowarthiseth, liwa po kana, ha lies benyn a gar kerri ha baseball.
 
-## How do I find activities he will actually enjoy?
+## Fatell gavav vy gweythresow a vynn ev enjoya yn hwir?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Dalleth gans istori y vewnans. An Alzheimer’s Association a brof drehevel [towl beydhek](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) a-dro dhe’n pyth a gar ha nag gar an den, y nerthow ha’y lesow, hag a-dro dhe’n fordh may hwrug ev ordena y jydh kyns. Govynn orthowgh hwi agas honan:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Pyth o y ober?** Soedhek, ammeth, gweythva, kreft, lu, gwerth, dyski, lywya, an chi?
+- **Pyth a wrug ev yn y dermyn rydh?** Pyskessa, kartys, ober prenn, sport, eglos, ilow, kog, karr y’n jynnji?
+- **Pyth o y dhalghow?** Koffi ha’n paper pub myttin? Checkya an gewer? Golhi an karr dy’Sadorn?
+- **Pyth a wra ev dalleth hwath heb govynn?** An Association a verk mar kwra den dalleth oberow heb bos govynnys, kepar ha skubella an leur, y hall an oberow na bos rann a’n dalgh.
+- **Pyth a wra ev omskwitha?** Nebes tus a gar mires orth sport; re erel a yll omglywes troblys gans an tooth ha’n tros. Gwra merkya pan hevel ev lowen, prederus po serrys.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Kows keffrys gans teylu ha kowetha koth. Y hallons i perthi kov a lesow re wrug mos dhe-ves a vewnans beydhek.
 
-## Activity ideas based on past work
+## Tybyansow gweythres selys war ober kens
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+An Alzheimer’s Association a re ensampel kler: y hyll oberer soedhek kyns bos lowen gans oberow restra, kepar ha gorra mona yn dalgher, gweres dhe guntell post po gwul rol a bethau dhe wul, ha’y hyll ammeth po lowarther kyns bos lowen gans oberi y’n lowarth. An keth tybyans a ober rag lies ober.
 
-| Past work | Activity ideas | Simpler version |
+| Ober kens | Tybyansow gweythres | Fersyon esya |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Soedhek po negys | Restra paperyow yn plegellow, stampya maylyow, daswel rol, restra kist lesk | Bernya maylyow; gorra gwydhennow paper yn kist |
+| Kreftow po jynnow | Restra know, pols ha washerys glan; strotha pols bras gans an leuv; mires orth lyvrow toulys | Restra dre vraster yn diw hanaf |
+| Ammeth po lowarthiseth | Dowrhe, plansa yn potys, kravas del, checkya an lowarth | Esedha yn-mes ha hwi owth oberi; synsi saghow has |
+| Lu | Polsa eskisyow, restra kist yn ewn, mires orth skeusennow a’n termyn na mar kwra ev aga enjoya | Goslowes orth ilow a’n oos na |
+| Gwerth po gonis rag kustomoryon | Dynnerghi godrigoryon, ranna boes, restra koponys | Esedha ryb an daras dhe leverel «dydh da» |
+| Dyski | Redya yn ughel, restra lyvrow, restra skeusennow dre desten | Mires war-barth dre lyver skeusennow |
+| Lywya po treusporth | Mires orth mappys po lyvrow kerri koth, golhi an karr | Mires orth kerri ow tremena a borth |
+| Chi ha teylu | Plethya dillas, settya an voos, gweres gans koen | Smodha napkyns; kemmyska |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Nebes kovow, kepar ha gonis y’n lu, a yll dri omglewansow krev. Syw y arwedh, gwra kows a-dro dhe’n termyn tremenys yn posedhek, ha chanj an desten yn kosel mar hevel ev troblys.
 
-## Activity ideas based on hobbies
+## Tybyansow gweythres selys war hobbys
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Ober prenn.** Tretha prennik es po liwa kistik ydhyn. An Alzheimer’s Association a brof kemeres dhe-ves daffar ha toulys peryllys a’n workshop may hallo gweythres kepar ha tretha bos lowen ha saw.
+2. **Pyskessa.** Restra kist pyskessa heb higen, mires dre lyvrow pyskessa, po esedha war-barth ryb pol.
+3. **Kerri.** Golhi an karr, polsa krom, mires orth skeusennow kerri klassyk, po mos rag ros avel tremenyer.
+4. **Sport.** Mires orth gwari koth po warlennow berr, tewlel pel medhel, gorra pelyow golf war garlont, po restra kartys baseball.
+5. **Kartys ha gwariow.** Gwari sempel a wari kartys aswonys, domino, po treylya kartys dhe gavos par. Gwra y witha es ha gas dhe-ves kontya skor.
+6. **Ilow.** Kanow a’y dhiwlogansow ha’y dri ugensow, band meurgerys, po hymn. Gwra mires orth agan [gidyans gweythresow ilow](/activities/music/).
+7. **Kog ha gril.** Golhi losow, kemmyska sous, shapya burgeryow, po deskrifa fatell wrug ev y hili meurgerys ha hwi orth y gog.
+8. **An paper nowodhow.** An Alzheimer’s Association a verk y hall den a wrug pupprys redya an paper y enjoya hwath, kyn na yll ev holya an dalgh yn tien. Koffi ha’n paper a yll pesya rann a’n myttin.
+9. **Drehevel.** Kitow model gans darnow bras po settys drehevel sempel rag tevesogyon. Dewis darnow es dhe dhalhenna.
+10. **Gwitha neppyth.** Bosa eneval, lenwel bojer ydhyn, po dowrhe lesyow. An NIA a rol [bosa, gorheri po kerdhes eneval](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yn mysk gweythresow a yll tus enjoya.
 
-## How do I offer an activity without it feeling like busywork?
+## Fatell brofyav vy gweythres heb ma hevel ev dhe ober didhynni?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Present ev avel gweres gwir. An Alzheimer’s Association a brof govynn «A yllydh hwi ow gweres, mar pleg?» ha kesunya oberow gans porpos. Kompar:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «A vyn’ta restra an pols ma?» (a hevel dhe brevyans)
+- «My a brenas sagas kemmyskys a dhaffar ha res yw dhymm aga restra kyns owth ewnhe an astel. A yllydh ow gweres?» (a hevel dhe ober)
 
-Other tips:
+Profyansow erel:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Devnydh daffar rag tevesogyon.** Toulys gwir heb ervys lymm, lyvrow gwir, maylyow gwir.
+- **Gwrewgh oberi ryb an eyl y gila.** Dewdhen owth oberi war unn ober yw kowethyans. Unn den ow mires orth den arall yw golyas.
+- **Na wrewgh ewnhe.** Mar kwra an pols gorwedha y’n hanaf kamm, gas ev yndella. An pyth yw posek yw an termyn war-barth ha’n omglewans a vos dhe les.
+- **Gweres dhodho dalleth.** An Alzheimer’s Association a verk lies den a’n jeves hwath an hwans dhe wul taklow mes a striv dhe ordena ha dalleth. Gwrewgh an kynsa onan war-barth.
 
-## How do I adapt as things change?
+## Fatell aswonnyn vy pan wrello taklow chanjya?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Pan wrello demens avonsya, an Alzheimer’s Association a brof profya oberow esya ha moy arta, ha bos parys rag an den dhe gemeres rann le gweythresek. Gour a wrug kyns daswul jynnow a yll lemmyn enjoya dalhenna wrench glan ha kows a-dro dhe gerri, po mires orthowgh hwi owth oberi. Mires yw kemeres rann.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Mar o ev pur skentel yn neppyth, gweythres kevrynnys a yll hevel gwell ages y greft koth. An Association a verk y hyll artydh sodhogel bos serrys gans chanjyow yn y ober, ha’y hyll artydh sporednek enjoya fordh nowydh. An keth yw gwir rag prennor meur y skians.
 
-## Safety with work-style tasks
+## Sawder gans oberow a hevel dhe ober
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Kemmer dhe-ves toulys nerth, lannow, kentrow ha pols gans bleyn lymm.
+- Alhwedh paynt thinner, petrol ha kymykalyow.
+- Gwra gwitha alhwedhow karr yn-dann gel mar ny wra ev lywya namoy.
+- Golya pub ober y’n workshop ha’n lowarth.
+- Dewis darnow bras na yllons bos lenkys.
 
-## What if he says no?
+## Pyth mar lever ev ‘na’?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Gwra y revronsya. ‘Na’ a yll styrya bos an ober re gales, re floghik, po yn sempel nag yw ewn hedhyw. An Alzheimer’s Association a warn nag ew ewn y herdhya. Tria ober aral, termyn aral, po yn sempel esedha war-barth. Gwra mires orth [an pyth dhe wul pan leverons i ‘na’](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Gwariow ha keskows a dhesedh
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) a dhevnydh lavarow aswonys hag a led dhe gows. [Conversation Cards](/games/conversation-cards/) a’n jeves govynnow ygor, heb kwis, dre desten, hag a yll ygeri hwedhlow a-dro dhe ober ha hobbys. [Picture Puzzle](/games/picture-puzzle/) a wra gwitha an skeusen dien gweladow ha hwi ow treuslya darnow, ha’n [Word Search](/games/word-search/) gans lytherennow bras a yll bos pryntys ha gwrys gans pluenn orth an voos gegin. Rag fordhow dhe gows a-dro dh’y dermyn tremenys heb y brevi, gwra mires orth agan [gidyans kovheans](/activities/reminiscence/).

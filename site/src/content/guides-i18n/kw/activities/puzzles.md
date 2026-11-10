@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Mildammow rag tus ow bywa gans demens: jigsaws ha geryow"
+seoTitle: "Mildammow rag demens: jigsaws ha geryow"
+description: "Fatell dhewis jigsaws, mildammow geryow ha warlinen rag nebonan ow bywa gans demens: myns an darnow, imajys, lytherennow bras ha gwari war-barth."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  An mildam gwellha rag nebonan ow bywa gans demens yw onan a yll ev po hi
+  gorfenna gans nebes gweres ha lowenhe yn kettermyn. Dewisewgh jigsaws gans
+  le a dharnow, moyha bras, hag imaj tewl rag tevesigyon, gwrewgh gweles an
+  imaj war an gist, ha sortyewgh an darnow amal kynsa. Hwithransow geryow ha
+  krowswriansow a ober gwell yn lytherennow bras. Mildammow es warlinen gans
+  peder darn a yll fyttya an gres powes. Hedhewgh pan vo hwyl.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Dewisewgh herwydh fatell a yw, a-der label powes: mar te feel an mildam avel ober, assayewgh onan gans le a dharnow."
+  - "Darnow bras, krev ha fast, hag imaj kler gans rannow dyffrans a liw yw esya es darnow byghan ha nebesow bras."
+  - "Imajys rag tevesigyon yw posek. Lowarthow, keginow, kerri hag enyvales, a-der kartounow."
+  - "Gwari war-barth yw an poynt. Resegh darnow, sortyewgh an amal, ha gwrewgh gweles kover an gist."
+  - "Hwithransow geryow yn lytherennow bras ha mildammow es warlinen gans 4 po 9 darn yw heb kost war an wiasva ma."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Pygemmys darn mildam yw an gwella rag nebonan ow bywa gans demens?"
+    a: "Nyns eus niver ewn unnsel. Nebonan a wrug 1,000 darn kyns a yll hwath lowenhe gans nebes kansow y’n dalleth, ha re erel a wra gwell gans ogas ha dewdhek darn bras. Mar te feel an mildam avel ober po mar kwra ev po hi troblys, gwrewgh mos dhe le a dharnow. Agan mildam Lymnans warlinen a’n jeves 4 po 9 darn."
+  - q: "Yw jigsaws da rag tus ow bywa gans demens?"
+    a: "Meur a dus a’s kar, yn arbennek mar karsens mildammow kyns. Mildam a re neppyth dhe’n dhiwleuv dhe wul, amkan kler hag imaj dhe gewsel a-dro dhodho. Nyns eus mildam vyth diskwedhys dhe dhyghtya, lenthe po yaghhe demens, ytho dewisewgh i rag lowender ha kowethyans."
+  - q: "Pandr’a allav vy gul pan na yll nebonan dyghtya jigsaw na fella?"
+    a: "Gwrewgh ev byghanna ha gwrewgh moy anodho agas honan: resegh unn darn orth unn dermyn, po gasowgh marnas an dharnow finek ragdha. Assayewgh mildam warlinen 4 darn, sortya darnow dre liw, po sempel mires orth an imaj gorfennys war-barth."
+  - q: "Yw krowswriansow ha hwithransow geryow gwiw rag demens?"
+    a: "I a yll bos y’n powes a-varr, yn lytherennow bras. Hwithransow geryow gans geryow a-dreus hag yn-nans hepken yw esya es an re gans geryow a-gledh po a-dhelergh. Redyewgh an klewyon po an rol a eryow yn ughel ha gwrewgh oberi warnedha war-barth."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jigsaw lesys war an voos dybri yw onan a’n gwriansow esya dhe gevrenna. Hwi a yll esedha war-barth heb edhom a gewsel meur, an imaj a re neppyth dhe gewsel a-dro dhodho, ha gorra an darn finek a wra omglewes da. Mildammow a res chanjya dell janj demens, byttegyns. Mildam re gales a yll treylya dohajydh kosel dhe onan troblysus. An folen ma a gews a-dro dhe dhewis ha pareusi jigsaws, mildammow geryow ha mildammow es warlinen, ha pandr’a wul pan dheffo ha bos kales.
 
-## Are puzzles good for people with dementia?
+## Yw mildammow da rag tus ow bywa gans demens?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Meur a dus a’s kar, yn arbennek an re a wrug mildammow kyns. An [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a rol hwithransow geryow, gwariow kartennow ha gwariow bord yn-mysk gwriansow rag an powes a-varr, ha’n [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a gampol gwariow ha mildammow warlinen war dabletow avel fordh dhe besya omjunyas.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Nyns yw mildammow dyghtyans. Nyns eus mildam vyth diskwedhys dhe lenthe po hedhi demens; agan gid dhe [wariow brys ha demens](/brain-health/brain-games/) a shira an hwithrans. An acheson dhe wul mildam yw y hallsa bos our lowen ha didheur war-barth. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a’n gorr yn berr: fogellyewgh war lowender, a-der kowlwrians.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Fatell dhewis jigsaw rag nebonan ow bywa gans demens?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Gwrewgh mos herwydh an pyth a gar an den ha fatell eth an mildam diwettha, a-der label powes.
 
-### Number of pieces
+### Niver a dharnow
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Nyns eus niver ewn. Nebonan a wrug mildammow dres y vewnans a yll hwath lowenhe gans nebes kansow a dharnow y’n dalleth, ha nebonan arall yw an lowenna gans ogas ha dewdhek. Rewl devnydhadow: mar te feel an mildam diwettha avel ober, dewisewgh onan gans ogas ha hanter an darnow. Mar feu ev gorfennys yn uskis hag ev po hi a vynnas moy, gwrewgh mos yn-bann nebes.
 
-### Piece size and feel
+### Myns ha tegyans an darnow
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Darnow moyha bras** yw esya dhe weles, kemeres ha treylya.
+- **Darnow tew, krev** a wra pesya yn aga le ha godhevel kodha.
+- **Gorfen marthys** a lehe splann yn-dann lugarnow ha fenestri.
+- **Gwaytyewgh rag darnow byghan** mar kwra an den martesen gorra taklow yn y anow, a yll hwarvos diwettha yn demens.
 
-### The picture
+### An imaj
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Testennow rag tevesigyon.** Lowarthow, keginow, kerri koth, enyvales bargen tir, tre arvorek, po sport a garas. A-der kartounow po neppyth a hevel avel gwari flogh.
+- **Rannow kler a liw dyffrans.** Skiber rudh, skath glas ha park glas yw esya es ebrenn a lenow hanter an mildam.
+- **Koth ha personel.** Imaj a le may trigas ev po hi po delinyans a garas a re meur dhe gewsel a-dro dhodho. Nebes shoppys pryntya a yll treylya skeusen deylu dhe jigsaw.
 
-## How do you do a puzzle together?
+## Fatell wul mildam war-barth?
 
-Set it up so the person can get straight to the enjoyable part.
+Gwrewgh y bareusi may hallo an den dalleth a-dhistowgh gans an rann lowen.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Dewisewgh tyller da.** Golow da, kador gans breghlinow, ha bord po arenep may hall an mildam pesya yn-mes.
+2. **Savyewgh kover an gist** may hyllewgh hwi agas dew y weles.
+3. **Treylyewgh an darnow enep yn-bann** kyns dalleth.
+4. **Sortyewgh an amal** agas honan, po gwrewgh an amal kynsa ha gasowgh an kres ragdha.
+5. **Bagasowgh darnow dre liw** yn nebes plattys po lestri bas.
+6. **Resewgh unn darn orth unn dermyn** mar yw an bern re veur. "My a dyb bos hemma rann a’n skiber."
+7. **Kowsowgh a-dro dhe’n imaj,** a-der an avonsyans. "Honna a hevel avel an skath a’gas tas."
+8. **Gesewgh ev yn-mes.** Dewgh arta dres nebes dydhyow. Nyns eus fysk.
+9. **Hedhewgh war noten dha,** wosa bos darn gorrys yn le, ha hwath pan vo plegadow.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a gusul gweres an den dhe dhalleth, mires rag troblys ha gasa dhodho po dhedhi sempel mires mar kwra ev po hi lowenhe moy ynna. Mires orthowgh hwi ow korra darnow yn le, ha diskwedhes le may hallsa onan mos, yw hwath rann gemeres.
 
-## Easy online puzzles
+## Mildammow es warlinen
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Mildam war dablet a’n jeves lesow gwir: nyns eus darnow kellys, imajys bras a lenow an skrin, ha nyns eus bord dhe glirhe.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Agan [mildam Lymnans](/games/picture-puzzle/) heb kost a drogh imaj dhe 4 po 9 darn. Tappyewgh dew dharn dhe’s keschanjya bys pan vo an imaj dien. An imaj dien a wra pesya war an skrin avel gid, nyns eus termynador, ha hwi a yll hedhi orth poynt vyth. Peder darn a fytt meur a dus y’n gres powes gans nebonan ryb an tu.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Rag gwari imaj hwath moy sempel, assayewgh [Kavos an keth](/games/find-the-same/), le may tappyowgh hwi an imaj a dheu gans onan a-ugh, po [Sortya war-barth](/games/sort-together/), le may mos imajys dhe gawellow kepar ha’n gegin po an lowarth.
 
-## Word puzzles: word searches and crosswords
+## Mildammow geryow: hwithransow geryow ha krowswriansow
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Mildammow geryow a fytt tus a garas i pup-prys, dre vras a-varr yn demens.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Hwithrans geryow yn lytherennow bras.** Agan [Hwithrans geryow](/games/word-search/) heb kost a wra devnydh a lytherennow bras hag a-der nebes geryow hepken, ow mos a-dreus hag yn-nans, nevra a-gledh po a-dhelergh. Gwariwgh ev war an skrin po pryntyewgh ev.
+- **Redyewgh an rol yn ughel.** Onan a red ger, y gila a’n hwila. Kelghya an kynsa lytheren hepken yw da lowr.
+- **Krowswriansow yn lytherennow bras** dhyworth lyvrow mildammow a yll oberi y’n dalleth. Redyewgh an klewyon yn ughel, kevrennyn an bluven ha lenwewgh an gorthebow war-barth. Krowswriansow es, gans testen, yw gwell es an re ankombrys.
+- **Kowsowgh a-dro dhe’n geryow.** "Lowarth" a yll ledya dhe dheg mynysen a gewsel a-dro dhe domatys.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Rag moy gwriansow war baper ha fatell aga fynta may fons es dhe weles ha dhe synsi, gwrewgh mires orth [gwriansow demens heb kost dhe bryntya](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Py mildammow a fytt pub powes?
 
-Stages overlap, and good and hard days are normal.
+Powesyow a wra gorgudha, ha dydhyow da ha kales yw normal.
 
-| Stage | Puzzles that often fit | Your role |
+| Powes | Mildammow a fytt yn fenowgh | Agas rann |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| A-varr | Jigsaws koth gans le a dharnow es kyns, krowswriansow ha hwithransow geryow yn lytherennow bras, mildammow warlinen 9 darn | Keskwarier: gesewgh dhodho po dhedhi dewis, gwrewgh gweres pan vo govynnys |
+| Kres | Jigsaws gans ogas ha dewdhek darn bras, mildammow warlinen 4 darn, hwithrans geryow redys yn ughel war-barth | Pareusi, sortya darnow, ri unn darn orth unn dermyn |
+| Diwettha | Mires orth imaj gorfennys war-barth, Kavos an keth gans dew imaj, handla nebes darnow bras | Drys ev po hi dhedha; agas kowethyans yw an gwrians |
 
-## When should you make a puzzle easier, or stop?
+## P’eur y talvia gul mildam esya, po hedhi?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Gwrewgh mires rag hanasow, herdhya darnow dhe-ves, leverel "Ny allav" yn fenowgh po golok prederus. Henn yw arwodhyow dhe janjya neppyth, a-der pesya yn-rag.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Gwrewgh ev byghanna.** Le a dharnow, po gasowgh marnas an dharnow finek ragdha.
+- **Gwrewgh moy anodho agas honan** ha gelwewgh dhodho po dhedhi gweres gans an rannow esya.
+- **Chanjyewgh dhe neppyth ogas:** sortya darnow dre liw, mildam warlinen 4 darn, po [liwa](/games/coloring/).
+- **Hedhewgh.** Gorrewgh ev a-denewen ha kemerewgh hanafas a de. Hwi a yll dehweles dydh arall, po vytholl.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Mar kwra mildammow dalleth omglewes avel kovheans a’n pyth yw kales, da lowr yw aga gasa. Yma meur a fordhow erel dhe dreusya termyn da war-barth; agan [101 tybyansow gwrians](/activities/ideas/) yw le da dhe vires.

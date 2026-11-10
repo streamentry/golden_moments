@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Pan wra nebonan gans demens govyn an keth tra arta"
+seoTitle: "Govynnow arta gans demens: pyth dhe leverel ha gul"
+description: "Prag y hwra den ow triga gans demens govyn an keth tra arta hag arta, fordh kosel dhe worthyp, toulys sempel, ha pan yw chanj skon res medhek."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Govynnow arta yw kemmyn yn demens: yn fenowgh ny wra an den perthi kov a
+  wul an govyn, hag yn fenowgh yma preder y’n govyn. Gorthybowgh yn kosel ha yn
+  berr, kepar ha pan o an kynsa prys, ha gorthybowgh an omglew a-dryv dhodho.
+  Na leverewgh byth « hwi a wovynnas seulabrys ». Skrifewgh an gorthyp may
+  hallo ev y weles, kewsewgh a hwarvosow a-gyns marnas nebes a-dro dhe’n termyn,
+  ha profewgh gwrians plesont. Res yw medhek rag chanj skon.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Yn fenowgh ny wra an den perthi kov a wul an govyn; nyns yw dre vodh."
+  - "Yn fenowgh yma omglew kudhys y’n govyn, kepar ha preder a-dro dhe gevambos po hwans a omglywes saw."
+  - "Gorthybowgh yn kosel, yn berr hag yn kuv, kepar ha pan o an kynsa prys. Na leverewgh byth « hwi a wovynnas seulabrys »."
+  - "Noten, gwydh gwynn, klock po kolendar a yll gorthyp dhe’n govyn yn agas le."
+  - "Kewsewgh a hwarvosow a wra preder marnas a-gyns nebes a-dro dhe’n termyn."
+  - "Kemerewgh powes berr pan yw res dhywgh, ha kelwewgh medhek mar hwer chanj skon."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Prag y hwra ow thas gans demens govyn an keth govyn arta hag arta?"
+    a: "Demens a wra strok dhe’n gov berr-dermyn, ytho martesen ny wra ev perthi kov yn hwir a wul an govyn po a glewes an gorthyp. Yn fenowgh yma omglew y’n govyn ynwedh, kepar ha preder a-dro dhe’n pyth a hwer nessa po edhom a goser. Gorthyp dhe’n omglew na a wra gweres yn fenowgh moy es dasleverel an manylyon."
+  - q: "A dalvien leverel dhedha i dhe wul an govyn seulabrys?"
+    a: "Na dal. Ny yll henna gweres dhedha perthi kov, hag y hallsa omglywes kepar ha keredh. Kowethyansow demens a gomend gorthyp yn kosel pub prys, kepar ha pan o an kynsa prys, ha gwitha an gorthyp berr."
+  - q: "A wra gweres skrifa an gorthyp?"
+    a: "Y hallsa, hedre vo an den hwath abl dhe redya. Noten, gwydh gwynn gans towlen an jydh, klock bras po kolendar yn le may hwrons i mires yn fenowgh a’s gas dhedha checkya an gorthyp aga honan. Komendyewgh dhedha yn kosel yn le leverel « my a leveris dhis »."
+  - q: "P’eur y talvien kewsel a gevambosow po viajys?"
+    a: "Ogas dhe’n termyn. Kewsel a vysytyans medhek po viaj dydhyow a-rag a yll treylya yn ourys a wovynnow prederus. Leverewgh dhedha nebes a-gyns, yn kosel, gans an pyth a hwer nessa."
+  - q: "P’eur yw govynnow arta skila da rag kelwel medhek?"
+    a: "Mar kwra govynnow, kemygians po omdhegyans chanjya yn skon po mos dhe worse yn feur dres ourys po dydhyow, kelwewgh aga medhek a-dhistowgh. Klevesans, medhegneth nowydh, payn, torrkolodh po syghder a yll kawsya kemygians skon henwys delirium, hag yma edhom dhodho a with skav."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+« P’eur yw an medhek? » Deg mynysen a-wosa: « P’eur yw an medhek? » Klywes an keth govyn arta hag arta yw onan a’n rannow moyha skwithus a witha nebonan ow triga gans demens. Yth yw pur gemmyn, nyns yw gwrys a vodh, hag yma fordh kosel dhe worthyp a wra an jydh esya rag an dhew ahanowgh.
 
-## Why does someone with dementia ask the same question over and over?
+## Prag y hwra nebonan gans demens govyn an keth govyn arta hag arta?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Dre vras drefen kov. Demens a wra strok dhe’n kov berr-dermyn, ytho yn fenowgh ny wra an den perthi kov a wul an govyn, po ny wra perthi kov an gorthyp. An [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) a dheskrif govyn govynnow lieskweyth avel tra kemmyn ha gortys.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Yn fenowgh yma omglew y’n govyn ynwedh. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) a shkrif y hall govyn arta diskwedhes preder, govyn gweres, po ahwer hag anserneth, hag yn fenowgh y hwra an den hwilas kosoleth ha tra aswonnys. « P’eur a wren ni mos? » a yll styrya yn hwir « Yth ov nervus a-dro dhe vos ». Annedh, own, tros ha chanjyow y’n usan jydhek a yll oll y dhala, hag y hall govyn arta diskwedhes edhom ynwedh, kepar ha mos dhe’n stevel-omwolghi ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Pyth a dalvien leverel?
 
-Answer calmly and briefly, as if it were the first time.
+Gorthybowgh yn kosel hag yn berr, kepar ha pan o an kynsa prys.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Gwrewgh an gorthyp berr ha keth.** « An medhek yw dhe 2 a’n dohajydh. My a vydh genowgh. » Gorthyp kesson yw esya dh’y dhegemeres.
+- **Gorthybowgh an omglew.** « Hwi a breder a-dro dhe’n medhek. Yma ev dohajydh ma, ha my a’n lyw dhyn ni. Nyns eus tra vyth res dhywgh gul. »
+- **Gwrewgh devnydh a lev toemm ha toch kosel,** mar kwrons i y gara. An Alzheimer's Association a gomend pesya kosel ha heb devnydhya reson po argya.
+- **Rewgh an gorthyp mayth yns i ow hwilas,** mar venowgh dell yw res. An Alzheimer's Association a lever dhe dhasleverel kemmys gweyth dell wovynnons i.
 
-## What should I avoid?
+## Pyth a dalvien gochel?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **« Hwi a wovynnas henna dhymm seulabrys. »** An [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gomend na wrewgh diskwedhes i dhe wul an govyn a-gynsow. Ny yll henna aga gweres dhe berthi kov, hag y hallsa omglywes kepar ha bos keredhys.
+- **Displegyansow hir.** Moy a eryow a re moy dhe ankevi.
+- **Hanasow, treylyansow lagas po ton asper.** An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a gomend perthyans ha heb diskwedhes serrys. Henna yw kales; gwrewgh mires an rann a-dro dhe bowesow a-woles.
 
-## Simple tools that answer the question for you
+## Toulys sempel a worthyp yn agas le
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Hedre vo an den hwath abl dhe redya, gorthyp skrifys a yllons i gweles a wra gweres yn fenowgh moy es onan kewsys.
 
-| Tool | How to use it |
+| Toul | Fatell dh’y usya |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Noten gans lytherennow bras | « Medhek hedhyw dhe 2 a’n dohajydh. Mary a’n lyw. » Gorryewgh hi yn le may hwrons i mires yn fenowgh |
+| Gwydh gwynn | Towlen an jydh yn tri po peswar linen; dilewgh ha skrifewgh arta pub myttin |
+| Klock bras gans an jydh ha’n dydhyas | Gweres gans « Py jydh yw? » ha « Yw termyn hwath? » |
+| Kolendar | Treuslinyewgh pub dydh; kelyewgh an nessa vysytyans |
+| Skeusennow aswonnys | Skeusen a’n den a dheu a yll gorthyp dhe « Piw a dheu? » |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+An tybyansow ma a dheu dhyworth an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) hag [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Komendyewgh dhe’n noten yn kosel (« Gwren ni mires orth an bord war-barth ») yn le leverel « My a’n skrifas dhis ».
 
-## Tell them about events close to the time
+## Leverewgh dhedha a hwarvosow ogas dhe’n termyn
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Kewsel a gevambos po viaj dydhyow a-rag a yll treylya yn ourys a wovynnow prederus. An Family Caregiver Alliance hag Alzheimer's Los Angeles a brof kewsel a dowlow, yn arbennik an re a wra preder kepar ha visytyansow medhek po omwolghi, marnas nebes a-gyns dhedha hwarvos. Ena leverewgh an pyth a hwer nessa, unn gamm wosa y gila.
 
-## Activities that can shift attention
+## Gwriansow a yll treylya an attendyans
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Wosa hwi dhe worthyp ha skrifa an omglew, gwrians kosel ha plesont a yll gweres, yn arbennik mar yw annedh a-dryv an govynnow. Pub fenten a-ugh a brof treylya dhe neppyth a gar an den.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Gwari berr hag es war-barth.** [Picture pairs](/games/picture-pairs/) a wra gwitha an skeusennow gweladow, ytho nyns eus edhom perthi kov a dravyth.
+2. **Ober aswonnys.** Plegya towelyow, sortya lodhow po gorre an voos. [Sort together](/games/sort-together/) yw versyon war an skrin.
+3. **Kewsewgh a neppyth a garons yn feur.** [Conversation cards](/games/conversation-cards/) a re profyansow ygor heb gorthyp ewn.
+4. **Ilow, kerdh po boes bian.** An National Institute on Aging a’s re avel fordh sempel dhe dreylya an attendyans.
+5. **Powes kosel.** Esedhowgh war-barth, mirewgh dre an fenester, po assayewgh pols [calm breathing](/games/calm-breathing/) war-barth.
 
-If they return to the question, answer it again, kindly. That is fine.
+Mar tehwhelons dhe’n govyn, gorthybowgh arta, yn kuv. Puer dha yw henna.
 
-## Look for patterns
+## Hwilas patronyow
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+An Alzheimer's Association a brof merkya mar teu an govynnow orth termynyow arbennik a’n jydh, yn ogas tus arbennik po yn leow arbennik. Mar dhallethons pupprys kyns dell dheu godrigoryon, po yn dohajydh diwettha, hwi a yll towlya a-rag: noten a-dro dhe’n vysytyans, gwrians aswonnys parys, stevel moy kosel. Agan gidyans a-dro dhe [gwriansow kosel dohajydh diwettha](/caregiving/late-day-restlessness/) a yll gweres mar yw gordhuwherow an moyha kales.
 
-## Take care of yourself
+## Gwitha agas honan
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Gorthyp dhe’n keth govyn rag an ugansves gweyth yw skwithus. Mar klewewgh agas perthyans ow mos ha bos an den saw, kerdhowgh dhe stevel aral rag nebes mynysennow hag anella, dell brof [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a gomend dhe withysi govyn gweres ha prederi a-dro dhe with powes. Moy tybyansow a yw yn agan [gidyans a-dro dhe witha an gwithyas aga honan](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## P’eur a dalvien kelwel medhek?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Kelwewgh aga medhek a-dhistowgh mar kwra govynnow, kemygians po omdhegyans chanjya yn skon po mos dhe worse yn feur dres ourys po dydhyow. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a lever y tal bos omdhegyans skon po ow chanjya yn uskis, yn arbennik wosa klevesans po chanj yn medhegneth, diskwedhys dhe vedhek a-dhistowgh. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) a shkrif y hall klevesans, medhegnethow, syghder, payn po torrkolodh kawsya delirium, kemygians skon ha sevur hag yma edhom dhodho a withyans skav. Kelwewgh 999 mar yw nebonan yn peryl.

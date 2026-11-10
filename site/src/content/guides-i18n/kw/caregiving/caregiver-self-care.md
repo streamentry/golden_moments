@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Gwitha agas honan: Powes, Skoodhyans ha Sinys Skwithder"
+seoTitle: "Gwitha agas honan: Powes ha Skoodhyans"
+description: "Sinys a skwithder gwithysi, fatel kavos powes ha bagasow skoodhya, ha linenyow gweres heb kost yn SUA, y'ga mysk Linen Gweres 24/7 Alzheimer's Association ha Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Gwitha nebonan ow bewa gans demensia yw kales, hag yw rann a’n ober gwitha
+  agas honan. Gwrewgh mires orth sinys gwarnyans avel skwithder, serrys,
+  koska gwadn ha kildenna dhiworth kowetha. Govynnewgh gweres komparek, usyewgh
+  gwith powes, hag omjunewgh gans bagas skoodhya. Gweres heb kost yn SUA a
+  gomprehend Linen Gweres 24/7 Alzheimer's Association orth 1-800-272-3900 ha’n
+  Eldercare Locator orth 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Skwithder a wra omdhiskwedhes yn fenowgh avel skwithder bras, serrys, koska gwadn, tristys ha gasa agas gwith yeghes agas honan."
+  - "Gwith powes a re dhywgh powes, a-dhia nebes ourys bys yn nebes seythunys, tre po yn le gwith."
+  - "Govynnewgh gweres gans oberow komparek; lies den a vynn gweres mes ny wonn fatel."
+  - "Linen Gweres 24/7 Alzheimer's Association (1-800-272-3900) a brov skoodhyans heb kost ha privedh pub eur."
+  - "An Eldercare Locator (1-800-677-1116) a’gas jun gans gonisyow teythyek, y’ga mysk agas Area Agency on Aging."
+  - "Mar kudhynsowgh hwi bos yn studh kales, galwewgh po tekstewgh 988. Yn studh a fydh, galwewgh 999."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Pyth yw an sinys a skwithder gwithysi?"
+    a: "Y’ga mysk yma sinys kemmyn avel omglewes pur skwith, gorthgargys po prederus, serri po koll perthyans yn es, kales yw koska, omglewes trist po heb govenek, kildenna dhiworth kowetha, penn-dro po payn yn fenowgh, ha gasa agas boesow, exercis po gwith medhegel agas honan. Mar hwra sinys a’n par ma hwarvos yn reyth, kewsewgh orth agas medhek."
+  - q: "Fatel kavav gwith powes yn ogas dhymm?"
+    a: "Dalleth ewgh gans an Eldercare Locator (1-800-677-1116 po eldercare.acl.gov) rag drehedhes agas Area Agency on Aging teythyek, an ARCH National Respite Locator Service, po Linen Gweres Alzheimer's Association orth 1-800-272-3900. Teylu, kowetha ha bodhogyon a yll provia powes ynwedh."
+  - q: "A wra Medicare pe gwith powes?"
+    a: "Rag den ow tegemeres gwith hospice, Medicare a gudh rann vrassa an kost a bys pymp dydh yn unn rew a with powes yn klavji po yn le gwith medhygel, herwydh an National Institute on Aging. An brassa rann a assurans yeghes privedh ny wra kudha gwith powes; Medicaid ha nebes towlow assurans gwith hirdermyn a yll gweres."
+  - q: "Yw Linen Gweres Alzheimer's Association heb kost yn hwir hag yger dres an nos?"
+    a: "Ya. Alzheimer's Association a lever hy Linen Gweres orth 1-800-272-3900 dhe vos heb kost, privedh ha gans mayni a-dro dhe’n jorna, 365 dydh y’n vledhen, gans gweres kavadow yn lies yeth. Galwewgh 711 rag gonis relay."
+  - q: "Yw vy owth omvlamya mar kemerav powes dhiworth gwitha?"
+    a: "Na. Powes a’gas gweres dhe besya gwitha, ha gwith powes a yll ri ynwedh dhe’n den a withyowgh chanj a gowethas ha gwriansow. Lies gwithyas a lever diwettha i dhe vynnens i bos govynnys gweres moy a-varr."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Mar owgh hwi ow kwitha nebonan ow bewa gans demensia, martesen yth owgh hwi ow redya hemma diwettha, skwith, ha gans rol a daklow na wrussowgh hwi hwath. Hemm yw herwydh usadow. Gwitha agas honan nyns yw tra moy po pewas wosa gorfenna puptra. Yth yw an pyth a’gas gweres dhe besya.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+An folen ma a gomprehend an sinys gwarnyans a skwithder, fatel kavos powes gwir, ple kavos skoodhyans, ha linenyow gweres heb kost yn SUA a yllowgh hwi galwel hedhyw.
 
-## What are the signs of caregiver burnout?
+## Pyth yw an sinys a skwithder gwithysi?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Skwithder a wra omdhiskwedhes yn lent, ytho da yw godhvos agas sinys gwarnyans agas honan. An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) a rol sinys a stres gwithysi, y’ga mysk:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- omglewes pur skwith, gorthgargys po prederus;
+- serri po koll perthyans yn es;
+- omglewes unnik po diberthys dhiworth tus erel;
+- kales yw koska, po ny gevowgh lowr a goska;
+- omglewes trist po heb govenek, po koll les yn taklow a wrussa hwi lowenhe kyns;
+- penn-dro, payn po kudynnow korf yn fenowgh;
+- nyns eus termyn dhe exersisya po dhe bareusi boes yagh ragowgh hwi agas honan;
+- gasa kowas po gwith personel erel;
+- usya diwgh po droggys yn kamm, y’ga mysk medhegiethow reskrifys.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) a geworr sinys avel nagha an gleves, sorr orth an den (« ev a vynn bos stobek yn sempel »), preder a-dro dhe’n termyn a dheu, kales yw fogella, ha kudynnow yeghes ow tochya warnowgh. Ev a gomend kewsel orth agas medhek mar hwarv sinys a’n par ma yn reyth.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Kussul an NIA yw na wortowgh bys pan vowgh hwi gorthgargys yn tien. Aswonnowgh agas sinys a-varr ha gwrewgh neppyth.
 
-## What can I do today, in five minutes?
+## Pyth a allav vy gul hedhyw, yn pymp mynysen?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Powesow byghan yw posek. Nyns yw nagonan a’n re ma ow kelwel skwithder, mes i a yll agas gweres dre dohajydh kales.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Gwrewgh mos yn-mes.** Esedhewgh war an argh po kerdhewgh dhe’n gist lytherow ha’n den saw ha kosel.
+- **Anallewgh yn lent.** Nebes anallyow lent kyns hwi dhe worthyp gorthyp kales. Hwi a yll ynwedh kevrenna pols [Anella Kosel](/games/calm-breathing/) gans an den a withyowgh.
+- **Evewgh dowr ha dybrewgh neppyth.** Es yw ankevi agas boesow agas honan.
+- **Tekstewgh dhe unn goweth.** Nyns yw res govyn neppyth, mes junya yn sempel.
+- **Leverewgh neppyth kuv dhe’gas honan.** [Gid an NIA a-dro dhe witha agas honan](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) a gomend lavarow avel « Yth esov vy ow kul agan gwella », « Nyns ov vy perfydh, hag yma da lowr » ha « My a vynn enjoya an polsyow pan yllyn ni bos war-barth yn kosel ».
 
-## What is respite care, and how do I get it?
+## Pyth yw gwith powes, ha fatel y hallav vy y gavoes?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Gwith powes yw gwith berrdermyn rag an den a withyowgh, may hallowgh hwi powes. [Folen an NIA a-dro dhe with powes](https://www.nia.nih.gov/health/caregiving/what-respite-care) a styrya y hall pesya a nebes ourys bys yn nebes seythunys hag y hall hwarvos tre, yn le gwith yeghes po yn kres jydh tevesikyon.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) a dheskrif eghennow kemmyn:
 
-| Type | What it is |
+| Eghen | Pyth yw |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Gweres tre | Koweth, kar, bodhogor po kowethas po gweresyas pes a dheu dhe’n chi |
+| Kres jydh tevesikyon | Gwriansow towlennys avel ilow hag art yn bagas saw; treusporth ha boesow yw profys yn fenowgh |
+| Triga dres nos po berr | Kemeneth gwith hirdermyn a with an den rag unn nos, nebes dydhyow po nebes seythunys |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Piw a be?** Herwydh an NIA, powes dhyworth teylu, kowetha po bodhogyon a yll bos heb kost. Gonisyow praga a wra charjya an our po an jydh. Rag den ow tegemeres gwith hospice, Medicare a gudh rann vrassa an kost a bys pymp dydh yn unn rew a with powes yn klavji po yn le gwith medhygel. Medicaid a yll gweres. An brassa rann a assurans yeghes privedh ny wra kudha gwith powes, kyns eus nebes towlow assurans gwith hirdermyn a’n gwra.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Profyans:** An Alzheimer's Association a gomend assaya proviers gwith powes yn studh na vo a fydh, may fons parys mar kwrello hwi edhomm a weres a-dhesempis.
 
-## Where can I find help near me?
+## Ple hallav vy kavos gweres yn ogas dhymm?
 
-Several free US services can point you to local help.
+Yma lies gonis heb kost yn SUA a yll agas hembronk dhe weres teythyek.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Linen Gweres 24/7 Alzheimer's Association: 1-800-272-3900.** An [Linen Gweres](https://www.alz.org/help-support/resources/helpline) yw heb kost ha privedh, gans mayni a-dro dhe’n jorna pub dydh a’n vledhen, gans gweres yn moy es 200 yeth dre vaynoryon dewethyek po treylyoryon. Galwewgh 711 rag gonis relay. Hwi a yll kewsel a-dro dhe janjyow yn omdhegyans, stres gwithysi, dewisow gwith powes, towlow teythyek ha moy, ha govyn kesklapp hirra gans kussulyas gwith. Nyns yw an vaynoryon ow ri kussul medhegel.
+- **Eldercare Locator: 1-800-677-1116.** An [Eldercare Locator](https://eldercare.acl.gov/), gonis poblek an Administration for Community Living, a’gas jun gans gonisyow rag tevesikyon ha’ga theyluyow. Hwi a yll galwel, teksti, klappya warlinen po danvon e-bost dhe vaynoryon dyskys, po hwilas herwydh tyller. Ev a yll agas hembronk dhe’gas Area Agency on Aging teythyek.
+- **ARCH National Respite Locator Service.** An [hwilas gwith powes ARCH](https://archrespite.org/caregiver-resources/respitelocator/) a’gas gweres dhe gavos proviers gwith powes herwydh stat, hag ev a gomend kestava orth agas State Respite Coalition po Lifespan Respite program kynsa mar eus unn y’gas stat. ARCH a verk na wra ev checkya proviers, ytho gwrewgh hwi agas honan daswel agas prevyans ha’ga kilva.
 
-## How do I find a support group?
+## Fatel hallav vy kavos bagas skoodhya?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Govynnewgh orth an Linen Gweres po hwilewgh warlinen rag bagasow yn ogas dhywgh. Alzheimer's Association [a restra bagasow skoodhya](https://www.alz.org/help-support/community/support-groups) rag gwithysi ha tus ow bewa gans demensia, yn person ha warlinen, hembrenkys gans gidoryon dyskys. Lies tyller a brov ynwedh bagasow arbennik, rag ensampel rag gwithysi tevesik po rag tus ow bewa gans Alzheimer dalleth a-varr po yn studh a-varr. Ev a wra ostya ynwedh ALZConnected, kemeneth heb kost warlinen may kevren gwithysi kussul.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Bagasow skoodhya a yll bos tyller dhe gewsel heb breus, dhe dhyski profyansow pratik dhyworth tus re beu y’n keth studh, ha dhe omglewes le unnik. Mar nyns yw an kynsa bagas an ewn, assayewgh onan aral.
 
-## How do I ask family and friends for help?
+## Fatel hallav vy govyn gweres orth teylu ha kowetha?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Bedhewgh komparek. Lies den a vynn gweres mes ny wonn pyth dhe brofya. An NIA a gomend:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Gwrewgh gwitha rol** a oberow a all tus erel kemeres, ha gesewgh dhedha dewis.
+- **Dalleth ewgh gans neppyth byghan** mar yw kales govyn.
+- **Dewisewgh an ober rag an den.** An gorrether a gar kegina a dhre koen dy’Yow. An kentrevek yw da gans furvlenyow a weres gans paperyow.
+- **Tekstewgh po danvenewgh e-bost** mar yw anes govyn yn fas orth fas.
+- **Gwrewgh praktisya gorthyp** pan brof nebonan gweres: « Meur ras a wovyn. Ottomma an pyth a yllowgh hwi gul. »
+- **Gwrewgh gwaytya nebes nagha** ha gwrewgh assaya na gemerowgh i yn bersonel.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Tybyansow erel: govynnewgh orth nebonan esedha gans an den rag unn dohajydh y’n seythun, y gemeres yn-mes rag tro berr, po dos dhe vysytya ha gwari gwari war-barth. Agan [gid rag gwari war-barth](/caregiving/how-to-play-together/) yw es dhe gevrenna gans vysytyoryon.
 
-## What if something happened to me?
+## Pyth mar hwarva neppyth dhymm vy?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Gwrewgh towl sempel rag skoodhyans lemmyn. An NIA a gomend ervira gans teylu po kowetha nes piw a wra kemeres le, ha gwitha lyver notennow gans niverow a fydh, medhegiethow, profyansow omdhegyans a ober, ha gwriansow meurgerys. Alzheimer's Association a gomend ynwedh gwitha kestavow medhegel an den ha rol nowedhys a vedhegiethow es dhe gavos.
 
-## When should I get professional or urgent help?
+## P’eur y tal dhymm kavos gweres praga po a fydh?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Kewsewgh orth agas medhek mar yw sinys stres reyth, mar owgh hwi owth omglewes trist, po mar yw kales dhywgh dyghtya. Leverewgh dhe’gas medhek bos hwi gwithyas. An NIA a verk y hall kussulyoryon ha oberoryon socyal gweres gans omglewansow kales ha towlennans, hag y hall Medicare, Medicaid ha nebes assurans privedh kudha nebes kostow yeghes brys.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Mar owgh hwi owth omglewes yn studh kales po mar eus dhywgh tybyansow a omshyndya, galwewgh po tekstewgh 988 rag drehedhes an [988 Suicide & Crisis Lifeline](https://988lifeline.org/), heb kost ha kavadow 24/7. Mar yw nebonan yn peryl a-dhesempis, galwewgh 999.
 
-## Can shared activities give me a break too?
+## A yll gwriansow kevrennys ri powes dhymm vy ynwedh?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Treweythyow. Gwrians kosel a enjoyowgh hwi agas dew a yll bos rann moy es dha’n jydh ragowgh hwi keffrys ha’n den a withyowgh: goslowes orth ilow koth, mires orth skeusennow, po gwari avel [Kerdyn Kows](/games/conversation-cards/) na wra edhomm a worthybow ewn. Mar yw an den owth enjoya kowethas, esedhek bagas gans [Bingo Skeusennow](/games/picture-bingo/) yn kres tevesikyon po towlen jydh a yll ri dhywgh our a bowes. Gwrewgh mires orth [gwriansow rag bagasow yn kres gwith](/activities/care-home-groups/) rag tybyansow.

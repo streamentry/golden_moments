@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Gwriansow ilow rag tus ow bywa gans dismyk"
+seoTitle: "Gwriansow ilow ha dismyk: rolyow ha tybyansow"
+description: "Fatell gevrenna ilow gans nebonan ow bywa gans dismyk: gul rol ilow personel, 15 gwrians sempel, ha kyghow rag pub nivel."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Ilow yw onan a’n gwriansow esya dhe gevrenna gans nebonan ow bywa gans dismyk.
+  Gwrewgh rol ilow personel dhyworth ilow aga yowynkneth, aga fydh ha’ga theylu,
+  gwrewgh y seni heb argemynnow po tros a-dhelergh, ha kenewgh, gwrewgh klyckyow,
+  gwrewgh omvovya po goslowewgh war-barth. Dewisewgh ilow kosel po ilow bewek herwydh
+  an pols, gwrewgh an ughelder kosel, ha hedhewgh mar kwra kan anodho.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Ilow personel yw an gwella: an gisow a garens i pan ens yonkers, ha ilow a’ga fydh, gonisogeth ha hwarvosow teylu."
+  - "Senyewgh unn dra yn unn termyn, heb argemynnow ha’n pellwolok marow."
+  - "Kana, klyckya, omvovya ha goslowes yn sempel yw fordhow da dhe gemeres rann."
+  - "Usyewgh ilow kosella dhe goselha hag ilow moy bewek dhe dhrehevel an vro, ha miryewgh fatell wra an den gorthebi."
+  - "Beven yw an hwithrans a-dro dhe esedhogow ilow restrys; ni a brof ilow avel neppyth plesont dhe gevrenna, nag yw medhegneth."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Py par ilow yw an gwella rag nebonan ow bywa gans dismyk?"
+    a: "Ilow a wodhes hag a garas an den dres termyn hir, yn fenowgh dhyworth aga blydhynyow deg ha ugens, war-barth gans ilow a’ga fydh, gonisogeth ha solempnitys teylu. Mar kyllir, gesewgh dhedha dewis. Miryewgh orth aga fas ha’ga horf dhe dhyski an pyth a garons, ha towlewgh dhe-ves tra vyth a hevel aga anfesya."
+  - q: "A dalvien usya skovarnigow?"
+    a: "Nebes tus a gar skovarnigow drefen may lettons tros, mes re erel a’s kev yndannvos po kemyskys. Assayewgh kowsellor kynsa may hyllyowgh goslowes war-barth. Mar usyowgh skovarnigow, gwrewgh an ughelder isel ha trigewgh ogas."
+  - q: "A yll ilow gweres gans dihefter po trobolder?"
+    a: "Ilow kosel, aswonys a yll gweres gul ayrgylgh kosel, ha Kowethas Alzheimer a brof usya ilow dhe wul an ayrgylgh a vynnowgh. Ny ober pup prys. Mar yw an den troblys, checkyewgh ynwedh rag payn, nown, tros po skwithter."
+  - q: "A yll tus gans dismyk yn nivel diwettha lowenhe hwath gans ilow?"
+    a: "Meur a’n jeves a yll. Kowethas Alzheimer a not may hall nebonan y’n nivel diwettha hwath tappya kur po kana war-barth gans kan dhyworth aga flogholeth. Esedhewgh ogas, senyewgh an ilow yn kosel ha synsyewgh aga dorn po omvovyewgh war-barth."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Ilow yw onan a’n taklow sempla a yllowgh kevrenna gans nebonan ow bywa gans dismyk. Ny wovyn travyth: nag eus gorthebow ewn, nag eus dalghow dhe sewya. Kan aswonys a yll dri minhwarth, troes ow tappya po nebes geryow ow pos kenys war-barth, hwath yn jydh pan yw kescows kales. Oll a wodhowgh yw an ilow ewn rag an den ma ha pols kosel dh’y seni.
 
-## What music activities work for people with dementia?
+## Py gwriansow ilow a ober rag tus ow bywa gans dismyk?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Goslowes, kana, klyckya, omvovya ha kewsel a-dro dhe ilow oll a ober yn ta. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a brof seni ilow, kewsel a-dro dhe’n ilow ha’n artydh, kana po donsya gans kanow aswonys, ha mos dhe geskanow po towlow ilow y’n gemenieth. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) a geworr y hall gwayans kepar ha klyckya po donsya keworra dhe’n lowender, hag y hall ilow bos fordh dhe junya wosa bos geryow kales.
 
-## How do you build a personal playlist?
+## Fatell wul rol ilow personel?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+An dra moyha dhe les a yllowgh gul yw rol ilow a styr neppyth dhe’n den ma. An [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a dreylyv ynwedh ilow gans styr personel. Ottomma fordh sempel dh’y wul.
 
-### Start with their life
+### Dalethewgh gans aga bywnans
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Aga blydhynyow deg ha ugens.** Prederyewgh a-dro dhe’n pyth esa war an radyo, orth donsow hag y’n fylmow pan ens i yowynk.
+- **Polsyow meur.** An ilow orth aga demedhyans, aga hyns dons kynsa, po albom drudh a deylu rag viaj.
+- **Fydh ha gonisogeth.** Hymnys, gospel, ilow kryjyk, po kanow y’ga hens yeth.
+- **Ober ha gonis.** Bandyow ow kerdhes, kanow ober, po ilow junys gans termyn y’n lu.
+- **An pyth a berth kov teylu.** Govynnewgh orth breder, fleghes ha kowetha coth pyth a senens po a ganens pup prys.
 
-### Think in genres, not just songs
+### Prederyewgh a-dro dhe iskow, nag yn unnik kanow
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Mar ny wodhowgh py le dalleth, assayewgh nebes mynysennow a bubonan a’n re ma ha miryewgh orth an gorthebyans: big band ha swing, doo-wop, Motown ha soul, rock and roll a-varr, country ha western, bluegrass, gospel ha hymnys, kanow show Broadway, savonek jazz, ilow Latin kepar ha boleros po mariachi, polka, folk ha klassyk. Gwithyewgh an pyth a dhre minhwarth po troes ow tappya; towlewgh dhe-ves an pyth a dhre frounk.
 
-### Make it easy to play
+### Gwrewgh y es dhe seni
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Heb argemynnow.** An Alzheimer's Association a warn may hall argemynnow kawsya kemysk. Usyewgh ilow iskargys, plasenigow, plasenigow hir po gonis heb argemynnow.
+- **Unn devis sempel.** Kowsellor gans unn boton bras, po rol ilow gwithys ha parys, may hall pubonan y dhalleth.
+- **Dew rol verr.** Rol gosel rag koselha ha rol bewek rag drehevel an vro.
+- **Gwrewgh label.** Skrifewgh hanow an den ha « ilow meurgerys » war an devis may hall teylu ow tyskwedhes ha mayni gwitha y usya ynwedh.
 
-## 15 music activities to try
+## 15 gwrians ilow dhe assaya
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Goslowewgh war-barth.** Esedhewgh a-denewen heb travyth arall ow hwarvos. Goslowes yw gwrians leun.
+2. **Kenewgh war-barth.** Dalethewgh ow kana agas honan. Hymnya po movya an levow yw lowr.
+3. **Gwrewgh klyckyow po tappya an kur.** Gwrewgh pattys war dhewlin, tappya an voos, po usya tabour byghan po shaker.
+4. **Dons lent.** Synsyewgh dorn ha gwrewgh omvovya y’n gegin, po donsya owth esedha, ow movya bregh war-barth.
+5. **Dons gans lien skarf.** Gwaskewgh liennow skav y’n termyn gans an ilow, ow sevel po owth esedha.
+6. **Kewsewgh a-dro dhe’n ilow.** Gelwyewgh, na wrewgh previ: « Hemma a hevel dhe hel dons. Leverewgh dhymm a-dro dhe’n donsow. » Na wrewgh govyn bythkweth « A borth kov dhis a’n gan ma? »
+7. **Senyewgh albom dien.** Gwrewgh seni plasen a garens, dhyworth dalleth dhe worfen, gans koffi.
+8. **Miryewgh orth kudynnow albom.** Kudynnow plasenigow koth yw splann rag kewsel a-dro dhe dhillas, kerri ha fismens.
+9. **Gwaytyewgh gwari ilow.** Gwari ilow fylmys po keskan dhyworth aga oos a wra gorthugher da. Powesewgh rag powysyow.
+10. **Gwaryewgh benvek a wodhon.** Pianydh po gitarydh kyns a yll lowenhe gans gwari sempel. Diwettha, dewis nebes notennow war-barth yw lowr.
+11. **Ilow ha hwi owth oberi.** Senyewgh kanow meurgerys hag ow plegya dillas po ow restra an voos.
+12. **Kan myttin.** Dalethewgh pub dydh gans an keth kan lowenek avel rann a’n usadow.
+13. **Kenewgh hymnys po ilow kryjyk.** Senyewgh ilow a’ga hengov kryjyk ha kenewgh war-barth.
+14. **Omgemeryewgh gans bagas kana.** An NHS a dhragh bagasow kana avel da rag vro ha sewena. Govynnewgh yn leel a-dro dhe goryow kan ow rogh dhe dus ow bywa gans dismyk.
+15. **Ewgh dhe ilow byw.** Keskan berr y’n gemenieth po band yn-mes. Esedhewgh ogas dhe’n daras ha kewgh pan vynnowgh.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Rag gwrians yskynna gans geryow aswonys, assayewgh [gorfenna an lavar](/games/finish-the-saying/), le may hyllyowgh pup prys diskwedhes an worfen.
 
-## Matching music to the moment
+## Keshesya ilow gans an pols
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+An Alzheimer's Association a brof usya ilow dhe wul an vro a vynnowgh: ilow kosel rag ayrgylgh kosel, ha kan bewek dhyworth yowynkneth nebonan dhe dhrehevel an spyrys.
 
-| Moment | Try | Tip |
+| Pols | Assayewgh | Ky | 
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Dihuni | Kan aswonys, lowenek | An keth kan pub myttin a dheu ha bos arwodh kosel |
+| Oberennow tre | Kanow meurgerys, bewek | Ilow a yll gul ober heveli koweth |
+| Boosow | Ilow kosel heb geryow | Gwithyewgh y kosel ma na wrello kesstrivya gans dybri |
+| Gorthugher | Ilow kosel, aswonys yn golow da | Gwelewgh [dihefter diwettha an jydh](/caregiving/late-day-restlessness/) |
+| Termyn kosk | Ilow lent, kosel | Iselhewgh an ughelder ha’n golow war-barth |
+| Nivel diwettha | Aga hanow meurgerys, pur gosel | Esedhewgh ogas ha synsyewgh dorn |
 
-## Tips for a good experience
+## Kyghow rag eksperyans da
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Tewl dhe-ves tros arall.** An Alzheimer's Association a brof degea fenestri ha darasow ha marowhe an pellwolok may fo ilow an unn son.
+- **Gwithyewgh an ughelder kosel.** Ilow a dal bos es, nag ughel. Mar us an den owth usya klewesell, surhewgh aga bos ynna hag owth oberi; gwelewgh [klewans](/brain-health/hearing/).
+- **Miryewgh rag kevrennow trist.** Nebes kanow a dhre kov a dhueth, bresel po koll. Mar kwra kan anodho, comfortyewgh ev ha chanjyewgh an gan.
+- **Gesewgh dhedha hembronkya.** Mar kyllir, gesewgh dhe’n den dewis an ilow, ha degemeryewgh nagha.
+- **Hedhewgh pup prys.** Pymp mynysen a ilow yw gwrians da. Yndella yw y degea ha esedha yn kosel.
 
-## What does the research say about music and dementia?
+## Pyth a lever an hwithrans a-dro dhe ilow ha dismyk?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+An dustuni yw beven. [Daswel Cochrane 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) a viras orth 30 studh a esedhogow ilow restrys, yn fenowgh gans bagasow yn trevow gwitha. Ev a gavas y hall an esedhogow ma esya nebes an arwodhyow a iselder war-barth gans gwith usadow, mes ny gavas effeyth kler war dhihefter, sewena po prederi ha kov, ha nag eus effeythow a besyas wosa gorfenna an esedhogow.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Ni a gevrenn ilow drefen bos fordh plesont, heb gwask dhe dreuspassya termyn war-barth, nag yw medhegneth. Rag settyansow bagas, gwelewgh [gwriansow bagas yn tre gwitha](/activities/care-home-groups/); rag usya ilow war-barth gans skeusennow ha hwedhlow, gwelewgh [gwriansow kovheans](/activities/reminiscence/).

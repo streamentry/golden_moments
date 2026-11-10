@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Sinys a-varr a dhidementia ha p’eur dhe weles medhek"
+seoTitle: "Sinys a-varr a dhidementia ha p’eur dhe weles medhek"
+description: "Sinys kemmyn a-varr a dhidementia, an dyffrans dhyworth kothni usadow, kawsow a broblemow kov a yll bos gwrys gwell, ha fatel ombareusi rag medhek."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Kelli kov a wra lettya bewnans pub dedh, kaletter gans oberow koth, kellys yn termyn po le,
+  ha chanjyow yn bris po vreus a yll bos sinys a-varr a dhidementia. Lies studh arall, y’ga mysk
+  problemow an gland thyroid, B12 isel, sideffektys a vedhegieth, diglonter ha problemow kosk, a yll
+  kawsya chanjyow haval. Ny yll marnas klinikydh kwalys diagnosya. Kelli klywder a dheu a-dhistowgh a res gweres medhegel a-dhistowgh.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Ankevys treweythyow yw kemmyn gans kothni; chanjyow a wra lettya bewnans pub dedh a dal bos checkys."
+  - "An Alzheimer's Association a dheskrif 10 sin gwarnyans, pubonan gans chanj usadow gans kothni rag keheveli."
+  - "Problemow an thyroid, B12 isel, sideffektys a vedhegieth, diglonter, klevesansow ha problemow kosk a yll oll efeythya war gov, ha nebes anedha a yll bos gwrys gwell."
+  - "Ny yll marnas klinikydh kwalys diagnosya dementia; ny yll kwisow po provow warlinen y wul."
+  - "Kelli klywder a dheu a-dhistowgh, dres ourys po dydhyow, a yll bos delirium hag a res gweres medhegel a-dhistowgh."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Yw ankevys rann usadow a gothni?"
+    a: "Rann anodho yw. An National Institute on Aging a lever y hwrug treweythyow kelli taklow po ankevi bil yw dell vydh usadow ankevys skav, ow tochya kothni. Nyns yw dementia rann usadow a gothni. Problemow kov a wra kaletter a oberow pub dedh, kepar ha lywya, usya an pellgowser po kavos an fordh tre, a dal bos checkys gans medhek."
+  - q: "A yll problemow kov bos kawsys gans neppyth arall a-der dementia?"
+    a: "Ya. An National Institute on Aging a rol problemow an thyroid, an lonethi po an avi, sideffektys a vedhegieth, diglonter hag ahwer, B12 isel, usya re a las, problemow kosk, klevesansow ha shyndys y’n penn, yn mysk re erel. Nebes anedha a wellha wosa dyghtyans, hag yth yw hemma onan a’n kawsow bos check medhegel posek."
+  - q: "A allav vy previ nebonan rag dementia tre?"
+    a: "Na allav. Ny yll marnas klinikydh kwalys diagnosya dementia, ow kul devnydh a istori vedhegel, arbrov korf, provow kov ha prederi, provow laboratri ha treweythyow skannyow an ympynnyon. Ny yw an provow berr a us medhogyon dres aga honan lowr dhe dhiagnosya dementia."
+  - q: "Pyth a dal vy gul mar teu nebonan dhe vos kelmys a-dhistowgh?"
+    a: "Kewgh gweres medhegel a-dhistowgh. Kelli klywder a-dhistowgh a yll bos delirium, hag a dheskrif an VA avel studh argwedhek medhegel. Galwewgh provier yeghes an den a-dhistowgh po galwewgh 999, trigewgh ganso, ha notyewgh py medhegieth a gemmer."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Aswon chanjyow y’gas kov hwi, po y kov nebonan a garowgh, a yll bos ownus. An folen ma a yll agas gweres dhe ervirys p’eur dhe wul appoyntyans gans medhek ha fatel ombareusi ragdho. Ny yll leverel dhywgh mars eus dementia dhe nebonan. **Ny yll marnas klinikydh kwalys diagnosya dementia**, ha lies studh a wra kawsya problemow kov nyns yw dementia vytholl. Mar pleg, na fydhyewgh war kwisow po provow warlinen.
 
-## What are the early signs of dementia?
+## Pyth yw an sinys a-varr a dhidementia?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+An [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) a dheskrif 10 sin a-varr. Ev a worra pubonan ryb chanj usadow gans kothni rag keheveli. Y’gan geryow agan honan:
 
-| Sign worth checking | More typical with age |
+| Sin a dal bos checkys | Moy usadow gans kothni |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Kelli kov a wra lettya bewnans pub dedh, kepar hag ankevi hwarvosow a-dhiwedhes po govyn an keth tra arta hag arta | Treweythyow ankevi hanow po appoyntyans ha’y berthi kov a-wosa |
+| Kaletter ow towlenna po owth ervirys problemow, kepar ha holya resegva koth po seweni bilyow | Kammwrians treweythyow gans bilyow an chi |
+| Kaletter ow kowlwul oberow koth tre, y’n ober po yn-mes | Treweythyow res bos gweres gans settyans mikroforn po rekordya towlen bellwolok |
+| Kelli klywder a dhedhyow, sesonyow po le mayth owgh | Kammgemeres dydh an seythen, hag ena y gavos arta |
+| Kaletter nowydh ow prederi pellder, ow redya po owth aswon liwyow | Chanjyow golok kawsys gans cataractys |
+| Problemow nowydh gans geryow, kepar ha hedhi yn kres kesklapp po henwel taklow yn kamm | Treweythyow strivya dhe gavos an ger ewn |
+| Gorra taklow yn leow ankoth hag na yllir kavoes an fordh arta | Kelli taklow treweythyow ha’ga havos dre holya an fordh arta |
+| Breus gwann, kepar ha gans arghans po gans omwitha personel | Gul dewis gwann treweythyow |
+| Omdenna dhiworth didhanow, ober po gwriansow kowethasek | Treweythyow ny vynnir mos dhe hwarvos teylu po kowethasek |
+| Chanjyow yn bris po yn bersonoleth, kepar ha bos kelmys, gogrys, ownys po ahwer | Bos usys dhe wul taklow yn unn fordh ha bos serrys pan vo lettys routin |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Ny styr unn sin unnsel bos dementia. An poynt yw **chanj dhiworth an pyth usadow rag an den na**, yn arbennek mar kwra kaletter dhe vewnans pub dedh.
 
-## How is normal aging different from dementia?
+## Fatel yw kothni usadow dyffrans dhyworth dementia?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) a lever lies den koth a aswon i dhe berthi kov moy lent, po treweythyow dhe gelli taklow po ankevi bil. Y’n brassa rann, sinys yw an re ma a ankevys skav. **Nyns yw dementia rann usadow a gothni.** Problemow kov difrif a wra kaletter dhe wriansow pub dedh, kepar ha lywya, usya an pellgowser po kavos an fordh tre.
 
-The NIA suggests talking with a doctor if someone:
+An NIA a brof kesklapp gans medhek mar kwra nebonan:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Govyn an keth govynnow arta hag arta
+- Mos dhe gelli yn leow a wodhyens yn ta
+- Kavos kaletter ow holya resegvaow po danvonadowyow
+- Bos moy kelmys a-dro dhe dermyn, tus ha leow
+- Hedhi a witha aga honan, kepar ha dybri yn gwann, na omwolghi po omdhon yn diantel
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Nebes tus a’n jeves **iselder kognitek skav (MCI)**. Henn a styr moy problemow kov po brederi es tus erel a’n keth oos, mes i a yll hwath dyghtya bewnans pub dedh. An NIA a lever y hall MCI bos sin a-varr a gleves Alzheimer, mes ny wra pubonan gans MCI y dhisplegya.
 
-## What else can cause memory problems?
+## Pyth arall a yll kawsya problemow kov?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Lies tra a-der dementia a yll efeythya war gov, ha nebes a wellha gans dyghtyans. An NIA a rol:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Problemow an thyroid, an lonethi po an avi**
+- **Sideffektys a vedhegieth**
+- **Diglonter hag ahwer**
+- **B12 isel** po na dhybri lowr a voos yagh
+- **Problemow kosk**
+- **Usya re a las po a dhroggys**
+- **Klevesansow, kellys goos po tevyansow** y’n ympynnyon
+- **Shyndys y’n penn**, kepar ha concussion
+- **Stres po galar bras**, kepar ha omdenna dhiworth ober po kelli pries
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Problemow klewans ha gweles a yll bos kammgemerys avel kelli klywder ynwedh; gwrewgh mires orth agan [kowethlyver klewans](/brain-health/hearing/). Hemm yw prag bos check medhegel posek. Herwydh an [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), medhogyon a wra lieskweyth gorhemyn provow goos dhe checkya problemow an thyroid, fyllel vitaminow ha klevesans. Y talvia kewsel ynwedh a-dro dhe [gosk](/brain-health/sleep/) da ha dyghtya diglonter.
 
-## Sudden confusion is an emergency
+## Kelli klywder a-dhistowgh yw studh argwedhek
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Kelli klywder a dheu yn uskis, dres ourys po dydhyow, a res gweres medhegel a-dhistowgh.** Y hall bos delirium. An [VA a dheskrif delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) avel studh argwedhek medhegel hag a gomend galwel provier yeghes an den a-dhistowgh po galwel 999. Y’ga mysk yth yw sinys:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Chanjyow yn gallos prederi yn kler
+- Kaletter ow ri attendyans
+- Prederi heb orden
+- Bos kosel yn ankoth, po bos heb kosk ha troblys yn ankoth
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Hemm a yll hwarvos dhe nebonan, y’ga mysk tus ow byw gans dementia seulabrys. Herwydh an [NHS](https://www.nhs.uk/symptoms/confusion/), kawsow kemmyn a gomprehend klevesansow (klevesansow an fordh pip yw kemmyn yn tus koth ha tus ow byw gans dementia), strook, sugen goos isel yn tus gans diabetyk, shyndys y’n penn ha neb medhegiethow. Ha hwi ow kortos gweres, trigewgh gans an den ha’y gonfortya gans geryow berr ha sempel. Na wrewgh govyn lies govyn, ha notyewgh py medhegieth a gemmer.
 
-## How do I prepare for the doctor's appointment?
+## Fatel ombareusi rag an appoyntyans gans an medhek?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Appoyntyans da a dhalleth gans notennow da. An [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) a brof dri gansowgh:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Rol a janjyow** yn kov, bris hag omdhegyans, gans ensamplys komparek ha pan dhallathsons a-dro dhe
+2. **Problemow yeghes kens hag a-lemmyn**, y’ga mysk istori teylu a broblemow kov
+3. **Oll medhegiethow ordenys ha medhegiethow heb receta**
+4. **Py vitaminow po kowethyansow pynag**
+5. **Agas govynnow**, kepar ha py provow a vydh gwrys, pes termyn a gemmerons ha p’eur y teu an sewyansow
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Y hwra gweres ynwedh dri esel teylu po koweth a aswon an den yn ta. An [NIA a eksplor](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) y hall medhogyon govyn orth an den hag orth esel teylu a-dro dhe yeghes, medhegiethow, gwriansow pub dedh ha chanjyow yn omdhegyans. Medhogyon a yll ynwedh:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Ri provow a gov, ervirys problemow, attendyans, niveryans ha yeth
+- Gorhemyn provow goos, pip ha provow erel dhe hwilas kawsow erel
+- Checkya rag diglonter po studhow yeghes brys erel
+- Gorhemyn skannyow an ympynnyon kepar ha CT po MRI
+- Danvon dhe arbenigydh, kepar ha geriatrygyon, nevrolygyon, psykhiatrygyon geriatrek po nevropsykologyon
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+An NIA a not yth yw arvreusyans kognitek rann res a Visityans Yeghes Bledhydhnek Medicare, hag a yll bos termyn es dhe dhrehevel prederow. Ny yw an provow berr a us medhogyon dres aga honan lowr dhe dhiagnosya dementia. Kynsa kamm yns i troha arvreusyans leun, hag y hall diagnos kemeres moy es unn visityans. An NIA a gomend tus gans problemow kov dhe dhehweles dhe’n medhek pub 6 dhe 12 mis.
 
-## Raising the subject kindly
+## Dalleth an keskows yn kuv
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Mar owgh hwi prederus a-dro dhe nebonan arall, dewisewgh termyn kosel ha privedh. Kewsewgh a daklow komparek re wrussowgh hwi merkya, gwrys avel preder a-dro dh’aga yeghes yn le begh. Profya check yeghes ollgemmyn a yll bos le es own. Komprehendewgh an den y’n erviransow ha kewsewgh orto avel an tevesik yw ev. Agan [kowethlyvrow kesklapp](/caregiving/communication-tips/) a yll gweres.
 
-## Talk with a doctor
+## Kewsewgh gans medhek
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Mar kwrewgh hwi merkya chanjyow yn kov, prederi, bris po gallosow pub dedh yw nowydh ha pesya, gwrewgh appoyntyans gans medhek teylu. Rag kelli klywder a-dhistowgh, galwewgh 999 po provier yeghes an den a-dhistowgh. Bos checkys yn a-varr a styr y hall kawsow a yll bos gwrys gwell bos kevys ha, mars yw dementia, yma moy termyn dhe dowlennya ha kavos skoodhyans. Gwithewgh agas honan ynwedh dres hemma; gwrewgh mires orth agan [kowethlyver omwithans rag gwithoryon](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Kedhlow ollgemmyn yw an folen ma, nyns yw kusul medhegel. Gwrewgh mires orth agan [avisyans medhegel](/medical-disclaimer/).

@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Деменция рисктӧръяс: Lancet коммиссия иньдӧм 14"
+seoTitle: "Деменция рисктӧръяс: Lancet-лӧн 14 тӧр"
+description: "2024 вося Lancet коммиссия иньдӧм деменциялысь 14 вежны позян рисктӧр, олан кад серти, да мый йылысь позьӧ сёрнитны врачкӧд."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 вося Lancet коммиссия иньдӧма деменциялысь 14 вежны позян рисктӧр:
+  этшаджык велӧдчӧм, кывзӧм омӧльтчӧм, вывті ыджыд ЛПНП холестерин,
+  депрессия, юр вийӧм, физическӧй удж эзтӧмлун, диабет, тшак куритчӧм,
+  вывті ыджыд вир ток, сӧстӧм ыдждалун, вывті уна юӧм, йӧзкӧд йитчытӧмлун,
+  сынӧд лысьтӧмлун да бурдӧдтӧм синмад аддзӧм омӧльтчӧм. Ставнас найӧ
+  йитчӧмаӧсь му шар пасьтала деменция случайяслӧн 45 % кымынкӧд, но
+  некодлы оз сет гарантия.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Тайӧ 14 тӧр тыртӧны став олан кадсӧ: ӧти том олан кадын, дас шӧр олан кадын да куим сёр олан кадын."
+  - "Шӧр олан кадын кывзӧм омӧльтчӧм да вывті ыджыд ЛПНП холестерин быдӧн йитчӧмаӧсь му шар пасьтала деменция случайяслӧн 7 % кымынкӧд — тайӧ медыджыд юкӧнъяс ӧтик тӧрлы."
+  - "Тайӧ процентъяс — став йӧзлы лыддьӧмъяс, кодъяс вӧдитчӧны причина да следствие йитчӧм вылӧ. Мукод йитчӧдъяс вермасны лоны сӧмын юкӧнӧн причинаа."
+  - "Арлыд да генъяс, кодъясӧс он вермы вежны, тшӧтш сідзжӧ ыджыд рисктӧръясӧн лоӧны. Тайӧ 14 тӧрӧн чинтӧм оз сет гарантия, мый морт оз вермы овны деменцияӧн."
+  - "Унджык кутшӧм могъяс, шуам, вир ток, кывзӧм да синмад аддзӧм видлалӧм, бурӧсь мукӧдладорся дзоньвидзалунлы да бур сёрнитны найӧ йылысь врачкӧд."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Кутшӧмӧсь деменциялысь 14 вежны позян рисктӧр?"
+    a: "2024 вося Lancet коммиссия иньдӧма этшаджык велӧдчӧм, кывзӧм омӧльтчӧм, вывті ыджыд ЛПНП холестерин, депрессия, юр травма, физическӧй удж эзтӧмлун, диабет, тшак куритчӧм, вывті ыджыд вир ток, сӧстӧм ыдждалун, вывті уна юӧм, йӧзкӧд йитчытӧмлун, сынӧд лысьтӧмлун да бурдӧдтӧм синмад аддзӧм омӧльтчӧм. Ставнас найӧ йитчӧмаӧсь му шар пасьтала деменция случайяслӧн джынйӧ кымынкӧд."
+  - q: "Кутшӧм деменция рисктӧр медся колана?"
+    a: "Му шар пасьтала йӧзлы коммиссия лыддьӧма, мый шӧр олан кадын кывзӧм омӧльтчӧм да вывті ыджыд ЛПНП холестерин быдӧн йитчӧмаӧсь случайяслӧн 7 % кымынкӧд, сы бӧрын локтӧны этшаджык велӧдчӧм да йӧзкӧд йитчытӧмлун — быдӧн 5 % кымын. Ӧтик мортлы кутшӧм тӧръяс медся коланаӧсь, сыысь зависитӧ ас дзоньвидзалун, сійӧн бурджык индӧдъяс сетас врач."
+  - q: "2024 воын содтӧма-ӧ кык выль рисктӧр?"
+    a: "Да. 2024 вося отчёт содтіс шӧр олан кадын вывті ыджыд ЛПНП (лёк) холестерин да сёр олан кадын бурдӧдтӧм синмад аддзӧм омӧльтчӧм 2020 воын иньдӧм 12 тӧр вылӧ. Коммиссия йитіс найӧс 7 % да 2 % случай кымынкӧд."
+  - q: "Арлыд лоӧ-ӧ вежны позян рисктӧрӧн?"
+    a: "Абу. Арлыд — Альцгеймер висӧмысь тӧдса медся ыджыд рисктӧр, да сійӧс он вермы вежны. Генъяс тшӧтш пай босьтӧны. Тайӧ лист бокын иньдӧм 14 тӧр — найӧ, кодъясӧс, туяланъяс серти, позьӧ вежны."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,119 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Рисктӧр — тайӧ сійӧ, мый йитчӧма висӧм артмӧмлысь ыджыдджык вермӧмкӧд. Быд случайын сійӧ оз ло причинаӧн, да тӧр эм кӧ, тайӧ оз висьтав, мый тіян лоас деменция. Тайӧ лист бокын иньдӧма 2024 вося Lancet коммиссия серти деменциялысь 14 рисктӧр, кодъясӧс позьӧ вежны, мый туяланъяс висьталӧны найӧ йылысь да мый йылысь позьӧ сёрнитны врачкӧд.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Ыджыдджык серпас видзӧдӧм понда, тшӧтш ыджыд туяланъяс корсьӧмъясӧн, заводитӧй татшӧм юӧрсьыс:
+[Позьӧ-ӧ видзны деменцияысь? Мый туяланъяс висьталӧны](/brain-health/can-dementia-be-prevented/).
+Тайӧ — ӧтувъя юӧр, абу медицинскӧй индӧд; видзӧдлӧй миян
+[медицинскӧй ӧтдор висьтавӧм](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Кутшӧмӧсь деменциялысь 14 рисктӧр?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 вося Lancet коммиссия](https://doi.org/10.1016/S0140-6736(24)01296-0),
+кодӧс гижисны 27 деменция туялысь, лыддьӧма, мый 14 вежны позян рисктӧр
+ӧтув лоӧны му шар пасьтала деменция случайяслӧн 45 % кымын причинаӧн. Улынджык
+быд тӧрлы иньдӧм процент — коммиссиялысь лыддьӧм, кутшӧм юкӧн случай йитчӧма
+сыткӧд, дзик лыдъясӧ гӧгӧрвоӧмӧн. Лыдпасъяс вӧчӧны ӧта-мӧднысӧ, сы понда мый
+уна мортлӧн эм уна тӧр ӧттшӧтш, та понда найӧ лоӧны 45 %, а абу унджык.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Рисктӧр | Олан кад | Случай юкӧн | Мый туяланъяс висьталӧны | Мый позьӧ вӧчны |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Этшаджык велӧдчӧм | Том олан кад | 5% | Этшаджык во велӧдчанiн йитчӧма ыджыдджык рисккӧд. Шӧр олан кадын юрӧн уджавны тшӧтш вермас дорйыны, этша велӧдчӧм йӧзлы тшӧтш. | Кутшӧмкӧ арлыдын велӧдчӧй да вӧчӧй юрлы занимательнӧй торъяс: лыддьысьӧй, занимайтчӧй гажтӧмъясӧн, велӧдчӧй, ворсӧй мукӧд йӧзкӧд. |
+| Кывзӧм омӧльтчӧм | Шӧр олан кад | 7% | Бурдӧдтӧм кывзӧм омӧльтчӧм йитчӧма ыджыдджык рисккӧд. Йӧзӧс дыр кад чӧж видзӧдӧм туяланъясын кывзӧм отсӧг вӧдитчӧм йитчӧма этшаджык рисккӧд. | Видлалӧй кывзӧмнытӧ. Юалӧй, отсаласны-ӧ кывзӧм отсӧгъяс, да вӧдитчӧй найӧн, медся врач иньдӧ кӧ. Дорйӧй пельяснытӧ ыджыд шыысь. |
+| Вывті ыджыд ЛПНП холестерин | Шӧр олан кад (40 арлыдсянь кымын) | 7% | Шӧр олан кадын вывті ыджыд ЛПНП («лёк») холестерин йитчӧма ыджыдджык рисккӧд. Видзӧдӧм туяланъясын статинъясӧн вӧдитчӧм йитчӧма этшаджык рисккӧд, но сёр олан кадын вӧчӧм туяланъяс эз петкӧдлыны тайӧс. | Юалӧй врачсьыныд, колӧ-ӧ видлавны холестериннытӧ да мый, колӧ кӧ, вӧчны сы йылысь. |
+| Депрессия | Шӧр олан кад | 3% | Депрессия йитчӧма ыджыдджык рисккӧд. Сёр олан кадын депрессия вермас лоны тшӧтш деменциялӧн водзвыв тӧдмӧмӧн. | Висьталӧй врачлы сьӧкыд кӧлӧм йылысь либӧ мый оз нимкодь тӧдчы, кӧ тайӧ дыр овлӧ кык недельысь унджык. Депрессиясӧ позьӧ бурдӧдны. |
+| Юр травма | Шӧр олан кад | 3% | Кутшӧмкӧ арлыдын да кутшӧмкӧ помкаысь юр вийӧм, тшӧтш контактнӧй ворсӧм дырйи, йитчӧма ыджыдджык рисккӧд. | Пасьтала шлем велосипед вылын да контактнӧй ворсӧм дырйи. Юалӧй усьӧмсӧ видзӧм йылысь. Юр вийӧм бӧрын шойччӧй да видлавсьӧй. |
+| Физическӧй удж эзтӧмлун | Шӧр олан кад | 2% | Мортъяс, кодъяс вӧчӧны физзарядка да ворсӧны, шочаджыка овлӧны деменцияӧн. Туяланъяссянь петкӧдлунъяс на этшаӧсь. | Юалӧй, кутшӧм удж тіянлы лӧсялана да безопаснӧй, да корсьӧй сійӧ, мый тіянлы кажитчӧ. Видзӧдлӧй миян [физзарядка йылысь юӧр](/brain-health/exercise/). |
+| Диабет | Шӧр олан кад | 2% | Диабет, торйӧннит кӧ сійӧ заводитчӧ шӧр олан кадын либӧ дыр кутчӧ, йитчӧма ыджыдджык рисккӧд. | Видлалӧй вирын сахар. Диабет эм кӧ, уджалӧй тіян видзӧм йӧзкӧд, медым бура видзны сійӧс. |
+| Тшак куритчӧм | Шӧр олан кад | 2% | Тшак куритчӧм йитчӧма ыджыдджык рисккӧд. Туяланъяс петкӧдлӧны, мый водз куритчысьяслы оз ло сідзи жӧ ыджыд риск, кыдзи найӧслы, кодъяс водзӧ куритчӧны. | Юалӧй отсӧг дугдӧм могысь. Дугдыны бур кутшӧмкӧ арлыдын. |
+| Вывті ыджыд вир ток | Шӧр олан кад | 2% | Шӧр олан кадын вывті ыджыд вир ток йитчӧма ыджыдджык рисккӧд. Вир ток чинтысь пелӧсъяскӧд вӧчӧм туяланъяс петкӧдлӧны, мый вермас лоны этшаджык риск деменциялы либӧ юрсян удж омӧльтчӧмлы. | Тӧдмасьӧй ас лыдпаснаныд. Коммиссия вӧзйӧ 40 арлыдсянь вылі лыдпас 130 либӧ этшаджык; юалӧй, кутшӧм мог тіянлы лӧсялана. |
+| Сӧстӧм ыдждалун | Шӧр олан кад | 1% | Шӧр олан кадын сӧстӧм ыдждалун йитчӧма ыджыдджык рисккӧд, сійӧ тшӧтш содтӧ диабет риск. | Юалӧй врачсьыныд, кутшӧм сьӧкта тіянлы шогсьӧ. Арлыда йӧзлы оз ков чӧвтчыны сьӧкта чинтӧм понда врач индӧдтӧг. |
+| Вывті уна юӧм | Шӧр олан кад | 1% | Уна юӧм йитчӧма ыджыдджык рисккӧд. Уна юӧмсӧ чинтӧм йитчӧма этшаджык рисккӧд. | Юалӧй, кутшӧм мера тіянлы лӧсялана, торйӧннит пелӧсъясныд босьтӧм дырйи. |
+| Йӧзкӧд йитчытӧмлун | Сёр олан кад | 5% | Йӧзкӧд öтвывтчытӧм олӧм йитчӧма ыджыдджык рисккӧд. | Видзӧй йитчӧм йӧзкӧд сы ногӧн, кыдзи тіянлы гажа. Видзӧдлӧй миян [йӧзкӧд йитчӧм йылысь юӧр](/brain-health/social-connection/). |
+| Сынӧд лысьтӧмлун | Сёр олан кад | 3% | Унджык лысьтӧм сынӧдӧн олӧм йитчӧма ыджыдджык рисккӧд. Туяланъясын сынӧд бурмӧдӧм йитчӧма этшаджык рисккӧд. | Тайӧ унджык ыджыд удж да политикаысь зависитӧ. Видзӧдлӧй сынӧд бурлун йылысь юӧръяс да чинтӧй улича вылын кад, кор сынӧд вывті лысьтӧма. |
+| Бурдӧдтӧм синмад аддзӧм омӧльтчӧм | Сёр олан кад | 2% | Бурдӧдтӧм синмад аддзӧм йитчӧма ыджыдджык рисккӧд. США-ын вӧчӧм ыджыд туялан ӧтиын катаракта вештӧм йитчӧма этшаджык рисккӧд. | Тӧдмасьӧй синъяснытӧ кад сайын. Юалӧй, позьӧ-ӧ бурдӧдны катаракта кодь сьӧкыдлунъяс. |
 
-## How should I read these percentages?
+## Кыдзи колӧ лыддьыны тайӧ процентъяссӧ?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Видзчысьӧмӧн. Коммиссиялӧн ас отчётын висьталӧма уна важнӧй тор:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Найӧ петкӧдлӧны став йӧзлы, а абу торъя мортлы.** University College London-лӧн
+  [отчёт йылысь дженьыд висьталӧмын](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  висьталӧма, мый риск чинтӧм уджалӧ став йӧзлы, но оз сет гарантия,
+  мый торъя морт оз вермы овны деменцияӧн.
+- **Найӧ вӧдитчӧны причина да следствие йитчӧм вылӧ.** Авторъяс бӧрйисны сӧмын
+  тӧръяс, кодъяс йылысь эм зэв ён петкӧдлун, но висьталӧны, мый мукӧд
+  йитчӧдъяс вермасны лоны сӧмын юкӧнӧн причинаа.
+- **Тайӧ му шар пасьтала лыдпасъяс.** Унджык мыччӧдъяс воӧмаӧсь озыр
+  странаысь, да збыль юкӧн торъя странаын либӧ йӧз чукӧрын лоас мӧд ногӧн.
+- **Ичӧт процентъяс тшӧтш вермасны лоны коланаӧн.** Тӧр, коді йитчӧма му шар
+  пасьтала 2 % случайкӧд, веськӧдӧ зэв уна мортӧс.
 
-## Which risk factors were added in 2024?
+## Кутшӧм рисктӧръяс содтісны 2024 воын?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 вося отчёт содтіс кык тӧр 2020 воын иньдӧм 12 тӧр вылӧ:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Шӧр олан кадын вывті ыджыд ЛПНП холестерин**, коді йитчӧма 7 % случай кымынкӧд.
+- **Сёр олан кадын бурдӧдтӧм синмад аддзӧм омӧльтчӧм**, коді йитчӧма 2 % случай кымынкӧд.
 
-## What risk factors cannot be changed?
+## Кутшӧм рисктӧръяссӧ он вермы вежны?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging висьталӧ, мый
+[арлыд — Альцгеймер висӧмысь тӧдса медся ыджыд рисктӧр](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+да некод оз вермы сійӧс вежны. Генъяс тшӧтш пай босьтӧны; Альцгеймер риск вылӧ
+влияйтысь ӧти тӧдса ген шусьӧ APOE. NIA содтӧ, мый туялысьяс на оз тырвыйӧ
+гӧгӧрвоӧны, мый вӧчӧ Альцгеймер висӧмсӧ унджык йӧзлы. Lancet коммиссия
+висьталӧ, мый вежны позян тӧръяссӧ позьӧ чинтыны мортлӧн генетическӧй риск
+кыдзи эм кӧть.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Сы понда мый арлыд да генъяс босьтӧны ыджыд пай, уна морт, кодъяслы некутшӧм
+абу тайӧ 14 тӧрысь, бара овлӧны деменцияӧн. Тайӧ некодлысь абу мыжа.
 
-## What does the trial evidence say about changing these risks?
+## Мый висьталӧны туяланъяс, кӧ вежны тайӧ рисктӧръяссӧ?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Рисктӧрсӧ деменциякӧд йитӧм — абу сійӧ жӧ, мый петкӧдлыны, мый сійӧс вежӧм
+чинтӧ деменция риск. Кутшӧм вылӧ нин аддзӧны туяланъяс, мукӧд примеръяс:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Вир ток.** SPRINT MIND туяланын вир токлысь этшаджык мог видзӧм
+  бура чинтіс неыджыд когнитивнӧй омӧльтчӧм. Сійӧ эз чинты бура вермӧм деменциясӧ,
+  кӧть туялан вермас вӧвны вывті ичӧт, медым тайӧс петкӧдлыны
+  ([SPRINT MIND JAMA-ын](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Кывзӧм отсӧгъяс.** Lancet коммиссия висьталӧ куим вося кывзӧм отсӧг
+  туялан йылысь, кӧні эз аддзыны ставнас уджалӧм юрсян удж вылӧ, но аддзисны
+  бур петкӧдлун ыджыдджык рискӧн йӧз чукӧрын. Йӧзӧс дыр кад чӧж видзӧдӧм
+  туяланъясын кывзӧм отсӧг вӧдитчӧм йитчӧма этшаджык рисккӧд. Унджык позьӧ
+  лыддьыны миян [кывзӧм йылысь юӧр](/brain-health/hearing/).
+- **Физическӧй удж.** National Institute on Aging висьталӧ, мый на абу тырмымӧн
+  клиническӧй туялан петкӧдлунъяс, медым шуны, мый физзарядка вермас видзны
+  либӧ ньӧжмӧдны неыджыд когнитивнӧй омӧльтчӧм либӧ Альцгеймер висӧм, кӧть
+  мукӧд туяланъяс петкӧдлӧны, мый сійӧ вермас отсавны арлыдкӧд йитчӧм
+  чинтӧмын
+  ([NIA Альцгеймерысь видзӧм йылысь](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Кузь туяланъяс, кодъяс видзӧдӧны деменция артмӧм вылӧ, вӧчӧны кӧсйысьӧн да
+ньӧжйӧн, сійӧн уна тӧрлы медбур петкӧдлунъяс локтасны туяланъяссянь, кодъяс
+видзӧдӧны йӧзӧс во чӧж. Тайӧ петкӧдлунъяс коланаӧсь, но найӧ омӧльджыкӧсь,
+кор вӧчӧм туялан дорысь.
 
-## What about sleep and diet?
+## А узьӧм да сёян-юан?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Коммиссия видзӧдіс узьӧм да сёян-юан, но эз содты найӧс лыддьӧгӧ, сы понда
+мый петкӧдлунъяс эз вӧвны тырмымӧн ёнӧсь да ӧткодьӧсь. Миян
+[узьӧм йылысь юӧр](/brain-health/sleep/) да [сёян-юан йылысь юӧр](/brain-health/diet/)
+висьталӧны, мый тӧдса нин.
 
-## Talk with a doctor
+## Сёрнитӧй врачкӧд
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Во сайын видлалӧм — бур кад сёрнитны тайӧ темаъяс йылысь. Ті верманныд нуны
+тайӧ лыддьӧгсӧ да юавны:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Кутшӧмӧсь меным вир ток, вирын сахар да холестерин лыдпасъяс, да колӧ-ӧ
+  мыйкӧ вӧчны найӧ йылысь?
+- Колӧ-ӧ ме видлавны кывзӧм да синъяс?
+- Ме вӧчан удж лӧсялана-ӧ да тырмымӧн-ӧ сійӧ меным?
+- Вермасны-ӧ кутшӧмкӧ менам пелӧсъяс вайӧдны казьтылӧм либӧ мӧвпалӧм вылӧ?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Пелӧсъяс, сёян-юан, сёйтӧм кадъяс, физзарядка либӧ добавкаяс вежӧм водзын
+сёрнитӧй врачкӧд. Ті кӧ либӧ морт, кодӧс ті досьтӧданныд, друг вежсьисны
+казьтылӧмын, ӧтар бокын слабмӧм либӧ сёрнитӧмын сьӧкыдлун, шуӧй 112.

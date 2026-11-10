@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Gwriansow rag tus gans demensyans: 101 tybyans semple"
+seoTitle: "Tybyansow gwrians demensyans: 101 gwrians semple"
+description: "101 gwrians semple, tevesik rag tus ow bewa gans demensyans, dhyworth plegya towellas dhe ilow ha skeusennow, gans fatel dh’aga esya."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Gwriansow da rag tus ow bewa gans demensyans yw herwydh usadow, tevesik ha
+  es dhe gevrenna: plegya dilhas, sortya, kegina, ilow, mires orth skeusennow,
+  kerdhes, lowarghya, termyn gans enyval an teylu ha gwariow semple. Dewisewgh
+  an pyth re garas an den pup-prys, gwrewgh an rannow kales yn aga le, ha
+  hedhwgh pan vo skwith. Termyn plegadow war-barth yw moy a vern ages gorfenna
+  neppyth.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Dallethowgh gans bewnans an den: aga ober, didhanansow, kryjyans hag ilow meurgerys yw an gidya gwella."
+  - "Gwrewgh pub gwrians byghanna mar yw res: le a gammow, le a dhewisow, hwi a wra an rann gales."
+  - "Mires, dalghenna neppyth po esedha yn sempel ogas yw kevrenna ynwedh."
+  - "Hedhwgh po chanjyewgh pan welowgh skwithter, sorr po diflas. Diwedha a-varr yw sewyans da."
+  - "Y vos gwrys war-barth yw moy a vern ages y vos gwrys yn ewn."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Py gwriansow yw da rag nebonan gans demensyans?"
+    a: "Gwriansow herwydh usadow re wrug an den dres bledhynnyow, gwrys nebes esya: plegya dilhas, settya an voes, kegina, ilow, mires orth skeusennow, kerdhes, lowarghya ha termyn gans enyval an teylu. Dewisewgh taklow a hevel tevesik ha dhe les, ha gwrewgh i war-barth."
+  - q: "Pysa termyn a dal gwrians pesya?"
+    a: "Nyns eus hirder ewn. Nebes mynysennow ow plegya towellas a alsa bos lowr unn jydh, hag our y’n lowarth a alsa hevel es dydh aral. Gesewgh dhe’n den settya an tooth hag diwedha ha’n gwrians hwath plegadow."
+  - q: "Pandr’a wrav mar nag yw an den ow mynnes gul gwrians?"
+    a: "Na wrewgh herdhya. Nagha a yll styrya bos an ober re gales, nag yw an termyn ewn, po bos an den skwith po anes. Assayewgh diwettha, profyewgh versyon byghanna, po dallethowgh an ober hwi agas honan ogas ha gelwel orthyns dhe weres."
+  - q: "Yw gwariow ympynn da rag tus gans demensyans?"
+    a: "Gwariow a yll bos fordh dh’y lowen dhe dreuspassya termyn war-barth, mes ny veu diskwedhys gwari vyth dhe dhyghtya, lenthe, lettya po yaghhe demensyans. Dewisewgh gwariow heb clock, scor po sonyow ‘kamm’, ha gwrewgh aga threta avel gwrians kevrynnys, nag avel prov."
+  - q: "Fatel yllama gwitha gwriansow rag na heveli bos floghik?"
+    a: "Usyewgh daffar gwir, tevesik: towellas gwir, resaytys gwir, ilow ha daffar art tevesik, ha skeusennow gans themys tevesik. Presentyewgh oberow avel gweres a vynnowgh yn hwir, ha kewsewgh orth an den avel an tevesik yw ev po hi."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+An gwrians gwella rag den ow bewa gans demensyans yw dre vras neppyth a woer ev po hi gul seulabrys, gwrys nebes esya ha gwrys ryb nebonan a drestons ev po hi. A-wòles yma 101 tybyans, kevrynnys herwydh eghen, pub onan gans fatel dh’y bareusi ha fatel dh’y esya pan dheu ha bos kales. Ny’gas beus edhom a dhafar arbennik, ha ny’gas beus edhom a worfenna travyth. Dohajydh da a yll bos unn gowel a dowellas ha hanafas a gofe war-barth.
 
-## How do you choose the right activity?
+## Fatel dhewisowgh an gwrians ewn?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Dewisewgh herwydh an den, a-der an rol: dallethowgh gans an pyth re garas ev po hi pup-prys ha’n pyth a yll ev po hi gul yn es hedhyw.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Prederowgh a-dro dh’aga ober ha’ga didhanansow.** An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a brof y halsa oberer soedhek kyns lowenhe dhe sortya mona po kuntell lytherow, ha y halsa lowargher lowenhe dhe ober y’n lowarth.
+- **Merkewgh an pyth a wrons seulabrys.** Mar kwra agas tas skubella an pors pub myttin heb govyn, gwrewgh henna rann a’n jydh.
+- **Towlewgh a-dro dhe finwethow.** Skwithter, golok, klewans, dornow drog ha kewerder oll a vern.
+- **Mir orth aga imaj.** Gwriansow bysi, trosus a veu da rag nebes tus hag a wra own dhe re erel.
+- **Rewgh perghenogeth dhodho.** Plegya lienow rag kevewi eglos a hevel moy talvosus ages exercis anodho y honan.
 
-### A rough guide by stage
+### Gidyans ledan herwydh nivel
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Demensyans yw deskrifys yn fenowgh avel nivelow a-varr, kres ha diwettha. Nyns yns i marnas labelys ledan, nag ystys, ha lies den a’n jeves dydhyow gwell ha kales, ytho sewgh an pyth a welowgh hedhyw. [Rol Alzheimer’s Foundation of America herwydh nivel](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a sew patron haval.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Testen | Nivel a-varr | Nivel kres | Nivel diwettha |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| An pyth a yllowgh merkya | Dre vras anserghek; towlenna, henwyn nowydh ha tylleryow bysi a dheu ha bos kales | Res yw gweres dhe dhalleth ha gans kammow; geryow a dheu le es | Res yw gweres gans brassa rann an gwithyans pub dydh; an sensow yw an moyha a vern |
+| Gwriansow a dhesedh yn fenowgh | Kartennow, gwariow bord, kegina, lowarghya, jornalya, gwelesow, bagasow | Plegya dilhas, sortya, kammow semple kegina, kana, lyvrow skeusennow, kerdhow gidys | Ilow meurgerys, strokya an dorn, taklow medhel dhe dhalghenna, redyans dhedha, esedha a-ves |
+| Agas rann | Keskoweth: govynnowgh py skoodhyans a vynnons i | Pareusi, diskwedhes, kemeres an rannow kales | Dri an gwrians dhedha; agas kowethyans yw an gwrians |
+| Moy tybyansow | [Nivel a-varr](/activities/early-stage/) | [Nivel kres](/activities/middle-stage/) | [Nivel diwettha](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Fatel dhallethowgh gwrians gans nebonan gans demensyans?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Dallethowgh yn byghan, dallethowgh rybdha, ha gwrewgh es leverel ya. Lies den a vynn hwath kevrenna mes a gavas kales towlenna po dalleth.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Dewisewgh aga gwella termyn,** yn fenowgh an myttin.
+2. **Settyewgh pup-tra yn-rag** may hyllydh dalleth a-dhistowgh.
+3. **Govynnowgh gweres, nag askorrans:** « A yllowgh hwi ri dorn dhymm gans an re ma? »
+4. **Dallethowgh hwi agas honan.** Plegyewgh an towel kynsa ha gesewgh dhedha omjunya. Diskwedhes yw gwell ages displegya.
+5. **Profyewgh unn gamm orth unn dro.**
+6. **Kemerewgh an rann an moyha kales.** An Alzheimer’s Association a brof musura an devnydhyow hwi agas honan, hag ena ri an loy dhe derri.
+7. **Gesewgh dhodho bos gwrys yn aga fordh.** Towellas plegys yn fordh dhyffrans yw da lowr.
+8. **Hedhwgh pan nasto bos plegadow.** Gwaya, fregya po « Ny allav » yw arwòdhyow dhe janjya po powes.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Gwrewgh mires ynwedh orth [fatel wari war-barth](/caregiving/how-to-play-together/) ha [chybyansow keskomunyans](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Oberow pub dydh y’n chi
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Oberow an chi yw herwydh usadow ha dhe les, hag ytho le da dhe dhalleth. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a rol lestri, settya an voes, skubella, sortya lytherow ha plegya dilhas avel gwriansow a yll bos dh’y lowen. Moy yn [oberow an chi](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Plegya towellas toemm.** Tewlewgh kowell a’n sygher dhyworth an voes ha plegyewgh ryb an eyl y gila. Diwettha, strothya ha bernya yw mar dhe les.
+2. **Kevra lodrigow.** Dallethowgh gans liwyow pur dhyffrans. Diwettha, sortya golow a-dhiworth tewal yw lowr.
+3. **Settya an voes.** Rewgh unn eghen a dra orth unn dro. Settyewgh unn le hwi agas honan avel patron.
+4. **Golhi po sygha lestri.** Dowr toemm, sebonek ha lestri na derr. Sygha hag esedha yw esya rag an diwarr.
+5. **Goleski an voes.** Rewgh liw glyb wosa boes. Ober gwir yw rag dornow na yll powes.
+6. **Sortya an lytherow.** Lyvrow ha skubyon yn « gwitha » ha « eylgylghya ». Gwithewgh bilow gwir yn-mes.
+7. **Treghi kowponow.** Gwelsow krug ha lyvrow gwerthvaow. Diwettha, kelghi boesow meurgerys a ober ynwedh.
+8. **Sortya mona.** Sortyewgh mona byghan yn hanafow po rolyowgh i. Skippyewgh taklow byghan mar kwra an den aga gorra yn aga ganow.
+9. **Skubella po dustya.** Skubellenn ysgafn war an pors, po dustyer hir, usys dhyworth kador.
+10. **Gweres dhe bareusi boes.** Golhi losow, skwardya lettuce, terri. Hwi a handla kollelly ha toemmder.
+11. **Pobi resayt teylu.** Usyewgh an garten yn aga dornskrif mar’gas beus hi. Diwettha, y halsons bos an taster.
+12. **Gul ober soedhek.** Plegya lytherow, gorra i yn maylyow ha stampya, po skrifa an rol prenassa war-barth.
 
-## Music
+## Ilow
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Ilow herwydh usadow a yll drehedhes tus hogen pan vo geryow kales. [Chybyansow ilow an Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) a brof kanow herwydh usadow, heb argemynnow ha’n bellwolok marow. Gwrewgh mires orth [gwriansow ilow](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Gul rol ilow personel.** Ilow a’ga degves ha ugansves bledhynnyow, aga demedhyans, aga eglos ha’ga gonisogeth.
+14. **Kana war-barth.** Dallethowgh kana hwi agas honan. Hwmana po goslowes yw kevrenna ynwedh.
+15. **Gwitha an kammen.** Gwereska, frappya an dhewlin po tappya tabour dorn. A ober hag esedha hag yn nivel diwettha.
+16. **Donsya.** Dons lent y’n gegin, po gwaya hag esedha ha dalghenna dorn.
+17. **Seni album dien.** Plasen meurgerys dhyworth dalleth dhe dhiwedh, gans kofe ha heb travyth arall ow hwarvos.
+18. **Kows a-dro dhe’n ilow.** Gelwel hwedhlow, nag er tach: « Deriv dhymm a-dro dhe’n donsow mayth es.»
+19. **Mires orth musical po keskan fylmys.** Diskwedhyans a garsons a wra gorthugher da. Y hyllir powes pup-prys.
+20. **Seni jynn-ilow herwydh usadow.** Pianydh kyns a alsa lowenhe gans darnow semple; diwettha, nebes notennow war-barth.
+21. **Klew ilow bew.** Keskan kemeneth verr po practis kor. Esedhowgh ogas dhe’n daras.
 
-## Reminiscence: photos, objects and stories
+## Kovyans: skeusennow, taklow ha hwedhlow
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Lowenhewgh an termyn eus passys war-barth heb y brovi. Skippyewgh « A borth’ta kov...? » ha « Piw yw hemma? » hag usyewgh galowegow ygor yn aga le. Gwrewgh mires orth [gwriansow kovyans](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Mires der lyver skeusennow.** Leverewgh an pyth a welowgh: « Ass yw an bows ma. Deriv dhymm a-dro dhe’n jydh ma. » Sewgh pub henwyn a usyons.
+23. **Gul kist kov.** Kist eskisyow gans taklow a’ga bewnans, kepar ha badj ober po karten resayt. Kemerewgh an taklow yn-mes unn dhe unn.
+24. **Dalleth lyver hwedhel bewnans.** Nebes skeusennow dhe bub folen gans tekst bras. Y gweres gweresoryon nowydh dhe aswon an den.
+25. **Usya kartennow kesklapp.** [Kartennow kesklapp](/games/conversation-cards/) a gevra skeusen gans profyans ygor.
+26. **Gul gwari skeusennow teylu.** [Skeusennow par](/games/photo-pairs/) a dreyl agas skeusennow hwi dhe wari kevadha.
+27. **Mires orth fylmow teylu po pellwolok koth.** Gwrewgh kampoll war-barth yn le govyn govynnow.
+28. **Handla taklow a’ga bewnans ober.** Spanner, stethoskop, lyver kovadh. An dornow a wra ledya an hwedhel yn fenowgh.
+29. **Keginya boes a’ga flogholeth.** Y halsons terri, tastya po esedha yn sempel y’n gegin genowgh.
+30. **Mires orth mappa a dylleryow may trigsons.** Holya fordhow herwydh usadow yn atlas bras hag hwi ow kowsel.
 
-## Creative activities
+## Gwriansow awenek
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Art yw a-dro dhe wul, nag an dra wrys. Gwithewgh an daffar tevesik ha salow. Gwrewgh mires orth [art ha kreft](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Liwa gans dowrlivyow.** Paper tew, nebes liwyow. Mar yw kales dalleth, gidyewgh an kynsa strokys war-barth.
+32. **Liwa patronyow tevesik.** Bleujyow po kwilts, nag kartonys. Agan [folennow liwa](/games/coloring/) a ober war skrin po pryntys.
+33. **Gul kollas.** Skwardyewgh skeusennow a lyvrow a lowarthyow, kerri po boes ha glusyewgh i yn le. Diwettha, dewis skeusennow yn unsel yw lowr.
+34. **Araya bleujyow.** Faskel a’n gwerthva ha jarr. Diwettha, nebes gwelenigow yn jarr byghan.
+35. **Gwia po kroghe war-barth.** Rewyow semple gans gwiasow bras. Diwettha, rolya gwlann yn pelotow.
+36. **Gul kartennow rag teylu.** Stampya, sinya po afina kartennow penn-bloedh ha yeghes da rag tus gwir.
+37. **Shapya pri sygh-ayer.** Gwaskyewgh platt byghan. Usyewgh daffar heb gwenwyn ha trigewgh ogas.
+38. **Jynnsa ha gorfenna prenn.** Kit chi-edhen treghys yn-rag ha paper jynnsa, heb jynnow nerth. Gwrewgh mires orth [gwriansow rag tus wour](/activities/for-men/).
+39. **Skrifa po dhedhlia lyther.** Dhe flogh-wynn po koweth koth. Mar yw skrifa kales, i a gews ha hwi a skrif.
 
-## Outdoors and gardening
+## Yn-mes ha lowarghya
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Ayr fresk ha golow dydh yw koweth da. Gwrewgh mires orth [gwriansow yn-mes ha lowarghya](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Dowra losow.** Kanna dowr vyghan ha nebes pottow. Dowra pub dydh a re rythm dhe’n jydh.
+41. **Plansya pott.** Gorryewgh ev war voes ma na wra denvyth pennglinya. Lesyow yw esya ages has.
+42. **Dilehe hwennen po bleujyow marow.** Gans manegow, unn wel vyghan orth unn dro.
+43. **Rastella del.** Unn rann vyghan. Diwettha, dalghenna an sagh ygor yw ober gwir.
+44. **Kerdhes hyns herwydh usadow.** A-dro dhe’n stock po dhe’n gist lytherow. Berra yw da lowr.
+45. **Esedha yn-mes war-barth.** Kador borth yn jydh medhel. Mir orth kommol po tus ow tremena.
+46. **Bosa an ydhyn.** Lenwewgh bojer war-barth ha mirewgh dhyworth fenester.
+47. **Golhi an karr.** Kelorn, spong, dohajydh toemm. Golhi an rosow yw ober da unn gamm.
 
-## Sensory activities
+## Gwriansow an sensow
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Toch, fler, blas, son ha gwel a dheu ha bos moy a vern ha demensyans ow pesya. An [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a gampol ilow, taklow dhe handla ha strokya an dorn rag nivelow diwettha. Checkyewgh rag alergedhow ha peryllys taga kyns; gwrewgh mires orth [gwriansow an sensow](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Ri strok dorn.** Govynnowgh kyns hag usyewgh nebes eli. Dewisewgh heb fler mar nyns owgh sur a-dro dhe’n kroghen po alergedhow.
+49. **Omglewes gwias.** Kowell a velvet, corduroy, gwlann ha satin dhe strothya ha plegya.
+50. **Blasa lesyow ha kofe.** Rutthyewgh menth fresk po rosmari ynter agas bysies. Skippyewgh fleryow krev gans kudynnow anella.
+51. **Kriba aga blew.** Yn lent ha kuv, mar yw da gansa.
+52. **Kevrenna liw toemm.** Rag dornow hag enep yn jydh yeyn. Prevyewgh an toemmder kyns.
+53. **Hwithra apron gwrians.** Botonyow bras ha zips sewyes yn fast. Gwrewgh sur na yll travyth loosya.
+54. **Tastya hwegenn vewurgerys.** Loy byghan, yn tekstur a yllons dybri yn salow.
+55. **Seni sonyow natur.** Glaw, mordonnow po kan ydhyn orth nivel isel.
+56. **Mires orth neppyth lent.** Tank pysk, gwydhyow natur po ergh ow kodha.
 
-## Games and puzzles
+## Gwariow ha tosow
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Gwariow a ober pan nag eus clock, scor po gwask. Mar dalleth onan hevel avel prov, gorryewgh ev yn-mes. Gwrewgh mires orth [dewis appys ha gwariow](/caregiving/choosing-apps-and-games/) ha [gwariow ympynn](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Kevadha skeusennow.** [Skeusennow par](/games/picture-pairs/) a as skeusennow a-woeles, ytho yma a-dro dhe verkya, nag a-dro dhe govhe.
+58. **Kavos an keth skeusen.** [Kavos an keth](/games/find-the-same/) a brof dew dhe beswar dewis. Kewsewgh a-dro dhe bub skeusen.
+59. **Sortya yn kowellow.** [Sortya war-barth](/games/sort-together/) yw kepar ha sortya lodrigow war skrin.
+60. **Gul jigsaw gans darnow bras.** Imajys tevesik, niver es a dharnow. [Tos skeusen](/games/picture-puzzle/) a with an skeusen dien gweladow. Moy yn [tosow rag demensyans](/activities/puzzles/).
+61. **Gwari gwari kartennow koth.** Pypynag a wariens dres bledhynnyow. Diwettha, sortya an stack herwydh liw yw gwari yndelha y honan.
+62. **Gwari domino.** Kevadhewgh an pennow. Diwettha, gorra prennyer yn linen yn sempel yw da lowr.
+63. **Assaya hwilas ger gans lytherennow bras.** Agan [hwilas ger](/games/word-search/) a’n jeves geryow a-dreus hag yn-nans yn unsel, hag a yll bos pryntys.
+64. **Gorfenna lavarennow herwydh usadow.** [Gorfenna an lavar](/games/finish-the-saying/) a as dhywgh diskwedhes an diwedh pup-prys.
+65. **Gwari bingo skeusennow.** [Bingo skeusennow](/games/picture-bingo/) a veu da rag teyluyow ha bagasow. Gwerewgh dhe verka kartennow yn rydh.
+66. **Gwari checkers.** Gwithewgh an rewllys heb bos stroth. Gwaya darnow ha hwi ow kowsel yw kevrenna.
 
-## Movement
+## Gwayans
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+An NIA a brof kerdhow, jynn diwros powesek, bondys ystynna, tewlel pel medhel po ayrbellen, sevel kannow soub ha gwydhyow exercis rag tus kottha. Kewsewgh gans medhek kyns dalleth travyth nowydh, yn arbennek gans kudynnow kewerder.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Tewlel ayrbellen.** Esedhowgh enep orth enep. Hi a waya yn lent, ytho hi yw es dhe gachya.
+68. **Sewya gwydhyow exercis esedhys** gwrys rag tus kottha, ryb an eyl y gila.
+69. **Ystynna gans bond.** Tenna skoodh kuv gans bond ysgafn hag esedha.
+70. **Sevel kannow soub.** Sevel bregh yn lent, martesen dhe ilow.
+71. **Marghogeth war jynn diwros powesek.** Nebes mynysennow es, ha hwi ogas.
+72. **Donsya gans lienow ysgafn.** Gwayewgh lienow ysgafn dhe ilow, esedhys po ow sevel.
+73. **Kerdhes gans perghenogeth.** Dhe dhanvon lyther po prena kofe. Reson dhe vos yw naturel.
+74. **Kevrenna powes anella.** Lenthewgh war-barth gans [anella kosel](/games/calm-breathing/).
 
-## Social activities
+## Gwriansow socyal
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Kowethyans yw a vern hogen pan vo henwyn kales, ha bagasow byghan yw esya ages re vras. An NIA a verk, kyn na borth den kov piw yw godrigyer, yn fenowgh y fydh da gansa hwath an kowethyans. Gwrewgh mires orth [godrigow](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Kahewgh unn po dew odrigyer orth unn dro.** Godrigow berr yn stevell gosel, gans skeusennow dhe vires orta.
+76. **Galw gwydhyow gans teylu.** Galwow berr, unn lev orth unn dro. Gwrewgh mires orth [galwow pellgowser ha gwydhyow](/activities/phone-and-video-calls/).
+77. **Assayewgh kafe kov.** Kuntellyansow heb rewl rag tus ow bewa gans demensyans ha’ga gwithoryon. Govynnowgh orth agas konsel leel po bagas skoodhyans pyth eus ogas.
+78. **Dybri yn-mes yn termyn kosel.** An NIA a brof boesty herwydh usadow, kosel yn termynyow anvysi, gans moes ogas dhe’n stevel-omwolghi.
+79. **Godriga kuntel tus kottha po towlen dydh.** Kowethyans dhedha ha powes dhywgh hwi.
+80. **Treuspassya termyn gans fleghes.** Godrig berr, kosel a floghyon-wynn, po redya lyver skeusennow dhe flogh byghan.
+81. **Kevrenna an paper-nowodhow dres kofe.** Redyewgh pennlinenow yn ughel. An usadow yw moy a vern ages an nowodhow.
+82. **Gweres nebonan aral.** Plegya towlenyow eglos po gul karten rag kentrevek.
 
-## Faith and spiritual activities
+## Gwriansow kryjyans ha spyrysel
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Sewyewgh hengov an den, po vyth. An NIA a brof servisyow herwydh usadow, redyansow, ilow sakrys, pysadow, ombrederi ha devosyow golyow.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Mos dhe serves herwydh usadow.** Dewisewgh onan kosella, esedhowgh ogas dhe’n glybfordh, ha gesewgh dhe dus ena godhvos a-dro dhe’n demensyans.
+84. **Mires orth serves warlinen** yn dydhyow pan yw re gales mos yn-mes.
+85. **Pysi po redya war-barth.** Geryow herwydh usadow, redys yn lent. Martesen y halsons omjunya yn rannow a wodhons.
+86. **Kana hymnys po ilow sakrys** a’ga hengov.
+87. **Gwitha devosyow golyow.** Kantolow batri, bennath, an afinansow a usyans pup-prys.
+88. **Kevrenna termyn kosel.** Esedha yn lowarth po mires orth howldrehevel war-barth.
 
-## Pets and animals
+## Enyvales ha miles
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+An NIA a brof bosa, kriba, kerdhes, po esedha gans ha dalghenna enyval an teylu.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Kriba ki po kath gosel** gans strokys hir, lent.
+90. **Bosa an enyval war-barth.** Hwi a vusur; i a dewl.
+91. **Kerdhes an ki war-barth.** Hwi a syns an lesh.
+92. **Dalghenna an enyval war an dhiwlin.** Kath gosel war gwel a yll bos pur gosel.
+93. **Degemeres enyvales ow tyskwedhes.** Nebes chiow gwith ha towlenyow dydh a ost godrigow enyvales. Govynnowgh yn leel.
+94. **Profya enyval medhel haval dhe wir.** Mar nag eus enyval, nebes tus a gar dalghenna kath po ki medhel pur haval. Profyewgh ev yn sempel, nevra avel gwariell, ha degemerewgh nagha.
 
-## Seasonal activities
+## Gwriansow herwydh an seson
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Gwithewgh hengovow, mes esya. An NIA a brof bos gwir ha bos spas kosel rag powesow yn golyow bysi.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Afina rag an seson.** Pompyon, rosen po bleujyow fresk war an voes.
+96. **Gul hwegenn rag gol.** Rolya toes po gorra eys war biscuits. Hwi a handla an forn.
+97. **Kregi afinansow.** Afinansow na derr, res unn orth unn.
+98. **Kerdhes yn karr dhe weles an golowys.** Ros berr gorthugher na wovyn travyth marnas kowethyans.
+99. **Plansya kenedhow gwenton.** Gwaskyewgh kenedhow yn pott y’n kynnyav ha gortewgh an sprallyow.
+100. **Dilea ys-kern po pes.** Ober borth hav gans skudel y’n glin.
+101. **Trigva kartennow gol.** I a sin, stamp po sel; hwi a handla trigvaow.
 
-## What if an activity is not working?
+## Pyth mar nag yw gwrians owth oberi?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Hedhwgh, hag assayewgh neppyth aral termyn aral. An NIA a brof mires rag sorr ha gasa an den dhe vires yn sempel mar kwra ev po hi y dhewis. Nagha a styr yn fenowgh bos an ober re gales, nag yw an termyn ewn, po bos neppyth aral ow kul trobel, kepar ha payn, nown po tros. Gwrewgh ev byghanna, assayewgh a-varra y’n jydh, po dallethowgh ev hwi agas honan ha gwelowgh mar kwra ev po hi omjunya. Gwrewgh mires orth [pan leverons i nagha](/caregiving/when-they-say-no/) ha [diheuster diwedh an jydh](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Rag desedha gwriansow ynter boesow ha powes, gwrewgh mires orth [usadow jentyl pub dydh](/activities/daily-routine/). Rag taklow dhe gael parys, gwrewgh mires orth [gwriansow dhe bryntya](/activities/printable/), ha mar ledyowgh bagas, [gwriansow bagas yn chi gwith](/activities/care-home-groups/). Agas powes hwi yw a vern ynwedh: gwrewgh mires orth [omwith gwithoryon](/caregiving/caregiver-self-care/).
