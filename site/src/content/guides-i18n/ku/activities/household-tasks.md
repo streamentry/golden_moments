@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Karên malê wekî çalakî ji bo kesên bi dementia re"
+seoTitle: "Çalakiyên malê ji bo dementia: Karên rojane"
+description: "Çespandina cil û bergan, rêzkirin, amadekirina maseyê û xwarinpêjandina hêsan dikarin bibin çalakiyên watedar ji bo kesên bi dementia re. Meriv çawa wan amade dike, diguncîne û ewle dihêle."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Karên rojane yên wekî çespandina destmalan, lihevkirina goreyan, amadekirina
+  maseyê, paqijkirina maseyan, avdana kulîlkan û alîkariya di xwarinpêjandina
+  hêsan de dikarin rêyek rast bidin kesê ku hûn jê re lênêrînê dikin ku alîkariyê
+  bike. Karên ku ew nas dike hilbijêrin, wan bike gavên yek bi yek, metirsiyên
+  tûj an germ ji holê rakin, û beşdarbûnê ji kirina karî «rast» girîngtir bibînin.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Karên nas dikarin bibin alîkar ku kes xwe bikêrhatî û beşek ji malbatê hîs bike, ku ev pir caran ji başkirina karî girîngtir e."
+  - "Her karî li gavên yekane parçe bikin, nîşan bidin ne ku tenê bêjin, û bi aramî gavên ku zehmet bûne li ser xwe bigirin."
+  - "Kêran, berhemên paqijiyê û kapsulên sabûnê bi kilît bihêlin, û berî ku bi hev re xwarinê çêkin, bergirên kilîdên sobê an pergaleke girtina xweber saz bikin."
+  - "Ne hewce ye ku destmalên çespandî li ber çavên kesî ji nû ve bên çespandin. Ger divê tiştekî ji nû ve bikin, paşê û bêyî ku ew bibîne bikin."
+  - "Ger karek bibe sedema acizbûnê, derbasî gavek hêsantir bibin, carekî din dîsa biceribînin, an jî tenê bi hev re rûnin."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Kesê bi dementia re dikare di kîjan karên malê de hîn jî alîkariyê bike?"
+    a: "Gelek kes hîn jî dikarin cil û bergan biqespînin, goreyan li hev bikin, amûrên xwarinê rêz bikin, maseyê amade bikin, maseyekê paqij bikin, tozê bigirin, malê bi firçeyê paqij bikin, kulîlkan av bidin an jî di tasekê de tevlihev bikin. Karên ku kes berê dikir hilbijêrin û wan li gorî tiştên ku niha dikare bike eyar bikin. Di qonaxên paşîn de, tevgerek yekane û dubare, wekî rastkirina destmalên maseyê, dibe ku bes be."
+  - q: "Gelo ewle ye ku kesê bi dementia re di metbexê de alîkariyê bike?"
+    a: "Bi çavdêriya nêz û amadekariya guncaw, dibe ku ewle be. Kêran, berhemên paqijiyê û her tiştê germ ji destê wî dûr bihêlin, bergirên kilîdên sobê an pergaleke girtina xweber bi kar bînin, û karekî ewle bidin wî, wekî şuştina sebze û fêkiyan, tevlihevkirin an danîna tepsiyan. Tu carî wî bi sobeya vekirî tenê nehêlin."
+  - q: "Ger ew tiştan çewt biqespîne an tevliheviyekê çêke çi bikin?"
+    a: "Bihêlin wisa be. Armanc demê bi hev re derbas kirin û hesta bikêrhatîbûnê ye, ne encamek bêkêmasî. Ger bi rastî divê tiştek ji nû ve were kirin, li bendê bimînin û paşê, dema ku kes nabîne, bikin da ku ew xwe rastkirî hîs neke."
+  - q: "Ger ew nexwaze alîkariyê bike çi bikin?"
+    a: "Gotina na dibe ku were vê wateyê ku kar niha pir zehmet, tevlihev an westandî xuya dike. Zorê nedin. Guhertoyek hêsantir biceribînin, jê re bibêjin ku li şûna alîkariyê tenê bi we re be, an jî di demekî guncawtir ê rojê de dîsa bipirsin."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Gelek kesên ku bi dementia re dijîn bi salan mala xwe birêve birine, malbatek mezin kirine an jî li cihê karê xwe tiştan bi rêk û pêk hiştine. Vexwendina wan ji bo alîkariya di karên rastîn ên malê de dikare bi awayekî ku kêm çalakiyên din dikarin bibêje: «tu hîn jî beşek ji vê malbatê yî». Ev rûpel behsa wan karên ku pir caran baş diçin, çawaniya amadekirina wan, çawaniya guherandina wan her ku rewş diguhere, û çawaniya ewlekirina metbex û cihê cilşûştinê dike.
 
-## Why do everyday chores work well as activities?
+## Çima karên rojane wekî çalakî baş dixebitin?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Karên malê baş dixebitin ji ber ku ew nas in û armanceke wan a zelal heye. Enstîtuya Neteweyî ya li ser Pîrbûnê (National Institute on Aging) şuştina firaxan, amadekirina maseyê, paqijkirina bi firçeyê, tozgirtin, rêzkirina nameyan, çespandina cil û bergan û rêzkirina tiştên ji nû ve bên bikaranîn di nav [çalakiyên rojane yên ku kesên bi nexweşiya Alzheimer re dikarin jê kêfê bistînin](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) de dibêje. Komeleya Alzheimer (Alzheimer's Association) destnîşan dike ku karên wekî amadekirina maseyê dikarin bibin alîkar ku kes [xwe wekî beşekî bi qîmet ê malbatê hîs bike](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Di karên malê de sedemek ji bo destpêkirinê jixwe heye. Gotina «tu dikarî di van destmalan de alîkariya min bikî?» pir caran ji gotina «tu dixwazî çalakiyekê bikî?» hêsantir e ku bersiveke erê bistîne.
 
-## Which household tasks are good to try?
+## Kîjan karên malê hêja ne ku werin ceribandin?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Bi karên ku kes berê dikir dest pê bikin, û paşê wan li gorî tiştên ku ew îro dikare bike eyar bikin.
 
-### Laundry and linens
+### Cil û berg û tiştên malê
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Çespandina destmal û destmalên piçûk.** Selikekê bi tiştên piçûk û rast bidin wî. Destmal hêsan in: tu awayek çewt a çespandina wan tune ye.
+- **Lihevkirina goreyan.** Komikek têkel li ser maseyê deynin. Ger dîtina cotan zehmet bibe, tenê du an sê rengên pir cuda bi kar bînin.
+- **Rastkirin û danîna ser hev.** Destmalên maseyê, kîsên balîfan an destmalên firaxan dikarin werin rastkirin û li ser hev bên danîn. Ev paşê, dema ku çespandin pir gav dibin, baş dixebite.
 
-### Table and kitchen
+### Mase û metbex
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Amadekirina maseyê.** Yek cihê rûniştinê wekî nimûne amade bikin û bihêlin kes li gorî wê bike. Ger ev pir be, her carê tiştekê bidin: «Ev çetel ji bo her tepsiyekê ye.»
+- **Rêzkirina amûrên xwarinê.** Çetel, kevçî û kêrên rûnê yên paqij di tasekê de tevlihev bikin û wan di tepsiyeke beşkirî de rêz bikin. Kêrên tûj tê de nekin.
+- **Ziwa kirina firaxan.** Firaxên plastîk an yên ku naşikin û destmalek nerm vê karî ewle dikin.
+- **Paqijkirina maseyê an rûyên metbexê.** Destmalek şil û rûyek zelal. Komeleya Alzheimer pêşniyar dike ku ger kesek berê bi destê xwe maseyê dêmisîne, destmalekê pêşkêş bikin û wisa tevgereke bêaramiyê veguherînin karekî bikêrhatî.
 
-### Around the house
+### Li derdora malê
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Tozgirtin.** Tozgirek nerm û çend rûyên zexm, wekî maseya navendî an refa pirtûkan.
+- **Rêzkirina nameyan.** Name û kovarên ku ne girîng in bidin wî da ku wan li koman rêz bike: bihêle, ji nû ve bi kar bîne, paşê veke. Fatûre û çekên rast li cihekî din bihêlin.
+- **Rêzkirina tiştên ji nû ve tên bikaranîn.** Qutî, şûşe û kaxezên paqij di selikên cuda de rêz bikin.
+- **Paqijkirina bi firçeyê.** Firçeyek piçûk li hewşê an li ser erdê metbexê, ger hevsengiya wî baş be.
+- **Avdana kulîlkan.** Avdankek piçûk û sivik û çend kulîlkên ku bi hêsanî tên gihîştin.
 
-### Simple cooking with supervision
+### Xwarinpêjandina hêsan bi çavdêriyê
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Xwarinpêjandin dikare hestên xweş û bihêz ji nû ve zindî bike. Enstîtuya Neteweyî ya li ser Pîrbûnê pêşniyar dike ku bihêlin kes malzemeyan kom bike, bipîve, tevlihev bike û birijîne, an jî bi tenê ji kesekî din re bêje ka xwarinek bijare çawa tê çêkirin. Karên baş ev in:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- şuştina sebze an fêkiyan
+- tevlihevkirina hevîrê an salateke sar
+- perçekirina kahûyê
+- rûnkirina nanê tostê bi kêreke ne tûj
+- danîna hevîra kulîçeyan li ser tepsiyê
+- danîna malzemeyan li ser pîzzayekê
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Ger pîvandin zehmet bibe, Komeleya Alzheimer pêşniyar dike ku hûn pîvandinê temam bikin û paşê gavekî din, wekî tevlihevkirinê, bidin wî.
 
-## How do I set up a chore so it goes well?
+## Ez çawa karekî amade bikim da ku baş derbas bibe?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Dema rast hilbijêrin.** Beşek ji rojê hilbijêrin ku kes bi gelemperî rihet û aram e. Ji bo gelek kesan ev sibeh e.
+2. **Cihê karê paqij bikin.** Yek kar, yek rûerd, tiştekî zêde li ser maseyê nebe.
+3. **Vexwendinê bikin, ne ferman.** Gotina «ez dikarim di vê karî de piçek alîkariyê bixwazim» ji gotina «dem e ku cil û berg bên çespandin» baştir dixebite.
+4. **Yekem carê nîşan bidin.** Destmalekê hêdî hêdî biqespînin, paşê ya din bidin wî. Nîşandan ji ravekirinê zelaltir e.
+5. **Her carê yek gav bidin.** Pir rêwerzên bi hev re dikarin kesî bêzar bikin. Li bendê bimînin heta gavek bi dawî bibe û paşê ya din bibêjin.
+6. **Li kêleka hev bixebitin.** Kirina heman karî li kêleka hev mîna hevaltîyê ye, ne mîna çavdêriyê.
+7. **Li ser karî biaxivin, ne li ser encamê.** Gotinên wekî «ev çiqas nerm in» an «tu çawa ji rêzkirina dolaba destmalan hez dikir?» dikarin sohbetê vekin bêyî ku kesek were ceribandin.
 
-## How do I adapt chores as abilities change?
+## Ez çawa karan li gorî guherîna şiyanên kesî eyar bikim?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Şiyan bi demê re û heta ji rojê bo rojê diguherin. Komeleya Alzheimer pêşniyar dike ku her ku rewş pêş dikeve, ber bi karên hêsantir û dubaretir ve biçin.
 
-| If this has become hard | Try this instead |
+| Ger ev zehmet bûye | Li şûna wê vê biceribînin |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Çespandina çarşefên mezin | Çespandina destmalên piçûk an rastkirina destmalên maseyê |
+| Amadekirina tevahiya maseyê | Danîna destmaleke maseyê li her cihê rûniştinê |
+| Rêzkirina nameyan li gorî cureyan | Çêkirina yek komê ji zerfan |
+| Şopandina reçeteyekê | Tevlihevkirin, an temaşekirin û tamkirin dema ku hûn xwarinê çêdikin |
+| Paqijkirina tevahiya erdê bi firçeyê | Paqijkirina maseyek piçûk |
+| Kirina karî bi tevahî | Li kêleka we rûniştin û dema ku hûn karî dikin bi we re bûn |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Temaşekirin jî beşdarbûn e. Enstîtuya Neteweyî ya li ser Pîrbûnê dibêje ku hin kes bi tenê ji temaşekirinê kêfê digirin, û ev jî awayek baş e ji bo beşdarbûnê.
 
-## How do I keep household tasks safe?
+## Ez çawa karên malê ewle bihêlim?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Ewlehî, bi taybetî di metbexê de, pêşî tê. [Şîretên ewlehiyê yên malê ji bo lênêrînerên kesên bi Alzheimer re](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ên Enstîtuya Neteweyî ya li ser Pîrbûnê van tiştan di nav xwe de digirin:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Berhemên paqijiyê, tevî kapsulên sabûnê yên cilşûştinê ku dikarin mîna şekir xuya bikin, bi kilît bikin an jî ji holê rakin.
+- Kêran, meqes û amûrên elektrîkî li cihekî bi kilît bihêlin.
+- Bergirên ewlehiyê û pergaleke girtina xweber li sobeyê saz bikin.
+- Nîşanên «Raweste» an «Pir germ» li nêzî firnê, tostêkerê û hesinkirina cil û bergan deynin, lê wisa ku negihîjin agir.
+- Germahiya germkera avê li 120°F saz bikin da ku metirsiya şewitînê kêm bibe.
+- Fêkiyên çêkirî û magnetên bi şiklê xwarinê ji holê rakin, ji ber ku dibe ku wekî tiştên xwarinê xuya bikin.
 
-A few more practical habits help:
+Çend adetên din ên pratîk jî alîkariyê dikin:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Dema ku sobe, firn an amûrek tûj tê bikaranîn, di heman odeyê de bimînin.
+- Ji bo ziwa kirin û amadekirina maseyê firaxên ku naşikin bi kar bînin.
+- Dema paqijkirina bi firçeyê an paqijkirina bi avê, erd ziwa û vekirî bihêlin.
+- Ger kes berê bi amûran dixebitî, Komeleya Alzheimer pêşniyar dike ku tiştên metirsîdar ji atolyeyê werin rakirin, da ku karekî ewle, wekî xişandina perçeyek darê, hîn jî were kirin.
 
-## What if they do it "wrong"?
+## Ger ew karî «çewt» bike çi bikin?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Guh nedinê. Destmalek ku li şûna nîvê li sêyan hatiye çespandin, dîsa jî destmalek çespandî ye. Komeleya Alzheimer bi zelalî dibêje: ya girîng ew e ku dem bi hev re derbas bibe û kes xwe bikêrhatî hîs bike, ne ku destmal bi awayekî bêkêmasî hatine çespandin an na. Ger bi rastî divê tiştek ji nû ve were kirin, li bendê bimînin û paşê, bêyî ku kes bibîne, bikin.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Rastkirina di heman demê de dikare karekî xweş veguherîne bîranîneke tiştên ku winda bûne. Gotina «spas, ev alîkariyeke mezin e» hema hema her gav gotina rast e.
 
-## When should we stop?
+## Kengê divê em rawestin?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Dema ku hûn nîşanên acizbûnê, westînê an windabûna eleqeyê dibînin, rawestin an jî karî biguherînin. Zû qedandin encamek baş e, ne têkçûn. Hûn dikarin:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- derbasî gavek hêsantir bibin
+- biçin tiştekî aramtir, wekî muzîk an fincanek qehweyê
+- paşê an rojekî din dîsa biceribînin
+- bi tenê bi hev re rûnin
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Ger kes bêje na, zorê nedin. Ji bo bersivên nerm, li [ger ew bêje na çi bikin](/caregiving/when-they-say-no/) binêrin.
 
-## Low-effort extras for a quieter moment
+## Pêşniyarên hêsan ji bo demên aramtir
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Dema ku karên laşî ne mimkin in, rêzkirin û lihevkirin hîn jî dikarin rûniştî werin kirin. [Sort Together](/games/sort-together/) dihêle hûn wêneyan têxin selikên metbexê an baxçeyê, û [Picture Pairs](/games/picture-pairs/) lîstikek nerm a lihevkirinê ye bi wêneyên mezin û bê demjimêr. [Conversation Cards](/games/conversation-cards/) pirsên vekirî li ser mal û malbatê pêşkêş dike ku piştî qedandina karî, li kêleka qehweyekê, baş diçin.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Ji bo alîkariya di bicîkirina karan di roja we de, rêbera me ya li ser [rûtîneke rojane ya aram](/activities/daily-routine/) binêrin. Ji bo bêtir ramanan li gorî qonaxê, li [çalakiyên qonaxa navîn](/activities/middle-stage/) binêrin.

@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "ڈیمنشیا ایپس تٔ گیمہٕ کِتھ کٔنۍ چُنِو"
+seoTitle: "ڈیمنشیا ایپس تٔ گیمہٕ: اکھ چیک لِسٹ"
+description: "ڈیمنشیا ایپس تٔ گیمہٕ چُننہٕ خٲطرٕ چیک لِسٹ: پنُن مقصد طے کٔرِو، ٹایمر تٔ اشتہار ٹالِو، رازدارؠ جانچِو، تٔ ثبوتن ہٕندین دَعوَن ہُنٛد غور کٔرِو۔"
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  گۄڈٕ یِہ طے کٔرِو زِ تۄہیہِ ایپ کِہ چھُ کرُن: نٔرم حوصلہ افزٲیی، یادن ہُنٛد
+  تذکرٕ، سکون یا رابطہٕ۔ پتہٕ تِژ ایپ چُنِو یۄس تَس شخصہٕ سٕندیٚن اَزکین
+  صلاحیتن سٕتؠ میل کھؠوان آسہِ، بڈؠ تصویرن ہٕندِ سٕتؠ، ٹایمر، سکور یا اشتہارَن
+  بغیر، تٔ رُکنُک آسان طریقہٕ آسُن۔ یِہ جانچِو زِ سُہ کۄس ڈیٹا چھُ جمع کران تٔ
+  تۄہیہِ ہیٚکِوا سُہ مِٹٲوِتھ۔ تِمن دَعوَن نِش دور روزِو یِم وَنان چھِ زِ ایپ چھےٚ
+  ڈیمنشیا رُکاوان یا علاج کران؛ اکھ اکیلا مُطالعہ چھُنہٕ ثبوت۔
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "گۄڈٕ مقصد طے کٔرِو: حوصلہ افزٲیی، یادن ہُنٛد تذکرٕ، سکون یا رابطہٕ خٲطرٕ چھِ الگ الگ ایپس گژھان۔"
+  - "اَزکِس دۄہس مُطٲبق تَس شخصہٕ سٕنز صلاحیت وُچھِو، نہ کہ صرف اکھ لیبَل، تٔ کنٹرول آسان تھٲوِو۔"
+  - "ٹایمر، سکور، جان، سلسلہٕ (streaks)، اشتہار یا خریدٲری ہٕندۍ اِشارٕ واجِنؠ ایپس ٹالِو۔"
+  - "ڈیٹا جمع کرُن، شیر کرُن تٔ مِٹاوُن جانچِو۔ HIPAA چھُنہٕ عموماً عام صارف ایپس پؠتھ لاگو گژھان۔"
+  - "«ڈیمنشیا رُکاوان چھُ» یِتھین دَعوَن پیٹھ مٔہ کٔرِو پوٗرٕ یقین۔ اکھ ٹرائل، یا ایپ منز بہتر سکور، چھُنہٕ ثبوت۔"
+  - "Golden Moments چھُ اکھ تفریحی سرگرمی۔ اَس چھُنہٕ کانٛہہ طبی دعویٰ۔"
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "کیا دماغی گیمہٕ ہیکن ڈیمنشیا رُکٲوِتھ؟"
+    a: "کانٛہہ ٹھوس ثبوت چھُنہٕ زِ تجارتی دماغی گیم ایپس چھےٚ ڈیمنشیا رُکاوان یا سُست کران۔ National Institute on Aging چھُ وَنان زِ اِتھ ثبوت چھُنہٕ کافی زِ بازارس منز دٔستیاب دماغی تربیت ایپس ہُنٛد تِیُتھ اثر آسہِ یُتھ أکِس بڈِس تحقیقی ٹرائلس منز آزماونہٕ آمژ منظم تربیتُک اوس۔ ایپس صرف مزٕ تٔ رابطہٕ خٲطرٕ چُنِو، نہ کہ دوا ہٕندِ طور۔"
+  - q: "کیا ڈیمنشیا ایپ چھا HIPAA ہؠٹھ آسان؟"
+    a: "عموماً نہ۔ HIPAA چھُ عموماً صحت خدمتن فراہم کرن والیٚن، صحت پلانن تٔ تِہندیٚن کاروبٲری ساٖتھیٚن پؠتھ لاگو گژھان۔ یۄس ایپ تۄہیہِ پانے ڈاؤن لوڈ چھِو کران، سۄ چھُنہٕ عموماً یَتھ منز شٲمِل، یوٚتام نہ تِمو منز کانٛہہ سۄ فراہم کرِ۔ FTC ہُنٛد Health Breach Notification Rule چھُ واریاہن صحت ایپس پؠتھ لاگو گژھان یِمَن HIPAA چھُنہٕ رچھان۔"
+  - q: "اکھ اچھ ایپ کیٛاہ گژِھ آسٕنی؟"
+    a: "بڈؠ تٔ صاف تصویرٕ تٔ متن، پرٛتھ سکرینس پؠتھ اکھ صاف کٲم، کانٛہہ ٹایمر یا سکور نہ، غلطی پؠتھ کانٛہہ تیز آواز نہ، کانٛہہ اشتہار نہ، تٔ رُکنُک یا ٹھہرٲونُک آسان طریقہٕ۔ سۄ گژِھ بڈن خٲطرٕ بنٲومُت باسان تٔ بیٚیِس شخصہٕ سٕندِ خٲطرٕ شٲمِل گژھن آسان آسُن۔"
+  - q: "کیا Golden Moments چھا یادداشتس متعلق کانٛہہ دعویٰ کران؟"
+    a: "نہ۔ Golden Moments چھُ مزٕ تٔ کتھ باتھ خٲطرٕ سادٕ شیئر کرنہٕ واجِنؠ سرگرمی پیش کران۔ یِہ چھُنہٕ ڈیمنشیا تشخیص کران، علاج کران، رُکاوان یا ناپان، تٔ أس چھُنہٕ یادداشت یا سوچنہٕ سٕندِ بارس منز کانٛہہ دعویٰ۔"
+  - q: "کیا مےٚ گژِھ ڈیمنشیا ایپ خٲطرٕ پیٚسہٕ دِیُن؟"
+    a: "گۄڈٕ مفت آپشن یا مفت آزمٲیِش وُچھِو، تٔ کینہہ ہفتن وُچھِو زِ سُہ شخص کِتھ چھُ رِسپانس دِوان۔ ایپ خٲطرٕ پیٚسہٕ دِنہٕ سٕتؠ چھُنہٕ سۄ زیٛادٕ موثر بنان۔ سبسکرائب کرنہٕ برونٛہہ وُچھِو زِ منسوخ کِتھ کٔنۍ کرُن چھُ۔"
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+ایپ اسٹورن منز چھِ بوڑَن، یادداشت یا ڈیمنشیا ہٕندِ ناوٕ سٕتؠ لیبَل کرنہٕ آمژٕ واریاہ گیمہٕ۔ کینہہ چھےٚ غور سٕتؠ بنٲومژٕ۔ باقی چھِ طبی باسان وۄل دَعوٕ، ٹایمر یِم کھیل اکھ آزمٲیش بناوان چھِ، یا اشتہار تٔ ڈیٹا جمع کرُن شٲمِل کران۔ یِہ صفہٕ چھُ تۄہیہِ اکھ طریقہٕ دِوان یِتھ کٔنۍ تۄہیہِ کانٛہہ تہِ ایپ پانے جانچ ہیٚکِو۔ أس چھِنہٕ باقی پروڈکٹن ہُنٛد درجہٕ دِوان یا جٲیزٕ ہیٚوان۔
 
-## What should I decide before choosing a dementia app?
+## ڈیمنشیا ایپ چُننہٕ برونٛہہ مےٚ کیا گژِھ طے کرُن؟
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+گۄڈٕ یِہ طے کٔرِو زِ تۄہیہِ ایپ کِہ چھُ کرُن۔ «ماجہِ خٲطرٕ اکھ گیم» ہیکہِ واریاہ الگ چیزٕ آسِتھ، تٔ أکِس مقصد خٲطرٕ بہترین انتخاب ہیکہِ بیٚیِس مقصد خٲطرٕ ٹھیک نہ ٲسِتھ۔
 
-| Goal | What it looks like | What to look for |
+| مقصد | یِہ کیٛاہ باسان چھُ | کیا ژھٲرِو |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| نٔرم حوصلہ افزٲیی | جوڑا مِلاوُن، چھانٹُن، سادٕ پہیلی، لفظن ہٕنزٕ گیمہٕ | بدلاوٕن واجِن سطح، تصویرٕ یِم نٔظرِ تل روزن، کانٛہہ وقتُک دباؤ نہ |
+| یادن ہُنٛد تذکرٕ | پرٛٲنؠ تصویرٕ، مانوس مقولہٕ، تِہٕنز جوانی ہُنٛد موسیقی | پنٕنۍ تصویرٕ، یَلہٕ سوال، کانٛہہ کوئز سوال نہ |
+| سکون | آهستہٕ منظر، ہاوش آوازٕ، ساہ، قدرت | شروع تٔ بند کرُن آسان، کِہہ چمکان واجِن نہ، کانٛہہ حیرت نہ |
+| رابطہٕ | أکِس سٕتؠ کھیلُن یا کتھ باتھ، روبرو یا ویڈیو پؠٹھ | دۄن شخصن خٲطرٕ بنٲومُت، کتھ باتھ خٲطرٕ اِشارٕ |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+تِمن لوٗکن خٲطرٕ یِمَن ڈیمنشیا چھُ، منظم «ادراکی حوصلہ افزٲیی» (cognitive stimulation) پؠٹھ تحقیق چھےٚ زیادہ تر تربیت یافتہ عملہٕ سٕندین گروپ سیشنن منز گژھان، یَتھ منز کتھ باتھ، لفظن ہٕنزٕ گیمہٕ، پہیلی، موسیقی تٔ تخلیقی سرگرمی آسہِ چھےٚ۔ [Cochrane جٲیزٕ](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) آو اوسط پؠتھ لۄکٹ فٲیدٕ لبنہٕ، یُس مُطالعاتن منز الگ الگ اوس۔ یِہ سماجی تٔ مختلف پروگرام چھُنہٕ أکِس اکیلے ایپ ہِوُے، تمہِ مۄکھہٕ وُچھِو کانٛہہ تہِ ایپ واریاہن شیئر کرنہٕ واجِنؠ سرگرمیَن منز اکھ ہٕندِ طور۔ |
 
-## How do I know if an app fits the person's abilities?
+## مےٚ کِتھ پےٚ لَگہِ زِ ایپ چھا تَس شخصہٕ سٕندیٚن صلاحیتن مُطٲبق؟
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+وُچھِو زِ سُہ کِتھ چھُ رِسپانس دِوان، تشخیص یا مرحلہٕ ہٕندِس لیبَلس پؠٹھ نہ۔ «اکے مرحلس» منز ہیکن زٕ شخص نظر، بوزن، اَتھ کنٹرول، زبان تٔ سکرینن سٕتؠ آرامس منز واریاہ الگ ٲسِتھ۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) چھُ مشورٕ دِوان زِ پرٛٲنؠ دلچسپیاں تٔ اَزک صلاحیت ذِہنس منز تھٲوِو تٔ کامیٲبی بجاے مزس پؠتھ دِیو توجہ۔
 
-Signs of a good fit:
+اچھ میلٕچ علامژٕ:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- سُہ چھُ بغیر واریاہ زور دِنہٕ شروع کران یا شٲمِل گژھان؛
+- سُہ چھُ مسکرایان، کِہہ وَنان یا اکھ کہانی بیان کران؛
+- غلطی چھِنہٕ تَس پریشان کران باسان؛
+- وقت کھتم گژھنہٕ پتہٕ چھُ سُہ خۄشی سٕتؠ رُکان۔
 
-Signs it is a poor fit:
+خراب میلٕچ علامژٕ:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- بار بار «مےٚ چھُنہٕ ہیٚکان» یا «یِہ کیا چھُ بے کار» وَنُن؛
+- یِہ نہ سمجھن زِ کتھ کُن ٹیپ کرُن؛
+- پریشٲنی، شرمندگی یا ڈیوائس دوٗر دکہٕ دِنۍ؛
+- یِہ صرف تَمہِ ساعتس چھُ چلان ییلہِ تۄہیہِ تقریباً سورُے کِہہ چھِو کران۔
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+پریشٲنی چھےٚ اکھ اِشارٕ، نہ کہ کِہہ تِیُتھ یَتھ پؠتھ زور دِیُن گژِھ۔ وُچھِو [ییلہِ سُہ «نہ» وَنہِ تیٚلہِ کیا کرُن](/caregiving/when-they-say-no/)۔ ایپس نِش الگ مرحلہٕ وار تجویزن خٲطرٕ وُچھِو [شروعی مرحلہٕ](/activities/early-stage/) تٔ [اخرِ مرحلہٕ](/activities/late-stage/) سرگرمی۔
 
-## What design features should I look for or avoid?
+## کٔہنٛز ڈیزائن خوٗبِیاہ گژِھ مےٚ ژھارنؠ یا ٹالنؠ؟
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+پُرسکون، سادٕ، بڈن خٲطرٕ ڈیزائن ژھٲرِو، تٔ پرٛتھ کانٛہہ تِژ چیز ٹالِو یۄس دباؤ بڑاوِ۔
 
-| Look for | Be wary of |
+| کیا ژھٲرِو | کِہنس پیٹھ روزِو ہوشیار |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| بڈؠ تصویرٕ تٔ متن، صاف فرق (contrast) | لۄکٹ آئکن، بھرتی سکرین |
+| پرٛتھ سکرینس پؠتھ اکھ صاف کٲم | واریاہ بٹن، مینیو، یا واریاہ مرحلن ہٕنز ہدایت |
+| کانٛہہ ٹایمر نہ، یا ٹایمر یُس بند ہیٚکہِ کٔرِتھ | الٹی گِنزٕر، رفتار بونس، «پنُن وقت ہارو» |
+| کانٛہہ سکور نہ، یا نٔرم فیڈبیک | پوائنٹ، جان، سلسلہٕ، درجہٕ بندی، «دماغی عمر» |
+| غلطیَن ہُنٛد خاموشی سٕتھ سامنا | تیز آوازٕ، سرخ X نشان، «غلط» پیغام |
+| بڈن خٲطرٕ، اصلی دُنیاہچ تصویرٕ | کارٹونی یا بچھن ہٕندۍ موضوع |
+| آف لائن چلہِ، شروع کرنہٕ خٲطرٕ اکاؤنٹ ضرورت نہ | گۄڈٕ سائن اپ، لاگ اِن یا مواد ڈاؤن لوڈ کرُن ضروری |
+| ٹھہرٲوُن تٔ بند کرُن آسان | پاپ اپ یِم کھیلُن جٲری تھاونُک یا ایپ ریٹ کرنُک وَنان چھِ |
+| کانٛہہ اشتہار نہ، صاف اکھ لٹہٕ قیمت یا سبسکرپشن | اشتہار، لوٹ باکس، بار بار خریدٲری ہٕندۍ اِشارٕ |
+| بیٚیِس شخصہٕ سٕندِ خٲطرٕ شٲمِل گژھن آسان | صرف اکھ اکیلا کھلاڑی، مقابلہٕ واجِن ڈیزائن |
 
-Ads and purchase prompts are easy to tap by accident.
+اشتہار تٔ خریدٲری ہٕندۍ اِشارٕ ہیکن غلطی سٕتؠ ٹیپ گٔژِھتھ۔
 
-## How do I check an app's privacy?
+## ایپچ رازدارؠ کِتھ کٔنۍ جانچِو؟
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+جانچِو زِ ایپ کیا چھُ جمع کران، کٔمِس سٕتؠ چھُ شیر کران، تٔ کیا تۄہیہِ ہیٚکِوا سُہ مِٹٲوِتھ۔ انسٹال کرنہٕ برونٛہہ:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **اسٹورچ رازدارؠ سمری پرِو۔** Google Play ہُنٛد [Data safety سیکشن](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) تٔ App Store ہٕنز [رازدارؠ جانکاری](https://support.apple.com/en-us/102399) چھےٚ تِم ڈیٹا قٔسم ونان یِم ایپ ہیکہِ جمع یا شیر کٔرِتھ۔ دۄشوے کمپنِیو چھےٚ وَنان زِ ڈویلپر چھِ یِہ جانکاری پانے دِوان، تمہِ مۄکھہٕ چھُ یِہ اکھ شروعات، نہ کہ آڈِٹ۔
+2. **پٕرژِھو کیا اَتھ اکاؤنٹٕچ ضرورت چھا۔** اگر ایپ صرف تصویرٕ یا سادٕ گیمہٕ چھےٚ ہاوان، تیٚلہِ ہیکہِ نہ تُہُنٛد ناو، ای میل یا زٕ دۄہ جاننٕچ کانٛہہ وجہ ٲسِتھ۔
+3. **اجازتہٕ جانچِو۔** کیا أکِس جوڑا مِلاون واجِنہِ گیمہِ گژِھ پٔزۍ پٲٹھۍ لوکیشن، رابطہٕ، مائیکروفون یا تُہٕنز پوٗرٕ فوٹو لائبریری؟ یِہ کِہہ ضرورت نہ آسہِ، سُہ کٔرِو بند۔
+4. **اشتہار تٔ تجزیہٕ (analytics) ژھٲرِو۔** اشتہاری تٔ ٹریکنگ اوزار ہیکن ایپ استعمال گژھنٕچ جانکاری باقی کمپنِین کُن سوزِتھ۔
+5. **مالوم کٔرِو تصویرٕ کتہِ چھےٚ گژھان۔** اگر تۄہیہِ خاندٲنی تصویرٕ شٲمِل چھِو کران، کیا تِم چھا ڈیوائسس پؠتھ روزان یا سرورس پؠتھ اپلوڈ گژھان؟ کیا تۄہیہِ ہیٚکِوا تِم ہٹٲوِتھ؟
+6. **مِٹاونُک جانچِو۔** رازدارؠ پالیسی یا ڈیٹا سمری منز وُچھِو زِ ڈیٹا تٔ اکاؤنٹ کِتھ کٔنۍ مِٹاوُن چھُ۔ یۄس ایپ وَنہِ زِ ڈیٹا ہیکہِ نہ مِٹٲوِتھ، سۄ چھےٚ خاص طور پؠتھ ہوشیٲری طلب کران، خاص کر اگر تَتھ منز تصویرٕ یا صحت تفصیل آسہِ۔
+7. **رازدارؠ پالیسی پرِو** صاف جوابن خٲطرٕ: کیا چھُ جمع گژھان، کیازِ، کٔژِ تام، تٔ کٔمِس سٕتؠ چھُ شیر گژھان۔
 
-### Does HIPAA protect information in dementia apps?
+### کیا HIPAA چھا ڈیمنشیا ایپن منز جانکاری رچھان؟
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+عموماً نہ، یُس واریاہن لوٗکن حٲران کران چھُ۔ U.S. Department of Health and Human Services [چھُ وضاحت کران](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) زِ HIPAA چھُ صحت پلانن، زیادہ تر صحت خدمتن فراہم کرن والیٚن، صحت کیئر کلیئرنگ ہاؤسن تٔ تِہندیٚن کاروبٲری ساٖتھیٚن پؠتھ لاگو گژھان۔ زیادہ تر حالتن منز چھُنہٕ یِہ ذٲتی استعمال خٲطرٕ ایپس منز دِنہٕ آمُت ڈیٹا رچھان، یوٚتام نہ کانٛہہ HIPAA ہؠٹھ یِنہٕ وول ادارٕ یا تِہُنٛد کاروبٲری ساٖتھی سۄ ایپ فراہم کرِ۔ ایپ اسٹور پیٹھۍ اکھ «ڈیمنشیا ایپ» چھےٚ اکثر HIPAA نِش نؠبر، اگر چہ سۄ صحتس مُتعلق کتھ باتھ کرِ تہِ۔
 
-### What protects health data in apps that HIPAA does not cover?
+### یِمن ایپس منز HIPAA چھُنہٕ لاگو، تِمن منز صحت ڈیٹا کُس چھُ رچھان؟
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission ہُنٛد Health Breach Notification Rule چھُ واریاہن پؠتھ لاگو گژھان۔ 2024س منز FTC [کور مُکمل تبدیلی](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) یَتھ سٕتؠ صاف سپُد زِ یِہ قانون چھُ تِمن صحت ایپس تٔ تِتھین ٹیکنالوجین پؠتھ تہِ لاگو یِمَن HIPAA چھُنہٕ رچھان۔ «خلاف ورزی» (breach) منز چھےٚ بغیر اجازت افشا تہِ شٲمِل، نہ کہ صرف ہیکنگ، تٔ کمپنِین چھُ ضرور مُتاثر لوٗکن تٔ FTC اطلاع دِیُن۔ یِہ چھُ کِہہ غلط گژھنہٕ پتہٕ اکھ حفاظتی جال، نہ کہ یِہ یقین دہٲنی زِ ایپ چھےٚ صرف ضرورتُک ڈیٹا جمع کران۔
 
-## How should I read claims about research and evidence?
+## تحقیق تٔ ثبوتن ہٕندیٚن دَعوَن کِتھ کٔنۍ پرُن؟
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+ثبوتن ہٕندین دَعوَن آهستہٕ پرِو، تٔ بڈن وعدن پیٹھ روزِو سبھ کھۄتہٕ زیٛادٕ ہوشیار۔ یِم سوال پٕرژِھو:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **درحقیقت کیا آو آزماونہٕ؟** أکِس تربیتی پروگرام پؠٹھ اکھ مُطالعہ چھُنہٕ یِہ ونان زِ ایپچ پرٛتھ گیم چھےٚ تِتھے پٲٹھؠ کٲم کران۔
+- **کٔم آے آزماونہٕ؟** تندرست بوڑَن منز لبنہٕ آمُت نتیجہٕ ہیکہِ تَس شخصہٕ خٲطرٕ لاگو نہ ٲسِتھ یَس ڈیمنشیا چھُ۔
+- **کیا آو ناپنہٕ؟** گیمس منز بہتر بنُن چھُ الگ چیز تٔ روزمرٕ زندگی، کتھ باتھ، موڈ یا خود مختٲری منز تبدیلی چھےٚ الگ۔
+- **مُطالعہ کٔژِ مضبوط اوس؟** اکھ randomized controlled trial (RCT) چھُ ایپ استعمال کرن والیٚن اکھ گروپ تُلنہٕ یَوان تَس گروپس سٕتؠ یُس استعمال چھُنہٕ کران۔ یِہ چھُ اکھ اچھ ڈیزائن، مگر اکھ لۄکُٹ یا مختصر RCT چھُنہٕ ثبوت۔ واریاہ مُطالعہٕ ژھٲرِو، آزاد محققن ہٕندِ، یِم اکھ أکِس سٕتؠ اتفاق کرن۔
+- **کیا سُہ بیمارِ ہٕنز تبدیل گژھن ہُنٛد دعویٰ چھا کران؟** کانٛہہ مُطالعہ اگر أکِس ٹیسٹس پؠتھ لۄکچہِ بہتری ہاوِ، تیٚلہِ چھُنہٕ یِہ ثبوت زِ کانٛہہ ایپ چھےٚ ڈیمنشیا سُست کران، رُکاوان یا علاج کران۔
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging ہُنٛد صفہٕ [بوڑَن ہٕنز ادراکی صحت](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) چھُ NIH ہٕندِ مالی تعاون سٕتؠ منظم ادراکی تربیت پؠٹھ أکِس بڈِس ٹرائلس ہُنٛد ذکر کران، تٔ پتہٕ چھُ پرن والیٚن خبردار کران زِ تِمن دَعوَن نِش روزِو ہوشیار یِم وَنان چھِ زِ خاص کمپیوٹر تٔ آن لائن گیمہٕ ہیکن یادداشت تٔ سوچ بہتر کٔرِتھ۔ سُہ چھُ وَنان زِ وُنہِ تام چھُنہٕ اِتھ ثبوت کافی زِ بازارس منز دٔستیاب دماغی تربیت ایپس ہُنٛد تِیُتھ اثر آسہِ یُتھ تَتھ ٹرائلس منز آزماونہٕ آمژ تربیتُک اوس۔ تۄہیہِ ہیٚکِو مزید پرِتھ سانہِ [دماغی گیمہٕ تٔ ثبوت](/brain-health/brain-games/) تٔ [ڈیمنشیا رُکاونہٕ متعلق تحقیق کیا چھےٚ وَنان](/brain-health/can-dementia-be-prevented/) ہٕندیٚن گائیڈن منز۔
 
-### What is a public example of a misleading claim?
+### گمرٲہ کن دعوُک اکھ عام مِثال کیا چھُ؟
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+جنوری 2016س منز FTC [کٔر اعلان](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) زِ Lumosity، اکھ «دماغی تربیت» پروگرام بناون والیٚن سٕتؠ سمجھوتہٕ گو۔ FTC ہُند الزام اوس زِ کمپنی چھےٚ بغیر مناسب ثبوتن دَعوٕ کران زِ تِہٕنزٕ گیمہٕ ہیکہٕ عمر سٕتؠ یِنہٕ واجِن ادراکی کمی سُست کٔرِتھ، تٔ ہلکہٕ ادراکی خرٲبی، ڈیمنشیا تٔ Alzheimer's بیماری نِش بچٲوِتھ۔ کمپنی مٲنۍ $2 ملین دِنہٕ تٔ آئندٕ تِتھین دَعوَن خٲطرٕ گژِھ تَس نِش قابلِ اعتماد سائنسی ثبوت آسُن۔ یِہ کیس چھُ اکھ مفید یاد دہٲنی زِ مارکیٹنگ زبان چھُنہٕ ثبوت۔
 
-### Which words are red flags?
+### کٔہنٛز لفظ چھِ خطرٕچ نشان؟
 
-Be cautious when an app or ad says it:
+ہوشیار روزِو ییلہِ کانٛہہ ایپ یا اشتہار وَنہِ زِ سۄ:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- ڈیمنشیا یا Alzheimer's «رُکاوان»، «واپس پھِران»، «رُکاوان» یا «علاج کران» چھُ؛
+- «طبی طور ثابت» چھُ مگر مُطالعہ، تَتھ منز کٔم ٲسؠ، تٔ کیا آو ناپنہٕ چھُنہٕ وَنان؛
+- «دماغی عمر» یا یادداشتُک سکور چھُ دِوان یُس تشخیص ہُنٛد اِشارٕ دِیہِ؛
+- دماغ «تیز»، «بڑاوٕ» یا «ٹرین» کرِ؛
+- ثبوت ہٕندِ طور لوٗکن ہٕنزٕ کہانِیہِ استعمال کرِ۔
 
-If you are unsure about a claim, ask the person's doctor.
+اگر تۄہیہِ کُنہِ دعوُک یقین نہ آسہِ، تیٚلہِ کٔرِو تَس شخصہٕ سٕندِس ڈاکٹرس سٕتؠ کتھ۔
 
-## Where does Golden Moments fit?
+## Golden Moments کتہِ چھُ فِٹ گژھان؟
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments چھُ سادٕ شیئر کرنہٕ واجِنؠ سرگرمی پیش کران، نہ کہ یادداشتچ آزمٲیش، تھراپی یا طبی مشورٕ۔ سٲنۍ گیمہٕ، مِثال طور [Picture Pairs](/games/picture-pairs/)، [Conversation Cards](/games/conversation-cards/)، [Photo Pairs](/games/photo-pairs/)، [Picture Bingo](/games/picture-bingo/) تٔ [Calm Breathing](/games/calm-breathing/)، چھےٚ مزٕ تٔ کتھ باتھ خٲطرٕ بنٲومژٕ۔ یِم چھِنہٕ ڈیمنشیا تشخیص کران، علاج کران، رُکاوان یا ناپان، تٔ أس چھُنہٕ یادداشت یا سوچنہٕ سٕندِ بارس منز کانٛہہ دعویٰ۔
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+أس چھےٚ اکھ مفت ایپ تہِ، [iPhone، iPad تٔ Android خٲطرٕ Golden Moments](/app/)۔ اَتھ منز چھےٚ بڈن ٹایلن ہٕندِ سٕتؠ نٔرم تصویر میچنگ، تُہندیٚن چُنہٕ آمژن خاندٲنی تصوِرن ہٕندِ سٕتؠ گیمہٕ، تٔ تصویر پیک یِم آف لائن چلان چھِ، کانٛہہ اکاؤنٹ، اشتہار، ٹایمر یا سکور بغیر۔ یۄہے چیک لِسٹ چھےٚ اَتھ پؠتھ تہِ لاگو: اَمِچ App Store رازدارؠ لیبَل چھےٚ وَنان «Data Not Collected»، تٔ [ایپچ رازدارؠ پالیسی](/app-privacy/) چھےٚ وضاحت کران زِ تصوِرن ہٕنز کاپیاں کتہِ چھےٚ تھاونہٕ یِوان۔
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+أس چھُنہٕ یژھان زِ تۄہیہِ کٔرِو اَس پؠتھ اَندھا اعتماد، بلکہ ژھٲرِو أس پانے۔ یَتھ صفس پؠٹھ دِنہٕ آمُت چیک لِسٹ کٔرِو استعمال، سون [رازدارؠ صفہٕ](/privacy/) تٔ [طبی دستبرداری](/medical-disclaimer/) پرِو، تٔ کانٛہہ تہِ چیز، سانہِ سمیت، کرنہٕ ترٲوِو یۄس تَس شخصہٕ خٲطرٕ موزوں نہ آسہِ یَس تُہُنٛد خیال چھُ۔
 
-## What is a sensible way to try a new app?
+## نٔو ایپ آزماؤنُک سمجھدار طریقہٕ کیا چھُ؟
 
-Try it together for a couple of weeks and watch what happens.
+کینہہ ہفتن تام أکِس سٕتؠ آزمٲوِو تٔ وُچھِو کیا چھُ گژھان۔
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **گۄڈٕ کٔرِو سۄ تیار** سٲنِس [ٹیبلیٹ تٔ فون ترتیب دِنہٕ ہٕندِس گائیڈ](/caregiving/tablets-and-screens/) ہٕندِ مُطٲبق، تٔ آسان سطح پیٹھ کٔرِو شروع۔
+2. **سیشن تھٲوِو مختصر،** مسکراہٹ، کتھ باتھ تٔ سکونس پؠتھ دِیو توجہ، تٔ أکِس اچھِس لمحاس پؠتھ کٔرِو ختم۔
+3. **اگر سۄ پریشٲنی پیدا کرِ تیٚلہِ ترٲوِو،** خواہ سۄ کٔژِ تہِ پسند کرنہٕ آمژ ٲسِتن۔

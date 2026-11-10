@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "چالاکییە کۆمەڵایەتییەکان بۆ دیمێنشیا: ڕێبەری ماڵی چاودێری"
+seoTitle: "چالاکییە کۆمەڵایەتییەکان بۆ دیمێنشیا: بینگۆ و گۆرانی"
+description: "چالاکییە کۆمەڵایەتییەکان بۆ چاودێری بیرەوەری، ماڵی ئاگەداری و بەرنامەی ڕۆژانە: بینگۆی وێنە، گۆرانی و گرووپی بیرەوەری، لەگەڵ ئامۆژگاری دانیشتن."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  چالاکییە کۆمەڵایەتییە باشەکان لە چاودێری بیرەوەری و بەرنامەی ڕۆژانەدا کورتن،
+  ئاشنان و بە ئاسانی دەکرێت هەموو کەسێک بەشدار بێت: بینگۆی وێنە، گۆرانیی هاوبەش،
+  بازنەی بیرەوەری، جووڵەی سادە و یاریی وشەی هاوبەش. گرووپەکان بچووک بهێڵەرەوە
+  کاتێک دەکرێت، خەڵک دادەنێ بۆ ئەوەی هەمووان بتوانن ببینن و ببیستن، هەر جارێک یەک
+  هەنگاوی ڕوون پێشکەش بکە، و ڕۆڵێکی ئاسانتر و ڕێگەیەکی ئارام بۆ دەرچوون بۆ هەر
+  کەسێک کە پێویستییەتی ئامادە بکە.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "زۆرجار گرووپی بچووک باشتر کار دەکات لە یەک ڕووداوی گەورە، و ڕێگە بە خەڵکی زیاتر دەدات بە چالاکی بەشدار بن نەک تەنها سەیر بکەن."
+  - "خەڵک لە بازنە یان شێوەی نەعلەسوار دادەنێ، نزیک لە سەرکردەی چالاکییەکە، لەگەڵ لەبەرچاوگرتنی پێداویستیی بینین و بیستن و کوژاندنەوەی دەنگی پاشبنەما."
+  - "هەر چالاکییەک بە دوو یان سێ ئاست پلانی بۆ دابنێ بۆ ئەوەی خەڵک بە توانای جیاواز بتوانن بەشدار بن."
+  - "دوور بکەوەرەوە لە تاقیکردنەوە، نمرەدانان و براوەبوون. بینگۆی وێنە دەتوانرێت بە جۆرێک یاری پێبکرێت کە هەمووان لە کۆتاییدا کارتیان پڕ بێت."
+  - "زوو دەرچوون، سەیرکردن یان خەوتنەوە هیچ کێشەیەکی نییە. ئەندامێکی ستاف ئامادە بکە بۆ یارمەتیدانی هەر کەسێک کە شوێنێکی ئارامتر دەوێت."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "قەبارەی باشی گرووپ بۆ چالاکییەکانی دیمێنشیا چەندە؟"
+    a: "هیچ ژمارەیەکی یەکلاکەرەوەی دروست نییە، و بەستراوە بە نیشتەجێبووان، ژوورەکە و ژمارەی ستافەوە. زۆر تیم دەبینن کە گرووپی بچووک ڕێگە دەدات هەمووان ببینن، ببیستن و بەشدار بن، لە کاتێکدا ڕووداوی ژووری گەورە زۆرجار وای دەکات خەڵکی زیاتر تەنها سەیر بکەن. ئەگەر ڕووداوی گەورە ئەنجام دەدەیت، ستاف یان خۆبەخش زیاد بکە بۆ ئەوەی لە نێوان نیشتەجێبووان دادەنیشن و یارمەتی یەک یان دوو کەس بدەن."
+  - q: "چۆن گرووپێک بە توانای جیاواز بەڕێوە ببەم؟"
+    a: "بۆ هەر چالاکییەک زیاتر لە یەک ڕێگە بۆ بەشداربوون پلانی بۆ دابنێ. لە گۆرانیی هاوبەشدا، هەندێک کەس هەموو وشەکان دەڵێن، هەندێک چەپڵە لێدەدەن یان بە دەنگی نزم دەخوێنن، و هەندێک شەیکەرێک بە دەستەوە دەگرن. لە بینگۆی وێنەدا، هەندێک کەس وێنەکانی خۆیان دەدۆزنەوە لە کاتێکدا یارمەتیدەرێک بۆ کەسانی تر ئاماژە دەکات. ئەو کەسانەی کە پێویستیان بە یارمەتی زیاترە لە تەنیشت ئەندامێکی ستاف یان خۆبەخش دادەنێ."
+  - q: "چۆن بینگۆی وێنە یاری پێبکەم بەبێ ئەوەی بکەینە پێشبڕکێ؟"
+    a: "هەموو وێنەکان بانگ بکە تا کارتی هەمووان پڕ دەبێت، بۆ ئەوەی هیچ کەسێک بەجێ نەهێڵرێت. لەسەر هەر وێنەیەک کاتێک دێت قسە بکەن، و خەڵات بۆ براوەکان نەخەنە بەردەم یان هەمان شتی بچووکی بچووک بە هەمووان بدەن. مەبەست سەرنج و گفتوگۆی هاوبەشە، نەک کێ زووتر تەواو دەکات."
+  - q: "ئایا دەتوانم یارییەکانی ئێوە لەسەر شاشەی گەورە لە گرووپدا بەکاربهێنم؟"
+    a: "بەڵێ. یارییەکانی ئێمە لە وێبگەڕدا کار دەکەن، بۆیە دەتوانیت لەسەر لاپتۆپ یان تابلێت کە بە تەلەفزیۆن یان پرۆجێکتەرەوە بەستراوەتەوە بیکەیتەوە. بینگۆی وێنە کارتی چاپکراو و بانگکەرێکی سەر شاشە لەخۆ دەگرێت. یارییەکانی تەواوکردنی وتە و جووتی وێنەش بە باشی لەسەر شاشەی گەورە کار دەکەن کاتێک یەک کەس بۆ گرووپەکە دەست لێدەدات."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+ئەم ڕێبەرە بۆ بەڕێوەبەرانی چالاکی، تیمەکانی چاودێری بیرەوەری و سەرکردەکانی بەرنامەی ڕۆژانەیە. باس لەو شێوازە کۆمەڵایەتییانە دەکات کە کار دەکەن، ڕێکخستنی ژوور، گونجاندنی یەک چالاکی بۆ توانای جیاواز، و بەکارهێنانی کارتە چاپکراوەکانی بینگۆ و یارییەکانی سەر شاشەی گەورەی ئێمە. هەموو ئەو شتانەی لێرەدا ئامانجیان ئاسوودەیی، پەیوەندی و هەڵبژاردنە. هیچ شتێکی لێرەدا تاقیکردنەوە نییە.
 
-## What makes a group activity work in memory care?
+## چی وای دەکات چالاکییەکی کۆمەڵایەتی لە چاودێری بیرەوەریدا باش بێت؟
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+چالاکییەکی کۆمەڵایەتیی باش ئاشنایە، کورتە، بە ئاسانی دەکرێت هەموو کەسێک بەشدار بێت و بێ فشارە. [پێشنیارەکانی پراکتیزی چاودێری دیمێنشیا](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf)ی Alzheimer's Association بەشداربوونی واتادار وەک شتێک دەناسێنێت کە پشتگیری لە ئارەزوو و هەڵبژاردەکانی کەس دەکات و ڕێگە بە هەڵبژاردن و سەرکەوتن دەدات، تەنانەت کاتێک دیمێنشیا زۆر قورسە. هەمان بەڵگەنامە تێبینی دەکات کە بەرنامە ئاساییەکان زۆرجار پشت بە یەک یان دوو ڕووداوی کۆمەڵایەتیی گەورە دەبەستن لە ڕۆژێکدا کە تێیدا نیشتەجێبووان زۆرجار تەنها بە شێوەیەکی نچالاک بەشدارن.
 
-That points to a few practical rules:
+ئەمە ڕێنمایی چەند یاسایەکی پراکتیکی دەدات:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **ئەوەی ئاشنایە باشترە لە نوێ.** گۆرانی، وتە، وێنە و شتەکان لە ساڵانی گەنجیی نیشتەجێبووان ئاسانترن بۆ بەشداربوون.
+- **کورت باشترە لە درێژ.** بۆ ماوەیەک پلان دابنێ نزیک بەو ماوەیەی گرووپەکەت بەزۆری دەتوانێت سەرنج بدات، لەگەڵ خاڵێکی سروشتی بۆ وەستان لە ناوەڕاستدا.
+- **کردن باشترە لە سەیرکردن.** شتێک بدە بە دەستی هەر کەسێک بۆ گرتن، دەستلێدان، هەڵبژاردن یان وتن.
+- **چەند ئاست، یەک چالاکی.** ڕێگەی ئاسانتر و قورستر بۆ بەشداربوون تێدا دابنێ.
+- **براوەبوو نییە، نمرە نییە.** شێوازی پێشبڕکێ هەندێک کەس هەست بە شکستخواردن دەکات.
 
-## How big should the group be?
+## قەبارەی گرووپەکە دەبێت چەند بێت؟
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+زۆرجار گرووپی بچووک ئاسانترە. Alzheimer's Association تێبینی دەکات کە کەسێک کە کۆبوونەوەی گەورە بۆی قورس بێت، ڕەنگە لە گرووپێکی بچووکدا باشتر بتوانێت بەشدار بێت. هیچ ژمارەیەکی یەکلاکەرەوەی دروست نییە. بەستراوە بە نیشتەجێبووان، ژوورەکە و ژمارەی ستاف و خۆبەخشانەوە.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+تاقیکردنەوەیەکی بەسوود: ئایا هەر کەسێک دەتوانێت ڕووی سەرکردەی چالاکییەکە ببینێت، بە ڕوونی ببیستێت و لە ماوەی چەند چرکەیەکدا یارمەتیدەرێک بگاتە لای؟ ئەگەر نەخێر، گرووپەکە دابەش بکە، یارمەتیدەر زیاد بکە، یان بڕۆ بۆ ژوورێکی بچووکتر.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+بۆ ڕووداوی گەورە، وەک کۆنسێرتی پشوودان، ستاف و خۆبەخشان لە نێوان نیشتەجێبووان دادەنێن، نەک لە تەنیشت دیوارەکان.
 
-## How should I set up the room and seating?
+## چۆن ژوور و شوێنی دانیشتن ڕێکبخەم؟
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **بازنە یان شێوەی نەعلەسوار.** پێشنیارەکانی پراکتیک بازنەی گفتوگۆ وەک باشترین شێواز باس دەکەن لە شوێنێکدا کە گەورە بێت بۆ ئەوەی هەمووان بتوانن لە بازنەیەکدا دادەنیشن، بەبێ دەنگی پاشبنەما.
+- **سەرکردە نزیک و لە ئاستی چاو.** کاتێک دەتوانیت دادەنیشە لەبری وەستان.
+- **سەرەتا بیستن و بینین.** ئەو کەسانەی کێشەی بیستنیان هەیە نزیکترین شوێن لە سەرکردە دادەنێ، لەو لایەی کە باشتر دەبیستن. دڵنیابەوە چاوێلکە و ئامێری یارمەتیدەری بیستن بەکاردەهێنرێن. Alzheimer's Association تێبینی دەکات کە کێشەی بینین و بیستن دەتوانێت پەیوەندیکردن قورستر بکات.
+- **ڕووناکی لە پشت نیشتەجێبووانەوە بێت، نەک لە پشت تۆ.** خەڵک بەرامبەر پەنجەرەیەکی ڕووناک دادەنێن.
+- **تەلەفزیۆن و ڕادیۆ بکوژێنەرەوە.** Alzheimer's Association ئامۆژگاری دەکات لە کاتی چالاکیی مۆسیقادا دەنگی پێشبڕکێکار لاببرێت.
+- **هەر جارێک یەک گفتوگۆ.** قسەی تێکەڵ لەسەر یەکتر قورسە بۆ ئەو کەسانەی بە دیمێنشیا دەژین و ئەو کەسانەی کێشەی بیستنیان هەیە، وەک Alzheimer's Association لە [ڕێنماییی پشوودانەکانی](https://www.alz.org/help-support/caregiving/holidays)دا ئاماژەی پێدەکات.
+- **دەرچوونی ڕوون و گۆشەیەکی ئارام.** هەر کەسێک بیەوێت دەرچێت دەبێت بتوانێت بە ئاسانی وا بکات، لەگەڵ ئەندامێکی ستاف بۆ هاوڕێییکردنی.
 
-## Group activity ideas
+## بیرۆکەی چالاکیی کۆمەڵایەتی
 
-### Picture bingo
+### بینگۆی وێنە
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+بینگۆی وێنە لەبری ژمارە وێنەی ڕوون بەکاردەهێنێت، وەک قۆریی چایی، سەگ یان گوڵ، بۆ ئەوەی هیچ کەس پێویست نەکات ژمارەیەکی درێژ بەدوادا بچێت یان نووسینی بچووک بخوێنێتەوە.
 
-**How to run it:**
+**چۆن بەڕێوەی ببەیت:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. بۆ هەر کەسێک یەک کارت لە پەڕەی [بینگۆی وێنە](/games/picture-bingo/)مان بە دوگمەی چاپکردن چاپ بکە. کاغەزی ئەستوور ئاسانترە بۆ بەکارهێنان. بۆ بەکارهێنانی دووبارە پلاستیکی بکە.
+2. نیشانەی گەورە و ئاسان بۆ هەڵگرتن دابەش بکە، وەک پارچەی یاری، سەری بوتڵ یان چوارگۆشەی کارتی بڕدراو.
+3. بانگکەری سەر شاشە لەسەر تەلەفزیۆن یان پرۆجێکتەر بەکاربهێنە بۆ ئەوەی هەمووان وێنەکە ببینن کاتێک ناوەکەی دەڵێیت.
+4. دوای هەر وێنەیەک کەمێک ڕاوەستە و بانگهێشتی بۆچوونێکی کورت بکە: «کەس هەیە باس لە سەگێک بکات کە دەیناسی؟» یان «چی لەم وێنەیەدا دەبینیت؟»
+5. بەردەوام بە لە بانگکردن تا کارتی هەمووان پڕ دەبێت. هەمووان تەواو دەکەن.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**گونجاندن:** ژمارەی خانەکان کەم بکەرەوە بۆ ئەو کەسانەی کارتێکی پڕ زۆر قەرەباڵغیان بۆ دەبێت. یارمەتیدەرێک دەتوانێت ئاماژە بە وێنەی هاوشێوە بکات بۆ کەسێک کە پێویستییەتی. هەندێک کەس ڕەنگە حەز بکەن کارتی وێنەی بانگکەر بە دەستەوە بگرن و نیشانی گرووپەکە بدەن.
 
-### Sing-alongs
+### گۆرانیی هاوبەش
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+مۆسیقا یەکێکە لە بەربڵاوترین چالاکییە کۆمەڵایەتییە خۆشەکان. Alzheimer's Association تێبینی دەکات کە تەنانەت لە قۆناغە دواکانیندا، کەسێک ڕەنگە بتوانێت [لەسەر ڕیتم لێبدات یان گۆرانییەک لە مندالییەوە بڵێت](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**چۆن بەڕێوەی ببەیت:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- ئەو گۆرانییانە هەڵبژێرە کە نیشتەجێبووان لەگەڵیان گەورە بوون، نەک ئەو گۆرانییانەی سەرکردە حەزی لێیەتی. لە خێزانەکان بپرسە هەر کەسێک چیی خۆشدەویست.
+- مۆسیقا بەبێ ڕیکلام بەکاربهێنە، کە Alzheimer's Association تێبینی دەکات دەتوانێت سەرلێشێواوکەر بێت.
+- بۆ ئەوانەی دەخوێننەوە وشەکان بە نووسینی گەورە چاپ بکە، بەڵام پێویست مەکە.
+- شەیکەر، دەف یان سکارف بۆ شەپۆڵدان پێشکەش بکە.
+- هانی چەپڵەلێدان و جووڵە بدە، و ئاستی دەنگ ئاسوودە بهێڵەرەوە.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**گونجاندن:** هەندێک کەس هەموو وشەکان دەڵێن، هەندێک بە دەنگی نزم دەخوێنن، هەندێک بە پێیان لێدەدەن، و هەندێک تەنها گوێ دەگرن. هەموو ئەمانە بەشداربوونن. بۆ زانیاری زیاتر سەیری [ڕێبەری چالاکیی مۆسیقا](/activities/music/)مان بکە.
 
-### Reminiscence groups
+### گرووپی بیرەوەری
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+گرووپی بیرەوەری دەوروبەری بابەتێک کۆدەبنەوە، وەک ڕۆژانی قوتابخانە، یەکەم ئۆتۆمبێل، چێشتخانە یان هاوین، بە بەکارهێنانی وێنە، شت و مۆسیقا. ئامانج گفتوگۆی خۆشە، نەک بیرخستنەوەی ورد.
 
-**How to run it:**
+**چۆن بەڕێوەی ببەیت:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. یەک بابەت هەڵبژێرە و چەند شتێک بهێنە کە خەڵک بتوانن بە دەستیان بگرن: مێکسەری دەستی، دەستکێشی بەیسبۆڵ، کڵاو، کاتەلۆگی تۆو.
+2. هەر جارێک یەک شت بگرە دەست. پرسیاری کراوە بکە: «باسی ئەمە بکە»، «چی تێبینی دەکەیت؟» «کێ شتێکی وەک ئەمەی بەکاردەهێنا؟»
+3. بەخێرهاتن بە هەموو وەڵامێک بکە. هەرگیز بەروار یان ڕاستییەک ڕاست مەکەرەوە.
+4. گفتوگۆکە بەرەو بیرەوەریی خۆش. پێشنیارەکانی پراکتیک تێبینی دەکەن کە پێشکەشکارانی چاودێری دەبێت بیرەوەری بەرەو بیرەوەریی ئەرێنی ببەن نەک ئەوانەی کە ڕەنگە ناڕەحەتی دروست بکەن.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[کارتەکانی گفتوگۆ](/games/conversation-cards/) کارتێکی وێنەیی چاپکراو بە داواکاری کراوە بەپێی بابەت پێشکەش دەکات کە بە باشی وەک دەستپێکی گفتوگۆ کار دەکەن. بیرۆکەی زیاتر لە [ڕێبەری بیرەوەری](/activities/reminiscence/)ماندا هەیە.
 
-### Finish the saying
+### تەواوکردنی وتە
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+وتە ئاشناکان («دەست لە گڵاو، باشترە لە...») هەمووان بانگهێشت دەکەن بە یەک دەنگ کۆتاییەکە بڵێن. [تەواوکردنی وتە](/games/finish-the-saying/) لەسەر شاشەی گەورە پیشان بدە و با گرووپەکە وەک یەک دەنگ وەڵام بداتەوە. دوای هەر وتەیەک پرسیارێکی گفتوگۆ هەیە. ئەگەر هیچ کەس کۆتاییەکەی نەوت، پیشانی بدە و بەردەوام بە. هیچ دروست و هەڵەیەک نییە.
 
-### Large-print word search, together
+### گەڕانی وشەی چاپی گەورە، بەیەکەوە
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+[گەڕانی وشە](/games/word-search/)ی چاپی گەورە لەسەر شاشەیەک پیشان بدە و بە گرووپی بەدوای وشەکاندا بگەڕێن، یان بۆ ئەوانەی حەز دەکەن بە تەنیا لەسەر مێز کار بکەن کۆپی چاپ بکە. وشەکان تەنها بە ئاسۆیی و ستوونی دەڕۆن.
 
-### Gentle movement
+### جووڵەی نەرم
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+درێژکردنەوەی دانیشتوو، تێپەڕاندنی تۆپێکی نەرم یان باڵۆن، یان سەماکردن لەسەر کورسی لەگەڵ مۆسیقای ئاشنا. هەر جووڵەیەک پیشان بدە لەبری ئەوەی باس بکەیت.
 
-### Sorting and matching at the table
+### پۆلێنکردن و هاوتاکردن لەسەر مێز
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+مێزی بچووکی سێ بۆ چوار کەس دەتوانن بەیەکەوە وێنە، پارچە قوماش یان چەتاڵ پۆلێن بکەن. لەسەر شاشە، [جووتی وێنە](/games/picture-pairs/) دەتوانرێت بەو جۆرە یاری پێبکرێت کە وێنەکان کراوە بمێننەوە، کاتێک یەک کەس دەست لێدەدات و مێزەکە باس لە هەر وێنەیەک دەکات.
 
-## How do I use your games on a big screen?
+## چۆن یارییەکانی ئێوە لەسەر شاشەی گەورە بەکاربهێنم؟
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+یارییەکانی ئێمە لە وێبگەڕدا کار دەکەن، بۆیە دەتوانیت بەبێ دامەزراندنی هیچ شتێک لەسەر تەلەفزیۆن یان پرۆجێکتەر بەکاریان بهێنیت.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. یارییەکە لەسەر لاپتۆپ یان تابلێتێک بکەرەوە کە بە وایەر یان بە شێوەی بێوایەر بە شاشەکەوە بەستراوەتەوە.
+2. وێبگەڕەکە بکە بە تەواوی شاشە و ئاستی دەنگ بۆ ئاستێکی ئاسوودە ڕێکبخە.
+3. با یەک سەرکردە دەست لێدانەکان بکات لە کاتێکدا گرووپەکە هەڵبژاردەکان بانگ دەکات. یان تابلێتێک بدە بە نیشتەجێبووێک کە دەیەوێت نۆرەی خۆی وەربگرێت.
+4. هەر کاتێک گرووپەکە ئامادە بوو وەستە. یارییەکان هیچ کاتژمێر، نمرە یان کۆتاییی ناچارییان نییە.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[بینگۆی وێنە](/games/picture-bingo/)، [تەواوکردنی وتە](/games/finish-the-saying/)، [جووتی وێنە](/games/picture-pairs/) و [کارتەکانی گفتوگۆ](/games/conversation-cards/) زۆرجار باشترین گونجاون بۆ گرووپ. هەموو هەڵبژاردەکان لە [پەڕەی یارییەکان](/games/)ماندا ببینە.
 
-## How do I adapt one activity for mixed abilities?
+## چۆن یەک چالاکی بۆ توانای جیاواز بگونجێنم؟
 
-Plan at least three ways to join every activity.
+بۆ هەر چالاکییەک لانیکەم سێ ڕێگە بۆ بەشداربوون پلانی بۆ دابنێ.
 
-| Activity | More independent | Some support | Most support |
+| چالاکی | زیاتر بە سەربەخۆیی | بە هەندێک یارمەتی | بە یارمەتیی زۆرتر |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| بینگۆی وێنە | وێنەکانی خۆی دەدۆزێتەوە و دادەپۆشێت | یارمەتیدەر ئاماژە دەکات؛ کەسەکە دادەپۆشێت | کارتێکی وێنە دەگرێت؛ گوێ دەگرێت و سەیر دەکات |
+| گۆرانیی هاوبەش | دەخوێنێت، گۆرانیی داهاتوو هەڵدەبژێرێت | بە دەنگی نزم دەخوێنێت، چەپڵە لێدەدات، شەیکەر بەکاردەهێنێت | گوێ دەگرێت، سکارفێک دەگرێت، دەست لێدەدات |
+| بیرەوەری | چیرۆک دەگێڕێتەوە | بە بەڵێ یان نەخێر وەڵام دەداتەوە یان ئاماژە دەکات | شتەکە دەگرێت و هەستی پێدەکات |
+| گەڕانی وشە | لەسەر کۆپیی چاپکراوی خۆی کار دەکات | لەسەر شاشەی گەورە لەگەڵ یارمەتیدەر وشە دەدۆزێتەوە | گوێ دەگرێت کاتێک وشەکان دەخوێندرێنەوە |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+بۆ نیشتەجێبووانی قۆناغە دواترەکان، NHS تێبینی دەکات کە زۆرجار پێویستە چالاکییەکان سادەتر بن و زیاتر سەرنج بدەنە سەر هەستەکان، وەک مۆسیقا، شتی دەست لێدان و ماساژی دەست. ساتێکی یەک بە یەک لە کاتی گرووپەکەدا یان دوای ئەو ڕەنگە زیاتر لەبار بێت لە خودی گرووپەکە. سەیری [چالاکییەکانی قۆناغی دواتر](/activities/late-stage/) بکە.
 
-## How should leaders talk during a group?
+## سەرکردەکان چۆن قسە بکەن لە کاتی گرووپدا؟
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- هەرجارێک خۆت بناسێنەوە، و ئەو ناوە بەکاربهێنە کە هەر کەس پێی حەز دەکات بانگ بکرێت.
+- بە هێواشی قسە بکە، هەر جارێک یەک هەنگاو بڵێ، و پێش ئەوەی بڵێیت پیشان بدە.
+- بانگهێشتی کراوە بکە («باسی... بکە») یان هەڵبژاردەی سادە، هەرگیز پرسیاری تاقیکردنەوە مەکە («بیرت دێتەوە...؟»).
+- ڕاست مەکەرەوە. سوپاس بۆ هەموو بەشدارییەک بکە.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+زانیاری زیاتر لەم بارەیەوە لە [ئامۆژگارییەکانی پەیوەندیکردن](/caregiving/communication-tips/)ماندا هەیە.
 
-## Ending well, and letting people leave
+## کۆتاییی باش، و ڕێگەدان بە خەڵک بۆ دەرچوون
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+وەستان ئەنجامێکی باشە. سەرنج بدە نیشانەکانی ماندووبوون، بێئارامی یان ناخۆشی، و یارمەتیدەرێک ئامادە بکە بۆ پێشنیارکردنی پیاسەیەک یان شوێنێکی ئارامتر لە شوێنێکی تر. کەسێک لە کاتی گۆرانیی هاوبەشدا خەوی لێکەوێت ڕەنگە تەنها هەستی ئاسوودەیی بکات.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+هەموو گرووپێک بە هەمان شێوە کۆتایی پێبهێنە، بە گۆرانییەکی ئاشنا یان سوپاسێکی سادە، بۆ ئەوەی کۆتاییەکە هەست بە ئارامی و چاوەڕوانکراوی بکات. دوای ئەوە، تێبینییەکی کورت بنووسە دەربارەی ئەوەی چی باش بوو و کێ چێژێکی لێوەرگرت. ئەو تێبینییانە دانیشتنی داهاتوو باشتر دەکەن.

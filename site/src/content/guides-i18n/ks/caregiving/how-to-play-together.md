@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "ڈیمینشیا وٲلِس نَفَرَس سٟتؠ گیم کِتھ کٔنۍ کھیٚلِو"
+seoTitle: "ڈیمینشیا وٲلِس نَفَرَس سٟتؠ گیم کِتھ کٔنۍ کھیٚلِو"
+description: "ڈیمینشیا وٲلِس نَفَرَس سٟتؠ گیم کھیٚلنٕچ عملی رہنمٲیی: تیٲری، رفتار، غلطی درست نَ کرُن، گیم آسان بناوُن، تہٕ رکُن زانُن۔"
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  گیمس أکِس اَکھ اکھٹؠ گزارنُک وقت سمجِھو، آزمٲیش نَہ۔ دۄہس مَنز اَکھ پُرسکون
+  وقت چُنِو، پرٛٲٹھ کمرس مَنز أکِس طرفس کُن بِہِو، تہٕ اَکھ سادٕ گیم پیش کٔرِو۔
+  تِمَن پنٕنۍ رفتار مُقرر کرنٕ دِیِو، بے ضرر غلطیَن ہَرگِز درست مَہ کٔرِو، تکلیفُک
+  گۄڈنِیُک نِشان دِکھنَس پؠٹھ گیم آسان بنٲوِو، تہٕ تصویرو ہُند استعمال کتھہٕ باتھ
+  کرنہٕ خٲطرٕ کٔرِو۔ یوت تام رکِو یوت تام واریاہ باسان آسِہ۔ وقتہٕ برونٹھ رکُن، یا
+  صرف أکِس أکِس سٟتؠ وُچھُن تہِ، اَکھ جان نتیجاہ چھُ۔
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "مقصد چھُ مزٕ تہٕ رشتہٕ، نَہ کہ گیم ختم کرُن یا جواب صحیح دِنؠ۔"
+  - "گۄڈٕ کٔرِو تیٲری: پُرسکون کمرٕ، ٹھیک روشنی، عینک تہٕ کانہِ مَشین لاگو، ٹی وی بند، تہٕ اَکھ گیم تیار۔"
+  - "بے ضرر غلطیَن درست مَہ کٔرِو۔ ؤنِو «یِتھ کٔرِو کوشش» یا بس برونٹھ پٔکِو۔"
+  - "پریشٲنی وۄدھنہٕ برونٹھ گیم آسان بنٲوِو: کم تصویرٕ، کم انتخاب، یا تصویرٕ نَنہِ تھٲوِتھ۔"
+  - "تصویرو ہُند استعمال کتھہٕ باتھن ہُند شروعات بنٲوِو «مے ؤنِو یِتھ مُتعلق...» سٟتؠ، نَہ کہ «تۄہِ چھا یاد؟» سٟتؠ۔"
+  - "تھکاوَٹ یا پریشٲنی ہِندِس گۄڈنِکِس نِشانس پؠٹھ رکِو۔ وقتہٕ برونٹھ رکُن چھُ کامیٲبی، ناکٲمی نَہ۔"
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "أسہِ کۆتِس کالس تام گیم کھیٚلُن پَزِ؟"
+    a: "کانہہ ٹھیک مُدت چھَنہٕ۔ واریاہن نَفَرَن خٲطرٕ چھِ کینژھ منٹ کٲفی، تہٕ کُنہِ دۄہ چھُ اَکھے راؤنڈ واریاہ۔ گھڑی ہَس بجاے تِمَن وُچھِو، تہٕ یوت تام رکِو یوت تام تِم پُرسکون باسان آسَن۔"
+  - q: "کیا مے پَزِ تِمَن جِتاوُن یا غلطیَن نَہ وُچھنِچ ژوٗر کرٕنۍ؟"
+    a: "أکِس أکِس سٟتؠ، کم دباؤ وٲلِس گیمس مَنز چھُنہٕ کانہہ چیز جیتنُک یا ہارنُک۔ اگر غلطی تِمَن پریشان کران چھَنہٕ، تیٚلہِ ترٲوِو یِہ۔ اگر تِم پریشان باسان آسن، تیٚلہِ آرامَس سٟتؠ مدد کٔرِو یا گیم آسان بنٲوِو، مگر یِہ ونان ونان نَہ۔"
+  - q: "اگر تِم صرف مے گیم کھیٚلان وُچھُن یژھن؟"
+    a: "یِہ چھُ ٹھیک۔ National Institute on Aging چھُ مشورٕ دِوان زِ اگر تِم وُچھنس مَنز زیادہ مزٕ تُلان آسن تیٚلہِ تِمَن وُچھنٕ دِیِو۔ یِکینژھاہ تُہؠ وُچھان چھِو تتھ مُتعلق کٔرِو کتھ، تہٕ ییلہِ تِہند دل کرِ تِمَن اشارٕ کرنُک یا چُننُک دعوت دِیِو۔"
+  - q: "کیا یِم گیم یادداشتچ آزمٲیش چھا؟"
+    a: "نَہ۔ سانہِ گیم چھِ مزٕ تہٕ کتھہٕ باتھ خٲطرٕ سادٕ أکؠٹھ گیم۔ یِم چھِنہٕ کانہہ یادداشتچ آزمٲیش، یِم چھِنہٕ کِہِنٕ ماپان، تہٕ ڈیمینشیا خٲطرٕ چھِنہٕ کانہہ علاج۔"
+  - q: "شروعات خٲطرٕ کُس گیم چھُ بہتر؟"
+    a: "تَمہِ سٟتؠ سادٕ ترین گیمس سٟتؠ کٔرِو شروعات یُس تَس نَفَرَس سٟتؠ رلان آسِہ۔ ژور ٹایلَن سٟتؠ Picture Pairs یَتھ مَنز تصویرٕ نَنہِ آسن، یا زٕ انتخابَن سٟتؠ Find the Same، چھِ نرم شروعات۔ اگر سُہ نَفَر ٹیپ کرنہٕ کھوتہٕ زیادہ کتھ باتھ کرُن پسند کران آسِہ تیٚلہِ Conversation Cards چھِ واریاہ ٹھیک۔"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+ڈیمینشیا وٲلِس نَفَرَس سٟتؠ اَکھ جان گیم چھُنہٕ مقابلہٕ ہِیوٚد باسان۔ یِہ چھُ باسان زَن زٕ نَفَر نکھہ نکھہ بِہِتھ، تصویرو کُن اشارٕ کران، کُنہِ مَثَلِس پؠٹھ اَسان، تہٕ یِکینژھاہ دِلن مَنز یِوان چھُ تتھ پؠٹھ کتھ باتھ کران۔ گیم چھُ صرف اکھ بہاناہ أکِس أکِس سٟتؠ وقت گزارنُک۔
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+یَتھ رہنمٲیی مَنز چھُ بیان زِ تیٲری کِتھ کٔنۍ کرٕنۍ، گیمچ رفتار کِتھ کٔنۍ تھٲوٕنۍ، کانہہ چیز «غلط» گژھنہٕ پتہٕ کیا وَنُن، کانہہ تہِ گیم کِتھ کٔنۍ آسان یا تھوڑا ہۄکھ بنٲوُن، یِہ کتھہٕ باتھس مَنز کِتھ کٔنۍ بدلاوُن، تہٕ رکُن کَمِہ وِزِ زانُن۔ یِہ چھُ سانیو [گیمَو](/games/) خٲطرٕ تہِ کارگر تہٕ تِمَن کارڈَن، پَزَلَن تہٕ بورڈ گیمَن خٲطرٕ تہِ یِم تُہندِس نِش چھِ۔
 
-## What is the best way to play a game with someone who has dementia?
+## ڈیمینشیا وٲلِس نَفَرَس سٟتؠ گیم کھیٚلنُک بہترین طریقہٕ کیا چھُ؟
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+مزس پؠٹھ دِیِو توجہ، کامیٲبی پؠٹھ نَہ۔ یۄہے چھُ [Alzheimer's Association ہٕنٛز سرگرمیَن ہٕنز رہنمٲیی](https://www.alz.org/help-support/caregiving/daily-care/activities) ہُند بُنیٲدی مشورٕ: تِمَن ہُنرَن پؠٹھ کٔرِو تعمیر یِم تَس نَفَرَس نِش وۄنۍ تہِ چھِ، شروعاتس مَنز کٔرِو تِہنز مدد، مشکل حِصہٕ کٔرِو پانے، تہٕ بے ضرر سرگرمیَن پؠٹھ مَہ کٔرِو تنقید یا اصلاح۔
 
-In practice that means:
+عملی طور پؠٹھ چھُ اَمِیُک مطلب:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **تِہندِس نکھہ بِہِو، برونٹھ کُن نَہ۔** أکِس طرفس بِہِتھ ہیکان تُہؠ دۄنَوے سکرین یا میز وُچھِتھ، تہٕ مدد چھِ ٹیم وَرک ہِیوٚد باسان، نگرٲنی ہِیوٚد نَہ۔
+- **أکِس وِزِ اَکھ گیم پیش کٔرِو۔** واریاہ انتخاب ہیکَن کِہِنٕ شروع گژھنہٕ برونٹھے آزمٲیش ہِیوٚد بٲسِتھ۔
+- **تِہنز رٲہ پٔکِو۔** اگر تِم پننِس اندازس مَنز تصویرو پؠٹھ ٹیپ کرُن یژھن، أکِس تصویرِ پؠٹھ دٔہ منٹ کتھ کرُن یژھن، یا زٕ موڑن پتہٕ رکُن یژھن، تیٚلہِ چھُ ازُک گیم یۄہے۔
+- **جان لمحَن گٕنزرٲوِو، مکمّل راؤنڈَن نَہ۔** اَکھ اسُن، اَکھ کتھہٕ، یا اَکھ پُرسکون اَدھ گھنٹہٕ چھُ سُہ نتیجاہ یُس تُہؠ ژھانڈان چھِو۔
 
-## How do I set up before we start?
+## شروعات کرنہٕ برونٹھ کِتھ کٔنۍ کرو تیٲری؟
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+کینژھن منٹن ہٕنز تیٲری چھِ تِم واریاہ پریشٲنِی ہٹٲوِتھ یِمَن ہُند الزام اکثر گیمس پؠٹھ یِوان چھُ لگاونہٕ۔
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **دۄہس مُنز تِہُند بہترین وقت چُنِو۔** [National Institute on Aging (NIA) ہٕنز سرگرمی تبدیل کرنٕچ رہنمٲیی](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) چھُ مشورٕ دِوان زِ سرگرمی تَمہِ وقتہٕ خٲطرٕ تھٲوِو ییلہِ سُہ نَفَر سبٕ کھوتہٕ بہتر آسِہ۔ واریاہن نَفَرَن خٲطرٕ چھُ یِہ صُبحس منٛز۔ شامس نکھہ چھُ اکثر زیادہ مشکل آسان؛ وُچھِو [شامس نکھہ پُرسکون سرگرمی](/caregiving/late-day-restlessness/)۔
+2. **کمرٕ تھٲوِو پُرسکون۔** ٹی وی تہٕ ریڈیو کٔرِو بند، تہٕ اگر ہیٚکِو تیٚلہِ کٔرِو دروازٕ بند۔ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) چھُ مشورٕ دِوان زِ کتھ کرنہٕ برونٹھ شور تہٕ توجہ ہٹاون وٲلؠ چیزٕ کم کٔرِو۔
+3. **گۄڈٕ کٔرِو آرامُک خیال۔** نکھہ اَکھ پینُک چیز، برونٹھ باتھ رومُک دورٕ، آرام دہ کُرسی، تہٕ عینک تہٕ کانہِ مَشین لاگو۔
+4. **کمرس مَنز تھٲوِو ٹھیک روشنی۔** روشن، برابر روشنی یَتھ مَنز سکرینس پؠٹھ چمک آسہِ نَہ، چھِ تصویرٕ وُچھنہٕ مَنز آسان بناوان۔
+5. **بِہنہٕ برونٹھ کٔرِو گیم تیار۔** یِہ کھولِو، سیٹنگ چُنِو تہٕ آواز کٔرِو پانے ٹھیک۔ پتہٕ پھِرٲوِو سکرین تِمن کُن۔ ٹیبلیٹ ہٕندؠ مشورٕ خٲطرٕ وُچھِو [ٹیبلیٹ یا فون تیار کرُن](/caregiving/tablets-and-screens/)۔
+6. **ڈیوایس تھٲوِو ٹِکٲوِتھ۔** اَکھ اسٹینڈ یا کیس یُس ٹیبلیٹس سیدٕ تھوان چھُ، امہِ سٟتؠ چھُنہٕ کٲنٛسِہ تھَپھ کرنٕچ ضرورت آسان، تہٕ اشارٕ کرُن چھُ آسان گژھان۔
 
-## How do I invite them without pressure?
+## بٕنہِ دباؤ تِمَن کِتھ کٔنۍ دِمہٕ دعوت؟
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+دعوت تھٲوِو ہلکی تہٕ انکار کرنٕچ آسان۔ کینژھ جملہٕ یِم اکثر ٹھیک باسان چھِ:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «مے مِلہٕ کینژھ باغچہٕ ہٕنزٕ تصویرٕ۔ کیا ژٕ یژھکھ مے سٟتؠ وُچھنِ؟»
+- «کیا ژٕ ہیککھہ مے یَتھ پَزَلس مَنز مدد کٔرِتھ؟ بٕہ چھُس اَٹکِتھ۔»
+- «از کیا ژٕ یژھکھ پھول یا جاناوَر؟» (زٕ انتخاب چھِ کُھلہٕ سوالہٕ کھوتہٕ آسان آسان۔)
+- «بٕہ چھُس چٲنِس بہنِ خٲطرٕ اَکھ کارڈ بناوان۔ یَتھ مَنز کُس رَنٛگ آسِہ ٹھیک؟»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association چھُ مشورٕ دِوان زِ سرگرمی ہُند مقصد سمجھٲوِو، مِثالَن دۆستس خٲطرٕ کارڈ بناوُن، تِکیازِ وجاہ سٟتؠ چھِ یَتھ معنی میلان۔ مدد منگُن چھُ تہِ کارگر تِکیازِ امہِ سٟتؠ چھُ سُہ نَفَر پانہٕ کارآمد محسوس کران۔
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+اگر تِم نہ وَنن، تیٚلہِ مٲنِو یِہ۔ پتہٕ کٔرِو بییہٚ کوشش یا کانہہ مُختلف چیز پیش کٔرِو۔ سانِ رہنمٲیی [ییلہِ تِم نہ وَنن تیٚلہِ کیا کرُن](/caregiving/when-they-say-no/) چھُ یَتھ پؠٹھ مزید وَنان۔
 
-## How long should a game last, and how fast should we go?
+## گیم کۆتِس کالس تام چَلُن پَزِ، تہٕ رفتار کِژھ آسٕنۍ؟
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+رفتار تِمَن مُقرر کرنٕ دِیِو، تہٕ مُختصر وقت خٲطرٕ کٔرِو منصوبہٕ۔ أکِس أکِس سٟتؠ گیم خٲطرٕ چھَنہٕ کانہہ ثبوتَن پؠٹھ مبنی مثٲلی مُدت۔ زٕ تہٕ پانژھ پُرسکون منٹ ہیکَن اَکھ مکمل سرگرمی ٲسِتھ۔
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **قٲدرتی محسوس گژھنہٕ کھوتہٕ زیادہ ٹھٔہرِو۔** NIA چھُ مشورٕ دِوان زِ جواب دِنہٕ خٲطرٕ مزید وقت دِیِو تہٕ مَنز نَہ ژٔٹِو۔ مدد کرنہٕ برونٹھ دِلن مَنز گٕنزرٲوِو دٔہ تام۔
+- **أکِس وِزِ اَکھ قدم۔** اَکھ سادٕ، لۄکُٹ ہدایت دِیِو («أکِس تصویرِ پؠٹھ کٔرِو ٹیپ»)، پتہٕ کٔرِو انتظار۔ سمجھاونہٕ بجاے ہٲوِو: کَتِہ ٹیپ کرُن چھُ تتھ کُن کٔرِو اشارٕ۔
+- **آرامَس سٟتؠ ٹھٔہرِو۔** اگر تِم کُنہِ تصویرِ پؠٹھ کتھ کرنہٕ خٲطرٕ رُکن، گیم ہیکہِ ٹھٔہرِتھ۔ جلدی کرنٕچ ضرورت چھَنہٕ۔
+- **تِمَن وُچھنٕ دِیِو۔** NIA چھُ وَنان زِ کینژھ نَفَر چھِ وُچھُن پسند کران، تہٕ یِہ چھُ اَکھ درست انتخاب۔
 
-## Should I correct wrong answers?
+## کیا غلط جواب درست کرٕنؠ؟
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+نَہ۔ واریاہ لٹہِ نرم پٲٹھۍ کٲنٛسِہ ہُند جواب درست کرُن چھُ تَس یِہ احساس دِوان زِ سُہ چھُ ناکام گژھان، خواہ تُہنز نیت جانٕے آسِہ۔ Alzheimer's Association چھُ مشورٕ دِوان زِ بے ضرر سرگرمیَن پؠٹھ تنقید یا اصلاح مَہ کٔرِو۔ گیمس مَنز چھِ تقریباً سٲری غلطی بے ضرر آسان۔
 
-| Instead of | Try |
+| امہِ بجاے | یِہ کٔرِو کوشش |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «نَہ، یِہ چھُ غلط۔» | «یِتھ کٔرِو کوشش۔» (اَکھ مِثال یُس NIA چھُ دِوان) |
+| «یِم چھِنہٕ ہِوی۔ بییہٚ وُچھِو۔» | کِہِنٕ مَہ وَنِو تہٕ بۍاکھ موڑ نِیِو، یا «اوہ، یِم دۄشوے چھِ وَزُل۔» |
+| «تۄہِ چھا یاد یِہ کُس چھُ؟» | «مے ؤنِو یَتھ تصویرِ مُتعلق۔» |
+| «ژٕ کٔرتھ یِہ گۄڈٕے۔» | «یِہ چھُ واریاہ جان۔ یِہ کٔرِو بییہٚ۔» |
+| «یَلہٕ، ژے چھے یِہ پے۔» | «ژٕ یژھکھہ بٕہ ہاوٕ آخر؟» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+اگر کانہہ غلطی تِمَن صاف پریشان کران چھے، تیٚلہِ کٔرِو آرامَس سٟتؠ مدد۔ صحیح تصویرِ کُن کٔرِو اشارٕ، پانے نِیِو اَکھ موڑ، یا برونٹھِمِس راؤنڈس مَنز بنٲوِو گیم آسان۔ اگر کُنہِ مَثَلِیُک آخر مزٕ دار غلط نیرِ، تیٚلہِ کٔرِو تِمن سٟتؠ اَسُن۔ تِہُند آخر ما آسِہ زیادٕ بہتر۔
 
-## How do I make a game easier or harder?
+## گیم کِتھ کٔنۍ بنٲوو آسان یا ہۄکھ؟
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+گیمس تَس نَفَرَس سٟتؠ مِلاوِو، تَمہِ دۄہس مُطٲبِق، نَہ کہ کُنہِ دَرجہٕ ہٕندِس لیبَلس مُطٲبِق۔ اَکوے نَفَرَس ہیکہِ شامس صُبحس کھوتہٕ زیادہ سادٕ گیمچ ضرورت پؠتھ۔ NIA ہُند گۄڈنِیُک مشورٕ چھُ یِہ زِ سرگرمی تَتھ مُطٲبِق تھٲوِو یِکینژھاہ سُہ نَفَر کرِ ہیکان چھُ، تہٕ یِہ یقینی بنٲوِو زِ تَس گژِھ کامیاب بٲسِن۔
 
-| Game | Make it easier | Make it a little harder |
+| گیم | آسان بنٲوِو | تھوڑا ہۄکھ بنٲوِو |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4 ٹایلو سٟتؠ کٔرِو شروعات تہٕ تصویرٕ تھٲوِو نَنہِ | زیادٕ ٹایل، یا اگر آرام دہ بासِہ تیٚلہِ تصویرٕ کٔرِو ژھور |
+| [Find the Same](/games/find-the-same/) | 2 انتخاب | 4 تام انتخاب |
+| [Sort Together](/games/sort-together/) | تُہؠ تھٲوِو تصویر، تِم کَرَن ٹوکری کُن اشارٕ | تِم کَرَن تصویر تہٕ ٹوکری دۄشوے پؠٹھ پانے ٹیپ |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 ٹُکرٕ، گۄڈٕ کٔرِو پوٗرٕ تصویرِ پؠٹھ کتھ | 9 ٹُکرٕ |
+| [Finish the Saying](/games/finish-the-saying/) | گۄڈٕ ہٲوِو آخر، پتہٕ وَنِو أکِس أکِس سٟتؠ | ٹیپ کرنہٕ برونٹھ وَنن دِیِو تِم آخر |
+| [Word Search](/games/word-search/) | پرِنٹ کٔرِو، أکِس أکِس سٟتؠ ژھانڈِو اَکھ لفظ، تٔمِکِس گۄڈنِکِس اَچھرس کُن کٔرِو اشارٕ | تِم چُنَن برونٹھِم ژھانڈنُک لفظ |
+| [Coloring](/games/coloring/) | تُہؠ چُنِو زٕ رَنٛگ، تِم کَرَن تِمن مَنز انتخاب | تِم چُنَن سٲری رَنٛگ |
+| [Conversation Cards](/games/conversation-cards/) | صرف أکِس أکِس سٟتؠ وُچھِو تصویر | کارڈس پؠٹھ دِنہٕ آمٕتؠ کُھلٕ سوال استعمال کٔرِو |
+| [Photo Pairs](/games/photo-pairs/) | کینژھ پسندیدٕ خاندٲنی تصویرٕ | مزید تصویرٕ رَلٲوِو |
+| [Picture Bingo](/games/picture-bingo/) | پرٛتھ کھیٚلاڑِ سٟتؠ بِہِ اَکھ مددگار | کھیٚلاڑِ کَرَن پننِس کارڈس پؠٹھ پانے نِشان |
+| [Calm Breathing](/games/calm-breathing/) | صرف أکِس أکِس سٟتؠ بِہِتھ وُچھِو | آہستہ آہستہ نِیِو شٲس |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+یِم چھِ نِشان زِ گیم چھُ واریاہ مشکل: زیوٗٹھ ٹھہرُن یُس پریشان باسان چھُ، سوچن ہِیوٚد نَہ؛ واریاہ لٹہِ «بٕہ ہیکہٕ نَہ» وَنُن؛ ڈیوایس دوٗر دَکہٕ دِیُن؛ یا تِژھ غلطی یۄسہٕ تِمَن پریشان کرِ۔ یِم چھِ نِشان زِ گیم ما آسِہ واریاہ آسان: بوریت، یا تِہُند وَنُن زِ یِہ چھُ بچھَن ہُند۔ اگر تِی یِیہِ، تیٚلہِ کٔرِو تِہُند احترام تہٕ بدلٲوِو کُنہِ تِژِھ چیزِ کُن یۄسہٕ بڈَن ہِیوٚد بासِہ، مِثالَن اَکھ لفظ ژھانڈُن، اصلی فوٹو ہُند پَزَل، یا تِہندِس پرٛانِس کامہِ ہٕنزِ تصویرِ پؠٹھ کتھ باتھ۔
 
-## How do I turn a game into a conversation?
+## گیم کتھہٕ باتھس مَنز کِتھ کٔنۍ بدلاوُں؟
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+پرٛتھ تصویر اَکھ دعوت سمجِھو کتھ کرنٕچ، تہٕ یِکینژھاہ تِم وَنن تتھ سمجِھو اَکھ جان جواب۔ واریاہن خاندانَن خٲطرٕ چھُ یۄہے گیم کھیٚلنُک سبٕ کھوتہٕ جان حِصہٕ آسان۔
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **تِتھ کُھلٕ سوال پٕرٛژھِو یِمَن ہُند کانہہ غلط جواب آسہِ نَہ۔** «ژٕ کیا چھُکھ وُچھان؟» «ژے کۄس چھے پسند یِوان؟» «مے ؤنِو یِژِھ کُنہِ کچنس مُتعلق۔»
+- **گۄڈٕ وَنِو پانے۔** «میٲنِس نانِہِ آس اَمِی قٔسمُک اَکھ ہون۔» تُہنز کتھ چھِ تِہندِ خٲطرٕ پنٕنۍ کتھ وَنٕنۍ آسان بناوان۔
+- **کتھہِ ہِندِس رُخس پٔکِو۔** اگر گاڑِ ہٕنز تصویر کُنہِ سَفرٕچ کتھہِ تام نِیہِ، تیٚلہِ چھے سۄے کتھہٕ سرگرمی۔ گیم تھٲوِو رُکٲوِتھ۔
+- **حقیقتچ جانچ مَہ کٔرِو۔** پرٛٲنی یادَن ہٕنزِ کتھہِ باتھہِ مَنز چھُ خوشگوار کتھ باتھ صحیح تفصیلو کھوتہٕ زیادہ اہم آسان۔ اگر کتھہٕ پتِمہِ لٹہِ بدلاوِ، نٔوِ ورژنُک تُلِو مزٕ۔
+- **گیمس مَنز دِنہٕ آمٕتؠ اشارٕ استعمال کٔرِو۔** [Finish the Saying](/games/finish-the-saying/) چھُ پرٛتھ مَثَلِ پتہٕ کتھہٕ باتھ خٲطرٕ اَکھ اشارٕ دِوان، تہٕ [Conversation Cards](/games/conversation-cards/) چھِ اَمی خٲطرٕ بنٲومٕتؠ۔ [Photo Pairs](/games/photo-pairs/) چھُ تُہنزٕ پننہِ خاندٲنی تصویرٕ استعمال کران، یِم اکثر واریاہ جان کتھہٕ پیدا کران چھِ۔
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+مزید خیالٕ چھِ سانیو [یاد تازٕ کرنہٕچہ سرگرمی ہٕنزِ رہنمٲیی](/activities/reminiscence/) تہٕ [کتھ باتھ ہٕندؠ مشورٕ](/caregiving/communication-tips/) مَنز۔
 
-## When should we stop?
+## أسہِ کَمِہ وِزِ گژِھ رکُن؟
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+تھکاوَٹ یا پریشٲنی ہِندِس گۄڈنِکِس نِشانس پؠٹھ رکِو، تہٕ بہتر چھُ زِ تھوڑا برونٹھے رکِو۔ Alzheimer's Association چھُ مشورٕ دِوان زِ ییلہِ توجہ گھٹِ یا پریشٲنی وۄدِ تیٚلہِ سرگرمی رُکٲوِو یا بدلٲوِو۔
 
-Watch for:
+یِمن چیزن پؠٹھ دِیِو توجہ:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- ہُرر دِیُن، جھُکن یا أچھ سکرینہِ نِش دوٗر گژھُن؛
+- بے چین آسُن، وۄتھُن، یا نیرنُک وَنُن؛
+- آہ بٔھرِتھ، لۄکچہٕ جواب دِیُن، یا «بٕہ چھُس نَہ یَتھ مَنز ٹھیک» وَنُن؛
+- اندھا دھند ٹیپ کرُن یا ڈیوایس دوٗر دَکہٕ دِیُن؛
+- أچھَن مَنز آب آسن، چِڑچِڑا پَن، یا مۄڈس مَنز اچانک تبدیلی۔
 
-How to stop well:
+رُکنُک جان طریقہٕ:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **کُنہِ آسان چیزِ پؠٹھ کٔرِو اختتام۔** اَکھ آخری جوڑ یُس تِم بناوِ ہیکَن، یا اَکھ آخری تصویر یَتھ تِم وُچھِتھ ہیکَن۔
+- **یِہ پننِس پانس پؠٹھ تھٲوِو۔** «مے چھے چائے چیٚنٕچ ضرورت۔ یَتِہ رُکوٕ؟» یِہ چھُ امہِ نِش بچاوان زِ تِمَن باسِہ تِمَو کٔر خراب۔
+- **کُنہِ جسمٲنی یا پُرسکون چیزِ کُن گٔژھِو۔** اَکھ لۄکُٹ سیر، کِہِنٕ کھیٚن، کپڑٕ تہِ دِیُن، یا موسیقی۔
+- **کِہِنٕ گرمجوش وَنِو۔** «مے آو یِہ ژے سٟتؠ کٔرِتھ واریاہ پسند۔» «ٹھیک کرنُک» تَعرِیف نَہ، بلکہ أکِس أکِس سٟتؠ گزارنہٕ آمتِس وقتُک مزٕ۔
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+وقتہٕ برونٹھ رکُن، منصوبہٕ بدلٲوُن، یا گیم ترٲوِتھ صرف أکِس أکِس سٟتؠ بِہُن، یِم سٲری چھِ جان نتیجاہ۔
 
-## Can we play in a group or over a video call?
+## کیا أسہِ ہیکو گروپس مَنز یا ویڈیو کالس پؠٹھ کھیٚلِتھ؟
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+آ، تھوڑ سٕتی زیادٕ تیٲری سٟتؠ۔ گروپس مَنز تھٲوِو نَفَر کم، یِمَن مددچ ضرورت آسِہ تِہندِس نکھہ بِہٲوِو مددگار، تہٕ تِیُتھ گیم چُنِو یَتھ مَنز اَکھ واضح أکؠٹھ توجہ آسِہ۔ [Picture Bingo](/games/picture-bingo/) مَنز چھِ پرِنٹ کرنہٕ خٲطرٕ کارڈ تہٕ سکرینس پؠٹھ اعلان کرن وول۔ مزید خٲطرٕ وُچھِو [دیکھ بھال گَھرَن ہٕندؠ گروپ سرگرمی](/activities/care-home-groups/)۔
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+ویڈیو کالس پؠٹھ ہیکہِ کالس پؠٹھ روزن وول نَفَر کُنہِ تصویرِ ہُند بیان کٔرِتھ، ییلہِ زَن کمرس مَنز موجود نَفَر اشارٕ تہٕ ٹیپ کرِ۔ کال تھٲوِو مُختصر تہٕ واقف۔ سانِ رہنمٲیی [فون تہٕ ویڈیو کال](/activities/phone-and-video-calls/) مَنز چھِ مزید مشورٕ۔
 
-## What if a game just isn't working?
+## اگر گیم ٹھیک چلان چھُنے؟
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+کینژھن دۄہَن چھُنہٕ کِہِنٕ ٹھیک جمان، تہٕ یِہ چھُنہٕ تُہنز یا تِہنز خامی ہٕنز عکٲسی۔ گیم تھٲوِو دوٗر، تہٕ دۄہس مَنز بییہٚ کُنہِ وِزِ، بییہٚ کُنہِ گیمس سٟتؠ، یا بٕنہِ گیمَس کوشش کٔرِو۔ واریاہ جان سرگرمی چھِنہٕ سکرینہِ سٟتؠ کُنہِ تہِ قسمہٕ وابستہٕ: موسیقی، تولیہٕ تہِ دِیُن، فوٹو البمس وُچھُن، یا اَکھ لۄکُٹ سیر۔ مزید خٲطرٕ وُچھِو سٲنۍ [سرگرمی ہٕندؠ خیال](/activities/ideas/)۔

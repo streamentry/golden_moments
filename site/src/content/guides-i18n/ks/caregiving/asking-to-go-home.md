@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "ییلہٕ ڈیمینشیا سٟتؠ شخص گَر وُنژھان آسِہ"
+seoTitle: "ڈیمینشیا تہٕ گَر وُنژھن: کیاہ وَنِو"
+description: "ڈیمینشیا سٟتؠ شخص گَرَس اندر آستان آستان گَر کیازِ وُنژھان چھُ، کیاہ وَنُن، کٔہِ آرام دِنہٕ واجِنہِ سرگرمیاں تہٕ حِفاظت۔"
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  ییلہٕ ڈیمینشیا سٟتؠ کانٛہہ شخص واریاہ گَر وُنژھان چھُ، تیٚلہٕ ”گَر“ اکثر اکھ
+  مَحسوٗس، یعنیٚ حِفاظت یا پٔرٛانِس جایِ ہُند اِحساس آسِہ، نہ کہ کانٛہہ عمارت۔
+  تِمَن سٟتؠ بحث مَہ کٔرِو زِ تِم چھِ گَرَس اندر۔ تِہُند مَحسوٗس سمجھِو، تسلیٚ دِیو
+  زِ تِم چھِ محفوظ، گَرِ مُتعلِق پٕرٛژِھو، پتہٕ نرمی سان فوٹو، موسیقی، کینٛہہ کھیٚن،
+  سیر یا کانٛہہ سادٕ کام کٔرِو۔ بھوک، ترٛیش، بیت الخلا یا درد چک کٔرِو۔ اگر یِہ
+  اچانک شروع گَژھِ، تیٚلہٕ تِہِندِس ڈاکٹرَس کال کٔرِو۔
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "”بہٕ چھُس گَر گژھان“ اکثر یِہ مَطلب آسِہ ”بہٕ چھُس نہٕ محفوظ یا پورٕ طرح آرامَس مَنز محسوس کران“، نہ کہ کانٛہہ پَتہٕ۔"
+  - "بحث کرُن یا ثٲبِت کرُن زِ تِم چھِ گَرَس اندر، اکثر پریشٲنی ہُرراوان چھُ۔ تِہِندِس مَحسوٗسَس دِیو جواب۔"
+  - "تِمَن وَنِو زِ پننِس گَرِ مُتعلِق وَنن، پتہٕ فوٹو، موسیقی، کینٛہہ کھیٚن، سیر یا کانٛہہ سادٕ کام پیش کٔرِو۔"
+  - "یِہ چک کٔرِو زِ کینٛہہ ٹھیک کرنہٕ یِوُن چھا: بھوک، ترٛیش، بیت الخلا، درد، واریاہ گرمی یا سیٚٹھ، شور یا تھکاوٹ۔"
+  - "اگر یِہ پرٛتھ دۄہ شامس نکھہ گژھان چھُ، تیٚلہٕ یِہ سَنڈاؤنِنگ آسِہ ہیکِہ؛ اکھ مُستقِل روٗٹین تہٕ اچھی روشنی ہیکِہ مَدَد کٔرِتھ۔"
+  - "اگر تِم نیبر نیرنُک کوٗشِش کَرَن، تیٚلہٕ حِفاظتُک منصوٗبہٕ بناوِو، تہٕ کانٛہہ تِہ اچانک تبدیٖلی گَژھِ تیٚلہٕ ڈاکٹرَس کال کٔرِو۔"
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "میٲنِس ماجی، یِمَن ڈیمینشیا چھُ، تِم کیازِ گَرَس اندر آستان آستان گَر وُنژھان چھِ؟"
+    a: "ڈیمینشیا سٟتؠ ہیکَن مانوس کمرٕ تِہ اجنبی باسان، تہٕ واریاہ لُکھ محسوس کران چھِ زِ تِم چھِ پننہِ زندگی ہٕندِس کُنہِ پٔرٛانِس دَورَس مَنز۔ ”گَر“ ہیکِہ بَچپنُک گَر آسُن یا بس محفوظ تہٕ آرامدہ آسنُک مَحسوٗس۔ تِہِندِس یَتھ مَحسوٗسَس جواب دِیُن اکثر تَمہِ کھۄتہٕ بہتر چھُ زِ تِم کَتِہ چھِ یِہ وَنن۔"
+  - q: "ییلہٕ تِم گَر وُنژھن، بہٕ کیاہ وَنِہ؟"
+    a: "یِہ وَننٕچ کوٗشِش کٔرِو: ”توٚہۍ چھِو یَتھ جایِہ محفوظ، تہٕ بہٕ چھُس تُہندِ سٟتؠ۔“ پتہٕ پٕرٛژِھو: ”مےٚ وَنِو پننِس گَرِ مُتعلِق۔“ غور سان بوزِو، کانٛہہ فوٹو یا گانٛہ ہاوِو، تہٕ کینٛہہ چیٚن یا اکھ لۄکُٹ سیر پیش کٔرِو۔ ”توٚہۍ چھِو گَرَس اندر“ اصلاح کٔرِتھ وَننہٕ نِش بچِو، کیازِ تِمَن ہیکِہ باسان زِ تِمَن چھِ غلط وَننہٕ یِوان۔"
+  - q: "کیاہ یِہ ٹھیک چھا زِ أس وَنو ”أس گَژھو پتہٕ گَر“؟"
+    a: "خاندانہٕ تہٕ ڈیمینشیا سٟتؠ وابستہ تنظیمہٕ چھِ یَتھ مُتعلِق مُختلِف رایِ تھٲوِتھ۔ واریاہ لُکھ چھِ گۄڈنِکِس ایماندار تسلی تہٕ نرمی سان توجہ ہٹاونہٕ پیٹھ زور دِوان، تہٕ نرٕم اَپُز صرف تَمہِ وَقتہٕ تھٲوِوان ییلہٕ پٔز سچ صرف پریشٲنی ہُرراوِہ۔ یِکینژھاہ تِہ تُہۍ چُنِو، مہربان تہٕ یَکساں روٗیہ تھٲوِو، تہٕ تِہِندِس حقیقتِ ہٕندِس مَحسوٗسَس پیٹھ زانہہ مَہ کٔرِو مذاق۔"
+  - q: "اگر تِم گَرٕ نیبر نیرنٕچ کوٗشِش کَرَن تیٚلہٕ کیاہ کَرُن؟"
+    a: "پُرسَکوٗن روٗزِو تہٕ تِمَن رُکاونہٕ بجایِہ تِہِندِ سٟتؠ پَکھہٕ پَکھہٕ پَکِو؛ اکھ لۄکُٹ سیر اکثر یِہ اِچّھا کم کران چھُ۔ برونٹھے حِفاظتی اقدام تھٲوِو، مِثالَن شناختی بریکلیٹ، دَروازَن ہٕند چائم یا گھنٹی، تہٕ حالُک اکھ فوٹو۔ اگر تِم رایِہ گژھن، فوراً تلاش شروع کٔرِو، تہٕ اگر ۱۵ مِنٹنَن اندر نہٕ لبنہٕ یِن، تیٚلہٕ 112 پیٹھ کال کٔرِو تہٕ وَنِو زِ تَس شخصَس ڈیمینشیا چھُ۔"
+  - q: "بہٕ کَر گَژھہ ڈاکٹرَس کال کَرٕنی؟"
+    a: "اگر وُنژھن یا الجھن اچانک شروع گژھِ، یا کینژھن گھنٹن یا دۄہَن اندر واریاہ بڑھِ، خاص کر بُخار، نوِ دوایِ یا پیشابَک انفیکشن ہٕندین نِشانیَن سان، تیٚلہٕ جلدی تِہِندِس ڈاکٹرَس کال کٔرِو۔ اچانک الجھن ہیکِہ ڈیلیریم آسِتھ، یَتھ فوراً مَدَدٕچ ضرورت چھِ۔ اگر کانٛہہ خطرَس مَنز آسِہ، تیٚلہٕ 112 پیٹھ کال کٔرِو۔"
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+”بہٕ چھُس گَر گژھان۔“ واریاہ خاندانہٕ خٲطرٕ چھِ یِم لفظ بوزُن واریاہ مشکل آسان، خاص کر ییلہٕ تِم شخص، یِمن ہُند تُہۍ خیال تھٲوِو، پننِس اَتھ کمرَس مَنز بِہِتھ آسَن۔ یِہ چھُ عام، یِہ ہیکِہ ڈیمینشیا ہٕندِس کُنہِ تِہ دَورَس مَنز گَژھِتھ، تہٕ اَتھ جواب دِنہٕ خٲطرٕ چھِ پُرسَکوٗن تہٕ عملی طریقہٕ موجوٗد۔ یَتھ صفَس پیٹھ چھُ وَننہٕ آمُت زِ یِمن لفظن ہُند اکثر کیاہ مَطلب آسِہ، کیاہ وَنُن، تَمہِ وَقتہٕ مَدَد دِنہٕ واجِنہِ سرگرمیاں، تہٕ حِفاظت کِتھہٕ پٲٹھۍ تھٲوِنۍ۔
 
-## Why does someone with dementia keep asking to go home?
+## ڈیمینشیا سٟتؠ شخص کیازِ چھُ واریاہ گَر وُنژھان؟
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+اکثر چھُ ”گَر“ جایِہ کھۄتہٕ زیادہ اکھ مَحسوٗس۔ Alzheimer's Society چھِ یِہ یِتھہٕ پٲٹھۍ سمجھاوان زِ یِہ چھُ آرام تہٕ حِفاظتُک اِحساس، یا ماضی ہُند گَر، نہ کہ صِرف تَمہِ وَقتُک مکان۔ ڈیمینشیا سٟتؠ ہیکَن مانوس کمرٕ تِہ اجنبی باسان، تہٕ کانٛہہ شخص ہیکِہ محسوس کٔرِتھ زِ سُہ چھُ پننہِ زندگی ہٕندِس کُنہِ پٔرٛانِس دَورَس مَنز، ییلہٕ گَر بَچپنُک گَر اوس یا سُہ جایِ یَتَن تٔمۍ پنٕنۍ بٲچہ ؤڈراوِمٕتۍ ٲسِتھ۔
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+یِم لفظ ہیکَن یِتِہ ظٲہر کٔرِتھ زِ اَتھ وَقتہٕ چھُ کانٛہہ بیاکھ چیز تِہ ٹھیک نہٕ: تِمَن چھِ بھوک لَگان، ترٛیش لَگان، بیت الخلا گژھنُک ضرورت چھُ، درد چھُ، واریاہ گرمی یا سیٚٹھ چھُ، تِم چھِ تھٔکِمٕتۍ، اکیٚلے، کھۄژِمٕتۍ، یا شور سٟتؠ پریشان۔ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) چھِ بےآرامی ہٕندیٚن وَجوہاتَن مَنز درد، شور، اکیلاہ آسن، روٗٹینَس مَنز تبدیٖلی تہٕ دوایِہ شمار کران۔
 
-## What should I say when they ask to go home?
+## ییلہٕ تِم گَر وُنژھن، بہٕ کیاہ وَنِہ؟
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+لفظن ہٕندِس بجایِہ دِیو تِہِندِس مَحسوٗسَس جواب۔ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) چھِ صلاح دِوان زِ تِمَن قٲئِل کرنٕچ کوٗشِش مَہ کٔرِو زِ تِم چھِ غلط؛ تِہُند مَحسوٗس چھُ اصلی، لہٰذا گۄڈٕ دِیو آرام تہٕ تسلی، پتہٕ نرمی سان ہٹٲوِو توجہ۔
 
-Phrases that often help:
+یِم جُملہٕ ہیکَن مَدَد کٔرِتھ:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **مَحسوٗسَس دِیو ناو۔** ”باسان چھُ زِ تُہۍ چھِو گَر یٲد کران۔“
+- **تسلی دِیو۔** ”توٚہۍ چھِو یَتھ جایِہ محفوظ، تہٕ بہٕ چھُس تُہندِ سٟتؠ۔“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) چھِ سادٕ لفظ ”توٚہۍ چھِو یَتھ جایِہ محفوظ“ وَننٕچ صلاح دِوان۔
+- **یادَن خٲطرٕ وَنِو۔** ”مےٚ وَنِو پننِس گَرِ مُتعلِق۔ تُہٕنز کچَن کِتھ کٔنۍ ٲس؟“ پٔرٛانِس وقتُک پٕرٛژھن اکثر اَزُک کھۄتہٕ آسان آسان چھُ۔
+- **اکھ اَتھہٕ چیز پیش کٔرِو۔** ”ؤلو، گۄڈٕ چیٚو اکھ پیالہٕ چاے،“ یا ”کیاہ تُہۍ ہیکِو مےٚ یِمن تولیَن سٟتؠ مَدَد کٔرِتھ؟“
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+نرٕم آواز تہٕ، اگر تِمَن پسند آسِہ، نرمی سان اَتھس پیٹھ اَتھ تھَوُن ہیکِہ لفظن کھۄتہٕ واریاہ وَنِتھ۔
 
-## What should I avoid?
+## کَمہِ چیزو نِش بچُن؟
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **بحث یا وَضاحت۔** ”وۄنۍ چھِو توٚہۍ یَتِہ روزان“ یا ”یِہ چھُ ۴۰ ؤرِیَن پیٹھٕ تُہُند گَر“ وَنُن چھُ تِمَن تِیُتھ چیز مَنناونٕچ کوٗشِش کران یُس ڈیمینشیا سٟتؠ مَنُن مشکل آسِہ ہیکِہ، تہٕ یِہ ہیکِہ تِمَن باسان زِ تِمَن چھِ غلط وَننہٕ یِوان۔
+- **امتحان ہِیو پٕرٛژھن۔** ”کیاہ توٚہۍ چھِو نا یٲد؟“ یا ”پَتہٕ کیاہ چھُ؟“ یِہ چھُ دَباؤ ہُرراوان۔
+- **نارٲزی سان دَروازٕ رُکاوُن۔** اگر تِم نیبر پَکَن، پُرسَکوٗن روٗزِو تہٕ تِہِندِ سٟتؠ پَکھہٕ پَکھہٕ پَکِو۔ اکھ لۄکُٹ سیر اکثر یِہ اِچّھا کم کران چھُ۔
+- **جلدی کرٕنۍ۔** مَوضوٗع بدلاؤنہٕ برونٹھٕ دِیو تِمَن گَرِ مُتعلِق وَننُک وَقت۔
 
-## Activities that can help in the moment
+## تَمہِ وَقتہٕ مَدَد دِنہٕ واجِنہِ سرگرمیاں
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+ییلہٕ تُہۍ تِہُند مَحسوٗس سمجھِو، اکھ پُرسَکوٗن تہٕ مانوس سرگرمی ہیکِہ تِہِندِ مَحسوٗسَس نظرانداز کرنہٕ بغیر توجہ نرمی سان بدلٲوِتھ۔
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **گَرٕکۍ تہٕ خاندانہٕکۍ فوٹو وُچھِو۔** صفہٕ پھِرِو تہٕ تبصِرٕ کٔرِو (”وُچھِو، یِہ باغ کۄسہٕ خوبصوٗرَتھ چھُ“) بجایِہ یَتھ زِ سَوال پٕرٛژِو۔ فون یا ٹیبلٹ پیٹھ چھُ [Photo pairs](/games/photo-pairs/) تُہٕندیو پننیو خاندانی فوٹو ہُند اکھ نرٕم میچنگ کھیل بناوان، تہٕ فوٹو چھِ تُہٕندِس ڈِوایسَس پیٹھے۔
+2. **گَرِ مُتعلِق کٔرِو کَتھ باتھ۔** [Conversation cards](/games/conversation-cards/) چھِ گَرَن، کچَنَن، ہمساین تہٕ تِیوہارن مُتعلِق کُھلہٕ سَوال دِوان، یِمن مَنز کانٛہہ صحیح یا غلط جواب چھُنہٕ۔
+3. **تِہُند پسندیدٕ موسیقی بَجاوِو۔** National Institute on Aging چھِ پُرسَکوٗن موسیقی بےآرامی کم کرنہٕ خٲطرٕ طریقَن مَنز شمار کران۔ سانہِ [موسیقی سرگرمیاں](/activities/music/) وُچھِو۔
+4. **کینٛہہ کھیٚن یا چیٚن دِیو۔** بھوک تہٕ ترٛیش ہیکَن بےآرامی ہِیو باسان۔ اکھ پیالہٕ چاے یا پسندیدٕ چیز چھِ گَرَس مَنز آسنُک اکھ لۄکُٹ اِحساس تِہ۔
+5. **سیر کٔرِو یا نیبر بِہِو۔** حرکت تہٕ دۄہ ہُند گاش چھُ مَدَدگار، خاص کر دۄہَس منز برونٹھ۔
+6. **کانٛہہ مانوس کام دِیو۔** کپڑٕ وُٹِتھ تھَوُن، چمچہٕ الگ کرٕنۍ یا پۄدَن آب دِیُن ہیکِہ گَر چلاونُک مَحسوٗس واپس اَنِتھ۔
+7. **پرٛتھ کانٛہہ چیز کٔرِو آہستہ۔** ٹی وی بند کٔرِو، شور تہٕ تیز روشنی کم کٔرِو، تہٕ اَکھ اَتھہٕ اَتھہٕ [آرام دِنہٕ واجِنہِ سانس](/games/calm-breathing/) ہِیو وقفہٕ کٔرِو۔
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+اگر اکھ ترکیب کارگر ثابت نہٕ گژھِ، پتہٕ بیٚیہِ کٔرِو کوٗشِش۔ اکھ أکِس سٟتؠ خاموشی سان بِہُن تِہ چھُ اکھ رُت نتیجہٕ۔
 
-## Check for a cause you can fix
+## کانٛہہ تِیُتھ وجہ چک کٔرِو یۄس تُہۍ ٹھیک کٔرِتھ ہیکِو
 
-| Check | What to try |
+| کیاہ چک کَرُن | کیاہ کٔرِو |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| بھوک یا ترٛیش | کینٛہہ چیٚن تہٕ لۄکُٹ کھیٚن دِیو |
+| بیت الخلا گژھنُک ضرورت | نرمی سان تہٕ بغیر شور بیت الخلا گژھنٕچ پیشکش کٔرِو |
+| درد یا تکلیف | تکلیف ہٕنزٕ نِشٲنی وُچھِو، مِثالَن مونہٕ وُٹُن، کُنہِ حِصَس تھَپھ دِیُن یا قبض، تہٕ ڈاکٹرَس وَنِو |
+| واریاہ گرمی یا سیٚٹھ | اکھ تہہٕ کم یا زیادہ کٔرِو یا کمرُک درجہ حرارت بدلٲوِو |
+| شور یا بھیڑ | کُنہِ خاموش کمرَس مَنز گٔژِھو، ٹی وی بند کٔرِو |
+| تھکاوٹ یا واریاہ ہنگامہٕ | آرام دِیو، کمرُک گاش کم کٔرِو، ہلکہٕ موسیقی بَجاوِو |
+| دۄہَس شامس نکھہ | بۄنہٕ کَنِہ دِنہٕ آمتِس سَنڈاؤنِنگ حصَس کُن نظر کٔرِو |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society چھِ صلاح دِوان زِ اکھ لۄکُٹ نوٹ تھٲوِو زِ تِم کَر چھِ واریاہ وُنژھان، مِثالَن کھیٚنہٕ برونٹھٕ، مُلاقاتیَن پتہٕ، یا شامَس گاش گژھنہٕ وَقتہٕ۔ یِمہٕ نمونہٕ چھِ برونٹھے منصوبہٕ بناونَس مَنز مَدَد کران۔
 
-## Is it okay to tell a white lie?
+## کیاہ اکھ لۄکُٹ اَپُز وَنُن ٹھیک چھا؟
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+یِہ چھُ اکھ اصلی سَوال، تہٕ مہربان خاندانہٕ چھِ مُختلِف نتیجن پیٹھ واتان۔ Alzheimer's Society چھِ وَنان زِ اَتھ خٲطرٕ کانٛہہ اَکھ جواب چھُنہٕ: اَپز ہیکِہ کینژھن لُکھن مزید شَک کرنہٕ خٲطرٕ مجبور کٔرِتھ، لہٰذا یِہ سوچِو زِ تَس شخصَس خٲطرٕ کیاہ چھُ بہتر، تہٕ یَکساں روٗیہ تھٲوِو۔ Penn Memory Center ہٕندِس شریک ڈائریکٹرُک خیال چھُ زِ سچ وَنُن گژھِہ گۄڈنِچ چیز آسٕنۍ، تہٕ نرٕم اَپُز صرف تَمہِ وَقتہٕ ٹھیک چھُ ییلہٕ سُہ شخص اکھ خاص سچ سمجِھ نہٕ ہیکِہ، تہٕ تِہِندِس حقیقتِ ہٕندِس مَحسوٗسَس پیٹھ زانہہ مَہ کٔرِو مذاق۔
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+واریاہ خاندانہٕ چھِ اکھ درمیانہٕ وَتہٕ لبان: گۄڈٕ ایماندار تسلی تہٕ توجہ ہٹاون، (”أز راتس روزَو أس یَتِہ، تہٕ بہٕ چھُس یَتِہ تُہندِ سٟتؠ“) بغیر یَتھ پیٹھ بحث کٔرِتھ زِ گَر کتِہ چھُ۔
 
-## What if it happens every afternoon or evening?
+## اگر یِہ پرٛتھ دوپہر یا شامس گژھان چھُ تیٚلہٕ کیاہ؟
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+دۄہَس شامس نکھہ شروع گژھنہٕ واجِنۍ یا بڑھَنہٕ واجِنۍ بےآرامی یِوان اکثر سَنڈاؤنِنگ وَننہٕ۔ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) چھِ اکھ مُستقِل روٗٹین، پرٛتھ دۄہ آفتاب تہٕ سرگرمی، دوپہرَس پتہٕ کم نیندر، تہٕ دۄہَس شامس نکھہ کیفین یا شراب نہٕ ہیٚنٕچ صلاح دِوان۔ شامس گاش گژھنہٕ برونٹھٕ لایٹہٕ گاش کرٕنۍ ہیکِہ تِہ مَدَد کٔرِتھ۔ سانہِ [شامس نکھہ آرام دِنہٕ واجِنہِ سرگرمیہٕ](/caregiving/late-day-restlessness/) مَنز چھِ مزید مشورٕ۔
 
-## Keeping them safe if they try to leave
+## اگر تِم نیبر نیرنٕچ کوٗشِش کَرَن تیٚلہٕ حِفاظت
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+گَر وُنژھن ہیکِہ اِتھ پھیرِتھ نیرنس تام واتناوِتھ۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ہُند اَندازٕ چھُ زِ ڈیمینشیا سٟتؠ آسَن والیو لُکھو مَنز چھِ سَتھ مَنزٕ شے اَتھہٕ پتہٕ تِہ کم از کم اَکہِ لَٹہِ اِتھ پھیرِتھ نیران۔
 
-**Prepare ahead:**
+**برونٹھے تیار کٔرِو:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- اکھ شناختی یا طبی بریکلیٹ یَتھ پیٹھ تِہُند ناو تہٕ تُہُند فون نمبر آسِہ، تہٕ تِہِندین کپڑَن مَنز لیبل۔ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) چھِ MedicAlert تہٕ Alzheimer's Association Safe and Found پروگرامُک ذِکر کران، یَتھ پیٹھ خرچ آسِہ ہیکِہ۔
+- دَروازٕ خٲطرٕ چائم یا الارم، تہٕ تالہٕ یِم ہیرِ کنِہ یا بۄنہٕ کنِہ آسَن۔ شخصَس زانہہ اکیٚلے اندر بند مَہ کٔرِو۔
+- حالُک اکھ نکھہ فوٹو، تہٕ تِمن جایَن ہٕنز فہرست یَتَن تِم گژھِتھ ہیکَن، مِثالَن پرون گَر یا کٲم کرنہٕچ جایِ۔
+- اعتبارِ والین ہمساین وَنِو، تہٕ تِمَن دِیو پنُن نمبر۔
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**اگر تِم رایِہ گژھن:** فوراً تلاش شروع کٔرِو؛ Alzheimer's Association چھِ وَنان زِ واریاہ لُکھ چھِ تقریباً ڈیڑھ میل ہٕندِس فاصلس اندر لبنہٕ یِوان۔ اگر تُہۍ ۱۵ مِنٹنَن اندر تِم نہٕ لٔبِو، تیٚلہٕ 112 پیٹھ کال کٔرِو تہٕ وَنِو زِ تَس شخصَس ڈیمینشیا چھُ۔ اگر کانٛہہ خطرَس مَنز آسِہ، فوراً 112 پیٹھ کال کٔرِو۔
 
-## When should I call a doctor?
+## بہٕ کَر گَژھہ ڈاکٹرَس کال کَرٕنی؟
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+اگر وُنژھن یا الجھن اچانک شروع گژھِ، یا کینژھن گھنٹن یا دۄہَن اندر واریاہ بڑھِ، تیٚلہٕ جلدی تِہِندِس ڈاکٹرَس کال کٔرِو۔ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) چھِ وَنان زِ اچانک یا تیزی سان بدلَنہٕ واجِنہِ رَویِہ، خاص کر انفیکشن یا دوایِ بدلَنہٕ پتہٕ، فوراً چک کرنہٕ یِنۍ گژھن۔ اچانک الجھن ہیکِہ ڈیلیریم آسِتھ، یَتھ مُتعلِق [NHS](https://www.nhs.uk/symptoms/confusion/) چھِ وَنان زِ فوراً مَدَدٕچ ضرورت چھِ؛ بُڈِن لُکھن مَنز چھِ پیشابَک انفیکشن اکھ عام وجہ۔
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+اگلی مُلاقاتس پیٹھ اکھ مُستقِل نمونہٕ وَنُن تِہ چھُ مَدَدگار، کیازِ درد، اُدٲسی، نیندرٕک مسائل یا دواین ہٕند اثرات تِہ ہیکَن اَتھ مَنز حِصہٕ نِتھ۔

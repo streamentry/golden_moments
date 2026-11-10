@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "وقفہ وقفہ روزہ تہٕ ڈیمینشیا: تحقیق کیاہ چھِ ونان"
+seoTitle: "وقفہ وقفہ روزہ تہٕ ڈیمینشیا: تحقیق کیاہ چھِ ونان"
+description: "وقفہ وقفہ روزس مُتعلِق اِنسانن پیٹھ تحقیق کم چھِ۔ بُجرن خٲطرٕ خطرات تہٕ ڈیمینشیا مَنز سیٚٹھا کھیٚن چیُن کیوٚت اہم چھُ، زٲنیو۔"
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  یِہ چھُ نہ کانٛہہ ٹھوس ثبوت زِ وقفہ وقفہ روزہ ڈیمینشیا نِش بچاوِ یا اَمِچ
+  رَفتار کرِ کم۔ واریاہ تحقیق چھِ جانورن پیٹھ کرنہٕ آمٕژ، تہٕ بُجرن پیٹھ یِم
+  اِنسانی مُطٲلِق چھِ تِم چھِ لۄکچار تہٕ کم کٲلی ہٕند۔ روزہ ہیٚکہِ بُجرن خٲطرٕ
+  خطرناک ٲسِتھ: وزن تہٕ مَنزولَن ہُنٛد کٔمی، کینٛہہ ذیابیطس دوان سٟتؠ خۄن مَنز
+  شوگر ہُنٛد کم گژھُن، پانی ہُنٛد کٔمی تہٕ پیٚنہِ سٟتؠ گرُن۔ ڈیمینشیا سٟتؠ
+  زندٕگی گزاران وٲلین خٲطرٕ چھُ عام طور سیٚٹھا کھیٚن چیُن ہِیوٚند فکر زیادٕ اہم۔
+  کانٛہہ تبدیلی کرنہٕ برونٛہہ کٔرِو ڈاکٹر سٟتؠ کتھ باتھ۔
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging چھُ ونان زِ کانٛہہ تِہ روزہ یا کیلوری کم کرنٕچ خوراک تجویز کرنہٕ خٲطرٕ چھُ نہ واریاہ ثبوت، خاص طور بُجرن خٲطرٕ۔"
+  - "روزس تہٕ بُجرنَس مُتعلِق واریاہ تحقیق چھِ جانورن پیٹھ بُنیاد تھٲوِتھ، تہٕ تِمن ہٕند نٔتیجہ چھِنہٕ ضروری زِ لوٗکن پیٹھ تِہ لٲگُو گژھن۔"
+  - "بُجرن خٲطرٕ ممکنہ خطراتن مَنز چھِ غیر ارادی وزن کٔمی، مَنزولَن ہُنٛد کٔمی، کینٛہہ ذیابیطس دوان سٟتؠ خۄن مَنز شوگر ہُنٛد کم گژھُن، پانی ہُنٛد کٔمی، چکر یِنؠ تہٕ پیٚنہِ سٟتؠ گرُن۔"
+  - "ڈیمینشیا سٟتؠ زندٕگی گزاران وٲلؠ لوٗکھ چھِ اکثر کھیٚن چیُن مٔشراوان، یا تِمن چھُ باسان زِ تِمَو چھُ گۄڈے کھیووٚمُت۔ تِمن سیٚٹھا کھیٚن چیُنَس مَنز مدد کرٕنۍ چھِ عام طور کٔہِ وِزِ کھیٚنہٕ کھوتہٕ واریاہ زیادٕ اہم۔"
+  - "ڈیمینشیا سٟتؠ زندٕگی گزاران وٲلِس کٔرِو نہ روزہ کرنٕچ ہدایت۔ کھیٚن چیٚنچ عادت بدلاؤنہٕ برونٛہہ کٔرِو ڈاکٹر یا رجسٹرڈ ڈایٹیشین سٟتؠ کتھ باتھ۔"
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "کیاہ وقفہ وقفہ روزہ چھا الزائمر نِش بچاوان؟"
+    a: "یِہ چھُ نہ کانٛہہ ٹھوس ثبوت زِ تِی چھُ گژھان۔ واریاہ تحقیق چھِ جانورن پیٹھ کرنہٕ آمٕژ، تہٕ اِنسانی آزمٲیشہ چھِ عام طور کم کٲلی ہٕنز، نوجوٲن یا زیادٕ وزن وٲلین پیٹھ، تہٕ وزن کم کرنس پیٹھ مرکوز ٲسؠ۔ National Institute on Aging چھُ ونان زِ عام لوٗکن خٲطرٕ روزٕچ خوراک تجویز کرنہٕ خٲطرٕ چھُ نہ واریاہ ثبوت۔"
+  - q: "کیاہ بُجرن خٲطرٕ چھا وقفہ وقفہ روزہ محفوظ؟"
+    a: "بنان چھُ نہ محفوظ ٲسِتھ۔ روزہ ہیکہِ غیر ارادی وزن تہٕ مَنزولَن ہُنٛد کٔمی، پانی ہُنٛد کٔمی، چکر یِنؠ تہٕ پیٚنہِ سٟتؠ گرُن کٔرِتھ، تہٕ انسولین یا کینٛہہ باقی ذیابیطس دوان استعمال کرن وٲلین مَنز خۄنچ شوگر خطرناک حدس تام کم کٔرِتھ۔ Mayo Clinic چھُ ونان زِ یِہ ما ٲسِ نہ مُناسب تِمن لوٗکن خٲطرٕ یِمن ہڈین ہٕنز کٔمی تہٕ گرنُک زیادٕ خطرہ چھُ۔ آزماؤنہٕ برونٛہہ کٔرِو ڈاکٹر سٟتؠ کتھ باتھ۔"
+  - q: "کیاہ ڈیمینشیا سٟتؠ زندٕگی گزارن وٲلِس پٔزِ روزہ کرُن آزماؤن؟"
+    a: "نہ۔ ڈیمینشیا سٟتؠ زندٕگی گزاران وٲلین چھِ اکثر سیٚٹھا کھیٚن چیٚنس مَنز دِقت پیش یِوان، تہٕ کم خوراک ہیکہِ رویٲیی علامات بڑھٲوِتھ تہٕ وزن کٔم کٔرِتھ۔ روزہ چھُ بغیر ثٲبِت فٲیدٕ خطرہ بڑھاوان۔ اَمِہ بدلہٕ کٔرِو باقاعدہ کھیٚن، تِہند پسندیدٕ ہلکہٕ کھیٚن، تہٕ سیٚٹھا چیٚنُک بندوبست۔"
+  - q: "کیاہ چھِ تِم نِشٲنؠ یِم ونان چھِ زِ ڈیمینشیا سٟتؠ زندٕگی گزارن وول چھُ نہ سیٚٹھا کھیوان چیوان؟"
+    a: "وزن کٔمی، کپڑَن ہُنٛد ڈھیٚل گژھُن، تھکاوٹ، کمزوری، قبض، یا کھیٚنَس انکار کرُن—یِمن پیٹھ تھٲوِو نظر۔ National Institute on Aging ہٕند مطابق پانی ہٕنز کٔمی ہٕند نِشٲنَن مَنز چھِ خشُک اَس، چکر یِنؠ، تیز دِلچ رفتار تہٕ hallucinations۔ اگر تُہؠ یِم نِشٲنؠ نظر یِن، تیٚلہِ ؤنِو تِہندِس ڈاکٹرَس۔"
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+وقفہ وقفہ روزہ، مِسلَن صرف أٹھن گھنٹن ہٕندِس وقتس مَنز کھیٚن یا ہَفتس مَنز دۄہن دۄہن کیلوری واریاہ کم کرٕنۍ، چھُ اَزکل واریاہ ژھانڈان یِوان، تہٕ کینٛہہ مضمون چھِ اشارہ کران زِ یِہ ہیٚکہِ دِماغ بچاونَس مَنز مدد کٔرِتھ۔ اگر تُہؠ بُجرٕ چھِو یا تُہؠ چھِو ڈیمینشیا سٟتؠ زندٕگی گزاران کٲنٛسہِ ہُنٛد خیال تھاوان، تیٚلہِ وُچھِو زِ تحقیق کیاہ چھِ واقعی ونان، تہٕ احتیاط کیازِ چھِ ضروری۔
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+یِہ چھِ عام معلومات، طبی مشورہ نہ۔ روزہ شروع کرنہٕ برونٛہہ، یا تُہؠ یِمِچ سنبھال چھِو کران تِہُنٛد کھیٚن چیُن بدلاؤنہٕ برونٛہہ، کٔرِو ڈاکٹر یا رجسٹرڈ ڈایٹیشین سٟتؠ کتھ باتھ۔ سٲنۍ [طبی اعلانِ لاتعلقی](/medical-disclaimer/) وُچھِو۔
 
-## Does intermittent fasting prevent dementia?
+## کیاہ وقفہ وقفہ روزہ چھا ڈیمینشیا نِش بچاوان؟
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+یِہ چھُ نہ کانٛہہ ٹھوس ثبوت زِ وقفہ وقفہ روزہ ڈیمینشیا نِش بچاوِ یا اَمِچ رَفتار کرِ کم۔ National Institute on Aging (NIA) چھُ ونان زِ کانٛہہ تِہ قسمچ کیلوری کم کرنٕچ یا روزٕچ خوراک تجویز کرنہٕ خٲطرٕ چھُ نہ واریاہ ثبوت، تہٕ اَمِچ اثرٕ پزیری تہٕ حفاظت، خاص طور بُجرن مَنز، سمجھنہٕ خٲطرٕ چھُ وٕنۍ واریاہ ہیٚچھُن باقی ([کیلوری کمی تہٕ روزس پیٹھ NIA](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know))۔
 
-### Why the evidence is so limited
+### ثبوت کیازِ چھِ یُت کم؟
 
-The NIA gives several reasons:
+NIA چھُ کینٛہہ وجہ ونان:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **واریاہ تحقیق چھِ جانورن پیٹھ۔** کیمن، مَچھن، چوٗنٹن تہٕ بندرن پیٹھ تحقیق مَنز آے دلچسپ نٔتیجہ، مگر یِم نٔتیجہ چھِنہٕ ضروری زِ لوٗکن پیٹھ تِہ لٲگُو گژھن۔ جانورن مَنز تِہ چھِ نٔتیجہ مِلتِ؛ کینٛہن چوٗنٹن ہٕندن نسلن مَنز کٔر کیلوری کمی زندٕگی کم۔
+- **اِنسانی آزمٲیشہ چھِ کم کٲلی ہٕنز ٲسؠمٕژ۔** واریاہ گٔے صرف کینٛہن ہَفتن یا رؠتن تام۔
+- **واریاہ اِنسانی آزمٲیشن ہُنٛد دھیان اوس وزن کم کرنس پیٹھ،** زیادٕ وزن وٲلین مَنز، یادداشت یا ڈیمینشیا پیٹھ نہ۔
+- **بُجرٕ چھِ کم شٲمِل کرنہٕ یِوان۔** واریاہ آزمٲیشن مَنز ٲسؠ 60 ؤرِین یا اَمہِ کھوتہٕ کم وٲنٛسہِ وٲلؠ لوٗکھ شٲمِل۔
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026ء کِس أکِس منظم جائزس وُچھ خاص طور 60 ؤرِین یا اَمہِ کھوتہٕ زیادٕ وٲنٛسہِ وٲلین مَنز وقفہ وقفہ روزہ۔ اَمِہ کڈ نٔتیجہ زِ یَتھ عمرس مَنز چھِ ثبوت وٕنۍ تِہ کم، لۄکچار مُطٲلِق، کم مُدت پیٹھ نظر، تہٕ مِلتِ ڈیزاین۔ سۄچن تہٕ یادداشتس مُتعلِق نٔتیجہ آے الگ الگ مُطٲلِقن پیٹھہٕ، نہ زِ واریاہ آزمٲیشن ہٕندَن مِلٲوِتھ نٔتیجن پیٹھہٕ۔ جائزس مَنز آو یِہ تِہ نوٹ کرنہٕ زِ کینٛہن مُطٲلِقن مَنز ٲس واریاہ لۄکُٹ کھیٚنُک وقت یا زیادٕ لمب روزہ بُرؠ نٔتیجن سٟتؠ جٔڈِتھ، تہٕ لیکھکن کٔر بُجرن خٲطرٕ احتیاطچ سفارش ([Nutrients مَنز 2026ء اُک جائزہ](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/))۔
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+کینٛہہ محقق چھِ سۄنچان زِ روزس دوران جسمُک چربی جَلاونس کُن بدلُن ہیٚکہِ دِماغس پیٹھ اثر تراوِتھ، مگر یِہ چھُ وٕنۍ تِہ صرف أک نظریہ یَتھ پیٹھ تحقیق چلن چھِ۔ NIA چھُ ونان زِ سائنسی صورت حال چھِ غیر یقینی۔
 
-## What are the risks of fasting for older adults?
+## بُجرن خٲطرٕ روزٕک کیاہ چھِ خطرات؟
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+واریاہ بُجرن خٲطرٕ چھُ نہ روزہ کانٛہہ بے خطر آزمٲیشہ۔ ممکنہ خطراتن مَنز چھِ:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **غیر ارادی وزن کٔمی۔** جسمس ضرورت کھوتہٕ کم کھیٚن ہیکہِ وزن تہٕ مَنزولَن ہٕنز طاقت کٔم کٔرِتھ، یِمہِ سٟتؠ اَکھاہ ہیکہِ زیادٕ کمزور گژھِتھ۔
+- **مَنزولَن تہٕ ہڈین ہٕنز کٔمی۔** NIA ہٕند تعاون سٟتؠ نوجوٲن تہٕ درمیانی عمر وٲلین مَنز دۄن ؤرِین تام کیلوری کمی پیٹھ یِم آزمٲیشہ کرنہٕ آیہِ، تَتھ مَنز وُچھ شرکاء ہٕندِس ہڈین ہٕندِس کثافتس تہٕ lean body mass مَنز ہلکہٕ کٔمی۔
+- **ذیابیطس دوان سٟتؠ خۄن مَنز شوگر ہُنٛد کم گژھُن۔** یِم لوٗکھ انسولین یا کینٛہہ باقی ذیابیطس دوان چھِ ہیوان، تِہند خۄنچ شوگر ہیکہِ واریاہ کم گژھِتھ اگر تِم کھیٚن ترٲوِن یا دیر کرن، یِتھہٕ پٲٹھؠ [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) چھُ ونان۔ کم شوگر ہیکہِ چکر، پریشٲنی تہٕ چڑچڑا ہٹ بناوِتھ۔
+- **پانی ہُنٛد کٔمی۔** اگر کھیٚنہِ سٟتؠ سٟتؠ چیٚن تِہ ترٲوِو، تیٚلہِ ہیٚکہِ اَکھس جسمس مَنز پانی کم گژھِتھ۔
+- **چکر یِنؠ تہٕ پیٚنہِ سٟتؠ گرُن۔** Mayo Clinic چھُ ونان زِ وقفہ وقفہ روزہ ہیکہِ لوٗکھ واریاہ تھٔکِتھ تہٕ چکران محسوس کٔرِتھ، تہٕ یِہ ما ٲسِ نہ صحت مند طرزِ زندگی تِمن لوٗکن خٲطرٕ یِمن ہڈین ہٕنز کٔمی تہٕ گرنُک زیادٕ خطرہ چھُ ([وقفہ وقفہ روزس پیٹھ Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303))۔
+- **باقی اثرات۔** Mayo Clinic چھُ سِر درد، موڈ بدلُن تہٕ قبض تِہ ونان، تہٕ یِہ تِہ زِ کینٛہہ ثبوت چھِ اشارہ کران زِ 16 گھنٹن ہُنٛد روزہ تہٕ 8 گھنٹن ہُنٛد کھیٚنُک وقت ہیٚکہِ باقی کھیٚنٕکین وقتن ہٕند مقابلہ دِلچ بیمارِ ہُنٛد خطرہ بڑھٲوِتھ۔ یِہ ثبوت چھُ وٕنۍ تِہ مکمل طٔریٖقہٕ طے نہ۔
 
-## Why is eating enough the bigger concern with dementia?
+## ڈیمینشیا مَنز کیازِ چھُ سیٚٹھا کھیٚن چیُن بڈ فکر؟
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+ڈیمینشیا سٟتؠ زندٕگی گزاران وٲلین خٲطرٕ چھُ عام طور مسئلہ **سیٚٹھا** کھیٚن چیُن میلن، واریاہ زیادٕ نہ۔ Alzheimer's Association چھِ واضح کران زِ درمیانی تہٕ أخری مرحلن مَنز ہیکن لوٗکھ کھیٚنٕکین اختیارن سٟتؠ پریشان گژھِتھ، کھیٚن مٔشراوِتھ، یا سۄنچِتھ زِ تِمَو چھُ گۄڈے کھیووٚمُت۔ تِم چھِ یِہ تِہ ونان زِ کم خوراک ہیکہِ رویٲیی علامات بڑھٲوِتھ تہٕ وزن کٔم کٔرِتھ ([کھؠنس چیٚنس پیٹھ Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/food-eating))۔
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society چھِ ونان زِ سیٚٹھا نہ کھیٚن ہیکہِ وزن کٔم کٔرِتھ، مَنزولَن ہٕنز طاقت گٔھٹٲوِتھ، تھکاوٹ تہٕ کمزوری اَنِتھ، یِمہِ سٟتؠ اَکھاہ ہیکہِ زیادٕ کمزور گژھِتھ تہٕ انفیکشنن نِش سَمبھلنَس مَنز کمزور ([بھۄکَس پیٹھ Alzheimer's Society](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia))۔
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**یِمن وجوہاتن کِنؠ چھُ نہ روزہ ڈیمینشیا سٟتؠ زندٕگی گزاران وٲلِس خٲطرٕ ٹھیک۔** ترٲوِمٕژ کھیٚن ہیکہِ آسانی سان ہمیشہ خٲطرٕ ترٲوِمٕژ کھیٚن بَنِتھ۔ ڈیمینشیا سٟتؠ زندٕگی گزاران وٲلِس ہٕندِس کھیٚنس چیٚنس مَنز کانٛہہ تِہ تبدیلی گژِھ تِہندِس ڈاکٹر سٕنز یا رجسٹرڈ ڈایٹیشین سٕنز رہنمٲیی سٟتؠ گژھٕنۍ۔
 
-## What are the warning signs of poor eating or drinking?
+## کم کھیٚنس یا کم چیٚنس ہٕند کیاہ چھِ انتباہی نِشٲنؠ؟
 
-Watch for:
+یِمن پیٹھ تھٲوِو نظر:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **وزن کٔمی،** یا کپڑَن ہُنٛد ڈھیٚل گژھُن۔
+- **کھیٚن ترٲوُن یا کھیٚنَس انکار کرُن،** یا کھیٚن اَسہِ مَنز تھٲوِتھ روزُن۔
+- **تھکاوٹ یا کمزوری۔**
+- **قبض،** یُس خوراک تہٕ پانی ہٕنز کٔمی سٟتؠ جٔڈِتھ آسہِ ہیکہِ۔
+- **پانی ہٕنز کٔمی ہٕند نِشٲنؠ۔** NIA چھُ خشُک اَس، چکر یِنؠ، تیز دِلچ رفتار، تہٕ hallucinations ونان، یِم ڈیمینشیا کِنؠ تِہ آسہِ ہیکن ([عام طبی مسئلن پیٹھ NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers))۔
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+کم بھۄکٕک آسہِ ہیکن واریاہ وجہ: دندانَن ہُنٛد دۄد، ڈھیٚل ڈینچر، نٔو دوائی، اُدٲسی، قبض، کم حرکت، یا ذٲیقہٕ تہٕ بۄے مَنز تبدیلی۔ یِمن مانز کُنہِ تِہ نِشانہٕ مُتعلِق ؤنِو تِہندِس ڈاکٹرَس۔ تِم ہیٚکن وجہ ژھانڈِتھ تہٕ ڈایٹیشین یا سپلیمنٹچ صلاح دِتھ۔
 
-## How can you help someone eat and drink enough?
+## تُہؠ کِتھہٕ پٲٹھؠ ہیٚکِو کٲنٛسہِ سیٚٹھا کھیٚن چیٚنَس مَنز مدد کٔرِتھ؟
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **واریاہ لۄکچار کھیٚن تہٕ ہلکہٕ ناشتہ دِیِو،** ترٚین بٔڈین کھیٚنن ہٕند بجایہِ۔
+- **پسندیدٕ کھیٚن پیش کٔرِو،** تہٕ ذٲیقہٕ بدلنس پیٹھ گٔژِھو لچکدار روزُن۔ اگر بھۄکھ کم آسہِ، میٖٹھ کھیٚن ہیکہِ پسند یِتھ، مگر ڈاکٹرَس پٔرٛژِھو اگر میٖٹھ کم کرنٕچ کانٛہہ صحتی وجہ آسہِ۔
+- **چیٚنٕچ چیز نکھ تل تھٲوِو** تہٕ دۄہس دوران واریاہ لۄکچار پیالہ پیش کٔرِو۔ سوپ، میوہ، smoothies تہٕ milkshakes تِہ چھِ شٲمِل۔
+- **ییٚلہِ ممکن آسہِ، سٟتؠ کھیٚیِو۔** کھیٚنُک وقت چھُ سٟتؠ بسنُک موقع، نہ زِ جلدی ختم کرنُک کام۔
+- **اتھہٕ سٟتؠ کھینہٕ یِوٕنۍ چیز آزمٲوِو،** مِسلَن سینڈوچ، میوٕک ٹُکرٕ یا کُکُر ہٕند ٹُکرٕ، اگر چمچہ کانٹہٕ استعمال کرُن مشکل گژِھمُت آسہِ۔
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+سانِہِ [خوراکچ رہنمٲیی](/brain-health/diet/) مَنز چھِ کھیٚنٕکِس وقتس مُتعلِق بییہِ تِہ مشورٕ۔ کھیٚن تیار کرنس مَنز مدد کرٕنۍ ہیکہِ أک خوشگوار مشترکہ سرگرمی تِہ ٲسِتھ؛ وُچھِو [گَریلوٗ کامہِ](/activities/household-tasks/)۔
 
-## Talk with a doctor
+## ڈاکٹرَس سٟتؠ کٔرِو کتھ باتھ
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+پَننِس خٲطرٕ کانٛہہ تِہ روزٕچ منصوبہ آزماؤنہٕ برونٛہہ کٔرِو پننِس ڈاکٹرَس یا رجسٹرڈ ڈایٹیشین سٟتؠ کتھ باتھ، خاص طور اگر تُہؠ ذیابیطس یا خونچ دباؤچ دوا چھِو ہیوان، حال حالس مَنز وزن گۄمُت چھُو، یا تُہؠ چھِو پیٚمٕتؠ۔ ڈیمینشیا سٟتؠ زندٕگی گزاران کٲنٛسہِ خٲطرٕ، روزس بجایہِ پٔرٛژِھو تِہندِس ڈاکٹرَس زِ تِمن کۄسہِ قدر کھیٚن چیُن چھُ دۄہس مَنز گژھان۔
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+اچانک پریشٲنی، بیہوش گژھُن، یا واریاہ کم خۄنچ شوگر یِم نِشٲنؠ جلدی ٹھیک نہ گژھن، تِمن خٲطرٕ نِیِو فوری طبی مدد۔

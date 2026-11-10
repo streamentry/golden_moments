@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzle ji bo kesên bi demansê: Jigsaw û peyvan"
+seoTitle: "Puzzle ji bo demansê: Jigsaw û peyvan"
+description: "Meriv çawa ji bo kesekî bi demansê puzzleên jigsaw, peyvan û serhêl hildibijêre: mezinahiya perçeyan, wêne, nivîsa mezin û kengê hêsantir bike."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Baştirîn puzzle ji bo kesekî bi demansê ew e ku ew bikaribe bi piçek alîkariyê
+  temam bike û di rê de jê kêfxweş bibe. Jigsawên bi perçeyên kêmtir û mezintir
+  û wêneyekî zelal ê mezinan hilbijêrin, wêneyê qutiyê li ber çavan bihêlin û
+  pêşî perçeyên kêlekê rêz bikin. Lêgerînên peyvan û puzzleên xaçê bi nivîsa
+  mezin baştir dibin. Puzzleên hêsan ên serhêl ên bi 4 perçeyan ji bo qonaxa
+  navîn guncaw in. Dema ku kêf tê de ye, rawestin.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Li gorî ka ew çawa diçe hilbijêrin, ne li gorî navê qonaxekê: heke puzzle wekî karekî dijwar be, yekî bi perçeyên kêmtir biceribînin."
+  - "Perçeyên mezin û zexm û wêneyekî zelal bi deverên rengîn ên cihê ji perçeyên biçûk û ezmanên mezin hêsantir in."
+  - "Wêneyên ji bo mezinan girîng in. Baxçe, mitbax, erebe û heywan, ne karton."
+  - "Armanc ew e ku hûn bi hev re bikin. Perçeyan bidin, kêlekê rêz bikin, qapaxa qutiyê li ber çavan bihêlin."
+  - "Lêgerînên peyvan bi nivîsa mezin û puzzleên hêsan ên serhêl ên bi 4 an 9 perçeyan li ser vê malperê belaş in."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Ji bo kesekî bi demansê çend perçeyên puzzle baştir in?"
+    a: "Hejmarek yekgirtî ya rast tune ye. Dibe ku kesek ku berê puzzleên bi 1.000 perçeyan dikir, di destpêkê de hîn jî ji çend sed perçeyan kêfxweş bibe, lê yên din bi bi dehan perçeyên mezin baştir dibin. Heke puzzle wekî karekî dijwar be an bibe sedema acizbûnê, biçin ser perçeyên kêmtir. Puzzleya me ya serhêl Picture 4 an 9 perçe hene."
+  - q: "Gelo puzzleên jigsaw ji bo kesên bi demansê baş in?"
+    a: "Gelek kes jê kêfxweş dibin, bi taybetî heke berê ji puzzle hez dikirin. Puzzle tiştekî dide destan ku pê mijûl bibin, armancek zelal û wêneyek heye ku mirov li ser biaxive. Tu puzzle nehatiye nîşandan ku demansê derman dike an hêdî dike, ji ber vê yekê wan ji bo kêf û hevaltîyê hilbijêrin."
+  - q: "Dema ku kesek êdî nikare jigsawekê bike, ez dikarim çi bikim?"
+    a: "Wê biçûktir bikin û bêtir wê bi xwe bikin: her carê perçeyek bidin, an jî tenê çend perçeyên dawîn ji wan re bihêlin. Puzzleke serhêl a bi 4 perçeyan, rêzkirina perçeyan li gorî rengê, an jî bi tenê li wêneyê temamkirî bi hev re mêze kirin biceribînin."
+  - q: "Gelo puzzleên xaçê û lêgerînên peyvan ji bo demansê guncaw in?"
+    a: "Di qonaxa destpêkê de, bi nivîsa mezin, dikarin guncaw bin. Lêgerînên peyvan ên ku peyv tenê ber bi alî û jêr ve diçin, ji yên ku peyvên diagonal an paşverû hene hêsantir in. Şîretan an lîsteya peyvan bi dengekî bilind bixwînin û li ser wê bi hev re bixebitin."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jigsawek ku li ser maseya xwarinê belav bûye, yek ji hêsantirîn çalakiyan e ku mirov dikare bi hev re parve bike. Hûn dikarin bêyî ku hewce bike gelek biaxivin li cem hev rûnin, wêne tiştekî dide we ku hûn li ser biaxivin, û danîna perçeya dawîn hesteke xweş dide. Lê gava ku demans diguhere, pêdivî ye ku puzzle jî biguherin. Puzzleke ku pir dijwar e dikare piştî nîvroeke aram bike piştî nîvroeke acizker. Ev rûpel diyar dike ku meriv çawa jigsaw, puzzleên peyvan û puzzleên hêsan ên serhêl hildibijêre û amade dike, û dema ku dijwar dibin çi bike.
 
-## Are puzzles good for people with dementia?
+## Gelo puzzle ji bo kesên bi demansê baş in?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Gelek kes jê kêfxweş dibin, bi taybetî ew kesên ku berê puzzle dikirin. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lêgerînên peyvan, lîstikên qertan û lîstikên maseyê di nav çalakiyên qonaxa destpêkê de dibêje, û [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) behsa lîstik û puzzleên serhêl ên li ser tabletan dike wekî rêyek ji bo mijûl manê.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzzle ne dermankirin in. Tu puzzle nehatiye nîşandan ku demansê hêdî dike an rawestîne; rêbera me ya li ser [lîstikên mejî û demansê](/brain-health/brain-games/) lêkolînê rave dike. Sedema kirina puzzle ew e ku ew dikare demeke xweş û balkêş be ku hûn bi hev re derbas bikin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bi kurtî dibêje: li ser kêfê bisekinin, ne li ser serkeftinê.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Meriv çawa ji bo kesekî bi demansê puzzleke jigsaw hildibijêre?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Li gorî tiştên ku kes jê hez dike û puzzleya dawîn çawa çû biryarê bidin, ne li gorî navê qonaxekê.
 
-### Number of pieces
+### Hejmara perçeyan
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Hejmarek rast tune ye. Dibe ku kesek ku her dem puzzle dikiriye di destpêkê de hîn jî ji çend sed perçeyan kêfxweş bibe, lê kesekî din bi bi dehan perçeyan kêfxweştir e. Rêbazeke pratîk: heke puzzleya dawîn wekî karekî dijwar bû, yekî bi qasî nîvê perçeyan hilbijêrin. Heke zû temam bû û ew bêtir dixwest, hinekî zêde bikin.
 
-### Piece size and feel
+### Mezinahî û hesta perçeyan
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Perçeyên mezintir** hêsantir têne dîtin, girtin û zivirandin.
+- **Perçeyên stûr û zexm** li cihê xwe dimînin û dema dikevin xera nabin.
+- **Rûyekî bê biriqîn** ronahiya çirayan û pencereyan kêm dike.
+- **Ji perçeyên pir biçûk dûr bisekinin** heke dibe ku kes tiştan bixe devê xwe, ku dikare paşê di demansê de çêbibe.
 
-### The picture
+### Wêne
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Mijarên ji bo mezinan.** Baxçe, mitbax, erebeyên kevn, heywanên cotkariyê, bajarokek li ber deryayê, werzîşeke bijare. Ne karton û ne tiştek ku wekî lîstokeke zarokan xuya dike.
+- **Deverên rengîn ên cihê.** Embarek sor, qeyikek şîn û zeviyek kesk ji ezmanek ku nîvê puzzle dagir dike hêsantir in.
+- **Nas û kesane.** Wêneyek ji cihê ku ew lê dijiyan an hobiyeke ku ew jê hez dikirin gelek tiştan dide we ku hûn li ser biaxivin. Hin çapxane dikarin wêneyekî malbatê bikin jigsaw.
 
-## How do you do a puzzle together?
+## Meriv çawa bi hev re puzzle dike?
 
-Set it up so the person can get straight to the enjoyable part.
+Wê wisa amade bikin ku kes bikaribe rasterast dest bi beşa kêfxweş bike.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Cihekî baş hilbijêrin.** Ronahiya baş, kursiyek bi milan û maseyek an tepsiyek ku puzzle dikare li ser bimîne.
+2. **Qapaxa qutiyê** li cihê ku hûn her du dikarin bibînin datînin.
+3. **Berî ku dest pê bikin perçeyan rû bi jor vegerînin.**
+4. **Perçeyên kêlekê** bi xwe rêz bikin, an jî pêşî çarçovê çêkin û navîn ji wan re bihêlin.
+5. **Perçeyan li gorî rengê** di çend tepsiyên kêm an teştan de kom bikin.
+6. **Heke kom pir mezin be, her carê perçeyek bidin.** «Ez difikirim ku ev perçe beşek ji embarê ye.»
+7. **Li ser wêneyê biaxivin,** ne li ser pêşketinê. «Ev mîna qeyika bavê min xuya dike.»
+8. **Wê li derve bihêlin.** Di çend rojan de vegerin ser wê. Lez tune ye.
+9. **Li ser xalek xweş rawestin,** piştî ku perçeyek tê danîn, dema ku hîn xweş e.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) şîret dike ku alîkariya destpêkirinê bidin, li acizbûnê temaşe bikin û heke ew ji temaşekirinê bêtir kêfxweş dibin, bila tenê temaşe bikin. Temaşekirina we dema ku hûn perçeyan datînin, û nîşandana cihê ku dibe ku perçeyek lê bicîh bibe, hîn jî beşdarbûn e.
 
-## Easy online puzzles
+## Puzzleên hêsan ên serhêl
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Puzzleyeke li ser tabletê hin avantajên rastîn hene: tu perçe winda nabin, wêneyên mezin ku ekranê dagir dikin, û ne hewce ye ku mase were paqijkirin.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[Puzzleya wêneyê](/games/picture-puzzle/) ya me ya belaş wêneyekî dike 4 an 9 perçe. Li du perçeyan bitikînin da ku wan biguherînin heya ku wêne temam bibe. Wêneyê temam wekî rêber li ser ekranê dimîne, demjimêr tune ye, û hûn dikarin di her kêliyê de rawestin. Çar perçe bi gelemperî ji bo gelek kesên di qonaxa navîn de guncaw in dema ku kesek li kêleka wan be.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Ji bo lîstika wêneyan a hê hêsantir, [Heman bibîne](/games/find-the-same/) biceribînin, ku hûn li wêneyê ku bi yê li jor re wekhev e ditikînin, an [Bi hev re rêz bikin](/games/sort-together/), ku wêne diçin nav selikan wekî mitbax an baxçe.
 
-## Word puzzles: word searches and crosswords
+## Puzzleên peyvan: lêgerînên peyvan û puzzleên xaçê
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Puzzleên peyvan ji bo kesên ku her dem jê hez dikirin guncaw in, bi gelemperî di destpêka demansê de.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Lêgerîna peyvan bi nivîsa mezin.** [Lêgerîna peyvan](/games/word-search/) ya me ya belaş tîpên mezin û tenê çend peyvan bi kar tîne, ku tenê ber bi alî û jêr ve diçin, qet bi diagonal an paşverû na. Li ser ekranê bilîzin an çap bikin.
+- **Lîsteyê bi dengekî bilind bixwînin.** Kesek peyvekê dixwîne, yê din li wê digere. Dorkirina tenê tîpa yekem jî baş e.
+- **Puzzleên xaçê yên bi nivîsa mezin** ji pirtûkên puzzle dikarin di destpêkê de bikêr bin. Şîretan bi dengekî bilind bixwînin, pênûsê parve bikin û bersivan bi hev re dagirin. Puzzleên xaçê yên hêsan û bi mijar ji yên razber baştir in.
+- **Li ser peyvan biaxivin.** «Baxçe» dikare bibe deh deqîqeyan axaftin li ser bacanan.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Ji bo bêtir çalakiyên li ser kaxezê û ka meriv wan çawa çap dike da ku hêsan werin dîtin û girtin, li [çalakiyên demansê yên belaş ku têne çapkirin](/activities/printable/) binêrin.
 
-## Which puzzles suit each stage?
+## Kîjan puzzle ji bo her qonaxê guncaw in?
 
-Stages overlap, and good and hard days are normal.
+Qonax li hev dikevin, û rojên baş û dijwar normal in.
 
-| Stage | Puzzles that often fit | Your role |
+| Qonax | Puzzleên ku pir caran guncaw in | Rola we |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Destpêk | Jigsawên nas bi perçeyên kêmtir ji berê, puzzleyên xaçê û lêgerînên peyvan bi nivîsa mezin, puzzleyên serhêl ên 9 perçeyî | Hevkar: bila ew hilbijêrin, gava tê xwestin alîkariyê bikin |
+| Navîn | Jigsawên bi bi dehan perçeyên mezin, puzzleyên serhêl ên 4 perçeyî, lêgerîna peyvan ku bi hev re bi dengekî bilind tê xwendin | Amade bikin, perçeyan rêz bikin, her carê perçeyek bidin |
+| Dereng | Li wêneyekî temamkirî bi hev re mêze kirin, Heman bibîne bi du wêneyan, girtina çend perçeyên mezin | Wê bînin cem wan; hevaltiya we çalakî ye |
 
-## When should you make a puzzle easier, or stop?
+## Kengê divê hûn puzzleke hêsantir bikin, an rawestin?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Li bêhna kûr, dûrxistina perçeyan, dubarekirina «Ez nikarim» an nêrînên xemgîn temaşe bikin. Ev nîşan in ku tiştek were guhertin, ne ku mirov bidomîne.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Wê biçûktir bikin.** Perçeyên kêmtir, an jî tenê çend perçeyên dawîn ji wan re bihêlin.
+- **Bêtir wê bi xwe bikin** û wan vexwînin ku di beşên hêsan de alîkariyê bikin.
+- **Derbasî tiştekî nêzîk bibin:** rêzkirina perçeyan li gorî rengê, puzzleke serhêl a 4 perçeyî, an [rengdankirin](/games/coloring/).
+- **Rawestin.** Wê deyne aliyekî û çayekê vexwin. Hûn dikarin rojeke din vegerin ser wê, an jî qet ne.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Heke puzzle dest bi bîranîna tiştên dijwar bikin, baş e ku wan berde. Gelek rêyên din hene ku hûn wextê xweş bi hev re derbas bikin; [101 ramanên çalakiyê](/activities/ideas/) ji bo lêgerînê cihê baş e.

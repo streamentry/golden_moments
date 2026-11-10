@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "کیا ڈیمینشیا بچاو ممکن چھا؟ تحقیق کیا چھِ ونان"
+seoTitle: "ڈیمینشیا بچاو: تحقیق کیا چھِ ونان"
+description: "2024 Lancet کمیشن تہِ بٔڈن ٹرایلن ہُند کیا لبِیوو ڈیمینشیا کھترٕ کم کرنَس پیٹھ، کیا نہٕ لبِیوو، تہٕ ڈاکٹر سٕتۍ کتھ باتھ کرنٕکیں قدمَن پیٹھ۔"
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  کانہہ تہِ ہیٚکہِ نہٕ ڈیمینشیا بچاونُک یقین دِتھ۔ 2024 Lancet کمیشنَن اندازٕ لگوو
+  زِ دنیا بھر مَنٛز ڈیمینشیا ہٕندین تقریباً أڈین معاملاتَن ہُند تعلق چھُ 14 تِتھین
+  کھترٕ عواملَن سٕتۍ یِم تبدیل گٔژھتھ ہیٚکن، مِثالَن ہائی بلڈ پریشر، بوزنَس مَنٛز
+  دِقت تہٕ کم حرکات۔ ٹرایلن مَنٛز سوچنٕچن جانچن ہٕندین نتیجن مَنٛز لۄکچار اثر آو
+  سامنہٕ، مگر ڈیمینشیا ہٕندین کم معاملاتَن ہُند ثبوت نہٕ۔ واریاہ تِم لوٗکھ یِمن
+  سورُے "ٹھیک" کران چھِ، تِمن تہِ چھُ ڈیمینشیا گژھان، تہٕ اَتھ مَنٛز چھُنہٕ کانہہ
+  قصور۔
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 Lancet کمیشنَن کوٚر دنیا بھر مَنٛز ڈیمینشیا ہٕندین تقریباً 45% معاملاتَن ہُند تعلق 14 تبدیل گژھن والین کھترٕ عواملَن سٕتۍ۔ یِہ چھُ اکھ آبادی ہُند اندازٕ، کانہہ ذاتی یقین نہٕ۔"
+  - "کھترٕ کم کرُن چھُ پوٗرٕ آبادی مَنٛز امکان کم کرُن۔ اَمِک مطلب چھُنہٕ زِ کانہہ اکھ شخص ہیٚکہِ ڈیمینشیا نِش بچِتھ۔"
+  - "FINGER، US POINTER تہٕ SPRINT MIND جیہِن بٔڈن ٹرایلن مَنٛز سوچنٕچن جانچن یا ہلکٕ دماغی کمزوری پیٹھ لۄکچار فٲیدٕ آے سامنہٕ، مگر کُنہِ ٹرایلَن دِیُت نہٕ ثبوت زِ کانہہ طرزِ زندگی پروگرام چھُ ڈیمینشیا بچاوان۔"
+  - "ؤنس چھُ الزائمر کھترٕ سَبہٕ کھوتہٕ بوڈ زاننہٕ آمُت کھترٕ عنصر، تہٕ یِہ ہیٚکہِ نہٕ بدلِتھ۔ واریاہ صِحت مند عادتَن والین لُکن تہِ چھُ ڈیمینشیا گژھان۔"
+  - "یِم قدم اکثر جانچہِ گٔے چھِ — مِثالَن ہائی بلڈ پریشر ہُند علاج، بوزنٕکین آلَن ہُند استعمال تہٕ متحرک روزُن — تِم چھِ ڈاکٹر سٕتۍ کتھ باتھ کرنٕک لایق، تِکیازِ تِم چھِ باقی صِحتس مَنٛز تہِ فٲیدٕ دِوان۔"
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "کیا ڈیمینشیا بچاو ممکن چھا؟"
+    a: "کُنہِ أکِس شخصس خٲطرٕ چھُنہٕ ڈیمینشیا بچاونُک کانہہ ثابت طریقہٕ۔ تحقیق چھِ ونان زِ کینژھن کھترَن ہُند کم کرُن — مِثالَن ہائی بلڈ پریشر، بغیر علاج بوزنَس مَنٛز دِقت تہٕ تمباکو نوشی — ہیکہِ پوٗرٕ آبادی مَنٛز ڈیمینشیا ہُند امکان کم کٔرتھ یا اَمِک شروعات پٔتِم کٔرتھ۔ یِم چھِ امکان، وعدٕ نہٕ۔"
+  - q: "Lancet کمیشن ہُند 45% ہندُس اعداد و شمارُک کیا مطلب چھُ؟"
+    a: "2024 Lancet کمیشنَن کوٚر اندازٕ زِ دنیا بھر مَنٛز ڈیمینشیا ہٕندین تقریباً 45% معاملاتَن ہُند تعلق چھُ 14 تِتھین کھترٕ عواملَن سٕتۍ یِم نظری طور پیٹھ تبدیل گٔژھتھ ہیٚکن۔ یِہ اندازٕ چھُ فرض کران زِ یِم عوامل چھِ ڈیمینشیا ہُند سبب، تہٕ لیکھک چھِ ونان زِ کینژھ تعلق ہیٚکن صرف جُزوی طور سبب آسُن۔ یِہ چھُ پوٗر آبادی ہٕند بارس مَنٛز ونان، نَہ زِ کُنہِ أکِس شخص سٕندِس کھترس مُتعلق۔"
+  - q: "اگر میٲنِس والد یا والدٕہ سٕنز طرزِ زندگی صِحت مند ٲس، تیٚلہِ کیازِ آو تِمن ڈیمینشیا؟"
+    a: "ؤنس، جینیات تہٕ واریاہ تِم عوامل یِمن پیٹھ کانہہ اختیار چھُنہٕ، ڈیمینشیا مَنٛز چھِ بٔڈ کردار ادا کران۔ Lancet کمیشن ہٕندۍ لیکھک چھِ ونان زِ پوٗرٕ آبادی مَنٛز کھترٕ کم کرُن چھُنہٕ یِہ یقین دِوان زِ کانہہ اکھ شخص بچِہ ڈیمینشیا نِش۔ تشخیص چھَنہٕ یِہ نِشانی زِ کٲنٛسہِ روٗد ناکام۔"
+  - q: "کیا 65 ؤرِیہٕ پتہٕ چھا ڈیمینشیا ہُند کھترٕ کم کرُن واریاہ دیر؟"
+    a: "Lancet کمیشن چھُ ونان زِ کھترٕ کم کرنہٕ خٲطرٕ چھُنہٕ زانہہ واریاہ جلدی تہٕ نہٕ واریاہ دیر، اگرچہ واریاہ شواہد چھِ درمیانی عمرس سٕتۍ متعلق۔ بوزنَس تہٕ وچھنَس مَنٛز دِقت ہُند علاج، متحرک روزُن تہٕ لُکن سٕتۍ رابطہٕ تھاون چھِ تِم مِثال یِم پٔتِمی عمرس مَنٛز جانچہِ آے۔ پننِس صِحتس مُطابق کیا موزوں چھُ، تمِچ کتھ باتھ کٔرِو ڈاکٹر سٕتۍ۔"
+  - q: "کیا دماغی کھیل یا خاص غذا چھا ڈیمینشیا بچاوان؟"
+    a: "کُنہِ کھیل، غذا، سپلیمنٹ یا ڈایِٹَن دِیُت نہٕ زانہہ ثبوت زِ سُہ چھُ ڈیمینشیا بچاوان۔ MIND ڈایِٹ پیٹھ ترٛین ؤرِین ہٕندِس ٹرایلَس مَنٛز آو نہٕ سوچنَس مَنٛز کنٹرول ڈایِٹ کھوتہٕ کانہہ خاص فرق سامنہٕ، تہٕ تجارتی دماغی تربیتی ایپس ہٕندۍ تِم اثر آے نہٕ سامنہٕ یِم تحقیقی ٹرایلن مَنٛز وچھنہٕ آے۔"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+اگر تُہۍ کٲنٛسہِ تِژھ شخصہٕ سٕنز دیکھ بھال چھِو کران یُس ڈیمینشیا سٕتۍ زندگی گزاران چھُ، یا تُہۍ وُچھِو پنُن ماجہِ یا مول سٲبس اَتھ حالتس مَنٛز، تیٚلہِ آسہِ تُہۍ ضرور سوچمُت زِ کیا یِہ بچاوِتھ ہیٚکہِ ہا، تہٕ کیا تُہۍ ہیٚکِو پانَس سٕتۍ یِہ گژھنہٕ نِش بچٲوِتھ۔ یِم صفہٕ چھُ تحقیق ہٕندۍ اصلی لبنہٕ آمژٕ کتھہٕ سادٕ زَبانہِ مَنٛز بیان کران۔ مُختصر جواب: کانہہ ہیٚکہِ نہٕ ڈیمینشیا بچاونُک یقین دِتھ، مگر تحقیق چھِ ونان زِ کینژھ کھترٕ ہیٚکن کم گٔژھتھ، تہٕ پوٗرٕ آبادی مَنٛز تِم کم کرنہٕ سٕتۍ ہیٚکن کم لُکھ ڈیمینشیا سٕتۍ متاثر گژھِتھ یا تِمن ہیٚکہِ یِہ دیر سٕتۍ گژھِتھ۔
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+یِہ چھُ عام زانکٲری، طبی مشورٕ نہٕ۔ مہربانی کٔرِتھ پٔرِو سون [طبی اعلانِ لاتعلقی](/medical-disclaimer/) تہٕ پننِس صِحتس مُتعلق کٔرِو ڈاکٹر سٕتۍ کتھ باتھ۔
 
-## Can dementia be prevented?
+## کیا ڈیمینشیا بچاو ممکن چھا؟
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+کُنہِ أکِس شخصس خٲطرٕ چھُنہٕ ڈیمینشیا بچاونُک کانہہ ثابت طریقہٕ۔ نیشنل انسٹی ٹیوٹ آن ایجنگ (NIA) چھُ ونان زِ اگرچہ [وُنہِ تام چھُنہٕ کانہہ چیز ثابت زِ یِہ چھُ الزائمر بچاوان](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)، محقق چھِ پرامید طریقہٕ لبان تہٕ سیکھان زِ کیا کٲم ہیٚکہِ کٔرِتھ تہٕ کیا نہٕ۔
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+یِکینژھ تحقیق چھِ ضرور ونان، سُہ چھُ یِہ زِ کینژھن صِحتی حالتَن تہٕ عادتَن ہُند تعلق چھُ ڈیمینشیا ہٕندِس زیادہ کھترس سٕتۍ۔ ییٚلہِ پوٗرٕ آبادی مَنٛز یِم کھترٕ کم گژھان چھِ، تیٚلہِ ہیٚکن کم لُکھ ڈیمینشیا سٕتۍ متاثر گژھِتھ، یا تِمن ہیٚکہِ یِہ زندگی ہٕندِس پٔتِمیس دَورس مَنٛز گژھِتھ۔ یِہ چھُ اکھ یقین نِش بالکل مختلف۔
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+اکھ پرامید نِشانی: 2024 Lancet کمیشنَن وون زِ کینژھن اُونچ آمدنی والین مُلکن مَنٛز، بشمول امریکہ تہٕ برطانیہ، چھُ بوڑ لُکن مَنٛز ڈیمینشیا ہُند تناسب کم گومُت۔ لیکھکن ہُند خیال چھُ زِ یِہ گٔژھِتھ ہیٚکہِ جُزوی طور بہتر تعلیم، بہتر صِحت کیر، تہٕ زندگی بھر خونٕکین رگن ہٕندِس کم نقصانَس سبب آسُن، یِتھہٕ پٲٹھۍ [University College London ہٕندِس رپورٹ خلاصس](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) مَنٛز بیان آو کرنہٕ۔
 
-## What did the 2024 Lancet Commission find?
+## 2024 Lancet کمیشنَن کیا لوب؟
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+ڈیمینشیا بچاو، مداخلت تہٕ دیکھ بھال پیٹھ Lancet کمیشن چھُ 27 ڈیمینشیا محققن ہُند اکھ گروہ یُس پرٛتھ کینژھن ؤرِین پتہٕ شواہدَن ہُند جٲیزٕ چھُ نِوان۔ تِہندِ 2024 رپورٹہِ مَنٛز آے **14 کھترٕ عوامل** نٲوِتھ یِم ممکنہ طور تبدیل گٔژھتھ ہیٚکن، تہٕ اندازٕ آو لگاونہٕ زِ یِم سارِوے چھِ **دنیا بھر مَنٛز ڈیمینشیا ہٕندین تقریباً أڈین (تقریباً 45%) معاملاتَن** خٲطرٕ ذمہٕ دار۔ لیکھکن ہٕندین لفظن مَنٛز، یِم معاملات ہیٚکہِ ہٕن *نظری طور* بچٲوِتھ یا پٔتِم کٔرِتھ، اگر یِم کھترٕ ہٹاونہٕ یِیہِن ([2024 Lancet کمیشن رپورٹ](https://doi.org/10.1016/S0140-6736(24)01296-0))۔
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+یِم 14 عوامل، تِمن زندگی ہٕندین مرحلن مُطابق یَتھ مَنٛز شواہد زیادہ مضبوط چھِ:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **گۄڈنی زندگی:** کم تعلیم۔
+- **درمیانی عمر (تقریباً 40 پیٹھہٕ 65 ؤرِیہٕ تام):** بوزنَس مَنٛز دِقت، زیادہ LDL ("خراب") کولیسٹرول، ڈپریشن، سَرَس دگ، کم جسمانی حرکات، ذیابیطس، تمباکو نوشی، ہائی بلڈ پریشر، موٹاپا، تہٕ زیادٕ شراب نوشی۔
+- **پٔتِمی زندگی:** سماجی اکیلاپن، ہوا ہُند آلودگی، تہٕ بغیر علاج نظرٕچ دِقت۔
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 ہَس مَنٛز آے دۄن نٔوِ عوامل شامل کرنہٕ: زیادہ LDL کولیسٹرول تہٕ بغیر علاج نظرٕچ دِقت۔ سَبہٕ کھوتہٕ زیادہ معاملاتَن سٕتۍ وابستہٕ عوامل ٲس بوزنَس مَنٛز دِقت تہٕ زیادہ LDL کولیسٹرول (پرٛتھ کانہہ تقریباً 7%)، پتہٕ کم تعلیم تہٕ سماجی اکیلاپن (پرٛتھ کانہہ تقریباً 5%)۔
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+سون [کھترٕ عواملَن ہُند رہنما صفہٕ](/brain-health/risk-factors/) چھُ یِمن سارِنہِ 14 پیٹھ اکھ جدول سٕتۍ ونان، زِ تحقیق کیا چھِ جوڑان تہٕ تُہۍ کیا ہیٚکِو کٔرِتھ۔
 
-### What the 45% figure does not mean
+### 45% اعداد و شمارُک کیا مطلب چھُنہٕ
 
-It is easy to misread this number, so it helps to be precise:
+یِہ نمبر سمجھنَس مَنٛز آسہِ آسانی سان غلطی گژھان، تَمِہ موٚزوٗ صاف روزُن:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **یِہ چھُ اکھ آبادی ہُند اندازٕ۔** یِہ چھُ دنیا بھر مَنٛز ڈیمینشیا ہٕندین معاملاتَن ہٕند بارس مَنٛز ونان، نَہ زِ تُہندِس یا تُہندِس والد/والدٕہ سٕندِس ذاتی امکانَس مُتعلق۔
+- **یِہ چھُ سبب تہٕ اثر فرض کران۔** لیکھک چھِ ونان زِ تِمو آے صرف تِمے عوامل شامل کرنہٕ یِمن خٲطرٕ مضبوط شواہد ٲس، مگر کینژھ تعلق ہیٚکن صرف جُزوی طور سبب آسُن۔ مِثالَن، پٔتِمی زندگی ہُند ڈپریشن ہیٚکہِ بعض اوقات ڈیمینشیاچ گۄڈنی نِشانی آسُن، نَہ زِ سبب۔
+- **یِہ چھُنہٕ کُنہِ أکِس شخصس خٲطرٕ کانہہ یقین دِوان۔** UCL ہُند خلاصہٕ چھُ ونان زِ کھترٕ کم کرُن چھُ آبادی ہٕندِس سطحس پیٹھ اثر کران، تہٕ یِہ چھُنہٕ یقین دِوان زِ کانہہ اکھ شخص بچِہ ڈیمینشیا نِش۔
+- **باقی أڈ معاملات چھِنہٕ یِمن عواملَن سٕتۍ بیان گژھان۔** ؤنس، جینیات تہٕ تِم سبب یِم سائنسدان وُنہِ تام پوٗرٕ پٲٹھۍ سمجھان چھِنہٕ، تِم چھِ باقی حصّس خٲطرٕ ذمہٕ دار۔
 
-## What is the difference between "risk reduction" and "prevention"?
+## "کھترٕ کم کرُن" تہٕ "بچاو" مَنٛز کیا فرق چھُ؟
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**کھترٕ کم کرُن** یَنِ امکان کم کرُن۔ اگر اکھ بٔڈ جماعت پنُن بلڈ پریشر کم کرِ، تیٚلہِ ہیٚکن واریاہن ؤرِین مَنٛز تِمو مَنٛز کم لُکھ ڈیمینشیا سٕتۍ متاثر گژھِتھ، بہ نسبت تِمن اگر تِم کینژھ نہٕ کرہَن۔ تَتھ جماعتس مَنٛز کینژھ افرادَن ہیٚکہِ تۄتہِ ڈیمینشیا گژھِتھ۔
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**بچاو** ہُند مطلب چھُ کُنہِ چیز گژھنہٕ نِش مکمل طور رُکاوُن۔ ڈیمینشیا خٲطرٕ چھُنہٕ تحقیق اَز کٲنٛسہِ تہِ یِہ یقین دِوان۔
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+محقق چھِ **تاخیر** ہُند لفظ تہِ ورتاوان۔ Lancet کمیشن چھُ ونان زِ نوِن شواہدَن ہٕند مطابق ہیٚکہِ کھترٕ کم کرنہٕ سٕتۍ ڈیمینشیا ہٕنز شروعات پٔتِم گژھِتھ تہٕ سُہ وقت کم گژھِتھ یُس اکھ شخص بیماری سٕتۍ گزاران چھُ۔ کینژھن ؤرِین ہٕنز تاخیر تہِ ہیٚکہِ أکِس شخصس تہٕ تٔمِس خاندانَس خٲطرٕ واریاہ اہمیت تھٲوِتھ۔
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+یتھ سایٹِہ پیٹھ چھِ أس جان بوجھ کٔرِتھ "کھترٕ کم کرُن" تہٕ "سٕتۍ وابستہٕ" ورتاوان۔ ییٚلہِ تُہۍ کانہہ چیز، سپلیمنٹ یا پروگرام وُچھِو یُس "الزائمر بچاونُک" وعدٕ کران آسہِ، تیٚلہِ روٗزِو ہوشیار۔ NIA چھُ مشورٕ دِوان زِ تِژھ کانہہ گولی یا علاج آزماونہٕ برونٹھ کٔرِو ڈاکٹر سٕتۍ کتھ باتھ یُس الزائمر بچاونُک وعدٕ کرِ، تِکیازِ تِژھ چیز ہیٚکہِ غیر محفوظ، پیسَن ہُند ضیاع، یا دۄشوے آسُن۔
 
-## What have large trials found?
+## بٔڈن ٹرایلن کیا لوب؟
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+مشاہداتی مطالعہ (یِم وقتس سٕتۍ لُکن کیا گژھان چھُ وچھان چھِ) ہیٚکن صرف تعلق وُچھٲوِتھ۔ بے ترتیب ٹرایل (یَتھ مَنٛز لُکن چھِ اتفاقاً پروگرامَس یا موازنہٕ گروپَس مَنٛز دِنہٕ یِوان) چھِ مضبوط آزمٲیش۔ یِتھ چھِ کینژھن معروف ٹرایلن ہٕندۍ لبنہٕ آمژٕ کتھہٕ۔
 
-### FINGER (Finland)
+### FINGER (فن لینڈ)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER ٹرایلَس مَنٛز آے 1,260 تِم بالغ شامل کرنہٕ یِمن ہٕنز عمر 60 پیٹھہٕ 77 ؤرِیہٕ تام ٲس تہٕ یِمن ڈیمینشیا ہُند کھترٕ زیادہ اوس۔ أڈین میٖل دۄن ؤرِین ہُند پروگرام: غذا ہٕنز صلاح، ورزش، کمپیوٹر پیٹھ دماغی مشق، تہٕ دِل تہٕ خونٕکین رگن ہٕنز صِحت جانچ؛ باقی أڈین میٖل عام صِحتی مشورٕ۔ پروگرام والے گروپَن کوٚر سوچنٕچن جانچن ہٕندِس سیٹس مَنٛز ذرا بہتر، اکھ لۄکچار مگر شماریاتی طور اہم فرق ([FINGER ٹرایل The Lancet مَنٛز](https://pubmed.ncbi.nlm.nih.gov/25771249/))۔ ٹرایلَن ماپۍ ٹیسٹ نتیجہٕ، نَہ زِ ڈیمینشیا ہٕنز تشخیص۔
 
-### US POINTER (United States)
+### US POINTER (امریکہ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER مَنٛز آے 2,111 تِم بالغ شامل کرنہٕ یِمن ہٕنز عمر 60 پیٹھہٕ 79 ؤرِیہٕ تام ٲس، یِم کم متحرک ٲس، یِمن ہٕنز غذا کم صِحت مند ٲس تہٕ یِمن باقی کھترٕ عوامل تہِ ٲس۔ دۄشوُن گروپن آو حوصلہٕ دِنہٕ زِ تِم گژھن جسمانی تہٕ ذہنی طور زیادہ متحرک، بہتر کھین، لُکن سٕتۍ میل جول تھاون تہٕ دِلچ صِحت پیٹھ نظر تھٲوِن۔ أکِس گروپس میٖل اکھ منظم، رہنمائی والا پروگرام؛ بیٚیِس آو پانے پننہِ رہنمائی کرنہٕ۔ دۄن ؤرِین مَنٛز گٔے **دۄشوُن** گروپن ہٕندین سوچنٕچن جانچن ہٕندین نتیجن مَنٛز بہتری، تہٕ منظم گروپس مَنٛز ذرا زیادہ ([US POINTER ٹرایل JAMA مَنٛز](https://pubmed.ncbi.nlm.nih.gov/40720610/))۔ لیکھک چھِ ونان زِ مزید پیروی چھِ ضرورت زِ زاننہٕ یِیہِ زِ یِہ فرق روزمرہٕ زندگی مَنٛز کٔتِہ تام اہم چھُ۔ یِتھہٕ پٲٹھۍ زِ "کینژھ نہٕ کرُن" وال گروپ اوس نہٕ، اَمِہ موٚزوٗ ہیٚکہِ نہٕ ٹرایل وَنِتھ زِ کۄس پروگرام کوتاہ فٲیدٕ دِیُت بہ نسبت کینژھ نہٕ بدلاونس۔
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (بلڈ پریشر)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND مَنٛز آے 9,361 تِم امریکی بالغ شامل کرنہٕ یِمن ہٕنز عمر 50 ؤرِیہٕ یا تَتھ کھوتہٕ زیادہ ٲس تہٕ یِمن ہائی بلڈ پریشر اوس۔ تِمن آو یا اکھ کم بلڈ پریشر ہدف (اوپری نمبر 120 کھوتہٕ کم) دِنہٕ یا معیاری ہدف (140 کھوتہٕ کم)। کم ہدفَن کوٚر **ہلکٕ دماغی کمزوری** نمایاں طور کم — یِہ چھُ یادداشت تہٕ سوچنَس مَنٛز دِقتن ہُند اکھ مرحلہٕ یُس اکثر ڈیمینشیا برونٹھ یِوان چھُ۔ **امکانی ڈیمینشیا** خٲطرٕ ٲس کم ہدف والے گروپس مَنٛز معاملات کم، مگر فرق اوس نہٕ شماریاتی طور اہم۔ ٹرایل رُکٲوِہ وقتہٕ برونٹھ تہٕ ڈیمینشیا ہٕند معاملات آے توقع کھوتہٕ کم، تَمِہ موٚزوٗ اوس یِہ تمِہ سوالُک جواب دِنہٕ خٲطرٕ بونہٕ کِنۍ لۄکُٹ ([SPRINT MIND JAMA مَنٛز](https://pubmed.ncbi.nlm.nih.gov/30688979/))۔
 
-### What the reviews add up to
+### جٲیزن ہُند خلاصہٕ
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 ہُک اکھ Cochrane جٲیزٕ کوٚر نَو بٔڈن ٹرایلن ہُند اکٹھ جائزہٕ یِم واریاہن کھترن پیٹھ اکٔے وقتس مَنٛز کٲم کران ٲس، 18,000 کھوتہٕ زیادہ لُکن سٕتۍ۔ اَتھ مَنٛز آو سوچنٕچن جانچن پیٹھ اکھ لۄکچار فٲیدٕ لبنہٕ، مگر تِمن دۄن ٹرایلن مَنٛز یِمن ڈیمینشیا ماپ، تِمن مَنٛز اوس نہٕ **کانہہ صاف فرق یِہ زِ کٔتین لُکن آو ڈیمینشیا** ([Cochrane جٲیزٕ: کثیر شعبہٕ مداخلت](https://pubmed.ncbi.nlm.nih.gov/34748207/))۔
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+نیشنل اکیڈمی آف سائنسز، انجینئرنگ اینڈ میڈیسن ہٕندِ 2017 جٲیزس، یُس NIA ہَن خلاصہٕ کوٚر، میٖل ترٛین طریقن خٲطرٕ "پرامید مگر غیر حتمی" شواہد: ہائی بلڈ پریشر ہُند انتظام، جسمانی حرکات ہُند بڑھاوُن، تہٕ دماغی تربیت۔
 
-## Does it matter when you start?
+## کیا شروع کرنُک وقت چھا اہم؟
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet کمیشن ہُند مشورٕ چھُ زِ کھترٕ گژھن یِتھ جلدی ممکن آسہِ کم کرنہٕ تہٕ یِتھ کالس تام ممکن آسہِ کم تھاونہٕ: "یِتھ جلدی، تیُتھ بہتر" تہٕ "یِتھ زیٹھ، تیُتھ بہتر۔" یِہ چھُ تہِ ونان زِ کھترٕ کم کرنہٕ خٲطرٕ چھُنہٕ زانہہ واریاہ جلدی تہٕ نہٕ واریاہ دیر۔ واریاہ شواہد چھِ درمیانی عمرس، تقریباً 40 پیٹھہٕ 65 ؤرِیہٕ تام، سٕتۍ متعلق، مگر کینژھ عوامل، مِثالَن نظرٕچ دِقت تہٕ سماجی اکیلاپن، چھِ پٔتِمی عمر ہٕند کھترٕ یَتھ پیٹھ عمل کرُن تۄتہِ معنی تھٲوِتھ ہیٚکہِ۔
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+رپورٹ چھِ ونان زِ وُن چھِ زیادہ مضبوط شواہد زِ کھترس سٕتۍ زیادہ کالس تام واسطہٕ روزُن چھُ زیادہ اثر تھوان۔ مِثالَن، درمیانی عمرس مَنٛز شروع گژھن والی ذیابیطس چھِ پٔتِم شروع گژھن واجِنہِ ذیابیطس کھوتہٕ زیادہ اہم باسان۔
 
-## Is dementia risk the same for everyone?
+## کیا ڈیمینشیا ہُند کھترٕ چھا سارِنہِ خٲطرٕ برابر؟
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+نہ۔ کمیشنَن لوب زِ کم تہٕ درمیانی آمدنی والین مُلکن مَنٛز روزن وٲلۍ لُکھ، اقلیتی گروہ، تہٕ کم آمدنی وٲلۍ لُکھ چھِ اکثر یِمن کھترَن ہُند زیادہ بوجھ تُلان، تَمِہ موٚزوٗ چھُ تِمن اکثر ڈیمینشیا کم عمرس مَنٛز گژھان۔ واریاہ کھترٕ چھِ تِتھین حالاتن سٕتۍ وابستہٕ یِم لُکن چُنان ٲسِنہٕ، مِثالَن بچپنَس مَنٛز میٖلمژ تعلیم، تِمن ہٕندِس روزن جاین ہٕنز ہوا، تہٕ کیا صِحت مند خوراک چھا دستیاب تہٕ سستی۔
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+یِہِ سبب چھُ زِ کمیشن ہٕندۍ سفارشات چھِ حکومتن خٲطرٕ تِتنے اہم یِتنے افرادن خٲطرٕ: سارِنہِ شُرین خٲطرٕ معیاری تعلیم، صاف ہوا، تمباکو نوشی کم کرنٕچ تدبیر، دکانن تہٕ ریستورانَن مَنٛز فروخت گژھن والین چیزن مَنٛز کم شکر تہٕ نمک، تہٕ پرٛتھ کٲنٛسہِ خٲطرٕ بوزنٕکۍ آلٕ یُس تِمن ضرورت چھُ۔ ذاتی کوشش چھِ اہم، مگر سُہ دنیا تہِ یَتھ مَنٛز لُکھ روزان چھِ۔ یِہ چھُ بیٚیہِ اکھ وجہ زِ کٲنٛسہِ ہٕندِس تشخیصس پیٹھ قصور نہٕ تھٲوِو۔
 
-## What are the honest limits of this research?
+## یَتھ تحقیقس ہٕند ایماندار حد کیا چھِ؟
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **ڈیمینشیا بڑھنس چھِ دٔہایِیہٕ لگان**، مگر اکثر ٹرایل چھِ دۄن پیٹھہٕ پانژھ ؤرِیہٕ تام چلن وال۔ ڈیمینشیا پانے ماپنہٕ خٲطرٕ، صرف ٹیسٹ نتیجن خٲطرٕ نہٕ، چھِ واریاہ زیوٗٹھ تہٕ واریاہ لمب مطالعن ہٕنز ضرورت۔
+- **اکثر ٹرایل چھِ سوچنٕچ جانچ ماپان۔** ٹیسٹس مَنٛز اکھ لۄکچار بہتری ہُند مطلب چھُنہٕ ضروری زِ کم لُکن گژھِ ڈیمینشیا یا روزمرہٕ زندگی گژھِ آسان۔
+- **رضاکار چھِ اکثر عام آبادی کھوتہٕ زیادہ صِحت مند** تہٕ زیادہ تعلیم یافتہٕ آسان۔ Lancet کمیشن چھُ ونان زِ واریاہ شواہد چھِ وُنہِ تام زیادہ تر اُونچ آمدنی والین مُلکن پیٹھہٕ، تہٕ اقلیتی گروہ چھِ کم نمائندگی ہٕندِس صورتس مَنٛز۔
+- **کینژھ تعلق چھِ دۄشوے طرفہٕ آسان۔** کم متحرک روزُن یا کم سماجی رابطہٕ ہیٚکہِ ڈیمینشیا ہُند گۄڈنیو اثر آسُن، نَہ زِ صرف سبب۔
+- **غذا پیٹھ ٹرایلن ہٕندۍ نتیجہٕ آے وُنہِ تام مایوس کن۔** MIND ڈایِٹ پیٹھ ترٛین ؤرِین ہٕندِس ٹرایلَس مَنٛز آو کنٹرول ڈایِٹ کھوتہٕ سوچنَس مَنٛز کانہہ خاص فرق سامنہٕ نہٕ۔ وُچھِو سون [غذا ہُند رہنما صفہٕ](/brain-health/diet/)۔
+- **دماغی کھیل چھِنہٕ ڈیمینشیا بچاونہٕ خٲطرٕ ثابت۔** وُچھِو سون [دماغی کھیل تہٕ ڈیمینشیا](/brain-health/brain-games/) ہُند رہنما صفہٕ۔
+- **روزٕ تھاونَس (فاسٹنگ) پیٹھ چھِ انسانن متعلق واریاہ کم شواہد**، تہٕ یِہ ہیٚکہِ بوڑ لُکن خٲطرٕ خطرناک آسُن۔ وُچھِو سون [روزٕ تھاونُک رہنما صفہٕ](/brain-health/fasting/)۔
 
-## If someone did everything "right", why did they still get dementia?
+## اگر کٲنٛسہِ روٗد "سورُے ٹھیک" کران، تیٚلہِ کیازِ آو تِمن تۄتہِ ڈیمینشیا؟
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+تِکیازِ ڈیمینشیا چھُنہٕ صرف انتخابن ہُند نتیجہٕ۔ NIA چھُ ونان زِ [ؤنس چھُ الزائمر کھترٕ سَبہٕ کھوتہٕ بوڈ زاننہٕ آمُت کھترٕ عنصر](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)، تہٕ کانہہ ہیٚکہِ نہٕ اَتھ بدلٲوِتھ۔ جینیات چھِ تہِ کردار ادا کران۔ تہٕ سائنسدان چھِنہٕ وُنہِ تام پوٗرٕ پٲٹھۍ سمجھان زِ زیادہ تر لُکن مَنٛز الزائمر کِتھہٕ پٲٹھۍ چھُ گژھان۔ اگر 14 کھترٕ عوامل سارِوے ہٹاونہٕ تہِ یِیہِن، تیٚلہِ تہِ چھُ Lancet کمیشن ہُند پنُن اندازٕ أڈ کھوتہٕ زیادہ معاملات بغیر وضاحت تراوان۔
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+تَمِہ موٚزوٗ، اگر تُہۍ تِژھ کٲنٛسہِ شخصہٕ سٕنز دیکھ بھال چھِو کران یُس ورزش کران اوس، ٹھیک پٲٹھۍ کھٮ۪وان اوس، زانہہ تمباکو نوشی کران اوس نہٕ تہٕ تۄتہِ تِمن آو ڈیمینشیا، تیٚلہِ گٔیہِ نہٕ تِہندِس یا تُہندِس طرفہٕ کانہہ چیز غلط۔ اگر تُہۍ پانے ڈیمینشیا سٕتۍ زندگی چھِو گزاران، یِہ چھُنہٕ تُہند قصور۔ خاندانن مَنٛز چھُ قصور وار احساس عام، مگر یِہ چھُنہٕ مناسب۔ اَز کیا اہم چھُ: آرام، رشتہٕ، تہٕ رٔتۍ دۄہ، تہٕ سانہِ [سرگرمی ہٕندۍ خیالات](/activities/ideas/) تہٕ [دیکھ بھال کرن وٲلین خٲطرٕ خود سنبھال ہُند رہنما صفہٕ](/caregiving/caregiver-self-care/) چھِ اکھ رُت جای شروعات کرنہٕ خٲطرٕ۔
 
-## What steps can you talk over with a doctor?
+## کنہِ قدمَن پیٹھ ہیٚکِو تُہۍ ڈاکٹر سٕتۍ کتھ باتھ کٔرِتھ؟
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+یِم چھِ تِم علاقے یِم اکثر جانچہِ گٔے چھِ۔ یِمن پیٹھ چھِ چیک اپَس مَنٛز کتھ باتھ کرنٕچ قٲبل تِکیازِ یِم اکثر دِلچ صِحت، مزاج تہٕ خودمختاری خٲطرٕ تہِ فٲیدٕ مند چھِ، خواہ ڈیمینشیا پیٹھ یِہند اثر کیا آسہِ۔
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **بلڈ پریشر۔** پٕرژھِو زِ تُہند نمبر کیا چھِ تہٕ تُہندِ خٲطرٕ کۄس ہدف موزوں چھُ۔ Lancet کمیشن چھُ مشورٕ دِوان زِ تقریباً 40 ؤرِیہٕ پیٹھہٕ گژھِ اوپری نمبر 130 یا تَتھ کم آسُنُک مقصد، مگر بوڑ شخصس خٲطرٕ صحیح ہدف چھُ تٔمِس مجموعی صِحتس پیٹھ منحصر۔
+2. **بوزُن۔** بوزنٕچ جانچ کرنُک پٕرژھِو، تہٕ زِ کیا بوزنٕکۍ آلٕ ہیٚکن مدد کٔرِتھ۔ سون [بوزنُک رہنما صفہٕ](/brain-health/hearing/) چھُ تحقیق بیان کران۔
+3. **نظر۔** باقاعدہ أچھن ہٕنز جانچ کرٲوِو تہٕ پٕرژھِو زِ کیا موتیا بنگ جیہِ دِقتن ہُند علاج ہیٚکہِ گژھِتھ۔
+4. **کولیسٹرول۔** پٕرژھِو زِ کیا تُہند LDL کولیسٹرول جانچُن گژھِ تہٕ کیا کینژھ بدلُن گژھِ۔
+5. **خونُک شکر۔** اگر تُہۍ ذیابیطس چھِو، تیٚلہِ پٕرژھِو زِ اَتھ محفوظ پٲٹھۍ کِتھہٕ پٲٹھۍ سنبھالُن چھُ۔
+6. **مزاج۔** ڈپریشن چھُ عام تہٕ علاج پذیر۔ ڈاکٹرَس ؤنِو اگر تُہۍ دۄن ہفتن کھوتہٕ زیادہ کالس پیٹھ کمزوری محسوس چھِو کران یا چیزن مَنٛز دلچسپی کھوتمٕژ چھِو۔
+7. **تمباکو نوشی تہٕ شراب۔** تمباکو تراونہٕ خٲطرٕ مدد تہٕ شراب خٲطرٕ محفوظ حد پیٹھ پٕرژھِو۔
+8. **حرکت۔** پٕرژھِو زِ تُہندِ خٲطرٕ کۄس قسمہٕ سرگرمی محفوظ چھِ۔ سون [ورزش ہُند رہنما صفہٕ](/brain-health/exercise/) مَنٛز چھِ خیالات۔
+9. **سَرچ حفاظت۔** سائیکل چلاونس تہٕ رابطہٕ والین کھیلَن مَنٛز ہیلمٹ پٲوِو، تہٕ گرنہٕ نِش بچاو پیٹھ پٕرژھِو۔
+10. **رابطہٕ تھاوُن۔** باقی لُکن سٕتۍ وقت گزارُن چھُ صِحت مند زندگی ہُند حصّہٕ۔ وُچھِو سون [سماجی رابطہٕ](/brain-health/social-connection/) ہُند رہنما صفہٕ، تہٕ [نیندر](/brain-health/sleep/) تہِ۔
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+دواہَن، غذا، سپلیمنٹن، روزٕ تھاونَس یا ورزشس مَنٛز تبدیلی کرنہٕ برونٹھ کٔرِو گۄڈٕ ڈاکٹر سٕتۍ کتھ باتھ، خاص طور پیٹھ اگر تُہۍ دِلچ بیماری، ذیابیطس، گرنُک ماضی چھِو تھوان، یا اگر تُہۍ پانے ڈیمینشیا سٕتۍ زندگی چھِو گزاران۔
 
-## Talk with a doctor
+## ڈاکٹر سٕتۍ کٔرِو کتھ باتھ
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+اگر تُہۍ پانس مَنٛز یا کٲنٛسہِ بیٚیِس مَنٛز یادداشت یا سوچنَس مَنٛز تِژھ تبدیلی وچھِو یِم تُہۍ پریشان کرن، تیٚلہِ تھٲوِو اپائنٹمنٹ۔ NIA چھُ ونان زِ [یادداشتٕچ دِقت ہیٚکہِ باقی وجوہاتو کِنۍ تہِ آسُن](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging)، مِثالَن دواہَن ہٕندۍ مضر اثرات، تھائرایڈ مسئلہٕ، ڈپریشن یا کم وٹامن B12، تہٕ کینژھ یِمو مَنٛزٕ مسئلہٕ چھِ وجہ دور گژھنہٕ پتہٕ ختم گژھان۔ سون [خبرداری نِشانن ہُند رہنما صفہٕ](/brain-health/warning-signs/) چھُ بیان کران زِ کیا وُچھُن چھُ۔
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**فوری مدد مٔنگِو** اچانک تبدیلی خٲطرٕ: اچانک پریشانی، أکِس طرف کمزوری یا سُن ہوناوُن، بولنس مَنٛز دِقت، یا سخت سَر درد ہیٚکن فالج یا بیٚیہِ کُنہِ ہنگامی حالتٕچ نِشانی آسُن۔ 112 پیٹھ کال کٔرِو۔
 
-## Where Golden Moments fits
+## Golden Moments کُس جای چھُ
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments چھُ سادٕ مشترکہ سرگرمی بناوان، مِثالَن [کتھ باتھ کارڈ](/games/conversation-cards/)، [تصویری بنگو](/games/picture-bingo/) تہٕ [اَرام بَخش ساہ لینُک وقفہٕ](/games/calm-breathing/)۔ یِم چھِ خوشی تہٕ اکہِ دوجہِ سٕتۍ وقت گزارنہٕ خٲطرٕ۔ یِم چھِنہٕ علاج، تہٕ نہٕ چھِ ڈیمینشیا بچاوان یا اَمِچ رفتار کم کران۔

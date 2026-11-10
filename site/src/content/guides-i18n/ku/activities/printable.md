@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Çalakiyên demansê yên belaş ji bo çapkirinê"
+seoTitle: "Çalakiyên demansê yên belaş: Çapa mezin"
+description: "Çalakiyên demansê yên belaş ji bo çapkirinê: lêgerîna peyvan bi çapa mezin, rûpelên rengkirinê, kartên axaftinê û bîngoya wêneyan, ligel şîretan."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments çalakiyên demansê yên belaş ji bo çapkirinê pêşkêş dike:
+  lêgerîna peyvan bi çapa mezin, rûpelên rengkirinê, kartên axaftinê bi wêneyan
+  û kartên bîngoya wêneyan. Rûpela her lîstikê veke û bişkoka wê ya Print
+  bi kar bîne. Bi tîpên mezin û sade, li ser kaxiza stûr çap bike, her rûpelekê
+  ji bo yek karî bihêle, û rûpelên ku tu dixwazî dîsa bi kar bînî şefaf bipêçe.
+  Çapên sade yên malê, wek rûpelek çîroka jiyanê an bernameyeke rojane, jî
+  dikarin bibin alîkar.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Çalakiyên me yên ji bo çapkirinê belaş in: Word Search, Coloring, Conversation Cards û Picture Bingo. Her rûpelek lîstikê bişkokeke Print heye."
+  - "Bi tîpên mezin û sade, bi berevajîbûneke zelal çap bike, û her rûpelekê ji bo yek karî bihêle."
+  - "Kaxiza stûr an karton hêsantir tê girtin û kêmtir tê çirandin. Ji bo ku rûpel dîsa bi kar bên, wan şefaf bipêçe û bi nîşankên jêbirbar bi kar bîne."
+  - "Çapên sade yên malê wek rûpelek çîroka jiyanê, bernameyeke rojane an etîketên bi wêneyan ji bo deriyan hêsan û bikêr in."
+  - "Rûpelek çapkirî vexwendinek e, ne spartek. Temamkirina beşek ji wê, an jî nekirin, baş e."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Gelo çalakiyên we yên demansê yên ji bo çapkirinê belaş in?"
+    a: "Erê. Rûpelên Word Search, Coloring, Conversation Cards û Picture Bingo li ser vê malperê belaş in ku bên bikaranîn û çapkirin. Rûpela lîstikê veke û bişkoka Print bi kar bîne."
+  - q: "Kîjan çalakiyên ji bo çapkirinê ji bo demansê guncawtir in?"
+    a: "Çapên herî baş sade, zelal û ji bo mezinan in: lêgerîneke peyvan bi çapa mezin ku peyv tenê li alîkî û berjêr in, rûpelên rengkirinê bi xêzên zelal, kartên bi wêneyan ku dest bi axaftinê dikin, û bîngoya bi wêneyan ji bo koman. Çalakiyê li gorî berjewendî û şiyanên niha yên wî kesî hilbijêre, û her rûpelekê ji bo yek karî bihêle."
+  - q: "Ez çawa dikarim çapan hêsantir bikim ku bên dîtin û bikaranîn?"
+    a: "Tîpên mezin û sade, rengê tarî li ser kaxiza spî an kremî, û cihê têra xwe bi kar bîne. Li ser kaxiza stûr an karton çap bike da ku rûpel rast bimîne, ji bo kêmkirina ronahiya çavan kaxiza mat hilbijêre, û ji bo ku rûpel nelive klîpbordek an sermaseyeke nelivok bi kar bîne. Pêçandina şefaf dibe alîkar ku rûpel dirêjtir bidomin."
+  - q: "Gelo ez dikarim çalakiyên we ji bo maleke lênêrînê an bernameyeke rojê çap bikim?"
+    a: "Erê. Karmendên çalakiyan dikarin rûpelên me ji bo niştecih û koman çap bikin. Picture Bingo ji bo koman hatiye çêkirin û gazîkerek li ser ekranê heye ku tu dikarî li ser televîzyonê an projektorê nîşan bidî."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Carinan çalakiya herî baş rûpelek kaxiz û qelemek li ser maseya mitbaxê ye. Ji bo çapan ne şarj, ne şîfre û ne jî ekran lazim e, û birina wan bo serdanekê an komekê hêsan e. Ev rûpel çalakiyên belaş ên ji bo çapkirinê yên li ser malpera me, awayê çapkirina wan da ku hêsan bên dîtin û girtin, û çend çapên sade yên malê ku ji malbatan û karmendên çalakiyan re bikêr in, vedibêje.
 
-## What free printable activities do you offer?
+## Hûn kîjan çalakiyên belaş ên ji bo çapkirinê pêşkêş dikin?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Em çar çapên belaş pêşkêş dikin. Yek ji van rûpelên lîstikan veke û bişkoka **Print** bi kar bîne da ku guhertoyeke ji bo çapkirinê bistînî.
 
-| Printable | What it is | Good for |
+| Çap | Ew çi ye | Ji bo kê baş e |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Lêgerîneke peyvan bi çapa mezin ku peyv tenê li alîkî û berjêr in | Dema bêdeng bi qelemê; kesê ku ji puzzle hez dikir |
+| [Coloring](/games/coloring/) | Rûpelên rengkirinê ji bo çapkirinê, an jî rengkirina li ser ekranê | Demeke aram û afirîner; bi alîkariyê di her qonaxê de |
+| [Conversation Cards](/games/conversation-cards/) | Kartên bi wêneyan û pirsên vekirî yên bê ceribandin li gorî mijarê | Serdan, telefon, xwarinên malbatê, komên bîranînan |
+| [Picture Bingo](/games/picture-bingo/) | Kartên bîngoyê bi wêneyan li şûna hejmaran, ligel gazîkerek li ser ekranê | Malên lênêrînê, bernameyên rojê, civînên malbatê |
 
-### Large-print word search
+### Lêgerîna peyvan bi çapa mezin
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) tîpên mezin bi kar tîne û peyvan tenê li alîkî û berjêr dihêle, bêyî peyvên xwar an berevajî. Li ser wê bi hev re bixebitin: kesek peyvekê ji lîsteyê dixwîne, yê din lê digere. Eger dîtina peyvan dijwar bibe, hûn dikarin bi hev re tîpa yekem a her peyvekê dorpêç bikin, an jî bi tenê lîsteya peyvan bi dengekî bilind bixwînin û li ser her peyvekê biaxivin.
 
-### Coloring pages
+### Rûpelên rengkirinê
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Rûpelên [Coloring](/games/coloring/) dikarin ji bo nîşank an qelemên rengîn bên çapkirin, an jî li ser tabletekê bi tikandina rengê û paşê beşek ji wêneyê bên rengkirin. Ji bo rûpelên çapkirî, nîşankên stûr û her carê çend reng pêşkêş bike. Ji bo awayên ku rengkirin ji bo mezinan aram û xweş bimîne, [rêbera huner û destkarî](/activities/arts-and-crafts/) bibîne.
 
-### Conversation cards
+### Kartên axaftinê
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) wêneyekî zelal bi pirsên vekirî re dike yek, wek „Ji min re behsa… bike“ an „Tu çi dibînî?“. Ew wek vexwendinên vekirî hatine nivîsandin, ne wek pirsên ceribandinê. Komekê çap bike, wan ji hev qut bike, û çend heban ji bo serdanan di çenteyekê de an jî li kêleka telefonê ji bo bangan bihêle. Ew di komên [bîranînan](/activities/reminiscence/) de jî baş dixebitin.
 
-### Picture bingo cards
+### Kartên bîngoya wêneyan
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Kartên [Picture Bingo](/games/picture-bingo/) li şûna hejmaran wêneyan bi kar tînin. Ji bo her lîstikvanekê kartek çap bike û gazîkera li ser ekranê li ser laptop, televîzyon an projektorê bi kar bîne. Em pêşniyar dikin ku gazîkirinê bidomînin heta karta her kesî tijî bibe, da ku tu kes li derve nemîne. Ji bo birêvebirina danişînê, [çalakiyên komî ji bo malên lênêrînê](/activities/care-home-groups/) bibîne.
 
-## How do I print activities so they are easy to use?
+## Ez çawa çalakiyan çap bikim da ku karanîna wan hêsan be?
 
-Small changes in how you print make a big difference.
+Guhertinên piçûk di awayê çapkirinê de dikarin gelek alîkar bin.
 
-### Make it easy to see
+### Dîtinê hêsan bike
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Tîpên mezin û sade.** Mezintirîn mîhenga çapê ya ku li ser rûpelê cih digire bi kar bîne. Ji tîpên xemilandî an nivîsa destî dûr bikeve.
+- **Berevajîbûneke zelal.** Rengê tarî li ser kaxiza spî an kremî. Ji paşxaneyên gewrê sivik an rengîn dûr bikeve.
+- **Kaxiza mat** li bin ronahiya zêde ronahiya çavan kêm dike.
+- **Berçavk û ronahiyê kontrol bike.** Alzheimer's Association dibêje ku pirsgirêkên dîtin û bihîstinê dikarin ragihandinê dijwartir bikin, û pêşniyar dike ku ew bi rêkûpêk bên kontrolkirin. Çirayeke ron û wekhev jî alîkar e.
 
-### Make it easy to hold
+### Girtinê hêsan bike
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Kaxiza stûr an karton** rast dimîne, hêsantir tê rakirin, û ji bo bikaranîna dubare baş e.
+- **Klîpbordek** an sermaseyeke nelivok nahêle ku rûpel bilive.
+- **Nîşankên stûr an qelemên qelew** ji qelemên tenik hêsantir tên girtin.
 
-### Make it reusable
+### Ji bo bikaranîna dubare amade bike
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Rûpelan şefaf bipêçe** an wan têxe nav parêzvanên rûpelê yên zelal. Li ser lêgerîna peyvan û kartên bîngoyê nîşankên jêbirbar bi kar bîne, paşê wan paqij bike.
+- **Eger ronahiya çavan pirsgirêk be, kîsên mat hilbijêre**, û **goşeyên kartên şefafkirî bi meqesê girover bike** da ku girtina wan rehet be.
+- **Peldankek ji bijarteyan** bihêle da ku ne hewce be her hefte heman rûpelê çap bikî.
 
-### Keep it simple
+### Sade bihêle
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Her rûpelekê ji bo yek karî.** Lêgerîneke peyvan an wêneyek tenê, ne çend çalakî li ser hev kom bûne.
+- **Cihê spî yê têra xwe.** Rûpelek pir tijî dikare giran xuya bike.
+- **Eger gengaz be, rêwerzên xwendinê nebin.** Li şûna wê, nîşanî kesî bide ka çi bike.
+- **Rûpelan piçûktir bike.** Eger rûpelek tevahî pir zêde be, wê nîvî bike an bipêçîne da ku tenê beşek xuya bibe.
 
-## Other useful printables you can make at home
+## Kîjan çapên din ên bikêr hene ku ez dikarim li malê çêkim?
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ne her çapa bikêr lîstikek e. Ev bi bernameyeke nivîsandinê û çaperekê hêsan têne çêkirin.
 
-### A life-story page
+### Rûpelek çîroka jiyanê
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Rûpelek „derbarê min de“ bi wêneyek, navê ku kes jê hez dike, cihê ku mezin bûye, karê wî, malbat, xwarinên bijarte, muzîk û tiştên ku wî aram dikin an aciz dikin. Dementia Australia [pirtûkeke bîranînan](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) bi hûrgiliyên jiyana kesî, tiştên ku jê hez dike û kesên girîng pêşniyar dike, da ku alîkariya mêvan û lênêrvanan bike û dest bi axaftinê bike.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Ew bi taybetî di nexweşxane û hawîrdorên nû yên lênêrînê de bikêr e. NIA pêşniyar dike ku karmendên nexweşxaneyê [rûpelek agahiyên kesane](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) werbigirin ku tê de rêza rojane ya kesî, navê bijarte, tiştên ku jê hez dike û jê hez nake, tiştên ku dikarin aciz bikin, û nîşanên ne devkî yên êşê hene.
 
-### A daily schedule
+### Bernameyeke rojane
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Bernameyeke rojane ya mezin û sade bi deman, çend peyvan û wêneyekî piçûk ji bo her beşê: taştê, meş, firavîn, bêhnvedan, muzîk, şîv. [Plana lênêrîna rojane](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ya Alzheimer's Association pêşniyar dike ku li gorî demên herî baş ên rojê yên wî kesî were plansazkirin, bi demên birêkûpêk ên şiyarbûn û razanê û hevsengiyek di navbera çalakî û bêhnvedanê de. Wê li asta çavan daliqîne, belkî li ser sarincokê, û nerm bihêle. Ji bo bêtir agahî [rêbera rêza rojane](/activities/daily-routine/) bibîne.
 
-### Picture labels for rooms and drawers
+### Etîketên bi wêneyan ji bo ode û kişikan
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA pêşniyar dike ku ji bo [nîşankirina serşok, jûreya razanê û mitbaxê](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) nîşanên bi rengên geş an wêneyên sade bên bikaranîn. Heman raman ji bo kişik û dolaban jî dixebite: wêneyek goreyan li ser kişika goreyan, fincan li ser dolaba fincanan. Çap bike, şefaf bipêçe û pê ve bike.
 
-### A sorting set
+### Komek ji bo rêzkirinê
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Wêneyan ji du kategoriyên sade çap bike, wek fêkî û kulîlk an amûr û tiştên mitbaxê, li ser kartonê. Wan ji hev qut bike û bi hev re di du selikan de rêz bikin. Guhertoya vê li ser ekranê [Sort Together](/games/sort-together/) e.
 
-### Song lyric sheets
+### Rûpelên gotinên stranan
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Gotinên çend stranên bijarte bi tîpên pir mezin çap bike ji bo stran gotina bi hev re. Tewra kesên ku êdî pir naxwînin jî dikarin ji girtina rûpelê kêfê bistînin.
 
-### A family photo page
+### Rûpelek wêneyên malbatê
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Rûpelek bi çar heta şeş wêneyên mezin ên malbatê, û li binê her yekê navekî piçûk. Ew dikare li ser masê bimîne da ku her kes bikaribe wê rake û li ser wê biaxive. Etîket alîkariya mêvan û karmendan dikin ku beşdarî axaftinê bibin, û ne hewce ye ku kesek bipirse „Ev kî ye?“
 
-### A recipe card
+### Karteke reçeteyê
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Reçeteyeke bijarte ya malbatê bi tîpên mezin çap bike. Wê ji bo pijandina bi hev re bi kar bîne, an jî tenê ji bo axaftina li ser xwarinên berê.
 
-## How do I offer a printable without it feeling like homework?
+## Ez çawa çalakiyeke çapkirî pêşkêş bikim bêyî ku wek spartek xuya bike?
 
-Present it as something to share, not a test.
+Wê wek tiştekî ji bo parvekirinê pêşkêş bike, ne wek ceribandinek.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Rûne û bi xwe dest pê bike.** „Ez vê lêgerîna peyvan dikim. Tu dixwazî alîkariya min bikî ku ‘baxçe’ bibînim?“
+- **Bi hev re bixebitin.** Dor bigirin, an jî kesek bibîne û yê din dorpêç bike.
+- **Tu carî rast an xelet nîşan neke.** Rêbera [çalakiyên li malê](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ya Alzheimer's Association şîret dike ku bala xwe bidin pêvajoyê, ne encamê, û li kêfê bisekinin, ne serketinê.
+- **Rûpelan li ber çavan bihêle.** Heman rêber pêşniyar dike ku pirtûkên bîranînan, albûmên wêneyan an kovarên kevn li cihên ku hêsan tên gihîştin bihêlin. Kartên çapkirî û rûpelên wêneyan jî dikarin bi heman awayî li ser maseyekê bimînin.
+- **Her kengê bixwazî raweste.** Nîvê rûpelek rengkirinê dikare bibe piştîniyazekê xweş. Danîna rûpelê li alîkî û vexwarina çayekê jî baş e.
 
-## Where to find more
+## Li ku derê bêtir bibînim
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Hemû [lîstik û çapên me](/games/) bibîne, an jî [çalakiyên ji bo her qonaxê](/activities/ideas/) bibîne ji bo bêtir ramanan, bi kaxiz an bêyî wê.

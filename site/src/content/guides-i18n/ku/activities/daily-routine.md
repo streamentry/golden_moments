@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Rûtîneke rojane ya nerm ji bo kesê bi dementia re"
+seoTitle: "Rûtîna rojane ya dementia: Nimûneyeke nerm"
+description: "Nimûneyeke rojane ya nerm ji bo kesê ku bi dementia dijî, bi xwarin, çalakî û bêhnvedanê, û çawa wê li gorî rojên dijwar biguherînî."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Rûtîneke rojane ya nerm demên şiyarbûnê, xwarinan, lênêrîna kesane û razanê
+  di demên wekhev de dihêle, çalakiya sereke dixe dema ku kes herî zînde ye,
+  û di navbera çalakî û bêhnvedanê de hevsengiyekê çêdike. Wê li gorî adetên
+  jiyana kesê ava bikin, wê sist bihêlin ne ku tijî be, her roj ronahiya rojê
+  û tevgerê tê de bikin, û gava roj wisa dixwaze planê bi azadî biguherînin.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Demên aram ji bo şiyarbûn, xwarin, lênêrîn û razanê şêweyekî nas didin rojê."
+  - "Çalakiya sereke bixin dema baştirîn a rojê ya kesê, gelek caran sibehê."
+  - "Her deqîqeyekê tije nekin. Bêhnvedan û demên aram jî beşek ji rûtînê ne."
+  - "Ronahiya rojê, tevgera rojane û dûrketina ji xewên dirêj ên dereng û kafeyîna dereng dibe ku bi bêaramiya dawiya rojê re bibin alîkar."
+  - "Rûtîn rêberek e, ne qaîdeyek e. Di rojên dijwartir de her tiştî biguherînin, kurt bikin an jî bavêjin."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Çima rûtîn ji bo kesê ku bi dementia dijî alîkar e?"
+    a: "Rojeke ku mirov pêşbînî dike tê wateya kêmtir biryar û kêmtir şaşbûn, ku gelek kesên ku bi dementia dijîn wê aramker dibînin. Alzheimer's Association dibêje ku rojeke plankirî dihêle hûn kêmtir dem li ser fikirîna ku çi bikin derbas bikin û bêtir dem li ser tiştên ku hûn herdu jê kêfê digirin derbas bikin. Ew di heman demê de alîkariya lênêrkeran dike ku roja xwe jî birêkûpêk bikin."
+  - q: "Bernameyeke rojane ya baş ji bo kesê ku bi dementia dijî çawa ye?"
+    a: "Bernameyeke yekgirtî ya rast tune ye. Bernameyeke baş demên şiyarbûnê, xwarinan û razanê di demên wekhev de dihêle, lênêrîna kesane û çalakiya sereke dixe dema ku kes di rewşa xwe ya baştirîn de ye, dem ji bo derve an li kêleka paceyê dihewîne, û ji bo bêhnvedanê jî cih dihêle. Wê li gorî awayê ku kes her tim jiyaye ava bikin."
+  - q: "Gelo baş e ku kesê ku bi dementia dijî di nîvê rojê de razê?"
+    a: "Bêhnvedaneke kurt dikare alîkar be, bi taybetî piştî firavînê. National Institute on Aging pêşniyar dike ku ji xewên dirêj û xewa dereng a rojê dûr bikevin, ji ber ku pir westiyayîbûn an jî têra xwe bêhnvenebûn dikare li bêaramiya dawiya rojê zêde bike. Ger xew bi rastî pirsgirêk be, bi bijîşkê wan re biaxivin."
+  - q: "Ger ew nexwazin li gorî rûtînê bimeşin çi bikin?"
+    a: "Ji bo niha wê berde û paşê an jî bi awayekî din dîsa biceribîne. Nexwestin dikare were wateya ku ew westiyayî ne, nexweş in, êşê dikişînin an jî bi tenê amade ne. Rûtîn heye ku rojê hêsantir bike, ji ber vê yekê wê li gorî rewşê biguherînin ne ku zorê bidin."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Rûtîneke nerm şêweyekî nas dide rojê: şiyarbûn, xwarin, piçek çalakî, bêhnvedan û razanê bi gelemperî di heman deman de. Ew biryar û şaşbûnên neçaverêkirî kêm dike, û ji bo wan demên ku hûn nizanin çi bikin planekê dide we. Rûtîna li jêr nimûneyek e, ne qaîdeyek e. Wê wekî xalek destpêkê bi kar bînin, paşê li gorî kesê ku hûn lê dinihêrin şekil bidin.
 
-## Why does a daily routine help?
+## Çima rûtîneke rojane alîkar e?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Rûtîneke aram alîkar e ji ber ku şêweyên nas ji yên nû hêsantir têne şopandin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) dibêje ku rojeke plankirî tê wateya kêmtir dema ku li ser biryardana çi bikin tê derbas kirin û bêtir dem ji bo çalakiyên kêfxweş, û destnîşan dike ku demên birêkûpêk ji bo şiyarbûn û razanê dibe ku bi pirsgirêkên xewê û bêaramiya dawiya rojê re bibin alîkar. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) pêşniyar dike ku serşok, lixwekirin û xwarin di heman deman de her roj, wekî beşek ji jîngeheke aram, werin kirin, û [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) jî pêşniyar dike ku heman rûtîn werin domandin.
 
-## A sample gentle day
+## Nimûneyeke rojê ya nerm
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Dem tenê mînak in. Tevahiya rojê zûtir an derengtir bikin da ku li gorî rîtma xwe ya kesê be.
 
-| Time | What happens | Ideas | On a harder day |
+| Dem | Çi diqewime | Raman | Di rojeke dijwartir de |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Şiyarbûn, şuştin, lixwekirin | Her roj heman rêz; cil û bergan li gorî rêza lixwekirinê amade bikin | Lênêrînê sade bihêlin; kirasek nû bes e |
+| 8:45 a.m. | Taştê | Qehwe û xwendina rojnameyê bi dengekî bilind, an radyoyê | Bi hev re bi aramî bixwin, bê zexta axaftinê |
+| 9:30 a.m. | Çalakiya sereke | Çîmentoyan qat kirin, nanpêjandin, baxçe, gerînek kurt an meş | Guhertoyeke kurttir, an jî bihêlin dema hûn dikin temaşe bike |
+| 10:30 a.m. | Dema aram | Muzîk, albûmek wêneyan, an rûniştina li kêleka paceyê | Li ser kursiyeke bijarte bêhnvedanê |
+| 11:00 a.m. | Alîkariya firavînê | Sebzeyan şuştin, amadekirina maseyê | Hûn xwarinê çêdikin; ew bi we re ye |
+| 12:00 p.m. | Firavîn û paqijkirin | Paqijkirina maseyê, zuwakirina çend firaxan | Karên malê bavêjin |
+| 1:00 p.m. | Bêhnvedaneke kurt | Ling bilindkirin, muzîka nerm | Heman tişt |
+| 2:00 p.m. | Derve an çalak | Meş, rûniştina li eywanê, avdana riwekan, avêtina balonekê | Li kêleka paceyeke bi tav rûnin |
+| 3:00 p.m. | Civakî an afirîner | Serdanek, telefon, [picture pairs](/games/picture-pairs/), rengkirin, qert | Bi hev re vexwarin û tiştekî sivik |
+| 4:30 p.m. | Dema aramkirinê | Perde girtin, çira pêxistin, karekî aram wek qatkirina destmalan | Muzîka nas, dengê kêm |
+| 5:30 p.m. | Şîv | Alîkariya tevlihevkirinê an amadekirina maseyê | Xwarinên sade û nas |
+| 6:30 p.m. | Êvara bi hev re | Bîranînan li ser şîraniyê, qert, bernameyeke bijarte, masajeke destan | Hevberiya aram |
+| 8:00 p.m. | Rûtîna razanê | Serşok an şuştin, kincên razanê, muzîka nerm, ronahiya kêm | Her tiştî kurt bikin; rehetiyê pêşî bikin |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ev nimûne li gorî şêweya plana nimûne ya Alzheimer's Association ji bo qonaxên destpêkê û navîn tê, ku ji lênêrîna kesane û taştê dest pê dike û bi karên malê, meş, muzîk, bêhnvedan û serdanan berdewam dike heta şîv, bîranîn û amadebûna ji bo razanê.
 
-## How do you build your own routine?
+## Hûn çawa rûtîna xwe ava dikin?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Ji awayê ku kes her tim jiyaye dest pê bikin, ne ji nexşeyekê. Alzheimer's Association pêşniyar dike ku berî plankirinê li van tiştan bifikirin:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Tiştên ku ew hez dike, hez nake, hêz û eleqeyên wî.**
+- **Wê berê rojê çawa derbas dikir.** Kesê ku her tim zû radibû û bi kûçikê re dimeşa divê hê jî zû bimeşe. Kesê ku şevê zîndetir bû dibe ku tu carî ji destpêkeke 8:00 a.m. kêfê negire.
+- **Dema baştirîn a rojê ya wî.** Serşok, derketin û çalakiya sereke bixin wê demê.
+- **Demeke têr** ji bo xwarin, şuştin û lixwekirin, da ku tişt bi lez û bez nebin.
+- **Demên birêkûpêk ji bo şiyarbûn û razanê.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Heman çavkanî pêşniyar dike ku tevliheviyek ji karên malê, xwarinan, lênêrîna kesane, çalakiyên afirîner, çalakiya laşî, dema civakî, çalakiya giyanî û demên bêplan, wek serdana hevalekî, tê de hebe.
 
-### Try it for a week, then adjust
+### Hefteyekê biceribînin, paşê eyar bikin
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Her roj noteke sade bigirin. Alzheimer's Association pêşniyar dike ku bipirsin kîjan çalakî çêtirîn bûn û çima, gelo dem hebûn ku pir tişt diqewimin an jî pir hindik tişt hebûn, û gelo planên bêplankirî kêfxweş bûn an jî bûn sedema fikaran. Tiştên ku dixebitin bihêlin û yên ku naxebitin biguherînin.
 
-### Make it visible
+### Wê xuya bikin
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Ger kes hîn jî dikare bixwîne, tabloyeke spî an qertek bi nivîsa mezin a plana rojê dikare aramker be. Wê kurt bihêlin: «Taştê. Meş bi Sarah re. Firavîn. Bêhnvedan.» Hin kes çêtir in dema ku ji pêş de pir tişt nizanin; Family Caregiver Alliance pêşniyar dike ku heke plan bibe sedema fikaran, tenê demek kurt berî ku çêbibin li ser wan biaxivin.
 
-## How to adapt the routine
+## Meriv çawa rûtînê li gorî rewşê diguherîne
 
-### Leave room to breathe
+### Ji bo bêhnvedanê cih bihêlin
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Her deqîqeyekê tije nekin. Alzheimer's Association tekez dike ku kes pêdiviya wî bi hevsengiya di navbera çalakî û bêhnvedanê de heye û dibe ku pêdiviya wî bi navberên bêhnvedanê yên zêdetir hebe. Ger ew bêzar, bêbaldar an jî aciz xuya bike, çalakiyê biguherînin an jî bêhnvedanê bidin.
 
-### Protect the late afternoon
+### Dawiya nîvro biparêzin
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Gelek kes dema ku ronahiya rojê kêm dibe bêtir bêaram dibin. NIA pêşniyar dike ku her roj dem li derve an li kêleka paceyê ji bo ronahiya rojê derbas bikin, her roj çalak bin bêyî ku pir tişt plan bikin, ji kafeyn û alkolê di demên dereng ên rojê de dûr bisekinin, û ji xewên dirêj ên dereng ên rojê dûr bikevin. Hin malbat dibînin ku girtina perdê û pêxistina çirayan berî tarîbûnê jî alîkar e. [Bêaramiya dawiya rojê](/caregiving/late-day-restlessness/) û [xew](/brain-health/sleep/) bibînin.
 
-### Change it as needs change
+### Li gorî guherîna hewcedariyan wê biguherînin
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Qonaxa destpêkê:** rûtînê bi hev re plan bikin. Dibe ku kes bixwaze bernameyeke nivîskî hebe ku bi xwe birêve bibe.
+- **Qonaxa navîn:** hûn bêtir rêberiyê dikin. Çalakiyên kurttir, bêtir bêhnvedan û gelek karên nas; [çalakiyên qonaxa navîn](/activities/middle-stage/) bibînin.
+- **Qonaxa dawî:** rûtîn li ser rehetiyê, xwarinan û lênêrînê disekine, bi demên hestî yên kurt ên wek muzîk an masaja destan di navberê de; [çalakiyên qonaxa dawî](/activities/late-stage/) bibînin.
 
-### Vary the activities, not the frame
+### Çalakiyan biguherînin, ne çarçovê
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Xwarin, bêhnvedan û dema razanê aram bihêlin, û çalakiyên di navberê de biguherînin. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pêşniyar dike ku ji bo ku tişt balkêş bimînin di rojên cuda de çalakiyên cuda biceribînin. Dibe ku hûn duşemê nan bipêjin, sêşemê li baxçê bixebitin û çarşemê li wêneyan binêrin. [101 ramanên çalakiyê](/activities/ideas/) û [karên malê](/activities/household-tasks/) dikarin van cihan dagirin.
 
-## When the day goes sideways
+## Gava roj li gorî planê naçe
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Hin roj dê li gorî ti planekê neçin. Nexweşî, şeveke xirab, serdana bijîşkê an guherîna hewayê dikare her tiştî têk bibe. Planê bavêjin, tiştên bingehîn (xwarin, vexwarin, bêhnvedan, rehetiyê) biparêzin û sibê dîsa biceribînin. Ger kes tiştekî red bike, [gava ew dibêje na](/caregiving/when-they-say-no/) bibînin. Rawestaneke bêhnkişandina hêdî ya bi hev re, wek [bêhnkişandina aram](/games/calm-breathing/), dikare alîkariya we herduyan bike ku dîsa aram bibin.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Rûtîna we jî girîng e. Ji bo xwe navberên bêhnvedanê têxin nav planê, û ji malbatê an jî ji karûbareke bêhnvedanê bixwazin ku demên we yên birêkûpêk bigirin. [Xwe lênêrîna lênêrkeran](/caregiving/caregiver-self-care/) bibînin.

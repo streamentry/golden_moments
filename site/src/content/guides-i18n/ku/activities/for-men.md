@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Çalakî ji bo mêrên ku bi bîrbirêkê dijîn"
+seoTitle: "Çalakî ji bo mêrên bi bîrbirêkê: Ramanan ji jiyanê"
+description: "Ramanên çalakiyê ji bo mêrên ku bi bîrbirêkê dijîn, li gorî kar, hobî û rûtînên wan, ligel şîretên ji bo guhertina her yekê bi awayekî ewle."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Baştirîn çalakî ji bo mêrekî ku bi bîrbirêkê dijî ji jiyana wî bi xwe tên:
+  karê ku wî kiriye, hobiyên ku wî hez kirine û rûtînên rojane yên wî. Kesê ku
+  berê li ofîsê dixebitî dibe ku ji rêzkirina kaxezan kêfê bike, mekanîkek dibe
+  ku ji destgirtina amûrên paqij kêfê bike, û hezkirekî werzîşê dibe ku ji
+  lîstikekî kevn kêfê bike. Eleqe ji mêrekî bo mêrekî cuda ne, ji ber vê yekê
+  ji kesê bi xwe dest pê bikin, ne ji zayenda wî.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Ji çîroka jiyana vî mêrî dest pê bikin: karê wî, hobiyên wî, rûtînên wî û tiştên ku wî bi wan serbilind bû."
+  - "Karên ku armanceke rastîn hene, wek rêzkirina amûran, şuştina erebeyê an jî zîmkirina darê, pir caran ji çalakiyên ku wek dersê xuya dikin bêtir balkêş in."
+  - "Ne her mêr ji amûran an werzîşê hez dike. Gelek ji xwarinpêjandinê, muzîkê, baxçevaniyê, hunerê an lênihêrîna kesên din kêfê digirin. Bipirsin, temaşe bikin û rêberiya wî bişopînin."
+  - "Karên wekî karê berê bi rakirina amûrên tûj û bi çavdêriyê ewle bikin, û her ku şiyan diguherin wan hêsantir bikin."
+  - "Gotina na baş e. Rôleke pêşkêş bikin, ne erkekî, û rojeke din dîsa biceribînin."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Mêrên ku bi bîrbirêkê dijîn ji kîjan çalakiyan kêfê digirin?"
+    a: "Lîsteyek yekane tune ye, ji ber ku eleqeyên mêran wekî yên her kesî cuda ne. Xalên baş ên destpêkê karên girêdayî karê wî yê berê ne, wek rêzkirina kaxezan an jî rêzkirina gûz û pêçokan, ligel hobiyên ku wî hez kirine, wek masîgirî, erebe, muzîk, xwarinpêjandin an werzîş. Temaşe bikin ku ew bi xwe çi dike û li ser wê ava bikin."
+  - q: "Bavê min çalakiyên komî red dike. Ez dikarim çi bikim?"
+    a: "Gelek kes, mêr û jin jî, çalakiyên ku wek dersê xuya dikin an jî zarokanî tên dîtin red dikin. Li şûna wê karekî pêşkêş bikin: «Tu dikarî alîkariya min bikî ku ez van rêz bikim?» Komên piçûktir an dema yek bi yek jî dibe ku ji jûreyeke mezin rehettir bin."
+  - q: "Gelo ewle ye ku ez bihêlim ew amûran bi kar bîne?"
+    a: "Tenê bi çavdêrî û bi amûrên ewle. Amûrên bi hêz, tîrêjan û her tiştê tûj rake û karên wekî zîmkirina perçeyek darê, rêzkirina amûrên paqij, an jî bi destan tengkirina pêçokên mezin pêşkêş bikin. Alzheimer’s Association pêşniyar dike ku tiştên xeternak ji atolyeyê werin rakirin da ku karekî wek zîmkirinê dîsa jî bi ewlehî were kirin."
+  - q: "Ew pispor bû. Gelo karên hêsan dê wî aciz nekin?"
+    a: "Dibe ku wisa bibin eger wekî karê vala werin pêşkêşkirin. Karê wekî alîkariyeke rastîn nîşan bidin, materyalên ji bo mezinan bi kar bînin, û tiştekî nêzî rola wî ya kevn hilbijêrin, wekî nirxandina lîsteyekê, rêzkirina dosyayekê an alîkariya amadekirina posteyê. Eger ew di tiştekî de pir jêhatî bû, çalakiyeke girêdayî lê cuda dibe ku kêmtir wekî berhevdanê were hîskirin."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Gelek kes li «çalakî ji bo mêrên ku bi bîrbirêkê dijîn» digerin ji ber ku pêşniyarên asayî wekî ku bi mêrikê di jiyana wan de ne guncaw xuya dikin. Ev fikareke têgihîştî ye. Lê bersiv ne lîsteyeke çalakiyên «mêrane» ye. Bersiv ew e ku hûn ji vî mêrê taybet dest pê bikin: ew çi kar dikir, dawiya hefteyê çi dikir, û çi wî hîs dikir ku kêrhatî ye. Eleqe ji bo her kesî cuda ne. Gelek mêr ji xwarinpêjandinê, baxçevaniyê, wênesaziyê an stranbêjiyê hez dikin, û gelek jin jî ji erebe û bejsbolê hez dikin.
 
-## How do I find activities he will actually enjoy?
+## Ez çawa dikarim çalakiyên ku ew bi rastî jê kêfê bigire bibînim?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Bi çîroka jiyana wî dest pê bikin. Alzheimer’s Association pêşniyar dike ku [plana rojane](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) li gorî tiştên ku kes jê hez dike û jê hez nake, hêz û eleqeyên wî, û awayê ku wî berê roja xwe saz dikir were çêkirin. Ji xwe bipirsin:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Karê wî çi bû?** Ofîs, cotkarî, kargeh, pîşe, leşkerî, firotin, mamostetî, ajotin, an jî mal?
+- **Di dema xwe ya vala de çi dikir?** Masîgirî, qert, daristanî, werzîş, dêrê, muzîk, xwarinpêjandin, an erebeyek di garajê de?
+- **Rûtînên wî çi bûn?** Her sibeh qehwe û rojname? Kontrolkirina hewayê? Şemiyan şuştina erebeyê?
+- **Ew hîn jî bi xwe dest bi çi dike?** Alzheimer’s Association dibêje ku eger kes bêyî ku were xwestin dest bi karan bike, wekî paqijkirina erdê, ev kar dikarin bibin beşek ji rûtînê.
+- **Ew ji çi dûr dikeve?** Hin kes ji temaşekirina werzîşê kêfê digirin; hinên din lez û deng wan aciz dike. Bala xwe bidin ka kengê ew kêfxweş, bi fikar an bêhêvî xuya dike.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Her wiha bi malbat û hevalên kevn re jî biaxivin. Dibe ku ew eleqeyên ku ji jiyana rojane winda bûne bîr bînin.
 
-## Activity ideas based on past work
+## Ramanên çalakiyê li gorî karê berê
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer’s Association mînakeke zelal dide: kesê ku berê li ofîsê dixebitî dibe ku ji karên rêkxistinê kêfê bike, wek danîna pereyan di qutîkekê de, alîkariya amadekirina posteyê an çêkirina lîsteya karan, dema ku cotkarek an baxçevanek berê dibe ku ji xebata li hewşê kêfê bike. Heman raman ji bo gelek karan jî derbas dibe.
 
-| Past work | Activity ideas | Simpler version |
+| Karê berê | Ramanên çalakiyê | Guhertoya hêsantir |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Ofîs an karsazî | Rêzkirina kaxezan di dosyeyan de, danîna mohrê li ser zerfan, nirxandina lîsteyekê, rêzkirina kişandina maseyê | Danîna zerfan li ser hev; danîna gîreyên kaxezê di qutîkekê de |
+| Pîşe an mekanîkî | Rêzkirina gûz, pêçok û rondelayên paqij; bi destan tengkirina pêçokên mezin; nêrîna katalogan | Rêzkirina li gorî mezinahiyê di du tasan de |
+| Cotkarî an baxçevanî | Avdana nebat, çandina nebat, komkirina pelan, kontrolkirina baxçê | Dema ku hûn dixebitin li derve rûniştin; girtina pakêtên tovan |
+| Leşkerî | Birûskirina pêlavan, rêzkirina kişandina maseyê, eger jê kêfê bike nêrîna wêneyên ji wextê xizmetê | Guhdariya muzîka wê demê |
+| Firotin an xizmeta xerîdar | Pêşwaziya mêvanan, belavkirina xwarinên sivik, rêzkirina kuponan | Li derî rûniştin ji bo silavkirinê |
+| Mamostetî | Xwendina bi dengekî bilind, rêzkirina pirtûkan, rêzkirina wêneyan li gorî mijarê | Bi hev re li pirtûkeke wêneyî nêrîn |
+| Ajotin an veguhastin | Nêrîna nexşeyan an kovarên erebeyan, şuştina erebeyê | Ji eywanê temaşekirina erebeyên derbasbûyî |
+| Mal û malbat | Çemandina cilan, amadekirina maseyê, alîkariya xwarinçêkirinê | Rastkirina destmalan; tevlihevkirina xwarinê |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Hin bîranîn, wekî xizmeta leşkerî, dikarin hestên xurt derxin holê. Rêberiya wî bişopînin, axaftina li ser borî erênî bihêlin, û eger ew xemgîn xuya bike bi nermî mijarê biguherînin.
 
-## Activity ideas based on hobbies
+## Ramanên çalakiyê li gorî hobiyan
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Daristanî.** Zîmkirina perçeyek darê ya nerm an boyaxkirina kîteke mala çûkan. Alzheimer’s Association pêşniyar dike ku materyal û amûrên xeternak ji atolyeyê werin rakirin da ku çalakiyek wek zîmkirin kêfxweş û ewle bimîne.
+2. **Masîgirî.** Rêzkirina qutîka alavên masîgiriyê bêyî çenge, nêrîna kovarên masîgiriyê, an jî bi hev re li kêleka golê rûniştin.
+3. **Erebe.** Şuştina erebeyê, birûskirina kromê, nêrîna wêneyên erebeyên klasîk, an jî wek rêwî çûyîna gerê.
+4. **Werzîş.** Temaşekirina lîstikekî klasîk an kurtejiyan, avêtina topekî nerm, danîna topên golfê li ser xalîçeyê, an rêzkirina kartên bejsbolê.
+5. **Qert û lîstik.** Destek hêsan ji lîstikeke qertê ya nas, domîno, an jî zivirandina qertan ji bo dîtina heman cotê. Wê aram bihêlin û jimartina pûanan berde.
+6. **Muzîk.** Stranên ji temenên wî yên ciwanî, komeke muzîkê ya bijare, an straneke olî. Rêbera me ya [çalakiyên muzîkê](/activities/music/) bibînin.
+7. **Xwarinpêjandin û grîlkirin.** Şuştina sebzeyan, tevlihevkirina sosê, şekildana burgeran, an jî dema ku hûn wê çêdikin, şîrovekirina ka wî çawa çîliya xwe ya navdar çêdikir.
+8. **Rojname.** Alzheimer’s Association dibêje ku kesê ku her dem rojname dixwend dibe ku hîn jî jê kêfê bike, her çend nikaribe bi tevahî naverokê bişopîne jî. Qehwe û rojname dikarin beşek ji sibehê bimînin.
+9. **Avakirin.** Kîtên modela bi perçeyên mezin an jî setên avakirina hêsan ji bo mezinan. Perçeyên ku bi hêsanî têne girtin hilbijêrin.
+10. **Lênihêrîna tiştekî.** Xwedîkirina heywanekî, tijîkirina xwarina çûkan, an avdana nebat. NIA di nav çalakiyên ku dibe ku kes jê kêfê bibin de [xwedîkirin, paqijkirin an meşandina heywanekî](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) navnîş dike.
 
-## How do I offer an activity without it feeling like busywork?
+## Ez çawa dikarim çalakiyekê pêşkêş bikim bêyî ku wekî karê vala were hîskirin?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Wê wekî alîkariyeke rastîn pêşkêş bikin. Alzheimer’s Association pêşniyar dike ku hûn bipirsin «Tu dikarî ji kerema xwe alîkariya min bikî?» û karan bi armancekê ve girê bidin. Berhev bikin:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Tu dixwazî van pêçokan rêz bikî?» (wek ceribandinê tê bihîstin)
+- «Min kîsek amûrên tevlihev kirî û berî ku ez refikê tamîr bikim divê ez van rêz bikim. Tu dikarî alîkariya min bikî?» (wek karekî rastîn tê bihîstin)
 
-Other tips:
+Şîretên din:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Materyalên ji bo mezinan bi kar bînin.** Amûrên rastîn ku devên tûj hatine rakirin, katalogên rastîn, zerfên rastîn.
+- **Li kêleka hev bixebitin.** Du kesên ku li ser karekî dixebitin hevaltî ye. Kesek ku tenê li kesê din temaşe dike çavdêrî ye.
+- **Rast neke.** Eger pêçok bikevin tasa şaş, bila wisa bimîne. Ya girîng dema ku bi hev re derbas dibe û hesta kêrhatîbûnê ye.
+- **Alîkariya destpêkirinê bikin.** Alzheimer’s Association dibêje ku gelek kes hîn jî dixwazin tiştan bikin lê di rêkxistin û destpêkirinê de zehmetiyê dikişînin. Yekemîn bi hev re bikin.
 
-## How do I adapt as things change?
+## Her ku tişt diguherin ez çawa wan li hev bikim?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Her ku bîrbirêk pêş dikeve, Alzheimer’s Association pêşniyar dike ku karên hêsantir û dubareker werin destnîşan kirin û amade bin ku kes roleke kêmtir çalak bigire. Mêrekî ku carekê motoran ji nû ve çêdikir dibe ku niha ji girtina amûrekî paqij û axaftina li ser erebeyan, an jî temaşekirina karê we kêfê bike. Temaşekirin jî beşdarbûn e.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Eger ew di tiştekî de pir jêhatî bû, çalakiyeke girêdayî dibe ku ji karê wî yê kevn baştir be. Alzheimer’s Association dibêje ku hunermendekî pispor dibe ku ji guherînên di karê xwe de aciz bibe, dema ku kesekî amator dibe ku ji rêyeke nû kêfê bike. Ev ji bo daristanekî jêhatî jî wisa ye.
 
-## Safety with work-style tasks
+## Ewlehî di karên wekî karê berê de
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Amûrên bi hêz, tîrêj, neynûk û pêçokên bi serê tûj rake.
+- Tinerê boyaxê, benzîn û madeyên kîmyewî bi kilît bigire.
+- Eger ew êdî ajotinê nake, kilîtên erebeyê ji ber çavan dûr bigire.
+- Hemû karên atolyeyê û hewşê bi çavdêrî bikin.
+- Perçeyên mezin hilbijêrin ku nikaribin bên daqurtandin.
 
-## What if he says no?
+## Eger ew bêje na çi bikin?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Rêz lê bigirin. Gotina na dibe ku were vê wateyê ku kar pir dijwar e, pir zarokanî xuya dike, an jî îro ne guncaw e. Alzheimer’s Association hişyar dike ku zorê lê nekin. Karekî din, demeke din biceribînin, an jî tenê bi hev re rûnên. Bibînin [dema ku ew dibêjin na çi bikin](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Lîstik û sohbetên guncaw
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) gotinên pêşiyan ên nas bi kar tîne û rê dide sohbetê. [Conversation Cards](/games/conversation-cards/) pirsên vekirî û bê ceribandin li gorî mijaran hene, ku dikarin derî li çîrokên derbarê kar û hobiyan vebikin. [Picture Puzzle](/games/picture-puzzle/) tevahiya wêneyê xuya dihêle dema ku hûn perçeyan diguherînin, û [Word Search](/games/word-search/) ya bi tîpên mezin dikare were çapkirin û li maseya mitbaxê bi pênûsê were kirin. Ji bo rêyên axaftina li ser boriyê wî bêyî ceribandina wî, rêbera me ya [bîranînan](/activities/reminiscence/) bibînin.

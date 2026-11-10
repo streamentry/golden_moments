@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Serdana Kesê bi Demansê li Lênêrîn an Nexweşxaneyê"
+seoTitle: "Serdana Kesê bi Demansê: Çi Bikin û Çi Bînin"
+description: "Dema ku hûn serdana kesekî bi demansê li lênêrîna bîranînê, mala lênêrînê an nexweşxaneyê dikin: çi bînin, çalakiyên hêsan, serdanên kurt û xatirxwestina aram."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Dema ku hûn serdana kesekî bi demansê li lênêrîna bîranînê an nexweşxaneyê
+  dikin, wê hêsan bihêlin: dema ku hûn digihîjin navê xwe bibêjin, tiştekî ji
+  bo parvekirinê wekî wêne, muzîk an xwarinekî bijare bînin, û bi hev re tiştekî
+  hêsan bikin. Pir caran serdanên kurt û birêkûpêk ji yên dirêj û kêm çêtir
+  derbas dibin. Ji bo xatirxwestinê planek aram û domdar çêkin da ku çûn ji bo
+  we her duyan hêsantir bibe.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Bi navê wî an wê silav bikin û bibêjin hûn kî ne, da ku ew neçar nemîne texmîn bike: «Silav dayê, ez Susan im, keça te.»"
+  - "Yek an du tiştên ji bo parvekirinê bînin, wekî albûmek wêneyan, muzîka bijare, betaniyek nerm an xwarinek ku karmend pejirandine."
+  - "Pir caran serdanên kurt û birêkûpêk ji yên dirêj û kêm çêtir derbas dibin. Hebûna we ji tiştên ku hûn dibêjin girîngtir e."
+  - "Li nexweşxaneyê, rûpelek agahiyan li ser kesê bide karmendan û ger guherînek ji nişka ve çêbibe yekser ji bijîşk re bibêje."
+  - "Ji bo çûnê plan bikin: bibêjin hûn dikarin çiqas bimînin, her carê heman xatirxwestinê bikar bînin, û bêyî dirêjkirinê herin."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Dema ku ez serdana kesekî bi demansê dikim divê ez çi bînim?"
+    a: "Tiştekî ji bo parvekirinê bînin, ne tiştekî ku li ser wê bê axaftin. Albûmek biçûk a wêneyan, lîsteyek stranên wî an wê yên bijare, betaniyek nerm, losyona destan, kovarek li ser hobiyek kevn, an xwarinek ku karmend pejirandine dikarin baş bin. Li mala lênêrînê, wêneyên malbatê û tiştên nas dikarin bibin alîkar ku ode bêtir wekî malê hîs bibe."
+  - q: "Dema ku ez serdana kesekî bi demansê dikim divê ez çiqas bimînim?"
+    a: "Dirêjahiya rast tune ye. Gelek malbat dibînin ku serdanên kurttir û pir caran ji yên dirêj û kêm çêtir dixebitin, ji ber ku dibe ku kes zû westiya bibe û dibe ku bi bîr neyne hûn çiqas man. Nîşaneyên westandinê bibînin û dema ku serdan hîn xweş e herin."
+  - q: "Ger ew bixwaze here malê ez çi bibêjim?"
+    a: "Bersivê bidin hestê, ne peyvan. «Ez dixwazim herim malê» pir caran tê wateya «Ez xwe rehet an ewle hîs nakim.» Biceribînin bibêjin: «Ji min re li ser mala xwe bêje», bi hev re li wêneyan binêrin, an meşek kurt an xwarinek pêşniyar bikin. Nîqaşkirin an ravekirina ku çima ew nikare here pir caran xemgîniyê zêde dike."
+  - q: "Ger ew min nas neke çi?"
+    a: "Dibe ku ev êş bide, lê hewl nedin wan rast bikin an nepirsin «Tu nizane ez kî me?» Xwe bi germî û bi hêsanî bidin nasîn û tenê ji dema bi hev re kêf bikin. Gelek kes hîn jî ji hevaltîyê kêfê digirin û germiya serdanê hîs dikin, her çend nikaribin bizanin hûn kî ne."
+  - q: "Ez dikarim di dema mayîna li nexweşxaneyê de çawa alîkariyê bikim?"
+    a: "Dema ku hûn dikarin li cem kesê bimînin, di xwarin û vexwarinê de alîkariya wan bikin, û tiştên nas wekî wêne bînin. Rûpelek bidin karmendan ku tê de rojnameya wî an wê, navê ku ew pê hez dike, tiştên ku jê hez dike û hez nake û nîşaneyên êşê hatine nivîsandin. Ger kes ji nişka ve xerabtir an cûdatir xuya bike yekser ji bijîşk re bibêjin, ji ber ku tevliheviya ji nişka ve dibe ku nîşana pirsgirêkek tenduristiyê be."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Serdana kesekî ku hûn jê hez dikin li lênêrîna bîranînê, mala lênêrînê an nexweşxaneyê dikare gelek hestan derxe holê. Dibe ku hûn meraq bikin hûn ê çi bibêjin, çi bînin, an gelo serdan girîng e heke ew wê bi bîr neyne. Erê, girîng e. National Institute on Aging destnîşan dike ku kesên bi Alzheimerê [pir caran ji hevaltîyê kêfê digirin](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) her çend nikaribin bi bîr bînin serdanok kî bû. Ev rûpel gavên pratîk ji bo berî, di dema û piştî serdanê de dide, û her weha şîretên taybet ji bo mayîna li nexweşxaneyê.
 
-## How do I get ready for a visit?
+## Ez çawa ji bo serdanê amade bibim?
 
-A little planning makes the visit easier for both of you.
+Pişçek plansazî serdanê ji bo we her duyan hêsantir dike.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Demek baş hilbijêrin.** Dementia Australia pêşniyar dike ku hûn dema ku kes bi gelemperî hişyartir e serdanê bikin, ku ji bo gelek kesan sibeh an derdora nîvro ye. Family Caregiver Alliance pêşniyar dike ku hûn bernameya sazgehê fêr bibin û di [dema vala de serdanê bikin, ne di dema çalakiyan de](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Bi karmendan re biaxivin.** Bipirsin ka îro rewşa kesê çawa ye, û li ser qaîdeyên xwarin, heywanên malê an derketinê agahdar bibin.
+- **Çenteyek biçûk a serdanê amade bikin.** Yek an du tiştên ji bo parvekirinê bes in (lîsteya li jêr bibînin).
+- **Çend mijaran plan bikin.** Dibe ku kes nûçeyên xwe tune bin ku parve bike, ji ber vê yekê yên xwe bînin: nûçeyên malbatê, hewa, lîstikek, çîrokek xweş.
+- **Hêviyên xwe saz bikin.** Hin serdan dê germ û bi sohbet bin. Hinên din dê bêdeng an dijwar bin. Her du jî normal in.
 
-## What should I bring?
+## Divê ez çi bînim?
 
-Bring things to share, not things that test. Good choices include:
+Tiştên ji bo parvekirinê bînin, ne tiştên ku biceribînin. Vebijarkên baş ev in:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Albûmek biçûk a wêneyan** bi wêneyên mezin û zelal. Li piştê wan ji bo karmendan binivîsin.
+- **Lîsteyek stranên bijare** li ser têlefonê, bi guhîkên hêsan an dengbêjek biçûk.
+- **Tiştekî nerm ji bo girtinê,** wekî betaniyek, şalek an kincikek nas.
+- **Losyona destan** ji bo masajek nerm a destan, heke kes jê hez dike ku were destdanîn.
+- **Kovarek an pirtûkek wêneyan** li ser berjewendiyek kevn, wekî baxçevanî, erebe, çûk an xwarinçêkirin.
+- **Xwarinek bijare,** heke karmend bibêjin ew ewle ye.
+- **Tiştên nas ji bo odeyê.** Family Caregiver Alliance kulîlk, riwek, wêneyên malbatê û huner, an posterek mezin a wêneyên malbatê ji berê pêşniyar dike.
+- **Tabletek,** ji bo li wêneyên malbatê mêzekirin an bi hev re lîstikek aram lîstin.
 
-## What can we do together during a visit?
+## Di dema serdanê de em dikarin bi hev re çi bikin?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Kirina tiştekî bi hev re zexta ji ser sohbetê dadixe. Dementia Australia pêşniyar dike ku li wêneyan mêze bikin, hunerek hêsan bikin, biçîk biçînin, muzîk guhdar bikin, xwarinek parve bikin, an li derdora avahiyê bimeşin. Çend ramanên din:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Li wêneyan mêze bikin.** Tiştên ku hûn dibînin bibêjin: «Li vî kulîkî binêre.» «Ev perav xweş xuya dike.» Bila kes rêberiyê bike. Ji pirsên wekî «Ev kî ye?» dûr bisekinin.
+2. **Muzîk lêxin û bistrên.** Stranên nas dikarin moodê bilind bikin û demek hevpar biafirînin, her çend axaftin dijwar be jî.
+3. **Meşek kurt bikin.** Family Caregiver Alliance pêşniyar dike ku li derdora sazgehê bimeşin, bi taybetî li baxçê heke hebe. Meşeke bi kursiya tekeran jî tê hesibandin.
+4. **Masaja destan bikin.** Pişçek losyon û destdanên hêdî li ser destan dikarin aramker bin.
+5. **Di lênêrîna kesane de alîkariyê bikin.** Dementia Australia behsa şaneya por, boyaxkirina neynûkan an alîkariya li xwekirina cilên bijare dike, heke kes jê kêfê digire.
+6. **Lîstikek hêsan bilîzin.** Family Caregiver Alliance kart, domino an tiştê ku kes berê dilîst pêşniyar dike. Li ser tabletekê, [Picture Pairs](/games/picture-pairs/) dikare bi wêneyên xuya û bê demjimêr were lîstin. [Photo Pairs](/games/photo-pairs/) wêneyên ku hûn hildibijêrin vediguherîne lîstikek lihevhatinê, û wêne di geroka we de dimînin.
+7. **Bi hev re tiştekî temaşe bikin.** Family Caregiver Alliance komedî û fîlmên kevn pêşniyar dike. Her çend kes nikaribe çîrokê bişopîne jî, hûn dikarin nêzî hev rûnin û demê parve bikin.
+8. **Bi dengekî bilind bixwînin.** Helbestek kurt, beşek bijare, an nameyek ji endamek malbatê.
+9. **Tenê bi hev re rûnin.** Destgirtin an rûniştina bêdeng jî serdanek rast e. Alzheimer's Association destnîşan dike ku ne zanîna çi bêjin baş e, û hebûna we ya herî girîng e.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Dema ku hûn nizanin çi bêjin [Conversation Cards](/games/conversation-cards/) dikare alîkariyê bike. Her kart wêneyek û pirsek vekirî heye.
 
-## How should I talk during the visit?
+## Di dema serdanê de divê ez çawa biaxivim?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Her carê xwe bidin nasîn.** «Silav bavo, ez Mark im, kurê te.» NIA pêşniyar dike ku serdanok bi kurtî xwe bidin nasîn da ku sohbetê dest pê bikin.
+- **Ji pêşiyê nêzîk bibin** û li asta çavan rûnin.
+- **Rast nekin û nîqaş nekin.** NIA ji serdanokan dixwaze ku ger kes şaşiyek bike an tiştekî ji bîr bike wan rast nekin.
+- **Dema ku peyv dijwar tên dîtin sebir bikin.** Dema têr bidin.
+- **Bersivê bidin hestan.** Ger kes xemgîn an dilgiran xuya bike, berî ku mijarê biguherînin wê qebûl bikin.
+- **Ji pirsên ceribandinê dûr bisekinin** wekî «Tu min tê bîra?» an «Tu ji bo firavînê çi xwar?»
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Ji bo bêtir agahiyan [şîretên ragihandinê](/caregiving/communication-tips/) yên me bibînin.
 
-## What do I do when they say "I want to go home"?
+## Ger ew bibêje «Ez dixwazim herim malê» ez çi bikim?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Bersivê bidin hesta li pişt peyvan (rêbera me ya li ser [dema ku kesek dîsa û dîsa dixwaze here malê](/caregiving/asking-to-go-home/) bêtir şîret dide). Family Caregiver Alliance rave dike ku «Ez dixwazim herim malê» bi gelemperî tê wateya «Ez xwe rehet hîs nakim», û bersivên wekî «Ji min re li ser mala xwe bêje» an «Li malê tişta te ya bijare çi ye?» pêşniyar dike. Dementia Australia lê zêde dike ku «mal» dikare wateya demek an cihekî be ku kes xwe tê de ewle hîs kiriye, wekî zarokatî.
 
-Try:
+Biceribînin:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- hestê qebûl bikin: «Dengê te wisa tê ku tu bêriya malê dikî.»
+- heke ew bixwaze, bi destdanê aramiyê pêşkêş bikin
+- li wêneyan binêrin an li ser mala malbatê biaxivin
+- meşek, vexwarinek an xwarinek pêşniyar bikin
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Ji nîqaşkirinê an ravekirina ku çima ew nikare here dûr bisekinin. Ev kêm kêm alîkariyê dike û pir caran xemgîniyê zêde dike.
 
-## How long should a visit be?
+## Serdan divê çiqas dirêj be?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Kurtir û pir caran bi gelemperî çêtir dixebite. Family Caregiver Alliance destnîşan dike ku kes bi gelemperî bi bîr nayne ka hûn pênc deqe man an pênc demjimêr, û pêşniyar dike ku sê serdanên kurt di hefteyê de dikarin ji yek serdana dirêj çêtir bin. Dementia Australia dibêje ku hejmarek an dirêjahiya rast a serdanan tune ye.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Di hefteyên pêşîn ên piştî veguheztina bo lênêrîna bîranînê de, Family Caregiver Alliance pêşniyar dike ku pir caran serdanê bikin, dûv re hêdî hêdî biçin ber bi şêweyekî birêkûpêk. Ji karmendan bipirsin ka ew çi dibînin.
 
-## How do I leave without upsetting them?
+## Ez çawa bêyî ku ew xemgîn bibe herim?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Çûn dikare beşa herî dijwar be. Dementia Australia pêşniyar dike:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Dema ku hûn digihîjin bibêjin hûn dikarin çiqas bimînin.** «Ez dikarim demjimêrekê bimînim, paşê ez ê biçim kirînê.»
+- **Çalakiyek wekî dawiyek xwezayî bikar bînin.** «Dema ku em vê stranê biqedînin, ez ê herim.»
+- **Demê bi xwarinekê an çalakiyekê re hevrêz bikin,** an ji karmendan bixwazin alîkariya kesê bikin ku bi tiştekî din re mijûl bibe.
+- **Xatirxwestinê kurt û her carê wekî hev bihêlin.** Dirêjkirin, lêborîn xwestin an man «tenê piçekî din» dikare xatirxwestinên pêşerojê dijwartir bike.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Piştî ku hûn diçin, normal e ku hûn xwe xemgîn hîs bikin. Bihêlin xwe bêhna xwe vedin. Ger kes xemgîn bûbe, karmend bi gelemperî dikarin piştî demek kurt alîkariya wî an wê bikin ku aram bibe.
 
-## Visiting someone with dementia in the hospital
+## Serdana kesekî bi demansê li nexweşxaneyê
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Nexweşxane cihê bi deng, nenas û tijî kesên nenas e, ku dikare ji bo kesekî ku bi demansê dijî pir dijwar be. Rêbera NIA ya li ser [birina kesekî bi nexweşiya Alzheimerê bo nexweşxaneyê](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) pêşniyar dike:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Hewl bidin ku kesek bi qasî ku pêkan be li cem kesê bimîne:** endamek malbatê, hevalek pêbawer an lênêrînerek ku hatiye kirêkirin.
+- **Rûpelek agahiyên kesane bidin karmendan** ku tê de rojnameya kesê, navê ku ew pê hez dike, tiştên ku jê hez dike û hez nake, tiştên ku dikarin wî an wê aciz bikin, û nîşaneyên bêpeyiv ên êşê hene. Kopiyan li odeyê û li stasyona hemşîreyan bihêlin.
+- **Di xwarin û vexwarinê de alîkariyê bikin.** Mezin dikarin li nexweşxaneyê kêm xwarinê bixwin. Pakêtan vekin, di xwarinan de alîkariyê bikin, bi hev re bixwin, û vexwarinê pêşkêş bikin.
+- **Tiştên aramker bînin** wekî wêne an tiştên giyanî.
+- **Deng kêm bikin.** Televîzyonê vemirînin û dengê têlefon û ragihandinên hundir kêm bikin.
+- **Rîtuelên aramker biceribînin,** wekî muzîka nerm, xwendin, dua, stranan gotin an li wêneyên kevn mêzekirin.
+- **Tevgera bi qasî ku ewle ye teşwîq bikin,** bi pejirandina karmendan.
+- **Ger kes ji nişka ve xerabtir an cûdatir xuya bike yekser ji bijîşk re bibêjin.** NIA rave dike ku tevliheviya giran a ji nişka ve, ku jê re delirium tê gotin, dikare ji ber pirsgirêkên wekî enfeksiyon, ta, bêavbûn an bandorên kêlekê yên dermanan çêbibe, û pêdiviya wê bi lênêrîna bijîşkî heye.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Serdanek kurt û aram bi rûyekî nas û stranek bijare dikare beşa herî aramker a rojekê li nexweşxaneyê be.
 
-## Bringing children on a visit
+## Anîna zarokan bo serdanê
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Zarok dikarin gelek germiyê bînin. Berê bi peyvên hêsan û rast wan amade bikin, serdanê kurt bihêlin, û karekî bidin wan, wekî nîşandana wêneyekî ku wan xêz kiriye an dayîna wêneyekî. NIA pêşniyar dike ku zarok û kesên bi Alzheimerê dikarin bi hev re ji çalakiyên hêsan kêfê bigirin, wekî li albûmek wêneyan mêzekirin an guhdarîkirina muzîkê. Dementia Australia pêşniyar dike ku çenteyek biçûk bi xwarinên sivik an tiştên bêdeng ji bo zarokên piçûk amade bikin.
 
-## Take care of yourself too
+## Ji xwe re jî xema bikin
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Serdan dikare westîner û bi hest be, bi taybetî heke kes gelek guheriye. Baş e ku hûn kêm caran serdanê bikin heke hûn hewce bikin, hevalekî bi xwe re bînin ji bo piştgiriyê, an di rojek dijwar de zûtir herin. Ji bo ramanên li ser xema xwe, [xema lênêrînkar ji xwe re](/caregiving/caregiver-self-care/) bibînin. Heke hûn dûr dijîn, rêbera me ya li ser [telefon û bangên vîdyoyê](/activities/phone-and-video-calls/) bibînin.

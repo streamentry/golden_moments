@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "سنڈاؤننگ: شامس منز سکون بخش سرگرمیاں"
+seoTitle: "سنڈاؤننگ: شامس منز سکون بخش سرگرمیاں"
+description: "ڈیمینشیا منز شامس پیٹھ ہوند بیچینی کم کرنہٕ خٲطرٕ نرم معمولات، کمرس منز تبدیلی تہٕ سکون بخش سرگرمیاں، تہٕ نوین یا بڈان والین علامتن پیٹھ ڈاکٹرن کوٗس کال کرٕنی۔"
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  سنڈاؤننگ چھُ بیچینی، الجھن یا چِڑچِڑا پَن یُس دوپہر پتہٕ یا شامس شروع گژھان
+  چھُ یا بڈان چھُ۔ یِم عملی قدم ہیٚکن مدد کٔرِتھ: اَکھ مستقل روزانچ عادت،
+  سہلابس منز گاش تہٕ سرگرمی، دوپہر پتہٕ کم نیندر، کم کیفین، شام گژھنہٕ برونٹھ
+  اندرس گاشدار لایٹہٕ، پرٛسکون گھر، تہٕ سکون بخش سرگرمیاں یِتھہٕ پٲٹھؠ موسیقی،
+  فوٹو یا کپڑٕ وٹُن۔ نوین یا بڈان والین علامتن ہُند چھُ ڈاکٹرن ہُند معاینہٕ
+  ضرورت۔
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "سنڈاؤننگ چھُ بیچینی یا الجھن یۄسہٕ گاش کم گژھنہٕ سٟتؠ شروع گژھان چھے یا بڈان چھے۔"
+  - "زیادٕ محنت وألی کامہِ، نیرُن تہٕ نہانُک کام تھٲوِو سہلابس یا دوپہر برونٹھ۔"
+  - "گاش، روزانچ سیر، دوپہر پتہٕ کم نیندر تہٕ دوپہر پتہٕ کم کیفین ہیٚکن شامہٕ آسان بنٲوِتھ۔"
+  - "شام گژھنہٕ برونٹھ لایٹہٕ کرِو آن، شور کم کٔرِو، تہٕ سکون بخش، واقف سرگرمین کُن گٔژھِو۔"
+  - "وجوہات زاننہٕ خٲطرٕ اَکھ نوٹ تھٲوِو، تہٕ بیچینی شروع گژھنہٕ پتہٕ روٗزِو پرٛسکون تہٕ ہمت دِنہٕ وألؠ۔"
+  - "نوین یا بڈان والین علامتن خٲطرٕ کٔرِو ڈاکٹرس ہُند مشورٕ: درد، انفیکشن یا دواہن ہیٚکَن اَتھ منز حصّہٕ آسِتھ۔"
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "سنڈاؤننگ عام طور پیٹھ دۄہس کٔمِس وقتس گژھان چھُ؟"
+    a: "یہِ چھُ عام طور پیٹھ دوپہر پتہٕ یا شامس شروع گژھان یا بڈان، ییٚلہِ گاش کم گژھان چھُ۔ صحیح وقت چھُ پرٛتھ کانٛہہ الگ آسان، امہِ موجوب ہیٚکہِ اَکھ یا زٕ ہفتن خٲطرٕ مختصر نوٹ تھاون مدد کٔرِتھ۔"
+  - q: "سنڈاؤننگ منز کٔم سرگرمیاں چھے مددگار؟"
+    a: "دوپہر پتہٕ چھے عام طور پیٹھ سکون بخش، واقف تہٕ کم محنت وألی سرگرمیاں بہتر چلٲوِتھ: پرٛسکون موسیقی، فوٹو وچھنہِ، پسندیدٕ ٹی وی پروگرام یا فلم، کپڑٕ وٹُن، مختصر سیر، یا اکھ أکِس سٟتؠ ہلکہٕ پھل۔ نوِ یا مشکل سرگرمیاں تھٲوِو دۄہس برونٹھ خٲطرٕ۔"
+  - q: "کیا سنڈاؤننگ ہیٚکہِ کُنہِ طبی وجہ ہُند اشارٕ آسِتھ؟"
+    a: "یہِ ہیٚکہِ صحتچہِ حالتَو سٟتؠ زیادٕ گژھِتھ، مِسلن درد، انفیکشن یِتھہٕ پٲٹھؠ پیشابک نالی ہُند انفیکشن، نیندرچہِ پریشٲنی یا دواہن ہِند مضر اثرات۔ اگر بیچینی نوِ چھے، اچانک چھے یا بڈان چھے، تیٚلہِ کٔرِو تس نفرس سٟتؠ رابطہٕ یَس تۄہیہِ سنبھال چھو کران۔"
+  - q: "کیا مےٚ پزِ سنڈاؤننگ خٲطرٕ دواہن مُتعلق ڈاکٹرن سٟتؠ کتھ کرٕنی؟"
+    a: "یہِ چھے ڈاکٹرس سٟتؠ کتھ کرنٕچ کتھ۔ Alzheimer's Association چھُ ونان زِ عام طور پیٹھ چھے دواہن بغیر وَلی تدبیری گۄڈنیٚکِس پیٹھ ترجیح یِوان دِنہٕ، تہٕ شامچ بیچینی خٲطرٕ کانٛہہ دوا چھے صرف تِمَن خطرن تہٕ فایدن پر نظر کٔرِتھ سوچنہِ یِوان۔ یتھ صفس پیٹھ چھُنہٕ دواہن ہُند کانٛہہ مشورٕ دِنہٕ آمُت۔"
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+واریاہ خاندان چھِ اکھے نمونہٕ وچھان: سہلاب چھے عام طور پیٹھ سکون سان گژھان، مگر دوپہر برونٹھہٕ برونٹھہٕ چھُ سُہ شخص یَس ڈیمینشیا چھُ بیچین، پریشان، الجھِت یا چِڑچِڑا گژھان۔ سُہ ہیٚکہِ یور وور پٔکِتھ، «گَرس گژھو» وَنِتھ یِتہِ سُہ گَرس منز آسہِ، یا آسانی سان ناراض گژھِتھ۔ اَتھ چھِ اکثر سنڈاؤننگ ونان۔
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+اتھ خٲطرٕ چھُنہٕ کانٛہہ اَکے حل، مگر دۄہکِس معمولاتس منز، کمرس منز تہٕ تِمَن سرگرمین منز تبدیلی یِم تۄہیہِ پیش کران چھو ہیٚکہِ دوپہر پتہٕ زیادٕ پرٛسکون بنٲوِتھ۔ یتھ صفس پیٹھ چھے National Institute on Aging تہٕ Alzheimer's Association ہِندیو عملی، غیر طبی مشورن ہُند خلاصہٕ جمع کرنہٕ آمُت۔ یہِ چھُنہٕ طبی مشورٕ۔ اگر علامتہٕ نوِ چھے، اچانک چھے یا بڈان چھے، تیٚلہِ کٔرِو تس نفرس سٟتؠ کتھ یَس تۄہیہِ سنبھال چھو کران۔
 
-## What is sundowning?
+## سنڈاؤننگ کیاہ چھُ؟
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+سنڈاؤننگ چھُ بیچینی، بے قَرٲری، چِڑچِڑا پَن یا الجھن یۄسہٕ گاش کم گژھنہٕ سٟتؠ، دوپہر پتہٕ یا شامس برونٹھ شروع گژھان چھے یا بڈان چھے۔ [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) چھُ ونان زِ واریاہ تھکاوَت ہیکہِ دوپہر پتہٕ بیچینی بڈٲوِتھ۔
 
-## What can make late-day restlessness worse?
+## کیاہ چیز ہیکہِ دوپہر پتہٕ بیچینی بڈٲوِتھ؟
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+واریاہ چیز ہیکَن اَتھ منز حصّہٕ نِتھ، اکثر اکھ أکِس سٟتؠ۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) چھے یِم وجہ چُنان:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- پورٕ دۄہکِس محنتس پتہٕ تھکاوَت؛
+- نوِ یا الجھاوان وألی جاے؛
+- «اندروٗنی جسمٲنی گھڑی» یۄسہٕ ٹھیک وقتس پیٹھ چھنہٕ، یِمَو سٟتؠ ہیٚکہِ شخص دۄہس نِندرِ منز تہٕ راتس بیدار روزِتھ؛
+- کم گاش تہٕ سایہِ، یِم الجھاوان آسَن؛
+- أردگرد والین نفرن ہُند دباؤ یا پریشٲنی محسوس کرٕنی؛
+- کم نیندرچ ضرورت، یۄسہٕ بڑِن نفرن منز عام چھے۔
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA چھُ عام طور پیٹھ بے قَرٲری ہِندین ہورَن وجوہتن ہُند تہِ ذکر کران، یِتھہٕ پٲٹھؠ درد، اُدٲسی یا دباؤ، کم آرام، قبض، واریاہ شور یا واریاہ لُکھ، تہٕ کیہنہِ دواہن یا دواہن ہِند باہمی اثرات۔
 
-## How can I plan the day to make evenings calmer?
+## بٕہ کِتھہٕ پٲٹھؠ ہیٚکہٕ دۄہ ترتیب دِتھ تاکہ شامہٕ پرٛسکون آسَن؟
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+زیادٕ محنت وألی کامہِ کٔرِو برونٹھ تہٕ دوپہر پتہٕ تھٲوِو نرم تہٕ اندازٕ مطابق۔ NIA تہٕ Alzheimer's Association دۄشوے چھِ مستقل معمولٲژ ہُند مشورٕ دِوان۔ اَکھ نمونہٕ دۄہ، یُس تۄہیہِ پننِس حسابس مُطٲبق بدلاوِو:
 
-| Time | What may help |
+| وقت | کیاہ ہیٚکہِ مدد کٔرِتھ |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| سہلاب | ملاقاتہٕ، نہانُک، نیرُن تہٕ پرٛتھ کانٛہہ محنتُک کام، ییٚلہِ واریاہ لُکھ زیادہ ہُشیار آسان چھِ |
+| سہلابس پتہٕ | نیبر یا گاشدار کھڑکی نزدیک وقت؛ سیر یا بییہِ کانٛہہ سرگرمی |
+| دوپہر | بٔڈ دوپہرُک کھؠن (Alzheimer's Association چھُ بٔڈ دوپہرُک کھؠن تہٕ ہلکہٕ شامُک کھؠن تجویز کران) |
+| دوپہر برونٹھ | اگر ضرورت آسہِ تیٚلہِ آرام، مگر دوپہر پتہٕ زیٹھ نیندر نَہ کٔرِو |
+| دوپہر پتہٕ | سکون بخش، واقف سرگرمیاں؛ ہلکہٕ پھل تہٕ چیٚن؛ کیفین نَہ |
+| شام گژھنہٕ برونٹھ | اندرس لایٹہٕ کرِو آن تہٕ اَنہِ گٹ گژھنہٕ برونٹھ پردہٕ کٔرِو بند |
+| شام | ہلکہٕ کھؠن، پرٛسکون موسیقی، کم تحریک، نیندرِ برونٹھُک اَکھ مستقل معمول |
 
-A few specific points from the sources:
+ذرایعَو پیٹھ کینہہ خاص نکتہٕ:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **گاش۔** NIA چھُ مشورٕ دِوان زِ پرٛتھ دۄہ کٔرِو کینہہ وقت نیبر یا کھڑکی نزدیک گاشس منز۔
+- **روزانچ حرکت، مگر واریاہ نَہ۔** NIA چھُ ونان زِ پرٛتھ دۄہ روٗزِو جسمٲنی طور پیٹھ سرگرم، مگر واریاہ سرگرمیاں أکِس وَقتس منصوبہٕ مَہ کٔرِو۔
+- **دوپہر پتہٕ چیٚن۔** دوپہر پتہٕ کٔرِو شراب تہٕ کیفین وألی چیزن، یِتھہٕ پٲٹھؠ کافی یا کولہٕ، نِش پرہیز (NIA)۔ Alzheimer's Association چھُ نکوٹین ہُند تہِ ذکر کران۔
+- **نیندر۔** دوپہر پتہٕ زیٹھ نیندر یا اونگھنہٕ نِش کٔرِو گریز (NIA)۔ Alzheimer's Association چھُ ونان زِ اگر راتس نیندر پریشٲنی آسہِ تیٚلہِ تھٲوِو دۄہکۍ نیندر محدود۔
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+مستقل دۄہ بناونہٕ مُتعلق مزید باپتھ وُچھِو [روزانہٕ معمولٲژ سرگرمیاں](/activities/daily-routine/)۔
 
-## How can I make the home calmer in the late afternoon?
+## بٕہ کِتھہٕ پٲٹھؠ ہیٚکہٕ دوپہر پتہٕ گھر پرٛسکون بناوِتھ؟
 
-Reduce noise, add light and keep familiar things close.
+شور کٔرِو کم، گاش کٔرِو زیادٕ تہٕ واقف چیزہٕ تھٲوِو نزدیک۔
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **گاشدار، ہموار روشنی۔** Alzheimer's Association چھُ مشورٕ دِوان زِ شامس تھٲوِو گھر چنگی طرح گاشدار۔ سایہِ پٕدٕ گژھنہٕ برونٹھ کٔرِو روشنی۔
+- **کم شور۔** اَتھ وقتس کٔرِو ٹی وی تہٕ ریڈیو بند یا کم، تہٕ مِلمان یا گھرٕکۍ شور دار کام تھٲوِو محدود۔ Alzheimer's Association چھُ شامس تحریک کم کرنُک مشورٕ دِوان، یِتھہٕ پٲٹھؠ ٹی وی، گھرٕکۍ کام تہٕ تیٖز موسیقی۔
+- **واقف سکون۔** NIA چھُ مشورٕ دِوان زِ پرٛسکون موسیقی بجٲوِو تہٕ پسندیدٕ چیزہٕ تہٕ فوٹو تھٲوِو گَرس منز۔
+- **آرامُک خیال۔** Alzheimer's Association چھُ مشورٕ دِوان زِ درد، بۄچھ، ترٛیشہٕ، قبض، بھرِتھ مثانہٕ، تھکاوَت، انفیکشن تہٕ چمڑِ ہِند پریشٲنی وُچھِو، تہٕ کمرٕچ گرمی تھٲوِو آرام دہ۔
+- **تُہُند پنُن مزاج۔** لُکھ چھِ دباؤ محسوس کران۔ NIA چھُ ونان زِ اگر تُہُند پنُن پریشٲنی ماحولس منز تناؤ بڈٲوِتھ آسہِ، تیٚلہِ کٔرِو رفتار کم تہٕ پنُن پان آرام دِنٕچ کوشش۔
 
-## What calm activities can we do in the late afternoon?
+## دوپہر پتہٕ کٔم سکون بخش سرگرمیاں ہیٚکو أس کرِتھ؟
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+تِژھے سرگرمیاں چُنو یِم واقف آسَن، یِمن منز جلدی آسہِ نَہ تہٕ یِم آسانی سان رُکاونہٕ یِن۔ Alzheimer's Association چھُ سکون بخش سرگرمین ہُند مشورٕ دِوان، یِتھہٕ پٲٹھؠ پرٛسکون موسیقی، فوٹو یا پسندیدٕ فلم، تہٕ بیچینی کم کرنہٕ خٲطرٕ أکِس سٟتؠ سیر۔ NIA چھُ ہلکہٕ پھل یا چیٚن، پسندیدٕ ٹی وی پروگرام، موسیقی، سیر، پرُن، یا کپڑٕ وٹنہِ ہِوے آسان گھرٕکۍ کام ہُند مشورٕ دِوان۔
 
-Ideas to try:
+آزمانہٕ خٲطرٕ کینہہ خیال:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **اکھ أکِس سٟتؠ کپڑٕ وٹِو۔** NIA چھُ یِتھِ قسمٕکۍ آسان گھرٕچ کام ہُند مشورٕ دِوان۔ تولیہِ چھِ تھونس آسان تہٕ کامک چھُ صاف اختتام۔
+2. **پسندیدٕ موسیقی چلٲوِو۔** تِمَن ہِند جواںنی ہِند واقف گیت، کم آوازس منز۔ أتھ سٟتؠ گُن گُن کرُن تہِ چھُ ٹھیک۔ مزید خیال وُچھِو [موسیقی سرگرمین](/activities/music/) منز۔
+3. **فوٹو وُچھِو۔** اَکھ فوٹو البم، یا [Photo Pairs](/games/photo-pairs/) منز کینہہ خاندانی فوٹو یِم وچھنہٕ خٲطرٕ یِلہٕ تھاونہٕ آسَن، ہیکَن پرٛسکون کتھ باتھ ہُند موقع بنٲوِتھ۔
+4. **مختصر سیر کٔرِو۔** باغس منز، گٔلی منز یا دالانس منز، اَنہِ گٹ گژھنہٕ برونٹھ۔
+5. **اکھ أکِس سٟتؠ ہلکہٕ پھل تہٕ چیٚن نِو۔** کانٛہہ سادٕ، گرم تہٕ کیفین بغیر چیز، میزس پیٹھ اکھ أکِس سٟتؠ۔
+6. **نرم جوڑ مِلناونہِ۔** [Picture Pairs](/games/picture-pairs/) ژور ٹایلن سٟتؠ تہٕ وچھنہِ یِوان فوٹون سٟتؠ چھُ شروع کرُن تہٕ رُکاوُن آسان۔
+7. **رنگ بھرُن۔** [Coloring](/games/coloring/) سکرینس پیٹھ یا چھپاونہٕ آمِتس صفس پیٹھ، ختم کرنٕچ کانٛہہ ضرورت بغیر۔
+8. **وچھُن تہٕ کتھ کرٕنی۔** [Conversation Cards](/games/conversation-cards/) چھِ اَکھ تصویر تہٕ اَکھ کُھلہٕ سوال پیش کران۔ صرف وچھُن تہِ چھُ وارے۔
+9. **ساہُک اَکھ پرٛسکون وقفہٕ۔** [Calm Breathing](/games/calm-breathing/) چھُ اَکھ آہستہٕ، پرٛسکون وقفہٕ یُس تۄہیہِ پانے شروع تہٕ ختم کران چھو۔
+10. **اتھن ہِندۍ کامہِ۔** بٹن یا موزہٕ الگ کرٕنی، نرم کمبل ہموار کرُن، یا کانٛہہ واقف چیز تھَپھ تھاوٕنی۔ مزید وُچھِو [حسٲسی سرگرمیاں](/activities/sensory/)۔
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+نوِ گیمہٕ، مصروف نیرنہٕ تہٕ تِم کام یِم دۄہس اندس یادداشت یا توجّہ واریاہ منگان چھِ، تِم تھٲوِو دوپہر پتہٕ خٲطرٕ الگ۔ تِم تھٲوِو سہلابس خٲطرٕ۔
 
-## What should I do when restlessness starts?
+## ییٚلہِ بیچینی شروع گژھے تیٚلہِ بٕہ کیاہ کرٕ؟
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+پرٛسکون روٗزِو، تسلی دِو، تہٕ نرم طریقہٕ سٟتؠ توجّہ پھِرٲوِو۔ NIA چھُ مشورٕ دِوان زِ پرٛسکون آوازس منز کتھ کٔرِو، تس نفرسٕنز پریشٲنی بوزِو، بحثہِ نِش کٔرِو گریز، تس دِو یقین زِ سُہ محفوظ چھُ، تہٕ اگر مددگار آسہِ تیٚلہِ نرم سپرش کٔرِو۔ پتہٕ کٔرِو توجّہ ہٹاونٕچ کوشش: ہلکہٕ پھل، چیٚن، موسیقی یا سیر۔
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association چھِ یِمہٕ ہِوۍ جُملہٕ تجویز کران: «تۄہیہِ چھو ییٚتہِ محفوظ» تہٕ «مےٚ چھُ افسوس زِ تۄہیہِ چھو پریشٲنی»، تہٕ مشورٕ چھُ دِوان زِ گاش کٔرِو زیادٕ، رفتار کٔرِو کم تہٕ تحریک تھٲوِو محدود۔ تس نفرس مَہ کٔرِو گھیر، مَہ کٔرِو تنگ، مَہ کٔرِو رُکاوُن تہٕ نَہ مَہ کٔرِو أمِس سٟتؠ بحث۔
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+اگر سُہ شخص جارحانہ گژھے، تیٚلہِ چھُ NIA مشورٕ دِوان زِ رفتار رُکنہٕ تام روٗزِو محفوظ فاصلس پیٹھ۔ ہنگامی حالتس منز کٔرِو 112 پیٹھ کال تہٕ وَنِو زِ تس نفرس چھُ ڈیمینشیا۔
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+پرٛسکون کتھ باتھ خٲطرٕ وُچھِو سانہِ رہنما صفہٕ [رابطُک طریقہٕ](/caregiving/communication-tips/) تہٕ [ییٚلہِ سُہ «نَہ» وَنہِ](/caregiving/when-they-say-no/)۔
 
-## How do I find the triggers?
+## بٕہ کِتھہٕ پٲٹھؠ ہیٚکہٕ وجوہات سمجھِتھ؟
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+اکھ یا زٕ ہفتن خٲطرٕ تھٲوِو اَکھ مختصر نوٹ۔ Alzheimer's Association چھُ مشورٕ دِوان زِ سنڈاؤننگ ہِندین واقعن برونٹھ کیاہ گژھان چھُ تِمچ نوٹ تھٲوِو تاکہ وجوہات زاننہٕ یِن۔ لیٚکِو کٔمِس وقتس بیچینی شروع گٔی، اکھ گھنٹہٕ برونٹھ کیاہ گوو، نیندر، کھؠن چیٚن، مِلمان، شور تہٕ گاش۔ یہِ نوٹ نِو ڈاکٹرس نِش۔ NIA چھُ ونان زِ رویہِ ہِنز تبدیلی نوٹ کرٕنی ہیکہِ سنبھال کرن والین تہٕ صحتس سٟتؠ وابستہٕ پیشہٕ ورن نمونہٕ سمجھنہٕ منز مدد کٔرِتھ۔
 
-## When should I call a doctor about sundowning?
+## سنڈاؤننگ ہِندِس معاملس منز مےٚ کر گژِھ ڈاکٹرس کال؟
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+تس نفرس سٟتؠ کٔرِو رابطہٕ اگر بیچینی نوِ چھے، اچانک بڈمٕژ چھے، یا أمِس سٟتؠ بییہِ تبدیلی تہِ چھے۔ NIA چھُ ونان زِ رویس منز اچانک یا تیز بدلاوان وألی تبدیلی، خاص طور پیٹھ انفیکشنس پتہٕ یا حال حالس منز دوا بدلاونہٕ پتہٕ، چھے فوراً ڈاکٹرس زانناونہِ یِوان۔
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+ڈاکٹرس ؤنِو زِ تِم ژھٲرِن تِم چیز یِم شامہٕ مشکل بناوَن ہیٚکن۔ Alzheimer's Association چھُ جسمٲنی پریشٲنین ہُند ذکر کران یِتھہٕ پٲٹھؠ پیشابک نالی ہُند انفیکشن، پیشاب رُکنہٕچ پریشٲنی، بے چین ژنگہٕ (restless legs) تہٕ نیندر منز ساہ رُکنٕچ پریشٲنی (sleep apnea)، تہٕ مشورٕ چھُ دِوان زِ پٕرژھِو پرٛتھ دوا خٲطرٕ دۄہُک کُس وقت بہتر چھُ۔ NIA چھُ درد، قبض تہٕ دواہن ہِند مضر اثرات یا باہمی اثرات بے قَرٲری ہِندن ممکنہٕ وجوہتن منز شٲمل کران۔
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association چھُ ونان زِ Alzheimer's سٟتؠ وابستہٕ نیندرچہِ پریشٲنین خٲطرٕ چھے عام طور پیٹھ دواہن بغیر تدبیری ترجیح، تہٕ دوپہر پتہٕ بیچینی خٲطرٕ دوا چھے صرف تِمن ناکام گژھنہٕ پتہٕ، خطرن تہٕ فایدن پر نظر کٔرِتھ سوچنہِ یِوان۔ یہِ فیصلہٕ چھُ ڈاکٹر سٟندی ذمہٕ۔ طبی مشورٕ بغیر مَہ کٔرِو کانٛہہ دوا، نیندرچ دوا یا سپلیمنٹ شروع، بند یا تبدیل۔
 
-## How do I get through the evenings myself?
+## بٕہ کِتھہٕ پٲٹھٕ ہیٚکہٕ پانے شامہٕ گزارِتھ؟
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+دوپہر پتہٕ ہیٚکہِ سنبھال کرن والِس سٟتؠ دۄہُک سخت ترین حصہٕ آسِتھ۔ اگر تُہندِ خٲطرٕ ممکن آسہِ، تیٚلہِ مٔنگِو کُنہِ خاندانی رُکن، دوست یا اجرت پیٹھ کٲم کرن والِس نِش مدد زِ سُہ ہفتس منز کینہہ دۄہ دوپہر پتہٕ کٲم سَمبھالہِ، خواہ اکھ گھنٹہٕ خٲطرٕ۔ سانِس [سنبھال کرن والین ہِندِس پننِس خیال تھاونَس](/caregiving/caregiver-self-care/) مُتعلق رہنما صفس پیٹھ چھے آرامُک مواقع تہٕ مفت Alzheimer's Association 24/7 Helpline ہُند ذکر۔

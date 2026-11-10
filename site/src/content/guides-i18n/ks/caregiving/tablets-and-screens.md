@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "ڈیمینشیا آسہٕ وٲلِس شخصس خٲطرٕ ٹیبلٹ تہٕ فون ترتیب دِیُن"
+seoTitle: "ڈیمینشیا خٲطرٕ ٹیبلٹ تہٕ فون ترتیب دِیُن"
+description: "ڈیمینشیا آسہٕ وٲلِس شخصس خٲطرٕ ٹیبلٹ تہٕ فون ترتیب دِنُک قدم بہ قدم طریقہ: اکھ ایپ، بڈ متن، کم اطلاع، سادٕ ہوم اسکرین، آواز تہٕ رازدأری۔"
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  ٹیبلٹ یا فون دِنہٕ برونٹھ اَتھ بنٲوِو زیٛادٕ آسان۔ iPad تہٕ iPhone پؠٹھ Guided Access یا Android پؠٹھ ایپ پِنِنگ سٟتؠ اَتھ أکِس ایپس پؠٹھ تھٲوِو، یا Apple ہُند Assistive Access استعمال کٔرِو یُس سادٕ ترتیب چھُ دِوان۔ متن بڈ کٔرِو، اطلاعہٕ بند کٔرِو، أکِس ہوم اسکرینس پؠٹھ صرف کینژھ ایپہٕ تھٲوِو، شروع کرنہٕ برونٹھ آواز طے کٔرِو، اکھ سٹینڈ استعمال کٔرِو، تہٕ ایپن ہٕند اجازتہٕ کم کٔرِو۔ اَتھ استعمال کٔرِو مِلِتھ، تہٕ سکرین بغیر سرگرمین سٟتؠ برابر۔
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone، iPad) تہٕ ایپ پِنِنگ (Android) اسکرین أکِس ایپس پؠٹھ تھأوان چھِ، یوتام نہٕ تُہۍ اَتھ کھولِو۔"
+  - "Apple ہُند Assistive Access اکھ سادٕ ترتیب چھُ دِوان یُس ذِہنی مشکلاتن وٲلن لوٗکن خٲطرٕ بنأومُت چھُ۔"
+  - "متن بڈ کٔرِو تہٕ اطلاعہٕ تہٕ پاپ اپ بند کٔرِو یُتھ کانٛہہ چیز رُکاوٹ یا پریشٲنی پٲدٕ نہٕ کرِ۔"
+  - "أکِس ہوم اسکرینس پؠٹھ صرف کینژھ مانوس ایپہٕ تھٲوِو، تہٕ شروع کرنہٕ برونٹھ آواز طے کٔرِو۔"
+  - "اکھ سٹینڈ تہٕ اکھ چارج کرنُک جاے یُس زانٛہہ نہٕ بدلِ ڈیوایس استعمال کرُن تہٕ لبُن آسان بنأوان چھِ۔"
+  - "ایپن ہٕنزٕ اجازتہٕ تہٕ ڈیٹا شیئرِنگ وُچھِو: HIPAA اکثر ذٲتی ڈیوایسس پؠٹھ محفوظ ڈیٹاہس پؠٹھ لاگو چھُنہٕ گژھان۔"
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "بہٕ iPad پؠٹھ ڈیمینشیا آسہٕ وٲلِس شخصس أکِس ایپہِ منٛز نیرنہٕ نِشہِ کِتھہٕ پٲٹھؠ رُکاوٕ؟"
+    a: "Settings > Accessibility > Guided Access منٛز Guided Access چالو کٔرِو تہٕ اکھ پاس کوڈ تھٲوِو۔ ایپ کھولِو، ہیرِم بٹن (یا پرٛانن iPadن پؠٹھ Home بٹن) ترٛے لٹہِ دَبٲوِو، تہٕ Start پؠٹھ ٹچ کٔرِو۔ iPad تٔمِس ایپس منٛز روزِ یوتام نہٕ کانٛہہ پاس کوڈ دِیِہ۔"
+  - q: "بہٕ Android ٹیبلٹ أکِس ایپس پؠٹھ کِتھہٕ پٲٹھؠ لاک کرٕ؟"
+    a: "Settings ایپہِ منٛز ایپ پِنِنگ چالو کٔرِو، یُس عموماً Security (کُنہِ ساتہٕ Security & location) > Advanced > App pinning منٛز آسِ۔ پتہٕ ایپ کھولِو، Overview کھولِو، ایپہِ ہُند آئیکن ہیرِ کُن دَبٲوِو تہٕ Pin پؠٹھ ٹچ کٔرِو۔ اَن پِن کرنہٕ خٲطرٕ تُہُند PIN، پیٹرن یا پاس ورڈ گژِھ۔"
+  - q: "کیا تٔمِس شخص سٕندِس پننِس فونس پؠٹھ Guided Access استعمال کرُن محفوظ چھا؟"
+    a: "احتیاط کٔرِو۔ Apple چھُ ونان زِ Guided Access چالو آسنہٕ وِزِ Crash Detection تہٕ ہنگامی سٕہولیتہٕ دستیاب آسان چھِنہٕ۔ اگر سُہ شخص ہنگامی کالن خٲطرٕ پننِس فونس پؠٹھ انحصار کران چھُ، تیٚلہِ Guided Access صرف تِیُت استعمال کٔرِو یوٚت تُہۍ تٔمِس سٟتؠ آسِو، یا اَمِہ بدل Assistive Access پؠٹھ غور کٔرِو۔"
+  - q: "ڈیمینشیا آسہٕ وٲلِس شخصس خٲطرٕ کۄتاہ سکرین ٹایِم ٹھیک چھُ؟"
+    a: "کانٛہہ مقرر تعداد چھُنہٕ۔ لۄکچار، مِلِتھ سیشن یِم سیر، موسیقی، گرٕکؠم تہٕ کتھ باتھ سٟتؠ رَلان چھِ، تِم چھِ سکرینس برونٹھ کنہِ واریاہ کالس یوتھ دۄہہٕ بہتر بنأوان۔ اگر ڈیوایس پریشٲنی پٲدٕ کرِ یا باقی سرگرمیو ہُند جاے نِیہِ، تیٚلہِ اَتھ کم استعمال کٔرِو۔"
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+ٹیبلٹ ہیکہِ تصویرٕ، موسیقی تہٕ سادٕ گِند مِلِتھ باؠغ کرنُک اکھ خوشگوار ذریعہ بنِتھ۔ مگر یہِ ہیکہِ پریشأن تہِ کٔرِتھ: اکھ غلط ٹچ بیٚیہِ ایپ کھولان چھُ، کانٛہہ اطلاع یِوان چھُ، متن چھُ واریاہ لۄکُٹ، یا گِند درمیان سکرین چھےٚ گٔٹ گژھان۔ تُہٕندِ طرفہٕ تھوٚڈ ترتیب یِمن منٛز زیادہ تر چیزن ہُند حل کڑان چھُ۔
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+یِم قدم iPhone، iPad تہٕ Android ہٕندن مۄجود سیٹنگن ہُند استعمال چھِ کران۔ مینیو ہٕند ناو سافٹ ویئر ہٕندن مُختٔلف ورژنن تہٕ ڈیوایس بناون وٲلن مُطٲبق بدلِتھ ہیکن، تَمی مۄجوب اگر کانٛہہ چیز مُختلف باسان آسہِ، تیٚلہِ پننِس ڈیوایسس خٲطرٕ تھدیٚم دِنہٕ آمُت Apple یا Google صفہٕ وُچھِو۔ یہِ ترتیب پننہِ کٔرِو، مِلِتھ بِہنہٕ برونٹھ۔
 
-## Should someone with dementia use a tablet or phone?
+## کیا ڈیمینشیا آسہٕ وٲلِس شخصس ٹیبلٹ یا فون استعمال کرُن چُھ ٹھیک؟
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+یہِ چھُ شخصس پؠٹھ منحصر۔ واریاہ لوٗکھ چھِ ٹیبلٹس تٔمِس وِزِ خوش گژھان ییٚلہِ کانٛہہ تِمن برونٹھہٕ کنہِ آسہِ، اگرچہ تِم اَتھ اکیلے سنبھٲلِتھ ہیکن نہٕ۔ شروع کٔرِو مِلِتھ، اکھ ایپ کھولِتھ، کینژھن مِنٹن خٲطرٕ۔ اگر اَمہِ سٟتؠ خوشی تہٕ کتھ باتھ بڈِ، تیٚلہِ جٲری تھٲوِو۔ اگر اَمہِ سٟتؠ پریشٲنی پٲدٕ گژِھ، تیٚلہِ فوٹو البم، چھپاوِمُت صفہٕ یا موسیقی ہیکہِ تِمن خٲطرٕ بہتر آسِتھ۔ سانہِ [چھپاونہٕ یِوَن وٲلؠ سرگرمیہٕ](/activities/printable/) چھِ اکھ بدل۔
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+ٹیبلٹ چھُ عموماً فونس کھوتہٕ آسان: سکرین تہٕ تصویرٕ چھِ بٔڈ، تہٕ یہِ چھُنہٕ تٔمِس شخص سٕنز ہنگامی مددٕ خٲطرٕ ضروری فون تہِ۔
 
-## How do I lock a tablet or phone to one app?
+## بہٕ ٹیبلٹ یا فون أکِس ایپس پؠٹھ کِتھہٕ پٲٹھؠ لاک کرٕ؟
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+iPhone تہٕ iPad پؠٹھ Guided Access استعمال کٔرِو، یا Android پؠٹھ ایپ پِنِنگ۔ دۄشوے چھِ اسکرین أکِس ایپس پؠٹھ تھأوان یوتام نہٕ تُہۍ کوڈ دِیِو، یُتھ کانٛہہ غلط ٹچ یا سوایپ بیٚیہِ کانٛہہ چیز کھولہِ نہٕ۔
 
-### iPad and iPhone: Guided Access
+### iPad تہٕ iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple ہٕنزن Guided Access ہدایتن](https://support.apple.com/en-us/111795) مُطٲبق:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. **Settings** کھولِو، **Accessibility** پؠٹھ ٹچ کٔرِو، پتہٕ **Guided Access** پؠٹھ ٹچ کٔرِو تہٕ اَتھ چالو کٔرِو۔
+2. **Passcode Settings** منٛز اکھ Guided Access پاس کوڈ تھٲوِو۔ تُہۍ ہیکِو Face ID یا Touch ID تہِ اجازت دِتھ۔
+3. اختیاری: **Display Auto-Lock** منٛز چُنِو زِ سیشن دوران سکرین کٔژِ کالس پؠٹھ لاک گژِھ، یُتھ گِند درمیان سکرین گٔٹ نہٕ گژِھ۔
+4. سُہ ایپ کھولِو یُس تُہۍ استعمال کرُن چھِو یژھان۔
+5. سایِڈ بٹن (iPhone)، ہیرِم بٹن (iPad)، یا پرٛانن ڈیوایسن پؠٹھ Home بٹن ترٛے لٹہِ دَبٲوِو۔
+6. اختیاری: سکرین ہٕند تِم حصّہٕ گھیٚرِو یِمن پؠٹھ تُہۍ ٹچ بند کرُن چھِو یژھان۔ **Options** (یا **Session Settings**) پؠٹھ ٹچ کٔرِو یُتھ آواز بٹن بند کرِو یا سکرین گھومُن رُکاوِو۔
+7. **Start** پؠٹھ ٹچ کٔرِو۔
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+سیشن ختم کرنہٕ خٲطرٕ، بیٚیہِ تِی بٹن ترٛے لٹہِ دَبٲوِو، پاس کوڈ دِیِو، تہٕ **End** پؠٹھ ٹچ کٔرِو۔ Apple چھُ ونان زِ کینژھن پرٛانن سافٹ ویئر ورژنن منٛز تُہۍ دۄ لٹہِ دَبأوِو۔
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**اہم:** Apple چھُ ونان زِ Guided Access سیشن دوران Crash Detection تہٕ ہنگامی سٕہولیتہٕ دستیاب آسان چھِنہٕ۔ تٔمِس فونس پؠٹھ Guided Access چالو مَہ تھٲوِو یَتھ تٔمِس شخصس ہنگامی کالن ہٕنز ضرورت پیٚیہِ ہیکہِ۔
 
-### Android: app pinning
+### Android: ایپ پِنِنگ
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google ہٕنزن Android ہدایتن مُطٲبق سکرین پِن کرنس مُتعلِق](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. **Settings** ایپ کھولِو۔
+2. **Security** (یا **Security & location**) پؠٹھ ٹچ کٔرِو، پتہٕ **Advanced**، پتہٕ **App pinning**۔ اگر تُہۍ یہِ لبِتھ ہیکِو نہٕ، تیٚلہِ پننِس ڈیوایس بناون وٲلِس سٕنز مدد صفہٕ وُچھِو۔
+3. **App pinning** چالو کٔرِو۔ اَن پِن کرنہٕ خٲطرٕ تُہُند PIN، پیٹرن یا پاس ورڈ گژِھ۔
+4. سُہ ایپ کھولِو یُس تُہۍ یژھان چھِو۔ Overview کھولنہٕ خٲطرٕ سکرین ہٕندِس درمیانس تام ہیرِ کُن سوایپ کٔرِو تہٕ تھٲوِو (یا 3 بٹن نیویگیشن سٟتؠ Overview پؠٹھ ٹچ کٔرِو)۔
+5. ایپ ہٕندِس پیش نظارٕ پیٚٹھ، ہیرِ کُن ایپ آئیکنس پؠٹھ ٹچ کٔرِو، پتہٕ **Pin** پؠٹھ ٹچ کٔرِو۔
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+جیسچر نیویگیشن سٟتؠ اَن پِن کرنہٕ خٲطرٕ ہیرِ کُن سوایپ کٔرِو تہٕ تھٲوِو۔ 3 بٹن نیویگیشن سٟتؠ Back تہٕ Overview دَبٲوِتھ تھٲوِو۔ 2 بٹن نیویگیشن سٟتؠ Back تہٕ Home دَبٲوِتھ تھٲوِو۔ پتہٕ پنُن PIN، پیٹرن یا پاس ورڈ دِیِو۔
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## کیا پورٕ iPhone یا iPad خٲطرٕ کانٛہہ سادٕ طریقہٕ چھا؟
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+آ، چھُ۔ Apple ہُند Assistive Access عام ہوم اسکرین ہٕنز جاے اکھ سادٕ ہوم اسکرین دِوان چھُ۔ [Apple چھُ اَتھ یِتھ پٲٹھؠ بیان کران](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) زِ یہِ چھُ تِمن لوٗکن خٲطرٕ iPhone آسان بناونہٕ خٲطرٕ یِمن ذِہنی مشکلات چھےٚ، یُتھ تِم اَتھ آسانی سان اکیلے استعمال کرِتھ ہیکن، بڈِ سکرین چیزن تہٕ کم مگر صاف فیچرن سٟتؠ۔ Apple چھُ [یۄہے فیچر iPad پؠٹھ تہِ](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) دِوان۔
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **کُس چھُ ترتیب دِوان۔** Apple چھُ مشورٕ دِوان زِ کانٛہہ بھروسہ مند ساتھی، مِثلن کانٛہہ خاندانُک میمبر یا سنبھال کرن وول یُس تٔمِس شخصس جانان چھُ، ایپہٕ تہٕ فیچر چُننس منٛز مدد کرِ۔
+- **کٔتہِ پیٚٹھہٕ کرِو شروع۔** **Settings > Accessibility > Assistive Access** منٛز گٔژِھو، **Set Up Assistive Access** پؠٹھ ٹچ کٔرِو، پتہٕ **Continue**۔
+- **ایپہٕ۔** تُہۍ چھِو چُنان زِ کٔم ایپہٕ نظر یِن۔ کینژھن Apple ایپن ہٕنزٕ خاص سادٕ شکلہٕ چھےٚ، تہٕ زیادہ تر باقؠ ایپہٕ ہیکن پننہِ عام شکلہِ منٛز شامل کرنہٕ یِتھ۔
+- **ترتیب۔** **Rows** (پرنہٕ خٲطرٕ آسان فہرست) یا **Grid** (بٔڈ چیزٕ یِم تصویرن تہٕ آئیکنن پؠٹھ زور دِوان چھِ) چُنِو۔
+- **پاس کوڈ۔** تُہۍ چھِو دٲخل گژھنہٕ، نیرنہٕ یا سیٹنگ بدلاؤنہٕ خٲطرٕ الگ Assistive Access پاس کوڈ تھأوان۔ Apple چھُ مشورٕ دِوان زِ ترتیب وِزِ اکھ بازیابی Apple Account بنٲوِو، تِکیازِ اگر یہِ نہٕ آسہِ تہٕ پاس کوڈ مٔشِتھ گژِھ، تیٚلہِ ڈیوایس گژِھ ری سیٹ کرٕنۍ۔
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access ہیکہِ تٔمِس شخصس خٲطرٕ موزوں آسِتھ یُس دۄہای پنُن ڈیوایس استعمال کران چھُ۔ Guided Access یا ایپ پِنِنگ چھُ مِلِتھ گِند کھیلنہٕ خٲطرٕ جلدی طریقہٕ۔
 
-## How do I make text and pictures bigger?
+## بہٕ متن تہٕ تصویرٕ کِتھہٕ پٲٹھؠ بٔڈ کرٕ؟
 
-Increase the text and display size, then check that buttons still fit on screen.
+متن تہٕ ڈسپلے ہُند سایز بڈٲوِو، پتہٕ وُچھِو زِ بٹن سکرینس پؠٹھ ٹھیک پٲٹھؠ یِوان چھا۔
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone تہٕ iPad۔** [Apple ہٕنزن فونٹ سایز ہدایتن](https://support.apple.com/en-us/102453) مُطٲبق، **Settings > Display & Brightness > Text Size** منٛز گٔژِھو تہٕ سلایڈر پکَنٲوِو۔ واریاہ بڈِ متن خٲطرٕ، **Settings > Accessibility > Display & Text Size > Larger Text** منٛز گٔژِھو۔ Apple چھُ ونان زِ واریاہ بڈ متن ہیکہِ کینژھن بٹنن ٹچ کرُن مشکل بنٲوِتھ، تَمی مۄجوب ضرورت مُطٲبق ٹھیک کٔرِو۔
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android۔** [Google ہٕنزن متن تہٕ ڈسپلے سیٹنگن ہٕنزن ہدایتن](https://support.google.com/accessibility/android/answer/11183305?hl=en) مُطٲبق، **Settings** کھولِو تہٕ **Font size** ژھٲرِو، پتہٕ سلایڈر پکَنٲوِو۔ سکرینس پؠٹھ پرٛتھ کانٛہہ چیز بڈ بناونہٕ خٲطرٕ **Display size** ژھٲرِو۔ تُہۍ ہیکِو **Accessibility > Display size and text** منٛز **Bold text** تہِ چالو کٔرِتھ۔ کینژھ ایپہٕ چھِنہٕ یِمن سیٹنگن پؠٹھ عمل کران۔
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+[Picture Pairs](/games/picture-pairs/) تہٕ [Find the Same](/games/find-the-same/) جیہن گِندن منٛز ہیکِو تُہۍ کم ٹایلہٕ یا کم اختیار تہِ چُنِتھ، یُس سکرینس پؠٹھ چیزٕ سادٕ تھأوان چھُ۔
 
-## How do I stop notifications and pop-ups?
+## بہٕ اطلاعہٕ تہٕ پاپ اپ کِتھہٕ پٲٹھؠ بند کرٕ؟
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+یِمن ایپن ہٕنز ضرورت چھُنہٕ تِہٕنزٕ اطلاعہٕ بند کٔرِو، تہٕ سرگرمی دوران Do Not Disturb استعمال کٔرِو۔
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone تہٕ iPad۔** **Settings > Notifications** منٛز گٔژِھو، **Notification Style** بۄنہٕ کنہِ کُنہِ ایپس پؠٹھ ٹچ کٔرِو، تہٕ **Allow Notifications** بند کٔرِو ([Apple ہُند اطلاع سیٹنگ گایڈ](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios))۔ کینژھن کالن، الرٹن تہٕ اطلاعن خاموش تھاونہٕ خٲطرٕ Control Center کھولِو تہٕ **Focus** بٹن منٛز **Do Not Disturb** چالو کٔرِو ([Apple ہٕنز Do Not Disturb مدد](https://support.apple.com/en-us/105112))۔ تُہۍ ہیکِو اَتھ **Settings > Focus > Do Not Disturb > Set a Schedule** منٛز طے وقتس خٲطرٕ تہِ تھٲوِتھ۔
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android۔** سکرین ہٕندِس ہیرِمہِ طرفہٕ بۄنہٕ کُن سوایپ کٔرِو تہٕ **Do Not Disturb** پؠٹھ ٹچ کٔرِو، یا **Settings > Modes > Do Not Disturb** منٛز گٔژِھو ([Google ہٕنز Do Not Disturb مدد](https://support.google.com/android/answer/9069335?hl=en))۔ **Notification filters** منٛز ہیکِو تُہۍ چُنِتھ زِ کٔم لوٗکھ تہٕ کٔم ایپہٕ وُنہِ تہِ اطلاع سوزِتھ ہیکن۔ سیٹنگہٕ چھِ ڈیوایس بناون وٲلِس مُطٲبق بدلَن۔
 
-## How do I make a simple home screen?
+## بہٕ سادٕ ہوم اسکرین کِتھہٕ پٲٹھؠ بنٲوِتھ ہیکہٕ؟
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+کینژھ مانوس ایپہٕ أکِس اسکرینس پؠٹھ تھٲوِو تہٕ باقؠ سارِ نیب کٔرِو۔ اَمِہ خٲطرٕ چھُنہٕ کانٛہہ اکھ سیٹنگ؛ یہِ چھُ بے ترتیبی کم کرنس مُتعلِق۔
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **ترٛے پیٚٹھہٕ ژھۄ ایپہٕ چُنِو۔** مِثلن تصویرٕ، موسیقی، ویڈیو کال کرنٕچ ایپ تہٕ اکھ گِند۔
+- **تِم تھٲوِو گوڈنِکہِ اسکرینس پؠٹھ،** ہر وِزِ تِمنئے جاین پؠٹھ، تہٕ باقؠ سارِ دۄیِمہِ اسکرینس یا فولڈرس منٛز نِیِو۔
+- **اکھ سادٕ، صاف نُمٲیِش دِنہٕ وول وال پیپر استعمال کٔرِو،** مِثلن اکھ رنگ یا اکھ مانوس تصویر، یُتھ آئیکن صاف نظر یِن۔
+- **یِمن ایپن ہٕنز ضرورت چھُنہٕ تِم کڈِو۔** کم ایپہِ یعنی کم پریشٲنی تہٕ کم ڈیٹا جمع گژھن۔
+- **Apple ڈیوایسن پؠٹھ Assistive Access پؠٹھ غور کٔرِو** اگر تُہۍ یژھان چھِو زِ ڈیوایس یہِ تُہندِ خٲطرٕ کرِ۔
 
-## What about volume and sound?
+## آوازس مُتعلِق کیا کرُن؟
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+ڈیوایس دِنہٕ برونٹھ اکھ آرام دہ آواز طے کٔرِو۔ Guided Access سٟتؠ ہیکِو تُہۍ آواز بٹن بند کٔرِتھ یُتھ سرگرمی دوران آواز نہٕ بدلِ۔ یہِ تہِ وُچھِو زِ کانٛہہ سماعتی آلٕ چھا لگأوِتھ تہٕ ٹھیک پٲٹھؠ چھا کٲم کران۔
 
-## Where should the tablet live?
+## ٹیبلٹ کتہِ تھوُن؟
 
-Give it a stand and a permanent charging spot.
+اَتھ اکھ سٹینڈ تہٕ اکھ مقرر چارج کرنُک جاے دِیِو۔
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **اکھ سٹینڈ یا کیس** یُس ٹیبلٹس میزس پؠٹھ سیدٕ تھأوان چھُ، اَمہِ سٟتؠ چھُنہٕ کٲنسہِ اَتھ تھپھ کرنُک ضرورت پیوان، تہٕ اشارٕ کرُن تہِ چھُ آسان گژھان۔
+- **چارج کرنُک اکھ جاے** یُس زانٛہہ نہٕ بدلِ، بہترین چھُ اکھ چارجِنگ سٹینڈ تٔمِس میزس پؠٹھ یۄس تُہۍ ہر دۄہہٕ استعمال چھِو کران۔ ٹیبلٹ روزِ ہمیشہ چارج تہٕ ہمیشہ تٔتِی۔
+- **چمک کم کٔرِو۔** سکرین تِتھ طرف تھٲوِو یَتہِ کُن روشنی کَم یِیِہ۔
 
-## How much screen time is okay?
+## کۄتاہ سکرین ٹایِم ٹھیک چھُ؟
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+مِنٹن ہٕنز کانٛہہ ٹھیک تعداد چھُنہٕ۔ لۄکچار، مِلِتھ سیشن أکِس پُر دۄہس ہِندِس حصّہٕ ہِیوٗنڈ کوٗشِش کٔرِو، یَتھ منٛز حرکات، موسیقی، گرٕکؠم، کتھ باتھ تہٕ نیبر کُن وقت تہِ آسہِ۔ تِکیازِ مصروف شام ہیکہِ دۄہس پٔتِمہِ حصّس منٛز بے چینی بڈٲوِتھ، تَمی مۄجوب سکرین سرگرمیہٕ ہیکن دۄہس گۄڈنِکہِ حصّس منٛز بہتر آسِتھ۔ وُچھِو [شامس برونٹھ آرام دہ سرگرمیہٕ](/caregiving/late-day-restlessness/)۔
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+ٹیبلٹ مِلِتھ استعمال کرُن، نہ زِ اکیلے دِنہٕ خٲطرٕ، اَتھ چھُ سماجی تھأوان۔ سون [مِلِتھ گِند کھیلنُک رہنما](/caregiving/how-to-play-together/) چھُ ونان زِ یہِ کِتھہٕ پٲٹھؠ کرُن۔
 
-## How do I protect their privacy on the device?
+## بہٕ ڈیوایسس پؠٹھ تِہٕنز رازدأری کِتھہٕ پٲٹھؠ بچٲوِتھ ہیکہٕ؟
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+ایپہٕ کیا جمع ہیکن کرِتھ تَتھ پؠٹھ پابندی تھٲوِو، تہٕ یہِ گُمان مَہ کٔرِو زِ صحتچ رازدأری قانون چھُ ضرور اَتھ ڈھانپان۔ U.S. Department of Health and Human Services (HHS) چھُ [سمجھاوان](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) زِ HIPAA قوانین چھِنہٕ عموماً ذٲتی فونن تہٕ ٹیبلٹن پؠٹھ محفوظ یا تِمن ذٔریعہٕ حاصل کرنہٕ آمُت صحتی معلومات ڈھانپان۔ اکثر حالتن منٛز چھُنہٕ HIPAA تِتھ ڈیٹاہس تہِ ڈھانپان یُس ذٲتی استعمال خٲطرٕ ایپن منٛز دِیون یِیِہ، یوتام نہٕ ایپ کُنہِ منظور شُد صحت فراہم کرن وٲلِس، صحت منصوبہٕ یا تِہٕندِس کُنہِ کاروبٲری ساتھی طرفہٕ دِنہٕ آمٕژ آسہِ۔
 
-HHS suggests:
+HHS چھُ مشورٕ دِوان:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- غیر ضروری یا رینڈم ایپہٕ، خاص طور "مفت" ایپہٕ، استعمال کرنہٕ نِشہِ بٔچِو؛
+- ایپن لوکیشن ہٕنز اجازت مَہ دِیِو یوتام نہٕ تِمن اَمِچ اصلی ضرورت آسہِ، مِثلن نقشہٕ۔
 
-Also consider:
+یہِ تہِ وُچھِو:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **ڈیوایسس پؠٹھ پاس کوڈ تھٲوِو،** تہٕ اَتھ کُنہِ محفوظ جایہِ لکھِتھ تھٲوِو۔
+- **تصویرن، کیمرٕ، مایکروفون، رابطن تہٕ لوکیشن ہٕنزٕ اجازتہٕ وُچھِو،** تہٕ یِمن ہٕنز ایپس ضرورت چھُنہٕ تِم بند کٔرِو۔
+- **انسٹال کرنہٕ برونٹھ وُچھِو زِ ایپ کیا جمع چھُ کران۔** سانہِ [ڈیمینشیا ایپہٕ تہٕ گِند چُننُک رہنما](/caregiving/choosing-apps-and-games/) منٛز چھُ اکھ رازدأری چیک لسٹ۔
+- **خاندانی تصویرن سٟتؠ احتیاط کٔرِو۔** صرف تِمے تصویرٕ شیئر کٔرِو یِمن سٟتؠ سُہ شخص آرام دہ محسوس کرِ ہیکہِ، تہٕ یہِ زٲنِو زِ ایپ تِم کٔتہِ محفوظ چھےٚ تھأوان۔ [Photo Pairs](/games/photo-pairs/) منٛز چھِ تُہند چُنِمژٕ تصویرٕ تُہندِس براؤزرس منٛز روزان۔
+- **ایپہِ منٛز خریٲری بند کٔرِو** یا تِمن اکاؤنٹن منٛز ادایگی تفصیلات کڈِو یِم سُہ شخص استعمال کران چھُ۔

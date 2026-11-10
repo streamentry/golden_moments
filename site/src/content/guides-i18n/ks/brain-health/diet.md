@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND تہٕ بحیرہ روم خوراک تہٕ ڈیمینشیا: تحقیق کیاہ چھِ ونان"
+seoTitle: "MIND خوراک تہٕ ڈیمینشیا: تحقیق کیاہ چھِ ونان"
+description: "MIND تہٕ بحیرہ روم خوراکس تہٕ ڈیمینشیا مُتعلِق تحقیق کیاہ چھِ ونان، اکھ بٔڈ ٹرایلَن کیازِ صاف فایِدٕ نہ لوُب، تہٕ ڈیمینشیا سانْ روزَن وٲلِس نَفَرَس کھیاوُن کیتھ کٔرِو مدد۔"
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  کینژھن مشاہدٲتی تحقیقن منٛز چھِ بحیرہ روم طرزٕچ تہٕ MIND خوراک ڈیمینشیا ہُند
+  خطرٕ کم آسنس سٟتؠ وابستہ، مگر پرٛتھ وِزِ نہ۔ MIND خوراکس پؠٹھ 2023س منٛز شایع
+  گَمتِس ترٛیَن ؤرِیَن ٹرایلَن منٛز آو نہ سوچنِچ طاقتس یا دِماغی سِکینَن منٛز
+  کنٹرول خوراکس مُقابلن کانٛہہ صاف فَرَق لَبان۔ کانٛہہ تہِ خوراک یا سپلیمنٹ چھُنہ
+  ڈیمینشیا بچاوَن باپت ثابت۔ ڈیمینشیا سانْ روزَن وٲلؠن لۄکن باپت چھِ واریاہ
+  کھیاوُن تہٕ چیوُن سَبہٕ کھوتہٕ ضروری۔
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "کینژھن، مگر سٲرِی نہ، وقتس سٟتؠ لۄکن ہُند مُشاہدٕ کرَن واجِنؠ تحقیقن منٛز چھِ بحیرہ روم تہٕ MIND کھینٕچِس اندازس ڈیمینشیا ہُند کم خطرس سٟتؠ وابستگی۔"
+  - "604 بُجر لۄکن ہُندِس 2023س کِس أکِس ٹرایلَس منٛز کٔر نہ MIND خوراک کھین وٲلؠن ترٛیَن ؤرِیَن پتہٕ سوچنِچِن ٹیسٹن یا دِماغی سِکینَن منٛز کنٹرول خوراک کھین وٲلؠن کھوتہٕ بہتر۔"
+  - "نیشنل انسٹیٹیوٹ آن ایجنگ (National Institute on Aging) چھِ ونان زِ کانٛہہ خاص خوراک کھین یا پرہیز کرنہٕ سٟتؠ چھُنہ ایلوے، یعنی ثابت نہ، زِ اَمہِ سٟتؠ چھِ ڈیمینشیا بچاو، تہٕ کانٛہہ وِٹامن یا سپلیمنٹ چھُنہ اَمہِ باپت ثابت۔"
+  - "سبزی، میوٕ، دال، سابُت اَنٲج تہٕ گاڈِ ہُند خوراک چھِ دِلچِ صحتچ مدد کران تہٕ ہیکہِ زِ ہای بلڈ پریشر تہٕ ذیابیطس ہِیوِن خطرن منٛز تہِ مدد کٔرِتھ۔"
+  - "ڈیمینشیا سانْ روزَن وٲلؠن لۄکن باپت چھِ اَتھن سٟتؠ تُلنہٕ یِن وٲلؠ خوراک، مُختلف رَنگَن ہٕند تھٲلی، پُرسَکون کھینٕک وقت تہٕ بار بار چیُن اَکسَر کُنہِ خاص خوراکس کھوتہٕ واریاہ اَہَم۔"
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "کیاہ MIND خوراک چھا ڈیمینشیا بچاوان؟"
+    a: "یہِ چھُنہ ثابت آمُت کرنہٕ۔ مشاہدٲتی تحقیقن منٛز ٲس MIND خوراک کم خطرس سٟتؠ وابستہ، مگر 2023س منٛز شایع گَمتِس ترٛیَن ؤرِیَن رینڈمائزڈ ٹرایلَن منٛز آو نہ سوچنِچِن ٹیسٹن یا دِماغی سِکینَن منٛز MIND خوراک کھین وٲلؠن تہٕ کنٹرول خوراک کھین وٲلؠن درمیان کانٛہہ نمایاں فَرَق لَبان۔ دۄنَوے گروپن منٛز آو ہلکہٕ بہتری تہٕ وزن تہِ گو تقریباً برابر کم۔"
+  - q: "MIND خوراکس تہٕ بحیرہ روم خوراکس منٛز کیاہ فَرَق چھُ؟"
+    a: "بحیرہ روم خوراکس منٛز چھِ سبزی، میوٕ، سابُت اَنٲج، دال، گاڈ تہٕ زیتون تیل واریاہ، تہٕ سُر ماز تہٕ مِٹھٲی کم۔ MIND خوراک چھِ اَمی سٟتؠ بلڈ پریشر باپت DASH خوراک ملاوان تہٕ سَبز پتہٕ دار سبزی تہٕ بیریز پؠٹھ خاص زور دِوان، نَتہٕ چھِ سُر ماز، مِٹھٲی، پنیر، مَکھَن تہٕ تَلِتھ خوراک کم کرنِچ ہدایت دِوان۔"
+  - q: "کیاہ کانٛہہ خوراک یا سپلیمنٹ چھا ایلوے، یعنی ڈیمینشیا بچاوان؟"
+    a: "نہ۔ نیشنل انسٹیٹیوٹ آن ایجنگ (National Institute on Aging) چھِ ونان زِ کانٛہہ خاص خوراک کھین یا پرہیز کرنہٕ سٟتؠ چھُنہ ثابت زِ ایلوے یا عمرس سٟتؠ وابستہ سوچنِچ کمزوری رُکِتھ ہیکہِ، تہٕ کانٛہہ وِٹامن یا سپلیمنٹ چھُنہ ایلوے بچاونہٕ باپت ثابت۔ سپلیمنٹ کھیٚنہٕ برونٹھ کٔرِو ڈاکٹرس سٟتؠ کتھ۔"
+  - q: "ڈیمینشیا سانْ روزَن وٲلِس نَفَرَس باپت کٔم خوراک چھِ کھینَس آسان؟"
+    a: "لۄکچار ٹُکرٕ، یِم اَتھن سٟتؠ تُلنہٕ یِیہِ ہیکہِ، مِثالَن سینڈوِچ ٹُکرٕ، کُکُر مازٕک ٹُکرٕ، سنگترٕک ٹُکرٕ یا بُخار دِتھ سبزی ہٕند ٹُکرٕ، چھِ اَکسَر چمچہٕ کینژو استعمال کرنہٕ کھوتہٕ آسان۔ اگر چَبان یا نِگلُن مشکل آسہِ، تیٚلہِ ہیکن نرم خوراک، مِثالَن اسکریمبلڈ انڈہٕ، ایپل ساس یا کاٹیج چیز مدد کٔرِتھ۔ اگر نَفَر کھانس وِزِ کھۄکھ کٔرِ یا نِگلنس منٛز اٹکِ، تیٚلہِ پٕرٛژِھو ڈاکٹرس نِگلُن جانچنہٕ باپت۔"
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,91 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+تۄہِہ ما آسہِ پوٗرمُت زِ کانٛہہ ”دِماغ باپت مفید“ خوراک ہیکہِ ایلوے نِش بچٲوِتھ۔ اصلی تصویر چھِ اَمہِ کھوتہٕ کم۔ کینژھن کھینٕک انداز چھِ تِمن تحقیقن منٛز کم خطرس سٟتؠ وابستہ یِم وقتس سٟتؠ لۄکن ہُند مُشاہدٕ چھِ کران، مگر وۄنۍ تانِ بہترین ٹرایلَس منٛز آو نہ کانٛہہ صاف فایِدٕ لَبان۔ یَتھ صفَس منٛز چھِ دۄشوے وضاحت، پتہٕ چھِ اَتھ کُن توجہ یِوان زِ ڈیمینشیا سانْ روزَن وٲلِس نَفَرَس باپت کیاہ چھِ اَکسَر سَبہٕ کھوتہٕ ضروری: واریاہ کھیاوُن تہٕ چیوُن، تہٕ اَتھ نِش مزٕ تُلُن۔
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+یہِ چھِ عام معلومات، طبّی مشورٕ نہ۔ پَنُن یا بییِس کٲنٛسہِ ہُند کھینٕچ عادت بدلاؤنہٕ برونٹھ کٔرِو ڈاکٹرس یا رجسٹرڈ ڈایٹیشنس سٟتؠ کتھ۔ سانِ [طبّی اعلان نامہٕ](/medical-disclaimer/) وُچھِو۔
 
-## What are the Mediterranean and MIND diets?
+## بحیرہ روم تہٕ MIND خوراک کیاہ چھِ؟
 
-The National Institute on Aging (NIA) describes them this way
+نیشنل انسٹیٹیوٹ آن ایجنگ (NIA) چھِ یِم یِتھ پٲٹھؠ بیان کران
 ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **بحیرہ روم خوراک:** واریاہ میوٕ، سبزی، سابُت اَنٲج، دال، گاڈ تہٕ سمندری خوراک، تہٕ زیتون تیل، تہٕ سُر ماز، انڈہٕ تہٕ مِٹھٲی کم۔
+- **MIND خوراک** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  بحیرہ روم خوراک تہٕ بلڈ پریشر باپت DASH خوراکُک اکھ میل۔ اَتھ منٛز چھِ سبزی، خاص کر سَبز پتہٕ دار؛ بیریز؛ سابُت اَنٲج؛ دال؛ ڈرای فروٹ؛ ہفتَس منٛز کم از کم اَکھ لٹہِ گاڈ؛ تہٕ زیتون تیل۔ اَتھ منٛز چھِ سُر ماز، مِٹھٲی، پنیر، مَکھَن یا مارجرین، تہٕ تَلِتھ یا فاسٹ فوڈ کم کرنِچ ہدایت۔
 
-## Do these diets lower dementia risk?
+## کیاہ یِمہٕ خوراکہٕ چھا ڈیمینشیا ہُند خطرٕ کم کران؟
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+ثبوت چھِ مِلوِتھ۔ NIA چھِ ونان زِ کینژھن، مگر سٲرِی نہ، مشاہدٲتی تحقیقن منٛز چھِ بحیرہ روم تہٕ MIND خوراک وُچھمُت زِ مغربی طرزِچ خوراکس مُقابلن، یَتھ منٛز سُر ماز، سَچریٹڈ چربی تہٕ شکر واریاہ آسان چھِ، ڈیمینشیا ہُند خطرٕ کم ٲس۔
 
-The 2024 Lancet Commission reviewed the research in more detail
+2024س کِس Lancet کمیشنَن کٔر تحقیق وادٕ تفصیل سان جانچ
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- کوہورٹ تحقیقن ہُندِس أکِس جٲیزَس منٛز ٲس بہتر خوراکچ معیار ڈیمینشیا ہُندِس تقریباً 20 فیصد کم خطرس سٟتؠ وابستہ۔
+- ترٛیَن کوہورٹن ہُندِس أکِس بٔڈِس تجزیَس منٛز ٲس MIND خوراکس سٟتؠ زیادہ وابستگی کم خطرس سٟتؠ وابستہ۔
+- مگر سویڈنچ اکھ تحقیق، یَتھ منٛز 28,025 درمیانی عمرٕکؠن لۄکن تقریباً 20 ؤرِیَن تانِ وُچھنہٕ آے، تَتھ منٛز آو نہ سفارش کرنہٕ آمژِن خوراکن یا بحیرہ روم طرزِچ خوراکس سٟتؠ کانٛہہ کم خطرٕ لَبان۔
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+مشاہدٲتی تحقیقہٕ ہیکن نہ سبب تہٕ نتیجہٕ ثابت کٔرِتھ۔ یِم لُکھ یِتھ پٲٹھؠ چھِ کھیاوان، تِم چھِ اَکسَر باقی چیزن منٛز تہِ مُختلف آسان، مِثالَن آمدنی، تعلیم، ورزش تہٕ صحتچ سہولیت۔ کمیشنُک نتیجہٕ اوس یِہ زِ یہِ وننس باپت چھُنہ واریاہ ثبوت زِ صحت مند خوراک چھِ براہِ راست ڈیمینشیا بچاوان، حالانکہ واریاہ میوٕ تہٕ سبزی کھیاوُن تہٕ کم پروسیس شدہ خوراک کھیاوُن چھِ واریاہ صحتی حالتَن باپت بہتر تہٕ موٹاپا، ذیابیطس تہٕ ہای بلڈ پریشر ہِیوِن خطرن پؠٹھ چھِ اثر کران۔ تِمن کٔر نہ خوراک پَننِس [14 خطراتی عُنصرن ہٕندِس فہرستس](/brain-health/risk-factors/) منٛز شامل۔
 
-## What did the 2023 MIND diet trial find?
+## 2023س کِس MIND خوراک ٹرایلَن کیاہ لوُب؟
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
+وۄنۍ تانِ سَبہٕ کھوتہٕ مضبوط جانچ ٲس اکھ رینڈمائزڈ ٹرایل یُس 2023س منٛز New England Journal of Medicine منٛز شایع سپُد
 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **کَم:** شکاگو تہٕ بوسٹن علاقن منٛز 604 لُکھ یِمن ہُنز عمر 65 ؤری یا اَمہِ کھوتہٕ زیادہ ٲس، یِمن سوچنِچ کانٛہہ مشکل ٲس نہ، یِمن کُنہِ نکھدارس ڈیمینشیا اوس، یِم وزنَس منٛز زیادہ ٲس، تہٕ یِمن ہُنز شروعاتی خوراک کم صحت مند ٲس۔
+- **کیاہ کوٚر:** ترٛیَن ؤرِیَن باپت اوٚس أڈ گروپس MIND خوراک ہدایت دِنہٕ آمُت تہٕ بیِس أڈس پنٕنی عام خوراک۔ دۄشوُن گروپن آو وننہٕ زِ دۅہس منٛز تقریباً 250 کیلوری کم کھیٚن، تہٕ دۄشوُن میوٗل رجسٹرڈ ڈایٹیشنو طرفہٕ باقاعدہ رہنمٲی۔
+- **نتیجہٕ:** سوچنِچِن ٹیسٹن منٛز آو **دۄشوُن** گروپن منٛز ہلکہٕ بہتری۔ گروپن درمیان فَرَق اوس واریاہ لۄکُٹ تہٕ **اعدادی طور پؠٹھ نمایاں نہ**۔ دِماغی سِکینَن منٛز تہِ آے دۄشوُن گروپن منٛز تقریباً ہِوی تبدیلی۔
+- **وزن:** دۄشوُن گروپن کوٚر تقریباً 5 کلوگرام (تقریباً 11 پاؤنڈ) وزن کم۔
 
-### Why might the trial have found no difference?
+### ٹرایلَس منٛز کیازِ آو نہ فَرَق لَبان؟
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+تحقیق کرَن وٲلؠن دِت کینژھ وجہ۔ کنٹرول گروپَن تہِ ما بنٲوِ پَنٕنی خوراک بہتر، تِکیازِ تِمن تہِ گو تقریباً تِیژھ وزن کم۔ بار بار ٹیسٹ دِنہٕ سٟتؠ ہیکن نتائج پانے بہتر بنِتھ، تِکیازِ لُکھ چھِ ٹیسٹن ہُند عٲدی گژھان۔ ترٛیہِ ؤرِی ما آسن کم۔ واریاہ حِصہٕ نِنہٕ وٲلؠ لُکھ ٲس زیادہ تعلیم یافتہ تہٕ یورپی نسلٕکؠ، اَمہِ موجوب ہیکن نہ نتائج پرٛتھ کٲنٛسہِ پؠٹھ لاگو سپدِتھ۔
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+اَمہِ موجوب چھِ صاف خلاصہٕ: MIND خوراکَن دِژ نہ ترٛیَن ؤرِیَن منٛز أکِس معقول کم کیلوری خوراکس کھوتہٕ بہتر نتیجہٕ۔ اَمِیُک مطلب چھُنہ یِہ زِ صحت مند کھیاوُن چھُ بے فایِدٕ۔ اَمِیُک مطلب چھُ یِہ زِ کٲنٛسہِ گژھ نہ کانٛہہ خاص خوراک ڈیمینشیا بچاونہٕ باپت اُمید تھٲوِنؠ۔
 
-## What about specific foods and supplements?
+## خاص خوراکن تہٕ سپلیمنٹن ہُند کیاہ؟
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA چھِ ونان زِ کانٛہہ خاص خوراک کھین یا پرہیز کرنہٕ سٟتؠ چھُنہ ثابت زِ ایلوے یا عمرس سٟتؠ وابستہ سوچنِچ کمزوری رُکِتھ ہیکہِ۔ بلیو بیریز، سَبز پتہٕ دار سبزی تہٕ ہلدی چھِ سٲری تحقیق کرنہٕ آمُت، مگر ثابتگی چھَنہ ملیمُت۔ NIA چھِ یہِ تہِ ونان زِ کانٛہہ وِٹامن یا سپلیمنٹ چھُنہ ایلوے بچاونہٕ باپت ثابت، تہٕ اَمہِ مقصد باپت چھُنہ کانٛہہ سفارش کرنہٕ یِوان۔ NIA چھِ خبردار کران زِ ایلوے بچاونہٕ باپت یِم غیر ثابت چیز وِننہٕ چھِ یِوان، تِم ہیکن غیر محفوظ آسن، پیسہٕ ضایع گژھن، یا دۄشوے، تہٕ ڈاکٹرن ہٕندۍ دِنہٕ آمژٕ دَوائن سٟتؠ ہیکن رُکاوٹ تہِ کرِتھ، اَمہِ موجوب کٔرِو کانٛہہ چیز آزماونہٕ برونٹھ ڈاکٹرس سٟتؠ کتھ
+([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))۔
 
-## How can eating stay healthy and enjoyable?
+## کھیاوُن کیتھ ہیکہِ صحت مند تہٕ مزٕ دار روزِتھ؟
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+واریاہ بُجر لۄکن باپت چھِ مقصد تِیژھ خوراک یۄس طاقت دِیہِ، مانوس آسہِ تہٕ مزٕ دار آسہِ، نہ زِ کانٛہہ سخت منصوبہٕ:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **پَننِس پسندیدٕ خوراکس پؠٹھ بناوِو کھین** بحیرہ روم طرزِ منٛز: سبزی، میوٕ، دال، سابُت اَنٲج، گاڈ تہٕ زیتون تیل۔
+- **پسندیدٕ مِٹھٲی تہِ تھٲوِو۔** مزٕ تہٕ بُکھ چھِ ضروری، خاص کر عمر بڑھنس پتہٕ۔
+- **یِلہِ تہِ ہیکہِ، کھیٚیِو بَیَن سٟتؠ۔** اکھ أکِس سٟتؠ کھیاوُن چھِ رَل مِل صحبت باپت سٟتھ۔
+- **اکھ أکِس سٟتؠ پکاوِو۔** سبزی چھَلُن یا پٔتِلِس منٛز ہِلناوُن چھِ اکھ سٟتھ سانُی کام؛ وُچھِو [گَریلوٗ کام](/activities/household-tasks/)۔ کانٛہہ پسندیدٕ خاندانی ترکیب ہیکہِ [یادَن ہُند کتھ باتھ](/activities/reminiscence/) تہِ شروع کٔرِتھ۔
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+بُجر لۄکن گژھ نہ بغیر ڈاکٹرس سٟتؠ کتھ باتھ کٔرِتھ کیلوری کم کرٕنۍ یا وزن گھٹاوُن، تہٕ روزٕ تھاونَس منٛز چھِ زیادٕ خطرٕ۔ سانِ [روزٕ مُتعلِق رہنما صفہٕ](/brain-health/fasting/) وُچھِو۔
 
-## How can you help someone with dementia eat well?
+## ڈیمینشیا سانْ روزَن وٲلِس نَفَرَس کیتھ کٔرِو تُہؠ سٟتھ کھیاونس منٛز مدد؟
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+ڈیمینشیا سانْ روزَن وٲلؠن لۄکن باپت چھِ اَکسَر واریاہ کھیاوُن تہٕ چیوُن **واریاہ** اصلی فِکر۔ Alzheimer's Association چھِ ونان زِ لۄکھ ہیکن کھین مٔشِتھ، یہِ سوچِتھ زِ تِم چھِ گوڈے کھیٚمُت، یا واریاہ انتخابن سٟتؠ پریشان گژِھتھ، تہٕ کم خوراک ہیکہِ رویَیچ مشکل تہٕ وزن کم گژھن بڑٲوِتھ
+([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating))۔
+یِم مشورٕ چھِ Alzheimer's Association، NIA تہٕ Alzheimer's Society طرفہٕ:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **اَتھن سٟتؠ تُلنہٕ یِن وٲلؠ خوراک دِیِو۔** لۄکچار ٹُکرٕ یِم آسانی سان تُلنہٕ یِیہِ ہیکہِ، مِثالَن سینڈوِچ ٹُکرٕ، کُکُر مازٕک ٹُکرٕ، مچھلی اسٹک، سنگترٕک ٹُکرٕ یا بُخار دِتھ بروکلی، یِم چھِ نَفَرَس چمچہٕ کینژو بغیر پانے کھینَس منٛز مدد کران۔
+2. **میزس پؠٹھ کٔرِو رَنگن ہُند فَرَق واضح۔** نظرِ منٛز تبدیلی ہیکہِ تھٲلی منٛز خوراک پرزناوُن مشکل بناوِتھ۔ مُختلف رَنگچہِ پلیس میٹس پؠٹھ سَفید تھٲلی یا پیالہٕ ہیکن مدد کٔرِتھ۔ ڈیزاین دار تھٲلِیَن تہٕ میز پوشن نِش رۄزِو دۄر۔
+3. **اَکہِ وِزِ دِیِو اکھ یا زٕ خوراک۔** بھٔرِتھ تھٲلی ہیکہِ پریشان کٔرِتھ۔
+4. **کھینٕک وقت تھٲوِو پُرسَکون۔** ٹی وی کٔرِو بَنٛد، میز تھٲوِو سادٕ، تہٕ واریاہ وقت دِیِو۔ NIA چھِ مشورٕ دِوان زِ جلدی مَہ کٔرِو تہٕ نہ دَباو دِیِو۔
+5. **واریاہ لٹہِ کھین تہٕ ہلکہٕ ناشتے دِیِو۔** اگر نَفَر واریاہ نہ چھُ کھیاوان، تیٚلہِ چھِ NIA مشورٕ دِوان زِ لۄکچار مگر واریاہ کھین دِیِو تہٕ کیلوری ہُند زیادہ ناشتے دِیِو
+([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well))۔
+6. **چینَس منٛز کٔرِو مدد۔** دۅہس دوران دِیِو لۄکچار کَپ آب یا باقی چیزٕ، تہٕ تِژھ خوراک تہِ یَتھ منٛز واریاہ آب آسہِ، مِثالَن میوٕ، سوپ، مِلک شیک تہٕ سموتھی۔ اگر نَفَر آب چینہٕ یژھان آسہِ نہ، تیٚلہِ چھِ NIA مشورٕ دِوان زِ جوس، ذائقہٕ دار آب، شوربا، دۅد، یا بغیر کیفین چائے یا قہوہ آزماوِو۔
+7. **تَپش جانچِو۔** نَفَر ہیکہِ نہ محسوس کٔرِتھ زِ خوراک یا چیز چھا واریاہ گرٛم۔
+8. **چمچہٕ کینژو تہٕ کَپ بناوِو آسان۔** تھٲلی بجایہِ پیالہٕ، بٔڈ ہینڈل وٲلؠ چمچہٕ، تہٕ ڈَکن وٲلؠ کَپ ہیکن کھین آسان بناوِتھ۔ صفٲی ہُند فِکر مَہ تھٲوِو۔
+9. **کھیاوُن بناوِو چَبنس تہٕ نِگلنس آسان۔** خوراک کٔرِو لۄکچار ٹُکرَن منٛز یا دِیِو نرم خوراک۔ اگر نَفَر کھانس وِزِ کھۄکھ کٔرِ یا نِگلنس منٛز اٹکِ، تیٚلہِ ؤنِو تِہندِس ڈاکٹرس۔
+10. **زبردستی مَہ کھیاوِو۔** NIA چھِ ونان زِ ایلوے ہٕندِس آخرِ مرحلَس منٛز چھِ بُکھ قدرتی طور پؠٹھ کم گژھان۔
 
-### Signs to tell the doctor about
+### کٔم نشٲنی چھِ ڈاکٹرس ونُن ضروری
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+وزن کم گژُھن، کھینس انکار کرُن، تھکاوٹ یا کمزوری ہیکہِ اَمِچ نشٲنی آسِتھ زِ نَفَر چھُنہ واریاہ کھیاوان۔ Alzheimer's Society چھِ ونان زِ دندانن یا ڈینچرَن ہُند دۅد، ڈپریشن، قبض تہٕ دَوائن منٛز تبدیلی تہِ ہیکہِ بُکھ کم کٔرِتھ
+([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia))۔
+جسمس منٛز آب کم گژھنِچ نشٲنی یِم NIA چھِ ونان تِمن منٛز چھِ اَچھ کھٔشک گژُھن، چکر یِنؠ، دِلچ رفتار تیز گژُھن تہٕ واہمہٕ
+([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers))۔
 
-## Talk with a doctor
+## ڈاکٹرس سٟتؠ کٔرِو کتھ
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+پَننِس یا بییِس کٲنٛسہِ ہٕندِس کھینَس منٛز بٔڈ تبدیلی کرنہٕ برونٹھ کٔرِو ڈاکٹرس یا رجسٹرڈ ڈایٹیشنس سٟتؠ کتھ، خاص کر اگر تُہؠ ذیابیطس، گُردٕ بیمارِ، نِگلنِچ مشکل یا حالُے منٛز وزن کم گژُھن آسہِ۔ ڈیمینشیا سانْ روزَن وٲلِس نَفَرَس باپت پٕرٛژِھو زِ تِمن گژھ دۅہس منٛز کۄتاہ کھیاوُن تہٕ چیوُن، تہٕ کیاہ ڈایٹیشن یا سپلیمنٹ ہیکن مدد کٔرِتھ۔
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+اگر کٲنٛسہِ نِگلنس منٛز اٹکِ، یا اچانک پریشانی، سخت چکر یا بیہوشی گژھِ، تیٚلہِ مَنگِو فوری مدد۔
