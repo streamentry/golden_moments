@@ -55,7 +55,7 @@ Lowest dimension: verification health at 7.5. This clears the numeric bar, but t
 
 ## Round 40 score update (2026-11-10)
 
-The two-choice panel reuses the existing game artwork and content. Its links have 112 px minimum height, visible labels, and focus/contrast styles. The site suite is now 724 passing tests and TypeScript is clean. No dimension changed in the project-level score: the website build still stops on the same baseline Bengali YAML error, the Flutter SDK remains unavailable, and the live browser/caregiver checks remain open. The recorded score is still **9.62**, with verification health at **7.5**; this is not evidence that the current website build or app tests passed.
+The two-choice panel reuses the existing game artwork and content. Its links have 112 px minimum height, visible labels, and focus/contrast styles. The site suite is now 724 passing tests and TypeScript is clean. The Bengali duplicate-key errors were repaired; the full build now stops on an overlong Tibetan guide description, and `check-site` has not run. The Flutter SDK remains unavailable, and the live browser/caregiver checks remain open. The recorded score is still **9.62**, with verification health at **7.5**; this is not evidence that the current website build or app tests passed.
 
 ## Not verified (not scored, not blockers)
 
