@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "សកម្មភាពជាក្រុមសម្រាប់ជំងឺភ្លេចភ្លាំង៖ មគ្គុទ្ទេសក៍សម្រាប់មណ្ឌលថែទាំ និងកម្មវិធីថ្ងៃ"
+seoTitle: "សកម្មភាពជាក្រុមសម្រាប់ជំងឺភ្លេចភ្លាំង៖ ប៊ីងហ្គោ តន្ត្រី រឿងរ៉ាវ"
+description: "សកម្មភាពជាក្រុមក្នុងមណ្ឌលថែទាំកុមារក្នុងចិត្ត ឬកម្មវិធីថ្ងៃសម្រាប់មនុស្សពេញវ័យ៖ ប៊ីងហ្គោរូបភាព តន្ត្រីច្រៀងរួមគ្នា និងការចែករំលឹកអតីតកាល ជាមួយនឹងគន្លឹះអំពីកន្លែងអង្គុយ និងទំហំក្រុម។"
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  សកម្មភាពជាក្រុមដ៏ល្អនៅក្នុងមណ្ឌលថែទាំសម្រាប់ជំងឺភ្លេចភ្លាំង និងកម្មវិធីថ្ងៃសម្រាប់មនុស្សពេញវ័យ គួរតែខ្លី ស្គាល់រួចហើយ និងងាយស្រួលចូលរួមគ្រប់កម្រិត។ សកម្មភាពដូចជា ប៊ីងហ្គោរូបភាព តន្ត្រីច្រៀងរួមគ្នា ការចែករំលឹកអតីតកាលក្នុងរង្វង់ កាយវិការសាមញ្ញ និងហ្គេមពាក្យរួមគ្នា គឺស័ក្តិសម។ សូមរក្សាក្រុមឱ្យតូចតាមដែលអាចធ្វើបាន អង្គុយឱ្យគ្រប់គ្នាអាចមើល និងស្តាប់បាន ចាប់ផ្តើមតែជំហានតែមួយក្នុងពេលតែមួយ ហើយរៀបចំតួនាទីងាយស្រួលជាងមុន និងទីជម្រកស្ងប់ស្ងាត់សម្រាប់អ្នកណាដែលត្រូវការវា។
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "ក្រុមតូចជារឿយៗមានប្រសិទ្ធភាពប្រសើរជាងព្រឹត្តិការណ៍ធំនៅកន្លែងតែមួយ ហើយអនុញ្ញាតឱ្យមានមនុស្សច្រើនទទួលបានឱកាសចូលរួមយ៉ាងសកម្ម ជាជាងគ្រាន់តែគាំទ្រមើល។"
+  - "អង្គុយជារង្វង់ ឬជារាងដូចស្រកសេះ នៅក្បែរអ្នកដឹកនាំ យកចិត្តទុកដាក់ចំពោះតម្រូវការស្តាប់ និងមើល ហើយបិទសំឡេងរំខានពីផ្ទៃខាងក្រោយ។"
+  - "រៀបចំសកម្មភាពសម្រាប់យ៉ាងហោចណាស់ពីរបីកម្រិត ដើម្បីឱ្យអ្នកដែលមានសមត្ថភាពខុសៗគ្នា អាចចូលរួមបានទាំងអស់គ្នា។"
+  - "ជៀសវាងការសាកសួរ ការផ្តល់ពិន្ទុ និងអ្នកឈ្នះ។ ប៊ីងហ្គោរូបភាពអាចលេងបាន ដោយគ្រប់គ្នាបំពេញកាតរបស់ខ្លួនបាននៅចុងបញ្ចប់។"
+  - "ការចាកចេញមុនពេល ឬគ្រាន់តែមើល ឬគេងលក់ក៏មិនមានបញ្ហាដែរ។ គួរតែមានបុគ្គលិកម្នាក់ត្រៀមរួចជាស្រេចដើម្បីជួយអ្នកណាដែលចង់ទៅកន្លែងស្ងប់ស្ងាត់ជាងមុន។"
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "ទំហំក្រុមដ៏ល្អសម្រាប់សកម្មភាពសម្រាប់ជំងឺភ្លេចភ្លាំងគឺប៉ុន្មាននាក់?"
+    a: "មិនមានចំនួនថេរណាមួយទេ ហើយវាអាស្រ័យលើអ្នករស់នៅ កន្លែង និងចំនួនបុគ្គលិកដែលមាន។ ក្រុមការងារជាច្រើនបានរកឃើញថា ក្រុមតូចអាចជួយឱ្យគ្រប់គ្នាអាចមើល ស្តាប់ និងចូលរួមបាន ចំណែកព្រឹត្តិការណ៍ក្នុងបរិវេណធំជាងមុន តែងតែធ្វើឱ្យមានមនុស្សច្រើនគ្រាន់តែគាំទ្រមើល។ ប្រសិនបើអ្នករៀបចំព្រឹត្តិការណ៍ធំ សូមបន្ថែមបុគ្គលិក ឬអ្នកស្ម័គ្រចិត្តដើម្បីអង្គុយចុះកណ្តាលក្នុងចំណោមអ្នករស់នៅ និងជួយមនុស្សម្នាក់ ឬពីរនាក់។"
+  - q: "តើយើងគួរដំណើរការក្រុមដែលមានសមត្ថភាពផ្សេងៗគ្នាយ៉ាងដូចម្តេច?"
+    a: "រៀបចំវិធីចូលរួមច្រើនជាងមួយសម្រាប់សកម្មភាពនីមួយៗ។ ក្នុងការច្រៀងរួមគ្នា អ្នកខ្លះអាចច្រៀងគ្រប់បទ អ្នកខ្លះអាចទះដៃ ឬសូត្រ ហើយអ្នកខ្លះអាចកាន់ឧបករណ៍សំឡេងតូចៗ។ នៅក្នុងប៊ីងហ្គោរូបភាព អ្នកខ្លះអាចស្វែងរករូបភាពផ្ទាល់ខ្លួន ខណៈដែលអ្នកជួយអាចចង្អុលបង្ហាញសម្រាប់អ្នកផ្សេងទៀត។ អង្គុយអ្នកដែលត្រូវការជំនួយច្រើនជាងមុននៅក្បែរបុគ្គលិក ឬអ្នកស្ម័គ្រចិត្ត។"
+  - q: "តើយើងលេងប៊ីងហ្គោរូបភាពដោយមិនធ្វើឱ្យវាក្លាយជាការប្រកួតបានដូចម្តេច?"
+    a: "ហៅរាល់រូបភាពរហូតដល់កាតរបស់គ្រប់គ្នាបំពេញទាំងអស់ ដើម្បីកុំមានអ្នកណាត្រូវនៅក្រោយ។ និយាយអំពីរូបភាពនីមួយៗពេលវាឡើង ហើយជៀសវាងរង្វាន់សម្រាប់អ្នកឈ្នះ ឬផ្តល់រង្វាន់តូចៗដូចគ្នាសម្រាប់គ្រប់គ្នា។ គោលដៅគឺការចាប់អារម្មណ៍រួមគ្នា និងការសន្ទនា មិនមែនការប្រកួតថាใครបញ្ចប់មុនគេទេ។"
+  - q: "តើយើងអាចប្រើហ្គេមរបស់អ្នកនៅលើអេក្រង់ធំសម្រាប់ក្រុមបានទេ?"
+    a: "បាន។ ហ្គេមរបស់យើងដំណើរការនៅក្នុងកម្មវិធីរុករកតាមអ៊ីនធឺណិត ដូច្នេះអ្នកអាចបើកវានៅលើកុំព្យូទ័រយួរដៃ ឬថេប្លេតដែលភ្ជាប់ទៅកាន់ទូរទស្សន៍ ឬម៉ាស៊ីនបញ្ចាំង។ ប៊ីងហ្គោរូបភាពមានកាតសម្រាប់បោះពុម្ព និងអ្នកហៅនៅលើអេក្រង់។ ហ្គេមបញ្ចប់ប្រយោគ និងគូរូបភាពក៏ដំណើរការល្អនៅលើអេក្រង់ធំ ផ្តោតទៅលើមនុស្សម្នាក់ដែលចុចសម្រាប់ក្រុមទាំងមូល។"
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+មគ្គុទ្ទេសក៍នេះសម្រាប់អ្នកដឹកនាំសកម្មភាព ក្រុមការងារថែទាំសម្រាប់ជំងឺភ្លេចភ្លាំង និងអ្នកដឹកនាំកម្មវិធីថ្ងៃសម្រាប់មនុស្សពេញវ័យ។ វាគ្របដណ្តប់លើទម្រង់ក្រុមដែលមានប្រសិទ្ធភាព ការរៀបចំបន្ទប់ ការបន្ស៊ីសកម្មភាពតែមួយសម្រាប់សមត្ថភាពផ្សេងៗគ្នា និងការប្រើកាតប៊ីងហ្គោដែលអាចបោះពុម្ពបាន និងហ្គេមនៅលើអេក្រង់ធំរបស់យើង។ អ្វីៗទាំងអស់នៅទីនេះមានគោលបំណងដើម្បីផ្តល់កន្លែងងាយស្រួល ទំនាក់ទំនង និងជម្រើស។ វាមិនមែនជាការធ្វើតេស្តទេ។
 
-## What makes a group activity work in memory care?
+## តើអ្វីដែលធ្វើឱ្យសកម្មភាពជាក្រុមមានប្រសិទ្ធភាពក្នុងមណ្ឌលថែទាំសម្រាប់ជំងឺភ្លេចភ្លាំង?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+សកម្មភាពជាក្រុមដ៏ល្អគឺស្គាល់រួចហើយ ខ្លី ងាយស្រួលចូលរួមគ្រប់កម្រិត និងគ្មានសម្ពាធ។ [អនុសាសន៍អនុវត្តន៍ការថែទាំសម្រាប់ជំងឺភ្លេចភ្លាំង](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) របស់ Alzheimer's Association បានពិពណ៌នាថា ការចូលរួមដែលមានអត្ថន័យ គឺជាការគាំទ្រផ្អែកលើចំណាប់អារម្មណ៍ និងចំណូលចិត្តរបស់មនុស្សម្នាក់ និងអនុញ្ញាតឱ្យមានជម្រើស និងភាពជោគជ័យ សូម្បីតែនៅពេលជំងឺភ្លេចភ្លាំងកាន់តែធ្ងន់ធ្ងរបំផុតក៏ដោយ។ ឯកសារដូចគ្នានេះក៏បានកត់សម្គាល់ផងដែរថា កម្មវិធីថែទាំធម្មតាជារឿយៗពឹងផ្អែកលើព្រឹត្តិការណ៍ជាក្រុមធំមួយ ឬពីរដងក្នុងមួយថ្ងៃ ដែលក្នុងនោះអ្នករស់នៅច្រើនតែចូលរួមដោយគ្រាន់តែគាំទ្រមើលប៉ុណ្ណោះ។
 
-That points to a few practical rules:
+ពីនេះ យើងអាចយកគោលការណ៍ជាក់ស្តែងមួយចំនួនមកអនុវត្ត៖
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **ស្គាល់រួចហើយប្រសើរជាងថ្មី។** បទចម្រៀង ពាក្យនិយាយ រូបភាព ឬវត្ថុពីយុវវ័យរបស់អ្នករស់នៅ គឺងាយស្រួលចូលរួមជាង។
+- **ខ្លីប្រសើរជាងវែង។** រៀបចំសកម្មភាពតាមរយៈពេលដែលក្រុមរបស់អ្នកអាចយកចិត្តទុកដាក់បានជាទូទៅ ហើយគួរមានចំណុចបញ្ចប់ធម្មតាក្នុងអំឡុងពេលនោះ។
+- **ធ្វើប្រសើរជាងគ្រាន់តែមើល។** ផ្តល់ឱ្យគ្រប់គ្នាមានអ្វីដែលត្រូវកាន់ ចុច ជ្រើសរើស ឬនិយាយ។
+- **កម្រិតច្រើន សម្រាប់សកម្មភាពតែមួយ។** រៀបចំវិធីងាយស្រួល និងតិចជាងមុនសម្រាប់ការចូលរួម។
+- **គ្មានអ្នកឈ្នះ គ្មានពិន្ទុ។** ទម្រង់ប្រកួតអាចធ្វើឱ្យអ្នកខ្លះមានអារម្មណ៍ថាខ្លួនបរាជ័យ។
 
-## How big should the group be?
+## តើក្រុមគួរមានប៉ុន្មាននាក់?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+ក្រុមតូចជារឿយៗងាយស្រួលជាង។ Alzheimer's Association បានកត់សម្គាល់ថា មនុស្សម្នាក់ដែលអាចមានអារម្មណ៍មិនស្រួលនៅក្នុងការជួបជុំធំ អាចចូលរួមបានប្រសើរជាងមុននៅក្នុងក្រុមតូច។ មិនមានចំនួនថេរណាមួយទេ វាអាស្រ័យលើអ្នករស់នៅ បរិវេណកន្លែង និងចំនួនបុគ្គលិក និងអ្នកស្ម័គ្រចិត្តដែលមាន។
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+វិធីសាមញ្ញមួយដើម្បីពិនិត្យគឺ៖ តើគ្រប់គ្នាអាចមើលមុខអ្នកដឹកនាំ ស្តាប់បានច្បាស់ និងអាចទទួលជំនួយពីអ្នកជួយក្នុងរយៈពេលពីរបីវិនាទីដែរឬទេ? ប្រសិនបើមិនអាចទេ សូមបំបែកក្រុម បន្ថែមអ្នកជួយ ឬផ្លាស់ទីទៅកន្លែងតូចជាងមុន។
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+សម្រាប់ព្រឹត្តិការណ៍ធំដូចជាកិច្ចប្រគុំតន្ត្រីក្នុងឱកាសបុណ្យ សូមអង្គុយបុគ្គលិក និងអ្នកស្ម័គ្រចិត្តចុះកណ្តាលក្នុងចំណោមអ្នករស់នៅ ជាជាងអង្គុយតាមជញ្ជាំង។
 
-## How should I set up the room and seating?
+## តើយើងគួររៀបចំបន្ទប់ និងកន្លែងអង្គុយយ៉ាងដូចម្តេច?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **ជារង្វង់ ឬជារាងដូចស្រកសេះ។** យោងតាមអនុសាសន៍អនុវត្តន៍ការថែទាំ កន្លែងដែលគ្រប់គ្នាអាចអង្គុយជារង្វង់គឺល្អបំផុត ហើយគួរតែគ្មានសំឡេងរំខានពីផ្ទៃខាងក្រោយ។
+- **អ្នកដឹកនាំនៅជិត និងនៅកម្រិតភ្នែក។** ប្រសិនបើអាចធ្វើបាន សូមអង្គុយជាជាងឈរឡើង។
+- **ផ្តោតលើការស្តាប់ និងការមើលមុនគេ។** អង្គុយអ្នកដែលមានបញ្ហាស្តាប់នៅជិតអ្នកដឹកនាំបំផុត នៅផ្នែកដែលស្តាប់បានប្រសើរជាង។ ត្រូវប្រាកដថា ពួកគេពាក់វ៉ែនតា និងឧបករណ៍ជំនួយការស្តាប់រួចហើយ។ Alzheimer's Association បានកត់សម្គាល់ថា បញ្ហាក្នុងការមើល និងស្តាប់អាចធ្វើឱ្យការទំនាក់ទំនងកាន់តែខកខាន។
+- **ពន្លឺពីខាងក្រោយអ្នករស់នៅ មិនមែនពីខាងក្រោយអ្នកដឹកនាំ។** ជៀសវាងអង្គុយអ្នកណាដែលកំពុងប្រឈមមុខនឹងផ្ទាំងបង្អួចដែលមានពន្លឺពេញ។
+- **បិទទូរទស្សន៍ និងវិទ្យុ។** Alzheimer's Association បានណែនាំឱ្យដកសំឡេងរំខានចេញក្នុងពេលធ្វើសកម្មភាពតន្ត្រី។
+- **ការសន្ទនាតែមួយក្នុងពេលតែមួយ។** ការនិយាយត្រួតគ្នា គឺពិបាកសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំង និងអ្នកដែលមានបញ្ហាស្តាប់ ដូចដែលបានចែងក្នុង[មគ្គុទ្ទេសក៍អំពីថ្ងៃបុណ្យ](https://www.alz.org/help-support/caregiving/holidays)របស់ Alzheimer's Association។
+- **ច្រកចេញច្បាស់លាស់ និងជ្រុងស្ងប់ស្ងាត់។** អ្នកណាដែលចង់ចាកចេញ គួរអាចធ្វើបានយ៉ាងងាយស្រួល ហើយមានបុគ្គលិកដឹកនាំទៅជាមួយ។
 
-## Group activity ideas
+## គំនិតសកម្មភាពជាក្រុម
 
-### Picture bingo
+### ប៊ីងហ្គោរូបភាព
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+ប៊ីងហ្គោរូបភាពជំនួសលេខដោយរូបភាពច្បាស់លាស់ ដូចជាថែ, ឆ្កែ ឬផ្កា កុំឱ្យអ្នកណាត្រូវតាមលេខវែង ឬអានអក្សរតូច។
 
-**How to run it:**
+**វិធីលេង៖**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. បោះពុម្ពកាតមួយសម្រាប់ម្នាក់ៗពីទំព័រ[ប៊ីងហ្គោរូបភាព](/games/picture-bingo/) របស់យើងដោយប្រើប៊ូតុងបោះពុម្ព។ ក្រដាសក្រាស់ងាយស្រួលកាន់ជាង។
+2. ចែកសម្គាល់ដែលងាយកាន់ ដូចជាបន្ទះបៀរ, មួកដប ឬក្រដាសកាត់។
+3. ប្រើអ្នកហៅនៅលើអេក្រង់នៅលើទូរទស្សន៍ ឬម៉ាស៊ីនបញ្ចាំង ដើម្បីឱ្យគ្រប់គ្នាអាចមើលរូបភាពពេលអ្នកនិយាយឈ្មោះរបស់វា។
+4. ផ្អាកបន្តិចក្រោយរាល់រូបភាព ហើយអញ្ជើញឱ្យមានការសន្ទនាសាមញ្ញ៖ "តើមានអ្នកណាចង់និយាយអំពីឆ្កែដែលពួកគេធ្លាប់ស្គាល់ទេ?" ឬ "តើអ្នកកត់សម្គាល់អ្វីខ្លះពីរូបភាពនេះ?"
+5. បន្តហៅរហូតដល់កាតរបស់គ្រប់គ្នាបំពេញទាំងអស់។ គ្រប់គ្នាបញ្ចប់ជាមួយគ្នា។
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**ការបន្ស៊ី៖** ប្រើក្រឡាតិចជាងមុនសម្រាប់អ្នកដែលរកឃើញកាតពេញហាក់មិនស្រួល។ អ្នកជួយអាចចង្អុលទៅរូបភាពដែលត្រូវគ្នាសម្រាប់អ្នកដែលត្រូវការជំនួយ។ អ្នកខ្លះប្រហែលជាចង់កាន់កាតរូបភាពរបស់អ្នកហៅ ហើយបង្ហាញវាទៅក្រុម។
 
-### Sing-alongs
+### តន្ត្រីច្រៀងរួមគ្នា
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+តន្ត្រីគឺជាសកម្មភាពជាក្រុមដែលគេពេញនិយមបំផុតមួយ។ Alzheimer's Association បានកត់សម្គាល់ថា សូម្បីតែនៅដំណាក់កាលចុងក្រោយ ក៏អ្នកដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំងអាច[ទះជើងតាមចង្វាក់ ឬច្រៀងបទចម្រៀងពីកុមារភាព](https://www.alz.org/help-support/caregiving/daily-care/art-music)របស់ពួកគេបាន។
 
-**How to run it:**
+**វិធីដំណើរការ៖**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- ជ្រើសរើសបទចម្រៀងដែលអ្នករស់នៅធ្លាប់ស្គាល់ពីកុមារភាព របស់ពួកគេ មិនមែនចំណូលចិត្តរបស់អ្នកដឹកនាំទេ។ សួរគ្រួសារអំពីអ្វីដែលអ្នកនីមួយៗពេញនិយម។
+- ប្រើតន្ត្រីដែលគ្មានការផ្សាយពាណិជ្ជកម្ម ព្រោះ Alzheimer's Association បានកត់សម្គាល់ថាវាអាចបង្កភាពច្រឡំ។
+- បោះពុម្ពបទចម្រៀងជាអក្សរធំសម្រាប់អ្នកដែលអានបាន ប៉ុន្តែមិនបង្ខំឱ្យគេប្រើ។
+- ផ្តល់ឧបករណ៍សំឡេងតូចៗ ដូចជាឧបករណ៍រំងាស់ ឬកន្សែងដើម្បីគ្រវី។
+- លើកទឹកចិត្តឱ្យទះដៃ និងចលនា ហើយរក្សាសំឡេងឱ្យសមរម្យ។
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**ការបន្ស៊ី៖** អ្នកខ្លះនឹងច្រៀងគ្រប់ពាក្យ អ្នកខ្លះនឹងសូត្រ អ្នកខ្លះនឹងទះជើងតាមចង្វាក់ ហើយអ្នកខ្លះនឹងគ្រាន់តែស្តាប់ប៉ុណ្ណោះ។ ទាំងអស់នេះសុទ្ធតែសំខាន់។ សូមមើល[មគ្គុទ្ទេសក៍សកម្មភាពតន្ត្រី](/activities/music/)របស់យើងសម្រាប់ព័ត៌មានបន្ថែម។
 
-### Reminiscence groups
+### ក្រុមចែករំលឹកអតីតកាល
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+ក្រុមចែករំលឹកអតីតកាលប្រមូលគ្នាជុំវិញប្រធានបទមួយ ដូចជាថ្ងៃសាលា រថយន្តដំបូង គ្រូបឋមសិក្សា ឬរដូវក្តៅ ដោយប្រើរូបថត វត្ថុ និងតន្ត្រី។ គោលដៅគឺការសន្ទនាល្អ រីឯមិនមែនការចងចាំត្រឹមត្រូវទេ។
 
-**How to run it:**
+**វិធីដំណើរការ៖**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. ជ្រើសរើសប្រធានបទមួយ ហើយយកវត្ថុពីរបីមកឱ្យមនុស្សអាចកាន់បាន ដូចជាឧបករណ៍លាយម្ហូប ស្រោមដៃកីឡាបេស្បាល់ មួក ឬកាតាឡុកគ្រាប់ពូជ។
+2. ឆ្លងវត្ថុម្តងមួយៗ។ សួរសំណួរបើកចំហ៖ "ប្រាប់ខ្ញុំអំពីវា។" "តើអ្នកកត់សម្គាល់អ្វីខ្លះ?" "តើនរណាបានប្រើអ្វីដូចនេះ?"
+3. ទទួលយកគ្រប់ចម្លើយ។ កុំកែតម្រូវកាលបរិច្ឆេទ ឬព័ត៌មានអ្វីទាំងអស់។
+4. ណែនាំការសន្ទនាទៅកាន់អនុស្សាវរីយ៍ដ៏ល្អ។ អនុសាសន៍អនុវត្តន៍ការថែទាំបានកត់សម្គាល់ថា អ្នកផ្តល់ការថែទាំគួរណែនាំការចែករំលឹកអតីតកាលទៅកាន់អនុស្សាវរីយ៍វិជ្ជមាន ជាជាងអនុស្សាវរីយ៍ដែលអាចបង្កភាពសោកសៅ។
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[កាតសន្ទនា](/games/conversation-cards/) ផ្តល់កាតរូបភាពដែលអាចបោះពុម្ពបានជាមួយនឹងសំណួរបើកចំហតាមប្រធានបទ ដែលមានប្រសិទ្ធភាពខ្ពស់សម្រាប់ការចាប់ផ្តើមសន្ទនា។ សូមមើលព័ត៌មានបន្ថែមនៅក្នុង[មគ្គុទ្ទេសក៍ចែករំលឹកអតីតកាល](/activities/reminiscence/)របស់យើង។
 
-### Finish the saying
+### បញ្ចប់ប្រយោគ
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+ប្រយោគដែលស្គាល់រួច ("ប្រាក់មួយសេន កាត់ចំណាយបាន...") ជំរុញឱ្យគ្រប់គ្នានិយាយផ្នែកបញ្ចប់រួមគ្នា។ បង្ហាញ[បញ្ចប់ប្រយោគ](/games/finish-the-saying/)នៅលើអេក្រង់ធំ ហើយអនុញ្ញាតឱ្យក្រុមនិយាយជាសំឡេងតែមួយ។ មានសំណួរនិយាយបន្ទាប់ពីប្រយោគនីមួយៗ។ ប្រសិនបើគ្មាននរណាម្នាក់និយាយផ្នែកបញ្ចប់ទេ សូមបង្ហាញវា ហើយបន្តទៅប្រយោគបន្ទាប់។ គ្មានចម្លើយត្រឹមត្រូវ ឬខុសទេ។
 
-### Large-print word search, together
+### ការស្វែងរកពាក្យអក្សរធំ រួមគ្នា
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+បញ្ចាំង[ការស្វែងរកពាក្យ](/games/word-search/)ដែលមានអក្សរធំនៅលើអេក្រង់ ហើយស្វែងរកពាក្យរួមគ្នា ឬបោះពុម្ពច្បាប់ចម្លងសម្រាប់អ្នកដែលចង់ធ្វើនៅតុដោយខ្លួនឯង។ ពាក្យមានតែផ្តេក និងឈរប៉ុណ្ណោះ។
 
-### Gentle movement
+### កាយវិការស្រួលៗ
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+ការទាញយកកអង្គុយ ការបញ្ជូនបាល់ទន់ ឬប៉េងប៉ោង ឬរាំនៅលើកៅអីតាមតន្ត្រីដែលស្គាល់រួច។ បង្ហាញការចលនានីមួយៗជាជាងពណ៌នាវា។
 
-### Sorting and matching at the table
+### ការតម្រៀប និងផ្គូផ្គងនៅតុ
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+តុតូចៗមានអ្នកពីបីទៅបួននាក់អាចតម្រៀបរូបភាព ក្រណាត់ ឬគ្រឿងចានរួមគ្នា។ នៅលើអេក្រង់ [គូរូបភាព](/games/picture-pairs/) អាចលេងបានដោយទុករូបភាពឱ្យមើលឃើញ ដោយឱ្យមនុស្សម្នាក់ចុច ខណៈដែលតុសន្ទនាអំពីរូបភាពនីមួយៗ។
 
-## How do I use your games on a big screen?
+## តើយើងប្រើហ្គេមរបស់អ្នកនៅលើអេក្រង់ធំយ៉ាងដូចម្តេច?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+ហ្គេមរបស់យើងដំណើរការនៅក្នុងកម្មវិធីរុករកតាមអ៊ីនធឺណិត ដូច្នេះអ្នកអាចប្រើវានៅលើទូរទស្សន៍ ឬម៉ាស៊ីនបញ្ចាំង ដោយមិនចាំបាច់ដំឡើងអ្វីទាំងអស់។
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. បើកហ្គេមនៅលើកុំព្យូទ័រយួរដៃ ឬថេប្លេតដែលភ្ជាប់ទៅអេក្រង់តាមខ្សែ ឬការបញ្ជូន។
+2. ធ្វើឱ្យកម្មវិធីរុករកពេញអេក្រង់ ហើយកំណត់សំឡេងឱ្យសមរម្យ។
+3. អនុញ្ញាតឱ្យអ្នកដឹកនាំម្នាក់ចុច ខណៈដែលក្រុមហៅជម្រើសរួមគ្នា។ ឬចែកថេប្លេតទៅឱ្យអ្នករស់នៅដែលចង់បានវេន។
+4. បញ្ឈប់នៅពេលណាដែលក្រុមរួចរាល់។ ហ្គេមទាំងនេះគ្មានកម្មវិធីកំណត់ពេល ពិន្ទុ ឬការបង្ខំឱ្យបញ្ចប់ទេ។
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[ប៊ីងហ្គោរូបភាព](/games/picture-bingo/), [បញ្ចប់ប្រយោគ](/games/finish-the-saying/), [គូរូបភាព](/games/picture-pairs/) និង[កាតសន្ទនា](/games/conversation-cards/) ជាទូទៅស័ក្តិសមបំផុតសម្រាប់ក្រុម។ សូមមើលជម្រើសទាំងអស់នៅក្នុង[ទំព័រហ្គេម](/games/)របស់យើង។
 
-## How do I adapt one activity for mixed abilities?
+## តើយើងបន្ស៊ីសកម្មភាពតែមួយសម្រាប់សមត្ថភាពផ្សេងៗគ្នាយ៉ាងដូចម្តេច?
 
-Plan at least three ways to join every activity.
+រៀបចំយ៉ាងហោចណាស់ពីរបីវិធីសម្រាប់ការចូលរួមក្នុងសកម្មភាពនីមួយៗ។
 
-| Activity | More independent | Some support | Most support |
+| សកម្មភាព | ឯករាជ្យជាងមុន | ត្រូវការជំនួយខ្លះ | ត្រូវការជំនួយច្រើន |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| ប៊ីងហ្គោរូបភាព | ស្វែងរក និងគ្របដណ្តប់រូបភាពផ្ទាល់ខ្លួន | អ្នកជួយចង្អុល ខណៈដែលអ្នកនោះគ្របដណ្តប់ | កាន់កាតរូបភាព ស្តាប់ និងមើល |
+| តន្ត្រីច្រៀងរួមគ្នា | ច្រៀង ឬជ្រើសរើសបទបន្ទាប់ | សូត្រ ទះដៃ ឬប្រើឧបករណ៍សំឡេងតូចៗ | ស្តាប់ កាន់កន្សែង ឬទះដៃតាម |
+| ចែករំលឹកអតីតកាល | និយាយរំលឹកអតីតកាល | តបទៅ ឬចំលើយបាទ/ទេ ឬចង្អុល | កាន់ និងប៉ះវត្ថុ |
+| ការស្វែងរកពាក្យ | ធ្វើលើកាតដែលបានបោះពុម្ពផ្ទាល់ខ្លួន | ស្វែងរកពាក្យនៅលើអេក្រង់ធំជាមួយអ្នកជួយ | ស្តាប់ពេលមានអ្នកអានពាក្យចេញ |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+សម្រាប់អ្នករស់នៅក្នុងដំណាក់កាលក្រោយ NHS បានកត់សម្គាល់ថា សកម្មភាពជាទូទៅត្រូវធ្វើឱ្យសាមញ្ញជាងមុន និងផ្តោតច្រើនទៅលើអារម្មណ៍ ដូចជាតន្ត្រី វត្ថុសម្រាប់ប៉ះ និងការកម្តៅដៃ។ ពេលដែលជួបម្តងមួយទល់មួយក្នុងអំឡុង ឬបន្ទាប់ពីក្រុម អាចស័ក្តិសមជាងការចូលរួមក្នុងក្រុមទាំងមូល។ សូមមើល[សកម្មភាពសម្រាប់ដំណាក់កាលចុងក្រោយ](/activities/late-stage/)។
 
-## How should leaders talk during a group?
+## តើយើងគួរនិយាយក្នុងក្រុមយ៉ាងដូចម្តេច?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- ណែនាំខ្លួនឯងរាល់ពេល និងប្រើឈ្មោះដែលអ្នកនីមួយៗចូលចិត្ត។
+- និយាយយឺតៗ ចាប់ផ្តើមតែជំហានម្តងមួយៗ និងបង្ហាញមុននិយាយ។
+- សូមអញ្ជើញដោយបើកចំហ ("ប្រាប់ខ្ញុំអំពី...") ឬផ្តល់ជម្រើសសាមញ្ញ កុំសាកសួរដោយវិធីសាកសួរចាំ ("តើអ្នកចាំ...បានទេ?")។
+- កុំកែតម្រូវ។ សូមអរគុណសម្រាប់ការចូលរួមគ្រប់លើកគ្រប់ដង។
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+ព័ត៌មានបន្ថែមអាចមើលបាននៅក្នុង[គន្លឹះទំនាក់ទំនង](/caregiving/communication-tips/)របស់យើង។
 
-## Ending well, and letting people leave
+## ការបញ្ចប់យ៉ាងល្អ និងឱ្យអ្នកណាចាកចេញបាន
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+ការបញ្ឈប់គឺជាលទ្ធផលល្អ។ សូមសង្កេតមើលសញ្ញាបង្ហាញថានរណាម្នាក់អស់កម្លាំង ឬអាក់អន់ចិត្ត ហើយមានអ្នកជួយផ្តល់ឱកាសដើរទស្សន៍ ឬអង្គុយនៅកន្លែងស្ងប់ស្ងាត់ផ្សេងទៀត។ អ្នកដែលគេងលក់ក្នុងអំឡុងតន្ត្រីច្រៀងរួមគ្នា ប្រហែលជាគ្រាន់តែមានអារម្មណ៍សុខស្រួលប៉ុណ្ណោះ។
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+បិទក្រុមរាល់ពេលតាមវិធីដូចគ្នា ដោយប្រើបទចម្រៀងដែលស្គាល់រួច ឬសម្តីសូមអរគុណសាមញ្ញ ដើម្បីឱ្យការបញ្ចប់មានអារម្មណ៍ស្ងប់ស្ងាត់ និងធម្មតា។ បន្ទាប់ពីនោះ សូមកត់ត្រាអំពីអ្វីដែលដំណើរការល្អ និងនរណាពេញនិយម។ កំណត់ចំណាំទាំងនោះនឹងជួយធ្វើឱ្យសម័យក្រោយប្រសើរជាងមុន។

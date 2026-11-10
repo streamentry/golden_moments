@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Inooqatigiinneq: kisermaassuseq puulukkat"
+seoTitle: "Kisermaassuseq avissaassuserlu puulukkat"
+description: "Kisermaassutsip avissaassutsillu puulukkamik naapertussutsip nalornissaanut ataqatigiinneri, Surgeon General-ip nalunaarutaa, qanoq ataavartumik attaveqaqatigiinneqarsinnaanersoq."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Misissuinermit paasineqarpoq utoqqalinermi avissaassuseq kisermaassuserlu puulukkamik naapertussutsip nalornissaa annerusinnaasoq.
+  2024-imi Lancet Commission-ip naatsorsuaa avissaassuseq annerusumik 5%-iusinnaasoq, kisianni
+  ataqatigiinnerup ilaa puulukkalli piilernerannik iniminit qimagunnermit pilersinnaavoq. Attaveqaqatigiinneq,
+  sammisassaqartitsinerit ilisimannilluunniit ikiorneq attaveqaqatigiinneq ikiorpaat. Inuit puulukkamik naapertuuttut atugarliussaat,
+  suleqatigiillutik suliat nuannarinnerannut inuunerannullu pitsaanermut pingaaruteqarluinnarput.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet Commission-ip avissaassuseq utoqqalinermi allassimavaa 14-it puulukkamik naapertussutsip nalornissaa allanngortitsisinnaasut ilagivaat, annertunerusumik 5%-imik."
+  - "USA-mi Surgeon General-ip 2023-imi nalunaarutaani nalunaareerpoq kisermaassuseq avissaassuserlu sivisuumik utoqqani puulukkamik naapertussutsip nalornissaa annertunerusumik 50%-imik qaffasissinnaasoq."
+  - "Paasissutissat amerlanerit isigisimanerit pisuussuteqartutut atorneqartupput, puulukkat aallarneranni inummut avissaarusilersitsisinnaapput."
+  - "Tusilartitsineq, isigisinnaaneq, kisimiinneq isumaginninnerlu avissaassutsip nalornissaa qaffasitsisinnaavaat."
+  - "Inuit puulukkamik naapertuuttut atugarliussaat, Suleqatigalugit nuannarisaqartitsinissaq inuunerup pitsaanera ikiorpaat; siunertaq attaveqaqatigiinneq tassaavoq, aammalu inuk najoqqutaralugu qinnuteqarani."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Kisermaassuseq puulukkamik pilersitsisinnaava?"
+    a: "Taamaammat uppernarsarneqarsimanngilaq. Misissuinerni amerlasuuni kisermaassuseq avissaassuserlu puulukkamik naapertussutsip nalornissaa annerusoq ataqatigiipput, kisianni oqarasuaat allanngoriartorneranni inuk allanit qimagunnermik pilersitsisinnaavoq. Attaveqaqatigiinneq isumannalu peqqissutsimut iluaqutissaqassaaq, tamatuminnga ikiornegarnissaq naleqarpoq."
+  - q: "Kisermaassutsip avissaassutsillu qanoq assigiinngissuteqarpa?"
+    a: "Avissaassuseq isumaqarpoq inunnik aalajangersimasunik akulikitsumik attaveqarnitsigisinnaannginneq. Kisermaassuseq misigisaq nuanniitsuuvoq kisimiilluni allanit avissaallutik misigineq. Kisimiilluni najugaqartoq kisermaassuseqarsinnaanngilaq, kiisalu inuppassuit akornanni kisermaassuseqarsinnaavoq."
+  - q: "Qanoq angajoqqaakka puulukkamik naapertuusoq attaveqaqatigiinnerani ikiorsinnaavara?"
+    a: "Attaveqaqatigiinneq naappallartumik sivikitsuulluni iluaqutissaaq. Sapaatip akunneranut ataasiakkaat oqarasuaat assigiinngitsut pilersaarutigiikkit, imaluunniit videoerikkut attaveqaat, inoqatinikkut nerriviup sinaani suliallit, eqqaamasanik oqaloqatigiinneq, imaluunniit miluumasunik ernerussanik ellerusanilluunniit pulaarneq. Inuppassuit ikittuinnarmik nipaarusumillu annertutigisigit, inullu ingerlaarnera nammineq aalajangassuk."
+  - q: "Sumi utoqqaq avissaasimasoq ikiorserneqarsinnaava?"
+    a: "Eldercare Locator, kiffartuussivik tamanut ammasoq, ilaqutariit utoqqanut naalakkersuisoqarfinnut agbegbeqarfinnullu ingerlatitseqqissaartitsisinnaalluni. Attaveqarfissaasa 800-677-1116 imaluunniit eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Inuit inooqatigiinnermik pilersugaapput, tamannalu utoqqalinermilu allanngorarani. Misissuinermit paasineqarpoq kisermaassuseq avissaassuserlu utoqqalinermi puulukkamik naapertussutsip nalornissaa annerulersinnaasoq, aammalu uummaappallu naapertussutsip aliasunnermillu. Misissuinerit suli ersarissumik takutitsisinnaanngilaat ataqatigiinnerup sunniuteqarnera pilersitsineqarnerlu. Qupperneq manna uppernarsaat sammisat takutippaat, ataavartumik attaveqaqatigiinnermi periarfissat, aammalu sooq suleqatiginnermik inuuneq pingaaruteqannginnera inuit puulukkamik naapertuuttut atugarliussaat.
 
-## Are loneliness and isolation linked with dementia?
+## Kisermaassuseq avissaassuserlu puulukkamut ataqatigiinnerqarpa?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Aap, misissuinerni amerlasuuni ataqatigiipput, kisianni qanoq kingumut pisuussuteqarnersoq erseqqissaarsimanngilaq. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) avissaassuseq utoqqalinermi allassimavaa 14-it puulukkamik naapertussutsip nalornissaa allanngortitsisinnaasut ilagivaat. [UCL-ip nalunaarusiaq](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) taamaattorli paasivaa nunarsuarmi puulukkamik naapertussutsip annerusumik 5%-iussasoq.
 
-What the evidence shows:
+Paasissutissat sammisat:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Attaveqaqatigiinneq ikinnerussimasoq, nalornineq annerussaaq.** Commission-ip misissueqqissaarnillit marluk takutippai, inunnik akulikitsumik attaveqaqatigiinneq ikinnerussimasoq puulukkamik naapertussutsip nalornissaa qaffasissinnaasoq. Ataasianni nalornineq annertunerusumik 57%-imik qaffasimasoq, aappaannilu 18%-imik.
+- **Kisermaassuserlu aamma.** Kisermaassuseq, allanit avissaalluni misigineq, misissueqqissaarnerni amerlasuuni puulukkamik naapertussutsip nalornissaa annerusoq ataqatigiineqarpoq.
+- **Surgeon General-ip isummia.** Maaji 2023-imi USA-p Surgeon General-ia [kisermaassutsimut avissaassutsimullu nalunaarusiaq](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) saqqummersippaa. Oqarpoq kisermaassuseq avissaassuserlu sivisuumik utoqqani puulukkamik naapertussutsip nalornissaa annertunerusumik 50%-imik qaffasissinnaasoq. Taamaasillunilu inooqatigiinnermi attaveqaqatigiinneq ajutoortoq uummamik naapertussutsip nalornissaa 29%-imik strokemillu 32%-imik qaffasissinnaasoq ataqatigiivaa.
+- **Qanoq amerlatigissuseq.** [National Academies-ip nalunaarusiaani](https://www.ncbi.nlm.nih.gov/books/NBK557972/) erserpoq Amerikarmiut 65-inik ukiulinnut amerlanernik imaluunniit amerlanerusunik ukiullit aalajangersimasuni najugaqartut 24%-ii missaat avissaasimallutik.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Eqqissaarfissaq pingaaruteqartoq: Lancet Commission-ip erseqqissarpaa inuit puulukkalli aallarnerani, nalilersorneqarinagu, inooqatigiinnermi suliniutit ikileriarsimasinnaasaraat. Taanna isumaqarpoq ataqatigiinnerup ilaa puulukkap avissaartitsineranik pilersinneqarsinnaasoq, avissaassutsip kingorna nalornissaq qaffasitsissinnaanngikkaa. Paasissutissat taakkua amerlanerit isigisimanerit pisuussuteqartutut atorneqartupput.
 
-## What is the difference between loneliness and isolation?
+## Kisermaassutsip avissaassutsillu qanoq assigiinngissuteqarpa?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) ima nassuiaavoq. **Avissaassuseq** isumaqarpoq inunnik ikittuinnarnik attaveqaqatigiinneq imaluunniit akulikitsumik attaveqaqatigiinnissaq. **Kisermaassuseq** misigisaq nuanniitsuuvoq kisimiilluni imaluunniit allanit avissaalluni misigineq. Inuk kisimiilluni nuannaarluni najugaarsinnaavoq, aammalu inuppassuit akornanni kisermaalluni misigilluni.
 
-The NIA lists factors that raise the risk of both:
+NIA-p tamakku marluk nalornissaannut aamma erseqqissaatai:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Tusilartitsineq imaluunniit isigisinnaanerup ajornartorsiutai
+- Ingerlaarneq ajornakusunneq, imaluunniit angalallannualuunniit pitsaanerussuteqanngilaq
+- Kisimiinneq, imaluunniit annaasaq ataaseq, soorlu aappariit toqunerat suliffeqarfimmilluunniit soraarneq
+- Eqqarsartaanerup imaluunniit eqqarsartaatsikkut allanngoriarnerit
+- Asannittoq napparsimasoq isumagineq
+- Aningaasat pillugit erloqinera imaluunniit oqaatsit assigiinngitsut akornusersorneri
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Tusilartitsineq pingaaruteqarpoq. NIA-p erseqqissarpaa tusilaarlusinnaajunnaartut avissaarsinnaasut, oqaloqatigiinneq ajuallapilernersoq imaluunniit pakatsinermik misigisarnerat pissutigalugu. Quppernerput [tusilartitsineq oqarasuaatillu peqqissusaannik](/brain-health/hearing/) tusilartitsinermik misissuineq aammalu tusilartitsisut pisinissamik pisarsinnaasut pillugit paasissutissanik imaqartoq.
 
-## Practical ways to stay connected
+## Attaveqaqatigiinnissamut siunnersuutit iluaqutaasinnaasut
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA-p siunnersuutigai amerlasuut. Ataaseq marlulluunniit illit naleqquttut toqqaruk:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Akulikitsumik attaveqaatit pilersaarutigiuk.** Ullut tamaasa imaluunniit sapaatip akunneranut naatsorsuutigalugu oqarasuaat, allakkat, e-mailit imaluunniit kortinik nassiussineq ilaqutariinnut, ikinngutinut sanilinulluunniit.
+- **Videoqqutigineq ilinniartitsinerlu atortoruk.** Teknologi nutaajuppat, atuakkanik atorniartarfinnit inuiaqatigiinnilu kulturikkut suliffissuarfinnit sungiusaatitittarfiit pisariaqartitsisinnaapput. Quppernerput [telefonikkut videokkullu attaveqarnikkut](/activities/phone-and-video-calls/) takuuk.
+- **Ilagiussaqataaneq.** Ilikkagaq, upperisarsiornermi peqatigiinneq, pisuttuarneq imaluunniit kajumissutsimik sulisineq attaveqaqatigiinneq siuarsaasumillu misiginninneq tunniussinnaapput.
+- **Sammisassaqartoq pigaaneq aallartiuk** imaluunniit nutaaq inunnik allat peqataaffigalugu ilikkaruk.
+- **Inunnik allat akornanni timilersoruk.** Ikinnguteqarlutit imaluunniit eqimattani timilersoruk. Quppernerput [timilersuinermik](/brain-health/exercise/) timilersuinermik eqqiluitsunik imaqartoq.
+- **Miluumasoq eqqarsaatigiuk** nakkutilliisinnaagukku.
+- **Najukkami sullissinerit atoruk.** Utoqqanik tamanut atugassaqartitsivik, Area Agencies on Aging Eldercare Locator-lu (800-677-1116) ingerlatitseqqissaartitsinernik pilersaarutinut allanut paasissutissanik tunniussinnaapput.
 
-## Why do shared activities matter in dementia?
+## Sooq suleqatiginnermik inuuneq puulukkani pingaaruteqanga?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Inuk puulukkamik naapertuusoq atugarliussaq, attaveqaqatigiinneq nuannaarnermut, eqqissinermut ilanngunneqarnermullu tunngavoq, nalornissaq appariartinniarlugu pinnagu. Lancet Commission-ip erseqqissarpaa suliniutit inuit puulukkamik naapertuuttut nuannaarnermik siunertamillu ataqqinissaat ikiorasinnaagaat. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) erseqqissarpaa, inuunerup pitsaanera pitsanngorsarniarlugu, suliniutit pissutsit ilussitsilu, soorlu angalaartarnerup tungaanut imaluunniit kamajuinnerup, annikillisinnaasut. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) erseqqissarpaa inuit Alzheimerimik naapertuuttut allanut ataqqillutik nuannarisaminik suliaqartariaqaramik.
 
-Ideas that work well:
+Siunnersuutit iluaqutaasinnaasut:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Asseqarlutik assinik takuniaritse.** [Conversation Cards](/games/conversation-cards/) ammasunik aperqutinik, soorlu "Oqaluttuaaruk..." qinnuteqaqqaanngitsunik neqerooruteqarput. Quppernerput [eqqaamasanik oqaloqatigiinnermik](/activities/reminiscence/) takuuk.
+2. **Sanaajillutik pinngitsorli.** [Picture Pairs](/games/picture-pairs/) assit ersittillugit atortarpaat, piffissaliorsaanera nalunaarsuineralu soqanngilaq, taassuma kingorna tusarliussaanermik pilersitsisoqanngilaq. Quppernerput [qanoq suleqatiginninneqarsinnaanersoq](/caregiving/how-to-play-together/) siunnersuutinik imaqartoq.
+3. **Ilaquttat assinik atuisitse.** [Photo Pairs](/games/photo-pairs/) assit nammineq toqqakkat assinik naleqartitsinerulersippai, assillu suliaqarnermi inniminniittutinnarput.
+4. **Inuit ataatsimoortikkit.** [Picture Bingo](/games/picture-bingo/) ilaqutariit ataatsimoornerannut pitsaasuuvoq aammalu [paariselinni eqimattanut](/activities/care-home-groups/).
+5. **Nipilersorneq, angerlarsimaffimmi suliat naatsiiviliornermilluunniit avitseqatigiligit.** [Nipilersuinermik suliat](/activities/music/), [angerlarsimaffimmi suliat](/activities/household-tasks/) aammalu tamanut [sulianut siunnersuutit](/activities/ideas/) takuuk.
+6. **Pulaariarneq ajornanngortikkuk.** Quppernerput [pulaariarnernik](/activities/visiting/) pulaariarnerit sivikitsuulli eqqissisimasullu tamanut nuannarinerannik imaqartoq.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Mikisuilluni eqqissillutik piniaritse. Inissaq nipaarujussuaq inuppassuarnik marlunnilluunniit amerlanerusunik ikittuinnarnik nalinginnaasumik pitsaanerulluni. Inuk qasulerpat imaluunniit soqutiginnilersimanngippat, unitsitsineq ajornaqanngilaq. Ataatsikkut tii toqqorluni ineqatigiinneq taamaalilluni nuannaarutigineqarpoq.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Inummut kisimiilluni puulukkamik naapertuusumut najugaqartumut, NIA-p siunnersuutigaa inuk tatigisaq nassaartoq akulikitsumillu pulaarisinnaasoq imaluunniit videoerikkut attaveqaatigisinnaasoq, aammalu ilitsersuisinnaalluni attaveqaataasinnaalluni. Taamaasillunilu eqqaamasanik kafeqarfimmik najukkami, inissiarnermi eqqissisimasumi inuit eqqarsaataannermik ajornartorsiuteqartut ilaqutariillu peqataaffigisinnaasut, erseqqissaavoq.
 
-## Caregivers get lonely too
+## Paarsisut kisermaassuseqarnissaat aamma ersarippoq
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA-p asannittoq isumagineq avissaassutsip nalornissaa ilagaatut allassimavaa. Ikinngutit, ikiorserneqarnikkut eqimattat aammalu sunngiffiit illit nammineq piffissaatigikkit. Quppernerput [paarsisut imminnut isumaginninnermik](/caregiving/caregiver-self-care/) siunnersuutinik iluaqutaasinnaasunik imaqartoq.
 
-## Talk with a doctor
+## Nakorsamik oqaloqatiginnigit
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Illit imaluunniit asannittoq illit isumagigaat piffissap amerlanerani kisermaalluni avissaasimalluni misigiguni, nakorsaq ilisimatikkuk. NIA-p kajumissaarpoq inuit inuunermi allannguutinik pingaarutilinnik, soorlu ilaqutariinni toqusoq, immikkoortiterlugit, nakorsap tamakkiisumik paasinissaa pillugu. Sapaatip-akunneri amerlasuut nuanniitsuuvoq misiginissaq aliasunneqarsinnaavoq, pitsaanerusinnaasorli. Utoqqaq ikinngutinik allanut suliatilluunniit nuannarinerujussuarnik qimaguppat, allannguut tamanna nakorsamut nalunaarutiginiassuk. Atuakkit [ilitsersuutit siulliit qanga nakorsarlu naapissallugu](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Qupperneq manna paasissutissiivoq nalinginnaasumik, nakorsatut siunnersuutinngilaq. Quppernerput [nakorsatigut nalunaarutaa](/medical-disclaimer/) takuuk.

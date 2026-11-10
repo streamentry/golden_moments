@@ -1,32 +1,30 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "ទម្លាប់ប្រចាំថ្ងៃយ៉ាងស្រទន់សម្រាប់អ្នករស់ជាមួយជំងឺភ្លេចភ្លាំង"
+seoTitle: "ទម្លាប់ប្រចាំថ្ងៃសម្រាប់ជំងឺភ្លេចភ្លាំង៖ គំរូមួយថ្ងៃ"
+description: "គំរូមួយថ្ងៃដែលអាចបត់បែនបានសម្រាប់អ្នករស់ជាមួយជំងឺភ្លេចភ្លាំង ជាមួយនឹងអាហារ សកម្មភាព និងការសម្រាកក្នុងលំនាំដដែលៗ រួមទាំងវិធីបង្កើតផ្ទាល់ខ្លួន និងការបត់បែននៅថ្ងៃពិបាក។"
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  ទម្លាប់ប្រចាំថ្ងៃយ៉ាងស្រទន់ជួយរក្សាពេលភ្ញាក់ អាហារ ការថែទាំផ្ទាល់ខ្លួន និងពេលគេងឱ្យនៅជិតម៉ោងដូចគ្នា។ 
+  គួរដាក់សកម្មភាពសំខាន់នៅពេលដែលអ្នកនោះមានស្មារតីច្រើនបំផុត ហើយត្រូវមានការសម្របសម្រួលរវាងសកម្មភាព និងការសម្រាក។ 
+  បង្កើតទម្លាប់ពីទម្លាប់ជីវិតរបស់អ្នកនោះពីដើមមក រក្សាវាឱ្យបើកចំហជាងតឹង ហើយផ្លាស់ប្តូរវាបានគ្រប់ពេលតាមស្ថានភាពប្រចាំថ្ងៃ។
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "ការកំណត់ម៉ោងដូចគ្នាសម្រាប់ពេលភ្ញាក់ អាហារ ការថែទាំ និងពេលគេង ជួយឱ្យថ្ងៃមានរូបរាងដែលធ្លាប់ស្គាល់។"
+  - "គួរដាក់សកម្មភាពសំខាន់នៅពេលដែលអ្នកនោះមានស្មារតីប្រសើរបំផុត ជួនកាលគឺនៅពេលព្រឹក។"
+  - "មិនចាំបាច់បំពេញរាល់នាទីទាំងអស់នោះទេ។ ការសម្រាក និងពេលស្ងប់ស្ងាត់ក៏ជាផ្នែកមួយនៃទម្លាប់ប្រចាំថ្ងៃដែរ។"
+  - "Ánh nắngថ្ងៃ ការចលនាប្រចាំថ្ងៃ និងការកាត់បន្ថយការគេងថ្ងៃយូរ ឬការផឹកកាហ្វេយឺតៗ អាចជួយបន្ថយភាពស្រពិចស្រពិលនៅចុងថ្ងៃ។"
+  - "ទម្លាប់ប្រចាំថ្ងៃគឺជាមគ្គុទេសក៍ មិនមែនជាច្បាប់ទេ។ អាចប្តូរ កាត់បន្ថយ ឬរំលងសកម្មភាពណាមួយនៅថ្ងៃពិបាកបាន។"
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "ហេតុអ្វីទម្លាប់ប្រចាំថ្ងៃជួយសម្រាប់អ្នករស់ជាមួយជំងឺភ្លេចភ្លាំង?"
+    a: "ថ្ងៃដែលអាចទស្សន៍ទាយបាននឹងកាត់បន្ថយការសម្រេចចិត្ត និងការភ្ញាក់ផ្អើល ដែលជារឿងដែលអ្នកជាច្រើនរស់ជាមួយជំងឺភ្លេចភ្លាំងពិបាក ឬមានអារម្មណ៍មិនសុខស្រួល។ ទន្ទឹមនឹងនេះ សមាគមជំងឺអាល់ហ្សៃម៊ើរ កត់សម្គាល់ថា កាលវិភាគដែលបានគ្រោងទុកអាចជួយឱ្យអ្នកថែទាំចំណាយពេលតិចជាងមុនក្នុងការសម្រេចថាត្រូវធ្វើអ្វី និងមានពេលច្រើនជាងមុនសម្រាប់រឿងដែលគ្រួសារទាំងពីរពេញចិត្ត។ វាក៏ជួយឱ្យអ្នកថែទាំតម្រូវលំនាំដំណើរការរបស់ខ្លួនផងដែរ។"
+  - q: "តើគួរមានទម្លាប់ប្រចាំថ្ងៃបែបណាសម្រាប់អ្នករស់ជាមួយជំងឺភ្លេចភ្លាំង?"
+    a: "មិនមានទម្រង់ត្រឹមតែមួយទេ។ ទម្លាប់ល្អគួររក្សាពេលភ្ញាក់ អាហារ និងពេលគេងឱ្យនៅជិតម៉ោងដូចគ្នា ដាក់ការថែទាំផ្ទាល់ខ្លួន និងសកម្មភាពសំខាន់នៅពេលដែលអ្នកនោះមានស្មារតីប្រសើរបំផុត រួមបញ្ចូលពេលនៅខាងក្រៅ ឬនៅជិតបង្អួច ហើយទុកចន្លោះសម្រាប់ការសម្រាក។ គួរបង្កើតវាដោយផ្អែកលើវិធីរស់នៅរបស់អ្នកនោះតាំងពីអតីតកាល។"
+  - q: "តើអ្នករស់ជាមួយជំងឺភ្លេចភ្លាំងគួរគេងថ្ងៃដែរឬទេ?"
+    a: "ការសម្រាកខ្លីអាចជួយបាន ជាពិសេសបន្ទាប់ពីអាហារថ្ងៃត្រង់។ វិទ្យាស្ថានចំណាស់អាមេរិកណា ស្នើឱ្យកាត់បន្ថយការគេងយូរ ឬគេងយឺតនៅចុងថ្ងៃ ព្រោះការឡើងឡាលឬការសម្រាកមិនគ្រប់គ្រាន់អាចបន្ថែមភាពស្រពិចស្រពិលនៅចុងថ្ងៃ។ ប្រសិនបើមានបញ្ហាគេងរយៈពេលយូរ សូមពិគ្រោះជាមួយគ្រូពេទ្យ។"
+  - q: "តើមានអ្វីកើតឡើងប្រសិនបើពួកគេបដិសេធមិនធ្វើតាមទម្លាប់ប្រចាំថ្ងៃ?"
+    a: "គ្រាន់តែទុកវាចោលសិន ហើយព្យាយាមម្តងទៀតនៅពេលក្រោយ ឬតាមវិធីផ្សេង។ ការបដិសេធអាចមានន័យថា ពួកគេហត់ អនាថា ឈឺ ឬគ្រាន់តែមិនទាន់พร้อมនោះទេ។ ទម្លាប់ប្រចាំថ្ងៃមានគោលបំណងធ្វើឱ្យថ្ងៃងាយស្រួលជាងមុន ដូច្នេះគួរបត់បែនជាងបង្ខំ។"
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +43,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+ទម្លាប់ប្រចាំថ្ងៃយ៉ាងស្រទន់ជួយឱ្យថ្ងៃមានរូបរាងដែលធ្លាប់ស្គាល់៖ ភ្ញាក់ អាហារ សកម្មភាពតិចតួច សម្រាក និងគេងនៅម៉ោងប្រហាក់ប្រហែលគ្នា។ វាកាត់បន្ថយការសម្រេចចិត្ត និងការភ្ញាក់ផ្អើល ហើយផ្តល់ផែនការសម្រាប់ពេលដែលអ្នកមិនដឹងថាត្រូវធ្វើអ្វីបន្ទាប់ពីនេះ។ គំរូខាងក្រោមគ្រាន់តែជាគំរូមួយ មិនមែនជាច្បាប់នោះទេ។ សូមប្រើវាជាចំណុចចាប់ផ្តើម បន្ទាប់មកបង្កើតវាតាមតម្រូវការរបស់អ្នកដែលអ្នកថែទាំ។
 
-## Why does a daily routine help?
+## ហេតុអ្វីទម្លាប់ប្រចាំថ្ងៃជួយបាន?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+ទម្លាប់ដែលស្ថិតស្ថេរគឺងាយធ្វើតាមជាងរឿងថ្មី។ សមាគមជំងឺអាល់ហ្សៃម៊ើរ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) កត់សម្គាល់ថា កាលវិភាគដែលបានគ្រោងទុកជួយឱ្យចំណាយពេលតិចក្នុងការសម្រេចថាត្រូវធ្វើអ្វី និងមានពេលច្រើនសម្រាប់សកម្មភាពដែលរីករាយ រួមទាំងការរក្សាពេលភ្ញាក់ និងគេងនៅម៉ោងដូចគ្នាដែរ ដែលអាចជួយដោះស្រាយបញ្ហាគេង និងភាពស្រពិចស្រពិលនៅចុងថ្ងៃ។ វិទ្យាស្ថានចំណាស់អាមេរិកណា [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ស្នើឱ្យងូតទឹក ស្លៀកពាក់ និងញ៉ាំអាហារនៅម៉ោងដូចគ្នារៀងរាល់ថ្ងៃជាផ្នែកមួយនៃបរិយាកាសផ្ទះដែលស្ងប់ស្ងាត់ ហើយអង្គការសហការថែទាំគ្រួសារ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ក៏ផ្តល់អនុសាសន៍ដូចគ្នានេះដែរ។
 
-## A sample gentle day
+## គំរូមួយថ្ងៃយ៉ាងស្រទន់
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+ម៉ោងនៅទីនេះគ្រាន់តែជាឧទាហរណ៍ប៉ុណ្ណោះ។ អាចផ្លាស់ប្តូរទាំងថ្ងៃឱ្យមុន ឬយឺតជាងនេះ ដើម្បីសមស្របនឹងលំនាំធម្មជាតិរបស់អ្នកនោះ។
 
-| Time | What happens | Ideas | On a harder day |
+| ម៉ោង | អ្វីដែលនឹងធ្វើ | គំនិត | នៅថ្ងៃពិបាក |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 ព្រឹក | ភ្ញាក់ ងូតទឹក ស្លៀកពាក់ | ធ្វើតាមលំដាប់ដូចគ្នារៀងរាល់ថ្ងៃ សូមរៀបសំលៀកបំពាក់តាមលំដាប់ដែលត្រូវស្លៀក | រក្សាការថែទាំឱ្យសាមញ្ញ គ្រាន់តែអាវស្អាតមួយក៏គ្រប់គ្រាន់ដែរ |
+| 8:45 ព្រឹក | អាហារព្រឹក | ផឹកកាហ្វេ និងអានកាសែតជាមួយគ្នា ឬស្តាប់វិទ្យុ | ញ៉ាំអាហារជាមួយគ្នា យ៉ាងស្ងប់ស្ងាត់ មិនមានការជំរុញឱ្យនិយាយទេ |
+| 9:30 ព្រឹក | សកម្មភាពសំខាន់ | បត់គ្រឿងផាត់ ម្ហូបចំហៀង ធ្វើសួន ធ្វើដំណើរក្រៅផ្ទះខ្លីៗ ឬដើរលេង | ធ្វើកំណែខ្លីជាងមុន ឬគ្រាន់តែមើលអ្នកធ្វើ |
+| 10:30 ព្រឹក | ពេលស្ងប់ស្ងាត់ | ស្តាប់តន្ត្រី មើលសៀវភៅរូបថត ឬអង្គុយនៅជិតបង្អួច | សម្រាកនៅលើកៅអីដែលពេញចិត្ត |
+| 11:00 ព្រឹក | ជួយរៀបចំអាហារថ្ងៃត្រង់ | ជួយលាងបន្លែ រៀបតុ | អ្នកធ្វើម្ហូប ពួកគេគ្រាន់តែ陪伴 |
+| 12:00 ថ្ងៃត្រង់ | អាហារថ្ងៃត្រង់ និងរៀបចំ | ជូតតុ ជួយសម្អាតចានពីរបីគូ | រំលងការងារផ្ទះ |
+| 1:00 រសៀល | សម្រាកខ្លី | យកជើងវាៗ ស្តាប់តន្ត្រីស្រាលៗ | ដូចគ្នា |
+| 2:00 រសៀល | នៅខាងក្រៅ ឬចលនា | ដើរ អង្គុយលើព្រះរាង ផ្សំរុក្ខជាតិ ចោលបាល់តិចៗ | អង្គុយនៅជិតបង្អួចដែលមានពន្លឺព្រះអាទិត្យ |
+| 3:00 រសៀល | ជជែក ឬសកម្មភាពច្នៃប្រឌិត | ទទួលភ្ញៀវ ការហៅទូរស័ព្ទ [គូរូបភាព](/games/picture-pairs/) គូររូប លេងសន្លឹកបៀ | ផឹកភេសជ្ជៈ និងញ៉ាំអាហារស្រាលជាមួយគ្នា |
+| 4:30 រសៀល | ពេលចុះសម្រុង | បិទព្រិល បើកភ្លើងយឺតៗ ធ្វើការងារស្រាលដូចបត់កន្សែងដៃ | ស្តាប់តន្ត្រីដែលធ្លាប់ស្គាល់ សម្លេងទាប |
+| 5:30 ល្ងាច | អាហារល្ងាច | ជួយកូរ ឬរៀបតុ | អាហារសាមញ្ញ និងធ្លាប់ញ៉ាំ |
+| 6:30 ល្ងាច | រួមគ្នានៅល្ងាច | នឹកមនុស្សពីអតីតកាល លេងសន្លឹកបៀ មើលកម្មវិធីដែលពេញចិត្ត ឬម៉ាស្សាដៃយ៉ាងស្រទន់ | ការអនុវត្តន៍ស្ងប់ស្ងាត់ |
+| 8:00 រាត្រី | ទម្លាប់មុនគេង | ងូតទឹក ឬលាងខ្លួន ស្លៀកពាក់គេង ស្តាប់តន្ត្រីស្រាលៗ ភ្លើងទាប | កាត់បន្ថយអ្វីគ្រប់យ៉ាង ការស្រួលស្របគឺសំខាន់ជាងគេ |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+គំរូនេះមានលំនាំដូចគ្នានឹងគំរូរបស់សមាគមជំងឺអាល់ហ្សៃម៊ើរ សម្រាប់ដំណាក់កាលដើម និងដំណាក់កាលកណ្តាល ដែលផ្លាស់ពីការថែទាំផ្ទាល់ខ្លួន និងអាហារព្រឹក ទៅរកការងារផ្ទះ ដើរលេង តន្ត្រី សម្រាក ទទួលភ្ញៀវ រហូតដល់អាហារល្ងាច ការនឹកឡើងវិញនៃអតីតកាល និងការរៀបចំសម្រាប់គេង។
 
-## How do you build your own routine?
+## តើធ្វើដូចម្តេចដើម្បីបង្កើតទម្លាប់ប្រចាំថ្ងៃផ្ទាល់ខ្លួន?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+សូមចាប់ផ្តើមពីវិធីរស់នៅរបស់អ្នកនោះពីដើមមក មិនមែនពីតារាងទេ។ សមាគមជំងឺអាល់ហ្សៃម៊ើរ ស្នើឱ្យគិតពីរឿងទាំងនេះមុននឹងរៀបចំផែនការ៖
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **ចំណង់ចំណូលចិត្ត មិនចូលចិត្ត ចំនុចខ្លាំង និងចំណាប់អារម្មណ៍របស់ពួកគេ។**
+- **វិធីដែលពួកគេធ្លាប់ចំណាយពេលប្រចាំថ្ងៃ។** ប្រសិនបើពួកគេជាអ្នកភ្ញាក់ទើបមានការចាប់ផ្តើម និងធ្លាប់ដើរនាំឆ្កែ គួរក៏នៅតែដើរនាំឆ្កែពេលព្រឹកដូចគ្នា។ ប្រសិនបើពួកគេធ្លាប់គេងយឺត និងភ្ញាក់យឺត ពួកគេប្រហែលមិនចូលចិត្តចាប់ផ្តើមនៅម៉ោង ៨ព្រឹកទេ។
+- **ពេលដែលពួកគេមានស្មារតីប្រសើរបំផុត។** សូមដាក់ការងូតទឹក ធ្វើដំណើរក្រៅផ្ទះ និងសកម្មភាពសំខាន់នៅក្នុងពេលនោះ។
+- **ទុកពេលគ្រប់គ្រាន់** សម្រាប់អាហារ ការលាងខ្លួន និងការស្លៀកពាក់ ដើម្បីជៀសវាងការរត់ប្រញាប់។
+- **រក្សាពេលភ្ញាក់ និងគេងឱ្យនៅម៉ោងដូចគ្នា។**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+ប្រភពដូចគ្នានេះក៏ស្នើឱ្យរួមបញ្ចូលការងារផ្ទះ អាហារ ការថែទាំផ្ទាល់ខ្លួន សកម្មភាពច្នៃប្រឌិត ការចលនា សកម្មភាពសង្គម សកម្មភាពផ្នែកខាងវិញ្ញាណ និងពេលបែរភាពដូចជាមិត្តភ័ក្តិមកលេងដោយបើកចំហផងដែរ។
 
-### Try it for a week, then adjust
+### សាកល្បងក្នុងរយៈពេលមួយសប្តាហ៍ បន្ទាប់មកកែតម្រូវ
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+សូមកត់ត្រាសាមញ្ញៗរៀងរាល់ថ្ងៃ។ សមាគមជំងឺអាល់ហ្សៃម៊ើរ ស្នើឱ្យសួរថាតើសកម្មភាពណាដែលដំណើរការបានល្អបំផុត ហេតុអ្វី? តើមានពេលណាដែលមានរឿងច្រើនពេក ឬតិចពេក? ហើយតើផែនការដោយឱកាសធម្មតាមានភាពរីករាយ ឬបង្កាចំណាប់អារម្មណ៍ព្រួយបារម្ភដែរឬទេ? សូមរក្សាអ្វីដែលដំណើរការបានល្អ ហើយផ្លាស់ប្តូរអ្វីដែលមិនដំណើរការ។
 
-### Make it visible
+### ធ្វើឱ្យមើលឃើញច្បាស់
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+ប្រសិនបើអ្នកនោះនៅតែអានបាន អាចប្រើក្ដារខៀន ឬកាតអក្សរធំជាមួយនឹងផែនការប្រចាំថ្ងៃដើម្បីបង្ករបដិតសន្តិភាព។ រក្សាវាឱ្យខ្លី៖ "អាហារព្រឹក។ ដើរជាមួយសារ៉ា។ អាហារថ្ងៃត្រង់។ សម្រាក។" មនុស្សមួយចំនួននឹងដំណើរការបានប្រសើរជាងមុនប្រសិនបើមិនដឹងផែនការជាមុនទេ។ អង្គការសហការថែទាំគ្រួសារ ស្នើឱ្យកុំពិភាក្សាផែនការមុនពេលអនុវត្ត ប្រសិនបើវាបណ្តាលឱ្យមានការព្រួយបារម្ភ។
 
-## How to adapt the routine
+## វិធីបត់បែនទម្លាប់ប្រចាំថ្ងៃ
 
-### Leave room to breathe
+### ទុកចន្លោះឱ្យដកដង្ហើម
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+មិនចាំបាច់បំពេញរាល់នាទីទាំងអស់នោះទេ។ សមាគមជំងឺអាល់ហ្សៃម៊ើរ ផ្តល់ឱ្យដឹងថា អ្នកនោះត្រូវការសមតុល្យរវាងសកម្មភាព និងការសម្រាក ហើយអាចត្រូវការសម្រាកញឹកញាប់ជាងមុន។ ប្រសិនបើពួកគេហាក់ដូចជានឹកណាយ ភ័ន្តច្រលំ ឬរំខាន សូមប្តូរសកម្មភាព ឬឱ្យសម្រាក។
 
-### Protect the late afternoon
+### ការពារពេលចុងថ្ងៃ
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+មនុស្សជាច្រើនមានអារម្មណ៍ស្រពិចស្រពិលកាន់តែខ្លាំងនៅពេលថ្ងៃលិច។ វិទ្យាស្ថានចំណាស់អាមេរិកណា ស្នើឱ្យចំណាយពេលនៅខាងក្រៅ ឬនៅជិតបង្អួចដើម្បីទទួលពន្លឺព្រះអាទិត្យរៀងរាល់ថ្ងៃ ចលនារៀងរាល់ថ្ងៃដោយមិនគ្រោងច្រើនពេក ជៀសវាងកាហ្វេ និងស្រាអាល់កុលយឺតៗ និងកាត់បន្ថយការគេងយូរនៅចុងថ្ងៃ។ គ្រួសារខ្លះក៏រកឃើញថា ការបិទព្រិល និងបើកភ្លើងមុនថ្ងៃងងឹតជួយបានដែរ។ សូមមើលព័ត៌មានបន្ថែមនៅ [ភាពស្រពិចស្រពិលនៅចុងថ្ងៃ](/caregiving/late-day-restlessness/) និង [ការគេង](/brain-health/sleep/)។
 
-### Change it as needs change
+### ប្តូរតាមតម្រូវការដែលផ្លាស់ប្តូរ
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **ដំណាក់កាលដើម៖** រៀបចំទម្លាប់ជាមួយគ្នា។ អ្នកនោះអាចចង់មានកាលវិភាគជាលាយលក្ខណ៍អក្សរ ហើយគ្រប់គ្រងវាដោយខ្លួនឯង។
+- **ដំណាក់កាលកណ្តាល៖** អ្នកថែទាំត្រូវដឹកនាំកាន់តែច្រើន។ សកម្មភាពខ្លីជាងមុន ការសម្រាកច្រើនជាងមុន និងការងារដែលធ្លាប់ស្គាល់ច្រើន។ សូមមើល [សកម្មភាពសម្រាប់ដំណាក់កาลកណ្តាល](/activities/middle-stage/)។
+- **ដំណាក់កាលចុង៖** ទម្លាប់ប្រចាំថ្ងៃផ្តោតលើការស្រួលស្រប អាហារ និងការថែទាំ ជាមួយនឹងពេលផ្លូវចិត្តខ្លីៗដូចជាស្តាប់តន្ត្រី ឬម៉ាស្សាដៃយ៉ាងស្រទន់។ សូមមើល [សកម្មភាពសម្រាប់ដំណាក់កាលចុង](/activities/late-stage/)។
 
-### Vary the activities, not the frame
+### ប្តូរសកម្មភាព មិនមែនប្តូរទម្រង់ទេ
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+រក្សាអាហារ ការសម្រាក និងពេលគេងឱ្យនៅដដែលៗ ហើយបង្វែរសកម្មភាពនៅចន្លោះពេលនោះ។ វិទ្យាស្ថានចំណាស់អាមេរិកណា [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ស្នើឱ្យសាកល្បងសកម្មភាពផ្សេងៗគ្នាក្នុងថ្ងៃផ្សេងៗ ដើម្បីរក្សាភាពចាប់អារម្មណ៍។ ឧទាហរណ៍ ធ្វើនំថ្ងៃច័ន្ទ ធ្វើសួនថ្ងៃអង្គារ និងមើលរូបថតថ្ងៃពុធ។ យើងមាន [គំនិតសកម្មភាព ១០១](/activities/ideas/) និង [ការងារផ្ទះ](/activities/household-tasks/) សម្រាប់បំពេញចន្លោះពេលទាំងនោះ។
 
-## When the day goes sideways
+## នៅពេលដែលថ្ងៃមិនដូចផែនការ
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+ថ្ងៃខ្លះនឹងមិនអាចធ្វើតាមផែនការណាមួយបានទេ។ ជំងឺ ការគេងមិនលក់យប់មិញ ការទៅពិនិត្យគ្រូពេទ្យ ឬការផ្លាស់ប្តូរអាកាសធាតុ អាចរំខានដល់អ្វីគ្រប់យ៉ាង។ សូមបោះបង់ផែនការទៅ ធ្វើតែរឿងសំខាន់បំផុត (អាហារ ភេសជ្ជៈ ការសម្រាក និងការស្រួលស្រប) ហើយព្យាយាមម្តងទៀតនៅថ្ងៃស្អែក។ ប្រសិនបើអ្នកនោះបដិសេធអ្វីមួយ សូមមើល [នៅពេលដែលពួកគេនិយាយថា «អត់ចង់»](/caregiving/when-they-say-no/). ការដកដង្ហើមយឺតៗជាមួយគ្នា ដូចនៅក្នុង [ការដកដង្ហើមស្ងប់ស្ងាត់](/games/calm-breathing/) អាចជួយឱ្យអ្នកទាំងពីរចាប់ផ្តើមឡើងវិញ។
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+ការថែរក្សាខ្លួនឯងក៏សំខាន់ដែរ។ សូមរកពេលសម្រាកសម្រាប់ខ្លួន ហើយស្នើសុំគ្រួសារ ឬសេវាកម្មជំនួសឱ្យមកថែទាំជាប្រចាំ។ សូមមើល [ការថែទាំខ្លួនឯងរបស់អ្នកថែទាំ](/caregiving/caregiver-self-care/).

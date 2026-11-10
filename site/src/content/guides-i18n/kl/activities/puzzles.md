@@ -1,32 +1,28 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Dementiaqartut ilukkaat: assilissat oqaasillullu"
+seoTitle: "Dementiaqartut ilukkaat: assilissat oqaasillu"
+description: "Qanoq dementiaqaq ilukkamik assilissanik, oqaasikkulluunniit online-imilluunniit toqqassallugu: ilukkat amerlassusaat, assit, allakkat angissutsit, katerullugit sulineq, aqqutaallarnerlu."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Dementiaqaq ilukkamut pitsaassusaanut taakkua ikiorneqarlunilu naammassinissinnaasai nuannaarutigisartakkallu. Assilissat ilukkaat amerlagisaanik ilukkarlutillu angisuullutik toqqakkit, assit inuknut naleqquttut ersarillu, boksi assilia takutillugu inissiguk, sinaakkullu ilukkaat siullermik toqqarukkit. Oqaasinnik ujarlerneq oqaatsinillu sananeq allakkanik angisuunik pitsaasuuvoq. Online-imi ilukkat ajornanngitsut 4-ilukkallit dementiaqaq qeqqaniinnerusumik naapertuullunilu innartoq naleqquttarpaa. Nuannaaruneq unitsinnagu unitsigit.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Killiffimmut taaguuteqarnani qanoq ingerlanneranik toqqaruk: ilukkat periarfissaanngippata, amerlagisaanik ilukkarlit misiliguk."
+  - "Ilukkat angisut, nakussatut sanalluagaasut, assillu ersartunik qalipaateqartunik ersarissunik ilukkat mikisut assillu qilammiusut amerlat kingorna atornarnerusut."
+  - "Assit inuknut naleqquttut pingaaruteqarluinnarput. Naatsiiviit, igaffiit, biilit uumasullu, maannaataasut minnerunngillat."
+  - "Katerulluni suliaq pingaaruteqarpoq. Ilukkat tunniukkit, sinaat toqqakkit, boksi matuata assilia ersersimatillugu toqqoruk."
+  - "Oqaasinnik ujarlerneq allakkanik angisuunik online-imilu ilukkat ajornanngitsut 4-imik 9-imilluunniit ilukkallit uuminnga nittartakkami akeqanngitsumik pissarsiarineqarsinnaapput."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Qassit ilukkat amerlassusaat dementiaqaq naleqquttarpaa?"
+    a: "Ataaseq akisussaq toqqaanartoqanngilaq. 1.000-ilukkartunik ilukkarsimasimasoq siullermik untritillit amerlassusaat suli nuannaarutigisinnaavai, allat ilukkat angisuulluni amerlagisaanik pitsaassusaat. Ilukkatarsinnaavoq ungasippata imaluunniit kammaatinngortippata, amerlagisaanik ilukkarlit atoruk. Uani online-imi Picture puzzle 4-imik 9-imilluunniit ilukkqarpoq."
+  - q: "Assilissat ilukkaat dementiaqartut iluaqutigisinnaavaat?"
+    a: "Amerlasuut nuannaarutigisarpaat, pingaartumik ilukkarsimasarsimappata. Ilukkat assannik suliaqarnissamut periarfissaapput, siunertaq ersarissuuvoq oqaloqatigiinnermullu assissaqalersitsivoq. Ilukkamik dementiaemik ajorunnaarsitsisoq imaluunniit unitsitsisoq takuneqarsimanngilaq, tamanit nuannaarutiginiarlugit peqatigisarlugillu toqqakkit."
+  - q: "Inuk assilissanik ilukkamik unitsippat qanoq iliussaanga?"
+    a: "Mikigitsiguk, amerlanerpaalu illit suliaruk: ataaseq ilukkat tuniarlugu, imaluunniit kingulliit ilukkat amerlagisat kisimi unikkallarlugit. 4-ilukkartunik online-ilukkamik, ilukkat qalipaataannik immikkoortiterinermi imaluunniit assi naammassinneqarsimasoq peqatigisarlugu isiginniarlugu misiliguk."
+  - q: "Oqaasinik sananeq oqaasinillu ujarlerneq dementiaqaq naleqquttarpaa?"
+    a: "Siullermik, allakkanik angisuunik atuuppata naleqquttarsinnaapput. Oqaasinik ujarlernerni oqaatsit sammillugu isaasinnaasulluunniit allalluinnaasut ingerlaannaq allalluinnaasut allaqqalluinnaasut amerlanernit ajornannginnerusut. Oqaaseqaatit oqaatsillu allattorsimaffiat qarsuarlugit katerullutillu suliaritsi."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +41,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Assilissanik ilukkat nerrivimmi nerrivilermi siammarsimatillugit tamanut saniatigut kingullermik peqataanissamut ajornannginnerpaavoq. Oqaloqatiginnissaqartinnagu issiasinnaavusi, assi oqaloqatiginnissamut periarfissaavoq, ilukkallu kingulleq inillugu misigisat nuannersaaq. Taamaattorli ilukkat dementia allanngoriartorneratigut allanngortinneqartariaqarput. Ilukkat ajornartoorujussuit ullup-qeqqata eqqissisimanartoq kammaatinngortitsisinnaavaat. Quppernermi uani saqqummiupparput qanoq assilissat ilukkaat, oqaasikkut ilukkat online-imilu ilukkat ajornanngitsut toqqassallugit piareersarlugillu, aammalu susoqarnersoq ilukkat ajornarnerulerunik.
 
-## Are puzzles good for people with dementia?
+## Ilukkat dementiaqartut iluaqutigisinnaavaat?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Amerlasuut nuannaarutigisarpaat, pingaartumik ilukkarsimasarsimappata. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) oqaatsinik nassaarnissaq, kaatinik unnuartarneq spillillu siullermi suliniutit akornanni taaneqarput, [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)-ilu tablet-imi online-ilukkat suliniutit akornanni taaneqarput peqataatinniarnissaq pillugu.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Ilukkat katsorsaanermut atorneqaratik. Ilukkamik dementiaemik unitsitsisoq imaluunniit unittussanngortitsisoq takuneqarsimanngilaq; oqaatsivut [ilukkat taratsumullu dementia](/brain-health/brain-games/) pillugit misissuinerit nassuiaapput. Ilukkamik suliniuteqartarnerup inassutaa peqatigisarlutit piffissaq nuannersoq eqqarsaatersornartoq atorsinnaanersoq. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ima eqqartorpaa: nuannaarneq pingaartinneruuvoq naammassinissaq pinnarnani.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Qanoq dementiaqaq assilissanik ilukkamik toqqassallugu?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Inup nuannaarutaa ilukkallu kingullermik qanoq ingerlannerat malillugit toqqaruk, killiffimmut taaguuteqarnatit.
 
-### Number of pieces
+### Ilukkat amerlassusaat
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Toqqaanartoq amerlassuseqanngilaq. Ilukkarsimasuartoq siullermik untritillit amerlassusaat suli nuannaarutigisinnaavai, allalli qulit ilukkaat nuannersarnerullugit misigisinnaavai. Malittarisassaq pilersaarusioruminaatsulik imaappoq: ilukkat kingulleq suliaqaqarsimappat, ilukkat affaanit amerlassusaat toqqakkit. Taamaasillutillu naammassineqareersimappat amerlanernillu kissaatigisimappat, amerlagisaanik qaffasissunik ilukkat ilakkit.
 
-### Piece size and feel
+### Ilukkat angissusaannik misigissusaanillu
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Ilukkat angisut** takusinnaaanerupput, tigusinnaanerullu nivinngartitsisinnaanerullu.
+- **Ilukkat issussuusut nakussuullu** sumiinnalersinnaapput nakkarunik pilluarusinnaallutillu.
+- **Qalipaat qaamasoq** qulliit igalaallu qaamasuinera annikillisarpaa.
+- **Ilukkat mikisut pinngikkit** inuk kingusinnerusukkut sunik imminiinniartoqarsinnaappat, dementiaqarluni taama pisoqartarpoq.
 
-### The picture
+### Assi
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Assit inuknut naleqquttut.** Naatsiiviit, igaffiit, biilit pisoqaasussat, uumasut nunamiittut, illoqarfissaq sinerissamiittoq imaluunniit timersornerit nuannarisartakkat. Maannaataasut meeqqanut sunneriffiusutullu assigalugit isikkoqartussat pinngikkit.
+- **Qalipaatit ersarillit imminnut assigiinngitsut.** Ilaqutariiffik aappalaartoq, umiarsuaq tungujortooq nunalu qorsuk ilukkamik qilammik affaataqarluni annerusumik ajornannginnerupput.
+- **Ilisarititaasut inummut naleqquttut.** Sumi najugallit aammalu soq nuannarisarigaluaraat assigalugit oqaloqatiginnissamut periarfissanik amerlasuunik pissarsisinnaallutik. Assinik naqiteriviit ilaat ilaqutariit assiisigut ilukkamik sanaqartitsisinnaapput.
 
-## How do you do a puzzle together?
+## Qanoq ilukkat peqatigisarlugu?
 
-Set it up so the person can get straight to the enjoyable part.
+Inummut suliassaq nuannersoq toqqaannartumik aallartinneqarsinnaanngorlugu piareersaruk.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Sumi inississorsinnaaneq toqqaruk.** Qaamasoq pitsaanerpaavoq, issiavik talerpimmik peqartoq, nerrivilermilluunniit atorlugu ilukkat ungasinneqarsinnaasut.
+2. **Boksi matuata assilia** illit tamarmik takusinnaasassaanngorlugu toqqoruk.
+3. **Ilukkat tamarmik saqqummiutikkit** aallartinnagit.
+4. **Sinaat ilukkaat** illit toqqakkit, imaluunniit sinaat siullermik naammassikkit qeqqallu inummut unikkallarlugu.
+5. **Ilukkat qalipaataannik** poortunut imaanut imaluunniit plattinut immikkoortikkit.
+6. **Ataaseq ilukkat tuniarlugu** ilukkat amerlassusaat inummut amerlasoorujussuusimappata. „Uuma ilaqutariiffiup ilaanut ilaasinnaasoq isigaara.“
+7. **Assimik oqaloqatigisigit,** ingerlariaqqasumik pinnani. „Tassa uuma umiarsuaq ataataama pigisimasaa assingajalerpoq.“
+8. **Uani unikkallaruk.** Ulluni arlalinni uterfigisinnaavarsi. Sukannersoqanngilaq.
+9. **Nuannernerup nalaani unitsigit,** ilukkaq ininneqareermat, suli nuannernerup nalaani.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inuk aallartittussanngorlugu ikiorneqarnissaq, kammaatinneq misissorneqarnissaq aammalu taamaallaat isiginniarnissaq nuannersariguni uninngatinneqarnissaq inassutigaa. Isiginnaarnit ilukkat ikkussillutit, aammalu sumi inissinneqarsinnaanera takussutissiarlugu, pineqanngikkaluartoq suli peqataatinneq tassaavoq.
 
-## Easy online puzzles
+## Online-imi ilukkat ajornanngitsut
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tablet-imi ilukkat iluaqutissanik ersarissunik peqarput: ilukkat tammarsimanngillat, assit angisuullutik takutinneqarput, nerrivilermillu ikkussiffissaqartinneqaqqajaanngilaq.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Uani akeqanngitsumik [Picture puzzle](/games/picture-puzzle/) assimik 4-imik 9-imilluunniit ilukkartitsivoq. Ilukkat marluk tooruk paarlugit assi naammassinnga tikillugu. Assi naammassineqarsimasoq takutinneqarujussuuvoq malittagassatut, piffissanik nalunaarsuisoqanngilaq, qaquguluunniit unitsisinnaavutit. Ilukkat 4-it dementiaqaq qeqqaniinnerusumik naapertuullunilu innartoq sanigiguni nalinginnaasumik naleqquttarput.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Assinik suliniuteqartarnerup ajornannginnerusutassiumagukku, [Find the same](/games/find-the-same/) misiliguk, assi qulaaniittoq assinganik toortassallugu, imaluunniit [Sort together](/games/sort-together/), assit igaffimmut naatsiiviimmulluunniit il.il. koorinut ikkullugit.
 
-## Word puzzles: word searches and crosswords
+## Oqaasikkut ilukkat: oqaasinnik ujarlerneq oqaatsinillu sananeq
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Oqaasikkut ilukkat inuit tamarmik nuannaarutigisartakkannut naleqquttarput, dementia siullerminni nalinginnaasumik.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Oqaasinnik ujarlerneq allakkanik angisuunik.** Uani akeqanngitsumik [Word search](/games/word-search/) allakkanik angisuunik atuivoq amerlagisaanillu oqaatsinik, sammillugu isaasinnaasullulluunniit ingerlaannaq, allaqqalluinnaasunik pinani. Qarasaasiami imaluunniit naqitamik atorsinnaavat.
+- **Allattorsimaffik qarsuaruk.** Ataaseq oqaatsimik atuarpoq, aipaa ujarlerluni. Allagaq siulleq kisimi kaajallallugu naammaginnarpoq.
+- **Oqaasinik sananeq allakkanik angisuunik** atuakkanit ilukkani siullermik atorsinnaapput. Oqaaseqaatit qarsuarukkit, qalipaammik peqatigisigit akissullu katerullugit allallugit. Ilukkat ajornanngitsut sammisamik ataqarlutik pisariaqannginnernut pitsaanerupput.
+- **Oqaasinik oqaloqatigisigit.** „Naatsiivik“ minutsinik qulinik oqaloqatigiissutigisinnaavat tomatesinik.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Allakkanik suliniutinut amerlanernut, aammalu qanoq takuneqarsinnaanerat tigusinnaaneratillu piumasaqaataasut naqqikkit, takujuk [dementiaqartut akeqanngitsumik suliniutaat naqitassat](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Ilukkat suut killiffinnut naleqquttarput?
 
-Stages overlap, and good and hard days are normal.
+Killiffiit imminnut akuleruttarput, ullullu pissutsit assigiinngissinnaanerat nalinginnaavoq.
 
-| Stage | Puzzles that often fit | Your role |
+| Killiffik | Ilukkat nalinginnaasumik naleqquttut | Illit inassutsit |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Siulleq | Assilissat ilukkaat ilukkarsimasartut ilukkat amerlagisaanik siornatigut ikinnerullutik, oqaatsinik sananeq ujarlernerlu allakkanik angisuunik, 9-ilukkartunik online-ilukkat | Ikinngutigiuk: toqqaasoq tigujuk, qinnutigippat ikiuk |
+| Qeqqaniinnerusumik | Assilissat ilukkaat qulit ilukkallit angisuullutik, 4-ilukkartunik online-ilukkat, oqaasinnik ujarlerneq peqatigisarlutit atuartillugu | Piareersaruk, ilukkat immikkoortikkit, ataaseq tuniarlugu |
+| Kingulleq | Assi naammassinneqarsimasoq peqatigisarlugu isiginniarlugu, Find the same marlunnik assilinnik, ilukkat amerlagisat angisuullutik tiguniarlugit | Inummut apuuk; peqatigisarnit suliniutip inassutaa |
 
-## When should you make a puzzle easier, or stop?
+## Qaqugu ilukkat ajornannginnerulersissallugu, imaluunniit unitsissallugu?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Anersaartorneq, ilukkat ajagunneq, „saperpara“ allaaserineq repeatedly imaluunniit isikkut ernumanartut maluginiakkit. Tamakku allanngortitsisussaq malunnarsipput,Unitsinnissaq pinnarnani.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Mikigitsiguk.** Ilukkat amerlagisaanik, imaluunniit kingulliit ilukkat amerlagisat kisimi unikkallarlugit.
+- **Anerusumik illit suliaruk** aammalu ajornannginnerusut suliariniarlugit qaaqqusaaruk.
+- **Saniittumut allanngoruk:** ilukkat qalipaataannik immikkoortiterineq, 4-ilukkartunik online-ilukkat, imaluunniit [qalipaatiliineq](/games/coloring/).
+- **Unitsigit.** Ingerlavissaq unitsillugulu tii toqqoruk. Ullut allat uterfigisinnaavarsi, imaluunniit unitsillutillu.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ilukkat ajornartorsiornernik eqqaasitsisussatut misigineqaraluarpata, unitsitsineq ajorunnaarpoq. Ataatsimoorluta pissanganartunik arlalinnik periarfissaqarlutik; [101 suliniuteqarnissamut siunnersuutit](/activities/ideas/) uani takuneqarsinnaavoq.

@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Oqaloqatigiinnikkut siunnersuut: dementiaqarluartoq"
+seoTitle: "Dementia: qanoq oqaloqatigissallutillu"
+description: "Ilitsersuut dementiaqarluni inummik qanoq oqaloqatiginnissaq pillugu: piareersarnera, oqaatsit toqqakkatit, apeqqutinik akisuutaarneranik misissueqqaarnerillu ersinissaq."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Nipimik saattualluni oqaloqatigigit, inummut saaffiginnigit, atia atoruk,
+  arrarlutillu oqaatsinik naatsuunik tunngavilinnik oqaatsitallit. Apeqqut ataaseq
+  ataasiarluni aperiuk, apeqqutit ammasut pinnagit marlunnik toqqagassanik
+  tunniussigit, akissuteqarnissarlu isiginartumit sivisunerusumik utaqqigit.
+  Sakitsaajumaarnatit, naammaginngitsuliornatillu apeqqutinik misissueqqaaratillu.
+  Oqaatsip tunuani misigisaq paasiniaruk, oqaatsit kingulliullutik
+  patsitaarnerup, assinik isiginnaakkullu oqaloqatigiinnerit tapersersukkit.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Oqaloqatiginninniit siullermik nipit avatangiisit ikilisikkit issillu isikkit."
+  - "Oqaatsinik naatsuunik atuigit, oqaaseq ataaseq eqqarsaat ataaseq, taaqqallu «uanga», «una» imaluunniit «ukua» pinnagit atit atortassaanngikkit."
+  - "Apeqqutit ammasut pinnagit marlunnik toqqagassanik imaluunniit aap/naamik apeqquteqarit."
+  - "Akissuteqarniarluni utaqqigit. Paasinngikkukku siullermik oqaasiat atorlugu uteqqiuk, kinguninngualu oqaatsinik allanik misiliigit."
+  - "Sakitsaajumaarnatit naammaginngitsuliornatillu. Oqaatsip tunuani misigisaq pingaartitsiguk."
+  - "Oqaatsit ajoraallippata, patsitaarneq, nipip killiffia, kiinnaap ersersinnera assillu ataasiakkaat atorlugit oqaloqatigigit."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Suna dementiaqarluartoq oqaatigisinnaanngisara?"
+    a: "Ersiguk apeqqutit misissueqqaartut («Eqqaamaviuk…?»), naammaginngitsuliinerit («Taamaassuunngilaq»), tammakkat eqqaasitsinerat («Oqaatigereerpara») aammalu inuit allat peqatillugit inummut taannalu tusaaneqarsinnaanngitsutut oqaloqatigiissut. Meeqqatut oqaasilerneq ersiguk. Tamanna kanngunartinneq imaluunniit aliasunneq pilersinnaavaa, ikiuutaasarporlu."
+  - q: "Paasisimasaqarsinnaanngitsunik oqaluttuartoq eqqortumik oqaatigisariaqarpa?"
+    a: "Ajoraluartumik ajorinngilaq. Eqortumik paasineq ajunngippat, pinnginnerulluni toqqaannarlugu. Sakitsaat nigorneq ajorpoq, inullu aliasuttarnaqaaq. Aamma misigisaraluannik pisariaqartitaraluannillu siunertaruk."
+  - q: "Oqaatsimik nanisinnaanngippat qanoq iliussaanga?"
+    a: "Siullermik utaqqisariaqarpaat. Ajoraluartumik nanisinnaanngippat, oqaaseq ikorusukkukkit imaluunniit suna isumaqaraluarnersoq paasiniarlugu aperisinnaavat. Tikkuarneq, isiginnaarneq assillu iluaqutaasinnaapput."
+  - q: "Dementia kingulliup nalaani inuk oqaluinnaqisartoq qanoq oqaloqatigissavara?"
+    a: "Saaniit orniguk, kinaassutsit oqaluttuaruk, nipimik eqqilitsumillu patsitaarnerlu aqqusaartumillu atuigit. Kiinnat timillu pisuussuteqarneri misigisai paasiniarlugit malinnaavigit. Ilinnikkut najornissat, erinarsuut il familiarisimasoq imaluunniit assakkut tigumiarneq — oqaatsit tamarmik pisariaqartinneqartinnagit amerlasunik oqariartorsinnaapput."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +45,86 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia napparsimasoq iluaqutaasinnaavoq oqaatsinik ujartorneq, oqaaseqatigiit takivallaat malinnaaviginerat imaluunniit nipit avatangiisit soqutiginissaat. Taamaattorli inuk allanik attaveqaqqulluni soqutiginninnera unitsimanngitsoq ersersinniarunnaanngilaq. Oqaloqatigiinneq qanoq piareersartarnerlugu, qanoq oqarnerlutit qanoq tusarnaarnerlutillu allannguutinik mikisunik ilasit tamarmik oqaloqatigiinneq ajoqutaarnersoq eqqissinaatsullu misigissinnaavasii.
 
-## What are the most important tips for talking with someone who has dementia?
+## Dementiaqarluartoq oqaloqatiginiarlugu siunnersuut pingaarnerit suut?
+Inummut ilisimatitsineq, najoqqutassiaq, utaqqillu. Tallimanik taaneqartunik eqqaasinniaruit:
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+1. **Nipisaaqartitsigit isikkillu.** TV qaminartikkuk, issigisup ataqqillugu ingikkit, atiallu atoruk.**
+2. **Ataasiarlutit oqaaseqaat.** Oqaatsit naatsuupput, eqqarsaat ataaseq, apeqqut ataaseq.**
+3. **Marlunnik toqqagassanik pitsaasigit.** «Tii imaluunniit kaffi?» aperineq ajornannginneruvoq «Suna imerusuppit?» aperinermit.**
+4. **Utaqqigit.** Akissuteqarniarluni isiginartumit sivisunerusumik utaqqigit, akerliunissarlu pinaveersaartikkuk.**
+5. **Sakitsaajumaarnatit apeqqutinik misissueqqaaratillu.** Paasisimasat eqqortuunerat pinnagu qanoq misigisimanera pingaartitsiguk.**
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+## Qanoq oqaloqatigiinneq aallartissavara?
+Inummut ilinnut tulluarsakkamut piareersaata. [Family Caregiver Alliance-ip ilitsersuutaa](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) siullermik nipimik annikillisitsinissaq siunnersuutigaa: radio imaluunniit TV qaminartikkuk, qalipaatit imaluunniit matu saqqikkuk, imaluunniit nipisaqarnerusumut nuugit.
 
-## How should I start a conversation?
+- **Saaniit orniguk.** Tunuaniit imaluunniit saniatigut orniguit tupatsaatitsisinnaapput.**
+- **Kinaassutsit oqaluttuaruk.** «Hej Ataata, Sarah-uvunga, panivit.» Taamaalioruit atinnik ujartorfiusinnaanngilaat.**
+- **Inummut ataqatigiissinnaasumillu ingikkit.** Ingippat, illit ingikkit imaluunniit seeqqikkit, isit ataqqilluni.**
+- **Kiinat nipillu killiffia malinnaaviguk.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) nipip killiffianik, nipituussutsimik, kiinnap ersersinneranik timillu pisuussuteqarneranik maluginiaqqaarnissaq siunnersuutigaa, uumasumillu naliginnaasumik pissuserissallutillu.**
+- **Isikkutit tusarnaartitsisallu atorneqartut qulakkeeruk.** Tusaaneqarsinnaanngisatit takuneqarsinnaanngisatitillu malinnaavigineq ajornakusuuvoq.**
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+## Oqaatsit qanoq aaqqissuussavakka?
+Oqaatsinik najoqqutarisaq, oqaaseqatigiit naatsuullutik nipilu eqqilitsuuvoq atorlugu.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Oqaaseqatigiit ataasiakkaat eqqarsaat ataaseq.** «Anoraatsivit atissavavut. Kingorna avammut anissaagut.» Ataatsikkut oqaluttuunngikkuk.**
+- **Atit atorukkit, taaqqat atorunnaarlugit.** «Anana Jeani sianerpoq» erseqqavoq «Una sianerpoq»-mit.**
+- **Nipik nakkarlersukkuk, qaffasissunngikkuk.** Family Caregiver Alliance nipimik nakkartitsinissaq siunnersuutigaa, qaffanneq pinnagu.**
+- **Uteqqiuk, kingornalu allanngortikkuk.** Paasinngippat siullermik oqaasiat uteqqiuk. Ikiorutaanngippat utaqqiillutit oqaatsinik allanik misiliigit.**
+- **Takutiguk oqaluttuallutillu.** Erngusi tikkuarlugu, trøjit marluk nuisikkit, imaluunniit pissusissamukartoq siulleq takutikkuk.**
+- **Inummut oqalugit, inummut illaannakkinngikkuk.** NIA mianersoqqussutigaa inummut taannalu peqarnanngitsutut oqaluttuuneq, aammalu «meeraatut oqaatsit».**
 
-## How should I phrase what I say?
+NIA apeqqutinik nalinginnaasunik najoqqutarisanik misiliissutit siunnersuutigai. Uku assersuusiupput:
 
-Use simple words, short sentences and a calm, low voice.
-
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
-
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
-
-| Instead of | Try |
+| Taamaatoruk | Taamaattumik misiliigit |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Unnukkut suna nererusuppit?» | «Aalisagaq imaluunniit kukkukuagaq nererusuppiuk?» |
+| «Qanoq misigisit?» | «Qasusuppit?» |
+| «Kaagavit?» | «Unnuarsiut piareerpoq minutini tallimani.» |
+| «Taamaaliussaanngilat.» | «Taamaattumik misiliguk.» |
+| «Taseq miaggoorneq eqqaasarpiuk?» | «Taseq miaggoorneq eqqarsaatigilerpara. Suna nuannarisimanerlutit oqaluttuaruk?» |
+| «Oqaatigereerpara.» | Uteqqiuk inussiarnersumik, siullertut. |
 
-## How do I listen well?
+## Qanoq pitsanngorsusumik tusarnaarsinnaavunga?
+Oqaatsit kisimik pinngikkit isuma misigisarlu tusarnaariakkit.
 
-Listen for the meaning and the feeling, not just the words.
+- **Utaqqigit.** Nipaarneq amerlanertigut eqqarsarnissaq isumaqarpoq. Ikiorniarninniit siullermik qulit sioqqullugit kisitsigit.**
+- **Ajorunikku aatsaat oqaatsimik ikiuigit.** Family Caregiver Alliance inuit ajornartumik misigisunik oqaatsinik ikiuineq ajunngitsoq nalunaarutigaa.**
+- **Tusarsimasatit uppernarsaruk.** [Alzheimer's Association-ip oqaloqatigiinnermik ilitsersuutaa](https://www.alz.org/help-support/caregiving/daily-care/communications) oqaatsip tunuani isumaa ujartassallugu paasisimassutsinnik uppernarsarniarlutillu uteqqinnissaq siunnersuutigaa. «Biilimut isummimaarnillit?»**
+- **Kiinat timillu pisuussuteqarneri malinnaavigit.** Oqalunneq ajornannginneruleraangat, NIA maluginiagai, kiinnap ersersinneri aliasuuneq, kamaliineq imaluunniit impatientiinneq oqaatsinit erseqqinnerusumik takutitsisinnaasartut.**
+- **Isummat serieusutuutut tigukkit.** Isummamik kukkusumik tunngaveqartoq naak misigisaq piviusuulluni.**
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+## Eqortumik paasineqartoq oqaatigaangakku qanoq iliussaanga?
+Sakitsaajumaarnatit. Ajugaassallutit neriuutissanngilat, inullu kanngunartinneq imaluunniit ersinneq misigilersinnaapput. Taarsiullugu, misigisaanut attaveqaatit, kingornalu aqqusaartumik allamut utersaruk.
 
-## What if they say something that is not true?
+Family Caregiver Alliance misigisaq uppernarsarniarlugu ingerlatitseqqinnissaq siunnersuutigaa. Assersuutigalugu, anaanavit meeqqanik atuarfimmiit aallarniarlunilu qasuersuartoq:
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+- Taamaatoruk: «Anaana, meeqqat allanngoreerput. Ukioq 40-ngajaat matuma siorna.»
+- Taamaattumik misiliigit: «Meeqqanut asannittuuvoq eqqarsaatersuisuusaatit. Aamma aallarnerit pillugit oqaluttuaruk. Siullermik nerisassaqarsinnaavoq?»
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Alzheimer's Association aamma isumaqarusunngisatit pillugit sakitsaannginnissaq siunnersuutigaa. Piffissaq toqqaruk: kukkusoq isumaliut ajunngippat, taamaalliinneq ajorluinnarpoq.
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+## Dementia siuariartornerani oqaloqatigiinneq qanoq allanngorarpa?
+Piffissap ingerlanerani pisariaqartitat allanngortarput, erseqqissinerullu naleqqiuk. Alzheimer's Association pingasunik nalaanik avissaartitsisunik nassuiaavoq:
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
-
-## How does communication change as dementia progresses?
-
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
-
-| Stage | What helps |
+| Nalaa | Ikiorutaasoq |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Siulleq | Oqaloqatigiisinnaajunnaarsimasutut isiginnarnaveersaaruk. Oqaloqatigiinnernut ilakkit, toqqaannartumik oqaloqatigikkit, ikiuinerup qanoq innerlugu kisissallutillu,illersorneq iluaqutaappat atorlugu. |
+| Akunnera | Nipisaartumik ataasiakkaat oqaloqatigiissut. Arrarlutit oqaaseqaatit, issigisoorniarit, aap/naamik apeqquteqarit, malittarisassat ataatsimut ataatsimut nassuiaakkit, patsaanaveersaartillutillu aammalu eqquutissaanngikkit. |
+| Kingulleq | Saaniit orniguk, kinaassutsillu oqaluttuaruk. Tikkuarneq isiginnaarnerlu kajumissaaruk. Patsitaarneq, nipit, takussat tipigissatlu atukkit. Peqarnanngitsutut oqaloqatigiissornaveersaarnak. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Inuit tamarmik imminnut assigiinngillat, inullu ataaseq ullut aamma assigiinngissinnaapput. Massakkut qanoq ittoq naleqqiuk, taaguuteqarnersoq pinnagu.
 
-## Can pictures and activities make conversation easier?
+## Assit suliallu oqaloqatigiinneq ajornanngortitsisinnaavaat?
+Aap. Asimik ataatsimik isigalernissaq pigiunnaartitsisarpoq, marlullu takusassamik tikkuusassamillu tunissillugu.
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+- **Asinik kajumissutit.** [Conversation Cards](/games/conversation-cards/) assinik ammasunik apeqqutilinnik imaqartut neqeroorfigaa, misissueqqaanata.**
+- **Ilaqutariit assii.** [Photo Pairs](/games/photo-pairs/) assit toqqakkat assinik nalilerfiusunik aqqusaartunik allanngortittarpai, taamaattumillu oqaluttuarneq qanoq kajumissaarsinnaalluni.**
+- **Oqaatsit il familiarisimasut.** [Finish the Saying](/games/finish-the-saying/) ameriikamiut oqaasiinik il familiarisimasunik atuivoq, kingornalu oqaloqatigiinnermut kajumissutinik.**
+- **Nalilersuinerit tunuani oqaloqatigiinneq.** [Picture Pairs](/games/picture-pairs/) oqaloqatigiillutillu assannik toqqagassanik aaqqiivigissallutit tunniuppaatit.**
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+[Qanoq suleqatigiillutik kaulinanarlutik](/caregiving/how-to-play-together/) aammalu [eqqaamasat pillugit suliat](/activities/reminiscence/) takuuk. Pulaarneq sianernillu pillugit ilitsersuutit [pulaarneq](/activities/visiting/) aamma [telefonikkut videoqqatiginnikkullu sianerit](/activities/phone-and-video-calls/) atuakkit.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
-
-## What if I lose my patience?
-
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Kamajaaraleraangama qanoq iliussaanga?
+Tamaasa aallaavigaarput. NIA siunnersuutigaa, kamajaaraleraangavit piffissaq atorlugu eqqissisitsisoqarnissat. Init allamut nuugit, anersaartitsillutillu arrarlutit, uterlusillu eqqilinnerusinnaaguit. Oqaloqatigiinneq aallarteqqinnaavat, illillu eqqissinnerusumik misiginerit inummut paasineqarsinnaasarpoq. Kamajaarneq utaqqiisaarpat, tapersersortinneq annerusumik pisariaqartinneqartutit malunnarunnaassaaq, ajorsinnaajunnaarnatit pinnagu. [Isumaginnittunut isumannaallisaanermut ilitsersuutitsinni](/caregiving/caregiver-self-care/) sumi ikiorneqarnissat takuneqarsinnaavoq.

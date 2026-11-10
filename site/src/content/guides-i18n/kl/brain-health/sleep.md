@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Sininneq qaratsallu: ilisimatusarnermi paasineqartut"
+seoTitle: "Sininneq dementialu: ilisimatusarnermi paasineqartut"
+description: "Ilisimatusarnermi sininneq dementia-risikulu paasineqartut, qaratsap immikkuukkuminaatsuunera suli misissuiffigineqarnerulluni, aammalu utoqqarnut isumaginnittunullu sinileriaatsinut ilitsersuut."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Ilisimatusarnerit piffissaligaaq malittarisassatut ilaat takutippaat inuk ukiup qeqqata nalaani sivikinnerusumik sinikkaangat, dementia-risiki annerusinnaasoq. Laboratoriemilu ilisimatusarnerit takutippaat sininneq qaratsaata immikkuukkatissaa pitsaasinnaasoq. Paasineqartut suli nutaajupput, 2024-imi Lancet Commission-ip sininneq dementia-risikinut allanngortinneqarsinnaasunnullu allattorsimanngilaa. Sinileriaatsit eqqorluartut ulluni amerlanerni qanoq misigisimanermik iluaquttarput. Sininnermi ajornartorsiutit inuit dementiarsimasut akornanni nalinginnaapput, nakorsallu orniguneqarusuttarput.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Tuluit Nunaanni misissuineq 25-iliisoorsuaq, inuit 8.000 missaat malinnaavigisimallugit, takutippaa ukiup qeqqata nalaani 6 nalunaaquttanik imaluunniit minnernik sininneq dementia-risiki annerulersinnaasoq."
+  - "Sininnerup allanngorneri dementia-risiutip siullersaanut nersualaasinnaapput, taamaattumik suna peqqutaasoq nalornissaa ajornarpoq."
+  - "Ilisimatusarnerit sininnerup qaratsamit beta-amyloid-nik peersitsisinnaasaanik paasineqartut ilumoortut, kisianni nutaajupput, amerlanersaat teriannianillu misissuinerit."
+  - "Sinillunilu anersaartorfiginninneq nalinginnaavoq, nakorsaataallu pitsanngorsarsinnaavoq, dementiamullu ataqatigiissinnaalluni misissuineqartarluni; qasuttorsuaq sinillunilu anersaartorneq ullunilu qasussuseq misissorneqarusuttarput."
+  - "Nakorsaq apeqqutaqinagu siniffissanut pisariaqartitsinermut atuisoq imaluunniit ataqatigiissoq aallassanngilat, unitsinnagu imaluunniit allanngortissanngilat."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Sinnerlunneq ajorluinnaq Alzheimers-imut peqqutaava?"
+    a: "Taamaattoq uppernarsarneqaranngilaq. Misissuinerit ilaat sininneq sivikitsoq dementia-risiki annerusinnaasumik ataqatigiissinnaalersippaat, kisianni dementia sinnerluinnermik akerlersitsisarpallu, saqqummiunneqarnissaa sioqqullugu ukiuni arlaqaatinni. 2024-imi Lancet Commission-ip paasineqartut inersimannngikkaat sininneq risiki allanngortinneqarsinnaasoq allattorsinnaallugu."
+  - q: "Utoqqaat qassit nalunaaquttat sinnissartariaqarpaat?"
+    a: "National Institute on Aging oqarpoq utoqqaat inuttut allanut assingusumik 7-imik 9-imillu nalunaaquttanik unnuarmi sinnissartariaqartut. Utoqqat amerlasuut siusinnerusukkut sinileriaannarnerusarlutik iteriaannarnerusarput, tamannalu nalinginnaavoq."
+  - q: "Sooq inuk dementiaqartoq ullup ingerlanerani sinikkaangat unnuaalu iterfigikkaangat?"
+    a: "Dementia timip ulloq-unngaariarlugu naliginnaasua allanngortissinnaavaa, taama sininnerup iternerullu nalaani akuliuppoq. Anniaqqusineq, aburrunninneq, kaannersuuneq imaluunniit nakorsaasunut kingunerisanik akerlersinerit iluaqutaasinnaapput. Ullup qaamarnga, ullut tamakkulluunniit sammisaqartitsineq aammalu unnukkut eqqissisimanartumik ingerlaneq iluaqutaasinnaapput. Nakorsaq peqqussutinik nakorsaataanngorsaasinnaasunik misissuisinnaavoq."
+  - q: "Inuk asannittumik isumagisara siniffissanut pisariaqartitsinermik tunissavara?"
+    a: "Nakorsaa siullermik apeqqutiguk, pisinialaannilluunniit pisiniarfinnit piginnaanngorsaanermut pilersaarutit ilanngullugit. National Institute on Aging erseqqippaa siniffissanut nakorsaaserisat ilaat Alzheimerimik nassataqartuni ulorianartumik kaammaqqusaanermik, nakkarnermut aammalu eqqumaffiginermik ulorianarnerulersitsisinnaasut."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Sininneq qaratsallu peqqinnerat ersarissumik ataqatigiipput, kisianni qanoq ataqatigiinnerat suli paasineqaraluarluni. Misissuinerit ilaat sininneq sivikitsoq dementia-risiki annerusinnaasumik ataqatigiissinnaalersippaat. Aappaattut dementia sinnerluinnermik akerlersitsisarpoq. Qupperneq manna nassuiartarpoq ilisimatusarnerup takutittai takutinngisaallu, sinileriaatsinut ilitsersuutinik neqerooruteqartarluni, aammalu dementia-milu nalinginnaasumik sininnerusukkalernermik eqqaasitsisarluni. Siniffissanut nakorsaaserisatigut siunnersuutigineqanngilaq; tamannalu nakorsaq oqaloqatigineqartariaqarpaa.
 
-## Is poor sleep linked with dementia?
+## Sinnerlunneq dementia-mik ataqatigiissinnaava?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Misissuinerit piffissaligaaq malittarisassatut ilaat sininneq sivikitsoq dementia-risiki annerusinnaasumik ataqatigiissinnaalersippaat, kisianni paasineqartut naammalluinnaratik.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Tuluit Nunaanni 25-iliisoorsuaq misissuineq.** Ilisimatusartoqatigiit inuit inersimasut 8.000 missaat [Whitehall II-misissuinerup](https://www.nature.com/articles/s41467-021-22354-2) iluani malinnaavigaat. Inuit 50-ini 60-iniluunniit ukiullit 6 nalunaaquttanik imaluunniit minnernik sinittartut, kingusinnerusukkut dementia-risiki anneruneqartut 7 nalunaaquttanik sinittartunik sanilliullugit. Inuit 50-ini, 60-ini 70-inilu 6 nalunaaquttanik imaluunniit minnernik sinittartut dementia-risiki missingersugaasillugu 30%-imik anneruvoq 7 nalunaaquttanik sinnittarnerusumik sinittartunik sanilliullugit. Tamanna malinnaanikkut misissuineq, taamaattumik ataqatigiinneq takutinneqarpoq, naatsorsuutit peqqussutsimullu takutinneqaanngilaq.
+- **Lancet Commission-ip isummia.** [2024-imi Lancet Commission-ip](https://doi.org/10.1016/S0140-6736(24)01296-0) sininneq 14-nik risikinut allanngortinneqarsinnaasunnullu ilanngunnaguarsimanngilaa. Paasineqartut naapertuuttuunngitsut nalilerpai. Peqqussutaanngitsutut, qaratsami allanngornerit dementia-mit aammalu sioqqullugu saqqummiunneqarnissaa sioqqullugu ukiuni arlaqaatinni aallartisarput sinnerluinnermillu akerlersitsisinnaallutik. Misissuinerpassuarni sininneq sivisooq dementia-llu akornanni ataqatigiinneq peerpoq siulliit ukiuni tallimani malinnaaneq ilanngunneqarsimanngippat.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Taamaattumik unnuarmi ataasiarluni sinniluarnaveersaarneq isummannissaannut pisariaqanngilaq. Pissanganarsak, pitsaassusaqarluartumillu sininneq ingerlaavartumik pilerisassatut pingaaruteqarpoq, ullumikkut misigissutsit, eqqasissutsit aammalu isumannaatsuunerit iluaqutigalugu.
 
-## What is the "brain-clearing" sleep research?
+## "Qaratsap immikkuuinera" sininnerup nalaani qanoq ilisimatusarneqarnikuua?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Ima atuarsimassagunarpoq sininneq qaratsap "salittuussaraa". Isuma tamanna ilumoortumik ilisimatusarnernit aallaaveqarpoq, kisianni suli nutaajaaq.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Terianniani.** 2013-imi misissuineq [NIH-ip nassuiarneratigut](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) takutippaa terianniat sinikkaangata qaratsap karsaanut inissaqartoq missingersugaasillugu 60%-imik annertusiartoq. Uliat qaratsakkut aallarnerusarpoq, ilisimatusartullu glymphatic system-imik taaneqartartoq aqqutigalugu. Beta-amyloid, uakku Alzheimer-imut ataqatigiineqarpoq, teriannianni sinittut qaratsaannit sukkasoornerusumik peerpoq.
+- **Inunnilu.** [2018-imi misissuineq mikisoq](https://www.pnas.org/doi/10.1073/pnas.1721694115) inuit inersimasut 20-it, 22-imit 72-imut ukiullit, unnuami nalinginnaasumik sinitsereersimasut aamma unnuami sininngitsereersimasut skanneraarai. Unnuaq sininngitsoq qaangiummat, qaratsap skanneernerani beta-amyloid-ip nalunaaqutaa hippocampus-imut ilanngullugu, eqqaanermi pingaarutilimmi sumiiffimmi, missingersugaasillugu 5%-imik qaffappoq. Allattuisut paasineqartut nutaatut nassuiaappaat. Nalussimanngilaat allanngorneq qasuersaareernermi peerneqarsinnaasoq, imaluunniit peerneq arriinnerusoq imaluunniit beta-amyloid-ip annertunerusumik pilersinneqarnissaa takutillugu.
+- **Tamarmik sunniuteqarlutik.** Lancet Commission-ip erseqqippaa amyloid-ip katersorneq utoqqani sinnerluinnermik akerlersitsisinnaasoq.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Paasisat taakku paasinarsisippaat sooq ilisimatusartunut sininneq soqutigisaq. Taakkua takutitsinngilat sininneq pitsaanerusoq Alzheimer-imut pinaveersaartitsisoq.
 
-## What sleep habits may help?
+## Sinileriaatsit suut iluaqutaasinnaappat?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Utoqqaat unnuarmi 7-imik 9-imillu nalunaaquttanik sinnissartariaqarput, inuttut allanut assingusumik, [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) naapertorlugu. Siunnersuutaat ilannguppaat:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Nalunaaqutaq ataaseq sinnissarit iterissarillu.** Ullut tamaasa sinilerit iterillu nalunaaqutaq ataaseq atorlugu, sapaatip-akunneranilu taamalluartarlugu.
+- **Unnukkut eqqissisimanartumik ingerlariaaseq pilersiguk.** Sininnissat sioqqullugu atuakkamik atuaaneq, nipimik eqqissisimartumik tusarnaaneq imaluunniit uaffamik kialaartumik ufarneq iluaqutaasinnaapput.
+- **Siniffik nuannersoq pikkorissuk,** kissaateqanngitsoq kiannarteqanngitsorlu.
+- **Ullup kingulliup nalaani kaffi, tii, sodavand imaluunniit sukkulaati killilersukkit,** taakkua sinilluni akerlersitsisinnaammata.
+- **Imialunnguarnik atuisarit,** mikisorluunniimmi, NIA-p siunnersuutaqqut.
+- **Sininnissat sioqqullugu nalunaaquttanik marlunnik pingasulluunniit sioqqullugit nerisarisassaanik amerlasuunik ingerlateqqisarit,** imillu amerlasuut unnukkut.
+- **Timmisarsiornermik piffissanngitsumik ingerlalit, kisianni sininnissat sioqqullugu nalunaaquttani 3-ini timmisartorfiginnissaq.** [Timmisarsiornermut ilitsersuutitsigut](/brain-health/exercise/) takuuk.
+- **Siniffimmi qarasaasiat, TV, computer, mobiili imaluunniit tablet atorsarunnaakkit.** NIA-p taama siunnersuuppoq.
+- **Ullup kingulliup nalaani sinilersuineq pisinnaanngippat unitsiguk.**
 
-## Sleep problems in dementia
+## Dementia-milu sininnerusukkalernermut ajornartorsiutit
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Sininnerup allanngorneri dementia-mi nalinginnaapput. [NIA-p allattorsimavai](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sinniluarpallaarneq imaluunniit sinniluarunnaarneq, unnukkut arlaleriarlugu itersaaneq, aammalu ullup ingerlanerani sinilersuarneq. Sunnissuitsuliornerlu nassuiaarpaa: aaqqissuussaanermut qasuersaarnermi, qanoq iliornermik imaluunniit eqqumaffiginermik aallarteqarnermi imaluunniit sakkortunerulernermi.
 
-Caregiver tips from the NIA include:
+NIA-mit isumaginnittunut ilitsersuutit ukuuppaat:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Ullaakkut qaammatillu aliikkusersuineq timmisarlutillu.** Ullup ingerlanerani silamut anigit imaluunniit igalaap saniata qaammaqarnissaanut inissillutit, inullu ullut tamaasa sammisaqartikkiartorsinnaarlugu. Qaammaq pissaaq timip ulloq-unngaariarlugu naliginnaasua aaqqinniarsinnaavaa.
+2. **Ullaakkut suliniutit annerusumik nukittunik pilersaarutigikkit.** Ullaakkut ufariaaseq imaluunniit ullaap-qeqqani nerisarisassaq anginerpaassaaq.
+3. **Sinilersuinerit sivikinnerusumik siusinnerusukkullu pitsanngorsakkit.** Ullup kingulliup nalaani sinilersuineq killilersoruk.
+4. **Unnukkut eqqissisimanartumik pissutsit.** Qaamarut qatsorsarlugu, nipimik annikillisigit aammalu nipimik eqqissisimartumik tusarnaartitsigit inuk tamanna nuannarisarpaa. [Ullup naannginnerani aaqqissuussaanermut](/caregiving/late-day-restlessness/) ilitsersuutitsinni siunnersuutit amerlanerusut allat pioreersut.
+5. **Unnukkut sinnissarsiornermut ingerlariaaseq ataaseq ataqqinagu atoruk.** Ullut tamaasa nalunaaqutaq ataaseq atorlugu atuakkamik nipituumik atuaaneq NIA-p assersuutaat ilaavaa. [Ullut tamakkulluunniit ingerlariaaseq ataaseq](/activities/daily-routine/) iluaqutaasarpoq.
+6. **Kaffi imialunnguillu killilersukkit.**
+7. **Siniffimmi, aqqusinermi aammalu anartarfiusumi** qulliit mikisut atukkit.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Unnukkut iternerup nalaani, NIA-p [angerlarsimaffimmi isumannaatsuunermut siunnersuutai](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ilaat qulliit mikisut imaluunniit qaamanermik nalilersuinerit, anartarfiusumi tigussaasut, trappini sinaani qalipaatinik ersarissunik nalunaaqutit, aammalu nakorsaaserisat matuneqarsinnaasunut toqqorsiviit.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Unnukkut piffissaq sivikitsoq, nipaarujussuaq pingaaruteqartoq ilissi marlunngorlutik eqqissisimanngornissamut iluaqutaasinnaavoq. [Calm Breathing](/games/calm-breathing/)-mik arrulluunniit anersaartornermi misiliigit imaluunniit [Conversation Cards](/games/conversation-cards/)-inik ilaarni oqaloqatigiissutiginnigit. Sininnissamut qanittumi kajumissutsimik sunaluunniit unitsiguk, inullu namminneq naammaginera naluguk.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Sininnerup akerlunneq isumaginnittunullu qasusoorutigisinnaavaat. [Isumaginnittunut nammineq isumaginninnermut ilitsersuutitsinni](/caregiving/caregiver-self-care/) qasuersaarnissamik ikiortissaanermillu siunnersuutegarpoq.
 
-## What about sleep apnea?
+## Sinillunilu anersaartorfiginninnerup qanoq ippoq?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sinillunilu anersaartorfiginninneq anersaartorneq sivikitsunngorlugu unitsitsinermik pisoqarpoq, unnuarmi arlaleriarlunilu pisoqartarpoq. NIA-p oqaatigaa nakorsaataanngippat aaqqissuussaanissamut annerulersinnaasoq, soorlu aap taavani qaffasinnerulernissamik, qaratsami silaannartumik aammalernermik imaluunniit eqqaanermik ajornartorsiuteqartarnermillu. Nalunaaqutaasut ilaat qasuttorsuaq sinillunilu anersaartorneq, ullunilu qasunganeq, inuit amerlasuullu nalussaraat tamanna pigigaat. Lancet Commission-ip oqaluttuarpoq 11-nik misissuinerit misissorneqarsimasut, sinillunilu anersaartorfiginnittartut dementia-risiki missingersugaasillugu 43%-imik anneruneqartoq. Taamaattorli misissuinerit taakku ilarpassuianni oqimaassutsimik eqqugaasumik nalilersuineqarsimanngillat, taamaattumik ataqatigiinneq nalornittoq.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sinillunilu anersaartorfiginninneq misissorneqarusuttarpoq nakorsaataanngorsinnaallunilu. NIA-p erseqqippaa CPAP-mik atuisarneq nalinginnaasumik iluaqutaasarpoq. Illit imaluunniit inuk asannittumik isumagisat qasuttorsuaq sinikkaangat, sinilluni anersaartorunnaaraangat imaluunniit ullup ingerlanerani qasuttorsuarpat, nakorsaq ilisimatikkit.
 
-## A note about sleep medicines
+## Siniffissanut nakorsaaserisanik erseqqissaatiginninneq
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Siniffissanut nakorsaaserisatigut imaluunniit ataqatigiissutissatigut siunnersuutigineqanngilaq. NIA-p erseqqippaa siniffissanut nakorsaaserisat sivikitsumik iluaqutaasinnaasut, kisianni sinniluannginnermik nakorsaatitut ilinniartuunngitsut. Erseqqissaarpaalu Alzheimersimik nassataqartunut sinillutik iluaqutissaqarnissaat naatsorsuutigalugu nakorsaaserisat ilaat ulorianartumik kaammaqqusaanermik, nakkarnermik aammalu eqqumaffiginermik ulorianarnerulersitsisinnaasut. Nakorsaq nakorsaaserisortorluunniit oqaloqatigineqarnagit siniffissanut nakorsaaserisaq, pisinialaannilluunniit pisiniarfinnit piginnaanngorsaanermik siniffissanut iluaqutissaq, aallassanngilat, unitsinnagu imaluunniit allanngortissanngilat.
 
-## Talk with a doctor
+## Nakorsaq oqaloqatiguk
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Nakorsaq orniguk illit imaluunniit inuk asannittumik isumagisat nungutittaaraq qasuppat, unnuarpassuarni sinniluarunnaarpat, qasuttorsuaq sinippat, imaluunniit sinillutik anersaartorunnaarunik. Dementia-mi sininnerusukkalernermut ajornartorsiutit ingerlaannakkunik, [NIA-p siunnersuuppoq](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) nakorsaq oqaloqatigineqassasoq. Nakorsamit misissuinermi peqqussutit allat nassaarineqarsinnaapput, soorlu anniarneq, sininnerusukkalernermut ajornartorsiut allamik, nappaat allamik imaluunniit nakorsaaserisanit kingunerisanik. Tussaatsumik eqqumaffiginneq imaluunniit sinnerluinnerup taamaalilluni allanngoriartornera, eqqumaffiginermik attaveqarluni, tuaviinnaq ikiortinneqarusuttarpoq. [Qaqugukkut nakorsaq ornigissallugu](/brain-health/warning-signs/) atuakkit.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Qupperneq manna paasissutissiivoq nalinginnaasumik, nakorsamit siunnersuutinngilaq. [Nakorsanut tunngasunik nalornissutiginninneq](/medical-disclaimer/) takuuk.
