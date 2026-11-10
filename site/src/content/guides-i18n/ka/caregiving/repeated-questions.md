@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "როცა დემენციის მქონე ადამიანი ერთსა და იმავეს იმეორებს"
+seoTitle: "დემენცია და განმეორებითი კითხვები: რა ვუპასუხოთ"
+description: "რატომ იმეორებს დემენციის მქონე ადამიანი კითხვებს, როგორ ვუპასუხოთ მშვიდად, რა შეიძლება დაგეხმაროთ და როდის უნდა მიმართოთ ექიმს."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  განმეორებითი კითხვები დემენციის დროს ხშირია: ადამიანს, როგორც წესი, არ ახსოვს,
+  რომ უკვე იკითხა, და კითხვა ხშირად ნერვიულობას გამოხატავს. უპასუხეთ მშვიდად და
+  მოკლედ, თითქოს პირველად გეკითხონ, ყურადღება მიაქციეთ მის განცდას და არასდროს
+  უთხრათ: „უკვე მკითხე“. პასუხი დაწერეთ ისე, რომ დაინახოს, მოვლენებზე მხოლოდ
+  ცოტახნით ადრე Islesაუბრეთ და შესთავაზეთ სასიამოვნო занятობა. უეცარი ცვლილების
+  შემთხვევაში მიმართეთ ექიმს.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "ადამიანს, როგორც წესი, არ ახსოვს, რომ კითხვა უკვე დასვა; ეს განზრახ არ ხდება."
+  - "კითხვა ხშირად განცდას მალავს, მაგალითად, შეხვედრასთან დაკავშირებულ ნერვიულობას ან უსაფრთხოდ ყოფნის სურვილს."
+  - "უპასუხეთ მშვიდად, მოკლედ და კეთილად, თითქოს პირველად გეკითხონ. არასდროს უთხრათ: „უკვე მკითხე“."
+  - "ჩანაწერი, დაფა, საათი ან კალენდარი, რომელიც თვალსაჩინოდ დევს, შეიძლება თქვენს ნაცვლად უპასუხოს კითხვას."
+  - "მაძაბრელ მოვლენებზე მხოლოდ ცოტახნით ადრე Islesაუბრეთ."
+  - "დაისვენეთ ცოტა, როცა ეს გჭირდებათ, და ყოველი უეცარი ცვლილების შესახებ ექიმს შეატყობინეთ."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "რატომ მეუბნება მამაჩემი, რომელსაც დემენცია აქვს, ერთსა და იმავეს?"
+    a: "დემენცია ახლო ხნის მეხსიერებას აზიანებს, ამიტომ შეიძლება მართლაც არ ახსოვდეს, რომ კითხვა დასვა ან პასუხი მიიღო. ხშირად კითხვა განცდასაც გამოხატავს, მაგალითად, ნერვიულობას იმის გამო, რა მოხდება შემდეგ, ან დამშვიდების საჭიროებას. ამ განცდაზე პასუხი, როგორც წესი, უფრო მეტად ეხმარება, ვიდრე ფაქტების გამეორება."
+  - q: "უნდა ვუთხრა, რომ უკვე მკითხა?"
+    a: "არა. ეს ვერ დაეხმარება დამახსოვრებაში და შეიძლება შენიშვნად აღიქვას. დემენციასთან დაკავშირებული ორგანიზაციები გირჩევენ, ყოველ ჯერზე მშვიდად უპასუხოთ, თითქოს პირველად გეკითხონ, და პასუხი მოკლე იყოს."
+  - q: "დაეხმარება, თუ პასუხს ჩავწერ?"
+    a: "შეიძლება დაეხმაროს, სანამ ადამიანს კითხვა ჯერ კიდევ შეუძლია. ჩანაწერი, დაფა დღევანდელი გეგმით, დიდი საათი ან კალენდარი იმ ადგილზე, სადაც ხშირად იყურება, საშუალებას აძლევს, თავად შეამოწმოს პასუხი. ფრთხილად მიუთითეთ მასზე, ნაცვლად იმისა, რომ უთხრათ: „უკვე გითხარი“."
+  - q: "როდის უნდა ვუთხრა შეხვედრების ან გასვლების შესახებ?"
+    a: "დროსთან ახლოს. თუ ექიმთან ვიზიტზე ან მოგზაურობაზე რამდენიმე დღით ადრე Islesაუბრებთ, ამას შეიძლება საათობით ნერვიული კითხვები მოჰყვეს. უთხარით ცოტახნით ადრე, მშვიდად, და აუხსენით, რა მოხდება შემდეგ."
+  - q: "როდის არის განმეორება ექიმთან დაკავშირების მიზეზი?"
+    a: "თუ კითხვები, დაბნეულობა ან ქცევა უეცრად შეიცვალა ან საათებსა თუ დღეებში ბევრად გაუარესდა, დაუყოვნებლივ დაუკავშირდით მის ექიმს. ინფექციამ, ახალმა წამალმა, ტკივილმა, ყაბზობამ ან გაუწყლოებამ შეიძლება გამოიწვიოს უეცარი დაბნეულობა, რომელსაც დელირიუმი ჰქვია და სწრაფ ყურადღებას საჭიროებს."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„რა დროს არის ექიმთან მისვლა?“ ათი წუთის შემდეგ: „რა დროს არის ექიმთან მისვლა?“ ერთი და იგივე კითხვის განუწყვეტელი მოსმენა იმაზე მზრუნველობის ერთ-ერთი ყველაზე დამღლელი ნაწილი შეიძლება იყოს, ვინც დემენციით ცხოვრობს. ეს ძალიან ხშირია, ეს განზრახ არ ხდება და არსებობს მშვიდი გზები პასუხის გასაცემად, რომლებიც დღეს თქვენს ორივესთვის უფრო მარტივს გახდის.
 
-## Why does someone with dementia ask the same question over and over?
+## რატომ იმეორებს დემენციის მქონე ადამიანი ერთსა და იმავე კითხვას?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+უმეტესად მეხსიერების გამო. დემენცია ახლო ხნის მეხსიერებას აზიანებს, ამიტომ ადამიანს ხშირად არ ახსოვს, რომ კითხვა დასვა, ან არ ახსოვს პასუხი. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) აღწერს, რომ ერთი და იგივე კითხვის ბევრჯერ დასმა გავრცელებული და მოსალოდნელია.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+კითხვა ხშირად განცდასაც გამოხატავს. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) განმარტავს, რომ განმეორებითი კითხვა შეიძლება გამოხატავდეს ნერვიულობას, დახმარების თხოვნას ან შფოთვასა და დაუცველობის შეგრძნებას, და ადამიანს ხშირად სიმშვიდე და ჩვეული გარემო სჭირდება. „როდის მივდივართ?“ შეიძლება სინამდვილეში ნიშნავდეს: „ნერვიულობ მივდივართ“. მოწყენილობამ, შიშმა, ხმაურმა და ჩვეული დღის წესრიგის ცვლილებამაც შეიძლება ეს გამოიწვიოს, ხოლო განმეორებითი კითხვა ზოგჯერ საჭიროებაზეც მიანიშნებს, მაგალითად, აბაზანაში წასვლაზე ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## რა ვუპასუხო?
 
-Answer calmly and briefly, as if it were the first time.
+უპასუხეთ მშვიდად და მოკლედ, თითქოს პირველად გეკითხონ.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **პასუხი მოკლე და ერთი და იგივე იყოს.** „ექიმთან ორისთვის მივდივართ. მე შენთან ერთად ვიქნები.“ ერთი და იგივე პასუხის მიღება უფრო მარტივია.
+- **განცდას უპასუხეთ.** „ექიმზე ფიქრობ. ეს დღეს ნაშუადღევს იქნება და მე მიგიყვან. შენ არაფრის გაკეთება არ გჭირდება.“
+- **გამოიყენეთ თბილი ხმა და ნაზი შეხება,** თუ ამას კეთილად აღიქვამს. Alzheimer's Association გირჩევთ, შეინარჩუნოთ სიმშვიდე და არ გამოიყენოთ ლოგიკური კამათი.
+- **მიეცით ის პასუხი, რომელსაც ეძებს,** იმდენჯერ, რამდენჯერაც დასჭირდება. Alzheimer's Association ამბობს, რომ უპასუხოთ იმდენჯერ, რამდენჯერაც გეკითხავთ.
 
-## What should I avoid?
+## რისგან უნდა თავი შევიკავო?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„ეს უკვე მკითხე.“** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) გირჩევთ, არ მიუთითოთ, რომ კითხვა ახლახან დასვა. ეს ვერ დაეხმარება დამახსოვრებაში და შეიძლება საყვედურად აღიქვას.
+- **გრძელი ახსნა-განმარტებები.** რაც მეტია სიტყვა, მით მეტია დასავიწყებელი.
+- **ოხვრა, თვალების გამოჩრა ან მკაცრი ტონი.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) გირჩევთ, მოითმინოთ და არ გამოავლინოთ იმედგაცრუება. ეს რთულია; იხილეთ ქვემოთ განყოფილება შესვენებების შესახებ.
 
-## Simple tools that answer the question for you
+## მარტივი საშუალებები, რომლებიც თქვენს ნაცვლად პასუხობენ
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+სანამ ადამიანს კითხვა ჯერ კიდევ შეუძლია, თვალსაჩინოდ დაწერილი პასუხი ხშირად უფრო ეხმარება, ვიდრე ნათქვამი.
 
-| Tool | How to use it |
+| საშუალება | როგორ გამოვიყენოთ |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| დიდი ასოებით დაწერილი ჩანაწერი | „დღეს ექიმთან 2-ზე. მერი მიგიყვანს.“ დადეთ იქ, სადაც ყველაზე ხშირად იყურება |
+| დაფა | დღევანდელი გეგმა სამ-ოთხ ხაზში; ყოველ დილას წაშალეთ და თავიდან დაწერეთ |
+| დიდი საათი დღითა და თარიღით | ეხმარება კითხვებზე: „რა დღეა?“ და „უკვე დროა?“ |
+| კალენდარი | თითოეული დღე გადახაზეთ; შემდეგი ვიზიტი წრეებში შემოატანეთ |
+| ნაცნობი ფოტოები | იმ ადამიანის ფოტო, ვინც მოდის, შეიძლება უპასუხოს კითხვას: „ვინ სტუმრობს?“ |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+ეს იდეები მომდინარეობს [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition)-ისა და [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf)-ისგან. ფრთხილად მიუთითეთ ჩანაწერზე („მოდი, ერთად გადავხედოთ დაფას“), ნაცვლად იმისა, რომ უთხრათ: „ეს შენთვის დავწერე“.
 
-## Tell them about events close to the time
+## მოვლენებზე დროსთან ახლოს Islesაუბრეთ
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+თუ შეხვედრაზე ან გასვლაზე რამდენიმე დღით ადრე Islesაუბრებთ, ამას შეიძლება საათობით ნერვიული კითხვები მოჰყვეს. Family Caregiver Alliance და Alzheimer's Los Angeles გირჩევენ, გეგმებზე, განსაკუთრებით კი მაძაბრელ საკითხებზე, როგორიცაა ექიმთან ვიზიტი ან დაბანა, Islesაუბროთ მხოლოდ ცოტახნით ადრე. შემდეგ მშვიდად აუხსენით, რა მოხდება შემდეგ, ერთი ნაბიჯით.
 
-## Activities that can shift attention
+## занятობები, რომლებმაც შეიძლება ყურადღება გადაიტანოს
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+მას შემდეგ, რაც უპასუხებთ და მის განცდას აღიარებთ, მშვიდი და სასიამოვნო занятობა შეიძლება დაეხმაროს, განსაკუთრებით მაშინ, თუ კითხვების მიღმა მოწყენილობა დგას. ყველა ზემოთ ნახსენები წყარო გირჩევთ, ყურადღება გადაიტანოთ იმაზე, რაც ადამიანს სიამოვნებს.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **მოკლე და მარტივი თამაში ერთად.** [Picture pairs](/games/picture-pairs/) სურათებს ხილულად ტოვებს, ამიტომ არაფრის დამახსოვრება არ არის საჭირო.
+2. **ნაცნობი საქმე.** პირსახოცების დაკეცვა, წინდების დალაგება ან მაგიდის გაწყობა. [Sort together](/games/sort-together/) ამის ეკრანული ვარიანტია.
+3. **ისაუბრეთ იმაზე, რაც უყვარს.** [Conversation cards](/games/conversation-cards/) იძლევა ღია შეკითხვებს, რომლებზეც სწორი პასუხი არ არსებობს.
+4. **მუსიკა, გასეირნება ან საკვები.** National Institute on Aging ამ ყველაფერს ყურადღების გადასატან მარტივ გზებად ასახელებს.
+5. **მშვიდი შესვენება.** იჯექით ერთად, ფანჯრიდან გაიხედეთ ან ერთად სცადეთ [calm breathing](/games/calm-breathing/).
 
-If they return to the question, answer it again, kindly. That is fine.
+თუ კითხვას ისევ დაუბრუნდება, ისევ მშვიდად უპასუხეთ. ეს არაფრის ბრალია.
 
-## Look for patterns
+## დააკვირდით განმეორებად სქემებს
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association გირჩევთ, მიაქციოთ ყურადღება, კითხვები დღის გარკვეულ დროს, გარკვეულ ადამიანებთან ან გარკვეულ ადგილებში ჩნდება თუ არა. თუ ისინი ყოველთვის სტუმრების მოსვლამდე ან გვიან ნაშუადღევს იწყება, შეგიძლიათ წინასწარ მოემზადოთ: ჩანაწერი ვიზიტის შესახებ, მზად იყოთ ნაცნობი занятობა, უფრო მშვიდი ოთახი. ჩვენი გზამკვლევი [მშვიდი занятობები გვიანი ნაშუადღევისთვის](/caregiving/late-day-restlessness/) შეიძლება დაგეხმაროთ, თუ საღამოები ყველაზე რთულია.
 
-## Take care of yourself
+## იზრუნეთ საკუთარ თავზე
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+ერთი და იგივე კითხვაზე მეოცედ პასუხის გაცემა დამღლელია. თუ გრძნობთ, რომ მოთმინება გეწურებათ და ადამიანი უსაფრთხოდ არის, რამდენიმე წუთით გადადით სხვა ოთახში და ამოისუნთქეთ, როგორც [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) გირჩევთ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) მოუწოდებს მზრუნველებს, დახმარება ითხოვონ და დროებითი შესვენების შესაძლებლობაზეც იფიქრონ. დამატებითი იდეები იხილეთ ჩვენს [მზრუნველის საკუთარ თავზე ზრუნვის გზამკვლევში](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## როდის უნდა დავურეკო ექიმს?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+დაუყოვნებლივ დაუკავშირდით მის ექიმს, თუ კითხვები, დაბნეულობა ან ქცევა უეცრად შეიცვალა ან საათებსა თუ დღეებში ბევრად გაუარესდა. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ამბობს, რომ უეცარი ან სწრაფად ცვალებადი ქცევის შესახებ, განსაკუთრებით ინფექციის შემდეგ ან წამლის შეცვლისას, ექიმს დაუყოვნებლივ უნდა შეატყობინოთ. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) განმარტავს, რომ ინფექციამ, წამლებმა, გაუწყლოებამ, ტკივილმა ან ყაბზობამ შეიძლება გამოიწვიოს დელირიუმი — უეცარი და მძიმე დაბნეულობა, რომელსაც სწრაფი მკურნალობა სჭირდება. დარეკეთ 112-ზე, თუ ვინმე საფრთხეშია.

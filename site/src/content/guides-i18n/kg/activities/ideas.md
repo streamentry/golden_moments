@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Bisalu sambu na bantu yina ke zingila ti dimensia: 101"
+seoTitle: "Bisalu sambu na dimensia: 101 bangindu ya pete"
+description: "101 bisalu ya pete mpi ya bambuta sambu na bantu yina ke zingila ti dimensia, banda na kupinda ba serviette tii na miziki mpi bafoto, ti mutindu ya kuyidika yo."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Bisalu ya mbote sambu na bantu yina ke zingila ti dimensia kele bisalu yina
+  bo me zaba, ya bambuta mpi ya pete na kusala kintwadi: kupinda bilele, kubuka
+  bima, kulamba, kuwa miziki, kutala bafoto, kutambula, kusala bilanga, kuvanda
+  ti bambisi ya nzo mpi bansaka ya pete. Pona mambu yina muntu vandaka kuzola
+  ntangu yonso, sadisa na bitini yina ke mpasi, mpi yima ntangu yandi me lema.
+  Ntangu ya kitoko ya bo ke lutisa kintwadi kele mfunu kuluta kumanisa kisalu.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Bandila na luzingu ya muntu yina mosi: kisalu na yandi, mambu yina yandi vandaka kuzola kusala, lukwikilu mpi miziki yina yandi ke zolaka mingi kele lutwadisu ya kuluta mbote."
+  - "Kumisa kisalu yonso fioti kana mfunu kele: bitambi fioti, baponina fioti, nge kusala bitini ya mpasi."
+  - "Kutala, kusimba kima mosi to kuvanda kaka pene kele mpi mutindu ya kuvukana."
+  - "Yima to soba kisalu ntangu nge ke mona kulemba, makasi to kukonda kyese. Kuyimisa na ntwala kele mbote."
+  - "Kusala yo kintwadi kele mfunu kuluta kusala yo mbote-mbote."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Inki bisalu kele mbote sambu na muntu yina ke zingila ti dimensia?"
+    a: "Bisalu ya me zaba yina muntu me salaka bamvula mingi, kansi ya kukuma fioti pete: kupinda bilele, kutula mesa, kulamba, kuwa miziki, kutala bafoto, kutambula, kusala bilanga mpi kuvanda ti mbisi ya nzo. Pona bisalu yina ke monisa luzitu ya bambuta mpi sala yo kintwadi."
+  - q: "Kisalu fwete sala ntangu ikwa?"
+    a: "Ntangu ya sikisiki kele ve. Bantangu fioti ya kupinda ba serviette lenda lunga kilumbu mosi, mpi ngunga mosi na kilanga lenda vanda pete kilumbu yankaka. Bika muntu yina mosi kutwadisa ntinu mpi yimisa ntangu yo ke vandaka kaka ya kitoko."
+  - q: "Muntu bu yandi ke buya kusala kisalu?"
+    a: "Kupusa ve. Kubuya lenda tendula nde kisalu ke monana mpasi mingi, ntangu me fwana ve, to yandi me lema to yandi ke waka mbote ve. Meka diaka na nima, pesa mbala ya fioti kuluta, to yantika kisalu nge mosi pene-pene ya yandi mpi bingisa yandi na kusadisa."
+  - q: "Bansaka ya mabanza kele mbote sambu na bantu yina ke zingila ti dimensia?"
+    a: "Bansaka lenda vanda mutindu ya kitoko ya kulutisa ntangu kintwadi, kansi nsaka mosi ve me monisa nde yo ke belula, ke lembika to ke yimikisa dimensia. Pona bansaka yina kele ve ti ntangu ya kulanda, ve ti bakotolo to ve ti makelele ya ‘mvutu ya mbi’, mpi tadila yo bonso kisalu ya kintwadi, kansi ve kimeka."
+  - q: "Inki mutindu na kusala nde bisalu kuvanda bonso ya bana ve?"
+    a: "Sadila bima ya kieleka ya bambuta: ba serviette ya kieleka, barecette ya kieleka, miziki ya bambuta, bima ya kusala art, mpi bafoto yina ke monisa mambu ya bambuta. Monisa bisalu bonso lusadisu yina nge ke zola mpenza, mpi solula ti muntu bonso mbuta yina yandi kele."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Kisalu ya kuluta mbote sambu na muntu yina ke zingila ti dimensia mbala mingi kele kima yina yandi me zabaka dezia kusala, kansi ya kukuma fioti pete mpi ya kusalama ti muntu yina yandi ke tudilaka ntima. Na nsi, nge ta mona 101 bangindu, ya kubukana na mitindu, mpi konso mosi ke monisa mutindu ya kuyidika yo mpi mutindu ya kukumisa yo pete ntangu yo ke kuma mpasi. Nge kele ve na mfunu ya bima ya sipesiali, mpi nge kele ve na mfunu ya kumanisa kisalu. Nkokila mosi ya mbote lenda vanda paniere mosi ya ba serviette mpi dikopa mosi ya kafe, kintwadi.
 
-## How do you choose the right activity?
+## Inki mutindu na kupona kisalu ya mbote?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Pona na kutadila muntu, kansi ve na kutadila lisiti: yantika na mambu yina yandi vandaka kuzola ntangu yonso mpi mambu yina yandi lenda sala mbote bubu yai.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Yindula kisalu mpi mambu yina yandi vandaka kuzola kusala.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ke tuba nde muntu yina vandaka kusala na biro lenda zola kubuka mbongo to kuyidika mikanda ya kutinda, mpi muntu ya kilanga lenda zola kusala na kilanga.
+- **Tala mambu yina yandi ke salaka yandi mosi.** Kana tata na nge ke kombula veranda konso suka na kukonda nde bo lomba yandi, kotisa yo na programe ya kilumbu.
+- **Yidika na kutadila bansatu ya yandi.** Kulemba, disu, makutu, maboko ya mpasi mpi kutelama mbote yonso kele mfunu.
+- **Tala kikalulu na yandi.** Bisalu ya mingi to ya makelele ke fwana na bantu yankaka, kansi ke pesa boma na bankaka.
+- **Pesa kisalu mfunu mosi.** Kupinda ba serviette sambu na madia ya dibundu ke monana na mfunu kuluta kisalu ya kusala kaka sambu na kusala.
 
-### A rough guide by stage
+### Lutwadisu ya pete na kutadila kitambi
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Mbala mingi bo ke tendulaka dimensia na bitambi ya luyantiku, ya kati mpi ya nsuka. Yai kele bandinga ya pete, kansi ve bakiese ya ngolo, mpi bantu mingi ke vandaka ti bilumbu ya mbote mpi bilumbu ya mpasi. Yo yina, landa mambu yina nge ke mona bubu yai. [Lisiti ya Alzheimer's Foundation of America na kutadila bitambi](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ke landa mutindu mosi ya mutindu.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Mambu | Kitambi ya luyantiku | Kitambi ya kati | Kitambi ya nsuka |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Mambu yina nge lenda mona | Mingi ya ntangu yandi ke sala mambu yandi mosi; kuyidika mambu, bazina ya mpa mpi bisika ya bantu mingi ke kuma mpasi | Ke zola lusadisu sambu na kuyantika mpi na bitambi; bandinga ke basika pete ve | Ke zola lusadisu sambu na mingi ya mambu ya konso kilumbu; bima yina ke tambula na biwutu kele mfunu mingi |
+| Bisalu yina lenda fwana | Bakarte, bansaka ya mesa, kulamba, kisalu ya bilanga, kusonikila, kubasika, baklub | Kupinda bilele, kubuka bima, bitambi ya pete ya kulamba, kuyimba, ba albume ya bafoto, kutambula ti lutwadisu | Miziki yina yandi ke zolaka, kumasa maboko na malembe, bima ya petepete na kusimba, kutanga sambu na yandi, kuvanda na nganda |
+| Kisalu na nge | Nduku ya kisalu: yula yandi inki lusadisu yandi ke zola | Yidika bima, monisa, baka bitini ya mpasi | Nata kisalu pene ya yandi; kuvanda na nge kele kisalu yina mosi |
+| Bangindu ya nkaka | [Kitambi ya luyantiku](/activities/early-stage/) | [Kitambi ya kati](/activities/middle-stage/) | [Kitambi ya nsuka](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Inki mutindu na kuyantika kisalu ti muntu yina ke zingila ti dimensia?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Yantika na fioti, yantika pene ya yandi, mpi sala nde kuvutula ndinga "ee" kuvanda pete. Bantu mingi ke zolaka kaka kuvukana, kansi ke monaka mpasi na kuyidika to kuyantika.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Pona ntangu ya mbote sambu na yandi,** mbala mingi na suka.
+2. **Yidika bima yonso na ntwala** sambu nge lenda yantika mbala mosi.
+3. **Lomba lusadisu, kansi ve kimeka:** "Nge lenda sadisa mono na mambu yai?"
+4. **Yantika nge mosi.** Pinda serviette ya ntete mpi bika yandi kukota. Kumonisa kele mbote kuluta kutendula.
+5. **Pesa kitambi mosi na ntangu mosi.**
+6. **Baka kitambi ya kuluta mpasi.** Alzheimer's Association ke tuba nde nge lenda teza bima ya kulamba, mpi na nima pesa yandi lutu sambu na kunikisa.
+7. **Bika yo kusalama na mutindu na yandi.** Ba serviette ya kupindama na mutindu ya kuswaswana kele mbote.
+8. **Yima ntangu yo ke kuma diaka ya kitoko ve.** Kunikisa-nikisa, kukangama na luse to kutuba "mono lenda ve" kele bidimbu nde mbote na kusoba to kupema.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Tala mpi [mutindu ya kusala kintwadi](/caregiving/how-to-play-together/) mpi [bandongisila ya kusolula](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Bisalu ya konso kilumbu na nzo
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Bisalu ya nzo kele ya me zaba mpi ya mfunu, yo yina yo kele kisika ya mbote ya kuyantikila. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ke tanga kuyobisa malonga, kutula mesa, kukombula, kubuka mikanda mpi kupinda bilele na kati ya bisalu yina bantu lenda zola. Bangindu ya nkaka kele na [bisalu ya nzo](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Pinda ba serviette ya tiya.** Katula paniere ya bilele ya kuyuma na zulu ya mesa mpi pinda kintwadi. Na nima, kunengumuna mpi kutula yo na zulu ya nkaka kele mpi lusadisu ya mbote.
+2. **Vukisa bakusete.** Yantika ti mikubu ya kuswaswana mingi. Na nima, kubuka ya pembe ti ya ndombe lenda lunga.
+3. **Tula mesa.** Pesa mutindu mosi ya kima na ntangu mosi. Tula kisika mosi nge mosi bonso mbandu.
+4. **Yobisa to yuma malonga.** Maza ya tiya, sabuni mpi malonga yina ke bwana ve. Kuyumisa ntangu nge me vanda kele pete sambu na makulu.
+5. **Pangusa mesa.** Pesa kitambala ya madidi na nima ya kudia. Yo kele kisalu ya kieleka sambu na maboko yina ke zolaka kusala kima.
+6. **Buka mikanda.** Bakataloge mpi mikanda ya kukonda mfunu na "kubumba" mpi "kubwaka." Bika bafaktire ya kieleka na lweka.
+7. **Zenga bakupon.** Banzengolo ya nsonge ya ndomuka mpi baflwaye ya magazini. Na nima, kuzungidila bilei yina bo ke zolaka kele mpi mbote.
+8. **Buka mbongo ya bibende.** Buka mbongo na bakopo to kotisa yo na ba rouleau. Yambula bima ya fioti mingi kana muntu ke kotisaka bima na munoko.
+9. **Kombula to katula mvindu ya mbote.** Kikombolo ya pete na veranda, to kisadulu ya nda ya kukatula mvindu ya mbote ntangu yandi me vanda na kiti.
+10. **Sadisa na kulamba madia.** Kuyobisa bandunda, kupasula saladi, kunikisa. Nge baka kisalu ya bampu mpi ya tiya.
+11. **Lamba recette ya dibuta.** Sadila karte ya yandi mosi ya kusonikila, kana nge kele na yo. Na nima, yandi lenda vanda muntu ya kumeka ndudi.
+12. **Sala kisalu ya biro.** Pinda mikanda, kotisa yo na ba enveloppe, tula batimbre, to sonika lisiti ya kusumba kintwadi.
 
-## Music
+## Miziki
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Miziki ya me zaba lenda kuma na bantu ata ntangu bandinga ke kuma mpasi. [Bandongisila ya miziki ya Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ke tuba nde mbote na kupona bankunga ya me zaba, kukonda bapiblisite mpi kuzima televizio. Tala [bisalu ya miziki](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Sala lisiti ya miziki ya yandi mosi.** Miziki ya bamvula na yandi ya kileke mpi ya bantuenia, ya makwela, ya dibundu mpi ya kinkulu na yandi.
+14. **Yimba kintwadi.** Yantika kuyimba nge mosi. Kununguta to kuwa kele mpi kuvukana.
+15. **Landa ritmo.** Bula maboko, beta na makulu to beta ngoma ya fioti ya diboko. Yo lenda salama ntangu muntu me vanda mpi na bitambi ya nsuka.
+16. **Kina.** Kina malembe na kikuku, to nikisa nitu ntangu bo me vanda mpi bo ke simbana na maboko.
+17. **Wa albume mosi ya mvimba.** Disiki yina yandi ke zolaka banda na luyantiku tii na nsuka, ti kafe mpi kukonda kima yankaka ya kusala.
+18. **Solula sambu na miziki.** Bingisa masolo, kansi ve mambu ya kuyibuka na nsiku: "Tubila mono sambu na makinu yina nge vandaka kukwenda."
+19. **Tala muzika to konsere ya bafoto ya video.** Lisano yina yandi vandaka kuzola lenda vanda nkokila ya mbote. Yimisa ntangu yonso yina nge zola.
+20. **Bula kisadulu ya miziki ya me zaba.** Muntu yina vandaka kubula piano lenda zola bankunga ya pete; na nima, banote fioti kintwadi.
+21. **Wa miziki ya kuzinga.** Konsere ya fioti ya kartie to repetisio ya korale. Vanda pene ya kielo.
 
-## Reminiscence: photos, objects and stories
+## Kuyibuka mambu ya ntama: bafoto, bima mpi masolo
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Sepela na mambu ya ntama kintwadi, kansi kukonda kumeka yo. Yambula bangiufula bonso "Nge ke yibuka...?" mpi "Yai nani?" mpi sadila babingisa ya kukanguka. Tala [bisalu ya kuyibuka mambu](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Tala albume ya bafoto.** Tuba mambu yina nge ke mona: "Mwane ya kitoko. Tubila mono sambu na kilumbu yai." Ndima bazina yonso yina yandi ke sadila.
+23. **Sala sanduku ya kuyibuka.** Sanduku ya basapatu ti bima ya luzingu na yandi, bonso badje ya kisalu to karte ya recette. Basisa bima mosi-mosi.
+24. **Yantika buku ya luzingu.** Bafoto fioti na konso lutiti ti masonama ya nene. Yo ke sadisa bantu ya mpa yina ke kwisaka na kuzaba muntu mbote.
+25. **Sadila bakarte ya masolo.** [Conversation cards](/games/conversation-cards/) ke vukisa kifwanisu ti ngiufula ya kukanguka.
+26. **Sala nsaka ya bafoto ya dibuta.** [Photo pairs](/games/photo-pairs/) ke kumisa bafoto na nge mosi nsaka ya kuvukisa.
+27. **Tala bavideo ya dibuta to batelevizio ya ntama.** Tuba kintwadi sambu na yo na kisika ya kuyula bangiufula.
+28. **Simba bima ya kisalu na yandi ya ntama.** Kile ya kufungula, stetoskope, buku ya mikanda. Mbala mingi maboko ke nata disolo.
+29. **Lamba madia ya kileke na yandi.** Yandi lenda nikisa, meka ndudi to kuvanda kaka na nge na kikuku.
+30. **Tala karte ya bisika yina yandi zingilaka.** Landa babalabala ya me zaba na atlas ya nene ntangu beno ke solula.
 
-## Creative activities
+## Bisalu ya kusala na mabanza
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Art kele sambu na kusala, kansi ve sambu na kisalu ya nsuka. Bumba bima ya bambuta mpi ya kukonda kigonsa. Tala [art mpi misala ya maboko](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Penta ti bakulere ya masa.** Papie ya ngolo, bakulere fioti. Kana kuyantika kele mpasi, sadisa yandi na bistre ya ntete kintwadi.
+32. **Tula mikubu na badesenio ya bambuta.** Bafleur to bakilamba ya mipende, kansi ve badesenio ya bana. [Balutiti na beto ya kutula mikubu](/games/coloring/) ke salama na ekrani to na kupinta yo.
+33. **Sala kolaze.** Pasula bafoto ya bilanga, bakamio to bilei na bazulunalu mpi kolama yo. Na nima, kupona kaka bafoto lenda lunga.
+34. **Yidika bafleur.** Kitoko mosi ya kufwana na magazini ya bilei mpi vase mosi. Na nima, batini fioti ya bafleur na bocal.
+35. **Sala triko to krose kintwadi.** Milongo ya pete na ba zingwidi ya nene. Na nima, kuzingisa nsinga na baboule.
+36. **Sala bakarte sambu na dibuta.** Tula batimbr, tula siniatire to yidika bakarte ya lubutuku to ya mbote sambu na bantu ya kieleka.
+37. **Sala bima na ntoto ya kuyuma na mupepe.** Fina sani ya fioti. Sadila bima ya kukonda kigonsa mpi vanda pene.
+38. **Pangusa mpi manisa mabaya.** Kiti ya mpa ya fioti ya ndeke mpi papie ya kupangusa, kukonda bamasini ya kuranti. Tala [bisalu sambu na babakala](/activities/for-men/).
+39. **Sonika to tuba mukanda.** Sambu na nkumbu to nduku ya ntama. Kana kusonika kele mpasi, yandi ke tuba mpi nge ke sonika.
 
-## Outdoors and gardening
+## Na nganda mpi na kilanga
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Mupepe ya mbote mpi mwini ya kilumbu kele banduku ya mbote. Tala [bisalu ya nganda mpi ya kilanga](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Mwangisa banti masa.** Arosoire ya fioti mpi bapoto fioti. Kumwangisa masa konso kilumbu ke pesa programe ya kilumbu ndonga.
+41. **Kuna kima na poto.** Tula yo na zulu ya mesa sambu muntu mosi ve kufukama. Banti ya fioti ya kuyidikama dezia kele pete kuluta nkuna.
+42. **Katula matiti ya mbi to bafleur ya kuyuma.** Tula bagan, kisika mosi ya fioti na ntangu mosi.
+43. **Vukisa makasa.** Kisika mosi ya fioti. Na nima, kusimba saki ntangu bo ke fulukaka yo kele mpi kisalu ya kieleka.
+44. **Tambula na nzila ya me zaba.** Na nziunga ya nzo to tii na boite ya mikanda. Ntangu ya nkufi kele mbote.
+45. **Vanda kintwadi na nganda.** Na kiti ya veranda na kilumbu ya malembe. Tala matuti to bantu yina ke luta.
+46. **Disa bandeke.** Fulusa kidisilu ya bandeke kintwadi mpi tala na fenetre.
+47. **Yobisa kamio.** Mbaki, eponge mpi nkokila ya tiya. Kuyobisa baroue kele kisalu ya mbote ya kitambi mosi.
 
-## Sensory activities
+## Bisalu ya biwutu
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Kusimba, kunusa, kumeka ndudi, kuwa mpi kumona ke kuma mfunu mingi ntangu dimensia ke kwenda na ntwala. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ke tubila miziki, bima ya kusimba mpi kumasa maboko sambu na bitambi ya nsuka. Tala ntete kana kele alergi to kigonsa ya kudiama; tala [bisalu ya biwutu](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Masa maboko na malembe.** Yula ntete mpi sadila fioti ya losio. Pona losio ya kukonda nsudi kana nge me zaba ve mutindu kikanda ke vanda to kana alergi kele.
+49. **Wakana bitambala.** Paniere ya velours, velours côtelé, laine mpi satin sambu na kusimba mpi kupinda.
+50. **Nusa banti ya nsudi ya kitoko mpi kafe.** Fina menthe to romarin ya mubisu na kati ya misapi. Yambula bansudi ya ngolo kana muntu kele ti mpasi ya kupema.
+51. **Sanuna nsuki na yandi.** Na malembe mpi na mawete, kana yandi ke zolaka yo.
+52. **Kabula kitambala ya tiya.** Sambu na maboko mpi luse na kilumbu ya madidi. Meka ntangu ya tiya na ntwala.
+53. **Meka tablie ya bisalu.** Baboton ya nene mpi bafermeture ya kukangama mbote. Tala nde kima mosi ve lenda katuka.
+54. **Meka kima ya sukadi yina yandi ke zolaka.** Lutu mosi ya fioti, na mutindu yina yandi lenda dia yo na kizunu yonso.
+55. **Yokisa makelele ya lugangu.** Mvula, mambuinga ya masa to makelele ya bandeke na ndinga ya nsi.
+56. **Tala kima ya ke salama malembe.** Baki ya bambisi ya masa, video ya lugangu to neze yina ke bwa.
 
-## Games and puzzles
+## Bansaka mpi bapuzzle
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Bansaka ke salama mbote ntangu kele ve ti ntangu ya kulanda, bakotolo to kupusa. Kana nsaka mosi ke yantika kumonana bonso kimeka, bika yo. Tala [kupona ba apps mpi bansaka](/caregiving/choosing-apps-and-games/) mpi [bansaka ya mabanza](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Vukisa bafoto.** [Picture pairs](/games/picture-pairs/) ke bikaka bafoto na zulu, yo yina yo kele kusala ya kutala, kansi ve ya kuyibuka.
+58. **Sosa kifwanisu ya mutindu mosi.** [Find the same](/games/find-the-same/) ke pesaka baponina zole tii na iya. Solula sambu na konso kifwanisu.
+59. **Buka bima na bapaniere.** [Sort together](/games/sort-together/) kele bonso kubuka bakusete na ekrani.
+60. **Sala puzzle ya bitini ya nene.** Bafoto ya bambuta, ti ntalu ya bitini ya pete. [Picture puzzle](/games/picture-puzzle/) ke bikaka kifwanisu ya mvimba na meso. Bangindu ya nkaka na [bapuzzle sambu na dimensia](/activities/puzzles/).
+61. **Saka nsaka ya ntama ya bakarte.** Yina yandi vandaka kusaka bamvula mingi. Na nima, kubuka bakarte na mikubu kele mpi nsaka.
+62. **Saka domino.** Vukisa bansongi. Na nima, kutula batini na ndonga kele mpi mbote.
+63. **Meka kusosa bandinga ya nene.** [Word search](/games/word-search/) na beto kele ti bandinga na kulala mpi na kutelama kaka, mpi lenda kubasikama na imprimante.
+64. **Manisa bingana ya me zaba.** [Finish the saying](/games/finish-the-saying/) ke pesa nzila ya kumonisa nsuka ntangu yonso.
+65. **Saka bingo ya bafoto.** [Picture bingo](/games/picture-bingo/) ke fwana sambu na mabuta mpi bimvuka. Sadisa na kutula bidimbu na ntima yonso.
+66. **Saka dami.** Bika bansiku kuvanda pete. Kunikisa bitini ntangu beno ke solula kele mpi kusaka.
 
-## Movement
+## Kunikisa nitu
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA ke pesa bangindu bonso kutambula, velo ya kuvanda na kisika mosi, bima ya kunwanisa sambu na kutandula, kubula balle ya petepete to ballon, kutombula bakonserve ya supu mpi bavideo ya ngalasisi sambu na bambuta. Solula ti munganga na ntwala ya kuyantika kima ya mpa, mingi-mingi kana kele mpasi ya kutelama mbote.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Bula ballon.** Vanda ntala ya ntala. Yo ke tambulaka malembe, yo yina yo kele pete na kubaka.
+68. **Landa video ya ngalasisi ya kuvanda** yina bo me sala sambu na bambuta, kintwadi.
+69. **Tandula nitu ti bande.** Kubenda malembe na maboko ti bande ya pete ntangu nge me vanda.
+70. **Tombula bakonserve ya supu.** Kutombula maboko malembe, mbala yankaka na miziki.
+71. **Tambula na velo ya kuvanda na kisika mosi.** Bantangu fioti ya pete, ti nge pene.
+72. **Kina ti bitambala ya pete.** Nikisa bitambala ya pete na miziki, ntangu bo me vanda to bo me telama.
+73. **Tambula ti kikuma.** Sambu na kutinda mukanda to kusumba kafe. Kikuma ya kukwenda ke monanaka ya kieleka.
+74. **Pema malembe kintwadi.** Wenda malembe kintwadi ti [kupema malembe](/games/calm-breathing/).
 
-## Social activities
+## Bisalu ya kimvuka
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Kuvanda ti bantu kele mfunu ata ntangu bazina ke kuma mpasi, mpi bimvuka ya fioti kele pete kuluta bimvuka ya nene. NIA ke tuba nde muntu lenda yibuka ve nani muntu ya kukwisa kele, kansi mbala mingi yandi lenda se pela kaka ti kivwadi na yandi. Tala [bavisite](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Baka muntu mosi to bantu zole na ntangu mosi.** Bavisite ya nkufi na kisika ya pima, ti bafoto ya kutala.
+76. **Sala video ti dibuta.** Babinga ya nkufi, ndinga mosi na ntangu mosi. Tala [babinga na telefone mpi na video](/activities/phone-and-video-calls/).
+77. **Meka kafe ya kuyibuka.** Baluizi ya kukonda mikangala sambu na bantu yina ke zingila ti dimensia mpi bantu yina ke kebaka bo. Yula Area Agency on Aging ya pene na nge sambu na kuzaba kisika yina kele.
+78. **Kwenda kudia na nganda na ntangu ya pima.** NIA ke tuba nde mbote na kupona restaurant ya me zaba mpi ya pima na bantangu yina bantu kele mingi ve, pene ya kabine ya masa.
+79. **Kwenda na centre ya bambuta to na programe ya kilumbu.** Kivwadi sambu na yandi mpi kupema fioti sambu na nge.
+80. **Lutisa ntangu ti bana.** Vizite ya nkufi mpi ya pima ya bankumbu, to kutanga buku ya bafoto sambu na mwana ya fioti.
+81. **Tanga zulunalu kintwadi na kafe.** Tanga bantwadusulu na ndinga ya ngolo. Kikalulu kele mfunu kuluta bansangu.
+82. **Sadisa muntu yankaka.** Pinda baprogame ya dibundu to sala karte sambu na muntu ya kartie.
 
-## Faith and spiritual activities
+## Bisalu ya lukwikilu mpi ya kimpeve
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Landa kinkulu ya muntu yina mosi, to kima ve kana yandi kele ve na yo. NIA ke tuba nde misambu ya me zaba, kutanga, miziki ya santu, kisambu, kuyindulula malembe mpi bikalulu ya bafeti lenda sadisa.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Kwenda na kisambu ya me zaba.** Pona kisambu ya pima mingi, vanda pene ya nzila, mpi zabisa bantu ya kuna sambu na dimensia.
+84. **Tala kisambu na internet** na bilumbu yina kubasika kele mpasi mingi.
+85. **Samba to tanga kintwadi.** Bandinga ya me zaba, na malembe. Yandi lenda vukana na bitini yina yandi me zaba.
+86. **Yimba bankunga ya dibundu to miziki ya santu** ya kinkulu na yandi.
+87. **Bumba bikalulu ya bafeti.** Bakandela ya bapile, lusakumunu, bima ya kuyidika yina yandi vandaka kusadila ntangu yonso.
+88. **Kabula ntangu ya pima.** Vanda na kilanga to tala ntangu ya mwini ke dinda kintwadi.
 
-## Pets and animals
+## Bambisi ya nzo mpi bambisi
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA ke tuba nde kudisa, kusanuna, kutambula ti mbisi, to kuvanda pene mpi kusimba mbisi ya nzo.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Sanuna mbwa to niawu ya pima** na bampusa ya nda mpi ya malembe.
+90. **Disa mbisi kintwadi.** Nge teza; yandi kulumuna.
+91. **Tambula ti mbwa kintwadi.** Nge simba nsinga.
+92. **Simba mbisi na makulu.** Niawu ya pima na zulu ya bulanketi lenda vandisa nitu na pima.
+93. **Yamba bambisi ya kukwisa.** Banzo yankaka ya kisalu mpi baprogame ya kilumbu ke bakisaka bambisi. Yula na kisika na nge.
+94. **Pesa mbisi ya peluche ya ke fwanana ti ya kieleka.** Kana mbisi ya kieleka kele ve, bantu yankaka ke sepelaka na kusimba niawu to mbwa ya peluche ya ke fwanana ti ya kieleka. Pesa yo na pete, kansi ve bonso kisadulu ya bana, mpi ndima ndinga "ve".
 
-## Seasonal activities
+## Bisalu ya nsungi ya mvula
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Bumba bikalulu, kansi na mutindu ya pete. NIA ke tuba nde mbote na kuvanda ya me fwana mpi na kuvanda ti kisika ya pima sambu na kupema na ntangu ya bafeti ya bantu mingi.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Yidika sambu na nsungi ya mvula.** Dibu ya courge, couronne to bafleur ya mubisu na mesa.
+96. **Sala kima ya sukadi ya feti.** Zingisa pate to tula glaçage na babiscuit. Nge baka kisalu ya four.
+97. **Tula bima ya kuyidika.** Bima ya kukonda kubwana, kupesa yo mosi-mosi.
+98. **Tambula na kamio sambu na kutala bamwinda.** Kutambula ya nkufi na nkokila ke lomba kaka kivwadi.
+99. **Kuna babulbe ya printemps.** Tula babulbe na poto na nsungi ya automne mpi vingila ntangu yo ta basika.
+100. **Katula bapawu ya masangu to bampasu ya petit pois.** Kisalu ya veranda na nsungi ya mvula ya tiya, ti sani na makulu.
+101. **Yidika bakarte ya feti.** Yandi ke tula siniatire, timbre to ke kanga; nge ke sala ba adrese.
 
-## What if an activity is not working?
+## Kana kisalu ke kwenda mbote ve, inki kusala?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Yima, mpi meka kima yankaka na ntangu yankaka. NIA ke tuba nde mbote na kutala kana makasi ke basika mpi kubika muntu kutala kaka kana yandi ke zola. Ndinga "ve" mbala mingi ke tendula nde kisalu kele mpasi mingi, ntangu me fwana ve, to kima yankaka ke yangisa yandi, bonso mpasi, nzala to makelele. Kumisa yo fioti, meka na ntangu ya ntwala na kilumbu, to yantika nge mosi mpi tala kana yandi ta kota. Tala [ntangu yandi ke tuba ve](/caregiving/when-they-say-no/) mpi [kukonda pima na nkokila](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Sambu na kutula bisalu na kati ya madia mpi kupema, tala [programe ya malembe ya kilumbu](/activities/daily-routine/). Sambu na bima ya kuvanda ti yo ya kuyidikama, tala [bisalu ya kubasika na imprimante](/activities/printable/), mpi kana nge ke twadisa kimvuka, tala [bisalu ya kimvuka na nzo ya kisalu](/activities/care-home-groups/). Kupema na nge mpi kele mfunu: tala [kukeba nge mosi ntangu nge ke kebaka muntu](/caregiving/caregiver-self-care/).

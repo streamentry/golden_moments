@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "ძილი და ტვინის ჯანმრთელობა: რას გვიჩვენებს კვლევა"
+seoTitle: "ძილი და დემენცია: რას გვიჩვენებს კვლევა"
+description: "რას მიუთითებს კვლევა ძილსა და დემენციის რისკზე, რატომ არის ტვინის „გასუფთავების“ კვლევა ჯერ ადრეულ ეტაპზე და რა ჩვევები ეხმარება ძილს."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  ზოგიერთი ხანგრძლივი კვლევა შუახნის ასაკში ხანმოკლე ძილს დემენციის უფრო მაღალ რისკთან აკავშირებს,
+  ხოლო ლაბორატორიული კვლევები მიუთითებს, რომ ძილი შესაძლოა ტვინს ნარჩენების გამოტანაში ეხმარებოდეს.
+  ეს მტკიცებულებები ჯერ ადრეულია და 2024 წლის Lancet-ის კომისიამ ძილი შეცვლად რისკ-ფაქტორად არ
+  დაასახელა. ძილის რეგულარული ჩვევები ყოველდღიურ самოგრძნობას აუმჯობესებს. დემენციის დროს ძილის
+  სირთულეები გავრცელებულია და ექიმთან გასაუბრებას იმსახურებს.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "გაერთიანებული სამეფოს კვლევამ, რომელმაც დაახლოებით 8 000 ადამიანს 25 წლის განმავლობაში მიადევნა თვალი, შუახნის ასაკში დღეში ექვსი საათი ან ნაკლები ძილი დემენციის უფრო მაღალ რისკთან დააკავშირა."
+  - "ძილის ცვლილებები შეიძლება დემენციის ადრეული ნიშანიც იყოს, ამიტომ მიზეზსა და შედეგს შორის განსხვავება რთულია."
+  - "ძილის დროს ტვინიდან ბეტა-ამილოიდის გამოტანის შესახებ კვლევა რეალურია, მაგრამ ადრეულია და დიდი ნაწილი თაგვებზეა ჩატარებული."
+  - "ძილის აპნოე გავრცელებული და სამკურნალო მდგომარეობაა, რომელსაც კვლევები დემენციასთან აკავშირებს; ხმამაღალი ხვრინვა და დღისით ძილიანობა შემოწმებას იმსახურებს."
+  - "არასდროს დაიწყოთ, შეწყვიტოთ ან შეცვალოთ ძილის წამალი ან დამხმარე საშუალება ექიმთან კონსულტაციის გარეშე."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "იწვევს თუ არა ცუდი ძილი ალცჰაიმერის დაავადებას?"
+    a: "ეს დადასტურებული არ არის. ზოგიერთი კვლევა ხანმოკლე ძილს დემენციის უფრო მაღალ რისკთან აკავშირებს, მაგრამ თავად დემენციაც არღვევს ძილს, ხშირად დიაგნოზამდე წლების ადრე. 2024 წლის Lancet-ის კომისიამ მტკიცებულებები არასაკმარისად თანმიმდევრულად მიიჩნია, რომ ძილი შეცვლად რისკ-ფაქტორად ჩაეთვალა."
+  - q: "რამდენი ძილი სჭირდება ხანდაზმულ ადამიანებს?"
+    a: "National Institute on Aging-ის მიხედვით, ხანდაზმულ ადამიანებს დაახლოებით იგივე რაოდენობის ძილი სჭირდებათ, რაც სხვა ზრდასრულებს, ღამეში 7-დან 9 საათამდე. ბევრი ხანდაზმული ადამიანი ადრე იძინებს და ადრე იღვიძებს, რაც გავრცელებულია."
+  - q: "რატომ სძინავთ დემენციით მცხოვრებ ადამიანს დღისით და რატომ იღვიძებს ღამით?"
+    a: "დემენციამ შეიძლება სხეულის შინაგანი საათი დაარღვიოს, ამიტომ ძილისა და გამოღვიძების დრო ირევა. ტკივილი, მოწყენილობა, შიმშილი ან წამლის გვერდითი მოვლენებიც შეიძლება მიზეზი იყოს. დღის სინათლე, ყოველდღიური აქტივობა და მშვიდი საღამოს რუტინა შესაძლოა დაეხმაროს. ექიმს შეუძლია იმ მიზეზების მოძებნა, რომელთა მკურნალობაც შესაძლებელია."
+  - q: "უნდა მივცე თუ არა ძილის დამხმარე საშუალება ადამიანს, ვისზეც ვზრუნავ?"
+    a: "ჯერ გაესაუბრეთ მის ექიმს, მათ შორის ურეცეპტო საშუალებების შესახებაც. National Institute on Aging აღნიშნავს, რომ ზოგიერთმა ძილის წამალმა ალცჰაიმერის დაავადებით მცხოვრებ ადამიანებში თავბრუსხვევის, დაცემისა და დაბნეულობის რისკი შეიძლება გაზარდოს."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+ძილი და ტვინის ჯანმრთელობა აშკარად დაკავშირებულია, თუმცა ის, თუ როგორ exactly ხდება ეს კავშირი, ჯერ კიდევ კვლევის საგანია. ზოგიერთი კვლევა ხანმოკლე ძილს დემენციის უფრო მაღალ რისკთან აკავშირებს. თავის მხრივ, დემენცია ხშირად არღვევს ძილს. ეს გვერდი განმარტავს, რას აჩვენებს და რას არ აჩვენებს კვლევა, გთავაზობთ ძილის პრაქტიკულ ჩვევებს და ეხება ძილის იმ სირთულეებს, რომლებიც დემენციის დროს გავრცელებულია. ეს გვერდი არ შეიცავს რჩევებს ძილის წამლების შესახებ; ეს საუბარი ექიმთან უნდა შედგეს.
 
-## Is poor sleep linked with dementia?
+## უკავშირდება თუ არა ცუდი ძილი დემენციას?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+ზოგიერთი ხანგრძლივი კვლევა ხანმოკლე ძილს დემენციის უფრო მაღალ რისკთან აკავშირებს, მაგრამ მტკიცებულებები საბოლოოდ დადგენილი არ არის.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **გაერთიანებული სამეფოს 25-წლიანი კვლევა.** მკვლევარებმა დაახლოებით 8 000 ზრდასრულ ადამიანს მიადევნეს თვალი [Whitehall II კვლევაში](https://www.nature.com/articles/s41467-021-22354-2). ადამიანებს, რომლებიც 50 ან 60 წლის ასაკში ექვს საათს ან ნაკლებს იძინებდნენ, მოგვიანებით დემენციის განვითარების უფრო მაღალი რისკი ჰქონდათ, ვიდრე მათ, ვინც შვიდ საათს იძინებდა. ადამიანებს, რომლებიც 50, 60 და 70 წლის ასაკში ექვს საათს ან ნაკლებს იძინებდნენ, დაახლოებით 30%-ით უფრო მაღალი რისკი ჰქონდათ, ვიდრე მათ, ვინც რეგულარულად შვიდ საათს იძინებდა. ეს იყო დაკვირვებითი კვლევა, ამიტომ იგი კავშირს აჩვენებს და არა მიზეზს.
+- **Lancet-ის კომისიის შეფასება.** [2024 წლის Lancet-ის კომისიამ](https://doi.org/10.1016/S0140-6736(24)01296-0) ძილი თავის 14 შეცვლად რისკ-ფაქტორში არ შეიტანა. მან მტკიცებულებები არასაკმარისად თანმიმდევრულად მიიჩნია. ერთ-ერთი მიზეზი არის „შებრუნებული მიზეზობრიობა“: დემენციასთან დაკავშირებული ცვლილებები ტვინში დიაგნოზამდე წლების ადრე იწყება და ძილს არღვევს. ერთ დიდ კვლევაში ხანგრძლივ ძილსა და დემენციას შორის კავშირი გაქრა, როცა დაკვირვების პირველი ხუთი წელი გამორიცხეს.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+ამიტომ, დრო და დრო არასაკმარისი ძილი შეშფოთების მიზეზი არ არის. რეგულარული და კარგი ხარისხის ძილი მიზანშეწონილია, რადგან ის დღეს განწყობას, სიფხიზლესა და უსაფრთხოებას უწყობს ხელს.
 
-## What is the "brain-clearing" sleep research?
+## რა არის ძილის დროს ტვინის „გასუფთავების“ კვლევა?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+შესაძლოა, წაგიკითხავთ, რომ ძილი ტვინს „ასუფთავებს“. ეს იდეა რეალურ კვლევას ეყრდნობა, მაგრამ ჯერ ადრეულ ეტაპზეა.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **თაგვებზე.** 2013 წლის კვლევამ, რომელსაც [NIH აღწერს](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), აჩვენა, რომ თაგვების ძილის დროს ტვინის უჯრედებს შორის სივრცე დაახლოებით 60%-ით იზრდებოდა. სითხე ტვინში უფრო ადვილად მოძრაობდა იმ სისტემის მეშვეობით, რომელსაც მკვლევარები გლიმფატურ სისტემას უწოდებენ. ბეტა-ამილოიდი, ალცჰაიმერის დაავადებასთან დაკავშირებული ცილა, მძინარე თაგვების ტვინიდან უფრო სწრაფად გამოიყოფოდა.
+- **ადამიანებზე.** მცირე [2018 წლის კვლევამ](https://www.pnas.org/doi/10.1073/pnas.1721694115) 20 ჯანმრთელი ზრდასრული, 22-დან 72 წლამდე, შეამოწმა ჩვეულებრივი ღამის ძილის შემდეგ და ერთი უძილო ღამის შემდეგ. უძილო ღამის შემდეგ, ტვინის სკანირებაზე ბეტა-ამილოიდის სიგნალი დაახლოებით 5%-ით გაიზარდა არეში, რომელიც ჰიპოკამპუსსაც მოიცავს, ანუ მეხსიერებისთვის მნიშვნელოვან რეგიონს. ავტორებმა ეს წინასწარ მტკიცებულებად აღწერეს. მათ არ იცოდნენ, ქრება თუ არა ეს ცვლილება დასვენების შემდეგ და ასახავს თუ არა ის უფრო ნელ გამოტანას, თუ უფრო მეტ ამილოიდის წარმოქმნას.
+- **ეს ორმხრივი პროცესია.** Lancet-ის კომისია აღნიშნავს, რომ ამილოიდის დაგროვებამ თავადაც შეიძლება დაარღვიოს ძილი ხანდაზმულ ადამიანებში.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+ეს დასკვნები ხსნის, რატომ აინტერესებთ მკვლევარებს ძილი. ისინი არ აჩვენებს, რომ უკეთესი ძილი ალცჰაიმერის დაავადებას ავიწროვებს.
 
-## What sleep habits may help?
+## რომელი ძილის ჩვევები შეიძლება იყოს სასარგებლო?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+ხანდაზმულ ადამიანებს ღამეში დაახლოებით 7-დან 9 საათამდე ძილი სჭირდებათ, ისევე როგორც სხვა ზრდასრულებს, აღნიშნავს [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). მისი რეკომენდაციებია:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **შეინარჩუნეთ რეგულარული განრიგი.** იძინეთ და გაიღვიძეთ ყოველდღე ერთსა და იმავე დროს, შაბათ-კვირის დღეების ჩათვლით.
+- **შეიქმენით დასაძინებელი რუტინა.** დაწოლამდე წაიკითხეთ, მოუსმინეთ მშვიდ მუსიკას ან მიიღეთ თბილი აბაზანა.
+- **საძინებელი კომფორტული გახადეთ,** არც ძალიან ცხელიც და არც ძალიან ცივიც.
+- **შეზღუდეთ კოფეინი დღის მეორე ნახევარში.** ყავამ, ჩაიმ, გაზიანმა სასმელებმა და შოკოლადმა შეიძლება დაგძინება გაგირთულოთ.
+- **მოერიდეთ ალკოჰოლს,** მცირე რაოდენობითაც კი, — გვირჩევს NIA.
+- **მოერიდეთ დიდ სადილს ძილის წინ ორი-სამი საათის განმავლობაში** და დიდი რაოდენობით სითხეს დღის ბოლოს.
+- **რეგულარულად ივარჯიშეთ, მაგრამ არა ძილამდე 3 საათით ადრე.** იხილეთ ჩვენი [ვარჯიშის სახელმძღვანელო](/brain-health/exercise/).
+- **საძინებელში ეკრანები არ შეიტანოთ.** NIA გვირჩევს, იქ ტელევიზორს არ უყუროთ და კომპიუტერს, ტელეფონს ან ტაბლეტს არ გამოიყენოთ.
+- **მოერიდეთ გვიან შუადღის ან საღამოს ძილს,** თუ შეგიძლიათ.
 
-## Sleep problems in dementia
+## ძილის სირთულეები დემენციის დროს
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+ძილის ცვლილებები დემენციის დროს გავრცელებულია. [NIA აღნიშნავს](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease), რომ ადამიანს შეიძლება ძალიან ბევრი ან ძალიან ცოტა სძინავდეს, ღამით ბევრჯერ იღვიძებდეს და დღისით ხშირად იძინებდეს. იგი ასევე აღწერს „მზის ჩასვლის სინდრომს“: მოუსვენრობას, აღგზნებას ან დაბნეულობას, რომელიც დღის სინათლის დაკლებისას იწყება ან უარესდება.
 
-Caregiver tips from the NIA include:
+NIA-ის რჩევები მათთვის, ვინც ზრუნავს დემენციით მცხოვრებ ადამიანზე:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **მიიღეთ დღის სინათლე და იმოძრავეთ დილით.** დღისით გარეთ გახვიდით ან ფანჯარასთან დაჯექით და დაეხმარეთ ადამიანს ყოველდღიურ აქტივობაში. ნათელმა სინათლემ შესაძლოა სხეულის შინაგანი საათის მოწესრიგებას შეუწყოს ხელი.
+2. **დაგეგმეთ აქტიური საქმიანობა დილისთვის.** ეცადეთ, დაბანა დილით მოაწყოთ ან დღის ყველაზე მკვრივი საკვები შუადღისას მიირთვათ.
+3. **დღისით ძილი ხანმოკლე და ადრეული იყოს.** შეზღუდეთ დღის მეორე ნახევარში ჩაძინება.
+4. **საღამო მშვიდი გახადეთ.** ჩააქრეთ ნათურები, შეამცირეთ ხმაური და ჩართეთ მშვიდი მუსიკა, თუ ადამიანს ეს სიამოვნებს. ჩვენი სახელმძღვანელო [გვიან დღეს წარმოქმნილი მოუსვენრობის](/caregiving/late-day-restlessness/) შესახებ მეტ იდეას გთავაზობთ.
+5. **შეინარჩუნეთ დასაძინებელი დროის სტაბილური რუტინა.** NIA-ის ერთ-ერთი მაგალითია ყოველ ღამე ერთსა და იმავე დროს ხმამაღლა კითხვა. [სტაბილური ყოველდღიური რუტინაც](/activities/daily-routine/) ეხმარება.
+6. **შეზღუდეთ კოფეინი და ალკოჰოლი.**
+7. **გამოიყენეთ ღამის ნათურები** საძინებელში, დერეფანში და აბაზანაში.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+ღამით გაღვიძების დროს, NIA-ის [სახლის უსაფრთხოების რჩევები](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) მოიცავს ღამის ნათურებს ან ავტომატურ სინათლის სენსორებს, აბაზანაში დასაჭერ სახელურებს, კიბის საფეხურების კიდეებზე ნათელ ფერად ლენტს და წამლების ჩაკეტილ ადგილას შენახვას.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+მოკლე, მშვიდი საქმიანობა საღამოს შეიძლება თქვენ ორივეს დამშვიდებაში დაეხმაროს. სცადეთ ნელი [მშვიდი სუნთქვის](/games/calm-breathing/) შეჩერება ან რამდენიმე მშვიდი [სასაუბრო ბარათი](/games/conversation-cards/). ძილის წინ მოერიდეთ მასტიმულირებელ ყველაფერს და შეწყვიტეთ, როცა ადამიანი საკმარისს იგრძნობს.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+გაწყვეტილი ძილი მათაც აძნელებს მდგომარეობას, ვინც ზრუნავს დემენციით მცხოვრებ ადამიანზე. ჩვენი [მზრუნველისთვის თავის მოვლის სახელმძღვანელო](/caregiving/caregiver-self-care/) დასვენებისა და დახმარების მიღების გზებს განიხილავს.
 
-## What about sleep apnea?
+## რა უნდა ვიცოდეთ ძილის აპნოეს შესახებ?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+ძილის აპნოე იწვევს სუნთქვის ხანმოკლე გაჩერებებს ძილის დროს, ხშირად ღამეში ბევრჯერ. NIA აღნიშნავს, რომ თუ იგი არ მკურნალდება, შეიძლება ისეთი პრობლემები გამოიწვიოს, როგორიცაა მაღალი არტერიული წნევა, ინსულტი ან მეხსიერების გაუარესება. ნიშნებს შორისაა ხმამაღალი ხვრინვა და დღისით ძილიანობა, და ბევრმა ადამიანმა არ იცის, რომ ეს აქვს. Lancet-ის კომისია აღწერს 11 კვლევის მიმოხილვას, რომელშიც ძილის აპნოეს მქონე ადამიანებს დემენციის განვითარების დაახლოებით 43%-ით უფრო მაღალი რისკი ჰქონდათ. თუმცა ამ კვლევებიდან ცოტამ გაითვალისწინა სხეულის წონა, ამიტომ კავშირი დაუდგენელია.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+ძილის აპნოეს დიაგნოსტიკა და მკურნალობა შესაძლებელია. NIA აღნიშნავს, რომ CPAP აპარატი თითქმის ყოველთვის ეხმარება. თუ თქვენ ან ადამიანს, ვისზეც ზრუნავთ, ხმამაღლა ახვრინავთ, ძილის დროს სუნთქვა გიჭერდებათ ან დღისით ძალიან გეძინებათ, აცნობეთ ექიმს.
 
-## A note about sleep medicines
+## შენიშვნა ძილის წამლების შესახებ
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+ჩვენ არ ვაძლევთ რჩევებს ძილის წამლების ან საკვები დანამატების შესახებ. NIA აღნიშნავს, რომ ძილის წამლები შეიძლება მოკლე დროით დაეხმაროს, მაგრამ ინსომნიას არ კურნავს. იგი ასევე აღნიშნავს, რომ ზოგიერთ წამალს, რომელსაც ალცჰაიმერის დაავადებით მცხოვრებ ადამიანებს ძილის დასახმარებლად აძლევენ, შეიძლება გაზარდოს თავბრუსხვევის, დაცემისა და დაბნეულობის რისკი. არ დაიწყოთ, არ შეწყვიტოთ და არ შეცვალოთ რომელიმე ძილის წამალი, მათ შორის ურეცეპტო საშუალებები, ექიმთან ან ფარმაცევტთან საუბრის გარეშე.
 
-## Talk with a doctor
+## გაესაუბრეთ ექიმს
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+მიმართეთ ექიმს, თუ თქვენ ან ადამიანს, ვისზეც ზრუნავთ, მუდმივად დაღლილობის შეგრძნება აქვს, ღამეების უმეტესობას ძილის პრობლემა აწუხებს, ხმამაღლა ახვრინავთ ან ღამით სუნთქვა გიჭერდებათ. თუ დემენციის დროს ძილის პრობლემები გრძელდება, [NIA ექიმთან კონსულტაციას გვირჩევს](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning). შემოწმებამ შეიძლება გამოავლინოს ისეთი მიზეზები, როგორიცაა ტკივილი, ძილის სხვა Ashლილობა, ავადმყოფობა ან წამლის გვერდითი მოვლენა. მოულოდნელი დაბნეულობა ან ძილში უეცარი ცვლილება დაბნეულობასთან ერთად სასწრაფო დახმარებას საჭიროებს. წაიკითხეთ, [როდის უნდა მიმართოთ ექიმს](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ეს გვერდი ზოგადი ინფორმაციაა და არა სამედიცინო რჩევა. იხილეთ ჩვენი [სამედიცინო პასუხისმგებლობის უარყოფა](/medical-disclaimer/).

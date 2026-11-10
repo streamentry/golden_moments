@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "როგორ ესაუბროთ დემენციით მცხოვრებ ადამიანს"
+seoTitle: "დემენციისას საუბრის რჩევები: რა ვთქვათ"
+description: "პრაქტიკული რჩევები დემენციით მცხოვრებ ადამიანთან სასაუბროდ: როგორ მოემზადოთ, რა ვთქვათ დაკითხვებისა და შესწორებების ნაცვლად და როგორ მოვუსმინოთ."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  ისაუბრეთ მშვიდ ადგილას, პირისპირ დაუდექით ადამიანს, მიმართეთ სახელით და
+  ილაპარაკეთ ნელა, მოკლე და მარტივი წინადადებებით. დასვით ერთი კითხვა ერთხელ,
+  ღია კითხვების ნაცვლად შესთავაზეთ ორი არჩევანი და დაელოდეთ პასუხს ჩვეულებრივზე
+  უფრო დიდხანს. არ დაეკამათოთ, არ შეასწოროთ და არ გამოსცადოთ. უპასუხეთ სიტყვების
+  მიღმა მდგომ განცდას და, როცა მეტყველება უძნელდება, გამოიყენეთ შეხება, სურათები
+  და ჟესტები.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "საუბრის დაწყებამდე შეამცირეთ ფონური ხმაური და თვალებით დაუკავშირდით ადამიანს."
+  - "გამოიყენეთ მოკლე წინადადებები, ერთჯერადად ერთი აზრი და სახელები ნაცვალსახელების ნაცვლად."
+  - "ღია კითხვების ნაცვლად შესთავაზეთ ორი არჩევანი ან კითხვა, რომელსაც კი/არა პასუხი სჭირდება."
+  - "დაელოდეთ პასუხს. თუ ვერ გაგიგეს, გაიმეორეთ იგივე სიტყვები, შემდეგ სცადეთ სხვა სიტყვებით."
+  - "არ დაეკამათოთ და არ შეასწოროთ. უპასუხეთ იმას, თუ რას გრძნობს ადამიანი."
+  - "როცა სიტყვები ნაკლდება, დაუკავშირდით შეხებით, ხმის ტონით, სახის გამომეტყველებით და საერთო სურათებით."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "რა არ უნდა ვუთხრათ დემენციით მცხოვრებ ადამიანს?"
+    a: "მოერიდეთ გამოძახილს („გახსოვთ...?“), შესწორებას („ეს არასწორია“), დანაკარგების შეხსენებას („უკვე გითხარით“) და იმის შესახებ ლაპარაკს, თითქოს ადამიანი იქ არ არის. მოერიდეთ ბავშვურად ლაპარაკს. ეს ხშირად იწვევს უხერხულობას ან დისტრესს და არ ეხმარება."
+  - q: "უნდა შევასწორო, თუ ფაქტებში ცდება?"
+    a: "ჩვეულებრივ, არა. თუ შეცდომითი ფაქტი უვნებელია, უკეთესია გამოტოვოთ. კამათი იშვიათად ცვლის ადამიანის აზრს და ხშირად აღიზიანებს. ყურადღება მიაქციეთ იმას, თუ როგორ გრძნობს თავს და რა სჭირდება ახლა."
+  - q: "რა გავაკეთო, თუ სიტყვას ვერ პოულობს?"
+    a: "ჯერ დრო მისცეთ. თუ აშკარად უჭირს, შეგიძლიათ ნაზად შესთავაზოთ სიტყვა ან გამოიცნოთ, რის თქმას ცდილობს, და გადაამოწმოთ. მითითებამ, ჟესტებმა და სურათებმა ასევე შეიძლება დაეხმაროს."
+  - q: "როგორ ვისაუბრო გვიანი სტადიის დემენციით მცხოვრებ ადამიანთან, რომელიც იშვიათად ლაპარაკობს?"
+    a: "მიუახლოვდით წინიდან, უთხარით, ვინ ხართ, და გამოიყენეთ მშვიდი ხმა და ნაზი შეხება. დააკვირდით სახესა და სხეულის ენას, რომ გაიგოთ მისი განცდები. თქვენი თან ყოფნა, ნაცნობი სიმღერა ან ხელის ჩამორთმევა სიტყვების გარეშეც ბევრს ამბობს."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+დემენციამ შეიძლება გაართულოს სიტყვების პოვნა, გრძელი წინადადების გაგება ან ფონური ხმაურის მიღმა მოსმენა. ეს არ ნიშნავს, რომ ადამიანს აღარ სურს ურთიერთობა. მცირე ცვლილებებმა იმაში, თუ როგორ ამზადებთ საუბარს, როგორ ლაპარაკობთ და როგორ უსმენთ, შეიძლება საუბარი თქვენ ორივესთვის უფრო მარტივი და მშვიდი გახადოს.
 
-## What are the most important tips for talking with someone who has dementia?
+## რა არის ყველაზე მნიშვნელოვანი რჩევები დემენციით მცხოვრებ ადამიანთან სასაუბროდ?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+მიიქციეთ მისი ყურადღება, Einfachეთ მარტივად და გამოიჩინეთ მოთმინება. თუ მხოლოდ ხუთ რამეს დაიმახსოვრებთ:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **დაამშვიდეთ გარემო და დაუდექით პირისპირ.** გამორთეთ ტელევიზორი, დაჯექით თვალების დონეზე და მიმართეთ სახელით.
+2. **ერთჯერადად ერთი რამ თქვით.** მოკლე წინადადებები, ერთი აზრი, ერთი კითხვა.
+3. **შესთავაზეთ ორი არჩევანი.** „ჩაი თუ ყავა?“ უფრო მარტივია, ვიდრე „რისი დალევა გინდათ?“
+4. **დაელოდეთ.** პასუხისთვის ჩვეულებრივზე მეტი დრო დაუთმეთ და ეცადეთ, არ შეაწყვეტინოთ.
+5. **არასდროს დაეკამათოთ და არ გამოსცადოთ.** უპასუხეთ მის განცდას, და არა იმას, სწორია თუ არა ფაქტები.
 
-## How should I start a conversation?
+## როგორ დავიწყო საუბარი?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+მოამზადეთ ყველაფერი ისე, რომ ადამიანმა თქვენზე კონცენტრირება შეძლოს. [Family Caregiver Alliance-ის სახელმძღვანელო](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) პირველ რიგში ხმაურის შემცირებას გვირჩევს: გამორთეთ რადიო ან ტელევიზორი, დახურეთ ფარდები ან კარი, ან გადადით უფრო მშვიდ ადგილას.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **მიუახლოვდით წინიდან.** ზურგიდან ან გვერდიდან მიახლოებამ შეიძლება დააფრთხოს.
+- **უთხარით, ვინ ხართ.** „გამარჯობა, მამა, მე ვარ სარა, შენი ქალიშვილი.“ ეს ადამიანს თქვენი სახელის ძიებისგან იხსნის.
+- **დაეშვით მის დონეზე.** თუ ის ზის, დაჯექით ან დაიჩოქეთ ისე, რომ თვალები ერთ დონეზე იყოს.
+- **გაითვალისწინეთ თქვენი სახე და ტონი.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) გვირჩევს, ყურადღება მივაქციოთ ხმის ტონს, სიმაღლეს, სახის გამომეტყველებასა და სხეულის ენას და შევეცადოთ, ვიყოთ თბილი და ბუნებრივი.
+- **დარწმუნდით, რომ სათვალე და სმენის აპარატი ადგილზეა.** ძნელია საუბრის გაყოლა, თუ სრულად ვერ ხედავთ ან ვერ ისმენთ.
 
-## How should I phrase what I say?
+## როგორ უნდა ავაგო ნათქვამი?
 
-Use simple words, short sentences and a calm, low voice.
+გამოიყენეთ მარტივი სიტყვები, მოკლე წინადადებები და მშვიდი, დაბალი ხმა.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **ერთი აზრი ერთ წინადადებაში.** „მოდი, ქურთუკი ჩავიცვათ. შემდეგ გარეთ გავალთ.“ და არა ორივე ერთ ამოსუნთქვაზე.
+- **გამოიყენეთ სახელები ნაცვალსახელების ნაცვლად.** „დეიდა ნინომ დარეკა“ უფრო გასაგებია, ვიდრე „მან დარეკა“.
+- **ხმა დაუწიეთ, არ აუწიოთ.** Family Caregiver Alliance გირჩევთ, ხმა უფრო დაბალი იყოს, ვიდრე მაღალი.
+- **გაიმეორეთ, შემდეგ გადააფორმეთ.** თუ ვერ გაგიგეს, იგივე სიტყვები ერთხელ გაიმეორეთ. თუ არ იმუშავა, ცოტა დაელოდეთ და სხვა სიტყვებით სცადეთ.
+- **აჩვენეთ და თქვით.** მიუთითეთ ჭიქაზე, აჩვენეთ ორი სვიტრი ან გააკეთეთ პირველი ნაბიჯი.
+- **ესაუბრეთ მას და არა მასზე.** NIA გვაფრთხილებს, არ ვილაპარაკოთ ადამიანზე ისე, თითქოს იქ არ იყოს, და ავირიდოთ ბავშვურად ლაპარაკი.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA გვთავაზობს გავრცელებული კითხვების უფრო მარტივ ვარიანტებს. აი, მაგალითები იმავე სულისკვეთებით:
 
-| Instead of | Try |
+| ნაცვლად ამისა | სცადეთ ეს |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| „რისი ჭამა გინდა სადილად?“ | „თევზი გინდა თუ ქათამი?“ |
+| „როგორ გრძნობ თავს?“ | „დაღლილი ხარ?“ |
+| „მშია?“ | „სადილი ხუთ წუთში მზად იქნება.“ |
+| „ასე არ კეთდება.“ | „მოდი, ასე ვცადოთ.“ |
+| „გახსოვს, ტბაზე როგორ წავედით?“ | „ტბაზე нашем მოგზაურობაზე ვფიქრობდი. მიყვები, რა მოგეწონა?“ |
+| „უკვე გითხარი.“ | ისევ უპასუხეთ, თბილად, თითქოს პირველად. |
 
-## How do I listen well?
+## როგორ მოვუსმინო ყურადღებით?
 
-Listen for the meaning and the feeling, not just the words.
+მოუსმინეთ აზრსა და განცდას და არა მხოლოდ სიტყვებს.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **დაელოდეთ.** სიჩუმე ხშირად ფიქრის დროა. ჩარევამდე ნელა ათამდე დაითვალეთ.
+- **სიტყვა მხოლოდ მაშინ შესთავაზეთ, თუ გაჭირვებაშია.** Family Caregiver Alliance ამბობს, რომ ადამიანისთვის სიტყვების შეთავაზება მისაღებია, როცა უჭირს.
+- **გადაამოწმეთ, რა გაიგეთ.** [Alzheimer's Association-ის კომუნიკაციის სახელმძღვანელო](https://www.alz.org/help-support/caregiving/daily-care/communications) გვირჩევს, ვეძებოთ სიტყვების მიღმა არსებულ აზრს და საკუთარი სიტყვებით გადავამოწმოთ, სწორად გავიგეთ თუ არა. „მანქანაზე ნერვიულობ?“
+- **დააკვირდით სახესა და სხეულს.** როცა მეტყველება უძნელდება, NIA აღნიშნავს, რომ სახის გამომეტყველებამ შეიძლება უფრო ნათლად აჩვენოს სევდა, ბრაზი ან იმედგაცრუება, ვიდრე სიტყვებმა.
+- **სერიოზულად მიიღეთ მისი შეშფოთება.** მაშინაც კი, თუ შეშფოთება შეცდომით ფაქტს ეფუძნება, განცდა ნამდვილია.
 
-## What if they say something that is not true?
+## რა ვქნა, თუ რამეს ამბობს, რაც სიმართლეს არ შეესაბამება?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+არ დაეკამათოთ. ნაკლებად სავარაუდოა, რომ კამათში გაიმარჯვებთ, ხოლო ადამიანმა შეიძლება თავს უხერხულად ან შეშინებულად იგრძნოს. ამის ნაცვლად, დაუკავშირდით მის განცდას და შემდეგ ნაზად შეცვალეთ თემა.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance გვირჩევს, ჯერ მივიღოთ ემოცია და მხოლოდ შემდეგ შევეცადოთ მიმართულების შეცვლას. მაგალითად, თუ დედა ამტკიცებს, რომ სკოლიდან ბავშვების წაყვანა უნდა:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- ნაცვლად იმისა, რომ თქვათ: „დედა, შენი შვილები უკვე დიდები არიან. ამას ორმოცი წელი გასულია.“
+- სცადეთ: „შენ ყოველთვის ისეთი მზრუნველი დედა იყავი. მიყვები, როგორ მიჰყავდი ისინი. შეიძლება, ჯერ რამე ვჭამოთ?“
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association ასევე გვირჩევს, არ დავეკამათოთ იმ განცხადებებს, რომლებსაც არ ვეთანხმებით. აირჩიეთ მომენტი: თუ შეცდომითი რწმენა უვნებელია, უბრალოდ მიატოვეთ.
 
-## How does communication change as dementia progresses?
+## როგორ იცვლება კომუნიკაცია დემენციის პროგრესირებასთან ერთად?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+საჭიროებები დროთა განმავლობაში იცვლება, ამიტომ შეცვალეთ თქვენი მიდგომაც. Alzheimer’s Association აღწერს სამ ფართო ეტაპს:
 
-| Stage | What helps |
+| ეტაპი | რა ეხმარება |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| ადრეული | არ ჩათვალოთ, რომ მას არ შეუძლია კომუნიკაცია. ჩართეთ საუბარში, პირდაპირ მიმართეთ, ჰკითხეთ, რა სახის მხარდაჭერა სურს, და გამოიყენეთ იუმორი, თუ ეხმარება. |
+| შუა | ერთმანეთს შორის საუბრები მშვიდ ადგილას. ილაპარაკეთ ნელა, შეინარჩუნეთ თვალებით კონტაქტი, დასვით კი/არა კითხვები, მიეცით ნაბიჯ-ნაბიჯ მითითებები და არ გააკრიტიკოთ ან არ შეასწოროთ. |
+| გვიანი | მიუახლოვდით წინიდან და უთხარით, ვინ ხართ. წაახალისეთ მითითება და ჟესტები. გამოიყენეთ შეხება, ხმები, სანახავი და სუნი. არასდროს ილაპარაკოთ ისე, თითქოს იქ არ იყოს. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+ყველა ადამიანი განსხვავებულია და ერთი და იგივე ადამიანს შეიძლება კარგი და რთული დღეები ჰქონდეს. უპასუხეთ იმას, როგორ არის ის ამ მომენტში, და არა ეტიკეტს.
 
-## Can pictures and activities make conversation easier?
+## შეიძლება თუ არა, სურათებმა და აქტივობებმა საუბარი გაამარტივოს?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+დიახ. საერთო სურათი ზეწოლას ამცირებს და ორივეს აძლევს რაღაცას, რასაც შეუძლია შეხედოს და მიუთითოს.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **სურათებით მინიშნებები.** [Conversation Cards](/games/conversation-cards/) გთავაზობთ სურათებს ღია კითხვებით, რომლებიც არასდროს გამოსცდის.
+- **ოჯახური ფოტოსურათები.** [Photo Pairs](/games/photo-pairs/) თქვენს მიერ შერჩეულ ფოტოებს ნაზ შესატყვისებელ თამაშად აქცევს, რაც ხშირად მოგონებებს აღვიძებს.
+- **ნაცნობი გამოთქმები.** [Finish the Saying](/games/finish-the-saying/) იყენებს კარგად ცნობილ ამერიკულ გამოთქმებს, რასაც მოსაყოლი კითხვაც მოჰყვება.
+- **შესატყვისებელი თამაშები ფონად.** [Picture Pairs](/games/picture-pairs/) ხელებს საქმეს აძლევს, სანამ საუბრობთ.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+მეტი იხილეთ: [როგორ ვითამაშოთ ერთად](/caregiving/how-to-play-together/) და [მოგონებებზე დაფუძნებული აქტივობები](/activities/reminiscence/). ვიზიტებისა და ზარებისთვის წაიკითხეთ ჩვენი სახელმძღვანელოები: [ვიზიტები](/activities/visiting/) და [სატელეფონო და ვიდეოზარები](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## რა ვქნა, თუ მოთმინება დამეკარგა?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+ეს ყველას ემართება. NIA გვირჩევს, თუ იმედგაცრუებას იგრძნობთ, ცოტა დრო დაუთმოთ დამშვიდებას. გადადით სხვა ოთახში, 몇-ჯერ ნელა ისუნთქეთ და დაბრუნდით, როცა შეძლებთ. საუბრის თავიდან დაწყება ყოველთვის შეგიძლიათ და ადამიანს, შესაძლოა, თქვენი უფრო მშვიდი განწყობა კარგად შეხვდეს. თუ იმედგაცრუება მუდმივი ხდება, ეს იმის ნიშანია, რომ მეტი მხარდაჭერა გჭირდებათ და არა იმისა, რომ ვერ ახერხებთ. ჩვენი სახელმძღვანელო [მზრუნველის თავის მოვლა](/caregiving/caregiver-self-care/) გთავაზობთ ადგილებს, სადაც დახმარებას იპოვით.

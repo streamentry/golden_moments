@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "როცა დემენციით მცხოვრები სახლში წასვლას ითხოვს"
+seoTitle: "დემენცია და სახლში წასვლის თხოვნა: რა ვუპასუხოთ"
+description: "რატომ ითხოვს დემენციით მცხოვრები ადამიანი სახლში წასვლას მაშინაც კი, როცა სახლშია, რა ვუპასუხოთ, რა დამამშვიდებელი занятებები ვცადოთ და როგორ ვიზრუნოთ უსაფრთხოებაზე."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  როცა დემენციით მცხოვრები ადამიანი კვლავ და კვლავ ითხოვს სახლში წასვლას, „სახლი“
+  ხშირად უსაფრთხოების შეგრძნებას ან წარსულის ადგილს ნიშნავს და არა შენობას.
+  ნუ ეცდებით დაამტკიცოთ, რომ ის სახლშია. აღიარეთ მისი განცდა, დაამშვიდეთ, რომ
+  უსაფრთხოდ არის, ჰკითხეთ სახლის შესახებ, შემდეგ კი ნაზად შესთავაზეთ ფოტოები,
+  მუსიკა, něco საჭმელი, გასეირნება ან მარტივი საქმე. შეამოწმეთ, არ შია, არ სწყურია,
+  არ სჭირდება ტუალეტი ან არ აქვს ტკივილი. თუ ეს მდგომარეობა უეცრად დაიწყო,
+  დაურეკეთ მის ექიმს.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "„მინდა სახლში წავიდე“ ხშირად ნიშნავს „არ ვგრძნობ თავს უსაფრთხოდ ან მშვიდად“ და არა კონკრეტულ მისამართზე წასვლის თხოვნას."
+  - "დავობა ან იმის დამტკიცება, რომ ის სახლშია, როგორც წესი, Ainda უფრო აუარესებს შეწუხებას. უპასუხეთ მის განცდას."
+  - "სთხოვეთ, მოგიყევოს სახლის შესახებ, შემდეგ შესთავაზეთ ფოტოები, მუსიკა, რაღაც საჭმელი, გასეირნება ან მარტივი საქმე."
+  - "შეამოწმეთ, არის თუ არა რაღაც გამოსასწორებელი: შიმშილი, წყურვილი, ტუალეტის საჭიროება, ტკივილი, სიცხე ან სიცივე, ხმაური, დაღლილობა."
+  - "თუ ეს ყოველგვარად გვიან შუადღეს ხდება, შესაძლოა ეს იყოს „სანდაუნინგი“; სტაბილური რუტინა და კარგი განათება შეიძლება დაეხმაროს."
+  - "დაგეგმეთ უსაფრთხოება იმ შემთხვევისთვის, თუ სახლიდან გასვლას შეეცდება, და დაურეკეთ მის ექიმს ნებისმიერი უეცარი ცვლილებისას."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "რატომ ითხოვს ჩემი დედა, რომელიც დემენციით ცხოვრობს, სახლში წასვლას, მაშინ როცა სახლშია?"
+    a: "დემენციამ შეიძლება ნაცნობი ოთახებიც უცნურად აღიქმებოდეს, და ზოგჯერ ადამიანს ჰგონია, რომ ცხოვრების უფრო ადრეულ პერიოდში იმყოფება. „სახლი“ შეიძლება ნიშნავდეს ბავშვობის სახლს ან უბრალოდ უსაფრთხოდ და მშვიდად ყოფნის განცდას. ამ განცდაზე პასუხი, როგორც წესი, უკეთ მუშაობს, ვიდრე იმის მითითება, თუ სად არის ის ახლა."
+  - q: "რა ვუთხრა, როცა სახლში წასვლას ითხოვს?"
+    a: "შეგიძლიათ სცადოთ: „აქ უსაფრთხოდ ხართ და მე თქვენთან ვარ“, შემდეგ კი — „მომიყევით თქვენი სახლის შესახებ“. მოუსმინეთ, გაუზიარეთ ფოტო ან სიმღერა და შესთავაზეთ სასმელი ან მოკლე გასეირნება. მოერიდეთ ფრაზას „თქვენ სახლში ხართ“, თუ მას შესწორების სახით ამბობს, რადგან ამას შეიძლება ისე აღიქვამდეს, თითქოს ამბობთ, რომ ცდება."
+  - q: "მისაღებია თუ არა იმის თქმა, რომ მოგვიანებით წავიდეთ სახლში?"
+    a: "ოჯახებსა და დემენციასთან დაკავშირებულ ორგანიზაციებს ამ საკითხზე განსხვავებული მოსაზრებები აქვთ. ბევრი იწყებს გულწრფელი მხარდაჭერითა და ყურადღების ნაზად გადატანით, ხოლო ნაზ სიცრუეს მხოლოდ იმ შემთხვევებისთვის იტოვებს, როცა სიმართლე მხოლოდ იმგვარ შეწუხებას გამოიწვევდა, რომელსაც ადამიანი ვერ გაუმკლავდება. რასაც არ უნდა აირჩიოთ, იყავით კეთილი და თანმიმდევრული და არასდროს გაიკეთოთ დამცინავი ხასიათის შენიშვნა მის რეალობის აღქმაზე."
+  - q: "რა ვქნა, თუ სახლიდან გასვლას შეეცდება?"
+    a: "შეინარჩუნეთ სიმშვიდე და გაჰყევით მას, ნაცვლად იმისა, რომ გზა გადაუკეტოთ; ხშირად მოკლე გასეირნება ამ სურვილს ამცირებს. წინასწარ გაითვალისწინეთ უსაფრთხოების ნაბიჯები, მაგალითად, საიდენტიფიკაციო სამაჯური, კარის ზარები და ახლანდელი ფოტო. თუ დაიკარგა, დაუყოვნებლივ დაიწყეთ ძებნა და თუ 15 წუთში ვერ იპოვეთ, დარეკეთ 112-ზე და უთხარით, რომ ადამიანს დემენცია აქვს."
+  - q: "როდის უნდა დავურეკო ექიმს?"
+    a: "დაუყოვნებლივ დაურეკეთ მის ექიმს, თუ ასეთი თხოვნები ან დაბნეულობა უეცრად დაიწყო ან რამდენიმე საათსა თუ დღეში მნიშვნელოვნად გაუარესდა, განსაკუთრებით თუ თან ახლავს ცხელება, ახალი წამალი ან შარდის გზების ინფექციის ნიშნები. უეცარი დაბნეულობა შეიძლება იყოს დელირიუმი, რომელიც სასწრაფო დახმარებას საჭიროებს. თუ ვინმე საფრთხეშია, დარეკეთ 112-ზე."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+„მინდა სახლში წავიდე.“ ბევრი ოჯახისათვის ეს ერთ-ერთი ყველაზე რთულად მოსასმენი ფრაზაა, განსაკუთრებით მაშინ, როცა ადამიანი, რომელზეც ზრუნავთ, საკუთარ მისაღებ ოთახში ზის. ეს ხშირია, შეიძლება დემენციის ნებისმიერ ეტაპზე მოხდეს და არსებობს მშვიდი, პრაქტიკული გზები, რომლითაც შეგიძლიათ უპასუხოთ. ეს გვერდი განიხილავს, რას შეიძლება ნიშნავდეს ეს სიტყვები, რა თქვა, რა занятებები შეიძლება დაეხმაროს იმ მომენტში და როგორ შეინარჩუნოთ უსაფრთხოება.
 
-## Why does someone with dementia keep asking to go home?
+## რატომ ითხოვს დემენციით მცხოვრები ადამიანი კვლავ და კვლავ სახლში წასვლას?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+როგორც წესი, „სახლი“ უფრო განცდას ნიშნავს, ვიდრე ადგილს. Alzheimer's Society აღწერს მას, როგორც კომფორტისა და უსაფრთხოების შეგრძნებას ან წარსულის სახლს და არა კონკრეტულ შენობას. დემენციამ შეიძლება ნაცნობი ოთახებიც უცნურად აღიქმებოდეს და ადამიანს შეიძლება ეგონოს, რომ ცხოვრების უფრო ადრეულ პერიოდშია — იმ დროს, როცა სახლი ბავშვობის სახლი იყო ან ადგილი, სადაც საკუთარ შვილებს ზრდიდა.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+ეს სიტყვები ასევე შეიძლება იმაზე მიანიშნებდეს, რომ ამ მომენტში რაღაც სხვა აწუხებს: Talvez შია, სწყურია, ტუალეტში სჭირდება წასვლა, ტკივილი აქვს, ძალიან ცხელა ან ცივა, დაღლილია, მარტოსულია, შეშინებულია ან ხმაურისგან გადატვირთულია. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) აგზნების შესაძლო მიზეზებს შორის ასახელებს ტკივილს, ხმაურს, მარტოობას, რუტინის ცვლილებებსა და წამლებს.
 
-## What should I say when they ask to go home?
+## რა ვუთხრა, როცა სახლში წასვლას ითხოვს?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+უპასუხეთ განცდას და არა სიტყვებს. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) გვირჩევს, არ ვეცადოთ ადამიანის დარწმუნება, რომ ის ცდება: მისი განცდები რეალურია, ამიტომ უპასუხეთ ჯერ სიმშვიდითა და მხარდაჭერით, შემდეგ კი ნაზად გადაიტანეთ ყურადღება.
 
-Phrases that often help:
+ფრაზები, რომლებიც ხშირად ეხმარება:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **დაასახელეთ განცდა.** „როგორც ჩანს, სახლს ენატრებით.“
+- **დაამშვიდეთ.** „აქ უსაფრთხოდ ხართ და მე თქვენთან ვარ.“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) გვთავაზობს მარტივ სიტყვებს: „აქ უსაფრთხოდ ხართ.“
+- **მოიწვიეთ მოგონებები.** „მომიყევით თქვენი სახლის შესახებ. როგორი იყო თქვენი სამზარეულო?“ შორეულ წარსულზე საუბარი, როგორც წესი, უფრო მშვიდია, ვიდრე დღევანდელ დღეზე კითხვები.
+- **შესთავაზეთ რაიმე ერთად გასაკეთებელი.** „ჯერ მოდით, ჩაის დავლიოთ“ ან „დამეხმარებით ამ პირსახოცების დაკეცვაში?“
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+თბილი ტონი და ხელზე მსუბუქად შეხება, თუ ამას მიესალმება, ხშირად სიტყვებზე მეტს ამბობს.
 
-## What should I avoid?
+## რისგან بهتر არის თავი შევიკავოთ?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **დავასა და ახსნა-განმარტებისგან.** „ახლა აქ ცხოვრობთ“ ან „ეს 40 წელია თქვენი სახლია“ — ასეთი ფრაზები მოითხოვს, რომ ადამიანმა მიიღო ის, რისი მიღებაც დემენციის დროს ძნელია, და მას შეიძლება ეგრძნობოდეს, თითქოს ეუბნებით, რომ ცდება.
+- **გამოკითხვისგან.** „როგორ არ გიხსოვთ?“ ან „რა მისამართია?“ დამატებით წნეხს ქმნის.
+- **კარის გაბრაზებით გადაკეტვისგან.** თუ გარეთ გასვლას ცდილობს, შეინარჩუნეთ სიმშვიდე და გაჰყევით. ხშირად მოკლე გასეირნება ამ სურვილს ამცირებს.
+- **აჩქარებისგან.** მიეცით დრო, ისაუბროს სახლზე, სანამ თემას შეცვლიდეთ.
 
-## Activities that can help in the moment
+## занятებები, რომლებიც შეიძლება იმ მომენტში დაეხმაროს
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+მას შემდეგ, რაც მის განცდას აღიარებთ, მშვიდმა და ნაცნობმა занятებამ შეიძლება ყურადღება ნაზად გადაიტანოს ისე, რომ ის არ იგრძნობდეს უგულებელყოფას.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **უყურეთ სახლისა და ოჯახის ფოტოებს.** გადაშალეთ გვერდები და აკეთეთ შენიშვნები („ნახეთ ეს ბაღი“), კითხვების დასმის ნაცვლად. ტელეფონზე ან ტაბლეტზე [Photo pairs](/games/photo-pairs/) თქვენს საოჯახო ფოტოებს მშვიდ შესატყვისებელ თამაშად გადააქცევს, ხოლო ფოტოები თქვენს მოწყობილობაზე რჩება.
+2. **ისაუბრეთ სახლზე.** [Conversation cards](/games/conversation-cards/) გთავაზობთ ღია კითხვებს სახლების, სამზარეულოების, მეზობლებისა და დღესასწაულების შესახებ, სწორი პასუხების გარეშე.
+3. **ჩართეთ მისთვის საყვარელი მუსიკა.** National Institute on Aging ამშვიდებელ მუსიკას ასახელებს აგზნების შესამსუბუქებელ საშუალებებს შორის. იხილეთ ჩვენი [music activities](/activities/music/).
+4. **შესთავაზეთ რაღაც საჭმელი ან სასმელი.** შიმშილმა და წყურვილმა შეიძლება მოუსვენრობა გამოიწვიოს. ერთი ფინჯანი ჩაი ან საყვარელი საჭმელი ასევე სახლში ყოფნის პატარა რიტუალია.
+5. **გაისეირნეთ ან დაჯექით გარეთ.** მოძრაობა და დღის სინათლე ეხმარება, განსაკუთრებით დღის ადრეულ საათებში.
+6. **მიეცით ნაცნობი საქმე.** სარეცხის დაკეცვა, დანა-ჩანგლის დალაგება ან მცენარეების მორწყვა შეიძლება დაუბრუნოს სახლის მოვლის შეგრძნება.
+7. **შეანელეთ ყველაფერი.** გამორთეთ ტელევიზორი, შეამცირეთ ხმაური და მკვეთრი სინათლე და სცადეთ ერთად [calm breathing](/games/calm-breathing/) — მშვიდი დასვენების მცირე პაუზა.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+თუ ერთმა იდეამ არ იმუშავა, მოგვიანებით სცადეთ სხვა. მშვიდად ერთად ყოფნაც კარგი შედეგია.
 
-## Check for a cause you can fix
+## შეამოწმეთ მიზეზი, რომელიც შეგიძლიათ გამოასწოროთ
 
-| Check | What to try |
+| რა შევამოწმოთ | რა ვცადოთ |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| შია ან სწყურია | შესთავაზეთ სასმელი და მცირე საჭმელი |
+| ტუალეტი სჭირდება | მშვიდად და აუღელვებლად შესთავაზეთ ტუალეტში წასვლა |
+| ტკივილი ან დისკომფორტი | დააკვირდით ნიშნებს, როგორიცაა კრუნჩხვა, სხეულის ნაწილის დაჭერა ან ყაბზობა, და უთხარით მის ექიმს |
+| ძალიან ცხელა ან ცივა | შეუცვალეთ ტანსაცმლის ფენა ან ოთახის ტემპერატურა |
+| ხმაური ან ხალხმრავლობა | გადადით უფრო მშვიდ ოთახში, გამორთეთ ტელევიზორი |
+| დაღლილობა ან გადატვირთვა | მიეცით დასვენების შესაძლებლობა, ჩააბნელეთ ოთახი, ჩართეთ წყნარი მუსიკა |
+| გვიანი შუადღე | იხილეთ ქვემოთ სანდაუნინგის შესახებ განყოფილება |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society გვირჩევს, მოვუწყოთ მოკლე ჩანაწერი, თუ როდის ხდება ეს თხოვნები — მაგალითად, საჭმელამდე, სტუმრების შემდეგ ან შებინდებისას. ასეთი закономерობები წინასწარ დაგეგმვაში გეხმარებათ.
 
-## Is it okay to tell a white lie?
+## მისაღებია თუ არა პატარა სიცრუე?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+ეს რეალური საკითხია და კეთილი ოჯახები განსხვავებულ გადაწყვეტილებებამდე მიდიან. Alzheimer's Society ამბობს, რომ ერთიანი სწორი პასუხი არ არსებობს: ზოგ ადამიანში სიცრუემ შეიძლება ეჭვი უფრო გააძლიეროს, ამიტომ გადაწყვიტეთ, რა არის ადამიანის საუკეთესო ინტერესი და იყავით თანმიმდევრული. Penn Memory Center-ის თანადირექტორის აზრით, სიმართლე უნდა იყოს ნაგულისხმევი არჩევანი, ხოლო ნაზი სიცრუე მისაღებია მხოლოდ მაშინ, როცა ადამიანი კონკრეტულ სიმართლეს ვერ Verarbeitungობს, და არასდროს უნდა გავიკეთოთ დამცინავი ხასიათის შენიშვნა მის რეალობაზე.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+ბევრი მომვლელი აღმოაჩენს, რომ შუა გზა უკეთ მუშაობს: ჯერ გულწრფელი მხარდაჭერა და ყურადღების გადატანა („დღეს აქ დავრჩებით და მე აქვე ვარ თქვენთან“), ისე, რომ დავაზე არ გადავიდეთ იმის შესახებ, სად არის სახლი.
 
-## What if it happens every afternoon or evening?
+## რა ვქნა, თუ ეს ყოველ შუადღეს ან საღამოს ხდება?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+მოუსვენრობა, რომელიც გვიან შუადღეს იწყება ან ძლიერდება, ხშირად სანდაუნინგად იწოდება. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) გვირჩევს სტაბილურ განრიგს, ყოველდღიურ მზის სინათლესა და აქტივობას, დღის მეორე ნახევარში ნაკლებ ძილს და დღის ბოლოს კოფეინისა თუ ალკოჰოლის თავიდან აცილებას. შებინდებამდე სინათლის ანთებაც შეიძლება დაეხმაროს. ჩვენს გზამკვლევში [calm late-afternoon activities](/caregiving/late-day-restlessness/) მეტი ინფორმაციაა.
 
-## Keeping them safe if they try to leave
+## როგორ შევინარჩუნოთ უსაფრთხოება, თუ სახლიდან გასვლას შეეცდება
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+სახლში წასვლის თხოვნამ შეიძლება ხეტიალამდე მიგვიყვანოს. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) აფასებს, რომ დემენციით მცხოვრები ათიდან ექვსი ადამიანი სიცოცხლეში ერთხელ მაინც დაიწყებს ხეტიალს.
 
-**Prepare ahead:**
+**წინასწარ მოემზადეთ:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- საიდენტიფიკაციო ან სამედიცინო სამაჯური მისი სახელითა და თქვენი ტელეფონის ნომრით, ასევე ეტიკეტები მის ტანსაცმელზე. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) აღნიშნავს MedicAlert და Alzheimer's Association Safe and Found პროგრამას, რომელიც შესაძლოა ფასიანი იყოს.
+- კარის ზარი ან სიგნალიზაცია და საკეტები მაღლა ან დაბლა. არასდროს დატოვოთ ადამიანი მარტო ჩაკეტილი მდგომარეობით.
+- ახლანდელი, ახლო რაკურსით გადაღებული ფოტო და იმ ადგილების სია, სადაც შეიძლება წავიდეს, მაგალითად, ყოფილი სახლი ან სამსახური.
+- შეატყობინეთ სანდო მეზობლებს და მიეცით თქვენი ნომერი.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**თუ დაიკარგა:** დაუყოვნებლივ დაიწყეთ ძებნა; Alzheimer's Association აღნიშნავს, რომ ბევრი ადამიანი 1.5 მილის რადიუსში პოვობენ. თუ 15 წუთში ვერ იპოვეთ, დარეკეთ 112-ზე და უთხარით, რომ ადამიანს დემენცია აქვს. თუ ვინმე საფრთხეშია, დაუყოვნებლივ დარეკეთ 112-ზე.
 
-## When should I call a doctor?
+## როდის უნდა დავურეკო ექიმს?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+დაუყოვნებლივ დაურეკეთ მის ექიმს, თუ ასეთი თხოვნები ან დაბნეულობა უეცრად დაიწყო, ან რამდენიმე საათსა თუ დღეში მნიშვნელოვნად გაუარესდა. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ამბობს, რომ უეცარი ან სწრაფად ცვალებადი ქცევა, განსაკუთრებით ინფექციის ან წამლის შეცვლის შემდეგ, დაუყოვნებლივ უნდა შემოწმდეს. უეცარი დაბნეულობა შეიძლება იყოს დელირიუმი, რომელიც, [NHS](https://www.nhs.uk/symptoms/confusion/)-ის მიხედვით, სასწრაფო დახმარებას საჭიროებს; ხანდაზმულ ადამიანებში შარდის გზების ინფექციები ამის ხშირი მიზეზია.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+ასევე სასარგებლოა, შემდეგ ვიზიტზე ექიმს Stable პატერნზეც მოუყვეთ, რადგან ტკივილს, დაბალ განწყობას, ძილის პრობლემებსა და წამლის გვერდით ეფექტებსაც შეიძლება ჰქონდეთ თავისი წვლილი.

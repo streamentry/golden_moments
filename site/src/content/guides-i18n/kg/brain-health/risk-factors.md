@@ -1,33 +1,35 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Mambu ya kigonsa ya dementia: 14 yina kimvuka ya Lancet metanga"
+seoTitle: "Mambu ya kigonsa ya dementia: 14 ya Lancet"
+description: "Mambu 14 ya kigonsa ya dementia yina lenda sobama, yina kimvuka ya Lancet metanga na 2024, na mambu yina bansosa metala mpi yina lenda tubilama na munganga."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Kimvuka ya Lancet ya 2024 metangaka mambu 14 ya kigonsa ya dementia yina
+  lenda sobama: kulonguka fioti, kukonda kuwa mbote, kolesterolo ya LDL ya
+  ngolo, kiyimbila, mpasi na ntu, kukonda kusala ngalasisi, diabete, kunwa
+  makaya, tension ya menga ya ngolo, kilo ya mingi, kunwa malafu mingi,
+  kuzinga nge mosi, mupepe ya mbi mpi kukonda kusansa meso mbote. Bantu yonso
+  ketadilaka, mambu yai kevukana ti kiteso ya 45% ya bantu yina kekwelaka na
+  dementia na ntoto ya mvimba, kansi keti na ndinga ya sikisiki ve sambu na
+  konso muntu.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Mambu 14 yai kekwenda na luzingu ya mvimba: kima mosi na kileke, kumi na kati-kati ya luzingu, mpi tatu na bununu."
+  - "Kukonda kuwa mbote mpi kolesterolo ya LDL ya ngolo na kati-kati ya luzingu, konso mosi, kevukanaka ti kiteso ya 7% ya bantu yina kekwelaka na dementia na ntoto ya mvimba. Yau kele ndambu ya kuluta nene sambu na kima mosi."
+  - "Bantalu yai kele bakiteso sambu na bantu mingi, mpi yawu ketadilaka nde mambu yai lenda vanda kikuma. Bankaka lenda vanda kaka ndambu ya kikuma."
+  - "Bununu mpi mambu ya dikanda yina muntu lenda soba ve kele mpi mambu ya nene ya kigonsa. Kukitula mambu 14 yai fioti kesala ve nde muntu tavanda ve ti dementia."
+  - "Mambu mingi ya kusala, bonso kutala tension ya menga, kuwa, mpi meso, kele mbote sambu na mavimpi ya nkaka mpi mbote na kutubila yau na munganga."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Inki kele mambu 14 ya kigonsa ya dementia yina lenda sobama?"
+    a: "Kimvuka ya Lancet ya 2024 metangaka kulonguka fioti, kukonda kuwa mbote, kolesterolo ya LDL ya ngolo, kiyimbila, mpasi na ntu, kukonda kusala ngalasisi, diabete, kunwa makaya, tension ya menga ya ngolo, kilo ya mingi, kunwa malafu mingi, kuzinga nge mosi, mupepe ya mbi mpi kukonda kusansa meso mbote. Bantu yonso ketadilaka, mambu yai kevukana ti pene-pene ya ndambu ya bantu yina kekwelaka na dementia na ntoto ya mvimba."
+  - q: "Inki kima ya kigonsa ya dementia kele ya mfunu kuluta?"
+    a: "Sambu na bantu mingi na ntoto ya mvimba, Kimvuka ketadilaka nde kukonda kuwa mbote mpi kolesterolo ya LDL ya ngolo na kati-kati ya luzingu, konso mosi, kevukanaka ti kiteso ya 7% ya bantu yina kekwelaka na dementia. Na nima kevandaka kulonguka fioti mpi kuzinga nge mosi, konso mosi ti kiteso ya 5%. Mambu yina kele ya mfunu kuluta sambu na muntu mosi metadilaka mavimpi na yandi, yo yina munganga kele muntu ya mbote ya kupesa lutwadisu."
+  - q: "Keti mambu zole ya mpa meyikaka na 2024?"
+    a: "Ee. Lapolo ya 2024 yikaka kolesterolo ya LDL (ya mbi) ya ngolo na kati-kati ya luzingu mpi kukonda kusansa meso mbote na bununu na mambu 12 yina metangamaka na 2020. Kimvuka mevukisa yau ti kiteso ya 7% mpi 2% ya bantu yina kekwelaka na dementia."
+  - q: "Keti bununu kele kima ya kigonsa yina lenda sobama?"
+    a: "Ve. Bununu kele kima ya kigonsa ya kuluta nene yina mezabanaka sambu na maladi ya Alzheimer, mpi muntu lenda soba yau ve. Mambu ya dikanda kevandaka mpi ti ndambu na yau. Mambu 14 na lutiti yai kele yina bansosa kemonisa nde lenda sobama."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +51,135 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Kima ya kigonsa kele kima yina kevukanaka ti dibaku ya kuluta nene ya kukwela
+na maladi mosi. Yau kele ve kikuma na konso mbala, mpi kuvanda ti kima mosi
+ketendula ve nde nge takwela na dementia. Lutiti yai ketanga mambu 14 ya
+kigonsa ya dementia yina Kimvuka ya Lancet ya 2024 ketuba nde lenda sobama,
+mambu yina bansosa kevukisa yau ti yau, mpi mambu yina nge lenda tubila na
+munganga.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Sambu na kutala mambu yonso, mpi mambu yina bansosa ya nene mezwaka, yantika
+na [Keti dementia lenda buyisama? Mambu yina bansosa ketuba](/brain-health/can-dementia-be-prevented/).
+Yai kele nsangu ya nene, yau kele ve ndongisila ya munganga; tala
+[ndimbola na beto ya mavimpi](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Inki kele mambu 14 ya kigonsa ya dementia?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Kimvuka ya Lancet ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+yina bantu 27 ya bansosa ya dementia mesonika, metadilaka nde mambu 14 ya
+kigonsa yina lenda sobama kevukana ti kiteso ya 45% ya bantu yina kekwelaka
+na dementia na ntoto ya mvimba. Konso kiteso ya kima na nsi kele kiteso ya
+Kimvuka ya ndambu ya bantu na ntoto ya mvimba yina kevukanaka ti yau, na
+bantalu ya mvimba. Bantalu yai kewakana, sambu bantu mingi kevandaka ti
+bigonsa mingi na mbala mosi; yo yina yau kevukana na 45% kansi ve mingi
+kuluta.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Kima ya kigonsa | Ntangu ya luzingu | Ndambu ya bantu | Mambu yina bansosa kevukisa | Mambu yina nge lenda sala |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Kulonguka fioti | Kileke | 5% | Bamvula fioti ya nzo-nkanda kevukanaka ti kigonsa ya kuluta. Kusala mambu yina ketula mabanza na kisalu na kati-kati ya luzingu kemonanaka bonso kima ya kukinga, ata na bantu yina melonguka fioti. | Landila kulonguka mpi kusala mambu yina kesepedisa mabanza na konso bamvula: kutanga, bisalu ya mfunu, bakelasi, bansaka ti bantu ya nkaka. |
+| Kukonda kuwa mbote | Kati-kati ya luzingu | 7% | Kukonda kuwa mbote yina mesansamaka ve kevukanaka ti kigonsa ya kuluta. Bansosa yina kelanda bantu na ntangu nda kevukisa kusadila bima ya kusadisa kuwa ti kigonsa ya fioti. | Sala nde bameka kuwa na nge. Yula kana bima ya kusadisa kuwa lenda sadisa, mpi sadila yau kana munganga mepesa yau. Kinga makutu na nge na makelele ya ngolo. |
+| Kolesterolo ya LDL ya ngolo | Kati-kati ya luzingu (banda kiteso ya bamvula 40) | 7% | Kolesterolo ya LDL («ya mbi») ya ngolo na kati-kati ya luzingu kevukanaka ti kigonsa ya kuluta. Bansosa ya kutala bantu kevukisa kusadila bakisi ya statine ti kigonsa ya fioti, kansi bamekamu na bununu memonisa yau ve. | Yula munganga na nge kana kolesterolo na nge fwete talama mpi inki, kana kele, kusala sambu na yau. |
+| Kiyimbila | Kati-kati ya luzingu | 3% | Kiyimbila kevukanaka ti kigonsa ya kuluta. Na bununu, kiyimbila lenda vanda mpi kidimbu ya ntete ya dementia. | Zabisa munganga kana nge kevandaka ti ntima ya kulemba to kukonda kiese kuluta bamposo zole. Kiyimbila lenda belukaka. |
+| Mpasi na ntu | Kati-kati ya luzingu | 3% | Mpasi na ntu na konso bamvula mpi na konso kima, ata bansaka ya kunwana na nitu, kevukanaka ti kigonsa ya kuluta. | Lwata kifulu ya kukinga ntu na velo mpi na bansaka ya kunwana na nitu. Yula mambu ya kukinga kubua. Pema mpi kwenda kutalamu nsima ya mpasi na ntu. |
+| Kukonda kusala ngalasisi | Kati-kati ya luzingu | 2% | Bantu yina kesalaka ngalasisi mpi bansaka ya nitu lenda kwelaka fioti na dementia. Nzikisa ya bamekamu kele kaka fioti. | Yula inki ngalasisi kele mbote mpi ya kukonda kigonsa sambu na nge, mpi pona mambu yina nge kesepelaka na yau. Tala [lutwadisu na beto ya ngalasisi](/brain-health/exercise/). |
+| Diabete | Kati-kati ya luzingu | 2% | Diabete, mingi-mingi kana yau yantikaka na kati-kati ya luzingu to kana yau kewumaka mingi, kevukanaka ti kigonsa ya kuluta. | Sala nde bameka sukadi na menga. Kana nge kele ti diabete, sala ti kimvuka ya mavimpi na nge sambu na kutwadisa yau na mutindu ya mbote. |
+| Kunwa makaya | Kati-kati ya luzingu | 2% | Kunwa makaya kevukanaka ti kigonsa ya kuluta. Bansosa kemonisa nde bantu yina meyambula makaya kevandaka ve ti kigonsa ya kuluta bonso bantu yina kelanda kunwa. | Yula lusadisu sambu na kuyambula. Kuyambula kele mbote na konso bamvula. |
+| Tension ya menga ya ngolo | Kati-kati ya luzingu | 2% | Tension ya menga ya ngolo na kati-kati ya luzingu kevukanaka ti kigonsa ya kuluta. Bamekamu ya bankisi ya tension kemonisa kigonsa ya fioti ya kukwela na dementia to na mpasi ya mabanza. | Zaba bantalu na nge. Kimvuka ketubaka ntalu ya zulu ya 130 to na nsi banda kiteso ya bamvula 40; yula inki ntalu mefwana sambu na nge. |
+| Kilo ya mingi | Kati-kati ya luzingu | 1% | Kilo ya mingi na kati-kati ya luzingu kevukanaka ti kigonsa ya kuluta, mpi yau ketombulaka mpi kigonsa ya diabete. | Yula munganga na nge sambu na kilo ya mbote sambu na nge. Bambuta bafwete ve kusala rezime sambu na kukitula kilo kukonda ndongisila ya munganga. |
+| Kunwa malafu mingi | Kati-kati ya luzingu | 1% | Kunwa malafu mingi kevukanaka ti kigonsa ya kuluta. Kukitula kunwa na nsi nsima ya kunwa mingi kevukanaka ti kigonsa ya fioti. | Yula inki ndilu ya kukonda kigonsa kele sambu na nge, mingi-mingi ti bankisi na nge. |
+| Kuzinga nge mosi | Bununu | 5% | Kukonda kutalana mingi ti bantu ya nkaka kevukanaka ti kigonsa ya kuluta. | Bikala na kinduku ti bantu na mitindu yina nge kesepelaka na yau. Tala [lutwadisu na beto ya kinduku ti bantu](/brain-health/social-connection/). |
+| Mupepe ya mbi | Bununu | 3% | Kuzinga na kisika yina mupepe kele mbi mingi kevukanaka ti kigonsa ya kuluta. Bansosa kevukisa mupepe ya mbote ti kigonsa ya fioti. | Mingi-mingi yau kele diambu ya mambu ya bimvuka mpi ya luyalu. Tala balukebisu ya mupepe na kisika na nge mpi kitula ntangu ya kukwenda na nganda na bilumbu yina mupepe kele mbi mingi. |
+| Kukonda kusansa meso mbote | Bununu | 2% | Mambu ya meso yina mesansamaka ve kevukanaka ti kigonsa ya kuluta. Nsosa mosi ya nene na États-Unis mevukisa operasio ya katarakte ti kigonsa ya fioti. | Sala bameka meso na nge mbala na mbala. Yula kana mambu bonso katarakte lenda belukaka. |
 
-## How should I read these percentages?
+## Inki mutindu na kutanga bantalu yai?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Na dikebi. Lapolo ya Kimvuka kibeni ketubaka mambu mingi ya kutanina na mabanza:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Yau ketadila bantu mingi, kansi ve muntu mosi-mosi.** [Nsuka ya lapolo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  ya University College London ketubaka nde kukitula bigonsa na nsi kesalaka
+  sambu na bantu mingi, kansi yau kesala ve ndinga ya sikisiki nde muntu mosi
+  tavanda ve ti dementia.
+- **Yau ketadilaka nde mambu yai kele kikuma.** Bansoniki meponaka kaka mambu
+  yina kele ti nzikisa ya ngolo, kansi bau ketubaka nde bankaka lenda vanda
+  kaka ndambu ya kikuma.
+- **Yau kele bantalu ya ntoto ya mvimba.** Bansangu mingi mekatukaka na bansi
+  ya kimvwama mingi, mpi ndambu ya kieleka sambu na insi mosi to kimvuka mosi
+  lenda vanda ya kuswaswana.
+- **Bantalu ya fioti lenda vanda mpi ya mfunu.** Kima ya kigonsa yina
+  kevukanaka ti 2% ya bantu na ntoto ya mvimba ketadilaka kaka bantu mingi
+  kibeni.
 
-## Which risk factors were added in 2024?
+## Inki mambu ya kigonsa meyikamaka na 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Lapolo ya 2024 yikaka mambu zole na mambu 12 yina metangamaka na 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Kolesterolo ya LDL ya ngolo na kati-kati ya luzingu**, yina kevukanaka ti
+  kiteso ya 7% ya bantu yina kekwelaka na dementia.
+- **Kukonda kusansa meso mbote na bununu**, yina kevukanaka ti kiteso ya 2%.
 
-## What risk factors cannot be changed?
+## Inki mambu ya kigonsa lenda sobama ve?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging ketubaka nde [bununu kele kima ya kigonsa ya kuluta nene yina mezabanaka sambu na maladi ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+mpi muntu mosi ve lenda soba yau. Mambu ya dikanda kevandaka mpi ti ndambu na
+yau; gene mosi ya mezabanaka mingi yina ketadilaka kigonsa ya Alzheimer
+kebingamaka APOE. NIA keyikaka nde bansosa mezaba ntete ve mambu yonso yina
+kekumisaka maladi ya Alzheimer na bantu mingi. Kimvuka ya Lancet ketubaka nde
+bigonsa yina lenda sobama lenda kituka fioti ata muntu kele ti inki kigonsa ya
+dikanda.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Sambu bununu mpi mambu ya dikanda kevandaka ti ndambu ya nene, bantu mingi
+yina kele ve ti kima mosi na kati ya mambu 14 ya kigonsa kekwelaka kaka na
+dementia. Yau kele ve foti ya muntu.
 
-## What does the trial evidence say about changing these risks?
+## Inki bansosa ya bamekamu ketuba sambu na kusoba bigonsa yai?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Kuvukisa kima ya kigonsa ti dementia kele ve kima mosi ti kumonisa nde kusoba
+yau kekitula kigonsa ya dementia na nsi. Tala mwa bambandu ya kisika yina
+nzikisa ya bamekamu kele:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Tension ya menga.** Na bamekamu ya SPRINT MIND, ntalu ya nsi ya tension ya
+  menga mekitulaka na mutindu ya mfunu mpasi ya fioti ya mabanza. Yau mekitula
+  ve na mutindu ya mfunu dementia yina bantu ketadilaka, kansi bamekamu lenda
+  vanda fioti mingi sambu na kumonisa yau
+  ([SPRINT MIND na JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Bima ya kusadisa kuwa.** Kimvuka ya Lancet ketubilaka bamekamu mosi ya
+  bamvula tatu ya bima ya kusadisa kuwa yina memonisa ve bupusi na mabanza
+  sambu na bantu yonso, kansi memonisa lusadisu na kimvuka ya bantu yina
+  kuvandaka ti kigonsa ya kuluta. Bansosa yina kelanda bantu na ntangu nda
+  kevukisa kusadila bima ya kusadisa kuwa ti kigonsa ya fioti.
+  [Lutwadisu na beto ya kuwa](/brain-health/hearing/) kele ti bansangu mingi.
+- **Ngalasisi ya nitu.** National Institute on Aging ketubaka nde nzikisa ya
+  bamekamu ya munganga kele ve mingi sambu na kutuba nde ngalasisi lenda
+  buyisa to kukanga mpasi ya fioti ya mabanza to maladi ya Alzheimer, ata
+  bansosa yankaka kemonisa nde yau lenda sadisa ti kukonda ya mabanza yina
+  kekwisa ti bununu
+  ([NIA sambu na kubuyisa maladi ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Bamekamu ya nda yina kevingilaka tii dementia kukwisa ketambulaka malembe mpi
+kebakaka mbongo mingi, yo yina sambu na mambu mingi nzikisa ya kuluta mbote
+talanda kukatuka na bansosa yina kelanda bantu na bamvula mingi. Nzikisa yina
+kele ya mfunu, kansi yau kele ya kulemba kuluta bamekamu.
 
-## What about sleep and diet?
+## Mpidina ya kulala mpi ya madia?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Kimvuka metalaka mpidina ya kulala mpi ya madia, kansi yau meyika yau ve na
+lisiti, sambu nzikisa kuvandaka ve ya ngolo to ya kutalana mingi. Balutwadisu
+na beto sambu na [kulala](/brain-health/sleep/) mpi [madia](/brain-health/diet/)
+ketendula mambu yina mezabanaka.
 
-## Talk with a doctor
+## Tubila ti munganga
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Kutala mavimpi konso mvula kele ntangu ya mbote ya kutubila mambu yai. Nge
+lenda nata lisiti yai mpi kuyula:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Inki kele bantalu na mono ya tension ya menga, sukadi na menga mpi
+  kolesterolo, mpi keti mosi na kati na yau kelomba dikebi?
+- Keti mono fwete tala kuwa mpi meso na mono?
+- Keti ngalasisi yina mono kesalaka kele ya mbote mpi ya kufwana sambu na mono?
+- Keti bankisi na mono yankaka lenda sala bupusi na kiyibuka to na mabanza?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Na ntwala ya kusoba bankisi, madia, kukonda kudia, ngalasisi to bima ya
+kuyika, tubila ntete ti munganga. Kana nge to muntu yina nge kesansaka
+kemonanaka na mbala mosi ti kukonda kuzaba kisika, kulemba na ndambu mosi ya
+nitu, to mpasi ya kutuba, binga 112 to nimero ya lukasi ya nswalu na kisika
+na nge.

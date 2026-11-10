@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Keti bansaka ya mabanza ke kangaka dementia?"
+seoTitle: "Bansaka ya mabanza mpi dementia: Nzengolo"
+description: "Mambu yina bansosa ke tuba sambu na bansaka ya mabanza mpi dementia: kusadisa mabanza, kulonguka na ordinatere, ACTIVE, mpi diambu ya Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ata nsaka mosi ya mabanza me monisama ve nde yo ke kangaka dementia.
+  Kulonguka ya mabanza na ordinatere ke tomisaka mingi bisalu yina bantu ke
+  salaka mbala na mbala. Kulonguka mosi ya ACTIVE me monisa nde kulonguka ya
+  nswalu ya sikisiki ti balukutakanu ya kuludika me vukana ti bandiatisu ya
+  fioti ya dementia na nsungi ya bamvula 20, yina kele nzengolo ya fioti.
+  Sambu na bantu yina ke zinga ti dementia, kubuka na kimvuka ke monisaka
+  mambote ya fioti mpi ya ntangu fioti. Yo me luta mbote kusakana bansaka
+  sambu na kiese mpi sambu na kuvanda ti bankaka.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Bansosa ke monisa nde bantu ke kumaka mbote na bisalu yina bo ke salaka, kansi kimbangi ke monisa fioti nde yo ke sadisaka na luzingu ya konso lumbu."
+  - "Na ACTIVE, bantu yina salaka kulonguka ya nswalu ya sikisiki ti balukutakanu ya kuludika kaka nde bakaka bandiatisu ya fioti ya dementia na nsungi ya bamvula 20. Kulonguka ya nswalu kukonda balukutakanu ya kuludika, kulonguka ya kuyibuka mpi ya kuyindula me monisa diambu yai ve."
+  - "Na 2016, bantu yina salaka Lumosity futaka $2 million sambu na kuwadila na FTC, sambu bo vandaka ve ti kimbangi ya siansi sambu na kutuba nde yo ke lembika dementia."
+  - "Sambu na bantu yina ke ti dementia ya fioti to ya kati-kati, bimvuka ya kusadisa mabanza ke monisaka mambote ya fioti mpi ya ntangu fioti sambu na kuyindula, mpi mambote ya mingi sambu na kusolula mpi kuwakana ti bankaka."
+  - "Bansaka ya Golden Moments kele sambu na kiese mpi sambu na ntangu ya kukabula ti bankaka. Yo kele nkisi ve, mpi yo ke kangaka ve to ke lembikaka ve dementia."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Keti bansaka ya mabanza ke kangaka maladi ya Alzheimer?"
+    a: "Ata nsaka mosi ya mabanza me monisama ve nde yo ke kangaka maladi ya Alzheimer to dementia ya nkaka. National Institute on Aging ke tuba nde kimbangi me lunga ve sambu na kutuba nde ba aplikasio ya kulongula mabanza ya mumbongo ke pesaka mambote ya mutindu mosi ti yina bo me mona na bansosa. Bansaka lenda vanda mutindu ya mbote ya kulutisa ntangu."
+  - q: "ACTIVE monaka nki sambu na kulonguka ya nswalu mpi dementia?"
+    a: "Kulonguka mosi ya 2026 vukanisaka bantu yina kotaka na ACTIVE ti mikanda ya Medicare na nsungi ya bamvula 20. Bantu yina salaka kulonguka ya kusala mambu nswalu mpi bakaka ata lukutakanu mosi ya kuludika vandaka ti kitumbu ya fioti ya bandiatisu ya dementia kana bo me fwanisa bo ti kimvuka yina bakaka kulonguka ve. Kulonguka ya nswalu kukonda balukutakanu ya kuludika, mpi kulonguka ya kuyibuka to ya kuyindula, me monisa ve bupusi ya mfunu."
+  - q: "Keti bansaka ya mayele mpi bansaka ya nkaka me fwana sambu na muntu yina ke zinga ti dementia?"
+    a: "Yo lenda vanda mbote, kana muntu ke sepelaka na yo. Kubuka na kimvuka, yina ke vandaka ti bansaka ya bangogo, bansaka ya mayele, miziki mpi masolo, ke monisaka mambote ya fioti mpi ya ntangu fioti sambu na kuyindula mpi mambote ya mingi sambu na kusolula mpi kuwakana ti bankaka. Kiese, kansi ve mbote ya kimeka, kele lukanu ya mbote."
+  - q: "Sambu na nki FTC pesaka Lumosity ndola?"
+    a: "Na 2016, Federal Trade Commission fundaka Lumos Labs nde yo tubaka mambu sambu na bansaka na yo, mu mbandu kulembika kukonda ngolo yina ke kwisaka sambu na bununu mpi dementia, kansi kukonda kimbangi ya siansi. Kompani ndimaka kufuta $2 million mpi kuvanda ti kimbangi ya siansi ya kutudila ntima na ntwala ya kutuba diaka mambu ya mutindu yina."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Bansaka ya mabanza kele bisika yonso, mpi mingi ke silaka nde yo ke tanina mabanza na nge kuvanda ya leke. Kana nge ke sansaka muntu yina ke zinga ti dementia, to kana nge ke kudiyangisaka sambu na kuyibuka na nge mosi, yo kele ya normal kuyula kana kusakana yo lenda sadisa. Tala mambu yina bansosa me monisa mpenza, ti mambu yina ke pesaka kivuvu mpi mambu yina ke pesaka yo ve.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Yai kele nsangu ya kimvuka kaka, kansi ve ndongisila ya munganga. Tala [lukebisu na beto sambu na mambu ya mavimpi](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Keti bansaka ya mabanza ke kangaka dementia?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ata nsaka mosi ya mabanza me monisama ve nde yo ke kangaka dementia. National Institute on Aging (NIA) ke ndimisaka bantu na kuvanda mayele ti mambu yina ke tubama nde bansaka ya ordinatere mpi ya internet lenda tomisa kuyibuka, mpi yo ke tuba nde kimbangi me lunga ve sambu na kutuba nde ata aplikasio mosi ya kulongula mabanza ya mumbongo kele ti bupusi ya mutindu mosi ti kulonguka yina bo meka na bansosa ya kimunganga ([NIA sambu na kukanga maladi ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Yai ke tendula ve nde bansaka kele mfunu ve. Yo ke tendula nde mfunu na yo kele na kiese, na kuvanda ti bankaka mpi na kisalu ya konso lumbu, kansi ve na kukanga dementia.
 
-## What is "near transfer", and why does it matter?
+## “Near transfer” kele nki, mpi sambu na nki yo kele mfunu?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Ntangu nge ke salaka kisalu mosi mbala na mbala, mbala mingi nge ke kumaka mbote na kisalu yina. Bantu ya bansosa ke binga yai bupusi ya kulonguka. Ngiyula ya mpasi mingi kele kana kutoma yina **ke sabuka** na mambu ya nkaka: na bisalu ya me fwanana (near transfer) to na luzingu ya konso lumbu, bonso kuyibuka balukutakanu to kuyangisa mbongo (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Ntalu mosi ya nene ya 2016 talaka bansosa yina bakompani ya kulongula mabanza tubaka nde yo kele kimbangi na bo ya kuluta mbote. Yo monaka kimbangi mingi nde bantu ke kumaka mbote na bisalu yina bo ke longuka, kimbangi ya fioti nde bo ke kumaka mbote na bisalu ya pene-pene, mpi kimbangi ya fioti mingi nde kulonguka ke tomisaka kuyindula ya konso lumbu. Bansosa mingi vandaka mpi ti bampasi na mutindu bo salaka yo, yina pesaka mpasi na kubaka bandiminu ya sikisiki ([Simons mpi bankaka, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Batalu ya bansosa ke tuba nki sambu na kulonguka ya mabanza na ordinatere?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Batalu ya Cochrane, yina ke vukisaka bameka ya kuluta mbote yina kele, me tala kulonguka na ordinatere yina ke salama ata basemana 12:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Bambuta ya mavimpi 65 bamvula to kuluta:** bameka 8 ti bantu 1,183. Kimbangi vandaka ya nsi to ya nsi mingi. Yo lenda vanda ti mambote ya fioti kaka na nima ya kulonguka, kansi kukonda kimbangi ya pwelele nde yo ke landa ([Ntalu ya Cochrane, bambuta ya mavimpi ya mbote](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Bantu yina ke ti mpasi ya fioti ya mabanza:** bameka 8 ti bantu 660. Ata kimeka mosi ve tubaka kana bantu bakaka dementia na nima, mpi kimbangi vandaka ya ngolo ve sambu na kubaka bandiminu ([Ntalu ya Cochrane, mpasi ya fioti ya mabanza](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## ACTIVE monaka nki?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE kele kimeka ya nene na États-Unis yina yantikaka na 1998 ti bambuta 2,802 ya bamvula 65 to kuluta, yina vandaka kuzinga bo mosi mpi vandaka ve ti bampasi ya nene ya kuyibuka to ya kuyindula. Bantu kabwanaka na nzila ya dibaku na kimvuka mosi kati na bitatu ya kulonguka na bimvuka ya fioti (nswalu ya kusala mambu, kuyibuka, to kuyindula) to na kimvuka yina bakaka kulonguka ve. Kulonguka vandaka ti balukutakanu kumi to fioti na nsungi ya basemana tanu to sambanu. Bantu ya nkaka yina manisaka mingi ya balukutakanu ya ntete bakaka mpi dibaku ya kuvanda ti **balukutakanu ya kuludika** pene-pene mvula mosi mpi mvula tatu na nima.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Kulonguka ya nswalu vandaka kusonga mpi kusala mambu ya kemonwa na ntangu ya kukonda mingi, na nivo yina vandaka kusoba ntangu bantu vandaka kutoma.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Na 2026, bantu ya bansosa vukanisaka bantu 2,021 ti mikanda na bo ya Medicare na nsungi ya bamvula 20 ([Ntalu ya ACTIVE ya bamvula 20](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Tala mambu yina bo monaka:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Kulonguka ya nswalu ti ata lukutakanu mosi ya kuludika:** kitumbu ya fioti ya bandiatisu ya dementia kana bo me fwanisa ti kimvuka yina bakaka kulonguka ve (kiteso ya kigonsa ya 0.75, yina ke tendula pene-pene kitumbu ya 25% ya fioti).
+- **Kulonguka ya nswalu kukonda balukutakanu ya kuludika:** kitumbu ya fioti ve.
+- **Kulonguka ya kuyibuka to ya kuyindula:** bupusi ya mfunu ve na bandiatisu ya dementia.
+- **Konso kimvuka ya kulonguka na mvimba kana bo me fwanisa ti kimvuka yina bakaka kulonguka ve:** kemonso ya fioti ya bitumbu ya fioti, kansi yo vandaka ve ya mfunu na ntalu.
 
-### The limits of this finding
+### Bandilu ya nzengolo yai
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Yo ke tadila **mutindu mosi ya sikisiki ya kulonguka ya nswalu na lutwadisu mpi ti balukutakanu ya kuludika**, kansi ve bansaka yonso ya mabanza.
+- Mbote ya mfunu kwisaka na **kimvuka ya fioti** (bantu yina manisaka mingi ya balukutakanu ya ntete mpi bakaka dibaku ya kuvanda ti balukutakanu ya kuludika), kansi ve na kimvuka ya mvimba ya nswalu.
+- Dementia talamaka na kusadila **bakode ya bandiatisu na mikanda ya Medicare**, kansi ve na kutala konso muntu. Pene-pene ndambu ya iya ya bantu ya ntete bikala na nganda sambu bo vandaka na Medicare Advantage, yina kele ve ti mikanda ya mvimba.
+- Bantu yina kotaka vandaka ve ti bampasi ya nene ya kuyindula ntangu bo yantikaka. Mbote yai ke tuba ve kima sambu na bansaka sambu na bantu **yina ke zinga ti dementia**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Yo kele nzengolo ya kiese yina ke lomba bansosa ya nkaka. Yo kele ve kimbangi nde aplikasio mosi ke kangaka dementia.
 
-## What did the FTC say about Lumosity?
+## FTC tubaka nki sambu na Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Na Yanolari 2016, Lumos Labs, kompani yina salaka Lumosity, ndimaka kufuta $2 million sambu na kuwadila na bafundu ya Federal Trade Commission sambu na bapiblisite ya luvunu. FTC tubaka nde kompani tubaka, kukonda kimbangi ya siansi ya kulunga, nde bansaka na yo lenda tomisa kisalu na kisalu to na nzo-nkanda, mpi lenda lembika kukonda ngolo yina ke kwisaka sambu na bununu, mpasi ya fioti ya mabanza, dementia mpi maladi ya Alzheimer. Ndonga ke lomba nde kompani kuvanda ti kimbangi ya siansi ya mbote mpi ya kutudila ntima na ntwala ya kutuba mambu ya mutindu yina na bilumbu ke kwisa ([Nsangu ya FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Dilongi sambu na mabuta: vanda mayele ti konso nsaka, aplikasio to programe yina ke sila nde yo ke tanina kuyibuka to ke kanga dementia.
 
-## Can games help someone who already has dementia?
+## Keti bansaka lenda sadisa muntu yina ke zinga ti dementia?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Yo lenda yika mambu ya mbote na kilumbu, mpi yai kele diambu ya nene. Mutindu yina bo me longuka mingi kele **kusadisa mabanza na kimvuka**: bisalu ya kiese na kimvuka bonso masolo, kuyibuka mambu ya ntama, bansaka ya bangogo, bansaka ya mayele mpi miziki, mbala mingi na kimvuka ya fioti yina muntu mosi ke twadisaka.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Ntalu ya Cochrane ya 2023, yina talaka bameka 37 ti bantu 2,766 yina vandaka ti dementia ya fioti to ya kati-kati, monaka ([Ntalu ya Cochrane sambu na kusadisa mabanza](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **mambote ya fioti mpi ya ntangu fioti** na bameka ya kuyindula (kimbangi ya kati-kati);
+- **kutoma ya mfunu na kusolula mpi kuwakana ti bankaka** (kimbangi ya ngolo, yina katukaka na bansosa ya fioti);
+- **mambote ya fioti** sambu na mutindu ya luzingu, kikalulu mpi bikalulu.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Mambote talamaka mingi na nsuka ya baprogame ya pene-pene basemana kumi, mpi bansosa mingi talaka ve kana yo landaka. Kusadisa mabanza na kimvuka kele programe ya kimvuka ya kuyidika, yo yina mbote yai lenda fwanana ve mbala mosi ti muntu yina ke sakana nsaka na ye mosi na tableti.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Komision ya Lancet ya 2024 ke tuba mpi nde baprogame ya bisalu kele mfunu sambu na bantu yina ke zinga ti dementia, sambu na kutanina kiese mpi lukanu ([Komision ya Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Bansaka kele mpenza mbote sambu na nki?
 
-When chosen well, games can offer:
+Kana bo me ponama mbote, bansaka lenda pesa:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Kiese.** Ntangu ya mbote ya ndambu ya ngunga kele diambu ya mbote na yo mosi.
+- **Kuwakana.** Kusakana pene-pene ke pesaka diambu ya pete ya kukabula ntangu masolo ke kumaka mpasi. Tala [mutindu ya kusakana kumosi](/caregiving/how-to-play-together/).
+- **Kisalu ya konso lumbu.** Kisalu mosi ya kuzaba na ngunga ya mutindu mosi konso kilumbu lenda nata kikesa.
+- **Kutudila ntima.** Bisalu yina me fwanana ti mambu yina muntu lenda sala mbote ke sadisa yandi na kuwa nde yandi lenda, kansi ve nde bo ke meka yandi.
+- **Masolo.** Kifwanisu to ngana ya kuzaba lenda kangula disolo. Meka [bakarte ya masolo](/games/conversation-cards/) to [manisa ngana](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Mambu ya kutina: batimer, bantalu ya mbote, balandila mpi konso kima yina ke monana bonso kimeka ya kuyibuka. Kana muntu ke kuma ti nkenda to ti makasi, yima. Kuyimisa na ntwala, to kuvanda kaka kumosi, kele mbote ya mbote. Lutwadisu na beto sambu na [kupona ba aplikasio mpi bansaka](/caregiving/choosing-apps-and-games/) kele ti ndandani ya kutala.
 
-## Where Golden Moments fits
+## Kisika ya Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Bansaka ya Golden Moments, bonso [bifwanisu ya zole](/games/picture-pairs/), [puzzle ya bifwanisu](/games/picture-puzzle/) mpi [kusosa bangogo ya nene](/games/word-search/), me salama sambu na kiese mpi sambu na ntangu ya kukabula ti bankaka. Yo kele ve ti ntangu ya kuluta mpi ve ti ntalu ya mbote. Yo kele **nkisi ve**, mpi yo ke **kanga ve** to ke **lembika ve** dementia. Beto ke zola kutuba yo na pwelele na kisika ya kusila mambu yina ata nsaka mosi lenda sala ve.
 
-## Talk with a doctor
+## Solula ti munganga
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Kana nge ke kudiyangisaka sambu na bansoba ya kuyibuka na nge mosi to na muntu yina nge ke sansaka, kwenda kutala munganga na kisika ya kutudila ntima na aplikasio. Munganga lenda tala kana kele bampasi ya nkaka yina lenda beluka mpi kusolula matambi yina kele ti kimbangi ya kuluta mbote, bonso kuyangisa tension mpi kutala makutu. Tala [Keti dementia lenda kangama?](/brain-health/can-dementia-be-prevented/) sambu na kuzaba mingi. Kana kukonda kuyindula mbote to bansoba ya nkaka ke kwisa na mbala mosi, sosa lusadisu ya munganga nswalu.

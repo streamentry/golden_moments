@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Bisalu ya kuyibuka ya pete sambu na bambuta"
+seoTitle: "Bisalu ya kuyibuka ya mbote sambu na kizoba"
+description: "Bisalu ya kufwanisa bifwanisu mpi bakarte sambu na bambuta yina ke na kizoba ya kuyibuka mambu, mpi mutindu ya kusala yo na mutindu ya mbote, kukonda kumesena."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Bisalu ya kuyibuka sambu na bambuta yina ke na kizoba ya kuyibuka mambu ke
+  salama mbote kana yo ke tadila kuyibuka ve. Salaka bisalu ya kufwanisa ti
+  bifwanisu na zulu, sadila bitini 4 ti 6, salaka na kimvuka mpi bika ntalu.
+  Kuyindula kifwanisu yina nge ke mona kele pete kuluta kuyibuka yo, yo yina
+  pona bisalu yina mambu yonso ke monanaka. Kiese, kansi ve mbano, kele
+  lukanu.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Bisalu ya kuyibuka ya ntama ke swamaka bakarte, yina ke mesenaka mpenza diambu yina kizoba ya kuyibuka mambu ke komisaka ngolo. Bika bifwanisu na zulu."
+  - "Bitini fioti, bifwanisu ya nene mpi mpona mosi na mbala mosi ke sadisaka nde kisalu kuvanda ya kiese."
+  - "Salaka na kimvuka, sadisanaka na zola mpi bika ntalu. Muntu mosi ve fwete vanda na ntwala ya bampangi bonso muntu ya bo ke mesena."
+  - "Kisalu mosi ve ya kuyibuka me monisama nde yo ke belula, ke lembika to ke manisa kizoba ya kuyibuka mambu. Salaka yo sambu kele ntangu ya mbote ya kusala kumosi."
+  - "Yambula ntangu yo ke diaka ya kiese. Kusolula mambu ya me tala bifwanisu kele mpi mbano ya mbote."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Inki kisalu ya kuyibuka kele ya mbote sambu na muntu yina ke na kizoba ya kuyibuka mambu?"
+    a: "Kisalu ya kufwanisa ti bifwanisu ya nene, ya kuyikana, yina lenda vanda na zulu, bonso Picture pairs ya bo me tula na bitini 4 ti 6. Kuzwa kifwanisu ya zole ya mosi yina nge ke mona ke pesaka kiese kukonda kumesena kuyibuka mambu ya ntangu fioti. Find the same kele pete kuluta, ti kifwanisu mosi ya kufwanisa na kati ya banzila 2 ti 4."
+  - q: "Keti bisalu ya kuyibuka ke sadisaka na kizoba ya kuyibuka mambu?"
+    a: "Kisalu mosi ve ya kuyibuka me monisama nde yo ke belula, ke lembika to ke manisa kizoba ya kuyibuka mambu; ntangu Cochrane yina bo me tadila me monisa nde bambangi ya me tala kulonguka ntu na ordinatere kele fioti mingi sambu na kutuba kana yo ke tanina kizoba ya kuyibuka mambu. Ata mpidina, bisalu lenda vanda mutindu ya mbote ya kulekisa ntangu kumosi. Pona yo sambu na kiese mpi sambu na kuvanda kumosi."
+  - q: "Keti mono fwete sala Concentration ya ntama ti muntu yina ke na kizoba ya kuyibuka mambu?"
+    a: "Na luyantiku, bantu yankaka ke sepelaka kaka ti yo, mingi-mingi ti bakarte fioti. Kana kuyibuka kisika bakarte kele yantika kupesa kisina, balula bakarte na zulu mpi sosa bampangi kumosi. Yo ke bikaka kufwanisa mpi ke katulaka kimeseno ya kuyibuka."
+  - q: "Inki bisalu ya kuyibuka kele ya mbote sambu na bambuta na kimvuka?"
+    a: "Picture bingo ti muntu ya ke tanga na ekran, kumanisa bansangu ya kuyikana na ndinga ya ngolo, mpi bakarte ya masolo yonso ke salama mbote na bimvuka. Salaka tii konso karte ya kuzala mpi bika kutanga na ndinga ya ngolo nani me pesa mvutu, sambu muntu mosi ve kuwa nde bo me ponaka yandi."
+  - q: "Keti bisalu ya kuyibuka ya ofele sambu na bambuta kele na Internet?"
+    a: "Inga. Bisalu yina kele na site yayi, bonso Picture pairs, Find the same, Photo pairs mpi Picture puzzle, kele ya ofele, yo ke lombaka komikisa ve mpi yo ke salaka na batelefone, batableti mpi baordinatere. Mosi ve kele ti ntangu ya kusala to ntalu."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Kana nge ke sosa « bisalu ya kuyibuka sambu na bambuta », mingi ya mambu yina nge ke mona bo me salaka yo sambu na bantu yina ke zola kunungisa ntu: bakarte ya kuswama, ntangu ya kutanga, bitambi mpi bantalu. Sambu na muntu yina ke zingila ti kizoba ya kuyibuka mambu, mambu yai ke balula kisalu na kimeseno ya diambu yina me kuma mpasi. Kansi bisalu ya mutindu mosi lenda salama na mutindu ya pete. Lutiti yayi ke monisa mutindu ya kusala yo, mpi ke tanga bisalu yina ke salama mbote na konso kitambi.
 
-## Why do classic memory games frustrate people with dementia?
+## Sambu na nki bisalu ya kuyibuka ya ntama ke pesaka bantu yina ke na kizoba ya kuyibuka mambu mpasi?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Sambu yo ke tadila kubumba mambu ya mpa na ntu, yina mbala mingi kele diambu ya ntete yina Alzheimer, kikuma ya kuluta mingi ya kizoba ya kuyibuka mambu, ke bebisaka. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ke tuba nde kidimbu ya ntete ya kuluta mingi ya Alzheimer kele mpasi ya kuyibuka mambu ya mpa yina muntu me longuka. Na Concentration ya ntama, nge ke balula bakarte zole, nge ke yibuka kisika yo vandaka, mpi nge ke sadila yo na nima ya ntangu fioti. Yina kele mambu ya mpa, ya bo ke bumba mpi ya bo ke vutukila.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Kana nge me yika ntangu ya kutanga, ntalu to makelele sambu na mvutu ya mbi, muntu ke yibuka mambu yina yandi lenda sala diaka ve, na ntwala ya muntu yina yandi ke zolaka. Bantu mingi ke yambula kusala yo na pima.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Kuyindula kima yina nge ke mona kele kisalu ya kuswaswana mpi mbala mingi ya pete kuluta. Kusonga dikopa ya zole ya ti ntangu zole zole kele na ntwala ya nge ke pesaka kiese. Yo yina kima ya mfunu kele kubika kufwanisa mpi kukatula kimeseno ya kuyibuka.
 
-## How do you make a memory game gentle?
+## Mutindu ya kusala kisalu ya kuyibuka na mutindu ya pete?
 
-These adjustments work for card games, board games and games on a screen.
+Mabaluka yai ke salama na bisalu ya bakarte, ya mesa mpi ya na ekran.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Bika bifwanisu na zulu.** Kufwanisa bifwanisu yina nge ke mona kele kaka kisalu ya kyeleka, mpi mbala mingi ya kupesa kiese.
+2. **Sadila bitini fioti.** Yantika ti bampangi zole to tatu. Yika mingi kaka kana yo ke monana pete mingi mpi kana muntu ke zola diaka.
+3. **Pona bifwanisu ya nene, ya kuyikana, sambu na bambuta.** Dikopa ya ti, tournesol, maswa ya masa. Ve bifwanisu ya bana, mpi ve bifwanisu yina kele ti mambu mingi.
+4. **Salaka na kimvuka.** « Beto sosa bambwa » na kisika ya « mbala na nge ». Sadisanaka na kusonga mpi na kusadisa.
+5. **Bika ntalu.** Muntu mosi ve fwete nunga. Kana muntu ke yula, kutuba pete « beto me sala yo » me lunga.
+6. **Kadi kima ve ti ntangu ya kutanga.** Ntangu ya kutanga ve, mpi ve nswalu na kati ya bantangu.
+7. **Solulaka mambu ya me tala bifwanisu.** « Tala maswa yina ya masa. Keti nge me salaka ntangu mosi na maswa? » Masolo mbala mingi kele kitini ya kuluta mbote.
+8. **Yambula na ntangu ya mbote.** Manisa na nima ya kufwanisa mosi, ntangu yo ke diaka ya kiese.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ke pesaka mpeve ya mutindu mosi bonso malongi ya mbote: fwanisa kisalu ti mambu yina muntu lenda sala, tala kana yandi ke waka kisina, mpi sala nde yandi kuwa nde yandi me nunga.
 
-## Gentle memory and matching games to try
+## Bisalu ya pete ya kuyibuka mpi ya kufwanisa ya kumeka
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (kufwanisa ti bifwanisu ya kemonana)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) kele kisalu ya kufwanisa ti bifwanisu ya nene mpi bitini 4 ti 12. Bifwanisu lenda bikala ya kemonana, yo yina yo ke tadila kuzwa bampangi, kansi ve kuyibuka kisika yo vandaka. Yantika ti bitini 4. Sambu na muntu yina kele na kitambi ya luyantiku mpi ke sepelaka ti mpasi fioti, nge lenda balula na **Bifwanisu ya kuswama**, kansi vutuka na kumonisa bifwanisu mbala mosi kana yo me yambula kuvanda ya kiese.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) ke monisa kifwanisu mosi na zulu mpi banzila 2 ti 4 na nsi. Finama yina ke fwanana. Yo kele kisalu ya kufwanisa ya pete kuluta na site yayi mpi yo ke fwanana sambu na bantu yina ke mona risi ya mvimba bonso mambu mingi, ata bantu mingi ya bitambi ya nsuka ntangu muntu mosi kele pene-pene na bo.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (kisalu ya kuyibuka ti bafoto ya dibuta)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) ke balula bafoto yina nge me pona na kisalu ya kufwanisa: mbwa, kilanga, nzo ya pene-pene ya lac. Bizizi mpi bisika ya kuyikana mbala mingi ke basisa masolo kuluta kifwanisu mosi ya nkaka. Bafoto ke bikala na navigateur na nge mpi bo ke tindamaka ve ata fioti.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) ke lomba nge kutula konso kifwanisu na paniere yina me fwana, bonso kikuku to kilanga. Kuyidika mambu ke sadila nzayilu ya ntama ya mutindu bima ke salama na nza, kansi ve kuyibuka mambu ya ntangu fioti.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) ke kabula kifwanisu na bitini 4 to 9. Finama bitini zole sambu na kusobasoba yo tii kifwanisu kuvanda ya mvimba. Kifwanisu ya mvimba ke bikala na ekran bonso lutwadisu.
 
-### Real cards on the table
+### Bakarte ya kyeleka na mesa
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Nge fwete sadila ekran ve. Katula bampangi ya kufwanisa na ba jeux zole ya bakarte to na kimvuka ya bakarte ya bifwanisu. Tula yo na zulu na milongo zole mpi sosa bampangi kumosi. Na nima, yidika yo na kulanda mukubu to mutindu. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ke tanga bisalu ya bakarte mpi ya mesa na kati ya bisalu sambu na kitambi ya luyantiku.
 
-## Which memory games suit each stage?
+## Inki bisalu ya kuyibuka ke fwanana na konso kitambi?
 
-Stages are loose labels. Go by what the person enjoys today.
+Bitambi kele kaka bandinga ya pete. Landaka mambu yina muntu ke sepelaka bubu.
 
-| Stage | Games that often fit | How to set them up |
+| Kitambi | Bisalu yina mbala mingi ke fwanana | Mutindu ya kuyidika yo |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Luyantiku | Picture pairs, Photo pairs, Picture puzzle ti bitini 9, bisalu ya bakarte ya kuyikana | Bika yandi pona. Bitini lenda baluka kana yandi ke sepelaka ti yo; bika ntalu kana yo ke yangisaka yandi |
+| Kati-kati | Picture pairs ti bitini 4 ti 6 na zulu, Find the same, Sort together | Bifwanisu ntangu yonso na zulu. Vanda pene-pene na yandi mpi sadisanaka na zola |
+| Nsuka | Find the same ti banzila 2, kutala kifwanisu mosi ya nene kumosi | Ntangu fioti mingi. Nge ke simba tableti; yandi ke songa, to yandi ke tala mpi ke wa kaka |
 
-## Do memory games help with dementia?
+## Keti bisalu ya kuyibuka ke sadisaka na kizoba ya kuyibuka mambu?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Kisalu mosi ve ya kuyibuka me monisama nde yo ke belula, ke lembika to ke manisa kizoba ya kuyibuka mambu. Ntangu [Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) yina bo me tadila ya kulonguka ntu na ordinatere sambu na bantu yina kele ti mpasi ya fioti ya kuyibuka me monisa nde bambangi kele fioti mingi sambu na kutuba kana yo ke tanina kizoba ya kuyibuka mambu. Lutwadisu na beto ya [bisalu ya ntu mpi kizoba ya kuyibuka mambu](/brain-health/brain-games/) ke tendula mambu yina balongukulu ke monisa mpi yina yo ke monisa ve.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Yina kele kikuma ve ya kuyambula bisalu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ke pesaka ndongisila ya kutula dikebi na kiese, kansi ve na kununga. Baminute 10 ya kufwanisa bifwanisu mpi kusolula mambu ya me tala yo lenda vanda mpenza kitini ya mbote ya kilumbu.
 
-## What about memory games for seniors without dementia?
+## Ebuna bisalu ya kuyibuka sambu na bambuta yina kele ve ti kizoba ya kuyibuka mambu?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Kana mbuta mosi yina kele ve ti mpasi ya kuyibuka ke sepelaka ti bisalu ya ntangu ya kutanga, bantalu mpi bitambi ya mpasi, kima ya mbi kele ve na yina. Kansi kadi tadila ve nde yo ke tanina kizoba ya kuyibuka mambu; kisalu mosi ve me monisama nde yo ke sala yo. Bamvutu ya pete yina kele na zulu ke salama mpi mbote ntangu bandonga ke sala kumosi: nkaka yina ke na kizoba ya kuyibuka mambu mpi mwana-nkaka lenda fwanisa bifwanisu bonso kimvuka, kukonda kumesena konso muntu.
 
-## When should you stop or change the game?
+## Ntangu ya nki nge fwete yambula to kusoba kisalu?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Kupema na ngolo, kupusa tableti, kutuba « mono lenda sala yo ve » to kumonana bonso muntu ya ke waka boma kele bantangu yonso bidimbu ya kukomisa yo pete kuluta to ya kuyambula. Meka bitini fioti, balula bifwanisu na zulu, soba na [Find the same](/games/find-the-same/), to tala kaka bifwanisu mpi solula. Kana yandi ke zola kusala ve ata fioti, yo kele mbote mpi. Lutwadisu na beto ya [mutindu ya kusala kumosi](/caregiving/how-to-play-together/) kele ti malongi mingi ya me tala ntangu mpi lusadisu.

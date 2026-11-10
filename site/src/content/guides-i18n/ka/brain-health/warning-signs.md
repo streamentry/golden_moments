@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "დემენციის ადრეული ნიშნები და როდის მივმართოთ ექიმს"
+seoTitle: "დემენციის ადრეული ნიშნები და როდის მივმართოთ ექიმს"
+description: "დემენციის გავრცელებული ადრეული ნიშნები, განსხვავება ჩვეულებრივი დაბერებისგან, მეხსიერების პრობლემების სამკურნალო მიზეზები და ექიმთან ვიზიტისთვის მომზადება."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  მეხსიერების დაკარგვა, რომელიც აფერხებს ყოველდღიურ ცხოვრებას, ნაცნობი საქმეების შესრულების სირთულე,
+  დროისა და ადგილის აღრევა, ასევე ხასიათსა და განსჯაში ცვლილებები შეიძლება იყოს დემენციის ადრეული ნიშნები.
+  ბევრ სხვა მდგომარეობას, მათ შორის ფარისებრი ჯირკვლის პრობლემებს, ვიტამინ B12-ის დაბალ დონეს, წამლების
+  გვერდით ეფექტებს, დეპრესიასა და ძილის პრობლემებს, შეუძლია მსგავსი ცვლილებები გამოიწვიოს. დიაგნოზის
+  დასმა მხოლოდ კვალიფიციურ სპეციალისტს შეუძლია. მოულოდნელ აღრევას სასწრაფო დახმარება სჭირდება.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "დრო და დრო დავიწყება ასაკთან ერთად ხშირია; ცვლილებები, რომლებიც ყოველდღიურ ცხოვრებას აფერხებს, შემოწმებას იმსახურებს."
+  - "Alzheimer's Association აღწერს 10 გამაფრთხილებელ ნიშანს და თითოეულს უპირისპირებს ასაკთან დაკავშირებულ ჩვეულებრივ ცვლილებას."
+  - "ფარისებრი ჯირკვლის პრობლემებს, ვიტამინ B12-ის დაბალ დონეს, წამლების გვერდით ეფექტებს, დეპრესიას, ინფექციებსა და ძილის პრობლემებს შეუძლია მეხსიერებაზე გავლენა, და ზოგიერთი მათგანი სამკურნალოა."
+  - "დემენციის დიაგნოზის დასმა მხოლოდ კვალიფიციურ სპეციალისტს შეუძლია; ონლაინ კითხვარები და თვითშემოწმება ამას ვერ გააკეთებს."
+  - "აღრევა, რომელიც მოულოდნელად, საათების ან დღეების განმავლობაში იწყება, შეიძლება იყოს დელირიუმი და სასწრაფო სამედიცინო დახმარებას საჭიროებს."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "დავიწყება დაბერების ჩვეულებრივი ნაწილია?"
+    a: "ზოგიერთი დავიწყება — კი. National Institute on Aging აღნიშნავს, რომ ნივთების დრო და დრო დაკარგვა ან გადახდის დავიწყება, როგორც წესი, ასაკთან დაკავშირებული მსუბუქი დავიწყებაა. დემენცია დაბერების ჩვეულებრივი ნაწილი არ არის. მეხსიერების პრობლემები, რომლებიც ართულებს ყოველდღიურ საქმეებს, როგორიცაა მანქანის მართვა, ტელეფონის გამოყენება ან სახლისკენ გზის პოვნა, ექიმთან შემოწმებას იმსახურებს."
+  - q: "შეიძლება თუ არა მეხსიერების პრობლემებს დემენციის გარდა სხვა მიზეზი ჰქონდეს?"
+    a: "დიახ. National Institute on Aging ჩამოთვლის, სხვა მიზეზებთან ერთად, ფარისებრი ჯირკვლის, თირკმლების ან ღვიძლის პრობლემებს, წამლების გვერდით ეფექტებს, დეპრესიასა და შფოთვას, ვიტამინ B12-ის დაბალ დონეს, ალკოჰოლის არასათანადო მოხმარებას, ძილის პრობლემებს, ინფექციებსა და თავის ტრავმებს. ზოგიერთი ამ მდგომარეობიდან მკურნალობის შემდეგ შეიძლება გაუმჯობესდეს, რაც ერთ-ერთი მიზეზია, რატომ არის მნიშვნელოვანი სამედიცინო შემოწმება."
+  - q: "შემიძლია თუ არა სახლში ვინმეს დემენციაზე შემოწმება?"
+    a: "არა. დემენციის დიაგნოზის დასმა მხოლოდ კვალიფიციურ სპეციალისტს შეუძლია, სამედიცინო ისტორიის, ფიზიკური გამოკვლევის, მეხსიერებისა და აზროვნების ტესტების, ლაბორატორიული ანალიზებისა და ზოგჯერ თავის ტვინის ვიზუალური კვლევების გამოყენებით. იმ მოკლე ტესტებიც კი, რომლებსაც ექიმები იყენებენ, თავისთავად დიაგნოზისთვის საკმარისი არ არის."
+  - q: "რა უნდა გავაკეთო, თუ ვინმე მოულოდნელად აირია?"
+    a: "დაუყოვნებლივ მიმართეთ სამედიცინო დახმარებას. მოულოდნელი აღრევა შეიძლება იყოს დელირიუმი, რომელსაც VA სამედიცინო გადაუდებელ შემთხვევად აღწერს. დაუყოვნებლივ დაუკავშირდით ადამიანის სამედიცინო მომსახურების მიმწოდებელს ან დარეკეთ 112-ზე, დარჩით მასთან და ჩაინიშნეთ, თუ რა წამლებს იღებს."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+საკუთარ მეხსიერებაში ან ახლობელი ადამიანის მეხსიერებაში ცვლილებების შემჩნევა შეიძლება შემაშფოთებელი იყოს. ეს გვერდი დაგეხმარებათ გადაწყვიტოთ, როდის დანიშნოთ ექიმთან ვიზიტი და როგორ მოემზადოთ მისთვის. ის ვერ გეტყვით, აქვს თუ არა ვინმეს დემენცია. **დემენციის დიაგნოზის დასმა მხოლოდ კვალიფიციურ სპეციალისტს შეუძლია**, და ბევრი მდგომარეობა, რომელიც მეხსიერების პრობლემებს იწვევს, საერთოდ არ არის დემენცია. გთხოვთ, არ დაეყრდნოთ ონლაინ კითხვარებს ან თვითშემოწმებას.
 
-## What are the early signs of dementia?
+## რა არის დემენციის ადრეული ნიშნები?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) აღწერს 10 ადრეულ ნიშანს. თითოეულ მათგანს უპირისპირებს ასაკთან დაკავშირებულ ჩვეულებრივ ცვლილებას შედარებისთვის. ჩვენი სიტყვებით:
 
-| Sign worth checking | More typical with age |
+| შემოწმებას დამსახურებული ნიშანი | ასაკთან ერთად უფრო ჩვეულებრივი |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| მეხსიერების დაკარგვა, რომელიც აფერხებს ყოველდღიურ ცხოვრებას, მაგალითად ბოლო მოვლენების დავიწყება ან ერთი და იმავე საკითხის კვლავ და კვლავ კითხვა | ხანდახან სახელის ან შეხვედრის დავიწყება და მოგვიანებით გახსენება |
+| დაგეგმვის ან პრობლემის გადაჭრის სირთულე, მაგალითად ნაცნობი რეცეპტის მიყოლა ან გადასახადების აღრიცხვა | ხანდახან შეცდომის დაშვება საოჯახო გადასახადებში |
+| ნაცნობი საქმეების დასრულების სირთულე სახლში, სამსახურში ან გარეთ | დროდადრო დახმარების საჭიროება მიკროტალღური ღუმელის réglage-ში ან სატელევიზიო გადაცემის ჩაწერაში |
+| თარიღების, სეზონების ან საკუთარი Aufenthalts ადგილის აღრევის დაკარგვა | კვირის დღის არევა და შემდეგ მისი გააზრება |
+| მანძილის შეფასების, კითხვის ან ფერების გარჩევის ახალი სირთულე | მხედველობის ცვლილებები კატარაქტის გამო |
+| სიტყვებთან დაკავშირებული ახალი პრობლემები, მაგალითად საუბრის შუაში გაჩერება ან საგნებისთვის არასწორი სახელის დარქმევა | ხანდახან სწორი სიტყვის პოვნის სირთულე |
+| ნივთების უჩვეულო ადგილას დადება და ნაბიჯების უკან დაბრუნებით მათი პოვნის შეუძლებლობა | ნივთების დროდადრო დაკარგვა და ნაბიჯების დაბრუნებით პოვნა |
+| ცუდი განსჯა, მაგალითად ფინანსებთან ან პირად მოვლასთან დაკავშირებით | ხანდახან არასწორი გადაწყვეტილების მიღება |
+| ჰობებისგან, სამუშაოდან ან სოციალური აქტივობებისგან განრიდება | ხანდახან ოჯახის ან სოციალური ღონისძიებაზე წასვლის სურვილის არქონა |
+| ხასიათის ან პიროვნების ცვლილებები, მაგალითად აღრევა, ეჭვიანობა, შიში ან შფოთვა | ჩვეული წესების დაცვა და რუტინის დარღვევისას გაღიზიანება |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+ერთი ნიშანი თავისთავად დემენციას არ ნიშნავს. მთავარი არის **ცვლილება იმასთან შედარებით, რაც ამ ადამიანისთვის ჩვეულებრივი იყო**, განსაკუთრებით თუ ეს ყოველდღიურ ცხოვრებას ართულებს.
 
-## How is normal aging different from dementia?
+## რით განსხვავდება ჩვეულებრივი დაბერება დემენციისგან?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) აღნიშნავს, რომ ბევრი ხანდაზმული ადამიანი ამჩნევს, რომ Dinge-ებს უფრო ნელა იხსენებს, ან ხანდახან ნივთებს კარგავს, ან გადახდას ივიწყებს. ეს, როგორც წესი, მსუბუქი დავიწყების ნიშნებია. **დემენცია დაბერების ჩვეულებრივი ნაწილი არ არის.** მეხსიერების სერიოზული პრობლემები ართულებს ყოველდღიურ საქმიანობას, როგორიცაა მანქანის მართვა, ტელეფონის გამოყენება ან სახლისკენ გზის პოვნა.
 
-The NIA suggests talking with a doctor if someone:
+NIA გვირჩევს, ექიმს მივმართოთ, თუ ვინმე:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- კვლავ და კვლავ იმავე კითხვებს სვამს
+- ეკარგება იმ ადგილებში, რომლებიც ადრე კარგად იცოდა
+- უჭირს რეცეპტების ან მითითებების მიყოლა
+- უფრო მეტად ერევა დროში, ადამიანებსა და ადგილებში
+- წყვეტს საკუთარ თავზე ზრუნვას, მაგალითად ცუდად იკვებება, არ იბანს ან თავს სახიფათოდ იქცევა
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+ზოგ ადამიანს აქვს **მსუბუქი კოგნიტური დარღვევა (MCI)**. ეს ნიშნავს, რომ მას მეხსიერების ან აზროვნების უფრო მეტი პრობლემა აქვს, ვიდრე მის ასაკში სხვა ადამიანებს, თუმცა მაინც ახერხებს ყოველდღიური ცხოვრების მართვას. NIA აღნიშნავს, რომ MCI შეიძლება იყოს ალცჰაიმერის ადრეული ნიშანი, მაგრამ MCI-ის მქონე ყველა ადამიანს ის არ უვითარდება.
 
-## What else can cause memory problems?
+## რა სხვა რამემ შეიძლება გამოიწვიოს მეხსიერების პრობლემები?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+დემენციის გარდა ბევრ რამეს შეუძლია მეხსიერებაზე გავლენა, და ზოგიერთი მდგომარეობა მკურნალობით უმჯობესდება. NIA ჩამოთვლის:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **ფარისებრი ჯირკვლის, თირკმლების ან ღვიძლის პრობლემები**
+- **წამლების გვერდითი ეფექტები**
+- **დეპრესია და შფოთვა**
+- **ვიტამინ B12-ის დაბალი დონე** ან საკმარისად ჯანსაღი საკვების არმიღება
+- **ძილის პრობლემები**
+- **ალკოჰოლის ან სხვა ნივთიერებების არასათანადო მოხმარება**
+- **ინფექციები, სისხლის შედედებები ან სიმსივნეები** ტვინში
+- **თავის ტრავმა**, მაგალითად თავის ტვინის შერყევა
+- **ძლიერი სტრესი ან გლოვა**, მაგალითად პენსიაზე გასვლა ან მეუღლის დაკარგვა
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+სმენისა და მხედველობის პრობლემებიც შეიძლება აღრევად მოგეჩვენოთ; იხილეთ ჩვენი [სმენის სახელმძღვანელო](/brain-health/hearing/). სწორედ ამიტომ არის მნიშვნელოვანი სამედიცინო შემოწმება. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)-ის მიხედვით, ექიმები ხშირად ნიშნავს სისხლის ანალიზებს ფარისებრი ჯირკვლის პრობლემების, ვიტამინების დეფიციტისა და ინფექციის შესამოწმებლად. კარგი [ძილი](/brain-health/sleep/) და დეპრესიის მკურნალობაც ღირს სააუბროდ წამოჭრა.
 
-## Sudden confusion is an emergency
+## მოულოდნელი აღრევა გადაუდებელი შემთხვევაა
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**აღრევა, რომელიც სწრაფად, საათების ან დღეების განმავლობაში იწყება, სასწრაფო სამედიცინო დახმარებას საჭიროებს.** ეს შეიძლება იყოს დელირიუმი. [VA დელირიუმს](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) სამედიცინო გადაუდებელ შემთხვევად აღწერს და გვირჩევს დაუყოვნებლივ დაუკავშირდეთ ადამიანის სამედიცინო მომსახურების მიმწოდებელს ან დარეკოთ 112-ზე. ნიშნები მოიცავს:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- მკაფიოდ აზროვნების უნარის მერყეობას
+- ყურადღების მიქცევის სირთულეს
+- არეული აზროვნებას
+- უჩვეულო ძილიანობას ან, პირიქით, უჩვეულო მოუსვენრობასა და აღგზნებადობას
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+ეს შეიძლება ნებისმიერ ადამიანს დაემართოს, მათ შორის იმ ადამიანებსაც, რომლებიც უკვე დემენციით ცხოვრობენ. [NHS](https://www.nhs.uk/symptoms/confusion/)-ის მიხედვით, გავრცელებულ მიზეზებს შორისაა ინფექციები (შარდსასქესო გზების ინფექციები ხშირია ხანდაზმულ ადამიანებში და დემენციით მცხოვრებ ადამიანებში), ინსულტი, სისხლში შაქრის დაბალი დონე დიაბეტის მქონე ადამიანებში, თავის ტრავმა და ზოგიერთი წამალი. დახმარების მოლოდინში დარჩით ადამიანთან და დაამშვიდეთ მოკლე, მარტივი სიტყვებით. ნუ დასვამთ ბევრ კითხვას და ჩაინიშნეთ, თუ რა წამლებს იღებს.
 
-## How do I prepare for the doctor's appointment?
+## როგორ მოვემზადო ექიმთან ვიზიტისთვის?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+კარგი ვიზიტი კარგი ჩანაწერებით იწყება. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) გვირჩევს, თან იქონიოთ:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **ცვლილებების ჩამონათვალი** მეხსიერებაში, ხასიათსა და ქცევაში, კონკრეტული მაგალითებითა და იმ დროის მითითებით, თუ დაახლოებით როდის დაიწყო ისინი
+2. **گذილი და მიმდინარე ჯანმრთელობის პრობლემები**, მათ შორის მეხსიერების პრობლემების ოჯახური ისტორია, თუ არსებობს
+3. **ყველა რეცეპტით გაცემული და ურეცეპტო წამალი**
+4. **ნებისმიერი ვიტამინი ან საკვები დანამატი**
+5. **თქვენი კითხვები**, მაგალითად რა კვლევები ჩატარდება, რამდენ ხანს გაგრძელდება ისინი და როდის იქნება შედეგები
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+ასევე სასარგებლოა, თან იყოლიოთ ოჯახის წევრი ან მეგობარი, რომელიც ამ ადამიანს კარგად იცნობს. [NIA განმარტავს](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), რომ ექიმებმა შეიძლება ჰკითხონ როგორც თავად ადამიანს, ისე ოჯახის წევრს ჯანმრთელობის, წამლების, ყოველდღიური საქმიანობისა და ქცევის ცვლილებების შესახებ. ექიმებმა ასევე შეიძლება:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- ჩაატარონ მეხსიერების, პრობლემის გადაჭრის, ყურადღების, თვლისა და მეტყველების ტესტები
+- დანიშნონ სისხლის, შარდისა და სხვა ანალიზები სხვა მიზეზების გამოსარიცხად
+- შეამოწმონ დეპრესია ან ფსიქიკური ჯანმრთელობის სხვა მდგომარეობები
+- დანიშნონ თავის ტვინის ვიზუალური კვლევები, როგორიცაა CT ან MRI
+- გაგზავნონ სპეციალისტთან, მაგალითად გერიატრთან, ნევროლოგთან, გერიატრ ფსიქიატრთან ან ნეიროფსიქოლოგთან
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA აღნიშნავს, რომ კოგნიტური შეფასება Medicare-ის ყოველწლიური ჯანმრთელობის ვიზიტის (Medicare Annual Wellness Visit) სავალდებულო ნაწილია, რაც შეიძლება იყოს ბუნებრივი დრო საზრუნავის წასაჭრელად. იმ მოკლე ტესტებიც კი, რომლებსაც ექიმები იყენებენ, თავისთავად დიაგნოზისთვის საკმარისი არ არის. ისინი უფრო სრული შეფასების პირველი ნაბიჯია, და დიაგნოზს შეიძლება ერთ ვიზიტზე მეტი დასჭირდეს. NIA გვირჩევს, რომ მეხსიერების პრობლემების მქონე ადამიანები ექიმს ყოველ 6-დან 12 თვეში ერთხელ დაუბრუნდნენ.
 
-## Raising the subject kindly
+## თემის ნაზად წამოჭრა
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+თუ სხვა ადამიანზე ნერვიულობთ, აირჩიეთ მშვიდი, პირადი მომენტი. ისაუბრეთ კონკრეტულ საკითხებზე, რომლებიც შეგინიშნავთ, და ეს აღქმულ იქნეს როგორც მის ჯანმრთელობაზე ზრუნვა და არა კრიტიკა. ზოგადი შემოწმების შეთავაზება შეიძლება ნაკლებად შემაშფოთებლად ეჩვენოს ადამიანს. ჩართეთ ის გადაწყვეტილებების მიღებაში და ელაპარაკეთ მას როგორც ზრდასრულ ადამიანს. ჩვენი [კომუნიკაციის რჩევები](/caregiving/communication-tips/) შეიძლება დაგეხმაროთ.
 
-## Talk with a doctor
+## ისაუბრეთ ექიმთან
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+თუ თქვენ ან ახლობელ ადამიანში შეამჩნევთ მეხსიერების, აზროვნების, ხასიათის ან ყოველდღიური უნარების ახალ ცვლილებებს, რომლებიც გრძელდება, დანიშნეთ ვიზიტი პირველადი ჯანდაცვის ექიმთან. მოულოდნელი აღრევის შემთხვევაში დაუყოვნებლივ დარეკეთ 112-ზე ან დაუკავშირდით ადამიანის სამედიცინო მომსახურების მიმწოდებელს. დროული შემოწმება ნიშნავს, რომ სამკურნალო მიზეზების პოვნა შეიძლება და, თუ ეს დემენციაა, დაგეგმვისა და მხარდაჭერის პოვნისთვის მეტი დრო იქნება. ამ პროცესში საკუთარ თავზეც იზრუნეთ; იხილეთ ჩვენი [მზრუნველის საკუთარ თავზე ზრუნვის სახელმძღვანელო](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ეს გვერდი ზოგადი ინფორმაციაა და არა სამედიცინო რჩევა. იხილეთ ჩვენი [სამედიცინო პასუხისმგებლობის უარყოფა](/medical-disclaimer/).
