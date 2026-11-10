@@ -1,33 +1,35 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "უფასო დასაბეჭდი აქტივობები დემენციის დროს"
+seoTitle: "უფასო დასაბეჭდი აქტივობები: დიდი შრიფტი"
+description: "უფასო დასაბეჭდი აქტივობები დემენციის დროს: დიდი შრიფტით სიტყვების ძებნა, საღებარები, სასაუბრო და ბინგოს ბარათები, ბეჭდვის მარტივი რჩევებით."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments გთავაზობთ უფასო დასაბეჭდ აქტივობებს დემენციით მცხოვრები
+  ადამიანებისთვის: დიდი შრიფტით სიტყვების ძებნას, საღებარ გვერდებს, სურათებიან
+  სასაუბრო ბარათებსა და სურათებიან ბინგოს ბარათებს. გახსენით ნებისმიერი თამაშის
+  გვერდი და გამოიყენეთ მისი ბეჭდვის ღილაკი. ბეჭდეთ დიდი, მარტივი შრიფტით სქელ
+  ქაღალდზე, ერთ გვერდზე მხოლოდ ერთი დავალება მოათავსეთ და ლამინირება გაუკეთეთ
+  იმ გვერდებს, რომელთა ხელახლა გამოყენებაც გსურთ. მარტივი, სახლში მომზადებული
+  მასალებიც, მაგალითად ცხოვრების ისტორიის გვერდი ან დღის განრიგი, ძალიან
+  სასარგებლოა.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "ჩვენი დასაბეჭდი აქტივობები უფასოა: Word Search, Coloring, Conversation Cards და Picture Bingo. თითოეულ თამაშის გვერდზე არის ბეჭდვის ღილაკი."
+  - "ბეჭდეთ დიდი, მარტივი შრიფტითა და მკაფიო კონტრასტით და ერთ გვერდზე მხოლოდ ერთი დავალება მოათავსეთ."
+  - "სქელი ქაღალდი ან მუყაოს ქაღალდი ხელში დასაჭერად უფრო მარტივია და ნაკლებად ეხლართება. გვერდების ლამინირება საშუალებას იძლევა, ისინი მშრალი მარკერებით რამდენჯერმე გამოიყენოთ."
+  - "სახლში მომზადებული მარტივი მასალები, როგორიცაა ცხოვრების ისტორიის გვერდი, დღის განრიგი ან კარებზე სურათიანი წარწერები, მარტივი და სასარგებლოა."
+  - "დაბეჭდილი გვერდი მოწვევაა, არა საშინაო დავალება. მისი ნაწილი ან საერთოდ არცერთი ნაწილის შესრულება სრულიად მისაღებია."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "თქვენი დასაბეჭდი აქტივობები დემენციის დროს უფასოა?"
+    a: "დიახ. ამ საიტზე განთავსებული Word Search, Coloring, Conversation Cards და Picture Bingo გვერდების გამოყენება და დაბეჭდვა უფასოა. გახსენით თამაშის გვერდი და გამოიყენეთ ბეჭდვის ღილაკი."
+  - q: "რომელი დასაბეჭდი აქტივობებია ყველაზე შესაფერისი დემენციის დროს?"
+    a: "საუკეთესო დასაბეჭდი მასალები მარტივი, გასაგები და ზრდასრულებისთვის განკუთვნილია: დიდი შრიფტით სიტყვების ძებნა, სადაც სიტყვები მხოლოდ მარცხნიდან მარჯვნივ და ზემოდან ქვემოთ მიდის, საღებარი გვერდები მკაფიო კონტურებით, სურათიანი ბარათები, რომლებიც საუბარს იწყებს, და სურათიანი ბინგო ჯგუფებისთვის. აქტივობა შეარჩიეთ ადამიანის ინტერესებისა და მიმდინარე შესაძლებლობების მიხედვით და ერთ გვერდზე მხოლოდ ერთი დავალება მოათავსეთ."
+  - q: "როგორ გავხადო დასაბეჭდი მასალები უკეთ ხილული და გამოსაყენებელი?"
+    a: "გამოიყენეთ დიდი, მარტივი შრიფტი, მუქი მელანი თეთრ ან კრემისფერ ქაღალდზე და საკმარისი თავისუფალი ადგილი. ბეჭდეთ სქელ ქაღალდზე ან მუყაოს ქაღალდზე, რათა გვერდი ბრტყლად დარჩეს, აირჩიეთ მქრქალი ქაღალდი ნათების ანარეკლის შესამცირებლად და გამოიყენეთ სამაგრი დაფა ან არამოლიპე ზედაპირი გვერდის დასაფიქსირებლად. ლამინირება გვერდებს უფრო გამძლეს ხდის."
+  - q: "შემიძლია თქვენი აქტივობების დაბეჭდვა მოხუცთა თავშესაფრისთვის ან დღის პროგრამისთვის?"
+    a: "დიახ. აქტივობების ორგანიზატორებს შეიძლება დაბეჭდონ ჩვენი გვერდები მაცხოვრებლებისა და ჯგუფებისთვის. Picture Bingo განკუთვნილია ჯგუფებისთვის და მოიცავს ეკრანზე გამოსაჩენ წამყვანს, რომლის ჩვენებაც ტელევიზორზე ან პროექტორზე შეგიძლიათ."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +54,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+ზოგჯერ საუკეთესო აქტივობა სამზარეულოს მაგიდასთან დევს — ქაღალდის ფურცელი და კალამი. დასაბეჭდ მასალებს დატენვა, პაროლი ან ეკრანი არ სჭირდება და მათი ვიზიტზე ან ჯგუფურ შეხვედრაზე წაღება მარტივია. ამ გვერდზე აღწერილია ჩვენს საიტზე ხელმისაწვდომი უფასო დასაბეჭდი აქტივობები, მათი ისე დაბეჭდვის გზები, რომ ნახვა და დაჭერა მარტივი იყოს, და რამდენიმე მარტივი, სახლში მომზადებული მასალა, რომელიც ოჯახებსა და აქტივობების ორგანიზატორებს სასარგებლოდ ეხმარებათ.
 
-## What free printable activities do you offer?
+## რა უფასო დასაბეჭდ აქტივობებს გთავაზობთ?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+ჩვენ ოთხ უფასო დასაბეჭდ მასალას გთავაზობთ. გახსენით რომელიმე ამ თამაშის გვერდი და გამოიყენეთ **ბეჭდვის** ღილაკი, რომ მიიღოთ ბეჭდვისთვის მოსახერხებელი ვერსია.
 
-| Printable | What it is | Good for |
+| დასაბეჭდი მასალა | რა არის ეს | ვისთვის არის კარგი |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | დიდი შრიფტით სიტყვების ძებნა, სადაც სიტყვები მხოლოდ მარცხნიდან მარჯვნივ და ზემოდან ქვემოთ მიდის | მშვიდი დრო კალამთან ერთად; მათთვის, ვისაც თავსატეხები მოსწონდა |
+| [Coloring](/games/coloring/) | საღებარი გვერდები დასაბეჭდად ან ეკრანზე გასაფერადებლად | მშვიდი, შემოქმედებითი დრო; ნებისმიერ ეტაპზე დახმარებით |
+| [Conversation Cards](/games/conversation-cards/) | სურათიანი ბარათები ღია, გამოცანის გარეშე საუბრის დასაწყებად, თემების მიხედვით | ვიზიტები, ზარები, ოჯახური ვახშმები, მოგონებებზე დაფუძნებული ჯგუფები |
+| [Picture Bingo](/games/picture-bingo/) | ბინგოს ბარათები რიცხვების ნაცვლად სურათებით, ეკრანზე გამოსაჩენი წამყვანით | მოხუცთა თავშესაფრები, დღის პროგრამები, ოჯახური შეკრებები |
 
-### Large-print word search
+### დიდი შრიფტით სიტყვების ძებნა
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) იყენებს დიდ ასოებს და სიტყვები მხოლოდ მარცხნიდან მარჯვნივ და ზემოდან ქვემოთ მიდის, დიაგონალურად ან უკუღმა არა. იმუშავეთ ერთად: ერთი ადამიანი კითხულობს სიტყვას სიიდან, მეორე კი ეძებს მას. თუ სიტყვების პოვნა გაუძნელდა, სცადეთ ერთად შემოხაზოთ თითოეული სიტყვის პირველი ასო, ან უბრალოდ ხმამაღლა წაიკითხეთ სიტყვების სია და თითოეულ სიტყვაზე ისაუბრეთ.
 
-### Coloring pages
+### საღებარი გვერდები
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Coloring](/games/coloring/) გვერდების დაბეჭდვა შეიძლება მარკერებით ან ფერადი ფანქრებით გასაფერადებლად, ან პლანშეტზე გაფერადება — ფერზე შეხებით და შემდეგ სურათის ნაწილზე შეხებით. დაბეჭდილი გვერდებისთვის შესთავაზეთ სქელი მარკერები და ერთდროულად რამდენიმე ფერი. ნახეთ ჩვენი [ხელოვნებისა და ხელსაქმის სახელმძღვანელო](/activities/arts-and-crafts/), თუ როგორ შეგიძლიათ გაფერადება ზრდასრულისთვის მისაღები და მშვიდი საქმიანობა გახადოთ.
 
-### Conversation cards
+### სასაუბრო ბარათები
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) ნათელ სურათს აერთიანებს ღია კითხვასთან, მაგალითად: „მომიყევით ამის შესახებ...“ ან „რას ამჩნევთ?“. ისინი დაწერილია როგორც ღია მოწვევა და არა როგორც გამოცანის კითხვები. დაბეჭდეთ ნაკრები, დაჭერით ცალ-ცალკე და რამდენიმე ბარათი შეინახეთ ჩანთაში ვიზიტებისთვის ან ტელეფონთან ზარებისთვის. ისინი კარგად მუშაობს [მოგონებებზე დაფუძნებულ](/activities/reminiscence/) ჯგუფებშიც.
 
-### Picture bingo cards
+### სურათიანი ბინგოს ბარათები
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) ბარათები რიცხვების ნაცვლად სურათებს იყენებს. დაბეჭდეთ თითო ბარათი თითო მოთამაშეზე და გამოიყენეთ ეკრანზე გამოსაჩენი წამყვანი ლეპტოპზე, ტელევიზორზე ან პროექტორზე. ჩვენ გირჩევთ, თამაში გააგრძელოთ მანამ, სანამ ყველას ბარათი არ შეივსება, რათა არავინ დარჩეს ყურადღების გარეშე. ნახეთ [ჯგუფური აქტივობები მოხუცთა თავშესაფრებისთვის](/activities/care-home-groups/), თუ როგორ წარმართოთ შეხვედრა.
 
-## How do I print activities so they are easy to use?
+## როგორ დავბეჭდო აქტივობები ისე, რომ მათი გამოყენება მარტივი იყოს?
 
-Small changes in how you print make a big difference.
+ბეჭდვისას მცირე ცვლილებებიც დიდ განსხვავებას ქმნის.
 
-### Make it easy to see
+### გახადეთ კარგად ხილული
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **დიდი, მარტივი შრიფტი.** გამოიყენეთ ბეჭდვის ყველაზე დიდი ზომა, რომელიც გვერდზე ეტევა. მოერიდეთ დეკორატიულ ან ხელნაწერ შრიფტებს.
+- **მკაფიო კონტრასტი.** მუქი მელანი თეთრ ან კრემისფერ ქაღალდზე. არ გამოიყენოთ ღია ნაცრისფერი ან ფერადი ფონი.
+- **მქრქალი ქაღალდი** ამცირებს ნათების ანარეკლს ნათელ განათებაში.
+- **შეამოწმეთ სათვალე და განათება.** Alzheimer's Association აღნიშნავს, რომ მხედველობისა და სმენის სირთულეებს შეუძლია კომუნიკაცია გაართულოს და გირჩევთ მათ რეგულარულ შემოწმებას. ნათელი, თანაბარი განათებაც ეხმარება.
 
-### Make it easy to hold
+### გახადეთ ხელში დასაჭერად მარტივი
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **სქელი ქაღალდი ან მუყაოს ქაღალდი** ბრტყლად რჩება, უფრო მარტივად აიღება ხელში და ბევრჯერ გამოყენებას უკეთ უძლებს.
+- **სამაგრი დაფა** ან არამოლიპე სუფრის ქვეშსაგები გვერდს სრიალისგან იცავს.
+- **სქელი მარკერები ან მსხვილი ფანქრები** უფრო მარტივად იჭერება ხელში, ვიდრე თხელი კალმები.
 
-### Make it reusable
+### გახადეთ რამდენჯერმე გამოსაყენებელი
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **გაუკეთეთ გვერდებს ლამინირება** ან ჩასვით გამჭვირვალე პლასტმასის ჩანთებში. სიტყვების ძებნისა და ბინგოს ბარათებზე გამოიყენეთ მშრალი მარკერები, შემდეგ კი გაწმინდეთ.
+- **აირჩიეთ მქრქალი ლამინირების ფირები**, თუ ანარეკლი პრობლემას ქმნის, და **მომრგვალეთ კუთხეები** ლამინირებული ბარათებისთვის მაკრატლით, რათა ხელში დაჭერა უფრო მოსახერხებელი იყოს.
+- **შეინახეთ საყვარელი გვერდების საქაღალდე**, რათა ყოველ კვირას ერთი და იგივე გვერდის დაბეჭდვა აღარ მოგიწიოთ.
 
-### Keep it simple
+### შეინარჩუნეთ სიმარტივე
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **ერთ გვერდზე ერთი დავალება.** ერთი სიტყვების ძებნა ან ერთი სურათი, და არა რამდენიმე აქტივობა ერთად დატვირთულ გვერდზე.
+- **საკმარისი თავისუფალი ადგილი.** გადატვირთულმა გვერდმა შეიძლება დისკომფორტი გამოიწვიოს.
+- **სადაც შესაძლებელია, წასაკითხი ინსტრუქციები არ უნდა იყოს.** აჩვენეთ ადამიანს, რა უნდა გააკეთოს.
+- **დაჭერით გვერდი უფრო მცირე ზომად.** თუ მთელი გვერდი ზედმეტად ბევრია, გაჭერით შუაზე ან გადაკეცეთ ისე, რომ მხოლოდ ნაწილი ჩანდეს.
 
-## Other useful printables you can make at home
+## სხვა სასარგებლო დასაბეჭდი მასალები, რომელთა მომზადებაც სახლში შეგიძლიათ
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+ყველა სასარგებლო დასაბეჭდი მასალა თამაში არ არის. მათი მომზადება ტექსტური რედაქტორითა და პრინტერით მარტივია.
 
-### A life-story page
+### ცხოვრების ისტორიის გვერდი
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+ერთგვერდიანი „ჩემს შესახებ“ ფურცელი ფოტოთი, იმ სახელით, რომლითაც ადამიანს თავის მოხსენიება უყვარს,'information-ით, თუ სად გაიზარდა, რა სამსახური ჰქონდა, ოჯახის, საყვარელი საჭმლის, მუსიკისა და იმ ნივთების შესახებ, რაც მას ამშვიდებს ან აწუხებს. Dementia Australia გირჩევთ [მეხსიერების წიგნს](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia), სადაც ჩაწერილია დეტალები ადამიანის ცხოვრების, მისთვის სასურველი საკითხებისა და მნიშვნელოვანი ადამიანების შესახებ, რათა დაეხმაროს ვიზიტორებსა და მზრუნველებს და საუბარი გაამარტივოს.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+ეს განსაკუთრებით სასარგებლოა საავადმყოფოებსა და ახალ სამზრუნველო გარემოში. NIA გირჩევთ, საავადმყოფოს პერსონალს მისცეთ [პირადი ინფორმაციის ფურცელი](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), სადაც აღნიშნული იქნება ადამიანის რუტინა, სასურველი სახელი, რაც მოსწონს და არ მოსწონს, შესაძლო გამაღიზიანებლები და ტკივილის არავერბალური ნიშნები.
 
-### A daily schedule
+### დღის განრიგი
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+დიდი, მარტივი დღის განრიგი საათებით, რამდენიმე სიტყვითა და მცირე სურათით თითოეული ნაწილისთვის: საუზმე, გასეირნება, ლანჩი, დასვენება, მუსიკა, ვახშამი. Alzheimer's Association-ის [დღიური მოვლის გეგმა](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) გირჩევთ, დაგეგმვა მოახდინოთ დღის იმ პერიოდების გათვალისწინებით, როდესაც ადამიანს ყველაზე მეტი ენერგია აქვს, რეგულარული გაღვიძებისა და დაძინების დროით, აქტივობისა და დასვენების ბალანსით. გააკარით თვალის დონეზე, მაგალითად მაცივარზე, და შეინარჩუნეთ მოქნილობა. დამატებითი ინფორმაციისთვის ნახეთ ჩვენი [დღიური რუტინის სახელმძღვანელო](/activities/daily-routine/).
 
-### Picture labels for rooms and drawers
+### ოთახებისა და უჯრების სურათიანი წარწერები
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA გირჩევთ, გამოიყენოთ ნათელი ფერის ნიშნები ან მარტივი სურათები [სააბაზანოს, საძინებლისა და სამზარეულოს მოსანიშნად](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). იგივე იდეა გამოდგება უჯრებისთვისაც: წინდების სურათი წინდების უჯრაზე, ჭიქების სურათი ჭიქების კარადაზე. დაბეჭდეთ, გაუკეთეთ ლამინირება და მიამაგრეთ.
 
-### A sorting set
+### დასალაგებელი ნაკრები
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+დაბეჭდეთ სურათები ორი მარტივი კატეგორიიდან, მაგალითად ხილი და ყვავილები ან ხელსაწყოები და სამზარეულოს ნივთები, მუყაოს ქაღალდზე. დაჭერით ცალ-ცალკე და ერთად დაალაგეთ ორ კალათაში. ამის ეკრანული ვერსიაა [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### სიმღერების ტექსტის ფურცლები
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+დაბეჭდეთ რამდენიმე საყვარელი სიმღერის ტექსტი ძალიან დიდი შრიფტით ერთობლივი სიმღერისთვის. მათაც კი, ვინც უკვე ნაკლებად კითხულობს, შეიძლება სიამოვნებდეს ფურცლის ხელში დაჭერა.
 
-### A family photo page
+### ოჯახის ფოტოების გვერდი
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+ერთი გვერდი ოთხიდან ექვსამდე დიდი ოჯახური ფოტოთი, თითოეულის ქვეშ კი სახელით. ის შეიძლება მაგიდაზე იდოს, რათა ნებისმიერმა აიღოს და მასზე ისაუბროს. წარწერები ვიზიტორებსა და პერსონალს ეხმარება საუბარში ჩართვაში და არავის უწევს კითხვა: „ეს ვინ არის?“
 
-### A recipe card
+### რეცეპტის ბარათი
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+დაბეჭდეთ ოჯახის საყვარელი რეცეპტი დიდი შრიფტით. გამოიყენეთ იგი ერთად საჭმლის მოსამზადებლად, ან უბრალოდ წარსულში მიღებულ კერძებზე სასაუბროდ.
 
-## How do I offer a printable without it feeling like homework?
+## როგორ შევთავაზო დასაბეჭდი მასალა ისე, რომ საშინაო დავალებას არ დაემსგავსოს?
 
-Present it as something to share, not a test.
+წარუდგინეთ ის როგორც გასაზიარებელი რამ, არა როგორც გამოცდა.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **დაჯექით და თავად დაიწყეთ.** „მე ამ სიტყვების ძებნას ვაკეთებ. დამეხმარებით სიტყვის — „ბაღი“ — პოვნაში?“
+- **იმუშავეთ ერთად.** ცვალეთ რიგრიგობით, ან ერთმა იპოვოს და მეორემ შემოხაზოს.
+- **არასდროს მონიშნოთ სწორად ან არასწორად.** Alzheimer's Association-ის [სახლის აქტივობების სახელმძღვანელო](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) გირჩევთ, ყურადღება გაამახვილოთ პროცესზე და არა შედეგზე, სიამოვნებაზე და არა მიღწევაზე.
+- **დატოვეთ გვერდები თვალსაჩინო ადგილას.** იგივე სახელმძღვანელო გირჩევთ, ალბომები, ფოტოალბომები ან ძველი ჟურნალები ხელმისაწვდომ ადგილებში მოათავსოთ. დაბეჭდილი ბარათები და ფოტოები გვერდითაც შეიძლება ასევე იდოს გვერდითა მაგიდაზე.
+- **შეწყვიტეთ ნებისმიერ დროს.** ნახევრად გაფერადებული გვერდიც მშვენიერი შუადღეა. ისიც კარგია, თუ გვერდს გვერდზე გადადებთ და ჩაის მიირთმევთ.
 
-## Where to find more
+## სად იპოვოთ მეტი
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+დაათვალიერეთ ჩვენი ყველა [თამაში და დასაბეჭდი მასალა](/games/), ან ნახეთ [აქტივობები ყველა ეტაპისთვის](/activities/ideas/) მეტი იდეისთვის, ქაღალდით და ქაღალდის გარეშე.

@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "ᑕᐃᐱᕆ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᓘᑎ ᐋᖅᑭᒃᓯᒪᓂᖅ ᐃᓚᒋᔭᐅᔪᒧᑦ"
+seoTitle: "ᑕᐃᐱᕆ ᐅᖃᓘᑎ ᐋᖅᑭᒃᓯᒪᓂᖅ ᐃᓚᒋᔭᐅᔪᒧᑦ"
+description: "ᖃᓄᐃᓕᐅᕈᑎᑦ ᑕᐃᐱᕆᒥᒃ ᐅᖃᓘᑎᒥᒡᓘᓐᓃᑦ ᐋᖅᑭᒃᓯᒪᓂᕐᒧᑦ: ᐊᑕᐅᓯᕐᒧᑦ ᐱᓇᕋᖅᑐᒧᑦ ᑭᓯᐊᓂᓕᖕᓂᖅ, ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᖏᓂᖅᓴᐅᑎᑦᑎᓂᖅ, ᑐᓴᖅᑎᑕᐅᔪᑦ ᓄᖅᑲᖅᑎᑕᐅᓂᖏᑦ, ᐊᒻᒪ ᓴᖅᑭᑕᐅᓂᖏᑦ."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  ᑕᐃᐱᕆ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᓘᑎ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᑎᑎᓪᓗᒍ ᑐᓂᓯᓂᐊᖅᑎᓪᓗᒍ. ᐊᑕᐅᓯᕐᒧᑦ ᐱᓇᕋᖅᑐᒧᑦ ᑭᓯᐊᓂᓕᖕᓂᖅ Guided Access-ᒧᑦ ᐊᑐᕐᓗᒍ
+  iPad-ᒥ ᐅᕝᕙᓘᓐᓃᑦ iPhone-ᒥ ᐅᕝᕙᓘᓐᓃᑦ app pinning-ᒧᑦ Android-ᒥ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᑐᕐᓗᒍ Apple-ᑯᑦ
+  Assistive Access ᐊᔪᕐᓇᐅᓂᖅᓴᐅᓯᒪᔪᒥᒃ ᓴᖅᑭᑕᐅᓂᕐᒧᑦ. ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᖏᓂᖅᓴᐅᑎᑎᓪᓗᒋᑦ, ᑐᓴᖅᑎᑕᐅᔪᑦ
+  ᓄᖅᑲᖅᑎᑕᐅᓗᑎᒃ, ᐃᓚᒃᓴᐅᙱᑦᑐᑦ ᐱᓇᕋᖅᑐᑦ ᑭᓯᐊᓂ ᐊᑕᐅᓯᕐᒧᑦ ᓴᖅᑭᑕᐅᓂᕐᒧᑦ ᐱᖃᑎᖅᑎᓪᓗᒋᑦ, ᓂᐱᖓ
+  ᐋᖅᑭᒃᓯᒪᓗᒍ ᐱᒋᐊᕈᓐᓇᖅᑎᓪᓗᒍ, ᓇᓕᒧᒌᒃᑎᑕᐅᔪᒥᒃ ᐊᑐᕐᓗᑎᑦ, ᐊᒻᒪ ᐱᓇᕋᖅᑐᑦ ᐱᔪᓐᓇᐅᑎᖏᑦ ᐊᒻᒪ ᑐᑭᓯᒋᐊᕈᑎᖏᑦ
+  ᐊᑐᖅᑕᐅᓂᖏᑦ ᒥᑭᓪᓕᑎᑕᐅᓗᑎᒃ. ᐊᑐᕐᓗᒍ ᑲᑐᔾᔨᖃᑎᒌᓪᓗᑎᑦ, ᐃᒪᓐᓇᐅᓂᖏᑦ ᑕᑯᒃᓴᐅᑎᑕᐅᙱᑦᑐᓂᒃ ᐱᓇᕋᐅᑎᓂᒃ
+  ᐊᑐᖃᑦᑕᖅᓗᑎᑦ.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ᐊᒻᒪ app pinning (Android) ᑕᑯᒃᓴᐅᑎᑕᐅᔪᖅ ᐊᑕᐅᓯᕐᒧᑦ ᐱᓇᕋᖅᑐᒧᑦ ᑭᓯᐊᓂᒃᑲᓐᓂᖅᑐᑦ ᒪᑐᐃᖓᔪᖅ ᓇᕿᑦᑕᐅᓂᖓᓄᑦ."
+  - "Apple-ᑯᑦ Assistive Access ᓴᖅᑭᑎᑦᑎᔪᖅ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᓯᒪᔪᒥᒃ ᓴᖅᑭᑕᐅᓂᕐᒥᒃ ᐃᓄᓐᓄᑦ ᐳᒍᖅᑕᐃᓕᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᖃᕐᓗᑎᒃ ᐃᓕᑕᕆᔭᐅᔪᓄᑦ ᐋᖅᑭᒃᓯᒪᔪᒥᒃ."
+  - "ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᖏᓂᖅᓴᐅᑎᑎᓪᓗᒋᑦ ᐊᒻᒪ ᑐᓴᖅᑎᑕᐅᔪᑦ ᓄᖅᑲᖅᑎᑕᐅᓗᑎᒃ, ᓴᓇᐅᒐᖃᙱᓗᑎᒃ ᓄᖅᑲᖓᓂᖃᖁᓇᒃᑐᒥᒃ."
+  - "ᐃᓚᒃᓴᐅᙱᑦᑐᑦ ᐱᓇᕋᖅᑐᑦ ᑭᓯᐊᓂ ᐊᑕᐅᓯᕐᒧᑦ ᓴᖅᑭᑕᐅᓂᕐᒧᑦ ᐱᖃᑎᖅᑎᓪᓗᒋᑦ, ᓂᐱᖓ ᐋᖅᑭᒃᓯᒪᓗᒍ ᐱᒋᐊᕈᓐᓇᖅᑎᓪᓗᒍ."
+  - "ᓇᓕᒧᒌᒃᑎᑕᐅᔪᖅ ᐊᒻᒪ ᐃᑯᒪᓪᓗᐊᕈᑎᖃᕐᕕᒃ ᓅᑦᑕᐅᙱᑦᑐᖅ ᐊᑐᕐᓂᖅ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᑎᑦᑎᕗᖅ ᓇᓂᓯᓂᕐᒥᒡᓗ."
+  - "ᐱᓇᕋᖅᑐᑦ ᐱᔪᓐᓇᐅᑎᖏᑦ ᐊᒻᒪ ᑐᑭᓯᒋᐊᕈᑎᖏᑦ ᐊᑐᖅᑕᐅᓂᖏᑦ ᕿᒥᕐᕈᓗᒋᑦ: HIPAA ᐊᒥᓱᓂᒃ ᓴᐳᒻᒥᔭᙱᓚᖅ ᓇᖕᒥᓂᖅ ᐱᖁᑎᒥᒃ ᑐᖅᑯᖅᓯᒪᔪᒥᒃ."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "ᖃᓄᖅ ᐃᓄᒃ ᐳᒍᖅᑕᐃᓕᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᖃᕐᓗᓂ ᐃᖅᑲᐅᒪᔪᖅ ᐱᓇᕋᖅᑐᒥᒃ ᐊᓂᔪᓐᓇᙱᑦᑎᔭᕈᓐᓇᖅᐳᖅ iPad-ᒥ?"
+    a: "Guided Access ᐃᑲᔪᖅᑎᑕᐅᓗᒍ ᐅᕘᓇ Settings > Accessibility > Guided Access ᐊᒻᒪ ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᓈᓴᐅᑎ ᐋᖅᑭᒃᓱᒍ. ᐱᓇᕋᖅᑐᖅ ᒪᑐᐃᖅᑕᐅᔪᖅ ᒪᑐᐃᖅᓯᓗᒍ, ᖁᓕᒃᑲᒃᑯᑦ ᓇᕿᓪᓗᒍ ᖁᓛᓂ ᓇᕿᑦᑕᐅᑦ (ᐅᕝᕙᓘᓐᓃᑦ Home ᓇᕿᑦᑕᐅᑦ ᐅᑐᖃᒃᑯᓂ iPad-ᓂ), ᐊᒻᒪ Start ᓇᕿᓪᓗᒍ. iPad ᑕᐃᑲᓂ ᐱᓇᕋᖅᑐᒥ ᐃᓗᓕᖃᖅᑐᖅ ᑭᓯᐊᓂ ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᓈᓴᐅᑎ ᑎᑎᕋᖅᓯᒪᑎᓪᓗᒍ."
+  - q: "ᖃᓄᖅ Android ᑕᐃᐱᕆ ᐊᑕᐅᓯᕐᒧᑦ ᐱᓇᕋᖅᑐᒧᑦ ᑭᓯᐊᓂᓕᖕᓂᖅ ᓴᖅᑭᑕᐅᕙ?"
+    a: "App pinning ᐃᑲᔪᖅᑎᑕᐅᓗᒍ Settings ᐱᓇᕋᖅᑐᒥ, ᐊᒥᓱᓂᒃ Security (ᐃᓚᖏᑦ Security & location) > Advanced > App pinning ᐅᕙᓂ. ᑕᒡᕘᓇ ᐱᓇᕋᖅᑐᖅ ᒪᑐᐃᖅᓯᓗᒍ, Overview ᒪᑐᐃᖅᓯᓗᒍ, ᐱᓇᕋᖅᑐᐅᑉ ᓇᓗᓇᐃᒃᑯᑕᖓ ᖁᓛᓂ ᓇᕿᓪᓗᒍ ᐊᒻᒪ Pin ᓇᕿᓪᓗᒍ. PIN, ᑎᑎᕋᖅᓯᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᐅᖃᐅᓯᖅ ᐱᔭᕆᐊᖃᖅᑐᖅ ᑭᓯᐊᓂᓕᖕᓂᖅ ᓄᖅᑲᖅᑎᑕᐅᓂᐊᕐᓂᖓᓄᑦ."
+  - q: "ᐊᑦᑕᕐᓇᙱᑦᑐᖅ Guided Access ᐊᑐᕐᓂᖅ ᐃᓄᐅᑉ ᓇᖕᒥᓂᖅ ᐅᖃᓘᑎᖓᓂ?"
+    a: "ᐃᖅᑲᐅᒪᓂᖅᓴᐅᒃᑲᓐᓂᕆᑦ. Apple ᐅᖃᖅᑐᖅ Crash Detection ᐊᒻᒪ Emergency Services ᐱᔪᓐᓇᙱᓐᓂᖏᑦ Guided Access ᐃᑲᔪᖅᑎᑕᐅᑎᓪᓗᒍ. ᐃᓄᒃ ᐅᖃᓘᑎᒥᓂᒃ ᑐᖅᑯᒋᐊᕐᓂᐊᕐᒪᖔᑦ ᐊᑦᑕᕐᓇᓕᒃᑯᑦ ᖃᐃᖁᔭᐅᑦᑎᐊᕐᓂᕐᒧᑦ, Guided Access ᐊᑐᕐᓗᒍ ᑭᓯᐊᓂ ᐃᓚᒋᔭᐅᒋᐊᕐᓗᒍ, ᐅᕝᕙᓘᓐᓃᑦ Assistive Access ᐃᓱᒪᒋᔭᐅᓗᒍ."
+  - q: "ᖃᓄᖅ ᐊᑯᓂ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᒧᑦ ᐊᑐᕐᓂᖅ ᓈᒻᒪᒃᑐᖅ ᐃᓄᒻᒧᑦ ᐳᒍᖅᑕᐃᓕᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᖃᕐᓗᓂ ᐃᖅᑲᐅᒪᔪᒧᑦ?"
+    a: "ᓈᓴᐅᑎᖃᙱᑦᑐᖅ ᐋᖅᑭᒃᓯᒪᔪᖅ. ᓇᐃᑦᑐᑦ, ᑲᑐᔾᔨᖃᑎᒌᒃᑐᑦ ᐊᑐᕐᓂᖏᑦ ᐱᓯᒪᕕᒋᓗᒋᑦ ᐱᓱᓐᓂᕐᒧᑦ, ᓂᐱᓕᐅᕐᓂᕐᒧᑦ, ᐃᒡᓗᒥ ᐱᓇᕋᐅᑎᓄᑦ ᐊᒻᒪ ᐅᖃᓕᒫᕐᓂᕐᒧᑦ ᐅᓪᓗᖅ ᐱᐅᓂᖅᓴᐅᕙᖕᒪᖔᑦ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᖅ ᐃᓄᒻᒧᑦ ᐊᑐᖅᑕᐅᔪᒃᑯᑦ ᐊᑯᓂ. ᐱᖁᑎ ᐊᔪᕐᓇᓂᖃᕐᒪᖔᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᖏᓐᓂᒃ ᐱᓇᕋᐅᑎᓂᒃ ᓄᖅᑲᖓᓂᖃᕐᒪᖔᑦ, ᐊᑐᕐᓗᒍ ᒥᑭᓪᓕᒋᐊᕐᓗᒍ."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+ᑕᐃᐱᕆ ᐱᐅᔪᒥᒃ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ ᐊᔾᔨᙳᐊᓂᒃ ᑕᑯᓗᒋᑦ, ᓂᐱᓂᒃ ᐊᒻᒪ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᔪᓂᒃ ᐱᓇᕋᐅᑎᓂᒃ. ᑕᒪᓐᓇᓗ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᖅᑐᖅ: ᓇᕿᓂᖅ ᑕᒪᒃᑭᐊᖅ ᐊᓯᐊᒍᑦ ᐱᓇᕋᖅᑐᒥᒃ ᒪᑐᐃᖅᑎᑦᑎᕗᖅ, ᑐᓴᖅᑎᑕᐅᔪᖅ ᓴᖅᑭᕗᖅ, ᑎᑎᕋᖅᓯᒪᔪᑦ ᒥᑭᔪᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᖅ ᖃᒻᒪᖅᑐᖅ ᐱᓇᕋᐅᑎᐅᑉ ᕿᑎᕐᒥᐊᓂ. ᒥᑭᔪᒥᒃ ᐋᖅᑭᒃᓯᒪᓂᕐᒧᑦ ᐱᓇᕋᕐᓂᖅ ᑕᒪᕐᒥᒃ ᐊᒥᓱᓂᒃ ᐋᖅᑭᒋᐊᖅᑕᐅᔪᓐᓇᖅᑐᖅ.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+ᑖᒃᑯᐊ ᒪᓕᒃᑕᐅᓂᖏᑦ ᐊᑐᖅᑐᑦ iPhone, iPad ᐊᒻᒪ Android ᐃᓗᐊᓂ ᐋᖅᑭᒃᓯᒪᓂᕐᒧᑦ ᐱᖁᑎᓂᒃ. ᓇᓗᓇᐃᒃᑯᑕᐃᑦ ᐊᑎᖏᑦ ᐊᓯᔾᔨᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐱᖁᑎᐅᑉ ᓄᑖᖑᓂᖓᓄᑦ ᐊᒻᒪ ᓴᓇᔭᐅᔪᐅᑉ ᐊᔾᔨᒌᙱᓐᓂᖓᓄᑦ, ᑕᐃᒪᐃᒻᒪᖔᑦ ᐊᔾᔨᒌᒃᐸᑦ, ᑕᑯᒋᐊᕐᓗᒋᑦ ᑐᕌᖓᔪᑦ Apple ᐅᕝᕙᓘᓐᓃᑦ Google ᒪᒃᐱᖅᑐᐃᔪᑦ ᐱᖁᑎᕐᓄᑦ. ᐋᖅᑭᒃᓯᒪᓂᖅ ᐃᕐᓂᐊᖅᑎᑦᑎᓗᒍ, ᑲᑐᔾᔨᖃᑎᒌᓪᓗᑎᑦ ᐃᖅᑲᐃᓂᐊᖅᑎᓪᓗᑎᑦ.
 
-## Should someone with dementia use a tablet or phone?
+## ᐃᓄᒃ ᐳᒍᖅᑕᐃᓕᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᖃᕐᓗᓂ ᐃᖅᑲᐅᒪᔪᖅ ᑕᐃᐱᕆᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᓘᑎᒥᒃ ᐊᑐᕐᓂᐊᖅᐸᖓ?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+ᐃᓄᒻᒧᑦ ᐊᔾᔨᒌᙱᑦᑐᖅ. ᐃᓄᑦ ᐊᒥᓱᑦ ᖁᕕᐊᓱᒃᑐᑦ ᑕᐃᐱᕆᒥᒃ ᐊᑐᕐᓂᕐᒥᒃ ᐃᓚᒋᔭᐅᒋᐊᕐᓗᒍ, ᐃᓄᒻᒧᑦ ᐊᑐᕐᓂᐊᖅᑎᑕᐅᔪᓐᓇᙱᒃᑲᓗᐊᕐᒥᔪᑦ. ᐱᒋᐊᕐᓗᒍ ᑲᑐᔾᔨᖃᑎᒌᓪᓗᑎᑦ ᐊᑐᕐᓗᒍ, ᐊᑕᐅᓯᕐᒧᑦ ᐱᓇᕋᖅᑐᒧᑦ ᒪᑐᐃᖅᓯᒪᓗᑎᑦ, ᒥᑭᔪᑦ ᒥᓂᑦᓰᑦ. ᖁᕕᐊᓇᖅᑐᒥᒃ ᐅᖃᓕᒫᕐᓂᕐᒥᒡᓘᓐᓃᑦ ᓴᖅᑭᑎᑦᑎᒃᐸᑦ, ᑲᔪᓯᑎᑕᐅᓗᒍ. ᓇᓗᓇᐃᖅᓯᓯᒪᒃᐸᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᔪᕐᓇᓂᖃᕐᒪᖔᑦ, ᐊᔾᔨᙳᐊᓄᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓂᐱᖃᖅᑐᑦ ᐱᐅᓂᖅᓴᐅᔪᓐᓇᖅᑐᑦ. ᑎᑎᕋᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐱᓇᕋᐅᑎᕗᑦ [ᑎᑎᕋᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐱᓇᕋᐅᑎᑦ](/activities/printable/) ᐊᓯᖏᓐᓂ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᑦ.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+ᑕᐃᐱᕆ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᕙᖕᒪᖔᑦ ᐅᖃᓘᑎᒥᑦ: ᑕᑯᒃᓴᐅᑎᑕᐅᔪᖅ ᐊᒻᒪ ᐊᔾᔨᙳᐊᑦ ᐊᖏᓂᖅᓴᐅᕗᑦ, ᐊᒻᒪ ᐃᓄᐅᑉ ᐊᑦᑕᕐᓇᓕᒃᑯᑦ ᖃᐃᖁᔭᐅᑦᑎᐊᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᙱᑦᑐᖅ.
 
-## How do I lock a tablet or phone to one app?
+## ᖃᓄᖅ ᑕᐃᐱᕆ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᓘᑎ ᐊᑕᐅᓯᕐᒧᑦ ᐱᓇᕋᖅᑐᒧᑦ ᑭᓯᐊᓂᓕᖕᓂᖅ ᓴᖅᑭᑕᐅᕙ?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Guided Access ᐊᑐᕐᓗᒍ iPhone-ᒥ ᐊᒻᒪ iPad-ᒥ, ᐅᕝᕙᓘᓐᓃᑦ app pinning Android-ᒥ. ᑕᒪᕐᒥᒃ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᖅ ᐊᑕᐅᓯᕐᒧᑦ ᐱᓇᕋᖅᑐᒧᑦ ᑭᓯᐊᓂᒃᑲᓐᓂᖅᑐᑦ ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᓈᓴᐅᑎ ᑎᑎᕋᖅᑎᑕᐅᓂᖓᓄᑦ, ᑕᐃᒪᐃᒻᒪᑦ ᓇᕿᓂᖅ ᑕᒪᒃᑭᐊᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᐊᒍᑦ ᐊᓂᔪᓐᓇᙱᑦᑎᔪᖅ ᐊᓯᐊᒍᑦ ᐱᓇᕋᖅᑐᒧᑦ.
 
-### iPad and iPhone: Guided Access
+### iPad ᐊᒻᒪ iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple-ᑯᑦ Guided Access ᒪᓕᒃᑕᐅᓂᖏᑦ](https://support.apple.com/en-us/111795) ᒪᓕᒃᑎᑕᐅᓗᒋᑦ:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. ᒪᑐᐃᖅᓯᓗᒍ **Settings**, ᓇᕿᓪᓗᒍ **Accessibility**, ᑕᒡᕘᓇ ᓇᕿᓪᓗᒍ **Guided Access** ᐊᒻᒪ ᐃᑲᔪᖅᑎᑕᐅᓗᒍ.
+2. **Passcode Settings** ᐊᑖᓂ, Guided Access ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᓈᓴᐅᑎ ᐋᖅᑭᒃᓱᒍ. Face ID ᐅᕝᕙᓘᓐᓃᑦ Touch ID ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ.
+3. ᐱᔪᒪᒋᐊᕈᒪᒍᕕᒃ: **Display Auto-Lock** ᐊᑖᓂ, ᖃᓄᖅ ᑐᕌᖓᓂᒃᑯᑦ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᖅ ᑭᓯᐊᓂᖃᕐᓂᖓ ᓂᕈᐊᕐᓗᒍ, ᐱᓇᕋᐅᑎᐅᑉ ᕿᑎᕐᒥᐊᓂ ᖃᒻᒪᖅᑎᑕᐅᔪᒃᓴᐅᙱᓗᑎᒃ.
+4. ᐱᓇᕋᖅᑐᖅ ᐊᑐᕐᓂᐊᕐᓂᕐᓄᑦ ᒪᑐᐃᖅᓯᓗᒍ.
+5. ᖁᓕᒃᑲᒃᑯᑦ ᓇᕿᓪᓗᒍ ᓴᓂᒧᑦ ᓇᕿᑦᑕᐅᑦ (iPhone), ᖁᓛᓂ ᓇᕿᑦᑕᐅᑦ (iPad), ᐅᕝᕙᓘᓐᓃᑦ Home ᓇᕿᑦᑕᐅᑦ ᐅᑐᖃᒃᑯᓂ ᐱᖁᑎᓂ.
+6. ᐱᔪᒪᒋᐊᕈᒪᒍᕕᒃ: ᑕᑯᒃᓴᐅᑎᑕᐅᔪᐅᑉ ᐃᓚᖏᑦ ᐊᒻᒪᓗᑎᒃ ᓇᕿᓂᖅ ᓄᖅᑲᖓᓂᖃᖁᓇᒃᑕᐅᓗᑎᒃ. **Options** (ᐅᕝᕙᓘᓐᓃᑦ **Session Settings**) ᓇᕿᓪᓗᒍ ᓂᐱᐅᑉ ᓇᕿᑦᑕᐅᖏᑦ ᓄᖅᑲᖅᑎᑕᐅᓗᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᖅ ᒪᒃᐱᖅᑐᐃᔪᒃᓴᐅᙱᓗᑎᒃ.
+7. **Start** ᓇᕿᓪᓗᒍ.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+ᐱᓇᕋᐅᑎᖅ ᓄᖅᑲᖅᑎᑕᐅᔪᒪᒍᕕᒃ, ᑕᐃᒃᑯᐊ ᓇᕿᑦᑕᐅᑦ ᖁᓕᒃᑲᒃᑯᑦ ᓇᕿᓪᓗᒍ, ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᓈᓴᐅᑎ ᑎᑎᕋᖅᓯᓗᒍ, ᐊᒻᒪ **End** ᓇᕿᓪᓗᒍ. Apple ᐅᖃᖅᑐᖅ ᐃᓚᖏᑦ ᐅᑐᖃᒃᑯᑦ ᐱᖁᑎᓂ ᒪᕐᕉᒃᑲᒃᑯᑦ ᓇᕿᔭᕆᐊᖃᖅᑐᖅ.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**ᐱᒻᒪᕆᐅᔪᖅ:** Apple ᐅᖃᖅᑐᖅ Crash Detection ᐊᒻᒪ Emergency Services ᐱᔪᓐᓇᙱᓐᓂᖏᑦ Guided Access ᐱᓇᕋᐅᑎᐅᑉ ᐃᓗᐊᓂ. Guided Access ᐃᑲᔪᖅᑎᑕᐅᓯᒪᓗᑎᒃ ᐅᖃᓘᑎᒥ ᐃᓄᒃ ᐊᑦᑕᕐᓇᓕᒃᑯᑦ ᖃᐃᖁᔭᐅᑦᑎᐊᕐᓂᐊᕐᒪᖔᑦ ᐱᔾᔪᑕᐅᔪᒥᒃ.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google-ᑯᑦ Android ᐃᑲᔪᖅᑐᐃᓂᖏᑦ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᓂᒃ ᑭᓯᐊᓂᓕᖕᓂᕐᒧᑦ](https://support.google.com/android/answer/9455138?hl=en) ᒪᓕᒃᑎᑕᐅᓗᒋᑦ:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. **Settings** ᐱᓇᕋᖅᑐᖅ ᒪᑐᐃᖅᓯᓗᒍ.
+2. ᓇᕿᓪᓗᒍ **Security** (ᐅᕝᕙᓘᓐᓃᑦ **Security & location**), ᑕᒡᕘᓇ **Advanced**, ᑕᒡᕘᓇ **App pinning**. ᓇᓂᔭᐅᙱᒃᐸᑦ, ᐱᖁᑎᕐᓄᑦ ᓴᓇᔭᐅᔪᐅᑉ ᐃᑲᔪᖅᑐᐃᓂᖏᑦ ᕿᓂᕐᓗᒋᑦ.
+3. **App pinning** ᐃᑲᔪᖅᑎᑕᐅᓗᒍ. PIN, ᑎᑎᕋᖅᓯᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᐅᖃᐅᓯᖅ ᐱᔭᕆᐊᖃᖅᑐᖅ ᑭᓯᐊᓂᓕᖕᓂᖅ ᓄᖅᑲᖅᑎᑕᐅᓂᐊᕐᓂᖓᓄᑦ.
+4. ᐱᓇᕋᖅᑐᖅ ᐱᔪᒪᔭᕐᓂᒃ ᒪᑐᐃᖅᓯᓗᒍ. ᖁᓛᒧᑦ ᐊᓂᓗᑎᑦ ᕿᑎᕐᒧᑦ ᓇᕿᓪᓗᒍ ᐊᒻᒪ ᓄᓇᒥ ᑕᐃᒃᑯᐊ ᓇᕿᓪᓗᒍ Overview ᒪᑐᐃᖅᑎᑕᐅᓂᐊᕐᓂᖓᓄᑦ (ᐅᕝᕙᓘᓐᓃᑦ Overview ᓇᕿᓪᓗᒍ 3-ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᐊᑐᖅᑎᓪᓗᒍ).
+5. ᐱᓇᕋᖅᑐᐅᑉ ᑕᑯᔭᐅᓂᖓᑕ ᖁᓛᓂ, ᐱᓇᕋᖅᑐᐅᑉ ᓇᓗᓇᐃᒃᑯᑕᖓ ᓇᕿᓪᓗᒍ, ᑕᒡᕘᓇ **Pin** ᓇᕿᓪᓗᒍ.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+ᑭᓯᐊᓂᓕᖕᓂᖅ ᓄᖅᑲᖅᑎᑕᐅᔪᒪᒍᕕᒃ, ᖁᓛᒧᑦ ᐊᓂᓗᑎᑦ ᓇᕿᓪᓗᒍ ᐊᒻᒪ ᓄᓇᒥ ᑕᐃᒃᑯᐊ ᓇᕿᓪᓗᒍ. 3-ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᐊᑐᖅᑎᓪᓗᒍ, Back ᐊᒻᒪ Overview ᓇᕿᓪᓗᒍ ᓄᓇᒥ ᑕᐃᒃᑯᐊ. 2-ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᐊᑐᖅᑎᓪᓗᒍ, Back ᐊᒻᒪ Home ᓇᕿᓪᓗᒍ ᓄᓇᒥ ᑕᐃᒃᑯᐊ. ᑕᒡᕘᓇ PIN, ᑎᑎᕋᖅᓯᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᐅᖃᐅᓯᖅ ᑎᑎᕋᖅᓯᓗᒍ.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## ᐊᔪᕐᓇᐅᓂᖅᓴᐅᔪᖅ ᐋᖅᑭᒃᓯᒪᓂᖅ ᐃᓗᓕᒻᒧᑦ iPhone-ᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ iPad-ᒧᑦ ᐱᔪᓐᓇᖅᐸᖓ?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+ᐄ, ᐱᔪᓐᓇᖅᑐᖅ. Apple-ᑯᑦ Assistive Access ᓴᖅᑭᑕᐅᔪᖅ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᔪᒥᒃ ᐃᓪᓗᐃᑦ ᓴᖅᑭᑕᐅᓂᖓᓂᒃ ᐊᓯᐊᓄᑦ. [Apple ᐅᖃᖅᑐᖅ](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) iPhone ᐊᔪᕐᓇᐅᓂᖅᓴᐅᑎᑕᐅᔪᒪᖔᑦ ᐃᓄᓐᓄᑦ ᐳᒍᖅᑕᐃᓕᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᖃᕐᓗᑎᒃ ᐃᓕᑕᕆᔭᐅᔪᓄᑦ ᐃᓄᒻᒧᑦ ᐊᑐᕐᓂᐊᕐᓂᖓᓄᑦ, ᐊᖏᓂᖅᓴᐅᔪᓂᒃ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᓂᒃ ᐊᒻᒪ ᐱᓇᕋᐅᑎᓂᒃ ᑐᕌᖓᓂᖃᖅᑐᓂᒃ. Apple ᓴᖅᑭᑎᑦᑎᕗᖅ [ᑕᐃᒃᑯᐊ ᐱᖁᑎᒥᒃ iPad-ᒧᑦ](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **ᑭᓇ ᐋᖅᑭᒃᓯᒪᔪᖅ.** Apple ᐅᖃᖅᑐᖅ ᐅᑉᐱᕐᓇᖅᑐᒥᒃ ᐃᑲᔪᖅᑎᒥᒃ, ᓲᕐᓗ ᐃᓚᒋᔭᐅᔪᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐱᔨᑦᑎᕋᖅᑎᒥᒃ ᐃᓄᒥᒃ ᖃᐅᔨᒪᔪᒥᒃ, ᐃᑲᔪᕈᓐᓇᖅᑐᒥᒃ ᓂᕈᐊᕐᓂᕐᒥᒃ ᐱᓇᕋᖅᑐᓂᒃ ᐊᒻᒪ ᐱᓇᕋᐅᑎᓂᒃ.
+- **ᓇᓂ ᐱᒋᐊᕐᓂᖅ.** ᐅᕗᖓ **Settings > Accessibility > Assistive Access**, ᓇᕿᓪᓗᒍ **Set Up Assistive Access**, ᑕᒡᕘᓇ **Continue**.
+- **ᐱᓇᕋᖅᑐᑦ.** ᓂᕈᐊᕐᓂᐊᖅᑕᑦ ᐱᓇᕋᖅᑐᑦ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᑦ. ᐃᓚᖏᑦ Apple ᐱᓇᕋᖅᑐᖏᑦ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᓯᒪᔪᓂᒃ ᐋᖅᑭᒃᓯᒪᓂᖃᖅᑐᑦ, ᐊᒻᒪ ᐊᒥᓱᑦ ᐊᓯᖏᑦ ᐱᓇᕋᖅᑐᑦ ᐃᓗᓕᖏᑦ ᓴᖅᑭᑕᐅᓯᒪᔪᑦ ᐃᓛᒃᑰᖅᑎᑕᐅᔪᓐᓇᖅᑐᑦ.
+- **ᓴᖅᑭᑕᐅᓂᖅ.** ᓂᕈᐊᕐᓗᒍ **Rows** (ᐅᖃᓕᒫᕈᓐᓇᐅᔪᖅ ᑎᑎᕋᖅᓯᒪᔪᑦ) ᐅᕝᕙᓘᓐᓃᑦ **Grid** (ᐊᖏᓂᖅᓴᐅᔪᑦ ᐊᔾᔨᙳᐊᓂᒃ ᐊᒻᒪ ᓇᓗᓇᐃᒃᑯᑕᓂᒃ ᑕᑯᒃᓴᐅᑎᑦᑎᔪᑦ).
+- **ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᓈᓴᐅᑎ.** Assistive Access ᐃᓗᐊᓂ ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᓈᓴᐅᑎ ᐋᖅᑭᒃᓯᒪᔪᖅ ᐃᓯᕐᓂᐊᕐᓂᕐᒧᑦ, ᐊᓂᕐᓂᐊᕐᓂᕐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐋᖅᑭᒃᓯᒪᓂᕐᒧᑦ ᐊᓯᔾᔨᖅᑕᐅᓂᐊᕐᓂᖓᓄᑦ. Apple ᐅᖃᖅᑐᖅ ᐅᑎᖅᑎᑕᐅᓂᖓ ᐃᓗᐊᓂ Apple Account ᐋᖅᑭᒃᓯᒪᓗᒍ, ᑕᐃᒪᐃᙱᑉᐸᑦ ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᓈᓴᐅᑎ ᐳᐃᒍᖅᑕᐅᒃᐸᑦ ᐱᖁᑎ ᓄᑖᙳᕆᐊᖅᑕᐅᔪᖅ.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access ᐱᐅᔪᓐᓇᖅᑐᖅ ᐃᓄᒻᒧᑦ ᓇᖕᒥᓂᖅ ᐱᖁᑎᒥᒃ ᐅᓪᓗᑕᒫᑦ ᐊᑐᖅᑐᒧᑦ. Guided Access ᐅᕝᕙᓘᓐᓃᑦ app pinning ᑐᐊᕕᕐᓇᖅᑐᖅ ᑲᑐᔾᔨᖃᑎᒌᒃᑐᒥᒃ ᐱᓇᕋᐅᑎᒧᑦ.
 
-## How do I make text and pictures bigger?
+## ᖃᓄᖅ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᒻᒪ ᐊᔾᔨᙳᐊᑦ ᐊᖏᓂᖅᓴᐅᑎᑕᐅᕙ?
 
-Increase the text and display size, then check that buttons still fit on screen.
+ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᖏᓂᖅᓴᐅᑎᑎᓪᓗᒋᑦ, ᑕᒡᕘᓇ ᕿᒥᕐᕈᓗᒋᑦ ᓇᕿᑦᑕᐅᑦ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᒥ ᑎᑭᓗᒋᑦ.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ᐊᒻᒪ iPad.** [Apple-ᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᖏᓂᖓᓂᒃ ᒪᓕᒃᑕᐅᓂᖏᑦ](https://support.apple.com/en-us/102453) ᒪᓕᒃᑎᑕᐅᓗᒋᑦ, ᐅᕗᖓ **Settings > Display & Brightness > Text Size** ᐊᒻᒪ ᓅᑦᑎᐊᕈᑎ ᓅᑦᑎᓪᓗᒍ. ᐊᖏᓂᖅᓴᐅᓂᖅᓴᐅᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐱᔪᒪᒍᕕᒃ, ᐅᕗᖓ **Settings > Accessibility > Display & Text Size > Larger Text**. Apple ᐅᖃᖅᑐᖅ ᐊᖏᓂᖅᓴᐅᔪᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐃᓚᖏᑦ ᓇᕿᑦᑕᐅᑦ ᓇᕿᓂᕐᒧᑦ ᐊᔪᕐᓇᓂᖅᓴᐅᑎᑦᑎᔪᓐᓇᖅᑐᑦ, ᑕᐃᒪᐃᒻᒪᑦ ᐋᖅᑭᒋᐊᕐᓗᒍ ᐱᔭᕆᐊᖃᕐᒪᖔᑦ.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google-ᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᓄᑦ ᐊᒻᒪ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᓄᑦ ᐋᖅᑭᒃᓯᒪᓂᕐᒧᑦ ᐃᑲᔪᖅᑐᐃᓂᖏᑦ](https://support.google.com/accessibility/android/answer/11183305?hl=en) ᒪᓕᒃᑎᑕᐅᓗᒋᑦ, **Settings** ᒪᑐᐃᖅᓯᓗᒍ ᐊᒻᒪ ᕿᓂᕐᓗᒍ **Font size**, ᑕᒡᕘᓇ ᓅᑦᑎᐊᕈᑎ ᓅᑦᑎᓪᓗᒍ. **Display size** ᕿᓂᕐᓗᒍ ᑕᒪᕐᒥᒃ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᒥ ᐊᖏᓂᖅᓴᐅᑎᑕᐅᓂᐊᕐᓂᖓᓄᑦ. **Bold text** ᐃᑲᔪᖅᑎᑕᐅᔪᓐᓇᖅᑐᖅ **Accessibility > Display size and text** ᐊᑖᓂ. ᐃᓚᖏᑦ ᐱᓇᕋᖅᑐᑦ ᑖᒃᑯᓄᖓ ᐋᖅᑭᒃᓯᒪᓂᕐᓄᑦ ᒪᓕᒃᑎᑕᐅᙱᑦᑐᑦ.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+ᐱᓇᕋᐅᑎᓂ ᓲᕐᓗ [Picture Pairs](/games/picture-pairs/) ᐊᒻᒪ [Find the Same](/games/find-the-same/), ᐃᓚᒃᓴᐅᙱᑦᑐᓂᒃ ᐊᔾᔨᙳᐊᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓂᕈᐊᕈᑎᓂᒃ ᓂᕈᐊᕐᓂᐊᖅᑐᑎᑦ, ᑕᐃᒪᐃᒃ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᑎᑦᑎᕗᖅ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᒥ.
 
-## How do I stop notifications and pop-ups?
+## ᖃᓄᖅ ᑐᓴᖅᑎᑕᐅᔪᑦ ᐊᒻᒪ ᓴᖅᑭᔪᑦ ᓄᖅᑲᖅᑎᑕᐅᔪᑦ ᓄᖅᑲᖓᓂᖃᖁᓇᒃᑕᐅᕙ?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+ᐱᔭᕆᐊᖃᙱᑦᑐᓄᑦ ᐱᓇᕋᖅᑐᓄᑦ ᑐᓴᖅᑎᑕᐅᔪᑦ ᓄᖅᑲᖅᑎᑕᐅᓗᑎᒃ, ᐊᒻᒪ Do Not Disturb ᐊᑐᕐᓗᒍ ᐱᓇᕋᐅᑎᐅᑉ ᐃᓗᐊᓂ.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ᐊᒻᒪ iPad.** ᐅᕗᖓ **Settings > Notifications**, ᐱᓇᕋᖅᑐᖅ ᓇᕿᓪᓗᒍ **Notification Style** ᐊᑖᓂ, ᐊᒻᒪ **Allow Notifications** ᓄᖅᑲᖅᑎᑕᐅᓗᒍ ([Apple-ᑯᑦ ᑐᓴᖅᑎᑕᐅᔪᓂᒃ ᐋᖅᑭᒃᓯᒪᓂᕐᒧᑦ ᒪᓕᒃᑕᐅᓂᖏᑦ](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). ᖃᐃᖁᔭᐅᑦᑎᐊᕐᓂᖅ, ᓇᓗᐊᖅᑕᐅᔪᑦ ᐊᒻᒪ ᑐᓴᖅᑎᑕᐅᔪᑦ ᓂᐱᖃᙱᓗᑎᒃ, Control Center ᒪᑐᐃᖅᓯᓗᒍ ᐊᒻᒪ **Do Not Disturb** ᐃᑲᔪᖅᑎᑕᐅᓗᒍ **Focus** ᓇᕿᑦᑕᐅᑦ ᐃᓗᐊᓂ ([Apple-ᑯᑦ Do Not Disturb ᐃᑲᔪᖅᑐᐃᓂᖓ](https://support.apple.com/en-us/105112)). ᐱᕕᒃᓴᖃᕈᓐᓇᖅᑐᖅ **Settings > Focus > Do Not Disturb > Set a Schedule** ᐊᑖᓂ.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** ᖁᓛᓂᑦ ᐊᑖᒧᑦ ᐊᓂᓗᑎᑦ ᓇᕿᓪᓗᒍ ᐊᒻᒪ **Do Not Disturb** ᓇᕿᓪᓗᒍ, ᐅᕝᕙᓘᓐᓃᑦ ᐅᕗᖓ **Settings > Modes > Do Not Disturb** ([Google-ᑯᑦ Do Not Disturb ᐃᑲᔪᖅᑐᐃᓂᖓ](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters** ᐊᑖᓂ ᓂᕈᐊᕐᓂᐊᖅᑐᑎᑦ ᑭᓇᐅᓂᑦ ᐃᓄᐃᑦ ᐊᒻᒪ ᐱᓇᕋᖅᑐᑦ ᓱᓕ ᑐᓴᖅᑎᑕᐅᔪᓐᓇᖅᑐᑦ. ᐋᖅᑭᒃᓯᒪᓂᖏᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ ᐱᖁᑎᐅᑉ ᓴᓇᔭᐅᔪᖓᓄᑦ.
 
-## How do I make a simple home screen?
+## ᖃᓄᖅ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᔪᖅ ᐃᓪᓗᐃᑦ ᓴᖅᑭᑕᐅᓂᖅ ᓴᖅᑭᑕᐅᕙ?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+ᐃᓚᒃᓴᐅᙱᑦᑐᑦ ᖃᐅᔨᒪᔪᑦ ᐱᓇᕋᖅᑐᑦ ᐊᑕᐅᓯᕐᒧᑦ ᓴᖅᑭᑕᐅᓂᕐᒧᑦ ᐱᖃᑎᖅᑎᓪᓗᒋᑦ, ᐊᓯᖏᑦ ᑕᑯᒃᓴᐅᙱᑦᑐᒧᑦ ᓅᑎᓪᓗᒋᑦ. ᑕᐃᒪᐃᙱᑦᑐᖅ ᐊᑕᐅᓯᕐᒧᑦ ᐋᖅᑭᒃᓯᒪᓂᖅ; ᓇᓗᓇᐃᖅᓯᔪᖃᙱᑦᑐᓂᒃ ᐲᕐᓂᖅ ᐱᔪᓐᓇᖅᑐᖅ.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **ᐱᖓᓱᓂᒃ ᐱᖓᓱᓄᓪᓘᓐᓃᑦ ᐱᓇᕋᖅᑐᓂᒃ ᓂᕈᐊᕐᓗᒍ.** ᓲᕐᓗ, ᐊᔾᔨᙳᐊᑦ, ᓂᐱᖃᖅᑐᑦ, ᑕᑯᓐᓇᒐᖅᑐᓂᒃ ᐅᖃᖃᑎᒌᓐᓂᖅ ᐊᒻᒪ ᐊᑕᐅᓯᖅ ᐱᓇᕋᐅᑎ.
+- **ᓯᕗᓪᓕᖅᐹᒥ ᓴᖅᑭᑕᐅᓂᕐᒧᑦ ᐃᓕᓗᒋᑦ,** ᑕᐃᒃᑯᐊ ᐃᓂᖏᓐᓂ ᑕᐃᒪᐃᓯᒪᓗᑎᒃ, ᐊᓯᖏᑦ ᑐᒡᓕᐊᓄᑦ ᓴᖅᑭᑕᐅᓂᕐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑲᑎᑕᐅᔪᒧᑦ ᓅᑎᓪᓗᒋᑦ.
+- **ᓴᓇᐅᒐᖃᙱᑦᑐᒥᒃ ᑕᑯᔭᐅᔪᒥᒃ ᐊᔾᔨᒌᙱᑦᑐᒥᒃ ᕿᓚᒥᕈᓗᑎᑦ,** ᓲᕐᓗ ᐊᑕᐅᓯᕐᒧᑦ ᖃᓪᓗᓈᑎᑐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑕᐅᓯᕐᒧᑦ ᖃᐅᔨᒪᔪᒥᒃ ᐊᔾᔨᙳᐊᒥᒃ, ᓇᓗᓇᐃᒃᑯᑕᑦ ᑕᑯᒃᓴᐅᓂᖅᓴᐅᓂᐊᕐᒪᑕ.
+- **ᐱᔭᕆᐊᖃᙱᑦᑕᑦ ᐱᓇᕋᖅᑐᑦ ᐲᕐᓗᒋᑦ.** ᐃᓚᒃᓴᐅᙱᑦᑐᑦ ᐱᓇᕋᖅᑐᑦ ᓇᓗᓇᐃᖅᓯᓯᒪᓂᖅ ᒥᑭᓪᓕᕗᖅ ᐊᒻᒪ ᑐᑭᓯᒋᐊᕈᑎᑦ ᑲᑎᑕᐅᔪᑦ ᒥᑭᓪᓕᕗᑦ.
+- **Assistive Access ᐃᓱᒪᒋᔭᐅᓗᒍ** Apple ᐱᖁᑎᓂ ᐱᖁᑎ ᐃᓄᒻᒧᑦ ᑕᐃᒪᐃᓕᐅᕈᒪᒍᕕᒃ.
 
-## What about volume and sound?
+## ᓂᐱᖓ ᐊᒻᒪ ᓂᐱᖃᖅᑐᑦ ᖃᓄᖅ ᐱᔪᓐᓇᖅᐳᑦ?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+ᓂᐱᖓ ᐱᐅᔪᖅ ᐋᖅᑭᒃᓯᒪᓗᒍ ᑐᓂᓯᓂᐊᖅᑎᓪᓗᒍᓂ. Guided Access ᐊᑐᖅᑎᓪᓗᒍ, ᓂᐱᐅᑉ ᓇᕿᑦᑕᐅᖏᑦ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑐᑦ ᐱᓇᕋᐅᑎᐅᑉ ᕿᑎᕐᒥᐊᓂ ᐊᓯᔾᔨᖅᑕᐅᔪᒃᓴᐅᙱᓗᑎᒃ. ᑐᓵᔪᑦ ᐃᓕᓗᒋᑦ ᐊᒻᒪ ᐱᓇᕋᖅᑐᑦ ᕿᒥᕐᕈᓗᒋᑦ.
 
-## Where should the tablet live?
+## ᓇᓂ ᑕᐃᐱᕆ ᐃᓂᖃᕈᓐᓇᖅᐳᖅ?
 
-Give it a stand and a permanent charging spot.
+ᓇᓕᒧᒌᒃᑎᑕᐅᔪᖅ ᐊᒻᒪ ᐃᑯᒪᓪᓗᐊᕈᑎᖃᕐᕕᒃ ᓅᑦᑕᐅᙱᑦᑐᖅ ᑐᓂᓯᓗᒍ.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **ᓇᓕᒧᒌᒃᑎᑕᐅᔪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐴᖅᑐᖅ** ᑕᐃᐱᕆ ᓇᓕᒧᐊᖅᑎᑦᑎᕗᖅ ᓂᕿᑦᑎᐊᕙᐅᑉ ᖄᖓᓂ, ᑭᓯᐊᓂ ᑎᒍᒥᐊᕐᓂᖅ ᐱᔭᕆᐊᖃᙱᑦᑐᖅ, ᐊᒻᒪ ᓇᕿᓂᖅ ᐊᔪᕐᓇᐅᓂᖅᓴᐅᕗᖅ.
+- **ᐊᑕᐅᓯᕐᒧᑦ ᐃᑯᒪᓪᓗᐊᕈᑎᖃᕐᕕᒃ** ᓅᑦᑕᐅᙱᑦᑐᖅ, ᐃᑯᒪᓪᓗᐊᕈᑎᖃᕐᕕᖃᖅᑐᖅ ᓂᕿᑦᑎᐊᕙᐅᑉ ᖄᖓᓂ ᐅᓪᓗᑕᒫᑦ ᐊᑐᖅᑕᐅᔪᒥ ᐃᒡᓗᒥ. ᑕᐃᐱᕆ ᑕᐃᒪᐃᓯᒪᓗᑎᒃ ᐃᑯᒪᓪᓗᐊᖅᑐᖅ ᐊᒻᒪ ᑕᐃᒃᑯᐊ ᐃᓂᖃᖅᑐᖅ.
+- **ᖃᐅᒻᒪᖅ ᒥᑭᓪᓕᑎᑕᐅᓗᒍ.** ᑕᑯᒃᓴᐅᑎᑕᐅᔪᖅ ᐃᒐᓛᖅᑐᒥᑦ ᖃᐅᒻᒪᕐᓂᖅᓴᐅᔪᒥᑦ ᐅᖓᓯᒃᑐᒧᑦ ᐃᓕᓗᒍ.
 
-## How much screen time is okay?
+## ᖃᓄᖅ ᐊᑯᓂ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᒧᑦ ᐊᑐᕐᓂᖅ ᓈᒻᒪᒃᑐᖅ?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+ᓈᓴᐅᑎᖃᙱᑦᑐᖅ ᒥᓂᑦᓯᐅᑎᓄᑦ. ᓇᐃᑦᑐᑦ, ᑲᑐᔾᔨᖃᑎᒌᒃᑐᑦ ᐊᑐᕐᓂᖏᑦ ᐅᓪᓗᐅᑉ ᐃᓗᐊᓂ ᐃᓚᒋᔭᐅᓗᑎᒃ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᕐᒧᑦ, ᓂᐱᓕᐅᕐᓂᕐᒧᑦ, ᐃᒡᓗᒥ ᐱᓇᕋᐅᑎᓄᑦ, ᐅᖃᓕᒫᕐᓂᕐᒧᑦ ᐊᒻᒪ ᓯᓚᒧᑦ ᐊᓂᕐᓂᕐᒧᑦ. ᐅᓐᓄᐊᒧᑦ ᐱᓇᕋᐅᑎᑦ ᐊᔪᕐᓇᓂᖃᕐᓂᖏᑦ ᐃᓱᒪᒋᔭᐅᒍᓐᓇᖅᑐᑦ, ᑕᐃᒪᐃᒻᒪᑦ ᑕᑯᒃᓴᐅᑎᑕᐅᔪᒧᑦ ᐊᑐᕐᓂᖅ ᐅᓪᓗᐊᒧᑦ ᐱᔭᕆᐊᖃᖅᑎᑕᐅᓗᒍ. ᑕᑯᒋᐊᕐᓗᒍ [ᐅᓐᓄᐊᒧᑦ ᐊᔪᕐᓇᓂᖅᓴᐅᔪᑦ ᐱᓇᕋᐅᑎᑦ](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+ᑕᐃᐱᕆ ᑲᑐᔾᔨᖃᑎᒌᒃᑐᒥᒃ ᐊᑐᕐᓂᖅ, ᐃᓄᒻᒧᑦ ᐊᑐᖅᑕᐅᔪᒃᑯᑦ ᐱᓇᕋᐅᑎᒥᒃ ᑐᕌᖓᑎᑕᐅᙱᑦᑐᒥᒃ, ᐃᓄᖕᒧᑦ ᑲᑐᔾᔨᖃᑎᒌᓐᓂᖅ ᐱᐅᔪᖅ. ᒪᓕᒃᑕᐅᓂᕗᑦ [ᑲᑐᔾᔨᖃᑎᒌᒃᑐᒥᒃ ᐱᓇᕋᐅᑎᓂᒃ ᐱᓇᕋᕐᓂᖅ](/caregiving/how-to-play-together/) ᐅᖃᐅᓯᖃᖅᑐᖅ ᖃᓄᖅ.
 
-## How do I protect their privacy on the device?
+## ᖃᓄᖅ ᓴᖅᑭᑕᐅᓂᖓ ᐱᖁᑎᖏᑦ ᓴᐳᒻᒥᔭᐅᕙ?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+ᐱᓇᕋᖅᑐᑦ ᑲᑎᑕᐅᔪᓐᓇᖅᑐᑦ ᒥᑭᓪᓕᑎᑕᐅᓗᑎᒃ, ᐊᒻᒪ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓄᑦ ᓴᐳᒻᒥᔭᐅᓂᕐᒧᑦ ᒪᓕᒐᖏᑦ ᓴᐳᒻᒥᔭᐅᓂᖏᑦ ᐃᓱᒪᒋᔭᐅᔪᒃᓴᐅᙱᓗᑎᒃ. U.S. Department of Health and Human Services (HHS) [ᐅᖃᖅᑐᖅ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA ᒪᓕᒐᖏᑦ ᐊᒥᓱᓂᒃ ᓴᐳᒻᒥᔭᙱᓚᖏᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓄᑦ ᑐᑭᓯᒋᐊᕈᑎᑦ ᑐᖅᑯᖅᓯᒪᔪᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑐᖅᑕᐅᔪᑦ ᓇᖕᒥᓂᖅ ᐅᖃᓘᑎᓂ ᐊᒻᒪ ᑕᐃᐱᕆᓂ. ᐊᒥᓱᓂᒃ, HIPAA ᓴᐳᒻᒥᔭᙱᓚᖏᑦ ᑐᑭᓯᒋᐊᕈᑎᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐱᓇᕋᖅᑐᓄᑦ ᓇᖕᒥᓂᖅ ᐊᑐᖅᑕᐅᔪᓄᑦ ᑭᓯᐊᓂ ᐱᓇᕋᖅᑐᖅ ᐱᔭᐅᓯᒪᙱᒃᐸᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓄᑦ ᐱᔨᑦᑎᕋᖅᑎᒥᒃ, ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓄᑦ ᑮᓇᐅᔭᓕᕆᓂᕐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐱᓇᕋᖅᑎᖏᓐᓄᑦ.
 
-HHS suggests:
+HHS ᐅᖃᐅᓯᖃᖅᑐᖅ:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- ᐱᔭᕆᐊᖃᙱᑦᑐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑐᖅᑕᐅᙱᑦᑐᓂᒃ ᐱᓇᕋᖅᑐᓂᒃ ᐊᑐᕐᓂᕐᒥᒃ ᐃᖅᑲᐅᒪᓗᑎᑦ, ᐱᓗᐊᖅᑐᒥᒃ "ᐊᑭᖃᙱᑦᑐᓂᒃ";
+- ᐱᓇᕋᖅᑐᓄᑦ ᓇᓂ ᐃᓂᖃᕐᓂᖓ ᑐᓂᓯᓂᕐᒥᒃ ᐃᖅᑲᐅᒪᓗᑎᑦ ᐱᔭᕆᐊᖃᙱᒃᐸᑦ, ᓲᕐᓗ ᓄᓇᙳᐊᓄᑦ ᑎᑎᕋᕐᕕᐅᔪᓄᑦ.
 
-Also consider:
+ᑖᒃᑯᓄᖓ ᐃᓱᒪᒋᔭᐅᓗᑎᑦ:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **ᓇᕿᑦᑕᐅᓂᕐᒧᑦ ᓈᓴᐅᑎ ᐊᑐᕐᓗᒍ** ᐱᖁᑎᒥ, ᐊᒻᒪ ᑎᑎᕋᖅᓯᒪᓗᒍ ᐊᑦᑕᕐᓇᙱᑦᑐᒥ ᐃᓂᒥ.
+- **ᐱᔪᓐᓇᐅᑎᑦ ᕿᒥᕐᕈᓗᒋᑦ** ᐊᔾᔨᙳᐊᓄᑦ, ᐊᔾᔨᓕᐅᕐᕕᒻᒧᑦ, ᓂᐱᖃᖅᑎᑕᐅᔪᒧᑦ, ᐅᖃᖃᑎᒌᓐᓂᕐᒧᑦ ᐊᒻᒪ ᓇᓂ ᐃᓂᖃᕐᓂᕐᒧᑦ, ᐊᒻᒪ ᐱᔭᕆᐊᖃᙱᑦᑐᑦ ᓄᖅᑲᖅᑎᑕᐅᓗᑎᒃ.
+- **ᖃᓄᖅ ᐱᓇᕋᖅᑐᖅ ᑲᑎᑎᔪᖅ** ᐃᓕᓗᒍ ᐃᓕᓯᓂᐊᖅᑎᓪᓗᒍᓂ. ᒪᓕᒃᑕᐅᓂᕗᑦ [ᐳᒍᖅᑕᐃᓕᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᖃᕐᓗᓂ ᐃᖅᑲᐅᒪᔪᓄᑦ ᐱᓇᕋᖅᑐᓂᒃ ᐊᒻᒪ ᐱᓇᕋᐅᑎᓂᒃ ᓂᕈᐊᕐᓂᖅ](/caregiving/choosing-apps-and-games/) ᓴᐳᒻᒥᔭᐅᓂᕐᒧᑦ ᕿᒥᕐᕈᓂᕐᒧᑦ ᑎᑎᕋᖅᓯᒪᔪᖃᖅᑐᖅ.
+- **ᐃᓚᒋᔭᐅᔪᑦ ᐊᔾᔨᙳᐊᖏᑦ ᐃᖅᑲᐅᒪᓂᖅᓴᐅᒃᑲᓐᓂᕐᓗᒋᑦ.** ᐃᓄᐅᑉ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖏᑦ ᐊᔾᔨᙳᐊᑦ ᑭᓯᐊᓂ ᑐᓂᓯᓗᒋᑦ, ᐊᒻᒪ ᓇᓂ ᐱᓇᕋᖅᑐᖅ ᑐᖅᑯᖅᓯᒪᔪᖅ ᖃᐅᔨᓗᒍ. [Photo Pairs](/games/photo-pairs/) ᐃᓗᐊᓂ, ᓂᕈᐊᖅᑕᑦ ᐊᔾᔨᙳᐊᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑕᑯᔪᖃᑦᑕᕐᕕᒻᓂ ᐃᓂᖃᖅᑐᑦ.
+- **ᐱᓇᕋᖅᑐᐅᑉ ᐃᓗᐊᓂ ᓂᐅᕕᐊᒃᓴᖃᕐᓂᖅ ᓄᖅᑲᖅᑎᑕᐅᓗᒍ** ᐅᕝᕙᓘᓐᓃᑦ ᓇᖕᒥᓂᖅ ᐊᑭᓕᕆᓂᕐᒧᑦ ᑐᑭᓯᒋᐊᕈᑎᑦ ᐲᕐᓗᒋᑦ ᐃᓄᐅᑉ ᐊᑐᖅᑕᐅᔪᒥ.

@@ -1,33 +1,33 @@
 ---
-title: "Kegiatan Ngenang: Kothak Kenangan, Cariyos Gesang, lan Foto"
-seoTitle: "Kegiatan Ngenang kangge Demensia: Tanpa Nguji"
-description: "Cara nuwuhaken kenangan sesarengan kaliyan tiyang demensia tanpa nguji: rembagan foto, kothak kenangan, lan buku cariyos gesang, kaliyan ukara ingkang nentremaken."
+title: "Kegiatan Ngeling-eling: Kothak lan Crita Urip"
+seoTitle: "Kegiatan Ngeling-eling Demensia Tanpa Kuis"
+description: "Carane nuduhake kenangan bareng wong sing urip kanthi demensia tanpa kuis: ngobrol foto, kothak kenangan, lan buku crita urip kanthi tentrem."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ngenang tegesipun nikmati jaman rumiyin sesarengan lumantar foto, barang,
-  musik, lan cariyos. Damel kothak kenangan, nyusun buku cariyos gesang
-  ingkang prasaja, utawi mirsani foto sesandhingan. Sampun nguji: lewatana
-  “Punapa éling?” lan “Menika sinten?” lan ngginakaken ajakan ingkang mbikak
-  kadosta “Mangga dipuncariyosi bab menika.” Rembagan ingkang anget langkung
-  wigati tinimbang leres-lepasing katrangan.
+  Ngeling-eling tegese ngrasakake masa kepungkur bareng liwat foto, barang,
+  musik, lan crita. Gawea kothak kenangan, susun buku crita urip sing prasaja,
+  utawa delengen foto bebarengan. Aja tau menehi kuis: aja takon “Apa
+  Panjenengan kelingan?” lan “Iki sapa?” nanging gunakake ajakan sing mbukak
+  kaya “Critakna bab iki.” Obrolan sing hangat luwih wigati tinimbang bener
+  utawa ora rinciane.
 keyPoints:
-  - "Ngenang menika rembagan, sanes ujian. Ingkang wigati sanes ketepatanipun, nanging kasenenganipun."
-  - "Gantos 'Punapa éling...?' lan 'Menika sinten?' kaliyan komentar lan ajakan kadosta 'Mangga dipuncariyosi bab dinten menika.'"
-  - "Kothak kenangan ingkang isinipun barang saking gesangipun tiyang menika maringi tangan lan rembagan samubarang kangge dipunsepeng."
-  - "Buku cariyos gesang mbiyantu kulawarga, tamu, lan petugas perawatan mangertos tiyang menika, sanes namung diagnosisipun."
-  - "Manawi satunggal kenangan damel sedhih, nglipur rumiyin lan alon-alon pindhah dhateng pokok sanes."
+  - "Ngeling-eling iku obrolan, dudu tes. Bener ora bener ora dadi masalah; sing penting rasa senenge."
+  - "Ganti “Apa Panjenengan kelingan...?” lan “Iki sapa?” nganggo komentar lan ajakan kaya “Critakna bab dina iki.”"
+  - "Kothak kenangan isi barang-barang saka uripe wong iku bisa dadi gantalan kanggo tangan lan obrolan."
+  - "Buku crita urip mbantu kulawarga, tamu, lan petugas perawatan luwih kenal marang wong iku, ora mung kahanane."
+  - "Yen ana kenangan sing ndadekake sedhih, paringana panglipur dhisik banjur alon-alon pindhah menyang topik liya."
 faq:
-  - q: "Ngenang kangge tiyang demensia menika punapa?"
-    a: "Ngenang menika nuwuhaken kenangan lan pengalaman jaman rumiyin, asring kanthi bantuan foto, barang, musik, utawi video. Saged dipuntindakaken kaliyan satunggal tiyang utawi ing kelompok. Tujuanipun inggih menika rembagan ingkang nyenengaken lan wigati, sanes nguji punapa ingkang saged dipunelingi tiyang menika."
-  - q: "Kenging punapa kula sampun tanglet 'Punapa éling?'"
-    a: "Pitakenan ingkang nguji kenangan saged damel tiyang ngraos isin utawi kuwatos manawi wangsulanipun boten kepanggih. National Institute on Aging nyebataken tanglet punapa tiyang éling samubarang utawi tiyang tartamtu ing antawisipun ingkang kedah dipunsingkiri. Komentara punapa ingkang katingal, lan sumangga tiyang menika nambahi punapa kemawon ingkang dipunremeni."
-  - q: "Punapa ingkang kedah dipunlebetaken wonten kothak kenangan?"
-    a: "Pilih barang ingkang aman lan kiyat ingkang gegayutan kaliyan gesangipun tiyang menika: barang saking pakaryanipun, piranti hobi, selendang kesenenganipun, kartu pos, kartu resep, tetenger olahraga, utawi salinan foto. Singkiri barang landhep, barang alit ingkang saged dipuntelan, lan asli ingkang boten saged dipungantos."
-  - q: "Kados pundi manawi piyambakipun lepat bab katrangan?"
-    a: "Sumangga. Manawi ibu panjenengan ngendika foto menika sedherekipun estri nanging sejatosipun sepupunipun, menika boten punapa-punapa. Mbenerake ndadosaken wekdal ingkang anget dados ujian. Tututi cariyos ingkang dipuncariyosaken piyambakipun lan nikmati sesarengan."
+  - q: "Apa iku ngeling-eling kanggo wong sing urip kanthi demensia?"
+    a: "Ngeling-eling yaiku nuduhake kenangan lan pengalaman kepungkur, asring kanthi bantuan foto, barang, musik, utawa video. Iki bisa ditindakake karo wong siji utawa ing klompok. Tujuane yaiku obrolan sing nyenengake lan nduweni makna, dudu nguji apa sing bisa dieling-eling."
+  - q: "Yagene aku ora oleh takon “Apa Panjenengan kelingan?”"
+    a: "Pitakonan sing nguji daya eling bisa ndadekake wong rumangsa isin utawa kuwatir yen wangsulane ora teka. National Institute on Aging nyebutake yen nakoni apa wong kelingan sawijining bab utawa wong kalebu bab sing kudu diendhani. Coba wenehana komentar babagan apa sing katon, banjur keparenga wong iku nambahake apa wae sing dikarepake."
+  - q: "Apa wae sing kudu dilebokake ing kothak kenangan?"
+    a: "Pilih barang sing aman lan kuwat sing ana gegayutane karo uripe wong iku: piranti kerja, barang hobi, selendang favorit, kartu pos, kartu resep, oleh-oleh olahraga, utawa salinan foto. Aja nggunakake barang landhep, barang cilik sing bisa diuntal, lan barang asli sing ora bisa diganti."
+  - q: "Piye yen rinciane ora bener?"
+    a: "Aja digatekake. Yen ibu Panjenengan kandha yen foto iku nuduhake adhine nalika sejatine sedulure, ora apa-apa. Mbenerake bisa ngowahi wektu sing hangat dadi kaya tes. Tindakake wae crita sing dicritakake lan senengi bareng-bareng."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -42,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Ngenang namung tegesipun nikmati jaman rumiyin sesarengan. Kangge kathah tiyang ingkang gesang kaliyan demensia, kenangan saking pinten-pinten dasa warsa kapengker langkung cetha tinimbang ingkang kelampahan enjing menika. Foto, barang ingkang sampun akrab, musik, lan cariyos saged mbikak kenangan menika lan maringi panjenengan samubarang ingkang anget kangge dipunbagèkaken. Aturanipun namung satunggal: menika rembagan, boten nate kuis.
+Ngeling-eling tegese mung ngrasakake masa kepungkur bareng-bareng. Kanggo akeh wong sing urip kanthi demensia, kenangan saka puluhan taun kepungkur bisa tetep luwih cetha tinimbang apa sing kedadeyan esuk iki. Foto, barang sing akrab, musik, lan crita bisa mbukak kenangan mau lan menehi bab sing hangat kanggo dituduhake bareng. Aturan siji-sijine: iki obrolan, dudu kuis.
 
-## Ngenang menika punapa, lan kados pundi bedanipun kaliyan nguji?
+## Apa iku ngeling-eling, lan apa bedane karo kuis?
 
-Ngenang menika nuwuhaken kenangan lumantar foto, barang, musik, utawi video, miturut irama tiyang menika piyambak. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nggambaraken menika minangka nuwuhaken pengalaman lan cariyos jaman rumiyin kanthi bantuan foto, barang, video, utawi musik, wonten ing buku utawi ing tablet. Nguji menika benten: nuntut tiyang menika maringi wangsulan ingkang leres, lan menika saged damel isin, sanes seneng.
+Ngeling-eling yaiku nuduhake kenangan liwat foto, barang, musik, utawa video, kanthi irama sing nyaman kanggo wong iku. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nerangake iki minangka nuduhake pengalaman lan crita kepungkur kanthi bantuan foto, barang, video, utawa musik, ing buku utawa ing tablet. Kuis kuwi beda: kuis njaluk wong menehi wangsulan sing bener, lan iki bisa ndadekake rasa isin tinimbang rasa seneng.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) nyebataken tanglet punapa tiyang éling samubarang utawi tiyang tartamtu minangka ingkang kedah dipunsingkiri. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nyaranaken nyingkiri pitakenan ingkang gumantung dhateng kenangan cekak lan ngrembag jaman ingkang langkung tebih.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) nyebutake yen nakoni apa wong kelingan sawijining bab utawa wong kalebu bab sing kudu diendhani. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nyaranake supaya ngendhani pitakonan sing gumantung marang daya eling jangka cendhak lan luwih becik ngobrol babagan masa kepungkur sing luwih lawas.
 
-| Gantosipun | Cobi |
+| Tinimbang | Coba |
 | --- | --- |
-| “Punapa éling menika?” | “Menika katingalipun dinten ingkang bingah. Mangga dipuncariyosi.” |
-| “Menika sinten?” | “Menika Budhe Sri wonten pantai. Pirsani topinipun.” |
-| “Taun pinten menika?” | “Menika katingalipun griya lami. Kados pundi gesang wonten ngriku?” |
-| “Boten, menika sanes Pak Joko, menika Pak Bambang.” | “Panjenenganipun katingal kathah kasenenganipun.” |
-| “Panjenengan sampun nyariyosaken menika.” | “Kula remen cariyos menika.” |
+| “Apa Panjenengan kelingan iki?” | “Iki katon kaya dina sing nyenengake. Critakna bab iki.” |
+| “Iki sapa?” | “Iki Bude Rose ing pantai. Delengen topine.” |
+| “Iki taun pira?” | “Iki katon kaya omah biyen. Piye rasane manggon ing kana?” |
+| “Ora, iku dudu Pak Bill, iku Pak Frank.” | “Dheweke katon seneng banget.” |
+| “Panjenengan wis crita bab iku.” | “Aku seneng crita iku.” |
 
-## Kados pundi rembagan bab foto tanpa nguji?
+## Piye carane ngobrol babagan foto tanpa kuis?
 
-Wiwiti saking ingkang katingal, lajeng sisihaken papan supados tiyang menika saged nambahi manawi kepéngin.
+Wiwiti saka apa sing Panjenengan deleng, banjur wenehana papan yen wong iku pengin nambahake.
 
-1. **Lenggah sesandhingan.** Nyepeng album ing antawisipun panjenengan kekalih supados mirsani sesarengan, sanes nguji saking meja ingkang beda.
-2. **Pilih sawetawis foto.** Gangsal foto ingkang sae langkung sae tinimbang satunggal kothak. Cithakan ageng lan cetha paling sae.
-3. **Sebataken piyambak nami-naminipun.** “Menika panjenengan lan bapak nalika dinten penganten” ngicalaken tekanan.
-4. **Komentari rincian.** Sandhangan, mobil, dhaharan, cuaca, pasuryan. “Mobilipun sae sanget. Katingal mengkilap.”
-5. **Ngajak, sampun nuntut.** “Mangga dipuncariyosi bab...” utawi “Punapa ingkang dipunpirsani?” Meneng menika boten punapa-punapa.
-6. **Tututi kersanipun.** Manawi piyambakipun ngrembag bab sanes babar pisan, tututi.
-7. **Mandheg nalika taksih nyenengaken.** Tutup album saderengipun kesel.
+1. **Lungguh jejer.** Selehna album ing antarane Panjenengan kalorone supaya ndeleng bareng, ora nguji saka ngarep meja.
+2. **Pilih sawetara foto.** Lima foto sing apik luwih becik tinimbang sak kothak. Cetakan sing gedhe lan cetha paling gampang dideleng.
+3. **Sebutna jenenge dhewe.** “Iki Panjenengan lan Bapak nalika dina manten” bisa nyuda rasa meksa.
+4. **Wenehana komentar babagan rincian.** Sandhangan, mobil, panganan, cuaca, rai. “Apik tenan mobile. Katon mengilap.”
+5. **Ajak, aja meksa.** “Critakna bab...” utawa “Apa sing Panjenengan gatekake?” Meneng sedhela ora apa-apa.
+6. **Tindakake alure.** Yen dheweke malah crita bab liya, tindakake wae.
+7. **Mandhega nalika isih nyenengake.** Tutupe album sadurunge kesel.
 
-Kangge ajakan gambar ingkang sampun siap, cobi [kertu rembagan](/games/conversation-cards/). Kangge ngowahi foto kulawarga panjenengan piyambak dados dolanan nyocogaken ingkang alus, cobi [pasangan foto](/games/photo-pairs/); foto ingkang panjenengan pilih tetep wonten ing browser panjenengan.
+Kanggo pituduh gambar sing wis siap, coba [conversation cards](/games/conversation-cards/). Kanggo ngowahi foto kulawarga dadi dolanan cocog-cocogan sing entheng, coba [photo pairs](/games/photo-pairs/); foto sing Panjenengan pilih tetep ana ing browser Panjenengan.
 
-## Kados pundi damel kothak kenangan?
+## Piye carane gawe kothak kenangan?
 
-Kothak kenangan menika wadhah barang saking gesangipun tiyang menika kangge dipunsepeng lan dipunrembag.
+Kothak kenangan yaiku wadhah isi barang-barang saka uripe wong iku sing bisa dicekel lan dirembug bareng.
 
-1. **Pilih kothak ingkang kiyat** lan gampil dipunbikak, kadosta kothak sepatu, kothak topi, utawi peti kayu alit.
-2. **Pilih tema utawi campuran.** Pakaryan, hobi, papan, dasa warsa, utawi sakedhik saking sedayanipun.
-3. **Kempalaken barang ingkang aman.** Gangsal dumugi sedasa barang sampun cekap kangge miwiti.
-4. **Ngginakaken salinan kangge barang ingkang wigati.** Salin foto lan dokumen ingkang boten saged dipungantos lan simpen ingkang asli kanthi aman.
-5. **Medalaken barang satunggal-satunggal.** Paringaken satunggal, ngendika bab menika, lan pirsani rembaganipun badhe tumuju pundi.
+1. **Pilih kothak sing kuwat** lan gampang dibukak, kayata kothak sepatu, kothak topi, utawa peti kayu cilik.
+2. **Pilih tema utawa campuran.** Pakaryan, hobi, papan, dasawarsa tartamtu, utawa campuran sithik-sithik saka kabeh.
+3. **Klumpukake barang sing aman.** Lima nganti sepuluh barang wis cukup kanggo wiwitan.
+4. **Gunakake salinan kanggo barang sing aji.** Gawe salinan foto lan dokumen sing ora bisa diganti, lan simpen asline kanthi aman.
+5. **Metuake barang siji-siji.** Wenehna siji barang, critakna sithik, banjur delengen obrolane tumuju ngendi.
 
-Gagasan kangge dipunlebetaken:
+Gagasan barang sing bisa dilebokake:
 
-- **Pakaryan:** tanda nami, piranti alit, tambalan seragam, buku catetan, bros perawat, buku resep saking warung.
-- **Griya:** kartu resep ingkang dipunserat tangan piyambakipun, lap, selendang utawi dasi kesenenganipun.
-- **Hobi:** umpan pancing tanpa kail, bal, gulungan benang, bungkus wiji.
-- **Papan:** kartu pos, peta, oleh-oleh wisata, guntingan koran saking kitha asalipun.
-- **Kulawarga:** salinan foto, gambar saking lare, serat undangan penganten.
+- **Pakaryan:** tandha jeneng, piranti cilik, tambalan seragam, buku cathetan, pin perawat, buku resep saka warung.
+- **Omah:** kartu resep nganggo tulisane dhewe, lap tangan, selendang utawa dasi favorit.
+- **Hobi:** umpan pancing tanpa pancinge, bal baseball, gulungan benang, bungkus wiji.
+- **Papan:** kartu pos, peta, oleh-oleh wisata, potongan koran saka kutha asale.
+- **Kulawarga:** salinan foto, gambare bocah, undhangan manten.
 
-Tinggalaken barang landhep, barang alit ingkang saged dipuntelan, lan punapa kemawon ingkang saged nuwuhaken kenangan ingkang nglarani manawi panjenengan boten mangertos menika dipunsuwun.
+Aja lebokake barang landhep, barang cilik sing bisa diuntal, lan barang apa wae sing bisa nggugah kenangan lara, kajaba Panjenengan ngerti yen iku ditampa kanthi becik.
 
-## Kados pundi damel buku cariyos gesang?
+## Piye carane gawe buku crita urip?
 
-Buku cariyos gesang menika album prasaja kanthi foto lan katrangan cekak bab gesangipun tiyang menika. Menika samubarang kangge dipunpirsani sesarengan, lan mbiyantu tamu lan petugas perawatan mirsani tiyang menika kanthi sedayanipun.
+Buku crita urip yaiku album prasaja isi foto lan katrangan cekak babagan uripe wong iku. Iki bisa dideleng bareng, lan mbantu tamu sarta petugas perawatan ndeleng wong iku kanthi luwih jangkep.
 
-1. **Pilih format.** Map kanthi plastik pelindung, buku foto ingkang dipuncithak, utawi tayangan slide ing tablet.
-2. **Rencanakaken sawetawis bagian.** Masa lare, sekolah, pakaryan, kulawarga, papan ingkang dipunpanggeni, kapitadosan, hobi, dhaharan lan musik kesenenganipun.
-3. **Tambahaken satunggal utawi kalih foto saben kaca** kaliyan katrangan cekak kanthi aksara ageng: “Sri, yuswa 22 taun, wiwit makarya ing bank.”
-4. **Sertakaken ingkang dipunremeni lan pakulinan.** “Ngunjuk kopi ngangge susu. Remen kidung ibadah dinten Minggu. Boten remen televisi ingkang sora.” Menika mbiyantu sinten kemawon ingkang ngrawat piyambakipun.
-5. **Ajak tiyang menika melu** sapinten kepinginipun, milih foto, nyariyosaken cariyos, utawi namung mirsani buku menika dados.
-6. **Tetep nambah.** Boten kedah rampung supados migunani.
+1. **Pilih wujude.** Binder nganggo pelindung lembaran, buku foto sing dicithak, utawa slideshow ing tablet.
+2. **Rencanakna sawetara bagean.** Bocah cilik, sekolah, pakaryan, kulawarga, papan sing nate dienggoni, kapercayan, hobi, panganan lan musik favorit.
+3. **Tambahake siji utawa rong foto saben kaca** kanthi katrangan cekak lan tulisan gedhe: “Mary, umur 22 taun, wiwit kerja ing bank.”
+4. **Lebokake apa sing disenengi lan rutinitas.** “Ngombe kopi nganggo susu. Seneng kidung Minggu. Ora seneng TV sing banter.” Iki bisa mbantu sapa wae sing ngramut dheweke.
+5. **Ajak wong iku melu** sabisane lan sakarepane, milih foto, nyritakake, utawa mung ndeleng proses nggawe.
+6. **Terus ditambahake.** Buku iki ora kudu rampung supaya bisa migunani.
 
-## Gagasan ngenang sanesipun
+## Gagasan ngeling-eling liyane
 
-- **Setelna musik saking nalika enomipun** lan rembagan kaliyan punapa ingkang dipuntuntun menika. Pirsani [kegiatan musik](/activities/music/).
-- **Mirsani film griya utawi acara televisi** saking dasa warsa kesenenganipun.
-- **Olah-olah masakan nalika lare** lan sumangga ambu-ambunipun nuntun rembagan.
-- **Mirsani peta** kitha asalipun lan tilesaken margi-margi ingkang sampun akrab.
-- **Nyepeng katalog utawi majalah lami** lan rembagan bab regi, mode, lan mobil.
-- **Rekam cariyosipun** ing telepon, kanthi idinipun, kangge kulawarga.
-- **Bagèkaken nalika telpun.** Angkat satunggal foto nalika video call; pirsani [telepon lan video call](/activities/phone-and-video-calls/).
-- **Bekta foto utawi barang nalika ngunjungi.** Menika maringi pokok ingkang gampil kangge kunjungan; pirsani [ngunjungi](/activities/visiting/).
+- **Puterna musik saka jaman nom-nomane** banjur ngobrol babagan kenangan sing digawa musik iku. Delengen [kegiatan musik](/activities/music/).
+- **Delengen film omahan utawa acara TV** saka dasawarsa sing disenengi.
+- **Masak panganan jaman cilik** lan keparenga ambune mimpin obrolan.
+- **Delengen peta** kutha asale lan telusuri dalan-dalan sing akrab.
+- **Ndelok katalog utawa majalah lawas** banjur ngobrol babagan rega, gaya sandhangan, lan mobil.
+- **Rekam critane** nganggo ponsel, kanthi idin saka dheweke, kanggo kulawarga.
+- **Nuduhake nalika telpon.** Tampilake siji foto nalika telpon video; delengen [telpon lan telpon video](/activities/phone-and-video-calls/).
+- **Gawa foto utawa barang nalika niliki.** Iki bisa menehi fokus sing entheng kanggo kunjungan; delengen [niliki](/activities/visiting/).
 
-## Kados pundi manawi satunggal kenangan nglarani?
+## Piye yen ana kenangan sing lara?
 
-Sawetawis kenangan nuwuhaken kasusahan, getun, utawi ajrih. Manawi tiyang menika dados boten kepenak, mandheg, nglipur, lan alon-alon ngewahi pokok utawi kegiatan. Sampun mbantah bab punapa ingkang kelampahan. Family Caregiver Alliance ngelingaken supados boten ngupayakaken mastikaken tiyang menika lepat lan nyaranaken nanggapi raos ingkang dipuntedahaken, ingkang nyata. Manawi piyambakipun ngrembag tiyang ingkang sampun seda kados taksih gesang, tanggapi raosipun: “Panjenengan kangen dhateng panjenenganipun. Mangga dipuncariyosi.”
+Sawetara kenangan bisa nggawa rasa sedhih, getun, utawa wedi. Yen wong iku dadi susah, mandhega, paringana panglipur, lan alon-alon alihna topik utawa kegiatane. Aja padu babagan apa sing kedadeyan. Family Caregiver Alliance nyaranake supaya ora nyoba ngyakinake wong yen dheweke salah lan nyaranake nanggapi perasaan sing dituduhake, amarga perasaan iku nyata. Yen dheweke ngomong babagan wong sing wis tilar donya kaya-kaya isih urip, tanggapana perasaane: “Panjenengan kangen dheweke. Critakna bab dheweke.”
 
-## Punapa ingkang dipuntedahaken panaliten?
+## Apa sing diandharake riset?
 
-[Tinjauan Cochrane bab ngenang](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ingkang nyakup 22 uji coba lan 1,972 tiyang, mendhet kesimpulan bilih pengaruhipun boten konsisten, alit, lan benten miturut papan lan format. Boten pinanggih bukti bebaya dhateng tiyang demensia. Kawula nyaranaken ngenang amargi saged dados wekdal sesarengan ingkang anget lan wigati, sanes minangka pengobatan. Kangge langkung kathah bab rembagan ingkang gampil, pirsani [saran komunikasi](/caregiving/communication-tips/).
+[Tinjauan Cochrane babagan ngeling-eling](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), sing nyakup 22 uji coba lan 1.972 wong, nemokake yen asile ora konsisten, cilik, lan beda-beda gumantung setelan lan wujude. Tinjauan iku ora nemokake bukti cilaka kanggo wong sing urip kanthi demensia. Kita nyaranake ngeling-eling amarga iki bisa dadi wektu sing hangat lan nduweni makna kanggo ditindakake bareng, dudu minangka perawatan. Kanggo katrangan luwih lengkap babagan obrolan sing entheng, delengen [tips komunikasi](/caregiving/communication-tips/).

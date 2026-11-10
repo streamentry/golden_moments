@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "ᐃᓱᒪᒋᐊᕐᓂᖅ ᐃᓄᐃᑦ ᐊᒻᒪᓗ ᓂᐱᑦ ᐊᑐᖅᑎᒍᑦ"
+seoTitle: "ᐃᓱᒪᒋᐊᕐᓂᖅ ᐃᓄᐃᑦ ᐊᒻᒪᓗ ᓂᐱᑦ: ᖃᐅᔨᒋᐊᕐᓂᕐᒧᑦ ᑎᑎᕋᖅᓯᒪᔪᖅ"
+description: "ᐃᑲᔪᖅᑐᓂ ᖃᐅᔨᒋᐊᕐᓂᕐᒧᑦ ᑎᑎᕋᖅᓯᒪᔪᖅ ᐃᓄᐃᑦ ᐊᒻᒪᓗ ᓂᐱᑦ ᓂᕈᐊᕐᓂᕐᒧᑦ: ᐱᒋᐊᕐᓗᒍ ᐱᔪᒪᔭᑦ, ᐃᓅᓯᒪᓂᖅ ᐊᒻᒪᓗ ᓴᖅᑭᑎᑦᑎᔾᔪᑎᖏᓐᓂᒃ ᐊᖅᑯᑎᓐᓄᑦ, ᓇᓗᓇᐃᖅᓯᒍᓗᒍ ᑐᓴᕈᑎᒥ ᑎᑎᕋᖅᓯᒪᔪᑦ, ᐊᒻᒪᓗ ᓇᓗᓇᐃᖅᓯᒍᓗᒍ ᓇᓗᓇᐃᖅᓯᒪᔪᑦ ᐊᑐᐊᒐᖏᑦ ᐃᑲᔪᖅᑕᐅᓪᓗᑎᒃ."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  ᐱᒋᐊᕐᓗᒍ ᖃᖓᑕᐅᔪᒪᔭᑦ ᐊᑐᖅᑎᒍᑦ ᓂᐱᒃ: ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ, ᐃᓱᒪᓂᖅ ᐃᓱᒪᖅᑎᑦᑎᓂᖅ, ᖃᐸᓕᖅᑎᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᖅ. ᑕᐅᕐᕈᓗᒍ ᐊᑐᖅᑎ ᐊᔾᔨᒌᙱᑦᑐᓄᑦ ᒪᓕᒃᑐᓄᑦ, ᐊᖏᓛᑦ ᐊᔾᔨᖅᓯᒪᔪᑦ, ᐱᔭᐅᔪᒥᒃ ᐃᓅᓯᒪᓂᖅ ᐊᒻᒪᓗ ᓂᐱᒃ ᐊᒻᒪᓗ ᓴᖅᑭᑎᑦᑎᔾᔪᑎᒃ ᐊᑐᕐᓗᑎᒃ, ᐊᒻᒪᓗ ᓄᖅᑲᖅᑎᑦᑎᔾᔪᑎ ᐊᑯᓐᓂᖅᓯᒪᔪᖅ. ᖃᐅᔨᒋᐊᕐᓗᒍ ᑎᑎᕋᖅᓯᒪᔪᑦ ᑕᑯᒃᓴᐅᔪᑦ ᐊᒻᒪᓗ ᐃᖅᑲᓇᐃᔮᖏᑦ ᐲᔭᐅᔪᓐᓃᕐᒪᖔᑕ. ᐃᑲᔪᖅᑕᐅᔪᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐃᓱᒪᒋᔭᐅᔪᑦ ᓂᐱᐅᔪᖅ ᓂᐸᖅᑎᕆᓂᖃᖅᑐᓐᓂᐊᕐᒪᖔᑕ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᐊᐅᓪᓚᓯᒪᓂᖅ ᓄᖅᑲᖅᑎᕆᔪᓐᓇᖅᑐᓐᓂᐊᕐᒪᖔᑕ; ᐊᑑᑎᖅ ᐊᑐᖅᑎᒍᑦ ᖃᐅᔨᓴᕐᓂᖅ ᑭᓯᐊᓂᓕᕐᓄᑦ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᙱᑦᑐᖅ.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "ᐱᒋᐊᕐᓗᒍ ᐱᔪᒪᔭᑦ ᓯᕗᓪᓕᖅᐸᓪᓕᐊᓗᒍ: ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ, ᐃᓱᒪᓂᖅ ᐃᓱᒪᖅᑎᑦᑎᓂᖅ, ᖃᐸᓕᖅᑎᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᖅ ᐊᔾᔨᒌᙱᑦᑐᑦ ᓂᐱᑦ ᐱᑕᖃᖅᑐᑦ."
+  - "ᓂᐱᒃ ᓂᕈᐊᕐᓗᒍ ᐃᓄᒃᑎᑐᑦ ᐊᔾᔨᒌᙱᑦᑐᓄᑦ ᒪᓕᒃᑐᓄᑦ, ᓇᓗᓇᐃᖅᓯᒪᓂᖅ ᑕᐱᕐᕆᐊᖅᑐᓄᑦ, ᐊᒻᒪᓗ ᐊᑐᖅᑎᑦᑎᔾᔪᑎᒃ ᐊᔪᖅᑮᑦᑐᓄᑦ ᐃᑲᔪᖅᓱᖃᕐᓗᒍ."
+  - "ᐊᖅᑯᑎᓐᓄᑦ ᓂᐱᑦ ᐱᔭᐅᔪᒥᒃ ᐃᓅᓯᒪᓂᖅ, ᓈᓚᒃᑐᖅ, ᐱᖓᓱᖅᑕᐅᔪᖅ, ᐊᑐᖅᑎᒍᑦ ᐱᓕᕆᔾᔪᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑭᓕᒫᒃᑯᑦ ᐱᔪᒪᔭᐅᔪᖅ ᐊᖅᑯᑎᓐᓄᑦ."
+  - "ᖃᐅᔨᒋᐊᕐᓗᒍ ᑎᑎᕋᖅᓯᒪᔪᑦ ᑕᑯᒃᓴᐅᔪᑦ, ᐊᕕᒃᑐᖅᓯᒪᔪᑦ ᐊᒻᒪᓗ ᐲᔭᐅᔪᓐᓃᕐᓂᖓᑦ. HIPAA ᐊᑐᖅᑎᒍᑦ ᓇᓗᓇᐃᖅᓯᔨᒃᑯᑦ ᐱᓕᕆᔾᔪᑎᖏᓐᓂ ᐊᖅᑯᑎᓐᓄᑦ ᓄᖅᑲᖅᑎᑦᑎᓂᕐᒧᑦ ᐊᑐᐊᒐᖅ ᐊᒥᓱᖃᙱᑦᑐᖅ."
+  - "ᐃᑲᔪᖅᑕᐅᔪᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐃᓱᒪᒋᔭᐅᔪᑦ \"ᓂᐸᖅᑎᕆᓂᖃᖅᑐᖅ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ\". ᐊᑑᑎᖅ ᖃᐅᔨᓴᕐᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ ᓂᐱᒥ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐱᐅᓯᒪᓂᖅ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᙱᑦᑐᖅ."
+  - "Golden Moments ᐱᓕᕆᔾᔪᑎᖃᖅᑐᖅ ᖃᐸᓕᖅᑎᓂᕐᒧᑦ. ᑕᐃᒪᐃᓐᓇᖅ ᐊᑐᖅᑎᓄᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐱᔪᒪᒋᐊᕐᓂᖅ, ᑲᓇᑕᐅᔭᐅᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ ᐱᔪᒪᒋᐊᕐᓂᖃᙱᑦᑐᖅ."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "ᖃᖓᑕᐅᔪᖃᑦᑕᕐᓂᖅ ᐃᓱᒪᒃᑯᑦ ᓂᐱᑦ ᓂᐸᖅᑎᕆᓂᖃᖅᑐᓐᓂᐊᕐᒪᖔᑕ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ?"
+    a: "ᓇᓗᓇᐃᖅᓯᔪᓐᓇᐅᑎᖃᙱᑦᑐᖅ ᖃᖓᑕᐅᔪᖃᑦᑕᕐᓂᖅ ᓂᐱᑦ ᐊᑭᓕᒫᒃᑯᑦ ᓂᐸᖅᑎᕆᓂᖃᖅᑐᓐᓂᐊᕐᒪᖔᑕ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᐊᐅᓪᓚᓯᒪᓂᖅ ᓄᖅᑲᖅᑎᕆᔪᓐᓇᖅᑐᓐᓂᐊᕐᒪᖔᑕ. National Institute on Aging ᐅᖃᐅᓯᖃᖅᑐᖅ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᐅᑎᖃᙱᑦᑐᒥᒃ ᐊᑭᓕᒫᒃᑯᑦ ᓂᐱᑦ ᐃᓱᒪᒃᑯᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᑐᖅᑎᑦᑎᓂᖅ ᐊᔾᔨᐅᓪᓗᓂᖅ ᐊᖏᔪᒥ ᖃᐅᔨᓴᕐᓂᕐᒥ ᖃᐅᔨᓴᖅᑎᓄᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᑐᖅᑎᑦᑎᓂᕐᒧᑦ. ᓂᐱᑦ ᓂᕈᐊᕐᓗᒍ ᖃᐸᓕᖅᑎᓂᕐᒧᑦ ᐊᒻᒪᓗ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᕐᒧᑦ, ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᓄᓇᐃᔭᐅᔭᕆᐊᖃᙱᑦᑐᓄᑦ ᐊᑐᖅᑎᓄᑦ."
+  - q: "ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᐊᐅᓪᓚᓯᒪᓂᕐᒧᑦ ᓂᐱᒃ HIPAA-ᒥ ᓴᐳᑎᑦᑎᓂᖃᖅᑐᖅ?"
+    a: "ᐊᒥᓱᓂ ᐊᑐᐊᒐᖅ ᓴᐳᑎᑦᑎᓂᖃᙱᑦᑐᖅ. U.S. Department of Health and Human Services ᐅᖃᐅᓯᖃᖅᑐᖅ HIPAA ᐊᑐᖅᑎᑦᑎᓂᖃᖅᑐᖅ ᐊᐅᓚᑦᑎᔨᓄᑦ, ᐊᐅᓚᑦᑎᔾᔪᑎᒃ ᐱᓕᕆᔨᓄᑦ ᐊᒻᒪᓗ ᐱᓕᕆᔾᔪᑎᒋᔭᐅᔪᓄᑦ ᐱᓕᕆᖃᑎᒌᓄᑦ. ᐊᒥᓱᓂ ᓇᓪᓕᐅᔨᓂᕐᒧᑦ ᓄᐊᑉᐳᑦ ᓂᐱᒃ ᓴᐳᑎᑦᑎᓂᖃᙱᑦᑐᖅ, ᐊᐅᓚᑦᑎᔨᓂ ᐅᕝᕙᓘᓐᓃᑦ ᐱᓕᕆᖃᑎᒌᓂ ᐱᑕᖃᖅᑎᑦᑎᓂᖃᖅᑎᓪᓗᒍ ᐊᑭᓕᒫᖅ ᐊᑐᖅᑎᑦᑎᓂᖃᖅᑎᓪᓗᒍ ᐊᑭᓕᒫᐅᓪᓗᓂᖅ. Federal Trade Commission-ᑯᑦ Health Breach Notification Rule ᓴᐳᑎᑦᑎᓂᖃᖅᑐᖅ ᐊᒥᓱᓄᑦ ᐊᐅᓪᓚᓯᒪᓂᕐᒧᑦ ᓂᐱᓄᑦ HIPAA-ᒥ ᓴᐳᑎᑦᑎᓂᖃᙱᑦᑐᓄᑦ."
+  - q: "ᖃᓄᖅ ᐊᖏᔪᖅ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᐊᐅᓪᓚᓯᒪᓂᕐᒧᑦ ᓂᐱᒃ ᑕᑯᔭᐅᔪᓐᓇᕐᒪᖔᑕ?"
+    a: "ᐊᖏᓛᑦ, ᑐᑭᓯᒋᐊᕐᓗᑎᒃ ᐊᔾᔨᖅᓯᒪᔪᑦ ᐊᒻᒪᓗ ᑎᑎᕋᖅᓯᒪᔪᑦ, ᐊᑑᑎᖅ ᑐᕌᖓᓂ ᐱᔪᒪᔭᖅ ᐊᑐᖅᑎᑦᑎᓂᐊᕐᒪᖔᑕ ᐊᐅᓯᒪᔪᒥ ᓯᑎᑦᑎᐊᖅ, ᐱᔭᐅᔪᖅ ᐃᓅᓯᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓈᓚᒃᑐᖅ ᐊᑐᐊᒐᖅ, ᑕᕐᕆᔭᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓈᓚᒃᑐᖅ ᑕᐃᓐᓇᖅ, ᓴᖅᑭᑎᑦᑎᔾᔪᑎᒃ ᐊᑐᐊᒐᖅ, ᐊᒻᒪᓗ ᓄᖅᑲᖅᑎᑦᑎᔾᔪᑎ ᐊᑯᓐᓂᖅᓯᒪᔪᖅ ᐊᐅᓪᓚᓯᓐᓂᕐᒧᑦ. ᑕᑯᔭᐅᔪᓐᓇᕐᒪᖔᑕ ᐃᓄᐃᑦ ᐊᑐᖅᑎᓄᑦ ᐊᔾᔨᒌᖕᓂᒃ, ᐊᒻᒪᓗ ᐊᑯᓐᓂᖅᑐᓂ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᕐᒧᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒃᑐᒥᒃ."
+  - q: "Golden Moments ᐅᖃᐅᓯᖃᖅᑐᖅ ᐃᓱᒪᓂᖅ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐃᑲᔪᖅᑎᑦᑎᔪᓐᓇᖅᑐᒥᒃ?"
+    a: "ᐊᔪᖅ. Golden Moments ᐱᓕᕆᔾᔪᑎᖃᖅᑐᖅ ᐊᔪᖅᑮᑦᑐᓂ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᕐᒧᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᖃᐸᓕᖅᑎᓂᕐᒧᑦ ᐊᒻᒪᓗ ᐅᖃᖃᑎᖃᖅᑎᑦᑎᓂᕐᒧᑦ. ᑕᐃᒪᐃᓐᓇᖅ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ, ᑲᓇᑕᐅᔭᐅᔾᔪᑎᒃ, ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᓂᐸᖅᑎᕆᔾᔪᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ ᐱᔪᒪᒋᐊᕐᓂᖃᙱᑦᑐᖅ, ᐊᒻᒪᓗ ᐃᓱᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓱᒪᒃᑯᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᑐᐊᒐᖏᑦ ᐱᔪᒪᒋᐊᕐᓂᖃᙱᑦᑐᖅ."
+  - q: "ᐊᑭᓕᒫᖅ ᓄᖅᑲᖅᑎᑦᑎᔪᐊᕐᒪᖔᑕ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᐊᐅᓪᓚᓯᒪᓂᕐᒧᑦ ᓂᐱᒃ?"
+    a: "ᖃᐅᔨᒋᐊᕐᓗᒍ ᐊᑭᓕᒫᐅᔪᑦ ᓂᐱᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑭᓕᒫᐅᔪᑦ ᖃᐅᔨᒋᐊᕐᓂᖅ ᓯᕗᓪᓕᖅᐸᓪᓕᐊᓗᒍ, ᐊᒻᒪᓗ ᐃᓄᒃᑎᑐᑦ ᑲᒪᒋᖃᑎᖃᖅᑐᓂ ᖃᖓᑕᐅᔪᒪᔭᐅᔪᖅ ᐊᕙᑎᓂ ᖃᐅᔨᒋᐊᕐᓗᒍ ᒪᕐᕉᒃ ᐅᑭᐅᖅᑕᖅᑎᒍᑦ. ᐊᑭᓕᒫᖅ ᓄᖅᑲᖅᑎᑦᑎᓂᖅ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐱᐅᓯᒪᓂᖅ ᐊᖏᔪᐊᖅᑐᓐᓂᐊᕐᒪᖔᑕ ᐱᔪᒪᒋᐊᕐᓂᖃᙱᑦᑐᖅ. ᖃᐅᔨᒋᐊᕐᓗᒍ ᖃᓄᖅ ᓄᖅᑲᖅᑎᑦᑎᔪᐊᕐᒪᖔᑕ ᐊᑭᓕᒫᕐᓂᖅ ᐱᒋᐊᕐᓂᕐᒧᑦ ᓯᕗᓪᓕᖅᐸᓪᓕᐊᓗᒍ."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+ᐊᑭᓕᒫᕐᒥ ᓂᐱᑦ ᑕᑯᔭᐅᔪᖅ ᐃᓄᐃᑦ ᐊᑯᓐᓂᖅᑕᐅᔪᓄᑦ, ᐃᓱᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒍᑦ ᐊᔾᔨᖅᓯᒪᔪᖅ. ᐃᓚᒌᒃ ᐃᓱᒪᒋᔭᐅᔪᖅ ᐊᑐᖅᑎᑦᑎᓂᐊᕐᒪᖔᑕ. ᐊᓯᖏᑦ ᐃᓱᒪᒋᔭᐅᔪᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐃᓱᒪᒋᔭᐅᔪᑦ ᐅᖃᐅᓯᐅᔪᑦ, ᐱᔭᐅᔪᒥᒃ ᐃᓅᓯᒪᓂᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᓂᐱᒃ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒍᑦ ᖃᐅᔨᓴᕐᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᓴᖅᑭᑎᑦᑎᔾᔪᑎᒃ ᐊᒻᒪᓗ ᑎᑎᕋᖅᓯᒪᔪᑦ ᑕᑯᒃᓴᐅᔪᑦ. ᑖᓐᓇ ᒪᒃᐱᒐᖅ ᑐᑭᓯᒋᐊᕐᓗᑎᒃ ᐃᓱᒪᒋᐊᕐᓂᕐᒧᑦ ᐊᑐᖅᑎᒍᑦ ᓂᐱᒃ ᓂᕈᐊᕐᓂᕐᒧᑦ. ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᔾᔨᖅᓯᒪᔪᓂᒃ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᖃᐅᔨᒋᐊᕐᓂᖅ ᐊᓯᖏᓐᓂᒃ ᐱᔪᒪᒋᐊᕐᓂᖃᙱᑦᑐᖅ.
 
-## What should I decide before choosing a dementia app?
+## ᖃᖓᑕᐅᔪᒪᔭᑦ ᐃᓱᒪᒋᐊᕐᓗᒋᑦ ᓯᕗᓪᓕᖅᐸᓪᓕᐊᓗᒍ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᓂᐱᒃ ᓂᕈᐊᕐᓂᕐᒧᑦ?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+ᐃᓱᒪᒋᐊᕐᓗᒍ ᖃᖓᑕᐅᔪᒪᔭᑦ ᓂᐱᒃ ᐊᑐᖅᑎᑦᑎᓂᐊᕐᒪᖔᑕ. "ᓂᐱᒃ ᐊᓇᐅᔪᒧᑦ" ᐊᔾᔨᒌᙱᑦᑐᑦ ᐱᔪᒪᔭᐅᔪᓐᓇᖅᑐᖅ, ᐊᒻᒪᓗ ᐊᑑᑎᖅ ᓂᕈᐊᕐᓂᖅ ᐊᑑᑎᖃᕐᒪᖔᑕ ᐊᔾᔨᒌᙱᑦᑐᓄᑦ ᐱᔪᒪᔭᓄᑦ ᐊᔾᔨᒌᙱᑦᑐᖅ ᓂᕈᐊᕐᓂᖃᖅᑐᖅ ᐊᓯᖏᓐᓄᑦ.
 
-| Goal | What it looks like | What to look for |
+| ᐱᔪᒪᔭᖅ | ᖃᓄᖅ ᑕᑯᔭᐅᔪᖅ | ᖃᖓᓂᒃ ᖃᐅᔨᒋᐊᕐᓗᒋᑦ |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ | ᐊᔾᔨᒌᖕᓂᖅ, ᐊᖏᖅᓯᒪᓂᖅ, ᐊᔪᖅᑮᑦᑐᑦ ᐱᙳᐊᖅᑐᑦ, ᐅᖃᐅᓯᐅᔪᑦ ᓂᐱᑦ | ᐊᔾᔨᒌᙱᑦᑐᓄᑦ ᐊᔾᔨᒌᖕᓂᕐᒧᑦ, ᐊᔾᔨᖅᓯᒪᔪᑦ ᑕᑯᒃᓴᐅᓪᓗᑎᒃ, ᐱᔭᐅᔪᒥᒃ ᐃᓅᓯᒪᓂᖅ ᐊᑐᐊᒐᖅ |
+| ᐃᓱᒪᓂᖅ ᐃᓱᒪᖅᑎᑦᑎᓂᖅ | ᐃᑦᑑᓂᖅᓱᐃᑦ ᐊᔾᔨᖅᓯᒪᔪᑦ, ᐃᓱᒪᖅᑎᑦᑎᔪᑦ ᐅᖃᐅᓯᐅᔪᑦ, ᐃᓅᓪᓗᓂ ᐊᐅᓪᓚᔪᓂ ᓂᐅᕕᕐᓂᖅ | ᐃᒥᒻᒪᕆᒃᑯᑦ ᐊᔾᔨᖅᓯᒪᔪᑦ, ᐊᑐᐊᒐᖅ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒃ, ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᑐᐊᒐᖅ |
+| ᖃᐸᓕᖅᑎᓂᖅ | ᓄᓇᓕᒫᖅ ᑕᑯᒃᓴᐅᔪᖅ, ᓂᐅᕕᕐᓂᖅ ᓂᐅᕕᒃᑐᖅ, ᓯᑯᓪᓗᐊᖅᑐᖅ ᐊᒻᒪᓗ ᐱᓕᕆᔾᔪᑎᒃ | ᐱᒋᐊᕐᓗᒍ ᐊᒻᒪᓗ ᓄᖅᑲᖅᑎᑦᑎᔪᐊᕐᓗᒍ ᐊᔪᖅᑮᑦᑐᓂ, ᐱᔭᐅᔪᒥᒃ ᑕᑯᓐᓇᖅᑐᓂ, ᓄᓇᖃᖅᑳᖅᓯᒪᔪᓂᒃ ᐃᓱᒪᒋᔭᐅᔪᓂᒃ |
+| ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᖅ | ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᖅ ᐊᒻᒪᓗ ᐅᖃᖃᑎᖃᖅᑎᑦᑎᓂᖅ, ᐊᑲᐅᔪᓂ ᐅᕝᕙᓘᓐᓃᑦ ᑎᑎᕋᖅᓯᒪᔪᒥ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᖅ | ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᕐᒧᑦ ᐊᔾᔨᖅᓯᒪᔪᖅ, ᐅᖃᖃᑎᖃᖅᑎᑦᑎᓂᕐᒧᑦ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒃ |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+ᖃᐅᔨᓴᕐᓂᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ "ᐃᓱᒪᒃᑯᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ" ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᐊᒥᓱᓂ ᐃᓚᒋᔭᐅᔪᖅ ᑲᑎᒪᓂᕐᒥ, ᐃᓱᒪᖅᑎᑦᑎᔨᓄᑦ ᐃᓕᔪᖃᑕᐅᔪᓄᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ, ᐅᖃᖃᑎᖃᖅᑎᑦᑎᓂᖅ, ᐅᖃᐅᓯᐅᔪᑦ ᓂᐱᑦ, ᐱᙳᐊᖅᑐᑦ, ᓂᐅᕕᕐᓂᖅ ᐊᒻᒪᓗ ᐱᓕᕆᔾᔪᑎᒃ ᐱᓕᕆᓂᖅ ᐃᓚᒋᔭᐅᓪᓗᑎᒃ. [Cochrane ᖃᐅᔨᓴᕐᓂᖅ](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ᓇᓗᓇᐃᖅᓯᔪᖅ ᓄᓇᓕᒫᖅ ᐱᐅᓯᒪᓂᖅ ᐅᖃᓪᓚᒋᐅᔪᖅ, ᐊᔾᔨᒌᙱᑦᑐᓂ ᖃᐅᔨᓴᕐᓂᕐᒥ. ᑖᒃᑯᐊ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᖅ, ᐊᔾᔨᒌᙱᑦᑐᑦ ᐱᓕᕆᔾᔪᑎᒃ ᐊᑐᖅᑎᑦᑎᓂᖅ ᐊᔾᔨᒌᖕᓂᖃᙱᑦᑐᖅ ᐊᑑᑎᖅ ᓂᐱᒃ ᐊᑐᖅᑎᑦᑎᓂᕐᒧᑦ, ᑕᐅᕐᕈᓗᒍ ᓂᐱᒃ ᐊᑐᐊᒐᖅ ᐊᑑᑎᖅ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᕐᒧᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᑐᖅᑎᑦᑎᓂᖅ.
 
-## How do I know if an app fits the person's abilities?
+## ᖃᓄᖅ ᓇᓗᓇᐃᖅᓯᓪᓗᒍ ᓂᐱᒃ ᐊᔾᔨᒌᙱᑦᑐᓄᑦ ᐊᔾᔨᒌᖕᓂᖏᓐᓄᑦ?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+ᖃᐅᔨᒋᐊᕐᓗᒍ ᖃᓄᖅ ᑲᒪᒋᖃᑎᖃᖅᑐᖅ, ᓇᓗᓇᐃᖅᓯᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑕᐱᕐᕆᐊᖅᑐᓄᑦ ᐅᖃᐅᓯᐅᔪᓄᑦ. ᒪᕐᕉᒃ ᐃᓄᐃᑦ "ᐊᔾᔨᐅᔪᒥ" ᑕᐱᕐᕆᐊᖅᑐᓂ ᐊᔾᔨᒌᙱᑦᑐᑦ ᐊᔾᔨᒌᖕᓂᖃᖅᑐᑦ ᐃᔨᐅᑎᓂᒃ, ᑎᑦᑎᕋᐃᑦ, ᐊᒃᑐᐃᓐᓇᖅᑕᐅᓂᖅ, ᐅᖃᐅᓯᖅ ᐊᒻᒪᓗ ᐃᓄᒃᑎᑐᑦ ᐃᓕᔪᖃᕐᓂᖅ ᓇᓗᓇᐃᖅᓯᒪᔪᒥᒃ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ᐃᑲᔪᖅᑕᐅᔪᖅ ᐃᓱᒪᖅᑎᑦᑎᓗᒍ ᐃᓅᓪᓗᓂ ᐱᔪᒪᔭᖏᑦ ᐊᒻᒪᓗ ᒪᓕᒃᑐᓂ ᐊᔾᔨᒌᙱᑦᑐᓄᑦ, ᐊᒻᒪᓗ ᐃᓱᒪᒋᐊᕐᓗᒍ ᖃᐸᓕᖅᑎᓂᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐱᐅᓯᒪᓂᕐᒧᑦ.
 
-Signs of a good fit:
+ᐊᖏᔪᖅ ᐊᔾᔨᒌᙱᑦᑐᖅ ᓇᓗᓇᐃᖅᓯᒪᔪᖅ:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ᐱᒋᐊᕐᓗᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑲᒪᒋᖃᑎᖃᖅᑐᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᑐᐊᒐᖅ ᐃᑲᔪᖅᑕᐅᒋᐊᕐᓂᖃᙱᓪᓗᑎᒃ;
+- ᖁᕕᐊᓱᖕᓂᖅ, ᐅᖃᐅᓯᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓂᒃᑳᖅᑎᓪᓗᒍ;
+- ᑕᒻᒪᖅᑕᐅᓂᖅ ᐃᑲᔪᖅᑕᐅᓂᖃᙱᑦᑐᖅ;
+- ᖃᐸᓕᖅᑐᑦ ᓄᖅᑲᖅᑎᑦᑎᔪᐊᕐᓗᑎᒃ ᐊᐅᓪᓚᓯᓐᓂᕐᒧᑦ ᐱᔭᐅᔪᑦ.
 
-Signs it is a poor fit:
+ᐊᖏᔪᖅ ᐊᔾᔨᒌᙱᑦᑐᖅ ᐱᐅᓯᒪᓂᖅ:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- ᐊᕐᕌᒍᓕᕆᔾᔪᑎᒃ "ᐊᔪᖅᑮᖓ" ᐅᕝᕙᓘᓐᓃᑦ "ᑖᓐᓇ ᓄᓇᖃᖅᑳᖅᓯᒪᔪᖅ";
+- ᖃᖓᓂᒃ ᐊᑐᖅᑎᑦᑎᓂᐊᕐᒪᖔᑕ ᖃᐅᔨᒃᑲᓐᓂᖅᓯᒪᓂᖅ;
+- ᐅᖁᓯᒪᓂᖅ, ᐃᓐᓇᐅᑎᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓇᓪᓕᐅᔨᓂᖅ ᐊᑭᓕᒫᖅ ᓄᖅᑲᖅᑎᑦᑎᓂᖅ;
+- ᐊᐅᓚᑦᑎᔾᔪᑎᒃ ᐊᑐᖅᑎᑦᑎᓂᐊᕐᒪᖔᑕ ᐊᖕᒋᒍᖃᑦᑕᕐᓂᖅ ᐊᐅᓪᓚᑦᑎᔨᓄᑦ ᐃᑲᔪᖅᑐᓄᑦ ᑐᕌᖓᓂ.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+ᐅᖁᓯᒪᓂᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᖃᖅᑐᖅ, ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᐅᓪᓚᓯᒪᓂᕐᒧᑦ ᐊᑐᐊᒐᖅ. ᑕᑯᓗᒍ [ᖃᓄᖅ ᐱᓕᕆᔪᐊᕐᒪᖔᑕ ᐅᖃᐅᓯᖃᙱᓪᓗᑎᒃ](/caregiving/when-they-say-no/). ᑕᐱᕐᕆᐊᖅᑐᓄᑦ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᓄᑦ ᐃᓱᒪᒋᐊᕐᓗᒍ [ᓯᕗᓪᓕᖅᐸᓪᓕᐊᓂᕐᒥ](/activities/early-stage/) ᐊᒻᒪᓗ [ᑲᑎᓪᓗᐊᖅᑐᓂ](/activities/late-stage/) ᐊᐅᓪᓚᑦᑎᔾᔪᑎᑦ.
 
-## What design features should I look for or avoid?
+## ᖃᓄᖅ ᐊᔾᔨᒌᖕᓂᖏᓐᓄᑦ ᖃᐅᔨᒋᐊᕐᓗᒋᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᖅᑯᑎᓐᓄᑦ?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+ᖃᐅᔨᒋᐊᕐᓗᒍ ᐊᔪᖅᑮᑦᑐᖅ, ᐊᔪᖅᑮᑦᑐᑦ ᐊᒻᒪᓗ ᐃᓄᐃᑦ ᐊᔾᔨᒌᖕᓂᖅ, ᐊᒻᒪᓗ ᐊᖅᑯᑎᓐᓄᑦ ᐱᔭᐅᔪᒥᒃ ᐃᓅᓯᒪᓂᖅ ᐊᖅᑯᑎᓐᓄᑦ.
 
-| Look for | Be wary of |
+| ᖃᐅᔨᒋᐊᕐᓗᒍ | ᐃᑲᔪᖅᑕᐅᔪᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| ᐊᖏᓛᑦ ᐊᔾᔨᖅᓯᒪᔪᑦ ᐊᒻᒪᓗ ᑎᑎᕋᖅᓯᒪᔪᑦ, ᐊᔪᖅᑮᑦᑐᑦ ᑕᑯᓐᓇᖅᑐᑦ | ᓄᓈᖅᑎᑐᐃᓐᓇᖅ ᐊᐃᑉᐳᑦ, ᐃᓱᒪᒋᔭᐅᔪᓂᒃ ᓯᑎᑦᑎᐊᖅ |
+| ᐊᑑᑎᖅ ᑐᕌᖓᓂ ᐱᔪᒪᔭᖅ ᐊᐅᓯᒪᔪᒥ ᓯᑎᑦᑎᐊᖅ | ᐊᒥᓱᑦ ᓇᕿᑦᑑᑎᑦ, ᓂᐱᒃ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᒥᓱᑦ ᐱᓕᕆᔾᔪᑎᑦ |
+| ᐱᔭᐅᔪᖅ ᐃᓅᓯᒪᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᓅᓯᒪᓂᖅ ᐃᖅᑲᐅᒪᑎᑦᑎᓂᖅ ᐊᑐᐊᒐᖅ | ᓈᓚᒃᑐᖅ, ᐱᔭᐅᔪᖅ ᓈᓚᒃᑐᖅ, "ᐱᔭᐅᔪᖅ ᐊᐅᓪᓚᑦᑎᐊᕐᓗᒍ" |
+| ᓈᓚᒃᑐᖅ ᓈᓚᒃᑐᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᔾᔨᒌᙱᑦᑐᓂ | ᓈᓚᒃᑐᖅ, ᐱᖓᓱᖅᑕᐅᔪᖅ, ᑲᑎᓪᓗᐊᖅᑐᖅ, "ᐃᓱᒪᒃᑯᑦ ᐊᕐᕌᒍ" |
+| ᑕᒻᒪᖅᑕᐅᓂᖅ ᓂᐅᕕᒃᑐᖅ ᐊᑐᐊᒐᖅ | ᑕᕐᕆᔭᖅ, ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᔪᖅᑮᑦᑐᖅ, "ᑕᒻᒪᖅᑕᐅᓯᒪᔪᖅ" ᐅᖃᐅᓯᖅ |
+| ᐃᓄᐃᑦ ᐊᔾᔨᒌᖕᓂᖅ, ᓄᓇᓕᒫᖅ ᐊᔾᔨᒌᖕᓂᖅ | ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᔾᔨᒌᙱᑦᑐᑦ, ᓄᓇᖃᖅᑳᖅᓯᒪᔪᓂᒃ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒃ |
+| ᐊᑐᖅᑎᑦᑎᔪᐊᕐᓗᒍ ᐅᓄᖅᑲᓐᓂᖅᓯᒪᔪᓐᓃᑦ, ᐊᑭᓕᒫᖅ ᐊᑐᐊᒐᖅ ᐱᒋᐊᕐᓗᒍ | ᐊᑭᓕᒫᖅ ᐊᑐᐊᒐᖅ, ᐊᑭᓕᒫᖅ ᑐᓴᕐᓗᒍ ᐱᒋᐊᕐᓂᖅ ᐱᔪᒪᔭᐅᔪᖅ |
+| ᐊᑯᓐᓂᖅᓯᒪᔪᖅ ᐊᒻᒪᓗ ᓄᖅᑲᖅᑎᑦᑎᔪᐊᕐᓗᒍ | ᐊᑐᐊᒐᖅ ᖃᐅᔨᒃᑲᓐᓂᖅᓯᒪᓂᖅ ᐱᔪᒪᔭᐅᔪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑭᓕᒫᖅ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒃ |
+| ᓴᖅᑭᑎᑦᑎᔾᔪᑎᒃ ᐊᑐᐊᒐᖅ, ᓇᓗᓇᐃᖅᓯᒪᔪᖅ ᐊᑭᓕᒫᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑭᓕᒫᖅ ᐊᑭᓕᒫᖅ ᐱᓕᕆᔾᔪᑎᒃ | ᓴᖅᑭᑎᑦᑎᔾᔪᑎᒃ, ᓄᓇᓕᒫᖅ ᐊᑭᓕᒫᖅ ᐊᑐᐊᒐᖅ, ᐊᑭᓕᒫᖅ ᐱᔪᒪᔭᐅᔪᖅ ᐊᒥᓱᖃᑦᑕᕐᓂᖅ |
+| ᐊᑯᓐᓂᖅᑐᓂ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᔪᐊᕐᓗᒍ | ᐊᑑᑎᖅ ᐊᐅᓪᓚᑦᑎᔨᒥᒃ ᐊᑐᐊᒐᖅ, ᓵᓚᐅᔪᒥᒃ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒃ |
 
-Ads and purchase prompts are easy to tap by accident.
+ᓴᖅᑭᑎᑦᑎᔾᔪᑎᒃ ᐊᒻᒪᓗ ᐊᑭᓕᒫᖅ ᐱᔪᒪᔭᐅᔪᑦ ᐊᓪᓚᒃᑕᐅᓪᓗᑎᒃ ᐊᑐᖅᑎᑦᑎᔪᐊᕐᓗᑎᒃ.
 
-## How do I check an app's privacy?
+## ᖃᓄᖅ ᖃᐅᔨᒋᐊᕐᓗᒍ ᓂᐱᒃ ᑎᑎᕋᖅᓯᒪᔪᑦ?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+ᖃᐅᔨᒋᐊᕐᓗᒍ ᖃᖓᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᑦ ᑕᑯᒃᓴᐅᔪᖅ, ᑭᓱᓂ ᐊᕕᒃᑐᖅᓯᒪᔪᖅ, ᐊᒻᒪᓗ ᐲᔭᐅᔪᓐᓃᕐᓂᖓᑦ. ᓯᕗᓪᓕᖅᐸᓪᓕᐊᓗᒍ:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **ᖃᐅᔨᒋᐊᕐᓗᒍ ᐊᑭᓕᒫᕐᒥ ᑐᓴᕈᑎᒥ ᑎᑎᕋᖅᓯᒪᔪᑦ.** Google Play-ᑯᑦ [Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ᐊᒻᒪᓗ App Store-ᑯᑦ [ᑐᓴᕈᑎᒥ ᑐᑭᓯᒋᐊᕐᓂᖅ](https://support.apple.com/en-us/102399) ᓇᓗᓇᐃᖅᓯᔪᖅ ᑎᑎᕋᖅᓯᒪᔪᑦ ᑕᑯᒃᓴᐅᔪᑦ ᐊᒻᒪᓗ ᐊᕕᒃᑐᖅᓯᒪᔪᑦ. ᑕᐃᒪᐃᓐᓇᖅ ᐊᑐᖅᑎᑦᑎᔨᓄᑦ ᑐᑭᓯᒋᐊᕐᓂᕐᒧᑦ, ᐊᔾᔨᒌᖕᓂᖃᙱᑦᑐᖅ ᖃᐅᔨᓴᕐᓂᕐᒧᑦ.
+2. **ᖃᐅᔨᒋᐊᕐᓗᒍ ᐊᑭᓕᒫᖅ ᐊᑐᐊᒐᖅ ᐱᔪᒪᔭᐅᔪᖅ.** ᐊᔾᔨᖅᓯᒪᔪᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᔪᖅᑮᑦᑐᑦ ᓂᐱᑦ ᐊᑐᐊᒐᖅ, ᐊᑐᐊᒐᖅ ᐊᑭᓕᒫᕐᒧᑦ ᐊᑎᖅ, ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᕌᖓᓂ ᐅᕝᕙᓘᓐᓃᑦ ᐅᑭᐅᖅ ᑐᑭᓯᒋᐊᕐᓂᖅ ᐱᔪᒪᔭᐅᓂᖃᙱᑦᑐᖅ.
+3. **ᖃᐅᔨᒋᐊᕐᓗᒍ ᐱᔪᒪᔭᐅᔪᑦ.** ᐊᔾᔨᒌᖕᓂᖅ ᐊᑐᖅᑎᑦᑎᔾᔪᑎᒍᑦ ᓂᐱᒃ ᐃᓄᑖᓐᓇᖅ ᓄᓇᓕᒫᖅ, ᖃᑕᙳᑎᒌᑦ, ᓂᐅᕕᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᔾᔨᖅᓯᒪᔪᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ ᐱᔪᒪᔭᐅᔪᓐᓇᕐᒪᖔᑕ? ᐃᖅᑲᐅᒪᑎᑦᑎᓗᒍ ᐊᑐᐊᒐᖅ ᐱᔪᒪᔭᐅᔪᖅ.
+4. **ᖃᐅᔨᒋᐊᕐᓗᒍ ᓴᖅᑭᑎᑦᑎᔾᔪᑎᒃ ᐊᒻᒪᓗ ᖃᐅᔨᓴᕐᓂᖅ.** ᓴᖅᑭᑎᑦᑎᔾᔪᑎᒃ ᐊᒻᒪᓗ ᖃᐅᔨᓴᕐᓂᕐᒧᑦ ᐱᓕᕆᔾᔪᑎᖏᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᕕᒃᑐᖅᓯᒪᔪᓐᓇᖅᑐᑦ ᐊᓯᖏᓐᓄᑦ.
+5. **ᖃᐅᔨᒋᐊᕐᓗᒍ ᖃᓄᖅ ᐊᔾᔨᖅᓯᒪᔪᑦ ᐊᑐᖅᑎᑦᑎᓂᖅ.** ᐃᒥᒻᒪᕆᒃᑯᑦ ᐊᔾᔨᖅᓯᒪᔪᑦ ᐃᓚᒋᔭᐅᔪᑦ ᐊᑐᖅᑎᑦᑎᓂᐊᕐᒪᖔᑕ, ᐅᓄᖅᑲᓐᓂᖅᓯᒪᔪᖅ ᐊᑭᓕᒫᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓇᐹᖅᑖᖅᑎᑦᑎᔨᒥ ᐱᑕᖃᖅᑐᖅ? ᐲᔭᐅᔪᓐᓃᕐᒪᖔᑕ?
+6. **ᖃᐅᔨᒋᐊᕐᓗᒍ ᐲᔭᐅᔪᓐᓃᕐᓂᖓᑦ.** ᖃᐅᔨᒋᐊᕐᓗᒍ ᑐᓴᕈᑎᒥ ᐊᐅᓚᑦᑎᔾᔪᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒃ ᖃᓄᖅ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐲᔭᐅᔪᓐᓃᕐᓂᖏᓐᓄᑦ ᐊᒻᒪᓗ ᐊᑭᓕᒫᖅ ᐲᔭᐅᔪᓐᓃᕐᓂᖓᑦ. ᓂᐱᒃ ᐅᖃᐅᓯᖃᖅᑐᖅ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐲᔭᐅᔪᓐᓃᕐᒪᖔᑕ ᐃᑲᔪᖅᑕᐅᓂᖃᙱᑦᑐᖅ, ᐊᖏᔪᖅ ᐃᑲᔪᖅᑕᐅᓂᖃᖅᑐᖅ ᐊᔾᔨᖅᓯᒪᔪᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᓪᓚᓯᒪᓂᕐᒧᑦ ᑐᑭᓯᒋᐊᕐᓂᖅ ᐊᑐᖅᑎᑦᑎᓂᖅ.
+7. **ᖃᐅᔨᒋᐊᕐᓗᒍ ᑐᓴᕈᑎᒥ ᐊᐅᓚᑦᑎᔾᔪᑎᒃ** ᑎᑎᕋᖅᓯᒪᔪᑦ ᑕᑯᒃᓴᐅᔪᑦ, ᖃᖓᓂᒃ ᑕᑯᒃᓴᐅᔪᖅ, ᖃᖓᓂ ᐊᑐᖅᑎᑦᑎᓂᐊᕐᒪᖔᑕ, ᖃᖓᓂ ᐃᖅᑲᐅᒪᑎᑦᑎᔪᐊᕐᒪᖔᑕ, ᐊᒻᒪᓗ ᑭᓱᓂ ᐊᕕᒃᑐᖅᓯᒪᔪᖅ.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA ᓴᐳᑎᑦᑎᓂᖃᖅᑐᖅ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᓂᐱᒥ ᑎᑎᕋᖅᓯᒪᔪᓄᑦ?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+ᐊᒥᓱᓂ ᐊᑐᐊᒐᖅ ᓴᐳᑎᑦᑎᓂᖃᙱᑦᑐᖅ, ᑖᓐᓇ ᐊᒥᓱᓄᑦ ᑐᑭᓯᒋᐊᕐᓂᖃᙱᑦᑐᖅ. U.S. Department of Health and Human Services [ᐅᖃᐅᓯᖃᖅᑐᖅ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA ᐊᑐᖅᑎᑦᑎᓂᖃᖅᑐᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒃ ᐱᓕᕆᔨᓄᑦ, ᐊᐅᓚᑦᑎᔾᔪᑎᒃ ᐱᓕᕆᔾᔪᑎᒃ ᐊᒻᒪᓗ ᐱᓕᕆᖃᑎᒌᓄᑦ. ᐊᒥᓱᓂ ᐊᑐᐊᒐᖅ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐃᒥᒻᒪᕆᒃᑯᑦ ᓂᐱᒥ ᐃᓕᔪᖃᕐᓂᖅ ᐊᐅᓚᑦᑎᔨᓂ ᐅᕝᕙᓘᓐᓃᑦ ᐱᓕᕆᖃᑎᒌᓂ ᐱᑕᖃᖅᑎᑦᑎᓂᖃᖅᑎᓪᓗᒍ ᓴᐳᑎᑦᑎᓂᖃᙱᑦᑐᖅ. "ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ" ᓂᐱᒃ ᐊᑭᓕᒫᕐᒥ ᐱᑕᖃᖅᑐᖅ ᐊᒥᓱᓂ HIPAA-ᒥ ᐊᑐᐊᒐᖅ ᐊᕝᕙᖓᓂᒃ ᐊᑐᐊᒐᖅ.
 
-### What protects health data in apps that HIPAA does not cover?
+### ᑭᓱᒃᑯᑦ ᓴᐳᑎᑦᑎᓂᖃᖅᑐᖅ ᐊᐅᓪᓚᓯᒪᓂᕐᒧᑦ ᑎᑎᕋᖅᓯᒪᔪᓄᑦ HIPAA-ᒥ ᓴᐳᑎᑦᑎᓂᖃᙱᑦᑐᓄᑦ?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission-ᑯᑦ Health Breach Notification Rule ᓴᐳᑎᑦᑎᓂᖃᖅᑐᖅ ᐊᒥᓱᓄᑦ. 2024-ᒥ FTC [ᐊᖏᔪᖅ ᐊᑐᐊᒐᖅ ᐊᑐᖅᑎᑦᑎᓪᓗᓂ](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ᐅᖃᐅᓯᖅ ᐊᑐᖅᑎᑦᑎᓂᖃᖅᑐᖅ ᐊᐅᓪᓚᓯᒪᓂᕐᒧᑦ ᓂᐱᓄᑦ ᐊᒻᒪᓗ ᐊᔾᔨᐅᔪᓄᑦ ᐱᓕᕆᔾᔪᑎᓄᑦ HIPAA-ᒥ ᓴᐳᑎᑦᑎᓂᖃᙱᑦᑐᓄᑦ. "ᐊᕕᒃᑐᖅᓯᒪᓂᖅ" ᐃᓚᒋᔭᐅᔪᖅ ᐊᑐᐊᒐᖅ ᐊᕕᒃᑐᖅᓯᒪᓂᖅ, ᐃᖅᑲᐅᒪᑎᑦᑎᓂᖅ ᑭᓯᐊᓂᓕᕐᓄᑦ, ᐊᒻᒪᓗ ᐱᓕᕆᔨᓄᑦ ᑐᓴᕐᓗᒍ ᐊᒻᒪᓗ FTC-ᒧᑦ ᑐᓴᖅᑎᑦᑎᔪᐊᕐᒪᖔᑕ. ᑖᓐᓇ ᓴᐳᑎᑦᑎᓂᖅ ᐊᕕᒃᑐᖅᓯᒪᓂᕐᒧᑦ, ᐱᔪᒪᔭᐅᔪᖅ ᓂᐱᒃ ᐱᔭᐅᔪᑦ ᐊᑐᐊᒐᖅ ᑕᑯᒃᓴᐅᔪᓐᓃᕐᒪᖔᑕ ᐊᑐᐊᒐᖅ.
 
-## How should I read claims about research and evidence?
+## ᖃᓄᖅ ᖃᐅᔨᒋᐊᕐᓗᒍ ᖃᐅᔨᓴᕐᓂᖅ ᐊᒻᒪᓗ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᑦ?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+ᖃᐅᔨᒋᐊᕐᓗᒍ ᖃᐅᔨᓴᕐᓂᕐᒧᑦ ᐅᖃᐅᓯᖅ ᓄᓇᖃᖅᑳᖅᓯᒪᔪᓂ, ᐊᒻᒪᓗ ᐃᑲᔪᖅᑕᐅᔪᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐊᖏᔪᖅ ᐱᔪᒪᔭᐅᔪᑦ. ᐊᐅᓪᓚᑦᑎᔾᔪᑎᑦ:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **ᖃᖓᓂᒃ ᖃᐅᔨᓴᕐᓂᖅ ᐱᓕᕆᔭᐅᔪᖅ?** ᐊᑑᑎᖅ ᖃᐅᔨᓴᕐᓂᖅ ᐊᑑᑎᖅ ᐱᓕᕆᔾᔪᑎᒍᑦ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᙱᑦᑐᖅ ᓂᐱᒥ ᐊᑐᖅᑎᑦᑎᓂᖅ ᐊᔾᔨᐅᔪᓐᓇᖅᑐᖅ.
+- **ᑭᓱᓂ ᖃᐅᔨᓴᕐᓂᖅ ᐱᓕᕆᔭᐅᔪᖅ?** ᐊᐅᓪᓚᓯᒪᔪᑦ ᐃᓄᐃᑦ ᐱᓕᕆᔭᐅᔪᖅ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᐊᑐᐊᒐᖅ ᐊᔾᔨᒌᙱᑦᑐᖅ.
+- **ᖃᖓᓂᒃ ᓇᓗᓇᐃᖅᓯᔭᐅᔪᖅ?** ᓂᐱᒥ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᔾᔨᒌᙱᑦᑐᖅ ᐅᓂᒃᑳᖅᑎᓪᓗᒍ, ᐅᖃᖃᑎᖃᖅᑎᓪᓗᒍ, ᐊᒻᒪᓗ ᐱᓕᕆᔾᔪᑎᒃ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᔾᔨᒌᖕᓂᖏᓐᓄᑦ.
+- **ᖃᓄᖅ ᓇᓗᓇᐃᖅᓯᒪᔪᖅ?** ᐊᑑᑎᖅ ᖃᐅᔨᓴᕐᓂᖅ (RCT) ᐊᔾᔨᒌᖕᓂᖃᖅᑐᖅ ᑲᑎᒪᓂᕐᒥ. ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᔾᔨᒌᖕᓂᖅ ᐊᖏᔪᖅ, ᐊᒻᒪᓗ ᐊᑑᑎᖅ ᓄᓈᖅᑎᑐᐃᓐᓇᖅ ᖃᐅᔨᓴᕐᓂᖅ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᙱᑦᑐᖅ. ᖃᐅᔨᒋᐊᕐᓗᒍ ᐊᒥᓱᑦ ᖃᐅᔨᓴᕐᓂᖅ, ᐊᔾᔨᒌᙱᑦᑐᓂ ᖃᐅᔨᓴᖅᑎᓂ ᐱᓕᕆᔭᐅᔪᖅ.
+- **ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᔾᔨᒌᖕᓂᖃᖅᑐᖅ?** ᓂᐱᒥ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᔾᔨᒌᖕᓂᖅ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᙱᑦᑐᖅ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᓂᐸᖅᑎᕆᓂᖅ, ᓄᖅᑲᖅᑎᕆᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑲᓇᑕᐅᔭᐅᓂᖅ.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging-ᑯᑦ ᒪᒃᐱᒐᖅ [ᐃᓱᒪᒃᑯᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᒻᒪᓗ ᐃᓄᐃᑦ](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ᐅᖃᐅᓯᖃᖅᑐᖅ NIH-ᒧᑦ ᐊᖏᔪᖅ ᖃᐅᔨᓴᕐᓂᖅ ᐃᓱᒪᒃᑯᑦ ᐊᐅᓪᓚᓯᒪᓂᕐᒧᑦ, ᐊᒻᒪᓗ ᐃᑲᔪᖅᑕᐅᔪᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐃᓱᒪᒋᔭᐅᔪᑦ ᓂᐱᑦ ᐊᑐᖅᑎᑦᑎᓂᖅ ᐃᓱᒪᓂᖅ ᐊᒻᒪᓗ ᐃᓱᒪᒃᑯᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ. ᐅᖃᐅᓯᖃᖅᑐᖅ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᐅᑎᖃᙱᑦᑐᖅ ᐊᑭᓕᒫᒃᑯᑦ ᓂᐱᑦ ᐊᔾᔨᐅᔪᓐᓇᖅᑐᖅ ᐊᖏᔪᖅ ᖃᐅᔨᓴᕐᓂᕐᒥ ᐱᓕᕆᔭᐅᔪᒥ. ᖃᐅᔨᒋᐊᕐᓗᒍ ᐅᓄᕐᓂᖅ [ᐃᓱᒪᒃᑯᑦ ᓂᐱᑦ ᐊᒻᒪᓗ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᑦ](/brain-health/brain-games/) ᐊᒻᒪᓗ [ᖃᐅᔨᓴᕐᓂᖅ ᐅᖃᐅᓯᖃᖅᑐᖅ ᓂᐸᖅᑎᕆᓂᖃᖅᑐᓐᓂᐊᕐᒪᖔᑕ](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### ᖃᓄᖅ ᓇᓗᓇᐃᖅᓯᓪᓗᒍ ᐃᓱᒪᒋᔭᐅᔪᑦ ᐃᓱᒪᒋᔭᐅᓂᖃᙱᑦᑐᖅ?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016-ᒥ ᓯᕗᓪᓕᖅᐸᓪᓕᐊᓂᖅ, FTC [ᑐᓴᖅᑎᑦᑎᓪᓗᓂ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity-ᑯᑦ ᐱᓕᕆᔨᓄᑦ. FTC ᐅᖃᐅᓯᖃᖅᑐᖅ ᐱᓕᕆᔨᓄᑦ ᐅᖃᐅᓯᖃᖅᑐᓂ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᐅᑎᖃᙱᓪᓗᑎᒃ, ᓂᐱᒋᔭᐅᔪᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᖏᑦ ᓄᖅᑲᖅᑎᕆᔪᓐᓇᖅᑐᖅ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ, ᓄᓇᖃᖅᑳᖅᓯᒪᓂᖅ ᐃᓱᒪᒃᑯᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ, ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᐊᒻᒪᓗ Alzheimer's disease. ᐱᓕᕆᔨᑦ ᐊᑭᓕᒫᖅ $2 ᒪᐃᓐᓐᓄᑦ ᓄᖅᑲᖅᑎᑦᑎᓪᓗᑎᒃ, ᐊᒻᒪᓗ ᐱᒋᐊᕐᓗᒍ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᐅᑎᖃᕐᓗᒍ ᐃᓱᒪᒋᔭᐅᔪᑦ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒍᑦ ᐅᖃᐅᓯᖃᖅᑎᓪᓗᒍ. ᑖᓐᓇ ᐱᓕᕆᔾᔪᑎᖃᖅᑐᖅ ᐃᑲᔪᖅᑕᐅᔪᖅ ᓇᓗᓇᐃᖅᓯᓪᓗᒍ ᐊᑭᓕᒫᕐᒥ ᐅᖃᐅᓯᖅ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ ᐊᔾᔨᒌᙱᑦᑐᖅ.
 
-### Which words are red flags?
+### ᖃᓄᖅ ᐅᖃᐅᓯᐅᔪᑦ ᐃᑲᔪᖅᑕᐅᔪᖅ?
 
-Be cautious when an app or ad says it:
+ᐃᑲᔪᖅᑕᐅᔪᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐃᓄᐃᑦ ᓂᐱᒥ ᐅᖃᐅᓯᖃᖅᑎᓪᓗᒍ:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- "ᓂᐸᖅᑎᕆᓂᖃᖅᑐᖅ", "ᖁᑦᑎᕐᓱᐃᔪᓐᓇᖅᑐᖅ", "ᓄᖅᑲᖅᑎᕆᔪᓐᓇᖅᑐᖅ" ᐅᕝᕙᓘᓐᓃᑦ "ᐱᐅᔪᓐᓇᖅᑐᖅ" ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ Alzheimer's disease;
+- "ᑲᓇᑕᐅᔭᐅᔪᖅ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ" ᖃᐅᔨᓴᕐᓂᖅ ᐊᑐᐊᒐᖅ, ᑭᓱᓂ ᖃᐅᔨᓴᕐᓂᖅ, ᑭᓱᓂ ᐃᓚᒋᔭᐅᔪᖅ, ᐊᒻᒪᓗ ᖃᖓᓂᒃ ᓇᓗᓇᐃᖅᓯᔭᐅᔪᖅ ᐅᖃᐅᓯᖃᙱᓪᓗᒍ;
+- "ᐃᓱᒪᒃᑯᑦ ᐊᕐᕌᒍ" ᐅᕝᕙᓘᓐᓃᑦ ᐃᓱᒪᓂᖅ ᓈᓚᒃᑐᖅ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒍᑦ ᐃᓱᒪᒋᔭᐅᔪᖅ;
+- "ᐊᐅᓪᓚᑦᑎᓪᓗᒍ", "ᐱᐅᓪᓗᐊᑲᓐᓂᖅᓯᐊᕐᓗᒍ" ᐅᕝᕙᓘᓐᓃᑦ "ᐊᐅᓪᓚᑦᑎᐊᕐᓗᒍ" ᐃᓱᒪᒃᑯᑦ;
+- ᐃᑲᔪᖅᑕᐅᓂᖃᖅᑐᖅ ᐃᑲᔪᖅᑐᓄᑦ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒍᑦ.
 
-If you are unsure about a claim, ask the person's doctor.
+ᐃᑲᔪᖅᑐᓂᒃ ᐃᓱᒪᒋᐊᕐᓂᖃᖅᑎᓪᓗᒍ, ᖃᐅᔨᒋᐊᕐᓗᒍ ᐃᓄᒃᑎᑐᑦ ᐊᐅᓚᑦᑎᔨᓄᑦ.
 
-## Where does Golden Moments fit?
+## ᖃᓄᖅ Golden Moments ᐊᑐᐊᒐᖅ?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ᐱᓕᕆᔾᔪᑎᖃᖅᑐᖅ ᐊᔪᖅᑮᑦᑐᓂ ᑲᒪᒋᖃᑎᖃᖅᑎᑦᑎᓂᕐᒧᑦ, ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ, ᑲᓇᑕᐅᔭᐅᔾᔪᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐊᑐᐊᒐᖅ. ᓂᐱᑦ, [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ᐊᒻᒪᓗ [Calm Breathing](/games/calm-breathing/), ᐊᔾᔨᒌᖕᓂᖅ ᖃᐸᓕᖅᑎᓂᕐᒧᑦ ᐊᒻᒪᓗ ᐅᖃᖃᑎᖃᖅᑎᑦᑎᓂᕐᒧᑦ. ᑕᐃᒪᐃᓐᓇᖅ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ, ᑲᓇᑕᐅᔭᐅᔾᔪᑎᒃ, ᐃᓄᐃᑦ ᐊᕙᑎᓂᒃ ᓂᐸᖅᑎᕆᔾᔪᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒃ ᐱᔪᒪᒋᐊᕐᓂᖃᙱᑦᑐᖅ, ᐊᒻᒪᓗ ᐃᓱᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓱᒪᒃᑯᑦ ᐊᐅᓪᓚᓯᒪᓂᖅ ᐊᑐᐊᒐᖏᑦ ᐱᔪᒪᒋᐊᕐᓂᖃᙱᑦᑐᖅ.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+ᐊᑭᓕᒫᖅ ᓂᐱᒃ, [Golden Moments iPhone, iPad ᐊᒻᒪᓗ Android-ᒧᑦ](/app/). ᐊᔪᖅᑮᑦᑐᑦ ᐊᔾᔨᒌᖕᓂᖅ ᐊᖏᓛᑦ ᓇᕿᑦᑑᑎᓂᒃ, ᐃᒥᒻᒪᕆᒃᑯᑦ ᐊᔾᔨᖅᓯᒪᔪᑦ ᓂᕈᐊᕐᓗᒍ, ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ ᐊᔾᔨᖅᓯᒪᔪᑦ ᐅᓄᖅᑲᓐᓂᖅᓯᒪᔪᓐᓃᑦ ᐊᑐᖅᑎᑦᑎᓂᐊᕐᒪᖔᑕ, ᐊᑭᓕᒫᖅ ᐊᑐᐊᒐᖅ, ᓴᖅᑭᑎᑦᑎᔾᔪᑎᒃ, ᐱᔭᐅᔪᖅ ᐃᓅᓯᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓈᓚᒃᑐᖅ ᐊᑐᐊᒐᖅ. ᐊᔾᔨᐅᔪᖅ ᖃᐅᔨᒋᐊᕐᓂᖅ ᐊᑐᐊᒐᖅ: App Store-ᑯᑦ ᑐᓴᕈᑎᒥ ᑎᑎᕋᖅᓯᒪᔪᖅ "Data Not Collected", ᐊᒻᒪᓗ [ᐊᑐᖅᑎᑦᑎᔾᔪᑎᒃ ᑐᓴᕈᑎᒥ ᐊᐅᓚᑦᑎᔾᔪᑎᒃ](/app-privacy/) ᐅᖃᐅᓯᖃᖅᑐᖅ ᖃᓄᖅ ᐊᔾᔨᖅᓯᒪᔪᑦ ᐊᑐᖅᑎᑦᑎᓂᖅ.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+ᐃᑲᔪᖅᑕᐅᔪᖅ ᓇᓗᓇᐃᖅᓯᓪᓗᒍ ᐅᖃᐅᓯᖏᓐᓄᑦ ᐃᑲᔪᖅᑕᐅᓪᓗᒍ. ᐊᑐᖅᑎᑦᑎᓗᒍ ᖃᐅᔨᒋᐊᕐᓂᖅ ᒪᒃᐱᒐᖅ, ᖃᐅᔨᒋᐊᕐᓗᒍ [ᑐᓴᕈᑎᒥ ᐊᐅᓚᑦᑎᔾᔪᑎᒃ](/privacy/) ᐊᒻᒪᓗ [ᐊᐅᓚᑦᑎᔾᔪᑎᒍᑦ ᐅᖃᐅᓯᖅ](/medical-disclaimer/), ᐊᒻᒪᓗ ᓄᖅᑲᖅᑎᑦᑎᓗᒍ ᑕᐃᒪᐃᓐᓇᖅ ᐊᑐᐊᒐᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐅᕛᖅᑲᓐᓂᕐᒧᑦ, ᐊᔾᔨᒌᙱᑦᑐᓄᑦ ᐊᔾᔨᒌᖕᓂᖃᙱᑦᑐᓄᑦ.
 
-## What is a sensible way to try a new app?
+## ᖃᓄᖅ ᐊᖏᔪᖅ ᐱᒋᐊᕐᓗᒍ ᓄᑖᖅ ᓂᐱᒃ?
 
-Try it together for a couple of weeks and watch what happens.
+ᖃᐅᔨᒋᐊᕐᓗᒍ ᑲᒪᒋᖃᑎᖃᖅᑎᓪᓗᒍ ᒪᕐᕉᒃ ᐅᑭᐅᖅ, ᐊᒻᒪᓗ ᖃᐅᔨᒋᐊᕐᓗᒍ ᖃᓄᖅ ᐱᓕᕆᔭᐅᔪᖅ.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **ᐊᑐᖅᑎᑦᑎᓗᒍ ᓯᕗᓪᓕᖅᐸᓪᓕᐊᓗᒍ** [ᑎᑎᕋᖅᓯᒪᔪᖅ ᐊᒻᒪᓗ ᐊᑭᓕᒫᖅ ᐊᑐᖅᑎᑦᑎᔾᔪᑎᒃ](/caregiving/tablets-and-screens/) ᐊᑐᖅᑎᑦᑎᓗᒍ, ᐊᒻᒪᓗ ᐱᒋᐊᕐᓗᒍ ᐊᔪᖅᑮᑦᑐᒥ ᐊᔾᔨᒌᖕᓂᕐᒥ.
+2. **ᐊᑯᓐᓂᖅᑐᓂ ᐊᐅᓪᓚᑦᑎᔾᔪᑎᒍᑦ,** ᖃᐅᔨᒋᐊᕐᓗᒍ ᖁᕕᐊᓱᖕᓂᖅ, ᐅᖃᖃᑎᖃᖅᑎᓪᓗᒍ ᐊᒻᒪᓗ ᖃᐸᓕᖅᑎᓪᓗᒍ, ᐊᒻᒪᓗ ᓄᖅᑲᖅᑎᑦᑎᓗᒍ ᐊᖏᔪᖅ ᖃᐸᓕᖅᑎᓂᕐᒧᑦ ᐱᔭᐅᔪᖅ.
+3. **ᓄᖅᑲᖅᑎᑦᑎᓗᒍ ᐅᖁᓯᒪᓂᖅ ᐱᓕᕆᔭᐅᔪᑦ,** ᐊᔾᔨᐅᓪᓗᓂ ᐊᖏᔪᖅ ᓇᓗᓇᐃᖅᓯᒪᔪᖅ ᐱᐅᓯᒪᔪᖅ.

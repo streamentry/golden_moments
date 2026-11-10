@@ -1,34 +1,36 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "ტელეფონი და ვიდეოზარი დემენციით მცხოვრები ადამიანისთვის"
+seoTitle: "ვიდეოზარის აქტივობები დემენციისას"
+description: "ვიდეოზარისა და ტელეფონის აქტივობები შორიდან მყოფი ახლობლებისთვის: ერთად ნახვა, კითხვა, სიმღერა, ეკრანის გაზიარებით თამაშები და რჩევები დამხმარეებისთვის."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  დემენციით მცხოვრებ ადამიანთან ზარები უკეთესად გამოვა, როცა ისინი მოკლე,
+  რეგულარულია და ერთად გასაკეთებელ რაღაცაზეა აგებული — მაგალითად, შინაური
+  ცხოველის ან ბაღის ჩვენებაზე, ფოტოების ერთად დათვალიერებაზე, ხმამაღლა
+  კითხვაზე, საყვარელი სიმღერის სიმღერაზე ან ეკრანის გაზიარებით მშვიდი
+  თამაშის თამაშზე. თუ შესაძლებელია, დარეკეთ ყოველდღე ერთსა და იმავე დროს,
+  ისე, რომ ერთდროულად მხოლოდ ერთი ადამიანი ლაპარაკობდეს, და სთხოვეთ
+  ადგილზე მყოფ ადამიანს, დაგეხმაროთ.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "აქტივობა ზარს ფორმას აძლევს და საუბრის ciężს ამცირებს. წინასწარ დაგეგმეთ ერთი მარტივი რამ, რასაც ერთად გაიზიარებთ."
+  - "მოკლე, რეგულარული ზარები ყოველდღე ერთსა და იმავე დროს ხშირად უკეთ მუშაობს, ვიდრე ხანგრძლივი და იშვიათი ზარები."
+  - "ერთდროულად მხოლოდ ერთი ადამიანი ლაპარაკობდეს. ჯგუფური ზარები, სადაც ერთმანეთს სიტყვას აჭრიან, ძნელია გასაგები, განსაკუთრებით სმენის დაქვეითებისას."
+  - "ადგილზე მყოფ დამხმარეს შეუძლია მოწყობილობის მომართვა, ადამიანის გვერდით ყოფნა და თამაშის ან ფოტოების „ხელების“ როლი."
+  - "თუ დღეს ზარი კარგად არ გამოდის, თბილად დაასრულეთ. ხვალ თავიდან ცდა სრულიად მისაღებია."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "რა შეიძლება გავაკეთო ვიდეოზარით დემენციით მცხოვრებ ადამიანთან?"
+    a: "დაგეგმეთ ერთი მარტივი აქტივობა: აჩვენეთ თქვენი ბაღი, შინაური ცხოველი ან სამზარეულო; ერთად დაათვალიერეთ ძველი ფოტოები; ხმამაღლა წაიკითხეთ მოკლე ლექსი ან წერილი; იმღერეთ სიმღერა, რომელიც უყვარს; ერთდროულად მოამზადეთ ერთი და იგივე კერძი; ან ითამაშეთ მშვიდი სურათებით თამაში ეკრანის გაზიარებით. აქტივობა ზარს აქცენტს აძლევს, ამიტომ ადამიანს არ უწევს საუბრის წაყვანა."
+  - q: "რამდენ ხანს უნდა გაგრძელდეს ვიდეოზარი?"
+    a: "როგორც წესი, იმაზე მოკლედ, ვიდრე ფიქრობთ. რამდენიმე თბილი წუთიც შეიძლება საკმარისი იყოს, განსაკუთრებით თუ ადამიანი სწრაფად იღლება. შესაძლოა უფრო მნიშვნელოვანი იყოს ყოველდღე ერთსა და იმავე დროს დარეკვა, ვიდრე თითოეული ზარის ხანგრძლივობა."
+  - q: "რა ვქნა, თუ ვიდეოზარი მას აბნევს ან აღაშფოთებს?"
+    a: "ზოგიერთ ადამიანს ეკრანზე სახის დანახვა დამაბნეველი ეჩვენება. სცადეთ ჩვეულებრივი სატელეფონო ზარი, ჩაწერილი ვიდეოშეტყობინება, რომლის ჩართვაც დამხმარეს მშვიდ დროს შეუძლია, ან ბარათები და ფოტოები ფოსტით. თუ ზარი ცუდად წავიდა, კეთილად დაასრულეთ და სცადეთ სხვა დღეს ან სხვა დროს."
+  - q: "როგორ დავეხმარო დედაჩემს ვიდეოზარში, თუ ტელეფონის გამოყენება არ შეუძლია?"
+    a: "სთხოვეთ ოჯახის წევრს, სახლში მომვლელ ადამიანს ან მოვლის დაწესებულების თანამშრომელს, დაიწყოს ზარი და დაიჭიროს ან დაამაგროს მოწყობილობა. ბევრი მოვლის დაწესებულება ოჯახებს ვიდეოზარებში ეხმარება, ამიტომ ჰკითხეთ, რა მხარდაჭერას სთავაზობენ. სადგამზე დამაგრებული ტაბლეტი, დიდი ეკრანითა და საკმარისად ხმამაღალი ხმით, ყველასთვის ამარტივებს საქმეს."
+  - q: "შეგვიძლია ვიდეოზარით ერთად თამაში?"
+    a: "დიახ. ყველაზე მარტივი გზაა, ერთმა ადამიანმა ვიდეოზარის აპში თავისი ეკრანი გააზიაროს, მეორე კი უთხრას, რომელ სურათზე დააჭიროს. ან ადგილზე მყოფ დამხმარეს შეუძლია იგივე თამაში ტაბლეტზე გახსნას და ადამიანის ნაცვლად დააჭიროს, სანამ თქვენ აგიხსნით, რა უნდა გაკეთდეს. აირჩიეთ თამაშები ტაიმერისა და ქულების გარეშე."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +52,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+დემენციით მცხოვრები ადამიანისგან შორს ცხოვრება შეიძლება უმწეოობის გრძნობას იწვევდეს. სატელეფონო და ვიდეოზარები ჩახუტებას ვერ ჩაანაცვლებს, მაგრამ სწორად მოწყობის შემთხვევაში, მაინც შეუძლია მოგიტანოთ ნამდვილი დაახლოების მომენტები. მთავარი ის არის, რომ ჩვეულებრივი საუბრის ნაცვლად წინასწარ დაგეგმოთ რაღაც მარტივი, რასაც ერთად გააკეთებთ. ამ გვერდზე განხილულია ვიდეოზარითა და ტელეფონით შესაფერისი აქტივობები, ზარის მომართვის გზები და ის, რითიც ადგილზე მყოფ ადამიანს შეუძლია დახმარება.
 
-## Why plan an activity for a call?
+## რატომ უნდა დაგეგმოთ აქტივობა ზარისთვის?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+აქტივობა ზარს ფორმას აძლევს. კითხვები: „როგორ ხარ? დღეს რა გააკეთე?“ ადამიანს მოითხოვს, რომ გაიხსენოს და მოუყვეს, რაც შეიძლება რთული და დამძიმებელი იყოს. hingegen, „ნახე, პომიდორი დამწიფდა“ მისგან არაფერს მოითხოვს.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association აღნიშნავს, რომ ვიდეოზარით დიდ ჯგუფთან საუბარი შეიძლება რთული იყოს, და ურჩევს [ზარს სტრუქტურა მისცეთ](https://www.alz.org/help-support/caregiving/holidays) ისეთი რამით, როგორიცაა სიმღერების ერთად სიმღერა ან სურათების გაზიარება.
 
-## What activities work on a video call?
+## რა აქტივობები მუშაობს ვიდეოზარზე?
 
-### Show and tell
+### აჩვენეთ და მოუყევით
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+თქვენი სამყარო მასთან მიიტანეთ. კამერა ნელა დაატრიალეთ ბაღში, გააცანით ძაღლი, აჩვენეთ, რას ამზადებთ, დაუჭირეთ შვილიშვილის ნახატი ან ტელეფონი ფანჯრიდან გარეთ მიმართეთ, რომ თოვლი ნახოს. მარტივი სიტყვებით აღწერეთ, რასაც ხედავთ, და დაუტოვეთ პაუზები რეაქციისთვის. კითხვები არ არის საჭირო.
 
-### Look at photos together
+### ერთად დაათვალიერეთ ფოტოები
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+ძველი დაბეჭდილი ფოტო კამერასთან მიიტანეთ ან ეკრანი გააზიარეთ და თითო-თითოდ აჩვენეთ რამდენიმე დიდი ფოტო. ისაუბრეთ იმაზე, რასაც ამჩნევთ: „ნახე, ბაბუის ქუდი“. მოერიდეთ კითხვებს: „ეს ვინ არის?“ ან „იხსენებ?“ თუ ადამიანი ვინმეს სახელს შეცდომით ამბობს, უბრალოდ დაეთანხმეთ. ნაზი მინიშნებებისთვის იხილეთ ჩვენი [მოგონებების გზამკვლევი](/activities/reminiscence/).
 
-### Read aloud
+### ხმამაღლა კითხვა
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+წაიკითხეთ მოკლე ლექსი, ფსალმუნი, საყვარელი საბავშვო წიგნი იმავე ზარზე მყოფ შვილიშვილთან ერთად, ნათესავის წერილი ან გვერდი წიგნიდან, რომელიც უყვარდა. ხმამაღლა კითხვა ადამიანს აძლევს მშვიდ საგანს მოსასმენად, პასუხის გაცემის საჭიროების გარეშე.
 
-### Sing or listen to music together
+### ერთად იმღერეთ ან მოუსმინეთ მუსიკას
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+იმღერეთ სიმღერა, რომელიც კარგად იცის, ან ჩართეთ თქვენთან მისი საყვარელი ჩანაწერი. ბევრ ადამიანისთვის სიმღერაში ჩართვა საუბარზე უფრო მარტივია. იხილეთ ჩვენი [მუსიკალური აქტივობების გზამკვლევი](/activities/music/).
 
-### Cook or bake at the same time
+### ერთდროულად მოამზადეთ საჭმელი ან გამოაცხვეთ
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association გვთავაზობს, ვიდეოზარი დაგეგმოთ, რომ ერთად მოამზადოთ ან გამოაცხვოთ განსაკუთრებული კერძი. მოამზადეთ ზარი ორივე სამზარეულოში. ადგილზე მყოფმა ადამიანმა შეიძლება აურიოს ან გასინჯოს, სანამ თქვენ მის ძველ რეცეპტს მიჰყვებით.
 
-### Watch something together
+### ერთად უყურეთ რაღაცას
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+ასოციაცია ასევე გვთავაზობს, საყვარელ ფილმს ერთდროულად უყუროთ სხვადასხვა სახლიდან, ტელეფონით ან ვიდეოზარით საუბრის პარალელურად. დემენციით მცხოვრები ადამიანისთვის მოკლე მონაკვეთი, ძველი სატელევიზიო ეპიზოდი ან სპორტული თამაში შესაძლოა მთელ ფილმზე უკეთესი იყოს.
 
-### Play a gentle game on a shared screen
+### ითამაშეთ მშვიდი თამაში ეკრანის გაზიარებით
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+ვიდეოზარის ბევრ აპს ეკრანის გაზიარება შეუძლია. თქვენ ხსნით თამაშს და აჭერთ ღილაკებს; ადამიანი გეუბნებათ ან მიგითითებთ, რომელ სურათს აირჩიოთ. ან ადგილზე მყოფ დამხმარეს შეუძლია იგივე თამაში ტაბლეტზე გახსნას და მის ნაცვლად დააჭიროს, სანამ თქვენ ესაუბრებით.
 
-Games that work well this way:
+თამაშები, რომლებიც ამ ფორმატისთვის კარგად подходит:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[დაასრულე поговорка](/games/finish-the-saying/):** თქვენ კითხულობთ ნაცნობ поговорკას, ისინი ასრულებენ დასასრულს, შემდეგ კი ხმოვანი მინიშნება მოგყვება.
+- **[Picture Pairs](/games/picture-pairs/):** დიდი სურათებით მშვიდი შესატყვისი თამაში, სადაც სურათები ხილული შეიძლება დარჩეს, ტაიმერისა და ქულების გარეშე.
+- **[Conversation Cards](/games/conversation-cards/):** სურათი და ღია შეკითხვა, რომელზეც შეგიძლიათ ერთად ისაუბროთ.
+- **[Photo Pairs](/games/photo-pairs/):** შესატყვისი თამაში ფოტოებით, რომელსაც თქვენ ირჩევთ საკუთარ მოწყობილობაზე. ფოტოები თქვენს ბრაუზერში რჩება, ადამიანი კი მათ გაზიარებული ეკრანით ხედავს.
 
-### Recorded messages
+### ჩაწერილი შეტყობინებები
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+როცა პირდაპირი ზარები რთულია, ჩაწერეთ მოკლე ვიდეო: მისალმება, სიმღერა, ბაღში სეირნობა. დამხმარეს შეუძლია მისი ჩართვა მშვიდ დროს, იმდენჯერ, რამდენჯერაც ადამიანს სიამოვნებს. Alzheimer's Association აღნიშნავს განსაკუთრებული მომენტების ჩაწერას და გაგზავნას, მაგალითად, ბავშვების მიერ საჩუქრების გახსნას.
 
-## What about plain phone calls?
+## რა იტყვით ჩვეულებრივ სატელეფონო ზარებზე?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+ჩვეულებრივი სატელეფონო ზარებიც მნიშვნელოვანია. Dementia Australia გვთავაზობს, [ყოველდღე ერთსა და იმავე დროს დარეკოთ](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) და არ იჩქაროთ, რადგან დემენციით მცხოვრებ ადამიანებს ჩართვისთვის დრო შეიძლება დასჭირდეთ. ტელეფონით საუბრისას:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- პირდაპირ თქვით თქვენი სახელი და ნათესაური კავშირი: „გამარჯობა, მამა, მე ჯენი ვარ, შენი ქალიშვილი.“
+- ილაპარაკეთ ნელა, მოკლე წინადადებებით, ერთდროულად ერთი აზრით.
+- მიაწოდეთ სიახლეები, ნაცვლად იმისა, რომ მათ გამოეკითხოთ: „გუშინ ღამით შენი შემწვარი ხორცის რეცეპტით ვამზადებდი.“
+- წაიკითხეთ მოკლე ლექსი ან იმღერეთ საყვარელი სიმღერის ერთი სტროფი.
+- ზარი მოკლედ შეინარჩუნეთ და თბილად დაასრულეთ.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia ასევე აღნიშნავს, რომ ვიდეოზარები შეიძლება დაგეხმაროთ მაშინ, როცა საუბარი უფრო რთულდება, რადგან ადამიანს თქვენი სახის დანახვა შეუძლია. თუ სატელეფონო ზარები დამაბნეველი ხდება, სცადეთ ვიდეოზარი, ან პირიქით.
 
-## How do I set up a video call that works?
+## როგორ მოვამზადო ვიდეოზარი, რომ კარგად გამოვიდეს?
 
-**Before the call:**
+**ზარამდე:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **აირჩიეთ რეგულარული დრო**, როცა ადამიანი ჩვეულებრივ დასვენებულია, და მიეკარით მას. რუტინა ეხმარება.
+2. **შეთანხმდით ადგილზე მყოფ დამხმარესთან.** ერთი დღით ადრე გაგზავნილი მოკლე შეტყობინება დაგეგმვაში დაეხმარება.
+3. **შეამოწმეთ მოწყობილობა.** სადგამზე დამაგრებული ტაბლეტი უფრო მარტივია, ვიდრე ხელში დაჭერილი ტელეფონი. დარწმუნდით, რომ დამუხტულია, ეკრანი ნათელია და ხმა საკმარისად ხმამაღალი. ჩართეთ სუბტიტრები, თუ აპს ეს ფუნქცია აქვს და ადამიანს კითხვა უადვილდება.
+4. **დაგეგმეთ ერთი აქტივობა** და ყველაფერი წინასწარ მოამზადეთ.
 
-**During the call:**
+**ზარის დროს:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **კამერასთან ახლოს დაჯექით** კარგ განათებაში, ფანჯრისკენ მიპირდაპირებით და არა ისე, რომ ფანჯარი თქვენს უკან იყოს.
+- **ყოველ ჯერზე გააცანით თავი** — სახელი და ნათესაური კავშირი თქვით.
+- **ერთდროულად მხოლოდ ერთი ხმა.** Alzheimer's Association აღნიშნავს, რომ ერთმანეთში გადასული საუბარი რთულია დემენციით მცხოვრები ადამიანებისთვის და სმენის დაქვეითების მქონე ადამიანებისთვის. თუ რამდენიმე ნათესავი უერთდება, რიგრიგობით ილაპარაკეთ ან ორი-სამი ადამიანით შემოიფარგლეთ.
+- **ერთდროულად ერთი კითხვა დასვით.** Family Caregiver Alliance გვთავაზობს [მარტივ კითხვებს დიახ ან არა პასუხით](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) და, როცა შესაძლებელია, არჩევანის ჩვენებას.
+- **დაუტოვეთ გრძელი პაუზები.** დაელოდეთ პასუხს. თუ სიტყვას ეძებს, მისი შეთავაზება მისაღებია.
+- **გამოიყენეთ სახის გამომეტყველება და ხმის ტონი.** გაიღიმეთ, დაუკივეთ თავი და შეინარჩუნეთ თბილი ტონი. გამომეტყველება ხშირად სიტყვებზე მეტს ამბობს.
+- **არ გამოასწოროთ.** თუ ადამიანი რამეს არაზუსტად ამბობს, უბრალოდ მიიღეთ ისე, როგორც არის.
 
-**Ending the call:**
+**ზარის დასრულება:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- დაასრულეთ მანამ, სანამ ადამიანი დაიღლება, იდეალურ შემთხვევაში კარგი მომენტით.
+- ყოველ ჯერზე გამოიყენეთ ერთი და იგივე დამშვიდობება: „ხვალ ლანჩის დროს გადმოგირეკავ. მიყვარხარ.“
+- არ გაاخანგრძლივოთ ზედმეტად.
 
-## Tips for the helper on site
+## რჩევები ადგილზე მყოფი დამხმარისთვის
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+თუ თქვენ ხართ მეუღლე, მომვლელი, და-ძმა ან თანამშრომელი, რომელიც ზარში ეხმარება, თქვენ ხდებით ამას შესაძლებელს.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **მოამზადეთ მშვიდი ადგილი.** გამორთეთ ტელევიზორი და დახურეთ კარი.
+- **ზარი თქვენვე დაიწყეთ,** შემდეგ ადამიანს სადგამზე დამაგრებული ტაბლეტი გადაეცით ან თვალის დონეზე დაუჭირეთ.
+- **მის გვერდით დაჯექით, არა წინ.** თქვენი ყოფნა ამშვიდებს. საჭიროებისას ნაზად მიანიშნეთ: „ნახე, ჯენი არის.“
+- **იყავით მისი „ხელები“.** დაუჭირეთ ფოტოები, დააჭირეთ თამაშს, მოატრიალეთ ტაბლეტი, რომ ოთახი აჩვენოთ.
+- **დააკვირდით დაღლილობას ან მოუცლელობას** და აცნობეთ თანამოსაუბრეს, როდის არის დასრულების დრო.
+- **უთხარით თანამოსაუბრეს, რა გამოვიდა კარგად.** „ძაღლმა ძალიან გაახარა“ შემდეგი ზარის დაგეგმვაში დაეხმარება.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA გვთავაზობს, შორიდან მყოფმა ნათესავებმა შესაძლოა უხუცეს ადამიანს [ტელეფონის ფუნქციების освоებაში](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) დაეხმარონ, მაგალითად ვიდეოზარების გამოყენებაში. გვიან ეტაპებზე დამხმარეს, როგორც წესი, მოწყობილობის სრულად მართვა მოუწევს. ეს მისაღებია.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+თუ ადამიანი მოვლის სახლში ცხოვრობს, Alzheimer's Foundation of America გვთავაზობს, ჰკითხოთ დაწესებულებას, ეხმარება თუ არა ოჯახებს ვიდეოზარებში. AFA ასევე აღნიშნავს, რომ ოჯახებს შეუძლიათ ფოტოების გაცვლა მოვლის პერსონალთან ერთად და საყვარელი წასახემსებლების ან მცირე მოსახერხებელი ნივთების გაგზავნა, დაწესებულებაში დაშვებული წესების გათვალისწინებით.
 
-## What if the call doesn't go well?
+## რა ვქნა, თუ ზარი კარგად არ წავიდა?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+ზოგიერთი ზარი შეიძლება დამაბნეველი, უგულო ან შემაშფოთებელი იყოს. ეს თქვენი ბრალი არ არის და არ ნიშნავს, რომ ზარებს აზრი არ აქვს.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- თუ ადამიანი ეკრანით დაბნეული ჩანს, გადაერთეთ ჩვეულებრივ სატელეფონო ზარზე ან ჩაწერილ შეტყობინებაზე.
+- თუ იგი ნერვიულობს, აღიარეთ მისი გრძნობა, უთხარით დამამშვიდებელი რამ და ნაზად დაასრულეთ.
+- თუ ზარები დღის ერთსა და იმავე დროს ხშირად ცუდად მიდის, სცადეთ სხვა დრო.
+- თუ მას ეგონათ, რომ სხვასთან საუბრობს, კეთილად დაეთანხმეთ.
 
-It is fine to end early. A short, warm call is a good outcome.
+ადრე დასრულება სრულიად მისაღებია. მოკლე, თბილი ზარიც კარგი შედეგია.
 
-## Between calls
+## ზარებს შორის
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+სხვა გზებითაც შეინარჩუნეთ კავშირი. Dementia Australia გვთავაზობს ბარათების, ელფოსტების, ფოტოების ან მცირე საჩუქრების გაგზავნას. ყოველკვირეული ბარათი ერთი დიდი ფოტოთი და მოკლე შენიშვნით შეიძლება ისევ და ისევ იქნეს წაკითხული. დაბეჭდილი [Conversation Cards](/games/conversation-cards/), დამხმარისთვის გაგზავნილი, შემდეგ ზარს შეიძლება მზა თემა მისცეს.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+ტაბლეტის არჩევისა და მომართვის რჩევებისთვის იხილეთ [ტაბლეტები და ეკრანები](/caregiving/tablets-and-screens/). პირადად შეხვედრისთვის იხილეთ ჩვენი გზამკვლევი [ვიზიტების შესახებ](/activities/visiting/).

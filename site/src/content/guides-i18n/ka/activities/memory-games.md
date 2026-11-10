@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "მეხსიერების თამაშები დემენციისას: გამოცდის გარეშე"
+seoTitle: "მეხსიერების თამაშები დემენციისას, მშვიდი იდეები"
+description: "დამთხვევის, სურათებისა და ბარათების თამაშები დემენციით მცხოვრები უფროსებისთვის და როგორ ვითამაშოთ ისე, რომ არავინ გრძნობდეს გამოცდას."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  მეხსიერების თამაშები დემენციით მცხოვრები უფროსებისთვის ყველაზე უკეთ მაშინ
+  მუშაობს, როცა მეხსიერებაზე არ არის დამოკიდებული. ითამაშეთ დამთხვევის თამაშები
+  სურათებით ზემოთ, გამოიყენეთ ოთხიდან ექვსი ფანქარი, ითამაშეთ გუნდურად და
+  გამოტოვეთ ქულები. სურათის ამოცნობა უფრო მარტივია, ვიდრე მისი გახსენება,
+  ამიტომ აირჩიეთ თამაშები, სადაც ყველაფერი თვალწინ რჩება. მიზანი სიამოვნებაა,
+  არა შედეგი.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "ჩვეულებრივი მეხსიერების თამაშები ბარათებს მალავს და სწორედ იმას ამოწმებს, რასაც დემენცია ართულებს. სურათები ზემოთ დატოვეთ."
+  - "ნაკლები ნაწილი, უფრო დიდი სურათები და ერთდროულად ერთი არჩევანი თამაშს სასიამოვნოს ინარჩუნებს."
+  - "ითამაშეთ გუნდურად, მონაცვლეობით დაეხმარეთ ერთმანეთს და ქულები გვერდზე გადადეთ. არავინ უნდა აღმოჩნდეს ზეწოლის ქვეშ."
+  - "არცერთი მეხსიერების თამაში არ დაუმტკიცებულა, რომ კურნავს, ანელებს ან აჩერებს დემენციას. ითამაშეთ იმიტომ, რომ ეს სასიამოვნო ერთად გატარებული დროა."
+  - "შეწყვიტეთ მაშინ, როცა ჯერ კიდევ სასიამოვნოა. სურათებზე საუბარიც კარგი შედეგია."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "რა არის კარგი მეხსიერების თამაში დემენციით მცხოვრები ადამიანისთვის?"
+    a: "დამთხვევის თამაში დიდი, ნაცნობი სურათებით, რომლებიც შეიძლება ზემოთ დარჩეს, მაგალითად Picture pairs ოთხიდან ექვს ფანქარამდე დაყენებული. იმ სურათის ტყუპისის პოვნა, რომელსაც ხედავთ, სასიამოვნოა მოკლევადიანი მეხსიერების გამოცდის გარეშე. Find the same კიდევ უფრო მარტივია — ერთი სურათი უნდა შეადაროთ ორიდან ოთხ არჩევანს."
+  - q: "ეხმარება თუ არა მეხსიერების თამაშები დემენციის დროს?"
+    a: "არცერთი მეხსიერების თამაში არ დაუმტკიცებულა, რომ კურნავს, ანელებს ან აჩერებს დემენციას; Cochrane-ის მიმოხილვამ კომპიუტერული ტვინის ვარჯიშის შესახებ მტკიცებულებები ზედმეტად შეზღუდულად მიიჩნია, რომ დადასტურებულიყო დემენციის პროფილაქტიკა. თამაშები მაინც შეიძლება იყოს ერთად დროის სასიამოვნოდ გატარების გზა. აირჩიეთ ისინი სიამოვნებისა და თანაყოფილობისთვის."
+  - q: "უნდა ვითამაშო თუ არა კლასიკური Concentration დემენციით მცხოვრებ ადამიანთან?"
+    a: "ადრეულ ეტაპზე ზოგს ეს ჯერ კიდევ სიამოვნებს, განსაკუთრებით ბარათების მცირე რაოდენობით. თუ ბარათების ადგილის დამახსოვრება იმედგაცრუებას იწვევს, ბარათები ზემოთ გადაატრიალეთ და უბრალოდ ერთად იპოვეთ წყვილები. ასე ინარჩუნებთ დამთხვევას და ხსნით მეხსიერების გამოცდას."
+  - q: "რა მეხსიერების თამაშებია კარგი ჯგუფში უფროსებისთვის?"
+    a: "Picture bingo ეკრანზე წამკითხველით, ნაცნობი გამოთქმების ერთად დასრულება და სასაუბრო ბარათები ჯგუფისთვის კარგად მუშაობს. ითამაშეთ იქამდე, სანამ ყველა ბარათი არ შეივსება და ნუ გამოარჩევთ, ვინ უპასუხა სწორად, რომ არავინ იგრძნოს თავი გამოყოფილად."
+  - q: "არის თუ არა ინტერნეტში უფასო მეხსიერების თამაშები უფროსებისთვის?"
+    a: "დიახ. ამ საიტზე არსებული თამაშები, მათ შორის Picture pairs, Find the same, Photo pairs და Picture puzzle, უფასოა, რეგისტრაციას არ საჭიროებს და მუშაობს ტელეფონებზე, ტაბლეტებსა და კომპიუტერებზე. არცერთს არ აქვს ტაიმერი ან ქულები."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+მოძებნეთ „მეხსიერების თამაშები უფროსებისთვის“ და უმეტესობა იმისა, რასაც იპოვით, შექმნილია იმ ადამიანებისთვის, ვისაც გონებრივი ვარჯიში სურს: დამალული ბარათები, უკუთვლითი საათები, დონეები და ქულები. დემენციით მცხოვრები ადამიანისთვის ეს ელემენტები თამაშს იმ რამის გამოცდად აქცევს, რაც მისთვის უკვე გაჭირვებულია. იგივე თამაშების უფრო მშვიდად თამაშიც შეიძლება. ეს გვერდი აჩვენებს, როგორ, და ჩამოთვლის თამაშებს, რომლებიც თითოეულ ეტაპზე კარგად მუშაობს.
 
-## Why do classic memory games frustrate people with dementia?
+## რატომ იწვევს კლასიკური მეხსიერების თამაშები იმედგაცრუებას დემენციით მცხოვრებ ადამიანებში?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+იმიტომ, რომ ისინი ახალი ინფორმაციის გონებაში შენახვაზეა დამოკიდებული, რასაც ალცჰაიმერი — დემენციის ყველაზე გავრცელებული მიზეზი — ჩვეულებრივ ყველაზე 먼저 აზიანებს. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ამბობს, რომ ალცჰაიმერის ყველაზე გავრცელებული ადრეული სიმპტომია ახლახან ნასწავლი ინფორმაციის დამახსოვრების სირთულე. კლასიკურ Concentration-ში ორ ბარათს ატრიალებთ, იმახსოვრებთ, სად იყო ისინი, და ამას ერთი წუთის შემდეგ იყენებთ. ეს არის ახალი ინფორმაცია, რომელიც უნდა შეინახოთ და გაიხსენოთ.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+თუ დაამატებთ ტაიმერს, ქულას ან ბზუვილის ხმას არასწორი პასუხისთვის, ადამიანი იმაზე ამახვილებს ყურადღებას, czego ვერ აკეთებს, და ამას საყვარელი ადამიანის წინაშე განიცდის. ბევრი ადამიანი ჩუმად წყვეტს თამაშის სურვილს.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+ის, რასაც ხედავთ, მისი ამოცნობა განსხვავებული და ჩვეულებრივ უფრო მარტივი ამოცანაა. მეორე ჩაის ჭიქაზე მითითება, როცა ორივე თვალწინაა, სასიამოვნო გრძნობაა. ამიტომ ხრიკი ის არის, რომ დამთხვევა შეინარჩუნოთ და მეხსიერების გამოცდა მოხსნათ.
 
-## How do you make a memory game gentle?
+## როგორ გავხადოთ მეხსიერების თამაში უფრო მშვიდი?
 
-These adjustments work for card games, board games and games on a screen.
+ეს ცვლილებები მუშაობს ბარათის თამაშებისთვის, სამაგიდო თამაშებისთვის და ეკრანზე არსებულ თამაშებისთვის.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **სურათები ზემოთ დატოვეთ.** იმ სურათების დამთხვევა, რომლებსაც ხედავთ, მაინც ნამდვილი თამაშია და ხშირად სასიამოვნოც.
+2. **გამოიყენეთ ნაკლები ნაწილი.** დაიწყეთ ორი ან სამი წყვილით. მეტი მხოლოდ მაშინ დაამატეთ, თუ ზედმეტად მარტივად ეჩვენებათ და მეტს ისურვებენ.
+3. **აირჩიეთ დიდი, ნაცნობი, ზრდასრულებისთვის შესაფერისი სურათები.** ჩაის ჭიქა, მზესუმზირა, იალქნიანი ნავი. არა მულტფილმის გმირები და არა გადატვირთული სცენები.
+4. **ითამაშეთ გუნდურად.** „მოდით, ძაღლები ვიპოვოთ“ და არა „შენი ჯერია“. მონაცვლეობით მიუთითეთ და დაეხმარეთ.
+5. **ქულები გვერდზე გადადეთ.** არავის სჭირდება გამარჯვება. თუ ვინმე გკითხავთ, მარტივი „ჩვენ შევძელით“ საკმარისია.
+6. **არასდროს იჩქაროთ დროით.** ტაიმერების გარეშე და ჯერზე გადასვლისას აჩქარების გარეშე.
+7. **ისაუბრეთ სურათებზე.** „შეხედე ამ ნავს. ოდესმე გიცურავს?“ საუბარი ხშირად საუკეთესო ნაწილია.
+8. **შეწყვიტეთ კარგ მომენტში.** დაასრულეთ დამთხვევის შემდეგ, სანამ ისევ სასიამოვნოა.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) იგივე духით იძლევა ზოგად რჩევას: აქტივობა შეუსაბამეთ იმას, რის გაკეთებაც ადამიანს შეუძლია, დააკვირდით იმედგაცრუებას და დარწმუნდით, რომ ის თავს წარმატებულად გრძნობს.
 
-## Gentle memory and matching games to try
+## მშვიდი მეხსიერებისა და დამთხვევის თამაშები, რომლებიც შეგიძლიათ სცადოთ
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (დამთხვევა ხილული სურათებით)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) არის დამთხვევის თამაში დიდი სურათებით და 4-დან 12 ფანქრამდე. სურათები შეიძლება ხილული დარჩეს, ამიტომ საქმე ტყუპების პოვნაშია და არა იმის გახსენებაში, სად იყვნენ ისინი. დაიწყეთ ოთხი ფანქრით. ადრეულ ეტაპზე მყოფი ადამიანისთვის, რომელსაც ცოტა მეტი გამოწვევა სიამოვნებს, შეგიძლიათ გადართოთ **Hidden pictures**-ზე, მაგრამ დაუბრუნდით ხილულ სურათებს მაშინვე, როცა თამაში перестანет სასიამოვნო იყოს.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) ზემოთ ერთ სურათს აჩვენებს და ქვემოთ ორიდან ოთხ არჩევანს. შეეხეთ იმას, რომელიც ემთხვევა. ეს საიტზე ყველაზე მარტივი დამთხვევის თამაშია და შეეფერება ადამიანებს, ვისაც სრული ბადე ზედმეტად გადატვირთულად ეჩვენება, მათ შორის ბევრს გვიან ეტაპებზე, გვერდით მყოფი ადამიანის დახმარებით.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (ოჯახური ფოტოების დამთხვევის თამაში)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) თქვენს მიერ არჩეულ ფოტოებს დამთხვევის თამაშად აქცევს: ძაღლი, ბაღი, ტბის სახლი. ნაცნობი სახეები და ადგილები ხშირად უფრო მეტ საუბარს იწვევს, ვიდრე ნებისმიერი ჩვეულებრივი სურათი. ფოტოები რჩება თქვენს ბრაუზერში და არასდროს იტვირთება.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) გთხოვთ, თითოეული სურათი მოათავსოთ შესაბამის კალათაში, მაგალითად სამზარეულოში ან ბაღში. დალაგება ეყრდნობა დიდი ხნის განმავლობაში შეძენილ ცოდნას იმის შესახებ, როგორ მუშაობს სამყარო, და არა მოკლევადიან მეხსიერებას.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) სურათს 4 ან 9 ნაწილად ჭრის. შეეხეთ ორ ნაწილს, რომ ისინი ადგილები გაუცვალოთ, სანამ სურათი არ დასრულდება. დასრულებული სურათი ეკრანზე რჩება როგორც გზამკვლევი.
 
-### Real cards on the table
+### ნამდვილი ბარათები მაგიდაზე
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+ეკრანი არ არის აუცილებელი. ამოიღეთ შესატყვისი წყვილები ორი დასტიდან ან სურათებიანი ბარათების ნაკრებიდან. დაალაგეთ ისინი ზემოთ ორი რიგად და ერთად იპოვეთ წყვილები. შემდეგ შეგიძლიათ ფერის ან მასტის მიხედვით დაალაგოთ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ბარათისა და სამაგიდო თამაშებს ადრეული ეტაპის აქტივობებს შორის ასახელებს.
 
-## Which memory games suit each stage?
+## რომელი მეხსიერების თამაშები ერგება თითოეულ ეტაპს?
 
-Stages are loose labels. Go by what the person enjoys today.
+ეტაპები მხოლოდ ზოგადი ნიშნულებია. მიჰყევით იმას, რასაც ადამიანი დღეს სიამოვნებით აკეთებს.
 
-| Stage | Games that often fit | How to set them up |
+| ეტაპი | თამაშები, რომლებიც ხშირად ჯდება | როგორ მოამზადოთ |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| ადრეული | Picture pairs, Photo pairs, Picture puzzle 9 ნაწილით, ნაცნობი ბარათის თამაშები | მიეცით არჩევანის საშუალება. ფანქრები შეიძლება გადაბრუნდეს, თუ ამას სიამოვნებით იღებს; ქულები გამოტოვეთ, თუ აწუხებს |
+| შუა | Picture pairs 4-დან 6 ფანქრამდე ზემოთ, Find the same, Sort together | სურათები ყოველთვის ხილული. დაჯექით გვერდით და მონაცვლეობით დაეხმარეთ |
+| გვიანი | Find the same 2 არჩევანით, ერთად ერთი დიდი სურათის ყურება | ძალიან მოკლედ. ტაბლეტი თქვენ გეჭიროთ; ის მიუთითებს ან უბრალოდ უყურებს და უსმენს |
 
-## Do memory games help with dementia?
+## ეხმარება თუ არა მეხსიერების თამაშები დემენციის დროს?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+არცერთი მეხსიერების თამაში არ დაუმტკიცებულა, რომ კურნავს, ანელებს ან აჩერებს დემენციას. [Cochrane-ის მიმოხილვამ](https://pubmed.ncbi.nlm.nih.gov/30864747/) კომპიუტერული კოგნიტური ვარჯიშის შესახებ მსუბუქი კოგნიტური დარღვევის მქონე ადამიანებში მტკიცებულებები ზედმეტად შეზღუდულად მიიჩნია, რომ დადასტურებულიყო დემენციის პროფილაქტიკა. ჩვენი გზამკვლევი [ტვინის თამაშებისა და დემენციის შესახებ](/brain-health/brain-games/) ხსნის, რას აჩვენებს და რას არ აჩვენებს კვლევები.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+ეს თამაშების გამოტოვების მიზეზი არ არის. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ურჩევს, ყურადღება გაამახვილოთ სიამოვნებაზე და არა მიღწევაზე. სურათების დამთხვევასა და მათზე საუბარში გატარებული ათი წუთი შეიძლება დღის ნამდვილად კარგი ნაწილი იყოს.
 
-## What about memory games for seniors without dementia?
+## რა უნდა ვთქვათ დემენციის არმქონე უფროსებისთვის განკუთვნილ მეხსიერების თამაშებზე?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+თუ დემენციის არმქონე უფროს ადამიანს სიამოვნებს დროში შეზღუდული ამოცანები, ქულები და უფრო რთული დონეები, इसमें არაფერია ცუდი. უბრალოდ ნუ დაეყრდნობით ამას დემენციისგან დაცვის იმედით; არცერთი თამაში არ დაუმტკიცებულა ამისთვის. ზემოთ მოცემული მშვიდი ვარიანტები ასევე კარგად მუშაობს, როცა თაობები ერთად თამაშობენ: დემენციით მცხოვრებ ბებია-ბაბუას და პატარა შვილიშვილს შეუძლიათ სურათები გუნდურად შეადარონ ისე, რომ არცერთი არ იყოს გამოცდის წინაშე.
 
-## When should you stop or change the game?
+## როდის უნდა შეაჩეროთ ან შეცვალოთ თამაში?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+ოხვრა, ტაბლეტის გადადება, „მე ამას ვერ გავაკეთებ“ ან შეშფოთებული სახე — ეს ყველაფერი ნიშანია, რომ თამაში უნდა გაამარტივოთ ან შეწყვიტოთ. სცადეთ ნაკლები ფანქარი, სურათები ზემოთ გადაატრიალეთ, გადადით [Find the same](/games/find-the-same/)-ზე ან უბრალოდ უყურეთ სურათებს და ისაუბრეთ. თუ თამაშის სურვილი საერთოდ არ აქვს, ესეც კარგია. ჩვენი გზამკვლევი [როგორ ვითამაშოთ ერთად](/caregiving/how-to-play-together/) უფრო მეტს გვიყვება ტემპსა და დახმარებაზე.

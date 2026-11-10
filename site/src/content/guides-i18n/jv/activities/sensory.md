@@ -1,33 +1,33 @@
 ---
-title: "Kegiatan Pangrasa kangge Tiyang Demensia"
-seoTitle: "Kegiatan Pangrasa kangge Demensia: Gagasan"
-description: "Kegiatan pangrasa kangge tiyang demensia, saking pijet tangan, kranjang kain, dumugi swanten alam, kaliyan katrangan kaslametan bab keselak, alergi, lan ambu."
+title: "Kegiatan Sensori kanggo Wong Demensia"
+seoTitle: "Kegiatan Sensori Demensia: Ide lan Kaslametan"
+description: "Kegiatan sensori kanggo wong sing urip karo demensia, saka pijet tangan alon nganti kranjang kain lan swara alam, kanthi cathetan kaslametan sing cetha."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kegiatan pangrasa ngginakaken raos ngraba, ngambu, nyecep, mirengaken, lan
-  mirsani: pijet tangan ingkang alon, kranjang kain alus, bumbu seger kangge
-  dipunambu, swanten alam, utawi mirsani manuk wonten jendhela. Kegiatan menika
-  cocog kangge saben tahap lan langkung migunani ing tahap lajeng. Priksa rumiyin
-  bab bebaya keselak, alergi, masalah kulit, lan kepekaan dhateng ambu, tawisaken
-  setunggal-setunggal, lan mandheg manawi tiyang menika katingal boten sekeca.
+  Kegiatan sensori nggunakake raba, ambu, rasa, swara, lan pandeleng: pijet
+  tangan alon, kranjang isi kain alus, godhong seger kanggo diambu, swara
+  alam, utawa ndeleng manuk ing jendhela. Kegiatan iki cocog ing saben
+  tataran lan migunani banget ing tataran pungkasan. Priksa dhisik
+  bebaya keselek, alergi, masalah kulit, lan sensitivitas marang ambu,
+  tawakake siji-siji, lan lerenen yen wong sing sampeyan rawat katon ora kepenak.
 keyPoints:
-  - "Kegiatan pangrasa boten mbetahaken wangsulan ingkang leres, dados cocog ing saben tahap, kalebet wonten ing ranjang utawi kursi."
-  - "Tawisaken setunggal pangrasa sakwekdal wonten ruangan ingkang sepi, lan tanglet utawi ngandhani rumiyin sadèrèng ngenggih."
-  - "Singkiri barang alit lan sedaya ingkang katingal utawi ambunipun kados panganan nanging sanes, amargi tiyang saged nglebetaken barang dhateng cangkem."
-  - "Priksa alergi, masalah kulit, lan masalah ambegan sadèrèng ngginakaken lotion, ambu, utawi panganan."
-  - "Boten wonten bukti ingkang yakin bilih aromaterapi mbiyantu gejala demensia; ginakna ambu namung kangge kasenengan prasaja, manawi kersa."
+  - "Kegiatan sensori ora mbutuhake jawaban sing bener, mula bisa ditindakake ing saben tataran, kalebu nalika ana ing amben utawa kursi."
+  - "Tawakake siji indera ing siji wektu ing ruangan sing sepi, lan takon utawa kandhani sadurunge ndemek."
+  - "Aja nggunakake barang cilik lan barang sing katon utawa ambune kaya panganan nanging dudu panganan, amarga wong bisa uga nglebokake barang mau ing cangkeme."
+  - "Priksa alergi, masalah kulit, lan masalah ambegan sadurunge nggunakake lotion, ambu-ambuan, utawa panganan."
+  - "Ora ana bukti sing kuwat yen aromaterapi mbantu gejala demensia; gunakake ambu-ambuan mung kanggo rasa seneng sing prasaja, yen perlu."
 faq:
-  - q: "Kegiatan pangrasa punapa ingkang sae kangge tiyang demensia?"
-    a: "Gagasan prasaja kalebet pijet tangan ingkang alon kanthi lotion, ngraba kain alus, ngambu bumbu seger utawi kopi, mirengaken musik kesenengan utawi swanten alam, mirsani manuk utawi akuarium, lan nyicipi panganan kesenengan kanthi tekstur ingkang aman. Tawisaken setunggal-setunggal lan mirsani kados pundi tanggapanipun."
-  - q: "Punapa kegiatan pangrasa aman kangge tiyang ingkang nglebetaken barang dhateng cangkem?"
-    a: "Saged, kanthi ngati-ati. Ginakna namung barang ageng ingkang boten saged dipunulug, singkiri barang alit utawi ingkang gampil pecah, lan simpen lotion, sabun, lan produk wangi ing papan ingkang boten kawawas sasampunipun, amargi saged katingal utawi ambunipun kados panganan. Tetep nunggil tiyang menika salebeting kegiatan."
-  - q: "Punapa aromaterapi mbiyantu demensia?"
-    a: "Tinjauan Cochrane boten manggihaken bukti ingkang yakin bilih aromaterapi mbiyantu tiyang demensia, senajan panaliten-panaliten menika alit lan boten konsisten. Manawi tiyang menika remen ambu ingkang entheng lan sampun dipunkenal, menika boten punapa-punapa, nanging singkiri minyak atsiri ingkang kiyat, langkung-langkung manawi wonten masalah ambegan utawi alergi."
-  - q: "Punapa menika celemek utawi selimut kegiatan?"
-    a: "Menika kain, celemek, utawi selimut pangkon ingkang wonten barang kangge dipunpegang ingkang dipunjahit kiyat, kadosta kancing ageng, resleting, pita, lan potongan kain ingkang gadhah tekstur. Menika maringi tangan ingkang remen obah barang kangge dipunjajah. Priksa asring manawi wonten ingkang culika ingkang saged dipuntarik."
+  - q: "Apa kegiatan sensori sing apik kanggo wong sing urip karo demensia?"
+    a: "Ide sing prasaja kalebu pijet tangan alon nganggo lotion, ngraba kain alus, ngambu godhong seger utawa kopi, ngrungokake musik favorit utawa swara alam, ndeleng manuk utawa akuarium iwak, lan ngrasakake panganan favorit kanthi tekstur sing aman. Tawakake siji-siji lan gatekna tanggapane."
+  - q: "Apa kegiatan sensori aman kanggo wong sing kerep nglebokake barang ing cangkeme?"
+    a: "Bisa wae, kanthi ngati-ati. Gunakake mung barang gedhe sing ora bisa ditelan, aja gunakake barang cilik utawa gampang pecah, lan adohake lotion, sabun, lan produk wangi sawise digunakake, amarga bisa katon utawa ambune kaya panganan. Tetep dampingi wong kasebut sajrone kegiatan."
+  - q: "Apa aromaterapi mbantu wong sing urip karo demensia?"
+    a: "Tinjauan Cochrane ora nemokake bukti sing kuwat yen aromaterapi mbantu wong sing urip karo demensia, sanajan panalitene cilik lan ora konsisten. Yen wong kasebut seneng ambu sing entheng lan akrab, iku ora apa-apa, nanging aja gunakake minyak atsiri sing kuwat, utamane yen ana masalah ambegan utawa alergi."
+  - q: "Apa iku apron utawa selimut pangkuan kanggo kegiatan (fidget)?"
+    a: "Iku kain, apron, utawa selimut pangkuan sing ditempeli barang-barang kanggo diutak-atik, kayata kancing gedhe, resleting, pita, lan tempelan kain tekstur sing dijahit kanthi kuwat. Iki menehi tangan sing aktif barang kanggo dijelajahi. Priksa asring apa ana bagean sing longgar lan bisa dicopot."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Kegiatan pangrasa ngginakaken gangsal pangrasa: ngraba, ngambu, nyecep, mirengaken, lan mirsani. Boten mbetahaken ingatan, boten wonten langkah, lan boten wonten wangsulan ingkang leres, dados saged cocog ing tahap menapa kemawon. Menika langkung wigati ing tahap lajeng. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) nyariyosaken bilih ing tahap pungkasan donya karaosaken umumipun lumantar pangrasa, lan panjenengan saged nuduhaken kawigatosan lumantar ngenggih, swanten, pandulu, raos, lan ambu. Sawetawis pamriksan kaslametan ndadosaken kegiatan menika nyenengaken kangge sedaya.
+Kegiatan sensori nggunakake limang indera: raba, ambu, rasa, swara, lan pandeleng. Kegiatan iki ora mbutuhake eling-elingan, ora ana langkah-langkah, lan ora ana jawaban sing bener, mula bisa ditindakake ing tataran apa wae. Kegiatan iki paling migunani ing tataran pungkasan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) nyebutake yen ing tataran pungkasan, donya dialami utamane liwat indera, lan sampeyan bisa nuduhake katresnan liwat sentuhan, swara, pandeleng, rasa, lan ambu. Sawetara pamriksan kaslametan sing prasaja bisa nggawe kegiatan iki dadi tentrem kanggo kabeh wong.
 
-## Kegiatan pangrasa kangge demensia menika punapa?
+## Apa iku kegiatan sensori kanggo demensia?
 
-Kegiatan pangrasa inggih menika pengalaman prasaja ingkang dipundasari setunggal pangrasa sakwekdal, kadosta ngraba kain, ngambu bumbu, utawi mirengaken jawah. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nyariyosaken bilih kegiatan ing tahap lajeng asring kedah dipunpusataken dhateng pangrasa, lan nyebataken musik, barang kangge dipunraba lan dipunpegang, lan pijet tangan. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nyariyosaken bilih tiyang ing tahap lajeng saged gadhah kabetahan ingkang kiyat kangge nyekeli sesuatu celak kangge raos tentrem.
+Kegiatan sensori yaiku pengalaman prasaja sing fokus ing siji indera ing siji wektu, kayata ngraba kain, ngambu godhong seger, utawa ngrungokake swara udan. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nyebutake yen kegiatan ing tataran pungkasan asring kudu fokus ing indera, lan menehi conto musik, barang kanggo diraba lan diutak-atik, lan pijet tangan. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nyathet yen wong ing tataran pungkasan bisa uga nduweni kabutuhan sing kuwat kanggo nyekel barang sing cedhak supaya rumangsa tentrem.
 
-## Gagasan pangrasa, pangrasa-pangrasa
+## Ide sensori, miturut indera
 
-### Ngraba
+### Raba
 
-- **Pijet tangan.** Anggetaken sekedhik lotion wonten tangan panjenengan lan usap kanthi alon saking pergelangan dhateng pucuk driji. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nyebataken mijet kanthi lotion tanpa ambu kangge raos sekeca.
-- **Kranjang kain.** Kain beludru, korduroi, fleece, satin, lan wol ingkang ageng-ageng kangge diusap, dipunlipet, lan dipunrembag.
-- **Lap anget.** Kain atis ingkang anget kangge tangan nalika dinten atis. Cobi suhunipun rumiyin ing pergelangan panjenengan piyambak.
-- **Celemek utawi selimut pangkon kegiatan.** Kancing ageng, resleting, pita, lan potongan kain ingkang gadhah tekstur ingkang dipunjahit kiyat.
-- **Nlipet lan nglicinaken.** Kranjang lap utawi serbet ingkang resik kangge dipunlipet, dipuntumpuk, lan dipunlipet malih.
-- **Barang alus kangge dipunpeluk.** Selimut fleece, bantal, utawi kewan alus ingkang kados nyata, dipunparingaken kanthi prasaja, sanes kados dolanan.
+- **Pijet tangan.** Angetake sethithik lotion ing tangan sampeyan lan usap alon saka bangkekan nganti pucuk driji. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nyebutake pijet nganggo lotion tanpa wangi kanggo menehi rasa nyaman.
+- **Kranjang kain.** Potongan kain gedhe saka beludru, korduroi, bulu alus (fleece), satin, lan wol kanggo diraba, dilempit, lan dirembug.
+- **Kain anget sing lembap.** Kain anget lan lembap kanggo tangan nalika dina adhem. Coba suhune ing bangkekan sampeyan dhisik.
+- **Apron utawa selimut pangkuan kanggo kegiatan.** Kancing gedhe, resleting, pita, lan tempelan kain tekstur sing dijahit kanthi kuwat.
+- **Nglempit lan ngalusake.** Kranjang isi kain lap utawa serbet resik kanggo dilempit, ditumpuk, lan dilempit maneh.
+- **Barang alus kanggo dicekel.** Selimut bulu alus, bantal, utawa boneka alus sing katon nyata, ditawakake kanthi prasaja, ora minangka dolanan.
 
-### Ngambu
+### Ambu
 
-- **Bumbu seger.** Gosok godhong mint, rosemary, kemangi, utawi lavender ing antawis driji lan paringaken dhateng piyambakipun.
-- **Ambu dapur.** Kopi ingkang dipunseduh, roti ingkang dipunpanggang, kayu manis, utawi jeruk ingkang dipunkupas ing sacelakipun.
-- **Kembang.** Bektakaken sawetawis kembang seger saking taman utawi toko.
-- **Produk ingkang sampun dipunkenal.** Sabun utawi lotion ingkang tansah dipunginakaken, manawi kulitipun cocog.
+- **Godhong seger.** Gosok godhong mint, rosemary, basil, utawa lavender ing antarane driji sampeyan banjur cedhakake.
+- **Ambu saka pawon.** Kopi sing lagi diseduh, roti sing lagi dipanggang, kayu manis, utawa jeruk sing lagi dikupas ing sacedhake.
+- **Kembang.** Gawanen sawetara kembang seger saka kebon utawa toko.
+- **Produk sing akrab.** Sabun utawa lotion sing biasane digunakake, yen kulite isih bisa nampa.
 
-### Nyecep
+### Rasa
 
-- **Raos kesenengan.** Sendok alit saking ingkang dipunremeni, kadosta saos apel, puding, utawi es krim, kanthi tekstur ingkang saged dipunlampahi kanthi aman.
-- **Mbiyantu damel roti.** Nyicipi woh-wohan utawi sekedhik lapisan manis nalika damel roti sesarengan.
-- **Panganan mangsa.** Semangka nalika panas, unjukan anget nalika atis, dipunsuguhaken ing suhu ingkang aman.
+- **Rasa favorit.** Siji sendok cilik panganan sing disenengi, kayata bubur apel, puding, utawa es krim, kanthi tekstur sing aman.
+- **Melu nggawe kue.** Ngrasakake woh utawa sethithik krim gula nalika masak bareng.
+- **Camilan musiman.** Semangka nalika panas, cider anget nalika adhem, disajikake ing suhu sing aman.
 
-### Mirengaken
+### Swara
 
-- **Musik kesenengan.** Lagu ingkang sampun dipunkenal kanthi swanten alus; mirsani [kegiatan musik](/activities/music/).
-- **Swanten alam.** Jawah, ombak, utawi swanten manuk. NIA nyariyosaken bilih musik, swanten putih, lan swanten alam katingalipun nentremaken sawetawis tiyang.
-- **Swanten panjenengan.** Maos seru, ngidung alit, utawi nyariyosaken cariyos.
-- **Piranti musik prasaja.** Kendhang tangan, kocok, utawi lonceng kangge dipunmainaken tumut musik.
+- **Musik favorit.** Lagu-lagu sing akrab kanthi volume sing alon; delengen [kegiatan musik](/activities/music/).
+- **Swara alam.** Swara udan, ombak, utawa manuk. NIA nyebutake yen musik, swara latar (white noise), lan swara alam katon bisa nggawe sawetara wong luwih tentrem.
+- **Swara sampeyan.** Macakake crita, nyenandhung, utawa nyritakake crita.
+- **Piranti musik prasaja.** Drum tangan, alat goyang (shaker), utawa lonceng kanggo ditabuh bareng musik.
 
-### Mirsani
+### Pandeleng
 
-- **Mirsani saking jendhela.** Papan dhahar manuk wonten njawi jendhela, laré-laré mantuk, utawi salju tumurun.
-- **Akuarium utawi video ingkang alon.** Obahan ingkang alus tanpa swanten seru.
-- **Foto ageng.** Setunggal gambar ingkang cetha sakwekdal, dipunsekel sejajar mripat.
-- **Warni lan pola.** Milah potongan kain ingkang cerah, kembang, utawi serbet warni, utawi kaca mewarnai prasaja saking [kaca mewarnai](/games/coloring/) kawula.
-- **Wonten njawi.** NHS nyaranaken taman pangrasa kaliyan tanduran wangi, tekstur, lan banyu. Mirsani [kegiatan nandur lan wonten njawi](/activities/outdoor-and-gardening/).
+- **Ndeleng saka jendhela.** Papan pakan manuk ing njaba jendhela, bocah-bocah mulih sekolah, utawa salju sing tiba.
+- **Akuarium iwak utawa video alon.** Gerakan sing lembut tanpa swara banter.
+- **Foto gedhe.** Siji gambar sing cetha ing siji wektu, dicekel sejajar karo mripat.
+- **Werna lan pola.** Ngurutake potongan kain warna-warni, kembang utawa serbet warna-warni, utawa kaca pewarnaan prasaja saka set [mewarnai](/games/coloring/) kita.
+- **Ing njaba ruangan.** NHS nyaranake kebon sensori kanthi tanduran wangi, tekstur, lan unsur banyu. Delengen [kegiatan ing njaba ruangan lan berkebun](/activities/outdoor-and-gardening/).
 
-## Cara damel kothak pangrasa
+## Carane nggawe kothak sensori
 
-1. **Pilih tema** ingkang gegandhengan kaliyan gesang tiyang menika: pantai, taman, dapur, bengkel, njahit.
-2. **Pilih gangsal utawi enem barang ageng ingkang aman,** kadosta cangkang kerang ageng, sendok kayu, selendang alus, kantong lavender garing ingkang dipunjahit nutup, utawi balok kayu ingkang alus.
-3. **Priksa saben barang** manawi wonten bageyan alit, pinggir landhep, benang ingkang culika, lan sedaya ingkang gampil pecah.
-4. **Medalaken setunggal barang sakwekdal.** Paringaken, gambaraken, lan aturi tiyang menika njajah.
-5. **Simpen kothak sasampunipun** supados tetep mligi lan barang-barangipun dipunpriksa malih sadèrèng dipunginakaken malih.
+1. **Pilih tema** sing ana hubungane karo uripe wong kasebut: pantai, kebon, pawon, bengkel, utawa jahit.
+2. **Pilih lima utawa enem barang gedhe sing aman,** kayata keong laut gedhe, sendok kayu, selendang alus, kantong cilik isi lavender garing sing dijahit rapet, utawa balok kayu sing alus.
+3. **Priksa saben barang** kanggo bagean cilik, pinggiran sing landhep, benang sing longgar, lan barang sing gampang pecah.
+4. **Wetokake siji barang ing siji wektu.** Wenehake, jelasake, lan wenehi wektu kanggo wong kasebut njelajahi.
+5. **Simpen kothak mau sawise rampung** supaya tetep spesial lan barang-barange bisa dipriksa maneh sadurunge digunakake sabanjure.
 
-## Kaslametan langkung rumiyin
+## Kaslametan dhisik
 
-Kegiatan pangrasa menika alus, nanging sawetawis bebaya wigati. Sawetawis tiyang ingkang gesang kaliyan demensia salah nganggep barang sanes panganan dados panganan, lan nelan saged dados langkung awrat saking wekdal dhateng wekdal; NIA ngelingaken bilih masalah nelan ing tahap lajeng nambah bebaya keselak.
+Kegiatan sensori iku lembut, nanging ana sawetara bebaya sing kudu digatekake. Sawetara wong sing urip karo demensia bisa salah ngira barang dudu panganan minangka panganan, lan kemampuan ngulu bisa dadi luwih angel saka wektu ke wektu; NIA ngelingake yen masalah ngulu ing tataran pungkasan bisa nambah risiko keselek.
 
-| Bebaya | Ingkang kedah dipuntindakaken |
+| Bebaya | Apa sing kudu ditindakake |
 | --- | --- |
-| Keselak | Ginakna namung barang ingkang ageng sanget kangge dipunulug. Boten wonten kancing, manik-manik, dhuwit receh, kelereng, utawi dolanan alit ingkang culika wonten kothak. Paringi panganan namung kanthi tekstur ingkang dipunnyatakaken aman dening tim perawatan. |
-| Barang ingkang katingal kados panganan | NIA nyaranaken ngunci lotion, sabun, sampo, lan minyak wangi, ingkang saged katingal utawi ambunipun kados panganan, lan nyingkiraken woh-wohan tiruan. Simpen produk pangrasa sasampunipun dipunginakaken. |
-| Alergi | Priksa alergi dhateng kacang, lateks, wol, tanduran, utawi minyak wangi sadèrèng miwiti. |
-| Ambu kiyat | Singkiri minyak wangi lan minyak atsiri ingkang kiyat, langkung-langkung manawi wonten asma utawi masalah ambegan sanes. Ambu alami ingkang entheng langkung aman. |
-| Kulit | Priksa kulit ingkang nyeri, kenging tatu, utawi rapuh sadèrèng mijet. Ginakna tekanan ingkang alus lan mandheg manawi piyambakipun mringis. |
-| Suhu | Cobi kain anget lan unjukan ing pergelangan panjenengan piyambak rumiyin. |
-| Barang landhep utawi ngracun | Boten wonten piranti landhep, kaca, utawi bahan kerajinan ingkang ngracun. |
+| Keselek | Gunakake mung barang sing kegedhen kanggo ditelan. Aja ana kancing, manik-manik, dhuwit receh, kelereng, utawa dolanan cilik sing ngecul ing kothak. Wenehi panganan mung kanthi tekstur sing dianggep aman dening tim perawatan. |
+| Barang sing katon kaya panganan | NIA nyaranake supaya lotion, sabun, sampo, lan minyak wangi dikunci, amarga bisa katon utawa ambune kaya panganan, lan nyingkirake woh-wohan tiruan. Simpen produk sensori sawise digunakake. |
+| Alergi | Priksa alergi marang kacang, lateks, wol, tanduran, utawa wewangian sadurunge miwiti. |
+| Ambu sing kuwat | Aja nggunakake minyak wangi lan minyak atsiri sing kuwat, utamane yen ana asma utawa masalah ambegan liyane. Ambu alami sing entheng luwih aman. |
+| Kulit | Priksa apa ana kulit sing lara, lecet, utawa tipis sadurunge pijet. Gunakake tekanan sing lembut lan lerenen yen dheweke katon kaget utawa lara. |
+| Suhu | Coba kain anget lan ombenan ing bangkekan sampeyan dhisik. |
+| Barang landhep utawa beracun | Aja nggunakake piranti landhep, kaca, utawa bahan kerajinan sing beracun. |
 
-## Punapa aromaterapi mbiyantu?
+## Apa aromaterapi mbantu?
 
-Kiranipun boten kanthi cara ingkang saged dipunukur. [Tinjauan Cochrane bab aromaterapi kangge demensia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) mriksa 13 panaliten kaliyan 708 tiyang, sedaya wonten panti, lan boten manggihaken bukti ingkang yakin bab manfaatipun. Panaliten-panaliten menika alit, asilipun boten sarujuk, lan efek sampingipun boten dipuncathet kanthi sae. Manawi tiyang menika remen ambu ingkang entheng lan sampun dipunkenal, kadosta lavender saking taman, menika alesan ingkang sae kangge dipunparingaken. Menika sanes pengobatan.
+Mbokmenawa ora kanthi cara sing bisa diukur. [Tinjauan Cochrane babagan aromaterapi kanggo demensia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) nliti 13 panaliten kanthi 708 wong, kabeh ana ing panti perawatan, lan ora nemokake bukti sing kuwat yen ana mupangate. Panalitene cilik, asile ora padha, lan efek samping kurang dicathet kanthi apik. Yen wong kasebut seneng ambu sing entheng lan akrab, kayata lavender saka kebon, iku alasan sing apik kanggo dienggo bareng. Iki dudu perawatan.
 
-## Cara nawisaken kegiatan pangrasa
+## Carane nawakake kegiatan sensori
 
-- **Pilih wekdal ingkang sepi** lan pateni TV.
-- **Mendhet saking ngajeng,** sebutaken asmanipun, lan tanglet utawi ngandhani sadèrèng ngenggih: "Kula gadhah lotion. Panjenengan kersa kula pijet tanganipun?"
-- **Tawisaken setunggal-setunggal** supados boten mbingungaken.
-- **Mirsani tanggapanipun.** Pasuryan ingkang langkung alus, tangan ingkang kendho, utawi esem menika tandha ingkang sae. Narik tangan, nyureng, utawi gelisah tegesipun mandheg.
-- **Dipuncekak.** Gangsal menit ingkang tentrem menika sesi ingkang sae.
+- **Pilih wektu sing sepi** lan pateni TV.
+- **Nyedhaki saka ngarep,** sebut jenenge, lan takon utawa kandhani sadurunge ndemek: "Aku duwe lotion. Apa sampeyan gelem dipijet tangane?"
+- **Tawakake siji barang ing siji wektu** supaya ora kebingungan.
+- **Gatekna tanggapane.** Rai sing luwih lembut, tangan sing rileks, utawa esem minangka tandha sing apik. Yen narik tangan, mrengut, utawa katon ora anteng, tegese kudu leren.
+- **Gawe tetep cekak.** Lima menit sing tenang wis dadi sesi sing apik.
 
-Ngaso ambegan alon sesarengan, kadosta [ambegan tentrem](/games/calm-breathing/), saged dados cara ingkang alus kangge mungkasi. Kangge gagasan langkung kathah wonten sacelakipun ranjang, mirsani [kegiatan tahap lajeng](/activities/late-stage/), lan kangge raos boten sekeca ing sonten, mirsani [gelisah ing wekdal sonten](/caregiving/late-day-restlessness/).
+Ngaso ambegan alon bareng, kayata [ambegan tenang](/games/calm-breathing/), bisa dadi cara sing lembut kanggo mungkasi. Kanggo ide liyane ing pinggir amben, delengen [kegiatan tataran pungkasan](/activities/late-stage/), lan kanggo rasa ora tenang ing wayah sore, delengen [rasa ora tenang ing wayah sore](/caregiving/late-day-restlessness/).

@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "აქტივობები დემენციის შუა სტადიაზე"
+seoTitle: "დემენციის შუა სტადია: მარტივი იდეები"
+description: "მარტივი აქტივობები დემენციის შუა სტადიაზე: სახლის საქმეები, მუსიკა, ფოტოები და მარტივი თამაშები, მომზადების ნაბიჯებითა და mosa რჩევებით."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  დემენციის შუა სტადიაზე ყველაზე მისაღები აქტივობები მოკლე, ნაცნობი და ცალკეულ
+  ნაბიჯებად დაყოფილია: ტანსაცმლის დაკეცვა, წინდების დახარისხება, ჭურჭლის რეცხვა,
+  სიმღერა, თანდასწრებით სეირნობა, ფოტოალბომების დათვალიერება და მარტივი
+  სურათიანი თამაშები. ყველაფერი წინასწარ მოამზადეთ, აჩვენეთ პირველი ნაბიჯი,
+  რთული ნაწილები თქვენით გააკეთეთ და აქტივობას მიზანი მისცეთ. შეწყვიტეთ, როცა
+  ის enää სასიამოვნო აღარ არის.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "ნაცნობი სახლის საქმეები ხშირად საუკეთესოა, რადგან ადამიანს სასარგებლოდ და ზრდასრულად გრძნობინებს."
+  - "აჩვენეთ და არა მხოლოდ უთხარით, სთავაზეთ ერთდროულად ერთი ნაბიჯი და ღია კითხვების ნაცვლად ორი მარტივი არჩევანი მიეცით."
+  - "რთულ ნაწილს თქვენ გაუმკლავდით, რომ ადამიანმა დამაკმაყოფილებელი ნაწილი შეასრულოს."
+  - "მოუსვენარი ქცევა ხშირად ნიშნავს, რომ ადამიანს რაღაცის გაკეთება სჭირდება. „არა“-ს თქმის ნაცვლად შესაფერისი აქტივობა შესთავაზეთ."
+  - "ყურება, ცოტათი დახმარება ან ადრე დასრულება — ყველაფერი მისაღებია."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "რა აქტივობებია მისაღები დემენციის შუა სტადიაზე?"
+    a: "ჩვეულებრივ, ყველაზე კარგად მოკლე, ნაცნობი და ხელით შესასრულებელი აქტივობები მუშაობს: პირსახოცების დაკეცვა, წინდების დაწყვილება, ჭურჭლის რეცხვა, მაგიდის გაწყობა, ძველი საყვარელი სიმღერების ერთად მღერა, თანდასწრებით სეირნობა, ფოტოალბომების დათვალიერება და მარტივი სურათიანი თამაშები. თითოეული დაყავით ცალკეულ ნაბიჯებად და ერთად გააკეთეთ."
+  - q: "როგორ დავეხმარო დემენციით მცხოვრებ ადამიანს აქტივობის დაწყებაში?"
+    a: "ყველაფერი წინასწარ მოამზადეთ, შემდეგ თავად დაიწყეთ აქტივობა და დახმარება სთხოვეთ: „ამ პირსახოცების დაკეცვაში დამეხმარებით?“ ბევრს სურს მონაწილეობის მიღება, მაგრამ დაწყება უჭირს. პირველი ნაბიჯის ჩვენება, როგორც წესი, ახსნაზე უკეთ მუშაობს."
+  - q: "რა ვქნა, თუ ის ერთსა და იმავეს კვლავ და კვლავ აკეთებს?"
+    a: "განმეორება ხშირად უსაფრთხოა და შეიძლება ნიშნავდეს, რომ ადამიანს დაკავებულად გრძნობა ან დარწმუნება სჭირდება. გამოსწორების ნაცვლად შესთავაზეთ აქტივობა, რომელიც ამ მოძრაობას შეესაბამება, მაგალითად დასაკეცი პირსახოცების კალათა ან ერთად დასამღერი სიმღერა."
+  - q: "რა ვქნა, თუ ის აქტივობას არასწორად ასრულებს?"
+    a: "თუ ეს უსაფრთხოა, ასე დატოვეთ. სხვაგვარად დაკეცილი პირსახოცები ან არასწორ ადგილას დადებული კოვზები მნიშვნელობას არ აქვს. გამოსწორება შეიძლება კრიტიკად აღიქვას, ხოლო თავისებურად გაკეთების უფლება ადამიანს შეძლებულად და სასარგებლოდ გრძნობინებს."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+დემენციის შუა სტადია ხშირად ყველაზე ხანგრძლივია და именно ამ დროს აქტივობებს უკვე რეალური მხარდაჭერა სჭირდება. სიტყვების მოძებნა უფრო უჭირს, ნაბიჯები ერევა და ნებისმიერი საქმის დაწყება შეიძლება რთული იყოს. მაგრამ სასარგებლოდ და ჩართულად ყოფნის სურვილი, როგორც წესი, რჩება. მცირე მომზადებით, შუა სტადიაზე მყოფ ადამიანსაც შეუძლია ბევრი რამისგან სიამოვნება მიიღოს, განსაკუთრებით ნაცნობი საქმეების, მუსიკისა და სურათებისგან, როცა ამას თქვენთან ერთად აკეთებს.
 
-## What activities work well in middle-stage dementia?
+## რა აქტივობები მუშაობს კარგად დემენციის შუა სტადიაზე?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+ყველაზე კარგად მუშაობს მოკლე, ნაცნობი და ხელით შესასრულებელი აქტივობები, რომლებიც ცალკეულ ნაბიჯებად არის დაყოფილი. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) აღნიშნავს, რომ ახალი რამეების მოფიქრება აუცილებელი არ არის: აქტივობები შეიძლება ყოველდღიური ცხოვრების ნაწილი იყოს, მაგალითად ერთად ვახშმის მომზადება, ბაღში მუშაობა, მუსიკის მოსმენა ან სეირნობა.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) აღნიშნავს, რომ ამ სტადიაზე მყოფ ადამიანებს ხშირად აქვთ ძლიერი სურვილი, იგრძნონ მიზანი ან ვინმეზე იზრუნონ, და სჭირდებათ დახმარება აქტივობის დაწყებასა ან გაგრძელებაში. შუა სტადიისთვის მის სიაში შედის ტანსაცმლის დაკეცვა, ჭურჭლის რეცხვა, წინდების დახარისხება, მარტივი ვარჯიში, ნაცნობ მუსიკაზე ცეკვა, თანდასწრებით სეირნობა, ერთად სიმღერა, მარტივი ხატვა და ფოტოალბომების დათვალიერება.
 
-## How do you set up an activity so it works?
+## როგორ მოვამზადოთ აქტივობა, რომ კარგად გამოვიდეს?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+აქტივობების უმეტესობა მომზადების დროს ან მოგებად იჭრება, ან წაგებად. ეს ჩვევები, რომლებიც [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)-სა და [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)-ს რეკომენდაციებზეა დაფუძნებული, ყველაზე დიდ განსხვავებას ქმნის:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **გაათავისუფლეთ სივრცე.** გამორთეთ ტელევიზორი, დახურეთ კარი და მხოლოდ ის დადეთ, რაც აქტივობას სჭირდება.
+2. **თავად დაიწყეთ.** დაიწყეთ კეცვა ან არევა და ჩართვაში მოიწვიეთ: „ამაში დამეხმარებით?“
+3. **აჩვენეთ და დაელოდეთ.** აჩვენეთ ერთი ნაბიჯი. მიუთითეთ ან ხელით направ მიანიშნეთ, მაგალითად, სად უნდა დადგეს თეფში.
+4. **მიეცით ერთდროულად ერთი ნაბიჯი.** „შუაზე დაკეცეთ“ უფრო მარტივია, ვიდრე „დაკეცეთ ესენი და ფერების მიხედვით დაალაგეთ“.
+5. **შესთავაზეთ ორი არჩევანი, არა ღია კითხვა.** „ლურჯი პირსახოცები თუ თეთრები?“ უფრო მარტივად საპასუხოა, ვიდრე „რისი გაკეთება გინდა?“
+6. **რთული ნაწილი თქვენ გააკეთეთ.** თქვენ ზომავთ, ის ურევს. თქვენ ატარებთ ძაფს, ის ახვევს.
+7. **მიზანი მისცეთ.** „ეს ხელსახოცები კვირადღის ვახშმისთვისაა“ საქმეს ნამდვილ გრძნობას აძლევს.
+8. **ნება დართეთ, უყუროს, თუ ასე ურჩევნია.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) აღნიშნავს, რომ მხოლოდ ყურებაც შეიძლება სასიამოვნო იყოს.
 
-## Activity ideas for the middle stage
+## აქტივობების იდეები შუა სტადიისთვის
 
-### Useful jobs
+### სასარგებლო საქმეები
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **პირსახოცებისა და ხელსახოცების დაკეცვა.** პატარა, ბრტყელი ნივთები ყველაზე მარტივია. თბილი ხელსახოცების კალათა შეიძლება დაიკეცოს, გასწორდეს და ისევ დაიკეცოს.
+- **წინდების დაწყვილება.** დაიწყეთ რამდენიმე ძალიან განსხვავებული წყვილით. მხოლოდ ფერის მიხედვით დახარისხებაც საკმარისია.
+- **უვნებელი ჭურჭლის რეცხვა ან გაწმენდა.** თბილი, საპნიანი წყალი ხელისთვის სასიამოვნოა. მჯდომარე მდგომარეობაში გაწმენდა ფეხებისთვის უფრო მარტივია.
+- **მაგიდის გაწყობა.** ერთდროულად ერთი სახის ნივთი მიეცით და ერთ ადგილი თქვენ თავად გააწყეთ ნიმუშად.
+- **ვახშმის მომზადებაში დახმარება.** კარტოფილის გარეცხვა, სალათის ფოთლების დაგლეჯა ან ჯამში არევა. დანებსა და სიცხეს თქვენ გაუმკლავდით.
+- **დაგვა, მტვრის წმენდა ან გაწმენდა.** მაგიდისთვის ტილო, აივნისთვის მსუბუქი ცოცხი.
 
-See [household tasks](/activities/household-tasks/) for many more.
+მეტი იდეისთვის იხილეთ [სახლის საქმეები](/activities/household-tasks/).
 
-### Music and movement
+### მუსიკა და მოძრაობა
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **ძველი საყვარელი სიმღერების მღერა.** თავად დაიწყეთ; ბევრი ადამიანი უერთდება სიმღერებს, რომლებიც ათწლეულების განმავლობაში იცის. იხილეთ [მუსიკალური აქტივობები](/activities/music/).
+- **თავისუფალი ცეკვა.** რწევა, ტაში ან მოძრაობა ისე, როგორც სასიამოვნოა. მჯდომარე მდგომარეობაშიც შეიძლება.
+- **ბუშტის გადაგდება.** ის ნელა მოძრაობს და სავარძლიდანაც მარტივია დასაჭერი.
+- **თანდასწრებით სეირნობა.** ერთად გაიარეთ მოკლე, ნაცნობი მარშრუტი, საჭიროების შემთხვევაში — ხელჩაკიდებულები.
 
-### Pictures and stories
+### სურათები და ისტორიები
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **ფოტოალბომის დათვალიერება.** იმაზე ისაუბრეთ, რასაც ხედავთ, კითხვების დასმის ნაცვლად: „შეხედეთ ამ მანქანას. მომიყევით მის შესახებ.“ იხილეთ [მოგონებებზე დაფუძნებული აქტივობები](/activities/reminiscence/).
+- **სასაუბრო ბარათების გამოყენება.** [სასაუბრო ბარათები](/games/conversation-cards/) სურათს უთავსებს ღია, გამოცდის გარეშე შეკითხვას.
+- **ძველი ფილმის ერთად ყურება.** აირჩიეთ ნაცნობი ფილმი, ახლოს იყავით და შესვენებებისთვის დააპაუზეთ.
 
-### Simple, pressure-free games
+### მარტივი, ზეწოლის გარეშე თამაშები
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **სურათების წყვილები ხილული სურათებით.** [სურათების წყვილები](/games/picture-pairs/) საშუალებას იძლევა სურათები ხილული დარჩეს, ასე რომ საქმე შენიშვნას ეხება და არა დამახსოვრებას.
+- **იპოვე იგივე.** [იპოვე იგივე](/games/find-the-same/) აჩვენებს ერთ სურათს და მხოლოდ ორიდან ოთხ არჩევანს.
+- **ერთად დახარისხება.** [ერთად დახარისხება](/games/sort-together/) ჰგავს ტანსაცმლის დახარისხებას ეკრანზე: შეეხეთ სურათს, შემდეგ მის კალათას.
+- **სურათიანი ბინგო.** [სურათიანი ბინგო](/games/picture-bingo/) კარგად მუშაობს ოჯახურ შეკრებებსა და ჯგუფებში.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+თუ თამაში იმედგაცრუებას იწვევს, შეწყვიტეთ და სხვა რამ გააკეთეთ. იხილეთ [როგორ ვითამაშოთ ერთად](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## მოუსვენრობის აქტივობად გადაქცევა
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+მოუსვენარ ან განმეორებად ქცევას ხშირად მიზეზი აქვს. Family Caregiver Alliance აღნიშნავს, რომ ადამიანი, რომელიც გამუდმებით ცარიელებს კარადას, შეიძლება ცდილობდეს დაკავებულობისა და სარგებლიანობის განცდის მიღებას. Alzheimer's Association გვირჩევს, ასეთი ენერგია შესაფერის აქტივობაზე გადავამისამართოთ და არა უბრალოდ შევაჩეროთ.
 
-| What you see | Something to offer |
+| რასაც ხედავთ | რა შეგიძლიათ შესთავაზოთ |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| მაგიდაზე ხახუნი ან ქაჩვა | სველი ტილო და თხოვნა, მაგიდა გაწმინდოს |
+| მოუსვენარი ფეხები ან დაკვრა | მკაფიო რიტმის მქონე მუსიკა, რომლითაც ტაშის დაკვრა ან დაკაკუნება შეიძლება |
+| უჯრების ან კარადების დაცლა | ტანსაცმლის ან ხელსახოცების კალათა დასაკეცად და დასახარისხებლად |
+| ერთი და იგივე კითხვის გამეორება | დამშვიდება, შემდეგ ერთად სიმღერა ან საერთო საქმე |
+| წინ და უკან სიარული | ერთად სეირნობა ან საქმე, რომელიც რაღაცის ტარებას მოითხოვს |
+| დღის მეორე ნახევარში მოუსვენრობა | მშვიდი, ნაცნობი საქმე კარგ განათებაში; იხილეთ [გვიანი დღის მოუსვენრობა](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## როდის შევწყვიტოთ ან მიმართულება შევცვალოთ
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+შეწყვიტეთ, როცა დაინახავთ დაღლილობის, იმედგაცრუების, უხერხულობის ან მოწყენილობის ნიშნებს, მაგალითად მოუთმენლობას, შეწუხებულ სახეს, ნივთების გადადებას ან სიტყვებს „ვერ ვახერხებ“. Alzheimer's Association გვირჩევს, სცადოთ დღის სხვა დროს ან აქტივობა კიდევ უფრო გაამარტივოთ. ნუ აიძულებთ. უარი შეიძლება შიშიდან ან იმიდან მომდინარეობდეს, რომ საქმე ძალიან რთულია; იხილეთ [როცა ამბობს „არა“](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+ადრე დასრულება მისაღებია. ასევე მისაღებია უბრალოდ ერთად დაჯდომა და ჩაის დალევა. როცა შესაძლებლობები კიდევ უფრო იცვლება, შეიძლება უკეთ შეესაბამებოდეს იდეები გვერდიდან [გვიანი სტადიის აქტივობები](/activities/late-stage/), ხოლო [101 აქტივობა](/activities/ideas/) ბევრ დამატებით ვარიანტს გთავაზობთ.
