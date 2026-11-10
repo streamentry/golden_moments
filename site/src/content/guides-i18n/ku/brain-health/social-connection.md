@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Pêwendiya Civakî û Tenduristiya Mejî: Tenêtî û Veqetîn"
+seoTitle: "Tenêtî, Veqetîna Civakî û Metirsiya Demansê"
+description: "Tenêtî û veqetîna civakî çawa bi metirsiya demansê ve girêdayî ne, rapora Giştîbijîşk çi got, û rêyên hêsan ji bo ku hûn bi hev re têkildar bimînin."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Lêkolîn nîşan didin ku veqetîna civakî û tenêtî di paşiyariya jiyanê de bi metirsiya zêdetir
+  ya demansê ve girêdayî ne. Komîsyona Lancet a 2024 texmîn dike ku veqetîn dibe sedema nêzî 5%
+  ji bûyeran, her çend dibe ku beşek ji vê girêdanê ji ber vê yekê be ku demansa destpêkê dibe
+  sedema paşvekêşînê. Têkildar mayîn, hobiyên hevpar û alîkariya bi bihîstinê re hemî piştgiriya
+  pêwendiyê dikin. Ji bo kesên ku bi demansê dijîn, çalakiyên hevpar ji bo kêf û kalîteya jiyanê
+  girîng in.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Komîsyona Lancet veqetîna civakî di paşiyariya jiyanê de wekî yek ji 14 faktorên metirsiya demansê yên ku dikarin bên guhertin destnîşan dike, bi nêzî 5% ji bûyeran."
+  - "Rapora Giştîbijîşkê Amerîkî ya 2023 tenêtî û veqetîna domdar bi metirsiya demansê ya nêzî 50% zêdetir li kal û pîran ve girêda."
+  - "Piraniya van delîlan çavdêrî ne, û demansa destpêkê bi xwe dikare bibe sedem ku kes paşde vekişin."
+  - "Pirsgirêkên bihîstin û dîtinê, bi tena serê xwe jiyan û lênêrîn hemî metirsiya veqetînê zêde dikin."
+  - "Ji bo kesên ku bi demansê dijîn, çalakiyên hevpar ên kêfxweş piştgiriya kalîteya jiyanê dikin; armanc pêwendî ye, ne performans."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Gelo tenêtî dibe sedema demansê?"
+    a: "Ev nehatiye îsbatkirin. Gelek lêkolîn tenêtî û veqetînê bi metirsiya zêdetir a demansê ve girê didin, lê guhertinên destpêkê yên di mejî de jî dikarin bibin sedem ku kes ji kesên din paşde vekişin. Têkildar mayîn ji bo rewş û tenduristiyê gelek feydeyên din jî hene, ji ber vê yekê piştgiriya wê di her rewşê de girîng e."
+  - q: "Cudahî di navbera tenêtî û veqetîna civakî de çi ye?"
+    a: "Veqetîna civakî tê wateya ku meriv kêm kes hene ku bi rêkûpêk pê re têkilî daynin. Tenêtî hesteke êşdar a tenêbûnê an ji kesên din qutbûnê ye. Dibe ku meriv bi tena serê xwe bijî lê xwe tenê nehese, an jî di nav komeke mirovan de xwe tenê hîs bike."
+  - q: "Ez çawa dikarim alîkariya dê û bavê xwe yê ku bi demansê dijî bikim ku têkildar bimîne?"
+    a: "Têkiliyên kurt û birêkûpêk baş dixebitin. Biceribînin ku bangek an vîdyobangek heftane ya diyar saz bikin, li maseya mitbaxê çalakiyeke hevpar bikin, biçin kafeyeke bîranînê, an jî bi heywanek an neviyek re serdanê bikin. Komên piçûk û bêdeng bihêlin, û bila ew kes leza xwe diyar bike."
+  - q: "Ez dikarim ji bo kal û pîrekî tenê li ku derê alîkariya herêmî bibînim?"
+    a: "Eldercare Locator, xizmeteke giştî ye, malbatan bi ajansên herêmî yên ji bo kal û pîran û bernameyên civakê ve girê dide. Li 800-677-1116 an li eldercare.acl.gov dikare were gihîştin."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Mirov ji bo hevaltiyê hatine afirandin, û ev bi temen re naguherê. Lêkolîn tenêtî û veqetîna civakî di paşiyariya jiyanê de bi metirsiya zêdetir a demansê ve girê didin, û her weha bi nexweşiyên dil û depresyonê re. Lêkolîn hîn nikare bibêje ka ev girêdan heta çi radeyê sedem û encam e. Ev rûpel vedibêje ka delîl çi nîşan didin, rêyên pratîkî ji bo têkildar mayînê, û çima çalakiyên hevpar ji bo kesên ku jixwe bi demansê dijîn ewqas girîng in.
 
-## Are loneliness and isolation linked with dementia?
+## Gelo tenêtî û veqetîn bi demansê ve girêdayî ne?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Erê, gelek lêkolîn wan girê didin, her çend alî hîn bi tevahî ne zelal e. [Komîsyona Lancet a 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) veqetîna civakî di paşiyariya jiyanê de wekî yek ji 14 faktorên metirsiya demansê yên ku dikarin bên guhertin destnîşan dike. [Kurtenivîsa UCL ya raporê](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) vê yekê wekî nêzî 5% ji bûyerên demansê li cîhanê nîşan dide.
 
-What the evidence shows:
+Delîl çi nîşan didin:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Kêmtir têkilî, metirsiya zêdetir.** Komîsyon behsa du lêkolînan dike ku têkiliya civakî ya kêmtir bi metirsiya demansê ya zêdetir ve girê dane. Yek ji wan metirsiya nêzî 57% zêdetir û ya din nêzî 18% zêdetir dît.
+- **Tenêtî jî.** Tenêtî, hesta ji kesên din qutbûnê, di çend lêkolînan de bi metirsiya demansê ya zêdetir ve hat girêdan.
+- **Nêrîna Giştîbijîşk.** Di Gulan 2023 de, Giştîbijîşkê Amerîkî [raporek li ser tenêtî û veqetînê](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) weşand. Ew dibêje ku tenêtî û veqetîna domdar dikare metirsiya demansê li kal û pîran bi nêzî 50% zêde bike. Ew her weha pêwendiya civakî ya lawaz bi metirsiya nexweşiya dil ya 29% zêdetir û metirsiya felcê ya 32% zêdetir ve girê da.
+- **Ev çiqas belav e.** [Raporek ji Akademiyên Neteweyî](https://www.ncbi.nlm.nih.gov/books/NBK557972/) dît ku nêzî 24% ji Amerîkîyên 65 salî û mezintir ên ku di civakê de dijîn ji hêla civakî ve veqetandî ne.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Hişyariyeke girîng: Komîsyona Lancet destnîşan dike ku dibe ku mirov di qonaxa destpêkê û hîn nehatî teşxîskirin a demansê de çalakiyên xwe yên civakî kêm bikin. Ev tê wê wateyê ku dibe ku beşek ji vê girêdanê ji ber vê yekê be ku demans dibe sedema paşvekêşînê, ne tenê ku paşvekêşîn metirsiyê zêde dike. Hema hema hemî van delîlan ji lêkolînên çavdêrî tên.
 
-## What is the difference between loneliness and isolation?
+## Cudahî di navbera tenêtî û veqetînê de çi ye?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Enstîtuya Neteweyî ya li ser Pîrbûnê (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) wê wiha rave dike. **Veqetîna civakî** tê wateya ku meriv kêm têkiliyên civakî an kêm kes hene ku bi rêkûpêk pê re têkilî daynin. **Tenêtî** hesta xemgîn a tenêbûnê an ji kesên din qutbûnê ye. Dibe ku kesek bi tena serê xwe bextewar bijî, û dibe ku kesek di jûreyeke tijî mirovan de xwe tenê hîs bike.
 
-The NIA lists factors that raise the risk of both:
+NIA faktorên ku metirsiya her duyan zêde dikin destnîşan dike:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Pirsgirêkên bihîstin an dîtinê
+- Zehmetiya tevgerê, an nebûna veguhestinê
+- Bi tena serê xwe jiyan, an windabûnek mezin wekî mirina hevjînê an teqawidbûn
+- Guhertinên di bîr an jî ramanê de
+- Lênêrîna kesek nêzîk ku nexweş e
+- Xemên darayî an astengiyên ziman
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Bihîstin pir girîng e. NIA destnîşan dike ku kesên ku baş nabihîzin dibe ku paşde vekişin ji ber ku axaftin acizker an şermker dibe. [Rêbera me ya li ser bihîstin û tenduristiya mejî](/brain-health/hearing/) behsa kontrolên bihîstinê û amûrên bihîstinê yên bê reçete dike.
 
-## Practical ways to stay connected
+## Rêyên pratîkî ji bo têkildar mayînê
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA gelek ramanan pêşniyar dike. Yek an du yên ku li gorî we ne hilbijêrin:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Têkiliya birêkûpêk plan bikin.** Demeke diyar a her roj an her hefte ji bo bangkirin, şandinê, e-nameyê an şandina qertekê ji malbat, heval an cîranan re.
+- **Vîdyobang an axaftvanên jîr bi kar bînin.** Ger teknolojî nû ye, gelek pirtûkxaneyên giştî û navendên civakê dersan pêşkêş dikin. [Rêbera me ya li ser bang û vîdyobangan](/activities/phone-and-video-calls/) bibînin.
+- **Beşdarî tiştekî bibin.** Dersek, civakeke baweriyê, komeke meşê an rolek dilxwazî hem têkilî û hem jî hesta armancê dide we.
+- **Hobiyeke kevn ji nû ve dest pê bikin** an bi kesên din re tiştekî nû fêr bibin.
+- **Bi kesên din re tevbigerin.** Bi hevalek an komekê re werzîşê bikin. [Rêbera me ya werzîşê](/brain-health/exercise/) vebijarkên nerm pêşkêş dike.
+- **Li ser xwedîkirina heywanekî bifikirin** ger hûn dikarin lênihêrîna wî bikin.
+- **Xizmetên herêmî bi kar bînin.** Navendên ji bo kal û pîran, Ajansên Herêmî yên li ser Pîrbûnê û Eldercare Locator (800-677-1116) dikarin we ber bi bername û veguhestinê ve bibin.
 
-## Why do shared activities matter in dementia?
+## Çima çalakiyên hevpar di demansê de girîng in?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Ji bo kesek ku jixwe bi demansê dijî, pêwendî li ser kêf, rihetiyê û hesta tê de bûnê ye, ne li ser kêmkirina metirsiyê. Komîsyona Lancet dibêje ku çalakî alîkariya kesên bi demansê dikin ku kêf û armancê biparêzin. [Komeleya Alzheimerê](https://www.alz.org/help-support/caregiving/daily-care/activities) destnîşan dike ku, ji bilî baştirkirina kalîteya jiyanê, çalakî dikarin tevgerên wekî gerîn an bêaramiyê kêm bikin. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jî dibêje ku kesên bi nexweşiya Alzheimerê hewce ne ku çalak bin û tiştên ku jê hez dikin bikin.
 
-Ideas that work well:
+Ramanên ku baş dixebitin:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Bi hev re li wêneyan binêrin.** [Conversation Cards](/games/conversation-cards/) pirsên vekirî û bê ceribandin pêşkêş dike, wekî "Ji min re behsa... bike". [Rêbera me ya bîranînan](/activities/reminiscence/) bibînin.
+2. **Li kêleka hev bilîzin.** [Picture Pairs](/games/picture-pairs/) wêneyan xuya dihêle û demjimêr an pûan tune ye, ji ber vê yekê zext tune ye. Rêbera me ya li ser [çawa bi hev re bilîzin](/caregiving/how-to-play-together/) şîretan heye.
+3. **Wêneyên malbatê bi kar bînin.** [Photo Pairs](/games/photo-pairs/) wêneyên ku hûn hilbijêrin vediguherîne lîstikeke lihevhatinê, û wêne li ser cîhaza we dimînin.
+4. **Mirovan bi hev re bînin.** [Picture Bingo](/games/picture-bingo/) ji bo civînên malbatê û [komên li mala lênêrînê](/activities/care-home-groups/) baş e.
+5. **Muzîk, karên malê an baxçeyê parve bikin.** [Çalakiyên muzîkê](/activities/music/), [karên malê](/activities/household-tasks/) û lîsteya me ya tevahî ya [ramanên çalakiyê](/activities/ideas/) bibînin.
+6. **Serdanan hêsantir bikin.** [Rêbera me ya serdanê](/activities/visiting/) serdanên kurt û aram ên ku ji bo her kesî xweş in vedibêje.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Wê piçûk û aram bihêlin. Jûreyeke bêdeng bi yek an du kesan re pir caran ji komeke mezin çêtir dixebite. Ger ew kes westiya an eleqeya wî kêm bû, rawestin baş e. Li kêleka hev rûniştin bi fincaneke çayê re jî encameke baş e.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Ji bo kesek ku bi tena serê xwe bi demansê dijî, NIA pêşniyar dike ku meriv kesek pêbawer bibîne ku dikare bi rêkûpêk serdanê bike an vîdyobangê bike û wekî têkiliya acîl bixebite. Ew her weha behsa kafeyeke bîranînê ya herêmî dike, cihê civakî yê aram ji bo kesên bi windabûna bîrê û malbatên wan re.
 
-## Caregivers get lonely too
+## Kesên ku lênêrînê dikin jî xwe tenê hîs dikin
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA lênêrîna kesek nêzîk wekî faktorek metirsiya veqetînê destnîşan dike. Ji bo hevaltiyên xwe, komên piştgiriyê û bêhnvedanê hinek dem biparêzin. [Rêbera me ya lênêrîna xwe ji bo lênêrkeran](/caregiving/caregiver-self-care/) ramanên pratîkî heye.
 
-## Talk with a doctor
+## Bi bijîşkekî re biaxivin
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ger hûn an kesê ku hûn lênihêrîna wî dikin pir caran xwe tenê an veqetandî hîs dike, ji bijîşkekî re bibêjin. NIA teşwîq dike ku mirov guhertinên mezin ên jiyanê, wekî mirina kesekî di malbatê de, parve bikin da ku bijîşk tevahiya rewşê baştir fam bike. Hesta xirabiyê ya ku hefteyan berdewam dike dibe ku depresyon be, ku dikare were dermankirin. Ger kal û pîrekî vê dawiyê ji heval an çalakiyên ku berê jê hez dikir paşde vekişiyaye, ev guhertin jî hêja ye ku bi bijîşkekî re were gotin. [Nîşanên destpêkê û kengê biçin ba bijîşk](/brain-health/warning-signs/) bixwînin.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ev rûpel agahdariya giştî ye, ne şîreta bijîşkî ye. [Daxuyaniya me ya bijîşkî](/medical-disclaimer/) bibînin.

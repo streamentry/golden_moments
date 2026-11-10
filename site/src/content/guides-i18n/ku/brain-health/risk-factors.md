@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "هۆکارەکانی مەترسیی دیمێنشا: ١٤ هۆکاری لانکێت"
+seoTitle: "هۆکارەکانی مەترسیی دیمێنشا: ١٤ هۆکاری لانکێت"
+description: "١٤ هۆکاری گۆڕدراوی مەترسیی دیمێنشا کە کۆمیسیۆنی لانکێتی ٢٠٢٤ ناوی بردووە، بەپێی قۆناغی ژیان، لەگەڵ ئەوەی توێژینەوەکان دەیبەستنەوە و چی لەگەڵ پزیشک بگێڕدرێتەوە."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  کۆمیسیۆنی لانکێتی ٢٠٢٤ ناوی لە ١٤ هۆکاری گۆڕدراوی مەترسیی دیمێنشا بردووە:
+  خوێندنی کەم، کەمی بیستن، کۆلێسترۆلی LDLی بەرز، خەمۆکی، برینداری سەر،
+  نەجووڵان، نەخۆشی شەکرە، جگەرەکێشان، فشاری خوێنی بەرز، قەڵەوی، خواردنەوەی
+  زۆر، ته‌نهایی، پیسبوونی هەوا و کەمی بینینی چارەسەرنەکراو. پێکەوە ئەمانە
+  بە نزیکەی ٤٥٪ی ڕووداوەکان لە جیهاندا دەبەسترێنەوە، بەبێ دڵنیابوون بۆ هیچ
+  کەسێکی دیاریکراو.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "ئەو ١٤ هۆکارە تەواوی ژیان دەگرنەوە: یەک دانە لە سەرەتای ژیان، دە دانە لە ناوەڕاستی ژیان و سێ دانە لە دواتری ژیان."
+  - "کەمی بیستن و کۆلێسترۆلی LDLی بەرز لە ناوەڕاستی ژیان هەر یەکەیان بە نزیکەی ٧٪ی ڕووداوەکانی دیمێنشا لە جیهاندا دەبەسترێنەوە، کە گەورەترین بەشە بۆ هەر هۆکارێکی تاک."
+  - "ئەم ڕێژەی سەدییانە خەمڵاندنی دانیشتوانن و وا دادەنێن کە پەیوەندیی هۆکاری هەیە. هەندێک لە پەیوەندییەکان لەوانەیە تەنها بەشێکیان هۆکاری بێت."
+  - "تەمەن و بۆماوە، کە کەس ناتوانێت بیگۆڕێت، هۆکارە گەورەکانی مەترسین. کەمکردنەوەی ئەو ١٤ مەترسییە دڵنیا ناکاتەوە کە کەسێک بە دیمێنشا تووش نابێت."
+  - "زۆربەی ئەو هەنگاوانەی تێیدان، وەک پشکنینی فشاری خوێن، بیستن و بینین، بۆ تەندروستیی گشتی باشن و شایەنی گفتوگۆن لەگەڵ پزیشک."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "١٤ هۆکاری گۆڕدراوی مەترسیی دیمێنشا چین؟"
+    a: "کۆمیسیۆنی لانکێتی ٢٠٢٤ ناوی لەم هۆکارانە برد: خوێندنی کەم، کەمی بیستن، کۆلێسترۆلی LDLی بەرز، خەمۆکی، برینداری مێشکی جەستەیی، نەجووڵان، نەخۆشی شەکرە، جگەرەکێشان، فشاری خوێنی بەرز، قەڵەوی، خواردنەوەی زۆر، ته‌نهایی، پیسبوونی هەوا و کەمی بینینی چارەسەرنەکراو. پێکەوە ئەمانە بە نزیکەی نیوەی ڕووداوەکانی دیمێنشا لە جیهاندا دەبەسترێنەوە."
+  - q: "کام هۆکاری مەترسیی دیمێنشا گرنگترە؟"
+    a: "لە ئاستی دانیشتوانی جیهاندا، کۆمیسیۆنەکە خەمڵاندی کە کەمی بیستن و کۆلێسترۆلی LDLی بەرز لە ناوەڕاستی ژیان هەر یەکەیان بە نزیکەی ٧٪ی ڕووداوەکان پێوە دەبەسترێنەوە، دوای ئەوانیش خوێندنی کەم و ته‌نهایی هەر یەکەیان بە نزیکەی ٥٪. ئەوەی کام هۆکار بۆ کەسێک گرنگترە پشت بە دۆخی تەندروستیی خۆی دەبەستێت، بۆیە پزیشک باشترین ڕێبەرە."
+  - q: "ئایا لە ساڵی ٢٠٢٤دا دوو هۆکاری نوێ زیاد کران؟"
+    a: "بەڵێ. ڕاپۆرتی ٢٠٢٤ کۆلێسترۆلی LDL (خراپ)ی بەرز لە ناوەڕاستی ژیان و کەمی بینینی چارەسەرنەکراو لە دواتری ژیان زیادی کرد بەسەر ئەو ١٢ هۆکارەی کە لە ساڵی ٢٠٢٠دا ناوبراوبوون. کۆمیسیۆنەکە ئەمانەی بە نزیکەی ٧٪ و ٢٪ی ڕووداوەکان بەستەوە."
+  - q: "ئایا تەمەن هۆکارێکی گۆڕدراوی مەترسییە؟"
+    a: "نەخێر. تەمەن گەورەترین هۆکاری ناسراوی مەترسیی نەخۆشیی ئەلزهایمەرە، و ناتوانرێت بگۆڕدرێت. بۆماوەش ڕۆڵی هەیە. ئەو ١٤ هۆکارەی لەم لاپەڕەیەدا هاتوون ئەوانەن کە توێژینەوە دەریدەخات لەوانەیە بتوانرێت بگۆڕدرێن."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,75 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+هۆکاری مەترسی ئەو شتێکە کە بە چانسی زیاتر بۆ تووشبوون بە دۆخێک دەبەسترێتەوە. ئەمە لە هەموو حاڵەتێکدا هۆکار نییە، و هەبوونی یەکێک لەوانە واتای ئەوە نییە کە بە دڵنیایی دیمێنشا ڕوودەدات. ئەم لاپەڕەیە ئەو ١٤ هۆکاری مەترسیی دیمێنشا دەخاتە ڕوو کە کۆمیسیۆنی لانکێتی ٢٠٢٤ دەڵێت لەوانەیە بتوانرێت بگۆڕدرێن، توێژینەوەکان چی بەستنیان پێوە دەکەن، و چی لەوانەیە لەگەڵ پزیشک بگێڕدرێتەوە.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+بۆ وێنەیەکی گشتیتر، لەگەڵ ئەوەی تاقیکردنەوە گەورەکان چی دۆزیوەتەوە، لێرەوە دەست پێ بکە: [ئایا دەتوانرێت ڕێگری لە دیمێنشا بکرێت؟ توێژینەوە چی دەڵێت](/brain-health/can-dementia-be-prevented/).
+ئەمە زانیاریی گشتییە، نەک ڕاوێژی پزیشکی؛ سەیری [ئاگادارکردنەوەی پزیشکیمان](/medical-disclaimer/) بکە.
 
-## What are the 14 risk factors for dementia?
+## ١٤ هۆکاری مەترسیی دیمێنشا چین؟
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[کۆمیسیۆنی لانکێتی ٢٠٢٤](https://doi.org/10.1016/S0140-6736(24)01296-0)، کە لەلایەن ٢٧ توێژەری دیمێنشا نووسراوە، خەمڵاندی کە ١٤ هۆکاری گۆڕدراوی مەترسی پێکەوە بە نزیکەی ٤٥٪ی ڕووداوەکانی دیمێنشا لە جیهاندا پێکدەهێنن. ڕێژەی سەدی بۆ هەر هۆکارێک لە خوارەوە خەمڵاندنی کۆمیسیۆنەکەیە بۆ بەشی ڕووداوەکان لە جیهاندا کە پێوەی دەبەسترێنەوە، نزیککراوەتەوە بۆ ژمارەی تەواو. ئەم ژمارانە سەریەک دەگرن، چونکە زۆر کەس چەندین مەترسییان هەیە لە یەک کاتدا، بۆیە کۆیان ٤٥٪ دەبێت نەک زیاتر.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| هۆکاری مەترسی | قۆناغی ژیان | بەشی ڕووداوەکان | توێژینەوە چی دەیبەستێتەوە | چی دەتوانیت بکەیت |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| خوێندنی کەم | سەرەتای ژیان | ٥٪ | ساڵانی خوێندنی کەمتر بە مەترسیی زیاتر دەبەسترێتەوە. چالاکبوونی دەروونی لە ناوەڕاستی ژیانیش وا دەردەکەوێت پارێزگاری بکات، تەنانەت بۆ ئەو کەسانەی خوێندنی کەمیان هەیە. | لە هەر تەمەنێکدا بەردەوام بە لە فێربوون و کارە دەروونییەکاندا: خوێندنەوە، خولیای تایبەت، وانە، یاری لەگەڵ کەسانی تر. |
+| کەمی بیستن | ناوەڕاستی ژیان | ٧٪ | کەمی بیستنی چارەسەرنەکراو بە مەترسیی زیاتر دەبەسترێتەوە. ئەو توێژینەوانەی کەسان بەماوەیەک دەدوێنن بەکارهێنانی ئامێری یارمەتیدەری بیستن بە مەترسیی کەمتر دەبەستنەوە. | بیستنی خۆت بپشکنە. بپرسە ئایا ئامێری یارمەتیدەری بیستن سوودت پێدەگەیەنێت، و ئەگەر پزیشک ڕێی دا بەکاری بهێنە. گوێکانت لە دەنگی بەرز بپارێزە. |
+| کۆلێسترۆلی LDLی بەرز | ناوەڕاستی ژیان (لە نزیکەی ٤٠ ساڵییەوە) | ٧٪ | کۆلێسترۆلی LDL (خراپ)ی بەرز لە ناوەڕاستی ژیان بە مەترسیی زیاتر دەبەسترێتەوە. توێژینەوەکانی چاودێری بەکارهێنانی ستاتین بە مەترسیی کەمتر دەبەستنەوە، بەڵام تاقیکردنەوەکان لە دواتری ژیان ئەمەیان پیشان نەداوە. | لە پزیشکەکەت بپرسە ئایا پێویستە کۆلێسترۆڵەکەت بپشکنرێت و ئەگەر وایە چی بکەیت. |
+| خەمۆکی | ناوەڕاستی ژیان | ٣٪ | خەمۆکی بە مەترسیی زیاتر دەبەسترێتەوە. لە دواتری ژیان، خەمۆکی دەتوانێت نیشانەیەکی سەرەتایی دیمێنشا بێت. | دەربارەی دڵتەنگی یان لەدەستدانی ئارەزوو کە زیاتر لە دوو هەفتە دەخایەنێت بە پزیشک بڵێ. خەمۆکی چارەسەری هەیە. |
+| برینداری مێشکی جەستەیی | ناوەڕاستی ژیان | ٣٪ | برینداری سەر لە هەر تەمەنێکدا و بە هەر هۆکارێک، لەوانە وەرزشی پەیوەندیدار، بە مەترسیی زیاتر دەبەسترێتەوە. | کاتی پاسکیل لێخوڕین و وەرزشی پەیوەندیدار کڵاوی پارێزگاری لەسەر بکە. دەربارەی ڕێگری لە کەوتن بپرسە. دوای برینداری سەر پشوودە و پشکنینی بکە. |
+| نەجووڵان | ناوەڕاستی ژیان | ٢٪ | ئەو کەسانەی وەرزش دەکەن و یاریی جەستەیی دەکەن چانسی کەمتر هەیە دیمێنشایان پێ بگات. بەڵگەی تاقیکردنەوەکان هێشتا سنووردارن. | بپرسە کام چالاکی بۆ تۆ سەلامەتە، و شتێک بدۆزەرەوە کە چێژت لێی بێت. سەیری [ڕێبەری وەرزشمان](/brain-health/exercise/) بکە. |
+| نەخۆشی شەکرە | ناوەڕاستی ژیان | ٢٪ | نەخۆشی شەکرە، بە تایبەت کاتێک لە ناوەڕاستی ژیان دەست پێدەکات یان ماوەیەکی درێژ دەخایەنێت، بە مەترسیی زیاتر دەبەسترێتەوە. | شەکری خوێنت بپشکنە. ئەگەر نەخۆشی شەکرەت هەیە، لەگەڵ تیمی چاودێریی تەندروستیت کار بکە بۆ بەڕێوەبردنی بە سەلامەتی. |
+| جگەرەکێشان | ناوەڕاستی ژیان | ٢٪ | جگەرەکێشان بە مەترسیی زیاتر دەبەسترێتەوە. توێژینەوەکان دەریانخستووە ئەو کەسانەی جگەرەیان بەجێهێشتووە ئەو مەترسییە بەرزەیان نییە کە جگەرەکێشەکان هەیانە. | دەربارەی پشتگیری بۆ وازھێنان بپرسە. وازھێنان لە هەر تەمەنێکدا بەسوودە. |
+| فشاری خوێنی بەرز | ناوەڕاستی ژیان | ٢٪ | فشاری خوێنی بەرز لە ناوەڕاستی ژیان بە مەترسیی زیاتر دەبەسترێتەوە. تاقیکردنەوەکانی دەرمانی فشاری خوێن ئاماژە بە کەمکردنەوەیەکی کەم لە مەترسیی دیمێنشا یان لاوازی دەروونی دەکەن. | ژمارەکانی فشاری خوێنت بزانە. کۆمیسیۆنەکە پێشنیار دەکات ژمارەی سەرەوە ١٣٠ یان کەمتر بێت لە نزیکەی تەمەنی ٤٠ ساڵییەوە؛ بپرسە کام ئامانج بۆ تۆ گونجاوە. |
+| قەڵەوی | ناوەڕاستی ژیان | ١٪ | قەڵەوی لە ناوەڕاستی ژیان بە مەترسیی زیاتر دەبەسترێتەوە، و هەروەها مەترسیی نەخۆشی شەکرە زیاد دەکات. | لە پزیشکەکەت بپرسە کێشێکی تەندروست بۆ تۆ چییە. کەسانی تەمەنمەزن نابێت بەبێ ڕاوێژی پزیشکی ڕژیم بگرن بۆ کەمکردنەوەی کێش. |
+| خواردنەوەی زۆر | ناوەڕاستی ژیان | ١٪ | خواردنەوەی زۆر بە مەترسیی زیاتر دەبەسترێتەوە. کەمکردنەوە لە خواردنەوەی زۆر بە مەترسیی کەمتر دەبەسترێتەوە. | بپرسە سنووری سەلامەت بۆ تۆ چییە، بە تایبەت لەگەڵ دەرمانەکانت. |
+| ته‌نهایی | دواتری ژیان | ٥٪ | پەیوەندیی کۆمەڵایەتیی کەم بە مەترسیی زیاتر دەبەسترێتەوە. | بەو ڕێگەیانەی خۆشت دەوێت لە پەیوەندیدا بمێنەرەوە لەگەڵ کەسانی تر. سەیری [ڕێبەری پەیوەندیی کۆمەڵایەتیمان](/brain-health/social-connection/) بکە. |
+| پیسبوونی هەوا | دواتری ژیان | ٣٪ | ژیان لە هەوایەکی پیستر بە مەترسیی زیاتر دەبەسترێتەوە. توێژینەوەکان هەوای پاکتر بە مەترسیی کەمتر دەبەستنەوە. | زۆربەی کاتەکان پەیوەندی بە سیاسەتی گشتییەوە هەیە. ئاگادارییەکانی کوالیتی هەوای ناوچەکەت بپشکنە و لە ڕۆژانی زۆر پیسدا کاتی کەمتر لە دەرەوە بەسەر بەرە. |
+| کەمی بینینی چارەسەرنەکراو | دواتری ژیان | ٢٪ | کێشەکانی بینین کە ڕاستنەکرێنەوە بە مەترسیی زیاتر دەبەسترێنەوە. توێژینەوەیەکی گەورە لە ئەمریکا نەشتەرگەریی پەردەی چاو بە مەترسیی کەمتر بەستەوە. | پشکنینی چاوی بەردەوام بکە. بپرسە ئایا کێشەکانی وەک پەردەی چاو دەتوانرێت چارەسەر بکرێن. |
 
-## How should I read these percentages?
+## چۆن پێویستە ئەم ڕێژەی سەدییانە بخوێندرێنەوە؟
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+بە وریاییەوە. خودی ڕاپۆرتی کۆمیسیۆنەکە چەند خاڵێک دەخاتە ڕوو کە شایەنی بیرکردنەوەن:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **ئەمە باسی دانیشتوان دەکات، نەک تاکەکەسان.** [کورتەی زانکۆی کالێجی لەندەن بۆ ڕاپۆرتەکە](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) تێبینی دەکات کە کەمکردنەوەی مەترسی لە ئاستی دانیشتوان کاردەکات و دڵنیا ناکاتەوە کە کەسێکی دیاریکراو بە دیمێنشا تووش نابێت.
+- **وا دادەنێن کە پەیوەندیی هۆکاری هەیە.** نووسەران تەنها ئەو هۆکارانەیان گرتەوە کە بەڵگەی قانعکەریان هەبوو، بەڵام دەڵێن هەندێک لە پەیوەندییەکان لەوانەیە تەنها بەشێکیان هۆکاری بێت.
+- **ئەمە ژمارەی جیهانین.** زۆربەی داتاکان لە وڵاتانی داهاتی بەرزەوە دێن، و بەشی ڕاستەقینە بۆ هەر وڵاتێک یان کۆمەڵگەیەک جیاواز دەبێت.
+- **ڕێژەی سەدی بچووکیش دەتوانێت گرنگ بێت.** هۆکارێک کە بە ٢٪ی ڕووداوەکان لە جیهاندا دەبەسترێتەوە هێشتا کاریگەری لەسەر ژمارەیەکی زۆر کەس دەبێت.
 
-## Which risk factors were added in 2024?
+## کام هۆکارەکانی مەترسی لە ساڵی ٢٠٢٤دا زیاد کران؟
 
-The 2024 report added two factors to the 12 named in 2020:
+ڕاپۆرتی ٢٠٢٤ دوو هۆکاری زیادی کرد بەسەر ئەو ١٢ هۆکارەی کە لە ساڵی ٢٠٢٠دا ناوبراوبوون:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **کۆلێسترۆلی LDLی بەرز لە ناوەڕاستی ژیان**، کە بە نزیکەی ٧٪ی ڕووداوەکان دەبەسترێتەوە.
+- **کەمی بینینی چارەسەرنەکراو لە دواتری ژیان**، کە بە نزیکەی ٢٪ی ڕووداوەکان دەبەسترێتەوە.
 
-## What risk factors cannot be changed?
+## کام هۆکارەکانی مەترسی ناتوانرێت بگۆڕدرێن؟
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+پەیمانگەی نیشتمانیی تەمەن (NIA) دەڵێت [تەمەن گەورەترین هۆکاری ناسراوی مەترسیی نەخۆشیی ئەلزهایمەرە](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)، و کەس ناتوانێت بیگۆڕێت. بۆماوەش ڕۆڵی هەیە؛ جینێکی ناسراو کە کاریگەری لەسەر مەترسیی ئەلزهایمەر هەیە پێی دەوترێت APOE. NIA دەشڵێت کە زانایان هێشتا بە تەواوی تێنەگەیشتوون لە زۆربەی کەساندا چی هۆکاری ئەلزهایمەرە. کۆمیسیۆنی لانکێت تێبینی دەکات کە مەترسییە گۆڕدراوەکان دەتوانرێت کەم بکرێنەوە، هەرچی مەترسیی بۆماوەیی کەسێک بێت.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+لەبەر ئەوەی تەمەن و بۆماوە ڕۆڵێکی گەورەیان هەیە، زۆر کەس کە هیچ یەکێکیان لەو ١٤ هۆکارەی مەترسی نییە هێشتا دیمێنشایان پێ دەگات. ئەمە تاوانی هیچ کەسێک نییە.
 
-## What does the trial evidence say about changing these risks?
+## بەڵگەی تاقیکردنەوەکان دەربارەی گۆڕینی ئەم مەترسییانە چی دەڵێت؟
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+بەستنەوەی هۆکارێکی مەترسی بە دیمێنشا هەمان شت نییە وەک سەلماندنی ئەوەی کە گۆڕینی ئەو هۆکارە مەترسیی دیمێنشا کەم دەکاتەوە. چەند نموونەیەک لەوەی بەڵگەی تاقیکردنەوەکان لە کوێدا وەستاون:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **فشاری خوێن.** لە تاقیکردنەوەی SPRINT MINDدا، ئامانجێکی نزمتر بۆ فشاری خوێن بە شێوەیەکی بەرچاو لاوازی دەروونیی سووک کەمی کردەوە. بەڵام بە شێوەیەکی بەرچاو دیمێنشای گومانلێکراوی کەم نەکردەوە، هەرچەندە لەوانەیە تاقیکردنەوەکە زۆر بچووک بووبێت بۆ پیشاندانی ئەوە ([SPRINT MIND لە JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **ئامێری یارمەتیدەری بیستن.** کۆمیسیۆنی لانکێت باس لە تاقیکردنەوەیەکی سێ ساڵەی ئامێری یارمەتیدەری بیستن دەکات کە هیچ کاریگەرییەکی گشتیی لەسەر بیرکردنەوەی نەدۆزییەوە، بەڵام سوودێکی لە کۆمەڵێکی کەسانی مەترسییان بەرزتر بوو هەبوو. ئەو توێژینەوانەی کەسان بەماوەیەک دەدوێنن بەکارهێنانی ئامێری یارمەتیدەری بیستن بە مەترسیی کەمتر دەبەستنەوە. [ڕێبەری بیستنی ئێمە](/brain-health/hearing/) زانیاریی زیاتر هەیە.
+- **چالاکیی جەستەیی.** پەیمانگەی نیشتمانیی تەمەن (NIA) دەڵێت بەڵگەی پێویستی تاقیکردنەوەی کلینیکی نییە بۆ ئەوەی بگەین بە ئەو دەرئەنجامەی وەرزش دەتوانێت ڕێگری لە لاوازی دەروونیی سووک یان ئەلزهایمەر بکات یان خاو بکاتەوە، هەرچەندە هەندێک توێژینەوە ئاماژە دەکەن لەوانەیە یارمەتی دابەزینی پەیوەست بە تەمەن بدات ([NIA دەربارەی ڕێگری لە ئەلزهایمەر](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+تاقیکردنەوە درێژخایەنەکان کە چاوەڕوانی ڕوودانی دیمێنشا دەکەن خاو و گرانن، بۆیە بۆ زۆرێک لە هۆکارەکان باشترین بەڵگە بەردەوام دەبێت لەو توێژینەوانەوە بێت کە کەسان بەماوەی ساڵان دەدوێنن. ئەو بەڵگەیە بەسوودە، بەڵام لاوازترە لە تاقیکردنەوەیەک.
 
-## What about sleep and diet?
+## چی دەربارەی خەو و خۆراک؟
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+کۆمیسیۆنەکە خەو و خۆراکی پێداچوونەوە کرد، بەڵام زیادی نەکردن بە لیستەکە، چونکە بەڵگەکان بە ڕادەی پێویست بەهێز یان یەکگرتوو نەبوون. ڕێبەرەکانمان دەربارەی [خەو](/brain-health/sleep/) و [خۆراک](/brain-health/diet/) ئەوەی دەزانرێت ڕوون دەکەنەوە.
 
-## Talk with a doctor
+## لەگەڵ پزیشک قسە بکە
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+پشکنینی ساڵانە کاتێکی باشە بۆ باسکردنی ئەم بابەتانە. دەتوانیت ئەم لیستە بهێنیت و بپرسی:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- ژمارەکانی فشاری خوێن، شەکری خوێن و کۆلێسترۆڵی من چین، و ئایا هەریەکەیان پێویستی بە سەرنج هەیە؟
+- پێویستە بیستن و بینینم بپشکنرێت؟
+- ئەو چالاکییەی دەیکەم بۆ من سەلامەت و بەسسە؟
+- ئایا هەر یەکێک لە دەرمانەکانم دەتوانێت کاریگەری لەسەر بیرەوەری یان بیرکردنەوە هەبێت؟
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+پێش گۆڕینی دەرمان، خۆراک، ڕۆژووگرتن، وەرزش یان پێکهاتەی خۆراکی، سەرەتا لەگەڵ پزیشک قسە بکە. ئەگەر تۆ یان ئەو کەسەی ئاگاداری لێدەکەیت بە ناکاو سەرلێشێواو بوو، لاوازی لە یەک لای جەستە، یان کێشەی لە قسەکردندا هەبوو، پەیوەندی بە ١٢٢ بکە.

@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Деменцияӧн олӧмлы печатайтана уджъяс"
+seoTitle: "Печатайтана уджъяс: ыджыд шрифтӧн"
+description: "Досьтӧ печатайтана уджъяс: ыджыд шрифтӧн кыв корсьӧм, серпасъяс краситӧм, сёрнитана карточкаяс да серпаса бинго, печатайтӧм могъяс."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments сетӧ досьтӧ печатайтана уджъяс деменцияӧн олӧмлы: ыджыд шрифтӧн
+  кыв корсьӧм, краситана серпасъяс, сёрни кутан серпаса карточкаяс да серпаса
+  бинго карточкаяс. Восьтӧй кӧть кутшӧмкӧ ворсӧм лист бок да вӧдитчӧй «Печатайтны»
+  кнопкаӧн. Печатайтӧй ыджыд, шытӧг шрифтӧн джуджыд кабала вылӧ, ӧти лист вылӧ
+  босьтӧй ӧти удж, а выльысь вӧдитчан листъяссӧ ламинируйтӧй. Простӧй гортса
+  листъяс, шуам, ас йылысь лист либӧ кадколастлӧн расписание, тшӧтш вермасны лоны
+  отсӧгӧн.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Миян печатайтана уджъяс досьтӧсь: «Кыв корсьӧм», «Краситӧм», «Сёрнитана карточкаяс» да «Серпаса бинго». Быд ворсӧм лист бокын эм «Печатайтны» кнопка."
+  - "Печатайтӧй ыджыд, шытӧг шрифтӧн, тыдалана контрастӧн, да ӧти лист вылӧ босьтӧй ӧти удж."
+  - "Джуджыд кабала либӧ картон кокниа кутны, да сійӧс этшаджык вежӧны. Ламинат отсӧгӧн листъясӧн позьӧ выльысь вӧдитчыны чышкысян маркеръясӧн."
+  - "Гортса листъяс, шуам, ас йылысь лист, кадколастлӧн расписание либӧ ӧдзӧсъяс вылын серпаса пасъяс, простӧйӧсь да отсӧгӧнӧсь."
+  - "Печатайтӧм лист — сійӧ корӧм, абу урок. Позьӧ вӧчны сійӧс джынвыйӧ либӧ оз вӧчны дзикӧдз, тайӧ бур."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Тіян печатайтана уджъяс досьтӧсь-ӧ?"
+    a: "Да. Тайӧ сайт вылын «Кыв корсьӧм», «Краситӧм», «Сёрнитана карточкаяс» да «Серпаса бинго» лист бокъясӧн позьӧ вӧдитчыны да печатайтны досьтӧ. Восьтӧй ворсӧм лист бок да вӧдитчӧй «Печатайтны» кнопкаӧн."
+  - q: "Кутшӧм печатайтана уджъяс бурджык лоӧны деменцияӧн олӧмлы?"
+    a: "Медбур печатайтана уджъяс — простӧйӧсь, гӧгӧрвоанаӧсь да йӧзлы лӧсяланаӧсь: ыджыд шрифтӧн кыв корсьӧм, кӧні кывъяс мунӧны сӧмын веськыдладор да уладор, гӧгӧр гӧгрӧса краситана серпасъяс, сёрни кутан серпаса карточкаяс да чукӧрлы серпаса бинго. Бӧрйӧй уджсӧ мортлӧн интересъяс да ӧнія вермӧмъяс серти, да ӧти лист вылӧ босьтӧй ӧти удж."
+  - q: "Кыдзи лӧсьӧдны листъяссӧ, медым найӧс вӧлі кокниджык аддзыны да вӧдитчыны?"
+    a: "Вӧдитчӧй ыджыд, шытӧг шрифтӧн, пемыд тушшӧн еджыд либӧ крем рӧма кабала вылӧ да унджык восьсаінӧн. Печатайтӧй джуджыд кабала либӧ картон вылӧ, медым лист веськыд лои, бӧрйӧй матовӧй кабала, медым югӧр эз тыдав, да вӧдитчӧй планшетӧн либӧ неслезяна подставкаӧн, медым лист эз вешйы. Ламинат отсалӧ листъяслы кузьджыка овны."
+  - q: "Вермасьы-ӧ печатайтны тіян уджъяссӧ видзан ін либӧ лунъя программа вылӧ?"
+    a: "Да. Уджжезъясӧн йитчысь уджалысьяс вермасны печатайтны миян листъяссӧ олісьяслы да чукӧръяслы. «Серпаса бинго» лӧсьӧдӧма чукӧръяслы да содтӧ экран вылын ведущӧйӧс, кодӧс позьӧ петкӧдлыны телевизор либӧ проектор вылын."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Коркӧ медбур удж — кабала лист да ручка пызан сайын. Печатайтана листъяслы оз ков зарядка, пароляэс либӧ экран, да найӧс кокни вайны ветлӧдлӧм вылӧ либӧ чукӧрӧ. Тайӧ лист бокын висьталӧма миян сайт вылын досьтӧ печатайтана уджъяс йылысь, кыдзи найӧс печатайтны, медым вӧлі кокни аддзыны да кутны, да кымынкӧ простӧй гортса печатайтана лист йылысь, кодъяс вермасны отсавны семьяяслы да уджжезъясӧн йитчысьяслы.
 
-## What free printable activities do you offer?
+## Кутшӧм досьтӧ печатайтана уджъяс ті сетанныд?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Ми сетам нёль досьтӧ печатайтана удж. Восьтӧй кӧть кутшӧмкӧ тайӧ ворсӧм лист бок да вӧдитчӧй **«Печатайтны»** кнопкаӧн, медым босьтны печатайтӧмлы лӧсьӧдӧм версия.
 
-| Printable | What it is | Good for |
+| Печатайтана удж | Мый сійӧ | Кӧдналӧн бур лоӧ |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Кыв корсьӧм](/games/word-search/) | Ыджыд шрифтӧн кыв корсьӧм, кӧні кывъяс мунӧны сӧмын веськыдладор да уладор | Ручкаӧн лӧнь кад; коді радейтліс головоломкаяс |
+| [Краситӧм](/games/coloring/) | Краситана серпасъяс, кодъясӧн позьӧ печатайтны либӧ краситны экран вылын | Лӧнь, творческӧй кад; быд стадияын отсӧгӧн |
+| [Сёрнитана карточкаяс](/games/conversation-cards/) | Серпаса карточкаяс восьса сёрни кутан юалӧмъясӧн тема серти | Ветлӧдлӧм, шыӧдчӧмъяс, семейнӧй сёян, казьтыштана чукӧръяс |
+| [Серпаса бинго](/games/picture-bingo/) | Лыдпасъяс пыдди серпасъясӧн бинго карточкаяс да экран вылын ведущӧй | Видзан інъяс, лунъя программаяс, семейнӧй чукӧртчӧмъяс |
 
-### Large-print word search
+### Ыджыд шрифтӧн кыв корсьӧм
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Кыв корсьӧм](/games/word-search/)ын вӧдитчӧны ыджыд шыпасъяс, да кывъяс мунӧны сӧмын веськыдладор да уладор, диагональ либӧ бӧрладор кывъяс абуӧсь. Уджалӧй ӧтлаын: ӧти морт лыддьӧ кыв лыддьӧгысь, мӧд корсьӧ сійӧс. Кыв корсьӧм сьӧкыдджык лоӧ кӧ, позьӧ ӧтлаын гӧгӧртыны быд кывлӧн медводдза шыпас, либӧ просто лыддьыны кыв лыддьӧгсӧ гораа да сёрнитны быд кыв йылысь.
 
-### Coloring pages
+### Краситана серпасъяс
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Краситӧм](/games/coloring/) серпасъясӧн позьӧ печатайтны маркеръяслы либӧ карандашъяслы, либӧ краситны планшет вылын, личкӧмӧн рӧм да сэсся серпас юкӧн. Печатайтӧм листъяслы сетӧй шӧр маркеръяс да неуна рӧм ӧтпырйӧ. Видзӧдлӧй миян [кывбур да кинас уджъяс йылысь велӧдӧм](/activities/arts-and-crafts/), медым тӧдмавны, кыдзи видзны краситӧмсӧ йӧзлы лӧсялана да лӧньӧн.
 
-### Conversation cards
+### Сёрнитана карточкаяс
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Сёрнитана карточкаяс](/games/conversation-cards/) ӧтувтӧны гӧгӧрвоана серпас да восьса юалӧм, шуам, «Висьталӧй тайӧ йылысь...» либӧ «Мый ті аддзанныд?» Найӧ гижӧмаӧсь кыдз восьса корӧмъяс, а абу видлалана юалӧмъяс. Печатайтӧй набор, вундӧй сійӧс, да видзӧй неуна карточка сумкаын ветлӧдлӧм вылӧ либӧ телефон дорын шыӧдчӧм вылӧ. Найӧ бурӧн уджалӧны тшӧтш [казьтыштана](/activities/reminiscence/) чукӧръясын.
 
-### Picture bingo cards
+### Серпаса бинго карточкаяс
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Серпаса бинго](/games/picture-bingo/) карточкаясын лыдпасъяс пыдди вӧдитчӧны серпасъяс. Печатайтӧй ӧти карточка быд ворсысьлы да вӧдитчӧй экран вылын ведущӧйӧн ноутбук, телевизор либӧ проектор вылын. Ми вӧзъям шуны ставыслы, дзикӧдз став карточка тыртӧдз, медым некод эз коль лыдтӧмӧн. Видзӧдлӧй [чукӧрлы уджъяс видзан інъясын](/activities/care-home-groups/), кыдзи нуӧдны ворсӧм.
 
-## How do I print activities so they are easy to use?
+## Кыдзи печатайтны уджъяссӧ, медым найӧн вӧлі кокни вӧдитчыны?
 
-Small changes in how you print make a big difference.
+Печатайтӧм ногын ичӧт вежӧмъяс вермасны ыджыд отсӧг сетны.
 
-### Make it easy to see
+### Лӧсьӧдӧй, медым кокни вӧлі аддзыны
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Ыджыд, шытӧг шрифт.** Вӧдитчӧй медыджыд печатайтӧм лад, коді тӧр лист вылӧ. Видзчыссьӧй мича, гижана шрифтъяслысь.
+- **Ёна контраст.** Пемыд тушшӧн еджыд либӧ крем рӧма кабала вылӧ. Эну вӧдитчыны руд либӧ рӧма фонъясӧн.
+- **Матовӧй кабала** чинтӧ югӧрсӧ ёна югӧр улын.
+- **Видзӧдлӧй очки да югӧр.** Alzheimer's Association пасйӧ, мый синмад да кывзысян сьӧкыдлунъяс вермасны сёрнитӧмсӧ сьӧкыдджыкӧн керны, да вӧзйӧ кад сайын видлавны найӧс. Ёна, ӧткодь югӧр тшӧтш отсалӧ.
 
-### Make it easy to hold
+### Лӧсьӧдӧй, медым кокни вӧлі кутны
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Джуджыд кабала либӧ картон** веськыда сулалӧ, кокниджык босьтны, да выдержитӧ унаысь вӧдитчӧм.
+- **Планшет** либӧ неслезяна подставка кутӧ листсӧ, медым сійӧ эз вешйы.
+- **Шӧр маркеръяс либӧ кыз карандашъяс** кокниджык кутны, вӧсньӧд ручкаяс дорысь.
 
-### Make it reusable
+### Лӧсьӧдӧй выльысь вӧдитчӧм вылӧ
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Ламинируйтӧй листъяссӧ** либӧ пуктыштӧй найӧс гӧгӧрвоана файт-конвертъясӧ. Вӧдитчӧй чышкысян маркеръясӧн кыв корсьӧм да бинго карточка вылын, сэсся чышкӧй.
+- **Бӧрйӧй матовӧй конвертъяс**, югӧр мешайтӧ кӧ, да **кругляйтӧй пельӧсъяссӧ** ламинат паськӧм карточкаяс вылын ножницаӧн, медым найӧн вӧлі шӧр кад кутны.
+- **Видзӧй папкаын** радейтан листъяссӧ, медым эз ковны быд вежон выльысь печатайтны ӧткодь лист.
 
-### Keep it simple
+### Видзӧй сійӧс простӧйӧн
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **ӧти лист вылӧ — ӧти удж.** Ӧти кыв корсьӧм либӧ ӧти серпас, а абу уна удж ӧтлаын чукӧрмӧмӧн.
+- **Унджык восьсаін.** Тыртӧм лист вермас лоны сьӧкыд.
+- **Кыдз позьӧ, эн сет лыддьыны инструкциӧ**. Петкӧдлӧй, кыдзи вӧчны.
+- **Вундыштӧй листсӧ.** Тыр лист уна кӧ, вундыштӧй сійӧс джынвыйӧ либӧ тувъялӧй, медым тыдалис сӧмын юкӧн.
 
-## Other useful printables you can make at home
+## Мукӧд отсӧгӧн печатайтана листъяс, кодъясӧн позьӧ лӧсьӧдны гортын
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Абу став отсӧгӧн печатайтана лист — ворсӧм. Тайӧяссӧ кокни лӧсьӧдны текст редактор да принтер отсӧгӧн.
 
-### A life-story page
+### Ас йылысь лист
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Ӧти лист бок «ме йылысь» серпасӧн, нимӧн, кыдзи мортыс радейтӧ, кор сійӧс шуӧны, кӧні сійӧ быдмис, уджалӧмыс, семьяыс, радейтан сёяныс, музыкаыс да мый сетӧ лӧньлун либӧ лоӧ сьӧкыд. Dementia Australia вӧзйӧ [казьтыштана книга](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) мортлӧн олӧм, радейтана да важ йӧз йылысь юӧръясӧн, медым отсавны ветлысьяслы да видзысьяслы, да отсӧгӧн лоны сёрни кутӧм вылӧ.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Тайӧ торъя нин отсӧгӧн больничаын да выль видзан інъясын. NIA вӧзйӧ сетны больничалӧн уджалысьяслы [ас юӧра лист](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), кӧні гижӧма мортлӧн кадколаст режим, кыдзи сійӧс бурджык шуны, мый сійӧ радейтӧ да оз радейт, мый вермас лоны сьӧкыд, да доймӧмлӧн кывтӧм пасъяс.
 
-### A daily schedule
+### Кадколастлӧн расписание
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Ыджыд, простӧй лунъя расписание кадӧн, неуна кывйӧн да ичӧт серпасӧн быд юкӧнлы: асиввыв сёян, ветлӧм, луншӧр сёян, шойччӧм, музыка, рытъя сёян. Alzheimer's Association-лӧн [лунъя видзан план](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) вӧзйӧ планируйтны мортлы медбур кадъяс серти, ӧткодь кадын чеччӧм да узьӧм, а тшӧтш удж да шойччӧм ӧтлаын. Сувтӧдӧй сійӧс синмӧн аддзысяна інӧ, шуам, холодильник вылӧ, да видзӧй сійӧс вежӧртанаӧн. Унджык юӧр видзӧдлӧй миян [кадколаст режим йылысь велӧдӧмын](/activities/daily-routine/).
 
-### Picture labels for rooms and drawers
+### Жыръяс да ящикъяслы серпаса пасъяс
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA вӧзйӧ вӧдитчыны югъяла рӧма пасъясӧн либӧ простӧй серпасъясӧн, медым [пасйыны пызанін, узянін да пӧжанін](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Сідзжӧ позьӧ вӧчны ящикъяс да шкафъяслы: носки серпас носки ящик вылын, чашкаяс серпас чашка шкаф вылын. Печатайтӧй, ламинируйтӧй да ляпкӧй.
 
-### A sorting set
+### Юкӧм набор
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Печатайтӧй серпасъяс кык простӧй категорияысь, шуам, вотӧсъяс да дзоридзъяс либӧ инструментъяс да пӧжана колантор, картон вылӧ. Вундӧй найӧс да юклӧй ӧтлаын кык корзинаӧ. Тайӧ уджлӧн экран версия — [Юклам ӧтлаын](/games/sort-together/).
 
-### Song lyric sheets
+### Сьывъяслы текст листъяс
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Печатайтӧй кымынкӧ радейтан сьывлысь кывъяссӧ вывті ыджыд шрифтӧн сьывны кӧ. Кодъяс ӧні нин уна оз лыддьысьлыны, найӧ вермасны радейта кутны листсӧ киын.
 
-### A family photo page
+### Семьялӧн фото лист
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Ӧти лист бок нёльысь квайтӧдз ыджыд семейнӧй фотоӧн, быд серпас улын ним. Сійӧ вермас куйлы пызан вылын, медым быдӧн вермис босьтны да сёрнитны найӧ йылысь. Подписьяс отсалӧны ветлысьяслы да уджалысьяслы пырны сёрниӧ, и некодлы оз ков юавны: «Коді тайӧ?»
 
-### A recipe card
+### Рецепт карточка
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Печатайтӧй радейтан семейнӧй рецепт ыджыд шрифтӧн. Позьӧ вӧдитчыны сыӧн ӧтлаын пуан вӧчигӧн, либӧ просто сёрнитны важ сёян йылысь.
 
-## How do I offer a printable without it feeling like homework?
+## Кыдзи сетны печатайтана листсӧ, медым сійӧ эз ло урок кодь?
 
-Present it as something to share, not a test.
+Дасьтӧй сійӧс кыдз ӧтув вӧчантор, а абу кыдз видлалӧм.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Пуксьӧй да заводитӧй ассьыныд.** «Ме тайӧ кыв корсьӧмӧн уджала. Отсаланныд-ӧ меным аддзыны "сад"?»
+- **Вӧчӧй ӧтлаын.** Вежласьӧй, либӧ ӧти корсьӧ, мӧд гӧгӧртысьӧ.
+- **Некор эн пасйы веськыдӧн либӧ абу веськыдӧн.** Alzheimer's Association-лӧн [гортса уджъяс йылысь велӧдӧм](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) вӧзйӧ видзӧдны уджалӧм процесс вылӧ, а абу результат вылӧ, да радлун вылӧ, а абу ыджыд вӧчӧм вылӧ.
+- **Кольӧй листъяссӧ тыдалан інӧ.** Сійӧ ж велӧдӧм вӧзйӧ пуктны альбомъяс, фотоальбомъяс либӧ важ журналъяс кокниа босьтана інъясӧ. Печатайтана карточкаяс да фото листъяс вермасны овны бок пызан вылын сідзжӧ.
+- **Дугдӧй кӧть кӧн.** Джын краситӧм лист — бур рыт. Сідзжӧ бур лоӧ пуктӧй листсӧ бокӧ да юны чай.
 
-## Where to find more
+## Кӧні аддзыны содтӧдтор
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Видзӧдлӧй став миян [ворсӧмъяс да печатайтана листъяссӧ](/games/), либӧ видлӧй [уджъяс быд стадиялы](/activities/ideas/), медым аддзыны унджык могъяс, кабалаӧн да кабала тӧг.

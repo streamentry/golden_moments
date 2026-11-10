@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Сад да петан уджъяс деменцияӧн олысь мортлы"
+seoTitle: "Сад да петан уджъяс деменция дырйи"
+description: "Сад да петан уджъяс деменцияӧн олысь мортлы: джуджыд грядъяс, горшокъяс да шондіысь, шонтысьысь да мунӧмысь видзӧдан советъяс."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Садын уджавӧм да петан сайын олысь кад вермас лоны лӧнь да тӧдса удж
+  деменцияӧн олысь мортлы. Видлӧй быдмӧгъяс ваӧн юктӧм, трава горшокӧ
+  пуктыны, кизьӧм дзоридзъяс чышкыны либӧ гӧгра садӧ дженьыдик ветлыны.
+  Вӧдитчӧй джуджыд грядъясӧн либӧ пызан вылын, медым некодлы эз ков
+  пызандзьыны, энӧ вӧдитчӧй ёсь сад инструментъясӧн да яд вежӧсъясӧн, петӧй
+  лун шоныд абу кадӧ, и пыр овлӧй морткӧд.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Прӧстӧй садса уджъяс — ваӧн юктӧм, кӧйдыс пуктыны, трава дук йывны да дзоридз босьтны — позьӧ вӧчны сулалігӧн либӧ пукавтӧмӧн."
+  - "Джуджыд грядъяс, горшокъяс да вевттьӧм пызан вайӧдӧны садсӧ сюрӧс тшӧтш вылӧ да чинтӧны усьны вомӧнтӧмлысь."
+  - "Энӧ вӧдитчӧй ёсь инструментъясӧн, чепӧсь либӧ сісьмӧдан вежӧсъясӧн да ядторъясӧн. Видзӧдлӧй, медым му эз ло вежӧма сёян местӧ."
+  - "Шонтӧм вермас лоны опаснӧй ыджыд мортлы. Петӧй асывнас либӧ рытын, босьтӧй ва да вевт, и пырӧй гортӧ, кор нинӧм оз ков ло."
+  - "Уна деменцияӧн олысь морт мукӧд кадӧ ветлӧны кытчӧкӧ кӧсйытӧг. Пыр овлӧй морткӧд петан сайын и видзӧй матын неважын лэдзӧм серпас да пасйӧдчан лист бок."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Кутшӧм садса уджъяс вермас вӧчны деменцияӧн олысь морт?"
+    a: "Бурӧн лоӧны быдмӧгъяс ваӧн юктӧм, кӧйдыс посни горшокъясӧ пуктыны, трава дук йывны да видлыны, кизьӧм дзоридзъяс чышкыны, град пуктасъяс босьтны, чукӧртӧм дзоридзъяс лӧсьӧдны да туй весавны. Гортын позьӧ пуктыны трава ӧшинбок улын либӧ му пызан вылын вевттьӧм улан. Бӧрйӧй уджсӧ сы серти, мый мортлы водзын вӧлі дона да мый сійӧ ӧні вермас вӧчны кокниа."
+  - q: "Кыдзи видзны деменцияӧн олысь мортӧс шондіын?"
+    a: "Планируйтӧй петан кадсӧ асывнас либӧ рытын, кор шоныд абу, медым кад вӧлі дженьыд, и тшӧтшёна сетлӧй ва. Бӧрйӧй вевт улын ин, паськӧд бордъяна шапка, кокни да шӧр паськӧм да шондіысь видзан. Ыджыд йӧзлӧн шонтысьӧмлӧн риск ыджыдджык, а юрбыттӧм, пельöс петӧм либӧ кынӧм вермасны лоны пасйӧдъясӧн. Аддзилій кӧ найӧс, дзик пыр пырӧй гортӧ да кӧдзӧдчӧй."
+  - q: "Кыдзи позьӧ петны ортсыӧ, морт кӧ ветлӧ кытчӧкӧ кӧсйытӧг?"
+    a: "Овлӧй морткӧд став каднас, вӧдитчӧй гӧгра садӧн, кӧні öдзöс тупкӧма, и тӧдмав, медым мортлӧн вӧлі пасйӧдчан браслет либӧ пасйӧдчан лист бок. Видзӧй матын сылысь неважын лэдзӧм серпас. Морт кӧ воши, Alzheimer’s Association советуйтӧ 112-ӧ шыӧдчыны, кор сійӧс оз на аддзы 15 минут мысти."
+  - q: "Мый вӧчны, сад миян абу кӧ?"
+    a: "Тырмас кымынкӧ горшок крыльца вылын, ӧшинбок улын либӧ трава кор йӧрын пызан вылын. Позьӧ ветлыны паркӧ, öшмöс садӧ либӧ ӧтувъя садӧ. Петан сайын пукавны да кай пуксьӧмсӧ кывны — тайӧ тожӧ петан сайын удж."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Уна мортлы сад — тайӧ медтӧдса места, кӧні сійӧ оліс. Мугöдны, ваӧн юктыны да дзоридзъяс босьтны — тайӧ важся кадсянь тӧдса уджъяс, а петан сайын сынӧд, шондi югӧр да кай пуксьӧм сетӧны кокни лӧньлун. National Institute on Aging лыддьӧ быдмӧгъяс видзӧм, дзоридзъяс да град пуктасъяс пуктыны, а сідзжӧ [быдмӧгъяс кыдзи быдмӧны йылысь сёрнитны](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) уджъяс пиысь, мый вермас лоны дона Альцгеймер висьӧмӧн олысь мортлы. Тайӧ лист бокын ми висьталам, мый позьӧ видлыны, кыдзи садсӧ кокниджыка вӧчны да кыдзи видзчысьны шонтысьысь, шондіысь да кытчӧкӧ кӧсйытӧг мунӧмысь.
 
-## What outdoor and gardening activities work well?
+## Кутшӧм петан да садса уджъяс бурӧн лоӧны?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Медбур уджъяс — прӧстӧй, тӧдса, и найӧс позьӧ вӧчны сулалігӧн либӧ пукавтӧмӧн. Бӧрйӧй сы серти, мый мортлы водзын вӧлі дона.
 
-### In the garden
+### Садын
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Ваӧн юктӧм.** Лёк, кокни лейка либӧ неыджыд шланг конус да кымынкӧ горшок матын. Ваӧн юктӧмын эм яснӧй заводитчӧм да помасьӧм, и сійӧс абу сьӧкыд вӧчны абу веськыда.
+2. **Кӧйдыс горшокъясӧ пуктыны.** Alzheimer’s Foundation of America советуйтӧ пуктыны кӧйдыс посни горшокъясӧ да [видзӧдны, кыдзи найӧ быдмӧны](https://alzfdn.org/dementia-activity-gardening/). Ыджыд кӧйдысъяс, шуам, фасоль, подсолнух либӧ горох, кокниджык кутны.
+3. **Кизьӧм дзоридзъяс чышкыны.** Киӧн чышкыны кизьӧм дзоридзъяс — лӧнь, тӧлкыд удж. Бӧрйӧй быдмӧгъяс, кӧні чепъяс абуӧсь.
+4. **Град пуктас либӧ трава босьтны.** Помидор, фасоль да траваяс кокни босьтны да гӧгӧр бура сёйны. Вайӧй найӧс гортӧ и вӧдитчӧй пызан сайын.
+5. **Трава дук йывны да видлыны.** Розмарин, мята да лаванда дукӧны ён. Чышкӧй кор, ворсӧй чуньяс костын да сет тойлавны.
+6. **Туй либӧ площадка весавны.** Лёк рёсканӧн веськыд, кос 장소ын, морт кӧ кокни сулалӧ.
+7. **Кай пызан тыртны.** Сэсся пукавны ӧтлаын да видзӧдны, коді локтӧ.
 
-### Indoors, when going out is not possible
+### Гортын, петны позьтӧм дырйи
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Трава горшок ӧшинбок улын**: базилик, петрушка либӧ лук.
+- **Горшокӧ пуктыны пызан вылын.** AFA советуйтӧ вӧдитчыны лотокъясӧн, медым му эз рассыпитчы, да вуджӧдны мусӧ посни дозйӧн.
+- **Чукӧртӧм дзоридзъяс лӧсьӧдны** садсянь либӧ магазинсянь вайӧм дзоридзясысь да коръясысь.
+- **Дзоридзъяс топӧдны** букетсянь, бӧрын найӧс клеитны открыткаяс вылӧ. Унджык аддзӧй [ки уджъяс](/activities/arts-and-crafts/) лист бокын.
+- **Лаванда либӧ роза мешӧчъяс вӧчны**, AFA-ысь мукӧд идея, коді вайӧ сад дуксӧ гортӧ.
 
-### Getting out and about
+### Петан вылӧ мунӧм
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Дженьыдик ветлӧм** горт гӧгӧр, паркын либӧ сад центрын, небыдик да пукавны инӧн.
+- **Петан сайын пукавны** крыльца вылын либӧ лабич вылын, кывны кай пуксьӧм да тов кылӧм. Тайӧ тшӧтш удж.
+- **Öшмöс садӧ ветлӧм** лун тыныд кадӧ. NHS пасйӧ, мый мукӧдлаын эмӧсь сенсорнӧй садъяс дука быдмӧгъясӧн, ворсан да ва элементъясӧн.
+- **Юръяс вердны либӧ кайяс видзӧдны** ты вылын, ва дорысь ыліын овлывлӧмӧн.
 
-## How do I make a garden easier to use?
+## Кыдзи садсӧ кокниджыка вӧчны?
 
-Bring the garden up to the person, not the other way around.
+Вайӧй садсӧ морт дорӧ, а абу мортӧс садӧ.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Джуджыд грядъяс либӧ джуджыд горшокъяс** сюрӧс тшӧтш вылын сетӧны уджавны пызандзьытӧг да вугыртчытӧг.
+- **Горшокъяс пызан вылын** лоӧны бурӧсь инвалид креслӧын пукавны кӧсйысьлы либӧ пукавтӧмӧн уджавны кӧсйысьлы.
+- **Паськыд, веськыд туйяс**, кӧні абуӧсь ыштытӧм изъяс да шлангъяс, чинтӧны дзугсьыны вомӧнтӧмлысь.
+- **Пуканъяс киясӧн да вевт улын** туй кузя, медым пыр позис шойччыны.
+- **Инструментъяс кыз да небыд ручкаясӧн**, кодъясӧс кокни кутны. Энӧ вӧдитчӧй секаторъясӧн, пуртъясӧн да мукӧд ёсьторъясӧн.
+- **Гӧгра ин тупкана öдзöсӧн**, кӧні морт вермас ветлыны мездмӧмтӧг, ті кӧ матын овланныд.
 
-## Which plants should I avoid?
+## Кутшӧм быдмӧгъясӧс колӧ видзны?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Бӧрйӧй быдмӧгъяс, кодъясӧс видлыны лёк, и бурджык — кодъясӧс сёйны кӧ пондасны, оз лоны лёк. AFA советуйтӧ бӧрйыны быдмӧгъяс, кодъяс пырджык оз сісьмӧдны ку, видлыны аллергия, и бура видзӧдны сы йылысь, коді вермас мусӧ сёян местӧ лыддьыны. NIA-лӧн гортса опаслун йылысь советъясын висьталӧны яд быдмӧгъясӧс чышкыны либӧ тупкыны йылысь.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Энӧ вӧдитчӧй чепъя розаясӧн, кактусъясӧн да быдмӧгъясӧн, кодъяслысь лы сісьмӧдӧ ку.
+- Быдмӧг йылысь кӧ он тӧд, юасьӧй ядторъяс серти отсӧг пыдди либӧ сад центрын пуктытӧдз.
+- Тӧдса быдмӧгъяс вермасны вайӧдны бура казьтылӧмъяс. AFA шуӧ розаяс да рождественнӧй кактус примерӧн. Бӧрйӧй чептӧм сортъяс.
+- Удобрениеяссӧ, пестицидъяссӧ да бурдъясысь вӧчӧм препаратъяссӧ видзӧй тупкывтӧмӧн да энӧ вӧдитчӧй найӧн, кӧні морт вермас воӧдчыны.
 
-## How do I stay safe in the heat and sun?
+## Кыдзи видзчысьны шонтысьысь да шондіысь?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Планируйтӧй петан кадсӧ поводдя серти. NIA висьталӧ, мый ыджыд йӧзлӧн [шонтысьӧмлӧн риск](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) ыджыдджык, сы вӧсна мый яй дзик ӧткодь оз вежсьы температура вежсьӧм вылӧ, а мукӧд пелосьторъяс сідзжӧ вермасны вежны, кыдзи яй видзчысьӧ шонтысьысь.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Петӧй асывнас либӧ рытын.** Шондіа кадӧ лун шӧрын энӧ пет. Видлӧй шонтысьӧм индекссӧ, абу сӧмын температура.
+- **Тшӧтшёна сетлӧй ва.** Энӧ виччысь, кор морт ачыс шуас, мый сійӧ гора. Шондіа кадӧ энӧ сет алкоголь да кофеинъя юан.
+- **Пасьтасьӧй колана ногӧн.** Шӧр, кокни да небзьӧдӧм паськӧм, паськӧд бордъяна шапка да шондіысь видзан очки.
+- **Вӧдитчӧй шондіысь видзанӧн.** NIA советуйтӧ SPF 15 либӧ унджык, лун дырйи выльысь мавтӧмӧн.
+- **Бӧрйӧй вевт.** Лӧсьӧдӧй пызансӧ пу увтын либӧ зонт увтын.
+- **Медым кад вӧлі дженьыд.** Неыджыд кад петан сайын вермас тырмыны, шондіа лунъясӧ тӧдчӧ.
+- **Видзӧдлӧй пасйӧдъяс.** NIA лыддьӧ юр висьӧм, юрбыттӧм, пельöс петӧм либӧ кынӧм шонтысьӧмлӧн пасйӧдъясӧн. Деменцияӧн олысь морт вермас оз висьтавны, мый сылы абу бур, та вӧсна видзӧдлӧй сылысь чужӧмсӧ да вӧчӧмсӧ. Пыр пырӧй гортӧ, кӧдзӧдчӧй ваӧн да кӧдз небӧдӧн, и корсьӧй медотсӧг, бурлун кӧ дзик пыр оз во. Шонді удар, коді вермас петкӧдлыны син водзӧ пемыдлӧм, юрбыттӧм либӧ кос да гӧрдмӧм ку, — тайӧ скора отсӧг корсян ситуация: шыӧдчӧй 112-ӧ.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Кӧдзыд поводдя дырйи тожӧ колӧ видзчысьны. Тӧвбыд петан кадсӧ вӧчӧй дженьыдӧн да тӧдмав, медым ки да кок вӧлі шоныдӧсь да косӧсь.
 
-## How do I handle wandering when we go outside?
+## Кыдзи вӧчны, морт кӧ ветлӧ кытчӧкӧ кӧсйытӧг петан сайын?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Овлӧй морткӧд веськыда, кор сійӧ петан сайын. Alzheimer’s Association висьталӧ, мый [10 морт пиысь 6 деменцияӧн олысь](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ӧтчыдкӧ ветлӧ кытчӧкӧ кӧсйытӧг, а унаысь — унджыкысь ӧтчыд. Тайӧ вермас лоны быд этапын.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA-лӧн [кытчӧкӧ кӧсйытӧг мунӧм да вошӧм йылысь советъясын](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) эмӧсь татшӧм тшӧктӧмъяс:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Тӧдмав, медым мортлӧн вӧлі пасйӧдчан браслет либӧ медбраслет нимӧн, инпасӧн да тіян телефон номерӧн, либӧ пасйӧд паськӧм вылас.
+- Видзӧй матын мортлысь неважын лэдзӧм серпас либӧ видео.
+- Висьтав соседъяслы, мый морт вермас ветлыны кытчӧкӧ кӧсйытӧг.
+- Видзӧй садсӧ гӧграӧн да тупкана öдзöсӧн.
+- Энӧ коль мортӧс ӧтнас, морт кӧ важысянь ветліс кытчӧкӧ кӧсйытӧг.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer’s Association сідзжӧ советуйтӧ лӧсьӧдны гортын да петан сайын инъяс, кӧні позьӧ ветлыны опаслунтӧг, да планируйтны уджъяс сійӧ кадӧ, кор чуймытлун лоӧ медся ёна. Ветлӧм опаснӧй, гӧгра садын вермас лоны бур вариантінын рытын лӧсьӧдчыны омӧль дырйи. Видлӧй миян гижӧд [рытын лӧсьӧдчыны омӧль йылысь](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Морт кӧ воши, Alzheimer’s Association советуйтӧ дзик пыр корсьны матын инъясын да шыӧдчыны 112-ӧ, кор сійӧс оз на аддзы 15 минут мысти. Висьтав полициялы, мый мортлӧн эм деменция.
 
-## How do I adapt gardening as things change?
+## Кыдзи лӧсьӧдны садса уджъяс, кор ситуация вежсьӧ?
 
-| If this has become hard | Try this instead |
+| Тайӧ лои сьӧкыд | Видлӧй тадзи |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Став гряд пуктыны | Ӧти кӧйдыс пуктыны ӧти горшокӧ |
+| Бурдъястӧм (торйӧдны бурд бурдъясысь) | Ваӧн юктӧм либӧ тыдалана кизьӧм дзоридзъяс чышкыны |
+| Сад кузя ветлыны | Пукавны пызан дорын му да быдмӧг лотокӧн |
+| Петан вылӧ мунны | Трава горшок кухняын пызан вылын либӧ пукавны восьса ӧшинбок дорын |
+| Кутшӧмкӧ удж вӧчны | Пукавны петан сайын ӧтлаын, кывны да видзӧдны |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Мукӧд мортлы бурджык видзӧдны, кыдзи ті удjalanныд. NIA пасйӧ, мый мортлы позьӧ сӧмын видзӧдны, сійӧ кӧ сылы дона.
 
-## When should we head inside?
+## Кор колӧ пырны гортӧ?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Пырӧй гортӧ, кор морт мудзӧ, шонтӧ, кӧдзыд, сійӧ оз лӧсьӧдчы либӧ кӧсйӧ дугдӧдны. Дженьыд, бура 10 минут бурджык, дорысь кузь рыт, коді помасяс омӧльлунӧн. Водзджык дугдӧдӧм — бур петӧм.
 
-## Bring the garden indoors on screen
+## Вайӧй садсӧ гортӧ экран пыр
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Зэр лунъясӧ [Sort Together](/games/sort-together/)-ын эм сад корзина серпасъяс торйӧдӧм вылӧ, а [Conversation Cards](/games/conversation-cards/)-ын эм восьса юалӧмъяс, кодъяс вермасны нуӧдны сад йылысь висьтъясӧ. Шондіысь пырыштӧм бӧрын тэрмасьӧм кӧ тӧдчан, [Calm Breathing](/games/calm-breathing/) сетӧ небыдик, лӧнь шойччӧм, кодӧн позьӧ ӧтлаын вӧдитчыны. Унджык идеяяс видлӧм, йывӧм да кывӧм вылӧ лӧсьӧдӧм йылысь миян [сенсорнӧй уджъяс йылысь гижӧдын](/activities/sensory/).

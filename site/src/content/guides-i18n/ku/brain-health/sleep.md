@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Xew û tenduristiya mejî: Lêkolîn çi dibêje"
+seoTitle: "Xew û demans: Lêkolîn çi dibêje"
+description: "Lêkolîn li ser xew û metirsiya demansê çi dibêjin, lêkolîna paqijkirina mejî çima hê nû ye, û adetên xewê yên bikêr ji bo mezinan û lênêrîneran."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Hin lêkolînên demdirêj kêm xewê di nîvê jiyanê de bi metirsiyeke bilindtir a demansê ve girê didin, û
+  lêkolînên laboratîfê pêşniyar dikin ku xew dibe ku alîkariya mejî bike ku bermahiyan paqij bike. Ev
+  delîl hê nû ne, û Komîsyona Lancet a 2024an xew wekî faktoreke metirsiyê ya ku dikare bê guhertin
+  navnîş nekir. Adetên xewê yên rêkûpêk alîkariya hesta we ya rojane dikin. Pirsgirêkên xewê di demansê de
+  gelemperî ne û hêja ye ku bi bijîşkekî re bêne gotûbêj kirin.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Lêkolîneke Brîtanyayê ku nêzî 8.000 kesan 25 salan şopand, xewna şeş saetan an kêmtir di nîvê jiyanê de bi metirsiyeke bilindtir a demansê ve girê da."
+  - "Guhertinên xewê jî dikarin nîşaneke destpêkê ya demansê bin, ji ber vê yekê zehmet e ku sedem ji encamê were veqetandin."
+  - "Lêkolîna li ser paqijkirina beta-amîloîdê ji mejî bi xewê rast e lê hê nû ye, û beşeke mezin jê li ser mişkan hatiye kirin."
+  - "Apneya xewê gelemperî ye, dikare bê derman kirin û di lêkolînan de bi demansê ve girêdayî ye; xirxirîna bilind û westîna rojê hêja ne ku bêne kontrol kirin."
+  - "Tu carî bêyî bijîşk dest bi derman an alîkariyeke xewê nekin, wan nehêlin û neguherînin."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Gelo xewa nebaş dibe sedema Alzheimêrê?"
+    a: "Ev nehatiye nîşandan. Hin lêkolîn xewa kêm bi metirsiyeke bilindtir a demansê ve girê didin, lê demans bi xwe jî xewê têk dide, gelek caran salan berî teşhîsê. Komîsyona Lancet a 2024an ev delîl pir nehevgirtî dît ku xew wekî faktoreke metirsiyê ya ku dikare bê guhertin navnîş bike."
+  - q: "Pêdiviya mezinan bi çend saetên xewê heye?"
+    a: "Enstîtuya Neteweyî ya Pîrbûnê (National Institute on Aging) dibêje ku mezin pêdiviya wan bi qasî mezinên din bi xewê heye, şevê 7 heta 9 saetan. Gelek kesên mezin ji berê zûtir radizên û zûtir radibin, ev jî gelemperî ye."
+  - q: "Çima kesê ku bi demansê dijî rojê radize û şevê hişyar dibe?"
+    a: "Demans dikare bandorê li demjimêra laş bike, ji ber vê yekê demên xewê û hişyariyê tevlihev dibin. Êş, bêhntengî, birçîbûn an bandorên aliyî yên dermanan jî dikarin rolekê bilîzin. Ronahiya rojê, çalakiya rojane û rûtîneke aram a êvarê dibe ku bibin alîkar. Bijîşk dikare li sedemên ku dikarin bêne derman kirin binêre."
+  - q: "Gelo divê ez alîkariyeke xewê bidim kesê ku ez lê dinihêrim?"
+    a: "Pêşî bi bijîşkê wî re bipeyivin, di nav de li ser berhemên bê reçete. Enstîtuya Neteweyî ya Pîrbûnê (National Institute on Aging) destnîşan dike ku hin dermanên xewê dikarin metirsiya sergêjbûnê, ketinê û tevliheviyê li kesên ku bi Alzheimêrê dijîn bilind bikin."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Xew û tenduristiya mejî bi awayekî zelal bi hev ve girêdayî ne, lê ka ew çawa bi hev ve girêdayî ne hîn jî tê lêkolîn kirin. Hin lêkolîn xewa kêm bi metirsiyeke bilindtir a demansê ve girê didin. Demans jî, li aliyê din, gelek caran xewê têk dide. Ev rûpel rave dike ku lêkolîn çi nîşan didin û çi nîşan nadin, adetên xewê yên bikêr pêşkêş dike, û behsa pirsgirêkên xewê dike ku di demansê de gelemperî ne. Ev rûpel li ser dermanên xewê şîretê nade; ev gotûbêj bi bijîşkekî re ye.
 
-## Is poor sleep linked with dementia?
+## Gelo xewa nebaş bi demansê ve girêdayî ye?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Hin lêkolînên demdirêj xewa kêm bi metirsiyeke bilindtir a demansê ve girê didin, lê delîl hê ne diyar in.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Lêkolîneke Brîtanyayê ya 25 salî.** Lêkolîneran nêzî 8.000 mezinan di [lêkolîna Whitehall II](https://www.nature.com/articles/s41467-021-22354-2) de şopandin. Kesên ku di temenê 50 an 60 salî de şeş saetan an kêmtir radizên, li gorî kesên ku heft saetan radizên, paşê metirsiyeke bilindtir a demansê hebû. Kesên ku di temenê 50, 60 û 70 salî de şeş saetan an kêmtir radizên, li gorî kesên ku bi rêkûpêk heft saetan radizên, nêzî 30% metirsiyeke bilindtir hebû. Ev lêkolîneke çavdêriyê bû, ji ber vê yekê têkiliyekê nîşan dide, ne sedemekê.
+- **Nêrîna Komîsyona Lancet.** [Komîsyona Lancet a 2024an](https://doi.org/10.1016/S0140-6736(24)01296-0) xew li navnîşa xwe ya 14 faktorên metirsiyê yên ku dikarin bêne guhertin zêde nekir. Wê ev delîl ne bes hevgirtî dît. Sedemek ji vê «sedemîtiya berevajî» ye: guherînên mejî yên ji demansê salan berî teşhîsê dest pê dikin û dikarin xewê têk bidin. Di lêkolîneke mezin de, têkiliya di navbera xewa dirêj û demansê de winda bû piştî ku pênc salên pêşîn ên şopandinê hatin derxistin.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Ji ber vê yekê, şeveke kurt carinan ne sedem e ku meriv xeman be. Xewa rêkûpêk û bi kalîte hêja ye ku meriv jê re hewl bide, ji ber ku ew îro alîkariya rewşa giyanî, hişyariyê û ewlehiyê dike.
 
-## What is the "brain-clearing" sleep research?
+## Lêkolîna «paqijkirina mejî» bi xewê çi ye?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Dibe ku we xwendibe ku xew mejî «paqij» dike. Ev raman ji lêkolîneke rast tê, lê hê nû ye.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Li mişkan.** Lêkolîneke sala 2013an [ku ji aliyê NIH ve hatiye rave kirin](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) dît ku dema mişk radizên, cihê di navbera şaneyên mejî de nêzî 60% mezin bû. Herikîna şilavê di mejî de hêsantir bû, bi riya tiştê ku lêkolîner jê re pergala glîmfatîk dibêjin. Beta-amîloîd, proteîneke ku bi Alzheimêrê ve girêdayî ye, ji mejiyê mişkên razayî zûtir hat paqij kirin.
+- **Li mirovan.** [Lêkolîneke biçûk a sala 2018an](https://www.pnas.org/doi/10.1073/pnas.1721694115) 20 mezinên saxlem ên di navbera 22 û 72 salî de piştî şeveke normal û piştî şeveke bê xew sken kir. Piştî şeva bê xew, sînyala skena mejî ya ji bo beta-amîloîdê li deverekê ku hîpokampus tê de ye, nêzî 5% zêde bû; ev dever ji bo bîrê girîng e. Nivîskaran ev wekî delîleke destpêkê bi nav kir. Wan nizanibû gelo ev guhertin piştî bêhnvedanê winda dibe yan na, û gelo ew kêmbûna paqijkirinê nîşan dide an zêdebûna çêbûna amîloîdê.
+- **Ev têkilî dualî ye.** Komîsyona Lancet destnîşan dike ku kombûna amîloîdê bi xwe jî dikare xewê li mezinan têk bide.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ev encam alîkariyê dikin ku were fam kirin çima lêkolîner bi xewê eleqedar in. Ew nîşan nadin ku xewa baştir rê li ber Alzheimêrê digire.
 
-## What sleep habits may help?
+## Kîjan adetên xewê dibe ku bibin alîkar?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Li gorî [Enstîtuya Neteweyî ya Pîrbûnê (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults), mezin hewceyê nêzî 7 heta 9 saetên xewê ne di şevekê de, wek mezinên din. Pêşniyarên wê ev in:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Bernameyeke rêkûpêk biparêzin.** Her roj, tevî dawiya hefteyê, di heman demê de razên û di heman demê de rabin.
+- **Rûtîneke aramkirinê biafirînin.** Berî razanê bixwînin, li muzîka aram guhdarî bikin an serşokeke germ bikin.
+- **Jûreya razanê rehet bikin,** ne pir germ û ne pir sar.
+- **Derengê rojê kafeînê kêm bikin.** Qehwe, çay, vexwarinên gazî û çîkolata dikarin we hişyar bihêlin.
+- **Ji alkolê dûr bisekinin,** tewra bi mîqdarên biçûk jî, NIA wiha şîret dike.
+- **Di nav du û sê saetan berî razanê de xwarinên giran nexwin,** û derengê rojê vexwarinên zêde nekin.
+- **Bi rêkûpêk werzîşê bikin, lê di nav 3 saetan berî razanê de nekin.** [Rêbera me ya werzîşê](/brain-health/exercise/) bibînin.
+- **Ekranan ji jûreya razanê dûr bihêlin.** NIA pêşniyar dike ku li wir li televîzyonê temaşe nekin an kompîtur, telefon an tabletê bi kar neynin.
+- **Heke gengaz be, ji xewa piştî nîvro an êvarê dûr bisekinin.**
 
-## Sleep problems in dementia
+## Pirsgirêkên xewê di demansê de
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Guhertinên xewê di demansê de gelemperî ne. [NIA navnîş dike](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ku mirov pir zêde an pir kêm radize, şevê gelek caran hişyar dibe, û rojê pir radize. Ew di heman demê de behsa sundowningê dike: bêhntengî, alozî an tevlihevî ku dema ronahiya rojê kêm dibe dest pê dike an xirabtir dibe.
 
-Caregiver tips from the NIA include:
+Şîretên lênêrîneriyê yên ji NIA ev in:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Serê sibê ronahiya rojê û tevgerê bistînin.** Rojê derkevin derve an li kêlekê pencereyê rûnin, û alîkariya kesê bikin ku her roj çalak be. Ronahiya geş dibe ku alîkariya nûsazkirina demjimêra laş bike.
+2. **Çalakiyên enerjîk ji bo sibê plan bikin.** Serşokê sibê biceribînin an jî xwarina herî mezin nîvrojê bixwin.
+3. **Xewa rojê kurt û zû bihêlin.** Derengê rojê xewa kurt sînordar bikin.
+4. **Êvarê aram bikin.** Roniyan kêm bikin, deng kêm bikin û heke kes jê hez dike muzîka aram lê bidin. Rêbera me ya li ser [bêhntengiya dawiya rojê](/caregiving/late-day-restlessness/) ramanên zêdetir pêşkêş dike.
+5. **Rûtîneke razanê ya domdar biparêzin.** Her şev di heman demê de bi dengekî bilind xwendin yek ji mînakên NIA ye. [Rûtîneke rojane ya domdar](/activities/daily-routine/) jî dibe alîkar.
+6. **Kafeîn û alkolê kêm bikin.**
+7. **Di jûreya razanê, korîdorê û serşokê de roniyên şevê bi kar bînin.**
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Ji bo hişyarbûna şevê, [şîretên ewlehiya malê](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) yên NIA roniyên şevê an sensora ronahiyê ya otomatîk, destgirtên di serşokê de, benîşta rengîn a li keviyên derenceyan, û dermanên ku li cihê kilîtkirî hatine hilanîn pêşniyar dikin.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Çalakiyeke kurt û bêdeng di êvarê de dikare alîkariya we herduyan bike ku aram bibin. Rawestgeheke hêdî ya [Bêhnvedana Aram](/games/calm-breathing/) an çend [Kartên Axaftinê](/games/conversation-cards/) yên rehet biceribînin. Nêzîkî dema razanê ji tiştên ku teşwîq dikin dûr bisekinin, û gava ku kes têr bû rawestin.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Xewa şikestî lênêrîneran jî westandî dike. [Rêbera me ya lênêrîna xwe](/caregiving/caregiver-self-care/) rêyên bêhnvedan û wergirtina alîkariyê vedibêje.
 
-## What about sleep apnea?
+## Li ser apneya xewê çi?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Apneya xewê dibe sedema rawestgehên kurt ên bêhnê di dema xewê de, gelek caran di şevekê de gelek caran. NIA dibêje ku heke neyê derman kirin, dikare bibe sedema pirsgirêkên wekî tansiyona bilind, felc an windabûna bîrê. Nîşan xirxirîna bilind û hesta westiyayî di rojê de ne, û gelek kes nizanin ku ev pirsgirêka wan heye. Komîsyona Lancet lêkolîneke 11 lêkolînan rave dike ku tê de kesên bi apneya xewê nêzî 43% metirsiyeke bilindtir a demansê hebû. Lêbelê, hindik ji wan lêkolînan giraniya laş hesibandibûn, ji ber vê yekê ev têkilî ne diyar e.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Apneya xewê dikare bê teşhîs kirin û derman kirin. NIA destnîşan dike ku amûra CPAP hema hema her gav alîkar dibe. Heke hûn an kesê ku hûn lê dinihêrin bi dengekî bilind xirxire dike, di xewê de bêhn winda dike, an rojê pir westiyayî ye, ji bijîşkekî re bibêjin.
 
-## A note about sleep medicines
+## Nîşeyek li ser dermanên xewê
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Em li ser derman an pêvekên xewê şîretê nadin. NIA destnîşan dike ku dermanên xewê dibe ku ji bo demeke kurt bibin alîkar, lê ew dermanê bêxewiyê ne. Ew di heman demê de destnîşan dike ku hin dermanên ku ji bo alîkariya xewê ji kesên ku bi Alzheimêrê dijîn re têne dayîn, dikarin metirsiya sergêjbûnê, ketinê û tevliheviyê bilind bikin. Bêyî ku bi bijîşk an dermansazekî re bipeyivin, dest bi tu dermanê xewê nekin, wî nehêlin û neguherînin, tevî alîkariyên xewê yên bê reçete.
 
-## Talk with a doctor
+## Bi bijîşkekî re bipeyivin
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Heke hûn an kesê ku hûn lê dinihêrin her dem westiyayî ye, piraniya şevan di xewê de zehmetiyê dikişîne, bi dengekî bilind xirxire dike, an şevê bêhn winda dike, bijîşkekî bibînin. Heke pirsgirêkên xewê di demansê de berdewam dikin, [NIA şîret dike](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ku şîreta bijîşkî were wergirtin. Kontrolek dikare sedemên wekî êş, nexweşiyeke din a xewê, nexweşiyek an bandoreke aliyî ya dermanekê bibîne. Tevliheviya ji nişkê ve, an guhertineke ji nişkê ve di xewê de ligel tevliheviyê, hewceyê lênihêrîna lezgîn e. [Kengê divê bijîşk were dîtin](/brain-health/warning-signs/) bixwînin.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ev rûpel agahiyeke giştî ye, ne şîreta bijîşkî ye. [Daxuyaniya me ya bijîşkî](/medical-disclaimer/) bibînin.

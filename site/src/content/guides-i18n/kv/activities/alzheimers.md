@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Альцгеймерӧн олысьяслы уджъяс да ворсӧмъяс"
+seoTitle: "Альцгеймер: уджъяс да ворсӧмъяс тшупӧд серти"
+description: "Альцгеймерӧн олысь мортлы уджъяс да ворсӧмъяс быд тшупӧдлы, медся дыр кутан кужӧмъяс вылӧ, да донтӧм ворсӧмъяс ӧтлаын ворсӧм вылӧ."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Альцгеймерӧн олысь мортлы бур уджъяс подулавны сійӧ вылӧ, мый медся дыр кольӧ:
+  важысянь вежӧртӧм кужӧмъяс, важ сьывъяс, тодса гортса уджъяс да кӧсйӧмъяс.
+  Медводдза тшупӧдын картаӧн ворсӧм, настольнӧй ворсӧмъяс, юасьӧм да петӧмъяс
+  вермасны лоны лӧсьыдӧсь. Шӧр тшупӧдын позьӧ видлыны чышкыны, видлавны,
+  сьывны, видзӧдлыны фотоальбомъяс да ворсны прӧстӧй серпас ворсӧмъясӧн.
+  Висьӧмлӧн бӧръя кадъясын медся колана музыка, вӧрзӧм да йитӧд. Бӧрйы сійӧ
+  серти, кыдзи мортлы талун.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Альцгеймер висьӧм — деменциялӧн медся тшӧкыда паныдась помка, сідзкӧ деменциялы лӧсьӧдӧм уджъяссӧ позьӧ вӧдитны и сылы."
+  - "Выль юӧрсӧ тӧдмавны медся сьӧкыд, а важысянь велӧдӧм кужӧмъяс да сьывъяс дырджык вермасны кольны. Подулалыштӧ найӧ вылӧ."
+  - "Тшупӧдъяс вермасны ӧтувтчыны, бур да сьӧкыд лунъяс — эзӧма лыд. Бӧрйы сійӧ серти, мый мортлы талун позьӧ да кӧсйӧ."
+  - "Бӧрйы ворсӧмъяс, кӧні абу кад, лыдпасъяс да видлалӧмъяс, и серпасъяс мед лоны аддзанаӧсь."
+  - "Видзӧдӧм, мыйкӧ кутӧм либӧ дзикӧдз ӧтлаын пукалӧм — ставыс тайӧ пырӧдчӧм."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Кутшӧм уджъяс бурӧсь Альцгеймерӧн олысь мортлы?"
+    a: "Тодса уджъяс, кодъяссӧ кокньыдикӧн прӧстмӧдӧма: дӧра чышкӧм, пызан вӧчӧм, ӧтлаын юасьӧм, музыка да сьывӧм, фотосерпасъяс видзӧдӧм, ветлӧдлӧм, сад вӧчӧм да пемӧсӧн кад колльӧдӧм. Прӧстӧй серпас ворсӧмъяс, кокни пазлъяс да сёрнитан картаяс вермасны тӧдчыны бурӧн уна мортлы. Бӧрйы сійӧ, мый мортлы пыр кӧсйис, да вӧчӧ сійӧс сыкӧд ӧтлаын."
+  - q: "Ворсӧмъяс бурӧсь-ӧ Альцгеймерӧн олысьяслы?"
+    a: "Ворсӧмъяс вермасны лоны гажа ӧтлаын кад колльӧдан ног, кӧ мортлы найӧ кӧсйӧны. Некутшӧм ворсӧм оз петкӧдчы, мый сійӧ бурмӧдӧ, дугодӧ, видзӧ Альцгеймер висьӧмысь либӧ вӧчӧ бурджыкӧн. Сідзкӧ бӧрйы ворсӧмъяс гажалӧм понда: ыджыд серпасъяс, этша бӧрйӧм, абу кад, лыдпасъяс да абу сорсьӧм шыяс."
+  - q: "Деменция понда уджъяс да Альцгеймер понда уджъяс торъялӧны-ӧ?"
+    a: "Ӧттшӧтш унаысь оз. Альцгеймер висьӧм — деменциялӧн медся тшӧкыда паныдась помка, сідзкӧ уджъяслӧн ӧткодь иньдӧмъяс тӧдчӧны. Альцгеймер дырйи колана тӧдны, мый выль юӧр медводзын вунӧ, сідзкӧ важ кужӧмъяс, сьывъяс да кадся рутина вылӧ подуласьӧм уджъяс шӧркодь вермасны мунны кокньыдджыка."
+  - q: "Мый вермас кӧсйыны Альцгеймер висьӧмлӧн бӧръя тшупӧдын олысь мортлы?"
+    a: "Радейтана музыка, киысь ньӧжйӧ вӧрзӧм, небыдторъяс, кодъяссӧ гажа кутны, кор сылы лыддьӧны, ортсын пукалӧм да сійӧ мортлӧн йитӧд, коды оськӧ. Вӧчӧ дженьыдикӧн да рувкӧн, да видзӧдлы сылысь чужӧм да сійӧ вӧчӧм вылӧ, медым тӧдмавны, мый сылы лӧсялӧ."
+  - q: "Кыдзи Альцгеймерӧн олысь мортӧс кӧсйӧмӧн пыртны уджӧ?"
+    a: "Корӧ отсӧг, а оз висьтав удж йылысь, водзвыв дасьы ставсӧ, да понды асныд, медым сійӧ вермис пырӧдчыны. Бурджык лоӧ, кӧ бӧрйыны лунлӧн сійӧ кад, кор мортлы медбур. Кӧ сійӧ шуӧ «оз», видлы бӧрти либӧ вӧчӧ прӧстджыкӧн."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Кӧ тіян радейтана мортӧн Альцгеймер висьӧм, гашкӧ, ті нинӧм казялінныд, мый мукӧдтор ӧдйӧ вунӧ, а мукӧдтор дыр кольӧ. Сійӧ вермас вунӧдны талун асывся телефон шыӧдчӧм, но дзик став кывъяс сьывны важысянь тӧдса сьывсьыс, чышкыны дӧра сійӧ ж ногӧн, кыдзи пыр вӧлі, либӧ картаӧн ворсны ог тӧдлытӧг. Бур уджъяс подулавны тайӧ дыр кутан кужӧмъяс вылӧ. Тайӧ лист бокын висьталӧма сы йылысь, сэсся сетӧма иньдӧмъяс быд тшупӧдлы да тайӧ сайтысь лӧсялана донтӧм ворсӧмъяс.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Альцгеймер да деменция уджъясын торъялӧны-ӧ?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Унаысь оз. Деменция — тайӧ паськыд ним, а Альцгеймер висьӧм — сылӧн медся тшӧкыда паныдась помка: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) висьталӧ, мый сійӧ лоӧ 60-сянь 80 прӧчент деменция случайысь. Деменциялы уджъяс йылысь став гижӧм майбыр лӧсялӧ и Альцгеймерлы, тшӧтш и миян [101 удж иньдӧм](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Бур тӧдны вежсьӧмлӧн шӧркодь рӧд. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) висьталӧ, мый Альцгеймер медводзын вийӧдӧ юрвежлӧн тӧдмасьӧмӧн уджалӧм юкӧнъяссӧ, а сэсся вӧчӧ сьӧкыдджыкӧн сёрни, вежӧртӧм да йитчӧм. Alzheimer's Association шуӧ, мый медся тшӧкыда медводдза пас — выль велӧдӧмторсӧ казялантӧм. Быд морт торъя, унаӧн вермасны лоны гудран помкаяс, но тайӧ рӧд отсалӧ гӧгӧрвоны, мый шӧркодь уджалӧ бурджыка.
 
-## What kinds of activities suit Alzheimer's best?
+## Кутшӧм уджъяс медся бур лӧсялӧны Альцгеймер дырйи?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Уджъяс, кодъяс подулавны важысянь тӧдса да вежӧртӧм кужӧмъяс вылӧ, шӧркодь мунӧны кокньыдджыка, мыйысь уджъяс, кӧні колӧ выльтор велӧдны да кутны юрын.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Важысянь вежӧртӧм кужӧмъяс.** Alzheimer's Association пасйӧ, мый морт вермас на ворсны пианино вылын прӧстӧй сьывъяс, кодъяссӧ важӧн велӧдіс. Сідз жӧ — кӧртавны, пусӧвтны, карта петкӧдлыны, тыш мешайтны да дӧра чышкыны.
+- **Важ сьывъяс да тодса музыка.** Уна морт тӧдӧны став кывъяс том кадся сьывъясысь, вежӧр сьывъясысь да гӧтрасьӧм лунся сьывъясысь. Видзӧд [музыка уджъяс](/activities/music/).
+- **Быдлунъя мога уджъяс.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) лыддьӧ татшӧм уджъяс пыр, кодъяс вермасны кӧсйыны: посуда мыськӧм, пызан вӧчӧм, носки видлавӧм да дӧра чышкӧм. Колана кывны, мый тіян удж колана.
+- **Тӧдмалӧм, а оз гӧгӧрвоӧдӧм.** Лӧсялана серпас вылӧ висьталӧм кокниджык, мыйысь нимсӧ казялысь висьтавӧм. Та понда серпас ворсӧмъяс, кӧ ставыс аддзана, уджалӧны бурджыка видлалӧмъясысь.
+- **Кӧсйӧмъяс.** Вӧрзӧм, дук, шоныд, чӧскыд да шы донъясныс дырджык коланаӧсь, кор кывъяс нин сьӧкыда лоӧны. Видзӧд [кӧсйӧм уджъяс](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Мый шӧркодь мунӧ сьӧкыдджыка: став, кӧні эм кад, выль правилӧяс, уна тшупӧд кутан либӧ юалӧмъяс, кодъяс видлалӧны тӧдмасьӧм, шуам, «Ті казяланныд-ӧ, коді тайӧ?» Найӧ водзӧ вылӧ пуктӧны Альцгеймерлӧн медся сьӧкыд юкӧнсӧ.
 
-## Activities for early-stage Alzheimer's
+## Альцгеймерлӧн медводдза тшупӧдлы уджъяс
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Медводдза тшупӧдын, кыдзи висьталӧ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages), морт вермас на машинаӧн ветлыны, уджавны да пырны йӧзкӧд уджъясӧ, но сійӧ казялӧ тӧдмасьӧмлысь вунӧмъяс, шуам, тодса кывъяс либӧ мыйкӧ ин вунӧдӧм. Медбур ног — ӧтлаын уджавны: юав, мый сійӧ кӧсйӧ водзӧ нуӧдны, да мый отсӧг сылы колӧ.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Нуӧдӧд водзӧ тӧдса уджъяс.** Гольф, картаӧн ворсӧм, вӧв кывтӧм, хор либӧ чукӧртчӧмъяс, ичӧт вежсьӧмъясӧн: этшаджык йӧз да лӧньджык кад.
+2. **Ворсӧд тӧдса картаӧн да настольнӧй ворсӧмъяс.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) лыддьӧ медводдза тшупӧдлы викторинаяс, кыв корсьӧм, карта да настольнӧй ворсӧмъяс. Ворсӧй командаӧн, кӧ лыдпас лыддьӧм пондӧ тӧдчыны омӧльӧн, либӧ дзикӧдз колльы лыдпасъяссӧ.
+3. **Ӧтлаын юасьӧй.** Лэдз сылы вӧчны сійӧ рецепт, кодӧс сійӧ тӧдӧ, а ті лыддьӧй тшупӧдъяссӧ.
+4. **Понды олӧм йылысь проект.** Фотосерпасъяс, рецептъяс да висьтъяс альбомын, кодӧс сійӧ нуӧдӧ. Видзӧд [казьтыштана уджъяс](/activities/reminiscence/).
+5. **Ветлы ветлӧдлӧм вылӧ.** Радейтана сёянінӧ лӧнь кадӧ, музейӧ дженьыд кад колльӧм вылӧ, паркын ветлӧдлӧм.
+6. **Видлы ворсны пазлъяс, кодъяссӧ сійӧ бӧрйӧ.** Ыджыд шрифтӧн кроссвордъяс, кыв корсьӧмъяс да пазлъяс. Видзӧд [деменциялы пазлъяс](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Унджык иньдӧм: [медводдза тшупӧдлы уджъяс](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Альцгеймерлӧн шӧр тшупӧдлы уджъяс
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association висьталӧ, мый шӧр тшупӧд шӧркодь медся кузь, да сійӧ вермас дырнитны уна во. Кывъяс вермасны соравны, скӧрмӧм лоӧ кокниджыка, да мортлы колӧ унджык отсӧг. Alzheimer's Foundation of America содтӧ, мый уна мортлы колӧ отсӧг уджсӧ заводитӧм понда либӧ водзӧ нуӧдӧм понда. Тіян удж вежсьӧ дассьӧм вылӧ, петкӧдлӧм вылӧ висьтавтӧг, да сьӧкыдджык юкӧнъяссӧ ас выланыд босьтӧм вылӧ.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Чышкы, видлав да лӧсьӧд.** Дӧраяс, носкияс, пань, пуговицаяс рӧм серти. Збыль уджъяс, ӧтлаын вӧчӧм.
+2. **Сьыв да вӧрзьӧд музыка серти.** Киясӧн шыбит, восьтӧй либӧ йӧктӧй кухняын. Понды сьывны асныд да лэдз сылы пырӧдчыны.
+3. **Видзӧдлы фотоальбомъяс.** Висьтав, мый ті аддзанныд, да кор тайӧ висьтъяс: «Кутшӧм машина. Висьтав сійӧ йылысь». Сідз и босьт, кутшӧм нимъяс сійӧ вӧдитӧ.
+4. **Ворсӧд прӧстӧй серпас ворсӧмъяс.** [Серпас параяс](/games/picture-pairs/) нёльысь квайт плиткаӧн да серпасъясӧн, кодъяс веськыда петкӧдлӧмаӧсь, либӧ [Корсь сійӧ жӧ](/games/find-the-same/) кыкысь куим бӧрйӧмӧн.
+5. **Помалӧй тодса шуӧмъяс.** «Лун сайын улмӧс…» Важысянь тӧдса шуӧмъяс шӧркодь воӧны кокньыда. Видлы [Помалӧй шуӧмсӧ](/games/finish-the-saying/), кӧні позьӧ петкӧдлыны быд пом ӧти личкӧмӧн.
+6. **Ваись да видзӧд быдмӧгъяс.** Гортса горшӧкъяс либӧ джуджыд гряд, ичӧт лейкаӧн.
+7. **Вӧчӧ лӧсялана ворсӧм семья фотосерпасъясысь.** [Фото параяс](/games/photo-pairs/) вӧдитӧ серпасъяс, кодъяссӧ ті бӧрйанныд ас устройствоын, да найӧ оз мунны сэтысь.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Унджык иньдӧм: [шӧр тшупӧдлы уджъяс](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Альцгеймерлӧн бӧръя тшупӧдлы уджъяс
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Бӧръя тшупӧдын, кыдзи шуӧ Alzheimer's Association, мортъяс вошӧны гӧгӧрвоны гӧгӧртас да сёрнитны вермӧм, но вермасны на шуны кывъяс либӧ сёрникузяяс. Удж талун — бурлун да йитчӧм сетӧм, сійӧ лаын, кӧні морт шойччӧ.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Кыкты сылы радейтана музыка** ньӧжйӧ, медым телевизор эз торйӧдлы.
+2. **Вӧрзьӧд киыс** дука мазьӧн, коді сылы кӧсйӧ.
+3. **Сет небыдтор кутны:** шоныд одеяло, флис либӧ шыльӧв из.
+4. **Лыддьы горӧн** псаломъяс, сьыланкывъяс либӧ тодса висьт. Ритм коланаджык, мыйысь вежӧртӧм.
+5. **Пукав ортсын** вуджынын либӧ ӧшинь дорын, кӧні позьӧ видзӧдлы кайъяс.
+6. **Видзӧдлы ӧти ыджыд серпас ӧтлаын.** Подсолнечник либӧ пон, коді тыртӧ планшет экраныс, да ті висьталанныд, мый ті аддзанныд.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Унджык иньдӧм: [бӧръя тшупӧдлы уджъяс](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Кутшӧм ворсӧмъяс лӧсялӧны Альцгеймерӧн олысь мортлы?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Бӧрйы ворсӧмъяс, кӧні некод оз вермы сорны. Тайӧ сайтысь быд ворсӧм донтӧм, уджалӧ браузерын да сэні абу кад, лыдпасъяс либӧ гижсьӧм.
 
-| Game | What you do | Often suits |
+| Ворсӧм | Мый вӧчны | Шӧркодь лӧсялӧ |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Серпас параяс](/games/picture-pairs/) | Лӧсьӧд ыджыд серпасъяс; найӧ вермасны лоны веськыда восьса | Медводдза да шӧр тшупӧд |
+| [Корсь сійӧ жӧ](/games/find-the-same/) | Личкы вылын серпаслы лӧсялана серпас | Шӧр да бӧръя тшупӧд, отсӧгӧн |
+| [Помалӧй шуӧмсӧ](/games/finish-the-saying/) | Бӧрйы тодса шуӧмлӧн бӧръя кывсӧ либӧ петкӧдлы сійӧс | Медводдза да шӧр тшупӧд |
+| [Серпас пазл](/games/picture-puzzle/) | Вуджӧд 4 либӧ 9 юкӧн бӧр местаас, серпас петкӧдлӧмӧн | Медводдза да шӧр тшупӧд |
+| [Сёрнитан картаяс](/games/conversation-cards/) | Серпас да восьса юалӧм сёрнитӧм понда | Быд тшупӧд, сёрнитан морткӧд |
+| [Фото параяс](/games/photo-pairs/) | Лӧсялана ворсӧм тіян ас фотосерпасъясысь | Медводдза да шӧр тшупӧд |
+| [Серпас гӧрдӧм](/games/coloring/) | Бӧрйы рӧм, сэсся серпас юкӧн; либӧ печатайт сійӧс | Быд тшупӧд, отсӧгӧн |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Кыдзи ӧтлаын пуксьыны, кымын отсавны да кор дугдыны, лыддьӧ [кыдзи ворсны деменцияӧн олысь морткӧд](/caregiving/how-to-play-together/). Кӧ ті мӧвпалянныд «тӧдмасьӧм ворсӧмъяс» йылысь, видзӧд [деменцияӧн олысь ыджыд йӧзлы тӧдмасьӧм ворсӧмъяс](/activities/memory-games/).
 
-## How to make any activity easier
+## Кыдзи быд уджсӧ кокньыдджыкӧн вӧчны
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA-лӧн сёрнитӧм воӧ некымын тшӧтшӧдасьӧмӧ: лӧсьӧд уджсӧ мортлӧн вермӧм серти, отсав заводитны, видзӧд скӧрмӧм вылӧ, медым сійӧ кывліс, мый сійӧ вермис, да лэдз сылы дзикӧдз видзӧдны, кӧ сійӧ тадзи кӧсйӧ.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Бӧрйы лунлӧн сійӧ кад, кор мортлы медбур,** да вӧч уджсӧ дженьыдикӧн.
+- **Водзвыв дасьы ставсӧ,** медым позис ӧдйӧ заводитны.
+- **Кор, а эн висьтав.** «Верман-ӧ отсавны меным?» бурджык уджалӧ, мыйысь «Удж кад».
+- **Медводдза тшупӧдсӧ вӧч асныд** да лэдз сылы пырӧдчыны.
+- **Вӧчӧй ӧти тшупӧд да ӧти бӧрйӧм ӧтпырйӧ.**
+- **Лэдз сійӧ вӧчны ас ногыс.** Абутӧм стӧч дӧраыс оз ло омӧль.
+- **Дугды, кор на гажа.** Водзджык дугдӧм — бур петӧм, а оз омӧль. Кӧ сійӧ оз кӧсйы, видзӧд [кор деменцияӧн олысь морт шуӧ «оз»](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) шуӧ прӧста: шуам гажалӧм вылӧ, а оз вермӧм вылӧ.

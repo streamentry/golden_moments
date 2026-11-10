@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Gelo dikare demans were astengkirin? Lêkolîn çi dibêje"
+seoTitle: "Gelo demans tê astengkirin? Lêkolîn çi dibêje"
+description: "Komîsyona Lancet a 2024an û ceribandinên mezin li ser kêmkirina metirsiya demansê çi dîtin, çi nedîtin, û gavên ku bi bijîjkekî re bêne gotûbêjkirin."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Tu kes nikare soz bide ku demansê asteng bike. Komîsyona Lancet a 2024an
+  texmîn kir ku li cîhanê nêzîkî nîvê bûyerên demansê bi 14 faktorên metirsiyê
+  ve girêdayî ne ku dikarin bên guhertin, wek tansiyona bilind, windabûna
+  bihîstinê û kêmbûna tevgerê. Ceribandin bandorên biçûk li ser testên ramandinê
+  nîşan didin, ne delîlên kêmbûna bûyerên demansê. Gelek kesên ku her tiştî
+  «rast» dikin jî demansê pêş dixin, û ev ne sûcê tu kesî ye.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Komîsyona Lancet a 2024an li cîhanê nêzîkî 45% ji bûyerên demansê bi 14 faktorên metirsiyê yên ku dikarin bên guhertin ve girêda. Ev texmînek ji bo tevahiya gel e, ne sozeke kesane."
+  - "Kêmkirina metirsiyê tê wateya kêmkirina îhtîmalê di tevahiya gel de. Ev nayê wateya ku kesek dikare bi tevahî ji demansê dûr bimîne."
+  - "Ceribandinên mezin wek FINGER, US POINTER û SPRINT MIND feydeyên biçûk li ser testên ramandinê an kêmasiya sivik a naskirinê dîtin, lê tu yekê îsbat nekir ku bernameyek jiyanê demansê asteng dike."
+  - "Temen faktora metirsiyê ya herî mezin a tê zanîn ji bo Alzheimerê ye, û nayê guhertin. Gelek kesên ku xwedî adetên tendurist in jî demansê pêş dixin."
+  - "Gavên ku pir caran hatine lêkolînkirin, wek dermankirina tansiyona bilind, bikaranîna alîkariyên bihîstinê û çalak mayîn, hêjayî gotûbêjkirinê ne bi bijîjkekî re, ji ber ku ew di aliyên din ên tenduristiyê de jî alîkar in."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Gelo dikare demans were astengkirin?"
+    a: "Ji bo tu kesekî rêyek îsbatkirî tune ku demansê asteng bike. Lêkolîn nîşan didin ku kêmkirina hin metirsiyan, wek tansiyona bilind, windabûna bihîstinê ya bê dermankirin û cixarêkişandin, dibe ku di tevahiya gel de îhtîmala demansê kêm bike an destpêka wê paş bixe. Ev îhtîmal in, ne soz."
+  - q: "Hejmara 45% ji Komîsyona Lancetê çi tê wateya?"
+    a: "Komîsyona Lancet a 2024an texmîn kir ku li cîhanê nêzîkî 45% ji bûyerên demansê bi 14 faktorên metirsiyê ve girêdayî ne ku, di teoriyê de, dikarin bên guhertin. Texmîn dihêle ku ev faktor dibin sedema demansê, û nivîskaran destnîşan dikin ku dibe ku hin girêdan tenê bi beşekî sedemî bin. Ev hejmar tevahiya gel diyar dike û metirsiya tu kesekî bi serê xwe nabêje."
+  - q: "Eger dê û bavê min jiyaneke tendurist hebû, çima wan demans pêş da?"
+    a: "Temen, gen û gelek faktorên ku tu kes nikare kontrol bike roleke mezin di demansê de dilîzin. Nivîskarên Komîsyona Lancetê dibêjin ku kêmkirina metirsiyê di tevahiya gel de garantî nake ku tu kesek bi serê xwe ji demansê dûr bimîne. Teşhîs nîşaneya wê nîne ku kesek têk çûye."
+  - q: "Gelo piştî temenê 65 salî dereng e ku metirsiya demansê were kêmkirin?"
+    a: "Komîsyona Lancetê dibêje ku tu carî ne zû ye û ne jî dereng e ku metirsî were kêmkirin, her çend piraniya delîlan li ser nîvê jiyanê ne. Dermankirina pirsgirêkên bihîstin û dîtinê, çalak mayîn û bi kesên din re têkilî danîn mînakên gavên di temenê mezin de ne ku hatine lêkolînkirin. Bi bijîjkekî re biaxivin ka çi ji bo tenduristiya we guncaw e."
+  - q: "Gelo lîstikên mêjî an parêzên taybet demansê asteng dikin?"
+    a: "Tu lîstik, xwarin, pêvek an parêzek nehatiye îsbatkirin ku demansê asteng dike. Ceribandinek sê-salî ya parêza MIND tu cudahiya girîng di ramandinê de li gorî parêzek kontrolê nedît, û nehatiye nîşandan ku sepanên bazirganî yên perwerdehiya mêjî heman bandorên ku di ceribandinên lêkolînê de hatine dîtin hene."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Eger hûn li kesekî ku bi demansê dijî dinêrin, an we dît ku dê û bavê we bi wê re dijiyan, dibe ku we meraq kiriye gelo gelo dikaribû were sekinandin, û gelo hûn dikarin pêşî li wê bigirin ku ji we re çêbibe. Ev rûpel bi zimanekî zelal vedibêje ku lêkolîn bi rastî çi dibêjin. Bersiva kurt: tu kes nikare soz bide ku demansê asteng bike, lê lêkolîn nîşan didin ku dibe ku hin metirsî werin kêmkirin, û kêmkirina wan di tevahiya gel de dibe ku bibe sedem ku kêmtir kes demansê pêş bixin an derengtir pêş bixin.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ev agahdariya giştî ye, ne şîreta bijîşkî ye. Ji kerema xwe [daxuyaniya me ya bijîşkî](/medical-disclaimer/) bixwînin û li ser tenduristiya xwe bi bijîjkekî re biaxivin.
 
-## Can dementia be prevented?
+## Gelo dikare demans were astengkirin?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Ji bo tu kesekî rêyek îsbatkirî tune ku demansê asteng bike. National Institute on Aging (NIA) dibêje ku her çend [hêj tiştek nehatiye îsbatkirin ku Alzheimerê asteng bike](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), lêkolîner stratejiyên hêvîdar dîtine û fêr dibin ka çi dibe alîkar û çi nabe.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Tiştê ku lêkolîn *nîşan didin* ev e ku hin rewşên tenduristiyê û adet bi îhtîmaleke bilindtir a demansê ve girêdayî ne. Dema ku ev metirsî di tevahiya gel de kêmtir dibin, dibe ku kêmtir kes demansê pêş bixin, an jî dibe ku derengtir di jiyana xwe de pêş bixin. Ev ji sozê pir cuda ye.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Nîşanek hêvîdar: Komîsyona Lancet a 2024an ragihand ku li hin welatên dahatbilind, di nav de DY û Brîtanya, rêjeya mirovên pîr ên bi demansê kêm bûye. Li gorî [kurteya University College Londonê ya raporê](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors), nivîskaran difikirin ku ev dibe ku beşekî ji ber perwerdehiya çêtir, lênihêrîna tenduristiyê ya çêtir û kêmbûna zirara damarên xwînê di tevahiya jiyanê de be.
 
-## What did the 2024 Lancet Commission find?
+## Komîsyona Lancet a 2024an çi dît?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Komîsyona Lancetê ya li ser astengkirin, destwerdan û lênihêrîna demansê komeke 27 lêkolînerên demansê ye ku her çend salan carekê delîlan dinirxînin. Rapora wan a 2024an **14 faktorên metirsiyê** yên ku dikarin bên guhertin destnîşan kir, û texmîn kir ku bi hev re ew ji **nêzîkî nîvê (nêzîkî 45%) bûyerên demansê li cîhanê** berpirsiyar in. Bi gotinên nivîskaran, ev bûyer *di teoriyê de* dikaribûn werin astengkirin an paşxistin eger metirsî weribana rakirin ([rapora Komîsyona Lancet a 2024an](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 faktor, li gorî qonaxa jiyanê ku delîl tê de herî xurt in hatine komkirin:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Destpêka jiyanê:** kêmbûna perwerdehiyê.
+- **Nîvê jiyanê (nêzîkî temenê 40 heta 65):** windabûna bihîstinê, kolesterola LDL («xerab») ya bilind, depresyon, birîna serî, kêmbûna tevgera laşî, şekir, cixarêkişandin, tansiyona bilind, qelewbûn, û vexwarina giran a alkolê.
+- **Dawiya jiyanê:** tenêtî, qirêjiya hewayê, û windabûna dîtinê ya bê dermankirin.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Du faktorên nû yên sala 2024an kolesterola LDL ya bilind û windabûna dîtinê ya bê dermankirin bûn. Faktorên ku bi rêjeya herî mezin a bûyeran ve girêdayî bûn windabûna bihîstinê û kolesterola LDL ya bilind bûn (her yek nêzîkî 7%), piştî wan kêmbûna perwerdehiyê û tenêtî (her yek nêzîkî 5%).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Rêbernameya me ya faktorên metirsiyê](/brain-health/risk-factors/) her 14an di tabloyekê de vedibêje, bi tiştên ku lêkolîn pê ve girê dide û tiştên ku hûn dikarin bikin.
 
-### What the 45% figure does not mean
+### Hejmara 45% çi nayê wateya
 
-It is easy to misread this number, so it helps to be precise:
+Xwendina şaş a vê hejmarê hêsan e, ji ber vê yekê baş e ku em zelal bin:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ev texmînek ji bo tevahiya gel e.** Ew bûyerên demansê li cîhanê diyar dike, ne şansên we an jî şansên dê û bavê we.
+- **Ew sedem û encam dihêle.** Nivîskaran dibêjin ku wan tenê faktorên metirsiyê yên bi delîlên bawerî hatine girtin, lê dibe ku hin girêdan tenê bi beşekî sedemî bin. Mînakî, depresyona di temenê mezin de carinan dibe ku nîşaneyeke destpêkê ya demansê be, ne sedemek.
+- **Ji bo tu kesekî garantî nade.** Kurteya UCL destnîşan dike ku kêmkirina metirsiyê di asta tevahiya gel de dixebite û garantî nake ku tu kesek bi serê xwe ji demansê dûr bimîne.
+- **Nîvê din bi van faktoran nayê ravekirin.** Temen, gen û sedemên ku zanyar hîn bi tevahî fêm nakin beşa mayî pêk tînin.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Cudahiya di navbera «kêmkirina metirsiyê» û «astengkirinê» de çi ye?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Kêmkirina metirsiyê** tê wateya kêmkirina îhtîmalê. Eger komeke mezin a mirovan tansiyona xwîna xwe kêm bikin, dibe ku di nav wan de di gelek salan de kêmtir kes demansê pêş bixin ji ya ku wekî din dê pêş bixin. Dê hin kesên di wê komê de dîsa jî demansê pêş bixin.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Astengkirin** wisa tê xuyakirin ku tiştek bi tevahî tê sekinandin. Ji bo demansê, ev tiştek nîne ku lêkolîn îro ji tu kesî re soz bide.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Lêkolîner di heman demê de li ser **paşxistinê** jî diaxivin. Komîsyona Lancetê delîlên nû ragihand ku kêmkirina metirsiyê dibe ku destpêka demansê paş bixe û dema ku kesek bi tenduristiya nebaş dijî kurtir bike. Tewra paşxistina çend salan jî dikare ji bo kesek û malbata wî pir girîng be.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Li ser vê malperê, em bi zanebûn «metirsiyê kêm bikin» û «pê ve girêdayî ye» bi kar tînin. Dema ku hûn hilberek, pêvekek an bernameyek dibînin ku soz dide ku «Alzheimerê asteng dike», bi hişyarî nêzîk bibin. NIA şîret dike ku berî ceribandina her derman an dermankirinek ku soz dide Alzheimerê asteng bike bi bijîjkekî re biaxivin, ji ber ku dibe ku ew hilber ne ewle bin, windakirina pereyan bin, an jî her du.
 
-## What have large trials found?
+## Ceribandinên mezin çi dîtin?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Lêkolînên çavdêriyê (yên ku bi demê re çi bi mirovan tê temaşe dikin) dikarin girêdanan nîşan bidin. Ceribandinên rasthatî, ku tê de mirov bi şansê ji bo bernameyekê an komeke berawirdî têne hilbijartin, ceribandina bihêztir in. Li vir tiştên ku hin ceribandinên herî navdar dîtine hene.
 
-### FINGER (Finland)
+### FINGER (Fînlandiya)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Ceribandina FINGER 1.260 mezinên ji 60 heta 77 salî yên ku metirsiya demansê li wan bilindtir bû tevî kir. Nîvê wan bernameyek du-salî ya şîreta parêzê, werzîşê, temrînên mêjî yên li ser kompîturê û kontrolkirina tenduristiya dil û damarên xwînê wergirt; nîvê din şîreta tenduristiyê ya giştî wergirt. Koma bernameyê li ser komek testên ramandinê hinekî çêtir bû, cudahiyek piçûk lê ji aliyê îstatîstîkî ve girîng ([ceribandina FINGER di The Lancet de](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Ceribandin encamên testan pîva kir, ne teşhîsên demansê.
 
-### US POINTER (United States)
+### US POINTER (Dewletên Yekbûyî)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER 2.111 mezinên ji 60 heta 79 salî yên ku ne çalak bûn, parêzek kêmtir tendurist hebû û faktorên din ên metirsiyê hebûn tevî kir. Her du kom hatin teşwîqkirin ku ji aliyê laşî û derûnî ve çalaktir bin, çêtir bixwin, civakî bimînin û tenduristiya dil bişopînin. Komek bernameyek birêkûpêk û bi rêberî wergirt; ya din bi xwe rêberiya xwe kir. Di du salan de, encamên testên ramandinê di **her du** koman de çêtir bûn, û hinekî zêdetir di koma birêkûpêk de ([ceribandina US POINTER di JAMA de](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Nivîskaran dibêjin ku şopandina zêdetir hewce ye da ku were zanîn gelo ev cudahî di jiyana rojane de girîng e. Ji ber ku komeke «tiştek nekin» tune bû, ceribandin nikare bêje ka her bernameyek li gorî tu guherînê çiqas alîkar bû.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (tansiyona xwînê)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND 9.361 mezinên ji 50 salî û mezintir ên li DY yên bi tansiyona xwînê ya bilind lêkolîn kir. Ew ji bo armanceke tansiyona xwînê ya kêmtir (hejmara jorîn di bin 120 de) an jî armanca standard (di bin 140 de) hatin hilbijartin. Armanca kêmtir **kêmasiya sivik a naskirinê**, qonaxeke pirsgirêkên bîr û ramandinê ku dikare berî demansê were, bi awayekî girîng kêm kir. Ji bo **demansa muhtemel**, di koma armanca kêmtir de kêmtir bûyer hebûn, lê cudahî ji aliyê îstatîstîkî ve girîng nebû. Ceribandin zû hat rawestandin û ji ya ku dihat hêvîkirin kêmtir bûyerên demansê hebûn, ji ber vê yekê dibe ku ew pir piçûk be ku bersiva wê pirsê bide ([SPRINT MIND di JAMA de](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Nirxandinên giştî çi dibêjin
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Nirxandinek Cochrane ya 2021an neh ceribandinên mezin ên bernameyên ku bi hev re çend metirsiyan digirin berhev kir, bi zêdetirî 18.000 kesan. Ew li ser testên ramandinê feydeyek piçûk dît, lê **tu cudahiya zelal di hejmara kesên ku demansê pêş xistin de** di du ceribandinên ku ew pîva kirin de nedît ([nirxandina Cochrane ya destwerdanên pir-warî](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Nirxandinek 2017an ji aliyê National Academies of Sciences, Engineering, and Medicine ve, ku ji aliyê NIA ve hatiye kurtkirin, ji bo sê nêzîkatiyan delîlên «hêvîdar lê ne diyar» dît: birêvebirina tansiyona bilind, zêdekirina tevgera laşî, û perwerdehiya naskirinê.
 
-## Does it matter when you start?
+## Gelo girîng e ku mirov kengî dest pê bike?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Şîreta Komîsyona Lancetê ev e ku metirsî bi qasî ku pêkan zûtir werin kêmkirin û bi qasî ku pêkan dirêjtir kêm bimînin: «çiqas zûtir, ewqas çêtir» û «çiqas dirêjtir, ewqas çêtir». Ew di heman demê de dibêje ku tu carî ne zû ye û ne jî dereng e ku metirsî were kêmkirin. Piraniya delîlan li ser nîvê jiyanê ne, nêzîkî temenê 40 heta 65, lê hin faktor, wek windabûna dîtinê û tenêtî, metirsiyên dawiya jiyanê ne ku tê de çalakî dîsa jî dikare watedar be.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Rapor dibêje ku niha delîlên bihêztir hene ku rûbirûbûna dirêjtir bi metirsiyekê re bandorek mezintir heye. Mînakî, şekirê ku di nîvê jiyanê de dest pê dike ji şekirê ku derengtir dest pê dike girîngtir xuya dike.
 
-## Is dementia risk the same for everyone?
+## Gelo metirsiya demansê ji bo her kesî yek e?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Na. Komîsyonê dît ku mirovên li welatên dahat-nizm û navîn, mirovên ji komên hindikahiyan û mirovên ku dahata wan kêmtir e pir caran bêtir ji van metirsiyan hildigirin, ji ber vê yekê demans mêldar e ku di temenekî biçûktir de dest pê bike. Gelek metirsî bi rewşên ku mirov hilnebijartine ve girêdayî ne, wek kalîteya perwerdehiya ku wan di zarokatiyê de wergirt, hewaya ku tê de dijîn, û gelo xwarina tendurist bi bihayekî guncaw û nêzîk heye.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Ji ber vê yekê pêşniyarên Komîsyonê bi qasî ku ji bo kesan in, ji bo hukûmetan jî ne: perwerdehiya baş ji bo hemû zarokan, hewaya paqijtir, tedbîrên ji bo kêmkirina cixarêkişandinê, kêmtir şekir û xwê di xwarinên ku li dikan û xwaringehan têne firotin, û alîkariyên bihîstinê ji bo her kesê ku pêdiviya wî bi wan heye. Hewldana kesane girîng e, lê cîhana ku mirov tê de dijîn jî girîng e. Ev sedemek din e ku meriv tu kesî ji ber teşhîsekê sûcdar neke.
 
-## What are the honest limits of this research?
+## Sînorên rastgoyên vê lêkolînê çi ne?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Pêşketina demansê bi dehsalan digire**, lê piraniya ceribandinan du heta pênc salan didomin. Pîvandina demansê bi xwe, ne tenê encamên testan, lêkolînên pir dirêj û pir mezin dixwaze.
+- **Piraniya ceribandinan testên ramandinê dipîvin.** Başbûnek piçûk di testekê de ne hewce ye ku were wateya kêmbûna kesên ku demansê pêş dixin an jî hêsantirbûna jiyana rojane.
+- **Dilxwaz pir caran ji gelê giştî tenduristtir** û bêtir perwerdekirî ne. Komîsyona Lancetê destnîşan dike ku piraniya delîlan hêj ji welatên dahatbilind tên û komên hindikahiyan kêmtir tê de ne.
+- **Hin girêdan du-alî ne.** Kêmtir çalak an kêmtir civakî bûn dikare bandoreke destpêkê ya demansê be, ne tenê sedemek.
+- **Ceribandinên parêzê heta niha bêhêvî bûne.** Ceribandinek sê-salî ya parêza MIND tu cudahiya girîng di ramandinê de li gorî parêzek kontrolê nedît. [Rêbernameya me ya parêzê](/brain-health/diet/) bibînin.
+- **Nehatiye îsbatkirin ku lîstikên mêjî demansê asteng dikin.** Rêbernameya me ya li ser [lîstikên mêjî û demansê](/brain-health/brain-games/) bibînin.
+- **Ji bo rojîgirtinê delîlên mirovî pir kêm in**, û dikare ji bo mezinan metirsîdar be. [Rêbernameya me ya rojîgirtinê](/brain-health/fasting/) bibînin.
 
-## If someone did everything "right", why did they still get dementia?
+## Eger kesek her tiştî «rast» kir, çima dîsa jî demans pêş da?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Ji ber ku demans ne tenê encama hilbijartinan e. NIA dibêje [temen faktora metirsiyê ya herî mezin a tê zanîn ji bo Alzheimerê ye](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), û tu kes nikare wê biguherîne. Gen rolek dilîzin. Û zanyar hîn bi tevahî fêm nakin ku di piraniya mirovan de çi dibe sedema Alzheimerê. Tewra eger her yek ji 14 faktorên metirsiyê weribana rakirin jî, texmîna Komîsyona Lancetê bi xwe ji nîvê bûyeran zêdetir bê ravekirin dihêle.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Ji ber vê yekê, eger hûn li kesekî dinêrin ku werzîş dikir, baş dixwar, tu carî cixarê nekêşand û dîsa jî demans pêş da, tiştek ji aliyê wî an jî we ve xelet neçû. Eger hûn bi xwe bi demansê dijîn, ev ne sûcê we ye. Hesta sûcdariyê di nav malbatan de hevpar e, lê ne heq e. Tiştê ku niha girîng e rehetî, têkilî û rojên baş in, û [ramanên me yên ji bo çalakiyan](/activities/ideas/) û [rêbernameya me ya xwe-lênihêrîna ji bo kesên ku lê dinêrin](/caregiving/caregiver-self-care/) cihên baş in ji bo destpêkirinê.
 
-## What steps can you talk over with a doctor?
+## Hûn dikarin bi bijîjkekî re li ser kîjan gavan biaxivin?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ev qadên ku pir caran hatine lêkolînkirin in. Baş e ku di kontrolê de li ser wan biaxivin, ji ber ku piraniya wan ji bo tenduristiya dil, rewşa derûnî û serxwebûnê jî alîkar in, bandora wan li ser demansê çi dibe bila bibe.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tansiyona xwînê.** Bipirsin ka hejmarên we çi ne û kîjan armanc ji bo we guncaw e. Komîsyona Lancetê pêşniyar dike ku ji nêzîkî temenê 40 salî ve hewl bidin ku hejmara jorîn 130 an kêmtir be, lê armanca rast ji bo mezinan bi tenduristiya wan a giştî ve girêdayî ye.
+2. **Bihîstin.** Testeke bihîstinê bixwazin, û bipirsin gelo alîkariyên bihîstinê dê alîkar bin. [Rêbernameya me ya bihîstinê](/brain-health/hearing/) lêkolînê rave dike.
+3. **Dîtin.** Muayeneyên çavên xwe bi rêkûpêk bikin û bipirsin gelo pirsgirêkên wek kataraktê dikarin werin dermankirin.
+4. **Kolesterol.** Bipirsin gelo divê kolesterola we ya LDL were kontrolkirin û gelo divê tiştek biguhere.
+5. **Şekirê xwînê.** Eger şekirê we hebe, bipirsin ka meriv wê çawa bi ewlehî birêve bibe.
+6. **Rewşa derûnî.** Depresyon hevpar e û tê dermankirin. Eger ji du hefteyan zêdetir hest bi bêhntengiyê an bêeleqeyî kiriye, ji bijîjkê xwe re bibêjin.
+7. **Cixarêkişandin û alkol.** Li ser piştgiriya ji bo dev ji cixarê berdan û sînorên ewle yên alkolê bipirsin.
+8. **Tevger.** Bipirsin ka kîjan cure tevger ji bo we ewle ye. [Rêbernameya me ya werzîşê](/brain-health/exercise/) ramanan pêşkêş dike.
+9. **Parastina serî.** Dema bisiklêtê an werzîşên têkilîdar kulmek li xwe bikin, û li ser pêşîgirtina ketinê bipirsin.
+10. **Têkiliyê biparêzin.** Dem bi kesên din re beşek ji jiyaneke tendurist e. Rêbernameya me ya li ser [têkiliya civakî](/brain-health/social-connection/) û [xewê](/brain-health/sleep/) jî bibînin.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Berî guherandina derman, parêz, pêvek, rojîgirtin an werzîşê, pêşî bi bijîjkê xwe re biaxivin, bi taybetî eger nexweşiya dil, şekir, dîroka ketinê hebe, an jî hûn jixwe bi demansê dijîn.
 
-## Talk with a doctor
+## Bi bijîjkekî re biaxivin
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Eger hûn guherînên bîr an ramandinê dibînin ku we ditirsînin, di xwe de an jî di kesekî din de, randevûyekê saz bikin. NIA destnîşan dike ku [pirsgirêkên bîrê dikarin sedemên din hebin](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), wek bandorên kêlekê yên dermanan, pirsgirêkên tîroîdê, depresyon an kêmbûna vîtamîn B12, û ku hin ji van pirsgirêkan piştî dermankirina sedemê winda dibin. [Rêbernameya me ya nîşaneyên hişyariyê](/brain-health/warning-signs/) rave dike ku divê hûn li çi bigerin.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Ji bo guherînên ji nişka ve alîkariya lezgîn bixwazin:** tevliheviya ji nişka ve, lawazî an bêhestî li aliyekî laş, zehmetiya axaftinê, an serêşeke pir dijwar dikarin nîşaneyên felcê an jî rewşeke din a awarte bin. Bi 112 an jî jimareya awarte ya herêmî re têkilî daynin.
 
-## Where Golden Moments fits
+## Cihê Golden Moments li ku ye
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments çalakiyên sade yên hevpar çêdike, wek [kartên axaftinê](/games/conversation-cards/), [bingoya wêneyan](/games/picture-bingo/) û [rawestgeha bêhna aram](/games/calm-breathing/). Ew ji bo kêf û demê bi hev re ne. Ew ne dermankirin in, û demansê asteng nakin an hêdî nakin.

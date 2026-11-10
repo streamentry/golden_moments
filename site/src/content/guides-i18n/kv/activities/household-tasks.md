@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Гортса уджъяс деменцияӧн олысь йӧзлы"
+seoTitle: "Гортса уджъяс деменция дырйи"
+description: "Платтьӧ дорйӧм, юклӧм, пызан вылӧ пуктӧм да прӧстӧй пуӧм вермасны лоны значеннӧй уджъясӧн деменцияӧн олысь йӧзлы. Кыдзи дасьтыны да видзны дорйӧмсӧ."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Быдлунъя уджъяс, шуам, дозмук дорйӧм, носки юклӧм, пызан вылӧ дасьтӧм,
+  пызан чышкӧм, быдмӧгъяс ваӧм да прӧстӧй пуӧмын отсалӧм, вермасны сетны
+  деменцияӧн олысь мортлы збыль отсавны гортын. Бӧрйӧй уджъяс, кодъяссӧ сійӧ
+  тӧдӧ, юклӧй найӧс ӧти крок вылӧ, чышкӧй ёсь да шоныд торъяс, да донъялӧй
+  пай пуктӧмсӧ, а не сыӧс, кыдзи «бур» вӧчӧма.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Тӧдса гортса уджъяс вермасны отсавны мортлы казялынысь коланаӧн да гортын ӧтувъяӧн, и тайӧ тшӧтшысджыкыд, кыдзи уджыс вӧчӧма."
+  - "Юклӧй быд удж ӧти крок вылӧ, петкӧдлӧй, а не висьтав, да сьӧкыд кроксӧ ньӧжйӧник босьт ас вылад."
+  - "Дзескӧдӧй пуртъяссӧ, чышкӧданторъяссӧ да мыськысь дозмук чышкан капсулаяссӧ, а пуигӧн пыртӧй пач ручкаяс дорйӧм либӧ автоматическӧй дугӧдӧм."
+  - "Дорйӧм дозмукъяссӧ оз ков выльысь дорйыны морт водзын. Кӧ колӧ мыйкӧ выльысь вӧчны, вӧчӧй сёрӧн, мортлы аддзытӧг."
+  - "Кӧ уджыс вайӧдӧ омӧльтчӧм, вуджӧй кокниджык крок вылӧ, видлӧй мӧд кадӧ либӧ просто пукалӧй орччӧн."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Кутшӧм гортса уджъясын деменцияӧн олысь морт вермас отсавны?"
+    a: "Уна мортӧн вермасны на дорйыны дозмук, корсьны параӧн носки, юклыны пызан пельӧсъяс, дасьтыны пызан, чышкыны пызан вылӧс, чышкыны бус, весавны, ваавны быдмӧгъяс либӧ вӧравны шыд. Бӧрйӧй уджъяс, кодъяс морт вӧліс важӧн, да лӧсьӧдӧй найӧс сылы талун позьӧм серти. Сёрӧн стадияясын вермас тырмыны ӧти гӧгрӧс вӧчӧм, шуам, салфетка ниртӧм."
+  - q: "Збыль-ӧ лӧсьыд деменцияӧн олысь мортлы отсавны пуанінӧ?"
+    a: "Да, тайӧ вермас лоны, кӧ ті пыр видзӧданныд да бур дасьтӧма. Видзӧй пуртъяссӧ, чышкӧданторъяссӧ да став шоныдторсӧ ылынын, вӧдитчӧй пач ручкаяс дорйӧмӧн либӧ автоматическӧй дугӧдӧмӧн, да сетӧй мортлы лӧсьыд удж, шуам, овощ чышкӧм, вӧравӧм либӧ пызан пельӧсъяс дасьтӧм. Некор оз кольӧ сійӧс ӧтнас, кор пачыс восьса."
+  - q: "Мый вӧчны, кӧ сійӧ абу бур дорйӧ либӧ соралӧ?"
+    a: "Кольӧй тадзи. Могыс — ӧтлаын кад колльӧм да ассьы коланаӧн казялыны. Кӧ мыйкӧ збыль колӧ выльысь вӧчны, виччысьӧй сёрӧн да вӧчӧй сы кадӧ, кор морт оз аддзы, медым сійӧ эз казялынысь выльмӧдӧмаӧн."
+  - q: "Мый вӧчны, кӧ сійӧ оз кӧсйы отсавны?"
+    a: "«Абу» вермас висьтавны, мый уджыс ӧні сьӧкыд, гӧгӧрвотӧм либӧ мудзӧдӧ. Эн топӧдлӧй. Видлӧй кокниджык вариант, корӧй сійӧс просто орччӧныд лоны либӧ шыӧдчӧй выльысь бурджык кадӧ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Уна деменцияӧн олысь мортӧн дас во сайын видзлісны горт, пӧрӧдчисны челядь либӧ вӧчисны уджавнытӧг уджинӧ. Кор сійӧс корӧны отсавны збыль гортса уджын, тайӧ вермас висьтавны: «тэ наӧн татшӧм гортын», — мый мукӧд уджъясысь ыджыдджык вежӧртасӧн вермӧ сетны. Та лист бокын висьталӧма, кутшӧм уджъяс шӧркоддьӧмаӧсь бура уджавны, кыдзи найӧс дасьтыны, кыдзи вежны, кор мыйкӧ вежсьӧ, да кыдзи видзны дорйӧмсӧ пуанінӧ да дозмук миссьӧмын.
 
-## Why do everyday chores work well as activities?
+## Мыйла быдлунъя гортса уджъяс бура лӧсялӧны уджӧн?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Гортса уджъяс уджалӧны бура, сы вӧсна мый найӧ тӧдсаӧсь да налӧн эм гӧгӧрвоана мог. National Institute on Aging лыддьӧ пызан пельӧс чышкӧм, пызан вылӧ дасьтӧм, весалӧм, бус чышкӧм, почта юклӧм, дозмук дорйӧм да мусор юклӧм [быдлунъя уджъяс пӧвстын, кодъяс Альцгеймер висьӧмӧн мортлы вермасны лоны гажаӧн](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association висьталӧ, мый татшӧм уджъяс, кыдз пызан дасьтӧм, вермасны отсавны мортлы [казялынысь гортын дона да коланаӧн](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Гортса уджын эм аслас помка пондыны. «Отсалӧй-ӧ меным тайӧ дозмукъясӧн?» — сійӧ кокниджыка вочавидзны «да», кор «Кӧсъянныд-ӧ мыйкӧ вӧчны?»
 
-## Which household tasks are good to try?
+## Кутшӧм гортса уджъясӧн позьӧ видлыны?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Заводитӧй уджъяссянь, кодъяс морт вӧліс важӧн, да лӧсьӧдӧй найӧс сыысь, мый сійӧ вермӧ вӧчны талун.
 
-### Laundry and linens
+### Дозмук да паськӧмтор
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Дозмук да личкиян дорйӧм.** Сетӧй неыджыд, веськыд торъя корзина. Дозмук дорйыны кокни: абу ӧтитор ногӧн оз позь.
+- **Носки параӧн корсьӧм.** Пуктыӧй сорӧм носки пызан вылӧ. Кӧ параяссӧ сьӧкыд аддзыны, босьтӧй сӧмын кык-куим торъя рӧма.
+- **Ниртӧм да чукӧртӧм.** Салфеткаяссӧ, юръизъяссӧ либӧ пызан дозмукъяссӧ позьӧ ниртны да чукӧртны. Тайӧ бура уджалӧ сёрӧн, кор дорйӧм лоӧ вывті уна крока.
 
-### Table and kitchen
+### Пызан да пуанін
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Пызан вылӧ дасьтӧм.** Пуктыӧй ӧти места видлӧгӧн, медым морт вермис сы серти вӧчны. Кӧ тайӧ уна, сетӧй ӧти торӧн: «Татшӧм вилка быд тасьтӧ пай вылӧ».
+- **Пызан пельӧс юклӧм.** Сорӧй сӧстӧм вилкаяс, паньъяс да ньыв пуртъяс посудаӧ да юклӧй найӧс юкӧнӧ. Ёсь пуртъяссӧ кольӧй бокын.
+- **Пызан пельӧс чышкӧм.** Пластик либӧ жугласьтӧм посуда да небыд дозмук вӧчӧны тайӧс лӧсьыд уджӧн.
+- **Пызан вылӧс либӧ пызан чышкӧм.** Вась дозмук да сӧстӧм места. Alzheimer's Association вӧзйӧ сетны дозмук, кӧ морт нин чышкӧ пызансӧ киӧн, — сідз лӧзь уджтӧг вӧчӧмыс вермӧ лоны колана уджӧн.
 
-### Around the house
+### Гортын
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Бус чышкӧм.** Небыд чышкӧдан да кык-куим вын торъя места, шуам, джын пызан либӧ книга полка.
+- **Почта юклӧм.** Сетӧй колана-тӧм газетыяс да каталогъяс, медым юклыны чукӧръясӧ: видзны, выброситны, сёрӧн восьтыны. Збыль счётъяссӧ да бумагаяссӧ видзӧй мӧдлаын.
+- **Мусор юклӧм.** Сӧстӧм банкаяс, суляяс да бумагаяс торъя чукӧръясӧ.
+- **Весалӧм.** Невун весан веранда вылын либӧ пуанінӧ, кӧ морт бура сулавны вермӧ.
+- **Быдмӧгъяс ваӧм.** Невун, кокни ваан да кык-куим быдмӧг матын.
 
-### Simple cooking with supervision
+### Прӧстӧй пуӧм видзӧм улын
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Пуӧм вермӧ бӧр сетны бур да гажа казьтылӧмъяс. NIA вӧзйӧ лэдзны мортлы чукӧртны продуктъяс, мерайтны, сорлавны да киссьыны, либӧ просто висьтавны мӧд мортлы, кыдзи пуны радейтана сёян. Бур уджъяс:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- овощ да вотӧс чышкӧм
+- шыд либӧ кӧдзыд салат вӧравӧм
+- салат турун чеглавӧм
+- нянь вылӧ вый мавтӧм ньӧжйӧ ник пуртӧн
+- печенньӧ кыӧм лист вылӧ пуктӧм
+- пицца вылӧ пуктӧмторъяс пуктӧм
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Кӧ мерайтӧмыс лоӧ сьӧкыд, Alzheimer's Association вӧзйӧ тіянлы мерайтны, а сэсся сетны мортлы мӧд крок, шуам, вӧравӧм.
 
-## How do I set up a chore so it goes well?
+## Кыдзи дасьтыны удж, медым сійӧ бура муніс?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Бӧрйӧй бур кад.** Бӧрйӧй лун шӧр кад, кор морт пырджык шойччӧма да лӧнь. Уна мортлы тайӧ асыв.
+2. **Лӧсьӧдӧй места.** Ӧти удж, ӧти места, пызан вылын некутшӧм лишнӧйтор.
+3. **Корӧй, а эн тшӧктӧй.** «Отсалӧй меным тайӧӧн» бурджык лыддьыссьӧ, кор «Кад нин дозмук дорйыны».
+4. **Петкӧдлӧй медводдза.** Дорйӧй ӧти дозмук няйтӧн, сэсся сетӧй мӧд. Петкӧдлӧм кокниджык гӧгӧрвоны, кор висьталӧм.
+5. **Сетӧй ӧти крокӧн.** Уна висьталӧм ӧтпырйӧ вермӧ гӧгӧрвоны сьӧкыдӧн. Виччысьӧй, медым ӧти крок помасис, сэсся шуӧй мӧд йылысь.
+6. **Уджалӧй орччӧн.** Ӧткодь удж вӧчӧм орччӧн вӧчӧ йитчӧмсӧ, а не видзӧмсӧ.
+7. **Сёрнитӧй удж йылысь, а не результат йылысь.** «Тайӧ зэв небыдикӧсь» либӧ «Висьталӧй, кыдзи ті радейтіныд видзны паськӧмтор шкафын» вермӧны лӧсьӧдны сёрнитӧм, коді оз видлы мортӧс.
 
-## How do I adapt chores as abilities change?
+## Кыдзи лӧсьӧдны уджъяссӧ, кор вермӧмъяс вежсьӧны?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Вермӧмъяс вежсьӧны кадӧн да тшӧтш лунся лунӧ. Alzheimer's Association вӧзйӧ вуджны кокниджык да гӧгрӧсджык уджъяс вылӧ, кор висьӧмыс сёрмӧ.
 
-| If this has become hard | Try this instead |
+| Кӧ тайӧ лоис сьӧкыд | Видлӧй тадзи |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Ыджыд паськӧм дорйӧм | Личкиян дорйӧм либӧ салфетка ниртӧм |
+| Став пызан дасьтӧм | Быд места вылӧ ӧти салфетка пуктӧм |
+| Почта юклӧм торъя чукӧръясӧ | Конвертъяс ӧти чукӧрӧ пуктӧм |
+| Рецепт серти вӧчӧм | Вӧравӧм, либӧ тіян пуӧм видзӧм да видлӧм |
+| Став джодж весалӧм | Ӧти неыджыд пызан чышкӧм |
+| Уджсӧ ставнас вӧчӧм | Тіян орччӧн пукавны, кор ті уджалӧ |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Видзӧмтӧ лыддьӧны. NIA висьталӧ, мый мукӧд йӧзлы просто гажӧ видзӧм, и тайӧ бур ног пай пуктӧм понда.
 
-## How do I keep household tasks safe?
+## Кыдзи видзны дорйӧмсӧ гортса удж дырйи?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Медводз дорйӧмыс, торйӧнни пуанінӧ. NIA-лӧн [гортса дорйӧм йылысь вӧзйӧмъяс Альцгеймер висьӧмӧн мортӧс видзысьяслы](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) пыртӧны:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Дзескӧдӧй либӧ ылысь босьтӧй чышкӧданторъяс, сы пыр йӧз дозмук мыськысь капсулаяс, кодъяс вермасны лоны кыдз кампет.
+- Видзӧй пуртъяс, ножницаяс да инструментъяс тупкӧм местаын.
+- Пыртӧй пач вылӧ дорйӧм ручкаяс да автоматическӧй дугӧдӧм.
+- Пуктыӧй «Дугды» либӧ «Зэв шоныд» пасъяс духовка, тостер да утюг дорӧ, медым найӧ оз сотчыны.
+- Лӧсьӧдӧй ва шонтысьӧг 120°F вылӧ, медым шонтысьӧм лӧсьыдтӧг.
+- Чышкӧй искусственнӧй вотӧсъяс да сёян кодь магнитъяс, кодъяс вермасны казялыны сёянӧн.
 
-A few more practical habits help:
+Кыдзкӧ мукӧдсяньӧн отсалӧны татшӧм сямъяс:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Лой ӧти жырйын, кор пач, духовка либӧ ёсь инструмент уджалӧ.
+- Вӧдитчӧй жугласьтӧм посудаӧн, кор чышканныд да пызан вылӧ пуктанныд.
+- Видзӧй джоджсӧ кос да сӧстӧмӧн, кор весаланныд либӧ чышканныд.
+- Кӧ морт водзӧ вӧдитчис инструментъясӧн, Alzheimer's Association вӧзйӧ чышкыны лӧсьыдтӧм торъяс мастерскӧйысь, медым сійӧ вермис водзӧ вӧчны прӧстӧй удж, шуам, пу чышкӧм.
 
-## What if they do it "wrong"?
+## Мый вӧчны, кӧ сійӧ вӧчӧ «абу бур»?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Кольӧй тадзи. Дозмук, коді дорйӧма куим пельӧ, а не кык пельӧ, — сійӧ на дорйӧм дозмук. Alzheimer's Association шуӧ веськыда: коланатор — ӧтлаын кад колльӧм да мортлы казялынысь коланаӧн, а не сыысь, бура-ӧ дорйӧма дозмукыс. Кӧ мыйкӧ збыль колӧ выльысь вӧчны, виччысьӧй сёрӧн да вӧчӧй сійӧс мортлы аддзытӧг.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Кор выльмӧданныд удж дырйи, бур уджыс вермӧ лоны казьтылӧмӧн, мый вошӧма. «Аттьӧ, бур отсин» — пырджык бур висьталӧм.
 
-## When should we stop?
+## Кор ми колӧ дугдыны?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Дугдӧй либӧ вежӧй уджсӧ, кӧ ті аддзанныд омӧльтчӧм, мудзӧм либӧ интерес вошӧм. Водз дугдӧм — бура, а не абу удж. Ті верманныд:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- вуджны кокниджык крок вылӧ
+- вуджны шойччысьысьӧ, шуам, музыка кывзӧм либӧ кофе юӧм вылӧ
+- видлыны выльысь сёрӧн либӧ мӧд лунӧ
+- просто пукалыны ӧтлаын
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Кӧ морт шуӧ «абу», эн топӧдлӧй. Видӧдӧй [мый вӧчны, кӧ сійӧ шуӧ «абу»](/caregiving/when-they-say-no/), кӧні эм небыдик вочавидзӧмъяс.
 
-## Low-effort extras for a quieter moment
+## Кокни отсӧгъяс шойччысьысь кадлы
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Кор гортса удж оз позь вӧчны, юклӧм да ӧткодьтор корсьӧм позьӧ вӧчны и пукавны. [Sort Together](/games/sort-together/) сетӧ лӧсьыдӧ пуктыны серпасъяс пуанін либӧ сад корзинаӧ, а [Picture Pairs](/games/picture-pairs/) — тайӧ небыдик ӧткодьтор корсьӧм ыджыд серпасъясӧн да кад лыддьытӧг. [Conversation Cards](/games/conversation-cards/) сетӧ восьса юалӧмъяс горт да семья йылысь, кодъяс бура лӧсялӧны удж бӧрын кофе юӧм дорӧ.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Медым тӧдмавны, кыдзи пыртны гортса уджсӧ лунӧ, видӧдӧй миян отсӧг [лӧнь быдлунъя распорядок йылысь](/activities/daily-routine/). Стадия серти содтӧд ötлысьяс видӧдӧй [шӧр кадся уджъяс](/activities/middle-stage/) лист бокын.

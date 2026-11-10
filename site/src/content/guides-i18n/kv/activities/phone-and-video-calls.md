@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Телефон да видеозвонитӧм уджторъяс деменцияӧн олысь мортлы"
+seoTitle: "Видеозвонитӧм уджторъяс деменцияӧн олысь мортлы"
+description: "Видеозвонитӧм да телефон отсӧгӧн уджторъяс ылын олысь родныдлӧн: петкӧдлыны да висьтавны, лыддьыны, сьылӧм вынсьӧдны, ӧтувъя экран вылын ворсӧм."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Деменцияӧн олысь морткӧд звонитӧм бурджыка мунӧ, кор сійӧ дзикӧд, кадӧ
+  воӧ да лӧсьӧдӧма ӧтувъя удж вылӧ. Ті верманныд петкӧдлыны кань либӧ
+  сад, видзӧдлыны серпасъяс, лыддьыны гора, сьылӧм вынсьӧдны либӧ ворсӧм
+  ворсны ӧтувъя экран вылын. Позьӧ, звонитӧй асывнас ӧти кадӧ, медым сёрнитӧй
+  ӧти морт ӧтчыд, да корӧй матын олысь отсасьысьысь отсӧг.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Уджтор сетӧ звонитӧмлы порядок да чинтытӧ сёрнитӧмлысь сьӧкыдлунсӧ. Дасьтыӧй ӧти кокни тор, мыйӧн ті верманныд юксьыны."
+  - "Дзикӧд да кадӧ воысь звонитӧмъяс тшӧкыда бурджыка уджалӧны, кор кузь да шоча воысьыс."
+  - "ӧти кадӧ сёрнитӧ ӧти морт. Уна мортӧн ӧттшӧтш сёрнитӧм сьӧкыд гӧгӧрвоны, тӧдчыдыс кор кывзӧмыс омӧля."
+  - "Матын олысь отсасьысь вермӧ дасьтыны устройство, пуктыны мортыскӧд орччӧн да лоны «киясӧн» ворсӧмын либӧ серпасъяс видзӧдігӧн."
+  - "Кор талун звонитӧмыс оз артмы, помалӧй сійӧс шаньӧн. Аски позьӧ бара видлыны."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Мый позьӧ вӧчны видеозвонитӧм дырйи деменцияӧн олысь морткӧд?"
+    a: "Дасьтыӧй ӧти кокни удж: петкӧдлӧй ас садтӧ, пемӧстӧ либӧ вӧркухнятӧ; видзӧдлӧй важ серпасъяс; лыддьӧй дженьыдик кывбур либӧ письмӧ; сьылӧй сылы радейтана сьылӧм; пуӧй ӧти сёян рецепткӧд ӧттшӧтш; либӧ ворсӧй небыдик серпас ворсӧмӧн ӧтувъя экран вылын. Уджторъяс отсӧгӧн звонитӧмын лоӧ тор, да мортлы оз ков став сёрнитӧмсӧ ас вылас босьтны."
+  - q: "Кымын кадӧ колӧ кутны видеозвонитӧм?"
+    a: "Тшӧкыда дженьыдджыка, мый ті чайтанныд. Кымынкӧ шань минут вермас тырмыны, тӧдчыдыс кор морт зэв тэрыба мудзӧ. Кадӧ воӧм асывнас звонитӧм вермас лоны ыджыдджык, кор кутшӧм кузя кадӧ вӧлі быд звонитӧм."
+  - q: "Мый вӧчны, кор видеозвонитӧмъяс сійӧс гӧгӧрвотӧмӧн вайӧдӧны либӧ повзьӧдӧны?"
+    a: "Мукӧдлы экран вылын чужӧм вермас лоны гӧгӧрвотӧм. Видлӧй шӧр телефонӧн сёрнитны, лӧсьӧдӧй видеописьмӧ, кодӧс отсасьысь вермас петкӧдлыны лӧнь кадӧ, либӧ ыстӧй открыткаяс да серпасъяс почтаӧн. Кор звонитӧмыс оз бура мун, помалӧй сійӧс донаӧн да видлӧй мӧд лунӧ либӧ мӧд кадӧ."
+  - q: "Кыдз отсавны мамӧлы видеозвонитӧмӧн, кор сійӧ оз вермы уджавны телефонӧн?"
+    a: "Корӧй роднысьысь, дорас отсасьысьысь либӧ видзанінысь уджалысьысь отсӧг, медым найӧ лӧсьӧдӧны звонитӧмсӧ да куталӧны либӧ сувтӧдӧны устройство. Уна видзанін отсалӧны семьяяслы видеозвонитӧмӧн, сійӧн позьӧ юавны, мый позьӧ вӧчны. Планшет подставка вылын, ыджыд экранӧн да гора кывзӧмӧн, кокниджык ставлы."
+  - q: "Позьӧ-ӧ миянлы ворсны ӧтувъяӧн видео отсӧгӧн?"
+    a: "Да. Медбӧръя кокни ногыс — ӧти морт юклӧ ас экрансӧ видео приложениеын, а мӧдыс висьталӧ, кутшӧм серпас вылӧ личкыны. Либӧ матын олысь отсасьысь вермӧ восьтыны сійӧ жӧ ворсӧм планшет вылын да личкыны мортыслы, а ті сёрнитанныд сылы. Бӧрйӧй ворсӧмъяс таймертӧг да баллтӧг."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Ылын овны деменцияӧн олысь мортсянь вермас лоны зэв сьӧкыда. Телефон да видеозвонитӧмъяс оз вермыны вежны видзӧдчӧмсӧ, но найӧ вермасны сетны збыль йитчӧм кадъяс, кор бура дасьтыны. Важын дзугсьыны отсавны тшӧтшкыд сёрнитӧмӧн да, сійӧ пыдди, дасьтыны мыйкӧ кокни, мыйӧн позьӧ юксьыны. Тайӧ лист бокын ми висьталам, кутшӧм уджторъяс бура уджалӧны видео да телефон пыр, кыдз дасьтыны звонитӧм да кыдз матын олысь отсасьысь вермӧ отсавны.
 
-## Why plan an activity for a call?
+## Мыйла колӧ дасьтыны уджтор звонитӧмлы?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Уджтор сетӧ звонитӧмлы форма. «Кыдз тэ овыштлан? Мый вӧчин талун?» — тайӧ корӧ мортсянь казьтыштны да висьтавны, а тайӧ вермас лоны сьӧкыд. «Видзӧд, помидоръяс вотӧмаась нин» — тайӧ мортсянь нинӧм оз кор.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association пасйӧ, мый уна мортӧн ӧттшӧтш видеоын сёрнитӧм вермас лоны сьӧкыд, да сійӧ вӧзйӧ [лӧсьӧдны звонитӧмсӧ](https://www.alz.org/help-support/caregiving/holidays) сьылӧм сьылӧмӧн либӧ серпасъясӧн юксьӧмӧн.
 
-## What activities work on a video call?
+## Кутшӧм уджторъяс бура уджалӧны видеозвонитӧмын?
 
-### Show and tell
+### Петкӧдлыны да висьтавны
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Нуӧй ас оланінтӧ сылы. Вошӧй камерасӧ ньӧжйӧ сад пыр, петкӧдлӧй понсӧ, пуан сёянтӧ, нукля челядь кадпас, либӧ бергӧдӧй телефонсӧ ӧшинь пыр лым видзӧдны. Висьталӧй кокни кывъясӧн, мый ті аддзанныд, да кольӧй кад, медым сійӧ вермис вочавидзны. Юалӧмъяс абу быть колӧны.
 
-### Look at photos together
+### Видзӧдлыны серпасъяс ӧтувъяӧн
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Кутӧй важ тыртӧм серпас камера водзӧ либӧ юклӧй экрантӧ, медым петкӧдлыны кымынкӧ ыджыд серпас ӧтиӧн. Сёрнитӧй сы йылысь, мый ті казяланныд: «Видзӧд, кутшӧм шляпа пӧльын ыджыд мамыслы». Эн юав «Коді тайӧ?» либӧ «Тэ казьтылан-ӧ?» Кор морт висьталӧ абу збыльӧн, лэдз сідз, кыдз сійӧ висьталӧ. Унджык тӧдмавны позьӧ миян [казьтылӧм йылысь гӧгӧрвоӧдӧмын](/activities/reminiscence/).
 
-### Read aloud
+### Лыддьыны гора
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Лыддьӧй дженьыдик кывбур, псалом, радейтана челядь книга нуклялӧн тайӧ жӧ звонитӧмын, письмӧ роднысьысь либӧ лист бок сылы радейтана книгаысь. Лыддьыны гора сетӧ мортлы лӧньтор кывзыны, вочавидзнытӧг.
 
-### Sing or listen to music together
+### Сьывны либӧ кывзыны музыка ӧтувъяӧн
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Сьыв ассьыныд радейтана сьылӧм, кодӧс сійӧ бура тӧдӧ, либӧ лэдз сійӧс ас бокысь. Уна мортлы сьылӧм сьылӧм кокниджык, кор сёрнитӧм. Видзӧд миян [музыка уджторъяс йылысь гӧгӧрвоӧдӧм](/activities/music/).
 
-### Cook or bake at the same time
+### Пуны либӧ пӧжны ӧттшӧтш
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association вӧзйӧ лӧсьӧдны видеозвонитӧм, медым пуны либӧ пӧжны радейтана сёян ӧтувъяӧн. Дасьтыӧй звонитӧм кыкнан вӧркухняын. Матын олысь морт вермас совмӧдны либӧ видлыны, а ті пыртӧй уджӧ сылы важ рецепткарточкасӧ.
 
-### Watch something together
+### Видзӧдны мыйкӧ ӧтувъяӧн
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Ассоциация сідзжӧ вӧзйӧ видзӧдны радейтана фильм ӧттшӧтш торъя оланінъясысь, телефон либӧ видео пыр сёрнитігӧн. Деменцияӧн олысь мортлы вермас бурджыка лоны дженьыдик видео, важ сериал серипас либӧ мач видзӧдӧм, кор став фильм.
 
-### Play a gentle game on a shared screen
+### Ворсны небыдик ворсӧмӧн ӧтувъя экран вылын
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Уна видео приложение сетӧ юклыны экран. Ті восьтанныд ворсӧмсӧ да личканныд; морт висьталӧ либӧ петкӧдлӧ, кутшӧм серпас бӧрйыны. Либӧ матын олысь отсасьысь восьтӧ сійӧ жӧ ворсӧм планшет вылын да личкӧ мортыслы, а ті сёрнитанныд.
 
-Games that work well this way:
+Татшӧм ногӧн бура уджалӧны тайӧ ворсӧмъяс:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** ті лыддянныд тӧдса шуӧмтор, сійӧ висьталӧ помсӧ, сэс петӧ вочавидзны отсӧг юалӧм.
+- **[Picture Pairs](/games/picture-pairs/):** небыдик ӧткодялӧм ворсӧм ыджыд серпасъясӧн, кодъяс вермасны лоны восьса, таймертӧг да баллтӧг.
+- **[Conversation Cards](/games/conversation-cards/):** серпас да восьса юалӧм, мый йылысь позьӧ сёрнитны ӧтувъяӧн.
+- **[Photo Pairs](/games/photo-pairs/):** ӧткодялӧм ворсӧм тіян бӧрйӧм серпасъясысь ас устройство вылын. Серпасъяс кольӧны тіян браузерын, а морт аддзӧ найӧс юклӧм экран пыр.
 
-### Recorded messages
+### Видеоӧн письмӧм юӧртӧмъяс
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Кор дзик пыр сёрнитӧм сьӧкыд, гижӧй дженьыдик видео: шыӧдчӧм, сьылӧм, ветлӧм сад пыр. Отсасьысь вермас петкӧдлыны сійӧс лӧнь кадӧ, унаысь, кымын сійӧ мортлы кажитчӧ. Alzheimer's Association пасйӧ, мый позьӧ гижны да ыстыны торъя кадъяс, шуам, кор челядь восьтӧны козинъяс.
 
-## What about plain phone calls?
+## А шӧр телефонӧн сёрнитӧмыс?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Шӧр телефонӧн сёрнитӧм сідзжӧ колана. Dementia Australia вӧзйӧ [звонитны асывнас ӧти кадӧ](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) да оз тэрыбнитны, сы вӧсна мый деменцияӧн олысь мортлы вермас ковны кад пырӧдчыны сёрнитӧмӧ. Телефон пыр:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Шуӧй ас нимтӧ да коді ті сылы водз асывнас: «Видза оланныд, батьӧ, ме Елена, тіян ныв».
+- Сёрнитӧй ньӧжйӧ, дженьыд сёрникузяясӧн, ӧти кадӧ ӧти юӧр.
+- Висьталӧй юӧръяс, а эн юав: «Тӧрыт ме пуи тіян радейтана шыдӧс».
+- Лыддьӧй дженьыдик кывбур либӧ сьылӧй радейтана сьылӧм юкӧн.
+- Кольӧй звонитӧмсӧ дженьыдӧн да помалӧй шаньӧн.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia сідзжӧ пасйӧ, мый видеозвонитӧм вермас отсавны, кор сёрнитны лоӧ сьӧкыдджык, сы вӧсна мый морт вермӧ аддзыны тіян чужӧмтӧ. Кор телефонӧн сёрнитӧм гӧгӧрвотӧм, видлӧй видеоӧн, либӧ мӧдарӧ.
 
-## How do I set up a video call that works?
+## Кыдз дасьтыны видеозвонитӧм, медым сійӧ бура муніс?
 
-**Before the call:**
+**Звонитӧм водзын:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Бӧрйӧй кадӧ воысь кад,** кор морт тшӧкыда шойччӧма, да видзӧд сійӧ кадсӧ. Порядок отсалӧ.
+2. **Сёрнитӧй матын олысь отсасьыськӧд.** Тӧрыт воысь юӧртӧм отсалӧ сылы дасьтысьны.
+3. **Видлалӧй устройство.** Планшет подставка вылын кокниджык, кор кутӧм телефон. Видзӧд, медым сійӧ вӧлі зарядитӧма, экран югыда, а шыыс тырмымӧн гора. Пыртӧй текстъясыс, кор приложение сетӧ да морт бур лыддьӧ.
+4. **Дасьтыӧй ӧти удж** да лӧсьӧд ставсӧ водзвыв.
 
-**During the call:**
+**Звонитӧм дырйи:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Пуксьӧй матӧ камера дорӧ** югъялаын, ӧшиньлы паныда, оз сылы бӧрсянь.
+- **Висьталӧй, коді ті** быд звонитӧмын, нимтӧ да коді ті сылы.
+- **ӧти кадӧ сёрнитӧ ӧти морт.** Alzheimer's Association пасйӧ, мый ӧттшӧтш сёрнитӧм сьӧкыд деменцияӧн олысь йӧзлы да омӧля кывзысь йӧзлы. Кор уна родны пырӧны, сёрнитӧй чередӧн либӧ кольӧй кык-куим мортӧн.
+- **Юавӧй ӧти юалӧм ӧти кадӧ.** Family Caregiver Alliance вӧзйӧ [кокни юалӧмъяс, вылӧ кутшӧм позьӧ вочавидзны «да» либӧ «абу»](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), да петкӧдлыны бӧрйӧмторъяс, кор позьӧ.
+- **Кольӧй кузь чӧвлун.** Виччысьӧй вочавидзӧм. Бур, кор ті отсаланныд кывӧн, кор сійӧ корсьӧ сійӧс.
+- **Уджавӧй чужӧмӧн да шыӧн.** Ньобӧй, вештыӧй юрӧн да видзӧй шань шы. Чужӧмыс тшӧкыда унджык висьталӧ, кор кывъяс.
+- **Эн выльмӧд.** Кор морт шуӧ мыйкӧ абу збыльӧн, коль сідз.
 
-**Ending the call:**
+**Звонитӧм помалігӧн:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Помалӧй водзын, кор морт мудзас, бурджык лӧсьыд кадӧ.
+- Вӧдитчӧй ӧти ногӧн быдпыр: «Аски луншӧр кадӧ ме бара звонита. Ме радейта тэнӧ».
+- Эн кузьмӧд.
 
-## Tips for the helper on site
+## Отсӧгъяс матын олысь отсасьысьлы
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Кор ті гӧтыр, отсасьысь, вок либӧ уджалысь, коді отсалӧ звонитӧмын, ті сетанныд тайӧ позянлунсӧ.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Дасьтӧй лӧньін.** Кусӧдӧй телевизор да пӧдлавӧй ӧдзӧссӧ.
+- **Звонитӧмсӧ лӧсьӧдӧй ассьыныд,** сэс сетӧй мортлы планшет подставка вылын либӧ кутӧй сійӧс син водзын.
+- **Пукавӧй орччӧн, абу водзын.** Тіян матын лонын шань. Колігӧн небыдикӧн казьтыштӧй: «Видзӧд, Елена босьтіс».
+- **Лоӧй «киясӧн».** Кутӧй серпасъяс, личкӧй ворсӧмын, бергӧдӧй планшетсӧ, медым петкӧдлыны жыр.
+- **Видзӧдӧй, абу-ӧ сійӧ мудзӧма либӧ повзьӧма,** да висьталӧй звонитысьлы, кор помавныс колӧ.
+- **Висьталӧй звонитысьлы, мый бура муніс.** «Сылы зэв нимкодь вӧлі пон» отсалӧ дасьтыны мӧд звонитӧм.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA вӧзйӧ, мый ылын олысь родныяс вермасны отсавны ыджыд мортлы [велӧдчыны телефон функцияяссӧ](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), шуам, видеозвонитӧмъяс. Сёр водзын удж дырйи тшӧкыда отсасьысьлы ковмас кутны устройство ставнас. Тайӧ бур.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Кор морт олӧ видзанінын, Alzheimer's Foundation of America вӧзйӧ юавны, отсалӧны-ӧ видзаніныс семьяяслы видеозвонитӧмӧн. AFA сідзжӧ пасйӧ, мый семьяяс вермасны ыстыны серпасъяс видзанін уджалысьяс пыр, а сідзжӧ радейтана сёянтор либӧ небыдик дона торъяс, водзын юалӧмӧн, мый позьӧ видзанінӧ пыртны.
 
-## What if the call doesn't go well?
+## Мый вӧчны, кор звонитӧмыс оз бура мун?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Мукӧд звонитӧмъяс вермасны лоны гӧгӧрвотӧм, шӧр либӧ повзьӧдана. Тайӧ абу тіян мыж, да тайӧ оз висьтав, мый звонитӧмъяс абу коланаӧсь.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Кор морт гӧгӧрвотӧмӧн видзӧ экран вылӧ, вуджӧй шӧр телефон вылӧ либӧ гижӧм видео вылӧ.
+- Кор сійӧ повзьӧ, казьтыштӧй сійӧ ловъяссӧ, шуӧй шаньтор да помалӧй небыдикӧн.
+- Кор звонитӧмъяс тшӧкыда оз уджавныны ӧти кадӧ, видлӧй мӧд кадӧ.
+- Кор сійӧ чайта, мый ті мӧд морт, лӧсьыда вочавидзӧй.
 
-It is fine to end early. A short, warm call is a good outcome.
+Бур, кор помаланныд водзджык. Дженьыд да шань звонитӧм — бура артмӧмтор.
 
-## Between calls
+## Звонитӧмъяс костын
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Ӧттшӧтшӧн овны позьӧ мӧд ногӧн. Dementia Australia вӧзйӧ ыстыны открыткаяс, электрон письмӧяс, серпасъяс либӧ небыдик козинъяс. Вежон сайын ыстӧм открытка ӧти ыджыд серпасӧн да дженьыд гижӧмӧн позьӧ лыддьыны выльысь да выльысь. Печать вӧчӧм [Conversation Cards](/games/conversation-cards/), ыстӧм отсасьысьлы, вермас сетны мӧд звонитӧмлы дась тема.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Планшет бӧрйӧм да лӧсьӧдӧм йылысь унджык позьӧ лыддьыны [планшет да экранъяс](/caregiving/tablets-and-screens/) лист бокын. Матыса ветлӧдлӧм йылысь видзӧд миян [ветлӧдлӧм йылысь гӧгӧрвоӧдӧм](/activities/visiting/).

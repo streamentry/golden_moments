@@ -1,32 +1,32 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Деменцияӧн олысь аймортлы уджторъяс"
+seoTitle: "Деменцияӧн олысь аймортлы уджторъяс: идеяяс"
+description: "Деменцияӧн олысь аймортлы уджтор идеяяс: сылы важ оланпырысь, интересъясысь да рутинаысь, абу стереотипъясысь. Вӧдитчӧм сайынмӧдӧм йылы советъяс."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Деменцияӧн олысь аймортлы бурджык уджторъяс петӧны сылысь ас оланпырысь:
+  мый удж сійӧ вӧліс, мыйӧн сійӧ радейтіс да мый ӧтвыйысь вӧліс. Тайӧ айморт
+  вермас радейтны кабалаяс сортировайтны, мӧдӧс — сӧстӧм инструментъяс видлавны,
+  коймӧдӧс — важ спорт ворсӧм видзӧдлыны. Быд аймортлы торъя интересъяс, сійӧн
+  заводитӧй мортысь, абу сылысь айморт каджыкысь.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Заводитӧй тайӧ аймортлысь ас историяысь: уджысь, интересъясысь, рутинаысь да сыысь, мыйӧн сійӧ нималіс."
+  - "Сідзтор уджъяс, кӧні эм збыль колана мог, шуам, инструментъяс сортировайтны, машина миссьыны либӧ пу шлифуйтны, унджыкысь кад вӧчӧны, кор торйӧн вӧчӧм абу урок кодь."
+  - "Оз став айморт радейтны инструментъяс либӧ спорт. Унаӧн радейтӧны пӧжасьны, музыка кывзыны, сад йын уджавны, серпасъяс вӧчны либӧ мукӧдъясӧс видзны. Юалӧй, видзӧдлӧй да вуджӧдӧй сылы пыр."
+  - "Удж кодь уджторъяс лосьӧдӧй лӧсьӧдӧмаӧн: чышкӧй лека инструментъяс, видзӧдлӧй удж костын, да прӧстмӧдӧй, кор вермӧмъяс вежсьӧны."
+  - "«Ог» шуны позьӧ. Сетӧй отсӧг мог, абу тшӧктӧм удж, да видлӧй мӧд лунӧ выльысь."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Кутшӧм уджторъяс вермасны радейтны деменцияӧн олысь аймортъяс?"
+    a: "Ӧти лыддьӧг абу, сы вӧсна мый быд аймортлы торъя интересъяс. Бур заводитанінъяс — сылысь важ уджкӧд йитчӧм уджъяс, шуам, кабалаяс ладмӧдны либӧ гайкаяс да болтъяс сортировайтны, а сідзжӧ сійӧ радейтіс уджторъяс: чери кыйӧм, машинаяс, музыка, пӧжан, спорт. Видзӧдлӧй, мый сійӧ асног вӧчӧ, да сы вылӧ мыджсьӧй."
+  - q: "Ме батьӧ отказитчӧ чукӧрын уджторъясысь. Мый вӧчны?"
+    a: "Уна морт, аймортъяс да нывбабаяс, вермасны оз кӧсйыны уджторъяс, кодъяс лоӧны урок кодь либӧ посни кадь. Видлӧй корны отсӧг: «Верман-ӧ тэ меным тайӧс сортировайтны отсавны?» Дженьыд чукӧр либӧ ӧткодь удж вермас лоны кокниаысь ыджыд ӧшиньын."
+  - q: "Лӧсьӧ-ӧ сетны сылы уджавны инструментъясӧн?"
+    a: "Сӧмын видзӧдӧм улын да лӧсьӧдӧм инструментъясӧн. Чышкӧй электрической инструментъяс, лезвиеястӧм да став лека торъяс, да сетӧй сэтшӧм уджъяс, шуам, пу кускӧ шлифуйтны, сӧстӧм инструментъяс сортировайтны либӧ ыджыд болтъяс киӧн чукӧртны. Alzheimer's Association вӧзъйӧ чышкыны мастерскӧйысь лека торъяс, медым шлифуйтӧм кодь удж вӧлі лӧсьӧдӧма."
+  - q: "Сійӧ вӧлі профессионал. Прӧстӧй уджъяс вермасны-ӧ дорйыны сійӧс?"
+    a: "Вермасны, кор уджсӧ петкӧдлӧны шуам тшӧтшкӧма удж кадь. Висьтавӧй, мый тайӧ збыль отсӧг, вӧдитчӧй ыджыд мортлы лӧсялана торъясӧн да бӧрйӧй удж, коді матын сылысь важ уджлы, шуам, лыддьӧг видлавны, файл ладмӧдны либӧ письмояс чукӧртны отсавны. Морт кӧ вӧлі кузя мыйкӧ вӧчын, матын, но мӧдтор удж вермас лоны кокниаысь, сы вӧсна мый оз ордчылы ас водзын уджкӧд."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +45,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Йӧз унджыкысь корсьӧны «деменцияӧн олысь аймортлы уджторъяс», сы вӧсна мый шӧр вӧзъӧм идеяяс оз лӧсявны найӧ радейтана мортлы. Тайӧ гӧгӧрвоана. Но вочавидз оз лоы «аймортлы лӧсялана» уджтор лыддьӧгын. Колӧ заводитны тайӧ торъя аймортлысь: мый уджын сійӧ вӧліс, мый вӧліс сылысь шойччӧм лунъясынас да мый сетіс сылы ковтӧмлун. Быд мортлысь интересъяс торъяӧсь. Уна айморт радейтӧ пӧжавны, сад йын уджавны, серпасъяс вӧчны либӧ сьылны, уна нывбаба радейтӧ машинаяс да бейсбол.
 
-## How do I find activities he will actually enjoy?
+## Кыдзи аддзыны уджторъяс, кодъяс сылы збыль лоасны радейтанаӧн?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Заводитӧй сылысь олан историяысь. Alzheimer's Association вӧзъйӧ лӧсьӧдны [лунын план](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) мортлысь радейтӧм да оз радейтӧм торъяс серти, сылысь ёнлун да интересъяс серти, а сідзжӧ сы серти, кыдзи сійӧ водзын лӧсьӧдіс ассьыс лунсӧ. Юасьӧй ассьыд:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Мый вӧлі сылысь уджыс?** Офис, видз-му, завод, мастерскӧй, армия, вузасьӧм, велӧдӧм, водитель удж, гортса удж?
+- **Мыйӧн сійӧ уджавліс шойччӧм кадын?** Чери кыйӧм, картаӧн ворсӧм, пу удж, спорт, вичкоын ветлӧм, музыка, пӧжан, гаражын машина?
+- **Мый вӧлі сылысь рутинаяс?** Быд асыв кофей да газет? Погодасӧ видлалӧм? Шойччӧмлунъя машина миссьӧм?
+- **Мый сійӧ ӧні на заводитӧ асног?** Association пасйӧ, морт кӧ заводитӧ уджсӧ корнытӧг, шуам, джоджсӧ чышкыны, тайӧ уджторъяс вермасны лоны рутинаын.
+- **Мыйысь сійӧ вӧтлысьӧ?** Мукӧдъяслы радейтана спорт видзӧдны, мукӧдлы сылысь ӧдйӧлун да шыыс лоӧ сьӧкыд. Казялыштӧй, кор сійӧ лоӧ нимкодь, повзьӧдчӧм либӧ сьӧкыд.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Сёрнитӧй сідзжӧ семьякӧд да важ ёртъяскӧд. Найӧ вермасны тӧдны интересъяс, кодъяс нин вунӧдӧмаӧсь ӧтвыйысь оланын.
 
-## Activity ideas based on past work
+## Уджтор идеяяс важ удж серти
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association сетӧ янсӧдӧм пример: важ офис уджалысь аймортлы вермас лоны радейтана ладмӧдӧм уджъяс, шуам, шайтъяс кӧрзинкаӧ пуктыны, письмояс чукӧртны отсавны либӧ удж лыддьӧг гижны, а важ фермер либӧ сад йын уджалысьлӧн вермас лоны радейтана гортса му вылын уджавны. Тайӧ жӧ мог лӧсялӧ уна уджлы.
 
-| Past work | Activity ideas | Simpler version |
+| Важ удж | Уджтор идеяяс | Прӧстмӧдӧм версия |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Офис либӧ бизнес | Кабалаяс папкаясӧ сортировайтны, конвертъяс вылӧ штамп пуктыны, лыддьӧг видлавны, пызанвыв ладмӧдны | Конвертъяс чукӧртны; скрепкаяс коробкаӧ пуктыны |
+| Мастерскӧй либӧ машина видлалӧм | Сӧстӧм гайкаяс, болтъяс да шайбаяс сортировайтны; ыджыд болтъяс киӧн чукӧртны; инструмент каталогъяс видзӧдлыны | Кызвын серти кык кружкаӧ юкны |
+| Видз-му либӧ сад йын удж | Быдмӧгъяс ваӧн юкны, быдмӧгъяс пуктыны, коръяс чышкыны, сад йӧ видзӧдлывны | Тэ уджалан кадын сійӧ пукалӧ бокын; кӧйдыс пакетъяс кутӧ |
+| Армия | Ботинка сӧстмӧдны, ящикӧс ладмӧдны, служба кадся серпасъяс видзӧдлыны, радейтӧ кӧ | Сійӧ кадся музыка кывзыны |
+| Вузасьӧм либӧ клиентъяскӧд удж | Локтысьясӧ вӧткӧдны, сёян юкны, купонъяс сортировайтны | Ӧдзӧс дорын пукалыны да вӧткӧдны |
+| Велӧдӧм | Гӧгӧрвоана лыддьыны, небӧгъяс ладмӧдны, серпасъяс тема серти юкны | Ӧтлаын серпасъя небӧг видзӧдлыны |
+| Водитель либӧ транспорт | Картаяс либӧ важ машина журналъяс видзӧдлыны, машина миссьыны | Терраса вылысь машинаяс петӧмсӧ видзӧдлыны |
+| Горт да семья | Дӧра вӧчны, пызан ладмӧдны, сёян вӧчны отсавны | Дӧра нювӧдны; сорпа ворошитны |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Мукӧд казьтылӧмъяс, шуам, армияын служитӧм, вермасны вайӧдны ыджыд чуйӧмъяс. Вуджӧдӧй сылы пыр, сёрнитӧй важ кад йылы бура да вежӧй сёрни нэммӧ, сійӧ кӧ лоӧ сьӧкыд.
 
-## Activity ideas based on hobbies
+## Уджтор идеяяс интересъяс серти
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Пу удж.** Нечӧс пу кускӧ шлифуйтны либӧ пӧтка дозмук серпаситны. Alzheimer's Association вӧзъйӧ чышкыны мастерскӧйысь лека материалъяс да инструментъяс, медым шлифуйтӧм кодь удж лои лӧсьӧдӧма да нимкодь.
+2. **Чери кыйӧм.** Крючоктӧм удочка сумкасӧ сортировайтны, чери кыйӧм йылы журналъяс видзӧдлыны либӧ ӧтлаын ты дорын пукалыны.
+3. **Машинаяс.** Машина миссьыны, хром сӧстмӧдны, важ машина серпасъяс видзӧдлыны либӧ мунны ветлӧдлыны пассажирӧн.
+4. **Спорт.** Важ ворсӧм либӧ нарезкаяс видзӧдлыны, небзьӧдӧм мач лыйлыны, ковёр вылын гольф мачъяс ыстыны либӧ бейсбол картаяс сортировайтны.
+5. **Картаяс да ворсӧмъяс.** Тӧдана карта ворсӧмлӧн прӧстӧй ворсӧм, домино либӧ картаяс бергӧдлыны да ӧткодьсӧ корсьны. Ворсӧдлӧй кыпыдтӧг да эновтӧй лыдпасъяс лыддьӧмсӧ.
+6. **Музыка.** Сылысь дас кык да кызь арӧс кадся сьыланкывъяс, радейтіс группа либӧ кывбур. Видзӧдлӧй миян [музыка уджторъяс йылы гижӧд](/activities/music/).
+7. **Пӧжан да гриль.** Овӧшшӧс миссьыны, соус ворошитны, котлет вӧчны либӧ висьтавны, кыдзи сійӧ вӧліс ассьыс тӧдана чили, кор ті сійӧс пӧжаланныд.
+8. **Газет.** Alzheimer's Association пасйӧ, морт кӧ пыр лыддис газет, сійӧ вермас ӧні на радейтны сійӧс лыддьыны, ставсӧ гӧгӧрвоӧмтӧг на. Кофей да газет вермасны лоны асывся рутинаын.
+9. **Стройӧм.** Ыджыд юкӧнъя модель наборъяс либӧ прӧстӧй конструкторъяс ыджыд мортлы. Бӧрйӧй юкӧнъяс, кодъяс кокниа кутны.
+10. **Кодкӧ видзӧм.** Пемӧс вердны, лэбач пӧткаӧ сёян пуктыны либӧ быдмӧгъяс ваӧн юкны. NIA лыддьӧ [пемӧс вердӧм, сӧстмӧдӧм либӧ гуляйтӧм](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) уджторъяс пӧвстын, кодъяс йӧзлы вермасны лоны нимкодьӧсь.
 
-## How do I offer an activity without it feeling like busywork?
+## Кыдзи вӧзйыны уджторсӧ, медым сійӧ эз ло тшӧтшкӧма удж кодь?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Висьтавӧй, мый тайӧ збыль отсӧг. Alzheimer's Association вӧзъйӧ юавны: «Верман-ӧ тэ меным отсавны?» да йитны уджсӧ могкӧд. Ордчӧдӧй:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Тэ кӧсъян-ӧ тайӧ болтъяссӧ сортировайтны?» (кылӧ видлалӧм кодь)
+- «Ме ньӧбис гудралӧм инструмент мешӧк, да колӧ найӧс сортировайтны водзджык, кор полка бурмӧда. Верман-ӧ отсавны?» (кылӧ збыль удж кодь)
 
-Other tips:
+Мукӧд отсӧгторъяс:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Вӧдитчӧй ыджыд мортлы лӧсялана торъясӧн.** Збыль инструментъяс, кодъяслысь лека вежӧссӧ чышкалӧма, збыль каталогъяс, збыль конвертъяс.
+- **Уджалӧй орччӧн.** Кык морт, кодъяс ӧтлаын уджалӧны, — тайӧ ӧтув. Ӧти морт, коді видзӧдӧ мӧд вылӧ, — тайӧ видзӧдӧм.
+- **Эн бурмӧд.** Болтъяс кӧ лоисны абу сійӧ кружкаын, колӧ кӧть. Медся колана — ӧтлаын кад да ковтӧмлун чуйӧм.
+- **Отсалӧй заводитны.** Alzheimer's Association пасйӧ, уна мортъяслы ӧні на эм кӧсйӧм мыйкӧ вӧчны, но сьӧкыд лӧсьӧдны да заводитны. Вӧчӧй медводдза уджсӧ ӧтлаын.
 
-## How do I adapt as things change?
+## Кыдзи сайынмӧдны, кор вежсьӧмъяс локтӧны?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Деменция кӧ водзӧ мунӧ, Alzheimer's Association вӧзъйӧ лӧсьӧдны прӧстджык да унджыкысь выльмӧдчана уджъяс, да лоны дасьӧн сы вылӧ, мый морт вермас босьтны этшаджык активнӧй пай. Айморт, коді водзын дзонь мотор бурмӧдіс, вермас ӧні радейтны сӧстӧм гаечнӧй ключ кутны да машинаяс йылы сёрнитны, либӧ видзӧдны, кыдзи ті удjalanныд. Видзӧдӧм — тайӧ сідзжӧ пырӧм.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Морт кӧ вӧлі кузя мыйкӧ вӧчын, матын уджтор вермас лоны бурджык, сы понда мый важ удж вермас вайӧдны сьӧкыд чуйӧмъяс. Association пасйӧ, профессионал художник вермас сьӧкыда вежсьӧмъяссӧ аддзыны ассьыс уджын, а любительлы вермас лоны нимкодь выль мог. Сідзжӧ и бур мастер плотниклы.
 
-## Safety with work-style tasks
+## Лӧсьӧдлун удж кодь уджторъясын
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Чышкӧй электрической инструментъяс, лезвиеяс, туйтӧм винтъяс да гвоздъяс.
+- Доддьӧй краска сӧстмӧдантор, бензин да химиятор.
+- Машина ключъяссӧ видзӧй сайӧ, морт кӧ нин оз ветлы машинаӧн.
+- Пыр видзӧдлӧй мастерскӧйын да сад йын удж кадын.
+- Бӧрйӧй ыджыд торъяс, кодъяс оз позь ньылавны.
 
-## What if he says no?
+## Мый вӧчны, сійӧ кӧ шуӧ «ог»?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Бур воӧй тайӧс. «Ог» вермас висьтавны, мый уджыс вывті сьӧкыд, вывті посни кодь либӧ сӧмын лӧсявтӧм талун. Alzheimer's Association вӧзъйӧ оз вынсьӧдны. Видлӧй мӧд уджтор, мӧд кад, либӧ сӧмын пукалӧй орччӧн. Видзӧдлӧй [мый вӧчны, кор сійӧ шуӧ «ог»](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Ворсӧмъяс да сёрни, кодъяс лӧсялӧны
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) вӧдитчӧ тӧдана кывтэчасъясӧн да восьтӧ сёрни. [Conversation Cards](/games/conversation-cards/)-ын эм тема серти восьса юалӧмъяс видлалӧмтӧг, кодъяс вермасны восьтыны висьтъяс удж да интересъяс йылы. [Picture Puzzle](/games/picture-puzzle/) видзӧ став серпассӧ син водзын, кор ті юклӧнъяссӧ вежанныд, а ыджыд шрифтӧн [Word Search](/games/word-search/) позьӧ печатайтны да вӧчны ручкаӧн пызанвыв дорын. Кыдзи сёрнитны сылысь важ кад йылы видлалӧмтӧг, видзӧдлӧй миян [казьтылӧм йылы гижӧд](/activities/reminiscence/).

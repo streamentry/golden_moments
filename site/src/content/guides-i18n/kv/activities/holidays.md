@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Гажлунъя уджъяс деменцияӧн олысь мортлы"
+seoTitle: "Гажлунъя уджъяс деменцияӧн олысь мортлы"
+description: "Прӧстӧй гажлунъя уджъяс деменцияӧн олысь мортлы: пӧжанін, мичмӧдӧм, сьыланкыв, серпасъяс да видеошызьӧдӧм. Кыдзи лӧсьӧдны рӧх гажлун."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Вӧчӧй гажлунъяс дженьыдджыкӧн, асыв водзын да матӧ мортлӧн кад сайын
+  оланног дорӧ. Сетӧй сылы збыль, лёк риска абу удж: пызан вылӧ лӧсьӧдны,
+  град выв пуктасъяс мыссьыны, козинӧм вӧчны либӧ мичаӧдӧм ӧшӧдны.
+  Юксьӧй тӧдса сьыланкывъясӧн да важ серпасъясӧн, водзвыв тӧдмӧдӧй гӧсьтъяслы,
+  да лӧсьӧдӧй лӧнь места. Вӧчӧй сӧмын сы мында, кыдзи ті верманныд буретш вӧчны;
+  дженьыд, рӧх гажлун — бур гажлун.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Гажлун вӧчӧй асыв водзын, шуам, сёйӧн либӧ асывъя сёйӧн, кор рытын вежӧртӧмлун тшӧкыда лоӧ."
+  - "Сетӧй збыль удж: пызан вылӧ лӧсьӧдны, пуктасъяс мыссьыны, козинӧм вӧчны, мичаӧдны либӧ кампет вылӧ торт лӧсьӧдны."
+  - "Тӧдса сьыланкывъяс, гажлунъя сьыланкывъяс да важ серпас альбомъяс — кокни ногъяс гажлунӧн юксьыны."
+  - "Водзвыв висьталӧй гӧсьтъяслы, мый вермас лоны, да петкӧдлӧй мортлы серпасъяс, кодіыс локтас."
+  - "Лӧсьӧдӧй лӧнь жыр, кӧні эм радейтана шарпида либӧ паськӧм, да видзӧй, медым гӧсьтъяс волыны этшаджыкӧн."
+  - "Эновтчӧй ставысь, мый вермас вывті уна сьӧкыд лоны, шуам, сёян кодь мичаӧдӧмъясысь да уна югъялӥсь биъяссянь."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Мый вермас вӧчны деменцияӧн олысь морт Шоча лыддьысян лунӧ?"
+    a: "Сетӧй сылы прӧстӧй да лӧк риска абу удж, коді лӧсялӧ сылы талун: пуктасъяс мыссьыны, клюква соус сорлавны, пызан вылӧ лӧсьӧдны, салфетка дӧрӧмавны либӧ кампетъяс вылӧ тортъяс пукавны. Сы бӧрын позьӧ видзӧдлыны важ семейной серпасъяс либӧ сьылыны тӧдса сьыланкывъяс ӧтлаын. Лунӧ пай пуктӧм сідз жӧ ыджыд, кыдзи и уджлӧн результат."
+  - q: "Колӧ-ӧ вӧчны ыджыд семейной чукӧртчӧм?"
+    a: "Сӧмын сійӧ дырйи, кор позьӧ буретш вӧчны. Уна йӧз да шы вӧліны вермасны вывті сьӧкыдӧн, сійӧн уна семьяяс вӧчӧны ичӧтджык, прӧстӧйджык чукӧртчӧм, водзджык сёйӧм либӧ кор гӧсьтъяс локтӧны ичӧт чукӧръясӧн. Alzheimer’s Association юалӧ видзӧдысьяслы вӧчны сӧмын сы мында, мый позьӧ буретш да лӧк риска абу ногӧн."
+  - q: "Кыдзи дасьтыны котыртӧ, кодъяс дырӧн эз волывлыны?"
+    a: "Висьталӧй найӧлы водзвыв, мый вежсьӧмъяс вермасны лоны, да мый тайӧ петӧ висьӧмысь, абу мортысь. Корӧй найӧс оз веськӧдлыны да оз юавлыны, сёрнитны ӧтиӧн, сетны кад вочавидзны. Водзвыв гӧсьтъяслӧн серпасъяс петкӧдӧм сідз жӧ вермас отсавны."
+  - q: "Кутшӧм козинъяс лӧсялӧны деменцияӧн олысь мортлы?"
+    a: "Прӧстӧй да лӧк риска абу торъяс, кодъясӧн позьӧ ӧні нимкодь вӧчны: радейтана сёян, небыд шарпида либӧ паськӧм, тӧдса сьыланкывъяс либӧ семья серпасъяса альбом. Эновтчӧй сьӧкыд электроннӧй приборъясысь, инструментъясысь да сьӧкыд ворсӧмъяссянь. Сійӧ, кор морт отсалӧ козин сетны, шуам, козинӧм вӧчӧ либӧ печенньӧ гудравлӧ, сідз жӧ вермас лоны бур козин."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Гажлунъяс вермасны бӧр вайӧдны шоныд казьтылӧмъяс, но вермасны вайны шы, уна йӧз да кад сайын оланног вежсьӧм. Деменцияӧн олысь мортлы медбур гажлунъяс ӧттшӧтш лоӧны ичӧтджыкӧн, ньӧжйӧникӧн да лӧсьӧдӧмаӧн сы пытшкӧ, мый сійӧ вермас водзӧ нин нимкодь вӧчны. Тайӧ иньдӧдъяс лӧсялӧны Шоча лыддьысян, Рӧштво, Ханука, Выль во да чужан лунъяслы.
 
-## How do I plan a calmer holiday?
+## Кыдзи лӧсьӧдны рӧхджык гажлун?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Заводитӧй мортлӧн кад сайын оланногысь да лӧсьӧдӧй лунсӧ сы серти. [Alzheimer’s Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) иньдӧ гажлун вӧчны асыв водзын, сы понда мый рытын да сёрӧнын вежӧртӧмлун да лӧньтчытӧмлун тшӧкыда содӧны (сійӧс коркӧ шуӧны «рытнас лӧньтчытӧмлунӧн»). Гажлунъя лун шӧрын сёйӧм либӧ асывъя сёйӧм вермас лоны кокниджык рытын сёйӧмысь.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Видзӧй бур ыджда.** Ичӧтджык, прӧстӧйджык чукӧртчӧм либӧ гӧсьтъяс, кодъяс локтӧны этшаджыкӧн, тшӧкыда кокниджыкӧсь ӧти тыр пызан йылысь.
+- **Юклӧй уджъяс.** Корӧй роднӧйясӧс вайны сёян, ньӧбны магазинӧ либӧ ковмыны морткӧд, дыр кежлӧ ті пӧранныд. Висьталӧй стӧча, мый отсалас.
+- **Видзӧй мичаӧдӧмсӧ прӧстӧйӧн.** [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/holidays) пасйӧ, мый югъялӥсь биъяс вермасны вежӧртӧм лоны, а конфетъяс либӧ искусственной пуктасъяс, мичаӧдӧм вылӧ пуктӧмъяс, вермасны лоны сёянӧн вежӧртӧмаӧсь.
+- **Шуӧй, мый кольны.** Тіян кӧ сяммыны мыйкӧ вӧчны, коді лои сьӧкыд либӧ лӧк рискаа, бур кольны сійӧс либӧ видлыны рӧхджык ног.
 
-## What holiday activities can we do together?
+## Кутшӧм гажлунъя уджъяс позьӧ вӧчны ӧтлаын?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Бӧрйӧй уджъяс да заниманньӧяс, кодъяс лӧсялӧны сы вылӧ, мый морт вермас вӧчны талун. Лунӧ пай пуктӧм сідз жӧ ыджыд, кыдзи и сійӧ, кыдзи ставыс артмас.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Лӧсьӧдӧй пызан вылӧ ӧтлаын.** Медводз пуктӧй тасьтӥяс, сэсся салфеткаяс, сэсся юантор. Салфетка дӧрӧмавӧм — бур удж, коді позьӧ вӧчны пукавлӧмӧн.
+2. **Мыссьӧй да видлалӧй пуктасъяс.** Картупель мыссьӧм либӧ фасоль лёкмӧдӧм пызан сайын лоӧ лӧк риска абу да тӧдса удж уна мортлы, кодъяс водзын пӧралісны.
+3. **Сорлалӧй, гудралӧй либӧ лӧсьӧдӧй тасьтӥ вылӧ.** Клюква соус сорлалӧм, прӧстӧй нянь гудралӧм либӧ печенньӧ тасьтӥ вылӧ пуктӧм видзӧ киъясӧс уджӧн ылын плитаысь да пуртысь.
+4. **Вӧчӧй козинӧм.** Водзвыв вундышта кабала да скотч, да сет мортлы дӧрӧмавны да чышкыны. Оз ков, медым козинӧм вӧлі стӧча мича.
+5. **Ӧшӧдӧй нечкӧн мичаӧдӧмъяс.** Бӧрйӧй абу жугласьӥсь игрушкаяс да ӧти ичӧт места, шуам, венок либӧ ичӧт пу.
+6. **Вӧчӧй прӧстӧй киӧн вӧчӧмтор.** Кабала чепъяс, коръясысь коллаж либӧ гажлунъя открытка штампъясӧн бур уджалӧны. Унджык иньдӧдъяс эм миян [киӧн вӧчӧм уджъяс йылысь юӧрын](/activities/arts-and-crafts/).
+7. **Сьылӧй да кывзӧй.** Тӧдса гажлунъя сьыланкывъясӧс кокни пыртны сьылӧмӧ, сійӧ мортлы тшӧтш, коді ӧні этшаджык сёрнитӧ. Видзӧдӧй миян [сьыланкыв йылысь юӧр](/activities/music/), медым лӧсьӧдны лыддьӧг.
+8. **Видзӧдлӧй важ гажлунъя серпасъяс.** Лепытӧй важ гажлунъяссянь альбомъяс да корӧй висьтавны (шуам, «Висьтавӧй тайӧ пызан йылысь»), оз юавлыны, коді кӧні. Миян [казьтылӧмъяс йылысь юӧр](/activities/reminiscence/) висьталӧ, кыдзи тайӧ вӧчны.
+9. **Ворсӧй ньӧжйӧ ворсӧмӧн.** [Серпаса бинго](/games/picture-bingo/) позьӧ пыр мында лист бокысь печатайтны, сійӧ лӧсялӧ став арлыда йӧзлы, а [сёрнитан карточкаяс](/games/conversation-cards/) сетӧны ставлыс сёрнитан тема.
+10. **Мичмӧдӧй ӧтлаын.** Прӧстӧй [мичмӧдан лист бокъяс](/games/coloring/) позьӧ печатайтны, медым челядь да ыджыд йӧз вӧчисны ӧтлаын пызан сайын.
+11. **Видзӧдӧй радейтана гажлунъя фильм.** Тӧдса фильм сетӧ шойччӧм, да бур видзӧдны сійӧс сӧмын торйӧн.
+12. **Ветлӧй дженьыдик машинаӧн, видзӧдлыны биъяс.** Лӧнь ветлӧм мичаӧдӧма керкаяс орччӧн вермас лоны кокниджык уна йӧза ыбанысь.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Мортлы кӧ пӧжӧм вӧлі ыджыд места оланын, миян [ӧтувъя уджъяс йылысь юӧрын](/activities/household-tasks/) эм унджык ног, кыдзи пӧжанін уджъяс вӧчны лӧк риска абуӧн да нимкодьӧн.
 
-## How do I prepare guests?
+## Кыдзи дасьтыны гӧсьтъясӧс?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Висьталӧй гӧсьтъяслы, мый вермас лоны, водзвыв найӧ локтӧмсьыс, тӧдчана роднӧйяслы, кодъяс дырӧн эз волывлыны. Alzheimer’s Association иньдӧ висьтавны, мый казьтылӧмын да оласын вежсьӧмъяс петӧны висьӧмысь, абу мортысь.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Юклӧй кокни иньдӧдъяс:** сёрнитны ӧтиӧн, сетны кад помавны мӧвп, оз веськӧдлыны да оз юавлыны, да казяланны мортлӧн сёрнисикас вылӧ, кывъяссӧ кӧ сьӧкыд гӧгӧрвоны.
+- **Висьталӧй, мый отсалӧ да мый лӧсьӧдчӧ.** Гӧрд сёрни, тэрмасьӧм либӧ торъя темаяс кӧ лоӧны сьӧкыдӧн, висьталӧй тайӧ йылысь.
+- **Водзвыв тӧдмӧдӧй гӧсьтъясӧс.** Петкӧдлӧй мортлы серпасъяс, кодіыс локтас, да висьталӧй некымын история, либӧ лӧсьӧдӧй дженьыд телефон либӧ видеошызьӧдӧм лун водзын.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Миян [сёрнитан иньдӧдъяс](/caregiving/communication-tips/) пасйӧны тайӧс унджык тӧр.
 
-## What if it gets to be too much?
+## Мый вӧчны, кор лоӧ вывті уна?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Лӧсьӧдӧй лӧнь жыр водзвыв гӧсьтъяс локтӧмсьыс, ылі шыысь, кӧні эм тӧдса нимкодьтор, шуам, радейтана шарпида, паськӧм либӧ прӧстӧй удж. Сетӧй тайӧс водзвыв да тшӧкыда: «Пукасям-ӧ мыйкӧ лӧньджык местаӧ?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Пызанысь петӧм, водзджык узьӧм либӧ лун торйӧн кольӧм — тайӧ бур петӧм, абу омӧль. Морт кӧ лоӧ лӧньтчытӧм, лӧнь сёрни, тӧдса сьыланкыв либӧ ветлӧм мӧд жырӧ тшӧкыда отсалӧны бурджыка эскӧдӧмысь. Миян [рытнас лӧньтчытӧмлун йылысь юӧрын](/caregiving/late-day-restlessness/) эм унджык иньдӧд рытъяс вылӧ.
 
-## How can family far away take part?
+## Кыдзи ылын олысь котыртор вермасны пырӧдчыны?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Видеошызьӧдӧмъяс сетӧны роднӧйяслы пырӧдчыны, оз содтыны йӧз лыд. Alzheimer’s Association иньдӧ сетны шызьӧдӧмлы кутшӧмкӧ план, шуам, сьылыны гажлунъя сьыланкывъяс, юксьыны важ чукӧртчӧм серпасъясӧн, пӧжавны ӧткодь сёян ӧтлаын либӧ видзӧдлыны гажлунъя фильм ӧти кадӧ. Видзӧй шызьӧдӧмъяссӧ дженьыдӧн, да корӧй йӧзӧс сёрнитны ӧтиӧн, сы понда мый уна сёрни гӧгӧрвоны сьӧкыд. Миян [телефон да видеошызьӧдӧм йылысь юӧрын](/activities/phone-and-video-calls/) эм торъя иньдӧдъяс.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Морт кӧ олӧ казьтылӧм видзанінын, тӧдмалӧй волан правилӧяс да кор уджалысьяслы отсавны шызьӧдӧм лӧсьӧдны. Миян [казьтылӧм видзанінӧ ветлӧм йылысь юӧр](/activities/visiting/) висьталӧ, мый вайны да кыдзи бурӧн мунны.
 
-## What gifts suit someone with dementia?
+## Кутшӧм козинъяс лӧсялӧны деменцияӧн олысь мортлы?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Прӧстӧй да лӧк риска абу козинъяс, кодъясӧн позьӧ нимкодь вӧчны ӧні, тшӧкыда бурджык лӧсялӧны: радейтана сёян, небыд шарпида либӧ кофта, тӧдса сьыланкывъяс, ыджыд шрифтӧн календар либӧ семья серпасъяса альбом. Alzheimer’s Association иньдӧ эновтчыны лӧк рискаа инструментъясысь, сьӧкыд электроннӧй приборъясысь да сьӧкыд ворсӧмъяссянь.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Сетӧм вермас лоны сідз жӧ ыджыд, кыдзи и босьтӧм. Печенньӧ гудравлӧм, коді морт отсаліс вӧчны, либӧ козинӧм вӧчӧм, сетӧ сылы пырны гажлунӧ. Семейной серпаса ворсӧм — мӧд иньдӧд: [серпаса гизьӧм](/games/photo-pairs/) вӧчӧ некымын бӧрйӧм серпасысь ньӧжйӧ гизьӧм ворсӧм браузерын.
 
-## Look after yourself too
+## Видзӧй ачытӧ сідз жӧ
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Гажлунъяс содтӧны удж видзӧдӧмын. Сетӧй мӧдлы лӧсьӧдны чукӧртчӧм либӧ пӧжавны сёян, шуӧй «абу» событиеяс вылӧ, кодъяс лоасны сьӧкыдӧн, да босьтӧй шойччӧм кад, кор мукӧдъяс лоӧны морткӧд. Ті кӧ либӧ тіян видзӧдӧм улын олысь морт кӧ висисьӧ, керка дорысь киӧн вештӧм либӧ видеошызьӧдӧм — сідз жӧ бур волӧм. Миян [видзӧдысьлӧн ас сяма видзӧм йылысь юӧрын](/caregiving/caregiver-self-care/) эм унджык отсӧг.

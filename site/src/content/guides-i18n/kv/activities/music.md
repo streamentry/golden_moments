@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Музыка деменцияӧн олысь йӧзлы"
+seoTitle: "Музыка деменцияӧн олысь йӧзлы: идеяяс"
+description: "Кыдзи ворсӧм вылын музыкаӧн деменцияӧн олысь морткӧд: личнӧй плейлист, 15 прӧстӧй удж да практичнӧй тшӧктӧдъяс став сьӧкыдлун дырйи."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Музыка — деменцияӧн олысь морткӧд ӧтлаын уджавны медпрӧстӧй торъяс пиысь ӧти.
+  Лӧсьӧдӧй личнӧй плейлист сылы том дырся, верысь, культураысь да семейнӧй
+  кадсянь музыкаысь. Ворсӧдӧй сійӧс реклама да мукӧд шытӧг, сьылӧй, вашкӧдӧй
+  киӧн, вӧрзьӧдчӧй либӧ просто ӧтлаын кывзӧй. Бӧрйӧй лӧнь либӧ гажа музыка
+  кад серти, видзӧдлӧй шыыс медым вӧлі шӧр, да дугдӧдӧй, кӧ кытшӧмкӧ кывбур
+  мортӧс вежӧрмӧдӧ.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Медбур уджалӧ личнӧй музыка: сійӧ кывбуръяс, кодъяс мортлы радейтісны том дырйиыс, а сідзжӧ вера, культура да семейнӧй кадпасъяс музыка."
+  - "Ворсӧдӧй ӧти тор ӧтпырйӧ, реклама да телевизор пӧдналӧмтӧг."
+  - "Сьывны, вашкӧдны киӧн, вӧрзьӧдчыны да просто кывзыны — быдӧн вермас пырны уджӧ."
+  - "Лӧнь музыка отсалӧ лӧньӧдны, а гажа — кыпӧдны настроение, да видзӧдлӧй, кыдзи морт сійӧ лыддьӧ."
+  - "Содтӧм музыка уджъяс йылысь туялысь ён тӧдӧм оз на тырвыйӧ; ми вӧзъям музыкаӧн ворсӧмсӧ кыдз гажа ӧтувъя кад, а абу кыдз бурдӧдан ног."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Кутшӧм музыка бурджык деменцияӧн олысь мортлы?"
+    a: "Сійӧ музыка, кодӧс морт тӧдӧ да радейтӧ дыр кад чӧж, тшӧтш дас кӧкъямыс да кызь ӧкмыс арӧса дырся, а сідзжӧ сылыслӧн вера, культура да семейнӧй гажлунъясысь музыка. Позьӧ кӧ, сетӧй сылы аслыс бӧрйыны. Видзӧдлӧй чужӧмсӧ да вӧчӧмсӧ, медым тӧдмавны, мый сылы гажа, да восьтӧй быдтор, мый вежӧрмӧдӧ."
+  - q: "Кӧсйӧ-ӧ вӧдитчыны наушникӧн?"
+    a: "Мукӧд йӧзлы наушник гажӧдӧ, сы вӧсна мый торйӧдӧ шыысь, а мукӧдлы сійӧ неудобнӧй либӧ гӧгӧрвоны позьтӧм. Заводитӧй колонкаӧн, медым вермӧй ӧтлаын кывзыны. Кӧ вӧдитчанныд наушникӧн, видзӧдӧй, медым шыыс вӧлі этша, да лоӧй матын."
+  - q: "Музыка вермас-ӧ отсавны куйӧдчӧм либӧ лэбзӧм дырйи?"
+    a: "Лӧнь, тӧдса музыка вермас отсавны лӧсьӧдны лӧнь кӧлӧм, да Alzheimer’s Association вӧзъӧ вӧдитчыны музыкаӧн сійӧ атмосфера лӧсьӧдӧм понда, кӧда тіянлы колӧ. Сійӧ оз уджав быд кадӧ. Кӧ морт сьӧкыда, видзӧдлӧй сідзжӧ, оз-ӧ доймы, оз-ӧ сійӧ тшыгъя, уна-ӧ шыыс либӧ сійӧ мудзӧма."
+  - q: "Деменция помынся сьӧкыдлун дырйи олысь йӧз вермасны-ӧ на водзӧ нимкодясьны музыкаысь?"
+    a: "Унаӧн вермасны. Alzheimer’s Association пасйӧ, мый помынся сьӧкыдлун дырйи олысь морт вермас на вашкӧдны такт либӧ сьыласны чорыд дырся кывбур. Пукавӧй матын, ворсӧдӧй музыка шӧркыда да кутӧй киысь либӧ вӧрзьӧдчӧй ӧтлаын."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Музыка — тайӧ медпрӧстӧй торъяс пиысь ӧти, мый ті верманныд ворсӧм вылын вӧчны деменцияӧн олысь морткӧд. Сійӧ некодлысь нинӧм оз кор: оз ков веськыд вочавидз, оз ков тӧдны, кыдзи мунны водзӧ. Тӧдса кывбур вермас вайӧдны нимкодь, вашкӧдӧм кокӧн либӧ кымынкӧ кыв сьылӧм, тшӧтшӧ и сэтшӧм лунӧ, кор сёрнитны сьӧкыд. Тіянлы колӧ сӧмын тайӧ мортлы лӧсялана музыка да лӧнь кад, кор сійӧс ворсӧдны.
 
-## What music activities work for people with dementia?
+## Кутшӧм музыка уджъяс уджалӧны деменцияӧн олысь йӧзлы?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Кывзыны, сьыласны, вашкӧдны киӧн, вӧрзьӧдчыны да музыка йылысь сёрнитны — ставыс тайӧ бура уджалӧ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) вӧзъӧ кывзыны музыка, сёрнитны музыка да артист йылысь, сьыласны либӧ йӧктыны тӧдса кывбуръяс вылӧ, а сідзжӧ мунны йитчӧмын концертъяс вылӧ либӧ музыка мероприятиеяс вылӧ. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) содтӧ, мый вӧрзьӧдчӧм, шуам, киӧн вашкӧдӧм либӧ йӧктӧм вермасны содтыны нимкодь, да мый музыка вермас лоны йитчӧдӧм ног, кор кывъясӧн сёрнитны сьӧкыдджык лоӧ.
 
-## How do you build a personal playlist?
+## Кыдзи лӧсьӧдны личнӧй плейлист?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Медбур тор, мый ті верманныд лӧсьӧдны, — тайӧ мортлы донсялана музыкаысь плейлист. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) сідзжӧ торйӧн казялӧ личнӧй донӧн музыкаӧн. Татшӧм прӧстӧй ног, кыдзи сійӧс лӧсьӧдны.
 
-### Start with their life
+### Заводитӧй сылыслӧн олысьысь
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Дас кӧкъямыс да кызь ӧкмыс арӧс.** Казялӧй, мый шыбитіс радиоын, йӧктӧм кадӧ да киноын, кор сійӧ вӧлі том.
+- **Ыджыд кадпасъяс.** Свадьба дырся музыка, медводдза йӧктӧм, семейнӧй туй вылын радейтана альбом.
+- **Вера да культура.** Молитва кывбуръяс, духовнӧй музыка либӧ кывбуръяс сылыслӧн медводдза кывйын.
+- **Удж да служба.** Маршъяс, удж кывбуръяс либӧ армия кадкӧд йитчӧм музыка.
+- **Мый казяланны семьяын.** Юалӧй вокъясысь, чой-чоясысь да важ ыджыд йӧзлысь, мый най пыр ворсӧдісны либӧ сьылісны.
 
-### Think in genres, not just songs
+### Казялӧй жанръясӧ, абу сӧмын кывбуръясӧ
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ті онӧ на тӧдӧй, кытысь заводитны, видлӧй кык-куим минута быд жанрысь да видзӧдлӧй вочавидзӧ: биг-бенд да свинг, ду-воп, Motown да соул, воддза рок-н-ролл, кантри, блюграсс, госпел да молитва кывбуръяс, Бродвей мюзиклъясысь кывбуръяс, джаз стандартъяс, латинӧй музыка (шуам, болеро либӧ мариачи), полька, фольклор да классика музыка. Кольӧй сійӧ, мый вайӧдӧ нимкодь либӧ вашкӧдӧм кокӧн, да восьтӧй сійӧ, мый вайӧдӧ омӧль чужӧм.
 
-### Make it easy to play
+### Лӧсьӧдӧй, медым вӧлі кокни ворсӧдны
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Рекламатӧг.** Alzheimer’s Association тӧдмӧдӧ, мый реклама вермас гӧгӧрвотӧм лӧсьӧдны. Вӧдитчӧй пыртӧм музыкаӧн, CD-ӧн, пластинкаӧн либӧ реклама абу сервисӧн.
+- **Ӧти прӧстӧй устройство.** Колонка ӧти ыджыд кнопкаӧн либӧ дась плейлист, медым быдӧн вермис заводитны.
+- **Кык дженьыд лыддьӧг.** Ӧти лӧнь лыддьӧг лӧньӧдӧм понда, мӧд гажа — настроение кыпӧдӧм понда.
+- **Пасйӧй.** Гижӧй устройство вылын мортлӧн нимсӧ да «радейтана музыка», медым локтысь семья да видзчысьяс тӧждысь вермисны вӧдитчыны.
 
-## 15 music activities to try
+## 15 музыка удж, кодъясӧн позьӧ видлыны
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Ӧтлаын кывзыны.** Пукавӧй орччӧн, мукӧдтор вӧчытӧг. Кывзӧм — тырвыйӧ удж.
+2. **Ӧтлаын сьыласны.** Заводитӧй сьыласны асныд. Вӧжгывтӧм либӧ кывъяс вомӧн вӧчӧм сідзжӧ лоӧ.
+3. **Вашкӧдны киӧн либӧ такт.** Вашкӧдӧй пидзӧс вылӧ, пызан вылӧ либӧ вӧдитчӧй ичӧт барабанӧн.
+4. **Вӧрзьӧдчыны шӧркыда.** Кутчӧй киясысь да вӧрзьӧдчӧй кухняын либӧ пуктанінӧн, вӧрзьӧдӧй киӧн.
+5. **Платокӧн вӧрзьӧдчӧм.** Веськӧдӧй шуйга платокъяс музыка серти, сулавны либӧ пукавны верманныд.
+6. **Сёрнитны музыка йылысь.** Корӧй, а эн видлӧй: «Тайӧ гӧгӧрвоӧ йӧктана залысь. Висьтавӧй йӧктӧм йылысь». Энӧ шуӧй: «Ті казяланныд-ӧ тайӧ кывбурсӧ?»
+7. **Кывзыны став альбомсӧ.** Ворсӧдӧй сылы радейтана пластинка заводитчӧмысь помасьӧмӧдз, кофей юӧмӧн.
+8. **Видзӧдны альбом обложкаясӧ.** Важ пластинка обложкаяс отсалӧны сёрнитны паськӧм, машина да чужӧм йылысь.
+9. **Видзӧдны мюзикл.** Сылы кадся мюзикл либӧ концерт видеоын бур рыт лоӧ. Дугдӧдӧй шоччыштӧм понда.
+10. **Ворсӧдны тӧдса инструмент.** Водзын пианино либӧ гитара ворсысь мортлы вермас лоны нимкодь прӧстӧй ворсӧм. Бӧрын кымынкӧ звук ӧтлаын корсьӧм сідзжӧ тырмас.
+11. **Музыка удж дырйи.** Ворсӧдӧй радейтана кывбуръяс, кор дозмӧранныд паськӧм либӧ лӧсьӧданныд пызан.
+12. **Асывся кывбур.** Быд лун заводитӧй ӧти жӧ гажа кывбурӧн, кыдз кадколастлӧн юкӧн.
+13. **Сьыласны молитва либӧ духовнӧй кывбуръяс.** Ворсӧдӧй сылыслӧн вераысь музыка да сьылӧй ӧтлаын.
+14. **Пырны сьылан котырӧ.** NHS висьталӧ сьылан котыръяс йылысь кыдз настроение да бур олысь-быдмӧм понда бур тор. Юалӧй ас йитчӧмын деменцияӧн олысь йӧзлы лӧсьӧдӧм хоръяс йылысь.
+15. **Мунны ловъя музыка вылӧ.** Дженьыд йитчӧмын концерт либӧ уличнӧй оркестр. Пукасьӧй петанін дорын да петӧй, кор кӧсъянныд.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Кӧ кӧсъянныд прӧстӧй кывйын ворсӧм тӧдса шуӧмъясӧн, видлӧй [помалӧй шуӧмсӧ](/games/finish-the-saying/), кӧні позьӧ пыр казявны помсӧ.
 
-## Matching music to the moment
+## Кыдзи лӧсьӧдны музыка кад серти
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer’s Association вӧзъӧ вӧдитчыны музыкаӧн тіянлы колана настроение лӧсьӧдӧм понда: лӧнь музыка лӧнь кӧлӧм понда, а том дырся гажа кывбур — настроение кыпӧдӧм понда.
 
-| Moment | Try | Tip |
+| Кад | Мый видлыны | Тшӧктӧд |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Чеччӧм | Тӧдса, гажа кывбур | Быд асывнас ӧти жӧ кывбур вермас лоны шӧр тӧдмӧдантор |
+| Гортса удж | Гажа радейтана кывбуръяс | Музыка вермас уджсӧ вӧчны йитчӧдӧмӧн |
+| Сёян | Шӧр инструментальнӧй музыка | Вӧдитӧй сійӧс шӧркыда, медым эз мешайт сёянӧн |
+| Рытын водзӧ | Лӧнь, тӧдса музыка бур югӧрын | Видзӧд [рытын водзӧ куйӧдчӧм](/caregiving/late-day-restlessness/) |
+| Узьысь лун | Вӧрзьӧдчытӧм, шӧр музыка | Чинтыштӧй шы да югӧр ӧтпырйӧ |
+| Помынся сьӧкыдлун | Медрадейтана кывбуръяс вывті шӧркыда | Пукасьӧй матын да кутӧй киысь |
 
-## Tips for a good experience
+## Тшӧктӧдъяс бур ворсӧм понда
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Кусӧдӧй мукӧд шы.** Alzheimer’s Association вӧзъӧ пӧдлавны ӧшинь да ӧдзӧсъяс да кусӧдны телевизор, медым музыка вӧлі сӧмын ӧти шы.
+- **Видзӧдӧй, медым шыыс вӧлі шӧр.** Музыкаыслы колӧ лоны удобнӧй, а абу гора. Кӧ морт вӧдитчӧ кывзысян приборӧн, видзӧдлӧй, медым сійӧ вӧлі пуктӧма да уджавіс; видзӧд [кывзӧм](/brain-health/hearing/).
+- **Казялӧй шогъя йитӧдъяс.** Мукӧд кывбуръяс вермасны вайӧдны шог, тыш либӧ вошӧм казьтылӧм. Кӧ кывбур мортӧс вежӧрмӧдӧ, сетӧй отсӧг да вежӧй сійӧс.
+- **Сетӧй сылы нуӧдны.** Позьӧ кӧ, сетӧй мортлы аслыс бӧрйыны музыка, да лыддьӧй сійӧс «оз» вочавидзсӧ.
+- **Дугдӧдӧй кӧть кор.** Вит минута музыка — бур удж. Бур сідзжӧ кусӧдны сійӧс да пукавны лӧнь.
 
-## What does the research say about music and dementia?
+## Мый туялысь висьталӧ музыка да деменция йылысь?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
-
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Тӧдӧмыс абу на тырвыйӧ. [2025 вося Cochrane видлалӧм](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) видзӧдіс 30 туялӧм, кӧні вӧліны содтӧм музыка уджъяс, унджыкысь котыръясӧн оланінъясын. Сійӧ аддзис, мый татшӧм уджъяс вермасны ичӧтик чинтыны шоглун туйӧ вӧчӧмкӧд орччӧдӧмын, но оз аддзӧ бура казьтылӧм куйӧдчӧм, бур олысь-быдмӧм либӧ казьтылӧм да память вылӧ, да уджъяс помасьӧм бӧрын торъя бурлун оз коль.
+ 
+Ми ворсӧм вылын вӧдитчам музыкаӧн, сы вӧсна мый тайӧ гажа да прӧстӧй ног ӧтлаын кад колльӧдны, а абу кыдз бурдӧдан ног. Котырӧн удж йылысь видзӧд [видзӧданінысь котырӧн уджъяс](/activities/care-home-groups/); кыдзи вӧдитчыны музыкаӧн серпасъяс да висьтъяскӧд, видзӧд [касьтылӧм уджъяс](/activities/reminiscence/).

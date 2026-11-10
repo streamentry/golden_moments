@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Позь-ӧ видзны деменцияысь? Тӧдмалӧмтор"
+seoTitle: "Позь-ӧ видзны деменцияысь? Тӧдмалӧмтор"
+description: "Мый аддзисны 2024 воын Lancet комиссия да ыджыд тӧдмалӧмъяс деменция риск чинтыны йылысь, мый оз аддзисны, да мый йылысь сёрнитны врачкӧд."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Некод оз вермы кӧсйыны, мый деменцияысь позьӧ дзикӧдз видзны. 2024 воын
+  Lancet комиссия лыддьӧма, мый му вылын деменция случайяс пиысь гӧгӧр джынйыс
+  йитчӧма 14 вежны позян риск факторыскӧд, шуам, ыджыд вир курччӧм, кывзӧм
+  вошӧм да ветлӧдлӧмтӧг овмӧдӧм. Тӧдмалӧмъяс петкӧдлісны, мый думайтан тестъясын
+  вежсьӧмъяс ичӧтикӧсь, но тайӧ оз на петкӧдлы, мый деменция случайяс чинӧны.
+  Унаӧн, коді олас бур ладорӧн, сідзкӧ на вермас деменция артмыны, да тайӧ некодлы
+  мыж абу.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 воын Lancet комиссия шуис, мый му вылын деменция случайяс пиысь гӧгӧр 45 % йитчӧма 14 вежны позян риск факторыскӧд. Тайӧ став йӧзлы лыддьӧм, абу аслысь гарантия."
+  - "Риск чинтыны — сійӧ став йӧз костын вермӧмсӧ чинтыны. Тайӧ оз висьтав, мый ӧти торъя морт вермас деменцияысь видзны ассьыс."
+  - "Ыджыд тӧдмалӧмъяс, шуам FINGER, US POINTER да SPRINT MIND, аддзисны ичӧтик бурлун думайтан тестъясын либӧ лёгкӧй когнитивнӧй ослаблениеын, но некоді эз петкӧдлы, мый оланног программа вермӧ деменцияысь видзны."
+  - "Альцгеймер висьӧмлӧн медтӧдса риск фактор — арлыд, сійӧс вежны оз позь. Уна морт, коді олас бур ладорӧн, сідзкӧ на вермас деменцияӧн овны."
+  - "Медсянь тӧдмалӧм уджъяс, шуам ыджыд вир курччӧм бурмӧдӧм, кывзан приборӧн вӧдитчӧм да уджъёр оланног, колӧ видлавны врачкӧд, сы вӧсна мый найӧ отсалӧны мукӧдладорсянь дзоньвидзалунлы тшӧтш."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Позь-ӧ деменцияысь видзны?"
+    a: "Некодлы оз тӧдчысь збыль ног, кыдзи деменцияысь видзны. Тӧдмалӧмъяс петкӧдлӧны, мый мукӧд рисксӧ чинтӧм, шуам ыджыд вир курччӧм, бурмӧдтӧм кывзӧм вошӧм либӧ тшынӧм, вермас став йӧз костын деменция риск чинтыны либӧ сійӧс водзӧ сёрмӧдны. Тайӧ вермӧмтор, абу кӧсйӧм."
+  - q: "Мый висьтавны Lancet комиссиялӧн 45 % лыдпас?"
+    a: "2024 воын Lancet комиссия лыддьӧма, мый му вылын деменция случайяс пиысь гӧгӧр 45 % йитчӧма 14 риск факторыскӧд, кодъяссӧ, тӧдӧм серти, позьӧ вежны. Лыддьӧмыс висьтавӧ, мый тайӧ факторъяс вермасны лоны деменция помкаӧн, но гижысьяс шуӧны, мый мукӧд йитчӧмъяс вермасны лоны дзик ставнас абу помкаӧн. Тайӧ лыдпас став йӧз йылысь, абу ӧти мортлӧн аслыспӧлӧслун йылысь."
+  - q: "Ме бать-мамӧй оліс бур оланногӧн, но мыйла сылы артмис деменция?"
+    a: "Арлыд, генъяс да уна мукӧд фактор, кодъяс вылӧ морт оз вермы веськӧдлыны, ыджыд пай босьтӧны деменцияын. Lancet комиссиялӧн гижысьяс шуӧны, мый став йӧзлы риск чинтӧм оз сет торъя мортлы гарантия, мый сылы деменция оз артмы. Диагноз — тайӧ оз висьтав, мый кодкӧ эз уджав бурӧн."
+  - q: "65 арӧс бӧрын сёр нин-ӧ деменция риск чинтыны?"
+    a: "Lancet комиссия шуӧ, мый риск чинтыны некор оз вывти водз да оз вывти сёр, кӧть унджык тӧдӧмтор йитчӧма шӧр арлыдӧн. Кывзӧм да синмӧн аддзӧм бурмӧдӧм, уджъёр овмӧдӧм да йӧзкӧд йитчӧм — тайӧ сёр арлыдын тӧдмалӧм примеръяс. Сёрнитӧй врачкӧд, мый лоас бур тіян дзоньвидзалунлы."
+  - q: "Юӧр велӧдан ворсанъяс либӧ торъя сёян-юан позьӧ-ӧ деменцияысь видзны?"
+    a: "Некутшӧм ворсан, сёян, добавка либӧ сёянног эз тӧдчылӧ, мый позьӧ деменцияысь видзны. MIND сёянног йылысь куим вося тӧдмалӧмын эз аддзыны ыджыд торъялӧм думайтӧмын контрольнӧй сёянногкӧд орччӧдӧмын, а коммерческӧй юӧр велӧдан программаяс эз петкӧдлы тӧдмалӧмъясын аддзӧм бурсӧ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,129 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ті кӧ видзӧданныд деменцияӧн олӧм мортӧс либӧ аддзылінныд, кыдзи бать-мамӧй оліс тайӧ висьӧмӧн, вермас лоны, ті юалінныд, позьӧ вӧлі-ӧ сыысь видзны, да позьӧ-ӧ видзны ассьыным. Тайӧ лист бокын ми висьталам, мый тӧдмалӧмъяс збыльыс шуӧны, гӧгӧрвоана кывйӧн. Дженьыдик вочакыв: некодлы оз позь кӧсйыны, мый деменцияысь дзикӧдз видзны позьӧ, но тӧдмалӧмъяс петкӧдлӧны, мый мукӧд рисксӧ вермас лоны чинтыны, а став йӧзлы риск чинтӧмыс вермас вӧчны сійӧн, мый этшаджык йӧзлы артмас деменция либӧ сійӧ артмас сёрӧнджык.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Тайӧ ӧтувъя юӧр, абу врач отсӧг. Корам лыддьыны миян [медицинскӧй эновтчӧм](/medical-disclaimer/) да сёрнитны врачкӧд ас дзоньвидзалун йылысь.
 
-## Can dementia be prevented?
+## Позь-ӧ деменцияысь видзны?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Некодлы оз тӧдчысь збыль ног, кыдзи деменцияысь видзны. National Institute on Aging (NIA) шуӧ, мый кӧть [некутшӧмтор эз тӧдчылӧ, мый позьӧ Альцгеймер висьӧмысь видзны](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), тӧдмалысьяс аддзӧны бур туйяс да велӧдчӧны, мый вермас отсавны да мый оз.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Тӧдмалӧмъяс петкӧдлӧны мӧдтор: мукӧд дзоньвидзалун сьӧктам да оланног ладор йитчӧма ыджыдджык деменция рискӧн. Кор став йӧз костын тайӧ рисксӧ чинтӧны, вермас лоны, мый этшаджык йӧзлы артмас деменция либӧ сійӧ артмас сёрджык оланын. Тайӧ абу дзикӧдз гарантия.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Ловъя висьтавтор: 2024 воын Lancet комиссия висьтавліс, мый мукӧд озыр странаын, шуам АСШ-ын да Великобританияын, арлыда йӧз костын деменцияӧн олӧмысь пай чинӧма. Гижысьяс шуӧны, мый тайӧ вермас лоны бурджык велӧдчӧм, бурджык медицина отсӧг да олӧм дырйи вир судзъяслы чинӧм вред вӧсна, кыдзи висьтавӧ [University College London-лӧн гӧгӧрвоӧдӧм](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Мый аддзис 2024 воын Lancet комиссия?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet комиссия деменцияысь видзӧм, отсӧг да дӧзьӧритӧм йылысь — тайӧ 27 тӧдмалысьысь артмӧм чукӧр, коді быд кӧймӧд во выльысь видлалӧ тӧдмалӧмъяссӧ. 2024 вося отчётас найӧ индісны **14 вежны позян риск фактор** да лыддьӧма, мый найӧ ӧтувтӧмӧн босьтӧны **му вылын деменция случайяс пиысь гӧгӧр джынйӧс (гӧгӧр 45 %)**. Гижысьяс кывйӧн, тайӧ случайяссӧ *теоретическӧя* позьӧ вӧлі видзны либӧ сёрмӧдны, рисксӧ бырӧдӧм кӧ вӧлі
+([2024 вося Lancet комиссия отчёт](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 фактор, юклӧма олан кад серти, кӧні тӧдӧмтор медёна:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Том кад:** этша велӧдчӧм.
+- **Шӧр арлыд (гӧгӧр 40-ысь 65 воӧдз):** кывзӧм вошӧм, ыджыд ЛПНП («лёк») холестерин, депрессия, юр вомӧн лёкмӧдчӧм, уджъёртӧг овмӧдӧм, диабет, тшынӧм, ыджыд вир курччӧм, сылӧн вывті сьӧкта овмӧдӧм да вывті уна юӧм.
+- **Сёр арлыд:** йӧзкӧд йитчытӧм оланног, сынӧд лядз да бурмӧдтӧм синмӧн аддзӧм.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 воын выльысь содісны ыджыд ЛПНП холестерин да бурмӧдтӧм синмӧн аддзӧм. Медыджыд пай босьтісны кывзӧм вошӧм да ыджыд ЛПНП холестерин (быдӧн гӧгӧр 7 %), сылы бӧрын — этша велӧдчӧм да йӧзкӧд йитчытӧм оланног (быдӧн гӧгӧр 5 %).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Миян [риск факторъяс йылысь юӧр](/brain-health/risk-factors/) висьталӧ став 14 йылысь таблицаын, мый тӧдмалӧмъяс йитӧны да мый позьӧ вӧчны.
 
-### What the 45% figure does not mean
+### Мый 45 % лыдпас оз висьтав
 
-It is easy to misread this number, so it helps to be precise:
+Тайӧ лыдпасӧ позьӧ абу бурӧн гӧгӧрвоны, сійӧн колӧ бура висьтавны:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Тайӧ став йӧзлы лыддьӧм.** Сійӧ висьтавӧ му вылын деменция случайяс йылысь, абу тіян либӧ тіян бать-мамлӧн аслыспӧлӧслун йылысь.
+- **Сійӧ висьтавӧ помка да вежӧртас йылысь.** Гижысьяс шуӧны, мый найӧ босьтісны сӧмын ён тӧдӧма риск факторъяс, но мукӧд йитчӧмъяс вермасны лоны дзик ставнас абу помкаӧн. Шуам, сёр арлыдын депрессия вермас лоны мукӧддырйиыс деменциялӧн водзвыв кадпас, абу помка.
+- **Тайӧ оз сет гарантия ӧти мортлы.** UCL-лӧн гӧгӧрвоӧдын висьталӧма, мый риск чинтӧм уджалӧ став йӧз дорын, но оз кӧсйы некодлы, мый сылы деменция оз артмы.
+- **Мукӧд джынйыс оз висьтавсьы тайӧ факторъясӧн.** Арлыд, генъяс да наукаӧн на гӧгӧрвотӧм помкаяс лоӧны колана пайӧн.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Мый торъялӧм «риск чинтӧм» да «видзӧм» костын?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Риск чинтӧм** висьтавӧ, мый вермӧмсӧ чинтам. Уна мортлӧн чукӧр кӧ чинтӧ ассьыс вир курччӧмсӧ, найӧ пиысь вермас этшаджык мортлы артмыны деменция уна воӧн, кӧ тайӧ эз вӧв. Но тайӧ чукӧрын мукӧдлы сійӧ сідзкӧ на артмас.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Видзӧм** висьтавӧ, мый мыйкӧ оз нин артмы. Деменция кузя талун тӧдмалӧмъяс тайӧс некодлы оз вермыны кӧсйыны.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Тӧдмалысьяс висьталӧны сідзжӧ **сёрмӧдӧм** йылысь. Lancet комиссия шуӧ, мый эм выль тӧдӧмтор, мый риск чинтӧм вермас деменция артмӧмсӧ сёрмӧдны да этшаджык во нинӧм вежны висьӧмӧн. Кӧть кӧймӧд-нан воӧн сёрмӧдӧмыс вермас лоны мортлы да сылӧн гортуловлы зэв колана.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Тайӧ лист бокын ми наросьнӧ вӧдитчам «риск чинтыны» да «йитчӧма» кывъясӧн. Ті кӧ аддзанныд продукт, добавка либӧ программа, коді кӧсйӧ «Альцгеймер висьӧмысь видзны», видзӧдӧй видзчысьӧмӧн. NIA шуӧ, мый Альцгеймер висьӧмысь видзны кӧсйысь кутшӧмкӧ пельӧс либӧ бурмӧдан ног вӧдитчӧм водзӧ колӧ сёрнитны врачкӧд, сы вӧсна мый татшӧмтор вермас лоны лёк, сьӧм весавны весьшӧрӧ либӧ кыкнантор.
 
-## What have large trials found?
+## Мый аддзисны ыджыд тӧдмалӧмъяс?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Видзӧдан тӧдмалӧмъяс (коді видзӧдӧны, мый артмӧ йӧзкӧд кадколастын) вермасны петкӧдлы йитчӧмъяс. Рандомизируйтӧм тӧдмалӧмъяс, кӧні йӧзӧс босьтӧны программаӧ либӧ орччӧдан чукӧрӧ ӧткодь вермӧмӧн, сетӧны ёнджык петкӧдлас. Вот мый аддзисны мукӧд тӧдса тӧдмалӧмъяс.
 
-### FINGER (Finland)
+### FINGER (Финляндия)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER тӧдмалӧмын пырисны 1260 морт, 60-ысь 77 воӧдз, коді вӧліны деменцияыд ыджыдджык рискын. Джынйыс босьтіс кык вося программа: сёянног йылысь велӧдӧм, уджъёр, компьютер юӧр велӧдан ворсанъяс да сьӧлӧм-вир судз дзоньвидзалун видлалӧм; мукӧд джынйыс босьтіс ӧтувъя дзоньвидзалун йылысь велӧдӧм. Программа чукӧрын йӧз ичӧтик бурджыка вӧчисны думайтан тестъясын, ичӧтик, но статистическӧя аддзана торъялӧм
+([FINGER тӧдмалӧм The Lancet-ын](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Тӧдмалӧмыс видліс тест результатъяс, абу деменция диагнозъяс.
 
-### US POINTER (United States)
+### US POINTER (АСШ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER тӧдмалӧмын пырисны 2111 морт, 60-ысь 79 воӧдз, коді этша ветлісны, сёйисны абу дзик бура да налӧн вӧлі мукӧд риск фактор. Кыкнан чукӧрсӧ вердӧмаӧсь ыджыдджыка уджавны ловйӧн да юӧрӧн, бура сёйны, йӧзкӧд йитчыны да видзны сьӧлӧм-вир судз дзоньвидзалун. Ӧти чукӧр босьтіс планируйтӧм, велӧдысь отсӧгӧн программа; мӧдыс веськӧдчис асмознас. Кык воӧн думайтан тестъяс результатъяс бурмӧмаӧсь **кыкнан** чукӧрын, ичӧтик бурджыка планируйтӧм чукӧрын
+([US POINTER тӧдмалӧм JAMA-ын](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Гижысьяс шуӧны, мый колӧ водзӧ видзӧдны, медым тӧдны, тайӧ торъялӧмыс быдлунъя оланын торъя-ӧ. Сы вӧсна мый эз вӧв «некутшӧм оз вӧчны» чукӧр, тӧдмалӧмыс оз вермы висьтавны, кымын отсаліс быд программа дзик вежтӧг овмӧдӧмкӧд орччӧдӧмын.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (вир курччӧм)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND тӧдмалӧмын видлісны 9361 АСШ-ын олӧм 50 да унджык арӧса мортӧс, коді вӧлі ыджыд вир курччӧмӧн. Найӧс юклӧмаӧсь этшаджык вир курччӧм могмӧдӧм вылӧ (вылыс лыдпас 120 улысь) либӧ шӧркодь могмӧдӧм вылӧ (140 улысь). Этшаджык могмӧдыс ыджыдджыка чинтіс **лёгкӧй когнитивнӧй ослабление** риск, тайӧ казьтылӧм да думайтӧм сьӧктам, коді вермас лоны деменция водзын. **Вермана деменция** кузя этшаджык могмӧдан чукӧрын вӧлі этшаджык случай, но торъялӧмыс эз вӧв статистическӧя тырмымӧн. Тӧдмалӧмсӧ дугдӧдісны водзджык, деменция случайяс вӧліны этшаджык, кыдзи виччысьлісны, сійӧн вӧлі вермас вывті ичӧт, медым тайӧ юалӧм вылӧ стӧч вочавидз сетны
+([SPRINT MIND JAMA-ын](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Мый петкӧдлӧны гӧгӧрвоӧдӧмъяс
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 воын Cochrane гӧгӧрвоӧмыс ӧтувтіс ӧкмысь ыджыд тӧдмалӧмъяс, кӧні уна рисксӧ чинтісны ӧтпырйӧ, 18 000 ысь унджык морткӧд. Сійӧ аддзис ичӧтик бурлун думайтан тестъясын, но **оз вӧв бура аддзана торъялӧм, кымын йӧзлы артмис деменция** кык тӧдмалӧмын, кӧні тайӧс видлісны
+([Cochrane гӧгӧрвоӧдӧм уна рискысь видзан программаяс йылысь](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 воын National Academies of Sciences, Engineering, and Medicine гӧгӧрвоӧмыс, кодсӧ NIA гӧгӧрвоӧдіс, аддзис «лӧсьӧдан, но на абу тырвыйӧ тӧдса» тӧдӧмтор куим ног кузя: ыджыд вир курччӧм веськӧдлӧм, уджъёр содтӧм да когнитивнӧй велӧдӧм.
 
-## Does it matter when you start?
+## Кадсяньыс йитчӧ-ӧ, кор заводитны?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet комиссиялӧн велӧдӧмыс — рисксӧ чинтыны медводзын да видзны чинтӧмӧн медкузь: «медводзын — медбур», «медкузь — медбур». Сійӧ шуӧ сідзжӧ, мый риск чинтыны некор оз вывти водз да оз вывти сёр. Унджык тӧдӧмтор йитчӧ шӧр арлыдкӧд, гӧгӧр 40-ысь 65 воӧдз, но мукӧд факторъяс, шуам синмӧн аддзӧм вошӧм да йӧзкӧд йитчытӧм оланног, сёр арлыдын лоӧны, да сэні уджавны сідзкӧ позьӧ.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Отчётын шуӧма, мый ӧні эм ёнджык тӧдӧмтор, мый кыдзи кузьджыка морт олас рискын, сідзи ыджыдджыка сійӧ вӧчӧ. Шуам, шӧр арлыдын заводитчӧм диабет вермас лоны коланаджык, сёрӧнджык артмӧм диабетысь.
 
-## Is dementia risk the same for everyone?
+## Ставлы-ӧ деменция риск ӧткодь?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Абу. Комиссия аддзис, мый этшаджык озыр странаын олӧм йӧзлӧн, ичӧт национальнӧй чукӧрын олӧмысьлӧн да этшаджык озыр йӧзлӧн тайӧ рискысь унджык, сійӧн налӧн вермас деменция томджык арлыдын артмыны. Уна риск йитчӧма сійӧ оланногкӧд, мыйысь морт эз бӧрйы, шуам кутшӧм велӧдчӧм вӧлі сылы чакоткадырйи, кутшӧм сынӧд сійӧ олас, да позьӧ-ӧ ньӧбны дзоньвидза сёян, коді абу дона.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Та вӧсна комиссиялӧн велӧдӧмъяс йитчӧны канму веськӧдлысьяскӧд сідзжӧ, кыдзи ас йӧзкӧд: став челядьлы бур велӧдчӧм, чистӧйджык сынӧд, тшынӧм чинтыны отсалан удж, этшаджык сахар да сола нуан-выйӧн, да кывзан прибор ставлы, кодлы колӧ. Ас удж колана, но колана сідзжӧ бур оланног. Тайӧ бара ӧти помка, мыйла оз колӧ кутшӧмкӧ диагноз вӧсна некодӧс мыждӧдны.
 
-## What are the honest limits of this research?
+## Мыйӧн тайӧ тӧдмалӧмъяс дзик веськыдтӧмӧсь?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Деменция артмӧ дас во чӧжӧн**, но унджык тӧдмалӧм нюжалӧ кыкысь вит воӧдз. Деменциясӧ асьсӧ видлавны, абу сӧмын тест результатъяс, колӧ вывті кузь да ыджыд тӧдмалӧмъяс.
+- **Унджык тӧдмалӧмын видлӧны тест результатъяс.** Тестын ичӧтик бурмӧмыс оз висьтав, мый этшаджык йӧзлы артмас деменция либӧ быдлунъя олӧмыс лоас кокниджык.
+- **Доброволецъяс унджыкысь дзоньвидзаӧсь** да бурджыка велӧдчӧмӧсь, став йӧз дорысь. Lancet комиссия шуӧ, мый унджык тӧдӧмтор на воӧ озыр странаысь, а ичӧт национальнӧй чукӧр йӧз тыртӧмтчӧны.
+- **Мукӧд йитчӧмъяс ветлӧны кык ладорӧ.** Этшаджык ветлӧм либӧ йӧзкӧд этшаджык йитчӧм вермас лоны деменциялӧн водзвыв кадпас, абу сӧмын помка.
+- **Сёянног йылысь тӧдмалӧмъяс талун дырйи оз сетӧны бура тӧдса результат.** MIND сёянног йылысь куим вося тӧдмалӧмын эз аддзыны ыджыд торъялӧм думайтӧмын контрольнӧй сёянногкӧд орччӧдӧмын. Видзӧдӧй миян [сёянног йылысь юӧр](/brain-health/diet/).
+- **Юӧр велӧдан ворсанъяс оз тӧдчылӧны, мый позьӧ деменцияысь видзны.** Видзӧдӧй миян [юӧр велӧдан ворсанъяс да деменция йылысь юӧр](/brain-health/brain-games/).
+- **Видзтӧм сёйӧм йылысь морт вылын тӧдӧмтор вывті этша**, да сійӧ вермас лоны опаснӧй арлыда йӧзлы. Видзӧдӧй миян [видзтӧм сёйӧм йылысь юӧр](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Морт кӧ вӧчис ставсӧ бура, мыйла сылы сідзкӧ артмис деменция?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Сы вӧсна мый деменция — тайӧ абу сӧмын бӧрйӧм помка. NIA шуӧ, мый [арлыд — Альцгеймер висьӧмлӧн медтӧдса риск фактор](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), сійӧс некод оз вермы вежны. Генъяс сідзжӧ пай босьтӧны. Тӧдмалысьяс на оз тырвыйӧ гӧгӧрвоны, мый вӧсна унджык йӧзлы артмӧ Альцгеймер висьӧм. Кӧть став 14 риск факторсӧ бырӧдісны кӧ, Lancet комиссиялӧн ас лыддьӧмыс коляс джынйысь унджык случай гӧгӧрвотӧмӧн.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Сідзкӧ, ті кӧ видзӧданныд сэтшӧм мортӧс, коді ветліс, сёйис бура, некор эз тшыньтчы да сідзкӧ сылы артмис деменция, сэні некутшӧм мыж некодлы абу, тіянлы сідзжӧ. Ті кӧ асьныд оланныд деменцияӧн, тайӧ тіян мыж абу. Мыжйӧдчӧмыс гортын олӧм йӧз костын тшӧкыда овлӧ, но сійӧ абу збыль. Ӧні медколана — зільлун, йитчӧм да бур лунъяс, миян [занятие йылысь мӧвпалӧмъяс](/activities/ideas/) да [видзысьлы ассьыс вӧсна видзӧдӧм йылысь юӧр](/caregiving/caregiver-self-care/) вермасны лоны бур заводитӧм.
 
-## What steps can you talk over with a doctor?
+## Кутшӧм уджъяс йылысь позьӧ сёрнитны врачкӧд?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Татшӧмторъяс йылысь медсяысь тшӧкыда тӧдмалӧмаӧсь. Найӧ йылысь бур казьтыштны видлалӧм дырйи, сы вӧсна мый унджыкыс найӧ пиысь отсалӧ сьӧлӧм-вир судз дзоньвидзалунлы, кадколастлы да ас ногӧн овмӧдӧмлы сідзжӧ, кутшӧмӧн кӧ лоас найӧн деменциялы.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Вир курччӧм.** Юавӧй, кутшӧм тіян лыдпасъяс да кутшӧм могмӧдӧм тіянлы лӧсялӧ. Lancet комиссия велӧдӧ, гӧгӧр 40 арӧсысь заводитӧмӧн, видзны вылыс лыдпас 130 улысь, но арлыда мортлы бур могмӧдыс йитчӧ став дзоньвидзалун серти.
+2. **Кывзӧм.** Юавӧй кывзӧм видлалӧм да, отсалас-ӧ кывзан прибор. Миян [кывзӧм йылысь юӧр](/brain-health/hearing/) гӧгӧрвоӧдӧ тӧдмалӧмъяс.
+3. **Синмӧн аддзӧм.** Видлалӧй синъяссӧ кадся кад да юавӧй, позьӧ-ӧ бурмӧдны татшӧм сьӧктамъяссӧ, кыдзи катаракта.
+4. **Холестерин.** Юавӧй, колӧ-ӧ видлавны ЛПНП холестерин да колӧ-ӧ мыйкӧ вежны.
+5. **Вирын сахар.** Тіян кӧ эм диабет, юавӧй, кыдзи сійӧс видзны лӧсьӧдӧмӧн.
+6. **Кадколаст.** Депрессия тшӧкыда овлӧ да бурмӧдны позьӧ. Висьталӧй врачлы, ті кӧ кӧймӧд вежӧнысь унджык кад чӧж кадколастныд омӧля либӧ мыйкӧ вылӧ интерес вошис.
+7. **Тшынӧм да юӧм.** Юавӧй отсӧг йылысь, медым дугдыны тшынӧм, да юӧм кузя лӧсьӧдӧм дозаяс йылысь.
+8. **Ветлӧм.** Юавӧй, кутшӧм удж тіянлы лӧсьӧдӧма. Миян [уджъёр йылысь юӧр](/brain-health/exercise/) сетӧ мӧвпалӧмъяс.
+9. **Юр дорйӧм.** Паськӧй шлем велосипедӧн мунігӧн да ворсӧмын, видзӧдӧй, медым эз усьны.
+10. **Йӧзкӧд йитчӧм.** Йӧзкӧд кадколаст дырйи нуӧдӧм — дзоньвидза оланног тор. Видзӧдӧй миян [йӧзкӧд йитчӧм йылысь юӧр](/brain-health/social-connection/) да сідзжӧ [узьӧм йылысь юӧр](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Пельӧсъяс, сёянног, добавкаяс, видзтӧм сёйӧм либӧ уджъёр вежӧм водзӧ сёрнитӧй врачкӧд, торйӧнні тіян кӧ эм сьӧлӧм-вир судз висьӧм, диабет, усьӧм вӧлі либӧ тіян нин оланныд деменцияӧн.
 
-## Talk with a doctor
+## Сёрнитӧй врачкӧд
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ті кӧ казьтыланныд либӧ кодкӧ мӧд казьтылӧ, мый тіян пӧль-пӧч йылысь, запишитчӧй врач дорӧ. NIA шуӧ, мый [казьтылӧм сьӧктамыслӧн вермасны лоны мукӧд помкаяс](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), шуам пельӧслӧн бокӧн вӧчӧмыс, щитовиднӧй железа сьӧктам, депрессия либӧ B12 витамин этшалун, да мукӧд сьӧктамыс вермасны бырны, кор помкасӧ бурмӧдӧны. Миян [водзвыв кадпасъяс йылысь юӧр](/brain-health/warning-signs/) гӧгӧрвоӧдӧ, мый вылӧ колӧ видзӧдны.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Скора отсӧг корӧй** дзик виччысьтӧг вежсьӧм дырйи: виччысьтӧг гӧгӧрвотӧмлун, ӧти боксянь омӧльтчӧм либӧ пинясьтӧм, сёрнитӧмын сьӧктам либӧ юр вывті ёна висьӧм вермасны лоны инсульт либӧ мӧд скӧра отсӧг колан кадпасӧн. Шуйгавӧй **112** лыдпасӧ.
 
-## Where Golden Moments fits
+## Кӧні Golden Moments лоас отсӧгӧн
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments вӧчӧ кокни ворсанъяс, шуам [сёрнитан карточкаяс](/games/conversation-cards/), [серпас бингӧ](/games/picture-bingo/) да [лӧнь лолалӧм пауза](/games/calm-breathing/). Найӧ лӧсьӧдӧмаӧсь гаж да ӧтув кадколаст вӧсна. Найӧ оз лоны бурмӧдан ногӧн да оз видзны деменцияысь либӧ оз видзӧдны сійӧс.
