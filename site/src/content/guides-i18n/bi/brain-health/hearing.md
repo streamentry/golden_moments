@@ -1,28 +1,28 @@
 ---
-title: "Lus blong herem mo risk blong dementia: Wanem risej i soem"
-seoTitle: "Lus blong herem mo dementia: Wanem risej i soem"
-description: "Wanem lus blong herem i wan bigfala risk fakta blong dementia, wanem ACHIEVE trial i faenem, mo hao blong jekem herem mo toktok isi moa."
+title: "Lus blong harem mo dementia: Wanem risej i soem"
+seoTitle: "Lus blong harem mo dementia: Wanem risej i talem"
+description: "Wae lus blong harem i wan bigfala risk fakta long dementia, wanem ACHIEVE stadi long ear heping i faenem, mo hao blong jekem harem mo tok wantaem i isi moa."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Lancet Commission long 2024 i talem lus blong herem i wan long ol bigfala risk fakta we yumi save jenisim blong dementia. Long ACHIEVE trial, ol devaes blong helpem herem i no slowem dis blong tingting long ol man evri wan, be wan grup we i gat moa risk i shoem sem dis i slow moa. Ol devaes blong helpem herem i helpem toktok mo laef blong ol man long ol ded. Jekem herem, tingting long ol devaes we yu save baem long fama o we oli no nidim presripsen, mo toktok wetem dokta.
+  Lancet Commission long 2024 i talem se lus blong harem i wan long ol bigfala risk we man i save jenisim long dementia. Long ACHIEVE stadi, ear heping i no slowem tingting i wok lus long ol man oltogeta, bat wan grup we i gat moa risk i showem less lus. Ear heping i save helpem long toktok mo laef blong ol dei, nating wanem. Jekem harem blong yu, tingim ear heping we yu save baem long ol stoa no presripsin, mo toktok wetem dokta.
 keyPoints:
-  - "Lancet Commission i estimetem se lus blong herem i kosim abaot 7% blong dementia long wol, mo i tae wetem narafala long 14 fakta, i gat bigfala sea."
-  - "Long ACHIEVE trial we i gat 977 olfala man, ol devaes blong helpem herem i no jenisim dis blong tingting long tri yia overol."
-  - "Long wan smol grup we i gat moa risk insaed long ACHIEVE, dis blong tingting i slow 48% moa wetem ol devaes blong helpem herem; dis i nidim blong konfemem."
-  - "Since October 2022, ol adalt long US we oli feelem lus blong herem i no bigfala tumas, oli save baem OTC hearing aids we FDA i kontrolem, no nidim presripsen."
-  - "Lus blong luk long ae we oli no trikem i bin ademap olsem wan risk fakta blong dementia long 2024, so jekem ae i impoten tu."
+  - "Lancet Commission i tingim se lus blong harem i kosem bout 7% blong dementia long wol, mo i stap wan long ol bigfala risk long 14 fakta."
+  - "Long ACHIEVE stadi blong 977 ol olfala, ear heping i no jenisim tri yia blong tingting i wok lus long ol man oltogeta."
+  - "Long wan smol grup we i gat moa risk insaed long ACHIEVE, tingting i wok lus i slow moa 48% taem oli yusum ear heping; hemia i nidim konfemem."
+  - "Sins Oktoba 2022, ol adalt long USA we oli feel lus blong harem i smol i kasem middle, oli save baem ear heping long stoa no long presripsin."
+  - "Lus blong luk i wan risk blong dementia we oli ad long 2024, so ae check i impoten tu sipos yu no tritim."
 faq:
-  - q: "Ol devaes blong helpem herem i save stopem dementia?"
-    a: "Ol i no yet provem. ACHIEVE trial i no faenem wan jenis long dis blong tingting overol long tri yia, be wan grup we i gat moa risk i bin gat gud moa. Ol devaes blong helpem herem i stil i wan gudfala samting blong tingbaot, from oli mekem toktok, laef blong sefti, mo ol wok blong ded i isi moa."
-  - q: "Hu i save baem OTC hearing aids?"
-    a: "FDA i alaoem ol adalt we oli 18 yia no moa, we oli feelem lus blong herem i no bigfala tumas, blong baem ol OTC hearing aids long ol stoa o long intanet taem i nogat presripsen. Oli no minim blong bigfala lus blong herem. Sipos yu gat pen long ia, watarem long ia, dizi, o sudden jenis blong herem, yu mas luk dokta bifo."
-  - q: "Lus blong herem i save lukim olsem dementia?"
-    a: "Sam taem, yes. National Institute on Aging i talem se ol olfala we oli no save herem gud, oli save wari we ol man i tingim olsem oli no save tingting gud o oli no wantem bihaevem gud. Jekem herem i wan gudfala step taem wan man i stap seklusivim hem wan mo, o i miskem ol samting we oli talem."
-  - q: "Hao ofen ol olfala oli mas jekem ae blong olgeta?"
-    a: "National Institute on Aging i advaesem se wan dilated ae eksamen evri wan o tu yia afta we yu kasem 60 yia, o olsem we dokta blong ae i talem. Ol man we oli gat dayabetis o hae blud presa oli nidim wan taem evri yia long likaet."
+  - q: "Eas ear heping i save pruvent dementia?"
+    a: "I no bin pruvem yet. ACHIEVE stadi i no faenem wan bigfala jenis long tingting i wok lus long tri yia, bat wan grup we i gat moa risk i bin gat gud risalt. Yu stap save tingim ear heping bikos oli helpem long toktok, long seftiwan mo long laef blong ol dei."
+  - q: "Hu i save baem ear heping long stoa no presripsin?"
+    a: "FDA i alaoem ol adalt we oli 18 yia o olsem, we oli feel lus blong harem i smol i kasem middle, blong baem ear heping long stoa o long intanet withaot presripsin. Oli no mekem bilong lus blong harem we i bigfala tumas. Sipos yu gat pen long ear, wota we i kamaot long ear, dizi o sudden jenis long harem, yu mas go lukaotem dokta fastaem."
+  - q: "Ka lus blong harem i save lukem olsem dementia?"
+    a: "Sam taem, yes. National Institute on Aging i talem se ol olfala we oli no save harem gud, sam taem ol man oli tingting wrong se oli confused o oli no wantem tok. Chekem harem i wan gud step taem wan man i seem i withdraw o i no save wanem we oli tok."
+  - q: "Hao oftен olfala oli mas jekem ae blong olgeta?"
+    a: "National Institute on Aging i advaesem dilated ae exam evri yia o evri tu yia afta 60 yia, o olsem wanem we dokta blong ae i talem. Ol man we oli gat sugar sik o hae blad usually oli mas jekem wan taem long wan yia."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -47,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Lus blong herem i komon long laef blong olfala man, mo ol risej oli tekem i serious olsem wan risk fakta blong dementia. Be ol devaes blong helpem herem i no yet provem se oli wan rod blong stopem dementia; bes trae we i bin mekem i gat ol rizalt we oli no sem. Pej ya i eksplenem wanem ol risej i soem, hao blong jekem herem, wanem ol OTC hearing aids long US, mo hao blong mekem toktok i isi moa.
+Lus blong harem i kamaot long ol yia we man i old, mo ol risej oli tekem i serius olsem wan risk fakta long dementia. Hemia i no mekem ear heping i wan pruvem we i save pruvent dementia; best stadi we i stap yet i gat mikis risalt. Pej ia i eksplenem wanem ol risej i soem, hao blong jekem harem, wanem ear heping we yu save baem withaot presripsin long USA, mo hao blong mekem toktok i isi moa.
 
-## Herem i impoten from wanem long helt blong hed?
+## Why harem i impoten long gud blong tingting?
 
-Lus blong herem i gat konekson wetem hae risk blong dementia. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) i estimetem se i kosim abaot 7% blong dementia long wol. Dat i mekem i tae wetem hae LDL kolesterol long bigfala sea among 14 fakta we yumi save jenisim long modelo blong Commission, olsem [UCL i talem long saman blong ripot](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Lus blong harem i gat konekson wetem moa risk blong dementia. [Lancet Commission long 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) i tingim se hemia i kosem bout 7% blong dementia long wol. Hemia i stap sem wetem hae LDL koleste long bigfala sea long ol 14 risk fakta we yu save jenisim long model blong Commission, olsem [samri blong UCL long ripot ia](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) i talem.
 
-Ol key risej blong Commission:
+Ol main poing blong Commission:
 
-- **Hae risk wetem lus blong herem.** Long pulap analisis blong sikis gud stadi, ol man we oli gat lus blong herem oli gat abaot 37% hae risk blong dementia komparem wetem ol man we herem i normal.
-- **Moa lus, moa risk.** Ol stadi we oli lukluk long hao i bigfala, oli faenem se risk i go antap taem herem i kam wos.
-- **Ol posibol risin, we i no yet provem.** Ol aedia oli inkludim lonlines mo wetlaen, sednes, laetem stimulesen long hed, mo bigfala tingting we i nidim taem yu stap herem.
+- **Moa risk taem harem i lus.** Long wan analisis we oli putum ol sikisfala gud stadi i stap wantaem, ol man we oli no save harem gud oli gat sopos 37% moa risk blong dementia long ol man we oli save harem gud.
+- **Moa lus, moa risk.** Ol stadi we oli lukluk long hao bigfala lus i stap, oli faenem se risk i go antap taem harem i kam wes.
+- **Ol posibol reason, we oli no pruvem yet.** Ol aedia i inkludim lonlines mo withdrawal, sik blong hed, les stimiuleson long brain, mo ekstra tingting we listening i nidim.
 
-Lus blong herem i komon. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) i talem se abaot wan long tri olfala man i gat, mo jans i go antap wetem eij.
+Lus blong harem i komon. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) i talem se bout wan-thrid blong ol olfala i gat hem, mo jans i go antap wetaem man i old.
 
-## Wanem ACHIEVE hearing aid trial i faenem?
+## Wanem ACHIEVE ear heping stadi i faenem?
 
-ACHIEVE i bin fastfala randomized trial blong ol devaes blong helpem herem mo lus blong tingting. Ol rizalt oli oftaen misripota, so ia i ol detel long [ripot blong trial we i bin pablisim](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE i wan fastfala randomized stadi blong ear heping mo lus blong tingting i wok. Ol risalt oli oftenem ol man i tok rong long hem, so hia ol detail blong [ripot we oli pablisim](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Hu i joenem:** 977 adalt we oli 70 go 84 yia, we oli gat lus blong herem we i no bin trikem, mo oli no gat bigfala trabol blong tingting, long fo komuniti sentA long US.
-- **Wanem i bin kompea:** Hafples i bin gat ol devaes blong helpem herem plus sesen blong kaonsel wetem wan audiologist. Narafala hafples i bin gat wan program blong hel edukesen abaot hao blong laef gud long eij.
-- **Main rizalt:** Afta tri yia, i nogat **difren** long lus blong tingting long ol grup overol.
-- **Rizalt long smol grup:** Trial i bin rekrutem man long tu sos. 238 man i kam long wan longfala stadi blong hed (ARIC), mo oli wan grup we i gat hae risk blong lus blong tingting. Long dat grup, dis i slow **48% moa** wetem ol devaes blong helpem herem. Long 739 man we oli volunta long komuniti we oli fit, i nogat klia difren.
+- **Hu oli joen:** 977 adalt we oli 70 i go 84 yia, we oli gat lus blong harem we oli no tritim yet mo oli no gat bigfala tingting prablem, long fo komuniti sait long USA.
+- **Wanem oli kompare:** Hafples oli kisim ear heping plus sesen blong toktok wetem wan odiolojis. Narafala hafples oli kisim wan program blong health edukeson abaot helti olfala laef.
+- **Main risalt:** Afta tri yia, i no gat **no defren** long lus blong tingting long tufala grup oltogeta.
+- **Risalt long smol grup:** Stadi ia i karem ol man from tufala sos. 238 man i kam from wan longfala heart helti stadi (ARIC), mo long grup ia oli gat moa risk blong lus blong tingting. Long grup ia, lus i **48% i slow moa** taem oli yusum ear heping. Long 739 ol volantia long komuniti we oli helti, i no gat klia efek.
 
-Blong ridim ol rizalt ya stret:
+Wei blong ridim ol risalt ia onestli:
 
-- Overol ansa i nogat difren.
-- Rizalt long smol grup i bin plan finis, be i kamaot long wan seken analisis long smol grup. I nidim blong konfemem long ol narafala stadi.
-- Ol man i save wanem program oli stap long hem, mo ia i save jenisim rizalt.
-- Lancet Commission i ridim ol pruf olsem ol devaes blong helpem herem i luk olsem oli gud tumas long ol man we oli gat lus blong herem wetem ol narafala risk fakta blong dementia.
+- Ensa blong ol man i talem nogat efek.
+- Risalt long smol grup i bin plan finis, bat hemia i kam from wan sekondri analisis long smol grup. I nidim konfemem long ol narafala stadi.
+- Ol man oli save wanem program oli stap long hem, mo hemia i save jenisim risalt.
+- Lancet Commission i ridim ol pruf olsem ear heping i showem se oli save helpem spesel long ol man we oli gat lus blong harem wetem ol narafala risk fakta blong dementia.
 
-Bottom lain, ol devaes blong helpem herem i no wan provem rod blong stopem dementia. Be oli helpem ol man blong herem, joen long toktok, mo stap konekted, mo ia i rison i gud blong tingbaot long olgeta.
+Bottom line, ear heping i no wan pruvem we i save pruvent dementia. Bat oli helpem ol man blong harem, joen long toktok mo stap konektem, mo hemia i gud rison blong tingim olgeta.
 
-## Hao blong mi save sipos herem i nidim jekem?
+## Hao blong save sipos harem i nidim jekem?
 
-NIA i sajestem se yu mas luk dokta sipos yu o man we yu kea long hem:
+NIA i sajestem blong luk dokta sipos yu o man we yu kea long hem:
 
-- I gat trabol blong andastanem ol man long fon
-- I had blong folem toktok taem tu no moa man i toktok wanwan
-- Ofen i askem ol man blong ripitem wanem oli talem
-- I putum TV i hae tumas gogo ol narafala i kamplen
-- I had blong andastanem tok taem i gat bikfala noes long bakgraon
-- I tingim se ol narafala oli toktok long wan slo we i no klia
+- I gat trabol blong save wanem man i tok long fon
+- I hard blong folem toktok taem tu no tri man oli tok wantaem
+- I oftenem askem ol man blong tok bakegen
+- I tanem TV i hae tumas kasem ol narafala oli kompleni
+- I hard blong save wanem i bin tok taem i gat bakgraon nois
+- I tingim ol narafala oli tok olsem oli wit long maot
 
-Stat wetem wan primary care dokta, we i save referim yu long wan audiologist (wan spesialis blong herem) o wan ear, nose and throat dokta. Ear wax we i bil-ap i wan komon kosis blong lus blong herem we dokta i save jekem. **Sudden lus blong herem i wan medical emergensi**, mo NIA i advaesem blong luk dokta long wan taem.
+Stat wetem primary care dokta, we save referem yu long wan odiolojis (wan spesialis blong harem) o long wan ear, nose and throat dokta. Ear wax we i kakae gud long ear i wan komon kot blong lus blong harem we dokta save jekem. **Lus blong harem we i kamaot kwik i wan medikol emeejensi**, mo NIA i advaesem blong luk dokta long hem wan taem.
 
-Lus blong herem i save kamaot olsem konfiuzen. NIA i noteim se ol olfala we oli no save herem gud, oli save wari we ol man i tingim olsem oli no save tingting gud, oli no save ansarem, o oli no wantem bihaevem gud. Sipos man we yu laekem i luk olsem i stap seklusivim hem wan mo, o i miskem wanem oli talem, jekem herem i wan gudfala step blong bifo.
+Lus blong harem i save mekem man i lukem olsem confused. NIA i talem se ol olfala we oli no save harem gud, sam taem ol man oli tingting rong se oli confused, oli no save rispon, o oli no wantem kolobore. Sipos man we yu lavem i seem i withdraw o i no save wanem we oli tok, jekem harem i wan gud step blong stat erly.
 
-## Wanem ol OTC hearing aids?
+## Wanem ol ear heping we yu save baem withaot presripsin?
 
-Long 17 October 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) i alaoem wan kaetgori blong over-the-counter (OTC) hearing aids. Ia i olsem we oli kompea wetem ol presripsen hearing aids:
+Long 17 Oktoba 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) i alaoem wan kaetegori blong ear heping we yu save baem withaot presripsin (OTC). Hia i wei we oli defren from ol ear heping we oli kam withaot presripsin:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Fitsa | OTC ear heping | Ear heping we i nidim presripsin |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Hu oli blong hem | Adalt 18 yia o moa, we oli feel lus blong harem i smol i kasem middle | Eni level blong lus blong harem, eni eij |
+| Wea blong kisim | Long stoa o long intanet, i no nidim ekzam o presripsin | Thru wan lisensed harem profesenal |
+| Fitting | Yu jenisim seting yu wan, ofen wetem wan app | Wan profesenal i setem blong harem blong yu |
 
-FDA i talem se ol OTC aids oli no minim blong bigfala o strong lus blong herem. Oli advaesem yu blong luk dokta, we i prefera ear, nose and throat spesialis, bifo yu baem sipos yu gat:
+FDA i talem se ol OTC ear heping i no blong ol lus blong harem we i bigfala tumas. Hem i advaesem blong luk dokta, saksesem long wan ear, nose and throat spesialis, bifo yu baem sipos yu gat:
 
-- Pen long ia o fil nogud long ia
-- Fluid, pus o blad we i kamaot long ia long sikis mans we i pas
-- Sudden o jenisim blong herem we i no stedi
-- Herem i wos long wan saet, o ringing long wan ia nomo
+- Pen long ear o wan kaen filing long ear
+- Wota, pus o blad we i kamaot long ear long ol siks mun we i pas
+- Sudden o jenis long harem we i no stedi
+- Harem we i wok wos long wan ear, o ringing long wan ear nomo
 - Dizi o vertigo
-- Bigfala tumas ear wax
+- Planti ear wax
 
-Blong yusum ol hearing aids i tekem taem blong lanem, so jekem polisi blong ritanem bifo yu baem, olsem FDA i sajestem. NIA i sajestem blong askem sipos insyoransi blong yu i kavremup sam long kos. Long wan man we i laef wetem dementia, wan audiologist i save helpem blong jusum wanem taep blong aid mo fitting we i isi blong yusum long ol dei.
+Yu mas wok long tingting blong ol ear heping, so jekem ol rul blong refanem ben bifo yu baem, olsem FDA i sajestem. NIA i sajestem blong askem long insiuransi blong yu sipos i kavremap wan pat blong kost. Long man we i laef wetem dementia, wan odiolojis i save helpem blong jusum wanem kaen ear heping mo fitting we bae i isi blong yusum long ol dei.
 
-## Hao blong mi save toktok isi moa wetem wan man we i gat lus blong herem?
+## Hao blong mi save tok isi moa wetem man we i gat lus blong harem?
 
 NIA i sajestem:
 
-1. **Fes long man mo stap lukim ae blong hem**, long gud laet, blong hem i save lukim ol lip mo ol fes blong yu.
-2. **Faendem wan kwaet ples.** Stopem TV o go awe long noes.
-3. **Toktok i hae wan smol, be no kraes.** Toktok natrol mo long wan gud spid.
-4. **Lip blong yu i klia.** No kaikai, no jioj gam, no kavremaot maos taem yu toktok.
-5. **Talem wanem i stret moa, i no ripitem tu.** Sipos samting i miskem, jenisim wei blong talem.
-6. **Wan man long wan taem.** Long wan grup, mekem sua blong inkludim man ia.
-7. **Stap pasiens mo askem hao yu save helpem.**
+1. **Fesem man ia mo kipim ae blong yu long hem**, long gud laet, blong hem i save lukem lip mo fes blong yu.
+2. **Faenem wan kwaet ples.** Stopem TV o go longwe from nois.
+3. **Tok i hae smol, be no sotem.** Tok nating mo long wan gud spid.
+4. **Kipim maot blong yu klia.** No kakae, no jaw gam, no karem han long maot taem yu tok.
+5. **Talem nating from wan samting, i no tok bakegen wan semak.** Taem wan samting i pas long hem, jenisim wei blong talem.
+6. **Wan man i tok long wan taem.** Long wan grup, mekem sua blong inkludim man ia.
+7. **Stap pasenis mo askem hao yu save helpem.**
 
-Ol tips ia i gud wetem [ol tips blong toktok long dementia](/caregiving/communication-tips/). Ol aktiviti we i yusum ol pikja oli tekem presa i go antap long herem. [Picture Pairs](/games/picture-pairs/) mo [Conversation Cards](/games/conversation-cards/) oli wok long samting yu lukim, mo [Finish the Saying](/games/finish-the-saying/) i letem yu soem fining insted of talem. Blong ol kol, lukim gaed blong mifala long [phone and video calls](/activities/phone-and-video-calls/).
+Ol tip ia i wok gud wetem [ol tip blong toktok long dementia](/caregiving/communication-tips/) blong yumi. Ol aktiviti we i yusum ol piksa i tu i mekem harem i no stap hevi. [Picture Pairs](/games/picture-pairs/) mo [Conversation Cards](/games/conversation-cards/) oli wakem long wanem yu luk, mo [Finish the Saying](/games/finish-the-saying/) i lolo yu blong soem vos we i finis, i no nidim talem. Long kol, lukem gaed blong yumi abaot [fon mo video kol](/activities/phone-and-video-calls/).
 
-## Ae i impoten tu
+## Lukluk i impoten tu
 
-Long 2024, Lancet Commission i ademap lus blong luk long ae we i no trikem olsem wan niu risk fakta. UCL i talem se i kosim abaot 2% blong ol kes blong dementia, mo Commission i rekomendem se oli mas mekem skrining mo trit blong ol trabol long ae i stap long evri wan. [NIA i advaesem](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) wan dilated ae eksamen evri yia o tu yia afta 60 yia, mo jekem ol glas presripsen tu. Evn ol smol jenis long luk i save kosim risk blong foul.
+Long 2024, Lancet Commission i putum lus blong luk we i no bin tritim olsem wan niufala risk fakta. Samri blong UCL i talem se hemia i kosem bout 2% blong ol kes blong dementia, mo Commission i advaesem blong mekem skrining mo trit blong ol prablem blong luk i stap long evri man. [NIA i advaesem](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) wan dilated ae exam evri yia o evri tu yia afta 60 yia, mo tu blong jekem ol glas presripsin. Ol smol jenis long luk i save mekem risk blong foldaon i go antap.
 
 ## Toktok wetem dokta
 
-Askem wan dokta abaot jekem herem mo luk long ae sipos yu lukim eni long ol sain we i stap antap. Go luk kea kwik sipos i gat sudden lus blong herem, pen long ia, o fluid we i kamaot long ia. Sipos yu kea long wan man we i laef wetem dementia, talem dokta blong hem abaot jenis long herem o luk long ae, from ol samting ia i save afektem fil, sefti, mo hao man i save joen long ol ded.
+Askem dokta abaot jekem harem mo luk sipos yu luk wan long ol saen we i stap abave. Go luk medikol help kwik sipos i gat sudden lus blong harem, pen long ear, o wota we i kamaot long ear. Sipos yu kea long man we i laef wetem dementia, talem dokta blong hem abaot jenis long harem o luk, from oli save jenisim fil, sef, mo hao man ia i save joen long ol samting.
 
-Pej ya i jeneral infomesen, no medical advaes. Luk [medical disclaimer](/medical-disclaimer/) blong mifala. Ridim moa abaot [social connection mo hed hel](/brain-health/social-connection/).
+Pej ia i jeneral infomesen, i no medikol advaes. Lukem [medical disclaimer blong yumi](/medical-disclaimer/). Ridim moa abaot [sosol konekson mo gud blong tingting](/brain-health/social-connection/).

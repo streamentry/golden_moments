@@ -1,32 +1,28 @@
 ---
-title: "Ol Aktiviti Blong Senses Blong Ol Pipol we Oli Gat Dementia"
-seoTitle: "Dementia Senses Aktiviti: Ol Aedia mo Seftiwan"
-description: "Senses aktiviti blong ol pipol we oli gat dementia, from hand massage to basket blong kapa mo saon blong nesas, wetem seftiwan long sok, alajik mo smel."
+title: "Aktiviti blong Senses for Ol Man wetem Dementia"
+seoTitle: "Aktiviti blong Senses long Dementia: Ol Aedia mo Sefti"
+description: "Ol aktiviti blong senses for ol man we oli stap laef wetem dementia, from masej blong han go kasem basket blong kaleko mo saon blong nesa, wetem ol save long sefti blong vomit, alajik mo smel."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Aktiviti blong senses i yusum fil, smel, kakae, saon mo lukluk: wan slou hand
-  massage, wan basket blong sof kapa, fresh herb blong smelem, nesin saon, o
-  lukluk ol pisin long windo. Oli sut long evri stej mo oli important tumas long
-  stej we i bihaen. Jekem fastaem long ol risk blong choking, alajik, sik long
-  skin mo smel we i strong, mo stopem sipos pesen i no gud long hem.
+  Ol aktiviti blong senses i yusum tajem, smel, kakae, saon mo lukluk: wan masej blong han we i slo, wan basket blong ol soft kaleko, ol fresh gris blong smelem, saon blong nesa, o lukluk ol bed long windo. Oli gud long evri stej mo oli moa gud long bihaen. Fastem ol save long ol risk blong vomit, alajik, ol problem blong sking mo smel we i save hevi long man, ofarem wan samting wan taem nomo, mo stopem sipos man i no fil gud.
 keyPoints:
-  - "Aktiviti blong senses oli no nidim ol raet ansa, so oli save wok long evri stej, inkludim long bed o long jea."
-  - "Givim wan senses long wan taem long wan kwaet rum, mo askem o talem fastaem bifo yu tajem."
-  - "Lukaot long ol smol samting mo long eni samting we i luk o smel olsem kaikai be i no kaikai, from ol pipol i save putum samting long maot blong olgeta."
-  - "Jekem alajik, sik long skin mo trabol blong win bifo yu usum lotion, smel o kaikai."
-  - "I no gat stret evidens we aromatherapy i helpem ol sign blong dementia; usum ol smel nomo blong fasin blong ples, sipos yu wantem."
+  - "Ol aktiviti blong senses oli no gat ol rong o stret ansa, so oli wok long evri stej, including long bed o long jea."
+  - "Ofarem wan sens wan taem nomo long wan kuiet rum, mo askem o talem bifo yu tajem man."
+  - "Lavem ol smol samting mo enikaen samting we i lukluk o smelem olsem kakae be i no kakae, from man save putum samting long maot blong hem."
+  - "Jekem alajik, problem blong sking mo problem blong win bifo yu yusum ol lotion, smel o kakae."
+  - "I no gat wan gud evidens we aromatherapy i helpem ol simtom blong dementia; yusum ol smel nomo blong ol simpol fanmi plesua, sipos yu wantem."
 faq:
-  - q: "Wanem ol gud aktiviti blong senses blong wan pesen we i gat dementia?"
-    a: "Ol aedia we oli simpol i inkludim wan slou hand massage wetem lotion, handel ol sof kapa, smelem fresh herb o kofi, lisin long ol miusik we hem i laekem o nesin saon, lukluk ol pisin o fish tank, mo tesim wan kaikai we hem i laekem long wan tekstja we i sef. Givim wan samting long wan taem mo lukaotem hao pesen i ansa."
-  - q: "Oli sef long pesen we i save putum samting long maot?"
-    a: "Oli save sef, wetem kea. Usum nomo ol bigfala samting we oli no save kasem win, no usum eni smol samting o samting we i save brok, mo kipim lotion, sop mo ol prodak we oli gat smel i go long ples we pesen i no save kasem afta, from oli save luk olsem o smel olsem kaikai. Stap wetem pesen long olgeta taem."
-  - q: "Ol aromatherapy i helpem long dementia?"
-    a: "Wan Cochrane review i faenem se i no gat stret evidens we aromatherapy i helpem ol pipol we oli gat dementia, sipos ol stadi oli smol mo oli no sem. Sipos pesen i laekem wan lelebet smel we hem i save finis, hemi oraet, be lukaut long ol strong essential oil, espesol sipos pesen i gat trabol blong win o alajik."
-  - q: "Wanem wan fidget o activity apron?"
-    a: "Hem wan piis kapa, apron o lap blanket we oli sutum ol samting blong hanemaot, olsem ol bigfala batan, zip, ribbon mo ol textured patch. Hem i givim ol han we oli wok ol samting blong eksploret. Jekem oftin sipos i gat eni samting we i loes mo we i save kasem aot."
+  - q: "Wanem nao ol gud aktiviti blong senses for man we i gat dementia?"
+    a: "Ol simpol aedia oli inkludum wan slo masej blong han wetem lotion, handel ol soft kaleko, smelem ol fresh gris o kofi, lisin long ol miusik we man i laekem o saon blong nesa, lukluk ol bed o wan fish tank, mo testem wan kakae we man i laekem long wan tekstja we i sefti. Ofarem wan samting wan taem nomo mo lukluk hao man i ansarem."
+  - q: "Ol aktiviti blong senses oli sef from man we i putum samting long maot blong hem?"
+    a: "Oli save sef, be yu mas kea. Yusum nomo ol bigfala samting we oli no save kasem fo swalom, lusum enikaen smol o i save brok samting, mo kipim ol lotion, sop mo ol samting we i gat smel aftawod we oli no stap kasem, from oli save lukluk o smel olsem kakae. Stap wetem man ol taem."
+  - q: "Aromatherapy i helpem long dementia?"
+    a: "Wan risej blong Cochrane i faendem se i no gat wan gud evidens we aromatherapy i helpem ol man we oli gat dementia, be ol study oli smol mo oli no seim. Sipos man i laekem wan laet mo famliar smel, i oraet, be lusum ol strong essential oil, namel long taem we man i gat ol problem blong win o alajik."
+  - q: "Wanem nao wan fidget o activity apron?"
+    a: "Hemi wan pis kaleko, apron o blanket blong lap we oli sutim ol samting blong handelem olsem ol bigfala batan, zipa, ribon mo ol textured patch we oli sutim strong long hem. Hemi givim ol busy han wan samting blong eksploa. Jekem hemi oltaem blong luk sipos i gat wan samting we i lous mo man i save pulum i kam."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -51,83 +47,83 @@ related: [activities/late-stage, activities/music, activities/outdoor-and-garden
 health: false
 ---
 
-Aktiviti blong senses oli yusum faev senses: fil, smel, kakae, saon mo lukluk. Oli no nidim memori, no nidim ol step mo no gat ol raet ansa, so oli save wok long eni stej. Oli important tumas long stej we i bihaen. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) i talem se long leten stej, pipol i save eksperiensim world ya long senses blong olgeta, mo yu save soem kea long fil, saon, lukluk, kakae mo smel. Sam sefti jek i save mekem ol aktiviti ya i gat rilaks long evriwan.
+Ol aktiviti blong senses i yusum fo sens: tajem, smel, kakae, saon mo lukluk. Oli no nidim memori, no oli nidim ol stap, mo no gat ol stret ansa, so oli save wok long eni stej. Oli impoten moa long bihaen. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) i talem se long leith stej, man i save filim wol i kam long ol sens, mo yu save soem kea long ol tajem, saon, lukluk, kakae mo smel. Sam simpol sefti jek i save mekem ol aktiviti ya i kamfot long evriwan.
 
-## Wanem ol aktiviti blong senses blong dementia?
+## Wanem nao ol aktiviti blong senses long dementia?
 
-Aktiviti blong senses oli ol eksperiens we oli simpol, we oli bilong wan senses long wan taem, olsem fil ol sof kapa, smelem ol herb o lisin long ren. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i talem se ol aktiviti long leten stej oftenfala i nidim blong fokas long ol senses, mo i mensenem miusik, ol samting blong tajem mo handel, mo hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i notem se ol pipol long leten stej save gat strong nid blong holem wan samting klostu blong kamfot.
+Ol aktiviti blong senses oli ol simpol ekspiriens we oli bilt long wan sens wan taem, olsem filim wan kaleko, smelem ol gris o lisin long ren. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i talem se ol aktiviti long leith stej oli nidim blong fokas long ol sens, mo i mentionem miusik, ol samting blong tajem mo holem, mo masej blong han. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i talem se ol man long leith stej oli save gat strong nid blong holem wan samting klostu long olgeta blong kamfot.
 
-## Ol aedia blong senses, wan senses wan taem
+## Ol aedia blong senses, wan wan sens
 
 ### Tajem
 
-- **Hand massage.** Hitim wan smol lotion long han blong yu, mo stroek slou from wrist i go kasem fingertip. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) i mensenem massaj wetem unscented lotion blong kamfot.
-- **Basket blong kapa.** Bigfala skwea blong velvet, corduroy, fleece, satin mo wul blong stroek, fold mo tokabaot.
-- **Warm washcloth.** Wan warm, wet klos blong han long wan kol de. Testem tempretja long wrist blong yu fastaem.
-- **Activity apron o lap blanket.** Bigfala batan, zip, ribbon mo textured patch we oli sutum strong.
-- **Folding mo smoothing.** Wan basket blong klin washcloth o napkin blong fold, stak mo fold bakegen.
-- **Samting sof blong holem.** Wan fleece throw, wan kuso, o wan sof animol we i olsem tru, ofarem long wan simpol fasin, nating olsem toy.
+- **Masej blong han.** Warmem smol lotion long han blong yu mo strokem i slo from wrist i go kasem ol fingatip. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) i mentionem masej wetem lotion we i no gat smel for kamfot.
+- **Basket blong kaleko.** Ol bigfala skwea blong velvet, corduroy, fleece, satin mo wul blong strokem, folem mo toktok long hem.
+- **Warm washcloth.** Wan warm mo wet kloth blong han long wan kol de. Testem tempretja long wrist blong yu fastaem.
+- **Activity apron o lap blanket.** Ol bigfala batan, zipa, ribon mo ol textured patch we oli sutim strong long hem.
+- **Folem mo smoothem.** Wan basket blong ol klin washcloth o napkin blong folem, stakem mo folem bakegen.
+- **Samting soft blong holem.** Wan fleece throw, wan kushin o wan soft animol we i realistik, ofarem i simpol, nating olsem tingting blong pleiem.
 
 ### Smel
 
-- **Fresh herb.** Rabem mint, rosemary, basil o lavender lif long fingas blong yu, mo pasem i go klostu long hem.
-- **Smel blong kitjen.** Kofi we i kukum, bred we i toastem, sinamon, o wan orenj we oli pilem klostu.
-- **Flaoa.** Kamemaot sam fresh flaoa from garden o from stoa.
-- **Wan prodak we i familiar.** Sop o lotion we hem i yusum olsem bifo, sipos skin blong hem i tolerate.
+- **Fresh gris.** Rabem mint, rosemary, basil o lavender lif long ol fingga blong yu mo pasem i kam klosap long nous blong man.
+- **Smel long kitjen.** Kofi we i stap bolem, bred we i stap raosta, sinamon o wan orens we i stap pilem klostu.
+- **Flaoa.** Kasem sam fresh flaoa from gaden o from stoa.
+- **Wan famliar prodak.** Sop o lotion we hem i yusum evri taem, sipos skin blong hem i akseptem.
 
-### Taste (kakae)
+### Kakae
 
-- **Wan flevor we hem i laekem.** Wan smol spun blong samting we hem i laekem, olsem applesauce, pudding o ais krim, long tekstja we hem i save kakae sef.
-- **Helpem long baking.** Tesi frut o wan lelebet frosting taem yu bekem wetem.
-- **Seasonal treats.** Kokonat wota o mango long seson blong hem, serve long tempretja we i sef.
+- **Wan fevarit flevo.** Smol spun blong samting we hem i laekem, olsem applesauce, pudding o ais krim, long wan tekstja we hem i save kakae sefti.
+- **Helpem long bekem.** Testem frut o smol frostingi taem yufala i stap bekem wantogeta.
+- **Seasonal tritim.** Watermelon long sama, warm saedа long fol, i servem long wan sefti tempretja.
 
 ### Saon
 
-- **Miusik we hem i laekem.** Ol fes saon we oli familiar long wan voluim we i no hae; luk [music activities](/activities/music/).
-- **Nesin saon.** Ren, wes o ol bed we oli singsing. The NIA i talem se miusik, wait noise mo nesin saon oli save helpem sam pipol blong rilaks.
-- **Voes blong yu.** Ridim long hae vois, humim, o talem wan stori.
-- **Ol simpol musikol instrument.** Hand drum, shaker o bel blong playem wetem miusik.
+- **Miusik we hem i laekem.** Ol song we oli famliar long wan gentel vol; luk [ol aktiviti blong miusik](/activities/music/).
+- **Saon blong nesa.** Ren, wes o ol bed i singsing. NIA i talem se miusik, waet noiz mo saon blong nesa oli luk olsem oli helpem sam man blong relaks.
+- **Voes blong yu.** Ridim i loud, hambag, o tokstori.
+- **Ol simpol instrumen.** Wan hand drum, shaker o bel blong pleiem wetem miusik.
 
 ### Lukluk
 
-- **Lukaot long windo.** Wan bed feeder aoa long windo, ol pikinini we oli wokbaek hom from skul, o ren we i foldaon.
-- **Fish tank o slou vidio.** Slou muvmen nating loud saon.
-- **Bigfala foto.** Wan klia pikja long wan taem, holem long laen blong ae.
-- **Kala mo pattern.** Sotem ol bright fabric scraps, flaoa o kala napkin, o wan simpol kala pija from [set blong kala](/games/coloring/) blong mifala.
-- **Aotsaet.** The NHS i sajestem sensori garden wetem ol plant we oli smel, ol textures mo wota fitja. Luk [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Lukluk long windo.** Wan bed feda we i stap aotsaed long windo, ol pikinini we oli wakabaot i go hom, o snoa we i stap foldaon.
+- **Wan fish tank o slo vidio.** Gentel muvmen we i no gat loud saon.
+- **Bigfala foto.** Wan klia pikja nomo long wan taem, holem long ai level.
+- **Kala mo pataen.** Sotem ol bright kaleko pis, flaoa o kala napkin, o wan simpol kala pej from [kala set](/games/coloring/) blong yumi.
+- **Aotsaed.** NHS i sajestem ol sensory gaden we i gat ol plant we i gat smel, ol textua mo ol wota fitja. Luk [ol aktiviti blong aotsaed mo gaden](/activities/outdoor-and-gardening/).
 
-## Hao blong mekem wan sensori bokis
+## Hao blong mekem bokis blong senses
 
-1. **Jusum wan tema** we i konektem wetem laef blong pesen: bij, garden, kitjen, wokshop, sewing.
-2. **Jusum faev o sikis bigfala, sef samting,** olsem wan bigfala seashell, wan wud spun, wan sof skaf, wan sachet blong drae lavender we oli sutum i sut, o wan smoth wud blok.
-3. **Jekem evri samting** long smol pat, sap ej, loes tred mo eni samting we i save brok.
-4. **Tekem aot wan samting long wan taem.** Givim long han blong pesen, talemaot wanem hem i olsem, mo letem hem i eksploret.
-5. **Putum bokis i go bak afta** blong hem i stap spesol, mo ol samting oli jekem bakegen bifo nekis taem.
+1. **Jusim wan tema** we i konektem long laef blong man: bij, gaden, kitjen, wokshop, swing.
+2. **Jusum faev o sikis bigfala, sef samting,** olsem wan bigfala sel, wan wud spun, wan soft sakaf, wan sachet blong drae lavender we i sutim i sut, o wan smooth wud blok.
+3. **Jekem evri samting** long ol smol pis, ol sharp ej, ol lous tred mo eni samting we i save brok.
+4. **Kasem wan samting wan taem nomo.** Givim long han, deskraebem, mo letem man i ekspleum.
+5. **Putum bokis i go bak afterwod** blong hem i stap spesol mo ol samting oli jekem bakegen bifo nekis taem.
 
 ## Sefti fes
 
-Ol aktiviti blong senses oli gentol, be sam risk i impoten. Sam pipol we oli gat dementia save mistekem ol samting we no kaikai blong kaikai, mo kaikai i save kam hadwan long taem; the NIA i warnem se ol trabol blong kaikai long leten stej i rasemaot risk blong choking.
+Ol aktiviti blong senses oli gentel, be sam risk i impoten. Sam man we oli gat dementia oli save tingting se ol samting we no kakae oli kakae, mo swalom i save kamap i hadwan long taem; NIA i warnem se ol problem blong swalom long leith stej i save mekem risk blong vomit i go hae.
 
 | Risk | Wanem blong mekem |
 | --- | --- |
-| Choking | Usum nomo ol samting we oli bigfala tumas blong kasem win. No batan, bid, koin, marbel o smol toy we oli loes insaed long bokis. Givim kaikai nomo long tekstja we tim blong kea i talem se i sef. |
-| Ol samting we oli luk olsem kaikai | The NIA i advaes blong lokem lotion, sop, sampu mo perfume, we oli save luk o smel olsem kaikai, mo rimuvum ol artifisol frut. Putum ol sensori prodak i go wei afta yusum. |
-| Alajik | Jekem alajik long nat, latex, wul, plant o fragrance bifo yu stat. |
-| Strong smel | Avoidem strong perfume mo essential oil, espesol sipos pesen i gat asthma o narafala trabol blong win. Ol mael, natural smel i sef moa. |
-| Skin | Jekem sipos i gat sor, bruk o wik skin bifo massaj. Usum gentol presa mo stopem sipos oli fas. |
-| Tempretja | Testem warm klos mo drink long wrist blong yu fastaem. |
-| Sap o toxic samting | No sap tul, glas o toxic craft samting. |
+| Vomit | Yusum nomo ol samting we oli bigwan blong no save swalom. No batan, bid, koen, marbol o ol smol toi we oli lous long bokis. Ofarem kakae nomo long ol tekstja we tim blong kea i talem se oli sef. |
+| Ol samting we oli lukluk olsem kakae | NIA i talem blong lokem lotion, sop, sampu mo perfum, we oli save lukluk o smelem olsem kakae, mo ol artifisel frut. Putum ol prodak blong senses we i stap awe afta yusum. |
+| Alajik | Jekem alajik long nat, latex, wul, plant o fragrans bifo yu stat. |
+| Strong smel | Lusum strong perfum mo essential oil, namel sipos man i gat asma o ol narafala problem blong win. Ol laet nacural smel i sefmoa. |
+| Sking | Jekem sore, brok o wik sking bifo masej. Yusum gentel presa mo stopem sipos oli wins. |
+| Tempretja | Testem ol warm kloth mo drink long wrist blong yu fastaem. |
+| Sharp o poisen samting | No sharp tul, glas o ol poisen krafti sapla. |
 
-## Ol aromatherapy i helpem?
+## Aromatherapy i save helpem?
 
-Probably no long eni wei we yu save mesem. Wan [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) i lukem 13 stadi wetem 708 pipol, evri wan long ol kea hom, mo i no faenem stret evidens blong benefit. Ol stadi oli smol, ol risal oli no sem, mo ol side effect oli no ripot gud. Sipos pesen i laekem wan mael, familiar smel, olsem lavender from garden, hemi wan gud risen blong sherem. Be hemi no treatment.
+Oli no save faendem wan gud evidens. Wan [Cochrane review blong aromatherapy long dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) i lukluk long 13 study wetem 708 man, ol olgeta long kea haos, mo i no faendem wan gud evidens blong benefit. Ol study oli smol, ol risal oli no seim, mo ol side efek oli no stap ripotem gud. Sipos man i laekem wan laet mo famliar smel, olsem lavender from gaden, i wan gud risen blong sherem. Hemi no wan tritmen.
 
-## Hao blong ofarem wan sensori aktiviti
+## Hao blong ofarem wan aktiviti blong senses
 
-- **Jusum wan kwaet taem** mo turnoff TV.
-- **Kam long fron,** talemaot nem blong hem, mo askem o talem fastaem bifo yu tajem: "Mi gat sam lotion. Yu laek mi rabem han blong yu?"
-- **Ofarem wan samting long wan taem** blong i no overwhelmem hem.
-- **Lukaotem ansa blong hem.** Wan fes we i moa sof, han we oli rilaks, o wan smael, oli gud sain. Sipos hem i putum han blong hem i go bak, i kros fes o i no save stap kwaet, hemi minim yu mas stopem.
-- **Kipim i short.** Faev kwaet minit hemi wan gud sesen.
+- **Jusum wan kuiet taem** mo kilim TV.
+- **Kam long fes blong man,** kolem nem blong hem, mo askem o talem bifo yu tajem hem: "Mi gat sam lotion. Yu laekem mi masej han blong yu?"
+- **Ofarem wan samting wan taem nomo** blong i no stretem hem.
+- **Lukluk ansa blong hem.** Wan saoa fes, ol han we oli relaks o wan smaela i gud saen. Sipos hem i pulum i go bak, i mekem fes i tait, o i gat wari, i minim blong stop.
+- **Mekem i sot.** Faev kwaet minit i gud sesen.
 
-Wan slou brif taem tugeta, olsem [calm breathing](/games/calm-breathing/), i save wan gentol wei blong finisim. Blong moa aedia long bed, luk [late-stage activities](/activities/late-stage/), mo blong evening we i mekem pesen i no kwaet, luk [late-day restlessness](/caregiving/late-day-restlessness/).
+Wan slo breting taem wantogeta, olsem [kalm breting](/games/calm-breathing/), i save wan gentel rod blong finisim. Blong moa bed aedia, luk [aktiviti blong leith stej](/activities/late-stage/), mo blong ivning wari, luk [late-day restlessness](/caregiving/late-day-restlessness/).

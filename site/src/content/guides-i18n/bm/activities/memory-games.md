@@ -1,30 +1,33 @@
 ---
-title: "Jɛkɛ hakilijigin ka sɛbɛnw mɔgɔ dementia bɛ min ma: ka a kɛ kɛnɛyako ye, ka a kɛ sɛbɛn tɛ"
-seoTitle: "Hakilijigin ka jɛkɛ ɲɛfɛ dementia ma, kɛnɛyako ɲɛfɔ"
-description: "Sɛbɛnw ni kaari jɛkɛw mɔgɔ dementia bɛ min ma, ani a kɛli ka kɛ cogo min na mɔgɔ si ma sɛbɛn ka kɛ kɛnɛyako ye: sɛbɛnw kɔrɔ, jɛkɛ tɔɔ kɛmɛ, cɛ kelen-kelen, dɔnkilida tɛ."
+title: "Hakili sɛbɛnnikɛ dementia bolo ye: Hɛrɛ-hɛrɛ ɲɛfɛ, tɛ kɛ kɛlɛ ye"
+seoTitle: "Dementia bolo hakili sɛbɛnnikɛ, hɛrɛ-hɛrɛ ɲɛfɛ"
+description: "Sɛbɛnnikɛ, sɛbɛnnikɛ-kɛlɛ ani kaarit sɛbɛnnikɛ dementia bolo ye, ani u kɛli cogo min na ka kɛ ka dɔ kɛ k'a sɔrɔ ko ka ɲɛfɛ: sɛbɛnnikɛ ɲɛfɛ, tɛ kɛ ɲɛfɛ, kɔnɔ tɛ kɛ kɛlɛ ye, ani u kɛ ɲɛnamasan ye."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Hakilijigin jɛkɛw mɔgɔ dementia bɛ min ma, u bɛ ɲɛ kosɛbɛ ni u tɛ hakili ɲɛ. Sɛbɛn jɛkɛw kɛ ni sɛbɛnw bɛ kɔrɔ, sɛbɛnw naani ni wɔɔrɔ kɛ, ka kɛlɛ ni tɔgɔ kɛ, ka dɔnkili tɛmɛ. Sɛbɛn ka ɲɛ ye sɛbɛn ka ɲɛ ye, ka a kɛ dɔ ye ka ɲɛ tɛ. Ɲɛnɛma sɛbɛn lɔnni ye sɛbɛn lɔnni ye, ka sɛbɛn ka ɲɛ ye ka ɲɛ.
+  Hakili sɛbɛnnikɛ dementia bolo ye, u bɛ kɛ ɲɛfɛ ni u tɛ kɛ hakili ɲɛfɛ ye.
+  Sɛbɛnnikɛ dɔ kɛ sɛbɛnnikɛ-kɛlɛ, kaarit naani ni wɔɔrɔ ye, ka kɛ ɲɛnamasan ye ka
+  kɛ cogo min na, ani kɛ ɲɛfɛ ni kɛlɛ tɛ ye. Sɛbɛnni ka ɲɛfɛ ye ka kɛ sɛbɛnnikɛ
+  ni hakili ɲɛfɛ ye, o tɛ kɛ kɛlɛ ye. Ɲɛnamaya ye kɛlɛ ye, sɔrɔ tɛ kɛ kɛlɛ ye.
 keyPoints:
-  - "Jɛkɛ hakilijigin kɛra dɔ ye ka sɛbɛnw dɔ ɲɛ, o ye sɛbɛn min bɛ ɲɛnɛn, dementia bɛ min kɛ ɲɛ sɛbɛn kosɛbɛ. Sɛbɛnw kɔrɔ, a tɛ ka sɛbɛnw dɔ ɲɛ."
-  - "Sɛbɛn tɛmɛnen, sɛbɛn wɔɔrɔ ni cɛ kelen-kelen bɛ jɛkɛ kɛ ɲɛ."
-  - "Cɛ kelen-kelen kɛ, cɛ dɛmɛ ka kɛ, dɔnkili tɛ. Mɔgɔ si tɛ ka kɛ kɛnɛyako ye."
-  - "Jɛkɛ hakilijigin kɛ si tɛ ka dementia bɔ ɲɛ, ka a sɔrɔ, walasa a tɛ ka wuli. Jɛkɛ kɛ ɲɛ ka kɛ ɲɛnɛma ye."
-  - "Jɛkɛ ka ɲɛ bɛ ɲɛ ka kɛ kɛnɛyako. Sɛbɛnw kɔrɔ ni sɛbɛn kɔrɔ bɛ ɲɛ."
+  - "Sɛbɛnnikɛ klasiki bɛ kaarit datugu, o bɛ hakili tɛgɛ min dementia bɛ ka gɛlɛya ka tɛmɛ dɔ ye. Kaarit ɲɛ kɛ a bɛ ka kɛ ɲɛfɛ."
+  - "Kaarit tɛmɛnen, sɛbɛnnikɛ fɛlɛfɛlɛ ani kɛ dɔ-dɔ ɲɛfɛ bɛ ka sɛbɛnni kɛ ɲɛnamasan ye."
+  - "Kɛ ɲɛnamasan ye, ka ɲɛfɛ dɔ ka ko kɔnɔ, ani ka ɲɔgɔn dɛmɛ. Sɔrɔ ɲɛ tɛ ɲɔgɔn ka ko kɔnɔ."
+  - "Sɛbɛnnikɛ dɔ tɛ jɛkulu ka dementia kɛ, ka ɲɔ, walima ka ɲɛ. Kɛ ɲɛnamasan ye, ka kɛ ɲɛnabɔ ye."
+  - "Ka ɲɛnamaya ɲɛfɛ ka sɛbɛnni kɔnɔ. Kɔnɔ ka kaarit kɔnɔ kuma ye ɲɛnabɔ ɲɛfɛ ye."
 faq:
-  - q: "Jɛkɛ hakilijigin ɲɛ min bɛ ɲɛ mɔgɔ dementia bɛ min ma cogo di?"
-    a: "Sɛbɛnw ni kaari jɛkɛ ɲɛ, minnu bɛ ɲɛ ni sɛbɛn kɔrɔ, i ka kɛ sɛbɛn naani ni wɔɔrɔ ye. Sɛbɛn kelen ni kelen ɲɛnɛma bɛ ɲɛ ni ka dɔ sɛbɛn ka ɲɛ ye. Sɛbɛn kɔrɔ ni sɛbɛn kelen ye sɛbɛn kɛnɛyako ye ni ka ɲɛ, ni a tɛ ka hakilijigin kɔrɔ sɛbɛn ye."
-  - q: "Jɛkɛ hakilijigin bɛ dementia dɛmɛ wa?"
-    a: "Jɛkɛ hakilijigin si tɛ ka dementia bɔ ɲɛ, ka a sɔrɔ, walasa a tɛ ka wuli. Cochrane sɛbɛnw sɛbɛn ka ɲɛfɔ ko kompiyuta hakili kalan ka ɲɛfɔ tɛ ka sɛbɛn ka kɛ ka dementia kɔrɔ ɲɛ. Jɛkɛw bɛ kɛ kɛnɛyako ye, ka tɛmɛ ni ɲɛnɛma ye. I ka jɛkɛ sugandi ni kɛnɛyako ni ɲɛnɛma."
-  - q: "Ka a kɛ dementia bɛ min ma, ka jɛkɛ Concentration kɛ cogo di?"
-    a: "Fɔlɔ, mɔgɔ dɔw bɛ ɲɛ sɛbɛn kɔrɔ, sɛbɛn cɛmanw ni. Ni sɛbɛn min bɛ ɲɛ hakili ɲɛ bɛ kɛ dɔnkili ye, sɛbɛnw ka sɛbɛn ka kɛ ka ɲɛ, ka sɛbɛnw ka ɲɛ ni u ka ɲɛ. O bɛ sɛbɛn ka ɲɛ, ka hakilijigin dɔnkili ni."
-  - q: "Jɛkɛ hakilijigin ɲɛ min bɛ ɲɛ mɔgɔ dɔw ma, mɔgɔ dɔw kɔnɔ?"
-    a: "Sɛbɛn sɛbɛnw ni cogo min bɛ wele, mɔgɔ bɛ sɛbɛn kɔnɔ, ka kuma sɛbɛnw ka ɲɛ ye, o bɛ ɲɛ mɔgɔ dɔw ma. Sɛbɛn kɛ fo ka sɛbɛn bɛ ɲɛ kelen-kelen, ka wele mɔgɔ min ka jaabi ye tɛ, walasa mɔgɔ si tɛ ka kɛ kɔnɔ ye."
-  - q: "Jɛkɛ hakilijigin ɲɛ min bɛ ɲɛ kompiyuta kɔnɔ, ni a tɛ wari ta?"
-    a: "Ɔn. Jɛkɛw sɛbɛn kɔnɔ, Picture pairs, Find the same, Photo pairs ani Picture puzzle, bɛ tɛ wari ta, u tɛ ka kɛ ka sɛbɛn kɛ, u bɛ ɲɛ telefoni, tablet ani kompiyuta kɔnɔ. Jɛkɛ si tɛ dɔnkili, si tɛ ka ɲɛ."
+  - q: "Sɛbɛnnikɛ jɔn ye dementia bolo ye min ka ɲɛfɛ?"
+    a: "Sɛbɛnnikɛ min bɛ kɛ ni kaarit ɲɛfɛ ni kaarit dɔnnen ye, o bɛ kɛ ni kaarit ye min bɛ ɲɛ kɔnɔ, i n'a fɔ Picture pairs ka kaarit naani walima wɔɔrɔ. Kaarit min i bɛ ɲɛ, o ɲɔgɔn sɔrɔ ka kɛ ɲɛfɛ ye, o tɛ hakili tɛgɛ gɛlɛya ye. Find the same kɛ ko fitinin ye: kaarit kelen ka ɲɔgɔn sɔrɔ kaarit naani kɔnɔ."
+  - q: "Sɛbɛnnikɛ bɛ dementia dɛmɛ wa?"
+    a: "Sɛbɛnnikɛ dɔ tɛ jɛkulu ka dementia kɛ, ka ɲɔ, walima ka ɲɛ. Cochrane sɛbɛnni ko sɔrɔ ko kɔmpiyuutɛri hakili sɛbɛnnikɛ ka ɲɛfɛ tɛ ɲɛɲɛnɛ ka ɲɛfɛ ko dementia tɛ ka ɲɔ. Sɛbɛnnikɛ bɛ se ka kɛ ɲɛnamaya ɲɛfɛ ye ni mɔgɔ ye, o ka kɛ ɲɛnamasan ni ɲɔgɔnya ye."
+  - q: "Ne ka kɛ Concentration klasiki ye dementia bolo ni ye wa?"
+    a: "A fɔlɔ kɔnɔ, mɔgɔ dɔw bɛ a nisɔndiya, kɔsɛgɛn kaarit dɔgɔ kɔnɔ. Ni kaarit ɲɛ kɛ bɔ hakili kɔnɔ kɛ ka gɛlɛya ni kɔnɔ, kaarit ɲɛ ka kɛ ɲɛ kɔnɔ, ka dɔ ɲɛ ka kɔrɔ ɲɔgɔn ye. O bɛ ka sɛbɛnnikɛ to, o bɛ hakili sɛbɛnni bɔ."
+  - q: "Sɛbɛnnikɛ jɔn bɛ ɲɛfɛ mɔgɔ-caman ɲɛ kɔnɔ kɛ cogo di?"
+    a: "Sɛbɛnni ni sɛbɛnnikɛ-kɛlɛ, kumaw min bɛ kɛ ni kɛmɛ ye, ani kaarit kumaw ye, o bɛ ɲɛfɛ mɔgɔ-caman ɲɛ kɔnɔ. Ka kɛ ɲɛfɛ ka se ka kaarit bɛɛ fɛ, ani kaarit ɲɛ kɔnɔ mɔgɔ dɔ ka jaabi ko ɲɔgɔn fɔ, o ka kɛ ko ɲɛfɛ ye."
+  - q: "Sɛbɛnnikɛ jɔn bɛ sɔrɔ ka tɛ wari kɛ internet kɔnɔ mɔgɔ kɔmɔnin ye?"
+    a: "Ɔwɔ. Sɛbɛnnikɛ min bɛ site in kɔnɔ, o kɔnɔ Picture pairs, Find the same, Photo pairs ani Picture puzzle, o tɛ wari. U tɛ kɛ ni kɔnɔ ɲɛ ye, u bɛ kɛ telefɔni, tabulɛt ani kɔmpiyuutɛri kɔnɔ. Dɔ kɔnɔ tɛ ni waati walima ni ɲɛnamasan ye."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,77 +49,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Ni i ye "memory games for seniors" ɲini, i bɛ sɛbɛnw ɲini, u bɛ kɛ mɔgɔ ye min bɛ fɛ ka hakili kɛ. Sɛbɛnw dɔ bɛ kɔrɔ, sɛbɛn lɔnni bɛ wuli, ka kɛ ni tɔgɔ ni dɔnkili ye. Mɔgɔ min bɛ dementia la, o tɔgɔ bɛ kɛ ka sɛbɛn ka hakili ɲɛ, o ye ko min bɛ kɛ ka gɛlɛya. Sɛbɛnw min bɛ kɛ cogo caman na, u bɛ kɛ kɛnɛyako ye cogo min na. Kɔnɔ kɔrɔ, sɛbɛnw ka ɲɛ, o bɛ jɛkɛ cogo min na, o bɛ ɲɛ dɔ.
+Ni i ye "memory games for seniors" ɲini, i bɛ sɛbɛnnikɛ caman ɲɛ, u bɛ kɛ hakili ka ɲɛ-kɛlɛ ye: kaarit datugu, waati ka tɛmɛnen ni sɛbɛnnikɛ ni ɲɛnamasan. Dementia bolo ka kɛ, o kɛlɛ bɛ kɛ hakili ka gɛlɛya ye, o min bɛ gɛlɛya kɛ a ka kɛ-kɛlɛ ye. Sɛbɛnnikɛ jɔnw bɛ se ka kɛ cogo tɛmɛnen ye. Pɔrɔgaramu in bɛ jira cogo min na, ani o bɛ sɛbɛnnikɛ jɔnw jira min bɛ kɛ ɲɛfɛ stade bɛɛ kɔnɔ.
 
-## Mun na jɛkɛ hakilijigin ɲɛ bɛ mɔgɔ dementia bɛ min ma?
+## Mun na sɛbɛnnikɛ klasiki bɛ dementia bolo gɛlɛya ka kɛ?
 
-Sabu u bɛ kuma ɲɛ min bɛ kɛ hakili kɔnɔ ka to, o ye dɔ ye min bɛ kɔrɔ Alzheimer kɔnɔ, o ye dementia fɛ dɔ ye. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) b'a fɔ ko Alzheimer kɔrɔ bɛ kɛ ka gɛlɛya ka kuma kɛ ka ɲɛfɔ kɔrɔ. Classic Concentration kɔnɔ, i bɛ kaari fila kɛ, i bɛ hakili kɛ u bɛ min ye, ani i bɛ u ɲɛ dɔ tile kelen kɔfɛ. O ye kuma kɔrɔ ye min bɛ hakili kɔnɔ ka kɛ.
+A bɛ kɛ o ye ko u bɛ hakili kɔnɔ kuma kura ɲɛ ka ɲini, o min ye fɔlɔ ye ka kɛ gɛlɛya ye Alzheimer kɔnɔ, o min ye dementia dɔ ye min bɛ kɛ ka caman ye. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) fɔra ko Alzheimer jɛyɔrɔ fɔlɔ min bɛ ɲɛfɛ, o ye kuma kura sɛbɛn ye min kɛra kura ɲɛ. Concentration klasiki kɔnɔ, i bɛ kaarit fila tilali, i bɛ kaarit jɔnw sɛbɛn, ani i bɛ o hakili kɔnɔ kɔ tɛmɛnen kɔfɛ. O ye kuma kura ye min bɛ hakili kɔnɔ, ka kɔfɛ ka kɛlɛ.
 
-Ni i bɛ dɔnkili, ɲɛmɔgɔ ani dɔnkili ni ɲɛ min bɛ kɛ ni u ye, o bɛ mɔgɔ ka hakili kɛ dɔ ye min tɛ se ka kɛ. Mɔgɔ dɔw bɛ jɛkɛ bɔ, u tɛ fɛ ka o kɛ mɔgɔ ye min bɛ fɛ.
+Waati dɔ ni kɛlɛ tɛmɛ ni kɔnɔ, o bɛ mɔgɔ hakili ɲɔgɔn ni ka kɛlɛ ɲɛ ni a bɛ kɛ ye, ani mɔgɔ min ka kɛnɛ, o ye a ka kɔnɔ ye. Mɔgɔ caman bɛ sɛbɛnnikɛ ɲɛ mɔgɔ ye, a bɛ sɛbɛnnikɛ bɔ.
 
-Kɔnɔ ye ko i bɛ ɲɛ min ɲɛ, o bɛ ɲɛ ni a ye. Sɛbɛnw ka ɲɛ ni i bɛ sɛbɛn kɔrɔ ye, o ye kɛ.
+Ko min bɛ ɲɛ, o kɛlɛ ye kɛlɛ ɲɛfɛ ye, ani a bɛ kɛ ɲɛfɛ ni o ye. Ni kaarit ɲɛ kɛ ɲɛ kɔnɔ ka ɲɛ, a bɛ kɛ ɲɛfɛ ye. O kɔ, kɛ ka sɛbɛnni ni ɲɛnamasan ye, ka kɛ ka hakili ka kɛlɛ ɲɛfɛ ye.
 
-## Cogo min na jɛkɛ hakilijigin bɛ kɛ kɛnɛyako ye?
+## Cogo di i bɛ sɛbɛnnikɛ kɛ ɲɛnamasan ye?
 
-Nin ɲɛfɛnw bɛ baara kɛ kaarijɛkɛw, sɛbɛnw ani ekrɛn kɔnɔ jɛkɛw kɔnɔ.
+Kɛ ɲɛnamasan ye ni nin kɛlɛ dɔw ye, u bɛ kɛ kaarit sɛbɛnnikɛ, sɛbɛnnikɛ-kɛlɛ ani ɲɛnamasan ye.
 
-1. **Sɛbɛnw kɔrɔ ka to.** Sɛbɛnw i bɛ ɲɛ ni u ye, o bɛ jɛkɛ ye, ani o bɛ kɛ ɲɛ dɔ.
-2. **Kɛ sɛbɛn tɛmɛnen kɛ.** Daminɛ ni kaari fila walima saba. Ni a bɛ kɛ ka ɲɛ tɛ, o tɔ ka kɛ tɛmɛnen.
-3. **Sɛbɛn naani, mɔgɔ ka sɛbɛn kɔrɔ sugandi.** Kɔgɔnɛ, sɛnɛfɛn, dɔgɔ. Kanuya tɛ, sɛbɛn fɛ tɛ.
-4. **Kɛ ɲɛ dɔ ye.** "An ka dɔgɔw ɲɛ" o ka kɛ "i ka sira". Ka kɛ cɛ kelen-kelen ye ani dɛmɛ.
-5. **Tɔgɔ bɛɛ bɔ.** Mɔgɔ si tɛ ka kɛ ka ɲɛ. Ni mɔgɔ bɛ ɲɛ, "an ye o kɛ" ka kɛ.
-6. **Waati kɔrɔ ka kɛ kɛnɛyako.** Kɛlɛ si tɛ, cɛ kelen ka kɔfɛ ka kɛ kɔrɔ.
-7. **Sɛbɛnw kuma.** "Ɲɔgɔn filɛ, o dɔnkilida. I ye o kɔfɛ ka dɔnkili dɔ?" Kuma bɛ kɛ ɲɛ dɔ ka kɛ.
-8. **Ka kɛ ka sɔrɔ ɲɛ kɔnɔ.** Sɛbɛn kɔfɛ, ka kɛ ka kɛnɛyako ye.
+1. **Kaarit ɲɛ kɛ ɲɛ kɔnɔ.** Kaarit min i bɛ ɲɛ, o ɲɔgɔn sɔrɔ ka kɛ sɛbɛnnikɛ ye, ani a bɛ kɛ ɲɛfɛ ye.
+2. **Kaarit dɔgɔ kɛ.** Fɔlɔ kɛ kaarit saba walima fila ye. Ni a bɛ kɛ ka fɛn caman ye ka kɛ, o kɔ ka kaarit caman kɛ.
+3. **Kaarit nɔgɔnw ni mɔgɔ kɔnɔ kaarit ɲɛfɛ sugandi.** Kɔsɔ ni kɔnɔ, fitinin ni kɔnɔ fitini. Kaarit sɛbɛnnikɛ tɛ, ani kaarit dɔ min kɔnɔ mɔgɔ caman bɛ kɛ, o tɛ.
+4. **Kɛ ɲɛnamasan ye.** "An ka dɔgɔnw ɲɛ" ye "a ka i ka kɛli" ka ɲɛ. Ka ɲɛfɛ ka kɛ, ka dɛmɛ.
+5. **Ka ɲɛ fɔlɔ bɛ kɛ.** Mɔgɔ bɛɛ tɛ kɛ ka sɔrɔ ka ɲɛ. Ni mɔgɔ dɔ bɛ ɲininka, "an ye ɲɛ" ka fɔ, o ye ɲɛfɛ.
+6. **Waati ka tɛmɛnen tɛ.** Waati tɛmɛnen tɛ, ani kɛlɛ kɔ kɔfɛ tɛ.
+7. **Kaarit kuma.** "Ko ɲɛfɛ, dɔnin. I ye dɔ ka sɛbɛn kɛ, i bɛ sumaya ka kɛ wa?" Kuma ye ɲɛnamasan fɛnɛ ye caman.
+8. **Ɲɛfɛ kɛ ka ɲɛnamasan ye.** Sɛbɛnnikɛ fɔlɔ ka kɔ kɛ, ka ɲɛnabɔ ni ɲɛfɛ.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) b'a fɔ ko ɲɛfɔ ɲɛnɛma bɛ kɛ: jɛkɛ kɛ ka ɲɛ ni mɔgɔ bɛ se ka kɛ, mɔgɔ ka gɛlɛya ɲɛ, ani a ka kɛ ka ɲɛ.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ ɲɛnamasan kɛwale ɲɛfɛ fɔ cogo min na: ka kɛlɛ mɔgɔ ka se ni o ye, ka ɲɛ ko ɲɛnamasan, ani ka mɔgɔ ka ɲɛnamaya kɛ ka ɲɛfɛ.
 
-## Jɛkɛ hakilijigin kɛnɛyako min bɛ ɲɛ ka kɛ
+## Sɛbɛnnikɛ hakili ni sɛbɛnnikɛ ɲɛfɛ min bɛ ka kɛ ka kɛ
 
-### Picture pairs (sɛbɛnw kɔrɔ ni sɛbɛn ɲɛ)
+### Picture pairs (sɛbɛnnikɛ ni kaarit ɲɛ kɔnɔ)
 
-[Picture pairs](/games/picture-pairs/) ye sɛbɛn naani ni sɛbɛn 4 ani 12 ye. Sɛbɛnw bɛ ɲɛ, o bɛ kɛ ka sɛbɛn ɲɛ, ka kɛ ka hakili kɛ tɛ. Daminɛ ni sɛbɛn naani. Ni mɔgɔ bɛ fɛ ka kɛ gɛlɛya dɔ ye, i bɛ se ka **Hidden pictures** kɛ, nka sɛbɛnw kɔrɔ ka ɲɛ tile kelen ka kɔfɛ, ni a tɛ ɲɛ mɔgɔ ma.
+[Picture pairs](/games/picture-pairs/) ye sɛbɛnnikɛ ye min bɛ kaarit nɔgɔnw ni kaarit 4 fo 12 ye. Kaarit bɛ ɲɛ kɔnɔ ka kɛ, o kɔ, a ye kɛlɛ ye ka kaarit ɲɔgɔn sɔrɔ, o tɛ kaarit min bɛ ɲɛ hakili kɔnɔ. Fɔlɔ kɛ kaarit naani ye. Mɔgɔ min bɛ stade fɔlɔ kɔnɔ ka ɲɛnamaya, o bɛ se ka **Hidden pictures** kɛ, nka a ka kɛlɛ tɛ ka nisɔndiya tuma ɲɛ, kaarit ɲɛ kɔnɔ ka sɔrɔ.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) bɛ sɛbɛn kelen yɔrɔ kɔnɔ, ani sɛbɛn fila ka se naani fɔ. I bɛ sɛbɛn min kɔnɔ ni a ye, o bɛ kɛ. O ye jɛkɛ hakilijigin ɲɛ ka fɛ sɛbɛn ɲɛ, ani o bɛ ɲɛ mɔgɔ dɔw ma, minnu bɛ sɛbɛn caman ɲɛ tɛ.
+[Find the same](/games/find-the-same/) bɛ kaarit kelen jira kɔnɔ kɔ fɛ, ani kaarit fila ka se naani fɔ kɔ kɔfɛ. I bɛ kaarit min ɲɔgɔn ye, o kɛ. O ye sɛbɛnnikɛ dɔgɔ ye sitɛ kɔnɔ, ani o bɛ kɛ ɲɛfɛ mɔgɔ min bɛ kaarit bɛɛ kɔnɔ ka gɛlɛya, o bɛ kɛ mɔgɔ dɔw ye min bɛ stade kɔfɛ kɔnɔ, mɔgɔ min bɛ a fɛ.
 
-### Photo pairs (sɛbɛn ka hakilijigin ni dɔnkili)
+### Photo pairs (sɛbɛnnikɛ ni yɔrɔ ka sɛbɛnnikɛ)
 
-[Photo pairs](/games/photo-pairs/) bɛ sɛbɛnw i bɛ sugandi ka kɛ jɛkɛ ye: dɔgɔ, sɔgɔsɔgɔ, dugu sɛbɛn. Sɛbɛn min bɛ ɲɛ mɔgɔ ni dugu ye, o bɛ kuma kɛ ka tɛmɛ sɛbɛn ka ɲɛ. Sɛbɛnw bɛ to i ka browser kɔnɔ, u tɛ ka dɔ ta.
+[Photo pairs](/games/photo-pairs/) bɛ sɛbɛnnikɛ ye ni sɛbɛn min i ye a sugandi: sɔgɔ, sogo, bolo ka so. Mɔgɔw ni yɔrɔw min ka dɔnnen ye, u bɛ kuma caman ɲɛ ka tɛmɛ kaarit wɛrɛw ka kan. Sɛbɛnnikɛ bɛ kɛ i ka browser kɔnɔ, u tɛ ɲɛ ni ɲɛnabɔ ye.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) bɛ kɛ ka sɛbɛn kelen-kelen don ɲɛ yɔrɔ min na, i ko ka dan walima ka sɔgɔsɔgɔ yɔrɔ. Sɛbɛn bɛ hakili kɔnɔ min bɛ ɲɛ ka kɛ ka dunuya ka kɛwale ɲɛ, o ye hakili sɛbɛn ye, o tɛ hakili kɔnɔ ka to kɔnɔ.
+[Sort together](/games/sort-together/) bɛ kaarit kelen-kelen ka don sɔrɔ ni kɔ min ye a ka yɔrɔ ye, i n'a fɔ dɔgɔtɔrɔ walima sogo. Sɔrɔ kɛli bɛ kɛ ni duniya cogo dɔnnen ye min bɛ mɔgɔ kɔnɔ fɔ ka se ɲɔgɔn, o tɛ hakili kɔnɔ kɛlɛ ye.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) bɛ sɛbɛn kɔrɔ ka kɛ 4 walima 9 ye. I bɛ sɛbɛn fila ka kɛ, u ka yɔrɔ ka bɔ, fo sɛbɛn bɛ kɛ ka tɛmɛn. Sɛbɛn tɛmɛnen bɛ to ekrɛn kɔnɔ, ka kɛ ka ɲɛ.
+[Picture puzzle](/games/picture-puzzle/) bɛ sɛbɛnnikɛ ye ka kɛ kaarit naani walima kɔnɔntɔ ye. I bɛ kaarit fila tilali ka ɲɛ kɔnɔ fo a ka ɲɛ sɔrɔ. Ɲɛ kɔnɔ kaarit bɛɛ bɛ ɲɛ ka kɛ kɛlɛ ɲɛnabɔ ye.
 
-### Kaari kɛ ka kɛ tabali kan
+### Kaarit tabulɛ kan
 
-Ekrɛn tɛ ko ka wajibi. I bɛ kaari sɛbɛnw bɛ min ka ɲɛ ni sɛbɛn kaari ka kɛ. U bɛ kɛ ka sɛbɛnw ka ɲɛ, ka kɛ fila ye, ka ɲɛ cɛ kelen-kelen ni. Kɔfɛ, i bɛ se ka u ka kɛ ka sɛbɛnw ka ɲɛ ni u ka ɲɛ ye. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) b'a fɔ ko kaari jɛkɛw ni tabali jɛkɛw ye jɛkɛ ye min ka ɲɛ ka kɛ dementia fɔlɔ kɔnɔ.
+I ka ɲɛ tɛ wajibi ye. I bɛ kaarit ɲɔgɔn sɔrɔ kaarit sɛbɛn fila kɔnɔ walima kaarit sɛbɛn ka dɔ kɔnɔ. U ɲɛ kɔnɔ ka kɛ tabulɛ kan, ka kɛ kɔnɔ fila, ka ɲɔgɔn sɔrɔ. Kɔfɛ, u ka kɛ ka sɔrɔ kɛ ni nɔgɔn walima ni kɛlɛ ye. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ kaarit sɛbɛnnikɛ ni sɛbɛnnikɛ tabulɛ ye stade fɔlɔ kɔnɔ sɛbɛnnikɛ ɲɔgɔn ye.
 
-## Jɛkɛ hakilijigin min ka ɲɛ ka kɛ kɔnɔ kɔnɔ?
+## Sɛbɛnnikɛ jɔn bɛ stade o stade ka ɲɛ?
 
-Kɔnɔ ye yɔrɔ ɲɛfɛn ye. Mɔgɔ ka ɲɛ bi ka kɛ, o ye ko min bɛ kɛ.
+Stade ye sɛn ye min tɛ jɛkulu. Mɔgɔ min ka kɛlɛ ye bi, o ka ɲɛfɛ ye ka kɛ.
 
-| Kɔnɔ | Jɛkɛ min bɛ ɲɛ | Cogo min na u ka kɛ |
+| Stade | Sɛbɛnnikɛ min bɛ ɲɛ | Cogo min na u ka kɛ |
 | --- | --- | --- |
-| Fɔlɔ | Picture pairs, Photo pairs, Picture puzzle sɛbɛn 9 ni, kaari jɛkɛ ɲɛ | I ka a sugandi. Sɛbɛnw bɛ ɲɛ fɔlɔ, ni a bɛ ɲɛ, ka tɔgɔ bɔ |
-| Dɔrɔn | Picture pairs sɛbɛn 4 fo 6 kɔrɔ, Find the same, Sort together | Sɛbɛnw bɛɛ bɛ ɲɛ. Sigi u kɛrɛ ka dɛmɛ |
-| Kɔfɛ | Find the same ni sɛbɛn fila, sɛbɛn naani kelen ɲɛ ni mɔgɔ dɔ | Waati gɛlɛn. I bɛ tablet ta; u bɛ ɲɛ walima u bɛ ɲɛ ka mɛn |
+| Fɔlɔ | Picture pairs, Photo pairs, Picture puzzle kaarit 9, kaarit sɛbɛnnikɛ dɔnnen | A ka sugandi. Kaarit bɛ se ka lɔ ni a bɛ kɛ ɲɛfɛ ye; ni ko bɛ a gɛlɛya, ka ɲɔ tɛmɛ |
+| Kɔnɔ | Picture pairs kaarit 4 fo 6 ni kaarit ɲɛ kɔnɔ, Find the same, Sort together | Kaarit bɛɛ bɛ ɲɛ kɔnɔ. Sigi a fɛ ka ɲɔgɔn dɛmɛ |
+| Laban | Find the same ni jaabi fila, sɛbɛn kelen ka ɲɛ ni ɲɔgɔn ye | Ɲɛnabɔ tɛmɛnen. I bɛ tabulɛti sɔrɔ; a bɛ kɛ kɔ, walima a bɛ ɲɛ ka ɲɛ kɔnɔ |
 
-## Jɛkɛ hakilijigin bɛ dementia dɛmɛ wa?
+## Sɛbɛnnikɛ hakili dɛmɛ dementia bolo ye wa?
 
-Jɛkɛ hakilijigin si tɛ ka dementia bɔ ɲɛ, ka a sɔrɔ, walasa a tɛ ka wuli. [Cochrane sɛbɛn](https://pubmed.ncbi.nlm.nih.gov/30864747/) ka kompiyuta hakili kalan ka ɲɛfɔ mɔgɔ min bɛ hakili gɛlɛya fɔlɔ la, o ka ɲɛfɔ tɛ ka sɛbɛn ka kɛ ka dementia kɔrɔ ɲɛ. [Brain games and dementia](/brain-health/brain-games/) sɛbɛn bɛ kuma ko sɛbɛnw bɛ min fɔ, ani u tɛ min fɔ.
+Sɛbɛnnikɛ dɔ tɛ jɛkulu ka dementia kɛ, ka ɲɔ, walima ka ɲɛ. [Cochrane sɛbɛnni](https://pubmed.ncbi.nlm.nih.gov/30864747/) ko kɔmpiyuutɛri hakili sɛbɛnnikɛ ka mɔgɔw ye min bɛ hakili gɛlɛya ye fitinin ye, o ye ko ɲɛfɛ tɛ ɲɛɲɛnɛ ka ɲɛfɛ ko dementia tɛ ka ɲɔ. Site in kɔnɔ kuma min bɛ [sɛbɛnnikɛ hakili ni dementia](/brain-health/brain-games/) kɔnɔ, o bɛ fɔ min bɛ sɛbɛnni kɔnɔ ni min tɛ.
 
-O tɛ ko ka jɛkɛ bɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) b'a fɔ ko kɛnɛyako ye ɲɛ, ka sɛbɛn ka ɲɛ tɛ. Tile tan sɛbɛnw ka ɲɛ ani u ka kuma, o bɛ kɛ tile ɲɛfɛn ye kɛnɛ.
+O tɛ ko sɛbɛnnikɛ bɛ kɛ ka tɛmɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bɛ fɔ ko ka ɲɛnamasan ta, ka tɛ ka sɔrɔ ni kɛlɛ. Waati tɛmɛnen ni kaarit ɲɛ ni kuma kɛ, o bɛ kɛ don ɲɛfɛ dɔ ye.
 
-## Hakilijigin jɛkɛw mɔgɔ si ma min tɛ dementia la?
+## Mun na sɛbɛnnikɛ bɛ mɔgɔ kɔnɔ min tɛ dementia?
 
-Ni mɔgɔ fɔlɔ tɛ hakili gɛlɛya la, ka jɛkɛ dɔnkili, tɔgɔ ani kɛlɛ fɔlɔ ɲɛ, o tɛ kɔnɔ ye. Nka, a kɛ ka dɔ ye ka o kɛ dementia kɔrɔ ɲɛ, sabu jɛkɛ si tɛ ka dementia bɔ ɲɛ. Kɛnɛyako sugandiw kɔrɔ bɛ ɲɛ ni kɛnɛyako ye, ni dɔnkili bɛ kɛ ni ɲɛmɔgɔ ye: fasa ani denw bɛ sɛbɛn ka ɲɛ ka kɛ cɛ kelen-kelen ye, ni dementia tɛ.
+Ni mɔgɔ min tɛ hakili gɛlɛya, a bɛ sɛbɛnnikɛ min waati bɛ, kɛlɛ ni kaarit caman bɛ, o tɛ ko kɔnɔ. Nka aw kana dɛsɛ ni o ye ka dementia dɔgɔya; sɛbɛnnikɛ tɛ ko min bɛ o dɔgɔya ka sɛbɛn. Ɲɛnamasan sɛbɛnnikɛ min kɔnɔ, ni mɔgɔ-kɛlɛ dɔw bɛ kɛ ka kɛ, ka fɔ dementia bolo ni ɲɛmɔgɔ fitini, u bɛ se ka sɛbɛnnikɛ ɲɛfɛ ni kaarit ɲɛ kɔnɔ, ni tɛ ko min bɛ kɛ kɛlɛ ye.
 
-## Cogo di ka kɛ ka jɛkɛ bɔ walima ka kɛ ka sɔrɔ?
+## Mun na i bɛ ka sɛbɛnnikɛ bɔ walima ka o ɲɔgɔn?
 
-Ni mɔgɔ bɛ ka kɔrɔ, ni a bɛ tablet bɔ, ni a bɛ "ne tɛ se ka o kɛ" ko, walima a bɛ gɛlɛya, o ye ko ye ka a kɛ ka sɛbɛn ka ɲɛ walima ka sɔrɔ. Sɛbɛn tɛmɛnen ka kɛ, sɛbɛnw ka ɲɛ, [Find the same](/games/find-the-same/) ka kɛ, walima sɛbɛnw ka ɲɛ ka kuma. Ni u tɛ fɛ ka jɛkɛ kɛ, o ye ɲɛ fana. [How to play together](/caregiving/how-to-play-together/) sɛbɛn bɛ kuma ko waati ni dɛmɛ ye.
+Ni mɔgɔ bɛ sɛ, ni a bɛ tabulɛti ɲɔ, ni a bɛ fɔ ko "ne tɛ se ka o kɛ", walima ni a bɛ ɲɛnabɔ, o ye ko ka ɲɛ walima ka bɔ. Kaarit kɛ dɔgɔ, kaarit ɲɛ kɔnɔ ka kɛ, [Find the same](/games/find-the-same/) ka kɛ, walima kaarit ɲɛ ka kuma. Ni a tɛ sɛbɛnnikɛ fɛ, o tɛ ko ɲɔgɔn. Site in kɔnɔ [ka ɲɛnamasan ka cogo](/caregiving/how-to-play-together/) kɔnɔ kuma caman bɛ wærɛ ka waati ni dɛmɛ kɔnɔ.

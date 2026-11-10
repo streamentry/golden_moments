@@ -1,33 +1,32 @@
 ---
-title: "Demencia uñjatapat sapa uru sarnaqawi"
-seoTitle: "Demencia sapa uru: Ch'iqa uñacht'awi"
-description: "Demencia uñjatapat ch'iqa uru uñacht'awi, manq'a, luraña ukat samaraña sapa pachan thakhinkama, ukat kunjamas jumax nayrakama luraña ukat ch'ikhi urunakan wakisiñamawa."
+title: "Demensiya jaqin sapa uru suma thaqhi"
+seoTitle: "Demensiya sapa uru: muestra ch'uxña uru"
+description: "Demensiya ukan sartata jaqin muestra ch'uxña uru: manq'a, lurañanaka ukat samarañ pachanaka takpach thaqhi ukan, ukat jumax ch'amañchañ ukat ch'uxña urunakan thaqhi lurañ yatiñani."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Jan wali sapa uru sarnaqawiwa, jaqi sartañ, manq'añ, aseo ukat puñuñ
-  pachanakax kunapachas ukhamarakiw sarnaqaraki, luraña pachax jaqi ch'iqa
-  amuyuñkama uñjasiwa, ukat luraña ukat samarañ mayjt'awiwa. Jaqin
-  nayrankir sarnaqäwinakapat lurasiñamawa, janiw jist'arañchi, ukat sapa
-  uru grabi uñjañamawa. Uru ukat jan ukax kunjamas wakisi ukhamaw
-  thakhi mayjt'añama.
+  Suma sapa uru thaqhiñaxa jaqi sartañ, manq'añ, aseo ukat puñuña pachanakax
+  kikpa pachanakan sarnaqañ yanapt'i, nayra lurañ jach'a jaqi amuyt'añ
+  pachanakan utt'ayaña, ukat lurañ samarañamp mayjt'ayaña. Jaqin mayjt
+  sarnaqawinakapat lurañ, ch'iqa jan jaytaña, ni uru ni qhipa uru jaqi
+  sartañ, ukat uruk jaqi amuyt'añ pachan lurañ sapa uru mayjt'ayañ.
 keyPoints:
-  - "Sartañ, manq'añ, uñjañ ukat puñuñ pachanakax ukhamarakiw sapa urux yatiñ tuqi sarnaqaraki."
-  - "Luraña pachax jaqi ch'iqa amuyuñkama uñjasiwa, sapa uru nayraru maykamax."
-  - "Sapa mayni pachaw janiw phuqañamäkiti. Samaraña ukat isi pacha thakhin ukax sarnaqäwin mä chiqapa wakiskiriwa."
-  - "Sapa urun inti manq'ayaña, sapa uru lurañ ukat ch'ikhi puñuñ, mä jan wali puriñatak yanapt'aspawa."
-  - "Thakhi mä yatiyañawa, janiw kamachiti. Jan wali urunakan kuna ukanakas mayjt'am, pisiyañamay jan ukax janiw lurañamäkiti."
+  - "Manq'añ, mankhañ, aseo ukat puñuña pachanakan takpach kikpa pachanakax uru sarnaqañ yatiyañ."
+  - "Jach'a lurañ jaqi amuyt'añ uru, sapa uruw nayra pacha, utt'ayañ."
+  - "Takpach minuto jak'ankañ jan munañ. Samarañ ukat isi pachanakax thaqhi ukankiwa."
+  - "Inti, sapa uru lurañ ukat jan sum puñuña ni qhipa ch'uxña umañanakax qhipa uru jaqi nuwasiñ yanapt'i sasa."
+  - "Thaqhiñax mayjt'ayañ yanapt'iri, mantañ mä kamachi. Jaqi jan sum uruk jaqi, ch'iqa jan jaytaña."
 faq:
-  - q: "¿Kunatsa demencia uñjatapat sapa uru sarnaqawi wali?"
-    a: "Mä uru yatiyatäpan janiw jan suytatäkiti ni jan suytatäkiti, ukax jaqinakan amuyuñ ch'iqa ukat jan utjañ ch'amanaka pisiyaspawa, ukat ukax walpun sut'ichañ ukat amuyañ utjaspawa. Alzheimer's Association sañapkiwa, yatiyatäpan thakhi mä sapa uruw jumax janiw yatiñ mayjt'añ ukat luraña janiw maynit maynikam mayjt'añkamakiti. Ukhamarakiw uñjir jaqinakan uru sarnaqäwiparu yanapt'aspawa."
-  - q: "¿Kunas wali sapa uru thakhiwa demencia uñjatapat?"
-    a: "Janiw mä chiqapa thakhi utjkiti. Wali thakhix sartañ, manq'añ ukat puñuñ pachanakax ukhamarakiw sapa uru sarnaqaraki, aseo ukat luraña pachax jaqi wali pachan utjaraki, mä inti manq'añ jan ukax ventana ch'iqa sarnaqaña, ukat samaraña pachanakax utjaraki. Jaqin mayni uñt'ataparuw lurasiñamawa."
-  - q: "¿Demencia uñjatax uru samañapa?"
-    a: "Mä chhika samaraña yanapt'aspawa, khäpar ch'uxña manq'ayañ qhipat. National Institute on Aging sañapkiwa, jan wali suma samaraña ukat uru tukuyañkama ch'ikhi puñuñ jark'aña, ukax jaqi jan wali samarata jan ukax ch'iqa puñuña ukax jan wali puriñat yatiyañ ch'amañ ukat. Puñuñax jan wali sarnaqaski ukhaxa, jumax doctor uñjirimpi parlañamawa."
-  - q: "¿Kunas utjaspa ukhax jupax thakhi mayjt'añ janiw munaspati?"
-    a: "Jupax jichhürux jaytañamawa, ukat qhipatxa jan ukax mayjt'at thakhimpi yatiyañamawa. Jan munañax jupax sar ch'iqapatax jan ukax janiw ch'amanakapa utjaraki, jan ukax mä jukhu jan wali jani ukax janiw lurañ munañapanakax. Thakhix jaqi sapa uruw yanapt'añatakiwa, ukatwa jan wali thakhiw jan lurañamäkiti."
+  - q: "Ukax kunatixa demensiya jaqin sapa uru thaqhiñax yanapt'i?"
+    a: "Sapa uru amuyt'añ chiqaw jan ch'iqa lurañanaka ukat jan suytañanaka ukanakaxa uñjasi, ukax demensiya ukan sartata jaqinakaru sum jan jaytaña. Alzheimer's Association yatiyi, sapa uru utt'ayata urux jumanakax nayrar amtañ jan mayt'aspaña, ukat sum munañ lurañanakan mayt'añ. Ukax lurañ jaqi suma sarañ yanapt'i."
+  - q: "Kunasa demensiya jaqin suma sapa uru thaqhiqa?"
+    a: "Jan mä chiqa thaqhi utjkiti. Suma thaqhiñax manq'añ, mankhañ ukat puñuña pachanakax kikpa pachanakan utjaspa, aseo ukat jaqi amuyt'añ lurañ jach'a pachanakan utt'ayaspa, sinti pacha jan ch'uxña ukat qhana tuqi ch'iqa pachanakax utjaspa. Jaqin mayjt sarnaqawinakapat lurañ."
+  - q: "¿Demensiya jaqix uru jaqi ch'iqa lunthatañapa?"
+    a: "Jisk'a ch'iqañax yanapt'istaspa, khä mankhañat qhipa. National Institute on Aging yatiyi jan suma ch'iqa ukat qhipa uru ch'iqañ jan munañ, jupanakax jan sumaki puñ ukhax qhipa uru nuwasiñ yanapt'ispa. Puñuñax jan waliki ukhax, jupanakan doctor parlañ."
+  - q: "Kunatsa jupanakax thaqhi jan katuqañ munapxchi ukhax?"
+    a: "Jichhax jaytañ, uk qhipa pachan jan ukax mayni thaqhiñ amtañ. Jan munañax jupanakax ch'iqatanïpxi, janirakiw sum jan utjkiti, lup'iñ utjkaspa jan ukax jan lurañ munkaspa sasa. Thaqhi jaqi ch'amañchañ utjaspa, ukat jan ch'amañchañ."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -46,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-Mä jan wali sarnaqawiw jumar yatiyañ ukat sapa uru sarnaqäwin mä uñjasiñ thakhiwa: sartañ, manq'añ, mä chhika luraña, samaraña ukat puñuña, sapa urun mayni pachanakan. Ukax jan suytatänakampi yanapt'aspawa, ukat kunapachas jumax "kunsa lurañ" sasa amuyañ mayjt'aspawa. Thakhi akax mä yatiyäwiwa, janiw kamachiti. Qalltañatak lurasim, ukat jumar uñjatap jaqi ukar sum sarnaqañamawa.
+Suma sapa uru thaqhiñax uru sarnaqañ mä amuyt'añ chiqar uñtasi: sartaña, manq'añ, mä jisk'a lurañ, samarañ ukat puñuña, takpach mä pachan. Ukax jan jaytañanaka ukat jan suytañanak jaytañ yanapt'i, ukat kunatsa sarañ yatiñ jan amuyt'ataña ukar mayt'añ thaqhi uñjayi. Qhipa thaqhi jan kamachi, mayni jaqin qallt'a. Qalltañ sapa uru lurasa, jumax amparaman jaqi kuna ch'amañchañ sum mayjt'ayañ.
 
-## ¿Kunatsa sapa uru thakhix yanapt'aspa?
+## ¿Kunatsa sapa uru thaqhiñax yanapt'i?
 
-Mä jan wali thakhix yanapt'aspawa, kunattix uñt'atañ sarnaqäwinakax machaq sarnaqäwinakat sasa yanapt'añ sum sum. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) sañapkiwa, mä yatiyatä urux jaqi kuna lurañ amuyañ mayjt'aspawa, ukat walikiw luraña pachanakan utjaraki. Ukhamarakiw sartañ ukat puñuñ pachanakax ukhamarakiw utjañapa, ukax puñuña ch'iqa ukat tuqi jan wali puriñatak yanapt'aspawa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) sañapkiwa, aseo, isi uñt'añ ukat manq'añ sapa uru ukhamarakiw lurañapa, mä isi uta sarnaqäwin utjañapatak. Ukat [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sañapkiwa, jan jaytañ sarnaqäwi ukhamarakiw.
+Mä takpach thaqhiñax yanapt'i, yatiyi familiar thaqhinakax jan familiar thaqhinakat sumaraki katuqañatakix. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) yatiyi mä amuyt'ata uru jan suytañanak lurañ ch'iqaraki, ukat sum munañ lurañanakatakix mayt'añ. Ukhamarak sapa uru utt'ayañ ukat puñuña pachanakax puñuña jan sum ukat qhipa uru nuwasiñ yanapt'i sasa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) yatiyi manq'añ, aseo ukat mankhañ mayni pachan lurañ, mä isi uta utjañatakix, ukat [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ukax mayni thaqhinak imañ yatiyi.
 
-## Mä sapa uru ch'iqa thakhi
+## Muestra isi uru
 
-Pachanakax mä uñacht'äwiwa xane. Pacha jaqi sarnaqäwin thakhi mayjt'añamawa.
+Pachanakax muestra sañäni. Takpach uru jaqin kikpa sarnaqañapat nayrar jan ukax qhipar apt'añ.
 
-| Pacha | Kuns lurasi | Amuyunaka | Jan wali uruna |
+| Pacha | Kunatsa lurasi | Amuyt'awi | Jan sum uruk |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Sartaña, aseo, isi uñt'aña | Sapa uru mayni ukhamarakiw; isi ch'iqa mayt'ayaña | Uñjañ ch'ikhipuni; mä machaq aycha walikiw |
-| 8:45 a.m. | Ch'ukuña | Kafi ukat qillqat ch'uqa parlaña, jan ukax radio | Chhaqtañ isin ch'uqa manq'aña, janiw parlañ ch'amañ |
-| 9:30 a.m. | Jach'a luraña | Isi tiñuña, t'ant'a luraña, uta ch'uqi, jan ukax mä chhika sarañ | Mä ch'iqa luraña, jan ukax jupax uñjañ |
-| 10:30 a.m. | Ch'iqa pacha | Musica, fotonaka, jan ukax ventana ch'iqa jaytaña | Munat silla ch'iqapan samaraña |
-| 11:00 a.m. | Almuerzo yanapt'aña | Ch'uqinaka ch'uqaña, mesa uñjaña | Jumax ch'uqaña; jupax jumampi sarañ |
-| 12:00 p.m. | Almuerzo ukat ch'iqanchaña | Mesa ch'alltaña, mä qala ch'alltaña | Lurañanaka jaytaña |
-| 1:00 p.m. | Chhika samaraña | Jaqi chakanak, suma musica | Kunjamas nayrax |
-| 2:00 p.m. | Jaqsa jan jaqsa luraña | Sarañ, patio pacha, quntanak umaña, mä bola jaytaña | Inti manq'ayañ ventana ch'iqa |
-| 3:00 p.m. | Jaqinakampi jan ukax luraña | Mä jutaña, mä jawsu, [picture pairs](/games/picture-pairs/), pintura, naipes | Mä umañ ukat mä manq'ayaña jukhu |
-| 4:30 p.m. | Ch'iqachaña pacha | Cortinanaka t'akhaña, luzinaka phasi, mä ch'iqa luraña ukax ch'uqinaka jaruña | Suma musica, jan ch'uxña ch'uqi |
-| 5:30 p.m. | Ch'uqi manq'aña | Ch'uqi tuqita yanapt'aña, jan ukax mesa uñjaña | Sum ch'uqi, aka uñt'ata |
-| 6:30 p.m. | Jaqinakampi utjaña | Qhipa manq'añ ukat yatiyañ, pastel, naipes, jan ukax mä jan wali sarnaqäwi, mano t'ant'aña | Ch'iqa jaqinakampi utjaña |
-| 8:00 p.m. | Puñuña pacha | Umañ jan ukax aseo, puñuña isi, ch'iqa musica, ch'ichi luzinaka | Ch'iqachaña ukanakax; suma jank'aki jaqi |
+| 8:00 nayrïr uru | Sartaña, aseo, p'iqiñ lurañ | Mayni thaqhi takpach uru; isi p'iqiñ amtañ | Aseo jisk'a; mä jak'a isi jakhu sum |
+| 8:45 nayrïr uru | Manq'añ | Kafi ukat periódico aru, jan ukax radio | Isi manq'añ, jan parlañ munañ |
+| 9:30 nayrïr uru | Jach'a lurañ | Chuyma awayu, kuchu, uma sum, jisk'a sarnaqaña | Jisk'a sañ, jan ukax uñjaña |
+| 10:30 nayrïr uru | Isi pacha | Taqi, photo album, ukat qhana tuqi sayt'aña | Munat silla ukan samarañ |
+| 11:00 nayrïr uru | Almuerzo yanapt'añ | Ch'uqinaka aptaña, mesa lurañ | Jumax manq'ayañ; jupax jumaru uñt'aña |
+| 12:00 qhipa uru | Almuerzo ukat ch'iqañ | Mesa aptaña, mä jisk'a p'iqi qhaspaña | Lurañanaka jan lurañ |
+| 1:00 qhipa uru | Jisk'a samarañ | Kayunaka jaqhu, isi taqi | Kikpa |
+| 2:00 qhipa uru | Phaxsi ukan jan ukax lurañ | Sarnaqaña, pórtico uru, uma ch'iyañ, globo sayt'aña | Inti ukan qhana tuqi sayt'aña |
+| 3:00 qhipa uru | Jaqinakampi jan ukax lurañ | Mä uñjaña, mä llamada, [jaqi ch'iqa uñjaña](/games/picture-pairs/), pintaña, cartas | Mä umaña ukat mä manq'ayaña |
+| 4:30 qhipa uru | Chiqañ pacha | Pantalla ukat luz uchaña, isi lurañ uñt'ata p'iqinaka | Taqi familiar taqi, isi jan ch'ulla |
+| 5:30 qhipa uru | Alwarzo | Mesa lurañ jan ukax wayk'aña | Isi, familiar manq'añ |
+| 6:30 qhipa uru | Taqi jaqinakampi | Amuyt'awinaka postre ukan, cartas, familiar uñjaña, amparampi wal sarnaqaña | Isi jaqinakampi |
+| 8:00 qhipa uru | Puñuña lurañ | Mayt'asiña jan ukax p'iqi, p'iqi ch'uqi, isi taqi, jisk'a qhana | Taqi jisk'a; sum jan puñuña ukat jaytañ jisk'a |
 
-Akax Alzheimer's Association mä yatiyatäpan thakhimpi sarnaqäwiwa, nayra ukat jan ch'iqa uñt'aña pachanakatak, aseo ukat ch'uqi manq'aña, lurañanakax, sarañ, uñt'aña, samaraña, qhipa manq'añ ukat puñuña pacha.
+Ukax Alzheimer's Association qillqata muestra thaqhi uñjasi, nayra ukat jach'a pachanakatak, sartañat manq'añ kama, lurañ, sarnaqaña, taqi, samarañ ukat jaqinakampi amuyt'añ kama puñuña.
 
-## ¿Kunas thakhi jumax lurasma?
+## ¿Kunas mä sapa uru thaqhi lurasa?
 
-Qalltañax janiw chart ukat utjañapäkiti, jaqi kunjamas sarnaqaskan uka uñjasa. Alzheimer's Association sañapkiwa, nayra lurañat ukanakan amuyañamawa:
+Chiqa ch'iqañ jan, jaqin sarnaqawinakapat qalltaña. Alzheimer's Association yatiyi jumax lurañ sarnaqañ qhipa amuyt'aña:
 
-- **Jupan munañapa, janiw munañapa, ch'amapa ukat yatiñapa.**
-- **Kunjamas nayrar sarnaqaskäna.** Sapa uru jaya sartir jaqix jaya sartañamawa. Mä puñuña uru sarir jaqix janiw 8 a.m. sartañ munkaspati.
-- **Jupan wali pacha.** Aseo, sarañ ukat jach'a luraña ukar uchañamawa.
-- **Ch'iqa pacha** manq'añ, aseo ukat isi uñt'añatak, jan ch'ikhi lurañapataki.
-- **Sapa uru sartañ ukat puñuña pacha.**
+- **Jaqin munañanakapa, jan munañanakapa, ch'amanakapa ukat yatiñanakapa.**
+- **Kunsa nayra urunakan lurarakiti.** Nayra sartir jaqix nayra sarnaqañ sum. Qhipa uru yatiri jaqix 8 nayrïr uru qalltañ jan sum.
+- **Jach'a pachapa.** Aseo, sarañ ukat jach'a lurañ ukan utt'aña.
+- **Mä jakhu pacha** manq'añ, aseo ukat p'iqiñ lurañ ukanakatakix, takpach jan jaytañanakax utjañapataki.
+- **Regular sartaña ukat puñuña pachanaka.**
 
-Ukat ukax yatiyaraki, utapan lurañanaka, manq'añanaka, aseo ukat t'ant'a ukat jaqinakampi utjaña, ukhamarakiw suma amuyunaka ukat jan suytatäki pacha, kunjamas jaqi jutaski ukax.
+Ukhamarak uka qillqata yatiyi, jaqin sarnaqañan ch'ulla lurañanaka, manq'añ, aseo, p'iqi lurañanaka, taqi ch'amañchañ, jan phaxsi ukhax sarnaqaña, sarnaqaña, ukat mayt'añ pachanaka, kunanakas ch'uxña jaqi jutañapa, sasa.
 
-### Mä phaxsi uñtasma, ukat mayjt'asma
+### Mä phaxsi uñt'aña, ukatxa lurañ
 
-Sapa uru yatiyawi qillqasma. Alzheimer's Association sañapkiwa, kunas wali sarnaqäwinakaw walikïna ukat kunatsa, jan ukax ch'iqa pacha jan lurañanaka, jan ukax jan ch'iqa jan lurañanaka utjäna, ukat jan suytatäki sarnaqäwinakax llakisiñ utjayäna. Walikïki ukanakar imañamawa, jan walinakar mayjt'añamawa.
+Uru ch'iqaña mä jisk'a qillqa. Alzheimer's Association yatiyi kunanakas sum lurañ, kunanakas jan sum, nayra lurañanakax takpach, jan ukax ch'ulla, ukat jan suytañanakax jan jaytañanakax. Sum utt'aña, jan utt'aña.
 
-### Uñjañ thakhi
+### Uñjañ munañ
 
-Jaqix qillqat uñt'añ ukhaxa, mä pizarrón jan ukax jach'a qillqa mä uru thakhi ukax suma. Chhika qillqañamawa: "Ch'ukuña. Sarah jaqimpi sarañ. Manq'añ. Samaraña." Yaqhepax janiw nayrar yatiñ munañapa; Family Caregiver Alliance sañapkiwa, llakisiñ utjasi ukhax sarnaqäwinak janiw nayrar parlañamäkiti.
+Jaqi jichhürunakax qillqañ yatiñ, mä pizarra jan ukax mä qillqa uru thaqhi sum amuyt'ayi. Jisk'a qillqa: "Manq'añ. Sarah ukampi sarnaqaña. Almuerzo. Samarañ." Juk'ampi jaqinakax nayrar yatiñ jan munapxi; Family Caregiver Alliance yatiyi lurañanaka jan parlañ ukhax, jan suytañ utjañ.
 
-## Kunjamas thakhi mayjt'aña
+## Kunsa thaqhi amuyt'añ
 
-### Samaraña ch'iqa
+### Samarañ pacha jaytaña
 
-Janiw sapa mayni pachaw phuqañamäkiti. Alzheimer's Association sañapkiwa, jaqix lurañ ukat samaraña ch'iqapan utjañapa ukat mä qhipa chhika samaraña munaspa. Jupax aburrido, jan amuyasi jan ukax colérico uñjaraki ukhaxa, luraña jan ukax samaraña mayjt'am.
+Taqi minuto jak'ankañ jan munañ. Alzheimer's Association yatiyi jaqix lurañ ukat samarañ kikpa chiqa munaraki ukat juk'amp samarañ munaraki. Jupax jan ch'iqañ, lup'iñ jan ukax jan munat sarnaqañanakax, lurañ jan ukax samarañ.
 
-### Qhipa manq'añ jaysaña
+### Qhipa jiwasa ch'uxña pacha
 
-Yaqha jaqinakax inti manq'ayañ qhipat jan wali llakisiñ utjaspa. NIA sañapkiwa, sapa uru inti manq'ayañ ukat ventana ch'iqa sarañ, sapa uru ch'amampi lurañ jan jach'a amuyañ, qhipa manq'añ cafeína ukat alcohol jan manq'añ, ukat qhipa manq'añ chhika samaraña jark'aña. Yaqha familianakax sut'ichapxi, luzinaka phasi ukat cortinanaka t'akhañax suma. Uñjasim [qhipa manq'añ llakisiñ](/caregiving/late-day-restlessness/) ukat [puñuña](/brain-health/sleep/).
+Juk'a jaqinakax inti tukuñ qhipa uru lup'iñ. NIA yatiyi uru inti ukan jan ukax qhana tuqi sarnaqañ, takpach uru lurañ jan jach'a amuyt'ata, qhipa uru kafi ukat alkhol jan umañ, ukat qhipa uru jan suma puñuña. Juk'ampi familias yatiyi phaxsi tukuñ sapa qhana tuqi kiwjañ ukat luz uchaña ch'iqaraki. Uñjañ [qhipa uru lup'iñ](/caregiving/late-day-restlessness/) ukat [puñuña](/brain-health/sleep/).
 
-### Pachanakan mayjt'aña
+### Kunjamsa thaqhi jakhu sarnaqañ
 
-- **Nayra pacha:** thakhi chiqapar lurasim. Jaqix qillqat thakhi munaspa, jupa mayni lurañatak.
-- **Chiqa pacha:** jumax yanapt'asma. Chhika lurañanaka, yaqha samarañanaka ukat walja uñt'at lurañanaka; uñjasim [chiqa pacha lurañanaka](/activities/middle-stage/).
-- **Qhipa pacha:** thakhix aseo, manq'añ ukat jan wali uñjañ ukar sarnaqaspa, mä ch'iqa musica jan ukax mano t'ant'aña ukanakampi; uñjasim [qhipa pacha lurañanaka](/activities/late-stage/).
+- **Nayra pacha:** taqi thaqhi lurañ. Jaqix mä qillqata thaqhi munañ, jupanakax amparampi lurañ.
+- **Taypi pacha:** jumax juk'amp irpasiñ. Jisk'a lurañanaka, juk'amp samarañ ukat familiar lurañ; uñjañ [taypi pachan lurañanaka](/activities/middle-stage/).
+- **Qhipa pacha:** thaqhi jaqin isi ukat manq'añ, lup'iñ ukat jisk'a sum taqi ch'amañchañ, uka pachan musica ukat amparampi wal sarnaqaña; uñjañ [qhipa pachan lurañanaka](/activities/late-stage/).
 
-### Lurañanakax mayjt'aña, thakhi janiw
+### Lurañanaka mayjt'ayaña, thaqhi jan
 
-Manq'aña, samaraña ukat puñuña ch'iqa jaytasim, ukat luraña ukanakax mayjt'asma. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sañapkiwa, sapa urunakan yaqha lurañanakas lurasiñamawa. Lunes uru t'ant'a luraña, martes uru uta tiñuña, miércoles uru fotonaka uñjaña. Nuestra [101 lurañanaka](/activities/ideas/) ukat [uta lurañanaka](/activities/household-tasks/) ukanakax walja utjaraki.
+Manq'añ, samarañ ukat puñuña pachanaka sapa uru ukhamar utt'ayaña, ukat ukanakan lurañanaka mayjt'ayaña. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi mayni urunakan mayni lurañanaka lurañ, taqi uru jan ch'iqa. Jumax Martes uruw kuchu lurañ, Mirkuri uruw uma sum, Yatiqañ uruw photo uñjaña. Qhipa [101 lurañ ideas](/activities/ideas/) ukat [uta lurañanaka](/activities/household-tasks/) ukanakax chiqa pachan yanapt'i.
 
-## Kuna uru jan wali sarnaqaski ukhax
+## Jan sum uruk kunas lurasa
 
-Yaqha urunakax janiw thakhimpi sarnaqkiti. Jan walt'äwi, jan suma puñuña, doctor uñjasiña jan ukax jaya jan ch'iqa ukanakax thakhi mayjt'aspawa. Thakhi jaytasim, manq'añ, umaña, samaraña ukat suma uñt'añ ch'ikhipuni, ukat qhipatxa jan wali sarnaqañamawa. Jaqix mä lurañ jan munaspa ukhaxa, uñjasim [jan munañ](/caregiving/when-they-say-no/). Mä chhika samaraña jupanakampi, kunjamas [calm breathing](/games/calm-breathing/) ukax, yanapt'aspawa.
+Jan mayni thaqhi katuqañ uru utjani. Jan waliki, jan suma puñuña, doctor jutaña jan ukax jaya uru ukanakax takpach thaqhi jaytañapa. Thaqhi jaytaña, jan ukax wali sum jaytaña: manq'añ, umaña, samarañ, sum jan jaytaña, ukat qhipa uru utt'aña. Jaqix jan munañ ukhax, [jan sañ munañ](/caregiving/when-they-say-no/) uñjaña. Mä jisk'a ch'uxña samarañ, [sum ch'uxña samarañ](/games/calm-breathing/) ukhamaraki, jumanakampi ch'amañchañ.
 
-Jumanakan sarnaqäwix ukhamarakiw wali. Jumanak samaraña pacha uñjasim, ukat familia jan ukax respiro uñjirinakaru mayni pacha jaytañamawa. Uñjasim [caregiver self-care](/caregiving/caregiver-self-care/).
+Jumanakan sapa uru ukax wali sum. Jumanakatakix jisk'a samarañ lurañ, ukat familia jan ukax respiro uñjañ mayni pacha lurañ. Uñjañ [jumanakan jaqi amparampi](/caregiving/caregiver-self-care/).

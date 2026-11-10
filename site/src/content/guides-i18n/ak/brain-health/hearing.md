@@ -1,31 +1,28 @@
 ---
-title: "Tie Yare ne Dementia Asiane: Nhwehwɛmu Kyerɛ"
-seoTitle: "Tie Yare ne Dementia: Nhwehwɛmu Kyerɛ"
-description: "Dɛn nti tie yare yɛ dementia asiane a ɛkɔ soro, nea ACHIEVE tie mmoa adwuma kyerɛe, ne sɛnea wobɛhwehwɛ tie na wɔaboa ɔkasa ayɛ mmerɛ."
+title: "Tie Nkwa ne Dementia Kyinkyin: Nea Nhwehwɛmu Kyerɛ"
+seoTitle: "Tie Nkwa ne Dementia: Nea Nhwehwɛmu Kyerɛ"
+description: "Efiti a tie nkwa yɛ dementia kyinkyin a ɛyɛ den, nea ACHIEVE tie aboa (hearing aid) nhwehwɛmu hunuu, ne sɛnea wobɛhwehwɛ wo tie na wɔakasa yie."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Afotuo 2024 Lancet Commission no ka tie yare ho sɛ dementia asiane kɛse a yɛtumi sesa. Wɔ ACHIEVE
-  adwuma mu no, tie mmoa anni adwene nkɔso so yiye nyinaa, nanso nnipa a asiane a ɛkɔ soro wɔ mu no
-  kyerɛɛ sɛ adwene nkɔso no yɛɛ kakra. Tie mmoa boa nkasa ne da biara adwuma wɔ ɔkwan biara so.
-  Hwehwɛ tie, susuw tie mmoa a wotumi ta fa dwadie mu anaa a wɔde ntoatoaso tɔ, na kasa ne dokota.
+  Lancet Commission a wɔyɛe wɔ 2024 kyerɛ sɛ tie nkwa yɛ dementia kyinkyin kɛse a yɛbɛtumi asesa. Wɔ ACHIEVE nhwehwɛmu mu no, tie aboa nnyaa dementia nnwuma ase nyinaa, nanso nnipa a wɔwɔ kyinkyin kɛse mu no yɛɛ yie. Tie aboa boa nkasa ne da biara nnwuma wɔ ne nyinaa mu. Hwehwɛ wo tie, hwɛ sɛ wobetumi anya tie aboa a wɔde bɔ wo ho ban anaa a wɔtɔ wɔ dwumadie so, na kasa ne dokota.
 keyPoints:
-  - "Lancet Commission no bu sɛ tie yare de dementia no bi ba wɔ wiase nyinaa, sɛ nkyɛmu 7, na ɛne asiane 14 no mu kɛse pɛ a ɛda so ara."
-  - "Wɔ ACHIEVE adwuma a nnipa 977 wɔ mu no, tie mmoa anni adwene nkɔso a ɛba mfe abiesa mu so."
-  - "Wɔ ACHIEVE adwuma mu kakraa bi a asiane kɛse wɔ mu no, adwene nkɔso no yɛɛ 48% bio wɔ tie mmoa so; eyi hia sɛ wɔsi so dua."
-  - "Afe 2022 Oktoba ara kwa, US nnipa a wɔwɔ tie yare a ɛyɛ kakra kɔ akɔsi so no betumi atɔ FDA-hyɛ tie mmoa wɔ dwadie mu."
-  - "Wɔ 2024 mu no, wɔde ani a ɛnhunu yie ka dementia asiane foforo ho; enti ani hwehwɛ nso ho hia."
+  - "Lancet Commission bu sɛ tie nkwa de dementia abɛyɛ about 7% wɔ wiase, na ɛyɛ nea ɛkɔ anim wɔ factors 14 no mu."
+  - "Wɔ ACHIEVE nhwehwɛmu mu, nnipa 977 a wɔyɛ mmofra, tie aboa nsesaa nneɛma a ɛfa adwene kɔ so no wɔ mfe abiɛsa mu."
+  - "Wɔ nnipa kakraa a wɔwɔ kyinkyin kɛse mu wɔ ACHIEVE mu no, adwene nsɛ yɛɛ 48% brɛoo sɛ wɔde tie aboa wɔ; eyi hia sɛ wobɛsisi no."
+  - "Wɔ October 2022 fi, wɔ United States no, tie nkwa a ɛyɛ kakraa kɔ akyɛre kɔ so no mma nnipa a wɔwɔ mfe 18 kɔ soro tumi tɔ tie aboa wɔ dwumadie so san nsɛ ɔdokota kyerɛ."
+  - "Wɔ 2024 no, wɔde ahuhuru a wonhwɛ ho yie ka dementia kyinkyin ho, enti nhwɛso ho nso hia."
 faq:
-  - q: "Tie mmoa ban dementia?"
-    a: "Yɛnnya nkyerɛ sɛ ɛte saa. ACHIEVE adwuma no huu sɛ ɛnsesaa adwene nkɔso mfe abiesa mu yiye, nanso asiane kɛse a nnipa bi wɔ mu no yɛɛ bi yiye. Tie mmoa ka ho sɛ ɛboa nkasa, ahobammɔ ne da biara nkwa, enti ɛsɛ sɛ wususuw ho."
-  - q: "Hena na ɛtumi tɔ dwadie mu tie mmoa?"
-    a: "FDA ma nnipa a wɔn mfe ayɛ 18 anaa ɛboro saa, a wɔwɔ tie yare a ɛyɛ kakra kɔ akɔsi so, tumi tɔ tie mmoa wɔ dwadie anaa wɔ intanɛɛt so, a ɛnhia ntoatoaso. Wɔnsɛ ɛyɛ ma tie yare a ɛyɛ den. Obiara a ɔwɔ atoro yaw, nsu a efiri atoro mu, ayaw anaa tie a ɛsesa ntɛm no, ɛsɛ sɛ ɔkɔhwɛ dokota ansa."
-  - q: "Tie yare betumi ayɛ sɛ dementia?"
-    a: "Aane, ebetumi. National Institute on Aging ka sɛ nnipa kɛseɛ a wontumi nte yie no, wɔbɛtumi asusuw sɛ wɔn adwene ayɛ fɛw anaa wɔammɔ wɔn ho ano. Sɛ obi a wo hwɛ ho no yɛ sɛ ɔrepɛn anaa ɔntie nea wɔka no, tie hwehwɛ yɛ anidasoɔ kɛse."
-  - q: "Ɛsɛ sɛ nnipa kɛseɛ hwɛ wɔn ani bere bɛn?"
-    a: "National Institute on Aging ka sɛ ɛsɛ sɛ wɔhwɛ ani mfe biara anaa mfe mmienu biara wɔ mfe 60 akyi, anaa sɛnea ani hwɛfo ka. Nnipa a wɔwɔ ɔsɔre yaw anaa mogya ntɛm kɔ soro no, ɛsɛ sɛ wɔhwɛ ani mfe biara ɛrɛ mpɛn baako."
+  - q: "Tie aboa tumi ban dementia a?"
+    a: "Wɔnnya nkyerɛ sɛ ɛyɛ saa. ACHIEVE nhwehwɛmu no hunuu sɛ adwene nsɛ nkɔ kwan nnyinaa nnaa mfe abiɛsa, nanso kyinkyin kɛse mu nnipa no yɛɛ yie. Ɛda so ara na tie aboa ka ho, efisɛ ɛboa wɔ nkasa, ahoɔden ne da biara nnwuma mu."
+  - q: "Hena na tumi tɔ tie aboa a wɔde dwumadie so?"
+    a: "Wɔ United States no, FDA ma nnipa a wɔwɔ mfe 18 kɔ soro a wɔka sɛ wɔte nka tie ayɛ kakraa anaa ɛdɛn ara no tumi tɔ tie aboa wɔ dwumadie so, wɔ sima mu anaa wɔ intanɛt so, a ɛnhia sɛ wɔde ɔdokota kyerɛwsɛm. Ɛnyɛ ma tie nkwa a ɛyɛ den. Ɔman foforɔ mu mmara nyinaa nyɛ pɛ, enti bisa ɔtie adwumayɛfo anaa ɔdokota ansa na wotɔ. Sɛ wowɔ ntamadeɛ wɔ nkɔtɔ mu, nsu fi nkɔtɔ mu, abɔdeɛ anaa tie a ɛsesa ntɛm, hyia dokota ansa na wɔayɛ biribi."
+  - q: "Tie nkwa betumi ada sɛ dementia a?"
+    a: "Ɛbetumi. National Institute on Aging ka sɛ nnipa a wɔyɛ mmofra a wɔntumi ntie yie no, wɔbɔ mmuaeɛ wɔ sɛ wɔrenhu nea wɔreka anaa wɔrenya ahoɔden kɔ so. Sɛ obi a wodi no ho ba adwene ho nnyɛ no ya anaa wonnte nea wɔka no, tie nhwehwɛmu yɛ anidasoɔ kwan."
+  - q: "Ɛda bɛn na mmofra a wɔyɛ mmofra kɔhwɛ wɔn ani?"
+    a: "National Institute on Aging ka sɛ wɔnhwɛ ani wɔ ani mu nsɔhwɛ bere biara mfe biako anaa mfe abien akyi wɔ mfe 60 akyi, anaa sɛnea wo ani hwɛfo ka. Nnipa a wɔwɔ sukrɔm anaa mogya kɔkɔɔ yɔnko no sɛ wɔhwɛ ani no bere biara mfe biako."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Tie yare yɛ yare a ɛba nnipa a wɔn mfe akɔ so mu bebree, na asɛnkafo'fo hwɛ no yie sɛ dementia asiane. Eyi nkyerɛ sɛ tie mmoa yɛ ɔkwan a wɔasi so dua sɛ ɛbɛtumi aban dementia; nhwehwɛmu a ɛdi kan no kyerɛɛ nea ɛnyɛ pɛ. Saa nkyekyɛmu yi kyerɛkyerɛ nea nhwehwɛmu no kyerɛ, sɛnea wobɛhwehwɛ tie, tie mmoa a wɔtɔ wɔ dwadie mu yɛ dɛn, ne sɛnea wobɛma nkasa ayɛ mmerɛ.
+Tie nkwa yɛ yare a nnipa pii wɔ no bere a wɔaba mfe mu, na nhwehwɛfo hwɛ so yie sɛ ɛyɛ dementia kyinkyin. Eyi nkyerɛ sɛ tie aboa yɛ ɔkwan a wɔasi hɔ pefee sɛ ɛbɛban dementia; nhwehwɛmu a ɛkɔ anim no nyinaa yɛɛ nea ɛnyɛ pɛ. Saa nkyekyɛmu yi kyerɛ nea nhwehwɛmu no kyerɛ, sɛnea wobɛhwehwɛ wo tie, tie aboa a wɔtɔ wɔ dwumadie so wɔ United States, ne sɛnea wobɛma nkasa ayɛ yie.
 
-## Adɛn nti na tie ho hia wɔ adwene yareɛ mu?
+## Adɛn nti na tie yɛ hia ma adwene ho yare?
 
-Tie yare ka ho sɛ dementia betumi aba. [Lancet Commission afe 2024 no](https://doi.org/10.1016/S0140-6736(24)01296-0) bu sɛ ɛde nkyɛmu bi, yebetumi aka sɛ nkyɛmu 7, ba wiase nyinaa. Eyi ma ɛne kolesterol a ɛyɛ kɛse wɔ mogya mu ka ho wɔ asiane 14 a wɔsusuw wɔ Commission no nhwehwɛmu mu no mu kɛse pɛ, sɛnea [UCL nkyerɛase a ɛfa amanneɛ no ho](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) kyerɛ.
+Tie nkwa ne dementia kyinkyin di ntam. [Lancet Commission a wɔyɛe wɔ 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ka sɛ ɛde dementia abɛyɛ about 7% wɔ wiase. Eyi ma ɛyɛ nea ɛkɔ anim, ka ho ne high LDL cholesterol, wɔ factors 14 a wɔbɛtumi asesa no mu wɔ Commission no nhwehwɛmu mu, sɛnea [UCL nkyerɛase a ɛfa lipoti no ho](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) kyerɛ.
 
-Nea Commission no hunuu:
+Commission no nhwehwɛmu mu nsɛm titiriw:
 
-- **Tie yare de kasa kɔ so.** Wɔ nhwehwɛmu a wɔboaboa nsɛm mmienu a ɛyɛ pa no mu, nnipa a wonnte yie no nnim sɛ dementia betumi aba wɔn so kɛse sɛ nea ɛboro 37% sɛ nnipa a wonte yie.
-- **Tie a ɛyɛ den, asiane kɛse.** Nhwehwɛmu a ɛhwehwɛ tie yare kɛse no kyerɛɛ sɛ asiane no kɔ soro sɛnea tie no yɛ den.
-- **Nneɛma a ɛma saa ba, nanso wɔnnya nkyerɛ pɛpɛɛpɛ.** Nsusuwii ka ho sɛ onipa tirim a ɔnni ne ho, ɔyare a ɛyɛ mmerɛ, adwene a ɛnyɛ nnwuma kɛse, ne tumi a ɛho hia sɛ wɔtie no fi ho.
+- **Tie nkwa de kyinkyin kɛse ba.** Wɔ nhwehwɛmu a wɔboaboa ho nhwehwɛmu pa nsia mu no, nnipa a tie nkwa wɔ no wɔ dementia kyinkyin about 37% kɛse sen nnipa a wɔtie yie.
+- **Nea ɛyɛ den no, kyinkyin no nso kɛse.** Nhwehwɛmu a ɛhwehwɛ sɛnea tie nkwa yɛ den no hunuu sɛ sɛ tie ayɛ den a, kyinkyin no nso kɔ soro.
+- **Nsɛmmisa a wɔnnya mmuaeɛ pefee no.** Nneɛma a wɔsusuw no ho ka ho ahonyadeɛ ne ahoɔfɛ a ɛba, mmerɛw a wɔbɛyɛ ne kɔkɔbɔ ne adwene so nnɛyɛ ne tumi a ɛbɛyɛ adwene.
 
-Tie yare yɛ yare a ɛba nnipa bebree. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) ka sɛ nnipa kɛseɛ baabi a ɛyɛ mmiensa wɔ so no wɔ tie yare, na ɛkɔ soro sɛnea wɔn mfe kɔ so.
+Tie nkwa yɛ yare a nnipa pii wɔ. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) ka sɛ about mfeɛ mu ɔkyeneɛ biako wɔ mmofra a wɔyɛ mmofra mu wɔ no, na ɛbɛkɔ soro sɛnea wɔn mfe kɔ soro.
 
-## ACHIEVE tie mmoa adwuma no kyerɛe dɛn?
+## Dɛn na ACHIEVE tie aboa nhwehwɛmu hunuu?
 
-ACHIEVE yɛ adwuma kɛse a ɛfa tie mmoa ne adwene nkɔso ho a wɔyɛe ne nea edi kan. Nsɛm a wɔka faa ho no ho ɛyɛ basaa, enti ɛha yɛ nsɛm a ɛwɔ [adwuma no ntoatoaso a wɔde asi hɔ](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) mu.
+ACHIEVE ne nhwehwɛmu a edi kan a wɔyɛɛ wɔ tie aboa ne adwene kyinkyin ho. Nnipa pii kyerɛkyerɛ ne nsesaeɛ yiye, enti yei ne nsɛm a ɛwɔ [nhwehwɛmu a wɔakyerɛw no mu](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) mu.
 
-- **Nnipa a wɔpɛɛ:** Nnipa 977 a wɔn mfe yɛ 70 kosi 84, a wontumi nnwen tie yare ho, na adwene nni yare pii, wɔ US mpɔtam hɔ baabi anan.
-- **Nea wɔtoo mu:** Fa bi nyaa tie mmoa ne nkyerɛkyerɛ a wɔde kɔmaa ɔdɔkotafo a ɔhwɛ tie so. Fa a aka no nyaa sukuu a wɔkyerɛkyerɛ ahoɔyaw wɔ mfe akɔ so ho.
-- **Nea edi kan:** Mfe abiesa akyi no, adwene nkɔso no anni nsonsonoe biara ntam wɔ nnipa abien no mu so.
-- **Nea ɛwɔ asiane kɛse mu:** Adwuma no fii nnipa abien mu. Nnipa 238 fii dwumadi a ɛhwehwɛ akoma yare (ARIC) mu, na wɔn a wɔwɔ mu no, wɔwɔ asiane kɛse sɛ adwene nkɔso bɛba. Wɔ saa nnipa yi mu no, adwene nkɔso no yɛɛ **48% bio** bere a wɔde tie mmoa. Nnipa 739 a wɔyɛ ɔsɔfoɔ wɔ mpɔtam mu no, adwene nkɔso a ɛda so no nni nsonsonoe a ɛda so.
+- **Nnipa a wɔyɛɛ nhwehwɛmu no:** Nnipa 977 a wɔyɛ mfe 70 kɔ 84 a tie nkwa wɔ wɔn ho nanso wɔn adwene nyɛ yaw kɛse, wɔ United States mpɔtam nkitahodie baanu mu.
+- **Nea wɔtoo mu:** Ɛfã biako nyaa tie aboa ne nkyerɛkyerɛ a ɔtie aboa dwumadifo a ɔyɛ ɔbɔadeɛ kyerɛ wɔn. Ɛfã a ɛtoatoa so no nyaa ayɛde a ɛkyerɛkyerɛ ahoɔfɛ wɔ mmerɛ a wɔrehyɛ ase.
+- **Nea ɛfiri mu baeɛ:** Afe abiɛsa akyi no, nnipa a wɔyɛ ɛnnɛ ne nnipa a wɔnnyaa tie aboa no ntam ammɛyɛ adwene kyinkyin mu **nsɛ nsesaeɛ**.
+- **Nea ɛfa nnipa akɛse ho nsɛm:** Nhwehwɛmu no fi nnipa a wɔyɛ ɔkwan biako mu. Nnipa 238 fii ARIC, adesua a ɛfa koma ho a wɔyɛ de mfe pii, mu, na wɔn nyinaa wɔ kyinkyin kɛse wɔ adwene ho. Wɔ saa nnipa yi mu no, adwene nsɛ brɛɛ **48% brɛoo** wɔ tie aboa a wɔde wɔ so. Nnipa 739 a wɔyɛ nnipa a wɔwɔ yare pa a wɔboa wɔ nkurɔfo mu no, nsesaeɛ a ɛda so ara ntumi nhu.
 
-Sɛnea yɛbɛkenkan eyi yie:
+Sɛnea wobɛkenkan eyi yiye:
 
-- Ɔbɛn a wɔbɛtua no yɛɛ sɛ ɛnsesaa biribi.
-- Nea ɛkyerɛ wɔ asiane kɛse mu no, wɔahyehyɛ ne nhwehwɛmu no ansa na wɔayɛ no, nanso efi nnipa kakraa bi a wɔhwehwɛɛ no mu. Ɛsɛ sɛ nhwehwɛmu foforo si so dua.
-- Nnipa a wɔyɛ adwuma no nim nkyerɛkyerɛ a wɔde kɔmaa wɔn, eyi betumi ayɛ nea ɛkyerɛ.
-- Lancet Commission no hwehwɛ nhwehwɛmu no mu sɛ tie mmoa betumi aboa kɛse ma wɔn a wɔwɔ tie yare ne dementia asiane foforo.
+- Mmuaeɛ titiriw ne sɛ ɛnyɛ nea ɛyɛ.
+- Nea wohunuu wɔ nnipa a wɔyɛ kakraa mu no, wɔsusuw ho dedaw, nanso ɛfiri nhwehwɛmu a wɔsi kɛse so nnye. Ɛsɛ sɛ nhwehwɛmu foforɔ si so.
+- Nnipa a wɔyɛ nhwehwɛmu no nyinaa nyaa nea wɔbɛyɛ, eyi betumi anka nsesaeɛ no.
+- Lancet Commission no kyerɛ sɛ nsɛm a wɔahwehwɛ ho no ka sɛ tie aboa yɛ mmoa kɛse ma nnipa a tie nkwa wɔ no ne nneɛma foforɔ a ɛma dementia kyinkyin wɔ wɔn ho.
 
-Nea ɛyɛ nokorɛ ne sɛ tie mmoa nnyɛ ɔkwan a wɔasi so dua sɛ ɛbɛban dementia. Nanso ɛboa nnipa ma wɔte nsɛm, wɔka nkitahodie mu, na wɔn ho nka afifideɛ mu, eyi nso ye sɛ ɛsɛ sɛ wususuw ho.
+Nsɛm titiriw ne sɛ tie aboa nyɛ ɔkwan a wɔasi hɔ pefee sɛ ɛbɛban dementia. Nanso ɛboa nnipa ma wɔtie, wɔka nkɔm, na wɔtena ase wɔ nkurɔfo mu, eyi ara na ɛma ɛyɛ nea ɛfata sɛ wobɛsusuw ho.
 
-## Ɛdeɛ na ɛsɛ sɛ mehwehwɛ sɛ tie hia sɛ wɔhwɛ?
+## Ɛdeɛ na ɛsɛ sɛ wohwɛ me tie?
 
-NIA ka sɛ ɛsɛ sɛ wɔkɔhwɛ dokota sɛ wo anaa obi a wo hwɛ ho:
+NIA kyerɛ sɛ hyia dokota sɛ wo anaa obi a wodi no ho ba:
 
-- Wɔnte nsɛm a wɔka wɔ telefon so yie
-- Ɛyɛ den ma wɔdi nkitahodie a nnipa mmienu anaa boro saa rekasa
-- Ɛbɛba sɛ ɔbisa nnipa sɛ wɔnka nsɛm no bio
-- Ɔma TV no dɔɔso kɔsi sɛ afoforo nso begye atom
-- Ɛyɛ den ma ɔte nkasa wɔ nneɛma a ɛyɛ nnyɛnnyɛ a wɔrekasa
-- Ɔhwɛ sɛ nnipa rekasa nnyɛnnyɛ
+- Wohia ahohia sɛ wobɛte nea wɔka wɔ telefon so
+- Ɛyɛ den ma wo sɛ wobɛdi nkasa a nnipa baanu anaa sen baanu di ntam
+- Ɛbɛba sɛ wobisa nnipa sɛ wɔnsan nka nea wɔaka
+- Wodi TV so kɔ soro kosi sɛ afoforɔ kɔmplen
+- Ɛyɛ den ma wo sɛ wobɛte nkasa wɔ nsɛnneɛ a ɛreba mu
+- Wosusuw sɛ afoforɔ kasa nna kasa mu
 
-Fi ase wɔ dɔkota a ɔhwɛ ɔyare nyinaa hɔ, a ɔbɛtumi akyerɛ wo sɛ wɔnkɔ audiologist (tie ayaresafo) anaa ɔdɔkotafo a ɔhwɛ tie, ano ne nne so. Tie mu nkaɛ bebree yɛ tie yare a ɛba, na dokota betumi ahwɛ ho. **Tie yare a ɛba ntɛm yɛ ayaresa ohia ntɛm**, na NIA ka sɛ ɛsɛ sɛ wɔkɔhwɛ dokota ntɛm.
+Fi ɔdokota a ɔhwɛ nnipa nkwa ase, a ɔbɛtumi akɔma wo akɔ ɔtie adwumayɛfo (ɔtie aboa dwumadifo) anaa ɔdokota a ɔhwɛ tie, ano ne ti ho yare. Tie a ɛyɛ ne nkwa ne ɛfa mu ba a ɛdɛ a ɔdokota betumi ahwehwɛ no. **Tie a ɛsɛe ntɛm yɛ yare a ɛyɛ ntɛmntɛm**, na NIA kyerɛ sɛ hyia dokota ntɛmntɛm.
 
-Wɔbɛtumi asusuw tie yare sɛ adwene yare. NIA ka sɛ nnipa kɛseɛ a wontumi nte yie no, wɔbɛtumi asusuw sɛ wɔn adwene ayɛ fɛw, wontumi nte nsɛm, anaa wɔammɔ wɔn ho ano. Sɛ obi a wo dɔ no yɛ sɛ ɔrepɛn anaa ɔntie nea wɔka no, tie hwehwɛ yɛ anidasoɔ kɛse.
+Wɔbɛtumi asusuw tie nkwa sɛ adwene yare. NIA ka sɛ nnipa a wɔyɛ mmofra a wɔntumi ntie yie no, wɔbɔ mmuaeɛ wɔ sɛ wɔn adwene nsɛ yɛ den, wɔnnte nea wɔka, anaa wɔnnyɛ nea wɔka. Sɛ obi a wodi no ho ba adwene ho nnyɛ no ya anaa wonte nea wɔka no, tie nhwehwɛmu yɛ anidasoɔ kwan a ɛyɛ.
 
-## Dɛn ne dwadie mu tie mmoa?
+## Dɛn ne tie aboa a wɔtɔ wɔ dwumadie so?
 
-Afe 2022 Oktoba 17 ara kwa, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ama tie mmoa a wɔtɔ wɔ dwadie mu (OTC) tumi wɔ hɔ. Eyi na ɛsɛ sɛ wohu nea ɛyɛ soronko ntam sɛnea wɔtɔ tie mmoa a ɛwɔ ntoatoaso a wɔde tɔ:
+Efi October 17, 2022 no, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ama tie aboa kuw a wɔtɔ wɔ dwumadie so (OTC) bi wɔ United States. Eyi ne sɛnea wɛn no te ne tie aboa a ɔdokota kyerɛ wɔ:
 
-| Nneɛma a ɛyɛ | Dwadie mu tie mmoa | Tie mmoa a ntoatoaso wɔ so |
+| Nneɛma | Tie aboa a wɔtɔ wɔ dwumadie so | Tie aboa a ɔdokota kyerɛ |
 | --- | --- | --- |
-| Hena na ɛyɛ ma no | Nnipa a wɔn mfe ayɛ 18 anaa ɛboro saa, a wɔwɔ tie yare a ɛyɛ kakra kɔ akɔsi so | Tie yare nnyɛ kɛse, obi a ne mfe nyinaa |
-| Baabi a wobetumi anya no | Dwadie anaa intanɛɛt so, ɛnhia ntoatoaso anaa nhwehwɛ | Dokota a ɔwɔ tumi wɔ tie ho |
-| Sɛnea wɔhyehyɛ no | Wo ara hyehyɛ nsakrae, ebinom de app | Ɔyare ayaresafo hyehyɛ no ama wo tie |
+| Hena na ɛyɛ ma | Mfe 18 kɔ soro a wɔka sɛ wɔte nka ɛyɛ kakraa anaa ɛdɛn ara | Tie nkwa nkyɛn biara, mfe biara |
+| Baabi a wɔbɛnya no | Sima mu anaa intanɛt so, a ɛnhia nhwehwɛmu anaa ɔdokota kyerɛwsɛm | Ɔtie adwumayɛfo a wɔama no ho ntoboɔ |
+| Sɛnea wɔde siesie | Wo ara wo ho sesa nhyehyɛeɛ, a ɛtɔ so de app boa | Ɔbɔadeɛ siesie no ma wo tie |
 
-FDA ka sɛ dwadie mu tie mmoa nnyɛ ma tie yare a ɛyɛ den anaa ɛyɛ den yie. Ɔka sɛ ɛsɛ sɛ wɔhwɛ dokota, de ɛyɛ ɔdɔkotafo a ɔhwɛ tie, ntɛm na wɔrenka ansa na wɔatɔ, sɛ wowɔ:
+FDA ka sɛ tie aboa a wɔtɔ wɔ dwumadie so nyɛ ma tie nkwa a ɛyɛ den anaa ɛyɛ den koraa. Ɔka sɛ ɛnyɛ den sɛ wobɛtɔ bi ansa na wohyia ɔdokota, de sɛ ɛyɛ ɔtie ayaresafo (ɔtie, ano ne ti ho yare) no, sɛ wowɔ:
 
-- Atoro yaw anaa ahohoro
-- Nsu a efiri atoro mu, anaa nkɔ, wɔ bosome 6 a atwam
-- Tie a ɛsesa ntɛm anaa ɛbɛsesa
-- Tie a ɛyɛ mmerɛ wɔ tie baako mu, anaa ɛwɔ tie baako mu nko na ɛgyegye
-- Ɛyɛ no sɛ ɔtwetwe anaa wɔ nkɔ
-- Atoro kɛse
+- Ntamadeɛ wɔ tie mu anaa tie ho a ɛyɛ den
+- Nsu, nsiw anaa mogya fi tie mu wɔ bere a atwa mfe fam ne mu
+- Tie a ɛsesa ntɛm anaa ɛsesa a ɛyɛ ntɛmntɛm
+- Tie a ɛyɛ bi ayɛ den sen ɛfã foforɔ, anaa mmoho wɔ tie baako mu
+- Nkwagyeɛ anaa ɛtɔ wo, nti wobɛhwɛ wo ho
+- Tie nkwa kɛse
 
-Ɛbɛyɛ ma wodi tie mmoa, enti sɛnea FDA kyerɛ no, hwɛ mmuaeɛ a ɛwɔ ho nsɛm ansa na wo tɔ. NIA ka sɛ ɛsɛ sɛ wobisa sɛ wo dwadie ano ka ɔka bɔ a ɛbɛboa wo. Sɛ obi a ɔwɔ dementia ne nkyɛn no, audiologist betumi aboa wɔ tie mmoa a ɛbɛyɛ ma ɛyɛ mmerɛ sɛ wɔde di da biara adwuma mu no ho afotu.
+Ɛyɛ den sɛ wobɛtena tie aboa ase, enti hwɛ sɛ wɔbɛtumi asan asan wɔ tɔ ansa na wotɔ, sɛnea FDA kyerɛ. NIA kyerɛ sɛ wobisa sɛ wo asiane betumi aboa wo wɔ ho bi. Wɔ dementia ho no, ɔtie adwumayɛfo betumi aboa wo ma wohu tie aboa ne nsiesie a ɛbɛyɛ ma ɛyɛ mmerɛ ma wo da biara.
 
-## Ɛdeɛ na metumi de ntɛmntɛm aka asɛm kɔ obi a wɔwɔ tie yare so?
+## Sɛnea mebetumi akasa yie wɔ nnipa a wɔwɔ tie nkwa ho?
 
 NIA kyerɛ sɛ:
 
-1. **Hwɛ onipa no ani na mfa wo ani nnhwɛ ne ho**, wɔ hann pa mu, sɛnea ɔbɛhunu wo anom ne wo ahonyadeɛ.
-2. **Hwehwɛ baabi a ɛnyɛ nnyɛnnyɛ.** Gyae TV no anaa kɔ baabi a nnyɛnnyɛ nni hɔ.
-3. **Ka kɛse kakra, nanso nteam.** Ka nsɛm sɛnea ɛyɛ, ntɛntɛn a ɛyɛ mmerɛ.
-4. **Ma wo anom ntease.** Mfa nni aduane, mfa aduanwa nntɔ, na mfa wo nsa nkata wo anom bere a woreka asɛm.
-5. **Sesa asɛm no kasa sɛ wɔrenka bio** sɛ wɔantie biribi.
-6. **Obi pɛ bere biara.** Wɔ nnipa mu no, hwɛ sɛ wɔde onipa no ka mu.
-7. **Mma ɔbɔ wo, bisa sɛ wobetumi aboa dɛn.**
+1. **Hwɛ onipa no ani na hwɛ ne ani,** wɔ hann pa mu, na ɛbɛma ɔhunu wo anom ne wo ani mu nneyɛe.
+2. **Hwehwɛ beaeɛ a ɛyɛ dwodwoo.** Gyae TV anaa kɔ baabi a nne nnwom nni.
+3. **Kasa kɛse kakraa, na nnteam.** Kasa sɛnea wokasa daa, na fa ntɛm a ɛyɛ mmerɛ.
+4. **Fa wo anom ma ɛtɔ so.** Nnye aduane, nnɛn nkyene, na nkata wo anom wɔ bere a wɔrekasa.
+5. **Kyerɛ nsɛm no ntam sɛnea ɛtɔ so, na nnsan nka no** sɛ wɔannte nea wɔka.
+6. **Obi biako bere biako.** Wɔ nnipa a wɔboaboa ho no mu, ma ɛyɛ yie sɛ obi no wɔ nkɔm mu.
+7. **Mmɔ mmoa, na bisa sɛ wobetumi aboa wo sɛnea.**
 
-Eyi nneɛma yi yɛ adwuma yie ne [dementia nkitahodie afotu](/caregiving/communication-tips/) a yɛde ma. Ɛboa nso sɛ wode mfonini a ɛyɛ adwuma ka ho. [Picture Pairs](/games/picture-pairs/) ne [Conversation Cards](/games/conversation-cards/) ma wohu nea wɔhwɛ, na [Finish the Saying](/games/finish-the-saying/) ma wokyerɛ awiei no mmom sɛ wɔka. Sɛ wobɛfrɛ, hwɛ yɛn [telefon ne video frɛ](/activities/phone-and-video-calls/) akwankyerɛ.
+Eyi nhyehyɛeɛ yi yɛ adwuma kɛse bere a wɔde ka [yɛn dementia nkasa mmoa](/caregiving/communication-tips/) ho. Mfonini a wɔde yɛ adwuma nso yɛ nnwuma mmerɛ. [Picture Pairs](/games/picture-pairs/) ne [Conversation Cards](/games/conversation-cards/) ma wo hwehwɛ nea wohwɛ, na [Finish the Saying](/games/finish-the-saying/) ma wokyerɛ awiei mmom sen sɛ wobɛka no. Sɛ ɛfa telefon anaa video frɛ ho a, hwɛ yɛn [telefon ne video frɛ](/activities/phone-and-video-calls/) akwankyerɛ.
 
-## Ani hwɛ nso ho hia
+## Ani ho nso hia
 
-Afe 2024 mu no, Lancet Commission de ani a wɔammɔ ho ano no ka ho sɛ dementia asiane foforo. UCL nkyerɛase no ka sɛ ɛyɛ dementia ba nkyɛmu 2, na Commission no ka sɛ ɛsɛ sɛ ani yare nsɔhwɛ ne mmoa wɔ hɔ ma obiara. [NIA kyerɛ](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) sɛ ɛsɛ sɛ wɔhwɛ ani mfe biara anaa mfe mmienu biara wɔ mfe 60 akyi, na wɔhwɛ ani ahwɛ nso. Ani sɛ ɛnyɛ kɛse nso betumi ama wɔnsɔre.
+Wɔ 2024 no, Lancet Commission ka ani a wɔnhwɛ ho yie sɛ dementia kyinkyin foforɔ. UCL nkyerɛase no ka sɛ ɛde dementia nsɛm 2% abɛyɛ, na Commission no kɔtra sɛ wɔma nnipa nyinaa nya ani ahwehwɛ ne ayaresa. [NIA kyerɛ](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) sɛ wɔnhwɛ ani wɔ ani mu mfe biako anaa mfe abien akyi wɔ mfe 60 akyi, na wɔhwɛ sɛ mfiri ani ntwa no ka. Ani ho nsesaeɛ ketewa nso betumi ama ɔsɛe ka ho.
 
-## Kasa kɔ dokota nkyɛn
+## Kasa ne dokota
 
-Sɛ wuhu nsɛnkyerɛnne a ɛwɔ soro yi mu bi a, bisa dokota ho tie ne ani nsɔhwɛ. Sɛ tie yare nyɛɛ ntɛm, atoro yaw anaa nsu a efiri atoro mu aba a, hwehwɛ ayaresa ntɛm. Sɛ wo hwɛ obi a ɔwɔ dementia ne nkyɛn a, ka tie anaa ani nsakrae kyerɛ ne dokota, efiri eyi betumi aka ne ahoɔfɛ, ahobammɔ ne sɛnea ɔbɛtumi ayɛ nneɛma no ho.
+Bisa dokota ho tie ne ani nhwehwɛmu sɛ wuhu biribi a ɛwɔ akyiri yi mu. Hwehwɛ ayaresa ntɛmntɛm sɛ tie a ɛsesa ntɛm, nkɔtɔ mu ntamadeɛ, anaa nsu fi tie mu wɔ. Sɛ wodi obi a wɔwɔ dementia ho ban a, ka wɔn dokota ho tie anaa ani nsakrae, efisɛ eyi betumi ama ahoɔfɛ, ahobammɔ ne sɛnea onipa no betumi ayɛ adwuma ka ho.
 
-Saa kyerɛwsɛm yi yɛ nsɛm a ɛfa ho ankasa, ɛnyɛ ayaresa afotu. Hwɛ yɛn [ayaresa kaebɔ](/medical-disclaimer/). Kenkan nso [nkitahodie ne adwene yareɛ ho](/brain-health/social-connection/).
+Eyi nkyerɛwsɛm yɛ ade a ɛfa ho nkyerɛkyerɛ ara, ɛnyɛ ayaresa afotu. Hwɛ yɛn [ayaresa kyerɛwsɛm](/medical-disclaimer/). Kenkan [nkurɔfo ntam nkitahodi ne adwene yare](/brain-health/social-connection/) ho nsɛm.

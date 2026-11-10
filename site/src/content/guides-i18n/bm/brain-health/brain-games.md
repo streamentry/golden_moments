@@ -1,32 +1,34 @@
 ---
-title: "Hakili dɔnkiliw bɛ dimansi tanga wa? Mun b'a jira"
-seoTitle: "Hakili dɔnkiliw bɛ dimansi tanga wa? Kiri"
-description: "Kalan b'a fɔ hakili dɔnkiliw ni dimansi ko: hakili lakalikuntanw, kɔmpiyuteri hakili kɛli, ACTIVE kalan ni FTC Lumosity kɔrɔ, sɛbɛnnen kɛlen."
+title: "Hakili ɲɛnajɛw ban hakili tɔɔrɔ ma wa?"
+seoTitle: "Hakili ɲɛnajɛw ban hakili tɔɔrɔ ma? Ɲɛnajɛ"
+description: "Ɲɛnajɛ ka fɔ hakili ɲɛnajɛw ni hakili tɔɔrɔ ye: hakili ka ɲɛnajɛ, ordinatɛri ka hakili ɲɛnajɛ, ACTIVE ɲɛnajɛ ni FTC ka Lumosity kɛwale, ka sɛgɛsɛgɛ."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Hakili dɔnkili kelen tɛ dimansi tanga ko dɛmɛ. Kɔmpiyuteri hakili kɛli bɛ
-  fɛn min kɛ mɔgɔw bɛ a kɛ ka caya, o kɔrɔ dɔrɔn. ACTIVE kalan kɔnɔ, hakili
-  kɛli dɔ min bɛ sankɔnɔ ni a kɔnɔ ni kɛlɛ dɔw bɛ kɛ, o ye dimansi bɔ-jɛ dɔw
-  ka ca 20 kɔnɔ. Mɔgɔ minnu bɛ dimansi ɲɛ, olu ka lakalikuntan ye sanfɛ bɔɲɔgɔn
-  ye, a bɛ kɛ ɲɛnɛma dɔrɔn. Dɔnkiliw bɛ kɛ ka nisɔndiya ni ka nɔgɔnɛ.
+  Hakili ɲɛnajɛ kelen tɛ min jira ko bɛ hakili tɔɔrɔ ban. Ordinatɛri hakili
+  ɲɛnajɛ bɛ kɛ ko dɔ ka dɔ ɲɛ ka ɲɛnajɛ min bɛ kɛ ɲɛ. ACTIVE ɲɛnajɛ kɔnɔ,
+  dɔ ka kan ɲɛnajɛ min bɛ kɛ sɛgɛsɛgɛ ni ɲɛnajɛ ka tɛmɛsira ɲɔgɔn fɛ, o bɛ
+  sɔrɔ hakili tɔɔrɔ ka jɔ tɛmɛnen na mɔgɔ dɔw la ni kɔnɔ sanni 20. O ye
+  ɲɛnajɛ dɔ ye min ka sɛbɛn bɛ kɛ dɔrɔn. Hakili tɔɔrɔ bɛ min na ka bɔ
+  mɔgɔw ka kan, ɲɛnajɛ dɔ ka kɔnɔ kɛlɛ sɔrɔ, o ka ɲɛ kɛ dɔgɔ ani tɛmɛnen
+  ma. Ɲɛnajɛw bɛ kɛ ko ka di ni ka ɲɛmɔgɔya ye.
 keyPoints:
-  - "Hakili kɛli kalanw b'a jira ko mɔgɔw bɛ caya fɛn min kɛ olu la, nka sɛbɛnnen kɔrɔ ka pɛrɛ ko o bɛ sɔrɔ ɲɛnamaya kɔnɔ, o ka dɔgɔ kosɛbɛ."
-  - "ACTIVE kalan kɔnɔ, mɔgɔ minnu kɛra sankɔnɔ kɛlɛ dɔ ni kɛlɛ ɲɔgɔn kɔnɔ, olu de ye mɔgɔ minnu dimansi bɔ-jɛ ka ca 20 kɔnɔ. Sankɔnɔ kɛlɛ kɔ ni kɛlɛ-kɔrɔ tɛ, hakili ni fɛn kɛlɛ tɛ, o tɛ an bɛ ɲɛ."
-  - "2016 la, Lumosity sigilanw ye $2 million di FTC la ka kɛ ka ɲɛ ko olu ka dɔnkiliw bɛ dimansi caya, o kɔ ma tɛ kalan ye."
-  - "Mɔgɔ minnu bɛ dimansi ɲɛ dɔgɔ ni dɔgɔ-tɛ, hakili kɛli sigilanw bɛ kɛ ka caya dɔgɔ-dɔgɔ, a waati dɔgɔ kɔnɔ, ani ka caya ka sɔrɔ kumaw ni mɔgɔw ka ɲɛnamaya kɔnɔ."
-  - "Golden Moments dɔnkiliw ye nisɔndiya ni waati ni mɔgɔ ye ɲɔgɔn ye. Olu tɛ dɔ ye ka dimansi ɲɛ ka tanga, ka dimansi ka ɲɛ ka kɛ ɲɛnɛma."
+  - "Hakili ɲɛnajɛ ɲɛnajɛw jira ko mɔgɔw bɛ ɲɛ ka ɲɛnajɛ min bɛ kɛ, nka ɲɛnajɛ min bɛ kɛ ka taa ka ɲɛ ka kɛ ɲɛnamaya kɔnɔ, o ka ɲɛnajɛ ka dɔgɔ."
+  - "ACTIVE ɲɛnajɛ kɔnɔ, mɔgɔ min ye ɲɛnajɛ ka sɛgɛsɛgɛ kelen kɛ ani sɛgɛsɛgɛ ka ɲɛnajɛ dɔ kɛ, olu kelan kɔnɔ hakili tɔɔrɔ ka jɔ tɛmɛnen na sanni 20 kɔnɔ. Sɛgɛsɛgɛ ka ɲɛnajɛ kɛlɛ tɛ, hakili ni ɲɛnajɛ kɔnɔ kɛlɛ tɛ, o tun tɛ sɔrɔ."
+  - "Sanni 2016 la, Lumosity ka mɔgɔ ye $2 million di ka ɲɛnajɛ kɔ FTC ka kɛwale kɔ, o ye ko ɲɛnajɛ tɛ ka hakili tɔɔrɔ ka tɛmɛn kɛwale."
+  - "Mɔgɔ min ye hakili tɔɔrɔ dɔgɔ ani hakili tɔɔrɔ ka bɔ dɔ ka kan, hakili ɲɛnajɛ ka sigi ɲɔgɔn fɛ bɛ ɲɛ dɔgɔ ani tɛmɛnen ma ka ɲɛ kɛ ɲɛnajɛ kɔnɔ, nka kumakan ni mɔgɔw ka ɲɛmɔgɔya bɛ ɲɛ ka ɲɛ kɛ kɔnɔ."
+  - "Golden Moments ɲɛnajɛw bɛ kɛ ɲɛnajɛ ni tɛmɛsira ɲɔgɔn fɛ ka ɲɛ. Olu tɛ kɛlɛ ye ani olu tɛ hakili tɔɔrɔ ban wala ka tɛmɛn."
 faq:
-  - q: "Hakili dɔnkiliw bɛ Alzheimer tanga wa?"
-    a: "Hakili dɔnkili kelen tɛ dɔnkili ye min ka Alzheimer walima dimansi wɛrɛw tanga kalanw kɔnɔ. Ɲɛnamaya Kalan Dɔn ta (National Institute on Aging) fɔra ko kalanw kɔnɔ sɛbɛnnen tɛ ko hakili kɛli bɛ kɛ ka ɲɛ ko kɔmpiyuteri dɔnkiliw bɛ ko kɛ ka hakili kɛ. O kɔ, dɔnkiliw bɛ nisɔndiya kɛ waati kɔnɔ."
-  - q: "ACTIVE kalan b'a jira mun kɔrɔ sankɔnɔ kɛlɛ ni dimansi kɔnɔ?"
-    a: "2026 kalan kɔnɔ, ACTIVE kalan mɔgɔw ka ca 20 kɔnɔ, u yɛrɛ ka Medicare sɛbɛnnen ye. Mɔgɔ minnu ye sankɔnɔ kɛlɛ ta ni kɛlɛ-kɔrɔ dɔ ye, olu ka dimansi bɔ-jɛ ka dɔgɔ ni mɔgɔ minnu ma kɛlɛ kɔnɔ. Sankɔnɔ kɛlɛ kɔ ni kɛlɛ-kɔrɔ tɛ, hakili ni fɛn kɛlɛ, olu tɛ ɲɛ kosɛbɛ."
-  - q: "Ka tɛgɛ ni dɔnkiliw ka ɲɛ mɔgɔ ye min bɛ dimansi ɲɛ bɛɛ?"
-    a: "U bɛ ɲɛ, ni mɔgɔ bɛ nisɔndiya u la. Hakili kɛli sigilanw, olu kɔnɔ kumaw, dɔnkiliw, dɔ ni kumaw ye, ka caya dɔgɔ-dɔgɔ ka hakili kɛ, ani ka caya ka sɔrɔ kumaw ni mɔgɔw ka ɲɛnamaya kɔnɔ. Nisɔndiya ye ɲɛnɛma ye, tɛ wulikɛlɛ ka jatɛmɛ ye."
-  - q: "Mun na FTC ye Lumosity kɛ wari la?"
-    a: "2016 la, Federal Trade Commission (FTC) ye Lumos Labs kɛ sɔrɔ ko a ka dɔnkiliw bɛ waati dimansi ni hakili kɔ caya ɲɛ, ka kɛ ka ɲɛ, ani sɛbɛnnen tɛ o kɔrɔ. Sigilanw ye $2 million di, ani u ye ɲɔgɔn da ko u bɛ sɛbɛnnen dɔ sɔrɔ tuma bɛɛ, o kɔ ka fɛn nɔfɛ kɛ."
+  - q: "Hakili ɲɛnajɛw ban Alzheimer ma wa?"
+    a: "Hakili ɲɛnajɛ kelen tɛ min ye dɔn ko bɛ Alzheimer walima hakili tɔɔrɔ ban. National Institute on Aging (NIA) ko ko ɲɛnajɛ dɔgɔ bɛ min jira ko ordinatɛri ka hakili ɲɛnajɛ bɛ kɛ ko min bɛ kɛ kɛlɛ ɲɛnajɛw kɔnɔ. Ɲɛnajɛw bɛ se ka kɛ tɛmɛsira ɲɛ ka di ni ka ɲɛmɔgɔya ye."
+  - q: "ACTIVE ɲɛnajɛ ka sɛbɛn ye mun ye hakili tɔɔrɔ ni sɛgɛsɛgɛ kɔnɔ?"
+    a: "Sanni 2026 ka ɲɛnajɛ dɔ, ACTIVE ɲɛnajɛ kɔnɔ mɔgɔw ka sɛbɛn bɛ Medicare kɔnɔ sanni 20 kɔnɔ. Mɔgɔ min ye sɛgɛsɛgɛ ka ɲɛnajɛ kɛ ani sɛgɛsɛgɛ kelen walima ɲɔgɔn, olu ka hakili tɔɔrɔ ka jɔ bɛ dɔgɔ ka tɛmɛn ko min ma ɲɛnajɛ kɛ. Sɛgɛsɛgɛ ka ɲɛnajɛ kɛlɛ tɛ, hakili ni ɲɛnajɛ kɔnɔ kɛlɛ, olu tɔ tɛ ko jɛɲɔgɔnya dɔ jira."
+  - q: "Ɲɛnajɛw ni tɛmɛsira ka ɲɛ ye mɔgɔ min ka hakili tɔɔrɔ bɛ ye?"
+    a: "A bɛ se ka kɛ ɲɛ, ni mɔgɔ ka dusukun bɛ ɲɛnajɛ min na. Hakili sigi ɲɔgɔn fɛ ɲɛnajɛ, o ye kumakan, ɲɛnajɛ, dɔnkili ni ɲɛnajɛ ye, o bɛ hakili tɔɔrɔ ka kan ka dɔgɔ dɔ sɔrɔ. Dusukun ka ɲɛ, o ye ɲɛnajɛ ka kɛlɛ ye, ɲɛnajɛ ka tɛmɛsira tɛ."
+  - q: "Mun na FTC ye Lumosity ka tigi kɛ wari la?"
+    a: "Sanni 2016 la, Federal Trade Commission ko ko Lumos Labs ka ɲɛnajɛw bɛ tɛmɛn ko dɔ kɛ, o kɔnɔ sɛgɛsɛgɛ ka tɛmɛn ni hakili tɔɔrɔ ka tɛmɛn, o kɔnɔ ɲɛnajɛ dɔ tɛ min ka kɛlɛ. Kumakan ye $2 million di ka kɛ dɔ ye, ani ko o bɛna ɲɛnajɛ kɛ ka taa ka kɛ ɲɛnajɛ kɛlɛ ye, o ka sɛbɛn kɔnɔ."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -57,89 +59,89 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Hakili dɔnkiliw bɛ yerekoro bɛɛ, ani caman b'a fɔ ko u bɛ hakili nɛnɛ. No aw bɛ mɔgɔ ka dimansi ɲɛ kɛ, walima aw yɛrɛ ka hakili jatɛ ye ka aw ɲɛ, o bɛ kɛ ko aw bɛ miiri ko dɔnkiliw bɛ dɛmɛ wa. Aw bɛ se ka kalan min bɛ jira, ko fɛn min bɛ kɛ ɲɛ, ani fɛn min bɛ kɛ ɲɛ tɛ, olu bɛ yen.
+Hakili ɲɛnajɛw bɛ yɔrɔ bɛɛ. Dɔw bɛ fɔ ko olu bɛna hakili mablɛn ka kɛ kɔrɔ. Ni i bɛ hakili tɔɔrɔ dɔ dɛsɛ, walima i bɛ i yɛrɛ hakili ko ɲɛ, o bɛ kɛ hakili ɲɛnajɛ ye dɛmɛ ka se wa? Ɲɛnajɛ bɛ min jira, o nin ye. Ka ɲɛ min bɛ kɛ, ani ka ɲɛ min tɛ, o bɛ yan.
 
-Nin ye sɛbɛnnen dɔ ye ka ɲɛnamaya kɔrɔ, nin tɛ dɔtɔrɔ ka ci ye. Aw ka [dɔtɔrɔ ka ci](/medical-disclaimer/) ɲɛ.
+Nin ye kunnafoni dɔrɔn ye, a tɛ dɔtɔrɔ ka ci ye. Ni i bɛ [dɔtɔrɔ ka kuma](/medical-disclaimer/) ɲɛ.
 
-## Hakili dɔnkiliw bɛ dimansi tanga wa?
+## Hakili ɲɛnajɛw bɛ hakili tɔɔrɔ ban wa?
 
-Hakili dɔnkili kelen tɛ dimansi tanga ko dɛmɛ. Ɲɛnamaya Kalan Dɔn ta (NIA) bɛ hakɛ ko mɔgɔ ka kɔ kɔmpiyuteri ni inkerinɛti dɔnkiliw ka hakili kɛ ɲɛ ko olu bɛ ko kɛ. A bɛ fɔ ko sɛbɛnnen tɛ ko kɔmpiyuteri hakili kɛli kelen bɛ ka fɛn kɛ kalanw kɔnɔ min kɛra ([NIA Alzheimer tanga kɔrɔ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Hakili ɲɛnajɛ kelen tɛ min ye dɔn ko bɛ hakili tɔɔrɔ ban. National Institute on Aging (NIA) ko ko mɔgɔw ka kan ka ɲɛ ordinatɛri ni internet ka ɲɛnajɛw kɔnɔ ko bɛ hakili ɲɛ kɛ, ani ko ɲɛnajɛ dɔgɔ bɛ min jira ko hakili ɲɛnajɛ kelen bɛ kɛ kɔnɔ min kɛra sɛgɛsɛgɛ ɲɛnajɛw na. ([NIA ka kuma Alzheimer ka ban ko](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))
 
-O tɛ ko dɔnkiliw tɛ fɛn ye. O b'a jira ko u nafa ye nisɔndiya ni nɔgɔnɛ ni waati ye, dimansi tanga tɛ.
+O tɔ wɛrɛ, ɲɛnajɛw tɛ ko ye tɛ. A ka nafa bɛ ɲɛmɔgɔya, ɲɛnajɛ ni ɲɛnamaya ka ɲɛsin kɔrɔ, nka a tɛ hakili tɔɔrɔ ka ban.
 
-## « Near transfer » ye mun ye, ani a bɔ ka mun?
+## "Near transfer" ye mun ye, ani mun na a bɛ mago?
 
-Ni i bɛ kɛlɛ dɔ kɛ ka caya, i bɛ caya a kɔnɔ. Kalanbaga bɛ o pɛrɛ ko training effect. Kɛlɛ suguya wɛrɛ kɔnɔ, walima ɲɛnamaya kɔnɔ, i ka caya bɛ bɔ ka ɲɛ wa, o ye gɛlɛya ye. Ni kɛlɛ ɲɔgɔn bɛ kɛ, o pɛrɛ ko near transfer; ni ɲɛnamaya kɔnɔ fɛn bɛ kɛ, i ka waati ni wari sigi, o pɛrɛ ko far transfer.
+Ni i bɛ baara dɔ ɲɛnajɛ, i bɛ ka ɲɛ o baara kɔnɔ. Kumakan dɔw bɛ o fɔ ko ɲɛnajɛ ka nafa. Ka ɲɛnajɛ ka nafa bɔ o baara kɔnɔ ka taa baara wɛrɛ la, walima ɲɛnamaya kɔnɔ, i ko kiri lɔnni walima wari kɔlɔsi, o ye ko nɔgɔya ye.
 
-2016 kɔnɔ, kalan dɔ ye kalan ye min ye sɛbɛnnen jɔyɔrɔ ye, u ye ko ni dɔnkili kɔmpani minnu ye kalan ɲɔgɔn fɔ sɛbɛnnen dɔrɔn ye. Olu kɔnɔ, mɔgɔ bɛ caya kɛlɛ minnu bɛ kɛ, o kɔnɔ kosɛbɛ; ɲɔgɔn ka kɛlɛ bɛ caya dɔgɔ kosɛbɛ; ani hakili ɲɛnamaya kɔnɔ bɛ caya dɔgɔ kosɛbɛ. Kalan caman kɔnɔ, u ka kɛlɛ bɛ kɛ ka dɔgɔ ka ɲɛ kɛnɛ ([Simons ni a teriw, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Sanni 2016 la, kɛlɛ ɲɛnajɛ dɔ kɛra, o ye sɛbɛnw ɲɛnajɛ min ye hakili ɲɛnajɛ kompani dɔw ka ɲɛnajɛ ka fɛɛrɛ ye. A sɔrɔra ko mɔgɔw bɛ ɲɛ ɲɛnajɛ min bɛ kɛ, nka ɲɛnajɛ min bɛ kɛ ka taa ka ɲɛ baara ɲɔgɔn na, o dɔgɔ, ani ko hakili ɲɛnajɛ bɛ ɲɛnamaya ka hakili ɲɛ kɛ, o ka dɔgɔ kosɛn. ɲɛnajɛw dɔw kɔnɔ, ɲɛnajɛ ka kɛlɛ tun tɛ ka ɲɛ. ([Simons ni a ɲɔgɔnw, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983))
 
-## Cochrane kalanw b'a fɔ mun kɔrɔ kɔmpiyuteri hakili kɛli kɔnɔ?
+## Ɲɛnajɛ kɔnɔjɛ mun ye hakili ɲɛnajɛ ordinatɛri kɔnɔ?
 
-Cochrane kalanw bɛ kalanw ɲɔgɔn kɔnɔ, u bɛ sɛbɛn kɛ ka waati ka ca 12 ka kɔ kɔmpiyuteri hakili kɛli kɔrɔ:
+Cochrane ɲɛnajɛ kɔnɔjɛw, o ye ɲɛnajɛ ɲɔgɔn fara ka kɛ, ka ɲɛnajɛ ɲɛnajɛ min bɛ kɛ ka ɲɛ, olu sɛbɛn bɛ kɛ ka ɲɛ. Olu ye ordinatɛri hakili ɲɛnajɛ ye min tun ka ɲɛ ka kɔn sɛgɛsɛgɛ 12 walima ka ɲɛ:
 
-- **Mɔgɔ dɔnnin minnu ka kɔrɔ ka ca 65 kɔnɔ:** kalan 8, mɔgɔ 1,183 kɔnɔ. Sɛbɛnnen ka nɔgɔ ye dɔgɔ kosɛbɛ. A bɛ kɛ ka caya dɔgɔ ka kɛ kɛlɛ kɔ waati tɛmɛnen kɔnɔ, nka sɛbɛnnen tɛ ko o bɛ tɛmɛ.
-  ([Cochrane kalan, mɔgɔ dɔnnin minnu ka kɔrɔ](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **Mɔgɔ minnu bɛ hakili gɛlɛya dɔgɔ ɲɛ:** kalan 8, mɔgɔ 660 kɔnɔ. Kalan dɔ tɛ jira ko mɔgɔ minnu bɛ dimansi ɲɛ, u bɛna dimansi ɲɛ wa, ani sɛbɛnnen ye dɔgɔ ka kɛ ka hukumu sɔrɔ.
-  ([Cochrane kalan, hakili gɛlɛya dɔgɔ](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Mɔgɔ dɛɛmanw min ka kɔrɔ ye 65 ye:** ɲɛnajɛ 8 ni mɔgɔ 1,183. Sɛbɛn ka kɛlɛ dɔgɔ ani dɔgɔ kosɛn. Ɲɛnajɛ kɔ, o bɛ ɲɛ ka kɛ tuma dɔ la, nka tuma min tɔ ye, o tɛ dɔn.
+  ([Cochrane ɲɛnajɛ kɔnɔjɛ, mɔgɔ dɛɛmanw](https://pubmed.ncbi.nlm.nih.gov/32104914/))
+- **Mɔgɔ min ka hakili bɛ dɔgɔya dɔrɔn:** ɲɛnajɛ 8 ni mɔgɔ 660. Ɲɛnajɛ kelen tɛ min jira ko olu bɛ hakili tɔɔrɔ sɔrɔ, ani sɛbɛn tɛ ka se ka kɛ kɛlɛ ye.
+  ([Cochrane ɲɛnajɛ kɔnɔjɛ, hakili bɛ dɔgɔya dɔrɔn](https://pubmed.ncbi.nlm.nih.gov/30864747/))
 
-## ACTIVE kalan b'a jira mun?
+## ACTIVE ɲɛnajɛ kɔnɔ mun na ɲɛnajɛ kɛra?
 
-ACTIVE ye kalan ye Amerikɛ kɔnɔ, a daminɛ 1998, ni mɔgɔ 2,802 ye min ka kɔrɔ ka ca 65, u bɛ ɲɛnamaya yɛrɛ kɛ, ani u ma hakili gɛlɛya ɲɛ kosɛbɛ. Mɔgɔ minnu ye sɛbɛnnen ye ka kɛ sankɔnɔ kɛlɛ dɔ kɔnɔ: sankɔnɔ kɛlɛ, hakili kɛlɛ, walima fɛn ka kɛ kɛlɛ, walima kɛlɛ tɛ. Kɛlɛ kɔnɔ kɛra kɛlɛ 10 ka kɔ, waati ca ni kalo 5 ni 6 ye. Mɔgɔ minnu ye kɛlɛ caman tɛmɛ, u dɔw ye sɛbɛnnen ye ka kɛlɛ kɔrɔ kɛ kalo 1 ni 3 kɔfɛ.
+ACTIVE ye ɲɛnajɛ ye min bɛ kɛ Ameriki la, o daminɛra sanni 1998 la. Mɔgɔ 2,802, min ka kɔrɔ ye 65 walima ka ɲɛ, o tun bɛ sigi yɔrɔ kelen na ani hakili ni ɲɛnajɛ kɔnɔ kɛlɛ tun tɛ olu la. Olu ka kɔnɔ, mɔgɔ dɔw tun bɛ sɔrɔ ɲɛnajɛ ka sɛgɛsɛgɛ kelen, ɲɛnajɛ ka hakili ɲɛnajɛ ni dɔnkili ɲɛnajɛ kelen, walima tɔ, mɔgɔ tɛ ɲɛnajɛ kɔnɔ. Ɲɛnajɛ kelen tun ye sɛgɛsɛgɛ 10 ye, ani sɛgɛsɛgɛ bɛ kɛ tile 5 ni 6 kɔnɔ. Mɔgɔ dɔw min ye sɛgɛsɛgɛ ɲɔgɔn ka bon, olu tun bɛ sɔrɔ **sɛgɛsɛgɛ ka ɲɛnajɛ ka kɛlɛ** tile 1 ni tile 3 kɔfɛ.
 
-Sankɔnɔ kɛlɛ kɔnɔ, u bɛ ɲɛ ni ɲɛ-ɲɛ ye, fɛn ka kɛ ka sɛbɛn ka gɛlɛya kɛ ɲɔgɔn kɔfɛ, ka kɛlɛ ka caya ni o ye.
+Sɛgɛsɛgɛ ka ɲɛnajɛ kɔnɔ, mɔgɔ tun bɛ ɲɛ ka ɲɛnajɛ yɛlɛma ni ɲɛnajɛ dɔ ye min bɛ ka ɲɛnajɛ ka ɲɛ.
 
-2026 kɔnɔ, kalanbagaw ye mɔgɔ 2,021 sɛbɛn Medicare sɛbɛnnen kɔnɔ, ca 20 ka kɔ ([ACTIVE kalan ca 20 kɔnɔ](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). U b'a jira ko:
+Sanni 2026 la, ɲɛnajɛkɛlaw ye mɔgɔ 2,021 ka sɛbɛnw ɲɛ Medicare kɔnɔ sanni 20. ([ACTIVE ɲɛnajɛ ka sanni 20](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)) Nin ye o ka ɲɛnajɛ ye:
 
-- **Sankɔnɔ kɛlɛ ni kɛlɛ-kɔrɔ dɔ ye:** dimansi bɔ-jɛ ka dɔgɔ ni mɔgɔ minnu ma kɛlɛ kɔnɔ (hazard ratio 0.75, o b'a fɔ ko 25% dɔgɔ).
-- **Sankɔnɔ kɛlɛ kɔ ni kɛlɛ-kɔrɔ tɛ:** dimansi bɔ-jɛ dɔgɔ tɛ.
-- **Hakili kɛlɛ walima fɛn ka kɛlɛ:** dimansi bɔ-jɛ ni tɛ ɲɛ kosɛbɛ.
-- **Kɛlɛ ɲɔgɔn ka ɲɛ ni mɔgɔ minnu ma kɛlɛ kɔnɔ:** dimansi bɔ-jɛ bɛ dɔgɔ ka kɛ, nka tɛ ɲɛ kosɛbɛ.
+- **Sɛgɛsɛgɛ ka ɲɛnajɛ ni kelen walima ka ɲɛ kɛlɛ kɔfɛ:** hakili tɔɔrɔ ka jɔ bɛ dɔgɔ ka tɛmɛn ko min ma ɲɛnajɛ kɛ (hazard ratio 0.75, o bɛ fɔ ko ka jɔ bɛ 25% dɔgɔ).
+- **Sɛgɛsɛgɛ ka ɲɛnajɛ kɛlɛ tɛ:** jɔ tɛ dɔgɔ.
+- **Hakili ni ɲɛnajɛ kɔnɔ kɛlɛ:** hakili tɔɔrɔ ka sɛbɛn kɔnɔ, o tɛ jɛɲɔgɔnya dɔ jira.
+- **Ɲɛnajɛ kɔnɔ kelen-kelen ka tɛmɛsira ni ɲɛnajɛ kɔnɔ min ma kɛ:** jɔ bɛ dɔgɔ ka tɛmɛn, nka o tɛ kɛlɛ ye ka ɲɛ kɛ dɔ ye.
 
-### Sɛbɛnnen nin kɔrɔ ka tɛmɛ
+### Nin ɲɛnajɛ ka dɔgɔya
 
-- A bɛ kɛ **sankɔnɔ kɛlɛ dɔ kɔnɔ ni kɛlɛ-kɔrɔ**, dɔnkiliw bɛɛ kɔrɔ tɛ.
-- Sɛbɛnnen ye **dɔ ye mɔgɔ dɔw ka kɔfɛ**, mɔgɔ bɛɛ ka kɔfɛ tɛ: mɔgɔ minnu ye kɛlɛ caman tɛmɛ ani kɛlɛ-kɔrɔ ye ka kɛ.
-- Dimansi ka sɛbɛn kɛra **Medicare sɛbɛnnen koodi** kɔnɔ, mɔgɔ kelen-kelen ye ka sɛbɛn tɛ. Mɔgɔ tɔ kɛnɛ ni naani bɛ kɔrɔ, u ye Medicare Advantage ye, o tɛ sɛbɛnnen dɔnniya bɛɛ sɔrɔ.
-- Mɔgɔ minnu kɛra kalan kɔnɔ, u ma hakili gɛlɛya ɲɛ kɛ kɛlɛ daminɛ. Sɛbɛnnen tɛ fɛn ye mɔgɔ minnu bɛ **dimansi ɲɛ** kɔrɔ.
+- O bɛ kɛ **sɛgɛsɛgɛ ka ɲɛnajɛ kelen min bɛ kɛ ni sɛgɛsɛgɛ ka ɲɛnajɛ kɔfɛ**, o tɛ hakili ɲɛnajɛ ko bɛɛ ye.
+- Kɛlɛ min bɛ kɛ kɔnɔ, o bɛ bɔ **mɔgɔ dɔ bɛ ɲɛnajɛ min na** (mɔgɔ min ye sɛgɛsɛgɛ ka kɔrɔ ɲɛnajɛ, ani ɲɛnajɛ ka sɛgɛsɛgɛ kɔfɛ), o tɛ bɔ mɔgɔ bɛɛ la sɛgɛsɛgɛ ka ɲɛnajɛ kɔnɔ.
+- Hakili tɔɔrɔ ka sɛbɛn bɛ kɛ **Medicare sɛbɛnw** kɔnɔ, mɔgɔ kelen-kelen ka sɛbɛn ye tɛ. Mɔgɔ dɔ saba bɛ ɲɛnajɛ ka kɔnɔ bɔ, katugu olu bɛ Medicare Advantage kɔnɔ, o sɛbɛnw tɛ se ka kɛ kɛlɛ ye.
+- Mɔgɔ minnu ye ɲɛnajɛ daminɛ, olu tun tɛ hakili tɔɔrɔ dɔ ɲɛ. Ɲɛnajɛ ka sɔrɔ tɛ fɔ **mɔgɔ min bɛ hakili tɔɔrɔ ka sɛgɛsɛgɛ ni ɲɛnajɛ ye** ka kan.
 
-O ye fɛn ye min bɛ kɛ ka tɛmɛ kɛ kalan caman kɔnɔ. Nka o tɛ jira ko dɔnkili kelen bɛ dimansi tanga.
+O ye ɲɛnajɛ ka nafa ye min ka kan ka ɲɛnajɛ dɔ tɛmɛn. Nka o tɛ ko ye ko ordinatɛri ɲɛnajɛ kelen bɛ hakili tɔɔrɔ ban.
 
-## FTC ye mun fɔ Lumosity kɔrɔ?
+## FTC ye mun fɔ Lumosity ko?
 
-2016 kɔnɔ tile 1, Lumos Labs, Lumosity ka sigilan, ye $2 million di ka kɛ ka Federal Trade Commission (FTC) kɛlɛ kɔrɔ ka ɲɛ ko ka wɛrɛw kɔ ka kɛ. FTC ye fɔ ko kɔmpani ye ɲɛ ko a ka dɔnkiliw bɛ kɛ ka kasi ni baara kɔnɔ, ka waati dimansi ni hakili kɔ caya ɲɛ, sɛbɛnnen kɔnɔ tɛ. Sigilan ye da ko u bɛna sɛbɛnnen dɔ sɔrɔ tuma bɛɛ, o kɔ ka o fɔ ([FTC kalan kɔrɔ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Sanni 2016 kalo la, Lumos Labs, Lumosity ka mɔgɔ, ye $2 million di ka kɛ kɔ Federal Trade Commission ka kɛwale kɔ, o ye ko ɲɛnajɛ tɛ ka ɲɛ kɛ ka hakili ɲɛnajɛ ka tɛmɛnw kɔnɔ. FTC ko ko kumakan bɛ ɲɛnajɛw ka tɛmɛn ko ɲɛnajɛ ka baara ni kalan ka ɲɛ, ani ko olu bɛ kɛ ka ɲɛ tuma min na mɔgɔ ka kɔrɔya dɔgɔ, hakili tɔɔrɔ, ani Alzheimer ka ban. Sɛbɛn bɛ fɔ ko kumakan bɛna ɲɛnajɛ kɛ ka taa ka kɛ kɛlɛ ye o tɛmɛnw kɔnɔ ni ko bɛɛ. ([FTC ka sɛbɛn](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program))
 
-Ni ka kɛ a ye dɔnkili, dɔnkili walima kɔmpiyuteri ye min bɛ fɔ ko a bɛ hakili dimansi ɲɛ kɔrɔ, aw ka a ɲɛ kɔrɔ ka a jaabi ka a ɲɛ.
+Ɲɛnajɛ ka kuma bɛ den ni ba ye: ni ɲɛnajɛ, programmu walima app bɛ fɔ ko a bɛ hakili maga walima hakili tɔɔrɔ ban, o ka kan ka ɲɛ kɛ.
 
-## Dɔnkiliw bɛ dɛmɛ mɔgɔ ye min bɛ dimansi ɲɛ wa?
+## Hakili ɲɛnajɛw bɛ dɛmɛ mɔgɔ min ka hakili tɔɔrɔ bɛ ye wa?
 
-U bɛ se ka ɲɛnamaya ɲɛ kɛ, o ye fɛn ye min ka gɛlɛya tɛ. Kalan min ka ɲɛ kosɛbɛ, o ye **hakili kɛli sigilanw** ye: kumaw, dɔnkiliw, sɛbɛnnen tɔw, dɔ ni kumaw, a bɛ kɛ dɔ kɔnɔ kɔfɛ mɔgɔ dɔ ka kan kɔnɔ.
+Olu bɛ se ka kɛ tile ɲɛ dɔ ka nafa ye. O bɛ nafa ka bon. Ɲɛnajɛ min ka kɛlɛ dɔ ka bon ka ɲɛ, o ye **hakili ɲɛnajɛ** ye: sɛgɛsɛgɛ kɔnɔ ɲɛnajɛw, kumakan, kumakan ka tɔɔrɔ, ɲɛnajɛ, ɲɛnajɛw ni dɔnkili, min bɛ kɛ mɔgɔ dɔw kɔnɔ, o ka tɛmɛnnen kɔnɔ tuma kɛlɛ.
 
-2023 Cochrane kalan, kalan 37 ni mɔgɔ 2,766 kɔnɔ, mɔgɔ minnu bɛ dimansi ɲɛ dɔgɔ ni dɔgɔ-tɛ ([Cochrane kalan, hakili kɛli kɔrɔ](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Ɲɛnajɛ kɔnɔjɛ dɔ, mɔgɔ 2,766 ka ɲɛnajɛ ni hakili tɔɔrɔ dɔgɔ ni tɛmɛnen ye, o kɛra sanni 2023 la, Cochrane ɲɛnajɛ kɔnɔjɛ 37 kɔnɔ. ([Cochrane ɲɛnajɛ kɔnɔjɛ, hakili ɲɛnajɛ](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- **Caya dɔgɔ kosɛbɛ hakili kɛlɛ kɔnɔ,** waati dɔgɔ kɔnɔ (sɛbɛnnen ka nɔgɔ ye dɔ ye);
-- **Kumaw ni mɔgɔ ye ɲɔgɔn ye kɔnɔ, caya ka sɔrɔ** (sɛbɛnnen ka nɔgɔ ye kosɛbɛ, kalan dɔgɔ kɔnɔ);
-- **Dɔ dɔgɔ ka ɲɛ ɲɛnamaya kɔnɔ, nisɔndiya ni hakili kɛli kɔnɔ** kɔrɔ.
+- **Hakili ka ɲɛnajɛ kɔnɔ ka nafa dɔgɔ, tuma dɔgɔ kɔnɔ** (sɛbɛn ka kɛlɛ kɛlɛ ka ɲɛ);
+- **Kumakan ni mɔgɔ ɲɔgɔn ka ɲɛmɔgɔya ka ɲɛ, o bɛ kɛ ka ɲɛ kosɛn** (sɛbɛn ka kɛlɛ kosɛn, ɲɛnajɛ dɔgɔ kɔnɔ);
+- **Ɲɛnamaya ka ɲɛ, dusukun ni kɛwale ka ɲɛ dɔgɔ dɔgɔ** ka ɲɛ.
 
-Caya bɛ kɛ kosɛbɛ kalan kɔ kɔrɔ, ni kalan kɔnɔ ka waati ka ca kalo 10 ni tɛmɛ, ani kalan dɔgɔ bɛ sɛbɛn ka a ka tɛmɛ waati caman kɔnɔ. Hakili kɛli kɔnɔ bɛ kɛ mɔgɔ ye min ye kɛlɛ dɔ kɛ tabulɛti kɔnɔ kelen-kelen, o ka kɛ fɛn ye min ka gɛlɛya tɛ.
+Nafa dɔrɔn ka ɲɛnajɛ kɔnɔ, o bɛ ɲɛnajɛ ni sɛgɛsɛgɛ kɔ, sɛgɛsɛgɛ 10 bɛ kɛ kɔnɔ, o kɔfɛ tile dɔw kɔnɔ. Ɲɛnajɛ dɔw tɛ fɔ ko nafa bɛ tɛmɛn. Hakili ɲɛnajɛ, mɔgɔ dɔ ka kɔnɔ ɲɛnajɛ ni sɛgɛsɛgɛ ye, o tɛ kɛ ko kelen ye ka ɲɛ ni mɔgɔ min bɛ ɲɛnajɛ kɛ kelen-kelen ni tabulɛti kɔnɔ, o ye ko wɛrɛ ye.
 
-2024 Lancet Commission fɔra ko kɛlɛ sigilanw ka ɲɛ kosɛbɛ mɔgɔ minnu bɛ dimansi ɲɛ, ka nisɔndiya ni ka ɲɛnamaya maaya ka ɲɛ ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Sanni 2024 Lancet Commission ko, ɲɛnajɛ kɔnɔ min bɛ kɛ ka ɲɛ, o ka nafa bɛ ɲɛnajɛ ka kɛlɛ ye mɔgɔ min ka hakili tɔɔrɔ bɛ ye, ka ɲɛnajɛ ka kɛlɛ ni ɲɛnajɛ ka nafa ma. ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0))
 
-## Dɔnkiliw bɛ ɲɛ mun na?
+## Hakili ɲɛnajɛw bɛ nafa mun ye?
 
-Ni a sugandilen bɛ kɛ, dɔnkiliw bɛ nin kɛ ɲɛ:
+Ni i bɛ ɲɛnajɛ ka kɛ kɔrɔ, ɲɛnajɛw bɛ se ka kɛ:
 
-- **Nisɔndiya.** Waati ɲɛmɔgɔya dɔ bɛ ɲɛ a yɛrɛ kosɔn.
-- **Ɲɔgɔn ka kɛ.** Ni ɲɔgɔn ye ɲɔgɔn fɛ, ɲɛnɛma bɛ kɛ ka fɔ ni ɲɔgɔn ye, ni kuma tɛ se ka kɛ. A ka ɲɛ ka [ka ɲɔgɔn ni kɛlɛ](/caregiving/how-to-play-together/).
-- **Ɲɛnamaya ka sɛbɛn.** Dɔnkili min bɛ kɛ waati kelen kɔnɔ tile kelen kɔnɔ, o bɛ hɛrɛ kɛ.
-- **Hakilitigi.** Fɛn min ka kɛ mɔgɔ ka fɛn ye min bɛ kɛ ka ɲɛ, o bɛ kɛ ka hakilitigi kɛ, a tɛ kɛ kalan ye.
-- **Kuma.** Sɛbɛn walima kuma dɔ bɛ kɛ ka fɔ ka kuma kɛ. A ka ɲɛ ka [dɔnkili sɛbɛnnen dɔw](/games/conversation-cards/) walima [kuma tɛmɛ](/games/finish-the-saying/).
+- **Ɲɛnajɛ.** Ɲɛnajɛ dɔ ka ɲɛ ka ɲɛ, o nafa bɛ a yɛrɛ ka kɛ.
+- **Tɔgɔ ni tɛmɛsira.** Ɲɛnajɛ ni mɔgɔ ɲɔgɔn ka sigi ɲɔgɔn fɛ, o bɛ kuma ka sɔrɔ kumakan ka ɲɛ. Ale [ka ɲɛnajɛ ni ɲɔgɔn ka kɛ kɔrɔ](/caregiving/how-to-play-together/) ɲɛ.
+- **Ɲɛnamaya ka ɲɛ.** Ɲɛnajɛ min bɛ kɛ tile ɲɛ dɔ la sanni bɛɛ, o bɛ dusukun ka ɲɛ.
+- **Ɲɛnajɛ ka sɛgɛsɛgɛ.** Ɲɛnajɛ min bɛ mɔgɔ ka kɛlɛ ni a ka se ɲɛ, o bɛ mɔgɔ dusukun ka ɲɛ, a tɛ ɲɛnajɛ kɛ kɔnɔ.
+- **Kumakan.** Ɲɛnajɛ dɔ, n'o ye sɛbɛn walima ko min bɛ mɔgɔ kuma ka kɛ kɔrɔ, o bɛ kuma daminɛ. Ale [kumakan sɛbɛnw](/games/conversation-cards/) walima [ko ka ɲɛ](/games/finish-the-saying/) ɲɛ.
 
-O min tɛ ka kɛ: waati dɔ ka ko, ka kɛ ka caya dɔ ka jabi, ani fɛn min bɛ mɔgɔ ka hakili kɛ kalan ye. Ni mɔgɔ bɛ kɔnɔ ka ɲɛ, aw ka ɲɛ tuma min na. Ka tuma dɔ ka gɛlɛya bɛ kɛ, walima sigi ɲɔgɔn fɛ, o ye ɲɛnɛma ye. Aw ka [sɛbɛnnen ka ɲɛ dɔnkiliw ni kɔmpiyuteri ka ɲɛ](/caregiving/choosing-apps-and-games/) kɔrɔ, a bɛ dɛmɛ kɛ.
+O min tɛ ka ɲɛ: tile ka bonya, ɲɛnajɛ ka kɛlɛ, ɲɛnajɛ ka kɛlɛ ni a ka sɛgɛsɛgɛ. Ni mɔgɔ dusukun dɛsɛra, sigi. Ka ɲɛnajɛ ka kɛ kɛlɛ tɛ, walima ka sigi ɲɔgɔn fɛ, o ye nafa ye. [Ɲɛnajɛw ka sugandi](/caregiving/choosing-apps-and-games/) bɛ sɛbɛn min kɔnɔ, o bɛ dɛmɛ.
 
-## Golden Moments bɛ se min na
+## Golden Moments bɛ yan
 
-Golden Moments dɔnkiliw, i n'a fɔ [sɛbɛnnen ni a teriw](/games/picture-pairs/), [sɛbɛnnen ka kɛlɛ](/games/picture-puzzle/) ani [kuma ci ka sɛbɛn ni caman](/games/word-search/), olu bɛ kɛ nisɔndiya ni waati ye ɲɔgɔn ye. U tɛ waati ni nɔmɔrɔ ye. U tɛ **dɔ** ye ka dimansi ɲɛ kɛ, u tɛ dimansi tanga walima ka dimansi ɲɛ kɔ kɛ. An b'a fẽ ka kuma tiɲɛ ka sɛbɛn ka tɛ fɛn min tɛ se ka kɛ dɔnkili kelen na.
+Golden Moments ɲɛnajɛw, i ko [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) ni [large-print word search](/games/word-search/), olu bɛ kɛ ɲɛnajɛ ni ɲɔgɔn ka tɛmɛsira ye. Olu tɛ tile dɔ ka kɛlɛ, olu tɛ ɲɛnajɛ ka sɛbɛn. O tɛ **kɛlɛ** ye, ani olu tɛ **hakili tɔɔrɔ ban** walima **ka tɛmɛn**. An bɛ fɛn min tɛ ka kɛ, o ko an tɛ a f'i ye, nka an bɛ kuma tiɲɛ f'i ye.
 
-## Dɔtɔrɔ ni kuma
+## Dɔtɔrɔ ka kuma
 
-Ni aw bɛ hakili gɛlɛya ɲɛ, aw yɛrɛ walima mɔgɔ min bɛ aw ka kan, aw ka dɔtɔrɔ ye, ka dɔnkiliw kɔfɛ tɛ. Dɔtɔrɔ bɛ se ka fɛn min bɛ ka kɛ ka dɔgɔya, o ɲini, ani ka kɛlɛ min kɛra ni sɛbɛnnen ye dɔ bɛ dɛmɛ kɛ, i n'a fɔ ka tansiyɔn kɛ ka ɲɛ, ani ka kanw ɲɛ. Aw ka [Dimansi tanga bɛ se ka kɛ wa?](/brain-health/can-dementia-be-prevented/) ɲɛ kɔrɔ tɛmɛ fɛn caman kɔrɔ. Ni hakili gɛlɛya ka kɛ tɔɔrɔ ye walima fɛn wɛrɛ ka tɔɔrɔ ye, aw ka dɛmɛ ɲɛnɛ ka kɛ tuma min na.
+Ni i bɛ hakili tɔɔrɔ ye i yɛrɛ walima mɔgɔ min ka i bɛ ɲɛ, ni hakili bɛ yɛlɛma, dɔtɔrɔ ka kuma ka ɲɛ ka ɲɛ kɛ ɲɛnajɛ ka kɔrɔ. Dɔtɔrɔ bɛ se ka kɔrɔ mun na ka hakili tɔɔrɔ kɛ, ani a bɛ kuma ka ɲɛ ni ɲɛnajɛ kɛ min bɛ kɛ ni ɲɛnajɛ ka tɛmɛsira ka ɲɛ, i ko tansiyɔn ka dɔgɔya ni tulonkow ka ɲɛnajɛ. Ka ɲɛ ka [Hakili tɔɔrɔ bɛ ban wa?](/brain-health/can-dementia-be-prevented/) ɲɛ. Ni hakili tɔɔrɔ bɛ yɛlɛma tuma dɔgɔ kɔnɔ, ka dɔtɔrɔ dɛmɛ ɲɛ tuma min na.

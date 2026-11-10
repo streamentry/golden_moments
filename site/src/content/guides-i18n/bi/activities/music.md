@@ -1,28 +1,34 @@
 ---
-title: "Aktiviti Blong Musik Long Ol Man wetem Dementia"
-seoTitle: "Musik Aktiviti Long Dementia: Playlist mo Aidia"
-description: "Hao blong sherem musik wetem man o meri we i gat dementia: wokem playlist blong olgeta, 15 smol aktiviti blong musik, mo tips long evri stej."
+title: "Miuzik Aktiviti Blong Ol Man mo Woman we Oli Stap Laef wetem Dementia"
+seoTitle: "Miuzik Aktiviti Long Dementia: Lis Singsing mo Aedia"
+description: "Fasin blong sherem miuzik wetem man o woman we oli stap laef wetem dementia: wokem wan lis blong ol singsing blong hem long taem blong yangfala, fet mo famili, 15 simpol miuzik aktiviti, mo tips blong evri stej."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Musik i wan long ol isi samting blong sherem wetem man o meri we i gat dementia. Wokem wan playlist blong ol song we oli stap long laef blong hem long taem blong yangfala, long fet mo long famili, mo playem olsem i no gat ads mo narafala noise. Singim, klapem hand, swae, o jus harem tugeta. Jusum musik we i kwaet o we i laef, long wanem i fit long taem, mo kipim vol i no hae. Stop sapos wan song i mekem hem sore.
+  Miuzik i wan long ol aktiviti we i isi moa blong sherem wetem man o woman we
+  oli stap laef wetem dementia. Wokem wan lis blong ol singsing we oli bin
+  stap long taem blong yangfala, long lotu mo long famili. Plei olgeta samting
+  wetem no gat ol advertisment o narafala noes. Singsing, klepim, haf mo jes
+  lisin, evri wan oli ken i tekpat. Jusum miuzik we i kwaet o we i gat laef,
+  long rong taem. Holem volum i isi, mo stopem sipos wan singsing i mekem hem
+  sore.
 keyPoints:
-  - "Musik we i blong olgeta i moa gud: ol style we oli laekem taem oli yangfala, plus musik blong fet, kastom mo ol famili fangsen."
-  - "Playem wan samting long wan taem, no ads, mo TV i ofe."
-  - "Singim, klapem hand, swae mo jus harem, olgeta i ol wei blong jeinim."
-  - "Yusum musik we i kwaet blong mekem hem kam kwaet, mo musik we i laef blong mekem hem kam gud. Lukluk long wei we man o meri ya i respondem."
-  - "Ol ripot long strakja musik sesen oli no plante yet; mifala i sajestem musik olsem wan samting we i gud blong sherem, no wan trit."
+  - "Miuzik we i gat minin long man o woman i moa gud: ol stael we hem i laekem taem hem i yangfala, mo miuzik blong lotu, kastom mo ol spesol taem blong famili."
+  - "Plei wan samting wan taem, no gat ol advertisment mo TV i olsem ol."
+  - "Singsing, klepim, haf mo jes lisin, olgeta oli ken i wan ptt blong tekpat."
+  - "Yusum miuzik we i kwaet blong mekem hem i kwaet, mo miuzik we i gat laef blong mekem hem i hapi, mo lukaotem hao man ya i rispondem."
+  - "Ol risej long ol sesin blong miuzik we oli plan i no stap moa; mifala i talemaot se miuzik i samting we i plesen blong sherem, i no trit."
 faq:
-  - q: "Wanem kaen musik i moa gud long man o meri we i gat dementia?"
-    a: "Musik we man ya i bin laekem longtaem, olsem ol song blong taem blong yangfala mo twenti yia, plus musik blong fet, kastom mo ol famili fangsen. Sapos i possible, letem hem i jusum. Lukluk long fes mo bodi blong hem blong save wanem i laekem, mo katem wanem i mekem hem sore."
-  - q: "Mi save yusum hedfon?"
-    a: "Sam man oli laekem hedfon from i blokem noise, be sam oli no kamfotebol o oli konfius. Traem wan spika fastaem blong yufala save harem tugeta. Sapos yu yusum hedfon, kipim vol i no hae mo stap klosap."
-  - q: "Ken musik i helpem taem man i no kwaet o i sore?"
-    a: "Musik we i kwaet mo i familiar i save helpem blong mekem wan fil we i kwaet, mo Alzheimer's Association i sajestem blong yusum musik blong mekem atmosfia we yu wantem. Hem i no save wok evri taem. Sapos man i sore, jekem tu sipos hem i pen, i hangre, i gat noise, o i taed."
-  - q: "Ol man we dementia i stap long laswan stej oli save stap enjoem musik?"
-    a: "Plante oli save. Alzheimer's Association i talem se man long laswan stej i save tapem bit o singim wan song blong taem blong pikinini. Sitdaon klosap, playem musik isi, mo holem hand o swae tugeta."
+  - q: "Wanem kaen miuzik i moa gud long man o woman we i gat dementia?"
+    a: "Miuzik we man ya i save long hem i lelebet taem, we oli bin laekem long taem blong yangfala, oftenas long taem we hem i gat 13 ko 20 krismas. Sipos i gat hem, letem hem i jusum. Lukluk long fes mo bodi blong hem blong save wanem hem i laekem, mo lusim wanem we i mekem hem i sore."
+  - q: "Eniwe mi shud yusum hedfon?"
+    a: "Sam man oli laekem hedfon from i blokem ol noes, be ol narafala oli no fil gud long hem o oli no save. Traem spika fastaem blong yufala i ken lisin tugeta. Sipos yu yusum hedfon, holem volum i isi mo stap klosap."
+  - q: "Miuzik i ken helpem long restlesnes o long sore?"
+    a: "Miuzik we i kwaet mo we man i save long hem i ken helpem blong mekem wan kwaet fil, mo Alzheimer's Association i sujestem blong yusum miuzik blong mekem atmosfia we yu wantem. Hem i no wok evri taem. Sipos man i stap sore, lukluk tu sipos hem i gat pen, i hangre, i harem noes o i taed."
+  - q: "Ol man mo woman we oli stap long laswan stej blong dementia oli ken stil enjoe miuzik?"
+    a: "Plante oli ken. Alzheimer's Association i talemaot se man long laswan stej i ken stil taepem bit o singsing wetem song we hem i bin save long taem blong pikinini. Sitdaon klosap, plei miuzik i isi, mo holem hand blong hem o haf tugeta."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -41,78 +47,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Musik i wan long ol isi samting we yu save sherem wetem man o meri we i gat dementia. I no askem ol raet ansa, mo i no gat ol step blong folem. Wan song we i familiar i save mekem hem i smael, o tapem fut, o singim sam tok, even long wan dei we i hard blong tokbaot. Yu nidim jus musik we i raet long man ya mo wan kwaet taem blong playem.
+Miuzik i wan long ol samting we i isi moa blong sherem wetem man o woman we oli stap laef wetem dementia. Hem i no askem yu blong gat ol rong ansa o blong folem ol stap. Wan singsing we hem i save long hem i ken mekem hem i smael, i ken taepem fut blong hem, o hem i ken singim sam wes wetem yu, even long wan dei we toktok i hard. Yu nidim jes miuzik we i stret long man ya, mo wan kwaet taem blong plei hem.
 
-## Wanem aktiviti blong musik i gud long ol man we gat dementia?
+## Wanem miuzik aktiviti i wok gud long ol man mo woman we oli stap laef wetem dementia?
 
-Harem, singim, klapem hand, swae mo tokbaot musik, olgeta i gud. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i sajestem blong playem musik, tokbaot musik mo ol singa, singim o danis long ol famos song, mo go long konsot o ol musik program long komuniti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) i ademap se ol muvmen olsem klapem hand o danis save mekem i moa fun, mo se musik i save wan wei blong konektem taem ol tok i kamap hard.
+Lisin, singsing, klepim, haf mo toktok long miuzik, evri wan oli wok gud. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i sujestem blong plei miuzik, toktok long miuzik mo long man we i singsing, singsing o danis long ol save singsing, mo go long ol konsat o ol miuzik program long komuniti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) i ademem se muvmen olsem klepim o danis i ken mekem hem i moa gud, mo se miuzik i ken wan rod blong konektem taem ol toktok i kamap hard.
 
-## Hao blong wokem wan personal playlist?
+## Hao yu blong wokem wan personal lis blong singsing?
 
-Samting we i moa yusful we yu save mekem i wan playlist blong musik we i min long man ya. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) tu i paotem musik we i garem personal min. Hia i wan simpol wei blong wokem wan.
+Samting we i moa yusful we yu ken mekem hem i wan lis blong miuzik we i gat minin long man ya. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i talemaot tu miuzik we i gat personal minin. Hia i wan simpol rod blong wokem wan.
 
 ### Stat wetem laef blong hem
 
-- **Taem blong yangfala mo twenti yia.** Tingting long wanem we i stap long redio, long ol danis mo long ol movie taem hem i yangfala.
-- **Ol bigfala taem.** Musik long mared, fasdanis, o album we famili i laekem long trip.
-- **Fet mo kastom.** Ol himn, gospel, holi musik, o ol song long fes langwis blong hem.
-- **Wok mo sevis.** Band blong mach, wok song, o musik we i konektem wetem taem long ami.
-- **Wanem famili i rememba.** Askem ol brata mo sista, pikinini mo ol olfala fren wanem oli stap playem o singim olwe.
+- **Taem blong teenage mo blong yangfala.** Tingting long wanem we oli plei long redio, long danis mo long ol movi taem hem i yangfala.
+- **Big taem.** Miuzik long maret blong hem, fes danis, o album we famili oli laekem long trip.
+- **Lotu mo kastom.** Ol himn, gospel, miuzik blong lotu, o ol singsing long ol fastok langwis blong hem.
+- **Wok mo sav.** Band blong mach, ol wok singsing, o miuzik we i kanekt wetem wan taem long ami.
+- **Wanem famili i save.** Askem ol brata mo sista, pikinini mo ol olfala fren wanem oli bin alwe plei o singim.
 
-### Tingting long ol kaen, no jus ol song
+### Tingting long ol kaen miuzik, no jes ol singsing
 
-Sapos yu no save we nao blong stat, traem sam minit blong eni long ol kaen ia mo lukluk long rispons: big band mo swing, doo-wop, Motown mo soul, ol erli rock and roll, kantri mo western, bluegrass, gospel mo himn, ol musik blong stej Broadway, jazz standards, Latin musik olsem bolero o mariachi, polka, folk mo klasikol. Kipim wanem we i mekem hem i smael o tapem fut; katem wanem we i mekem hem i sore.
+Sipos yu no save wea blong stat, traem sam minit long ol kaen ya mo lukluk long rispons: big band mo swing, doo-wop, Motown mo soul, earli rock and roll, kantri mo western, bluegrass, gospel mo himn, Broadway show tunes, jazz standards, Latin miuzik olsem bolero o mariachi, polka, folk mo klasikol. Holem wanem we i mekem hem i smael o taepem fut; lusim wanem we i mekem hem i sore.
 
-### Mekem i isi blong playem
+### Mekem i isi blong plei
 
-- **No ads.** Alzheimer's Association i warnem se ol advertisement i save mekem konfiusin. Yusum musik we yu bin download, ol CD, ol rekod, o wan sevis we no gat ads.
-- **Wan simpol divaes.** Wan spika wetem wan bigfala batan, o wan playlist we i sev finis mo i redi, blong eni man i save stat.
-- **Tu smol lis.** Wan kwaet lis blong settlem, mo wan laef lis blong lift mood.
-- **Putem laeben.** Raetem nem blong man ya mo "musik we hem i laekem" long divaes, blong famili we i kam mo ol wokman blong kea i save yusum tu.
+- **No gat advertisment.** Alzheimer's Association i warnem se ol advertisment i ken mekem konfiuzen. Yusum ol miuzik we yu bin daonlodem, CD, rekod o wan servis we no gat advertisment.
+- **Wan simpol divaes.** Wan spika wetem wan bigfala bataen, o wan playlist we i redi finis, blong eniwan i ken stat hem.
+- **Tu slod lis.** Wan kwaet lis blong sedaon mo wan lively lis blong liftem fil.
+- **Raetem nem.** Raetem nem blong man ya mo "miuzik we i laekem" long divaes, blong ol famili we oli kam mo ol wokman blong kea oli ken yusum hem tu.
 
-## 15 aktiviti blong musik we yu save traem
+## 15 miuzik aktiviti blong traem
 
-1. **Harem tugeta.** Sitdaon saed bae saed wetem nating narafala we i stap. Harem i wan fulfulap aktiviti.
-2. **Singim wetem.** Stat singim yufala wan. Humim o jus mouthem ol tok i stap.
-3. **Klapem hand o tapem bit.** Tapem ol nis, tapem tebol, o yusum wan smol hand drum o shaker.
-4. **Slou danis.** Holem hand mo swae long kitsin, o danis long jea, muvem han tugeta.
-5. **Scarf danis.** Wevem ol laet scarf long bit blong musik, long standap o long jea.
-6. **Tokbaot musik.** Invaetem, no testem: "Hem i sawntem olsem wan danis hol. Tokbaot ol danis." Nevaremen askem "Yu rememba long song ia?"
-7. **Playem wan album fulwan.** Putem wan rekod we hem i laekem, from stat go kasem finis, wetem kofi.
-8. **Lukluk long album kava.** Ol rekod kava oli gud blong tokbaot fasin, ka mo fes.
-9. **Lukluk long wan musikol.** Wan filim musikol o konsot long taem blong hem i mekem wan gud evening. Stopem blong rest.
-10. **Playem wan instrument we hem i save.** Wan fomas pianist o gita man i save laekem simpol playing. Bihaen, pikim sam nota tugeta i stret finis.
-11. **Musik long taem blong wok.** Playem ol song we hem i laekem taem yu fold laondri o setem tebol.
-12. **Moning song.** Stat evri dei wetem sem hapi song olsem wan part blong rutin.
-13. **Singim himn o holi musik.** Playem musik blong fet blong hem mo singim tugeta.
-14. **Joenem wan singing grup.** NHS i talem se ol singing grup i gud long mood mo gud fil. Askem lokal long ol choir we i fren long dementia.
-15. **Go long laev musik.** Wan smol konsot long komuniti o wan aotdoa band. Sitdaon klosap long eksit mo lusim taem yu wantem.
+1. **Lisin tugeta.** Sitdaon sans long sam wetem no wan narafala samting i stap go. Lisin hem i wan fulfulfala aktiviti.
+2. **Singim wetem hem.** Stat singim yu wan. Humim o makem ol tok i gat sans tu.
+3. **Klepim o taepem bit.** Patem ol ni, taepem tebol, o yusum wan smol hand drum o shaker.
+4. **Slow danis.** Holem han mo swe long kitjen, o danis long jea, muvim han tugeta.
+5. **Sikaf danis.** Wevem ol laet sikaf long bit blong miuzik, we yu stap o yu sitdaon.
+6. **Toktok long miuzik.** Invaetem, no testem: "Dis i olsem wan danis holo. Tellem mi long ol danis." Nevà askem "Yu rimemba dis singsing?"
+7. **Plei wan album hol.** Putum wan rekod we hem i bin laekem, from stat kasem finis, wetem kofi.
+8. **Lukluk long album kava.** Ol ol kava blong rekod blong taem i gud blong toktok long fasen, ka mo fes.
+9. **Wajem wan muzikol.** Wan filmd muzikol o konsat long taem blong hem i mekem wan gud evening. Stopem blong sam rest.
+10. **Plei wan instruman we hem i save.** Wan fes pianist o gitarist i ken laekem simpol plei. Afta, pikim sam noten tugeta i stret finis.
+11. **Miuzik taem oli wok.** Plei ol singsing we hem i laekem taem yu fouldem laondri o setem tebol.
+12. **Moning singsing.** Stat evri dei wetem sem hapi singsing olsem wan pat blong rutin.
+13. **Singim himn o miuzik blong lotu.** Plei miuzik long fasten blong lotu mo singim tugeta.
+14. **Joenem wan singsing grup.** NHS i talemaot se ol singsing grup i gud blong fil mo gudfala stetes. Askem long komuniti abaotem ol dementia-frendly kwaea.
+15. **Go long laef miuzik.** Wan smol konsat long komuniti o wan aotdoa band. Sidaon klosap long aot mo go long eni taem yu laekem.
 
-Sapos yu wantem wan aktiviti blong tok we i laet, wetem ol famous fraes, traem [finis ol tok](/games/finish-the-saying/), we yu save alwe soem ende.
+Sipos yu wantem wan lait aktiviti blong tok-plei wetem ol save fres, traem [finish the saying](/games/finish-the-saying/), we yu ken alwe soem en blong tok.
 
-## Mekem musik i stret wetem taem
+## Matjing miuzik long rong taem
 
-Alzheimer's Association i sajestem blong yusum musik blong mekem atmosfia we yu wantem: musik we i kwaet blong mekem wan fil we i kwaet, mo wan song we i laef from taem blong man ya blong raesem spirit.
+Alzheimer's Association i sujestem blong yusum miuzik blong mekem atmosfia we yu wantem: miuzik we i kwaet blong mekem wan pis atmosfia, mo wan singsing we i hapi long taem blong yangfala blong lifim spirit.
 
 | Taem | Traem | Tip |
 | --- | --- | --- |
-| Gedap | Wan familiar mo hapi song | Sem song evri moning i kamap wan gud saen |
-| Wok long haos | Ol favorit we i laef | Musik i save mekem wok i fil olsem i gat kampani |
-| Kakae | Soft instrumental musik | Kipim i kwaet blong i no bagarem kakae |
-| Afternun we i stat go long naet | Kwaet, familiar musik long gud laet | Lukim [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Taem blong slip | Slou, isi musik | Lowem vol mo laet tugeta |
-| Laswan stej | Ol song we i moa laekem, i soft tumas | Sitdaon klosap mo holem hand |
+| Kirap | Wan singsing we man i save long hem, we i hapi | Sem singsing evri moning i kamap wan isi sain |
+| Wok long haos | Ol favrit we i hapi | Miuzik i ken mekem wok i fil olsem i gat kampani |
+| Kaikai | Soft instrumental miuzik | Holem i kwaet blong hem i no kompitim kaikai |
+| Let aftenun | Kwaet, miuzik we i save long hem long gud laet | Lukluk [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Taem blong slip | Slow, isi miuzik | Lusim volum mo laet i go daon tugeta |
+| Laswan stej | Ol singsing we hem i laekem moa, i very soft | Sitdaon klosap mo holem han |
 
-## Tips blong gud eksperiens
+## Tips blong wan gud eksperiens
 
-- **Stopem narafala noise.** Alzheimer's Association i sajestem blong klosem ol windo mo ol doa, mo ofem TV, blong musik i stap olsem wanem nomo i soen.
-- **Kipim vol i isi.** Musik i mas i kamfotebol, no i hae. Sapos man i yusum hiring eds, mekem sua se oli stap insaed mo oli wok gud; lukim [hearing](/brain-health/hearing/).
-- **Lukaot long sad rememberans.** Sam song i save bringim sore, faet o lus. Sapos wan song i mekem hem sore, konfortem hem mo jenisim song.
-- **Letem hem i lidim.** Sapos i possible, letem man ya i jusum musik, mo akseptem sapos hem i talem no.
-- **Stop long eni taem.** Faef minit blong musik i wan gud aktiviti. Sem tu blong ofem musik mo sitdaon kwaet.
+- **Stopem ol narafala noes.** Alzheimer's Association i sujestem blong serem ol windo mo doa mo tanem TV i ofu blong miuzik i stap wan nomoa noes.
+- **Holem volum i isi.** Miuzik i mas i gud long ia, no i loud. Sipos man i yusum hiring eid, mekem sua se oli stap insaed mo oli wok; lukluk [hearing](/brain-health/hearing/).
+- **Lukaotem ol sed tingting.** Sam singsing i ken kamaotem sore, faet o les. Sipos wan singsing i mekem hem i sore, kam kea long hem mo jenisim singsing.
+- **Letem hem i lidim.** Sipos i gat hem, letem man ya i jusum miuzik, mo akseptem sipos hem i talem no.
+- **Stopem eni taem.** Faev minit blong miuzik i wan gud aktiviti. Mo tu, ofem hem mo sitdaon kwaet i gud.
 
-## Wanem ripot i talem long musik mo dementia?
+## Wanem ol risej i talem abaotem miuzik mo dementia?
 
-Evidens i no plante yet. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) i lukluk long 30 stadi long strakja musik sesen, plante taem wetem grup long haos blong kea blong ol olfala. I faenem se ol sesen ia i probably i mekem ol sain blong sed fil i kam isi smol, kompea long usual kea, be i no faenem klia efet long agitesen, gud fil, o tingting mo memori, mo i no gat ol efet we i stap afta long ol sesen i finis.
+Ol risej oli no plante yet. Wan [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) i lukluk long 30 stadi long ol sesin blong miuzik we oli plan, we plante long grup long ol nursing hom. I faenem se ol sesin ya i probabli i helpem smol long ol sign blong sed fil, komperem long ol usual kea, be i no faenem wan klia efkt long agitesen, gudfala fil, o tingting mo memori, mo i no gat ol efkt we i stap afta ol sesin finis.
 
-Mifala i sherem musik from i wan gud, isi wei blong spendem taem tugeta, no olsem trit. Long ol grup setting, lukim [ol aktiviti blong grup long haos blong kea](/activities/care-home-groups/); long yusum musik wetem ol foto mo ol stori, lukim [ol aktiviti blong rememba](/activities/reminiscence/).
+Mifala i sherem miuzik from hem i wan plesen mo low-pressure rod blong spendem taem tugeta, i no olsem trit. Long ol grup seting, lukluk [care home group activities](/activities/care-home-groups/); long yusum miuzik wetem ol fotos mo ol stori, lukluk [reminiscence activities](/activities/reminiscence/).

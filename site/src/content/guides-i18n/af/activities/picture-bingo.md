@@ -1,33 +1,32 @@
 ---
-title: "Prentjie-bingo vir ouer mense met demensie"
-seoTitle: "Prentjie-bingo vir ouer mense met demensie"
-description: "Prentjie-bingo vir ouer mense met demensie, gedruk of op skerm: groot prentjies, 'n sagte afroeper, geen druk om te wen nie en wenke vir klein groepe."
+title: "Prentjie-bingo vir seniors met demensie, gedruk of op skerm"
+seoTitle: "Prentjie-bingo vir seniors met demensie"
+description: "Prentjie-bingo vir seniors met demensie: groot prente, 'n rustige tempo, geen druk om te wen nie, en wenke vir klein groepe en sorgsentrums."
 section: activities
 order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Prentjie-bingo vervang getalle met groot, duidelike prentjies, sodat mense
-  kan pas wat hulle sien in plaas van om te lees en te onthou. Druk kaartjies
-  of gebruik 'n afroeper op die skerm, roep een prentjie op 'n keer af en laat
-  almal merk wat hulle sien. Hou die groepe klein, die prentjies vet, en wen
-  opsioneel. Die beste bingosessie is 'n gesellige uur, nie 'n wedloop na die
-  bokant nie.
+  Prentjie-bingo vervang syfers met groot, duidelike prente, sodat mense kan
+  pas wat hulle sien in plaas van lees en onthou. Druk kaarte uit of gebruik
+  'n oproeper op die skerm, wys een prent op 'n slag, en laat elkeen merk
+  wat hulle sien. Hou groepe klein, prente duidelik en om te wen opsioneel. Die
+  beste bingo-sessie is 'n gesellige kuier, nie 'n wedloop nie.
 keyPoints:
-  - "Gebruik prentjies in plaas van getalle, en maak elkeen groot, duidelik en oor een bekende ding."
-  - "Roep stadig af, wys die prentjie en sê die naam. Herhaal die naam een keer, en wag."
-  - "Hou groepe op vier tot agt mense en sit die persoon waar hy of sy die afroeper en die kaart kan sien."
-  - "Maak wen opsioneel. Sommige sessies kan eindig met almal wat 'n prentjie wat hulle mooi vind, uitroep."
-  - "Vra eers voordat jy 'n wenner aankondig. Sommige mense vind 'n prys of 'n klap ongemaklik, en dit is in orde."
+  - "Gebruik prente in plaas van syfers, en maak elkeen groot, duidelik en van een bekende ding."
+  - "Roep stadig uit, wys die prent en noem die naam. Herhaal die naam een keer en wag."
+  - "Hou groepe by vier tot agt mense en laat die persoon sit waar hulle die oproeper en kaart goed kan sien."
+  - "Maak dit opsioneel om te wen. Sommige sessies kan afsluit waar elkeen 'n prent noem waarvan hulle hou."
+  - "Vra eers voor jy 'n wenner aankondig. Vir sommige mense kan 'n prys of handeklap ontstellend wees, en dit is heeltemal reg."
 faq:
   - q: "Wat is prentjie-bingo vir demensie?"
-    a: "Dit is 'n weergawe van bingo wat groot prentjies gebruik in plaas van getalle. Spelers merk die prentjie op hul kaart wanneer die afroeper dit wys of noem. Dit pas by mense wat met getalle sukkel en maak dit makliker om saam te speel."
-  - q: "Hoe bestuur ek prentjie-bingo vir 'n groep?"
-    a: "Gebruik 'n paar stelle gedrukte kaartjies of 'n afroeper op die skerm, en roep een prentjie op 'n keer af. Praat duidelik, hou die prentjie op en gee mense tyd om dit te vind. Hou die groep klein, moenie haastig wees nie, en laat mense hul kaarte merk met 'n vinger, 'n pen of 'n skyfie."
-  - q: "Help prentjie-bingo die geheue?"
-    a: "Geen aktiwiteit is al getoon om demensie te behandel of te vertraag nie. Prentjie-bingo is 'n gedeelde, sosiale spel. Die waarde is die geselskap, die klank van die afroeper en die plesier om 'n prentjie te vind, nie enige uitwerking op die geheue nie."
-  - q: "Wat as iemand wil ophou of die prentjie nie kan vind nie?"
-    a: "Laat hulle ophou. Bied aan om die prentjie saam te soek, wys daarna, of skuif hul skyfie vir hulle met hul toestemming. Om hulle gemaklik te hou is belangriker as om die kaart klaar te maak."
+    a: "Dit is 'n weergawe van bingo wat groot prente in plaas van syfers gebruik. Spelers merk die prent op hul kaart wanneer die oproeper dit wys of noem. Dit pas mense wat syfers moeilik vind en maak dit makliker om saam te speel."
+  - q: "Hoe bied ek prentjie-bingo vir 'n groep aan?"
+    a: "Gebruik 'n paar stelle gedrukte kaarte of 'n oproeper op 'n skerm, en roep een prent op 'n slag uit. Praat duidelik, hou die prent op en gee mense tyd om dit te kry. Hou die groep klein, moenie jaag nie, en laat mense hul kaarte met 'n vinger, pen of skyfie merk."
+  - q: "Help prentjie-bingo vir die geheue?"
+    a: "Geen aktiwiteit help bewese om demensie te behandel of te vertraag nie. Prentjie-bingo is 'n gesellige, sosiale speletjie. Die waarde lê in die samesyn, die stem van die oproeper en die genot om 'n prent te kry, nie in enige uitwerking op die geheue nie."
+  - q: "Wat as iemand wil ophou of nie die prent kan kry nie?"
+    a: "Laat hulle gerus ophou. Bied aan om dit saam te soek, wys daarna, of skuif hul skyfie vir hulle met hul toestemming. Om te sorg dat hulle gemaklik voel, is belangriker as om die kaart klaar te maak."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -43,51 +42,51 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-Bingo is vir baie ouer volwassenes 'n bekende, gesellige spel, maar die getalle kan moeilik wees om te volg vir iemand met demensie. Prentjie-bingo hou dieselfde sagte ritme en ruil die getalle vir groot, duidelike prentjies. Dit werk by die huis, in 'n dagprogram of in 'n versorgingstehuis. Hierdie gids verduidelik hoe om te speel, hoe om dit aan te pas, en hoe om die fokus op plesier te hou.
+Bingo is vir baie ouer volwassenes 'n bekende, gesellige speletjie, maar die syfers kan moeilik wees om te volg vir iemand wat met demensie leef. Prentjie-bingo behou dieselfde rustige ritme en vervang die syfers met groot, duidelike prente. Dit werk goed tuis, by 'n dagsentrum of in 'n versorgingsoord. Hierdie gids verduidelik hoe om te speel, hoe om dit aan te pas, en hoe om die fokus op genot te hou.
 
 ## Hoe prentjie-bingo werk
 
-Elke speler het 'n kaart met 'n rooster van prentjies, soos 'n teepot, 'n kat, 'n roos, 'n seilboot of 'n fiets. 'n Afroeper wys of noem een prentjie op 'n keer. Spelers merk die ooreenstemmende prentjie op hul kaart. 'n Speler wat 'n volle ry merk, of die stel wat die groep ooreenkom, kan “Bingo” uitroep, maar baie groepe slaan die wenner heeltemal oor.
+Elke speler kry 'n kaart met 'n rooster van prente, soos 'n teepot, 'n kat, 'n roos, 'n seilboot of 'n fiets. 'n Oproeper wys of noem een prent op 'n slag. Spelers merk die ooreenstemmende prent op hul kaart. 'n Speler wat 'n volle ry merk, of die patroon waarop die groep ooreengekom het, kan "Bingo" uitroep, maar baie groepe los die wenner heeltemal uit.
 
-Jy kan die druk-kaartjies uit ons [gratis drukbare aktiwiteite](/activities/printable/) gebruik, of die [prentjie-bingo-speletjie](/games/picture-bingo/), wat 'n afroeper op die skerm vir groepe insluit. Albei werk goed op 'n tablet wat vir die hele groep opgehou word om te sien.
+U kan die drukbare kaarte van ons [gratis drukbare aktiwiteite](/activities/printable/) gebruik, of die [prentjie-bingo-speletjie](/games/picture-bingo/), wat 'n skerm-oproeper vir groepe insluit. Albei werk goed op 'n tablet wat omhoog gehou word sodat die hele groep dit kan sien.
 
-## Die sessie opstel
+## Voorbereiding vir 'n sessie
 
-- **Kies 'n klein groep.** Vier tot agt mense is 'n goeie grootte. Groter groepe is moeiliker om te volg en kan jaag voel.
-- **Maak die prentjies groot.** Gebruik vet lyne en een bekende voorwerp per vierkantjie. Vermy vol kaarte.
-- **Sit mense goed.** Plaas elke speler waar hy of sy die afroeper en die eie kaart kan sien, en naby 'n helper as hulle een nodig het.
-- **Gebruik eenvoudige merkers.** Groot skyfies, muntstukke, of 'n vingertik werk beter as potlode. Hou 'n paar ekstras byderhand.
-- **Beplan 'n kort sessie.** Dertig minute is dikwels genoeg. Stop vroeg as die energie afneem.
+- **Kies 'n klein groepie.** Vier tot agt mense is 'n goeie getal. Groter groepe is moeiliker om te volg en kan gejaag voel.
+- **Maak die prente groot.** Gebruik duidelike buitelyne en een bekende voorwerp per blokkie. Vermy besige kaarte.
+- **Laat mense gemaklik sit.** Plaas elke speler waar hulle die oproeper en hul eie kaart goed kan sien, en naby 'n helper as hulle hulp nodig het.
+- **Gebruik eenvoudige merkers.** Groot skyfies, muntstukke of 'n vingerpunt werk beter as potlode. Hou 'n paar ekstra byderhand.
+- **Beplan 'n kort sessie.** Dertig minute is dikwels heeltemal genoeg. Hou vroeër op as die energie daal.
 
-Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) raai aan om aktiwiteite aan te pas by wat 'n persoon nog kan doen, so vereenvoudig die kaarte en die reëls wanneer dit help.
+Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) beveel aan dat aktiwiteite aangepas word by wat 'n persoon nog kan doen; vereenvoudig dus die kaarte en reëls wanneer dit ook al help.
 
-## Hoe om die prentjies af te roep
+## Hoe om die prente uit te roep
 
-1. **Hou die prentjie op** of wys daarna op die skerm voordat jy praat.
-2. **Noem dit duidelik,** in gewone woorde: “Teepot.” Herhaal dit een keer, stadig.
-3. **Wag.** Gee mense tyd om te kyk en te merk. Roep nie die volgende prentjie af voordat die meeste mense 'n kans gehad het nie.
-4. **Beskryf, as dit help.** “Die rooi blom” of “die een wat ons by die piekniek gehad het” kan gesprek aan die gang sit.
-5. **Hou die tempo sag.** 'n Kalm afroeper is belangriker as 'n vinnige een.
+1. **Hou die prent omhoog** of wys daarna op die skerm voor u praat.
+2. **Noem dit duidelik,** in eenvoudige woorde: "Teepot." Herhaal dit een keer, stadig.
+3. **Wag.** Gee mense tyd om te kyk en te merk. Moenie die volgende prent uitroep voor die meeste mense 'n kans gehad het nie.
+4. **Beskryf dit, as dit help.** "Die rooi blom" of "die een wat ons by die piekniek gehad het" kan 'n gesprek aan die gang sit.
+5. **Hou die tempo rustig.** 'n Kalm oproeper is baie belangriker as 'n vinnige een.
 
-## Wen opsioneel maak
+## Maak wen opsioneel
 
-Kompetisie kan 'n probleem wees. 'n Persoon wat verloor, voel dalk getoets, en 'n persoon wat bang is om nie te wen nie, kan gespanne raak. Dit is 'n paar alternatiewe:
+Mededinging kan probleme veroorsaak. Iemand wat verloor, kan voel asof hulle getoets word, en iemand wat angstig is om te wen, kan gespanne raak. Hier is 'n paar alternatiewe:
 
-- **Almal wen 'n prentjie.** Elke speler roep een prentjie wat hulle mooi vind uit, en die groep bewonder dit.
-- **Deel 'n volle kaart.** Vra spelers om iets te sê oor een prentjie op hul kaart.
-- **Speel tot die prentjies op is.** Roep elke prentjie op een kaart af, en begin dan 'n ander, sonder 'n eerste wenner.
-- **Hou die prys klein of slaan dit oor.** 'n Koekie of 'n liedjie werk beter as 'n trofee.
+- **Elkeen wen 'n prent.** Elke speler noem een prent waarvan hulle hou, en die groep bewonder dit saam.
+- **Deel 'n vol kaart.** Vra spelers om iets te vertel oor een prent op hul kaart.
+- **Speel tot die prente opraak.** Roep elke prent op 'n kaart uit en begin dan met 'n nuwe een, sonder om 'n eerste wenner aan te wys.
+- **Hou die prys klein of los dit heeltemal uit.** 'n Koekie of 'n liedjie werk beter as 'n trofee.
 
-## Aanpassing vir mense in latere stadiums
+## Aanpassings vir mense in latere stadiums
 
-Vir mense wat dit moeilik vind om 'n prentjie te vind, gebruik 'n kaart met net vier of ses vierkantjies, of gee elke speler een kaart op 'n keer. Laat 'n helper die kaart vashou terwyl die persoon wys, of skuif die skyfie sag met hul toestemming. Sommige mense vind dit makliker om net na die afroeper te luister en die klank van die woorde te geniet.
+Vir mense wat dit moeilik vind om 'n prent te soek, gebruik 'n kaart met net vier of ses blokkies, of gee vir elke speler een kaart op 'n slag. Laat 'n helper die kaart vashou terwyl die persoon daarna wys, of skuif die skyfie versigtig met hul toestemming. Sommige mense vind dit makliker om net na die oproeper te luister en die klank van die woorde te geniet.
 
-Let op tekens van ongemak, soos wegtrek of frons, en stop as dit verskyn. Vir meer idees oor rustige aktiwiteite wat sit, sien [aktiwiteite vir latere stadiums](/activities/late-stage/).
+Let op na tekens van ongemak, soos om weg te draai of te frons, en hou dadelik op as dit gebeur. Vir meer idees oor rustige aktiwiteite terwyl mens sit, sien [aktiwiteite vir latere stadiums](/activities/late-stage/).
 
-## Bingo in versorgingstehuise en dagprogramme
+## Bingo in versorgingsoorde en dagsentrums
 
-Groepsaktiwiteite werk die beste wanneer hulle beplan word rondom die mense in die kamer. Ons [gids vir groepsaktiwiteite in versorgingstehuise en dagprogramme](/activities/care-home-groups/) verduidelik hoe om 'n sessie te beplan, mense te sit, en om te gaan met mense wat wil weggaan. Prentjie-bingo pas ook goed by 'n sing-saam of 'n storie, en by [finish-the-saying](/activities/finish-the-saying/) as 'n rustiger spel later in die sessie.
+Groepaktiwiteite werk die beste wanneer dit beplan word rondom die mense in die vertrek. Ons [groepaktiwiteite-gids vir versorgingsoorde en dagsentrums](/activities/care-home-groups/) bespreek hoe om 'n sessie te beplan, sitplek te reël en mense te hanteer wat eerder wil loop. Prentjie-bingo pas ook goed by 'n samesang of 'n storie, en met [finish-the-saying](/activities/finish-the-saying/) as 'n rustiger speletjie later in die sessie.
 
-## Wat bingo wel en nie kan doen nie
+## Wat bingo kan en nie kan doen nie
 
-Prentjie-bingo is gesellig en aangenaam. Dit kan mense bymekaar bring, 'n rede gee om na prentjies te kyk en te luister, en 'n groep warm laat voel. Dit behandel nie demensie of vertraag die verloop daarvan nie. Beoordeel die sukses daarvan aan hoe mense lyk en voel gedurende die uur, nie aan wie wen nie.
+Prentjie-bingo is gesellig en aangenaam. Dit kan mense bymekaarbring, 'n rede gee om na prente te kyk en te luister, en 'n warm atmosfeer in 'n groep skep. Dit behandel nie demensie nie en vertraag ook nie die verloop daarvan nie. Beoordeel die sukses daarvan aan hoe mense lyk en voel tydens die sessie, nie aan wie wen nie.

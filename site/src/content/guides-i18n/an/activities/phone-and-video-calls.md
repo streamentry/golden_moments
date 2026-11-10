@@ -1,35 +1,34 @@
 ---
-title: "Actividatz pa videotrucadas con una persona con demencia"
-seoTitle: "Actividatz de videotrucadas pa la demencia"
-description: "Actividatz de videotrucadas y teléfono pa la familia lueñe de una persona con demencia: amostrar cosas, leyer, cantar, chuegos compartius y consellos."
+title: "Actividatas por trucada pa una persona con demencia"
+seoTitle: "Actividatas por videotrucada pa la demencia"
+description: "Actividatas por videotrucada y telefono pa la familia lluen de una persona con demencia: amostrar cosas, fotos, leyer en voz alta, cantar y chuegos suaves."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Las trucadas con una persona con demencia salen mejor cuando son cortas,
-  regulars y con algo que fer chuntos, como amostrar una mascota u un güerto,
-  mirar fotos, leyer en voz alta, cantar una canción favorita o chugar a un
-  chuego sosegau en una pantalla compartida. Trucar a la misma ora cada día si
-  puede ser, mantener una sola voz a la vez y pedir a alguien que sía con ella
-  que ayude.
+  As trucadas con una persona con demencia salen mejor cuan son cortas, regulars y
+  construyidas en torno a una cosa que facer chunto, como amostrar una mascota o un
+  chardín, mirar fotos, leyer en voz alta, cantar una cancion preferida o chugar
+  a un chuego suau en una pantalla compartida. Trucar a la mesma hora cada día si
+  puede, mantener una sola voz a la vez y pedir a alguien en o sitio que ayude.
 keyPoints:
-  - "Una actividat da forma a la trucada y quita presión a la conversación. Planege una cosa simple pa compartir."
-  - "Trucadas cortas y regulars a la misma ora del día muitas vegadas funcionan mejor que trucadas largas y de tanto en tanto."
-  - "Una persona parla a la vez. Las trucadas en grupo con voces que se pisan son difíciles de seguir, sobre todo con problemas d'oyeda."
-  - "Una persona que sía allí puede prebar o aparato, sentar-se al costau de la persona y fer de « mans » pa cualquier chuego u foto."
-  - "Si una trucada no funciona hue, acabe-la con cariño. Intentar-lo doman no pasa nada."
+  - "Una actividad da forma a la trucada y quita presion a la conversación. Planifique una cosa simple pa compartir."
+  - "Trucadas cortas y regulars a la mesma hora del día funcionan mas de cutio que trucadas largas y de tanto en tanto."
+  - "Una persona fala cada vez. Las trucadas en grupo con voces cruzadas son difiziles de seguir, sobre todo con perdida d'audición."
+  - "Un ayudant en o sitio puede preparar o aparato, sentar-se al costau de la persona y ser las « mans » pa cualsequier chuego o foto."
+  - "Si una trucada no funciona hue, acabala con calor. Tornar-ho a intentar mañana está bien."
 faq:
-  - q: "Qué puedo fer en una videotrucada con una persona con demencia?"
-    a: "Planegue una actividat simple: amostrar o huerto, a mascota u a cocina; mirar fotos antiguas chuntos; leyer en voz alta un poema curto u una carta; cantar una canción que le agrade; cucinar la mesma receta a la mesma ora; u chugar a un chuego de imáxenes sosegau en una pantalla compartida. As actividatz dan un punto de referencia a la trucada pa que la persona no tienga que sostener la conversación ella sola."
-  - q: "Cuánt ha de durar una videotrucada?"
-    a: "Normalment, más curta de lo que cree. Unos minutos cálidos pueden bastar, sobre todo si la persona se cansa pronto. Trucar con regularidat a la misma ora del día puede importar más que cuánt dure cada trucada."
-  - q: "Y si las videotrucadas le confunden u le disgustan?"
-    a: "A algunas personas la cara en una pantalla les confunde. Prebe una trucada de teléfono normal, un mensache de video grabau que la persona que ayuda pueda poner en un momento tranquilo, u tarjetas y fotos por correo. Si una trucada sale mal, acábela con amabilidat y prebe otro día u a otra ora."
-  - q: "Como puedo ayudar a mai a fer una videotrucada si no sabe usar o teléfono?"
-    a: "Pida a un familiar, a una persona que la ayude en casa u a un trabajador de la residencia que empece la trucada y sostienga u apoye o aparato. Muitos centros ayudan a las familias con las videotrucadas, pregunte qué ofrecen. Una tableta en un soporte, con pantalla grande y con sonido prou alto pa oyir-lo, fa-lo más fácil pa toz."
-  - q: "Podemos chugar a un chuego chuntos por videotrucada?"
-    a: "Sí. La forma más fácil ye que una persona compartiga la pantalla en la aplicación de video mientres que a otra le diga qué imagen tocar. U la persona que sía allí puede abrir o mesmo chuego en una tableta y tocar-lo por ella mientres usted la acompaña charrando. Escoya chuegos sin cronómetro ni puntuación."
+  - q: "¿Qué puedo facer en una videotrucada con una persona con demencia?"
+    a: "Planifique una actividad simple: amostrar o chardín, a mascota o a cocina; mirar fotos viellas chuntos; leyer en voz alta un poema curto o una carta; cantar una cancion que li agrade; cocinar la mesma receta a la mesma hora; o chugar a un chuego de dibuixos suaves en una pantalla compartida. Las actividades dan un punto a la trucada pa que la persona no tenga que cargar con toda la conversación."
+  - q: "¿Cuánto ha de durar una videotrucada?"
+    a: "Por regla chenerala mas curta de lo que cree. Unos minutos calorosos pueden bastar, sobre todo si la persona se cansa rapido. Trucar regularment a la mesma hora del día puede importar mas que cuanto dure cada trucada."
+  - q: "¿Qué pasa si se confunden o se disgustan con as videotrucadas?"
+    a: "A algunas personas una cara en una pantalla les resulta confusa. Pruebe una trucada normal de telefono, un mensache de video grabau que o ayudant pueda poner en un momento tranquilo, o cartas y fotos por correu. Si una trucada sale mal, acabala con amabilidat y intenta-ho otro día o a otra hora."
+  - q: "¿Como puedo ayudar a mi mai a fer una videotrucada si no puede usar o telefono?"
+    a: "Pida a un familiar, un ayudant a domicilio o un miembro del personal de la residencia que inicie la trucada y sostenga o apoye o aparato. Muitos centros ayudan a las familias con las videotrucadas, asi que pregunte qué ofrecen. Una tableta en un soporte, con una pantalla grande y con sonido suficient pa oyir-la, fa mas facil a todos."
+  - q: "¿Podemos chugar a un chuego chuntos por videotrucada?"
+    a: "Si. La manera mas facil es que una persona comparta a pantalla en a aplicación de video mientres la otra li dice qué dibuixo ha de tocar. O tamién o ayudant en o sitio puede abrir o mesmo chuego en una tableta y tocar por la persona mientres vusté la guia por teléfono. Elixca chuegos sin temporizador ni puntuación."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -51,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Vivir lueñe de una persona con demencia puede fer sentir que no se puede fer res. As trucadas de teléfono y de video no substituyen un abrazo, pero pueden dar momentos de conexión de verdat si se preparan bien. La clau ye dexar de intentar tener una conversación normal de poner-se-al-día y planegar algo simple pa compartir. Esta pachina trata de actividatz que funcionan por video y teléfono, de cómo preparar la trucada y de qué puede fer la persona que sía allí pa ayudar.
+Estar lluen d'una persona con demencia puede fer sentir impotencia. As trucadas de telefono y as videotrucadas no substituyen un abrazo, pero pueden dar momentos reals de connexión cuan se preparan bien. A clau ye dixar de intentar una conversación normal de ponerse al día y planificar en cambio una cosa simple pa compartir. Esta pachina trata de actividatas que funcionan por video y telefono, de cómo preparar a trucada y de qué puede fer a persona en o sitio pa ayudar.
 
-## Por qué planegar una actividat pa una trucada?
+## ¿Por qué planificar una actividad pa una trucada?
 
-Una actividat da forma a la trucada. « Qué tal estás? Qué has feito hue? » demanda a la persona que recuerde y que cuente, cosa que puede ser difícil y estresant. « Mira, os tomates ya están maduros » no le demanda nada.
+Una actividad da forma a la trucada. "¿Qué tal estás? ¿Qué has fé hue?" pide a la persona que recuerde y que conte, cosa que puede ser difízil y estresant. "Mira, os tomates ya están madurs" no le pide nada.
 
-La Alzheimer's Association indica que las conversaciones en grupos grans por video pueden ser difíciles, y propone [añadir estructura a la trucada](https://www.alz.org/help-support/caregiving/holidays) con cosas como cantar canciones o compartir imáxenes.
+L'Alzheimer's Association indica que as conversacions con grans grupos por video pueden ser difízils, y suchiere [anyadir estructura a la trucada](https://www.alz.org/help-support/caregiving/holidays) con cosas como cantar cancions o compartir imachens.
 
-## Qué actividatz funcionan en una videotrucada?
+## ¿Qué actividatas funcionan en una videotrucada?
 
 ### Amostrar y contar
 
-Lleve o suyo mundo a ella. Pase la cámara despacio por o huerto, presente o can, amostre qué está cucinando, sostienga un dibuixo d'un neto u apunte o teléfono a la finestra pa que vea a nieu. Describa lo que ve con palabras simples y deixe pausas pa que reaccione. No fan falta preguntas.
+Porte o suyo mundo a la persona. Mueva a camara despacio por o chardín, presente a o can, amostre qué cuina, enseñe o dibuixo d'un nieto o apunte o telefono cara a la finestra pa veyer a nieu. Describa lo que veya con palabras simples y dixe pausas pa que reaccione. No hacen falta preguntas.
 
 ### Mirar fotos chuntos
 
-Sostienga una foto antiga delant de la cámara, u comparta la pantalla pa amostrar unas cuantas fotos grans una a una. Charre de lo que vea: « Mira o sombrero de o güelo. » Evite « Quí ye este? » u « Te'n recuerdas? » Si la persona nombra mal a alguien, siga-le la corriente. Vea a nuestra [guía de reminiscencia](/activities/reminiscence/) pa consellos sosegaus.
+Enseñe una foto vieja a la camara, o comparta a pantalla pa amostrar unas cuantas fotos grans una a una. Parle de lo que nota: "Mira o sombrero d'o yayo." Evite "¿Quí ye esta?" o "¿Te acuerdas?". Si la persona dice mal o nombre de alguien, sigua-li o chuego. Veya a nuestra [guía de reminiscencia](/activities/reminiscence/) pa ideas suaves.
 
 ### Leyer en voz alta
 
-Leya un poema curto, un salmo, un libro infantil favorito a un neto en a mesma trucada, una carta d'un familiar, u una pachina d'un libro que le agradaba. Leyer en voz alta le da a la persona algo tranquilo pa escuchar sin que tienga que responder.
+Leya un poema curto, un salmo, un libro d'a infancia que un nieto escuche en a mesma trucada, una carta d'un familiar o una pachina d'un libro que la persona estimaba. Leyer en voz alta le da a la persona quelcaus tranquilo pa escuitar sin necesidat de responder.
 
-### Cantar u escuchar musica chuntos
+### Cantar o escuitar musica chuntos
 
-Cante una canción que conoixca bien, u ponga una canción favorita en o suyo lado. Cantar acompanyau ye más fácil que charrar pa muitas personas. Vea a nuestra [guía de actividatz musicals](/activities/music/).
+Cante una cancion que la persona conoixca bien, o ponga un disco preferito en o suyo lado. Cantar chunto ye mas facil que fablar pa muitas personas. Veya a nuestra [guía de actividatas de musica](/activities/music/).
 
-### Cucinar u fer pastas a la mesma ora
+### Cocinar o fer pastas a la mesma hora
 
-La Alzheimer's Association propone planegar una videotrucada pa cucinar u fer pastas con una receta especial chuntos. Preparen la trucada en as dos cosinas. La persona que sía allí puede remenar u provar mientres usted sigue a receta antiga que tiene escrita.
+L'Alzheimer's Association suchiere planificar una videotrucada pa cocinar o fer pastas una receta especial chuntos. Preparen a trucada en as dos cocinas. A persona en o sitio puede remenar o probar mientres vusté sigue a receta vieja d'a persona.
 
-### Mirar algo chuntos
+### Mirar qué cosa chuntos
 
-La Asociación tamién propone mirar una película favorita a la mesma ora en casas diferents, charrando por teléfono u por video. Pa una persona con demencia, un clip curto, un episodio viello de la tele u un partiu de pelota puede funcionar mellor que una película completa.
+A Association tamién suchiere mirar una pelicula preferida a la mesma hora desde casas separatas mientres se fabla por telefono o video. Pa una persona con demencia, un clip curto, un capitulo viello de la tele o un partido pueden funcionar mejor que una pelicula completa.
 
-### Chugar a un chuego sosegau en una pantalla compartida
+### Chugar a un chuego suau en una pantalla compartida
 
-Muitas aplicacions de videotrucadas permiten compartir la pantalla. Abra o chuego y toque; la persona le diga u le amostre qué imagen escoller. U la persona que sía allí abre o mesmo chuego en una tableta y toca por ella mientres usted charra con ella.
+Muitas aplicacions de videotrucada permiten compartir a pantalla. Vusté abre o chuego y toca; la persona le dice o amuestra qué dibuixo ha d'escoyer. O o ayudant en o sitio abre o mesmo chuego en una tableta y toca por la persona mientres vusté charra con ella.
 
-Chuegos que funcionan bien d'esta forma:
+Chuegos que funcionan bien d'esta manera:
 
-- **[Acabar o refrán](/games/finish-the-saying/):** usted lee un refrán conoixcu, ella dice o final, y sigue un tema pa charrar.
-- **[Parellas de imáxenes](/games/picture-pairs/):** un chuego sosegau de parellas con imáxenes grans que pueden quedar visibles, sin cronómetro ni puntuación.
-- **[Tarjetas de conversación](/games/conversation-cards/):** una imagen y una pregunta abierta pa charrar chuntos.
-- **[Parellas de fotos](/games/photo-pairs/):** un chuego de parellas feito con fotos que usted escoge en o suyo aparato. As fotos se quedan en o suyo navegador, y la persona las ve por a pantalla compartida.
+- **[Acabar o refrán](/games/finish-the-saying/):** vusté lee o refrán conoixcido, la persona dice o final, y sigue una pregunta pa charrar.
+- **[Parellas de dibuixos](/games/picture-pairs/):** un chuego de parellar suau con dibuixos grans que pueden estar visibles, sin temporizador ni puntuación.
+- **[Cartas de conversación](/games/conversation-cards/):** un dibuixo y una pregunta abierta pa charrar chuntos.
+- **[Parellas de fotos](/games/photo-pairs/):** un chuego de parellar feito con fotos que vusté escoye en o suyo aparato. As fotos se quedan en o suyo navegador, y la persona las veye por a pantalla compartida.
 
 ### Mensaches grabaus
 
-Cuando as trucadas en directo son difíciles, grabe un video curto: un saludo, una canción, un paseo por o suyo corral. La persona que ayuda puede ponerlo en un momento tranquilo, las veces que la persona disfrute. La Alzheimer's Association menciona grabar y enviar momentos especials, como nenos abriendo regalos.
+Cuan as trucadas en directo son difízils, grabe un video curto: un saludo, una cancion, un paseo por o suyo corral. O ayudant puede poner-lo en un momento tranquilo, las veces que la persona disfrute. L'Alzheimer's Association menciona grabar y enviar momentos especials, como nenos abriendo regalos.
 
-## Y las trucadas de teléfono normales?
+## ¿Y as trucadas de telefono normals?
 
-As trucadas de teléfono tamién importan. Dementia Australia propone [trucar a la misma ora cada día](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) y no tener prisa, ya que las personas con demencia pueden tardar en meter-se en a conversación. Por teléfono:
+As trucadas de telefono siguen importando. Dementia Australia suchiere [trucar a la mesma hora cada día](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) y sin correr, ya que as personas con demencia pueden tardar en participar. Por telefono:
 
-- Diga o suyo nombre y la suya relación de seguida: « Hola, papá, soy Jenny, la tuya filla. »
-- Parle despacio, con frases curtas y una idea cada vez.
-- Dé noticias en vez de demandar-las: « Anoche fiz la receta de o caldo de a tuya mai. »
-- Leya un poema curto, u cante una estrofa d'una canción favorita.
-- Mantenga-la curta y acabe con una nota cálida.
+- Diga o suyo nombre y la suya relación de chicon: "Hola, papá, soy Jenny, a tuya filla."
+- Fable despacio, con frases curtas, una idea a la vez.
+- Dé noticias en cambio de pedir-las: "Anoche fiz a receta de o asado que me dices."
+- Leya un poema curto, o cante una estrofa d'una cancion preferida.
+- Faga-la curta y acabe con una nota calorosa.
 
-Dementia Australia tamién indica que las videotrucadas pueden ayudar cuando charrar se torna más difícil, ya que la persona puede veyer a cara. Si las trucadas de teléfono se fan confusas, prebe o video, u al revés.
+Dementia Australia tamién indica que as videotrucadas pueden ayudar cuan charrar se fa mas difízil, ya que la persona puede veyer a suya cara. Si as trucadas de telefono se fan confusas, prebe o video, o al revés.
 
-## Como preparo una videotrucada que funcione?
+## ¿Como preparo una videotrucada que funcione?
 
 **Antes de la trucada:**
 
-1. **Escoya una ora regular** en que la persona sol estar descansada, y mantenga-la. A rutina ayuda.
-2. **Coordine-se con la persona que sía allí.** Un mensache o día antes les ayuda a planegar.
-3. **Repase o aparato.** Una tableta en un soporte ye más fácil que un teléfono sostenido con a mano. Asegure-se de que ye cargada, que la pantalla ye clara y que o sonido ye prou alto. Active os subtítulos si la aplicación los ofrece y la persona lee bien.
-4. **Planegue una actividat** y tienga-lo todo preparau.
+1. **Escoya una hora regular** en a que la persona suele estar descansada, y mantenga-la. A rutina ayuda.
+2. **Coordine-se con o ayudant en o sitio.** Un mensache o día antes les ayuda a planificar.
+3. **Revise o aparato.** Una tableta en un soporte ye mas facil que un telefono sostenido en a mano. Asegure-se que tenga carga, que a pantalla sea clara y que o sonido sea prou fuerte. Active os subtitols si a aplicación los ofrece y la persona lee bien.
+4. **Planifique una actividad** y tienga-ho todo listo.
 
 **Durant la trucada:**
 
-- **Sienta-se cerca d'a cámara** con buena luz, de cara a una finestra y no con ella a la espalda.
-- **Preséntese** cada vez, con nombre y relación.
-- **Una voz a la vez.** La Alzheimer's Association indica que las voces que se pisan son difíciles pa las personas con demencia y pa las que tienen problemas d'oyeda. Si se suman varios familiars, turnen-se u mantengan-se en dos o tres personas.
-- **Faga una pregunta cada vez.** La Family Caregiver Alliance propone [preguntas simples con respuesta de sí o no](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), y amostrar opcions cuando sea posible.
-- **Deixe pausas largas.** Espere una respuesta. Está bien sucherir una palabra si la persona la busca.
-- **Use a cara y la voz.** Sonría, asienta con a cabeza y mantenga un tono cálido. A expresión muitas vegadas dice más que las palabras.
-- **No corrixca.** Si la persona diz algo que no ye cierto, deixe-lo estar.
+- **Siga cerca de la camara** con buena luz, mirando a una finestra y no con ella a la suya espalda.
+- **Presentese** cada vez, con nombre y relación.
+- **Una voz a la vez.** L'Alzheimer's Association indica que as voces cruzadas son difízils pa las personas con demencia y pa las personas con perdida d'audición. Si se suman muitos familiars, prenga turnos o limite-se a dos o tres personas.
+- **Faga una pregunta cada vez.** La Family Caregiver Alliance suchiere [preguntas simples con respuestas de si o no](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), y amostrar opcions cuan pueda.
+- **Dexe pausas largas.** Espere una respuesta. Está bien suchierir una palabra si la persona la busca.
+- **Use a suya cara y voz.** Sonría, asienta y mantenga un tono calido. A expresión sovén dice mas que as palabras.
+- **No corrixca.** Si la persona diz quelcosa que no ye zierta, dixe-lo estar.
 
 **Acabar la trucada:**
 
-- Acabe antes de que la persona se canse, idealment con un momento feliz.
-- Use a mesma despedida cada vez: « Te trucaré doman a la mediodía. Te quiero. »
+- Acabe antes de que la persona se canse, idealment en un buen momento.
+- Use o mesmo adiós cada vez: "Te llamo mañana a la hora de comer. Te quiero."
 - No la alargue.
 
-## Consellos pa la persona que ayuda allí
+## Consellos pa o ayudant en o sitio
 
-Si vusted ye a parella, la persona cuidadora, un hermano u un trabajador que ayuda con la trucada, vusted la fa posible.
+Si vusté ye a parella, o ayudant a domicilio, o hermano o un miembro del personal que ayuda con la trucada, vusté la fa posible.
 
 - **Prepare un puesto tranquilo.** Apague a tele y zarre a puerta.
-- **Empece la trucada vusted mesmo,** y luego dé a tableta en un soporte u sostienga-la a la altura d'os güellos.
-- **Sienta-se a su costau, no delant.** Su presencia da tranquilidat. Si fa falta, suxiera con suavidat: « Mira, ye Jenny. »
-- **Faga de mans.** Amuestre fotos, toque o chuego, gire la tableta pa mostrar la estancia.
-- **Vichile si está cansada u alterada,** y avise a la persona que trucó cuando sía hora d'acabar.
-- **Diga a la persona que trucó qué ha funcionau.** « Le gustó o can » ayuda a planegar a siguient trucada.
+- **Inicie la trucada vusté mismo,** y dispués dé a la persona una tableta en un soporte o sostengala a altura d'uellos.
+- **Siga a o costau de la persona, no delant.** A suya presencia da seguridat. Si fa falta, dé un empuixón suau: "Mira, es Jenny."
+- **Sea las mans.** Amuestre las fotos, toque o chuego, gire a tableta pa amostrar a habitación.
+- **Veya si hay cansancio o disgusto,** y avise a la persona que llama cuan sea hora de acabar.
+- **Diga a la persona que llama qué ha funcionau.** "A ella li encantó o can" ayuda a planificar a proxima trucada.
 
-El NIA propone que los familiars lueñes puedan ayudar a una persona mayor a [aprender as funcions de o suyo teléfono](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), como las videotrucadas. En las fases más avanzadas, la persona que ayuda normalmente tendrá que encargar-se de o aparato del todo. Está bien.
+A NIA suchiere que los familiars lluens pueden ayudar a una persona mayor a [aprender as funciones de o suyo telefono](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), como as videotrucadas. En as etapas mas avanzadas, o ayudant normalment tendrá que manexar o aparato enteramente. Esto está bien.
 
-Si la persona vive en una residencia, la Alzheimer's Foundation of America propone preguntar si o centro ayuda a las familias con las videotrucadas. La AFA menciona tamién que las familias envíen fotos de una parte a otra con o personal de o centro, y que manden golosinas favoritas u pequeñas comodidaz, tras comprobar qué permite o centro.
+Si la persona vive en una residencia, a Alzheimer's Foundation of America suchiere preguntar si o centro ayuda a las familias con as videocharradas. A AFA tamién menciona que las familias pueden enviar fotos de ida y vuelta con o personal de cuidado, y enviar bocadillos o pequeños detalles que le agraden, después de comprobar qué permite o centro.
 
-## Qué fer si la trucada no sale bien?
+## ¿Qué pasa si la trucada no sale bien?
 
-Algunas trucadas seran confusas, planas u alterantes. No ye culpa suya, y no quiere dicir que no valga la pena.
+Algunas trucadas seran confusas, planas o disgustosas. Esto no ye culpa suya, y no quiere dicir que las trucadas no valgan la pena.
 
-- Si la persona parece perdida con a pantalla, cambie a una trucada de teléfono u a un mensache grabau.
-- Si se altera, recoñoza o sentimiento, diga algo tranquilizador y acabe con suavidat.
-- Si las trucadas salen mal a menudo a una ora del día, prebe otra ora.
-- Si cree que vusted ye otra persona, siga-le la corriente con amabilidat.
+- Si la persona parece desconcertada por a pantalla, cambie a una trucada de telefono o a un mensache grabau.
+- Si se disgusta, recoñoza o sentimiento, diga algo tranquilizador y acabe con calma.
+- Si las trucadas salen mal a menudo a una hora del día, prebe otra hora.
+- Si cree que vusté ye otra persona, sigua-li o chuego con amabilidat.
 
-Está bien acabar pronto. Una trucada curta y cálida ye un buen resultau.
+Está bien acabar antes. Una trucada curta y calida ye un buen resultau.
 
 ## Entre trucadas
 
-Siga presente d'otras maneras. Dementia Australia propone enviar postals, correos, fotos u pequeños regalos. Una postal semanal con una foto grande y una nota curta puede leyer-se una y otra vez. Las [tarjetas de conversación](/games/conversation-cards/) imprimidas y enviadas por correo a la persona que ayuda pueden dar a siguient trucada un tema listo.
+Siga presente de otras maneras. Dementia Australia suchiere enviar cartas, correos, fotos o pequeños regalos. Una postal semanal con una foto grande y una nota curta puede leyer-se una y otra vez. As [cartas de conversación](/games/conversation-cards/) imprimidas y enviadas por correu a o ayudant pueden dar a la proxima trucada un tema ya preparau.
 
-Pa consellos sobre cómo escoyer y preparar una tableta, vea [tabletas y pantallas](/caregiving/tablets-and-screens/). Pa tiempo en persona, vea a nuestra guía de [visitar](/activities/visiting/).
+Pa consellos sobre cómo escoyer y preparar una tableta, veya [tabletas y pantallas](/caregiving/tablets-and-screens/). Pa tiempo en persona, veya nuestra guía sobre [visitar](/activities/visiting/).

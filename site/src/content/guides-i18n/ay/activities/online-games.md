@@ -1,33 +1,34 @@
 ---
-title: "Internet yänkañanaka demencia uñjata jaqinakatak"
-seoTitle: "Demencia yänkañanaka Internet ukan, sin mayjt'añ"
-description: "Demencia uñjata jaqinakatak Internet yänkañanaka, navegador ukan: app janiwa, cuenta janiwa. Uñtañanaka, uñt'añ, jaytaña, rompecabezas ukat sapa sañ jaytaña."
+title: "Demencia jaqinakatak juegos internet ukan, jan sarañ"
+seoTitle: "Demenciatak juegos internet ukan, jan sarañ"
+description: "Demencia uñt'ata jaqinakatak juegos internet ukan, jan app jan cuenta mayiñani: uñt'ayaña, ch'uqinaka, aptaña ukat sayt'ayaña, ukhamarak sañ sañ sarañ."
 section: activities
 order: 22
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Sum Internet yänkañanaka demencia uñjata jaqinakatak, navegador ukan
-  sarañataki, janiw app ni cuenta mayjt'añkiti. Golden Moments ukan wali sum
-  uñjañ yänkañanaka utjapxi tablet jan ukax computadora ukan: uñtañ, mayni
-  uñjañ, qullqi jaytaña, rompecabezas ukat sapa sañ jaytaña. Jaqi ukan
-  jakasiñ sarañ ukat kunapachatixa munki ukhaxa sayt'ayañ. Janiw ninakis
-  demencia jaytkaspati jan ukax jarkaspati; amuyt'añ wali yänkañaw utjaraki.
+  Demencia uñt'ata jaqinakatak sumpi juegos internet ukan utjaraki, janiw app
+  jan cuenta munaskiti. Golden Moments ukanx tablet jan computadora ukan
+  uñacht'äwi juegos utjaraki: uñt'ayaña, jukʼa uñt'äwi, ch'uqinakar
+  sayt'ayaña, uñt'ayata rompecabezas ukat jach'a ch'usa sarañ. Jaqi sayt'asiñ
+  ukar sarañ, ukat kunapachatixa munaspa ukhaxa sayt'ayañ. Janiw juego
+  ukax demencia qhanañ jan ukax jark'añ atipkiti; amuyt'añax sumpi
+  chuymanakan tukuyañawa.
 keyPoints:
-  - "Yänkañanak ajllim, jupanakax uñjatap uñt'añ, janiw yatiñ, janiw aru jan ukax puntaj amtañ."
-  - "Yänkañ tablet jan ukax computadora ukan qhanantaña, jaqi ukan sarañ ukat jupax imaña jan ukax uñjañ."
-  - "Qhana pantalla jan ukax soporte ukan ocupañ, sapa notificación ukat maysa pestaña jaytaña."
-  - "Uñjata fotonak navegador ukan imantapxi; family fotonak churañ uñjañ sinti sarañ ukhaxa, privacidad amuyunak uñjañ."
-  - "Sayt'ayañax wali sum; janiw kunas yänkañanakax jaqi uñjañ jan ukax puntaj amtañ."
+  - "Uñt'ayaña ukan lurañ juegos sarañ, janiw yatiyaña, arun jan ukax puntaje amuyañ muspa."
+  - "Juego ukar internet ukan tablet jan computadora ukan uñjasa, jaqi ukar sayt'asa, ukat jupax thuqañ jan ukax uñjañ atipt'asa."
+  - "Jach'a pantalla jan soporte ukan ocupa, ukat qalltañ sinti notificaciones ukat yaqha pestañanak apaqaña."
+  - "Uñt'ayata juegos ukanx uñt'awinakax nayrapacha ukan qhipt'anipxi; family uñt'awinak jaqichañ sinti, privacidad yatiñanak uñakipañ."
+  - "Sarañ jayp'usa ukax walikiwa. Juegos ukanx janiw jaqi uñjkiti jan ukax puntajar jaqichkiti."
 faq:
-  - q: "Kuna Internet yänkañanaka demencia uñjata jaqinakax jan kargañ sarañ ukhaxa?"
-    a: "Sum yänkañanakax uñjata uñtañanaka: jukhamp uñtañ, mayni uñjañ pinturanakaw, qullqi jaytaña ukat rompecabezas. Golden Moments ukan navegador ukan utjapxi, janiw kargañ, janiw cuenta. Qalltañ sapa uñjaña dibujo jachaki ajlliñ."
-  - q: "¿Yanapaspati juegos mentales demenciatak?"
-    a: "Janiw kunas yänkañas demencia jaytkaspati, jan ukax jarkaspati uñt'atäkiti. Estados Unidos ukan Federal Trade Commission (FTC) jan chiqa arsutanakat empresas jiwasa amtañanak mayjt'äna. Ukhamasti yänkañanaka sarañataki, janiw terapia ukhamaw."
-  - q: "¿Internet yänkañanakax jaqinakatak lurañ sumaspati demencia uñjata jaqitak?"
-    a: "Ukax sum utjaspawa, jupanakax uñjañ ukhamaw. Aparatu jaqi jan sarañapataki qhipharaqañ, jan ukax anunci ukat jaqinak jiwasa jan uñjañapataki. Jaqi qullqi jan ukax cuenta pantalla ukan janiw sapa kunasa. Fotonak ocupañ ukhaxa privacidad amuyunak uñjañ."
-  - q: "Kunatix jaqi yänkañ ukan jaytaña jan ukax jukhurañ?"
-    a: "Sumaraki yänkañ ukax sarañ jan ukax juk'a fotonak ocupañ. Jupax jukhurañ ukhaxa, aparatu uñjañ, jan ukax uywa, sarañ jan ukax taqi uñjañ. Jaytañ yänkañax janiw wali jakañ ukhamaw."
+  - q: "¿Kuna juegos internet ukan jan sarañ demencia jaqinakax sarapxaspa?"
+    a: "Sumpi uñt'ayata juegos walikiwa: ch'uqinakar uñt'ayaña, mayni uñt'awinak sayt'aña, ch'uqinakar sayt'ayaña, ukat uñt'awi ch'iqtañ ukar yaqha ch'iqinakar mayjt'ayaña. Golden Moments ukanx ukanakax browser ukan utjaraki, janiw sarañ jan cuenta munaskiti. Jach'a uñt'awi ukat qalltañ."
+  - q: "¿Yatiñ juegos demenciatak yanapaspati?"
+    a: "Janiw juego ukax demencia qhanañ, jark'añ jan ukax sarañ atipkiti. Estados Unidos markana Federal Trade Commission (FTC) ukax yatiyaña tuqiw ukhamanakar sarañ, jan chiqa uñacht'asiñanakat. Ukat juegonak sarañ kusisiñatakiw, janiw terapia ukhamaraki."
+  - q: "¿Internet juegos jaqi demencia uñt'ata ukatak seguro?"
+    a: "Walikiwa, ukampis uñjañawa. Aparato ukax jaqi ukar saraña munaski ukat apaqaña utjaspa uñt'añ. Pop-up anuncionak jan ukax external links ukat jaqi uñt'añ yatiñanakat jaytaña. Pago jan ukax cuenta pantallar jaqi jaytañ sinti."
+  - q: "Ukax jaqi khiti juegot ch'amañchi?"
+    a: "Sumpi juego ukat thakhi sarañ, uñt'awinak juk'ampi ukat yaqha juego sarañ. Jupax llakisiñ uñjasa, aparato ukar jaytaña ukat jan ukax mayni manq'a, sarañ jan ukax taqi ch'uqinak sañ. Llakisiña juego ukax janiw sarañ wali."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -49,55 +50,54 @@ related: [activities/memory-games, activities/puzzles, activities/ideas, caregiv
 health: false
 ---
 
-Walja familianakax demencia uñjata jaqinakatak Internet yänkañanakat yatiñapataki, jupanakax janiw tienda, janiw cuenta, janiw tarjeta qullqi munañapataki. Sum yänkañanakax uñjata, uñtañ ukat sayt'ayañ sum. Jupanakax jakasiñ sapa uñjañ, janiw yatiyaña. Kunsa uñjañ, kunsa yänkañ qalltañ ukat kunsa sarañ ukanakax kunatsa, amuyt'añ.
+Walja jaqinaka demencia uñt'ata khitinakasa internet juegos thaqhapxi, janiw tienda, cuenta jan tarjeta munañ sinti. Sumpi juegonakax uñt'ayañ utjaraki, ch'uqinakar, ukat sarañ atipkaspa. Ukanakax chiqpachaw sañ sarañ, janiw prueba ukhamakiti. Akan qillqatax yatiyañ uñt'ayaraki kunsa uñjañapa, kunsa juego jaqichaña ukat kunsa juegonakax lurañapa janiw.
 
-## ¿Kunsa Internet yänkañax demencia uñjata jaqinakatak sum?
+## ¿Kunas juego internet ukan demencia jaqinakatak wali askiri?
 
-Yänkañax sum utjaspa, uñjañ ukat uñt'añ ukhaxa. Mayni uñjañ pinturanakaw, uñt'añ ukat jaytaña ukanakax uñjañ ukar ukhamarak. Yänkañanakax arsuña, yatiña, amuyt'añ jan ukax puntaj amtañ ukax jaqi jan wali amuyasiñ ukhamaw.
+Juego ukax jaqinakatak walikiwa, uñt'ayañ munañ sinti janiw amtañ munañ sinti. Ch'uqinakar uñt'ayaña, ch'iqapa ukar uñt'añ jan ukax ch'uqi ukar sayt'ayaña, ukanakax ñawinakax akana uñjatapat sarapxi. Arun, yatiña, jan ukax mayjt'äwi amtañ munañ juegonakax jaqinakar llakisiyapxi.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ukax yänkañanak yatiyi, jupanakax jaqi kunas munasi ukat lurañ ukanakat sarnaqañataki. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ukax yatiyi, jaqi kunatix lurañ jan ukax amuyt'añ jaytañapataki.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ukax jaqi kusisiñ munañ ukat sarañ atipki lurañanakar yanapt'añ yatiyi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ukax lurañ ukan sayt'ayañ ukar jan jaytañ yatiyi.
 
-## Golden Moments yänkañanaka navegador ukan
+## Golden Moments juegonak browser ukan uñjañataki
 
-Ukanakax taqpach website ukat navegador ukan qalltañapataki, janiw kargañ. Walja tablet jan ukax computadora ukan sarapxi; mayninakax imañapataki ukhamarak.
+Jakhunakax sitio ukat jan download ukan qalltapxi. Walja tablet jan computadora ukan sarapxi; yaqhanakax imprimir sañ utjaraki.
 
-- **[Picture pairs](/games/picture-pairs/).** Uñjata mayni uñtañanakax, janiw reloj jan ukax puntaj. Qalltañ sum.
-- **[Find the same](/games/find-the-same/).** Alax jach'a uñjata, manqha ukax iwxa jani mayni.
-- **[Shadow match](/games/shadow-match/).** Alaxan jupamp ch'iqi uñjasiñ; ukar uñt'ata uñjata uñtañ.
-- **[Sort together](/games/sort-together/).** Uñjata uñt'am, ukat ukan uñjata: uta jan ukax yapu.
-- **[Picture puzzle](/games/picture-puzzle/).** Uñjata phaxsanakar phaxsatäta, taqi uñjata uñjasiñ.
-- **[Finish the saying](/games/finish-the-saying/).** Yatiñ arsutanaka jan tukuña; ukar ajlli jan ukax tukuyaña.
-- **[Conversation cards](/games/conversation-cards/).** Uñjata cartanakax parlañataki, janiw pruebañataki. Imañapataki ukhamarak.
-- **[Photo pairs](/games/photo-pairs/).** Fotonak ajlliñ uñtañanaka. Fotonak navegador ukan jupa computadora ukan imantapxi.
-- **[Calm breathing](/games/calm-breathing/).** Sapa sañ jaytaña, sum sarnaqañ. Qalltañ ukat sayt'ayañ jumaw.
+- **[Picture pairs](/games/picture-pairs/).** Jach'a uñt'ayañ ch'uqinaka uñt'awinakampi, janiw reloj jan puntaje. Qalltañatakiw walikiwa.
+- **[Find the same](/games/find-the-same/).** Alaxpacha uñt'awi, manqhankiri kimsa jan pusi ch'uqi uñt'awinak.
+- **[Shadow match](/games/shadow-match/).** Alaxpacha sumpi sombra uñstañi; uñt'awi ukar thuqañ.
+- **[Sort together](/games/sort-together/).** Uñt'awi thuqañ, ukatsti jupa pertenecki canasta ukar, kuna sañ cocina jan jardín.
+- **[Picture puzzle](/games/picture-puzzle/).** Uñt'awi ch'iqinakar mayjt'ata, taqi uñt'awi guía sañ uñjasa.
+- **[Finish the saying](/games/finish-the-saying/).** Yatiñ arunaka tukuyañ jan uñjasa; ch'iqa thuqañ jan tukuña uñacht'añ.
+- **[Conversation cards](/games/conversation-cards/).** Uñt'awi cartas arunaka parlañataki, janiw pruebañataki. Imprimir sañ utjaraki.
+- **[Photo pairs](/games/photo-pairs/).** Aparato ukan ajllita uñt'awinakampi ch'uqinaka. Uñt'awinakax browser ukan aparato ukan qhipt'anipxi.
+- **[Calm breathing](/games/calm-breathing/).** Sayt'ayañ thaqhaña, suma ch'usa sarañ. Qalltañ jan tukuñ munañax juma.
 
-Palabra sopa, pinturanakaw ukat bingo ukhamaw imañapataki utjapxi. Jukhur [demencia uñjata imañapataki yänkañanaka](/activities/printable/) uñjañ.
+Palabra sarañ, pintar ukat uñt'awi bingo ukanakax imprimir sañ lurañanakaw utjaraki. Walja yatiyañatakix [free printable dementia activities](/activities/printable/) uñakipañ.
 
-## Kunsa yänkañ sarañ qalltañ
+## Juego sarañ tuqi lurañanaka
 
-1. **Jaqi sum samarata ukhaxa chik ajlliñ.** Tardi ukhax walja jaqinakatak juk'ampi.
-2. **Qhana pantalla ocupañ.** Tablet soporte ukan jan ukax navegador ukan sipan chika qhanantaña.
-3. **Maysa pestaña jaytaña, notificación apaqañ.** Anunci jan ukax ch'iqi ukanakax jaqi jukhurañ.
-4. **Jaqi chiqan qhiparu, janiw uñtasa.** Jakasiñ ukat parlañ sum.
-5. **Mayni yänkañ 5 jan ukax 10 minuto.** Jaqi pantalla uñjañ jan ukax ukan uñjañ, mayni tuqi.
-6. **Sum tukuyaña.** Ukat jupanakax uñjata yatiñ, jan ukax tea ukar parlañ.
+1. **Suma pacha ajllaña** jaqi samarasiñ sinti. Tardecer ukax walja jaqinakatakix jan walikiwa, ukhamasti nayra pachaman uñakipaña.
+2. **Jach'a pantalla ocupaña.** Soporte ukan tablet jan zoom ukan computadora ukax uñjañataki ukat thuqañataki sumawa.
+3. **Yaqha pestañanak apaqaña, notificaciones jaytaña.** Sapa pop-up ukax llakisiyi, ukat wali sarañ tukuyi.
+4. **Jaqi ch'iqaru janiw mayjt'asa, ch'iqapa sayt'aña.** Sayt'ayañax jaqimpi sarañ amuyt'ayi, janiw prueba.
+5. **Maya juego pachpa phisqa jan lunt'ata minutos.** Jaqi uñt'ayañ jan uñt'ayañ ukat turnonak sarañ.
+6. **Suma chuymampi tukuña.** Maya ronda tukuña, ukat maya uñt'awi parlañ jan ukax té umañ arsuña.
 
-## Privacidad ukat seguridad
+## Aparato ukan privacidad ukat seguridad
 
-- **Fotonak computadora ukan utjapxi.** Fotonak ajlliñ ukat navegador ukan imantapxi. Ukar amuyt'añ kunsa jupa uñjañ sapa.
-- **Jan link jan anunci.** Yänkañanak website ukat qalltañ, jan ukax banner ukanakar jan uñjañ.
-- **Qullqi ukat cuenta jaytaña.** Jaqi jan jupa sapa uñjañ, jan ukax contraseña jan ukax tarjeta mayjt'añ pantalla.
-- **Jaqi sarañ uñjañ.** Jaqi jan sarañapataki aparatu jan alcanzañ.
+- **Uñt'awinakax aparato ukan qhipt'anipxi.** Photo pairs ukax ajllita uñt'awinak ocupi, ukat browser ukan aparato ukan qhipt'anipxi. Computadora jan tablet ukar khitinakas mantañ uñakipañ.
+- **External links ukat anuncionak jaytaña.** Juegonak sitio ukat sarañ, banner jan jaqi yatiyaña mayt'ir prompt ukanak jan ch'iqtañ.
+- **Pagonak ukat cuentanak jaytaña.** Jaqi contraseña jan tarjeta mayt'iri pantalla ukan jan jaytañ.
+- **Sarañ jaytaña.** Jaqi utat sarañ munaspa tablet jan apaqaña, ukhamarak aparato ukax jaqi sayt'ayañ uñjañataki.
 
-Jukhur amuyt'añ [demencia yänkañanaka ajlliñ](/caregiving/choosing-apps-and-games/) ukat [tablet jan ukax teléfono apaqañ](/caregiving/tablets-and-screens/).
+Yatiyañ juk'ampi, uñjañ [how to choose dementia apps and games](/caregiving/choosing-apps-and-games/) ukat [setting up a tablet or phone](/caregiving/tablets-and-screens/).
 
-## Kunsa yänkañanaka ukan lurañ ukat janiw lurañ
+## Kunas juegonak lurañ jan lurañ
 
-Internet yänkañanakax demencia uñjata jaqinakatak sum utjaspa, uñjañ, fotonak uñjañ, jakasiñ jan ukax puntaj amtañ. Jupanakax demencia jaytkaspati, jan ukax jarkaspati janiw. Ukax [Federal Trade Commission 2016 Lumosity ukat](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) sarnaqañ, jan chiqa yatiñ arsutanakat. Jan chiqa ukanak arsuñ yänkañ, app jan ukax website ukat jan confiyañ.
+Internet juegonakax demencia jaqinakar kusisiñ, uñt'awinak chiqpachaw uñjañ ukat sarañ jan ch'amañchañ. Janiw demencia qhanañ, jark'añ jan jark'añ atipkiti. Yatiñ juego ukax [Federal Trade Commission's 2016 action against Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ukar jach'a yatiyaña. Yaqha juego, app jan website jan amuyt'añ jan jark'añ sinti, jaytañ.
 
-Ukanakax mayni lurañanakampi sarañataki: taqi, sarnaqaña, parlañ ukat samarañ. Jukhur amuyt'añ [demencia uñjata jaqinakamp yänkañ](/caregiving/how-to-play-together/) ukat [memory games](/activities/memory-games/).
+Juegonak yaqha lurañanakampi sarañ: ch'iqapa, sarañ, parlañ, samarasiña. Yatiñ juegos ukat sarañ relajado [how to play games with someone who has dementia](/caregiving/how-to-play-together/) ukat [memory games that do not test](/activities/memory-games/) uñakipañ.
 
-## Kunapachatix sayt'ayañ
+## Kunapachas tukuña
 
-Jaqi sayt'ayañ ukhaxa, jupax jan wali, jukhurañ, jan amuyt'añ jan ukax jan sum munasi ukhaxa. Jaqi jan munaspa ukhaxa sayt'ayañ. Sayt'ayañax sum; mayt'añ jichhürux jan ukax mayni uru sarañ. Jan ukax parlañ jan ukax sarnaqañ uñjañ.
----
+Jaqi ch'iqapa, llakisiña, jan samarasiña uñjasa tukuña. Interés jaytasa tukuña. Jaqi sarañ munañ jan ukax wali. Ukatsti kunapachatixa mayt'añ sarañ utjaraki, jan ukax parlañ jan sarañ.

@@ -1,33 +1,33 @@
 ---
-title: "MIND ni Mediterane dumuni ka dimansi la: sɛgɛsɛgɛli"
-seoTitle: "MIND dumuni ni dimansi: sɛgɛsɛgɛli ka fɛɛrɛ"
-description: "Sɛgɛsɛgɛli bɛ fɔ MIND ni Mediterane dumuni ka dimansi la, ani cogo min na i bɛ dimansi mɔgɔ dɛmɛ ka dumuni dun ka ɲi."
+title: "MIND ani Mediterane dɛgɛ, ani dementia: Ɲɛfɔ minnu b'a fɔ"
+seoTitle: "MIND dɛgɛ ani dementia: Ɲɛfɔ minnu b'a fɔ"
+description: "Ɲɛfɔ minnu b'a fɔ MIND ani Mediterane dɛgɛw ani dementia ko, sariya ka se min na sɛbɛnnen kɛlɛ kɛra, ani i bɛ se ka dementia la mɔgɔ dɛgɛ cogo di."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sɛgɛsɛgɛli dɔw bɛ fɔ ko Mediterane ni MIND dumuni bɛ ɲɛ ni dimansi siran
-  dɔgɔya ye, nka o tɛ kɔnɔ bɛɛ. Sɛgɛsɛgɛli min kɛra saa 3 kɔnɔ, min bɛnnen
-  2023 la, ko MIND dumuni ma kɛ sɛbɛn ye dɔ ye hakili ni ko ka scan la, o ma
-  kɛ ko kɔnɔ kɛra ni dumuni ɲɔgɔn ye min tɛ MIND ye. Dumuni wala dawa si tɛ
-  dimansi ka sɛnɛ ka dɔgɔya min ka jaabi kɛ tuma bɛɛ la. Dimansi bɛ mɔgɔ la,
-  o tuma la dumuni ni ji dun ka ɲi ka tɛmɛ ɲɛ kɔfɛ.
+  Kalan ɲɛfɔlaw bɛ a jira ko Mediterane ni MIND dɛgɛ cogo bɛ ɲɛ ka sɔrɔ
+  dementia kɔrɔ ka ɲɛ, nka o tɛ ɲɛfɔ fɛ yɔrɔ bɛɛ. MIND dɛgɛ sabatilen
+  kɛlɛ min ye sanga 2023 la, o ma ɲɛfɔ ka ɲɛ hakili kɔrɔ wala brain scan kɔrɔ
+  ni dɛgɛ wɛrɛ ye. Dɛgɛ wala dɔgɔnɔ ma ɲɛfɔ ka dementia ma se ka kɛ ko ye
+  ka ɲɛ tɛ. Dementia bɛ mɔgɔ minnu na, o bɛ ka nɔgɔn ka se ka dɛgɛ ni ka ji
+  ka ca, o ye ɲɛ kosɛbɛ.
 keyPoints:
-  - "Sɛgɛsɛgɛli dɔw, nka tɔ bɛɛ tɛ, o bɛ fɔ ko Mediterane ni MIND dumuni bɛ ɲɛ ni dimansi siran dɔgɔya ye, o bɛ kɛ tuma min na mɔgɔw bɛ sɛgɛsɛgɛli kɔnɔ tuma caman na."
-  - "2023 sɛgɛsɛgɛli kɔnɔ, mɔgɔ 604 ye, MIND dumuni minɛbɔlen ye mɔgɔw ka hakili fɛɛrɛ ni scan la, o ma ɲɛ kɔfɛ ni mɔgɔw ye min tɛ MIND dumuni dun, saa 3 kɔfɛ."
-  - "Mɔgɔ min bɛ National Institute on Aging ka sɛbɛn kɔnɔ, o b'a fɔ ko dumuni dun wala ka dumuni dɔ domɛ tɛ Alzheimer dimansi ka kɛɲɛ sɔrɔ, ani vitamin wala nɛnɛma dɔ tɛ dimansi ka dɔgɔya min ka sɛgɛsɛgɛli ye."
-  - "Lɛgimɛ, fwiti, nɛ, sɛbɛ ni jɛ ye dumuni ye min bɛ dusukun ka ɲɛmɔgɔya dɛmɛ, a bɛ se ka dɛmɛ ka tansiyɔn ni sukaro ka siran ɲɛ."
-  - "Dimansi bɛ mɔgɔ la, o bɛ kɛ ko dumuni fɛɛrɛ ka ɲi: fɛn min bɛ se ka dun ni maw ye, ɲɛfɛ fɛn ni ɲuman, sigi ni kɔ ɲuman ni ji min bɛ min tuma caman, o bɛ ka ɲi ka tɛmɛ dumuni dɔ kan."
+  - "Kalan minnu bɛ mɔgɔ tɔw tulo kɔnɔ, nka tɔw tɛ, o bɛ jira ko Mediterane ni MIND dɛgɛ cogo bɛ ɲɛ ka dementia sɔrɔ kɔrɔ ka ɲɛ."
+  - "Sabatilen kɛlɛ dɔ min ye sanga 2023 la, mɔgɔ 604 bɛ se ka kɛ kɔfɛ; MIND dɛgɛ kɔnɔ mɔgɔw ma ɲɛ kosɛbɛ hakili kɔrɔ wala brain scan kɔrɔ ni sanga saba kɔfɛ ka tɛmɛ kɔnɔ dɛgɛ wɛrɛ kɔnɔ mɔgɔw kan."
+  - "National Institute on Aging ko, ɲɛfɔ tɛ ko ni nɔ dɔ ka dɛgɛ wala dɔgɔnɔ bɛ se ka Alzheimer ma; vitamin wala complément tɛ jirali ko o bɛ se ka o ma."
+  - "Dɛgɛ min ka caya fɛ ni fɛn-tɔ ye, ni nɔgɔ, ni fɛn-tɔ dɔ, ni fanga ye ko, o bɛ dusu ka se ni dusu ka ɲɛnamaya ye; o bɛ se ka ɲɛ tɔgɔ fɛ ni i ka tansan ni sukari ni tansan ni dusu ka tansan ye."
+  - "Dementia bɛ mɔgɔ minnu na, fɛn min bɛ kɛ kosɛbɛ, o ye ɲɛnamaya ye: ɲɛnafɛn minnu bɛ se ka sen ni bolo ye, ɲɛ jɔnjɔn minnu bɛ se ka ɲɛ, kuntilenw ni ji ka ca."
 faq:
-  - q: "MIND dumuni bɛ dimansi ɲɛ wa?"
-    a: "A tɛ jaabi ɲuman sɔrɔ ko a bɛ. Sɛgɛsɛgɛli min tɛ mɔgɔw kɛ, o fɔra ko MIND dumuni bɛ ɲɛ ni siran dɔgɔya ye, nka saa 3 sɛgɛsɛgɛli min bɛnnen 2023 la, o ma sɔrɔ ko hakili fɛɛrɛ ni scan la ko MIND dumuni dunnen mɔgɔw ni dumuni wɛrɛ dunnen mɔgɔw cɛma ka ɲi. Mɔgɔ bɛɛ fila ye fitinin ɲɛ dɔgɔ, ani kilo dɔgɔ bɛɛ ye ka ɲɛ."
-  - q: "MIND dumuni ni Mediterane dumuni cɛma ka ɲi mun ye?"
-    a: "Mediterane dumuni bɛ lɛgimɛ, fwiti, sɛbɛ ni nɛ, jɛ, ani sɛnɛ min bɛ kɛ olive la, nka ɲɛ tɔ ni kɔ tɔ bɛ a la. MIND dumuni bɛ o ɲɔgɔn ɲɛ DASH dumuni ye tansiyɔn kɔ, ani a bɛ lɛgimɛ bɔɲɛn ni fɛn nɛnɛma bɛ kɛ ko ɲɛ wɔrɔ, nka a bɛ kɔ tɔ ni kɔ, sukaro, cɛnɛ, tɔ ni ɲɛfɛ ni dumuni min bɛ kɛ sɛnɛ la."
-  - q: "Dumuni wala nɛnɛma min bɛ se ka Alzheimer dimansi ka dɔgɔya?"
-    a: "Ayi. Mɔgɔ min bɛ National Institute on Aging ka sɛbɛn kɔnɔ, o b'a fɔ ko dumuni dun wala ka dumuni dɔ domɛ tɛ Alzheimer wala dimansi min ka bɔ ɲɛnamaya la ka kɛ tɔɔrɔ ye, ani vitamin wala nɛnɛma dɔ tɛ Alzheimer ka dɔgɔya min ka sɛgɛsɛgɛli ye. Dokotoro kan i ka se ka nɛnɛma min ta, i ka jaabi kɛ jɔnjɔn."
-  - q: "Dimansi bɛ mɔgɔ la, o bɛ se ka dumuni dun cogo di?"
-    a: "Dumuni min bɛ se ka dun ni maw ye, i ko sandwich dɛgɛ, misi dɛgɛ, orange tanga, wala lɛgimɛ dɛgɛ min bɛ kɛ ni ji ye, o bɛ ka ɲi ka tɛmɛ kɛlɛ ni dɛgɛ ye. Ni kɛnɛ wala dumuni min bɛ bɔ, o ka ɲi ka kɛ dumuni nɛnɛ ye i ko nɛ min bɛ kɛ ni wuluwulu ye, pomme sauce wala lɛti. Ni mɔgɔ bɛ kɔsɔ wala a bɛ kɛlɛ dumuni dun ma, i ka kan ka dokotoro kan a ka dumuni dun ka ɲi."
+  - q: "MIND dɛgɛ bɛ dementia ma wa?"
+    a: "A tɛ jira ko o bɛ se ka o ma. Kalan ɲɛfɔlaw ye MIND dɛgɛ ni dementia dɔgɔnɔ ka ɲɛ, nka sabatilen kɛlɛ dɔ min ye sanga 2023 la, o ma hakili kɔrɔ wala brain scan kɔrɔ ni dɛgɛ wɛrɛ ye. Mɔgɔw bɛɛ ye ɲɛ dɔgɔ kɛ, ani sumaya dɔgɔ ka ɲɛ kɔfɛ."
+  - q: "MIND dɛgɛ ni Mediterane dɛgɛ ka tɔɔrɔ ye mun ye?"
+    a: "Mediterane dɛgɛ bɛ ɲɛnafɛn, ɲɛ jɔnjɔn, ɲɛ nɔgɔ, nɛnɛ, fɛn-tɔ ni olive jiri ta kosɛbɛ, ka wuli ka ɲɛfɛn nɔgɔnnin ni sukaro fɛ. MIND dɛgɛ bɛ Mediterane dɛgɛ ni DASH dɛgɛ ta ɲɛ, ka ɲɛ nɔgɔnnin ni baga kɔnɔ fɛn-tɔ kosɛbɛ ta, nka a bɛ sɔ, sɛnɛ bɛ kɔnɔ, sukaro, tiɲɛ, butɛri ani kɔrɔ ta dɔgɔ."
+  - q: "Fɛn wala complément dɔ bɛ se ka Alzheimer ma?"
+    a: "Ayi. National Institute on Aging ko, ɲɛfɔ tɛ ko ni nɔ dɔ ka dɛgɛ wala dɔgɔnɔ bɛ se ka Alzheimer wala hakili dɔgɔya ma sani mɔgɔ ka se; vitamin wala complément dɔ tɛ jirali ko o bɛ se ka Alzheimer ma. I ka dɔkitɔrɔ ni ɲɛ ka kuma, a ma complément ta."
+  - q: "Mun ye ɲɛnafɛn minnu ka ɲɛ kosɛbɛ dementia mɔgɔ ka se ka dɛ?"
+    a: "Ɲɛnafɛn minnu bɛ se ka sen ni bolo ye, i ko sanbolo jɛnsɔn, sɛnɛ tɔgɔ jɛnsɔn, lalɛmɛn jɛnsɔn walima fɛn-tɔ jɛnsɔn, olu bɛ ɲɛ ka sen ni bolo ye ka tɛmɛ kɔnɔ ɲɛ kosɛbɛ. Ni fɛn kɛnɛ ko ka kɛ tɔɔrɔ ye, nɛnɛ fɛn i ko ɲɛ ka mugu, cɛ, walima dugu mɔgɔ dɔ ka ɲɛ. Ni a bɛ ɲɛ kɛ wa ka ɲɛfɛn ka ɲɛ, dɔkitɔrɔ ye ka i ka ɲɛfɛn ka ɲɛ."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,80 +58,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-Aw b'a kalan ko "hakili ɲuman dumuni" bɛ se ka Alzheimer ban. Tiɲɛ bɛ kɛ dɔgɔ ye. Dumuni sariya dɔw bɛ ɲɛ ni siran dɔgɔya ye sɛgɛsɛgɛli kɔnɔ min bɛ mɔgɔw ka tɔɔrɔ tuma caman na, nka sɛgɛsɛgɛli ɲuman bɛɛ ma ɲɛ sɔrɔ. Nin kuma bɛ o bɛɛ fɔ, ani a bɛ fɔ mun ye min bɛ se ka ɲi tuma caman, o ye dimansi la mɔgɔ min bɛ dumuni dun ani min bɛ ji min: ka dumuni dun ka ɲi ani ka o ɲɛ.
+I b’a men ko « dɛgɛ min bɛ hakili ɲɛ » bɛ Alzheimer ban. Tiɲɛ bɛ a ye ko a bɛ ɲɛ kosɛbɛ. Dɛgɛ dɔw bɛ ɲɛ ka sɔrɔ mɔgɔw ka kalan minnu bɛ tulo kɔnɔ, nka sabatilen ɲɛfɛ min tɛmɛ kɔnɔ, o ma ɲɛ kosɛbɛ jira. Nin lakɔlidɛ bɛ kuma o ɲɛ, ani bɛ kuma dementia la mɔgɔ ka dɛgɛ ni ka ji ka ca, ani ka o ɲɛ ka fɛn ɲɛ.
 
-Nin ye kumakan ye ɲɛnamaya kɔnɔ, o tɛ dokotoro ka laadilikan ye. Dokotoro wala dumuni kɔlɔsili ka mɔgɔ kan i ka se ka dumuni yɛrɛ wala mɔgɔ wɛrɛ ka dumuni labɛn. Aw ka [dokotoro laadilikan](/medical-disclaimer/) ka lafasali.
+Nin ye kunnafoni ye, a tɛ dɔkitɔrɔ ka ɲɛfɔ ye. I ka dɔkitɔrɔ walima dɛgɛ ɲɛfɔla ni ɲɛ ka kuma, i ka dɛgɛ wala a ka dɛgɛ yɛrɛ ka kɛ sani. I bɛ se ka a ɲɛ [kɛlɛ ɲɛfɔ](/medical-disclaimer/) ma.
 
-## Mediterane ni MIND dumuni, o ye mun ye?
+## Mediterane ni MIND dɛgɛw ye mun ye?
 
-National Institute on Aging (NIA) bɛ o fɔ cogo min na ([NIA ka kuma dumuni ni Alzheimer kan](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) bɛ olu lakodon cogo min na ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterane dumuni:** fwiti caman, lɛgimɛ, sɛbɛ ɲuman, nɛ, jɛ ni ɲɔgɔn, ani sɛnɛ min bɛ kɛ olive la, ni sɛnɛ min bɛ kɛ jɛ la ni wulu ka sɛnɛ ɲɔgɔn ye, ni sɛnɛ ka dɔgɔ ni tɔ, sɛnɛ ni sukaro.
-- **MIND dumuni** (Mediterranean–DASH Intervention for Neurodegenerative Delay): Mediterane dumuni ni DASH dumuni ka ɲɔgɔn ye tansiyɔn kama. A bɛ lɛgimɛ fɛɛrɛ kɛ, khan lɛgimɛ bɛ ɲɛ dɔ; fwiti jɛjɛn; sɛbɛ ɲuman; nɛ; ɲɔgɔn ni jɛ dɔ ye sɛbɛn ka kɛ kalo kelen na; ani sɛnɛ min bɛ kɛ olive la. A bɛ tɔ, sukaro, cɛnɛ, bɛtɛrɛ wala margarine, ani sɛnɛ min bɛ kɛ kɔnɔ ni fɛn min bɛ kɛ ni ka dɛ ye, o dɔrɔn bɛ.
+- **Mediterane dɛgɛ:** ɲɛnafɛn caman, ɲɛ jɔnjɔn, ɲɛ nɔgɔnnin, lalɛmɛn, ɲɛ ni fɛn-tɔ, ani olive jiri, ni sɛnɛ bɛ kɔnɔ dɔgɔ, ni ɲɛ ani sukaro dɔgɔ.
+- **MIND dɛgɛ** (Mediterranean–DASH Intervention for Neurodegenerative Delay): Mediterane dɛgɛ ni DASH dɛgɛ ta ɲɛ, o tɔgɔ bɛ tiɲɛ ka tansan kɔnɔ. A bɛ ɲɛnafɛn, ɲɛ nɔgɔnnin kosɛbɛ, baga kɔnɔ fɛn-tɔ, ɲɛ jɔnjɔn, ɲɛ nɔgɔnnin, nɛnɛ, lalɛmɛn, ani olive jiri ta. A bɛ sɛnɛ bɛ kɔnɔ, sukaro, fromage, butɛri walima margarine, ani fɛn-tɔ ni fɛn-tɔ dɔ minnu bɛ kɛ kɔrɔ ni tiɲɛ ye, olu ta dɔgɔ.
 
-## Dumuni dɔw ka dimansi siran dɔgɔya wa?
+## Dɛgɛ nin bɛ dementia ka tɛmɛ dɔgɔ wa?
 
-Sɛgɛsɛgɛli bɛ kɛ ka gɛlɛya. NIA b'a fɔ ko sɛgɛsɛgɛli dɔw, nka tɔ bɛɛ tɛ, bɛ fɔ ko Mediterane ni MIND dumuni bɛ ɲɛ ni dimansi siran dɔgɔya ye, ka bɔ dumuni min na tɔ caman, sɛnɛ caman ani sukaro caman bɛ ɲɔgɔn ye Westɛrn dumuni ye.
+Kalan ɲɛfɔlaw ma ɲɛ kosɛbɛ. NIA ko kalan ɲɛfɔlaw dɔw bɛ jira ko Mediterane ni MIND dɛgɛ bɛ ɲɛ ka dementia sɔrɔ dɔgɔ, nka tɔw ma o jira. Olu ka ɲɛfɔ bɛ ɲɛ ko sɛnɛ bɛ kɔnɔ caman, sukaro caman ni tiɲɛ caman bɛ dɛgɛ ye ka dementia kɔrɔ ka ɲɛ.
 
-Lancet Commission ka 2024 sɛgɛsɛgɛli kɔrɔfɔ ka sɛgɛsɛgɛli caman kɔrɔfɔ ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Lancet Commission sanga 2024 la ka kalan ɲɛfɔ caman ɲɛ ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- Sɛgɛsɛgɛli kɔrɔfɔ dɔ bɛ fɔ ko dumuni ɲuman bɛ ɲɛ ni dimansi siran dɔgɔya ye, o bɛ kɛ kelen ye ni tɔɔ 20% ye.
-- Sɛgɛsɛgɛli bɔnɛ ye mɔgɔw saba ka sɛgɛsɛgɛli ye, o b'a fɔ ko MIND dumuni bɛ ka ɲi ka tɛmɛ, o bɛ ɲɛ ni siran dɔgɔya ye.
-- Nka sɛgɛsɛgɛli Suwɛdi kɔnɔ min kɛra mɔgɔ 28,025 kan, o bɛ se ka waga 20 kɔnɔ, mɔgɔ ye mɔgɔ ye bɛ kɔrɔ, nka dimansi ka siran ma dɔgɔya dumuni min bɛ fɔ ni dumuni min bɛ kɛ Mediterane ye, o cɛma.
+- Kalan ɲɛfɔ dɔ min ka mɔgɔ minnu bɛ tulo kɔnɔ, olu ka dɛgɛ ɲɛ bɛ ɲɛ ka dementia sɔrɔ 20% dɔgɔ.
+- Kalan ɲɛfɔ dɔ bɔnin min ka ɲɛfɔ sabatilen saba la, o ka MIND dɛgɛ ɲɛ bɛ ɲɛ ka dementia sɔrɔ dɔgɔ.
+- Nka Swedi kalan dɔ min ka mɔgɔ 28,025 tulo, ni sanga 20 kɔfɛ ka tɛmɛ kɔnɔ, o ma dementia dɔgɔya jira, dɛgɛ wala Mediterane dɛgɛ kɔfɛ.
 
-Sɛgɛsɛgɛli min bɛ mɔgɔw tɔ kɛ, o tɛ se ka kɛ ka jɛnɛ ko dumuni sababu ye. Mɔgɔ min bɛ dumuni nin ta, o bɛ se ka tɛ mɔgɔ wɛrɛw ye ni wari, kalan, kɛlɛ ni dokotoro ka ɲɛnɛmaya ye. Commission ka kɛta ko sɛgɛsɛgɛli tɛ caman, ka a fɔ ko dumuni ɲuman bɛ dimansi ka ɲi kɛrɛ, nka lɛgimɛ ni fwiti caman ni dumuni min bɛ kɛ ni fɛn min bɛ ɲɛ wɔrɔ ye, o bɛ ɲɛ ɲuman ye bɛɛn caman na, ani o bɛ ɲɛ ni siran fɛnw ye i ko kɔ ka bon, sukaro ni tansiyɔn. A ma dumuni ka [14 siran ka sariya](/brain-health/risk-factors/) kɔnɔ.
+Kalan ɲɛfɔlaw tɛ se ka jira ko fɛn bɛ fɛn ka sababu ye. Mɔgɔ minnu bɛ dɛgɛ nin cogo la, u bɛ fɛn wɛrɛ kɔnɔ ni u ye, i ko wari, kalan, ɲɛ ni dɔkitɔrɔ ka dɛmɛ sɔrɔli. Commission ko dɛgɛ ɲɛfɛn tɛ ko ni dɛ ka dementia ma se ka kɛ ko ye, nka ɲɛnafɛn ni fɛn-tɔ caman, ani fɛn-tɔ dɔgɔ min ka bɔra fɛn caman, olu bɛ ɲɛ kɛ ko caman bɛ ɲɛ, ani olu bɛ ɲɛ ka sababu dɔw kɔnɔ i ko sukaro, tansan ni tiɲɛ kɔrɔ. Commission ma dɛgɛ sɔrɔ [14 sababu ka dɔ](/brain-health/risk-factors/) la.
 
-## 2023 MIND dumuni sɛgɛsɛgɛli sɔrɔra mun ye?
+## MIND dɛgɛ sabatilen kɛlɛ min ye sanga 2023 la, o ye mun jira?
 
-Sɛgɛsɛgɛli ɲuman min kɛra fɔlɔ, o ye sɛgɛsɛgɛli ye min bɛnnen New England Journal of Medicine la 2023 ([MIND dumuni sɛgɛsɛgɛli](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Kɛlɛ min ka ɲɛ ka ca fɔlɔ, o ye sabatilen kɛlɛ dɔ ye min bɔra New England Journal of Medicine la sanga 2023 la ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Mɔgɔ minnu:** mɔgɔ 604 min ka kɔrɔ ye 65, Chicago ni Boston kɔnɔ, ko hakili ma ɲɛ, ni a ka mɔgɔ dɔ bɛ dimansi la, ani ko kɔ bɛ a la, ani ko dumuni min bɛ dun a fɔlɔ, o ma ɲɛ.
-- **Min kɛra:** saa 3 kɔnɔ, mɔgɔ tilancɛ bɛ MIND dumuni dun, tilancɛ wɛrɛ bɛ a yɛrɛ ka dumuni dun. Mɔgɔ bɛɛ bɛ fɔ ka kalori 250 kɔrɔ ka dumuni tɛmɛ kɔ, ani dumuni kɔlɔsilikɛla bɛ ɲɛmɔgɔ ye tuma caman.
-- **Sɔrɔli:** hakili fɛɛrɛ ka jaabi bɛ ɲɛ dɔgɔ **mɔgɔ bɛɛ** la. Tilancɛ ni tilancɛ cɛma ka ɲi tɛ caman, ani a tɛ kɛ kuma ɲuman ye ka fɔ ko kɔnɔ kɛra. Scan ka jaabi fana bɛ ɲɛ ni mɔgɔw bɛɛ ye.
-- **Kilo:** mɔgɔ bɛɛ bɛ kilo 5 tɔ (kilo 5 bɛ kɛ ka lase).
+- **Mɔgɔ minnu:** mɔgɔ 604 minnu ka se sanga 65 ka tɛmɛ, Chicago ni Boston sigiyɔrɔw la, minnu tɛ hakili kɔnɔ kɛ, minnu ka sɔgɔsɔgɔ dementia ye, minnu ka kilo caman ka tɛmɛ, ani minnu ka dɛgɛ tɛ ɲɛ kosɛbɛ fɔlɔ.
+- **Min kɛra:** sanga saba kɔnɔ, mɔgɔ tilala ka MIND dɛgɛ kɛ, tilala tɔw ka u ka dɛgɛ ye ko min bɛ kɛ a ka bɔ. U bɛɛ ye ko u ka kalori 250 dɔgɔ ka tɛmɛ kɔnɔ don, ani dɛgɛ ɲɛfɔlaw bɛ u ka kɛlɛ bɛ.
+- **Sɔrɔli:** hakili kɔrɔ ɲɛfɛ ye ka ɲɛ tɔ **u bɛɛ** kɔnɔ, nka dɛgɛ ka tɔɔrɔ ye ka dɔgɔ ani **a tɛ ɲɛfɛ dɔ kɛ**. Brain scan kɔrɔ fana ɲɛ ye u bɛɛ kɔnɔ.
+- **Kilo:** dɛgɛ ka bɔ, u bɛɛ kilo 5 bɛ se ka ɲɛ ka sɔrɔ (sanni 11 pound ye).
 
-### Mun na sɛgɛsɛgɛli man kan ka sɔrɔ ko kɔnɔ tɛ kɛ?
+### Mun na sabatilen kɛlɛ man sɔrɔ tɔɔrɔ?
 
-Sɛgɛsɛgɛli kɔlɔsilikɛlaw b'a fɔ ko kɔnɔ caman be se ka kɛ. Tilancɛ min tɛ MIND dumuni dun, o ka dumuni fana bɛ ɲɛ dɔ, bawo a kilo bɛ tɔ ni o ye. Fɛn min bɛ hakili fɛɛrɛ ka jaabi ɲɛ, o bɛ se ka ɲɛ ni tilancɛ caman yɛrɛ ye, bawo mɔgɔw bɛ se ka kalan. Saa 3 bɛ se ka tɛ kɛ ka jɛɲɔgɔn ye. Mɔgɔ caman min kɛra sɛgɛsɛgɛli kɔnɔ, o bɛ kalan ɲuman ani kɔnɔ bɛ Europe ka mɔgɔw ye, o kɔ, jaabi bɛ se ka tɛ mɔgɔ bɛɛ kan.
+Ɲɛfɔlaw kɛra sababu caman ɲɛ. U ko tilala tɔw ka dɛgɛ kɔfɛ, ka a ye ko u kalori dɔgɔ kɛra kɛlɛ kɔfɛ, nka ɲɛ tɛ. U ko kɛlɛ tuma caman kɛ, o bɛ ɲɛ kɛ tɛmɛ kɔnɔ, bawo mɔgɔw bɛ kɛlɛ dɔ kɛ sɛgɛn, sanga saba ka tɛmɛ dɔ fana bɛ se ka dɔgɔ. Mɔgɔ caman tɛ kalan ka se ka dɔ kɛ dɔ fɛ, u bɛ se ka dɔ ka gɛlɛn, ani u bɛ tiɲɛ kɛ kɔrɔ ni fɛ ye ka kuma.
 
-Ni ko o ye, kuma ɲuman ye o ye: MIND dumuni ma kɛ tilancɛ ye min bɛ kɛ kilo ka dɔgɔya ni ka dumuni cɛma ka kɛ saa 3 kɔnɔ. O tɛ wili ko dumuni ɲuman ka ɲi tɛ. O b'a fɔ ko mɔgɔ si kana miiri ko dumuni dɔ bɛ dimansi ɲɛ.
+Dɔ kɛra ka kɛ: MIND dɛgɛ ma tɛmɛ sabatilen kɛlɛ kɔnɔ ka tɛmɛ ka dɛgɛ ka kalori dɔgɔ ta kɔfɛ, sanga saba kɔnɔ. Nin tɛ ko dɛgɛ tɛ fɛn ye. A ye ko mɔgɔ ka se ka dɛgɛ dɔ kɛ ka dementia ma, o tɛ ɲɛ ka kɛ.
 
-## Dumuni dɔw ni dawalaw ko cogo min na?
+## Fɛn dɔw ni complément dɔw kɔnɔ bɛ mun na?
 
-NIA b'a fɔ ko dumuni dun wala ka dumuni dɔ domɛ tɛ Alzheimer ni hakili ka dɔgɔya ɲɛ, kɔ ɲɛ. Blueberry, sɛbɛ jɛnɛ ni turmeric, olu bɛɛ kɛra sɛgɛsɛgɛli kɔnɔ, nka a tɛ dɔ jaabi kɛ. NIA b'a fɔ ko vitamin wala nɛnɛma dɔ tɛ Alzheimer ka dɔgɔya min ka sɛgɛsɛgɛli ye, ani o tɛ ka kɛ ko dɔ ye o kama. NIA b'a fɔ ko nɛnɛma min tɛ sɛgɛsɛgɛli kɔnɔ, min bɛ se ka dimansi ka dɔgɔya ɲɛ, o bɛ se ka kɛ siran ye, ka wari bɔ, wala o bɛɛ, ani o bɛ se ka dawa min dokotoro b'a ta ɲɛ. O de kosɔn, dokotoro kan i ka se ka nɛnɛma dɔ ta ([NIA ka kuma Alzheimer ka ɲi kan](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA ko ɲɛfɔ tɛ ko ni nɔ dɔ ka dɛgɛ wala dɔgɔnɔ bɛ se ka Alzheimer wala hakili dɔgɔya ma sani mɔgɔ ka se. Ni nɔgɔ, lalɛmɛn ani turmeric, olu bɛɛ kalan kɛra, nka ɲɛfɔ tɛ. NIA ko vitamin wala complément dɔ tɛ jirali ko o bɛ se ka Alzheimer ma, ani o tɛ lakodonnen fɛ ka o ko kɛ. NIA ko fɛn minnu tɛ jirali ko u bɛ Alzheimer ma, sanni minnu bɛ wari ka caya, olu bɛ se ka kɛ kɔrɔ walima wari dɔgɔya, ani u bɛ se ka dawa minnu bɛ dɔkitɔrɔ ka ɲɛ ka ban. I ka dɔkitɔrɔ ni ɲɛ ka kuma sani i ka fɛn dɔ ta ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## Cogo min na dumuni ka ɲɛ ni ka nɔgɔya ka kɛ?
+## Ɲɛfɛn bɛ se ka kɛ cogo di ka dɛgɛ ka ɲɛ, ka ɲɛ ka sen fana?
 
-Mɔgɔ kɔrɔ caman kama, dumuni ka kan ka kɛ dumuni min ka ɲɛ, min bɛ kɛ ni ɲɛfɛ ye, ani min bɛ ɲɛfɛ, a tɛ sigasiga ye:
+Mɔgɔ kɔrɔba caman bɛ ɲɛ, o ye ka dɛgɛ kɛ fɛn min ka ɲɛ, min ka ca, ani min ka dusu don, o tɛ ko ni kɛlɛ dɔ ye min ka gɛlɛn:
 
-- **Dumuni min ka ɲɛ kɛ fɛn min bɛ sɔn i ma** Mediterane sariya kɔnɔ: lɛgimɛ, fwiti, sɛbɛ, nɛ, jɛ ni sɛnɛ min bɛ kɛ olive la.
-- **Fɛn min bɛ sɔn i ma sɔrɔ ka dun.** Ɲɛfɛ ni dumuni ka ɲi, kɔrɔ kɔrɔ, ɲɛnamaya kɔnɔ.
-- **Mɔgɔw ni ɲɔgɔn ye dumuni dun ni tuma bɛ se.** Dumuni min bɛ dun ni mɔgɔw ye, o ye ɲɛnamaya ye.
-- **Dumuni kɛ ni ɲɔgɔn ye.** Lɛgimɛ ka sanji ni dumuni min bɛ kɛ jɛn kɔnɔ, o ye kɛwale ye min bɛ se ka kɛ ni ɲɔgɔn ye; i ka [so kɛwalew](/activities/household-tasks/) ye. Dumuni min bɛ sɔn i ma kɔnɔ, o bɛ se ka kuma ka [kɔrɔ ka fɔ](/activities/reminiscence/) ka kɛ.
+- **Dɛgɛ kɛ fɛn minnu ye i ka ɲɛ ye** Mediterane dɛgɛ kɔnɔ: ɲɛnafɛn, ɲɛ jɔnjɔn, ɲɛ nɔgɔnnin, lalɛmɛn, ɲɛ ni olive jiri.
+- **Ka a ka ɲɛ nɔgɔ tɔw ma fɔ.** Ɲɛ ni kɛnɛya bɛ mɔgɔ ka dusu ka ca, ni a ka ca kɔrɔ kɔfɛ.
+- **Mɔgɔ tɔw ni ɲɛ dɛgɛ** ni i bɛ se ka o kɛ. Dɛgɛ ni mɔgɔ tɔw ye, o bɛ ɲɛ kɛ dusu ka ɲɛ.
+- **Dɛgɛ ni mɔgɔ tɔw ye ka kɛ.** Ɲɛnafɛn ka ɲɛ ni sɔgɔ kɔnɔ, walima jɔ kɔnɔ ka kuma, ɲɛ kɛ dɔ ye min bɛ kɛ mɔgɔ tɔw ni ɲɛ ye. A bɛ se ka [wari ɲɛ kɛlɛ](/activities/household-tasks/) ta ye. Dɛgɛ jɔnjɔn ka ɲɛ min ye ni mɔgɔ ye, o bɛ se ka [a ka kuma ka ɲɛ](/activities/reminiscence/).
 
-Kɔrɔ ka kan ka kɛ, o tɛ kan ka dumuni kɔrɔ kɛ ni ka ɲɛ tɔɔrɔ dokotoro ka kuma ma. Ka dumuni tɛmɛ, o ma kɛ ka ɲi ka kɛ mɔgɔ kɔrɔ ye. Ka ɲɛfɛ ka dumuni ka kɛ kɔrɔ ka ɲi tɛ. Aw ka [dumuni kɔrɔ ka ɲi](/brain-health/fasting/) ka lafasali.
+Mɔgɔ kɔrɔba tɛ se ka kalori dɔgɔ walima kilo dɔgɔ dɔ kɛ dɔkitɔrɔ ni ɲɛ ka kuma kɔfɛ, ani ka kɔ ka dɛgɛ tɛ kɔnɔ kɔrɔ dɔ kɛ. I bɛ se ka [kɔ ka dɛgɛ kalan](/brain-health/fasting/) ɲɛ.
 
-## I bɛ se ka dimansi mɔgɔ dɛmɛ ka dumuni dun cogo di?
+## Mun na i bɛ se ka dɛmɛ dementia la mɔgɔ ka dɛgɛ ka ɲɛ?
 
-Dimansi bɛ mɔgɔ la, dumuni ni ji dun **ka ɲi** ka kɛ dɔ ye tuma caman. Alzheimer Association b'a fɔ ko mɔgɔ bɛ se ka dumuni dun ka ɲɛ, o bɛ se ka kɛ ko a dunnen na, wala a b'a miiri ko a dunnen na, wala sɔrɔ caman bɛ a yɛrɛ ka tɔ. Dumuni ɲuman ma kɛ, o bɛ se ka ɲɛ ni kɛlɛ caman ye, ani a bɛ se ka kɛ ko mɔgɔ bɛ ɲɛ dɔgɔ ([Alzheimer Association ka kuma dumuni ni dumuni dun kan](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Kuma nin bɛ bɔ Alzheimer Association, NIA ni Alzheimer Society ka sɛbɛnw la:
+Dementia bɛ mɔgɔ minnu na, dɛgɛ ni ji ka ca, o ye ko fɔlɔ ye. Alzheimer's Association ko mɔgɔ bɛ se ka dɛgɛ ka dɛ, a ko a ka dɛgɛ kɛra, walima fɛn caman bɛ a ka hakili ɲɛ, ani dɛgɛ dɔgɔ bɛ se ka a ka kɛlɛ kɔrɔ wa, walima kilo bɛ dɔgɔ ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Nin ɲɛfɛn bɛ bɔ Alzheimer's Association, NIA ni Alzheimer's Society ma:
 
-1. **Dumuni dɛgɛ min bɛ se ka dun ni maw ye.** Dumuni dɛgɛ, i ko sandwich dɛgɛ, misi dɛgɛ, pwasɔn dɛgɛ, orange tanga, wala lɛgimɛ dɛgɛ min bɛ kɛ ni ji ye, o bɛ se ka mɔgɔ dumuni yɛrɛ dun ni cuman ma.
-2. **Ka kɛ ko dumuni ka dɛgɛ ka ɲɛ.** Ɲɛ kɔnɔ ka fɛn ɲɔgɔn ye kɛlɛ kɔnɔ. Sanji fɛɛrɛ bɛ kɛ ɲɛ ka fɛn ɲɛ. Sanji ɲuman ni sanji ɲuman bɛ kɛ ɲɛ ka fɛn ɲɛ. Ka sanji min bɛ kɛ ni kɔsɛbɛ bɛ, o ka bɔ.
-3. **Dumuni fila wala kelen kɔnɔ kɔrɔ.** Dumuni caman bɛ mɔgɔ ye.
-4. **Ka dumuni kɛ ɲɛnamaya ni kɔnɔ.** Ka TV kɛ, ka sigi ka fɛn ɲɛ kɔnɔ, ani ka tuma caman di. NIA b'a fɔ ko kana gɛlɛya kɛ, ani kana tiɲɛ.
-5. **Ka dumuni dɛgɛ ka tɛmɛ ka kɛ tuma caman.** NIA b'a fɔ ko dumuni dɛgɛ ka ɲi ka tɛmɛ, ani ka dumuni dɛgɛ min bɛ kɛ ni sɛnɛ caman ye, ni mɔgɔ tɛ dumuni caman dun ([NIA ka kuma dumuni dun kan](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Ka ji min.** Ka ji ni ji wɛrɛ min bɛ kɛ ni ka ji ye, ka min tuma caman, ani ka fwiti, sopi, lɛti ni ji dɔw min bɛ ji caman ye. Ni mɔgɔ tɛ ji min, NIA b'a fɔ ko a ka ji min jus, ji min bɛ kɛ ni ka ɲi ye, bouillon, lɛti, wala kafɛ wala sɛnɛ min tɛ ka ɲi tɛ.
-7. **Ka dumuni ka tasuma ɲɛnɛ.** Mɔgɔ tɛ se ka a ɲɛ ko dumuni wala ji ka tasuma ka caman.
-8. **Ka fɛn min bɛ kɛ dumuni dun ni ji min ɲɛ kɛ.** Kɔ min bɛ kɛ dɔgɔ dɔ, ka kɔrɔ min bɛ kɛ ni kɔfɛ ye, kɔrɔ min bɛ kɛ ni kɔfɛ ye, o bɛ se ka dumuni dun ka ɲi. Ka hakilina sɔn kana kɛ.
-9. **Ka dumuni ka kɛ mɔgɔ bɛ se ka dun ani ka min.** Ka dumuni kɛ dɛgɛ dɛgɛ, wala ka dumuni nɛnɛ dɔ di. Ni mɔgɔ bɛ kɔsɔ wala a bɛ kɛlɛ dumuni dun ni, ka o fɔ a dokotoro ma.
-10. **Kana dumuni kɔrɔ tɔ.** NIA b'a fɔ ko dumuni dun ka ɲi bɛ bɔ ka kɛ dɔgɔ ni Alzheimer ka laban ka tɔ.
+1. **Ka fɛn-tɔ kɔrɔ ni tiɲɛ sɔrɔ.** Ɲɛ fɛn-tɔ tɛmɛ fɛn-tɔ kɔrɔ, i ko sanbolo jɛnsɔn, sɛnɛ tɔgɔ jɛnsɔn, sɛnɛ tɔgɔ fɛn dɔ, orange ɲɛ, walima nɛnɛ fɛn-tɔ, o bɛ mɔgɔ ka ɲɛ ka a yɛrɛ dɛgɛ ni ɲɛ ta kɛ.
+2. **Ka ɲɛ ka kɛnɛya sɔrɔ taabolo kɔnɔ.** Ɲɛ ka ɲɛ bɛ ɲɛ ka fɛn-tɔ ni tabali ka kɛnɛya dɔgɔ. Sanɲɛ ni taabolo ka ɲɛ, o bɛ se ka dɛmɛ. Fɛn minnu ka kɛnɛya ni gaasi bɛ, o ka ɲɛ tɛ.
+3. **Ka fɛn-tɔ kelen walima fila kɛ ka ɲɛ ka kɔrɔ.** Ɲɛ min bɛ fɛn-tɔ caman kɔnɔ, o bɛ se ka mɔgɔ fɛ ka ɲɛ.
+4. **Ka waati ɲɛ ka sen.** Televiziyɔn bɔ, taabolo ka ɲɛ, ani waati caman di. NIA ko kɔ ka se ka ɲɛ ka mɔgɔ ka dɛgɛ ka gɛlɛn.
+5. **Ka dɛgɛ dɔgɔ-dɔgɔ ni ka a tɔ kɛ dɔ-dɔ.** NIA ko dɛgɛ dɔgɔ-dɔgɔ ni dɛgɛ fɛn tɛmɛ kɔnɔ, ni kalori caman bɛ dɛgɛ fɛn-tɔ kɔnɔ, o ka ɲɛ ni mɔgɔ ma dɛgɛ ka to ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Ka dɛmɛ ji min ka ca.** Ji ka ca sɔgɔ-sɔgɔ, ni ji bɛ fɛn-tɔ kɔnɔ, i ko ɲɛnafɛn, soupe, milkshake ni smoothie. Ni mɔgɔ tɛ ji ka ca, NIA ko i bɛ se ka jus, ji ni fɛn-tɔ, bouillon, jiri, walima kafe walima tɛ ni kafiyɛ ma kɛ.
+7. **Ka tilenbaliya ɲɛ.** Mɔgɔ bɛ se ka fɛn walima ji ka sumaya kɔrɔ ka tɛ a ɲɛ.
+8. **Ka a ka tɛnɛ fɛnw kɛ cogo ɲɛ.** Bɔlɔ ni bɛn ka ɲɛ, ka taanɛ ni ngɔnɔ ka ɲɛ ka ɲɛ, ani ka kɔlɔn ni ɲɛ kɔfɛ ka ji min kɔ, o bɛ se ka dɛgɛ ka ɲɛ. Dɔ ka ɲɛ sɛnɛ kɔfɛ.
+9. **Ka dɛgɛ ka ɲɛ ka sɔnnin ni ka mimɛ.** Ka ɲɛ ka ɲɛ ka ɲɛ, walima ka fɛn-tɔ ɲɛ. Ni mɔgɔ bɛ kɔnɔ walima ka gɛlɛn ka dɛgɛ ka kɔ, a ka dɔkitɔrɔ ye a ɲɛ.
+10. **Ka mɔgɔ dɛgɛ ka kɛ ni fanga ye.** NIA ko dɛgɛ tɛ ka kɛ ni fanga ye, ka sɔnnin ni Alzheimer's ka kɔ kɔ tɛmɛnen kɔnɔ.
 
-### Kɛlɛ min bɛ kan ka dokotoro yɛrɛ ka fɔ
+### Dɔkitɔrɔ ye min ye ɲɛ ka kuma
 
-Ka wari bɔ, dumuni ka ɲɛ, sɔrɔ ni ka ɲɛ dɔgɔ, olu bɛ se ka kɛ kɛlɛ ye ko mɔgɔ tɛ dumuni caman dun. Alzheimer Society b'a fɔ ko kɔ ka bon, nɛnɛ wala nɛnɛ bɛ kɛ ni dumuni ɲɛ dɔgɔya ye, ani dawa kɛcogo fɛɛrɛ bɛ se ka ɲɛ dɔgɔ ([Alzheimer Society ka kuma dumuni ɲɛ kan](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Kɛlɛ min bɛ kɛ ji ka dɔgɔ kɔnɔ, NIA ka kuma b'a fɔ ko a bɛ se ka kɛ ni da ka kɔ, sɔgɔ ka dɔgɔ, dusukun ka tɛmɛ ka dɔ ye, ani hakili ka ɲɛ tɔ ([NIA ka kuma kɛlɛ caman kan](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Ka tilenbaliya, ka dɛgɛ ka dɛ, ka sɔnnin ka dɛ, walima ka fɛɛn ka ɲɛ kɔfɛ, olu bɛ se ka kɛ jirali ye ko mɔgɔ tɛ dɛgɛ ka to. Alzheimer's Society ko nɛgɛ ka dɛ ni dɔmɛ, dusu bɛ fanga, lafiɲɛ ni dawa ka yɛlɛma ka dɛgɛ ka ɲɛ ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Ji ka dɔgɔ kɔrɔ, NIA ko o bɛ jira ni dɔ ka ji ka dɔgɔ, a ka dusu ka tɛmɛ ka ka ɲɛ, ani a ka hakili dɔ ka kɔ ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Dokotoro ka kuma
+## Dɔkitɔrɔ ni kuma
 
-Ni aw bɛ aw yɛrɛ ka dumuni kɛ kɔrɔ, wala mɔgɔ wɛrɛ ka dumuni, aw ka kan ka kuma ni dokotoro wala dumuni kɔlɔsilikɛla ye, o kɔ ni aw bɛ sukaro, kɔ ka kɛlɛ, dumuni dun ka kɛlɛ wala kilo ka dɔgɔya fana bɛ aw la. Dimansi bɛ mɔgɔ la, ka ɲininka ko a ka kan ka dumuni caman dun ni ji caman min na tile kelen kɔnɔ, ani ko dumuni kɔlɔsilikɛla wala nɛnɛma dɔ bɛ se ka dɛmɛ.
+I ka dɔkitɔrɔ walima dɛgɛ ɲɛfɔla ni ɲɛ ka kuma sani i ka dɛgɛ ka yɛlɛma kɛ, walima mɔgɔ tɔw ka dɛgɛ ka yɛlɛma kɛ, kɔsɛbɛ ni i bɛ sukaro, tilɛmɛn kɔrɔ, ka tɛmɛ ni ka sɔnnin ni fɛn caman bɛ i ma. Dementia bɛ mɔgɔ minnu na, i ka dɔkitɔrɔ ye ka ɲɛ ka kuma: o bɛ se ka dɛgɛ ka don tile kɔnɔ ni boli ka ji ka ca ka kalan, ani dɛmɛ dɔ bɛ se ka kɛ ni dɛgɛ ɲɛfɔla walima complément ye.
 
-Ni mɔgɔ bɛ kɔsɔ, wala ni a bɛ jɔ ka gɛlɛya, wala a bɛ jɔ ka boli ka dɔ ye, sɔrɔ dokotoro ka wele jɔnjɔn.
+Ni mɔgɔ bɛ kɔnɔ, walima a ka hakili ka dɔgɔ kosɛbɛ, walima a ka dusu ka tɔɔrɔ ka dɔgɔ, walima a bɛ ka gɛlɛn ka kɔ, o waati la, dɛmɛ ka gɛlɛn kɛ kɛlɛ.

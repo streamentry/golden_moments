@@ -1,35 +1,35 @@
 ---
-title: "Lukaotem Yu Wan Sef: Rest mo Ol Saen Blong Tumas Tayred"
-seoTitle: "Lukaotem Sef Blong Man Blong Dementia: Rest mo Sapot"
-description: "Ol saen blong tumas tayred, hao blong gat rest mo sapot grup, mo ol fri helpline long US, inkludem Alzheimer's Association 24/7 Helpline mo Eldercare Locator."
+title: "Sef-kea blong Lukaotem: Ret Taem mo Sapot"
+seoTitle: "Sef-kea blong Lukaot Dementia: Ret Taem mo Sapot"
+description: "Ol saen blong bon-aot long lukaotem man o woman we i gat dementia, fasin blong faenem ret taem mo grup blong sapot, mo ol fri helpeline long US."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Lukaotem man we gat dementia hemi hard, mo lukaotem yu wan hemi part blong
-  wok ya. Lukim ol warning saen olsem tumas tayred, kros kwiktaem, slip nogud
-  mo lusim ol fren. Askem halp long spesifik wok, yusum respite care, mo joinim
-  wan sapot grup. Fri halp long US i inkludem Alzheimer's Association 24/7
+  Lukaotem man o woman we i gat dementia i hard, mo lukaotem yu wetem i wan pat
+  blong waka ya. Lukaotem ol saen olsem tair tumas, kros, slip no gud mo lusim
+  ol fren. Askem sapot long ol samting we yu nid, yusum ret taem keya, mo joen
+  wan grup blong sapot. Fri sapot long US i gat Alzheimer's Association 24/7
   Helpline long 1-800-272-3900 mo Eldercare Locator long 1-800-677-1116.
 keyPoints:
-  - "Burnout i ofen soemaot olsem tumas tayred, kros kwiktaem, slip nogud, sed mo yu no lukaotem helt blong yu seleva."
-  - "Respite care i givim yu wan brik, from sam aoa i go kasem sam wik, long haos o long wan kea seta."
-  - "Askem halp long spesifik wok; plante man oli wantem halpem, be oli no save wanem blong duim."
+  - "Bon-aot i kamaot olsem tair tumas, kros, slip no gud, sed mo yu no kea long helt blong yu wetem."
+  - "Ret taem keya i givim yu wan brek, from fyuaseri aoa to sam wik, long hom o long wan fasiliti blong keya."
+  - "Askem sapot long ol spesifik wok; plante man oli wantem helpem be oli no save wat blong duim."
   - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) i givim fri mo konfidensol sapot long eni taem."
-  - "Eldercare Locator (1-800-677-1116) i konektem yu wetem lokol sevis, inkludem Area Agency on Aging blong yu."
-  - "Sipos yu fil olsem yu stap long hevi tumas, kolem o sendem tekst long 988. Long wan emergensi, kolem nomba emergensi long ples blong yu."
+  - "Eldercare Locator (1-800-677-1116) i konektem yu wetem ol lokol sevis, including Area Agency on Aging blong yu."
+  - "Sipos yu filim yu stap long wan hevi taem, kolem o tekstem 988. Long wan emergensi, kolem namba emergensi blong ples blong yu."
 faq:
-  - q: "Wanem ol saen blong burnout long man we lukaotem?"
-    a: "Ol komon saen i inkludem fil tumas tayred, overwhelm o fraet, kros o no gat patiens kwiktaem, trabol blong slip, fil sed o no gat hop, lusim ol fren, hevi hed o pen oltaem, mo skipem ol kakae, eksasais o helt kea blong yu seleva. Sipos ol saen olsem oli kamaot oltaem, toktok wetem doctor blong yu."
-  - q: "Hao blong faenem respite care klosap long mi?"
-    a: "Statem wetem Eldercare Locator long 1-800-677-1116 o eldercare.acl.gov blong kasem lokol Area Agency on Aging blong yu, ARCH National Respite Locator Service, o Alzheimer's Association Helpline long 1-800-272-3900. Famili, fren mo ol volantia tu oli save givim respite."
-  - q: "Ka Medicare i pemen respite care?"
-    a: "Long wan man we i resivim hospice care, Medicare i kavremap plante long cost blong up to five consecutive days blong respite care long wan hospital o skilled nursing facility, accordin long National Institute on Aging. Plante privet helt insiuransi i no kavremap respite; Medicaid mo sam long-term care insiuransi plan i save halpem."
-  - q: "Ka Alzheimer's Association Helpline i fri mo i wok long naet?"
-    a: "Yes. Alzheimer's Association i talem se Helpline long 1-800-272-3900 i fri, konfidensol mo i gat ol man long wok long 24 aoa, 365 dei long wan yia, wetem halp long plante langwis. Dialem 711 blong relay sevis."
-  - q: "Ka i rong blong tekem brik from kea?"
-    a: "Nogat. Rest i helpem yu blong kontinu lukaotem, mo respite i save givim man we yu stap lukaotem wan jenis kampani mo wan jenis wok tu. Plante caregiver oli talem lataer se oli wisim oli askem halp moa kwik."
+  - q: "Wanem ol saen blong bon-aot long lukaotem?"
+    a: "Ol komon saen i tru tumas tair, filim hevi o wari, isi kros o no gat patiens, hard blong slip, filim sad o no gat hop, lusim ol fren, hed-pen o pen long bodi we i kamap oltaem, mo miss kakae, wok blong bodi o trit blong helt blong yu. Sipos ol saen olsem i kamap oltaem, toktok wetem dokta blong yu."
+  - q: "Hao nao mi save faenem ret taem keya klosap long mi?"
+    a: "Stat wetem Eldercare Locator (1-800-677-1116 o eldercare.acl.gov) blong kasem Area Agency on Aging long ples blong yu, ARCH National Respite Locator Service, o Alzheimer's Association Helpline long 1-800-272-3900. Famili, fren mo ol volantia tu oli save givim ret taem."
+  - q: "Eni Medicare i pemen ret taem keya?"
+    a: "Long man o woman we i stap resivim hospice keya, Medicare i kavremem plante long kost blong ret taem keya i go kasem faev dei we i stap kontinu long wan hospital o wan skilled nursing facility, olsem we National Institute on Aging i talem. Plante private helt insurance i no kavremem ret taem; Medicaid mo sam long-term care insurance plan i save helpem."
+  - q: "Ol Alzheimer's Association Helpline i fri mo i opem long naet tu?"
+    a: "Yes. Alzheimer's Association i talem se Helpline long 1-800-272-3900 i fri, konfidensol mo i gat ol man i wok long 24 haoa, 365 dei long wan yia, wetem sapot long plante langwis. Dialem 711 blong relay sevis."
+  - q: "Eniwe i rong blong tekem brek long lukaotem?"
+    a: "Nogat. Ret i helpem yu blong yu kontinu blong lukaotem, mo ret taem i save givim man o woman we yu lukaotem wan jenis blong ol fren mo wan jenis wok tu. Plante man o woman we oli lukaotem oli talem afterwards se oli wis oli bin askem sapot kwiktaem."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -66,91 +66,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-Sipos yu lukaotem man we gat dementia, yu wan ridim dis pej long naet we i late, yu taed, mo yu gat wan lis blong ol wok we yu no yet duim. Hemi nomol. Lukaotem seleva blong yu hemi no wan luxury o wan rewoad blong finis evri samting. Hemi wan wei we i letem yu stap kontinu.
+Sipos yu stap lukaotem man o woman we i gat dementia, yu prapaly i stap ridim dis long taem we ileit, yu i taed, mo i gat ol samting we yu no yet duim. Dat i nomol. Lukaotem yu wetem i no wan lukseri o wan presen we yu gat afta long finisim evri samting. Hemi samting we i mekem yu save kontinu.
 
-Dis pej i talem ol warning saen blong burnout, hao blong kasem wan gud rest, wea blong faenem sapot, mo ol fri helpline long US we yu save kolem tedei.
+Dis pej i talem ol warning saen blong bon-aot, hao nao yu save gat wan ret we i tru, ples we yu save faenem sapot, mo ol fri helpline long US we yu save kolem tede.
 
-## Wanem ol saen blong caregiver burnout?
+## Wanem ol saen blong bon-aot long lukaotem?
 
-Burnout i ofen kamap slow slow, so hemi gud blong save ol warning saen blong yu. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) i lisimap ol saen blong caregiver stress, inkludem:
+Bon-aot i kamap slo, so i gud blong save ol warning saen blong yu. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) i lisimap ol saen blong stret long lukaotem, olsem:
 
-- fil tumas tayred, overwhelm o fraet;
-- kros kwiktaem o no gat patiens;
-- fil lonli o no konektem wetem ol narafala;
-- trabol blong slip, o no slip gud;
-- fil sed o no gat hop, o lusim ol samting we yu bin laekem finis;
-- hevi hed, pen o ol narafala helt trabol oltaem;
-- no gat taem blong eksasais o blong mekem gud kakae blong yu seleva;
-- skipem sawa o ol narafala personal kea;
-- yusum alkol o drug rong, inkludem preskripsin medisin.
+- filim tair, hevi o wari;
+- isi kros o no gat patiens;
+- filim lonli o yu no konekted wetem narafala man;
+- hard blong slip, o yu no slip gud;
+- filim sad o no gat hop, o yu no intres long ol samting we yu bin laekem;
+- hed-pen, pen o ol narafala bodi trabol we i kamap oltaem;
+- no gat taem blong wakabaot o blong mekem kakae we i gud long yu;
+- yu lusim ol samting blong bodi blong yu, olsem wasem;
+- yu yusum alkol o ol drag wrong, inkludim ol medisin we dokta i givim.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) i addem ol saen olsem denaeel blong disiz, kros long man ("hemi jes stubborn nomo"), fraet long wanem bambae i kamaot, trabol blong fosem tingting, mo ol helt trabol we i kasem yu. Hemi advaesem blong toktok wetem doctor blong yu sipos yu gat ol saen olsem oltaem.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) i addim ol saen olsem yu no wantem bilif long disiz, kros long man we yu lukaotem ("hemi jes stubborn"), wari long fiuja, hard blong tingting gud, mo ol helt trabol we i tekem plante strong long yu. Hemi talem se yu mas toktok wetem dokta blong yu sipos ol saen olsem i kamap oltaem.
 
-Advaes blong NIA hemi no blong wetem till yu fulap finis long hevi. Lukim ol saen blong yu hariap mo wok long olgeta.
+NIA i talem se yu no mas wet kasem taem we yu fulap long hevi. Luk ol saen blong yu long ol stej blong hem, mo mekem samting long hem.
 
-## Wanem mi save duim tedei, long faev minit?
+## Wanem samting mi save duim tede, long faev minit?
 
-Ol smol brik i save kaontem. Ol ia no save stopem burnout, be i save helpem yu long wan hard afternoon.
+Ol smol brek i gat valiu. Nogat long ol ya i save rimuvum bon-aot, be oli save helpem yu blong yu pasem wan hard aftenun.
 
-- **Go aotsaed.** Sidaon long veranda o wokem go long mailbox taem man ia i seif mo i kuel.
-- **Bris slo.** Sam slo bris bifo yu ansarem wan hard kwestin. Yu save sherem wan [Calm Breathing](/games/calm-breathing/) pos wetem man we yu stap lukaotem tu.
-- **Drink wota mo kaikai samting.** Hemi isi blong fogetem ol kakae blong yu seleva.
-- **Tekstem wan fren.** No blong askem wan samting, jes blong konektem.
-- **Talem wan gud wod long yu seleva.** [Gaed blong NIA long lukaotem seleva](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) i sajestem ol toktok olsem "Mi duim wanem mi save beta," "Mi no perfect, mo hemi oraet," mo "Mi bambae mi enjoem ol taem we mifala stap togeta long pis."
+- **Go aotsaet.** Sidaon long vefanda o wakabaot i go long mailbox taem man o woman we yu lukaotem i stap seif mo i stap kwaet.
+- **Bretem slo.** Bretem sam taem slo-slo bifo yu ansarem wan hard kwestin. Yu save sharem wan [Calm Breathing](/games/calm-breathing/) brek wetem man o woman we yu lukaotem, tu.
+- **Dring wota mo kakae samting.** Hemi isi blong fogetem ol kakae blong yu.
+- **Tekstem wan fren.** No blong askem nating, jes blong konekt.
+- **Talem wan gud samting long yu seleva.** [Gaed blong NIA long lukaotem yu seleva](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) i sagest ol tok olsem "Mi duim wanem mi save duim," "Mi no perfect, mo hemi oraet," mo "Mi bae enjoyem ol taem we mifala stap wetem long pis."
 
-## Wanem respite care, mo hao blong kasem hem?
+## Wanem ret taem keya, mo hao nao mi save kasem hem?
 
-Respite care hemi shotfala kea blong man we yu stap lukaotem, blong letem yu rest. [Pej blong NIA long respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) i eksplenem se hemi save go from sam aoa i go kasem sam wik, mo save hapen long haos, long wan health kea faesiliti o long wan adult day kea senta.
+Ret taem keya hemi keya blong sotfala taem long man o woman we yu lukaotem, blong yu save ret. Pej blong NIA [long ret taem keya](https://www.nia.nih.gov/health/caregiving/what-respite-care) i eksplenem se hemi save stap from sam aoa to sam wik, mo hemi save kamap long hom, long wan helt keya fasiliti o long wan adult day care senta.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) i deskraebem ol komon taep:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) i diskraesem ol komon kaen:
 
-| Taep | Wanem hemi |
+| Kaen | Wanem hemi |
 | --- | --- |
-| Help long haos | Wan fren, famili memba, volantia, o wan peid kompani o aid i kam long haos |
-| Adult day senta | Ol plan aktiviti olsem muzik mo art long wan seif grup ples; trenspot mo kakae ofen i stap |
-| Naet o short stay | Wan long-term kea komuniti i lukaotem man ia long wan naet, sam dei o sam wik |
+| Help long hom | Wan fren, relativ, volantia o wan pei companion o aide i kam long hom |
+| Adult day senta | Ol plan blong aktiviti olsem musik mo at long wan seif grup; transpot mo kakae oli ofen givim |
+| Naet o sotfala stei | Wan long-term keya komuniti i lukaotem man o woman long wan naet, sam dei o sam wik |
 
-**Hu i pemen?** Long NIA, respite from famili, fren o volantia i save no kostem samting. Ol professional sevis i jagem long aoa o long dei. Long man we i resivim hospice care, Medicare i kavremap plante long cost blong up to five consecutive days blong respite long wan hospital o skilled nursing facility. Medicaid i save halpem. Plante privet helt insiuransi i no kavremap respite, be sam long-term care insiuransi plan i kavremap.
+**Hu i peim?** Olsem NIA i talem, ret blong famili, fren o volantia i save no kostem nating. Ol professinal sevis oli jajem long aoa o dei. Long man o woman we i stap resivim hospice keya, Medicare i kavremem plante long kost blong faev dei we i stap kontinu blong ret long wan hospital o wan skilled nursing facility. Medicaid i save helpem. Plante private helt insurance i no kavremem ret, be sam long-term care insurance plan i save.
 
-**Tip:** Alzheimer's Association i sajestem blong traem ol respite provaedas long wan non-emergency taem, blong oli redi sipos yu nidim halp kwiktaem.
+**Tip:** Alzheimer's Association i sagest se yu traem ol ret provaeda long taem we i no wan emergensi, blong oli redi sipos yu nid helpem long wan kwiktaem.
 
-## Wea mi save faenem halp klosap long mi?
+## Wea nao mi save faenem helpem klosap long mi?
 
-Sam fri US sevis i save talem yu wea blong faenem lokol halp.
+Plante fri sevis long US i save pointem yu long ol lokol helpem.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) i fri mo konfidensol, i gat man long wok long 24 aoa evri dei long yia, wetem halp long moa dan 200 langwis tru long bilingual staff o interpreta. Dialem 711 blong relay sevis. Yu save toktok abaot ol jenis fasin blong man, ol hevi blong caregiver, ol respite optin, ol lokol program mo moa, mo askem long wan longfala toktok wetem wan care konsaltant. Ol staff oli no givim medikol advaes.
-- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), wan pablik sevis blong Administration for Community Living, i konektem yu wetem ol sevis blong ol olfala man mo famili blong olgeta. Yu save kolem, sendem tekst, jat online o imelem ol staff we oli trening, o serem long lokasen. Hemi save talem yu long lokol Area Agency on Aging blong yu.
-- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) i helpem yu blong faenem respite provaedas long stet, mo i sajestem blong kontaktem State Respite Coalition blong yu o Lifespan Respite program fastaem sipos stet blong yu i gat wan. ARCH i talem se hemi no jekem ol provaedas, so yu mas jekem wok eksperiens mo bekgraon blong olgeta seleva.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) i fri mo konfidensol, i gat ol man i wok long 24 haoa evri dei long wan yia, wetem helpem long moa we 200 langwis, tru long ol staff we i save tu langwis o long ol interpreter. Dialem 711 blong relay sevis. Yu save toktok long ol jenis long bihevia, stress blong keya, ret opsen, ol lokol program mo moa, mo askem blong gat wan longfala toktok wetem wan care konsaltant. Ol staff oli no givim medikol adveis.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), wan pablik sevis blong Administration for Community Living, i konektem yu wetem sevis blong ol olfala man mo woman mo famili blong olgeta. Yu save kolem, tekstem, jat long ol-lain o imel ol trenem staff, o sej long ples. Hemi save pointem yu long Area Agency on Aging blong yu.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) i helpem yu blong faenem ret provaeda long stet, mo i sagest blong kontakem State Respite Coalition o Lifespan Respite program blong stet blong yu fastaem sipos stet blong yu i gat hem. ARCH i talem se hemi no jekem provaeda, so yu mas jekem seleva ol eksperiens mo bakgraon blong olgeta.
 
-## Hao mi save faenem wan sapot grup?
+## Hao nao mi save faenem wan grup blong sapot?
 
-Askem long Helpline o lukaotem long internet ol grup klosap long yu. Alzheimer's Association [i ranem ol sapot grup](https://www.alz.org/help-support/community/support-groups) blong caregiver mo man we gat dementia, long ples mo long online, we ol trening fasilitetas i lidim. Plante ples oli ofisa ol spesel grup tu, olsem blong ol adult caregiver o blong ol man we gat younger-onset o early-stage Alzheimer's. Hemi tu i holem ALZConnected, wan fri online komuniti wea ol caregiver oli sherem advaes.
+Askem long Helpline o lukim long internet ol grup klosap long yu. Alzheimer's Association [i ranem ol grup blong sapot](https://www.alz.org/help-support/community/support-groups) blong ol man we i lukaotem mo ol man o woman we i gat dementia, long fes-tufes mo long laen, we ol trenem fasilitetea i lidim. Plante ples oli givim tu ol spesel grup, olsem blong ol adult keyga mo blong ol man o woman we i gat younger-onset o early-stage Alzheimer's. Hemi tu i ranem ALZConnected, wan fri komuniti long laen we ol keyga i sherem advaes.
 
-Sapot grup i save kamap ples blong talem ol hevi we yu fil witaot ol man i jajem yu, katem ol prektikal tips from ol man we oli bin stap long sem situesen, mo fil smol lonli. Sipos fastaem grup i no fitim yu, traem narafala.
+Ol grup blong sapot i save kamap wan ples blong talem bigfala hevi wetem no jajem, kasem praktikal tips from ol man we oli bin stap long sem sitiueson, mo filim yu no stap lonli. Sipos fas grup i no fit long yu, traem narafala.
 
-## Hao mi askem famili mo ol fren blong givim halp?
+## Hao nao mi askem famili mo fren blong helpem?
 
-Be spesifik. Plante man oli wantem helpem be oli no save wanem blong ofarem. NIA i sajestem:
+Talem klia wanem yu nid. Plante man oli wantem helpem be oli no save wanem blong ofarem. NIA i sagest:
 
-- **Mekem wan lis** blong ol wok we ol narafala oli save tekemaot, mo letem ol man oli jusum.
-- **Statem smol** sipos askem i hard.
-- **Mekem wok i fitim man.** Kasin we i laekem kuk i kamap wetem dina long Tosde, neighbor we i gud wetem ol fom i halpem long ol pepa wok.
+- **Mekem wan lis** blong ol wok we ol narafala man i save tekem, mo letem man oli jusum.
+- **Stat smol** sipos askem i hard long yu.
+- **Mekem wok i fit wetem man.** Kasin we i laekem kukum i save brengem dinna long Tosde, neigba we i gud long fom i helpem long pepa wok.
 - **Tekstem o imelem** sipos i hard blong askem fes long fes.
-- **Praktisim wan ansa** blong taem wan i ofarem: "Tangkyu blong askem. Hemi wanem yu save duim."
-- **Expectem sam no** mo traem no taekem hem personal.
+- **Praktisim wan ansa** long taem we sam man i ofarem: "Tangkyu long askem mi. Hemi ol samting we yu save duim."
+- **Expektem sam nogat** mo traem no tekem hemi tumas long yu.
 
-Ol narafala aedia: askem wan man blong sidaon wetem man ia wan aftenun long wan wik, tekem hem long wan smol aotin, o visitim mo pleim wan gem togeta. [Gaed blong pleim togeta](/caregiving/how-to-play-together/) hemi isi blong sherem wetem ol visitor.
+Ol narafala aedia: askem wan man blong stap wetem man o woman we yu lukaotem wan aftenun long wan wik, tekem hem long wan smol trip, o visitim mo pleim wan gem togeta. [Gaed blong pleim togeta](/caregiving/how-to-play-together/) hemi isi blong sherem wetem ol visita.
 
-## Wanem sipos samting i hapen long mi?
+## Wanem sapos wan samting i hapen long mi?
 
-Mekem wan simpol plan blong bakap nao. NIA i sajestem blong disaedem wetem famili o klosfren hu bambae i kam stap, mo blong holem wan notbuk wetem emergensi nemba, medisin, tips blong bihevior we i wok, mo ol aktiviti we man i laekem. Alzheimer's Association tu i advaesem blong letem ol medikol kontakt blong man mo wan list blong medisin we i stap niu i isi blong faenem.
+Mekem wan smol bakap plan naoia. NIA i sagest blong disaed wetem famili o klos fren we bae i stap blong lukaotem, mo blong kipim wan buk we i gat ol emergensi namba, medisin, tips blong bihevia we i wok, mo ol aktiviti we i fevrit. Alzheimer's Association i sagest tu blong kipim ol medikol kontakt blong man o woman we yu lukaotem mo wan medisin lis we i stap rait i isi blong faenem.
 
-## Wanem taem mi mas kasem professional o urgent halp?
+## Wanem taem mi mas kasem professinal o emergensi helpem?
 
-Toktok wetem doctor blong yu sipos ol saen blong stress i stap oltaem, sipos yu fil sed nogud, o sipos yu hevi blong kasem. Talem doctor blong yu se yu wan caregiver. NIA i talem se ol kaonselo mo ol sosol woka i save halpem long ol hard fil mo long plan, mo se Medicare, Medicaid mo sam privet insiuransi i save kavremap sam cost blong mental helt.
+Toktok wetem dokta blong yu sipos ol stres saen i kamap oltaem, sipos yu filim yu sed, o sipos yu stap hard blong kavremem. Talem long dokta blong yu se yu wan keyga. NIA i talem se ol kawnsela mo ol sosol woka oli save helpem long ol hevi filing mo long plan, mo se Medicare, Medicaid mo sam private insurance i save kavremem sam kost blong helt blong tingting.
 
-Sipos yu fil long krisis o yu gat ol tingting blong harem yu seleva, kolem o sendem tekst long 988 blong kasem [988 Suicide & Crisis Lifeline](https://988lifeline.org/), we i fri mo i stap 24/7. Sipos wan man i stap long wan danger we i kam kwiktaem, kolem nomba emergensi long ples blong yu.
+Sipos yu filim yu stap long wan hevi taem o yu gat tingting blong skaremaot yu seleva, kolem o tekstem 988 blong kasem [988 Suicide & Crisis Lifeline](https://988lifeline.org/), i fri mo i opem 24/7. Sipos eniwan i stap long wan danger we i kam kwiktaem, kolem namba emergensi blong ples blong yu.
 
-## Ka ol shared aktiviti i save givim mi brik tu?
+## Ken ol samting we yufala i sheremap i givim mi brek tu?
 
-Samtaem. Wan kwaet aktiviti we yufala tu i enjoem i save kamap wan isi pat blong dei blong yu, olsem blong man we yu stap lukaotem: harem ol olfala song, lukim ol foto, o wan gem olsem [Conversation Cards](/games/conversation-cards/) we i no nidim ol rait ansa. Sipos man i laekem kampani, wan grup sesen wetem [Picture Bingo](/games/picture-bingo/) long wan senior senta o adult day program i save givim yu wan aoa blong rest. Lukim [ol aktiviti blong care home grup](/activities/care-home-groups/) blong ol aedia.
+Sam taem, yes. Wan kwaet aktiviti we yufala both i laekem i save kamap wan naesfala pat blong dei long yu olsem long man o woman we yu lukaotem: listenem ol olfala song, lukim ol fotu, o pleim wan gem olsem [Conversation Cards](/games/conversation-cards/) we i no nidim ol rait ansa. Sipos man o woman we yu lukaotem i laekem kampani, wan grup sesen wetem [Picture Bingo](/games/picture-bingo/) long wan senior senta o wan adult day program i save givim yu wan aua blong ret. Lukim [ol aktiviti blong care home grup](/activities/care-home-groups/) blong ol aedia.

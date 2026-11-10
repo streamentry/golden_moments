@@ -1,34 +1,34 @@
 ---
-title: "Actividatz de fiesta pa una persona con demencia, dende Thanksgiving en alante"
-seoTitle: "Idegas de fiesta y Thanksgiving pa la demencia"
-description: "Actividatz sencillas de fiesta pa una persona con demencia: feinas de cocina, decoración, musica, fotos y videollamadas, y cómo fer una celebración más tranquila."
+title: "Actividades de festas para persones con demencia"
+seoTitle: "Ideyas de festas y Nadal pa la demencia"
+description: "Actividades sinzillas de festas pa una persona con demencia: feinas de cocina, decorar, musica, fotos y videollamadas, y cómo planegar un Nadal más tranquilo."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Faiga las fiestas más chicas, más tempranas en o día y cerca d'a rutina
-  habitual d'a persona. Dele una feina real y segura, como poner a mesa,
+  Feiga las festas más chicas, más prencipio de o día y cerca de la rutina
+  habitual de la persona. Dele una feina real y segura, como poner a mesa,
   lavar verduras, envolver un regalo o colgar una decoración. Comparta musica
-  y fotos viellas, prepare a los invitatos con antelación y faiga una sala
-  tranquila. Faiga solo lo que pueda facer con calma; una celebración curta y
-  tranquila ye una buena.
+  conoxida y fotos viellas, prepare a los convidados con tiempo y tienga
+  preparada una sala tranquila. Faga solo lo que pueda llevar razonablement;
+  una celebración curta y tranquila ye una buena.
 keyPoints:
-  - "Celebre más temprano en o día, como un dinar o un almuerzo, si la confusión de a tarde ye frecuent."
-  - "Ofrezca feinas de verdat: poner a mesa, lavar verduras, envolver, decorar o emplatar o postre."
-  - "A musica familiar, los villancicos y los albumes de fotos viellas son maneras fáciles de compartir la temporada."
-  - "Diga a los invitatos qué esperar, y enseñe a la persona fotos de quién viene."
-  - "Faiga una sala tranquila con una manta o chaqueta favorita, y limite as visitas a unas pocas a la vez."
-  - "Evite todo lo que sea abrumador, incluidas las decoraciones que parezcan comida y las muitas luces parpadeantes."
+  - "Celebre antes de o día, con un almuerzo o brunch, si la confusión de la tarde ye común."
+  - "Ofrezca feinas reals: poner a mesa, lavar productos, envolver, decorar o emplatar o postre."
+  - "La musica conoxida, los villancicos y los albumes de fotos viellas son maneras faziles de compartir la temporada."
+  - "Diga a los convidados qué esperar, y amostre a la persona fotos de quién viene."
+  - "Prepare una sala tranquila con una manta o un chaquetón favorito, y limite las visitas a unas poquetas a la vez."
+  - "Evite cualquier cosa que abrume, incluyendo decoracions que parezcan comida y muitas luces intermitentes."
 faq:
-  - q: "¿Qué puede facer una persona con demencia en Thanksgiving?"
-    a: "Dele una feina sencilla y segura que encaixe con lo que puede facer hue: lavar verduras, remenar a salsa de arándanos, poner a mesa, doblar servilletas o poner los postres en un plato. Dimpués, miren fotos viellas de familia o canten canciones conoxidas chuntos. Formar parte d'o día importa más que cómo sale la feina."
-  - q: "¿Hemos de faser encara una gran reunión familiar?"
-    a: "Solo si ye manexable. Las multitudes y o ruido pueden ser abrumadores, asinas que muitas familias cambian a una reunión más chica y informal, a una comida más temprana, o a visitas en grupos pequeños. A Alzheimer's Association anima a los cuidadores a faser solo lo que puedan facer razonablement y con seguridat."
-  - q: "¿Cómo preparo a familiars que hace tiempo que no visitan?"
-    a: "Diga-lis antes de que lleguen qué cambios pueden notar, y que vienen d'a enfermedat, no d'a persona. Pida-lis que no corrixan ni pregunten, que hablen de uno en uno y que den tiempo pa responder. Enseñar a la persona fotos d'os invitatos con antelación tamién puede ayudar."
-  - q: "¿Qué regalos de fiesta van bien pa una persona que vive con demencia?"
-    a: "Cosas sencillas y seguras que pueda disfrutar agora: un tentempié favorito, una manta o chaqueta suave, musica conoxida, o un album de fotos de familia. Evite aparatos complicados, herramientas y juegos de mesa difíciles. Implicar-la en o regalar, como envolver un regalo o empaquetar galletas que ayudó a faser, puede ser un regalo en si mesmo."
+  - q: "Qué puede fer una persona con demencia en Nadal?"
+    a: "Dele una feina sinzilla y segura que se ajuste a lo que puede fer hue: lavar verduras, remenar a salsa d'arandanos, poner a mesa, doblar servilletas o poner los postres en un plato. Después, miren fotos viellas de familia o cantin canciones conoxidas chuntos. Formar parte d'o día importa más que cómo sale la feina."
+  - q: "Debemos fer igual una gran reunión familiar?"
+    a: "Solo si ye manejable. Las multitudes y o ruido pueden abrumar, asinas que muitas familias cambian a una reunión más chica y informal, una comida más temprana o visitas en grupos poquetos. L'Alzheimer's Association anima a los cuidadores a fer solo lo que puedan llevar razonablement y con seguridat."
+  - q: "Cómo preparo a la familia que no ha visto a la persona en bella temporada?"
+    a: "Dígales antes de llegar qué cambios pueden notar, y que estos vienen d'a enfermedat, no de la persona. Pídales que no corrixen ni pregunten, que hablen de uno en uno y que dexen tiempo pa contestar. Amostrar a la persona fotos d'os convidados con antelación tamién puede ayudar."
+  - q: "Qué regalos de festas convienen a una persona que vive con demencia?"
+    a: "Cosas sinzillas y segures que pueda disfrutar agora: un tentempié favorito, una manta o un chaquetón blan, musica conoxida o un album de fotos de familia. Evite aparatos electronicos complicaus, herramientas y juegos de mesa difíciles. Participar en o regalar, como envolver un regalo o empaquetar galletas que ayudó a fer, puede ser un regalo en si mesmo."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -41,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Las fiestas pueden traer recuerdos cálidos, y tamién ruido, multitudes y cambios en o día a día. Pa una persona con demencia, las mejores celebraciones suelen ser más chicas, más lentas y construidas en torno a cosas que todavía puede disfrutar. Estas ideas valen pa Thanksgiving, Nadal, Hanukkah, Año Nuevo y cumpleaños familiars.
+As festas pueden traer buenos recuerdos, pero tamién pueden traer ruido, multitudes y cambios en o día de cada día. Pa una persona con demencia, las mejores celebraciones suelen ser más chicas, más lentas y pensadas pa cosas que pueda disfrutar todavía. Estas ideyas valen pa Nadal, Año Nuevo, Hanukkah y los cumpleaños familiars.
 
-## ¿Cómo planifico una fiesta más tranquila?
+## Cómo planeo una festa más tranquila?
 
-Empiece por la rutina d'a persona y planifique o día alrededor d'ella. A [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggiere celebrar más temprano en o día, porque a confusión y a inquietut suelen crecer a la tarde y a nochizia (a veces llamado «sundowning»). Un dinar o almuerzo de fiesta puede ser más fácil que una cena tardana.
+Empiece por la rutina de la persona y planee o día a partir d'ella. La [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggiere fer la celebración más prencipio de o día, porque la confusión y la inquietud sovén crexer a la tarde y de nuey (a veces se denomina «sundowning»). Un almuerzo o brunch de festa pueden ser más fazil que una cena tardía.
 
-- **Mantenga o tamaño adecuau.** Una reunión más chica e informal, o invitatos que lleguen de uno en uno, suele ser más fácil que una mesa llena de chent.
-- **Reparta feinas.** Pida a parientes que traigan un plato, que compren o que pasen tiempo con la persona mientres cocina. Sea concreto sobre qué ayudaría.
-- **Mantenga las decoraciones sencillas.** A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) nota que las luces parpadeantes pueden ser confusas, y que los caramelos o la fruta artificial usada como decoración pueden confundirse con comida.
-- **Decida qué dexar.** Si una tradición se ha puesto estresante o arriscada, ye normal saltarla o probar una más tranquila.
+- **Mantenga o tamaño adecuau.** Una reunión más chica e informal, o convidados que lleguen de poquetos en poquetos, suele ser más fazil que una mesa atestada.
+- **Reparta feinas.** Pida a los parients que traigan un plato, que faigan a compra o que pasen tiempo con la persona mientres usted cocina. Sea concreto en o que ayudaría.
+- **Mantenga las decoracions sinzillas.** La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) advierte que las luces intermitentes pueden confundir, y que los caramelos o la fruta artificial usada de decoración pueden tomar-se por comida.
+- **Decida qué deixar.** Si una tradición se ha fecho estresant o arriscada, ye normal saltar-la u probar una más tranquila.
 
-## ¿Qué actividades de fiesta podemos faser chuntos?
+## Qué actividades de festas podemos fer chuntos?
 
-Escoja feinas y pasatiempos que encaixen con lo que la persona puede facer hue. Formar parte d'o día importa más que cómo sale.
+Escoya feinas y pasatiempos que se ajusten a lo que la persona puede fer hue. Formar parte d'o día importa más que cómo sale.
 
-1. **Pongan a mesa chuntos.** Pongan primero los platos, dimpués las servilletas y dimpués los vasos. Doblar servilletas ye una buena feina pa faser sentada.
-2. **Lavar y clasificar verduras.** Aclarar patatas o partir judías verdes en a mesa d'a cocina ye seguro y conoxido pa muitas personas que antes cocinaban.
-3. **Remenar, mesclar o emplatar.** Remenar a salsa de arándanos, amasar una masa sencilla o poner galletas en un plato mantiene las mans ocupadas lueñe d'o fuego y os cuchillos.
-4. **Envolver un regalo.** Tallen antes o papel y a cinta, y dexe que la persona doble y alise. Lo de envolver bien no ye o importante.
-5. **Colgar unas decoracions.** Escoja adornos que no se rompan y una zona pequeña, como una corona o un arbolico chiquito.
-6. **Faser una manualidat sencilla.** Cadenetas de papel, un collage de fuellas o una tarjeta de fiesta con sellos funcionan bien. A nuestra [guía d'artes y manualidatz](/activities/arts-and-crafts/) tiene más ideas.
-7. **Cantar y escuchar.** Los villancicos y las canciones de fiesta conoxidas son fáciles de acompañar, incluso pa alguien que hable menos agora. Vea a nuestra [guía de musica](/activities/music/) pa faser una lista de reproducción.
-8. **Mirar fotos viellas de fiestas.** Saque los albumes de celebracions pasadas e invite a contar historias («Háblame d'esta mesa») en vez de preguntar quién ye quién. A nuestra [guía de reminiscencia](/activities/reminiscence/) explica cómo.
-9. **Jugar a un juego de grupo suave.** El [bingo de fotos](/games/picture-bingo/) se imprime en minutos y sirve pa toda edat, y las [tarjetas de conversación](/games/conversation-cards/) dan a todos algo de qué charrar.
-10. **Pintar chuntos.** Unas [láminas pa colorear](/games/coloring/) sencillas se pueden imprimir pa que chicos y abuelos compartan en a mesa.
-11. **Ver una pellicula de fiesta favorita.** Una pellicula conoxida ye relajante, y ye normal ver solo una parte.
-12. **Dar un paseo curto en coche pa ver las luces.** Un paseo tranquilo por casas decoradas puede ser más fácil que un evento lleno de chent.
+1. **Pongan a mesa chuntos.** Ponga primero los platos, después las servilletas y luego los vasos. Doblar servilletas ye una buena feina pa fer sentada.
+2. **Lavar y triar verduras.** Aclarar patatas o trenchar judías verdes en a mesa d'a cocina ye seguro y familiar pa muitas persones que cocinaban antes.
+3. **Remenar, mezclar o emplatar.** Remenar a salsa d'arandanos, mezclar una masa sinzilla o poner galletas en un plato mantiene as mans ocupadas, lueñ d'o fogón y d'os cuitiellos.
+4. **Envolver un regalo.** Tenga cortat o papel y a zinta, y deixe que la persona doble y alise. Envolver con pulcritut no ye o importante.
+5. **Colgar unas poquetas decoracions.** Escoya bolas que no se rompan y una zona chicota, como una corona o un arbolico chico.
+6. **Fer una manualidat sinzilla.** Cadenas de papel, un collage de fuellas o una tarjeta de festas con sellos funcionan bien. Nuestra [guía de artes y manualidades](/activities/arts-and-crafts/) tiene más ideyas.
+7. **Cantar y escuchar.** Los villancicos y las cancions de festas conoxidas son fazibles de cantar, incluso pa quien habla menos agora. Vea nuestra [guía de musica](/activities/music/) pa fer una lista de reproducción.
+8. **Mirar fotos viellas de festas.** Saque albumes de celebraciones pasadas y convide a contar historias («Cuénta-me d'esta mesa») en cambio de preguntar quién ye quién. Nuestra [guía de reminiscencia](/activities/reminiscence/) explica cómo.
+9. **Jugar a un juego de grupo sosegau.** [El bingo de imáxenes](/games/picture-bingo/) se imprime en minutos y vale pa toz las edaz, y las [tarchetas de conversación](/games/conversation-cards/) dan a toz algo de qué charrar.
+10. **Colorear chuntos.** Las sinzillas [pachinas pa colorear](/games/coloring/) se pueden imprimir pa que los chicos y los güelos las compartan en a mesa.
+11. **Veyer una película de festas favorita.** Una película familiar ye relaxant, y ye normal veyer-ne solo una parte.
+12. **Fer un viache curtito pa veyer las luces.** Un paseo tranquilo en coche por casas decoradas puede ser más fazil que un evento con gent.
 
-Si cocinar era una gran parte d'a vida de la persona, a nuestra guía de [feinas d'o fogar como actividatz](/activities/household-tasks/) tiene más maneras de faser as feinas de cocina seguras y satisfactorias.
+Si cocinar ha sido una part grande d'a vida de la persona, nuestra guía de [feinas d'a casa como actividades](/activities/household-tasks/) tiene más maneras de fer las feinas de cocina seguras y satisfactorias.
 
-## ¿Cómo preparo a los invitatos?
+## Cómo preparo a los convidados?
 
-Diga a los invitatos qué esperar antes de que lleguen, sobre todo a parientes que hace tiempo que no visitan. A Alzheimer's Association suggiere explicar que los cambios en a memoria y o comportamiento vienen d'a enfermedat, no d'a persona.
+Diga a los convidados qué esperar antes de llegar, sobre todo a los parients que no han visitau a la persona en bella temporada. La Alzheimer's Association suggiere explicar que los cambios en a memoria y en o comportamiento vienen d'a enfermedat, no de la persona.
 
-- **Comparta unos consellos sencillos:** hablar de uno en uno, dar tiempo pa acabar una idea, no corrixir ni preguntar, y responder o tono d'a persona si las palabras son difíciles de seguir.
-- **Diga qué ayuda y qué altera.** Si las voces altas, las prisas o ciertos temas causan angustia, diga-lo.
-- **Presente a los invitatos con antelación.** Enseñe a la persona fotos de quién viene y comparta una historia o dos, o faiga una llamada o videollamada curta antes d'o día.
+- **Comparta unos consellos sinzillos:** hablar de uno en uno, dar tiempo pa acabar una idea, no corrixer ni preguntar, y responder o tono de la persona si las palabras cuestan de seguir.
+- **Diga qué ayuda y qué altera.** Si las voces altas, las prisas o ciertos temas causan angustia, digalo.
+- **Presente a los convidados con antelación.** Amostre a la persona fotos de quién viene y comparta una historia u dos, o prepare una llamada curta por teléfono o videollamada antes d'o día.
 
-Nuestros [consellos de comunicación](/caregiving/communication-tips/) explican más en detalle.
+Nuestros [consellos pa comunicar-se](/caregiving/communication-tips/) entran en más detalle.
 
-## ¿Qué pasa si se pone demasiau?
+## Qué fer si se fa demasiado?
 
-Prepare una sala tranquila antes de que lleguen los invitatos, lueñe d'o ruido, con cosas de confort conoxidas como una manta o chaqueta favorita, o una actividat sencilla. Ofrézcalo pronto y a menudo: «¿Nos sentamos en un sitio más tranquilo un ratico?»
+Prepare una sala tranquila antes de que lleguen los convidados, lueñ d'o ruido, con objetos de consuelo conoxidos como una manta favorita, un chaquetón o una actividat sinzilla. Ofrézcalo pronto y a menudo: «¿Nos sentamos en un sitio más tranquilo un rato?»
 
-Salir d'a mesa, acostar-se pronto o saltar parte d'o día ye un buen resultau, no un fracaso. Si la persona se altera, una voz tranquila, una canción conoxida o un paseo a otra habitación suelen ayudar más que razonar. Nuestra guía sobre [inquietut a la tarde](/caregiving/late-day-restlessness/) tiene más ideas pa las nueches.
+Levantar-se d'a mesa, ir a dormir pronto o saltar parte d'o día ye un buen resultau, no un fracaso. Si la persona se altera, una voz tranquila, una cancion conoxida o pasar a otra habitación suelen ayudar más que razonar. Nuestra guía sobre [la inquietud de la tarde](/caregiving/late-day-restlessness/) tiene más ideyas pa las nuechas.
 
-## ¿Cómo puede tomar parte a familia lueñe?
+## Cómo puede participar la familia lluenya?
 
-Las videollamadas dexan que los parientes se unan sin sumar-se a la multitud. A Alzheimer's Association suggiere dar a las llamadas una estructura, por ejemplo cantar canciones de temporada, compartir fotos de reuniones pasadas, cocinar a mesma receta chuntos o ver una pellicula de fiesta a la vez. Faiga las llamadas curtas, y pida a la chent que hable de uno en uno, ya que es difícil seguir las conversacions cruzadas. Nuestra [guía de llamadas y videollamadas](/activities/phone-and-video-calls/) tiene ideas paso a paso.
+Las videollamadas permiten que los parients se unan sin sumar-se a la multitud. La Alzheimer's Association suggiere dar a las llamadas una mica de estructura, por ejemplo cantar cancions de temporada, compartir fotos de reuniones pasadas, cocinar la misma receta a la vez o veyer una película de festas al mesmo tiempo. Faiga las llamadas curtas y pida a la gent que hable de uno en uno, porque es difícil seguir cuando se charra toz a la vez. Nuestra [guía de llamadas telefónicas y videollamadas](/activities/phone-and-video-calls/) tiene ideyas paso a paso.
 
-Si la persona vive en una unitat de memoria, mire la norma de visitas y pida al personal que le ayude a organizar una llamada. Nuestra guía de [visitar a alguien en una unitat de memoria](/activities/visiting/) cubre qué traer y cómo despedir-se bien.
+Si la persona vive en una residencia con unidat de memoria, consulte la norma de visitas y pida al personal que ayude a preparar una llamada. Nuestra guía de [visitar a alguien en una unidat de memoria](/activities/visiting/) explica qué llevar y cómo despedir-se bien.
 
-## ¿Qué regalos van bien pa una persona con demencia?
+## Qué regalos convienen a una persona con demencia?
 
-Regalos sencillos y seguros que pueda disfrutar agora tienden a funcionar mejor: un tentempié favorito, una manta o chaqueta suave, musica conoxida, un calendario de letra grande o un album de fotos de familia. La Alzheimer's Association aconseja evitar herramientas peligrosas, aparatos complicados y juegos de mesa difíciles.
+Los regalos sinzillos y segures que pueda disfrutar agora son los que mejor funcionan: un tentempié favorito, una manta blana o una rebeca, musica conoxida, un calendario de letra grande o un album de fotos de familia. La Alzheimer's Association aconseixa evitar herramientas peligrosas, aparatos electronicos complicaus y juegos de mesa difíciles.
 
-Dar puede importar tanto como recibir. Empaquetar galletas que la persona ayudó a faser, o dexar que envuelva un regalo que vusté compró, le permite tomar parte en a temporada. Otra idea ye un juego de fotos de familia: las [parejas de fotos](/games/photo-pairs/) convierten unas fotos escogidas en un juego de emparejar suave en o navegador.
+Dar puede importar tanto como recibir. Empaquetar galletas que la persona ayudó a fer, o pedirle que envuelva un regalo que usted ha comprau, le permite tomar parte en la temporada. Otra idea ye un juego de fotos de familia: [las parellas de fotos](/games/photo-pairs/) convierte unas fotos escoyidas en un juego de emparellar sosegau en o navegador.
 
 ## Cuide-se tamién
 
-Las fiestas suman trabajo a la asistencia. Deixe que alguien más organice la cena o cocine o pavo, diga que no a eventos que vayan a ser difíciles, y tome descansos mientres otros pasan tiempo con la persona. Si vusté o la persona que cuida está mala, un saludo desde o camino d'entrada o una videollamada son una visita perfectamente buena. Nuestra guía de [autocuidau d'o cuidador](/caregiving/caregiver-self-care/) tiene más apoyo.
+Las festas suman feina a los cuidados. Deixe que otra persona acoya la reunión o cocine o pavo, diga que no a los eventos que serán duros y tome descansos mientres otros pasan tiempo con la persona. Si usted o la persona que cuida no se encuentran bien, un saludo desde o camino de entrada o una videollamada son una visita perfectamente valida. Nuestra guía de [autocuidau pa cuidadores](/caregiving/caregiver-self-care/) tiene más apoyo.

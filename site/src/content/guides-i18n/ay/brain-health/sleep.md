@@ -1,34 +1,32 @@
 ---
-title: "Samaraña ukat amuyu hampi: yatiqañanaka ukat yanapt'awinaka"
-seoTitle: "Samaraña ukat demencia: kunsa yatiqañanakax uñacht'ayi"
-description: "Yatiqañanakax samaraña ukat demencia ukan tuqi kunsa uñacht'ayi, amuyu jukhunakan jiwañ mayjt'aña ukat jaqinakan ukat ch'uyuchirinakan samarañ thakhinakax."
+title: "Samaña ukat amuyu wali: kunsa yatiñanakax yatiyi"
+seoTitle: "Samaña ukat demencia: kunsa yatiñanakax yatiyi"
+description: "Yatiñanakax yatiyi samaña ukat demencia uñtasiñ manq'aña, amuyu jiwayasiñ qhanañchawi ukat jichhürunakan samañ thaki jaqinakatak ukat jaqichirinakatak."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Mayni jaya pachanakan yatiqañanakax samaraña jan wali jakañ tuqita demencia jukhu ukan tuqi
-  uñt'ayapxi, ukat laboratorio yatiqañanakax samaraña amuyu ukat jiwañ jaytañ yanapt'iwayi
-  uñt'ayapxi. Ukax jani sayt'añ ukat yatiqañax qalltaskiwa, ukat 2024 Lancet Commission
-  yatiqirinakax samaraña janiw jukhunakan jiwañ mayjt'aña yatiqañ ukhamarak uñacht'ayapkiti.
-  Sañ samaraña thakhinakax uru jakañ ukan amuyu ukat sipansa lurañanakar yanapt'i. Demencia
-  jukhunakan samarañ jan wali ukax sum uñjatawa, ukat doctor jiwasa kunjamatejj parlañax
-  wali sum.
+  Walja suma yatiñanakax yatiyi jaya pacha samañax ch'iqa utjañat demencia uñtasiñ jaktawi, ukat
+  laboratorio yatiñanakax yatiyi amuyu uma jaqukasiñ ukat wañchukasiñ. Ukax jichhürunakax ch'iqa
+  yatiñawa, ukat 2024 Lancet Commission yatiñirinakax samañ janiw jaktañ thaki uñjañ utjkiti. Walja
+  samañ thakinak jichhürunakan sapa uruna sum sartañataki yanapaski. Demencia utjirinakan samañ
+  jan walinakax walja utjaraki, ukat doctor jiwasaru yatiyañax wali.
 keyPoints:
-  - "Mä UK yatiqañax 8,000 jaqinak 25 maranak uñjaskiwa, ukat jupanakan jaya pachanakan 6 ora jan ukax juk'a samarañax demencia tuqi jan wali suytañ uñt'ayi."
-  - "Samarañ jan wali lurañanakax demencia qalltaski ukhax uñt'ayañaw utjaspa, ukatwa kuna mayjt'añ ukat kuna mayjt'ayi ukhamarak amuyañ jukhuwa."
-  - "Samaraña amuyu ukat beta-amiloide jiwañ ukhamarak sipansa ch'iyaranak ukhamarak yatiqañaxa chiqa ukat qalltaskiwa, walja ukax ratonanakan uñjatawa."
-  - "Samaraña apnea ukax walja jaqinakan utjaskiwa, yanapt'asiñ puedi ukat yatiqañanakan demencia ukan tuqi uñt'ayatawa; wali isi jiwañ ukat uru jaqsuñ samarañax uñjañ wali."
-  - "Janipuniw doctor jan parlasipkaspa samarañ tuqi yuqallañ, sayt'añ jan ukax lurañ mayjt'añ ukatuqi."
+  - "Ruta Unidos yatiñanakax 25 maranakan 8,000 jaqinak uñjasa, samaña 6 horas jan ukax akatjama jaya pacha samañ ukax demencia ch'iqa utjañ jaktawi."
+  - "Samañ jan walinakax demencia qalltat uñjañ ukhamarak utjaraki, ukhamasa kunatix mayjt'ayi ukat kunatix mayjt'ayatäki jan yatiñkiti."
+  - "Samañat amuyu umat beta-amiloide aptañax chiqa ukat qalltawa, walja ukax lab uywanakan (ratonanakan) uñjatawa."
+  - "Samañ apnea (samañ sañ ch'usaña) walja utjaraki, ukat estudionakan demenciaru mayjt'ayatawa; jan jach'a jach'a surasiña ukat urux samaña jaqukasiñax uñjañ wali."
+  - "Janiw samañ sanjaqiñ ukat samañ aljañ kunatix jan doctor jiwasaru yatiyañkama, ni qalltañ ni tukuyañ."
 faq:
-  - q: "¿Jan wali samaraña Alzheimer utjañ ukaxa?"
-    a: "Ukax janiw uñacht'ayatäkiti. Mayni yatiqañanakax jan wali samaraña demencia tuqi uñt'ayapxi, ukampis demencia pachpa samarañ jaqichaskiwa, walja mara ukan ukhax uñt'ayañ sipansa. 2024 Lancet Commission yatiqirinakax yatiqañanakax janiw chiqa ukat jukhunakan jiwañ mayjt'aña ukat samaraña janiw ukhamäkiti sasaw uñt'ayapkiti."
-  - q: "¿Kuntix jaya pachanakan jaqinakax samañapawa?"
-    a: "National Institute on Aging yatiqirinakax sapxi, jaya pacha jaqinakax jilïrinakjam 7 ukat 9 ora uru samañapawa. Walja jaqinakax sipansa jaya pacha kunapachatix nayra pacha jani jaqsuñ jan ukax jaqsuñ, ukax wali sum."
-  - q: "¿Kunatsa demencia jaqix uruw samarañ ukat arumanjan jaqsuñ?"
-    a: "Demencia ukax jaqin ch'ichi jaqsuña mayjt'ayi, ukatwa samaraña ukat jaqsuña mayjt'ataraki. Janchi, jan sarnaqañax, yarkañax jan ukax medicina lurañanakax ukhamarak yanapt'apxi. Sikuqinakan kulliri, lurañanaka ukat sapa uru jisk'a amparan ukax yanapt'apxi. Doctor ukax janchinakan jan wali ukax uñt'añ puedi."
-  - q: "¿Samaraña yanapt'awi uñjañ jaqix churañaw?"
-    a: "Nayraqatanxa doctor ukaru parlañ, mayninakas farmacia ukan jan doctor churañanakat ukhamarak. National Institute on Aging sapxi, mayni samaraña medicinanakax jaqinakan Alzheimer ukan mayjt'ayañ ukax jan wali ch'iyañ, lurañ ukat yatiñ jan utjañ puedi."
+  - q: "¿Ch'iqa samañax Alzheimer ukar puriyasiñ?"
+    a: "Janiw uñacht'ayatäkiti. Walja yatiñanakax yatiyi ch'iqa samañ demencia ch'iqa utjañ jaktawi, ukampis demenciax pachpa samañ jaqukasi, walja mara sartkipana diagnóstico. 2024 Lancet Commission yatiñirinakax jan chiqa yatiñanakampi samañ jaktañ thaki uñjañ janiw utjkiti sasaw uñjapxi."
+  - q: "¿Kunas jaya pacha samaña?"
+    a: "National Institute on Aging yatiñirinakax yatiyi jaya pacha jaqinakax kunaymana samaña jaqinakaki, 7 ukat 9 horas uruna sasaw. Walja jaya pacha jaqinakax jisk'a qhipat lawpuñ ukat jisk'a uru sarañ qalltapxi, ukax wali."
+  - q: "¿Kunatsa demencia jaqix urux samaski ukat arumax jaytkaski?"
+    a: "Demenciax jaqin pachpa samañ pachap jaqukaski, ukhamasti samaña ukat jaytañ pacha jaqukasi. Llakisiña, aburrisiña, phiñasiña jan ukax medicina ch'uxñatanakax yanapaski. Inti k'ana, sapa uruna lurañanaka ukat jisk'a arumat sarañanaka walja yanapaspawa. Doctor jiwasax janchin jaqichañanak thaki uñjañ utjaraki."
+  - q: "¿Uñjasiñ jaqi samañ yanapañataki samañ medicina churañ?"
+    a: "Jumax walja doctor jiwasampi yatiyañ sapa, sapa mayni farmacia uywatanakax. National Institute on Aging yatiñirinakax yatiyi, Alzheimer utjirinakan samañ medicinanakax jisk'a jaytañ, jaytasiña ukat llakisiña jaktayi."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -59,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Samaraña ukat amuyu hampi jakhuntasiñapuniwa, ukampis kunjamatix jakhuntasipki ukax janiw ukxa yatiñ muspharkaskiti. Mayni yatiqañanakax jan wali samaraña demencia tuqi uñt'ayapxi. Demencia pachpax samarañ jaqichi walja kuti. Akax kuna yatiqañanakas uñacht'ayi ukat kunas janiw uñacht'ayiti uñt'ayi, sapa jaya pacha yanapt'awinaka ukhamarak yatiñanak uñacht'ayi, ukat samaraña jan wali uñt'ayañ jiwasa doctor ukar parlañ wali. Akax samaraña thakhinak ukat jaya pacha yanapt'awinak tuqi parlaski.
+Samaña ukat amuyu wali chiqpachansa mayacht'asipxi, ukampis kunjamasa mayacht'asipxi ukax jichhürunakax yatiñ sarnaqapxi. Walja yatiñanakax yatiyi ch'iqa samañax demencia ch'iqa utjañ jaktawi. Demenciax pachpa samañ jaqukasi. Jichha qillqatax kunsa yatiñanakax yatiyi ukat kunsa janiw yatiyiti ukanak uñacht'ayi, samañ thakinak yatiyi, ukat demencia utjirinakan jan walt'äwinak samañ jaqukasi. Samañ medicinanakat parlañax janiw utjkiti; ukax doctor jiwasampi parlañawa.
 
-## ¿Jan wali samaraña demencia tuqi utjaspati?
+## ¿Samaña jan walinakax demenciampi mayacht'asiñapa?
 
-Mayni jaya pachanakan yatiqañanakax jan wali samaraña demencia jukhu ukan tuqi uñt'ayapxi, ukampis yatiñax janiw chiqa ukat jan sayt'ayañ utjkiti.
+Walja jaya pacha yatiñanakax yatiyi ch'iqa samañax demencia ch'iqa utjañ jaktawi, ukampis yatiñax janiw chiqa sasaw sayañkiti.
 
-- **25 maranak UK yatiqaña.** Yatiqirinakax 8,000 jaqinak Whitehall II yatiqañ[ukan](https://www.nature.com/articles/s41467-021-22354-2) uñjapxi. Jaqinakax 50 jan ukax 60 maranakan 6 ora jan ukax juk'a samaraski ukanakax, 7 ora samaraski ukanakat sipansa, qhipa pachan demencia jukhu ukan tuqi jan wali uñt'ayatänwa. Jaqinakax 50, 60 ukat 70 maranakan 6 ora jan ukax juk'a samaraski ukanakax, 7 ora sapa uru samaraski ukanakat 30% jukhu sipansa jan wali uñt'ayatänwa. Akax uñjañanakan yatiqañ utjatawa, ukatwa mä jukhu uñt'ayi, mä kuna utjañ ukhamäkiti.
-- **Lancet Commission amuyu.** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) yatiqirinakax samaraña janiw 14 jukhu mayjt'ayañ jaqinakan lista ukan churañapkiti. Jupanakax yatiqañanakax janiw wali chiqachki sasaw uñt'apxi. Mä jukhux “mayjt'ayañ qhipa jukhu”: demencia amuyu mayjt'añanakax diagnóstico qalltañat walja mara nayrankapxi, ukat samaraña jaqichapxi. Mä jach'a yatiqañan, samaraña juk'a juyphi jan wali ukax qalltat 5 maranak ukanak jan utjkataynati ukhax, jukhu tuqi jaqsuñ jan utjkänwa.
+- **25 maranakan Ruta Unidos yatiñawa.** Yatiñirinakax 8,000 jaqinak uñjasa [Whitehall II yatiñanakan](https://www.nature.com/articles/s41467-021-22354-2). 50 jan ukax 60 mara jaqinakax samaña 6 horas jan ukax akatjama samasa, nayrax demencia ch'iqa utjañ jaktasa, 7 horas samasirinakat sipansa. 50, 60 ukat 70 maranakan 6 horas jan ukax akatjama samasirinakax, 7 horas sapa uruna samasirinakat sipansa, 30% ch'iqa demencia utjañ jaktapxi. Ukax uñjañ yatiñawa, ukhamasti mayacht'añ uñacht'ayi, janiw mayjt'ayañ uñacht'ayiti.
+- **Lancet Commission yatiñirinakan amuyu.** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) yatiñirinakax samañ 14 jaktañ thaki uñjañ utjki lista ukar janiw churkiti. Jan chiqa yatiñanakax utjatapxi sasaw uñjapxi. Maya mayjt'ayawi "jaytan mayjt'ayaña": demencia ukan amuyu jaqukasiñax maya mara sarañ nayraqatapa, ukat samañ jan walt'ayi. Walja jach'a yatiñanakan, jach'a samañ demencia ukamp mayacht'asiñax jan utjkiti, nayra pusi mara uñjañ uñt'atäki ukhaxa.
 
-Ukhamasti uru jisk'a samarañ ukax janiw jan wali kuntix jiwasan suytaña. Sum ukat chiqa samaraña ukax yanapt'apxi, amuyu, sum sarnaqaña ukat jichhürux suma.
+Ukhamasti jisk'a samaña mayni jisk'a uru jan walt'awa sasaw jan llakisiñamäkiti. Sapa uruna wali samaña amuykipañax wali, ukax jichhürunakan sarañ, amuyu ukat jan kuna pachanakan jaytañ yanapaski.
 
-## ¿Kunsa “amuyu mayjt'aña samaraña” yatiqañax uñacht'ayi?
+## ¿Kunas "amuyu uma qhaliñ" samañ yatiñax sasa?
 
-Samaraña amuyu mayjt'ayi sasaw yatxapxäta, ukax chiqa yatiqañat utjaspa, ukampis qalltaskiwa.
+Sañ istaʼtapxtawa samañax amuyu "qhaliñ" sasaw, ukax chiqa yatiñat juti, ukampis qalltatawa.
 
-- **Ratonanakan.** 2013 yatiqaña [NIH uñacht'ayi](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) sasaw uñt'ayi, ratonanaka samarkipkäna ukhax amuyu ch'iyanakan ch'ankhanakapa 60% jukhu sipansa jach'achapxi. Yacha amuyu ukan glymphatic sistema uñt'atapxi. Beta-amiloide, Alzheimer ukan jukhuna, samaraski ratonanakan amuyu ukat mayjt'ayatäpxi.
-- **Jaqinakan.** Mä juk'a [2018 yatiqaña](https://www.pnas.org/doi/10.1073/pnas.1721694115) 22 ukat 72 maranak ukan 20 jaqinak uñjapxi, jupanakax sum samarkipxi ukat janiw samarkipkiti ukhax. Janiw samarkipkäna ukax, beta-amiloide señal amuyu ukan 5% sipansa jach'achaski, hipocampo ukan, uñt'añ amuyu chiqapach. Yatiqirinakax akax nayra uñt'awiwa sapxi. Janiw yatipkiti samaraña qhipa ukax jaysiki jan ukax amiloide lurañ jach'achañkiti.
-- **Kimsa thakhinakan.** Lancet Commission sapxi, amiloide jaqsuñax jaya pacha jaqinakan samaraña jan wali lurañ puedi.
+- **Ratonanakan.** 2013 maranakan yatiñax [NIH uñacht'äwi](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ukan uñjatawa, ratonanakax samasipkäna ukhaxa, amuyu lakanakan jiwaspa ukax 60% ch'iqa tukuyatawa. Uma amuyu uma jiwasan sarañ nayraqat uñjatawa, glymphatic system sasaw sapxi. Beta-amiloide, Alzheimer ukamp mayacht'asi proteína, samasirin ratonanakan amuyu umat jisk'a jaytatawa.
+- **Jaqinakan.** 2018 maranakan jisk'a yatiñax [estudio](https://www.pnas.org/doi/10.1073/pnas.1721694115) ukan 22 ukat 72 mara jaqinak uñjatawa. Wali samasa ukat jan samasa uru ukanakan amuyu uñjañ máquina uñjatawa. Jan samasa uru qhipat, amuyu uñjañ señal beta-amiloide ukan 5% sarakiwa, hipocampo sasaw sapki chiqana, uñjañat yanapaski. Yatiñirinakax sapxi ukax nayra yatiñawa. Janiw yatipkaspati samaña qhipat tukuyasi sasaw, jan ukax ch'iqa amiloide luratapxi sasaw.
+- **Mayni thaki sarañ.** Lancet Commission yatiñirinakax sapxi, amiloide jaqukasi samañ jan walt'ayi jaya pacha jaqinakan.
 
-Akanakax uñt'ayapxi kuna layku yatiqirinakax samaraña yatiñ munapxi. Ukampis janiw uñacht'ayapkiti sum samaraña Alzheimer jan utjañ puedi sasaw.
+Ukanakax uñacht'ayapxi kunatsa yatiñirinakax samañ yatiñ munapxi. Janiw uñacht'ayapkiti walt'a samañax Alzheimer jaytañ sasaw.
 
-## ¿Kuna samaraña thakhinakax yanapt'apxi?
+## ¿Kuna samañ thakinakas yanapaspa?
 
-National Institute on Aging (NIA) yatiqirinakax sapxi, jaya pacha jaqinakax 7 ukat 9 ora samarañapawa, jilïrinakjam. [NIA uñt'ayawinakan](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) akanakax:
+National Institute on Aging (NIA) yatiñ uñacht'äwi ukat [NIA](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) sapxi, jaya pacha jaqinakax 7 ukat 9 horas samañ munapxi, jaya jaqinakjama. Amuyunakax:
 
-- **Mä chiqa uru sarnaqaña.** Sapa uruw chiqa pachan jaqsuñ ukat sartañ, qhipa uruspas.
-- **Ch'ichi sarnaqaña lurañ.** Samaraña sarañ mayni ch'uyu jiwasa arsuña jan ukax wali sum jaqsuña.
-- **Samarañ uta suma lurañ,** janiw jach'a jan ukax jisk'a jaqsuñ.
-- **Tardeñ ukan kafe juk'ampi.** Kafe, té, soda ukat chocolate jaqsuyi.
-- **Alcohol jan ukat.** Juk'a ukhamarak, NIA sapxi.
-- **Jach'a manqhanakat jan ukax juk'a umanak 2 ukat 3 ora samarañ nayrar.** Ukat qhipa ukar umanakat jan.
-- **Sapa uru lurañ, samaraña nayrar 3 ora jan ukat.** Uñt'añ [lurañ yatiqaña](/brain-health/exercise/).
-- **Pantalla uta mantañ.** NIA sapxi, uta ukan TV ukat computadora, celular ukat tablet jan ukat.
-- **Tardeñ jan ukat qhipa ukhan samarañ jan ukat**, yanapt'asiñ puedi ukhax.
+- **Sapa uruna sarañ thaki.** Sapa uruna jaypacha samaña, sapa uruna jisk'a uruna sartaña, jach'a uruna samañ ukat jisk'a uruna.
+- **Samañ sarañ thaki.** Lläka, sut'a samaña jaqukasiña ukat jaya ch'uxña sarañ.
+- **Sapa wali samaña cuarto.** Janiw jach'a q'uma, janiw jisk'a q'uma.
+- **Kafeína jisk'a uru jan ukat jaqukasiña.** Kafe, té, soda ukat chocolate jan samañ jaqukasi.
+- **Alcohol jan ukat ch'uxñaña,** jisk'a jan ukat jisk'a uru, NIA sapxi.
+- **Jisk'a jan ukax jach'a manqhampi jan manq'añ, samaña 2 jan ukat 3 horas nayrat.** Jisk'a ukat jach'a umanakax uru qhipat jan umañ.
+- **Sapa uruna lurañ, ukampis samaña 3 horas nayrat jan lurañ.** Uñjañ [lurañ yatiñawi](/brain-health/exercise/).
+- **Pantalla cuarto manqhan jan churañ.** NIA sapxi, cuarto manqhan TV, computadora, teléfono ukat tablet jan uñjañ.
+- **Jisk'a uru jan samañ jan ukax jisk'a samaña nayrat ch'iqa jan samañ,** sapa jaqinakax yanapaski.
 
-## Demencia ukan samaraña jan wali
+## Demencia utjirinakan samaña jan walinakax
 
-Samaraña jukhunakax demencia ukan walja utjapxi. [NIA uñt'ayi](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) akanakax: walja jan ukax juk'a samaraña, samarañ tuqi walja kuti jaquntaña, ukat uru manqha samaraña. Ukhamarak sundowning ukax uñacht'ayi: jan ukax suyt'asiña, jan amuyasiña jan ukax jan sum amuyasiña, urux jaqsuñ qalltañ jan ukax jukhuñ.
+Demencia utjirinakan samañ jaqukasiñax walja utjaraki. [NIA uñacht'ayi](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sapxi, walja samañ, jisk'a samañ, samaña walja jaqukasi ukat uru jisk'a samañ. Ukat sundowning sasaw uñacht'ayi: jaqi jaypacha jaqukasi, llakisiña jan ukax amuyu jan jaqukasi, inti jisk'ayaski ukhaxa.
 
-NIA ch'uyuchirinakan yanapt'awinakapa:
+NIA yatiñirinakan caregiver yanapañanak:
 
-1. **Uru ukat lurañ nayrar.** Uru jaqsuñ jan ukax sarañ ukhamarak aka ch'amampi uñtasiñ, sapa uru jaqinakax lurañ. Ch'amampi uru ukax jaya pacha uñt'ayañ yanapt'i.
-2. **Walja lurañanakat uru nayrar.** Uru nayrar pichañ jan ukax taqi manqha jach'a manqha.
-3. **Juk'a samaraña ukat nayra pacha.** Tardeñ juk'a samaraña jan lurañ.
-4. **Tardeñ ukat jisk'a ch'uyu.** Lupi juk'ayañ, arunak juk'ayañ, jaqinakax wali munañ ukat ch'uyu uru uñt'añ. [Tardeñ jan sum sarnaqaña](/caregiving/late-day-restlessness/) yatiqañ ukanak.
-5. **Chiqa samarañ sarnaqaña.** Mä ch'uyu parlañ, sapa tardeñ mismo pacha. [Sapa uru sarnaqaña](/activities/daily-routine/) yanapt'i.
-6. **Kafe ukat alcohol jisk'a.**
-7. **Luz jisk'a lurañ** uta, sala ukat baño ukan.
+1. **Uru ukat lurañ qalltata.** Uru jaqukasi jan ukax qhana ch'iyar uñjañ sarañ, jaqinak sapa uruna lurañ yanapt'a. Qhana inti ukax janchi ukar jaytañ yanapaski.
+2. **Sum lurañanak uru qalltata.** Uru jaqukasi t'ukuñ jan ukax jach'a manq'a uru jaqukasi.
+3. **Jisk'a jan ukax jisk'a samaña.** Qhipa uru jisk'a samañ jan ukat.
+4. **Qhipa uru jach'a jan ukat sut'a.** Qhana ch'iyar jisk'ayaña, jisk'a jaqukasiña ukat jaqinak munaski ukhaxa samaña sayaña. [Qhipa uru llakisiña](/caregiving/late-day-restlessness/) yatiñawi walja amuyunakani.
+5. **Sapa uruna samaña sarañ thaki.** NIA sapxi, sapa uruna jaypacha ch'uxña uru jaqukasiña. [Sapa uruna lurañ](/activities/daily-routine/) ukax yanapaski.
+6. **Kafeína ukat alcohol jisk'a jan ukax jan.**
+7. **Luz jisk'a uñjañ ukat cuarto, pasillo, baño manqhan.**
 
-Uru manqha jaqsuñ ukatakix, NIA [uta seguridad yatiqañanakas](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) sapxi: luz jan ukax sensores, baño ukan agarradores, qala uñt'añ cinta, ukat medicinanakax chhaq'a uta ukan imañ.
+Uru jaqukasiñataki, NIA [utjaña yatiñanakax](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) sapxi: luz jisk'a uñjañ jan ukax sensor, baño manqhan agarradores, escalera ch'uxña kuna ch'uxña cinta, ukat medicinanak cerrado uñjañ.
 
-Tardeñ jisk'a, ch'uyu lurañ yanapt'apxi jumanakar ukat jaqinakar samarañ. Jumanakax [Calm Breathing](/games/calm-breathing/) ukax jisk'a samarañ uñjapxi, jan ukax [Conversation Cards](/games/conversation-cards/) ukhama parlañ. Samaraña nayra ukan jan kuna walja lurañ jan lurañ, ukat jaqinakax munapxi ukhax sayt'añ.
+Qhipa uru jisk'a, ch'uxña lurañ ukax jumanakan jaqukasiñ yanapaski. Sapa uruna [Calm Breathing](/games/calm-breathing/) jan ukax [Conversation Cards](/games/conversation-cards/) ukanak lurañ. Samañ manqhan jach'a lurañ jan lurañ, jaqi munañ jan ukat sayañ.
 
-Jan samaraña ch'uyuchirinakar jaqsuyi. Jumanakax [ch'uyuchirinakan sumankañ yatiqaña](/caregiving/caregiver-self-care/) uñjapxi, samaraña ukat yanapt'awinak tuqi.
+Samañ jan walt'ayi caregivers jiwasanakan. Jiwasan [caregiver self-care](/caregiving/caregiver-self-care/) yatiñawi jan ukat yanapa thakinak uñacht'ayi.
 
-## ¿Kunsa apnea tuqi?
+## ¿Kunas samaña apnea?
 
-Apnea samaraña uru jan samañat, walja kutiw samaraña jan samasiñ. NIA sapxi, jan yanapt'asa ukax jach'a ch'uyu ukat wali kuna jan ukax amuyu jan sum ukat uñjañ. Uñt'añanakax: wali isi uru jaqsuña ukat uru jisk'a samaraña. Walja jaqinakax janiw yatipkiti jupanakan utjatap. Lancet Commission sapxi, 11 yatiqañanakan, apnea jaqinakax 43% sipansa demencia tuqi jan wali uñt'ayatänwa. Ukampis walja yatiqañanakax janiw jach'a ch'uyuta yatiqkiti, ukatwa chiqa janiw sayt'ayañ.
+Samaña apnea jaqix samañ sapa uru jisk'a jan samaña, walja uru samañ. NIA sapxi, jan ukat uñjasa, presión alta, derrame cerebral jan ukat amuyu jiwasiña ukanak utjaraki. Uñjañanakax: jach'a jach'a jaqukasiña, jach'a uru jan ukat jisk'a samañ. Walja jaqinakax janiw yatipkiti ukaw utjatapa. Lancet Commission sapxi, 11 yatiñanakan samaña apnea jaqinakax 43% ch'iqa demencia utjañ jaktapxi. Ukampis walja yatiñanakax peso ukan janiw uñjapkiti, ukhamasti mayacht'asiñax jan chiqa.
 
-Apnea uñt'añ ukat yanapt'añ utjaraki. NIA sapxi, CPAP máquina wali yanapt'i. Jumanakax jan ukax sarnaqtäta jaqi uru isi jaqsuñ, samarañ jan samañ, jan ukax uru jisk'a samarañ, doctor ukar parlañ.
+Samaña apnea uñjañ ukat jaytañ utjaraki. NIA sapxi, CPAP máquina ukax walja yanapaski. Jumax jan jaqi uñjasa jach'a jach'a jaqukasiña, samaña jan samaña jan ukat uru jach'a samasa, doctor jiwasaru yatiyañ.
 
-## Samaraña medicinanakat yatiqaña
+## Samañ medicinanakat yatiyaña
 
-Jiwasax samaraña medicinanakat jan ukax suplementonakat jan parlañ. NIA sapxi, samaraña medicinanakax juk'a pachatak yanapt'apxi ukampis janiw insomnio sayt'ayañ. Ukhamarak, Alzheimer ukan jaqinakar samaraña churañanakax janchi, jaqsuña ukat amuyu jan ukax suytañ jan ukax yanapt'ayañ. Janipuniw samaraña medicinanakat, mayninakas farmacia jan doctor ukat, churañ jan ukax jaytañ.
+Janiw samañ medicinanakat ni suplementos yatiñanakat parlañäkiti. NIA sapxi, samañ medicinanakax jisk'a uruna yanapaspa, ukampis insomnio jaytañ janiw utjkiti. Ukat sapxi, Alzheimer utjirinakan samañ yanapañataki churat medicinanakax jaytañ, jaytasiña ukat llakisiña jaktayi. Janiw samañ medicina qalltañ, tukuyañ jan ukax mayjt'ayañ, over-the-counter samañ ayuda ukanakax, doctor jan ukax farmacéutico jiwasampi parlañ janiw.
 
-## Doctor ukar parlaña
+## Doctor jiwasampi parlaña
 
-Doctor ukar parlaña jumanakax jan jiwasa jaqi ukax janchi wali, uru walja jan samarañ, wali isi jaqsuña jan ukax uru samaraña jan samañ. Samaraña jan wali demencia ukan jan jaytaspa, [NIA yatiqañ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) sapxi, doctor ukar yatiqaña mayjt'añ. Doctor ukax janchi, jan sum samaraña jan ukax medicina jan wali lurañanakax uñt'añ puedi. Jaqinakax amuyu jan sum ukat samaraña jan sum ukax jiwasa ch'uyu ukat khithi jan kuna ukax wali ch'amampi uñjañ. Uru tardeñ amuyu jan sum jan ukax jaqsuñ ukhamarak, [kuna uñt'añ](/brain-health/warning-signs/) yatiqañ.
+Jumax jan jaqi uñjasa jach'a jan jaqukasiña, walja uru jan samaña, jach'a jach'a jaqukasiña jan ukax uru samaña apnea uñjañ, doctor jiwasaru sarañ. Demencia utjirinakan samañ jan walt'ayi jan tukuyasa, [NIA yatiñirinakax](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) sapxi, doctor jiwasaru sarañ. Chiqpach uñjañax jan walt'añ, samaña jan walt'añ, jan ukax medicina uñjañ kunas utjaraki uñjaña. Jan suytaña amuyu jan jaqukasiña, jan ukax samañ jan walt'ayi amuyu jan jaqukasiña, sapa uruna yanapañ munaski. [Kunapachas doctor jiwasaru sarañ](/brain-health/warning-signs/) yatiñawi.
 
-Aka qillqata taqi yatiqañäki, janiw medical yanapt'awi. [Medical disclaimer](/medical-disclaimer/) uñjañ.
+Jichhürunakax yatiñ uñacht'äwi, janiw doctor yatiñ ukat sañ. Ukat [medical disclaimer](/medical-disclaimer/) uñjañ.

@@ -1,35 +1,34 @@
 ---
-title: "Dementia Jaqinakatakix Amuyu Juegos: Sum Thaqhañanaka"
-seoTitle: "Dementia Amuyu Juegos, Sum Yatiyañanaka"
-description: "Uñt'ata, qarta ukat jukhu juegos dementia jaqinakatakix, ukat kunjamas jan kunatapis jiskt'añapki ukham uñt'ayaña: uñt'atanakax patjanakana, jukhunakax sapa, janiw punku, sapa mayni yanapt'añamawa."
+title: "Demencia ukan jaqinakatak sayt'ayañ uñtatawinaka"
+seoTitle: "Demencia ukatak Uñtatawi Sanaka, Suma Iwxañanaka"
+description: "Uñtatawi, lurawi ukat ch'iqa sanakanakax demencia ukan jaqinakatakix, ukat ukhamarak kunjamatix sarnaqañasa jan kunatak yatiñ uñjasiñataki: lurawinakax uñjasa, ch'iqanakax sapa, jan puntuqa."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Dementia jaqinakatakix amuyu juegos ancha askiwa janiw amuyu lurañamp
-  sarañapkchi. Uñt'ata juegos uñt'ayañamawa, uñt'atanakax patjanakana,
-  pusi jan ukax suxta uñt'atanakampi, sapa mayni yanapt'añamawa ukat puntaj
-  jan amuyañamawa. Uñt'ata uñt'ayañax sasa amtañat sukasiñaktaki
-  aski, ukatwa juegonakax tuqinakana sapa uñt'ata uñjañapataki. Kusisiñaw
-  amtañapa, jan lurawinakax janiw.
+  Demencia ukan jaqinakatak uñtatawi sanaka sum sarnaqañ, janiw yatiñ
+  uñjañatakiti. Uñtatawi lurañ, lurawinakax uñjasa, mayni ch'iqanakax kimsa
+  pä tuqinakampi, sapa mayni sarnaqañ, puntu jan uñjañ. Lurawi uñjañax
+  amtañat sipansa sayt'añatpach jukʼamp sayt'ayañawa. Kusisiña ukax
+  uñjatanak jan puntunakan, ukax amtañ.
 keyPoints:
-  - "Chiqpach amuyu juegos uñt'atanakax imantasiwa, ukax dementia ch'amañchañ sasaw jan lurañatakix sarañapa. Uñt'atanakax patjanakana uñt'ayañamawa."
-  - "Ch'iqanaka jukhuchi, uñt'atanakax jach'anaka ukat mayni mayni sapa maya ajllisiñamawa, ukhamat juego kusisiñani."
-  - "Sapa mayni yanapt'añampi sarañamawa, mayni mayniru yanapt'añamawa ukat puntaj jan amuyañamawa. Janiw khitis kunjamas jan lurañapa sum amuyañapataki."
-  - "Janiw amuyu juego mayni jaqinakar sum thaqhañ, jiskt'añ jan ukax jiwayañ uñt'atawa. Kusisiñ sarañataki juegonakax sum urukiwa."
-  - "Kusisiñ jan tukuskañ mayjt'ayañ. Uñt'atanakat parlañax askiwa."
+  - "Mayni uñtatawi sanaka phuqhatanakax quñunakax imaspa, ukax demencia ukan sayt'añ sinti jan wali yatiñ uñjañ. Lurawinakax uñjasa imañamawa."
+  - "Ch'iqanakax jukʼamp, lurawinakax jachʼa, mayni sapa mayni ch'iqa ukax sarnaqañ kusisiñaw."
+  - "Sapa sarnaqañ, mayninak yanapt'añ, puntuw jan uñjañ. Janiw khitis kunatakis jan ajjsarañapa."
+  - "Janiw uñtatawi lurawi ukax demencia amtañ, ch'usñuñ jan ukax sayt'ayañ uñjatawa. Kusisiñatak sarnaqañ, ukax suma pachaw."
+  - "Kusisiñ jiwasa sarnaqañ jan jaysañkama sayt'añ. Lurawinakan uñjasa parlañax suma phuqhañawa."
 faq:
-  - q: "¿Kunas askiwa dementia jaqi ukatakix amuyu juego?"
-    a: "Jach'a, sasa uñt'ata uñt'ayañ patjanakana sasaw juego ukat uñt'ata pusi jan ukax suxta uñt'atanakana. Uñjata uñt'atanakar uñt'ayañax kusisiyañawa janiw jan amuyañ sarañapkiti. Uñt'ata uñtasa ukat ukax pusi jan ukax tayka uñt'atanakan jupa ajllisiñ."
-  - q: "¿Amuyu juegonakax dementiar yanapt'aspasa?"
-    a: "Janiw amuyu juego jiskt'añ, jiwayañ jan ukax jan sarañ yanapt'aspkiti; Cochrane yatxatawinakax amuyu yatiyañ computadora juegonakax jan askiñ yatiyapxi dementia jan puedeskapañ. Juegonakax mayni mayniru kusisiñ sarañataki askiwa. Kusisiñat ajllisiñama."
-  - q: "¿Concentration klásico juegos dementia jaqimpi sarañ jan ukax janiw?"
-    a: "Nayrar tuqinakana, mayni jaqinakax kusisipxi, khuyapt'asaw jisk'a uñt'atanakampi. Uñt'atanakan chiqapar sayt'añax jan askiniw, uñt'atanakar uñjata uñt'ayañamawa ukat chiqpach sapa mayni pachpa pusi uñt'at jikxatañamawa. Ukhamat uñt'ata uñt'ayañax jan amuyu lurañat jaytapxi."
-  - q: "¿Kunas amuyu juegonakas aski jaqinaka tantachasiñatakix?"
-    a: "Uñt'ata yatiyañ juegos, aranakan tukuyañ jan ukax qhanawinak parlañ, sapa mayni parlañ qarta juegos tantachasiñatakix askiwa. Sapa qarta phuqhasiñ sarañamawa ukat khitis kunjamas uñt'ata jikxatañapa uñjañ jan ukax jupanakan sapa mayni jan utjañapataki."
-  - q: "¿Kunas janiw sapa mayni amuyu juegos internetan jan qhinsañani?"
-    a: "Jisa. Uñt'a juegos Picture pairs, Find the same, Photo pairs ukat Picture puzzle ukax janiw qhinsañ, janiw yatiyañ mayt'aña, ukat celular, tableta jan ukax computadora ukanakan lurasa. Janiw punku jan ukax puntaj utjkiti."
+  - q: "¿Kunas suma uñtatawi lurawi demencia ukan jaqinakatakix?"
+    a: "Jachʼa, ch'iqa lurawinakan uñtatawi ch'iqañ, ukax uñjasa imañamawa, akham sapa Picture pairs kimsa pä tuqi ukhamarus pusi tuqi. Uñjasa uñtatawi ukax yatiñ sayt'añ jan ch'usñuñ, ukat Find the same ukax jukʼamp sayt'añ, ch'iqa pä pusi mayni uñjasa uñtatawi."
+  - q: "¿Uñtatawi lurawinakax demencia ukan yanapt'añ?"
+    a: "Janiw uñtatawi lurawi amtañ, ch'usñuñ jan ukax sayt'ayañ demencia ukatakix uñjatäkiti. Cochrane sarnaqäwi uñjaraki, computer ukan yatiñ lurañ uñjañax jan wali yatiñ uñjañ demencia ukax jan purkañ sinti. Lurawinakax sarnaqañ kusisiñat sumäñataki, jupanakampi sarnaqañataki."
+  - q: "¿Classic Concentration lurañ demencia ukan jaqinakampi sarnaqañaxa?"
+    a: "Qalltaskiwa, khitinakatix kusisipxi, mayni ch'iqanakampi kimsa mayni. Cartas kaʼaraki jan yatiñ uñjasa, cartas uñjasa lurawi, ukat ukhamaraki pareja ukanakax sapa mayni sarnaqañ. Ukhamaw parejanakax sum uñjasiñ, jan yatiñ uñjañ."
+  - q: "¿Kunas uñtatawi lurawinakax taqi jaqinakatakix?"
+    a: "Imilla kunjämas lurawi, Qhichwa jaqinakan sayt'añ sanaka, uñtatawi qillqatanakax. Taqi jaqinakax puntu jan uñjañ, ukat jan khitis kunas yatiñ uñjañ."
+  - q: "¿Ch'iqa lurawinakax internet ukan jan yatiñ uñjañ sinti?"
+    a: "Ari. Akan sitio ukan lurawinakax, Picture pairs, Find the same, Photo pairs ukat Picture puzzle, janiw yatiñ mayt'añ, janiw qillqañ, celular, tablet ukat computer ukanakan sarnaqañ. Janiw khitis puntu jan ukax pacha uñjañ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -51,77 +50,79 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Amuyu juegos sañ thaqhasa "dementia jaqinakatakix amuyu juegos" ukar uñtasma ukhaxa, jumanakax jach'a lurañanaka tuqi uñjapxäta: pusi uñt'atanakax jan uñjatäkiti, uñt'ayañ tiempo, nivel ukat puntaj. Dementia jaqi ukatakix ukanakax amuyu ch'amanakan chiqapar sarañ ukaru puriwayi. Juegonakax ukhamarakiw kusisiñ uñt'atäpxi. Aka uñt'ayañan kunjamas lurañaxa, sapa etapa ukan askinak uñt'ayañawa.
+Uñtatawi lurawi sanaka "memory games for seniors" sasa thaqhasa, jukʼa jan wali lurawinakaw jutaraki: cartas imatäki, sapa mayni uñjañ reloj, nivel ukat puntu. Demencia ukan jaqinakatakix, ukanakax yatiñ mayt'añ jukʼamp ch'usñuñ. Ukanakampi jukʼamp sum lurañ sapa. Akan uñachtʼäwix akham sarnaqañ uñachtʼayi, ukat etapa sapa mayni suma lurawinakan lista uñacht'ayi.
 
-## ¿Kunatsa amuyu juegos dementia jaqinakar ch'iqachaspa?
+## ¿Kunatas classic uñtatawi lurawinakax demencia ukan jaqinakatak jan kusisiyi?
 
-Juegonakax machaq yatiyanakar amuyañat sarapxi, ukax Alzheimer ukan nayrar uñjatawa, dementia ukan jach'a phuqhawinakapawa. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) yatiyi Alzheimer ukan nayrar uñjatanakapax machaq yatiyata yatxataña jan amuyañawa. Concentration klásico ukan, paqallqu uñt'atanakar uñjasa, kawkirutix uñt'at jikxatañapa amuyañama, ukat qharürunakan ukat ukar apnaqañama. Ukax machaq yatiyawa, amuyañawa ukat jikxatañawa.
+Ukax yatiñ mayt'añ musparkaniwa, machaq yatiñ jan waltʼañ, ukax Alzheimer ukan qalltaskiwa, demencia ukan jach'a sayt'añ. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) sapaw qalltanaka uñachtʼayi: machaq yatiñ jan amtañ. Classic Concentration ukan, pä cartas uñjasa, kawkïr cartas kawkïr chiqan uñjatapa amtañ ukat qhipa minutunakan ukxa lurañ, ukax machaq yatiñ mayt'añaw.
 
-Tiempo, puntaj jan ukax jan askinak uñjañ alarmanakax jaqir uñtayapxi kunatsa janiw lurañ puedkiti, jupa munat jaqinakan nayraqatapan. Walja jaqinakax chhaqhasipxi juego lurañat sartañapatak.
+Reloj, puntu jan ukax tuku ch'ankha uñtatawi, jaqirux jan kunas lurañ ukar amuyayi, munat jaqinakan nayraqatana. Walja jaqinakax jan munapxi sarnaqañ.
 
-Uñjata uñt'ata uñt'ayañax yaqha, ukat sasa askiwa. Jupa uñjasa, qhipa qhiparuw sarañ jan ukax uñt'ata sayt'ayañ kusisiyi. Ukatwa amuyu jan lurañ, uñjata uñt'ayañ jaytañamawa.
+Uñjasa uñtatawi ukax jukʼamp sayt'añ, jan jukʼamp puntu. Qhipa kʼusa mä tasa jaqinakan uñjatapa suma. Ukhamarak uñtatawi chiqa ukax yanapt'añ, ukat yatiñ mayt'añ jan.
 
-## ¿Kunsa amuyu juego kusisiyañ luraña?
+## ¿Kunjamatsa uñtatawi lurawi ch'iqa sayt'ayañ?
 
-Aka khitinakasa juegonakar ukat tablerunakar, pantallanakar ukhamaraki apnaqañawa.
+Ukanakax cartas, ch'iqa lurawinaka, jan ukax pantalla ukan lurawinakar sarnaqañ.
 
-1. **Uñt'atanakar patjanakana jaytañamawa.** Uñjata uñt'atanakar uñt'ayañax chiqapar juegowa, ukat kusisiyañawa.
-2. **Jisk'a uñt'atanakampi lurañamawa.** Pusi jan ukax kimsa parinakampi qalltañamawa. Askinak ukat jupanakax munapxi ukhaw walja uñt'atanakar ajllisiñamawa.
-3. **Jach'a, sasa, jaqinakan uñt'atanakar ajllisiñamawa.** Qhiwa uta, mirasol, yatiri uma. Qarta jan ukax jach'a pacha uñt'atanakax janiw.
-4. **Sapa mayni yanapt'añampi sarañamawa.** "Achachilanaka uñt'añäni" sasa, "jumax sarañ" sasa janiw. Mayni mayniru uñtañampi ukat yanapt'añampi.
-5. **Puntaj jaytañamawa.** Khitis ganañapa janiw. Jupa jisktaspa, "lurasktanwa" sasa aski.
-6. **Relojunak jan sarañamawa.** Tiempo uñjañ jan utjañapa, sapa mayni turnunakar jan jalsuñamawa.
-7. **Uñt'atanakat parlañamawa.** "Uka yatiri uñtasma. ¿Jumax yatiri sarnaqkaynati?" Parlañax askinakanwa.
-8. **Sum tukuyañamawa.** Uñt'ata uñt'ayañ tukuyañamawa, kusisiñ utjasa.
+1. **Uñtatawinak uñjasa imañ.** Uñjasa uñtatawinakax chiqa lurawiwa, walja kusisiyañ.
+2. **Ch'iqanakax jukʼamp.** Qalltañ kimsa pä tuqi jan ukax pusi tuqi. Jukʼamp qhipa, wali sayt'añ jan ukax munañapat.
+3. **Uñtatawi jachʼa, yatiñ, jaqinakan.** Jan uñjasa, jan pä rama. Uñjatapa jachʼa, sunflower, velero ukanakax.
+4. **Mayninakampi sarnaqañ.** "Jichhürunakax yapunak thaqañäni" sasa, jan "toqamax" sasa. Pallañ ukat yanapt'añ.
+5. **Puntu jan uñjañ.** Khitis puntu uñjañ jan munañapa. Jupanakax "lurarakitanwa" sasa sum.
+6. **Reloj ukan jan sarnaqañ.** Ni reloj, ni ajjsarañ mayni sapa mayni.
+7. **Uñtatawinakat parlaña.** "Ukax velero, sarnaqañ jani yatiñ?" Parlañax walja sumaw.
+8. **Suma pachan tukuña.** Pareja mayni tukusa, kusisiña ukax sarnaqañ.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi sapa jaqin kunas lurañapa uñjañ sasa, jan lurañ atipasa uñjañ, ukat jupan askinak uñt'añ sasa.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ukax akham yatiyaraki: jaqirux lurañ ukax yatiñ, jaqi kusisiñ.
 
-## Amuyu ukat uñt'ata juegos sarañataki
+## Uñtatawi lurawi sayt'ayañ, ch'iqa ukat uñtatawi
 
-### Picture pairs (uñt'atanakampi uñt'ata uñt'ayaña)
+### Picture pairs (uñtatawinak uñjasa)
 
-[Picture pairs](/games/picture-pairs/) jach'a uñt'atanakampi, 4 jan 12 uñt'atanakampi juego. Uñt'atanakax uñjañ utjaspa, janiw kawkir utjatapa amuyañawa, jupa mayni uñtañawa. Pusi uñt'atanakampi qalltañamawa. Jupa sum amuyañ, ukhamarak mayni tuqinakan jan sum uñjañ sarañawa, **Uñt'at uñt'atanakax** sasa ajllisiñamawa, ukampis kusisiyañ jan utjkchi ukhaw uñt'atanakar uñjañ kutt'añamawa.
+[Picture pairs](/games/picture-pairs/) jachʼa uñtatawinakampi, 4 jan 12 tuqi. Uñtatawinakax uñjasa, janiw yatiñ mayt'añ, jan ukax ukax kawkïr chiqan. Qalltañ pusi tuqi. Jukʼamp qhipa, **Hidden pictures** ukar apaqañ, ukax jan kusisiñ tuqinkipan kutt'añ.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) jach'a uñt'at ukax uñjatawa, jurinak qhipan pusi jan ukax suxta mayni uñt'atanakampi. Mayni uñt'at ajllisiñamawa. Ukax uñtasa sapa mayni juegowa, ukat uñt'atanakax jan walt'ayañ jaqinakatakix askiwa, tuqinakan jaqi ukat sapa mayni jupa uñtañapa.
+[Find the same](/games/find-the-same/) mä uñtatawi alaxpacha ukan, kimsa pä jan ukax pusi ukan ch'iqa. Sapa uñjasa ukar aptaña. Ukax sitio ukan ch'iqa lurawi, walja jaqinakatakix suma.
 
-### Photo pairs (familiya uñt'atanakampi amuyu juego)
+### Photo pairs (familia uñtatawinak)
 
-[Photo pairs](/games/photo-pairs/) ajllisiñ uñt'atanakat juego lurawa: alkunaka, uma, qullu utjaña. Familianakan jaqinakax ukat cheqanakax parlañ kusisiyi jach'a ch'amanakat. Uñt'atanakax nayan navegadorar qhipaw utjapxi, janiw kawkiru apaqatäkiti.
+[Photo pairs](/games/photo-pairs/) akan uñtatawinak, jumat ajllisiñ: amaru, uta qhipa, lago ukan uta. Familia uñtatawinakax parlaña jukʼamp sayt'añ. Uñtatawinakax navegadorin utjapxi, janiw khitis aptañapa.
 
-### Mayni mayniru sarañ
+### Sort together
 
-[Sort together](/games/sort-together/) uñt'ata sapa mayni canasta ukan saytañamawa, kawkiran utjañapa uñjañ, kuna qhana, jan ukax uma. Ukax machaq amuyañ mayt'añ janiw, sapa mayni sarnaqañ amuyu.
+[Sort together](/games/sort-together/) uñtatawi ukar kawkïr kiwsa, uta jan ukax qhana ukan uñtatapa. Ukax machaq yatiñ jan ukax, mayni yatiñ.
 
-### Uñt'ata rompecabezas
+### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) uñt'at 4 jan 9 pedazonakar t'aqhisi. Pusi pedazonak ajllisa, uñt'at chiqapar utjañkama. Uñt'at tukuya uñjat uñt'ata sasa uñjatäni.
+[Picture puzzle](/games/picture-puzzle/) uñtatawi 4 jan 9 pedazo ukar. Pä pedazo aptaña, uñtatawi chiqa sayt'añkama. Uñtatawi chiqa pantalla ukan uñjasiñ.
 
-### Chiqapar qarta mesa ukan
+### Chiqa cartas mesa ukan
 
-Pantalla jan wali. Qarta paqallqu jan ukax uñt'ata qarta chiqanakat uñt'ata pareja ajllisiñamawa. Pusi uñtanakan uñjata sayt'ayañamawa, ukat parejanak jikxatañamawa. Qhipatxa, color jan ukax palo uñjañamawa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yatiyi qarta juegos ukat mesa juegos nayra etapa ukan askinak ukhamarakiw.
+Pantalla jan wali. Cartas pä mayni aptaña. Uñjasa mesa ukan sarnaqañ, pareja ukanak uñjañ. Qhipa color jan ukax palo ukar sayt'añ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ukax cartas, lurawinakax qalltaski etapa ukan.
 
-## ¿Kuna amuyu juegos kunjamas etapa ukan sarapxi?
+## ¿Kawkïr uñtatawi lurawinakas etapa sapa mayni?
 
-Etapanakax janiw chiqapar sasa. Jupa khitinakansa munaski uka uñjañamawa.
+Etapanakax jan chiqa. Jichhürunak munañapat sarnaqañ.
 
-| Etapa | Juegos ukax askiwa | Kunjamas sayt'ayañamawa |
+| Etapa | Lurawinakax | Kunjams sayt'ayaña |
 | --- | --- | --- |
-| Nayra | Picture pairs, Photo pairs, 9 pedazonak Picture puzzle, familiar qarta juegos | Jupanakar ajllisiñamawa. Uñt'atanakax jaytañamawa jupa munasa; puntaj jan kusisiyasa jaytañamawa |
-| Tuqi | Picture pairs 4 jan 6 uñt'atanakampi patjanakana, Find the same, Sort together | Uñt'atanakax sapa uñjañamawa. Jupanakan sayt'añamawa ukat yanapt'añamawa |
-| Qhipa | Find the same 2 ajllisiñampi, jach'a uñt'at mayni mayni uñtañamawa | Jisk'a pacha. Jumax tabletar katuqañamawa; jupa uñjañamawa jan ukax lupt'añamawa |
+| Qalltañ | Picture pairs, Photo pairs, Picture puzzle 9 pedazo, cartas | Ajllisiñ. Puntu jan munañapa ukax jan uñjañ |
+| Taypi | Picture pairs 4 jan 6, Find the same, Sort together | Uñtatawinak uñjasa. Ch'iqa sarnaqañ, yanapt'añ |
+| Qhipa | Find the same 2 ajllisiñ, jachʼa uñtatawi mayni | Jukʼa. Tablet jumanakan, jupanakax uñjasa jan ukax ihitu |
 
-## ¿Amuyu juegos dementia jaqinakar yanapt'aspa?
+## ¿Uñtatawi lurawinakax demencia ukan yanapt'añsa?
 
-Janiw amuyu juego jiskt'añ, jiwayañ jan ukax jan sarañ yanapt'aspkiti. [Cochrane yatxataña](https://pubmed.ncbi.nlm.nih.gov/30864747/) computadora amuyu yatiyañ uñjañataki, khitinakas amuyu jan walt'ayañ mild cognitive impairment ukan, yatiyi dementia jan puedeskapañ ukax janiw cheqapar yatiñan chiqapar utjkiti. Jumax [juegos ukat dementia](/brain-health/brain-games/) yatiñ uñjañ sarnaqañamawa, ukaw estudionakax kunatsa uñjapxi ukat janiw uñjapkiti.
+Janiw uñtatawi lurawi demencia amtañ, ch'usñuñ jan ukax sayt'ayañ uñjatawa. [Cochrane sarnaqäwi](https://pubmed.ncbi.nlm.nih.gov/30864747/) uñjaraki: computer ukan yatiñ lurañ, jan wali yatiñ uñjañ demencia jan purkañataki. [Brain games and dementia](/brain-health/brain-games/) ukax yatiñ uñjañ.
 
-Ukax janiw juegos jan lurañ ukax utjkiti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yatiyi kusisiñar uñjañamawa, ganar jan uñjañ. Pä minutu uñt'at uñjaña ukat parlaña, uruna sum chiqapar pacha ukax utjañapawa.
+Ukax lurawinak jan lurañ ukat jan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ukax kusisiña ukat jan puntu uñjañ. Uñtatawinak uñjasa, jaqinakampi parlasa, walja suma pacha.
 
-## ¿Kunsa amuyu juegos jan dementia utjki jaqinakatakix?
+## ¿Ukax jan demencia ukan jaqinakatakix?
 
-Jumax amuyu jan walt'ayañ jan utjki jaqi tiempo juegos, puntaj ukat jach'a nivel juegos kusisiyasa, janiw kuna jan askiti. Ukampis janiw dementia jan utjañapatakix sarañamawa; janiw juego uñjatäkiti. Nayra sum uñjat juegos khitinakas generación mayniw sarapxi: awicha dementia ukat jilata yatiri mayni uñt'atanakampi sarapxi, janiw kawkirutix jan uñjatäkiti.
+Jan yatiñ ch'usñuñ jan, puntunak, nivelnak kusisi ukhamaraki. Jan ukax ukanak jan amtañatakix uñjañ. Jupanakax Cochrane uñjaraki. Mayni ukax ukhamarak sum, qhipa ukat taypi sarnaqañ.
 
-## ¿Kunapachas jaytañamawa jan ukax juego mayjt'añamawa?
+## ¿Kunapachas tukuña jan ukax lurawi mayjt'añ?
 
-Ch'iyañ, tablet jaytaña, "janiw atiktti" sasa jan ukax suma jan kusisita uñjañ, ukanakax lurañ askiwa sasa jaytañ ukat mayjt'añ. Jisk'a uñt'atanakampi yanapt'añamawa, uñt'atanakar uñjata uñt'ayañamawa, [Find the same](/games/find-the-same/) ukar mayjt'añamawa, jan ukax uñt'atanakar uñjaña ukat parlaña. Jupanakax jan juegañ munapxi ukhaxa, ukax askiwa. [Kunjamas mayni mayniru sarañ](/caregiving/how-to-play-together/) ukan sarnaqañ ukat yanapt'añ ukat walja yatiyañanakaw utjaña.
+Suspiro, tablet ukar kutt'ayaña, "janiw atinektʼkti" sasa jan ukax jan kusisiña, ukanak amuyañ. Ch'iqanak jukʼamp, uñtatawinak uñjasa, [Find the same](/games/find-the-same/) ukar sarnaqañ, jan ukax uñtatawi uñjasa parlañ. Munañ jan ukax, janiw kunas.
+
+Ukhamarak [how to play together](/caregiving/how-to-play-together/) ukan walja yatiñanaka.

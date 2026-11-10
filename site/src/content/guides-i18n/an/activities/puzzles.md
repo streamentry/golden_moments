@@ -1,33 +1,33 @@
 ---
-title: "Puzlas pa la demencia: de piezas, de letras y en linia"
-seoTitle: "Puzlas pa la demencia: de piezas y de letras"
-description: "Como elegir puzlas de piezas, de letras y en linia pa una persona con demencia: tamaño de as piezas, imachens, letra gran, fer-lo en compañía y cuando cal fer-lo más fácil."
+title: "Puzles pa persones con demencia: piezas, letras y en línia"
+seoTitle: "Puzles pa demencia: piezas y sopas de letras"
+description: "Cómo elegir puzles de piezas, de letras y en línia pa una persona con demencia: tamaño de pieza, imaches, letra grande, en compaña y cuan simplificar-lo."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A millor puzla pa una persona con demencia ye a que puede acabar con una
-  mica d'aduya y disfrutar-la por o camín. Triya puzlas de menos piezas, mas
-  gran y con una imachen clara de adulto, deixa a caixa a la vista, y ordena
-  primero as piezas d'o borde. As sopas de letras y os crucigramas funcionan
-  millor en letra gran. As puzlas en linia fáciles con cuatro piezas son
-  adequadas pa la fase media. Para cuando ya no sea divertido.
+  El millor puzle pa una persona con demencia ye o que puede rematar con una
+  mica d'aduya y disfrutar pelo camín. Tría puzles de piezas con menos piezas
+  y más grandes, y con un imache claro de adultos. Tiene la tapa de la caxa a
+  la vista y ordena primero las piezas de la vora. As sopas de letras y os
+  crucigramas funcionan millor en letra grande. Os puzles en línia fáciles con
+  cuatro piezas son bien pa la etapa mediana. Para cuan ya no sea divertido.
 keyPoints:
-  - "Triya por como va, no por una fase: si una puzla ye un trabayo, prueba una con menos piezas."
-  - "Piezas gran y fuertes y una imachen clara con zonas de color distintas son más fáciles que piezas chicas y cielos grans."
-  - "Importan as imachens de adulto. Chardins, cocinas, coches y animals, no dibuxos animados."
-  - "Fer-lo en compañía ye lo importante. Da-le piezas, ordena os bordes, deixa la tapa d'a caixa a la vista."
-  - "As sopas de letras en letra gran y as puzlas en linia fáciles con 4 o 9 piezas son gratuitas en esta web."
+  - "Tría según cómo va, no por una etiqueta de etapa: si un puzle paga como trabajo, prueba uno con menos piezas."
+  - "As piezas grandes y firmes y un imache claro con zonas de color distintas son más fáciles que piezas chicas y cielos grandes."
+  - "Os imaches de adultos importan. Chardins, cosinas, coches, animals, no dibuixos animatos."
+  - "Fer-lo en compaña ye lo importante. Da-le piezas, ordena las voras, tiene la tapa de la caxa a la vista."
+  - "As sopas de letras en letra grande y os puzles en línia fáciles de 4 o 9 piezas son gratuitos en esta web."
 faq:
-  - q: "Cuantas piezas de puzla son las mejors pa una persona con demencia?"
-    a: "No hay un numero unico correcto. Una persona que feba puzlas de 1.000 piezas puede disfrutar encara unas cientos al principio, mientres que otras van mejor con una docena de piezas gran. Si una puzla semeya un trabayo o causa frustración, pasa a menos piezas. A nuestra puzla de imachen en linia tiene 4 o 9 piezas."
-  - q: "Son bonas as puzlas de piezas pa las personas con demencia?"
-    a: "Muitas personas las disfrutan, sobre todo si feban puzlas antes. Una puzla da a las mans una cosa que fer, un obchectivo claro y una imachen de la que charrar. Ninguna puzla ha demostrau tratar o frenar la demencia, asinas que tríyalas por disfrutar y por la compañía."
-  - q: "Qué puedo fer cuando una persona ya no puede con una puzla de piezas?"
-    a: "Fe-la más chica y fe-ne más tu: da-le una pieza a la vez, o deixa-le solo as ultimas pocas piezas. Prueba una puzla en linia de 4 piezas, ordenar as piezas por color, o simplemente mirar la imachen acabada en compañía."
-  - q: "Son adequados los crucigramas y as sopas de letras pa la demencia?"
-    a: "Pueden serlo en la fase inicial, en letra gran. As sopas de letras con as palabras solo en horizontal y vertical son más fáciles que las que tienen palabras en diagonal o al revés. Lee las pistas o la lista de palabras en voz alta y trabaya-las en compañía."
+  - q: "Cuantas piezas de puzle son las millors pa una persona con demencia?"
+    a: "No hay un numero unico correcto. Qui feba puzles de 1.000 piezas puede disfrutar encara unas cientas al principio, mientres que otros los prefiren con una docena de piezas grandes. Si un puzle paga como trabajo o causa frustración, pasa a menos piezas. O nuestro puzle d'imaches en línia tiene 4 o 9 piezas."
+  - q: "Los puzles de piezas son bons pa las persones con demencia?"
+    a: "Muitas persones los disfrutan, sobre manera si ya los feban antes. Un puzle da a las mans algo que fer, un objetivo claro y un imache sobre o que charrar. Ningun puzle ha demostrau que trate ni alentixca la demencia, asinas que trialos por diversión y compaña."
+  - q: "Qué puedo fer cuan la persona ya no puede con un puzle de piezas?"
+    a: "Fe-lo mas chico y fe-ne mas tu mesmo: da-le una pieza cada vez, u deixa-le solament as ultimas piezas. Prueba un puzle en línia de 4 piezas, ordenar as piezas por color, u simplament mirar el imache acabau chunto."
+  - q: "Son adecuaos os crucigramas y as sopas de letras pa la demencia?"
+    a: "Puen estar-lo en la etapa inicial, en letra grande. As sopas de letras con as palabras solament en horizontal y vertical son mas fáciles que as que tienen palabras en diagonal u al revés. Leye las pistas o la lista de palabras en voz alta y treballa-las chunto."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-Una puzla estendida en a mesa d'o comedor ye una d'as actividatz más fáciles de compartir. Puede sentar-se con a persona sin necesidat de charrar, la imachen da de qué charrar, y meter la zaguera pieza da buena sensación. Pero las puzlas han de cambiar a lo que cambia a demencia. Una puzla masiau difícil puede convertir una tarde tranquila en una tarde de frustración. Esta pachina explica como triyar y preparar puzlas de piezas, puzlas de letras y puzlas en linia fáciles, y qué fer cuando se fan difíciles.
+Un puzle de piezas espardiu en a mesa d'o comedor ye una de las actividatz mas fáciles de compartir. Pueden sentase chunto sin necesidat de charrar, o imache da qué charrar, y meter la ultima pieza feba bien. Los puzles, con todo, han de cambiar a lo que cambia la demencia. Un puzle masiau difícil puede convertir una tarde tranquila en una frustrante. Esta pachina explica cómo elegir y preparar puzles de piezas, de letras y en línia fáciles, y qué fer cuan se fan difíciles.
 
-## Son bonas as puzlas pa las personas con demencia?
+## Son bons los puzles pa las persones con demencia?
 
-Muitas personas las disfrutan, sobre todo as que feban puzlas de siempre. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) incluye as sopas de letras, os chuegos de cartas y os chuegos de mesa entre las actividatz pa la fase inicial, y el [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) menciona os chuegos y puzlas en tablet como una manera de mantener-se implicau.
+Muitas persones los disfrutan, sobre manera as que feban puzles antes. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) incluye as sopas de letras, os chuegos de cartas y os chuegos de mesa entre as actividatz pa la etapa inicial, y la [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) menciona os chuegos y puzles en tabletas como una manera de seguir implicau.
 
-As puzlas no son un tratamiento. Ninguna puzla ha demostrau frenar ni parar la demencia; nuestra guía de [chuegos de pensar y demencia](/brain-health/brain-games/) explica la investigación. La razón de fer una puzla ye que puede ser una hora agradable y absorbent en compañía. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) lo resume: centrar-se en disfrutar, no en conseguir.
+Os puzles no son un tratamiento. Ningun puzle ha demostrau que alentixca ni pare la demencia; a nuestra guía sobre [chuegos de salud cerebral y demencia](/brain-health/brain-games/) explica la investigación. La razón de fer un puzle ye que puede ser una hora agradable y absorbent en compaña. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) o resume asinas: centrar-se en disfrutar, no en conseguir cosas.
 
-## Como triyar una puzla de piezas pa una persona con demencia?
+## Cómo tría un puzle de piezas pa una persona con demencia?
 
-Triya por lo que la persona disfruta y como acabó la última puzla, no por una etiqueta de fase.
+Basa-se en lo que la persona disfruta y en cómo salió o último puzle, no en una etiqueta de etapa.
 
 ### Numero de piezas
 
-No hay un numero correcto. Una persona que siempre ha feito puzlas puede disfrutar encara unas cientos de piezas al principio, mientres que a otra le agrada más una docena. Una regla practica: si la última puzla semeyó un trabayo, triya una con más o menos la mitat de piezas. Si la acabó rapido y quería más, puja un poquet.
+No hay un numero correcto. Una persona que ha feto puzles toda la vida puede disfrutar encara unas cientas de piezas al principio, mientres que otra está millor con una docena. Una regla practica: si o último puzle paró como trabajo, tría uno con mas o menos la mitat de piezas. Si lo acabó rapido y queríe mas, puja un pochico.
 
-### Tamaño y tacto de as piezas
+### Tamaño y tacto de las piezas
 
-- **Piezas más gran** se ven mejor, son más fáciles de coger y de dar la vuelta.
-- **Piezas gruesas y fuertes** se quedan en o sitio y aguantan si se caen.
-- **Acabau mate** reduce o rebrillo d'as lámparas y as ventanas.
-- **Evita piezas muy chicas** si la persona puede meter cosas en a boca, lo que puede pasar más adelante en a demencia.
+- **Piezas mas grandes** son mas fáciles de veyer, agarrar y dar la vuelta.
+- **Piezas gruesas y firmes** se quedan en o puesto y aguantan que se caigan.
+- **Acabau mate** reduce o reflejo d'as lamparas y as finestras.
+- **Evita piezas chicas** si la persona puede meter cosas en a boca, cosa que puede pasar mas adelante en la demencia.
 
-### La imachen
+### El imache
 
-- **Temas de adulto.** Chardins, cocinas, coches antiguos, animals de granchas, un pueblo de mar, un deporte que le agradaba. No dibuxos animados ni nada que paresca un chuguete de nino.
-- **Zonas de color distintas.** Un granero rochizo, una barca azul y un prau verde son más fáciles que un cielo que ocupe la mitat d'a puzla.
-- **Familiar y personal.** Una imachen d'un lugar en o que vivió o d'una afición que quería da mucho de qué charrar. Algunas copisterías pueden convertir una foto familiar en una puzla.
+- **Temas de adultos.** Chardins, cosinas, coches viellos, animals de granja, un pueblo de mar, un deporte favorito. No dibuixos animatos ni cosas que parezcan un chuguete de nino.
+- **Zonas de color distintas.** Un granero rojo, un barco azul y un campo verde son mas fáciles que un cielo que ocupe la mitat d'o puzle.
+- **Conoixido y personal.** Un imache d'un puesto ande vivirón u d'una afección que les gustaba da mucho de qué charrar. Algunas copisterías puen convertir una foto familiar en un puzle.
 
-## Como fer una puzla en compañía?
+## Cómo fer un puzle en compaña?
 
-Preparáu-lo de manera que la persona pueda ir directamente a la parte agradable.
+Preparalo asinas la persona puede ir dreita a la parte agradable.
 
-1. **Triya un buen sitio.** Buena luz, una cadiera con brazos, y una mesa o bandeja donde la puzla pueda quedar-se puesta.
-2. **Pon la tapa d'a caixa** de manera que los dos la vean.
-3. **Gira as piezas con a cara arriba** antes de empecipiar.
-4. **Ordena os bordes** tu, o fes primero o borde y deixa o centro pa ella.
-5. **Agrupa as piezas por color** en unas bandejas o platos bajos.
-6. **Da-le una pieza a la vez** si la pila la abruma. "Creo que esta ye parte d'o granero."
-7. **Charra de la imachen,** no de cómo vamos. "Ixo semeya a la barca que tenía mio pai."
-8. **Deixa-la puesta.** Torna-la a mirar en unos días. No hay prisa.
-9. **Para en un buen momento,** después de meter una pieza, mientres que aún da buena sensación.
+1. **Tría un buen puesto.** Buena luz, una cadiera con brazos, y una mesa u una bandeja ande pueda quedar o puzle.
+2. **Apuntala la tapa de la caxa** ande bell uno y l'otro puedan veyer-la.
+3. **Gira las piezas con a cara arriba** antes de empecipiar.
+4. **Ordena las voras** tu mesmo, u fe-lo primero la orla y deixa o centro pa ell.
+5. **Agrupa las piezas por color** en unas bandetas u platos planos.
+6. **Da-le una pieza cada vez** si a pila abruma. "Creo que esta ye parte d'o granero."
+7. **Charra d'o imache,** no d'o progreso. "Esto se paez a o barco que tenía mi padre."
+8. **Deixa-lo espardiu.** Torna-lo a mirar en bells días. No hi ha prisa.
+9. **Para en un buen momento,** dimpués de meter una pieza, cuan encara sienta agradable.
 
-El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) recomienda ayudar a la persona a empecipiar, vigilar a frustración y dexar-la mirar si eso le agrada más. Mirar cómo tu metes as piezas, y señalar a onde podría ir una, sigue siendo participar.
+El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aconseya ayudar a la persona a empecipiar, veyer si se frustra y dexar-la mirar si prefiere esto. Mirar como tu metes piezas, y sinyalar on pot ir una, sigue sendo participar.
 
-## Puzlas en linia fáciles
+## Puzles en línia fáciles
 
-Una puzla en tablet tiene algunas ventajas reals: no se pierden piezas, las imachens gran llenan a pantalla, y no hay que despexar una mesa.
+Una tableta tiene unas ventajas reals: no se perden piezas, imaches grandes que omplen la pantalla, y no hace falta despexar una mesa.
 
-A nuestra [Puzla de imachen](/games/picture-puzzle/) gratuita, una imachen se trocea en 4 o 9 piezas. Toca dos piezas pa cambiarlas de sitio hasta que la imachen quede completa. La imachen completa se queda en pantalla como guía, no hay cronómetro, y se puede parar en cualquier momento. Cuatro piezas le van bien a muitas personas en la fase media con alguien a o lau.
+O nuestro [Puzle d'imaches](/games/picture-puzzle/) gratuito talla un imache en 4 o 9 piezas. Toca dos piezas pa cambiar-las de sitio hasta que o imache quede completo. O imache completo se queda en pantalla como guía, no hi ha cronometro y puede parar-se en cualsequier momento. Cuatro piezas le van bien a muitas persones en la etapa mediana si hi ha alguien al costau.
 
-Pa un chuego de imachens encara más sinxelo, prueba [Trobar o mismo](/games/find-the-same/), en o que toques a imachen que coincide con una d'arriba, o [Ordenar en compañía](/games/sort-together/), en o que las imachens van a cestas como as de la cocina o o chardín.
+Pa un chuego d'imaches encara mas sinple, prueba [Trobar o mesmo](/games/find-the-same/), ande toques l'imache que coincide con uno d'arriba, u [Ordenar en compaña](/games/sort-together/), ande os imaches van en cistellas como a cosina u o chardín.
 
-## Puzlas de letras: sopas de letras y crucigramas
+## Puzles de letras: sopas de letras y crucigramas
 
-As puzlas de letras van bien con as personas que siempre las disfrutaron, normalmente al principio de la demencia.
+Os puzles de letras van bien pa las persones a las que siempre les han gustau, normalment al principio de la demencia.
 
-- **Sopa de letras en letra gran.** Nuestra [Sopa de letras](/games/word-search/) gratuita usa letras gran y solo unas pocas palabras, en horizontal y en vertical, nunca en diagonal ni al revés. Puede jugar-se en pantalla o imprimir-se.
-- **Lee la lista en voz alta.** Una persona lee una palabra y l'otra la busca. Basta con marcar solo a primera letra.
-- **Crucigramas en letra gran** de libros de pasatiempos pueden funcionar al principio. Lee as pistas en voz alta, comparte o boligrafo y rellena as respuestas en compañía. Son mejores los crucigramas fáciles y de un tema que los crípticos.
+- **Sopa de letras en letra grande.** Nuestra [Sopa de letras](/games/word-search/) gratuita usa letras grandes y solament unas poques palabras, en horizontal y vertical, nunca en diagonal ni al revés. Puede jugar-se en pantalla u imprimir-se.
+- **Leye la lista en voz alta.** Una persona leye una palabra y l'atra la busca. Basta con marcar solament la primera letra.
+- **Los crucigramas en letra grande** d'os libros de puzles pueden funcionar al principio. Leye las pistas en voz alta, compartix o boligrafo y completa las respuestas chunto. Los crucigramas fáciles y de tema son millors que os criptográficos.
 - **Charra de las palabras.** "Chardín" puede dar pie a diez minutos sobre tomates.
 
-Pa más actividatz de papel y como imprimirlas pa que se vean y se agarren bien, mire [actividatz imprimibles gratuitas pa la demencia](/activities/printable/).
+Pa mas actividatz de papel y cómo imprimir-las pa que se veigan bien y sean fáciles de sostener, veyi [actividatz de demencia pa imprimir gratis](/activities/printable/).
 
-## Qué puzlas van bien en cada fase?
+## Qué puzles van bien en cada etapa?
 
-As fases se solapan, y los días buenos y los malos son normals.
+As etapas se solapan, y los días bons y malos son normals.
 
-| Fase | Puzlas que sovén encajan | Tu papel |
+| Etapa | Puzles que sovén van bien | Lo teu papel |
 | --- | --- | --- |
-| Inicial | Puzlas conoxidas con menos piezas que antes, crucigramas y sopas de letras en letra gran, puzlas en linia de 9 piezas | Compañero: deixa-le triyar, ayuda cuando te lo pida |
-| Media | Puzlas con una docena de piezas gran, puzlas en linia de 4 piezas, sopa de letras leyida en voz alta en compañía | Prepara-lo, ordena as piezas, da-le una a una |
-| Avanzada | Mirar juntos una imachen acabada, Trobar o mismo con dos imachens, agarrar unas pocas piezas gran | Acerca-lo a ella; tu compañía ye la actividat |
+| Inicial | Puzles conoixidos con menos piezas que antes, crucigramas y sopas de letras en letra grande, puzles en línia de 9 piezas | Compañero: deixa-lo tría, ayuda cuan lo pidan |
+| Mediana | Puzles con una docena de piezas grandes, puzles en línia de 4 piezas, sopa de letras leyida en voz alta chunto | Preparar, ordenar piezas, dar-ne una cada vez |
+| Tardana | Mirar chunto un imache acabau, Trobar o mesmo con dos imaches, sostener unas poques piezas grandes | Llevar-lo a ell; la tuya compaña ye l'actividat |
 
-## Cuando cal fer una puzla más fácil, o parar?
+## Cuan has de fer un puzle mas fácil, u parar?
 
-Fixa-te en os suspiros, en as piezas apartadas, en un "no puedo" repetiu o en as miradas preocupadas. Son señales pa cambiar algo, no pa insistir.
+Fíxate en suspiros, en empuyar as piezas lueñe, en un "no puedo" repetito u en miradas preocupadas. Son sinyals pa cambiar algo, no pa insistir.
 
-- **Fe-la más chica.** Menos piezas, o deixa-le solo as ultimas pocas.
-- **Fe-ne más tu** y convida-la a ayudar en as partes fáciles.
-- **Cambia a una cosa cercana:** ordenar piezas por color, una puzla en linia de 4 piezas, o [pintar](/games/coloring/).
-- **Para.** Aparta-la y tome-se una tasa de té. Puede tornar otro día, o no tornar.
+- **Fe-lo mas chico.** Menos piezas, u deixa-le solament las ultimas.
+- **Fe-ne mas tu mesmo** y invita-le a ayudar en as partes fáciles.
+- **Cambia a una cosa cercana:** ordenar piezas por color, un puzle en línia de 4 piezas, u [pintar](/games/coloring/).
+- **Para.** Aparta-lo y tomate un café u un té. Puedes tornar otro día, u no tornar.
 
-Si as puzlas empiezan a semellar un recordatorio de lo que costa, está bien dexar-las. Hay muitas otras maneras de pasar buen tiempo juntos; nuestras [101 ideas de actividatz](/activities/ideas/) son un buen sitio pa mirar.
+Si los puzles empiezan a parecer un recordatorio de lo que cuesta, está bien dexar-los. Hi ha muitas atras maneras de pasar bellos momentos chunto; nuestras [101 idees d'actividatz](/activities/ideas/) ye un buen puesto pa mirar.

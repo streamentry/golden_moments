@@ -1,28 +1,32 @@
 ---
-title: "Dementia tigɛlaw ye bingo ni sɛbɛnw, sɛbɛn walima ekran kan"
-seoTitle: "Dementia tigɛlaw ye bingo ni sɛbɛnw"
-description: "Dementia tigɛlaw ye bingo ni sɛbɛnw, sɛbɛn walima ekran kan: sɛbɛnw ka bon, wele ka dɔgɔ, sɔrɔli tɛ ɲɛfɛ ... , ani kɔ ɲɔgɔn ni sɔrɔ ni ka ka ... ni ka."
+title: "Picture Bingo dementia bɛ mɔgɔ kɔrɔw ye, sɛbɛnnen walima ekran"
+seoTitle: "Picture Bingo dementia bɛ mɔgɔ kɔrɔw ye"
+description: "Picture bingo dementia bɛ mɔgɔ kɔrɔw ye, sɛbɛnnen walima ekran kɔnɔ: sɛbɛ fɔlɔ ɲuman, kalanbaga ka ɲɛfɛ, sɔrɔli ka tɛ ko ye, ani tips dɔgɔ kɔnɔ ni so kɔnɔ."
 section: activities
 order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Bingo sɛbɛnw bɛ nɔmɛ ɲɛ, ka sɛbɛnw bɔnɲɔgɔn kɛ, minnu bɛ ye ka ɲɛnɛ ka sɛbɛnw dɔ ... ni o bɛ kɛ. Sɛbɛn kɛlɛ bɛ kɛ bɔn ka kɛ kɔfɛ, walima wele bɛ ekran kan. Wele kelen-kelen sɛbɛn, ka mɛn bɛ ye o bɛ mark kɛ. Ka kɔnɔ ... ka sɛbɛnw ka bon, ani sɔrɔli bɛ ... . Bingo kɛlɛ ɲɛ ye lɔ ka kɛ kɛlɛ ... kɛ, ... tɛ ka sɔrɔ ni dɔgɔ kɛ.
+  Picture bingo bɛ nɔmɛrɛ bɔ, ka sɛbɛ fɔlɔ ɲuman ni ɲɛnabɔ kɛ. Mɔgɔ bɛ se ka
+  sɛbɛ ye ka ɲɛfɛ, a tɛ ka karanw ni hakilina ɲɛ. Sɛbɛnnen kɛ walima ekran
+  kalanbaga kɛ, sɛbɛ kelen kelen wele, ani mɔgɔ bɛɛ ka sɛbɛ min ye, o ka
+  dakun. Dɔgɔ ka sigi, sɛbɛ ka ɲuman, ani sɔrɔli ka kɛ ka ɲɛnama. Bingo kɔrɔ
+  ka ɲɛnamaya ka ɲi lɔ, sɔrɔli ka wuli ma kɛ.
 keyPoints:
-  - "Sɛbɛnw ka kɛ nɔmɛw ɲɛ, ka sɛbɛn kelen bɛ ka bon, ka dɔgɔ, ka ko kelen ka ɲɛ ... kan."
-  - "Wele ka fɛn ɲɛ, ka sɛbɛn yɛrɛ jira, ka a tɔgɔ fɔ. Tɔgɔ ɲɔgɔn kɛ kelen, ka a dɔ ... ."
-  - "Mɛn 4 ni 8 ye ka kɛ ɲɔgɔn, ka mɛn ... sigi ka wele ni kaari ɲɛ ye."
-  - "Sɔrɔli kɛ sɔn'na. Ɲɛnɛma kɛlɛ ka kɛ ... , mɛn bɛ wele sɛbɛn bɛnnɛ ... ko."
-  - "Ka mɛn sɔrɔ wele ... ɲɛ. Mɛn dɔw bɛ kɛ ... ni tɔgɔ ... , o ka ... don."
+  - "Sɛbɛ kɛ nɔmɛrɛ ɲɛ, ka sɛbɛ o sɛbɛ ɲuman, ka a ɲɛnabɔ, ani ka a ye fɛn kelen ko ye min bɛ dɔnin."
+  - "Wele ka sɔrɔ, sɛbɛ jigi ka a tɔgɔ fɔ. Tɔgɔ in kelen fɔ ka ɲɛ, ka tɛmɛ."
+  - "Mɔgɔ 4 ni 8 cɛ kɔrɔ kɛ dɔgɔ kɔnɔ, ka mɔgɔ sigi ka wele ni a kaarti ɲɛ."
+  - "Sɔrɔli kɛ sɔrɔ kɔ ye. Kalanbaga bɛ se ka ɲɛfɛ ka ɲɛnamaya ka sɛbɛ min ye, o fɔlɔ bɛɛ ka kɛ fɛ."
+  - "Sɔrɔ ɲɛ ka sɔrɔ ye sɔrɔli fɔ, sɔrɔ ko kɔnɔ tɔgɔ. Mɔgɔ dɔw bɛ ɲɛnabɔ ni kanu ko sɔrɔ fɔ ye, o ye ka ɲɛ."
 faq:
-  - q: "Dementia tigɛlaw ye bingo ni sɛbɛnw ye, o ye mun ye?"
-    a: "O ye bingo ye min bɛ sɛbɛnw ta nɔmɛw ɲɛ. Mɛn bɛ kaari kan sɛbɛn mark kɛ, ni wele bɛ o fɔ walima a tɔgɔ fɔ. O bɛ ɲɛ ... tigɛlaw ye, minnu bɛ nɔmɛ ɲɛ ... , ani o bɛ kɛlɛ ɲɛfɛ ka sɔrɔ."
-  - q: "Mun na n bɛ bingo kɛlɛ kɛ mɛn ɲɔgɔn ye?"
-    a: "Kaari ... bɛnɛ walima ekran kan wele kɛ, ka sɛbɛn kelen-kelen wele. Ka kuma ɲɛ, sɛbɛn yɛrɛ jira ka a ... ni mɛn ye ka a ɲɛ sɔrɔ ... . Ka mɛn dɔgɔ, ka tɛ ... , ka mɛn bɛ mark kɛ ni fɔ ... , kalan walima ... ye."
-  - q: "Bingo bɛ hakili dɛsɛ wa?"
-    a: "Ayiwa. Kɛlɛ dɔ tɛ dementia tigɛ walima a sɛgɛn ... ko jɛkabaga. Sɛbɛn bingo ye kɛlɛ ye min bɛ ɲɔgɔn ni ɲɔgɔn ye. A nafa ye mɛn ɲɔgɔn ni ... , wele ... fɛn ... ni sɛbɛn sɔrɔli ... , tɛ hakili kan ... ."
-  - q: "Ni mɛn bɛ ka ban walima a tɛ sɛbɛn sɔrɔ, o bɛ mun kɛ?"
-    a: "A ka ban ka kɛ. A bɛ se ka ... ka sɛbɛn sɔrɔ ni ɲɔgɔn ye, ka a ... ni a yɛrɛ ka jɛkabaga ... . Mɛn ka ɲɛnajɛ ye ka a kɛ ɲɛfɛ, o ka bon ... kɛlɛ ka ... ka ɲɛ."
+  - q: "Picture bingo dementia bɛ mɔgɔ kɔrɔw ye, o ye jumɛn ye?"
+    a: "O ye bingo ye min bɛ sɛbɛ ɲuman kɛ nɔmɛrɛ yɔrɔ. Kalanbaga bɛ sɛbɛ yɛrɛ ye, a bɛ se ka sɛbɛ dɔ ɲɛnabɔ walima tɔgɔ fɔ, o kɔ, mɔgɔ bɛ sɛbɛ kaarti kɔnɔ ka ɲɛfɛ. O bɛ ɲɛ mɔgɔ ye min bɛ nɔmɛrɛ ɲɛ, ani a bɛ kɛ ka kalanbaga ɲɛ."
+  - q: "Mɔgɔ ni ye kalanbaga kɛ cɛ fɛ, n bɛ o kɛ cogo di?"
+    a: "Kaarti ni sɛbɛ kɛ ni ekran kalanbaga kɛ, sɛbɛ kelen kelen wele. Kuma ka ɲɛfɛ, sɛbɛ ɲɛnabɔ, ani mɔgɔ ka wagati di ka sɛbɛ ɲɛ. Dɔgɔ ka sigi, ka kɔlɔsi ma kɛ, ani mɔgɔ bɛ se ka kaarti kɔnɔ ka sɛbɛ kɛ ni jɛ walima kɔrɔ walima jɛ bolo ye."
+  - q: "Picture bingo bɛ hakili dɛmɛ wa?"
+    a: "Sɔrɔ tɛ ko kɛ min bɛ dementia kɛ walima a sɔrɔ ka fɛ, a tɛ tɛmɛ. Picture bingo ye kalanbaga ye min bɛ kɛ mɔgɔ dɔw ka kɔnɔ. A ka ɲɛnamaya bɛ kɛ kumaw ni mɔgɔ ka tɛmɛ ni sɛbɛ ɲɛfɛ ka nisɔndiya, ma kɛ hakili ko ye."
+  - q: "Mɔgɔ dɔ bɛ fɛ ka ban walima a tɛ se ka sɛbɛ ɲɛ, n bɛ mun kɛ?"
+    a: "A ka ban ka a kan. A bɛ se ka sɛbɛ ɲɛ ni aw ye, walima a ɲɛ jɛ, walima a ka kalanbaga ni a ka yɛrɛ ka sɛbɛ ɲɛ ni a yɛrɛ ka hakilina ye. A ka sɛbɔli ka ɲɛfɛ ka ɲi tɔ, ka kaarti ye ka ban ka fɛ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -38,51 +42,53 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-Bingo ye kɛlɛ ye min ka ɲɛ ... mɛn dɔw bɛ ... ka kɛ kɛlɛ ... , nka nɔmɛw bɛ ... dementia tigɛlaw bɛ ... ka kɛ kɛlɛ ... . Sɛbɛn bingo bɛ ... ka kɛlɛ ... ni nɔmɛ ... ko ... sɛbɛnw ka bon ... . A bɛ kɛ ... ni ... , ... walima ... ... . Nin kunnafoni bɛ ... ka kɛlɛ kɛli, ka a ... , ani ka ... ka sɔrɔli ... .
+Bingo ye kalanden ye min bɛ mɔgɔ dɔw ka kɔnɔ kɛ, ani kɔrɔ mɔgɔw bɛ o dɔnin. Nin nɔmɛrɛw ka kalanbaga bɛ dɔ kɛ mɔgɔ dɔ ye min bɛ dementia kɛ, o bɛ kɛ kɔfɛ. Picture bingo bɛ sɛbɛ kɛ bingo kɔnɔ, bɛ a ka ɲɛfɛ dɔgɔ, ani bɛ sɛbɛ ɲuman kɛ nɔmɛrɛ yɔrɔ. A bɛ kɛ so kɔnɔ, walima don ka dɔnkili kɔnɔ, walima mɔgɔ kɔrɔw ka so kɔnɔ. Nin tɔw bɛ yɛrɛ ka kalan cogo, ani o bɛ sɛbɛ kɛ cogo jumɛn, ani sɔrɔli ka tɛ ko ye cogo jumɛn.
 
-## Sɛbɛn bingo bɛ ka kɛ cogo di
+## Picture bingo bɛ kɛ cogo di
 
-Mɛn kelen-kelen bɛ kaari kelen ta, min bɛ sɛbɛnw ... (i n'a fɔ: sɔgɔnikɔnɔ, sɔgɔnɔ, wulu, ... ). Wele bɛ sɛbɛn kelen-kelen jira walima a tɔgɔ fɔ. Mɛn bɛ sɛbɛn min bɛ kaari kan ... mark kɛ. Mɛn min bɛ ... ka sɔrɔ, walima ... , o bɛ ... « Bingo » fɔ, nka ... ɲɔgɔn bɛ ... .
+Mɔgɔ kelen kelen bɛ kaarti dɔ sɔrɔ, kaarti kɔnɔ sɛbɛ dɔw bɛ yen, i ko warijɛ, misi, wɔlɔsi, kɔnɔ jɛ ni kɛnɛ. Kalanbaga bɛ sɛbɛ kelen kelen yɔrɔ walima a tɔgɔ fɔ. Mɔgɔ bɛɛ bɛ sɛbɛ min ye kaarti kɔnɔ, o bɛ mark kɛ. Mɔgɔ min bɛ sɛbɛ ɲɛ kaarti kɔnɔ ka fila dɔ ɲɛ, walima kaarti kɔnɔ ka ɲɛnabɔ min ye ka fara, o bɛ se ka «Bingo» fɔ, nka dɔgɔ dɔw bɛ sɔrɔli bɔ ka kɔfɛ.
 
-I bɛ se ka ... [sɛbɛn kɛlɛ ... ](/activities/printable/) ... walima [sɛbɛn bingo kɛlɛ](/games/picture-bingo/) ... , o bɛ ... wele ekran kan mɛn ɲɔgɔn ye. Ale kɛlɛ ... bɛ kɛ ... tablet ... ka ... mɛn bɛɛ ye ka a ... .
+I bɛ se ka kaarti ye min bɛ bɔ [kalanden ka printable](/activities/printable/) kɔnɔ, walima [picture bingo kalanden](/games/picture-bingo/) min bɛ kalanbaga ekran kɔnɔ ka dɔgɔ ɲɛ. O bɛɛ bɛ ɲi tablet kɔnɔ min bɛ mɔgɔ bɛɛ ka ɲɛ.
 
-## Kɛlɛ ka sigi
+## Kalan ka sɔrɔ
 
-- **Mɛn dɔgɔ ye.** Mɛn 4 ni 8 ye ... ɲɛ. Mɛn ka ca ... ka ... , o bɛ ... ka ... .
-- **Sɛbɛnw ka bon.** Ka lɛkɛ ... ni ko kelen ... ... kan kelen-kelen. Kaari ka ... kɛ.
-- **Mɛn sigi ɲɛ ... .** ... ka ... wele ni ... kaari ye ... , ni dɛmɛ ... bɛ ... .
-- **Ka ... ko dɔgɔ kɛ.** Ka ... ni ... , ... bɛ ... ka ... ... ni kalan.
-- **Kɛlɛ dɔgɔ ka ... .** Miniti 30 ... bɛ ... ni ... sɔrɔ. ... , ni ... bɛ ... ... ka ... .
+- **Dɔgɔ ka sigi.** Mɔgɔ 4 ni 8 ye ɲuman ye. Dɔgɔ bɔnɔ kɔnɔ bɛ kɛ ka ɲɛnama, ani o bɛ kɛ ka ɲɛfɛ kɔlɔsi.
+- **Sɛbɛ kɛ ka bon.** Sɛbɛ fɔlɔ ɲuman, lamini ɲɛnabɔ, ani sɛbɛ kelen kelen kɔnɔ fɛn kelen. Kaarti ka ɲɛnabɔ ka ɲi ma kɛ.
+- **Mɔgɔw sigi ɲuman.** Mɔgɔ bɛɛ ka sigi yɔrɔ min bɛ se ka wele ni a yɛrɛ ka kaarti ɲɛ, ani dɛmɛnɛ dɔ ka sigi a ɲɛ, ni a ko.
+- **Ka sɛbɛ fɛn ɲuman ye.** Sɛbɛ fɔlɔ dɔw ye, i ko kɔnɔ kɔrɔ, wɔrɔ, walima mɔgɔ ka jɛ kɛ kaarti kɔnɔ. Ka sɛbɛ fɔlɔ dɔw to yɛrɛ ka sɛbɛ kɔnɔ.
+- **Kalan ka dɔgɔ.** Miniti 30 bɛ se ka ɲɛ. Ni mɔgɔw ka fanga bɔra, ka kalan kɛ, ka ɲɛfɛ.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ... ka kɛlɛ ka ... mɛn bɛ ... ka mun bɛ ... ... , o ka ... kaari ni ... dɔgɔya ... .
+Nin [Nɛnɛ ka Kɔlɔsili Ka Kalanden (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ fɔ ko kalan ka kɛ mɔgɔ min bɛ se ka o kɛ, o ye ɲuman ye. O de kosɔn, kaarti ni kalan cogo bɛ se ka dɔgɔya ni a ye ɲuman ye.
 
-## Ka sɛbɛnw wele
+## Sɛbɛ wele cogo
 
-1. **Sɛbɛn ... ka jira** walima ... ekran kan ... ka kuma ɲɛ.
-2. **A tɔgɔ fɔ ka ɲɛ,** ka kuma ... ko: « Sɔgɔnikɔnɔ. » ... kelen ... , ka ... .
-3. **A makɔnɔ.** Mɛn bɛɛ ye ... ka ye ni ka mark. Sɛbɛn kɔfɛ ... ... mɛn ... ye.
-4. **Ka a ... , ni a ka ... .** « Sɔgɔnɔ ... » walima « ... ... ... » ... kuma ... .
-5. **Ka wele ... ... .** Wele ... ... bɛ ... ka ... ko ... .
+1. **Sɛbɛ ɲɛfɛ walima ekran kɔnɔ a ɲɛ** a kuma fɔ ɲɛ.
+2. **Ka a tɔgɔ fɔ ka ɲɛ**, kuma ɲuman ye: «Warijɛ.» Ka a fɔ kelen tɛmɛ, ka ɲɛ.
+3. **Ka tɛmɛ.** Mɔgɔw ka wagati di ka ɲɛ ka sɛbɛ kɛ. Sɛbɛ tɔw kɛ ɲɛ, fɔ mɔgɔ caman ye ka wagati sɔrɔ.
+4. **Ka a yɛrɛ fɔ, ni a dɛmɛ.** «Jɛ wulu» walima «fɛn min bɛ kɛ ka taa ka ɲɛ» bɛ se ka kuma kɛ.
+5. **Ka kalan ka dɔgɔ.** Wele ka dɔgɔ bɛ ɲi ka tɛmɛ ka ɲɛ.
 
-## Ka sɔrɔli kɛ sɔn'na
+## Sɔrɔli ka tɛ ko ye
 
-Sɔrɔli ... ye ... . Mɛn min ... ka ... , a bɛ ... ni ... , ani mɛn min ... sɔrɔ ... , a ... ka ... . I bɛ ... ... ...:
+Sɔrɔli bɛ ɲɛnabɔ. Mɔgɔ min bɛ bɔ, a bɛ se ka hakilina ka sɛgɛn, ani mɔgɔ min bɛ sɔrɔ ka hɛrɛ, a bɛ se ka lamini. Nin ye sɔrɔli ka dɔ ye:
 
-- **Mɛn bɛɛ ... sɛbɛn kelen.** Mɛn kelen-kelen ... sɛbɛn kelen min ... ... , ... ... ko ... .
-- **Kaari kelen ... ... .** Ka mɛn ... ... sɛbɛn ... kan kelen ... fɔ.
-- **Kɛlɛ ... sɛbɛn ... ... .** ... sɛbɛn ... ... , ... kaari ... , ... ... bɛ ... ... ni sɔrɔ ... ... .
-- **Sɔrɔli ka dɔgɔ walima ka ... .** Biskiri walima dɔnkili ... ... ... ka ... ... ... ... .
+- **Mɔgɔ bɛɛ sɔrɔ sɛbɛ kelen.** Mɔgɔ kelen kelen bɛ sɛbɛ kelen fɔ min ye a kaarti kɔnɔ, ka ɲɛnabɔ, ka mɔgɔ bɛɛ ka o ɲɛ.
+- **Kaarti kɛ kuma ni.** Mɔgɔw bɛ kuma kɛ sɛbɛ kelen kɔnɔ min ye kaarti kɔnɔ.
+- **Sɛbɛ bɛɛ wele, ka kaarti ye ka ɲɛnama.** Sɛbɛ bɛɛ kaarti kɔnɔ wele, ka kaarti kura kɛ, sɔrɔ ko tɛ ka kɛ ko fɛ.
+- **Sɔrɔ ka dɔgɔ walima ka bɔ.** Bisikiti walima dɔ dɔgɔ ye, ni kuma walima dɔ ye, a ka ɲi ka tɛmɛ ni kɛrɛnkɛrɛnnen ye.
 
-## Tigɛlaw minnu bɛ ... kɔfɛ
+## Ka kɛ mɔgɔ min bɛ ɲɛnama fɔlɔ kɔnɔ
 
-Mɛn min bɛ sɛbɛn sɔrɔ ... ka ... , kaari ... sɛbɛn 4 walima 6 ... . Mɛn kelen-kelen ... kaari kelen. Ka dɛmɛbaga ... kaari ... mɛn ... ka ... , walima ka ... ... ... ... ... . Mɛn dɔw bɛ ... ... ... wele ka kuma ... .
+Mɔgɔ min bɛ sɛbɛ sɔrɔ ka hɛrɛ, o bɛ se ka kaarti kɔnɔ ni sɛbɛ naani walima fila kɛ. Walima kaarti kelen kelen dɔ bɛ di mɔgɔ kelen kelen ma. Dɛmɛnɛ bɛ se ka kaarti mara ka mɔgɔ bɛ ɲɛfɛ, walima a ka chip bɛ se ka tɛmɛ ka a ka sɛbɛ ko, ni a ko. Mɔgɔ dɔw bɛ ɲi ka kalanbaga ɲɛ ka kuma ɲuman ye, ka ɲɛ.
 
-I ka ... ... ... , i n'a fɔ ... ka ... walima ... , ... ... , ka ... . Ni ... bɛ ... , ... ... . Sigi ... ... kɛlɛ ... [tigɛlaw ... kɛlɛ](/activities/late-stage/) ... .
+Ka ɲɛ mɔgɔ ka hɛrɛ kɛ, i ko ka ɲɛ ni a ka ɲɛ, walima a ka ka fɛ, ka ɲɛ ko ɲɛ. Ni o ye, ka kalan bila. Ni yɛrɛ bɛ ɲɛfɛ mɔgɔ ka kɛnɛ kɛ, ka kalan ɲɛ ka sɔrɔ. Mɔgɔ ka ɲɛnamaya bɛ ɲi ka tɛmɛ kaarti ka sɔrɔ ka ɲɛnama ka ɲi.
 
-## Bingo sɛnɛfɛ tulonkɛ ni ... yɔrɔ
+Ni i b'a fɛ ka ɲɛ kalan dɔw kɔrɔ min bɛ kɛ ka sigi, [kalan ka wagati kɔnɔ ka kalan](/activities/late-stage/) ka ɲɛ.
 
-Mɛn ɲɔgɔn kɛlɛ bɛ ... ... mɛn ... ... ... . [Tulonkɛ kɛlɛ sɛbɛnw ... sɛnɛfɛ ni tile ... yɔrɔ](/activities/care-home-groups/) ... ka ... sigi, ... ... ... mɛn ... bɛ ... ... . Bingo ... ... ... ... ... ... , ani ... [finish-the-saying](/activities/finish-the-saying/) ... ... kɛlɛ ... ... kɔfɛ.
+## Bingo mɔgɔ kɔrɔw ka so kɔnɔ ni dɔnkili kɔnɔ
 
-## Bingo bɛ min kɛ ani min tɛ kɛ
+Kalan kɔnɔ bɛ kɛ ɲuman ni mɔgɔ min bɛ yɔrɔ kelen kɔnɔ ka ɲɛnama. [Mɔgɔ caman ka kalan ka kɔrɔw ka kalanden](/activities/care-home-groups/) bɛ fɔ ka kalan kɛ, ka mɔgɔw sigi, ani ka mɔgɔ min bɛ bɔ, o ka ɲɛ. Picture bingo bɛ kɛ ni dɔ ye, ni hakilina ni kumaw ka dɔ bɛ kɛ, ani [finish-the-saying](/activities/finish-the-saying/) kalan sɔrɔ bɛ kɛ kɔfɛ, dɔgɔ kɔnɔ.
 
-Bingo ye kɛlɛ ye min bɛ mɛn ɲɔgɔn ... ani min bɛ ... ... . A bɛ se ka mɛn ... ... , ka sɛbɛnw ... ka ... ... , ani ka ... ... ... . A tɛ dementia ... walima a ... ... ... ... . ... ... ... mɛn ... sɔrɔ ... , ... mɛn ... sɔrɔ ... .
+## Bingo bɛ se ka mun kɛ, ani a tɛ se ka mun kɛ
+
+Picture bingo bɛ mɔgɔ ɲɛ ni kɔrɔ ye, a bɛ mɔgɔ lase sɛbɛ ɲɛ ni kuma ɲɛ, ani a bɛ ɲɛnamaya ɲuman kɛ. A tɛ dementia kɔrɔ ni a ka sɛgɛn. A ka ɲɛnabɔ ka kɛ ni mɔgɔ ye, tɔɔrɔ ye ko ka kɛ ni mɔgɔ ye, o ka ɲɛnama ka ɲi lɔ. Ni mɔgɔ ka dɔ ɲɛfɛ, o ye kalan ka ɲɛfɛ ye, sɔrɔli ye ko tɛ.

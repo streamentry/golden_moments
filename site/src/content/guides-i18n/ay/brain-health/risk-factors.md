@@ -1,33 +1,33 @@
 ---
-title: "Demencia riesgo: 14 yatiyawinaka, Lancet Commission"
-seoTitle: "Demencia riesgo: 14 Lancet yatiyawinaka"
-description: "2024 Lancet Commission yatiyata 14 demencia riesgonaka, jaqin pachapa sarnaqañapa ukanakaxa, yatiyañanakampi ukhamarak doctor jiwasampi parlañataki."
+title: "Demencia riesgo factores: 14 Lancet Comisión yatiyäna"
+seoTitle: "Demencia riesgo factores: 14 Lancet factores"
+description: "Lancet Comisión 2024 yatiyatäki 14 demencia riesgo factores, jakañ phasenakan uñjatañamawa, ukat kunatï yatiñanakax jupanakaru lazo sañ uñjapxi, doctor jilïrux parlañamawa."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  2024 Lancet Commission yatiyata 14 demencia riesgonaka mayjtayañ puedi:
-  jisk'a yatiñ, uñ jan uñjaña, LDL colesterol alt'a, jan kusisiña, mayjt'awi
-  jan waliki, jan lupiña, chhaqhaña, jan ch'uxña, alt'a yuqalla, lanti
-  (obesidad), alt'a umaña, jaqinakampi sarnaqañ jisk'a, jaya uñjaña ukhamarak
-  mayt'awi jan waliki. Ukanakax taqi chiqan 45% jaqinakan demencia ukanakan
-  yatiyatanakampi mayt'atäpxi, jan ukax kunas jupanakax jan uñt'ayañkiti.
+  2024 Lancet Comisión yatiyatäki 14 demencia riesgo factores: jan yatiñ,
+  jaykuñ, colesterol LDL alta, depresión, umaki jaxch'ata, jan lurañ,
+  diabetes, cigarro, presión alta, jach'a qarasa, jumpharu umañ, jaqinakamp
+  jan sarnaqaña, jallu airi usu ukat jan uñjañ. Taqpach ukanakax 45% kuna
+  demencia utjki ukanakampi lazo utjapxi, mä jaqi uñjatañ janiw ch'iqa
+  utjkaspati.
 keyPoints:
-  - "Pa tuqinaka jakaña pacha ukanakaxa: mayja, jaqi uñacht'ayaña ukhamarak ukanakax, 14 tuqinakax jakaña pacha ukanakan."
-  - "Uñ jan uñjaña ukhamarak LDL colesterol alt'a jaqi chuyma pacharuxa, sapa mayja 7% demencia ukanakampi mayt'atäpxi, taqi chiqan ukanakat sipan jach'a."
-  - "Ukanakax jaqinakan yatiyatanakawa, mayjt'awi sarnaqañanakax chiqa uñt'añakiti. Mayjtanakax jan chiqapa mayt'atäpxi."
-  - "Jakaña pacha ukat utjkir genesa, janiw kunaru mayjtañ puedkiti, ukhamarak jach'a riesgonakawa. 14 riesgonak jisk'ayañax janiw kuna jaqirus demencia jan utjañ yatiyañkiti."
-  - "Ukanakan ukanakax, uñ uñjaña, uñ jan uñjaña, alt'a umaña uñjaña ukanakax, jaqi walikiñ jaqinakatakix, doctor jiwasampi parlañataki."
+  - "Ukanakax jakañ phasenakan utjapxi: mä ukax umar uñtataña, 10 jaya uñtataña ukat kimsa qhipa uñtataña."
+  - "Jaykuñ ukat colesterol LDL alta jaya uñtataña, sapa mayni mä 7% kuna demencia utjki ukanakampi lazo utjapxi, taqi mä factorat sipansa ch'iqa."
+  - "Ukanakax jaqinakan utjki ukanakan yatiñapawa, ukat mayjt'ayañanakax mä kuna lurañ kunas utjañapataki sañ uñjapxi. Yatiñanakax mä ch'iqa qhanañ utjapxi."
+  - "Uñt'ayañ ukat wawanakan janiw uñjatañ utjkiti, ukanakax janiw jaqi cambiañ puedi. Ukanak wakisiñ janiw kuna jaqi demencia jan utjañapataki chiqa sañ utjkiti."
+  - "Ukanak lurañ taqpach, ukat qhithapa, jaykuñ, uñ, ukanakan uñjañ, ukanakax janiw demencia sipansa jakañ yatiñ, doctor jilïrux parlañamawa."
 faq:
-  - q: "¿Kunak 14 mayjtayañ demencia riesgonakax utji?"
-    a: "2024 Lancet Commission yatiyatapan jisk'a yatiñ, uñ jan uñjaña, LDL colesterol alt'a, jan kusisiña, mayt'awi jan waliki, jan lupiña, chhaqhaña, chhaqhaña jan ch'uxña, alt'a yuqalla, lanti, umaña ukhamarak jaqinakampi sarnaqañ jisk'a, jaya uñjaña ukhamarak uñ jan uñjaña. Taqi chiqan demencia ukanakan chiqapa 45% ukanakampi mayt'atäpxi."
-  - q: "¿Kuna demencia riesgox ch'iqapawa?"
-    a: "Taqi jaqinakan Commission yatiyatapan, uñ jan uñjaña ukhamarak LDL colesterol alt'a jakaña pachanakan sapa 7% ukanakampi mayt'atäpxi, qhipa jisk'a yatiñ ukhamarak jaqinakampi sarnaqañ jisk'a sapa 5% ukanakampi. Kuna riesgox jupa tuqita ch'iqapa ukax jupan utjiwipa ukanakapan, ukatwa doctor ch'iqa yatiyirïtaxa."
-  - q: "¿2024 maranxa kuna riesgo machaq yatiyatänwa?"
-    a: "Aka. 2024 yatiyañax jakaña pacha ukan LDL (jan walik) colesterol alt'a ukhamarak jakaña qhipa uñ jan uñjaña machaq yatiyatäpxi, 2020 maranxa yatiyatänakan 12 tuqinakar. Commission ukanakax sapa 7% ukhamarak 2% ukanakampi mayt'atäpxi."
-  - q: "¿Jakaña pachax riesgo mayjtayañ puedixaraki?"
-    a: "Janiw. Jakaña pacha Alzheimer ukan jach'a yatiyata riesgowa, janiw mayjtañ puedkiti. Genesanakas yanapt'apxi. Aka pachan 14 tuqinakax yatiyata mayjtayañ puedkaspa."
+  - q: "Kuna 14 demencia riesgo factores cambiable utjapxi?"
+    a: "2024 Lancet Comisión yatiyäna: jan yatiñ, jaykuñ, colesterol LDL alta, depresión, umaki jaxch'ata, jan lurañ, diabetes, cigarro, presión alta, jach'a qarasa, jumpharu umañ, jaqinakamp jan sarnaqaña, jallu airi usu ukat jan uñjañ. Taqpach ukanakax aka pacha demencia utjki ukanakan kimsa qallqu tuqinakampi lazo utjapxi."
+  - q: "Kuna demencia riesgo factor ch'iqa sañ?"
+    a: "Aka pachan taqi jaqinakan, Comisión yatiyäna jaykuñ ukat colesterol LDL alta jaya uñtataña, mä 7% kuna utjki ukanakampi, ukat jan yatiñ, jaqinakamp jan sarnaqaña, mä 5% ukanakampi lazo sañ. Kunatï ch'iqa sañ ukax mä jaqi jakañ ukan ukat doctor jilïrux yatiñanakampi utjaraki."
+  - q: "Kimsa phaxsi 2024 qhipa factores yapachatätax?"
+    a: "Jisa. 2024 uñacht'äwix colesterol LDL (mä ch'ulla) alta jaya uñtataña ukat jan uñjañ qhipa uñtataña yapxatäna, 2020 mara 12 factores qhipana. Comisión yatiyäna, ukanakax 7% ukat 2% kuna utjki ukanakampi lazo utjapxi."
+  - q: "Mayjt'ayañ jakäwina ukax demencia riesgo utjaspati?"
+    a: "Janiw. Mayjt'ayañ janiw cambiañ puedi, ukat Alzheimer ukan ch'iqa riesgo ukawa. Genes ukanakax jakañ utjaraki. Aka uñacht'äwin 14 factores ukanakax yatiñanakan cambiable sañ uñjatäpxi."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,110 +49,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-Riesgo ukax kunas jaqi demencia utjañ puedi sasaw yatiyaña. Ukax sapa kuti
-mayjt'aña janiw, ukhamarak riesgo utjañax janiw demencia utjañkiti. Aka
-qillqatax 2024 Lancet Commission yatiyata 14 demencia riesgonakampi
-mayjtayañ puedi sasa, ukanakan yatiyañanakampi, ukhamarak doctor jiwasampi
-parlañataki.
+Riesgo factor sañ ukax jan walt'äwinakaw utjañapataki, kunatï uñjasiñ utjañapataki. Ukax taqi kunapachas kuna jaqi uñjatañ utjañapataki janiw. Demencia utjañ jan utjañ ukax janiw kuna riesgo utjañ ukar uñjañamäkiti. Aka uñacht'äwix 2024 Lancet Comisión yatiyäna 14 demencia riesgo factores ukanakaw uñacht'ayi, ukanakax cambiable sañ uñjatäpxi, ukat kunatï yatiñanakax jupanakaru lazo sañ uñjapxi, ukat doctor jilïrux parlañamawa.
 
-Jach'a uñjañataki, jach'a yatiñanakampi qhipa ukanakatak, [Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/) uñakipt'am.
-Aka qillqatax taqi yatiyañawa, janiw doctor yatiyañakiti; uñakipt'am
-[medical disclaimer](/medical-disclaimer/).
+Jach'a uñjañanakatak, nayra yatiñanakax ukat jach'a pruebanakan yatiñanakax, qalltam [¿Demencia jark'atäspati? Kunatï yatiñanakax sapxi](/brain-health/can-dementia-be-prevented/). Aka sarnaqäwix mä yatiñ siwa, janiw medicina yatiñ utjkiti; uñjapxam [medical disclaimer](/medical-disclaimer/).
 
-## ¿Kunas 14 demencia riesgonakax?
+## ¿Kunas 14 demencia riesgo factores utjapxi?
 
-[2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-27 demencia yatiri jaqinakan qillqatapan, 14 mayjtayañ puedi riesgonakax taqi
-chiqan 45% demencia ukanakan utjañ yatiyatänwa. Sapa riesgo ukan porcentaje
-ukax Commission yatiyatapawa, taqi chiqan jaqinakan utjañ yatiyata, phuqhata
-jiwasa. Ukanakax mayjt'atäpxi, sapa jaqix akhama riesgonak utjapxi, ukatwa
-suma jaqisa 45% sapa.
+[2024 Lancet Comisión](https://doi.org/10.1016/S0140-6736(24)01296-0), 27 demencia yatiri jaqinakan qillqatäna, yatiyäna 14 cambiable riesgo factores taqpach aka pacha demencia kuna utjki ukanakaru 45% lazo utjapxi. Kunapachatix uñjatäpan, cada factor ukan porcentajex Comisión yatiyatäki, taqi kuna utjki ukanakan kuna jaqinakax utjapxi ukanakaru chiqpachaw, ukat pä ch'iqa jukʼanakaw utjapxi. Ukanak yatiñanakax mayt'atäpxi, kunatï jaqinakax pä kuna riesgo utjapxi, ukhamaw taqpach 45% ukaru chiqapar purintapxi, janiw ukat juk'ampi.
 
-| Riesgo | Jakaña pacha | Porcentaje | Kuna yatiñ | Kuna ruwañax utji |
+| Riesgo factor | Jakañ phase | Kuna utjki ukanakan porcentaje | Kunatï yatiñanakax sapxi | Kuns lurasma |
 | --- | --- | --- | --- | --- |
-| Jisk'a yatiñ | Mayja jakaña | 5% | Jisk'a yatiñ maranakax alt'a riesgo utjañ yatiyata. Jakaña pacha ukan yatiñ lup'iña ukax jan jisk'a yatiñ jaqinakatakis yanapt'añ yatiyata. | Kunapachas jakaña pachan yatiñ, lup'iña, parlaña, jaqinakampi jukhu ukhamarak. |
-| Uñ jan uñjaña | Jakaña pacha | 7% | Jan waliki uñ jan uñjaña alt'a riesgo utjañ yatiyata. Jaqinakax uñ jan uñjaña ukat qhipa uñjañaki ukanakax jisk'a riesgo utjañ yatiyata. | Uñ jan uñjaña uñjata. Uñ jan uñjaña yanapt'añ ukat jawsañ, ukanak uñjata. Ch'uxña jan mayj'añ. |
-| LDL colesterol alt'a | Jakaña pacha (40 mara kipkaru) | 7% | LDL ("jan walik") colesterol alt'a jakaña pachan alt'a riesgo utjañ yatiyata. | Doctor jiwasaru jawsañ, colesterol uñjata sasa, kuna ruwañ wali sasa. |
-| Jan kusisiña | Jakaña pacha | 3% | Jan kusisiña alt'a riesgo utjañ yatiyata. Qhipa maranakan jan kusisiña demencia ukan mayja uñacht'awi puedi. | Doctor jiwasaru yatiyañ, phisqa phaxsi sipan jukhu jan kusisiña. Jan kusisiña yanapt'asiñax utji. |
-| Mayt'awi jan waliki | Jakaña pacha | 3% | Umaña mayt'awi, kunapachas ukax jakaña pachan utjañ puedi, alt'a riesgo utjañ yatiyata. | Bicicleta ukhamarak jaqinakampi chhaqhaña, casco apaña. Jaya sayt'añ yatiyañ. Mayt'awi qhipa, uñjata. |
-| Jan jaya sarnaqaña | Jakaña pacha | 2% | Sarnaqañ ukhamarak juk'ampi kusisiña jaqinakax jan demencia utjañ yatiyata. Yatiyañanakax jisk'a. | Kunas jumatakix wali sasa jawsañ, kusisiñ ruwañ thaqhañ. Uñakipt'am [exercise guide](/brain-health/exercise/). |
-| Diabetes | Jakaña pacha | 2% | Diabetes, khä jakaña pachan qalltaña ukax alt'a riesgo utjañ yatiyata. | Azúcar uñjata. Diabetes utji ukhax, doctor jiwasampi yanapt'ayañ. |
-| Ch'uxña | Jakaña pacha | 2% | Ch'uxña alt'a riesgo utjañ yatiyata. Ch'uxña jan ch'uxña jaqinakax jan alt'a riesgo utjañ yatiyata. | Ch'uxña jan ch'uxña yanapt'asiña jawsañ. Ch'uxña jan ch'uxña jiwasa, qhipa sarnaqañ. |
-| Alt'a yuqalla | Jakaña pacha | 2% | Alt'a yuqalla jakaña pachan alt'a riesgo utjañ yatiyata. Yuqalla mayt'awi jan walikiñ jaqinakax jisk'a riesgo utjañ yatiyata. | Yuqalla número uñjata. Commission 40 mara kipkaru 130 jan sipan jisk'a amuyi; doctor jiwasampi parlañataki. |
-| Lanti (obesidad) | Jakaña pacha | 1% | Lanti alt'a jakaña pachan alt'a riesgo utjañ yatiyata, diabetes ukhamarak. | Doctor jiwasampi parlañataki kuna jan lanti walikiñ. Jach'a jaqinakax jan dieta ruwañ, doctor yatiyañ janiw. |
-| Umaña alt'a | Jakaña pacha | 1% | Umaña alt'a riesgo utjañ yatiyata. Umaña jisk'a ukhamarak jan jaqinak ch'uxña jaqinakax, jisk'a riesgo utjañ yatiyata. | Kunas umaña wali sasa, doctor jiwasampi medicina ukanakampi parlañataki. |
-| Jaqinakampi sarnaqañ jisk'a | Qhipa jakaña pacha | 5% | Jaqinakampi sarnaqañ jisk'a alt'a riesgo utjañ yatiyata. | Jaqinakampi parlañ kusisiñ thaqhañ. Uñakipt'am [social connection guide](/brain-health/social-connection/). |
-| Jaya uñjaña | Qhipa jakaña pacha | 3% | Jaya uñjaña alt'a riesgo utjañ yatiyata. Jaya uñjaña jisk'a ukax jisk'a riesgo utjañ yatiyata. | Jach'a markanakan yatiyañ. Jaya uñjaña jan waliki uñjata, jaya jiwasan jan sarnaqañ. |
-| Uñ jan uñjaña | Qhipa jakaña pacha | 2% | Uñ jan uñjaña, jan uñjatanakax alt'a riesgo utjañ yatiyata. Jach'a Estados Unidos yatiyata uñ jan uñjaña ukat qhipa jisk'a riesgo utjañ yatiyata. | Uñ jan uñjaña uñjata. Uñ jan uñjaña ukanak yanapt'ayañ jawsañ. |
+| Jan yatiñ | Umaki jakañ | 5% | Jilïr yatiñanakax umaru jaya uñtataña ukat riesgo ch'iqa utjañapataki sañ. Jach'a jakañ yatiñ, kunapachatix yatiñ umaki, uka jaqinakan ukat jan jark'ataña. | Taqi jakañ phasen yatiñ sarnaqañ, iwxat ukat amuyt'añanakampi, mayni jaqinakampi jukʼamp yatiñ. |
+| Jaykuñ | Jach'a jakañ | 7% | Jan uñjatäkaspa jaykuñ ukax riesgo ch'iqa utjañapataki sañ. Jaykuñ yanapanakax jaqinakan ch'iqa riesgo utjañapataki sañ yatiyatäki. | Jaykuñ uñjañ. Yanapanakan yatiñ, kunatï ukax yanapañapa ukat, mä yanapa katuqañ. Yanaw qhitaña ukat jach'a sarañ ch'uñkaña. |
+| Colesterol LDL alta | Jach'a jakañ (40 mara qala) | 7% | Jach'a LDL ("ch'ulla") colesterol jach'a jakañ jaya utjañapataki sañ riesgo ch'iqa. Yatiñanakax statin ukat ch'iqa riesgo sañ, ukampis jakañ qhipa pruebanakax janiw uñacht'ayi. | Doctor jilïrux colesterol uñjañ mayjt'ayañ, ukat kunas lurañ utjañapataki sañ. |
+| Depresión | Jach'a jakañ | 3% | Depresión riesgo ch'iqa utjañapataki sañ. Jakañ qhipan, depresión demencia jan uñjatäpxiwa. | Doctor jilïrux ch'uxña amuyu ukat sawu jaqinakampi jan kusisiña mayt'añ, 2 semana sipansa jukʼamp. Depresión jan wali. |
+| Umaki jaxch'ata | Jach'a jakañ | 3% | Umaki jaxch'ata kuna mara ukanakan, deporte ukat jaqinakampi ch'axwañanakampi, riesgo ch'iqa utjañapataki sañ. | Ciclismo ukat deporte ukanakan casco ukat, lurañ ukat qhitaña jan sarañ. Umaki jaxch'ata qhipa doctor uñjañ. |
+| Jan lurañ | Jach'a jakañ | 2% | Jaqinakax yanaw sarnaqapxi ukat deporte luraña ukax demencia jan utjañapataki sañ. Pruebanakax janiw ch'iqa uñacht'ayi. | Kuna lurañ ukax wali sañ mayt'añ, ukat kusisiñanak ajlliña. [Yanaw sarnaqañ ukan yatiñ](/brain-health/exercise/). |
+| Diabetes | Jach'a jakañ | 2% | Diabetes, khithi jach'a jakañ jaya qalltaña ukat ch'iqa sarnaqaña, riesgo ch'iqa utjañapataki sañ. | Azúcar uñjañ. Diabetes utjaspa ukhaxa, jumax yanapirinakampi lurañ ukat uñjañ. |
+| Cigarro | Jach'a jakañ | 2% | Cigarro riesgo ch'iqa utjañapataki sañ. Cigarro jan luraq jaqinakax janiw ch'iqa riesgo utjañapataki sañ, cigarro luririnakan sipansa. | Cigarro jan lurañ yanapa mayt'añ. Taqi jakañ phasen cigarro jan lurañax wali. |
+| Presión alta | Jach'a jakañ | 2% | Jach'a jakañ presión alta riesgo ch'iqa utjañapataki sañ. Presión medicinanakan pruebanakax, demencia jan ch'iqa utjañ ukat yatiñ jan ch'iqa sañ uñacht'ayi. | Jumax presión numerunakam yatiñ. Comisión sapxi, 40 mara qala 130 jan jukʼamp ch'iqa presión, doctor jilïrux jumatak wali sañ mayt'añ. |
+| Jach'a qarasa | Jach'a jakañ | 1% | Jach'a jakañ jach'a qarasa riesgo ch'iqa utjañapataki sañ, diabetes jaya uñtataña. | Doctor jilïrux jumatak wali qarasa mayt'añ. Jach'a mara jaqinakax doctor yatiñ jan utjkaspa qarasa jan ch'uñkañapa. |
+| Jumpharu umañ | Jach'a jakañ | 1% | Jach'a umañ riesgo ch'iqa utjañapataki sañ. Umañ mä ch'iqa jumpharu umañ ukax uñjatañ ukat medicinanakampi lazo. | Doctor jilïrux jumatak wali umaña mayt'añ, medicinanakampi. |
+| Jaqinakamp jan sarnaqaña | Jach'a jakañ | 5% | Jaqinakamp jan sarnaqaña riesgo ch'iqa utjañapataki sañ. | Jaqinakampi yatiñ, kusisiñ sarnaqañ. [Jaqinakamp sarnaqaña yatiñ](/brain-health/social-connection/). |
+| Jallu airi usu | Jakañ qhipa | 3% | Jallu airi usu ukax riesgo ch'iqa utjañapataki sañ. Ukax janiw uñjañkiti, ukampis kuna lurañ utjañapataki sañ, jaqinakan. | Chiqpachaw jan utjkiti; ukax tapa kunas lurañ. Jallu airi usu jan uñjañ sipansa. |
+| Jan uñjañ | Jakañ qhipa | 2% | Jan uñjañ ukax riesgo ch'iqa utjañapataki sañ. Estados Unidos mä yatiñax, cataratas ukan cirugía riesgo ch'iqa sañ. | Ojos uñjañ mara mara. Cataratas ukanakax wali sañ mayt'añ. |
 
-## ¿Kunjamak uñakipt'añax uñjañawa?
+## ¿Kunjamasa porcentajenakax lurañ?
 
-Wali uñjasa. Commission yatiyatapan kunas amuyt'añawa:
+Yatiñampi. Comisión yatiyäna ukax kuna amuyunakas utjapxi:
 
-- **Taqi jaqinakan yatiyañawa, janiw sapa jaqin.** University College London
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  yatiyi: riesgo jisk'ayañax taqi jaqinakataki, janiw sapa jaqix demencia jan utjañkiti.
-- **Mayjtanakax chiqa uñt'añakiti.** Qillqirinakax chiqa yatiyatanakaw
-  apxatapxi, jan ukax kunas chiqa jan utjkiti sasa yatiyapxi.
-- **Taqi chiqan yatiyañawa.** Yatiyañanakax jach'a markanakat jutapxi, jupa
-  markan utjañapax ukanakax jan ukhamarakiti.
-- **Jisk'a porcentaje ukax jach'a.** 2% riesgo taqi chiqan jaqinakan jach'a
-  utjañ puedi.
+- **Jaqinakan janiw sapa mayni.** University College London yatiyäna ([resumen del informe](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)) sapxi, riesgo jan utjañapataki, taqi jaqinakataki, janiw mä jaqi demencia jan utjañ chiqapar uñjañ.
+- **Lurañ ukat kuna utjki ukanakan yatiñ.** Qillqirinakax chiqpach factores ukanakaw uñjapxi, ukampis kuna ch'iqa lazo utjapxi sasa.
+- **Aka porcentajenakax taqi pachpanakan.** Yatiñanakax jach'a jakañ markanakan juk'ampi, ukat mä markan ukhamarak ch'iqa uñjatañ.
+- **Ch'iqa porcentajenakax wali utjapxi.** 2% kuna utjki factor ukax taqi pachana jaqinakaru uñjatañ.
 
-## ¿Kuna riesgonak 2024 maranxa yatiyatawa?
+## ¿Kunas 2024 qhipa yapachatäna?
 
-2024 yatiyañax 2020 maranxa 12 tuqinakar machaq yatiyatänwa:
+2024 uñacht'äwin 2020 mara 12 factores qhipana, 2 yapachatäna:
 
-- **LDL colesterol alt'a jakaña pachan**, sapa 7% ukanakampi mayt'atäpxi.
-- **Uñ jan uñjaña qhipa jakaña pachan**, sapa 2% ukanakampi mayt'atäpxi.
+- **Jach'a jakañ colesterol LDL alta**, 7% kuna utjki ukanakampi lazo.
+- **Jakañ qhipa jan uñjañ**, 2% kuna utjki ukanakampi lazo.
 
-## ¿Kunanakas mayjtañ janiw puedkiti?
+## ¿Kunas janiw cambiañ puedi?
 
-National Institute on Aging yatiyi
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-ukat janiw kunaru mayjtañ puedkiti. Genesanakas yanapt'apxi; APOE sat gen ukax
-Alzheimer ukan jach'a yatiyata. NIA yatiyi taqi jaqinakan Alzheimer kuna
-utjañ sasa janiw yatiri jiwasakiti. Lancet Commission yatiyi mayjtayañ
-puedi riesgonakax, jaqi genesanakapax kuna jan ukhamarakiñapax mayjtayañ
-puedi sasa.
+National Institute on Aging yatiyäna ([edad mayni demencia riesgo](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)) Alzheimer ukan jach'a riesgo ukax edad ukawa, janiw cambiañ puedi. Genes ukanakax ukhamarak jakañ utjaraki; mä gen APOE sata. NIA sapxi, yatiñ janiw taqi jaqinakan Alzheimer kunas utjki sasa. Lancet Comisión sapxi, cambiable riesgo ukanakax jan kuna genes utjkchi ukhamarak ch'iqar puedi.
 
-Age ukat genes jach'a yanapt'apxi, ukatwa jaqinak 14 riesgo janiw utjkaspas
-demencia utjañ puedi. Ukax janiw kun jan ukat jakasiñakiti.
+Edad ukat genes jach'a utjapxi ukatwa, 14 factores janiw utjki jaqinakax demencia utjaspa. Ukax janiw kunas jaqin juchapa.
 
-## ¿Kuna ukanakax mayjt'añataki yatiyañanakax utji?
+## ¿Kunas pruebanakax sapxi cambiañ riesgonakar?
 
-Riesgo ukan demencia utjañ yatiyañax janiw mayjt'añ suma sasa yatiyañkiti.
-Kunas mayjtanakax utjapxi:
+Riesgo factor demencia lazo ukax janiw cambiañ ukax demencia ch'iqar puedi sañ uñacht'ayiti. Mä kuna yatiñanakax:
 
-- **Umaña.** SPRINT MIND yatiyañan, umaña jisk'a amuyasa ruwañax mild cognitive
-  impairment jisk'a ukhamarak. Janiw demencia jisk'ar ukhamakiti, yatiyañax
-  jisk'a ukhamakiti ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Jan lupiña yanapt'añ.** Lancet Commission yatiyi kimsa maran lupiña
-  yanapt'añ yatiyañax jan kuna utjañ, ukat jaqinakan alt'a riesgo ukanakan
-  suma utjañ yatiyata. Qhipa jaqinakax lupiña yanapt'añ alt'a riesgo utjañ
-  yatiyata. Uñakipt'am [hearing guide](/brain-health/hearing/).
-- **Jaya uñjaña.** National Institute on Aging yatiyi: mayjtayañ jan
-  yatiyañ utjkiti, sarnaqañax jisk'a yatiyañ sasa, ukat mayjt'añ puedi
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Presión.** SPRINT MIND pruebanakan, jukʼamp presión jan ch'iqa uñjañax leve cognitive impairment ch'iqar yanapäna, ukampis probable demencia janiw jukʼamp ch'iqar ([SPRINT MIND JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Jaykuñ yanapanakax.** Lancet Comisión yatiyäna, kimsa mara jaykuñ yanapa pruebanakax janiw amuyuman yanapäna, ukampis ch'iqa riesgo jaqinakan wali. Nuestra [guía de audición](/brain-health/hearing/) yatiñ ukax jukʼamp.
+- **Deporte.** National Institute on Aging sapxi, yanaw sarnaqañax janiw wali uñacht'ayi, ukampis mä yatiñanakax sapxi, jakañ qhipa ch'iqar yanapaspa ([NIA demencia jan utjañapataki](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Demencia utjañ suytaña jan pachan yatiyañax jach'a pachanakawa, ukatwa jaqinak
-qhipa maranakan uñjañawa. Ukax ch'uxña ukhamarakiwa.
+Jakañ qhipa pruebanakax suma sapxi, ukampis taqi factores ukanakataki, yatiñanakax jaqinakan jakañ ukan sarnaqañanakampiw utjapxi.
 
-## ¿Kuns suñt'ata ukat ch'uxña?
+## ¿Kunas suñas ukat manq'añ?
 
-Commission ch'uxña ukat suñt'ata yatiyañ uñjaña, jan ukax janiw yatiyañ
-chiqañ utjkiti. Ukatwa [sleep](/brain-health/sleep/) ukat [diet](/brain-health/diet/)
-uñakipt'am.
+Comisión suñas ukat manq'añ uñjäna, ukampis janiw list ukan yapäna, yatiñ janiw ch'iqa ukat chiqapar utjkiti. Nuestros guías [suñas](/brain-health/sleep/) ukat [manq'añ](/brain-health/diet/) yatiñ.
 
-## Doctor jiwasampi parlañ
+## Doctor jilïrux parlañamawa
 
-Maraxa checkup ukan kunas parlañawa. Aka qillqat apt'asma, akham jawsañawa:
+Mä mara chequeo sipansa, aka yatiñanakax parlañ utjapxi. Aka lista apaqasa, ukanak jisk'a jawsañamawa:
 
-- ¿Kunas umaña, azúcar ukat colesterol jiwasan, ukanakax suma sasa?
-- ¿Jiwasan uñ ukat uñ jan uñjaña uñjatäñapa?
-- ¿Kuna sarnaqañax jiwasatakix wali ukhamarak utji?
-- ¿Kuna medicina ukanakax amuyt'añ ukat yatiñ jan waliki?
+- ¿Kunas presión, azúcar ukat colesterol numerunakax, ukanakan kuna yatiñ utjañapataki?
+- ¿Jaykuñ ukat uñjañanakax uñjatäñapa?
+- ¿Kuna lurañanakax jumatak wali ukat ch'iqa?
+- ¿Kuna medicinanakax umaña ukat amuyu jan wali sapxi?
 
-Medicina, dieta, ayuno, sarnaqaña ukat suplemento mayjt'añ ukhax, doctor jiwasampi
-parlañ. Jumax jan ukax jumar uñjañ jaqix, sut'ita jan amuyt'añ, lakhat jan
-sayt'añ, ukat parlañ jan utjañ ukhax, emergencia tuqi chiqan jawsañ.
+Medicina, manq'a, ayuno, yanaw sarnaqañ ukat suplementos ukanak mayjt'añat sipansa, doctor jilïrux parlañamawa. Jumax jan ch'iqa umañ, mä lado jan sarañ, jan parlañ uñjataspa, jumanakan markapan emergencias número jawsañamawa.

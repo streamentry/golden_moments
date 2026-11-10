@@ -1,34 +1,34 @@
 ---
-title: "Manq'a MIND ukat Mediterráneo: Demencia ukat yatiñanaka"
-seoTitle: "Manq'a MIND ukat demencia: Yatiñanakax kunsa siwi"
-description: "Mediterráneo ukat MIND manq'a amtañanakat demencia ukat yatiñanakax kunsa siwi, mayja yatxatañ kunatsa jan askiw uñjatäkaspa, ukat manq'añ yanapt'aña."
+title: "Manq'a MIND ukat Mediterráneo, dementia ukat yatiñanakax"
+seoTitle: "Manq'a MIND ukat dementia: Yatiñanakax"
+description: "Yatiñanakax kunsa siwi MIND ukat Mediterráneo manq'a ukat dementia, kunatsa juk'a yatxatañax jan askinak uñt'atayi, ukat kunjamsa dementia jakawir jaqir manq'añ yanapt'asma."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Qhipa yatxatañanakan Mediterráneo ukat MIND manq'a amtañanakax demencia
-  jaytañ sapa mayja uñjatäkaspa, ukampisa taqi chiqa yatxatañanakan janiw
-  uñjatäkaspati. Kimsa maraw 2023 maranxa MIND manq'a amtañanakan mä yatxatäwix
-  utjäna; ukax yatiñ thaqhañanakan ukat qhanañ uñjañanakan janiw mä
-  amtañatxa jukhurisa. Janiw mä manq'a ni suplemento ukax demencia jaytañ
-  chiqpachaw jark'atäkiti. Demencia uñt'ata jaqinakatak, manq'añ umañ ukat
-  umañ taqi chuymaw wali wakiskaspa.
+  Yatxatañanakax uñt'ayi Mediterráneo ukat MIND manq'a dementia utjañ
+  juk'amp jan utjañ sasa, ukampisa taqi chiqar jan ukhamäkiti. MIND manq'a
+  kimsa maranak luratat, 2023 maranxa lurat, jan kunas juk'amp amuyu
+  yatxatañanakan jan ukax cerebro uñakipañanakan uñjatänti, control manq'a
+  uñtat jaqinakat. Jan kunas manq'a jan ukax suma uma prevenir ukhamäkiti
+  dementia. Dementia jakawir jaqinakatakix manq'añ ukat umañ taqi kuna sum
+  utjaspa.
 keyPoints:
-  - "Mayja yatxatañanakan, janiw taqi ukanakan ukax utjkaspati, Mediterráneo ukat MIND manq'a amtañanakax demencia jaytañ jan sapa jukhurisa uñjatäkaspa."
-  - "2023 maranxa 604 jach'a maranakan jaqinakan yatxatañapanxa, MIND manq'a amtañ jaqinakax kimsa mara qhipäxa yatiñ thaqhañanakan ni qhanañ uñjañanakan janiw control manq'a amtañ jaqinakat sapa askïkiti."
-  - "Estados Unidos ukan National Institute on Aging sasaw sirwi, janiw mä manq'a ukax ni mä manq'a ukat jaytañ jark'atäkiti sasa, ukat janiw mä vitamina ni suplemento jaytañ jark'atäkiti sasa."
-  - "Hortalizas, frutas, habas, trigo ukat challwa manq'anakax qullu chuym wali wakisi, ukat alta presión ukat diabetes uñjañanakan jan wali kuns uñjatäkaspa."
-  - "Demencia uñt'ata jaqinakatak, jisk'a manq'anaka, kunaq uñjasiñapa uñjañ mesa, sumapuni manq'añ ukat mayni mayni umañ sapa jukhurisa mä manq'a amtañat juk'amp wakiskaspa."
+  - "Taqi yatxatañanakax jan ukax janiw taqi ukhamäkiti, jaqinakan jakawipax qhipa maranakan yatxatañanakax uñt'ayi, Mediterráneo ukat MIND manq'a dementia utjañ juk'amp jan utjañ sasa."
+  - "2023 maranxa 604 jaqi machaqanakan lurat luratanakan, MIND manq'a apnaqirinakax, control manq'a apnaqirinakat, kimsa maranak qhipat amuyu yatxatañanakan jan ukax cerebro uñakipañanakan janiw juk'amp askinak lantinti."
+  - "National Institute on Aging sasaw sapxi, janiw kuna manq'a jan ukax manq'a jan manq'añ Alzheimer jan utjañatakix yatiñ utjkiti, ukat janiw kuna vitamina jan ukax suplemento Alzheimer jan utjañatak yatiñ utjkiti."
+  - "Hortalizas, frutas, habas, trigo intiru ukat challwa manq'a sum utjañ sapxi, sirk'ata jan walt'añ jan ukax azúcar jan walt'añ ukanak jan utjañatakix yanapt'asma."
+  - "Dementia jakawir jaqinakatakix, amparanakampi manq'añ, chuymaniw uñjañ mesanakan, sum thaqhanakan manq'añ ukat ukhamarak taqi uruw umaña, kunanak jan ukax taqi manq'a ukat ukat juk'amp wakiskiwa."
 faq:
-  - q: "¿MIND manq'a amtañax demencia jark'aspati?"
-    a: "Janiw uñjatäkiti. Mayja yatxatañanakax MIND manq'a amtañ jan wali kunaw jaytañ uñjapxi, ukampisa 2023 maranxa kimsa maraw yatxatäwix janiw yatiñ thaqhañanakan ni qhanañ uñjañanakan MIND manq'a amtañ jaqinakat control manq'a amtañ jaqinakat sapa askïkiti sasaw uñjäna. Pä chiqanakan jaqinakax mä juk'a askiw sarantayäna, ukat sapa kilo ukax juk'ampiw jaqunxapxäna."
-  - q: "¿Kunsa MIND manq'a amtañax Mediterráneo manq'a amtañat t'aqhisi?"
-    a: "Mediterráneo manq'a amtañax hortalizas, frutas, trigo, habas, challwa ukat oliva aceite manq'añ yatichi, jisk'a waka aycha ukat dulces manq'añ. MIND manq'a amtañax Mediterráneo ukat DASH manq'a amtañ (alta presión uñjañatak) sarañ ukat mä yatiñ jilïr hortalizas, arumanaka ukat berries manq'añ yatichi, ukat waka aycha, dulces, queso, mantequilla ukat frito manq'anaka jisk'achaw."
-  - q: "¿Utjaptati mä manq'a jan ukax suplemento Alzheimer jark'añataki?"
-    a: "Janiw utjkiti. National Institute on Aging sasaw sirwi, janiw mä manq'a manq'añ ukat jan manq'añ Alzheimer jark'añ ni edad ukan yatiñ ch'iqhañ jark'añataki yatiñ utjkiti, ukat janiw mä vitamina ni suplemento Alzheimer jark'añataki chiqpachaw uñjatäkiti. Mä suplemento umañ sapa doctor jiwasampi parlapxam."
-  - q: "¿Kuna manq'anakas demencia uñt'ata jaqinakatak sumpachañ wali?"
-    a: "Mä mayni boca sapa manq'anaka, sandwich ch'iqinaka, pollo ch'iqinaka, naranja ch'iqinaka jan ukax jank'ak hortaliza ch'iqinaka, cuchara ukat tenedor manq'añat juk'amp sumapuniw. Ukat jank'aña jan ukax umañ jan wali ukhaxa, huevo revuelto, manzana puré jan ukax queso blanco ukax yanapt'añapawa. Toserpan jan ukax ch'alljpan, doctor jiwasampi qhana umañ uñjañ parlapxam."
+  - q: "¿Ukhamaraki MIND manq'a dementia jan utjañ atinisktati?"
+    a: "Janiw uñjatäkiti. Yatxatañanakax MIND manq'a juk'a jan utjañ sasa uñt'ayi, ukampisa 2023 maranxa kimsa maranak lurat luratanxa, amuyu yatxatañanakan jan ukax cerebro uñakipañanakan MIND manq'a apnaqirinakan jan ukax control manq'a apnaqirinakan janiw juk'amp askinak lantinti. Ambos grupos juk'a suma sarañ utjäna, ukat sapa kimsa kilo jaktañ utjäna."
+  - q: "¿Kunas askinakax MIND manq'a ukat Mediterráneo manq'a chikanaka?"
+    a: "Mediterráneo manq'axa hortalizas, frutas, trigo intiru, habas, challwa ukat oliva aceite utjañ amtaraki, janiw juk'a kunas ukat azúcar utjkiti. MIND manq'axa Mediterráneo ukat DASH manq'a sarnaqat, qhulla hortalizas ukat berries utjañ amti, ukampisa wakiskiwa jan ukax wakiskiwa ukat queso ukat fritura jan utjañ."
+  - q: "¿Kunas manq'anakax jan ukax suplementonakax Alzheimer jan utjañ atinisktati?"
+    a: "Janiw. National Institute on Aging sasaw sapxi, janiw kuna manq'a jan ukax manq'a jan manq'añ Alzheimer jan ukax amuyu jan walt'ayaña jan utjañatakix yatiñ utjkiti, ukat janiw kuna vitamina jan ukax suplemento Alzheimer jan utjañatak yatiñ utjkiti. Suplemento apnaqañ sarañ mä jan ukax jakhu tuqi parlañama."
+  - q: "¿Kunas manq'anakax dementia jakawir jaqinakatakix sum manq'añ?"
+    a: "Amparanakampi manq'añanakax, akjama sandwich, wallpa uywa aka, naranja ukat ch'uxña hortalizas, cuchillo apnaqañat juk'amp sum. Ch'alla jan ukax uma tragañ jan sum sasa, huevo revuelto, manzana puré jan ukax queso blanco sum yanapt'añ. Ch'uqhi jan ukax ajaya jaqhaña utjaspa jan ukax jaqhaspa, doctor tuqi tragañ uñjañ parlañama."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -59,80 +59,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-Jumanakax yatipxtawa "yuqallïr" manq'a Alzheimer jark'aspa sasa. Chiqapax janiw ukhamäkiti. Qhipa yatxatañanakan mä manq'a amtañanakax jaqinakan jaytañ jisk'achañ uñjatäkaspa, ukampisa maya yatxatañ jach'a janiw mä juk'a askit uñjatäkaspati. Akax ambos uñjañanak yatichi, ukat ukatxa demencia uñt'ata jaqinakatak yatiñ uñjañanaka: manq'añ ukat umañ taqi chuymaw wali wakisi, ukat sumpachañ.
+Jumanakax yatintasktawa "uñjañ suma" manq'a Alzheimer jaytayañ sasa. Chiqapax juk'a jan ukax jani wali uñjatawa. Kunapachatix jaqinakan jakawipa qhipa maranakan yatxatañanakax, kunanak manq'añax jan askinak yatxatañanakax uñt'ayi, ukampisa jichhürunakan wali yatxatañ jan ukax janiw askinak uñjatänti. Aka qillqatax ambos uñt'ayi, ukat jupanakax dementia jakawir jaqinakatakix kunas wali utjaspa uñt'ayi: manq'añ ukat umañ taqi kuna sum, ukat kusisiñ.
 
-Akax taqi yatiñawa, janiw doctor ni dietista ukhamaw parlaña. Antes de cambiar la dieta de usted o de otra persona, hable con un doctor o dietista. Mayni yatiñanakataki, [medical disclaimer](/medical-disclaimer/) uñjapxam.
+Aka qillqatax yatiñ aski sasa, janiw amuyt'awi jan ukax yatiñ sasa. Manq'a jan ukax umaña sarnaqañ uñjañ mayjt'aña jan ukax jumanakan yatxatañ sarnaqañ kuna tiempo, doctor jan ukax registered dietitian parlañamawa. Uka jan ukax jupanakan jakawi uñjañ [medical disclaimer](/medical-disclaimer/) uñjañamawa.
 
-## ¿Kunas Mediterráneo ukat MIND manq'a amtañanakax?
+## ¿Kunas Mediterráneo ukat MIND manq'anakax?
 
-National Institute on Aging (NIA) sasaw amtañanakax akham sirwi ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) sasaw uka manq'anakax kunjamsa sapxi ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterráneo manq'a amtaña:** hortalizas, frutas, trigo, habas, challwa ukat mar manq'anaka, oliva aceite ukat jisk'a waka aycha, huevo ukat dulces manq'añ.
-- **MIND manq'a amtaña** (Mediterranean–DASH Intervention for Neurodegenerative Delay): Mediterráneo manq'a amtañ ukat DASH manq'a amtañ (alta presión uñjañatak) mixtu. Hortalizas, jan ukax arumanaka uñjañ, berries, trigo, habas, nueces, challwa sapa mara kimsa kutiw manq'añ ukat oliva aceite. Waka aycha, dulces, queso, mantequilla jan ukax margarina, ukat frito jan ukax comida rápida jisk'achañ.
+- **Mediterráneo manq'a:** hortalizas, frutas, trigo intiru, habas, challwa ukat mar, oliva aceite, ukat jan ukax juk'a waka aycha, huevo ukat azúcar.
+- **MIND manq'a** (Mediterranean–DASH Intervention for Neurodegenerative Delay): Mediterráneo manq'a ukat DASH manq'a, sirk'ata jan walt'añatakix. Qhulla hortalizas, berries, trigo intiru, habas, nuez, sapa simana mä challwa ukat oliva aceite utjaspa. Waka aycha, azúcar, queso, manteca jan ukax margarina ukat fritura jan ukax comida rápida jan utjañ sapxi.
 
-## ¿Ukanakax demencia jaytañ jisk'achapxiti?
+## ¿Ukhamarak manq'anakax dementia utjañ juk'a jan ukax jani?
 
-Yatiñax mayja uñjatäkaspa. NIA sasaw sirwi, mayja yatxatañanakan mä manq'a amtañanakax demencia jaytañ jisk'achañ uñjatäkaspa, ukampisa taqi chiqa uñjatäkaspati; Estados Unidos ukan manq'anakat, waka aycha, saturated graso ukat azúcar jach'a manq'a amtañat sapa.
+Yatxatañanakax jan ukhamäkiti. NIA sapxi, taqi jan ukax janiw taqi yatxatañanakax Mediterráneo ukat MIND manq'a dementia utjañ juk'a sasa uñt'ayi, waka aycha, saturada manteca ukat azúcar juk'amp manq'a Western sarnaqäwinakat jukʼamp.
 
-2024 Lancet Commission ukax yatxatañanak juk'amp uñjäna ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024 Lancet Commission juk'amp yatxatañanakax uñjäna ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- Mä qhipa yatxatañan manq'a wali uñjatäkaspa, ukat sapa 20% jisk'a demencia jaytañ uñjatäkaspa.
-- Mä jach'a análisis kimsa grupo jaqinakan MIND manq'a amtañ wali sapa jisk'a jaytañ uñjatäkaspa.
-- Ukampisa Suecia ukan yatxatañax 28,025 jaqinakat 20 maranakan uñjäna; ukax janiw demencia jisk'achatäkaspati, ni recomendado manq'a amtañanakan ni Mediterráneo manq'a amtañanakan.
+- Mä yatxatañan cohort yatxatañanakan manq'a suma sasa uñt'ayi, dementia utjañ 20% juk'a jan utjañ sasa.
+- Mä juk'amp yatxatañan kimsa cohortanakan MIND manq'a suma apnaqañax dementia juk'a jan utjañ sasa.
+- Ukampisa Suecia yatxatañaxa 28,025 chachanakax 20 maranakan sarnaqäna, ukhamarak janiw kuna juk'a jan utjañ uñjatänti, janiw recomendado manq'anakan ni Mediterráneo manq'an.
 
-Mayja yatxatañanakax janiw chiqa mayjt'ayañ ukat jaytañ uñjañ atipkiti. Ukhamarak, ukhamä manq'a amtañ jaqinakax yaqhipanakax mayni yatiñanakan ukhamäpxi, kunjamsa qullqi, yatichäwi, sarnaqaña ukat jach'a uñjañ yanapt'awi. Commission sasaw sirwi, janiw yatiñ utjkiti manq'a wali demencia jark'atäkaspa sasa, ukampisa hortalizas ukat frutas taqi chuymaw manq'añ, ukat ultra-procesado manq'anaka jisk'achañ, wali wakisi ukat obesidad, diabetes ukat alta presión jan wali uñjañanakat jark'añataki. Dieta ukax janiw [14 risk factors](/brain-health/risk-factors/) lista ukan mantxatäkiti.
+Observational yatxatañanakax janiw uñt'ayañ atinisktanti kuna mayjt'awinakan utjki sasa. Ukham manq'anakan manq'irinakax jukʼamp kuna jan ukax jukʼamp kunanakan jakapxi, akjama yänaka, yatiña, sarnaqaña ukat salud utjañ. Commission sapxi janiw yatiñ utjkiti manq'a suma dementia jan utjañatakix, ukampisa frutas ukat hortalizas manq'añax, ultra-procesados manq'anakax jan manq'añax, achachilanakan salud utjañatakix sum, ukat obesidad, diabetes ukat sirk'ata jan walt'añ ukanakan yanapt'asi. Commission janiw manq'a [14 risk factors](/brain-health/risk-factors/) lista uka yatiñanakar mayjt'ayañäkiti.
 
-## ¿Kunsa 2023 MIND manq'a amtañ yatxatäwix uñjäna?
+## ¿Kunas 2023 MIND manq'a luratax uñjäna?
 
-Jach'a yatxatäwi, New England Journal of Medicine 2023 maranxa qhanañ uñjäna ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Maya juk'amp yatxatañax 2023 maranxa New England Journal of Medicine uñtat luratawa ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Kunaw:** 604 jaqinakat 65 maranakan jukhutaki, Chicago ukat Boston chiqanakan, yatiñ jan jakhuntatäkaspa, mä jaqi familiar demencia uñt'ata, jach'a kilo ukat jan wali manq'a amtañ.
-- **Kunjamaw:** kimsa mara, pä chiqa MIND manq'a amtañ, pä chiqa sapa manq'a amtañ. Taqinin 250 calorías jisk'a manq'añ sasaw mayt'äna, ukat dietista yatichäwinaka sapa mara katuqapxäna.
-- **Uñjäwi:** yatiñ thaqhañanakan juk'a askiw ukhamäkiti, ukampisa pä chiqan jaqinakan sapa jiskhuqaw **janiw** jach'a uñjatäkiti. Qhanañ uñjañanakan ukat sapa jiskhuqaw.
-- **Peso:** pä chiqan jaqinakax sapa 5 kilogramo jaqunxapxäna.
+- **Khitinakas:** 604 jaqinakax 65 maranakat jukʼamp, Chicago ukat Boston chiqanakan, amuyu jan walt'ayaña janiw utjkiti, mä jaqi dementia utjirimpi, sipansa wakisiñ, ukat manq'a jan suma apnaqirinakax.
+- **Kuna lurañ:** kimsa maranak, phisqa chachanakax MIND manq'a apnaqapxäna, phisqa chachanakax taqi uru manq'a apnaqapxäna. Taqinipax 250 kaloría jukʼamp manq'añ sapxäna, ukat registered dietitian yatichaña.
+- **Resultado:** amuyu yatxatañanakan sapa jaqi juk'a suma sarañ utjäna, **ambos** grupos. Grupos chikanakan diferencia juk'a, ukampisa **janiw estadísticamente significativa**. Cerebro uñakipañanakan ukhamarak taqi grupos similar sarañ uñjatänti.
+- **Peso:** taqi grupos 5 kilo (11 libra) jaktañ utjäna.
 
-### ¿Kunatsa yatxatäwix janiw sapa uñjatäkaspati?
+### ¿Kunatsa yatxatañax janiw diferencia uñjatänti?
 
-Yatxatirinakax yaqhipa yatiñanak sapxi. Control chiqan jaqinakax manq'a amtañ juk'a askiw jiskt'äna, kunatixa jaqunxapxäna. Mayt'äwinakax yatiñ thaqhañanak juk'a askiw sapa juk'ampiw uñjatäkaspa. Kimsa mara jisk'a pachäkiti. Taqinin jaqinakax yatichäwi ukat europeo jaqinakaw sapa, ukatwa uñjäwinakax taqi jaqinakatak janiw ch'uqt'atäkaspati.
+Yatiri jaqinakax sapxi chiqapax taqi control grupo manq'a suma apnaqañ utjañapa, peso jaktaña jan ukax sarañ mä. Yatxatañanakax jan ukat sapa uka yatxatañ suma sarañ utjaraki. Kimsa maranak juk'a sasa. Taqi qhipa jaqinakax yatiñ wali, European ukat jupanakax jan ukat amuyu sum uñjatänti.
 
-Chiqa yatiñax akhamäkiwa: MIND manq'a amtañax mä yatiñ calorías jisk'achat manq'a amtañ kimsa maraw janiw jark'äna. Ukax janiw manq'a wali ch'iqiyaña sapa jukhurisa; janiw mä manq'a amtañ demencia jaytañ jark'atäkiti sasa.
+Ukhamasti chiqapa: MIND manq'a janiw kimsa maranak calorías jukʼamp manq'a control manq'a sipansa juk'amp askinak lantinti. Ukax janiw suma manq'a jan sum sasa. Ukax yatiñ jan utjañapa dementia utjañ taqi suma manq'a ukat yatiñ.
 
-## ¿Kunsa suplemento ukat mä manq'a ukanakan?
+## ¿Kuna manq'anakat jan ukax suplementonakat?
 
-NIA sasaw sirwi, janiw mä manq'a manq'añ ni jan manq'añ Alzheimer jark'añataki yatiñ utjkiti. Berries, hoja verde manq'anaka ukat cúrcuma uñjatäna, ukampisa janiw chiqa yatiñ utjkiti. NIA sasaw, janiw mä vitamina ni suplemento Alzheimer jark'añataki chiqpachaw uñjatäkiti, ukat janiw ukhamäki yatxatäwinakanxa. NIA sasaw, Alzheimer jark'añataki sapa mä jan uñjatäkaspa producto, jan askinakaw utjaspa, qullqi jan wali sarxaspa, ukat recetado medicinanakan jan wali sarxaspa; ukhamaw doctor jiwasampi parlapxam ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA sapxi janiw kuna manq'a jan ukax jan manq'a Alzheimer ukat amuyu jan walt'ayaña jan utjañatakix yatiñ utjkiti. Blueberries, qhulla hortalizas ukat turmeric yatxatañ utjapxi, ukampisa janiw chiqa uñjatäkiti. NIA sapxi janiw kuna vitamina jan ukax suplemento Alzheimer jan utjañatakix yatiñ utjkiti, ukat janiw recomendado. NIA sapxi Alzheimer jan utjañatakix uñt'at janiw yatiñ utjkiti, ukax jan askinak jan ukax qullañ jan ukax taqi ukanakax janiw wali sum, ukat recetanakan medicinanakampi sarnaqañ atinisi, ukatpï doctor tuqi parlañamawa ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## ¿Kunsa manq'añ wali ukat wali kusisiñ?
+## ¿Kunjamsa manq'añax suma ukat kusisiñ utjañapa?
 
-Jach'a jaqinakatak, amtañax manq'a wali, sapa uñjat ukat kusisiñ manq'añ, janiw jisk'a amtañ:
+Juk'a jaqinakatakix, amtañax manq'a suma, wali uñjata ukat kusisiñ utjañapa, janiw ajjsarañ plan ukhamäkiti:
 
-- **Manq'añ mä amtañ sapa uñjat manq'anakampi:** hortalizas, frutas, habas, trigo, challwa ukat oliva aceite.
-- **Kusisiñ manq'anak uñjapxam.** Qhipa urunakan kusisiñ manq'añ ukat yatiñ jach'a jaqinakatak wali.
-- **Mayninakampi manq'apxam** kunapachatixa atipxi. Mayninakampi manq'añax wali sarnaqaña.
-- **Mayninakampi manq'apxam.** Hortalizas ch'allaña jan ukax tanqa uñjaña, [household tasks](/activities/household-tasks/) ukhamawa sapa. Familia manq'a ukax [reminiscence](/activities/reminiscence/) ukhamaw yatiñ sartayi.
+- **Manq'anakax amuyt'añ** Mediterráneo sarnaqat: hortalizas, frutas, habas, trigo intiru, challwa ukat oliva aceite.
+- **Kusisiñ manq'anakax katuqañ.** Kusisiñ ukat manq'a amtaña jukʼamp utjaspa, jiwasan machaq mayaknakan.
+- **Maynikamp manq'añ** kunapachatix sumaraki. Chiqpachansa wali sumapunirakiw sumaraki.
+- **Chika luraña.** Hortalizas q'uñaña jan ukax olla ch'iqañ sum chikat luraña; [household tasks](/activities/household-tasks/) uñjañamawa. Familiar receta mä sarnaqata [reminiscence](/activities/reminiscence/) amtañatakix yanapt'aspa.
 
-Jach'a jaqinakax janiw jisk'a manq'añ jan ukax kilo jisk'achañ doctor jiwasampi parlañ jan ukax, ayuno ukax jach'a ch'ampinakaniwa. Uñjapxam [fasting guide](/brain-health/fasting/).
+Jaqi machaqanakax janiw manq'a jaytañ jan ukax peso jaktañ doctor tuqi parlañ mä jan utjaspa, ayuno ukax jan askinak jukʼamp. Uka tuqi [fasting guide](/brain-health/fasting/) uñjañamawa.
 
-## ¿Kunsa demencia uñt'ata jaqir manq'añ yanapt'añasa?
+## ¿Kunjamsa dementia jakawir jaqir manq'añ yanapt'asma?
 
-Demencia uñt'ata jaqinakatak, manq'añ ukat umañ **taqi chuymaw** jach'a amtañaw. Alzheimer Association sasaw sirwi, jaqinakax manq'añ ukat amuyañ, manq'äna sasaw amuyapxi, jan ukax mayninakan janiw wali jakhuntapxi; jan wali manq'añax yaqhipanakax uñjatäkaspa, kilo jisk'achañ ukat ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Akanakax Alzheimer Association, NIA ukat Alzheimer's Society sasaw sirwi:
+Dementia jakawir jaqinakatakix, manq'añ ukat umañ **taqi** juk'amp amtasiñ utjaspa. Alzheimer's Association sapxi, jaqinakax manq'añ jan amtapxi, manq'a mä ukax jan ukax taqi ukax manq'at jaltapxi, jan ukax ajjsarañ jaqiw sarapxi, ukat jan suma manq'a sarnaqañax sarnaqañ uñjañ jan ukax peso jaktañ utjañ ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Uka amtanakax Alzheimer's Association, NIA ukat Alzheimer's Society tuqiw:
 
-1. **Jank'ak manq'anaka churapxam.** Jisk'a ch'iqinaka, sandwich, pollo, pescado, naranja ch'iqinaka jan ukax vapor hortaliza ch'iqinaka, cuchara ukat tenedor jan ukax, jaqi kikipa manq'añ.
-2. **Mesa ukan jach'a uñjañ.** Uñjañ jan wali ukhaxa, manq'a ukat plato jan uñjañ. Blanco plato jan ukax tazón ukat aycha contraste mantel ukhaw wali. Jan jakhuntañ sasa dibujo ukat mantel jan churapxam.
-3. **Mä jan ukax paya manq'a churapxam sapa mayt'a.** Jach'a plato jan wali ukhaxa, jaqi jakhuntatäki.
-4. **Manq'añ chuymaw ch'uxña.** Televisión apaqapxam, mesa jisk'a uñjapxam, jaqinakax pachampi manq'apxi. NIA sasaw, jan usuchañ jan ukax jaquntañ jan.
-5. **Jisk'a manq'añanaka ukat jisk'a manq'añanaka sapa.** NIA sasaw, jisk'a manq'añanaka sapa mara, ukat calorías jach'a manq'anaka, manq'a jan wali ukhaxa ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Umañ yanapt'apxam.** Jisk'a vasos agua jan ukax mayni umañanaka urunakan churapxam, ukhamarak fruta, sopa, batido ukat smoothie manq'añ. Agua munkan jan ukax, NIA sasaw jugo, agua saborizada, caldo, leche jan ukax decaf café jan ukax té umañ.
-7. **Temperatura uñjapxam.** Jaqix manq'a jan ukax umañ jach'a q'ara jakhuntañkiti.
-8. **Chapa jan ukax vaso mayjt'apxam.** Tazón plato jan ukax, jach'a manija cuchara ukat tapa vasos manq'añ sumpachañ. Jach'a pulcro jan uñjañ.
-9. **Manq'añ ukat ch'aqhañ sumpachañ.** Jisk'a ch'iqinaka jan ukax jank'ak manq'anaka churapxam. Jaqix tosiñ jan ukax ch'alljaña manq'a ukhaxa, doctor jiwasampi parlapxam.
-10. **Jan ch'iqhañ manq'añ.** NIA sasaw, manq'añ munaña ukat Alzheimer ukan qhipa pachanakan jisk'achi.
+1. **Amparanakampi manq'añ churañ.** Jiskha jiskha ukanakax, akjama sandwich, wallpa uywa, pescado frito, naranja jan ukax jaqhampi wali hortalizas, cuchillo jan apnaqañ sarañ.
+2. **Mesanakan ch'uxña apnaqañ.** Uñjaña jan sum jaqinakatakix, manq'a platonkat jan uñjañax jukʼamp. Yuri platonak jan ukax tazanaka ch'uxña mesa aptaña sum. Dibujo utjki platonak ukat mantelanakat jaytañ.
+3. **Mä jan ukax paya manq'a churañ.** Ch'uxña platonak jukʼamp ajjsaraki.
+4. **Manq'a uru wali sum tukuyaña.** Televisión jaytañ, mesa sum ch'uxña, tiempo jukʼamp churañ. NIA sapxi janiw ajjsañ jan ukax yanapt'añ.
+5. **Juk'a juk'a manq'anakax, kunapachatix.** NIA sapxi juk'a manq'anakax ukat kaloría wali utjir jiskha manq'anakax, jaqi jan manq'añ jukʼamp ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Umaña yanapt'añ.** Uruw juk'a juk'a uma jan ukax jukʼamp umaña, ukhamarak uma utjir manq'anakampi: frutas, sopa, milkshake ukat smoothie. Jaqi uma jan munaspa, NIA sapxi jugo, sum uma, caldo, leche jan ukax decaf café jan ukax té yanapt'añ.
+7. **Ch'ankhu uñjañ.** Jaqi manq'a jan ukax umaña ch'ankhu jan uñjaspa.
+8. **Cucharanak ukat tazanak sum luraña.** Platonak janiw tazanak ukat cucharanak mankhanak sum, ukat tapanak utjir tazanak manq'añ sum. Limpio jan utjañax janiw ajjsañ.
+9. **Tragañ ukat manq'añ sum luraña.** Manq'a jiskha jiskha ukanakar tukuña jan ukax ch'uqhi manq'anak churaña. Jaqi jaqhaspa jan ukax ajaya jaqhaspa, doctor tuqi parlañamawa.
+10. **Mayni manq'añ jan apnaqañ.** NIA sapxi manq'añ amtaña jukʼamp Alzheimer tuqi qhipa etapa uñjaña.
 
-### Doctor jiwasampi parlañ uñjañanaka
+### Doctor tuqi parlañ uñjañanakax
 
-Peso jisk'achañ, manq'añ jan munaña, qhathaña jan ukax jan wali sapa ukanakax, jaqix janiw sapa manq'añ uñjatäkaspati. Alzheimer's Society sasaw sirwi, jan wali dientes ukat dentadura, depresión, jan ukax medicina mayjt'añax manq'añ jisk'achapxi ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). NIA sasaw, umañ jisk'achañ uñjañanaka: boca jank'a, ch'ankha, sapa qhathaña ukat k'achana jan wali amuyaña ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Peso jaktañ, manq'a jan munañ, ch'ukhu ukat jan chhaqtaña uñjañanakax yanapt'añ sapxi jaqix manq'a jan manq'añ. Alzheimer's Society sapxi, lacha jan utjañ jan ukax dentadura, ajjsañ ukat jan sum usuchi, nayra jan sum manq'a jan munañ utjañ ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). NIA sapxi umaña jan utjañ señalanakax: boca jan umaña, ch'ukhu, uru jan sum jaqhaña ukat alucinaciones ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Doctor jiwasampi parlapxam
+## Doctor tuqi parlañ
 
-Jumanakan jan ukax mayninakan manq'a amtañ jach'a mayjt'añat, doctor jan ukax dietista jiwasampi parlapxam, khititix diabetes, riñón jan wali, manq'añ ch'ankha jan ukax peso jisk'achañ. Demencia uñt'ata jaqitakix, sapa uru manq'añ ukat umañ juk'ampi, dietista jan ukax suplemento yanapt'añatak uñjapxam.
+Jumanakan manq'a jan ukax jan manq'a jukʼamp luraña sapxi, jan ukax jaqi mayni manq'a jan ukax jan manq'a luraña sapxi, doctor jan ukax registered dietitian tuqi parlañamawa, khitinakas diabetes, sirk'ata jan walt'añ, tragañ jan sum ukat peso jaktañ jan ukax jaqhaña utjañ. Dementia jakawir jaqir, jiwasan doctor tuqi jupax uru manq'añ ukat umañ kuntix sumaraki, ukat dietitian jan ukax suplemento yanapt'añ sapxi.
 
-Urgente yanapt'awi munaspa, jaqix ch'allaña, jan suma amuyaña, jan ukax ch'iqhaña jan ukax jaquntañ.
+Jaqi tragañ jan ukax jaqhaña utjaspa, jan ukax amuyu jan walt'ayaña uñjañ, chhaqtaña jan ukax jaqhaña jukʼamp, qhipa thaqhapinkama ukat yanapt'añ jaytañ.

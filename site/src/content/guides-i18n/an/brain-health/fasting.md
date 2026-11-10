@@ -1,28 +1,34 @@
 ---
-title: "Ayuno intermitente y demencia: qué diz la investigación"
-seoTitle: "Ayuno intermitente y demencia: qué din los estudios"
-description: "A evidencia en personas sobre o ayuno intermitente y la demencia ye limitada y preliminar. Conoixe os riesgos pa as personas mayores y por qué minchar prou importa más con demencia."
+title: "Dixuno intermitén y demencia: qué diz la investigación"
+seoTitle: "Dixuno intermitén y demencia: qué diz la sciencia"
+description: "A evidencia humana sobre o dixuno intermitén y a demencia ye limitada y temprana. Conoix os riesgos pas as personas mayores y por qué comer abasto importa más."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No i ha buena evidencia de que o ayuno intermitente prevenga o alenteza la demencia. Gran parte d'a investigación ye en animals, y los estudios con personas mayores son pequeños y curtos. Ayunar puede ser arriesgau pa las personas mayores: pérdida de peso y de musclo, azúcar baxa en a sangre con unos medicamentos pa la diabetes, deshidratación y caídas. Pa las personas con demencia, minchar y beber prou ye normalmente o problema más gran. Parle con un doctor antes.
+  No bi ha buena evidencia de que o dixuno intermitén prevenga ni alenteza la
+  demencia. Gran parte d'a investigación ye en animals, y os estudios humanos
+  en personas mayores son pequeños y curtos. Dixunar puede ser arriscau pas as
+  personas mayores: pérdida de pes y de musclo, glicemia baixa con bella
+  medicina pa la diabetes, deshidratación y caídas. Pas as personas con
+  demencia, lo más importán suele ser que coman y beban lo suficient. Parle
+  primero con un doctor.
 keyPoints:
-  - "El Instituto Nacional sobre o Envejecimiento (NIA) dice que no i ha prou evidencia pa recomendar cualquier dieta de ayuno o de restricción de calorías, sobre todo pa las personas mayores."
-  - "Gran parte d'a investigación sobre ayuno y envejecimiento ye con animals, y estos resultaus no tiénen por qué aplicar-se a las personas."
-  - "Los posibles riesgos pa las personas mayores incluyen pérdida de peso no buscada, pérdida de musclo, azúcar baxa en a sangre con unos medicamentos pa la diabetes, deshidratación, mareos y caídas."
-  - "Las personas con demencia a menudo se olvidan de minchar o de beber, o creyen que ya han minchau. Ayudar-les a minchar y beber prou normalmente importa muito más que a hora en que minchan."
-  - "No faga ayuno con una persona con demencia. Parle con un doctor o una dietista titulada antes de cualquier cambio en as costumbres de comer."
+  - "O National Institute on Aging (NIA) diz que no bi ha prou evidencia pa recomendar cualsiquier dieta de dixuno o de reducción de calorías, sobre todo pas as personas mayores."
+  - "Gran parte d'a investigación sobre dixuno y envellimiento ye con animals, y esos resultaus no tiens por qué aplicar-se a las personas."
+  - "Posibles riesgos pas as personas mayores son a pérdida de pes sin querer, a pérdida de musclo, a glicemia baixa con bellas medicinas pa la diabetes, a deshidratación, mareos y caídas."
+  - "As personas con demencia de vegadas se olvidan de comer o de beber, u creen que ya han comiu. Ayudar-las a comer y beber abasto suele importar muito más que a hora a qué comen."
+  - "No faiga dixunar a una persona con demencia. Parle con un doctor o dietista titulau antes de cambiar cualsiquier costume de comer."
 faq:
-  - q: "¿El ayuno intermitente previene l'Alzheimer?"
-    a: "No i ha buena evidencia que lo faga. Gran parte d'a investigación ha sido con animals, y los estudios en personas han sido sobre todo curtos, con adultos más chóvenes o con sobrepeso, y centraus en perder peso. El NIA dice que no i ha prou evidencia pa recomendar dietas de ayuno a la población."
-  - q: "¿El ayuno intermitente ye seguro pa las personas mayores?"
-    a: "Puede que no lo sía. Ayunar puede causar pérdida de peso y de musclo no buscada, deshidratación, mareos y caídas, y puede causar una azúcar en a sangre peligrosamente baxa en personas que prenen insulina u otros medicamentos pa la diabetes. La Clínica Mayo indica que puede no ser adecuau pa las personas con alto riesgo de perder güesos y de caer. Parle con un doctor antes de probar-lo."
-  - q: "¿Debería una persona con demencia probar a ayunar?"
-    a: "No. Las personas con demencia a menudo tienen dificultats pa minchar y beber prou, y una mala nutrición puede aumentar los síntomas de comportamiento y causar pérdida de peso. Ayunar suma riesgo sin un beneficio demostrau. Mejor céntrese en comidas regulars, meriendas que le guste y beber prou."
-  - q: "¿Cuáles son os signos de que una persona con demencia no mincha ni bebe prou?"
-    a: "Fíxese en pérdida de peso, roda que le quede más larga, cansancio, debilidat, estreñimiento o que rechace la comida. Los signos de deshidratación que lista el NIA incluyen boca seca, mareos, pulso rápido y alucinaciones. Diga-lo-y a su doctor si nota estos signos."
+  - q: "¿O dixuno intermitén previene l'alzheimer?"
+    a: "No bi ha buena evidencia que lo faiga. Gran parte d'a investigación s'ha feito con animals, y os asaius humanos han estau mayormén curtos, en gent más chobena o con sobrepeso, y centraus en perder pes. O National Institute on Aging diz que no bi ha prou evidencia pa recomendar dietas de dixuno a l'alto publico."
+  - q: "¿Ye segur o dixuno intermitén pas as personas mayores?"
+    a: "Puede no serlo. Dixunar puede causar pérdida de pes y de musclo sin querer, deshidratación, mareos y caídas, y puede causar una glicemia perigosament baixa en personas que prenen insulina u bella atra medicina pa la diabetes. Mayo Clinic indica que puede no ser adequau pas as personas con alto riesgo de perder güesos y de caer. Parle con un doctor antes de probar-lo."
+  - q: "¿Ha de probar una persona con demencia o dixuno?"
+    a: "No. As personas con demencia de vegadas tienen dificultaz pa comer y beber lo suficient, y una mala alimentación puede aumentar os síntomas de comportamiento y causar pérdida de pes. O dixuno suma riesgos sin un beneficio comprobau. Enfóquese en cambio en comidas regulars, meriendas que le plazan y beber abasto."
+  - q: "¿Cuálas son as señales de que una persona con demencia no come o no bebe lo suficient?"
+    a: "Mire si hai pérdida de pes, si a roba le queda grande, cansancio, debilidat, estreñimiento o refusa a comida. Entre as señales de deshidratación que lista o NIA son a boca seca, mareos, pulso rápido y alucinacions. Avise a o doctor de la persona si nota estas cosas."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -50,70 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-L'ayuno intermitente, como minchar solo dentro d'una ventana de ocho horas o reducir muito as calorías dos días a la semana, recibe muita atención, y algunos artigos sugieren que puede protexer o cerebro. Si vusté ye una persona mayor, o cuida a alguien con demencia, aquí tiene lo que muestra de verdat la investigación, y por qué ye importán tener cuidau.
+O dixuno intermitén, como comer nomás dentro d'una ventana de ocho horas o reducir muito as calorías dos días a la semana, ye muito de moda, y bell articulo sugiere que puede protexer o cerebro. Si vusté ye una persona mayor, o cuida a alguien con demencia, aquí tiene lo que la investigación amuestra de verdad, y por qué cal tener cuidau.
 
-Esta ye información xeneral, no consello medico. No empiece a ayunar, ni cambie cómo minche la persona que cuida, sin parlar antes con un doctor o una dietista titulada. Veyga a nuestra [advertencia medica](/medical-disclaimer/).
+Esta informazión ye de caráuter xeneral, no ye consello medico. No empece a dixunar, ni cambie cómo come la persona a la que cuida, sin parlar antes con un doctor o un dietista titulau. Veya o nuestro [aviso medico](/medical-disclaimer/).
 
-## ¿El ayuno intermitente previene la demencia?
+## Previén o dixuno intermitén la demencia?
 
-No i ha buena evidencia de que o ayuno intermitente prevenga o alenteza la demencia. El Instituto Nacional sobre o Envejecimiento (NIA) dice que no i ha prou evidencia pa recomendar cualquier tipo de dieta de restricción de calorías o de ayuno, y que queda muito por aprender sobre a sua efectividat y seguridat, sobre todo en personas mayores ([NIA sobre a restricción de calorías y ayuno](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+No bi ha buena evidencia que o dixuno intermitén prevenga ni alenteza la demencia. O National Institute on Aging (NIA) diz que no bi ha prou evidencia pa recomendar cualsiquier tipo de dieta de reducción de calorías o dixuno, y que queda muito por aprender sobre a suya eficacia y seguranza, sobre todo en personas mayores ([NIA sobre reducción de calorías y dixuno](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Por qué la evidencia ye tan limitada
+### Por qué a evidencia ye tan limitada
 
-El NIA da varias razones:
+O NIA da bells razons:
 
-- **La mayoría d'os estudios son con animals.** La investigación con gusanos, moscas, ratolins y monos ha dau resultaus interesantes, pero estos resultaus no tiénen por qué aplicar-se a las personas. Incluso en animals, los resultaus son mixtos; en unas cepas de ratolins, la restricción de calorías acortó la vida.
-- **Los ensayos con personas han sido curtos.** La mayoría duró unas semanas o meses.
-- **La mayoría d'os ensayos con personas se centró en perder peso** en adultos con sobrepeso, no en a memoria ni en a demencia.
-- **Las personas mayores rara vegada se incluyen.** Muitos ensayos reclutaron a personas de 60 años o menos.
+- **La mayoría d'os estudios son en animals.** A investigación en gusanos, mosquetas, ratons y monos ha dado resultaus interesants, pero no tiens por qué aplicar-se a las personas. Incluso en animals, los resultaus son mixtos; en bellas cepas de ratón, la reducción de calorías acortó la vida.
+- **Los estudios humanos han estau curtos.** A mayoría duró unas semanas o unos mesos.
+- **La mayoría de estudios humanos se centraron en perder pes** en personas con sobrepeso, no en a memoria ni en a demencia.
+- **Las personas mayores casi no s'incluyen.** Muitos estudios reclutaron a gent de 60 años o menos.
 
-Una revisión sistemática de 2026 miró específicament o ayuno intermitente en adultos de 60 años o más. Trobó que la evidencia en este grupo d'edat sigue siendo limitada, con estudios pequeños, seguimiento curto y diseños mixtos. Los resultaus sobre pensamiento y memoria vienen de estudios individuals, no de resultaus combinaus de ensayos. La revisión tamién indicó que unos estudios relacionaron ventanas de comida muy curtas o ayunos largos con peores resultaus, y los autors pidiban prudencia pa las personas mayores ([revisión de 2026 en Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Una revisión sistemática de 2026 miró específicament o dixuno intermitén en adultos de 60 años o más. Trobó que la evidencia en este grupo d'edat sigue siendo limitada, con estudios pequeños, seguimiento curto y diseños mixtos. Los resultaus sobre pensamiento y memoria salen d'estudios individuals, no de resultaus combinaus de ensayos. La revisión tamién notó que bellos estudios relacionaron ventanas de comer muito curtas o dixunos largos con peores resultaus, y os autors pidioron cuidau pas as personas mayores ([revisión de 2026 en Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Unos investigadors creen que o cambio d'o cuerpo a quemar grasa durant un ayuno puede afectar o cerebro, pero esta ye tadavía una teoría en estudio. El NIA indica que a ciencia no ye segura.
+Bells investigadors piensan que o cambio d'o cuerpo a quemar grasa durant un dixuno puede afectar o cerebro, pero esto sigue siendo una teoría que s'estudia. O NIA indica que la ciencia no ye segura.
 
-## ¿Cuáles son los riscos d'ayunar pa las personas mayores?
+## Quals son os riesgos d'o dixuno pas as personas mayores?
 
-Ayunar no ye un esperimento inofensivo pa muitas personas mayores. Los posibles riscos incluyen:
+Dixunar no ye un experimento inofensivo pa muitas personas mayores. Los posibles riesgos inclúyen:
 
-- **Pérdida de peso no buscada.** Minchar menos d'o que necesita o cuerpo puede causar pérdida de peso y menos fuerza muscular, lo que puede dexar a una persona más fraca.
-- **Pérdida de musclo y de güesos.** En un ensayo de dos años apoyau por o NIA sobre restricción de calorías en adultos chóvenes y de mediana edat, los participantes tenién pequeñas baxadas en a densidat ósea y en a masa magra.
-- **Azúcar baxa en a sangre con medicamentos pa la diabetes.** Las personas que prenen insulina u otros medicamentos pa la diabetes pueden tener a azúcar en a sangre demasiau baxa si saltan o retrasan comidas, según o [Instituto Nacional de Diabetes y Enfermedades Digestivas y Renals](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). La azúcar baxa puede causar mareos, confusión e irritabilidat.
-- **Deshidratación.** Si se saltan as bebidas junto con as comidas, una persona puede deshidratar-se.
-- **Mareos y caídas.** La Clínica Mayo indica que o ayuno intermitente puede causar a la gente muita cansera y mareos, y que puede no ser un patrón sano pa las personas con alto riesgo de perder güesos y de caer ([Clínica Mayo sobre o ayuno intermitente](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Otros efectos.** La Clínica Mayo tamién cita dolores de cabeza, cambios de humor y estreñimiento, y indica que unha evidencia sugiere que un ayuno de 16 horas con una ventana de 8 horas de comida puede aumentar o riasgo de enfermedat cardiaca en comparación con otras ventanas de comida. Esta evidencia no ye concluyente.
+- **Pérdida de pes sin querer.** Comer menos d'o que necesita o cuerpo puede causar pérdida de pes y menos fuerza muscular, cosa que puede dexar a una persona más frachil.
+- **Pérdida de musclo y de güesos.** En un ensayo de dos años con reducción de calorías en adultos chobenos y de mediana edat, con apoyo d'o NIA, los participants tubieron leves caídas en a densidat ósea y en a masa magra.
+- **Glicemia baixa con medicinas pa la diabetes.** As personas que prenen insulina u atras medicinas pa la diabetes pueden tener a glicemia demasiau baixa si saltan u retrasan comidas, según o [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). A glicemia baixa puede causar mareos, confusión e irritabilidat.
+- **Deshidratación.** Si se saltan as bebidas a la vez que as comidas, una persona puede deshidratar-se.
+- **Mareos y caídas.** Mayo Clinic indica que o dixuno intermitén puede causar cansancio y mareos muito fuertes, y que puede no ser una pauta sana pas as personas con alto riesgo de perder güesos y de caer ([Mayo Clinic sobre o dixuno intermitén](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Atros efectos.** Mayo Clinic tamién cita dolores de cabeza, cambios d'humor y estreñimiento, y nota que bi ha alguna evidencia de que un dixuno de 16 horas con una ventana de 8 horas de comer puede aumentar o riesgo de cardiopatía en comparación con atras ventanas. Esta evidencia no ye definitiva.
 
-## ¿Por qué minchar prou ye la preocupación más gran con demencia?
+## Por qué comer abasto ye la preocupación más gran con demencia?
 
-Pa las personas con demencia, o problema habitual ye minchar y beber **prou**, no demasiau. L'Asociación d'Alzheimer explica que las personas en as etapas medias y tardanas pueden sentir-se desbordadas por as opcions de comida, olvidar-se de minchar o creyer que ya han minchau. Añade que una mala nutrición puede aumentar los síntomas de comportamiento y causar pérdida de peso ([Asociación d'Alzheimer sobre a alimentación](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Pas as personas con demencia, o problema habitual ye comer y beber **abasto**, no comer masiau. A Alzheimer's Association explica que las personas en as fases mediana y avanzada pueden sentir-se desbordadas por las opcions de comida, olvidar-se de comer, o creyer que ya han comiu. Tamién diz que una mala alimentación puede aumentar os síntomas de comportamiento y causar pérdida de pes ([Alzheimer's Association sobre alimentación](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-A Sociedat d'Alzheimer indica que no minchar prou puede llevar a pérdida de peso, menos fuerza muscular, cansera y debilidat, dexando a una persona más fraca y menos capaz de recuperar-se de as infeccions ([Sociedat d'Alzheimer sobre l'apetito](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+A Alzheimer's Society nota que no comer abasto puede causar pérdida de pes, menos fuerza muscular, cansancio y debilidat, dexando a una persona más frachil y con menos capacidat pa recuperar-se de infeccions ([Alzheimer's Society sobre l'apetito](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**Por estas razones, ayunar no ye una buena idea pa una persona con demencia.** Las comidas saltadas fácilment pueden convertir-se en comidas perdidas. Cualquier cambio en cómo minche una persona con demencia debe estar guiau por o suyo doctor o por una dietista titulada.
+**Por estas razons, o dixuno no ye una buena idea pa una persona con demencia.** As comidas saltadas pueden convertir-se fácilment en comidas perdidas. Cualsiquier cambio en cómo come una persona con demencia debe estar guiau por o suyo doctor o por un dietista titulau.
 
-## ¿Cuáles son os signos de alerta de minchar o beber poco?
+## Quals son as señales d'alarma de comer o beber poco?
 
-Fíxese en:
+Mire:
 
-- **Pérdida de peso**, o roda que le quede más larga.
-- **Dexar comida o rechazar comidas**, o tener comida en a boca.
-- **Cansera o debilidat.**
+- **Pérdida de pes**, o a roba que le queda grande.
+- **Dexar comida o refusar comidas**, o tener a comida en a boca.
+- **Cansancio o debilidat.**
 - **Estreñimiento**, que puede estar relacionau con a dieta y a deshidratación.
-- **Signos de deshidratación.** El NIA lista boca seca, mareos, pulso rápido y alucinaciones, que tamién pueden estar causaus por a propia demencia ([NIA sobre problemas medicos comunes](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Señales de deshidratación.** O NIA lista boca seca, mareos, pulso rápido y alucinacions, que tamién pueden deber-se a la demencia en si ([NIA sobre problemas medicos comunes](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-A falta de apetito tiene muitas posibles causas: dientes doloridos o dentaduras sueltas, medicamentos nuevos, depresión, estreñimiento, menos actividat, o cambios en o gusto y en l'olfato. Diga-le a doctor d'a persona cualquiera d'estos signos. Puede buscar una causa y sugerir una dietista o suplementos.
+Bells problemas d'apetito pueden tener muitas causas: dolor de dientes o dentadura mal axustada, medicinas nuevas, depresión, estreñimiento, menos actividat, o cambios en o gusto y l'olfato. Avise a o doctor de la persona de cualsiquiera d'estas señales. Puede buscar una causa y suxerir un dietista o suplementos.
 
-## ¿Cómo puede ayudar a alguien a minchar y beber prou?
+## Cómo puede ayudar a alguien a comer y beber abasto?
 
-- **Ofrezca comidas y meriendas pequeñas con frecuencia**, en cuenta de tres comidas grans.
-- **Sirva comidas favoritas**, y sea flexible a medida que cambian os gustos. Los dulces pueden ser bien recibidos si l'apetito ye baxo; pregunte a doctor si hi ha razones de salut pa limitar l'azúcar.
-- **Tienga as bebidas a l'alcance** y ofrezca vasos pequeños a lo largo d'o día. Las sopas, a fruta, los batidos y los batidos de leche tamién cuentan.
-- **Minche en compañía** cuando pueda. Las comidas son una ocasión de compañía, no una tarea de la que correr.
-- **Pruebe comidas pa coller con as manos**, como bocadillos, trozos de fruta o pedazos de pollo, si los cubiertos se han fecho difíciles.
+- **Ofrezca comidas y meriendas pequeñas con frecuencia**, en cuenta de tres comidas grandes.
+- **Sirva comidas favoritas**, y sea flexible si cambian os gustos. Los dulces pueden ser bienvenidos si l'apetito ye baixo; pregunte a o doctor si bi ha razons de salut pa limitar l'azúcar.
+- **Tienga las bebidas a l'alcanz** y ofrezca vasos chiquitos a lo largo d'o día. As sopas, a fruta, os batidos y os batidos de leche tamién cuentan.
+- **Coma en compañía** cuando pueda. As comidas son una ocasión pa estar acompanyaus, no una tarea que correr.
+- **Probe comidas pa comer con a mano**, como bocadillos, trozos de fruta o pollo en trozos, si los cubiertos se han fecho difícils.
 
-Nuestra [guía de dieta](/brain-health/diet/) tiene más ideas pa las horas de comer. Preparar a comida tamién puede ser una actividat compartida agradable; veyga [tareas d'a casa](/activities/household-tasks/).
+A nuestra [guía de dieta](/brain-health/diet/) tiene mas ideas pas as horas de comer. Preparar a comida tamién puede ser una actividat compartida agradable; veya [tareas d'a casa](/activities/household-tasks/).
 
 ## Parle con un doctor
 
-Antes de probar cualquier plan de ayuno por cuenta propia, parle con o suyo doctor o con una dietista titulada, sobre todo si prene medicamentos pa la diabetes o pa a tensión, ha perdiu peso recientment, o ha tenido caídas. Pa una persona con demencia, pregunte a su doctor cuánto debería minchar y beber cada día, en cuenta de preguntar por o ayuno.
+Antes de probar cualsiquier plan de dixuno por cuenta propia, parle con o doctor o con un dietista titulau, sobre todo si prene medicinas pa la diabetes o pa la tensión, ha perdiu pes fa poco, o ha tenido caídas. Pa una persona con demencia, pregunte a o suyo doctor cuánto debe comer y beber cada día, en cuenta de preguntar por o dixuno.
 
-Busque ayuda medica urxent por una confusión repentina, un desmayo, o signos de azúcar en a sangre muy baxa que no mejoran rapidament.
+Busque ayuda medica urgén por confusión repentina, desmayos, o señales de glicemia muito baixa que no milloren rápido.

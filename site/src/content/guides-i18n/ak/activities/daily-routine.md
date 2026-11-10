@@ -1,33 +1,32 @@
 ---
-title: "Adwuma Ahodoɔ a Ɛyɛ Ɛyɛ Kɛse ma Obi a Ɔwɔ Dementia"
-seoTitle: "Dementia Da Nhyehyɛe: Da Bi a Wobetumi Asesa"
-description: "Da bi a wobetumi asesa ma obi a ɔwɔ dementia, a ɛwɔ aduane, adwuma ne ahome wɔ ɔkwan a ɛyɛ mmerɛ so, ne sɛnea wobetumi de wo ara nhyehyɛe yɛ na wosesa no wɔ nnansa a ɛyɛ den mu."
+title: "Ɛda Biara Nhyehyɛe a Ɛyɛ Dɛ ma Obi a Ɔwɔ Dementia"
+seoTitle: "Dementia Da Biara Nhyehyɛe: Ɛda Bi a Wobɛsesa"
+description: "Ɛda bi a wobetumi asesa ma obi a ɔwɔ dementia, a aduane, adwuma ne ɔhome wɔ bere a ɛyɛ pɛ mu; ne sɛnea wobɛhyehyɛ wo ankasa nhyehyɛe ne sɛnea wobesesa no sɛ ɛda a ɛyɛ den."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Adwuma a ɛyɛ mmerɛ bɛma wosɔre, aduane, nneɛma a wɔde hwɛ onipa ho ne
-  ahodie bɛda hɔ wɔ bere bɛn so. Ɛma adwuma a ɛyɛ anigye no ba bere a onipa
-  no ani ayɛ ye, na ɛma adwuma ne ahomegyei yɛ abɔ mu. Fa wo ara nhyehyɛe
-  yɛ nneɛma a onipa no adwene ne ne nkɔnsɔnkɔnso a ɔwɔ de ara ne bere nyinaa,
-  mma nhyehyɛe no nyɛ den, fa owia ne nneyɛe kakra da biara, na sesa nhyehyɛe
-  no sɛnea nnansa no hia.
+  Da biara nhyehyɛe a ɛyɛ dɛ de, wɔde ɔsɛe, aduane, ho hwɛ ne hwe mu bere
+  bɛyɛ sɛ ɛberɛ a ɛbɛyɛ pɛ wɔ ɛda mu, na wɔde ɔsɛe a ɛka obi ho no bɛyɛ
+  sɛ ɛberɛ a ɔyɛ yie wɔ ɛda mu; wɔde ɔhome ka ho. Fa obi no nkwa mu nneyɛe
+  so sɛ wobɛhyehyɛ, mfa nnyɛ ma ɛyɛ den, na da biara fa owia ne nneyɛe.
+  Sesa nhyehyɛe no sɛnea ɛda no hwehwɛ.
 keyPoints:
-  - "Bere a wosɔre, aduane, ahoɔfɛ ne ahodie a wɔde ka ho bɛma da no yɛ sɛ bere a wohu."
-  - "Fa adwuma a ɛyɛ kɛse no bere a onipa no ani ayɛ ye no mu, a ɛbɛyɛ anɔpa."
-  - "Mma wo ara nnyinasoɔ mu nyɛ ma wo nyinaa ahyɛ ma. Ahomegyei ne ahomɛ bere nso yɛ nhyehyɛe no mu nneɛma."
-  - "Owia, nneyɛe a wɔyɛ da biara, ne sɛ wɔntwe ahomka tenten ne ahomka a ɛnyɛ bere a ɛnsɔ anadwo nkɔ ho ka mmerɛ so ahonyadeɛ a ɛba anadwo no ho."
-  - "Nhyehyɛe yɛ akwankyerɛ, na ɛnyɛ mmara. Sesa, tew anaa gyae biribiara wɔ nnansa a ɛyɛ den mu."
+  - "Bere a ɛyɛ pɛ ma wosɔre, wodidi, wohwɛ ho ne hwe mu ma da no wɔ nkɔso a ɛyɛ dɛ."
+  - "Fa adwuma a ɛyɛ kɛse no bɛyɛ ɛberɛ a obi no ani yɛ ya wɔ ɛda mu, sɛ nʼanɔpa."
+  - "Nsɛ da no nyinaa ma adwuma. Ahomegye ne ahomegyeɛ bere yɛ nhyehyɛe no ankasa mu."
+  - "Owia, nneyɛe a wɔyɛ da biara ne sɛ wamfa anwummere mu kɔteɛ tenten anaa kɔfi a ɛwɔ kafeen ɛnnsɔ ho, ebetumi aboa ma anwummere ahohia nyɛ den."
+  - "Nhyehyɛe yɛ akwankyerɛ, nyɛ mmara. Sesa, twa mu anaa yi fi hɔ wɔ ɛda a ɛyɛ den."
 faq:
-  - q: "Dɛn nti na ɛboa sɛ obi a ɔwɔ dementia wɔ nhyehyɛe?"
-    a: "Da a ɛyɛ kyerɛkyerɛ mu ma nneyɛe kakra ne nneɛma a ɛde ahaw ba, na nea ɛma nkurɔfo a wɔwɔ dementia dwiriw ani. Alzheimer's Association kyerɛ sɛ da a wɔahyehyɛ ma ɛma wo ne wɔn a wodi wɔn ho ani ayɛ fi nsɛm a wobɛyɛ ho adwene kɔ nneɛma a mo baanu duru. Ɛboa obi a ɔhwɛ ho ara nso sɛ ɔbɛhyehyɛ ne da."
-  - q: "Dɛn ne nhyehyɛe a ɛyɛ yie ma obi a ɔwɔ dementia?"
-    a: "Nhyehyɛe a ɛte sɛɛ biara nni hɔ. Nea ɛyɛ yie kyɛ wɔ sɛ ɛma wosɔre, anidie ne anadwo ba bere bi a ɛyɛ mmerɛ, ɛma wɔhwɛ onipa no ho ne adwuma a ɛyɛ kɛse wɔ bere a ɔni ayɛ ye, ɛma ɔbɛfiri hɔ anaa ɔbɛte wo nkyɛn bere bi, na ɛma ɔbɛdi ahomegyei. Fa ɛno ayɛ wɔ ɔkwan a onipa no atra so da nyinaa so."
-  - q: "Ɛsɛ sɛ obi a ɔwɔ dementia da ahomka anadwo?"
-    a: "Ahomka tenten betumi aboa, de kɔ so awia. National Institute on Aging kyerɛ sɛ ɛsɛ sɛ wɔma ahomka tenten ne ahomka a ɛfiri da mu ɛnhyɛ wɔn anaa ɛnnyɛ ahunahuna ahoɔden, efisɛ sɛ onipa nni ahoɔden anaa ɔnnya ahomegyei yiye betumi ama ahonyadeɛ a ɛba anadwo no ayɛ den. Sɛ ahomegyei yɛ ɔhaw kɛse, kasa wɔ n'oyarefoɔ ho."
-  - q: "Dɛn na ɛbɛyɛ sɛ wɔn ampene so wɔ nhyehyɛe no mu?"
-    a: "Ma ɛnkɔ so kyɛ, na sɔ hwan bio anaa fa ɔkwan foforo so. Ampene betumi kyerɛ sɛ wɔayɛ hwee, wɔrehwehwɛ yare, wɔrehyɛ ɔhaw, anaa wɔnnyɛ nea ɛbɛyɛ kɔ. Nhyehyɛe no wɔ hɔ de ma da no ayɛ mmerɛ, enti fa so kɔ, na nfa so kɔ."
+  - q: "Adɛn nti na nhyehyɛe boa obi a ɔwɔ dementia?"
+    a: "Ɛda a wɔaboa wɔ ho nhyehyɛe ma nsɛmmisa ne nneɛma a ɛma obi ani wɔ hɔ dɛ mmɛba kakra, eyi ne nea barebare a wɔwɔ dementia pɛ ani gye. Alzheimer's Association kyerɛ sɛ ɛda a wɔahyehyɛ ma ɛma wo ne ɔno nya bere pii di nea mo bɛyɛ ne nea mo ne mo ani gye. Ɛboa wɔ a wɔbɔ ho ban ma wɔhyehyɛ wɔn ankasa ɛda ho nso."
+  - q: "Nhyehyɛe a ɛyɛ dɛ ma obi a ɔwɔ dementia bɛn?"
+    a: "Nhyehyɛe biara pɛ nni hɔ. Nea ɛyɛ no kɔ so ma ɔsɛe, aduane ne ɔhome da ahyɛ bere a ɛyɛ pɛ; ɛde ho hwɛ ne adwuma a ɛyɛ kɛse no bɛkɔ bere a obi no ani yɛ ya; ɛde bere a wɔbɛfiri ɔhome anaa ɔpon ho ma; na ɛma ɛbɛyɛ ahomegyeɛ bere. Fa nhyehyɛe no so sɛnea ɔno ankasa atete no."
+  - q: "Ɛsɛ sɛ obi a ɔwɔ dementia da ɔsɛe ansa?"
+    a: "Ɔsɛe a ɛyɛ tenten boa, nanso ɛkyɛn sɛ ɛda ɔsɛe ne nea ɛyɛ mmerɛ. National Institute on Aging kyerɛ sɛ wɔmfa ɔsɛe tenten ne anwummere mu ɔsɛe nni, efisɛ sɛ obi ayɛ ɔsɛe anaa ɔda ne nna a ɛsɛe no bɛma anwummere ahohia nyɛ den. Sɛ ɔda ne nna yɛ ɔhaw kɛse a, kasa kyerɛ wɔn dɔkota."
+  - q: "Dɛn na ɛbɛyɛ sɛ wɔnni nhyehyɛe no a?"
+    a: "Gyae de ɛnyɛ yie, na sɛ wɔnkɔ so ɔberɛ foforo anaa ɔkwan foforo mu. Sɛ wɔpo a, ebetumi ayɛ sɛ wɔayɛ ɔsɛe, wɔayaw, wɔwɔ yaw anaa wɔnnyɛ ɛberɛ no ɛma. Nhyehyɛe no wɔ hɔ de ma ɛda no nyɛ den, enti sesa no mmfa mmfa ɔkɛ."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -46,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-Adwuma a ɛyɛ mmerɛ ma da no yɛ sɛ bere a wohu: wostore, wodi aduane, wobɔ kakra adwuma, wodi ahomegyei, na wosɔ hyia bere a ɛbɛyɛ pɛpɛɛpɛ koro. Ɛtew ahyɛdeɛ ne nneɛma a ɛde ahaw ba, na ɛma wo nhyehyɛe bere a wobɛhwehwɛ nea wɛbɛyɛ ɛdi hɔ. Nhyehyɛe a ɛwɔ hɔ yi yɛ nhwehwɛmu, ɛnyɛ mmara. Fa sɛ wo hyɛ ase, na fa ɔbarima anaa ɔbaa a wohwɛ ho no ahyɛ no ho.
+Da biara nhyehyɛe a ɛyɛ dɛ ma ɛda no yɛ sɛ nea wɔahyehyɛ: wosɔre, wodi, wodi adwuma kakra, wodi ahomegyeɛ, ne wosɔ ɔdan mu wɔ bere a ɛbɛyɛ pɛ. Ɛma wɔnnyɛ nneyɛe pii na ɛma wowɔ ɔkwan a wobɛfa so wɔ mmere a wobɛhwehwɛ sɛ wɛbɛyɛ dɛn. Nhyehyɛe a ɛwɔ hɔ yi yɛ nhyehyɛe bi, nyɛ mmara. Fa so sɛ ɛbɛyɛ mfiase, na wobɛsesa no sɛnea obi a woboa no no te.
 
-## Dɛn nti na da nhyehyɛe boa?
+## Adɛn nti na da biara nhyehyɛe boa?
 
-Nhyehyɛe a wɔsesa mmerɛ boa efisɛ nneyɛe a wɔbɔ bere pii di so yɛ mmerɛ sen nneyɛe foforɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) kyerɛ sɛ da a wɔahyehyɛ ma ɛma wɔnhwehwɛ nea wɛbɛyɛ kakra na ɛma wɔwɔ bere pii ma nneyɛe a ɛyɛ anigye, na ɛkyerɛ sɛ bere a wɔsɔre ne bere a wɔkɔ moa a wɔyɛ nyinaa betumi aboa wɔ ahomegyei ho nsɛnkyerɛnne ne ahonyadeɛ a ɛba anadwo no ho. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) kyerɛ sɛ wɔsɔre, wɔhodi ne wɔdi aduane bere a ɛyɛ pɛpɛɛpɛ da biara wɔ ahofama fie mu ho ho, na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nso kamfo sɛ wɔkɔ so de nneyɛe a wɔyɛ da biara.
+Da biara nhyehyɛe boa efisɛ nneyɛe a wɔayɛ dada ye sɛ wɔdi so sen nneyɛe foforo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) kyerɛ sɛ ɛda a wɔahyehyɛ ma ɛma nsɛm a wɔbɛyɛ no nkɔ so bere tiaa, na ɛma bere pii ma adwuma a ɛma ani gye. Wɔka nso sɛ wɔsɔre ne wɔdan mu wɔ bere a wɔabɔ mu ka ho boa ma ɔda ne nna ho ɔhaw ne anwummere mu ahohia. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) kyerɛ sɛ wɔnhohoro, wɔnwɔ ntama ne wɔnnuan wɔ bere koro mu da biara sɛ ɔhome a ɛyɛ dwodwoo ho ntease, na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nso kyerɛ sɛ wɔnkɔ so de nneyɛe pɛ di dwuma.
 
-## Da bi a ɛyɛ mmerɛ
+## Da bi a ɛyɛ dɛ
 
-Bere no yɛ nhwɛso nko. Sesa da no nyinaa kɔ anɔpa anaa kɔ anadwo sɛnea onipa no ahoɔden bere te.
+Bere no yɛ nkyerɛkyerɛmu nko ara. Sesa da no nyinaa kɔ anim anaa kɔ akyiri sɛnea obi no ankasa ɔsɛe te.
 
-| Bere | Dɛn na ɛba | Nneɛma a wobetumi ayɛ | Sɛ da no yɛ den |
+| Bere | Nea ɛbɛba | Adwene | Ɛda a ɛyɛ den |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Stori, hohoro, ntoma | Ɔkwan koro a wɔfa so da biara; hyehyɛ ntoma a wɔbɛtoto so no sɛnea wɔde bɛhyɛ ho | Fa ahwɛyiye ayɛ kakraa; ntoma foforɔ nko ara na ɛfata |
-| 8:45 a.m. | Aduane anɔpa | Kɔfi ne nsɛm a wɔka kyerɛ wo wɔ nkwa mu, anaa radio | Di aduane ka ho ɛnam nkɔmmɔ so; ɛnsɛ sɛ wokasa dodo |
-| 9:30 a.m. | Adwuma a ɛyɛ kɛse | Pete ntama, sie paanoo, yɛ turo, kɔ akɔnnɔ sɛ wobɛtu kwan anaa nantew | Adwuma a ɛyɛ tiaa, anaa ma wɔnhwɛ sɛnea wobɛyɛ no |
-| 10:30 a.m. | Ahomegyei bere | Nnwom, nwoma a ɛwɔ mfonini, anaa ɔtena ase wɔ fenestri ho | Ahome wɔ ne pɛ a ɔpɛ no mu |
-| 11:00 a.m. | Boa aduane ansa na wɔaduan | Sasa nkɔbɔ, gyina aduanekɔno | Wo na wobɛyɛ aduane; wɔn bɛka wo ho |
-| 12:00 p.m. | Aduane ne ahohoro | Pepɛ dabɔ, guan nkwan kakra | Gyae adwuma a wɔyɛ fie no |
-| 1:00 p.m. | Ahomegyei tiaa | Nan so, nnwom a ɛyɛ dodo | Saa ara |
-| 2:00 p.m. | Wɔ abɔnten anaa adwuma | Nantew, ɔtena wɔ fie ɔpon so, tɔ nsuo ma nnua, tow bɔɔlo | Fa ho ɔtena wɔ fenestri a owia wɔ so |
-| 3:00 p.m. | Nkɔmhyɛ anaa adwuma a ɛyɛ nhyehyɛe | Nkyɛn kɔkyerɛ, frɛ, [picture pairs](/games/picture-pairs/), nkyekyɛ mfonini, kaate | Nsa ne nnɔbae ne mo ho |
-| 4:30 p.m. | Ahomegyei bere ma ɛyɛ | Nkyekyɛ kɔ so, kanea so, adwuma a ɛyɛ dodo te sɛ ahoɔden ne ahoɔfɛ | Nnwom a ɛyɛ ɛfa, anyɛ nnyɛ dwiriw |
-| 5:30 p.m. | Anadwo aduane | Boa ɛbɔ anaa hyehyɛ aduane ho | Aduane a ɛyɛ mmerɛ, a wɔyɛ dada |
-| 6:30 p.m. | Anadwo a wɔne wɔn ho | Kaa mfe a atwam wɔ aduane ho, kaate, dwumadi a ɔpɛ, nsa a wɔhohoro | Nkɔmmɔ a ɛyɛ dodo |
-| 8:00 p.m. | Ɔkwan a wɔfa so kɔ moa | Hohoro anaa tɔ nsu, ntoma a wɔbɛhyɛ, nnwom a ɛyɛ dodo, kanea a ɛyɛ tiaa | Ma biribiara nyɛ ntɛm; ahomegyei na ɛdi kan |
+| 8:00 a.m. | Sɔre, hohoro, tɔ ntadeɛ | Nneyɛe koro da biara; hyehyɛ ntadeɛ no sɛnea wɔbɛtɔ no | Ma ho hwɛ ayɛ mmerɛ; ntadeɛ foforo nko ara ɛboro |
+| 8:45 a.m. | Anosɛm | Kɔfi ne nhoma a wɔkenkan ama wɔate, anaa radio | Di anosɛm no ne wo mu pɛpɛɛpɛ, wɔnhwehwɛ sɛ mo bɛkasa |
+| 9:30 a.m. | Adwuma a ɛyɛ kɛse | Fa ntadeɛ a wɔasɔ no bɛka, di bɛka, yɛ akuraa, kɔ baabi bi kakra anaa kɔ nantew | Yɛ nea ɛyɛ tiaa, anaa ma wɔnhwɛ wo rehyɛ adwuma no |
+| 10:30 a.m. | Ahomegyeɛ bere | Nnwom, nhoma a ɛwɔ mfonini mu, anaa botae ɔsɛe wɔ dwiniheɛ ho | Di ahome wɔ ɔhyɛ a wɔpɛ no so |
+| 11:00 a.m. | Boa wɔ anokwafa ho | Sa nkɔnkɔnsɛn, hyehyɛ tabɔ | Wo na wobɛyɛ ɛfie; wɔn na wɔbɛka wo ho |
+| 12:00 p.m. | Anokwafa ne ahomegyeɛ | Pɛw tabɔ, papa nkɔnkɔnsɛn kakra | Gyae adwuma a wɔde ma wo |
+| 1:00 p.m. | Ahomegyeɛ tenten | Ma nan no nkɔ so, nnwom a ɛyɛ dɛ | Sɛ ɛda no ara |
+| 2:00 p.m. | Sɛ wɔbɛfiri ɔhome anaa wɔrehyɛ adwuma | Nantew, ɔpon mu ahomegyeɛ, nsu nnɔbae, bɔ bɔɔlu | Fa ho tenaa owia ɔpɔn ano |
+| 3:00 p.m. | Nkɔmhyɛ anaa adwuma a ɛyɛ nhoma | Obi a ɔba, frɛ, [picture pairs](/games/picture-pairs/), abɔde, nsɛndɔ | Nsuo a wɔmmɔ ne aduane kakra mu bom |
+| 4:30 p.m. | Ahomegyeɛ bere | Ma nsukuduo no ayɛ mu, sɔ ogya, yɛ adwuma a ɛyɛ dɛ te sɛ papa nsuo ntama mpoma | Nnwom a ɛyɛ dwodwoo, ɔsaase ketewa |
+| 5:30 p.m. | Anwummerɛ aduane | Boa de dɔ, anaa hyehyɛ tabɔ | Aduane a ɛyɛ dɛ, a wɔadi dada |
+| 6:30 p.m. | Anwummere a wɔka ho | Kae nneɛma atwam bere a wɔrebɛdi dɛsɛt, abɔde, dwumadi a ɔpɛ, nsa mmɔ | Ahoɔfɛ a ɛyɛ dwodwoo |
+| 8:00 p.m. | Ɔbɛtena ho nneyɛe | Nsuo guu anaa nsuo sa, ntadeɛ a ɛyɛ dɛ, nnwom a ɛyɛ dwodwoo, ogya a ɛyɛ kakra | Yɛ ntɛm; ɔhome ne ho ahodoɔ ansa na ɛyɛ mmerɛ |
 
-Saa nhyehyɛe yi di Alzheimer's Association ankyerɛ nhyehyɛe a ɛyɛ ne nkyɛn ma ɔkwan a ɛwɔ mfiase ne ɛkɛseɛ mu, a ɛfiri ahwɛ onipa ho ne aduane anɔpa de kɔ adwuma a wɔyɛ, nantew, nnwom, ahomegyei ne nkyɛn kɔkyerɛ, kɔsi aduane anadwo, mmoa a ɛbɛkɔ anadwo ne nkyekyɛ a wɔyɛ de ma wɔbɛkɔ moa.
+Eyi di Alzheimer's Association nhyehyɛe a wɔayɛ ma ɔhyɛberɛ ne ɔkɔnyɛnyɛ mu ankasa te so. Ɛfiri ahwɛ ho ne anosɛm, kɔ adwuma ketewa, nantew, nnwom, ahomegyeɛ ne nkɔmhyɛ kɔsi aduane, nkaeɛ ne ɔkɔnyɛnyɛ mu, na afei ɛkɔ ɔsɔre.
 
-## Dɛn na wobɛyɛ de hyehyɛ wo ankasa nhyehyɛe?
+## Ɛdeɛn na wobɛhyehyɛ wo ankasa nhyehyɛe?
 
-Fi ɔkwan a onipa no atra so da nyinaa so ase, na ɛnyɛ chart. Alzheimer's Association kyerɛ sɛ ɛsɛ sɛ wususu nneɛma yi ansa na wahyehyɛ:
+Fi ɔkwan a ɔno ankasa atete so ahyehyɛ, na mfi chati so. Alzheimer's Association kyerɛ sɛ wobɛsusuw nneɛma yi ansa na woahyehyɛ:
 
-- **Nea ɔpɛ, nea ɔmpɛ, ne ne botaeɛ ne ne nkɔnsɔnkɔnso.**
-- **Sɛnea ɔde ne da yɛɛ bere a atwam.** Obi a ɔsɔre ntɛm a ɔnam ne kyɛ kɔ tu kwan no, ɛsɛ sɛ ɔkɔ so tu kwan anɔpa. Obi a ɔdwane anadwo ntɔ nnɛ ara nnɛ ara anɔpa agyae 8 a.m.
-- **Bere a ɔni ayɛ ye.** Fa hohoro, akwantu ne adwuma a ɛyɛ kɛse no ka ho.
-- **Bere a ɛybɛtumi ama** aduane, hohoro ne ntoma, sɛnea biribiara renyɛ ntɛm.
-- **Bere a wɔsɔre ne bere a wɔkɔ moa a wɔyɛ nyinaa.**
+- **Nea ɔpɛ, nea ɔnnim, ne ne nkaebɔ ne ne ani gye.**
+- **Sɛnea ɔtenaa ne da.** Obi a ɔdi anɔpa a ɔtraa nantew wɔ ne kraman akyi no, ɛsɛ sɛ ɔnantew anɔpa. Ɔbɔtafo a ɔyɛ dwoaa, ebia ɔrenni anɔpa 8 ara.
+- **Bere a ɔyɛ pɛ wɔ ɛda mu.** Hyehyɛ ɔhohoro, nkɔ baabi, ne adwuma a ɛyɛ kɛse wɔ hɔ.
+- **Bere a ɛmfa ho** ma anokwafa, ohohoro ne ntadeɛ, enti biribiara nnyɛ ntɛm.
+- **Nsɔre ne ɔsɔ ɔdan a ɛyɛ pɛ.**
 
-Ɔfaso no kamfo sɛ wɔka adwuma a ɛwɔ fie, aduane, ahwɛ onipa ho, adwuma a ɛma ɔdi ahohosɛm, nneyɛe a ɛyɛ nnipa ho, ahomegyei a ɛyɛ ɔkwan a wɔfa so ne adwuma a ɛfiri nkurɔfo ne wɔn ho, sɛ ɛyɛ osetie a ɛfa nipasu ho, ne nneɛma a ɛba koro koro sɛnea obi a ɔrebɛfi kwan bɛba, de ka ho.
+Wɔ ɔkasa kɛse no mu no, wɔka sɛ ɛsɛ sɛ nhyehyɛe no ka adwuma a ɛwɔ ofie mu, anokwafa, ahoɔden, adwuma a ɛma ani gye, nipasu ahodoɔ, nkɔsoɔ a ɛyɛ honhom, ne bere a wɔnhyehyɛ wɔ mu, te sɛ obi a ɔbɛba.
 
-### Sɔ hwɛ nnansa, na sesa
+### Sɔ hwɛ nkyɛn bosome baako, na afei sesa
 
-Kɔ so kyerɛw nsɛm kakra da biara. Alzheimer's Association kamfo sɛ wubisa nneyɛe bɛn na ɛyɛ yie sen biara ne nea ɛma, sɛ bere bi na nneyɛe pii ka ho anaa nneyɛe kakra ka ho, ne sɛ nhyehyɛe a wɔyɛ ntɛm ne ɛyɛ anigye anaa ɛde ɔhaw ba. Kora nea ɛyɛ yie na sesa nea ɛnyɛ yie.
+Kyerɛw nkrasɛm tiaa da biara. Alzheimer's Association kyerɛ sɛ wobisa adwuma bɛn na ɛyɛɛ yie ne nea ɛma, bere bi a ɛyɛ ɔhaw sɛ nneyɛe pii bɛba anaa sɛ nneyɛe nni hɔ, ne sɛ nhyehyɛe a wɔnhyehyɛ ansa na ɛba no ma ani gyee anaa ɛma ɔhaw. Kora nea ɛyɛ yie na sesa nea ɛnyɛ yie.
 
-### Ma ɛhyɛ mfonini
+### Ma ɛhwɛ mfonini
 
-Sɛ obi no betumi akenkan nsɛm ka, ɛboa sɛ wɔde papa kɛse anaa nkyerɛwde a ɛwɔ nsɛm kɛse a ɛkyerɛ da no nhyehyɛe, na ɛma ɔdi ahoyeraw. Ma ɛnyɛ tenten: "Aduane anɔpa. Tu kwan ne Sarah. Aduane. Ahomegyei." Obi bi tumi yɛ yie sɛ wonnim nea ɛbɛba kyɛn; Family Caregiver Alliance kamfo sɛ sɛ nhyehyɛe no de ɔhaw ba a, nkasa ho kɔsi bere a ɛrebɛba ntɛm.
+Sɛ obi no ka kenkan hwehwɛ, ɛbɛyɛ sɛ wɔkyerɛw ɛda no nhyehyɛe wɔ papa so anaa nkyerɛwde kɛse ma ɛhwɛ mfonini a ɛma ɛda no nyɛ den. Ma ɛnyɛ tenten: "Anɔpa aduane. Nantew ne Sarah. Anokwafa. Ahomegyeɛ." Obi bi yɛ ɛyɛ sɛ wɔnnim nneɛma a ɛbɛba kɛse; Family Caregiver Alliance kyerɛ sɛ sɛ nhyehyɛe no ma ɔhaw a, mfa nka ho ansa na ɛreba.
 
-## Ɔkwan a wɔfa so sesa nhyehyɛe no
+## Sɛnea wobɛsesa nhyehyɛe no
 
-### Ma ahomegyei wɔ hɔ
+### Ma ɛhwɛ ɔhome
 
-Mma da nyinaa nnyɛ ma ɛfi ma. Alzheimer's Association kyerɛ sɛ onipa no hia adwuma ne ahomegyei a ɛyɛ pɛpɛɛpɛ na ɛbɛyɛ sɛ ɔbɛdi ahomegyei bere pii. Sɛ ɔyɛ sɛ ɔwɔ mmerɛ, ɔmfa ne ho nni adwene, anaa ɔnyɛ ɔdɔ no, sesa adwuma anaa ma ɔdi ahomegyei.
+Mfa nnyɛ nneyɛe ma sukuu no nyinaa ahyɛ. Alzheimer's Association ka sɛ obi no hia adwuma ne ahomegyeɛ ntam, na ɔbɛhia ahomegyeɛ bere a ɛbɛba mprɛko. Sɛ wohu sɛ ɔmfa ne ho nyɛ, ɔrehunu, anaa ɔrebɔ mmɔden a, sesa adwuma anaa ma wɔnnya ahomegyeɛ.
 
-### Hwɛ anadwo a ɛrebɛba ho yie
+### Hwɛ anwummere ankasa
 
-Nkurɔfo pii yɛ den sɛ owia reguare. NIA kamfo sɛ owia a ɛyɛ owia wɔ ɔkwan a ɛboa, ɛyɛ mmerɛ wɔ da biara, ntɔ nsu, nnɔbae ne sigareti a ɛyɛ anadwo ne nsa a ɛbɛyɛ anadwo, ne ahomka tenten a ɛyɛ anadwo a wɔrenyɛ. Mmoa bi nso hu sɛ ɛboa sɛ wɔtwe ntɔn ahyɛ ntɔnkwa ne hyɛ akosua ansa na owia reguare. Hwɛ [ahoɔfɛ a ɛdi anadwo](/caregiving/late-day-restlessness/) ne [ahomka](/brain-health/sleep/).
+Nnipa pii bɔ mmɔden kɛse sɛ owia nnwuma. National Institute on Aging kyerɛ sɛ owia ahinimnim wɔ ɛda biara wɔ ɔpɔn ano anaa wɔ daeɛ ano, adwuma a ɛyɛ dɛ a wɔmfa nhyehyɛe kɛse nnyɛ, sɛ wɔbɛgyina kafeen ne ɔdeɛ a ɛma obi ani agyan anwummere mu, ne sɛ wɔmfa anwummere mu ɔsɛe tenten nni. Abusuafo bi nso hu sɛ ɛboa sɛ wɔde kɔkɔɔ ma ɛyɛ dɛ na wɔhyew ogya ansa na owia atwa. Hwɛ [anwummere ahohia](/caregiving/late-day-restlessness/) ne [ɔsɛe](/brain-health/sleep/).
 
-### Sesa sɛnea nneɛma a wohia sesa no
+### Sesa sɛnea ɔhyɛberɛ rekɔ so
 
-- **Mfiase bere:** ma wɔnhyehyɛ nhyehyɛe no wɔ ne nkyɛn. Onipa no betumi apɛ nhyehyɛe a wɔakyerɛw a ɔno ankasa bɛhwɛ.
-- **Ɛkɛseɛ mu bere:** wo na wodi kan. Adwuma a ɛyɛ tiaa, ahomegyei a ɛyɛ pii ne adwuma pii a ɛyɛ dada; hwɛ [adwuma wɔ ɛkɛseɛ mu](/activities/middle-stage/).
-- **Awiei bere:** nhyehyɛe no bɛyɛ ahome, aduane ne ahwɛ onipa ho, ɛne nkyekyɛ kakra a ɛyɛ nnwom anaa nsa a wɔhohoro wɔ mu; hwɛ [adwuma wɔ awiei bere](/activities/late-stage/).
+- **Ɔhyɛberɛ mfiase:** Hyehyɛ nhyehyɛe no ne wo ne ɔno. Ɔbɛpɛ sɛ ɔwɔ nhyehyɛe a wɔakyerɛw a ɔno ankasa bɛhwɛ.
+- **Ɔhyɛberɛ a ɛtɔ mfinimfini mu:** Wo na wobɛkɔ anim. Adwuma ketewa, ahomegyeɛ bere pii ne adwuma pii a wodi dada; hwɛ [adwuma wɔ ɔhyɛberɛ mfinimfini mu](/activities/middle-stage/).
+- **Ɔhyɛberɛ a ɛdi akyiri:** Nhyehyɛe no yɛ ahomegyeɛ, aduane ne ahwɛ ho, ne nneɛma a ɛboa sɛnsɛn te sɛ nnwom anaa nsa mmɔ ntam; hwɛ [adwuma wɔ ɔhyɛberɛ a ɛdi akyiri mu](/activities/late-stage/).
 
-### Sesa nneyɛe, na nnyɛ nhyehyɛe no ankasa
+### Sesa nneyɛe, nnyɛ nhyehyɛe ankasa
 
-Ma aduane, ahomegyei ne anadwo ayɛ pɛpɛɛpɛ, na sesa nneyɛe a ɛwɔ mu. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kamfo sɛ wɔsɔ hwehwɛ nneyɛe a ɛyɛ soronko da a ɛnyɛ pɛ nkyerɛ sɛ ɛntumi nyɛ anigye. Ɛbɛyɛ sɛ wo bɛyɛ aduane kɔ tɔ ɔkwan a ɛyɛ Dwowda, wo bɛyɛ akɔnnɔ Kwasida, na wo bɛhwɛ mfonini Wukuda. Yɛn [nneyɛe 101 a wobɛyɛ](/activities/ideas/) ne [adwuma a wɔyɛ fie](/activities/household-tasks/) betumi aboa ma nneyɛe no yɛ ma.
+Kora ɛda, aduane ne ɔsɔre ne ɔdan a ɛyɛ pɛ, na sesa nneyɛe a ɛwɔ mu no nkyɛn. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ wɔsɔ nneyɛe ahodoɔ da ahodoɔ ma ɛnyɛ den. Ebia wobɛbɛ ɔdwuma Dwowda, wɔayɛ akuraa Benada, na wɔahwɛ mfonini Wukuda. [Yɛn nneyɛe ɔha ne 101](/activities/ideas/) ne [adwuma a ɛwɔ ofie mu](/activities/household-tasks/) betumi aba bere a ɛsɛ.
 
-## Sɛ da no nyɛ yie
+## Ɛda a ɛnyɛ yie
 
-Nnansa bi renyɛ nhyehyɛe biara. Yare, anadwo a wonnya ahomegyei yiye, dokota a ɔbɛba, anaa ewiem nsakrae betumi ama biribiara ahyɛ mu. Gyae nhyehyɛe no, fa nneɛma a ɛho hia (aduane, nsuo, ahomegyei, ahome) kɔ so, na san bɔ mmɔden bio ɔkyena. Sɛ onipa no ampene biribiara a, hwɛ [sɛ wɔka no ampene](/caregiving/when-they-say-no/). Ahomegyei a wobɛyɛ wɔ mu bere a wohome, te sɛ [ahomegyei a ɛyɛ nkɔmmɔ](/games/calm-breathing/), betumi aboa mo baanu nsan aba.
+Ɛda bi renyɛ nhyehyɛe biara. Yaredwom, ɔda a ɔbɔɔ ne nna, dɔkota a ɔba, anaa mframa a ɛsesa nneɛma betumi ama nneɛma nyinaa asɛe. Gyae nhyehyɛe no, kora nneɛma a ɛho hia (aduane, nsuo, ahomegyeɛ, ahoɔfɛ) na sɔ hwɛ bio ɔkyena. Sɛ obi no ampene so sɛ wɔyɛ biribi a, hwɛ [sɛ wɔka ɔno](/caregiving/when-they-say-no/). Ahomegyeɛ bere a wɔne ho bɛyɛ tenten bi bom, te sɛ [ahomegyeɛ mu ahyɛ mu](/games/calm-breathing/), betumi aboa mo nyinaa ma mo nsan aba.
 
-Wo ankasa nhyehyɛe nso ho hia. Fa ahomegyei ka wo ho, na bisa wo mmusua anaa adwuma a ɛboa wɔn a wɔhwɛ ho ara sɛ wɔbɛboa wo bere a wobɛtumi akɔ ahomegyei. Hwɛ [ahwɛ wo ho ara](/caregiving/caregiver-self-care/).
+Wo ankasa nhyehyɛe nso ho hia. Hyehyɛ ahomegyeɛ bere ama wo ankasa, na bisa abusuafo anaa ɔsɔfoɔ a wɔboa mpaboa sɛ wɔnhwɛ wo bere a wɔwɔ wɔ ɛda mu. Hwɛ [ahoɔfɛ ho hwɛ ma ɔbɔfo](/caregiving/caregiver-self-care/).

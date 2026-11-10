@@ -1,28 +1,34 @@
 ---
-title: "MIND mo Mediterranean Kaikai mo Dementia: Wanem Risej i Talem"
-seoTitle: "MIND Kaikai mo Dementia: Wanem Risej i Talem"
-description: "Wanem risej i talem long MIND mo Mediterranean kaikai mo dementia, wanem bigfala trael i no faenem gud rijolt, mo hao blong helpem man we yu stap lukaotem blong kaikai gud."
+title: "Daet MIND mo Mediterranean mo Dementia: Wanem Research i Talem"
+seoTitle: "Daet MIND mo Dementia: Wanem Research i Talem"
+description: "Wanem research i talem long daet MIND mo Mediterranean mo dementia, wanem trial i faenem, mo hao blong helpem wan pesin we i gat dementia blong kakae gud."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ol stadi long obsevesen i linkem Mediterranean mo MIND kaikai wetem risk i kam smol blong dementia, be no oltaem. Wan trael long tri yia blong MIND kaikai, we i pablisim long 2023, i no faenem klia defren long tingting o ol skan blong brain long kontrol kaikai. No wan kaikai o suplemen i pruvum se i stopem dementia. Long ol man we oli laef wetem dementia, kaikai mo dring i gat enaf i impoten moa.
+  Ol stadi we oli follow ol pipol long taem i soem se ol daet olsem Mediterranean
+  mo MIND i konektem wetem lo risk blong dementia, be i no stap long evri stadi.
+  Wan trial blong MIND daet we i go long tri yia, we oli publish long 2023, i no
+  faenem wan klia defren long tingting o long ol skan blong brein, kampia wetem
+  wan kontrol daet. No wan kaikai o supplement i pruvum finis se i stopem
+  dementia. Long ol pipol we oli stap wetem dementia, kakae mo dring i stap
+  enough, hemi samting we i moa important.
 keyPoints:
-  - "Sam, be no ol, ol stadi we oli folem ol man long taem oli linkem Mediterranean mo MIND kaikai wetem risk i kam smol blong dementia."
-  - "Long wan trael long 2023 wetem 604 ol olfala, ol man long MIND kaikai oli no gat gud rijolt moa long ol test blong tingting o ol skan blong brain, from ol man long kontrol kaikai, afta long tri yia."
-  - "Nasonal Institute on Aging i talem se i no gat evidens se kaikai o blokem sipesel kaikai i save stopem Alzheimer's, mo no gat vitamin o suplemen we i pruvum se i stopem."
-  - "Kaikai we i gat planti vegetabol, fruit, bins, ol hol gren mo fish i sapotem hart, mo i save helpem wit ol risk olsem hae presa blad mo daebetis."
-  - "Long ol man we oli laef wetem dementia, ol kaikai we yu save kakae wetem fingga, ol plet we i kalaa defren, kaikai we i kwaet mo ol taem blong dring, oli moa impoten long ol spesel kaikai."
+  - "Sam stadi we oli follow ol pipol long taem i soem se ol daet olsem Mediterranean mo MIND i konektem wetem lo risk blong dementia, be i no olgeta stadi."
+  - "Long wan trial long 2023 we i wetem 604 ol olfala, ol pipol we oli kakae long MIND daet oli no gat gud risal long ol tingting test o ol skan blong brein, kampia wetem ol pipol we oli kakae long kontrol daet, afta long tri yia."
+  - "National Institute on Aging i talem se i no gat ol pruf se kakae o aotem sam kaikai i save stopem Alzheimer's, mo no wan vitamin o supplement i pruvum finis se i stopem hem."
+  - "Wan daet we i gat planti vegetable, frut, bin, whole grain mo fish i sapotem hart i stap gud, mo i save helpem long ol risk olsem hae blood pressure mo diabetes."
+  - "Long ol pipol we oli stap wetem dementia, ol kaikai we yu save kakae long han, ol plet we i kalos i defren, ol taem blong kakae we i kwaet, mo ol dring we i reglea, oli moa important dan wan spesel daet."
 faq:
-  - q: "Eks MIND kaikai i stopem dementia?"
-    a: "I no shoem yet se i stopem. Ol stadi long obsevesen i talem se MIND kaikai i gat link wetem smol risk, be wan trael long tri yia we i bin pablisim long 2023 i no faenem klia defren long ol test blong tingting o ol skan blong brain, between ol man long MIND kaikai mo ol man long kontrol kaikai. Tufala grup i improv smol, mo oli lusum sem kilo."
-  - q: "Wanem nao defren between MIND kaikai mo Mediterranean kaikai?"
-    a: "Mediterranean kaikai i stap long vegetabol, fruit, ol hol gren, bins, fish mo olive oil, wetem smol red mit mo swit samting. MIND kaikai i joinim DASH kaikai blong presa blad, mo i emfasisem ol grin lif vegetabol mo berri, wetem limit long red mit, swit samting, jiz, bata, mo ol fraes o fast fud."
-  - q: "Ol kaikai o suplemen we i save stopem Alzheimer's i stap?"
-    a: "Nating. Nasonal Institute on Aging i talem se i no gat evidens se kaikai o blokem sipesel kaikai i save stopem Alzheimer's o ol problem long tingting we i kam wetem eij, mo no gat vitamin o suplemen we i pruvum se i stopem Alzheimer's. Toktok wetem doctor bifo yu tekem ol suplemen."
-  - q: "Wanem ol kaikai we i isi moa blong man we i gat dementia blong kakae?"
-    a: "Ol smol pis kaikai we yu save kakae wetem fingga, olsem ol pis sanwij, ol pis jikin, ol pis orens, o ol pis vegetabol we oli stim, ofen i isi moa long yusum fork mo spun. Sipos i had blong jujuum o gulpem, ol soft kaikai olsem scrambled egg, apol sos o cottage cheese i save helpem. Askem doctor long wan test blong gulp sipos i gat kof o jok."
+  - q: "Eh, MIND daet i stopem dementia?"
+    a: "I no bin pruvum. Ol observational stadi i konektem MIND daet wetem lo risk, be wan trial we i go long tri yia, we oli publish long 2023, i no faenem wan signifikant defren long ol tingting test risal o ol skan blong brein, long ol pipol we oli kakae long MIND daet mo long ol pipol we oli kakae long kontrol daet. Tufala grup i impruv smol, mo tufala i lusum seim wet."
+  - q: "Wanem i defren long MIND daet mo Mediterranean daet?"
+    a: "Mediterranean daet i stretem vegetable, frut, whole grain, bin, fish mo olive oil, wetem smol red meat mo swit kaikai. MIND daet i jointem hem wetem DASH daet blong blood pressure, mo i stretem moa ol grin liv vegetable mo berry, mo i limitim red meat, swit kaikai, cheese, bata mo ol fraes kaikai."
+  - q: "Eh, i gat ol kaikai o supplement we i stopem Alzheimer's?"
+    a: "No. National Institute on Aging i talem se i no gat ol pruf se kakae o aotem sam kaikai i save stopem Alzheimer's o ol tingting problem we i kam wetem olfala, mo no wan vitamin o supplement i pruvum finis se i stopem Alzheimer's. Tok wetem dokta bifo yu tekem enihao supplement."
+  - q: "Wanem ol kaikai we i isi moa long man o woman we i gat dementia blong kakae?"
+    a: "Ol smol pis kaikai we yu save kakae long han, olsem sanwis pis, pis blong jikin, ol pis blong orens o ol pis blong vegetable we oli steamim, oli moa isi dan blong yusum ol naef mo fok. Sipos i had blong jeud o blong swalem, ol soft kaikai olsem scrambled egg, applesauce o cottage cheese save helpem. Askem dokta long swallowing assessment sipos i gat kof o jok we i kamaot."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -53,80 +59,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-Yu maet yu bin ridim se wan "kaikai we i gud long brain" i save kipim Alzheimer's i no kam. Fakta i moa smol. Sam kaikai pateni i gat link wetem ol risk we i smol blong dementia long ol stadi we oli folem ol man long taem, be trael we i moa bigfala kasem nao i no faenem wan klia gud. Pej ia i eksplenem tufala samting ia, then i go long wanem we i moa impoten long man we i stap laef finis wetem dementia: kaikai mo dring i gat enaf, mo i enjoyem.
+Yu save bin ridim se wan daet we i “gud long brein” i save stopem Alzheimer's. Tru pikja i moa simpol. Sam kaikai pateren i konektem wetem lo risk long ol stadi we oli follow ol pipol long taem, be best trial we i kasem nao i no faenem wan klia benefit. Pej ia i eksplenem tufala samting ia, afterwan i go long wanem i usually moa important long man o woman we i already stap wetem dementia: kakae mo dring i enough, mo i kakae wetem gud fil.
 
-Hem i jeneral infomeson nomo, i no advaes blong doctor. Toktok wetem doctor o spesialis long kaikai we i gat laesen bifo yu jenisim kaikai blong yu o blong narafala man. Lukim [stetmen long helt blong mifala](/medical-disclaimer/).
+Hemi wan jeneral infomesen, i no medical advaes. Tok wetem dokta o registered dietitian bifo yu jenisim daet blong yu o blong narafala. Lukim [medical disclaimer](/medical-disclaimer/) blong mifala.
 
-## Wanem nao ol kaikai Mediterranean mo MIND?
+## Wanem nao Mediterranean mo MIND daet?
 
-Nasonal Institute on Aging (NIA) i talemaot olsem ([NIA long kaikai mo Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) i describem tufala olsem ia ([NIA long daet mo Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Kaikai Mediterranean:** planti fruit, vegetabol, ol hol gren, bins, fish mo ol kaikai long solwota, mo olive oil, wetem smol red mit, kwik mo swit samting.
-- **Kaikai MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): wan mikis blong kaikai Mediterranean mo kaikai DASH blong presa blad. I gat vegetabol, espesel ol grin lif vegetabol; berri; ol hol gren; bins; nat; fish wan taem long wik; mo olive oil. I limitim red mit, swit samting, jiz, bata o magarin, mo ol fraes o fast fud.
+- **Mediterranean daet:** planti frut, vegetable, whole grain, bin, fish mo seafood, mo olive oil, wetem smol red meat, aeg mo swit kaikai.
+- **MIND daet** (Mediterranean–DASH Intervention for Neurodegenerative Delay): wan mikis blong Mediterranean daet mo DASH daet blong blood pressure. I gat vegetable, namba wan ol grin liv vegetable; berry; whole grain; bin; nat; fish long wan wik at least; mo olive oil. I limitim red meat, swit kaikai, cheese, bata o margarine, mo fraes o fast fud.
 
-## Ol kaikai ia i mekem risk blong dementia i kam smol?
+## Eh, ol daet ia i lusum risk blong dementia?
 
-Ol risej i no stret. NIA i talem se sam, be no ol, ol stadi long obsevesen oli linkem ol kaikai Mediterranean mo MIND wetem risk i kam smol blong dementia, long fasin we i kompare wetem kaikai Western we i gat planti red mit, fat we i solid mo suga.
+Ol pruf i mikis. NIA i talem se sam, be no olgeta, observational stadi i konektem Mediterranean mo MIND daet wetem lo risk blong dementia, long kompare wetem Western-style daet we i gat moa red meat, saturated fat mo sugar.
 
-Lancet Commission long 2024 i ridim ol risej moa stret ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Lancet Commission long 2024 i ridim research long fulfala wei ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- Wan revyu blong ol stadi blong grup i linkem gud kwaliti blong kaikai wetem risk i kam daon long dementia abaot 20 pesen.
-- Wan bigfala analisis blong tri grup i linkem klosap folem kaikai MIND wetem risk i kam smol.
-- Be wan stadi long Swiden we i folem 28,025 ol man long midol eij long abaot 20 yia i no faenem risk i kam smol, nating wetem ol kaikai we oli rekomendem o kaikai olsem Mediterranean.
+- Wan review blong cohort stadi i konektem hae kwaliti daet wetem bigfala 20% lo risk blong dementia.
+- Wan bigfala analysis blong tri cohort i konektem moa klos fala blong MIND daet wetem lo risk.
+- Be wan stadi long Sweden we i follow 28,025 middle-aged pipol long bigfala 20 yia i no faenem lo risk, wetem eni recommended daet o wetem Mediterranean-style daet.
 
-Ol stadi long obsevesen i no save pruvum wanem i kosem wanem. Ol man we oli kaikai olsem oli defren tu long ol narafala samting, olsem insam, skul, wok long jim mo akses long helt kea. Komisin i konkludem se i no gat enaf evidens blong talem se ol helti kaikai i mekem dementia i no kam direkt, be kaikai we i gat planti fruit mo vegetabol mo smol ol ultra-proses fud i gud long planti helt kondisen mo i afektem ol risk olsem obesiti, daebetis mo hae presa blad. Hem i no putum kaikai long lis blong [14 ol risk fakta](/brain-health/risk-factors/) blong hem.
+Observational stadi i no save pruvum wanem i kosum wanem. Ol pipol we oli kakae olsem ia oftem i defren long ol narafala samting tu, olsem income, edukeson, wok blong bodi mo akses long helt kea. Commission i kasem aot se i no gat enaf evidens blong talem se ol gud daet i stret stopem dementia, be kakae planti frut mo vegetable mo lesem ultra-processed kaikai i gud long planti helt kondisen mo i afektem ol risk samting olsem obesity, diabetes mo hae blood pressure. I no putum daet long list blong [14 risk factors](/brain-health/risk-factors/).
 
-## Wanem nao trael MIND long 2023 i faenem?
+## Wanem nao trial long 2023 blong MIND daet i faenem?
 
-Strong test kasem nao i wan randomized trael we i pablisim long New England Journal of Medicine long 2023 ([trael MIND diet](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Strongest test kasem nao i wan randomized trial we oli publish long New England Journal of Medicine long 2023 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Hu:** 604 ol adalt we oli 65 yia o moa, long Chicago mo Boston, we oli no gat problem long tingting, we oli gat wan klos famili we i gat dementia, we oli fat tumas, mo we kaikai blong olgeta i no gud finis long fasbaot.
-- **Wanem:** long tri yia, hafdaosen i folem kaikai MIND, mo hafdaosen i folem kaikai blong olgeta olsem sosoem. Tufala grup oli askem blong kaikaem abaot 250 kalori lis long wan dei, mo oli gat ol regula toktok wetem spesialis long kaikai.
-- **Rijolt:** ol rijolt blong tingting oli improv smol long **tufala** grup. Defren between grup i smol mo **i no statistikli signifikant**. Ol skan blong brain tu i soem sem jenis long tufala grup.
-- **Wet:** tufala grup oli lusum klosap 5 kilo (abaot 11 paon).
+- **Hu:** 604 adults we oli 65 yia o moa long ol eria blong Chicago mo Boston, we tingting blong olgeta i no gat problem, we oli gat wan kolsap famle we i gat dementia, we oli fat, mo we long fastaem daet blong olgeta i no gud.
+- **Wanem:** long tri yia, hafmak i kakae long MIND daet mo hafmak i kakae long daet we oli usually kakae. Tufala grup oli askem blong kakae smol 250 kalori long wan dei, mo oli gat ol regula kouj from registered dietitians.
+- **Risal:** ol risal blong tingting test i impruv smol long **tufala** grup. Defren i smol mo i **no statistically significant**. Ol skan blong brein tu i soem ol seim jenis jenis long tufala grup.
+- **Wet:** tufala grup i lusum abaot 5 kilo (abaot 11 pound).
 
-### Wanem nao maet trael i no faenem defren?
+### Wanem i save mekem trial i no faenem defren?
 
-Ol risej i talem sam risen. Kontrol grup i bin improve kaikai blong olgeta tu, from oli lusum sem wet. Test we i kam bak bak i save mekem rijolt i gud long hem wan, from man i stat save long ol test. Tri yia i save i no longfala. Moa blong ol man long trael oli bin gat gud edukesen mo oli bin Yurop, so ol rijolt i no save aplae long evriwan.
+Ol risej we oli dwaem oli talem sam risin. Grup blong kontrol probably i impruv daet blong olgeta tu, from olgeta i lusum seim wet. Ol repeted test i save impruvum risal from taem pipol i stap save long ol test. Tri yia i save i no longfala enaf. Planti pipol we oli stap long trial oli gat gud edukeson mo oli Europian descent, so ol risal i save i no aplae long evri pipol.
 
-So tru fakta i olsem: kaikai MIND i no winim wan gud kaikai we i kasem kalori i daon long tri yia. Hemia i no minim se helti kaikai i no gat yus. I minim se no wan man i sud ekspektem wan spesel kaikai blong stopem dementia.
+So tru samri i olsem: MIND daet i no winim wan daet we i sensibol mo i kakae smol long tri yia. Hemi no minim se gud kakae i no gat wanem valiu. Hemi minim se no wan pesin i shud ekspektem se wan spesel daet i save stopem dementia.
 
-## Wanem long sipesel kaikai mo suplemen?
+## Wanem long ol spesel kaikai mo supplement?
 
-NIA i talem se i no gat evidens se kaikai o blokem sipesel kaikai i save stopem Alzheimer's o ol problem long tingting we i kam wetem eij. Blueberry, grin lif vegetabol mo tyuamik i bin stadi finis, be no gat pruf. NIA i talem tu se no gat vitamin o suplemen we i pruvum blong stopem Alzheimer's, mo i no gat wan we i rekomendem blong dat sem paepas. NIA i warnem se ol prodak we i no pruvum, we oli salem blong stopem Alzheimer's, i save nogud, i wes mane, o botem tu, mo i save bagarem ol medisin we doctor i givim. Toktok wetem doctor bifo yu traem eni wan ([NIA long stopem Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA i talem se i no gat ol pruf se kakae o aotem wan spesel kaikai i save stopem Alzheimer's o age-related cognitive decline. Blueberry, grin liv vegetable mo turmeric oli bin stadi finis, be i no gat pruf. NIA i talem tu se no wan vitamin o supplement i pruvum finis se i stopem Alzheimer's, mo i no rekomendem wan long dat paepas. NIA i warnem se ol unproven product we oli salem blong stopem Alzheimer's i save no seif, i wes mane, o tufala, mo i save intaref wetem ol medisin we dokta i givim, so tok wetem dokta bifo yu traem enihao samting ([NIA long stopem Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## Hao kaikai i save stap gud mo i gat fasin?
+## Eh, hao nao kakae i save stap gud mo i save gud long fil?
 
-Long ol olfala, aim i fud we i gud, we i familiar mo we i gud long kakae, no wan strikt plan:
+Long planti olfala, aem i kakae we i gud long bodi, we yu save, mo we i gud long fil, i no wan strikt plan:
 
-- **Mekem ol kaikai long ol fud we yu laekem** long Mediterranean pattern: vegetabol, fruit, bins, ol hol gren, fish mo olive oil.
-- **Kipim ol trit we yu laekem.** Enjoyment mo appetit i impoten, espesol long laef we i go antap.
-- **Kaikai wetem ol narafala man** sipos yu save. Ol kaikai wetem famili i gud long kompani.
-- **Kuk tugeta.** Wasem vegetabol o stirem wan pot i wan gudfala shea akti; lukim [ol wok long haos](/activities/household-tasks/). Wan famili resipi we yu laekem i save kiknem [tingting blong ol taem we i pas](/activities/reminiscence/).
+- **Mekem ol kaikai long ol samting we yu laekem** from Mediterranean pateren: vegetable, frut, bin, whole grain, fish mo olive oil.
+- **Kipim ol favoret swit kaikai.** Fil gud mo wantaem blong kakae i impoten, espesli long laef we i kamaot long bihaen.
+- **Kakae wetem narawan** taem yu save. Ol kakae we oli sea wetem famle i gud kampani.
+- **Kukum wetem narawan.** Wasim vegetable o stirim wan pot i wan gud samting blong seim we yu duim wetem narawan; lukim [household tasks](/activities/household-tasks/). Wan favoret famle resipe i save tu wakemap [reminiscence](/activities/reminiscence/).
 
-Ol olfala oli no sud katem kalori o lusum wet withaut toktok wetem doctor, mo fasting i gat ol extra risk. Lukim [gaed blong fasting](/brain-health/fasting/).
+Ol olfala oli no shud katem kalori o lusum wet withaot tok wetem dokta, mo fasting i kasem extra risk. Lukim [fasting guide](/brain-health/fasting/) blong mifala.
 
-## Hao yu save helpem man we i gat dementia blong kaikai gud?
+## Hao yu save helpem man o woman we i gat dementia blong kakae gud?
 
-Long ol man we oli laef wetem dementia, kaikai mo dring **enaf** i wan main wari. Alzheimer's Association i talem se ol man i save fogetem blong kaikai, tingting finis oli kaikaem, o oli filim i tumas from ol jois, mo se nogud kaikai i save kam wetem ol samting we i jenisim fasin mo lusum wet ([Alzheimer's Association long kaikai](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Ol aedia ia i kam long Alzheimer's Association, NIA mo Alzheimer's Society:
+Long ol pipol we oli stap wetem dementia, kakae mo dring **enough** hemi usually main konsen. Alzheimer's Association i talem se ol pipol i save fogetem blong kakae, tingting se olgeta i kakae finis, o i fil andastrong from ol jois, mo se nogud nyuvisen i save mekem ol behavioral simptom i moa, mo i save mekem wet i lus ([Alzheimer's Association long kakae](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Ol aidia ia i kamaot from Alzheimer's Association, NIA mo Alzheimer's Society:
 
-1. **Givim ol finger fud.** Ol smol pis we i isi blong holem wetem fingga, olsem ol pis sanwij, ol pis jikin, ol fish stik, ol pis orens o ol pis broccoli we oli stim, i mekem man i save kaikaem hemsef withaut fork mo spun.
-2. **Yusum kontrast long tebol.** Jenis long lukluk i save mekem i had blong luk kaikai long plet. Ol wait plet o bol long wan kalaa mat we i kontrast i save helpem. Stap long ol plet mo tebol kloth we i gat pateni.
-3. **Serve wan o tu kaikai long wan taem.** Wan fulap plet i save mekem i tumas.
-4. **Kipim ol kaikai taem kwaet.** Ofem TV, kipim tebol i simpol, mo givim planti taem. NIA i sujestem nating rushem o pushum.
-5. **Givim ol smol kaikai mo snak oftaen.** NIA i sujestem ol smol kaikai we i kam oftaen, mo ol snak we i gat planti kalori sipos man i no kaikai enaf ([NIA tips blong kaikai gud](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Helpem long dring.** Givim ol smol kap wota o ol narafala dring long olgeta dei, plus ol kaikai we i gat planti wota olsem fruit, sup, milkshake mo smoothie. Sipos man i no wantem wota, NIA i sujestem traem juice, wota we i gat flevo, bros, milk, o decaf kofi o ti.
-7. **Jekem tempretja.** Man i save no notis se kaikai o dring i hot tumas.
-8. **Adaptem ol spun mo kap.** Bol i kam bitim plet, spun we i gat bigfala handel, mo kap we i gat lid i save mekem kaikai i isi moa. No wari long hao i stret o nogat.
-9. **Mekem kaikai i isi blong jujuum mo gulpem.** Katemaot kaikai long smol pis o givim ol soft kaikai. Sipos man i kof o jok taem i kaikai, talem doctor blong hem.
-10. **No pushim man blong kaikai.** NIA i talem se appetit i daon nara from long ol las stej blong Alzheimer's.
+1. **Givim ol finger food.** Ol smol pis we i isi blong kisim long han, olsem sanwis pis, pis blong jikin, fish stik, orens segment o steamed broccoli, oli letem man o woman i fidimsef withaot naef mo fok.
+2. **Yusum kontrast long tebol.** Ol jenis long vision i save mekem had blong tingting ol kaikai from plet. Oloketa plet o bol i kalos i kalos long wan mat i gat kalos i defren i save helpem. Avoidim ol plet o tebolkloth we i gat ol pattern.
+3. **Serve wan o tufala kaikai long wan taem.** Wan fulap plet i save mekem i tu planti.
+4. **Kipim ol kakae taem i kwaet.** Lokem TV, kipim tebol i simpol, mo letem i gat planti taem. NIA i sujestem se yu no rush o pushim.
+5. **Givim smol kakae mo snak oftenfala.** NIA i sujestem smol kakae we i moa oftenfala mo snak we i gat planti kalori sipos man o woman i no kakae enaf ([NIA tips blong kakae gud](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Helpem long dring.** Givim smol kap blong wota o narafala dring long wan dei, plus ol kaikai we i gat planti wota olsem frut, sup, milkshake mo smoothie. Sipos man o woman i no wantem wota, NIA i sujestem blong traemju, flevd wota, broth, milk, o decaf kofi o tii.
+7. **Jekem tempretja.** Wan pesin i save no notis se kaikai o dring i tumas hot.
+8. **Adjustim naef mo kap.** Bol i moa gud dan plet, spun we i gat bik handel, mo kap we i gat lid i save mekem kakae i isi moa. No wari long gudfala lukluk.
+9. **Mekem kaikai i isi blong jeud mo swalem.** Katem kaikai i smol pis o givim soft kaikai. Sipos man o woman i kof o jok taem i kakae, talem dokta blong olgeta.
+10. **No forsem blong kakae.** NIA i talem se appetite i save wikdaon from natura long ledis stej blong Alzheimer's.
 
-### Ol saen we yu talem long doctor
+### Ol saen blong talem long dokta
 
-Lusum wet, ol man we oli no wantem kaikai, tajet o wik oli save olsem man i no kaikaem enaf. Alzheimer's Society i talem se ol tit we i sik, ol denjer, depresen, hadhad mo ol jenis long medisin oli save daonem appetit ([Alzheimer's Society long appetit](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Ol saen blong dehidresen we NIA i lisimaot i inkludim dray mauth, dizzy, hat we i fast mo ol hallusinesen ([NIA long ol komon helt problem](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Lusum wet, refusem kaikai, tired o wik fil i save hemi saen se wan pesin i no kakae enaf. Alzheimer's Society i talem se sore teet o denture, depression, kanstipeson mo jenjis long medisin oli save redusim appetite ([Alzheimer's Society long appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Ol saen blong dehydration we NIA i lisimap i includim dry mout, dizziness, hae hat rate mo hallucinations ([NIA long ol komon medical problem](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Tokbaot wetem doctor
+## Tok wetem dokta
 
-Bifo yu jenisim bigfala samting long kaikai blong yu, o blong narafala man, toktok wetem doctor o spesialis long kaikai, espesol sipos yu gat daebetis, kidni sik, problem blong gulpem, o yu lusum wet longtaem. Blong man we i stap laef wetem dementia, askem hao planti oli sud kaikai mo dring long wan dei, mo sipos wan spesialis long kaikai o suplemen i save helpem.
+Bifo yu mekem bigfala jenis long daet blong yu, o blong narafala man o woman, tok wetem dokta o registered dietitian, namely sipos yu gat diabetes, kidni disis, problem blong swalem o nyufala lusum wet. Long man o woman we i stap wetem dementia, askem hamas olgeta i shud kakae mo dring long wan dei, mo sipos wan dietitian o supplement i save helpem.
 
-Kasem emejensi help kwik sipos wan man i jok, o i konfius kwik, i gat strong dizzi, o i foldaon.
+Kasem urgent help sipos man o woman i jok, o i gat sudden konfiuson, hevi dizziness, o i faenting.

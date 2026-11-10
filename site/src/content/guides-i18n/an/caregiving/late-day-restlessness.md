@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: actividatz tranquilas a la tardada con demencia"
-seoTitle: "Sundowning: actividatz tranquilas a la tardada"
-description: "Rutinas suaves, cambios de cuarto y actividatz tranquilas que pueden ayudar a calmar la inquietut de fin de día con demencia, y cuándo llamar a o doctor por sintomas nuevos o que empeoran."
+title: "Sundowning: Actividaz tranquilas pa a tardada"
+seoTitle: "Sundowning: Actividaz tranquilas pa a tardada"
+description: "Rutinas suaves, cambios en a casa y actividaz tranquilas que pueden calmar a inquietut de fin de día en a demencia, y cuándo consultar con un doctor por síntomas nuevos o que empeoran."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  El sundowning ye inquietut, confusión o irritabilidat que empecipia o empeora
-  a la tardada o a la nueit. Pasos prauticos que pueden ayudar incluyen una
-  rutina diaria estable, luz natural y actividat a primeras horas del día,
-  menos siestas tardanas, menos cafeína, luces interiors encendidas antes de
-  nueit, una casa más tranquila, y actividatz calmas como a musica, as fotos o
-  doblar ropa. Los sintomas nuevos o que empeoran necesitan una revisión medica.
+  Sundowning ye inquietut, confusión o irritabilidat que empecipia u empeora a
+  media tardada o a nuit. Pasos prauticos que pueden ayudar son una rutina
+  diaria estable, luz y actividat por a mañana, menos siestas tardas, menos
+  cafeina, luces interiors encendidas antes d'anochezer, una casa más
+  tranquila, y actividaz tranquilas como a musica, as fotos o doblar a ropa.
+  Los síntomas nuevos o que empeoran necesitan que los mire un doctor.
 keyPoints:
-  - "El sundowning significa inquietut o confusión que empecipia o empeora cuando se va la claridat del día."
-  - "Ponga as tareas esforzadas, as salidas y o baño por la mañana o a primeras horas de la tardada."
-  - "La luz del día, una caminata diaria, menos siestas tardanas y menos cafeína a la tardada pueden ayudar a que as nueits vayan más bien."
-  - "Encienda as luces antes de que oscurezca, baixe o ruido y cambie a actividatz calmas y familiars."
-  - "Leve un diario para ver qué lo desencadena, y mantenga la calma y una voz tranquilizadora cuando empiece a inquietut."
-  - "Consulte a un doctor por sintomas nuevos o que empeoran: dolor, infección o medicamentos pueden tener parte."
+  - "Sundowning ye inquietut o confusión que empecipia u empeora cuando se va a claridat d'o día."
+  - "Pon as tareas que piden esfuerzo, as salidas y o baño por a mañana u a primera hora d'a tardada."
+  - "A claridat, una caminata diaria, menos siestas tardas y menos cafeina a fin de día pueden ayudar a que as tardes vaigan más suaves."
+  - "Enciende as luces antes d'anochezer, baixa o ruiu y cambia a actividaz tranquilas y conoixidas."
+  - "Apunta lo que pasa pa ver qué lo desencadena, y mantién a calma y transmite seguridat cuando empiece a inquietut."
+  - "Consulte con un doctor por sintomas nuevos o que empeoran: o dolor, una infección o as medicinas pueden tener part."
 faq:
-  - q: "¿A qué hora del día pasa normalmente el sundowning?"
-    a: "Normalment empecipia o empeora a la tardada o a primeras horas de la nueit, a la vez que se va la claridat del día. La hora exacta varía de persona a persona, por eso puede ayudar leve un diario corto durant una semana o dos."
-  - q: "¿Qué actividatz ayudan con el sundowning?"
-    a: "Las actividatz calmas, familiars y de poco esfuerzo suelen funcionar mejor a la tardada: musica relaxant, mirar fotos, un programa o pelicula favorito, doblar ropa, una caminata corta o merendar juntos. Deixe as actividatz nuevas o que cuesten para primeras horas del día."
-  - q: "¿El sundowning puede ser señal de un problema medico?"
-    a: "Puede empeorar por problemas de salud como dolor, infecciones como as de vias urinarias, problemas de sueño o efectos secundarios de medicamentos. Si la inquietut ye nueva, de repente o va a más, contacte con o doctor de la persona."
-  - q: "¿Debo preguntar al doctor por un medicamento para el sundowning?"
-    a: "Ye una conversación que debe tener con o doctor. La Alzheimer's Association dice que los enfoques sin medicamentos se prefieren en primer lugar, y que cualquier medicamento para la agitación de la nueit se debe considerar solo después de sopesar riesgos y beneficios. Esta pachina no da consejos sobre medicación."
+  - q: "¿A qué hora d'o día pasa normalment o sundowning?"
+    a: "Normalment empecipia u empeora a media tardada u a primera nuit, a mida que se va a claridat. A hora exacta cambia de persona a persona, por eso puede ayudar apuntar durant una semana o dos."
+  - q: "¿Qué actividaz ayudan con o sundowning?"
+    a: "As actividaz tranquilas, conoixidas y de poca exigencia suelen funcionar mejor a media tardada: a musica suau, mirar fotos, un programa o película favorito, doblar a ropa, una caminata curta o merendar chunto. Deixe as actividaz nuevas o más difízils pa a mañana."
+  - q: "¿O sundowning puede ser senyal de un problema medico?"
+    a: "Puede empeorar por problemas de salut como dolor, infecciones como as d'as vías urinarias, problemas de sueño o efectos secundarios d'as medicinas. Si a inquietut ye nueva, de golpe u empeora, contacte con o doctor d'a persona."
+  - q: "¿Debo preguntar a o doctor por una medicina pa o sundowning?"
+    a: "Ye una conversación pa tener con o doctor. A Alzheimer's Association dice que los tratamientos sin medicinas se prefieren generalment primero, y que cualsequier medicina pa a agitación de a tardada o a nuit solo debe considerar-se tras pesar os riesgos y os beneficios. Esta pachina no da consellos sobre medicinas."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Muitas familias notan o mesmo patrón: as mañanas son bastant tranquilas, pero a mida que avanza la tardada, a persona con demencia se pone inquieta, angustiada, confusa o irritable. Puede caminar de un lado a otro, preguntar por "ir a casa" aunque ya esté en casa, o alterar-se con facilidat. A esto se le dice muitas veces sundowning.
+Cada familia nota o mismo patrón: as mañanas son bastant tranquilas, pero a mida que avanza a tardada, a persona con demencia se pone inquieta, nerviosa, confusa u irritable. Puede caminar de una parte a l'altra, preguntar por "ir a casa" aunque ya esté en casa, u alterar-se con facilidat. A esto se le dice muchas vegadas sundowning.
 
-No hi ha una solución única, pero cambiar el ritmo del día, el cuarto y el tipo de actividatz que ofrece puede ayudar a que as tardadas sigan más calmas. Esta pachina reculle ideas prauticas y no medicas de National Institute on Aging y de la Alzheimer's Association. No ye consello medico. Si los sintomas son nuevos, de repente o van a más, hable con o doctor de la persona.
+No hay una solución única, pero cambiar o ritmo d'o día, a casa y o tipo de actividaz que ofrece puede hacer que as tardes sían más calmadas. Esta pachina recopila ideas prauticas y no medicas d'o National Institute on Aging y de a Alzheimer's Association. No ye consello medico. Si os síntomas son nuevos, de golpe u empeoran, hable con o doctor d'a persona.
 
-## ¿Qué ye el sundowning?
+## ¿Qué ye o sundowning?
 
-El sundowning ye inquietut, agitación, irritabilidat o confusión que empecipia o empeora cuando se va la claridat del día, a la tardada o a primeras horas de la nueit. El [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) indica que estar muito cansau puede aumentar la inquietut de fin de día.
+O sundowning ye inquietut, agitación, irritabilidat o confusión que empecipia u empeora cuando se va a claridat, a media tardada u a primera nuit. O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) indica que estar muito cansado puede aumentar a inquietut de fin de día.
 
-## ¿Qué puede empeorar la inquietut de fin de día?
+## ¿Qué puede empeorar a inquietut de fin de día?
 
-Pueden influir varias cosas, muitas veces juntas. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) cita factors como:
+Pueden influir varias cosas, muchas vegadas a una. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) cita factors como:
 
-- cansancio después de un día muy largo;
-- entornos nuevos o confusos;
-- un "reloj interno" desfasau, que deixa a la persona con sueño de día y despierta de nueit;
+- cansancio después de un día completo;
+- un entorno nuevo o confuso;
+- un "reloj interno" desajustado, que deixa a persona con sueño de día y despierta de nuit;
 - poca luz y sombras, que pueden confundir;
-- notar el estrés o la frustración de la gent que tiene alredor;
-- necesitar menos sueño, lo que ye normal en as personas mayors.
+- notar o estrés o a frustración de a chent que tiene alredor;
+- necesitar menos sueño, cosa normal en as personas mayors.
 
-El NIA añade causas de agitación en general, como el dolor, la depresión o el estrés, poco descanso, estreñimiento, muito ruido o mucha gent, y ciertos medicamentos o interacciones entre ellos.
+O NIA añade causas de agitación más en xeneral, como o dolor, a depresión o o estrés, poco descanso, estreñimiento, muitísimo ruiu o muitas personas, y algunas medicinas o interaccions entre ellas.
 
-## ¿Cómo puedo planificar el día para que las nueits sigan más calmas?
+## ¿Cómo puedo organizar o día pa que as nuits sían más tranquilas?
 
-Cambie las cosas que exigen más hacia primeras horas y mantenga la tardada tranquila y previsible. Tanto el NIA como la Alzheimer's Association recomiendan una rutina regular. Un día de muestra, para adaptar a o suyo:
+Pase as cosas que exixen más a primera hora y mantienga a tardada tranquila y previsible. O NIA y a Alzheimer's Association recomendan una rutina regular. Un día de muestra, pa adaptar a o suyo:
 
 | Hora | Qué puede ayudar |
 | --- | --- |
-| Mañana | Citas, baño, salidas y cualquier tarea que cueste esfuerzo, cuando muitas personas están más despiertas |
-| Media mañana | Tiempo al aire libre o junto a una finestra con sol; una caminata u otra actividat |
-| Mediodía | Una comida más grande (la Alzheimer's Association sugiere una comida más abundant y una cena más ligera) |
-| Primeras horas de la tardada | Descanso si hace falta, pero evite as siestas largas a finales del día |
-| Media tardada a finales de tarde | Actividatz calmas y familiars; una merienda y bebida; sin cafeína |
-| Antes del anochecer | Encienda las luces interiors y cierre as cortinas antes de que oscurezca |
-| Nueit | Una cena ligera, musica tranquila, poco estímulo, una rutina de acostar estable |
+| Mañana | Citas, baño, salidas y cualsequier tarea que cueste esfuerzo, cuando muitas personas están más espabiladas |
+| Media mañana | Tiempo fuera o junto a una finestra con sol; una caminata u otra actividat |
+| Mediodía | Una comida más grande (a Alzheimer's Association sugiere una comida más grande y una cena más lividiana) |
+| Primera hora d'a tardada | Descanso si hace falta, pero evite as siestas largas a fin de día |
+| Media a fin de tardada | Actividaz tranquilas y conoixidas; una merienda y beber; sin cafeina |
+| Antes d'o anochezer | Encienda as luces interiors y cierre as cortinas antes que se faiga de nuit |
+| Nuit | Una cena lebiana, musica tranquila, poco estímulo, una rutina de dormir estable |
 
-Algunos puntos concretos de las fuentes:
+Unos puntos concretos d'as fuentes:
 
-- **Luz del día.** El NIA sugiere organizar cada día tiempo fuera o junto a una finestra para tomar el sol.
-- **Movimiento diario, pero sin pasar-se.** Procure estar físicament activo cada día sin planificar demasiadas actividatz, dice el NIA.
-- **Bebidas a finales del día.** Evite el alcohol y las bebidas con cafeína, como el café o la cola, a finales del día (NIA). La Alzheimer's Association menciona también la nicotina.
-- **Siestas.** Desaconseje las siestas largas y las cabezadas a finales del día (NIA). La Alzheimer's Association sugiere limitar las siestas de día si el sueño de nueit da problemas.
+- **Claridat.** O NIA sugiere organizar tiempo fuera o junto a una finestra pa tomar sol cada día.
+- **Movimiento diario, pero no muito.** Intente que a persona se mueva cada día sin plantegar demasiadas actividaz, dice o NIA.
+- **Bebidas a fin de día.** Evite l'alcohol y bebidas con cafeina, como o café o a cola, a fin de día (NIA). A Alzheimer's Association menciona tamién a nicotina.
+- **Siestas.** Desaconseje as siestas largas y as cabezadas a fin de día (NIA). A Alzheimer's Association sugiere limitar as siestas de día si o sueño de nuit da problemas.
 
-Para más sobre cómo montar un día estable, vea [actividatz de rutina diaria](/activities/daily-routine/).
+Pa saber más sobre cómo montar un día estable, vea [actividaz de rutina diaria](/activities/daily-routine/).
 
-## ¿Cómo puedo hacer la casa más tranquila a finales de tarde?
+## ¿Cómo puedo hacer que a casa sía más tranquila a fin de tarde?
 
-Baixe el ruido, añada luz y tenga cerca as cosas familiars.
+Reduza o ruiu, añada luz y tenga cerca as cosas conoixidas.
 
-- **Luz clara y uniforme.** La Alzheimer's Association recomienda tener la casa bien iluminada de nueit. Encienda la luz de los espacios antes de que aparezcan las sombras.
-- **Menos ruido.** Apague o baixe la television y la radio, y limite las visitas o las tareas de casa ruidosas en esta hora. La Alzheimer's Association sugiere reducir estímulos de nueit como la television, las faenas y la musica alta.
-- **Comodidades familiars.** El NIA sugiere musica relaxant y tener cerca objetos y fotos queridos de la casa.
-- **Revisiones de confort.** La Alzheimer's Association recomienda revisar si hay dolor, hambre, sed, estreñimiento, vejiga llena, cansancio, infecciones e irritación de la piel, y mantener la habitación a una temperatura confortable.
-- **Su propio ánimo.** La gent nota el estrés. El NIA sugiere ir más despacio e intentar relaxar-se si sus propias preocupaciones pueden estar aumentando la tensión.
+- **Luz clara y uniforme.** A Alzheimer's Association recomienda tener a casa bien iluminada a nuit. Encienda o espacio antes que aparezcan as sombras.
+- **Menos ruiu.** Apague o baixe a television y a radio, y limite as visitas y as faenas de casa ruidosas a esta hora. A Alzheimer's Association sugiere reducir o estímulo de nuit, como a television, as faenas y a musica alta.
+- **Comodidat conoixida.** O NIA sugiere musica suau y tener cerca os ochetos y as fotos que más quiere la persona.
+- **Revisión de comodidat.** A Alzheimer's Association recomienda mirar si hay dolor, hambre, sed, estreñimiento, vejiga llena, cansancio, infecciones o irritación d'a piel, y mantener a habitación a una temperatura confortable.
+- **O suyo estado de ánimo.** A chent nota o estrés. O NIA sugiere baixar o ritmo e intentar relaxar-se si as suyas preocupacions pueden estar aumentando a tensión.
 
-## ¿Qué actividatz calmas podemos hacer a finales de tarde?
+## ¿Qué actividaz tranquilas podemos fer a fin de tarde?
 
-Elixa actividatz familiars, sin prisas y fáciles de parar. La Alzheimer's Association sugiere actividatz relaxants como musica tranquila, fotos o una pelicula favorita, y una caminata juntos para calmar la inquietut. El NIA sugiere una merienda o bebida, un programa de television favorito, musica, una caminata, lectura, o una faena sencilla de casa como doblar ropa.
+Elixa actividaz conoixidas, sin prisas y fáciles de deixar. A Alzheimer's Association sugiere actividaz suaves como musica tranquila, fotos o una película favorita, y una caminata juntos pa calmar a inquietut. O NIA sugiere una merienda o una bebida, un programa de television favorito, musica, una caminata, lectura, o una faena sencilla de casa como doblar a ropa.
 
-Ideas para probar:
+Ideas pa probar:
 
-1. **Doblar ropa juntos.** El NIA sugiere este tipo de faena sencilla de casa. Las toallas son fáciles de manejar, y la tarea tiene un final claro.
-2. **Poner musica favorita.** Canciones familiars de sus años mozos, a bajo volumen. Tararear también cuenta. Más ideas en [actividatz de musica](/activities/music/).
-3. **Mirar fotos.** Un álbum de fotos, o unas fotos familiars en [Photo Pairs](/games/photo-pairs/) con las imáxens a la vista, pueden llevar a una conversación tranquila.
-4. **Dar una caminata corta.** Por el jardín, la calle o un pasillo, antes de que oscurezca.
-5. **Compartir una merienda y una bebida.** Algo sencillo, caliente y sin cafeína, en la mesa juntos.
-6. **Emparejar con calma.** [Picture Pairs](/games/picture-pairs/) con cuatro fichas y las imáxens a la vista ye fácil de empezar y fácil de parar.
-7. **Colorear.** [Coloring](/games/coloring/) en pantalla o en una hoja impresa, sin objetivo de acabar.
-8. **Mirar y hablar.** [Conversation Cards](/games/conversation-cards/) ofrecen una imachen y una pregunta abierta. Basta con mirar.
-9. **Una pausa de respiración.** [Calm Breathing](/games/calm-breathing/) ye una pausa lenta y tranquila que usted empiece y pare por si mesmo.
-10. **Tareas con as manos.** Clasificar botons o calcetins, alisar una manta suau, o sostener un objeto familiar. Vea [actividatz sensoriales](/activities/sensory/).
+1. **Doblar a ropa juntos.** O NIA sugiere este tipo de faena sencilla de casa. As toallas son fáciles de manyar, y la tarea tiene un final claro.
+2. **Poner musica favorita.** Canzones conoixidas d'a suya chuventut, a un volumen baixo. Tararear tamién cuenta. Más ideas en [actividaz de musica](/activities/music/).
+3. **Mirar fotos.** Un album de fotos, o unas fotos familiars en [Photo Pairs](/games/photo-pairs/) con as imáchenes visibles, pueden dar pie a una conversación tranquila.
+4. **Dar una caminata curta.** Por o chardín, a manzana o un pasillo, antes que se faiga de nuit.
+5. **Compartir una merienda y una bebida.** Algo sencillo, caliente y sin cafeina, en a mesa juntos.
+6. **Emparellar con calma.** [Picture Pairs](/games/picture-pairs/) con cuatro fichas y as imáchenes visibles ye fácil de empecipiar y fácil de deixar.
+7. **Pintar.** [Coloring](/games/coloring/) en pantalla o en una hoja impresa, sin nengún obchetivo de acabar-lo.
+8. **Mirar y charrar.** [Conversation Cards](/games/conversation-cards/) ofrecen una imachen y una pregunta abierta. Con mirar basta.
+9. **Una pausa de respiración.** [Calm Breathing](/games/calm-breathing/) ye una pausa lenta y tranquila que usted mesmo empieza y para.
+10. **Tareas con as mans.** Ordenar botons o calzetas, alisar una manta suau, o tener en as mans un obcheto conoixido. Vea [actividaz sensoriales](/activities/sensory/).
 
-Evite los juegos nuevos, las salidas moviditas y todo lo que exija mucha memoria o concentración a finales del día. Deixe esas cosas para la mañana.
+Evite os chuegos nuevos, las salidas moviditas y cualsequier cosa que pida mucha memoria o concentración a fin de día. Deixe-las pa a mañana.
 
-## ¿Qué hago cuando empiece la inquietut?
+## ¿Qué debo fer cuando empiece a inquietut?
 
-Mantenga la calma, tranquilice y redirija con suavidat. El NIA sugiere hablar con calma, escuchar as preocupacions de la persona, evitar discusiones, asegurarle que está a salvo, y usar un toque suau si ayuda. Luego pruebe una distracción: una merienda, una bebida, musica o un paseo.
+Mantienga a calma, tranquilice y reconduzca con suavidat. O NIA sugiere hablar con calma, escuchar as preocupacions de a persona, evitar as discusiones, asegurarle que está a salvo, y usar un toque suau si ayuda. Luego pruebe a distraer-la: una merienda, una bebida, musica o un paseo.
 
-La Alzheimer's Association sugiere frases como "Está a salvo aquí" y "Siento que esté disgustau", y aconseja añadir luz, ir más despacio y limitar los estímulos. No acorrale, no apriete ni sujete a la persona, ni discuta con ella.
+A Alzheimer's Association sugiere frases como "Aquí está a salvo" y "Lo siento que esté disgustado", y aconseja añadir luz, baixar o ritmo y limitar o estímulo. No acorrale, no apriete ni suxete a persona, ni discuta con ella.
 
-Si la persona se pone agresiva, el NIA aconseja mantener una distancia segura hasta que pare la conducta. En una emergencia, llame al 112 y explique que la persona tiene demencia.
+Si a persona se pone agresiva, o NIA aconseja mantener una distancia segura hasta que pare o comportamiento. En una emerchencia, llame al 112 y explique que a persona tiene demencia.
 
-Nuestras guías sobre [comunicación](/caregiving/communication-tips/) y [qué hacer cuando dicen que no](/caregiving/when-they-say-no/) tienen más sobre palabras que calman.
+As nuestras guías sobre [comunicación](/caregiving/communication-tips/) y [qué hacer cuando dicen que no](/caregiving/when-they-say-no/) tienen más información sobre as palabras que calman.
 
-## ¿Cómo encuentro lo que lo desencadena?
+## ¿Cómo encuentro os desencadenantes?
 
-Lleve un diario corto durant una semana o dos. La Alzheimer's Association recomienda anotar lo que pasa antes de los episodios de sundowning para identificar los desencadenantes. Apunte a qué hora empezó la inquietut, qué pasó en la hora anterior, siestas, comidas y bebidas, visitas, ruido y luz. Lleve el diario al doctor. El NIA indica que llevar registro de los cambios de conducta puede ayudar a cuidadores y profesionals de salut a reconocer un patrón.
+Lleve un apunte curto durant una semana o dos. A Alzheimer's Association recomienda apuntar lo que pasa antes de cada episodio de sundowning pa identificar os desencadenantes. Anote a hora en que empezó a inquietut, qué pasó en a hora anterior, as siestas, as comidas y bebidas, as visitas, o ruiu y a luz. Lleve o apunte a o doctor. O NIA indica que llevar un control d'os cambios de comportamiento puede ayudar a cuidadors y profesionals sanitarios a reconoixer un patrón.
 
-## ¿Cuándo debo llamar al doctor por el sundowning?
+## ¿Cuándo debo llamar a o doctor por o sundowning?
 
-Contacte con o doctor de la persona si la inquietut ye nueva, empeora de repente o viene con otros cambios. El NIA dice que los cambios de conducta de repente o que fluctúan rápidamente, sobre todo después de una infección o de cambios recientes de medicación, deben llevar-se al doctor de inmediato.
+Contacte con o doctor d'a persona si a inquietut ye nueva, empeora de golpe, o viene con otros cambios. O NIA dice que os cambios de comportamiento repentinos o que van y vienen rapidament, sobre todo después de una infección o de cambios recientes en as medicinas, deben comunicar-se a un doctor de inmediato.
 
-Pida al doctor que revise cosas que pueden hacer las nueits más difíciles. La Alzheimer's Association menciona problemas fisicos como infecciones de vias urinarias, incontinencia, piernas inquietas y apnea del sueño, y sugiere preguntar qué horas del día son mejores para cada medicamento. El NIA incluye el dolor, el estreñimiento y los efectos secundarios o interacciones de medicamentos entre las posibles causas de la agitación.
+Pida a o doctor que mire cosas que puedan hacer as nuits más difízils. A Alzheimer's Association menciona problemas físicos como as infecciones de as vías urinarias, a incontinencia, as piernas inquietas y a apnea de sueño, y sugiere preguntar a qué horas es mejor tomar cada medicina. O NIA cita o dolor, o estreñimiento y os efectos secundarios o interaccions d'as medicinas entre as posibles causas de agitación.
 
-La Alzheimer's Association dice que los enfoques sin medicamentos se prefieren en general para los problemas de sueño ligados al Alzheimer, y que un medicamento para la agitación de finales del día solo se debe considerar si esos enfoques no funcionan, después de sopesar riesgos y beneficios. Esa decisión le corresponde al doctor. No empiece, no pare ni cambie ningún medicamento, somnífero o suplemento sin consejo medico.
+A Alzheimer's Association dice que los tratamientos sin medicinas se prefieren generalment pa os problemas de sueño relacionados con l'Alzheimer, y que una medicina pa a agitación de fin de día solo debe considerar-se si estos fallan, tras pesar os riesgos y os beneficios. Esa decisión ye d'o doctor. No empiece, deixe ni cambie nenguna medicina, somnífero o suplemento sin consello medico.
 
-## ¿Cómo aguanto las nueits yo mesmo?
+## ¿Cómo aguanto as nuits yo mesmo?
 
-Las tardadas pueden ser la parte más dura del día de un cuidador. Si puede, pida a un familiar, un amigo o una persona contratada que cubra la tardada unos días a la semana, aunque sea una hora. Nuestra guía de [autocuidado del cuidador](/caregiving/caregiver-self-care/) recoge opciones de relevo y la Alzheimer's Association 24/7 Helpline, gratuita.
+As tardes pueden ser a parte más difízil d'o día d'un cuidador. Si puede, pida a un familiar, un amigo o una persona contratada que se ocupe d'a media tardada unos días a a semana, aunque sea una hora. A nuestra guía de [autocuidado pa cuidadors](/caregiving/caregiver-self-care/) recoge opcions de descanso y a Línea de Ayuda 24/7 gratuita de a Alzheimer's Association.

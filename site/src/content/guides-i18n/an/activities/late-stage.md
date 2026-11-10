@@ -1,28 +1,33 @@
 ---
-title: "Actividaz pa a demencia abanzada, en a cama o en a cadiera"
-seoTitle: "Actividaz pa a demencia abanzada: ideas pa a cama y cadiera"
-description: "Actividaz tranquilas pa a demencia abanzada, tamién en a cama o en a cadiera: música, tocar, leyer en voz alta, sons y estar chunto, con notas de seguridat."
+title: "Actividatz en a demencia avanzada, en cama u en cadiera"
+seoTitle: "Demencia avanzada: ideas de actividatz en cama y cadiera"
+description: "Actividatz suaves pa la demencia avanzada, tamién en cama u en cadiera: musica, tacto, lectura, sons y estar chunto, con notas de seguridat."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  En a demencia en fase abanzada, las actividaz se centran en os sentius y en a compañía: escuchar música favorita, tener as mans agarradas, un masaje lento en as mans, leyer en voz alta, mirar fotos, sons d'a naturaleza y sentar-se chunto a una finestra o fuera. Pueden feyer-se en a cama o en a cadiera. Faiga sesions curtas, mire as caras y as mans pa ver si están a gusto, y recuerde que estar presents ya ye en sí una actividat.
+  En a demencia avanzada, las actividatz se centran en los sentius y en a
+  compañía: escuchar a musica preferida, tenir a man, un masache lento de
+  las manos, leyer en voz alta, mirar fotos, sons de la naturaleza y sentar-se
+  a una finestra u fuera. Funcionan en cama u en cadiera. Faiga sesions cortas,
+  mire las caras y las manos pa ver si están a gusto, y recuerde que estar
+  presents ya ye en si la actividat.
 keyPoints:
-  - "A connexión encara ye posible. En a fase abanzada, o mundo se viu sobre todo a traviés d'os sentius."
-  - "A música, o tocar con delicadeza, as voces conoixidas y as cosas tivians pa tener a mano sovén chegan a a persona cuando as palabras ya no."
-  - "Casi toda as ideas d'aquí funcionan pa una persona en a cama o en a cadiera."
-  - "Mire si la persona ye a gusto en a cara, as mans y a respiración, y pare a lo primero que vea d'incomodidat."
-  - "Evite os oxetos chicos y ofrezca comida o beber solo como diga o equipo de cuidau, porque tragar pot tornar-se perillosu."
+  - "La connexión encara ye posible. En a fase avanzada, lo mundo se vive sobre todo por los sentius."
+  - "La musica, lo tacto suau, las vozes conoxidas y las cosas blandas a menudo alcanzan a la persona quan las pallabras ya no."
+  - "Casi todas las ideas d'aquí funcionan pa una persona en cama u en cadiera."
+  - "Mire en a cara, las manos y la respiración pa ver si la persona está a gusto o si sufre, y pare a la mínima señal de malestar."
+  - "Evite los ochetos chiquetz y ofrezca comida o beber solo como indique l'equipo sanitario, porque tragar puede volver-se inseguro."
 faq:
-  - q: "Qué actividaz se pueden feyer con una persona con demencia abanzada que ye en a cama?"
-    a: "Ponga a música que le gusta, agarre-le a man, faiga un masaje lento de man con crema, lea en voz alta un libro u una oración que quiera, amuestre fotos o ponga sons suaves d'a naturaleza. Abra as cortinas pa que pueda veyer por fuera. Sesions curtas y tranquilas, con una cosa a la vegada, solen funcionar millor."
-  - q: "Pueden as persones con demencia abanzada seguir disfrutando d'a música?"
-    a: "Muitas sí. A Alzheimer's Association indica que, incluso en a fase abanzada, una persona puede seguir o ritmo con un dedo o cantar una cancion d'a chuventut. Escoya música que le gustaba cuando era más choven y mantenga o volumen baixo."
-  - q: "Cómo sé si disfruta d'una actividat?"
-    a: "Fise en as senyals chicas: espaldas relaxadas, una cara más suave, contacto visual, tarareyo, un apretón de man o una respiración más lenta. Muecas, alexar-se, inquietut o quexidos pueden indicar incomodidat o dolor. Si los ve, pare y avise o equipo de cuidau si continúan."
-  - q: "Vale a pena visitar-la si ya no me reconoce?"
-    a: "Sí. O National Institute on Aging indica que a sola presencia puede dar calma, y que o tocar, a música y as historias pueden dar consuelo aun en demencia abanzada. A suya voz y o suyo contacto pueden ser conoixidos incluso cuando o suyo nombre no lo ye."
+  - q: "Qué actividatz se pueden faser con una persona con demencia avanzada que ye en cama?"
+    a: "Ponga-li la musica que le gusta, tienga-le la man, faiga un masache lento de las manos con crema, leya en voz alta un libro u una oración que le sía querida, amostre-li fotos u ponga sons suaus de la naturaleza. Abra las cortinas pa que puea veyer lo que pasa fuera. Las sesions cortas y tranquilas, con una cosa cada vez, suelen ir mejor."
+  - q: "Las personas con demencia avanzada pueden encara disfrutar de la musica?"
+    a: "Muchas pueden. La Alzheimer's Association indica que, incluso en a fase avanzada, una persona puede seguir o marcar con a mano lo ritmo d'una canción de chiquetz u cantar-la con alguien. Trie musica que le gustaba de más choven y mantenga lo volumen baixo."
+  - q: "Cómo sé si una actividat le gusta?"
+    a: "Mire pa los signos chiquetz: los ombros relaxatos, una cara más suau, contacto visual, tararear, un apretón de mano u una respiración más lenta. Facer muecas, apartar-se, inquietut u gemir puede querer dezir malestar u dolor. Si ve esto, pare y avise a l'equipo sanitario si sigue."
+  - q: "Vale la pena visitar-la si ya no me reconoix?"
+    a: "Sí. L'National Institute on Aging indica que simplement estar present puede ser calmant, y que lo tacto, la musica y las historias pueden seguir dando consuelo en a demencia avanzada. La suya voz y lo suyo tacto pueden ser conoxidos encara que lo suyo nombre no lo sía."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -44,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-En a fase abanzada d'a demencia, una persona puede parlar muy poco, necesitar ayuda pa toz os cuidaus diarios y pasar gran parte d'o día en a cama o en a cadiera. Puede parecer que no queda res pa feyer chunto. Sí que queda. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) indica que puede quedar un fondo d'o yo d'a persona y que en esta fase o mundo se viu sobre todo a traviés d'os sentius. A música, o tocar, una voz conoixida y a compañía tranquila de vusté pueden dar consuelo y momentos de connexión.
+En a fase avanzada de la demencia, una persona puede fablar muy poco, necesitar ayuda pa toda la cura diaria y pasar buena parte d'o día en cama u en cadiera. Puede parecer que no quede nada por faser chunto. Sí que hai. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) indica que puede quedar un nucleo de la persona en a fase avanzada, y que en esta fase lo mundo se vive sobre todo por los sentius. La musica, lo tacto, una voz conoxida y la suya compañía tranquila pueden seguir dando consuelo y momentos de connexión.
 
-## Qué actividaz ayudan en a demencia en fase abanzada?
+## Qué actividatz ayudan en a demencia avanzada?
 
-En a fase abanzada, las actividaz sensoriales sinxelas y a compañía tranquila son las que más ayudan. A Alzheimer's Association suxiere poner música favorita, leyer partes de libros que significan muito, frotar crema con un olor favorito en a piel, y sentar-se fuera chunto en un día bueno. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) añade contar historias, amostrar fotos, tocar con delicadeza o masaje, y música, ruido blanco o sons d'a naturaleza, y dice que a sola presencia puede dar calma.
+En a fase avanzada ayudan más las actividatz sensoriales sensillas y la compañía tranquila. La Alzheimer's Association recomienda poner la musica preferida, leyer partes de libros que tienen significato, frotar crema con un aroma que le guste a la piel y sentar-se fuera chunto en un día bueno. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) añade contar historias, amostrar fotos, lo tacto suau u el masache, y la musica, lo ruido blanco u los sons de la naturaleza, y dice que la suya sola presencia puede ser calmant.
 
-A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) indica que as persones en fase abanzada sovén tienen una gran necesidat de tener alguna cosa cerca pa sentir-se consoladas, y suxiere actividaz sensoriales sinxelas, estiramientos suaves, movimiento con un pañuelo, música, visitas d'animals, contacto humano y arte libre.
+La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) indica que las personas en a fase avanzada sovén tienen una necesidat fuerte de tener alguna cosa cerca pa sentir consuelo, y recomienda actividatz sensoriales sensillas, estiramientos suaus, movimiento con un pañuelo, musica, visitas de animals, tacto humano y arte libre.
 
-## Actividaz pa una persona en a cama o en a cadiera
+## Actividatz pa una persona en cama u en cadiera
 
-1. **Ponga-le a suya música.** Escoya cancions d'a suya chuventut, de a suya fe o d'a familia. Mantienga o volumen baixo y sientese cerca. Incluso agora, unas persones baten con un dedo o tarareyan. Vea [actividaz de música](/activities/music/).
-2. **Agarre-le a man.** Solo agarrar una man, con una caricia suau con o pulgar, ya ye una actividat. Diga-le primero lo que vusté ye feyendo.
-3. **Faiga un masaje lento de man.** Calienten un poquet de crema en as palmas y acariñe de a muñeca a as puntas d'os dedos. Escoya crema sin olor, o un olor que siempre le gustó si a piel lo tolera.
-4. **Lea en voz alta.** Un poema favorito, un fragmento d'un libro que le guste, una oración u a sección deportiva d'o periodico. O ritmo d'a suya voz importa más que as palabras.
-5. **Cuente una historia.** Fable d'un viache familiar u d'o día que se casó. No hace falta que conteste.
-6. **Amuestre fotos.** Sostienga una foto grande cada vegada a la altura d'os güellos y descríbala con calor. Evite preguntar quien ye en ella.
-7. **Ofrezca alguna cosa blanda pa agarrar.** Un trapo de cara doblau, un cuadrau de polar o un animal de peluche. O NIA suxiere dar-le a la persona un trapo pa tener en a man mentre la mudan, asinas ye menos probable que agarre a vusté u os muebles.
-8. **Ponga sons d'a naturaleza.** A pluvia, as ondas o o cantar d'os pacharos a baixo volumen pueden suavizar una estancia con muito ruido.
-9. **Trayga o exterior dentro.** Abra as cortinas, ponga un comedero de pacharos fuera d'a finestra, u trayga unas flors frescas u fuellas pa mirar y tocar.
-10. **Salga fuera.** Si la persona puede sentar-se en una silla de rodas, unos minutos a la sombra en un día templau pueden ser muito bonitos.
-11. **Peine-le o pelo u ofrezca un trapo caliente.** Un cuidau lento y delicau, y un trapo caliento pa as mans y a cara, pueden sentir-se como una muestra de cariño.
-12. **Muévase con delicadeza con a música.** Agiten un pañuelo lixero chunto, u muevan as mans al ritmo d'una cancion. Pa estiramientos y movimiento d'as articulacions, pida a un fisioterapeuta u enfermera que le amuestre antes as maneras seguras.
-13. **Faiga arte libre.** Estienda pintura no toxica en papel grande con una esponja o con una man, guiada por a suya. No hay un resultau correcto.
-14. **Acoya visitas d'animals.** Un animal tranquilo en a cama o en as piernas, si a persona disfrutaba d'os animals y o lugar lo permite.
-15. **Respiren lento chunto.** Sientense cerca y respiren lento y en voz audible. [Respiración tranquila](/games/calm-breathing/) puede marcar o ritmo pa los dos, y vusté lo para y lo empieza.
-16. **Simplemente estar ahí.** Sientese cerca, tarareye, teixa u lea en silencio. Estar presents ya ye suficient.
+1. **Ponga-li la suya musica.** Trie cantons de los suyos anyos de choventut, de la suya fe u de la suya familia. Mantienga lo volumen baixo y sientase cerca. Incluso agora, a alguna gent le da por bater un dedo o tararear. Vea [actividatz de musica](/activities/music/).
+2. **Tienga-le la man.** Solo tener una man, con una caricia suau con lo polce, ya ye una actividat. Diga-le antes lo que vusté faiga.
+3. **Faiga un masache lento de las manos.** Escalfe un poco de crema en as suyas palmas y acarice de la muñeca a las puntas d'os dedos. Trie crema sin aroma, u un aroma que siempre le aginó si la piel lo tolera.
+4. **Leya en voz alta.** Un poema que le guste, un fragment d'un libro querido, las Escrituras u la pachina de deportes. Lo ritmo de la suya voz importa más que las pallabras.
+5. **Cuente una historia.** Fable d'un viaje de familia u d'o día que se casó. No fa falta que conteste.
+6. **Amuestre fotos.** Tienga una foto gran cada vegada a la altura d'os güellos y descríbala con calor. Evite preguntar quién ye la gent d'a foto.
+7. **Ofrezca una cosa blanda pa tenir.** Un pano doblau, un cuadrau de forro polar u un animal de peluche. La NIA recomienda dar-le a la persona un pano pa tenir mientres la mueven, asinas es menos probable que agarre a vusté u a los muebles.
+8. **Ponga sons de la naturaleza.** La pluya, las ondas u los pajaros a volumen baixo pueden suavizar una estancia con mucho ruido.
+9. **Trayga lo fuera adentro.** Abra las cortinas, ponga un comedero de pajaros fuera d'a finestra, u trayga unas flors frescas u unas fullas pa mirar-las y tocar-las.
+10. **Salga fuera.** Si la persona puede sentar-se en una silla de rodas, unos minutos a la sombra en un día suau pueden ser muy agradables.
+11. **Pinte-le lo pelo u ofrezca un pano caliento.** Cepillar lo pelo con calma y pasar un pano calient por as manos y la cara puede sentir-se como una muestra de cuidado.
+12. **Muévase suau con la musica.** Agite un pañuelo liviano a la par, u mueva las manos siguiendo lo ritmo d'una canción. Pa estiramientos y movimiento d'as articulacions, pida a un fisioterapeuta u a una enfermera que le amostre antes las maneras seguras.
+13. **Faiga arte libre.** Estienda pintura no tóxica en un papel gran con una esponja u con una man, guiada por la suya. No hai un resultau correcto.
+14. **Acoja visitas de animals.** Una mascota tranquila en a cama u en a falda, si a la persona le gustaban los animals y lo sitio lo permite.
+15. **Respiren lentos chunto.** Sientase cerca y respiren lento y en voz alta. [La respiración tranquila](/games/calm-breathing/) puede marcar lo ritmo a los dos, y vusté lo empieza y lo para.
+16. **Simplement estar ahi.** Sientase cerca, tararee, faiga media o leya en silencio. Estar presents ya ye suficient.
 
 ## Cómo compartir una actividat en esta fase
 
-- **Acerque-se por delante.** Diga o suyo nombre y o suyo, y fale lento y baixo antes de tocar.
-- **Ofrezca una cosa cada vegada.** Apague a tele antes de poner música. Faiga un sentido cada vegada.
-- **Sía curt.** Unos minutos pueden bastar. Varios momentos curtos en o día son millor que una sesión muito larga.
-- **Primero, que esté cómodo.** Comprebe que a persona ye bien sostenida. O NIA suxiere una tabla de regazo pa apoyar os brazos y sostener a parte alta d'o cuerpo cuando esta sentada.
-- **Mire como responde.** Mans relaxadas, una cara más suau, contacto visual u tarareyo indican que esta a gusto. O NIA indica que quexidos, muecas, protecion d'una parte d'o cuerpo u agitación de sopetón pueden ser senyals de dolor. Pare, y avise o equipo de cuidau.
+- **Acerque-se por delant.** Diga lo suyo nombre y lo de vusté, y fable lento y baixo antes de tocar.
+- **Ofrezca una cosa cada vegada.** Apague la television antes de poner musica. Faiga un sentiu cada vegada.
+- **Mantienga-la curta.** Unos minutos pueden bastar. Varios momentos cortos a lo largo d'o día son mejor que una sesión larga.
+- **Asegure-se que esté a gusto primero.** Compruebe que la persona esté bien apoyada. La NIA recomienda una tabla de regazo pa apoyar los brazos y sostener lo tronco cuan se sienta.
+- **Mire la reacción.** Las manos relaxadas, una cara más suau, contacto visual u tararear indican que está a gusto. La NIA indica que los gemidos, las muecas, protexer una parte d'o cuerpo u una inquietut repentina pueden ser signos de dolor. Pare y avise a l'equipo sanitario.
 
-## Una guía rapida por sentido
+## Una guía rápida por sentiu
 
-| Sentido | Ideas | Tienga en cuenta |
+| Sentiu | Ideas | Tienga cuenta |
 | --- | --- | --- |
-| Oyir | Música favorita, a suya voz leyendo, sons d'a naturaleza | Mantener o volumen baixo; un son cada vegada |
-| Tocar | Masaje de man, agarrar as mans, tela suau, trapo caliente | Pida permiso u avise antes; comprebe que a piel no ye adolorida ni rompida |
-| Veyer | Fotos, flors, a vista d'una finestra, un video lento d'a naturaleza | Amuestre as cosas a la altura d'os güellos; buena luz, sin reflexos |
-| Olfatar | Una crema favorita, flors frescas, olor de café feto cerca | Evite olors fuertes; comprebe alerchias y a respiración |
-| Gustar | Un poquet d'un sabor favorito | Solo alimentos y texturas que o equipo de cuidau diga que son seguros |
+| Oyir | Musica preferida, la suya voz leyendo, sons de la naturaleza | Mantienga lo volumen baixo; un son cada vegada |
+| Tocar | Masache de manos, tener las manos, tela suau, pano caliento | Pregunte u avise antes; compruebe que la piel no está doliendo ni rota |
+| Veyer | Fotos, flors, la vista d'a finestra, un video lento de la naturaleza | Tienga las cosas a la altura d'os güellos; buena luz, sin reflejos |
+| Olfatar | Una crema que le guste, flors frescas, café que se faiga cerca | Evite aromas fuertes; compruebe alerxias y la respiración |
+| Gustar | Un poquet d'un sabor que le guste | Solo alimentos y texturas que l'equipo sanitario diga que son seguros |
 
 ## Seguridat en esta fase
 
-Tragar puede tornar-se difficil en a fase abanzada, y o NIA avisa que esto aumenta o riesgo d'atragantamiento. No deixe oxetos chicos a l'alcanz, y ofrezca comida o beber solo en as texturas y posiciones que recomiende o equipo de cuidau. Comprebe a piel con delicadeza durant as actividaz de tocar, ya que a piel puede romper-se o salir moradura con facilidat. Pa mas sobre ideas sensoriales seguras, vea [actividaz sensoriales](/activities/sensory/).
+En a fase avanzada puede costar tragar, y la NIA avisa que esto aumenta lo riesgo de ahogo. No deixe ochetos chiquetz al alcance, y ofrezca comida o beber solo en las texturas y posturas que recomiende l'equipo sanitario. Mire la piel con suavidat durante las actividatz de tacto, ya que la piel puede romper-se u fer-se cardenals con facilidat. Pa más ideas sensoriales seguras, vea [actividatz sensoriales](/activities/sensory/).
 
-## Cuidar-se tamién a vusté
+## Cuide-se tamién a vusté
 
-Cuidar en a fase abanzada ye fisicament y emocionalment dur, ya sía en casa u en as visitas a una residencia. Os equipos de cuidos paliativos y d'hospicio pueden ayudar con o confort, o apoyo y a planificación, y o NIA os cita como fuent d'ayuda. Las visitas curtas y tranquilas valen a pena; vea [visitar a alguien con demencia](/activities/visiting/). Si dirige grupos, [actividaz de grupo en residencias](/activities/care-home-groups/) tiene ideas pa adaptar as sesions. Y lea [autocuidau d'o cuidador](/caregiving/caregiver-self-care/): o descanso ye parte de cuidar bien.
+Cuidar en a fase avanzada cansa mucho, tanto fisicament como emocionalment, ya sía en casa u en as visitas a una residencia. Los equipos de cuidados paliativos y d'hospice pueden ayudar con confort, apoyo y planificación, y la NIA los cita como fuent de ayuda. Las visitas cortas y tranquilas valen la pena; vea [visitar a una persona con demencia](/activities/visiting/). Si dirige grupos, [actividatz de grupo en residencias](/activities/care-home-groups/) tiene ideas pa adaptar las sesions. Y por favor, lea [cuidar-se como cuidador](/caregiving/caregiver-self-care/): descansar ye parte de cuidar bien.

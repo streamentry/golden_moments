@@ -1,34 +1,33 @@
 ---
-title: "𐬞𐬆𐬭𐬆𐬯𐬀 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬥𐬋 𐬞𐬆𐬭𐬆𐬯𐬀 𐬥𐬋 𐬀𐬰𐬀𐬎𐬘𐬀"
-seoTitle: "𐬞𐬆𐬭𐬆𐬯𐬀 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬥𐬋 𐬞𐬆𐬭𐬆𐬯𐬀"
-description: "𐬞𐬆𐬭𐬆𐬯𐬀 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬥𐬋 𐬞𐬆𐬭𐬆𐬯𐬀 𐬥𐬋 𐬀𐬰𐬀𐬎𐬘𐬀· 𐬛𐬆𐬨𐬀𐬥𐬀 𐬐𐬀𐬭𐬀 𐬑𐬀𐬭𐬆𐬚𐬭𐬀 𐬔𐬀𐬌𐬚𐬀 𐬯𐬀𐬭𐬀𐬌𐬙𐬀 𐬎𐬙𐬀 𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬥𐬋 𐬞𐬆𐬭𐬆𐬯𐬀·"
+title: "Pərəsanā̊ Paitišmaranāi Martiyāi: Vīsvārā̊, Nōit Uzjōzanā"
+seoTitle: "Pərəsanā̊ Paitišmaranāi: Vīsvārā̊, Nōit Uzjōzanā"
+description: "Pərəsanā̊ paitišmaranāi martiyānąm: vīsvāra vacō-dātō paiti nmanəm, vərəzəm, xᵛarəϑəm, sraošəm, yasnə̄mča, yōi gūšatəm xᵛāvrəm dādrāna."
 section: activities
 order: 27
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬥𐬀𐬭𐬆𐬨 𐬰𐬀𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌 𐬫𐬀𐬚𐬀 𐬵𐬋 𐬫𐬋 𐬀𐬵𐬎𐬭𐬀𐬌 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌 𐬀𐬞𐬀𐬭𐬆𐬨
-  𐬞𐬀𐬭𐬋 𐬵𐬎𐬎𐬀 𐬰𐬭𐬎𐬎𐬀𐬥𐬀 𐬵𐬀𐬨-𐬎𐬑𐬛𐬀𐬌𐬙𐬌· «𐬨𐬋𐬌 𐬛𐬆𐬨𐬀𐬥𐬀 𐬎𐬑𐬛𐬀 𐬫𐬀𐬚𐬀 𐬙𐬏𐬨 𐬀𐬞𐬀𐬭𐬆 𐬎𐬯 𐬰𐬀𐬌𐬌𐬀𐬥𐬀»
-  𐬥𐬋 𐬫𐬀𐬚𐬀 «𐬙𐬏𐬨 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀𐬌 𐬐𐬎𐬚𐬭𐬀 𐬥𐬌𐬱𐬀𐬌𐬛𐬀𐬌𐬙𐬌؟» 𐬐𐬀𐬚𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬙𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌
-  𐬀𐬞𐬀𐬭𐬆𐬨 𐬵𐬎𐬎𐬀 𐬞𐬀𐬚𐬀 𐬀𐬥𐬎-𐬯𐬀𐬭𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬵𐬎𐬎𐬀 𐬐𐬀𐬚𐬀 𐬀𐬥𐬎-𐬵𐬎𐬱𐬌𐬙𐬌 𐬫𐬀𐬛𐬀 𐬎𐬑𐬙𐬀 𐬀𐬎𐬎𐬀-𐬵𐬀𐬨𐬌𐬱𐬌𐬌𐬀𐬌𐬙𐬌
-  𐬀𐬥𐬀𐬥𐬛𐬀𐬌𐬙𐬌· 𐬵𐬎𐬎𐬀 𐬵𐬎𐬱𐬌𐬙𐬌 𐬎𐬙𐬀 𐬵𐬀𐬨-𐬀𐬯𐬙𐬌 𐬀𐬵𐬎𐬥𐬀𐬌 𐬀𐬵𐬎𐬥𐬀𐬙 𐬎𐬑𐬙𐬀𐬙 𐬨𐬀𐬵𐬌𐬌𐬀𐬙𐬀𐬭𐬀·
-  𐬵𐬀𐬗𐬀 𐬀𐬭𐬆𐬱 𐬞𐬀𐬌𐬙𐬌 𐬞𐬆𐬭𐬆𐬯𐬀 𐬨𐬀 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬛𐬌 𐬎𐬙𐬀 𐬨𐬀 𐬀𐬰𐬀𐬎𐬘𐬀· 𐬛𐬀𐬙𐬀 𐬫𐬀𐬚𐬀 𐬛𐬆𐬨𐬀𐬥𐬀 𐬐𐬀𐬭𐬀 𐬔𐬀𐬌𐬚𐬀 𐬯𐬀𐬭𐬀𐬌𐬙𐬀
-  𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬥𐬋 𐬞𐬆𐬭𐬆𐬯𐬀 𐬀𐬥𐬎-𐬛𐬀𐬛𐬀𐬌𐬙𐬌·
+  Pərəsanā̊ paitišmaranāi martiyəm zbayeinte aŋhuš parō carətəm aoi mruyeiti
+  xᵛāvrəmčā vīsvārəm: «Fra mrao nmānahē yaϑra vardayehi», nōit «A-vərəta yōi
+  xšayehi?» Pərəsa kamnəm paiti ratūm, mat martiyō šiiaoϑnāi š́iiaua, fraxšnaoca
+  vacō yaza yasnō yezica vaocā mərəx́yante. Mā kaᵵō arəϑrəm pərəsa, mā uzjōzaya.
+  Ratu nmanahē, vərəzahē, xᵛarəϑahē, sraošahē, raϑβiianąm yasnō-kərətibiiō ča
+  hu-dātom vīsvārəm daiti.
 keyPoints:
-  - "𐬞𐬆𐬭𐬆𐬯𐬀 𐬀𐬞𐬀𐬭𐬆 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 𐬫𐬀𐬚𐬀 «𐬨𐬋𐬌 𐬎𐬑𐬛𐬀...» 𐬎𐬙𐬀 «𐬐𐬎𐬚𐬭𐬀 𐬀𐬵𐬌...» 𐬥𐬋 𐬞𐬆𐬭𐬆𐬯𐬀 𐬫𐬀𐬚𐬀 𐬀𐬵𐬀 𐬎𐬙𐬀 𐬥𐬋 𐬎𐬙𐬀 𐬀𐬭𐬆𐬱 𐬎𐬙𐬀 𐬀𐬥𐬀𐬭𐬆𐬱·"
-  - "𐬵𐬀𐬗𐬀 𐬀𐬭𐬆𐬱 𐬨𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬫𐬀𐬚𐬀 «𐬙𐬏𐬨 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀𐬌؟» 𐬎𐬙𐬀 «𐬐𐬋 𐬀𐬵𐬌 𐬵𐬋؟» 𐬀𐬌𐬙𐬀𐬎 𐬀𐬰𐬀𐬎𐬘𐬀 𐬵𐬀𐬨𐬌𐬱𐬌𐬌𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬛𐬀𐬛𐬀𐬌𐬙𐬌·"
-  - "𐬵𐬎𐬎𐬀 𐬐𐬀𐬚𐬀 𐬀𐬥𐬎-𐬯𐬀𐬭𐬀𐬌𐬙𐬌 𐬫𐬀𐬛𐬀 𐬎𐬑𐬙𐬀 𐬀𐬎𐬎𐬀-𐬵𐬀𐬨𐬌𐬱𐬌𐬌𐬀𐬌𐬙𐬌· 𐬵𐬎𐬎𐬀 𐬵𐬎𐬱𐬌𐬙𐬌 𐬎𐬙𐬀 𐬵𐬀𐬨-𐬀𐬯𐬙𐬌 𐬀𐬵𐬎𐬥𐬀𐬌 𐬀𐬵𐬎𐬥𐬀𐬙 𐬎𐬑𐬙𐬀𐬙 𐬨𐬀𐬵𐬌𐬌𐬀𐬙𐬀𐬭𐬀·"
-  - "𐬀𐬉𐬎𐬎𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬀𐬌𐬙𐬀 𐬵𐬀𐬨𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌· 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀𐬌 𐬯𐬭𐬀𐬎𐬙𐬀 𐬎𐬙𐬀 𐬀𐬥𐬎-𐬯𐬀𐬭𐬀𐬌𐬙𐬌· 𐬗𐬌𐬚𐬭𐬀 𐬎𐬙𐬀 𐬔𐬀𐬥𐬛𐬀 𐬎𐬙𐬀 𐬔𐬀𐬚𐬀 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 𐬀𐬞𐬀𐬭𐬆𐬨 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌·"
-  - "𐬫𐬀𐬛𐬀 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬎𐬙𐬀 𐬥𐬀𐬭𐬀 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬛𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬵𐬎𐬎𐬀 𐬎𐬑𐬙𐬀 𐬵𐬎𐬑𐬱𐬀𐬌𐬙𐬌 𐬀𐬎𐬎𐬀-𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬛𐬌 𐬎𐬙𐬀 𐬀𐬥𐬌𐬌𐬀 𐬵𐬎𐬱𐬌 𐬎𐬯 𐬯𐬀𐬭𐬀𐬌𐬙𐬌·"
+  - "Pərəsa vīsvārā̊ zbāyamnā̊, yaϑa «Fra mrao aoi...» ayāp «Čiš aŋhat...», nōit bərəji-vacō yaᵵa hənt-vā-anəhənt arəϑravant."
+  - "Mā pərəsa uzjōzanāi «A-vərəta?» ayāp «Kō asti aya?» Tā gərəzdam manō karənte yaϑa uzjōzanā."
+  - "Mat vacō martiyahē š́iiaua, yezica arəvā vi-carənte. Manō-xᵛāvrəmčā handvarətišča vazram cašti nōit vīspā arəϑrā."
+  - "Hāvanəm aēuuanąm pərəsam pərəsa, pata-dafnəmča, baoidīmča, sraošəmča yāsa aoi vīsvārəm."
+  - "Yezica paitišmarətīš aka hāiti ayāp martiyō a-rātem aiti, nəmaŋha vacō parā-sīša aoi xᵛāvrōtərəm."
 faq:
-  - q: "𐬐𐬀𐬙𐬀𐬭𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬵𐬎𐬎𐬀𐬵𐬌𐬌𐬀 𐬀𐬵𐬌 𐬫𐬋 𐬀𐬵𐬎𐬭𐬀𐬌 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌؟"
-    a: "𐬞𐬆𐬭𐬆𐬯𐬀 𐬀𐬞𐬀𐬭𐬆 𐬵𐬎𐬎𐬀𐬵𐬌𐬌𐬀 𐬀𐬵𐬌· «𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬀𐬵𐬎𐬨 𐬛𐬆𐬨𐬀𐬥𐬀 𐬫𐬀𐬚𐬀 𐬙𐬏𐬨 𐬀𐬞𐬀𐬭𐬆 𐬎𐬯 𐬰𐬀𐬌𐬌𐬀𐬥𐬀»· «𐬐𐬀𐬙𐬀𐬭𐬀 𐬑𐬀𐬭𐬆𐬚𐬭𐬀 𐬙𐬏𐬨 𐬵𐬎𐬱𐬌 𐬐𐬆𐬭𐬆𐬥𐬀𐬎𐬙𐬀؟»· «𐬐𐬀𐬙𐬀𐬭𐬀 𐬔𐬀𐬌𐬚𐬀 𐬙𐬏𐬨 𐬥𐬭𐬙𐬀𐬎𐬙𐬀؟»· «𐬐𐬎𐬚𐬭𐬀 𐬀𐬵𐬌 𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬫𐬀𐬛𐬀 𐬙𐬏𐬨 𐬀𐬞𐬀𐬭𐬆 𐬀𐬵𐬌؟» 𐬵𐬀𐬭 𐬀𐬉𐬎𐬎𐬀 𐬐𐬀𐬚𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 𐬥𐬋 𐬀𐬉𐬎𐬎𐬀 𐬀𐬭𐬆𐬱 𐬞𐬀𐬌𐬙𐬌𐬨·"
-  - q: "𐬐𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬎𐬙𐬀 𐬞𐬆𐬭𐬆𐬯𐬀-𐬀𐬰𐬀𐬎𐬘𐬀؟"
-    a: "𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬵𐬀𐬨-𐬐𐬀𐬚𐬀 𐬀𐬵𐬌 𐬫𐬀𐬚𐬭𐬀 𐬀𐬥𐬀𐬭𐬆𐬱 𐬥𐬋 𐬀𐬯𐬙𐬌· 𐬞𐬆𐬭𐬆𐬯𐬀-𐬀𐬰𐬀𐬎𐬘𐬀 𐬀𐬉𐬎𐬎𐬀 𐬎𐬑𐬙𐬀 𐬞𐬀𐬌𐬙𐬌 𐬞𐬆𐬭𐬆𐬯𐬀 𐬎𐬙𐬀 𐬀𐬭𐬆𐬱 𐬀𐬰𐬀𐬎𐬘𐬀· 𐬀𐬌𐬙𐬀𐬎 𐬀𐬰𐬀𐬎𐬘𐬀 𐬥𐬀𐬭𐬆𐬨 𐬀𐬰𐬀𐬎𐬘𐬀 𐬵𐬀𐬨𐬌𐬱𐬌𐬌𐬀𐬌𐬙𐬌· 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬀𐬞𐬀𐬭𐬆 𐬎𐬙𐬀 𐬵𐬎𐬑𐬱𐬀 𐬛𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌·"
-  - q: "𐬫𐬀𐬛𐬀 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌 𐬥𐬀𐬭𐬀 𐬀𐬥𐬀𐬭𐬆𐬱 𐬨𐬀𐬥𐬌𐬌𐬀𐬌𐬙𐬌 𐬐𐬀 𐬐𐬆𐬭𐬆𐬥𐬀𐬎𐬙𐬀؟"
-    a: "𐬵𐬎𐬎𐬀 𐬀𐬥𐬎-𐬯𐬀𐬭𐬀𐬌𐬙𐬌 𐬫𐬀𐬛𐬀 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬎𐬙𐬀 𐬀𐬯𐬎𐬭𐬀𐬑𐬱𐬌𐬌𐬀 𐬥𐬋 𐬛𐬀𐬎𐬎𐬀𐬌𐬙𐬌· 𐬫𐬀𐬭𐬀 𐬎𐬙𐬀 𐬥𐬀𐬨𐬀 𐬨𐬀 𐬀𐬭𐬆𐬱 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬛𐬌· 𐬞𐬆𐬭𐬆𐬯𐬀 𐬐𐬎𐬚𐬭𐬀 𐬵𐬎𐬎𐬀 𐬵𐬎𐬱𐬌𐬙𐬌 𐬀𐬵𐬎𐬨 𐬎𐬑𐬙𐬀 𐬀𐬵𐬎𐬨 𐬐𐬀 𐬀𐬵𐬎𐬥𐬀𐬌 𐬨𐬀𐬵𐬌𐬌𐬀 𐬀𐬵𐬌·"
-  - q: "𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬗𐬎𐬎𐬀𐬥𐬙 𐬛𐬀𐬭𐬆𐬖𐬀𐬌𐬙𐬌؟"
-    a: "10 𐬎𐬙𐬀 20 𐬥𐬀𐬌𐬌𐬎𐬙𐬀 𐬵𐬎𐬎𐬀𐬵𐬌𐬌𐬀 𐬀𐬵𐬌 𐬎𐬙𐬀 𐬐𐬀𐬭𐬆𐬰𐬌𐬙𐬀𐬭𐬀 𐬵𐬎𐬎𐬀𐬵𐬌𐬌𐬀 𐬀𐬵𐬌· 𐬫𐬀𐬛𐬀 𐬥𐬀𐬭𐬀 𐬀𐬯𐬭𐬀𐬎𐬙𐬀 𐬎𐬙𐬀 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬎𐬙𐬀 𐬀𐬥𐬀-𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀𐬌 𐬎𐬙𐬀 𐬀𐬥𐬌𐬌𐬀 𐬵𐬎𐬱𐬌 𐬵𐬀𐬨-𐬀𐬯𐬙𐬌 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬛𐬌·"
+  - q: "Katarā̊ pərəsanā̊ paitišmaranāi vohū hanti martiyāi yim thwəm harahi?"
+    a: "Vīsvārā̊ zbāyamnā̊ vahištā̊ hanti: «Fra mrao nmānahē yaϑra vardayehi», «Čiš xᵛarəϑəm pazdayeiti xšnūtō?», «Katarəm sraošəm aoi fra-xšnuš?», ayāp «Katarā yasnō-kərətīš yaϑra kamnō ā̊ŋha?». Aēuuačačā vacō zbayeiti, nōit aēuuō arəϑrō."
+  - q: "Čiš tarō-dātīš paitišmaranəm uzjōzanəmča antarə?"
+    a: "Paitišmaranəm asti haoxədrō sravahē, an-arəϑra-paitītim. Uzjōzanā arəϑrəm vīcāraiti aoi azdə̄mča. Uzjōzanā martiyəm gərəzdam karənte, vaheiti vīsvārəm xᵛāvrəmča sravəm dādrāna."
+  - q: "Čiš yezica paitišmarana parō-carətahē vi-yānəm aŋhat?"
+    a: "Mat ahmāi š́iiaua, anō yezica an-āzātīm dāiti. Mā ayārəmča nāmənča ərəš-karə. Pərəsa yaϑa manō ahmāi bavaiti ayāp čiš ahmāi arəϑravant."
+  - q: "Čva-drāǰō paitišmaranā-handvarətīš aŋhat?"
+    a: "Dasa aoi vīsaiti dafnō-zruuā vanat, yezica kamnōtərəm vaoce. Āsīša yaϑa martiyō šnāϑatō, gərəzdō, an-avarant bavaiti, aparamča vīsvārəm yāsa handvarətiyāi."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -44,82 +43,82 @@ related: [activities/reminiscence, activities/music, activities/trivia, activiti
 health: false
 ---
 
-𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬀𐬵𐬌 𐬵𐬀𐬨-𐬎𐬑𐬛𐬀𐬌𐬙𐬌 𐬞𐬀𐬭𐬋 𐬰𐬭𐬎𐬎𐬀𐬥𐬀· 𐬛𐬆𐬨𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬆 𐬐𐬀𐬭𐬀 𐬞𐬀𐬌𐬙𐬌𐬨 𐬑𐬀𐬭𐬆𐬚𐬭𐬀 𐬵𐬎𐬱𐬌 𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬔𐬀𐬌𐬚𐬀 𐬯𐬀𐬭𐬀𐬌𐬙𐬀 𐬎𐬙𐬀 𐬵𐬎𐬎𐬀 𐬰𐬭𐬎𐬎𐬀𐬥𐬀· 𐬬𐬀𐬵𐬎 𐬥𐬀𐬭𐬆 𐬫𐬋 𐬀𐬵𐬎𐬭𐬀𐬌 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌 𐬵𐬎𐬑𐬱𐬀 𐬎𐬙𐬀 𐬵𐬎𐬱𐬌 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬞𐬀𐬭𐬋 𐬵𐬎𐬎𐬀 𐬰𐬭𐬎𐬎𐬀𐬥𐬀 𐬀𐬉𐬎𐬎𐬀 𐬀𐬵𐬎𐬨 𐬵𐬎𐬱𐬌𐬙𐬀𐬭𐬀 𐬀𐬵𐬎𐬨 𐬀𐬥𐬀𐬨 𐬀𐬵𐬌· 𐬀𐬵𐬎𐬨 𐬨𐬀𐬵𐬌𐬌𐬀 𐬀𐬵𐬌 𐬫𐬀𐬚𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 𐬐𐬀𐬚𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬵𐬀𐬗𐬀 𐬀𐬭𐬆𐬱 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌 𐬥𐬋 𐬀𐬰𐬀𐬎𐬘𐬀· 𐬀𐬌𐬨𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬙𐬀 𐬵𐬀𐬨-𐬗𐬌𐬙𐬀 𐬀𐬵𐬌 𐬵𐬀𐬨 𐬎𐬑𐬙𐬀 𐬫𐬀𐬚𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌·
+Paitišmaranəm asti haom-fravacō parō-carətanam aŋhvąm: nmānāi aparanāyu-kərətē, paoiryāi vərəzāi, xᵛarəϑāi friiāi, gāϑābiiō, vaēdiianāi, yasnō-kərətibiiō ča. Martiyāi yim thwəm harahi, xᵛāvrō fravacō aoi hauruuam jiiātīm asti vahištəm ahmāi ayān. Tarō-dātīš asti yaϑa pərəsanā zbayeiti sravahē aŋhuš, nōit uzjōzayeiti paitišmarətīm. Imā̊ pərəsanā̊ han-dātā̊ hanti paiti ratūm, mat pandāi yaϑa tā̊iš dāraya.
 
-## 𐬛𐬀𐬙𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬞𐬆𐬭𐬆𐬯𐬀
+## Dātā̊ pərəsanānąm paitišmaranāi
 
-- **𐬞𐬆𐬭𐬆𐬯𐬀 𐬀𐬞𐬀𐬭𐬆 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌·** «𐬨𐬋𐬌 𐬎𐬑𐬛𐬀...» 𐬎𐬙𐬀 «𐬐𐬎𐬚𐬭𐬀 𐬀𐬵𐬌...» 𐬐𐬀𐬚𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌· «𐬙𐬏𐬨 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀𐬌؟» 𐬀𐬭𐬆𐬱 𐬞𐬀𐬌𐬙𐬌 𐬞𐬆𐬭𐬆𐬯𐬀·
-- **𐬵𐬀𐬗𐬀 𐬀𐬭𐬆𐬱 𐬨𐬀 𐬀𐬰𐬀𐬎𐬘𐬀·** 𐬨𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 «𐬐𐬋 𐬀𐬵𐬌 𐬵𐬋؟»· «𐬐𐬀𐬙𐬀𐬭𐬀 𐬫𐬀𐬭𐬀 𐬀𐬵𐬌؟» 𐬎𐬙𐬀 «𐬙𐬏𐬨 𐬥𐬀𐬨𐬀 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀𐬌؟»
-- **𐬫𐬀 𐬀𐬌𐬙𐬌 𐬀𐬥𐬎-𐬞𐬀𐬌𐬙𐬌𐬌𐬀𐬌𐬙𐬌·** 𐬫𐬀𐬛𐬀 𐬐𐬀𐬚𐬀 𐬀𐬎𐬎𐬀-𐬵𐬀𐬨𐬌𐬱𐬌𐬌𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬛𐬆𐬨𐬀𐬥𐬀 𐬀𐬎𐬎𐬀-𐬵𐬀𐬨𐬌𐬱𐬌𐬌𐬀𐬌𐬙𐬌 𐬵𐬎𐬎𐬀 𐬀𐬥𐬎-𐬵𐬎𐬱𐬌 𐬎𐬙𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬎𐬱𐬌·
-- **𐬀𐬉𐬎𐬎𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬀𐬌𐬙𐬀 𐬵𐬀𐬨𐬀·** 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀𐬌 𐬯𐬭𐬀𐬎𐬙𐬀 𐬎𐬙𐬀 𐬀𐬥𐬎-𐬯𐬀𐬭𐬀𐬌𐬙𐬌 𐬵𐬀𐬨 𐬀𐬥𐬌𐬌𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬵𐬎𐬎𐬀𐬵𐬌𐬌𐬀·
-- **𐬥𐬀𐬭𐬀 𐬵𐬎𐬎𐬀 𐬞𐬀𐬚𐬀 𐬯𐬀𐬭𐬀𐬌𐬙𐬌·** 𐬫𐬀𐬛𐬀 𐬵𐬋 𐬀𐬥𐬌𐬌𐬀 𐬎𐬑𐬙𐬀 𐬎𐬑𐬛𐬀𐬌𐬙𐬌 𐬵𐬎𐬎𐬀 𐬀𐬥𐬎-𐬯𐬀𐬭𐬀𐬌𐬙𐬌·
+- **Pərəsa vīsvārā̊ pərəsanā̊.** «Fra mrao aoi...» uta «Čiš aŋhat yaϑa...» zbayeinte vacahē. «A-vərəta...» pərəsaite arəϑrāya ərəš-vacō.
+- **Mā kaᵵō uzjōzaya.** Tarpaya aoi «Kō asti aya?», «Katarō sarəd asti?», uta «A-vərəta nāmən aoi...?»
+- **Paiticaya vīspəm čiš paiti-aiti.** Yezica vacō parā-aiti ayāp vərəϑrā vī-carənte, xšnūtō zaya uta pərəsa aoi manō-xᵛāvrəm.
+- **Hāvanəm aēuuanąm pərəsam pərəsa.** Būza, gūša, uta paiti-yāsa mat vohū fraša.
+- **Martiyō paiti-naya.** Yezica vasō aŋhat aoi aparam mruyeiti, mat ahmāi š́iiaua.
 
-[𐬎𐬑𐬛𐬀 𐬥𐬀𐬭𐬀 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬞𐬀𐬌𐬙𐬌 National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) 𐬎𐬑𐬙𐬀 𐬐𐬀𐬭𐬆𐬰𐬌 𐬎𐬙𐬀 𐬵𐬎𐬑𐬱𐬀 𐬔𐬀𐬌𐬭𐬌𐬌𐬀 𐬎𐬙𐬀 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀 𐬫𐬀𐬛𐬀 𐬥𐬀𐬭𐬀 𐬎𐬑𐬙𐬀 𐬀𐬥𐬎-𐬬𐬌𐬥𐬛𐬀𐬌𐬙𐬌 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌· 𐬀𐬌𐬨𐬀 𐬛𐬀𐬙𐬀 𐬀𐬌𐬚𐬭𐬀 𐬵𐬀𐬨 𐬨𐬀𐬵𐬌𐬌𐬀 𐬀𐬵𐬌·
+Panda hača [National Institute on Aging's guidance on communicating](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) daiti drəgvīrām vacō-dātīm, xᵛāvrəm gaošəm, būzəmča yaϑa martiyō vacō vindaiti. Imā̊ dātā̊ vīspādrā aoi paitiš-hante.
 
-## 𐬛𐬆𐬨𐬀𐬥𐬀 𐬎𐬙𐬀 𐬀𐬞𐬀𐬭𐬆 𐬰𐬭𐬎𐬎𐬀𐬥𐬀
+## Nmānəm uta aparanāyū-carətəm
 
-- 𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬀𐬵𐬎𐬨 𐬛𐬆𐬨𐬀𐬥𐬀 𐬫𐬀𐬚𐬀 𐬙𐬏𐬨 𐬀𐬞𐬀𐬭𐬆 𐬎𐬯 𐬰𐬀𐬌𐬌𐬀𐬥𐬀· 𐬐𐬎𐬚𐬭𐬀 𐬀𐬵𐬌 𐬵𐬎𐬎𐬀 𐬞𐬀𐬗𐬀𐬥𐬀-𐬛𐬆𐬨𐬀𐬥𐬀؟
-- 𐬐𐬀 𐬙𐬏𐬨 𐬵𐬎𐬱𐬌 𐬐𐬆𐬭𐬆𐬥𐬀𐬎𐬙𐬀 𐬐𐬆𐬭𐬆𐬙𐬎𐬨 𐬀𐬞𐬀𐬭𐬆 𐬫𐬀𐬛𐬀 𐬙𐬏𐬨 𐬀𐬞𐬀𐬭𐬆 𐬀𐬵𐬌؟
-- 𐬐𐬋 𐬀𐬵𐬌 𐬫𐬋 𐬙𐬏𐬨 𐬵𐬀𐬨 𐬐𐬆𐬭𐬆𐬙𐬎𐬨 𐬞𐬀𐬌𐬙𐬌 𐬵𐬎𐬎𐬀 𐬞𐬀𐬚𐬀؟
-- 𐬐𐬎𐬚𐬭𐬀 𐬀𐬵𐬌 𐬵𐬎𐬎𐬀 𐬰𐬀𐬌𐬥𐬀-𐬛𐬆𐬨𐬀𐬥𐬀؟ 𐬙𐬏𐬨 𐬵𐬀𐬨 𐬐𐬀 𐬵𐬀𐬨-𐬥𐬌𐬱𐬀𐬌𐬛𐬀𐬌𐬙𐬌؟
+- Fra mrao aoi nmānəm yaϑra vardayehi. Čiš aŋhat xᵛarəϑō-dātīš?
+- Čiš xšnūtō varəzayehi bərəjiiō yaϑra kamnō ā̊ŋha?
+- Kōi ā̊ŋhərə martiyā yōiš mat carayehi aoi viϑīm?
+- Čiš aŋhat xᵛapnō-nmānəm? A-yāsa mat aparam čiš?
 
-## 𐬐𐬀𐬭𐬀 𐬎𐬙𐬀 𐬐𐬆𐬭𐬆𐬙𐬎𐬨
+## Vərəzō uta haxədrō
 
-- 𐬐𐬀𐬙𐬀𐬭𐬀 𐬐𐬀𐬭𐬀 𐬙𐬏𐬨 𐬵𐬎𐬱𐬌 𐬐𐬆𐬭𐬆𐬥𐬀𐬎𐬙𐬀؟
-- 𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬀𐬉𐬎𐬎𐬀 𐬀𐬥𐬀𐬨 𐬐𐬀𐬭𐬀 𐬫𐬀 𐬙𐬏𐬨 𐬎𐬰𐬫𐬀𐬌𐬙𐬌·
-- 𐬐𐬀 𐬙𐬏𐬨 𐬵𐬎𐬱𐬌 𐬐𐬆𐬭𐬆𐬙𐬎𐬨 𐬎𐬙𐬀 𐬀𐬭𐬆𐬱 𐬐𐬆𐬭𐬆𐬙𐬎𐬨 𐬵𐬀𐬨 𐬵𐬎𐬎𐬀 𐬵𐬀𐬯𐬙𐬀؟
-- 𐬐𐬋 𐬙𐬏𐬨 𐬀𐬵𐬎𐬥𐬀𐬙 𐬨𐬀𐬵𐬌𐬌𐬀𐬙𐬀𐬭𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬎𐬎𐬀 𐬐𐬀𐬭𐬀 𐬎𐬑𐬛𐬀𐬌𐬙𐬌؟
+- Katarəm vərəzəm vahištəm xšnūte varəzayehi?
+- Fra mrao aoi ayārəm vərəzōi yaϑra xᵛāvrō ā̊ŋha.
+- Čiš xšnūtō zaranyō-zastō kərənūyehi ayāp ərəš-kərənūyehi?
+- Kō vahištəm fradaxšta aoi thwāhē vərəzəm?
 
-## 𐬑𐬀𐬭𐬆𐬚𐬭𐬀 𐬎𐬙𐬀 𐬞𐬀𐬗𐬀𐬥𐬀
+## Xᵛarəϑəm uta pazdaya
 
-- 𐬐𐬀 𐬵𐬎𐬎𐬀 𐬥𐬨𐬀𐬥𐬀 𐬀𐬌𐬙𐬀 𐬀𐬥𐬀𐬨 𐬵𐬎𐬎𐬀𐬭𐬀 𐬑𐬀𐬭𐬆𐬙𐬌؟
-- 𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬀𐬉𐬎𐬎𐬀 𐬑𐬀𐬭𐬆𐬚𐬭𐬀 𐬫𐬀 𐬐𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬎𐬎𐬀 𐬥𐬨𐬀𐬥𐬀 𐬵𐬎𐬱𐬌 𐬞𐬀𐬗𐬀𐬌𐬙𐬌·
-- 𐬙𐬏𐬨 𐬀𐬞𐬀𐬭𐬆 𐬵𐬎𐬱𐬌 𐬛𐬆𐬨𐬀𐬥𐬀 𐬀𐬵𐬌 𐬫𐬀𐬚𐬀 𐬵𐬎𐬱𐬌 𐬀𐬥𐬎-𐬎𐬞𐬀-𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌؟
-- 𐬐𐬀𐬙𐬀𐬭𐬀 𐬔𐬀𐬥𐬛𐬀 𐬙𐬏𐬨 𐬛𐬆𐬨𐬀𐬥𐬀 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀𐬌𐬙𐬌؟
+- Čiš xᵛarəϑəm nmānīm xᵛāraiti aoi bərəjiyō-ayān?
+- Fra mrao aoi xᵛarəϑəm yim narō nmānahē pazdayeiti vohū.
+- Ā̊ŋha friyō vərəϑrō yaϑra aoi māzdīm yāsa yaϑra drəgu-ā̊ŋha?
+- Katarā baoidīš nmānahē paitišmaranəm dādrāna?
 
-𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬞𐬀𐬭𐬋 𐬑𐬀𐬭𐬆𐬚𐬭𐬀 𐬵𐬀𐬨 𐬵𐬎𐬱𐬌 𐬀𐬵𐬌 𐬵𐬀𐬨 [𐬐𐬆𐬭𐬆𐬙𐬎𐬨 𐬵𐬎𐬱𐬌 𐬯𐬭𐬀𐬎𐬙𐬀](/activities/sensory/) 𐬎𐬙𐬀 𐬵𐬀𐬨 𐬀𐬞𐬀𐬭𐬆 𐬑𐬀𐬭𐬆𐬚𐬭𐬀 𐬫𐬀𐬛𐬀 𐬀𐬯𐬎𐬭𐬀𐬑𐬱𐬌𐬌𐬀 𐬀𐬵𐬌·
+Vacō xᵛarəϑahē hu-han-dāiti mat [sensory activities](/activities/sensory/) handāitiyā, uta mat kamnəm čašmanəm yezica a-viyejəm ahmāi daite.
 
-## 𐬔𐬀𐬌𐬚𐬀 𐬎𐬙𐬀 𐬥𐬭𐬙𐬀
+## Sraošō uta rāzō
 
-- 𐬐𐬀𐬙𐬀𐬭𐬀 𐬔𐬀𐬌𐬚𐬀 𐬙𐬏𐬨 𐬔𐬀𐬌𐬌𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬥𐬭𐬙𐬀𐬎𐬙𐬀 𐬫𐬀𐬛𐬀 𐬙𐬏𐬨 𐬀𐬞𐬀𐬭𐬆 𐬀𐬵𐬌？
-- 𐬐𐬋 𐬀𐬵𐬌 𐬵𐬎𐬎𐬀 𐬔𐬀𐬌𐬌𐬀𐬥𐬀 𐬎𐬙𐬀 𐬵𐬎𐬎𐬀 𐬔𐬀𐬌𐬚𐬀-𐬛𐬀𐬙𐬀 𐬵𐬎𐬱𐬌？
-- 𐬐𐬎𐬚𐬭𐬀 𐬙𐬏𐬨 𐬔𐬀𐬌𐬚𐬀 𐬯𐬭𐬀𐬎𐬙𐬀· 𐬞𐬀𐬌𐬙𐬌 𐬛𐬆𐬨𐬀𐬥𐬀· 𐬞𐬀𐬌𐬙𐬌 𐬥𐬭𐬙𐬀· 𐬞𐬀𐬌𐬙𐬌 𐬫𐬀𐬰𐬀𐬙𐬀-𐬛𐬆𐬨𐬀𐬥𐬀؟
+- Katarā̊ gāϑā̊ gāyehi ayāp rāzayehi yaϑra kamnō ā̊ŋha?
+- Kō aŋhat friyō gāϑō-srāvō ayāp haxəm?
+- Yaϑra sraošəm gūšayehi ahmī zruuanē: aoi nmānəm, aoi rāzanā, aoi yasnəm?
 
-𐬞𐬀𐬌𐬙𐬌 𐬔𐬀𐬌𐬚𐬀-𐬛𐬀𐬙𐬀 𐬎𐬙𐬀 𐬎𐬑𐬙𐬀 [𐬔𐬀𐬌𐬚𐬀 𐬐𐬆𐬭𐬆𐬙𐬎𐬨 𐬞𐬀𐬌𐬙𐬌 𐬥𐬀𐬭𐬆 𐬫𐬋 𐬀𐬵𐬎𐬭𐬀𐬌 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌](/activities/music/) 𐬬𐬌𐬥𐬛𐬀𐬌𐬙𐬌·
+Aoi gāϑanā-handātīš uta sraošahē manō, vi-zbaraya [music activities for people with dementia](/activities/music/).
 
-## 𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬎𐬙𐬀 𐬵𐬎𐬱𐬌𐬙𐬀
+## Yasnō-kərətīš uta fraxšnīnā̊
 
-- 𐬐𐬀𐬙𐬀𐬭𐬀 𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬙𐬏𐬨 𐬵𐬎𐬱𐬌 𐬀𐬵𐬌 𐬫𐬀𐬛𐬀 𐬙𐬏𐬨 𐬀𐬞𐬀𐬭𐬆 𐬀𐬵𐬌？
-- 𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬀𐬉𐬎𐬎𐬀 𐬰𐬀𐬌𐬌𐬀𐬥𐬀-𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬫𐬀 𐬙𐬏𐬨 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌𐬌𐬀𐬌·
-- 𐬐𐬀 𐬵𐬎𐬎𐬀 𐬥𐬨𐬀𐬥𐬀 𐬐𐬆𐬭𐬆𐬙𐬌 𐬞𐬀𐬌𐬙𐬌 𐬵𐬀𐬨𐬌𐬥𐬀-𐬀𐬥𐬀𐬨؟
-- 𐬐𐬎𐬚𐬭𐬀 𐬵𐬎𐬎𐬀 𐬥𐬨𐬀𐬥𐬀 𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬀𐬥𐬎-𐬵𐬎𐬱𐬌𐬙𐬌؟
+- Katarā yasnō-kərətīš vahištā friyā aŋhat yaϑra vardayehi?
+- Fra mrao aoi zātō-ayārəm yim paitišmarahe.
+- Čiš nmānīm kərənūte aoi hāminō xšapnəm?
+- Yaϑra nmānīm yasnəm kərənūte aoi zruuanąm ratūš?
 
-𐬞𐬀𐬌𐬙𐬌 𐬎𐬑𐬙𐬀 𐬫𐬀 𐬀𐬉𐬎𐬎𐬀 𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬀𐬥𐬎-𐬵𐬎𐬱𐬌𐬙𐬌 [𐬎𐬙𐬙𐬀𐬌𐬙𐬀 𐬐𐬆𐬭𐬆𐬙𐬎𐬨 𐬞𐬀𐬌𐬙𐬌 𐬥𐬀𐬭𐬀 𐬫𐬋 𐬀𐬵𐬎𐬭𐬀𐬌 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌](/activities/holidays/) 𐬬𐬌𐬥𐬛𐬀𐬌𐬙𐬌·
+Aoi manō yōi aēuuō-yasnāi aiti, vi-zbaraya [holiday activities for someone with dementia](/activities/holidays/).
 
-## 𐬥𐬨𐬀𐬥𐬀 𐬎𐬙𐬀 𐬵𐬎𐬎𐬀 𐬥𐬀𐬭𐬀
+## Taoxman uta haxaman
 
-- 𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬀𐬵𐬎𐬨 𐬥𐬀𐬭𐬀 𐬫𐬋 𐬙𐬏𐬨 𐬀𐬵𐬎𐬥𐬀𐬙 𐬵𐬎𐬱𐬌 𐬐𐬆𐬭𐬆𐬥𐬀𐬎𐬙𐬀·
-- 𐬐𐬎𐬚𐬭𐬀 𐬀𐬵𐬌 𐬵𐬎𐬎𐬀 𐬎𐬙𐬙𐬀𐬌𐬙𐬀-𐬀𐬥𐬀𐬨؟
-- 𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬵𐬎𐬎𐬀 𐬞𐬎𐬚𐬭𐬀 𐬫𐬀𐬛𐬀 𐬀𐬞𐬀𐬭𐬆 𐬀𐬵𐬌·
-- 𐬐𐬀 𐬵𐬎𐬎𐬀 𐬥𐬀𐬭𐬀 𐬙𐬏𐬨 𐬥𐬀𐬨𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌؟
+- Fra mrao aoi martiyəm yō thwāhē zaranim handāitīmča kərənūte.
+- Čiš aŋhat thwāhē vaēdiianō ayārəm?
+- Fra mrao aoi fravahrō puvrānąm yaϑra kamnā ā̊ŋhərə.
+- Čiš thwāhē haxīm nāmayeiti?
 
-𐬞𐬆𐬭𐬆𐬯𐬀 𐬞𐬀𐬌𐬙𐬌 𐬥𐬨𐬀𐬥𐬀 𐬵𐬎𐬑𐬱𐬀𐬌𐬙𐬌 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌· 𐬫𐬀𐬛𐬀 𐬥𐬀𐬭𐬀 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬵𐬀𐬨𐬌𐬱𐬌𐬌𐬀𐬌𐬙𐬌 𐬵𐬎𐬎𐬀 𐬀𐬥𐬎-𐬯𐬀𐬭𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬫𐬀 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬐𐬆𐬭𐬆𐬥𐬀𐬎𐬙𐬌 𐬨𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌·
+Pərəsa taoxmanąm pərəsanā̊ nəmaŋha. Yezica martiyō gərəzda aoi an-aŋhaitīm, mat ahmāi š́iiaua uta tarpaya paitišmarətīm yā gərəzdam dāiti.
 
-## 𐬛𐬆𐬨𐬀𐬥𐬀 𐬎𐬙𐬀 𐬎𐬭𐬎𐬎𐬀𐬭𐬀
+## Dakš́yun uta dāmī-dātō
 
-- 𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬀𐬉𐬎𐬎𐬀 𐬛𐬆𐬨𐬀𐬥𐬀 𐬫𐬀 𐬙𐬏𐬨 𐬵𐬎𐬱𐬌 𐬨𐬀𐬥𐬌𐬌𐬀𐬌·
-- 𐬐𐬎𐬚𐬭𐬀 𐬀𐬵𐬌 𐬵𐬎𐬎𐬀 𐬬𐬀𐬌𐬙𐬀 𐬫𐬀𐬚𐬀 𐬙𐬏𐬨 𐬀𐬞𐬀𐬭𐬆 𐬎𐬯 𐬰𐬀𐬌𐬌𐬀𐬥𐬀؟
-- 𐬙𐬏𐬨 𐬎𐬭𐬎𐬎𐬀𐬭𐬀 𐬀𐬵𐬌 𐬎𐬙𐬀 𐬎𐬭𐬎𐬎𐬀𐬭𐬀 𐬵𐬎𐬱𐬌 𐬀𐬵𐬌؟
-- 𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬀𐬉𐬎𐬎𐬀 𐬯𐬀𐬭𐬀𐬌𐬙𐬀 𐬫𐬀 𐬙𐬏𐬨 𐬵𐬎𐬱𐬌 𐬐𐬆𐬭𐬆𐬥𐬀𐬎𐬙𐬀·
+- Fra mrao aoi dax́yūm yąm friyąm dādrana aoi manō.
+- Čiš aŋhat vātō yaϑra vardayehi?
+- A-dāraya pairi-daēzəm, ayāp friyəm uruuarəm?
+- Fra mrao aoi ayānəm yim xšnūtō carayehi.
 
-## 𐬗𐬌𐬚𐬭𐬀 𐬎𐬙𐬀 𐬎𐬞𐬀-𐬐𐬀𐬭𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌
+## Pata-dafnanam uta aozō-dātanąm dāiti
 
-𐬗𐬌𐬚𐬭𐬀 𐬵𐬎𐬎𐬀𐬵𐬌𐬌𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 𐬞𐬀𐬌𐬙𐬌 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀· 𐬗𐬌𐬚𐬭𐬀 𐬞𐬀𐬌𐬙𐬌 𐬗𐬀𐬱𐬨𐬀𐬥 𐬛𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬎𐬑𐬛𐬀 «𐬨𐬋𐬌 𐬎𐬑𐬛𐬀 𐬀𐬵𐬎𐬨»· [𐬎𐬑𐬛𐬀 𐬞𐬀𐬌𐬙𐬌 𐬐𐬆𐬭𐬆𐬙𐬎𐬨 Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 𐬗𐬌𐬚𐬭𐬀 𐬎𐬙𐬀 𐬎𐬞𐬀-𐬐𐬀𐬭𐬀 𐬎𐬙𐬀 𐬔𐬀𐬌𐬚𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀· 𐬀𐬉𐬎𐬎𐬀 𐬛𐬀𐬙𐬀-𐬵𐬀𐬎𐬰𐬀 𐬵𐬀𐬨 𐬀𐬞𐬀𐬭𐬆 𐬎𐬞𐬀-𐬐𐬀𐬭𐬀 𐬵𐬎𐬎𐬀𐬵𐬌𐬌𐬀 𐬀𐬵𐬌· [𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬐𐬆𐬭𐬆𐬙𐬎𐬨](/activities/reminiscence/) 𐬬𐬌𐬥𐬛𐬀𐬌𐬙𐬌 𐬐𐬎𐬚𐬭𐬀 𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬎𐬰𐬀 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬛𐬌·
+Pata-dafnā̊ hanti frašō uz-yānō. Dāraya pata-dafnəm aoi čašmanąm barəzəm uta mrao: «Fra mrao aoi aētəm.» Panda hača [Alzheimer's Association's guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities) daiti aozō-dātā, pata-dafnā uta sraošəm aoi vacahē vīsvārəm. Nmānō-karənā mat kamnō aozō-dātō hača martiyahē jiiātōi hu-vərəziyeiti; vi-zbaraya [reminiscence activities](/activities/reminiscence/) yaϑa aētəm han-dāraya.
 
-## 𐬫𐬀𐬛𐬀 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬀𐬵𐬌
+## Yaϑra paitišmarətīš aka bavaiti
 
-𐬐𐬀𐬚𐬀 𐬎𐬞𐬀-𐬨𐬀𐬥𐬌 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬎𐬙𐬀 𐬙𐬀𐬭𐬯𐬀 𐬎𐬙𐬀 𐬀𐬉𐬱𐬆𐬨𐬀 𐬀𐬥𐬎-𐬛𐬀𐬛𐬀𐬌𐬙𐬌· 𐬫𐬀𐬛𐬀 𐬥𐬀𐬭𐬀 𐬀𐬥𐬀-𐬵𐬎𐬱𐬌 𐬵𐬀𐬨𐬌𐬱𐬌𐬌𐬀𐬌𐬙𐬌 𐬨𐬀 𐬀𐬎𐬎𐬀-𐬞𐬆𐬭𐬆𐬯𐬀· 𐬵𐬎𐬑𐬱𐬀 𐬎𐬑𐬛𐬀 «𐬀𐬵𐬎𐬨 𐬵𐬎𐬑𐬱𐬀 𐬀𐬥𐬀𐬨 𐬀𐬵𐬌· 𐬙𐬏𐬨 𐬎𐬑𐬛𐬀𐬌𐬙𐬌 𐬀𐬥𐬌𐬌𐬀 𐬵𐬎𐬱𐬌؟» 𐬎𐬙𐬀 𐬵𐬎𐬎𐬀 𐬎𐬑𐬙𐬀 𐬀𐬎𐬎𐬀-𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬛𐬌· 𐬀𐬞𐬀 𐬛𐬀𐬛𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬔𐬀𐬌𐬚𐬀 𐬵𐬎𐬱𐬌 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌·
+Kamnā paitišmarətīš bərənte gərəzdəm, tərsəm, ayāp ānītim. Yezica martiyō an-xšnūtō bavaiti, mā azdə̄m karə. Mrao xᵛāvrəm yaϑa: «Aētad bavaiti garəzəm zruuanəm. Vasō aŋhat mruyeiti aoi xᵛāvrōtərəm?» Pasča parā-sīša vacō, dafra xᵛarə-aodram, ayāp friyąm gāϑąm srauuaya.
 
-## 𐬵𐬀𐬨 𐬐𐬆𐬭𐬆𐬙𐬎𐬨 𐬎𐬙𐬀 𐬯𐬀𐬭𐬀𐬌𐬙𐬀
+## Mat xšnūtō-spāzā ayāp carətā han-dāraya
 
-𐬞𐬀𐬱𐬀 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬀𐬞𐬀𐬭𐬆 𐬵𐬎𐬑𐬱𐬀 𐬐𐬆𐬭𐬆𐬙𐬎𐬨 𐬵𐬎𐬎𐬀 𐬵𐬎𐬱𐬌 𐬛𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌· [𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬐𐬀𐬭𐬙𐬀](/games/conversation-cards/) 𐬞𐬀𐬌𐬙𐬌 𐬀𐬥𐬌𐬌𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬎𐬰𐬎𐬎𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 [𐬎𐬑𐬙𐬀 𐬞𐬎𐬭𐬀-𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬛𐬌](/games/finish-the-saying/) 𐬞𐬀𐬌𐬙𐬌 𐬎𐬑𐬙𐬀 𐬵𐬎𐬱𐬌 𐬀𐬞𐬀𐬭𐬆 𐬰𐬭𐬎𐬎𐬀𐬥𐬀· 𐬞𐬀𐬌𐬙𐬌 𐬎𐬑𐬛𐬀 𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 [𐬵𐬀𐬨-𐬴𐬭𐬀𐬎𐬙𐬀 𐬎𐬑𐬛𐬀 𐬞𐬀𐬌𐬙𐬌 𐬥𐬀𐬭𐬀 𐬫𐬋 𐬀𐬵𐬎𐬭𐬀𐬌 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌](/caregiving/communication-tips/) 𐬬𐬌𐬥𐬛𐬀𐬌𐬙𐬌·
+Pasča paitišmaranā-handvarətīm, nərvō spāzō manō dādrāna xᵛāvrō. Azdaya [conversation cards](/games/conversation-cards/) aoi vīsvārā̊ zbāyamnā̊, ayāp [finish the saying](/games/finish-the-saying/) aoi vacō-dātā hača aparanāyū-zruuanē. Aoi fravacō pandąm parō-mraocayeiti, vi-zbaraya [communication tips for someone with dementia](/caregiving/communication-tips/).

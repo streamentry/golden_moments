@@ -1,29 +1,33 @@
 ---
-title: "Dɔnniya kɛlɛw démence la mɔgɔ ye, Tabaski ni Noël"
-seoTitle: "Dɔnniya kɛlɛw Tabaski ni Noël fɛ, démence la"
-description: "Dɔnniya kɛlɛ fɛɛrɛw démence la mɔgɔ ye: baara ɲɛfɛ, sirannin, dɔ-caman dɔnniya, jɛn, sɛbɛnnin ani ka dɔnniya sanu kɛ cogo min na ka dɔ sɛgɛn."
+title: "Dimansi Sɔrɔ Mɔgɔ Ka Nisɔndiyaw, Thanksgiving Kɔfɛ"
+seoTitle: "Nisɔndiyaw Ni Thanksgiving Ɲɛnɛmajɛw Dimansi Kɔnɔ"
+description: "Nisɔndiyaw ɲɛnɛmajɛw dimansi sɔrɔ mɔgɔ kɔnɔ: baara, ɲɛfɛ, mɛnni, sɛbɛnw ni video-kan. Ani Thanksgiving walima Christmas nisɔndiyaw ka sɛgɛn ka hɛrɛ kɛ."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Dɔnniya lɛ dɔgɔ ka kɛ, don ni tile fɔlɔ la, ka kɛ mɔgɔ ka dɔ-kɛlɛ ... ka kɛ a ka sanga kɔnɔ. Di a ye baara ɲɛfɛ, i n'a fɔ kɔ ... ko nɔ bɛ, nɔ na ni nɔ kɛ, sɛbɛn ... Ka sirannin ni ka sigi fɔlɔ ... Ka jɛn tɔɔrɔ ye kalan. Ka kɛlɛ min ka ca ... ko kɛ dɔgɔ, dɔnniya dɔgɔ min ka dɛmɛ ... o ka ɲɛ.
+  Nisɔndiyaw ka ɲɛ ka mako, waati ɲɛ kɔfɛ ka ɲɛ, ka ɲɛ mɔgɔ ka ɲɛnɛmaya ka kɔrɔ ye.
+  Baara ɲɛ di mɔgɔ ma, i n'a fɔ ko ka ɲɛ sigi, ka ɲɛ tiɲɛ, walima ka ɲɛnɛ
+  sɛgɛ. Ka mɛnni ni ka sɛbɛnw ni ka kɛnɛya ɲɛnɛ ka sɛgɛn, ka ɲɛfɛ ɲɛ sɔrɔ, ani
+  ka sigi ɲɛ dɔ ka ɲɛ kɔnɔ. Aw ka ko min bɛ se ka kɛ ni hakili bɛ, o kɛ; sɛgɛsɛgɛ
+  nisɔndiyaw ye nisɔndiyaw ɲɛ ye.
 keyPoints:
-  - "Dɔnniya kɛ don fɔlɔ la, i n'a fɔ dumuni walima tile dumuni, ni tile kɔ kɛlɛ bɛ ka ca."
-  - "Di baara ɲɛfɛ: taable ka ɲɛ sɛbɛn, jɛgɛ ka hakilina, pakɛ, sɛbɛn walima dumuni ka sanga kɛ."
-  - "Sɛbɛnnin, kantigi ni ka sirannin fɛn ka ɲɛfɛ, ka dɔnniya lɛ dɔ-caman ... ka sɔrɔ ka kɛ."
-  - "Fɔ sɛgɛnnen mɔgɔ-ka-kɛlɛ ka ɲɛ ko ... ani jɛɲɔgɔnw ka jɛn kɛ, ka mɔgɔ ye sɛbɛn ka jɛn ko."
-  - "Ka sigi-sɔrɔ jɛ ko ... ka bɛlɛkɛ walima pull min tɛ ... ka mɔgɔ ye, ka mɔgɔ-ka-ca ... kelen-kelen."
-  - "Ka fɛn min bɛ mɔgɔ ka hakili ... ni dɔ ka dɔ-caman ... ka mɔgɔ-ka-ye ... ka ɲɛfɔ ni sɛbɛnnin."
+  - "Nisɔndiyaw kɛ waati ɲɛ kɔfɛ, i n'a fɔ wulilaw walima ɲɛnɛmajɛ, ni tile kɔfɛ hakili tɛ ɲɛ."
+  - "Baara ɲɛ di: tabali ɲɛ sigi, fɛn ɲɛ ko, sɛgɛn ɲɛ, ɲɛnɛ ɲɛ kɔnɔ walima kuku ɲɛ."
+  - "Mɛnni ɲɛ, ɲɛnɛ dɔ ni sɛbɛn ɲɛ kɔnɔ ye nisɔndiyaw ɲɛnɛ ɲɛ ka sɛgɛn."
+  - "Ka ɲɛfɛ kɔfɛ ka dɔ ɲɛ ko ɲɛ, ka dimansi sɔrɔ mɔgɔ ye ɲɛfɛ ɲɛnɛ ɲɛ."
+  - "Ka sigi ɲɛ ka kɛ ni dibi walima sweater ye, ani mɔgɔ dɔw kɛ ɲɛ sɔrɔ."
+  - "Aw ka fɛn min bɛ mɔgɔ bɔ ka ɲɛ, o kɛ, i n'a fɔ kuku ɲɛ ni yɛlɛmasɛgɛ ɲɛ."
 faq:
-  - q: "Mɔgɔ min bɛ démence la, o bɛ se ka fɛn jɛ Tabaski la?"
-    a: "I ka baara ɲɛfɛ min bɛ kɛ bi ka kɛlɛ ko, o bɛ se ka kɛ: dumuni kɔ ... haricots, sos ka ɲɛ, taable sɛbɛn, serviettes ... walima biscuits ... dumuni ka bo. Kɔfɛ, i bɛ se ka sɛbɛn ni ka don ... ka kantigi ... Mɔgɔ ye kɛlɛ kɔnɔ ye ko ka kɛ dɔ ye, a ka ɲɛ kɛlɛ kɔ ka ca."
-  - q: "An ka ɲɔgɔn ... bɛ se ka ka ... ka dɔnniya ka ca?"
-    a: "Ɔn, ni a bɛ se. Mɔgɔ-caman ni sɔrɔ-caman ... bɛ mɔgɔ dɔgɔya. Ni k'a sɔrɔ ko ... dɔnniya dɔgɔ, dumuni fɔlɔ, walima mɔgɔ dɔgɔ-dɔgɔ ... jɛ. The Alzheimer's Association ka sɛbɛnnin ko ... mɔgɔ-ka-ca ka fɛn min bɛ se ka kɛ ... kɛ ka hakili ... ani ka don ... ka ɲɛ."
-  - q: "Ni mɔgɔw tɛ ... ka ta ... ka mɔgɔ ka ɲɛ ka ... ... ka kɛ cogo di?"
-    a: "I ka fɔ u ye, ka ɲɛ sɛbɛnnin ... fɛn min bɛ ... u ka ɲɛ, ko o bɛ bɔ mɔgɔ ka hakili dɔ la ... mɔgɔ ka hɛrɛ ... ni u tɛ mɔgɔ ka tɔɔrɔ ye. U kana ... ka ɲɛ ... dɛ kɛ ka kuma ka ... kelen-kelen, ka ... jaabi ... ka waati di. Mɔgɔ ka ɲɛ sɛbɛn ... ka sɛbɛn min ... u ka sɛbɛn ... ka dɛmɛ ka ... ko ka ca."
-  - q: "Fɛn jɛɲɔgɔnw ka Noël ... sɔrɔ ... mɔgɔ min bɛ démence la?"
-    a: "Fɛn dɔgɔ, ka hɛrɛ ... ko bɛ se ka dɔ sɔrɔ bi: dumuni ka dɔ, bɛlɛkɛ ... pull, kantigi ka sɛbɛn, walima sɛbɛn ka album. Ka ɲɛ ... ka fɛn ... ka ɲɛfɛ, ka fɛn ... jɛ ... Sɛbɛnnin ka ... ko kɛ ka fɛn ... bɛ kɛ sɔrɔ ka ... ka ɲɛ ka jɛ ... ni mɔgɔ ka fɛn ... ka ɲɛ."
+  - q: "Dimansi sɔrɔ mɔgɔ bɛ se ka mun kɛ Thanksgiving waati?"
+    a: "I bɛ se ka baara ɲɛ di o ma min bɛ se ka kɛ bi: ɲɛ ɲɛnɛ, ɲɛ sɔrɔ, tabali ɲɛ sigi, serviettes ɲɛ, walima dessert ɲɛ tabali kan. Kɔfɛ, aw bɛ se ka sɛbɛnw ɲɛ ka ɲɛ, walima dɔ ɲɛ ka dɔnkili ni ɲɔgɔn. Nisɔndiyaw kɔnɔ kɛ mɔgɔ ye, o ka ɲɛnɛ ka ɲɛ ka ɲɛ."
+  - q: "An bɛ se ka kɛ nisɔndiyaw nɛgɛ ka ɲɛ wa?"
+    a: "I bɛ se ka o kɛ ni a bɛ se ka kɛ. Mɔgɔ ka ɲɛ ni kɛnɛya bɛ ɲɛ ka tiɲɛ, o de kɔnɔ mɔgɔ dɔw bɛ ɲɛ kɛ dɔgɔ ka ɲɛ, ka waati ɲɛ ka ɲɛ, walima ɲɛ ka nɔ ni dɔgɔ. Alzheimer's Association bɛ kɛnɛya ɲɛ ko aw ka ko min bɛ se ka kɛ ni hakili bɛ, o kɛ."
+  - q: "An bɛ se ka ɲɛfɛ mɔgɔ min ma nɔ ɲɛ ɲɛ, o ɲɛfɛ cogo di?"
+    a: "Aw ka o ɲɛ ka fɔ ɲɛfɛ ɲɛnɛ ka kɔfɛ: fɛn dɔw ɲɛfɛ bɛ ɲɛ, o bɛ bɔ dimansi kɔnɔ, mɔgɔ yɛrɛ de tɛ. Aw ka ɲɛfɛ ka kɛ ko ka ɲɛnɛ ka tɛ, ka kuma dɔgɔ ni ɲɔgɔn bɛ, ka waati di jaabi ma. Mɔgɔ ka ɲɛ sɔrɔ ni nisɔndiyaw ɲɛ, o bɛ dɛmɛ."
+  - q: "Nisɔndiyaw ni dimansi sɔrɔ mɔgɔ ye, ɲɛ nin ye sɔgɔsɔgɔ wa?"
+    a: "Fɛn sɛgɛsɛgɛ ni mɔgɔ bɛ se ka ɲɛ bi: nɛgɛ ɲɛ min bɛ ɲɛ, dibi walima sweater, mɛnni ɲɛnɛ, walima sɛbɛn ɲɛ ni ɲɔgɔn ye. Aw ka fɛn gɛlɛya ni dɔnkili min bɛ se ka ɲɛ, o kɛ tɛ. Mɔgɔ ka sɔrɔ ɲɛ ka fɛn di, i n'a fɔ fɛn ɲɛ ka sɛbɛn ni ɲɛ, o ka ɲɛ ka sɔrɔ."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -36,66 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Dɔnniya bɛ hakili-ɲɛ ... sɛbɛnnin ... ka kɛ, nka a bɛ se ka kɛ ... ka sanga ... ka kɛ tɔɔrɔ. Mɔgɔ min bɛ démence la, dɔnniya fɛɛrɛ ... ka ɲɛ ... ka kɛ dɔgɔ, ka sɔrɔ ... ka dɔ ... ka sigi. Fɛn ... nin ... bɛ kɛ Tabaski, Noël, Sanukan ... ni denmisɛnw ka ... fɛ.
+Nisɔndiyaw bɛ se ka hakilina ɲɛnɛ ɲɛ ka ɲɛ, o bɛ se ka kɛ ɲɛ, dɔgɔ ni fɛn tɛ ɲɛ ka kɛ kɔnɔ. Dimansi sɔrɔ mɔgɔ ye, nisɔndiyaw ɲɛnɛ ɲɛ ka ɲɛ ka dɔgɔ, ka sɛgɛn, ani ka kɛ fɛn min bɛ mɔgɔ ka ɲɛ sɔrɔ ka bɛn. Ɲɛnɛmajɛw nin bɛ kɛ Thanksgiving, Christmas, Hanukkah, Ɲɛ kura, ani nisɔndiyaw ka dɔ kɛ ɲɛnɛ ɲɛ.
 
-## I bɛ se ka dɔnniya sirannin cogo di?
+## Mun na ne bɛ nisɔndiyaw ka ɲɛnɛ ka sɛgɛn cogo di?
 
-Fɔlɔ, mɔgɔ ka kɛlɛ ... ka ... ka dɔnniya ... kɛ a ka kɛlɛ kɔnɔ. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) ka ... ko dɔnniya ka kɛ don fɔlɔ la, katuguni hakili ... ni ... bɛ ... su ... (u bɛ o pɛrɛ ko sundowning). Don ni tile fɔlɔ, lunch walima brunch, bɛ se ka kɛ ka ca ka tɛmɛ dumuni ... su la.
+Aw ka mɔgɔ ka ɲɛnɛmaya ka dɔ ɲɛ, ka nisɔndiyaw ka waati ka kɛ ɲɛ ka kɔrɔ ye. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) bɛ ɲɛ ko nisɔndiyaw ka waati ɲɛ kɔfɛ ka ɲɛ, bawo hakili tɛ ɲɛ ka sɔrɔ ni tile kɔfɛ ni sɛgɛn bɛ ɲɛ (o bɛ wele sundowning). Wulilaw walima ɲɛnɛmajɛ ka ɲɛ bɛ se ka ɲɛ ka tiɲɛ ni nɔgɔ ɲɛ.
 
-- **Ka ɲɛ ... jɛ dɔgɔ.** Dɔnniya dɔgɔ, walima mɔgɔ ... kelen-kelen ka na, bɛ ca ka tɛmɛ taable ... caman.
-- **Baara di mɔgɔw ma.** Ka bɔ ... ka ... ka dumuni ... ka sos ... ka tile ... mɔgɔ ... ka kuma ... I ka ... ka fɛn ... ka dɛmɛ.
-- **Ka sɛbɛn ... dɔgɔ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) ka ... ko ... ka ... ni ... ka ... bɛ hakili ... ka dumuni ... ka ... nka ... ka kɛ dumuni ... ka ɲɛ ... .
-- **Ka fɛn min tɛ ... bɔ.** Ni laada ... ka kɛ tɔɔrɔ walima ... ka kɛ, a bɛ ɲɛ ... ka ... walima ka ... dɔgɔ.
+- **Aw ka ɲɛ ka kɛ dɔgɔ ye.** Mɔgɔ dɔgɔ, walima mɔgɔ dɔw nɔ ka ɲɛ dɔgɔ dɔgɔ, bɛ se ka ɲɛ ka tiɲɛ ni tabali dɔ ɲɛ.
+- **Baara di mɔgɔ ma.** Ka ɲɛnɛmaya ka dɔ ɲɛ ka ɲɛ di, ka ɲɛ sɔrɔ, walima ka ɲɛ ka sɔrɔ ni mɔgɔ ye ka ɲɛ kɛ. Ka ko min ka dɛmɛ, o fɔ cogo kɛrɛnkɛrɛnnen.
+- **Ɲɛnɛ ɲɛ dɔgɔ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) bɛ ɲɛ ko yɛlɛmasɛgɛ ka tiɲɛ bɛ hakili gɛlɛya, ani nɔgɔ walima fɛn ɲɛ min bɛ kɛ ɲɛ, mɔgɔ bɛ se ka o ɲɛ ka dun.
+- **Fɛn min bɛ bɔ, o bɛ bɔ.** Ni ko dɔ bɛ kɛ gɛlɛya walima ka dɔ ɲɛ, o tɛ fɛn ɲɛ. Aw bɛ se ka o bɔ, walima ka dɔ ɲɛ ka dɔgɔ.
 
-## Dɔnniya ... ko kɛ an ka ... ?
+## Mun ye nisɔndiyaw ɲɛnɛ min bɛ se ka kɛ ɲɔgɔn fɛ?
 
-Ka baara ... ni ka kɛlɛ min bɛ se ka kɛ bi, o ... ka ɲɛ ... Mɔgɔ ka kɛlɛ ... ka ... ka ... ka ... ka ... ka kɛ.
+Aw ka baara walima ɲɛnɛ sugandi ka fɛn min bɛ se ka kɛ mɔgɔ ka bi. Mɔgɔ ka ɲɛ sɔrɔ, o ka ɲɛ ka tɛ ka fɛn min bɛ kɛ ɲɛ ye.
 
-1. **Taable sɛbɛn ... ka ... .** Fɔlɔ ka ... ka ... ka serviettes ... ka kɔpɔ ... Serviettes ... ka sigi ka kɛ.
-2. **Ka tile ... ka ... .** Pomme de terre ... haricots verts ... ka sɛbɛn ... ka kɛ ka ... .
-3. **Ka ... , ka ... walima ka sɛbɛn.** Sos ... ka ... biscuits ... ka ... ka kɛ ... ka ... ka ... ka ... .
-4. **Sɛbɛn ka ... .** Ka ... ka ... ka ... ka ... ka ... ka ... .
-5. **Ka ... ka ... ka ... .** ornements ... ka ... couronne ... walima ... ka ... .
-6. **Ka ... kɛlɛ dɔgɔ.** chaînes en papier, ... ka ... walima ... timbres ... ka ... [arts and crafts guide](/activities/arts-and-crafts/) ... ka ... .
-7. **Ka ... ka ... .** chants de Noël ni ... ka ... ka kɛ ... [music guide](/activities/music/) ... ka ... .
-8. **Ka ... album ... ka ... .** Ka ... ka ... ka ... ("Ka ... ka kuma ... ") ... [reminiscence guide](/activities/reminiscence/) ... ka ... .
-9. **Ka ... jɛɲɔgɔnw ni ... .** [Picture bingo](/games/picture-bingo/) ... ni [conversation cards](/games/conversation-cards/) ... ka ... .
-10. **Ka ... ni ... .** [coloring pages](/games/coloring/) ... ka ... .
-11. **Ka ... filim ... .** ... ka ... ka ... ka ... .
-12. **Ka ... ka ... ka ... .** ... ka ... ka ... .
+1. **Tabali ɲɛ sigi ɲɔgɔn fɛ.** Ka ɲɛ ka kɛ ɲɛ sigi, kɔfɛ serviettes, kɔfɛ jɛgɛ. Serviettes ɲɛ bɛ se ka kɛ ka sigi ɲɛ.
+2. **Ɲɛnɛ ɲɛ ka ɲɛ sɛgɛn.** Ka ɲɛnɛ ɲɛ, walima ka ɲɛnɛ ɲɛ ka sɛgɛn tabali kan, o bɛ se ka kɛ ni mɔgɔ dɔw ka sɛgɛn ye, ka sɔrɔ ka ɲɛ ni dɔgɔ.
+3. **Ɲɛ, ɲɛ kɛ walima ɲɛ sigi.** Ka ɲɛ kɔnɔ ɲɛ, ka dessert ɲɛ tabali kan, o bɛ kɛ ka bi ka ɲɛ sɔrɔ.
+4. **Kuku ɲɛ.** Ka ɲɛnɛ ka kɔrɔ ni ka nɔgɔ ɲɛ kɔfɛ, ka mɔgɔ ka kuku ɲɛ ka sɛgɛn. Ka kɛ sɔrɔ ka ɲɛ dɔ ɲɛ.
+5. **Ɲɛfɛ dɔ ɲɛ.** Ka ɲɛfɛ ka dɔgɔ ɲɛ, ka dɔ ɲɛ, i n'a fɔ kɛnɛya ɲɛ walima dugu ɲɛ.
+6. **Kɛnɛya dɔgɔ kɛ.** Ka ɲɛ ka kɛ ni kɔnɔ ɲɛ, ka ɲɛ ka kɛ ni sɛbɛn ɲɛ. [Ka kɛnɛya ɲɛnɛ](/activities/arts-and-crafts/) kɛ ka ɲɛ tɔgɔ.
+7. **Ka dɔ ɲɛ ka mɛnni ɲɛ.** Mɛnni ɲɛnɛmajɛ bɛ se ka ɲɛ, o tɛ dɔgɔ ni mɔgɔ min kuma dɔgɔ. Ka [mɛnni ɲɛnɛ](/activities/music/) ɲɛ ka ɲɛ ka kɛ.
+8. **Ka sɛbɛnw ɲɛ ka ɲɛ nisɔndiyaw kɔnɔ.** Ka sɛbɛnw ɲɛ ka kɛ ni ɲɛnɛ kɔnɔ, ka kuma ɲɛ ("I ka kuma ka fɔ ne ye o tabali kɔnɔ") ka kɛ, mɔgɔ ye jɔ ye ka ɲɛ ɲɛ. [Ɲɛnɛ ɲɛ](/activities/reminiscence/) bɛ kɛ cogo di ɲɛ.
+9. **Ɲɛnɛmajɛ mɛnni ɲɛ.** [Picture bingo](/games/picture-bingo/) bɛ se ka kɛ minutes dɔ kɔnɔ, ani mɔgɔ bɛɛ bɛ se ka o kɛ. [Conversation cards](/games/conversation-cards/) bɛ kuma ɲɛ ɲɔgɔn ma.
+10. **Ka kɛnɛ ni ɲɔgɔn.** [Coloring pages](/games/coloring/) bɛ se ka kɛ dɔ ka ɲɛ ka bɔ ɲɛ, ka dɔgɔ ni denw ni kɔrɔbaw ka tabali kan.
+11. **Ka sɛgɛn dibi ɲɛ.** Ka dibi ɲɛ min bɛ mɔgɔ ka ɲɛ ka tiɲɛ, o bɛ ɲɛ dɔgɔ, ka ɲɛ ka kɛ ni dɔ ye.
+12. **Ka taxi ɲɛ ka ɲɛnɛ ɲɛ kɛ.** Ka ɲɛ ka tiɲɛ ni ɲɛnɛ ɲɛ ka ɲɛ ka kɛ ni ɲɛ dɔgɔ, o bɛ se ka ɲɛ ni mɔgɔ dɔ ye.
 
-Ni ... ka ... an ka ... ka kɛ ... ka ... [household tasks as activities](/activities/household-tasks/) ... ka ... .
+Ni nisɔndiyaw ka baara ye dimansi sɔrɔ mɔgɔ ka ɲɛnɛmaya ka dɔ ye, [baara ɲɛ kɛ ɲɛnɛmajɛ](/activities/household-tasks/) bɛ se ka ɲɛ ka kɛ ni ɲɛ.
 
-## I bɛ se ka jɛɲɔgɔnw ... cogo di?
+## Mun na ne bɛ ɲɛfɛ mɔgɔw ma?
 
-Ka ... ka ... ka ... jɛɲɔgɔnw ... ka ... ka ... ka ... ka ... . The Alzheimer's Association ... ka ... ko ... hakili ... ka ... bɛ bɔ démence la, mɔgɔ ... ma.
+Aw ka ɲɛfɛ mɔgɔw ma, ka fɔ ɲɛ fɛn min bɛ kɛ kɔfɛ, kɛnɛya ɲɛ ka ɲɛ. Alzheimer's Association bɛ ɲɛ ko ka ɲɛ ko hakili ni kɛnɛya gɛlɛya bɛ kɛ dimansi kɔnɔ, mɔgɔ yɛrɛ de tɛ.
 
-- **Ka ... ka ... ka ... .** ka kuma kelen-kelen ... ka ... ka ... ka ... ka ... ka ... .
-- **Ka ... ka ... ka ... .** ni ... ka ... ka ... ka ... ka ... .
-- **Ka ... ka ... ka ... .** ka ... ka ... ka ... ka ... ka ... .
+- **Ɲɛfɛ dɔgɔ ɲɛ:** aw ka kuma ɲɛ ka dɔgɔ, ka waati di kuma ka dɔ ma, ka jaabi ɲɛ tɛ ka kɔrɔ, ani ka mɔgɔ ka kuma ka dɔgɔ ni ɲɔgɔn ye.
+- **Fɛn min bɛ dɛmɛ ni fɛn min bɛ gɛlɛya:** ni mɛnni ɲɛ kɛ dɔgɔ, ni ɲɛnɛ ɲɛ ka gɛlɛya, o fɔ.
+- **Ka mɔgɔw ɲɛ ka ɲɛfɛ:** ka sɛbɛn ɲɛ ka mɔgɔ ka ɲɛ ka ɲɛ, ka kuma dɔ ɲɛ, walima ka video kan ɲɛ nisɔndiyaw kɔfɛ.
 
-[Communication tips](/caregiving/communication-tips/) ... ka ... .
+Aw ka [kuma ɲɛnɛmaya](/caregiving/communication-tips/) ɲɛ ka kɔrɔ.
 
-## Ni ... ka ... bɛ ... ?
+## Ni ɲɛnɛ bɛ kɛ ka gɛlɛya ɲɛ?
 
-Ka sigi-sɔrɔ ... ka ... ka ... ka ... ka ... , ka ... ka ... ka ... bɛlɛkɛ walima pull ... ka ... . "An ka ... ka ... ?"
+Ka sigi ɲɛ dɔgɔ ka ɲɛ kɔnɔ, mɔgɔ dɔw ka ɲɛ ni dɔgɔ, ka sigi ɲɛ dibi, sweater walima fɛn dɔ min bɛ mɔgɔ ka ɲɛ. Aw ka o di ɲɛ ka kɔrɔ: "An bɛ se ka sigi dɔgɔ ka ɲɛ ka kɛ wa?"
 
-Ka ... ka ... ka ... ka ... ka ... ka ... ka ... ka ... . Ni mɔgɔ ... ka ... ka ... ka ... ka ... ka ... .
+Tabali bɔ, ɲɛ ka dɔgɔ, walima ɲɛ ka dɔgɔ ɲɛ ka kɛ, o tɛ gɛlɛya. Ni mɔgɔ ka ɲɛ, dɔgɔ kuma, mɛnni ɲɛ, walima ka ɲɛ ka ɲɛ ka taa dɔ kɔnɔ, o bɛ dɛmɛ ka tɛmɛ ka kuma ɲɛ. Aw ka [late-day restlessness](/caregiving/late-day-restlessness/) ka ɲɛ ka kɔrɔ, ɲɛ kɔfɛ.
 
-[late-day restlessness](/caregiving/late-day-restlessness/) ... ka ... .
+## Mɔgɔw min bɛ ka ɲɛ, dɔgɔ ye, bɛ se ka nɔ ka na cogo di?
 
-## Ka ... ka ... ka ... bɛ ... cogo di?
+Video kan bɛ se ka kɛ ni mɔgɔ dɔw ye ka nɔ ka na ni tiɲɛ tɛ. Alzheimer's Association bɛ ɲɛ ko aw ka video kan ɲɛ ka kɛ ni sigi ye: nisɔndiyaw mɛnni ɲɛ, sɛgɛn ɲɛ ka kɛ kɔfɛ sɛbɛnw, ka ɲɛnɛ ɲɛ ka kɛ ni ɲɔgɔn, walima dibi ɲɛ ka ɲɛ ka kɛ ni ɲɔgɔn waati kelen na. Aw ka kan ɲɛ dɔgɔ, ani ka mɔgɔw ɲɛ ka kuma ɲɛ ni ɲɔgɔn, bawo kuma ɲɔgɔn ɲɛ bɛ gɛlɛya. [Phone and video call guide](/activities/phone-and-video-calls/) bɛ kɛ cogo di ɲɛ.
 
-Video call ... ka ... ka ... ka ... . The Alzheimer's Association ... ka ... ka ... ka ... ka ... ka ... . ka ... ka ... ka ... ka ... ka ... .
+Ni mɔgɔ bɛ memory care kɔnɔ, aw ka ɲɛ ka mɔgɔ ɲɛ ka kɛ ka kɛ-kɛ kɔnɔ ka ɲɛ, ka baarakɛlaw dɛmɛ ka video kan ɲɛ. [Visiting someone in memory care](/activities/visiting/) bɛ fɛn min bɛ kɛ ka taa, ani ka bɔ cogo di.
 
-Ni mɔgɔ ... memory care la, ka ... ka ... ka ... . [phone and video call guide](/activities/phone-and-video-calls/) ... ka ... ka ... ka ... . [visiting someone in memory care](/activities/visiting/) ... ka ... ka ... .
+## Nisɔndiyaw sɔgɔsɔgɔ min bɛ se ka di dimansi sɔrɔ mɔgɔ ma?
 
-## Fɛn jɛ min bɛ se ka di démence la mɔgɔ ma?
+Sɔgɔsɔgɔ min tɛ gɛlɛya, min bɛ se ka kɛ sɔrɔ sisan: nɛgɛ ɲɛ min bɛ ɲɛ, dibi walima cardigan, mɛnni ɲɛnɛ, calendar min bɛ ɲɛ ni ɲɛ ka fɔ ka ɲɛ, walima sɛbɛn ɲɛ ni ɲɔgɔn ye. Alzheimer's Association bɛ ɲɛ ko aw ka fɛn min bɛ ɲɛ, fɛn min bɛ gɛlɛya ni ɲɛ, ani mɛnni ɲɛ min bɛ gɛlɛya, o kɛ tɛ.
 
-Fɛn dɔgɔ, hɛrɛ ... ka ... ka ... : dumuni ka dɔ, bɛlɛkɛ walima pull, kantigi ... calendrier à gros caractères walima album ... ka ... . The Alzheimer's Association ... ka ... ko ... fɛn ... ka ... ka ... ka ... jeux de société ... ka ... ka ... .
+Di bɛ se ka kɛ i n'a fɔ sɔrɔ. Ni mɔgɔ ka ɲɛ ka kɛ ni ɲɛnɛ ɲɛ, walima ka nɛgɛ min ɲɛ ka kɛ ni mɔgɔ ye, o bɛ se ka mɔgɔ ka nisɔndiyaw ɲɛ. [Photo pairs](/games/photo-pairs/) bɛ sɛbɛnw dɔw ɲɛ ka kɛ mɛnni ɲɛ min bɛ se ka kɛ ka ɲɛ, ka ɲɛ ka ɲɛ, browser kɔnɔ.
 
-Ka di ... ka ... ka ... ka ... . Biscuits ... ka ... ka ... ka ... . [photo pairs](/games/photo-pairs/) ... ka ... ka ... .
+## Aw yɛrɛ hakili ɲɛ hɛrɛ
 
-## I yɛrɛ ka ... fɛ fana
-
-Dɔnniya ... ka ... ka ... ka ... . Ka ... ka ... ka ... ka ... ka ... . Ni i walima mɔgɔ min bɛ i ka ... ka ... ka ... , ka ... ka ... ka ... ka ... ka ... . [caregiver self-care](/caregiving/caregiver-self-care/) ... ka ... .
+Nisɔndiyaw bɛ baara dɔ ɲɛ kɛ ka bɔ dimansi sɔrɔ mɔgɔ ka baara kɔnɔ. Aw ka mɔgɔ dɔw ka kɛ ka dɔ ɲɛ, ka fɛn min bɛ gɛlɛya ɲɛ, ani ka waati ɲɛ ka ɲɛ ka ɲɛ, mɔgɔ dɔw bɛ mɔgɔ ka ɲɛnɛ kɔnɔ. Ni aw walima mɔgɔ min bɛ aw ka dɛmɛ, ni a tɛ ɲɛ, lakana ɲɛ kɛ kɔfɛ ka ɲɛ, walima video kan, o bɛ se ka kɛ ɲɛ kɛ. [Caregiver self-care](/caregiving/caregiver-self-care/) bɛ dɛmɛ dɔ fɔ.

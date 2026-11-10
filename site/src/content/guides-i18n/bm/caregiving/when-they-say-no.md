@@ -1,36 +1,29 @@
 ---
-title: "Ni hakilijigin bana bɛ mɔgɔ la, a b’a bali walima a bɛ dimi baara la"
-seoTitle: "Ni hakilijigin bana bɛ mɔgɔ la, a b’a bali baara la"
-description: "Mun na mɔgɔ min bɛ hakilijigin bana na bɛ se ka baara bali walima ka dimi, i bɛ se ka mun kɛ, i kana mun kɛ, ani tuma min na dɔgɔtɔrɔ ka kan ka wele."
+title: "Ni mɔgɔ min bɛ dementia la bɛ «ayi» fɔ kɛlɛ kan"
+seoTitle: "Ni mɔgɔ min bɛ dementia la bɛ «ayi» fɔ kɛlɛ kan"
+description: "Mun na mɔgɔ min bɛ dementia la bɛ ayi fɔ walima a bɛ dimi kɛlɛ kan, a bɛ kɛ cogo di, a bɛ ko ta ani a bɛ ko bɔ, ni dokotoro ka wajibi ye."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ni hakilijigin bana bɛ mɔgɔ la ani a ko ayi, a sɔn n’a ye hɛɛrɛ la, k’a
-  lajɛ kokura kɔfɛ walima ka fɛn wɛrɛ di a ma. A bali bɛ se ka kɛ sababu ye:
-  baara in bɛ se ka gɛlɛya a ma walima ka kɛ i ko denmisɛnw ta, a sɛgɛnnen
-  don, a bɛ dimi farikolo la, kɔnɔnajɛ b’a la, walima mankan ni ɲagami caman
-  b’a ɲagami. I kana sɔsɔ a fɛ walima k’a karaba. Baara nɔgɔya, sugandi fila
-  di a ma, walima a deli a ka i dɛmɛ. Ni a kɛcogo bɛ yɛlɛma yɔrɔ kelen walima
-  joona, kɛrɛnkɛrɛnnenya la ni bana walima fura kura b’a kan, a ka kan ka taa
-  dɔgɔtɔrɔ fɛ joona.
+  Ni mɔgɔ min bɛ dementia la bɛ «ayi» fɔ, aw ka a qabul kɛ hɛrɛ la, k'a sɔrɔ tuma wɛrɛ la walima k'a fɛ kɛlɛ wɛrɛ di a ma. Ayi bɛ kɛ ni sababu ye ko: kɛlɛ bɛ a ye gɛlɛn ye walima a bɛ a ye denw kɛlɛ ye, a sɛgɛn bɛ, a bɛ dɔrɔn ka ɲɛnɛ, a bɛ fɔnɔ, walima sɔgɔsɔgɔ bɛ a ka hakili ɲɛnɛ. Aw kaso ka ɲɛsin mɔgɔ ma, aw kaso ka a ɲɛsin sɔrɔ. Aw ka kɛlɛ dɔ ɲɛ kɛ ka ɲɛfɛ, sinsin kɛlɛ fila ma, walima k'a deman ka ɲɛnɔgɔnya. Sɔgɔsɔgɔ ni dɔrɔgɛ kura ye ni fɛn o fɛn bɛ kɛ tuma dɔ la, o ye kɛ dokotoro ye cɛ kɔnɔ.
 keyPoints:
-  - "« Ayi » ye jaabi ye min ka kan ka bonya, a tɛ gɛlɛya ye min ka kan ka se sɔrɔ a kan."
-  - "A bali bɛ sababu sɔrɔ tuma caman na: a ka gɛlɛn, a bɛ i ko denmisɛnw ta, sɛgɛn, bana, dusukasi, walima ɲagami caman."
-  - "I yɛrɛ bɔ o la, i ka makɔnɔ, k’a lajɛ kokura kɔfɛ, waati wɛrɛ la, walima cogo nɔgɔman na."
-  - "A deli a ka i dɛmɛ, o ka fisa ni k’a ɲini a fɛ a ka a jira."
-  - "I kana sɔsɔ a fɛ, k’a karaba, k’a ɲininka walima k’a ladilan. I yɛrɛ lajɛ fana ni i bɛ teliya walima k’a datugu."
-  - "Ni a kɛcogo bɛ yɛlɛma yɔrɔ kelen walima joona, kɛrɛnkɛrɛnnenya la ni bana walima fura kura b’a kan, a ka kan ka taa dɔgɔtɔrɔ fɛ joona."
+  - "«Ayi» ye jaabi ye min ka kan ka hakilina, o ma ye kɛlɛ ye min ka kan ka ɲɛsin."
+  - "Ayi bɛ kɛ ni sababu ye, a bɛ kɛ kɛlɛ gɛlɛn ye, denw kɛlɛ ye, sɛgɛn, sɔgɔsɔgɔ, walima hakili ɲɛnɛ."
+  - "Aw ka bɔ, aw ka tuma wɛrɛ ɲɛmɔgɔ, walima aw ka kɛlɛ dɔ ɲɛ kɛ ka ɲɛfɛ."
+  - "Aw ka a fɛ ka dɛmɛ wɛrɛ ɲɛ, o bɛ ɲɛ ni aw ka a ka kɛlɛ kɛ a ye."
+  - "Aw kana ɲɛmɔgɔya, aw kana a kɛ, aw kana a ɲɛnɛ ni ɲɛfɛ. Aw ka aw yɛrɛ ɲɛnɛ k'aw ka ɲɛmɔgɔya walima sɔrɔ aw ka kɛ."
+  - "Sɔgɔsɔgɔ walima hakili ɲɛnɛ bɛ ka ɲɛ cogo dɔ la ka dɔ wɛrɛ kɛ, o kɔnɔ ni infeksiyɔn walima dɔrɔgɛ kura ye, o bɛ ka kɛ dokotoro ye cɛ kɔnɔ."
 faq:
-  - q: "Yala a ka ɲi ka a to a ka baara bɛɛ bila wa?"
-    a: "Ɔwɔ, don kelen kelen bɛɛ la. Sigili ɲɔgɔn fɛ, dɔnkilida lamɛnni walima lamini kɛli ka kɛnɛ lajɛ, o bɛ se ka dafa. Nka ni mɔgɔ dɔ bɔra ka diya sɔrɔ fɛn bɛɛ la dɔgɔkun caman kɔnɔ, i k’a fɔ a ka dɔgɔtɔrɔ ye, bawo dusukunnata, dimi walima kɛnɛya gɛlɛya wɛrɛw bɛ se ka kɛ o la."
-  - q: "Mun na a bɛ fɛnw bali minnu diyara a ye fɔlɔ?"
-    a: "Kɔrɔlen ka baara min diyara a ye, o bɛ se ka kɛ dimi ye ni a bɛ seko de wajibiya minnu gɛlɛyara hakilijigin bana fɛ, ani mɔgɔ in bɛ se ka maloya. I bɛ se k’o baara kelen fan nɔgɔman dɔ lajɛ, i n’a fɔ butɔniw tila-tila sanni ka kɔsɔ kɛ, walima nakɔ jaw lajɛ sanni ka jiri falen."
-  - q: "Yala ne ka kan k’a lasɔn a ma wa?"
-    a: "Ayi. Ni mɔgɔ dɔ karaba ka fɛn kɛ min gɛlɛyara a ma hakilijigin bana fɛ, o ye fɛn ye min bɛ dimi lawuli. Ayi sɔn, kuma yɛlɛma, k’a di a ma kokura kɔfɛ walima cogo wɛrɛ la."
-  - q: "Tuma jumen na a kɛcogo yɛlɛmani ye kɔrɔtɔko ko ye?"
-    a: "Aw ka sigida ka kɔrɔtɔko nimɔrɔ wele ni mɔgɔ dɔ bɛ farati la walima ni kɔrɔtɔko kɛnɛya taamasiɲɛw b’a la. Ni hakilijigin walima kɛcogo bɛ yɛlɛma joona lɛrɛw walima don damadɔ kɔnɔ, kɛrɛnkɛrɛnnenya la ni farigan, bana walima fura kura b’a kan, a ka dɔgɔtɔrɔ wele joona."
+  - q: "Ɲɛnɔgɔnya ka ɲɛ ka kɛlɛ bɛɛ bɔ, o bɛ kɛ ɲɛ wa?"
+    a: "Ɔwɔ, don dɔ la. Aw ye sigi ka ɲɛfɛ, aw ye fɛn dɔ ye ka dɔ mɛn, walima aw ye yɛrɛ ɲɛ ka to, o ka kɔ bɛ se ka ɲɛ. Ni mɔgɔ dɔ ka ɲɛfɛ kɛlɛ bɛɛ kɔ tile dɔ kɔnɔ, o kɔrɔ aw ka a fɔ a dokotoro ye, bawo ni hakilina kɔrɔyɔrɔ, fɔnɔ walima wɛrɛ dɔ bɛ ka ɲɛ kɔnɔ."
+  - q: "Mun na ɲɔgɔn bɛ kɛlɛ min ka ɲɛ tuma bɛɛ, o bɛ «ayi» fɔ?"
+    a: "Kɛlɛ kura bɛ ka gɛlɛya ni a bɛ kɛ kɛlɛ ye min ka kan ka hakili ɲɛnɛ min dementia ka gɛlɛya kɛ, ani mɔgɔ bɛ ɲɛ sɔrɔ. Aw ka kɛlɛ kɔnɔ fɛn dɔ fitinin ɲɛ kɛ, i n'a fɔ kɛlɛ ɲɛ kɛ ka bɔ, walima ka jiri ɲɛ kɛ ka kɛlɛ yɛrɛ."
+  - q: "Ne ka kan ka a ɲɛnɛ k'a ka hakilina?"
+    a: "Ayi. Mɔgɔ ka kan ka kɛlɛ min dementia ka gɛlɛya kɛ, o ɲɛ kɛ ka a ɲɛsin, o bɛ mɔgɔ ka hakili ɲɛnɛ. Aw ka a qabul kɛ, fɛn wɛrɛ ɲɛ ko, k'a sɔrɔ tuma wɛrɛ la walima k'a fɛ kɛlɛ wɛrɛ di a ma."
+  - q: "Tuma jumɛn ye dɔ ye ka ko ta ka kɛ kɛlɛ ye?"
+    a: "Ni mɔgɔ bɛ gɛlɛya la walima a bɛ sɛgɛnɛ, aw ka 15 wele. Ni hakili sɔgɔsɔgɔ bɛ kɛ, walima ko bɛ ta sɛbɛn lɔ, ni a bɛ kɛ ni sumaya, infeksiyɔn walima dɔrɔgɛ kura ye, aw ka dokotoro wele kɔrɔ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -52,87 +45,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-I bɛ fɛnw labɛn, ka tulon dɔ walima taama surun di, k’a mɛn ko « Ayi ». Walima baara daminɛna ka ɲɛ, nka a laban na tabalɛti bilalen don ani kuma gɛlɛn dɔ fɔra. O bɛ mɔgɔ dusu tiɲɛ, wa a ka ca. A bali ni a dimi, olu ye cikan ye tuma caman na, u tɛ kuncɛbaya ye. Ni i bɛ se ka cikan in faamuya, o bɛ se k’i jira fɛn min ka kan ka kɛ nata la.
+Aw bɛ kɛlɛ bɛɛ sigi, aw bɛ o kɔ ka ɲɛnɔgɔnya walima ka sira ta, aw ka «Ayi» ɲɛ. Walima kɛlɛ bɛ ɲɛ kɛ ka ɲɛfɛ, k'a ka laban ye dɔ min bɛ bɔ ni kɔnɔ fɛɛrɛ ye, ani sɛgɛn min bɛ kɛ kɛlɛ kɔ. A bɛ dimi, nka a bɛ kɛ ko bɛɛ ye. Mɔgɔ ka «ayi» bɛ kɛ jaabi ye min bɛ a ka kan ka ɲɛsin, ani a bɛ kɛ ko dɔ ye min bɛ fɔ. Ni aw ka a ɲɛ ka dɔn, o bɛ ka kɛ ɲɛ ye ka fɛn dɔ fɛ.
 
-## Mun na mɔgɔ min bɛ hakilijigin bana na bɛ baara bali?
+## Mun na mɔgɔ min bɛ dementia la bɛ kɛlɛ bɔ?
 
-Tuma caman na sababu bɛ yen, hali ni mɔgɔ in tɛ se k’a fɔ daɲɛw la. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) b’a fɔ ko ban bɛ se k’a jira ko mɔgɔ in tɛ se ka baara kɛ walima siranya b’a la k’a lajɛ. Sababu minnu ka ca, olu ye ninnu ye:
+Ko bɛɛ kɛ sababu ye, hali ni a tɛ se ka a fɔ kuma la. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ko a bɛ kɛ kɛlɛ ma ye, mɔgɔ bɛ kɛlɛ kɛ walima a bɛ siran ka kɛlɛ kɛ. Sababu caman bɛ yan:
 
-- **A bɛ i ko a ka gɛlɛn.** Baara in bɛ seko de wajibiya sisan minnu gɛlɛyara hakilijigin bana fɛ, wa dɛsɛ sɔrɔli mɔgɔ wɛrɛ ɲɛ na, o bɛ maloya lase.
-- **A bɛ i ko denmisɛnw ta.** Mɔgɔkɔrɔbaw bɛ ja denmisɛnwmanw, kumakan denmisɛnwmanw ani baara minnu bɛ i ko u dilanna denmisɛnw de ye, olu kɔlɔsi.
-- **Sɛgɛn.** Mɔgɔ caman fanga bɛ dɔgɔya tile kɔfɛ. Aw ye [suwula kɔfɛ baara dusumanw](/caregiving/late-day-restlessness/) lajɛ.
-- **Farikolo dusukasi.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) bɛ dimi, sunɔgɔ dɛsɛ, yeli walima mɛnni gɛlɛya, kɔnɔ gɛlɛya, kɔnɔnajɛ, jiminnajɛ ani fura kura kɔlɔlɔw fɔ i n’a fɔ fɛnw minnu bɛ se ka tɔɔrɔ sababu ye.
-- **Fɛn caman bɛ kɛ ka taa ɲɔgɔn fɛ.** Telewisɔn mankanba, kumaɲɔgɔnya caman walima so fa, olu bɛ se ka mɔgɔ ɲagami.
-- **A bɛ i ko a karabalen don.** NIA b’a fɔ ko ni mɔgɔ karabalen don ka fɛn kɛ min gɛlɛyara a ma Alzheimer bana fɛ, walima ka ko walima mɔgɔw hakili jigin, o bɛ se ka dimi lawuli.
-- **Dusukunnata.** Ni fɛnw tɛ diya mɔgɔ ye tugun, o bɛ se ka kɛ dusukunnata taamasiɲɛ ye, min ka kan ka fɔ dɔgɔtɔrɔ ye.
-- **A t’a fɛ kɛrɛnkɛrɛnnenya la.** Mɔgɔkɔrɔbaw ka kan ka se k’a fɔ ko ayi.
+- **A bɛ gɛlɛn.** Kɛlɛ bɛ a ye kɛlɛ ye min dementia ka gɛlɛya kɛ, ani mɔgɔ ye ɲɛ kɛ mɔgɔ ɲɛ kɔnɔ, o bɛ mɔgɔ ka hɛrɛ bɔ.
+- **A bɛ denw kɛlɛ ye.** Mɔgɔ kɛnɛ bɛ ɲɛ ka sɛnɛkɛ denw ni kɛlɛ min bɛ kɛ denw ka kɛlɛ ye.
+- **Sɛgɛn.** Mɔgɔ caman ka dɔrɔn bɛ ka ɲɛ tile la ka tɛmɛ. Aw ye [tile ka kɛlɛ dɔrɔn](/caregiving/late-day-restlessness/) ɲɛ.
+- **Fɔnɔ.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ko fɔnɔ, dɔgɔ sɔrɔli, ja walima tulu ka ɲɛnɛ, cɛnin, dɔ, ji kɛlɛ, ani dɔrɔgɛ kura ka kɛlɛ bɛ sababu ye ka hakili ɲɛnɛ.
+- **Ko caman bɛ kɛ.** Sɛnɛfɔ ni kumaw caman bɛ kɛ walima mɔgɔw caman bɛ yɔrɔ dɔ la, o bɛ ka mɔgɔ gɛlɛya.
+- **Ni ɲɛmɔgɔya.** NIA ko mɔgɔ ye kɛlɛ dɔ kɛ tuma min dementia ka gɛlɛya kɛ, walima ko dɔ ɲɛ ko fɛn dɔ ka kɛ, o bɛ hakili ɲɛnɛ.
+- **Hakili ɲɛnɛ dɔrɔn.** Kɛlɛ fɛn ɲɛ bɛɛ ka dɔrɔn, o bɛ kɛ dimi ye, o ye dɔrɔgɛ ka sababu ye, o kɔrɔ aw ka a fɔ dokotoro ye.
+- **Ɲɛ tɛ ka kɛ.** Mɔgɔ bɛ se ka «ayi» fɔ.
 
-## Ni a ko ayi, ne ka kan ka mun lajɛ?
+## Ni a bɛ «ayi» fɔ, mun na ne ka kan ka kɛ?
 
-Ayi sɔn hɛɛrɛ la, o kɔ i ka fɛn dɔ yɛlɛma: waati, baara, gɛlɛya hakɛ walima i bɛ a ɲini cogo min na.
+Aw ka ayi qabul kɛ hɛrɛ la, k'a sɔrɔ aw bɛ fɛn dɔ ɲɛ kɛ: waati, kɛlɛ, a gɛlɛya walima aw ka kumakan.
 
-1. **A to sisan.** « O tɛ baasi ye. N’a sɔrɔ kɔfɛ. » O kɔ, i ka taa fɛn wɛrɛ la k’a sɔrɔ i ma ninakili kɛ.
-2. **A lajɛ kokura kɔfɛ.** Alzheimer's Association b’a fɔ k’a lajɛ kokura kɔfɛ, walima tile waati wɛrɛ la.
-3. **A kɛ fitinin ye.** Bɛnkan kelen sanni ka tulon dafalen kɛ. Finimugu kelen sanni ka finiko kɛ. Jaw dɔgɔya, sugandiw dɔgɔya, jaw to u bɛ ye.
-4. **Sugandi fila di a ma.** « I b’a fɛ ka kɔnɔw jaw lajɛ walima ka dɔnkilida dɔ lamɛn wa? » Sugandi bɛ dɛmɛ ka kunnafoniya segin a ma.
-5. **A deli a ka i dɛmɛ, a kana a ɲini a fɛ a ka a jira.** « I bɛ se ka n dɛmɛ ka ninw tila-tila wa? » walima « I bɛ se k’a fɔ ne ye kulɛri jumen ka ɲi kosɛbɛ wa? » Ni mɔgɔ b’a ye ko a nafa bɛ yen, o tɛ kelen ye ni k’a kɔrɔbɔ.
-6. **I yɛrɛ k’a daminɛ.** Baara daminɛ a kɛrɛfɛ k’a sɔrɔ i m’a ɲininka. Mɔgɔ caman bɛ fara a kan ni fɛn dɔ bɛ sen na kaban, wa ni u ma fara a kan, aw ye waati kɛ ɲɔgɔn fɛ hali bi.
-7. **Taa fɛn wɛrɛ la min bɛ farikolo lamaga walima ka dusu saalo.** Taama surun, dɔnkilida, dumuni fitinin, finiw dabɔli, walima [ninakili dusuman](/games/calm-breathing/) kɛli ɲɔgɔn fɛ. NIA b’a fɔ ka hakili bila dɔnkilida, gafɛ walima taama la.
-8. **A to a k’a kɛ a yɛrɛ sago la.** Ni a b’a fɛ k’a tulon cogo wɛrɛ la ka tɛmɛ sariya kan, a sɔn o ma. Alzheimer's Association b’a ladili ko ka yɛlɛma.
+1. **A bɔ sini.** «A ka ɲɛ, tuma wɛrɛ bɛ na.» Kɛlɛ wɛrɛ ɲɛ ka ɲɛfɛ, aw kana sɛnɛ.
+2. **Tuma wɛrɛ la k'a sɔrɔ.** Alzheimer's Association ko aw ka tuma wɛrɛ la walima tile wɛrɛ la.
+3. **A ka dɔrɔn.** Tɛmɛ dɔ nɔ, kɛlɛ bɛɛ nɔ. Ji dɔ nɔ, kɔnɔ tasi nɔ. Sɛnɛ dɔrɔn, sɛnɛ dɔrɔn, ɲɛnɛ bɛ kɛ.
+4. **Kɛlɛ fila di.** «I b'a fɛ ka sɛnɛ ni kuruw ye walima ka matɔ ye?» Kɛlɛ sugandi bɛ hakili ɲɛ kɔnɔ ka dɔ ye.
+5. **Dɛmɛ ɲɛ kɛ, kɛlɛ ɲɛ kɛ.** «I b'a fɛ ka n dɛmɛ ka nin kɛ?» walima «I b'a fɛ ka a ye dɔ fɔ, ni nin ye jɔnjɔn ye?» Mɔgɔ bɛ wele ka dɛmɛ, o ye ɲɛ ye ka mɔgɔ ka ɲɛ kɛ.
+6. **Aw yɛrɛ ka kɛlɛ dau.** Aw ka sigi ka fɛ ni a ye, k'a ɲɛ kɛ ka ɲɛmɔgɔya. Mɔgɔ caman bɛ kɔnɔ ka kɛlɛ sɔrɔ fɛn bɛ kɛ kɔ, nka hali ni tɛ, aw ka waati ɲɛ ni a ye.
+7. **Kɛlɛ dɔ ɲɛ kɛ min bɛ kɛ ni fɛn ye, walima min bɛ hakili ɲɛnɛ.** Tambe dɔ, dɔnkili, dɔ, ɲɛ kɛ suman, walima a ka kɛlɛ ɲɛ kɛ ka [hakili ɲɛnɛ ni ɲɛ sigi](/games/calm-breathing/). NIA ko aw ka hakili kɔrɔ ka dɔnkili, kɛlɛ, walima tambe.
+8. **Ka kɛlɛ kɛ a ka cogo ye.** Ni a b'a fɛ ka kɛlɛ kɛ a ka cogo ye ka tɛmɛ laɲini ka cogo kan, aw ka a sɔrɔ. Alzheimer's Association ko aw ka ɲɛ kɛ ka mɔgɔ ka kɛ.
 
-## Ni a dimina, ne ka kan ka mun fɔ?
+## Ni a ɲɛsin, mun na ne ka kan ka fɔ?
 
-I ka sumaya, i ka kuma dɔgɔya, k’a dusu saalo. [Alzheimer's Association ka ladilikan dimi kan](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) b’a fɔ k’i yɛrɛ bɔ o la k’a yamaruya ɲini, ka kuma nɔgɔlen ni ɲumanw fɔ, ani ka sugandi fila di a ma. Kuma minnu bɛ se ka kɛ o cogo la:
+Aw ka ɲɛnɔgɔnya, aw ka kan ka ɲɛmɔgɔya, aw ka a dɛmɛ hɛrɛ la. [Alzheimer's Association ka kumakan ko sɔgɔsɔgɔ kan](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ko aw ka a bɔ ka a dusu, aw ka hakili ɲɛnɛ ni kɛlɛ fila ye min bɛ ɲɛ kɛ. Kumaw nin bɛ kɛ kɔfɛ:
 
-- « Hakɛ to, nin bɛ mɔgɔ tɔɔrɔ. An k’a dabila. »
-- « I bɛ ka ɲɛ. Ne bɛ yan. »
-- « Yala waati b’i fɛ ka n dɛmɛ fɛn wɛrɛ la wa? »
-- « An ka te min sanni wa? »
+- «Ne ye hakɛto. Nin kɛlɛ bɛ ne ɲɛ kɛ dɔ. An ka bɔ.»
+- «I bɛ ɲɛ kɛ. Ne bɛ yan.»
+- «I bɛ se ka dɛmɛ ne ma fɛn wɛrɛ la?»
+- «An bɛ se ka ji ka ɲɛ kɛ walasa?»
 
-O kɔ, baara dabila k’a sɔrɔ i m’a kɛ ko belebele ye. Anw ka [kumaɲɔgɔnya ladilikɛw](/caregiving/communication-tips/) bɛ fɛn wɛrɛw fɔ i bɛ se ka minnu fɔ.
+Kɔfɛ aw ka kɛlɛ bɔ hɛrɛ la, aw kana a kɛ fɛn ba ye. [Ko kumaw kan an ka kumakan](/caregiving/communication-tips/) bɛ kuma caman di.
 
-## Ne kana mun kɛ?
+## Mun na ne ka kan ka dɔn?
 
-Jaabi dɔw minnu bɛ bɔ an na cogo la, olu bɛ se ka ko juguya tuma caman na.
+Ko dɔ bɛ kɛ min bɛ mɔgɔ dusu.
 
-- **Sɔsɔli walima karaba.** « I ka kelen wɛrɛ kɛ » walima « I bɛ o fɛ » o tɛ dɛmɛ tuma caman na.
-- **Ɲininkali walima ladilanni.** « I b’a dɔn nin ye mun ye » walima « Ayi, o tɛ ɲɛ » o bɛ degun fara a kan.
-- **K’a ta i yɛrɛ ko la.** NIA bɛ ladonbagaw hakili jigin ko bana de bɛ nin yɛlɛmaniw lase, a tɛ mɔgɔ yɛrɛ ye.
-- **Ka datugu walima ka teliya.** Alzheimer's Association b’a fɔ i kana i kan kɔrɔta, i kana siranya jira, i kana a datugu, i kana a digi, i kana a jalaki, i kana a sɔngɔ dɔgɔya, i kana a bila, i kana sɔsɔ a fɛ, ani i kana yɛlɛma yɔrɔ kelen a kɔ k’a sɔrɔ a m’a ye.
-- **Jalaki kɛli.** « Ne ye nin bɛɛ labɛn i de ye » o bɛ aw fila bɛɛ dusu tiɲɛ.
-- **Tɔgɔ jugu la.** « Kuncɛbaya » walima « Gɛlɛn » o bɛ sababu tiɲɛ dogo, wa o b’a to a ɲɛnabɔli ka gɛlɛya.
+- **Ɲɛmɔgɔya.** «Aw ka sɛnɛ bɛɛ» walima «I b'a ka ɲɛ» bɛ mɔgɔ ka hɛrɛ bɔ.
+- **Ɲɛnɛ walima sɔrɔ ɲɛ dɔ.** «I b'a dɔn ni nin ye mun ye» walima «Ɔnɔ, o tɛ jɔnjɔn» bɛ ɲɛ kɔnɔ.
+- **A ɲɛ ka kɛ ne ye.** NIA ko dɔnkili bɛ kɛ ko ye min bɛ kɛ ni mɔgɔ ye, o tɛ mɔgɔ yɛrɛ ye.
+- **Ka ɲɛ kɛ walima ka sɛnɛ sɔrɔ.** Alzheimer's Association ko aw kana kumakan sɛnɛ, kana sɔgɔsɔgɔ, kana mɔgɔ ka kɛlɛ ɲɛ ka bɔ, kana mɔgɔ dusu, kana mɔgɔ ɲɛ, kana ɲɛmɔgɔya, kana ɲɛ kɛ, ani kana kɛlɛ suman kɛ a ɲɛ kɔrɔ.
+- **Ka kɛlɛ kɛ ni ka fɔ ko ne ka kɛ.** «Ne ye nin bɛɛ sigi aw ye» bɛ ɲɛ kɛ ka gɛlɛya ɲɛ kɛ.
+- **Ka tɔgɔ ta.** «Ɲɛnɔgɔnya» walima «gɛlɛya» bɛ sababu ɲɛ tile ka kɛ, o bɛ ka ɲɛnɛ.
 
-## Ne bɛ se ka a dɔn cogo di ko mun bɛ a bali segin-segin kɔ?
+## Ni a bɛ ayi fɔ tuma caman, mun na ne ka kan ka dɔn?
 
-Sɛbɛn fitinin dɔ kɛ dɔgɔkun kelen walima fila kɔnɔ. NIA b’a fɔ ko kɛcogo yɛlɛmaniw sɛbɛnni bɛ se ka ladonbagaw ni kɛnɛya baarakɛlaw dɛmɛ u ka taamasiyɛn dɔ dɔn ani k’a sababu ɲini.
+Ka dɔnkili jaabi kɛ dɔ ni don fila kɔnɔ. NIA ko dɔnkili bɛ kɛ ka dɛmɛ mɔgɔ ye ni dokotoro ye ka hakili ɲɛnɛ.
 
-I bɛ se k’a sɛbɛn:
+Aw ka nin sɛbɛn:
 
-- tile waati;
-- i ye mun di a ma ani i y’a ɲini cogo min na;
-- fɛn minnu tun bɛ kɛ aw lamini na (mankan, lɔnbagaw, telewisɔn);
-- a sunɔgɔra cogo min na, a dunna ani a minna cogo min na, ani a taara boon kɔnɔ tuma min na laban;
-- fura kura walima bana min kɛra kɔsa in na.
+- waati jumɛn ye don;
+- mun ye aw ka kɛ ani aw kumaw cogo;
+- mun bɛ kɛ aw ɲɛ kɔrɔ (sɛnɛfɔ, mɔgɔw, kɛlɛ, TV);
+- a ka dɔgɔ sɔrɔli, a ka dumuni ni ji, ani a ka a ka banbali waati;
+- dɔrɔgɛ kura walima gɛlɛya kura.
 
-Tuma caman na, taamasiyɛnw bɛ bɔ joona: a bali bɛ kɛ tile 16:00 kɔfɛ dɔrɔn, tulon kelen dɔrɔn na, walima ni telewisɔn bɛ mɛn dɔrɔn. Family Caregiver Alliance ka [hakilijigin bana kɛcogo ɲɛfɔ gafe](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) b’a fɔ nɔgɔya la: an tɛ se ka mɔgɔ yɛlɛma, nka an bɛ se k’an yɛrɛ ka kɛcogo ni sigida yɛlɛma.
+Sɛbɛn bɛ ɲɛ kɛ ka sira sɔrɔ tuma caman la: ayi bɛ kɛ kɔfɛ ka 4 ye, walima ayi bɛ kɛ kɛlɛ dɔ kan kelen, walima ayi bɛ kɛ ni TV bɛ kɛ. Family Caregiver Alliance ka [mɔgɔ hakili ɲɛnɛ kumakan](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ko an tɛ se ka mɔgɔ yɛrɛ ɲɛnɛ, nka an se ka an yɛrɛ ka kɛlɛ ni an ka yɔrɔ ɲɛnɛ.
 
-## Tuma jumen na ne ka kan ka kuma dɔgɔtɔrɔ fɛ a bali walima a dimi kan?
+## Tuma jumɛn la aw ka dokotoro ɲɛ ka kuma ayi walima sɔgɔsɔgɔ kan?
 
-I ka kuma dɔgɔtɔrɔ fɛ ni a kɛcogo bɛ yɛlɛma yɔrɔ kelen, joona, walima ni bana taamasiɲɛw b’a fara a kan. NIA b’a fɔ ko ni kɛcogo bɛ yɛlɛma yɔrɔ kelen walima joona, kɛrɛnkɛrɛnnenya la ni bana walima fura yɛlɛmani kɛra kɔsa in na, o ka kan ka lase dɔgɔtɔrɔ ma joona.
+Aw ka dokotoro wele tuma min na hakili ɲɛnɛ bɛ kɛ tɛmɛ, walima ni a bɛ kɛ ni gɛlɛya ye. NIA ko hakili ɲɛnɛ min bɛ kɛ tɛmɛ walima a bɛ kɔrɔ, ni a bɛ kɛ infeksiyɔn walima dɔrɔgɛ kura kɔfɛ, aw ka o ɲɛfɛ dokotoro ye tuma bɛɛ.
 
-I ka dɔgɔtɔrɔ wele joona ni i ye ninnu ye:
+Aw ka aw ka dokotoro wele ni aw ye nin ɲɛ:
 
-- hakilijigin yɔrɔ kelen walima yɛlɛmaniba lɛrɛw walima don damadɔ kɔnɔ;
-- dimi taamasiɲɛw, i n’a fɔ ɲɛda minɛ, farikolo fan dɔ tanga, walima lamaga gɛlɛya kura;
-- farigan walima bana taamasiɲɛ wɛrɛw;
-- fura kura walima fura yɛlɛmani min kɛra, o kɔfɛ a kɛcogo yɛlɛmana;
-- a tɛ diya fɛn si la, ɲɛji bɔli walima a yɛrɛ bɔli min bɛ to dɔgɔkun fila ni kɔ;
-- dumuni walima minni bali.
+- hakili sɔgɔsɔgɔ walima hakili ɲɛnɛ min bɛ kɛ waati dɔ kɔnɔ;
+- gɛlɛya, i n'a fɔ mɔgɔ bɛ a kɔ ɲɛ, walima a bɛ fɛn bɛɛ kɛ ka gɛlɛn;
+- cɛnin walima infeksiyɔn gɛlɛya;
+- dɔrɔgɛ kura walima dɔrɔgɛ min bɛ kɔrɔ, ani hakili ɲɛnɛ kɔfɛ;
+- ko bɛɛ ka ɲɛ ka dɔrɔn, a bɛ kɔnɔ ka ɲɛ tile walima ka sɛnɛ, don bi wolonwula walima ka tɛmɛ;
+- a bɛ dumuni ban.
 
-Alzheimer's Association b’a fɔ ka kɛnɛya sɛgɛsɛgɛli dafalen kɛ mɔgɔ bɛɛ ye min bɛ ni kɛcogo taamasiɲɛw ye, kɛrɛnkɛrɛnnenya la ni u bɔra yɔrɔ kelen. Family Caregiver Alliance fana b’a fɔ ka dɔgɔtɔrɔ ɲininka fɔlɔ, bawo kɛcogo gɛlɛyaw bɛ se ka kɛ ni kɛnɛya sababu ye. I kana fura si daminɛ, ka a dabila walima k’a yɛlɛma k’a sɔrɔ i ma kuma dɔgɔtɔrɔ walima furakɛla fɛ.
+Alzheimer's Association ko aw ka mɔgɔ min bɛ sɔgɔsɔgɔ ko kɛ, o ka dokotoro ka sɛnɛkɛ fitinin ye, kɔrɔ tuma min na a bɛ kɛ dɔ ka sɔrɔ. Family Caregiver Alliance fana ko aw ka dokotoro ɲɛ ka kuma, bawo sɔgɔsɔgɔ ka sababu bɛ kɛ gɛlɛya ye. Aw kana dɔrɔgɛ kɛ, aw kana a bɔ, walima aw kana a ɲɛ kɛ dokotoro walima farmasiyɛn ka kuma ɲɛ.
 
-Ni mɔgɔ dɔ bɛ farati la walima ni kɔrɔtɔko kɛnɛya taamasiɲɛw b’a la, aw ka sigida ka kɔrɔtɔko nimɔrɔ wele. NIA b’a fɔ k’a ɲɛfɔ welebaga ye ko hakilijigin bana bɛ mɔgɔ in na.
+Ni mɔgɔ bɛ gɛlɛya la walima gɛlɛya ka dɔ bɛ kɛ, aw ka 15 wele. NIA ko aw ka wele ka fɔ ko mɔgɔ bɛ dementia la.
 
-## Yala a ka ɲi ni an ma foyi kɛ pewu wa?
+## A bɛ ɲɛ ni aw bɛ fɛn tɛ kɛ bɛɛ?
 
-Ɔwɔ. Don dɔw la, baara ɲuman ye ka baara kɛ: sigili ɲɔgɔn fɛ, bolo minɛ ɲɔgɔn na, dɔnkilida min diyara a ye o lamɛnni, walima kɔnɔw lajɛ filɛri fɛ. O tɛ dɛsɛ ye. Anw ka [tulon kɛcogo ɲɔgɔn fɛ ɲɛfɔ gafe](/caregiving/how-to-play-together/) b’a ɲɛfɔ mun na a dabilali joona, walima a daminɛbaliya, bɛ se ka kɛ sugandi ɲuman ye.
+Ɔwɔ. Don dɔ la, kɛlɛ ɲɛ ka kɛlɛ ɲɛ tɛ kɛ. Aw ka sigi ka fɛ ni a ye, aw ka boko ɲɛ, aw ka dɔnkili min a fɛ ka ɲɛ, walima aw ka sɛgɛn min bɛ ka dɔgɔ ye. O tɛ wuli ye. [Ko kɛlɛ ni ɲɛ kɛ ka ɲɛ](/caregiving/how-to-play-together/) ka kumakan bɛ fɔ ko a tɛmɛ, ani ka kɛlɛ bɔ tuma dɔ, walima ka kɛlɛ tɛ kɛ, o bɛ kɛ kɛlɛ ɲɛ ye.

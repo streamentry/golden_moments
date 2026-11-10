@@ -1,28 +1,28 @@
 ---
-title: "Free Online Gem blong Man we Oli Gat Dementia, No Download"
-seoTitle: "Free Online Gem blong Dementia, No Download"
-description: "Free online gem blong ol man we oli gat dementia, we oli open long browser, no app no akaon: picture matching, sorting, puzzel mo kam breathing, plus ol tips."
+title: "Free Online Gem Blong Dementia, No Download Nid"
+seoTitle: "Free Online Gem Blong Dementia, No Download"
+description: "Free online gem blong ol man we oli gat dementia we oli open long browser, nogat app o akaon: matching, sortim, puzzle mo kalm breathing, plus ol tips."
 section: activities
 order: 22
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Ol isi free online gem blong ol man we oli gat dementia oli open long web browser, no app mo no akaon. Golden Moments i gat ol simpol picture gem blong tablet o kompiuta: matching, faenem sem picture, sortem long ol basket, wan picture puzzel mo wan slow breathing pos. Sidaon klosap long man ya mo stopem taem hem i wantem. Nogat gem i save trietem o stopem dementia; valiu i stap long wan kwaet mo sea aktiviti we yufala i mekem tugeta.
+  Ol isi moa free online gem blong ol man we oli gat dementia oli open long web browser, nogat app mo nogat akaon. Golden Moments i gat ol simpol gem blong piksa long tablet o kompiuta: matching, faenem sem piksa, sortim long ol basket, wan piksa puzzle mo wan slow breathing taem. Sidaon klosap long man ya mo stopem taem wanem hem i wantem. Nogat gem we i trit o i stopem dementia; valiu i stap long wan kalm mo wan aktiviti we yufala i sherem.
 keyPoints:
-  - "Makem ol gem we oli wok long fasin blong recognisem picture, no long fasin blong rimemba wan rul, wan wod o wan scor."
-  - "Opnem wan gem long browser long tablet o kompiuta, sidaon klosap long man ya, mo letem hem tajem o pointem."
-  - "Yusum bigfala skrin o wan stand, mo turnoffem notifikesen mo ol nara tab bifo yu startem."
-  - "Ol gem we oli yusum foto oli holem ol foto long browser long divaes ya; jekem ol privacy nout bifo yu putum famili foto long wan shea kompiuta."
-  - "Stopem erli i wan gud risolt. Nogat samting long ol gem ya i mesurem o skorem man ya."
+  - "Jusum ol gem we oli wakem long risonem wan piksa, nating long riimemba wan rul, wan wod o wan skor."
+  - "Opnem wan gem long browser long wan tablet o kompiuta, sidaon klosap long man ya, mo letem hem tajem o pointem."
+  - "Yusum wan bigfala skrin o wan stand, mo sotemaot ol notifikesen mo ol narafala tab bifo yu stat."
+  - "Ol gem we oli yusum piksa oli kipim ol piksa long browser long divaes ya; jekem ol privacy nout bifo yu putum ol famili piksa long wan shea kompiuta."
+  - "Stopem erli i wan gud resalt. Nating long ol gem ya i mesurem o skorem man ya."
 faq:
-  - q: "Wanem ol isi free online gem we man wetem dementia i save pleiem withaot download?"
-    a: "Ol simpol picture gem i moa gud: matchim sem ol picture, faenem sem picture long sam ol jus, sortem ol samting long ol basket, mo wan picture we oli katem long ol pis we oli save swapem. Golden Moments i gat ol gem ya long browser, nogat download, nogat akaon. Startem wetem bigfala picture option we yu save faenem."
-  - q: "Ol brain gem i save helpem dementia?"
-    a: "Nogat gem we oli prufim se i save trietem, slowem o stopem dementia. Federal Trade Commission blong USA i bin tekem akson agenstem ol brain-training kampani from ol klem we oli no save sapotem. Pleiem ol gem ya from oli interesting mo isi blong seremap, no olsem trietmen."
-  - q: "Ol online gem i sef long man wetem dementia?"
-    a: "I save sef, sapos wan man i stap lukaotem. Kipem divaes long ples we man ya i no save tekem i go, nogat pop-up advertising mo ol link long narafala ples, mo neva lif man ya wan nomo long skrin we i askem paswod o kad namba. Jekem privacy setting blong divaes bifo yu yusum ol foto."
-  - q: "Wanem if man ya i kros o i hevi long wan gem?"
-    a: "Jenisim i go long isi version, yusum smol picture, o traem wan narafala gem. Sapos hem i sore o i kros, putumaot divaes mo sajestem wan kaikai, wokabaot o wan singsing blong instedi. Wan gem we i mekem man i sore, i no wot blong finisim."
+  - q: "Wanem ol free online gem we ol man we oli gat dementia oli save pleiem withaot download?"
+    a: "Ol simpol gem blong piksa i gud moa: matching ol sem piksa, faenem sem piksa from sam jus we i stap, sortim ol samting long ol basket, mo wan piksa we i katem i kam ol pis we oli save switsem. Golden Moments i gat ol ya long browser, nogat download, nogat akaon. Startem wetem bigfala piksa option we yu save faenem."
+  - q: "Ol brain gem i save helpem long dementia?"
+    a: "Nogat gem we i bin prufum se i save trit, slowem o prevent dementia. Federal Trade Commission blong Amerika (U.S.) i bin takem aksen agensem ol brain-training kompani from ol klem we oli no save sapotem. Pleiem ol gem ya from oli intarestin mo isi blong sherem, nating olsem tretment."
+  - q: "Ol online gem i sef ka long man we i gat dementia?"
+    a: "I save sef, sapos i gat sam man we i lukaftarem. Kipim divaes we i no save kasem long man we i save wakabaot aot wetem hem, lukaot long ol pop-up advertising mo ol eksten link, mo nating lusim man ya olsem yet long wan skrin we i askem paswod o kad namba. Jekem ol privacy setting blong divaes bifo yu yusum ol foto."
+  - q: "Wanem if man ya i kwros o i no hapi long wan gem?"
+    a: "Jenisim i go long wan isi version, yusum fewfala piksa, o traem wan narafala gem. Sapos hem i sot, putum divaes i wan saed mo sujestem wan kakae, wan wakabaot o wan singsing. Wan gem we i mekem hem i pen, i no worth blong finisim."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -44,54 +44,54 @@ related: [activities/memory-games, activities/puzzles, activities/ideas, caregiv
 health: false
 ---
 
-Plante famili oli serjem free online gem blong dementia from oli wantem wan samting blong pleiem tugeta we i no nidim wan stoa, wan login o wan kredit kad. Ol best ol samting ya i simpol, oli bes long picture, mo isi blong stopem. Oli mas filim olsem wan samting blong seremap tugeta, no olsem wan test. Gaed ya i eksplenem wanem blong lukaotem, hao blong setim wan gem, mo wanem ol gem ya i save mekem mo wanem oli no save mekem.
+Plante famili i sidentifae free online gem blong dementia from oli wantem wan samting blong pleiem tugeta we i no nidim wan stoa, wan login o wan kredit kad. Ol gud oltanatiu i simpol, i gat piksa, mo i isi blong stopem. Oli mas filim olsem wan sea blong sherem, nating wan test. Gaed ya i eksplenem wanem blong lukaot, hao blong setemap wan gem, mo wanem ol gem ya i save mekem mo wanem oli no save mekem.
 
-## Wanem i mekem wan online gem i fit long man wetem dementia?
+## Wanem i mekem wan online gem i fit blong dementia?
 
-Wan gem i fit long plante man wetem dementia taem i askem fasin blong recognisem, no fasin blong rimemba. Matchim tu sem picture, tajem picture we i matchim wan shadow, o drop wan samting long rat basket, ol samting ya oli stap long wanem ae i save luk nao. Ol gem we oli askem blong rimemba wan rul, wan wod, wan namba o wan move we i pas, oli save mekem man i kros.
+Wan gem i fit long ol man we oli stap laef wetem dementia taem hem i askem blong risonem, nating blong riimemba. Matjingim tu sem piksa, tajem piksa we i met wetem wan sed, o drop wan samting long rait basket, oli depend long wanem ae i save luk long naoia. Ol gem we oli nidim blong riimemba wan rul, wan wod, wan namba o wan move we i bin hapen bifo, oli save mekem frustresen.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i rekomendem ol aktiviti we oli stap long wanem man i stil laekem mo save mekem, mo we oli letem hem i sakses withaot help. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i sujestem se yu simplifaem wan aktiviti, no yu lusum hop long hem, taem ol abiliti oli jenis.
+Ol [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i ademap ol aktiviti we i stap bil long wanem man ya i stil laekem mo i save mekem, mo we i letem hem i win withaot help. Ol [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i sujestem blong simplifaem wan aktiviti, no blong lusim hem, taem ol abiliti oli jenis.
 
 ## Ol Golden Moments gem we yu save opnem long browser
 
-Wan wan gem blong long hem i opnem from website we no nidim download. Plante oli pleiem long tablet o kompiuta; sam oli save printim tu.
+Each gem blong ol ya i opnem from website withaot download. Moa oli pleiem long tablet o kompiuta; sam oli save printem tu.
 
-- **[Picture pairs](/games/picture-pairs/).** Ol bigfala pea blong matchim wetem ol picture i showim, no taem no scor. Gud blong fastfala gem.
-- **[Find the same](/games/find-the-same/).** Wan picture i stap antap, mo sem wan i stap long botom long tu to fo jus.
-- **[Shadow match](/games/shadow-match/).** Wan soft shadow i kamaot antap; tajem picture we i mekem shadow ya.
-- **[Sort together](/games/sort-together/).** Tajem wan picture, afta tajem basket we i belong long hem, olsem kitchen o garden.
-- **[Picture puzzle](/games/picture-puzzle/).** Wan picture i katem long ol pis, mo full image i stap luk long hem olsem gaed.
-- **[Finish the saying](/games/finish-the-saying/).** Ol tok we oli save long plante man, wetem las wod i no stap; tajem wan jus o soem ending.
-- **[Conversation cards](/games/conversation-cards/).** Picture kad wetem ol open kwestin blong toktok, no blong kwis. Printim tu i save.
-- **[Photo pairs](/games/photo-pairs/).** Ol matching pea we oli mekem from ol foto we yu jusum long divaes blong yu. Ol foto oli stap long browser long divaes ya nomo.
-- **[Calm breathing](/games/calm-breathing/).** Wan slow, kwaet pos blong breathe tugeta. Yu startem mo yu stopem.
+- **[Picture pairs](/games/picture-pairs/).** Bigfala pea blong matching wetem ol piksa i showem, mo no taem no skor. I gud blong fastfala gem.
+- **[Find the same](/games/find-the-same/).** Wan piksa i stap long top, mo sem wan i stap long tu to fo jus i stap aninit.
+- **[Shadow match](/games/shadow-match/).** Wan soft sed i kamaot long top; tajem piksa we i mekem sed ya.
+- **[Sort together](/games/sort-together/).** Tajem wan piksa, afta basket we i rait long hem, olsem kitchen o garden.
+- **[Picture puzzle](/games/picture-puzzle/).** Wan piksa i katem i kam ol pis, mo ful piksa i stap luk olgeta olsem gaed.
+- **[Finish the saying](/games/finish-the-saying/).** Ol save talk we oli well save long ol wod we i lus long end; tajem wan jus o showem end ya.
+- **[Conversation cards](/games/conversation-cards/).** Ol kad blong piksa wetem ol opem kwestin blong toktok, no blong kwesten man. Tu oli save printem.
+- **[Photo pairs](/games/photo-pairs/).** Matching pea we oli mekem from ol foto we yu jusum long divaes blong yu. Ol foto oli stap long browser long divaes ya nomo.
+- **[Calm breathing](/games/calm-breathing/).** Wan slow, kwaet taem blong breathe tugeta. Yu stat it mo yu stopem it.
 
-Word sej, kala pija mo picture bingo tu oli stap olsem ol aktiviti blong printim. Lukim [ol free printable aktiviti blong dementia](/activities/printable/) blong moa.
+Word search, coloring mo picture bingo tu oli stap olsem printable aktiviti. Luk [free printable dementia activities](/activities/printable/) blong moa.
 
-## Hao blong setim wan gem sesen
+## Hao blong setemap wan gem sesen
 
-1. **Jusum wan kwaet taem** taem man ya i rest finis. Aftanun taem i hadwan long sam man, so jekem pattern blong yu fastaem.
-2. **Yusum bigfala skrin.** Tablet long wan stand, o kompiuta wetem browser we yu zoomem, i isi blong luk mo tajem.
-3. **Klosem ol nara tab mo turnoffem notifikesen.** Pop-up we i kamap sudden i save fraetem man, mo i save bagarapem wan gud sesen.
-4. **Sidaon klosap long man ya, no fes long hem.** Sheremap luk i fil olsem kampani, i no olsem test.
-5. **Startem wan gem long faev o ten minit.** Letem man ya tajem skrin o pointem, mo yufala i tekem tan.
-6. **Finisim long wan gud fasin.** Finisim wan raon, mo toktok long wan picture o askem blong wan kap tea.
+1. **Jusum wan kwaet taem** taem man ya i wok finis. Aftanun we leit i stat fed i harem sam man, so jekem fastfala pateni blong yu fastaem.
+2. **Yusum wan bigfala skrin.** Wan tablet long wan stand, o wan kompiuta we browser i bigim, i isi blong luk mo tajem.
+3. **Lokem ol narafala tab mo sotemaot notifikesen.** Pop-up we i kamaot kwik oli mekem man ya i frit mo oli save finisim wan gud sesen.
+4. **Sidaon klosap long man ya, no long nara saed blong tebol.** Lukluk tugeta i filim olsem kampani, no olsem test.
+5. **Stat wetem wan gem long faef to ten minit.** Letem man ya tajem skrin o pointem, mo yufala i tekem tan.
+6. **Finisim long wan gud fasin.** Finisim wan raon, then toktok abaot wan piksa o sujestem wan kap ti.
 
-## Praevesi mo sef long shea divaes
+## Praevesi mo seif long ol divaes we oli yusum tugeta
 
-- **Ol foto oli stap long divaes.** Photo pairs i yusum ol foto we yu jusum, mo oli stap long browser long divaes ya. Jekem hu i save openim kompiuta o tablet.
-- **Avoidem ol external link mo ads.** Yusum ol gem direkt from saet, mo no klikem ol banner o prompt we i askem ol personal detail.
-- **Kipem ol pemen mo akaon separate.** No lif man ya wan nomo long skrin we i askem paswod o kad namba.
-- **Lukaotem taem man i wokabaot go.** Kipem tablet long ples we hem i no save tajem, sapos man ya i save go aot long haos wetem hem.
+- **Ol foto oli stap long divaes.** Photo pairs i yusum ol foto we yu jusum, mo oli stap long browser long divaes ya. Jekem hu i save opnem kompiuta o tablet.
+- **Avoidim ol eksten link mo advertising.** Yusum ol gem direkt from saet, mo no klik long ol banner o prompt we i askem personal detail.
+- **Kipim pemen mo akaon i sep.** No lusim man ya olsem yet long wan skrin we i askem paswod o kad namba.
+- **Lukaot long wakabaot aot.** Kipim tablet i no kasem sapos man ya i save go aot long haos wetem hem.
 
-Blong moa ful lis, lukim [hao blong jusum ol app mo gem blong dementia](/caregiving/choosing-apps-and-games/) mo [setim tablet o fon](/caregiving/tablets-and-screens/).
+Long wan bigfala checklist, luk [how to choose dementia apps and games](/caregiving/choosing-apps-and-games/) mo [setting up a tablet or phone](/caregiving/tablets-and-screens/).
 
 ## Wanem ol gem ya i save mekem mo wanem oli no save mekem
 
-Ol online gem i givim chance long ol man wetem dementia blong enjoyem wan taem, blong lukluk long ol picture tugeta, mo blong joen long wan samting withaot presa. Oli no trietem dementia, oli no slowem o stopem. Wan famos eksampol hemia [Federal Trade Commission's 2016 action against Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program), from ol brain-training klem we oli no save prufim. Stap wari long eni gem, app o website we i promisim gud moa memori, i skorem brein blong yu, o i talem se i save bakem dikleen.
+Ol online gem i givim ol man we oli gat dementia wan jans blong enjoem wan taem, blong lukluk ol piksa tugeta, mo blong joen long wan samting withaot presa. Oli no trit dementia, oli no slowem hem, mo oli no prevent hem. Wan eksampel we ol man i bin tokbaot wanwan i [Federal Trade Commission i akson long 2016 agensem Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) from ol brain-training klem we oli no save sapotem. Wari long eni gem, app o website we i promisim bet memori, i skorem brein blong yu, o i talem se hem i save tanem bak dikleen.
 
-Yusum ol gem ya olsem wan pat blong wan dei we i gat tu ol miusik, wokabaot, toktok mo rest. Blong ridim hao blong mekem ol gem i relaks, no tensin, lukim [hao blong pleiem ol gem wetem man wetem dementia](/caregiving/how-to-play-together/) mo [ol memori gem we oli no test](/activities/memory-games/).
+Yusum ol gem ya olsem wan pat blong wan dei we i inkludim miusik, wakabaot, toktok mo rest. Blong ridim hao blong mekem ol gem i relaks, nating tens, luk [how to play games with someone who has dementia](/caregiving/how-to-play-together/) mo [memory games that do not test](/activities/memory-games/).
 
-## Taem blong stopem
+## Wanem taem blong stopem
 
-Stopem taem man ya i luk taed, i no kwaet, i kros o i no fil gud. Stopem taem hem i lusim intres. Stopem erli i wan gud rizolt. Yu save kambak long narafala dei, o jenisim i go long toktok o wokabaot.
+Stopem taem man ya i luk i tajed, restless, frustrated o i no hapi. Stopem taem hem i lusim intrest. Stopem erli i wan gud resalt. Yu save kambek narafala dei, o jenisim i go long toktok o wakabaot.

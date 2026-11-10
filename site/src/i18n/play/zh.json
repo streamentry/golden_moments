@@ -1,0 +1,666 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "大声朗读",
+      "stopReading": "停止朗读",
+      "region": "游戏区",
+      "restart": "重新开始",
+      "soundOn": "开启柔和声音",
+      "soundOff": "关闭柔和声音",
+      "done": "先玩到这里",
+      "feedbackQuestion": "今天的内容对您有帮助吗？",
+      "feedbackYes": "有帮助",
+      "feedbackNo": "不太有",
+      "feedbackThanks": "感谢您的反馈。"
+    },
+    "tile": {
+      "named": "{name}，第 {n} 块",
+      "hidden": "背面朝上的图片，第 {n} 块",
+      "withState": "{label}，{state}",
+      "matched": "已配对",
+      "selected": "已选中",
+      "picture": "图片",
+      "photoNumber": "照片 {n}"
+    },
+    "pairs": {
+      "allTogether": "全部配对成功。可以再玩一次，或者休息一下。",
+      "photoPair": "一对相同的照片，已经配对。",
+      "picturePair": "两张一样的{name|lower}图片，已经配对。",
+      "selected": "{name}。现在找出和它一样的那张。",
+      "mismatch": "不用着急。点击任意图片继续。",
+      "mismatchNamed": "{a}和{b}。不用着急。点击任意图片继续。"
+    },
+    "picturePairs": {
+      "guidanceShowing": "点击一张图片，然后点击与它匹配的那张。",
+      "guidanceHidden": "点击两块卡片把它们翻开，寻找相同的两张。",
+      "restart": "换一组图片",
+      "sizeLegend": "卡片数量",
+      "size": {
+        "other": "{n} 块卡片"
+      },
+      "viewLegend": "玩法模式",
+      "viewShowing": "图片朝上",
+      "viewHidden": "翻牌记忆",
+      "playAgain": "换一组新图片再玩一次",
+      "talk": "一起聊聊这些图片"
+    },
+    "choose": {
+      "countLegend": "图片数量",
+      "count": "有 {n} 张可供选择",
+      "thatOne": "那是{name|lower}。慢慢来，不用急。"
+    },
+    "findTheSame": {
+      "guidance": "先看顶部的图片，然后点击下方相同的那张。",
+      "yes": "是的，这是一样的{name|lower}。",
+      "next": "下一张图片"
+    },
+    "shadowMatch": {
+      "guidance": "先看顶部的影子，然后点击能投出这个影子的图片。",
+      "yes": "是的，这是{name|lower}的影子。",
+      "next": "下一个影子",
+      "shadowAlt": "等待配对的影子",
+      "foundAlt": "{name|lower}的影子"
+    },
+    "sortTogether": {
+      "guidance": "点击一张图片，然后点击它所属的分类篮。",
+      "restart": "换一组图片",
+      "themeLegend": "主题",
+      "selected": "{name}。现在点击它该放进去的分类篮。",
+      "pickFirst": "先点击一张图片，再点击分类篮。",
+      "hint": "{name|lower}可以放在“{basket}”里。点击那个分类篮把它放进去。",
+      "placed": "{name|lower}已放入“{basket}”。",
+      "sorted": "全部归类整理好了。可以一起看看各个篮子里的东西，或者尝试其他主题。",
+      "basket": {
+        "other": "“{basket}”分类篮，里面有 {count} 张图片"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "点击一块拼图，再点击另一块，它们会互换位置。",
+      "restart": "重新打乱",
+      "pictureLegend": "选择图片",
+      "pictures": {
+        "sailboat": "帆船",
+        "house": "房屋",
+        "balloon": "气球",
+        "sunflower": "向日葵",
+        "lighthouse": "灯塔",
+        "cat": "小猫"
+      },
+      "sizeLegend": "拼图块数",
+      "size": {
+        "other": "{n} 块拼图"
+      },
+      "pickedUp": "拼图块已选起。现在点击它应该去的位置。",
+      "whole": "{name|lower}已经拼完整了。您随时可以选择另一张图片。",
+      "swapped": {
+        "other": "位置已调换。{total} 块拼图中已有 {correct} 块归位。"
+      },
+      "guideAlt": "完整图片：{name}",
+      "guideText": "这是拼好后的完整图片。",
+      "piece": "位于{place}的拼图块",
+      "pieceInPlace": "，位置正确",
+      "piecePickedUp": "，已选起",
+      "places4": [
+        "左上",
+        "右上",
+        "左下",
+        "右下"
+      ],
+      "places9": [
+        "左上",
+        "中上",
+        "右上",
+        "左中",
+        "中心",
+        "右中",
+        "左下",
+        "中下",
+        "右下"
+      ],
+      "done": "图片已经完整复原了。可以再玩一次，或者休息一下。",
+      "playAgain": "重新打乱再玩一次"
+    },
+    "finishTheSaying": {
+      "guidance": "一起读一读这句老话，然后点击可以接在后面的词。",
+      "gap": " ",
+      "ending": "{end}。",
+      "yes": "是的，“{start}{end}。”",
+      "otherEnding": "“{word}”也讲得通。通常这句话结尾是“{end}”。",
+      "revealed": "这句老话是“{start}{end}”。",
+      "choicesLabel": "选择后半句的词",
+      "show": "显示后半句",
+      "talk": "聊一聊：",
+      "next": "下一句"
+    },
+    "wordSearch": {
+      "guidance": "词语沿横向或纵向排列。先点击词语的第一个字，再点击最后一个字。",
+      "restart": "换一个字谜",
+      "themeLegend": "主题",
+      "sizeLegend": "网格大小",
+      "size": {
+        "other": "{n} × {n}（{words} 个词）"
+      },
+      "print": "打印此字谜",
+      "letterChosen": "已选中字“{letter}”。现在点击这个词的最后一个字。",
+      "found": "找到了“{word}”。",
+      "foundAll": "找到了“{word}”。所有的词都找齐了。可以再玩一次，或者休息一下。",
+      "tryAgain": "不用着急。先点击词语的第一个字，再点击最后一个字。",
+      "gridLabel": "汉字网格，共 {n} 行 {n} 列。使用方向键在字与字之间移动。",
+      "cell": "{letter}，第 {row} 行，第 {col} 列",
+      "cellFound": "，已找到词语的一部分",
+      "wordsHeading": "要找的词",
+      "wordFound": "（已找到）",
+      "sheetTitle": "寻词游戏：{theme}",
+      "sheetNote": "词语沿横向或纵向排列。",
+      "unavailable": "字母网格不适合中文，因此这里不提供寻词游戏。您可以试试看图片游戏。"
+    },
+    "coloring": {
+      "guidance": "先点击一种颜色，然后点击要填色的区域。",
+      "restart": "清除颜色",
+      "cleared": "页面已重新变为空白。",
+      "pageLegend": "画纸",
+      "print": "打印此页面",
+      "colorsLabel": "颜色",
+      "paintChosen": "已选择{paint}。",
+      "painted": "{part}现在涂成了{paint|lower}。",
+      "artLabel": "{page}，共有 {count} 处可涂色",
+      "partPainted": "{part}，{paint|lower}",
+      "partBlank": "{part}，未涂色",
+      "paints": {
+        "red": "红色",
+        "orange": "橙色",
+        "yellow": "黄色",
+        "green": "绿色",
+        "blue": "蓝色",
+        "purple": "紫色",
+        "pink": "粉色",
+        "brown": "棕色",
+        "sky-blue": "天蓝色",
+        "cream": "米白色",
+        "gray": "灰色",
+        "white": "白色"
+      }
+    },
+    "conversationCards": {
+      "guidance": "把卡片上的内容念出来。没有标准答案，尽情交流就好。",
+      "position": "第 {n} 张，共 {total} 张",
+      "themeLegend": "主题",
+      "next": "下一张卡片",
+      "previous": "上一张卡片",
+      "print": "打印全部卡片",
+      "sheetTitle": "对话卡"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "请先选择您的照片。",
+      "guidance": "点击一张照片，然后点击与它匹配的那张。",
+      "restart": "重新打乱",
+      "intro": "**从这台设备中选择 2 到 6 张照片**。照片仅在此页面展示，绝不会被上传或保存。",
+      "choose": "选择照片",
+      "chooseDifferent": "更换照片",
+      "clear": "清除照片",
+      "cleared": "照片已从此页面清除。",
+      "atLeastTwo": "请至少选择两张照片。",
+      "usingFirst": "正在使用前 {max} 张照片。",
+      "skipped": {
+        "other": "有 {count} 个文件无法作为照片显示。"
+      },
+      "playAgain": "用这些照片再玩一次",
+      "empty": "您选好的照片会显示在这里，每张各出现两次。"
+    },
+    "pictureBingo": {
+      "guidance": "请先打印卡片。然后用手头最大的屏幕显示这个报号器。",
+      "called": {
+        "other": "{name}。已报出 {total} 张图片中的 {called} 张。"
+      },
+      "start": "点击“下一张图片”报出第一张。",
+      "restart": "开始新一局",
+      "squaresLegend": "每张卡片上的格子数",
+      "squares": "{n} 个格子（{side} × {side}）",
+      "cardsLegend": "打印卡片数量",
+      "cards": {
+        "other": "{n} 张卡片"
+      },
+      "print": {
+        "other": "打印 {n} 张宾果卡"
+      },
+      "ready": "随时可以开始",
+      "next": "下一张图片",
+      "allCalled": "所有图片均已报出",
+      "alreadyCalled": "已经报过了",
+      "sheetTitle": "图片宾果 · 第 {n} 张卡片"
+    },
+    "calmBreathing": {
+      "guidance": "随着圆圈变大缓缓吸气，随着圆圈变小慢慢呼气。呼吸六次后会自动停下。",
+      "paceLegend": "节奏",
+      "paceSlow": "慢速（呼与吸各 5 秒）",
+      "paceGentle": "舒缓（呼与吸各 4 秒）",
+      "ready": "准备好了随时可以开始",
+      "in": "吸气",
+      "hold": "放松",
+      "out": "呼气",
+      "start": "开始",
+      "stop": "停止",
+      "started": "已开始。随着圆圈变大慢慢吸气。",
+      "stopped": "已停止。",
+      "finished": "六次舒缓的呼吸已经完成。随时可以再次开始。"
+    }
+  },
+  "pictures": {
+    "teacup": "茶杯",
+    "kettle": "水壶",
+    "bread": "面包",
+    "frying-pan": "煎锅与煎蛋",
+    "cake": "生日蛋糕",
+    "sunflower": "向日葵",
+    "tulip": "郁金香",
+    "watering-can": "浇水壶",
+    "potted-plant": "盆栽植物",
+    "tree": "大树",
+    "bird": "知更鸟与树枝",
+    "butterfly": "蝴蝶",
+    "dog": "小狗",
+    "cat": "小猫",
+    "fish": "金鱼",
+    "apple": "红苹果",
+    "pear": "梨",
+    "strawberry": "草莓",
+    "banana": "香蕉",
+    "lemon": "柠檬",
+    "cherries": "樱桃",
+    "house": "房屋",
+    "lamp": "台灯",
+    "armchair": "扶手椅",
+    "key": "老钥匙",
+    "umbrella": "雨伞",
+    "sailboat": "帆船",
+    "car": "经典老车",
+    "bicycle": "自行车",
+    "balloon": "热气球",
+    "lighthouse": "灯塔",
+    "sun": "太阳",
+    "moon": "月亮与星星",
+    "teapot": "茶壶",
+    "apple-pie": "苹果派",
+    "honey-jar": "蜂蜜罐",
+    "boiled-egg": "鸡蛋与蛋盅",
+    "toaster": "多士炉",
+    "cheese": "奶酪",
+    "milk-jug": "牛奶罐",
+    "cupcake": "纸杯蛋糕",
+    "orange": "橙子",
+    "grapes": "葡萄",
+    "watermelon": "西瓜片",
+    "pineapple": "菠萝",
+    "peach": "桃子",
+    "rose": "玫瑰花",
+    "daisies": "雏菊",
+    "mushroom": "蘑菇",
+    "wheelbarrow": "独轮手推车",
+    "birdhouse": "人工鸟屋",
+    "cactus": "盆栽仙人掌",
+    "acorn": "橡子",
+    "autumn-leaf": "秋叶",
+    "rabbit": "兔子",
+    "duck": "鸭子",
+    "hen": "母鸡",
+    "sheep": "绵羊",
+    "owl": "猫头鹰",
+    "ladybird": "瓢虫",
+    "snail": "蜗牛",
+    "frog": "青蛙",
+    "bee": "蜜蜂",
+    "clock": "座钟",
+    "vase-of-flowers": "花瓶与鲜花",
+    "radio": "老式收音机",
+    "books": "一叠书",
+    "candle": "蜡烛",
+    "glasses": "老花镜",
+    "telephone": "电话机",
+    "ball-of-wool": "毛线球",
+    "straw-hat": "遮阳草帽",
+    "train": "蒸汽火车",
+    "bus": "公交车",
+    "airplane": "飞机",
+    "suitcase": "行李箱",
+    "tractor": "拖拉机",
+    "rowing-boat": "手划船",
+    "rainbow": "彩虹",
+    "rain-cloud": "雨云",
+    "snowflake": "雪花",
+    "kite": "风筝",
+    "sunrise": "山间日出"
+  },
+  "content": {
+    "conversation": {
+      "themes": {
+        "all": "全部卡片",
+        "food": "美食",
+        "home": "居家",
+        "outdoors": "户外",
+        "animals": "动物",
+        "travel": "出门走走",
+        "work": "工作与爱好",
+        "music": "音乐与乐趣",
+        "seasons": "四季"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "在厨房里，您最喜欢闻到什么香味？"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "要是庆祝特别的日子，您想选什么样的蛋糕？"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "跟我聊聊您最喜欢的水果馅饼或甜点吧。"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "您的茶或者咖啡平时喜欢怎么喝？"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "一顿称心如意的早餐里，通常会有什么好吃的？"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "您以前直接从树上或秧上摘过新鲜水果吗？"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "甜味和酸味，您更喜欢哪一种？"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "有没有哪样好吃的，一尝就让您想起夏天的味道？"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "跟我讲讲您以前住过的一处舒心的房子吧。"
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "在家里，您最喜欢坐在哪儿舒舒服服地歇会儿？"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "在一个安静的晚上，您喜欢做点什么？"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "如果有一个专门的小盒子，您会在里面珍藏什么宝贝？"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "要是喝茶聊天，您想请哪位朋友来家里坐坐？"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "在下雨天，您通常喜欢做些什么？"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "要是有个小花园，您想种些什么花？"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "跟我聊聊您喜欢的一棵大树，或者常去的一个公园吧。"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "待在小院或花园里，最让您感到惬意的是什么？"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "什么颜色的花最讨您的喜欢？"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "您喜欢在屋里摆些绿植或花草吗？"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "在您心中，一个让人心情舒畅的晴天是什么样的？"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "跟我讲讲您以前认识的一只小狗吧。"
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "小猫还是小狗，还是都不太偏爱？它们哪一点挺招人喜欢？"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "在户外走走时，您常能看到或听到什么鸟儿？"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "您以前去钓过鱼，或者在家里养过小鱼吗？"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "在您见过的各种动物里，觉得哪种最好看？"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "跟我聊聊您很中意的一辆汽车吧。"
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "要是出去玩上一整天，您更想去海边吹吹风还是去山里走走？"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "要是骑车或者乘车兜兜风，您想去哪里转转？"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "如果能从空中俯瞰风景，您最想飞过什么地方的上方？"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "讲讲一次让您觉得开心尽兴的出行吧。"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "在做过的事情或者工作里，您觉得做哪样挺有乐趣？"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "有什么喜好能让您不知不觉专注好几个小时？"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "大家以前夸过您最拿手做什么东西，或者修理什么物件？"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "要是给刚参加工作的年轻人一点经验，您最想对他们说什么？"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "什么样的音乐会让您忍不住跟着打起节拍？"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "一次热闹欢畅的聚会，最少不了些什么？"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "平时您喜欢听哪位歌手唱歌？"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "有没有哪部百看不厌的电影或者电视剧？"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "夏天里，最让您喜欢的是什么？"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "秋天到了，您最享受哪些美好的景象？"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "在冬天的晚上，做些什么会让您觉得格外温暖舒坦？"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "看到或感受到什么，您就知道春天已经来了？"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "下雪、下雨还是大晴天：您更喜欢哪一种天气？"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "盆栽花",
+          "regions": {
+            "sky": "背景",
+            "table": "桌面",
+            "stem": "花茎",
+            "leaf-left": "左侧叶子",
+            "leaf-right": "右侧叶子",
+            "petal-1": "花瓣 1",
+            "petal-2": "花瓣 2",
+            "petal-3": "花瓣 3",
+            "petal-4": "花瓣 4",
+            "petal-5": "花瓣 5",
+            "petal-6": "花瓣 6",
+            "petal-7": "花瓣 7",
+            "petal-8": "花瓣 8",
+            "center": "花蕊",
+            "pot": "花盆",
+            "pot-rim": "花盆边沿"
+          }
+        },
+        "house": {
+          "name": "房屋",
+          "regions": {
+            "sky": "天空",
+            "sun": "太阳",
+            "grass": "草地",
+            "chimney": "烟囱",
+            "walls": "墙壁",
+            "roof": "屋顶",
+            "door": "大门",
+            "window-left": "左侧窗户",
+            "window-right": "右侧窗户",
+            "path": "小路"
+          }
+        },
+        "teacup": {
+          "name": "茶杯",
+          "regions": {
+            "background": "背景",
+            "saucer": "茶托",
+            "handle": "杯把",
+            "cup": "杯身",
+            "band": "杯身条纹",
+            "tea": "茶水"
+          }
+        },
+        "butterfly": {
+          "name": "蝴蝶",
+          "regions": {
+            "background": "背景",
+            "wing-top-left": "左上翅膀",
+            "wing-top-right": "右上翅膀",
+            "wing-bottom-left": "左下翅膀",
+            "wing-bottom-right": "右下翅膀",
+            "spot-left": "左翅斑点",
+            "spot-right": "右翅斑点",
+            "body": "身体"
+          }
+        },
+        "sailboat": {
+          "name": "帆船",
+          "regions": {
+            "sky": "天空",
+            "sea": "大海",
+            "sail-big": "大帆",
+            "sail-small": "小帆",
+            "mast": "桅杆",
+            "hull": "船身",
+            "flag": "旗帜"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "厨房与花园",
+          "baskets": [
+            "厨房物品",
+            "花园物品"
+          ]
+        },
+        "fruit-animals": {
+          "label": "水果与动物",
+          "baskets": [
+            "水果",
+            "动物"
+          ]
+        },
+        "home-travel": {
+          "label": "居家与出行",
+          "baskets": [
+            "在家里",
+            "出门在外"
+          ]
+        }
+      }
+    }
+  }
+}

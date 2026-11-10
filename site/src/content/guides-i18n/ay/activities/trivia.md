@@ -1,35 +1,35 @@
 ---
-title: "Sapa jaqinakatakix sencillo yatiqañ juegos, jan llakiñani"
-seoTitle: "Yatiqañ taqichuyañanaka sapa jaqinakatakix, sut uñt'añanaka"
-description: "50 sencillo yatiqañ taqichuyañanaka sapa jaqinakatakix, suytanaka ukat parlañatakix yatiyañanaka, ukat kunjamtix yatiqañ juegos luqtañapa jan khitis llakisiñapataki."
+title: "Demencia ukan jakirinakatakix sasa yatiyawi, jan llakiñaniw"
+seoTitle: "Demencia ukan jakirinakatakix yatiyawinaka, jawabunakampi"
+description: "Demencia ukan jakirinakatakix 50 sasa yatiyawi, jawab chiqanakampi ukat parlañ sasirinakampi, ukatwa kunjamasa yatiyawi uñt'ayañataki, janiw khiti jaqis llakisiñapkiti ni jan kuna uñjatäñapkiti."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sapa jaqinakatakix sencillo yatiqañ juegos ch'amanchasiñapataki, uka
-  parlañ ukhamarak jan pruebañ ukham sarnaqañapataki. Jiwasa sarnaqatan
-  taqinakat jaysañani, kunjamatak aka jaqinakax ukhamar uñt'asisa: jaya
-  arunaka, sut uñt'añanaka, feriados ukat uru sarnaqaña. Pä jan ukax kimsa
-  suytanakampi jawsañaxa. Sapa juchanakax chiqpachaki sut uñt'añ kunsa
-  uñjañaxa, janiw khitirus ch'iqipxañ, puntaj jan uñjañ, ukat sapa sut
-  uñt'añ parlañ qalltañataki. "Akax ukax jan akhamäki" ukham jawsañanaka
-  jan jisk'a jan pantjañ ukax nayrapacha jaqinakatakix walikïspa.
+  Demencia ukan jakirinakatakix sasa yatiyawiw walikiyaraki kunapachatixa
+  parlañ uñtasirjama, janiw amtaña uñtasirjamäkiti. Sapa mayni kunanakaru
+  jutiri pachanakaru jaysaña, kantunaka, qhanañchañanaka, aruma pacha ukat
+  jakaña ukanakaru jaysam, ukat sapa kutiw paqallq jan ukax kimsa ajllinakaw
+  churañamawa. Jawabsa sapa kuti khuyapayasiñampi churam, khitis jan jakasiñ
+  sarnaqapxi ukaruw uñjañamäkiti, puntajinakaw jan utjañamäkiti, ukat sapa
+  jawabsa parlañ qalltañataki ocurañamawa. "Kawkïri" jan ukax "kawkïri" jan
+  jawabnïr ajllisiñanakax tuqinakan walikïspawa.
 keyPoints:
-  - "Nayraru yatiyata taqinakat jawsañ: jaya arunaka, sut uñt'añanaka, feriados, manq'a ukat uru sarnaqaña."
-  - "Pä jan ukax kimsa suytanakampi jawsañ, ukhamat sut uñt'añ yatiqañ, janiw amuyuñ chiqa."
-  - "Sut uñt'añ suma arumpi jawsañ ukat sarañ. Kunas juk'a amuyt'ata parlañ qalltaraki, ukax walikiwa."
-  - "Puntaj jan, t'aqa t'aqa jan mayjt'añ, janiw khitirus sapa jaqiruw jawsañ. Sut uñt'añanakax sapa jaqinakat utjañapa."
-  - "Sut uñt'añ ch'iqita pasjañaxa, aka ukat akhama jawsañanakampi sarnaqañ, janiw chiqpach sut uñt'añ utjkiti."
+  - "Sapa mayni kunanakaru jaysam: kantunaka, qhanañchañanaka, aruma pacha ukat maya pachanakan jakaña."
+  - "Paqallq jan ukax kimsa ajllinakaw churam, ukhamat jawab uñtasiñataki, jan amuyañataki."
+  - "Jawab khuyapayasiñampi arsum ukat sarañ. Kuna jawab uka parlañ qalltañapa, ukax walja."
+  - "Puntaj janiw utjañapkiti, jaqinakax janiw mayacht'añapkiti, janiw khitirus sapakiw jawsañapkiti. Jawabanakax sapa taqi tuqit mistuñapa."
+  - "Ajllisiña kunapachatixa jan sayt'ayañjamäki ukhaw kawkïri jan jawab utjkir sasa yatiyawinakar apnaqam."
 faq:
-  - q: "¿Yatiqañ juegos sapa jaqinakatakix walikiwa?"
-    a: "Walikïspa, jan ukax sumpach luqtasa. Alzheimer's Foundation of America uka yatiqañ juegos nayra qullqa sarnaqañ jaqinakatakix yatiyaraki. Taqichuyañanakax nayrapacha aruskipañanakaru jaysañ, suytanaka churañ, janiw khitirus ch'amañ, ukat sut uñt'añanakax parlañ sarnaqañ ukhamarakiwa, janiw pruebañjamäkiti."
-  - q: "¿Kunas yatiqañ juegos walikïspa sapa jaqinakatakix?"
-    a: "Nayra pacha yatiqatanakax walikiwa: nayraru jaya arunaka ukat jaqinakan sut uñt'añanaka, feriados, manq'a, deporte ukat uru sarnaqaña, kunjamtix leche aptaña ukat teléfono rotativo. Jichhürunaka noticias ukat juk'a jaysañ ukanakax jan ch'iqipxaña."
-  - q: "¿Kunjamsa yatiqañ juego luqtaña asilo ukax jan khitis llakisiñapataki?"
-    a: "Sapa taqichuyañ grupo ukar jawsaña, suytanaka uñt'añ ukat parlañ, sapa jaqirus jawsañ. Janiw khitirus sutiparu ch'iqipxañ, janiw puntaj uñjañ. Kunas sut uñt'a, sonrisa churañ, ukat jaysañ, sañ kunas jumax ukhamarak 'Khitis ukhamaruw auto cine uñjañ'."
-  - q: "¿Kunas luqtasma yatiqañ juegos ipnaqatanx?"
-    a: "Jan akax jan pantjañ taqichuyañanakaru ch'iqitaña, kunjamtix 'Kafe ukax t'é?' ukat 'Qutu ukax sayañ?' ukanakaru, jaya arunak chhaqtañ ukat kuna taqinakas tukuyañ. Uñjañ ukat uñjata akapachan parlañ ukhamarakiwa walikïspa."
+  - q: "¿Ukax demencia ukan jakirinakatakix sasa yatiyawix walikiykaspati?"
+    a: "Walikiykaspawa, ukax suavemente luqtasa. Alzheimer's Foundation of America sat yatiyawiw nayrïr qalltañ pacha ukatakix sasa yatiyawinakan utjañapa. Jutiri pachanakaru jaysañamawa, ajllinakaw churañamawa, janiw khitirus sapakiw jawsañamäkiti, jawabanakax parlañ thakiruw uñjañamäkiti, janiw yatiñ amtañ kunanakaru."
+  - q: "¿Kuna tuqinakansa demencia sasa yatiyawix walikïspa?"
+    a: "Maya pachanakan yatiyata kuna walikiwa: jaqix sarnaqañ pachan ist'ata kantunaka ukat cantantenakax, jaqiru qhanañchata sasiñanakax, aruma pacha, manq'a, deporte ukat jakaña pachpa, kunjamasa leche aptaña utjatäki ukat teléfono rotativo. Jichhür uñjata yatiñanakax, ukat kuna sarnaqat amuyañanakax jan ch'amampi jaytañamawa."
+  - q: "¿Kunjamsa sasa yatiyawi apnaqsna jan kunatak jaqir llakisiñataki care home ukan?"
+    a: "Sapa jiskʼa jaqinakaru taqi jaqinakaru ist'ayañamawa, sapa tuqit jan ukax rakhinak uñjayañamawa, ukat sapa jaqir jawab churañ mayisiñamawa. Janiw khitirus sapakiw jawsañamäkiti, janiw puntajinakas amtañamäkiti. Kunatï jawabxi, khuyapayasiñampi jawab churam, ukat ukatxa jutiri jaysam, akham: '¿Kawkirinakatsa cine aknaqanti?', ukhamat parlañ qalltañataki."
+  - q: "¿Kunaw sasa yatiyawi ukat ukatxa jakañ pachanakan luräñ?"
+    a: "Jichhür uñjatanakampi jan ukax jan yatiñ yatiñanakampi, ajllisiña jan utjaña ukanakampi, ukat mistuñ amuyañataki, ajllisiñanakax. Ukhamata, ukat ch'uyma jaqinakampi chuymanakaxa yatiyañanakampi uñjañamawa."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -48,135 +48,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Yatiqañ juegos sapa jaqinakatakix grupo chiqanakan asilonakan ukat sarnaqañ utanakan maynïr jawsatänwa, ukat wasitat familianakax uywat ch'uxña mesanakan lurapxi. Puntajampi, maynir jaqir jawsañampi ukax, sapa jaqirux ch'amaxa jan amuyt'añ utjañ ukax, jupax llakisiñ utjaraki. Suma ukhamaxa, parlañ chiqpacha sarnaqañ ukax k'achasiñ. Akan 50 sencillo taqichuyañanaka suytanakampi ukat sapa juk'a parlañ yatiyañanakampi, ukat kunjamsa yatiqañ tantachaña, uk qhipa yatiyañ.
+Sasa yatiyawix tuqinakan jaqinakax kuna care homes ukat day programs ukanakan achunakaw mayisipxi, walja familiasa mesa uñtasiñanakanxa lup'iwayapxi. Tuqinakan puntajampi ukat maynit jawab churañampi lurañjamaxa, demencia ukan jakirix llakisiñ utjaspa. Khuyapayasiñampi lurañjamaxa, jach'a parlañ uñtasiñawa, chiqpachansa sapa jaqix arunak ist'añ munaraki. Akatjamaxa 50 sasa yatiyawi, jawab ajllisiñanaka ukat sapa tuqir parlañ tuqinaka, ukat kunjamsa sesión lurañ uñt'ayatänwa.
 
-## ¿Kunjamsa yatiqañ juego sapa jaqinakatakix walikïsi?
+## ¿Kunjamsa sasa yatiyawix demencia ukan jakir jaqitakix luräna?
 
-Nayra pachan yatiyata ukat amuyt'ata uñt'añ ukat sapa sut uñt'añ walikïspa sarnaqañ.
+Jan amuyañ jan ukax uñjata yatiñanakar amuyañ tuqit yatiyañ, ukat sapa jawab churañ mayisiñ.
 
-1. **Nayra pacha taqinakat jawsañ.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) yatiyi, nayra Alzheimer's uñt'äwi, machaq yatiyata amuyt'añax jan walt'äwi. Jaya arunaka, sut uñt'añanaka ukat uru sarnaqaña nayra pachat walikiwa.
-2. **Suytanaka churañ taqi kuti.** Kimsa jan ukax pä suytanakat chiqa sut uñt'añax, janiw amuyt'añampi lurañjamäkiti.
-3. **Taqichuyañanaka sut ukat jach'a uñjayañ.** Pizarra jan ukax tablet uñjayañ, jan ist'aña jaqinakatakix yanapt'i.
-4. **Sut uñt'a khuyaptayasa.** Janiw khitis yatkiti ukhaxa, suma arumpi uñt'aña, sarañ. Janiw "Jumax yatïta, ¡ukax sapaki!" sañ.
-5. **Puntaj jan.** Janiw khitirus ukat janiw mesanakar. Jan jiwasa uñjañ munaski ukhaxa, pä jaqinakan jach'a puntaj jupanakar.
-6. **Khitirus sutip jawsañ jan.** Sapa jaqirus sut uñt'añ. Jupanakar sapa jaqiruw sarañ: "Jiwasax piano ukax ukaw sasaw amuyta. Jumax kunsa amuyasa?"
-7. **Parlañ yatiyata ocupaña.** Sut uñt'añ qalltañ ukax, janiw tukuñ. Parlañ chiqpach amtañawa.
-8. **Ch'ukʼa sarnaqañ.** Pä chunka taqichuyaña, parlañanakampi yaqha sarnaqañanakan ukax walikiwa.
+1. **Nayrïr pachanakat jaysam.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) sat yatiyawiw Alzheimer's ukan nayrïr uñjatanakapa, jichhür yatiñanakar amuyañ chiqaw jan walïki. Kantunaka, qhanañchañanaka ukat maya pachanakan jakaña, walja pacha ukat nayrïr pachanakat, walja sapa kutiw sasiñ aski.
+2. **Sapa kuti ajllisiñanaka churam.** Kimsa ukat paqallq ajllisiñanakat chiqa jawab ajlliñax, nayrankiri jawab amuyañat sasaki.
+3. **Jaysañ arsum ukat jach'a uñjayañ.** Pizarra jan ukax tablet uñjayañ, jan ist'ir jaqinakataki yanapt'ayi.
+4. **Jawab khuyapayasiñampi churam.** Khitis janiw yatiskiti ukhaxa, sarnaqañ khuyapayasiñampi. Janiw "Ukax jumax yatiskasma" sasa.
+5. **Janiw puntaj.** Janiw khitirus sapakiw, janiw mesanakanakis. Jaqinakax jayp'u munapxi ukhax, sapa grupon jach'a jakhu.
+6. **Janiw khitirus sapakiw jawsañ.** Jawabanakax taqinakat mistuñapa. Sapa jaqi sapakïkaspa ukhax, chika jawsañamawa: "Nayax piano sasaw amuyt'äma. Jumax kunsa amuyasta?"
+7. **Parlañ tuqi ocurañ.** Jawabax qalltañawa, tukuyañ janiw. Chiqpachansa amtasiñax arunakawa.
+8. **Chika lurañ.** Lunthatas jawab, ukat parlañanaka, walikiwa.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi sapa ukat: ch'amanchasiñapataki uñjaña, jaqix suma uñt'ataspa ukhamarak sarnaqañ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yatiyi yatiqañ juegos nayra pachan sarnaqañ jaqinakatakix. Taypi pachan, pä suytanakampi sarnaqañ, parlañ yatiyanakar ch'iqiñ. Qhipäru, jan suytanaka chiqañ taqichuyañanakar sarañ.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sat yatiyawix sapa mayni chiqaw sasi: jaqi llakisiñ uñtasiñ ukat khitinakas ch'uxña lurañ tuqi uñjañamawa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) sat yatiyawix sasa yatiyawi nayrïr qalltañ pacha ukatakix sasa yatiyawinakan utjañapa. Taypi pachan kimsa ajllisiñanakaw churañamawa, tuqinakampi uñjañamawa. Qhipürux "kawkïri" ajllisiñanakat yapuchañamawa.
 
-## Música ukat entretenimiento yatiqañ
+## Kantu ukat uñtasiña yatiyawi
 
-Sut uñt'ata **negritanakan** utjaraki. Kunjamtix jaqejj utjatanakar ukhamaw lurañ: Motown ukat big band sarnaqañ jaqinakax juk'ampinaka yatipxi.
+Jawabax **qala** uñjatawa. Kunjamtï jaqi uñjata ukhamaw luräna: Motown ukan jakasa ukax, big band uñtasiñ jaqinakat ukhamaw ch'iqapt'añ.
 
-| Taqichuyaña | Suytanaka | Parlañataki |
+| Yatiyawi | Ajllisiñanaka | Parlañ tuqi |
 | --- | --- | --- |
-| ¿Khitis "Rock and Roll ukan Mallku" sutinkänaspa? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ¿Elvis TV ukan uñjatawa? |
-| ¿Khitis "Ol' Blue Eyes" sutinkaspa? | Dean Martin, **Frank Sinatra**, Perry Como | ¿Kuna Sinatra jaya ukax suma sasaw amuyta? |
-| Bing Crosby qhaqapuqtañ "Christmas" ... | **Christmas**, boda, jaya | Sapa jaqinakampi jaya jaqinakan jaya arsuña |
-| Louis Armstrong "Qué maravilloso..." sisaw | Uru, **Mundo**, Jakäwi | ¿Kunjamtixa mundo suma uñtaspa? |
-| "Over the Rainbow" Judy Garland sisaw, ¿kuna pelíkula ukansa? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | ¿Kawkïnsa suma películanak uñjatänwa? |
-| ¿Khitis "I Love Lucy" ukan Lucy ukhamaraki? | **Lucille Ball**, Doris Day, Betty White | ¿Kuna televisiónanak familiamp uñjatänwa? |
-| ¿Khitis Trigger sutin caballo ukar sarnaqaski? | **Roy Rogers**, Gene Autry, John Wayne | ¿Wawanakan vaquerunakar jaqhaspati? |
-| ¿Khitis "The Tonight Show" 30 maranak sarnaqäna? | Ed Sullivan, **Johnny Carson**, Bob Hope | ¿Tv uñjañatak qhipa pacha jaqhaspati? |
-| ¿Kuna instrumentos 88 ch'iqinaki? | Guitarra, **piano**, trompeta | ¿Familiamp khitis ch'uqi arusiñ yatänwa? |
-| ¿Kuna danzas kimsa-kimsa-kimsa ukhamar sarañ? | **Vals**, twist, tango | ¿Kawkïr danza sarañanakas uñjatänwa? |
+| ¿Khitisa "King of Rock and Roll" sasa sutichatäna? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ¿Elvis televisión ukan uñjtati? |
+| ¿Khitisa "Ol' Blue Eyes" sasa sutichatäna? | Dean Martin, **Frank Sinatra**, Perry Como | ¿Kuna Sinatra kantu munasta? |
+| Bing Crosby qalltawa willk'i... | **Navidad**, boda, uta | Kuna lirika taqiniw kantasipxi |
+| Louis Armstrong "What a Wonderful..." sasa kanturakïna | Uru, **Pacha**, Jakañ | ¿Kunsa pacha jumatakix suma? |
+| Judy Garland "Over the Rainbow" kantu kuna película ukan? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | ¿Kawkïr películanakas uñjtati? |
+| ¿Khitisa "I Love Lucy" ukan Lucy ukhamaw lurañ? | **Lucille Ball**, Doris Day, Betty White | ¿Kuna programanakas familiamp uñjapxtasa? |
+| ¿Kawkïr vaquero Trigger sasa caballo ukar sarañ? | **Roy Rogers**, Gene Autry, John Wayne | ¿Wawanakan vaquero uñtasiñ lurätati? |
+| ¿Khitis "The Tonight Show" ukar 30 maraw uñt'ayäna? | Ed Sullivan, **Johnny Carson**, Bob Hope | ¿Televisión uñjañatak q'ipi qhipkama jaktati? |
+| ¿Kawkïr instrumentosa 88 teclado? | Guitarra, **piano**, trompeta | ¿Familiamp khitis tocäna? |
+| ¿Kawkïr baile kimsa-kimsa uñt'atäki? | **Vals**, twist, tango | ¿Kawkïr chiqansa baile uñtasiñ sarxtati? |
 
-Música ukat yatiqañ yatiyañanakatakix, uñjañ [musica ukat dementia](/activities/music/).
+Mä yatiyawi aski uñjañataki, [música ukat demencia](/activities/music/) uñjañamawa.
 
-## Uru sarnaqaña ukat yatiqañ
+## Jakaña ukat uru pacha yatiyawi
 
-| Taqichuyaña | Suytanaka | Parlañataki |
+| Yatiyawi | Ajllisiñanaka | Parlañ tuqi |
 | --- | --- | --- |
-| Refrigeradores jan ukax nayra pachan, uta manq'a ... | **Hielera**, horno, desván | ¿Khitis hielo apanïna? |
-| ¿Khitis leche apanïna vidrio botellanakan puerta uñt'ayaraki? | Cartero, **lechero**, periodiquero | ¿Kuna yaqha taqinakas utar apanïna? |
-| ¿Kunjamsa teléfono rotativo ukan jawsañäna? | Botonanak luqtañ, **rueda sarañ**, sapa arumpi parlañ | Jumanakan utan teléfono ukat parlaña |
-| ¿Kawkïr empresa Model T auto lurawayi? | **Ford**, Chevrolet, Buick | Auto kawkïr munasmat parlaña |
-| ¿Kawkïrsa soda jerk uñjasi? | **Soda fountain**, panadería, banco | ¿Kunsa mostrador ukan mayiyta? |
-| ¿Kuna juguete metal resorte ukax eskalera ukan sarañ? | Yo-yo, **Slinky**, hula hoop | ¿Kuna juguetenaka munasmatäta? |
-| Drive-in ukax ... uñjañatakiwa | **Auto ukat películanak**, ch'iqa juegos, desfiles | ¿Khitimp sarañ munasta? |
-| ¿Khitis uka un dólar qullqir uñt'ata? | Lincoln, **George Washington**, Jefferson | Nayra pachan kuna qullqis lurañ? |
-| ¿Khitis penny qullqir uñt'ata? | **Abraham Lincoln**, Washington, Franklin | Nayra pachan penny ukanakampi pirqa ukax imañasa? |
-| ¿Kunjamsa escuela bus ukax ch'uxña? | Ch'uxña, **amarillo**, azul | ¿Kunjamsa escuelar sarañäna? |
+| Refrigeradores janiw utjkänti ukhax, wasit manq'a sayt'ayatäna... | **Hielo kayu**, horno, uñtasiña | ¿Khitis hielo apäna? |
+| ¿Khitis leche vidrio botellanakan puerta ukar apäna? | Cartero, **lechero**, periodiquero | ¿Kunanakas wasar apaqatäna? |
+| ¿Kunjamas teléfono rotativo sasa llamäta? | Botonanak ch'uqt'asa, **rueda kuti ch'uqt'asa**, parlasa | Wasan teléfono ukat parlañam uñtasiña |
+| ¿Khitis Model T auto luräna? | **Ford**, Chevrolet, Buick | Auto kuna munasta uka uñtasiña |
+| ¿Kawkïr chiqansa soda jerk jaysi? | **Soda fountain**, panadería, banco | ¿Kunsa mostrador ukan mayitäta? |
+| ¿Kawkïr juguete, metal resorte, graditanakan sarañ uñjata? | Yo-yo, **Slinky**, hula hoop | ¿Kuna jugueteninakas munasta? |
+| Drive-in sasaw uñtasiñ utjäna... | **Auto ukat cine uñjaña**, pelota partidonaka, desfile | ¿Khitimp sarxtati? |
+| ¿Khitis uñjasiñ one-dollar billete ukan? | Lincoln, **George Washington**, Jefferson | ¿Kunas pä dólar ukan sarañ? |
+| ¿Khitis penny ukan uñjasiñ? | **Abraham Lincoln**, Washington, Franklin | ¿Penny ukanakar qhurt'äta jaqha ukan? |
+| ¿Kawkïr color skul bus ukax jani? | Chilli, **amarillo**, azul | ¿Kunjamasa skulan sarxtati? |
 
-## Feriados, uñt'äwi ukat maranakan
+## Fiesta, uraqi ukat chiqanaka
 
-| Taqichuyaña | Suytanaka | Parlañataki |
+| Yatiyawi | Ajllisiñanaka | Parlañ tuqi |
 | --- | --- | --- |
-| ¿Kuna feriado November tuqin kimsïri Jueves uñt'ayaspa? | Labor Day, **Thanksgiving**, Memorial Day | ¿Kunas mesan jani ukar utjäna? |
-| Jack-o'-lanterns uka ¿kunatakis lurasi? | **Halloween**, Pascua, Navidad | Halloween nayra pachan parlaña |
-| Fourth of July uka Declaration of ... uñt'ayi | Rights, **Independence**, Freedom | ¿Kawkïr fuegos artificiales uñjatänwa? |
-| Mother's Day uka ¿kuna mesanakansa? | Abril, **Mayo**, Junio | ¿Familiamp kunsa uñtasïna? |
-| ¿Kuntis bandera americana patanakan qulumpisa? | 48, **50**, 52 | Bandera 1959 kama 48 qullunakampi utjäna. Ukat jupanakax suma amuyt'añaw utjaraki |
-| ¿Kawkïr mar East Coast ukanwa utji? | Pacífico, **Atlántico**, Ártico | ¿Playaruw sarañ munasmati? |
-| ¿Kawkïr marka Estatua de la Libertad ukax? | Boston, **Nueva York**, Filadelfia | ¿Nueva Yorkar sarañ munasta? |
-| ¿Kunsa ch'ankanakax lurapxi? | Leche, **miel**, seda | ¿Miel tostadaruw jan ukax tér ukarumpi? |
-| Wawa vaca ukax ... sasaw | Potrillo, **ternero**, cabrito | ¿Chakar jakañ jumanaka chiqan utjatawa? |
-| ¿Kuna sachanakas ch'uxña flor ukax inti sartaskañäwa? | Rosa, **girasol**, tulipán | ¿Kuna sachanakas uta patiñaru utjäna? |
-| ¿Kunti urunakas utjaraki leap year ukan? | 365, **366**, 360 | Yuqalla cumpleaños ukat parlaña |
-| ¿Kuna mesas invierno qhipa? | Otoño, **primavera**, verano | ¿Kawkïr mesas munasmati? |
+| ¿Kawkïr fiesta novimbre phaxsin kimsa quri jueves ukan? | Día del Trabajo, **Acción de Gracias**, Día de los Caídos | ¿Kunas mesan kunapachas utjäna? |
+| Calabazanakax kawkïr fiestatakis luräna? | **Halloween**, Pascua, Navidad | Halloween ukax kawkïr chiqan uñtasiñ |
+| Fourth of July ukax Declaration of... sasa uñt'ayi | Derechos, **Independencia**, Libertad | ¿Kawkïr chiqan fuegos artificiales uñjatati? |
+| ¿Kawkïr phaxsin Mother's Day utjaraki? | Abril, **Mayo**, Junio | ¿Familiamp kunjamasa uñt'äna? |
+| ¿Kunti jach'a estrellanakas American flag ukan? | 48, **50**, 52 | Bandera ukax 1959 mara kawkïr 48 estrellanakaniwa. Ambos jawab amuyañ suma |
+| ¿Kawkïr mar East Coast ukan utji? | Pacífico, **Atlántico**, Ártico | ¿Playanakar sarañ uñtasta? |
+| ¿Kawkïr markan Statue of Liberty utji? | Boston, **Nueva York**, Filadelfia | ¿New Yorkar sarañ uñtasta? |
+| ¿Kunsa abejanakax lurapxi? | Leche, **miel**, seda | ¿Miel pan ukan jan ukax té ukan? |
+| Wawa vacanaka sasa... | Potro, **ternero**, cabrito | ¿Chakarkama jakañ uñtasiñ utjäna? |
+| ¿Kawkïr jach'a q'illu ruma inti sartiri sasa uñjata? | Rosa, **girasol**, tulipán | ¿Kunas wakhar uñtasiñ? |
+| ¿Kunti urunakas kimsa maraw utji? | 365, **366**, 360 | Yatiyawi jumar cumpleaños ukat uñtasiñ |
+| ¿Kawkïr pacha invierno ukat qhipäki? | Otoño, **primavera**, verano | ¿Kawkïr pachas munasta? |
 
-## Manq'a ukat deporte yatiqañ
+## Manq'a ukat deporte yatiyawi
 
-| Taqichuyaña | Suytanaka | Parlañataki |
+| Yatiyawi | Ajllisiñanaka | Parlañ tuqi |
 | --- | --- | --- |
-| Pasas ... uñt'ayaraki | Ciruelas, **uvas**, cerezas | ¿Pasas wawanakan almuerzo ukar churäta? |
-| Ciruelas secas ... uñt'ayaraki | **Ciruelas**, higos, manzanas | ¿Khitis familiamp ciruelas munaspa? |
-| Mant'a ... ukat | Arvejas, **queso**, jamón | ¿Ch'iqi jan ukax suma? |
-| Guacamole ukax jach'a ... | Arvejas, **paltas**, pepinos | ¿Kuna mistura fiestanakan apaqatänwa? |
-| ¿Kuna Thanksgiving ukan munat tortas ukax? | **Calabaza**, limón, cereza | ¿Kuna tortas lurätam? |
-| ¿Kuntis béisbol equipo ukan campon sarañapa? | 7, **9**, 11 | ¿Kawkïr equipo jiwasa munasta? |
-| ¿Kuntis strike ukanakax out ukar puriñapa? | Pä, **kimsa**, pusi | ¿Béisbol pichañ jaqhaspati? |
-| Babe Ruth ukax kawkïr deporte ukanwa yatiyi? | Box, **béisbol**, golf | ¿Béisbol juegonakar sarañ? |
-| ¿Kuntis golf campo ukan hoyonakax utjapxi? | 9, **18**, 24 | ¿Golf jan ukax mini golf pichañ jaqhaspati? |
-| ¿Kawkïr deporte ukan touchdown uñjasi? | **Fútbol americano**, hockey, básquetbol | ¿Khitis fútbol uñjañ utar utjäna? |
+| Pasas... ukax chuñu uvanakawa | Ciruelas, **uvas**, cerezas | ¿Pasas wawanakan almuerzo ukan apanakäta? |
+| Ciruelas sasa... | **Ciruelas**, higos, manzanas | ¿Familiamp khitis ciruelas munäna? |
+| Maní mantequilla ukat... | **Mermelada**, queso, jamón | ¿Crujiente jan ukax suave munasta? |
+| Guacamole ukax mayakïkiw... | Arvejas, **aguacates**, pepinos | ¿Kunas fiestanakan q'ipi uñjatäna? |
+| ¿Kawkïr pastel Acción de Gracias ukan munatawa? | **Calabaza**, limón, cereza | ¿Kawkïr pastel lurätta? |
+| ¿Kunti jaqinakas béisbol equipo ukan campo ukan utji? | 7, **9**, 11 | ¿Kawkïr equipo munasta? |
+| ¿Kunti strikenakas béisbol ukan out ukar apaski? | Paqallq, **kimsa**, pusi | ¿Pelotar jaktati? |
+| Babe Ruth ukax kawkïr deporte ukat sutichatäna? | Boxeo, **béisbol**, golf | ¿Pelota partidonakar sarañ uñtasta? |
+| ¿Kunti hoyonakas golf chiqan utji? | 9, **18**, 24 | ¿Golf jan ukax mini golf uñjañ uñtasta? |
+| ¿Kawkïr deporte ukan touchdown lurasi? | **Fútbol americano**, hockey, básquetbol | ¿Khitis fútbol uñjäna wasan? |
 
-## Aruskipañ arunaka
+## Maya arunaka
 
-Arunaka tukuyañax nayra pacha yatiñ ukat sapaka sarañ. Nuestro [Finish the saying](/games/finish-the-saying/) juego askinak utjaraki.
+Arunak tukuyañax nayrïr yatiñat sarnaqañ ukax, sapa kutiw walikiyaraki. Nuestro [Finish the saying](/games/finish-the-saying/) juego ukan walja arunakaw utji, sapa tukuyañ uñjañataki.
 
-| Aru | Suytanaka | Parlañataki |
+| Aru | Ajllisiñanaka | Parlañ tuqi |
 | --- | --- | --- |
-| Sapa uru manzana ... ukax doctor ukar ... | **Doctor lejos**, lluvia lejos, gato lejos | ¿Khitis jumar akham sasaw? |
-| Madrugador ukax ... catch | Bus, **gusano**, tren | ¿Jumax ch'ikhi uru jaqhaspati? |
-| Chiqpacha pisi ... ukhamat jan kawkïr | **Hatch**, sleep, sing | ¿Familiamp gallinas utjäna? |
-| Pirqa qullqi ... ukat | **Earned**, lost, spent | ¿Khitis familian pirqirïna? |
-| Uta ... ukax | Garden is, **heart is**, kitchen is | ¿Kunsa uta ukar sut uñt'ayi? |
-| Mayja ... ukat | Early, **never**, sorry | ¿Khitis sapa mayja jutaskäna? |
-| Sapa jaqi ... silver ... | **Lining**, spoon, coin | Suma uru parlaña |
-| Lurawinakax arunakat ... | **Words**, music, thunder | ¿Khitis akham sasaw? |
+| Sapa uru manzana... ukax doctor ukat jaysaski | **Doctor**, lluvia, gato | ¿Khitis jumar akham sasiyäna? |
+| Madrugador ukax... | Bus, **gusano**, tren | ¿Jumax alba pacha lurasiri? |
+| Wallpanak jaktañat q'ipi... | **Ch'allt'asiña**, puyñu, janchi | ¿Familiamp wallpanak utjäna? |
+| Qhurt'atanaka... | Mäs, **jan qhurt'ata**, sapa | ¿Khitis qhurt'äna? |
+| Wasa... ukax chuym ukan utji | Jardín, **corazón**, cocina | ¿Kunas wasar jakañ uñtayi? |
+| Late ukat... | Early, **never**, sorry | ¿Khitis sapa qhipäki? |
+| Every cloud ukax silver... | **Forro**, cuchara, moneda | Yatiyawi ch'uxña pachas uñtasiñ |
+| Actions speak louder than... | **Palabras**, música, trueno | ¿Khitis akham sasiyäna? |
 
-## Jan pantjañ kuna jawsañanakas, suytan ukat jaqhañ
+## Kawkïri, jan ukax kawkïri ajllisiñanaka jan jawabnïr
 
-Akanakax sapa phasen walikïspa, ukhamarak qhipa phasen, janiw kunsa pantjañ utjkiti. Jawsañ, ist'añ, ukat jumanakan jawsañ pä ch'iqar.
+Akanakax sapa mayni pachanakan suma, mä jawabsa janïr utjkiti ukhax. Jawsam, ist'am, ukat jumaru kunas amuyasta uk parlam.
 
-- ¿Kafe jan ukax t'é?
-- ¿Playa jan ukax qullu?
-- ¿Wilanakax jan ukax ukhamak?
+- ¿Café jan ukax té?
+- ¿Playa jan ukax qullunaka?
+- ¿Allqunaka jan ukax gatonaka?
 - ¿Verano jan ukax invierno?
-- ¿Tortas jan ukax pastel?
-- ¿Danzaña jan ukax uñjaña?
-- ¿Inti jalsu jan ukax inti sarañ?
-- ¿Uta punku jan ukax qhipa pacha?
+- ¿Pastel jan ukax torta?
+- ¿Baile jan ukax uñjaña?
+- ¿Inti jalsu jan ukax inti sarnaqaña?
+- ¿Puerta uñtasiña jan ukax qhipa uta?
 - ¿Radio jan ukax discos?
-- ¿Panqueques jan ukax huevos?
-- ¿Rosas jan ukax margaritas?
-- ¿Tren sarañ jan ukax auto sarañ?
+- ¿Panqueque jan ukax huevo?
+- ¿Rosa jan ukax margarita?
+- ¿Tren sarnaqaña jan ukax auto sarnaqaña?
 
-Imágenes ukanakamp parlañ ukatak, [Conversation cards](/games/conversation-cards/) printable ukar uñjañ.
+Uñjatanakamp parlañ tuqinakataki, nuestro imprimible [Conversation cards](/games/conversation-cards/) uñjam.
 
-## ¿Kunjamsa yatiqañ tantachaña asilo jan ukax grupo ukan?
+## ¿Kunjamsa care home jan ukax grupo ukan sasa yatiyawi lurasa?
 
-1. **Jaqinakar jaysañ, uñjañ ukat ist'añ.** Oídos ukat ñawinak ch'iqaña, TV ukax jan.
-2. **Parlañ sasaw qalltaña.** "Nayra pachan kuna yatiqañanaka utjapxi, jumanakax nayrar sapa yatxatanakan."
-3. **Sapa taqichuyaña pä kuti sasaw, suytanaka jach'a uñjaña.**
-4. **Sapa jaqi uñt'aña.** Suma sut uñt'añanakar qhipa saña, ukhamat sapa jaqix ist'añapa.
-5. **Sut uñt'añ sapa jaqitakix sañ,** ukat parlañ yatiyata tantachañ.
-6. **Parlañ amuyt'añ.** Kunsa mä taqichuyaña chunka minuto parlañ, ukax walikiwa.
-7. **Qhipäru taqi jan ukax jaya arunaka,** ukhamat sapa jaqix sumpach tukuyañapa.
+1. **Jaqinakax uñjañ ukat ist'añ sasa uñtasiñ.** Ist'añ artefactonak, lentes, TV jan utjañapa.
+2. **Parlañ uñtasiñ sasa qalltam.** "Nayax nayra pachan tuqi yatiyawinaka utjapxi, ukat jumax nayat sipan yatiñ sapxtam sasa amuyaraktwa."
+3. **Sapa yatiyawi paqallq kutiw sasa, ajllisiñanaka jach'a uñjayañ.**
+4. **Jawab taqi ukat taqinakat chiqaru churam.** Walik jawab uñjat sasiñ, ukhamat taqinakax ist'apxañapa.
+5. **Jawab taqinakar sasa yatiyaña**, ukat parlañ tuqi jaqinakar sasa jaysam.
+6. **Taqinakan amuyu uñjam.** Kunapachatï maynit yatiyawi jaqi chuymanakan parlañ qalltañapa, ukhamaw sarañapa.
+7. **Achu jan ukax ajllisiña ukat tukuyañ,** ukhamat taqinakax walikiwa sarapxañapa.
 
-Yaqha grupo sarnaqañanakatakix, [group activities for care homes](/activities/care-home-groups/) uñjaña.
+Yaqha grupo sarnaqañanakatakix, picture bingo ukat canto grupal ukanakatakix, [care homes ukan grupo lurañanaka](/activities/care-home-groups/) uñjam.
 
-## ¿Kunapachas plan sayt'ayaña?
+## Kunapachatï lurañ jaktañapa
 
-Jumax jan sumpach uñjasma, jan parlañ jan ukax "Janiw yatkti" sasma, sapa jaqimpi sarnaqañ lurañ: pä suytanakar mistuña, ukhamarak sapa jaqi jawsañ, jan ukax jan ch'iqipxañ yatiqañ. Grupo pachpa taqichuyaña chiqpach parlañ munaspa ukhaxa, ukax sum sarnaqañawa. Amtañax janiw sut uñt'añatakiwa, ukax mä sumpach jaqinakampi pacha sarnaqañawa.
+Jaqi llakisi, isi, jan ukax "janiw yatiskti" sasa paqallq kutiw sasi ukhax, sayt'ayañ sasiñaru: paqallq ajllisiña, taqinakampi jawab churañ, jan ukax kawkïri ajllisiña. Taqinakax maynit yatiyawi tuqi sapa tarde parlañ munapxi ukhax, akaw suma. Amuyuqa janiw jawab chiqar taqi kuti churañ sasa ukhamaw, jaqinakamp tuqi jakasiñ sasa.

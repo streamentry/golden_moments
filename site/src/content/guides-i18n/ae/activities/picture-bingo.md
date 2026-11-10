@@ -1,28 +1,33 @@
 ---
-title: "𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬥𐬋 𐬰𐬀𐬭𐬆𐬱𐬀𐬌𐬱 𐬫𐬀𐬊𐬌 𐬀𐬞𐬀𐬨𐬆𐬨𐬀𐬌𐬙𐬌𐬌𐬁"
-seoTitle: "𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬥𐬋 𐬰𐬀𐬭𐬆𐬱𐬀𐬌𐬱"
-description: "𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬥𐬋 𐬰𐬀𐬭𐬆𐬱𐬀𐬌𐬱 𐬫𐬀𐬊𐬌 𐬀𐬞𐬀𐬨𐬆𐬨𐬀𐬌𐬙𐬌𐬌𐬁، 𐬨𐬀𐬰𐬀𐬥𐬙𐬀 𐬗𐬌𐬙𐬭𐬀𐬌𐬱، 𐬨𐬆𐬭𐬆𐬛𐬎 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬋، 𐬥𐬋𐬌𐬙 𐬎𐬎𐬀𐬥𐬀𐬙𐬀𐬭𐬀 𐬛𐬀𐬠𐬀𐬌𐬙𐬌، 𐬗𐬀 𐬎𐬞𐬀𐬌𐬙𐬌𐬱 𐬵𐬀𐬥𐬋 𐬐𐬀𐬵𐬌𐬌𐬀 𐬛𐬀𐬑𐬀 𐬎 𐬥𐬨𐬁𐬥𐬀𐬌𐬱."
+title: "Ciϑra-Bingo Hanāibyō Vī-marənteibyō, Gātuš vā Pardayā"
+seoTitle: "Ciϑra-Bingo Hanāibyō Vī-marənteibyō"
+description: "Ciϑra-Bingo hanāibyō vī-marənteibyō, frašta vā pardayā: masitā ciϑrā, rāma-sravah-yō, nōit vanatō āziš, vaēδā-ca kasu-handāmanāi nmānō-nipāte-ca."
 section: activities
 order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬀𐬢𐬐𐬀𐬥 𐬀𐬞𐬌 𐬗𐬌𐬙𐬭𐬀𐬌𐬱 𐬨𐬀𐬰𐬀𐬥𐬙𐬀 𐬎 𐬭𐬀𐬊𐬱𐬀𐬥𐬀 𐬛𐬀𐬛𐬁𐬌𐬙𐬌، 𐬫𐬀𐬚𐬀 𐬨𐬀𐬭𐬆𐬙𐬁𐬥𐬋 𐬫𐬀𐬌𐬱 𐬛𐬌𐬛𐬀𐬉𐬙𐬌 𐬵𐬀𐬨𐬀 𐬐𐬀𐬭𐬆𐬥𐬙𐬌، 𐬥𐬀 𐬞𐬀𐬌𐬙𐬌𐬱 𐬎 𐬫𐬁𐬙𐬀𐬌𐬙𐬌𐬱. 𐬐𐬀𐬭𐬙𐬀 𐬗𐬁𐬞𐬀𐬌𐬙𐬀 𐬎𐬎𐬁 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬀 𐬛𐬀𐬌𐬚𐬌𐬙𐬌𐬌𐬀 𐬎𐬰𐬀𐬌𐬙𐬀، 𐬀𐬉𐬎𐬎𐬀 𐬗𐬌𐬙𐬭𐬀 𐬀𐬌𐬎𐬎𐬀 𐬎𐬎𐬀𐬑𐬙𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬀، 𐬎 𐬎𐬎𐬌𐬯𐬞𐬀 𐬨𐬀𐬭𐬆𐬙𐬁𐬥𐬋 𐬫𐬀𐬌𐬱 𐬛𐬌𐬛𐬀𐬉𐬙𐬌 𐬗𐬌𐬚𐬥𐬀𐬥𐬙𐬎. 𐬛𐬀𐬑𐬀 𐬐𐬀𐬵𐬌𐬌𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀، 𐬗𐬌𐬙𐬭𐬀𐬌𐬱 𐬎𐬎𐬌𐬭𐬀𐬰𐬀𐬥𐬙𐬀، 𐬎 𐬎𐬎𐬀𐬥𐬀𐬙𐬀𐬭𐬀 𐬀𐬥𐬁𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀. 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬀𐬯𐬙𐬌، 𐬥𐬀 𐬙𐬀𐬗𐬀𐬌𐬙𐬌𐬱 𐬀𐬞𐬌 𐬎𐬞𐬀𐬭𐬀.
+  Ciϑra-Bingo marəncīm masitāiš vī-spaštāiš ciϑrāiš vi-dāδaiti, yāϑa
+  marətā yim vainən paiti-hazaŋhən, nōit fra-srāvayən vā marayən. Kartā
+  frašāuta ayā pardayā sravah-sraota dāta, aēva ciϑrəm aēva zruye srava,
+  vispā-ca yim vainən daxštəm dārayən. Handāmana kasu dāta, ciϑrā vī-spāšti,
+  vanatəm-ca vasnā. Vahištō Bingo-zrvān haxəm-dātiš aiti, nōit ašnō
+  patatəm.
 keyPoints:
-  - "𐬗𐬌𐬙𐬭𐬀𐬌𐬱 𐬀𐬞𐬌 𐬀𐬢𐬐𐬀𐬥 𐬎𐬰𐬀𐬌𐬙𐬀، 𐬎 𐬵𐬀𐬭 𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬰𐬀𐬥𐬙𐬀، 𐬭𐬀𐬊𐬱𐬀𐬥𐬀 𐬎 𐬀𐬞𐬌 𐬀𐬉𐬎𐬎𐬀 𐬐𐬁𐬭𐬀 𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀."
-  - "𐬨𐬆𐬭𐬆𐬛𐬎 𐬀𐬎𐬎𐬁𐬰𐬀𐬙𐬀، 𐬗𐬌𐬙𐬭𐬀 𐬛𐬀𐬌𐬚𐬌𐬙𐬀، 𐬎 𐬥𐬁𐬨𐬀 𐬎𐬎𐬀𐬑𐬙𐬀. 𐬥𐬁𐬨𐬀 𐬀𐬉𐬎𐬎𐬀 𐬞𐬀𐬌𐬙𐬌𐬱 𐬎𐬎𐬀𐬗𐬀𐬙𐬀، 𐬎 𐬞𐬀𐬌𐬙𐬌𐬱 𐬛𐬁𐬭𐬀𐬌𐬙𐬀."
-  - "𐬛𐬀𐬑𐬀 𐬗𐬀𐬚𐬡𐬁𐬭𐬋 𐬀𐬱𐬙𐬀 𐬨𐬀𐬭𐬆𐬙𐬁𐬥𐬋 𐬛𐬁𐬭𐬀𐬌𐬙𐬀، 𐬎 𐬨𐬀𐬭𐬆𐬙𐬀 𐬫𐬀𐬚𐬭𐬀 𐬥𐬌𐬱𐬁𐬛𐬀𐬌𐬙𐬀 𐬫𐬀𐬚𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬀 𐬎 𐬐𐬀𐬭𐬙𐬀 𐬛𐬌𐬛𐬀𐬉𐬙𐬌."
-  - "𐬎𐬎𐬀𐬥𐬀𐬙𐬀𐬭𐬀 𐬀𐬥𐬁𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. 𐬗𐬌𐬱𐬗𐬌𐬙 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬀𐬞𐬌 𐬀𐬉𐬎𐬎𐬀 𐬗𐬌𐬙𐬭𐬀 𐬫𐬀 𐬎𐬀𐬭𐬆𐬰𐬀𐬌𐬙𐬌 𐬀𐬎𐬎𐬁𐬰𐬀𐬌𐬙𐬌 𐬞𐬀𐬌𐬙𐬌𐬱 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌."
-  - "𐬞𐬀𐬌𐬙𐬌𐬱 𐬫𐬀𐬙 𐬎𐬎𐬀𐬥𐬀𐬙𐬁𐬭𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬌𐬙𐬌 𐬞𐬆𐬭𐬆𐬯𐬀𐬌𐬙𐬀. 𐬗𐬌𐬱𐬗𐬌𐬙 𐬨𐬀𐬭𐬆𐬙𐬁𐬥𐬋 𐬛𐬁𐬙𐬀 𐬎𐬎𐬁 𐬵𐬀𐬯𐬙𐬀-𐬛𐬁𐬙𐬀 𐬥𐬀 𐬎𐬀𐬭𐬆𐬰𐬀𐬌𐬙𐬌، 𐬎 𐬙𐬀𐬙 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬀𐬯𐬙𐬌."
+  - "Ciϑrāiš vərəzya nōit marəncibyō, aēva-ciϑrəm-ca masitəm, vī-spaštəm, aēvadaēsam xšnaoϑrəm kərənu."
+  - "Frasraota zya, ciϑrəm daēsaya, nāman-ca mruya. Nāman aēvada paiti-mruya, aiti-ca zruye manaya."
+  - "Handāmana caϑru-bāra ašta-bāra dāta, ahmāi-ca yim nipāhi ahmya gātva nidaϑa yaϑa sravah-yim ciϑra-kartəm-ca vaināt."
+  - "Vanatəm vasnā kərənu. Zrvāna han-jaŋhāt yaϑa vispē aēvəm ciϑrəm yim fryan mruyən."
+  - "Pərəsayehi parō yaδa vanatəm mruyāhi. Kati-cit ahmāt yā mizdəm vā zasta-snaoϑrəm tarštəm vindən, aēca vaŋhavī aiti."
 faq:
-  - q: "𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬥𐬋 𐬀𐬞𐬀𐬨𐬆𐬨𐬀𐬌𐬙𐬌𐬌𐬁 𐬐𐬀𐬙𐬁𐬭𐬀 𐬀𐬯𐬙𐬌؟"
-    a: "𐬀𐬉𐬱𐬀 𐬠𐬌𐬢𐬔𐬋 𐬀𐬯𐬙𐬌 𐬫𐬀 𐬗𐬌𐬙𐬭𐬀𐬌𐬱 𐬨𐬀𐬰𐬀𐬥𐬙𐬀 𐬎 𐬭𐬀𐬊𐬱𐬀𐬥𐬀 𐬀𐬞𐬌 𐬀𐬢𐬐𐬀𐬥 𐬎𐬰𐬀𐬌𐬙𐬌. 𐬐𐬀𐬭𐬆𐬥𐬙𐬁𐬭𐬋 𐬗𐬌𐬙𐬭𐬀 𐬀𐬞𐬌 𐬐𐬀𐬭𐬙𐬀 𐬑𐬎𐬎𐬀 𐬗𐬌𐬚𐬥𐬀𐬥𐬙𐬌 𐬫𐬀𐬙 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬋 𐬀𐬉𐬱𐬀 𐬛𐬀𐬌𐬚𐬌𐬙𐬌 𐬎𐬎𐬁 𐬥𐬁𐬨𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬵𐬀𐬥𐬋 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬫𐬀𐬊𐬌 𐬀𐬢𐬐𐬀𐬥 𐬛𐬎𐬱𐬑𐬀𐬭𐬀 𐬀𐬯𐬙𐬌 𐬎𐬞𐬀𐬐𐬁𐬭𐬀 𐬀𐬯𐬙𐬌 𐬎 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬭𐬀𐬥𐬘𐬀𐬙𐬀𐬭𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌."
-  - q: "𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬥𐬋 𐬛𐬀𐬑𐬀 𐬐𐬎𐬚𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌؟"
-    a: "𐬗𐬀𐬥𐬛 𐬛𐬀𐬯𐬙𐬀 𐬐𐬀𐬭𐬙𐬀𐬌𐬱 𐬗𐬁𐬞𐬀𐬌𐬙𐬀 𐬎𐬎𐬁 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬀 𐬛𐬀𐬌𐬚𐬌𐬙𐬌𐬌𐬀 𐬎𐬰𐬀𐬌𐬙𐬀، 𐬎 𐬀𐬉𐬎𐬎𐬀 𐬗𐬌𐬙𐬭𐬀 𐬀𐬌𐬎𐬎𐬀 𐬎𐬎𐬀𐬑𐬙𐬀. 𐬭𐬀𐬊𐬱𐬀𐬥𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬀، 𐬗𐬌𐬙𐬭𐬀 𐬎𐬞𐬀𐬭𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀، 𐬎 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬞𐬀𐬌𐬙𐬌𐬱 𐬎𐬌𐬥𐬛𐬀𐬌𐬙𐬌𐬱 𐬛𐬀𐬛𐬁𐬌𐬙𐬀. 𐬛𐬀𐬑𐬀 𐬐𐬀𐬵𐬌𐬌𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀، 𐬙𐬀𐬗𐬀𐬌𐬙𐬌𐬱 𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀، 𐬎 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬀𐬞𐬌 𐬀𐬢𐬔𐬎𐬱𐬙𐬀، 𐬞𐬀𐬌𐬙𐬌𐬱 𐬎𐬎𐬁 𐬗𐬌𐬚𐬥𐬀 𐬀𐬞𐬌 𐬐𐬀𐬭𐬙𐬀 𐬑𐬎𐬎𐬀 𐬗𐬌𐬚𐬥𐬀𐬥𐬙𐬎 𐬛𐬀𐬛𐬁𐬌𐬙𐬀."
-  - q: "𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬫𐬁𐬙𐬀𐬌𐬙𐬌𐬱 𐬎𐬞𐬀𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌؟"
-    a: "𐬵𐬉𐬗 𐬐𐬁𐬭𐬀 𐬥𐬀 𐬛𐬌𐬛𐬀𐬉𐬙𐬌 𐬫𐬀 𐬀𐬞𐬀𐬨𐬆𐬨𐬀𐬌𐬙𐬌𐬱 𐬎𐬞𐬀𐬱𐬀𐬨𐬀𐬌𐬙𐬌 𐬎𐬎𐬁 𐬨𐬀𐬥𐬛𐬎 𐬐𐬀𐬭𐬀𐬌𐬙𐬌. 𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬎 𐬵𐬀𐬨𐬀-𐬵𐬀𐬨𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬭𐬆𐬛𐬀 𐬀𐬵𐬌𐬌𐬀 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬁 𐬀𐬯𐬙𐬌، 𐬀𐬎𐬎𐬁𐬰𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬀𐬵𐬉، 𐬎 𐬱𐬁𐬙𐬌𐬱 𐬗𐬌𐬙𐬭𐬀 𐬎𐬌𐬥𐬛𐬀𐬌𐬙𐬌𐬱، 𐬥𐬀 𐬐𐬀𐬗𐬌𐬙 𐬀𐬞𐬌 𐬫𐬁𐬙𐬀𐬌𐬙𐬌𐬱."
-  - q: "𐬫𐬀𐬛𐬌 𐬐𐬀𐬱𐬗𐬌𐬙 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌 𐬎𐬎𐬁 𐬗𐬌𐬙𐬭𐬀 𐬥𐬀 𐬎𐬌𐬥𐬛𐬀𐬌𐬙𐬌 𐬐𐬁𐬨𐬀𐬌𐬙𐬌 𐬗𐬌𐬱 𐬐𐬀𐬭𐬀𐬌𐬙𐬌؟"
-    a: "𐬀𐬵𐬨𐬁𐬌 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬎 𐬛𐬀𐬛𐬁𐬌𐬙𐬀. 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬁 𐬎𐬌𐬥𐬛𐬀𐬌𐬙𐬎 𐬎𐬞𐬀𐬐𐬀𐬭𐬀𐬌𐬙𐬀، 𐬀𐬞𐬌 𐬀𐬉𐬱𐬀 𐬀𐬢𐬔𐬎𐬱𐬙𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀، 𐬎𐬎𐬁 𐬀𐬞𐬌 𐬀𐬥𐬎𐬨𐬀𐬙𐬌 𐬀𐬵𐬌𐬌𐬀 𐬗𐬌𐬚𐬥𐬀 𐬀𐬞𐬌 𐬐𐬀𐬭𐬙𐬀 𐬥𐬌𐬛𐬁𐬚𐬀𐬌𐬙𐬀. 𐬀𐬭𐬁𐬨𐬀 𐬀𐬵𐬌𐬌𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀 𐬀𐬞𐬌 𐬐𐬀𐬭𐬙𐬀 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌𐬱 𐬨𐬀𐬵𐬌𐬱𐬙𐬀𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌."
+  - q: "Čiš aiti Ciϑra-Bingo ahmāi yō baodah- vī-maraiti?"
+    a: "Aēša dātam Bingo aiti yō masitāiš ciϑrāiš vərəzyeti nōit marəncibyō. Haxəm-kartā ciϑrəm kartē daxštəm kərənvainti yaδa sravah-yō daēsayeti ayā nāman mraoti. Ahmāi aiti yōi marəncīm duž-vərəzəm vindən, yāϑa rāməm vī-vərəzyən."
+  - q: "Čiϑa handāmanāi Ciϑra-Bingo fravaze?"
+    a: "Karta frašāuta ayā pardayā sravah-sraota dāta, aēvada aēva ciϑrəm srava. Hu-vərəzya mruya, ciϑrəm bərəza dāraya, ahmāibyō-ca zrvānəm da yāϑa vindān. Handāmana kasu dāraya, nōit mošu zrvāna, ahmāi-ca aŋgušta vā fra-xštā-tīka daxštəm dārayən."
+  - q: "Ayā Ciϑra-Bingo marəϑrəm upastam kərənaoti?"
+    a: "Nōit ciš-cit vərəzyā daēsayata yā vī-marətim bēšazyaēta ayā dīrγa kərənvāt. Ciϑra-Bingo haxa-dāti rāma-ca aiti. Ahye aojiš haxma, sravah-yahye srava, ciϑrahe-ca vindatəm aiti, nōit marəϑrāi aojiš."
+  - q: "Yadi ciš-cit aiti yō arəzōit ahmāt vā ciϑrəm nōit vindāt?"
+    a: "Nərə-šam rāməm da. Hadō vindata, daēsaya, ayā vasnā tōīm fra-xštā-tīkam fravaδa. Ahmāi rāma-dātəm masitara aiti yā kartəm haŋ-kərənavat."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -38,51 +43,51 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬥𐬋 𐬰𐬀𐬭𐬆𐬱𐬀𐬥 𐬠𐬀𐬵𐬎 𐬐𐬁𐬭𐬀 𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬎 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬀𐬯𐬙𐬌، 𐬀𐬥𐬀 𐬀𐬢𐬐𐬀𐬥 𐬵𐬀𐬥𐬋 𐬨𐬀𐬭𐬆𐬙𐬀 𐬫𐬀 𐬀𐬞𐬀𐬨𐬆𐬨𐬀𐬌𐬙𐬌 𐬛𐬁𐬭𐬀𐬌𐬙𐬌 𐬛𐬎𐬱𐬑𐬀𐬭𐬀 𐬠𐬀𐬎𐬎𐬀𐬥𐬙𐬌. 𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬨𐬀 𐬭𐬀𐬊𐬱𐬀𐬥𐬀 𐬨𐬆𐬭𐬆𐬛𐬎 𐬛𐬁𐬭𐬀𐬌𐬙𐬌 𐬎 𐬀𐬢𐬐𐬀𐬥 𐬀𐬞𐬌 𐬗𐬌𐬙𐬭𐬀𐬌𐬱 𐬨𐬀𐬰𐬀𐬥𐬙𐬀 𐬎 𐬭𐬀𐬊𐬱𐬀𐬥𐬀 𐬞𐬀𐬌𐬙𐬌𐬱 𐬠𐬀𐬛𐬀𐬮𐬀𐬌𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬀𐬞𐬌 𐬥𐬨𐬁𐬥𐬀، 𐬀𐬞𐬌 𐬐𐬁𐬭𐬀 𐬛𐬌𐬥𐬀، 𐬎𐬎𐬁 𐬀𐬞𐬌 𐬥𐬨𐬁𐬥𐬀 𐬥𐬌𐬔𐬁𐬵𐬛𐬁𐬭𐬌𐬱 𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌. 𐬀𐬌𐬥 𐬭𐬁𐬵𐬥𐬀𐬨𐬀 𐬛𐬀𐬌𐬚𐬌𐬙𐬌 𐬐𐬎𐬚𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌، 𐬐𐬎𐬚𐬀 𐬀𐬥𐬎𐬐𐬎𐬮𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌، 𐬎 𐬐𐬎𐬚𐬀 𐬱𐬁𐬙𐬌𐬱 𐬀𐬞𐬌 𐬎𐬀𐬭𐬆𐬰𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌.
+Bingo xšnaoϑrəm haxəm-rāma aiti pouru-hanaēibyō marətaēibyō, bā marəncī duž-paitiš aŋhən ahmāi yō baodah- vī-maraiti. Ciϑra-Bingo aēvada vasna-ravəm dārayeti, marəncīm-ca masitāiš vī-spaštāiš ciϑrāiš vi-dāδaiti. Aiti nmāne, ayan-handāmane, nmānō-nipāte-ca. Aēša paϑā daēsayeti yaϑa rāməyehi, yaϑa haxəm-kərənūhi, yaϑa-ca xšnaoϑrəm frapayehi.
 
-## 𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬐𐬎𐬚𐬀 𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌
+## Yaϑa Ciϑra-Bingo vərəzyeti
 
-𐬵𐬀𐬭 𐬐𐬀𐬭𐬆𐬥𐬙𐬁𐬭𐬀 𐬐𐬀𐬭𐬙𐬀 𐬀𐬞𐬌 𐬗𐬌𐬙𐬭𐬀𐬌𐬱 𐬛𐬁𐬭𐬀𐬌𐬙𐬌، 𐬫𐬀𐬚𐬀 𐬗𐬁𐬌 𐬐𐬎𐬰𐬀، 𐬔𐬎𐬭𐬠𐬀، 𐬔𐬎𐬮 𐬔𐬎𐬮𐬁𐬠، 𐬥𐬁𐬎 𐬎𐬎𐬁 𐬛𐬎 𐬗𐬀𐬑𐬭𐬀. 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬋 𐬀𐬉𐬎𐬎𐬀 𐬗𐬌𐬙𐬭𐬀 𐬀𐬌𐬎𐬎𐬀 𐬎𐬎𐬀𐬑𐬙𐬀 𐬛𐬀𐬌𐬚𐬌𐬙𐬌 𐬎𐬎𐬁 𐬥𐬁𐬨𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬌. 𐬐𐬀𐬭𐬆𐬥𐬙𐬁𐬭𐬋 𐬵𐬀𐬨𐬀 𐬗𐬌𐬙𐬭𐬀 𐬀𐬞𐬌 𐬐𐬀𐬭𐬙𐬀 𐬑𐬎𐬎𐬀 𐬗𐬌𐬚𐬥𐬀𐬥𐬙𐬌. 𐬐𐬀𐬭𐬆𐬥𐬙𐬁𐬭𐬀 𐬫𐬀 𐬭𐬀𐬛𐬀 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌، 𐬎𐬎𐬁 𐬛𐬀𐬯𐬙𐬀 𐬫𐬀 𐬛𐬀𐬑𐬀 𐬵𐬀𐬨𐬀-𐬨𐬀𐬙𐬌 𐬐𐬀𐬭𐬀𐬌𐬙𐬌، 𐬨𐬀𐬌𐬙𐬌 𐬀𐬎𐬎𐬁𐬰𐬀𐬌𐬙𐬌 𐬠𐬌𐬢𐬔𐬋، 𐬀𐬥𐬀 𐬠𐬀𐬵𐬎 𐬛𐬀𐬑𐬀 𐬎𐬎𐬀𐬥𐬀𐬙𐬁𐬭𐬀 𐬥𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬙𐬌.
+Vispō haxəm-kartō kartəm dārayeti ciϑra-paitištāna, yaϑa xšvīrō-paiti-dāna, mūra, vərəδa, nāvaya vā vāša. Sravah-yō aēva zruye aēvəm ciϑrəm daēsayeti ayā nāman mraoti. Haxəm-kartā ham-ciϑrəm paiti kartē daxšta kərənvainti. Yō ham-srava paitiš daxšta kərənaoiti, ayā yim handāmana haŋ-gərəmbayeiti, »Bingo« mruyāt, bā pouru-handāmana vanatəm nōit sravayən.
 
-𐬱𐬎𐬨𐬁 𐬨𐬀𐬌𐬙𐬀 𐬐𐬀𐬭𐬙𐬀𐬌𐬱 𐬗𐬁𐬞𐬀𐬌𐬙𐬀 𐬀𐬰 𐬀𐬯𐬨𐬀 [𐬐𐬁𐬭𐬀𐬌𐬱 𐬗𐬁𐬞𐬀𐬌𐬙𐬀 𐬀𐬭𐬆𐬰𐬀𐬥𐬌𐬌𐬀](/activities/printable/) 𐬎𐬰𐬀𐬌𐬙𐬀، 𐬎𐬎𐬁 [𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬐𐬁𐬭𐬀](/games/picture-bingo/) 𐬫𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬀 𐬛𐬀𐬌𐬚𐬌𐬙𐬌𐬌𐬀 𐬵𐬀𐬥𐬋 𐬛𐬀𐬑𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌 𐬎𐬰𐬀𐬌𐬙𐬀. 𐬵𐬀𐬭 𐬛𐬎 𐬀𐬞𐬌 𐬙𐬀𐬠𐬮𐬆𐬙 𐬫𐬀 𐬵𐬀𐬥𐬋 𐬎𐬌𐬯𐬞𐬀 𐬛𐬀𐬑𐬀 𐬎𐬞𐬀𐬭𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬥𐬙𐬌.
+Tūm karta frašāuta ahmāt [free printable activities](/activities/printable/) vərəzyehi, ayā [picture bingo game](/games/picture-bingo/), yō pardayā sravah-sraotəm handāmanāi dāδaiti. Dova hu-vərəzya aŋhən parda-kartē yim bərəza dārayehi yāϑa vispa handāmana vaināt.
 
-## 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬀𐬭𐬁𐬯𐬙𐬀𐬥 𐬐𐬀𐬭𐬀𐬌𐬙𐬌
+## Yaϑa zrvānəm han-dāδayehi
 
-- **𐬛𐬀𐬑𐬀 𐬐𐬀𐬵𐬌𐬌𐬀 𐬎𐬰𐬀𐬌𐬙𐬀.** 𐬗𐬀𐬚𐬡𐬁𐬭𐬋 𐬀𐬱𐬙𐬀 𐬨𐬀𐬭𐬆𐬙𐬁𐬥𐬋 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬀𐬥𐬛𐬁𐬰𐬀 𐬀𐬯𐬙𐬌. 𐬛𐬀𐬑𐬀 𐬨𐬀𐬰𐬀𐬥𐬙𐬀𐬭𐬀 𐬞𐬀𐬌𐬙𐬌𐬱 𐬛𐬎𐬱𐬑𐬀𐬭𐬀 𐬀𐬯𐬙𐬌 𐬎 𐬨𐬀𐬌𐬙𐬌 𐬙𐬀𐬗𐬀𐬌𐬙𐬌𐬱 𐬀𐬥𐬎𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌.
-- **𐬗𐬌𐬙𐬭𐬀𐬌𐬱 𐬨𐬀𐬰𐬀𐬥𐬙𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.** 𐬭𐬆𐬑𐬀𐬌𐬱 𐬎𐬎𐬌𐬭𐬀𐬰𐬀𐬥𐬙𐬀 𐬎 𐬀𐬞𐬌 𐬵𐬀𐬭 𐬛𐬀𐬯𐬙𐬀 𐬀𐬉𐬎𐬎𐬀 𐬐𐬁𐬭𐬀 𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬎𐬰𐬀𐬌𐬙𐬀. 𐬐𐬀𐬭𐬙𐬀𐬌𐬱 𐬞𐬎𐬭𐬥𐬀 𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.
-- **𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬥𐬌𐬱𐬁𐬛𐬀𐬌𐬙𐬀.** 𐬵𐬀𐬭 𐬐𐬀𐬭𐬆𐬥𐬙𐬁𐬭𐬀 𐬫𐬀𐬚𐬭𐬀 𐬥𐬌𐬱𐬁𐬛𐬀𐬌𐬙𐬀 𐬫𐬀𐬚𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬀 𐬎 𐬐𐬀𐬭𐬙𐬀 𐬑𐬎𐬎𐬀 𐬛𐬌𐬛𐬀𐬉𐬙𐬌، 𐬎 𐬫𐬀𐬛𐬌 𐬎𐬞𐬀𐬐𐬁𐬭𐬀 𐬐𐬁𐬨𐬀𐬌𐬙𐬌 𐬥𐬀𐬰𐬛𐬌𐬐𐬀 𐬀𐬵𐬌𐬌𐬀 𐬥𐬌𐬱𐬁𐬛𐬀𐬌𐬙𐬀.
-- **𐬗𐬌𐬚𐬥𐬀𐬌𐬱 𐬭𐬀𐬥𐬘𐬀 𐬎𐬰𐬀𐬌𐬙𐬀.** 𐬗𐬌𐬚𐬥𐬀𐬌𐬱 𐬨𐬀𐬰𐬀𐬥𐬙𐬀، 𐬛𐬭𐬀𐬵𐬨𐬀، 𐬎𐬎𐬁 𐬀𐬢𐬔𐬎𐬱𐬙𐬀 𐬯𐬞𐬭𐬆𐬱𐬀𐬌𐬙𐬌 𐬀𐬞𐬌 𐬞𐬀𐬌𐬙𐬌𐬱 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬥𐬙𐬌. 𐬗𐬀𐬥𐬛 𐬗𐬌𐬚𐬥𐬀 𐬀𐬞𐬌 𐬛𐬀𐬯𐬙𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀.
-- **𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬐𐬎𐬙𐬁𐬵 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.** 𐬟𐬭𐬌 𐬛𐬀𐬵𐬀 𐬛𐬀𐬑𐬌𐬌𐬀 𐬠𐬀𐬵𐬎 𐬀𐬯𐬙𐬌. 𐬫𐬀𐬛𐬌 𐬰𐬀𐬎𐬎𐬀𐬥𐬀 𐬐𐬀𐬵𐬌𐬌𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬞𐬀𐬌𐬙𐬌𐬱 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬀.
+- **Kasu handāmana vərəzya.** Caϑru-bāra ašta-bāra vahišta aiti. Masitā handāmana duž-paitiš aŋhən, mošu-tarštəm-ca vindən.
+- **Ciϑrā masitā kərənu.** Drafša-razō vərəzya, aēva-ciϑrəm-ca xšnaoϑrəm aēvahmya spasa. Nōit pouru-ciϑrā kartā.
+- **Hu-nidaϑa marətā.** Vispəm haxəm-kartəm nidaϑa yaϑa sravah-yim ciϑra-kartəm-ca vaināt, upastā-kartahe-ca naza.
+- **Kasu daxštā vərəzya.** Masitā tīkā, fravāra, aŋgušta-tapa vaŋhu-tara aŋhən yā qalam. Kati-cit para dāraya.
+- **Mərəzu zrvānəm han-dāδaya.** 30 mərəzu pouru aiti. Parō aiti-zrvān paiti-stā yadi aojiš nərə-saiti.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) 𐬀𐬥𐬛𐬀𐬭𐬰𐬀𐬌𐬙𐬌 𐬐𐬀𐬭𐬀𐬌𐬙𐬌 𐬫𐬀 𐬨𐬀𐬭𐬆𐬙𐬀 𐬵𐬥𐬎 𐬨𐬀𐬌𐬙𐬌 𐬐𐬀𐬭𐬀𐬌𐬙𐬌 𐬀𐬥𐬎𐬐𐬎𐬮𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀، 𐬞𐬀𐬯 𐬐𐬀𐬭𐬙𐬀 𐬎 𐬎𐬌𐬛𐬁𐬙𐬀 𐬭𐬀𐬥𐬘𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬫𐬀𐬙 𐬀𐬉𐬱𐬀 𐬎𐬞𐬀𐬐𐬁𐬭𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌.
+Aēta [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sravayeti yaϑa vərəzyā ahmāi ham-dāδayən yim marəta tūiryeiti, kartā dātā-ca kasu kərənu yaδa aēca upastayeiti.
 
-## 𐬗𐬌𐬙𐬭𐬀𐬌𐬱 𐬐𐬎𐬚𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬌𐬙𐬌
+## Yaϑa ciϑrā sravayāhi
 
-1. **𐬗𐬌𐬙𐬭𐬀 𐬎𐬞𐬀𐬭𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀** 𐬎𐬎𐬁 𐬀𐬞𐬌 𐬀𐬉𐬱𐬀 𐬀𐬞𐬌 𐬛𐬀𐬌𐬚𐬌𐬙𐬌𐬌𐬀 𐬀𐬢𐬔𐬎𐬱𐬙𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬞𐬀𐬌𐬙𐬌𐬱 𐬫𐬀𐬙 𐬎𐬎𐬀𐬗𐬀𐬙𐬀.
-2. **𐬥𐬁𐬨𐬀 𐬭𐬀𐬊𐬱𐬀𐬥𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬀،** 𐬀𐬞𐬌 𐬎𐬎𐬀𐬗𐬀𐬥 𐬭𐬀𐬥𐬘𐬀: 𐬙𐬆𐬥𐬵𐬁 𐬗𐬁𐬌 𐬐𐬎𐬰𐬀.𐬙𐬆𐬥𐬵𐬁 𐬀𐬉𐬱𐬀 𐬀𐬉𐬎𐬎𐬀 𐬞𐬀𐬌𐬙𐬌𐬱، 𐬨𐬆𐬭𐬆𐬛𐬎 𐬎𐬎𐬀𐬗𐬀𐬙𐬀.
-3. **𐬞𐬀𐬌𐬙𐬌𐬱 𐬛𐬁𐬭𐬀𐬌𐬙𐬀.** 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬞𐬀𐬌𐬙𐬌𐬱 𐬛𐬌𐬛𐬀𐬥 𐬎 𐬗𐬌𐬚𐬥𐬀𐬥 𐬛𐬀𐬛𐬁𐬌𐬙𐬀. 𐬗𐬌𐬙𐬭𐬀 𐬀𐬥𐬌𐬌𐬀 𐬥𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬌𐬙𐬀 𐬫𐬀𐬙 𐬠𐬀𐬵𐬎 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬞𐬀𐬌𐬙𐬌𐬱 𐬐𐬀𐬭𐬀𐬌𐬙𐬌𐬱 𐬛𐬁𐬱𐬙𐬀 𐬠𐬀𐬎𐬎𐬀𐬥𐬙𐬌.
-4. **𐬫𐬀𐬛𐬌 𐬎𐬞𐬀𐬐𐬁𐬭𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬎𐬎𐬀𐬭𐬆𐬰𐬀𐬌𐬙𐬀.** 𐬙𐬆𐬥𐬵𐬁 𐬔𐬎𐬮 𐬯𐬎𐬑𐬭𐬀 𐬙𐬆𐬥𐬵𐬁 𐬎𐬎𐬁 𐬙𐬆𐬥𐬵𐬁 𐬀𐬉𐬱𐬀 𐬫𐬀 𐬀𐬞𐬌 𐬵𐬀𐬨𐬀-𐬑𐬎𐬎𐬀𐬭𐬀𐬥 𐬛𐬁𐬱𐬙𐬀 𐬀𐬉𐬨 𐬙𐬆𐬥𐬵𐬁 𐬨𐬀𐬌𐬙𐬌 𐬵𐬀𐬨𐬀-𐬎𐬎𐬀𐬗𐬀𐬥 𐬀𐬢𐬔𐬀𐬭𐬀𐬌𐬙𐬌.
-5. **𐬭𐬀𐬊𐬱𐬀𐬥𐬀 𐬨𐬆𐬭𐬆𐬛𐬎 𐬛𐬁𐬭𐬀𐬌𐬙𐬀.** 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬀 𐬀𐬭𐬁𐬨𐬀 𐬀𐬞𐬌 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬀 𐬙𐬀𐬗𐬀𐬌𐬙𐬀 𐬨𐬀𐬵𐬌𐬱𐬙𐬀𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌.
+1. **Ciϑrəm bərəza dāraya** ayā pardayā daēsaya parō yaδa mruyāhi.
+2. **Nāman hu-vərəzya mruya,** rāzē mravā: »Xšvīrō-paiti-dāna.« Aēvada zya paiti-mruya.
+3. **Manaya.** Zrvānəm da yāϑa vainān daxštəm-ca dārayān. Nōit apara ciϑrəm srava yāvat pouru marətā nōit vindən.
+4. **Vi-srava, yadi upastayeiti.** »Suxra spərəγa« ayā »yā ahmāi paiti-zrvāna ahmā« srava-dātim kərənaoiti.
+5. **Rāma-ravəm dāraya.** Rāma-sravah-yō masitara aiti yā mošu-ravah-yō.
 
-## 𐬎𐬎𐬀𐬥𐬀𐬙𐬀𐬭𐬀 𐬀𐬥𐬁𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌
+## Vanatəm vasnā kərənavat
 
-𐬵𐬀𐬨𐬀-𐬙𐬀𐬗𐬀𐬌𐬙𐬌𐬱 𐬨𐬀𐬌𐬙𐬌 𐬛𐬎𐬱𐬎𐬎𐬁𐬭𐬌 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌. 𐬨𐬀𐬭𐬆𐬙𐬀 𐬫𐬀 𐬥𐬀 𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌 𐬨𐬀𐬌𐬙𐬌 𐬀𐬢𐬔𐬀𐬭𐬀𐬌𐬙𐬌 𐬫𐬀 𐬀𐬵𐬨𐬁𐬌 𐬀𐬰𐬨𐬎𐬛𐬀 𐬨𐬌𐬱𐬀𐬎𐬎𐬀𐬥𐬙𐬌، 𐬎 𐬨𐬀𐬭𐬆𐬙𐬀 𐬫𐬀 𐬀𐬞𐬌 𐬎𐬎𐬀𐬥𐬀𐬙𐬀𐬭𐬀 𐬗𐬌𐬥𐬙𐬀 𐬨𐬌𐬱𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬨𐬀𐬌𐬙𐬌 𐬙𐬀𐬢𐬔𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌. 𐬀𐬌𐬙𐬀 𐬗𐬀𐬥𐬛 𐬭𐬀𐬵𐬀 𐬀𐬥𐬌𐬌𐬀 𐬀𐬯𐬙𐬌:
+Arəza aiti duž-vərəzəm. Yō nōit vanaiti pərəsəm vindāt, yō-ca vanatāi arəzaiti tarštəm aŋhat. Aēca anyā paϑā aŋhən:
 
-- **𐬵𐬀𐬭 𐬐𐬀𐬱𐬗𐬌𐬙 𐬀𐬉𐬎𐬎𐬀 𐬗𐬌𐬙𐬭𐬀 𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌.** 𐬵𐬀𐬭 𐬐𐬀𐬭𐬆𐬥𐬙𐬁𐬭𐬀 𐬀𐬉𐬎𐬎𐬀 𐬗𐬌𐬙𐬭𐬀 𐬫𐬀 𐬎𐬀𐬭𐬆𐬰𐬀𐬌𐬙𐬌 𐬀𐬎𐬎𐬁𐬰𐬀𐬌𐬙𐬌، 𐬎 𐬛𐬀𐬑𐬀 𐬀𐬉𐬱𐬀 𐬯𐬙𐬀𐬎𐬀𐬌𐬙𐬌.
-- **𐬐𐬀𐬭𐬙𐬀 𐬞𐬎𐬭𐬥𐬀 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬁 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.** 𐬀𐬰 𐬐𐬀𐬭𐬆𐬥𐬙𐬁𐬭𐬀𐬥 𐬞𐬆𐬭𐬆𐬯𐬀𐬌𐬙𐬀 𐬫𐬀 𐬀𐬞𐬌 𐬀𐬉𐬎𐬎𐬀 𐬗𐬌𐬙𐬭𐬀 𐬀𐬞𐬌 𐬐𐬀𐬭𐬙𐬀 𐬑𐬎𐬎𐬀 𐬗𐬌𐬱𐬗𐬌𐬙 𐬎𐬎𐬀𐬗𐬀𐬥𐬙𐬌.
-- **𐬫𐬀𐬙 𐬗𐬌𐬙𐬭𐬀 𐬞𐬎𐬭𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.** 𐬵𐬀𐬭 𐬗𐬌𐬙𐬭𐬀 𐬀𐬞𐬌 𐬐𐬀𐬭𐬙𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬌𐬙𐬀، 𐬞𐬀𐬯 𐬀𐬥𐬌𐬌𐬀 𐬀𐬭𐬁𐬯𐬙𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀، 𐬠𐬉 𐬛𐬀𐬑𐬎𐬎𐬁𐬯𐬙 𐬀𐬞𐬌 𐬎𐬎𐬀𐬥𐬀𐬙𐬁𐬭𐬀 𐬞𐬀𐬉𐬱𐬌𐬥𐬀.
-- **𐬛𐬁𐬙𐬀 𐬐𐬎𐬗𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀 𐬎𐬎𐬁 𐬥𐬀 𐬛𐬀𐬛𐬁𐬌𐬙𐬀.** 𐬥𐬁𐬥 𐬐𐬎𐬗𐬀 𐬎𐬎𐬁 𐬔𐬁𐬚𐬀 𐬀𐬞𐬌 𐬘𐬁𐬌𐬰𐬀 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌.
+- **Vispō aēvəm ciϑrəm vanaiti.** Vispō haxəm-kartō aēvəm ciϑrəm yim fryan mraoti, handāmana-ca ahmāt staoti.
+- **Paiti-vīda vispəm kartəm.** Haxəm-kartā pərəsahi yaϑa ciš-cit mruyān aēvahmya ciϑrē kartē.
+- **Rāməya yāvat ciϑrā aŋhən.** Vispa ciϑrā kartē srava, anyəm-ca paiti-cara, nōit fra-mraote paoiryō vanatā.
+- **Kasu mizdəm dāta ayā paiti-haza.** Hu-xšnaoϑra cāštiš ayā sravah- hazaŋra vaŋhutara aiti yā bərəzi-mizdəm.
 
-## 𐬵𐬀𐬥𐬋 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬫𐬀𐬊𐬌 𐬀𐬥𐬎𐬐𐬎𐬮𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌
+## Haxəm-kərənūta ahmāibyō yōi dīrγatəm zruye vī-marənti
 
-𐬵𐬀𐬥𐬋 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬫𐬀𐬊𐬌 𐬎𐬌𐬥𐬛𐬀𐬥 𐬗𐬌𐬙𐬭𐬀 𐬛𐬎𐬱𐬑𐬀𐬭𐬀 𐬀𐬯𐬙𐬌، 𐬐𐬀𐬭𐬙𐬀 𐬀𐬞𐬌 𐬗𐬀𐬚𐬡𐬁𐬭 𐬎𐬎𐬁 𐬑𐬱𐬎𐬎𐬀𐬱 𐬛𐬀𐬯𐬙𐬀 𐬎𐬰𐬀𐬌𐬙𐬀، 𐬎𐬎𐬁 𐬵𐬀𐬭 𐬐𐬀𐬭𐬆𐬥𐬙𐬁𐬭𐬀 𐬀𐬉𐬎𐬎𐬀 𐬐𐬀𐬭𐬙𐬀 𐬀𐬌𐬎𐬎𐬀 𐬛𐬀𐬛𐬁𐬌𐬙𐬀. 𐬎𐬞𐬀𐬐𐬁𐬭𐬀 𐬛𐬀𐬛𐬁𐬌𐬙𐬀 𐬫𐬀 𐬐𐬀𐬭𐬙𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌 𐬫𐬀𐬙 𐬨𐬀𐬭𐬆𐬙𐬀 𐬀𐬢𐬔𐬎𐬱𐬙𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌، 𐬎𐬎𐬁 𐬀𐬞𐬌 𐬀𐬥𐬎𐬨𐬀𐬙𐬌 𐬀𐬵𐬌𐬌𐬀 𐬗𐬌𐬚𐬥𐬀 𐬨𐬆𐬭𐬆𐬛𐬎 𐬥𐬌𐬛𐬁𐬚𐬀𐬌𐬙𐬀. 𐬗𐬌𐬱𐬗𐬌𐬙 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬨𐬀𐬌𐬙𐬌 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬀𐬯𐬙𐬌 𐬫𐬀 𐬀𐬎𐬎𐬁𐬰𐬀𐬥𐬀 𐬢𐬎𐬱𐬀𐬌𐬙𐬌 𐬎 𐬀𐬰 𐬀𐬎𐬎𐬁𐬰𐬀 𐬫𐬀 𐬎𐬎𐬀𐬗𐬀𐬥 𐬱𐬁𐬙𐬌 𐬛𐬁𐬭𐬀𐬥𐬙𐬌.
+Ahmāibyō yōi ciϑrahe vindatəm duž-vərəzəm vindən, karta caϑru-spasa ayā xšvaš-spasa vərəzya, ayā aēvada aēvəm kartəm vispāi da. Upastā-kartō kartəm dārayāt yaδa marəto daēsayeti, ayā rāməm tīkam vasnā fravaδat. Kati-cit ahmāt rāmō-tara aiti yā sravah-yō sraotəm sravan, sravā-ca xšnaoϑrəm zruyān.
 
-𐬛𐬁𐬑𐬎𐬥𐬀𐬌𐬱 𐬀𐬭𐬁𐬨𐬀 𐬥𐬀 𐬛𐬌𐬛𐬀𐬉𐬙𐬌، 𐬫𐬀𐬚𐬀 𐬛𐬎𐬭 𐬱𐬎𐬛𐬀𐬥 𐬎𐬎𐬁 𐬞𐬀𐬌𐬙𐬌𐬱-𐬠𐬭𐬎 𐬐𐬀𐬭𐬀𐬌𐬙𐬌، 𐬎 𐬫𐬀𐬛𐬌 𐬛𐬌𐬛𐬀𐬉𐬙𐬌 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬀. 𐬵𐬀𐬥𐬋 𐬀𐬥𐬛𐬀𐬭𐬰𐬀𐬌𐬱 𐬠𐬉𐬱𐬙𐬀𐬭𐬀 𐬀𐬞𐬌 𐬐𐬁𐬭𐬀𐬌𐬱 𐬀𐬭𐬁𐬨𐬀 𐬎 𐬥𐬌𐬱𐬀𐬯𐬙𐬀، [𐬐𐬁𐬭𐬀𐬌𐬱 𐬀𐬥𐬎𐬐𐬎𐬮𐬀 𐬀𐬞𐬀𐬭𐬀](/activities/late-stage/) 𐬛𐬌𐬛𐬀𐬉𐬙𐬀.
+Spasaya duž-rāma-daxštā, yaϑa apa-cara ayā duž-manah-daxšta, paiti-stā-ca yadi aēca aŋhən. Anyāi manayāi rāma-nidaϑa vərəzyaēibyō, spaša [late-stage activities](/activities/late-stage/).
 
-## 𐬠𐬌𐬢𐬔𐬋 𐬀𐬞𐬌 𐬥𐬨𐬁𐬥𐬀𐬌𐬱 𐬥𐬌𐬔𐬁𐬵𐬛𐬁𐬭𐬌𐬱 𐬎 𐬐𐬁𐬭𐬀𐬌𐬱 𐬛𐬌𐬥𐬀
+## Bingo nmānō-nipāte ahyā-ca ayan-handāmane
 
-𐬐𐬁𐬭𐬀𐬌𐬱 𐬛𐬀𐬑𐬀 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬥𐬙𐬌 𐬫𐬀𐬙 𐬀𐬞𐬌 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬫𐬀𐬊𐬌 𐬀𐬞𐬌 𐬀𐬎𐬙𐬁𐬐 𐬵𐬀𐬯𐬙𐬀𐬥𐬙𐬌 𐬀𐬭𐬁𐬯𐬙𐬀 𐬠𐬀𐬎𐬎𐬀𐬥𐬙𐬌. [𐬭𐬁𐬵𐬥𐬀𐬨𐬀 𐬐𐬁𐬭𐬀𐬌𐬱 𐬛𐬀𐬑𐬀 𐬵𐬀𐬥𐬋 𐬥𐬨𐬁𐬥𐬀𐬌𐬱 𐬥𐬌𐬔𐬁𐬵𐬛𐬁𐬭𐬌𐬱 𐬎 𐬐𐬁𐬭𐬀𐬌𐬱 𐬛𐬌𐬥𐬀](/activities/care-home-groups/) 𐬀𐬯𐬨𐬀 𐬛𐬀𐬌𐬚𐬌𐬙𐬌 𐬐𐬎𐬚𐬀 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬀𐬭𐬁𐬯𐬙𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌، 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬥𐬌𐬱𐬁𐬛𐬀𐬌𐬙𐬌، 𐬎 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬫𐬀𐬊𐬌 𐬭𐬀𐬎𐬎𐬀𐬥 𐬐𐬁𐬨𐬀𐬥𐬙𐬌 𐬎𐬞𐬀𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌. 𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬨𐬀𐬌𐬙𐬌 𐬵𐬀𐬨𐬀-𐬔𐬁𐬚𐬀 𐬎𐬎𐬁 𐬐𐬀𐬚𐬀 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌، 𐬎 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬁 [𐬎𐬎𐬀𐬗𐬀𐬥 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀](/activities/finish-the-saying/) 𐬵𐬀𐬥𐬋 𐬐𐬁𐬭𐬀 𐬀𐬭𐬁𐬨𐬀𐬙𐬀𐬭𐬀 𐬀𐬞𐬌 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬎𐬀𐬵𐬌𐬱𐬙𐬀 𐬐𐬁𐬭𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌.
+Handāmana-vərəzyā vahišta vərəzyā aŋhən yaδa marətaēibyō nmāne han-dāδyāte. Ahmā [group activities guide for care homes and day programs](/activities/care-home-groups/) daēsayeti yaϑa zrvānəm han-dāδayehi, marətā nidaϑahi, ahmāi-ca yō vazaite rāməm dārayehi. Ciϑra-Bingo ham-vərəzya sravah-sraotā ayā daxta-sravā, ahmāi-ca [finish-the-saying](/activities/finish-the-saying/) yaϑa rāma-rāma para zruye.
 
-## 𐬠𐬌𐬢𐬔𐬋 𐬗𐬌𐬱 𐬨𐬀𐬌𐬙𐬌 𐬎 𐬗𐬌𐬱 𐬥𐬀 𐬨𐬀𐬌𐬙𐬌 𐬐𐬀𐬭𐬀𐬌𐬙𐬌
+## Čiš Bingo kərənaoiti čiš-ca nōit kərənaoiti
 
-𐬗𐬌𐬙𐬭𐬀 𐬠𐬌𐬢𐬔𐬋 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬎 𐬱𐬁𐬙 𐬀𐬯𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬨𐬀𐬌𐬙𐬌 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬁 𐬀𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬌، 𐬀𐬞𐬌 𐬗𐬌𐬙𐬭𐬀𐬌𐬱 𐬛𐬌𐬛𐬀𐬥 𐬎 𐬢𐬎𐬱𐬀𐬌𐬙𐬌𐬱 𐬐𐬁𐬭𐬀𐬥𐬀 𐬛𐬀𐬛𐬁𐬌𐬙𐬌، 𐬎 𐬛𐬀𐬑𐬀 𐬀𐬢𐬔𐬀𐬭𐬀 𐬔𐬀𐬭𐬆𐬨𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬀𐬞𐬀𐬨𐬆𐬨𐬀𐬌𐬙𐬌 𐬥𐬀 𐬎𐬞𐬀𐬱𐬀𐬨𐬀𐬌𐬙𐬌 𐬎 𐬥𐬀 𐬭𐬀𐬊𐬱𐬀𐬥𐬀 𐬀𐬵𐬌𐬌𐬀 𐬨𐬀𐬥𐬛𐬎 𐬐𐬀𐬭𐬀𐬌𐬙𐬌. 𐬎𐬀𐬵𐬌𐬱𐬙𐬌 𐬀𐬵𐬌𐬌𐬀 𐬀𐬞𐬌 𐬀𐬉𐬱𐬀 𐬛𐬁𐬎𐬀𐬭𐬀𐬌𐬙𐬀 𐬐𐬀 𐬨𐬀𐬭𐬆𐬙𐬀𐬥 𐬀𐬞𐬌 𐬀𐬉𐬥 𐬵𐬀𐬨𐬀-𐬵𐬀𐬑𐬀 𐬐𐬎𐬚𐬀 𐬛𐬌𐬛𐬀𐬥𐬙𐬌 𐬎 𐬀𐬢𐬔𐬀𐬭𐬀𐬥𐬙𐬌، 𐬥𐬀 𐬀𐬞𐬌 𐬀𐬉𐬱𐬀 𐬐𐬀 𐬐𐬀 𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌.
+Ciϑra-Bingo haxəm-dāti xšnaoϑra-ca aiti. Marətā han-jasaēta, cim ciϑrāi spasanhe sraotanhe-ca daēta, handāmanəm-ca garəməm kərənuyāt. Nōit vī-marətim bēšazyeti nōit ravəm dīrγa kərənaoiti. Ahye hu-vərəzəm spasaya ahmāt yaϑa marətā zrvāne vainən manən-ca, nōit ahmāt yō vanaiti.

@@ -1,31 +1,33 @@
 ---
-title: "𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬮𐬰𐬵𐬀𐬌𐬨𐬆𐬭𐬀-𐬱𐬀 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬌𐬀"
-seoTitle: "𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬮𐬰𐬵𐬀𐬌𐬨𐬆𐬭𐬀-𐬱𐬀"
-description: "𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬮𐬰𐬵𐬀𐬌𐬨𐬆𐬭𐬀 𐬬𐬀 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬌𐬀 𐬀𐬵𐬎𐬭𐬀 𐬀𐬌𐬥𐬙𐬌: 𐬛𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀, 𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀, 𐬀𐬞𐬀-𐬭𐬀𐬢𐬀 𐬐𐬭𐬌𐬛𐬀 𐬗𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬱𐬀𐬥𐬙𐬌𐬌𐬀."
+title: "Ciϑra-paēsa-vərəzyā̊ Alzheimer uta Manō-framarštīm"
+seoTitle: "Ciϑra-paēsa Alzheimer uta Manō-framaršti"
+description: "Paēsa-vərəzya martiyānām Alzheimer yā vā manō-framarštīm dārayəṇti: hananām sahyā̊, masita paēsa-kalamā, tərəsa-paēsa urvi-karanā, uta āsūtiyā paiti-štātayā."
 section: activities
 order: 25
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬯𐬀𐬢𐬀 𐬗𐬀 𐬎𐬰𐬎𐬑𐬙𐬀 𐬀𐬯𐬙𐬌: 𐬥𐬀 𐬀𐬌𐬙𐬌 𐬀𐬌𐬎𐬎𐬀𐬯𐬀, 𐬗𐬀 𐬬𐬌𐬯𐬞𐬀 𐬰𐬀𐬎𐬎𐬀𐬥𐬀 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬌.
-  𐬀𐬮𐬰𐬵𐬀𐬌𐬨𐬆𐬭𐬀 𐬬𐬀 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬌𐬀 𐬀𐬵𐬎𐬭𐬀 𐬀𐬌𐬥𐬙𐬌, 𐬛𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬗𐬌𐬚𐬭𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬀𐬯𐬞𐬀𐬱𐬙𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀 𐬗𐬀
-  𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀 𐬛𐬀𐬰𐬀𐬙𐬀. 𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬥𐬌𐬱𐬀𐬌𐬛𐬌, 𐬭𐬀𐬢𐬀 𐬯𐬙𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬥𐬀 𐬀𐬵𐬎𐬌𐬙𐬌, 𐬗𐬀 𐬀𐬵𐬎𐬭𐬀 𐬑𐬎𐬛𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬌
-  𐬐𐬀𐬛𐬀 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬌. 𐬀𐬞𐬀-𐬭𐬀𐬢𐬀 𐬐𐬭𐬌𐬛𐬀 𐬗𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬎𐬎𐬀𐬯𐬙𐬭𐬀 𐬎𐬎𐬀 𐬛𐬀𐬌𐬙𐬌𐬌𐬀 𐬀𐬯𐬙𐬌.
+  Ciϑra-paēsiya hvāsō uta vīvaδa asti: nōit aŋhat agha paiti-uxšiš, uta
+  yāva-kācit aŋhaya paiti-štāite bavaiti. Martiyānām yōi Alzheimer vā
+  manō-framarštīm dārayəṇti, hananām fradaϑa masitāiš a-paŋtāiš karšyāiš vaś́ya,
+  uta pəreθu paēsa-kalamā daδa. Pašanāt aēṣ̌ām hišta, paēsa spasyā nōit
+  frazusta-kərətim, uta maš́yəm sāra-bərətim dāraya kaδa paiti-štāite.
+  Tərəsa-paēsa urvi-karana uta nibixta sahyā̊ bādu vaēkā hanti.
 keyPoints:
-  - "𐬛𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬗𐬌𐬚𐬭𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀, 𐬌𐬀𐬚𐬀 𐬎𐬭𐬎𐬎𐬀𐬭𐬀, 𐬨𐬀𐬧𐬛𐬀𐬮𐬀, 𐬀𐬯𐬞𐬀𐬱𐬙𐬀 𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬗𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬀𐬯𐬞𐬀𐬱𐬙𐬀 𐬭𐬀𐬰𐬀𐬥𐬀, 𐬥𐬀 𐬀𐬞𐬎𐬚𐬭𐬀 𐬗𐬌𐬚𐬭𐬀."
-  - "𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬗𐬀 𐬛𐬀𐬰𐬀𐬙𐬀 𐬎𐬰𐬀𐬌𐬙𐬀. 𐬎𐬞𐬀𐬌𐬌𐬀 𐬛𐬆𐬭𐬆𐬰𐬀𐬌𐬙𐬀 𐬗𐬀 𐬭𐬀𐬢𐬀 𐬐𐬀𐬨𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀."
-  - "𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬞𐬀 𐬎𐬞𐬀𐬭𐬌 𐬭𐬀𐬢𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬌 𐬗𐬀 𐬞𐬀𐬯𐬗𐬀 𐬗𐬌𐬚𐬭𐬀-𐬀𐬢𐬱𐬀 𐬀𐬞𐬀𐬌𐬌𐬀 𐬐𐬆𐬭𐬆𐬙𐬌, 𐬌𐬀𐬙𐬀 𐬰𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬥𐬀 𐬀𐬞𐬀𐬌𐬌𐬀𐬙𐬌."
-  - "𐬭𐬀𐬢𐬀 𐬗𐬀 𐬗𐬌𐬚𐬭𐬀 𐬎𐬞𐬀𐬭𐬌 𐬵𐬀𐬨-𐬎𐬑𐬙𐬀 𐬐𐬆𐬭𐬆𐬙𐬀, 𐬥𐬀 𐬀𐬵𐬎𐬌𐬙𐬌 𐬌𐬀𐬙𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬭𐬈𐬑𐬀 𐬀𐬵𐬎𐬌𐬙𐬌."
-  - "𐬰𐬎𐬎𐬀𐬥𐬀 𐬯𐬌𐬖𐬭𐬀 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬌 𐬀𐬭𐬆𐬰𐬎𐬱 𐬀𐬯𐬙𐬌. 𐬐𐬀𐬨𐬀 𐬨𐬌𐬥𐬎𐬙𐬀 𐬵𐬀𐬨-𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬯𐬙𐬌."
+  - "Hananām fradaϑa vaś́ya, yaϑa daŋheuš ciϑrā, caxra-ciϑrā, xšnūta vastrā, uta masita a-fraspašta karšyā, nōit a-frazaxtā frakerenavā."
+  - "Masita paēsa-kalamā uta pəreθu drafšā vərəzya. Paitāna paiti-drānjaya uta kəsu paēsanām hąm-dāitīm dāraya."
+  - "Ciϑra-paēsiya paiti aēna-paθa vərəzyāte yaϑa paēsa tərəsāite uta ciϑrahē paiti-vicā, yaδa a-hastō-drafša vasnā būzyāite."
+  - "Paiti paēsa uta ciϑrəm mravaya, nōit yaϑa maš́yō karšyā-antare ašta vā nōit."
+  - "Āsūtiyā paiti-štātiš hu-keretā asti. Kəsu zrvan paēsa-vərəzya hakat pərena vərəzya bavaiti."
 faq:
-  - q: "𐬗𐬌𐬙𐬀 𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬮𐬰𐬵𐬀𐬌𐬨𐬆𐬭𐬀 𐬀𐬵𐬎𐬭𐬀 𐬀𐬌𐬥𐬙𐬌 𐬎𐬎𐬀𐬢𐬎𐬱 𐬀𐬯𐬙𐬌?"
-    a: "𐬀𐬉𐬱𐬀 𐬀𐬯𐬀𐬢𐬀 𐬗𐬀 𐬵𐬎𐬛𐬀𐬌𐬙𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬯𐬙𐬌 𐬌𐬀 𐬛𐬀𐬯𐬌𐬌𐬀 𐬱𐬀𐬥𐬙𐬌𐬌𐬀 𐬬𐬌𐬥𐬛𐬀𐬥𐬙𐬌, 𐬗𐬀 𐬀𐬉𐬱𐬀 𐬯𐬨𐬆𐬭𐬆𐬙𐬌𐬱 𐬬𐬀 𐬀𐬭𐬆𐬰𐬎𐬱 𐬀𐬵𐬎𐬌𐬙𐬌 𐬥𐬀 𐬀𐬞𐬀𐬌𐬌𐬀𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬠𐬀𐬉𐬱𐬀𐬰𐬀 𐬥𐬀 𐬀𐬯𐬙𐬌, 𐬗𐬀 𐬥𐬀 𐬗𐬌𐬯𐬗𐬌𐬙𐬀 𐬬𐬀𐬑𐬱 𐬀𐬯𐬙𐬌 𐬌𐬀𐬙𐬀 𐬎𐬰𐬎𐬱𐬌𐬱 𐬨𐬀𐬥𐬛𐬀𐬌𐬌𐬀𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬵𐬎𐬛𐬀𐬌𐬙𐬀 𐬵𐬀𐬨-𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬌𐬀𐬚𐬀 𐬛𐬀𐬌𐬙𐬀."
-  - q: "𐬐𐬀𐬙𐬀𐬭𐬀 𐬭𐬀𐬢𐬀-𐬎𐬞𐬀𐬌𐬌𐬀 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬌𐬀 𐬀𐬵𐬎𐬭𐬀 𐬀𐬌𐬥𐬙𐬌 𐬎𐬎𐬀𐬢𐬎𐬱𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌?"
-    a: "𐬎𐬞𐬀𐬌𐬌𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬀𐬯𐬞𐬀𐬱𐬙𐬀 𐬀𐬢𐬱𐬀 𐬗𐬀 𐬀𐬯𐬞𐬀𐬱𐬙𐬀 𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬎𐬎𐬀𐬢𐬎𐬱𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌: 𐬎𐬭𐬎𐬎𐬀𐬭𐬀, 𐬵𐬀𐬎𐬎𐬀, 𐬎𐬭𐬎𐬎𐬀𐬭𐬀-𐬀𐬯𐬙𐬀𐬥𐬀, 𐬨𐬆𐬭𐬆𐬖𐬀, 𐬥𐬀𐬎𐬎𐬀 𐬬𐬀 𐬞𐬭𐬌𐬌𐬀 𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀. 𐬐𐬀𐬨𐬀 𐬗𐬀 𐬞𐬎𐬭𐬥𐬀 𐬭𐬀𐬰𐬀𐬥𐬀 𐬥𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀, 𐬗𐬀 𐬀𐬞𐬎𐬚𐬭𐬀 𐬗𐬌𐬚𐬭𐬀 𐬥𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀. 𐬎𐬞𐬀𐬌𐬌𐬀 𐬛𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬗𐬀 𐬀𐬞𐬀-𐬭𐬀𐬢𐬀 𐬐𐬭𐬌𐬛𐬀 𐬎𐬎𐬀 𐬎𐬎𐬀𐬢𐬎𐬱𐬀 𐬀𐬯𐬙𐬌."
-  - q: "𐬨𐬀𐬙𐬀 𐬌𐬀𐬛𐬀 𐬀𐬵𐬎𐬌𐬙𐬌 𐬀𐬥𐬙𐬀𐬭𐬀 𐬭𐬈𐬑𐬀 𐬭𐬀𐬢𐬀 𐬐𐬆𐬭𐬆𐬙𐬌 𐬀𐬎𐬛𐬎𐬱𐬙𐬀 𐬀𐬯𐬙𐬌, 𐬐𐬀𐬙𐬀𐬭𐬆𐬨𐬀 𐬐𐬆𐬭𐬆𐬨𐬀?"
-    a: "𐬀𐬵𐬎𐬌𐬙𐬌 𐬎𐬑𐬙𐬀 𐬌𐬀𐬙𐬀 𐬭𐬈𐬑𐬀 𐬥𐬀 𐬀𐬵𐬎𐬌𐬙𐬌. 𐬎𐬞𐬀𐬌𐬌𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬀𐬢𐬱𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀, 𐬬𐬀 𐬎𐬑𐬙𐬀 𐬌𐬀𐬙𐬀 𐬬𐬌𐬯𐬞𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬀𐬉𐬎𐬎𐬀 𐬭𐬀𐬢𐬀 𐬐𐬆𐬭𐬆𐬙𐬎. 𐬭𐬀𐬢𐬀 𐬌𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬌 𐬯𐬙𐬀𐬎𐬎𐬀𐬌𐬙𐬀, 𐬗𐬀 𐬌𐬀𐬛𐬀 𐬀𐬎𐬛𐬎𐬱𐬙𐬀 𐬀𐬯𐬙𐬌 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬀."
-  - q: "𐬗𐬌𐬙𐬀 𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬞𐬀 𐬎𐬞𐬀𐬭𐬌 𐬐𐬆𐬭𐬆𐬙𐬎𐬨𐬀 𐬱𐬀𐬐𐬌𐬌𐬀?"
-    a: "𐬵𐬀𐬎𐬎𐬀. Golden Moments 𐬭𐬀𐬢𐬀-𐬐𐬭𐬌𐬛𐬀 𐬀𐬯𐬙𐬌 𐬌𐬀𐬚𐬭𐬀 𐬭𐬀𐬢𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬌 𐬗𐬀 𐬞𐬀𐬯𐬗𐬀 𐬗𐬌𐬚𐬭𐬀-𐬀𐬢𐬱𐬀 𐬀𐬞𐬀𐬌𐬌𐬀 𐬐𐬆𐬭𐬆𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬰𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬥𐬀 𐬀𐬞𐬀𐬌𐬌𐬀𐬙𐬌 𐬗𐬀 𐬀𐬯𐬀𐬢𐬀 𐬀𐬭𐬀𐬨𐬠𐬀𐬌𐬙𐬌 𐬗𐬀 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬌 𐬱𐬀𐬐𐬌𐬌𐬀."
+  - q: "Tā paēsa-vərəzya hu-dāitā asti martiyānām yōi Alzheimer dārayəṇti?"
+    a: "Aēva hvāsa uta rāzama vərəzya asti yā manō rāmayeiti, uta nōit maršnəm ca nōit arš-paiti-vacəm apereyāiti. Nōit aēša baēšaza asti, uta ahmya naēciš mraoti yaδa aēša vīvānəm maŋhayeiti. Imąm yaϑa hu-zaota hąm-vərəzyām dāraya."
+  - q: "Kat paēsa-sahyā̊ vahištā vərəzyente hananām yōi manō-framarštīm dārayəṇti?"
+    a: "Sahyā̊ masitāiš vīspō-bāmu-vīciϑrāiš uta xšnūtāiš dātu-vaēnāiš vahištā vərəzyente: urvarā, vaodra, pairi-daēza, vāya, navā, yā vā xšnūta vasta. A-pəreθu fraspašta karšyā paiti-tarasva, uta fradaϑa yā a-frazaxtā vaēnante paiti-tarasva. Nibixta hananām sahyā̊ uta tərəsa-paēsa urvi-karana dōiθra hu-vaēkā hanti."
+  - q: "Māta mē a-rāmā bavaiti yaδa an-tare karšyānām paēsayate. Čiš azəm karanyāne?"
+    a: "Ahmāi mravaya yaδa karšyā nōit pərəna hanti. Sahyām masita-keretīm vaś́ya, yā vā ahmāi framrava vīspəm sahyām aēva paēsayā paēsayāte. Paēsa yā aēša vaś́yāte spasyā, uta paiti-šta yaδa a-rāmā bavaiti."
+  - q: "Tā ciϑra-paēsiya paiti tablet-paθa vərəzyāte?"
+    a: "Bā. Golden Moments dārayeiti paēsa-urvi-karanəm yaδa paēsa tərəsasi uta pasca ciϑrahē karanam tərəsasi. Nōit masita zasta-drānjayā apereyāiti, uta hvāsa asti paiti-frasāite uta paiti-štāite."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -44,51 +46,51 @@ related: [activities/arts-and-crafts, activities/art-projects, activities/printa
 health: false
 ---
 
-𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬯𐬀𐬢𐬀𐬙𐬀𐬭𐬀 𐬗𐬌𐬚𐬭𐬀-𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬯𐬙𐬌 𐬌𐬀 𐬀𐬮𐬰𐬵𐬀𐬌𐬨𐬆𐬭𐬀 𐬬𐬀 𐬀𐬥𐬌𐬌𐬀 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬌𐬀 𐬀𐬵𐬎𐬭𐬀 𐬀𐬌𐬥𐬙𐬌 𐬛𐬀𐬌𐬙𐬎𐬨𐬀 𐬱𐬀𐬐𐬌𐬌𐬀. 𐬀𐬉𐬱𐬀 𐬞𐬀𐬌𐬙𐬌𐬱 𐬬𐬀 𐬯𐬨𐬆𐬭𐬆𐬙𐬌𐬱 𐬬𐬀 𐬀𐬭𐬆𐬰𐬎𐬱 𐬀𐬵𐬎𐬌𐬙𐬌 𐬥𐬀 𐬀𐬞𐬀𐬌𐬌𐬀𐬙𐬌. 𐬰𐬀𐬯𐬙𐬀 𐬐𐬀𐬭𐬆𐬥𐬙𐬌, 𐬭𐬀𐬢𐬀 𐬎𐬰𐬀𐬌𐬌𐬀𐬥𐬙𐬌, 𐬗𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬯𐬙𐬌 𐬌𐬀𐬙𐬀 𐬵𐬀𐬨-𐬎𐬑𐬙𐬀 𐬐𐬆𐬭𐬆𐬙𐬀. 𐬀𐬉𐬱𐬀 𐬎𐬞𐬀𐬌𐬌𐬀-𐬗𐬌𐬥𐬀𐬌𐬙𐬌𐬱, 𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀-𐬛𐬀𐬌𐬙𐬌𐬱 𐬗𐬀 𐬵𐬀𐬨-𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬯𐬀𐬥𐬙𐬌𐬌𐬀 𐬗𐬀 𐬀𐬞𐬎𐬚𐬭𐬀-𐬨𐬀𐬥𐬌𐬌𐬀 𐬥𐬀 𐬀𐬵𐬎𐬌𐬙𐬌 𐬛𐬀𐬭𐬱𐬀𐬌𐬙𐬌.
+Ciϑra-paēsiya aēva aŋhat hvo-kereta vərəzyanām yā ahmāi daδāite yō Alzheimer vā anya manō-framarštīm dārayeiti. Nōit kərənavanəm, nōit maršnəm, uta nōit arš-paiti-vacəm apereyāiti. Zastā vərəzyente, paēsā raocayeiti, uta ciϑrəm asti paiti yim vāca fravaxšyāte. Aēša sūraiti framraoti yaϑa sahyā̊ vaś́yāte, čiš paiti-dāϑra daδāite, uta yaϑa hakat paēsayāte a-frazaxtō-daēna a-pərəsa-paiti-vaēkā.
 
-## 𐬗𐬌𐬨𐬀𐬙𐬀 𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬌𐬀 𐬀𐬵𐬎𐬭𐬀 𐬀𐬌𐬥𐬙𐬌 𐬎𐬎𐬀𐬢𐬎𐬱 𐬀𐬯𐬙𐬌
+## Čiš rāzarē ciϑra-paēsiya pourunām yōi manō-framarštīm dārayəṇti saite
 
-𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬰𐬀𐬯𐬙𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬛𐬀𐬛𐬀𐬙𐬌 𐬗𐬀 𐬗𐬀𐬱𐬨𐬀 𐬀𐬥𐬎𐬎𐬀𐬭𐬆𐬙𐬌𐬱 𐬛𐬀𐬛𐬀𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬨𐬀𐬌𐬰𐬀 𐬎𐬞𐬀𐬭𐬌 𐬬𐬀 𐬥𐬌𐬱𐬀𐬯𐬙𐬀 𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬐𐬆𐬭𐬆𐬙𐬎𐬨𐬀 𐬱𐬀𐬐𐬌𐬌𐬀, 𐬗𐬀 𐬀𐬭𐬀𐬨𐬠𐬀𐬌𐬙𐬌 𐬗𐬀 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬌 𐬱𐬀𐬐𐬌𐬌𐬀. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) 𐬗𐬌𐬚𐬭𐬀-𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬌𐬀𐬚𐬀 𐬀𐬥𐬎𐬠𐬎𐬙𐬌𐬱 𐬗𐬀 𐬵𐬎𐬛𐬀𐬌𐬙𐬌𐬱 𐬎𐬞𐬀𐬌𐬌𐬀 𐬛𐬀𐬭𐬱𐬀𐬌𐬙𐬌, 𐬗𐬀 𐬎𐬑𐬙𐬀 𐬌𐬀𐬙𐬀 𐬗𐬌𐬚𐬭𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬥𐬀 𐬀𐬞𐬀𐬌𐬌𐬀𐬙𐬌.
+Ciϑra-paēsiya zastanām vərəzyām daδāiti uta cašmanām paθəm yim spasyāiti. Aēša vərəzyāte paiti mez-paθa vā paiti gātu paiti sraoci-dvara hištanam, uta hvāsa asti ahmya frapaiti-dare uta ava-ni-daδāite. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) fravaoca hu-kərətim yaϑa paθəm ahmāi daδanai yō hąm-dāitīm frasāite uta nūrəm rāmayeiti, uta nōit hu-hunara frazaxtīm apereyāiti.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) 𐬎𐬞𐬀𐬌𐬌𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬌 𐬌𐬀 𐬀𐬵𐬎𐬭𐬀 𐬱𐬀𐬐𐬌𐬌𐬀 𐬌𐬀 𐬀𐬵𐬎𐬌𐬙𐬌 𐬐𐬆𐬭𐬆𐬙𐬌, 𐬗𐬀 𐬌𐬀𐬛𐬀 𐬱𐬀𐬐𐬌𐬌𐬀 𐬬𐬀𐬭𐬌𐬌𐬀𐬙𐬌 𐬀𐬥𐬎𐬎𐬀𐬭𐬆𐬙𐬌𐬱 𐬐𐬆𐬭𐬆𐬙𐬀. 𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬀𐬯𐬀𐬢𐬀 𐬀𐬥𐬎𐬎𐬀𐬭𐬆𐬙𐬌𐬱 𐬱𐬀𐬐𐬌𐬌𐬀: 𐬨𐬀𐬵𐬀𐬥𐬙𐬀𐬭𐬀 𐬗𐬌𐬚𐬭𐬀, 𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀, 𐬐𐬀𐬨𐬀 𐬭𐬀𐬢𐬀, 𐬬𐬀 𐬀𐬞𐬀-𐬭𐬀𐬢𐬀 𐬗𐬌𐬚𐬭𐬀.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) framraoti vərəzyanām vaēkīm yā ahmāi hąm-hištate yim maš́yō dārayeiti vərəzyanai, uta aēṣ̌ąm pašnanam yaδa zāvar vī-jasāite. Ciϑra-paēsiya hvāsō paiti-parštāite: masita ciϑrəm, pəreθu paēsa-kalamā, kəmba paēsā, yā vā tərəsa-paēsa aēna-paθa.
 
-## 𐬛𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬗𐬌𐬚𐬭𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀
+## Hananām fradaϑa vaś́ya
 
-𐬛𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬛𐬀𐬯𐬌𐬌𐬀 𐬀𐬞𐬎𐬚𐬭𐬀 𐬗𐬌𐬚𐬭𐬀 𐬥𐬀 𐬞𐬭𐬌𐬌𐬀𐬥𐬙𐬌. 𐬀𐬉𐬙𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀:
+Hananō maš́yāka apaya nōit frazaxtō-ciϑra vaś́yənti. Spasya ahmya:
 
-- **𐬎𐬭𐬎𐬎𐬀𐬭𐬀 𐬛𐬆𐬭𐬆𐬱𐬥𐬀:** 𐬎𐬭𐬎𐬎𐬀𐬭𐬀-𐬀𐬯𐬙𐬀𐬥𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬎𐬭𐬎𐬎𐬀𐬭𐬀, 𐬀𐬞𐬀 𐬥𐬀𐬎𐬎𐬀, 𐬨𐬆𐬭𐬆𐬖𐬀 𐬰𐬀𐬭𐬆𐬥𐬀 𐬎𐬞𐬀𐬭𐬌.
-- **𐬀𐬯𐬞𐬀𐬱𐬙𐬀 𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀:** 𐬗𐬀𐬌𐬌𐬀-𐬞𐬀𐬙𐬭𐬀, 𐬗𐬀𐬑𐬭𐬀, 𐬵𐬀𐬎𐬎𐬀, 𐬞𐬎𐬱𐬀.
-- **𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬀𐬯𐬞𐬀𐬱𐬙𐬀 𐬭𐬀𐬰𐬀𐬥𐬀:** 𐬨𐬀𐬧𐬛𐬀𐬮𐬀 𐬗𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬀𐬢𐬱𐬀 𐬭𐬀𐬰𐬀𐬥𐬀 𐬐𐬀𐬨𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬀𐬢𐬱𐬀.
-- **𐬗𐬌𐬚𐬭𐬀 𐬬𐬀 𐬛𐬆𐬭𐬆𐬱𐬥𐬀** 𐬌𐬀 𐬀𐬵𐬎𐬭𐬀 𐬞𐬭𐬌𐬌𐬀 𐬀𐬯𐬙𐬀𐬥𐬀 𐬬𐬀 𐬗𐬌𐬚𐬭𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀 𐬀𐬯𐬞𐬀𐬱𐬙𐬀 𐬀𐬵𐬎𐬌𐬙𐬌.
+- **Daŋheuš ciϑrā:** pairi-daēza masitāiš urvarāiš, vairiš navayā, vāyō paiti hvaraocā.
+- **Xšnūta vastrā:** caē-patra, dva-caxra, vaodra, xaoδa.
+- **Masita, a-fraspašta karšyā:** caxra-ciϑrā uta darəga-rādāiš karšyā kəmba masitāiš vī-dātāiš.
+- **Hu-keretō-ciϑrā vā daŋhu-pāitīš** yōi maš́yō vaēdāite paiti xšnūta gātu vā fra-paēsaye.
 
-𐬐𐬀𐬨𐬀 𐬗𐬀 𐬞𐬎𐬭𐬥𐬀 𐬀𐬢𐬱𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬥𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀, 𐬌𐬀 𐬀𐬎𐬛𐬎𐬱𐬙𐬌𐬱 𐬎𐬰𐬀𐬌𐬌𐬀𐬥𐬙𐬌. 𐬎𐬞𐬀𐬌𐬌𐬀 𐬛𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬎𐬎𐬀𐬢𐬎𐬱𐬀 𐬀𐬯𐬙𐬌, 𐬗𐬀 𐬀𐬨𐬀 𐬵𐬀𐬨 [𐬀𐬭𐬆𐬰𐬎𐬱 𐬎𐬞𐬀𐬌𐬌𐬀 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬌𐬀 𐬀𐬵𐬎𐬭𐬀](/activities/printable/) 𐬨𐬀𐬵𐬀𐬥𐬙𐬀-𐬀𐬑𐬱𐬀𐬭𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬀𐬯𐬙𐬌.
+Sahyā̊ kəsu fraspašta vīciϑrāiš paiti-tarasva, yōi a-rāma-kərəti hanti pərənanai. Nibixta hananām sahyā̊ hu-vaēkā hanti, uta ahmākəm [free printable dementia activities](/activities/printable/) masita-nibixta sahyā̊ dārayeiti.
 
-## 𐬐𐬀𐬙𐬀𐬭𐬀 𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬛𐬀𐬌𐬙𐬀
+## Čiš paiti-dāϑra ni-daδāite
 
-- **𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬗𐬀 𐬛𐬀𐬰𐬀𐬙𐬀.** 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀, 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬗𐬌𐬥𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀, 𐬬𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬭𐬀𐬢𐬀-𐬛𐬀𐬧𐬛𐬀 𐬀𐬯𐬀𐬢𐬀𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌.
-- **𐬐𐬀𐬨𐬀 𐬭𐬀𐬢𐬀.** 𐬚𐬭𐬌 𐬬𐬀 𐬗𐬀𐬚𐬎𐬎𐬀𐬭𐬀 𐬭𐬀𐬢𐬀 𐬞𐬎𐬭𐬥𐬀 𐬀𐬯𐬙𐬌. 𐬛𐬀𐬯𐬌𐬌𐬀 𐬗𐬌𐬥𐬀𐬌𐬙𐬌𐬱 𐬀𐬎𐬛𐬎𐬱𐬙𐬌𐬱 𐬎𐬰𐬀𐬌𐬌𐬀𐬙𐬌.
-- **𐬛𐬆𐬭𐬆𐬰𐬎𐬎𐬀𐬥𐬙𐬀 𐬎𐬞𐬀𐬌𐬌𐬀.** 𐬙𐬀𐬥𐬎𐬐𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬯𐬭𐬀𐬎𐬎𐬀𐬙𐬌 𐬗𐬀 𐬥𐬌𐬱𐬀𐬌𐬌𐬀𐬙𐬌. 𐬀𐬢𐬱𐬀 𐬠𐬀𐬧𐬛𐬀𐬌𐬌𐬀 𐬬𐬀 𐬛𐬀𐬰𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬎𐬰𐬀𐬌𐬙𐬀.
-- **𐬀𐬯𐬞𐬀𐬱𐬙𐬀 𐬨𐬀𐬌𐬰𐬀.** 𐬞𐬎𐬭𐬥𐬀 𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬥𐬀 𐬛𐬀𐬌𐬙𐬀 𐬗𐬀 𐬀𐬉𐬎𐬎𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬛𐬀𐬌𐬙𐬀.
-- **𐬨𐬆𐬭𐬆𐬛𐬎 𐬬𐬀 𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀,** 𐬌𐬀𐬚𐬀 𐬎𐬎𐬀𐬯𐬙𐬭𐬀 𐬬𐬀 𐬀𐬞𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀, 𐬨𐬆𐬭𐬆𐬛𐬎𐬙𐬀𐬭𐬀 𐬞𐬭𐬀𐬠𐬀𐬎𐬎𐬀 𐬀𐬵𐬎𐬌𐬙𐬌.
+- **Pəreθu, hu-dāraya vərəzyastā.** Masita paēsa-kalamā, pəreθu drafšā, vā paēsa-sūra pəreθu zasta-drānjayā hvāsō hanti an-tare tanu kalamāiš.
+- **Kəsu paēsanām hąm-dāitiš.** ϑrayō vā caϑwārō paēsā a-dāiti hanti. Pōuru vaēkā a-rāmā bavaiti.
+- **Amavand paitāna vā kart.** Tanu paitāna darəzaite uta sraoseiti. Karana bandaya vā paitāna-draŋjayā vərəzya.
+- **A-fraspašta mez.** Taršnəm apanaya uta aēva sahyām zrvane ni-daδa.
+- **Čiš ahmya ni-jasaite vā hąm-raocayeiti,** yaϑa vastra vā spōŋga, a-darəga paēsayā.
 
-## 𐬀𐬞𐬀 𐬎𐬞𐬀𐬭𐬌 𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱
+## Ciϑra-paēsiya paiti tablet
 
-Golden Moments 𐬎𐬞𐬀𐬭𐬌 [𐬭𐬀𐬢𐬀-𐬐𐬭𐬌𐬛𐬀](/games/coloring/) 𐬀𐬯𐬙𐬌 𐬌𐬀𐬚𐬭𐬀 𐬭𐬀𐬢𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬌 𐬗𐬀 𐬞𐬀𐬯𐬗𐬀 𐬗𐬌𐬚𐬭𐬀-𐬀𐬢𐬱𐬀 𐬀𐬞𐬀𐬌𐬌𐬀 𐬐𐬆𐬭𐬆𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬰𐬀𐬯𐬙𐬀-𐬎𐬯𐬙𐬀𐬎𐬎𐬀𐬭𐬀 𐬥𐬀 𐬀𐬞𐬀𐬌𐬌𐬀𐬙𐬌, 𐬌𐬀𐬙𐬀 𐬰𐬀𐬯𐬙𐬀-𐬛𐬀𐬰𐬀 𐬨𐬆𐬭𐬆𐬛𐬎 𐬀𐬵𐬎𐬌𐬙𐬌 𐬎𐬎𐬀𐬢𐬎𐬱 𐬀𐬯𐬙𐬌. 𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬥𐬌𐬱𐬀𐬌𐬛𐬌 𐬌𐬀𐬙𐬀 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨-𐬛𐬀𐬌𐬙𐬀 𐬱𐬀𐬐𐬌𐬌𐬀, 𐬗𐬀 𐬀𐬵𐬎𐬭𐬀 𐬭𐬀𐬢𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬌 𐬛𐬀𐬌𐬙𐬀. 𐬀𐬥𐬌𐬌𐬀 𐬎𐬑𐬙𐬀 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬀 𐬌𐬀𐬙𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬯𐬙𐬌.
+Aēša [coloring game](/games/coloring/) paiti Golden Moments vərəzyate yaδa paēsa tərəsasi uta pasca ciϑrahē karanam tərəsasi. Nōit masita zasta-drānjayā apereyāiti, ahmāi rāzarē saite martiyānām yōi zasta a-darəza bavaiti. Pašanāt aēṣ̌ahē hišta yaδa aēna-paθəm hąm-vaēnāite, uta ahmāi daδa paēsa vaś́yāte. Fravaocanām apa-dāraya yaδa ciϑrəm aēva dōiθra aŋhate.
 
-## 𐬵𐬀𐬨-𐬭𐬀𐬢𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬐𐬀𐬚𐬀
+## Yaϑa hakat paēsayāte
 
-1. **𐬞𐬀𐬎𐬭𐬎𐬎𐬌𐬌𐬀 𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬵𐬀𐬨 𐬀𐬭𐬀𐬨𐬠𐬀𐬌𐬙𐬀.** 𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀 𐬵𐬀𐬨 𐬛𐬀𐬰𐬀𐬙𐬀, 𐬬𐬀 𐬰𐬀𐬯𐬙𐬀 𐬀𐬵𐬎𐬭𐬀 𐬰𐬀𐬯𐬙𐬀 𐬎𐬞𐬀𐬭𐬌 𐬐𐬀𐬨𐬀 𐬭𐬀𐬢𐬀 𐬐𐬆𐬭𐬆𐬙𐬀, 𐬞𐬀𐬯𐬗𐬀 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬀.
-2. **𐬭𐬀𐬢𐬀 𐬗𐬀 𐬀𐬯𐬙𐬀𐬥𐬀 𐬎𐬞𐬀𐬭𐬌 𐬵𐬀𐬨-𐬎𐬑𐬙𐬀 𐬐𐬆𐬭𐬆𐬙𐬀.** «𐬀𐬉𐬱𐬀 𐬵𐬎𐬛𐬀𐬌𐬙𐬀 𐬥𐬌𐬮𐬀 𐬭𐬀𐬢𐬀 𐬀𐬯𐬙𐬌. 𐬐𐬎𐬚𐬭𐬀 𐬀𐬉𐬙𐬀 𐬭𐬀𐬢𐬀 𐬀𐬞𐬀 𐬛𐬌𐬛𐬀?» 𐬵𐬀𐬨-𐬎𐬑𐬙𐬀 𐬎𐬰𐬀𐬌𐬌𐬀𐬙𐬌 𐬥𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬐𐬆𐬭𐬆𐬙𐬌.
-3. **𐬗𐬌𐬥𐬀𐬌𐬙𐬌𐬱 𐬯𐬙𐬀𐬎𐬎𐬀𐬌𐬙𐬀, 𐬥𐬀 𐬀𐬵𐬎𐬌𐬙𐬌.** «𐬵𐬎𐬛𐬀𐬌𐬙𐬀 𐬭𐬀𐬢𐬀 𐬗𐬌𐬥𐬎𐬙𐬀» 𐬎𐬎𐬀𐬢𐬎𐬱𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌 «𐬀𐬥𐬙𐬀𐬭𐬀 𐬭𐬈𐬑𐬀 𐬀𐬵𐬎𐬌𐬙𐬀».
-4. **𐬀𐬵𐬎𐬭𐬀 𐬞𐬀𐬎𐬭𐬎𐬎𐬌𐬌𐬀 𐬐𐬆𐬭𐬆𐬙𐬎.** 𐬌𐬀𐬛𐬀 𐬀𐬵𐬎𐬌𐬙𐬌 𐬬𐬌𐬯𐬞𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬭𐬀𐬢𐬀 𐬐𐬆𐬭𐬆𐬙𐬌, 𐬀𐬵𐬎𐬌𐬙𐬌 𐬐𐬆𐬭𐬆𐬙𐬎.
-5. **𐬌𐬀𐬛𐬀 𐬀𐬵𐬎𐬌𐬙𐬌 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬌, 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬀.** 𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀 𐬛𐬀𐬌𐬙𐬀, 𐬗𐬀 𐬗𐬀𐬌𐬌𐬀 𐬬𐬀 𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬎𐬑𐬙𐬀.
+1. **Hakat paoiryəm karšyām frasāite.** Kalaməm ahmāi hąm-dāraya, yā vā tava zastəm paiti aēṣ̌ahē zasta daδa kəsu karšyāiš, pasca apa-sraoca.
+2. **Paiti paēsa uta gātū framrava.** "Aēša srīra xšaošno-paēsa asti. Kū tū āpəm ahmya paēsayā vaēdā?" aēša hąm-vaxšyām daδāiti a-pərəsayā.
+3. **Vaēkīm spasyā, nōit arš-kərətim.** "Tū garmō-paēsā vaēš́i" srīrō saite an-tare "Tū an-tare karšyāiš ašta."
+4. **Ahmāi fraxštīm daδa.** Yezi aēša vīspəm sahyām a-karšya paēsayāte vaś́yeiti, ahmāi daδa.
+5. **Paiti-šta yaδa aēša paiti-šteiti.** Kalamā ava-ni-daδa, uta caē-patrəm vā yātu-paθəm framrava.
 
-## 𐬌𐬀𐬛𐬀 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬱 𐬬𐬀𐬭𐬌𐬌𐬀𐬙𐬌 𐬀𐬥𐬎𐬎𐬀𐬭𐬆𐬙𐬌𐬱
+## Pašnanam yaδa manō-framaršti vī-jasāite
 
-𐬞𐬀𐬎𐬭𐬎𐬎𐬌𐬌𐬀 𐬀𐬎𐬎𐬀𐬯𐬚𐬀, 𐬀𐬵𐬎𐬭𐬀 𐬛𐬀𐬯𐬌𐬌𐬀 𐬭𐬀𐬰𐬀𐬥𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬞𐬭𐬌𐬌𐬀𐬥𐬙𐬌 𐬗𐬀 𐬭𐬀𐬢𐬀 𐬗𐬀 𐬗𐬌𐬚𐬭𐬀 𐬑𐬎𐬛𐬀 𐬗𐬌𐬥𐬎𐬌𐬥𐬙𐬌 𐬱𐬀𐬐𐬌𐬌𐬀𐬥𐬙𐬌. 𐬨𐬀𐬛𐬌𐬌𐬀 𐬀𐬎𐬎𐬀𐬯𐬚𐬀, 𐬨𐬀𐬵𐬀𐬥𐬙𐬀𐬭𐬀 𐬗𐬌𐬚𐬭𐬀 𐬗𐬀 𐬐𐬀𐬨𐬀 𐬗𐬌𐬥𐬀𐬌𐬙𐬌𐬱 𐬎𐬞𐬀𐬌𐬌𐬀 𐬐𐬆𐬭𐬆𐬥𐬙𐬌. 𐬀𐬞𐬀𐬭𐬀 𐬀𐬎𐬎𐬀𐬯𐬚𐬀, 𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬵𐬀𐬥𐬙𐬀 𐬀𐬢𐬱𐬀, 𐬨𐬆𐬭𐬆𐬛𐬎 𐬭𐬀𐬢𐬀-𐬎𐬞𐬀𐬌𐬌𐬀, 𐬬𐬀 𐬭𐬀𐬢𐬀-𐬐𐬀𐬭𐬆𐬙𐬀𐬭𐬀 𐬛𐬀𐬰𐬀𐬙𐬀 𐬗𐬌𐬥𐬎𐬌𐬙𐬀 𐬌𐬀𐬛𐬀 𐬵𐬀𐬨 𐬚𐬎𐬎𐬀 𐬛𐬀𐬌𐬙𐬀. 𐬐𐬀𐬌𐬗𐬌𐬙𐬀 𐬀𐬵𐬎𐬭𐬀 𐬞𐬎𐬭𐬥𐬀 𐬗𐬌𐬚𐬭𐬀 𐬛𐬌𐬛𐬀 𐬨𐬀 𐬗𐬌𐬚𐬭𐬀 𐬐𐬆𐬭𐬆𐬙𐬌𐬱 𐬞𐬭𐬌𐬌𐬀𐬥𐬙𐬌.
+Paoirye gātu, maš́yāka pouru-vīciϑra sahyā̊ rāmayəṇti uta xᵛa paēsa uta karšyā vaś́yəṇti. Maidyāne gātu, masitā ciϑrā uta kəmba vaēkā a-spasyeiti. Paiti apəra gātvō, aēva masita-karša, narmō-paēsa paitāna, yā vā aēva kalaməm dāraya yaδa tū gāθām sravayeiti. Kəcit maš́yāka rāmayəṇti spasyanai pərena ciϑrəm taršnō an-tare kərənavanai.
 
-𐬀𐬎𐬎𐬀𐬯𐬚𐬀 𐬞𐬭𐬀𐬙𐬌 𐬗𐬌𐬚𐬭𐬀-𐬐𐬀𐬭𐬆𐬙𐬌𐬱, [𐬗𐬌𐬚𐬭𐬀 𐬗𐬀 𐬰𐬀𐬯𐬙𐬀-𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬌𐬀 𐬀𐬵𐬎𐬭𐬀](/activities/arts-and-crafts/) 𐬗𐬀 [𐬗𐬌𐬚𐬭𐬀-𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬨𐬀𐬥𐬀𐬵-𐬎𐬰𐬎𐬱𐬌𐬌𐬀 𐬀𐬵𐬎𐬭𐬀](/activities/art-projects/) 𐬛𐬌𐬛𐬀.
+Pərəna paiti hu-kərəta vərəzyāiš paiti vīspe gātvō, spasya [arts and crafts for adults with dementia](/activities/arts-and-crafts/) uta [art projects for people with dementia](/activities/art-projects/).
 
-## 𐬐𐬀𐬛𐬀 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬀
+## Kaδa paiti-štāite
 
-𐬌𐬀𐬛𐬀 𐬀𐬵𐬎𐬭𐬀 𐬀𐬎𐬛𐬎𐬱𐬙𐬀 𐬀𐬯𐬙𐬌, 𐬎𐬞𐬀𐬌𐬌𐬀 𐬀𐬞𐬀𐬌𐬌𐬀 𐬐𐬆𐬭𐬆𐬙𐬌, 𐬬𐬀 𐬙𐬀𐬥𐬎 𐬀𐬵𐬎𐬌𐬙𐬌, 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬀. 𐬛𐬎𐬎𐬀 𐬨𐬌𐬥𐬎𐬙𐬀 𐬞𐬀𐬯𐬗𐬀 𐬎𐬞𐬀𐬭𐬆𐬨𐬀𐬌𐬙𐬌𐬱 𐬀𐬭𐬆𐬰𐬎𐬱 𐬀𐬯𐬙𐬌 𐬌𐬀𐬛𐬀 𐬀𐬵𐬎𐬭𐬀 𐬵𐬎𐬛𐬀𐬌𐬙𐬀 𐬀𐬵𐬎𐬌𐬙𐬌. 𐬌𐬎𐬰𐬀 𐬞𐬀𐬯𐬗𐬀 𐬵𐬀𐬨 𐬐𐬆𐬭𐬆𐬙𐬎𐬨𐬀 𐬱𐬀𐬐𐬌𐬌𐬀, 𐬬𐬀 𐬀𐬥𐬌𐬌𐬀 𐬗𐬌𐬚𐬭𐬀 𐬬𐬀 𐬀𐬥𐬌𐬌𐬀 𐬐𐬀𐬭𐬆𐬙𐬌𐬱 𐬌𐬀𐬚𐬀 [𐬀𐬥𐬎𐬠𐬎𐬙𐬌𐬱-𐬐𐬀𐬭𐬆𐬙𐬌𐬱](/activities/sensory/) 𐬗𐬌𐬥𐬎𐬌𐬙𐬀.
+Paiti-šta yezi maš́yō a-rāmo bavaiti, paitānəm apa-nasaite, vā xšvīdra vaēnāite. Paiti-štātiš pasca 2 dakika hu-srištiš asti yezi rāmīm vindən. Tū pasca paiti-jasāi, yā vā anya ciϑrəm vā anya vərəzyām spasya yaϑa [sensory play](/activities/sensory/).

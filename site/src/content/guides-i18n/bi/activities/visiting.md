@@ -1,35 +1,30 @@
 ---
-title: "Lukim Someone we i Gat Dementia long Kea o Haspitol"
-seoTitle: "Lukim Someone we i Gat Dementia: Wanem Blong Mekem mo Karem"
-description: "Wanem blong mekem taem yu lukim someone we i gat dementia long ples blong kea, haos blong olfala o haspitol: wanem blong karem, simpol aktiviti, sot visit mo wei blong lusim."
+title: "Visitim wan man wetem dementia long memory care o long hospitel"
+seoTitle: "Visitim wan man wetem dementia: Wanem fo mekem mo fo kasem"
+description: "Gaedsem blong visit wan man wetem dementia long memory care, nursing home o hospitel: wanem fo kasem, ol isi aktiviti, ol visit we i sot mo fo lusim gud."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Taem yu lukim someone we i gat dementia long ples blong kea o long haspitol,
-  mekem i simpol: tellem nem blong yu taem yu kamaot, karem wan samting blong
-  sherem olsem ol foto, miusik o kaikai we hem i laekem, mo mekem wan samting
-  we i isi blong dumdum wantaem. Ol sot visit we i kamaot oltaem oftaen i gud
-  moa long ol longfala visit we i rare. Mekem wan kalmfala wei blong sei gudbae
-  we i sem evri taem, blong i isi long yu mo long hem blong lusim.
+  Taem yu visitim wan man wetem dementia long memory care o long hospitel, mekem i isi: talem nem blong yu taem yu kam, kasem samting blong sherem olsem ol foto, miusik o kaekae we hem i laekem, mo mekem wan isi samting tugeta. Ol sot visit we oli kam regula oli moa gud dan ol long we oli kam longwe taem. Mekem wan kuiet mo sem gudbae evri taem, blong lusim i isi long yufala tufala.
 keyPoints:
-  - "Gritim man o meri long nem blong hem mo tellem hu yu stap, blong hem no mas wok blong save: 'Hae Mama, mi Susan, pikinini meri blong yu.'"
-  - "Karem wan o tu samting blong sherem, olsem wan buk blong ol foto, miusik we hem i laekem, wan soft blanket o wan kaikai we ol staf oli bin apruvum."
-  - "Ol sot visit we i kamaot oltaem oftaen i gud moa long ol longfala visit we i rare. Stap kompani blong yu i impoten moa long wanem yu talem."
-  - "Long haspitol, givim ol staf wan pej blong tok long man o meri, mo tellem dokta kwiktaem long eni jenis we i kamaot kwik."
-  - "Plan wei blong lusim: tellem hao longfala yu save stap, yuseim sem gudbae evri taem, mo lusim no stap sot."
+  - "Gritim man ya wetem nem blong hem mo talem nem blong yu, blong hem no mas wok blong save: 'Hae Mama, mi Susan, pikinini woman blong yu.'"
+  - "Kasem wan o tu samting blong sherem, olsem album blong foto, miusik we hem i laekem, wan blanket we i soft, o wan kaekae we staff oli apruvum."
+  - "Ol sot visit we oli kam regula oli moa gud dan ol long we oli kam longwe taem. Fasin blong yu i stap wetem hem i impoten moa dan wanem yu talem."
+  - "Long hospitel, givim staff wan piis pepa we i gat ol infomesen blong man ya, mo talem doctor kwik taem i gat wan sudden jenis."
+  - "Plan blong lusim: talem long hem hao longtaem yu save stap, yusum sem gudbae evri taem, mo lusim withaot i stap longfala."
 faq:
-  - q: "Wanem blong karem taem mi lukim someone we i gat dementia?"
-    a: "Karem wan samting blong sherem, no wan samting blong tokbaot nomo. Wan liktol buk blong foto, wan plei lis blong ol miusik we hem i laekem, wan soft blanket, hand lotion, wan magasin abaot wan olfala intres, o wan kaikai we ol staf oli apruvum, evri samting ya i gud. Long wan haos blong kea, ol famili foto mo ol samting we oli save long hem oli save mekem rum i fil olsem haos."
-  - q: "Hao longfala mi bambae stap taem mi lukim someone we i gat dementia?"
-    a: "I no gat wan stret longfala. Planti famili oli faenem se ol sot visit we i kamaot oftaen i gud moa long ol longfala visit we i rare, from hem i save kwik sik, mo hem i no save long taem we yu bin stap. Lukaot ol saen blong hem i sik, mo lusim taem visit i stil fil gud."
-  - q: "Wanem mi bambae talem taem hem i askem blong go long haos?"
-    a: "Ansarem long filing, no long ol wod. 'Mi wantem go long haos' i oftaen i minim 'mi no fil kamfot o sef.' Traem tokaot, 'Tellem mi abaot haos blong yu,' lukluk long ol foto togeta, o ofarem wan wok long rod o wan kaikai. Fes o eksplenem why hem no save lusim, usually i mekem hem fil moa strong."
-  - q: "Wanem if hem i no save mi?"
-    a: "Hem save hartem yu, be traem no blong korektem hem o askem 'Yu no save mi?' Gritim hem wetem kaen tingting mo jastem enjoem taem blong stap wetem hem. Planti man no mo oli laek kompani mo oli save fil hot blong visit even taem oli no save wanem nem blong yu."
-  - q: "Hao mi save helpem long taem man o meri i stap long haspitol?"
-    a: "Stap wetem hem sipos yu save, helpem hem blong kaikai mo dring, mo karem ol samting we i save long hem olsem ol foto. Givim ol staf wan pej we i leftemap rutin blong hem, nem we hem i laekem, samting we hem i laek mo i no laek, mo ol saen blong pen. Tellem dokta kwiktaem sipos hem i no fil gud o i stap defren, from konfiuzin we i kamaot kwik i save olsem wan hel problem."
+  - q: "Wanem samting mi mas kasem taem mi visitim wan man wetem dementia?"
+    a: "Kasem samting blong sherem, no samting blong toktok long hem. Wan liklik album blong foto, wan list blong ol gudfala sang blong hem, wan soft blanket, hand lotion, wan magasin abaot wan oldfala interes, o wan kaekae we staff oli apruvum, evri wan i gud. Long wan care hom, famle foto mo ol samting we hem i save long hem tu oli save mekem rum i fil olsem hom."
+  - q: "Hao longtaem mi mas stap taem mi visitim wan man wetem dementia?"
+    a: "I no gat wan rod longtaem. Plenti famle oli faenem se ol sot visit we oli kam olwiswe moa gud dan ol long we oli kam longwe taem, from hem i save kwik taed mo hem i no nid save hao longtaem yu stap. Lukaot ol saen blong taed mo lusim taem visit ya i stap i gud yet."
+  - q: "Wanem mi talem taem hem i askem blong go hom?"
+    a: "Ansarem filing we i stap behaen, no ol wod. 'Mi wantem go hom' oftentaem i minim 'Mi no fil gud o mi no fil sef.' Traem talem, 'Talem mi abaot hom blong yu,' lukluk long ol foto tugeta, o ofarem wan wok o wan kaekae. Ars o eksplen wanem nao hem no save go, oftentaem i mekem hem moa sed."
+  - q: "Wat if hem i no save mi?"
+    a: "I save hatem yu, be traem no fo korektem hem o askem 'Yu no save mi?' Gritim hem wetem wod we i waem mo i simpol, mo injoyem taem tugeta. Plenti man oli stap enjoy kampani mo oli fil waem blong visit, evenwan taem oli no save hu nao yu.\""
+  - q: "Hao mi save helpem taem hem i stap long hospitel?"
+    a: "Stap wetem man ya taem yu save, helpem hem blong kaekae mo dring, mo tekem ol samting we hem i save long hem olsem ol foto. Givim staff wan piis pepa we i lis rutin blong hem, nem we hem i laekem, samting we hem i laekem mo i no laekem, mo ol saen blong pen. Talem doctor kwik taem hem i luk nogud o i defren nomoa, from sudden konfiusen i save blong wan medikol problem."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -54,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Taem yu lukim man o meri we yu laekem long kea, long haos blong olfala, o long haspitol, yu save fil plante samting. Yu save tingting long wanem bambae yu talem, wanem bambae yu karem, o wetem visit ya i stap long samting, from hem bambae no save long hem. Be i stap long samting. National Institute on Aging i talem se ol man we oli gat Alzheimer's [oftaen i enjoem kompani](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even taem oli no save hu i kam lukim olsem. Pej ya i givim ol stret step blong bifo, long taem, mo afta long visit, mo ol tips blong taem we i stap long haspitol.
+Visitim wan man we yu laekem long memory care, nursing home o long hospitel i save kamaot plenti fílin. Yu save wondarem wanem fo talem, wanem fo karem, o sipos visit ya i impoten from hem bambae i no save rimembem. I impoten. National Institute on Aging i talem se ol man wetem Alzheimer's [oftentaem oli enjoy kampani](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even taem oli no rimembem hu nao i kam. Pej ya i givim ol stap we i praktikol blong bifo, long taem, mo afta visit, mo ol tip blong ol stei long hospitel.
 
-## Haevu mi fasem redi blong go lukim?
+## Hao mi mekem mi redi blong wan visit?
 
-Wan liga plan i mekem visit i isi long yufala tufala.
+Wan liklik plan i mekem visit i isi long yufala tufala.
 
-- **Jusum wan gud taem.** Dementia Australia i sujestem blong go taem man o meri i gat moa save long samting, we long planti man hem i moning o arawn long midel dei. Family Caregiver Alliance i sujestem blong save skedul blong ples ya mo go taem we hem i gat **fri taem, no taem blong aktiviti** ([fri taem](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/)).
-- **Askem ol staf.** Askem hao hem i stap long dei ya, mo lukluk ol rul abaot kaikai, enimol, o taem blong go aot.
-- **Pakem wan liten visit bag.** Wan o tu samting blong sherem i stret finis (lukluk long lis long hem blo).
-- **Plan sam topik.** Man o meri i save no gat niuz blong sherem, so yu karem blong yu: niuz long famili, weta, wan gem blong bolgem, wan stori we i fanI.
-- **Setem ol expectasen blong yu.** Sam visit bambae i wom mo i tok plante. Narafala bambae i kwaet o i hadwok. Tufala i nomol.
+- **Jusum wan gud taem.** Dementia Australia i sujestem blong visit taem man ya i muv i gat moa tingting, we long plenti man i taem long mониг o long midol de. Family Caregiver Alliance i sujestem blong lanem skedul blong fasiliti mo visit long [taem blong fri, no long taem blong aktiviti](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Askem staff.** Askem hao man ya i bin stap distrik ya, mo jekem ol rul abaot kaekae, enimol, o kasem aot.
+- **Pakem wan liklik visit bag.** Wan o tu samting blong sherem i stret (lukluk long lis i stap aftawan).
+- **Plan sam tok.** Man ya i save no gat niu blong talem, so karem ol tok blong yu: ol niu long famle, weta, wan fut gem, wan funi stori.
+- **Setem ol espektesen blong yu.** Sam visit bambae i warm mo i tok plante. Narafala bambae i kuiet o i had. Tufala oli nomol.
 
-## Wanem blong karem?
+## Wanem samting mi save karem?
 
-Karem ol samting blong sherem, no ol samting we i mekem hem i fil hevi. Ol gudfala jojo i olsem:
+Karem ol samting blong sherem, no ol samting we i mekem hem i nid tes. Ol gudfala jojo oli:
 
-- **Wan liten buk blong foto** we ol foto oli big mo klia. Raetem nem long bak blong ol foto blong ol staf i save.
-- **Wan plei lis** blong ol miusik we hem i laekem long fon, wetem ol simpol hedfon o wan liten spika.
+- **Wan liklik album blong foto** wetem ol bigfala klia foto. Raetem nem long bak blong olgeta blong staff.
+- **Wan playlist** blong ol gudfala sang long fon, wetem ol simpol hedfon o wan liklik spika.
 - **Samting we i soft blong holem,** olsem wan blanket, sikaf o sweta we hem i save.
-- **Hand lotion** blong wan soft handmasaj, sipos hem i laekem tajem.
-- **Magasin o pikja buk** abaot wan olfala intres, olsem gaden, ka, bed, o kukim kaikai.
-- **Wan kaikai we hem i laekem**, sipos ol staf i tok hem i sef.
-- **Ol samting we i save long rum.** Family Caregiver Alliance i sujestem ol flaoa, ol plant, famili pikja mo ol pikja blong atis, o wan big posta blong famili foto blong bifo.
-- **Wan tablet**, blong lukim famili foto o plei wan simpol gem togeta.
+- **Hand lotion** blong wan soft masej long han, sipos man ya i laekem taj.
+- **Wan magasin o wan buk wetem ol pija** abaot wan oldfala interes, olsem gaden, kar, pisin o kuking.
+- **Wan gudfala kaekae**, sipos staff oli talem i sef.
+- **Ol famle samting blong putum long rum.** Family Caregiver Alliance i sujestem ol flaor, ol plan, famle pija mo ol atiswok, o wan bigfala poster blong famle foto long taem bifo.
+- **Wan tablet**, blong lukluk long famle foto o pleim wan isi gem tugeta.
 
-## Wanem yumi save mekem togeta long taem blong visit?
+## Wanem samting yumi save mekem tugeta long visit?
 
-Mekem wan samting togeta i save rilisim presa blong toktok. Dementia Australia i sujestem blong lukluk long foto, wan isi kraf, planem ol seedling, miusik, sherem wan kaikai, o wokabaot raon long ples. Sam moa aedia:
+Mekem wan samting tugeta i rilisim presa long toktok. Dementia Australia i sujestem blong lukluk long foto, wan isi kraf, plantem ol nyu plan, miusik, sherem wan kaekae, o wokabaot aroun long ples. Sam narafala aedia:
 
-1. **Lukluk long foto.** Talem wanem yu luk: "Lukim taem hat ya." "Bij ya i gud tumas." Lidim hem i tok. No askem "Hu ya?"
-2. **Plei miusik mo singsing.** Ol miusik we oli save i save mekem hem i fil gud mo i givim wan taem we yufala tufala i sheā, even taem toktok i hadwok.
-3. **Wokabaot wan short taem.** Family Caregiver Alliance i sujestem blong wokabaot raon long ples, espesol long gaden sipos i gat. Wan wheelchair stret i kaontem.
-4. **Givim wan hand masaj.** Wan liten lotion mo ol slow strok long han i save kalmem.
-5. **Helpem long lukluk gud.** Dementia Australia i talem blong brashem gras, penem nel, o helpem hem blong wearem wan gudfala dres, sipos hem i laekem.
-6. **Plei wan simpol gem.** Family Caregiver Alliance i sujestem ol kad, domino, o wanem gem we hem i save plei long bifo. Long tablet, [Picture Pairs](/games/picture-pairs/) i save plei wetem ol pikja we oli stap luk, no taem. [Photo Pairs](/games/photo-pairs/) i mekem ol foto we yu jusum i kam wan matj gem, mo ol foto oli stap long browser blong yu.
-7. **Lukim wan samting togeta.** Family Caregiver Alliance i sujestem ol komedi mo ol olfala muvi. Even sipos hem i no save folem stori, yu save sidaon klos mo sherem taem.
-8. **Ridim long vois.** Wan short poem, wan gudfala paragraf, o wan leta from wan famili memba.
-9. **Jus sidaon togeta.** Holem han, o sidaon kwaet, hemia i wan trufala visit. Alzheimer's Association i talem se hemi oraet no save wanem blong tok, mo se stap kompani blong yu i impoten moa.
+1. **Lukluk long foto.** Soem wanem we yu luk: "Lukim dat hat." "Dis bij i gud tumas." Letem man ya i lidim. Avoidem "Hu nao hemia?"
+2. **Pleim miusik mo singsing.** Ol famliar sang i save laeftemap fil mo i save mekem wan sea taem tugeta, sipos toktok i hadwan.
+3. **Wokabaot wan liklik taem.** Family Caregiver Alliance i sujestem blong wokabaot aroun long fasiliti, namely long gaden sipos i gat wan. Wan wheelchair stroll i kaontem tu.
+4. **Givim wan hand masej.** Wan liklik lotion mo ol slou strok long han oli save mekem hem i kuiet.
+5. **Helpem long grumin.** Dementia Australia i mensenem brasim gris, peintem nel, o helpem man ya blong putum wan gudfala klos, sipos hem i laekem.
+6. **Pleim wan isi gem.** Family Caregiver Alliance i sujestem kard, domino, o wanem gem we man ya i yusum blong pleim bifo. Long wan tablet, [Picture Pairs](/games/picture-pairs/) i save pleim wetem ol pija we oli stap aotsaed mo no gat taemr. [Photo Pairs](/games/photo-pairs/) i jenisem ol foto we yu jusum i kam wan matching gem, mo ol foto oli stap long braosa blong yu.
+7. **Lukluk long wan samting tugeta.** Family Caregiver Alliance i sujestem ol komedi mo ol oldfala muvi. Even sipos man ya i no save folem stori, yu save sidaon klosap mo sherem taem.
+8. **Ridim hae.** Wan sot pome, wan gudfala paragraf, o wan leta from wan famle memba.
+9. **Jus sidaon tugeta.** Holem han o sidaon kuiet i wan trufala visit. Alzheimer's Association i talem se hemi nomol blong no save wanem blong talem, mo fasin blong yu i impoten moa.
 
-[Conversation Cards](/games/conversation-cards/) i save helpem taem yu finis long ol samting blong tok. Each kad i gat wan pikja mo wan opin kwestin.
+[Conversation Cards](/games/conversation-cards/) i save helpem taem yu finis ol tok blong talem. Olgeta kard i gat wan pija mo wan opin kwestin.
 
-## Hao mi bambae toktok taem visit i stap?
+## Hao mi save toktok long visit?
 
-- **Tellem nem blong yu evri taem.** "Hae Papa, mi Mark, pikinini man blong yu." NIA i sujestem ol visitor blong tellem nem blong olgeta long stat blong toktok.
-- **Kam long fes blong hem** mo sidaon long level blong ae.
-- **No korektem o argiu.** NIA i advaesem ol visitor blong no korektem man o meri sipos hem i mekem mistek o i fogetem samting.
-- **Stap patient** taem ol wod i hadwok blong faenem. Givim planti taem.
-- **Ansarem long filing.** Sipos hem i sad o i wari, akseptem fastaem bifo yu jenisim topik.
-- **Lusim ol kwiz kwestin** olsem "Yu save mi?" o "Wanem yu kaikaim long lanj?"
+- **Introdiusim yu wan taem blong wan taem.** "Hae Papa, mi Mark, pikinini man blong yu." NIA i sujestem se ol visitor i introdius olgeta long sot taem blong stat wan tok.
+- **Kam long fes** mo sidaon long smol heit blong ae.
+- **No korektem o argumentem.** NIA i advaesem ol visitor blong no korektem man ya sipos hem i mekem mistek o i forgeten samting.
+- **Wetem patiens** taem ol wod i had blong faendem. Givim hem plante taem.
+- **Ansarem ol fílin.** Sipos man ya i luk sed o wari, akseptem fílin ya bifo yu jenisem tok.
+- **Avoidem ol kwiz kwestin** olsem "Yu save mi?" o "Wanem nao yu kaekae long lanj?"
 
-Lukluk long [tips blong toktok](/caregiving/communication-tips/) blong moa.
+Lukluk long [tip blong komunikesen](/caregiving/communication-tips/) blong moa.
 
-## Wanem mi mas mekem taem hem i talem "Mi wantem go long haos"?
+## Wanem mi mas mekem taem hem i talem "Mi wantem go hom"?
 
-Ansarem long filing we i stap bihaen long ol wod ([gaed blong taem man o meri i askem blong go long haos](/caregiving/asking-to-go-home/) i eksplenem moa). Family Caregiver Alliance i eksplenem se "Mi wantem go long haos" i usually i minim "Mi no fil kamfot," mo i sujestem ansa olsem "Tellem mi abaot haos blong yu" o "Wanem samting we yu laekem tumas long haos?" Dementia Australia i ademap se "haos" i ken minim wan taem o ples we man o meri i fil sef, olsem taem blong pikinini.
+Ansarem fílin we i stap behaen ol wod (gaed blong yumi abaot [taem wan man i kipem askem blong go hom](/caregiving/asking-to-go-home/) i go moa). Family Caregiver Alliance i eksplenem se "Mi wantem go hom" i yusually wan rod blong talem "Mi no fil komfotebol," mo i sujestem ansa olsem "Talem mi abaot hom blong yu" o "Wanem nao samting we yu laekem long hom?" Dementia Australia i ademem se "hom" i save minim wan taem o ples we man ya i fil sef, olsem taem blong pikinini.
 
 Traem:
 
-- akseptem filing: "I olsem yu miss haos blong yu."
+- talem akseptem fílin: "I luk olsem yu miss hom blong yu."
 - givim komfot long taj, sipos hem i welkam
-- lukluk long foto o tok abaot famili haos
-- ofarem wan wokabaot, wan dring, o wan kaikai
+- lukluk long foto o toktok abaot famle hom
+- ofarem wan wok, wan dring o wan kaekae
 
-No argiu o eksplenem why hem no save lusim. Hemia i no gat gud rizol mo usually i mekem hem i fil moa hevi.
+Avoidem arguman o eksplenem wanem nao hem no save go. I no save helpem longwe mo i oftentaem i mekem hem moa sed.
 
-## Visit i bambae stap hao longfala?
+## Wan visit i mas longfala hao?
 
-Ol short visit we i kamaot oftaen usually i gud moa. Family Caregiver Alliance i talem se man o meri usually i no save se yu bin stap faev minit o faev aoa, mo i sujestem se tri sot visit long wan wik i ken gud moa long wan longfala visit. Dementia Australia i talem se i no gat wan stret namba blong visit o wan stret longfala.
+Ol sot visit mo ol regula visit i oftentaem moa gud. Family Caregiver Alliance i talem se man ya i yusually no rimembem se yu stap faev minit o faev aoa, mo i sujestem se tri sot visit long wan wik i save moa gud dan wan longfala visit. Dementia Australia i talem se i no gat wan rod namba blong visit o wan rod longfala.
 
-Long ol fes wiks afta we hem i muv long kea, Family Caregiver Alliance i sujestem blong go lukim oltaem, afta i slou slou settem wan regular pattern. Askem ol staf wanem oli luk.
+Long ol fes wiks afta man ya i muv i go long memory care, Family Caregiver Alliance i sujestem blong visit plante taem, bihaen i sensel long wan regula patem. Askem staff wanem nao oli lukim.
 
-## Hao mi lusim hem withaut blong hem i sore?
+## Hao mi lusim hem withaot mekem hem i sed?
 
-Lusim hem i ken i hadwok samting long visit. Dementia Australia i sujestem:
+Lusim i save i wan hadwan pat. Dementia Australia i sujestem:
 
-- **Tellem hao longfala yu save stap taem yu kamaot.** "Mi save stap wan aoa, afta mi mas go long maket."
-- **Yuseim wan aktiviti olsem wan natural end.** "Taem yumi finisim song ya, mi bambae lusim."
-- **Setem taem wetem wan kaikai o wan aktiviti,** o askem ol staf blong helpem hem blong settel long wan narafala samting.
-- **Mekem gudbae i sot mo i sem evri taem.** Stap longfala, sori, o stap "wan liten moa" i save mekem ol gudbae we bambae kam i hadwok moa.
+- **Talem hao longtaem yu save stap taem yu kam.** "Mi save stap wan aoa, afta mi mas go long maket."
+- **Yusum wan aktiviti olsem wan naoaot en.** "Taem yumi finisim sang ya, mi bambae mi go."
+- **Taemem wetem wan kaekae o aktiviti,** o askem staff blong helpem man ya blong sidaon long narafala samting.
+- **Mekem gudbae i sot mo i sem evri taem.** Lingering, sore, o stap "jas longfala lelebet" save mekem ol gudbae i kam moa hadwan.
 
-Afta yu lusim, i nomol blong fil sad. Letem yu restem. Sipos man o meri i kros o i sore, ol staf usually i save helpem hem blong kam kwaet kwik.
+Afta yu lusim, i nomol blong fil sed. Letem yu jas rest. Sipos man ya i sed, staff oftentaem save helpem hem blong kam kwaet sun afta.
 
-## Visit man o meri we i gat dementia long haspitol
+## Visitim wan man wetem dementia long hospitel
 
-Haspitol i no stap kwaet, i stap nyuspela, mo i gat ol strenja, mo hemia i save hadwok tumas long man o meri we i gat dementia. Gaed blong NIA long [karem man we i gat Alzheimer's i go long haspitol](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) i sujestem:
+Wan hospitel i nois, i no famliar mo i fulap long ol strenja, mo samting ya i save hadwan tumas long wan man wetem dementia. Gaed blong NIA abaot [tekem wan man wetem Alzheimer's i go long hospitel](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) i sujestem:
 
-- **Gat wan i stap wetem hem** as mo as i save: wan famili memba, wan frend we yu trastem o wan pempem we yu hiarem.
-- **Givim ol staf wan pej blong personal infomesen** wetem rutin blong hem, nem we hem i laekem, samting we hem i laek mo i no laek, ol samting we i save mekem hem i sore, mo ol saen blong pen we hem i no save tok. Putum kopi long rum mo long nors stesen.
-- **Helpem long kaikai mo dring.** Ol olfala man mo meri oli save gat fudfala i no stret long haspitol. Opem ol kantena, helpem long kaikai, kaikai togeta, mo ofarem dring.
-- **Karem ol komfot samting** olsem foto o ol spirituol samting.
-- **Mekem noes i daon.** Tanem off TV mo redusim vois blong fon mo intekom.
-- **Traem ol kalmfala ritual,** olsem miusik we i kalmem, ridim buk, prea, singsing, o lukluk long ol olfala foto.
-- **Givim hem sans blong muv** olsem we i sef, wetem apruvol blong ol staf.
-- **Tellem dokta kwiktaem sipos man o meri i luk olsem hem i wos o i stap defren.** NIA i eksplenem se sudden sivia konfiuzin, we i kolem delirium, i ken kamaot from ol problem olsem infeksen, hae tempretja, drai bodi, o saed efekt blong medisin, mo hemia i nidim medikol trietmen.
+- **Gat sam man i stap wetem man ya** olsem moa we i posibol: wan famle memba, wan trastem fren o wan man we oli peiem blong karem hem.
+- **Givim staff wan personal infomesen piis** wetem rutin blong man ya, nem we hem i laekem, samting we hem i laekem mo i no laekem, ol samting we save mekem hem i sed, mo ol saen blong pen we i no save toktok. Putum ol kopi long rum mo long nurse stesen.
+- **Helpem long kaekae mo dring.** Ol olfala oli save kamaot wiktaem long hospitel. Opnem ol kontena, helpem long ol kaekae, kaekae tugeta, mo ofarem ol dring.
+- **Karem ol kamfotebol samting** olsem ol foto o ol samting blong spirit.
+- **Redyusim nois.** Sátemaot TV mo redyusim vaulom blong fon mo intekom.
+- **Traem ol kuiet ritual,** olsem miusik we i sut, ridim, prea, singsing o lukluk long ol oldfala pija.
+- **Encourage blong muv aroun** olsem we i sef, wetem apruval blong staff.
+- **Talem doctor kwik sipos man ya i luk nogud o i defren nomoa.** NIA i eksplenem se sudden sevia konfiusen, we i kolem delirium, i save kamaot from ol problem olsem infeksen, fiva, dihaedreisen o saed ifekt blong medisin, mo hem i nid medikol tritmen.
 
-Wan short, kwaet visit wetem wan fes we yu save mo wan miusik we hem i laekem i ken i gat moa valiu long wan dei long haspitol.
+Wan sot, kuiet visit wetem wan famliar fes mo wan gudfala sang i save wan kaen moa komfotebol pat blong wan dei long hospitel.
 
-## Karem ol pikinini long visit
+## Tekem ol pikinini go long wan visit
 
-Ol pikinini oli save karem plante warmt. Prepaem olgeta blong tok long tingting we i stret mo i simpol, kipim visit i short, mo givim olgeta wan wok, olsem sowem wan pikja o givim wan foto. NIA i sujestem se ol pikinini mo ol man we oli gat Alzheimer's oli save enjoem ol simpol aktiviti togeta, olsem lukluk long wan foto album o harem miusik. Dementia Australia i sujestem blong karem wan liten bag blong ol swit samting o ol kwaet samting blong keepem ol yangfala pikinini i bisi.
+Ol pikinini i save karem plante waem. Prepem olgeta bifo, wetem ol simpol mo tru wod, kipem visit i sot, mo givim olgeta wan wok, olsem soem wan draeing o givim wan foto. NIA i sujestem se ol pikinini mo ol man wetem Alzheimer's i save enjoy ol simpol aktiviti tugeta, olsem lukluk long wan album blong foto o lesen long miusik. Dementia Australia i sujestem blong karem wan liklik beg blong ol swit samting o ol kuiet samting blong keepem ol yangfala pikinini i bisi.
 
-## Mekem gud long yu tu
+## Lukaotem yu tu
 
-Visit i ken i tyd mo i mekem yu fil hevi, espesol sipos hem i jenis planti. I oraet blong visit lis oftaen sipos yu nidim, blong karem wan frend blong sapotem yu, o blong lusim erli long wan hadfala dei. Blong ol tips long lukaotem yu wan, lukluk long [self-kea blong caregiver](/caregiving/caregiver-self-care/). Sipos yu stap longwe, lukluk long gaed blong yumi abaot [fon mo video kol](/activities/phone-and-video-calls/).
+Visit i save mekem yu taed mo i save kasem bigfala fílin, espesyal sipos man ya i jenis plante. I oraet blong visit smol moa, blong karem wan fren blong sapotem yu, o blong lusim erli long wan hadwan de. Long ol aedia blong lukaotem yu wan, lukluk long [self-care blong man we i kea](/caregiving/caregiver-self-care/). Sipos yu stap longwe, lukluk long gaed blong yumi abaot [fon mo vidio kol](/activities/phone-and-video-calls/).

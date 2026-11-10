@@ -1,34 +1,34 @@
 ---
-title: "Actividaz imprimibles gratis pa la demencia"
-seoTitle: "Actividaz imprimibles gratis pa la demencia: letra grande"
-description: "Actividaz imprimibles gratis pa la demencia: sopa de letras, colorir, cartas de conversación y bingo con dibujos, con consellos pa imprimir-las bien."
+title: "Actividaders imprimibles gratuitas pa la demencia"
+seoTitle: "Actividaders imprimibles pa la demencia: letra grande"
+description: "Actividaders imprimibles gratis pa la demencia: sopa de letras, dibuixos, tarchetas de conversa y bingo con imachens, y consellos pa imprimir-los bien."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments ofrix actividaz imprimibles gratis pa la demencia: una sopa de
-  letras en letra grande, paginas pa colorir, cartas con dibujos pa charrar y
-  cartones de bingo con dibujos. Abra cualsiquier pachina de juego y use el
-  botón Imprimir. Imprima en letra grande y clara, en papel grueso, deixe una
-  tarea por pachina y plastifique las que quiera reusar. Las fichas caseras
-  sinzillas, como una pachina de historia de vida o un horario del día, tamién
-  ayudan.
+  Golden Moments ofrix actividaders imprimibles gratuitas pa la demencia: una
+  sopa de letras en letra grande, dibuixos pa pintar, tarchetas de conversa con
+  imachens y cartons de bingo con imachens. Abra qualsevol pachina de chuego y
+  usa o botón de Imprimir. Imprima en letra grande y clara, en papel gordo, con
+  una tarea por pachina, y plastifique las pachinas que vuelga a usar. Las
+  pachinas caseras sinxelas, como una pachina de historia de vida o un horario
+  diario, tamién ayudan.
 keyPoints:
-  - "Las nuestras actividaz imprimibles son gratis: Sopa de letras, Colorir, Cartas de conversación y Bingo de dibujos. Cada pachina de juego tiene un botón Imprimir."
+  - "As nuestras actividaders imprimibles son gratuitas: Sopa de letras, Dibuixos, Tarchetas de conversa y Bingo con imachens. Cada pachina de chuego tiene un botón de Imprimir."
   - "Imprima en letra grande y clara, con bien de contraste, y deixe una tarea por pachina."
-  - "El papel grueso o la cartulina son más fáciles de sostener y más difícils d'arrugar. Plastifique las pachinas pa reusar-las con rotuladores de borrado en seco."
-  - "Las fichas caseras como una pachina de historia de vida, un horario del día o etiquetas con dibujos pa las puertas son sinzillas y útils."
-  - "Una pachina imprimida ye una invitación, no un deber. Fer-ne una parte, o no fer-ne nada, ye bien."
+  - "El papel gordo o cartulina ye más fácil de sostener y menos probable de arrugar-se. Plastifique las pachinas pa reusar-las con rotuladores de borrar en seco."
+  - "Las pachinas caseras, como una de historia de vida, un horario diario o etiquetas con imachens pa las puertas, son sinxelas y útiles."
+  - "Una pachina imprimida ye una invitación, no una tarea. Facer una parte, o no facer-ne cosa, ye bien."
 faq:
-  - q: "Son gratis las vuestras actividaz imprimibles pa la demencia?"
-    a: "Sí. La Sopa de letras, Colorir, las Cartas de conversación y el Bingo de dibujos d'esta web son gratis pa usar y imprimir. Abra la pachina de juego y use el botón Imprimir."
-  - q: "Qué actividaz imprimibles son las mejors pa la demencia?"
-    a: "Las mejors son sinzillas, claras y pa adultos: una sopa de letras en letra grande con as palabras solo en horizontal y vertical, pachinas pa colorir con contornos claros, cartas con dibujos que dan pie a charrar, y bingo con dibujos pa grupos. Adecue la actividat a los intereses y a las capacidaz actuals de la persona, y deixe una tarea por pachina."
-  - q: "Cómo fago as imprimibles más fáciles de ver y de usar?"
-    a: "Use letra grande y clara, tinta oscura en papel blanco o crema, y bella espacio. Imprima en papel grueso o cartulina pa que la pachina quede plana, escolla papel mate pa reducir los reflejos, y use una tablilla o una alfombrilla antideslizante pa que la pachina no se mueva. Plastificar ayuda a que duren más."
-  - q: "Puedo imprimir las nuestras actividaz pa una residencia o un centro de día?"
-    a: "Sí. El personal de animación puede imprimir las nuestras pachinas pa los residentes y los grupos. El Bingo de dibujos ye pensau pa grupos e incluye un locutor en pantalla que puede amostrar en una tele o un proyector."
+  - q: "¿Son gratuitas las vostras actividaders imprimibles pa la demencia?"
+    a: "Sí. As pachinas de Sopa de letras, Dibuixos, Tarchetas de conversa y Bingo con imachens d'este sitio son gratuitas pa usar-las y imprimir-las. Abra la pachina del chuego y use o botón de Imprimir."
+  - q: "Qué actividaders imprimibles son as mellors pa la demencia?"
+    a: "As mellors son sinxelas, claras y pa adultos: una sopa de letras en letra grande con as parolas solo en horizontal y en vertical, dibuixos con contornos claros, tarchetas con imachens que faigan empezar una conversa, y bingo con imachens pa grupos. Adapte la actividat a los intereses y a las capacidaus actuals de la persona, y deixe una tarea por pachina."
+  - q: "Cómo fago que las actividaders imprimibles sigan más fácils de ver y de usar?"
+    a: "Use letra grande y clara, tinta fosca en papel blanco o crema, y bien d'espacio. Imprima en papel gordo o cartulina pa que la pachina se quede plana, elixca papel mate pa reducir o reflexo, y use una tablilla o una estera antideslizant pa que la pachina no se mueva. Plastificar ayuda a que duren más."
+  - q: "Puedo imprimir las vostras actividaders pa una residencia o un centro de día?"
+    a: "Sí. O personal d'actividaders puede imprimir nuestras pachinas pa residents y grupos. O Bingo con imachens ye feito pa grupos e incluye un locutor en pantalla que puede amostrar-se en una tele o un proyector."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -53,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-A vegadas la millor actividat ye una fulla de papel y un lapiz en a mesa d'a cosina. Las imprimibles no necesitan carga, contraseñas ni pantalla, y son fáciles de levar a una visita o a un grupo. Esta pachina describe las actividaz imprimibles gratis de la nuestra web, cómo imprimir-las pa que se vean y se sostengan bien, y unas pocas imprimibles caseras sinzillas que las familias y el personal de animación consideran útils.
+A vegadas la millor actividat ye una fulla de papel y un lapiz en a mesa d'a cosina. As imprimibles no necesitan carga, contrasinyals ni pantalla, y son fácils de levar a una visita o a un grupo. Esta pachina describe as actividaders imprimibles gratuitas d'o nuestro sitio, cómo imprimir-las pa que se vean y se sostengan bien, y unas cuantas imprimibles caseras sinxelas que feban familias y personal d'actividaders.
 
-## Qué actividaz imprimibles gratis ofrez?
+## Qué actividaders imprimibles ofrixen?
 
-Ofrez-ne cuatro gratis. Abra cualsiquier d'estas pachinas de juego y use el botón **Imprimir** pa obtener una versión lista pa la impresora.
+Ofrixemos cuatro imprimibles gratuitas. Abra qualsevol d'estas pachinas de chuego y use o botón **Imprimir** pa obtener una versión lista pa imprimir.
 
-| Imprimible | Qué ye | Pa qué sirve |
+| Imprimible | Qué ye | Ideal pa |
 | --- | --- | --- |
-| [Sopa de letras](/games/word-search/) | Una sopa de letras en letra grande con as palabras solo en horizontal y vertical | Tiempo tranquilo con un lapiz; una persona a la que le gustaban los pasatiempos |
-| [Colorir](/games/coloring/) | Pachinas pa imprimir y colorir, o pa colorir en pantalla | Tiempo relaxato y creativo; cualsiquier etapa con ayuda |
-| [Cartas de conversación](/games/conversation-cards/) | Cartas con dibujos y preguntas abiertas, sin examen, por temas | Visitas, llamadas, comidas en familia, grupos de reminiscencia |
-| [Bingo de dibujos](/games/picture-bingo/) | Cartones de bingo con dibujos en cuenta de números, y un locutor en pantalla | Residencias, centros de día, reunions familiars |
+| [Sopa de letras](/games/word-search/) | Una sopa de letras en letra grande con as parolas solo en horizontal y en vertical | Tiempo tranquilo con un lapiz; a persona a la que le gustaban los puzzles |
+| [Dibuixos](/games/coloring/) | Dibuixos pa imprimir, o pa pintar en pantalla | Tiempo relaxato y creativo; en cualsevol etapa con ayuda |
+| [Tarchetas de conversa](/games/conversation-cards/) | Tarchetas con imachens y preguntas abiertas, sin examen, por temas | Visitas, llamadas, comidas en familia, grupos de reminiscencia |
+| [Bingo con imachens](/games/picture-bingo/) | Cartons de bingo con imachens en cuenta de numers, y un locutor en pantalla | Residencias, centros de día, reuniones familiars |
 
 ### Sopa de letras en letra grande
 
-La [Sopa de letras](/games/word-search/) usa letras grandes y deixa as palabras solo en horizontal y vertical, sin diagonals ni palabras al revés. Trabaixe-la chuntos: una persona lee una palabra d'a lista, la otra la busca. Si trobar as palabras se fa difícil, prebe a rodiar chuntos la primera letra de cada palabra, o simplament leer la lista en alto y charrar de cada palabra.
+A [Sopa de letras](/games/word-search/) usa letras grandes y deixa as parolas solo en horizontal y en vertical, sin diagonals ni parolas al revés. Trabaixe en ella chunto: una persona lee una parola d'a lista y l'atra la busca. Si trobar parolas se fa difícil, prebe a marcar chunto a primera letra de cada parola, o simplement leer a lista en voz alta y charrar de cada parola.
 
-### Pachinas pa colorir
+### Dibuixos pa pintar
 
-Las pachinas de [Colorir](/games/coloring/) se pueden imprimir pa colorir con rotuladores o lapizes de color, o colorir-las en una tableta tocando un color y luego una parte d'o dibuxo. Pa las pachinas imprimidas, ofrezca rotuladores gruesos y unos pocos colors cada vez. Vea a nuestra [guía de manualidaz](/activities/arts-and-crafts/) pa más maneras de fer que colorir siga adulto y relaxato.
+As pachinas de [Dibuixos](/games/coloring/) se pueden imprimir pa pintar con rotuladores o lapiz de colors, o pintar-las en una tableta tocando un color y luego una parte d'o dibuixo. Pa las pachinas imprimidas, ofrixca rotuladores gordos y unos pocos colors a la vegada. Vea a nuestra [guía de manualidaders](/activities/arts-and-crafts/) pa más maneras de fer que pintar siga adulto y relaxato.
 
-### Cartas de conversación
+### Tarchetas de conversa
 
-Las [Cartas de conversación](/games/conversation-cards/) unen un dibujo claro con una pregunta abierta, como "Cuenta-me sobre...", o "Qué ves?". Están escritas como invitacions abiertas, no como preguntas de examen. Imprima un juego, talle-las y guarde unas pocas en una bolsa pa las visitas o cerca d'o teléfono pa las llamadas. Tamién funcionan bien en grupos de [reminiscencia](/activities/reminiscence/).
+As [Tarchetas de conversa](/games/conversation-cards/) unen un imachen claro con una pregunta abierta, como «Cuénteme sobre...» o «Qué ve?». Están escritas como invitacions abiertas, no como preguntas de examen. Imprima un choc, retalle-las y guarde unas cuantas en una bolsa pa visitas, o cerca d'o teléfono pa llamadas. Tamién funcionan bien en grupos de [reminiscencia](/activities/reminiscence/).
 
-### Cartones de bingo con dibujos
+### Cartons de bingo con imachens
 
-Los cartones del [Bingo de dibujos](/games/picture-bingo/) usan dibujos en cuenta de números. Imprima un cartón por jugador y use el locutor en pantalla en un portátil, una tele o un proyector. Sucherimos cantar hasta que todos tengan lleno o cartón, pa que no quede nadie fuera. Vea [actividaz de grupo pa residencias](/activities/care-home-groups/) pa saber cómo llevar una sesión.
+Os cartons de [Bingo con imachens](/games/picture-bingo/) usan imachens en cuenta de numers. Imprima un carton por jugador y use o locutor en pantalla en un portátil, una tele o un proyector. Suxerimos seguir cantando hasta que o carton de todos estase plen, pa que nadie quede fuera. Vea [actividaders de grupo pa residencias](/activities/care-home-groups/) pa saber cómo facer una sesión.
 
-## Cómo imprimo las actividaz pa que sean fáciles de usar?
+## Cómo imprimo as actividaders pa que sigan fácils de usar?
 
-Os cambios pequeños al imprimir marcan una gran diferencia.
+Pequeños cambios en cómo imprime fan una gran diferencia.
 
-### Pa que se vea bien
+### Que sigan fácils de ver
 
-- **Letra grande y clara.** Use la configuración de letra más grande que quepa en la pachina. Evite tipos de letra con adornos o tipo cursiva.
-- **Bien de contraste.** Tinta oscura en papel blanco o crema. Evite fondos gris clar o de color.
-- **El papel mate** reduz los reflejos con luces fuertes.
-- **Revise las gafas y la luz.** La Alzheimer's Association indica que los problemas de vista y oyiu pueden dificultar la comunicación, y aconseya revisar-los con regularidat. Una lampara brillant y uniforme ayuda tamién.
+- **Letra grande y clara.** Use la mida más gran que siga cabiendo en a pachina. Evite as letras con adornos o tipo cursiva.
+- **Contraste fuerte.** Tinta fosca en papel blanco o crema. Evite fondos gris clar o de colors.
+- **Papel mate** reduce o reflexo baixo as luces fuertes.
+- **Revise as gafas y la iluminación.** La Alzheimer's Association indica que os problemas de vista y oyiu pueden fer más difícil la comunicación, y suxiere revisar-los regularmente. Una lampara clara y uniforme tamién ayuda.
 
-### Pa que se sostenga bien
+### Que sigan fácils de sostener
 
-- **El papel grueso o la cartulina** se queda plano, ye más fácil d'agarrar y aguanta un uso repetido.
-- **Una tablilla** o un salvamanteles antideslizante evita que la pachina se mueva.
-- **Rotuladores gruesos o lapizes gordos** son más fáciles d'agarrar que los bolígrafos finos.
+- **Papel gordo o cartulina** se queda plano, ye más fácil d'agarrar y aguanta un uso repetito.
+- **Una tablilla** o una estera antideslizant evita que la pachina se deslice.
+- **Rotuladores gordos o lapiz gruesos** son más fáciles d'agarrar que boligrafos finos.
 
-### Pa reusar-las
+### Que se puedan reusar
 
-- **Plastifique las pachinas** o métalas en fundas transparents. Use rotuladores de borrado en seco en las sopas de letras y los cartones de bingo, y después límpielos.
-- **Escolla fundas mates** si los reflejos son un problema, y **redondee las esquinas** de las cartas plastificadas con tisheras pa que sean cómodas de tocar.
-- **Guarde una carpeta** con las favoritas pa no imprimir a semana tras semana la misma pachina.
+- **Plastifique las pachinas** o métalas en fundas transparents. Use rotuladores de borrar en seco en sopas de letras y cartons de bingo, y limpie-las después.
+- **Elixca fundas mates** si o reflexo ye un problema, y **redondee as esquinas** d'as tarchetas plastificadas con tisoras pa que sean cómodas de tener.
+- **Guarde una carpeta** con as favoritas pa no imprimir a mesma pachina cada semana.
 
-### Mantenga-lo sinzillo
+### Que siga sinxelo
 
-- **Una tarea por pachina.** Una sopa de letras o un dibujo solo, no varias actividaz amontonadas.
-- **Bella espacio en blanco.** Una pachina plena pot abrumar.
-- **Sin instruccions que leer, cuando sigue posible.** Amostre a la persona qué hacer en cambio.
-- **Reduza las hojas.** Si una pachina completa ye mucho, talle-la a la mitat o plégala pa que solo se vea una parte.
+- **Una tarea por pachina.** Una sola sopa de letras o un solo imachen, no varias actividaders amontonadas.
+- **Bien d'espacio en blanco.** Una pachina plena puede rematar abrumando.
+- **Sin instrucciones que leer, siempre que se pueda.** Amuestre a la persona qué hacer en cuenta.
+- **Reduzca as fuellas.** Si una pachina completa ye masiado, dividala en dos o plégala pa que solo se vea una parte.
 
-## Otras imprimibles útils que puede fer en casa
+## Atras imprimibles útiles que puede faser en casa
 
-No toda imprimible útil ye un juego. Estas son fáciles de fer con un procesador de textos y una impresora.
+No toda imprimible útil ye un chuego. Estas son fáciles de faser con un procesador de textos y una impresora.
 
 ### Una pachina de historia de vida
 
-Una pachina de "sobre mí" con una foto, el nombre con que le gusta a la persona que la llamen, dónde se criló, su trabajo, la familia, las comidas favoritas, la musica y las cosas que la calman o la alteran. Dementia Australia suggiere un [libro de recuerdos](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) con detalles d'a vida, los gustos y las personas importants, pa ayudar a las visitas y a los cuidadores y pa dar pie a charrar.
+Una fulla de «sobre mí» con una foto, o nombre por o que le gusta a la persona que la chiamen, dónde se criló, o suyo trabayo, la familia, las comidas favoritas, a musica y las cosas que la confortan o la molestan. Dementia Australia suxiere un [libro de recuerdos](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) con detalles d'a vida, los gustos y las personas importants de la persona, pa ayudar a visitants y cuidadores y pa dar pie a una conversa.
 
-Ye especialment útil en hospitals y en sitios nuevos de cuidado. La NIA recomienda dar al personal d'o hospital una [fulla de información personal](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) con a rutina de la persona, el nombre con que prefiere que la llamen, los gustos y disgustos, los posibles desencadenantes y las señals no verbales de dolor.
+Ye especialmente útil en hospitals y en nuevos entornos de cuidado. A NIA recomienda dar al personal d'o hospital una [fulla de información personal](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) con a rutina de la persona, o nombre preferiu, los gustos y as aversions, posibles desencadenantes y señales no verbals de dolor.
 
-### Un horario del día
+### Un horario diario
 
-Un horario grande y sinzillo con as horas, unas pocas palabras y un dibujo pequeño pa cada parte: almuerzo, paseo, comida, descanso, musica, cena. El [plan de cuidado diario](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) de la Alzheimer's Association suggiere planificar alrededor d'os mejors momentos d'o día de la persona, con horas fixas pa levantar-se y acostar-se y un equilibrio entre actividat y descanso. Pónganlo a la altura d'os ojos, quizá en a nevera, y manténgalo flexible. Vea a nuestra [guía de rutina diaria](/activities/daily-routine/) pa más.
+Un horario grande y sinxelo d'o día con as hores, unas pocas parolas y un imachen pequeño pa cada parte: almorzar, pasear, comer, descansar, musica, cenar. A [guía de plan de cuidado diario](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) d'a Alzheimer's Association suxiere planificar en torno a los mellors momentos d'o día de la persona, con hores regulares de levantar-se y de dormir y un equilibrio entre actividat y descanso. Cuélguelo a la altura d'os güellos, por eixemplo en a nevera, y mantengalo flexible. Vea nuestra [guía de rutina diaria](/activities/daily-routine/) pa más.
 
-### Etiquetas con dibujos pa las habitacions y los cayons
+### Etiquetas con imachens pa las habitacions y los caixons
 
-La NIA suggiere usar letreros de colors vivos o dibujos sinzillos pa [etiquetar el baño, la habitación y la cosina](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). La misma idea funciona pa cayons y armarios: un dibujo de calcetins en o cayón d'os calcetins, tazas en o armario de las tazas. Imprima-las, plastifique-las y péguelas.
+A NIA suxiere usar letreros de colors vivos o imachens sinxelos pa [etiquetar o baño, o dormitorio y a cosina](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). La mesma idea funciona pa caixons y armaris: un imachen de calcetins en o caixón d'os calcetins, tazas en o armario de as tazas. Imprima, plastifique y plegue-las.
 
-### Un juego de clasificación
+### Un juego de clasificar
 
-Imprima dibujos de dos categorías sinzillas, como frutas y flors o herramientas y utensilios de cosina, en cartulina. Talle-los y clasifique-los chuntos en dos cestas. La versión en pantalla d'esto ye [Ordenar chuntos](/games/sort-together/).
+Imprima imachens de dos categorías sinxelas, como fruitas y flors, o herramientas y utensilios de cosina, en cartulina. Retalle-las y clasifíquelas en dos cestas chuntos. A version en pantalla d'esto ye [Clasificar chuntos](/games/sort-together/).
 
-### Fichas con letras de canzons
+### Fullas con as letras de canciones
 
-Imprima las letras de unas canzons favoritas en letra muy grande pa cantar. Incluso las personas que ya no leen mucho pueden disfrutar sostenindo la fulla.
+Imprima as parolas de unas cuantas canciones favoritas en letra muy grande pa cantar. Incluso as personas que ya no leen muito pueden disfrutar tenendo la fulla en as mans.
 
 ### Una pachina de fotos de familia
 
-Una sola pachina con cuatro a seis fotos grandes de familia, cada una con un nombre de pila debaixo. Puede estar en a mesa pa que cualsiquier persona la coja y charre sobre ella. Las etiquetas ayudan a las visitas y al personal a unir-se a la conversación, y nadie tiene que preguntar "Quién ye este?".
+Una sola pachina con cuatro a seis fotos grandes de familia, cada una con un nombre de pila debajo. Puede estar en a mesa pa que cualquiera la agarre y charre sobre ella. As etiquetas ayudan a visitants y personal a sumar-se a la conversa, y nadie tiene que preguntar «Quien ye este?».
 
-### Una tarchieta de receta
+### Una tarjeta de recepta
 
-Imprima una receta de familia en letra grande. Úsela pa cosinar chuntos, o simplament pa charrar de comidas d'o pasau.
+Imprima una recepta de familia favorita en letra grande. Úsela pa cocinar chuntos, o simplement pa charrar sobre comidas d'o pasau.
 
-## Cómo ofrezco una imprimible sin que parezca un deber?
+## Cómo ofrezco una imprimible sin que parezca una tarea?
 
-Preséntela como algo pa compartir, no como una prueba.
+Preséntela como algo pa compartir, no como un examen.
 
-- **Siéntese y empiece-la vusted mesmo.** "Estoy fendo esta sopa de letras. Quiere ayudar-me a trobar 'chardín'?"
-- **Trabaixen chuntos.** Turnen-se, o una persona trobe y l'otra rodie.
-- **Nunca diga si ye bien o mal.** La guía de la Alzheimer's Association sobre [actividaz en casa](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) aconseya fixar-se en o proceso, no en o resultau, y en disfrutar más que en lograr.
-- **Deixe pachinas a la vista.** La mesma guía suggiere poner álbums de recortes, álbums de fotos o revistas viellas en sitios de fácil acceso. Las cartas imprimidas y las pachinas de fotos pueden estar en una mesa auxiliar de la mesma manera.
-- **Pare cuando quiera.** Media pachina de colorir ye una buena tarde. Tamién lo ye guardar a pachina y tomar-se un té.
+- **Sientese y empiece-la uno mesmo.** «Yo estoy fasendo esta sopa de letras. Quiere ayudar-me a trobar "jardín"?»
+- **Trabaixen chuntos.** Turnense, o una persona trobe y l'atra marque.
+- **Nunca diga si ye bien o mal.** A guía de [actividaders en casa](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) d'a Alzheimer's Association aconseya centrar-se en o proceso, no en o resultau, y en disfrutar más que en lograr cosas.
+- **Deixe pachinas a mano.** a mesma guía suxiere poner álbums de recuerdos, álbums de fotos o revistas viellas en sitios fácils d'alcanzar. As tarchetas imprimidas y las pachinas de fotos pueden estar en una mesa auxiliar d'a mesma manera.
+- **Pare cuando quiera.** Media pachina de dibuixos ye una buena tarde. Tamién lo ye guardar a pachina y tomar-se un té.
 
-## Dónde trobar más
+## Ond'atrobar más
 
-Mire todos nuestros [juegos e imprimibles](/games/), o vea [actividaz pa cada etapa](/activities/ideas/) pa más ideas, con papel y sin él.
+Mire todos nuestros [chuegos e imprimibles](/games/), o vea [actividaders pa cada etapa](/activities/ideas/) pa más ideas, con papel y sin papel.

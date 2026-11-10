@@ -1,33 +1,33 @@
 ---
-title: "Hawlaha Dementia Ka Bilaaqa Dhalaa: Fikrado Ka Ummaanka Shaqada"
-seoTitle: "Hawlaha Dementia Ka Bilaaqa Dhalaa: Fikrado"
-description: "Hawlaha dementia ka bilaaqa dhalaa, marka calaamadaha bilaaqa 65 dhaqan: hawlaha ammaanka, dhaqan, muusika waqtigiisa, iyo caawimaad ka ayaanka iyo ilmaha weyn."
+title: "Dagal Kas Kalantoh Abnitte: Idaltuh Yan Marah Tellemo"
+seoTitle: "Dagal Kas Kalantoh Abnitte: Tellemooti"
+description: "65 liggidik afalat tambulle kas-mawqah abnitte: kobox, awqi, barteemi heertu, kaadu baqeltò kee abboddi xayloh qokol."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Dementia ka bilaaqa dhalaa wuxuu bilaabmaa ka hor 65 jir, inta badan markuu
-  nin shaqaynayo, gaadhiga wadanayo ama carruur koriyaysa. Hawlahooda iyo
-  saaxiibadooda ilaali, dhaqan u dooro oo ay ahaato mid kuwoodu, muusika iyo
-  sawirada waqtigoodii ka soo jeedaan, oo qorshaha iyagaa go'aamiya. Lammaanaha
-  iyo ilmaha weyn sidoo kale caawimaad ayay u baahan yihiin, Alzheimer's
-  Association kooxo ayay u qabta.
+  Dagal kas kalanto 65 liggida matakkinuk afal edde qimbisinta, usun amâ wakal
+  taamitan, gaari furan hinnay urru gulan wakti kaxxa marak takke. Kaxxa kobox
+  kee katayyo elle sugte gurral tabsa, usun kican awqi doorita, barteemi heertu
+  kee suwara qokoluh heya, kaadu madaara usun meelan gurral xabbacooba.
+  Baqeltò kee abboddi xaylo kaadu qokol faxxan, Alzheimer's Association ken
+  qokolut koboxxitte gaba kaaqisa.
 keyPoints:
-  - "Dementia ka bilaaqa dhalaa wuxuu bilaabmaa ka hor 65 jir. Dadka badan waxay dareemaan in da'doodu aan la waafaqin hawlaha la siiyo."
-  - "Dadka waxa u dooro go'aanka, laga bilaabo hawsha la isku dayo ilaa dhaqanka la qorsheeyo."
-  - "Muusika, sawirada iyo sheekooyinka 20-meeyadooda ilaa 50-meeyadooda badanaa way ka macno badan yihiin hawlaha dhalinta dambe."
-  - "Marka ay doonayaan firfircoon oo saaxiibo la wadaag, xawaaraha u habee halkii aad hawshii beddeli lahayd."
-  - "Dadka daryeelaya, gaar ahaan lammaanaha iyo ilmaha weyn, kooxaha caawimaadka ee ay wada leeyihiin way ka faa'iidaystaan."
+  - "Dagal kas kalanto 65 liggidik afalat qimbisinta. Mari teetik kobox kee abnitte sinni umrih caglisaanam faxan."
+  - "Dooriti meelat ku gabbataan num meelisa, kobox dooraamak qimbisaak awqi dooraanam fanah."
+  - "Heertu, suwara kee tareeka 20-50 liggidat sugteemik geyan meqe maqaane kaxxa marak dumaak aysuk tatanbule."
+  - "Usun faxan waqdi marâ luk gaba kalitina, kaadu abnitte baxisuk kal sahilti gurrat xabbacosa."
+  - "Qokol mari, xalay kee baqeltó, tirol yan marih koboxxik kaxxa qokol geyan."
 faq:
-  - q: "Waa maxay dementia ka bilaaqa dhalaa?"
-    a: "Waa dementia ka bilaabanta ka hor 65 jir. Alzheimer's Association waxay sheegtaa in Alzheimer's loo tiriyo bilaaqa dhalaa marka uu saameeyo qof ka yar 65 jir. Dementia ka bilaaqa dhalaa ma aha mid caadi ah marka loo barbardhigo kan dhalinta dambe, laakiin ma aha mid aan dhicin, waxayna inta badan ka duwan tahay sida qofku wax u dareemo: qofka waxa laga yaabaa in uu weli shaqeeyo, gaadhiga wado oo carruur koriyo."
-  - q: "Hawlaha noocee ayey ku habboon yihiin qofka dementia ka bilaaqa dhalaa qabo?"
-    a: "Hawlaha ku habboon nolosha qofka ee da'da weyn ayaa ugu wanaagsan: hawl uu jecel yahay, socod saaxiib la leh, shaqo ikhtiyaari ah, mashruuc cunto oo qoyska loo sameeyo, muusika waqtigiisa, ama safar meel uu ka jecel yahay. Isagu dooro, dhererka iyo dadka la socdaan ayaad u habeysaa, hawsha lafteeda ma beddelayso."
-  - q: "Meeyey lammaanaha ama ilmaha weyn caawimaad ka heli karaan?"
-    a: "Alzheimer's Association waxay bixisaa kooxo caawimaad oo bilaash ah oo daryeelayaasha, oo ay ku jiraan kooxo u daryeelaya qof qaba dementia ka bilaaqa dhalaa. Waxaad wacdaa helplinka 24/7 ee 800.272.3900 si aad wax uga weydiiso kooxaha iyo khayraadka. (Lambarkan waa lambarka Mareykanka; dalka aad joogto ku raadso websaydhka Association-ka.)"
-  - q: "Qofka dementia ka bilaaqa dhalaa qabo wuxuu weli sameyn karaa hawlaha uu ku farxo?"
-    a: "Haa, marka ay ammaan tahay oo uu doonayo. Hawlaha, bulshada diinta, jimicsiga iyo wakhtiga bulshada oo dhan waa qayb ka mid ah nolol buuxda. Goobta u habee, saaxiib la socod oo nasasho qorsheeyso, marka hawlu aanu wanaagsanayn joojiyo."
+  - q: "Dagal kas kalanto macaay?"
+    a: "Toh 65 liggida duugaanak afal edde qimbisinta kas kalanto kinni. Alzheimer's Association yessecceh innah, Alzheimer 65 liggidik guba tan numut yimblen waqdi qariiri kas-mawqa yikcin. Dagal kas kalanto wadir kas-mawqak daguk raaqik raqay, tuugubtu hinna; num amâ wakal taamita, gaari fura kaadu urru kulaah yanik gersi gurral gacta."
+  - q: "Dagal kas kalanto le numuh meqe abnitte mannaay?"
+    a: "Idaltu manoh caglitan abnitte kaxxa maqaane le: eedegiteenih yan kobox, kataysih luk gexan gexe, gacsar taama, buxah maaqo bicisaanam, barteemih heertu, hinnay kican baaxoh gexe. Doorit usun aboonay, abnitte baxisuk kal wakti digri kee sinnih luk gexan mara caglisa."
+  - q: "Baqeltó hinnay abboddi xabla mannik qokol geyaanam duddah?"
+    a: "Alzheimer's Association bilqaaxah yan qokol koboxxitte gaba kaaqisa, dagal kas kalanto le mara dacarsan marah tan koboxxitte kaxxa luk. 24/7 bilqâ bilbila 800.272.3900 fanah seecaay koboxxitte kee qokoli addat essaera."
+  - q: "Dagal kas kalanto le num kican abnitte abak raaqaam meqee?"
+    a: "Yeey, nagaynan yanik kaadu usun faxan tekkek meqe. Kobox, diin kee amol koboxxitte, xisne kee agabti kobox kaxxa manoh adda kinni. Araca meqe gurral caglisaay, kataysi sinniluk hayya, dafo bicisaay abnit kaah xannitam tekkek taagisa."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -46,45 +46,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Macluumaadka badan ee dementia waxay u malaynayaan in qofku yahay 70 ama 80 jir. Qof lagu ogaaday 40 ama 50 jir, sida uu maalinba u nolosho way ka duwan tahay. Waxa laga yaabaa in uu weli shaqo, deyn guri, carruur yar-yar ama waalid uu daryeelo yeesho. Hawlaha waa in ay tixgeliyaan nolosha da'da weyn. Casharradan waxa ka mid ah waxa is beddelaya, waxa la isku dayi karo, iyo meesha lammaanaha iyo ilmaha weyn caawimaad ka heli karaan.
+Maggo kas kalantoh xaqut tan xabara mari 70 hinnay 80 liggida le waqdi taaxige. 40 hinnay 50 liggidat a kas-mawqa yuble numuh, ayró-ayró mano baxsaluk gacta. Usun kaadu taama, mayso koboxxitte, buxal yan xabla hinnay dacarsan aytiitoonut gacenik gacan. Abnitte a idaltu mano caglisaanam faxximta. Ah a gide meqe baxaabaxsa, maca bicisaanam duudan, kaadu baqeltò kee abboddi xaylo mannik qokol geyan kaxxa luk tayyarse.
 
-## Waa maxay dementia ka bilaaqa dhalaa?
+## Dagal kas kalanto macaay?
 
-Dementia ka bilaaqa dhalaa waa dementia ka bilaabanta ka hor 65 jir, mararka qaarkood loo yaqaano younger-onset. [Blogga Alzheimer's Association](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) wuxuu sharraxayaa Alzheimer's inuu yahay bilaaqa dhalaa marka uu saameeyo qof ka yar 65 jir, wuxuuna sheegayaa in daryeelka qof da'da noocaas ah leh "leeyahay caqabado gaar ah." Calaamadaha waxa laga yaabaa in ay la mid yihiin kuwa dhalinta dambe, laakiin rajooyinka qofka, masuuliyadiisa iyo nolosha bulshada way ka duwan yihiin.
+Dagal kas kalanto 65 liggidik afalat qimbisinta kas kalanto kinni, kalah qariiri kas-mawqa ittaanam duddan. [Alzheimer's Association's blog](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) 65 liggidik gubat tan numut yimblen waqdi qariiri kas-mawqa axcuk yesseccenta, kaadu a qariir marak qokol baxsale xiqtó luk yamaateemih taafite. Astooti idaltu manô luk inkiimih raaqak raqay, usun heyaan doorit, kaxxa gabbatu kee marat yaceen mano inkiimih mananna.
 
-Waxa laga yaabaa in dadku sugaan dheer ka dib markay ogaadaan, sababtoo ah ma aha mid caadi ah, qoysasna waxa laga yaabaa in ay dareemaan in aanay wax la hadlin karin. Ogaanshaha in dad kale wax la mid ah soo maray ay badanaa nasasho keenaysaa.
+Toh dagaluk tatanbuleemik ugutak, mari addâ dacari geyaanam fanah derre wakti cabaanam duudan, buxâ mari yaaben num wayyaanam gacan. Gersi mari a gitah addat ken luk yaanim aaxigo kaxxa saami yacee.
 
-## Qofka waa inuu hawlaha ku sii jiraa
+## Idaltu mano abnittet diggisa
 
-Dadka qaba dementia ka bilaaqa dhalaa badanaa ma doonayaan in carruur loo eego. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) wuxuu talinayaa in hawlaha loo habeeyo wixii qofku weli samayn karo oo jecel yahay. Qof 50 jir ah, tusaale ahaan, waxa laga yaabaa:
+Dagal kas kalanto le idaltu urri innah ken abaanam makican. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) num abam duddaah kican abnittet caagid caglisaanam qokolta. 50 liggidat yan numuh, toh ah akkelem duuda:
 
-- **In uu hawl jecel yahay sii haysto,** sida shaqada alwaaxda, ciyaarta, kaararka, koox akhriska buugga ama koox heesta, isaga oo caawimaad yar ama kulan gaaban leh.
-- **In uu socdo ama baaskiil wado saaxiib la socda,** jid uu si fiican u yaqaan.
-- **In uu cunto qoys sameeyo,** qayb kasta oo uu karo qabanaysa.
-- **In uu iska kaashado ama caawiyo** door uu doorto, sida kala saarista deeqaha ama caawinta munaasabad dugsi.
-- **In uu safar qorsheeyo** meel muhiim u ah isaga, isaga oo saaxiib la socda oo jadwal fudud leh.
-- **In uu waqti la qaato adeerradiisa, walaalihiisa ama ilmaha walaalihiisa,** isaga oo ciyaar ama mashruuc wada leh.
+- **Eedegiteenih yan kobox tabsa,** muka abto, isporti, karti, kitaab kobox hinnay heertu, dagoo qokoluh hinnay xabik yan waktit.
+- **Kataysih luk ibaah hinnay baiskiilit gexa,** meqe gurral yaaxigen gitah amol.
+- **Buxah maaqo bicisa,** ku gabbataan num dudda gaba edde haak.
+- **Sinnih dooran taamat gacsaraaba hinnay qokola,** koboxxa cato hinnay madrasah koboxut qokol haanam innah.
+- **Kican aracak gexe meelisa,** kataysih luk kaadu sahilti madaarat.
+- **Mingooma, kican urrih luk wakti dabsa,** agabuut hinnay taamat sinniluk gaba haak.
 
-Qofka u dooro. Su'aalaha "Waa maxay waxa aad jeceshahay inaad maanta galabta samayso?" ayaa ka ixtiraam badan intaad isaga u dooratid.
+Num doorit usun aboonay. "A carra maca abtam kicintaa?" axcuk essero ken doorit meelat kaxxa qadala le.
 
-## Muusika iyo xusuusta waqtigiisa ka soo jeeda
+## Ken liggiddik heertu kee suwara heya
 
-Muusika iyo sawirada 20-meeyadooda, 30-meeyadooda iyo 40-meeyadooda ayaa dareen diiran iyo hadal fudud soo celin kara. [Hawlaha muusikada](/activities/music/) casharkeenu wuxuu sharraxayaa sida liiska heesaha loo sameeyo, [hawlaha xusuusta](/activities/reminiscence/) waxay tusayaan sida sawirada iyo sheekooyinka loo wadaago iyada oo aan su'aalo lagu tijaabinayn. Ciyaar da'da weyn ku habboon, isku day [kaararka wadahadalka](/games/conversation-cards/), oo leh su'aalo furan oo ku saabsan shaqada, safarka, saaxiibada iyo qoyska.
+20, 30 kee 40 liggidat sugen heertu kee suwara ruffe kobox kee sahil yaaba baahaanaah duddan. Ni [heertu abnitte](/activities/music/) heertu bicisan gurra tayyarse, kaadu [dumi suwara kee kobox abnitte](/activities/reminiscence/) suwara kee tareek esserok kal tunkuddubbiyen gurra tascabbate. Idaltuh yan agabuutuk, [yaab kaarditte](/games/conversation-cards/) xabbacooba, taama, gexe, kataysis kee buxâ xalot fakan yaab leeh.
 
-Lammaanaha sawirada qoyska ka samaysan ayaa sidoo kale wanaagsan karta, sababtoo ah sawirada waa dad iyo meelo muhiim u ah qofka. [Lammaanaha sawirada](/games/photo-pairs/) wuxuu sawirada ku hayaa browserka qalabkaas oo keliya.
+Buxah suwarak bicsen suwar-namam kaadu meqe gurral taamita, suwara numuk kaxxa kican mara kee aracat gactaamih taagah. [Suwar-namam](/games/photo-pairs/) a suwara sinni daqabih braawzer addal kalta.
 
-## Shaqada, gaadiid wadista iyo nolosha maalinlaha ah
+## Taama, gaari fura kee ayró-ayró mano
 
-Dad badan oo qaba dementia ka bilaaqa dhalaa weli way shaqeeyaan, gaadhiga way wadaan ama lacagta way maamulaan. Kuwani ma aha hawlo caadi ah, laakiin waxay qaabeeyaan waxa qofku samayn karo. La hadal dhakhtarkiisa gaadiid wadista iyo badbaadada shaqada, oo ka fiirso in uu doonayo caawimaad maaliyadda ama ballamada. Ujeedadu waa in ixtiraamka la ilaaliyo, qofkuna uu ka qayb galo sida uu doonayo.
+Dagal kas kalanto le mangi mari taamitan, gaari furan hinnay lakqo dacarsan. Ah tamaxxeenimih abnitte hinnay, num dudda gaba tascabbate. Hakimih luk gaari fura kee taamâ nagaynan yaaba, kaadu lakqo hinnay wakti meelat qokol faxaanaam caggoda. Ugtó qadala dacrisak num faxa gurral addat gaba haanam kinni.
 
-Habka maalinlaha ah iyo firfircoonida, eeg [habka maalinlaha ah ee tartiibta](/activities/daily-routine/) iyo [shaqada guriga oo hawl ah](/activities/household-tasks/).
+Ayró-ayró madaara kee mano koboxxih taagah, [saalisi ayró-ayró madaara](/activities/daily-routine/) kee [buxâ taamoomi abnitteh innah](/activities/household-tasks/) wagit.
 
-## Caawimaadka lammaanaha iyo ilmaha weyn
+## Baqeltó kee abboddi xayloh qokol
 
-Lammaanaha iyo ilmaha weyn badanaa way go'doomaan. Daryeelku waxa laga yaabaa in uu la mid yahay shaqo labaad oo ku dheganta shaqada iyo qoyska. Blogga Alzheimer's Association wuxuu sheegayaa in daryeelayaasha kooxaha dementia ka bilaaqa dhalaa ay kooxahaas ku caawiyeen arrimaha caadiga ah sida qorshaha sharciga, iyo sidoo kale dareenka in qof fahmay. Wuxuu kaloo sheegayaa in Association-ku kooxo caawimaad oo bilaash ah u leeyahay daryeelayaasha, oo ay ku jiraan kooxo u daryeelaya qof qaba dementia ka bilaaqa dhalaa, saddex kooxood oo ka mid ah inta badan ku kulmaan internetka Talaadada iyo Arbacada.
+Baqeltó kee abboddi xaylo xayi kalanto geyaanam duudan. Qokol abto taama kee buxah amol nammeyhaytô taamah cakkuma. Alzheimer's Association bloog afeedenta qokol mari qariir koboxxitte meqe qokol geyaanam yuble, qadaalat bicto kee marat garami axcuk. Kaadu Association bilqaaxah tan qokol koboxxitte gaba kaaqisaam tayyarse, dagal kas kalanto dacarsan marah tan koboxxitte luk, teetik sidiica intarnet amol Talaasa kee Arbaqa koboxxitan.
 
-Si aad wax uga weydiiso kooxaha, wac helplinka 24/7 ee Association-ka 800.272.3900. (Lambarkan waa lambarka Mareykanka; dalka aad joogto ku raadso websaydhka Association-ka.) [Casharka daryeelka naftaada](/caregiving/caregiver-self-care/) wuxuu daboolayaa nasashada, kaalmada ku meel gaadhka iyo calaamadaha daalka.
+Koboxxittet essero hayyaanam faxan tekkek, Association 24/7 bilqâ bilbila 800.272.3900 fanah seeca. Ni [dacarsituh isi dacarsiyyah gide](/caregiving/caregiver-self-care/) dafo, gariida kee daqar astootit yaaba.
 
-## Marka dhaqanka ayaa weli muhiim ah
+## Daddos daqor kaxxa xiqto le
 
-Heerka dementia ee qofku wuu weli qaabeeyaa waxa caawiya. Marka hore, dadka badan hawlahooda caadiga ah way samayn karaan iyagoo wax yar beddelaya, casharkeenna [hawlaha marxaladda hore](/activities/early-stage/) fikrado dheeraad ah ayuu leeyahay. Marka dambe, hawlaha way fududaanayaan oo dareemaan badanaa, sida lagu sharraxay [hawlaha marxaladda dambe](/activities/late-stage/). Hawlaha u beddel sida qofku u beddelo, oo mar kasta oo uu wax sheegi karo, weydii waxa uu doonayo.
+Num le kas-mawqah daddos daqor qokol madaarisa. Qimbisiyyat, mangi mari sinni abnitte dumi gurral dagoo baxaabaxsah abaanam duudan, ni [dagal daqorih abnitte](/activities/early-stage/) mangi tellemooti luk tan. Wadirat, abnitte sahil kee aagortih gacta, [wadir daqorih abnitte](/activities/late-stage/) tayyarsiyyah innah. Num baxaabaxsam gactam innah abnitte baxsa, usun yaabaanam duddan waqdi maca faxan essera.

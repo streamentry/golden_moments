@@ -1,28 +1,33 @@
 ---
-title: "Dementia ɲɔgɔn ɲɛnamaɲɛw: Sooba ni dɔnkilidaw kɔrɔ"
-seoTitle: "Dementia ɲɔgɔn ɲɛnamaɲɛw: Bingo, dɔnkili, kuma"
-description: "Dementia ɲɛmɔgɔw ka ɲɛnamaɲɛ ɲɔgɔn: fɔtɔ bingo, dɔnkili ni kuma ɲɛnɛmaw, sigili ni ɲɔgɔn ka hakɛ."
+title: "Dimansi kɛlɛ-kɛlɛw: Sigiyɔrɔ ni kalan-sigi ladilikanw"
+seoTitle: "Dimansi kɛlɛ-kɛlɛw: Bingo, dɔnkili, kumaw"
+description: "Dimansi cɛ ka sigiyɔrɔw, dɔgɔtaɲɔgɔnw ni dimansi bolo ladiliyɔrɔw la: foto bingo, dɔnkili ni ka lakika ɲuman, sigi ni mɔgɔ ɲɛmɔgɔw ka sanji."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ɲɛnamaɲɛ ɲɔgɔn ɲɛnɛmaw dementia ka so ni sooba ɲɛnɛmaw la, u bɛ kɛ gɛlɛya tɛ, u bɛ kɛ dɔnkili ye, u bɛ se ka don ɲɔgɔn ni kuntigiya ɲɔgɔn fɛ: fɔtɔ bingo, dɔnkili, kumaw ni nɔ kɛwale fitinin. Ɲɔgɔn bɛ kɛ dɔgɔ ni se bɛ kɛ, sigi mɔgɔw ka ɲɛ ni ka tulo ye ko u bɛ ɲɛnɛma ni u bɛ kuma, kɛ tɔɲɔ kelen kɔ ka ɲɛfɛ, k'a sɔrɔ dɔ bɛ sɔrɔ mɔgɔ min bɛ se ka dɔ kɛ ka dɔgɔya, o ka kɔrɔ ka ɲɔgɔn ni sɔrɔ ka bɔ ka taa.
+  Dimansi cɛ ka sigiyɔrɔw ni dimansi bolo ladiliyɔrɔw la, kɛlɛ-kɛlɛ ɲuman bɛ
+  gɛlɛn tuma dɔw la, bɛ kɛ ko dɔ dɔ ye min bɛ dɔn, ani min bɛ se ka don ni
+  mɔgɔ bɛɛ ye ka dɔ kɛ: foto bingo, dɔnkili, lakika ɲuman ni ka kɛlɛ-kɛlɛ
+  dɔ tuma. Sigi mɔgɔ dɔgɔ yɛrɛ sɔrɔ, sigi ka kɛ o ye, ka sɔrɔ mɔgɔ bɛɛ bɛ
+  ye ni ɲɛ ni tulo ye. Kɛlɛ kɔnɔ ka kɛ ko kelen-kelen ye, ani mɔgɔ min bɛ
+  sɔn ka ɲɛnɛ ka taa, o ka sigiyɔrɔ ka kɛ dɔgɔ ye.
 keyPoints:
-  - "Ɲɔgɔn dɔgɔ bɛ ɲɛ ka ɲɔgɔn ka ɲɛnamaɲɛ ka bon, ani u bɛ ɲɔgɔn dɛsɛ ka kɛ mɔgɔ ka ɲɛnamaɲɛ la, o tɛ ko ka ɲɛ ɲɔgɔn ɲɛ kɔnɔ."
-  - "Mɔgɔw sigi ka kɛ tulo walima sɛn fɛ, ka sigi kalanden ni ka ɲɛnamaɲɛ fɛnɛn ɲɔgɔn ɲɛ, ka mɔgɔw ka ɲɛ ni ka tulo kɛnɛya hakɛ, ani ka kɔnɔ ka tɛ ɲɛnamaɲɛ dɔ kɛ."
-  - "Ɲɛnamaɲɛ kelen kɔ ka kɛ sɛbɛnnen ni sɔrɔ ka kɛ ɲɛnamaɲɛ kɔrɔ, k'a sɔrɔ mɔgɔw ka dɔnkili ka tɛ kɛ kelen ye, u bɛ se ka don ɲɛnamaɲɛ la."
-  - "Ka ɲɔgɔn ka kɛ dɔnkili, ka mɔgɔw bɛn walima ka sɔrɔ ka kɛ bɔnɛ, o ka kɔrɔ. Fɔtɔ bingo bɛ se ka kɛ ka mɔgɔ bɛɛ ka kaarti bɛ kɛ fɛ."
-  - "Ka sigi ka bɔ, ka ɲɛ ɲɛ, walima ka fanga tigi, o tɛ dɔ ye. Mɔgɔ min bɛ fɛ ka sigi dugu ɲɔgɔn kɔnɔ, o ka dɛmɛ bɛ kɛ ɲɔgɔn sɔrɔ."
+  - "Mɔgɔ dɔgɔw ka sigiyɔrɔ bɛ kɛ ɲuman ko dɔ ka bon kosɛbɛ, ani o bɛ mɔgɔ caman lakana kɛlɛ la, kɔ ka ɲɛnɛ kɔnɔ."
+  - "Sigi ka kɛ tiɲɛ walima ɲɛ-tiɲɛ ye, kɔrɔ ka dɔn, ka sigi ka ɲɛ ni tulo sɔnnen ye, ani ka sɔngɔ tigɛ."
+  - "Kɛlɛ kelen bɛɛ ka kɛ ɲɛnamaw ka sɔrɔ-sɔrɔ ye ka sɔrɔ mɔgɔ bɛɛ bɛ se ka kɛlɛ la."
+  - "Ka ɲɛnɛ ka mɔgɔ sɔrɔ-sɔrɔ ni ka fɛn kɛ kɛlɛ la, ka bɛ mɔgɔ dɔ fɛ. Foto bingo bɛ se ka kɛ ka mɔgɔ bɛɛ karatɔ bɛ fɛ."
+  - "Mɔgɔ bɛ ben walima bɛ sɔn, o ka ɲɛ. Sigi kɛlɛ bolo be sɔrɔ ka mɔgɔ min bɛ ko cɛmancɛ fɛ, ka dɛmɛ."
 faq:
-  - q: "Dementia ɲɛnamaɲɛ ka ɲɔgɔn ka hakɛ ye joona ye?"
-    a: "Hakɛ kelen tɛ, a bɛ kɛ mɔgɔw, so ka nɛgɛ ni dɛmɛbaga joona ɲɛ ye. Ɲɔgɔn dɔgɔ bɛ kɛ ɲɛnamaɲɛ min mɔgɔ bɛɛ bɛ ɲɛ ni tulo ni ɲɛnamaɲɛ la, sɔrɔ so ka nɛgɛ kɔnɔ ɲɛnamaɲɛ ka kɔrɔ, mɔgɔw bɛ sigi ka ɲɛnamaɲɛ ka kɛ ɲɛnamaɲɛ kɔrɔ. Ni i bɛ ɲɛnamaɲɛ nɛgɛ kɛ, i ka dɛmɛbagaw walima dɛmɛbaga ɲɔgɔn ka kɛ mɔgɔ kɔnɔ, u ka kɛ mɔgɔ fila walima kelen ka dɛmɛ."
-  - q: "Ni mɔgɔw ka ɲɛnamaɲɛ tɛ kelen ye, ka ɲɛnamaɲɛ ɲɔgɔn ka kɛ cogo di?"
-    a: "Ka sira caman kɛ ɲɛnamaɲɛ kelen kɔ la. Dɔnkili la, mɔgɔ dɔw bɛ kuma bɛɛ, dɔw bɛ kɔsɔn walima bɛ dɔ, dɔw bɛ fɛn kɔnɔ min bɛ se ka jɔ. Fɔtɔ bingo la, mɔgɔ dɔw bɛ u yɛrɛ ka fɔtɔw sɔrɔ, dɔw ka dɛmɛbaga bɛ fɔtɔ ɲɛ u ka. Mɔgɔ min bɛ dɛmɛ caman fɛ, o sigi dɛmɛbaga walima dɛmɛbaga ɲɛ."
-  - q: "Ni ka fɔtɔ bingo kɛ, ka o kɛ ka kɛlɛ ɲɛ tɛ, cogo di?"
-    a: "Fɔtɔ bɛɛ ka kan ka wele kɔsɔn ni ka kaarti bɛɛ ka fa, ka mɔgɔ kelen fana ka tɛ ka kɔrɔ. Fɔtɔ kelen-kelen ka kan ka kuma ka fɔ, ka sɔrɔ sariya tɛ wulu walima nɔfɛn, u bɛɛ ka kɛ ɲɔgɔn ye. Kɔnɔ bɛ kɛ ka ɲɛnamaɲɛ ka fɛɛrɛ, mɔgɔ bɛɛ ka ɲɛnamaɲɛ, ani kɛlɛ tɛ kɛ."
-  - q: "Ni ɲɔgɔn bɛ kɛ ka ɲɛnamaɲɛ kɛ kɛnɛ ka kɔnɔ ka ɲɛ, Golden Moments ka ɲɛnamaɲɛw bɛ se ka kɛ ka ɲɛnamaɲɛ?"
-    a: "Ɔ, an ka ɲɛnamaɲɛw bɛ taa web kɔnɔ, o de kama i bɛ u kɛ ordinatɛri walima tablet kɔnɔ min bɛ TV walima projecteur ka fɛ. Fɔtɔ bingo bɛ kaarti min bɛ se ka fa ni wele min bɛ kɛ ɲɛ kɔnɔ. Dɔnkili « Kuma tɔ » ani « Fɔtɔ nɔɔnɔ » fana bɛ kɛ ɲɛ kɔnɔ kɛnɛ ka kɔrɔ, mɔgɔ kelen bɛ fɛn tɔ ɲɔgɔn ka kɛ."
+  - q: "Dimansi kɛlɛ-kɛlɛ ka mɔgɔ joona ye jɔn ye?"
+    a: "Joona kelen tɛ yen, a bɛ kɔrɔ ni mɔgɔ minnu bɛ sigiyɔrɔ la, ni so ni ka ɲɛmɔgɔ joona bɛ min bolo. Ka mɔgɔ dɔgɔw sigi, o bɛ mɔgɔ bɛɛ ka se ka ɲɛ ni tulo ye ka kɛlɛ la. So bɔnɔ kɛlɛ bɛ mɔgɔ caman bɔ ka ɲɛnɛ kɛ kelen-kelen ye. Ni i bɛ kɛlɛ bɔnɔ kɛ, ɲɛmɔgɔw walima dɛmɛnɛmɔgɔw bɛ se ka sigi mɔgɔ dɔ walima fila kɛɲɛ ka dɛmɛ."
+  - q: "Mɔgɔ minnu bɛ se ka caman walima dɔgɔ ka kɛlɛ, o ka kɛlɛ ka kɛ cogo di?"
+    a: "Kɛlɛ kelen bɛɛ ka kɛ ko caman ye min mɔgɔ bɛɛ bɛ se ka don ni. Dɔnkili la, mɔgɔ dɔw bɛ kuma bɛɛ dɔn, dɔw bɛ hɔrɔnw walima bɛ ka ɲɔnɔn, dɔw bɛ shakerɛ (ɲɛminɛbɔ fɛn) ta. Foto bingo la, mɔgɔ dɔw bɛ foto yɛrɛ sɔrɔ, dɔw ye dɛmɛnɛmɔgɔ bɛ foto yɔrɔ jira. Mɔgɔ minnu bɛ dɛmɛ caman bɛ mago, o sigi ɲɛmɔgɔ walima dɛmɛnɛmɔgɔ dɔ kɛɲɛ."
+  - q: "Ni i bɛ foto bingo kɛ tɛ ka ɲɛnaman kɛ, cogo di?"
+    a: "Foto bɛɛ wele ka se ka karati bɛɛ fa, o ka mɔgɔ si tɛ to yɔrɔ dɔ. Foto kelen-kelen ka kuma ka kɔnɔ, ani sara la ka ɲɛnaman tigɛ, walasa ni mɔgɔ bɛɛ ka dɔ ka sɔrɔ. Ni kɛnɛmanw bɛ sɔrɔ, o ye gɛlɛya tɛ; mɔgɔ bɛɛ ka nɔgɔ kelen kɛ. Kuma ye kɛlɛ ka sɛbɛn ye, a tɛ ko min bɛ ɲɛnɛ fɔ."
+  - q: "Ni i bɛ kɛlɛ-kɛlɛ maw ta, jɛ ka ɲɛfɛ bɛ fɛn kɛ?"
+    a: "Ɔɔn. An ka kɛlɛ-kɛlɛw bɛ kɛ web browser (internet browser) kɔnɔ, o de kama i bɛ se ka o fɛn kɛ laptop walima tablet kɔnɔ min bɛ TV walima projector ni ɲɛ. Foto Bingo bɛ karati bɛ kɛ ni foto wele ye ekran kɔnɔ. Finish the Saying ani Picture Pairs bɛ se ka kɛ ekran bonya kɔnɔ, mɔgɔ kelen bɛ mɔgɔ bɛɛ fɛ ka dɔ tiɲɛ."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -47,134 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-Ɲɛnɛmaɲɛ kɔrɔ nin ye sɔrɔ ka kɛ ɲɛnamaɲɛ ka kuntigiw, dementia ka so ni sooba ka ɲɛnamaɲɛ ka kuntigiw ye. A bɛ ɲɛnamaɲɛ ka fɛnw kɔrɔ min bɛ kɛ, sigili ka kɔrɔ, mɔgɔ kelen-kelen ka dɔnkili kɔrɔ ɲɛnamaɲɛ kelen kɔ la, ani an ka fɔtɔ bingo ni an ka ɲɛ ɲɛnamaɲɛw ka kɛli. Nin bɛɛ sɔrɔ ka nɔgɔya ni ka hɛrɛ ni ka sugandili ye. Nin tɛ kɛlɛ ye.
+Lakanabaga in ye dimansi sigiyɔrɔ kɛlɛbaaw, dimansi cɛ ka sigiyɔrɔ ni dimansi ladiliyɔrɔ laadilikalaw ye. A bɛ kɛlɛ-kɛlɛ jɛnsɛnnenw, sigiyɔrɔ kɛcogo, mɔgɔ caman ka ladilikan kɛlɛ kelen na, ani an ka foto bingo kɔpɔrɔ ni ekran kɔnɔ kɛlɛw kɛcogo ko. Nin bɛɛ bɛ kɛ ko ka ɲɛnaman, ka ɲɛnɛ ni ka sɔrɔ-sɔrɔ ye. Nin tɛ dɔ ka kɛlɛ ye.
 
-## Mun bɛ ɲɛnamaɲɛ ɲɔgɔn kɛ ɲɛnamaɲɛ ye dementia kɔnɔ?
+## Kɛlɛ-kɛlɛ jɛnsɛnnen mun bɛ kɛ dimansi sigiyɔrɔ la?
 
-Ɲɛnamaɲɛ ɲɔgɔn bɛ kɛ ka ɲɛnamaɲɛ ye min bɛ kɛ ka dɔnna, ka gɛlɛya tɛ, ani mɔgɔ bɛɛ bɛ se ka don a la. Alzheimer's Association ka [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ka ɲɛnamaɲɛ min bɛ lakɔlɔsi, o ye ko ɲɛnamaɲɛ ka nɔgɔya bɛ mɔgɔ ka dɔnkilidaw ni ka fɛn min bɛ a ka ɲɛ, ani a bɛ sigasiga ni ɲɛsin kɛ, dementia ka sɛnɛfɛn kɔnɔ fana. Nin lakɔlɔsi kɔnɔ fana, a ye jira ko ɲɛnamaɲɛ caman bɛ kɛ kuma sɔrɔ, mɔgɔ bɛ ɲɛnamaɲɛ ɲɔgɔn ka ɲɛnamaɲɛ kɛ, k'a sɔrɔ ɲɛnamaɲɛ ka dɔ tɛ ka kɛ.
+Kɛlɛ-kɛlɛ jɛnsɛnnen bɛ kɛ dɔ min bɛ dɔn, min bɛ gɛlɛn tuma dɔgɔ la, min bɛ se ka don ni mɔgɔ bɛɛ ye ka kɛ ni ka ɲɛnɛ ye, ani min tɛ mɔgɔ sɛgɛn. Alzheimer's Association ka [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) fɔra ko kɛlɛ-kɛlɛ min bɛ mɔgɔ ka ɲɛnɛ ni ka sɔrɔ-sɔrɔ ni ka sugandi dɔ kɛ, o ye ɲɛ ye, hali ni dimansi ka gɛlɛya ka bon. A bɛ fɔ fana ko kɛlɛ-kɛlɛ ka ca sɔrɔ, sigiyɔrɔ kelen tuma dɔ kɔnɔ, mɔgɔ minnu bɛ ɲɛnɛ fɛ dɔrɔn.
 
-O bɛ kɛ ka sira dɔw ye:
+O bɛ kɛ ko kɛnɛmanw nin ye:
 
-- **Dɔnnen bɛ ka kɛ kɔrɔ ka kɛ kura ye.** Dɔnkilidaw, kumaw, fɔtɔw ni fɛnw min bɛ kɛ mɔgɔw ka kabakurataw la, u bɛ se ka don a la ka tɛ gɛlɛn.
-- **Gɛlɛn tɛ ka kɛ kɛlɛ ye.** Ka ɲɛnamaɲɛ ka waati ka kɛ i ka mɔgɔw ka ɲɛnamaɲɛ ka waati ye, ka ɲɛnamaɲɛ kɔnɔ ka sɛnɛ kelen ka bɔ.
-- **Kɛ ka kɛ kɔrɔ ka ɲɛ ka kɛ kɔrɔ.** Ka kɛ fɛn ye min mɔgɔ bɛ se ka lɔ, ka tɔ, ka sugandi walima ka fɔ.
-- **Ɲɛnamaɲɛ kelen, sira caman.** Ka sira caman kɛ ka mɔgɔ bɛɛ bɛ se ka don.
-- **Ko tɛ sɔrɔ, ka dɔgɔya tɛ.** Ɲɛnamaɲɛ min bɛ kɛ ka mɔgɔ dɔw bɛ mɛn ka ɲɛnamaɲɛ kɔnɔ.
+- **Min bɛ dɔn, o ka bon ka tɛmɛ min tɛ dɔn kan.** Dɔnkili, kuma, foto ani fɛnw minnu bɛ mɔgɔw ka ɲɔgɔn waatiw ta, olu ka sɔrɔ-sɔrɔ ka bon.
+- **Gɛlɛn tuma dɔgɔ ka bon ka tɛmɛ gɛlɛn tuma ka bon.** Sigi mɔgɔw ka ɲɛnɛ waati kɔrɔ ka kɛ, ani ka tɛmɛ ka bɔ ni ɲɛnɛ sigilen ye.
+- **Kɛ ka tɛmɛ ka ɲɛnɛ.** Mɔgɔ kelen-kelen ka fɛn dɔ ta ka kɛ, ka ɲɛ, ka sugandi walima ka kuma.
+- **Kɛlɛ kelen, sigiyɔrɔ caman.** Sigi dɔgɔ ni sigi caman ka kɛlɛ ɲuman dɔ sigi.
+- **Dɔ ka ɲɛmɔgɔ tɛ, dɔ ka lakika tɛ.** Kɛlɛ min bɛ mɔgɔ ka ɲɛnɛ, o bɛ mɔgɔ dɔw ka hakili gɛlɛya.
 
-## Mun bɛ ɲɛnamaɲɛ dɔgɔ ye?
+## Sigiyɔrɔ ka ka ɲɛ joona cogo di?
 
-Dɔgɔ bɛ ka ɲɛ. Alzheimer's Association ka ko, mɔgɔ min bɛ mɛn ka dɔ caman ye, o bɛ se ka ɲɛnamaɲɛ kɛ ka ɲɛnamaɲɛ dɔgɔ kɔnɔ. Hakɛ kelen tɛ, a bɛ kɛ mɔgɔw, so ka nɛgɛ ni dɛmɛbaga joona ɲɛ ye.
+Ka dɔgɔ ka bon kosɛbɛ. Alzheimer's Association bɛ fɔ ko mɔgɔ min bɛ sigi ka caman ye ka sigi gɛlɛn, o bɛ se ka ɲɛnɛ ka ɲuman sigi dɔgɔ kɔnɔ. Joona kelen tɛ yen. A bɛ kɔrɔ ni mɔgɔ minnu bɛ sigiyɔrɔ la, yɔrɔ, ani ni ɲɛmɔgɔ ni dɛmɛnɛmɔgɔ joona bɛ min bolo.
 
-Ka ɲɔgɔn kɛ dɔgɔ sɔrɔ: mɔgɔ bɛɛ bɛ se ka kɔrɔ ka ɲɛ ka kuntigi ka ɲɛ, ka sɔrɔ ka tulo ka kɛ ɲɛ ni dɛmɛbaga bɛ se ka nɔgɔya ni sekɔndi dɔw kɔnɔ? Ni tɛ, ɲɔgɔn ka sɛn, dɛmɛbaga caman ɲɛ walima so ka nɛgɛ.
+Kɛlɛ-kɛlɛ dɔ ka se ka ɲɔgɔn yɛrɛ ko: mɔgɔ bɛɛ bɛ se ka dɔnkili ka ɲɛ ye wa, ka kuma ka ɲɛ, ani dɛmɛnɛmɔgɔ dɔ bɛ se ka sɔrɔ ni tuma tɔɔrɔ ye wa? Ni tɛ, sigi ka tɛmɛ ka kɛ tulonw ye, dɛmɛnɛmɔgɔw ka caya, walima yɔrɔ dɔgɔ kɔnɔ kɔrɔ.
 
-Ɲɛnamaɲɛ caman bɛ kɛ kɔnɔ, dɛmɛbaga bɛ tɔ ɲɛnamaɲɛ ka kɛ mɔgɔ dɔw ɲɛ ye. Ni i bɛ ɲɛnamaɲɛ caman kɛ, i ka dɛmɛbagaw ka kan ka sigi mɔgɔw cɛ.
+Dɔ ka kɛlɛ caman bɛ kɛ, i ka ɲɛmɔgɔw walima dɛmɛnɛmɔgɔw ka sigi mɔgɔw cɛ, o ye ɲɛmɔgɔw ka kɔrɔ ye bɛ ka sigi jɛmɛw la.
 
-## Mun bɛ so ni sigicogo ka kɔrɔ?
+## I bɛ yɔrɔ ni sigiyɔrɔ kɛ cogo di?
 
-- **Doni walima kɔngɔ.** Practice recommendations ka ko, kɔngɔ min bɛ kɛ sigili ka kɔrɔ, a ka kan ka kɛ fɛn ye min bɛ se ka kɛ ka mɔgɔ bɛɛ sigi.
-- **Kuntigi bɛ kɛ ɲɛ kɔnɔ ni ɲɛ ka sigi ye.** Ni i bɛ se ka sigi, sigi.
-- **Ɲɛ ni tulo fɔlɔ.** Ka mɔgɔ min bɛ tulo kɔrɔ, o ka sigi kuntigi ɲɛ kɔnɔ, a ɲɛfɛ ka kɛ ka ɲɛ min bɛ sɔn. Ka ɲɛnaw ni ka tulo sɔn ko u bɛ kɛ kɔnɔ. Alzheimer's Association ka ko, ɲɛ tɛ ni tulo tɛ ɲɛnamaɲɛ kɛ ka kɛlɛ.
-- **Ka sɛgɛn ka kɔrɔ kɔnɔ ni ka ɲɛ tɔ.** Ka sigi mɔgɔw ka ɲɛ tɛ fitini kɔnɔ.
-- **TV ni radiyo bɛ bɔ.** Alzheimer's Association ka ko, kɔngɔ min bɛ ɲɛnamaɲɛ kɔrɔ, o ka kan ka bɔ dɔnkili ka waati la.
-- **Kuma kelen, mɔgɔ kelen ka kuma.** Mɔgɔ caman kuma kɔnɔ bɛ kɛ gɛlɛya. Alzheimer's Association ka [sɛnɛfɛn kɔrɔ lakɔlɔsi](https://www.alz.org/help-support/caregiving/holidays) kɔnɔ, o bɛ jira.
-- **Bɔnɛ sira ni sigi nɔgɔn.** Mɔgɔ min bɛ bɔ ka taa, o ka kan ka se ka bɔ ni dɛmɛ, dɛmɛbaga ni a ka taa.
+- **Kɛlɛ-tulo walima tiɲɛ.** Dimansi ka tulo ka ɲɛfɛ. A bɛ fɔ ko sigi ka bon ni tulo ye, min bɛ se ka bɛɛ ka ɲɛ, ani min tɛ fɛn tɔɔrɔ ta.
+- **Kɛlɛ ka ɲɛ ni a ɲɛ kɔrɔ ye.** I ka sigi, o kosɛbɛ, ka tɛmɛ ka sigi.
+- **Ɲɛ ni tulo, o fɔlɔ.** Mɔgɔ min ka tulo bɛ gɛlɛn, o ka sigi ka ɲɛ ni a ka tulo kɔnɔ. Kɛ ko ka a ka glasi ni a ka tulo ɲɛ-tɛ dɔn. Alzheimer's Association bɛ fɔ ko ɲɛ ni tulo gɛlɛya bɛ ɲɛfɔ gɛlɛn.
+- **Fitini ka kɛ mɔgɔw ka kɔfɛ, ka kɛ ɲɛ kɔfɛ tɛ.** Mɔgɔ ka sigi ka ɲɛ ka bɔ kɔfɛ ka fitini kɔrɔ tɛ.
+- **Tɛlɛvizɔn ni radiyo kɛ.** Alzheimer's Association bɛ fɔ ka wulu ni fɛn caman bɔ ka kɛlɛ dumuni ɲɔgɔn ma.
+- **Kuma kelen tuma kɔnɔ.** Kuma caman kɔnɔ tɛ ɲuman dimansi ni mɔgɔ min ka tulo gɛlɛn. Alzheimer's Association ka [holiday guidance](https://www.alz.org/help-support/caregiving/holidays) kɔnɔ, a bɛ o fɔ.
+- **Bɔnɔ ni dɔ dɔgɔ ka bɛn.** Mɔgɔ min bɛ bɔ, o ka se ka bɔ ka ɲɛ, ani mɔgɔ dɔ ka taa ni a ye.
 
-## Ɲɛnamaɲɛ dɔw ka misali
+## Sigi kɛlɛ-kɛlɛ ladilikanw
 
-### Fɔtɔ bingo
+### Foto bingo
 
-Fɔtɔ bingo bɛ nɔmɔrɔw bɔ ka fɔtɔ, i n'a fɔ teyɛpɔti, nɛ walima wulu, ka mɔgɔ tɛ kɛ nɔmɔrɔ gɛlɛn kɛ walima ka ɲɛgɛ fɔ.
+Foto bingo bɛ nɔmɔrɔw bɔ ka foto ɲuman ye, i n'a fɔ tɛyɛɛri, ɲɛgɛnɛ walima sen-sen, walasa mɔgɔ si tɛ nɔmɔrɔ caman ɲɛ ni tulo ye walima ɲɛ-tɔgɔ fitinin ka karati.
 
 **A bɛ kɛ cogo di:**
 
-1. [Fɔtɔ Bingo](/games/picture-bingo/) ka paji kɔnɔ, Print tɔnɔ kɛ ka kaarti kelen mɔgɔ kelen ye. Sɛbɛ gɛlɛn bɛ ɲɛnamaɲɛ kɛ ɲɛ. Ni i bɛ se ka u kɛ ka kɛ tɔ ɲɔgɔn, u laminate kɛ.
-2. Ka jɔnw bɛ kɛ min bɛ se ka ta gɛlɛya tɛ, i n'a fɔ fɛn ye min bɛ kɛ jɔ, ka kɛ kaarti kɔnɔ.
-3. TV walima projecteur kɔnɔ, ka ɲɛ kɔnɔ wele ka kɛ fɛn ye ka fɔtɔ ɲɔgɔn bɛɛ ka ɲɛ.
-4. Fɔtɔ kelen-kelen kɔfɛ, ka ɲɛ ka kuma kɔrɔ: « Mun ye sogoma min i ye, i bɛ se ka sɛbɛ? » walima « I bɛ mun ye ka fɔtɔ nin kɔnɔ? »
-5. Ka wele ka se ka kaarti bɛɛ ka fa, ka mɔgɔ bɛɛ bɛ tɛmɛ ka ɲɛnamaɲɛ ka kɛ.
+1. Mɔgɔ kelen-kelen ye karati kelen bɔ [Picture Bingo](/games/picture-bingo/) yɔrɔ kɔnɔ, Print kɔnɔ kɛ. Karati ka sɛnɛ ka bon ka kɛnɛ, ka kɛ ka dɔnkili kɛlɛ laadilikan ye.
+2. Fɛn ɲuman, minnu bɛ se ka kɛ ka ta kɛnɛ, i n'a fɔ poker chips, bɔtiri kakɔ walima karati kɔrɔ tɔɔrɔ ka kɛ ta ye.
+3. Ka TV walima projector kɔnɔ ekran kɔnɔ wele ta, walasa mɔgɔ bɛɛ ka foto ɲɛ ni a tɔgɔ wele.
+4. Foto kelen-kelen wele kɔfɛ, ka sigi ka kuma dɔgɔ ka ɲɛnɛ kɛ: "Mɔgɔ dɔ bɛ se ka kuma sɛgɛsɛgɛ ni dɔgɔ min i dɔnnen bɛ?" walima "I bɛ min ye ɲɛfɛ min kɔnɔ?"
+5. Wele ka se ka karati bɛɛ fa. Mɔgɔ bɛɛ bɛ kɛlɛ ke.
 
-**Ka a kɛ mɔgɔ dɔw ka kɔrɔ:** Kɛ jɔ dɔgɔ kaarti kɔnɔ mɔgɔ min bɛ fɛn caman tɛ se ka ɲɛ. Dɛmɛbaga bɛ fɔtɔ ɲɛ mɔgɔ min bɛ dɛmɛ fɛ. Mɔgɔ dɔw bɛ fɛ ka fɔtɔ wele ka kaarti kɛ ka ɲɛ ɲɛ mɔgɔw ye.
+**A kɛ cogo wɛrɛ kɔnɔ:** Karati kɔnɔ ni fɛn caman tɛ ɲuman mɔgɔ dɔw ye, olu ka fɛn dɔgɔ ta. Dɛmɛnɛmɔgɔ dɔ bɛ se ka foto yɔrɔ jira mɔgɔ min ye dɛmɛ ka mago. Mɔgɔ dɔw bɛ se ka foto kari wele ka hɔrɔnw ta ka sigi ka ɲɛ.
 
 ### Dɔnkili
 
-Dɔnkili bɛ kɛ ka mɔgɔ bɛɛ bɛ se ka don. Alzheimer's Association ka ko, dementia ka sɛnɛfɛn kɔnɔ fana, mɔgɔ bɛ se ka [dɔnkili fɔlɔ dɔ nɛ ka dɔnkili ka tulo](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Dɔnkili bɛ kɛ dimansi sigiyɔrɔ ladilikanw ka dɔ ye dunuya bɛɛ. Alzheimer's Association bɛ fɔ ko mɔgɔ dɔw bɛ se ka ka dɔnkili kɛ, hali waatiw min kɔnɔ, o [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
 **A bɛ kɛ cogo di:**
 
-- Dɔnkili min mɔgɔw bɛ kɛ ɲɛ ka dɔnkili, o sugandi. Mɔgɔ min bɛ dɔnkili fɛ, o ka dɔnkili ka wele.
-- Dɔnkili ni tulo min tɛ kɛ ka kɛnɛ fɛn, u bɛ se ka kɛ ka gɛlɛya walima ka kɛ ka ɲɛ ɲɛ.
-- Ka kuma ka tɔ ka fɛ, ka kuma sɛbɛ gɛlɛn, ni mɔgɔ bɛ sɛbɛ, nka u ka kan ka kɛ kɔrɔ.
-- Ka shaker, ka tabali, walima ka kɔrɔ fɛ ka kɛ mɔgɔ bɛ ɲɔgɔn ka kɛ.
-- Ka kpaka ni ka bɔ kɛ, ka sugandi ka kɛ ɲɔgɔn ka ɲɛnamaɲɛ kɔnɔ.
+- Dɔnkili min mɔgɔw bɛ dɔn ka den ka waati la, o sugandi. Mɔgɔ minnu bɛ dɛmɛnɛmɔgɔ kɛ, olu bɛ se ka dɔn mɔgɔ kelen-kelen ka dɔnkili min ka di.
+- Dɔnkili min tɛ ni wari ɲɛnabɔ kɔnɔ, Alzheimer's Association bɛ fɔ ko o bɛ se ka hakili gɛlɛya.
+- Karati ka sɛbɛn ka bon kɔnɔ, mɔgɔ min bɛ karati kɔnɔ, o ka ɲɛnɛ, nka o tɛ ko mɔgɔ bɛɛ ka karati kɔnɔ ka kɛ.
+- Shakerɛ, hɔrɔnw walima kɔpɔrɔ ka dɔnkili wɛrɛ ka kɛ.
+- Sigi kɔnɔ kɛlɛ ka kɛ, ka don ka tɛmɛ ka dɔnkili kɔnɔ.
 
-**Ka a kɛ mɔgɔ dɔw ka kɔrɔ:** Mɔgɔ dɔw bɛ dɔnkili bɛɛ, dɔw bɛ sugandi, dɔw bɛ sɔrɔ ka sɔn, dɔw bɛ tɛmɛ. U bɛɛ bɛ kɛ dɔ ye. A bɛ kɛ ka kɛ kalan fɛn ye, [dɔnkili ɲɛnamaɲɛ kalan](/activities/music/) kɔnɔ.
+**A kɛ cogo wɛrɛ kɔnɔ:** Mɔgɔ caman bɛ dɔnkili bɛɛ kɛ, mɔgɔ dɔw bɛ kumaw dɔn, dɔw bɛ fɛn ci, dɔw bɛ sɔn ka dɔnkili ɲɛ. Olu bɛɛ bɛ kɛ dɔ ye. Ka ɲɛnɛ ni dimansi kɛlɛ-kɛlɛ dɔ kɛ, [music activities guide](/activities/music/) kɔnɔ.
 
-### Kɔnɔ ɲɛnamaɲɛ, ka sigi ni kumaw
+### Ka sɔn ni ka dɔ fɔ kɛlɛ
 
-Kɔnɔ ɲɛnamaɲɛ bɛ kɛ ka mɔgɔw ɲɔgɔn ka kumaw kɛ, i n'a fɔ sɔgɔ ka kɔnɔ, fɛn ye, dɔ ka waati walima dɔ ka waati. Ɲɛnamaɲɛ ka sɔrɔ ye kuma ɲɛnɛma ye, tɛ tɔgɔ ka dɔnkili ka se ka fɔ.
+Ka sɔn ni ka dɔ fɔ kɛlɛ bɛ kɛ ka ɲɛnɛ kɛ dɔ kan, i n'a fɔ dugu ka kɛlɛ, fɛn ta ka ɲɔgɔn fɔ, sigi, walima ka ɲɛnɛ kɔrɔ. Ka kuma ka ɲɛnɛ ka kɛ ka ɲɛnɛ ka tɛmɛ, ka fɛn ka tiɲɛ tɛ.
 
 **A bɛ kɛ cogo di:**
 
-1. Kumaw kelen sugandi, i n'a fɔ sɔgɔ ka kɔnɔ, mɔgɔ ka kɔnɔ, kɔrɔ, walima sɛgɛn.
-2. Fɛn kelen-kelen ka tɛmɛ ɲɔgɔn ma. Ka kuma kɛ ka kuma ɲɛ: « I bɛ mun ye? » « I bɛ mun ye? » « Mun ye min ka kɛ fɛn ye? »
-3. Kuma bɛɛ ka ɲɛ. Waati kɔnɔ kuma tɛ kɛ.
-4. Ka kuma ka kɛ dɔnkili ɲɛnamaɲɛ kɔnɔ. Practice recommendations ka ko, kɔnɔ ka ɲɛnamaɲɛ ka kɛ dɔnkili fɛnw kɔnɔ min bɛ dɔnkili nɔgɔya, o ka kan ka kɛ dɔnkili fɛnw ye ka tɛ dɔ kɛ min bɛ gɛlɛya kɛ.
+1. Kɛlɛ kelen sugandi ka kɛ, i n'a fɔ so ka kɛlɛ kɔrɔ, cɛ ka fɛn, bɔcɛ ka kɛlɛ walima siginɛ kɛlɛ, ka dɔ ta ka ɲɔgɔn fɛ: fɛn caman ni ka dɛmɛ bɛ se ka ta: nɛgɛ-tɔgɔ, kɔpɔrɔ ni tulo, kulɔ ni ka sɛbɛn.
+2. Fɛn kelen-kelen ta ka ɲɔgɔn fɛ. Ka ɲɛnɛ kuma waliw wele: "Ka ko dɔ fɔ n na," "I bɛ min ye?" "Mɔgɔ jɔ bɛ fɛn nin dɛmɛ nin?"
+3. Ka jaabi bɛɛ ɲɛnɛ. Ka tɛmɛ ka tɔgɔ walima kɛɲɛ ka kɛ tɛ.
+4. Kuma ka sugandi ɲuman ka kɛ. Alzheimer's Association ka dimansi ɲɛnɛnamaw bɛ fɔ ko dimansi ka kuma ka ɲuman kɛ, ka kɛ ko ka hakili gɛlɛya tɛ.
 
-[Dɔnkili Kaartiw](/games/conversation-cards/) bɛ kɛ fɔtɔ kaartiw ye min bɛ kɛ ka kuma kɛ ka dɔnkili kɔnɔ. Ka caman don [kɔnɔ ɲɛnamaɲɛ kalan](/activities/reminiscence/) kɔnɔ.
+[Conversation Cards](/games/conversation-cards/) bɛ karati ɲuman di, kuma waliw ni ka ɲɛnɛ kɔnɔ, o bɛ dɛmɛ kuma daminɛ ni. Ka ɲɛnɛ caman ka sɛbɛn [reminiscence guide](/activities/reminiscence/) kɔnɔ.
 
-### Kuma tɔ
+### Finish the saying
 
-Mɔgɔ bɛɛ bɛ fɛ ka kuma sɔrɔ, i n'a fɔ kɔrɔ kuma fɛn ni sɔrɔ, ka kuma min kɛ ka ɲɛ tɔ kɔnɔ. [Kuma Tɔ](/games/finish-the-saying/) bɛ kɛ ka ɲɛ kɔnɔ kɔrɔ. Mɔgɔ bɛɛ ka kan ka fɔ ka kuma tɔ ɲɔgɔn ka kɛ. Kuma kelen-kelen kɔfɛ, kuma bɛ kɛ min bɛ kuma ka kɛ. Ni mɔgɔ tɛ kuma tɔ, ka a jira ka taa. Kuma tɛ kɛ ka ɲɛ walima ka sɔrɔ.
+Kuma ɲuman, i n'a fɔ ("Wari min bɛ bɔ, o bɛ kɛ ..."), bɛ mɔgɔ bɛɛ wele ka kuma tɛmɛnen fɔ ɲɔgɔn fɛ. Ka [Finish the Saying](/games/finish-the-saying/) ekran bonya kɔnɔ, ka sigi ka jaabi ka kɛ kelen ye. Kuma kɔfɛ, kuma dɔ bɛ kɛ min bɛ ka kuma daminɛ. Ni tɛ mɔgɔ si min bɛ tɛmɛnen fɔ, o ka yɛrɛ jira ka tɛmɛ. Ɲuman walima jugu tɛ yen.
 
-### Fɔtɔ kɛnɛ ni ɲɔgɔn, ka sɛgɛn
+### Word search, ka kɛ sigi kɔnɔ
 
-Ka [Sɛgɛn Kɔnɔ](/games/word-search/) jira ɲɛ kɔnɔ, ka ɲɔgɔn kɛ, walima ka kɔpi kɛ mɔgɔ min bɛ fɛ ka ɲɛnamaɲɛ tabali kɔrɔ. Kuma bɛ sɛgɛn kɛ sira ni kɔrɔ fɛ.
+Ka [Word Search](/games/word-search/) ekran bonya kɔnɔ ka kɛlɛ ka kɛ ni sigi ye, walima ka karati dɔw bɔ mɔgɔ min bɛ kɛlɛ kelen-kelen kɛ. Kuma bɛ taa dɔgɔ ni kɔrɔ.
 
-### Ɲɛnamaɲɛ kɔnɔ
+### Ka dɔgɔ kɛ kɛlɛ dɔ ni dɔ
 
-Sigi, ka sebe ka sigi, ka ɲɛnamaɲɛ kɔnɔ dɔnkili ka kɛ ka sigi. Ka kɛ ka mɔgɔ bɛɛ ka ɲɛnamaɲɛ jira, ka kuma ka tɛ kɛ.
+Ka sigi ka dɔgɔ ka kɛ ka ɲɔgɔn bɛ dɔ, ka ɲɛgɛ walima bɔlɔn dɔ ɲɔgɔn fɛ, walima ka dɔnkili ni dɔnkili ni dɔnkili ɲɛ ka kɛ ka sigi. Ka kɛlɛ kɛcogo yɛrɛ jira, ka tɛ ka kɛlɛ fɔ kɔrɔ.
 
-### Tabali kɔnɔ ka tɛmɛ ni ka ɲɔgɔn ka kɛ
+### Ka dɔ fɔ ni ɲɛnɛ ka kɛlɛ tabali kɔnɔ
 
-Tabali tɔɔ mɔgɔ saba walima naani ka tabali bɛ se ka fɔtɔ, ka fɛn walima fɛnw ka kɛ ɲɔgɔn ka kɛ. Ɲɛ kɔnɔ, [Fɔtɔ Nɔɔnɔ](/games/picture-pairs/) bɛ se ka kɛ ka fɔtɔ ɲɛ kɔnɔ, mɔgɔ kelen bɛ tɔ, tabali bɛ kuma ka fɔtɔ kɔrɔ.
+Tabali dɔgɔ ni mɔgɔ saba ni naani ka foto, ni sɛnɛ ni ɲɛnɛ fɛn ci ni ɲɔgɔn ye. Ekran kɔnɔ, [Picture Pairs](/games/picture-pairs/) bɛ se ka kɛ ni foto ɲɛ ye, mɔgɔ kelen bɛ tiɲɛ ka sigi bɛ kuma ka foto kelen-kelen kan.
 
-## I bɛ se ka ɲɛnamaɲɛ kɔnɔ ka kɛ ɲɛ kɔnɔ cogo di?
+## I bɛ se ka an ka kɛlɛ-kɛlɛw kɛ ekran bonya kɔnɔ cogo di?
 
-Ɲɛnamaɲɛ bɛ kɛ web kɔnɔ, o de kama i bɛ u kɛ TV walima projecteur kɔnɔ, i tɛ fɛn dɔ sɛnɛ.
+An ka kɛlɛ-kɛlɛw bɛ kɛ web browser kɔnɔ, o de kama i bɛ se ka o kɛ TV walima projector kɔnɔ, fɛn si tɛ yɔrɔ dɔ kɔnɔ.
 
-1. Ka ɲɛnamaɲɛ ka kɛ ordinatɛri walima tablet kɔnɔ min bɛ ɲɛ ni kabulu walima cast ye.
-2. Ka web kɔnɔ kɛ ɲɛ bɛɛ kɔnɔ, ka sɔn ka kɛ ka dɔnkili ka bɔ ka kɛ.
-3. Kuntigi kelen bɛ tɔ, mɔgɔw bɛ wele ka sugandi. Walima ka tablet di mɔgɔ min bɛ fɛ ka sɔrɔ.
-4. Ni mɔgɔw bɛ se, ka bɔ ka taa. Ɲɛnamaɲɛ bɛ kɛ kɔnɔ tɛ, sɛnɛ tɛ, sɔrɔ tɛ.
+1. Ka kɛlɛ ka kɛ laptop walima tablet kɔnɔ, min bɛ ekran ni ɲɛ ni kabɛli walima casting ye.
+2. Ka browser ka kɛ ekran bɛɛ kɔnɔ, ka sɔn ka sɛbɛn ka ɲuman.
+3. Mɔgɔ kelen bɛ tiɲɛ, sigi bɛ wele ka sigi kɛ. Walima tablet dɔ di mɔgɔ min bɛ se ka kɛlɛ.
+4. Ka kɛlɛ ka ɲɛ ni sigi bɛ kɛ ɲɛnamaya. Kɛlɛ-kɛlɛw tɛ waati, tɔgɔ walima ka gɛlɛn ka kɛ.
 
-[Fɔtɔ Bingo](/games/picture-bingo/), [Kuma Tɔ](/games/finish-the-saying/), [Fɔtɔ Nɔɔnɔ](/games/picture-pairs/) ni [Dɔnkili Kaartiw](/games/conversation-cards/) bɛ ɲɔgɔn ka kɛ ka ɲɛnamaɲɛ ka kɛ. A bɛ kɛ ɲɛ kɔnɔ [ɲɛnamaɲɛ tabali](/games/) kɔnɔ.
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) ani [Conversation Cards](/games/conversation-cards/) bɛ sigi bɛɛ ye ɲuman. Ka kɛlɛ-kɛlɛ bɛɛ ɲɛ [games page](/games/) kɔnɔ.
 
-## I bɛ ɲɛnamaɲɛ kelen kɛ mɔgɔ caman ka kɔrɔ cogo di?
+## I bɛ kɛlɛ dɔ kɛ mɔgɔ ka ladilikan caman ye cogo di?
 
-Ɲɛnamaɲɛ kelen bɛ kɛ sira saba kɛ ka se ka mɔgɔ bɛɛ ka ɲɛnamaɲɛ.
+Kɛlɛ bɛɛ bɛ kɛ ko kɛlɛ saba walima ko caman kɛ, ka mɔgɔ bɛɛ se ka don.
 
-| Ɲɛnamaɲɛ | Mɔgɔ min bɛ se ka yɛrɛ dɛmɛ | Dɛmɛ dɔ ka ɲɛ | Dɛmɛ caman ka ɲɛ |
+| Kɛlɛ | Ka ɲɛmɔgɔ tɛ dɛmɛ | Dɛmɛ dɔgɔ | Dɛmɛ caman |
 | --- | --- | --- | --- |
-| Fɔtɔ bingo | Ka fɔtɔ ka yɛrɛ sɔrɔ ka kaarti yɛrɛ bɛ fa | Dɛmɛbaga bɛ fɔtɔ ɲɛ; mɔgɔ bɛ fa | Ka fɔtɔ kaarti tɔ; a bɛ lo ka ɲɛ |
-| Dɔnkili | Dɔnkili bɛ kɛ ka sugandi | Hum, sugandi, shaker bɛ kɛ | Dɔnkili, ka a sugandi, ka a bolo kɛ |
-| Kɔnɔ ɲɛnamaɲɛ | Kuma bɛ kɛ | Ɔn walima ɔn tɛ, walima ka a jira | Fɛn bɛ kɛ ka a kɛ |
-| Sɛgɛn | A yɛrɛ ka kɔpi bɛ kɛ | Dɛmɛbaga bɛ sɛgɛn kɛ ɲɛ kɔnɔ | Ka sugandi ka a fɔ |
+| Foto bingo | Mɔgɔ yɛrɛ bɛ foto sɔrɔ ka ta | Dɛmɛnɛmɔgɔ bɛ foto yɔrɔ jira; mɔgɔ bɛ ta | Foto karati bɛ mago; mɔgɔ bɛ ɲɛnɛ ka ɲɛ |
+| Dɔnkili | Bɛ dɔnkili ka tɛmɛnen ni dɔnkili min bɛ bɔ | Bɛ hɔrɔnw, ɲɔnɔn ka dɔnkili | Bɛ mɔgɔ min bɛ dɔnkili ɲɛ, fɛn bɛ mago |
+| Ka kuma ka ɲɛnɛ | Bɛ kuma fɔ | Bɛ jaabi ni i ko ka fɔ | Bɛ fɛn jiri, ka ɲɛ |
+| Word search | Bɛ a yɛrɛ ka karati kɔnɔ | Bɛ kuma sɔrɔ ekran kɔnɔ ni dɛmɛnɛmɔgɔ ye | Bɛ kuma ɲɛnɛ ni mɔgɔ bɛ o fɔ |
 
-Dementia ka sɛnɛfɛn kɔnɔ, NHS ka ko, mɔgɔw ka ɲɛnamaɲɛ ka kan ka kɛ ka sɔrɔ ka dɔgɔya, ka kɛ ka sɛnɛ, fɛn min bɛ mɔgɔ ka ɲɛ bɛ kɛ, i n'a fɔ dɔnkili, fɛnw min bɛ se ka lɔ, ani sisi ni ka mɔgɔ ka ɲɛ. Ka kɛ mɔgɔ kelen ni mɔgɔ kelen ɲɛnamaɲɛ, ni mɔgɔ tɛ ɲɔgɔn ɲɛ, o bɛ se ka kɛ ka kɛ ɲɛ mɔgɔ ye. [Dementia ka sɛnɛfɛn ɲɛnamaɲɛ](/activities/late-stage/) kɔrɔ.
+Mɔgɔ minnu bɛ dimansi kɛlɛ-kɛlɛ kɛ sanfɛ, NHS bɛ fɔ ko kɛlɛ-kɛlɛ bɛ kɛ ka ɲɛ, ka kɛ ka mɔgɔ ka ɲɛnɛ kan dɔnkili, fɛn min bɛ ɲɛnɛ ni bɛ ɲɛ, i n'a fɔ kɔpɔrɔ ni ɲɛnɛ maci. Mɔgɔ dɔ ye ka ɲɛnɛ ni a ye kɔfɛ, o bɛ se ka ɲuman ka tɛmɛ sigi kɔnɔ. [late-stage activities](/activities/late-stage/) kɔnɔ ka ɲɛnɛ.
 
-## Mun na kuntigi bɛ kuma ɲɛnamaɲɛ kɔnɔ?
+## Sigi kɔnɔ, ka kuma cogo di?
 
-- Ka i yɛrɛ jira kɔfɛ kɔfɛ, ka mɔgɔ bɛɛ tɔgɔ ka fɔ.
-- Ka kuma ka ɲɛ kɔnɔ, ka kɛ sira kelen ye kelen-kelen, ka jira ka fɔ.
-- Ka kuma ka wele ka kɛ sugandi walima kɔrɔ ka sɔrɔ: « I ka … fɔ » walima « I bɛ … ka ɲɛ? » Kɛ nin fɛn tɛ: « I ka … kɔnɔ? »
-- Ka kɛ kɔrɔ tɛ. Ka mɔgɔ bɛɛ ka kuma ka barika.
+- Ka ɲɛnɛ, i tɔgɔ ka kɛ ɲɛfɛ, ka mɔgɔ bɛɛ tɔgɔ ka ɲɛ.
+- Ka kuma ka dɔ-dɔ ka kɛ, ka kuma sɔrɔ ka ta ka kɛ. Ka kuma fɔ kɔfɛ, ka ɲɛnɛ ka kɛlɛ.
+- Ka ɲɛnɛ jɔyɔrɔ ni tiɲɛ bɛ kɛ: "Ko dɔ fɔ n na ..." walima ka sugandi ɲɛ, ka ɲɛnɛ bɛ ɲɛfɔ ka kɛ. Kɛlɛ ka jaabi ni ɲɛnɛ bɛ tɛmɛ.
+- Ka ɲɛ ka kuma kɛ, ka mɔgɔ ka kuma bɛɛ ka ɲɛ. Ka ɲɛ.
 
-Caman bɛ sɔrɔ [dɔnkili kalan](/caregiving/communication-tips/) kɔnɔ.
+[communication tips](/caregiving/communication-tips/) kɔnɔ, ka ɲɛnɛ caman ka sɛbɛn.
 
-## Ka ɲɛnamaɲɛ ka kɛ ka ɲɛ ka bɔ, ani mɔgɔ ka bɔ ka taa
+## Ka sigi ka ɲɛ, ni ka mɔgɔ bɔ ka taa
 
-Ka bɔ ka taa, o bɛ kɛ ɲɛnamaɲɛ ka ɲɛ. Ka ɲɛ mɔgɔ min bɛ sigi, dɔ ye min bɛ lo, walima min bɛ dɔ sɔrɔ, dɛmɛbaga ka kan ka tɛmɛ ka taa walima sigi tɛ. Mɔgɔ min bɛ sɔn dɔnkili kɔnɔ, o ka dɔnkili bɛ kɛ ɲɛ ye.
+Sigi ka ɲɛ, o ye ɲuman ye. Ka ɲɛnɛ mɔgɔ min bɛ sɔn ka ɲɛnɛ, mɔgɔ min bɛ ka kɛ, walima mɔgɔ min bɛ ka hakili gɛlɛya, ka dɛmɛnɛmɔgɔ dɔ ka sigi ka bɔ ka taa tulo ni ka sigi yɔrɔ dɔ kɔnɔ. Mɔgɔ min bɛ sɔn dɔnkili kɔnɔ, o bɛ se ka ɲɛ ka tulo ka ɲɛfɛ.
 
-Ka ɲɛnamaɲɛ bɛɛ ka kɛ ka sɔrɔ ka kɛ ɲɔgɔn cogo kelen, i n'a fɔ dɔnkili min bɛ sɔn, walima ka barika kɔnɔ, ka mɔgɔ bɛɛ ka dɔ sɔn. Kɔfɛ, ka sɛbɛ ka fɔ min bɛ kɛ ɲɛ, mɔgɔ jɛ bɛ kɛ ɲɔgɔn ka kɛ. Nin sɛbɛ bɛ ɲɛnamaɲɛ kɔfɛ ɲɛ.
-
----
+Sigi bɛɛ ka ɲɛ ka kɛ kelen cogo: dɔnkili ɲuman dɔ walima kuma dɔgɔ ni ɲɛ, walasa ka ɲɛ ka kɛ ka sɔn. Kɔfɛ, ka ɲɛnɛ kɛ ka sɛbɛn, mɔgɔ jɔ bɛ min ka ɲɛ, ani mɔgɔ jɔ bɛ min ka ɲɛ ka ɲɛnɛ. O ɲɛnɛ bɛ kɛ kɛlɛ ɲuman ni ɲɛnɛ taa ye.

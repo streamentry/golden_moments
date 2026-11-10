@@ -1,36 +1,36 @@
 ---
-title: "Cómo escoyer aplicazions y chuegos pa la demencia"
-seoTitle: "Cómo escoyer aplicazions y chuegos pa la demencia: una lista"
-description: "Una lista pa cuidadors pa escoyer aplicazions y chuegos pa la demencia: empecipie por o suyo obchetivo, evite os temporizadors y os anuncios, mire a privacidat y lea con cuidau as promesas sobre evidencias."
+title: "Cómo elegir apps y chuegos pa la demencia"
+seoTitle: "Cómo elegir apps y chuegos pa la demencia: lista"
+description: "Lista pa cuidadors: empiece por o suyo obchectivo, evite temporizadors y anuncios, mire la privacidat y lea con cuidado las promesas de prevenzión."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Empecipie por o que quiere que faga la aplicazión: estimulazión suau, recuerdo,
-  calma o connexión. Dimpués escoya una que encaixe con as capazidatz de la
-  persona en o día de hue, con imachens gran, sin temporizadors, puntuazions
-  ni anuncios, y con una manera fácil de parar. Mire qué datos recopila y si
-  puede borrarlos. Tienga cuidau con as promesas de que una aplicazión previene
-  o trata la demencia; un solo estudio no ye una prueba.
+  Empiece por o que quiere que faga la aplicazión: estimulazión suau, recuerdos,
+  calma o compañía. Luego elixe una que encaixe con as capazidatz d'a persona hue,
+  con imachens grandes, sin temporizadors, puntuazions ni anuncios, y con una
+  manera fácil de parar. Comprebe qué datos recolleta y si puede borrar-los.
+  Desconfíe d'as declaracions de que una aplicazión previén o trata la demencia;
+  un solo estudio no es una prueba.
 keyPoints:
-  - "Decida primero o obchetivo: a estimulazión, o recuerdo, la calma y la connexión necesitan aplicazions distintas."
-  - "Encaixe as capazidatz de la persona en o día, no una etiqueta d'etapa, y mantenga os controles simples."
-  - "Evite as aplicazions con temporizadors, puntuazions, vidas, rachas, anuncios o avisos de compra."
-  - "Mire a recopilazión de datos, la compartidura y o borrau. A HIPAA normalmente no cubre as aplicazions de consumo."
-  - "Desconfíe de as promesas de que \"previene la demencia\". Un solo ensayo, o mejores puntuazions en a aplicazión, no son una prueba."
-  - "Golden Moments ye una actividat recreativa. No fa prencipios clinicos."
+  - "Decida primero o obchectivo: estimulazión, recuerdos, calma y compañía necesitan aplicazions distintas."
+  - "Mire as capazidatz d'a persona en o día, no una etiqueta d'etapa, y mantenga los controles sinzillos."
+  - "Evite las aplicazions con temporizadors, puntuazions, vidas, rachas, anuncios o avisos de compra."
+  - "Mire qué datos recolleta, cómo los comparte y cómo se borran. HIPAA normalment no cubre as apps de consumo."
+  - "Desconfíe d'as declaracions de \"previén la demencia\". Un solo ensayo, o mellors puntuazions en a app, no son una prueba."
+  - "Golden Moments es una actividat recreativa. No fa declaracions clinicas."
 faq:
-  - q: "¿Los chuegos de la miente pueden prevenir la demencia?"
-    a: "No hai buena evidencia que as aplicazions comerciales de chuegos de la miente previenan o alentezcan la demencia. O Instituto Nacional d'Envejecimiento (NIA) de Estados Unidos dice que no hai suficient evidencia de que as aplicazions de entrenamiento mental comerciales tiengan o mismo efecto que o entrenamiento estructurau probau en un gran estudio de investigazión. Escoya aplicazions pa disfrutar y pa connectar, no como medicina."
-  - q: "¿Una aplicazión de demencia ye cubierta por a HIPAA?"
-    a: "Normalment no. A HIPAA, a lei de privacidat sanitaria de Estados Unidos, se aplica en cheneral a los proveyidors de salut, os planes de salut y os suyos socios comerciales. Una aplicazión que vusté mesmo descarga normalment no ye cubierta, a no ser que la ofreixca uno d'ellos. La Regla de Notificazión de Brechas de Salut de la FTC (la Comisión Federal de Comercio) cubre muitas aplicazions de salut que la HIPAA no cubre."
-  - q: "¿Cómo ha de ser un buen chuego pa la demencia?"
-    a: "Con imachens y texto gran y claro, una cosa obvia que fer en cada pantalla, sin temporizador ni puntuazión, sin sonidos de error, sin anuncios y con una manera fácil de pausar o parar. Ha de parecer feito pa adultos y que una segunda persona se pueda sumar sin problemas."
-  - q: "¿Golden Moments dice que ayuda a la memoria?"
-    a: "No. Golden Moments ofrez actividaz sinzillas compartidas pa disfrutar y pa conversar. No diagnostica, no trata, no previene ni mide la demencia, y no fa prencipios sobre a memoria ni sobre o pensar."
-  - q: "¿Debo pagar por una aplicazión de demencia?"
-    a: "Prebe primero as opzions gratuitas o as pruebas gratuitas, y mire cómo reacciona la persona durante unas cuantas semanas. Pagar por una aplicazión no la fa más efectiva. Mire cómo se cancela antes de subscribir-se."
+  - q: "Pueden os chuegos de cerebro prevenir la demencia?"
+    a: "No hai buena evidencia de que as apps de chuegos de cerebro comerziales previenan o alentezcan la demencia. El Instituto Nacional de Envejecimiento (National Institute on Aging) dice que no hai prou evidencia de que as apps de entrenamiento cerebral comerziales tiengan o mesmo efecto que o entrenamiento estructurau probau en un gran estudio de investigación. Elixa apps pa disfrutar y pa compañía, no como medicina."
+  - q: "Ye una app de demencia cubierta por HIPAA?"
+    a: "Normalment no. HIPAA (la ley estadounidense de privacidat sanitaria) se aplica en cheneral a proveedors de salud, planes de salud y a sus socios de negocio. Una app que vostè mesmo se descarga normalment no ye cubierta, a menos que la ofrezca uno d'ellos. La Regla de Notificazión de Brechas de Salud d'a FTC (la comisión federal de comercio d'os Estaus Unitos) cubre muitas apps de salud que HIPAA no cubre."
+  - q: "Cómo ha de ser un buen chuego pa la demencia?"
+    a: "Con imachens y testo grandes y claros, una sola cosa evidén que fer en cada pantalla, sin temporizador ni puntuazión, sin sonitos de error, sin anuncios, y con una manera fácil de pausar o parar. Ha de parexer fecho pa adultos y ser fácil que se sume una segunda persona."
+  - q: "Golden Moments dice que ayuda a la memoria?"
+    a: "No. Golden Moments ofrece actividatz compartidas sinzillas pa disfrutar y charrar. No diagnostica, no trata, no previene ni mide la demencia, y no fa declaracions sobre a memoria ni o pensamiento."
+  - q: "He de pagar por una app de demencia?"
+    a: "Prebe primero as opcions gratuitas u as pruebas gratuitas, y mire cómo responde a persona durant unas semanas. Pagar por una app no la fa más efectiva. Mire cómo cancelar antes de suscribir-se."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -61,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-As tiendas d'aplicazions son plenas de chuegos con etiquetas pa la chent mayor, la memoria o la demencia. Unos son bien pensaus. Otros meten promesas que suenan a medicina, temporizadors que convierten o chuego en una prueba, o anuncios y recopilazión de datos. Esta pachina le da una manera de chudgar cualsequier aplicazión por vusté mesmo. No clasificamos ni revisamos otros productos.
+As tiendas d'aplicazions están plenas de chuegos clasificaus como pa personas mayors, de memoria o de demencia. Unos son fechos con cuidau. Atros meten promesas con parolas de medicina, temporizadors que convierten o chuego en una prueba, o anuncios y recolleta de datos. Esta pachina le da una manera de chulgar cualsequier aplicazión por usté mesmo. No clasificamos ni revisamos atros productos.
 
-## Qué ha de decidir antes de escoyer una aplicazión pa la demencia?
+## Qué ha de decidir antes de elegir una app pa la demencia?
 
-Decida qué quiere que faga la aplicazión. "Un chuego pa la mai" puede significar cosas mui distintas, y a mexor escoyencia pa un obchetivo suele ser una mala escoyencia pa otro.
+Decida qué quiere que faga la aplicazión. "Un chuego pa mai" puede significar cosas muy distintas, y a mexor opción pa un obchectivo muitas vegadas ye una mala opción pa otro.
 
-| Obchetivo | Cómo ye | Qué mirar |
+| Obchectivo | Cómo pareix | Qué buscar |
 | --- | --- | --- |
-| Estimulazión suau | Emparellar, ordenar, rompezabezas sinzillos, chuegos de parabras | Dificultat axustable, imachens que se quedan visibles, sin presión de tiempo |
-| Recuerdo | Fotos antiguas, refranes conoxidos, musica de a suya chuventut | Las suyas propias fotos, preguntas abiertas, sin preguntas de test |
-| Calma | Imachens lentos, sonidos tranquilos, respiración, natura | Fácil d'empecipiar y parar, nada que parpadee, sin sorpresas |
-| Connexión | Chugar o charrar chuntos, en persona o por video | Pensada pa dos persones, indicazions pa conversar |
+| Estimulazión suau | Parexar, clasificar, puzles sinzillos, chuegos de parolas | Dificultat axustable, imachens que siguen visibles, sin presión de tiempo |
+| Recuerdos | Fotos vellas, refranes conoxidos, música de a suya chuventut | As suyas propias fotos, preguntas abiertas, sin preguntas de test |
+| Calma | Imachens lentos, sons tranquilos, respirazión, naturaleza | Fácil d'empezar y parar, res que parpadee, sin sorpresas |
+| Compañía | Chugar u charrar chuntos, en persona u por videollamada | Pensada pa dos persones, pistas pa charrar |
 
-A investigazión sobre a "estimulazión cognitiva" estructurada pa personas con demencia implica sobre todo sesions en grupo dirichidas por personal formau, con debate, chuegos de parabras, rompezabezas, musica y actividatz creatibas. Una [revisión de Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) trobó beneficios pequeños de media, que varian entre estudios. Ese tipo de programa social y variau no ye o mesmo que una aplicazión individual, asinas que trate cualsequier aplicazión como una actividat compartida entre muitas.
+A investigación sobre la «estimulazión cognitiva» estructurada pa personas con demencia implica sobre todo sesions en grupo dirichidas por personal formau, con charra, chuegos de parolas, puzles, música y actividatz creatibas. Una [revisión de Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) trobó beneficios pequeños de media, que variaban entre estudios. Ese tipo de programa social y variau no ye lo mesmo que una app individual, asinas que trate cualsequier aplicazión como una actividat compartida entre atras.
 
-## Cómo sé si una aplicazión encaixa con as capazidatz de la persona?
+## Cómo sabe si una app encaixa con las capazidatz d'a persona?
 
-Mire cómo reacciona, en cambio de guiar-se por un diagnostico u una etiqueta d'etapa. Dos persones "en a mesma etapa" pueden estar muit diferents en a vista, l'oyir, o control de as mans, o lenguache y a comodidat con as pantallas. La [Asociación d'Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) suchiere tener en cuenta os intereses de siempre y as capazidatz de hue, y centrar-se en o disfrute en cambio de o logro.
+Mire cómo responde, en cuenta de fiar-se d'un diagnostico u una etiqueta d'etapa. Dos persones "en a mesma etapa" pueden diferir muito en a vista, l'oyir, o control de as mans, o lenguache y en comodidat con as pantallas. La [Asociazión d'Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) suchiere tener en cuenta os intereses de siempre y as capazidatz actuals, y centrar-se en o disfrute en cuenta d'o logro.
 
-Sinas de que encaixa bien:
+Sinyals de buen encaixe:
 
-- empecipia o se suma sin muita insistencia;
-- sonrisa, comenta o cuenta una historia;
-- os errors no parecen molestar-le;
-- ye a gusto parando cuan ye hora.
+- empiecen o se sumen sin muita insistencia;
+- sonríen, comentan u cuentan una historia;
+- os errors no parecen molestar-los;
+- están contentos de parar cuando toca.
 
-Sinas de que no encaixa bien:
+Sinyals de mal encaixe:
 
-- "no puedo" o "esto ye una tontería" repetidos;
+- "no puedo" o "esto es una tontada" repetidos;
 - confusión sobre qué tocar;
-- frustración, vergüenza o empuixar o dispositivo lixos;
-- solo funciona si vusté fa casi todo.
+- frustrazión, vergüenza o empuixar o dispositivo lueñe;
+- solo funciona si vostè fa casi todo.
 
-L'angustia ye una senyal, no quelque cosa a la que empuxar. Veiga [qué fer cuan dicen que no](/caregiving/when-they-say-no/). Pa ideas por etapa más allá de las aplicazions, veiga las actividatz de [etapa temprana](/activities/early-stage/) y [etapa avanzada](/activities/late-stage/).
+A angustia ye un sinyal, no algo que se tenga que superar. Vea [qué fer cuando dicen que no](/caregiving/when-they-say-no/). Pa ideas por etapas más allá de las apps, vea as actividatz de [etapa temprana](/activities/early-stage/) y [etapa avanzada](/activities/late-stage/).
 
-## Qué elementos de diseño he de buscar u evitar?
+## Qué detalles de diseño buscar o evitar?
 
-Busque un diseño tranquilo, sinzillo y pa adultos, y evite cualsequier cosa que meta presión.
+Busque un diseño tranquilo, sinzillo y de adultos, y evite cualsequier cosa que meta presión.
 
-| Buscar | Tener cuidau con |
+| Buscar | Tener cuenta con |
 | --- | --- |
-| Imachens y texto gran, contraste alto | Iconos chicos, pantallas plenas |
-| Una acción clara por pantalla | Muitos botons, menús o instruccions de muitos pasos |
-| Sin temporizador, o un temporizador que se pueda desactivar | Cuentas atrás, bonificazions de velocidat, "bate o tuyo tiempo" |
-| Sin puntuazión, o una reacción suau | Puntos, vidas, rachas, clasificazions, "edat cerebral" |
-| Errors tratatos en silenzio | Zumbadors, cruces rojas, mensaches de "Mal" |
-| Imachens adultas y de la vida real | Temas de dibuixos animatos o infantils |
-| Funciona sin conexión, no fa falta cuenta pa empecipiar | Obligación de rechistrar-se, entrar o descargar contenido primero |
-| Pausa y parada fácils | Ventanas emerchens pidiendo seguir chugando o valorar la aplicazión |
-| Sin anuncios, preu claro, de pagar una vez o por subscripzión | Anuncios, cajas de botín, avisos de compra frecuents |
-| Fácil que una segunda persona se sume | Solo pa un chugador, diseño competitivo |
+| Imachens y testo grandes, contraste alto | Iconos pequeños, pantallas plenas |
+| Una acción clara por pantalla | Muitos botons, menús o instruccions de varios pasos |
+| Sin temporizador, o un temporizador que se pueda desactivar | Cuenta atrás, bonificazions de velocidat, "bate o tu tiempo" |
+| Sin puntuazión, o una respuesta amable | Puntos, vidas, rachas, clasificazions, "edat cerebral" |
+| Errors gestionaus con discrezión | Zumbadors, cruzes rojas, mensache de "Mal" |
+| Imachens de adultos y de o mundo real | Temas de dibuixos animaus o infantiles |
+| Funciona sin conexión, no fa falta cuenta pa empezar | Ha d'entrar, iniciar sesión o descargar contenito primero |
+| Pausa y parada fáciles | Ventanas emergentes que piden seguir jugando o valorar la app |
+| Sin anuncios, precio claro único o de suscripción | Anuncios, cajas de botín, avisos de compra frecuentes |
+| Fácil que se sume una segunda persona | Solo pa una persona, diseño competitivo |
 
-Los anuncios y os avisos de compra son fáciles de tocar por error.
+Los anuncios y avisos de compra son fáciles de tocar por error.
 
-## Cómo miro a privacidat d'una aplicazión?
+## Cómo comprebo a privacidat d'una app?
 
-Mire qué recopila la aplicazión, con quién comparte y si puede borrar-lo. Antes d'instalar-la:
+Mire qué recolleta a app, con quién comparte y si puede borrar-lo. Antes d'instalar:
 
-1. **Lea o resumen de privacidat de la tienda.** La [sección de Seguridat de datos](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) de Google Play y a [sección de información de privacidat](https://support.apple.com/en-us/102399) de l'App Store amostran os tipos de datos que una aplicazión puede recopilar y compartir. Las dos empresas indican que o desarrollador da esta información por su cuenta, asinas que ye un punto de partida, no una auditoría.
-2. **Pregunte si necesita una cuenta.** Si una aplicazión solo amostra imachens o chuegos sinzillos, puede que no tienga motivo pa saber o suyo nombre, correu u aniversario.
-3. **Mire os permisos.** Un chuego de parellas de verdat necesita ubicazión, contactos, micrófono o toda a biblioteca de fotos? Desactive lo que no necesite.
-4. **Busque anuncios y analítica.** As einas de publicidat y de seguimiento pueden enviar a otras empresas datos sobre cómo se usa la aplicazión.
-5. **Trobe a on van as fotos.** Si agrega fotos de familia, se quedan en o dispositivo o se suben a un servidor? Puede borrar-las?
-6. **Compruebe o borrau.** Busque en a política de privacidat o en o resumen de datos cómo borrar los datos y la cuenta. Una aplicazión que diga que os datos no se pueden borrar merece más precaución, sobre todo si guarda fotos o datos de salut.
-7. **Lea a política de privacidat** pa ver en claro qué se recopila, por qué, por cuanto tiempo y con quién se comparte.
+1. **Lea o resumen de privacidat d'a tienda.** La [sección de seguridat de datos](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) de Google Play y la [información de privacidat](https://support.apple.com/en-us/102399) de la App Store enumeran los tipos de datos que una app puede recoyer y compartir. Ambas empresas indican que son os desarrolladors los que dan esta información, asinas que ye un punto de partida, no una auditoría.
+2. **Pregunte si necesita una cuenta.** Si una app solo muestra imachens o chuegos sinzillos, puede no tener razón pa saber o suyo nombre, correu u aniversario.
+3. **Mire os permisos.** Un chuego de parexar necesita de verdat ubicazión, contautos, micrófono o toda a suya biblioteca de fotos? Desactive lo que no necesite.
+4. **Busque anuncios y analítica.** Las herramientas de publicidat y seguimiento pueden enviar datos sobre cómo se usa a app a atras empresas.
+5. **Averigüe adonde van as fotos.** Si agrega fotos de familia, se quedan en o dispositivo u se suben a un servidor? Puede borrar-las?
+6. **Mire o borrau.** Busque en a politica de privacidat o en o resumen de datos cómo borrar los datos y a cuenta. Una app que diga que los datos no se pueden borrar merece más precaución, sobre todo si guarda fotos o datos de salud.
+7. **Lea a politica de privacidat** pa respuestas claras sobre qué se recolleta, por qué, cuánto tiempo y con quién se comparte.
 
-### La HIPAA protege a información en as aplicazions de demencia?
+### HIPAA protexe a información en as apps de demencia?
 
-Normalment no, y muita chent se sorprende. O Departamento de Salut y Servicios Humanos de Estados Unidos [explica](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) que la HIPAA se aplica a os planes de salut, a la mayoría de proveyidors de salut, a las cámaras de compensazión de salut y a los suyos socios comerciales. En a mayoría de casos no protege os datos que vusté introduzca en una aplicazión pa uso personal, a no ser que la ofreixca una entidat cubierta o un socio comercial suyo. Una "aplicazión de demencia" de una tienda a menudo queda fuera de la HIPAA, incluso si habla de salut.
+Normalment no, cosa que sorprende a muitas persones. O Departamento de Salut y Servicios Humanos d'os Estaus Unitos [explica](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) que HIPAA se aplica a planes de salud, a la mayoría de proveedors de salud, a clearinghouses de salud y a sus socios de negocio. En a mayoría d'os casos no protexe os datos que mete en una app pa uso personal, a menos que la ofrezca una entidad cubierta o un socio de negocio. Una "app de demencia" d'una tienda d'aplicazions suele quedar fuera de HIPAA, incluso si fa referencia a la salud.
 
-### Qué protege os datos de salut en as aplicazions que la HIPAA no cubre?
+### Qué protexe os datos de salud en as apps que HIPAA no cubre?
 
-La Regla de Notificazión de Brechas de Salut de la Comisión Federal de Comercio (FTC) de Estados Unidos cubre muitas d'ellas. En 2024 la FTC [aprebó cambios](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) que aclaran que la regla se aplica a aplicazions de salut y tecnolochías similares no cubiertas por a HIPAA. Una "brecha" incluye as revelazions no autorizadas, no solo os ataques informáticos, y as empresas han de avisar a as persones afectadas y a la FTC. Ye una red de seguridat tras una cosa mal, no una promesa de que una aplicazión solo recopile o que necesita.
+A Regla de Notificazión de Brechas de Salud d'a Comisión Federal de Comercio (FTC) cubre muitas d'ellas. En 2024 a FTC [aprebó cambios](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) que aclaran que la regla se aplica a apps de salud y tecnolochías similares no cubiertas por HIPAA. Una "brecha" incluye as revelazions no autorizadas, no solo as intrusiones, y as empresas han de notificar-lo a as persones afectadas y a la FTC. Ye una red de seguridat después de que pase algo, no una promesa de que una app solo recolleta lo que necesita.
 
-## Cómo he de leer as promesas sobre investigazión y evidencias?
+## Cómo he de leer as declaracions sobre investigazión y evidencia?
 
-Lea as promesas de evidencia con calma, y desconfíe más de las promesas más grandes. Preguntas que facer:
+Lea las declaracions de evidencia con calma, y sea más desconfiau con as promesas más grans. Preguntas a faser:
 
-- **Qué s'estudió exactamente?** Un estudio de un programa de entrenamiento no muestra que cada chuego de una aplicazión funcione de a mesma manera.
-- **A quién se estudió?** Os resultatos en adultos mayors sanos pueden no aplicar-se a alguien con demencia.
-- **Qué se midió?** Mexorar en o propio chuego no ye lo mesmo que cambios en a vida diaria, en a conversa, en o estau d'ánimo o en a autonomía.
-- **Qué tan fuerte ye o estudio?** Un ensayo controlau aleatorizau (RCT) compara un grupo que usa la aplicazión con un grupo que no a usa. Ye un buen diseño, pero un RCT pequeño o curto no ye una prueba. Busque varios estudios, de investigadores independients, que coincidan.
-- **Promete cambiar la enfermedat?** Un estudio que muestra pequeñas mexoras en una prueba no ye evidencia de que una aplicazión alentezca, previenga o trate la demencia.
+- **Qué s'estudió exactament?** Un estudio de un programa de entrenamiento no muestra que cada chuego de una app funcione de a mesma manera.
+- **A quién s'estudió?** Os resultados en adultos mayors sanos pueden no aplicar-se a alguien con demencia.
+- **Qué se midió?** Mexorar en o chuego en si ye distinto que cambios en a vida diaria, en a conversación, en o estau d'ánimo o en a independencia.
+- **Qué tan fuerte ye o estudio?** Un ensayo controlau aleatorizau (RCT) compara un grupo que usa a app con otro que no la usa. Ye un buen diseño, pero un RCT pequeño o curto no ye una prueba. Busque varios estudios, de investigadors independients, que coincidan.
+- **Dice que cambia la enfermedat?** Un estudio que muestra pequeñas mexoras en una prueba no ye evidencia de que una app alentezca, previenga o trate la demencia.
 
-La página del Instituto Nacional d'Envejecimiento sobre [a salut cognitiva y os adultos mayors](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describe un gran ensayo financiau por os NIH sobre entrenamiento cognitivo estructurau, y luego advierte a os lectors que tengan cuidau con as promesas de que cierts chuegos de computadora o en linia pueden mexorar a memoria y o pensar. Diz que encara no hai suficient evidencia de que as aplicazions de entrenamiento mental comerciales tengan o mesmo impacto que o entrenamiento probau en ixe ensayo. Puede leer más en a nuestra guía sobre [chuegos de la miente y la evidencia](/brain-health/brain-games/) y [qué diz la investigazión sobre prevenir la demencia](/brain-health/can-dementia-be-prevented/).
+La pachina d'o Instituto Nacional de Envejecimiento sobre [salud cognitiva y adultos mayors](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describe un gran ensayo financiau por os NIH sobre entrenamiento cognitivo estructurau, y luego advierte a los lectors que tengan cuidado con as declaracions de que ciertos chuegos d'ordinador o en linia pueden mexorar a memoria y o pensamiento. Dice que todavía no hai prou evidencia de que as apps de entrenamiento cerebral comerziales tengan o mesmo impacto que o entrenamiento probau en ese ensayo. Puede leyer más en a nuestra guía sobre [chuegos de cerebro y a evidencia](/brain-health/brain-games/) y [qué dice a investigazión sobre prevenir la demencia](/brain-health/can-dementia-be-prevented/).
 
-### Cuál ye un ejemplo público de promesa enganyosa?
+### Cuál ye un ejemplo público de declaración engañosa?
 
-En chinero de 2016, la FTC [anunzió un acuerdo](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) con os creadors de Lumosity, un programa de "entrenamiento cerebral". La FTC alegó que la empresa afirmaba, sin evidencia suficient, que sus chuegos podían retrasar o deterioro cognitivo relacionau con a edat y protejer contra o deterioro cognitivo leve, a demencia y a enfermedat d'Alzheimer. La empresa acordó pagar 2 millons de dólars y debe tener evidencia científica competent y fiable antes de fer dichas afirmazions en o futuro. O caso ye un recordatorio útil de que o lenguache de marketing no ye evidencia.
+En chenero de 2016, a FTC [anunciró un acuerdo](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) con os creadors de Lumosity, un programa de "entrenamiento cerebral". A FTC alegó que la empresa afirmaba, sin evidencia adecuada, que sus chuegos podían retrasar o deterioro cognitivo asociau a la edat y protexer contra a deterioro cognitivo leve, a demencia y a la enfermedat d'Alzheimer. La empresa acordó pagar 2 millons de dólars y debe tener evidencia científica competent y fiable antes de faser ese tipo de declaracions en o futuro. O caso ye un recordatorio útil de que o lenguache publicitario no ye evidencia.
 
-### Cuáles son as parabras de alerta?
+### Qué palabras son señales de alarma?
 
-Tienga cuidau cuan una aplicazión u anuncio diga que:
+Tienga cuidado cuando una app o un anuncio diga que:
 
-- "previene", "revierte", "para" o "cura" a demencia o l'Alzheimer;
-- ye "clínicamente probada" sin nombrar o estudio, quién participó y qué se midió;
-- da una "edat cerebral" o una puntuazión de memoria que implique un diagnostico;
+- "previén", "revierte", "para" o "cura" a demencia o l'Alzheimer;
+- ye "clínicament probada" sin nombrar o estudio, quién participó y qué se midió;
+- da una "edat cerebral" o una puntuazión de memoria que implica un diagnostico;
 - "agudizará", "potenciará" o "entrenará" o cerebro;
 - usa testimonios como prueba.
 
-Si no ye seguro de una promesa, pregunte a o metche de la persona.
+Si no ye seguro d'una declaración, pregunte-lo a o metche d'a persona.
 
-## Dónde encaixa Golden Moments?
+## Adonde encaixa Golden Moments?
 
-Golden Moments ofrez actividatz sinzillas compartidas, no una prueba de memoria, una terapia ni consello medico. Os nuestros chuegos, como [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) y [Calm Breathing](/games/calm-breathing/), son pa disfrutar y pa conversar. No diagnostican, no tratan, no previenen ni miden la demencia, y no fagamos prencipios sobre a memoria ni sobre o pensar.
+Golden Moments ofrece actividatz compartidas sinzillas, no una prueba de memoria, terapia ni consello medico. Os nuestros chuegos, como [Parexas de imachens](/games/picture-pairs/), [Cartas de conversación](/games/conversation-cards/), [Parexas de fotos](/games/photo-pairs/), [Bingo de imachens](/games/picture-bingo/) y [Respirazión tranquila](/games/calm-breathing/), están fechos pa disfrutar y charrar. No diagnostican, no tratan, no previenen ni miden la demencia, y no fagamos declaracions sobre a memoria ni o pensamiento.
 
-Tamién fagamos una aplicazión gratuita, [Golden Moments pa iPhone, iPad y Android](/app/). Tiene emparellamiento de imachens suau con mosaicos gran, chuegos con fotos de familia que vusté escoya y paquetes de imachens que funcionan sin conexión, sin cuenta, sin anuncios, sin temporizador ni puntuazión. A mesma lista de comprobazión s'aplica: a etiqueta de privacidat de l'App Store diz "Data Not Collected" (no se recopilan datos), y a [política de privacidat de la aplicazión](/app-privacy/) explica dónde se guardan as copias de as fotos.
+Tamién fagamos una app gratuita, [Golden Moments pa iPhone, iPad y Android](/app/). Tiene parexar imachens suau con mosaicos grandes, chuegos con fotos de familia que vostè elixe y paquetes de imachens que funcionan sin conexión, sin cuenta, sin anuncios, sin temporizador ni puntuazión. Se aplica a mesma lista d'este articlo: a etiqueta de privacidat d'a App Store dice "Data Not Collected" (no se recolleta cheta), y la [politica de privacidat de la app](/app-privacy/) explica adonde se guardan as copias de las fotos.
 
-Prefeririemos que nos chudgase que confiar en nusatros. Use a lista de esta pachina, lea a nuestra [pachina de privacidat](/privacy/) y o [aviso medico](/medical-disclaimer/), y deixe de usar cualsequier cosa, incluyendo las nuestras, que no le venga bien a la persona a la que cuida.
+Preferimos que nos chulgue a que confíe en nusatros. Use a lista de esta pachina, lea a nuestra [pachina de privacidat](/privacy/) y o [aviso medico](/medical-disclaimer/), y deixe de usar cualsequier cosa, incluyendo las nuestras, que no le convenga a la persona que cuida.
 
-## Cuál ye una manera sensata de probar una aplicazión nueva?
+## Qué ye una manera sensata de probar una app nueva?
 
-Pruébela chunto durant unas cuantas semanas y mire qué pasa.
+Pruébela chuntos durant unas semanas y mire qué pasa.
 
-1. **Configúrela primero** siguiendo a nuestra [guía de configurazión de tableta y teléfono](/caregiving/tablets-and-screens/), y empecipie en o nivel más fácil.
-2. **Faiga sesions curtas,** fíxese en as sonrisas, la conversa y la calma, y acabe en un buen momento.
-3. **Déixela si causa frustración,** por muito que tienga buena valoración.
+1. **Configúrela primero** con a nuestra [guía de configurazión de tablet y teléfono](/caregiving/tablets-and-screens/), y empiece en o nivel más fácil.
+2. **Faga sesions curtas,** fixe-se en as sonrisas, la charra y la calma, y acabe en un buen momento.
+3. **Deixe-la si causa frustrazión,** por muy bien valorada que esté.

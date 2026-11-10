@@ -1,28 +1,29 @@
 ---
-title: "Sɛgɛsɛgɛ ani hakilijigin: Dɔnniya ni sɛgɛsɛgɛ ka ɲɛ"
-seoTitle: "Sɛgɛsɛgɛ ani dementia: Dɔnniya min bɛ yen"
-description: "Dɔnniya min bɛ sɛgɛsɛgɛ ni dementia ka yɛrɛyɛrɛ ... ani sɛgɛsɛgɛ ka ɲɛ min bɛ kɛ ka ɲɛ, ka sɛgɛn ani ka nisɔndiya ka bon, mɔgɔ dɔw minnu bɛ dementia la ani mɔgɔ minnu ka ɲɛ."
+title: "Sɔgɔsɔgɔ ani hakili ka ɲɛnɛmaya: Sɛbɛnw b'a jira"
+seoTitle: "Sɔgɔsɔgɔ ni dimansi: Sɛbɛnw b'a f'a ye"
+description: "Sɛbɛnw b'a jira ko yɛrɛ sɔgɔsɔgɔ ni dimansi ka yɛrɛyɛrɛ ka ɲɛ, ani cogo min na mɔgɔ kɔrɔw ni dimansi ka mɔgɔw bɛ se ka sɔgɔ ka ɲɛnɛ ani ka sigi ka kɛ kɛnɛ ni ɲɛnɛ."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ɲɛfɔ dɔw b’a jira ko sɛgɛsɛgɛ ka ɲɛfɔ bɛ dementia ka kɛyɔrɔ dɔgɔya, ani 2024 Lancet Commission b’a fɔ ko kɛlɛ tɛ ka kɛ ka ɲɛ ye fɛn 14 ka kɛlɛ min bɛ kɛ ka yɛrɛ ɲɛnɛma ye. Sɛgɛsɛgɛ dɔ ma kɛ dementia dɔgɔya ko la. Sɛgɛsɛgɛ bɛ dɛmɛ ka dɔ ka sɛgɛsɛgɛ, ka sɔgɔsɔgɔ, ka nɔgɔn ani ka dormɔgɔya la. Dɔ ka sɛgɛn, ka kɛ kɔrɔsi kan sigi ani ka fɛ ye, o bɛ se ka kɛ ka ɲɛ. Sɛgɛsɛgɛ kura kɛ sɔrɔ ka ɲɛ kɛnɛya ma, k’a sɔrɔ dɔktɔrɛ ka laadɔ.
+  Sɛbɛnw b'a jira ko sɔgɔsɔgɔ ka ɲɛ ni dimansi ka yɛrɛyɛrɛ ye, ani Lancet Commission ka 2024 kalan b'a jira ko sɔgɔsɔgɔ tɛ ka kɛ 14 ka yɛrɛ ye min bɛ se ka dɔn ka ɲɛfɛ. Kalan kɔrɔw ma dimansi ka ɲɛfɛ sɔgɔsɔgɔ ye. Sɔgɔsɔgɔ b'a dɛmɛ ka ɲɛnɛmaya, ka sigi, ka hinɛ ani ka dɔrɔn ka sɔgɔ, o de y'a to tala ka kɛ, ka taa, ka sigi ka kɛ kɛnɛ ni ɲɛnɛ ani ka dansa. Aw ka sɔgɔsɔgɔ kura ka taa ɲɛ ni dɔktɔrɛ ye sani aw bɛ se ka kɛ a kɔ.
 keyPoints:
-  - "Mɔgɔ minnu bɛ sɛgɛsɛgɛ kɛ, o kɔnɔ dementia kɛyɔrɔ bɛ dɔgɔ kosɛbɛ, nka o bɛ bɔ kosɛbɛ sɛbɛn min bɛ kɛ ka ɲɛfɔ, a tɛ bɔ sɛbɛn min bɛ kɛ ka kɛ ka ɲɛ."
-  - "5 san sɛgɛsɛgɛ kɛlɛ min bɛ kɛ mɔgɔ kɔrɔba kan, o tɛ ko kɛ hakili ka ɲɛ ko la ka bɔ ɲɛ kɔnɔ."
-  - "CDC ka laadɔ mɔgɔ minnu bɛ 65 san ni o ka kɔfɛ, o bɛ sɛgɛsɛgɛ ni hɛrɛ ni kɛbɛɲɔgɔ ni sɛgɛsɛgɛ ka dɔnniya ... ani a b’a fɔ ko sɛgɛsɛgɛ dɔ ka ɲɛ ka tɛ sɛgɛsɛgɛ kɛ."
-  - "Dementia la mɔgɔ ye, sɛgɛsɛgɛ ka ɲɛ ye sɛgɛn tile kɔnɔ, sɛgɛn ani kɛlɛ dɔ min bɛ kɛ sigi kan, o bɛ ka ɲɛ ka tɛ kɛ ka ɲɛ fɛn dɔ ye."
-  - "Mɔgɔ 4 kɔnɔ 1 ka ɲɛ, san kelen kɔnɔ, bɛ bin; o de y’a to ka sɛgɛsɛgɛ ka kɛlɛ kɛ kɔrɔsi ani ka ɲɛnɛma ka kɔrɔfɛ."
+  - "Mɔgɔ min bɛ sɔgɔsɔgɔ ka kan, o bɛ dimansi ka yɛrɛyɛrɛ ka dɔgɛ kosɔn, nka o bɛ bɔ sɛbɛnw kɔnɔ, tɛ kalan kɔnɔ."
+  - "Ɲɔgɔn sɔgɔsɔgɔ kalan min bɛ kɛ mɔgɔ kɔrɔw bɛɛ ye san 5 ka kɔnɔ, a ma jira ko hakilina ka yɛrɛyɛrɛ bɛ kɛ sɔrɔ ka dɔgɛ."
+  - "CDC ka kuma mɔgɔ kɔrɔw ye, min bɛ san 65 kɔrɔ, b'a jira ko sɔgɔsɔgɔ min bɛ kɛ sɔgɔ ni sigi ye, ani ko sɔgɔsɔgɔ dɔ bɛ ɲɛ ko sɔgɔsɔgɔ tɛ yen."
+  - "Dimansi ka mɔgɔw kosɔn, sɔgɔsɔgɔ dɔgɔ, nɔgɔn ni dɔnkili ye, i ko taa ka kɛ don o don ni sɔgɔsɔgɔ, i ko taa tɛrɛ kɔrɔ ka kɛ kɛnɛ ni ɲɛnɛ, o bɛ ɲɛ ka tɛmɛ ka ɲɛfɛ ni hakilina."
+  - "Mɔgɔ ni san 4 ka kɔnɔ bɛ bɔ mɔgɔ 1 kɔnɔ ka sɔgɔ, o de kosɔn sigi ni jɔ min bɛ se ka dɔn, o bɛ kɛ kɔfɛ."
 faq:
-  - q: "Sɛgɛsɛgɛ bɛ se ka dementia kɔrɔ?"
-    a: "Mɔgɔ tɛ se ka o da. Ɲɛfɔ caman b’a jira ko sɛgɛsɛgɛ ka ɲɛfɔ bɛ dementia ka kɛyɔrɔ dɔgɔya, nka kɛlɛ laadɔ tɛ jira ko sɛgɛsɛgɛ bɛ kɔrɔ. Sɛgɛsɛgɛ bɛ ɲɛfɔ caman dɔ ka ɲɛ, o de y’a to a ka ɲɛ."
-  - q: "Dementia la mɔgɔ ka sɛgɛsɛgɛ ka ɲɛ wa?"
-    a: "A bɛ ka ɲɛ ka kɛ kosɛbɛ, k’a sɔrɔ dɔ ka laadɔ ka sɛgɛn. National Institute on Aging b’a fɔ ko a ka ɲɛ ka dɔktɔrɛ ka laadɔ sani kɛlɛ kura kɛ, ka sogokɛlɛ ni sɛgɛn ka ɲɛ kɛ, ka ji di, ani ka sɛgɛsɛgɛ kɛ waati gɛlɛn. Ka sɛgɛn ni a ka ɲɛ tɛ, ka tɛ kɛ ko kɔnɔ, o y’a to ka bɔ."
-  - q: "Sɛgɛsɛgɛ jumɛn ye min bɛ kɛ sigi kan?"
-    a: "Sigi kan sɛgɛsɛgɛ ye: sigi kan sɛgɛsɛgɛ ni yoga, bɔlɔ ni wɔlɔ ka bɔ, dɔ ka bɔ bɔlɔ fɛ, sɔgɔsɔgɔ ka bɛlɛbɛlɛ, ka kɛnɛ ni kɛnɛya dɔ ka sɛgɛsɛgɛ, ani ka fili kɛ. O ye kɛlɛ ɲɛnɔgɔ ye waati min na sɛgɛn ka gɛlɛ."
-  - q: "O ye ko mɔgɔ tɛ sɛgɛsɛgɛ ka fɛ?"
-    a: "Aw kɛ a ka gɛlɛya. Waati wɛrɛ la aw k’a ɲɛ kɛ, aw yɛrɛ k’a ɲɛ, aw k’a ɲɛ kɛ dɔ ni a ka ɲɛ bɛ kɛ, walima aw k’a ɲɛ kɛ kɛlɛ dɔ ye i ko sɛgɛsɛgɛ bɛ kɛ kɛlɛ ye. Sɛgɛn sɛgɛsɛgɛ ye, a bɛ na kɛ ka tɛ ka tɛ ka sɛgɛn. Ka sigi ka ɲɛ, o fana ye sɛgɛsɛgɛ ye."
+  - q: "Sɔgɔsɔgɔ bɛ se ka dimansi ka ɲɛ?"
+    a: "Mɔgɔ tɛ se ka o da. Sɛbɛn caman b'a jira ko sɔgɔsɔgɔ ka ɲɛ ni dimansi ka yɛrɛyɛrɛ ye, nka dɔktɔrɛ kɛlɛ tɛ jira ko sɔgɔsɔgɔ bɛ ka ɲɛ. Sɔgɔsɔgɔ bɛ ɲɛnɛmaya caman dɛmɛ, o de kosɔn a ka ɲɛ ka kɛ."
+  - q: "Dimansi ka mɔgɔ bɛ se ka sɔgɔ ka ɲɛ?"
+    a: "Ɲɛnɔgɔnin, hali bɛ kɛ ni labɛnni ye. Sɔgɔsɔgɔ kɔnɔ bɛ kɛ ni kɔlɔsili ye; NIA b'a fɔ ko aw ka dɔktɔrɛ ye sɔgɔsɔgɔ kura ka taa ɲɛ, ka sooɲɛ ɲɛ, ka ji di, ani ka sɔgɔsɔgɔ ka dɔgɔ. Aw ka tɛmɛ ni mɔgɔ ye tɛrɛ, wa ɲɛ fanga ka ban, walasa a ka kɛ ka ɲɛ."
+  - q: "Sɔgɔsɔgɔ jɔ min bɛ se ka kɛ sigilen na?"
+    a: "Sigilen sɔgɔsɔgɔ ye sigilen ka tɛrɛ, ka sigi ka kɛ kɛnɛ ni ɲɛnɛ, ka bɔlɔn bɔ, ka kɛ kɔnɔ fɔ ni ŋɔnɔ. Nin bɛɛ bɛ kɛ ɲɛnɛ ni sigilen ye."
+  - q: "U bɛ se ka sɔgɔsɔgɔ ka ɲɛ, nka u tɛ wɛrɛ ka kɛ?"
+    a: "Aw kaforo u ma ɲɛ. Aw ka ɲɛ ka sɔrɔ tɛmɛ kɔ, walasa aw ka sɔgɔ ni u ye, walima dɔnkili kɛ fɔlɔ."
+
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -47,82 +48,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Sɛgɛsɛgɛ ye hakili ka ɲɛ ko kɔrɔ min bɛ sɛgɛn caman kɛ. Ɲɛfɔ dɔw b’a jira ko a bɛ dementia ka kɛyɔrɔ dɔgɔya, nka sɛbɛn tɛ jira ko sɛgɛsɛgɛ bɛ dementia kɔrɔ. Min bɛ jira ka ɲɛ, o ye ko sɛgɛsɛgɛ bɛ dɛmɛ ka sɔgɔsɔgɔ, ka nɔgɔn, ka nisɔndiya ani ka dormɔgɔya ka ɲɛ waati o waati. Nin kɔrɔ bɛ kuma ko dɔnniya min bɛ sɛgɛsɛgɛ kan, mɔgɔ dɔw ka sɛgɛsɛgɛ ka ɲɛ, ani sɛgɛsɛgɛ jumɛn ye min bɛ kɛ ka ɲɛ ka sɛgɛn ni dementia ka dɔ ka ɲɛ.
+Sɔgɔsɔgɔ ye sɛbɛnkan ye min bɛ caman kɛ hakili ka ɲɛnɛmaya kɔnɔ. Sɛbɛnw b'a jira ko a bɛ ka ɲɛ ni dimansi ka yɛrɛyɛrɛ ye, nka u ma jira ko sɔgɔsɔgɔ bɛ dimansi ka ɲɛfɛ. Nin min bɛ dɔn ɲɛ, ko sɔgɔsɔgɔ b'a dɛmɛ ka sigi, ka sɔgɔ, ka hinɛ, ani ka dɔrɔn ka sɔgɔ, a ka kɛnɛ mɔgɔ bɛɛ ye. Nin kɔrɔfɔ in bɛ sɛbɛnw f'a ye, bɛ kuma sɔgɔsɔgɔ ka ci mɔgɔ kɔrɔw ye, ani bɛ sɔgɔsɔgɔ jɔ fitinin ye min bɛ se ka kɛ ni dimansi ka mɔgɔ ye.
 
-## Sɛgɛsɛgɛ bɛ dementia kɛyɔrɔ dɔgɔya wa?
+## Sɔgɔsɔgɔ bɛ dimansi ka yɛrɛyɛrɛ ka dɔgɛ wa?
 
-Dɔnniya b’a jira ko mɔgɔ minnu bɛ sɛgɛsɛgɛ kɛ, u tɛ dementia sɔrɔ kosɛbɛ, nka dɔnniya bɛ kɛ dɔ kɔnɔ. [2024 Lancet Commission kan dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) b’a fɔ ko sɛgɛsɛgɛ tɛ kɛ fɛn 14 ka kɛlɛ kɔnɔ min bɛ se ka yɛrɛ ɲɛnɛma. Fɛn 14 nin bɛ bɔ dementia ka kɛlɛ bɛɛ ka 45% dunia kɔnɔ, o ye u ka modɛli ye.
+Sɛbɛnw b'a jira ko mɔgɔ min bɛ sɔgɔsɔgɔ, o tɛ dimansi ka ɲɛ caman, nka sɛbɛnw ka kuma bɛ ɲɛ fanba. [Lancet Commission ka 2024 kalan kan dimansi ko](https://doi.org/10.1016/S0140-6736(24)01296-0) b'a jira ko sɔgɔsɔgɔ tɛ ka kɛ 14 ka yɛrɛ ye min bɛ se ka dɔn ka ɲɛfɛ. Dimansi ka yɛrɛyɛrɛ bɛɛ bɛ sɔrɔ 45% dunuya dimansi kɔnɔ, a ka misali kɔnɔ.
 
-Dɔnniya min bɛ yen, o ye nin ye:
+Nin ye sɛbɛnw ka jatigɛ ye:
 
-- **Ɲɛfɔ ɲɛmɔgɔya b’a jira ko sɛgɛsɛgɛ ka ɲɛ.** Commission ka ɲɛfɔ 58 dɔ, o b’a jira ko mɔgɔ minnu bɛ sɛgɛsɛgɛ kɛ, u kɔnɔ dementia kɛyɔrɔ bɛ dɔgɔ 20% ɲɛ kɔnɔ. Kɔrɔfɛ ɲɛnɔgɔya bɛ kɛ mɔgɔ minnu tɛ sɛgɛsɛgɛ kɛ kosɛbɛ, ani mɔgɔ minnu bɛ sɛgɛsɛgɛ dɔ kɛ.
-- **Sɛbɛn bɛ se ka kɛ fila fɛ.** Commission b’a fɔ ko sɛgɛsɛgɛ tɛ kɛ ka ɲɛ, o bɛ se ka kɛ dementia kɛyɔrɔ ka bonya. A b’a fɔ fana ko dementia ka hakili kɔnɔ fɛn fɔlɔ, min bɛ kɛ san caman kɔfɛ ka se ka mɔgɔ kɛ ka sɛgɛsɛgɛ dɔgɔ.
-- **Kɛlɛ laadɔw tɛ ɲɛnɔgɔ.** Mɔgɔ 945, san 78 kɔrɔ, u tun bɛ sɛgɛsɛgɛ kɛ san 5 kɔnɔ, don 2 kɔnɔ kɔrɔ kɔrɔ, ka kɛ ni kɛlɛ laadɔ ye. San 5 kɔfɛ, hakili ka ɲɛ tɛ kɛ ka ɲɛ kosɛbɛ u kɔnɔ. Mɔgɔ caman minnu tɛ kɛlɛ laadɔ kɔnɔ, u fana tun bɛ sɛgɛsɛgɛ kɛ, o bɛ kɛ ka sɔn ka kɛlɛ dɔnniya.
+- **Sɛbɛn min tɛ kɛ kalan ye, u bɛ jira kɛnɛ kɔfɛ.** Sɛbɛn 58 ka kuma min Commission ye kalan, o b'a jira ko mɔgɔ min bɛ sɔgɔsɔgɔ, o bɛ dimansi ka yɛrɛyɛrɛ ka dɔgɛ 20% ka kɔ. Kɛlɛ bɔ mɔgɔ min tɛ sɔgɔsɔgɔ kosɛbɛ ni mɔgɔ min bɛ sɔgɔsɔgɔ dɔ bɛ kɛ, o de ye kɛlɛ ka bon ka ca.
+- **Sɔgɔsɔgɔ tɛ ka bɛn kɛnɛ kan ɲɛ kelen.** Commission b'a fɔ ko mɔgɔ min tɛ sɔgɔsɔgɔ, o bɛ se ka dimansi sɔrɔ. A b'a fɔ fosɔ ko dimansi ka hakili ka yɛrɛyɛrɛ fɔlɔfɔlɔ, min bɛ kɛ san caman ɲɔgɔn na sani a bɛ jaabi, o bɛ se ka mɔgɔ ka sɔgɔsɔgɔ ka dɔgɛ.
+- **Kalan kɔrɔw tɛ ɲɛ kosɛbɛ.** Kalan kelen kɔnɔ, mɔgɔ 945 min bɛ san 78 kɔrɔ, u y'a kan sɔgɔsɔgɔ min bɛ kɛ dɔ-dɔ-dɔ kalan ye san 5 kɔnɔ, walima u y'a kan mɔgɔ kɔrɔw ye. San 5 tɛmɛnen na, hakili ka yɛrɛyɛrɛ tɛ ɲɛ kosɛbɛ u ce. Mɔgɔ caman min bɛ mɔgɔ kɔrɔw ye, u bɛ sɔgɔsɔgɔ fosɔ, o de kosɔn kalan in tɛ dɔn ka fɛn.
 
-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) b’a fɔ ka kɛ kumaden ye. Sɛgɛsɛgɛ ni Alzheimer ka ɲɛmaya tɛ jira kosɛbɛ, ani sɛbɛn tɛ to ko sɛgɛsɛgɛ bɛ ɲɛmaya walima bɛ a ka ɲɛgɛn. Sɛgɛsɛgɛ bɛ kɛ ka ɲɛ ka bɔ sɛgɛn la, dɔ ka dusukun dɔgɔ, ka sukari, ka tansiyɔn ani ka dusukun tɛɲɛ. Fɛn dɔw minnu, u ka ɲɛmaya bɛ kɛ ka ɲɛnɛma.
+[Amerikɛ ka Hakilina Ka Kalan Kɔnɔ Kɔnɔtigi (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) b'a fɔ kɔrɔfɛ ye. Sɔgɔsɔgɔ ni Alzheimer ka ɲɛfɛ ka kan, tɛ jirali sɔrɔ kɛlɛ kɔnɔ, ani kalan kɔrɔw tɛ to ko sɔgɔsɔgɔ bɛ dimansi ka ɲɛfɛ walima ka dɔgɛ. Nka sɔgɔsɔgɔ bɛ kɛ ɲɛnɛmaya ka ɲɛ ko sɔrɔ, ko ba, ko sukari, ko tansiyɔn, ani ko sɛnɛ kɔfɛ. Ɲɛnɛmaya nin dɔw bɛ ka ɲɛ ni hakilina ka yɛrɛyɛrɛ ye.
 
-Kuma ɲɔgɔn ye nin ye: sɛgɛsɛgɛ kɛ bɔ ka ɲɛ ka ɲɛ bi, ka ɲɛ ka ɲɛ ka ɲɛ bi. Hakili ka ɲɛ, o ye bonus ye, a tɛ ɛdɛ ye.
+Kɔrɔfɛ ye nin ye: sɔgɔsɔgɔ ka kɛ aw ka ɲɛnɛmaya bonya bi, ka aw ka kɛ ka ɲɛ. Hakili ka ɲɛnɛmaya dɔ bɛ se ka kɛ ɲɛnɛmaya dɔ ye, nka tɛ ɲɛdɔn.
 
-## Mɔgɔ kɔrɔba ka sɛgɛsɛgɛ ka tɛmɛsira ye joɲɔgɔn?
+## Mun ye sɔgɔsɔgɔ ka jɛya san 65 kɔrɔ mɔgɔ kɔrɔw ye?
 
-[CDC ka laadɔ mɔgɔ minnu bɛ 65 san ni o ka kɔfɛ kɔnɔ](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) b’a fɔ sɛgɛsɛgɛ siɲɛ saba don kelen kɔnɔ:
+[CDC ka kɔrɔfɔ san 65 kɔrɔ mɔgɔ kɔrɔw ye](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) b'a fɔ ko sɔgɔsɔgɔ ni ɲɛ sɔgɔsɔgɔ ye sɔgɔsɔgɔ saba ye dɔrɔn dɔ kɔnɔ kɔ dɔ:
 
-| Siɲɛ | Don kɔnɔ ka tɛmɛsira | Misali |
+| Sɔrɔ | Dɔrɔn kɔnɔ kɔ dɔ | Misaliw |
 | --- | --- | --- |
-| Aerobic | Ntɔ 150 minits ka sɛgɛsɛgɛ fitinin, i ko minits 30 don 5 kɔnɔ | Sɛgɛn ka bɔ, sɔgɔsɔgɔ, ji kɔnɔ sɛgɛsɛgɛ |
-| Nɔgɔn ka sɛgɛsɛgɛ | Ntɔ don 2, ka kɛ dɔ bɛɛ ka nɔgɔn | Kɛnɛ ni bɔlɔ ka bɔ, ka bɛlɛbɛlɛ |
-| Sigi kan | Ka kɛ ka dɔ | Sɛgɛn kɔnɔ tilen kɔnɔ, ka sigi bɔ fɛ |
+| Sɔgɔsɔgɔ min bɛ ɲɛ fɛn | Dɔrɔn 150 ɲɛgɛn dɔ, i ko 30 kɔrɔ san 5 kɔnɔ | Tɛrɛ ɲɛ, dansa, ji kɔnɔ sɔgɔsɔgɔ |
+| Sigi ka fanga | Dɔrɔn 2 kɔrɔ, ka kɛ ni sɛgɛn bɛɛ ye | Ɲɛ fanga ni ŋɔnɔ fili, ni sɛɛnɛ ni ka kɛ kɛnɛ |
+| Sooɲɛ ka taa | Ka taa ɲɛ | Ka taa ka tɛrɛ ni kɔfɛ sɔgɔ, ka wuli sigilen na |
 
-Nin ye kɛlɛ ɲɛnɔgɔ ye, a tɛ kɛ dɔ ye min bɛ ka gɛlɛya ka tɛ. CDC b’a fɔ ko, ni i tɛ se ka nin kɛ, i ka kɛ sɛgɛsɛgɛ i ka kɛlɛ ni i ka dusukun ka se ma. Sɛgɛsɛgɛ dɔ ka ɲɛ ka tɛ sɛgɛsɛgɛ kɛ.
+Nin ye ɲɛnɛmaya ye, tɛ ka tɛ ɲɛnɛmaya dɔ ye. CDC b'a fɔ ko, ni aw tɛ se ka u bɛɛ kɛ, aw ka sɔgɔsɔgɔ ka kɛ aw bɛ se ka kɛ ni aw ka fanga ni aw ka dɔnkili ye. Sɔgɔsɔgɔ dɔ bɛ ɲɛ ko sɔgɔsɔgɔ tɛ yen.
 
-## Mɔgɔ kɔrɔba ka sɛgɛsɛgɛ jumɛn ye min bɛ kɛ kɛnɛya?
+## Mɔgɔ kɔrɔw ka sɔgɔsɔgɔ ka cogo ɲɛnɛ
 
-- **Sɛgɛn ni mɔgɔ dɔ.** Sɛgɛn don o don ni teri, dugu mɔgɔ walima sɛgɛn kɔnɔ ye, o bɛ kuma ni nisɔndiya bonya.
-- **Sigi kan sɛgɛsɛgɛ.** Sigi kan ka bɔlɔ ka bɔ, ka ɲɛ tilen, ka sɛgɛn kɔnɔ ni sigi kan yoga bɛ nɔgɔn kɛ ni gɛlɛya tɛ.
-- **Dɔ kɛ sɛgɛsɛgɛ kɔnɔ.** Kɛ musiki min bɛ ɲɛ ka ɲɛ ka kɛ san 10 ni 20 kɔfɛ, ka kɛnɛ, ka tɔ, walima ka kɛ sɛgɛsɛgɛ. [Musiki kɛlɛ ka ɲɛnɔgɔya](/activities/music/) bɛ kɛ ɲɛ ka laadɔ.
-- **Nɔgɔn ni fɛn sigilen ye.** Ji fɛrɛw walima sogokɛlɛ fɛrɛw bɔ ni i ka ɲɛ kɛ, k’a sɔrɔ i bɛ kɛ ka ɲɛ ni dɔ dɔ kɔnɔ.
-- **Kɛ bagɛ kɛ walima ka kɛlɛ kɛ.** Ji fa, ɲɔ kɛ, sinɛ ni ka sɔgɔ ka nɔgɔn. Aw k’a ɲɛ kɛ [dugu kɛlɛ ni bagɛ kɛlɛ](/activities/outdoor-and-gardening/) ni [so kɛlɛ](/activities/household-tasks/).
-- **Ji kɔnɔ sɛgɛsɛgɛ.** NIA b’a fɔ ko ji kɔnɔ sɛgɛsɛgɛ bɛ kɛ dɔ ye mɔgɔ minnu bɛ gɛlɛ ka sɛgɛsɛgɛ kɛ dugu kan.
+- **Tɛrɛ ɲɛ ni mɔgɔ dɔ ye.** Tɛrɛ ɲɛ ni teri, ni dugukolo kɔnɔ mɔgɔ, walima ni tɛrɛ sɔgɔsɔgɔ kɔnɔ mɔgɔw ye, o bɛ kɛ kumakan ni sigi ye.
+- **Sigilen ka sɔgɔsɔgɔ.** Sigilen ka ɲɛ ka ɲɛ kɛnɛ, ka ɲɛ kɛ kɛnɛ ni ɲɛnɛ, ka tɛrɛ ka kɛ ka dɔrɔn ka sɔgɔ, ka ka sigi ka kɛ kɛnɛ ni ɲɛnɛ.
+- **Dansa ka kɛ kɔnɛ kɔnɔ.** Ka dɔ ka dunɛ ka kɛ mɔgɔ ka dɔnkili ni ɲɛnɛ, ka sɔgɔsɔgɔ ka kɛ ni ŋɔnɔ ye. [Dunɛ ka sɔgɔsɔgɔ kɔnɔ kalan](/activities/music/) bɛ kuma caman di.
+- **Fanga ni tigɛ ka fɛnw.** Ji mugu fili ni ɲɛ sɔgɔsɔgɔ, walima ni ka dunɛ kɔnɔ kalan ka kɛ ni ka kɛ fɛnw ka kɛlɛ ye.
+- **Kɔnɔ ka ɲɛ walima kɛ wulɔ.** Ji di ka kɛ, ka mɛn, ka kɔnɔ kɛ, ka donnaw sɛgɛ, o bɛɛ bɛ kɛ sɔgɔsɔgɔ ye. Ka ɲɛ [dugukolo ni ɲɛ kɛlɛw](/activities/outdoor-and-gardening/) ani [so kɛlɛw](/activities/household-tasks/) kan.
+- **Ji kɔnɔ sɔgɔsɔgɔ.** NIA b'a fɔ ko ji kɔnɔ sɔgɔsɔgɔ ye sɔgɔsɔgɔ ye min bɛ se ka kɛ mɔgɔ min bɛ sɛn ka tɛmɛ dugukolo kan.
 
-## Dementia la mɔgɔ ni sɛgɛsɛgɛ ka kɛlɛ
+## Cogo min na ka sɔgɔsɔgɔ ni dimansi ka mɔgɔ ye
 
-Dementia la mɔgɔ kama, o ka ɲɛ ye ka ɲɛ, ka nisɔndiya, ani ka kɛlɛ min bɛ kɛ ka ɲɛ ka sɔrɔ, o ye ka sɛgɛsɛgɛ jumɛn ye ka kɛ ka ɲɛ. NIA b’a fɔ ko sɛgɛsɛgɛ bɛ dɛmɛ ka sogo, ka kɛnɛya ni dusukun ka ɲɛ, ani a bɛ se ka dormɔgɔya ni nɔgɔn ka ɲɛ fana. A ka ɲɛ ka dɔktɔrɛ ka laadɔ sani kɛlɛ kura kɛ. Ɲɛfɔ min bɛ bɔ [NIA ka sɛgɛsɛgɛ laadɔ kɔnɔ](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) bɛ nin ye:
+Dimansi ka mɔgɔ kosɔn, kɛlɛ ye hɛrɛ ni dusukun ni sɔgɔsɔgɔ bɛɛ ye, tɛ ka jɛya ka ɲɛ. NIA b'a fɔ ko sɔgɔsɔgɔ b'a dɛmɛ ka mɔgɔ ka sɛgɛn, ka kɔnɔ ni dusukun ni ŋɔnɔ ɲɛnɛmaya, ani ka hinɛ ni sigi ka ɲɛ. Aw ka dɔktɔrɛ ye sɔgɔsɔgɔ kura ka taa ɲɛ. Kalan kɔnɔ tɔw ka ɲɛnɛ tɔw, [NIA ka ɲɛdɛfɛnw kalan kɔnɔ](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) bɛ kɛ nin ye:
 
-1. **Sɛgɛn ni mɔgɔ dɔ don o don.** Sɛgɛn sira ka ɲɛ, min tɛ fɛn kɔnɔ. Ni mɔgɔ bɛ sɛgɛn ɲɔgɔn tɛ, aw ka ɲɛ ka kɛ sɛgɛn ni aw ka telefɔn nimɛrɔ bɛ bɛlɛkɛ kɔnɔ.
-2. **Sɛgɛsɛgɛ video kɛ mɔgɔ kɔrɔba ye.** Aw ni u ɲɔgɔn ka kɛ, sigi kan walima ka sɛgɛn.
-3. **Sɛgɛsɛgɛ ka tɛmɛ kɛ dɔgɔ.** Sɛgɛsɛgɛ dɔgɔ caman bɛ se ka ɲɛ ka tɛmɛ kɛ dɔ kelen kɔrɔ.
-4. **Musiki don.** Dɔ min bɛ ɲɛ ka ɲɛ, o bɛ sɛgɛsɛgɛ kɛ kɛlɛ ye, kɛlɛ dɔ ye tɛ. Ni mɔgɔ bɛ ɲɛ ka tɔ, aw ka tɔ.
-5. **Ji ni kɛnɛ kɔrɔ sɛbɛn.** Aw ka ji walima jus di a ma sɛgɛsɛgɛ kɔnɔ ni a kɔfɛ, ka kɛnɛ kɔrɔ ni sɛgɛsɛgɛ kɔrɔ dɔ kɛ.
+1. **Tɛrɛ ɲɛ ni mɔgɔ dɔ ye don o don.** Sugandi tɛrɛ min bɛ ɲɛnɛma, min tɛ ka ca, ka ɲɛ. Ni mɔgɔ tɛrɛ ka kɛ dɔrɔn, a sɛnɛ ka kɛ ni tɛlɛfɔn nɔmɔrɔ bɛ dɛ ka ɲɛ.
+2. **Ka ɲɛnɛmaya kalan ka bɔ ka kɛ ni sɔgɔsɔgɔ ye.** Ka ɲɛ ni u kɔ, sigilen walima tɛrɛ.
+3. **Ka sɔgɔsɔgɔ ka kɛ dɔgɔ.** "Sɔgɔsɔgɔ" dɔgɔ caman bɛ ɲɛ ka tɛmɛ sɔgɔsɔgɔ kɔnɔ dɔ kan.
+4. **Dunɛ ɲɛ.** Dunɛ min ka dɔnkili, o bɛ sɔgɔsɔgɔ ka kɛ kɛnɛ ye, tɛ ka kɛ baara ye. Ni mɔgɔ bɛ sɔgɔsɔgɔ ni dunɛ ye, o bɛ se ka dansa.
+5. **Ji ni sɔgɔsɔgɔ kɔ labɛnni.** Ji walima jus di sɔgɔsɔgɔ kɔnɔ ni a kɔfɛ, ani ka labɛnni sɔgɔsɔgɔ ka kɔnɔ ni sɔgɔsɔgɔ kɔ kɔ ye.
 
-Ni sɛgɛn ka gɛlɛ, [NIA ka laadɔ dementia la mɔgɔ ka kɛlɛ kan](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) b’a fɔ sigi kan sɛgɛsɛgɛ. Olu ye sigi kan sɛgɛsɛgɛ walima yoga, bɛlɛbɛlɛ ka bɔ, bɔlɔ walima bɔlɔ ka bɔ, sɔgɔsɔgɔ ka bɛlɛbɛlɛ, ɲɛ kɛlɛ ni fɛn fɛrɛw dɔ bɔ, ani pedali sɛgɛsɛgɛ. Ka sɔgɔ ni ka bɛ ka sɛbɛn, olu fana bɛ kɛ kɛlɛ ye.
+Ni tɛrɛ ka kɛ ɲɛnɛ, [NIA ka kalan Alzheimer ka mɔgɔ ka ɲɛdɛfɛ kan](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) b'a fɔ ko sigilen sɔgɔsɔgɔ bɛ kɛ. Nin ye sigilen sɔgɔsɔgɔ ni yoga, ka bɔlɔn bɔ, ka teri walima ballɔn bɔ, ka ɲɛ fanga ka ban, ani ka sɔgɔ ni pedal. Sɔgɔsɔgɔ fɛnw bɛɛ, i ko sɛgɛ ni ɲɛ sɛgɛ, bɛ kɛ sɔgɔsɔgɔ ye.
 
-Sɛgɛsɛgɛ ka kɛlɛ, aw ka ɲɛ ka dɔnniya ka sɔrɔ. Lancet Commission ma dɔnniya sɔrɔ ko sɛgɛsɛgɛ bɛ kɛ dɔ ka hakili ka ɲɛ, i ko dɔ ka kɛlɛ ka ɲɛ. Aw ka sɛgɛsɛgɛ ka kɛ ka ɲɛ, aw ka ɲɛ ka ɲɛ, ka tɛ kɛ kɛlɛ ka ɲɛ waati gɛlɛn kɛ kɔnɔ. Ni mɔgɔ b’a fɔ ko ɔwɔ tɛ, o ka ɲɛ. Aw ka ɲɛ ka [kɛlɛ min bɛ kɛ ni a b’a fɔ ko ɔwɔ tɛ](/caregiving/when-they-say-no/) ka dɔnniya ka sɔrɔ ka ɲɛ waati wɛrɛ la. Sɛgɛsɛgɛ ka tɛmɛ ni sigi kan, walima aw sigi bagɛ kɔnɔ ɲɔgɔn ni, o fana ye ɲɛ ye.
+Aw ka ɲɛ ka kɛ kɛnɛ ni ɲɛnɛ. Lancet Commission ma sɛbɛn sɔrɔ ko sɔgɔsɔgɔ bɛ kɛ dimansi ka ɲɛ sigidenw ka yɛrɛ wɛrɛ ye, i ko ko sɔgɔsɔgɔ bɛ ɲɛ ka sɔgɔsɔgɔ. Aw ka sɔgɔsɔgɔ ka kɛ ni aw bɛ se ka kɛ ni ɲɛ ye, tɛ ka kɛ ni kɛlɛ ka kɛ ni ɲɛnɛma ye. Ni mɔgɔ b'a fɔ ko "ɔɔ, ayi", o ka ɲɛ. [Ni u b'a fɔ ko ayi, o kan](/caregiving/when-they-say-no/) bɛ ɲɛnɛma caman di ka ɲɛ kɔfɛ. Ka sɔgɔsɔgɔ ka kɔ ka ɲɛ, walima ka sigi ni aw ye dugukolo kan, o bɛ kɛ ɲɛfɛ ye.
 
-Sɛgɛsɛgɛ ka tɔ, [Calm Breathing](/games/calm-breathing/) bɛ dɛmɛ aw ka hakili ka ɲɛ ka sigi. Sigi kan kɛlɛ min bɛ kɛ ni bolo ka ɲɛ, [Sort Together](/games/sort-together/) ni [Picture Bingo](/games/picture-bingo/) ka ɲɛ ka kɛ tabali kan.
+Sɔgɔsɔgɔ kɔfɛ, sɛgɛn ɲɔgɔn ye, i ko [Calm Breathing](/games/calm-breathing/), o bɛ dɛmɛ ka aw ka sigi. Sigilen sɔgɔsɔgɔ min bɛ kɛ ni bolo ye, [Sort Together](/games/sort-together/) ni [Picture Bingo](/games/picture-bingo/) bɛ kɛ ɲɛ tabali kan.
 
-## Ka bɔ ni bolo ka sɛgɛsɛgɛ fɛ
+## Sɔgɔsɔgɔ ni sigi ka labɛnni
 
-Bɔ bɛ kɛ kɛlɛ dɔ ye min bɛ kɛ kosɛbɛ, a bɛ kɛ ka gɛlɛ. [CDC ka laadɔ](https://www.cdc.gov/falls/data-research/facts-stats/index.html) b’a fɔ ko mɔgɔ kɔrɔba 4 kɔnɔ 1 ka ɲɛ, san kelen kɔnɔ, bɛ bɔ. Nka mɔgɔ dɔ tɛ dɔktɔrɛ ye o kan. Bɔ kelen bɛ kɛ ka ɲɛ ka ɲɛ, ka kɛ ka bɔ dɔ tɛmɛn. Kɛlɛ min CDC b’a jira ka bɔ kɔnɔ, olu ye nin ye:
+Bɔ bɛ kɛ caman, ani bɛ kɛ kɛlɛ. [CDC ka kalan](https://www.cdc.gov/falls/data-research/facts-stats/index.html) b'a jira ko san kelen kɔnɔ, san 65 kɔrɔ mɔgɔ dɔ bɛ bɔ, nka mɔgɔ tɛ caman bɛ dɔktɔrɛ fɔ. Bɔ kelen bɛ kɛ ka mɔgɔ bɔ kɔfɛ tɔ. Sababu kɔrɔw min CDC y'a fɔ:
 
-- Sɛnɛ ni dɔ ka sɛgɛn gɛlɛya
-- Sɛgɛn ni hakili ka ɲɛ gɛlɛya
-- Dawa dɔw, o kɔnɔ sɛɲɛ dawa ni dimi dawa dɔw
-- Ɲɛ ka gɛlɛya
-- Sɛnɛ ka dimi, walima sɛnɛkɛ ka ɲɛ
-- So kɔnɔ fɛn min bɛ mɔgɔ bɔ, i ko fɛn caman, sɛnɛ ka kɔnɔ ni a ka bɔ
+- Ɲɛ ni kɔnɔ fanga ka dɔgɛ
+- Tɛrɛ ni sigi ka kɛlɛ
+- Dawolo dɔw, o kɔnɔ kɔ sɔrɔ ni sigi kɔrɔ, ani ni hɛɛrɛ dɔw
+- Ɲɛ ka ɲɛfɛ kɛlɛ
+- Ɲɔgɔn ka kɛlɛ, walima ka sɛgɛ tɛ ɲɛ
+- So kɔnɔ kɛlɛw, i ko fɛnw ka caya, sɛgɛ ka kɛ, ani fɛn ka tɛ kɛ
 
-Ka sɛgɛsɛgɛ kɛ ka ɲɛ:
+Sɔgɔsɔgɔ ni labɛnni kɔnɔ:
 
-- **Kɛ sigi ka ɲɛ ni a kɔrɔ tɛ.** Sigi min tɛ kɔrɔ, ka tɛ kɔrɔ ni a ka ɲɛ ni a ka ɲɛ bɛ kɛ.
-- **Ka fɛn min bɛ mɔgɔ bɔ, o bɔ.** Tapis, sinɛ ni fɛn wɛrɛ bɔ, ka fɛn caman bɔ.
-- **Ka sɛgɛn ni ka sigi, ka ɲɛ kɛ dɔgɔ.** Ni mɔgɔ bɛ kɔrɔ walima a bɛ dɔgɔ, ka sɛgɛsɛgɛ ɲɛ.
-- **Sɛnɛ ka kɛnɛ ni sɛnɛ bɔ.** Kɛnɛ ni sɛnɛ tɛ kɛnɛ nɔgɔya.
-- **Sɛgɛsɛgɛ kɛ ni ɲɛ kɔrɔ.** Sigi kan ka sɛgɛn, ni sɛnɛ bɛ kɛ kɔrɔ, o bɛ kɛ ka ɲɛ. CDC b’a fɔ ko nin ye nɔgɔn kɛlɛ misali ye.
+- **Sigi ni sigi kɔrɔ ni fanga bɛ.** Sigi min tɛ kɛ ni tɛrɛ ye, ani ka dɔ kɔrɔ walima ka ɲɛ sigilen sɔgɔsɔgɔ kɔnɔ.
+- **Ka sugandi ka tɛ sɛgɛ ka dɔrɔn.** Fɛnw ka kɛlɛ ni tɛ bɔ, i ko fɛnw, tɛrɛ, walima teriw.
+- **Ka wuli ka dɔrɔn ni sigi.** Ni mɔgɔ bɛ bɔ, walima a bɛ ɲɛ kɔrɔ ni kɔ ye, ka sɔgɔsɔgɔ ka tɛ kɛ.
+- **Ka kɔnɔfɛn ka bɛn ɲɛ.** Ka taa ka ɲɛ kɛ ni sigi ye, tɛ ka ɲɛ kɛ ni bantan ka fɛn ye.
+- **Ka sɔgɔsɔgɔ ka kɛ ni ɲɛ ka kɛ kɔfɛ.** Sigi ka wuli sigilen na, ka tɛrɛ ka kɛ kɛnɛ ni ɲɛ ye, o bɛ ɲɛ CDC ka sigi sɔgɔsɔgɔ ka misali ye.
 
-CDC b’a fɔ ko mɔgɔ kɔrɔba min bɔra ka kɛ ni a kɔrɔ, o ka ɲɛ ka dɔktɔrɛ ka laadɔ sani kɛlɛ kura kɛ, kosɛbɛ ni a bɛ dawa minnu bɛ kɛ kɛnɛ ye.
+CDC b'a fɔ ko mɔgɔ min bɔ ka ka kɔnɔ kɛ, o bɛ kɛ dɔktɔrɛ ye ka taa ɲɛ, a sɔrɔ ni a bɛ kɛ dɔgɔ ye, ani ni a bɛ dawolo ni jɔ min bɛ kɛ ɲɛ, o ka mɔgɔ ye.
 
-## Dɔktɔrɛ ka laadɔ
+## Dɔktɔrɛ ni kumaw
 
-A ka ɲɛ ka dɔktɔrɛ ka laadɔ sani sɛgɛsɛgɛ kɛlɛ kura kɛ, kosɛbɛ mɔgɔ min bɛ dusukun walima ɲɛ ka gɛlɛya, sɛnɛ ka dimi, nɔgɔn ka gɛlɛya walima dementia. Dɔktɔrɛ walima kinɛsitɛrapi ka ɲɛ, o bɛ se ka sɛgɛsɛgɛ jumɛn ye min ka ɲɛ, ani a bɛ se ka ɲɛ ka dawa minnu bɛ nɔgɔn kɛ. Aw ka bɔ kɔnɔ fɛn o fɛn, o hali ni tɛ dimi kɛ, a ka dɔktɔrɛ ka ɲɛ. Sɛgɛsɛgɛ kɔnɔ fɛn min bɛ dimi walima a bɛ ɲɛ kɛ dɔgɔ, aw ka sɛgɛsɛgɛ bɔ. Ni dusukun dimi bɛ kɛ dɔ, ni sɛgɛsɛgɛ bɛ kɛ gɛlɛ, walima hakili bɛ kɛ dɔ dɔrɔn, aw ka ɲɛ ka wele ka "15" wele Mali la, walima aw ka ɲɛmɔgɔ ka wajibiyako nimɛrɔ.
+Aw ka dɔktɔrɛ ye sɔgɔsɔgɔ kura ka taa ɲɛ, kɔrɔfɛ ni mɔgɔ min bɛ dusukun walima ŋɔnɔ ka bana, walima ɲɛ bɛ ka kɛlɛ, walima sigi ka kɛlɛ, walima dimansi ka mɔgɔ ye. Dɔktɔrɛ walima sɔgɔsɔgɔ dɔktɔrɛ bɛ se ka sɔgɔsɔgɔ ka jɛya kɔfɛ fɔ, ka a jaabi ni dawolo bɛ sigi ka kɛlɛ wa. Ka bɔ kɛ bɔ, hali ni a tɛ kɛ kɔlɔsi ye, o kan ka aw ka dɔktɔrɛ fɔ. Ni sɔgɔsɔgɔ kɔnɔ fɛn dɔ bɛ kɛ kɔlɔsi walima ka kɛlɛ, ka sɔgɔsɔgɔ ka tɛ. Ni kɔnɔ kɛ kɛnɛ dɔgɔ ka kɛ, ni sɛgɛ ka kɛlɛ ka kɛ, walima hakili ka kɛlɛ ka kɛ kɛnɛ, wele 15.
 
-Nin ye dɔnniya ye, a tɛ dɔktɔrɛ ka ɲɛfɔ ye. Ɲɛ ka [dɔktɔrɛ ka ɲɛfɔ kɔrɔ](/medical-disclaimer/). Dementia kan sɛbɛn caman kɛ, aw ka [dementia ka kɛlɛ dɔnniya](/brain-health/risk-factors/) ni [dementia ka ɲɛmaya](/brain-health/can-dementia-be-prevented/) ka ɲɛ.
+Nin kɔrɔfɔ ye kumakan kɔrɔ ye, tɛ dɔktɔrɛ ka kuma ye. A kɔnɔ [ka kɔrɔfɔ ka ɲɛ ye ɲɛnɛ](/medical-disclaimer/) ɲɛ. Ni aw b'a fɛ ka kɔrɔfɛ ka ɲɛ kɔnɔ, aw ka [sɛbɛn min b'a fɔ ko dimansi ka ɲɛfɛnw bɛ kɛ cogo di](/brain-health/risk-factors/) ni [dimansi bɛ se ka dɔgɛ wa](/brain-health/can-dementia-be-prevented/) ka kalan.

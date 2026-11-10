@@ -1,34 +1,34 @@
 ---
-title: "Gemes Finisim Ol Toktok for Ol Olfala wetem Dementia"
-seoTitle: "Finisim ol Toktok: Gemes for Ol Olfala wetem Dementia"
-description: "Gemes blong finisim ol toktok for ol olfala wetem dementia: pleim wetem ol toktok we oli save, givim joues, no mekem test, mo jenisim rong ansa i kam toktok."
+title: "Gem blong Finishim Ol Tok Blong Olfala wetem Dementia"
+seoTitle: "Gem Finishim Ol Tok blong Olfala wetem Dementia"
+description: "Gem blong finishim tok mo proverb blong olfala wetem dementia: hao blong pleiem wetem ol tok we oli fes long olgeta, givim jjoes, no mekem test, mo tanem wan rong ansa i kam wan gud toktok."
 section: activities
 order: 23
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Gemes blong finisim ol toktok i ridim wan toktok we oli save long hem, mo oli
-  stopem long las wod, olsem "Yu no kaontem ol kakae blong yu bifo oli kam
-  aot..." Man o meri i fulumapem en blong toktok, o i jusum wan long tu o tri
-  en we yu givim. Yusum ol toktok we man i bin grow wetem, givim joues, mo
-  luksave se eni ansa i gud blong statem wan toktok, no blong korektem. Golden
-  Moments i gat wan gem blong finisim ol toktok we i fri, we yu save pleim long
-  tablet o kompiuta.
+  Gem finishim tok i ridim wan fes tok we oli save long hem, mo i stopem bifo
+  long las wod, olsem "Yu no ken kaontem ol kok bifo oli hatjem..." Man o woman
+  we yu stap hepem i fulap long lastwod, o i jusum wan long tu o tri jjoes. Yusum
+  ol tok we man i bin harem taem hem i yang, givim jjoes, mo tanem eni ansa i kam
+  olsem wan gud stat blong wan toktok, no olsem wan ansa we i rong o i stret.
+  Golden Moments i gat wan fri gem finishim tok we yu save pleiem long tablet o
+  kompiuta.
 keyPoints:
-  - "Yusum ol toktok from laef mo kastom blong man, mo givim joues blong en taem ol open ansa i hard blong hem."
-  - "Talem fas pat slow, stopem, mo wet. No fulumapem wod kwik, mo no kwestinem man."
-  - "Tekem eni ansa olsem wan gud statem. Talem 'Hemia i gud wan' mo toktok long hem, no korektem."
-  - "Ol proveb i save i abstrak. Stap long ol toktok we i plen mo i save gud, long ol man we oli stap long middle mo las stej."
-  - "Stopem taem intres i dae. Faev to ten minit blong ol toktok i wan fulfol mo gud sesen."
+  - "Yusum tok blong laef blong man mo kastom blong hem, mo givim jjoes long ol lastwod if ansa we i opin i hard long hem."
+  - "Talem fas hafwan i slow, stopem, mo wetem. No faslem fulumap wod, mo no mekem kwestin."
+  - "Tanem eni ansa i kam olsem wan gud stat. Talem 'Hemia i wan gud wan' mo toktok long hem, no korektem."
+  - "Proverb i save hard. Stap long ol plen mo ol tok we i fes long olgeta blong ol man long midol mo laswan stej."
+  - "Stopem taem intres i wikdaon. Faev i kasem ten minit blong ol tok i wan ful mo gud sesen."
 faq:
-  - q: "Wanem gem blong finisim ol toktok long dementia?"
-    a: "Hemia wan gem we i ridim wan toktok we man i save long hem, i go kasem las wod, mo i askem man blong finisim. Man save talem en aloud, pointem long wan joues, o i jas enjoem blong herem toktok. Golden Moments i gat wan fri vesen we i soem joues long skrin mo i opnem en blong ansa isi."
-  - q: "Etest blong rimemba i wan finisim ol toktok?"
-    a: "I save kam olsem wan test sapos yu raonem olsem kwiz. Pleim olsem wan sea mo relaks moment, givim joues, skipem eni ansa we i mekem man i sore, mo nevarem soem skoa. Mein blong hem i blong enjoem mo blong toktok tugeta."
-  - q: "Wanem ol toktok i wekem gud long ol olfala wetem dementia?"
-    a: "Ol soat toktok we oli save long ol dei blong laef i wekem gud: toktok long wea, long kitin mo haos, mo long famili o ol seson. Ol toktok from taem man i yangfala oli isi blong oli rikognaez. Lusum ol proveb we oli no klia, from oli save konfius."
-  - q: "Wanem sapos man i givim wan narafala en?"
-    a: "Akseptem en wetem fren, mo askem hem wanem i minim long hem. Plante man i givim wan narafala be i gud, o wan from wan narafala toktok. Yusum en olsem wan rod blong statem toktok long laef blong hem."
+  - q: "Wanem nao gem finishim tok blong dementia?"
+    a: "Hemi wan gem we i ridim wan fes tok i kasem long las wod, afta i askem man blong finishim. Man i save talem lastwod i aot, poentem long wan jjoes, o jus harem tok ya i plesem hem. Golden Moments i gat wan fri vjen we i soem jjoes long skrin mo i soem lastwod isi isi."
+  - q: "Eniwe finishim tok i wan test blong memori?"
+    a: "I save kam olsem wan test sapos yu ranem olsem kwis. Pleiem long wan fren mo isi fasin, givim jjoes, lusim eni kwestin we i mekem man i strong, mo nating soem skor. Samting we yu wantem i enjoyment mo toktok."
+  - q: "Wanem ol tok we i gud long olfala wetem dementia?"
+    a: "Ol sot tok we oli fes mo oli gat wod we i isi, long laef blong ol de, i gud moa: tingting blong wedha, kitchen mo haos, o tingting long famle mo ol sisen. Ol tok blong yang taem blong man ofen i isi moa blong hem i save. Lusim ol proverb we oli no save, bikos oli save mekem man i konfiusum."
+  - q: "Wanem if man i givim wan narafala lastwod?"
+    a: "Akseptem hem wetem gud fasin mo askem wanem i minim long hem. Plenti man i givim wan narafala lastwod we i stret, o wan we i kam long narafala tok. Yusum hem olsem wan rod blong stat toktok long laef blong hem."
 sources:
   - title: "Communicating With a Person Who Has Alzheimer's Disease: Do's and Don'ts"
     publisher: "National Institute on Aging"
@@ -47,49 +47,51 @@ related: [activities/trivia, activities/reminiscence-questions, activities/memor
 health: false
 ---
 
-Gem blong finisim ol toktok i yusum wan famili toktok we i stopem klosap long las wod blong hem. Long plante man, hemia i wan gud fasin blong serem wan moment, we i no presa. Gemes ia i wok, from ol toktok oli olfala mo oli save gud, mo man ia i no nidim blong rimemba eni samting long dei ia. Gaed ia i eksplenem hao blong pleim, hao blong jusum ol toktok, mo hao blong kipim i stap relaks.
+Wan gem finishim tok i yusum wan fes tok we i stop jis bifo long las wod blong hem. Long plenti man, hemia i wan gud, isi fasin blong sherem wan taem. Gem ya i wok bikos ol wod oli olfala mo oli save gud, mo man i no nidim blong rimembah eni samting long dei ya. Dokumen ya i eksplenem hao blong pleiem, hao blong jusum ol tok, mo hao blong kipim hem isi.
 
-## Wanem gem blong finisim ol toktok?
+## Wanem nao gem finishim tok?
 
-Hemia i wan sot gem we wan man i ridim fas pat blong wan toktok, mo narafala i fulumapem en. Ol eksampol i olsem "Ol aksen i moa strong..." mo "Man we i kirap ero i kasem..." Man ia save talem en aloud, pointem long en, o jusum long tu o tri en we yu givim. Sam man oli enjoem blong oni talem fas haf.
+Hemi wan sot gem we wan man i ridim fas paet blong wan tok, mo narafala i finishim lastpaet. Ol eksampel i olsem "Ol wok blong yu i moa strong long taem blong..." mo "Man we i kirap ero i kasem..." Man i save talem lastpaet i aot, poentem long hem, o jusum long tu o tri jjoes we yu givim. Sam man oli enjoy blong man we i ridim fas paet.
 
-Golden Moments i ofarem hemia olsem [wan fri gem blong finisim ol toktok](/games/finish-the-saying/) wetem bigfala leta. Yu save pleim tu long ples we i no gat skrin, taem yu talem fas pat mo wet.
+Golden Moments i givim hem olsem [wan fri gem finishim tok](/games/finish-the-saying/) wetem bigfala leta. Yu save pleiem hem tu long без skrin, jis talem fas paet mo wetem.
 
-## Hao blong pleim, step long step
+## Hao blong pleiem, stap stap
 
-1. **Jusum wan kwaet taem** mo sidaon long level blong ae blong man, fes long fes.
-2. **Ridim fas pat slow,** long wan warm vois, mo stopem. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) i talem se yu save toktok slow mo yusum ol sinp, sotfala sentens.
-3. **Wet.** Givim sam sekan. Sapos i no gat eni ansa, ofarem tu o tri en, wan long hem i stret.
-4. **Save glad long eni ansa.** "Yes, hemia nao" o "Mi no bin tingting long hemia" i mekem samting i fren.
-5. **Toktok long toktok.** Askem wanem i minim long hem, o hem i harem long ples we. Hemia nao i gat gud valiu.
-6. **Stopem bifo oli taed.** Sam toktok mo wan lap i wan fulfol sesen.
+1. **Jusum wan kwaet taem** mo sidaon long level blong ae blong man.
+2. **Ridim fas paet isi isi,** long wan warm vois, mo stopem. Ofisi [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) i talem blong tok isi isi mo yusum ol sentens we oli sot mo isi.
+3. **Wetem.** Givim plante sekon. Sapos i no gat eni ansa, givim tu o tri jjoes, wan long hem i stret.
+4. **Selebretem eni ansa.** "Yes, hemia nao" o "Mi no bin tingting long hemia" i mekem hem i kam fren.
+5. **Toktok long tok ya.** Askem wanem nao i minim long hem, o wea i harem hem fastaem. Hemia nao i gat moa valiu.
+6. **Stopem bifo oli taed.** Sam tok mo wan lafa i wan fulap sesen.
 
-## Ofarem joues withaot kwestin
+## Givim jjoes, bat no mekem kwestin
 
-Ol joues long en blong toktok i save mekem gem i isi, be oli save mekem i olsem wan test sapos oli ofarem olsem wan jalenj. Kipim tone i laet. Talem "Yu laekem blong herem en o blong jusum wan?" i moa gud long "Hemia wanem?" Ofarem ol joues afta long wan pas, no bifo man i gat jans blong ansa.
+Ol jjoes long lastwod i save mekem gem i isi, bat tu oli save mekem i olsem wan test sapos yu givim olsem wan jalenj. Yusum wan lait tingting. Talem "Yu wantem harem lastwod o jusum wan?" i moa gud long "Hemia we i wat?" Givim ol jjoes afta wan pos, no bifo man i gat jans blong ansarem.
 
-Sapos man i sore o i sem, lusum gem ia mo go long narafala samting. Ol [toktok blong komunikesen](/caregiving/communication-tips/) i eksplenem hao blong jenisim rod withaot wan bigfala trabol.
+Sapos man i kros o i sem, lusum gem ya mo go long samting narafala. Ol [tip blong toktok](/caregiving/communication-tips/) oli eksplenem hao blong jenisim fasin we i no mekem bigfala trabel.
 
-## Jusum ol toktok we i sut long man
+## Jusum tok we i fitim man
 
-- **Yusum ol toktok blong man.** Askem famili wanem papa o mama, o man blong hem, i save talem olwes. Ol toktok from taem blong yangfala oli isi moa.
-- **Jusum ol sot, dei-dei toktok.** Ol toktok long wea, kitin, gaden, famili mo ol seson i komon mo isi blong folem.
-- **Kipim i plen.** Ol proveb we oli yusum ol olfala wod o wan lesen i save konfius. Sevem olgeta blong ol man we oli enjoem olgeta.
-- **Jekem langwis.** Plante idiom oli no save tanemaot long narafala langwis. Yusum ol toktok we man i save long langwis blong hem, even sapos yu mas faenem nyufala.
+- **Yusum ol tok blong man yet.** Askem famle wanem nao papa o mama, o man blong hem, i tokbaot oltaem. Tok blong yang taem oli isi moa blong rimembah.
+- **Pik ol sot tok blong ol de.** Tok long wedha, kitchen, garen, famle mo ol sisen oli kamon mo isi blong folem.
+- **Keepem i plen.** Proverb we i dipen long ol olfala wod o wan lesen i save konfiusum. Sevem olgeta long man we i enjoy olgeta.
+- **Jekem langwis.** Plante aedioms oli no save trenslet. Yusum ol tok we man i save long langwis blong hem, anda if yu nidim blong faenem nyu tok.
 
-## Ol toktok long ol tingting
+## Ol tok long ol tingting
 
-Ol eksampol we i kam bihaen oli soem en long barasis blong yu. Ridim fas pat nomo, mo wet.
+Ol eksampel blong tok we i aot long ol tingting oli save olsem ia. Ridim jis fas paet, afta wetem.
 
-- **Wea:** "Ren i kam bifo seven..." (en: "i klia long eleven"); "Evri klaod i gat..." (wan gud saed).
-- **Kitin mo kakae:** "Tumas kuk..." (i bagarap sup); "Yu no kaontem ol kakae..." (bifo oli kam aot).
-- **Haos mo famili:** "Haos i wea hat i stap..." (i stap); "Blad i moa strong..." (dan wota).
-- **Seson mo gaden:** "Ren long Eprel i bringim..." (ol flaoa long Mei); "Yu bin plantem wat, yu bambae..." (kasem).
+- **Wedha:** "Reen bifo seven..." (lastwod: "fain bihaen eleven"); "Evri klaud i gat..." (wan silva lining).
+- **Kitchen mo kakai:** "Tumas kuk..." (bagarem sup); "Yu no ken kaontem ol kok..." (bifo oli hatjem).
+- **Haos mo famle:** "Haos i wan ples we hat..." (i stap); "Blad i tiket moa long..." (wota).
+- **Sizon mo garen:** "Eprel sawa i brengem..." (Mei flaoa); "Yu kasem wanem yu sowem..." (sow).
 
-## Wanem sapos man i no save ansa?
+Hemia Golden Moments i olsem wan eksampel nomo. Yu save jenisim ol tok ya blong i fitim famle blong yu.
 
-Sam man oli no save faenem ol wod nating long las stej. No lusum toktok. Ridim en, smael, mo invaetem wan ansa wetem wan sain, wan nod, o taem yu jusum wan piksa. Sherem wan famili ritm i stil wan sherem moment. Pleim gem wetem miusik, wan wam drink, o wan hanikam, olsem long [ol aktiviti long las stej](/activities/late-stage/).
+## Wanem if man i no save ansa?
 
-## Ol narafala wei blong yusum toktok
+Sam man oli no save faenem wod long las stej. No lusim tok ya. Ridim hem, smael, mo askem wan ansa wetem wan sign, wan hed nod, o long wei blong jusum wan pikja. Sherem wan rhythm we i save long olgeta i stap wan sheadem taem. Yu save putum gem ya wetem musik, wan warm drink, o wan hand masej, olsem long [ol aktiviti long laswan stej](/activities/late-stage/).
 
-Ol toktok i save lidim i go long toktok long pas blong man. Yu save askem ol stori wetem [ol kwestin blong rimemba](/activities/reminiscence-questions/), o pleim wan narafala gem olsem [ol kad blong toktok](/games/conversation-cards/). Blong moa aedia long dei, lukim [ol aktiviti blong ol man wetem dementia](/activities/ideas/).
+## Moa rod blong yusum tok
+
+Ol tok oli save helpem toktok long past blong man. Yu save askem ol stori wetem ol kwestin long [ol kwestin blong rimembah](/activities/reminiscence-questions/), o pleiem wan narafala gem olsem [ol kad blong toktok](/games/conversation-cards/). Blong moa aedia long olgeta dei, lukluk long [ol aktiviti blong ol man wetem dementia](/activities/ideas/).

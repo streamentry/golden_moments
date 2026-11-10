@@ -1,33 +1,33 @@
 ---
-title: "Chuegos de 20 preguntas y de charra pa personas con demencia"
-seoTitle: "Chuegos de 20 preguntas y de charra pa la demencia"
-description: "Chuegos de veinte preguntas y atros chuegos de charra pa personas con demencia, con a persona como esperta, sin puntos, sin reloch y sin preguntas de examen."
+title: "Chuegos de 20 preguntas y charra pa personas con demencia"
+seoTitle: "20 preguntas y chuegos de charra pa demencia"
+description: "Chuegos de 20 preguntas y de charra pa personas con demencia, replanteaus pa que la persona sía la esperta, sin puntuación, sin reloch y sin examen."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Lo de veinte preguntas puede ser un chuego tranquilo y sociable cuando la
-  persona ye a que sabe la respuesta. Ella piensa en una cosa, vusted faz
-  preguntas de sí o no, y denguno no ye examinau. Atros chuegos de charra,
-  como "Esto o aquello" y "¿Qué escoyeríe?", funcionan igual: convidan a
-  opinions y historias, no a datos. Faiga las tandas cortas, deixe que la
-  persona pase y no cuente nunca los intentos.
+  Las veinte preguntas pueden estar un chuego sociable y tranquilo cuando la
+  persona ye la que sabe la respuesta. Piensa en una cosa, vusté fa preguntas
+  de sí o no, y nadie ye examinau. Atros chuegos de charra, como «Esto o
+  aquello» y «¿Qué escoyeríes?», funcionan igual: convidan a opinar y a contar
+  historias más que a dar datos. Faga rondas cortas, deixe que la persona pase
+  y no cuente los intentos.
 keyPoints:
-  - "Deixe que la persona piense en o objeto o animal, pa que sía ella a esperta. Vusted faiga las preguntas, y ella responde sí o no."
-  - "Permita pasar, dar una pista o faser un gesto. Nunca lleve puntos ni cuente cuántas preguntas han fecho falta."
-  - "Escoya cosas de cada día de la vida de la persona, como una comida favorita, una herramienta o un puesto."
-  - "Las preguntas de opinión, como «¿Prefiriría...?» o «¿Cuál le gusta más?», no tienen respuestas mal."
-  - "Acabe cuando la persona pierda o interés. Dos o tres tandas son asaz."
+  - "Deixa que la persona piense en l'objeto o en l'animal, así ella ye la esperta. Vusté fa las preguntas, y ella responde sí o no."
+  - "Permite pasar, dar una pista o fer un gesto. No lleves puntuación ni cuentes cuántas preguntas fan falta."
+  - "Escoya cosas de cada día de la vida de la persona, como una comida preferida, una herramienta o un lugar."
+  - "Las preguntas de opinión, como «¿Qué prefiriría...?» o «¿Cuál le gusta más?», no tienen respuesta mala."
+  - "Acabe cuando la persona pierda l'interés. Dos o tres rondas bastan."
 faq:
-  - q: "¿Ye bueno lo de veinte preguntas pa personas con demencia?"
-    a: "Puede serlo, cuando la persona ye la que piensa en a respuesta y denguno ye examinau. Si se usa como un test, con o cuidador adivinando un dato que la persona tiene que recordar, puede sentirse como un examen. Faiga las reglas abiertas y calentas."
-  - q: "¿En qué puede pensar la persona en veinte preguntas?"
-    a: "Lo más fácil son cosas simples y conocidas: una fruta, un animal, una herramienta, un tipo de flor, un mueble o un puesto que conoza bien. Evite ideas abstractas, nombres de personas y cualquier cosa que pueda dar tristura."
+  - q: "¿Son bonas las veinte preguntas pa personas con demencia?"
+    a: "Pueden serlo, cuando la persona ye la que piensa la respuesta y nadie ye examinau. Si se usa como cuestionario, con el cuidador adivinando un dato que la persona tiene que recordar, puede sentirse como un examen. Que las reglas sían abiertas y calorosas."
+  - q: "¿Qué puede pensar la persona en las veinte preguntas?"
+    a: "Las cosas simples y conocidas funcionan mejor: una fruta, un animal, una herramienta, un tipo de flor, un mueble o un lugar que conozca bien. Evite ideas abstractas, nombres de personas y cualquier cosa que pueda causar tristeza."
   - q: "¿Qué pasa si la persona no puede responder sí o no?"
-    a: "Use gestos, un pulgar arriba o abajo, o señale una tarjeta con una imagen. Tamién puede adebinar en voz alta y dexar que responda con un asentimiento, una sonrisa o una palabra."
-  - q: "¿Hay atros chuegos de charra pa personas mayores con demencia?"
-    a: "Sí. «Esto o aquello» pregunta cuál de dos cosas prefiere. «¿Qué preferiría?» pide una opinión. Un chuego de cartas con preguntas abiertas, como las tarjetas de conversación de Golden Moments, convida a contar historias de la vida de cada día."
+    a: "Use gestos, un pulgar arriba o abajo, o sinale una tarjeta con una imagen. Tamién puede fer adivinanzas en voz alta y dejar que responda con un asentimiento, una sonrisa o una palabra."
+  - q: "¿Hay atros chuegos de charra pa mayores con demencia?"
+    a: "Sí. «Esto o aquello» pregunta cuál de dos cosas prefiere. «¿Qué escoyeríes?» pide una opinión. Un chuego de tarjetas con preguntas abiertas, como las tarjetas de conversa de Golden Moments, convida a contar historias de la vida diaria."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,51 +46,51 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Muitas familias quieren un chuego pa chugar chuntos que paresca una charra, no un examen. Lo de veinte preguntas y atros chuegos parecidos de adebinar pueden funcionar bien, porque las reglas son simples y la charra puede ir a cualquier puesto. La clau ye invertir los papels de siempre: la persona piensa en a respuesta, y vusted pregunta. Esta pachina explica cómo faser estos chuegos con dulzura y qué chuegos de charra van bien pa personas con demencia.
+Muitas familias quiren un chuego pa chugar chuntos que paezca charra y no un examen. Las veinte preguntas y atros chuegos de adivinar pueden funcionar bien, porque las reglas son simples y la charra puede ir a cualquier sitio. Lo importante ye dar la vuelta a los papels de siempre: la persona piensa la respuesta, y vusté pregunta. Esta pachina esplica cómo fer estos chuegos con dulzura y cuáles chuegos de charra son adequaus pa personas con demencia.
 
-## ¿Por qué invertir las reglas de siempre?
+## ¿Por qué cambiar las reglas de siempre?
 
-En un test típico, una persona pregunta y la otra tiene que saber. Eso pon a persona con demencia en una posición en que puede fallar, y fallar puede dar disgusto. Cuando ella escoye o objeto y vusted ye o que adebina, ella ye la esperta. Tiene la respuesta, decide cuando dise sí o no, y puede disfrutar vendo como vusted se esforza.
+En un cuestionario típico, una persona pregunta y la otra tiene que saber. Eso pone a la persona con demencia en una situación en que puede fallar, y fallar puede doler. Cuando ella escoye la cosa y vusté hace de adivino, ella ye la esperta. Tiene la respuesta, decide cuándo dice sí o no, y puede disfrutar mirando cómo vusté intenta adivinar.
 
-El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) aconseya a los cuidadores usar frases cortas y simples, una pregunta cada vez, y un tono tranquilo y pacient. Esos hábitos van bien con los chuegos de adebinar.
+El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) recomienda a los cuidadores usar frases curtas y simples, una pregunta a la vez, y un tono tranquilo y pacient. Esos hábitos encaixan bien en los chuegos de adivinar.
 
-## Cómo chugar a veinte preguntas, con calma
+## Cómo chugar a las veinte preguntas, con dulzura
 
-1. **Escoya un tema** de la vida de la persona, como a cocina, o cortil, los animals o la mar.
-2. **Deixe que piense en una cosa** y que la diga en baxo, o amostre una tarjeta con una imagen pa no tener que escuchar-la.
-3. **Faiga una pregunta de sí o no cada vez.** «¿Ye algo que se come?» «¿Ye más grande que un zapato?»
-4. **Acepte cualquier respuesta.** Un asentimiento, un mover la cabeza o una risa, todo cuenta.
-5. **Diga adebinanzas en voz alta** y disfrutez-las. Si adebina bien, celébrenlo chuntos.
-6. **Ofrexca pistas** cuando la persona paresca atascada: «Ye una cosa de la cocina».
-7. **Nunca cuente las preguntas** y nunca lleve puntos.
+1. **Escoya un tema** de la vida de la persona, como la cocina, la uerta, los animals o la playa.
+2. **Deixe que piense en una cosa** y que la diga bajo, o amuestre una tarjeta con una foto pa no tener que escuchar-la.
+3. **Fe una pregunta de sí o no cada vez.** «¿Ye una cosa que se come?» «¿Ye más gran que un zapato?»
+4. **Acepte cualquier respuesta.** Un asentimiento, un movimiento de cabeza o una risa, todo cuenta.
+5. **Fe adivinanzas en voz alta** y disfrútalas. Si acierta, alegrémonos chuntos.
+6. **Ofrezca pistas** cuando la persona paresca atascada: «Ye una cosa d'a cocina.»
+7. **No cuente las preguntas** ni lleve la puntuación.
 
-Si la persona no puede seguir las reglas, cambie a una versión más simple: vusted diga unas cuantas cosas y ella señala la correcta.
+Si la persona no puede seguir las reglas, cambie a una versión más simple: vusté dice unas cuantas cosas y ella sinala la correcta.
 
 ## Cosas buenas pa escoyer
 
-- Una fruta, verdura o flor favorita
-- Un animal de la granха, del zoo o una mascota que tuviese
-- Una herramienta, como un martiello, un rastrillo o una agullla de coser
-- Un mueble o un objeto de la casa
-- Un puesto que conoza bien, como un parque o un pueblo
-- Una prenda que le gustaba vestir
+- Una fruta, verdura o flor preferida
+- Un animal de la granja, del zoo o una mascota que tuvo
+- Una herramienta, como un martillo, un rastrillo o una aguya de coser
+- Un mueble u objeto de casa
+- Un lugar que conoce bien, como un parque o un pueblo
+- Una prenda de ropa que le gustaba vestir
 
 Evite nombres de personas, cualquier cosa que pueda causar pena, y objetos que puedan ser peligrosos o que se confundan fácilmente.
 
 ## Más chuegos de charra
 
-- **Esto o aquello.** Ofrexca dos opcions y pregunte cuál prefiere: té o café, la montanya o la mar, un vestido rojo o uno azul. No hay respuesta correcta.
-- **¿Qué preferiría?** Faga una pregunta suave y lebiana: «¿Qué preferiría, un picnic o cenar fuera?»
-- **Acabe el dito.** Una frase conocida con o final por decir. Prebe nuestros [chuegos de acabar o dito](/activities/finish-the-saying/) pa una guía.
-- **Diga o nombre del puesto.** Pídale que describa una sala, un pueblo o una vista favorita, y convídelo a imaginar-la tamién.
-- **Tarjetas de preguntas abiertas.** Nuestras [tarjetas de conversación](/games/conversation-cards/) dan preguntas abiertas por tema, imprimibles pa la mesa.
+- **Esto o aquello.** Ofrezca dos opciones y pregunte cuál prefiere: té o café, la montanya o a mar, un vestido rojo o uno azul. No hay respuesta correcta.
+- **¿Qué escoyeríes?** Fe una pregunta suau y animosa: «¿Qué prefiriría, un picnic o cenar fuera?»
+- **Acabar o refrán.** Una frase conocida con el final sin decir. Prebe nuestros [chuegos de refranes](/activities/finish-the-saying/) pa una guía.
+- **Nombrar o lugar.** Pida que describa una habitación, un pueblo o una vista favorita, y convídelo a imaxinar-la con vusté.
+- **Tarjetas de preguntas.** Nuestras [tarjetas de conversa](/games/conversation-cards/) ofrecen preguntas abiertas por tema, pa imprimir y poner en a mesa.
 
-Pa más ideas que tiran de la memoria y de la historia de vida, vea [preguntas de recuerdo](/activities/reminiscence-questions/). Pa la diversión de tipo test hecha con dulzura, vea [trivia fácil pa personas mayores con demencia](/activities/trivia/), que usa opcions y no lleva puntos.
+Pa más ideas que tiran de la memoria y de la historia de vida, vea [preguntas de recuerdos](/activities/reminiscence-questions/). Pa diversión tipo cuestionario hecha con dulzura, vea [trivia fácil pa personas mayores con demencia](/activities/trivia/), que usa opciones y no puntúa.
 
-## ¿Qué facer si la persona se frustra?
+## ¿Qué fer si la persona se frustra?
 
-Pare, sonría y diga algo como: «Juguemos a otra cosa». La frustración ye una señal pa cambiar o chuego, no pa insistir. Nuestra guía sobre [cómo chugar con una persona con demencia](/caregiving/how-to-play-together/) explica cómo cambiar las reglas sobre a marcha.
+Pare, sonríe y diga algo como: «Chuguemos a otra cosa.» La frustración ye una señal pa cambiar el chuego, no pa apretar más. Nuestra guía sobre [cómo chugar con una persona con demencia](/caregiving/how-to-play-together/) esplica cómo cambiar las reglas sobre la marcha.
 
-## Qué pueden y qué no pueden facer los chuegos
+## Qué pueden fer y qué no pueden fer los chuegos
 
-Los chuegos de charra son agradables y sociables. Pueden ayudar a la gente a conectar y a compartir historias. No tratan la demencia, no la alentan ni la preveyen. Mantenga la meta simple: un momento calentico chuntos.
+Los chuegos de charra son agradables y sociales. Pueden ayudar a la gente a conectar y compartir historias. No curan la demencia, no la frenan ni la previenen. Que l'obchetivo sía simple: un momento caloroso chuntos.

@@ -1,37 +1,36 @@
 ---
-title: "Ni mɔgɔ min bɛ dementia ta bɛ ko a bɛ so ka taa ko ka segin so la"
-seoTitle: "Dementia ta mɔgɔ bɛ ko a bɛ segin so la: a fɔ cogo"
-description: "Mun na mɔgɔ min bɛ dementia ta bɛ ko a bɛ segin so la hali ni a bɛ so la sisan, a fɔ cogo, hakilina kɛwale minnu bɛ se ka kɛ, ani cogo min na ka a ma to ka bɔ ni a bɛ ko a bɛ taa."
+title: "Dɛmansi bɛ mɔgɔ fɛ, a bɛ kuma ko a bɛ so segin"
+seoTitle: "Dɛmansi mɔgɔ bɛ so segin: awɔ bɛ se ka fɔ"
+description: "Mun na dɛmansi mɔgɔ bɛ so segin hali ni a bɛ so kɔnɔ, awɔ bɛ se ka fɔ, jɛkulu ko min bɛ se ka kɛ, ani o bɛ se ka kɛ cogo di walasa a kana bɔ."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Ni mɔgɔ min bɛ dementia ta bɛ ko a bɛ segin so la kɔsɔn, “so” bɛ se ka kɛ
-  hakilina ko sigicogo ni ko a bɛ se ka makɔnɔ, walima ko fɔlɔ min bɛ a hakilina
-  kɔnɔ. Aw kana a ci ko a bɛ so la. Aw ka a hakilina lafɔ, a ko ka a ye ko a bɛ
-  sigi ni ko, o kɔfɛ aw ka a sigi ni kuma, sɛbɛ, dɔ walima ko ɲɛfɛ min tɛ fɛn
-  caman ye. Aw ka a filɛ ko a bɛ fɔ, nin ko: a bɛ kɔngɔ wa, a bɛ ji wa, a bɛ
-  bɔnɛ ka taa, a bɛ mafɛn wa, a bɛ dɔgɔ wa? Ni o bɛ kɛ kɛnɛ tɛmɛnen na, aw ka
-  a dokitɔrɔ wele.
+  Ni dɛmansi bɛ mɔgɔ fɛ min bɛ so segin tuma caman na, « so » bɛ kuma kɛ
+  hɛrɛ ni yɛrɛ hakili fɛ, o tɛ so bɔnɛ ye. Aw kana kɛ ka a ɲɛnɛ ko a bɛ so kɔnɔ.
+  Aw ka a hakili ɲɛfɛ, k'a ɲɛfɛ ko a bɛ sigi ni hɛrɛ ye, k'a kumakan ka so ko
+  kan, o kɔfɛ aw ka sini kɛ ni jɛkulu, ni dumuni, ni taamu, ni tulonkɛ, walima
+  ni baara kɛlɛ dɔ ye. Aw ka a filɛ ni ji, ɲɛgɛn, bɔnɛ, walima dɔ min bɛ a
+  ɲɛgɛn. Ni o bɛ kɔrɔ ka kɛ ni tɛmɛnen, aw ka a dɔktɔrɛ wele.
 keyPoints:
-  - "“N b’a fɛ ka segin so la” bɛ se ka kɛ hakilina ko a tɛ sigi ni ko a tɛ se ka makɔnɔ ye, a tɛ sɛbɛ ye ko a bɛ so ci."
-  - "Ko ka a ci ko a bɛ so la walima ka a jaabi ko a bɛ so la, o bɛ ko a dimi ka caya. A ka kan ka a hakilina lafɔ."
-  - "Aw ka a ci ka a fɔ ko a ka so kɔnɔ ka kuma, o kɔfɛ aw ka sɛbɛ, kuma, dɔ walima ko ɲɛfɛ min tɛ fɛn caman ye."
-  - "A ka kan ka a filɛ ko fɛn min bɛ se ka kɛ: kɔngɔ, ji, bɔnɛ ka taa, mafɛn, dɔ walima ko a bɛ wulu wa, sɔgɔsɔgɔ, dɔgɔya."
-  - "Ni o bɛ kɛ tile ɲɔgɔn kɔnɔ sɔgɔkɔrɔ, o bɛ se ka kɛ sundowning; sɛbɛ ka kɛ ka bɔ, ni nɔgɔ ni fitinin bɛ kɛ kɛ, o bɛ dɛmɛ."
-  - "Ni a bɛ ko ka taa, aw ka sigiyɔrɔ kɛ ka ɲɛmɔgɔ ye, ani ni o tɛ ka kɛ kɛnɛ kɔnɔ, aw ka a dokitɔrɔ wele."
+  - "« N bɛ so segin » bɛ kuma kɛ « n tɛ hɛrɛ sɔrɔ, n tɛ sigi yɛrɛ la », o tɛ kuma kɛ tɛ sɔrɔ wuluw kan."
+  - "Ni aw bɛ kumakan ka a ɲɛnɛ ko a bɛ so kɔnɔ, o bɛ a hakili ɲɛgɛn. Aw ka a hakili ɲɛfɛ dɔrɔn."
+  - "Aw ka a fɔ k'a ka so ko kan, o kɔfɛ aw ka sini kɛ ni dumuni, ni taamu, ni tulonkɛ, walima ni baara kɛlɛ dɔ ye."
+  - "Aw ka a filɛ ko dɔ min bɛ ka kɛ ka bonya: kɔngɔ, ji, bɔnɛ, dɔ min bɛ a ɲɛgɛn, a bɛ fu kɔ walima a bɛ fɛ, sanji walima fɔɲɛ, kɔnɔnaw, sigida."
+  - "Ni o bɛ kɛ tile o tile wula kɔrɔ, o bɛ se ka kɛ dɛmansi tɛmɛnen ye; sɛgɛnkɛ sɔrɔ ani fitini ka ɲi bɛ se ka dɛsɛ."
+  - "Aw ka yɛrɛdiya k'a bɔ tuma min na, ani aw ka a dɔktɔrɛ wele ni tuma o tuma a ɲɛnɛ bɔra kosɛbɛ."
 faq:
-  - q: "Mun na n ka maman min bɛ dementia ta, a bɛ ko a bɛ segin so la hali ni a bɛ so la?"
-    a: "Dementia bɛ se ka so min bɛ a ye dɔgɔ, ka kɛ ko a bɛ lakika kɔnɔ wati dɔ ni o ka kɛlɛ ye. “So” bɛ se ka kɛ a bɔrɔ so walima sigiyɔrɔ min kɔnɔ a bɛ hɛrɛ sɔrɔ. Nin hakilina jaabi bɛ ɲɛ ni sigiyɔrɔ jɛkulu ka jaabi."
-  - q: "Ni a bɛ ko a bɛ segin so la, n ka fɔ mun?"
-    a: "Aw ka fɔ ko “I bɛ sigi yan, ani n bɛ i ɲɛ na.” O kɔfɛ aw ka fɔ ko “I ka so kɔnɔ kuma ka ɲɛfɛ n ye.” Aw ka mɛnni, dɔ walima tiɲɛni labɛn. Aw kana fɔ ko “I bɛ so la” ni tɔɔrɔ ye, ka o kɛ dɔ ye ko a ka kɛ a sɛbɛn ye."
-  - q: "Ni n ye ko an na segin so la kɔfɛ, o ka ɲi wa?"
-    a: "Mɔgɔw ni dementia ka kɛlɛ dɔw ka hakilina tɛ ɲɔgɔn ye. Caman bɛ daminɛ ni hɛrɛ kɛ tiɲɛ ye, ani ni tiɲɛ bɛ mɔgɔ sɔrɔ ka dɔgɔya kosɔn, a bɛ se ka labɛn ka fɔ ko nin ye, o dɔ dɔrɔn. Fɛn o fɛn aw sugandi, aw ka kɛ ni hɛrɛ ni kɛɲɛ ye, aw kana mɔgɔ ka hakili ɲɛnamaya ye."
-  - q: "Ni a bɛ so bɔ, o bɛ se ka kɛ cogo di?"
-    a: "Aw ka sigi ni hakilina, aw kana a bloki, aw ka taa ni a ye. Sɛbɛ dɔgɔ bɛ ko a hakili bɔ. Aw ka sigicogo sɛbɛ, nin ko: ID bɛrɛsilet, porte kɔnɔ kɔlɔsi, ani foto kura. Ni a bɛ mɔgɔ tɛ ye, aw ka ɲini ka kɛ ka tɔɔrɔ, ani ni aw ma o sɔrɔ miniti 15 kɔnɔ, aw ka emergency nimɔrɔ wele ka fɔ ko mɔgɔ bɛ dementia ta."
-  - q: "Dokitɔrɔ min na, a wakatilen bɛ mun?"
-    a: "Ni a bɛ ko kɔfɛ walima a hakili tɛ ɲɛfɛ yɔrɔ kɔnɔ ka sɔrɔ, o bɛ kɛ kɛnɛ tɛmɛnen na, walima ni o bɛ dɔgɔya lɛrɛ, dɔ ni sɔgɔsɔgɔ, dɔ kura walima ni ji fɛ ni tuntun ye. Hakili fiyɛ tɛmɛnen bɛ se ka kɛ delirium, o ka kan ka dɛmɛ ni cɛkɛ. Ni mɔgɔ bɛ kɔngɔ kɛ, aw ka emergency nimɔrɔ wele."
+  - q: "Mun na ne ba dɛmansi bɛ kumakan ka so ko kan, hali ni a bɛ so kɔnɔ?"
+    a: "Dɛmansi bɛ se ka so min ye ɲɔgɔn ye, o ka kɛ dɔgɔya ye, mɔgɔ dɔw hakili bɛ sɔrɔ a bɛ sigi waati dɔ kɔfɛ. « So » bɛ se ka kɛ den ka so walima hɛrɛ min bɛ ka dɔn kɛ. A kɔrɔ, a ka jaabi di o hakili ma ka ɲi ka tɛmɛ a ɲɛfɛ ko a bɛ min na."
+  - q: "Mun na n ka fɔ tuma min na a bɛ so segin?"
+    a: "Aw ka fɔ ko « I bɛ hɛrɛ sɔrɔ yan, ani n bɛ i bɛɛ kɔnɔ », o kɔfɛ « I ka so kɔrɔ fɔ n ma ». Aw ka a f'a ka kuma, walima dɔ ka fɛn ni dumuni, walima ji dɔ ni tambali dɔ ye. Aw kana fɔ « I bɛ so kɔnɔ » ka kɛ ka a ɲɛnɛ, o bɛ se ka kɛ ka a hakili ɲɔgɔn ye, a bɛ se ka a hakili ɲɛgɛn."
+  - q: "A ɲɛ ka fɔ ko an bɛ so segin tuma dɔ na?"
+    a: "Ɲɛmɔgɔ ni dɛmansi kɛlɛ ka kɛlɛbolo dɔw bɛ yɛrɛw ɲɛfɛ. Caman bɛ daminɛ ni hɛrɛ ni kumakan ka ɲɛ ye ka jɛɲɛ, ka kɔfɛ ka tiɲɛ kɛ ni kɛnɛ kɛlɛ dɔ ye, o kɛlɛ bɛ kɛ tuma min na tiɲɛ ka ɲɛnɛ fɔ ka tɛmɛ a ɲɛ ma, a tɛ se ka a hakili sɔrɔ. Ni min bɛ sugandi, aw ka kɛ ni hɛrɛ ni sigiyɔrɔ ye, aw kana mɔgɔ ɲɛnɛ ɲangi."
+  - q: "Ni o bɛ so bɔ, mun na n ka kɛ?"
+    a: "Aw ka sigi ni hɛrɛ ye, aw ka taa ni a ye aw kana dɔ sigi a kɔrɔ. Tile fitini dɔ bɛ se ka a ɲɛgɛn. Aw ka yɛrɛdiya k'a bɔ tuma min na: sɛbɛn ka kɛɲɛ sigilen, da ka dɔnkili, ani foto kura. Ni a sɔrɔ, aw ka daminɛ ka a ɲini ka bɔ tuma min na, ani ni aw ma o sɔrɔ tile 15 kɔnɔ, aw ka sɛnɛkɛla nimɔrɔ wele, k'a fɔ ko « dɛmansi bɛ mɔgɔ dɔ la »."
+  - q: "Mun na n ka dɔktɔrɛ wele?"
+    a: "Aw ka a dɔktɔrɛ wele ni tuma o tuma, ni kuma walima hakili tɛɛ ye daminɛ ni tuma kɔnɔ walima ni ɲɔgɔn bɛ ɲɛ kɔfɛ kosɛbɛ, khɔrɔ ni sanji, ni dawolo kura, walima ni cɛnɛ sɛbɛn don. Kojugu hakili tɛɛ bɛ se ka kɛ delirium ye, o bɛ ka dɛsɛ ni sɛgɛsɛgɛli ye. Ni mɔgɔ dɔ bɛ kɔngɛ, aw ka sɛnɛkɛla nimɔrɔ wele."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -68,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-“N b’a fɛ ka segin so la.” Mɔgɔ caman bɛ nin kuma kɛnɛ kɔfɛ, o ka kɛlɛ ka bon kosɔn, ni mɔgɔ min bɛ dementia ta bɛ sigi a yɛrɛ ka so kɔnɔ. A bɛ kɛ fɛn o fɛn ye, a bɛ kɛ dementia ka kɔnɔ kɛ sanfɛ, ani kɛɲɛ ka jaabi bɛ kɛ cogo caman na, minnu bɛ kɛ hakilina ni kɛnɛya ye. Nin lakika bɛ fɔ ko nin kumaw bɛ se ka kɛ cogo di, ani mun na aw ka fɛn min kɛ, ani aw bɛ se ka a ɲɛmɔgɔ kɛ cogo di.
+« N bɛ so segin. » Ni mɔgɔ bɛ kuma ko nin, mɔgɔ caman bɛ o kan kɔrɔ ka tɛmɛ kuma tɔw kan, dɔgɔya tuma min na ni a bɛ sigi ni a yɛrɛ ka so kɔnɔ, awɔ, mɔgɔ min bɛ i ka lakika ... O bɛ kɛ ni dɛmansi bɛ kɛ tile o tile, ani hɛrɛ bɛ sɔrɔ ka jaabi di ni kɛlɛ fɛ, ni kɔrɔfɛ, ni jɛkulu. Nin kɔnɔ, an bɛ fɔ ko kumaw bɛ kɛ cogo di, ko min bɛ se ka dɛmɛ tuma min na, ani ko min bɛ kɛ walasa a ka hɛrɛ kana bɔ.
 
-## Mun na dementia ta mɔgɔ bɛ ko a bɛ so ka taa?
+## Mun na dɛmansi mɔgɔ bɛ kumakan ka so ko kan?
 
-A bɛ kɛ “so” ye hakilina ye ka tɛmɛ sigiyɔrɔ kan. Alzheimer’s Society bɛ o fɔ ko a bɛ kɛ hɛrɛ ni sigicogo ye, walima so bɔrɔ min bɛ kɛ kɔrɔ, o tɛ so yɛrɛ ye. Dementia bɛ se ka so min bɛ a ye dɔgɔ, ani mɔgɔ bɛ se ka hakili ka kɛ ko a bɛ lakika kɔnɔ wati dɔ kɔnɔ, o kɔnɔ so bɛ kɛ a bɔrɔ so, walima so min kɔnɔ a bɛ denw sɔrɔ.
+A bɛ kɛ hakili ye ka tɛmɛ so ye. Alzheimer's Society bɛ fɔ ko « so » bɛ kɛ hɛrɛ ni hinɛ hakili ye, walima so min bɛ kɔrɔ, o tɛ so ka sanga ye. Dɛmansi bɛ se ka so min bɛ dɔn kɛ ko yɛrɛ, o bɛ kɛ ko dɔgɔya, ani mɔgɔ bɛ se ka a hakili kɔrɔ ko a bɛ sigi waati dɔ kɔfɛ, o kɔrɔ, a ka den ka so walima a ka denw ka so.
 
-Kuma nin bɛ se ka kɛ fɛn wɛrɛ ka lakika dɔ ye sisan: a bɛ kɔngɔ, a bɛ ji wa, a bɛ bɔnɛ ka taa, a bɛ mafɛn wa, a bɛ kɔlɔsi ye, a bɛ dɔgɔ, a bɛ wulu, a bɛ kɔnɔ kɔrɔ, sɔgɔsɔgɔ bɛ a ɲɛ, walima a bɛ siranya. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) bɛ o fɔ ko dɔ, sɔgɔsɔgɔ, kelen-kelen, ka fɛn kɛlɛ, ani dawolo bɛ se ka kɛ hakilina tɛ ɲɛfɛ yɔrɔ kɔnɔ ka kɔrɔ.
+Kuma nin bɛ se ka kɛ kɛlɛ fɛ dɔ bɛ kɛ bi ko kan kosɛbɛ: kɔngɔ, ji, bɔnɛ, dɔ bɛ a ɲɛgɛn, a bɛ fu kɔ walima fɛ, a bɛ sanji walima fɔɲɛ, a bɛ kɛ jaɲɔgɔnɲɛ, walima a bɛ sɔrɔ ka kɛ ka tɛmɛ ka ɲɔgɔn ɲɛ kɔnɔ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) bɛ dɔ ka kɛlɛ ɲɛfɛ ko dɔ dɔ bɛ kɛ hakili sɔrɔ, dɔ bɛ kɛ ka ɲɔgɔn, dɔ bɛ kɛ ka lakika, ani dawolo bɛ sɔrɔ.
 
-## Mun na n ka fɔ ni a ko a bɛ segin so la?
+## Mun na n ka fɔ tuma min na a bɛ so segin?
 
-Aw ka a hakilina jaabi, aw kana a kuma jaabi. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) bɛ o fɔ ko aw kana a ci ko a hakili bɛ dɔgɔ; a hakilina ye lakika ye, o kosɔn aw ka jaabi ni hɛrɛ ni ɲɛmɔgɔya ye fɔlɔ, o kɔfɛ aw ka a kɔrɔ ka kuma wɛrɛ ma.
+Aw ka a hakili ɲɛfɛ, aw kana a kumakan. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) bɛ fɔ ko aw kana kɛ ka a ɲɛnɛ ko a bɛ kɛ ka tɛ tiɲɛ kan: a hakili ye tiɲɛ ye, o de kosɔn aw ka hɛrɛ ni dusukasi di a ma daminɛ, o kɔfɛ aw ka a hakili ɲɛgɛn ka kɔrɔ.
 
-Kuma minnu bɛ dɛmɛ caman:
+Kumaw min bɛ dɛmɛ caman bɛ nin ye:
 
-- **A hakilina fɔ.** “I bɛ i so kɔnɔ kɔrɔ hakili la.”
-- **Hɛrɛ kɛ.** “I bɛ sigi yan, ani n bɛ i ɲɛ na.” [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) bɛ o fɔ ka kuma sɛbɛn lakɔlɔ: “I bɛ sigi yan.”
-- **Ka kuma i so kɔnɔ kan.** “I ka so kɔnɔ kuma n ye. I ka kɛnɛ bɛ cogo di?” Kuma nɔ ta kan bɛ ɲɛnamaya bɔ dɔgɔ ka tɛmɛ bi kan.
-- **Fɛn dɔ kɛ ni ɲɛmɔgɔ ye.** “An ka ji dɔ min na fɔlɔ,” walima “I bɛ n dɛmɛ ka pan nin ɲɛ kɔnɔ?”
+- **K'a ɲɛfɛ a hakili.** « I bɛ so ɲɛnama, a sɔrɔ. »
+- **K'a hɛrɛ di.** « I bɛ hɛrɛ sɔrɔ yan, ani n bɛ i bɛɛ kɔnɔ. » [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) bɛ kuma sɛbɛn nin kan: « I bɛ hɛrɛ sɔrɔ yan. »
+- **K'a fɔ k'a ka hakilinaw fɔ.** « I ka so kɔrɔ fɔ n ma. A ka tabali cogo di? » A bɛ se ka kɛ ka tɛmɛ waati kɔfɛ ka fɛn kɔrɔw kuma, o bɛ ɲɛfɛ ka tɛmɛ bi ka kuma.
+- **K'a ka fɛn dɔ kɛ ni ɲɔgɔn ye.** « An ka ji fɔlɔ min, » walima « I bɛ n dɛmɛ ka pɛtɛli nin ɲɔgɔn kɛ wa? »
 
-Kuma ni hɛrɛ kɛnɛ, ani ni a bɛ kɛ kɔnɔ, o ka kɛ kumaw ye.
+Kuma ka kɛcogo ni kɔrɔ ni bolo ka ɲɛnɛ bɛ se ka kɛ, ni a ka kɛ ka nɔ, ka tɛmɛ kuma bɛɛ kan.
 
-## Mun na aw ka kɛ tɛ?
+## Mun na n ka ɲɛnɛ?
 
-- **Ka jaabi ni kuma.** “I bɛ so la bi” walima “O ye i so ye san 40 ye” bɛ a ko a ka fɛn dɔ dɔn, o min bɛ kɛ dementia kosɔn gɛlɛn. O bɛ se ka kɛ ko a bɛ a ci ko a ka kuma tɛ tiɛn.
-- **Ka nin ko min bɛ a ɲɛ.** “I hakili tɛ bɔ wa?” walima “Sigiyɔrɔ jɔ?” bɛ dɔgɔya kɛ.
-- **Ka ɲɛ jɔ ka kɛ hɛrɛ tɛ.** Ni a bɛ bɔ, aw ka taa ni a ye ka sɛbɛ. Sɛbɛ dɔgɔ bɛ se ka a hakili ka tuma dɔ bɔ.
-- **Ka tigɛ ka kɛ.** Aw ka waati di a ma ka kuma so kan, o kɔfɛ aw ka kuma wɛrɛ ka sɔrɔ.
+- **Sɛbɛn ɲɛnɛ.** « I bɛ so ɲɛnama, » walima « I ka so ko bɛ sigi ni nin ye ni mɔɲɛ 40 ye. » O kumaw bɛ kɛ ka a fɔ ko a ka dɔ kɛ ka a dusu ka ɲɛnama, o bɛ se ka kɛ ka a ɲɛgɛn ka tɛmɛ, a bɛ se ka kɛ ka mɔgɔ ye ko a ka tiɲɛ tɛ.
+- **Ka a ɲɛ ka tɛmɛ kuma.** « I ka ɲɔgɔn tɛ ɲini wa? » walima « A tɛ fɛn ka ɲɛ ye? » O bɛ kɛ ɲɛfɛ ka sɔnɔ.
+- **Ka a ɲɛ ka bɔ ni dɛ ye ka a dɔ sigi.** Ni a bɛ bɔ, aw ka hɛrɛ ni sigi ye ka taa ni a ye. Tile fitini dɔ bɛ se ka a ɲɛgɛn.
+- **Ka gɛlɛya.** Aw ka waati di a ye ka kuma so ko kan kɔfɛ aw ka kuma wɛrɛ fɔ.
 
-## Fɛn minnu bɛ se ka dɛmɛ wakati min na
+## Mun na ka kɛ ka tɛmɛ ko dɔ bɛ kɛ kɛ?
 
-Aw ka a hakilina jaabi kɔfɛ, sɛbɛ ni fɛn dɔ min dɔnnen bɛ, o bɛ se ka a hakili wɛrɛ ma, tɛ ka o ko jɛkulu.
+Kuma min bɛ kɛ cogo di ni hɛrɛ ni kɛlɛ ye, o kɔrɔ, dɔ hɛrɛ ka sɔrɔ kɛlɛ dɔ kɔnɔ, o bɛ kɛ ka dɛmɛ mɔgɔ ma.
 
-1. **Foto minnu bɛ so ni denw ta.** Aw ka foto kɔnɔ kɔ ka fɔ kumaw (“O sisɛ filɛ”) aw kana ɲininkali ka kɛ. Telefɔn walima tablɛti kan, [Photo pairs](/games/photo-pairs/) bɛ aw ka foto yɛrɛ kɛ sɛbɛ ye min bɛ kɛ kɛlɛ ye, ani foto bɛ to aw ka sɛbɛn kɔnɔ.
-2. **Ka kuma so kan.** [Conversation cards](/games/conversation-cards/) bɛ kumaw di so, kɔgɔ, sigiyɔrɔ kɔnɔ mɔgɔw, ani sɛwɛ kan, ani jaabi tɛ min na kɔrɔ.
-3. **Dumuni min a fɛ, o ka kɛ.** National Institute on Aging bɛ dumuni nɛɛnɛnin ta hakilina ka ɲɛmɔgɔ kɛ. [Music activities](/activities/music/) ka ɲɛfɔ.
-4. **Ji walima mafɛn dɔ.** Kɔngɔ ni ji tɛ kɛ bɔnɛ ka taa ko nɔɔrɔ. Tiɲɛ walima dumuni min a fɛ, o bɛ kɛ so kɔnɔ kɛnɛya ye.
-5. **Taa tabali ka sigi kɛɲɛ.** Taa ni sɛgɛnɛ bɛ dɛmɛ, ni kɛ sɔgɔkɔrɔ fɔlɔ.
-6. **Baara dɔ min a dɔn.** Ɲɛfɛ wa, banaden ɲɛfɛ, walima jiri ji ka. O bɛ se ka a hakili ka so baara sɔrɔ.
-7. **Fɛn bɛɛ kɛ ka sɛgɛn.** Televiziyɔn kɔnɔ, kɔɲɔ ni kɛ nɔgɔ, ani ko ni ɲɛmɔgɔ ye ka [calm breathing](/games/calm-breathing/) kɛ.
+1. **Ka foto ye so ni denw ye.** Aw ka foto ɲɔgɔn tɔɔ, ka kuma ko kan ni « Filɛ, o ɲɔnɔ min bɛ yan » ye, aw kana a ɲɛ ka ɲininiw kɛ. Ni aw bɛ telefɔn walima tablɛti kɛ, [Photo pairs](/games/photo-pairs/) bɛ aw ka foto yɛrɛw kɛ ka kɛlɛ dɔ ye ka ɲɔgɔn ɲɛ, ani foto bɛ sigi aw ka sɛbɛnnɛ kɔnɔ.
+2. **Ka kuma so ko kan.** [Conversation cards](/games/conversation-cards/) bɛ ninɛ kuma dɔ di, ko bɛ so, sɛgɛn, jɛnɛnɛ ani kɛnɛ dɔrɔn ko kan, ani jaabi tɔ tɛ jaabi ɲɔgɔn ye.
+3. **Ka dumuni min bɛ a kanu.** National Institute on Aging bɛ dumuni nɛɛnɛ ɲɛfɛ sɛbɛn ko cogo. Awɔ, [music activities](/activities/music/) ka bɛ se ka aw ka ka kɛlɛ bɛ.
+4. **Ka ji walima taamu.** Kɔngɔ ni ji tɛ ɲɔgɔn ye, o bɛ se ka kɛ ka hakili ɲɛgɛn bɛ ka bɔ ye. Ji tɛlɛ walima dumuni min bɛ a kanu, o bɛ kɛ so kɔnɔ kɔrɔ fana ye.
+5. **Ka taa tulonkɛ walima ka sigi da kɔrɔ.** Ni tile bɛ kɛ ka ɲɛ ye, tulonkɛ ni sɛgɛn bɛ dɛmɛ, sɔrɔ tile ka fɔlɔ.
+6. **Ka baara kɛlɛ dɔ di a ma.** Sanji dɔ ka kɛlɛ, nɛnɛw dɔ kɛ, walima jiri ji, o bɛ se ka a hakili sɔrɔ so kɔnɔ baara kɛlɛ kɔrɔ.
+7. **Ka fɛn bɛɛ kɛ ka tɛmɛ.** Ka TELEVISIYƆN bali, ka ɲɛ ni ɲɔgɔn dɔgɔya, ani ka a ɲɛfɛ [calm breathing](/games/calm-breathing/) ka tɛ ɲɔgɔn ye.
 
-Ni fɛn kelen tɛ kɛ, aw ka wɛrɛ kɛ waati wɛrɛ. Ni aw bɛ sigi ni ɲɛmɔgɔ ye tuma min na ka kuma, o fana ka ɲɛnamaya ɲuman ye.
+Ni kɛlɛ dɔ tɛ ɲɛ, aw ka dɔ wɛrɛ kɛ waati wɛrɛ la. Ni aw bɛ sigi ni ɲɔgɔn ye ka kɛ, o cɛɲi bɛ bon.
 
-## Fɛn min bɛ se ka kɛ ka dɛmɛ
+## A ka kɛ ka sɔrɔ fɛn min bɛ se ka fiɲɛ
 
-| Filɛ | Mun kɛ |
+| Ɲɛnɛ | Min bɛ se ka kɛ |
 | --- | --- |
-| Kɔngɔ walima ji | Ji ni mafɛn tɔɔnɔ dɔ di |
-| A bɛ bɔnɛ ka taa | Ka a bɔnɛ yɔrɔ ka taa, hɛrɛ ni ɲɛmɔgɔya ye, kɔnɔ tɛ kɛ |
-| Ɲɛ ko walima dɔ | Ɲɛ ko dɔ ye, i ko ko i bɛ dɛmɛ, dɔ dɔ ye, ka dɔ ko dokitɔrɔ ye |
-| Sɔgɔ ni dɔgɔ | Kɔlɔsi dɔ kɛ walima ka sɔgɔ ka kɛ ka fɛɛrɛ |
-| Kɔɲɔ walima mɔgɔ caman | Ka taa yɔrɔ dɔ min kɔɲɔ tɛ, televiziyɔn bɔ |
-| Dɔgɔ walima dumuni caman | Ka sɛgɛn, ka fitila dɔgɔya, dumuni nɛɛnɛnin kɛ |
-| Sɔgɔsɔgɔ | Ka kɔrɔfɔ sundowning kuma kɔfɛ |
+| A bɛ ji walima taamu ɲɛgɛn | Ji ni dumuni tɔɔ di a ma |
+| A bɛ fu kɔ | Ka a dɛmɛ ka taa bolonɛ, ka kɛ ni jɛkulu ye |
+| Sanji walima bɔnɛ | Ka ɲɛ ye ni nɛɛnɛ kan: fɔɲɛ, kɔrɔ dɔ bɛ lu, walima ka tɛ se ka fu; ka a fɔ a dɔktɔrɛ ma |
+| A bɛ ɲɛ ka fɛn jɛ walima ka sanji | Ka ɲɛ ni sɛɛ bɔ walima ni sigida bɔ |
+| Ɲɛ, mɔgɔ caman bɛ |  Ka taa so dɔ min bɛ dɔgɔ ka a dɔ kɛ |
+| A bɛ sɔn walima a bɛ ɲɛ ka tɛmɛ tuma caman | Ka sɔn, ka tile dɔgɔya, ka dumuni dɔgɔ |
+| Tile dɔ waati | Aw ka taa « Tile ka kɛlɛ » ka sɛɛ kɔnɔ |
 
-Alzheimer’s Society bɛ o fɔ ko aw ka sɛbɛ dɔgɔ ka mara waati la min na a bɛ ko ko, i ko bɔnɛ kɔfɛ, mɔgɔ ye kɔfɛ, walima sɔgɔsɔgɔ. Kɔrɔfɔ sɛbɛnw bɛ dɛmɛ ka tɛmɛn.
+Alzheimer's Society bɛ fɔ ko aw ka sɛbɛn kɛ tuma min na a bɛ so segin, i n'a fɔ ka kɛ ka dɔ tɛ ɲɛ kɔfɛ, walima mɔgɔ ye ka bɔ kɔfɛ, walima tile dɔ waati. Sɔrɔ kɔrɔ bɛ dɛmɛ ka tɛmɛ ka dɛsɛ.
 
-## A ka ɲɛ ka kɛ ka hakili tɛ bɔ?
+## A ɲɛ ka kuma kɔrɔ ka fɔ ka ɲɛnɛ?
 
-Nin ye kuma ye min bɛ kɛ ka kɛlɛ, ani hɛrɛ ka mɔgɔw bɛ jaabi wɛrɛw sɔrɔ. Alzheimer’s Society bɛ o fɔ ko jaabi kelen tɛ; hakili tɛ bɔ kuma caman bɛ kɛ mɔgɔ dɔw ka ɲɛ, o kosɔn aw ka a filɛ ko nin bɛ mɔgɔ ka ɲɛnamaya ɲuman bɛ, ani aw ka kɛ cogo kelen na. Penn Memory Center fana bɛ o fɔ ko tiɲɛ ye fɔlɔ, ani hakili tɛ bɔ kuma dɔ bɛ se ka kɛ ni mɔgɔ ma se ka tiɲɛ sɔn, ani aw kana mɔgɔ ka hakili ɲɛnamaya kɔnɔ.
+O ye kuma ye min bɛ kɛ ka tɛmɛ ka ɲɛnɛ ɲɛfɛ, ɲɛmɔgɔ ye sɔrɔ jaabi ɲɔgɔn ye. Alzheimer's Society bɛ fɔ ko jaabi kɛnɛ tɛ, ɲɛnɛ dɔw bɛ mɔgɔ dɔ ka hakili ɲɛgɛn, o de kosɔn aw ka ɲɛfɛ mɔgɔ ka dusukasi ye, aw ka kɛlɛ kɛ ka ɲɔgɔn ye. Penn Memory Center ka kumakan bɛ fɔ ko tiɲɛ ye fɔlɔ, ko kɔrɔ ka ɲɛnɛ dusu bɛ se ka kɛ kɛlɛ ye waati min na mɔgɔ tɛ se ka tiɲɛ dɔ faamu, ani ko aw kana mɔgɔ ka hakili ɲɛnɛ ɲangi.
 
-Caman bɛ sira dɔ sɔrɔ min bɛ kɛ ɲɛ: hɛrɛ ni ɲɛmɔgɔya fɔlɔ (“An bɛ sigi yan bi ka se, n bɛ i ɲɛ na”), o kɔfɛ aw ka kuma wɛrɛ ma, aw kana so ka yɛrɛ ka kumaw ta.
+Ɲɛmɔgɔ caman bɛ taa ni kɛlɛ nin: hɛrɛ ni kuma tiɲɛ kan fɔlɔ (« An bɛ sigi bi yan, ani n bɛ i yɔrɔ kɔnɔ »), k'a kɔfɛ ka kuma wɛrɛ fɔ, a tɛ kɛ ka kuma ni so ye.
 
-## Ni o bɛ kɛ tile ɲɔgɔn kɔnɔ wa sɔgɔkɔrɔ?
+## Mun na ni o bɛ kɛ tile o tile wula walima dibi?
 
-Ni dɔgɔya walima sɔgɔsɔgɔ bɛ kɛ sɔgɔkɔrɔ, o bɛ wele ko sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) bɛ sɛbɛn lakɔlɔ, sɛgɛn ni waati kelen na, tile la, ni dɔ ni kɛɲɛ, wati dɔgɔ kɔfɛ, ani kafeyin ni alikɔli tɛ tile ɲɔgɔn kɔnɔ. Fitila kunnen bɛ dɛmɛ fɔlɔ tile ɲɔgɔn kɔnɔ. [Calm late-afternoon activities](/caregiving/late-day-restlessness/) ka kɔrɔfɔ bɛ dɛmɛ caman.
+Hakili ɲɛgɛnna walima ɲɔgɔn bɛ kɛ dibi ni tile kɛ, o bɛ kɛ sundowning ye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) bɛ fɔ ko aw ka waati dɔ sɔrɔ ka kɛ ni sigi ye, tile ka sɔrɔ ni kɛlɛ, ka kɔrɔfɛ dɔgɔ ka kɔnɔ, ani ka kɔfɛ tile dɔ, ka ji ni sɛgɛn ka bɔ dibi kɔfɛ. Ni aw bɛ fitilafɛ ka kɛ dibi ɲɛ kɔfɛ, o bɛ dɛmɛ. Aw ka sɛbɛn ka [calm late-afternoon activities](/caregiving/late-day-restlessness/) kɛ, o bɛ kɛ kɔrɔ ye.
 
-## Ka a ɲɛmɔgɔ kɛ ni a bɛ ko a bɛ bɔ
+## A ka kɛ cogo di walasa a kana bɔ ni a b'a fɛ ka taa?
 
-Ko ka segin so la bɛ se ka kɛ ka taa. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) bɛ o fɔ ko mɔgɔ 10 kɔnɔ 6 bɛ taa ka bɔ dementia kosɔn, ka ɲɛfɛ kelen.
+So segin bɛ se ka kɛ ka bɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) bɛ fɔ ko mɔgɔ 6 ni 10 ka kɛ dɛmansi bɛ ka mɔgɔ, o bɛ taa a yɛrɛ ka ɲɔgɔn ye, o bɛ taa ka bɔ tuma kelen.
 
-**Sigicogo ka kɛ fɔlɔ:**
+**A ɲɛ ka kɛ kɔrɔ:**
 
-- ID walima dokitɔrɔ bɛrɛsilɛti, ni a tɔgɔ ni aw ka telefɔn nɔmɔrɔ bɛ min na, ani sɛbɛn kɔnɔ kɔ kɔfɛ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) bɛ MedicAlert ni Alzheimer’s Association Safe and Found porogaramu fɔ, o bɛ se ka wari ta.
-- Porte kɔnɔ dɔ ni alarm, ani kɔlɔsi minnu bɛ kɛ kɔrɔ walima jɔrɔ kɔnɔ. Mɔgɔ kelen kɔnɔ kɔlɔsi kɛ, aw kana o kɛ.
-- Foto kura minnu bɛ a ɲɛ kɛ, ani sigiyɔrɔ minnu bɛ se ka kɛ a yɛrɛ ka tɔɔrɔ, i ko so ka fɔlɔ walima baara yɔrɔ.
-- Aw ka ɲɛmɔgɔ minnu dɔn, aw ka telefɔn nɔmɔrɔ di u ma.
+- Sɛbɛn walima dɔktɔrɛ sɛbɛn ni a tɔgɔ ye ani aw ka telefɔn nimɔrɔ, ani sɛbɛn kɔnɔ a ka fini kɔnɔ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) bɛ MedicAlert ni Alzheimer's Association Safe and Found porogaramu fɔ, o bɛ se ka kɛ ni wari ye.
+- Sɛgɛn ni fɛn dɔ min bɛ mɔgɔ ɲɛ, ani kɔ dɔ dɔ min bɛ a kɔnɔ ni tile ni kɛlɛ ni jɔ ye, o tɛ mɔgɔ kɔnɔ ni a kɛlɛ ye.
+- Foto kura min bɛ mɔgɔ dɔ ɲɛ ye, ani sɛbɛn min bɛ yɔrɔ caman ko kan a bɛ taa ka kɛ, i n'a fɔ so kɔrɔ walima baarakɛlɛ yɔrɔ.
+- Aw ka mɔgɔ ɲɛmɔgɔ ye ka fɔ, ani aw ka telefɔn nimɔrɔ di u ma.
 
-**Ni a bɛ mɔgɔ tɛ ye:** aw ka tɔɔrɔ ka kɛ ka bɔ wakati; Alzheimer’s Association bɛ o fɔ ko mɔgɔ caman bɛ sɔrɔ 1,5 mayili kɔnɔ. Ni aw ma o sɔrɔ miniti 15 kɔnɔ, aw ka emergency nimɔrɔ wele ka fɔ ko mɔgɔ bɛ dementia ta. Ni mɔgɔ bɛ kɔngɔ kɛ, aw ka emergency nimɔrɔ wele sɛgɛn.
+**Ni a bɛ bɔ:** aw ka taa ka kɛ ka a ɲini tuma min na; Alzheimer's Association bɛ fɔ ko mɔgɔ caman bɛ sɔrɔ 1.5 miles kɔnɔ. Ni aw ma a sɔrɔ tile 15 kɔnɔ, aw ka sɛnɛkɛla nimɔrɔ wele, k'a fɔ ko « dɛmansi bɛ mɔgɔ dɔ la ». Ni mɔgɔ dɔ bɛ kɔngɛ, aw ka sɛnɛkɛla nimɔrɔ wele ka kɛ ni tuma o tuma ye.
 
-## Dokitɔrɔ min na, a wakatilen bɛ mun?
+## Yɔrɔ min na n ka dɔktɔrɛ wele?
 
-Ni a bɛ ko kɔfɛ walima hakili tɛ ɲɛfɛ yɔrɔ kɔnɔ ka sɔrɔ, aw ka a dokitɔrɔ wele tuma. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) bɛ o fɔ ko hakilina ka sɔrɔ ka sɔgɔsɔgɔ walima ka wɛrɛ kɛ kɔfɛ, dɔ ni sɛbɛ min ka dɔ bɛ kɛ, o ka kan ka a ɲɛ sɔrɔ tuma. Hakili fiyɛ tɛmɛnen bɛ se ka kɛ delirium, [NHS](https://www.nhs.uk/symptoms/confusion/) bɛ o fɔ ko o ka kan ka dɛmɛ ni cɛkɛ; sɛbɛ fitinin bɛ kɛ dɔ ye mɔgɔ kɔrɔ caman na.
+Ni kuma walima hakili tɛɛ daminɛ ni tuma kɔnɔ, walima ni ɲɔgɔn bɛ ɲɛ kɔfɛ kosɛbɛ, aw ka a dɔktɔrɛ wele ni tuma o tuma. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) bɛ fɔ ko hakili ɲɛgɛnna walima ɲɛnɛ min bɛ ɲɛ kosɛbɛ, khɔrɔ ni dɔ ka dusu kɔfɛ walima dawolo kɔfɛ, aw ka o ɲini tuma o tuma. Kojugu hakili tɛɛ bɛ se ka kɛ delirium ye, [NHS](https://www.nhs.uk/symptoms/confusion/) bɛ fɔ ko o bɛ ka dɛsɛ ni dɛmɛ ye; kɔngɔ dusu bɛ kɛ mɔgɔ kɔrɔw ye kosɛbɛ.
 
-Aw ka kɔrɔfɔ ka lakika minnu bɛ kɛ tile ɲɔgɔn kɔnɔ, o fɔ dokitɔrɔ ye kɔfɛ waati min, ka kɛ ko dɔ, dusukasi, sɔgɔsɔgɔ walima dɔ minnu bɛ kɛ, o bɛɛ bɛ se ka kɛ ni nin ye.
+A bɛ dɛmɛ fana ka kɛ ka tile caman ɲɛnɛ fɔ dɔktɔrɛ ye kɔrɔfɛ ɲɛnama, katuguw, dibi, jaɲɔgɔnɲɛ ani dawolo ka kɔnɔnaw bɛ se ka kɛ kɔrɔfɛ fana ye.

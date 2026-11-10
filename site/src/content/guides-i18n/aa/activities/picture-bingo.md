@@ -1,32 +1,33 @@
 ---
-title: "Dementia-le Numaah Sawir Bingo: Warqad hinnay Sahara"
-seoTitle: "Dementia-le Numaah Sawir Bingo"
-description: "Dementia-le nummaah sawir bingo: kaxxa sawiir, qunxa gurub, kee sahhah cayaar. Warqadil hinnay saharal, qarih kee day-care qaril."
+title: "Kas-Dambi Le Idaltóh Suwar Bingo, Waraaqat Hinnay Shaashat"
+seoTitle: "Kas-Dambi Le Idaltóh Suwar Bingo"
+description: "Kas-dambi le idaltóh suwar bingo, waraaqat hinnay shaashat: naba suwar, qaxmeenih yaaba num, yeceeh-yewqeeh maleh, aroocah kee koboxxaan dabookah fayda."
 section: activities
 order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Sawir bingo tirah kaxxa, ifa sawiirrih badalisah, nummaah ubleenih tu
-  astootaah, tira katayyuu kee xusuusuh loonu ma yiggilin. Warqad qaraakal
-  hinnay saharal yaabé num kee iniki iniki sawiir seyta. Gurub qunxa, sawiir
-  kaxxa, buxa iyyam mali. Meqe bingo waqdi inki sáat kataysiyya, buxa
-  qaggaasimih (race) ute mali.
+  Suwar bingo lakqoositek naba kaadu baxxaqqa le suwar teetil culsa, toomih
+  sabatah mari akriyeenim kee kasat hayteenimik gexxay yableenim sissikuk
+  itattiyya hayoonuh. Kartoomi teceenim hinnay shaashat yaaba numuk fayditaanaah,
+  tiyak tiyah suwar seeca, mara kulli num tableem astattiyya haayisisaana.
+  Koboxxaa qariik haysita, suwar baxxaqqa heey, yeyyeecenno yaanam faxximtem
+  makkinina. Muxxi bingo wakti lih ganoonum kinni, mayyaffookoona.
 keyPoints:
-  - "Tirah badal sawiir, kee iniki iniki kaxxa, ifaah, iniki xamayte tu."
-  - "Sahhah sey, sawir ubul, kee isih sée iyye. Sée iniki qaafis, kaadu qambaal."
-  - "Gurub afár hinnay bacá num, numuh daffeenih yaabé num kee kaart ublaah."
-  - "Buxa iyyam mali. Gurub mari inki sawir isi kicnih iyya."
-  - "Buxa num seytak duma esser. Bohá numuh buxa hinnay warqad (prize) rubsuta, kinnih immay inki numuh tama meqe ma kinnim."
+  - "Lakqoosit elle kal naba, baxxaqqa leeh yaaxigeen tiya elle tan suwar faydita."
+  - "Qaxmeenih seeca, suwara taybuleen kaadu migaq ixxica. Migaq tiya elle gacisaay qambaala."
+  - "Maray kobociseeni fereyik baharaay (4-8) numuk haysitaay, yaaba num kee karta table arol teesiisa."
+  - "Yeceem doorit hayisa. Qaybi mari leeda suwar seecaanamal gaba kalla haam duudan."
+  - "Yecee num seecaanak duma essera. Qolob hinnay kab-kab marih qansarissaah, toom qaxmeeni kinni."
 faq:
-  - q: "Dementia-le nummaah sawir bingo waa?"
-    a: "Tama bingo tirah badal kaxxa sawiirrih kak kinni. Cayaara num kaartil sawir astoota, yaabé num ubleeh hinnay sée iyyek. Tira dita nummaah sahhah, kaadu cayaarah katayyuu kah sahhisa."
-  - q: "Gurubuh sawir bingo kah abaa?"
-    a: "Warqad kaart bohá hinnay saharal yaabé num, sawir iniki iniki. Ifah yab, sawir fayyaaq, nummaah waqdi yecee. Gurub qunxa, qambaal, nummaah gabá, qalam hinnay chipil astoota."
-  - q: "Sawir bingo xusuusuh cato abá?"
-    a: "Inki cayaaruk dementia qafu hinnay maqaane abeemih nummah mali. Sawir bingo kataysiyya cayaar. Ka meqe: kataysiyya, yaabé numih yab, kee sawir geytoh farxá — xusuusuh inki galá mali."
-  - q: "Num yabbeenih faxe hinnay sawir geyam dite keenik?"
-    a: "Yabbeenih yecee. Inkih geya, isih tug, hinnay idiniil chip soolise. Num raaxó le kinnim kaart xaafim kak nabam meqe."
+  - q: "Kas-dambi le marak suwar bingo macayti?"
+    a: "Usuk lakqoositek naba suwar faydita bingo qaybi kinni. Koboxxaan mari yaaba num suwara yeybuleh hinnay migaq seece waqdi kartal leen suwar astattiyya haan. Lakqoosit kaxxa qaxu kak tekke marak xiqtaah, kuusanat culam xabcinteh hayta."
+  - q: "Koboxxisiyyah suwar bingo mannal gexisiyyo?"
+    a: "Waraaqat tewqe kartoomi hinnay shaashat yaaba num fayditaay, tiyak tiyaah suwar seeca. Baxxaqqa luk yaaba, suwara fayya heeh oggola, mari guuroonuh wakti keenih acaya. Koboxxaa qariik haysita, mayiddiqina, mari kartoomi gubal farih, qalamih hinnay xisoh astattiyya hayoonuh oggola."
+  - q: "Suwar bingo kas maqaaneh qokol teecê?"
+    a: "Aysinnay kas-dambi urisa hinnay wadaleh haa activity matan. Suwar bingo ittat lih ganoonuh gaba kalla hayta kuusana kinni. Tet fayda lih anuk, yaaba numih yab kee suwara geyaanamal leeda geyaanam kinniik, kas maqaaneh edde tece fayda hinna."
+  - q: "Numuk gaba kalla faxe waytek hinnay suwara geyam wek macaytu?"
+    a: "Gaba kalla hayoonuh oggola keenih acaya. Ittat lih gurrusiyyoonaah, itattiyya haytoonaah, hinnay keenik esseruk xiso keenih kassisiyyaana. Karta gaba kalak marih assacoot kaxxa cissayti kinni."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -42,51 +43,51 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-Bingo bohá kaxxa nummaah cayaar xamayte, kinnih immay dementia-le numuh tirah katayyuu dita. Sawir bingo bingo soolih (way) kak kinnih, kinnih immay tira kaxxa, ifa sawiirrih badalisah. Qaril, day programil hinnay care home qaril taamitah. Tama gitah addal cayaar soolisa, kah badalisa, kee farxá foocal kah hayna.
+Bingo mangi idaltóh yaaxigeeniih ittat lih ganoon kuusana kinni, takkay immay kas-dambi le marak lakqoosit kataatam qaxu takkem duudantah. Suwar bingo tonnaahi baati qaxmeenik haysitaah, lakqoosit ciggiilak naba, baxxaqqa le suwar culsa. Usuk buxal, laqoh prograamittet, hinnay daanisiyyah dabookal meqennal taamita. Ahay gide usuk mannal kuusimaanama, mannal dagan heeniim, kaadu leedaay assacootal kas gacsitam mannal xiqtenta baxxaqisa.
 
-## Sawir bingo kah taamita
+## Suwar bingo mannal taamita
 
-Cayaara num iniki kaart, sawiirrih grid (gid) kak. Sawiir: teapot, dimbá, warda, dooni hinnay biskileet. Yaabé num iniki sawir ubla hinnay sée iyya. Cayaara num isi kaartil sawir kak kinnim astoota. Num inki sarra hinnay gurub mari iyye tu inkih astootek, “Bingo” iyya duude, kinnih immay bohá gurub mari buxa inkih caba.
+Kulli kuusise num suwar le karta le, ceelalloh barad, pusi, ambaabo, dooni hinnay baasikil. Yaaba num tiyak tiyah suwara yeybuleh hinnay migaq seece. Kuusisa mari kartal itta ceela suwar astattiyya haan. Qaran keemut tiya gaba kaleh, hinnay koboxxaan mari ittat koroositan gido gaba kale num "Bingo" heeh seecam duuda, takkay immay mangi koboxxaa yecee num mayeecinna.
 
-Warqad kaart [free printable activities](/activities/printable/) hinnay [picture bingo game](/games/picture-bingo/) — saharal yaabé num kak — taamita. Doonit gurub inkih ublaah fayyaaq.
+Ni [bilash tewqe taamoomi](/activities/printable/) waraaqat tewqe kartoomi fayditam duudantan, hinnay koboxxaah shaashat yaaba num le [suwar bingo kuusana](/games/picture-bingo/) fayditan duudantan. Lammaan koboxxaan mari kullum yableennal tablet fayya heeniih gexisaanamal meqennal taamita.
 
-## Cayaar soolisa
+## Wakti mannal massoosan
 
-- **Gurub qunxa dooro.** Afár hinnay bacá num meqe. Kaxxa gurub katayyuu ditaah, qaggaasima (rush) kak xagana.
-- **Sawiir kaxxa ab.** Inki xariq inki xamayte tu, xariiq kaxxa. Bohá tu le kaart mali.
-- **Nummaah daffeenih yecee.** Yaabé num kee isi kaart ublaanam, kee cato lé num xaggi.
-- **Astoota sahhah.** Kaxxa chip, lacat hinnay gabá qalam kak meqe. Qunxa qusba (spare) hay.
-- **Cayaar qunxa.** Taban kee sodom daqiiqá bohá. Num loowo yek, cab.
+- **Qariik yan koboc doora.** Fereyik baharaay (4-8) num meqe gide kinni. Naba koboxxaa kataatam gariqik teeneeh sissiki yanem ceelantah.
+- **Suwara nabbowsa.** Kaxxa kashataay kulli saasuruk yaaxigeen tiya faydita. Kooritite kartoomi baysa.
+- **Mara meqennal dafeyisa.** Kulli kuusisa num yaaba num kee isi karta yable arol heeya, qokola faxak meqennal qokola numih xaqul teesiisa.
+- **Xabcin astattiyya faydita.** Naba xisoosa, lakqo, hinnay farih itattiyya haanam qalamik aysuk taamita. Tutukku le mara haysita.
+- **Dagoh yan wakti massoosa.** Soddom daqiqa mangom duudanta. Xayli gubi heek sissikuk gaba kalla.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) iyyeh: cayaar num kah abam duudam inkih badalis. Kaart kee gitá sahhah ab.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) taamoomi num abam duuda caalatal massoosaanam meqem kassiisa, toomih sabatah kartoomi kee madqooxa xabcin heey qokol takkem faxximta waqdi.
 
-## Sawiir kah seysa
+## Suwara mannal seecan
 
-1. **Yabtak duma sawir fayyaaq** hinnay saharal tug.
-2. **Ifah sée iyye,** sahhah kalah: “Teapot.” Iniki qaafis, qambaal.
-3. **Qambaal.** Nummaah waqdi yecee, ublaah astootu. Bohá nummaah waqdi mali, buxa sawir seytak duma.
-4. **Cato abek, qaddos.** “Warda qasá” hinnay “picnicil nanu luk sugte” yab edde yayta.
-5. **Soolih sahhah.** Yaabé num qasá kak xaamino nabam meqe.
+1. **Suwara fayya hayisa** hinnay yaabaanak duma shaashat elle tunkurraaha.
+2. **Baxxaqqa luk migaq ixxica,** xabcin qangaraatit: "Barad." Qaxmeenik tiya elle gacisa.
+3. **Qambaala.** Mari wagitoonuh kee astattiyya haanuh wakti acaya. Mangi mari gaba kalak duma ciggiila suwara maseecina.
+4. **Baxxaqisa, qokol tallek.** "Qasa ambaabo" hinnay "gariqit lih neneh ten tiya" yab uwwaqum duuda.
+5. **Qaxmeeni sissikuk haysita.** Qaxmeenit yaaba num sissikuk yaaba numuk aysuk kaxxa cissayti kinni.
 
-## Buxa iyyam mali
+## Yeceenim doorit hayisa
 
-Buxa (competition) migaq kinni. Buxta num isi qimmi (tested) kak yabla duude, buxa kaxxam faxa num hakim yeka. Badal:
+Yeyyeecenno yaanam qaxu takkem duudanta. Gaba kale we num fakkiteem ceelam duuda, kaadu yeyyeeqo faxa num gariqam duuda. Ahe kaak kal yan daabooru kinni:
 
-- **Inkih buxa.** Num inki sawir isi kicnih iyya, gurub mari ublaah farte.
-- **Kaart inkih qaybisa.** Num isi kaartil inki sawirih xaagu iyya.
-- **Inki kaart inkih sey xaafim.** Kaartil sawiir inkih sey, kaadu kalah kaart, inki buxa mali.
-- **Buxa qunxa hinnay mali.** Biscuit hinnay atú kaxxa warqad (trophy) kak meqe.
+- **Kulli num tiya suwar guura.** Kulli kuusisa num leeda suwar seecaah, koboxxaan mari toomil fayla haan.
+- **Doodite karta ittat lih oggola.** Kuusisa marak kartal leen suwarak tiyah warraysoonaah essera.
+- **Suwar gaba kalak fanah kuusisa.** Kartal tan suwar kullim seecaay, sarra aka tiya qimbisa, yewqe num maseecina.
+- **Qolob xabcin heey hinnay bayisa.** Biskoot hinnay gita koobik aysuk taamita.
 
-## Dambal nummaah
+## Sarrah yan caalatat yan marak dagan haanam
 
-Sawir geyam dita nummaah, afár hinnay lax xariq kaart, hinnay iniki kaart iniki waqdi yecee. Cato lé num kaart haytam duude, num tug waqdi, hinnay idiniil chip soolise. Bohá numuh yaabé numih yab aabbe kee kalah farxá.
+Suwar geyaanam qaxu kak tekke marak, kerey (4) hinnay laxeen (6) saasur le karta faydita, hinnay kulli marak tiyak tiyah karta acaya. Num tunkurraaha waqdi qokola num karta haysituh oggola, hinnay keenik esseruk xiso qaxmeenik kassisiyyaana. Mangi mari yaaba num anqasoomuuk qangaraatih leedat ruffu yaanam meqe caalat takkem duudanta.
 
-Raaxó hinna astoota, dabc hinnay fooca, ublek cab. Qunxa, daffeenih cayaar kicnoonu, [late-stage activities](/activities/late-stage/) ubla.
+Assacoot-maleemih astaritte wagita, gexxaamaah hinnay fooca quncusaanaah, teeti tabbixek gaba kalla. Deebaniih, dafeenan taamoomih fakkontoottah, [sarrah yan caalatih taamoomi](/activities/late-stage/) wagita.
 
-## Care home kee day program
+## Daanisiyyah dabookaa kee laqoh prograamittet bingo
 
-Gurub cayaar qarih nummaah soolisa waqdi meqe. [group activities guide for care homes and day programs](/activities/care-home-groups/) — cayaar soolisa, num daffeenih, kee yabbeenih faxa num kah abna. Sawir bingo atú hinnay qisa luk, kee [finish-the-saying](/activities/finish-the-saying/) luk dambal sahhah cayaar kinni.
+Koboxxaan taamoomi arol yan marak fakkonuk massoosaana waqdi meqennal taamita. Ni [daanisiyyah dabookaa kee laqoh prograamittet koboxxaan taamoomih gide](/activities/care-home-groups/) wakti mannal massoosaanaah, mara mannal dafeyisaanaah, kaadu gexaanoo faxa mara mannal koboxxisaanama baxxaqisa. Suwar bingo gita hinnay warrayti lih meqennal taamita, kaadu wakti dagan tekke waqdi deebani kuusana kinni [finish-the-saying](/activities/finish-the-saying/) lih taamita.
 
-## Bingo abá kee abá hinna
+## Bingo abtam duudam kee abam duude waytam
 
-Sawir bingo kataysiyyaah farxá le. Num inkih gaabisa duude, sawiir ublaah aabbemih sababa yecee, gurub raaxó abta. Dementia qafu hinnay maqaane mali. Sáat addal num kah xagana kak, buxa num kak mali, meqe kinnim mekle.
+Suwar bingo ittat lih ganoonum kee ruffu yaan kuusana kinni. Usuk mara ittat gacsitam duuda, suwara wagitoonuh kee anqasoonaah sabab acayam duuda, kaadu koboxxaan mara qaxmeeni lih haytam duuda. Usuk kas-dambi murisa hinnay wadaleh mahaa. Kaak qaxmeeni taama mari saaqatak garat mannal yanen kee leedat ruffu yeenemil mada, yewqe numul hinna.

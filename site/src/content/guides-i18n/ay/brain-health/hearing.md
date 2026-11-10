@@ -1,31 +1,28 @@
 ---
-title: "Lunthatañ ukat amuyu: Yatiñanakax kunas uñachtayi"
-seoTitle: "Lunthatañ ukat amuyu: Yatiñax uñachtayi"
-description: "Lunthatañax amuyu jan allin uñt'ayañan askʼa ukhamarak, ACHIEVE yatiñax kunas uñachtayi ukat lunthatañ jaqinakax kunas yatiyapxañapa."
+title: "Jan ist'aña ukat demencia: Yatiñanakax kunsa uñacht'ayi"
+seoTitle: "Jan ist'aña ukat demencia: Yatiñanakax"
+description: "Kunatsa jan ist'aña demencia ukan wali jan walt'äwi uñacht'ayi, ACHIEVE yatichäwix kunsa uñacht'äna, ukat kunjamasa ist'awinak apaqañ ukat parlañ suma sarnaqañ."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Lunthatañax 2024 Lancet Commission yatiñanakan amuyu jan allin uñt'ayañan jukʼa askʼa uñacht'ayi. ACHIEVE
-  yatiñanakan lunthatañ yanapiri janiw amuyu jan allinakax sipansa ch'iqtañ jaqinakax kunjam uñachtayi, ukampis
-  lunthatañ ch'ama jaqinakax amuyunakapax sum sayt'anti. Lunthatañ yanapiri parlañan ukat uru uru sarnaqañan
-  yanapi, ukat taqi ukhamarak. Lunthatañ uñjañapa, lunthatañ yanapiri sum amtañapa ukat yatiri doctor ukat parlañapa.
+  Lancet Commission 2024 yatiyirix jan ist'aña demencia wakiskir chiqanakan maynit jark'asiñ utji sañ uñacht'ayi. ACHIEVE yatichäwin ist'awinakax taqi jaqinakan jan kuna cambiopkiti, ukampisa wali jan walt'äwi jaqinakax suma cambionak uñjapxäna. Ist'awinakax parlañ ukat uru sarnaqañ yanapt'apxi, ukatwa ukax yatiñamaw. Ist'aña uñjapxam, ist'awinak amtasipxam, ukat doctor parlapxam.
 keyPoints:
-  - "Lancet Commission yatiñax uñachtayi lunthatañax amuyu jan allin 7% jach'a ukax jaya laq'a ukhamarak, 14 askʼa uñt'ayañ thakhinakan jukʼa askʼa ukhamarak."
-  - "ACHIEVE yatiñan 977 jaya mara jaqinakan, kimsa maranakan lunthatañ yanapiri janiw amuyu jan allin sipansa ch'iqtañ kunsa uñachtayi."
-  - "ACHIEVE yatiñan juk'ampi lunthatañ ch'ama jaqinakan, lunthatañ yanapiri amuyu jan allin 48% sayt'anti; ukax yatiñ mayiskiwa."
-  - "Uktha October 2022 sarpxata, Estados Unidos jaqinakax lunthatañ jukʼa askʼa ukat yanapiri ukax mayjt'añ jan doctor mayiskiwa."
-  - "Ojos jan allin uñjañax 2024 amuyu jan allin askʼa ukhamaraki, ukatpï ojos uñjañax askʼa."
+  - "Lancet Commission yatiyirix jan ist'aña jaqinakan demencia 7% kipkaki sasaw amtaraki, 14 wakiskir chiqanakan ukax maynikam jach'a parti."
+  - "ACHIEVE yatichäwin 977 jach'a mayni jaqinakan, ist'awinakax kimsa maranakan demencia jan walt'äwi jan kuna cambiopkiti."
+  - "Jisk'a wali jan walt'äwi jaqinakan ACHIEVE ukan, ist'awinakampi jan walt'äwi 48% jisk'aki sasaw uñjatäna; ukax yatiñamaw chiqapar uñacht'añasa."
+  - "Oct. 2022 mara qalltasina, US jaqinakax jan wali jan ist'aña sañ amuyapxi ukanakax FDA yanapt'ata ist'awinak janiw doctor qillqat mayisiñ jaysapxi."
+  - "2024 maranx jan wali uñjaña demencia wakiskir chiqaru yapxatäna, ukatwa uñ uñjañax wali wakiskiriwa."
 faq:
-  - q: "¿Lunthatañ yanapirinakax amuyu jan allin jarkañapäkiti?"
-    a: "Janiw uñt'atäkiti. ACHIEVE yatiñax kimsa maranakan amuyu jan allin sipansa ch'iqtañ kunsa uñachtayi, ukampis juk'a lunthatañ ch'ama jaqinakax sum sayt'anti. Lunthatañ yanapirinakax parlañan, sarnaqañan ukat uru uru sarnaqañan yanapi, ukatpï amuyt'aña."
-  - q: "¿Khitinakas lunthatañ yanapirinakax mayjt'añapa jan doctor mayiskiwa?"
-    a: "Estados Unidos ukan, 18 maranakan jukʼa jaqinakax lunthatañ jukʼa askʼa ukat yanapiri mayjt'apxañapa, janiw doctor mayiskiwa. Ukax jukʼa lunthatañ ch'ama jaqinakatakiw janiw. Oreja jan allin, juk'a qhuya, mayjt'añ jan lunthatañ ukat jaqimpi jan sum sarnaqañ ukanakax, doctor uñjañapa."
-  - q: "¿Lunthatañax amuyu jan allinjam uñtasxaspati?"
-    a: "Jaysa. Estados Unidos Instituto Nacional de Envejecimiento uñt'ayi, jaqi jan lunthatañ mayjt'añ jaqinakax jan amuyt'at jaqinakjam sapxapxi. Jan lunthatañ uñjañax yatiñaw, kunapachatï jaqi taypin sayt'anti ukat parlañ jan amuyasa."
-  - q: "¿Kunas ojos uñjañapa, 60 maranakan qhipa?"
-    a: "Estados Unidos Instituto Nacional de Envejecimiento uñt'ayi, 60 maranakan qhipa uñjañapa, mara mara jan ukax mara paqallq ukhama, ojos yatiri uñt'ayañapa ukhama. Azúcar jan allin ukat presión jaya jaqinakax mara mara uñjañapa."
+  - q: "¿Ist'awinakax demencia jarkaraspati?"
+    a: "Janiw chiqapar uñacht'äkiti. ACHIEVE yatichäwix kimsa maranakan jan kuna cambiopkiti sasaw uñacht'äna, ukampisa jan wali sarnaqiri jaqinakax suma cambionak uñjapxäna. Ist'awinakax parlañ, jan ukax sarnaqañ wali sum sarnaqañatakix yanapt'apxi, ukatwa amuyasiñawa."
+  - q: "¿Khitinakas OTC ist'awinak mayisiñ atipxi?"
+    a: "FDA yatiyirix 18 maranakat sipansa jaqinakax, jan wali jan ist'aña sañ amuyapxi ukanakax, doctor qillqat janiw mayisiñ ukat tiendanakan jan ukax internetan mayisiñ atipxañapa sasaw yatiyi. Ukax jach'a jan ist'aña ukatakix janiw kunapachati. Ch'uxña ch'iwiyañ, kunapachatix lakat jaqsuñ, jilt'añ jan ukax sumankañ jan walt'äwiw utjki ukhaxa, doctor parlañ wali sum."
+  - q: "¿Jan ist'aña ukax demencia uñtasa?"
+    a: "Mayni kutiw. National Institute on Aging yatiyirix jan wali ist'ir awkinakax amuyu jan walt'äwi jan ukax jan yanapt'ñ jaqinakaw sasaw amuyasipxi. Kunapachatix jaqi jiwasaxat wiskt'iri jan ukax parlatanakax jan amuyasa ukhaxa, ist'awi uñjañax suma ukax yatiñawa."
+  - q: "¿Kuna kutiw awkinakax nayranakap uñjañapa?"
+    a: "National Institute on Aging yatiyirix 60 maranakat qalltasina, maranakan jan ukax kimsa maranakan uñ uñjaña wali sum. Shuga yapuchañ ukat wila ruspaña jan walt'äwi utjki jaqinakax maynit maranak uñjañapa."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Lunthatañax jaya marana jaqinakan sapxi, ukat yatiñanakax amuyu jan allin uñt'ayañan askʼa sasa uñachtayi. Ukax janiw lunthatañ yanapirinakax amuyu jan allin jarkañapäkiti sasa. ACHIEVE yatiñax jukʼa yatiñanakan jan kunsa uñachtayi. Ukhamarak, lunthatañ uñjañ, Estados Unidos mayjt'añ jan doctor yanapirinakan, parlañan yanapi ukat lunthatañ jaqinakax kunjam sarnaqapxañapa uñt'ayañ.
+Jan ist'aña wali sapa jaqinakan mä jan walt'äwi utjarakiwa, ukat yatiririnakax ukar wali amuyapxi demencia wakiskir chiqa sasaw. Ukax janiw ist'awinakax demencia jarkañ chiqapar yanapt'apxi sasaw sañäkiti; jach'a yatichäwix jan wali uñacht'ayatanakampi. Ukhamaw uka qillqatax uñacht'ayi, yatiñanakax kunsa uñacht'ayi, US ist'awi jan doctor qillqat mayisiñ ukat kunjamasa parlañ suma sarnaqañ.
 
-## ¿Kunatsa lunthatañax amuyu ukatakix askʼa?
+## ¿Kunatsa ist'aña jiwasan amuyuru wali wakiskiri?
 
-Lunthatañax amuyu jan allin ukat jakañ jaqinakan askʼa. [Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) yatiñax uñachtayi lunthatañax amuyu jan allin 7% jach'a ukat. Ukax 14 askʼa uñt'ayañ thakhinakan jukʼa askʼa ukhamarak, [UCL uñt'ayawi](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) uñachtayi.
+Jan ist'aña demencia jarkañ jani walt'ir jaqinakan wali jach'a wakiskiwa. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) yatiyirix, jan ist'aña demencia 7% kipkaki sasaw amtaraki. Ukax 14 wakiskir chiqanakan, [UCL yatiyañ qillqatan](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) uñacht'ayatänwa, high LDL cholesterol ukampi maynikam jach'a parti.
 
-Lancet Commission yatiñanakax:
+Commission yatiyañanakan jisk'a uñjañanakax:
 
-- **Lunthatañ jan allin ukat amuyu jan allin askʼa.** Suxta yatiñanakan, lunthatañ jan allin jaqinakax amuyu jan allin 37% sipansa askʼa.
-- **Lunthatañ jukʼampi, askʼa juk'ampi.** Yatiñanakax uñachtayi lunthatañ jukʼampi ukhamarak, amuyu jan allin juk'ampi.
-- **Yatiñ mayiskiwa, janiw uñt'atäkiti.** Jan jaqi jan parlañ, llakisiña, amuyu jan ch'amanchañ ukat jan lunthatañ jaqinakax ukham sarnaqapxi.
+- **Jan ist'aña, jach'a wakiski.** Pusi wali sum yatichäwinak mä chiqar sapxata, jan ist'aña jaqinakax jan ist'ir jaqinakat 37% sipansa jach'a demencia wakiski.
+- **Juk'amp jan ist'aña, juk'amp wakiski.** Jan ist'aña kunjam jach'a ukax yatiñanakax uñacht'ayapxi, ukhamarak wakiskix jilxatañapa.
+- **Ukax yatiñamawa, chiqapar janiw uñacht'äkiti.** Amuyunakax ukhamawa: jaqi jisk'achäwi, lupi, amuyu lup'iña ukat jan ist'añ mayt'asiñ.
 
-Lunthatañax taqi chiqana jaqinakan. [Instituto Nacional de Envejecimiento (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) uñt'ayi, maya kimsa jaqinakax lunthatañ jan allin jakapxi, ukat mara sipansa juk'ampi.
+Jan ist'aña wali sapa jaqinakan. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) yatiyirix, kimsa paqallq jach'a jaqinakan jan ist'aña utjaraki, ukat maranakax jilxataspati wakiski.
 
-## ¿Kunsa ACHIEVE yatiñax uñachtayi lunthatañ yanapirinakan?
+## ¿Kunsa ACHIEVE ist'awi yatichäwix uñacht'äna?
 
-ACHIEVE yatiñax ñanqha yatiñ tuqiw, lunthatañ yanapirinakax amuyu jan allin jarkañapäkiti. Uñt'ayawinakax [yatiñ uñt'ayawi](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) uñachtayi.
+ACHIEVE ukax jan ist'aña ukat amuyu jan walt'äwi chiqan ist'awinakan mayni yatichäwiwa. Jupa yatiñanakax wali jan sum qillqatäpxi, ukatwa [yatichäwin qillqatapat](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) kunsa uñacht'ayañ munta.
 
-- **Khitinakas yatiñ mayapxi:** 977 jaqinakax 70 mara 84 mara, lunthatañ jan allin ukat amuyu jan allin jan askʼa, Estados Unidos chiqana kimsa tuqinakan.
-- **Kunsa sipansa uñjatapxi:** Maya ch'iqanakax lunthatañ yanapirinakan ukat parlañ yatichañanakan; maya ch'iqanakax jaya sarnaqañ yatichañanakan.
-- **Jach'a uñachtayaña:** Kimsa maranakan, amuyu jan allin taypin **janiw sipansa** uñachtayi.
-- **Juk'a uñachtayaña:** Yatiñax 238 jaqinakan ARIC yatiñat, jukʼa amuyu jan allin ch'ama jaqinakan. Ukanakan lunthatañ yanapirinakan amuyu jan allin **48% sayt'anti**. 739 jaqinakan janiw uñachtayi.
+- **Khitinakas mayacht'apxäna:** 70 maranakat 84 maranakkamaki 977 jaqinakaw, jan ist'aña mayisiñ jan ist'äna ukat amuyu jan walt'äwi janiw utjkänti, US pusi chiqan.
+- **Kuns uñjasipxäna:** Phisqhat chiqax ist'awinak ukat audiólogo yatichäwinakampi yanapt'asipxäna. Maya phisqhat chiqax sarnaqañ suma yatichäwi sipxäna.
+- **Taqi uñacht'äwi:** Kimsa maranakan, kimsa chiqanakan amuyu jan walt'äwix janiw jan kuna cambiopkiti.
+- **Jisk'a chiqan uñacht'äwi:** Yatichäwix pusi chiqat mayacht'asiwayäna. 238 jaqinakax wali sum amuyu jan walt'äwi chiqat ARIC sañ yatichäwit mayacht'apxäna, ukhamata jach'a wakiskir jaqinakawa. Ukan ist'awinakampi jan walt'äwi 48% jisk'aki. Ukampisa 739 wali sumi jaqinakan janiw chiqapar uñjatäkiti.
 
-Ukax kunjamasa sarnaqañ:
+Kunjamas chiqapar amuyañ:
 
-- Jach'a uñachtayaña, janiw sipansa.
-- Juk'a uñachtayaña, yatiñ juk'a ukan, mayni yatiñanakan chiqañchañ.
-- Jaqinakax yatiñ taypin kunawsa yatiapxi, ukax uñachtayaña jaqhichi.
-- Lancet Commission uñt'ayi, lunthatañ yanapirinakax ch'ama jaqinakatakiw sum yanapaña.
+- Taqi uñacht'äwix janiw kuna cambiopkiti.
+- Jisk'a chiqan uñacht'äwix nayrar yatichatäna, ukampisa jisk'a jaqinakan yatiñanakan qillqatawa. Yaqhip yatichäwinakan chiqapar uñacht'añasa.
+- Mayacht'ir jaqinakax kuna yatichäwin utjki ukanakax yatipxäna, ukax uñacht'äwinakar jan kuna mayi.
+- Lancet Commission amuyañapax: ist'awinakax jan ist'aña ukampi maynit jan walt'äwi jaqinakar wali yanapt'apxi.
 
-Jach'a tuqiw, lunthatañ yanapirinakax amuyu jan allin jarkañapäkiti. Ukampis lunthatañ uñjañax parlañ, jakañ ukat jaqinakampi sarnaqañ yanapi.
+Chiqa jaltanx: ist'awinakax demencia jarkañ chiqapar yanapt'apxi sasaw janiw uñacht'äkiti. Ukampisa jaqinakar ist'añ, parlañ ukat sarnaqañ yanapt'apxi, ukatwa amuyasiñawa.
 
-## ¿Kunsa lunthatañ uñjañax askʼa?
+## ¿Kunjamas yatsna ist'aña uñjañapa?
 
-NIA yatichi, jumax jan uñjatätam jan ukax jupanakaxa:
+NIA yatiyirix, khitisa jumampi jan ukax jumax jan ist'aña jaqi uñjasa ukhaxa doctor parlañ sasaw sapxi:
 
-- Telefonon jaqi parlañ jan amuyasa
-- Jaqinaka parlapxi ukhamarak jan amuyasa
-- Mayjt'añ jaqinakar jan amuyasa
-- Televisor juk'ampi jach'a jarkañ, mayninakax jan sum sapxi
-- Jan amuyasa parlañ, lunthatañ jan allin
-- Jaqinakax jan sum parlapxi sapxi
+- Telefonon parlañanakax jan ist'añ
+- Mayni jaqinakan parlañ jan amuyañ
+- Ch'uxña ch'iwiyañ jaqinakar jaysaña
+- Televisor jach'a turuntañ, ukatxa mayninakax jaysapxi
+- Sarnaqäwi jaq'añ jan amuyañ
+- Mayninakax lakani parlapxi sasaw amuyaña
 
-Sarnaqañ doctor, jupax doctor yatiri, audiólogo ukat oído ukat laq'a doctor uñjañ yanapi. Oreja jan allin ukat jan lunthatañ ukax yatiñaw. **Lunthatañ jan kunjamasa juk'a jan allin** ukax jan wali, ukat NIA uñt'ayi, doctor uñjañapa.
+Mä atipt'ir doctor (primary care) parlañ, ukatxa audiólogo (ist'awi yatiri) jan ukax oído, nariz ukat garganta doctor sapxam. Ch'uxña wali sapa jan ist'aña chiqan, doctor uñjañ wali sum. **Uka rato jan ist'aña wali jach'a jan walt'äwi**, ukhamasti NIA yatiyirix doctor parlañ ukat ch'iqapacha sapxi.
 
-Lunthatañ jan allin ukax amuyu jan allinjam uñtasxaspa. NIA uñt'ayi, jan lunthatañ jaqinakax jan amuyasa sapxapxi. Jumax jan uñjatätam jan ukax jupanakaxa jan parlañ, lunthatañ uñjañax yatiñaw.
+Jan ist'aña jaqi amuyu jan walt'äwi sasaw amuyasipxi. NIA yatiyirix, jan ist'ir awkinakax amuyu jan walt'äwi jan ukax jan yanapt'ñ jaqinakaw sasaw amuyasipxi. Kunapachatix jumax uñjasta jaqi jisk'achasiri jan ukax jan ist'añ, ist'awi uñjañax suma nayrar sarañ.
 
-## ¿Kunas mayjt'añ jan doctor lunthatañ yanapirinakax?
+## ¿Kunas tiendan ist'awinakax OTC?
 
-Estados Unidos, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know), October 17, 2022 mara, jan doctor mayjt'añ lunthatañ yanapirinakax mayjt'añ. Ukax doctor mayiskiwa kunsa sipansa:
+Oct. 17, 2022 mara qalltasina, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ukax over-the-counter (OTC) ist'awinak mayisiñ yatichäna. Kunjamas prescripción ist'awinakat sipansa:
 
-| Uñacht'äwi | Jan doctor lunthatañ yanapirinakax | Doctor mayiskiwa lunthatañ yanapirinakax |
+| Feature | OTC ist'awinak | Prescripción ist'awinak |
 | --- | --- | --- |
-| Khitinakatakis | 18 mara sipansa jaqinakatakiw, lunthatañ juk'a jan allin | Taqi lunthatañ jan allin jaqinakatakiw |
-| Kawkhan mayjt'asa | Tiendanakan jan ukax internet, uñjañ jan mayiskiwa | Lunthatañ yatiri ukan |
-| Askʼa uñt'aña | Jumax yanapirinakax uñt'aña, mayninakax aplicación | Yatiri uñt'aña jumatakix |
+| Khitinakatakis | 18 maranakat sipansa jaqinakatakix, wali sapa jan ist'aña mayni jan wali | Kuna jan ist'aña, kuna maranakan |
+| Kawkhan mayisiñ | Tiendanakan jan ukax internetan, janiw doctor qillqat mayisiñ | Ist'awi yatiri mayni |
+| Ist'awi churaña | Jumax nayraqat calibrar, aplicación ukampi | Yatiri jaqi jumatakix churaña |
 
-FDA uñt'ayi, jan doctor lunthatañ yanapirinakax juk'a ukat jach'a lunthatañ jan allin jaqinakatakix janiw. Ukat doctor uñjañapa, oído doctor jach'a, mayjt'añ sipansa, jumax:
+FDA yatiyirix OTC ist'awinak jach'a jan ist'aña ukatakix janiw kunapachati. Mayisiñ nayrar, ch'iwiyañ jan ukax oído, nariz ukat garganta doctor parlañ sapxi, kunapachatix:
 
-- Oreja jan allin ukat laq'a
-- Juk'a qhuya ukat jan wali ch'uqi oreja jaqhichi
-- Lunthatañ jan kunjamasa jukʼa ukat jan askʼa
-- Mayni oreja jan allin ukat mayni oreja janiw
-- Jan ch'amanchañ, sarnaqañ jan askʼa
-- Oreja juk'a taqi jan allin
+- Oído ch'iwiyañ jan ukax jan suma
+- Oídot lakat, lipi jan ukax wila jurt'añ kimsa phaxsinak ukhamarak
+- Ist'añ jan walt'äwi jilxatañ jan ukax jan wali
+- Mä oído jan ist'añ jan ukax mä oídot juk'a jan ist'añ
+- Q'ara jan ukax sarnaqañ jan walt'äwi
+- Oídot jach'a oído lakat
 
-Yanapirinakan yatiñ mayjt'añ, mayjt'añ sipansa yatiñ jaqinakax askʼa, FDA uñt'ayi, mayjt'añ sipansa jan kunsa. NIA uñt'ayi, seguro yanapi khitinakas jupanakan mayjt'añax. Lunthatañ jan allin ukat amuyu jan allin jaqinakatakix, audiólogo yanapi kunjamas askʼa ukat sarnaqañ ukat.
+Ist'awinak uñjañax lup'iñ mayi, ukatwa FDA yatiyirix mayisiñ nayrar, mayisiñ kutin ch'uxña uñjañ. NIA yatiyirix seguro churañ jan ukax mä phuqhañ yanapt'ayañ. Jaqi amuyu jan walt'äwi jaqi uñjañ ukhaxa, audiólogo jumanakar yanapt'añapa kuna ist'awi ukat suma churañ sarnaqañ wali sum.
 
-## ¿Kunjamas lunthatañ jan allin jaqimpi sum parlañ?
+## ¿Kunjamas jan ist'aña jaqi parlañ?
 
-NIA uñt'ayi:
+NIA yatiyirix:
 
-1. **Jaqi uñjañ, uñjañ mayjt'añ**, ch'amañ taypin, jupax uñjañ lakanakam ukat uñtañ.
-2. **Jan jarkañ chiqa.** Televisor jan ukax jarkañ sipansa jaqiruxa.
-3. **Juk'a jach'a parlañ, jan qhicha.** Sum parlañ, jan sipansa jach'a.
-4. **Lakam jan ch'uqi.** Parlañ taypin jan manq'añ, jan ch'uqi jan ukax lakam jan uchañ.
-5. **Jan kutiyañ, mayninak parlañ.** Mayni parlañ jan amuyasa ukax mayninakam.
-6. **Maya maya parlañ.** Jaqinaka taypin, jupa mayninakar yatichañ.
-7. **Ch'uqi amuyt'añ ukat yanapa ukat jaysa.**
+1. **Jaqi uñjañ ukat ñawinaka uñjasiñ**, wali k'anchaña, ukhamasti lakaman, uñjañanaka uñjapxi.
+2. **Ch'uxña chiqa uñjañ.** Televisor apaqañ jan ukax jaysaña jaqi.
+3. **Juk'a jach'a parlañ, ukampisa jan q'äñuñ.** Sum parlañ, ukatxa suma sarnaqañ.
+4. **Lakam ch'uxña.** Jan manq'añ, jan kawkhan ch'uxña jan ukax lakam jan q'äqañ.
+5. **Yaqha arunak parlañ** jan ist'apxi ukhaxa, jan kutin parlañ.
+6. **Mä jaqi mä kutiw.** Mayni jaqinakan, jaqi jan ist'añ ukar uñjañ.
+7. **Jaysaña ukat jawsaña kunsa yanapt'ayañ.**
 
-Ukanakax [parlañ yanapirinakan](/caregiving/communication-tips/) sum sarnaqañ. Uñt'ayañ jaqinakax [Picture Pairs](/games/picture-pairs/) ukat [Conversation Cards](/games/conversation-cards/) uñjañ, [Finish the Saying](/games/finish-the-saying/) ukax uñt'ayañ sipansa parlañ. Telefono ukat video jaqimpi parlañ, [phone and video calls](/activities/phone-and-video-calls/) uñjañ.
+Uka yatiñanakax [demencia parlañ yatiñanakampi](/caregiving/communication-tips/) sum sarnaqapxi. Uñjañ ukar sarnaqañanakax ist'añ jan sum wakiskiñ jist'arapxi. [Picture Pairs](/games/picture-pairs/) ukat [Conversation Cards](/games/conversation-cards/) uñjañ ukat parlañ yanapt'apxi, [Finish the Saying](/games/finish-the-saying/) ukax arunak uñacht'ayañ yanapt'i. Telefono jan ukax video parlañatakix, [telefono ukat video parlañ](/activities/phone-and-video-calls/) uñjañ.
 
-## Uñjañax askʼa jukʼampi
+## Uñ uñjañax wali wakiskiriwa
 
-2024 Lancet Commission, uñjañ jan allin askʼa amuyu jan allin ukhamarak nayrar churaña. UCL uñt'ayi, uñjañ jan allin 2% amuyu jan allin ukhamarak, ukat Commission uñt'ayi, uñjañ yanapi taqi jaqinakatakix. [NIA uñt'ayi](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes), 60 mara qhipa, mara mara jan ukax mara paqallq ukhama, ojos uñjañapa, ukat lentes ukat uñjañapa. Uñjañ juk'a jan allin ukax jaqi ch'iqtañ askʼa.
+2024 maranx Lancet Commission jan wali uñjaña jan walt'äwi, mayni wakiskir chiqa sasaw yapxatäna. UCL yatiyirix, ukax demencia 2% kipkaki sasaw amtaraki, ukat Commission uñ uñjañ ukat walt'ayañ taqinakan sarnaqañ sasaw yatiyi. [NIA yatiyirix](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) 60 maranakat qalltasina, maranakan jan ukax kimsa maranakan dilated uñ uñjaña wali sum, ukat lentes qillqatanakan uñjañ. Juk'a uñ jan walt'äwi jiwasan jaltañ wakiski.
 
-## Doctor parlañapa
+## Doctor parlañ
 
-Lunthatañ ukat uñjañ jan allin uñtasxaspa ukax doctor parlañapa. Oreja jan allin, laq'a jan ukax juk'a qhuya ukax uñt'añapa uñjañapa. Jumax lunthatañ yanapirinakan jaqimpi sarnaqapxtasa, doctor uñjañapa lunthatañ jan allin uñt'ayañapa, sarnaqañ ukat uñjañ yanapi.
+Jan ist'aña, uñ jan walt'äwi uñjasiñ, doctor ist'awi ukat uñ uñjaña jawsañ. Ch'iqapacha uñjañ, kunapachatix jan ist'aña ch'iqapacha, oído lakat jan ukax oído ch'iwiyañ. Khitinakas demencia jarkañ jaqi uñjapxta ukhaxa, jupanakan doctorar jan ist'aña jan ukax uñ jan walt'äwi parlañ, ukax amuyu, sarnaqañ ukat mayninakan yanapt'ayañ.
 
-Ukax yatiñ jan doctor yatiñ ukhamaraki. Mayni yatiñax [medical disclaimer](/medical-disclaimer/) uñjañapa. Ukat yatiñ [social connection and brain health](/brain-health/social-connection/) uñjañapa.
+Uka qillqatax taqi amuyunakan yatiyañawa, janiw doctor yatiyañakiti. Uñjañ [medical disclaimer](/medical-disclaimer/) uñjañ. Mayni yatiñanakax [jaqinakan parlañ ukat amuyu sum](/brain-health/social-connection/) uñjañ.

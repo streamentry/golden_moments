@@ -1,32 +1,29 @@
 ---
-title: "Dementia bɛ mɔgɔ la: kumakan ɲɛfɛnw"
-seoTitle: "Dementia kumakan: o ye min fɔ ani min ka bɔ kuma la"
-description: "Dementia bɛ mɔgɔ min na, o kuma ka ɲɛfɛnw: kuma ka kɛlɛ ka se min na, o ye min fɔ ka kɔ min ma, ani kuma ka ɲɛ ka lakodon ka se."
+title: "Kuma ɲɛfɛ dimansiya bɛ mɔgɔ la"
+seoTitle: "Dimansiya kumakan: min fɔ ani min ma fɔ"
+description: "Kumakan ɲɛfɛ dimansiya bɛ mɔgɔ la: kuma sigi ka ɲɛfɛ, min bɛ kɛ kuma kɛlɛ ma, min bɛ kɛ ka ɲɛfɛ ani ka ɲɛ ye kuma la."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kuma ka kɛlɛ ka se min na, mɔgɔ ye ɲɛ ta ani i tɔgɔ fɔ. Kuma ka bɛnkan, ka
-  kuma dɔrɔn fɔ. Ka kuma ɲɛ ka ɲɛ, ani ka sɛgɛn kɔ ka ɲɛ ka ɲɛ tuma caman.
-  Kuma ɲɛfɛnw ni ɲɛfɛnw kɔ, sinsin ɲɛ ye ɲɛ ni a ka kuma ka bɔ ka gɛlɛn
-  kɔ. I kɛ ka kɛlɛ ka se min na, kɔ fɛɲɛ ka sɛnɛ ni ɲɛgɛ ni karamɔgɔ ka kɛ.
+  Kuma kɛ yɔrɔ ɲɛmɔgɔ la, mɔgɔ ɲɛ la, ka a tɔgɔ fɔ, ani ka kuma kɛ ka tɛmɛ ka ɲɛ, ka kuma ɲɛfɛ dɔ kɛ. Ka ɲɛmɔgɔ kelen ɲɛfɛ ka kɛ, ka kuma sɛnɛ ni ɲɛfɛ ye. Ka ɲɛ ɲɛmɔgɔ ye ko cɛ ɲɛ ye, ka min bɛ fɔ kɛ ɲɛ ɲɛfɛ. Ka kuma kɛ kɔrɔ, ka a kɛ ɲɛmɔgɔ dɔ ye. Ka a bɛ kɛ ɲɛfɛ ka ɲɛfɛ kɛ. Ka mɔgɔ ɲɛ kɛ ɲɛmɔgɔ ye, ani ka ɲɛfɛ ka kɛ ɲɛmɔgɔ tɛmɛ la.
 keyPoints:
-  - "Kuma ka ɲɛ, o ka fɛn caman ka ɲɛ ka bɔ, ani mɔgɔ ɲɛ ta."
-  - "Kuma ka gɛlɛ ka se min na, kuma dɔrɔn ni fɛn kelen, ani tɔgɔ ye « a », « o » walima « u » ma."
-  - "Ka sugandi ni fɔ « ɔn » walima « awɔ », kɔrɔ ka ɲɛ nɔgɔ ka kuma ka ɲɛ."
-  - "Ka jaabi ɲɛ. Ni ka kuma ma faamu, ka kuma kelen ye fɔ, o kɔ ka kuma kura fɔ."
-  - "Kuma ka bɛnkan, ani ka kuma ka ɲɛ. Ka mɔgɔ ka miiri ɲɛ n’o ka kuma ye."
-  - "Ka kuma tɔɔrɔ tuma, ka ɲɛnamaya ni ɲɛgɛ, ni fɛn ye yɛrɛ ka sɛgɛn, ka kuma sɔrɔ ka ɲɛfɛn ni ɲɛ-tɔɔrɔ ni sɛbɛ."
+  - "Kuma kɛ ɲɛ kɔrɔ, ka ɲɛ ɲɛmɔgɔ ye ka a ɲɛ ye."
+  - "Ka kuma sɛnɛ ni ɲɛfɛ ye, ka kuma kelen kɛ, ani ka tɔgɔ kɛ cɛ, muso, walima ɲɛmɔgɔ ye."
+  - "Ka sɛnɛ ni ɲɛ ye, walima ka ɲɛfɛ ni ɲɛfɛ ye, ka ɲɛfɛ ka kɛ."
+  - "Ka tɛmɛ ka kuma sɔrɔ. Ni a ma faamu, ka kuma kelen ɲɛfɛ, ka kuma kura ɲɛfɛ."
+  - "Ka kuma ɲɛfɛ ka ɲɛ kɛ. Ka a ɲɛ ɲɛfɛ ka kɛ kuma la."
+  - "Ni kuma ka ɲɛ, ka sɛnɛ ni ɲɛ ye, ni ɲɛmɔgɔ ye ka a ɲɛ ye ka a ɲɛ kɛ."
 faq:
-  - q: "Mun ye i kana fɔ dementia bɛ mɔgɔ la?"
-    a: "Ka mɔgɔ ɲɛfɛ ka kuma ka « I y’o ɲɛ tɔ? » ni « O tɔ bɛ ten ». Ka kuma ka ɲɛ ni « O man di », ka mɔgɔ ka fɛn ye fɔ « I y’o fɔ kɔ fɛ » kɔ, ka a kɔ ka mɔgɔ tɔ fɛn kɔ bɛ kuma ko a bɛ yan to. Ka kuma ka fɛɲɛ kɛ ka kuma bɔ. O bɛ ɲɛɲɛ ni tɔɔrɔ ta ka ɲɛnamaya ɲɛ kɛ tɔ."
-  - q: "Ni a bɛ fɛn tɛ tiɲɛ, n’i ka kuma ka ɲɛ?"
-    a: "Ayi, a bɛ ɲɛ ka kɛ. Ni fɛn tɛ tiɲɛ bɛ ɲɛ tɔ, ka o to. Kuma ka ɲɛ kɛ bɛ sɛgɛ tɔ ka miiri ka ɲɛ, ka a tɔ ɲɛ tɔ tuma caman. Ka hakili don mɔgɔ ka miiri ni a ka ko bɛ ɲɛ bi."
-  - q: "Ni a tɛ kuma sɔrɔ, n’i ka kɛ mun ye?"
-    a: "Ka sɛgɛn a ma tuma. Ni a bɛ gɛlɛya tuma, ka ɲɛfɛnw bɛ, i ka se ka ko ɲɛɲɛ ka ko dɔ fɔ, walima ka miiri ka ɲɛ ka a ka kuma ka kɛlɛ. Ka fɛn ɲɛfɛ, ka fɛn ɲɛfɛ walima ka fɛn ɲɛfɛ cɛɲɛfɛn ye kɛ sɛnɛ."
-  - q: "I bɛ kuma ni mɔgɔ min ye tuma ka ɲɛ, ka a kuma sɔrɔ ka ɲɛ, mun ye?"
-    a: "Ka ɲɛ kuma kuma ka ɲɛ ka bɛnkan ani ka ɲɛ, ka a dɛ ni fɔ ka ɲɛ ka kuma. Ka ɲɛ ka miiri ni a yɛrɛ ka kuma ka ɲɛ, ka a bɛ sɔrɔ ni ɲɛ ta, ka a ɲɛ ka kuma. Ka ɲɛ ka sɛnɛ, ka sɛnɛ dɔ ka ɲɛ, ni ka ɲɛ ka ɲɛ, o bɛ kuma caman ka ɲɛ kɛ kuma kɛnɛ kɔ."
+  - q: "Mun ye min ma fɔ dimansiya bɛ mɔgɔ ye?"
+    a: "Ka ɲɛ ɲɛmɔgɔ ye ka kuma ɲɛfɛ (\"I bɛ tɔgɔ ɲɛfɛ?\"), ka kuma ɲɛfɛ (\"O ye ɲɛfɛ\"), ka a ɲɛ ɲɛfɛ ka kɛ (\"Ne ye o fɔ\") ani ka kuma kɛ ka ɲɛfɛ ka ɲɛfɛ. Ka kuma kɛ ka ɲɛfɛ ka kɛ, ka ɲɛfɛ. Ka ɲɛfɛ ka kɛ ka sɛnɛ ni ɲɛ ye."
+  - q: "Ni a bɛ kuma ɲɛfɛ, ne ka a ɲɛ kɛ wa?"
+    a: "Dɔrɔn, ayi. Ni kuma ɲɛfɛ tɛ kɛ ɲɛmɔgɔ dɔ ye, ka a ɲɛ ye. Kuma ɲɛfɛ tɛ ɲɛmɔgɔ ka hakili ɲɛfɛ, a bɛ kɛ ɲɛmɔgɔ ye ka ɲɛ. Ka tɛmɛ a ka ɲɛ ni a ka kɛlɛ ɲɛfɛ."
+  - q: "Ni a ma sɛnɛ kuma ɲɛfɛ, ne bɛ min kɛ?"
+    a: "Ka tɛmɛ a ɲɛ kɔrɔ. Ni a bɛ ɲɛ kɛ dɔrɔn, ka kuma ɲɛfɛ ka a ɲɛ, walima ka min bɛ fɔ ɲɛfɛ ka a ɲɛ. Ka ɲɛ, sɛnɛ ni ɲɛfɛ bɛ se ka kɛ."
+  - q: "Ne bɛ min kɛ ni a bɛ kuma ɲɛfɛ dimansiya kɔrɔ, ka ɲɛfɛ?"
+    a: "Ka ɲɛ ɲɛmɔgɔ ye, ka a tɔgɔ fɔ, ka sɛnɛ ni ɲɛ ye ani ka kuma ɲɛfɛ ka ɲɛ. Ka ɲɛ ɲɛfɛ ka a ɲɛ. Ka mɔgɔ ɲɛ ka kuma ɲɛfɛ ka kɛ ɲɛmɔgɔ ye, ka ɲɛfɛ ka ɲɛ."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -42,94 +39,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia bɛ se ka ɲɛ ka kuma sɔrɔ, ka kuma ka ɲɛ, walima ka fɛn ɲɛfɛ ka ɲɛ kɛ. O tuma kɔnɔ, mɔgɔ tɛ ɲɛɲɛ ka kuma ni i ye. Kuma ka kɛlɛ ka se min na, i ka kuma ka ɲɛfɛ, i ka kuma ka ɲɛ ani i ka tulo ka ɲɛ, o bɛ kuma ka sɔrɔ ka ɲɛ ani ka ɲɛfɛ ka lakodon ani ka sɔrɔ ni i yɛrɛ ye.
+Dimansiya bɛ ka kɛ ka kuma ɲɛfɛ, ka kuma sɛnɛ, walima ka ɲɛ kɛ kuma ɲɛfɛ. O tɛ wili ko mɔgɔ tɛ kuma kɛ. Kuma sigi ka ɲɛfɛ, ka kuma ɲɛfɛ ka ɲɛ, ani ka ɲɛ ɲɛmɔgɔ ye, o bɛ kuma kɛ ɲɛ ani ɲɛmɔgɔ ye.
 
-## Kuma ka ɲɛfɛnw min ye ka ɲɛ ka kuma dementia bɛ mɔgɔ la ni?
+## Kuma ɲɛfɛ min bɛ kɛ ɲɛ ye dimansiya bɛ mɔgɔ la?
 
-Ka a hakili to, ka fɛn dɔrɔn fɔ, ka sɛgɛn. N’i ye fɛn duuru kɔnɔ dɔrɔn ɲɛ:
+Ka ɲɛ kɛ, ka kuma sɛnɛ, ka tɛmɛ. Ni i bɛ ɲɛfɛ kelen, o bɛ kɛ:
 
-1. **Ka ɲɛ ka tulo ka ɲɛ, ka i ye ɲɛ ta.** Ka televiziyɔn bɔ, ka i sigi i ɲɛ ni a ɲɛ ye, ka a tɔgɔ fɔ.
-2. **Ka fɛn kelen fɔ tuma kelen.** Kuma gɛlɛn, fɛn kelen, ni ɲɛ kelen.
-3. **Ka sugandi ni fɔ « ɔn » walima « awɔ ».** « Dɔ walima tɛ? » ka ɲɛ ka ɲɛ ni « I bɛ min fɛ? »
-4. **Ka sɛgɛn.** Ka tuma caman di ka jaabi, ka ɲɛ ka ɲɛ kɔ ka kuma ka kɛlɛ.
-5. **Ka kuma ka ɲɛ, walima ka bɛnkan.** Ka jaabi ka miiri ni a ka ko ye, o ka ɲɛ ka ɲɛ.
+1. **Ka yɔrɔ ɲɛmɔgɔ kɛ, ka ɲɛ ye.** Ka TV kɛ, ka sigi ɲɛ kɔrɔ, ka a tɔgɔ fɔ.
+2. **Ka kuma kelen fɔ.** Sɛnɛ gɛlɛn, kuma kelen, ɲɛfɛ kelen.
+3. **Ka kuma fila sɔrɔ.** "Ji walima kafe?" bɛ ɲɛ ka tɛ "I bɛ mun fɛ?"
+4. **Ka tɛmɛ.** Ka waati caman di a ka jaabi ma, ka kuma kɛ ka tɛ.
+5. **Ka kuma tɛ ni kuma ɲɛfɛ.** Ka ɲɛ ye a ka hakili ye, ka tɛ kuma ɲɛfɛ.
 
-## Mun ye ka kuma daminɛ?
+## Ka kuma daminɛ cogo di?
 
-Ka fɛn ye ka ɲɛfɛ ka ɲɛ a ka ɲɛ ye. [Family Caregiver Alliance ka lakanani](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ka fɔ ka ɲɛfɛ ka ɲɛ: ka radiyo walima televiziyɔn bɔ, ka fɛn ye kɔrɔ ka ɲɛ, walima ka ɲɛfɛ ka ɲɛfɛ.
+Ka yɔrɔ kɛ, ka mɔgɔ ka hakili bɛ ɲɛ kɔrɔ. [Family Caregiver Alliance ka sɛbɛn](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ka fɔ ko ka ɲɛ kɛ dɔrɔn: ka radio walima TV kɛ, ka fɛn kɛ, walima ka yɔrɔ dɔ kɛ.
 
-- **Ka kɔ ɲɛ ni a ɲɛ ka ɲɛ.** Ni i ka kɔ ka kɔ, a bɛ siran.
-- **Ka i yɛrɛ fɔ.** « Ɔ Dad, o ye Sarah ye, i denmuso. » O bɛ a kɛ ka i tɔgɔ ɲɛ.
-- **Ka i yɛrɛ ka ɲɛ ka a ɲɛ.** Ni a sigilen bɛ, i ka sigi walima i ka sɔrɔ ka ɲɛ.
-- **Ka i ɲɛfɛ ni i kuma ka ɲɛ ye.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ka fɔ ka i ka kuma ka ɲɛ, i ka ɲɛ, i ka ɲɛfɛ ni i ka ɲɛ ye.
-- **Ka i ɲɛnɛ ni i ɲɛfɛ ka kɛ.** N’a bɛ ɲɛ ye ɲɛfɛ, a bɛ kuma sɔrɔ ka ɲɛ.
+- **Ka kuma ɲɛ kɔrɔ.** Ni i bɛ kɔ ɲɛ, a bɛ ɲɛ.
+- **Ka fɔ ni i ye jɔ ye.** "Aw ni ce, ne ye Sarah ye, i denmuso." O bɛ a ka tɔgɔ ɲɛ ɲɛfɛ.
+- **Ka sigi a ka yɔrɔ kɔrɔ.** Ni a sigilen bɛ, i sigi walima i sigi kɔrɔ ka ɲɛ ɲɛ.
+- **Ka i ka ɲɛ ni i ka kuma ɲɛ.** [National Institute on Aging (NIA) ka sɛbɛn](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ka fɔ ko ka i ka kuma, i ka ɲɛ, i ka ɲɛfɛ ni i ka dɔ ɲɛ.
+- **Ka a ɲɛ ka ɲɛ kɛ.** Ni a ka ɲɛ walima a ka tulonkɛ bɛ, ɲɛ ɲɛ ka ɲɛfɛ.
 
-## Mun ye ka kuma ka ɲɛ?
+## Ka min fɔ, o cogo di?
 
-Ka kuma ɲɛfɛ, ka kuma gɛlɛn, ani ka kuma ka ɲɛ ni ka dɔrɔn fɔ.
+Ka kuma ɲɛfɛ, ka sɛnɛ gɛlɛn, ka kuma dɔrɔn ni ɲɛ.
 
-- **Fɛn kelen kuma kelen kɔnɔ.** « An ka kɛ ka i ka kɔtɔ kɛ. O kɔ an bɛ bɔ. » Ka fɛn fila kɛ kelen kɔnɔ.
-- **Ka tɔgɔ fɔ, ka sugandi ka kɛ.** « Tant Jean ye wele. » O ka ɲɛ ka ɲɛ ka fɔ « A ye wele. »
-- **Ka kuma ka ɲɛ, ka ɲɛ.** Family Caregiver Alliance ka fɔ ka kuma ka ɲɛ, ka ɲɛ.
-- **Ka kuma kelen ye fɔ, o kɔ ka kuma ka ɲɛfɛ.** Ni a ma faamu, ka kuma kelen ye fɔ tuma kelen. Ni o tɛ kɛ, ka sɛgɛn, ka kuma ɲɛfɛ.
-- **Ka fɛn ɲɛfɛ ni ka fɔ.** Ka dɔ ɲɛfɛ, ka fɛn ɲɛfɛ, walima ka ɲɛfɛ kɛ.
-- **Ka mɔgɔ ni ka kuma ye, ani ka kuma a kɔnɔ tɛ.** NIA ka fɔ ka mɔgɔ kɔ ka kuma, ka a kɔnɔ tɛ, ani ka « baby talk » kɛ.
+- **Sɛnɛ kelen, kuma kelen.** "An ka kɔnɔ, an bɛ taa ... " Ka ɲɛ.
+- **Ka kɛlɛ maa ka ɲɛ tɛ.** "Ɲɛmɔgɔ Jean ye wele." O bɛ ɲɛ ka tɛ "A ye wele."
+- **Ka kuma dɔrɔn kɛ.** Family Caregiver Alliance ka fɔ ko ka kuma dɔrɔn kɛ, ka tɛ kuma kɛ.
+- **Ka kuma kura, ka kuma ɲɛfɛ.** Ni a ma faamu, ka kuma kelen ɲɛfɛ. Ni o tɛ kɛ, ka tɛmɛ ka kuma kura.
+- **Ka ɲɛ ye ni kuma ye.** Ka ɲɛ, ka fɛn kɛ, walima ka ɲɛfɛ ka kɛ.
+- **Ka kuma a kɔrɔ, ka tɛ kuma a ɲɛfɛ.** NIA ka fɔ ko ka mɔgɔ ɲɛ kɛ ko a tɛ yɔrɔ, ani ka "dimansiya kuma" kɛ.
 
-NIA ka fɔ ka sɛbɛnnen ɲɛfɛ ka kuma ɲɛfɛ. Nin ye misali ye:
+NIA ka fɔ ko ka kuma ɲɛfɛ dɔ kɛ ka sɛnɛ ni ɲɛ ye. Nin ye misali ye:
 
-| A kɛnɛ | Ka a kɛ |
+| Min tɛ fɔ | Min fɔ |
 | --- | --- |
-| « I bɛ min fɛ ka dumuni? » | « I bɛ jɛn walima sogo fɛ? » |
-| « I ka ɲɛnamaya ye mun ye? » | « I bɛ sanfɛ? » |
-| « I bɛ dumuni fɛ? » | « Dumuni bɛ se ka ɲɛ minuti duuru kɔnɔ. » |
-| « O tɛ ka o kɛ. » | « An ka o kɛ nin fɛ. » |
-| « I bɛ hakilina an ka taamasiɲɛ ɲɛ bɔ? » | « Ne bɛ miiri an ka taamasiɲɛ ɲɛ bɔ. I ka fɛn min ka ɲɛ o kɔnɔ, o fɔ ne ma. » |
-| « Ne ye o fɔ ɲɛ. » | Ka jaabi kɔ ka ɲɛfɛ, i ka hɛrɛ ni ɲɛ, i ko a tɛ ka ɲɛ ɲɛ ye. |
+| "I bɛ mun fɛ ka di?" | "I bɛ jɛgɛ walima kɔnɔ fɛ wa?" |
+| "I bɛ cogo min na?" | "I bɛ sɛgɛn wa?" |
+| "I bɛ dumuni fɛ wa?" | "Dumuni bɛ se ka kɛ miniti duuru kɔfɛ." |
+| "O tɛ cogo ye." | "An ka a kɛ nin cogo la." |
+| "I ka hakili bɛ sɔrɔ ka ... " | "Ne bɛ hakilina ka ... " |
+| "Ne ye o fɔ ɲɛ." | Ka jaabi ka ɲɛ, i ka ɲɛfɛ, i bɛ kɛ ko o ye kuma kura ye. |
 
-## Mun ye ka kuma ka ɲɛ ɲɛ?
+## Ka ɲɛ kɛ cogo di?
 
-Ka miiri ka kuma ka miiri ni ka tɔ, ka kuma kelen kɔ.
+Ka ɲɛ ka hakili ni kuma ɲɛ, tɛ kuma kelen kɔrɔ.
 
-- **Ka sɛgɛn.** Ka kuma ɲɛ ka miiri. Ka ɲɛ ka ɲɛ ka kɔ ka kuma ka ɲɛ ka kɛ.
-- **Ka fɛn kelen ye fɔ ni a ma kuma ka ɲɛ.** Family Caregiver Alliance ka fɔ ka fɛn ye fɔ ni a ka kuma ka ɲɛ.
-- **Ka kuma ka ɲɛ ka faamu.** [Alzheimer's Association ka kuma ɲɛfɛ lakanani](https://www.alz.org/help-support/caregiving/daily-care/communications) ka fɔ ka miiri ka kuma kɔnɔ, ka a fɔ ka faamu. « I bɛ siran ni mɔto ye wa? »
-- **Ka a ɲɛ ni a ɲɛfɛ ka ɲɛ.** NIA ka fɔ ni kuma ka gɛlɛ, ɲɛfɛ bɛ ɲɛ tɔ ka siran, ka dimi, walima ka tɛnɛ.
-- **Ka sɛgɛn a ka hakilina ye.** Ni a miiri ka ɲɛ, a ka miiri ka ɲɛ.
+- **Ka tɛmɛ.** Ka kuma tɛ ɲɛ ye waati ye. Ka sɛnɛ ka tɛmɛ, ka ɲɛfɛ ka kɛ.
+- **Ka kuma di ni a ye gɛlɛya ye dɔrɔn.** Family Caregiver Alliance ka fɔ ko ka kuma di ni mɔgɔ bɛ gɛlɛya.
+- **Ka a ka kuma ɲɛfɛ.** [Alzheimer's Association ka kuma sɛbɛn](https://www.alz.org/help-support/caregiving/daily-care/communications) ka fɔ ko ka kuma kɔrɔ ni a ka hakili, ka a fɔ ka ɲɛfɛ ko i ye faamu. "I bɛ siki la wa?"
+- **Ka a ka ɲɛ ni a ka dɔ ɲɛ.** NIA ka fɔ ko ni kuma gɛlɛn, a ka ɲɛ bɛ ɲɛ ka tɛmɛ ka tɛ kuma.
+- **Ka a ka hɛɛrɛ tɛmɛ.** Hɛɛrɛ ka ɲɛ, a bɛ ɲɛfɛ.
 
-## Ni a ka kuma ma tiɲɛ, mun ye?
+## Ni a fɔ kuma tɛ tiɲɛ, o bɛ min kɛ?
 
-Ka kuma ka ɲɛ. I bɛ sɔrɔ ka kɛ, a bɛ siran walima a bɛ ɲɛɲɛ. O tuma, ka miiri ni a ka ko ye, ka a fɛ tuma, ka a ɲɛ kɔ.
+Ka kuma kɛ tɛ. I bɛ ɲɛ kɛ dɔrɔn, a bɛ ɲɛ ka kɛ ka ɲɛ ni ɲɛ. O bɛ kɛ ka hakili ɲɛ ni ɲɛ. Ka hakili ɲɛ ka kɛ, ka a ɲɛ, ka tɛmɛ.
 
-Family Caregiver Alliance ka fɔ ka ko ɲɛ ka ɲɛ kɔ ka fɛn ye kɔ. Misali: ni i ba ka fɔ ka a ka denw ɲɛ ka ɲɛ kɛ, ka i ye:
+Family Caregiver Alliance ka fɔ ko ka hakili ɲɛ ka kɛ kuma kɔfɛ. Misali: ni i ya ka fɔ ko a bɛ ɲɛ den ɲɛ ka taa ɲɛ:
 
-- A ka kɛ: « Ɔ ba, i denw ye ɲɛ ye. O ye san bi naani ye. »
-- Ka a kɛ: « I ka ɲɛ ka ɲɛ ye baara ɲɛ ye. I ka ɲɛ ka ɲɛ ka kuma ka ɲɛ. An ka dumuni ɲɛ dɔ ni ɲɛ? »
+- Min tɛ fɔ: "Ne ka, i denw ye ka kɛ ... " 
+- Min fɔ: "I ye ɲɛmɔgɔ ye kosɛbɛ. Aw ka den ɲɛ ka kuma fɔ. An bɛ jɛgɛ ka kɛ kɔrɔ wa?"
 
-Alzheimer's Association ka fɔ ka kuma ɲɛ ka kɛ, a ka fɛn tɛ tiɲɛ kɛ. I ka sɛgɛn: ni ko tɛ tiɲɛ ni fɛn tɛ tiɲɛ bɛ kɔrɔ, ka a to.
+Alzheimer's Association ka fɔ ko ka kuma ɲɛfɛ ni a ka kuma ka tiɲɛ tɛ. Ka waati sugandi: ni hakilina tɛ ɲɛ, a tɛ ɲɛ, ka a to.
 
-## Dementia ka ɲɛ, kuma ka ɲɛ mun ye?
+## Dimansiya bɛ kɛ cogo di ka taa?
 
-Tuma ɲɛ bɛ ɲɛ ka ɲɛ, o tuma i ka ɲɛfɛ ka ɲɛ. Alzheimer's Association ka fɔ ka tuma saba bɛ yan:
+Ka sɛnɛ kɛ waati ni waati, ka i ka cogo ɲɛ. Alzheimer's Association ka fɔ ko dimansiya bɛ ɲɛ kɛ sɔrɔ ka taa:
 
-| Ɲɛfɛ | Min bɛ ɲɛ |
+| Waati | Min bɛ dɛmɛ |
 | --- | --- |
-| Fɔlɔ | Ka a hakili ɲɛ ka a ka kuma ka ɲɛ. Ka a kɛ kuma kɔnɔ, ka kuma ka ɲɛ a ye, ka a fɛ ka ɲɛ, ni a fɛ, ka hɛrɛ kɛ. |
-| Ɲɛfɛ | Kuma ɲɛ ni mɔgɔ kelen. Ka ɲɛ, ka ɲɛ ni a ɲɛ, ka ɲɛ ni ɔn walima awɔ, ka fɛn ɲɛfɛ-ɲɛfɛ ka ɲɛ, ka a tɔɔrɔ tɛ. |
-| Laban | Ka i ye ɲɛ ta, ka i tɔgɔ fɔ. Ka a ka bolo ni a ka ɲɛ ɲɛfɛ. Ka kuma, ka dimi, ka ɲɛfɛ, ka sɔrɔ ni ka ɲɛ ka kɛ. Ka a ka hakili ɲɛ, ka a tɔ ka kuma tɛ ka « a tɛ yan » ko. |
+| Fɔlɔ | Ka a hakili ɲɛ. Ka kuma kɛ ni a ye, ka kuma ɲɛfɛ ka ɲɛ, ka kuma kɛ ka ɲɛ. |
+| Ɲɛ | Ka kuma kɛ yɔrɔ ɲɛmɔgɔ la. Ka sɛnɛ, ka ɲɛfɛ ni "ɔn" walima "ayi", ka kuma kɔrɔ, ka tɛ kuma kɛ. |
+| Ka taa | Ka kuma ɲɛ kɛ, ka a tɔgɔ fɔ. Ka ɲɛ ka kuma kɛ ni sɛnɛ ni ɲɛfɛ. Ka tɛ kuma kɛ ko a tɛ yɔrɔ. |
 
-Mɔgɔ kelen-kelen bɛ ɲɛ, ani mɔgɔ kelen bɛ ɲɛ ni dɔ ni ɲɛ ye. Ka a ɲɛ bi ka miiri ni a ka sɛgɛn ye, ka a ɲɛ tɔ ka ɲɛ kɔ ka fɛn ye a ye.
+Mɔgɔ bɛ kɛ ɲɛmɔgɔ dɔ ye, ani ɲɛmɔgɔ dɔ bɛ ɲɛ dɔ ni dɔ. Ka kuma kɛ ni a bɛ kɛ bi, ka tɛ a tɔgɔ ɲɛ.
 
-## Dessin ni ɲɛfɛ bɛ kuma ka ɲɛ wa?
+## Sɛbɛn ni ɲɛfɛ bɛ kuma kɛ ka ɲɛ wa?
 
-Ɔn. Dessin kelen bɛ hakilina ɲɛ, ani a bɛ fɛn kelen ye ni i ye ka ɲɛ ka bolo.
+Ɔn. Ɲɛ kelen bɛ hakilina kɛ, ani a bɛ fɛn kɛ ka ɲɛ ni ɲɛ.
 
-- **Dessin ka kuma.** [Conversation Cards](/games/conversation-cards/) ye dessin ye ni kuma gɛlɛnw ye, o tɛ kuma ɲɛ.
-- **Ɲɛfɛ ka dessin.** [Photo Pairs](/games/photo-pairs/) ye ɲɛfɛ ka dessin ye i ye sugandi ka ɲɛ, o bɛ kuma ka ɲɛ.
-- **Ka fɔ ka ɲɛ.** [Finish the Saying](/games/finish-the-saying/) bɛ fɔ caman ye ni kuma ka ɲɛ.
-- **Ka fɛn ɲɛfɛ ni ka kuma.** [Picture Pairs](/games/picture-pairs/) bɛ bolo ɲɛ ka kɛ tuma ni i bɛ kuma.
+- **Sɛbɛn ɲɛfɛ.** [Conversation Cards](/games/conversation-cards/) bɛ sɛbɛn ni kuma ɲɛfɛ ye, ka tɛ kuma kɛ.
+- **Ɲɛmɔgɔ sɛbɛn.** [Photo Pairs](/games/photo-pairs/) bɛ sɛbɛn min i ye sugandi, ka kɛ o ye ɲɛ ye, ani o bɛ kuma sɔrɔ.
+- **Kuma ɲɛfɛ.** [Finish the Saying](/games/finish-the-saying/) bɛ kuma ɲɛfɛ ye, ka kuma tɛmɛ ka kɛ.
+- **Ɲɛ ka kɛ, kuma kɛ.** [Picture Pairs](/games/picture-pairs/) bɛ i ka bolo kɛ ka kuma kɛ.
 
-Ka a ɲɛ ka kɛ [ka fɛn ye ka ɲɛ ni a ye](/caregiving/how-to-play-together/) ani [hakilina ɲɛfɛnw](/activities/reminiscence/). Ni i bɛ taa ka ɲɛ walima ka wele, i ka [taa ka ɲɛ](/activities/visiting/) ni [telefɔn ni video wele](/activities/phone-and-video-calls/) ka ɲɛfɛ lakanani.
+[Ka o kɛ ka o kɛ](/caregiving/how-to-play-together/) ani [ka kuma ɲɛfɛ](/activities/reminiscence/) bɛ kɛ ka ɲɛ. Ni i bɛ taa ka ɲɛ walima ka wele, i ka [taa ɲɛ](/activities/visiting/) ni [wele](/activities/phone-and-video-calls/) ɲɛfɛ.
 
-## N’i ka hakili ban, mun ye?
+## Ni ne ka hakili bɛ ban?
 
-O bɛ mɔgɔ bɛɛ kɛ. NIA ka fɔ ni i ka hakili ban, i ka ɲɛ ka ɲɛ, i ka ɲɛ, i ka sɛgɛn. Ka ɲɛ ka ɲɛ, ka sɛgɛn ka ɲɛ ka kɛ, ka ɲɛ ka kuma sɔrɔ. I ka se ka kuma ka ɲɛ kɔ tuma kura, ani a bɛ se ka jaabi ni i ka ɲɛ ye. Ni hakili banni bɛ kɛ tuma bɛɛ, o ye ko i ka dɛmɛ ka ɲɛ ye, o tɛ ko i bɛ kɛ ɲɛ. [Caregiver self-care lakanani](/caregiving/caregiver-self-care/) bɛ yɛrɛ ka dɛmɛ ka ɲɛ.
+O bɛ kɛ mɔgɔ bɛɛ la. NIA ka fɔ ko ni i ka hakili bɛ ban, i ka waati ta ka hakili ɲɛ. I ka kɔnɔ ka sɔrɔ, ka dɔrɔn ka fɛn kɛ, ka kɔfɛ ka sɛgɛn. I bɛ kuma daminɛ kɔfɛ. Mɔgɔ bɛ ɲɛ ka ɲɛ ni i ka hakili ɲɛ. Ni hakili bán bɛ kɛ dɔrɔn, o bɛ kɛ ko i ka dɛmɛ caman kɛ, i tɛ ɲɛ ye. [Caregiver self-care](/caregiving/caregiver-self-care/) ka sɛbɛn bɛ yɔrɔ caman di.

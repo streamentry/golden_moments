@@ -1,33 +1,33 @@
 ---
-title: "Demencia uñtat chacha-warminakatakis sarnaqawinaka"
-seoTitle: "Chacha-warminaka demencia uñtat: Chiqpach sarnaqawinaka"
-description: "Demencia uñtat chachanakatakix sarnaqawi ideanakax jupan lurawinakapan, jan ukax suma uñt'atanakapan, sapa urun sarnaqawinakapan uñtatawa, jan estereotipo ukanakan. Sapa sarnaqawi sigurus lurañatakix yanapanakampi."
+title: "Dementia ukan chachanakatak lup'iwinaka"
+seoTitle: "Dementia ukan chachanakatak lup'iwinaka: Chiqa uñt'awinaka"
+description: "Dementia ukan jakañ chachanakatak lup'iwinaka, jiwasan sartawinakapat, lup'iwinakapat ukat uru sapa lurañanakapat uñt'ayañanakaru, sapa lupi kunjamas wali sum apnaqaña yatiyañanakampi."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Demencia uñtat chachatakix suma sarnaqawinakax jupan propio uñt'atanakat
-  utjapxi: lurawi jupax lurañ munäna, suma uñt'ata ukat sapa urun sarnaqawinakapa
-  jupax uñt'ayasïna. Qillqir uywatuqi oficinan lurañ munaspa papelanak
-  yatiyañatakix, mecánico chachax herramientanak sum uñjañatakix, deportenak
-  munaski jaqix maynit jukʼamp juk'a juego aruskipañatakix munaspa. Jaqinakax
-  mayjtʼasipxi, ukatpï jaqi maynit qalltañäni, janiw chachat uñjañäñamäkiti.
+  Dementia ukan jakañ chachan sum lup'iwinakapax pachpa jakañatwa sarxi: lurañapa,
+  gustapxatap lup'iwinakapa ukat uru sapa lurañanakapa. Oficina lurirjamax
+  dokumentonak sartañ gustapxi, mecánico lurirjamax chiqpach lluqallatak
+  herramientanak apnaqañ gustapxi, ukat deportenak munirjamax nayra juego
+  uñjañ gustapxi. Lup'iwinakax chachampi chachampiw sapa, ukhamasti chachan
+  sexonakapat janiw qalltañapakiti, jan ukax chachan jakañapat qalltañapa.
 keyPoints:
-  - "Qalltañax jupan propio uñt'atanakat: lurawi, uñt'ata, sapa urun sarnaqawi ukat kusisitañ munat."
-  - "Chiqpach amtanaka, akham sañ kunjamtix tornillos uñt'añax, auto mayjtʼañax jan ukax maderan lijañax, mä clase ukham jan uñjasiñanakat sipansa jukʼamp munasiñ utjaraki."
-  - "Jan jupa herramientanakat jan ukax deportenakat munkiti. Jukʼanakax manq'añ, yatintañ, uywañ jan ukax sarnaqañ munapxi. Jupat jaysaña, uñjaña ukat jupan toqenakap arxataña."
-  - "Lurawinak sigurus lurañatakix ch'aqhanak ukat ch'iqhinak aparasiña, uñjañanïña, ukat uñt'aña chʼamañchañatakix sapa kuti ch'iqhinak sipansa."
-  - "Janiw munañamäkiti jan ukax uñt'aña chʼamanïkaspas ukax jaysañamaw. Jupaxa mä lurawi uñt'ayañamaw, jan lurañ munatapax jan, ukat qhepa urukan yatxatañamawa."
+  - "Nayra chachan jakañap qalltaña: lurañapa, lup'iwinakapa, uru sapa lurañanakapa ukat kunatas jisk'a sarnaqañapat jach'a sasa."
+  - "Chiqa amtañan lurañanakax, kunjamtixa qhanañ sartañ, kallu lurañ jan ukax madera lijañ, ch'iqa yatichañ uñt'añat juk'amp gustapxi."
+  - "Taqi chachanakax janiw herramientanakar jan ukax deportenakar gustapkiti. Walja chachanakax manqha lurañ, ch'uxña, uywañ, qillqañ jan ukax sapa jaqir yanapt'añ gustapxi. Jiskt'añamawa, uñjañamawa ukat jupan arsutap katuqañamawa."
+  - "Lurañanakax chiqpach lluqallatak herramientanak apartañampi ukat uñjañampi sum apnaqañapawa, ukat chachan sustentaña tuqi juk'amp sum lurañapawa."
+  - "Jan sasiñax yänakapiw. Jupar jilïr lurañ uñjañ sasa, janiw lurañ churañ sasa, ukat uru wasitat yatiqañ jist'arasiñamawa."
 faq:
-  - q: "¿Kunanakas demencia uñtat chachanakax munasipxi?"
-    a: "Janiw mä uñacht'äwiyäkiti, jupanakan munañapax sapa jaqin munañaparjam jukʼamp utjaskiwa. Suma qalltañanakax jupan pasado lurawinakampi sarnaqañanakampi uñt'atäñapawa, akham sañ kunjamtix papelanak yatiyañatak jan ukax tornillos ukat tuercas uñjañatak, ukat munasiñanakampi, akham sañ kunjamtix pesca, autos, música, manqʼa lurañ jan ukax deportes. Jupa kuna lurasa uñjañamawa ukat ukan qalltañamawa."
-  - q: "Awkijax grupo lurawinakat jaysaski. ¿Kunas lurasa?"
-    a: "Walja jaqinakax, chachanakas warminakas, mä clase ukham uñjasiñanakat jan ukax wawanakjam uñjasiñanakat jaysapxi. Mä lurawi churañ yritam: '¿Yanapt'asmati kunaymana akanak uñjañamataki?' Juk'a grupo jan ukax mayni mayninakampi tiempo pasañax suma uñjasiñ utjaraki, jumanakan jaqinakax jach'a cuartonakan sipansa."
-  - q: "¿Herramientanak uñt'añax sigurosa?"
-    a: "Sólo uñjañawa ukat sigurus herramientanakampi. Herramientas eléctricas, filos jan ukax kunas jach'a utjki ukanak apartaña, ukat lurawinakanak churañ akham sañ kunjamtix madera uñt'añax, sum uñjat ferreterianak jan ukax tornillos ch'aqhanak ukat kunjamtix jan ukax maqanakampi ajuntaña. Alzheimer's Association sañ sañ taller ukan jan waliki lurawinak apartañ, akhamat kuna lurawinak uñt'añax sigurusa uñt'atäñapa."
-  - q: "Profesional sarnaqirïnwa. ¿Ukhamaraki juk'a lurawinakax jan kusisiyañapä?"
-    a: "Akax jan kusisiyaspa ukhamarak jan waliki lurawinak uñjasipxi. Lurawi yanapt'añat uñjañamawa, adulto materialanak apnaqañamawa, ukat jupan sarnaqawipat sasa lurawi ajllapxañamawa, akham sañ kunjamtix lista uñjañ, archivo amuyaña jan ukax mailing ukat yanapt'añ. Jupa mä lurawi sum yatïna ukhaxa, ukat mayni lurawi ukat kunjamtix jan ukax maynit juk'ampi, jupat jaysaskani."
+  - q: "Kuna lup'iwinaka dementia ukan chachanakax gustapxi?"
+    a: "Janiw juk'a lista sasa utjkiti, kunattix chachanakan munañap taqi jaqinakan munañap ukhamarakiw. Nayra lurañanakar sarañax askiwa, kunjamtixa papelanak amuyaña jan ukax tuqinak ukat tornillonak sortiyaña, ukat gustapkäna lup'iwinakar, kunjamtixa challwa ch'allaña, auto, yatiña, uywaña jan ukax deporte. Kunas jupa pachpa mayjt'aña uñjañamawa ukat ukar sarnaqañamawa."
+  - q: "Awkijax grupo lup'iwinakar jan munaskiti. Kunsa lurarakï?"
+    a: "Walja jaqinakax, chachas warmis, yatiqañ sasina jan ukax wawachat sasina lup'iwinakat jan munapxi. Trabajo sasa churañ yantt'apxam: 'Ukanak sortiyañ yanapt'ayätati?' Jisk'a grupo jan ukax maynit maynikama pachax juk'amp sum amuyasiñapawa, sala jach'a sasina."
+  - q: "¿Walikiñapaw chachax herramientanak apnaqañapa?"
+    a: "Uñjañampi ukat seguro herramientanakampiw. Mistunakjam, lluqallatak ukat taqi chhaqht'ir yänakjam aparam, ukat madera lijañ, sajta tornillonak ukat jark'añ ukax amparampi sujtañanakjam churam. Alzheimer's Association sasiñ, taller ukat jaqi lurañ sitio ukanakat peligro yänak aparañamawa, ukhamat lijañ ukax walikiñ lurasiñapataki."
+  - q: "Jupax profesional sarakïna. ¿Chiqpach sasïkiti sasa lurañanakax jan sum uñjat?"
+    a: "Ukax jan walikiñ sasiw, uñjaskan sasa churañ yanapt'añ sasa jan ukax trabajo sasa. Lurañ chiqpach yanapt'añ sasa uñtam, chiqpach jaqi materialanak apnaqam, ukat nayra lurañ jan ukax uñjañ, tiyanaka, jan ukax chiqpach pachaki sasa yanapt'añ ukhamarak sarnaqam."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -46,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-Jaqinakax usuqañ "demencia uñtat chachanakatakix sarnaqawinaka" sañ thaqhapxi, jan ukax usual sarnaqawinakax jupan jaqi uñtat chachan jan mayjt'añapatakix. Akax chiqpachampiwa suma amuyasiñawa. Ukampis jan "chachanakatak" sarnaqawinakan lista ukax jan jani. Ukax mä jaqi kunjamasa ukax jupan sarnaqañ, kunjamasa lurañ, jan ukax kunjamasa sarnaqañ. Sapa jaqix munañanakapa, uñt'añanakapa ukat sarnaqawi jupan propiowa. Walja chachanakax manqʼa lurañ, uywañ, pintar jan ukax jachʼañ munapxi, ukat walja warminakax autos jan ukax béisbol munapxi.
+Jaqinakax "dementia ukan chachanakatak lup'iwinaka" sasa jiskt'apxi, kunattix yaqha lup'iwinakax jupan jakañapar janiw mayjt'kiti. Ukax chiqpach jan walt'äwi sasiwa. Ukampis jiwasax chachan "chacha lup'iwinaka" sasa lista janiw sarañäkiti. Jach'a amuyu: chacha jupar uñjasa, kunas lurañ, uru sapa kunas lurañ ukat kunas jupar jach'a sasa luräna. Taqi jaqinakan munañapax jukhamakiwa. Walja chachanakax uywañ, qhiparu sarañ, qillqañ, ch'uxña jan ukax jach'a mamanakas gustapxi, ukat walja warminakax autonak jan ukax beisbol gustapxi.
 
-## ¿Kunjamas juk'a sarnaqawinak tuqit jupa munasiñapa yatipxaspa?
+## Kunjamas chachax sum gustapxañapataki lup'iwinakaru thaqhañäni?
 
-Jupan uñt'äwipat qalltañamawa. Alzheimer's Association sañ akham sapxi: [sapa urun uñacht'äwi](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) sarnaqawi munañanakapat, jan munañanakapat, chʼamanakapat ukat uñt'añanakapat lurañamawa, ukat kunjamasa sapa urun pachap sarnaqañapa. Jumax kuna tuqit amuyañamawa:
+Nayra jakañ uñjañamawa qalltaña. Alzheimer's Association sasiñ, [uru sapa amtaña](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) jakañ munañanakapan, jan munañanakapan, chiqa lurañanakapan ukat uru sapa sarnaqañ uñjaña ukhamar lurañamawa. Jumax amuyasim:
 
-- **Kunas lurañapa?** Oficina, chacra, fábrica, trabajo, militar, ventas, yatichaña, manejo, utachan lurañapa?
-- **Kunas jan lurañ urunakan lurañ munaski?** Pesca, naipes, madera lurañ, deportes, iglesia, música, manqʼa lurañ, autopa garaje ukan utjañapa?
-- **Kunas sapa uruw lurañapa?** Sapa urupan café ukat periódico? Jach'a pachan uñjaña? Sábado urunakan auto uñt'añapa?
-- **Kunas jupa jupamp qalltañapa?** Alzheimer's Association sañ sañ, jaqi jan mayisiñ qalltañ ukax, akham sañ kunjamtix pisos sipiña, ukax sarnaqawi ukan mayjt'añapa.
-- **Kunas jupa jan munañapa?** Maynit deportes uñjañ munapxi; mayninakax jaya ukat jach'a sarnaqawi jan munapxi. Kuna pachas kusisi, llakisi jan ukax phiñasi uñjasim uñjañamawa.
+- **¿Kunas lurañapa?** Oficina, chakana, fábrica, oficio, soldado, venta, yatichaña, manejo, jan ukax utan lurañ?
+- **¿Kunas lurañ jan lurañ urunakan?** Challwa ch'allaña, naypachan, madera lurañ, deporte, iglesia, ch'uxña, manqha lurañ, jan ukax garajen auto?
+- **¿Kunas sarnaqañapa?** Taqi uru qamañ kafe ukat periódico? Jach'a uñjañ? Sábado auto ch'allaña?
+- **¿Kunas juk'amp jupa pachpa qalltaski?** Alzheimer's Association sasiñ, jaqix janiw mayjt'atäkiñani ukhasa lurañanak qalltaski, kunjamtixa phuqhaña, ukax uru sapa sarnaqañar mantañ jutaspa.
+- **¿Kunas jan munañapa?** Walja jaqinakax deporte uñjañ gustapxi; yaqhepax jan gustapxi kunattix jakañ ukat jaramanaka jan munapxi. Uñjam kuna urunakan kusisitaski, llakisitaski jan ukax jan kusisitaski.
 
-Jupan familiaru ukat wali ch'iqhinakampi parlañamawa. Jupanakax juk'a uñt'atanakap yatipxi, ukanakax jichha sarnaqawi ukan jan utjapxiti.
+Familiapan awkinakaru, taqi jaqinakaru yanapt'añ sasa jiskt'añamawa. Jupanakax amuyapxi kunanakas jichhürux janiw jakañar mayjt'äkiti.
 
-## Pasado lurawinakan sarnaqawi ideanakapa
+## Nayra lurañanakan lup'iwinaka
 
-Alzheimer's Association mä chiqpach uñacht'äwi uñacht'ayi: mä oficinan lurirïki qillqir uywatuqix papelanak sumt'añ, moneda t'anqanak jan ukax mailing yanapt'añ ukat lista qillqañ munaspa, mä chacharïki jan ukax uywäkiki qalltañ, jupanakax ch'iqhinakan lurañ munapxi. Akax walja lurawinakatakix mä kunjamasa.
+Alzheimer's Association sasiñ, jach'a uñjañanakaw utjki: oficina lurirjax dokumentonak sartañ, ukat "kuna lurañanaka" sasa qillqañ gustapxi, ukhamarak sum mayjt'añ ukat jupa jan jak'añ, uywiri jan ukax qhiparu lurañax jach'a lup'iwinak utjaraki. Taqi lurañanakan ukhamaraki.
 
-| Pasado lurawi | Sarnaqawi ideanakapa | Juk'a sarnaqawi |
+| Nayra lurañanaka | Lup'iwinaka | Ch'iqa lurañ |
 | --- | --- | --- |
-| Oficina jan ukax negocio | Papelanak carpetanakan sumt'añ, sobres ch'uqañ, lista uñjañ, escritorio cajanakan sum uñt'añ | Sobres sayañ; clip ukanak caja ukan yänañ |
-| Oficio jan ukax mecánico | Tuercas, tornillos ukat arandelas sum uñt'añ; tornillos maqampi ajuntañ; herramienta catálogonak uñjañ | Tamañun ukhamat paqallq vasonakan uñt'añ |
-| Chacra jan ukax jardinería | Uma apaña, qhunqhunaka sarañ, qarqa jaqhañ, uywa uñjañ | Lurawin jan ukax uñt'añanakam qhipan jaqhañ; yuyu k'achanak aptaña |
-| Militar | Zapatonak lustrañ, cajon uñt'añ, munasiñanakampi sartawinakan uñjañ | Ukhajj urun sarnaqawinakan jan ukax musica ukanak ist'añ |
-| Ventas jan ukax atención al cliente | Visitanakar jaqunañ, mikhunanakanak churañ, cupones uñt'añ | Punku ukan qunuñ, jupanakar sañ saña |
-| Yatichaña | Qillqanakan uñjañ, libros uñt'añ, tema uñt'añ uñjañ | Mä libro uñjañ mayni mayninakampi |
-| Manejo jan ukax transporte | Mapa jan ukax auto revistanak uñjañ, autos lijaña | Uta punku ukan autonak uñjañ |
-| Utachan jan ukax familia | Lunt'anak apaña, mesa uñt'añ, mikhuña yanapt'añ | Servilletanak alisaña; jiwañ |
+| Oficina jan ukax negocio | Papelanak carpetanakar sartaña, sobrenak selloña, lista uñjaña, escritorio jaskha sum jaskhaña | Sobrenak apaqaña; clip paquetenakar churaña |
+| Oficio jan ukax mecánico | Lijañ tuqinak, tornillonak ukat arandelanak sortiyaña; jach'a tornillonak amparampi ajuntaña; herramientanakan catálogonak uñjaña | Tamañ sasiw kimsa tazanakar sortiyaña |
+| Qamaña jan ukax jardinería | Yaqhipa, qhurunak apaqaña, lapanak thaqhaña, uywiri uñjaña | Uraqpachan jaqhipa lurañ uñjaña; muruxa ch'allaña |
+| Soldado | Zapatonak ch'uqiñ, cajón sum jaskhaña, jiwasan sarnaqañan fotonak uñjaña, sapa chachax munasa | Uru sapa taqi musica uñjaña |
+| Venta jan ukax atención al cliente | Uñtasiri jaqinak sum katuqaña, manq'a apaqaña, cupón sortiyaña | Puerta sayt'asa, sum sarañ mayaña |
+| Yatichaña | Libro taypi wakiskañ, libronak jaskha, pinturanak tema sasa sortiyaña | Pinturanakan libro sapa uñjaña |
+| Manejo jan ukax transporte | Mapanak jan ukax auto revistanak uñjaña, auto ch'allaña | Ch'iqa punkuna autonak uñjaña |
+| Utan lurañ ukat familia | Lliqinak phuqhaña, mesa churaña, mank'a lurañ yanapt'aña | Servilletanak llamp'uña; ch'uxña |
 
-Mayni yatiñanakax, jak'achasiñ militar lurawi ukax, sum jachʼa amuyunak apt'apxi. Jupan qhipa purir sarnaqawi uñt'añamawa, pasado tuqit parlañax suma uñjatäñapawa, jupa phiñasi uñjasim tema jak'ichaña.
+Yaqha yatiñanakax, sapa kawkirus soldado jakañ, chuymar ch'ankhanak apt'ayapxi. Chachan jan walt'äwiruw sarnaqañamawa, nayra jakañ parlañax chiqpach sum utjañapawa, ukat jupa llakisispa ukhasa, jisk'a jisk'a tema uñjañ.
 
-## Hobbies ukan sarnaqawi ideanakapa
+## Gustapkäna lup'iwinakan lup'iwinaka
 
-1. **Maderar lurañ.** Mä lisa madera lijaña jan ukax pájaro casa ukanak pintaña. Alzheimer's Association sañ taller ukat herramientanak jan waliki ukanak apartaña, akhamat lijaña ukax sigurus ukat kusisiñani.
-2. **Pesca.** Anzuelonak jan lurayaspa caja uñt'añ, pesca revistanak uñjañ jan ukax mä lacu ch'uxña sayt'añ.
-3. **Autos.** Auto uñt'añ, cromo lustrañ, autonak uñjañ ukanakan fotonak uñjañ jan ukax pasajero sarañ.
-4. **Deportes.** Mä clásico partido jan ukax resumen uñjañ, mä jisk'a pelota aptaña, golf pelotanak alfombra ukan churañ jan ukax béisbol tarjetanak uñt'añ.
-5. **Naipes ukat juegos.** Mä jisk'a naipe juego, dominó jan ukax mä kartanak ch'uxñaña mä parejanak tuqita. Sum sarnaqañawa, puntos qillqañ jaytaña.
-6. **Música.** Jupan yatiqañ tiempo ukan sumanaka taqi, mä munat banda jan ukax himno. Uñjañamawa [música lurawinak uñt'äwi](/activities/music/).
-7. **Mikhuña lurañ ukat parrilla.** Hortalizanak mayt'añ, salsa lurañ, hamburguesanakan lurañ jan ukax jupa sum amulla ukat chili lurañ, jupa lurañ ukhamaw parlaña.
-8. **Periódico.** Alzheimer's Association sañ sañ, jupa sapa urun periódico lalla ukax, jupax jan sum amuyaspas ukhamaw lurañ munaspa. Café ukat periódico sapa uruw pachan utjañ.
-9. **Lurañ.** Jach'a piezanakan maqueta ukanak jan ukax jaqinakatak amuyaski construcción jisk'a juegonak. Sum apt'añ piezanak ajllañamawa.
-10. **Mä kunanakan uñt'añ.** Mä uywa mikhuña, pájaro mikhuña ch'uqiña, jan ukax qarqanak uma apaña. NIA sañ sañ [uywa mikhuña, lijaña jan ukax sarañ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jaqinakan kusisiñanakapat.
+1. **Maderanak lurañ.** Chiqapar madera lijañ jan ukax pájaro utanak pintaña. Alzheimer's Association sasiñ, taller ukat herramientanak peligrosa yänak aparañamawa, ukhamat lijañ ukax walikiñ ukat seguro sasiw.
+2. **Challwa ch'allaña.** Anzuelonak jank'aki apaqaña, challwa revistanak uñjaña jan ukax challwa qhurunakan mayt'añ.
+3. **Autonak.** Auto ch'allaña, metal ch'uqiñ, klásico autonak fotonak uñjaña jan ukax pasajeruw sarañ.
+4. **Deportes.** Klásico partido jan ukax jach'a uñjañanak uñjaña, jisk'a pilota katuqaña, golf pelotanak alfombra ukan churaña jan ukax deporte tarjetanak sortiyaña.
+5. **Naypachanaka ukat juegos.** Yatiña naypacha sasa maynir juego, dominó, jan ukax uñt'ata naypachanak jaqhapaña. Sum amuyat sarnaqañamawa, puntos jaqhipañ jan ukax yanapt'añ.
+6. **Ch'uxña.** Nayra qhipa jiwasan arunaka, jach'a ch'uxña, jan ukax iglesia ch'uxña. Uñjam [ch'uxña lup'iwinakan uñjañanakapa](/activities/music/).
+7. **Mank'a lurañ ukat kallu lurañ.** Ch'uñu lurañ, sala jaqhapaña, hamburguesanak lurañ, jan ukax chili kunjamas lurañ sasa parlañ mank'a lurañ.
+8. **Periódico.** Alzheimer's Association sasiñ, jaqix taqi uru periódico wakiskañ gustapkaspas, jichhürux jan taqi arunak amuyañ puedkaspas uka lurañ jiwasan walikiñ. Kafe ukat periódico uru qalltañ taypin utjañapawa.
+9. **Lurañ.** Jach'a piezanakampi model kitanak jan ukax chachanakatak juk'a construcción juegonak. Ch'iqa katuqañ piezanak ajllam.
+10. **Kunas uywañ.** Uywa mank'a churaña, pájaro mank'a churaña jan ukax uraqpachanak uma churaña. NIA sasiñ [uywa uywaña, ch'allaña jan ukax sarañ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sasiw jan sasa lup'iwinakar uñjañapa.
 
-## ¿Kunjamas mä lurawi churañ sasa jan jan lurawi jiwasa?
+## ¿Kunjamas lup'iwinaka churasma jan lurañ sasa uñjatañapataki?
 
-Chiqpach yanapt'asiñat parlañamawa. Alzheimer's Association sañ sañ: "¿Yanapt'asmati?" sañ sañ, lurawinakax mä amtampi jaqhañamawa. Uñjañamawa:
+Chiqpach yanapt'añ sasa churañamawa. Alzheimer's Association sasiñ, "¿Yanapt'añamawa?" sasa jiskt'añ ukat lurañanak amuyañ sasa mayjt'añamawa. Uñjam:
 
-- "¿Uñjasmati akanak sumt'añ?" (akax prueba ukham uñjasi)
-- "Mä mixto ferretería ukhamat apt'asta, ukat estante ukan lurañ sipansa akanak sumt'añ ukhamawa. ¿Yanapt'asmati?" (akax lurawi ukham uñjasi)
+- "¿Ukanak sortiyañ munasmati?" (ukax prueba sasiñ uñjasi)
+- "Nayjar hierro mikstu aljanak lunthatxta, ukanak sortiyañ munasa. ¿Yanapt'añamawa?" (ukax trabajo sasiñ uñjasi)
 
-Yaqha yanapanakax:
+Yaqha yatiñanakax:
 
-- **Adulto materialanak apnaqañamawa.** Chiqpach herramientanak jach'a uñjañanakapa jan ukax jaqhañanakapa jaytata, chiqpach catálogonak, chiqpach sobrenak.
-- **Maynit maynit sarnaqañamawa.** Mä lurawi maynit maynit sarañax jaqhasiñawa. Mä jaqix maynit uñjañax supervisión ukhamarakiwa.
-- **Janiw jan waliki luraña ukat chʼaqhañamäkiti.** Tornillos jan ukhamaw uñt'añäni ukhaxa, ukhamaw jaysañani. Chiqpach sarnaqañanakax tiempo ukat yanapt'asiñ amuyañapawa.
-- **Qalltañ yanapt'añamawa.** Alzheimer's Association sañ sañ, walja jaqinakax lurañ munapxi, ukampis lurañ ukat qalltañ jan ukhamarakiwa. Ukax maynit maynit qalltañamawa.
+- **Jaqinakan materialanak apnaqañ.** Chiqpach herramientanak lluqallatak, catálogo chiqpach, sobres chiqpach.
+- **Mayniw sarañ.** Payan jaqir lurañ sum sarañ, mayni uñjañ jan ukax yanapt'añ sasa jiwasan sarañ.
+- **Janiw jan ukax chuymanakkiti.** Tornillonak jan kawkisa uñtañ ukax jan walt'añamawa. Chiqpach mayjt'ayañax sum sarañawa ukat yanapt'asiñ amuyañawa.
+- **Qalltañ yanapt'aña.** Alzheimer's Association sasiñ, walja jaqinakax lurañ munapxi, jan ukax sarnaqañ jan yatipxi. Nayra lurañ mayt'ayañ.
 
-## ¿Kunjamasa lurawinak mayjt'añax?
+## ¿Kunjamas mayjt'añ kunas mayjt'añapa?
 
-Demencia mayt'asiñ qalltañkama, Alzheimer's Association sañ sañ: juk'a sarnaqawinak mayt'añ, kunanakas sapa uruw lurañ utjaraki ukanak mayt'añ, ukat jaqhañanakan jan luraña jan ukax jan mayisiñ yatiñataki. Mä jaqi ukax maquinanak lurañ munaski ukax, jichha jupa mä maqanak uñjañ, auto parlañ jan ukax uñjaña yanapt'añ. Uñjañax lurañawa.
+Dementia sarxi, Alzheimer's Association sasiñ, jan ch'uxña lurañanak churañ, sapa kutiw lurañanak churañ, ukat jaqix jan ch'uxña lurasa ukhamaraki yanapt'añapa. Kawkirus maynir auto lurirjax jichhürux auto uñjañ jan ukax uñjañ gustaraki, ukhamar, chiqpach jupa pachpa sarnaqañ utjaraki. Sapa kutiw uñjañax lurañ ukhamarakiw.
 
-Jupa mä lurawi sum yatiqañax, pasado lurawi sipansa mä yaqha lurawi jukʼamp suma uñt'ayañapawa. Alzheimer's Association sañ sañ, mä profesional artista jupan lurawi mayjt'asiñax jan kusiyañapawa, ukampis mä amateur ukax mä juk'a yatiñ kusisiñapawa. Ukhamaraki mä carpintero yatiri.
+Jupax sum lurañ yatinakax, nayra lurañ jan ukax jan chiqpach jan ukax yaqha lurañ sum apnaqañ jan ukax sarañ ukhamarakiw. Alzheimer's Association sasiñ, profesional pintor jupan lurañ mayjt'ayañ jan ukax llakisiñ, amateur jupan lurañ jach'a nayrat ukat yaqha lurañanakar sarañ gustapxi. Ukhamarakiw carpintero jach'a yatiri.
 
-## Lurawinak sigurus lurañatakix
+## Trabajo sasa lurañanakan seguridad
 
-- Power tools, filo ukanak, clavonak jan ukax tornillos ch'aqha ukanak apartaña.
-- Thinner, gasolina ukat químicos sayt'ayaña.
-- Jupa janiw auto apnaqkiti ukax, auto llavenakap jan uñjasiña.
-- Taller ukan jan ukax uma ukan lurawinak sapa kutiw uñjañamawa.
-- Jach'a piezanak ajllañamawa, jan mikhuña utjañapataki.
+- Herramienta jach'a, lijañ, uñjañ jan ukax jark'añ tornillonak aparam.
+- Thinner, gasolina ukat químico yänak llavepan jist'aram.
+- Jupan auto jan apnaqaspa ukhasa, auto llavenak jist'arama.
+- Taqi taller ukat uraqpachan lurañanakan uñjam.
+- Ch'uqi kunanakax mank'añ janiw puedkaspa ukanak ajllam.
 
-## ¿Kunas luraña jan munaspa ukax?
+## ¿Kunas jupax janiw sasaspa ukhasa?
 
-Jupan amtapa chiqapar uñjañamawa. Jan sasa ukax lurawi jan suma uñt'añ jan ukax jaqhañ jan sum uñt'añ tuqi utjaraki. Alzheimer's Association sañ sañ, jan jaqinakar jaqhañ jan luraña. Mä yaqha lurawi, mä yaqha pacha jan ukax juk'a uñjasiñ ukat mayni mayninakampi sarnaqañ. Uñjañax [jan sasa sañ sañ kunjamasa lurañ](/caregiving/when-they-say-no/) tuqit.
+Ukan jan sasiñ sum uñjam. Janiw sasiñax lurañ jach'a jan ukax wawachat sasa jan ukax jichhürux jan chiqpach sasa amuyasiñamawa. Alzheimer's Association sasiñ, jan lurañ jach'a churañ jan ukax yanapt'añ. Yaqha lurañ, yaqha urux, jan ukax maynir sarañ. Uka [jan sasiñ sum sarnaqañ](/caregiving/when-they-say-no/) uñjañ.
 
-## Uñjañanakampi parlañanakampi
+## Juegos ukat parlañanak
 
-[Finish the Saying](/games/finish-the-saying/) uñt'ayi walja uñt'ata sañ sañ ukanak, ukat parlañ qalltañanakan. [Conversation Cards](/games/conversation-cards/) sañ sañ jupanakan ukat jan prueba jan ukax uñjañanakat parlañanakan, ukanakax pasado lurawinak ukat hobbies tuqit parlañ qalltañ. [Picture Puzzle](/games/picture-puzzle/) sapa uñjañ utjaraki, ukat jach'a letrani [Word Search](/games/word-search/) imprimir sañ, ukat lapicero ukampi cocina mesa ukan lurañ. Pasado tuqit parlañ jan prueba sañ, uñjañamawa [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) juego, qhiparu sasanak arunak qhipäñ, parlañar puriñ. [Conversation Cards](/games/conversation-cards/) juego, quiz jan ukax prueba jan utjaraki jiskt'awinakampi, ukat lurañ ukat ch'uxña tuqi parlañar puriñ. [Picture Puzzle](/games/picture-puzzle/) juego, taqi uñjasiñ utjañapataki jisk'a piezanak thaqhañ, ukat juk'a letra imprimida [Word Search](/games/word-search/) juego, imprimisax lapiz ukamp kusina mesa ukan lurañapawa. Chachan nayra jakañap parlañ jan pruebañapataki, uñjam [reminiscence guía](/activities/reminiscence/).

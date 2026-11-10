@@ -1,34 +1,33 @@
 ---
-title: "Nhwɛsoɔ Adwuma ma Dementia, Ɔkwan Biara Nkyɛn-nkyɛn"
-seoTitle: "Nhwɛsoɔ Adwuma ma Dementia, Ɔkwan Biara Nkyɛn-nkyɛn"
-description: "Nhwɛsoɔ adwuma ma nnipa a dementia atwam, nkyɛn-nkyɛn: nsuo-tɔnn, collage, dadaw, chalk ne ahahan a wɔde nkɔnɔ prints, ne sɛnea wobɛpaw nnwuma a ɛyɛ mfasoɔ ne a ɛfata ma nnipa a wɔyɛ wɔn adwuma."
+title: "Art Projects for Dementia Patients, Step by Step"
+seoTitle: "Art Projects for Dementia Patients, Step by Step"
+description: "Art projects for people with dementia, step by step: watercolor washes, collage, clay, chalk and leaf printing, with how to choose safe, adult art supplies."
 section: activities
 order: 28
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Nhwɛsoɔ adwuma ma nnipa a dementia atwam yɛ yie sɛ ɛyɛ tebea a ɛnnyɛ ɛkyɛn,
-  ɛma ahosɛpɛw ne ɛyɛ nea wɔhu, na ɛwɔ anammɔn a ɛda so pefee. Sɔ nsuo-tɔnn
-  adwuma, magazine collage, dadaw a ɛyɛ nwoɔ, chalk pastels wɔ ntama a ɛyɛ
-  tuntum so, anaa nhahan a wɔde nkɔnɔ prints, na fi ase biara ne wo ho. Paw
-  nnwuma a ɛnni nsɛmmɔnsɛm, a nkyɛnkyɛn ne ne mu yɛ kɛse, a ɛnni nneɛma ketewa a
-  ɛbɛtwa, na hyehyɛ sɛnea ɛbɛyɛ wɔ ɔkwan a ɛrekɔ so no ho. Adwuma no ara ne
-  nea ɛho hia; adwuma a wɔawie no yɛ akyɛdeɛ kɛse.
+  Art projects for dementia patients work best when they are short, sensory
+  and have a clear first step. Try a watercolor wash, a magazine collage, soft
+  clay, chalk pastels on dark paper, or leaf printing, and start each one
+  together. Choose non-toxic, large-grip supplies with no small loose parts,
+  and plan for the stage. The process is the point; a finished piece is a
+  bonus.
 keyPoints:
-  - "Paw nhwɛsoɔ adwuma a ɛwɔ anammɔn baako a ɛpefee, te sɛ sɔ brush wɔ nsuo mu anaa tu wɔn ɔfɔnyin, na ɛbɛma obi no ahyɛ adwuma no ase daa."
-  - "Fa nsuo-tɔnn ahyɛde a ɛnni nsɛmmɔnsɛm, a wɔn nkɔnɔ yɛ kɛse, a ɛnni nneɛma ketewa, a ɛnni ahoyw anaa nneɛma a ɛyɛ den a wɔde tu."
-  - "Fi ase bom, afei dan kɔ akyi. Nnipa bebree hia kwan koraa ɔkwan a wɔde bɛtoa so anaa ɔkwan a wɔde bɛtu."
-  - "Sesa adwuma no sɛnea obi no tumi sesa no, fi nhwɛsoɔ a ɛyɛ den wɔ mfeɛ mfiase, kɔ nneɛma a ɛyɛ kɛse ne ahosɛpɛw a ɛyɛ nea wɔhu wɔ akyiri."
-  - "Ma wo ani nyɛ ɔkwan ne ɛyɛ nea wɔhu, na nnyɛ ɔkwan a wɔde yɛ no; gyae bere a adwuma no nni anigye bio."
+  - "Pick projects with one clear first step, such as dipping a brush or tearing a picture, so the person can start easily."
+  - "Use non-toxic supplies with large handles, no small parts, and no fumes or sharp tools."
+  - "Start together, then step back. Many people need only the first stroke or cut to keep going."
+  - "Adapt the project as the person's ability changes, from detailed work early on to broad, sensory movement later."
+  - "Praise choices and textures, not technique, and stop as soon as the activity stops being enjoyable."
 faq:
-  - q: "Nhwɛsoɔ adwuma bɛn na ɛfata ma nnipa a dementia atwam?"
-    a: "Nneɛma a ɛyɛ mfasoɔ ne nsuo-tɔnn wɔ pɛpɛɛpɛ paper a ɛyɛ den so, collage a wɔfa magazine mfonini yɛ, dadaw a ɛyɛ nwoɔ a wɔbɛpam na wɔabɔ, chalk pastels wɔ ntama a ɛyɛ tuntum so, nhahan a wɔde nkɔnɔ a wɔbɛsa a ɛyɛ nwoɔ prints, ne sɛ wobɛhyehyɛ nsaa anaa nnuaba. Paw biribi a ɛfata obi no anigye ne tumi."
-  - q: "Ɛdeɛn na mɛpaw nhwɛsoɔ nneɛma ma obi a dementia atwam?"
-    a: "Hwehwɛ nneɛma a ɛnni nsɛmmɔnsɛm, a ɛyɛ nwoɔ, a ɛyɛ kɛse wɔ ntama ne mfonini mu, na mmɔ nneɛma ketewa te sɛ aborɔdeɛ, bɔtɔn, glitter, ahoyw a ɛyɛ den ne nkyɛn a ɛyɛ kyɛn, anaa biribi a ɛbɛyɛ den sɛ wɔbɛgyina so. Hwɛ nsɛmmɔnsɛm ahorow, te sɛ latex nsa-ntɔ anaa nsuo-tɔnn bi. Fa ahoɔfɛ a ɛpefee dɔ, te sɛ paper a ɛyɛ fitaa ne tɔnn a ɛyɛ dɔ, na ma nneɛma no ano nyɛ kɛse."
-  - q: "Obi a ɔreyɛ akyiri-stage no betumi ayɛ nhwɛsoɔ adwuma?"
-    a: "Betumi. Fa nhwɛsoɔ ahorow a ɛyɛ ahosɛpɛw a ɛyɛ mmerɛw. Sɔ dadaw a ɛyɛ nwoɔ, tɔ nsuo-tɔnn wɔ tray a ɛwɔ nsuo mu so de brush kɛse, anaa hyehyɛ adeɛ a ɛyɛ nkɔnɔ a wɔbɛtu mu. Ebia wobehia sɛ woboa nsa no. Hwɛ ne ɔhyɛ mu sɛ wobɛka ahoɔfɛ no ho asɛm sɛ wɔ hwɛ no ara yɛ ɔkwan a obi bɛtu mu."
-  - q: "Dɛn na ɛbɛyɛ sɛ wɔka sɛ wɔrentumi nntɔ?"
-    a: "Ka kyerɛ wɔn sɛ nhwɛsoɔ yɛ ahoɔfɛ ne mfonini a wɔpɛ, nnyɛ tumi. Fi tɔnn no ase wo ho, na ka kyerɛ wɔn sɛ wɔntoa so. Sɛ wɔka sɛ wɔampɛ hyɛ, ma adwuma foforɔ; hwɛ wɔ guide a ɛfa ɛdɛ a wɔka 'daabi' ne ahohiahia ho no mu."
+  - q: "What art projects work for dementia patients?"
+    a: "Good options include watercolor washes on heavy paper, collage from magazine pictures, soft clay for pinching and squeezing, chalk pastels on dark paper, leaf printing with washable paint, and arranging fabric or flowers. Choose the one that matches the person's interests and ability."
+  - q: "How do I choose art supplies for someone with dementia?"
+    a: "Look for non-toxic, washable materials with large handles and bold colors, and avoid small beads, buttons, glitter, wet glass, sharp scissors and anything that could be swallowed. Check for allergies, such as latex gloves or certain paints. Use good contrast, such as white paper with a bold color, and keep the supply list short."
+  - q: "Can someone in the late stage do art?"
+    a: "Yes, with simple sensory forms. Try squeezing soft clay, painting with a large brush on a tray of water, or sorting textured fabric swatches. You may need to guide the hand. Watching and talking about the colors is also a way to take part."
+  - q: "What if they say they can't paint?"
+    a: "Reassure them that art is about enjoying color and texture, not skill. Start the first stroke yourself and invite them to continue. If they still refuse, offer a different activity; see the guide on refusals and frustration."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -47,65 +46,65 @@ related: [activities/arts-and-crafts, activities/coloring, activities/sensory, a
 health: false
 ---
 
-Nhwɛsoɔ adwuma yɛ ɔkwan a ɛyɛ anigye so de bɔ bere ne obi a dementia atwam. Ɛma nsa, ani ne ahosɛpɛw di adwuma, na ɛma mo nsɛm a mobɛka. Saa kratafa yi ma nhwɛsoɔ adwuma a wɔn ntseɛ yɛ pefee, ne nkyerɛkyerɛ a ɛyɛ mmerɛw a ɛfa nneɛma a wɔbɛpaw ho ara. Sɛ wopɛ nkyerɛkyerɛ a ɛfa nhwɛsoɔ ho nyinaa, te sɛ sɛnea ɛnyɛ nneɛma a ɛfa mmofra ho, hwɛ [nhwɛsoɔ ne adwuma ma nnipa a dementia atwam](/activities/arts-and-crafts/).
+Adwinnadeɛ adwuma yɛ ɔkwan a ɛyɛ anigye so wɔ obi a ɔwɔ dementia nkyɛn. Ɛma nsa, aniwa ne nneɛma a yɛte no ahyɛ so, na ɛma mo nyinaa wɔ asɛm a mobɛka. Saa kratafa yi de adwuma a wɔn nkyerɛkyerɛ yɛ kɛse no ma, ne akwankyerɛ a ɛboa mo ma mopɛ adwinnadeɛ nneɛma a ɛwɔ ahobammɔ. Sɛ wopɛ adwinnadeɛ mu nyansa a ɛfa nneɛma a ɛfata nkurɔfo pii no, sɛ mmofra nneɛma, hwɛ [arts and crafts for adults with dementia](/activities/arts-and-crafts/).
 
-## Sɛnea wobɛfi nhwɛsoɔ adwuma biara ase
+## Sɛnea wobɛhyɛ adwuma biara ase
 
-1. **Hyehyɛ ansa na woafi ase.** Hyehyɛ nneɛma baako anaa mmienu, abɔ a ɛbɛkora so, ne nsuo a ɛyɛ nwi.
-2. **Kyerɛ anammɔn a ɛdi kan.** Sɔ brush wɔ nsuo mu, tu ɔfɔnyin a ɛdi kan, anaa tɔ dadaw ketewa bi, na ka kyerɛ wɔn sɛ wɔnyɛ saa.
-3. **Yɛ adwuma wɔ wo ho.** Gyina wo adwuma a wɔayɛ ho bi bɛn wɔn, na ɛbɛyɛ sɛ adwuma no yɛ ho tɔ, na ɛnyɛ sɛ wɔrehwɛ wɔn.
-4. **Kasa wɔ nea mohu ho.** Kyerɛ mfonini, nsɛnkyerɛnne ne nneɛma a ɛyɛ nea wɔhu, na nkyerɛ nea ɛyɛ bɔne wɔ adwuma no ho.
-5. **Gyae ansa na ahoɔden no bɛtew.** Nkaebɔ ɛnna kɔsi nkeneɛ 10 kɔsi 20 yɛ ɛbere a ɛyɛ.
+1. **Hyehyɛ ansa na worehyɛ ase.** Hyehyɛ nneɛma baako anaa mmienu, kɔɔ a wɔbɛfa so, ne ɛpɛ a ɛyɛ nsuo.
+2. **Kyerɛ wɔn anammɔn a edi kan.** Hyɛ brɔs no mu, tete ɔpɛ a edi kan, anaa hyew ɛboɔ ketewa wɔ clay no mu, na frɛ wɔn sɛ wɔnyɛ saa.
+3. **Yɛ adwuma ne wɔn ano.** Gyina wo adwuma bi nkyɛn, sɛnea ɛbɛyɛ sɛ mo nyinaa reyɛ adwuma, na ɛnyɛ sɛ wɔrehwɛ mo so.
+4. **Ka nea wohunu.** Ka sɛnea nsuo ne nneɛma a wɔayɛ no kɔ, ne nneɛma a wɔdaa so ne nsɛnkyerɛnne, na ntoa so sɛ wɔayɛ no yiye anaa.
+5. **Gyae ansa na ahoɔden no bɛtew.** Nkyɛnsɛm du anaa mmiensa ara yɛ tebea a ɛyɛ.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) kyerɛ sɛ nhwɛsoɔ yɛ ɔkwan a obi de bɛkyerɛ ne nneyɛe ne ne nteaseɛ, na ɛnhia sɛ obi yɛ nhwɛsoɔ ani-agyinamoɔ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nso ka kyerɛ sɛ wɔnkyekye adwuma ma ɛyɛ nkyɛn-nkyɛn, ɛnyɛ den.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) kyerɛkyerɛ sɛ adwinnadeɛ yɛ ɔkwan a obi de kyerɛ ne ahonyadeɛ na ɔde ne nsusuwii yɛ adwuma, a ɛnhia sɛ ɔyɛ adwinnadeɛ nyansa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) de kyerɛ sɛ ɛboa sɛ wɔkyɛ adwuma no ayɛ nkyɛnsɛm ketewa a ɛyɛ mmerɛw.
 
-## Nsuo-tɔnn adwuma
+## Watercolor wash
 
-Fa pɛpɛɛpɛ paper a ɛyɛ den, brush a ɛyɛ kɛse a ɛyɛ nwoɔ, ne ɔkyena nsuo-tɔnn ahorow wɔ nkotodwe ketewa mu. Fi nsuo a ɛyɛ tew so de nsuo hwie paper no, na ma wɔnhwie tɔnn no wɔ so. Kɔ ne nkyɛn kyerɛ paper no, ma tɔnn no ntu. Ɛbɛyɛ mfonini a ɛyɛ nwoɔ, a wɔnhia nhyehyɛe.
+Fa watercolor krataa a ɛyɛ den, brɔs a ɛyɛ kɛse ne ɛyɛ mu, ne langa kakraa wɔ nkɔm ketewa mu. Fa nsuo a ɛho tew hyew krataa no, na ma wɔnsɔ langa no so. Yɛ krataa no ntɛntɛn sɛ langa no bɛtu mu. Ɛbɛyɛ ɔwɔ a ɛyɛ nwoma, a ɛnhia sɛ wɔsusuw ho ansa.
 
-- **Mfitiase stage:** Ma wɔnpaw tɔnn ne wɔn ho ayɛ ɔkwan a wɔpɛ.
-- **Mfinimfini stage:** Ma wɔn tɔnn mmienu anaa abiɛsa, na wo ara hwie paper no.
-- **Akyiri stage:** Kyere paper no mu, ma wɔnnyɛ sponge de dabs.
+- **Mfeɛ a edi kan:** Ma wɔnpɛ langa na wɔntwe ɔkwan.
+- **Mfeɛ a ɛdi mfiri:** Fa langa mmienu anaa mmiensa ma wɔn, na wo ara hyew krataa no.
+- **Mfeɛ a ɛdi akyiri:** Kura krataa no mu bere a wɔde sponge no reto so.
 
 ## Magazine collage
 
-Boa magazine nkrataa a ɛwɔ mfonini a ɛyɛ nwoɔ a ɛwɔ nnuaba, aduan, mmoa, ahoɔ anaa akwantu so. Tu mfonini no akɔ ntanka kɛse, ɛyɛ mmerɛw sen sɛ wɔbɛtwa, na de sum fa so wɔ card paper bi so. Collage yɛ adwuma a ɛboa ma nsɛm mfiase, efisɛ mfonini biara betumi aka obi ho asɛm. Ɛfata obi a ɔpɛ ahyehyɛ ne ayi nneɛma.
+Hwehwɛ magazine krataa a ɛwɔ nkɔ ahyɛde a ɛyɛ hann, a ɛwɔ aduane, nkɔ, anantwi, kar anaa akwantu. Tew ahyɛde no mu ma ɛyɛ kɛse, ɛyɛ mmerɛw sen sɛ wotwa; na de ntoboa gluu no sɛ ɔkɔ card krataa so. Collage yɛ adwuma a ɛboa asɛm a wɔbɛka, efisɛ ahyɛde biara bɛma ɔkae bi. Ɛsɛ obi a ɔpɛ sɛ ɔhwehwɛ na ɔpɛ sɛ ɔpaw.
 
-## Dadaw a ɛyɛ nwoɔ
+## Soft clay
 
-Dadaw a wɔbɛpam ne dadaw a ɛyɛ nwoɔ betumi abɔ, abɔ, ne ahwiɛ. Yɛ ɔkwan a ɛyɛ mmerɛw, te sɛ ɔkwan, anaa tile a ɛyɛ tuntum. Dadaw yɛ adwuma a ɛma obi tumi bɔ ne ho ban, enti ɛbɛtumi aboa obi a ɔpɛ sɛ ɔde nsa hwɛ nneɛma. Ma nneɛma no nyɛ kɛse, na nnyɛ nneɛma a nsɛnnennen wɔ so.
+Air-dry clay anaa soft modeling clay tumi nhyew, nkyɛ, ne nnɔ. Yɛ ɔfɛ ketewa anaa afasu a ɛyɛ mmɔden. Clay yɛ nneɛma a ɛma obi tumi hwe so, enti ɛbɛboa obi a ɔpɛ sɛ ɔbɛfa nneɛma ano. Ma nneɛma no yɛ kɛse, na nyɛ nneɛma a ɛwɔ mframa a ɛyɛ akyin so.
 
-## Chalk pastels wɔ ntama a ɛyɛ tuntum so
+## Chalk pastels on dark paper
 
-Ntama a ɛyɛ tuntum ma pastel ahoɔfɛ pue. Fa pastel a ɛyɛ kɛse ne nkyɛn a ɛyɛ nwoɔ, na ma obi no ayɛ nkyɛn-nkyɛn anaa ɔde ne nsa anaa tissue ahyɛ ho ahoɔfɛ. Pastel de fufu ba, enti fa tray hyehyɛ ne wiase, na ɛnna wopɛ nsa no ɔsɛe. Paw pastel a wɔakyerɛ sɛ ɛnni nsɛmmɔnsɛm.
+Krataa a ɛyɛ tuntum ma pastel langa no hyerɛn. Fa pastel a ɛyɛ kɛse ne ɛyɛ mu, na ma obi no ntoa mmɔden anaa ɔde nsa anaa tissue ahyɛ mu. Pastel yɛ dade, enti fa tray di so na wɔpɛ nsa akyi bere a wɔwie. Fa pastel a ɛyɛ nwonwa ne a wɔaka sɛ non-toxic.
 
-## Nhahan a wɔde nkɔnɔ prints
+## Leaf printing
 
-Boa nhahan a ɛyɛ kɛse firi afuo mu, de tɔnn a wɔbɛpam a ɛyɛ nwoɔ hyɛ nhahan ntini no so, na de nhahan no sie paper so. Yɛ no yiye, na sɛ wotu so a, hwɛ prints no ahoɔfɛ. Adwuma yi fata ɛfa [afuo ne akuafo adwuma](/activities/outdoor-and-gardening/) ho, na ɛbɛtumi afi nantew a wɔbɛkɔ boa nhahan no ase.
+Hwehwɛ nhahan a ɛyɛ kɛse firi afuw mu, hyɛ washable langa wɔ nhahan no mpapa so, na fa nhahan no to krataa so. Yi nhahan no firi krataa no so yiye, na hwɛ ɔkwan a ɛyɛ anigye. Adwuma yi fata ne [outdoor and gardening activities](/activities/outdoor-and-gardening/), na ɛbɛtumi afi nantew a wɔbɛkɔ nhahan boa.
 
-## Nkɔnɔ ahorow ne nnuaba hyehyɛ
+## Fabric and flower arranging
 
-Hyehyɛ nkɔnɔ ahorow a wɔbɛtu mu sɛnea wɔte, anaa hyehyɛ nnuaba kakra a ɛyɛ foforɔ wɔ ɔkwan mu. Eyi yɛ adwuma a ɛma obi tumi yɛ ahoɔfɛ a ɛyɛ nea wɔhu, na ɛnnyɛ ahohiahia. Ɛfata obi a wɔayɛ wɔn akyiri-stage. Nsɛm pii fa ahoɔfɛ a wɔde hyehyɛ ho wɔ [nhwɛsoɔ adwuma ma nnipa a dementia atwam](/activities/sensory/) mu.
+Hyehyɛ nkataa a wɔde yɛ ntoma a ɛwɔ nkɔ sɛnea ɛte so, anaa hyehyɛ nhwiren kakraa wɔ ɔfɛ mu. Eyi yɛ adwuma a ɛwɔ mframa, na ɛnhia ahoɔden kɛse. Ɛfata nso nkurɔfo a wɔda akyiri. Sɛ wopɛ nsusuiɛ bi, hwɛ [sensory activities for people with dementia](/activities/sensory/).
 
-## Sɛnea wobɛpaw nhwɛsoɔ nneɛma
+## Choosing art supplies
 
-Nneɛma no ho hia kɛse ma ahoɔden ne ahoɔdɛn sen sɛ ɛyɛ ɛfata paw. Bere a wopaw no, hwɛ:
+Nneɛma no ho hia ma ahobammɔ ne ahodoɔ sen sɛ ɛyɛ papa. Bere a wopɛ, susuw ho saa:
 
-- **Ɛnni nsɛmmɔnsɛm ne ɛyɛ nwoɔ:** Hwehwɛ nkyerɛwde a ɛkyerɛ sɛ ɛnni nsɛmmɔnsɛm, na hwɛ sɛ tɔnn no yɛ nwoɔ.
-- **Nsa a ɛkyere kɛse:** Crayon a ɛyɛ kɛse, brush a ɛyɛ mmerɛw ne pastel a ɛyɛ kɛse yɛ mmerɛw sɛ wobɛkyere.
-- **Nneɛma ketewa nni hɔ:** Mmɔ aborɔdeɛ, bɔtɔn, sequins ne glitter a ɛbɛtumi atwa so.
-- **Nneɛma a ɛyɛ den nni hɔ:** Fa scissors a ɛnnyɛ den anaa tu paper nsa ara.
-- **Nsɛmmɔnsɛm:** Hwɛ sɛ latex wɔ hɔ, ne sɛ obi wɔ nkyɛn-nhyɛ a wɔnim.
-- **Ahoɔfɛ a ɛpefee:** Tɔnn a ɛyɛ pefee wɔ paper a ɛyɛ fitaa anaa ntama a ɛyɛ tuntum so yɛ mmerɛw sɛ wobɛhwɛ.
-- **Nneɛma kakra:** Nneɛma mmienu anaa abiɛsa na ɛfata. Nneɛma pii betumi ayɛ den.
-- **Ɛyɛ mmerɛw sɛ wobɛpam:** Fa tray, plastic sheet ne nsuo nwi, na nnyɛ nsɛm a ɛbɛma wɔapaw adwuma no ahyɛ.
+- **Non-toxic ne washable:** Hwehwɛ nkyerɛwee a ɛka non-toxic, na hwɛ sɛ langa no yɛ washable.
+- **Nsa a ɛbɛkyere ho yiye:** Crayon a ɛyɛ kɛse, brɔs a ɛyɛ mmɔden ne pastel a ɛyɛ kɛse ye sɛ wɔbɛkyere.
+- **Nneɛma ketewa nni hɔ:** Fa mmɔdeɛ, bɔtɔm, sequins ne glitter a ɛbɛtumi ayɛ nnuaa mu ho.
+- **Nneɛma a ɛyɛ akyin nni hɔ:** Fa scissors a ɛyɛ ahobammɔ, anaa tew krataa de nsa.
+- **Ahosɛ:** Hwɛ sɛ latex nni hɔ, ne skin a ɛnnye ɛnya ahoɔden biara.
+- **Ahunuiɛ:** Langa a ɛyɛ hyerɛn wɔ krataa a ɛyɛ fitaa anaa tuntum so yɛ ɛyɛ sɛ wohu.
+- **Nneɛma kakraa:** Nneɛma mmienu anaa mmiensa na ɛyɛ. Nneɛma pii ma obi ɔhyɛ ɔyɛ den.
+- **Ɛyɛ mmerɛw sɛ wɔbɛtew:** Fa tray, plastic sheet ne tissue a ɛho tew, na nkyɛn a ɛboro nni hɔ ɛmfa nkɔ akyi.
 
-## Nsakrae sɛnea stage ɛte
+## Adapting by stage
 
-Mfitiase stage mu no, nnipa pii betumi ahyehyɛ na awie adwuma wɔ mmoa kakra mu. Mfinimfini stage mu no, de nneɛma kakra ne nkyerɛkyerɛ pii ma. Akyiri stage mu no, di nneyɛe a ɛyɛ ahosɛpɛw so, te sɛ dadaw a wɔbɛpam anaa sponge a wɔde dab tɔnn, na di nea ɛyɛ anigye so sen nea adwuma no awie.
+Mfeɛ a edi kan no, nkurɔfo pii tumi hyehyɛ ne kyerɛ adwuma no ne ɔkwan biara so ne ɔboafo kakraa. Mfeɛ a ɛdi mfiri no, ma nneɛma a wopaw yɛ kakraa na ma akwankyerɛ pii. Mfeɛ a ɛdi akyiri no, sɔ hwɛ nneɛma a ɛfa nsɛnkyerɛnne so, sɛ clay a wɔnyɛ ahyɛ mu anaa sponge a wɔde dab langa, na di anigye wɔ nneyɛe so mmom sen nea ɛba awiei.
 
-Ma nhwɛsoɔ adwuma a ɛfa stage ho sɛnea ɛte, hwɛ [early-stage](/activities/early-stage/), [middle-stage](/activities/middle-stage/) ne [late-stage activities](/activities/late-stage/). Sɛ obi no ampene so anaa ɔbɛyɛ ahohiahia a, yɛn guide a ɛfa [sɛnea wobɛyɛ bere a wɔka sɛ daabi](/caregiving/when-they-say-no/) no kyerɛ sɛnea wobɛgyae.
+Sɛ wopɛ nsusuiɛ a ɛfa mfeɛ biara so, hwɛ [early-stage](/activities/early-stage/), [middle-stage](/activities/middle-stage/) ne [late-stage activities](/activities/late-stage/). Sɛ obi no pɛ sɛ ɔnnyɛ anaa ɔbɔ mmɔden, yɛn akwankyerɛ a ɛfa [when someone says no](/caregiving/when-they-say-no/) bɛkyerɛkyerɛ sɛnea wobɛgyae.
 
-## Fa agyinamoɔ bi ka ho
+## Pair with a game
 
-Bere a wɔtɔ tɔnn wie no, sɔ [nhwɛsoɔ](/games/coloring/) wɔ tablet so sɛ adwuma a ɛyɛ dodoɔ ne nsoe, anaa [picture puzzle](/games/picture-puzzle/) sɛ adwuma a wɔde siesie. Nea ɛma wɔn nsa tumi yɛ adwuma nanso wɔnhwehwɛ ahoɔden a ɛyɛ den.
+Sɛ wowie adwinnadeɛ bere no, bisa [coloring](/games/coloring/) wɔ tablet so sɛ adwuma a ɛyɛ dwodwo ma ɛdi akyi, anaa [picture puzzle](/games/picture-puzzle/) sɛ adwuma a ɛbɛka awiei. Nneɛma ebiara yɛ nsa ahyɛ adwuma a ɛnhia nsa a ɛyɛ mmɔden.

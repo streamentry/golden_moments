@@ -1,28 +1,33 @@
 ---
-title: "𐬀𐬥𐬀𐬥𐬀𐬥 𐬛𐬀𐬉𐬨𐬀 𐬎𐬞𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀"
-seoTitle: "𐬀𐬥𐬀𐬥𐬀𐬥 𐬛𐬀𐬉𐬨𐬀 𐬎𐬞𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀"
-description: "𐬀𐬥𐬀𐬥𐬀𐬥 𐬛𐬀𐬉𐬨𐬀 𐬎𐬞𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀 𐬫𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬎𐬞𐬀𐬌𐬌𐬀𐬧𐬙𐬌، 𐬀𐬥𐬀𐬞𐬀 𐬀𐬯𐬙𐬌 𐬥𐬀𐬉𐬛𐬀 𐬵𐬌𐬯𐬀𐬠𐬀: 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬀𐬌𐬌𐬀، 𐬎𐬎𐬌𐬛𐬀𐬥𐬀، 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬗𐬌𐬚𐬭𐬀، 𐬎𐬙 𐬵𐬀𐬨𐬀-𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬀𐬥𐬀𐬯𐬀."
+title: "Antar-vaēdya Urvāzā Manaŋhō Paitičināi, Vina Ni-daϑāna"
+seoTitle: "Antar-vaēdya Urvāzā Manaŋhō, Vina Ni-daϑāna"
+description: "Urvāzā antar-vaēdya martiyānām yōi manaŋhō paitičinanti: patikara-ham-dāiti, vi-ciϑa, puzzle uta rāma-vīštāiti, vina app ayaoxta."
 section: activities
 order: 22
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬛𐬀𐬉𐬨𐬀 𐬎𐬞𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬎𐬞𐬀𐬌𐬌𐬀𐬧𐬙𐬌، 𐬀𐬥𐬀𐬞𐬀 𐬀𐬯𐬙𐬌 𐬥𐬀𐬉𐬛𐬀 𐬵𐬌𐬯𐬀𐬠𐬀. Golden Moments 𐬀𐬯𐬙𐬌 𐬛𐬀𐬉𐬨𐬀 𐬗𐬌𐬚𐬭𐬀 𐬎𐬞𐬀 𐬙𐬀𐬠𐬍𐬙 𐬎𐬙 𐬐𐬀𐬨𐬞𐬌𐬌𐬎𐬙𐬀𐬭: 𐬵𐬀𐬨𐬀𐬌𐬌𐬀، 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬀، 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬀𐬯𐬐𐬀𐬙، 𐬗𐬌𐬚𐬭𐬀 𐬎𐬎𐬌𐬛𐬀𐬥𐬀، 𐬎𐬙 𐬵𐬀𐬨𐬀-𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬀𐬥𐬀𐬯𐬀. 𐬥𐬌𐬱𐬀𐬛𐬀 𐬞𐬀𐬌𐬙𐬌 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬫𐬀 𐬙𐬎𐬨 𐬎𐬞𐬀 𐬵𐬌𐬌𐬀 𐬀𐬯𐬙𐬌، 𐬎𐬙 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬫𐬀𐬛𐬀 𐬵𐬎 𐬐𐬀𐬨𐬀𐬌𐬙𐬌. 𐬥𐬀𐬉𐬛𐬀 𐬛𐬀𐬉𐬨𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀 𐬥𐬀𐬉𐬛𐬀 𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬌 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀؛ 𐬀𐬭𐬚𐬀 𐬀𐬯𐬙𐬌 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀 𐬎𐬙 𐬵𐬀𐬨𐬀-𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀.
+  Hva-yāsamō urvāzā martiyānām yōi manaŋhō paitičinanti antar-vaēdya vi-sakənti,
+  vina app uta vina daϑra-nāman. Golden Moments dārayeiti patikara-urvāzā tablet
+  ayāp computer paiti: ham-dāiti, hamana-patikara vi-vāsa, vi-ciϑa patikaranām,
+  patikara-puzzle uta rāma-vīštāiti. Ni-šida hada martiyāi uta aipi-mara yat
+  vaši-iti. Nōit cišca urvāzā manaŋhō saoce baēšazyeiti ayāp aipi-rādayeiti;
+  aš-aogə̄m asti rāma-urvāzman ham-kərəti.
 keyPoints:
-  - "𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬛𐬀𐬉𐬨𐬀 𐬫𐬀 𐬐𐬀𐬭𐬀 𐬐𐬀𐬭𐬀𐬧𐬙𐬌 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀 𐬗𐬌𐬚𐬭𐬀، 𐬥𐬀𐬉𐬛𐬀 𐬫𐬀𐬛𐬀 𐬎𐬎𐬌𐬛𐬀𐬌𐬙𐬌 𐬥𐬌𐬌𐬀𐬨𐬀، 𐬎𐬎𐬀𐬗𐬀 𐬎𐬙 𐬀𐬥𐬐𐬀."
-  - "𐬎𐬞𐬀𐬌𐬌𐬀 𐬛𐬀𐬉𐬨𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬎𐬞𐬀 𐬙𐬀𐬠𐬍𐬙 𐬎𐬙 𐬐𐬀𐬨𐬞𐬌𐬌𐬎𐬙𐬀𐬭، 𐬥𐬌𐬱𐬀𐬛𐬀 𐬞𐬀𐬌𐬙𐬌 𐬨𐬀𐬭𐬙𐬌𐬌𐬀، 𐬎𐬙 𐬵𐬌𐬨 𐬛𐬀𐬛𐬀 𐬯𐬞𐬀𐬭𐬆𐬱𐬀 𐬎𐬙 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬌𐬀."
-  - "𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬀𐬯𐬐𐬭𐬌𐬥𐬀 𐬨𐬀𐬵𐬌𐬱𐬙𐬀𐬭𐬀 𐬎𐬙 𐬀𐬯𐬙𐬀𐬥𐬛𐬀، 𐬎𐬙 𐬀𐬞𐬀𐬌𐬌𐬀 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀 𐬎𐬙 𐬙𐬀𐬠𐬀 𐬀𐬥𐬌𐬌𐬀 𐬞𐬌𐬱 𐬀𐬭𐬀𐬨𐬠𐬀."
-  - "𐬛𐬀𐬉𐬨𐬀 𐬗𐬌𐬚𐬭𐬀-𐬀𐬯𐬙𐬌𐬙𐬀 𐬥𐬌𐬱𐬀𐬌𐬌𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬎𐬞𐬀 𐬵𐬀𐬎 𐬎𐬞𐬀𐬌𐬌𐬀𐬥𐬀؛ 𐬞𐬀𐬭𐬌𐬱𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬥𐬌𐬵𐬀𐬥𐬌𐬌𐬀 𐬞𐬌𐬱 𐬫𐬀𐬎𐬵𐬀𐬠𐬀 𐬗𐬌𐬚𐬭𐬀 𐬐𐬎𐬟 𐬎𐬞𐬀 𐬐𐬀𐬨𐬞𐬌𐬌𐬎𐬙𐬀𐬭 𐬵𐬀𐬨𐬀-𐬎𐬎𐬌𐬛𐬀𐬥𐬀."
-  - "𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬵𐬀𐬛𐬌𐬌𐬀 𐬀𐬯𐬙𐬌 𐬀𐬭𐬚𐬀 𐬛𐬀𐬠𐬀. 𐬥𐬀𐬉𐬛𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬀𐬉𐬨𐬀 𐬛𐬀𐬉𐬨𐬀 𐬨𐬀𐬫𐬀𐬌𐬙𐬌 𐬎𐬙 𐬀𐬥𐬐𐬀𐬌𐬙𐬌 𐬨𐬀𐬭𐬙𐬌𐬌𐬀."
+  - "Ni-dātə urvāzā yōi patikarəm vī-cinanti, nōit data-framan, vācim ayāp cistim aipi-marənti."
+  - "Vi-sacaya urvāzəm antar-vaēdya tablet ayāp computer paiti, ni-šida hada martiyāi, uta he dastəm dāya paiti-dāraini."
+  - "Dāraya masanəm paiticarəmnəm, uta vi-bərə aipi-framananām paiti-dātəm para yaϑa frayaza."
+  - "Patikara-urvāzā dārayeinti patikarə̄ antar-vaēdya ahmāi aodra-gātūi; paiti-vaēda gūzra-data para yaϑa nmana-patikarə̄ ahmya computer dārayasi."
+  - "Hakat paiti-tāiti asti vahištəm dātəm. Nōit cišca ahmya urvāzman martiyəm paiti-marayeiti ayāp vi-cinaoiti."
 faq:
-  - q: "𐬀𐬌𐬥𐬀 𐬛𐬀𐬉𐬨𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬀𐬥𐬙𐬀𐬭𐬀-𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀 𐬨𐬀𐬫𐬀𐬌𐬙𐬌 𐬛𐬀𐬉𐬨𐬀 𐬀𐬥𐬀𐬞𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀؟"
-    a: "𐬛𐬀𐬉𐬨𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬀𐬯𐬙𐬌 𐬛𐬀𐬠𐬀: 𐬵𐬀𐬨𐬀𐬌𐬌𐬀 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬀، 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬵𐬀𐬛𐬌𐬌𐬀، 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬀𐬯𐬐𐬀𐬙، 𐬎𐬙 𐬗𐬌𐬚𐬭𐬀 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬐𐬀𐬟𐬀 𐬫𐬀 𐬨𐬀𐬫𐬀𐬌𐬙𐬌 𐬵𐬀𐬨𐬀𐬌𐬌𐬀. Golden Moments 𐬀𐬯𐬙𐬌 𐬀𐬉𐬨𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬭𐬀𐬎𐬰𐬀𐬭، 𐬀𐬥𐬀𐬞𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀 𐬎𐬙 𐬀𐬥𐬀𐬞𐬀 𐬵𐬌𐬯𐬀𐬠𐬀. 𐬀𐬭𐬀𐬨𐬠𐬀 𐬀𐬎 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬗𐬌𐬚𐬭𐬀 𐬨𐬀𐬵𐬌𐬱𐬙𐬀𐬭𐬀."
-  - q: "𐬵𐬀𐬎 𐬛𐬀𐬉𐬨𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀؟"
-    a: "𐬥𐬀𐬉𐬛𐬀 𐬛𐬀𐬉𐬨𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬀𐬯𐬙𐬌 𐬫𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌، 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀 𐬎𐬙 𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬌 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀. U.S. Federal Trade Commission 𐬐𐬀𐬭𐬀 𐬐𐬀𐬭𐬀 𐬎𐬞𐬀 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬫𐬀 𐬀𐬨𐬭𐬀 𐬥𐬀𐬉𐬛𐬀 𐬀𐬯𐬙𐬌 𐬯𐬀𐬵𐬌𐬙𐬌𐬌𐬀. 𐬛𐬀𐬉𐬨𐬀 𐬀𐬉𐬨𐬀 𐬀𐬥𐬎𐬙𐬌 𐬫𐬀 𐬀𐬯𐬙𐬌 𐬵𐬀𐬨𐬀-𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬎𐬙 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀، 𐬥𐬀𐬉𐬛𐬀 𐬀𐬥𐬎𐬙𐬌 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀."
-  - q: "𐬵𐬀𐬎 𐬛𐬀𐬉𐬨𐬀 𐬀𐬥𐬙𐬀𐬭𐬀-𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬀𐬯𐬙𐬌 𐬥𐬌𐬵𐬀𐬨𐬌𐬌𐬀 𐬎𐬞𐬀 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀؟"
-    a: "𐬨𐬀𐬫 𐬀𐬯𐬙𐬌، 𐬀𐬎 𐬥𐬌𐬱𐬀𐬥𐬀 𐬵𐬀𐬨𐬀. 𐬥𐬌𐬱𐬀𐬌𐬌𐬀 𐬎𐬞𐬀𐬌𐬌𐬀𐬥𐬀 𐬛𐬎𐬭 𐬀𐬎 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬫𐬀 𐬨𐬀𐬫 𐬀𐬞𐬀𐬌𐬙𐬌 𐬀𐬎 𐬵𐬌𐬨، 𐬎𐬎𐬀𐬭𐬀𐬌𐬌𐬀 𐬀𐬎 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀 𐬎𐬙 𐬵𐬀𐬨𐬠𐬀𐬥𐬛𐬀 𐬠𐬀𐬵𐬌𐬭𐬀، 𐬎𐬙 𐬥𐬀𐬉𐬛𐬀 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬀𐬉𐬐𐬀 𐬎𐬞𐬀 𐬀𐬯𐬐𐬭𐬌𐬥𐬀 𐬀𐬭𐬚𐬀 𐬎𐬙 𐬵𐬌𐬯𐬀𐬠𐬀. 𐬞𐬀𐬭𐬌𐬱𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬥𐬌𐬵𐬀𐬨𐬌𐬌𐬀 𐬎𐬞𐬀𐬌𐬌𐬀𐬥𐬀 𐬞𐬌𐬱 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬗𐬌𐬚𐬭𐬀."
-  - q: "𐬐𐬀𐬌 𐬐𐬀𐬭𐬀 𐬫𐬀𐬛𐬀 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬀𐬯𐬙𐬌 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬀𐬎 𐬛𐬀𐬉𐬨𐬀؟"
-    a: "𐬵𐬀𐬨𐬀𐬌𐬌𐬀 𐬎𐬞𐬀 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀𐬙𐬀𐬭𐬀، 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬛𐬌𐬌𐬀، 𐬎𐬙 𐬀𐬯𐬀𐬌𐬌𐬀 𐬛𐬀𐬉𐬨𐬀 𐬀𐬥𐬌𐬌𐬀. 𐬫𐬀𐬛𐬀 𐬵𐬎 𐬀𐬯𐬙𐬌 𐬀𐬥𐬀𐬥𐬀𐬥𐬀، 𐬥𐬌𐬱𐬀𐬌𐬌𐬀 𐬎𐬞𐬀𐬌𐬌𐬀𐬥𐬀 𐬎𐬙 𐬀𐬨𐬭𐬀 𐬵𐬎𐬭𐬀𐬐𐬀، 𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬎𐬙 𐬔𐬀𐬚𐬀 𐬀𐬥𐬌𐬌𐬀. 𐬛𐬀𐬉𐬨𐬀 𐬫𐬀 𐬐𐬀𐬭𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬥𐬀𐬉𐬛𐬀 𐬀𐬭𐬚𐬀 𐬀𐬯𐬙𐬌 𐬎𐬎𐬌𐬛𐬀𐬥𐬀."
+  - q: "Katarā antar-vaēdya urvāzā martiyāka yōi manaŋhō paitičinanti yāsaona vina ni-daϑāna?"
+    a: "Rāma-patikara urvāzā vahištō-stə̄: ham-dāiti hamanānām patikaranām, vi-vāsa hamana-patikarəm yōi citiya, vi-ciϑa patikaranām basket paiti, uta patikara təməsca yōi paiti-vaxta. Golden Moments aēte dārayeiti antar-vaēdya, vina ni-daϑāna uta vina daϑra-nāman. Frayaza hada mazantəm patikarəm yat vindasi."
+  - q: "Yāre manaŋhō urvāzā manaŋhō saoce aipi-jayente?"
+    a: "Nōit cišca urvāzā vaēnaite manaŋhō saoce baēšazyaiti, rādayaiti ayāp paiti-tārayaiti. U.S. Federal Trade Commission paiti-dātəm kərənvanti aipi compani-nām manaŋhō-cisti yā nōit aogə̄m dārayan. Urvāzaya aēte urvāzā yaϑa hān-rāma uta rāza, nōit baēšaza-kərətaya."
+  - q: "A-dvayā-ne antar-vaēdya urvāzā ahmāi yōim tū paitišmarahi?"
+    a: "Hāva bavat, hada paiti-vaēda. Dāraya aodra-gātu durāt yat nōit aivi-taraite, aipi-tara dūrat paiti-dātəm uta annya ayaptəm, uta nōit aivātem dāraya martiyəm hada xšnaoma-paiticarəmnəm. Paiti-vaēda gūzra-data para yaϑa patikarə̄ vərəzyasi."
+  - q: "Cit yat martiya aš-zaraϑra ayāp dūš-manah bavat urvāzman paiti?"
+    a: "Vara ana-zaraϑram vi-dāraya, kamna patikarə̄ dāraya, ayāp annya urvāza frayaza. Yat dūš-manah bavat, dāraya aodra-gātu dūrat uta paitišmara hvarəϑa, raϑya ayāp sraoma. Urvāzman ya aipi-zarayeiti nōit aš-stəm asti vī-sācīti."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -44,54 +49,54 @@ related: [activities/memory-games, activities/puzzles, activities/ideas, caregiv
 health: false
 ---
 
-𐬵𐬀𐬨𐬀 𐬐𐬎𐬟 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀 𐬛𐬀𐬉𐬨𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬀𐬥𐬙𐬀𐬭𐬀-𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬎𐬞𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀، 𐬀𐬥𐬎𐬙𐬌 𐬫𐬀 𐬐𐬀𐬨𐬀𐬌𐬙𐬌 𐬀𐬥𐬌𐬌𐬀 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀 𐬀𐬥𐬀𐬞𐬀 𐬀𐬯𐬙𐬀𐬥𐬠𐬀، 𐬵𐬌𐬯𐬀𐬠𐬀 𐬎𐬙 𐬀𐬭𐬚𐬀. 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬛𐬀𐬠𐬀 𐬀𐬯𐬙𐬌 𐬀𐬥𐬀𐬥𐬀𐬥𐬀، 𐬗𐬌𐬚𐬭𐬀-𐬀𐬯𐬙𐬌𐬙𐬀، 𐬎𐬙 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬎𐬎𐬌𐬛𐬀𐬥𐬀. 𐬀𐬉𐬨𐬀 𐬨𐬀𐬫 𐬀𐬯𐬙𐬌 𐬀𐬥𐬎𐬙𐬌 𐬵𐬀𐬨𐬀-𐬀𐬥𐬀𐬥𐬀𐬥𐬀، 𐬥𐬀𐬉𐬛𐬀 𐬀𐬨𐬭𐬀. 𐬀𐬉𐬨𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬀𐬨𐬭𐬀 𐬐𐬀𐬌 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀، 𐬀𐬌𐬐𐬀𐬥𐬀 𐬀𐬭𐬀𐬨𐬠𐬀 𐬛𐬀𐬉𐬨𐬀، 𐬎𐬙 𐬐𐬀𐬌 𐬀𐬉𐬨𐬀 𐬛𐬀𐬉𐬨𐬀 𐬨𐬀𐬫𐬀𐬌𐬙𐬌 𐬐𐬀𐬭𐬀 𐬎𐬙 𐬥𐬀𐬉𐬛𐬀 𐬐𐬀𐬭𐬀.
+Paoiryā vīspō-nmāna vāseinti antar-vaēdya urvāzā ahmāi martiyānām yōi manaŋhō paitičinanti yaϑa vašnəm hada-kərəti dārayanti, vina handātā, vina daϑra-nāman ayāp zaranya-karta. Vahištō dātəm asti rāma, patikara-dāta, uta hva-tāsa paiti-tāiti. Sahyeite yaϑa hamana rāma, nōit cistō-vaēda. Aēša framana saokeiti cit paiti-cinaite, yaϑa dāraya urvāzman, uta cit aēte urvāzā tūiryeinti ayāp nōit tūiryeinti.
 
-## 𐬐𐬀𐬌 𐬐𐬀𐬭𐬀 𐬛𐬀𐬉𐬨𐬀 𐬀𐬥𐬙𐬀𐬭𐬀-𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬎𐬞𐬀𐬌𐬌𐬀 𐬎𐬞𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀؟
+## Cit antar-vaēdya urvāzəm vahištəm kərənaoiti manaŋhō paitičināi?
 
-𐬛𐬀𐬉𐬨𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬎𐬞𐬀 𐬵𐬀𐬨𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬫𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀 𐬫𐬀𐬛𐬀 𐬵𐬎 𐬀𐬨𐬭𐬀 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀، 𐬥𐬀𐬉𐬛𐬀 𐬫𐬀𐬛𐬀 𐬎𐬎𐬌𐬛𐬀𐬌𐬙𐬌. 𐬵𐬀𐬨𐬀𐬌𐬌𐬀 𐬛𐬎 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬀، 𐬯𐬞𐬀𐬭𐬆𐬱𐬀 𐬗𐬌𐬚𐬭𐬀 𐬫𐬀 𐬵𐬀𐬨𐬀 𐬀𐬎 𐬯𐬀𐬌𐬌𐬀، 𐬎𐬙 𐬥𐬌𐬱𐬀𐬥𐬀 𐬀𐬥𐬌𐬌𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬀𐬯𐬐𐬀𐬙 𐬛𐬀𐬠𐬀 𐬀𐬯𐬙𐬌 𐬎𐬞𐬀 𐬐𐬀𐬌 𐬗𐬀𐬱𐬨𐬀 𐬨𐬀𐬌𐬥𐬀 𐬀𐬛𐬀 𐬀𐬯𐬙𐬌. 𐬛𐬀𐬉𐬨𐬀 𐬫𐬀 𐬀𐬯𐬙𐬌 𐬎𐬞𐬀 𐬫𐬀𐬛𐬀 𐬥𐬌𐬌𐬀𐬨𐬀، 𐬎𐬎𐬀𐬗𐬀، 𐬀𐬥𐬐𐬀 𐬎𐬙 𐬐𐬀𐬭𐬀 𐬞𐬌𐬱𐬌𐬥𐬀 𐬨𐬀𐬫 𐬐𐬀𐬭𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀.
+Urvāzman vahištəm saocayeiti martiyānām yōi manaŋhō paitičinanti yat cašman-cina vāseiti, nōit manaŋha-paitišmara. Ham-dāiti duye hamana patikarā, dasta-dāiti patikaram yat sayanəm paiti-cinaiti, ayāp ni-dāiti cišca basket paiti, vīspa dārayeinti cit cašma nūra vaēnaite. Urvāzā yōi aipi-paitišmarənti data-framan, vācim, cistim ayāp para-kərətəm aš-zaraϑra kərənvanti.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) 𐬀𐬨𐬭𐬀 𐬐𐬀𐬭𐬀 𐬫𐬀 𐬀𐬯𐬙𐬌 𐬎𐬞𐬀 𐬐𐬀𐬌 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬀𐬛𐬀 𐬀𐬥𐬎𐬙𐬌 𐬎𐬙 𐬨𐬀𐬫 𐬐𐬀𐬭𐬀، 𐬎𐬙 𐬫𐬀 𐬵𐬌𐬨 𐬛𐬀𐬛𐬀 𐬀𐬭𐬚𐬀 𐬀𐬥𐬀𐬞𐬀 𐬎𐬞𐬀𐬌𐬌𐬀. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) 𐬀𐬨𐬭𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬐𐬀𐬭𐬀 𐬫𐬀𐬛𐬀 𐬀𐬯𐬙𐬌 𐬵𐬀𐬨𐬀𐬌𐬌𐬀، 𐬥𐬀𐬉𐬛𐬀 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬀𐬎 𐬵𐬌𐬨، 𐬫𐬀𐬛𐬀 𐬐𐬀𐬭𐬀 𐬵𐬀𐬨𐬀𐬌𐬌𐬀.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) paitičinaiti urvāzman yōi vi-rāzayeinti cit martiya nūra urvāzayeiti uta tūiryeiti, uta rāzayeiti vina annya-upastāiti. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) framrūite rāma-kərətəm urvāzman para yaϑa aipi-tāraite yat hā-kərəiti vī-varəte.
 
-## 𐬛𐬀𐬉𐬨𐬀 Golden Moments 𐬫𐬀 𐬨𐬀𐬫𐬀𐬌𐬙𐬌 𐬎𐬞𐬀𐬌𐬌𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬭𐬀𐬎𐬰𐬀𐬭
+## Golden Moments urvāzā yōi vi-sacayehi antar-vaēdya
 
-𐬵𐬀𐬭 𐬛𐬀𐬉𐬨𐬀 𐬀𐬛𐬀 𐬎𐬞𐬀𐬌𐬌𐬀 𐬀𐬎 𐬎𐬎𐬀𐬠𐬀 𐬀𐬥𐬀𐬞𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀. 𐬵𐬀𐬨𐬀 𐬛𐬀𐬉𐬨𐬀 𐬐𐬀𐬭𐬀 𐬎𐬞𐬀 𐬙𐬀𐬠𐬍𐬙 𐬎𐬙 𐬐𐬀𐬨𐬞𐬌𐬌𐬎𐬙𐬀𐬭؛ 𐬀𐬥𐬌𐬌𐬀 𐬨𐬀𐬫 𐬀𐬯𐬙𐬌 𐬀𐬥𐬎𐬙𐬌 𐬗𐬀𐬞𐬀.
+Vīspō urvāzman ahmya vi-sacayeite website paiti vina ni-daϑāna. Paoiryō urvāzayeiti tablet ayāp computer paiti; citiya tūiryeinti māraya.
 
-- **[Picture pairs](/games/picture-pairs/).** 𐬵𐬀𐬨𐬀𐬌𐬌𐬀 𐬗𐬌𐬚𐬭𐬀 𐬨𐬀𐬵𐬌𐬱𐬙𐬀𐬭𐬀 𐬀𐬎 𐬗𐬌𐬚𐬭𐬀 𐬥𐬌𐬱𐬀𐬥𐬀، 𐬀𐬥𐬀𐬞𐬀 𐬰𐬀𐬨𐬀𐬥𐬀 𐬎𐬙 𐬀𐬥𐬐𐬀. 𐬛𐬀𐬠𐬀 𐬎𐬞𐬀 𐬛𐬀𐬉𐬨𐬀 𐬞𐬌𐬱𐬌𐬨𐬀.
-- **[Find the same](/games/find-the-same/).** 𐬗𐬌𐬚𐬭𐬀 𐬀𐬉𐬐𐬀 𐬎𐬞𐬀 𐬀𐬎𐬞𐬀𐬭، 𐬎𐬙 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬛𐬎 𐬎𐬙 𐬗𐬀𐬚𐬎𐬎𐬀𐬭 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬀𐬛𐬀.
-- **[Shadow match](/games/shadow-match/).** 𐬯𐬀𐬌𐬌𐬀 𐬥𐬀𐬭𐬨𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬎𐬞𐬀 𐬀𐬎𐬞𐬀𐬭؛ 𐬯𐬞𐬀𐬭𐬆𐬱𐬀 𐬗𐬌𐬚𐬭𐬀 𐬫𐬀 𐬐𐬀𐬭𐬀 𐬀𐬎 𐬵𐬌𐬨.
-- **[Sort together](/games/sort-together/).** 𐬯𐬞𐬀𐬭𐬆𐬱𐬀 𐬗𐬌𐬚𐬭𐬀، 𐬞𐬀𐬯 𐬠𐬀𐬯𐬐𐬀𐬙 𐬛𐬀𐬠𐬀 𐬫𐬀 𐬀𐬯𐬙𐬌 𐬀𐬎 𐬵𐬌𐬨، 𐬀𐬥𐬎𐬙𐬌 𐬨𐬀𐬙𐬠𐬀𐬑 𐬎𐬙 𐬠𐬀𐬔𐬀.
-- **[Picture puzzle](/games/picture-puzzle/).** 𐬗𐬌𐬚𐬭𐬀 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬐𐬀𐬟𐬀، 𐬎𐬙 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬀𐬯𐬙𐬌 𐬀𐬥𐬎𐬙𐬌 𐬥𐬌𐬱𐬀𐬥𐬀.
-- **[Finish the saying](/games/finish-the-saying/).** 𐬎𐬎𐬀𐬗𐬀 𐬀𐬥𐬎𐬙𐬀 𐬀𐬎 𐬎𐬎𐬀𐬗𐬀 𐬀𐬯𐬞𐬀𐬭𐬌𐬨𐬀 𐬥𐬀𐬉𐬛𐬀؛ 𐬯𐬞𐬀𐬭𐬆𐬱𐬀 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬎𐬙 𐬥𐬌𐬱𐬀𐬌𐬌𐬀 𐬀𐬯𐬞𐬀𐬭𐬌𐬨𐬀.
-- **[Conversation cards](/games/conversation-cards/).** 𐬐𐬀𐬭𐬙𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬎 𐬀𐬨𐬭𐬀 𐬎𐬞𐬀 𐬵𐬀𐬨𐬠𐬀𐬱𐬀، 𐬥𐬀𐬉𐬛𐬀 𐬀𐬨𐬭𐬀. 𐬨𐬀𐬫 𐬀𐬯𐬙𐬌 𐬀𐬥𐬎𐬙𐬌 𐬗𐬀𐬞𐬀.
-- **[Photo pairs](/games/photo-pairs/).** 𐬵𐬀𐬨𐬀𐬌𐬌𐬀 𐬀𐬎 𐬗𐬌𐬚𐬭𐬀 𐬫𐬀 𐬙𐬎𐬨 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬎𐬞𐬀 𐬎𐬞𐬀𐬌𐬌𐬀𐬥𐬀. 𐬗𐬌𐬚𐬭𐬀 𐬥𐬌𐬱𐬀𐬌𐬌𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬎𐬞𐬀 𐬵𐬀𐬎 𐬎𐬞𐬀𐬌𐬌𐬀𐬥𐬀.
-- **[Calm breathing](/games/calm-breathing/).** 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬵𐬀𐬨𐬀 𐬎𐬙 𐬵𐬀𐬨𐬀 𐬎𐬞𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬵𐬀𐬨𐬀. 𐬙𐬎𐬨 𐬀𐬭𐬀𐬨𐬠𐬀 𐬎𐬙 𐬙𐬎𐬨 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀.
+- **[Picture pairs](/games/picture-pairs/).** Masāna ham-dāta patikarā yōi dōiϑra vaēnente, vina zrvan-mārayā ayāp cisti. Vahištəm para paoirya urvāzman.
+- **[Find the same](/games/find-the-same/).** Aēva patikara upara, uta hamana ahmya dūm caϑwārəm ciϑanām ada.
+- **[Shadow match](/games/shadow-match/).** Rāma sayanəm upara vaēnaite; dasta-dāya patikaram ya aēta kərənaoiti.
+- **[Sort together](/games/sort-together/).** Dasta-dāya patikarəm, pasca basket paiti ya he han-gmat, yaϑa xradō-nmana ayāp vāra.
+- **[Picture puzzle](/games/picture-puzzle/).** Patikara təməsca kərətō asti uta vīspa patikara vaēnaite yaϑa framana.
+- **[Finish the saying](/games/finish-the-saying/).** Vohū-vāca yōi aipi-paitišmarənti hada apara vācim a-dāta; dasta-dāya ciϑam ayāp fravaēda apara.
+- **[Conversation cards](/games/conversation-cards/).** Patikara-karta hada gaoza-vaci framana vərəzənye, nōit cistō-vaēda. Citiya māraya.
+- **[Photo pairs](/games/photo-pairs/).** Ham-dāta patikarā kərətō yōi patikarə̄ vi-cinasi aodra-gātūi. Patikarə̄ aipi-dārayeinti antar-vaēdya ahmāi aodra-gātūi.
+- **[Calm breathing](/games/calm-breathing/).** Rāma uta zaošəm vyāna ham-vyānaya. Tū frayazahi uta tū paiti-tārayahi.
 
-𐬎𐬎𐬀𐬗𐬀 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀، 𐬭𐬀𐬥𐬔𐬀، 𐬎𐬙 𐬗𐬌𐬚𐬭𐬀 𐬠𐬌𐬥𐬔𐬋 𐬀𐬯𐬙𐬌 𐬀𐬥𐬎𐬙𐬌 𐬀𐬥𐬎𐬙𐬌 𐬗𐬀𐬞𐬀. 𐬨𐬀𐬌𐬥𐬀 [𐬐𐬀𐬭𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬎𐬞𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀 𐬗𐬀𐬞𐬀](/activities/printable/) 𐬎𐬞𐬀 𐬵𐬀𐬨𐬀.
+Vāca-vi-vāsa, raoca-kərəti uta patikara bingo asti yaϑa māraya kərəti. Vaēda [free printable dementia activities](/activities/printable/) para frāye.
 
-## 𐬀𐬌𐬐𐬀𐬥𐬀 𐬀𐬭𐬀𐬨𐬠𐬀 𐬛𐬀𐬉𐬨𐬀
+## Yaϑa vi-rāzayehi urvāzmana gātūm
 
-1. **𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬰𐬀𐬨𐬀𐬥𐬀 𐬵𐬀𐬨𐬀** 𐬫𐬀𐬛𐬀 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬀𐬯𐬙𐬌 𐬀𐬭𐬀𐬨𐬀. 𐬀𐬯𐬞𐬀𐬭𐬌𐬨𐬀 𐬎𐬞𐬀 𐬀𐬥𐬌𐬌𐬀 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬨𐬀𐬫 𐬀𐬯𐬙𐬌 𐬵𐬀𐬨𐬀𐬌𐬌𐬀، 𐬞𐬀𐬭𐬌𐬱𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬙𐬎𐬨 𐬞𐬌𐬱.
-2. **𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬀𐬯𐬐𐬭𐬌𐬥𐬀 𐬨𐬀𐬵𐬌𐬱𐬙𐬀𐬭𐬀.** 𐬙𐬀𐬠𐬍𐬙 𐬎𐬞𐬀 𐬀𐬯𐬙𐬀𐬥𐬛𐬀، 𐬎𐬙 𐬐𐬀𐬨𐬞𐬌𐬌𐬎𐬙𐬀𐬭 𐬀𐬎 𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬨𐬀𐬵𐬌𐬱𐬙𐬀𐬭𐬀، 𐬀𐬯𐬙𐬌 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬎𐬞𐬀 𐬨𐬀𐬌𐬥𐬀 𐬎𐬙 𐬯𐬞𐬀𐬭𐬆𐬱𐬀.
-3. **𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬙𐬀𐬠𐬀 𐬀𐬥𐬌𐬌𐬀 𐬎𐬙 𐬀𐬞𐬀𐬌𐬌𐬀 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀.** 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀 𐬵𐬀𐬛𐬌𐬌𐬀 𐬨𐬀𐬫 𐬀𐬯𐬙𐬌 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬎𐬙 𐬨𐬀𐬫 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬛𐬀𐬠𐬀.
-4. **𐬥𐬌𐬱𐬀𐬛𐬀 𐬞𐬀𐬌𐬙𐬌 𐬨𐬀𐬭𐬙𐬌𐬌𐬀، 𐬥𐬀𐬉𐬛𐬀 𐬎𐬞𐬀 𐬵𐬌𐬨.** 𐬨𐬀𐬌𐬥𐬀 𐬵𐬀𐬨𐬀 𐬀𐬯𐬙𐬌 𐬀𐬥𐬎𐬙𐬌 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀 𐬎𐬙 𐬥𐬀𐬉𐬛𐬀 𐬀𐬥𐬎𐬙𐬌 𐬀𐬨𐬭𐬀.
-5. **𐬀𐬭𐬀𐬨𐬠𐬀 𐬀𐬎 𐬀𐬉𐬐𐬀 𐬛𐬀𐬉𐬨𐬀 𐬎𐬞𐬀 5 𐬎𐬙 10 𐬨𐬌𐬥𐬎𐬙𐬀.** 𐬛𐬀𐬛𐬀 𐬵𐬌𐬨 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬯𐬞𐬀𐬭𐬆𐬱𐬀 𐬀𐬯𐬐𐬭𐬌𐬥𐬀 𐬎𐬙 𐬥𐬌𐬱𐬀𐬥𐬀 𐬫𐬀𐬛𐬀 𐬙𐬎𐬨 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀.
-6. **𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬎𐬞𐬀 𐬀𐬥𐬎𐬙𐬌 𐬛𐬀𐬠𐬀.** 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬀𐬉𐬐𐬀 𐬐𐬀𐬭𐬀، 𐬞𐬀𐬯 𐬵𐬀𐬨𐬠𐬀𐬱𐬀 𐬎𐬞𐬀 𐬀𐬉𐬐𐬀 𐬗𐬌𐬚𐬭𐬀 𐬎𐬙 𐬀𐬨𐬭𐬀 𐬵𐬎𐬭𐬀𐬐𐬀.
+1. **Vi-cina rāma zrvanəm** yat martiya aipi-šuta asti. Apara-ayara aš-harda bavat citiya martiyānām, aipi-vaēda hvo data para.
+2. **Dāraya masanəm paiticarəmnəm.** Tablet stūna paiti, ayāp computer hada maziya antar-vaēdya, hva-vaēna uta hva-dasta asti.
+3. **Aipi-bərə annya tabs uta vi-bərə aipi-framanā.** A-dāta pop-ups tarana kərənvanti uta rāma gātūm vi-bərənti.
+4. **Ni-šida hada martiyāi, nōit paitiš.** Ham-vaēna saocayeiti yaϑa rāma-haša, nōit cistō-vaēda.
+5. **Frayaza hada aēva urvāzman paiti 5 ayāp 10 miniti.** Dāta martiyāi dasta-dāiti paiticarəmnəm ayāp aipi-daēsayiti yat vi-bārayeiti.
+6. **Aipi-dāraya hada vaŋhu manaŋha.** Vī-saoca raunda, pasca saoca aēva patikaram ayāp paitišmara cup of tea.
 
-## 𐬥𐬌𐬵𐬀𐬨𐬌𐬌𐬀 𐬎𐬙 𐬥𐬌𐬵𐬀𐬨𐬌𐬌𐬀 𐬎𐬞𐬀 𐬎𐬞𐬀𐬌𐬌𐬀𐬥𐬀 𐬵𐬀𐬨𐬀-𐬎𐬎𐬌𐬛𐬀𐬥𐬀
+## Gūzra-dāta uta a-dvaya ahmya ham-dāta aodra-gātūi
 
-- **𐬗𐬌𐬚𐬭𐬀 𐬥𐬌𐬱𐬀𐬌𐬌𐬀 𐬎𐬞𐬀 𐬎𐬞𐬀𐬌𐬌𐬀𐬥𐬀.** Photo pairs 𐬎𐬎𐬌𐬛𐬀𐬌𐬙𐬌 𐬗𐬌𐬚𐬭𐬀 𐬫𐬀 𐬙𐬎𐬨 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀، 𐬎𐬙 𐬀𐬉𐬨𐬀 𐬥𐬌𐬱𐬀𐬌𐬌𐬀 𐬀𐬥𐬙𐬀𐬭𐬀 𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬎𐬞𐬀 𐬵𐬀𐬎 𐬎𐬞𐬀𐬌𐬌𐬀𐬥𐬀. 𐬞𐬀𐬭𐬌𐬱𐬀 𐬐𐬀𐬌 𐬀𐬥𐬌𐬌𐬀 𐬨𐬀𐬫 𐬎𐬞𐬀𐬌𐬌𐬀 𐬐𐬀𐬨𐬞𐬌𐬌𐬎𐬙𐬀𐬭 𐬎𐬙 𐬙𐬀𐬠𐬍𐬙.
-- **𐬎𐬎𐬀𐬭𐬀𐬌𐬌𐬀 𐬀𐬎 𐬵𐬀𐬨𐬠𐬀𐬥𐬛𐬀 𐬠𐬀𐬵𐬌𐬭𐬀 𐬎𐬙 𐬀𐬥𐬎𐬨𐬀𐬌𐬌𐬀.** 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬛𐬀𐬉𐬨𐬀 𐬀𐬎 𐬎𐬎𐬀𐬠𐬀، 𐬎𐬙 𐬥𐬀𐬉𐬛𐬀 𐬯𐬞𐬀𐬭𐬆𐬱𐬀 𐬠𐬀𐬥𐬥𐬀𐬭 𐬎𐬙 𐬀𐬨𐬭𐬀 𐬫𐬀 𐬀𐬨𐬭𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬥𐬌𐬵𐬀𐬨𐬌𐬌𐬀.
-- **𐬥𐬌𐬱𐬀𐬌𐬌𐬀 𐬀𐬭𐬚𐬀 𐬎𐬙 𐬵𐬌𐬯𐬀𐬠𐬀 𐬀𐬥𐬌𐬌𐬀.** 𐬥𐬀𐬉𐬛𐬀 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬀𐬉𐬐𐬀 𐬎𐬞𐬀 𐬀𐬯𐬐𐬭𐬌𐬥𐬀 𐬫𐬀 𐬀𐬨𐬭𐬀 𐬎𐬎𐬀𐬗𐬀 𐬥𐬌𐬵𐬀𐬨𐬌𐬌𐬀 𐬎𐬙 𐬀𐬥𐬐𐬀 𐬐𐬀𐬭𐬙𐬀.
-- **𐬨𐬀𐬌𐬥𐬀 𐬎𐬞𐬀 𐬞𐬀𐬌𐬙𐬌𐬌𐬀.** 𐬥𐬌𐬱𐬀𐬌𐬌𐬀 𐬙𐬀𐬠𐬍𐬙 𐬛𐬎𐬭 𐬫𐬀𐬛𐬀 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬨𐬀𐬫 𐬀𐬞𐬀𐬌𐬙𐬌 𐬀𐬎 𐬵𐬌𐬨 𐬀𐬎 𐬠𐬀𐬌𐬙𐬀.
+- **Patikarə̄ ahmya aodra-gātūi dārayeinti.** Photo pairs vərəzyeiti patikarə̄ yōi vi-cinasi, uta dārayeinti antar-vaēdya ahmāi aodra-gātūi. Vaēda kō annya tūiryeiti vi-sacaya computer ayāp tablet.
+- **Aipi-tāra dūrat annya link uta ads.** Vərəzya urvāzā dātō-dāta site paiti, uta nōit dasta-dāya banner ayāp framana yā paitičinanti hva-dāta.
+- **Dāraya a-hamana xšnaoma uta daϑra-nāman.** Nōit aivātem dāraya martiyəm paiticarəmnəm paiti ya vāseiti password ayāp card-marāi.
+- **Paiti-vaēda raϑya-tāca.** Dāraya tablet durāt yat martiya mā nmana para-tācaite hada ahmāi.
 
-𐬎𐬞𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬨𐬀𐬵𐬌𐬱𐬙𐬀𐬭𐬀، 𐬨𐬀𐬌𐬥𐬀 [𐬀𐬌𐬐𐬀𐬥𐬀 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬀𐬯𐬙𐬀𐬨𐬠𐬀 𐬎𐬙 𐬛𐬀𐬉𐬨𐬀 𐬎𐬞𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀](/caregiving/choosing-apps-and-games/) 𐬎𐬙 [𐬀𐬭𐬀𐬨𐬠𐬀 𐬙𐬀𐬠𐬍𐬙 𐬎𐬙 𐬙𐬀𐬌𐬌𐬌𐬀𐬞𐬋𐬥𐬀](/caregiving/tablets-and-screens/).
+Para maziya paiti-dātəm, vaēda [how to choose dementia apps and games](/caregiving/choosing-apps-and-games/) uta [setting up a tablet or phone](/caregiving/tablets-and-screens/).
 
-## 𐬐𐬀𐬌 𐬀𐬉𐬨𐬀 𐬛𐬀𐬉𐬨𐬀 𐬨𐬀𐬫𐬀𐬌𐬙𐬌 𐬐𐬀𐬭𐬀 𐬎𐬙 𐬥𐬀𐬉𐬛𐬀 𐬐𐬀𐬭𐬀
+## Cit aēte urvāzā tūiryeinti uta cit nōit tūiryeinti
 
-𐬛𐬀𐬉𐬨𐬀 𐬀𐬥𐬙𐬀𐬭𐬀-𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬛𐬀𐬛𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀 𐬀𐬥𐬎𐬙𐬌 𐬀𐬥𐬎𐬙𐬌 𐬀𐬥𐬀𐬥𐬀𐬥𐬀، 𐬨𐬀𐬌𐬥𐬀 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬀، 𐬎𐬙 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀 𐬀𐬥𐬀𐬞𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀. 𐬀𐬉𐬨𐬀 𐬥𐬀𐬉𐬛𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀، 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀 𐬀𐬎 𐬵𐬌𐬨، 𐬎𐬙 𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬌 𐬀𐬎 𐬵𐬌𐬨. 𐬀𐬨𐬭𐬀 𐬀𐬥𐬎𐬙𐬀 𐬀𐬯𐬙𐬌 [𐬐𐬀𐬭𐬀 Federal Trade Commission 𐬎𐬞𐬀 Lumosity 𐬀𐬥𐬙𐬀𐬭𐬀 2016](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) 𐬎𐬞𐬀 𐬀𐬨𐬭𐬀 𐬵𐬀𐬨𐬀-𐬐𐬀𐬭𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬫𐬀 𐬥𐬀𐬉𐬛𐬀 𐬀𐬯𐬙𐬌 𐬯𐬀𐬵𐬌𐬙𐬌𐬌𐬀. 𐬵𐬀𐬨𐬀 𐬎𐬎𐬀𐬭𐬀𐬌𐬌𐬀 𐬀𐬎 𐬵𐬀𐬭 𐬛𐬀𐬉𐬨𐬀، 𐬀𐬯𐬙𐬀𐬨𐬠𐬀 𐬎𐬙 𐬎𐬎𐬀𐬠𐬀 𐬫𐬀 𐬀𐬨𐬭𐬀 𐬫𐬀𐬛𐬀 𐬨𐬀𐬵𐬌𐬱𐬙𐬀𐬭𐬀، 𐬀𐬥𐬐𐬀 𐬨𐬀𐬥𐬀𐬵𐬌𐬌𐬀 𐬙𐬎𐬨، 𐬎𐬙 𐬀𐬨𐬭𐬀 𐬫𐬀 𐬨𐬀𐬫 𐬵𐬀𐬨𐬀𐬌𐬌𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀.
+Antar-vaēdya urvāzā dārayeinti martiyānām yōi manaŋhō paitičinanti zrvanəm urvāzayeiti, hamana patikarə̄ vaēnaiti, uta ahmya ham-kərəti vina zaraϑra. Nōit baēšazyeinti manaŋhō saoce, nōit rādayeinti, uta nōit paiti-tārayeinti. Masana paiti-framana asti [Federal Trade Commission's 2016 action against Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) paiti manaŋhō-cisti claim yā nōit aogə̄m dārayan. Paiti-vaēda bava vīspəm urvāzman, app ayāp website ya vahištəm paitišmarana framrūite, manaŋhō cisti mārayeiti, ayāp mrūite hā tūiryeiti para-tāiti paiti-vərəte.
 
-𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬀𐬉𐬨𐬀 𐬛𐬀𐬉𐬨𐬀 𐬀𐬥𐬎𐬙𐬌 𐬀𐬉𐬐𐬀 𐬠𐬀𐬵𐬭𐬀 𐬀𐬎 𐬌𐬋𐬨𐬀 𐬫𐬀 𐬀𐬯𐬙𐬌 𐬔𐬀𐬚𐬀، 𐬞𐬀𐬌𐬙𐬌𐬌𐬀، 𐬵𐬀𐬨𐬠𐬀𐬱𐬀 𐬎𐬙 𐬀𐬭𐬀𐬨𐬀. 𐬎𐬞𐬀 𐬨𐬀𐬌𐬥𐬀 𐬎𐬞𐬀 𐬀𐬌𐬐𐬀𐬥𐬀 𐬐𐬀𐬭𐬀 𐬛𐬀𐬉𐬨𐬀 𐬵𐬀𐬨𐬀 𐬎𐬙 𐬥𐬀𐬉𐬛𐬀 𐬀𐬥𐬀𐬥𐬀𐬥𐬀، 𐬨𐬀𐬌𐬥𐬀 [𐬀𐬌𐬐𐬀𐬥𐬀 𐬛𐬀𐬉𐬨𐬀 𐬵𐬀𐬨𐬀 𐬀𐬎 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬯𐬀𐬥𐬀 𐬀𐬞𐬀𐬭𐬀𐬌𐬙𐬌𐬌𐬀](/caregiving/how-to-play-together/) 𐬎𐬙 [𐬛𐬀𐬉𐬨𐬀 𐬫𐬀𐬛𐬀 𐬨𐬀𐬵𐬌𐬌𐬀 𐬥𐬀𐬉𐬛𐬀 𐬀𐬨𐬭𐬀](/activities/memory-games/).
+Vərəzya aēte urvāzā yaϑa aēva bāga ayarō ya citiya dārayeiti sraoma, raϑya, saoca uta rāma. Para māraya yaϑa rāma urvāzā kərənaoši vina aš-zaraϑra, vaēda [how to play games with someone who has dementia](/caregiving/how-to-play-together/) uta [memory games that do not test](/activities/memory-games/).
 
-## 𐬐𐬀𐬌 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀
+## Yada paiti-tārayasi
 
-𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬫𐬀𐬛𐬀 𐬨𐬀𐬭𐬙𐬌𐬌𐬀 𐬥𐬌𐬱𐬀𐬥𐬀 𐬀𐬭𐬀𐬨𐬀، 𐬀𐬥𐬀𐬥𐬀𐬥𐬀، 𐬀𐬥𐬀𐬥𐬀𐬥𐬀 𐬎𐬙 𐬀𐬥𐬀𐬥𐬀𐬥𐬀. 𐬎𐬎𐬌𐬛𐬀𐬌𐬌𐬀 𐬫𐬀𐬛𐬀 𐬵𐬎 𐬥𐬀𐬉𐬛𐬀 𐬀𐬥𐬎𐬙𐬌 𐬀𐬥𐬎𐬙𐬌. 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬵𐬀𐬛𐬌𐬌𐬀 𐬀𐬯𐬙𐬌 𐬀𐬭𐬚𐬀 𐬛𐬀𐬠𐬀. 𐬙𐬎𐬨 𐬨𐬀𐬫𐬀𐬌𐬙𐬌 𐬵𐬀𐬨𐬀 𐬵𐬀𐬨𐬀 𐬌𐬋𐬨𐬀 𐬀𐬥𐬌𐬌𐬀، 𐬎𐬙 𐬵𐬀𐬨𐬀𐬌𐬌𐬀 𐬎𐬞𐬀 𐬵𐬀𐬨𐬠𐬀𐬱𐬀 𐬎𐬙 𐬞𐬀𐬌𐬙𐬌𐬌𐬀 𐬀𐬥𐬌𐬌𐬀.
+Paiti-tāra yat martiya vaēnaite aš-šuta, a-rāma, aš-zaraϑra ayāp dūš-manah. Paiti-tāra yat urvāzman vi-bərəte. Hakat paiti-tāiti asti vahištəm dātəm. Tū hamayā paiti-ayasi annya ayarə, ayāp vərəzyasi saoca ayāp raϑya paiti.

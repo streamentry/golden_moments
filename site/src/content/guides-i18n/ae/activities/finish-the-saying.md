@@ -1,32 +1,33 @@
 ---
-title: "Həm.vacah- Spəṇta Frašna Mazdāišnəm"
-seoTitle: "Həm.vacah- Frašna Mazdāišnəm"
-description: "Həm.vacah- uxδa frašna mazdāišnəm: yaθa varəzāne, yaθa ciš, yaθa nōit frašna, yaθa maθrəm vacah- ham.vərənaite."
+title: "Vacō-Haurvakaranā Urvāzā Zarətābhyō Mananhō"
+seoTitle: "Vacō-Haurvakaranā Urvāzā Zarətābhyō Mananhō"
+description: "Vacō-haurvakaranā urvāzā zarətābhyō vī-mərətibīš: yaϑā xšnūta vacaēbīš rāmō-dāiti, vaṣ̌e hañcariti, a-pərəsanā, uta a-dātəm vacō paiti-mraomi."
 section: activities
 order: 23
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Həm.vacah- frašna vacah- spəṇtəm uxδəm vərənaite, apərəm vacah- apa.stāiti,
-  yaθa "Nōit haṇkərəθāi kauuāscaŋhō pərəsāiti..." Yō mazdāiš vacah- apərəm
-  dāiti, vā daibišō yaθa θrišō ciš. Vacō yąm mazdāiš xšnūtəm, ciš dāiti, uua
-  vacah- spəṇtəm ham.vərənaite, nōit frašna. Golden Moments azātəm
-  həm.vacah- frašnəm dāiti, yaθa tablet-ō vā kərəta- uruuāxšaiiā varəzāne.
+  Vacō-haurvakaranā urvāzā paiti-srāvayeiti xšnūtəm vacō, uta paiti-darayeiti
+  aparahe vačanhō parō. Nā yim paiti-harahi apara vacō aipi-dadāiti, ayā
+  vī-cinōiti duye vā ϑrayas-vā vacaēbīš. Fradada vacō yāi-bīš nā zaratha bavata,
+  vaṣ̌e dāta, uta vīspəm paiti-vacō vaŋhave fraxšnāi paiti-gərəmbaya, nōit
+  arš-dātəm nōit a-dātəm. Golden Moments dadāiti rāməm vacō-haurvakaranəm yim
+  xšayehe frakaranāi.
 keyPoints:
-  - "Vacō mazdāiš xšnūtąm āθrauuanąm ciš, uua ciš daibišō dāiti yaθa apərəm vacah- duž.uxδəm."
-  - "Paoirīm vacah- darəγəm frauuāxš, apā.stā, upa.barā. Nōit vacah- zī apa.dāiti, nōit frašna varəzāiti."
-  - "Vacah- vīspəm spəṇtəm ciš. 'Huuō spəṇtō' uxδa, uua ham.vacah-, nōit paityāra."
-  - "Pərəθu.uxδā uxδā maθrā əražuxδā. Mazdāišnəm madəmāi vacō spəṇtā xšnūtā varəzāiti."
-  - "Yat rādā apa.zəmāiti, apā.stā. Panča daθa minūtā həṇd vacąm spəṇtəm varəδəm."
+  - "Fradada vacahe fraoritihe uγrahe-ca narš yim paiti-harahi, uta dāta vīciti apara vacaŋhō yadā a-dāiti taxma asti."
+  - "Mruidi paoirīm sravahəm dranjō, paiti-dara uta manō-dāraya. Nōit asu apara vacō han-dāta, uta nōit pərəsa yaϑā aibi-gərəmbaiti."
+  - "Vīspəm paiti-vacō yaϑā vaŋhu paiti-zānata. Mruidi „Vaŋhauvi aēm“ uta aipi saca vacaŋhā, nōit arš-kərəta."
+  - "Paϑmā vacō aməṣ̌a-bavaiti. Vərəzyata frāyō rāzakəm xšnūtəm-ca vacō narəbyō yōi aipi a-marətīm carənti."
+  - "Dāra yadā kāma aipi-bavaiti. Pañca vā dasa vā zrvanō vacaēbīš asti haurva xšnūta haŋhənā."
 faq:
-  - q: "Katārō həṇti həm.vacah- frašna mazdāišnəm?"
-    a: "Frašnō yō vacah- spəṇtəm apərəm vacah- vərənaite, uua mazdāiš apərəm dāiti. Mazdāiš vacah- uxδaiti, ciš dastā varənāiti, vā vacah- spəṇtəm xšnūiti. Golden Moments azātəm [həm.vacah- frašnəm](/games/finish-the-saying/) dāiti, ciš spəṇtā daršiieiti uua apərəm vacah- xšaθrəm dāiti."
-  - q: "Həm.vacah- frašna mərəγō həṇti?"
-    a: "Yaθa frašnəm varəzāne, mərəγō baβāiti. Ham.rādā xšaθrəm varəzāiti, ciš dāiti, vacah- duž.uxδəm apa.barā, nōit gaṇnā dāiti. Varəδəm xšnūtəm uua ham.vacah- həṇti."
-  - q: "Katārā vacō mazdāišnəm spəṇtā?"
-    a: "Vacō kərpō spəṇtā hamahe ayan̰: vāta, nmāna, xᵛarəθa, nmāna pərətuš, yārə. Vacō yąm mazdāiš yuuanəm xšnūtā, spəṇtā. Pərəθu.uxδā apa.barā, yā duž.uxδā."
-  - q: "Yat mazdāiš anyəm apərəm vacah- dāiti?"
-    a: "Xšaθrəm paiti.barā uua pərəsā, katārəm arəθəm. Mazdāiš anyəm apərəm vacah- spəṇtəm dāiti. Ham.vacah- varəzāiti yā mazdāiš gaēθā vacāiti."
+  - q: "Čiš asti vacō-haurvakaranā urvāzā narəbyō vī-mərətibīš?"
+    a: "Aēm asti rāmō yō paiti-srāvayeiti xšnūtəm vacō vadarə aparam vacō, pasca-ēta naram paiti-zbayata haurvō-karanāi. Narō xšayən aparam vacō uz-mruiti, zastā aibi-daēsayeiti, ayā xšnūtəm srāvayeiti. Golden Moments dadāiti a-xvaranəm urvāzəm yō daēsayeiti vīcīm uta apara vacō nərəma aipi-dadāiti."
+  - q: "Asti-vāra vacō-haurvakaranā marətiyō pərəsanā?"
+    a: "Bavaiti yaϑā pərəsanā yezi yaϑā aibi-gərəmba carəte. Vərəzyata aēm yaϑā hazaoša rāmanəm zrvānəm, dāta vīcīm, paiti-taca yō a-xšnūtīm dadāiti, uta nōit namana daēsaya. Arəϑa asti urvāzā uta paiti-mrvanā."
+  - q: "Katarā vacō vaŋhutara zarətābhyō vī-mərətibīš?"
+    a: "Mərəzu xšnūta vacō ayanhe jīvatōhe vahišta bavaiti: vārahe, gərəδahe, nmānahe vacō, uta xvaētuhe yaϑā zayanahe. Vacō narš yūxšne zrvāne bavaiti xšnūtatara. Paiti-pāhi a-xšnūta vacō yāi bavaiti pəšanā."
+  - q: "Či yaϑā nā anyəm apara vacō dadāiti?"
+    a: "Paiti-gərəmbaya urvāzo-manō uta pərəsa čīm ahmāi mravaiti. Pouru narō dadənti anyəm vaŋhu vacō ayā anyahmāt vacat. Vərəzaya aēm yaϑā paϑa ahmāi jīvatōi sravanāi."
 sources:
   - title: "Communicating With a Person Who Has Alzheimer's Disease: Do's and Don'ts"
     publisher: "National Institute on Aging"
@@ -45,49 +46,49 @@ related: [activities/trivia, activities/reminiscence-questions, activities/memor
 health: false
 ---
 
-Həm.vacah- frašna vacah- spəṇtəm varəzāiti, yō apərəm vacah- apa.stāiti. Mazdāišnəm baēšaza rādəm spəṇtəm dāiti. Varəδəm spəṇtəm, yā vacō pouru.xšnūtā, uua mazdāiš nōit imat ayan̰ mərəγāt̰. Aēm daēnā uxδaiti yaθa varəzāne, yaθa vacō ciš, yaθa xšaθrəm varəzāne.
+Vacō-haurvakaranā urvāzā vərəzyeiti xšnūtəm sravahəm yō paiti-darayeiti aparahe vačanhō parō. Pourubyō narəbyō asti šyātō, a-bīvatō paϑa hañcaranāi zrvānō. Aēm urvāzā vərəzyeiti yaϑa vacō asti parō-dātəm uta xšnūtəm, uta nōit kāma asti narāi marənāi cišca ahmāi ayan. Aēm aibi-jānā paiti-mravaiti yaϑā rāmayeiti, yaϑā vacō vī-cināhi, uta yaϑā rāməm dārayāhi.
 
-## Katārō həṇti həm.vacah- frašna?
+## Čiš asti vacō-haurvakaranā urvāzā?
 
-Frašnō kərpō, yat aēuua paoirīm vacah- frauuāxšaiti, uua anyō apərəm vacah- dāiti. Yaθa "Kərəzā vacah- spəṇtō..." uua "Paoiriiō mərəγō..." Mazdāiš vacah- uxδaiti, ciš dastā varənāiti, vā daibišō yaθa θrišō apərəm vacah- ciš. Kəhrpəm mazdāiš paoirīm vacah- frauuāxšaiti.
+Aēm asti mərəzuiš urvāzā yahmī aēvō nā paiti-srāvayeiti paoirīm sravahəm vacaŋhō uta dido apara vacō haurva-karaiti. Paoirīm dāitīm asti „Vərəzyata fravacaite aš-vacaŋhō yata...“ uta „Paoirīš mərəγō vī-vindaiti...“ Nā yim paiti-harahi xšayehe aparam vacō uz-mruiti, ahmāi zastā daēsayeiti, ayā vī-cinōiti duye vā ϑrayas-vā aparam vacō yā dāhi. Anyō nā urvāzaiti bavaiti yō srāvayeiti paoirīm bagəm.
 
-Golden Moments azātəm [həm.vacah- frašnəm](/games/finish-the-saying/) dāiti, spəṇtā daršiieiti. Apąm daršiianəm varəzāne, paoirīm vacah- uxδaiti uua upa.barā.
+Golden Moments dadāiti aēm yaϑā [a-xvaranəm vacō-haurvakaranəm urvāzəm](/games/finish-the-saying/) maṣ̌ō fravačahā. Xšayahi aipi a-daēsanayā vərəzyeiti, sraotā paoirīm sravahəm mrvan uta paiti-daran.
 
-## Yaθa varəzāne, frāδəm
+## Yaϑā rāmayeiti, gāmu paiti gāmum
 
-1. **Xšaθrəm upa.barā,** uua mazdāiš cašmanəm hama, pāiti.stāna.
-2. **Paoirīm vacah- darəγəm frauuāxš,** spəṇtā garəm, apā.stā. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) darəγəm uxδaiti uua vacō kərpō spəṇtā varəzāiti.
-3. **Upa.barā.** Həṇd frasąstīm dāiti. Yat nōit vacah-, daibišō yaθa θrišō apərəm vacah- dāiti, aēuua spəṇtō.
-4. **Vacah- vīspəm spəṇtəm ciš.** "Āat, aēm spəṇtō" vā "Aēm nōit mąm maniiā" spəṇtəm varəzāiti.
-5. **Ham.vacah- vacah-.** Pərəsā katārəm arəθəm, kuθra xšnūtəm. Aēm varəδəm spəṇtəm həṇti.
-6. **Pərəsō apa.stā.** Həṇd vacō uua xšnūtəm, varəδəm spəṇtəm.
+1. **Vī-cina ramnəm zrvānəm,** uta aša-ašī arəδəm narəhe ni-šida.
+2. **Paoirīm sravahəm dranjō paiti-srāvaya,** urvāzo vacō, uta paiti-dara. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) dāiti saca dranjō mruiti uta mərəzu, a-pərətu sravō vərəzyeiti.
+3. **Paiti-dara.** Dāta kəcit zrvānō. Yezi nōit vacō paiti-jasaiti, dāta duye vā ϑrayas-vā aparam vacō, aēvəm arš-dātəm.
+4. **Xšnūta vīspəm paiti-vacō.** „Bā, aēm asti“ ayā „Nōit manō ahmāi dadāiti“ dārayeiti rāzakam.
+5. **Mruidi vacaŋhō paiti.** Pərəsa čīm ahmāi mravaiti, ayā kva aēm sruye. Aδa asti pouru arəϑō.
+6. **Dāra parō yaϑā šyātō aipi-bavaiti.** Kamna vacō uta xšnūtō handātā asti haurva haŋhənā.
 
-## Ciš dāiti, nōit frašna
+## Vīcīm dāiti an-aibi-gərəmba
 
-Daibišō apərəm vacah- varəδəm ərəzuuəm varəzāiti, uua frašnəm baβāiti yat frašnā uxδāne. Xšaθrəm spəṇtəm barā. "Apərəm vacah- xšnūiši vā ciši?" uxδa, nōit "Katārō həṇti?" Ciš apā.stāiti pasca dāiti, nōit paoiriia.
+Vīciti apara vacaŋhō xšayeiti urvāzəm subrəm karaiti, bā bavaiti yaϑā pərəsanā yezi dāiti yaϑā aibi-gərəmba. Dāraya nərəma vacō. Mruidi „Vašī apara vacō srunavāhi ayā aēvəm vī-cināhi?“ nōit „Kataras asti?“. Dāta vīcīm pasca paiti-darəm, nōit parō yaϑā nā nōit zrvānəm dārayaiti paiti-vacāi.
 
-Yat mazdāiš duž.xšnūtō vā duž.manaŋhō, varəδəm apa.barā uua anyəm varəzāiti. Amā [ham.vacah- daēnā](/caregiving/communication-tips/) uxδaiti yaθa anyəm varəzāne, nōit duž.xšnūtəm.
+Yezi nā a-šyātō bavaiti, dāra urvāzəm uta fra-taca. Ahmākam [fraxštayō sacahe](/caregiving/communication-tips/) daēsayeiti yaϑā paϑəm vašayehi an-uz-bavāiti.
 
-## Vacō ciš mazdāiš spəṇtā
+## Vī-cina vacō yōi narāi hazaoša
 
-- **Mazdāiš vacō varəzāiti.** Nmāna pərəsā, katārā vacō pita vā haδa.paθni vərənaite. Vacō yuuanəm spəṇtā.
-- **Vacō kərpō hamahe ayan̰ ciš.** Vāta, xᵛarəθa, varəza, nmāna, yārə spəṇtā.
-- **Spəṇtəm barā.** Pərəθu.uxδā yā pouru.zarəθuštrō uxδā duž.uxδā. Yąm xšnūiti, dāiti.
-- **Vacah- ciš.** Uxδā nōit anu.vacah-. Vacō mazdāiš vacah- varəzāiti, yat nauuā ciš.
+- **Vərəzaya narš xva vacō.** Pərəsa xvaētūm čīm pitarō vā nairī vā aməṣ̌a mraomi. Vacō aparanāyukahe zrvānō bavaiti asutara xšnūtəm.
+- **Vī-cina mərəzu, ayanhe vacō.** Sravahō vārahe, gərəδahe, varahe, xvaētuhe uta zayanahe asti vasō xšnūtō uta subrō sachaiti.
+- **Dāraya rāzakəm.** Vacō yāi dārayeiti parō-parənā vacō ayā daēnā-dātəm xšayeiti pəšanā bavaiti. Dāraya aēte narəbyō yōi ahmāi urvāzənti.
+- **Vī-cina hizvəm.** Pouru sravahō nōit anyāi hizve raviti. Vərəzaya vacō yāi nā vīdaēte xve hizve, aipi yezi nāva vacō vindahi.
 
-## Vacō gaēθā
+## Vacō paiti dāitīm
 
-Aēte apərəm vacah- (pāiti.stāna) tąm daršiieiti. Paoirīm vacah- frauuāxš, upa.barā.
+Vīspā dāitī aδari daēsayeiti aparam vacō antara gāϑābyō tava. Paiti-srāvaya aēvəm paoirīm bagəm, pasca paiti-dara.
 
-- **Vāta:** "Vārənō paoiriia haṇminəm..." (apərəm: "spəṇtō daθā haptəm"); "Vīspō vārənō..." (spəṇtəm raocō).
-- **Xᵛarəθa:** "Pouru xᵛarəθarō..." (xᵛarəθəm duž.varəz); "Nōit haṇkərəθāi kauuāscaŋhō..." (pərəsō kauuāscaŋhō).
-- **Nmāna:** "Nmānəm yat zrazdā..." (həṇti); "Xᵛaētuuō spəṇtō..." (apąm).
-- **Yārə uua varəza:** "Vārənō āprəm..." (vərəza spəṇta); "Yat varəzi, tat..." (vīnāhi).
+- **Vāra:** „Vārom parō haptəm...“ (apara vacō: „hvan-ayan aipi aēvandasa“); „Vīspo maēγō dārayeiti...“ (ərəzatahe sraorīm).
+- **Gərəδa uta xvarəti:** „Pouru xvarəto-dāta...“ (dūš-karənti xšvīzrəm); „Nōit vī-cina cāšuhe kahrkāso...“ (parō yaϑā uz-jasantī).
+- **Nmāna uta xvaētu:** „Nmāna aδa asti kva zərd...“ (asti); „Vohunī asti stūra yata...“ (āpō).
+- **Zayana uta vara:** „Zayanahe vāra anayanta...“ (urvaranąm zaranīm); „Kərənūhi aēm yim...“ (kərəntahi).
 
-## Yat mazdāiš nōit vacah- dāiti?
+## Či ahmāi narāi yō nōit xšayeiti paiti-vacāi?
 
-Kəhrpəm mazdāiš apərəm vacah- nōit vīnaite. Vacah- nōit apa.barā. Frauuāxš, spəṇtəm darš, uua paiti.barā dastā, sraošā, vā ciš daršiia. Vacah- spəṇtəm xšnūtəm hama rādəm. Varəδəm ham.varəzāiti gāθā, xᵛarəθa garəma, vā dastā spəṇta, yaθa [apərəm varəδā](/activities/late-stage/).
+Kəcit narō nōit vīndənti vacō aparahe zrvānō. Nōit apanaya aēm vacō. Paiti-srāvaya, xšnūta zəgata, uta paiti-zbaya paiti-vacāi zastā, sarō-namanā, ayā vī-cinanā kəhrpəm. Hañcarana xšnūtəm sraotəm asti aipi hazaoša zrvānō. Haxša aēm urvāzəm gāϑābyō, xvarmahe xvarəte, ayā zastō-paiti-bərəte, yaϑā ahmākam [aparō-zrvānō hañcaranā](/activities/late-stage/).
 
-## Anyā varəδā vacah-
+## Frāyō paϑā vacaŋhō vərəzyanāi
 
-Vacō mazdāiš gaēθā ham.vacah- spəṇtəm dāiti. Gaēθā pərəsā [mərəγā gaēθā](/activities/reminiscence-questions/), vā varəzā [ham.vacah- ciš](/games/conversation-cards/). Pouru varəδā ayan̰, darəsā [varəδā mazdāišnəm](/activities/ideas/).
+Vacō vaŋhu nayanta sravahəm parō-jīvatō narəhe. Xšayahi paiti-zbaya sravā vacaēbīš hača [parō-zrvānō pərəsanābīš](/activities/reminiscence-questions/), ayā rāmaya ha-dāta urvāzā yaϑā [hazašanā kārdā](/games/conversation-cards/). Fradāite frāyō manō ahmāi ayan, vaēnā [hañcaranā narəbyō vī-mərətibīš](/activities/ideas/).

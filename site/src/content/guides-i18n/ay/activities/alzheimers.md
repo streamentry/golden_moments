@@ -1,37 +1,35 @@
 ---
-title: "Alzheimer jakasirinakatakix luräwinaka ukat anatañanaka"
-seoTitle: "Alzheimer luräwinaka: thaqhanakan ideanaka"
-description: "Alzheimer jakasirinakatakix luräwinaka ukat anatañanaka sapa thaqhan, ukax suma yatiñanakan ukat amtanakan, jiwasa sapa uñtasiñampi anatañanakampi."
+title: "Alzheimer ukan jakirinakatakix lurañanaka ukat juegunaka"
+seoTitle: "Alzheimer lurañanaka: etapa ukat ideas"
+description: "Alzheimer ukan jakirinakatakix lurañanaka ukat juegunaka, sapa etapa ukan, ukat walja juegunaka sapa kuna ukhamarak jukhurinaka."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Suma luräwinaka Alzheimer jakasirinakatakix ukanakar sarapxi, ukanakax
-  sapa kunatix juk'a jan tukuski: wakiskir yatiñanaka, walja taqunaka,
-  wasitat luräwinaka ukat sentidonaka. Qalltanwa, naypanaka, anatañanaka,
-  manqha luraña ukat paseonaka mayamampi lurañanakax ch'amanïpxi. Chiqa
-  thaqhanwa, pitxañanaka, aruskipañanaka, jisk'a uñtasiñ ukat uñacht'äwinaka
-  sawi anatañanaka, ukanakax walja yatiñanakawa. Alzheimer tuqinxa, taqunaka,
-  ajanukhampi ukat yänakampi aka jaqunakaxa wali askiwa. Jichhürunakan jaqinakan
-  sapa kunsa jan wali ukanakaxa uñjañawa.
+  Alzheimer ukan jakirinakatakix askinaka lurañanaka, ukat jiwasan utjki
+  ukanakaru sarnaqañ uñtasiñ: maynit yatiqtanakasa, kantu aruxa, kawkïrinaka
+  ukat uñjañanaka. Qalltanxa, naipirinaka, sara juegunaka, manq'añ ukat
+  sarañanaka walja askiwa. Chiqa etapan, tejidu, qillqatañ, jawsañ ukat
+  uñacht'äwinaka aruxa askiwa. Qhipa etapan, jawsañ, lakampi aka utjaña
+  ukat jakañ phuqhasiñ wali wakiskiwa. Uñjasipxam jiwasan sarnaqañ.
 keyPoints:
-  - "Alzheimer ukax demencia ukan sapa wali aski ch'amanakapa, ukatwa demencia tuqi luräwinaka aka Alzheimer tuqinakan sarapxi."
-  - "Machaq yatiñanakax nayrapach jan ch'amanïpxi, ukampisa walja maya tiempo sarnaqañanakax ukat taqunakax ch'amanïpxi. Ukanakar sarnaqañawa."
-  - "Thaqhanakax sapa mayamp mayamp uñacht'äwinakaniwa, ukat askinakax jan askinakax sapa kunsa jikisiwa. Jichhürunakan jaqin ch'amap, munañap uñjasa ajllisiñawa."
-  - "Relojanakan, puntuacionanakan ukat preguntanakan jan utjatanakan anatañanaka ajllisiñawa, ukat uñacht'äwinakax uñjasiñaparakiwa."
-  - "Uñjañax, makhatañax jan ukax chikata sarañax sapa kuna luräwinakamp jikisiñawa."
+  - "Alzheimer ukax demencia ukan sapa qalltat ukhamawa, ukatwa demencia lurañanaka ideanakax ukar apaskiwa."
+  - "Machaq yatiqañanakax nayrarux jaysiwa, ukampis maya pachan yatiqat yatiqañanakax, walja kipkaru utjaspawa. Ukanakan sarnaqañax."
+  - "Etapanakax mayacht'atäpxi, ukat askinak ukat jan askinak jakañ ukhamawa. Jichhürunsa jaqix kuna lurañ puedi ukat kusisiñ ukar ajllima."
+  - "Juegunak ajlliñax, janiw relojanïkaspa, punt'anïkaspa, ni tanta jawsatäñanïkaspa, uñacht'äwinakax uñjasiñapawa."
+  - "Uñjañ, kuna ukanak apañ, jan ukax chika qhiqsa sarañ, sapa ukax lurañ ukhamawa."
 faq:
-  - q: "¿Kuna luräwinakas Alzheimer jakasirinakatakix askiwa?"
-    a: "Jakawisanakan sapa kuna luräwinakaxa sayt'ayatawa: awasa tiktaña, mesa jaruña, chika luqtaña, taqunaka ukat taqiñanaka, uñtasiñanaka, sarañanaka, qarpañanaka ukat uywanakampi sarañanaka. Sapa uñacht'äwinakaxa jaqinakatakix askiwa. Jaqix sapa kunsa munañapa ajllisiñawa, ukat jumampi chikaw luqtañama."
-  - q: "¿Anatañanakax Alzheimer jakasirinakatakix askiwa?"
-    a: "Anatañanakax jaqix munañapa ukhamaxa, chikaw walja tiempo jikisiñatakix askiwa. Janiw kuna anatañas Alzheimer ch'amañchañapataki, sayt'ayañapataki jan ukax jaytañapataki yatiyatäkiti, ukatwa anatañanakax kusisiñatakiw ajllisiñama: juk'a uñacht'äwinaka, jisk'a ajllitanakampi, janiw reloj, puntuación ni jan chiqa ukan arunakampi jan lurañamäkiti."
-  - q: "¿Demencia tuqi luräwinakas Alzheimer tuqi luräwinakas sapa ukhamakiti?"
-    a: "Walja ukhamakiti. Alzheimer ukax demencia ukan sapa wali aski ch'amapawa, ukatwa luräwinaka ideanakax sapa ukhamawa. Alzheimer tuqi askinakax, machaq uñtasiñanakax nayraqatas jisk'achañapawa, ukatwa wakiskir yatiñanaka, taqunaka ukat sarnaqañanakan luräwinakax sumamp sarapxi."
-  - q: "¿Kuna Alzheimer manqha thaqhanakan jaqix ukhamaraki kusisiñapa?"
-    a: "Munat taqunaka, ajanun juk'a ukat ch'uxña lloqallañanaka, aski uñsuwinaka, jaqi ch'iqhinakampi uñsuñ ukat jan jachaw jan sarañanaka, jiwasa yatiñanaka munat jaqimpi chikaw qamaña. Jisk'a ukat jan tiempo jikisiñanakamp, uñsuñ ukat jaqix kuna munasa uñjañawa."
-  - q: "¿Kunasa Alzheimer jakasiri jaqinakar luräwinakaxa munañarakiñ luraña?"
-    a: "Yanapt'añ mayt'añawa, janiw luräwi sapa ukhamäñ jan ukax wali jan sarañawa: sapa kuna jaytañamawa, nayraqatapa juma luräwi qalltañama, ukatwa jaqix jan jachaw sarañapawa. Uñjañ pacha walja suma jaqinakar ch'amanïñapawa. Jan sañaxa, qhipatxa yatiñawa jan ukax juk'a ukar sarañawa."
+  - q: "¿Kuna lurañanakas Alzheimer ukan jakiri jaqitakix askiwa?"
+    a: "Jakañ ukan yatiqta lurañanaka, ukat sänka ukham sapa: ch'uqinak thaqhañ, mesa ch'amañ, chika lurañ, arsüña ukat arsuña, uñacht'äwinak uñjañ, sarañ ukat quri wawa uñjañ. Askin uñacht'äwinaka juegunaka ukat yatiqañ qillqanakax walja jaqinakatakix askiwa. Jaqix kuna sum munañapa ajlliñ ukat lakampi lurañ."
+  - q: "¿Juegunakax Alzheimer ukan jakiri jaqitakix askiwa?"
+    a: "Juegunakax jaqix munañapa ukhamaw walja kusisiñ ukat jukhu lakampi sarañ puedi. Janiw juego ukax Alzheimer ukar Jaytkañ, jan ukax jaytkañ yatiñ uñjatäkiti, ukatwa kusisiñatak ajlliña: jach'a uñacht'äwinaka, jisk'a ajlliñanaka, ukat janiw relojanïkaspa, punt'anïkaspa, ni jan allinak sarañ."
+  - q: "¿Demencia lurañanaka ukat Alzheimer lurañanaka ukax uka mayjtaskiwa?"
+    a: "Walja kunjamäkaspas janiw. Alzheimer ukax demencia ukan sapa qalltat ukhamawa, ukatwa lurañ ideanakax ukhamarakiwa. Alzheimer ukan askinak ukax, machaq uñtasiñanakax nayrarux jaytanipxi ukat, maya pachanakan yatiqat yatiqañanaka, arsuñanaka ukat sarañanakax sum sarnaqañ ukar apaskiwa."
+  - q: "¿Kuna lurañanakas Alzheimer ukan qhipa etapan jakiri jaqix ukat kusisiñ puedi?"
+    a: "Munat taqi, lakampi pisi maynit sarnaqaña, ch'uqi chharkañ, arsuñanak ist'añ, qhurunakan sayt'añ ukat jupar uñtat jaqi lakampi utjañ. Jisk'a ukat lurañanakax t'aqhisiñ utjañ, uñjañ, jupax kuna munañapa uñjañ."
+  - q: "¿Kunjamasa Alzheimer ukan jakiri jaqi lurañ munaraki?"
+    a: "Lurañ ukat yanapt'añ jawsañ, janiw sapa kuna lurañ sarañamax, taqi kuna mesa ukar churañ, ukatsa jumax nayrar lurañ, ukhamat jupax lakampi sarañ puedi. Uru pacha askinak ajlliñax walja yanapt'i. Janiw munkaspati ukhaxa, qhipa uru jawsañ jan ukax jisk'a chiqar lurañ jawsañ."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -56,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-Jumax Alzheimer jakasir jaqi uñjasmati, kunatix juk'a jan tukuski uñjapxäta, ukat kunanakatix ch'amanïpxi uñjapxäta. Uka jaqix jichhüru tiempon parlañ jan yatipxi, ukampisa taqi yatiñanaka himnonakax uñjsa, awatax kunjamatix nayrar luqtapxäna ukhama luqtaspa, jan ukax naypa naypanx sañ sarxaspa. Suma luräwinakax ukanakar sarapxi. Aka qillqatax kunatixa ukhama sarañ, ukat thaqhan thaqhan suma luräwinaka ukat jiwasa sapa uñtasiñanakan ukanakar uñacht'ayi.
+Jumax Alzheimer ukan jakir jaqi uñjaskta ukhaxa, walja kuna jiwasan uñtasiñanakax sum jaytanipxi, ukampis maynit ukax sum sarnaqañapawa. Jupax uru pacha tilifunu parlañanakax yatiñapksna, ukampis taqi aru ukat ch'uqinakax akham uñjañanakas uñjasi. Ukanakan sarnaqañ lurañanakax chiqpachaw sum sarnaqaski. Akax yatiyaraki kunatsa ukham utjki, ukat sapa etapatak lurañanaka, ukhamarak aka qillqatan juegunak yatiyaraki.
 
-## ¿Alzheimer ukax demencia ukat luräwinaka tuqiw juk'a jukhuwa?
+## ¿Alzheimer ukax demencia lurañanakan juk'ampi ukhamaraktati?
 
-Janiw walja. Demencia ukax sapa wali aski ukaw, Alzheimer jakañax demencia ukan sapa wali aski ch'amapawa: [Alzheimer Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) yatiyañ sañ, 60 ukat 80 por ciento demencia jakasirinakan utjapxi. Demencia tuqi qillqat sapa kuna, Alzheimer tuqinakan sarapxi, [101 luräwi ideanakax](/activities/ideas/) ukhamarakiw.
+Janiw juk'ampi. Demencia ukax sapa sutiwa, Alzheimer ukax demencia ukan walja utjki ukawa: [Alzheimer Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) qillqañapan sasaw, 60 ukat 80 por ciento demencia jaqinakan utjaskiwa. Walja qillqatanakax demencia lurañanakat qillqatawa, Alzheimer ukatakis sum mayacht'asi, jiwasan [101 lurañ ideanakasa](/activities/ideas/) ukhamarak.
 
-Sum yatiña ukax kunjamatix sarañ, ukawa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) yatiyañ sañ, Alzheimer ukax nayraqatax amuyt'añ utji ukanakar jaqichañ sarañ, ukatxa parlañ, amuyañ ukat jaqinakamp sarañ ukanakar jaqichañ sarañ. Alzheimer Association yatiyi, nayraqat uñjata uñacht'äwix machaq yatiñanakar jan amtañawa. Jaqinakax juk'a juk'a sarapxi, walja jaqinakax juk'a ukat jan ukanak ukhama sarapxi, ukampisa ukax luräwinak ajllisiñ yanapt'i.
+Yatiñ askiwa kunjamasa uñjasi ukax. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) qillqañapan sasaw, Alzheimer ukax nayrarux uñtasiñ ukan ch'iqanakar jaqhachi, qhipatxa arsuñ, yatiñ ukat jaqinakan sarnaqañar. Alzheimer Association ukax sasaw, qalltanxa mayjt'awi machaq yatiqatanakax uñtasiñ ukhamaw. Taqi jaqix mayakiwa, walja jaqinakax mayjt'a ch'uqinakaniwa, ukampis akax lurañanakan sum sarnaqañ uñjatäki.
 
-## ¿Kuna luräwinakas Alzheimer jakasirinakatakix wali askiwa?
+## ¿Kuna lurañanakas Alzheimer ukan sum utji?
 
-Wakiskir yatiñanakan luräwinakax, machaq yatiñanakat juk'a ch'amanïpxi.
+Maya pachan yatiqat, sum yatiqat yatiqañanakax machaq yatiqañanakat sipansa, sum sarnaqaski.
 
-- **Wakiskir yatiñanaka.** Alzheimer Association yatiyi, jaqix walja maras yatitap pianu anatañanak ch'amanï sañ. Kayu luqtaña, madera ch'uqtaña, naypa tiktaña, t'ant'a ch'iyaña ukat qurunakan luqtaña ukanakax ukhamaraki.
-- **Nayra taqunaka ukat jiwasa taqunaka.** Walja jaqinakax taqinakax ch'amanïpxi, tuqinakan, jaqinakan ukat sapa jaqi mä kawkatsa wedding taqi. Uñjañ [taqi luräwinaka](/activities/music/).
-- **Sapa uñt'at luräwinaka.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi, p'iqinaka tuma, mesa jaruña, qarpanakan sepawa ukat qurunakan luqtaña ukanakax jaqinakatakix askiwa. Jupanakax chiqpachaniw jaqi munañ.
-- **Uñt'añ, jan amtañ.** Uñtasiñanakan, sapa kunax uñtatañanakax uñjañanakat juk'a wali askiwa. Ukatwa uñjañ jupanakax jan chiqa ukan uñtasiñanakat juk'a sumawa.
-- **Sentidonaka.** Ch'iqinaka, usuchjañanaka, t'ant'a, misk'i ukat ch'uqi ukanakax, arunakax jan sum ch'amanïkipan ukhamarakiw. Uñjañ [sentido luräwinaka](/activities/sensory/).
+- **Maya pachan yatiqat yatiqañanaka.** Alzheimer Association ukax sasaw, jaqix walja maranakan piano ukan yatiqat t'aqa ukanakax sum lurañ puedi. Ch'uqinaka ch'uqiñ, qhuyñat t'ant'a, ch'uqinak tiqtañ, t'ant'a ch'uñuñ ukat wakt'añanakax ukham utjiwa.
+- **Maya pachan arsuñanaka ukat juk'ampi musika.** Walja jaqinakax chikata sipansa arsunakax uñtasi, mä ukat sipansa taqi arsut uñtasi, jach'a ukanakax jach'a machaq arsunaka. Uñjañ [musika lurañanaka](/activities/music/).
+- **Sapa uru lurañanaka amtampi.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ukax qillqañapan sasaw, quri ch'uqiñ, mesa ch'amañ, ch'uqi sort'añ ukat ch'uqi chharkañ, jaqinakax munañapa lurañanaka. Jaqix yanapt'asiñax wali wakiskiwa.
+- **Uñjañ, janiw uñtasiñ.** Uñacht'äwi uñjaña ukax, sut uñtasiñat juk'ampi sayt'añatakix sum. Ukhamat uñacht'äwinaka uñjañ juegunakax quiz ukat sipansa aski.
+- **Ch'uqinaka.** Ch'uqi, p'iq'i, t'ant'a, ch'uñu ukat arsut uñtasiñax, arsuñ juk'ampi jaysi ukhamaxaw. Uñjañ [sensory lurañanaka](/activities/sensory/).
 
-Kunanakas wali jan sumäspa: reloj utjatanakax, machaq yatiñanakax, walja sarañanaka, jan ukax preguntanakax amtañ munaraki. Akanakax Alzheimer ch'ama chiqpach uñacht'ayañawa.
+Kuna jan askiwa: relojunaka, machaq yatiñanakax, walja sarañanakax, jan ukax uñtasiñ taqpachan arsuñanakax, kunjamasa "Ukax kawkiri ukhaxa, uñtasmati?" ukham. Ukanakax Alzheimer ukan jan askinak wali uñtayaraki.
 
-## Alzheimer qalltanwa jakasirinakatakix luräwinaka
+## Qalltanxa Alzheimer ukan lurañanaka
 
-Qalltanwa thaqhanx, [Alzheimer Association](https://www.alz.org/alzheimers-dementia/stages) yatiyi, jaqix chiqpachansa jan ukax luraña, luqtaña ukat jaqinakamp sarañ ch'amanïspa, ukampisa arunak jan amtañanaka ukat uñjasiñanaka uñjapxi. Suma thakhix, munat luräwinaka kunawsa jupanakax ch'amanïñ munapxi ukanakar jisk'a uñjañawa.
+Qalltanxa, [Alzheimer Association](https://www.alz.org/alzheimers-dementia/stages) ukax sasaw, jaqix mayampi jan ukax sapa phuqhasiñ, lurasiña, sociedad lurañanakan utjaspawa, ukampis sut uñtasiñ ch'uqinak uñjasi, ukham sasaw sutinaka jan uñtasiñ ukat kawkïrinakas utji ukanakax. Sum tuqita jiwasan jaqi lakampi parlañaxa, kuna lurañ munaski, kuna yanapt'añ munaski uñjañawa.
 
-1. **Nayra luräwinaka ch'amanïyaña.** Golf, bridge, quilting, coro ukat iglesia taqinakax, juk'a jaqinakampi ukat jisk'a tiempo sarañampi.
-2. **Naypa ukat mesa anatañanaka.** [Alzheimer Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yatiyi, qalltanwa thaqhanx trivia, arunak thaqaña, naypa anatañanaka ukat mesa anatañanakax askiwa. Jupanakax tuqinakan puntuacionanaka uñjañ jan munapxi ukhaxa, mä equipo ukhama anatañ jan ukax puntuación jan utjañapatakix.
-3. **Chikaw luqtañ.** Jupax yatiñ receta ukhama luqtañ, ukat jumax lurañ ukanakar yanapt'añ.
-4. **Jiwasa yatiñ proyecto qalltañ.** Uñt'añanaka, receta ukat yatiyawinakax scrapbook ukar jupanakan amuyt'añapataki. Uñjañ [recuerdo luräwinaka](/activities/reminiscence/).
-5. **Sarañanaka.** Munat restaurante, qhiparu jan walja jaqinakani pacha, museo jisk'a sarañ, jan ukax parque ukan sarañ.
-6. **Munat rompecabezas ajllisiñ.** Juk'a jan uñjañanaka, arunak thaqaña ukat rompecabezas. Uñjañ [demencia rompecabezas](/activities/puzzles/).
+1. **Maya pachan lurañanaka tukuyañ.** Golf, bridge, quilting, coro ukat iglesia lurañanaka, jisk'a grupu ukat jisk'a sarañanakampi.
+2. **Maya pachan ch'uqi ukat mesa juegunaka.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ukax qalltanxa trivia, palabra ch'uqinaka, ch'uqi juegunaka ukat mesa juegunaka amtasiwa. Jaqi uñtasiñ ch'uqiyasa, equipo ukhamaw juega, jan ukax punt'anïkaspa.
+3. **Chika lurañ.** Jaqix yatiqat receta ukan lurañ munaski; jumaxa instrucciones arsuñ.
+4. **Uñtasiñ uñacht'äwinakampi lurañ.** Uñacht'äwinaka, receta ukat arsutanakampi, jaqix jiwasan ukan qillqañapan. Uñjañ [reminiscence lurañanaka](/activities/reminiscence/).
+5. **Sarañanaka.** Jaqix kusisiñ restaurante ukar sarañ, museo ukar jisk'a pacha, ukhamarak qullu sarañ.
+6. **Jaqix ajllita rompecabezas.** Jach'a letra crucigrama, palabra ch'uqi ukat rompecabezas. Uñjañ [demencia rompecabezas](/activities/puzzles/).
 
-Yanapt'äwi luräwinaka: [qalltanwa thaqhan luräwinaka](/activities/early-stage/).
+Walja lurañanaka: [qalltanxa lurañanaka](/activities/early-stage/).
 
-## Alzheimer chiqa thaqhan luräwinaka
+## Chiqa etapan Alzheimer ukan lurañanaka
 
-Alzheimer Association yatiyi, chiqa thaqhanx walja maranakax sarapxi, ukat jupanakax jaqinakampi ukat juk'a sarañanakampi luraña ch'amanïpxi. Ukampisa arunak mayt'asipxi, ch'iqtasipxi, jaqinakan yanapt'añ wali munapxi. Alzheimer Foundation of America yatiyi, walja jaqinakax luräwi qalltañatak jan ukax sarañatak yanapt'añ munapxi. Jumax yanapt'iri sarañ, uñacht'ayañ ukat wali jan askinak tuqi luraña.
+Alzheimer Association ukax sasaw, chiqa etapa ukax sapa jukhu walja maranak sarañ puedi. Arsuñax mayacht'asi, llakisiñ ukat yanapt'añ wakisi. Alzheimer's Foundation of America ukax sasaw, walja jaqinakax lurañ qalltañat ukat tukuyañat yanapt'añ wakisi. Jumax uñjañ, sarañ ukat qhipa lurañanaka phuqhañ uñjañan.
 
-1. **Qatuqañ, uñtasiñ ukat jaqinakampi luraña.** Toallanaka, p'iqinaka, cuchara ukat botones sapa yänakan. Chiqpach luräwinaka, jiwasa kuti.
-2. **Taqimpi sarañ ukat sarañ.** Ch'iqinakampi, sarañanakampi jan ukax cocina ukan anatañanakampi. Jumax taqiñ qalltañ, ukatwa jupanakax yanapt'apxi.
-3. **Uñt'añ yatiñ aljanakan.** Uñjañanakax sarañawa, arunakampi uñjañ: "Kunjamasa auto. Ukat yatiyam." Jupanakax kuna sutinakas ch'iqhipxi, uñjañ.
-4. **Jisk'a anatañanaka.** [Pares de imágenes](/games/picture-pairs/) pusi jan ukax suxta tiles ukat uñacht'äwinaka uñjasa, jan ukax [Encuentra lo mismo](/games/find-the-same/) kimsa jan ukax paya ajllisiñanakampi.
-5. **Naypa arunak tukuyaña.** "Mä manzana uruw...". Nayra yatiñanakax askiwa. Uñjañ [Completa la frase](/games/finish-the-saying/), kawkir tukuñax mä jaqipiñ uñacht'atäxiwa.
-6. **Qurunak ch'uqtaña.** Jisk'a ch'uqi, jan ukax jaqinakan qurunak ukat chiqpach t'ant'a ukat jisk'a jach'a lurañ.
-7. **Familia uñt'anakampi anatañ lurañ.** [Pares de fotos](/games/photo-pairs/) ukax jumax ajllisiñ uñt'anakampi luraspa, janiw jumax dispositivo ukat jan irpaspa.
+1. **Tejidu, sort'añ ukat jaqisa.** Ch'uqinaka, medias, cuchara, botones color ukat sapa.
+2. **Arsuña ukat sarañ musikan.** Palmotear, jawsañ ukat kocina ukan sarañ. Jumax arsuñ qalltam, jaqix mayacht'añ.
+3. **Uñacht'äwi álbumanaka uñjaña.** Kunsa uñjasmati uñtayañ ukat parlañ: "Ukax auto. Kunsa uñtasmati?" Sutinakax kunjamasa sutinakax ukhamaraki.
+4. **Sapa ch'uqi juegunaka.** [Pares de imágenes](/games/picture-pairs/) mä tapanaka ukat uñacht'äwinaka uñjañ, jan ukax [Find the same](/games/find-the-same/).
+5. **Yatiqat arsunaka tukuyaña.** "Sapa uru manzana ukax..." Maya pachan arsunakax sapa t'aqhi ukax. Uñjañ [Finish the saying](/games/finish-the-saying/).
+6. **Qurinak ukat quri ukanak uñjaña.** Uta quri ukat jisk'a yaku ukan.
+7. **Uñtasiñ juego ukat jaqinakan uñacht'äwinaka.** [Photo pairs](/games/photo-pairs/) ukax jumax ajllita uñacht'äwinak ukanakampi, uñacht'äwinakax jumax deviceax janiw jaysiti.
 
-Yanapt'äwi luräwinaka: [chiqa thaqhan luräwinaka](/activities/middle-stage/).
+Walja lurañanaka: [chiqa etapan lurañanaka](/activities/middle-stage/).
 
-## Alzheimer manqha thaqhan luräwinaka
+## Qhipa etapan Alzheimer ukan lurañanaka
 
-Manqha thaqhanx, Alzheimer Association yatiyi, jaqix sapa kunsa sarnaqañanakar jan ch'amanïpxi, parlañ jan ch'amanïpxi, ukampisa arunak jisk'a jisk'a sañ ch'amanïpxi. Jichhürunakanx luräwix samarañ ukat sumax jaqi uñjañawa, ukat jaqix kawkirutix samarasa uñjañ.
+Qhipa etapan, Alzheimer Association ukax sasaw, jaqix kunapachatix sarnaqañ ukat parlañ ukanakan jan yati, ukampis arsuñ ukat sutinaka arsuñ puedi. Lurañax ukhamarak amuyt'añ, sum sarnaqañ ukat jaqi lakampi utjañaw.
 
-1. **Taqi wali munat taqunaka** ch'uxña, television jan utjaspa.
-2. **Jaqin ch'iqipa sawunaka** ch'uxña ukat wali munat ch'uxña aruskipañ.
-3. **Jaqichaña, ch'uxña ukat aski uñnaqañanakax:** mantas, ch'uxña, jisk'a qala.
-4. **Arunak jiwasa suma yatiñ** salmos, poemas jan ukax amuyt'ata yatiyawi. Ritmo ukax sapa yatiñat wali askiwa.
-5. **Mä qhana jan wali** jan ukax lunas uñjañ, aves uñjañ.
-6. **Mä jach'a uñt'a jiwasa uñjañ.** Girasol jan ukax tablet pantalla, uñjañ kuna uñjasa.
+1. **Musika ukat amuyt'aña.** Jisk'a ukham musika arsuña, TV jan ukhaxa.
+2. **Ch'uqi maqt'añ.** Jaqix munat lipi ukampi, ch'uqi maqt'añ.
+3. **Walja tuqi ch'uqinaka churañ.** Jisk'a kumbla, lana, jan ukax t'ant'a ch'uqi.
+4. **Arsuña.** Salmos, poemas, jan ukax yatiqat arsunakax. Ritmo ukax sut tuqita sipansa juk'ampi wakiskiwa.
+5. **Qullu sarañ.** Sum aruma, jan ukax uñtasiñ manq'añ.
+6. **Mä jach'a uñacht'äwi uñjaña.** Jumax kunsa uñjasmati arsuñ.
 
-Yanapt'äwi luräwinaka: [manqha thaqhan luräwinaka](/activities/late-stage/).
+Walja lurañanaka: [qhipa etapan lurañanaka](/activities/late-stage/).
 
-## ¿Kuna anatañanakas Alzheimer jakasirinakatakix askiwa?
+## ¿Kuna juegunakas Alzheimer ukan jakiri jaqitakix askiwa?
 
-Jan kuna jan tukuñ anatañanaka ajllisiñawa. Aka sitioix sapa anatañanakax wakt'awa, nawaraw uñjañ, janiw reloj, puntuación ni registro.
+Ajllima janiw ch'iqa juegunakax, janiw jan ch'uqi. Aka qillqatan taqi juegunakax janiw qillqañ, janiw relojanïkaspa, janiw punt'anïkaspa.
 
-| Anatañ | Kunsa lurasa | Kunsa askiwa |
+| Juego | Kuna lurañ | Kunawsa askiwa |
 | --- | --- | --- |
-| [Pares de imágenes](/games/picture-pairs/) | Jach'a uñt'anak uñtasiñ; uñjasa qhaqhañ | Qalltanwa ukat chiqa thaqhan |
-| [Encuentra lo mismo](/games/find-the-same/) | Alt'at uñt'a uñt'a ukar uñjañ | Chiqa ukat manqha thaqhan, yanapt'añampi |
-| [Completa la frase](/games/finish-the-saying/) | Nayra arun tukuyañ jan ukax uñacht'ayaña | Qalltanwa ukat chiqa thaqhan |
-| [Rompecabezas de imágenes](/games/picture-puzzle/) | 4 jan ukax 9 pedazo uñt'añ, uñt'a uñjasa | Qalltanwa ukat chiqa thaqhan |
-| [Tarjetas de conversación](/games/conversation-cards/) | Uñt'a ukat parlañ jawsaña | Sapa thaqhan, parlañ jaqimpi |
-| [Pares de fotos](/games/photo-pairs/) | Jumax uñt'anakampi anatañ | Qalltanwa ukat chiqa thaqhan |
-| [Colorear](/games/coloring/) | Ch'uxña ajllisiña, uñt'a parte; jan ukax imprimir | Sapa thaqhan, yanapt'añampi |
+| [Picture pairs](/games/picture-pairs/) | Jach'a uñacht'äwinaka mayt'añ | Qalltanxa ukat chiqa etapa |
+| [Find the same](/games/find-the-same/) | Uñacht'äwi uñjaña | Chiqa ukat qhipa etapa, yanapt'añ |
+| [Finish the saying](/games/finish-the-saying/) | Arsuña tukuyañ | Qalltanxa ukat chiqa etapa |
+| [Picture puzzle](/games/picture-puzzle/) | 4 jan ukax 9 p'iqinak mayt'añ | Qalltanxa ukat chiqa etapa |
+| [Conversation cards](/games/conversation-cards/) | Uñacht'äwi ukat parlañ | Taqi etapa, parlañataki jaqi lakampi |
+| [Photo pairs](/games/photo-pairs/) | Jumax uñacht'äwinakamp juego | Qalltanxa ukat chiqa etapa |
+| [Coloring](/games/coloring/) | Color ukat uñacht'äwi ch'uqiña; jan ukax imprimir | Taqi etapa, yanapt'añ |
 
-Kunjamasa chikaw qamasiña, kunjamasa yanapt'añ ukat kawkirutis sayt'añ ukanakar, [demencia jaqinakampi anatañ](/caregiving/how-to-play-together/) qillqat uñjañ. Jan ukax "memoria anatañanaka" tuqi amuyasa, uñjañ [memoria anatañanaka](/activities/memory-games/).
+Kunsa lurañ, kuna yanapt'añ ukat kunapachatix sayt'añ sarañataki, uñjañ [demencia jaqinakampi juegunaka lurañ](/caregiving/how-to-play-together/). "Memory games" ukat uñjañ, [demencia jaqinakan uñtasiñ juegunaka](/activities/memory-games/).
 
-## Kunjamas sapa luräwi askiwa
+## Kunjamasa taqi lurañ sayt'añ
 
-NIA yatiyi: luräwix jaqin ch'amap uñjasa, yanapt'añ qalltañ, jaqix jan kusisispa uñjañ, ukat jaqix suma uñjasa, ukat jaqix uñjañ munasa, jupax uñjañ.
+NIA ukax yatiyaraki: jaqi ukan kuna lurañ puedi uñjañ, qalltañ yanapt'añ, jan askinak uñjañ, sum sarañ uñjañ, jan ukax uñjañ kusisiñ ukat sipansa.
 
-- **Jaqin ch'iqipan sapa suma pachan ajllisiñ,** jisk'a tiempo lurañ.
-- **Sapa kuna nayraqatax uñtañ,** ukatwa qalltañ.
-- **Mayt'añ, janiw sarañ.** "¿Mä yanapt'äwi lurasmati?" jan ukax "Luräwi pacha."
-- **Nayraqat laq'aru jumaw lurañ** ukat jaqiru uñjañ.
-- **Mä laq'a, mä ajllisiña.**
-- **Jupanakan thakhipan lurañ.** Jan chiqpach toallanaka askiwa.
-- **Kusisiñ tuqi jaytañ.** Nayraqatax tukuñax jan jach'a pantjañ, kunatix suma jupanakax jan ch'amañchañapataki. Jan sañax, uñjañ [jaqix jan sañ sasa](/caregiving/when-they-say-no/).
+- **Uru pacha askinak ajlliña,** ukat sarañanakax jisk'a.
+- **Taqi kuna mesa ukar churañ** ukhamat qalltañ sayt'ayañ.
+- **Mayt'añ, janiw amtañ.** "¿Yanapt'aspati?" ukax sum ukat sipansa "Lurañ pacha ukax akawa" ukham.
+- **Nayrax lurañ** ukat jaqi lakampi mayacht'añ.
+- **Mä ch'uqi ukat mä ajllita sapa kuti.**
+- **Jaqi ukan sarañ.** Ch'iqa t'ant'a ukax sum utjiwa.
+- **Kusisiñ ukat sayt'añ.** Jan ukat t'aqhisiñ ukat jak'achañ ukax jan jan askiwa. Jan munaspa ukhaxa, [demencia jaqix jan sasa ukat](/caregiving/when-they-say-no/) uñjañ.
 
-[Alzheimer Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suma arunakampi yatiyi: kusisiñ uñjañ, jan lurañ amtañ.
+[Alzheimer Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ukax akham sasaw: kusisiñ uñjañ, janiw lurañ tukuyañ.

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "בילדער-פּאָרלעך",
+    "seoTitle": "שפּיל פֿון צונויפֿפּאָרן פֿאַר מענטשן מיט דעמענציע: בילדער-פּאָרלעך",
+    "h1": "בילדער-פּאָרלעך: אַ מילדע שפּיל פֿון צונויפֿפּאָרן",
+    "description": "אַ פֿרײַע, מילדע שפּיל פֿון צונויפֿפּאָרן פֿאַר מענטשן וואָס לעבן מיט דעמענציע. גרויסע בילדער בלײַבן אָפֿן פֿאַר די אויגן, ס'איז ניטאָ קיין זייגער אָדער רעזולטאַט, און איר קלײַבט אויס 4 ביז 12 קעסטלעך.",
+    "short": "געפֿינט די צוויי בילדער וואָס זענען די זעלבע. די בילדער קענען בלײַבן אָפֿן.",
+    "players": "1 אָדער 2 מענטשן, איינער לעבן צווייטן",
+    "intro": "קלאַפּט אָן אויף אַ בילד, און דערנאָך אויפֿן בילד וואָס פּאַסט דערצו. בילדער בלײַבן פֿאָרויס אָפֿן, אַזוי דאַרף מען גאָרנישט געדענקען אויף אויסנווייניק. ווען צוויי בילדער פּאַסן צונויף, באַקומען זיי אַ גאָלדענעם ראַם און אַ העקעלע.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "קלײַבט אויס וויפֿל קעסטלעך צו נוצן. פֿיר קעסטלעך איז אַ רויִקער אָנהייב.",
+      "קלאַפּט אָן אויף סײַ וועלכן בילד. עס באַקומט אַ גאָלדענעם ראַם.",
+      "קלאַפּט אָן אויפֿן בילד וואָס זעט אויס די זעלבע. דאָס פּאָרל בלײַבט צוזאַמען מיט אַ העקעלע.",
+      "אויב די צוויי בילדער זענען אַנדערש, פּאַסירט גאָרנישט קיין שלעכטס. קלאַפּט ווידער אָן ווען איר זענט גרייט.",
+      "צינדט אָן \"באַהאַלטענע בילדער\" בלויז אויב ביידע פֿון אײַך האָבן הנאה פֿונעם קלאַסישן אופֿן מיט פֿאַרקערטע בילדער."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "גיט צוזאַמען אַ נאָמען די בילדער אויפֿן קול און שמועסט וועגן זיי: \"אַ רויט טעפּל. גיט איר אַרײַן מילך אין דער טיי?\"",
+      "לאָזט דעם מענטש פֿאַר וועמען איר זאָרגט אַליין אָנקלאַפּן, אַפֿילו אויב עס נעמט אַ ווײַלע. בעסער ווײַזט מיט דער פֿינגער איידער צו קלאַפּן פֿאַר זיי.",
+      "בלײַבט מיט פֿיר קעסטלעך אַזוי לאַנג ווי עס פֿילט זיך גוט. מער קעסטלעך איז אַ ברירה, קיינמאָל נישט קיין שטאַפּל וואָס מע מוז דערגרייכן.",
+      "ענדיקט בשעת עס איז נאָך אַ פֿאַרגעניגן. איין שפּיל איז אַ גאַנצע באַשעפֿטיקונג פֿאַר זיך."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "איז פֿאַראַן אַ זייגער אָדער רעזולטאַט?",
+        "a": "ניין. עס איז ניטאָ קיין זייגער, רעזולטאַט, ציילער פֿון טריט, אָדער פֿאַרלירן. איר קענט זיך אָפּשטעלן אין יעדער רגע, און זיך אָפּשטעלן אויפֿן האַלבן וועג איז אַ גאַנץ גוטער אופֿן צו ענדיקן."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "פֿאַרוואָס בלײַבן די בילדער אָפֿן?",
+        "a": "האַלטן די בילדער אָפֿן מאַכט די שפּיל וועגן קוקן און צונויפֿפּאַסן אלא ווי געדענקען. פֿאַר אַ סך מענטשן איז דאָס רויִקער. איר קענט איבערגיין צו באַהאַלטענע בילדער מיט איין קלאַפּ אויב איר ווילט."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז דאָס בחינם, און דאַרף מען זיך אײַנשרײַבן?",
+        "a": "יאָ, עס איז בחינם, און עס איז ניטאָ קיין קאָנטע, רעגיסטראַציע אָדער אַראָפּלאָדן. עס אַרבעט אינעם וועב-בראַוזער אויף אַ טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "קענען מיר נוצן אונדזערע אייגענע משפּחה-פֿאָטאָגראַפֿיעס?",
+        "a": "יאָ. פּרוּווט פֿאָטאָ-פּאָרלעך, וואָס לאָזט אײַך אויסקלײַבן פֿאָטאָגראַפֿיעס פֿון אײַער מכשיר. די פֿאָטאָגראַפֿיעס בלײַבן אין אײַער בראַוזער און ווערן נישט אַרויפֿגעלאָדן."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "געפֿינט דאָס זעלבע",
+    "seoTitle": "געפֿינט דאָס זעלבע בילד: אַ פּשוטע שפּיל פֿאַר דעמענציע",
+    "h1": "געפֿינט דאָס זעלבע בילד",
+    "description": "איין בילד אויבנאָן, צוויי ביז פֿיר פֿון אונטן. קלאַפּט אָן אויפֿן בילד וואָס איז דאָס זעלבע. אַ רויִקע, פֿרײַע בילדער-שפּיל פֿאַר מענטשן וואָס לעבן מיט דעמענציע, אָן קיין זייגער.",
+    "short": "קוקט אויפֿן בילד אויבנאָן און קלאַפּט אָן אויפֿן זעלבן פֿון אונטן.",
+    "players": "1 אָדער 2 מענטשן",
+    "intro": "אַן איינציק בילד שטייט אויפֿן שפּיץ פֿונעם עקראַן. אונטער דעם זענען צוויי, דרײַ אָדער פֿיר בילדער. קלאַפּט אָן אויפֿן בילד וואָס איז דאָס זעלבע. עס איז איין פּשוטע ברירה יעדן מאָל, מיט פֿיל פּלאַץ פֿאַר שמועסן.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "קלײַבט אויס צוויי, דרײַ אָדער פֿיר בילדער צו קלײַבן פֿון זיי. צוויי איז דאָס פּשוטסטע.",
+      "קוקט צוזאַמען אויפֿן בילד אויבנאָן.",
+      "קלאַפּט אָן אויפֿן זעלבן בילד פֿון אונטן. עס ווערט באַצייכנט מיט אַ העקעלע און אַ פּאָר וואַרעמע ווערטער.",
+      "אויב מע קלאַפּט אָן אויף אַן אַנדער בילד, גיט די שפּיל פּשוט אַ נאָמען דאָס בילד און וואַרט. נעמט אײַך צײַט.",
+      "קלאַפּט אָן \"קומענדיק בילד\" ווען איר זענט גרייט פֿאַר נאָך איינס."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "שמועסט וועגן יעדן בילד פֿאַרן אויסקלײַבן: פֿאַרבן, פֿאָרמען, וווּ מע וואָלט עס געקענט זען.",
+      "צוויי ברירות זענען נישט \"צו גרינג\". דער ציל איז אַן אָנגענעמער מאָמענט, נישט קיין פּראָבע.",
+      "אויב אָנקלאַפּן איז שווער, קען דער מענטש אָנווײַזן און איר קענט אָנקלאַפּן פֿאַר אים."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "איז פֿאַראַן אַ זייגער אָדער רעזולטאַט?",
+        "a": "ניין. עס איז ניטאָ קיין זייגער, רעזולטאַט, ציילער פֿון טריט, אָדער פֿאַרלירן. איר קענט זיך אָפּשטעלן אין יעדער רגע, און זיך אָפּשטעלן אויפֿן האַלבן וועג איז אַ גאַנץ גוטער אופֿן צו ענדיקן."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "וואָס פּאַסירט אויב מע קלאַפּט אָן אויפֿן נישט-ריכטיקן בילד?",
+        "a": "גאָרנישט אומאַנגענעמס. עס איז ניטאָ קיין ברומער, קיין רויטער קרייץ אָדער ציטערן. די שפּיל רופֿט דאָס אָנגעקלאַפּטע בילד בײַם נאָמען און וואַרט אויפֿן קומענדיקן קלאַפּ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז דאָס בחינם, און דאַרף מען זיך אײַנשרײַבן?",
+        "a": "יאָ, עס איז בחינם, און עס איז ניטאָ קיין קאָנטע, רעגיסטראַציע אָדער אַראָפּלאָדן. עס אַרבעט אינעם וועב-בראַוזער אויף אַ טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "שאָטן-צונויפֿפּאַסן",
+    "seoTitle": "שאָטן-שפּיל פֿאַר דעמענציע: פֿרײַ אָנלײַן",
+    "h1": "שאָטן-צונויפֿפּאַסן: אַ מילדע בילדער-שפּיל",
+    "description": "אַ טונקעלער שאָטן אויבנאָן, צוויי ביז פֿיר בילדער פֿון אונטן. קלאַפּט אָן אויפֿן בילד וואָס שאַפֿט דעם שאָטן. אַ פֿרײַע, רויִקע שאָטן-שפּיל פֿאַר דעמענציע, אָן קיין זייגער.",
+    "short": "קוקט אויפֿן שאָטן און קלאַפּט אָן אויפֿן בילד וואָס שאַפֿט אים.",
+    "players": "1 אָדער 2 מענטשן",
+    "intro": "שאָטן-צונויפֿפּאַסן איז אַ באַקאַנטע באַשעפֿטיקונג פֿון געדרוקטע בלעטלעך, דאָ מיט גרויסע בילדער און אָן דאַרפֿן עפּעס דרוקן. אַ מילדער שאָטן שטייט אויפֿן שפּיץ פֿונעם עקראַן און צוויי, דרײַ אָדער פֿיר בילדער וואַרטן פֿון אונטן. קלאַפּט אָן אויפֿן בילד וואָס שאַפֿט דעם שאָטן. פֿאָרמען ווי אַ ראָווער, אַ רעגנשירעם אָדער אַ טעפּל טיי זענען אויך גרינג צו באַשמועסן.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "קלײַבט אויס צוויי, דרײַ אָדער פֿיר בילדער צו קלײַבן פֿון זיי. צוויי איז דאָס פּשוטסטע.",
+      "קוקט צוזאַמען אויפֿן שאָטן. וואָס פֿאַר אַ פֿאָרעם איז עס? איז עס הויך אָדער קײַלעכדיק?",
+      "קלאַפּט אָן אויפֿן בילד וואָס שאַפֿט דעם שאָטן. זײַן נאָמען באַווײַזט זיך אונטערן שאָטן.",
+      "אויב מע קלאַפּט אָן אויף אַן אַנדער בילד, גיט די שפּיל פּשוט אַ נאָמען דאָס בילד און וואַרט. נעמט אײַך צײַט.",
+      "קלאַפּט אָן \"קומענדיקער שאָטן\" ווען איר זענט גרייט פֿאַר נאָך איינס."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "פֿאָרט נאָך די קאָנטורן פֿונעם שאָטן מיט אַ פֿינגער און שמועסט וועגן דער פֿאָרעם.",
+      "אויב שאָטנס פֿילן זיך שווער הײַנט, גייט איבער צו \"געפֿינט דאָס זעלבע\", וווּ די בילדער זענען ענלעך איינס צום צווייטן.",
+      "שמועסט וועגן דעם בילד נאָך דעם ווי מע געפֿינט עס: \"מיר האָבן געהאַט אַזאַ רעגנשירעם.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "איז פֿאַראַן אַ זייגער אָדער רעזולטאַט?",
+        "a": "ניין. עס איז ניטאָ קיין זייגער, רעזולטאַט, ציילער פֿון טריט, אָדער פֿאַרלירן. איר קענט זיך אָפּשטעלן אין יעדער רגע, און זיך אָפּשטעלן אויפֿן האַלבן וועג איז אַ גאַנץ גוטער אופֿן צו ענדיקן."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "איז צופּאַסן שאָטנס גוט פֿאַר מענטשן מיט דעמענץ?",
+        "a": "עס קען זײַן אַן אָנגענעמע, פּשוטע באַשעפֿטיקונג פֿאַר טייל מענטשן, באַזונדערס אין די פֿריִערדיקע שטאַפּלען. פֿאָרעמס איז גרינגער צו דערקענען ווי ווערטער. דאָס איז פֿאַר פֿאַרגעניגן און שמועסן, נישט קיין בחינה, און עס היילט נישט און מאַכט נישט פּאַמעלעכער דעמענץ. אויב עס ברענגט פֿאַרדראָס, פּרוּווט „געפֿינען דאָס זעלבע“ אָדער קוקט פּשוט צוזאַמען אויף בילדער."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "וואָס פּאַסירט אויב מע קלאַפּט אויפֿן פֿאַלשן בילד?",
+        "a": "גאָרנישט קיין שלעכטס. עס איז נישטאָ קיין קלינגער, קיין רויטער קרייץ און קיין ציטערניש. די שפּיל זאָגט דעם נאָמען פֿונעם בילד וואָס מע האָט אָנגערירט און וואַרט אויפֿן נעקסטן דרוק."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז דאָס בחינם, און דאַרף מען זיך פֿאַרשרײַבן?",
+        "a": "יאָ, דאָס איז אין גאַנצן בחינם, און מע דאַרף נישט קיין קאָנטע, קיין פֿאַרשרײַבונג און קיין אַראָפּלאָדן. עס אַרבעט גלײַך אין דעם וועב-בראַוזער אויפֿן טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "סאָרטירן צוזאַמען",
+    "seoTitle": "סאָרטיר-שפּיל פֿאַר דעמענץ: סאָרטירן צוזאַמען",
+    "h1": "סאָרטירן צוזאַמען: אַ בילדער-סאָרטיר שפּיל",
+    "description": "קלאַפּט אויף אַ בילד, און דערנאָך אויפֿן קאָרב וווּ עס געהערט: קיך אָדער גאָרטן, פֿרוכט אָדער חיות. אַ רויִקע, בחינםדיקע סאָרטיר-באַשעפֿטיקונג פֿאַר מענטשן וואָס לעבן מיט דעמענץ.",
+    "short": "לייגט אַרײַן יעדן בילד אין זײַן קאָרב: קיך אָדער גאָרטן, און נאָך.",
+    "players": "1 אָדער 2 מענטשן",
+    "intro": "סאָרטירן איז אַ באַקאַנטע, באַרויִקנדיקע טעגלעכע אַרבעט, ווי אַוועקלייגן איינקויפֿן אָדער צונויפֿפּאָרן זאָקן. קלאַפּט אויף אַ בילד, און דערנאָך אויפֿן קאָרב וווּ עס באַלאַנגט. עס איז נישטאָ קיין יאָגעניש און מע קען נישט מאַכן קיין טעות.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "קלײַבט אויס אַ טעמע: קיך און גאָרטן, פֿרוכט און חיות, אָדער היים און רײַזע.",
+      "קלאַפּט אויף אַ בילד. עס באַקומט אַ גאָלדענעם ראָם.",
+      "קלאַפּט אויפֿן קאָרב וווּ עס געהערט. דאָס בילד ריקט זיך אַרײַן אין יענעם קאָרב.",
+      "אויב עס געהערט אין דעם אַנדערן קאָרב, זאָגט די שפּיל דאָס אויף אַ מילדן אופֿן און וואַרט.",
+      "ווען אַלע בילדער זענען צעסאָרטירט, קוקט איבער די קערב צוזאַמען."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "אין לעבן זענען אָפֿט מאָל נישטאָ קיין פֿאַלשע ענטפֿערס. אויב עמעצער זאָגט אַז אַ גיסקאַן געהערט אין דער קיך, פֿרעגט פֿאַרוואָס. מע קען דערהערן אַ שיין מעשׂהלע.",
+      "ניצט די בילדער אָנצוהייבן אַ שמועס: „וואָס פֿלעגט איר פֿלאַנצן אין גאָרטן?“",
+      "סאָרטירן עכטע זאַכן, ווי לעפֿל און גאָפּלען אָדער קנעפּלעך לויט קאָליר, איז אַ געראָטענע פֿאָרזעצונג אַוועק פֿונעם עקראַן."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "איז דאָ אַ זייגערל אָדער פּונקטן?",
+        "a": "ניין. עס איז נישטאָ קיין זייגער, קיין רעכענען פּונקטן, קיין טריט-ציילער און קיין פֿאַרלירן. מע קען זיך אָפּשטעלן אין יעדער רגע, און פֿאַרענדיקן אויפֿן האַלבן וועג איז גאַנץ גוט."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "פֿאַרוואָס סאָרטירן?",
+        "a": "אַ סך מענטשן האָבן הנאה פֿון סאָרטירן ווײַל עס שפּירט זיך ווי אַ ניצלעכע, באַקאַנטע אַרבעט. עס גיט אויך אַ גוטע געלעגנהייט גרינג צו שמועסן וועגן די בילדער בשעת מעשׂה."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז דאָס בחינם, און דאַרף מען זיך פֿאַרשרײַבן?",
+        "a": "יאָ, דאָס איז אין גאַנצן בחינם, און מע דאַרף נישט קיין קאָנטע, קיין פֿאַרשרײַבונג און קיין אַראָפּלאָדן. עס אַרבעט גלײַך אין דעם וועב-בראַוזער אויפֿן טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "בילדער-פּאַזל",
+    "seoTitle": "גרינגער פּאַזל פֿאַר דעמענץ: 4 אָדער 9 טיילן",
+    "h1": "בילדער-פּאַזל: אַ גרינגער פּאַזל",
+    "description": "אַ גרינגער אָנליין-פּאַזל פֿאַר מענטשן וואָס לעבן מיט דעמענץ: 4 אָדער 9 גרויסע שטיקלעך, דאָס גאַנצע בילד בלײַבט צו זען, און מע קלאַפּט אויף צוויי שטיקלעך זיי איבערצובײַטן.",
+    "short": "קלאַפּט אויף צוויי שטיקלעך זיי איבערצובײַטן ביז דאָס בילד איז גאַנץ.",
+    "players": "1 אָדער 2 מענטשן",
+    "intro": "אַ היימיש בילד ווערט צעטיילט אויף פֿיר אָדער נײַן גרויסע שטיקלעך און פֿאַרמישט. דאָס גאַנצע בילד בלײַבט פֿאַר די אויגן ווי אַ מוסטער. קלאַפּט אויף איין שטיקל און דערנאָך אויף אַ צווייטן, און זיי בײַטן זיך מיט די ערטער. מע דאַרף גאָרנישט שלעפּן.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "קלײַבט אויס אַ בילד און 4 אָדער 9 שטיקלעך. פֿיר איז אַ מילדער אָנהייב.",
+      "קוקט אויפֿן גאַנצן בילד פֿון אויבן.",
+      "קלאַפּט אויף אַ שטיקל, און דערנאָך אויפֿן אָרט וווּ עס דאַרף זײַן. די צוויי שטיקלעך בײַטן זיך.",
+      "שטיקלעך אויפֿן ריכטיקן אָרט באַקומען אַ קליינעם צייכן.",
+      "ווען דאָס בילד איז גאַנץ, האָט הנאה דערפֿון צוזאַמען, און קלײַבט אויס אַן אַנדערס."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "קלאַפּן אויף צוויי שטיקלעך זיי איבערצובײַטן איז פֿאַר פֿיל מענטשן פֿיל גרינגער ווי שלעפּן.",
+      "שמועסט וועגן דעם בילד בעת עס שטעלט זיך צונויף: „אָט איז דער רויטער דאַך.“",
+      "אַן עכטער הילצערנער פּאַזל מיט 12 ביז 24 גרויסע שטיקלעך איז אויך אַ שיינע באַשעפֿטיקונג אַרום טיש."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "איז דאָ אַ זייגערל אָדער פּונקטן?",
+        "a": "ניין. עס איז נישטאָ קיין זייגער, קיין רעכענען פּונקטן, קיין טריט-ציילער און קיין פֿאַרלירן. מע קען זיך אָפּשטעלן אין יעדער רגע, און פֿאַרענדיקן אויפֿן האַלבן וועג איז גאַנץ גוט."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "דאַרף מען שלעפּן די שטיקלעך?",
+        "a": "ניין. קלאַפּט אויף איין שטיקל, דערנאָך אויף אַ צווייטן, און זיי בײַטן זיך מיט די ערטער. דאָס איז גרינגער פֿאַר אַ ציטערדיקער האַנט אָדער אויף אַ קליינעם עקראַן."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז דאָס בחינם, און דאַרף מען זיך פֿאַרשרײַבן?",
+        "a": "יאָ, דאָס איז אין גאַנצן בחינם, און מע דאַרף נישט קיין קאָנטע, קיין פֿאַרשרײַבונג און קיין אַראָפּלאָדן. עס אַרבעט גלײַך אין דעם וועב-בראַוזער אויפֿן טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "פֿאַרענדיקן דאָס שפּריכוואָרט",
+    "seoTitle": "פֿאַרענדיקן דאָס שפּריכוואָרט: שפּריכווערטער-שפּיל פֿאַר עלטערע מענטשן",
+    "h1": "פֿאַרענדיקן דאָס שפּריכוואָרט",
+    "description": "באַקאַנטע אַמעריקאַנער שפּריכווערטער וווּ עס פֿעלט דאָס לעצטע וואָרט, למשל „A penny saved is a penny ___“. קלאַפּט אויף אַן ענטפֿער אָדער אויף „ווײַזן דעם סוף“, און דערנאָך שמועסט וועגן דעם.",
+    "short": "פֿאַרענדיקט צוזאַמען באַקאַנטע שפּריכווערטער, און שמועסט דערנאָך וועגן זיי.",
+    "players": "1, 2 אָדער אַ גרופּע",
+    "intro": "אַלטע שפּריכווערטער בלײַבן אָפֿט גוט באַקאַנט דאָס גאַנצע לעבן. יעדע קאַרטע ווײַזט אַ באַקאַנט שפּריכוואָרט וואָס דאָס לעצטע וואָרט פֿעלט, דרײַ ברירות, און אַ קנעפּל „ווײַזן דעם סוף“. נאָכן אויפֿדעקן דעם סוף, פֿאַרבעט אַ מילדע פֿראַגע צו שמועסן.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "לייענט דאָס שפּריכוואָרט צוזאַמען אויפֿן קול.",
+      "קלאַפּט אויפֿן וואָרט וואָס פֿאַרענדיקט עס, אָדער קלאַפּט אויף „ווײַזן דעם סוף“.",
+      "לייענט ווידער דאָס גאַנצע שפּריכוואָרט און שמועסט דערפֿון מיט דער פֿראַגע.",
+      "קלאַפּט אויף „נעקסט שפּריכוואָרט“ ווען איר זענט גרייט."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "לייענט פּאַמעלעך און מאַכט אַ קליינע פּויזע פֿאַרן לעצטן וואָרט. אָפֿט מאָל זאָגט מען עס אַרויס נאָך איידער איר ענדיקט.",
+      "אויב עמעצער גיט אַן אַנדער ענדיקונג, האָט הנאה דערפֿון. טייל שפּריכווערטער האָבן אַנדערע נוסחאות לויט דער משפּחה אָדער דעם געגנט.",
+      "אין אַ גרופּע לייענט איין מענטש און יעדער הייבט אונטער ביים סוף."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "איז דאָ אַ זייגערל אָדער פּונקטן?",
+        "a": "ניין. עס איז נישטאָ קיין זייגער, קיין חשבון פֿון פּונקטן, קיין ציילער פֿון טריט, און מע קען נישט פֿאַרלירן. איר קענט זיך אָפּשטעלן אין יעדער רגע, און זיך אָפּשטעלן אויפֿן האַלבן וועג איז אַ גאַנץ פֿײַנער אופֿן צו ענדיקן."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "וואָס טוט זיך אויב מיר קלײַבן אויס אַן אַנדער וואָרט?",
+        "a": "די שפּיל ווײַזט דעם געוויינטלעכן סוף און גייט איבער צום שמועס. עס איז נישטאָ קיין חשבון פֿון פּונקטן, און אַן אַנדער ענטפֿער איז גאַנץ פֿײַן."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז דאָס בחינם, און דאַרף מען זיך רעגיסטרירן?",
+        "a": "יאָ, עס איז בחינם, און מע דאַרף נישט קיין קאָנטע, קיין רעגיסטראַציע און גאָרנישט אַראָפּלאָדן. עס אַרבעט אינעם וועב-בלעטערער אויף אַ טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "ווערטער-זוך מיט גרויסע אותיות",
+    "seoTitle": "ווערטער-זוך מיט גרויסע אותיות פֿאַר מענטשן מיט דעמענציע, צום דרוקן",
+    "h1": "ווערטער-זוך מיט גרויסע אותיות",
+    "description": "אַ בחינםדיקער ווערטער-זוך מיט גרויסע אותיות פֿאַר עלטערע לײַט און מענטשן וואָס לעבן מיט דעמענציע. ווייניק ווערטער, גרויסע אותיות, נאָר פֿון דער ברייט און פֿון אויבן אַראָפּ. שפּילט אויפֿן קאָמפּיוטער אָדער דרוקט עס אויס.",
+    "short": "גרויסע אותיות, אַ פּאָר ווערטער, נאָר פֿון דער ברייט און פֿון אויבן אַראָפּ. מע קען אויך דרוקן.",
+    "players": "1 אָדער 2 מענטשן",
+    "intro": "אַ קליינע טאַבעלע מיט גרויסע אותיות און בלויז אַ פּאָר ווערטער, וואָס לייענען זיך נאָר פֿון דער ברייט אָדער פֿון אויבן אַראָפּ. דריקט אויפֿן ערשטן אות פֿונעם וואָרט, דערנאָך אויפֿן לעצטן אות. ווילט איר בעסער אויף פּאַפּיר? דרוקט אויס אַ פֿרישן רעטעניש מיט איין קלאַפּ.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "קלײַבט אויס אַ טעמע און די גרייס פֿון דער טאַבעלע.",
+      "קוקט אויף דער ווערטער-רשימה. די ווערטער לייענען זיך פֿון דער ברייט (פֿון לינקס אויף רעכטס) אָדער פֿון אויבן אַראָפּ.",
+      "דריקט אויפֿן ערשטן אות פֿונעם וואָרט, און דערנאָך אויפֿן לעצטן אות.",
+      "אַ געפֿונען וואָרט ווערט פֿאַרפֿאַרבט און אויסגעמעקט פֿון דער רשימה.",
+      "דריקט אויף „דרוקט דעם רעטעניש“ צו שפּילן אויף פּאַפּיר מיט אַ בלײַער אָדער מאַרקירער."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "ווײַזט אָן אויף אַ וואָרט אין דער רשימה און זוכט צוזאַמען זײַן ערשטן אות.",
+      "אויף פּאַפּיר איז אַ מאַרקירער גרינגער צו האַלטן ווי אַ בלײַער.",
+      "שמועסט וועגן די ווערטער פֿון דער טעמע. ווערטער פֿון פֿרוכט זענען אַ נאַטירלעכער וועג צו דערמאָנען זיך אין קלײַבן פֿרוכט, באַקן אָדער גיין אין מאַרק."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "איז דאָ אַ זייגער אָדער אַ חשבון פֿון פּונקטן?",
+        "a": "ניין. עס איז נישטאָ קיין זייגער, קיין חשבון פֿון פּונקטן, קיין ציילער פֿון טריט, און מע קען נישט פֿאַרלירן. איר קענט זיך אָפּשטעלן אין יעדער רגע, און זיך אָפּשטעלן אויפֿן האַלבן וועג איז אַ גאַנץ פֿײַנער אופֿן צו ענדיקן."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "קען מען אויסדרוקן דעם ווערטער-זוך?",
+        "a": "יאָ. דריקט אויף „דרוקט דעם רעטעניש“ כדי אויסצודרוקן די איצטיקע טאַבעלע מיט גרויסע אותיות, מיט דער ווערטער-רשימה פֿון אונטן. יעדער נײַער רעטעניש איז אַנדערש."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז דאָס בחינם, און דאַרף מען זיך רעגיסטרירן?",
+        "a": "יאָ, עס איז בחינם, און מע דאַרף נישט קיין קאָנטע, קיין רעגיסטראַציע און גאָרנישט אַראָפּלאָדן. עס אַרבעט אינעם וועב-בלעטערער אויף אַ טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "בלעטער צום אויספֿאַרבן",
+    "seoTitle": "בלעטער צום אויספֿאַרבן פֿאַר דערוואַקסענע מיט דעמענציע (בחינם)",
+    "h1": "בלעטער צום אויספֿאַרבן",
+    "description": "פֿשוטע בלעטער צום אויספֿאַרבן פֿאַר דערוואַקסענע, מיט גרויסע פֿעלדער: דריקט אויף אַ קאָליר, און דאַן דריקט אויפֿן בילד. אָן קיין בלאָטע, אָן קיין פֿאַלשע קאָלירן, און יעדן בלאַט קען מען אויסדרוקן בחינם.",
+    "short": "דריקט אויף אַ קאָליר, דערנאָך אויף אַ טייל פֿונעם בילד. מע קען די בלעטער אויך אויסדרוקן.",
+    "players": "1 אָדער 2 מענטשן",
+    "intro": "בלעטער מיט גרויסע, פּשוטע פֿאָרמען: אַ בלום אין אַ טאָפּ, אַ הויז, אַ גלעזל טיי, אַ זומערפֿויגל און אַ שיפֿל. דריקט אויף אַ קאָליר, און דערנאָך דריקט אויף אַ טייל פֿונעם בילד עס אָנצופֿילן. עס זענען נישטאָ קיין פֿאַלשע קאָלירן.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "קלײַבט אויס אַ בלאַט.",
+      "דריקט אויף אַ קאָליר. אויף יעדן קאָליר שטייט זײַן נאָמען.",
+      "דריקט אויף אַ טייל פֿונעם בילד עס אָנצופֿילן מיט יענעם קאָליר.",
+      "איר קענט זיך באַטראַכטן אין יעדער רגע און עס אָנפֿילן פֿון ס’נײַס.",
+      "דריקט אויף „דרוקט דעם בלאַט“ פֿאַר אַ ליידיקן בלאַט צום אויספֿאַרבן מיט בלײַערס אָדער מאַרקירערס."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "גיט צו קלײַבן פֿון צוויי קאָלירן אַנשטאָט פֿונעם גאַנצן אויסוואַל, אויב עס פֿילט זיך צו פֿיל.",
+      "פּורפּורנע ביימער און בלויע זונען זענען זייער באַגריסט. דער עיקר איז הנאה צו האָבן פֿון די קאָלירן, נישט צו זײַן גענוי.",
+      "אויסגעדרוקטע בלעטער אַרבעטן גוט מיט דיקע מאַרקירערס אָדער וואַקס-קרײַדלעך, וואָס מע קען גרינגער האַלטן."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "איז דאָ אַ זייגער אָדער אַ חשבון פֿון פּונקטן?",
+        "a": "ניין. עס איז נישטאָ קיין זייגער, קיין חשבון פֿון פּונקטן, קיין ציילער פֿון טריט, און מע קען נישט פֿאַרלירן. איר קענט זיך אָפּשטעלן אין יעדער רגע, און זיך אָפּשטעלן אויפֿן האַלבן וועג איז אַ גאַנץ פֿײַנער אופֿן צו ענדיקן."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "זענען די דאָזיקע בלעטער צו קינדיש?",
+        "a": "מיר האָבן געמאָלט רויִקע, פּשוטע חפֿצים אַנשטאָט קאַרטונס, כּדי די בלעטער זאָלן פּאַסן פֿאַר דערוואַקסענע. גרויסע פֿאָרמען מאַכן דאָס אויספֿאַרבן גרינג, אָן עס צו מאַכן קינדעריש."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז דאָס בחינם, און דאַרף מען זיך רעגיסטרירן?",
+        "a": "יאָ, עס איז בחינם, און מע דאַרף נישט קיין קאָנטע, קיין רעגיסטראַציע און גאָרנישט אַראָפּלאָדן. עס אַרבעט אינעם וועב-בלעטערער אויף אַ טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "שמועס-קאַרטלעך",
+    "seoTitle": "טעמעס פֿאַר שמועסן פֿאַר מענטשן מיט דעמענציע: בילדער-קאַרטלעך",
+    "h1": "שמועס-קאַרטלעך",
+    "description": "בילדער-קאַרטלעך מיט מילדע אָנהייבן פֿאַר שמועסן פֿאַר מענטשן וואָס לעבן מיט דעמענציע: אָן קיין פֿאַרהערן, אָן קיין ריכטיקע ענטפֿערס. ניצט אויפֿן עקראַן אָדער דרוקט אויס דעם פֿולן קאָמפּלעקט.",
+    "short": "בילדער-קאַרטלעך מיט אָפֿענע, מילדע פֿראַגעס. אָן קיין פֿאַרהערן.",
+    "players": "2 מענטשן אָדער אַ גרופּע",
+    "intro": "יעדער קאַרטל שטעלט צונויף אַ באַקאַנט בילד מיט אַן אָפֿענער פֿאַרבעטונג צו שמועסן, למשל: „וואָס פֿאַר אַ וועטער האָט איר דאָס מערסטע ליב?“ עס זענען נישטאָ קיין ריכטיקע ענטפֿערס און גאָרנישט וואָס מע מוז געדענקען. קלײַבט אויס אַ טעמע אָדער מישט זיי אַלע אויס.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "קלײַבט אויס אַ טעמע, אָדער לאָזט „אַלע קאַרטלעך“.",
+      "לייענט די פֿראַגע הויך אויפֿן קול און קוקט אויפֿן בילד צוזאַמען.",
+      "צוהערן זיך, דערציילט אײַער אייגענעם ענטפֿער, און לאָזט דעם שמועס פֿליסן.",
+      "דריקט אויף „נעקסטער קאַרטל“ ווען איר זענט גרייט, אָדער פֿאַרבלײַבט מיט איין קאַרטל ווי לאַנג איר ווילט.",
+      "דריקט אויף „דרוקט אַלע קאַרטלעך“ אויסצוזניידן אַ פּאַפּירענעם קאָמפּלעקט."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "ענטפֿערט אויך אַליין אויף דער פֿראַגע. אַזוי פֿילט עס זיך ווי אַ שמועס, נישט ווי אַן אויספֿרעג.",
+      "גייט נאָך דער מעשׂה, נישט נאָך די פֿאַקטן. אויב פּרטים טוישן זיך, איז דאָס גאַנץ פֿײַן.",
+      "אויב אַ קאַרטל רירט אָן עפּעס טרויעריק, נעמט אָן דאָס געפֿיל מיט פֿאַרשטענדעניש און גייט שטילערהייט איבער צו אַן אַנדער קאַרטל."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "פֿאַר וואָס זענען נישטאָ קיין פֿראַגעס פֿון „געדענקט איר...?“",
+        "a": "פֿראַגעס וואָס פּרובירן דעם זכּרון קענען זיך פֿילן ווי אַן עקזאַמען און פֿאַראורזאַכן פֿאַרלעגנהייט. אָפֿענע פֿאַרבעטונגען ווי „דערציילט מיר וועגן...“ לאָזן יעדן איינעם זיך באַטייליקן, וואָס ס’זאָל נישט זײַן וואָס מע געדענקט."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "קען מען אויסדרוקן די קאַרטלעך?",
+        "a": "יאָ. „דרוקט אַלע קאַרטלעך“ דרוקט אויס דעם פֿולן קאָמפּלעקט מיט גרויסע אותיות, עטלעכע קאַרטלעך אויף אַ בלאַט, גרייט אויסצוזניידן."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז דאָס בחינם, און דאַרף מען זיך רעגיסטרירן?",
+        "a": "יאָ, עס איז פֿרײַ פֿון אָפּצאָל, און מען דאַרף נישט קיין קאָנטע, זיך אײַנשרײַבן אָדער אַראָפּלאָדן. עס אַרבעט גלײַך אינעם וועב־בראַוזער אויף אַ טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "פֿאָטאָ־פּאָרן",
+    "seoTitle": "מאַכט אַ פּאָרן־שפּיל פֿון אייגענע משפּחה־פֿאָטאָס",
+    "h1": "פֿאָטאָ־פּאָרן: געפֿינט די פּאָרן פֿון אייגענע פֿאָטאָס",
+    "description": "פֿאַרוואַנדלט אייגענע משפּחה־פֿאָטאָס אין אַ רויִקער פּאָרן־שפּיל. קלײַבט אויס 2 ביז 6 פֿאָטאָס אויף אײַער מכשיר; זיי בלײַבן אינעם בראַוזער און ווערן קיינמאָל נישט אַרויפֿגעלאָדן.",
+    "short": "קלײַבט אויס אייגענע פֿאָטאָס און געפֿינט די פּאָרן. גאָרנישט ווערט נישט אַרויפֿגעלאָדן.",
+    "players": "2 מענטשן, איינער לעבן צווייטן",
+    "intro": "קלײַבט אויס צוויי ביז זעקס פֿאָטאָס פֿון אײַער טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער, און זיי ווערן אַ פּאָרן־שפּיל מיט גרויסע, קלאָרע בילדער. די פֿאָטאָס ווײַזן זיך בלויז אויף דעם דאָזיקן בלאַט. זיי ווערן נישט אַרויפֿגעלאָדן, נישט אָפּגעהיט און נישט געטיילט מיט קיינעם, און זיי פֿאַרשווינדן ווען איר פֿאַרמאַכט דעם בלאַט.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "דריקט אויף „קלײַבט אויס פֿאָטאָס“ און קלײַבט אויס צוויי ביז זעקס פֿאָטאָס.",
+      "יעדער פֿאָטאָ באַווײַזט זיך צוויי מאָל. דריקט אויף איין בילד, און דערנאָך אויף זײַן פּאָר.",
+      "שמועסט וועגן יעדן פֿאָטאָ בשעת מען געפֿינט אים.",
+      "ווען איר ענדיקט, פֿאַרמאַכט דעם בלאַט אָדער דריקט אויף „מעק אויס פֿאָטאָס“. גאָרנישט ווערט נישט געהיט."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "קלײַבט אויס קלאָרע פֿאָטאָס פֿון ליבע, באַקאַנטע זאַכן: אַ היימישע חיה, אַ גאָרטן, אַ באַליבט אָרט, אָדער אַ חתונה־טאָג.",
+      "בילדער פֿון ערטער און חפֿצים קענען זײַן גרינגער ווי פּנימער, און זיי פֿאַרמײַדן דעם דרוק צו דערמאָנען נעמען פֿון מענטשן.",
+      "לאָזט אַרויס פֿאָטאָס פֿון נפֿטרים אויב זיי קענען אַרויסרופֿן פּלוצעמדיקן טרויער, סײַ דען איר ווייסט זיכער אַז זיי ברענגען טרייסט."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "ווערן מײַנע פֿאָטאָס ערגעץ אַרויפֿגעלאָדן?",
+        "a": "ניין. דער בלאַט לייענט די אויסגעקליבענע פֿאָטאָס גלײַך אין אײַער בראַוזער און ווײַזט זיי אויפֿן עקראַן. זיי ווערן נישט געשיקט צו אונדז און נישט צו קיין שום אַנדערן, און זיי פֿאַרשווינדן ווען איר פֿאַרמאַכט אָדער דערפֿרישט דעם בלאַט."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "איז דאָ אַ זייגער אָדער אַ פּונקטן־חשבון?",
+        "a": "ניין. עס איז נישטאָ קיין זייגער, קיין פּונקטן, קיין טריט־ציילער און קיין פֿאַרלירן. מען קען זיך אָפּשטעלן אין יעדער רגע, און זיך אָפּשטעלן אינדערמיט איז גלײַך אַזוי גוט ווי ביזן סוף."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "קען איך אָפּהיטן די שפּיל אויף דאָס נעקסטע מאָל?",
+        "a": "אינעם בראַוזער נישט, בכּיוון אַזוי, כּדי קיין פּריוואַטע זאַכן זאָלן נישט אָפּגעהיט ווערן. די פֿרײַע אַפּליקאַציע Golden Moments פֿאַר iPhone און iPad קען יאָ היטן קאָפּיעס פֿון אויסגעקליבענע פֿאָטאָס אויף אײַער מכשיר."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "בילדער־בינגאָ",
+    "seoTitle": "בילדער־בינגאָ פֿאַר עלטערע מענטשן וואָס לעבן מיט דעמענץ: צום אויסדרוקן",
+    "h1": "בילדער־בינגאָ פֿאַר גרופּעס",
+    "description": "פֿרײַ בילדער־בינגאָ צום אויסדרוקן פֿאַר גרופּעס פֿון עלטערע מענטשן און שטיצ־היימען, מיט אַ גרויסן אויסרופֿער אויפֿן עקראַן. גרויסע בילדער מיט ווערטער, 9 אָדער 16 קעסטלעך, אָן קיין נויט צו קענען לייענען.",
+    "short": "בינגאָ־קאַרטלעך מיט בילדער צום אויסדרוקן און אַן אויסרופֿער אויף אַ גרויסן עקראַן פֿאַר גרופּעס.",
+    "players": "אַ גרופּע פֿון 2 ביז 30 מענטשן",
+    "intro": "קלאַסיש בינגאָ מיט בילדער אַנשטאָט נומערן, כּדי קיינער זאָל נישט דאַרפֿן לייענען קליינע אותיות. דרוקט אויס אַ סכום פֿאַרשיידענע קאַרטלעך, און ניצט דעם אויסרופֿער אויפֿן עקראַן צו ווײַזן יעדן בילד גרויס אויף אַ טעלעוויזיע, לעפּטאָפּ אָדער טאַבלעט.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "קלײַבט אויס 9 אָדער 16 קעסטלעך פֿאַר יעדן קאַרטל און וויפֿל מענטשן שפּילן.",
+      "דריקט אויף „דרוקט אויס קאַרטלעך“. יעדער קאַרטל איז אַנדערש.",
+      "עפֿנט דעם אויסרופֿער אויף אַ גרויסן עקראַן. דריקט אויף „נעקסט בילד“ צו ווײַזן יעדן בילד צוזאַמען מיט זײַן נאָמען.",
+      "די שפּילערס דעקן צו דאָס פּאַסיקע בילד אויפֿן קאַרטל מיט אַ מטבע, אַ קנעפּל אָדער אַ מאַרקירער.",
+      "יעדער וואָס פֿאַרפֿולט אַ שורה אָדער דאָס גאַנצע קאַרטל באַקומט אַ ברייטן אַפּלאָדיסמענט. אין דער דאָזיקער ווערסיע פֿאַרלירט קיינער נישט: מען שפּילט ווײַטער ביז יעדער האָט אַ שורה."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "ניצט גרויסע צייכענס, ווי דאַמקע־שטיינדלעך אָדער פֿלעשלעך־דעקעלעך. קליינע קנעפּלעך קענען זײַן שווער אויפֿצוהייבן.",
+      "רופֿט אויס דעם נאָמען פֿונעם בילד און זאָגט עפּעס וועגן דעם: „אַ זעגלשיפֿל. ווער איז שוין אַ מאָל געפֿאָרן אויף אַ שיפֿל?“",
+      "זעצט די וואָס זעען שוואַך נענטער צום עקראַן, און שטעלט צו אַ העלפֿער לעבן שפּילערס וואָס דאַרפֿן שטיץ.",
+      "נײַן קעסטלעך איז מער ווי גענוג פֿאַר די מערסטע גרופּעס. האַלט די שפּיל בײַ אַרום 20 ביז 30 מינוט."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "ווי אַזוי פֿירט מען דורך בילדער־בינגאָ אין אַ זאָרג־היים?",
+        "a": "דרוקט אויס איין קאַרטל פֿאַר יעדן שפּילער, שטעלט דעם אויסרופֿער אויפֿן גרעסטן עקראַן וואָס איר פֿאַרמאָגט, און רופֿט אויס די בילדער געלאַסן, רופֿנדיק יעדן בײַם נאָמען. שפּילט ביז יעדער האָט אַ שורה, כּדי קיינער זאָל נישט בלײַבן אין דער זײַט."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "איז עס פֿרײַ פֿון אָפּצאָל אויסצודרוקן?",
+        "a": "יאָ. דרוקט אויס וויפֿל קאַרטלעך איר דאַרפֿט, ווי אָפֿט איר ווילט, פֿאַר אייגענעם אָדער פֿאַר אַ גרופּע־באַנוץ."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "קענען מענטשן שפּילן אָן לייענען?",
+        "a": "יאָ. יעדער קעסטל איז אַ גרויס בילד, מיטן נאָמען אונטן פֿאַר די וואָס האָבן ליב ווערטער."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "רויִק אָטעמען",
+    "seoTitle": "אַ רויִקע אָטעם־פּויזע פֿאַר עלטערע מענטשן און זייערע באַגלייטערס",
+    "h1": "אַ רויִקע אָטעם־פּויזע",
+    "description": "אַ געלאַסענע, שטילע אָטעם־פּויזע אינאיינעם: אַ מילד קרײַזל ווערט גרעסער און קלענער אין משך פֿון זעקס אָטעמען. איר הייבט עס אָן, און איר קענט עס אָפּשטעלן אין יעדער רגע.",
+    "short": "אַ געלאַסן קרײַזל מיטצואָטעמען. הייבט אָן און שטעלט אָפּ ווען איר ווילט.",
+    "players": "1 אָדער 2 מענטשן",
+    "intro": "טייל מאָל איז די בעסטע באַשעפֿטיקונג אַ שטילע פּויזע. דריקט אויף „אָנהייבן“, אָטעמט אַרײַן ווען דאָס קרײַזל וואַקסט און אַרויס ווען עס ווערט קלענער. קלײַבט אויס אַ פּאַמעלעכערן אָדער פֿלינקערן טעמפּאָ. עס איז נישט קיין מעדיצינישע באַהאַנדלונג, נאָר אַ פֿרידלעכער מאָמענט צו טיילן צוזאַמען.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "זעצט זיך באַקוועם איינער לעבן צווייטן.",
+      "קלײַבט אויס אַ טעמפּאָ: פּאַמעלעך אָדער מילד.",
+      "דריקט אויף „אָנהייבן“. אָטעמט אַרײַן בשעת דאָס קרײַזל וואַקסט, און אַרויס בשעת עס ווערט קלענער.",
+      "עס שטעלט זיך אָפּ פֿון זיך אַליין נאָך זעקס אָטעמען, אָדער דריקט אויף „אָפּשטעלן“ ווען נאָר איר ווילט."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "האַלט זיך בײַ די הענט אָדער לייגט אַ האַנט אויפֿן אָרעם פֿונעם מענטש, אויב עס איז אים אָנגענעם.",
+      "צווינגט קיינמאָל נישט. אויב דער מענטש וויל בעסער בלויז צוקוקן, איז עס גאָר גוט.",
+      "אויב עמעצער האָט שוועריקייטן בײַם אָטעמען, זאָל ער אָטעמען געוויינטלעך און פּשוט צוקוקן צום קרײַזל. ווענדט זיך צו אַ דאָקטער וועגן סיי וואָס פֿאַר אַ זאָרג בנוגע אָטעמען."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "איז דאָס אַ מעדיצינישע אָטעם־איבונג?",
+        "a": "ניין. עס איז אַ פּשוטע, פֿרײַוויליקע פּויזע פֿאַר רויִקייט און געזעלשאַפֿט. עס איז נישט קיין היילונג אָדער באַהאַנדלונג פֿאַר אומרואיקייט אָדער קיין שום אַנדער צושטאַנד. רעדט מיט אַ דאָקטער וועגן סיי וועלכע געזונט־פֿראַגן."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "רירט זיך דאָס קרײַזל אָן דעם וואָס איך הייב עס אָן?",
+        "a": "ניין. גאָרנישט רירט זיך נישט ביז איר דריקט „אָנהייבן‟, און עס שטעלט זיך אָפּ נאָך זעקס אָטעמס אָדער ווען איר דריקט „אָפּשטעלן‟. אויב אייער מכשיר איז אָנגעשטעלט צו פֿאַרמינערן באַוועגונג, בײַטן זיך די ווערטער אָן דעם וואָס דער קרײַז ווערט גרעסער."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "איז עס בחינם, און דאַרף איך זיך אײַנשרײַבן?",
+        "a": "יאָ, עס איז בחינם, און עס איז ניטאָ קיין קאָנטאָ, פֿאַרשרײַבונג אָדער אַראָפּלאָדן. עס אַרבעט אין דעם וועב־בראַוזער אויף אַ טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       }
     ]
   }

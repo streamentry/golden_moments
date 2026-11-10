@@ -1,34 +1,33 @@
 ---
-title: "Actividatz sensoriales pa persones con demencia"
-seoTitle: "Actividatz sensoriales con demencia: ideas y seguranza"
-description: "Actividatz sensoriales pa persones con demencia, dende masache de mans hasta cestas de tela y sons d'a naturaleza, con notas claras de seguranza sobre atragantamiento, alerchías y olors."
+title: "Activitatas sensorials pa personas con demencia"
+seoTitle: "Activitatas sensorials pa la demencia: idiyas y seguranza"
+description: "Activitatas sensorials pa personas con demencia: masache de mans, cistellas de teixidos y sons de la naturaleza, con notas de seguranza sobre afogo, alergias y olors."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Las actividatz sensoriales usan lo tacto, l'olfato, lo gusto, lo sono y la
-  vista: un masache lento de mans, una cesta de tela sopla, herbas frescas pa
-  olorar, sons d'a naturaleza, o mirar los paxaros dende una finestra. Pueden
-  fer-se en cualquier fase y son especialmente útiles más tarde. Comprebe
-  primero los riesgos de atragantamiento, alerchías, problemas en a piel y
-  sensibilidat a los olors, ofrezca una cosa cada vez y pare si la persona
-  pareix incomoda.
+  As activitatas sensorials usan o tacto, l'olfacto, o gusto, o sons y a vista:
+  un masache lento de mans, una cistella de teixidos suaus, herbas fresquitas
+  pa olfatar, sons de la naturaleza, o mirar los pallaros por a finestra. Son
+  adequadas en cada fase y son especialmente valiosas más tarde. Primero, mira
+  os riscos de afogo, las alergias, los problemas de piel y la sensibilidat a
+  los olors. Ofrece una cosa cada vez, y para si la persona parece incomoda.
 keyPoints:
-  - "Las actividatz sensoriales no tienen respuestas correutas, por eso pueden fer-se en cualquier fase, incluso en a cama o en a cadiera."
-  - "Ofrezca un sentiu cada vez, en una sala tranquila, y pregunte o avise antes de tocar."
-  - "Evite los oixetes chicorros y cualsiquier cosa que parezca o guila a comida sin serlo, ya que la gent puede meter cosas en a boca."
-  - "Comprebe alerchías, problemas en a piel y de respiración antes de usar cremas, olors o alimentos."
-  - "No hi ha prueba convincent de que la aromaterapia ayude con los sintomas de la demencia; use olors solo pa disfrutar sinzillament, si ye que ye."
+  - "As activitatas sensorials no necesitan respuestas correutas, por eso pueden funcionar en cada fase, tamién en a cama o en una cadiera."
+  - "Ofrece un sentito cada vez en una sala tranquila, y pregunta o avisa antes de tocar."
+  - "Evita los chiquitos objectos y cualquier cosa que parezca o guela a comida sin serlo, porque la gent puede poner cosas en a boca."
+  - "Mira si hai alergias, problemas de piel o de respiración antes de usar cremas, olors o comidas."
+  - "No hai pruebas convincents de que a aromaterapia ayude a los sintomas de la demencia; usa los olors solo pa gosar, si cuadra."
 faq:
-  - q: "Cuals son buenas actividatz sensoriales pa una persona con demencia?"
-    a: "Ideas sinzillas son un masache lento de mans con crema, tocar tela sopla, olorar herbas frescas o café, escuchar musica favorita o sons d'a naturaleza, mirar paxaros o un acuario, y probar una comida favorita con una textura segura. Ofrezca una cosa cada vez y observe como responde la persona."
-  - q: "Son seguras las actividatz sensoriales pa una persona que se mete cosas en a boca?"
-    a: "Pueden serlo, con cuidado. Use solo oixetes grans que no se puedan tragar, evite cualsiquier cosa chica o que se pueda romper, y guarde las cremas, chabones y productos perfumatos fuera de l'alcance dimpués, porque pueden parecer o oler a comida. Quede con la persona en todo momento."
-  - q: "Ayuda la aromaterapia con a demencia?"
-    a: "Una revisión de Cochrane no trobó prueba convincent de que la aromaterapia ayude a las persones con demencia, aunque los estudios eran chicos y no coincidían. Si a persona disfruta d'un olor suau y conoxito, no pasa nada, pero evite los aceites esenciales fuertes, sobre too si hi ha problemas de respiración o alerchías."
-  - q: "Qué ye un delantal de manipulación o de actividatz?"
-    a: "Ye un trozo de tela, delantal o manta de rodillas con cosas pa tocar cosidas firmement, como botons grans, cremalleras, cintas y parches con textura. Da a las mans inquietas algo pa explorar. Revise-lo a menudo por si hi ha alguna cosa suelta que se pueda arrancar."
+  - q: "Quals son buenas activitatas sensorials pa una persona con demencia?"
+    a: "Idiyas simples son un masache lento de mans con crema, tocar teixidos suaus, olfatar herbas fresquitas o café, escuchar musica favorita o sons de la naturaleza, mirar pallaros o una pecera, y tastar una comida favorita con una textura segura. Ofrece una cosa cada vez y mira como responde la persona."
+  - q: "Son seguras las activitatas sensorials pa alguien que se pon cosas en a boca?"
+    a: "Pueden serlo, con cuidau. Usa solo elementos grans que no se puedan tragar, evita los chiquitos o los que se rompan, y tiene las cremas, sabons y productos perfumaus fuera d'alcance dimpués, porque pueden parecer o guelar a comida. Quédate con la persona tot o tiempo."
+  - q: "Ayuda a aromaterapia con a demencia?"
+    a: "Una revisión de Cochrane no trobó pruebas convincents de que a aromaterapia ayude a personas con demencia, aunque los estudios eran chicos y no daban resultaus iguals. Si la persona gosa de un olor suau y conoixido, no pasa nada, pero evita os aceites esenciales fuertes, sobre todo si hai problemas de respiración o alergias."
+  - q: "Qué es un delantal o manta d'activitats?"
+    a: "Es un tela, delantal o manta pa las piernas con cosas pa tocar cosidas firmement, como botons grans, cremalleras, cintas y remendos con textura. Da a las mans inquietas algo que explorar. Mira-lo sovén por si hai algo suelto que se pueda arrancar."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -53,83 +52,83 @@ related: [activities/late-stage, activities/music, activities/outdoor-and-garden
 health: false
 ---
 
-Las actividatz sensoriales usan los cinco sentius: lo tacto, l'olfato, lo gusto, lo sono y la vista. No necesitan memoria, pasos ni respuestas correutas, asinas que pueden funcionar en cualquier fase. Son más importantes en a fase tardana. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) indica que en a fase tardana lo mundo se viviba sobre todo por los sentius, y que se puede amostrar cuidado con lo tacto, lo sono, la vista, lo gusto y l'olfato. Unas poques comprobazions de seguranza fan que estas actividatz sigan siendo relaxantes pa tot o mundo.
+As activitatas sensorials usan os cinco sentitos: tacto, olfacto, gusto, sons y vista. No necesitan memoria, pasos ni respuestas correutas, asinas que pueden funcionar en cualquier fase. Son más importants más tarde. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) indica que en la fase avanzada lo mundo se vive sobre todo por los sentitos, y que se puede amostrar cuidau con tocar, sons, vista, gusto y olor. Unas poquas comprebacions de seguranza fan que estas activitatas sían relaxantes pa tot o mundo.
 
-## Cuals son las actividatz sensoriales pa a demencia?
+## Qué son las activitatas sensorials pa la demencia?
 
-Las actividatz sensoriales son esperiencias sinzillas construyidas en torno a un sentiu cada vez, como tocar tela, olorar herbas o escuchar a pluya. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) diz que as actividatz en a fase tardana sovén fer-se centrando-se en os sentius, y menciona la musica, los obchetos pa tocar y manipular, y el masache de mans. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) indica que las persones en a fase tardana pueden tener una gran necesidat de sostener alguna cosa contra o pecho pa sentir-se consoladas.
+As activitatas sensorials son esperiencias simples basadas en un sentito cada vez, como tocar un teixido, olfatar herbas o escuchar a pluya. La [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dice que las activitatas en a fase avanzada sovén han de centrar-se en os sentitos, y menciona musica, objectos pa tocar y manipular, y masache de mans. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) indica que la gent en a fase avanzada puede tener una necesidat fuerte de tener algo agarrau cerca pa estar consolada.
 
-## Ideas sensoriales, sentiu por sentiu
+## Idiyas sensorials, sentito por sentito
 
 ### Tacto
 
-- **Masache de mans.** Calienta un poco de crema entre las tuyas y acaricia lentament de la muñeca a las puntas d'os dedos. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) menciona el masache con crema sin olor pa dar consuelo.
-- **Cesta de tela.** Cuadrados grans de velur, pana, borreguilla, raso y lana pa acariciar, doblar y charrar sobre ellos.
-- **Tobaleta calenta.** Una tobaleta calenta y humida pa las mans en un día frío. Prebe primero la temperatura en a tuya muñeca.
-- **Delantal de actividatz o manta de rodillas.** Botons grans, cremalleras, cintas y parches con textura cosidos firmement.
-- **Doblar y alisar.** Una cesta de tobaletas o servilletas limpias pa doblar, apilar y tornar a doblar.
-- **Algo blando pa sostener.** Una manta de borreguilla, un coxín o un animal de peluche realista, ofrecido con sinzillez, nunca como chuguete.
+- **Masache de mans.** Calienta un poco de crema en as tuyas mans y acaricia lentament de la muñeca a las puntas d'os dedos. A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) menciona masachar con crema sin olor pa dar consuelo.
+- **Cistella de teixidos.** Cuadros grans de velour, pana, polar, rasa y lana pa acariciar, doblar y charrar sobre ellos.
+- **Pano caliente.** Un pano calient y umido pa las mans en un día frío. Prueba primero a temperatura en a tuya muñeca.
+- **Delantal o manta d'activitats.** Botons grans, cremalleras, cintas y remendos con textura cosidos firmement.
+- **Doblar y alisar.** Una cistella de panos o servilletas limpias pa doblar, apilar y tornar a doblar.
+- **Algo suau pa tener.** Una manta de polar, un coxín o un animal de peluche realista, ofrecido con naturalidat, nunca como juguete.
 
-### Olor
+### Olfacto
 
-- **Herbas frescas.** Frote entre os dedos fuellas de menta, romero, albahaca o lavanda y pásalas por debán d'o nas.
-- **Olors de cocina.** Café calentando, pan tostando, canela o una naranja pelada cerca.
-- **Flors.** Traiga unas poques flors frescas d'o chardín o d'o supermercau.
-- **Un producto conoxito.** O chabón o la crema que siempre usaba, si la piel lo tolera.
+- **Herbas fresquitas.** Frota entre los dedos fuellas de menta, romero, albahaca o lavanda y pasa-las por delant.
+- **Olors de cocina.** Café que se fa, pan tostando, canela o una naranja pelando-se cerca.
+- **Flors.** Trai unas poquas flors frescas de l'orto o d'a tienda.
+- **Un producto conoixido.** O sabón o a crema que siempre usaba, si a piel lo tolera.
 
 ### Gusto
 
-- **Un sabor favorito.** Una cucharadeta pequeña de algo que le agrade, como puré de manzana, natillas o helau, en una textura que pueda manejar con seguranza.
-- **Ayuda en a cocina.** Probar fruta o un poquet de glasa mientres cuoce con ell.
-- **Dulzuras de temporada.** Sandía en verano, sidra calenta en otoño, servida a una temperatura segura.
+- **Un sabor favorito.** Una cucharadeta chica de algo que le guste, como compota de poma, flan o helau, en una textura que pueda manechar con seguranza.
+- **Ayuda a cocer.** Tastar fruta o un poquet de glasa mientres cocis chuntos.
+- **Golosinas de tiempo.** Sandía en verano, sidra calient en otoño, servida a una temperatura segura.
 
-### Sono
+### Sons
 
-- **Musica favorita.** Cancions conoxidas a un volumen suau; vea [actividatz de musica](/activities/music/).
-- **Sons d'a naturaleza.** Pluya, ondas o cantar de paxaros. La NIA indica que la musica, el ruido blanco y los sons d'a naturaleza parecen relaxar a algunas persones.
-- **La tuya voz.** Leyer en voz alta, tarañar una melodía o contar una historia.
-- **Instrumentos sinzillos.** Un tambor de mano, un sonaxero o una campana pa tocar con a musica.
+- **Musica favorita.** Canciones conoixidas a un volumen suau; mira [activitatas de musica](/activities/music/).
+- **Sons de la naturaleza.** Pluya, ondas o cantar d'os pallaros. A NIA indica que la musica, o ruido blanco y os sons de la naturaleza semblan relaxar a algunas personas.
+- **A tuya voz.** Leyer en alto, tararear, o contar una historia.
+- **Instrumentos simples.** Un tambor de mano, una sonaja o una campana pa tocar siguiendo una musica.
 
 ### Vista
 
-- **Mirar por a finestra.** Un comedero de paxaros fuera d'a finestra, chiquetes que tornan a casa o nieu que cae.
-- **Un acuario o un video lento.** Movimiento suau sin sonido fuerte.
-- **Fotos grans.** Una imachen clara cada vez, sostenida a altura d'ueyo.
-- **Color y dibuixo.** Clasificar retallos de tela de colors vivos, flors o servilletas de colors, o una pachina sinzilla pa colorear de nuestro conchunto de [colorear](/games/coloring/).
-- **Fuera de casa.** La NHS suxiere chardins sensoriales con plantas oloroses, texturas y fuentes de agua. Vea [actividatz de chardinería y aire libre](/activities/outdoor-and-gardening/).
+- **Mirar por a finestra.** Un comedero de pallaros fuera de la finestra, chicos que tornan a casa, o nieu que cai.
+- **Una pecera o un video lento.** Movimiento suau sin sonido fuerte.
+- **Fotos grans.** Una imachen clara cada vez, sostenida a altura d'os güellos.
+- **Color y dibuixo.** Clasificar retalles de teixido de colors vivos, flors o servilletas de colors, o una simple pachina pa colorear d'o nuestro set de [colorear](/games/coloring/).
+- **Fuera.** A NHS suchiere jardins sensorials con plantas olorosas, texturas y fuents. Mira [activitatas d'orto y jardinería](/activities/outdoor-and-gardening/).
 
-## Como fer una caxa sensorial
+## Como fer una caixa sensorial
 
-1. **Triate un tema** relacionau con a vida de la persona: la playa, lo chardín, la cocina, o taller, la costura.
-2. **Escoyiga cinco o sei obchetos grans y seguros,** como una concha grande, una cuchara de fusta, una bufanda blanda, una bosseta de lavanda seca cosida, o un bloque de fusta liso.
-3. **Revise cada obchecto** por si tiene piezas chicas, bordes afilaus, fils sueltos o cosas que se puedan romper.
-4. **Saque un obchecto cada vez.** Entrégueselo, descríbalo y deje que la persona lo explore.
-5. **Guarde la caxa dimpués** pa que siga siendo especial, y revise los obchetos de nuevo antes de la siguient vegada.
+1. **Tría un tema** relacionau con a vida de la persona: a playa, l'orto, a cosina, o taller, a costura.
+2. **Escoge cinco o seis elementos grans y seguros,** como una concha grande, una cuchara de fusta, una bufanda suau, una bolseta de lavanda seca cosida, o un bloque de fusta llis.
+3. **Mira cada elemento** por si tiene piezas chiquitas, bordes agudos, fils sueltos o cosas que se rompan.
+4. **Saca un elemento cada vez.** Dale-lo, describe-lo y deja que la persona lo explore.
+5. **Guarda la caixa dimpués** pa que siga siendo especial, y mira de nuevo os elementos antes de la siguient vez.
 
-## Primero, a seguranza
+## Seguranza primero
 
-Las actividatz sensoriales son suaves, pero hi ha unos riesgos que importan. Algunas persones con demencia pueden confundir cosas que no son comida con comida, y tragar puede fer-se más difícil con o tiempo; la NIA avisa que los problemas de tragar en a fase tardana aumentan o riesgo de atragantamiento.
+As activitatas sensorials son suaus, pero hai unos riscos que importan. Algunas personas con demencia pueden confundir cosas que no son comida con comida, y tragar puede fer-se más difficil con o tiempo; a NIA avisa que los problemas de deglución en a fase avanzada aumentan o risco d'afogo.
 
-| Riesgo | Qué fer |
+| Risco | Qué fer |
 | --- | --- |
-| Atragantamiento | Use solo obchetos prou grans pa no tragar-los. Nada de botons, cuentas, monedas, canicas o chuguetes chicos sueltos en una caxa. Ofrezca comida solo en texturas que o equipo de cuidados diga que son seguras. |
-| Cosas que parecen comida | La NIA aconseixa guardar bien las cremas, chabones, champús y perfumes, que pueden parecer o oler a comida, y retirar as frutas artificials. Guarde los productos sensoriales dimpués de usar-los. |
-| Alerchías | Comprebe alerchías a las nueces, o latex, a lana, a plantas o a fragancias antes de empezar. |
-| Olors fuertes | Evite los perfumes fuertes y los aceites esenciales, sobre too si hi ha asma u otros problemas de respiración. Los olors suaus y naturals son más seguros. |
-| Piel | Comprebe si hi ha piel doliente, rota o fraxil antes d'o masache. Use presión suau y pare si la persona fa ganyo de rechazo. |
-| Temperatura | Prebe las tobaletas calentas y las bebidas en a tuya muñeca primero. |
-| Obchetos afilaus o toxics | Nada de ferramientas afilades, vidrio ni materials de manualidades toxics. |
+| Afogo | Usa solo elementos prou grans pa no tragar-los. Nada de botons, cuentas, monedas, canicas o chuguetes sueltos en una caixa. Ofrece comida solo en texturas que o equipo d'atención diga que son seguras. |
+| Cosas que parecen comida | A NIA aconseya guardar bien con chave as cremas, sabons, champús y perfumes, que pueden parecer o guelar a comida, y quitar as frutas artificials. Guarda os productos sensorials después d'usar-los. |
+| Alergias | Mira si hai alergias a los fruitos secos, o latex, a lana, a plantas o a fragancias antes de empezar. |
+| Olors fuertes | Evita los perfumes fuertes y los aceites esenciales, sobre todo si hai asma u otros problemas de respiración. Los olors suaus y naturals son más seguros. |
+| Piel | Mira si hai piel doliente, rompida o fraca antes de masachar. Usa una presión suau y para si hace ganas d'arrufar-se. |
+| Temperatura | Prueba primero los panos calients y las bebidas en a tuya muñeca. |
+| Elementos agudos o tóxicos | Nada de herramientas agudas, vidrio o material de manualidades tóxico. |
 
 ## Ayuda a aromaterapia?
 
-Probablement no, de cualsiquier manera mesurable. Una [revisión de Cochrane sobre aromaterapia pa a demencia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) estudió 13 estudios con 708 persones, toz en residencias de cuidados, y no trobó prueba convincent de beneficio. Los estudios eran chicos, los resultaus no coincidían y los efectos secundarios estaban mal informaus. Si a persona disfruta d'un olor suau y conoxito, como a lavanda d'o chardín, ye una buena razón pa compartir-lo. No ye un tratamiento.
+Probablement no de forma que se pueda medir. Una [revisión de Cochrane sobre aromaterapia pa la demencia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) estudió 13 estudios con 708 personas, todas en residencias, y no trobó pruebas convincents de beneficio. Los estudios eran chicos, los resultaus no concordaban y los efectos secundarios estaban mal informaus. Si la persona gosa d'un olor suau y conoixido, como a lavanda de l'orto, ye una buena razón pa compartir-lo. No ye un tratamiento.
 
-## Como ofrecer una actividat sensorial
+## Como ofrecer una activitat sensorial
 
-- **Triate un momento tranquilo** y apague la television.
-- **Achiquile-se por delán,** diga-le o nombre y pregunte o avise antes de tocar-la: "Tiengo crema. Quiere que le fagamos un masache en as mans?"
-- **Ofrezca una cosa cada vez** pa no abrumar-la.
-- **Observe la respuesta.** Una cara más relaxada, las mans tranquilas o una sonrisa son buenos sinyals. Si aparta la man, frunce o cuende, pare.
-- **Faga-lo curto.** Cinco minutos tranquilos son una buena sesión.
+- **Tría un momento tranquilo** y apaga a tele.
+- **Acércate por delant,** di o su nombre, y pregunta o avisa antes de tocar: "Tiengo una crema. Quiers que te masache as mans?"
+- **Ofrece una cosa cada vez** pa no abrumar.
+- **Mira la reacción.** Una cara más suau, las mans relaxadas o una sonrisa son buenos sinals. Apartar-se, fruncir o inquietut significan que paras.
+- **Fes-lo curt.** Cinco minutos tranquilos son una buena sesión.
 
-Una pausa de respiración lenta chuntos, como [respiración tranquila](/games/calm-breathing/), puede ser una manera suau de rematar. Pa más ideas pa a cabezera d'a cama, vea [actividatz pa a fase tardana](/activities/late-stage/), y pa a inquietut d'a tardada, vea [inquietut de tarde](/caregiving/late-day-restlessness/).
+Una pausa de respiración chunta, como la de [respiración tranquila](/games/calm-breathing/), pot ser una manera suau de rematar. Pa más idiyas pa la cama, mira [activitatas en a fase avanzada](/activities/late-stage/), y pa la inquietut d'a tardada, mira [inquietut en as tardadas](/caregiving/late-day-restlessness/).

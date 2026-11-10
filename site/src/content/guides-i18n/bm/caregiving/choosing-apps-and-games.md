@@ -1,31 +1,31 @@
 ---
-title: "Dementia apps ni jeux sugandili cogo"
-seoTitle: "Dementia apps ni jeux sugandi: sɛbɛnni ka labɛnw"
-description: "Mɔgɔ min bɛ dementia la, o lakanalaw ka labɛnw: apps ni jeux sugandi. Daminɛ i ka ko la, waati ni sɔrɔnkɛ kɔnɔ ka bɔ, data ka lakika, ani ɲɛfɔ ka ɲɛfɔ ka ɲɛfɔ."
+title: "Dementia Apps and Games: How to Choose Wisely"
+seoTitle: "Choosing Dementia Apps and Games: A Checklist"
+description: "Un jɛkabɔ ka dɛmɛ ni kalan dɔrɔn ka bɛn dementia ka kɛlɛw ni o bɛnnin: aw ka makɔnɔ labɛn fɔlɔ, waatigɛlɛ, sɛbɛn ni ɲɛmɔgɔya ɲɛfɛ, ani aw ka ko dɔ tɛ min ɲɛnɛma ko ka kɛ."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Daminɛ i b'a ɲini ko app in na ka mun kɛ: dusukasi ɲɛnamaya la, kumakan ka ɲɛnamaya kɔnɔ, sɛgɛsɛgɛ, walima mɔgɔw ka ɲɔgɔnye. Tugun, i ka app min sugandi ka kɛ mɔgɔ ka ɲɛnamaya bɛɛ n'a ka ɲɛnamaya bɛɛ ye, ani pictures ka ɲɛ, waati, sɔrɔ walima reklam tɛ, ani a bɛnnen na ka ɲɛ. A ka data min lakika ani i b'a sɔrɔ ka a ɲɛ, o ka laɲini. Ka ɲɛfɔ «dementia bɛ bɔ» walima «a bɛ kɛnɛya» ko la; kalan kelen tɛ tɔɲɔgɔn ye.
+  Aw ka makɔnɔ labɛn fɔlɔ: aw bɛ se ka kɛ ni kalan dɔrɔn ka hakili ka kɛ, ka hakili ka kɛnɛ ka kɛ, ka hɛrɛ ni jigiya ye, walima ka mɔgɔw ka ɲɛmɔgɔya kɛ. O kɔfɛ, aw ka kalanden sugandi kɛ min bɛ mɔgɔ min ka fɛn dɔw bɛ se ka kɛ bi, ni sɛbɛn ɲɛnɛ, waatigɛlɛ tɛ, sukɔrɔ tɛ, ani sɛbɛn sɛbɛn tɛ, ani aw bɛ se ka a tiɲɛ ka bɔ kɛ kosɛbɛ. A bɛ se ka a dɔn ten min bɛ sigi fɔ ni a bɛ se ka a ɲɛnɛ ka bɔ. Ka hakili to ka dementia kɔrɔfɔ wala a kɛ sigi, o ka ɲɛfɛ ye: kalan dɔ tɛ ɲɛfɛ ye.
 keyPoints:
-  - "Daminɛ i ka sugandi ka kɛ: sɛgɛsɛgɛ, kumakan ka ɲɛnamaya, dusukasi walima mɔgɔw ka ɲɔgɔnye, o bɛɛ bɛ app wɛrɛw ka wajibi."
-  - "Mɔgɔ ka ɲɛnamaya bɛ ɲɛnɔgɔn ka bɔ bi ka ɲɛnamaya kɔnɔ, sanga ka ɲɛnamaya kɔnɔ wala lakana sɛbɛn tɛ; kɔntrɔlu ka ɲɛfɔ ka ɲɛfɔ."
-  - "Waati, sɔrɔ, sɛgɛsɛgɛ ni reklam bɛ app min na, o ka bɔ."
-  - "Data lakika, a ka jɛ bɛ mɔgɔw ye, ani i b'a sɔrɔ ka a ɲɛ. HIPAA ka bɛ tɛ consumer apps la ɲɛ."
-  - "Ka ɲɛfɔ «dementia bɛ bɔ» ko la; kalan kelen walima app kɔnɔ sɔrɔnkɛ ɲɛ ye tɔɲɔgɔn ye."
-  - "Golden Moments ye kumakan ye kɛɲɛ la. A ma ɲɛfɔ sɛgɛsɛgɛ ko la."
+  - "Makɔnɔ labɛn fɔlɔ: hakili ka kɛ, kalan ka kɛ, hɛrɛ ni jigiya, walima ɲɛmɔgɔya ka kalan ni dɔw ka ɲɛfɛ ye."
+  - "Mɔgɔ min bɛ se ka kɛ bi ka kɛ, a ka waati ye, ka ɲɛfɛ ye ka gɛlɛya tɛ; kɛlɛ, ka makɔnɔ ye ka ɲɛfɛ ye."
+  - "Kalan min bɛ waatigɛlɛ, sukɔrɔ, jiko, lamɛnɛ, sɛbɛn walima sɛbɛn ka makɔnɔ bɛ, o bɛ bɔ ka kɛ."
+  - "Sɛbɛn ɲɛnɛ, sɛbɛn ka tɔ ni a ka bɔ ka kɛ. HIPAA kɛ fɛn dɔw ye, nka a tɛ mɔgɔ ka kalanden ye."
+  - "Ka hakili to ka \"dementia kɔrɔfɔ\" fɛn ye; kalan dɔ ni kalan ka sukɔrɔ ɲɛ tɛ ɲɛfɛ ye."
+  - "Golden Moments ye kalan ye min bɛ kɛ ka dusu ni kumaw ka ɲɛfɛ ye. A tɛ fɛn ye min bɛ kalan ni fɛn dɔw ye."
 faq:
-  - q: "Hakili jeux bɛ dementia kɛnɛya wa?"
-    a: "Hakili jeux apps bɛ dementia kɛnɛya walima a bɛ bɔ, o ko la dalilɛ ɲɔgɔn tɛ. National Institute on Aging ko ka ɲɛfɔ: hakili sɛgɛsɛgɛ apps min bɛ sɔrɔ, o ka dalilɛ ɲɔgɔn tɛ, ko ka i ko kalan min bɛ kɛ kalan bɔnɛ kɔnɔ, o bɛ ɲɔgɔn kɛ. Apps sugandi ka ɲɛnamaya ani ɲɔgɔnye ka kɛ, dɔgɔya ye tɛ."
-  - q: "Dementia app bɛ HIPAA kɔnɔ wa?"
-    a: "A tɛ kɛ ɲɔgɔn ye. HIPAA bɛ kɛ lakanalaw, sɛbɛnni ka yɛrɛw ni olu ka bɛnkan mɔgɔw ye. App min i yɛrɛ bɛ download, o bɛ kɛ ɲɔgɔn ye ni olu ma o di. FTC ka Health Breach Notification Rule bɛ dɔw sɔrɔ min HIPAA tɛ."
-  - q: "Dementia jeux ɲɛ bɛ kɛ cogo di?"
-    a: "Pictures ani sɛbɛn bɛ ɲɛ ani ɲɛ fɛ; ekrɛn kelen kɔnɔ i ka kɛlɛ kelen bɛ; waati, sɔrɔ, « i ka ɲɛ tɛ » ko tɛ; reklam tɛ; ani i b'a sɔrɔ ka a dɔgɔya walima a bɔ. A ka ɲɛ mɔgɔ kulu ye, ani mɔgɔ wɛrɛ bɛ se ka don a kɔnɔ kɔnɔ."
-  - q: "Golden Moments bɛ ɲɛnamaya dɛmɛ ko la wa?"
-    a: "Ayi. Golden Moments ye kumakan ni ɲɔgɔnye ye, dusukasi ni kumakan kɔnɔ. A tɛ dementia ɲɛfɔ, kɛnɛ, bɔ walima ɲɛ ta. An tɛ ko kɛ hakili walima ɲɛnamaya kɔnɔ kɛlɛ ko la."
-  - q: "Ne ka wari di dementia app ye wa?"
-    a: "Fɔlɔ, a ka bɔ walima tɛmɛsira ka labɛn, ani a ka ɲɛ kɛ kalo fila kɔnɔ mɔgɔ ka ɲɛfɔ ka ɲɛfɔ. Wari di app ye tɛ ko a bɛ kɛ ka ɲɛ. I ka sɔrɔ ni a ka lakana ka ɲɛ, o ka laɲini."
+  - q: "Hakili kalan ka ɲɛfɛ ka dementia kɔrɔfɔ?"
+    a: "Hakili kalan kalan dɔw ka sɛbɛn ka ɲɛnɛ ka dementia kɔrɔfɔ wala a ka bɔ ka dɔgɔ. Sɛbɛn ɲɛnɛ National Institute on Aging ye ko, sɛbɛn ka ɲɛnɛ min bɛ kalan ka ɲɛfɛ, o tɛ sɛbɛn ka ɲɛnɛ min bɛ kalan ka ɲɛfɛ ni hakili kalan ka sɛbɛn min bɛ ka ɲɛnɛ ka ɲɛfɛ ye. Kalan sugandi ka ɲɛfɛ ka dusu ni ɲɛmɔgɔya ye, dawa ye tɛ."
+  - q: "HIPAA bɛ kalan ka sɛbɛn kɔnɔ wa?"
+    a: "Ɔwɔ tɛ. HIPAA bɛ kɛ kɔlɔsili ka ɲɛmɔgɔw, dɔnkilidaw ni olu ka ɲɛmɔgɔw ye. Kalan min aw yɛrɛ bɛ a bila, o tɛ HIPAA kɔnɔ tuma dɔw la. FTC ka Health Breach Notification Rule bɛ kalan dɔw kɔnɔ min HIPAA tɛ."
+  - q: "Dementia kalan ɲɛfɛ bɛ kɛ cogo di?"
+    a: "Ɲɛnɛ fɛ ni sɛbɛn fɛ, ka ɲɛ ni fɛn dɔ kelen ye ɲɛkɔrɔ kɔnɔ, waatigɛlɛ tɛ, sukɔrɔ tɛ, sɛbɛn ka lamɛnɛ tɛ, ɲɛmɔgɔya tɛ, ani a bɛ se ka bɔ walima ka tiɲɛ kosɛbɛ. A ka kɛ mɔgɔ kɔrɔ ye, ani mɔgɔ fɔlɔ bɛ se ka don ka kɛ ka ɲɛfɛ."
+  - q: "Golden Moments bɛ fɔ ko a bɛ hakili dɛmɛ?"
+    a: "Ɔwɔ tɛ. Golden Moments ye kɛlɛ dɔ ye min bɛ kɛ ka dusu ni kumaw ka ɲɛfɛ ye. A tɛ dementia ka kɔrɔfɔ, a ka tɔɔrɔ, a ka dɔgɔ wala a ka suɲɛ ye, ani an tɛ hakili kalan ka fɛn fɔ."
+  - q: "Ka wari di dementia kalan ye wa?"
+    a: "Fɔlɔ ka kɛlɛ bɛɛ ka wari tɛ walima ka kalan ka sɛbɛn fɔlɔ ka ɲɛ. Ka mɔgɔ ka ɲɛmɔgɔya ka lɔ kɛ don fɛ kalan ka kɛ. Wari di kalan ye ka ɲɛfɛ ka ɲɛ tɛ. Ka kalan kɔnɔ fɔ ka a ka wari ka kɛ ka bɔ kɛ kɔfɛ."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -56,120 +56,121 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores la, jeux dɔw bɛ yen minnu bɛ jɛ ko « jeux ka kɛ mɔgɔ kɔrɔw ye », « hakili » walima « dementia ». Dɔw bɛ kɛ ka ɲi. Dɔw bɛ kɛ bɔnɛ kɔnɛ ni waati, walima data lakika ka ɲɛ. Ɲɛfɔ in bɛ kɛ cogo ye i yɛrɛ ka app o app ka ɲɛ. An tɛ app wɛrɛw ka ɲɛfɔ ni sugandi kɛ.
+App sɔrɔli ka bɔ ko "mɔgɔ kɔrɔw ye", "hakili" walima "dementia" ye. Dɔw ka ɲɛ bɛ, dɔw bɛ waatigɛlɛ, sɔrɔ dɔw bɛ sɛbɛn walima sɛbɛn ka kɛlɛ. Nin kunnafoni bɛ kɛ aw ka ɲɛfɛ ye ka app bɛɛ ɲɛfɛ. An tɛ app wɛrɛw ka ɲɛfɔ wala ka ɲɛmɔgɔya kɛ.
 
-## Dementia app sugandi ɲɛ, i ka ko mun ye?
+## Dementia app dɔ sugandi fɔlɔ, nɔ bɛ min ka makɔnɔ?
 
-I ka ko ɲɛfɔ. « Ne ka app bɛ ɲɛfɔ ka dɛmɛ ne ba ma » ko bɛ se ka kɛ ko caman ye, ani ko kelen ka ɲɛ bɛ ɲɔgɔn ka ɲɛ tɛ.
+Aw ka makɔnɔ labɛn fɔlɔ. "Ma ka kalan" bɛ se ka kɛ fɛn caman ye, ani makɔnɔ dɔ ka ɲɛfɛ bɛ se ka gɛlɛya makɔnɔ wɛrɛ ye.
 
-| Ko | A bɛ kɛ cogo di | I b'a ɲini |
+| Makɔnɔ | A bɛ i ye cogo di | Min bɛ ɲɛnɛ |
 | --- | --- | --- |
-| Dusukasi sɛgɛsɛgɛ | Ɲɔgɔn kɛ, ɲɔgɔn ɲɛ, sɛgɛsɛgɛ, kuma jɛɲɔgɔn | Kɛlɛ ka ɲɛ, pictures ka to ɲɛ, waati tɛ |
-| Ɲɛnamaya ka kumakan | Ɲɛ ta, kuma ka ɲɛ, ka kɛ tile ka ɲɛnamaya | I yɛrɛ ka pictures, kuma ka ɲɛ, quiz tɛ |
-| Kumakan | Sogo ka yɛlɛma, kuma ka ɲɛ, ɲɛnamaya, fɛnw | Ka daminɛ ani ka bɔ ka ɲɛ, ɲɛnamaya kɔnɔ ka ɲɛ |
-| Ɲɔgɔnye | Ɲɔgɔn ni ɲɔgɔn kɛ, walima video la | Mɔgɔ fila ka kɛ, kuma ka ɲɛfɔ |
+| Kɛnɛ hakili | Kɛlɛ ni ɲɛ, lɔ wala kumaw ka kalan | Gɛlɛya bɛ se ka yɛrɛ ka ɲɛ, ɲɛfɛ bɛ kɛ, waati gɛlɛya tɛ |
+| Hakili kɛnɛ | Sɛbɛn kɔrɔ wala kumaw min ye, ka sɛbɛn kɛ ni dusukun ka kɛlɛ | Aw ka ɲɛfɛ, ka kumaw kɛ, sɛbɛn tɛ |
+| Hɛrɛ | Kɛlɛ min bɛ jigi, ɲɛfɛ min ka fɔlɔ, kɛnɛ min bɛ kɛ | Ka se ka bɔ ani ka tiɲɛ kosɛbɛ, ka fɛn kɛnɛ tɛ, ka fɛn sɔrɔli tɛ |
+| Ɲɛmɔgɔya | Ka kɛlɛ walima ka kumaw ka kɛ aw ni mɔgɔ dɔ ye, sɔrɔ walima ka kɛ video la | Mɔgɔ fila ka kalan ye, kumaw ka kɛlɛ |
 
-Cochrane ka sɛbɛn ko: sɛgɛsɛgɛ ka kɛ mɔgɔw ni kumakan ye ka ɲɛ dɔgɔ. Olu bɛ kɛ jɛnsɛ ni lakanalaw ka kɛlɛ ye, kuma, sɛgɛsɛgɛ, jeux, sɛgɛsɛgɛ ani kɛlɛ ɲɔgɔn. [Cochrane sɛbɛn](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ko a bɛ ɲɛfɔ dɔgɔ-dɔgɔ ka ɲɛ, ka ɲɛ ka ɲɛ sɛbɛnw ni sɛbɛnw ce. Jɛnsɛ in tɛ app kelen ye. App kelen bɛ kɛ kɛlɛ kelen ye ko caman ce.
+Sɛbɛn kɛlɛ ka "structured cognitive stimulation" dɔ ka fɛn caman bɛ kɛ jama kɔnɔ, ni ɲɛnɛ fɛ ka kalan ni kuma, kɛlɛ, dɔ ni dusu ye. Ka sɛbɛn ka ɲɛnɛ bɛ kɛ ko [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ka ɲɛfɛ dɔgɔ kosɛbɛ, ka ɲɛfɛ min bɛ yɛrɛ ka fɛn fɛ. Nin kalan ni app dɔ tɛ kelen ye, ka app dɔ kɛ kɛlɛ dɔ ye min bɛ kɛ jama kɔnɔ.
 
-## Mɔgɔ ka ɲɛnamaya bɛ app in na wa?
+## Mɔgɔ ka se ka app ni a ka fɛn bɛ se ka kɛ, o ɲɛnɛ cogo di?
 
-Mɔgɔ ka ɲɛnamaya ɲɛfɔ, a ka lakana ka ɲɛfɔ ye. Mɔgɔ fila min bɛ « kelen waati » kɔnɔ, olu ka ɲɛ, ka ɲɛ, ka kɔ, kuma ni ɲɛnamaya ka kɔnɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ka ɲɛfɔ: ka ko minnu ka ɲɛ, ani ɲɛnamaya bɛɛ ka ɲɛ, ka dusukasi ɲɛ, ka kɛ ɲɛ ye.
+Ka mɔgɔ ka kɛ ye ka ɲɛ, ka a tɔ kɔrɔ ka fɔ a ka "stage" ye. Mɔgɔ fila min bɛ "stage kelen" kɔnɔ, u ka ɲɛ, ka kɛlɛ, ka kuma, ni u ka dusu ka ɲɛfɛ ka don kalan ni ɲɛnɛ kɔnɔ ka yɛlɛma. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ye ko, aw ka ɲɛ ka mɔgɔ ka kɛlɛ fɔlɔ ni a ka fɛn ka ɲɛfɛ ka dusu ye, ka kɛ ka ɲɛfɛ, ka tɛ ka ɲɛfɛ ka ɲɛ.
 
-Ɲɛnamaya ka ɲɛfɔ:
+Ɲɛnɛ ka ɲɛfɛ:
 
-- a b'a daminɛ, walima a bɛ ɲɔgɔn don tɛ ka ɲɛ;
-- a bɛ ɲɛ, a bɛ kuma, walima a bɛ kɛlɛ kɛ;
-- a bɛ kɛlɛ kɛ, a ma ɲɛ ko;
-- a b'a bɔ ka ɲɛ, a b'a ɲɛ.
+- a bɛ kɛ ni sɛbɛn tɛ, a bɛ se ka don;
+- a bɛ dusu, a bɛ kuma walima a bɛ ko dɔ fɔ;
+- a tɛ dusu ka ɲɛ ni fili ye;
+- a bɛ se ka bɔ ni waati bɛ se.
 
-Ɲɛnamaya kɔnɔ kɛlɛ ka kɛ:
+Ɲɛnɛ ka gɛlɛya:
 
-- « Ne tɛ se ka » walima « o ye ko nɔgɔn ye » ka kɛ dɔɲɔ;
-- a b'a sɛgɛn ko min bɛ kɛ, a ma ɲɛ;
-- a bɛ ɲɛfɔ, a bɛ ɲɛ, walima a bɛ bɔ;
-- a bɛ kɛ ka ɲɛ, walima a bɛ bɔ kɛ.
+- "Ne tɛ se" walima "nin ye fili ye" bɛ sɔrɔ ka tɛmɛ;
+- a tɛ ɲɛ ka ɲɛ min bɛ kɛ;
+- sɛgɛn, hakɛto walima a bɛ sɛgɛ ka ɲɛnɛ bɛ kɛ min ka fɛn;
+- a bɛ se ka kɛ ni aw bɛ fɛn caman kɛ.
 
-Tɔɲɔgɔn bɛ kɛ dusukasi ye, a tɛ ko min ka kɛ ka sɔrɔ. [What to do when they say no](/caregiving/when-they-say-no/) ka ɲɛfɔ. Apps tɛ ɲɛfɔ ka kɛ, [early-stage](/activities/early-stage/) ani [late-stage](/activities/late-stage/) kumakanw bɛ ɲɔgɔn ye.
+Sɛgɛn ye ɲɛnɛ ye, a tɛ ka ɲɛ ka kɛ. Ka [mɔgɔ ka "ɔwɔ" ka fɔ](/caregiving/when-they-say-no/) ɲɛfɛ. App kɔfɛ ka fɛn sugandili, [early-stage](/activities/early-stage/) ani [late-stage](/activities/late-stage/) kalan dɔw bɛ sɔrɔ.
 
-## Dizayn ka ko mun b'a ɲini walima a bɔ?
+## Ni app bɛ ɲɛfɛ, ni fɛn min bɛ kɛ, o bɛ se ka kɛ cogo di?
 
-Dizayn ka sɛbɛn ka ɲɛ, ka sɛbɛn ka ɲɛ, ka kɛ mɔgɔ kɔrɔw ye, ani ka bɔ ka ɲɛ.
+Ka ɲɛ ka kɛ ka sɛbɛn ka fɛn ni ɲɛ, ka sɛbɛn ni kuma, ani ka sɛbɛn ka sɛbɛn kɔrɔ. Ka fɛn ni ɲɛ, ani ka sɛbɛn ka ɲɛfɛ ka fɛn kɛnɛ, o bɛ ɲɛ.
 
-| B'a ɲini | B'a bɔ |
+| Ka fɛn ɲɛ | Ka fɛn ka ɲɛfɛ |
 | --- | --- |
-| Pictures ni sɛbɛn kɛnɛ, ɲɛ ni ɲɛ | Ikɔn dɔgɔ, ekrɛn kɔnɔ kɔnɔ |
-| Ekrɛn kelen kɔnɔ, kɛlɛ kelen | Bouton caman, menu caman, kɛlɛ caman |
-| Waati tɛ, walima waati i bɛ kɔ | Waati ka bɔnɛ, « i ka waati ɲɛ » |
-| Sɔrɔ tɛ, walima sɔrɔ ka ɲɛ | Sɔrɔ, ɲɛ, streak, « brain age » |
-| Ɲɛnamaya ka kɔnɔ kɛlɛ, a ka ɲɛ | Buzzer, X ka ɲɛ, « Wrong » ka sɛbɛn |
-| Pictures min ye mɔgɔ ka dunuya ye | Pictures min ye bɔnɛ ye, walima mɔgɔ kɔrɔw ka ɲɛ |
-| A bɛ kɛ offline, account tɛ | I ka sɔrɔ, login ka kɛ, walima content download ka kɛ |
-| A bɛ bɔ ka ɲɛ, a bɛ bɔ | Pop-up, « i ka rate di » |
-| Reklam tɛ, sɔrɔ ka ɲɛ | Reklam, loot box, sɔrɔ ka ɲɛ caman |
-| Mɔgɔ fila bɛ se ka don | Mɔgɔ kelen kɔnɔ, sɔrɔ ka ɲɛ |
+| Sɛbɛn kɔrɔ ni ka ɲɛfɛ kɛlɛ | Sɛbɛn ka ɲɛ tɛ, sɛbɛn caman |
+| Ɲɛkɔrɔ kelen ye kɛlɛ dɔ | Ɲɛkɔrɔ caman, menu wala sɛbɛn ka sɛbɛn kɛlɛ |
+| Waatigɛlɛ tɛ, walima waatigɛlɛ ka se ka bɔ | Waatigɛlɛ bɛ ka tiɲɛ, sukɔrɔ, "i ka waati ka tɛmɛ" |
+| Sukɔrɔ tɛ, walima sukɔrɔ dɔgɔ | Sukɔrɔ, sɛbɛn, jigiya, "dusu ka dɔnko" |
+| Sɛbɛn sɛgɛn ka ɲɛ | Sɛbɛn sɛgɛ, kulu X, "Wala" ka fɔ |
+| Mɔgɔ ka pɛrɛnɛ ka yɛrɛ, dɔ tɛ bɔ ka mɔgɔw ka ɲɛ | Mɔgɔ ka kɛlɛ kelen kɔnɔ, kɛlɛ min bɛ ɲɛ |
+| Kɛlɛ ka ɲɛ, mɔgɔ ka tɔ, sɛbɛn ka tɔ | Sɛbɛn ka kɛlɛ, jɛkabɔ ka tɔ, kiri ka tɔ |
+| Kɛlɛ bɛ se ka kɛ, a ka tɔ tɛ | Ka kɛlɛ ka ɲɛ, dɛmɛ tɛ |
+| Ka bɔ ani ka tiɲɛ ka ɲɛ | Pop-up ka sɛbɛn ka kɛlɛ ka tɔ, walima ka "app ɲɛ" |
+| Sɛbɛn tɛ, wari ka ɲɛ | Sɛbɛn, wari ka kɛlɛ caman |
+| Ka mɔgɔ fɔlɔ ka don ka kɛ ka ɲɛfɛ | Mɔgɔ kelen kɔnɔ, mɔgɔ ka kɛ ka ɲɛ |
 
-Reklam ni sɔrɔ ka prompts bɛ kɛ ka sɔrɔ ni ɲɛ kɛ.
+Sɛbɛn ni wari ka kɛlɛ bɛ ka ɲɛfɛ ka dɔgɔ ka kɛ.
 
-## I bɛ app ka lakika ɲɛ cogo di?
+## Ka app ka sɛbɛn cogo di?
 
-Ka ɲɛfɔ app bɛ min lakika, a bɛ min ɲɔgɔn, ani i b'a sɔrɔ ka a bɔ. I ka app sɔrɔ fɔlɔ:
+Ka ɲɛ ka sɛbɛn min bɛ sɔrɔ, ani min bɛ bɔ, ani a bɛ se ka tiɲɛ wala ka. A ka kɛlɛ fɔlɔ:
 
-1. **Store ka lakika ɲɛfɔ.** Google Play ka [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ani App Store ka [privacy information section](https://support.apple.com/en-us/102399) bɛ data ko minnu bɛ lakika, ani minnu bɛ ɲɔgɔn. Olu ka ɲɛfɔ bɛ kɛ developer ka ɲɛfɔ ye, o ko la a ye daminɛ ye, ɲɛnamaya ɲɛfɔ tɛ.
-2. **A ka ɲɛfɔ ko account bɛ ko.** App min bɛ pictures walima jeux dɔgɔ kɛ, a ma ko i tɔgɔ, email walima ka ɲɛ.
-3. **Ka ɲɛfɔ permissions.** Jeux min bɛ pictures ɲɛ, a bɛ location, contacts, microphone walima pictures bɛɛ ka ɲɛ wa? A ma ɲɛ, o bɛɛ bɔ.
-4. **Ka ɲɛfɔ reklam ni analytics.** Reklam ni tracking bɛ data ta ka bɔ ɲɔgɔn ma.
-5. **Ka ɲɛfɔ pictures bɛ taa min na.** I ka pictures ɲɛ, a bɛ stay device kɔnɔ wala server la? I bɛ se ka olu bɔ wa?
-6. **Ka ɲɛfɔ data ka bɔ.** Privacy policy walima data summary kɔnɔ, data ni account bɔ cogo. App min ko data tɛ se ka bɔ, a bɛ kɛ ka ɲɛfɔ dɔɲɔ ye, khan a bɛ pictures walima ɲɛnamaya ɲɛfɔ lakika.
-7. **Privacy policy ka ɲɛfɔ.** Ka ɲɛfɔ min bɛ lakika, o ye mun ye, mun na, ni ɲɔgɔn ye jɔn ye.
+1. **Ka sɛbɛn ka kuma ɲɛ.** Google Play ka [Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ani App Store ka [privacy information](https://support.apple.com/en-us/102399) bɛ fɛn ye min app bɛ sɔrɔ ani bɔ. U fɛ ko kalan kɛlaw yɛrɛ bɛ o kuma, o tɛ kɛlɛ ka ɲɛfɛ ye, kɛlɛ fɔlɔ ye.
+2. **Ka ɲɛ a ka kɛ ni konti.** Ni app bɛ kɛ sɛbɛn ni kalan tɛ, a tɛ ka don ka i tɔgɔ, email walima i ka sɛgɛn dɔn.
+3. **Ka ɲɛ ka sɔrɔ kɛ.** Ni kalan bɛ kɛ ka location, kontakt, microphone walima i ka sɛbɛn bɛɛ dɔn, o ka fɛn ye wa? Fɛn min tɛ ka gɛlɛya, o ka tɔ.
+4. **Ka ɲɛ sɛbɛn ni tracking.** Sɛbɛn kɛlɛ bɛ se ka kɛ ka kalan ka ɲɛfɛ kuma bɔ mɔgɔ wɛrɛw ma.
+5. **Ka ɲɛ foto bɔlen.** Ni aw ka foto don, u bɛ kɔnɔ wa, walima u bɛ server la wa? I bɛ se ka u bɔ wa?
+6. **Ka ɲɛ ka bɔ.** Privacy policy walima data summary kɔnɔ, ka ɲɛ ka data ani konti bɔ cogo di. App min ko data tɛ se ka bɔ, o ka ɲɛfɛ ka ɲɛfɛ, ni a bɛ foto walima dusu kuma ɲɛ.
+7. **Ka privacy policy ɲɛ** ka ɲɛ ka fɔ ko, fɛn min sɔrɔli, ni o ka mun, ni a bɛ ɲɛ ka fɔ, ani mɔgɔ min bɛ a ye.
 
-### HIPAA bɛ dementia app kɔnɔ data ɲɛ wa?
+### HIPAA bɛ kalan ka kuma dɔn wa?
 
-Ayi, a bɛ kɛ ka ɲɛ. U.S. Department of Health and Human Services ka [ɲɛfɔ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ko HIPAA bɛ kɛ lakanalaw, sɛbɛnni ka yɛrɛw ni olu ka bɛnkan mɔgɔw ye. A bɛ data bɔ min i bɛ app kɔnɔ kɛ mɔgɔ yɛrɛ ka ko ye, a ma kɛ HIPAA kɔnɔ, khan olu tɛ app di. App store ka « dementia app » bɛ kɛ HIPAA kɔnɔ tɛ, o bɛ kɛ hɛrɛ ka ɲɛfɔ ni a ka ɲɛfɔ bɛ kɛ.
+Ɔwɔ tɛ, ko min bɛ mɔgɔ caman kɛ ka gɛlɛya. U Department of Health and Human Services ka [kuma](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) bɛ ko HIPAA bɛ kɛ kɔlɔsili, dɔnkilidaw, ani olu ka ɲɛmɔgɔw ye. A tɛ kuma caman kɔnɔ, mɔgɔ ka kalan min a yɛrɛ bɛ sɛbɛn, o tɛ HIPAA kɔnɔ, ni tuma tɛ ka kɛ kɔlɛ ka ɲɛmɔgɔ ka kalan ye. App ka kalan kɛ dementia ye, a bɛ kuma ka dusu ni ka ɲɛ, nka a bɛ se ka tɛ HIPAA kɔnɔ.
 
-### Mun b'a ɲini app data ɲɛ HIPAA tɛ ye?
+### HIPAA tɛ min ka dɛmɛ, o bɛ dusu ka sɛbɛn cogo di?
 
-Federal Trade Commission ka Health Breach Notification Rule bɛ dɔw bɛ a ɲɛ. 2024 la FTC ka [ɲɛfɔ](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ka ɲɛfɔ ko a bɛ kɛ health apps ni olu ka nɔgɔn ye HIPAA tɛ. « Breach » bɛ kɛ data ta ka bɔ, ani ka ɲɛfɔ ko mɔgɔ min bɛ kɛ, o ɲɛ. O ye kɔrɔ ye, dɔ tɛ ko app kelen bɛ data caman ɲɛ.
+Federal Trade Commission ka Health Breach Notification Rule bɛ kalan caman dɛmɛ. 2024 la FTC [ka kɛlɛ kɔrɔfɛ](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ka ko o rule bɛ kɛ app ni fɛn wɛrɛw ye min HIPAA tɛ. "Breach" bɛ kɛ data min bɛ bɔ ni yɛrɛ ka mɔgɔ tɛ, o tɛ kɛ hack kelen ye, ani kompanieaw ka mɔgɔw ni FTC ka lakana. O ye dɛmɛ ye fɛn ka ɲɛ kɔfɛ, o tɛ ka kuma ko app bɛ sɛbɛn ɲɛfɛ kelen ye.
 
-## Ɲɛfɔ ka sɛbɛnw ni ɲɛfɔ ka ɲɛfɔ cogo di?
+## Ka ɲɛ ka sɛbɛn, a ka ɲɛfɛ cogo di?
 
-Ɲɛfɔ sɛbɛnw ka ɲɛfɔ ka ɲɛfɔ, ani ɲɛfɔ min bɛ ɲɛfɔ caman, o ka kɛlɛ. Ɲɛfɔ min i bɛ ɲɛ:
+Ka sɛbɛn kuma ɲɛ ni dusukun ka kɛlɛ, ani ka fɛn ka gɛlɛya ɲɛ fɔlɔ. Ka ɲɛ ka sɛbɛn min kɛ:
 
-- **Mun ye min ka lakika?** Kalan kelen ka ɲɛfɔ bɛ jɛ app bɛɛ ye tɛ.
-- **Mɔgɔ-jɛ min ka lakika?** Mɔgɔ dusukasi ɲɛfɔ, dementia bɛ mɔgɔ min na, o ye ɲɛfɔ ye tɛ.
-- **Mun ye min ka ɲɛfɔ?** Jeux ka ɲɛ ye ɲɔgɔn ye ni ɲɛnamaya, kuma, dusukasi, walima ka bɔ.
-- **Lakika ka ɲɛ cogo di?** Randomized controlled trial (RCT) bɛ mɔgɔ min bɛ app kɔnɔ, o ni mɔgɔ min tɛ, olu ka ɲɛfɔ. O ye ɲɛfɔ ka ɲɛ ye, khan kalan dɔgɔ walima kalan kelen tɛ tɔɲɔgɔn ye. Sɛbɛnw caman, mɔgɔ kɔrɔw ka sɛbɛnw ka ɲɛfɔ, olu ka ɲɛfɔ ka ɲɛ.
-- **A bɛ dementia ɲɛfɔ wa?** Ɲɛfɔ min bɛ ka ɲɛ dɔgɔ kɛ ɲɛ kɔnɔ, o bɛ kɛ dementia kɛnɛya walima bɔ ko la ɲɛfɔ ye tɛ.
+- **Fɛn jumɛn ye min ka ɲɛ kɛ?** Kalan kelen ka sɛbɛn tɛ ko kalan bɛɛ bɛ kɛ kelen ye.
+- **Mɔgɔ jumɛn ye min ka ɲɛ kɛ?** Ɲɛnɛ min kɛ mɔgɔ dusu ye, o tɛ dementia ni mɔgɔ ye.
+- **Fɛn jumɛn ye min ka ɲɛ kɛ?** Ka kalan ka kɛlɛ kɔnɔ ka ɲɛfɛ ye, o tɛ ka kɛlɛ ka kɛlɛ kɔnɔ, kuma, dusu walima mɔgɔ ka ɲɛfɛ ye.
+- **Sɛbɛn ka ɲɛ cogo di?** Randomized controlled trial (RCT) bɛ mɔgɔ dɔ ye min bɛ kalan kɛ, ani mɔgɔ dɔ ye min tɛ. A ka ɲɛ ka kɛ, nka sɛbɛn kelen tɛ fili ye. Sɛbɛn caman ka ɲɛfɛ, mɔgɔ wɛrɛw min ka ɲɛ, o ka ɲɛ ka kɛ.
+- **A bɛ dementia kɔrɔfɔ wa?** Ni sɛbɛn bɛ ɲɛfɛ dɔgɔ ko ka ɲɛ kɛ, o tɛ fili ko app bɛ dementia kɔrɔfɔ, ka a tiɲɛ, walima ka a dɔgɔ.
 
-National Institute on Aging ka [sɛbɛn](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ko NIH ka kalan dɔ, o bɛ kɛ hakili sɛgɛsɛgɛ ka kalan ye. A bɛ ko, jeux min bɛ ɲɛ, olu bɛ hakili ɲɛ ka ɲɛ, o ka ɲɛfɔ ka ɲɛ, ani ɲɛfɔ ka ɲɛ tɛ. Ɲɛfɔ dɔ ka ɲɛfɔ bɛ kɛ [brain games](/brain-health/brain-games/) ani [dementia ka bɔ ka ɲɛfɔ](/brain-health/can-dementia-be-prevented/) kɔnɔ.
+National Institute on Aging ka [kuma](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) min bɛ hakili kalan ka dɔn, o bɛ ko NIH ka sɛbɛn caman ka kalan, ani o bɛ ko aw ka hakili ka ɲɛfɛ ka kɛlɛ, ka kuma ko kalan dɔ bɛ hakili kɛnɛ. A bɛ ko sɛbɛn ka ɲɛnɛ bɛ kɛ ka dusu ni hakili ka kɛlɛ, o tɛ hakili kalan kɔnɔ min bɛ kɛ sɛbɛn kɔnɔ. Aw bɛ se ka kalan ka [brain games](/brain-health/brain-games/) ni [dementia ka kɔrɔfɔ](/brain-health/can-dementia-be-prevented/) ka kuma ɲɛ.
 
-### Misleading claim dɔ ka misali mun ye?
+### Ni fɛn kɔrɔ ye min ye fɛn dɔ ye?
 
-Januari 2016 la, FTC ka [ɲɛfɔ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ko Lumosity, « brain training » program, ka kɛlɛ bɛ kɛ. FTC ko: company ka ɲɛfɔ ko a jeux bɛ hakili ɲɛ dɔgɔya, ani dementia walima Alzheimer ka ɲɛ. O ka ɲɛfɔ ka lakika tɛ. Company ka wari $2 million di, ani a ka kɛ ka lakika ɲɛ kɛ kɔfɛ. Marketing ka kuma tɛ lakika ye.
+Januari 2016 la FTC ka [kɛlɛ kɔrɔfɛ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ka Lumosity, "brain training" program ka kɛlaw ni u ka kɛlɛ. FTC ko kompani ka kuma ko u ka kalan bɛ hakili ka tɔɔrɔ dɔgɔ, dementia ni Alzheimer's ka kɔrɔfɔ, sɛbɛn ka ɲɛfɛ tɛ. Kompani ye wari 2 million dollar di, ani a ka sɛbɛn kɔrɔ ni sɛbɛn ka ɲɛfɛ ka don kɔfɛ. Nin ye kuma ye ko kuma ka sɛbɛn tɛ.
 
-### Kuma min ka ɲɛ, o ye mun ye?
+### Ni kumaw min bɛ ɲɛfɛ?
 
-App walima reklam ka kuma o ka:
+Aw ka ɲɛ ni app walima dɔnkili bɛ fɔ ko:
 
-- dementia walima Alzheimer « bɔ », « kɛnɛ », « ka kɛ », walima « ka tɛ » ko;
-- « clinically proven » ko, kalan tɔgɔ tɛ, mɔgɔ minnu bɛ kɛ, ani mun ka ɲɛ tɛ;
-- « brain age » walima hakili score ko, o bɛ ɲɛfɔ ka ɲɛ;
-- brain ka « sharpen », « boost » walima « train » ko;
-- ɲɛfɔ sɛbɛnw ka ɲɛ ko lakika.
+- "bɛ dementia walima Alzheimer's ka kɔrɔfɔ," "bɛ a dɔgɔ," "bɛ a tiɲɛ," "bɛ a kɛ fɛn tɛ";
+- "clinically proven" ko, nka sɛbɛn tɔɔ tɛ, mɔgɔ min bɛ kɔnɔ, ani fɛn min ka ɲɛ tɛ;
+- "brain age" walima hakili sukɔrɔ min bɛ ko mɔgɔ dusu bɛ;
+- "bɛ hakili kɛnɛ," "bɛ a ka fɛn kɛ," "bɛ hakili kalan";
+- mɔgɔw ka kuma bɛ kɛ sɛbɛn ye.
 
-I bɛ kɛ dusun ma, i ka ɲɛfɔ doctor ye.
+Ni aw ma dɔn, a ka a ka dɔkitɔrɔ ka ɲɛ.
 
-## Golden Moments bɛ se mun na?
+## Golden Moments bɛ min ka fɛn ye?
 
-Golden Moments ye kumakan ni ɲɔgɔnye ye, hakili kɛlɛ, kumakan walima dɔgɔtɔrɔ ɲɛfɔ tɛ. An ka jeux, i ko [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ani [Calm Breathing](/games/calm-breathing/), bɛ kɛ dusukasi ni kuma ye. A tɛ dementia ɲɛfɔ, kɛnɛ, bɔ walima ɲɛ ta, ani an tɛ ko kɛ hakili walima ɲɛnamaya kɔnɔ kɛlɛ ko la.
+Golden Moments ye kɛlɛ dɔ ye min bɛ kɛ jama kɔnɔ, a tɛ hakili sɛbɛn, a tɛ kɛlɛ, walima dɔkitɔrɔ ka kuma. An ka kalan, i ko [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ani [Calm Breathing](/games/calm-breathing/), u bɛ kɛ dusu ni kuma ye. U tɛ dementia ka kɔrɔfɔ, a ka tɔɔrɔ, a ka dɔgɔ wala a ka suɲɛ ye, ani an tɛ hakili kalan ka fɛn fɔ.
 
-An bɛ app wɛrɛ fana kɛ, [Golden Moments for iPhone, iPad and Android](/app/), min ye free ye. A bɛ pictures ni tile caman kɛ, ani family photos i ka sugandi, pictures packs offline bɛ baara kɛ, account tɛ, reklam tɛ, waati tɛ, score tɛ. Ɲɛfɔ min bɛ sugandi kɛ, o ka kɛ: App Store ka privacy label bɛ ko « Data Not Collected », ani [app privacy policy](/app-privacy/) bɛ ɲɛfɔ photo copies bɛ taa min na.
+An bɛ app dɔ bila fana, [Golden Moments for iPhone, iPad and Android](/app/). A bɛ sɛbɛn ni tile caman ka mɔgɔ ka ɲɛfɛ, foto ka kalan ni aw ka foto min sugandi, ani foto pack min bɛ kɛ offline, konti tɛ, sɛbɛn tɛ, waatigɛlɛ tɛ, sukɔrɔ tɛ. Kunnafoni ka kɛ ye, o ka kuma ka kɛ: App Store ka privacy label bɛ kɛ "Data Not Collected" (English la), ani [app privacy policy](/app-privacy/) bɛ fɔ foto ka kɔrɔ min bɛ maro.
 
-An b'a fɛ ko i ka an ɲɛ, ka an ka ko ɲɛ. Ɲɛfɔ in ka checklist ye, [privacy page](/privacy/) ani [medical disclaimer](/medical-disclaimer/) ye ɲɛ. App min tɛ mɔgɔ min bɛ i ka lakana, o ka bɔ, an ka app kɔnɔ fana.
+An bɛ fɛ ko aw ka an ɲɛ, aw kɛ ka an ɲɛ ka kɛ ka an dɔn. Aw ka nin kunnafoni ka ɲɛfɛ, aw ka an [privacy page](/privacy/) ani [medical disclaimer](/medical-disclaimer/) ɲɛ, ani aw ka fɛn bɛɛ bɔ, an ka ko min bɛ ka mɔgɔ ka kalan ni a ka fɛn ma ka tɔ, o ko bɔ.
 
-## Mun ye app kura ka sɔrɔ cogo ɲɛfɔ?
+## App kura ɲɛ cogo di?
 
-Kalo fila kɔnɔ, i ka app kɛ ni mɔgɔ ye, ka ɲɛ.
+Ka kɛlɛ kɛ ni mɔgɔ ye don kɛlɛ ka ɲɛ, ka ɲɛ ka fɛn min kɛ.
 
-1. **Fɔlɔ, app in ka kɛ** [tablet and phone setup guide](/caregiving/tablets-and-screens/) kɔnɔ, ani daminɛ ka levelɛ kɔnɔ.
-2. **Waatiw ka dɔgɔ,** i ka dusukasi, kuma ni ɲɛnamaya ɲɛ, ani ɲɛ ka kɛ ni ɲɛ ye.
-3. **App bɛ dusukasi kɛ, a bɔ,** a ka rating ka ɲɛ cogo min na.
+1. **Ka a sɛgɛn fɔlɔ** ni an [tablet and phone setup guide](/caregiving/tablets-and-screens/), ka daminɛ ni ka ɲɛ nɔgɔn ka kɛlɛ.
+2. **Ka waati dɔgɔ kɛ,** ka dusu, kuma ani hɛrɛ ɲɛ, ka kɛlɛ bɔ ni fɛn ɲɛ.
+3. **Ni kɛlɛ ka gɛlɛya kɛ, a bɔ,** a ka tɛ ka kɛ ni a ka tɔgɔ ye.

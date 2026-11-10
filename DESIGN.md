@@ -87,17 +87,17 @@ typography:
     fontFamily: Roboto
     fontSize: 20px
     fontWeight: 400
-    lineHeight: 1.4
+    lineHeight: 1.5
   body-md:
     fontFamily: Roboto
     fontSize: 18px
     fontWeight: 400
-    lineHeight: 1.4
+    lineHeight: 1.5
   body-sm:
     fontFamily: Roboto
     fontSize: 16px
     fontWeight: 400
-    lineHeight: 1.4
+    lineHeight: 1.5
   label-lg:
     fontFamily: Roboto
     fontSize: 20px

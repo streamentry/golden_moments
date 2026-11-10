@@ -1,33 +1,33 @@
 ---
-title: "Kwesten Long Pas Blong Dementia: Oppen, Naat Wan Kwiz"
-seoTitle: "Kwesten Long Pas Blong Dementia: Oppen, Naat Kwiz"
-description: "Kwesten long pas blong ol man we oli gat dementia, long ol tema: oppen askem long hom, wok, kaikai, singsing mo holiday, wetem ol tok we i halpem toktok i stap gud."
+title: "Kwesten blong Tok Bak long Pas Taem, Oupen mo Nating Kwis"
+seoTitle: "Kwesten blong Pas Taem long Dementia: Oupen, No Kwis"
+description: "Kwesten blong tingbaut pas taem long ol man mo woman we oli gat dementia, long ol tema: hom, wok, kaikai, miusik mo holide, wetem ol oupen toktok."
 section: activities
 order: 27
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Kwesten long pas oli askem man blong talem stori blong laef blong hem long wan
-  oppen mo gud wei: "Talem mi long haos we yu bin kamap long hem," no "Yu save
-  ples we yu bin stap long hem?" Yusum sam kwesten long ol tema, folem wei we
-  man i go, mo enjoyem stori even sipos ol detail oli mikis. Nevar askem blong
-  man i talem wanem i stret, mo nevar mekem test. Ol tema olsem hom, wok, kaikai,
-  singsing, holiday mo famili oli givim ol gud fasin blong statem toktok.
+  Kwesten blong pas taem i invaet wan man o woman blong tok long pas lif blong
+  olgeta long wan warm mo oupen fasin: “Tellem mi long hom we yu bon long hem,”
+  no “Yu tingbaut ples we yu stap long hem?” Yusum sam kwesten long wan tema,
+  folem lid blong man o woman, mo enjoem stori even taem ol detail i konfius.
+  Nevat askem long wan stret ansa, mo nevat testem. Ol tema olsem hom, wok,
+  kaikai, miusik, holide mo femili oli givim ol gud fasin blong stat toktok.
 keyPoints:
-  - "Askem ol oppen kwesten, olsem 'Talem mi long...' o 'Wanem i bin olsem...', nogat ol kwesten blong yes o no, o stret o rong."
-  - "Nevar mekem kwiz wetem 'Yu save rimemba?' o 'Hu ya?' Ol kwesten olsem oli save filim olsem oli stap test, mo oli save mekem man i hatad."
-  - "Folem stori blong man, even sipos ol detail oli senis. Filing mo kampani oli moa impoten long ol fakta."
-  - "Statem wetem wan kwesten long wan taem, mo yusum wan fotu, wan smel o wan singsing blong opnem toktok."
-  - "Sipos wan tingting i painim man, o man i kros o i hatem samting, senisim toktok isi isi mo go bak long samting we i gud moa."
+  - "Askem ol oupen invitesen, olsem “Tellem mi long...” o “Wanem i wasem...”, i gat moa gud from ol kwesten blong yes-or-no o rong-or-stret."
+  - "Nevat kwis wetem “Yu tingbaut?” o “Hu ya ya?” Ol kwesten ya save mekem man o woman i fili olsem oli stap testem olgeta, mo i save mekem olgeta i sore."
+  - "Folem stori blong man o woman, even sipos ol detail i jenis. Fil mo kampani i moa important from ol fakta."
+  - "Stat wetem wan kwesten long wan taem, mo yusum wan fotu, wan smel o wan singsing blong opnem toktok."
+  - "Sipos wan memori i painful o man o woman i kros o i gat bikfala hevi, jenisim tokpis isi wan taem mo go bak long wan samting we i gud moa."
 faq:
-  - q: "Wanem ol gud kwesten long pas blong ol man we oli gat dementia?"
-    a: "Ol oppen askem i moa gud: 'Talem mi long ples we yu bin grow long hem,' 'Wanem kaikai we yu bin laekem blong kukum?' 'Wanem musik we yu bin danisim?' o 'Wanem holiday i bin olsem taem yu smol?' Olgeta oli askem man blong talem wan stori, no wan stret ansa nomo."
-  - q: "Wanem i defren long pas long kwiz?"
-    a: "Pas i wan stori we ol man oli sherem, i no gat rong ansa. Kwiz i askem wan spesel fakt mo i jekem ansa. Kwiz i save mekem man i filim olsem oli stap test mo i sem, so kipim toktok i oppen mo i waram."
-  - q: "Wanem sipos tingting blong man long pas i rong?"
-    a: "Folem wei we hem i talem, sipos i no mekem hem i hatad o i gat risk. No stretem ol det o ol nem. Askem hao hem i filim long samting ya, o wanem i minim long hem."
-  - q: "Hao long nao wan sesen blong pas i shud stap?"
-    a: "Tenfala minit i go to tuwenti minit oli kafi, mo i oraet tu sipos i sot moa. Stopem taem man i filim tajed, hatad, o i no intres, mo faenem narafala wei blong spendem taem togeta."
+  - q: "Wanem i gud kwesten blong pas taem long ol man mo woman we oli gat dementia?"
+    a: "Ol oupen invitesen i wok gud moa: “Tellem mi long ples we yu bon mo grow long hem,” “Wanem kaikai we yu laekem blong mekem?” “Wanem miusik we yu danis long hem?” o “Wanem holide i wasem taem yu wan pikinini?” Olgeta invaet wan stori, mo oli no askem wan stret ansa nomo."
+  - q: "Wanem i difren bitwin pas taem toktok mo kwis?"
+    a: "Pas taem toktok i wan stori we yumi tokaod togeta, mo nogat rong ansa. Kwis i askem wan spesel fakta mo jekem ansa. Kwis save mekem man o woman i fili olsem oli stap testem mo i sem, so kipim toktok oupen mo warm."
+  - q: "Wanem sipos memori blong man o woman long pas taem i no stret?"
+    a: "Folem wanem olgeta talem, sipos i no mekem olgeta sore o i no sef. No kristim ol det o ol nem. Askem olsem wanem olgeta fil long ivent ya, o wanem i minim long olgeta."
+  - q: "Long hao long nao wan sesen blong pas taem i sud lastem?"
+    a: "Ten to twenty minutes i ofen i gud finis, mo i ok sipos i sot moa. Stopem taem man o woman i tak, i sore, o i no intrested, mo faenem narafala wei blong spendem taem togeta."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,82 +43,82 @@ related: [activities/reminiscence, activities/music, activities/trivia, activiti
 health: false
 ---
 
-Pas i wan fasin blong toktok togeta long ol samting we oli bin hapen: ol haos long taem blong smol pikinini, ol fastaem wok, ol kaikai we yu laekem, ol singsing, ol wedding mo ol holiday. Long bigfala ol man we oli gat dementia, wan gud toktok long laef blong olgeta i wan long ol moa nambawan pat blong dei. Samting we i impoten hemi blong askem long wei we i opnem stori mo i no test tingting. Ol kwesten ya oli grup long ol tema, wetem ol tip long wei blong yusum olgeta.
+Pas taem toktok i fasin blong tokaod togeta long pas taem: ol hom long taem blong lilbat, ol fes wok, ol kaikai we oli laekem, ol singsing, ol wedding mo ol holide. Long plante man mo woman we oli gat dementia, wan warm toktok long lif blong olgeta hemi wan long ol gud pat blong dei. Samting we i important hemi blong askem long wei we i invaet wan stori mo nevat testem memori. Ol kwesten ya oli grup long tema, wetem sam tips long hao blong yusum olgeta.
 
-## Ol rul blong ol kwesten long pas
+## Rul blong ol kwesten blong pas taem
 
-- **Askem ol oppen kwesten.** "Talem mi long..." mo "Wanem i bin olsem..." oli opnem wan stori. "Yu save rimemba...?" i askem wan stret ansa.
-- **Nevar mekem kwiz.** Blong avoidem "Hu ya?", "Wanem yia i bin?" mo "Yu save nem blong...?"
-- **Akseptem wanem we i kam bak.** Sipos stori i senis o ol ples oli mikis, enjoyem mo askem long ol filing.
-- **Yusum wan kwesten long wan taem.** Wet, herem mo folem wetem wan simpol kwesten.
-- **Letem man i lidim.** Sipos hem i wantem toktok long narafala samting, yu go wetem hem.
+- **Askem ol oupen kwesten.** “Tellem mi long...” mo “Wanem i wasem...” i invaet wan stori. “Yu tingbaut...?” i askem wan rait ansa.
+- **Nevat kwis.** Lusum “Hu ya ya?”, “Wanem yia i wasem?” mo “Yu tingbaut nem blong...?”
+- **Aksepsem wanem we i kambak.** Sipos stori i jenis o ples oli mikis, enjoem i, mo askem long ol fasin.
+- **Yusum wan kwesten long wan taem.** Wet, herem, mo folemap wetem wan samting we i simpol.
+- **Letem man o woman i lid.** Sipos olgeta wantem tok long samting narafala, folem olgeta.
 
-[National Institute on Aging's guidance on communicating](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) i sujestem ol short sentens, wan kwaet vois, mo patiens taem man i stap painim tok blong hem. Ol rul ya oli impoten sem long eni ples.
+[Nasonal Institiut on Ejing blong toktok](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) i rekomendem ol sotfala sentens, wan kwaet vois, mo patiens taem man o woman i wetem blong faenem ol wod blong olgeta. Ol rul ya i impoten long hia olsem long eniwe ples.
 
-## Hom mo taem blong smol pikinini
+## Hom mo pikinini taem
 
-- Talem mi long haos we yu bin grow long hem. Wanem kaen kitsen we hemi bin olsem?
-- Wanem samting yu bin laekem blong mekem aotsaed taem yu bin smol?
-- Hu nao ol man we yu bin pleim wetem olgeta long rod blong yu?
-- Wanem rum blong yu bin olsem? Yu bin sherem wetem hu?
+- Tellem mi long hom we yu bon long hem. Wanem nao kitchen blong hem i olsem?
+- Wanem nao yu laekem blong mekem long aotsaed taem yu wan liliut pikinini?
+- Hu nao ol man mo woman we yu pleiem wetem long stret blong yu?
+- Wanem nao bedrum blong yu i olsem? Yu bin sheremaot wetem wanem man?
 
-## Wok mo taem blong mekem samting
+## Wok mo samting we yu mekem
 
-- Wanem kaen wok we yu bin laekem tumas?
-- Talem mi long wan dei long wok we i mekem yu i proud.
-- Wanem samting yu bin laekem blong mekem o ripea wetem han blong yu?
-- Hu nao i bin tijim yu moa long wok blong yu?
+- Wanem kaen wok nao yu enjoem moa?
+- Tellem mi long wan dei long wok we i mekem yu proud.
+- Wanem nao yu laekem blong mekem o fiksim wetem han blong yu?
+- Hu nao i tijim yu moa long wok blong yu?
 
 ## Kaikai mo kukum
 
-- Wanem kaikai famili blong yu i bin kakae long Sande?
-- Talem mi long wan dish we wan long famili i bin kukum i gud tumas.
-- Yu bin gat wan ples we yu save go blong kasem wan switi taem yu smol?
-- Wanem smel i tingim yu long hom?
+- Wanem nao femili blong yu i kaikaim long Sande?
+- Tellem mi long wan dis we wan long femili blong yu i mekem gud tumas.
+- Yu bin gat wan ples we yu save go kasem wan trit taem yu yang?
+- Wanem smel nao i mekem yu tingbaut hom?
 
-Toktok long kaikai i gud tumas wetem [ol aktiviti blong sens](/activities/sensory/) gaed, mo wetem wan smol kaikai sipos i sef blong givim.
+Toktok long kaikai i gud wetem ol [sensori aktiviti](/activities/sensory/) gaed, mo wetem wan smol taste sipos i sef blong givim.
 
-## Musik mo danis
+## Miusik mo danis
 
-- Wanem ol singsing we yu bin singsing o danisim taem yu smol?
-- Hu nao i bin wan singa o wan bend we yu bin laekem tumas?
-- Yu bin herem musik long wanem ples long ol dei ya: long hom, long danis, long jos haos?
+- Wanem ol singsing nao yu singim o danisim taem yu yang?
+- Hu nao i wan fevrit singa o ben blong yu?
+- Yu harem miusik long wanem ples long taem ya: long hom, long danis, long jej?
 
-Long ol playlist mo ol aedia blong musik, lukim [music activities for people with dementia](/activities/music/).
+Long ol playlist mo ol aedia blong miusik, lukim [aktiviti blong miusik long man mo woman we oli gat dementia](/activities/music/).
 
-## Holiday mo ol selebresen
+## Holide mo selebresen
 
-- Wanem holiday we yu bin laekem tumas taem yu bin grow?
-- Talem mi long wan pati blong bday we yu tingim.
-- Wanem famili i bin mekem long wan swit evening long samda?
-- Famili blong yu i bin selebretem ol seson olsem wanem?
+- Wanem nao holide we yu laekem moa taem yu wan yangfala?
+- Tellem mi long wan pati blong betde we yu tingbaut.
+- Wanem nao femili blong yu i mekem long wan swit evning long sama?
+- Olsem wanem nao femili blong yu i selebretem ol seasen?
 
-Long ol aedia we i fitim wan holiday, lukim [holiday activities for someone with dementia](/activities/holidays/).
+Long ol aedia we i fitim wan holide blong wan spesel taem, lukim [aktiviti blong holide long wan man o woman we i gat dementia](/activities/holidays/).
 
-## Famili mo ol fren
+## Femili mo ol fren
 
-- Talem mi long man we i bin mekem yu laf moa tumas.
-- Wanem nao wedding dei blong yu i bin olsem?
-- Talem mi long ol pikinini blong yu taem oli smol.
-- Ol fren blong yu i bin singaotem yu wanem nem?
+- Tellem mi long man we i mekem yu laf moa.
+- Wanem nao dei blong wedding blong yu i olsem?
+- Tellem mi long ol pikinini blong yu taem oli liliut.
+- Wanem nao ol fren blong yu i save kolem yu?
 
-Askem ol kwesten long famili wetem fasin we i sof. Sipos man i sorrow long wan we i ded, folem hem mo no askem hem blong tingting bak long ol detail we hem i save filim i hatad long hem.
+Askem ol kwesten blong femili long wei we i sof. Sipos man o woman i sore from wan we i dae, folem lid blong olgeta mo nevat askem olgeta blong tingbaut ol dital we i save mekem olgeta sore.
 
-## Ples mo nesej
+## Ples mo nesa
 
-- Talem mi long wan ples we yu laek tingting long hem.
-- Wanem weta i bin olsem long ples we yu bin grow long hem?
-- Yu bin gat wan gaden, o wan tri we yu bin laekem?
-- Talem mi long wan trip we yu bin enjoyem.
+- Tellem mi long wan ples we yu laekem blong tingbaut.
+- Wanem nao weta i olsem long ples we yu bin grow long hem?
+- Yu bin gat wan gaden, o wan tri we yu laekem?
+- Tellem mi long wan trip we yu enjoem.
 
-## Yusum fotos mo ol samting
+## Yusum ol fotu mo ol samting
 
-Ol piksa i wan naturel samting blong statem. Holem wan fotu long level blong yae mo talem, "Talem mi long diswan." [Alzheimer's Association's guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities) i sujestem blong yusum ol famili samting, fotos mo musik blong statem toktok. Wan bokis blong tingting wetem sam samting blong laef blong man i ken gud tu; lukim [reminiscence activities](/activities/reminiscence/) blong luk hao blong mekem wan.
+Ol fotu i wan nesarel stat. Holem wan fotu long level blong ae mo tok, “Tellem mi long dis.” [Gaedens blong Alzheimer's Asosiesen long ol aktiviti](https://www.alz.org/help-support/caregiving/daily-care/activities) i sajestem blong yusum ol samting we i save finis, ol fotu mo miusik blong stat toktok. Wan bokis blong memori we i gat sam samting long laef blong man o woman i save wok gud tu; lukim [aktiviti blong pas taem](/activities/reminiscence/) blong luk hao blong mekem hem.
 
-## Taem tingting i painim man
+## Taem memori i painful
 
-Sam tingting i bringim sed, fraet o kros. Sipos man i kros, no pusum hem. Talem wanem we i warm olsem, "Hemi sound olsem hemi wan hard taem. Yu wantem toktok long wan samting we i gud moa?" Bihaen, senisim toktok, ofa wan kap tii, o putum wan fevret singsing.
+Sam memori i save kamaot sore, fred o kros. Sipos man o woman i kros o i gat bikfala hevi, no pusum olgeta. Talem wan samting we i warm olsem, “Sam samting ya i olsem wan had taem. Yu wantem tok long wan samting we i gud moa?” Then jenisim tokpis, ofa wan kap tii, o putum wan fevrit singsing.
 
-## Pea wetem wan gem o wokabaot
+## Pearem wetem wan gem o wan wak
 
-Bihaen long wan sesen blong pas, wan gentel gem i ken kipim fil i laet. Traem [conversation cards](/games/conversation-cards/) blong ol moa oppen prompt, o [finish the saying](/games/finish-the-saying/) blong ol famili fasin toktok long taem blong pikinini blong man. Blong ol tip long komunikesen i moa wael, lukim [communication tips for someone with dementia](/caregiving/communication-tips/).
+Afta wan sesen blong pas taem, wan gentol gem i save hemi kip mud i laet. Traem [kad blong toktok](/games/conversation-cards/) blong moa oupen prompt, o [finis ol tok](/games/finish-the-saying/) blong ol famous frase blong taem blong lilbat blong man o woman. Long moa wid tips blong kominikesen, lukim [tips blong kominikesen long wan man o woman we i gat dementia](/caregiving/communication-tips/).

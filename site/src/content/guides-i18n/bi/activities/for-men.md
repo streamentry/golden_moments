@@ -1,33 +1,28 @@
 ---
-title: "Ol Aktiviti blong Ol Man we Oli gat Dementia"
-seoTitle: "Ol Aktiviti blong Man we Oli gat Dementia: Ol Aedia"
-description: "Ol aedia blong aktiviti blong ol man we oli gat dementia, i bes long wok, hobi mo rutin blong olgeta, wetem ol tip blong mekem i sef."
+title: "Aktiviti blong Ol Man we Oli Gat Dementia"
+seoTitle: "Aktiviti blong Ol Man wetem Dementia: Ol Aidia"
+description: "Aidia blong aktiviti long ol man we oli gat dementia, i bes long laef blong olgeta, wok, hobi mo rutin, wetem tips blong mekem wanwan i sef."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ol bes aktiviti blong man we i gat dementia oli kamaot long laef blong hem:
-  wok we hem i bin mekem, ol hobi we hem i bin laekem, mo ol rutin we hem i bin
-  holem. Man we i bin wok long ofis save laekem blong sotem ol pepa, mekanik save
-  laekem ol klin tul, mo man we i fan long spot save laekem wan ol gem we hem i
-  bin plei. Intres blong olgeta i difren, so yu stat long man ya, no long jenda
-  blong hem.
+  Ol gud aktiviti blong wan man we i gat dementia oli kamaot long laef blong hem: wok we hem i bin mekem, ol hobi we hem i laekem, mo ol rutin we hem i bin holem. Wan man we i bin wokem ofis i ken laekem blong sortem ol pepa, wan mekanik i ken laekem blong hanem ol klin tul, mo wan man we i laekem spot i ken laekem wan gem we hem i bin pleim finis. Ol intrest i difren long wan man i go long narafala, so stat long man ia, no long jenda blong hem.
 keyPoints:
-  - "Stat wetem laef blong man ya: wok blong hem, hobi blong hem, rutin blong hem mo samting we hem i bin proud long hem."
-  - "Ol wok we i gat yusful samting, olsem sotem hadwea, wasem kar, o sanem wud, bambae i moa laekem hem bitim ol aktiviti we i olsem klas."
-  - "No evri man i laekem tul o spot. Plante i laekem kuk, singsing, gaden, pentem o kea long narafala. Askem, lukluk, mo folem wanem we hem i wantem."
-  - "Mekem ol wok olsem wok we i save sef long wei blong rimuvum ol sap tul mo stap lukaotem, mo simplifaem taem ol abiliti i jenj."
-  - "Hem i raet blong seiem no. Givim hem wan rol, no wan wok we hem i must mekem, mo traem gen narafala de."
+  - "Stat wetem laef blong man ia: wok blong hem, hobi blong hem, rutin blong hem mo samting we hem i bin prawd long hem."
+  - "Ol wok we i gat rial pepos, olsem sortem hadwea, wasem ka, o sanem wud, ofen oli moa i kamfet long ol man, winim ol aktiviti we i olsem klas."
+  - "No evri man i laekem tul o spot. Plante oli laekem kuk, gaden, pentem, singsing o kea long narafala man. Askem, lukluk, mo folem fasin blong hem."
+  - "Blong mekem ol wok olsem i sef, rimuvum ol sap tul mo lukaotem, mo jenjem taem ability blong hem i jenj."
+  - "Hem i gat raet blong sei no. Ofarem wan rol, no wan asaement, mo traem bakegen wan narafala dei."
 faq:
-  - q: "Wanem nao ol aktiviti we ol man we oli gat dementia oli laekem?"
-    a: "I no wanem wan lis, from intres blong ol man i difren olsem intres blong evriwan. Ol gudfala stat i ol wok we i konekt wetem wok we hem i bin mekem bifo, olsem sotem pepa o sotem nat mo bolt, mo tu ol hobi we hem i bin laekem, olsem fising, ol kar, miusik, kuk o spot. Lukluk wanem we hem i mekem wetem hem wan, mo bildim long hem."
-  - q: "Papa blong mi i no wantem ol grup aktiviti. Wanem nao mi save mekem?"
-    a: "Plante man, man mo woman, oli no wantem ol aktiviti we i olsem klas o we i olsem ol pikinini. Traem givim hem wan wok: 'Yu save helpem mi sotem ol ya?' Ol smol grup o taem wetem wan wan man bambae i moa konfotebol bitim wan bigfala rum."
-  - q: "Hem i sef from hem i yusum tul?"
-    a: "Hem i sef nomoa taem i gat sekiuriti mo tul we i sef. Rimuvum ol paoa tul, blad mo evri samting we i sap, mo givim ol wok olsem sanem wan blok wud, sotem klin hadwea, o tajtenem ol bigfala bolt wetem han. Alzheimer's Association i tokbaot blong rimuvum ol danjeras samting long wokshop, so wan wok olsem sanem bambae hem i save enjoyem sef."
-  - q: "Hem i wan profesonol. Ol wok we oli simpol bambae oli kalem hem?"
-    a: "Oli save kalem hem sipos oli kamaot olsem wok we i no gat sens. Mekem wok ya i olsem helpem we i stret, yusum material blong ol adalt, mo jusum wan samting we i klos long rol blong hem bifo, olsem lukluk gud long wan lis, tidyapem wan fael, o helpem blong mekem wan pakej blong letas. Sipos hem i gat wan skil we hem i save gud, wan narafala aktiviti we i klos bambae i less kamap olsem komperisen."
+  - q: "Wanem ol aktiviti we ol man wetem dementia oli laekem?"
+    a: "I no gat wan lis we i stap, from intrest blong ol man i difren olsem long evri narafala man. Ol gud stat blong wok i ken kam long wok we hem i bin mekem bifo, olsem oganaesem ol pepa o sortem ol nat mo bolt, mo ol hobi we hem i bin laekem, olsem fising, ka, mius, kuk o spot. Lukluk long wanem hem i mekem hemseleva mo bildim long hem."
+  - q: "Papa blong mi i no wantem ol grup aktiviti. Wanem mi save mekem?"
+    a: "Plante man, man mo meri, oli no wantem ol aktiviti we i olsem klas o we i olsem pikinini. Traem ofarem wan wok: “Yu ken help mi sortem ol samting ia?” Ol smol grup o taem wetem wan wan i ken moa i kamfet long hem winim wan bigfala rum."
+  - q: "Hem i sef blong laetem hem i yusum tul?"
+    a: "Hem i sef nomo taem i gat sipavisen mo sef tul. Rimuvum ol paoa tul, ol blea mo eni samting we i sap, mo ofarem ol wok olsem sanem wan blok wud, sortem klin hadwea, o tajtenem ol bigfala bolt wetem han. The Alzheimer's Association i sajestem blong rimuvum ol risk samting long wekshop, so wan wok olsem sanem i save stap i gat plesa mo sef."
+  - q: "Hem i wan profesenol. Ol simpol wok bae i mekem hem i feel se oli no gud?"
+    a: "I ken, sipos oli presentem olsem ol wok we oli no gat pepos. Frem wok olsem rial help, yusum ol material blong olfala man, mo jusum wan samting we i kolsap long rol blong hem we hem i bin mekem bifo, olsem lukluk long wan lis, arenjem wan fael o help mekem wan mel. Sipos hem i bin gat ability blong wan samting, wan ritet nomo aktiviti i ken lesem komparesen."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -46,82 +41,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-Plante taem, ol man i serجh long "aktiviti blong ol man we oli gat dementia" from ol sajestin we oli kamaot oltaem oli no fitim man we yu stap wetem hem. Hemia i wan gud wari. Be ansa i no wan lis blong "aktiviti blong man". Ansa i stat wetem man ya nomoa: wok we hem i bin mekem, wanem hem i bin mekem long wiken, mo wanem i mekem hem i fil se hem i gat yusful. Intres i difren long evriwan. Plante man oli laekem kuk, gaden, pentem o singsing, mo plante woman oli laekem ol kar mo bolbol.
+Ol man oli serjem long “aktiviti blong man we i gat dementia” from ol aktiviti we oli talem oli no stret wetem man we yu kea long hem. Dat i filing we i gud. Be ansa i no wan lis blong ol aktiviti we oli “blong man”. Ansa i stat wetem man ia: wanem wok we hem i bin mekem, wanem hem i bin laekem long wikenem, mo wanem i mekem hem i fil olsem hem i yusful. Intrest i difren long evri man. Plante man oli laekem kuk, gaden, pentem mo singsing, mo plante meri oli laekem ka mo bolbol.
 
-## Hao blong mi save faendem ol aktiviti we hem bambae i laekem tru?
+## Hao nao mi save faenem ol aktiviti we hem bae i enjoem?
 
-Stat wetem laef stori blong hem. Alzheimer's Association i sajestem blong mekem [wan plan blong dei](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) i stap baedem ol samting we man i laekem mo i no laekem, ol strong fasin blong hem, mo hao hem i bin stretem dei blong hem. Askem yu wan wan long ol kwesten ya:
+Stat wetem stori blong laef blong hem. The Alzheimer's Association i sajestem blong mekem wan [plan blong dei](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) we i bilong long wanem man i laekem mo i no laekem, wanem i stret long hem, mo hao hem i bin sanem dei blong hem. Askem yu seleven:
 
-- **Wanem wok blong hem i bin?** Ofis, fam, faktri, trade, ami, sel, tija, draevem, o haos?
-- **Wanem hem i bin mekem long taem blong hem nomoa?** Fising, kad, wud wok, spot, jej, miusik, kuk, o wan kar long garej?
-- **Wanem rutin blong hem?** Kofi mo nius pepa long mones? Lukaotem wetta? Wasem kar long Sarade?
-- **Wanem hem i stat blong mekem long hem wan?** Alzheimer's Association i tok se sipos wan man i stat ol wok we nobodi i askem hem, olsem swipem flo, ol wok ya save kamap wan pat blong rutin.
-- **Wanem hem i no laekem?** Sam man i laekem lukluk long spot; ol narafala i faenem spid mo nois i mekem tingting. Lukaotem taem hem i glad, i worri, o i kros.
+- **Wanem wok blong hem?** Ofis, fam, fektri, trad, ami, sel, tija, draevem, haos?
+- **Wanem hem i mekem long taem blong hem?** Fising, kad, wud wok, spot, jos, singsing, kuk, ka long garej?
+- **Wanem ol rutin blong hem?** Kofi mo nius pepa long mones? Lukluk long weta? Wasem ka long Satede?
+- **Wanem hem i stat mekem hemseleva?** The Alzheimer's Association i talem se sipos wan man i stat ol wok withaot we nobodi i askem hem, olsem swipim flo, ol wok ia i ken kamaot wan pat blong rutin.
+- **Wanem hem i avoidem?** Sam man oli laekem lukluk long spot; narafala oli no laekem spid mo noes we i mekem olgeta i pasa. Noticem taem hem i glad, i wari o i kros.
 
-Tokbaot wetem famli mo ol olfala fren tu. Oli save tingting long ol intres we i pinis finis long laef blong dei.
+Askem famili mo ol olfala fren tu. Oli save tingbaot ol intrest we i lus finis long laef blong dei.
 
-## Ol aktiviti we i bes long wok we hem i bin mekem bifo
+## Ol aidia blong aktiviti we i bes long wok we hem i bin mekem bifo
 
-Alzheimer's Association i givim wan klia eksampol: wan fomas wok long ofis i save laekem blong sotem ol wok, olsem putum ol coin long wan holda, helpem blong asemblem wan mel, o mekem wan lis blong wok, bat wan fomas farmar o gaden man i save laekem blong wok long yad. Sem aedia i minim long plante difren wok.
+The Alzheimer's Association i givim wan klia eksampol: wan fomer ofis wekman i ken laekem blong oganaesem wok, olsem putum koen long holda, help assemblem wan mel, o mekem wan lis blong wok, mo wan fomas o gadenen i ken laekem blong wok long yad. Sem aidia i aplae long plante narafala wok.
 
-| Wok we hem i bin mekem bifo | Ol aedia blong aktiviti | Vesen we i simpol |
+| Wok we hem i bin mekem bifo | Ol aidia blong aktiviti | Simpol version |
 | --- | --- | --- |
-| Ofis o bisnis | Sotem ol pepa long ol fol, stampem ol envelop, lukluk gud long wan lis, tidyapem wan drawa blong tebol | Stakem ol envelop; putum ol pepa klip long wan bokis |
-| Trades o mekanik | Sotem ol klin nat, bolt mo wasa; tajtenem ol bigfala bolt wetem han; lukluk long ol katalog blong tul | Sotem bae long tu kap |
-| Farming o landscaping | Waterem, potem ol plant, reksem ol lif, lukaotem gaden | Sidaon aotsaed taem yu wok; holem ol bag blong sid |
-| Ami | Polisim ol soes, stretem wan drawa, lukluk long ol fotopik blong taem blong hem long ami sipos hem i laekem | Lisin long miusik blong taem ya |
-| Sel o kastoma sevis | Greetem ol visitor, givim ol snak, sotem ol kupon | Sidaon klosap long dor blong talem helo |
-| Tija | Ridim long hae voes, arenjem ol buk, sotem ol piksa long ol tema | Lukluk long wan piksa buk tugeta |
-| Draevem o transpot | Lukluk long ol map o ol magasin blong ol kar, wasem kar | Lukluk long ol kar we i pas from wan veranda |
-| Haos mo famli | Foldem ol klos, setem tebol, helpem long dinna | Stretem ol napkin; stirem |
+| Ofis o bisnes | Sortem ol pepa long fael, stempem ol envelop, lukluk long wan lis, oganaesem wan drower long ofis | Stakem ol envelop; putum ol pepa klip long bokis |
+| Trad o mekanik | Sortem klin nat, bolt mo wasa; tajtenem bigfala bolt wetem han; lukluk long ol katalog blong tul | Sortem bae saez long tu kap |
+| Fam o gadenen | Wota, potem ol plant, rekem lif, lukaotem gaden | Sitdaon aotsaed taem yu wok; holem paket blong sid |
+| Ami | Polisim seu, mekem drower i stret, lukluk long ol foto blong taem long ami sipos hem i laekem | Lisin long mius blong taem ia |
+| Sel o kastoma sevis | Greetem ol visita, givim snak, sortem kupon | Sidaon klosap long dua blong hakem man we i kam |
+| Tija | Ridim long vois, oganaesem ol buk, sortem ol pikja long tema | Lukluk long wan buk blong ol pikja tugeta |
+| Draevem o transpot | Lukluk long ol map o ol olfala ka magasin, wasem ka | Lukluk long ol ka i pasem long veranda |
+| Haos mo famili | Folem klos, setem tebol, help long dina | Smutem napkin; stirim |
 
-Sam memori, olsem taem long ami, save kamap wetem strong filing. Folem wanem hem i laekem, kipim tok long pas i pozitiv, mo jenjem tok samtaem gently sipos hem i luk se hem i kros.
+Sam memori, olsem taem long ami, i ken kamaotem strong filing. Folem fasin blong hem, mekem toktok long pas i stap gud, mo jenjem tok gentel sipos hem i seksek.
 
-## Ol aktiviti we i bes long ol hobi blong hem
+## Ol aidia blong aktiviti we i stap long ol hobi
 
-1. **Wud wok.** Sanem wan smut blok blong wud, o pentem wan haos blong pisin. Alzheimer's Association i tokbaot blong rimuvum ol danjeras material mo tul long wokshop, so wan aktiviti olsem sanem i save enjoyem mo sef.
-2. **Fising.** Sotem wan bokis blong fising tul wetem ol hook we i bin tekaot finis, ridim ol magasin blong fising, o sidaon klosap long wan pon wetem.
-3. **Ol kar.** Wasem kar, polisim ol krom, lukluk long fotopik blong ol klasik kar, o go wan draev olsem pasenja.
-4. **Spot.** Lukluk long wan klasik gem o ol bes pat blong gem, tosem wan soft bol, putum ol gol bol long wan karpet, o sotem ol bejbol kad.
-5. **Kad mo gem.** Wan simpol hand blong wan gem blong kad we hem i save, domino, o tanem ol kad blong faendem wan pea. Kipim i relaks mo stopem long kaontem skor.
-6. **Miusik.** Ol singsing from taem blong hem long yut mo tuenti, wan fevret ben, o wan him. Lukluk long [gaed blong ol aktiviti blong miusik](/activities/music/) blong mifala.
-7. **Kuk mo grill.** Wasem ol vej, stirem sos, sepem ol bigara, o talem hao hem i bin mekem famos sup chili blong hem taem yu mekem.
-8. **Nius pepa.** Alzheimer's Association i notem se man we i alwe ridim nius pepa, hem i save stap laekem blong ridim, even sipos hem i no moa save fulwan ol samting. Kofi mo nius pepa save stap wan pat blong moning.
-9. **Bildim.** Ol big pis kit blong ol adalt, o ol simpol kit blong konstraksen. Jusum ol pis we i isi blong holem.
-10. **Kea long wan samting.** Fidim wan pet, fulumap ol fidim bokis blong ol pisin, o waterem ol plant. NIA i lisim [fidim, kea o wakem wan pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i stap long ol aktiviti we ol man i save enjoyem.
+1. **Wud wok.** Sanem wan smol blok wud o penem wan bokis bed. The Alzheimer's Association i sajestem blong rimuvum ol risk samting mo tul long wekshop, so wan aktiviti olsem sanem i ken enjoy mo sef.
+2. **Fising.** Sortem wan bokis blong fising, wetem ol hook we i rimuvum finis, lukluk long ol fising magasin, o sidaon klosap long wan pon tugeta.
+3. **Ka.** Wasem ka, polisim krom, lukluk long ol foto blong olfala ka, o go drive olsem passenja.
+4. **Spot.** Lukluk long wan olfala gem o ol hae pat blong gem, tossem wan soft bol, putum golf bol long kapet, o sortem bejbol kad.
+5. **Kad mo gem.** Wan simpol han blong famous kad gem, domino, o tanem ol kad blong faenem pea. Mekem i isi mo no putum skoa.
+6. **Mius.** Ol song long taem blong hem long tinnej mo twenti, wan favoret bend, o wan himn. Lukluk long [mius aktiviti gaed](/activities/music/) blong mifala.
+7. **Kuk mo grill.** Wasem ol vegetebol, stirim sos, mekem bobol, o talem hao hem i mekem fiemos sup blong hem taem yu kuk.
+8. **Nius pepa.** The Alzheimer's Association i talem se wan man we i bin ridim pepa evri dei i ken stil enjoy sem, sipos hem i no save evri samting. Kofi mo nius pepa i ken stap olsem pat blong mones.
+9. **Bildim.** Bigfala pis kit o simpol konstrakson set blong ol adalt. Jusum ol pis we i isi blong holem.
+10. **Kea long wan samting.** Fidim wan pet, filim bed blong bed, o wasem ol plant. The NIA i lisem [fidim, brasim o wakem wan pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) long ol aktiviti we ol man oli save enjoy.
 
-## Hao blong mi ofa wan aktiviti we i no kamaot olsem busiwok?
+## Hao nao mi save ofarem wan aktiviti withaot we i fil olsem wok we i no gat mining?
 
-Presentem olsem helpem we i stret. Alzheimer's Association i sajestem askem "Plis, yu save helpem mi?" mo konektem ol wok wetem wan purpos. Lukluk long ol ya:
+Presentem olsem rial help. The Alzheimer's Association i sajestem blong askem “Yu ken help mi plis?” mo blong konektem ol wok long wan pepos. Lukluk long difren:
 
-- "Yu wantem sotem ol bolt ya?" (i kamaot olsem wan test)
-- "Mi bin baem wan bag blong ol hadwea we i mikis, mo mi nidim ol ya i sotem finis bifo mi fiksim sel ya. Yu save givim mi wan han?" (i kamaot olsem wan wok)
+- “Yu wantem sortem ol bolt ia?” (i fil olsem test)
+- “Mi bin baem wan bag blong ol hadwea we i mikis, mo mi nid ol ia i sotem bifo mi fiksim sel ia. Yu ken givim mi wan han?” (i fil olsem wan wok)
 
-Narafala tip:
+Ol narafala tips:
 
-- **Yusum material blong ol adalt.** Ol tul we oli stret, ol sap i bin rimuvum, ol katalog we oli stret, ol envelop we oli stret.
-- **Wok sarem.** Tu man we oli wok long wan wok i gat kampani. Wan man we i lukluk nomoa long narafala, hemia i kaen superviesen.
-- **No korektem.** Sipos ol bolt i go long rong kap, lesem. Samting we i main, taem we yu wetem hem mo hem i fil se hem i yusful.
-- **Helpem hem stat.** Alzheimer's Association i notem plante man oli stap wantem blong mekem ol samting be oli haswe blong oganaesem mo stat. Mekem fasfas wan tugeta.
+- **Yusum ol material blong ol adalt.** Ol tul we ol sap edj oli rimuvum finis, ol katalog we oli stret, ol envelop we oli stret.
+- **Wok saed-baesaed.** Tufala man we oli wok long wan wok i kampani. Wan man we i lukluk long narafala i sipavisen.
+- **No mekem kwestin.** Sipos ol bolt oli go long rong kap, larem i stap olsem. Samting we i important i taem we yu stap tugeta mo fil se hem i yusful.
+- **Helpem hem i stat.** The Alzheimer's Association i talem plante man oli stil wantem mekem ol samting be oli hard blong oganaesem mo stat. Mekem fasfas wan tugeta.
 
-## Hao blong mi adjastem taem ol samting i jenj?
+## Hao nao mi save adaptem taem ol samting i jenj?
 
-Taem dementia i go ahed, Alzheimer's Association i sajestem blong givim ol wok we oli simpol mo oli repitim, mo stap redi blong man ya i tekem wan rol we i no aktiv tumas. Wan man we wan taem i bin fiksim ol enjin, nao hem i save laekem blong holem wan klin rench mo tokbaot ol kar, o lukluk taem yu wok. Lukluk tu i wan wei blong tekem pat.
+Taem dementia i go antap, The Alzheimer's Association i sajestem blong givim ol simpol mo ol wok we i moa repitisen, mo redi blong man ia i kam wan les aktiv rol. Wan man we bifo i bin rebildim ol enjin, nao i ken laekem blong holem wan klin kiliu long ka mo toktok long hem, o lukluk long yu taem yu wok. Lukluk tu i wan wei blong stap long wok.
 
-Sipos hem i wan ekspet long wan samting, wan aktiviti we i klos bambae i gud moa bitim kraft blong hem bifo. Association i tokbaot se wan profesonol artist bambae i kros long ol jenj long wok blong hem, be wan man we i pleim wok blong hem nomoa bambae i enjoyem wan niu wei. Sem samting i trufala long wan master kapenta.
+Sipos hem i bin gat ability long wan samting, wan aktiviti we i kolsap long kraf blong hem bifo i ken gud winim wan samting we i sem sem. The Alzheimer's Association i talem se wan profesenol atis i ken feel frastret taem wok blong hem i jenj, be wan man we i no bin profesenol i ken laekem wan nyu wei blong mekem wok. Sem tru long wan mastaseken karpenta.
 
-## Sef long ol wok olsem wok blong man
+## Sef long ol wok olsem wok long wekshop
 
-- Rimuvum ol paoa tul, blad, nel mo skru we i gat sap tip.
-- Lokem ol pent thinna, gasolin mo ol kemikol.
-- Keepem ol kar kis aot long aesaed sipos hem i no moa draevem.
-- Superviesem evri wok long wokshop mo yad.
-- Jusum ol big pis we man i no save gilim.
+- Rimuvum ol paoa tul, blea, nel mo skru we i gat sap tip.
+- Lokem peint tina, gasolin mo ol kemikol.
+- Kipim ki blong ka aot long set sipos hem i no moa draevem.
+- Sipavisem evri wok long wekshop mo yad.
+- Jusum ol bigfala pis we i no ken kakae.
 
-## Wanem sipos hem i seiem no?
+## Wanem sipos hem i tok no?
 
-Respektem. Wan no bambae i minim se wok ya i hard tumas, i babi tumas, o i no rait long deiwan. Alzheimer's Association i wonem yu no fosem hem. Traem wan narafala wok, wan narafala taem, o jes sidaon tugeta. Lukluk [wanem blong mekem taem oli seiem no](/caregiving/when-they-say-no/).
+Respektem. Wan “no” i ken minim se wok ia i hard tumas, i babyish tumas, o i no stret tede nomo. The Alzheimer's Association i warnem yu nat blong fosem hem. Traem wan narafala wok, narafala taem, o sidaon tugeta nomo. Lukluk [wanem blong mekem taem oli talem no](/caregiving/when-they-say-no/).
 
-## Ol gem mo tok we i fitim
+## Gem mo toktok we i fit
 
-[Finish the Saying](/games/finish-the-saying/) i yusum ol fasin tok we i kamaot long Amerika, mo i go long tok. [Conversation Cards](/games/conversation-cards/) i gat ol kwesten we i open, no gat kwis, long ol tema, we save opem ol stori long wok mo hobi. [Picture Puzzle](/games/picture-puzzle/) i kipim ful piksa i stap luk taem yu swepem ol pis, mo [Word Search](/games/word-search/) we i bigfala prit save printim mo mekem wetem pen long tebol long kitjen. Blong ol rod blong tokbaot pas blong hem wetem no testem hem, lukluk long [gaed blong reminisens](/activities/reminiscence/) blong mifala.
+[Finish the Saying](/games/finish-the-saying/) i yusum ol famous tok we oli kamaot long Amerika mo i stat toktok. [Conversation Cards](/games/conversation-cards/) i gat ol open kwesin, withaot kwiz, long ol tema, we i ken openem stori long wok mo hobi. [Picture Puzzle](/games/picture-puzzle/) i holem fulpikja i stap taem yu jenjem ol pis, mo bigfala-prin [Word Search](/games/word-search/) i ken prentem aot mo mekem wetem pen long tebol blong kitjen. Blong ol wei blong toktok long pas blong hem withaot testem hem, lukluk long [gaed blong ripolektem](/activities/reminiscence/).

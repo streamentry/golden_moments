@@ -1,32 +1,32 @@
 ---
 title: "Aktiwiteite vir vroeë demensie: Idees vir volwassenes"
 seoTitle: "Aktiwiteite vir vroeë demensie: Idees"
-description: "Aktiwiteite vir vroeë demensie, wanneer simptome voor 65 begin: stokperdjies, uitstappies, musiek uit hul jeug en steun vir vennote en volwasse kinders."
+description: "Aktiwiteite vir vroeë demensie voor 65: stokperdjies, uitstappies, musiek uit hul jeug, en ondersteuning vir lewensmaats en volwasse kinders."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Vroeë demensie begin voor die ouderdom van 65, dikwels terwyl ’n persoon nog
-  werk, bestuur of kinders grootmaak. Hou hul stokperdjies en vriendskappe,
-  kies uitstappies wat hul eie voel, gebruik musiek en foto’s uit hul eie
-  jare, en laat hulle die beplanning beheer. Vennote en volwasse kinders het
-  ook steun nodig, en die Alzheimer’s Association hou groepe vir hulle.
+  Vroeë demensie begin voor 65, dikwels terwyl iemand nog werk, bestuur of
+  kinders grootmaak. Behou hul stokperdjies en vriendskappe, kies uitstappies
+  wat by hulle pas, gebruik musiek en foto's uit hul eie jare, en laat hulle
+  self besluite neem oor planne. Lewensmaats en volwasse kinders het ook
+  ondersteuning nodig, en die Alzheimer's Association bied groepe vir hulle aan.
 keyPoints:
-  - "Vroeë demensie begin voor 65. Mense voel dikwels dat hul ouderdom nie pas by die aktiwiteite wat aangebied word nie."
-  - "Laat die persoon die keuses maak, van watter stokperdjie om te probeer tot watter uitstap om te beplan."
-  - "Musiek, foto’s en stories uit hul 20’s tot 50’s is dikwels meer betekenisvol as aktiwiteite uit latere lewe."
-  - "Bly aktief en sosiaal wanneer hulle dit wil, en pas die tempo aan in plaas van die aktiwiteit te vervang."
-  - "Sorgdraers, veral vennote en volwasse kinders, kan baat vind by steungroepe van mense in dieselfde posisie."
+  - "Vroeë demensie begin voor 65. Mense voel dikwels hul lewensfase pas nie by die aktiwiteite wat aangebied word nie."
+  - "Laat die persoon self keuses maak, van watter stokperdjie om te probeer tot watter uitstappie om te beplan."
+  - "Musiek, foto's en stories uit hul 20's tot 50's beteken dikwels meer as aktiwiteite uit 'n latere lewensfase."
+  - "Bly aktief en kuier saam wanneer hulle wil, en pas liewer die pas aan as om die hele aktiwiteit te vervang."
+  - "Mense wat vir hulle sorg, veral lewensmaats en volwasse kinders, vind baat by ondersteuningsgroepe."
 faq:
   - q: "Wat is vroeë demensie?"
-    a: "Dit is demensie wat voor die ouderdom van 65 begin. Die Alzheimer’s Association meld dat Alzheimer’s as vroeë aanvang beskou word wanneer dit iemand onder 65 raak. Vroeë demensie is minder algemeen as demensie wat later begin, maar dit is nie skaars nie, en die ervaring verskil dikwels: die persoon werk dalk nog, bestuur en grootmaak kinders."
+    a: "Dit is demensie wat voor die ouderdom van 65 begin. Die Alzheimer's Association verduidelik dat Alzheimer-siekte as vroeë aanvang beskou word wanneer dit iemand onder 65 raak. Vroeë demensie kom minder voor as demensie op 'n latere ouderdom, maar dit is nie seldsaam nie, en die ervaring verskil dikwels: die persoon werk moontlik nog, bestuur motor en maak kinders groot."
   - q: "Watter aktiwiteite pas by iemand met vroeë demensie?"
-    a: "Aktiwiteite wat by hul volwasse lewe pas, werk die beste: ’n vertroude stokperdjie, ’n wandeling met ’n vriend, ’n vrywilligerskof, ’n kookprojek vir die gesin, musiek uit hul eie jeug of ’n reis na ’n plek wat hulle liefhet. Laat hulle kies, en pas eerder die lengte en geselskap aan as die aktiwiteit self."
-  - q: "Waar kan ’n vennoot of volwasse kind steun vind?"
-    a: "Die Alzheimer’s Association bied gratis steungroepe vir sorgdraers aan, insluitend groepe vir mense wat na iemand met vroeë demensie omsien. U kan die Association se 24/7-hulplyn in die VSA by 800.272.3900 bel om oor groepe en hulpbronne te vra."
-  - q: "Moet iemand met vroeë demensie steeds die aktiwiteite doen wat hulle geniet?"
-    a: "Ja, solank dit veilig is en hulle dit wil doen. Stokperdjies, geloofsgemeenskappe, oefening en sosiale tyd is almal deel van ’n volle lewe. Pas die omgewing aan, bring ’n metgesel saam en beplan vir rus, en stop wanneer die aktiwiteit nie meer goed voel nie."
+    a: "Aktiwiteite wat by hul volwasse lewe pas, werk die beste: 'n bekende stokperdjie, 'n stappie saam met 'n vriend, vrywilligerswerk, 'n kookprojek vir die gesin, musiek uit hul jeug, of 'n rit na 'n gunstelingplek. Laat hulle self kies, en pas liewer die tydsduur en geselskap aan as die aktiwiteit self."
+  - q: "Waar kan 'n lewensmaat of volwasse kind ondersteuning kry?"
+    a: "Die Alzheimer's Association bied gratis ondersteuningsgroepe aan, insluitend groepe vir mense wat omsien na iemand met vroeë demensie. Jy kan hul 24/7-hulplyn by 800.272.3900 skakel om uit te vind oor groepe en hulpbronne."
+  - q: "Moet iemand met vroeë demensie steeds dinge doen wat hulle geniet?"
+    a: "Ja, solank dit veilig is en hulle dit self wil doen. Stokperdjies, geloofsgemeenskappe, oefening en tyd saam met vriende vorm alles deel van 'n vol lewe. Pas die omgewing aan, reël dat iemand saamgaan, beplan rusperiodes in, en hou op wanneer die aktiwiteit nie meer lekker voel nie."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -45,45 +45,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Die meeste inligting oor demensie gaan uit van iemand in sy of haar sewentig- of tagtigerjare. Vir iemand wat in sy of haar veertig- of vyftigerjare gediagnoseer is, lyk die daaglikse prentjie anders. Hulle het dalk nog ’n werk, ’n verbandlening, tienerkinders by die huis of ’n ouer om na te sien. Aktiwiteite moet daardie volwasse lewe erken. Hierdie gids verduidelik wat verander, wat u kan probeer, en waar vennote en volwasse kinders steun kan vind.
+Die meeste inligting oor demensie neem aan die persoon is in hul sewentigs of tagtigs. Vir iemand wat in hul veertigs of vyftigs gediagnoseer word, lyk die daaglikse lewe anders. Hulle het dalk nog 'n werk, 'n huisverband, tieners by die huis of 'n bejaarde ouer om voor te sorg. Aktiwiteite behoort daardie volwasse lewe te erken. Hierdie gids bespreek wat verander, wat om te probeer, en waar lewensmaats en volwasse kinders ondersteuning kan kry.
 
 ## Wat is vroeë demensie?
 
-Vroeë demensie is demensie wat voor die ouderdom van 65 begin, soms vroeë-aanvang-demensie genoem. Die [Alzheimer’s Association se blog](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) beskryf Alzheimer’s as vroeë aanvang wanneer dit ’n persoon onder 65 raak, en merk op dat om vir iemand so jonk te sorg "unieke uitdagings meebring". Die simptome kan dieselfde wees as in latere lewe, maar die persoon se verwagtinge, verantwoordelikhede en sosiale lewe is nie.
+Vroeë demensie is demensie wat voor die ouderdom van 65 begin, en word soms vroeë-aanvang-demensie genoem. Die [Alzheimer's Association's blog](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) beskryf Alzheimer-siekte as vroeë aanvang wanneer dit iemand onder 65 raak, en noem dat die sorg vir so 'n jong persoon met unieke uitdagings gepaardgaan. Die simptome kan dieselfde wees as op 'n latere ouderdom, maar die persoon se verwagtinge, verantwoordelikhede en sosiale lewe is dit nie.
 
-Omdat dit minder algemeen is, wag mense dalk langer vir ’n diagnose, en gesinne voel dalk dat hulle niemand het om mee te praat nie. Om te weet dat ander mense dieselfde ervaring deel, is dikwels ’n verligting.
+Omdat dit minder algemeen is, wag mense soms langer vir 'n diagnose, en gesinne kan voel daar is niemand met wie hulle kan praat nie. Dit bring dikwels verligting om te weet dat ander mense deur dieselfde dinge gaan.
 
-## Hou die volwassene in die aktiwiteit
+## Behou die volwasse aanslag by aktiwiteite
 
-Volwassenes met vroeë demensie wil gewoonlik nie soos kinders behandel word nie. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adviseer dat aktiwiteite aangepas word by wat ’n persoon steeds kan doen en geniet. Vir iemand in hul vyftigerjare kan dit beteken:
+Volwassenes wat met vroeë demensie leef, wil gewoonlik nie soos kinders behandel word nie. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) beveel aan dat aktiwiteite aangepas word by wat 'n mens steeds kan doen en geniet. Vir iemand in hul vyftigs kan dit die volgende beteken:
 
-- **Hou ’n vertroude stokperdjie,** soos houtwerk, sport, kaartspel, ’n boekklub of ’n koor, met ’n bietjie hulp of ’n korter sessie.
-- **Stap of ry fiets saam met ’n metgesel,** op ’n roete wat hulle goed ken.
-- **Kook ’n familiemaaltyd,** met die persoon wat die dele doen wat hulle kan hanteer.
-- **Vrywillig of help uit** in ’n rol wat hulle kies, soos skenkings sorteer of help by ’n skoolgeleentheid.
-- **Beplan ’n reis** na ’n plek wat vir hulle belangrik is, met ’n metgesel en ’n eenvoudige skedule.
-- **Spandeer tyd met kleinkinders, neefs of nigte,** deur ’n spel of ’n projek te deel.
+- **Behou 'n bekende stokperdjie,** soos houtwerk, sport, kaartspeletjies, 'n leeskring of 'n koor, met 'n bietjie hulp of 'n korter sessie.
+- **Stap of ry fiets saam met iemand,** op 'n roete wat hulle goed ken.
+- **Kook saam aan 'n gesinsmaaltyd,** waar die persoon die dele doen wat hulle kan behartig.
+- **Doen vrywilligerswerk of help uit** in 'n rol wat hulle self kies, soos om skenkings te sorteer of by 'n skoolgeleentheid te help.
+- **Beplan 'n uitstappie** na 'n plek wat vir hulle baie beteken, saam met 'n metgesel en met 'n eenvoudige program.
+- **Kuier saam met kleinkinders, niggies of nefies,** deur 'n speletjie te speel of aan 'n projek te werk.
 
-Laat die persoon kies. Om te vra "Wat wil jy vanmiddag doen?" is meer respekvol as om vir hulle te kies.
+Laat die persoon self kies. Om te vra: „Wat sal jy graag vanmiddag wil doen?” toon baie meer respek as om namens hulle te besluit.
 
 ## Gebruik musiek en herinneringe uit hul eie jare
 
-Musiek en foto’s uit ’n persoon se twintigs, dertigs en veertigs kan warm gevoelens en maklike gesprekke oproep. Ons [musiekaktiwiteite](/activities/music/)-gids verduidelik hoe om ’n speellys te bou, en [herinneringsaktiwiteite](/activities/reminiscence/) wys hoe om foto’s en stories te deel sonder om vrae te stel. Vir ’n meer volwasse spel, probeer [gesprekkaarte](/games/conversation-cards/), met oop vrae oor werk, reis, vriende en familie.
+Musiek en foto's uit iemand se twintigs, dertigs en veertigs kan warm gevoelens en ontspanne gesprekke ontlok. Ons gids oor [musiekaktiwiteite](/activities/music/) verduidelik hoe om 'n speellys saam te stel, en [herinneringsaktiwiteite](/activities/reminiscence/) wys hoe om foto's en stories te deel sonder om vrae soos in 'n toets te vra. Vir 'n meer volwasse speletjie, probeer [gesprekskaarte](/games/conversation-cards/), met oop temas oor werk, reis, vriende en familie.
 
-Fotopare wat van familiefoto’s gemaak is, kan ook goed werk, omdat die prente mense en plekke wys wat vir die persoon belangrik is. [Fotopare](/games/photo-pairs/) hou die foto’s in die blaaier op daardie toestel.
+Fotopare wat van gesinsfoto's gemaak is, kan ook goed werk, aangesien die foto's van mense en plekke is wat vir die persoon saak maak. [Fotopare](/games/photo-pairs/) hou die foto's plaaslik in die webblaaier op daardie toestel.
 
-## Werk, bestuur en daaglikse lewe
+## Werk, bestuur en die daaglikse lewe
 
-Baie mense met vroeë demensie werk steeds, bestuur of bestuur hul geld. Dit is nie aktiwiteite in die gewone sin nie, maar hulle vorm wat die persoon kan doen. Praat met hul dokter oor bestuur en werksveiligheid, en oorweeg of hulle hulp met finansies of afsprake wil hê. Die doel is om waardigheid te beskerm terwyl die persoon so betrokke bly as wat hulle wil.
+Baie mense met vroeë demensie werk nog, bestuur motor of hanteer hul eie geldsake. Dit is nie aktiwiteite in die gewone sin nie, maar dit beïnvloed wat die persoon kan doen. Gesels met hul dokter oor veiligheid by die werk en agter die stuur, en kyk of hulle dalk hulp verlang met finansies of afsprake. Die doel is om waardigheid te beskerm terwyl die persoon so betrokke bly as wat hulle self verkies.
 
-Vir riglyne oor daaglikse roetines en aktief bly, sien [’n sagte daaglikse roetine](/activities/daily-routine/) en [huishoudelike take as aktiwiteite](/activities/household-tasks/).
+Vir raad oor daaglikse roetines en om aktief te bly, sien ['n rustige daaglikse roetine](/activities/daily-routine/) en [huishoudelike take as aktiwiteite](/activities/household-tasks/).
 
-## Steun vir vennote en volwasse kinders
+## Ondersteuning vir lewensmaats en volwasse kinders
 
-Vennote en volwasse kinders voel dikwels geïsoleerd. Sorg kan soos ’n tweede werk aanvoel bo-op werk en gesin. Die Alzheimer’s Association se blogpos meld dat sorgdraers in groepe vir vroeë demensie dit nuttig gevind het vir praktiese sake soos regsbeplanning, en om eenvoudig begrip te ervaar. Dit noem ook dat die Association gratis steungroepe vir sorgdraers bedryf, insluitend groepe vir mense wat na iemand met vroeë demensie omsien, en dat drie daarvan Dinsdae en Woensdae aanlyn vergader.
+Lewensmaats en volwasse kinders voel dikwels alleen. Versorging kan soos 'n tweede werk voel bo-op werk en gesin. Die Alzheimer's Association se bloginskrywing berig dat versorgers in groepe vir vroeë demensie dit baie waardevol gevind het vir praktiese sake soos regsbeplanning, en om bloot verstaan te voel. Dit noem ook dat die vereniging gratis ondersteuningsgroepe aanbied, insluitend groepe vir mense wat omsien na iemand met vroeë demensie, en drie van hulle ontmoet virtueel op Dinsdae en Woensdae.
 
-Om oor groepe te vra, bel die Association se 24/7-hulplyn in die VSA by 800.272.3900. Ons [gids oor sorgdraer-selfsorg](/caregiving/caregiver-self-care/) behandel rus, aflos en tekens van uitbranding.
+Om navraag te doen oor groepe, skakel die vereniging se 24/7-hulplyn by 800.272.3900. Ons [selfsorg-gids vir versorgers](/caregiving/caregiver-self-care/) behandel rus, aflosversorging en tekens van uitbranding.
 
-## Fases maak steeds saak
+## Stadiums maak steeds saak
 
-Die persoon se fase van demensie bepaal steeds wat help. Vroeg kan die meeste mense hul gewone aktiwiteite met ’n paar veranderinge doen, en ons [aktiwiteite in die vroeë fase](/activities/early-stage/)-gids het meer idees. Later word aktiwiteite eenvoudiger en meer sensories, soos beskryf in [aktiwiteite in die laat fase](/activities/late-stage/). Verander die aktiwiteit soos die persoon verander, en vra hulle wat hulle wil hê wanneer hulle dit kan sê.
+Die stadium van die demensie bepaal steeds watter hulp en aktiwiteite die beste werk. In die vroeë fase kan die meeste mense steeds hul gewone aktiwiteite doen met enkele aanpassings, en ons gids oor [aktiwiteite vir die vroeë stadium](/activities/early-stage/) bied nog idees. Later word aktiwiteite eenvoudiger en meer gerig op die sintuie, soos beskryf in [aktiwiteite vir die gevorderde stadium](/activities/late-stage/). Pas die aktiwiteit aan soos die persoon verander, en vra wat hulle verkies wanneer hulle dit kan aandui.

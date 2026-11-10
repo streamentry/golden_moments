@@ -1,34 +1,36 @@
 ---
-title: "Demencia jaqitaki tableta ukax celular uñacht'ayaña"
-seoTitle: "Demencia jaqitaki tableta ukax celular uñacht'ayaña"
-description: "Demencia jaqitaki tableta ukax celular uñacht'ayañ thaki: jupa mayni aplicación uñjañataki, qillqañ ch'ama, jan sapa qhanañanaka, sapa uta ch'uqi, sonido ukat privacidad."
+title: "Demencia jaqirux tablet jan celular wakichaña"
+seoTitle: "Demencia jaqitaki tablet jan celular wakichaña"
+description: "Demencia uñtasir jaqitaki tablet jan celular wakichaña: mayni aplicación ukar katuntaña, qillqanakax jukʼamp, jukʼa yatiyañanaka, sumpi sinti ukat jaqi uñjata."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Tableta ukax celular uñacht'ayañ sipansa, sumaqaraki uñacht'ayañ. IPad ukat
-  iPhone ukanakan Guided Access, Android ukan app pinning, jan ukax Apple
-  Assistive Access ukampi sapa uta ch'uqi layout uñjañ. Qillqañ ch'ama
-  lurañ, qhanañanaka jan jaytayañ, sapa uta ch'uqi mayni aplicaciones
-  imañ, sonido ukat stand ukampi permisos chika uñjañ. Jupanakampi
-  sapa lurañanakampi chikt'añ.
+  Tablet jan celular jaqirux wakichañat sapa, jupanakax sumpi ukhamaraki
+  jukʼamp wakisiñapa. Mayni aplicación ukar katuntañamataki Guided Access
+  iPad ukat iPhone celular ukanxa, jan ukax Android ukanxa app pinning
+  ukanakaru ocuña, jan ukax Apple ukan Assistive Access ukar ocuñ wakisi.
+  Qillqanakax jukʼamp qillqaña, yatiyañanakax apnaqaña, pantalla ukan sapa
+  mayni qillqat aplicación ukanakax jakhuña, sonido ukat aplicación
+  ukanakan permiso uñjaña. Yaqha jan pantallanakaru chika apnaqañamataki
+  ukax sumpi.
 keyPoints:
-  - "Guided Access (iPhone, iPad) ukat app pinning (Android) ukanakax pantalla mayni aplicación ukan imapxi, jupanakax kunapachatak kutt'asiña."
-  - "Apple ukan Assistive Access ukax sapa uta ch'uqi layout uñacht'i, yati chiqa jan walt'awinaka uñjirinakatak lurat."
-  - "Qillqañ ch'ama lurañ ukat qhanañanaka, alertas jan jaytayañ, ukhamat jan kuna sallqjañani."
-  - "Sapa uta ch'uqi mayni yatiñ aplicaciones jaytayañ, ukat sonido sapa qalltañ sipansa."
-  - "Stand ukat jan jakhuntañ carga churaña ukax tableta sumaqaraki lurañ ukat jikxatañ."
-  - "Aplicaciones permisos ukat datos uñjañ: HIPAA ukax jan jupa mayni tableta ukan imat katuqañanaka jark'añ."
+  - "Guided Access (iPhone, iPad) ukat app pinning (Android) ukanakax pantallaru mayni aplicación ukar katuntañapataki, kunapachatakama jiwasa jan kiskt'añakama."
+  - "Apple ukan Assistive Access ukax jukʼamp wakisiñ uñjasi, yatiñ jan wali jaqinakatakix amuyasiñataki."
+  - "Qillqanakax jukʼamp qillqaña ukat yatiyañanaka, qillqañanaka apaqañanakax jan kunatix jiwasa ch'ajwañ."
+  - "Mayni aplicación sapa qillqata jakhuña ukat sonido ukar mayjt'aña nayrax sumpi."
+  - "Soporte ukat mayni cargar ukan sapa uñjañan wakisiñ ukax sumpi ukat jupanakax jaqhaña."
+  - "Aplicación permisonakax ukat yatiyañanakax uñjaña: HIPAA ukax janiw sapa jaqi celular ukan imasitanakax jark'aqañ."
 faq:
-  - q: "¿Kunjamatsa iPad ukan aplicación jan mayni saraña jark'añ?"
-    a: "Settings > Accessibility > Guided Access ukan Guided Access kutt'ayañ, ukat passcode qillqañ. Aplicación uñjañ, pantalla alxa botón ukar kimsa kutiw t'ijtaña (jan ukax Home botón, nayra iPad ukanakan), ukat Start ukar t'ijtaña. Passcode ukax mayni jaqi jiwasa jan ukax jaqi yatiñ jark'ataw iPad ukax aplicación ukan sayt'ani."
-  - q: "¿Kunjamatsa Android tableta mayni aplicación ukan jark'añ?"
-    a: "Settings ukan app pinning kutt'ayañ, ukax Security (jan ukax Security & location) > Advanced > App pinning ukan utjaraki. Ukatxa aplicación uñjañ, Overview uñjañ, aplicación ukan ícono ukar t'ijtaña ukat Pin ukar t'ijtaña. PIN, patrón jan contraseña mayni desbloqueañataki wali."
-  - q: "¿Jupa celular ukan Guided Access lurañ waliraktati?"
-    a: "Jan sapa lurañ. Apple qillqi: Guided Access utjatap ukhaxa Crash Detection ukat Emergency Services jan lurañ atipkiti. Jupa celular ukar emergencia llamadanakataki yanapt'atäspa ukhaxa, Guided Access jumampi sapa uñjasaw lurañ, jan ukax Assistive Access uñjañ."
-  - q: "¿Kunjamasa demencia jaqitaki pantalla uñjañ wali?"
-    a: "Janiw jakhu chiqa utjkiti. Sapa uñjasiñ lurañ, sapa purinaka, arsutanaka, irnaqañanaka ukat parlañanakampi chikt'añ, sapa pantalla ukan kusisiñ sipansa walja tuqi sum uñjañ. Tableta ukax jan walt'awinaka luraspa jan ukax yaqha lurañanaka jaytaspa ukhaxa, akham jak'ankañ."
+  - q: "¿Kunas demencia jaqix iPad ukan aplicación ukax jan mayt'aspaña?"
+    a: "Settings > Accessibility > Guided Access ukar mantañamataki Guided Access ukar qalltaña, ukat passcode ukax churaña. Aplicación ukar uñjañatakix, sayt'aña tuqinx jakhu botón kimsa kuti pitaña (jan ukax, nayra iPad ukanxa Home botón), ukat Start ukar kayt'aña. iPad ukax kunapachatakama jupa aplicación ukan sayt'ani, passcode ukax jan mantasiñ."
+  - q: "¿Kunas Android tablet ukax mä aplicación ukaru katuntañ?"
+    a: "Settings ukan app pinning ukar mantañamataki, nayraxa Security (jan ukax Security & location) > Advanced > App pinning ukanxa. Ukatxa aplicación ukar uñjañamataki, Overview ukar mantañamataki, aplicación ukan icono ukar kayt'aña ukat Pin ukar kayt'aña. Ukaxa PIN, patrón jan ukax password ukax jan mayt'añatakix mayiñ."
+  - q: "¿Jaqi celular ukan Guided Access ukax jan ch'ajwaña?"
+    a: "Jiwasax jark'añasa. Apple ukax yatiyi, Guided Access ukan Crash Detection ukat Emergency Services ukax janiw utjkiti. Jaqix emergencia tuqi celular ukar apnaqañ munaspa, Guided Access ukar jiwasa sapa jakasiñ ukanxa apnaqañ, jan ukax Assistive Access ukar ocuña."
+  - q: "¿Kunjamasa demencia jaqitakix pantalla pacha sum?"
+    a: "Janiw kunat jakhu uñt'ataña. Jukʼa, jiwasa jakasiñ ukan pantalla ukax sarañ, sartaña, ch'uyña, lurañ ukat parlañanakampi sum jakañ. Pantalla ukan sapa jakasiñax jan sum, ukat amuyaskañ janiw yanapkiti; ukhamasti jukʼamp apnaqañ."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +67,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-Tableta ukax jan walt'awinaka jaytañ sipansa, uñjañ sum jikxatañ ukat sapa lurañ uñacht'ayañ. Ukampisa sapa uñjasiñ, jan amuyasiñ lurañanaka, sapa uñjañ qillqañ jan sum uñjasa, jan ukax pantalla jaqhi sartañ ukanakax jan walt'awinaka lurañ atipxi. Ukanakar sum uñacht'ayañ sapa qalltañ sipansa lurañ wali.
+Tablet ukax jaqi jiwasamp qillqatanakaru, arsutanakaru ukat sum jupanakaru uñjañ sum wakisi. Ukampirusa ch'iqi tuqiruw jan wali: mä ch'iqi jakhuñax yaqha aplicación ukar sarayi, yatiyaña mantayi, qillqax jukʼa uñjasi jan ukax pantalla jan lupʼ'atäna. Jiwasa nayraw sum wakichaña ukax wali askiwa.
 
-Akanakax iPhone, iPad ukat Android ukan utjiri uñacht'ayañ lurañanakampi yatiyasiñ. Lurañ sutinakax sistema mayjt'ayañ ukat fabricante mayjt'ayañ ukanakan mayjt'anukuspa, ukhamasti jan kunatakis uñjasa, Apple jan Google yanapt'iri sarnaqañ uñjañ. Jumax lurañ kunapachatak jupanakampi qhiparu sarañ sipansa, sapa lurañ uñacht'ayañ.
+Ukanakax iPhone, iPad ukat Android ukan wakichat ukar apnaqañanakaw. Menú sutinakax mayjt'anirakiwa, ukhamarakix sapa kamachi ukat sapa warmi ukan mayjt'asiñapa, ukatwa jumax uñjañ munaski ukar sarañ Apple jan ukax Google qillqatar sarañ. Jumax wakichañ nayra jumanakampi chika qillañ.
 
-## ¿Demencia jaqitaki tableta jan celular uñjañ wali?
+## ¿Demencia jaqix tablet jan celular ocuñapa?
 
-Jupa jaqirux mayt'atawa. Walja jaqinakax tableta jumampi sayt'asisa uñjañ kusisiñ, jupanakax sapa lurañ jan atipxi ukhamarakiw. Qalltañ ukanx jumampi mayni aplicación uñjasaw, sapa qhiparu ukat sapa qillqañ uñjañ. Kusisiñ ukat parlañ utjaspa ukhaxa, sarnaqañ. Jan walt'awinaka jan ukax jan kusisiñ utjaspa ukhaxa, fotonaka, qillqat hojanaka jan ukax arsutanaka walikiw. Jiwasan [printable activities](/activities/printable/) ukanakax yaqha thaki.
+Chiqapuniw jaqi ukan sarañapawa. Walja jaqinakax tablet ukar apnaqañ munapxi, ukampirusa jupanakax janiw sapa jupanakax ukar apnaqañ atipxi. Qalltañatakix jumampi chika apnaqañ, mayni aplicación ukampi, pä ukat kimsa minuto ukanakan. Sum yatiyaña ukat parlaña utjataki, sarañ. Ch'iqi utjataki jan kusisiña ukat jan sum sartasiñ ukhaxa, qillqata álbum, qillqata páginas jan ukax arsutanakax ancha sumpi. [Qillqata lup'iñanaka](/activities/printable/) ukax yaqha ch'amawa.
 
-Tableta ukax celular sipansa sasiñ sumawa: pantalla ukat fotonakax jach'awa, ukat jupa jaqix emergencia llamanakataki sarnaqañ jan utjiti.
+Tablet ukax celular ukat juk'at sum: pantalla ukat qillqanakax jach'awa, ukatx janiw jaqi emergencia ukan celular ukakiti.
 
-## ¿Kunjamatsa tableta jan celular mayni aplicación ukan jark'añ?
+## ¿Kunjamasa tablet jan celular ukar mä aplicación ukaru katuntaña?
 
-Guided Access iPhone ukat iPad ukan, jan ukax app pinning Android ukan lurañ. Ukanakax pantalla mayni aplicación ukan imapxi, jumax código ukar mantañ kamaki, ukhamat jan kuna t'ijtañ jan ukax jaltañ jan jark'asiñapataki.
+Iphone ukat iPad ukanxa Guided Access ocuñ, Android ukanxa app pinning ocuñ. Ukanakax pantalla ukar mä aplicación ukar katuntañ, kunapachatakama mä código jan churañ, ukhamasti jan kiskt'añ.
 
 ### iPad ukat iPhone: Guided Access
 
-[Apple ukan Guided Access yatichañanakampi](https://support.apple.com/en-us/111795):
+[Apple ukan Guided Access yatiyañanakat](https://support.apple.com/en-us/111795):
 
-1. **Settings** ukar mantañ, **Accessibility** t'ijtañ, ukat **Guided Access** t'ijtaña ukat kutt'ayañ.
-2. **Passcode Settings** ukan Guided Access passcode qillqañ. Face ID jan Touch ID ukar yapt'añwa.
-3. Ajanuka: **Display Auto-Lock** ukan, pantalla kunapachas alxataña ukar ajllañ, ukhamat jan juk'ampi jaytañapataki.
-4. Aplicación uñjañ.
-5. Lado botón ukar kimsa kutiw t'ijtaña (iPhone), alxa botón ukar (iPad), jan ukax nayra qhiparu Home botón ukar.
-6. Ajanuka: pantalla ukan janiw t'ijtañ munañ sapa tuqinakar qillqañ. **Options** (jan **Session Settings**) ukar t'ijtaña, sonido botonanaka jan pantalla qhipt'añ jark'asiñataki.
-7. **Start** ukar t'ijtaña.
+1. **Settings** ukar kayt'aña, **Accessibility** ukar kayt'aña, ukatx **Guided Access** ukar kayt'aña ukat qalltaña.
+2. **Passcode Settings** ukan Guided Access passcode ukar churaña. Face ID jan Touch ID ukar apnaqañ ukax yanapt'a.
+3. Ajanuka: **Display Auto-Lock** ukan, pantalla kunapacha mayni jakhuña ukar ajuñ, ukhamasti sarañ jan tuntuñapataki.
+4. Aplicación ukar kayt'aña.
+5. Lateral botón (iPhone), arriba botón (iPad) jan Home botón (nayra aparatonakan) kimsa kuti pitaña.
+6. Ajanuka: pantalla ukan jan uñjasiñ munat chiqanakar sarañ. **Options** (jan **Session Settings**) ukar kayt'aña, ukhamasti volumen botónanakax jan lurañapataki jan ukax pantalla jan muyuñapataki.
+7. **Start** ukar kayt'aña.
 
-Sarnaqañ tukuñataki, jupa botón ukar kimsa kutiw t'ijtaña, passcode mantañ, ukat **End** ukar t'ijtaña. Apple qillqi: nayra software ukanakan jumax kimsa kutiw jan ukax paya kutiw t'ijtaña wali.
+Sesión ukar tukuñataki, mayja kuti ukat kimsa kuti pitaña, passcode ukar mantañ ukat **End** ukar kayt'aña. Apple ukax yatiyi, nayra softwarenakan kuti kayt'añ ukhamarakiw.
 
-**Yatiñani:** Apple qillqi: Guided Access sarnaqañ ukan Crash Detection ukat Emergency Services jan lurañ atipkiti. Jupa celular ukan emergencia llamanakataki wali ukhaxa, Guided Access jan qhiparu sayt'ayañamawa.
+**Sum uñjaña:** Apple yatiyi, Guided Access sesión ukan Crash Detection ukat Emergency Services janiw utjkiti. Jaqi emergencia tuqi celular ukar Guided Access jan jaytañ.
 
 ### Android: app pinning
 
-[Google ukan Android yanapt'iri pantallanakan pinning yatichañanakampi](https://support.google.com/android/answer/9455138?hl=en):
+[Google ukan Android yanapt'awi ukan pantalla pinning ukat](https://support.google.com/android/answer/9455138?hl=en):
 
-1. **Settings** aplicación ukar uñjaña.
-2. **Security** (jan **Security & location**) t'ijtaña, ukat **Advanced**, ukat **App pinning** t'ijtaña. Janiw uñjasmati ukhaxa, fabricante ukan yanapt'iri uñjaña.
-3. **App pinning** kutt'ayaña. PIN, patrón jan contraseña mayni desbloqueañataki wali.
-4. Aplicación uñjaña. Pantalla tuqi alxata, ukat chiqan sayt'aña, ukhamat Overview uñjaña (jan 3-botón navegación ukan Overview t'ijtaña).
-5. Aplicación uñjatap alaxpachan, aplicación ícono ukar t'ijtaña, ukat **Pin** t'ijtaña.
+1. **Settings** aplicación ukar kayt'aña.
+2. **Security** (jan **Security & location**) ukar kayt'aña, ukatx **Advanced**, ukatx **App pinning**. Janiw uñjkiti ukhaxa, aparato uñjirinakan yanapt'awinakapar sarañ.
+3. **App pinning** ukar qalltaña. PIN, patrón jan password ukax jan mayt'añatakix mayiñ.
+4. Aplicación ukar kayt'aña. Pantalla tuqinkama khepaña ukat mayt'aña, Overview ukar mantañataki (jan ukax 3-botón navegación ukanxa Overview ukar kayt'aña).
+5. Aplicación ukan uñjasiñ ukan alaxpacha, aplicación ukan icono ukar kayt'aña, ukatx **Pin** ukar kayt'aña.
 
-Gesto navegación ukan kutt'ayañataki, tuqi alxata ukat sayt'aña. 3-botón navegación ukan Back ukat Overview ukanakar sayt'aña. 2-botón navegación ukan Back ukat Home ukanakar sayt'aña. Ukatxa PIN, patrón jan contraseña mayni qillqaña.
+Gesto navegación ukampi jan pinkaña ukhaxa, jakhuñ khepaña ukat mayt'aña. 3-botón navegación ukanxa Back ukat Overview ukar sayt'aña. 2-botón navegación ukanxa Back ukat Home ukar sayt'aña. Ukatxa PIN, patrón jan password ukar mantaña.
 
-## ¿Jach'a iPhone jan iPad ukatak sapa uta ch'uqi mode utjaspa?
+## ¿Aka iPhone jan iPad ukan sum sarañ wakisi?
 
-Utjaraki. Apple ukan Assistive Access ukax nayra home screen ukar sapa uta ch'uqi uñacht'ayi. [Apple qillqi](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) akham: iPhone sapa lurañ uñjañ sasiñ jan walt'awi jaqinakataki sumaqarakiw lurat, jach'a ícono ukat yatiñ sapa lurañanakampi. Apple ukax [iPad ukan ukhamarak](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) utjaraki.
+Jisa. Apple ukan Assistive Access ukax nayra pantalla ukar jukʼamp wakisiñ ukar churaña. [Apple yatiyi](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ukax jaqinakatakix sumpi amuyasiñataki, jach'a uñjañanakampi ukat jukʼa ch'amanakampi. [Apple ukax iPad ukanxa ukhamarakiw](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **¿Khitis lurañ?** Apple qillqi: jumanakan yanapt'iri jaqi, jupa jaqi yati ukax aplicaciones jan ukax lurañanaka ajllañ yanapt'añ.
-- **¿Kawkirus qalltañ?** **Settings > Accessibility > Assistive Access** ukar sarañ, **Set Up Assistive Access** t'ijtaña, ukat **Continue** t'ijtaña.
-- **Aplicaciones.** Jumax ajllta kunanakas uñjasiñ. Apple ukan walja aplicaciones sum uñjañ sumawa, ukat yaqha aplicaciones ukanakax jupanakan sapa diseño ukampi uñjasiñ.
-- **Layout.** **Rows** (sum uñjañ lista) jan **Grid** (jach'a lurañanaka, uñjañ fotonaka ukat íconos) ajllaña.
-- **Passcode.** Assistive Access ukan passcode ukax mayni: mantañ, jaltañ jan qhanañanakar uñjañ. Apple qillqi: qalltañ ukan recovery Apple Account ukar yapt'añ wali, jan ukhaxa passcode jan amuyasiñ ukan aparatu ukar reset lurañ.
+- **Khitix wakichaspa.** Apple yatiyi, jaqi sum uñjiri, kawkitix jupa ukar yatipki, ukax aplicación ukanakar ajlliñ yanapt'aña.
+- **Kawkir qalltaña.** **Settings > Accessibility > Assistive Access** ukar sarañ, **Set Up Assistive Access** ukar kayt'aña, ukatx **Continue** ukar kayt'aña.
+- **Aplicaciones.** Jumax ajllta kuna aplicación uñjasiñapa. Apple ukan mayni aplicaciones jukʼamp wakisiñ utjaraki, walja yaqha aplicaciones ukhamaraki yaqha ukhamanakaw utjaraki.
+- **Diseño.** **Rows** (jukʼamp uñjaña lista) jan **Grid** (jach'a icononaka, qillqanakampi) ajllt'aña.
+- **Passcode.** Assistive Access ukan mantañ, mayjt'añ jan wakisiñ ukanakatakix mayni passcode churaña. Apple yatiyi, wakichañ ukan recuperación Apple Account ukar churaña, ukhamasti passcode ukax jan yatiñajj, aparato ukar jan lurañatakix.
 
-Assistive Access ukax jupa aparatu ukar sapa uru sarnaqirinakataki wali. Guided Access jan ukax app pinning ukax mayni lurañ sapa sum uñjañatakiw.
+Assistive Access ukax jaqi sapa uru apnaqañ aparato ukar yanapt'añ. Pantalla jaqinakampi chikaru sarañ ukhaxa, Guided Access jan ukax app pinning ukax sumpi.
 
-## ¿Kunjamatsa qillqañ jan fotonaka jach'achañ?
+## ¿Kunjamasa qillqanakax jach'a uñjañanakax wakisi?
 
-Qillqañ ch'ama ukat pantalla uñacht'ayañ jach'achañ, ukatxa botonanakax pantalla ukan sum sayt'aspa uñjañ.
+Qillqa jach'anchaña ukat pantalla lupʼ'añ, ukat botónanakax pantalla ukan sum uñjasiñapataki uñjañ.
 
-**iPhone ukat iPad.** [Apple qillqañ yatichañanakan](https://support.apple.com/en-us/102453) akham: **Settings > Display & Brightness > Text Size** ukar sarañ, ukat slider ukar jaqhuña. Juk'ampi jach'a qillqañataki, **Settings > Accessibility > Display & Text Size > Larger Text** ukar sarañ. Apple qillqi: jach'a qillqañ ukax botonanakar t'ijtañ jark'antaspa, ukhamasti wali ukhaxa lurañ.
+**iPhone ukat iPad.** [Apple ukan qillqa tamañ yatiyañanakat](https://support.apple.com/en-us/102453), **Settings > Display & Brightness > Text Size** ukar sarañ ukat jaljt'aña. Jukʼamp jach'a qillqanakataki, **Settings > Accessibility > Display & Text Size > Larger Text** ukar sarañ. Apple yatiyi, jach'a qillqax botónanakar kayt'añ jukʼamp ch'amañchi, ukhamasti wakisiñ utjchi.
 
-**Android.** [Google ukan qillqañ ukat pantalla yatichañanakan](https://support.google.com/accessibility/android/answer/11183305?hl=en) akham: **Settings** ukar sarañ, **Font size** ukar thaqhañ, slider ukar jaqhuña. **Display size** ukar thaqhaspa pantalla ukan lurañanaka jach'achañ. **Accessibility > Display size and text** ukan **Bold text** ukar kutt'ayañ jan ukax. Walja aplicaciones janiw kunapachatakis ukanak katuqkiti.
+**Android.** [Google ukan qillqa ukat pantalla yatiyañanakat](https://support.google.com/accessibility/android/answer/11183305?hl=en), **Settings** ukar kayt'aña ukat **Font size** ukar thaqhaña, ukatxa jaljt'aña. Pantalla tamañ jach'a uñjañataki, **Display size** ukar thaqhaña. **Accessibility > Display size and text** ukan **Bold text** ukar ukhamarakiw ajllt'aña. Waljaniw aplicacionanakax janiw kunjamäkis yatiyañanakar uñt'kiti.
 
-[Picture Pairs](/games/picture-pairs/) ukat [Find the Same](/games/find-the-same/) ukanakan, jumax janiw walja tile jan ajllawinak ajllañ, ukhamat pantalla sasiñ sumawa.
+[Picture Pairs](/games/picture-pairs/) ukat [Find the Same](/games/find-the-same/) ukanakan, jukʼamp tejanaka jan ukax ajllinaka ajllt'añ, pantalla ukan sum uñjaña.
 
-## ¿Kunjamatsa alertas ukat pop-up ukanak jark'añ?
+## ¿Kunjamasa jan yatiyañanaka ukat jaytañ ukanaka jark'aqaña?
 
-Jan wali aplicaciones ukanakan alertas jark'añ, ukat lurañ ukan Do Not Disturb ukar ocupañ.
+Janiw wali aplicación ukanakan yatiyañanaka utjañapa, ukat actividades ukan Do Not Disturb ukar apnaqañ.
 
-**iPhone ukat iPad.** **Settings > Notifications** ukar sarañ, **Notification Style** ukan aplicación ukar t'ijtaña, ukat **Allow Notifications** jark'añ ([Apple ukan alertas yatichaña](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Llamadanaka, alertas ukat notificaciones jark'añataki, Control Center ukar mantañ ukat **Focus** ukan **Do Not Disturb** kutt'ayañ ([Apple ukan Do Not Disturb yanapt'iri](https://support.apple.com/en-us/105112)). **Settings > Focus > Do Not Disturb > Set a Schedule** ukan dia ukat uru ajllañ.
+**iPhone ukat iPad.** **Settings > Notifications** ukar sarañ, aplicación ukar kayt'aña **Notification Style** ukan, ukatx **Allow Notifications** ukar jan ajllt'aña ([Apple ukan yatiyañanaka](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Llamadas, alertas ukat yatiyañanaka ch'ajwañataki, Control Center ukar sarañ, **Focus** botón ukan **Do Not Disturb** ukar kayt'aña ([Apple ukan Do Not Disturb yanapt'awi](https://support.apple.com/en-us/105112)). **Settings > Focus > Do Not Disturb > Set a Schedule** ukan horario churaña.
 
-**Android.** Alaxpachat qhiparu sarañ, **Do Not Disturb** t'ijtaña, jan ukax **Settings > Modes > Do Not Disturb** ukar sarañ ([Google ukan Do Not Disturb yanapt'iri](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters** ukan, khitinakas jan ukax aplicaciones mayni notificaciones ukar katuqañ ajllañ. Lurañanakax aparatu fabricante ukan mayjt'ayañ.
+**Android.** Alaxpacha qhanqhat khepaña ukat **Do Not Disturb** ukar kayt'aña, jan ukax **Settings > Modes > Do Not Disturb** ukar sarañ ([Google ukan Do Not Disturb yanapt'awi](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters** ukan khitinakatix ukat aplicaciones ukanakatix yatiyañanakar mantañ ajllt'aña. Aparato uñjirin ukat jaqi ukanakax yaqha ukhamaw.
 
-## ¿Kunjamatsa sapa uta ch'uqi home screen lurañ?
+## ¿Kunjamasa sum pantalla nayra uñjaña wakichaña?
 
-Mayni yatiñ aplicaciones kimsa jan pusi mayni uta ukan imaña, yaqha aplicaciones ukanak jark'añ. Mayni lurañ jan utjiti; jupax janiw kunas pistʼañ, jan ukax jan kuna ch'iqinak jaytañ.
+Mä pantalla ukan walja uñjat aplicaciones ukanakar churaña, yaqha ukanakar jan uñjañapataki. Mä sapa yatiyañ janiw utjkiti; ukax wakisiñ qhana aptañawa.
 
-- **Kimsa jan pusi aplicación ajllañ.** Por ejemplo: fotonaka, arsutanaka, video llamadas aplicación ukat maysa juego.
-- **Nayra pantalla ukan imaña,** sapa qhiparu sapa chiqanakan, ukat yaqha lurañanakar segundo pantalla jan ukax carpeta ukan imaña.
-- **Sum uñjañ wallpaper ukar ajllañ,** taqi color maysa jan maysa yati foto, ukhamat íconos sum uñjasi.
-- **Jan wali aplicaciones jark'añ.** Walja aplicaciones jan utjaspa ukhaxa, jan amuyasiñ utjkiti, datos ukat jan utjañ.
-- **Apple aparatu ukan Assistive Access ukar lurañ** munaspa ukhaxa, aparatu ukax ukar lurañ.
+- **Kimsa jan suxta aplicación ajllt'aña.** Por ejemplo, qillqanakax, arsutanakax, videollamadas ukat mä juego.
+- **Nayra pantalla ukan sapa uru churaña**, sapa lugar ukan, yaqha aplicacionanakax segundo pantalla jan carpeta ukan churaña.
+- **Sum uñjaña fondo ukat qillqa ch'uxña**, mä color jan mä qillqa uñjat ukax icononaka sum uñjasiñapataki.
+- **Janiw ocuñ aplicaciones jaytañ.** Jukʼa aplicaciones ukanakax jan yatiyañ, ukhamarakiw jan kunatix jaqinakax uñjasi.
+- **Assistive Access ukar apnaqañ** Apple aparatonakan, aparato ukax akham lurañapataki.
 
-## ¿Kunjamatsa sonido ukat volumen?
+## ¿Kunjamasa sonido ukat volumen?
 
-Aparatu ukar churañ sipansa, sum uñjañ volumen ajllañ. Guided Access ukan sonido botonanak jark'añ, ukhamat sapa lurañ ukan jan mayjt'ayasiñ. Oídos ukan audífonos utjaspa ukhaxa, jupanakax wali sarnaqañapawa.
+Aparato jaqi ukar churañ sapa mayni volumen ukar sum churaña. Guided Access ukampi volumen botónanakax jan ch'ajwañataki. Jaqi jan uñjaña audífonos ukanakax sum wakisiñ ukar uñjaña.
 
-## ¿Kawkitsa tableta uñjañ wali?
+## ¿Kawkitix tablet ukax utjañapa?
 
-Stand ukar ukat jan jakhuntañ carga ch'uqi churañ.
+Mä soporte ukar jan sapa mayjt'añ ukhamarakiw chiqa cargador ukar utjañapa.
 
-- **Stand jan funda** ukax tableta ukan sayt'ayañ, ukhamat khitis janiw apaqañkiti, ukat t'ijtaña sasiñ.
-- **Jan jakhuntañ carga ch'uqi,** wali uru sarnaqañ ukan, mesa ukan stand ukampi. Tableta sapa uru carga utjañ, sapa chiqan.
-- **Ch'iqi jan utjañ.** Pantalla ukax jach'a qhanañ ukan jan uñjañ.
+- **Mä soporte jan funda** tablet ukar mesa ukan sayt'ayañataki, jan khitis aparato ukar aptañapataki, ukhamarakiw uñjaña sum.
+- **Mä chiqa cargador** sapa uru uñjat utaxa, mesa jan jak'aña uta ukan, ukhamasti tablet ukax sapa uru cargado ukat sapa uru chiqan.
+- **Ch'anlli ch'ukhuña.** Pantalla jach'a khanat jan utjañapataki.
 
-## ¿Kunjamatsa sapa uru pantalla?
+## ¿Kunjamasa pantalla pacha sum?
 
-Janiw chiqa minuto jakhu utjkiti. Sapa uru, mayt'at lurañanakampi chikt'añ: sarnaqaña, arsutanaka, utan irnaqañanaka, parlañanaka ukat jaya pacha. Tuqi jan walt'awinaka uñjasiñ, pantalla lurañ jark'añ. Jumax jaqi uñjañ ukat [late-day restlessness](/caregiving/late-day-restlessness/) ukanakan yatichañanaka uñjañ.
+Janiw kunat jakhu uñt'ataña. Jukʼa, jiwasa jakasiñ ukan pantalla ukax sarañ, mä sapa jakasiñ ukanxa ch'uyña, lurañ, arsutanakax ukat jaya uñjañ. Qhipa uru amuyasiñ ukar sarañ ukhaxa, pantalla ukar jukʼamp apnaqañ. Ukhamarakiw [qhipa urun sum lurañanaka](/caregiving/late-day-restlessness/) uñjañ.
 
-Tableta ukar mayni lurañ, jan kuna jark'añ, sociable ukhamaw. [Playing games together](/caregiving/how-to-play-together/) ukan kunjamatsa lurañ yatiñ.
+Tablet ukar jiwasa sapa jakasiñ ukanxa apnaqañax, jaqi sapa jakasiñ ukar sarañ. [Jiwasa juegonakar sarañ](/caregiving/how-to-play-together/) yatiyañ yanapt'i.
 
-## ¿Kunjamatsa jupa aparatu ukan privacidad jark'añ?
+## ¿Kunjamasa privacidad ukar imañ?
 
-Aplicaciones kuna yatiñ jark'añ, ukat salud privacidad kamachi janiw taqi ukar katuqkiti sañäni. Estados Unidos ukan Department of Health and Human Services (HHS) [qillqi](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) akham: HIPAA kamachi janiw celular jan tableta ukan utjañ salud yatiñanak jark'kiti. Walja uru, aplicaciones ukan personal uso ukan yatiñanak HIPAA janiw jark'kiti, jupa health care provider, health plan jan jupanakan business associate ukat janiw utjkaspa ukhaxa.
+Aplicaciones ukat kunanakar apthapiñ ukar jukʼamp uñjañ, ukat salud ukan ley ukax sapa uru uñjkiti. Estados Unidos ukan [Departamento de Salud (HHS)](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) yatiyi, HIPAA ukan reglas ukax sapa uru jaqi celular jan tablet ukan imasitanakar jark'aqañ jan utjkiti. Walja kutinakan, HIPAA ukax jaqi sapa uru apnaqañ aplicaciones ukan yatiyañanakar jark'aqañ janiw utjkiti, aplicación ukax salud yanapt'iri jan seguro ukan khitinakatix utji ukar jan uñjasiñ.
 
-HHS yanapt'i:
+HHS yatiyi:
 
-- jan wali jan kunayman aplicaciones uñjañ, "free" ukanakar uñjañ;
-- ubicación ukar jan qhiparu aplicaciones mayni iyawsañ, mapas ukat yaqha chiqanakan.
+- jan wali jan kunatix aplicaciones ukanakar jan apnaqañ, khitinakatix "gratis" sañ;
+- aplicación ukar ubicación jan churañ, jan mayni chiqar mapas ukar yanapt'añataki.
 
-Ukhamarak:
+Ukhamarakix uñjañ:
 
-- **Passcode lurañ** aparatu ukan, ukat sum imaña.
-- **Permisos uñjañ:** fotonaka, cámara, micrófono, contactos ukat ubicación. Aplicación ukan jan wali ukanak jark'añ.
-- **Aplicación instalar sipansa yatiñ** kuna yatiñ katuqañ. [Choosing dementia apps and games](/caregiving/choosing-apps-and-games/) ukan privacidad checklist utjaraki.
-- **Familia fotonaka uñjañ wali.** Jupa jaqi sum uñjañ fotonakar uñjañ, ukat aplicación ukan kawkhans imaña yati. [Photo Pairs](/games/photo-pairs/) ukan, jumax ajllta fotonakax nayraqat browser ukan utjaraki.
-- **Aplicación ukan compras jark'añ** jan ukax jupa jaqi cuenta ukan pago datos jark'añ.
+- **Aparato ukar contraseña** churaña, ukat sum imañ.
+- **Permisonakar uñjaña** fotos, cámara, micrófono, contactos ukat ubicación ukanakar, aplicación ukax jan munkiti ukanakar jan churañ.
+- **Aplicación ukax kunanakar apthapi ukar uñjaña** jan instalar sapa. [Salud jan juego ajllt'añ](/caregiving/choosing-apps-and-games/) qillqata ukan privacidad lista utji.
+- **Familia fotonakar sum apnaqaña.** Jaqi munaski ukanakar uñjañ, ukat aplicación ukax kawkir imañ uñjaña. [Photo Pairs](/games/photo-pairs/) ukan, ajllt'ata fotonakax nayra navegador ukan qhiparu.
+- **Pagos ukanakar jan churañ** jaqi apnaqaña cuentanakan jan jan mayni chiqar.

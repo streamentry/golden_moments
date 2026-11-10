@@ -1,32 +1,32 @@
 ---
-title: "Aktiviti blong Dimensia we i Stat Bifo 65 Yia: Ol Aidia"
-seoTitle: "Aktiviti blong Dimensia we i Stat Bifo 65 Yia"
-description: "Aktiviti blong dimensia we i stat bifo 65 yia: ol hobi, aotin, mizik blong yangfala taem, mo sapot blong ol paotna mo ol pikinini we oli adalt."
+title: "Aktiviti blong Dementia we i Stat Taem Man i Yangfala"
+seoTitle: "Aktiviti blong Dementia we i Stat Taem Man i Yangfala"
+description: "Aktiviti blong dementia we i stat bifo 65 yia: ol hobi, ol trip, miusik blong yangfala yia, mo sapot blong ol partner mo ol pikinini we oli bigfala finis."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Dimensia we i stat bifo 65 yia i kam taem man i stil wok, i stil draevem
-  motokar o i stil lukaotem ol pikinini. Kipim ol hobi mo ol fren blong hem,
-  jusum ol aotin we oli fit wetem hem, yusum mizik mo ol foto blong ol yia blong
-  hem, mo letem hem i stap long ol plan. Ol paotna mo ol pikinini we oli adalt
-  tu oli nid sapot, mo Alzheimer's Association i ranem ol grup blong olgeta.
+  Early-onset dementia i stat bifo man i kasem 65 yia, taem man ia i stap wok,
+  draev o i stap lukaotem ol pikinini. Kipim ol hobi mo ol fren blong hem,
+  jusum ol trip we i olsem blong hem, yusum miusik mo ol piksa blong ol yia blong
+  hem, mo letem hem i stap jusum ol plan. Ol partner mo ol pikinini we oli bigfala
+  finis tu oli nidim sapot, mo Alzheimer's Association i gat ol grup blong olgeta.
 keyPoints:
-  - "Dimensia we i stat bifo 65 yia. Ol man oftaen i filim se yia blong olgeta i no mas wetem ol aktiviti we oli ofa."
-  - "Kipim man ia i stap long jus blong hem, from hobi we i traem i go kasem aotin we i plan."
-  - "Mizik, foto mo stori from taem blong hem long 20 mo 50 yia oftaen i moa minim long hem than ol aktiviti blong laef we i old."
-  - "Stap wok mo stap wetem ol narafala taem hem i wantem, mo jenjem spid blong hem, nating jenjem aktiviti."
-  - "Ol man we oli lukaotem, espesiali ol paotna mo ol pikinini we oli adalt, oli kasem helpem from ol grup sapot blong ol man we oli wan kaen."
+  - "Early-onset dementia i stat bifo 65 yia. Ol man mo woman oftenstaem oli feel se ol aktiviti we oli stap offer i no rait long yia blong olgeta."
+  - "Letem man ia i stap jusum ol samting blong hem, from wanem hobi we hem i wantem traem to wanem trip we hem i wantem plan."
+  - "Miusik, piksa mo stori blong taem blong hem long 20 to 50 yia ofen i gat moa min long hem se ol aktiviti blong laef blong hem we i bigfala."
+  - "Stap aktiv mo stap wetem ol narafala taem hem i wantem, mo jenisem pes blong hem, i no jenisem aktiviti ya."
+  - "Ol man mo woman we oli lukaotem, espeseli ol partner mo ol pikinini we oli bigfala finis, oli save gat gud long ol grup sapot blong ol man we oli sem olsem olgeta."
 faq:
-  - q: "Wanem nao dimensia we i stat yet?"
-    a: "Hemi dimensia we i stat bifo 65 yia. Alzheimer's Association i talem se Alzheimer's i kam younger-onset taem hemi affektem man we i andanit long 65 yia. Hemi no kamon olsem dimensia we i kam long laef we i old, be hemi no rea. Eksperiens blong hem tu i defren: man ia i save i stil wok, draevem motokar mo lukaotem pikinini."
-  - q: "Wanem aktiviti i fit long man we i gat dimensia we i stat yet?"
-    a: "Ol aktiviti we i matsem laef blong hem olsem adalt oli moa gud: hobi we hem i save long hem, wokbaot wetem fren, wok blong volunteer, wok blong kukum kakae blong famili, mizik blong yangfala taem blong hem, o trip i go long ples we hem i laekem. Letem hem i jusum, mo jenjem lengten mo ol man we oli stap wetem hem, nating jenjem aktiviti seleva."
-  - q: "Ples wea paotna o pikinini we i adalt i save faenem sapot i stap wea?"
-    a: "Alzheimer's Association i gat ol fri grup sapot blong ol man we oli lukaotem, inkludim ol grup blong man we i lukaotem man we i gat younger-onset dimensia. Yu save kolem 24/7 Helpline blong hem long 800.272.3900 blong askem abaot ol grup mo ol risos."
-  - q: "Eni taem man we i gat dimensia we i stat yet i save kontinu long ol aktiviti we hem i laekem?"
-    a: "Yes, sipos hem i sef mo hem i wantem. Ol hobi, ol jos komuniti, wok blong bodi mo taem blong stap wetem ol narafala, evri samfala i pat blong laef we i fulfulap. Jenjem ples, kasem wan man blong stap wetem hem, mo plenem taem blong spel. Mo stopem taem aktiviti ia i no moa mekem hem i filim gud."
+  - q: "Wanem nao early-onset dementia?"
+    a: "Hemia dementia we i stat bifo 65 yia. Alzheimer's Association i talemaot se Alzheimer's i kolem younger-onset taem i katem man we i anda long 65 yia. Early-onset i no kamaot olsem olgeta long dementia we i stat taem man i olfala, be i no seraen tumas, mo laef blong man ia ofen i defren: hem i save stap wok, draev mo lukaotem famli."
+  - q: "Wanem nao ol aktiviti we i fitim man we i gat early-onset dementia?"
+    a: "Ol aktiviti we i fitim laef blong hem olsem man we i yangfala i gud moa: wan hobi we hem i save, wokabaot wetem wan fren, wan wok blong volunteer, wan kakae projek blong famli, miusik blong yangfala yia blong hem, o wan trip i go long ples we hem i laekem. Letem hem i jusum, mo jenisem lelgt blong taem mo ol man we oli stap wetem hem, no jenisem aktiviti ya."
+  - q: "Ware nao wan partner o pikinini we i bigfala finis i save painim sapot?"
+    a: "Alzheimer's Association i gat ol grup sapot blong ol man we oli lukaotem we oli fri, inkludim ol grup blong ol man we oli lukaotem wan we i gat younger-onset dementia. Yu save kolem Helpline blong olgeta we i open 24/7 long namba 800.272.3900 blong askem long ol grup mo ol risos. Namba ia i namba blong US, so sipos i hadwan blong yu kolem, traem fastaem fandem wan sevis long ples blong yu."
+  - q: "Eniwe, man we i gat early-onset dementia i mas stap mekem ol aktiviti we hem i laekem?"
+    a: "Yes, sipos i seif mo hem i wantem. Ol hobi, ples blong lotu, fasin blong wokabaut mo taem blong stap wetem ol narafala, olgeta i part blong wan fulfil laef. Jenisem ples we oli stap, karem wan fren wetem hem mo plan taem blong malolo, mo stopem taem aktiviti ya i no gud long hem moa."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -45,45 +45,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Moa dimensia information i tokbaot ol man we oli long seventi o eiti yia. Long man we oli faenemaot hem long fotti o fifti yia, pikja blong ol dei blong hem i defren. Hem save i stil gat wok, ol bil blong haos, pikinini we oli stap long haos, o papa o mama blong hem we hem i mas lukaotem. Ol aktiviti oli mas soem se hem i stap long laef blong adalt. Gaed ia i talemaot wanem i jenj, wanem blong traem, mo wea ol paotna mo ol pikinini we oli adalt oli save faenem sapot.
+Ol infomeson blong dementia i tingting se man i stap long 70 o 80 yia. Long wan man we oli faenem hem long 40 o 50 yia, laef i defren. Hem i save gat wok, det, pikinini we oli stap long haos, o wan papa o mama we hem i mas lukaotem. Ol aktiviti oli mas soem se man ia i stap bigfala yet. Gaed ya i talemaot wanem nao i jenis, wanem nao yu save traem, mo ware ol partner mo ol pikinini we oli bigfala finis oli save painim sapot.
 
-## Wanem nao dimensia we i stat yet?
+## Wanem nao early-onset dementia?
 
-Early-onset dementia hemi dimensia we i stat bifo 65 yia, sam taem oli kolem younger-onset. [Alzheimer's Association's blog](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) i talemaot se Alzheimer's i younger-onset taem hemi affektem man we i andanit long 65 yia. Blog ia i talem tu se lukaotem man we i yangfala olsem i kasem "ol jalenj we oli yunik." Ol sain oli save sem olsem long laef we i old, be ekspektesen, responsibiliti mo sosol laef blong man ia oli no sem.
+Early-onset dementia i dementia we i stat bifo 65 yia, mo sumtaem oli kolem hem younger-onset. [Alzheimer's Association blog](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) i talemaot se Alzheimer's i kolem younger-onset taem i katem man we i anda long 65 yia, mo i talem se lukaotem wan man olsem i "gat ol hevi we i spesol." Ol simptom oli save sem olsem long laef we i olfala, be ol tingting, ol resposibiliti mo laef blong man we i no sem.
 
-From hemi no kamon, ol man oftaen i wet longfala taem bifo oli kasem dagnosis, mo famili oli save filim se oli no gat wan man blong tokbaot long hem. Save se ol narafala man oli stap long sem eksperiens i save givim fasin blong rilif.
+From se i no seraen tumas, ol man oli save wetem longfala taem blong kasem wan dgnosis, mo famli oli save filim olsem oli no gat ai man blong talem long hem. Save se ol narafala oli gat sem eksperiens i save hepem tumas.
 
-## Keepim adalt long aktiviti
+## Lukaotem man ia i stap wan adalt long aktiviti
 
-Ol adalt we oli gat early-onset dimensia oli no laekem blong treatem olsem ol pikinini. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i advaesem blong jenjem ol aktiviti long wanem man ia i stil save mekem mo i laekem. Long man we i long fifti yia, hemi save olsem:
+Ol adalt we oli gat early-onset dementia oli no laekem fasin blong trit olgeta olsem ol pikinini. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i advaesem blong jenisem ol aktiviti long samting we man ia i save mekem mo i laekem. Long man we i stap long 50 yia, ol samting ia i save minim:
 
-- **Kipim wan hobi we hem i save long hem,** olsem wud wok, spot, kad gem, buk klab o kwaea, wetem smol help o wan sot sesen.
-- **Wokbaot o raed saekol wetem wan fren,** long wan rut we hem i save gud.
-- **Kukum wan famili kakae,** wetem man ia i mekem ol pat we hem i save mekem.
-- **Volunteer o helpem long wan rol we hem i jusum,** olsem sotem ol gift, o helpem long wan skul ivent.
-- **Plan wan trip** i go long wan ples we i gat minim long hem, wetem wan fren mo wan simpol skedul.
-- **Spendem taem wetem ol pikinini blong pikinini, ol pikinini blong brata o sista,** we oli sherem wan gem o wan project.
+- **Kipim wan hobi we hem i save,** olsem woodwak, sport, kadgem, wan klab blong buk, o wan kwaea, wetem sam help o wan sot sesen.
+- **Wokabaot o raedem baesikol wetem wan fren,** long rod we hem i save gud.
+- **Kakae wan famli kakae,** wetem man ia i mekem ol pat we hem i save mekem.
+- **Volunteer o help aotsaed** long wan rol we hem i jusum, olsem sortem ol doneson o help long wan skul ivent.
+- **Plan wan trip** i go long wan ples we i impoten long hem, wetem wan fren mo wan simpol skedul.
+- **Spendem taem wetem ol grendpikinini, ol niis o ol nefiu,** taem oli soem wan gem o wan projek.
 
-Letem man ia i jusum. Askem "Wanem nao yu wantem mekem long afternun ia?" i moa respektful than we yu jusum long hem.
+Letem man ia i jusum. Askem "Wanem nao yu wantem mekem long afternun?" i gud moa long wan fasin blong respek, i smoll bitim jusum long hem.
 
-## Yusum mizik mo memori blong ol yia blong hem
+## Yusum miusik mo ol memori blong ol yia blong hem
 
-Mizik mo foto blong man ia long 20, 30 mo 40 yia save bringim ol warm filin mo ol toktok we i isi. Gaed blong [aktiviti blong mizik](/activities/music/) i eksplenem hao blong mekem wan playlist, mo [aktiviti blong tokbaot taem we i pas](/activities/reminiscence/) i sowem hao blong sherem foto mo stori withaot kwestin olsem test. Long wan moa adalt gem, traem [conversation cards](/games/conversation-cards/), wetem ol open kwestin abaot wok, trip, fren mo famili.
+Miusik mo ol piksa blong yia blong hem long 20, 30 mo 40 yia save bringim ol gud filing mo tok we i isi. [Ol aktiviti blong miusik](/activities/music/) gaed i eksplenem hao blong mekem wan playlist, mo [ol aktiviti blong rimemba](/activities/reminiscence/) i soem hao blong sherem ol piksa mo stori wetem wan kwestin. Sipos yu wantem wan gem blong adalt moa, traem [conversation cards](/games/conversation-cards/), we i gat ol opin kwestin long wok, trip, ol fren mo famli.
 
-Pea pikja we oli mekem from famili foto tu save wok gud, from ol pikja i soem ol man mo ol ples we i impoten long hem. [Photo pairs](/games/photo-pairs/) i kipim ol foto long browser long dat diveis nomo.
+Ol photo pairs we oli mekem long ol piksa blong famli tu save gud, from ol piksa oli blong ol man mo ol ples we i impoten long man ia. [Photo pairs](/games/photo-pairs/) i kipim ol piksa long browser long divaes ya nomo.
 
 ## Wok, draev mo laef blong ol dei
 
-Plande man we i gat early-onset dimensia oli stil wok, draevem motokar o mekem maneji mani. Ol ia i no ol aktiviti long rejula sens, be oli fomem wanem man ia i save mekem. Toktok wetem dokta blong hem abaot draevem mo sef long wok, mo tingting sipos hem i wantem help long mani o ol apointmen. Aim i blong protektem digniti blong hem mo kipim hem i stap involv olsem hem i wantem.
+Planti man we i gat early-onset dementia oli stap wok, draev o lukaotem mane yet. Ol samting ia i no olsem ol aktiviti long ol nomol fasin, be oli save jenisem wanem nao man ia i save mekem. Toktok wetem dokta blong hem long draev mo seif long wok, mo lukim sipos hem i wantem help long mane o ol apointmen. Aim blong yumi i blong protektem digniti blong hem, mo kipim hem i stap long ol samting we hem i wantem.
 
-Blong gaedens long ol rutin blong ol dei mo stap active, lukim [wan gentle daily routine](/activities/daily-routine/) mo [ol haosvok olsem aktiviti](/activities/household-tasks/).
+Blong gaed long ol rutin blong ol dei mo stap aktiv, lukim [wan gentel dei rutin](/activities/daily-routine/) mo [ol haosvok olsem aktiviti](/activities/household-tasks/).
 
-## Sapot blong ol paotna mo ol pikinini we oli adalt
+## Sapot blong ol partner mo ol pikinini we oli bigfala finis
 
-Ol paotna mo ol pikinini oftaen i filim se oli stap wan. Lukaotem man i olsem wan seken wok long top blong wok mo famili. Blog post blong Alzheimer's Association i ripotem se ol lukaotem long ol grup blong younger-onset i faenem ol grup ia i helpem long ol praktikol samting olsem plan blong lo, mo long jastem filim se ol narafala oli andastanem olgeta. Hem i talem tu se Association i ranem ol fri grup sapot blong ol man we oli lukaotem, inkludim ol grup blong man we i lukaotem man we i gat younger-onset dimensia, mo tri long olgeta i mitim long intanet long Tusde mo Wenesde.
+Ol partner mo ol pikinini we oli bigfala finis oftenstaem oli filim olsem oli stap olsem. Lukaotem wan man i save olsem wan seken wok long topsaed blong wok mo famli. Blog post blong Alzheimer's Association i talemaot se ol man we oli lukaotem long ol grup blong younger-onset oli faenem ol grup ia i help long ol praktikol samting olsem plan blong lo, mo long fil se ol narafala oli save wanem nao oli filim. I talemaot tu se Association i gat ol grup sapot blong ol man we oli lukaotem we oli fri, inkludim ol grup blong ol man we oli lukaotem wan we i gat younger-onset dementia, mo tri long olgeta i mitim virtually long Tusde mo Wenesde.
 
-Blong askem abaot ol grup, kolem 24/7 Helpline blong Association long 800.272.3900. [Gaed blong lukaotem yu seleva](/caregiving/caregiver-self-care/) i kava rest, respet mo ol sain se yu tayad tumas.
+Blong askem long ol grup ia, kolem Helpline blong Association we i open 24/7 long namba 800.272.3900. Namba ia i namba blong US, so sipos i hadwan blong yu kolem, traem fastaem fandem wan sevis long ples blong yu. [Gaed blong self-kea blong man we i lukaotem](/caregiving/caregiver-self-care/) i kovarem malolo, respaet taem mo ol saen blong bon aot.
 
-## Stej i stil impoten
+## Stej oli stap impoten yet
 
-Stej blong dimensia blong man ia i stil jenjem wanem i helpem. Long fastaem, moa man oli save mekem ol usual aktiviti blong olgeta wetem sam jenj, mo gaed blong [aktiviti long fastaem stej](/activities/early-stage/) i gat moa aidia. Long laswan, aktiviti i kam moa simpol mo i moa yusum sens, olsem we i talemaot long [aktiviti long laswan stej](/activities/late-stage/). Jenjem aktiviti taem man ia i jenjem, mo askem hem wanem hem i wantem taem hem i save talemaot.
+Stej blong dementia blong man i stap jenisem wanem nao i help. Long stat, ol man oli save mekem ol usual aktiviti blong olgeta wetem sam jenis, mo [gaed blong ol aktiviti long erli stej](/activities/early-stage/) i gat moa aedia. Long bihaen, ol aktiviti i kam moa simpol mo i kasem ol sens, olsem we [ol aktiviti long leit stej](/activities/late-stage/) i deskraebem. Jenisem aktiviti taem man ia i jenis, mo askem hem wanem nao hem i wantem taem hem i save talem.

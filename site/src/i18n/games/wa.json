@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Pares d' imådjes",
+    "seoTitle": "Djeu d' rashonnaedje po l' demance : Pares d' imådjes",
+    "h1": "Pares d' imådjes : on doûs jeu d' rashonnaedje",
+    "description": "On doûs jeu d' rashonnaedje, gratis, po les djins ki vicnut avou l' demance. Les grandès imådjes dimorèt veyåves, i n' a pont d' munutreye ni d' ponts, et vos tchoezixhoz inte 4 et 12 cåreas.",
+    "short": "Trover les deus imådjes ki sont pareyes. Les imådjes polèt dmani veyåves.",
+    "players": "1 u 2 djins, l' onk a costé d' l' ôte",
+    "intro": "Clitchîz so ene imådje, pu so cene ki va avou. D' acostumance, les imådjes dimorèt veyåves, po k' on n' åye rén a ritni e s' tiesse. Cwand deus imådjes vont eshonne, ele riçuvèt on boird d' ôr et ene pitite coche.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Tchoezixhoz l' nombe di cåreas a-z eployî. Cwate cåreas, c' est bén trankil po cmincî.",
+      "Clitchîz so n' impôrte kene imådje. Ele riçût on boird d' ôr.",
+      "Clitchîz so l' imådje ki rshonne. Li pareye dimore eshonne avou ene pitite coche.",
+      "Si les deus imådjes sont diferintes, i n' a rén d' må ki s' passe. Riclitchîz cwand vos estoz presse.",
+      "Metez en alaedje « Imådjes catchêyes » seulmint si vos inmez tertos les deus l' modêye classike avou les imådjes retournêyes."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Lijhoz l' no des imådjes a hôt vwaixh eshonne et divizez-ndè : « Ene rodje jate. Metoz do laecea dins vosse té ? »",
+      "Leyîz l' djin k' vos vos ocupoz d' leye clitchî, minme si çoula prind do tins. Mostrez do doet purade ki d' clitchî a s' plaece.",
+      "Dimeyoz a cwate cåreas tant k' vos nd avoz d' l' åjhe. Des cåreas d' pusse, c' est on tchoes, måy on livea a rinde.",
+      "Finiyez tant k' c' est co plaijhant. On seu jeu, c' est ddja ene boune etire activitî."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gn a-t i ene munutreye u des ponts ?",
+        "a": "Neni. I n' a pont d' ôrlodje, pont d' ponts, pont d' conteur di côps et on n' såreut piede. Vos poloz djoker cwand vos vloz, et s' arester a meye-voye, c' est ossu bén po fini."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Pocwè çki les imådjes dimorèt veyåves ?",
+        "a": "Cwand les imådjes dimorèt veyåves, li jeu dvént pus do rwaitaedje et do rashonnaedje k' on fwait d' s' sovni. Bråmint des djins trovèt çoula pus trankil. Vos poloz passer ås imådjes catchêyes d' on seu clitch si vos preferez."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est-çki c' est gratis, et fåt i s' eredjistrer ?",
+        "a": "Oyi, c' est gratis, et i n' a pont d' conte a fé, pont d' eredjistrumint ni d' aberwetaedje. Çoula va tot droet dins l' betchteu waibe so on telefone, ene tablete u ene copiutrece."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Pôrans dj' eployî nos prôpès fotos d' famile ?",
+        "a": "Oyi. Sayîz Pares di fotos, ki vos permete di tchoezi des fotos so vosse machine. Les fotos dimorèt dins vosse betchteu et n' sont nén evoyeyes sol waibe."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Trover l' minme",
+    "seoTitle": "Trover l' minme imådje : åjhey jeu po l' demance",
+    "h1": "Trover l' minme imådje",
+    "description": "Ene imådje al copete, deus a cwate padzo. Clitchîz so cene ki rshonne. On trankil jeu d' imådjes, gratis, po les djins ki vicnut avou l' demance, sins munutreye.",
+    "short": "Waitîz l' imådje al copete et clitchîz sol minme padzo.",
+    "players": "1 u 2 djins",
+    "intro": "I gn a ene seule imådje al copete del waitroûle. Padzo, i gn a deus, troes u cwate imådjes. Clitchîz so cene ki rshonne. C' est on simpe tchoes a l' feye, avou tot l' tins po cåzer.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Tchoezixhoz deus, troes u cwate imådjes po tchoezi dvins. Deus, c' est l' pus åjhey.",
+      "Waitîz eshonne l' imådje al copete.",
+      "Clitchîz sol minme imådje padzo. Ele riçût ene pitite coche et sacwants doûs mots.",
+      "Si vos clitchîz so ene ôte imådje, li jeu dit djusse si no et ratind. Prindoz vosse tins.",
+      "Clitchîz so « Imådje shuvante » cwand vos estoz presse po-z end aveur ene ôte."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Divizez d' tchaeke imådje divant d' tchoezi : les coleurs, les fômes, wice k' on vôreut vey çoula.",
+      "Deus tchoes, ci n' est nén « trop åjhey ». Li såme, c' est d' passer on bon moumint, nén d' fé on sploit.",
+      "Si clitchî est målåjhey, li djin pout mostrer do doet et vos poloz clitchî a s' plaece."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gn a-t i ene munutreye u des ponts ?",
+        "a": "Neni. I n' a pont d' ôrlodje, pont d' ponts, pont d' conteur di côps et on n' såreut piede. Vos poloz djoker cwand vos vloz, et s' arester a meye-voye, c' est ossu bén po fini."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "K' a-t i si on clitche so ene måveye imådje ?",
+        "a": "Rén d' disbåtchant. I n' a pont d' sounreye, pont d' rodje croes ni d' secoyaedje. Li jeu dit l' no d' l' imådje k' a stî clitchêye et ratind l' côp shuvant."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est-çki c' est gratis, et fåt i s' eredjistrer ?",
+        "a": "Oyi, c' est gratis, et i n' a pont d' conte a fé, pont d' eredjistrumint ni d' aberwetaedje. Çoula va tot droet dins l' betchteu waibe so on telefone, ene tablete u ene copiutrece."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Rashonner l' ombion",
+    "seoTitle": "Djeu d' rashonnaedje d' ombions po l' demance : gratis e roye",
+    "h1": "Rashonner l' ombion : on doûs jeu d' imådjes",
+    "description": "On noer ombion al copete, deus a cwate imådjes padzo. Clitchîz so l' imådje ki fwait l' ombion. On doûs jeu d' rashonnaedje d' ombions, gratis, po l' demance, sins munutreye.",
+    "short": "Waitîz l' ombion et clitchîz so l' imådje ki l' fwait.",
+    "players": "1 u 2 djins",
+    "intro": "Rashonner l' ombion est ene activitî bén cnoxhowe so papî, mins chal avou des grandès imådjes et rén a-z imprimer. On doûs ombion s' trouve al copete del waitroûle et deus, troes u cwate imådjes ratindèt padzo. Clitchîz so cene ki fwait l' ombion. Des fômes come ene bicyclete, on parapluve u ene jate sont ossu foirt åjheyes po cåzer.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Tchoezixhoz deus, troes u cwate imådjes po tchoezi dvins. Deus, c' est l' pus åjhey.",
+      "Waitîz eshonne l' ombion. Kene fôme a-t i ? Est-i hôt u arondi ?",
+      "Clitchîz so l' imådje ki fwait l' ombion. Si no aparexhe dizo l' ombion.",
+      "Si vos clitchîz so ene ôte imådje, li jeu dit djusse si no et ratind. Prindoz vosse tins.",
+      "Clitchîz so « Ombion shuvant » cwand vos estoz presse po-z end aveur onk d' ôte."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Shuvoz l' toû d' l' ombion avou on doet et cåzez del fôme.",
+      "Si les ombions shonnnut målåjheys ouy, passez a Trover l' minme, wice ki les imådjes sont pareyes.",
+      "Divizez d' l' imådje ene feye k' ele est trovêye : « Nos avéns on parapluve parey. »"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gn a-t i ene munutreye u des ponts ?",
+        "a": "Neni. I n' a pont d' ôrlodje, pont d' ponts, pont d' conteur di côps et on n' såreut piede. Vos poloz djoker cwand vos vloz, et s' arester a meye-voye, c' est ossu bén po fini."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Est çki l' apwariaedje d' ombes est bon po les djins k' ont del dimince ?",
+        "a": "Ça pout esse ene plaijhante et simpe activité po sacwantès djins, aprume å cmince del maladiye. Les fômes sont pus åjheyes a ricnoxhe ki les mots. C' est fwait po passer on bon moumint et berdeler eshonne, nén po fé on test, et ça n' rwerit nén ni n' ralinti l' dimince. Si ça fwait del ranceur, sayîz « Trover l' parey » u rwaitîz simplumint des imådjes eshonne."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "K' a-t i si on toitche li måvleure imådje ?",
+        "a": "Rén d' mågréyåve. I gn a nou brut, nou rodje croes ni nou secoyaedje. Li djeu lome l' imådje k' a stî toitchie et ratind l' toitcha shuvant."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est çki c' est d' bounouve, et fåt i s' edjîstrer ?",
+        "a": "Oyi, c' est d' bounouve, et i gn a nou conté a fé, nole inscrijhaedje ni nolu aberwetaedje. Ça va tot divins l' betchteu waibe so on fone, ene tåvlete u n' ordenateur."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Rindjî eshonne",
+    "seoTitle": "Djeu d' rindjaedje po l' dimince : Rindjî eshonne",
+    "h1": "Rindjî eshonne : ene activité d' rindjaedje d' imådjes",
+    "description": "Toitchîz ene imådje, poy toitchîz l' panî wice k' ele va : coujhene u djårdén, fruts u biesses. Ene påjhûle activité d' rindjaedje d' bounouve po les djins k' ont del dimince.",
+    "short": "Metez tchaeke imådje divins s' panî : coujhene u djårdén, et co d' ôtes.",
+    "players": "1 u 2 djins",
+    "intro": "Rindjî est ene ovraedje bén cnoxhowe et plaijhante do djoû d' ouy, come arindjî les comissions u mete les tchåssetes pa peure. Toitchîz ene imådje, poy toitchîz l' panî wice k' ele va. I gn a pont d' presse et pont d' fås pas.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Tchoezixhîz on tinme : coujhene et djårdén, fruts et biesses, u måjhon et voyaedje.",
+      "Toitchîz ene imådje. Ele riçût on boird d' ôr.",
+      "Toitchîz l' panî wice k' ele doet aler. L' imådje va divins ç' panî la.",
+      "S' ele dveut aler divins l' ôte panî, li djeu l' dita doûçmint et ratind.",
+      "Cwand totes les imådjes sont rindjeyes, rwaitîz les panîs eshonne."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Dins l' vraiye veye, i gn a sovint pont d' mwaijhe response. Si ene djin dit k' èn arozoe va e l' coujhene, dimandez lyi pocwè. Vos pôrîz bén ôre ene bele istwere.",
+      "Eployîz les imådjes po cmincî a cåzer : « K' avoz vs fwait crexhe divins vosse djårdén ? »",
+      "Rindjî d' vraiyès tchôzes, come les coyîs et les fortchetes u des botons pa coleur, est eto ene foirt bele activité foû do waitroûle."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gn a-t i on munutî u des ponts ?",
+        "a": "Neni. I gn a pont d' ôrlodje, pont d' ponts, pont d' conteu d' côps ni d' pierdou. Vos ploz arester a tot moumint, et s' arester a meye-voye est ene pårfêye manire di fini."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Pocwè rindjî ?",
+        "a": "Bén des djins inmèt d' rindjî paski ça ravize ene boune ovraedje k' on cnoxhe bén. C' est eto åjhey di cåzer so les imådjes tot l' fijhant."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est çki c' est d' bounouve, et fåt i s' edjîstrer ?",
+        "a": "Oyi, c' est d' bounouve, et i gn a nou conté a fé, nole inscrijhaedje ni nolu aberwetaedje. Ça va tot divins l' betchteu waibe so on fone, ene tåvlete u n' ordenateur."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle d' imådje",
+    "seoTitle": "Åjhey puzzle po l' dimince : 4 u 9 pîces",
+    "h1": "Puzzle d' imådje : èn åjhey puzzle",
+    "description": "Èn åjhey puzzle so fyî po les djins k' ont del dimince : 4 u 9 grandès pîces, l' etire imådje dmeure veyåve, et vos toitchîz deus pîces po les discandjî.",
+    "short": "Toitchîz deus pîces po les discandjî disk' a tant k' l' imådje soeye etire.",
+    "players": "1 u 2 djins",
+    "intro": "Ene bele imådje est côpêye e cwate u nouv grandès pîces et maxhêye. L' etire imådje dmeure veyåve po vos dider. Toitchîz ene pîce, poy ene ôte, et ele discandjèt d' plaece. Nén mezey di traener les pîces.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Tchoezixhîz ene imådje et 4 u 9 pîces. Cwate est on doûs cmince.",
+      "Rwaitîz l' etire imådje al copete.",
+      "Toitchîz ene pîce, poy toitchîz l' plaece wice k' ele doet aler. Les deus pîces si discandjèt.",
+      "Les pîces al bounreye plaece riçuvèt ene pitite croejhete.",
+      "Cwand l' imådje est fwaite, passoz on bon moumint a l' admirez eshonne, poy tchoezixhîz è n' ôte."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Toitchî deus pîces po les discandjî est bråmint pus åjhey ki d' traener po bén des djins.",
+      "Berdelez so l' imådje tot l' montand : « La l' rodje toet. »",
+      "On vraiy puzzle e bwès avou 12 a 24 grandès pîces est eto ene foirt agreyåve activité so ene tåve."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gn a-t i on munutî u des ponts ?",
+        "a": "Neni. I gn a pont d' ôrlodje, pont d' ponts, pont d' conteu d' côps ni d' pierdou. Vos ploz arester a tot moumint, et s' arester a meye-voye est ene pårfêye manire di fini."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Fåt i traener les pîces ?",
+        "a": "Neni. Toitchîz ene pîce, poy toitchîz è n' ôte, et ele discandjèt d' plaece. C' est pus åjhey avou ene mwin ki tranle u so on ptit waitroûle."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est çki c' est d' bounouve, et fåt i s' edjîstrer ?",
+        "a": "Oyi, c' est d' bounouve, et i gn a nou conté a fé, nole inscrijhaedje ni nolu aberwetaedje. Ça va tot divins l' betchteu waibe so on fone, ene tåvlete u n' ordenateur."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Fini l' spot",
+    "seoTitle": "Fini l' spot : djeu d' spots po les pus vîs",
+    "h1": "Fini l' spot",
+    "description": "Des bén cnoxhous spots k' i manke li dierin mot. Toitchîz on tchoes u mostrez l' fén, poy cåzez è eshonne.",
+    "short": "Completez des cnoxhous spots eshonne, poy berdelez d' zels.",
+    "players": "1, 2 djins u ene troke",
+    "intro": "Les vîs spots sont sovint bén cnoxhous tote ene veye durant. Tchaeke cårte mostere on spot cnoxhou k' i lyi manke li dierin mot, troes tchoes, et on boton « Mostrer l' fén ». Après l' fén, ene doûce kesse vos rindje a cåzer eshonne.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lijhoz l' spot a hôt vwa eshonne.",
+      "Toitchîz l' mot ki finit l' spot, u toitchîz « Mostrer l' fén ».",
+      "Relijhoz l' etî spot et cåzez è a pårti del kesse.",
+      "Toitchîz « Spot shuvant » cwand vos estoz presse."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lijhoz doûçmint et fijhoz ene pôze divant l' dierin mot. Sovint, les djins l' dijhèt divant k' vos n' åyîz fini.",
+      "Si ene djin dene ene ôte fén, profitez ndè. Sacwantès modêyes di spots candjèt d' ene famile u d' on payis a l' ôte.",
+      "Ene troke estant la, ene djin pout lére et tertos polèt dire li fén eshonne."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gn a-t i on munutî u des ponts ?",
+        "a": "Neni. I gn a pont d' ôrlodje, pont d' ponts, pont d' conteur di côps et nolu n' såreut piede. Vos poloz djoker a tot moumint, et s' arester al mitan, c' est ene foirt boune manire di fini."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Et si nos tchoezixhans èn ôte mot ?",
+        "a": "Li djeu mostere li fén d' acostumance et passe al cåzeriye. I gn a pont d' ponts, et ene ôte responduwe va foirt bén eto."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est-ç' ki c' est po rén, et fåt i s' eredjistrer ?",
+        "a": "Oyi, c' est po rén, et i gn a pont d' aconte a fé, pont d' eredjistrumint et rén a aberweter. Ça va dins l' betchteu waibe so on telefone, ene tåvlete u èn ordenateur."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Mots catchîs a grands letes",
+    "seoTitle": "Mots catchîs a grands letes pol dimance, a rexhe so papî",
+    "h1": "Mots catchîs a grands letes",
+    "description": "Des mots catchîs po rén a grands letes po les vîs et les djins ki vicnut avou l' dimance. Pô d' mots, grossès letes, des mots d' astampé et d' coûtchî seulmint. Djouyoz so les fis u so papî.",
+    "short": "Grossès letes, kékes mots, d' astampé et d' coûtchî seulmint. A-z imprimer eto.",
+    "players": "1 u 2 djins",
+    "intro": "Ene pitite griye avou des grossès letes et djusse ene pitite frapêye di mots, tertos d' astampé u d' coûtchî. Clitchîz sol prumire lete d' on mot, poy sol dierinne. Vos inmez mî l' papî ? Imprimez on novea djeu d' on simpe clitch.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Tchoezixhoz on tinme et l' grandeur del griye.",
+      "Waitîz al djivêye di mots. Les mots s' liyèt d' coûtchî (di gåtche a droete) u d' astampé (do hôt viè l' bas).",
+      "Clitchîz sol prumire lete d' on mot, poy sol dierinne lete.",
+      "On mot k' est trové si mete e coleur et s' hepe foû del djivêye.",
+      "Clitchîz so « Imprimer ç' djeu chal » po djouwer so papî avou on crijhon u on marcåd."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Mostrez on mot dins l' djivêye et cwerîz s' prumire lete eshonne.",
+      "So papî, on marcåd d' coleur est pus åjhey a tni k' on crijhon.",
+      "Cåzez des mots do tinme. Les mots so les fruts rindèt åjhey l' arindjmint des sovenances sol cueyaedje, li cûtant u les martchîs."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gn a-t i on minuteu u des ponts ?",
+        "a": "Neni. I gn a pont d' ôrlodje, pont d' ponts, pont d' conteur di côps et nolu n' såreut piede. Vos poloz djoker a tot moumint, et s' arester al mitan, c' est ene foirt boune manire di fini."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Pô-st i imprimer les mots catchîs ?",
+        "a": "Oyi. Clitchîz so « Imprimer ç' djeu chal » po rexhe li griye do moumint a grands letes, avou l' djivêye di mots dizo. Tchaeke novea djeu est diferin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est-ç' ki c' est po rén, et fåt i s' eredjistrer ?",
+        "a": "Oyi, c' est po rén, et i gn a pont d' aconte a fé, pont d' eredjistrumint et rén a aberweter. Ça va dins l' betchteu waibe so on telefone, ene tåvlete u èn ordenateur."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Pådjes a rcolorer",
+    "seoTitle": "Pådjes a rcolorer po les grands k' ont del dimance (Po rén)",
+    "h1": "Pådjes a rcolorer",
+    "description": "Des simpes pådjes a rcolorer po les grands avou des lådjès plaeces : clitchîz so ene coleur, poy sol portrait. Pont d' mannesté, pont d' måvletes coleurs, et tchaeke pådje si pout imprimer po rén.",
+    "short": "Clitchîz so ene coleur, poy so on boket do portrait. A-z imprimer eto.",
+    "players": "1 u 2 djins",
+    "intro": "Des pådjes avou des grossès fômes bén simpes : ene fleur dins on pot, ene måjhon, ene jate di té, on papiyon et on batea a vweles. Clitchîz so ene coleur, poy so on boket do portrait po l' rimpli. I gn a pont d' måvletes coleurs.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Tchoezixhoz ene pådje.",
+      "Clitchîz so ene coleur. Li no d' tchaeke coleur est scrît dsu.",
+      "Clitchîz so on boket do portrait po l' rimpli avou cisse coleur la.",
+      "Candjîz d' idêye a tot moumint tot l' rimplixhant d' ene ôte coleur.",
+      "Clitchîz so « Imprimer cisse pådje chal » po-z aveur ene blanke pådje a rcolorer avou des crijhons u des marcåds."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Prupozîz deus coleurs po tchoezi purade ki tot l' lote si c' est trop målåjhey.",
+      "Les violetès åbes et les bleus soleas sont bénvnowes. L' idêye c' est d' prinde plaijhi avou les coleurs, nén d' esse foirt djusse.",
+      "Les pådjes imprimêyes vont foirt bén avou des gros marcåds u des crijhons d' cire, k' on tént pus åjheymint."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gn a-t i on minuteu u des ponts ?",
+        "a": "Neni. I gn a pont d' ôrlodje, pont d' ponts, pont d' conteur di côps et nolu n' såreut piede. Vos poloz djoker a tot moumint, et s' arester al mitan, c' est ene foirt boune manire di fini."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Est-ç' ki ces pådjes chal sont trop efantines ?",
+        "a": "Nos avans dessiné des cayets féns et simpes purade ki des cartoons, po k' les pådjes våyexhe bén po des grands. Des grossès fômes fjhèt k' c' est åjhey a rcolorer sins fé efantin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est-ç' ki c' est po rén, et fåt i s' eredjistrer ?",
+        "a": "Oyi, c' est po rén, et i gn a pont d' aconte a fé, pont d' eredjistrumint et rén a aberweter. Ça va dins l' betchteu waibe so on telefone, ene tåvlete u èn ordenateur."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Cåtes di cåzeriye",
+    "seoTitle": "Intrêyes po cåzer pol dimance : cåtes a portraits",
+    "h1": "Cåtes di cåzeriye",
+    "description": "Des cåtes a portraits avou des doûcès kesses po cmincî a cåzer po les djins ki vicnut avou l' dimance : pont d' kessionaedje, pont d' bounès responduwes. A-z eployî so l' ecran u a rrexhe so papî tote li djivêye.",
+    "short": "Des cåtes a portraits avou des doûcès kesses drouvowes. Pont d' kessionaedje.",
+    "players": "2 djins u ene trope",
+    "intro": "Tchaeke cåte mete eshonne on portrait k' on cnoxhe bén et ene doûce cåzeriye drouvowe, come « Kéne sôre di tins inmez vs li mî ? ». I gn a pont d' bounès responduwes et rén k' i fåt s' sovni. Tchoezixhoz on tinme u maxhîz les tertotes.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Tchoezixhoz on tinme, u wårdîz « Totes les cåtes ».",
+      "Lijhoz l' kesse a hôt mot et rwaitîz l' portrait eshonne.",
+      "Schoûtez, dnez vosse prôpe responduwe, et leyîz l' cåzeriye voyaedjî.",
+      "Clitchîz so « Cåte shuvante » cwand vos estoz presse, u dmoroz so ene cåte tant k' vos vloz.",
+      "Clitchîz so « Imprimer totes les cåtes » po côper foû on lote so papî."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Respondoz vos-minme al kesse eto. Insi c' est come ene cåzeriye, nén come èn eterviou.",
+      "Sivez l' istwere, nén les vraiyès sacwès. Si des detays candjèt, ça n' fwait rén.",
+      "Si ene cåte toetche ene sacwè d' trisse, ricnoxhoz çou k' on rissint et passoz doûçmint a èn ôte cåte."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Pocwè n' a-t i pont d' kesses do djinre « Est-ç' ki vos vs sovenoz di… ? »",
+        "a": "Des kesses ki sproevèt l' memwere polèt rshonner a èn egzamwin et mete d' araedje. Des drouvowès kesses come « Racontoz mu… » permetèt a tertos di prinde pårt, ttafwait çou k' on s' è sovne u nén."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Pô-st i imprimer les cåtes ?",
+        "a": "Oyi. « Imprimer totes les cåtes » rexhe tote li djivêye a grands letes, kékes cåtes pa pådje, prêtes a côper foû."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est-ç' ki c' est po rén, et fåt i s' eredjistrer ?",
+        "a": "Oyi, c' est gråtuit, et i gn a nou conte, pont d' inscrijhaedje ni d' aberwetaedje. Ça va dins l' betchteu waibe so on telefone, ene tablete ou èn ordenateur."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Pwaires di fotos",
+    "seoTitle": "Fé on djeu d' pareys avou vos fotos d' famile",
+    "h1": "Pwaires di fotos : mete vos prôpès fotos eshonne",
+    "description": "Fijhoz d' vos prôpès fotos d' famile on doûs djeu d' pareys. Tchoezixhoz 2 a 6 fotos so vosse machine ; ele dimorèt dins vosse betchteu et n' sont måy evoyeyes sol rantoele.",
+    "short": "Tchoezixhoz vos prôpès fotos et metoz les eshonne. Rén n' est evoyî sol Daegntoele.",
+    "players": "2 djins, l' onk a costé d' l' ôte",
+    "intro": "Tchoezixhoz inte deus et shijh fotos so vosse telefone, vosse tablete ou vosse copiutrece, et ele divénront on djeu d' pareys avou des grandès belès imådjes. Les fotos ni s' veyèt k' so cisse pådje chal. Ele ni sont måy evoyeyes, schapêyes ni pårtaedjeyes, et ele disparezèt cwand vos cloyoz l' pådje.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tchitchîz so « Tchoezi les fotos » et prindoz inte deus et shijh fotos.",
+      "Tchaeke foto aparexhe deus côps. Tchitchîz so ene, pu so l' cene ki va avou.",
+      "Cåzez d' tchaeke foto a fwait ki vos l' ritrovoz.",
+      "Cwand vos avoz tot fwait, cloyoz l' pådje ou tchitchîz so « Disfacer les fotos ». Rén n' est wårdé."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Tchoezixhoz des netès fotos di belès tchôzes bén cnoxhowes : ene biesse d' måjhone, on djårdén, on plaijhant edroet, on djoû d' noice.",
+      "Les imådjes di plaeces et d' ojets polèt esse pus åjheyes ki les vizadjes, et ça evite d' aveur l' espreschon d' rimerki les nos des djins.",
+      "Lèyîz foû les fotos des djins k' ont morou si ça pôreut apoirter del tristedreye d' on côp, a mwins k' vos n' sayîz k' ele fjhèt do bén."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Est-ce ki mes fotos sont-st evoyeyes ene pårt ?",
+        "a": "Neni. Li pådje lét les fotos k' vos avoz tchoezi directumint dins vosse betchteu et les mostere so vosse waitroûle. Ele ni sont måy evoyeyes a nozôtes ni a nolu d' ôte, et ele disparezèt cwand vos cloyoz ou ricladjîz l' pådje."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gn a-t i on munutî ou des ponts ?",
+        "a": "Neni. I gn a pont d' ôrlodje, pont d' ponts, pont d' conteur di côps ni d' piete. Vos ploz arester cwand vos vloz, et s' arester å mitan, c' est ossu ene foirt boune manire di mete fén."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Pout-on schaper l' djeu po l' côp ki vént ?",
+        "a": "Nén dins l' betchteu, expris po n' rén wårder d' privêye vie. L' aplicåcion gråtuite Golden Moments po iPhone et iPad pout wårder des copies des fotos tchoezeyes so vosse machine."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo d' imådjes",
+    "seoTitle": "Bingo d' imådjes po les seniyôrs ki vikèt avou l' demance : a-z imprimer",
+    "h1": "Bingo d' imådjes po les groupes",
+    "description": "On gråtuit bingo d' imådjes a-z imprimer po les måjhons d' repos et les groupes di seniyôrs, avou on grand tiradje al waitroûle. Des grandès imådjes avou des mots, 9 ou 16 cåreas, sins k' i gn åye mezey d' lére.",
+    "short": "Des cwåtes di bingo d' imådjes a-z imprimer et on grand tiradje al waitroûle po les groupes.",
+    "players": "On groupe di 2 a 30 djins",
+    "intro": "On classike bingo avou des imådjes purade ki des limeros, po k' nolu n' åye mezey di lére des ptitès letes. Imprimez on djoû d' diferinnès cwåtes, pu eployîz l' tiradje al waitroûle po mostrer tchaeke imådje e grand so ene tévé, on laptop ou ene tablete.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Tchoezixhoz 9 ou 16 cåreas pa cwåte et l' nombe di djouweus.",
+      "Tchitchîz so « Imprimer les cwåtes ». Tchaeke cwåte est diferinne.",
+      "Drovoz l' tiradje so ene grande waitroûle. Tchitchîz so « Imådje ki vént » po mostrer tchaeke imådje avou si no.",
+      "Les djouweus covrèt l' imådje pareye so leu cwåte avou ene pîce di manoye, on boton ou on mårkeu.",
+      "Tchaeke djin ki rimplixhe ene roye, ou tote li cwåte, est flicitêye. I gn a pont d' pierdants dins cisse modêye chal : continouwez a djower disk' a tant k' tertos åyexhe ene roye."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Eployîz des grands pions come des pyeces di damir ou des tapes di botaye. Des ptits botons polèt esse målåjheys a ramasser.",
+      "Nomoz l' imådje et dites ene sacwè dsu : « On batead a vweles. Kî çk' a ddja stî so on batead ? »",
+      "Metoz les djins k' ont do må a vey å pus près del waitroûle, et metoz ene djin d' aidance a costé des djouweus k' end ont mezey.",
+      "Noufcåreas, c' est bén assez pol pupårt des groupes. Wårdoz l' session dictor 20 a 30 munutes."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kimint fé on bingo d' imådjes dins ene måjhon d' repos ?",
+        "a": "Imprimez ene cwåte pa djouweu, metoz l' tiradje sol pus grande waitroûle ki vos avoz, et anoncez les imådjes doûçmint, tot dnant l' no d' tchaekene. Djouwez disk' a tant k' tertos åyexhe ene roye, po k' nolu ni soeye rovyî."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Est-ce gråtuit a-z imprimer ?",
+        "a": "Oyi. Imprimez ostant d' cwåtes ki vos nd avoz mezey, ostant d' côps ki vos vloz, po vos-minme ou po on groupe."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Les djins polèt-ele djower sins lére ?",
+        "a": "Oyi. Tchaeke cårea est ene grande imådje, avou si no padzo po les cis k' inmnut bén les mots."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Raspiraedje al doûce",
+    "seoTitle": "Ene pôze di doûs raspiraedje po les seniyôrs et les aidants",
+    "h1": "Ene pôze di doûs raspiraedje",
+    "description": "Ene doûce et trankile pôze di raspiraedje a pårtaedjî : on doûs ceke grandit et discrexhe tins d' shijh raspiraedjes. C' est vos ki l' enondez, et vos l' poloz arester cwand vos vloz.",
+    "short": "On doûs ceke po raspirer eshonne. Enondez et arestez cwand vos vloz.",
+    "players": "1 ou 2 djins",
+    "intro": "Des côps k' i gn a, li meyeuse d' actedjance, c' est ene trankile pôze. Tchitchîz so « Enonder », pu prindoz l' air cwand l' ceke grandit et shoflez foû cwand i discrexhe. Tchoezixhoz on rytime pus doûs ou pus rade. Ci n' est nén on médiaedje, djusse on påjhûle moumint a pårtaedjî.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Ashidoz-vos a voste åjhe, l' onk a costé d' l' ôte.",
+      "Tchoezixhoz on rytime : doûs ou trankile.",
+      "Tchitchîz so « Enonder ». Prindoz l' air tins k' li ceke grandit, et shoflez foû tins k' i discrexhe.",
+      "I s' aresteye d' lu-minme après shijh raspiraedjes, ou tchitchîz so « Arester » cwand i vos plait."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Tinoz-vos pår li mwin ou metoz ene mwin so l' bresse del djin si ça lyi fwait plaijhi.",
+      "Ni foircijhoz måy. Si ele vout purade riwaitî, c' est foirt bén inla.",
+      "Si ene djin a do må a raspirer, k' ele raspire normålmint et simplumint riwaitî l' ceke. Cåzez-end a on dotcheur po tot fwait d' rujhe di raspiraedje."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Est-ce èn egzercice di raspiraedje medikål ?",
+        "a": "Neni. C' est ene simpe pôze po trover do råjhey et del copagneye, sins oblidjance. Ci n' est nén on médiaedje po l' ancsiete ni po nou må. Cåzez d' vos rujhes di santé avou on dotcheur."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Est-ce ki l' ceke bodje sins k' dji n' l' enonde ?",
+        "a": "Neni. Rén n' bodje tant k' vos n' tchitchîz nén so « Start », et çoula s' areste après shijh respiråcions u cwand vos tchitchîz so « Stop ». Si vosse aparey est apontyî po diminwer les mouvmints, les mots candjèt sins ki l' ceke ni grandixhe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est-ç' ki c' est gratis, et fåt i s' eredjistrer ?",
+        "a": "Oyi, c' est gratis, et i gn a nou conte, pont d' inscrijhaedje ni d' aberwetaedje. Çoula rote dins l' betchteu waibe so on telefone, ene tåvlete u ene éndjole."
       }
     ]
   }

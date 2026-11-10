@@ -1,35 +1,34 @@
 ---
-title: "Sundowning: Tile kɔfɛ dɔgɔyalen kɛlɛw dementia la mɔgɔw ye"
-seoTitle: "Sundowning: Tile kɔfɛ dɔgɔyalen kɛlɛw"
-description: "Ɲɛnɛmaya, kɔnɔ yɛrɛwolo ani dɔgɔ kɛlɛw min b'a fɛ ka tile kɔfɛ ɲɛnɛmaya dɛmɛ, ani dɔktɔrɔ ka wele tuma min na ni kɔnɔ ɲɛnɛmaya kura kɔnɔ wa wa ka sɔrɔ."
+title: "Sundowning: Lɔnni kɔfɛ hɛrɛtɔ kɛlɛw"
+seoTitle: "Sundowning: Lɔnni kɔfɛ hɛrɛtɔ kɛlɛw"
+description: "Ɲɛnɛmaya sariyaw, so ni kɛlɛ yɛrɛw ani hɛrɛtɔ kɛlɛw, minnu bɛ se ka lɔnni kɔfɛ tɛmɛnen ka nɛgɛ dimi dɛmɛ, ani dɔkitɔrɔ ka wele tuma minnu bɛ kɛ yeli kura walima ka sɔrɔ ka nɛɲɛ ka ɲɛ."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning ye hakili gɛlɛya, hakili fili wɛrɛ wɛrɛ, wa ka dusu kɔ ye min bɛ
-  daminɛ tile kɔfɛ walima su kɔfɛ ka gɛlɛya. Ko minnu b'a fɛ ka dɛmɛ ka ɲɛ,
-  olu ye: ɲɛnɛmaya fɛɲɛ dɔ, tile ni wulila tile fɛ, tile kɔfɛ sɔrɔ-dan
-  tɛmɛnen, don min ka gɛlɛn kɔfɛ, ka kafe dɔ dɔ tɛmɛ ka ɲɛ, su kɔfɛ ka fitinni
-  kɔnɔ, kɔnɔ ka mɔgɔ-dɔ-dɔ tɛ, ani ɲɛnɛmaya dɔ kɛ i ka yɛrɛ ka sɔn: fɔlɔ,
-  nɛgɛ kɛnɛ, ani wulilenw. Hakili kura walima gɛlɛya kura kɔnɔ wa wa ka sɔrɔ,
-  dɔktɔrɔ ka ɲɛnɛmaya ka ɲɛ.
+  Sundowning ye hɛrɛ-hɛrɛ, dɔn-dɔn walima ni-ni ye min bɛ daminɛ lɔnni kɔfɛ
+  walima kɔfɛ-kɔfɛ waati la ka nɛnɛ. Ɲɛfɛ kɛlɛ ladilikan minnu bɛ se ka dɛmɛ,
+  o ye don o don ɲɛnɛmaya, zɛkɛ ni ɲɛ ni dɔgɔkun dɔ, sanji ka kɛ wulufɛ,
+  sɛgɛn ka kɔfɛ, a ka kɛ dɔgɔ, dugu lanpɛ ka kɛ dɔgɔ kɔfɛ, dugu ka nɛɲɛ dɔgɔ,
+  ani kɛlɛ dɔgɔ tɛmɛnen i n'a fɔ dɔnkili, foto walima sanmuru kɛ. Kɔfɛ kura
+  walima ka nɛnɛ nɔɔrɔ, dɔkitɔrɔ ka ɲɛ.
 keyPoints:
-  - "Sundowning kɔrɔ: hakili gɛlɛya walima hakili fili min daminɛ walima min gɛlɛyara tile kɔfɛ."
-  - "Kɛlɛ gɛlɛnw, sigida ni yɛrɛ ka bɔ-bɔ kɛlɛw kɛ tile fɛ walima tile kɔfɛ-dɛ."
-  - "Tile sɔrɔ, don min ka gɛlɛn kɔfɛ, su kɔfɛ sigi tɛ ani kafe tɛmɛ ka ɲɛ, o bɛ se ka kɛ ka su kɔfɛ kɛ ɲɛɲɛ ye."
-  - "Fitila kɛ tile dɔgɔ ɲɛ, sɛbɛn ka dɔgɔ, ani kɛlɛ dɔgɔyalen ni yɛrɛyɛrɛ kɛlɛw kɛ."
-  - "Sɛbɛn kɛ dɔgɔ kɛlɛw ka sɔrɔ, ani ka hakili jigi, hakili gɛlɛya daminɛ ka kɔnɔ ka ɲɛnɛmaya kɛ."
-  - "Dɔktɔrɔ ka ɲɛ hakili kura walima gɛlɛya kura kɔnɔ: wɛrɛ, dusukasi walima dawa ka dɛmɛ bɛ se ka kɛ."
+  - "Sundowning ye hɛrɛ-hɛrɛ walima dɔn-dɔn ye min bɛ daminɛ walima ka nɛnɛ ni lɔnni bɛ tɛmɛ."
+  - "Kɛlɛ min bɛ kɛ ka gɛlɛn, sira ni ɲɛ ka tɛmɛ, o kɛ wulufɛ walima zɛkɛ kɔfɛ."
+  - "Zan ni sigi kɔnɔ, tile kɔfɛ ka mɔ dɔgɔ, ni kafɛ dɔgɔ kɔfɛ ka ɲɛfɛ, o bɛ se ka kɛ dɔgɔ lɔnni kɔfɛ."
+  - "Lanpɛ kɛ ka kɛ dɔgɔ kɔfɛ, ka nɛɲɛ dɔgɔ, ani kɛlɛ dɔgɔ tɛmɛnen minnu bɛ dɔn."
+  - "Kɛ jurunali ka dɛmɛ kɛ ka ka dimi kɛlɛw dɔn, ani hɛrɛ-hɛrɛ daminɛ tuma la, i ka hakili sabati ka hɛrɛ kɛ."
+  - "Dɔkitɔrɔ ka wele kura walima ka nɛnɛ dimi tuma minnu bɛ kɛ: nɛgɛ, walasa dɔ walima dawa bɛ se ka kɛ tuma dɔ ye."
 faq:
-  - q: "Tile jamana cogo jumɛn na sundowning bɛ kɛ?"
-    a: "A bɛ daminɛ walima gɛlɛya tile kɔfɛ walima tile kɔfɛ ɲɛgɛn, tile bɛ bɔ ka dɔgɔya. Waati bɛ taa mɔgɔ kelen kelen la, o de kosɔn sɛbɛn gɛlɛn kɛ dɔgɛ kelen walima fila ka dɛmɛ."
-  - q: "Kɛlɛ jumɛn bɛ dɛmɛ sundowning la?"
-    a: "Kɛlɛ dɔgɔ, kɛlɛ min ye ka kɛ ani min ye ka dɔn, kɛlɛ min tɛ fɛn caman ɲini, o bɛ ɲɛ tile kɔfɛ: dɔgɔ dɛgɛ, fɔtɔ ɲɛ, ɲɛnɛmaya min ka fɛn kɛ, nɛgɛ kɛnɛ, sigiɲɛ kɛ ka taa, walima ka kɛlɛ ka dumuni kɛ ni ɲɔgɔn ye. Kɛlɛ kura ni kɛlɛ gɛlɛnw tile fɛ."
-  - q: "Sundowning bɛ se ka kɛ dɔktɔrɔ fɛn ye wa?"
-    a: "Dɔ bɛ se ka kɛ ka gɛlɛya kɛ wɛrɛ, sisi tugu ye, infection min ko urinary tract infection, dusu-dɔrɔ walima dawa ka kɛ-dɔ. Hakili gɛlɛya kura walima ka gɛlɛya ka sɔrɔ, mɔgɔ dɔktɔrɔ ka wele."
-  - q: "Ne kɛra ka dɔktɔrɔ ka dawa sundowning kɔsɔn ka ɲini wa?"
-    a: "O ye kuma ye min ka kɛ dɔktɔrɔ fɛ. Alzheimer's Association ko dɔrɔ tɛ dɔ kɔfɛ ɲɛfɛ ka ɲɛ, ani dawa min bɛ se ka kɛ su kɔfɛ hakili gɛlɛya kɔsɔn, o ka kɛ ɲɛfɛ kɔfɛ ka nafa ni kɔ ye. Nin pajɛ tɛ dawa ko di."
+  - q: "Sundowning bɛ kɛ waati juman la?"
+    a: "A bɛ daminɛ walima ka nɛnɛ kɔfɛ-kɔfɛ walima lɔnni kɔfɛ, tuma min na lanpɛ bɛ ɲɛ. Waati bɛ yɛrɛ yɛrɛ ka ɲɛ mɔgɔ kelen kelen la, o de y'a to jurunali ka dɛmɛ don kelen walima fila."
+  - q: "Kɛlɛ juman bɛ dɛmɛ sundowning ma?"
+    a: "Kɛlɛ dɔgɔ, minnu ye ko dɔ ye u kɔnɔ, minnu bɛ kɛ ka gɛlɛn ɲɛ, o bɛ kɛ ka ɲɛ kosɛbɛ lɔnni kɔfɛ: dɔnkili ka nɛgɛ, foto ka ɲɛ, walasa ɲɛ ka sɔrɔ ni ka kɛ kunnafoni kɛ, sɛgɛn dɔgɔ, sanmuru kɛ, ni dugukolo ka taama dɔgɔ, walima ka dumuni kɛ ɔnhɔn. Kɛlɛ kura walima ka gɛlɛn kɛlɛw, u sanni wulufɛ."
+  - q: "Sundowning bɛ se ka kɛ dɔgɔtɔrɔ dimi ye wa?"
+    a: "A bɛ se ka kɛ dimi ɲɛnamaw ye, i n'a fɔ nɛgɛ, dimi kɔnɔ, i n'a fɔ kɔnɔ dimi, sɛgɛn ɲɛ ka dimi walima dawa ka sɔn. Ni hɛrɛ-hɛrɛ kura ye walima ka nɛnɛ, ka wele mɔgɔ ka dɔkitɔrɔ."
+  - q: "Ka dawa kan sundowning kɔrɔ dɔkitɔrɔ ye wa?"
+    a: "O ye kuma ye min ka kɛ dɔkitɔrɔ ye. Alzheimer's Association ko kɛlɛ min tɛ dawa ye, o bɛ dɔn ka ɲɛ tuma caman na, ani dawa min bɛ lɔnni kɔfɛ hɛrɛ kɔrɔ, o bɛ kɛ ka ɲɛfɛ kɔnɔ ni kɛlɛ ka nafa ni kɛlɛ ka kɔrɔ sɔn. Nin páji tɛ dawa kɔrɔ kuma di."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,100 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Mɔgɔ caman filɛ ko kɛlɛ bɛ kɛ kelen: wulila ka ɲɛ, nka tile kɔfɛ, dementia la mɔgɔ min bɛ i dɛmɛ, a bɛ kɛ hakili gɛlɛyalen, hakili gɛlɛyalen, walima a bɛ kɛ dusu kɔ ye ka bɔ ka tɛ. A bɛ taa fɛ, a bɛ ko "ka taa so" o bɛ kɛ a yɛrɛ so la, walima a bɛ kɛ dusukasi fɛ ka bɔ. Mɔgɔ caman b'o ko sundowning.
+Mɔgɔ caman ye o ɲɛ: sɛgɛn-sɛgɛn la, mɔgɔ min bɛ dimi dementia ye, a bɛ kɛ hakili ɲɛɲɛ, a bɛ kɛ hɛrɛ, dɔn-dɔn, walima a bɛ kɛ ni-ni ye. A bɛ taama, a bɛ fɔ ko "ka ταγαλιsi so kɔnɔ," hali ni a bɛ so kɔnɔ, walima a bɛ kɛ ni-ni ye ka tɛmɛ. O bɛ wele ko sundowning.
 
-Kɛlɛ kelen tɛ, nka tile ka ɲɛnɛmaya, so ni kɛlɛ ka yɛrɛyɛrɛ kɔnɔ, o bɛ se ka tile kɔfɛ kɛ ka ɲɛ. Nin pajɛ ye ɲɛnɛmaya sɔn min bɛ bɔ National Institute on Aging ni Alzheimer's Association fɛ. A tɛ dɔktɔrɔ ka ko. Ni kɔnɔ ɲɛnɛmaya kura walima gɛlɛya kura kɔnɔ wa wa ka sɔrɔ, kuma dɔktɔrɔ fɛ mɔgɔ min bɛ i dɛmɛ.
+Kɛlɛ hakilina kelen tɛ, nka don ka ɲɛnɛmaya, dugu ni kɛlɛ ka ladilikan ye, o bɛ se ka lɔnni kɔfɛ kɛ hɛrɛ kɛ. Nin páji bɛ hakilina dɔgɔ-dɔgɔ ta National Institute on Aging ni Alzheimer's Association bɛ. A tɛ dɔkitɔrɔ kuma ye. Ni dimi kura ye walima ka nɛnɛ, ka kuma ni mɔgɔ ka dɔkitɔrɔ ye.
 
-## Sundowning ye jumɛn ye?
+## Sundowning ye mun ye?
 
-Sundowning ye hakili gɛlɛya, dusu kɔ ye, dusu kɔ ye dusu kɔ ye walima hakili fili min daminɛ walima min gɛlɛyara tile kɔfɛ, tile sɔrɔ ka dɔgɔya, tile kɔfɛ walima tile kɔfɛ ɲɛgɛn. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ko mɔgɔ min ka tɔ ka ɲɛ, o bɛ se ka hakili gɛlɛya tile kɔfɛ kɛlɛ gɛlɛya.
+Sundowning ye hɛrɛ-hɛrɛ, dimi, dɔn-dɔn walima hakili ɲɛɲɛ ye min bɛ daminɛ walima ka nɛnɛ lanpɛ ka dɔgɔ tuma la, lɔnni kɔfɛ walima kɔfɛ-kɔfɛ la. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ko ka sɔn ko sɛgɛn ka bon ka hɛrɛ-hɛrɛ kɛ lɔnni kɔfɛ.
 
-## Jumɛn ye tile kɔfɛ hakili gɛlɛya kɛlɛ gɛlɛya?
+## Mun bɛ lɔnni kɔfɛ hɛrɛ-hɛrɛ kɛ ka nɛnɛ?
 
-Fɛn caman bɛ se ka kɛ, u bɛ kɛ ɲɔgɔn fɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ko fɛn nin ye:
+Kɛlɛw caman bɛ se ka kɛ, u bɛ se ka kɛ ɲɔgɔn fɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) bɛ kɛlɛw nin fɔ:
 
-- tile caman kɔfɛ sɔnnin;
-- kɔnɔ kura walima fɛn kura, min ka fɛn dɔ dɔ tɛ dɔn;
-- "dɔ kɔnɔ dusukasiko" min ka tɛ ɲɛfɛ, o kɛra ko mɔgɔ bɛ sɔn tile la, a bɛ wulila la;
-- dɔgɔ ni dɔgɔ dɔgɔ, min bɛ kɛ hakili gɛlɛya;
-- mɔgɔ wɛrɛw ka dusukasi walima hakili gɛlɛya min bɛ mɔgɔ ye;
-- sɔn dɔgɔ min ka caya mɔgɔ caman la, o ye dusu kɔnɔ ye.
+- don bɛ kɛ ka gɛlɛn tile kɔnɔ;
+- sigiyɔrɔ kura walima ka ɲɛfɛ kɔfɛ;
+- "sɛgɛn ka kɔrɔ" min tɛ ɲɔgɔn fɛ, o bɛ kɛ ka sɛgɛn kɔnɔ ka sɛgɛn, ka dɔn-dɔn ka ɲɛnɛ;
+- lanpɛ dɔgɔ ni dugu dɔgɔ, o bɛ se ka kɛ dɔn-dɔn ye;
+- mɔgɔ ka hɛrɛ-hɛrɛ ka ɲɛ, mɔgɔ min bɛ a ɲɛ kɔnɔ;
+- dɔ dɔgɔ sɛgɛn, o bɛ kɛ dɔ ye mɔgɔ dɔ dɔ kɔnɔ.
 
-NIA ko dusukasi dɔ fana bɛ kɛ: fɛn gɛlɛnw, dusukasi walima hakili gɛlɛya, sɔn dɔgɔ, mɔgɔ caman walima kɔnɔ fitinni, ani dawa walima dawa ka kɛ-dɔ.
+NIA bɛ dɔ wɛrɛ fɔ: nɛgɛ, dimi kɔnɔ, sɛgɛn dɔgɔ, dugu nɛɲɛ caman, dawa ni dawa ka kɛlɛ.
 
-## I bɛ se ka tile sigida di cogo di ka su kɔfɛ ka ɲɛ?
+## Mun bɛ se ka kɛ ka tile ladilikan kɛ ka lɔnni kɔfɛ ɲɛfɛ?
 
-Tile kɔfɛ kɛlɛ gɛlɛnw bɔ tile fɛ, tile kɔfɛ ka dɔgɔ ani ka ɲɛnɛmaya. NIA ni Alzheimer's Association b'a fɔ ko ɲɛnɛmaya kɛ. Nin ye tile misali ye, i bɛ se ka kɛ i yɛrɛ ka sigida ye:
+Kɛlɛ bɛ kɛ kɛlɛ kɔfɛ, ka waati kɔfɛ tɛmɛn tile kɔfɛ. NIA ni Alzheimer's Association bɛ fɔ ko ka sɛgɛn ladilikan kɛ. Nin ye tile misali dɔ ye, i bɛ se ka ɲɛfɛ i yɛrɛ ka tile kɔnɔ:
 
-| Waati | Min bɛ dɛmɛ |
+| Waati | Min bɛ se ka dɛmɛ |
 | --- | --- |
-| Tile fɛ | Ɲɔgɔn sɔrɔli, dɔ ni dɔgɔ ye, dan, ani kɛlɛ min bɛ fɔ ka kɛ, tuma min na mɔgɔ caman bɛ hakili jigi |
-| Tile wulila kɔ | Ɲɔgɔn sɔrɔli ka dɔ, fitila ka kɛ ka kɔrɔ; ka taa ka kɛ walima kɛlɛ wɛrɛ |
-| Tile kɔfɛ-dɛ | Ka sɔrɔ ni ka kɔnɔ ka sɛgɛn, ni a wajibi ye; nka sigi kɔnɔ ka ɲɛ |
-| Tile kɔfɛ ɲɛgɛn | Kɛlɛ dɔgɔyalen, ko min bɛ dɔn; nɛgɛ ni dɔ, kafe tɛ |
-| Tile ka bɔ ka dɔgɔ | Fitila kɛ kɔnɔ, ka dan-kɔrɔ ka sɔrɔ tile dɔgɔ ka bɔ |
-| Su kɔfɛ | Don min ka gɛlɛn, dɔgɔ kɔnɔ, sigi ka dɔgɔ, ani su kɔfɛ ka sɔrɔ ka kɛ kɛlɛ ɲɛ |
+| Wulufɛ | Dɔnkili, kɔnɔ kɔrɔ, sira ni kɛlɛ min bɛ kɛ ka gɛlɛn, mɔgɔ caman bɛ ɲɛ wulufɛ |
+| Wulufɛ kɔfɛ | Waati ka kɛ kɔnɔ walima ka ɲɛ ka kɛ kɔnɔ; taama walima kɛlɛ dɔ |
+| Tile tɛmɛ | Sɛgɛn caman; ka dumuni ni ji ; sɛgɛn kɔnɔ |
+| Tile kɔfɛ | Ka dumuni ka sɛgɛn kɔnɔ ka kɛ dɔgɔ kɔfɛ (Alzheimer's Association bɛ fɔ ko dumuni caman ka kɛ tile tɛmɛ ni dumuni dɔgɔ ka kɛ tile kɔfɛ) |
+| Tile kɔfɛ kɔrɔ | Dɔ dɔgɔ, ni a sɛgɛn, ka sɛgɛn kɔnɔ |
+| Lɔnni kɔfɛ kɔrɔ | Lanpɛ kɛ, ka mafɔ ni kɛ kɔnɔ, ka dugu ni nɛɲɛ dɔgɔ |
+| Lɔnni | Dumuni dɔgɔ, nɛɲɛ dɔgɔ, kɛlɛ dɔgɔ, ka sɛgɛn ni kɔnɔ ni ka kɛ kɔnɔ |
 
-Fɛn dɔw min bɔ sɔnnin kɔnɔ:
+Kuma dɔw min bɛ bɔ sɔrsiraw la:
 
-- **Tile.** NIA ko i ka mɔgɔ tile sɔrɔ ka tile dɔgɔ ka bɔ walima kɔnɔ fitila la kɔrɔ tile dɔ.
-- **Ka taa, nka ka caya tɛ.** Kɛlɛ ka kɛ tile dɔ ka taa, nka ka kɛlɛ caman tɛ, NIA ko.
-- **Ka nɛgɛ kɛnɛ tile kɔfɛ.** Tile kɔfɛ ka kafe ni nɛgɛ kɛnɛ, i ka kafe, Coca-Cola walima tɛmɛ-dɔ tɛ. Alzheimer's Association b'a fɔ ko nicotine fana bɛ hakili gɛlɛya kɛ (NIA).
-- **Nɛgɛ.** NIA ko ka nɛgɛ gɛlɛn ni sigi tile kɔfɛ ka ɲɛ. Alzheimer's Association b'a fɔ ko, ni su kɔfɛ sigi ye gɛlɛya ye, nɛgɛ tile la ka dɔgɔya.
+- **Lanpɛ.** NIA bɛ fɔ ko i ka kɛ ka taama kɔnɔ walima ka sigi lanpɛ kɔnɔ ka lanpɛ sɔrɔ tile kɔnɔ.
+- **Kɛlɛ, nka kɛ ka dɔgɔ.** Kɛ ka kɛlɛ kɛ tile kɔnɔ, nka kɛlɛ caman kɛ tɛ, NIA ko.
+- **Ji lɔnni kɔfɛ.** Ka alikɔlɛ ni sɛgɛn ji min kɔnɔ kafɛ, i n'a fɔ kafɛ walima kola, lɔnni kɔfɛ, NIA ko. Alzheimer's Association bɛ nikɔtin fɔ.
+- **Sɛgɛn.** NIA bɛ fɔ ko sɛgɛn dɔgɔ ka kɛ tile kɔfɛ. Alzheimer's Association bɛ fɔ ko sɛgɛn dɔgɔ ka kɛ tile kɔfɛ, ni ko sɛgɛn kɔnɔ ka tɛ ɲɛfɛ.
 
-I bɛ se ka kalan kɛ ni tile ɲɛnɛmaya ye, [daily routine activities](/activities/daily-routine/) ye.
+Ka dɛ tile ladilikan kɔrɔ, i ka [dɔnkili ni ladilikan](/activities/daily-routine/) ye.
 
-## I bɛ se ka kɔnɔ kɛ dɔgɔ tile kɔfɛ?
+## Mun bɛ se ka kɛ ka dugu nɛɲɛ dɔgɔ lɔnni kɔfɛ?
 
-Fɛn dɔgɔ kɛ, fitila kɛ, ani fɛn ɲɔgɔn kɛ.
+Nɛɲɛ dɔgɔ, lanpɛ kɔnɔ, ani dɔ dɔ ka kɛ ɲɛ.
 
-- **Fitila dɔgɔ ani ka ɲɛ.** Alzheimer's Association b'a fɔ ka kɔnɔ kɛ fitila ka ɲɛ su kɔfɛ. Fitila ka ɲɛ, a sɔrɔ wulila.
-- **Dɔgɔ kɛlɛ.** Ka TV ni radio kɛ dɔgɔ walima ka bɔ, ka mɔgɔ caman ni kɔnɔ kɛlɛ gɛlɛn tile kɔfɛ. Alzheimer's Association ko TV, kɛlɛ ni dunun gɛlɛn ka bɔ.
-- **Fɛn ɲɔgɔn.** NIA ko dunun dɔgɔ ni fɛn min bɛ mɔgɔ dusu-ɲɛ ani foto ka kɛ kɔnɔ.
-- **Dusukasi ka ɲɛ.** Alzheimer's Association b'a fɔ ka ɲɛ dusukasi, wɛrɛ, ni, nɛgɛ, sisi tugu, infection, ani ka dusu ka ɲɛ, kɔnɔ ka dusu ka ɲɛ.
-- **I yɛrɛ ka dusukasi.** Mɔgɔ bɛ dusukasi ɲɛ. NIA ko i ka ɲɛnɛmaya ka ɲɛ ka i yɛrɛ ka dusukasi bɔ ni i bɛ sɔn.
+- **Lanpɛ ka ɲɛ.** Alzheimer's Association bɛ fɔ ko i ka dugu lanpɛ ka ɲɛ lɔnni kɔfɛ. Lanpɛ ka sigi ɲɛ sɛgɛn sɔrɔ.
+- **Nɛɲɛ dɔgɔ.** TV ni radiyo ka kɛ dɔgɔ walima ka kɛ ka dɔgɔ. Alzheimer's Association bɛ fɔ ko i ka TV, kɛlɛ ni dumuni nɛɲɛ dɔgɔ lɔnni kɔfɛ.
+- **Dɔ ka kɛ ka ɲɛ.** NIA bɛ fɔ ko sɛgɛn ni dugu ka dɔnkili, ni ko i ka nɛgɛ kɛ dugu kɔnɔ.
+- **Dimi ɲɛnɛ.** Alzheimer's Association bɛ fɔ ko i ka dimi ɲɛ, dɔn, nɛgɛ, dimi kɔnɔ, sɛgɛn, sɛgɛn ni kɔnɔ kɔrɔ, ani ka ji sɛgɛn ka kɛ dɔgɔ.
+- **I yɛrɛ hakili.** Mɔgɔ bɛ hɛrɛ-hɛrɛ ka ɲɛ. NIA bɛ fɔ ko i ka hakili ka kɛ dɔgɔ ka sɛgɛn ni i ka hakili ka kɛ dɔgɔ, ni i ka hakili bɛ dimi.
 
-## Jumɛn ye dɔgɔ kɛlɛw tile kɔfɛ?
+## Mun ye kɛlɛ dɔgɔ min bɛ se ka kɛ lɔnni kɔfɛ?
 
-Kɛlɛ min ye ka kɛ, min tɛ ɲɛnɛ, min bɛ se ka bɔ. Alzheimer's Association ko dunun dɔgɔ, foto walima film min bɛ mɔgɔ dusu-ɲɛ, ani taa ɲɔgɔn ni ɲɔgɔn ka dɛmɛ. NIA ko nɛgɛ walima dɔ, TV min bɛ mɔgɔ dusu-ɲɛ, dunun, taa, kalan, walima so kɛlɛ dɔgɔ kɛ: fɛn ɲɔgɔn ka fɛn caman sɔrɔ.
+Kɛlɛ min bɛ kɛ ka gɛlɛn, dɔnkili, ka sɛgɛn, ka kɛ ka dɔgɔ ka se ka ban. Alzheimer's Association bɛ fɔ kɛlɛ dɔgɔ min tɛ dimi kɔnɔ: dumuni dɔgɔ, foto, walima sanmuru min bɛ ka kɛ, ani taama ni mɔgɔ dɔ. NIA bɛ fɔ dumuni walima ji dɔgɔ, TV sanmuru min bɛ ka kɛ, dumuni, taama, kalan, walima kɛlɛ dugu kɔnɔ, i n'a fɔ sɛgɛn sanmuru kɛ.
 
 Kɛlɛ min bɛ se ka kɛ:
 
-1. **Ɲɔgɔn ni fɛn ɲɔgɔn ka ɲɛ.** NIA ko kɛlɛ dɔgɔ nin ye. Fɛn min ka gɛlɛn tɛ, dɔ min bɛ bɔ ka ɲɛ.
-2. **Dunun min bɛ mɔgɔ dusu-ɲɛ.** Dunun min bɛ kɔrɔ ka kɛ ka tɛ ɲɛfɛ, dɔgɔ kɔnɔ. Ka dunun kɛ ka dɛ kɛ, o kɛ kɛlɛ ye. A dɔ [music activities](/activities/music/) la.
-3. **Foto ɲɛ.** Foto kɔnɔ walima foto kɛlɛ dɔw [Photo Pairs](/games/photo-pairs/) la, foto ɲɛ, o bɛ kɛ kuma dɔgɔ ye.
-4. **Taa dɔgɔ.** Sigida walima kɔrɔ kɔnɔ, fitila ka bɔ.
-5. **Nɛgɛ ani dɔ ɲɔgɔn.** Fɛn ka dɔgɔ, ka ɲɛ, nɛgɛ tɛ kafe, sigi ɲɔgɔn fɛ.
-6. **Ɲɔgɔn ka kɛlɛ dɔgɔ.** [Picture Pairs](/games/picture-pairs/) ni tile naani ni foto ɲɛ, a bɛ se ka daminɛ ani ka bɔ.
-7. **Ka kɛ ni kala.** [Coloring](/games/coloring/) kɔnɔ walima sɛbɛn kɔnɔ, ni ka kɛ kɛlɛ tɛ ka ɲɛ.
-8. **Ka ɲɛ ani ka kuma.** [Conversation Cards](/games/conversation-cards/) bɛ foto ni kuma dɔ di. Ka ɲɛ kɛ a ɲɛ.
-9. **Ka sɔn ka sɔrɔ.** [Calm Breathing](/games/calm-breathing/) ye sɔn dɔgɔ ye, i yɛrɛ bɛ se ka daminɛ ani ka bɔ.
-10. **Bolo kɛlɛ.** Bɔnɛ walima sɔsɔ-yɛrɛ sɔrɔ, dɔ min ka dɔgɔ ka dɔ, walima fɛn kɛnɛ kɔnɔ min bɛ mɔgɔ dusu-ɲɛ. [sensory activities](/activities/sensory/) ɲɛ.
+1. **Sanmuru kɛ ni ɲɔgɔn ye.** NIA bɛ fɔ kɛlɛ dugu kɔnɔ nin. Fɛnw ka se ka ta, ka kɛlɛ dɔnkili.
+2. **Dumuni min bɛ ka kɛ.** Dumuni min bɛ ka kɛ ka fɔ ka dɔ ni u kɔnɔ, ka dɔ dɔgɔ. Ka hɔrɔnya ka kɛ ka hakili. Dumuni caman [dumuni kɛlɛw](/activities/music/) kɔnɔ.
+3. **Foto ka ɲɛ.** Foto kɔnɔ, walima foto dɔw min bɛ [Photo Pairs](/games/photo-pairs/) kɔnɔ ka foto ɲɛ, o bɛ se ka kuma dɔgɔ kɛ.
+4. **Taama dɔgɔ.** Sɛgɛn ka kɔnɔ, sira ka kɔnɔ, walima kɔnɔ kɔrɔ, lanpɛ ka dɔgɔ tuma la.
+5. **Sɛgɛn ni ji ɲɔgɔn fɛ.** Dɔ dɔgɔ, dumuni ka kɛ, ji dɔgɔ min tɛ kafɛ, tabali kɔnɔ ɲɔgɔn fɛ.
+6. **Ɲɛnɛma dɔgɔ.** [Picture Pairs](/games/picture-pairs/) ni tile naani ani foto ɲɛ, o ka se ka daminɛ ani ka ban.
+7. **Kalan.** [Coloring](/games/coloring/) sanmuru kɔnɔ walima kɔnɔ kɔnɔ, ka kɛ ka ban tɛ.
+8. **Ɲɛ ni kuma.** [Conversation Cards](/games/conversation-cards/) bɛ foto ni kuma dɔgɔ di. Ka ɲɛ kɛ ka sɔrɔ.
+9. **Ɲɛfɔ jɔ.** [Calm Breathing](/games/calm-breathing/) ye ɲɛfɔ dɔgɔ ye min i yɛrɛ bɛ daminɛ ani ka ban.
+10. **Bolo kɛlɛw.** Bɔnɔ walima sɔkɔ sɔrɔ, sɛgɛn min ka ca ka dɔgɔ, walima fɛn min bɛ ka kɛ. A ye [sensory activities](/activities/sensory/) ye.
 
-Kɛlɛ kura tile kɔfɛ, sɔrɔ ni fɛn caman min bɛ hakili caman ɲini, u ye tile fɛ.
+Kɛlɛ kura, taama caman ni hakili caman ka kɛ tile kɔfɛ, o ka ban. O kɛlɛw kɛ wulufɛ.
 
-## Jumɛn kɛ hakili gɛlɛya daminɛ?
+## Mun kɛ ka kɛ hɛrɛ-hɛrɛ daminɛ tuma la?
 
-Hakili jigi, ko i ye kuma dɔgɔ ye, ka mɔgɔ hakili bɔ ka dɔ kɛ. NIA ko kuma dɔgɔ ni kuma, mɔgɔ ka hakili ɲɛ, ka kuma jɛ ni ɲɔgɔn ye tɛ, ka mɔgɔ ye ko a bɛ se a yɛrɛ ka dɛ, ani ka boloɲɛ kɛ, ni a dɛmɛ. Ka sɔrɔ, ka dɔ kɛ: nɛgɛ, dɔ, dunun walima taa.
+Hakili sabati, kɔrɔ dɔ, ka sɛgɛn ka kɔrɔ. NIA bɛ fɔ ko ka kuma ka sɛgɛn, ka mɔgɔ ka dɔn-dɔn lɔn, ka kɛlɛ kɛ ka kɛlɛ ka ban, ka fɔ ko a bɛ ɲɛ, ani ka kɛ ka kɛlɛ dɔgɔ ka ɲɛfɛ dɛmɛ. Tuma min na, ka dɔnkili kɛ: dumuni, ji, dumuni walima taama.
 
-Alzheimer's Association ko kuma nin ye: "I bɛ se ka dɛ kɔnɔ" ani "Ne ka ɲɛ ko i dusukasi bɛ." A ko ka kɔnɔ ka ɲɛ, ka sɔn, ka fɛn caman tɛ. Mɔgɔ kɛ ka kɛ ni ka ɲɛ kɛ, walima ka kɔnɔ kɛ, walima ka kɛlɛ kɛ.
+Alzheimer's Association bɛ fɔ kuma dɔw: "I bɛ ɲɛ yan" ani "N bɛ ɲɛ ko i bɛ dimi." A bɛ fɔ ko lanpɛ, sɛgɛn ni kɛlɛ dɔgɔ kɛ. Aw kɛ ka mɔgɔ ka kɛ kɔnɔ ni ka mɔgɔ ka kɛ kɛlɛ dɔgɔ tɛ.
 
-Ni mɔgɔ dɔ bɛ kɛ kɔrɔ ka kɛ, NIA ko ka tɛ ka kɛlɛ kɛ ka bɔ ka ɲɛ. Ni kɛlɛ bɛ kɛ dɛ, i ka wuli-nɔmɔrɔ ni ka fɔ ko mɔgɔ dementia la (i ka wuli-nɔmɔrɔ ka ɲɛfɛ, i ka kɔnɔ wuli-nɔmɔrɔ ka wele).
+Ni mɔgɔ bɛ kɛ ka ɲɛ kɛ hɛrɛ kɔrɔ, NIA bɛ fɔ ko i ka tɛmɛ ni a bɛ sigi ka ɲɛ ka ban. Hɛrɛ kɔnɔ, i ka wele dɛmɛ nimɔrɔ min bɛ i ka siraba la, ka a fɔ ko mɔgɔ min bɛ dimi dementia ye.
 
-I ka [communication](/caregiving/communication-tips/) ani [what to do when they say no](/caregiving/when-they-say-no/) ka kalan dɔw bɛ kuma hakili gɛlɛya kɔsɔn.
+I ka [kuma ka kɛlɛ](/caregiving/communication-tips/) ni [a ka kɛ ko ɔn-ɔn fɔ](/caregiving/when-they-say-no/) kɔnɔ, ka kuma caman sɔrɔ.
 
-## Ne bɛ se ka hakili gɛlɛya fɛɛrɛ ka sɔrɔ cogo di?
+## Mun bɛ se ka kɛ ka dɔn dɔ ka sababu?
 
-Sɛbɛn kɛ dɔgɔ kɛ tile dɔgɔ walima fila kɔnɔ. Alzheimer's Association ko i ka fɛn min bɛ kɛ sundowning kɔfɛ, o sɛbɛn ka ɲɛ. Sɛbɛn ka sɔn tile min na hakili gɛlɛya daminɛ, tile kɔrɔ fɛn min kɛra, sɔn, dunun, nɛgɛ, dɔ, mɔgɔ, dunun ni fitila. Sɛbɛn in ka dɔktɔrɔ fɛ. NIA ko hakili gɛlɛya ka sɛbɛn kɛ, o bɛ dɛmɛ ka mɔgɔ ye ka hakili gɛlɛya fɔ.
+Jurunali dɔgɔ ka kɛ don kelen walima fila. Alzheimer's Association bɛ fɔ ko i ka ɲɛfɛ ka dɔn mun bɛ kɛ sundowning kɔfɛ. Kɔ ka dɔn hɛrɛ daminɛ waati, sɛgɛn kɔfɛ kɛlɛ, dumuni walima ji, mɔgɔ, dugu ni lanpɛ. I ka jurunali nin fɛ dɔkitɔrɔ ye. NIA bɛ fɔ ko jurunali ka kɛ dɛmɛ ka dɔn kɛlɛ dɔw.
 
-## Jumɛn tuma na ka dɔktɔrɔ ka wele sundowning kɔsɔn?
+## Dɔkitɔrɔ ka wele tuma juman?
 
-Ni hakili gɛlɛya kura bɛ kɛ, walima a bɛ kɛ kɛlɛ wɛrɛw kɔnɔ, mɔgɔ min bɛ i dɛmɛ ka dɔktɔrɔ ka wele. NIA ko hakili gɛlɛya sisan walima dɔgɔ min bɛ kɛ infection kɔfɛ walima dawa kɔfɛ, o ka dɔktɔrɔ ka ɲɛ tuma tɛmɛnen.
+Ni hɛrɛ-hɛrɛ kura ye, ni a bɛ kɛ ka nɛnɛ, walima ni kɛlɛ wɛrɛw bɛ kɛ, o kɔnɔ, i ka wele mɔgɔ ka dɔkitɔrɔ. NIA bɛ fɔ ko dɔn-dɔn sɛgɛn ni dɔn-dɔn, dawa kɔnɔ kɛlɛ kɔfɛ, i ka wele dɔkitɔrɔ ka kɛ ka sɛgɛn.
 
-Ka dɔktɔrɔ ka ɲɛ fɛn min bɛ tile kɔfɛ kɛlɛ gɛlɛya. Alzheimer's Association ko sisi tugu, urinary tract infection, dɔ-bɔ tɛ ka bɔ, restless legs, ani sɔn-jɔrɔ ka ɲɛ (sleep apnea), ani ka dawa kɔnɔ waati jumɛn ye ka kɛ. NIA ko dusu gɛlɛya, nɛgɛ tɛ, ani dawa kɔfɛ ɲɛfɛ ye dɔ ye min bɛ hakili gɛlɛya kɛ.
+Ka dɔkitɔrɔ ka kɛ ka dɔn dimi min bɛ kɛ kɛlɛ ka gɛlɛn. Alzheimer's Association bɛ fɔ nɛgɛ, dɔ ka dimi, sɛgɛn dɔgɔ, ani sɛgɛn ka kɛ. A bɛ fɔ ko i ka dɔkitɔrɔ ka dawa min tɛmɛ ni waati juman ka kɛ ka ɲɛ. NIA bɛ fɔ dimi, kɔnɔ dimi ni dawa kɛlɛ dɔgɔ kɛlɛ.
 
-Alzheimer's Association ko sɔn-jɔrɔ kɔfɛ, dawa tɛ kɛ fɔlɔ ka kɛ, nka dawa min bɛ tile kɔfɛ hakili gɛlɛya kɔsɔn, o ka kɛ ni ka sɔrɔ ka dɔ bɛɛ ka ɲɛ. O kɛlɛ ye dɔktɔrɔ ka ye. Dawa, sɔn-dɔrɔ, walima dɔrɔ-dɔ ka kɛ-dɔ, dɔktɔrɔ ka kuma tɛ, o tɛ kɛ.
+Alzheimer's Association bɛ fɔ ko dawa tɛ ka kɛ kɛlɛ dɔgɔ ye ka kɛ sɛgɛn kɔfɛ kɔnɔ, nka ni kɛlɛ tɛ kɛ, dawa ka kɛ ka dɔn ka nafa ni kɔrɔ sɔn. O kɛlɛ ye dɔkitɔrɔ ka ye. Dawa, sɛgɛn dawa, walima dɔ dɔgɔ kɛ, i ka tɛ kɛ dɔkitɔrɔ ka kɔrɔ tɛ.
 
-## Ne bɛ se ka tile kɔfɛ ka sɔrɔ cogo di?
+## I yɛrɛ ka lɔnni kɔfɛ mun na?
 
-Tile kɔfɛ bɛ se ka kɛ ka gɛlɛn ka tɛmɛ mɔgɔ ka tile la. Ni i bɛ se, mɔgɔ dɔ, teri, walima mɔgɔ min bɛ wari ka kɛ ka dɛmɛ, o ka tile kɔfɛ kɛ ɲɛfɛ, don kelen walima fila kɔnɔ, dɔgɔ kelen fana. I ka kalan [caregiver self-care](/caregiving/caregiver-self-care/) bɛ sɔn dɛmɛ min bɛ kɛ, ani Alzheimer's Association ka 24/7 Helpline, min tɛ wari kɛ (Ameriki).
+Lɔnni kɔfɛ bɛ se ka kɛ mɔgɔ ka tile kɔnɔ kɛlɛ ka gɛlɛn. Ni i bɛ se, i ka mɔgɔ dɔ, teri, walima wari kɛlɛ dɔ ka lɔnni kɔfɛ ka kɛ tile kelen, dɔ dɔgɔ kɔnɔ. [caregiver self-care](/caregiving/caregiver-self-care/) páji bɛ fɔ dɛmɛ caman, ani Alzheimer's Association 24/7 Helpline, min tɛ wari.

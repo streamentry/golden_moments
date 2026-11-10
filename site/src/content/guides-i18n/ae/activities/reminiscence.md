@@ -1,28 +1,32 @@
 ---
-title: "𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬐𐬀𐬭𐬆𐬨𐬁: 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬀𐬥𐬀 𐬎𐬙 𐬗𐬌𐬚𐬭𐬀"
-seoTitle: "𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬐𐬀𐬭𐬆𐬨𐬁 𐬠𐬆𐬰𐬆 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀"
-description: "𐬐𐬀𐬚𐬁 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬵𐬀𐬨 𐬨𐬀𐬱𐬌𐬌𐬀 𐬫𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬵𐬀𐬨 𐬰𐬍𐬎𐬎𐬀𐬌𐬙𐬌 𐬠𐬀𐬰𐬆𐬨 𐬎𐬙 𐬀𐬞𐬆𐬭𐬆𐬯𐬀𐬌𐬙𐬌: 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬎𐬑𐬙𐬌, 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬀𐬥𐬀 𐬎𐬙 𐬰𐬍𐬎𐬎𐬀𐬵 𐬐𐬌𐬙𐬁𐬠."
+title: "Paitišmarana-Varəza: Maranō-dāna, Gayō-saxvān, Patikarā"
+seoTitle: "Paitišmarana Maranō-Nipānāi: A-Pərəsāni Raθiia"
+description: "Cithra maranā hąm-dāte mashyāi yəm nipāhi a-pərəsai: patikaranąm saxvan, maranō-dāna, gayō-patra, vačō yōi rāməm dādayeinti."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬨𐬀𐬥𐬀𐬌𐬙𐬌 𐬵𐬀𐬨 𐬞𐬀𐬭𐬋 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬵𐬎𐬛𐬀 𐬵𐬀𐬨 𐬗𐬌𐬚𐬭𐬀, 𐬛𐬀𐬙𐬀, 𐬔𐬁𐬚𐬁 𐬎𐬙 𐬐𐬀𐬚𐬁. 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬀𐬥𐬀 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙𐬀, 𐬯𐬀𐬭𐬀𐬮𐬀 𐬰𐬍𐬎𐬎𐬀𐬵 𐬐𐬌𐬙𐬁𐬠 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙𐬀, 𐬫𐬀 𐬵𐬀𐬨 𐬗𐬌𐬚𐬭𐬀 𐬞𐬀𐬵𐬮𐬎𐬎𐬀 𐬛𐬍𐬛𐬀𐬌𐬙𐬀. 𐬨𐬁 𐬀𐬞𐬆𐬭𐬆𐬯𐬀𐬌𐬙𐬀: "𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀𐬌 𐬎𐬎𐬁?" 𐬎𐬙 "𐬐𐬀𐬵𐬌 𐬵𐬀𐬎?" 𐬨𐬁 𐬎𐬎𐬀𐬗𐬀𐬙𐬀; 𐬎𐬎𐬀𐬗𐬀𐬙𐬀 𐬫𐬀𐬚𐬁 "𐬀𐬯 𐬀𐬵𐬨𐬀𐬙 𐬛𐬌𐬥𐬀 𐬀𐬯𐬨𐬀𐬌 𐬐𐬀𐬚𐬀𐬌." 𐬵𐬎𐬎𐬀 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬀𐬯 𐬵𐬀𐬇𐬚𐬌𐬌𐬀 𐬭𐬁𐬱𐬙𐬌 𐬥𐬀𐬉𐬭𐬆𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌.
+  Paitišmaranam aiti rāmam parō-gayāt hąm-baxtīm haδa patikarāiš, dānāiš,
+  sraošanaica, saxvānāišca. Maranō-dānam kərənu, gayō-patram daδāt, ayāp
+  patikaranąm haδa paiti-vaēna. Mā pərəsa: vi-tara «Aipī paitišmarahi?» apaca
+  «Kō asti aēšō?», vačōca paiti-bara yaθa «Māum aētat paiti-mruhi».
+  Hąm-saxvanəm rāmanō vazram asti yaθa a-draojīm arš-dātəm.
 keyPoints:
-  - "𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬀𐬯𐬙𐬌, 𐬥𐬋𐬌𐬙 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬥𐬀. 𐬭𐬁𐬱𐬙𐬌 𐬥𐬀 𐬥𐬀𐬉𐬭𐬆𐬙𐬀𐬭𐬀; 𐬵𐬎𐬛𐬀 𐬵𐬎𐬎𐬀 𐬀𐬯𐬙𐬌."
-  - "'𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀𐬌 𐬎𐬎𐬁?' 𐬎𐬙 '𐬐𐬀𐬵𐬌 𐬵𐬀𐬎?' 𐬯𐬞𐬀𐬭𐬆𐬛𐬀 𐬎𐬙 𐬎𐬎𐬀𐬗𐬀𐬙𐬀 𐬫𐬀𐬚𐬁 '𐬀𐬯 𐬀𐬵𐬨𐬀𐬙 𐬛𐬌𐬥𐬀 𐬀𐬯𐬨𐬀𐬌 𐬐𐬀𐬚𐬀𐬌.'"
-  - "𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬀𐬥𐬀 𐬀𐬯 𐬛𐬀𐬙𐬀 𐬰𐬍𐬎𐬎𐬀𐬵 𐬨𐬀𐬱𐬌𐬌𐬀 𐬵𐬀𐬯𐬙𐬀𐬌 𐬎𐬙 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬛𐬀𐬙𐬀𐬌 𐬛𐬀𐬛𐬀𐬌𐬙𐬌."
-  - "𐬰𐬍𐬎𐬎𐬀𐬵 𐬐𐬌𐬙𐬁𐬠 𐬨𐬀𐬱𐬌𐬌𐬀 𐬥𐬀𐬟𐬀𐬭𐬀, 𐬀𐬞𐬀𐬭𐬀 𐬎𐬙 𐬵𐬀𐬨𐬎𐬗𐬀𐬭𐬀 𐬨𐬀𐬱𐬌𐬌𐬀 𐬠𐬀𐬰𐬀𐬥𐬀𐬙𐬌, 𐬥𐬀 𐬐𐬆𐬎𐬎𐬀𐬮𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀."
-  - "𐬫𐬀𐬛𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬎𐬑𐬨𐬀𐬥𐬀 𐬀𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬌, 𐬞𐬀𐬎𐬎𐬀𐬌 𐬛𐬀𐬛𐬀𐬌𐬙𐬀 𐬎𐬙 𐬥𐬀𐬭𐬆𐬨𐬀 𐬀𐬥𐬌𐬌𐬀 𐬐𐬀𐬭𐬆𐬨𐬀 𐬞𐬀𐬌𐬭𐬌 𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀."
+  - "Paitišmaranam asti hąm-saxvanəm, nōit pərəsā. Arš-saxvanəm nōit vazram asti; rāma vazra asti."
+  - "Vi-tara «Aipī paitišmarahi...?» uta «Kō asti aēšō?», paiti-mruhi ca yaθa «Māum aētat ayan paiti-mruhi»."
+  - "Maranō-dānam haδa tištrīm parō-gayāt zastanąm hąm-saxvanaca aojō daδāiti."
+  - "Gayō-patram xvaētave, aγvanāi, upa-karanaca nāram xšnāsāiti, nōit tōxməm vi-xvašnəm."
+  - "Yaδa paitišmaranam anāxštīm baraite, paoirīm rāməm daδāti uta nərəuye vi-tara."
 faq:
-  - q: "𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬨𐬀𐬱𐬌𐬌𐬀 𐬫𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬵𐬀𐬨 𐬰𐬍𐬎𐬎𐬀𐬥𐬙𐬌 𐬗𐬌𐬨 𐬀𐬯𐬙𐬌?"
-    a: "𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬎𐬙 𐬞𐬀𐬭𐬋 𐬀𐬥𐬎𐬠𐬎𐬙𐬀 𐬵𐬀𐬨 𐬠𐬀𐬰𐬀𐬌𐬙𐬌, 𐬠𐬀𐬵𐬎 𐬵𐬀𐬨 𐬗𐬌𐬚𐬭𐬀, 𐬛𐬀𐬙𐬀, 𐬔𐬁𐬚𐬁 𐬫𐬀 𐬎𐬎𐬍𐬛𐬌𐬌𐬀. 𐬀𐬌𐬙𐬀 𐬀𐬉𐬎𐬎𐬀 𐬀𐬉𐬎𐬎𐬀 𐬫𐬀 𐬵𐬀𐬨 𐬔𐬀𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌. 𐬀𐬭𐬆𐬚𐬀 𐬵𐬎𐬎𐬀 𐬎𐬙 𐬀𐬭𐬆𐬚𐬀𐬎𐬎𐬀𐬥𐬙 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬀𐬯𐬙𐬌, 𐬥𐬀 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬥𐬀 𐬫𐬀𐬙 𐬗𐬌𐬨 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀𐬌."
-  - q: "𐬗𐬌𐬨 '𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀𐬌 𐬎𐬎𐬁?' 𐬥𐬀 𐬞𐬆𐬭𐬆𐬯𐬀𐬌𐬙𐬀?"
-    a: "𐬞𐬆𐬭𐬆𐬯𐬀 𐬫𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌 𐬨𐬀𐬱𐬌𐬌𐬀 𐬀𐬟𐬭𐬀𐬥𐬀 𐬫𐬀 𐬎𐬎𐬉𐬠𐬀𐬥𐬀 𐬐𐬀𐬭𐬆𐬙 𐬫𐬀𐬛𐬀 𐬞𐬀𐬌𐬙𐬌𐬱𐬨𐬀𐬭 𐬥𐬀 𐬀𐬌𐬙𐬌. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) 𐬀𐬌𐬙𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬀𐬯 𐬐𐬀𐬭𐬆𐬨𐬀 𐬫𐬀 𐬞𐬀𐬭𐬌𐬵𐬀𐬭𐬆𐬥𐬀𐬌𐬙𐬀 𐬔𐬀𐬥𐬀𐬌𐬙𐬌. 𐬫𐬀𐬙 𐬛𐬍𐬛𐬀𐬌𐬙𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬀 𐬎𐬙 𐬨𐬀𐬱𐬌𐬌𐬀 𐬫𐬀𐬙 𐬐𐬁𐬨𐬀𐬌𐬙𐬌 𐬎𐬎𐬀𐬗𐬀𐬙𐬀."
-  - q: "𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬀𐬥𐬀 𐬀𐬥𐬙𐬀𐬭𐬆 𐬗𐬌𐬨 𐬛𐬀𐬛𐬀𐬌𐬙𐬀?"
-    a: "𐬯𐬎𐬭𐬀𐬑𐬱𐬌𐬙𐬀 𐬎𐬙 𐬛𐬆𐬭𐬆𐬰𐬭𐬀 𐬛𐬀𐬙𐬀 𐬀𐬯 𐬰𐬍𐬎𐬎𐬀𐬵 𐬨𐬀𐬱𐬌𐬌𐬀 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀: 𐬐𐬀𐬭𐬆𐬨𐬀 𐬛𐬀𐬙𐬀, 𐬵𐬎𐬛𐬀 𐬐𐬀𐬭𐬆𐬨𐬀 𐬛𐬀𐬙𐬀, 𐬞𐬭𐬌𐬌𐬀 𐬎𐬎𐬀𐬯𐬙𐬭𐬀, 𐬗𐬌𐬚𐬭𐬀 𐬞𐬀𐬙𐬀𐬌, 𐬐𐬀𐬭𐬆𐬨𐬀 𐬐𐬌𐬙𐬁𐬠, 𐬎𐬎𐬀𐬭𐬆𐬰𐬀 𐬫𐬀𐬛𐬔𐬁𐬭 𐬫𐬀 𐬗𐬌𐬚𐬭𐬀 𐬞𐬀𐬙𐬌. 𐬙𐬌𐬰𐬭𐬀 𐬛𐬀𐬙𐬀, 𐬑𐬱𐬎𐬛𐬭𐬀 𐬛𐬀𐬙𐬀 𐬫𐬀 𐬎𐬎𐬀𐬭𐬀 𐬀𐬞𐬀𐬌𐬙𐬌 𐬱𐬀𐬐𐬌𐬌𐬀, 𐬎𐬙 𐬀𐬥𐬀𐬞𐬆𐬭𐬆𐬙𐬀 𐬀𐬯𐬮𐬀 𐬨𐬁 𐬛𐬀𐬛𐬀𐬌𐬙𐬀."
-  - q: "𐬫𐬀𐬛𐬀 𐬵𐬀𐬇𐬚𐬌𐬌𐬁 𐬭𐬁𐬱𐬙𐬀 𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬥𐬙𐬌 𐬗𐬌𐬨 𐬐𐬀𐬭𐬆𐬙𐬀?"
-    a: "𐬀𐬎𐬎𐬀𐬯𐬭𐬀𐬌𐬙𐬀. 𐬫𐬀𐬛𐬀 𐬨𐬁𐬙𐬁 𐬎𐬎𐬀𐬗𐬀𐬙𐬌 𐬫𐬀𐬙 𐬗𐬌𐬚𐬭𐬀 𐬵𐬎𐬎𐬀𐬌 𐬵𐬎𐬎𐬀𐬥𐬎𐬎 𐬛𐬀𐬭𐬆𐬱𐬀𐬌𐬙𐬌 𐬎𐬙 𐬀𐬌𐬙𐬀 𐬵𐬎𐬎𐬀𐬌 𐬞𐬌𐬙𐬭𐬀𐬟𐬙𐬀𐬭 𐬀𐬯𐬙𐬌, 𐬵𐬎𐬎𐬀 𐬀𐬯𐬙𐬌. 𐬭𐬁𐬱𐬙𐬌 𐬐𐬀𐬭𐬆𐬥𐬀 𐬵𐬎𐬎𐬀 𐬑𐬱𐬀𐬥𐬀 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬥𐬀 𐬐𐬀𐬭𐬆𐬙𐬌. 𐬐𐬀𐬚𐬁 𐬫𐬀 𐬎𐬎𐬀𐬗𐬀𐬥𐬙𐬌 𐬞𐬀𐬌𐬭𐬌 𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀 𐬎𐬙 𐬵𐬀𐬨 𐬵𐬎𐬛𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬀."
+  - q: "Čiš asti paitišmaranam mashyāka yōi ušī-vītarəta?"
+    a: "Paitišmaranam asti parō-mananəm uta gayō-vaēpanąm hąm-dāiti haδa patikarāiš, tištrīm, sraošanaica, vidēōica. Asti aēva-haδa ayāp hanjamanē. Cinman asti rāmō-da hąm-saxvanəm, nōit pərəsā citiš martiyāka paitišmaraiti."
+  - q: "Afrīnāi mā pərəsō «Aipī paitišmarahi?»"
+    a: "Pərəsā yā maranəm pərəsaiti š́ātīm vi-nāθayeiti yaδa paiti-vacō nōit aiti. National Institute on Aging paitišmaranō-pərəsāma paurvō-vi-taranąm dāiti. Vaēnam paiti-mruhi, uta mashyāka yā vasi paiti-daδāiti."
+  - q: "Cim dānē maranō-dāne daδāni?"
+    a: "Dranjō drvōca tištriya gayāt vi-cina: varəzō-tištra, sparanō-tištra, vaŋhānəm, patikarā-patra, xvarəθō-sāstrā, ayāp patikara-haxti. Tarštō-dāraya tīγrīm tištrīm, kasvā yōi vi-mərəzīnti, uta paurvō-dāta yā nōit paiti-dāiti."
+  - q: "Ciš yaδa an-arš-dātəm mravanti?"
+    a: "Haca aētat fra-vaēza. Yaδa mātā paiti-mravaiti patikara xvaŋharəm daēsayete yaδa tūiryā asti, nōit an-āstāra. Arš-kərəitīš rāmam ō pərəsąm vaŋhaiti. Saxvanəm yəm mravanti anvarte uta haδa xšnūyehe."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,82 +45,82 @@ related: [activities/ideas, activities/music, activities/visiting, activities/ph
 health: false
 ---
 
-𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬨𐬀𐬥𐬀𐬌𐬙𐬌 𐬵𐬀𐬨 𐬞𐬀𐬭𐬋 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬵𐬎𐬛𐬀 𐬵𐬀𐬨 𐬠𐬀𐬰𐬀𐬌𐬙𐬀. 𐬠𐬀𐬵𐬎 𐬨𐬀𐬱𐬌𐬌𐬀 𐬫𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬵𐬀𐬨 𐬰𐬍𐬎𐬎𐬀𐬥𐬙𐬌, 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬀𐬯 𐬛𐬎𐬭𐬀 𐬯𐬀𐬮𐬀 𐬭𐬀𐬎𐬱𐬥𐬀𐬙𐬀𐬭𐬀 𐬀𐬯 𐬀𐬌𐬨𐬀 𐬯𐬎𐬠𐬀𐬵 𐬫𐬀𐬙 𐬵𐬀𐬎 𐬯𐬞𐬆𐬥𐬙𐬀. 𐬗𐬌𐬚𐬭𐬀, 𐬀𐬞𐬀𐬭𐬀 𐬛𐬀𐬙𐬀, 𐬔𐬁𐬚𐬁 𐬎𐬙 𐬐𐬀𐬚𐬁 𐬀𐬌𐬨𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬎𐬎𐬍𐬰𐬀𐬌𐬙𐬌 𐬎𐬙 𐬵𐬎𐬎𐬀 𐬗𐬌𐬱 𐬵𐬀𐬨 𐬠𐬀𐬰𐬀𐬌𐬙𐬀 𐬛𐬀𐬛𐬀𐬌𐬙𐬌. 𐬀𐬉𐬎𐬎𐬀 𐬥𐬌𐬌𐬁𐬨𐬀: 𐬀𐬌𐬙𐬀 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬀𐬯𐬙𐬌, 𐬵𐬀𐬭𐬆𐬰 𐬥𐬋𐬌𐬙 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬥𐬀.
+Paitišmaranam aiti rāmam parō-gayāt haδa baxtīm. Mashyāka yōi ušī-vītarəta, maranā parō-dahyūnanam vi-spāiti darəγō-tara yaθa aētat asni yā bavaiti. Patikarā, xvaētō-tištra, sraošanaica saxvānā aēte maranā paiti-vistāra daδāiti uta rāmō-dāna hąm-baxtayeiti. Aēva dātā: asti hąm-saxvanəm, mā pərəsā.
 
-## 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬗𐬌𐬨 𐬀𐬯𐬙𐬌, 𐬎𐬙 𐬀𐬯 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬥𐬀 𐬐𐬀𐬚𐬁 𐬠𐬌𐬥𐬀 𐬀𐬯𐬙𐬌?
+## Čiš asti paitišmaranam, uta yaθa tarō pərəsā?
 
-𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬵𐬀𐬨 𐬗𐬌𐬚𐬭𐬀, 𐬛𐬀𐬙𐬀, 𐬔𐬁𐬚𐬁 𐬫𐬀 𐬎𐬎𐬍𐬛𐬌𐬌𐬀 𐬠𐬀𐬰𐬀𐬌𐬙𐬌, 𐬵𐬎𐬎𐬀 𐬔𐬀𐬙𐬌 𐬨𐬀𐬱𐬌𐬌𐬀. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) 𐬀𐬌𐬙𐬀 𐬫𐬀𐬚𐬁 𐬞𐬀𐬭𐬋 𐬀𐬥𐬎𐬠𐬎𐬙𐬀 𐬎𐬙 𐬐𐬀𐬚𐬁 𐬵𐬀𐬨 𐬗𐬌𐬚𐬭𐬀, 𐬛𐬀𐬙𐬀, 𐬎𐬎𐬍𐬛𐬌𐬌𐬀 𐬫𐬀 𐬔𐬁𐬚𐬁, 𐬀𐬥𐬙𐬀𐬭𐬆 𐬐𐬌𐬙𐬁𐬠 𐬫𐬀 𐬙𐬀𐬠𐬮𐬆𐬙 𐬎𐬎𐬀𐬭𐬥𐬀𐬌𐬙𐬌. 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬥𐬀 𐬀𐬥𐬌𐬌𐬀 𐬀𐬯𐬙𐬌: 𐬀𐬌𐬙𐬀 𐬀𐬯 𐬨𐬀𐬱𐬌𐬌𐬀 𐬭𐬁𐬱𐬙𐬀 𐬞𐬀𐬌𐬙𐬌𐬱𐬨𐬀𐬭 𐬐𐬁𐬨𐬀𐬌𐬙𐬌, 𐬎𐬙 𐬀𐬌𐬙𐬀 𐬀𐬟𐬭𐬀𐬥𐬀 𐬀𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬌.
+Paitišmaranam asti marananam hąm-dāiti haδa patikarāiš, tištrīm, sraošanaica ayāp vidēōica, nərəhe xvatō raθye. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mravaiti yaθa asti parō-saxvananam uta gayō-vaēpanąm hąm-dāiti haδa patikarāiš, tištrīm, vidēōica sraošanaica, patre ayāp dēn tablet. Pərəsā tarō asti: pərəsaiti mashyāi arš-paitivacim dāte, aētatca vi-nāθəm baraite nōit xšnūtim.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) 𐬞𐬆𐬭𐬆𐬯𐬀 𐬫𐬀𐬛𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬫𐬀 𐬐𐬀𐬵𐬌𐬙 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀𐬌 𐬀𐬯 𐬐𐬀𐬭𐬆𐬨𐬀 𐬫𐬀 𐬞𐬀𐬭𐬌𐬵𐬀𐬭𐬆𐬥𐬀𐬌𐬙𐬀 𐬔𐬀𐬥𐬀𐬌𐬙𐬌. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) 𐬞𐬆𐬭𐬆𐬯𐬀 𐬫𐬀 𐬀𐬯 𐬥𐬀𐬰𐬛𐬌𐬐𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬥𐬌𐬱𐬀𐬥𐬙𐬌 𐬞𐬀𐬭𐬌𐬵𐬀𐬭𐬆𐬥𐬀𐬌𐬙𐬀 𐬎𐬙 𐬀𐬯 𐬛𐬎𐬭𐬀 𐬞𐬀𐬭𐬋 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬀𐬭𐬆𐬥𐬀𐬌 𐬯𐬎𐬘𐬀𐬌𐬙𐬌.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) nibaodayeiti pərəsąm yaδa mashyāka paitišmaraiti aētat ayāp naram yaθa vi-taranəm. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) mravaiti mā pərəsō pərəsąm yā kəsu-maranē paiti-stāna, uta parō-darəγa-gayāt hąm-saxva.
 
-| 𐬀𐬌𐬨𐬀 𐬯𐬞𐬀𐬭𐬆𐬛𐬀 | 𐬀𐬌𐬨𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬀 |
+| Tarō an-aētat | Varəza |
 | --- | --- |
-| "𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬀𐬌𐬨𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀𐬌 𐬎𐬎𐬁?" | "𐬀𐬌𐬨𐬀 𐬵𐬎𐬎𐬀 𐬛𐬌𐬥𐬀 𐬛𐬀𐬭𐬆𐬱𐬀𐬌𐬙𐬌. 𐬀𐬯 𐬀𐬵𐬨𐬀𐬙 𐬀𐬯𐬨𐬀𐬌 𐬐𐬀𐬚𐬀𐬌." |
-| "𐬐𐬀𐬵𐬌 𐬵𐬀𐬎 𐬀𐬯𐬙𐬌?" | "𐬀𐬌𐬚𐬭𐬀 Aunt Rose 𐬀𐬯 𐬛𐬀𐬭𐬀𐬌𐬌𐬀. 𐬀𐬵𐬨𐬀𐬙 𐬐𐬎𐬮𐬁𐬵 𐬛𐬍𐬛𐬀𐬌𐬙𐬀." |
-| "𐬐𐬀𐬙𐬀𐬭𐬀 𐬯𐬀𐬮𐬀 𐬠𐬎𐬙?" | "𐬀𐬌𐬨𐬀 𐬞𐬀𐬎𐬭𐬎𐬎𐬀 𐬛𐬆𐬨𐬁𐬥𐬀 𐬛𐬀𐬭𐬆𐬱𐬀𐬌𐬙𐬌. 𐬀𐬥𐬙𐬀𐬭𐬆 𐬰𐬍𐬎𐬎𐬀𐬌𐬙𐬀 𐬐𐬀𐬚𐬀 𐬠𐬎𐬙?" |
-| "𐬥𐬀, 𐬀𐬌𐬙𐬀 Bill 𐬥𐬋𐬌𐬙, 𐬀𐬌𐬙𐬀 Frank 𐬀𐬯𐬙𐬌." | "𐬵𐬀𐬎 𐬵𐬎𐬎𐬀 𐬛𐬀𐬭𐬆𐬱𐬀𐬌𐬙𐬌." |
-| "𐬙𐬎 𐬀𐬌𐬙𐬀 𐬞𐬎𐬭𐬎𐬎𐬀 𐬀𐬯𐬨𐬀𐬌 𐬎𐬎𐬀𐬗𐬀." | "𐬀𐬵𐬨𐬀𐬌 𐬀𐬌𐬨𐬀 𐬐𐬀𐬚𐬁 𐬞𐬭𐬌𐬌𐬀 𐬀𐬯𐬙𐬌." |
+| «Aipī aētat paitišmarahi?» | «Aētat ayan š́ātō-daēnō daēsayete. Māum paiti-mruhi.» |
+| «Kō asti aēšō?» | «Ida asti Aunt Rose arədō-zaraye. Vaēna aētat xvaoda.» |
+| «Čiš sarda aēšō āhat?» | «Aētat parō-nmānam daēsayete. Yaθa āhat anhati ida?» |
+| «Nōit, aēšō nōit Bill, aēšō Frank asti.» | «Aēšō vasi š́ātō daēsayete.» |
+| «Tū aētat mãm parō-mraot̃.» | «Aētam gayō-saxvanəm vasi xšnāvayehe.» |
 
-## 𐬐𐬀𐬚𐬁 𐬀𐬯 𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬀𐬭𐬆𐬙𐬀 𐬠𐬆𐬰𐬆 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬥𐬀?
+## Yaθa patikarāiš hąm-saxvahi a-pərəsāiti?
 
-𐬫𐬀𐬙 𐬛𐬍𐬛𐬀𐬌𐬙𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬀, 𐬞𐬀𐬯𐬗𐬀 𐬨𐬀𐬱𐬌𐬌𐬀 𐬫𐬀𐬙 𐬐𐬁𐬨𐬀𐬌𐬙𐬌 𐬗𐬌𐬱 𐬎𐬎𐬀𐬗𐬀𐬙𐬀 𐬀𐬎𐬎𐬀𐬯𐬭𐬀𐬌𐬙𐬀.
+Paoirīm vaēnam mruhi, pascaēca mashyāi gātūm daδā yaθa paiti-dātəm vasi mravāt.
 
-1. **𐬵𐬀𐬨 𐬞𐬀𐬵𐬮𐬎𐬎𐬀 𐬥𐬌𐬱𐬀𐬥𐬙𐬀.** 𐬀𐬮𐬠𐬎𐬨 𐬀𐬥𐬙𐬀𐬭𐬆 𐬎𐬎𐬁 𐬛𐬀𐬭𐬆𐬛𐬀 𐬫𐬀𐬙 𐬵𐬀𐬨 𐬛𐬍𐬛𐬀𐬌𐬙𐬀, 𐬥𐬀 𐬀𐬯 𐬛𐬎𐬭𐬀 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀.
-2. **𐬗𐬀𐬥𐬛 𐬗𐬌𐬚𐬭𐬀 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀.** 𐬞𐬀𐬧𐬗𐬀 𐬵𐬎𐬎𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬯 𐬵𐬀𐬨𐬀 𐬛𐬀𐬥𐬀 𐬎𐬎𐬀𐬵𐬌𐬌𐬀 𐬀𐬯𐬙𐬌. 𐬨𐬀𐬵𐬀𐬥𐬙 𐬎𐬙 𐬭𐬀𐬎𐬱𐬥𐬀 𐬗𐬌𐬚𐬭𐬀 𐬎𐬎𐬀𐬵𐬌𐬌𐬀 𐬀𐬯𐬙𐬌.
-3. **𐬥𐬁𐬨𐬀 𐬵𐬎𐬎𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬀.** "𐬀𐬌𐬚𐬭𐬀 𐬙𐬎 𐬎𐬙 Dad 𐬀𐬯 𐬎𐬎𐬀𐬌𐬎𐬎𐬀𐬵 𐬛𐬌𐬥𐬀" 𐬠𐬀𐬭𐬀 𐬀𐬞𐬀𐬥𐬀𐬌𐬙𐬌.
-4. **𐬀𐬯 𐬗𐬌𐬱𐬀 𐬎𐬎𐬀𐬗𐬀𐬙𐬀.** 𐬎𐬎𐬀𐬯𐬙𐬭𐬀, 𐬭𐬀𐬚𐬀, 𐬑𐬀𐬭𐬆𐬚𐬀, 𐬎𐬎𐬁𐬙𐬀, 𐬗𐬌𐬚𐬭𐬀. "𐬗𐬌 𐬭𐬀𐬚𐬀. 𐬀𐬌𐬙𐬀 𐬵𐬎𐬎𐬀 𐬭𐬀𐬎𐬱𐬥𐬀 𐬛𐬀𐬭𐬆𐬱𐬀𐬌𐬙𐬌."
-5. **𐬥𐬌𐬨𐬀𐬥𐬙𐬀𐬥𐬀 𐬐𐬀𐬭𐬆𐬙𐬀, 𐬥𐬀 𐬠𐬀𐬮𐬀.** "𐬀𐬯 𐬀𐬵𐬨𐬀𐬙... 𐬐𐬀𐬚𐬀𐬌" 𐬫𐬀 "𐬗𐬌𐬨 𐬛𐬍𐬛𐬀𐬌𐬙𐬀?" 𐬵𐬎𐬱 𐬠𐬎𐬙 𐬀𐬯𐬙𐬌.
-6. **𐬞𐬀𐬌𐬭𐬌 𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀.** 𐬫𐬀𐬛𐬀 𐬀𐬯 𐬀𐬥𐬌𐬌𐬀 𐬗𐬌𐬱 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬀𐬭𐬆𐬥𐬙𐬌, 𐬵𐬀𐬨 𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀.
-7. **𐬫𐬀𐬛𐬀 𐬵𐬎𐬎𐬀 𐬀𐬯𐬙𐬌 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀.** 𐬞𐬎𐬭𐬎𐬎𐬀 𐬀𐬯 𐬟𐬭𐬀𐬥𐬙𐬀 𐬀𐬮𐬠𐬎𐬨 𐬠𐬀𐬥𐬛𐬀𐬌𐬙𐬀.
+1. **Haδa-ara ni-šida.** Patikara-patram antarə yūšma dāraya yaθa haδa vaēnaθa, nōit pərəsaiti tarō mayānəm.
+2. **Kəsu-patikarā vi-cina.** Panca vahištā patikarā vahišta yaθa vīspa dānā. Masita arš-patikarā vahišta kərənavainti.
+3. **Nāmanica xvatō mruhi.** «Ida stō tū uta Pitar daθrahe asni» a-aojō daδāiti.
+4. **Tištrīm paiti-vaēna.** Vastrā, vāša, xvarəθa, vāta, paitī-dīm. «Čiš vāšō. Vasi raoxšnō daēsayete.»
+5. **Paiti-bara, mā aojaye.** «Māum aētat paiti-mruhi...» ayāp «Čim vaēnahi?» Tūšnīš dātā asti.
+6. **Aiwi-dātam anvarte.** Yaδa vispō-tarō saxvanəm mravanti, haδa aēte gəmata.
+7. **Paiti-mara yaδa rāma asti.** Patikara-patram paiti-vara parō yaθa š́kambō āyāt.
 
-𐬛𐬀𐬙𐬀 𐬗𐬌𐬚𐬭𐬀 𐬥𐬌𐬨𐬀𐬥𐬙𐬀𐬥𐬀 𐬐𐬁𐬨𐬀𐬌𐬙𐬀, [conversation cards](/games/conversation-cards/) 𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀. 𐬵𐬎𐬎𐬀 𐬥𐬀𐬟𐬀𐬭𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬥𐬙𐬀𐬭𐬆 𐬥𐬀𐬭𐬆𐬨𐬀 𐬵𐬀𐬨𐬎𐬗𐬀𐬭𐬀 𐬐𐬀𐬭𐬆𐬨𐬀 𐬐𐬀𐬭𐬆𐬙𐬀, [photo pairs](/games/photo-pairs/) 𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀; 𐬗𐬌𐬚𐬭𐬀 𐬫𐬀 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀 𐬀𐬥𐬙𐬀𐬭𐬆 𐬎𐬎𐬁 𐬠𐬭𐬀𐬎𐬰𐬀𐬭 𐬀𐬯𐬙𐬌.
+Parō-dātāiš patikara-vačō, varəza [conversation cards](/games/conversation-cards/). Yaθa xvatō xvaētō-patikarā rāmō-hąm-dāne kərənavahi, varəza [photo pairs](/games/photo-pairs/); patikarā yā vi-cinahi dēn browseyer aipī-stānte.
 
-## 𐬐𐬀𐬚𐬁 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬀𐬥𐬀 𐬐𐬀𐬭𐬆𐬙𐬀?
+## Yaθa maranō-dānam kərənavahi?
 
-𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬀𐬥𐬀 𐬛𐬀𐬥𐬀 𐬀𐬯 𐬛𐬀𐬙𐬀 𐬰𐬍𐬎𐬎𐬀𐬵 𐬨𐬀𐬱𐬌𐬌𐬀 𐬀𐬯𐬙𐬌 𐬫𐬀 𐬛𐬀𐬭𐬆𐬛𐬀 𐬎𐬙 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬀𐬭𐬆𐬙𐬀.
+Maranō-dānam asti dānō tištrinam haca nərəhe gayāt zastō-dārayāi uta hąm-saxvanāi.
 
-1. **𐬛𐬆𐬭𐬆𐬰𐬭𐬀 𐬛𐬀𐬥𐬀 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀** 𐬫𐬀 𐬎𐬎𐬍𐬰𐬀𐬌𐬙𐬀 𐬯𐬎𐬑𐬀 𐬀𐬯𐬙𐬌, 𐬫𐬀𐬚𐬁 𐬞𐬁𐬛𐬀 𐬛𐬀𐬥𐬀, 𐬐𐬎𐬮𐬁𐬵 𐬛𐬀𐬥𐬀 𐬫𐬀 𐬑𐬱𐬎𐬛𐬭𐬀 𐬛𐬀𐬭𐬎 𐬛𐬀𐬥𐬀.
-2. **𐬀𐬉𐬎𐬎𐬀 𐬎𐬎𐬌𐬱𐬀𐬌𐬌𐬀 𐬫𐬀 𐬵𐬀𐬨𐬀 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀.** 𐬐𐬀𐬭𐬆𐬨𐬀, 𐬵𐬎𐬛𐬀 𐬐𐬀𐬭𐬆𐬨𐬀, 𐬀𐬯𐬙𐬀𐬥𐬀, 𐬛𐬀𐬵𐬀𐬥𐬀, 𐬫𐬀 𐬑𐬱𐬎𐬛𐬭𐬀 𐬀𐬯 𐬵𐬀𐬨𐬀.
-3. **𐬯𐬎𐬭𐬀𐬑𐬱𐬌𐬙𐬀 𐬛𐬀𐬙𐬀 𐬵𐬀𐬨𐬎𐬗𐬌𐬥𐬎𐬌𐬙𐬀.** 𐬞𐬀𐬧𐬗𐬀 𐬀𐬯 𐬛𐬀𐬯𐬀 𐬛𐬀𐬙𐬀 𐬀𐬭𐬀𐬨𐬠𐬀 𐬠𐬀𐬯𐬀𐬙𐬌.
-4. **𐬀𐬥𐬀𐬞𐬆𐬭𐬆𐬙𐬀 𐬗𐬌𐬱𐬀 𐬞𐬀𐬙𐬌 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀.** 𐬀𐬥𐬀𐬞𐬆𐬭𐬆𐬙𐬀 𐬗𐬌𐬚𐬭𐬀 𐬎𐬙 𐬐𐬌𐬙𐬁𐬠 𐬞𐬀𐬙𐬌 𐬐𐬀𐬭𐬆𐬙𐬀 𐬎𐬙 𐬀𐬯𐬮𐬀 𐬯𐬎𐬭𐬀𐬑𐬱𐬌𐬙𐬀 𐬛𐬀𐬭𐬆𐬛𐬀.
-5. **𐬀𐬉𐬎𐬎𐬀 𐬀𐬉𐬎𐬎𐬀 𐬛𐬀𐬙𐬀 𐬠𐬀𐬭𐬀 𐬐𐬀𐬭𐬆𐬙𐬀.** 𐬀𐬉𐬎𐬎𐬀 𐬛𐬀𐬛𐬀𐬌𐬙𐬀, 𐬀𐬯 𐬀𐬵𐬨𐬀𐬙 𐬎𐬎𐬀𐬗𐬀𐬙𐬀, 𐬎𐬙 𐬛𐬍𐬛𐬀𐬌𐬙𐬀 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬎𐬚𐬭𐬀 𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬌.
+1. **Dranjō dānam vi-cina** yā hu-vi-pātā asti, yaθa aothra-dānam, xvaoda-dānam ayāp kasu dāuru-cistām.
+2. **Māyā ayāp vi-baxtīm vi-cina.** Varəzō, sparanō, asō, dahyu-sarda, ayāp kəsu vispahē.
+3. **Drvō tištrīm hąm-bara.** Panca yava dasa tištriya hąm-dātāi pouru asti.
+4. **Paityāpəm arəja-tištrinam varəza.** Paityāpəm kərənu a-vi-nāθa patikarā uta patrā, paurvō-dātā drvō dāraya.
+5. **Aēva-aēva tištrīm paiti-nisa.** Zaste dā, aētat paiti-mruhi, uta vaēna kva saxvanəm š́iiaveiti.
 
-𐬛𐬀𐬙𐬀 𐬫𐬀 𐬀𐬥𐬙𐬀𐬭𐬆 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀:
+Fravašatāni daδāiti:
 
-- **𐬐𐬀𐬭𐬆𐬨𐬀:** 𐬥𐬁𐬨𐬀 𐬗𐬌𐬥𐬵𐬀, 𐬑𐬱𐬎𐬛𐬭𐬀 𐬀𐬎𐬰𐬁𐬭, 𐬎𐬎𐬀𐬯𐬙𐬭𐬀 𐬞𐬀𐬙𐬌, 𐬮𐬆𐬑𐬀𐬭, 𐬵𐬀𐬨𐬎𐬗𐬀𐬭 𐬑𐬎𐬥𐬛, 𐬐𐬀𐬭𐬆𐬨𐬀 𐬐𐬌𐬙𐬁𐬠.
-- **𐬛𐬆𐬨𐬁𐬥𐬀:** 𐬐𐬀𐬭𐬆𐬨𐬀 𐬐𐬌𐬙𐬁𐬠 𐬀𐬯 𐬵𐬎𐬎𐬀 𐬛𐬀𐬯𐬙, 𐬗𐬁𐬌 𐬎𐬎𐬀𐬯𐬙𐬭𐬀, 𐬞𐬭𐬌𐬌𐬀 𐬎𐬎𐬀𐬯𐬙𐬭𐬀 𐬫𐬀 𐬔𐬭𐬍𐬎𐬎𐬀.
-- **𐬵𐬎𐬛𐬀 𐬐𐬀𐬭𐬆𐬨𐬀:** 𐬨𐬀𐬵𐬌 𐬛𐬀𐬙𐬀 𐬠𐬆𐬰𐬆 𐬑𐬎𐬥𐬛, 𐬎𐬎𐬀𐬭𐬆𐬰𐬀 𐬔𐬎𐬌, 𐬎𐬎𐬀𐬯𐬙𐬭𐬀 𐬔𐬎𐬌, 𐬠𐬌𐬘 𐬞𐬀𐬙𐬌.
-- **𐬀𐬯𐬙𐬀𐬥𐬀:** 𐬗𐬌𐬚𐬭𐬀 𐬞𐬀𐬙𐬀𐬌, 𐬥𐬀𐬑𐬱𐬀, 𐬞𐬀𐬭𐬌𐬌𐬁𐬙𐬀 𐬫𐬀𐬛𐬔𐬁𐬭, 𐬀𐬯𐬙𐬀𐬥𐬀 𐬐𐬀𐬚𐬀 𐬞𐬀𐬙𐬌.
-- **𐬥𐬀𐬟𐬀𐬭𐬀:** 𐬗𐬌𐬚𐬭𐬀 𐬞𐬀𐬙𐬌, 𐬞𐬎𐬚𐬭𐬀 𐬗𐬌𐬚𐬭𐬀, 𐬎𐬎𐬀𐬌𐬎𐬎𐬀𐬵 𐬥𐬌𐬨𐬀𐬥𐬙𐬀𐬥𐬀.
+- **Varəza:** nāma-patram, kasu varəzanam, vastrō-tištra, marana-patram, spitahe ayaŋhō, xvarəθō-patram.
+- **Nmānam:** xvarəθō-sāstrā xvatō-nibərəta, nmānō-vastram, vahištō vastrō ayāp bandō.
+- **Sparana:** masyō-dāna a-tīγra, gvada, yātō-čiθra, zaranō-dānəm.
+- **Asā:** patikara-patrā, ząm-patrā, aγva-sāstra, dahyō-patram.
+- **Xvaētu:** paityāpəm patikaranąm, azaθahe ciθra, daθrahe gvaθra.
 
-𐬙𐬌𐬰𐬭𐬀 𐬛𐬀𐬙𐬀, 𐬑𐬱𐬎𐬛𐬭𐬀 𐬛𐬀𐬙𐬀 𐬫𐬀 𐬎𐬎𐬀𐬭𐬀 𐬀𐬞𐬀𐬌𐬙𐬌 𐬱𐬀𐬐𐬌𐬌𐬀, 𐬎𐬙 𐬫𐬀𐬙 𐬛𐬎𐬑𐬨𐬀𐬥𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬀𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬌 𐬨𐬁 𐬛𐬀𐬛𐬀𐬌𐬙𐬀 𐬫𐬀𐬛𐬀 𐬥𐬀 𐬛𐬁𐬥𐬀𐬌𐬙𐬀 𐬫𐬀𐬙 𐬵𐬎𐬎𐬀 𐬀𐬯𐬙𐬌.
+Tarštō-dāraya tīγrīm tištrīm, kasvā yōi vi-mərəzīnti, uta vispəm yā anāxštīm paitišmaranā baraite a-yava xšnūtim vaēda.
 
-## 𐬐𐬀𐬚𐬁 𐬰𐬍𐬎𐬎𐬀𐬵 𐬐𐬌𐬙𐬁𐬠 𐬐𐬀𐬭𐬆𐬙𐬀?
+## Yaθa gayō-patram kərənavahi?
 
-𐬰𐬍𐬎𐬎𐬀𐬵 𐬐𐬌𐬙𐬁𐬠 𐬯𐬀𐬭𐬀𐬮𐬀 𐬀𐬮𐬠𐬎𐬨 𐬀𐬯 𐬗𐬌𐬚𐬭𐬀 𐬎𐬙 𐬑𐬱𐬎𐬛𐬭𐬀 𐬥𐬌𐬎𐬎𐬌𐬱𐬙𐬀 𐬀𐬯 𐬰𐬍𐬎𐬎𐬀𐬵 𐬨𐬀𐬱𐬌𐬌𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬌𐬙𐬀 𐬵𐬀𐬨 𐬛𐬍𐬛𐬀𐬌𐬙𐬀 𐬗𐬌𐬱 𐬀𐬯𐬙𐬌, 𐬎𐬙 𐬀𐬞𐬀𐬭𐬀 𐬎𐬙 𐬵𐬀𐬨𐬎𐬗𐬀𐬭𐬀 𐬵𐬀𐬨𐬀 𐬨𐬀𐬱𐬌𐬌𐬀 𐬛𐬍𐬛𐬀𐬌𐬙𐬀 𐬵𐬀𐬨𐬎𐬗𐬌𐬥𐬀𐬙𐬌.
+Gayō-patram asti hu-kərəto patikara-patro haδa morənda saxvanā parō gayāt nərəhe. Asti haδa-vaēnanam, uta upa-karanąm aγvanąmca zbayeti vispəm naram xšnāsāiti.
 
-1. **𐬀𐬉𐬎𐬎𐬀 𐬭𐬏𐬞𐬀 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀.** 𐬠𐬀𐬥𐬛 𐬵𐬀𐬨 𐬞𐬀𐬙𐬌 𐬭𐬀𐬑𐬱𐬀, 𐬗𐬀𐬞 𐬗𐬌𐬚𐬭𐬀 𐬐𐬌𐬙𐬁𐬠, 𐬫𐬀 𐬙𐬀𐬠𐬮𐬆𐬙 𐬀𐬥𐬙𐬀𐬭𐬆 𐬗𐬌𐬚𐬭𐬀 𐬔𐬀𐬥𐬀.
-2. **𐬗𐬀𐬥𐬛 𐬠𐬀𐬵𐬭𐬀 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀.** 𐬐𐬎𐬨𐬀𐬭𐬀, 𐬨𐬀𐬛𐬭𐬆𐬯𐬀, 𐬐𐬀𐬭𐬆𐬨𐬀, 𐬥𐬀𐬟𐬀𐬭𐬀, 𐬀𐬯𐬙𐬀𐬥𐬀, 𐬛𐬀𐬉𐬥𐬀, 𐬵𐬎𐬛𐬀 𐬐𐬀𐬭𐬆𐬨𐬀, 𐬞𐬭𐬌𐬌𐬀 𐬑𐬀𐬭𐬆𐬚𐬀 𐬎𐬙 𐬔𐬁𐬚𐬁.
-3. **𐬀𐬉𐬎𐬎𐬀 𐬫𐬀 𐬛𐬎 𐬗𐬌𐬚𐬭𐬀 𐬀𐬯 𐬵𐬀𐬭 𐬞𐬀𐬙𐬀** 𐬵𐬀𐬨 𐬑𐬱𐬎𐬛𐬭𐬀, 𐬨𐬀𐬵𐬀𐬥𐬙 𐬥𐬌𐬎𐬎𐬌𐬱𐬙𐬀 𐬛𐬀𐬛𐬀𐬌𐬙𐬀: "Mary, 22 𐬯𐬀𐬮𐬀, 𐬀𐬯 𐬠𐬀𐬧𐬐 𐬐𐬀𐬭𐬆𐬨𐬀 𐬀𐬭𐬀𐬨𐬠𐬀 𐬐𐬀𐬭𐬀𐬙."
-4. **𐬞𐬭𐬌𐬌𐬀 𐬗𐬌𐬱𐬀 𐬎𐬙 𐬭𐬀𐬎𐬰𐬀𐬥𐬀 𐬥𐬌𐬎𐬎𐬌𐬱𐬙𐬀.** "𐬗𐬁𐬌 𐬵𐬀𐬨 𐬞𐬀𐬌𐬌𐬀𐬵 𐬞𐬌𐬙𐬌. 𐬔𐬁𐬚𐬁 𐬀𐬯 𐬀𐬌𐬚𐬌𐬌𐬀 𐬞𐬭𐬌𐬌𐬀. 𐬠𐬎𐬮𐬀𐬥𐬛 TV 𐬥𐬀 𐬞𐬭𐬌𐬌𐬀." 𐬀𐬌𐬙𐬀 𐬵𐬀𐬭 𐬵𐬀𐬨𐬎𐬗𐬀𐬭 𐬵𐬀𐬨𐬎𐬗𐬌𐬥𐬀𐬙𐬌.
-5. **𐬨𐬀𐬱𐬌𐬌𐬀 𐬵𐬀𐬨𐬎𐬗𐬌𐬥𐬎𐬌𐬙𐬀** 𐬫𐬀𐬙 𐬐𐬁𐬨𐬀𐬌𐬙𐬌, 𐬗𐬌𐬚𐬭𐬀 𐬎𐬎𐬀𐬭𐬆𐬥𐬎𐬌𐬙𐬀, 𐬐𐬀𐬚𐬁 𐬎𐬎𐬀𐬗𐬀𐬙𐬀 𐬫𐬀 𐬛𐬍𐬛𐬀𐬌𐬙𐬀.
-6. **𐬵𐬀𐬨𐬀 𐬥𐬌𐬎𐬎𐬌𐬱𐬙𐬀 𐬛𐬀𐬭𐬆𐬛𐬀.** 𐬞𐬎𐬭𐬥𐬀 𐬠𐬎𐬙𐬀 𐬥𐬀 𐬥𐬀𐬉𐬭𐬆𐬙𐬀𐬭𐬀 𐬫𐬀𐬙 𐬵𐬎𐬛𐬀 𐬠𐬀𐬎𐬎𐬀𐬙.
+1. **Daxštam vi-cina.** Bandō haδa patra-nipānāiš, nibərəto patikara-puthro, ayāp tablet paiti-dīm.
+2. **Kəsu-baxtīm handāta.** Azaθa, frasāstra, varəza, xvaētu, asō-gayāt, daēnā, sparana, vahišta xvarəθa uta sraošana.
+3. **Aēvam ayāp dvā patikarā paēša paiti-daδā** haδa morənda masita-daxšta saxvanē: «Mary, sarda 22, varəza dēn bank paitište.»
+4. **Vasi-kāmīm uta raθiia paiti-daδā.** «Kahva haδa paya xšnāvayehe. Sunday-srūtā xšnāvayehe. Aojō TV nōit vasi.» Aētat upa-karana nipānāi zbayeti.
+5. **Mashyāka hąm-kərənu** yaθa vasi xšnāvayeinte, patikarā vi-cinan, saxvanąm mravan, ayāp dīm vaēnan.
+6. **Paitī-daδata.** Nōit aipī-frārātō bavaiti yaθa aojō dāδāiti.
 
-## 𐬀𐬥𐬌𐬌𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬐𐬀𐬭𐬆𐬨𐬀
+## Pāra paitišmarana-fravašatāni
 
-- **𐬔𐬁𐬚𐬁 𐬀𐬯 𐬫𐬎𐬎𐬀𐬥 𐬰𐬍𐬎𐬎𐬀𐬵** 𐬔𐬀𐬎𐬱𐬀𐬌𐬙𐬀 𐬎𐬙 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬀𐬭𐬆𐬙𐬀. [music activities](/activities/music/) 𐬛𐬍𐬛𐬀𐬌𐬙𐬀.
-- **𐬛𐬆𐬨𐬁𐬥𐬀 𐬎𐬎𐬍𐬛𐬌𐬌𐬀 𐬫𐬀 TV 𐬥𐬌𐬨𐬀𐬌𐬌𐬀** 𐬀𐬯 𐬞𐬭𐬌𐬌𐬀 𐬛𐬀𐬵𐬀𐬥𐬀 𐬛𐬍𐬛𐬀𐬌𐬙𐬀.
-- **𐬐𐬎𐬨𐬀𐬭𐬀 𐬑𐬀𐬭𐬆𐬚𐬀 𐬞𐬀𐬗𐬀𐬌𐬙𐬀** 𐬎𐬙 𐬔𐬀𐬥𐬛 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬭𐬀𐬵𐬠𐬀𐬭 𐬐𐬀𐬭𐬆𐬙𐬀.
-- **𐬥𐬀𐬑𐬱𐬀 𐬀𐬯 𐬀𐬯𐬙𐬀𐬥𐬀** 𐬛𐬍𐬛𐬀𐬌𐬙𐬀 𐬎𐬙 𐬀𐬞𐬀𐬭𐬀 𐬭𐬀𐬚𐬀 𐬞𐬀𐬌𐬭𐬌 𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀.
-- **𐬞𐬀𐬎𐬭𐬎𐬎𐬀 𐬐𐬌𐬙𐬁𐬠 𐬫𐬀 𐬨𐬀𐬵𐬥𐬁𐬨𐬀 𐬛𐬀𐬭𐬆𐬛𐬀** 𐬎𐬙 𐬀𐬯 𐬀𐬭𐬆𐬚𐬀, 𐬎𐬎𐬀𐬯𐬙𐬭𐬀 𐬎𐬙 𐬭𐬀𐬚𐬀 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬀𐬭𐬆𐬙𐬀.
-- **𐬐𐬀𐬚𐬁 𐬥𐬌𐬎𐬎𐬌𐬱𐬙𐬀 𐬐𐬀𐬭𐬆𐬙𐬀** 𐬀𐬥𐬙𐬀𐬭𐬆 𐬙𐬆𐬮𐬆𐬟𐬋𐬥, 𐬵𐬀𐬨 𐬀𐬥𐬎𐬨𐬀𐬙𐬌, 𐬥𐬀𐬟𐬀𐬭𐬀 𐬐𐬁𐬨𐬀𐬌.
-- **𐬵𐬀𐬨 𐬙𐬆𐬮𐬆𐬟𐬋𐬥 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬀𐬭𐬆𐬙𐬀.** 𐬀𐬥𐬙𐬀𐬭𐬆 𐬎𐬎𐬍𐬛𐬌𐬌𐬀 𐬙𐬆𐬮𐬆𐬟𐬋𐬥 𐬀𐬉𐬎𐬎𐬀 𐬗𐬌𐬚𐬭𐬀 𐬛𐬀𐬭𐬆𐬛𐬀; [phone and video calls](/activities/phone-and-video-calls/) 𐬛𐬍𐬛𐬀𐬌𐬙𐬀.
-- **𐬫𐬀𐬛𐬀 𐬀𐬞𐬀𐬭𐬀 𐬐𐬀𐬭𐬆𐬙𐬀 𐬗𐬌𐬚𐬭𐬀 𐬫𐬀 𐬛𐬀𐬙𐬀 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀.** 𐬀𐬌𐬙𐬀 𐬀𐬞𐬀𐬭𐬀 𐬯𐬎𐬑𐬀 𐬀𐬭𐬆𐬚𐬀 𐬛𐬀𐬛𐬀𐬌𐬙𐬌; [visiting](/activities/visiting/) 𐬛𐬍𐬛𐬀𐬌𐬙𐬀.
+- **Sraošanam yuvanō-gayāt srāvaya** uta hąm-saxva kva baxtīm bareiti. Vaēna [music activities](/activities/music/).
+- **Nmānō-vidēō ayāp TV** vahištō dahyu-sardāt vaēna.
+- **Azaθahe xvarəθam pacata** uta baoidi hąm-saxvanəm fravayeiti.
+- **Ząm-patram vaēna** daxmahe nmānāt uta vīθi paiti-vaēna.
+- **Parō-patrā zaste dāraya** uta arəja, vastra uta vāša hąm-saxva.
+- **Saxvanąm dēn fōn nibaoda**, haδa nərəhe dastīm, xvaētave.
+- **Hąm-daδā dēn xranse.** Aēvam patikaram dēn video-xrūns dāraya; vaēna [phone and video calls](/activities/phone-and-video-calls/).
+- **Patikaram ayāp tištrīm bara yaδa aiwi-gəmahi.** Aētat aiwi-gamanāi hu-daēnəm daδāiti; vaēna [visiting](/activities/visiting/).
 
-## 𐬫𐬀𐬛𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬎𐬑𐬨𐬀𐬥𐬀 𐬀𐬯𐬙𐬌 𐬗𐬌𐬨 𐬐𐬀𐬭𐬆𐬙𐬀?
+## Ciš yaδa paitišmaranam anāxštīm baraite?
 
-𐬗𐬀𐬥𐬛 𐬀𐬌𐬡𐬌𐬱𐬨𐬀 𐬛𐬎𐬑𐬨𐬀𐬥𐬀, 𐬞𐬀𐬱𐬆𐬨𐬁𐬥𐬀 𐬫𐬀 𐬠𐬌𐬨𐬀 𐬀𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬌. 𐬫𐬀𐬛𐬀 𐬨𐬀𐬱𐬌𐬌𐬀 𐬛𐬎𐬑𐬨𐬀𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬙𐬌, 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀, 𐬯𐬁𐬥𐬙𐬌 𐬛𐬀𐬛𐬀𐬌𐬙𐬀 𐬎𐬙 𐬥𐬀𐬭𐬆𐬨𐬀 𐬀𐬥𐬌𐬌𐬀 𐬎𐬎𐬌𐬱𐬀𐬌𐬌𐬀 𐬫𐬀 𐬐𐬀𐬭𐬆𐬨𐬀 𐬞𐬀𐬌𐬭𐬌 𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬌𐬙𐬀. 𐬀𐬯 𐬫𐬀𐬙 𐬵𐬀𐬎 𐬨𐬁 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬀𐬭𐬆𐬙𐬀. Family Caregiver Alliance 𐬯𐬎𐬘𐬀𐬌𐬙𐬌 𐬫𐬀𐬙 𐬨𐬀𐬱𐬌𐬌𐬀 𐬀𐬟𐬭𐬀𐬥𐬀 𐬥𐬀 𐬛𐬀𐬭𐬆𐬱𐬀𐬌𐬙𐬀 𐬎𐬙 𐬀𐬯 𐬵𐬎𐬎𐬀 𐬵𐬎𐬛𐬀 𐬞𐬀𐬌𐬙𐬌𐬱𐬨𐬀𐬭 𐬛𐬀𐬛𐬀𐬌𐬙𐬀, 𐬫𐬀 𐬭𐬁𐬱𐬙𐬀 𐬀𐬯𐬙𐬌. 𐬫𐬀𐬛𐬀 𐬀𐬯 𐬨𐬀𐬱𐬌𐬌𐬀 𐬫𐬀 𐬨𐬆𐬭𐬆𐬙𐬀 𐬀𐬯𐬙𐬌 𐬫𐬀𐬚𐬁 𐬰𐬍𐬎𐬎𐬀 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬀𐬭𐬆𐬥𐬙𐬌, 𐬀𐬯 𐬵𐬎𐬛𐬀 𐬞𐬀𐬌𐬙𐬌𐬱𐬨𐬀𐬭 𐬛𐬀𐬛𐬀𐬌𐬙𐬀: "𐬙𐬎 𐬀𐬵𐬨𐬀𐬌 𐬥𐬀𐬥𐬀𐬎𐬎𐬀𐬌𐬙𐬌. 𐬀𐬯 𐬀𐬵𐬨𐬀𐬙 𐬀𐬯𐬨𐬀𐬌 𐬐𐬀𐬚𐬀𐬌."
+Kəsu maranā anāxštīm, gərəzānəm ayāp tarštīm bārayeinti. Yaδa mashyāka anāxštō bavaiti, paiti-mara, rāməm daδāti, uta hu-vītarə saxvanəm ayāp varəzam vaŋha. Mā paitiš-mruhi cim aipī-bavat. Family Caregiver Alliance nibaodayeiti mā patikərəsa mashyāi yaθa a-raθiia asti, uta daēsayete hąm-manah yaθa dēn zrədaye asti, yā arš-dātā asti. Yaδa mravanti parō-irīθahe yaθa jvantō asti, hąm-manah paiti-mruhi: «Tū aētam vasi paitišmarahi. Māum haca aētam paiti-mruhi.»
 
-## 𐬞𐬀𐬌𐬙𐬌𐬱𐬨𐬀𐬭𐬀 𐬗𐬌𐬨 𐬎𐬎𐬀𐬗𐬀𐬥𐬙𐬌?
+## Čiš vīcaranā mravaiti?
 
-[Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), 𐬫𐬀 22 𐬀𐬎𐬎𐬀𐬭𐬆𐬛𐬀𐬥𐬀 𐬎𐬙 1,972 𐬨𐬀𐬱𐬌𐬌𐬀 𐬵𐬀𐬨𐬎𐬗𐬌𐬥𐬀𐬙𐬌, 𐬛𐬍𐬛𐬀 𐬫𐬀𐬙 𐬐𐬀𐬭𐬆𐬨𐬀 𐬀𐬯 𐬀𐬯𐬙𐬀𐬥𐬀 𐬎𐬙 𐬭𐬏𐬞𐬀 𐬠𐬌𐬥𐬀 𐬠𐬎𐬙, 𐬑𐬱𐬎𐬛𐬭𐬀 𐬎𐬙 𐬥𐬀𐬥𐬀𐬎𐬎𐬀𐬥𐬙. 𐬀𐬌𐬙𐬀 𐬀𐬯𐬌𐬠𐬀 𐬥𐬀 𐬛𐬍𐬛𐬀 𐬨𐬀𐬱𐬌𐬌𐬀 𐬫𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬵𐬀𐬨 𐬰𐬍𐬎𐬎𐬀𐬥𐬙𐬌. 𐬀𐬵𐬨𐬀 𐬀𐬌𐬡𐬌𐬱𐬨𐬀𐬭𐬆𐬥𐬀 𐬯𐬎𐬘𐬀𐬌𐬙𐬀 𐬫𐬀𐬙 𐬀𐬌𐬙𐬀 𐬵𐬎𐬎𐬀 𐬎𐬙 𐬀𐬭𐬆𐬚𐬀𐬎𐬎𐬀𐬥𐬙 𐬑𐬱𐬀𐬥𐬀 𐬵𐬀𐬨 𐬠𐬀𐬰𐬀𐬌𐬙𐬀 𐬛𐬀𐬛𐬀𐬌𐬙𐬌, 𐬥𐬀 𐬫𐬀𐬚𐬁 𐬗𐬌𐬑𐬌𐬚𐬀. 𐬀𐬯 𐬯𐬎𐬑𐬀 𐬵𐬀𐬨𐬎𐬑𐬙𐬌 𐬐𐬁𐬨𐬀𐬌, [communication tips](/caregiving/communication-tips/) 𐬛𐬍𐬛𐬀𐬌𐬙𐬀.
+[Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), yā 22 pərəθu uta 1,972 mashyāka haδa-āhat, vaēda yaθa dātā an-hąm-dātā, kəsu uta tarō asō uta daxštam āhat. Nōit vi-nāθəm vaēda mashyāi yōi ušī-vītarəta. Vaēm paitišmaranam fravayam yaθa rāmō-da, vazra zru haδa kərənayeiti, nōit yaθa baēšaza. Parō hu-hąm-saxvanē, vaēna [communication tips](/caregiving/communication-tips/).

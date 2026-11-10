@@ -1,32 +1,31 @@
 ---
-title: "Kɛwalew dimansi fɔlɔ kɔnɔ"
-seoTitle: "Dimansi fɔlɔ kɔnɔ kɛwalew: minnu bɛ ɲɛ"
-description: "Dimansi fɔlɔ kɔnɔ kɛwalew: sɛnɛkɛ, kartiw ni sɛnɛ kɛli, taama, sɛbɛn ni laadilikan kɛli ɲɔgɔn fɛ, ani ɲɛnɛmakow minnu bɛ mɔgɔ dɔnniya ka to ɲɛ."
+title: "Dementia fɔlɔ kɔnɔ kɛlikɛlilɛw"
+seoTitle: "Dementia fɔlɔ kɔnɔ kɛlikɛlilɛw: Ko minnu bɛ ɲɛ"
+description: "Dementia fɔlɔ kɔnɔ kɛlikɛlilɛw: kɛlikɛ min bɛ mɔgɔ dusukun, sɛnɛ, taama, sɛbɛnni, ɲɔgɔn fɛ sɛbɛnni ani ɲɔgɔnɛ ka kɛlikɛ, ka mɔgɔ tɛmɛ a yɛrɛ kan ani a ka kuntigiya ma bɔ."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Dimansi fɔlɔ kɔnɔ, mɔgɔ caman bɛ se ka kɛwale minnu nisɔndiya bɛ be a la
-  tuma bɛɛ: sɛnɛkɛ, kartiw ni sɛnɛ kɛli, muso kɛli, taama, kɔnɔfɛn kɛli,
-  jamaaw ni dɛmɛ kɛli. Kɛyɛrɛ minnu bɛ ɲɛ, olu ye mɔgɔ dɔw ka lamɛn ye,
-  wagati fitinin ni taama tɛmɛnen ye. Aw ka mɔgɔ ka dɛmɛ ye wari ye min ye
-  mɔgɔ yɛrɛ ka kan ye, ka kɛwale ka kɛ a ka laadilikan ye.
+  Dementia fɔlɔ kɔnɔ, mɔgɔ caman bɛ se ka kɛlikɛ minnu dusukun bɛ o la: kaarti ni
+  tabulu ɲɔgɔn fɛ, dumuni kɛli, sɛnɛ kɛli, taama, kumaba ni ɲɔgɔnɛ ka kɛlikɛ, dini kɛlikɛ
+  ani baarakɛ ɲɛnɛma. Kɛlikɛ kɛlilɛ ka ɲɛ ni kɛli dɔ ye: mɔgɔ dɔ fɛ ka se kɛ ni mɔgɔ dɔ ye, taama dɔ ye ka
+  tɛmɛ waati dɔ kan. Mɔgɔ ka ɲɛnɛmɛ ka ɲɛ, a ka dɛmɛ min bɛ se ka kɛ, ka a kɛ kɛlikɛ kɛli ɲɛ.
 keyPoints:
-  - "Dimansi fɔlɔ kɔnɔ mɔgɔ caman bɛ se ka to yɛrɛ la ka ɲɛ. Kɛwale bɛ se ka yɛlɛ, nka a tɛ ka wele."
-  - "Mɔgɔ ka mɔgɔ ka dɛmɛ min wanna, ani aw ka ɲɔgɔn dɔnniya ka sɛgɛsɛgɛ kɛ."
-  - "Mɔgɔ fitinin, wagati ko fɛn ma ka ɲɛ, ani taama tɛmɛnen ka ɲɛ."
-  - "Dimansi fɔlɔ kɔnɔ, mɔgɔ ka se ka kɛwale dɔw ka laadilikan ta ye, i n'a fɔ sɛbɛn ni laadilikan kɛli."
-  - "Kartiw ni kɛwalew ka kɛ nisɔndiya ye. Kɛwale min bɛ mɔgɔ kɛ sɛbɛn kɔnɔ, o banna."
+  - "Dementia fɔlɔ kɔnɔ mɔgɔ caman bɛ tɛmɛ yɛrɛ kan ka ɲɛ. Kɛlikɛlilɛw bɛ ka yɛrɛyɛrɛ tɛ ka ɲɛ, o kɛra bɔ, sɔrɔ a bɛ ka ɲɛ kɛ."
+  - "Mɔgɔ ka ɲɛnɛmɛ dɛmɛ min bɛ a fɛ, ka sɛbɛn kɛ ni signal dɔ ye min bɛ a fɔ ko dɛmɛ bɛ se ka kɛ."
+  - "Mɔgɔ dɔw ka ɲɔgɔn fɛ, waati ɲɛnɛ ni taama gɛlɛn kɛra ɲɛ bɔ."
+  - "Dementia fɔlɔ kɔnɔ, o waati ka ɲɛ ka mɔgɔ ka kɛlikɛ ka kuntigiya kɛ a yɛrɛ ka kow kan, i n'a ye sɛbɛnni ni a ka tɛmɛ sɛbɛn ye."
+  - "Kɛlikɛ sugandi ka ɲɛ ka kɛ. Kɛli min bɛ kɛ i n'a ye kɛlikɛ ye, o kɛra ban."
 faq:
-  - q: "Kɛwale jumɛn ye ɲɛ dimansi fɔlɔ kɔnɔ?"
-    a: "A bɛ kɛ mɔgɔ min bɛ kɛwale minnu nisɔndiya ka kan, olu ye: kartiw, sɛnɛkɛ, muso kɛli, taama, muso ni dɔnniya, jamaaw ni dɛmɛ kɛli. I bɛ se ka olu ka tɛmɛnen kɛ, ka olu kɛ fitinin ni ka olu kɛ ɲɛfɛ. Sɛbɛn kɛli, bataki sɛbɛn ni laadilikan kɛli ka ɲɛ dimansi fɔlɔ kɔnɔ."
-  - q: "Ne bɛ se ka dɛmɛ ka mɔgɔ ka dɔn-ka tɛ?"
-    a: "Aw ka mɔgɔ ka dɛmɛ min wanna, ka a ɲɛnɛ tuma caman. Aw ka ɲɔgɔn dɔnniya ka sɛgɛsɛgɛ kɛ, mɛn kɔnɔ ni ɲɛ dɔ ye min kɛra yɛrɛ ka dɛmɛ kɛ, i n'a fɔ kuma ni tɔgɔ ka tɛ na. Ni tile tɛ ɲɛnɛmaya, a ka a yɛrɛ sɔrɔ ka kɛ a ka ɲɛfɛ, hali ni a bɛ taa tɛmɛnen."
-  - q: "Mɔgɔ min bɛ dimansi fɔlɔ kɔnɔ, a ka se ka kɛwale kura kɛ wa?"
-    a: "Ɔɔn, ni a ka wanna. Kɛwale minnu mɔgɔ bɛ den ka kɛwale, olu bɛ ka sɔrɔ ka ɲɛ; nka mɔgɔ caman bɛ nisɔndiya sɔrɔ kɛwale kura la, i n'a fɔ taama kɛli jamaaw ɲɔgɔn fɛ, sɛbɛn kɛli wa dumuni kɛli. Aw ka a kɛ fɔlɔ ka a ɲɛ, ka a ɲɛnɛ, ani aw ka a ɲɛ ko a bɛ ɲɛ wa ten."
-  - q: "Dimansi fɔlɔ kɔnɔ, sɛbɛn kɛli min bɛ dɔnniya ka laadilikan ta, o ka ɲɛ wa?"
-    a: "Mɔgɔ dɔw bɛ nisɔndiya sɔrɔ ɲɛnɛmaya ni kuma kɛli la, o nisɔndiya ye sababu ye. Fɛn si tɛ mɔgɔ ka dimansi kɛ ɲɛfɛ wala ka a tɔɔrɔ. Ni kɛwale bɛ mɔgɔ ka kɔnɔ ɲɛ wala a bɛ mɔgɔ hakilina ka ɲɛ ka a yɛrɛ ka kɛ ɲɛfɛ, a ka bɔ kɛwale ɲɛ."
+  - q: "Kɛlikɛ jumɛn ye ka ɲɛ dementia fɔlɔ kɔnɔ?"
+    a: "A bɛ kɛ mɔgɔ min dusukun bɛ o la kɔfɛ: kaarti, tabulu ɲɔgɔn fɛ, dumuni kɛli, sɛnɛ kɛli, taama, dɔnkili, dini kɛlikɛ, ɲɔgɔnɛ kɛlilɛ ani baarakɛ. I bɛ se ka kɛ kɛlikɛlilɛ o minnu ka gɛlɛya, sɔrɔ i bɛ se ka o kɛ ni sɔrɔ ka ɲɛ, ka dɔ bɛ se ka ɲɛ. Sɛbɛnni, sɛbɛn ci ni kɛli min bɛ mɔgɔ ka tɛmɛnw sɛbɛn, o fana ka ɲɛ waati nin na."
+  - q: "Ne bɛ se ka dɛmɛ kɛ, ka mɔgɔ ka kuntigiya ka bɔ?"
+    a: "Aw ka ɲɛnɛmɛ mɔgɔ fɛ ko dɛmɛ min bɛ a fɛ, ka aw ka kɛ ni a ye tuma caman. Aw ka sɛbɛn ni taamasiyɛn dɔ ye min bɛ a fɔ ko a ka ɲɛ ka dɛmɛ kɛ, o ye kɛlikɛ, kɛlikɛlilɛ dɔ, a ka kɛlikɛ min bɛ kɛ, o bɛ se ka a ka tɛmɛ. Ni a tɛ kɛ kɛlikɛ min bɛ ɲɛnɛ, a ka kɛ a ka ɲɛnɛ kan, o gɛlɛyalen, n'o ka waati ka tɛmɛ."
+  - q: "Mɔgɔ min bɛ dementia fɔlɔ kɔnɔ, a ka kɛ kɛlikɛ kura ɲɛ?"
+    a: "Aw, ni a fɛ. Kɛlikɛ minnu bɛ a dusukun ka ɲɛ, o ka gɛlɛ tɛ, nka mɔgɔ caman bɛ kɛlikɛ kura ɲɛ, i n'a ye dementia mɔgɔ ye ka taama ni a ye, dɔnkili sɛbɛn ni kumaba ɲɔgɔn fɛ. Kɛ a kɛ kɔ kɔ kura, ni gɛlɛya tɛ, ka a ye sɛbɛnni kɛ."
+  - q: "Ka kɛlikɛ tabulu ni sɛbɛnni ma ɲɛ dementia fɔlɔ kɔnɔ?"
+    a: "Mɔgɔ dɔw bɛ tabulu ni sɛbɛn kɛlikɛ ɲɛ, o ka ɲɛ, o kɛra fɛn kɔfɛ. Ko dɔ tɛ min bɛ dementia kɛ, a ka ɲɛfɔ, a ka ɲɛfɔ, a ka ɲɛfɔ kɛ. Ni kɛlikɛ bɛ gɛlɛya kɛ, bɛ mɔgɔ hakili gɛlɛya kɛ, a ka bɔ, ka a ka kɛlikɛ dɔ sugandi."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +47,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-Dimansi fɔlɔ kɔnɔ, mɔgɔ caman bɛ to i n'a ka kɔnɔ ye bɔ. A bɛ se ka baara kɛ, ka kɛ ɲɔgɔn ye, ka jamaaw ɲɛ, ka a ka don bɛɛ yɛrɛ ka kɛ. Kɛwale tɛ ka wele; a bɛ ka dɔ dɔ yɛlɛ kɛ ko a ka ɲɛ ka to. Aw ka work ye ka kɛ dɛmɛkɛla ye ka tɛmɛ ka dɛmɛkɛla ka kan: mɔgɔ min bɛ dɛmɛ, a bɛ kɛwale kɛ ɲɔgɔn fɛ, ani a bɛ ɲɛ ni a ma wale ka fɛn ye.
+Dementia fɔlɔ kɔnɔ, mɔgɔ caman bɛ tɛmɛ i n'a ye a ka waati ɲɛ ta. Ka kɛ baara, ka kɛ baarakɛ, ka tɛmɛ ni teriw ye, ani ka ka don bɛɛ ka kuntigiya kɛ, o caman bɛ se ka kɛ. Kɛlikɛlilɛw ka ɲɛ tɛ ka bɔ, nka a ka kɛ ni ladilikan dɔw ye walasa a ka ɲɛ ka to. Aw ka kɛli bɛ kɛ i n'a ye tɛmɛ ye ni mɔgɔ, ka kɛ ni a ye ka sɛbɛn ka kɛ, ka tɛmɛ bɛ kɛ ni a ye a fɛ ka a dɛmɛ.
 
-## Kɛwale jumɛn ye ɲɛ dimansi fɔlɔ kɔnɔ?
+## Kɛlikɛlilɛ jumɛn ye ka ɲɛ dementia fɔlɔ kɔnɔ?
 
-Kɛwale minnu ɲɛ ka ɲɛ dimansi fɔlɔ kɔnɔ, olu ye minnu mɔgɔ bɛ nisɔndiya sɔrɔ ka kan, ka olu kɛ fitinin. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ kɛwale caman ɲɛfɔ, i n'a fɔ kartiw ni kɔnɔfɛn kɛli, sɛbɛn sɔrɔli, taama, sigi, sɛnɛkɛ, fleur bɔli, kuma ka tɔgɔ, sɛbɛn, muso, dumuni kɛli, kɔnɔ kɛli ani sanw ka kɛwale.
+Kɛlikɛlilɛ ka ɲɛ dementia fɔlɔ kɔnɔ, o ye kɛlikɛ minnu mɔgɔ dusukun bɛ o la, nka ka a kɛ ka gɛlɛya tɛ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ kɛlikɛ caman yɔrɔ fɔ, i n'a ye kaarti ni tabulu ɲɔgɔn fɛ, sɛbɛnni dɔw ka kɛ sɛbɛn kɛ, taama, dɔnkili, sɛnɛ kɛli, fɛn kɛli, kumaba, sɛbɛnni, sɛbɛn ci, baarakɛ ni dumuni kɛli.
 
-Kɛwale ka yɛrɛ tɛ bɔ, kɛyɛrɛ ye min bɛ yɛlɛ caman. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bɛ ɲɛfɔ ko dimansi fɔlɔ kɔnɔ mɔgɔ dɔw bɛ tɔ ka kɛwale minnu nisɔndiya bɛ be olu la. A bɛ misali di: mɔgɔ min bɛ gɛlɛya sɔrɔ kɔnɔ kɛlɛ ka jamaa ka kɔnɔ, a bɛ ɲɛ ni jamaa tɛmɛnen ye. Aw ka kuma kɛ ka gɛlɛyaw ɲɛfɔ, ka kɛwale ka yɛlɛ ɲɔgɔn fɛ.
+Fɛn min bɛ kɔnɔ kɛ, o bɛ kɛ yɔrɔ ni waati ye, kɛlikɛ tɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bɛ fɔ ko dementia fɔlɔ kɔnɔ mɔgɔ dɔw bɛ daminɛ ka ka kɛlikɛ minnu dusukun bɛ o la ka bɔ, a bɛ misali di mɔgɔ min bɛ gɛlɛya kɛ ni dɔnniya caman ye, nka a bɛ ka ɲɛ ni ɲɔgɔn fɛ ka kɛ. Aw ka fɔ ka ɲɛ fɛn min gɛlɛyalen bɛ, ka ladilikan kɛ ɲɔgɔn fɛ.
 
-## Ka dɛmɛ ka ɲɛ ɲɛfɔ fɔlɔ, ani ka ɲɔgɔn dɔnniya ka dɛmɛ kɛli cɛma
+## Mɔgɔ ka ɲɛnɛmɛ dɛmɛ min bɛ a fɛ, ka dɛmɛ ka kɛ ni sɛbɛn
 
-[Alzheimer's Association ka dimansi fɔlɔ kɔnɔ ɲɛfɔ](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) bɛ ɲɛfɔ ko ci dɔw bɛ se ka baara kɛ kɛwale kɔnɔ fana:
+[Alzheimer's Association ka dementia fɔlɔ kɔnɔ ka kɛlikɛ](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) bɛ laɲini dɔw fɔ minnu bɛ kɛ kɛlikɛlilɛw la fana:
 
-- **Ka ɲɛfɔ kɔrɔ.** "Mun bɛ kɛ ka ɲɛ ka kɛ sɛbɛn kɔnɔ?" bɛ jaabi ɲɛ dɛ ka jaabi min bɛ se ka siri kɛ.
-- **Ka a dɔn ko a bɛ se.** Ni tile tɛ ɲɛnɛmaya, a ka ɲɛnɛ ka kɛ, ka hakilina ka kɛ, kɛ ka a ɲɛ ka sɔn ka a kɔrɔ.
-- **Ka sɛgɛsɛgɛ kɛ.** Ka ɲɛ ka dɛmɛ min kɛ, o ye ka ɲɛ wala ka tɛmɛnen, wala ka dɔgɔ.
-- **Ka ɲɔgɔn dɔnniya ka ɲɛnɛmaya kɛ tuma bɛɛ.** Ka ɲɛfɔ ko dɛmɛ bɛ kɛ ka ɲɛ wala a tɛ ɲɛ.
+- **Aw ka ɲɛnɛmɛ mɔgɔ fɛ ni sɛbɛn.** "Mun bɛ kɛ ka ɲɛ ka ɲɛ ka kɛlikɛ bɔ ni kɛ?" bɛ jaabi ɲɔgɔn di ka tɛmɛ ka ɲɛ ka fɛ.
+- **A bɛ se ka kɛ ko a ka kɛ.** Ni gɛlɛya tɛ, a ka kɛ ka gɛlɛya tɛ, ka hakilina di a ma, aw ka tɛ a ka don bɛɛ kɛ.
+- **Signal dɔ kɛ ni ɲɔgɔn ye.** Kuma dɔ walima kɛnɛ dɔ sugandi min bɛ kɛ "a ka ɲɛ ka aw ka dɛmɛ kɛ," i n'a ye tuma min na kɛlikɛ kɛlilɛ kɔnɔ, tɔgɔ tɛ na.
+- **Aw ka ɲɛnɛmɛ kɛ waati bɛɛ.** Ka ɲɛnɛmɛ ko dɛmɛ min bɛ kɛ, o ka ɲɛ, walima a ka gɛlɛ, walima a ka tɛ.
 
-## Dimansi fɔlɔ kɔnɔ kɛwale ɲɛfɛnw
+## Dementia fɔlɔ kɔnɔ kɛlikɛ ladilikanw
 
-### Ka baara ni kɛwale minnu bɛ to ka ɲɛ
+### Kɛlikɛ minnu bɛ kɛ kuntigiya ni kɛlikɛ ka kɔnɔ
 
-- **Ka kɛwale minnu bɛ kɛ tuma bɛɛ.** Kɛ ka kɛwale kɛ sɔgɔma kɔrɔ, i n'a fɔ ka sɛbɛn kɛ kɔnɔ wala ka baara kɛ ka ɲɛ. Ni a bɛ gɛlɛya, ka kɛwale tɛmɛnen wala ka kɛwale ɲɛfɛ.
-- **Ka dumuni ka laadilikan ta ɲɔgɔn fɛ.** Ni sɛnɛ tɔɔrɔ bɛ gɛlɛya, Alzheimer's Association bɛ ɲɛfɔ ko mɔgɔ ka dumuni ka laadilikan kɛ ka dɔ sɛbɛn ani ka dumuni ka laadilikan kɛ.
-- **Ka dumuni kɛ ani ka buruw kɛ.** Ka ɲɛnɛma dumuni ta min ka ɲɛ, ka fɛn ye ka ɲɛfɛ ka sɔrɔ, ka kɛ ɲɔgɔn fɛ. Ka fɛn ka ɲɛ ka sɛbɛn kɛ, ka o tɛmɛ fitinin ye.
-- **Ka sɛnɛ kɛ.** Ka sɛnɛ ka laadilikan ta, ka sɛnɛ ni a dɔ sɔrɔ, ka baara kɛ ɲɔgɔn fɛ. Ka sɛnɛ kɛwale sɛbɛn kɛ, o bɛ dɛmɛ.
-- **Ka kɛwale dɔ ka to ɲɛ.** Ka sɛbɛn ka ɲɛ, ka dɔ ka kɛwale kɛ fitinin, wala ka kɛwale ɲɛfɛ ka ɲɛ, ni fitila ka ɲɛ ka kɛ.
+- **Ka kɛlikɛ kɛlilɛ dɔ kɛ waati bɛɛ.** Kalo kelen ka baarakɛ ka kɛ, walima dɔnkili walima ɲɔgɔn fɛ ka kɛ, o bɛ kalo ka tɛmɛnw kɛ ka ɲɛ. Ni a bɛ gɛlɛya kɛ, kɛlikɛ dɔ gɛlɛn walima ko dɔ ka ɲɛ bɛ se ka kɛ.
+- **Ka dumuni ɲɔgɔn fɛ.** Ni sɛnɛ dɔ bɛ gɛlɛya kɛ, Alzheimer's Association bɛ fɔ ko mɔgɔ ka dumuni ka sɛbɛn kɛ kalo kelen na, ka sɛbɛn kɛ a ka fɛn minnu bɛ ka a fɛ.
+- **Dumuni kɛ ni dumuni kɛli.** Ka dumuni kɛli min bɛ mɔgɔ dusukun, ka kɛ ni ɲɔgɔn ye. Ka fɛn minnu bɛ dumuni kɛ, o ka sɛbɛn ka kɔrɔ, walasa a ka tɛmɛnw ka ɲɛ.
+- **Sɛnɛ kɛ.** Ka sɛnɛ yɔrɔ dɔ labɛn, ka jɛnɛ walima jɔnan sugandi, ka baara kɛ ni ɲɔgɔn ye. Sɛnɛ baara kalo kelen sɛbɛn bɛ dɛmɛ.
+- **Ka kɛlikɛ min bɛ kɛ ni kɛnɛ ka kɔrɔ.** Ka dɔrɔnɛ tiɲɛ kɛ ni kɔrɔ walima kɛlikɛ gɛlɛn kɛ, o kɛra bɔ, ka kɛ ni fitinya kɛ ni ka jɛnɛ fitinya ye.
 
-### Kartiw ni kɛwale minnu bɛ nisɔndiya kɛ
+### Kaarti ni tabulu ɲɔgɔn fɛ, kɛlikɛ kɔnɔ
 
-- **Ka kartiw ni kɔnɔfɛn kɛ.** Kartiw minnu mɔgɔ ye ka dɔn, olu ka ɲɛ. Ka kɛ jamaaw ye ka ɲɛ ka kɛ, ka hakilina ka tɛmɛnen tɛ bɔ.
-- **Ka sɛbɛn sɔrɔli kɛ ni kɔnɔfɛn fitinin.** Ka [sɛbɛn sɔrɔli](/games/word-search/) ka kɛ ekran kɔnɔ wala ka bɔ ka kɛ tuma fitinin kɔnɔ.
-- **Ka jigsaw kɛ.** Ka kɔnɔfɛn tɔgɔ min bɛ mɔgɔ ka fitinin ye, o sugandi. [Picture puzzle](/games/picture-puzzle/) ye ekran kɔnɔ kɔnɔfɛn ye, ani an ka lakali [dimansi kɔnɔfɛn](/activities/puzzles/) bɛ sugandi ɲɛfɛ.
-- **Ka trivia kɛ nisɔndiya ye.** Mɔgɔ dɔw bɛ nisɔndiya sɔrɔ jamaa trivia ka kɛ. Ni o bɛ kɛ hakilina ka kɛwale ye, ka kɛwale wɛrɛ ɲɛ, wala ka [trivia fitinin](/activities/trivia/) kɛ, min bɛ ɲɛ ni jaabi caman ye ani ni ka kiri tɛ.
+- **Ka kaarti ni tabulu ɲɔgɔn fɛ.** Kɛlikɛ min bɛ ka dɔrɔn ka dusukun, o ka gɛlɛ. Ka ɲɛ ka kɛ ni teriw ye, walasa mɔgɔ si ka kɛ a yɛrɛ ka kɛlikɛ ka ɲɛ, ka kunnafoni dɔ ɲɛ ka kɛ kɛ, walima kɛ tɛ.
+- **Ka sɛbɛn kɛ ni sɛbɛn kɛlikɛ ka kɔrɔ.** [Alzheimer's Foundation ka ɲɛ](/games/word-search/) bɛ kɛ kɛlikɛ ye ekran kan walima a bɛ se ka labɛn ka kɛ ka kɛ waati dɔ kɔnɔ.
+- **Ka jɛnɛ tiɲɛ kɛ.** Ka jɛnɛ bɛ sugandi min ka ɲɛ ka kɛlikɛ, ka gɛlɛ tɛ. [Kɛlikɛ fɛn](/games/picture-puzzle/) ye ekran kan kɛlikɛ gɛlɛn ye, ani an ka sɛbɛn [dementia kɛlikɛ fɛn](/activities/puzzles/) bɛ dɛmɛ ka kɛlikɛ sugandi.
+- **Ka kɛlikɛ kɛ kɛ ni dusukun.** Mɔgɔ dɔw bɛ kɛ ni ɲɔgɔn ye kɛlikɛ tɛmɛnw. Ni a bɛ gɛlɛya kɛ, kɛlikɛ dɔ wɛrɛ sugandi, walima kɛlikɛ ka sɛbɛn kɛ, [kɛlikɛ fɛn ka ɲɛ](/activities/trivia/) bɛ kɛ ni jaabi ye, ka sɛbɛn tɛ.
 
-Kartiw ni kɔnɔfɛnw ye nisɔndiya ye ɲɛnɛmaya kɔnɔ. Fɛn si tɛ dimansi kɛ ɲɛfɛ wala ka tɛmɛ. [Kɔnɔfɛn: fɛn minnu bɛ Kalanso kɔnɔ](/brain-health/brain-games/) kɔnɔ, aw bɛ se ka ɲɛfɔ caman dɔn.
+Kɛlikɛ minnu bɛ kɛ ka dusukun, o bɛ kɛ ka ɲɛ. Ko dɔ tɛ min bɛ dementia kɛ, a ka ɲɛfɔ, a ka ɲɛfɔ; [kɛlikɛ ka dɔnniya](/brain-health/brain-games/) ka ɲɛ sɛbɛn.
 
-### Sɛbɛn kɛ, hakilina kɛ ani sɛbɛn sɛbɛn kɛ
+### Sɛbɛn, ka hakilina kɛ ni ka sɛbɛn kɛ
 
-- **Ka kɛ sɛbɛn lakana.** Alzheimer's Association bɛ ɲɛfɔ ko sɛbɛn kɛli ye ka hakilina ka lakana kɛ dimansi ka ɲɛfɔ kɔfɛ. Ka kɛ tile kɛ fitinin, o caman ye.
-- **Ka a yɛrɛ ka kɛ ka sɛbɛn kɛ.** Dimansi fɔlɔ kɔnɔ, o ye tuma ye min mɔgɔ bɛ se ka a yɛrɛ ka dumuni sugandi ani ka a ka kuma sɛbɛn wala ka fɔ a ka kɔnɔ. Ka [kɛwale ka dɔnniya](/activities/reminiscence/) ɲɛ.
-- **Ka sɛbɛn kɛ muso ma.** Ka sɛbɛn kɛ a denmuso ma, a ka dɔnniya ni a ka dɔnniyakɛ ma, wala a ka jamaa dɔ ma, o bɛ nisɔndiya ɲɔgɔn fɛ.
-- **Ka dumuni sugandi.** [Dumuni minnu bɛ ɲɛ](/games/photo-pairs/) bɛ sanfɛ dumuni sugandi kɛwale ye, ani [kuma karti](/games/conversation-cards/) bɛ kuma kɛli fitinin di.
+- **Ka sɛbɛnni kɛ.** Alzheimer's Association bɛ fɔ ko sɛbɛnni bɛ se ka kɛ kɛlikɛ dɔ ye ka kɛ ka hakili ɲɛ ka kɛ, fɛn min bɛ dementia fɔlɔ kɔnɔ kɛ. Kɔrɔ ɲɛnɛ dɔ bɛ ka ɲɛ.
+- **Ka sɛbɛn ci kɛlikɛ.** Dementia fɔlɔ kɔnɔ, o waati ka ɲɛ mɔgɔ ka ka sɛbɛn kɛ ka a yɛrɛ ka sɛbɛn ci kɛ ka fɛn ɲɔgɔn fɛ. Ka [sɛbɛn ci kɛlikɛ](/activities/reminiscence/) ka ɲɛ.
+- **Ka sɛbɛn kɛ ci.** Sɛbɛn min bɛ kɛ denmisɛn ma, walima ɲɛmɔgɔ ma, walima kɛlikɛ ma, o bɛ ɲɔgɔn fɛ ka ɲɛ.
+- **Ka sɛbɛn kɛ ni ɲɔgɔn ye ka sɛbɛn kɛ.** [Ci sɛbɛn](/games/photo-pairs/) bɛ sɛbɛn ci kɛ sɛbɛn kɛlikɛ ye ni [kuma kaarti](/games/conversation-cards/) bɛ kuma dɔ fɔ ka kɛ ka kuma ɲɔgɔn fɛ.
 
-### Ka taa ani ka ka ɲɛ
+### Taama ani kɛ ka kɛlikɛ bɔ
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ ɲɛfɔ ko aw ka taama minnu ye ka dɔn, aw ka olu kɛ ka fɔ aw bɛɛ bɛ nisɔndiya sɔrɔ. Aw ka olu kɛ mɔgɔ ka ɲɛ waati la, ka olu kɛ fitinin, ka taa kɛ ka ɲɛ.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ fɔ ko taama minnu ka ɲɛ, o ka ɲɛ ka ka taama, ka kɛ ni ɲɔgɔn ye, ni aw bɛ se ka kɛ. Ka taama waati ka ɲɛ tile kɔnɔ, ka mɔgɔ ka ɲɛ ka tɛmɛ kɛlikɛ gɛlɛn.
 
-- **Taama fitinin ni dumuni nɔfɛ.** Musow, sɛbɛn wala dumuni ko, fitinin waati la.
-- **Jɛ kɔnɔ.** NIA bɛ ɲɛfɔ ko ka jɛ kɔnɔ ka taa kɛ waati fitinin kɔnɔ.
-- **Taama jamaaw ni dɔnkili.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bɛ dɔnkili, tai chi, yoga, jɛ kɔnɔ ni taama jamaaw ɲɛfɔ, ani dimansi ka ɲɛ taama jamaaw min bɛ sɔrɔ.
-- **Dɔnkili ni dumuni jamaaw.** Jamaaw minnu bɛ dimansi ni olu ka dɛmɛkɛlaw ɲɛ, olu bɛ se ka ɲɛ ni wɛrɛ minnu bɛ ɲɛnɛma kɔnɔ.
+- **Taama ka tɛ caman.** Musow ka so, sɛbɛn ci walima kɛlikɛ ka ɲɛ, o bɛ kɛ waati ɲɛnɛ.
+- **Ka jɔ.** NIA bɛ fɔ ko jɔ ka kɛ ni tile ka kɔrɔ.
+- **Taama ɲɔgɔn fɛ ani dɔnkili kalo.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bɛ dɔnkili, tai chi, yoga, jɔ ani taama ɲɔgɔn fɛ fɔ, ni dementia ka kalo bɛ yɔrɔ min na.
+- **Kumaba ɲɔgɔn fɛ ani kɛlikɛ ka so.** Mɔgɔ ɲɔgɔn fɛ, mɔgɔ min bɛ dementia la ani a ka mɔgɔ minnu bɛ ɲɔgɔn fɛ, o bɛ se ka ɲɔgɔn ye ɲɔgɔn fɛ.
 
-## Ɲɛnɛmaya ɲɛfɛnw minnu bɛ kɛwale nisɔndiya kɛ
+## Ladilikan ɲɛnɛ minnu bɛ kɛ kɛlikɛlilɛw ka ɲɛ
 
-| Ni o bɛ gɛlɛya | Aw ka o kɛ |
+| Ni nin bɛ gɛlɛya kɛ | Nin ka kɛ |
 | --- | --- |
-| Jamaa caman, kɛlɛ caman bɛ kɛ | Ka taa waati fitinin, ka jamaa fitinin ɲɛ, ka sigi kɛwale ka ɲɛ |
-| Kɛlɛ kɔnɔ tɔgɔ kura | Ka mɔgɔ ka tɔgɔ fɔ ɲɔgɔn dɔnniya waati bɛɛ; ka jamaa ka tɔgɔ kɔnɔ ka kɛ |
-| Ka fɛnw kɛ kɔrɔ kɔrɔ | Ka fɛnw sɛbɛn, wala ka fɛn bɛɛ ka ɲɛ ka sigi a kɔrɔ |
-| Ka sɔgɔ | Ka taa tɛmɛnen, ka sɔgɔ kɔfɛ, o dɔ tɛ kɛ o don |
-| Ka kiri ka kɛwale kɔnɔ | Ka jamaa ka kɛ, ka kɛwale tɛmɛnen, wala ka kiri tɛ |
-| Ka kuma sɔrɔ | Ka waati di; ka kuma dɔ di ni aw ka dɔnniya ka fɔ ko o ka ɲɛ |
+| Yɔrɔ minnu bɛ ka caman, walima minnu bɛ kɔrɔ | Ka taa waati ɲɛnɛ, ka taa ɲɔgɔn fɛ ka ɲɛ, ka sigi yɔrɔ ka jɔ |
+| Tɔgɔ kura ɲɛ | Ka mɔgɔ tɔgɔ fɔ tuma bɛɛ; ka kalo ka tɔgɔ sɛbɛn ka ɲɛ |
+| Kɛli caman min kɔnɔ | Ka kɛli sɛbɛn, walima ka fɛn bɛɛ labɛn kɛ kalo kɔnɔ |
+| Sɛgɛn | Waati di; ka dɛmɛ kɛ kɔnɔ, ni aw ka signal bɛ a fɔ |
+| Kɛlikɛ kɔnɔ ka hakilina | Ka ɲɔgɔn fɛ ka kɛ, ka kɛli gɛlɛn, walima ka hakilina tɛ |
+| Kuma sɛbɛn | Waati di; dɛmɛ kɛ kuma kɛnɛ dɔ ye, ni aw ka signal bɛ a fɔ |
 
-## Waati min na ka fɛn tɛmɛnen
+## Ni a bɛ ka ɲɛ ka tɛmɛ
 
-Ni kɛwale bɛ gɛlɛya ka tɛmɛ nisɔndiya ma, ka o tɛmɛ wala ka o ɲɛ. Gɛlɛya kɛ tuma caman, kɛwale bɛ bɔ, wala a ko "n tɛ se ka o kɛ tuma wɛrɛ" bɛ kɛ, o ka ɲɛ kuma ni hinɛ ye, ka tɛ ka dɛmɛ ka kɛ. Ka kɛwale tɛmɛnen kɛ ka fɛn ye. Ni mɔgɔ bɛ gɛlɛya ka dɔnniya ni ka taa kɛ, [dimansi fɔlɔ kɔnɔ kɛwalew](/activities/middle-stage/) bɛ se ka ɲɛ. Ka kuma kɛ ni ɲɔgɔn fɛ, [kuma ka laadilikan](/caregiving/communication-tips/) bɛ ɲɛ, ani kɛwale caman bɛ [101 kɛwale](/activities/ideas/) kɔnɔ.
+Kɛlikɛ dɔ ka bɔ walima ka ɲɛ tɛmɛ ni a bɛ ka gɛlɛya kɛ ka tɛ ka ɲɛ. Ni gɛlɛya bɛ kɛ ka caman, ni a bɛ kɛlikɛ bɔ, ni a bɛ kɛ ka dusukun, o bɛ kɛ ka ɲɛ ka sɛbɛn kɛ ka kɛ ni hakilina. Kɛlikɛ dɔ gɛlɛn kɛ, o kɛra bɔ. [Dementia fɔlɔ kɔnɔ kɛlikɛ](/activities/middle-stage/) bɛ se ka kɛ ka ɲɛ tuma min na mɔgɔ bɛ dɛmɛ caman kɛ ka daminɛ ka tɛmɛnw kɛ. Ka kuma ɲɛ kɛ, [kumako ladilikanw](/caregiving/communication-tips/) ka ɲɛ, ani kɛlikɛ caman, [101 kɛlikɛ](/activities/ideas/) ka ɲɛ.
 
-Dɛmɛkɛlaw fana bɛ dɛmɛ wolo. Dimansi fɔlɔ kɔnɔ, o ye tuma ye min aw ka dɛmɛ jamaa ka kɛ aw yɛrɛ ka. Ka [dɛmɛkɛla ka yɛrɛ ka maaya](/caregiving/caregiver-self-care/) ɲɛ.
+Mɔgɔ min bɛ dɛmɛ kɛ, o fana bɛ dɛmɛ ka ko. Dementia fɔlɔ kɔnɔ, o waati ka ɲɛ ka aw yɛrɛ ka dɛmɛ kɛ; ka [aw yɛrɛ ka dusukun ka ɲɛ](/caregiving/caregiver-self-care/) ka ɲɛ.

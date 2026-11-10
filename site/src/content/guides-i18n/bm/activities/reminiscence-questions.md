@@ -1,28 +1,28 @@
 ---
-title: "Dementia mɔgɔw ye ɲininkali kunnafoniw, ka ɲɛnɛ wa kɛ"
-seoTitle: "Dementia ɲininkali: kunnafoni ɲɛnɛ, dɔ tɛ fɛɛrɛ"
-description: "Dementia mɔgɔw ye ɲininkali kunnafoniw, ka kɛ ka kɛ ka kɛ ka kɛ: so, baara, dumuni, dɔnkili ani wulilɔ kɔrɔ, ka kuma ka ɲɛ ɲɛnɛ wa kɛ."
+title: "Hakilinaw kɔrɔ ɲɛfɔliw dementia bɛ mɔgɔw la: kuma ɲuman"
+seoTitle: "Dementia hakilinaw kɔrɔ ɲɛfɔliw: kuma ɲuman, ɲɛfɔli tɛ"
+description: "Dementia bɛ mɔgɔw la hakilinaw kɔrɔ ɲɛfɔliw, kɔrɔ kɔrɔ: so, baara, dumuni, dɔnkili, feten ani sigi-don. Kuma ɲumanw bɛ kumakan lakana ka tɛ sɛgɛsɛgɛ ye."
 section: activities
 order: 27
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Ɲininkali kunnafoniw bɛ mɔgɔ wele ka a ka ɲɛnɛ kuma ɲɛnɛ wa kɛ, ɲɛnɛ ɲɛnɛ: "Aw ka so min na aw kɔrɔtɔ, aw ka a fɔ ka ɲɛ," o tɛ "Aw ye a ɲɛ ka so min na aw sigira?" Kunnafoni dɔw dɔw ta ka kɛ ka kɛ, mɔgɔ ka kuma kɔnɔ ka taa, ani kɛnɛya kɛ ɲɛnɛ, hali ni kunnafoniw tɛ ɲɛ. Ɲɛnɛ tɛ jaabi tiɲɛ ɲini, ani tɛ kɛ kɛnɛ ɲɛnɛ. Sɔrɔ-kɔrɔ, dumuni, dɔnkili, so ani balo bɛ kuma wulila ɲɛnɛ.
+  Hakilinaw kɔrɔ ɲɛfɔliw bɛ mɔgɔ dɛmɛ ka kuma kɛ a ka kɔnɔnaw kɔrɔ ni kumakan ɲuman ye: «I ka so min kɔnɔ i denbaya la, o cogo di?» Ka tɛ «I hakili la ko so min kɔnɔ?» Kɔrɔ kelen-kelen ɲɛfɔ ka kɛ kɛcogo ɲuman ye, ka mɔgɔ ka kuma tugu. Ka a kuma kɛ kɛcogo min na, o kɔnɔ ka kɛ kɔrɔ ye, hali ni kuma ka yɛrɛ ka ɲɛnɛma. Ayiwa, ka sɛgɛsɛgɛ kɛ ka sɔrɔ kɔrɔ. Kɔrɔw ni ko dɔ ɲɛfɔli kɛ bɛ kuma kɛ: so, baara, dumuni, dɔnkili ani denbaya ye ɲɛfɔli fɔlɔ ye.
 keyPoints:
-  - "Kunnafoni ɲɛnɛ ta, i ko 'Aw ka a fɔ ...' walima 'A bɛ i ko cogo di ...', o tɛ kunnafoni ɲɛnɛ yɛrɛ walima tiɲɛ ɲɛnɛ."
-  - "Aw kana kunnafoni ɲɛnɛ wɛrɛ, i ko 'Aw ye a ɲɛ wa?' walima 'O mɔgɔ ye jɔ ye?' O bɛ kɛ ko ka tɛst ye, ani o bɛ hinɛ kɛ."
-  - "Mɔgɔ ka kuma kɔnɔ ka taa, hali ni kunnafoniw yɛrɛ bɛ ɲɛ. Dɔ ka hinɛ ni dɔ ka kɛnɛ bɛ kɛ dɔ ka tiɲɛ ɲɛnɛ ka bon."
-  - "Daminɛ ka kunnafoni kelen ɲɛnɛ, ani ka fɔtigɛ sɛbɛn, ka dɔ bila, ka dɔ kɛ dumuni kɔrɔ walima dɔnkili kɔrɔ ka kuma daminɛ."
-  - "Ni hakili kɔrɔ bɛ kɛ ka hinɛ, walima mɔgɔ bɛ hinɛ, a ka kuma gɛlɛn ka kɛ cogo fitinin ɲɛnɛ ka kɛ ɲɛnɛ, ka segin kunnafoni ɲɛnɛ min bɛ kɛ ɲɛnɛ ɲɛnɛ."
+  - "Ɲɛfɔ ni kumakan ɲuman, i ko «I ka ... kuma kɛ» walima «... cogo di?», ka tɛ ɲɛfɔli min bɛ jaabi ɲuman walima ɲɛnɛ ɲuman ye."
+  - "Ka sɛgɛsɛgɛ kɛ ni «I hakili la ko ...?» walima «Mun ye ...?» Nin bɛ mɔgɔ hakili kɔrɔ ka kɛ sɛgɛsɛgɛ ye, o bɛ kojugu ni dimi kɛ."
+  - "Ka mɔgɔ ka kuma tugu, hali ni a kumaw bɛ taa. Hakili ni kɛlɛ ka ɲɛnɔgɔn ye ka tɛ tiɲɛ ye."
+  - "Ka ɲɛfɔli kelen fɔ fɔlɔ, ka foto, ka dumuni ka kɔnɔ walima ka dɔnkili kɛ kumakan kɔrɔ."
+  - "Ni hakilina bɛ dimi walima mɔgɔ bɛ ɲɛ ɲɛfɛ, ka kuma yɛrɛyɛrɛ ka taa ɲɛnɔgɔn kan, ka segin ka kuma ɲuman kɔrɔ."
 faq:
-  - q: "Dementia mɔgɔw ka ɲininkali kunnafoniw ye jɔ ye?"
-    a: "Kunnafoni ɲɛnɛ kɛ ka ɲɛ: 'Aw ka so min na aw kɔrɔtɔ, aw ka a fɔ,' 'Mun ye aw ka dumuni kɛ ka ɲɛ?' 'Dɔnkili jɔ ye aw ka dɔnkili kɔrɔ?' walima 'Wulilɔ ka kɛ aw kɔrɔtɔ cogo jɔ ye?' Kɔnɔ kelen bɛ kuma wulila, o tɛ jaabi kelen tiɲɛ."
-  - q: "Ɲininkali ani tiɲɛ ɲinɛ bɛ cogo jɔ ye?"
-    a: "Ɲininkali ye kuma ye min bɛ kɛ ɲɛnɛ, jaabi tɛ jaabi fɛɛrɛ. Tiɲɛ ɲinɛ bɛ tiɲɛ ɲinɛ, ani a bɛ jaabi ɲɛnɛ. Tiɲɛ ɲinɛ bɛ mɔgɔ kɛ ko ka tɛst ye ani ka ŋɔnɔ, o de kama kuma kɛ ɲɛnɛ ani ka hɛrɛ."
-  - q: "Ni mɔgɔ ka sɔrɔ-kɔrɔ tɛ ɲɛ wa?"
-    a: "Aw ka a kɛ ka kɛ, ni o tɛ hinɛ walima tɔɔrɔ kɛ. Aw kana tɔɔrɔ ni tɔgɔ kɔrɔ. Aw ka a ɲinɛ cogo min na mɔgɔ ye hakili kɛ ani o kɛra a ye cogo jɔ ye."
-  - q: "Ɲininkali waati ka mun ye?"
-    a: "Miniti tan ni miniti mugan bɛ se ka ɲɛ kosɛbɛ, ani ka dɔgɔ fɛ. Mɔgɔ bɛ sɔgɔ walima hinɛ walima a tɛ fɛn ɲɛnɛ, aw ka ɲininkali bɔ ka wati dɔ ɲɛnɛ aw bɛ ɲɛ."
+  - q: "Hakilinaw kɔrɔ ɲɛfɔliw ɲuman jumɛnw ye dementia bɛ mɔgɔw la?"
+    a: "Kumakan ɲuman ye ɲuman ka tɛmɛ: «I ka yiri min na i denbaya la, o kɔrɔ kuma kɛ», «I ka dumuni min ka ɲɛ kosɛbɛ?», «I bɛ dɔnkili min na ka dansi?» walima «Feten min na i tun bɛ den ye, o cogo di?» Nin kelen-kelen bɛ kuma kɛ, tɛ jaabi kelen ɲuman ye."
+  - q: "Hakilinaw kɔrɔ kuma ni sɛgɛsɛgɛ ka kɛlɛ cogo jumɛn ye?"
+    a: "Hakilinaw kɔrɔ ye kuma ye min bɛ ka kɛ ni ɲɛnɔgɔn ye, jaabi ɲuman tɛ min ye. Sɛgɛsɛgɛ bɛ fɛn kelen ɲɛfɔ, ka jaabi jɔ. Sɛgɛsɛgɛ bɛ mɔgɔ ka dimi ni ka ɲɛ ɲɛfɛ, o de y'a sababu ka kuma kɛ ni kumakan lakana ni hinɛ."
+  - q: "Ni mɔgɔ ka kuma kɔrɔ ye tɛ jaabi ɲuman ye, mun kɛra?"
+    a: "Ka a kumaw tugu, fo ni o bɛ dimi walima bɛ mɔgɔw ni yɛrɛ ka tɛ. Tɛ tɔnɔ ka tile walima tɔgɔ ɲɛ. Ɲɛfɔ a ka hakili ko o kɔrɔ, walima o ye a ka dusukun na cogo min na."
+  - q: "Hakilinaw kɔrɔ kuma ka kɛ cɛ ka waati joona?"
+    a: "Miniti tan ni mugan kɔfɛ, o bɛ ɲɛ kosɛbɛ, ni o ka dɔgɔ, o tun ka ɲuman. Ni mɔgɔ bɛ sɛgɛ, bɛ dimi walima tɛ kuma ɲɛ, o ka kuma tiɲɛ ka waati dɔ ka kɛ ɲɛnɔgɔn ye cogo wɛrɛ kɔnɔ."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -38,82 +38,82 @@ related: [activities/reminiscence, activities/music, activities/trivia, activiti
 health: false
 ---
 
-Ɲininkali ye kuma ye min bɛ kɛ ɲɛnɛ, kɔrɔ kɔnɔ ka kuma: so, daminɛ baara, dumuni, dɔnkili, ani waati ka ko. Dementia mɔgɔ dɔw ye, o kuma ka ɲɛ kosɛbɛ ka ɲɛnɛ ka kan. Aw ka kunnafoni kɛ cogo min na ka kuma wulila, aw kana mɔgɔ ka hakili ɲɛ. Kunnafoniw bɛ ɲɛnɛ kɛ ɲɛnɛ ɲɛnɛ, ani aw bɛ kɔrɔ ɲɛnɛ fɔ.
+Hakilinaw kɔrɔ ye kuma ye ko dɔ kɔrɔ ni ɲɛnɔgɔn: den-ɲɛ so, kɛlɛ fɔlɔ, dumuni min bɛ ka ɲɛ, dɔnkili ani feten. Dementia bɛ mɔgɔw la, kuma nin bɛ ka kɛ ɲuman kosɛbɛ ka hakilinaw kɔrɔ ka kuma. Ayiwa, ɲɛfɔ ka kɛ kɛcogo ye min bɛ kuma kɛ, ka tɛ min bɛ sɛgɛsɛgɛ kɛ. Nin ɲɛfɔliw bɛ kɔrɔ kɔrɔ ye, ani ka kɛcogo ɲuman ci u kɔrɔ.
 
-## Ɲininkali kunnafoniw ka siraw
+## Hakilinaw kɔrɔ ɲɛfɔliw ka siraw
 
-- **Kunnafoni ɲɛnɛ.** "Aw ka a fɔ ..." ani "A bɛ i ko cogo di ..." bɛ kuma wulila. "Aw ye a ɲɛ wa?" bɛ jaabi tiɲɛ ɲinɛ.
-- **Aw kana tiɲɛ ɲinɛ.** Aw kana "O mɔgɔ ye jɔ ye?", "O ye waati jɔ ye?" ani "Aw ye tɔgɔ ... ɲɛ wa?" ɲinɛ.
-- **Fɛn o fɛn bɛ se ka bɔ, a ka ɲɛ.** Ni kuma ka ɲɛ walima kɔnɔ tɛ ɲɛ, aw ka a ɲɛ ani aw ka hakilina ɲinɛ.
-- **Kunnafoni kelen ɲɛnɛ.** Aw ka makɔnɔ, aw ka mɛn, ani aw ka kunnafoni dɔgɔ ɲɛnɛ.
-- **Mɔgɔ ka a yɛrɛ ka kuma sɔrɔ.** Ni a bɛ fɛn wɛrɛ fɔ, aw ka a ɲɛ.
+- **Ɲɛfɔ ni kumakan ɲuman.** «I ka ... kuma kɛ» ani «... cogo di?» bɛ kuma kɛ. «I ka ... hakili la?» bɛ jaabi ɲuman ɲini.
+- **Ka sɛgɛsɛgɛ kɛ.** Ka «Mun ye ...?», «Ɲɛ ...?» walima «I hakili la ko ...?» ɲɛfɔ.
+- **Ka jaabi o jaabi bɛ se ka bɔ.** Ni kuma bɛ taa walima sigi-yɔrɔw bɛ ɲɛnɔgɔn, o ɲuman ka ɲɛ ani ka ɲɛfɔ hakili ko.
+- **Ɲɛfɔli kelen fɔ fɔlɔ.** Ka segin, ka tulo, ka ɲɛfɔli ɲuman kelen-kelen ɲɛfɔ kɔfɛ.
+- **Ka mɔgɔ ka kuma tugu.** Ni a bɛ kuma wɛrɛ fɛ, ka taa ni a ye.
 
-[Ɲɛnamaya kɔrɔ ka kuma sɛbɛnnin kɔrɔ, National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) bɛ fɔ ka kuma gɛlɛnnin ye, ka ɲɛ ka dɔgɔ, ka hɛrɛ ka ɲɛ, ani ka makɔnɔ ka mɔgɔ ka kuma sɔrɔ. O siraw bɛ kɛ yɔrɔ bɛɛ.
+Kuma kɔnɔ, [National Institute on Aging ka lakanani ka kuma kɛcogo](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ka fɔ: ka kumakan gɛlɛya, ka kuma ɲuman, ani ka muɲu ka a ka kumaw sɔrɔ. Nin siraw bɛ se ka ɲɛ ayɔ yɔrɔ bɛɛ.
 
-## So ani dɔnkili
+## So ani denbaya
 
-- Aw ka a fɔ ka so min na i kɔrɔtɔ. A kɔnɔ bɛ cogo di?
-- Mun de bɛ i ɲɛ ka ɲɛ i sigira ka bɔ, i ka dɔnkili?
-- Mɔgɔ jɛɛ min bɛ i ka dɔnkili ni i ye, o ye jɔ ye?
-- I ka dɔgɔ ye min ye? I bɛ a ni mɔgɔ dɔ ye wa?
+- I ka so min kɔnɔ i denbaya la, o kɔrɔ kuma kɛ. Kɔgɔ-so kɔnɔ cogo di?
+- I bɛ dɔnkili min na ka taama i denbaya la, o ye mun ye?
+- Mɔgɔ jumɛnw ye i ka denbaya la i bɛ ɲɛnɔgɔn ye?
+- I ka dɔgɔnin kɔnɔ, i bɛ ni mɔgɔ dɔ bɛ sigi walima?
 
-## Baara ani fɛn kɛli
+## Baara ani ka baara kɛ
 
-- Baara jɔ ye min bɛ i ɲɛ ka ɲɛ ka ɲɛ?
-- Aw ka waati dɔ fɔ min na i ye baara la, o bɛ i ka hɛrɛ kɛ.
-- Fɛn jɔ ye i bɛ kɛ i bolo ni?
-- Mɔgɔ jɔ bɛ i ka baara kalan kosɛbɛ?
+- Baara jumɛn ye i fɛ ka ɲɛ ka tɛmɛ ɲɛ?
+- Kuma dɔ kɔrɔ baara kɔnɔ min ka i ɲɛ ko.
+- I bɛ fɛn jumɛn kɛ ni i bolo ka tɛmɛ?
+- Mɔgɔ jumɛn ye i ka baara kɔrɔ kalan ka ɲɛ?
 
-## Dumuni ani sɔrɔ
+## Dumuni ani dumuni kɛli
 
-- Mun de bɛ i ka mɔgɔw dumuni don kari-tile?
-- Aw ka dumuni dɔ fɔ min mɔgɔ dɔ ka kɛ ka ɲɛ kosɛbɛ.
-- I dɔgɔ kɛra dumuni dɔ ye min bɛ i ka ɲɛnɛ, i kɔrɔtɔ?
-- Fɛn jɔ bɛ i ka so ɲɛnɛ?
+- Mun ye i ka mɔgɔw bɛ dumuni ka don kari-dɔ kɔnɔ?
+- Kuma dɔ kɔrɔ dumuni min mɔgɔ dɔ ka kɛ ɲɛ kosɛbɛ.
+- I bɛ yɔrɔ jumɛn na ka dumuni ɲuman sɔrɔ i denbaya la?
+- Fɛn jumɛn ka nun bɛ i hakili ka so kan?
 
-Dumuni kuma bɛ kɛ ɲɛnɛ ni [hakilisɛbɛnli ɲɛnɛ kɔrɔ](/activities/sensory/) bɛ sɛnɛ, ani ni nɛgɛ ɲɛnɛ, ni a ka ɲɛ.
+Dumuni kuma bɛ ɲɛ ni [sensory activities](/activities/sensory/) lakanani ye, ani ni dumuni dɔgɔ dɔ bɛ se ka di, ni o ka ɲuman.
 
-## Dɔnkili ani daminɛ
+## Dɔnkili ani dansi
 
-- Dɔnkili jɔ bɛ i ka dɔnkili kɔrɔ, ni i bɛ dɔnkili ni ɲɛ?
-- Dɔnkilitigi walima jama jɔ ye i ka ɲɛnɛ?
-- Waati ɲɛnɛ, i bɛ dɔnkili ɲɛ min yɔrɔ? So la, dɔnkilidon la, walima alɛsira la?
+- Dɔnkili jumɛn ye i bɛ fɔ walima i bɛ dansi a la i tun bɛ den ye?
+- Mɔgɔ jumɛn ye i ka dɔnkili fɛ ka ɲɛ kosɛbɛ, walima ɲɛnɔgɔn fɛ?
+- Waati wɛrɛw na, dɔnkili bɛ mɔgɔ ka ɲɛ yɔrɔ jumɛn na: so kɔnɔ, dansi kɔnɔ, walima jamana kɔnɔ?
 
-Dɔnkili ɲɛnɛ bɛ kɛ, [dementia mɔgɔw ka dɔnkili kɔrɔ](/activities/music/) bɛ sɛbɛn.
+Dɔnkili ɲɛfɔliw ni dɔnkili ɲɛfɔliw ka ko, [music activities for people with dementia](/activities/music/) ka lakanani ye.
 
-## Waati ka ko ani ɲɛnɛ
+## Feten ani dɔnkili
 
-- Jɔ ye i ka waati ka ɲɛnɛ min ye?
-- Aw ka dɔnkilidon dɔ fɔ min bɛ i ka hakili la.
-- Ko jɔ bɛ kɛ ɲɛnɛ, ni sun bɛ nɔ?
-- Mun de bɛ i ka mɔgɔw ka waati ka ko kɛ?
+- Feten jumɛn ye i fɛ ka ɲɛ ka tɛmɛ i den ye?
+- Kuma dɔ kɔrɔ den-ɲɛ feten min i hakili la.
+- Mun ye mɔgɔw bɛ kɛ ka bɔ ni sankolo bɛ ɲɛ ka tɛmɛ sɛgɛn kɔnɔ?
+- Mun cogo la i ka mɔgɔw bɛ feten kɛ waati ɲɛnɔgɔnw kɔnɔ?
 
-Ko waati ɲɛnɛ, [dementia mɔgɔw ka waati kɔrɔ](/activities/holidays/) bɛ sɛbɛn.
+Feten dɔ ka ko ɲuman ɲini ka tɛmɛ, [holiday activities for someone with dementia](/activities/holidays/) ka lakanani ye.
 
-## So ani teriw
+## Mɔgɔ-ɲɛmɔgɔw ani balimaw
 
-- Aw ka mɔgɔ dɔ fɔ min bɛ i ka dɔnkili sɔrɔ kosɛbɛ.
-- I ka muso walima cɛ ka tile ye jɔ ye?
-- Aw ka i ka denw fɔ ni o bɛ mɛn ka ɲɛ.
-- I ka teri bɛ i tɔgɔ wele cogo jɔ ye?
+- Kuma dɔ kɔrɔ mɔgɔ min bɛ i ka hilimi kosɛbɛ.
+- I ka muso-ka-so tɔɔrɔ cogo di?
+- Kuma dɔ kɔrɔ i ka denw ka dɔgɔ yɛrɛ kɔnɔ.
+- I balimaw bɛ i wele cogo di?
 
-Aw ka so kuma ɲɛnɛ, ɲɛnɛ. Ni mɔgɔ bɛ sɔrɔ mɔgɔ dɔ ye, aw ka a ɲɛ, aw kana a tiɲɛ ka sɛnɛ min bɛ a ka hinɛ.
+Mɔgɔ-ɲɛmɔgɔw kɔrɔ ɲɛfɔ ka kɛ ni hinɛ ye. Ni mɔgɔ bɛ dusu ɲɛ mɔgɔ dɔ ka saya kɔrɔ, ka a kɔfɛ ka taa ni a ye, ani ka tɛ a ka ɲɛ ka kuma dɔ kɔrɔ min bɛ a dimi.
 
-## Yɔrɔ ani fɛn
+## Yiriw ani dugukolo
 
-- Aw ka yɔrɔ dɔ fɔ min bɛ i ka hakili la kosɛbɛ.
-- Sanji jɔ ye i ka yɔrɔ la, i kɔrɔtɔ?
-- I bɛ sɔgɔsɔgɔ walima dɛɛ dɔ ye wa?
-- Aw ka taama dɔ fɔ min bɛ i ka dɔnkili.
+- Yiri dɔ kɔrɔ min bɛ i ka hakili ɲɛ.
+- Sankolo cogo di i tun bɛ yiri min na?
+- I bɛ bagan walima yiri dɔ min ka ɲɛ?
+- Taama dɔ kɔrɔ min ka i ɲɛ.
 
-## Foto ani fɛn ka kɛli
+## Foto ani fɛnw baarakɛ
 
-Foto bɛ kɛ kuma daminɛ ye. Foto ka kɔrɔ ni i ka ɲɛ ye, ka a fɔ: "Aw ka a fɔ." [Alzheimer's Association ka sɛbɛnnin kɔrɔ ka hakilisɛbɛnli](https://www.alz.org/help-support/caregiving/daily-care/activities) bɛ fɔ ka fɛn dɔw ka kɛ ka kuma daminɛ: fɛn jɛɛ, foto ani dɔnkili. Fɛn dɔw bɛ kɛ mɔgɔ ka ɲɛnamaya la, o bɛ kɛ hakilina ka ɲɛ; [hakilisɛbɛnli kɔrɔ](/activities/reminiscence/) bɛ kɛ ka o kɛ cogo jɔ ye.
+Foto bɛ kuma daminɛ ɲuman ye. Foto ka a ɲɛ-jɛ ɲɛ, ka fɔ ko: «Kuma ɲɛ nin kɔrɔ». [Alzheimer's Association ka lakanani ka dɔnkili kɛ](https://www.alz.org/help-support/caregiving/daily-care/activities) ka fɔ ko fɛnw ni foto ni dɔnkili bɛ kuma daminɛ. Hakilina sanuman kɔnɔ min bɛ fɛnw kɛ mɔgɔ ka ɲɛnɔgɔn, o bɛ ɲɛ kosɛbɛ. [Hakilinaw kɔrɔ dumuni](/activities/reminiscence/) lakanani bɛ ko min na a ka kɛ cogo.
 
-## Ni hakilina bɛ hinɛ kɛ
+## Hakilina min bɛ dimi
 
-Hakilina dɔw bɛ hinɛ, walima sɔgɔ, walima kɔngɔ. Ni mɔgɔ bɛ hinɛ, aw kana a tiɲɛ. Aw ka a fɔ ni hɛrɛ: "O bɛ i ko waati gɛlɛn dɔ ye. I bɛ kɛ ka kuma dɔ fɔ min ka ɲɛ?" Tuma dɔ kɔnɔ, aw ka kuma wɛrɛ ɲɛnɛ, walima aw ka tɛ dɛ, walima dɔnkili ɲɛnɛ.
+Hakilinaw dɔ bɛ ɲɛ ni dimi, fɔ walima ɲɛ. Ni mɔgɔ bɛ ɲɛ ɲɛfɛ, kɔrɔ kɛ ni hinɛ. Ɲɛfɔ ko: «O ye waati gɛlɛn ye. I bɛ fɛ ka kuma kɛ fɛn ɲuman kan?» Kɔfɛ, ka kuma wɛrɛ kɛ, walima ka tulu dɔ di, walima ka dɔnkili min bɛ a ka hinɛ ɲɛ.
 
-## Ɲininkali ni dɔnkili walima taama
+## Ɲɛfɔli kɔfɛ ka ko dɔ kɛ
 
-Ɲininkali kɔrɔ, dɔnkili gɛlɛn dɔ bɛ se ka hɛrɛ ɲɛnɛ. Aw ka [kunnafoni kaarɛ](/games/conversation-cards/) ɲɛnɛ, ani aw ka [kuma ka tɔ](/games/finish-the-saying/) ɲɛnɛ, mɔgɔ ka denmisɛnw ka kumaw ye. Kuma ka kɔrɔ dɔ ka ɲɛ, [dementia mɔgɔw ka kuma ka siraw](/caregiving/communication-tips/) bɛ sɛbɛn.
+Hakilinaw kɔrɔ kuma kɔfɛ, ko dɔgɔ dɔ bɛ ka kɛ ni ɲɛ ɲuman ye. Ka [conversation cards](/games/conversation-cards/) kɛ ka ɲɛfɔli wɛrɛw sɔrɔ, walima [finish the saying](/games/finish-the-saying/) ka kumafɛnw ka ɲɛ den-ɲɛ wagati kɔnɔ. Kuma ɲuman ci mɔgɔ ka kumakan kɔrɔ, [communication tips for someone with dementia](/caregiving/communication-tips/) ka lakanani ye.

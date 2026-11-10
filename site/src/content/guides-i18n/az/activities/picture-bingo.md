@@ -1,28 +1,33 @@
 ---
-title: "Demansla yaşayanlar üçün şəkilli binqo: çap və ya ekranda"
-seoTitle: "Demansla yaşayanlar üçün şəkilli binqo"
-description: "Demansla yaşayanlar üçün şəkilli binqo, çap və ya ekranda: böyük şəkillər, mülayim aparıcı, qalib təzyiqi yoxdur və kiçik qruplar üçün məsləhətlər."
+title: "Demansı olan yaşlılar üçün şəkilli bingo: çap və ya ekran"
+seoTitle: "Demansı olan yaşlılar üçün şəkilli bingo"
+description: "Demansı olan yaşlılar üçün şəkilli bingo: böyük şəkillər, mülayim aparıcı, qalib olmaq məcburiyyəti yoxdur və kiçik qruplar üçün məsləhətlər."
 section: activities
 order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Şəkilli binqo rəqəmləri böyük, aydın şəkillərlə əvəz edir, beləliklə insanlar oxuyub yadda saxlamaq əvəzinə gördükləri ilə uyğunlaşdıra bilirlər. Kartları çap edin və ya ekranda aparıcıdan istifadə edin, hər dəfə bir şəkil çağırın və hər kəsin gördüyünü qeyd etməsinə imkan verin. Qrupları kiçik saxlayın, şəkilləri iri edin və qalibi seçimə buraxın. Ən yaxşı binqo sessiyası ünsiyyətli bir saatdır, zirvəyə yarış deyil.
+  Şəkilli bingo rəqəmləri böyük, aydın şəkillərlə əvəz edir, beləliklə insanlar
+  oxumaq və yadda saxlamaq əvəzinə gördükləri şəkli uyğunlaşdıra bilirlər. Kartları
+  çap edin və ya ekrandakı aparıcıdan istifadə edin, hər dəfə bir şəkli çağırın və
+  hər kəsin gördüyünü qeyd etməsinə imkan verin. Qrupları kiçik saxlayın, şəkilləri
+  aydın edin və qalib olmanı könüllü edin. Ən yaxşı bingo sessiyası zövqlü bir
+  saatdır, ən yuxarıya çatmaq üçün yarış deyil.
 keyPoints:
-  - "Rəqəmlər əvəzinə şəkillərdən istifadə edin və hər birini iri, aydın və bir tanış əşyanı göstərən edin."
+  - "Rəqəmlər əvəzinə şəkillərdən istifadə edin və hər birini böyük, aydın və tanış bir əşya ilə məhdudlaşdırın."
   - "Yavaş çağırın, şəkli göstərin və adını deyin. Adı bir dəfə təkrarlayın və gözləyin."
-  - "Qrupları dörd-səkkiz nəfərlə məhdudlaşdırın və şəxsi aparıcını və kartını görə biləcəyi yerdə oturdun."
-  - "Qalibiyyəti seçimə buraxın. Bəzi sessiyalar hər kəsin bəyəndiyi bir şəkli səsləndirməklə bitə bilər."
-  - "Qalib elan etməzdən əvvəl soruşun. Bəzi insanlar mükafatdan və ya alqışdan narahat olur və bu normaldır."
+  - "Qrupları dörddən səkkizə qədər nəfərlə məhdudlaşdırın və insanı aparıcını və öz kartını görə biləcəyi yerdə oturdun."
+  - "Qalib olmanı könüllü edin. Bəzi sessiyalar hər kəsin bəyəndiyi bir şəkli səsləndirməklə bitə bilər."
+  - "Qalibi elan etməzdən əvvəl soruşun. Bəzi insanlar mükafat və ya alqış narahat edə bilər və bu normaldır."
 faq:
-  - q: "Demansla yaşayanlar üçün şəkilli binqo nədir?"
-    a: "Bu, rəqəmlər əvəzinə böyük şəkillərdən istifadə edən binqo versiyasıdır. Oyunçular aparıcı şəkli göstərdikdə və ya adını dedikdə kartlarındakı şəkli qeyd edirlər. Rəqəmlərlə çətinlik çəkən insanlar üçün uyğundur və oyuna qoşulmağı asanlaşdırır."
-  - q: "Qrup üçün şəkilli binqonu necə keçirmək olar?"
-    a: "Bir neçə dəst çap edilmiş kart və ya ekranda aparıcıdan istifadə edin və hər dəfə bir şəkil çağırın. Aydın danışın, şəkli qaldırın və insanlara onu tapmaq üçün vaxt verin. Qrupu kiçik saxlayın, tələsməyin və insanların kartlarını barmaqla, qələmlə və ya fişlə qeyd etməsinə icazə verin."
-  - q: "Şəkilli binqo yaddaşa kömək edir?"
-    a: "Heç bir fəaliyyətin demansı müalicə etdiyi və ya ləngitdiyi sübut olunmayıb. Şəkilli binqo birgə və ünsiyyətli oyundur. Onun dəyəri ünsiyyətdə, aparıcının səsində və şəkil tapmağın xoşluğundadır, yaddaşa hər hansı təsirində deyil."
-  - q: "Kimsə dayanmaq istəsə və ya şəkli tapa bilməsə nə etməli?"
-    a: "Dayanmasına icazə verin. Birlikdə tapmağı təklif edin, şəkli göstərin və ya icazəsi ilə fişini onun yerinə köçürün. Kartı bitirməkdən daha vacib olan onun rahat olmasıdır."
+  - q: "Demansı olanlar üçün şəkilli bingo nədir?"
+    a: "Bu, rəqəmlər əvəzinə böyük şəkillərdən istifadə edən bingo variantıdır. Aparıcı şəkli göstərdikdə və ya adını dedikdə oyunçular kartlarındakı şəkli qeyd edirlər. Rəqəmlərdə çətinlik çəkən insanlara uyğundur və oyuna qoşulmağı asanlaşdırır."
+  - q: "Qrup üçün şəkilli bingonu necə keçirmək olar?"
+    a: "Bir neçə çap olunmuş kart dəsti və ya ekrandakı aparıcıdan istifadə edin və hər dəfə bir şəkli çağırın. Aydın danışın, şəkli qaldırın və insanlara onu tapmaq üçün vaxt verin. Qrupu kiçik saxlayın, tələsməyin və insanların kartlarını barmaqla, qələmlə və ya fişlə qeyd etməsinə icazə verin."
+  - q: "Şəkilli bingo yaddaşa kömək edirmi?"
+    a: "Heç bir fəaliyyətin demansı müalicə etdiyi və ya yavaşlatdığı göstərilməyib. Şəkilli bingo birgə və sosial oyundur. Onun dəyəri həmkarlıqda, aparıcının səsində və şəkli tapmağın xoş hissində. Yaddaşa hansısa təsiri ilə bağlı deyil."
+  - q: "Biri dayanmaq istəsə və ya şəkli tapa bilmirsə, nə etmək lazımdır?"
+    a: "Dayanmasına icazə verin. Onunla birlikdə tapmağı təklif edin, şəkli göstərin və ya icazəsi ilə onun fişini özünüz yerinə qoyun. Insanın rahat olması kartı bitirməkdən daha vacibdir."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -38,51 +43,51 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-Binqo bir çox yaşlı insan üçün tanış və birgə oynanılan oyundur, lakin rəqəmləri demansla yaşayan biri üçün izləmək çətin ola bilər. Şəkilli binqo eyni mülayim ritmi saxlayır və rəqəmləri böyük, aydın şəkillərlə əvəz edir. Evdə, gündüz proqramında və ya qayğı evində işləyir. Bu bələdçi oyunun necə oynanılacağını, necə uyğunlaşdırılacağını və diqqəti əyləncədə necə saxlamağı əhatə edir.
+Bingo çoxlarının tanıdığı, sosial bir oyundur, lakin rəqəmləri demansı olan insan üçün izləmək çətin ola bilər. Şəkilli bingo eyni yumşaq ritmi saxlayır, rəqəmləri isə böyük, aydın şəkillərlə əvəz edir. Evdə, gündüz proqramında və ya qocalar evində işləyir. Bu bələdçi oyunun necə keçirilməsini, necə uyğunlaşdırılmasını və diqqətin zövqdə necə saxlanılmasını izah edir.
 
-## Şəkilli binqo necə işləyir
+## Şəkilli bingo necə işləyir
 
-Hər oyunçunun bir çəkisi olan kartı var, üzərində çayniki, pişiyi, gülü, yelkənli qayığı və ya velosipedi kimi şəkillər sıralanıb. Aparıcı hər dəfə bir şəkli göstərir və ya adını deyir. Oyunçular kartlarında uyğun şəkli qeyd edirlər. Bir sətri və ya qrupun razılaşdığı dəsti tamamlayan oyunçu "Binqo" deyə bilər, lakin bir çox qrup qalibi ümumiyyətlə buraxır.
+Hər oyunçunun şəkillərdən ibarət bir kartı olur, məsələn çaydan, pişik, qızılgül, yelkənli qayıq və ya velosiped. Aparıcı hər dəfə bir şəkli göstərir və ya adını deyir. Oyunçular kartlarında uyğun şəkli qeyd edirlər. Tam sətri və ya qrupun razılaşdığı dəstini tamamlayan oyunçu «Bingo!» deyə bilər, lakin bir çox qrup qalibi ümumiyyətlə elan etmir.
 
-[Pulsuz çap olunan fəaliyyətlərimizdən](/activities/printable/) çap kartlarından və ya qruplar üçün ekranda aparıcısı olan [şəkilli binqo oyunundan](/games/picture-bingo/) istifadə edə bilərsiniz. Hər ikisi bütün qrupun görməsi üçün planşetdə göstərildikdə yaxşı işləyir.
+[Pulsuz çap olunan fəaliyyətlərimizdən](/activities/printable/) çap kartlarından və ya qruplar üçün ekranda aparıcısı olan [şəkilli bingo oyunundan](/games/picture-bingo/) istifadə edə bilərsiniz. Hər ikisi bütün qrupun görməsi üçün planşetdə göstərildikdə yaxşı işləyir.
 
-## Sessiyanı qurmaq
+## Sessiyanın hazırlanması
 
-- **Kiçik qrup seçin.** Dörd-səkkiz nəfər yaxşı ölçüdür. Böyük qruplarda izləmək çətinləşir və tələsik hiss oluna bilər.
-- **Şəkilləri iri edin.** Qalın xətlərdən və hər xanada bir tanış əşyadan istifadə edin. Sıx kartlardan çəkinin.
-- **İnsanları yaxşı yerləşdirin.** Hər oyunçunu aparıcını və öz kartını görə biləcəyi yerdə, lazım olduqda köməkçiyə yaxın oturdun.
-- **Sadə işarələrdən istifadə edin.** İri fişlər, pullar və ya barmaqla toxunmaq qələmdən daha yaxşı işləyir. Bir neçə ehtiyat saxlayın.
-- **Qısa sessiya planlayın.** Otuz dəqiqə çox vaxt kifayətdir. Enerji azalarsa, erkən dayandırın.
+- **Kiçik qrup seçin.** Dörddən səkkizə qədər nəfər yaxşı ölçüdür. Böyük qruplarda izləmək çətinləşir və tələsik hiss olunur.
+- **Şəkilləri böyük edin.** Qalın xətlərdən və hər kvadratda bir tanış əşyadan istifadə edin. Sıx kartlardan çəkinin.
+- **İnsanları düzgün yerləşdirin.** Hər oyunçunu aparıcını və öz kartını görə biləcəyi yerdə, lazım olduqda köməkçisinin yanında oturdun.
+- **Sadə işarələrdən istifadə edin.** Böyük fişlər, sikkələr və ya barmaqla toxunmaq qələmdən daha yaxşı işləyir. Bir neçə ehtiyat saxlayın.
+- **Qısa sessiya planlaşdırın.** Otuz dəqiqə çox vaxt kifayət edir. Enerji azalarsa, vaxtından əvvəl dayanın.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) insanın hələ də nəyi edə bildiyinə uyğun fəaliyyətlərin uyğunlaşdırılmasını tövsiyə edir, ona görə də kömək edən hər zaman kartları və qaydaları sadələşdirin.
+[Milli Qocalma İnstitutu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fəaliyyətləri insanın hələ də edə bildiklərinə uyğunlaşdırmağı tövsiyə edir, ona görə kartları və qaydaları kömək edən hər zaman sadələşdirin.
 
 ## Şəkilləri necə çağırmaq
 
-1. **Şəkli qaldırın** və ya danışmazdan əvvəl ekranda göstərin.
-2. **Onu aydın adlandırın,** sadə sözlərlə: "Çayniki." Yavaş-yavaş bir dəfə təkrarlayın.
-3. **Gözləyin.** İnsanlara baxmaq və qeyd etmək üçün vaxt verin. Əksəriyyət şansı olana qədər növbəti şəkli çağırmayın.
-4. **Kömək edərsə, təsvir edin.** "Qırmızı çiçək" və ya "piknikdə gördüyümüz" kimi ifadələr söhbət yarada bilər.
-5. **Tempi mülayim saxlayın.** Sürətli aparıcıdan çox, sakit aparıcı vacibdir.
+1. **Şəkli qaldırın** və ya danışmadan əvvəl ekranda ona işarə edin.
+2. **Adını aydın deyin,** sadə sözlərlə: «Çaydan.» Bir dəfə, yavaş-yavaş təkrarlayın.
+3. **Gözləyin.** İnsanlara baxmaq və qeyd etmək üçün vaxt verin. Əksəriyyət şansını almayana qədər növbəti şəkli çağırmayın.
+4. **Lazım olsa, təsvir edin.** «Qırmızı çiçək» və ya «piknikdə gördüyümüz» kimi ifadələr söhbət aça bilər.
+5. **Temponu yumşaq saxlayın.** Sakit aparıcı sürətli aparıcıdan daha vacibdir.
 
-## Qalibiyyəti seçimə buraxmaq
+## Qalib olmanı könüllü etmək
 
-Rəqabət problem ola bilər. Uduzan insan sınaqdan keçirildiyini hiss edə bilər, qalib olmaqdan narahat olan insan isə gərginləşə bilər. Bunun əvəzinə bu variantları sınaya bilərsiniz:
+Rəqabət problem yarada bilər. Uduzan insan sınaqdan keçirilmiş kimi hiss edə bilər, qalib olmaqdan narahat olan insan isə gərginləşə bilər. Bunun əvəzinə bu variantlara baxın:
 
-- **Hər kəs bir şəkil qazanır.** Hər oyunçu bəyəndiyi bir şəkli səsləndirir və qrup ona heyran olur.
+- **Hər kəs bir şəkil qazanır.** Hər oyunçu bəyəndiyi bir şəkli səsləndirir və qrup ona baxıb tərifləyir.
 - **Tam kartı paylaşın.** Oyunçulardan kartlarındakı bir şəkil haqqında bir neçə söz deməyi xahiş edin.
-- **Şəkillər bitənə qədər oynayın.** Kartdakı bütün şəkilləri çağırın, sonra başqa kart başlayın və ilk qalibə heç bir hüquq verməyin.
-- **Mükafatı kiçik saxlayın və ya buraxın.** Kiçik bir peçenye və ya mahnı kuboka görə daha yaxşı işləyir.
+- **Şəkil qurtarana qədər oynayın.** Kartdakı bütün şəkilləri çağırın, sonra başqa kart başlayın. İlk qalibə iddia olmadan.
+- **Mükafatı kiçik saxlayın və ya buraxın.** Bir kələ-kötür və ya bir mahnı kubok təqdim etməkdən daha yaxşı işləyir.
 
 ## Sonrakı mərhələlərdə olan insanlar üçün uyğunlaşdırma
 
-Şəkil tapmaqda çətinlik çəkən insanlar üçün yalnız dörd və ya altı xanalı kart istifadə edin və ya hər oyunçuya bir dəfəyə bir kart verin. Oyunçu göstərərkən köməkçinin kartı tutmasına icazə verin və ya icazəsi ilə fişi yavaşca köçürün. Bəzi insanlar üçün sadəcə aparıcını dinləmək və sözlərin səsindən həzz almaq daha asandır.
+Şəkil tapmaqda çətinlik çəkən insanlar üçün yalnız dörd və ya altı kvadratlı kart istifadə edin və ya hər oyunçuya bir dəfəyə bir kart verin. İnsan işarə edərkən köməkçinin kartı tutmasına icazə verin, ya da icazəsi ilə fişi yumşaq şəkildə özünüz yerinə qoyun. Bəzi insanlar üçün aparıcını sadəcə dinləmək və sözlərin səsindən zövq almaq daha asandır.
 
-Narahatlıq əlamətlərinə diqqət edin, məsələn, geri çəkilmək və ya qaşları çatmaq, bu əlamətlər görünərsə dayandırın. Sakit, oturaq fəaliyyətlər üçün daha çox ideya üçün [sonrakı mərhələ fəaliyyətlərinə](/activities/late-stage/) baxın.
+Narahatlıq əlamətlərinə, məsələn geri çəkilməyə və ya qaşqabağa diqqət edin və belə əlamətlər görünərsə dayanın. Sakit, oturaq fəaliyyətlər üçün daha çox ideya üçün [sonrakı mərhələ fəaliyyətlərinə](/activities/late-stage/) baxın.
 
-## Qayğı evlərində və gündüz proqramlarında binqo
+## Qocalar evlərində və gündüz proqramlarında bingo
 
-Qrup fəaliyyətləri otaqdakı insanlar ətrafında planlaşdırıldıqda ən yaxşı işləyir. [Qayğı evləri və gündüz proqramları üçün qrup fəaliyyətləri bələdçimiz](/activities/care-home-groups/) sessiyanın necə planlaşdırılacağını, insanların necə yerləşdirilməsini və ayrılmaq istəyənlərlə necə davranılacağını əhatə edir. Şəkilli binqo həmçinin mahnı oxumaq və ya hekayə ilə yaxşı uyğunlaşır, sessiyanın sonunda isə daha sakit oyun kimi [cümləni tamamla](/activities/finish-the-saying/) ilə birlikdə oynana bilər.
+Qrup fəaliyyətləri otaqdakı insanlar nəzərə alınaraq planlaşdırıldıqda ən yaxşı nəticə verir. [Qocalar evləri və gündüz proqramları üçün qrup fəaliyyətləri bələdçimiz](/activities/care-home-groups/) sessiyanın necə planlaşdırılacağını, insanların necə yerləşdiriləcəyini və getmək istəyən insanlarla necə davranılacağını əhatə edir. Şəkilli bingo həmçinin mahnı və ya hekayə ilə yaxşı uyğunlaşır və sessiyanın sonunda daha sakit oyun kimi [finish-the-saying](/activities/finish-the-saying/) ilə birləşdirilə bilər.
 
-## Binqo nə edə bilər və nə edə bilməz
+## Bingo nəyə kömək edə bilər və nəyə edə bilməz
 
-Şəkilli binqo ünsiyyətli və xoşdur. İnsanları bir yerə toplaya bilər, şəkillərə baxmaq və dinləmək üçün səbəb verə bilər və qrupu isti hiss etdirə bilər. Demansı müalicə etmir və onun gedişini ləngitmir. Uğurunu kimin qalib gəldiyinə görə deyil, bir saat ərzində insanların necə göründüyünə və necə hiss etdiyinə görə qiymətləndirin.
+Şəkilli bingo sosial və xoş oyundur. İnsanları bir yerə toplaya bilər, şəkillərə baxmaq və dinləmək üçün səbəb verə bilər və qrupu isti hiss etdirə bilər. Demansı müalicə etmir və onun gedişini yavaşlatmır. Uğurunu kimin qalib gəldiyinə görə deyil, saatın ərzində insanların necə göründüyünə və necə hiss etdiyinə görə qiymətləndirin.

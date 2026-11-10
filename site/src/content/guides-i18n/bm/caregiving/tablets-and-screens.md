@@ -1,33 +1,33 @@
 ---
-title: "Tablɛti walima telefɔni labɛn alzaymɛrɛ bolo"
-seoTitle: "Tablɛti walima telefɔni labɛn alzaymɛrɛ bolo"
-description: "Tablɛti walima telefɔni labɛn kɔrɔfɔ alzaymɛrɛ bolo: dɔ kelen kɔnɔ, sɛbɛn ka bon, notifikasiyɔ dɔrɔn, ekran sɛgɛnɛ, sɔn ni data ka datugu."
+title: "Dementia la mɔgɔ ka tablet walima telefɔn labɛn"
+seoTitle: "Tablet walima telefɔn labɛn dementia la mɔgɔ ye"
+description: "Dementia la mɔgɔ ka tablet walima telefɔn labɛn sɔrɔ-sɔrɔ: kelen kɛlɛ kɔnɔ, sɛbɛn bonyɔ, notifikasiyɔn dɔɔnin, ci ɲɛfɔ, ani ka yɛrɛ ɲɛmɔgɔ ye."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Tablɛti walima telefɔni labɛn sɔrɔ, a ka sɛgɛn ka fɛ. Kɛ Guided Access la
-  iPad ni iPhone kan, walima app pinning la Android kan, dɔ kelen kɔnɔ, walima
-  Apple ka Assistive Access la, min bɛ sɛgɛn ka fɛ. Sɛbɛn ka bon, notifikasiyɔ
-  bɛɛ bɔ, kalan ekran kelen kɔnɔ ni dɔ fɛw dɔrɔn, sɔn ka labɛn, stand ka ta
-  yɛrɛ, ani lamɛnw ka kɔnɔnaw dɔrɔn. Ka o kɛ ni mɔgɔ fɛ ni dɔ tɛ ekran la.
+  Tablet walima telefɔn labɛn ka fɛn min na, o kɔfɛ aw ka di mɔgɔ ma. Kelen
+  kɛlɛ kɔnɔ ni Guided Access ye iPad ni iPhone kan, walima app pinning ye
+  Android kan. Apple ka Assistive Access bɛ se ka layout dogoman di. Sɛbɛn
+  bonyɔ, notifikasiyɔn dɔɔnin, kelen ci kɔnɔ fɛ, ci ɲɛfɔ, sanji ka labɛn,
+  ani app ka yɛrɛ ɲɛmɔgɔ dɔɔnin. Aw ka o kɛ ni kɛlɛ si ma se ka kɛ ni o ye.
 keyPoints:
-  - "Guided Access (iPhone, iPad) ni app pinning (Android) bɛ ekran kɛ dɔ kelen kɔnɔ, fo i ka o bɔ."
-  - "Apple ka Assistive Access bɛ sɛgɛn sɛbɛn ta, min bɛ labɛn mɔgɔw ye min bɛ hakili gɛlɛya la."
-  - "Sɛbɛn ka bon ani notifikasiyɔ ni pop-up bɛɛ bɔ, walasa ko si kana mɔgɔ kɔrɔsi walima kɛ kɔngɔ."
-  - "Dɔ fɛw min ye mɔgɔ ye kalan ɲɛfɛ kelen kɔnɔ, ani sɔn ka labɛn kɔfɛ i ka daminɛ."
-  - "Stand ni sanji yɛrɛ min tɛ taa, bɛ sɔrɔ kɛli ni sɛbɛn ka sɔrɔ ka fɛɛrɛ."
-  - "Lamɛn lamɛnw ni data ka datugu yɛrɛ: HIPAA tɛ kɛ dɛmɛ ye ni sɛbɛn min bɛ kɔnɔ personal device la, o bɛ jɛɲɔgɔn."
+  - "Guided Access (iPhone, iPad) ni app pinning (Android) bɛ ekran kelen kɛlɛ kɔnɔ fɔ, fo aw ka o dɔn."
+  - "Apple ka Assistive Access bɛ layout dogoman di, min kɛra dementia la mɔgɔ ye, u ka hakili ko bɛ se ka bɔ ka wuli."
+  - "Sɛbɛn bonyɔ ani notifikasiyɔn ni pop-up ɲɛ, o ka kɛ fɛn ye min tɛ dɛsɛ ka ... sɔrɔ ka u ye ni ... (see note)."
+  - "Kelen ɲɛ kɔnɔ, kelen ni fila kɛlɛ dɔ tun bɛ ka kan ka dɔ kɛ, ani ci ɲɛfɔ sɔrɔ kɛlɛ daminɛ ɲɛ."
+  - "Sanji ka labɛn ani yɔrɔ min tɛ ɲɛ, o bɛ tablet ka kɛlɛ ni a sɔrɔli dɔɔnin."
+  - "Ɲɛ ka app permissions ni data sharing: HIPAA (Amerikɛ sariya) tɛ sariya ye min bɛ personal device kɔnɔ data kɔnɔ."
 faq:
-  - q: "Mun na ka mɔgɔ min bɛ alzaymɛrɛ la ka dɔ bɔ iPad kan, a tɛ se ka taa ka tɛmɛ dɔ wɛrɛ kan?"
-    a: "Guided Access labɛn Settings > Accessibility > Guided Access kɔnɔ ani a ka passcode sɛbɛn. Dɔ daminɛ, saasi saya sɛgɛ kɛ (walima Home button, iPad kura kan) ani Start tulu. iPad bɛ to dɔ kɔnɔ fo mɔgɔ ye passcode sɛbɛn."
-  - q: "Mun na ka Android tablɛti lakɔ dɔ kelen kɔnɔ?"
-    a: "App pinning labɛn Settings kɔnɔ, a bɛ sɔrɔ Security (walima Security & location) > Advanced > App pinning kɔnɔ. Tɔɔrɔ dɔ daminɛ, Overview la, dɔ ka sigi kɛlɛ kɔnɔ tulu ani Pin tulu. I ka PIN, pattern walima password bɛ mako ka bɔ."
-  - q: "A ka ɲɛ ka Guided Access kɛ mɔgɔ ka yɛrɛ telefɔni kan?"
-    a: "Kɔlɔsi. Apple ko Crash Detection ni Emergency Services tɛ kɛ Guided Access sɛgɛnɛ kɔnɔ. Ni mɔgɔ bɛ a telefɔni kɛ kɛlɛ kɔnɔ ka wele, Guided Access kɛ kɔfɛ i bɛ a yɛrɛ ye, walima Assistive Access labɛn."
-  - q: "Mɔgɔ min bɛ alzaymɛrɛ la, ekran waati ɲɛnama ye jumɛn ye?"
-    a: "Nɔmɔrɔ kɛrɛnnɛnen tɛ yen. Waati gɛlɛn kɛ ni mɔgɔ fɛ, ni taamasiyɛn, fɛn ɲɛnama, dɔn, kumakan ni kumasɛn ye, o bɛ don ka ɲɛ ni ekran kɔnɔ waati bɔnɔ kɔnɔ ye. Ni sɛgɛnɛ bɛ kɔngɔ walima bɛ dɔ wɛrɛw ɲɛ, i ka a dɔrɔn."
+  - q: "Ni dementia la mɔgɔ bɛ app kɔnɔ iPad kɔnɔ, o bɛ se ka bɔ cogo di?"
+    a: "Aw ka Guided Access kunnafoni la Settings > Accessibility > Guided Access kɔnɔ, ka passcode labɛn. Aw ka app dɔ wuli, top button saba ta (walima Home button, iPad dɔw kɔnɔ), ka Start ta. iPad bɛ app kɔnɔ fɔ fo mɔgɔ ka passcode don."
+  - q: "Ni ka Android tablet kelen app ma, o bɛ se ka kɛ cogo di?"
+    a: "Aw ka app pinning labɛn Settings kɔnɔ, a bɛ sɔrɔ Security (walima Security & location) > Advanced > App pinning la. Tugun aw ka app wuli, Overview ta, app ka icon ta kunkow la, ka Pin ta. Unpin kɛ ni aw ka PIN, pattern walima password ye."
+  - q: "Ɲɛnamaya ye ka Guided Access kɛ mɔgɔ ka yɛrɛ telefɔn kɔnɔ?"
+    a: "I ka hakilina kɛ. Apple b'a fɔ ko Crash Detection ni Emergency Services tɛ kɛ Guided Access kɔnɔ. Ni mɔgɔ bɛ a telefɔn ta ni dɛsɛ waati kɔnɔ, Guided Access kɛ ni aw bɛ u fɛ kɛlɛ kɔnɔ kelen-kelen, walima Assistive Access ta."
+  - q: "Dementia la mɔgɔ ka ekran waati ye joli ye?"
+    a: "Waati jateminɛ tɛ yen. Waati kɛlɛ lɔnin, sigiyɔrɔ ni kɛlɛ dɔ ye kɛlɛ ni taama, dumuni, basigi ani kumakan ye, o bɛ don ni waati ye min bɛ ekran kɔnɔ kelen ye. Ni fɛn ka ɲɛ, walima ka fɛn wɛrɛw ɲɛ, o ka dɔ tigi ka kɔrɔ."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -64,119 +64,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-Tablɛti bɛ se ka kɛ fɛn ɲumanw ye: a bɛ se ka sɛbɛnw, dɔnniya ni dɔ fɛw jɛ ni mɔgɔ ye. Nka a bɛ se ka kɛ fɛn gɛlɛnw ye fana: tɔɔrɔ fitinin kelen bɛ dɔ wɛrɛ daminɛ, notifikasiyɔ bɛ pop-up kɛ, sɛbɛn bɛ fitinin ka dogo, walima ekran bɛ fɛrɛ kɔnɔ dɔ kɔnɔ. Labɛn tɔɔrɔ dɔ bɛ o bɛɛ dɛmɛ.
+Tablet bɛ se ka di ka ɲɛ ka sɛbɛn, dumuni ani sɛbɛnɛ ɲɛfɔlen ye. Nka a bɛ se ka kɛ fɛn min bɛ ko bɛɛ ka jɛnsɛn: ɲɛ kɔnɔ kelen bɛ app wɛrɛ wuli, notifikasiyɔn bɛ pop-up kɛ, sɛbɛn bɛ dogo, walima ekran bɛ dɔɔnin kɛlɛ kɔnɔ. Aw ka labɛn dɔ ka fɛn caman dɔrɔn ɲɛ.
 
-Nin kɔrɔfɔw bɛ kɛ ni tɛmɛnen ye iPhone, iPad ni Android kan. Menu tɔw bɛ yɛrɛ wɛrɛ kɛ software ni dɔ kɛlɛbaaw ka sɔrɔ, ni i ye fɛn wɛrɛ ye, i ka Apple walima Google ka sɛbɛn min bɛ sɔrɔ link la kɔrɔfɔ. Labɛn tɔɔrɔ yɛrɛ ka i ka mɔgɔ ye sigi ka ɲɛ.
+O kɔrɔ, aw ka dɔ bɛ se ka kɛ ni ɲɛfɔ kɛ built-in settings ye iPhone, iPad ni Android kan. Menu tɔgɔ bɛ wuli software ni device ka ka yɔrɔ kɔnɔ, o de kosɛbɛ. Ni fɛn tɛ i ka ɲɛ na, a ka Apple walima Google kunnafoni min ka link bɛ yan, o ka ci i ka device kɔnɔ. Labɛn yɛrɛ ka a kɛ sisan kɛlɛ kɔnɔ.
 
-## Mun na ka mɔgɔ min bɛ alzaymɛrɛ la ka tablɛti walima telefɔni kɛ?
+## Dementia la mɔgɔ ka tablet walima telefɔn ka kɛ wa?
 
-A bɛ taa mɔgɔ kan. Mɔgɔ caman bɛ tablɛti kɛ ni mɔgɔ dɔ bɛ a kɛlɛ, hali ni a tɛ se ka kɛ a yɛrɛ ye. Daminɛ ni i ye ɲɛfɛ, app kelen kɔnɔ, miniti dɔw kɔnɔ. Ni a bɛ dɔnniya ni kumasɛn kɛ, i ka to. Ni a bɛ hakiliyɛgɛ walima kɔngɔ kɛ, fɔtɔ dɔ, sɛbɛn min bɛ bɔ ka kɛ kaarow kan, walima dɔnniya bɛ a ka ɲɛ kosɛbɛ. Ɲɛfɛ [sɛbɛn bɔlen naani](/activities/printable/) ye dɔ ye.
+A bɛ taa mɔgɔ ma. Mɔgɔ caman bɛ tablet kɛ ni mɔgɔ dɔ ye u kɛlɛ, hali u ka kɛ kelen ye tɛ. Aw ka daminɛ ni aw ye kɛ ni app kelen wuli, waati tuman kɔnɔ. Ni o bɛ ɲɛfɔ ni kumakan kɛ, aw ka tɛmɛ ka kɛ. Ni o bɛ hakilina ni dimi kɛ, foto album, sɛbɛn bolokɔ walima dumuni bɛ se ka ɲɛ. An ka [printable activities](/activities/printable/) ye fɛn wɛrɛ ye.
 
-Tablɛti bɛ ka ɲɛ tɛlɛfɔni ma: ekran ni sɛbɛnw bɛ ka bon, ani a tɛ mɔgɔ ka kɛlɛ kɔnɔ ni yɛrɛ ye.
+Tablet bɛ se ka kɛ ka ɲɛ telefɔn ma: ekran ni foto bɛ bon, ani a tɛ mɔgɔ ka dɛsɛ ka yɛrɛ ka waati dɛsɛ ye.
 
-## Mun na ka tablɛti walima telefɔni dɔ kɛ app kelen kɔnɔ?
+## Ni ka tablet walima telefɔn kelen app kɔnɔ, o bɛ se ka kɛ cogo di?
 
-Guided Access kɛ iPhone ni iPad kan, walima app pinning kɛ Android kan. Olu bɛɛ bɛ ekran to app kelen kɔnɔ fo i ka sɛbɛn ka kɔnɔ, walasa ko tulu walima sɛgɛnɛ dɔ tɛ dɔ wɛrɛ daminɛ.
+Aw ka Guided Access labɛn iPhone ni iPad kan, walima app pinning labɛn Android kan. Olu bɛɛ bɛ ekran kelen app kɔnɔ fɔ, fo aw ka kode don. Ayi ɲɛ dɔ walima kɛlɛ dɔ tɛ se ka app wɛrɛ wuli.
 
 ### iPad ni iPhone: Guided Access
 
-[Apple ka Guided Access kɔrɔfɔw](https://support.apple.com/en-us/111795) kɔnɔ:
+[Apple ka Guided Access kunnafoni](https://support.apple.com/en-us/111795) la:
 
-1. Settings daminɛ, Accessibility tulu, Guided Access tulu ani a kɛ kunnafoni.
-2. Passcode Settings kɔnɔ, Guided Access passcode sɛbɛn. I bɛ se ka Face ID walima Touch ID fana kɛ.
-3. A bɛ se ka kɛ: Display Auto-Lock kɔnɔ, sɔn ekran bɛ lakɔ cogo di waati sɛgɛnɛ kɔnɔ, walasa ko a tɛ dɔ kɔnɔ ni dɔ bɛ sɛgɛ.
-4. App min bɛ fɛ, a daminɛ.
-5. Saasi kura sɛgɛ kɛ saya (iPhone), saasi kɔrɔ (iPad), walima Home button (ni kɛlɛ bɛ kɛ bɛnnen dɔ kɔnɔ).
-6. A bɛ se ka kɛ: ekran kɔnɔ dɔ min i bɛ kɛ ka ɲɛ tulu kɔnɔ, ka a ɲɛ kɛ ka tɛ ɲɛfɛ ko. Options (walima Session Settings) tulu walasa ka sɔn kulu bɔ, walima ekran ka wili kɔnɔ.
-7. Start tulu.
+1. Settings wuli, **Accessibility** ta, o kɔfɛ **Guided Access** ta ka a labɛn.
+2. **Passcode Settings** kɔnɔ, Guided Access passcode labɛn. I bɛ se ka Face ID walima Touch ID ye fana.
+3. A bɛ se ka kɛ: **Display Auto-Lock** kɔnɔ, ekran bɛ lɔ cogo di kɛlɛ kɔnɔ, o ka kɛ ko ekran tɛ dɔɔnin kɛlɛ kɔnɔ.
+4. App min ka i fɛ, o wuli.
+5. Side button saba ta (iPhone), top button saba ta (iPad), walima Home button saba ta (iPad dɔw).
+6. A bɛ se ka kɛ: ekran yɔrɔ min tɛ kan ka ɲɛ, o kɔrɔ ka dɔ jɛrɛ. **Options** (walima **Session Settings**) ta ka volume button walima ekran ka wili kɛ fɔ.
+7. **Start** ta.
 
-Sɛgɛnɛ bɔ, saasi sɛgɛ ka kɛ kura kelen ni, passcode sɛbɛn, ani End tulu. Apple ko dɔ kɛlɛ sɔrɔ software kɔrɔ kɔnɔ, i bɛ kura ni fila sɛgɛ.
+Kɛlɛ ka ban, side button walima top button saba ta ka kɔ, passcode don, o kɔfɛ **End** ta. Apple b'a fɔ ko software dɔw kɔnɔ, aw bɛ button fila ta.
 
-**Ɲɛfɛ:** Apple ko Crash Detection ni Emergency Services tɛ kɛ Guided Access sɛgɛnɛ kɔnɔ. Aw kana Guided Access to telefɔni kan min mɔgɔ bɛ a kɛ kɛlɛ kɔnɔ ka wele.
+**Ka hakilina ye:** Apple b'a fɔ ko Crash Detection ni Emergency Services tɛ kɛ Guided Access kɛlɛ kɔnɔ. Telefɔn min ka mɔgɔ bɛ se ka dɛsɛ ka ɲɛmɔgɔ wele ni o ye, aw kana Guided Access to kɔnɔ.
 
 ### Android: app pinning
 
-[Google ka Android kɔrɔfɔ app ka ekran pinning kɔrɔ](https://support.google.com/android/answer/9455138?hl=en) kɔnɔ:
+[Google ka Android kunnafoni ka ekran pinning kɔrɔ](https://support.google.com/android/answer/9455138?hl=en) la:
 
-1. Settings app daminɛ.
-2. Security (walima Security & location) tulu, Advanced tulu, App pinning tulu. Ni i tɛ a sɔrɔ, i ka kɔrɔfɔ ka device ka makɛ sɛbɛnw ye.
-3. App pinning kunnafoni. I ka PIN, pattern walima password bɛ mako ka bɔ.
-4. App min bɛ fɛ, a daminɛ. Ka bɔ ka taa ekran kɔnɔ, sɛgɛ kɛ, ani kɔnɔ Overview ma (walima Overview tulu, ni navigation ye saya 3-button ye).
-5. App preview kɔrɔ, app ka icon tulu, ani Pin tulu.
+1. **Settings** app wuli.
+2. **Security** (walima **Security & location**) ta, o kɔfɛ **Advanced**, o kɔfɛ **App pinning** ta. Ni i tɛ o sɔrɔ, i device ka maker ka kunnafoni ɲini.
+3. **App pinning** ta ka a labɛn. Aw ka PIN, pattern walima password bɛ ka kan ka unpin.
+4. App min ka i fɛ, o wuli. Ekran ɲɛ kɔnɔ kɔrɔ ka wuli, o kɔfɛ ka Overview wuli (walima Overview ta, ni navigation ye button saba ye).
+5. App preview kunkow la, app ka icon ta, o kɔfɛ **Pin** ta.
 
-Walasa ko i ka pinning bɔ gesture navigation la, ka bɔ ka taa ani sɛgɛ. 3-button navigation la, Back ni Overview ka kɛ ni a ka ɲɛ kɛ. 2-button navigation la, Back ni Home ka kɛ ni a ka ɲɛ kɛ. Tɔɔrɔ kɔfɛ, PIN, pattern walima password sɛbɛn.
+Unpin kɛ gesture navigation ni: ekran kɔrɔ ka wuli ka kɛlɛ. Button saba navigation ni: Back ni Overview ta ka kɛlɛ. Button fila navigation ni: Back ni Home ta ka kɛlɛ. O kɔfɛ aw ka PIN, pattern walima password don.
 
-## Fo ni iPhone walima iPad bɛɛ ka sɛgɛnɛ ka fɛ?
+## Iphone walima iPad bɛɛ ka layout dogoman bɛ wa?
 
-Ɔwɔ. Apple ka Assistive Access bɛ home screen dɔ wɛrɛ ta, min ka fɛ ka sɛgɛn. [Apple ko a ye](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ko a bɛ kɛ walasa ka iPhone labɛn hakili gɛlɛya la mɔgɔw ye, ani a bɛ fɛn ɲumanw ta, ekran ka fɛn gɛlɛnw bɛ fitinin, ani fɛn min bɛ sɛgɛnɛ ka jɔ dɔ kan. [Ko kelen in](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) bɛ iPad kan fana.
+Ɔwɔ. Apple ka Assistive Access bɛ Home screen ka kunkolo ta ka layout dogoman labɛn. [Apple b'a fɔ](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ko a kɛra iPhone ka ɲɛ kɛ mɔgɔ ye min bɛ hakili ko kɛlɛ la ka dɔ kɛ yɛrɛ ka, ani a bɛ fɛn ɲɛfɔlen ni fɛn caman dɔrɔn bɛ ekran kɔnɔ. Apple bɛ [o kɛ iPad kan fana](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Jɔ min bɛ labɛn.** Mɔgɔ min bɛ mɔgɔ ka dɛmɛ kɛ, i ko denbaya walima kumakɛla, o bɛ dɛmɛ ka app ni fɛn sugandili sugandi.
-- **Daminɛ.** Settings > Accessibility > Assistive Access, Set Up Assistive Access tulu, ani Continue tulu.
-- **Apps.** I bɛ app min bɛ jɛ, o sugandi. Apple app dɔw bɛ kɛ ni labɛnnen ye, ani app caman bɛ se ka kɛ cogo ɲɛnama la.
-- **Layout.** Rows (liste min ka ɲɛ) walima Grid (fɛn ɲumanw min bɛ kɛ pikiri ni icon ye) sugandi.
-- **Passcode.** I bɛ passcode gɛlɛya kɛ, o ye Assistive Access passcode ye, min bɛ sɛgɛn, bɔ, walima labɛn kɛ. Apple ko i ka Apple Account kɔrɔ sɛbɛn set-up waati, sabu ni o tɛ, passcode ka kɔnɔ tɔ bɛ kɛ device ka reset ye.
+- **Jɔ bɛ o labɛn.** Apple b'a fɔ ko dɛmɛbaga ni mɔgɔ min dɔn mɔgɔ ka kan, i ko denw walima sigi ɲɛmɔgɔ, o bɛ app ni fɛn sugandi ɲɛ.
+- **Daminɛ.** **Settings > Accessibility > Assistive Access** kɔnɔ, **Set Up Assistive Access** ta, o kɔfɛ **Continue** ta.
+- **App.** Aw bɛ app min sugandi, o bɛ sɔrɔ. Apple app dɔw bɛ layout dogoman kɛ, app caman wɛrɛ bɛ se ka wuli u ka layout kɔnɔ.
+- **Layout.** **Rows** (sɛbɛ ɲɛ) walima **Grid** (icon ni foto caman) ta.
+- **Passcode.** Assistive Access passcode yɛrɛ bɛ se ka labɛn, ka bɔ, walima ka settings yɛlɛ. Apple b'a fɔ ko setup kɔnɔ, aw ka Apple Account ka recovery labɛn, ko passcode ka kɔ, device ka reset tɛ kɛ ka ɲɛ.
 
-Assistive Access bɛ se ka kɛ mɔgɔ min bɛ a yɛrɛ ka device kɛ don bɛɛ. Guided Access walima app pinning bɛ tɛmɛ ka sɛgɛ dɔ kɛ ni mɔgɔw ye.
+Assistive Access bɛ se ka ɲɛ mɔgɔ min bɛ a ka device kɛ kɛlɛ kɔnɔ tile bɛɛ. Guided Access walima app pinning bɛ ɲɛ kɛlɛ kelen kɔnɔ.
 
-## Mun na ka sɛbɛn ni fɛn ɲumanw kɛ ka bon?
+## Sɛbɛ ni foto ka bon cogo di?
 
-Sɛbɛn ni ekran sɛbɛnw ka sɔrɔ, ka a ɲɛ ka sɔn, ka a ka button dɔw jɛ ka sɔn.
+Sɛbɛ ka bon ni display size ka kɛ bon, o kɔfɛ ka ɲɛ ko kɛlɛ dɔ tɛ kɛ dɔgɔ.
 
-**iPhone ni iPad.** [Apple ka font size kɔrɔfɔ](https://support.apple.com/en-us/102453) kɔnɔ, Settings > Display & Brightness > Text Size ka tulu, ani slider ka bɔ. Sɛbɛn kɔrɔ ka bon, Settings > Accessibility > Display & Text Size > Larger Text. Apple ko sɛbɛn bɔnɔ ka ɲɛ kɛ, button dɔw bɛ tɔɔrɔ ka ɲɛ tulu, ni o kɛ, a ka labɛn.
+**iPhone ni iPad.** [Apple ka font size kunnafoni](https://support.apple.com/en-us/102453) ko: **Settings > Display & Brightness > Text Size**, o kɔfɛ slider ta. Sɛbɛ ka bon ka ɲɛ, **Settings > Accessibility > Display & Text Size > Larger Text** ta. Apple b'a fɔ ko sɛbɛ ka bon ka ɲɛ dɔ bɛ ka button tigi ka dɔgɔya, o de ka a sɔrɔ.
 
-**Android.** [Google ka text ni display settings kɔrɔfɔ](https://support.google.com/accessibility/android/answer/11183305?hl=en) kɔnɔ, Settings daminɛ ani Font size seko, slider ka bɔ. Display size seko walasa ka ekran kɔnɔ fɛnw bɛɛ ka bon. I bɛ se ka Bold text kunnafoni fana Accessibility > Display size and text kɔnɔ. App dɔw tɛ o settings to.
+**Android.** [Google ka sɛbɛ ni ekran settings kunnafoni](https://support.google.com/accessibility/android/answer/11183305?hl=en) ko: **Settings** kɔnɔ ka **Font size** ɲini, o kɔfɛ slider ta. **Display size** ɲini ka ekran ka fɛn bɛɛ ka bon. **Accessibility > Display size and text** kɔnɔ, **Bold text** labɛn fana. App dɔw tɛ settings ɲɛmɔgɔ.
 
-[Picture Pairs](/games/picture-pairs/) ni [Find the Same](/games/find-the-same/) kɔnɔ, i bɛ se ka tile walima choice dɔrɔn sugandi, o bɛ ekran kɛ sɔn ye.
+[Picture Pairs](/games/picture-pairs/) ni [Find the Same](/games/find-the-same/) kɔnɔ, aw bɛ se ka tile walima choice dɔgɔ sugandi, o bɛ ekran kɔnɔ fɛn dɔgɔ kɛ.
 
-## Mun na ka notifikasiyɔ ni pop-up bɔ?
+## Notifikasiyɔn ni pop-up ka ɲɛfɔ cogo di?
 
-Notifikasiyɔ bɔ app min i ma kɛ ka wili, ani Do Not Disturb kɛ waati sɛgɛnɛ kɔnɔ.
+App min tɛ dɛsɛ, o ka notifikasiyɔn ɲɛ. Dumuni waati kɔnɔ, Do Not Disturb labɛn.
 
-**iPhone ni iPad.** Settings > Notifications ani app kelen tulu, Notification Style kɔrɔ, ani Allow Notifications bɔ ([Apple ka notification settings kɔrɔfɔ](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Waati dɔ kɔnɔ wele, sɔn ni notifikasiyɔ bɛɛ bɔ, Control Center ka kɔnɔ, Focus tulu ka Do Not Disturb kunnafoni ([Apple ka Do Not Disturb kɔrɔfɔ](https://support.apple.com/en-us/105112)). Waati sugandilen kɛ Settings > Focus > Do Not Disturb > Set a Schedule kɔnɔ.
+**iPhone ni iPad.** **Settings > Notifications** kɔnɔ, app dɔ ta ka **Notification Style** kɔrɔ, o kɔfɛ **Allow Notifications** ɲɛ ([Apple ka notification settings kunnafoni](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Wagati dɔ kɔnɔ, call, alert ni notifikasiyɔn bɛɛ ɲɛ, Control Center kɔnɔ **Focus** button kɔnɔ, **Do Not Disturb** labɛn ([Apple ka Do Not Disturb kunnafoni](https://support.apple.com/en-us/105112)). **Settings > Focus > Do Not Disturb > Set a Schedule** kɔnɔ, waati jateminɛ fana bɛ se ka kɛ.
 
-**Android.** Ekran kɔrɔ ka bɔ ka taa kɔnɔ, Do Not Disturb tulu, walima Settings > Modes > Do Not Disturb ([Google ka Do Not Disturb kɔrɔfɔ](https://support.google.com/android/answer/9069335?hl=en)). Notification filters kɔnɔ, i bɛ se ka mɔgɔ ni app min bɛ ɲɛ ka sɔrɔ, o sugandi. Settings bɛ yɛrɛ wɛrɛ kɛ device ka makɛ fɛ.
+**Android.** Ekran kunkolo kɔrɔ ka bɔ ka **Do Not Disturb** ta, walima **Settings > Modes > Do Not Disturb** ([Google ka Do Not Disturb kunnafoni](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters** kɔnɔ, mɔgɔ ni app min bɛ se ka kɔnɔ ka na, o sugandi. Settings bɛ taa device maker ye.
 
-## Mun na ka home screen ɲumanw kɛ?
+## Home screen dogoman cogo di?
 
-App kelen kɔnɔ dɔ fɛw min ka ɲɛ ka dɔn, ani dɔ wɛrɛw bɔ ekran kɔrɔ. Sɛbɛn kelen tɛ yen; o bɛ kɛ ni fɛn gɛlɛnw bɔ ye.
+App dɔw min dɔn, o kelen ekran kɔnɔ ka to, wɛrɛ ka ɲɛ. Settings kelen tɛ o ye; o ye fɛn ɲɛfɛ ye.
 
-- **App saba walima wɔɔrɔ sugandi.** Misali, sɛbɛnw, dɔnniya, video call app, ani dɔ kelen.
-- **Olu ka kɔnɔ home screen kelen kɔnɔ,** ni kɔnɔ min na tɔ kelen ye, ani dɔ wɛrɛ bɔ screen filanan walima folder kɔnɔ.
-- **Wallpaper sɔnsɔn ani ka ɲɛ,** i ko kɔnɔ kelen walima fɔtɔ ka ɲɛ, walasa icon ka ɲɛ ka kɛ.
-- **App min tɛ a ka mako, a bɔ.** App dɔw tɛ, o kɛ sɛgɛnɛ gɛlɛ ye ni data ka jɔ ye.
-- **Assistive Access sugandi** Apple device kan, ni i b'a fɛ ka device ka o kɛ.
+- **App saba ka fo wɔɔrɔ sugandi.** Misali: foto, dumuni, video call app ni kɛlɛ kelen.
+- **O ka kɛ ekran kunkolo kɔnɔ,** yɔrɔ kelen-kelen ye waati bɛɛ, wɛrɛw ka kɛ ekran fila walima folder kɔnɔ.
+- **Wallpaper sɔrɔ ka fasa, ka kɔrɔ ka ɲɛ,** i ko kala kelen walima foto dɔ min dɔn, ko icon ka ɲɛ.
+- **App min tɛ dɛsɛ, o ka bɔ.** App dɔɔnin, hakilina ka kɛ ɲɛ dɔɔnin, data sɔrɔli fana dɔɔnin.
+- **Apple device kɔnɔ, Assistive Access ɲɛ** ni aw b'a fɛ ko device ka o kɛ aw yɛrɛ ta.
 
-## Mun na ka sɔn ni dɔnniya kɔnɔ?
+## Volume ni dɔnkili cogo di?
 
-Sɔn ka ɲɛ kɛ ka fɔ device di mɔgɔ ma. Guided Access ni, a bɛ se ka sɔn kulu bɔ, walasa ka sɔn ka fɛrɛ sɛgɛnɛ kɔnɔ. Ka a ye ko tulonin ni dɔ bɛ kɛ kɔnɔ, ni i bɛ sɔn ka dɔnniya.
+Device ka di mɔgɔ ma, volume ka ɲɛ ka kɛ ka nɔgɔ. Guided Access kɔnɔ, volume button ta ka kɛ ko a tɛ kɛlɛ kɔnɔ yɛlɛ. Hali o, ɲɛ kɔnɔ ka lakana ka kɛ ka kɔ ka a dɔn.
 
-## Tablɛti ka ɲɛ kɛ min na?
+## Tablet bɛ se ka sigi cogo di?
 
-A ka stand ni sanji yɛrɛ ta.
+Sanji ni yɔrɔ kelen-kelen, o sɔrɔ ka kɛ.
 
-- **Stand walima case** min bɛ tablɛti ta sɔrɔ tabali kan, walasa mɔgɔ si tɛ a sɛgɛ, ani ka fɛ ka ɲɛfɛ ka sɔrɔ.
-- **Sanji kelen yɛrɛ** min tɛ taa, tabali kan, ni i bɛ se ka to, walasa tablɛti bɛ sanji ni sɛgɛnɛ kɔnɔ ye, ani a bɛ sɔrɔ ka sɛgɛ ka fɛ.
-- **Ka sɔrɔ tiɲɛ kɛ.** Ekran ka kɔnɔ fitinin ka sɔrɔ fitinin kɔnɔ mɔgɔ.
+- **Stand walima case** min bɛ tablet ta ka sigi tabali kan, ka ɲɛ, o ka kɛ ko mɔgɔ tɛ a ta ka ɲɛ, ani a bɛ se ka kɛ ka a yɔrɔ ta.
+- **Sanji yɔrɔ kelen,** min tɛ yɛlɛ, sigi tabali kan waso kɔnɔ, o ka kɛ ko tablet bɛ sanji kɛ waati bɛɛ, ani a bɛ sigi yɔrɔ kelen kan.
+- **Ɲɛ ka tilebɔ dɔɔnin.** Ekran kɔnɔ ka tilebɔ ni fitinin tɛ sɔrɔ.
 
-## Ekran waati jumɛn ye ɲɛ?
+## Ekran waati joli ye?
 
-Waati nɔmɔrɔ kɛrɛnnɛnen tɛ yen. Taamasiyɛn ka kɛ, kumasɛn ka kɛ, ni dɔnniya ka kɛ dɔ kɛlɛ kɔnɔ, ani sɛgɛnɛ dɔ tɛ kɔnɔ. Ni a bɛ kɔngɔ kɛ ni dɔ bɛ dɔ wɛrɛ kɛ, i ka ekran kɔnɔ waati ka kɛ, ni a bɛ sɔrɔ ka fɔ, i ka a dɔrɔn. [Waati kɔrɔ labɛnw](/caregiving/late-day-restlessness/) ye dɔ ye.
+Waati jateminɛ tɛ yen. Kɛlɛ lɔnin, sigiyɔrɔ, dumuni, basigi, kumakan ani waati kɔnɔ bɔ ye, o ni ekran kɛlɛ bɛ ɲɛ. Ekran kɛlɛ bɛ ka kan ka kɛ tile fɔlɔ kɔnɔ, ka ɲɛ ni tile wɛrɛw ka ɲɛ, dɔ ka kɛ tile kɔnɔ. [Kɛlɛ lɔnin ni fɛn wɛrɛw](/caregiving/late-day-restlessness/) ka kunnafoni bɛ yan.
 
-Tablɛti kɛ ni mɔgɔ fɛ, ka ɲɛ kɛ kɔnɔ, o bɛ kɛ kumasɛn ye, ani a tɛ kɛ ka mɔgɔ ka kɛlɛ ye. [Dɔ kɛ ni mɔgɔ fɛ](/caregiving/how-to-play-together/) kɔrɔfɔ bɛ o ko kɔrɔ.
+Tablet kɛlɛ ni mɔgɔ ye, ka kɛ kɛlɛ dɔ ye min kɛlɛ bɛ ɲɛ, o bɛ kɛ ɲɛmɔgɔ ye. [Kɛlɛ ni aw ye](/caregiving/how-to-play-together/) ka kunnafoni bɛ o cogo kɔrɔ jira.
 
-## Mun na ka mɔgɔ ka hakili kɔnɔ device kan?
+## Mɔgɔ ka ci ka kɔnɔ cogo di?
 
-App min bɛ dɔnniya min na, o dɔrɔn, ani health privacy sariya tɛ o bɛɛ ye ko. Amerikan Sanfɛ Wɛrɛw (HHS) bɛ [ko](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ko HIPAA sariyaw tɛ kɛ dɛmɛ ye ni sɛbɛn min bɛ kɔnɔ telefɔni walima tablɛti kan. Caman na, HIPAA tɛ kɛ dɛmɛ ye ni data min bɛ kɔnɔ app kan dɔnniya ka kɛ, fo app bɛ bɔ sɛbɛnnen ko dɔrɔn ka kɔnɔ.
+App min bɛ data sɔrɔ, o ka dɔgɔya, ani sariya ka ɲɛ kɛ aw ka hakilina ye. U.S. Department of Health and Human Services (HHS) [b'a jira](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ko HIPAA Rules tɛ ci personal telefɔn ni tablet kɔnɔ ka kunnafoni kɔnɔ. Amerikɛ sariya ye ntɛ, a tɛ kɛ yɔrɔ wɛrɛ kɔnɔ fana ka sariya ye. Ko caman na, HIPAA tɛ app data ci, o min ka kɛ kɛlɛ yɛrɛ ka waati kɔnɔ, tuma min app bɛ bɔ ɲɛmɔgɔ bɔ, walima sɛbɛn ɲɛmɔgɔ bɔ.
 
-HHS ko:
+HHS b'a fɔ ko aw ka:
 
-- app min tɛ mako, ni "bɔ" min tɛ kɛ ko ye, o bɔ;
-- app ma sɔrɔ ka kɔnɔ kɔrɔ, fo a ka ɲɛ kɛ, i ko maps.
+- app min tɛ dɛsɛ, ka bɔ, ni "free" app ye kosɛbɛ;
+- location ta app ma, ni a tɛ dɛsɛ, i ko maps.
 
-Ka to o kɔfɛ:
+Aw ka hakilina fana ka kɛ:
 
-- **Passcode kɛ** device kan, ani a sɛbɛn yɛrɛ min bɛ sɔrɔ.
-- **Sɛgɛnɛ min bɛ fɔ app ma** fɔtɔ, kamera, mikrofon, contacts ni location kɔrɔ, ani a bɔ app min tɛ mako.
-- **App ka ɲɛ kɛ min i bɛ sɛgɛ.** Guided Access ni [alzaymɛrɛ app ni dɔ](/caregiving/choosing-apps-and-games/) ka checklist bɛ ɲɛ.
-- **Ka kɛ ni famille fɔtɔw ye ni kɛnɛ.** Fɔtɔ min mɔgɔ bɛ ɲɛ ni a ye, o kelen bɛ bɔ, ani dɔn yɔrɔ min na app bɛ fɔtɔ kɔnɔ. [Photo Pairs](/games/photo-pairs/) kɔnɔ, fɔtɔ min i bɛ sugandi, o bɛ to i ka browser kɔnɔ.
-- **In-app purchases bɔ** walima payment details bɔ account min mɔgɔ bɛ sɛgɛn.
+- **Passcode labɛn** device kɔnɔ, ka kode sɔrɔ yɔrɔ ɲɛ.
+- **Permissions ɲɛfɔ** foto, kamera, microphone, contacts ni location kɔnɔ, app min tɛ dɛsɛ, o ka bɔ.
+- **App ka data ɲɛfɔ** install kɔrɔ. [Dementia app ni kɛlɛ sugandi](/caregiving/choosing-apps-and-games/) ka kunnafoni bɛ privacy checklist kɛ.
+- **Foto ɲɛfɔ.** Mɔgɔ min bɛ foto ye, a ka hakili ka ɲɛ a ka foto ci ka kɔnɔ. App ta kɔnɔ, aw bɛ foto min sugandi, o bɛ aw browser kɔnɔ to. [Photo Pairs](/games/photo-pairs/) kɔnɔ, aw ka foto min sugandi, o bɛ to aw browser kɔnɔ.
+- **In-app purchase ɲɛfɔ** walima payment details bɔ account min mɔgɔ bɛ kɛ, o kɔnɔ.

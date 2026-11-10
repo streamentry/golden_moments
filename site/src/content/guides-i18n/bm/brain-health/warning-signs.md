@@ -1,33 +1,28 @@
 ---
-title: "Hakilijigin taamasiyɛn fɔlɔw ani tuma min na ka taa dɔgɔtɔrɔ ye"
-seoTitle: "Hakilijigin taamasiyɛn fɔlɔw ani tuma min na ka taa dɔgɔtɔrɔ ye"
-description: "Hakilijigin taamasiyɛn fɔlɔw, u ni kɔrɔya hakiliɲagami danfara, hakiliɲagami kun wɛrɛw minnu bɛ se ka furakɛ, ani i yɛrɛ labɛn cogo dɔgɔtɔrɔ ye."
+title: "Dementia ka fɔlɔ siginɛw ani dɔkotɔrɔ ye tuma min na"
+seoTitle: "Dementia ka fɔlɔ siginɛw ani dɔkotɔrɔ ye tuma min na"
+description: "Dementia ka fɔlɔ siginɛ caman, u ka cɛma ka fɛ cogo min na, hakili ka bana caman minnu bɛ se ka labɔ, ani aw bɛ se ka aw yɛrɛ labɛn cogo min na dɔkotɔrɔ ka dɔnkili ye."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Hakiliɲagami min bɛ don o don baara bali, gɛlɛya baara dɔnninw la, waati walima yɔrɔ
-  ɲagami, ani dusukunnata walima latigɛcogo fɛn caman bɛ se ka kɛ hakilijigin taamasiyɛn
-  fɔlɔw ye. Bana wɛrɛ caman fana, i n'a fɔ tiroyidi gɛlɛyaw, witamini B12 dɔgɔyali, fura
-  kɛlɛw, dusukasi ani sunɔgɔ gɛlɛyaw, olu bɛ se ka fɛn caman kɛ o cogo la. Dɔgɔtɔrɔ
-  walima kɛnɛya baarakɛla dɔnnen dɔrɔn de bɛ se ka a dɔn. Ɲagami min bɛ bɔ joona, sisan
-  sisan, o bɛ kɛnɛya dɛmɛ joona de wajibiya.
+  Hakili bɔli min bɛ ɲɛnamaya kɛwale kɔrɔsi, kɛlɛ min bɛ ka kɛ ko caman ye, dɔ min bɛ ka kɛ cɛ fɛ ni yɔrɔ fɛ, ani ɲɛnamaya ni hakili kɔnɔ ka yɛlɛma bɛ se ka kɛ dementia ka fɔlɔ siginɛw ye. Bana tɔw caman, o cɛ, tiroyidi ka kɛlɛ, B12 ka kɔ, dawolo ka kɔfɛ kɛlɛ, dusu kɛlɛ ani dormi kɛlɛ, bɛ se ka kɛ yɛlɛmali tɔw ye. Dɔkotɔrɔ min ka dɔnkili bɛ, o kelen de bɛ se ka dementia labɔ. Hakili fɛɛrɛ tɔɔrɔ kɛra tuma dɔ la, o bɛ ka kɛ wagati dɔ la, a ka ca.
 keyPoints:
-  - "Tuma dɔw la ka hakiliɲagami kɛ, o ye kɔrɔya taamasiyɛn ye; fɛn caman minnu bɛ don o don ɲɛnamaya bali, olu ka kan ka lajɛ."
-  - "Alzheimer's Association bɛ lasɔmi taamasiyɛn 10 jira, kelen kelen bɛɛ ni kɔrɔya fɛn min bɛ kɛ tuma caman, walasa ka danfara ye."
-  - "Tiroyidi gɛlɛyaw, witamini B12 dɔgɔyali, fura kɛlɛw, dusukasi, bana misɛnninw ani sunɔgɔ gɛlɛyaw bɛɛ bɛ se ka nɔ bila hakili la, wa dɔw bɛ se ka furakɛ."
-  - "Dɔgɔtɔrɔ walima kɛnɛya baarakɛla dɔnnen dɔrɔn de bɛ se ka hakilijigin dɔn; ɛntɛrinɛti ka ɲininkaliw walima yɛrɛsɛgɛsɛgɛliw tɛ se k'o kɛ."
-  - "Ɲagami min bɛ daminɛ joona, lɛrɛw walima don damadɔ kɔnɔ, o bɛ se ka kɛ deliriyɔmu ye, wa a bɛ kɛnɛya dɛmɛ joona de wajibiya."
+  - "Hakili bɔli dɔɔnin ɲɛnamaya ka kɔrɔ fɛ, nka yɛlɛmali min bɛ ɲɛnamaya kɛwale kɔrɔsi, o ka ca ka ɲɛsin."
+  - "Alzheimer's Association b'a fɔ siginɛw 10 min bɛ dementia ka fɔlɔ ye, o kelen-kelen ni ɲɛnamaya ka kɔrɔ ka yɛlɛmali ye ka ɲɛsin walasa ka ɲɛ."
+  - "Tiroyidi ka kɛlɛ, B12 ka kɔ, dawolo ka kɔfɛ kɛlɛ, dusu, infɛksiɔn ani dormi kɛlɛ bɛ se ka hakili kɛ, ani tɔw bɛ se ka labɔ."
+  - "Dɔkotɔrɔ min ka dɔnkili bɛ, o kelen de bɛ se ka dementia ɲini; sɛbɛnni dɔ ni ɲɛfɛ ɲininiw tɛ se ka o kɛ."
+  - "Hakili bɔli min bɛ na lɔn sani wagati dɔ, walima don dɔ la, o bɛ se ka kɛ delirium ye, ani a ka dɔkɔtɔrɔ dɛmɛ dɔ ka wajibi."
 faq:
-  - q: "Yala hakiliɲagami ye kɔrɔya taamasiyɛn ye wa?"
-    a: "Dɔw ye. National Institute on Aging b'a fɔ ko tuma dɔw la ka fɛn dɔ bila yɔrɔ wɛrɛ la walima ka warifaktiri ɲinɛ, o bɛ se ka kɛ hakiliɲagami nɔgɔman ye min bɛ bɔ kɔrɔya la. Hakilijigin tɛ kɔrɔya taamasiyɛn ye. Hakiliɲagami min bɛ don o don baara gɛlɛya, i n'a fɔ mobili boli, telefɔni baara, walima so sira ɲini, o ka kan ka lajɛ dɔgɔtɔrɔ fɛ."
-  - q: "Yala hakiliɲagami bɛ se ka bɔ fɛn wɛrɛ la, hakilijigin tɛ min na wa?"
-    a: "Ɔwɔ. National Institute on Aging bɛ tiroyidi, kɔmɔkili walima biɲɛkisɛ gɛlɛyaw, fura kɛlɛw, dusukasi ani haminanko, witamini B12 dɔgɔyali, dɔlɔmin jugu, sunɔgɔ gɛlɛyaw, bana misɛnninw ani kungolo joginniw fɔ, ani fɛn wɛrɛw. Olu dɔw bɛ se ka fisaya ni u furakɛra, o ye kun kelen ye min b'a to kɛnɛya sɛgɛsɛgɛli nafa ka bon."
-  - q: "Yala ne bɛ se ka mɔgɔ dɔ sɛgɛsɛgɛ hakilijigin na so kɔnɔ wa?"
-    a: "Ayi. Dɔgɔtɔrɔ walima kɛnɛya baarakɛla dɔnnen dɔrɔn de bɛ se ka hakilijigin dɔn, ni kɛnɛya tariku, farikolo sɛgɛsɛgɛli, hakili ni miiriya sɛgɛsɛgɛliw, laboratuwari sɛgɛsɛgɛliw ani tuma dɔw la kungolo ja sɛgɛsɛgɛliw ye. Hali dɔgɔtɔrɔw bɛ baara kɛ ni sɛgɛsɛgɛli surunw ye, olu yɛrɛ tɛ dafa ka hakilijigin dɔn."
-  - q: "Ne ka kan ka mun kɛ ni mɔgɔ dɔ ɲagamina joona?"
-    a: "Kɛnɛya dɛmɛ ɲini sisan. Ɲagami joona bɛ se ka kɛ deliriyɔmu ye, min VA b'a fɔ ko o ye kɛnɛya kɔrɔtɔko ko ye. Mɔgɔ in ka kɛnɛya baarakɛla wele sisan walima aw ka wele kɛnɛya kɔrɔtɔko nimɔrɔ ma (i n'a fɔ 15). Aw ka to a fɛ, ani aw ka fura minnu bɛ a bolo, olu sɛbɛn."
+  - q: "Hakili bɔli ye ɲɛnamaya ka kɔrɔ ka dɔ ye wa?"
+    a: "Dɔ bɛ yen. National Institute on Aging b'a fɔ ko ka fɛn dɔ ɲini walima ka wari sɛbɛn dɔ ɲɛ, o ye hakili bɔli dɔɔnin ye ɲɛnamaya kɔrɔ fɛ. Dementia tɛ ɲɛnamaya ka kɔrɔ ka dɔ ye. Hakili kɛlɛ min bɛ ka kɛ ka sira ni telefɔni ni so ka sira ɲini fɛ kɛ gɛlɛya, o ka dɔkotɔrɔ ni ɲɔgɔn ka sɛgɛsɛgɛli kɛ ka ɲɛ."
+  - q: "Hakili kɛlɛ bɛ se ka kɛ dementia tɔw de ye wa?"
+    a: "Ɔwɔ. National Institute on Aging b'a fɔ ko tiroyidi, dɛgɛ walima kɔ ka kɛlɛ, dawolo ka kɔfɛ kɛlɛ, dusu ni hɔrɔnya, B12 ka kɔ, dolo ka ɲɛ ni ɲɛnamaya ka kɛlɛ, dormi kɛlɛ, infɛksiɔn ani kun ka kɛlɛ bɛ se ka kɛ tuma caman na. Tɔw bɛ ɲɛ ka kɔfɛ ka dɔ kɛ ka ɲɛ; o de kɛra dɔkotɔrɔ ka sɛgɛsɛgɛli ka mago."
+  - q: "Ne bɛ se ka mɔgɔ dɔ ka dementia sɛgɛsɛgɛ ni so ye wa?"
+    a: "Ayi. Dɔkotɔrɔ min ka dɔnkili bɛ, o kelen de bɛ se ka dementia ɲini, a bɛ o kɛ ni ɲɛnamaya ka tariku, sɛgɛsɛgɛli, hakili ni kɛwale sɛgɛsɛgɛli, labɔsiri sɛgɛsɛgɛli ani tuma dɔw ni ɲɛ-fitini ye. Dɔkotɔrɔw ka sɛgɛsɛgɛli ɲɔgɔn tɛ se ka dementia ɲini kelen-kelen."
+  - q: "Ne ka kan ka kɛ cogo di, ni mɔgɔ dɔ hakili bɔra lɔn sani?"
+    a: "Dɛmɛ ɲɛmɔgɔ kɛ tuda. Hakili bɔli lɔn sani bɛ se ka kɛ delirium ye, VA b'o fɔ ko o ye sɛgɛn dɔ ye min ka wajibi ka dɔkɔtɔrɔ dɛmɛ. Mɔgɔ ka dɔkotɔrɔ wele tuma ɲɔgɔn na, walima wele kunnafoni nɔmɔrɔ 15 (SAMU) ma. Ka a sigi a fɛ, ka dawolo min bɛ a ka nɛnɛ ye, o ɲini."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -55,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Ni aw ye fɛn caman yeli kɔlɔsi aw yɛrɛ ka hakili la, walima aw ka mɔgɔ kanulen dɔ ka hakili la, o bɛ se ka kɛ haminanko ye. Nin ɲɛ in bɛ se k'aw dɛmɛ ka dɔn tuma min na ka dɔgɔtɔrɔ ye ani ka aw yɛrɛ labɛn o lajɛ kama. A tɛ se k'a fɔ ni mɔgɔ si bɛ ni hakilijigin ye. **Dɔgɔtɔrɔ walima kɛnɛya baarakɛla dɔnnen dɔrɔn de bɛ se ka hakilijigin dɔn**, wa ko caman minnu bɛ hakiliɲagami lase mɔgɔ ma, olu fanba tɛ hakilijigin ye. Aw kana aw jigi da ɛntɛrinɛti ka ɲininkaliw walima yɛrɛsɛgɛsɛgɛliw kan.
+Hakili yɛrɛ ka hakili bɔli walima mɔgɔ min ka i ka nege ye, o ka hakili ɲɛnɔgɔn bɔli, o bɛ siran. Ko nin page bɛ dɛmɛ i ka dɔn tuma min na dɔkotɔrɔ ye, ani a ka kɛ cogo min na. A tɛ se ka fɔ mɔgɔ dɔ bɛ dementia la walima ko. **Dɔkotɔrɔ min ka dɔnkili bɛ, o kelen de bɛ se ka dementia ɲini**, ani hakili bɔli caman tɛ dementia ye. Aw ka ɲɛ, aw kana dɛsɛ online sɛbɛnni walima aw yɛrɛ ka sɛgɛsɛgɛli la.
 
-## Hakilijigin taamasiyɛn fɔlɔw ye mun ye?
+## Dementia ka fɔlɔ siginɛw ye mun ye?
 
-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) bɛ taamasiyɛn fɔlɔ 10 jira. A bɛ kelen kelen bɛɛ fara kɔrɔya taamasiyɛn dɔ kan walasa ka danfara ye. An ka kuma nɔgɔman na:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) b'a fɔ siginɛw 10 fɔlɔ. A b'o kelen-kelen ni ɲɛnamaya ka kɔrɔ ka yɛlɛmali ye ka ɲɛsin. An ka kuma la:
 
-| Taamasiyɛn min ka kan ka lajɛ | O bɛ kɛ tuma caman kɔrɔya la |
+| Siginɛ min ka ɲɛ ka ɲɛnɔgɔn | Ɲɛnamaya ka kɔrɔ fɛ a bɛ kɛ cogo di |
 | --- | --- |
-| Hakiliɲagami min bɛ don o don ɲɛnamaya bali, i n'a fɔ ka ko kuraw ɲinɛ walima ka ɲininkali kelen kɛ siɲɛ caman | Tuma dɔw la ka tɔgɔ walima lajɛ don ɲinɛ, k'a sɔrɔ aw bɛ hakili to a la kɔfɛ |
-| Gɛlɛya ka labɛn kɛ walima ka gɛlɛyaw ɲɛnabɔ, i n'a fɔ ka dumuni labɛncogo dɔnnin dɔ tugu walima ka warifaktiriw kɔlɔsi | Tuma dɔw la ka fili kɛ so warifaktiriw la |
-| Gɛlɛya ka baara dɔnninw dafa so kɔnɔ, baara la walima kɛnɛma | Tuma dɔw la ka dɛmɛ ɲini mikro-ɔndi labɛncogo dɔ la walima ka telewisɔn porogaramu dɔ mara |
-| Ka waati donw, waatiw walima aw bɛ yɔrɔ min, olu ɲinɛ | Ka don tɔgɔ fili, k'a sɔrɔ aw bɛ a ɲɛnabɔ kɔfɛ |
-| Gɛlɛya kura ka janya jate, ka kalan kɛ walima ka kulɛriw danfara dɔn | Ɲɛ bɔli caman minnu bɛ bɔ katarakti la |
-| Gɛlɛya kura kumaw la, i n'a fɔ ka baro tigɛ cɛmancɛ la walima ka fɛnw wele ni tɔgɔ jugu ye | Tuma dɔw la ka gɛlɛya sɔrɔ ka daɲɛ bɛnnen sɔrɔ |
-| Ka fɛnw bila yɔrɔ la min tɛ deli ka kɛ, k'a sɔrɔ aw tɛ se k'aw senw tugu k'a sɔrɔ | Tuma dɔw la ka fɛnw bila yɔrɔ wɛrɛ la, k'u sɔrɔ ni aw senw tuguli ye |
-| Latigɛ jugu, i n'a fɔ wari ko la walima aw yɛrɛ ladonni na | Tuma dɔw la ka latigɛ jugu kɛ |
-| Ka aw yɛrɛ bɔ aw diyanyekow la, baara la walima jama baara la | Tuma dɔw la ka miriya bɔ ka taa denbaya walima jama lajɛ dɔ la |
-| Dusukunnata walima hadamadenya caman, i n'a fɔ ka ɲagami, ka sigasiga, ka siran walima ka haminanko sɔrɔ | Ka to aw ka deliko la, ka dusu kɔnɔgɔ sɔrɔ ni deliko tiɲɛna |
+| Hakili bɔli min bɛ ɲɛnamaya kɛwale kɔrɔsi, i ko kunnafoni kɔrɔ ko dɔ ɲini ka tɛmɛ, walima kuma dɔ ko ka ɲɛ ka ɲɛ | Kɔrɔ ɲɛnamaya kɔnɔ tuma dɔw la, mɔgɔ tɔgɔ walima ɲininkali dɔ bɛ ɲini, nka a bɛ o kɔfɛ ka hakili la ka o ɲini |
+| Sigi ka kɛwale kɔrɔ kɛ walima ka kɛwale ɲɛnɔgɔn kɛ, i ko dɔ min ka sira ka ɲɛ | Tuma dɔw la kɛwale ɲɛnɔgɔn ni ɲɛnamaya ka kɔrɔ ka wari sɛbɛn ka jɔ |
+| Gɛlɛya ka kɛwale dɔ kɛ so kɔnɔ, baara la walima sira kɔnɔ | Tuma dɔw la mɛnɛ dɔ ka ɲɛ walima kanjɛ ka ɲɛ, o ɲinin ka dɛmɛ ka kɔrɔ |
+| Tuma, don walima yɔrɔ ɲini | Kɔrɔ ɲɛnamaya kɔnɔ tuma ɲɔgɔn na, dɔ ka tuma ɲininin, nka a ka ɲɛ kɔfɛ |
+| Ɲɛ kɔrɔ ni yɛlɛ, walima kɔnɔ dɔ ka sigi ɲɛ | Ɲɛ ka ɲɛfɛ dɔ kɛlɛ ka kɔrɔ ɲɛnamaya kɔnɔ |
+| Kuma ni kɛli ɲɛ ka kɛ: kuma ka ɲɛ ɲɛfɛ, walima tɔgɔ kɛ ko ɲɛnɔgɔn | Kuma kɛ ɲɛfɛ tuma dɔw la, nka a bɛ o kɛ kɔfɛ |
+| Fɛn kɛlɛ yɔrɔ ɲɛnɔgɔn la, ani a ka sira ɲini ka ɲɛ | Fɛn tuma dɔw la yɔrɔ ɲɛnɔgɔn la, nka a bɛ o ɲini ni a ka sira ɲinini ye |
+| Hakili ka ɲɛ kɛ sɛnɛ ni wari ɲɛ, walima ka ɲɛ kɛ yɛrɛ ka lafiya la | Ɲɛnamaya kɔnɔ tuma dɔw la, dɔ ka hakili kɛ sɛbɛn |
+| Ka dɔ kɛ kɛwale min bɛ mɔgɔ fɛ, walima ka kɛ ko min bɛ ka sɛnɛ ni ɲɛnamaya bɛ, ka bɔ o la | Tuma dɔw la mɔgɔ tɛ fɛ ka taa dɔ la fo kɛnɛya ni dɔ ye |
+| Hakili ni ɲɛnamaya ka yɛlɛma: hakili ka ɲɛ, ka siran, ka ɲɛ ka ɲɛ walima ka hɛrɛ bɔ | Ɲɛnamaya ka kɔrɔ fɛ, mɔgɔ bɛ kɛ kɛwale ɲɛnɔgɔn ye, ani a bɛ dimi ni sira kɔnɔ dɔ ka ɲɛ |
 
-Taamasiyɛn kelen tɛ kɔrɔ ko hakilijigin bɛ yen. A kɔrɔba ye **fɛn caman bɛ bɔ mɔgɔ in ka cogo la**, kɛrɛnkɛrɛnnenya la ni o bɛ don o don ɲɛnamaya gɛlɛya.
+Siginɛ dɔ kelen tɛ fɔ ko dementia. Ko min ka mago ye, o ye **yɛlɛma min bɛ bɔ mɔgɔ ka ɲɛnamaya ka kɔrɔ la**, ka kɛ ko min bɛ ɲɛnamaya ka kɛlɛ dɔ, o ye ka sɔrɔ.
 
-## Kɔrɔya ni hakilijigin danfara ye mun ye?
+## Ɲɛnamaya kɔrɔ ni dementia ye mun ye ka ɲɛsin?
 
-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) b'a fɔ ko mɔgɔ kɔrɔbaw caman bɛ a ye ko u bɛ fɛnw hakili to dɔɔnin dɔɔnin, walima tuma dɔw la u bɛ fɛnw bila yɔrɔ wɛrɛ la walima ka warifaktiri ɲinɛ. Olu ye hakiliɲagami nɔgɔman taamasiyɛnw ye tuma caman na. **Hakilijigin tɛ kɔrɔya taamasiyɛn ye.** Hakiliɲagami gɛlɛnw bɛ don o don baaraw gɛlɛya, i n'a fɔ mobili boli, telefɔni baara walima so sira ɲini.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) b'a fɔ ko kɔrɔ ɲɛnamaya caman bɛ ka hakili ɲɛ ka kɛ fɛ, walima ka hakili ɲɛ ka ɲɛ, walima ka wari sɛbɛn dɔ ɲini. Nin ye hakili bɔli dɔɔnin ye. **Dementia tɛ ɲɛnamaya ka kɔrɔ ka dɔ ye.** Hakili kɛlɛ min bɛ ka kɛ ka kɛwale ɲɔgɔn kɛ, i ko sira ɲini, telefɔni ni so ka sira ɲini, o bɛ ka kɛ gɛlɛya.
 
-NIA b'a fɔ ko a ka ɲi ka kuma dɔgɔtɔrɔ fɛ ni mɔgɔ dɔ bɛ:
+NIA b'a fɔ ko dɔkotɔrɔ ni kuma ka kɛ ɲɛ, ni mɔgɔ dɔ:
 
-- Ɲininkali kelenw kɛ siɲɛ caman
-- A bɛ tunun yɔrɔ minnu na a tun bɛ se kosɛbɛ
-- A bɛ gɛlɛya sɔrɔ ka dumuni labɛncogo walima bilasiraliw tugu
-- A bɛ ɲagami ka taa a fɛ waati, mɔgɔw ani yɔrɔw la
-- A bɛ dabila a yɛrɛ ladonni na, i n'a fɔ ka dumuni kɛ jugu, ka wusu tɛ walima ka kɛ wale faratilenw na
+- Ka ɲininkali ɲɔgɔn ɲini ka tɛmɛ
+- Yɔrɔ min ka a dɔn ka ɲɛ, o la sira kɛ
+- Ka sɔn ka ɲɛ, walima ka sira ni kuma ɲɛnɔgɔn kɛ
+- Ka hakili bɔ tuma, mɔgɔw ni yɔrɔw ko la
+- Ka yɛrɛ labɛn bɔ, i ko ka dumuni dɔn ɲɔgɔn, ka dɔ ko, walima ka yɛrɛ ɲinɛ
 
-Mɔgɔ dɔw bɛ ni **hakili ni miiriya dɔgɔyali nɔgɔman ye (MCI)**. O kɔrɔ ye ko hakili walima miiriya gɛlɛyaw ka ca ni u siɲɔgɔn kɔrɔbaw ta ye, nka u bɛ se ka don o don ɲɛnamaya ɲɛnabɔ hali bi. NIA b'a fɔ ko MCI bɛ se ka kɛ Alzheimer taamasiyɛn fɔlɔ ye, nka mɔgɔ bɛɛ minnu bɛ ni MCI ye, olu bɛɛ tɛ a sɔrɔ.
+Mɔgɔ dɔw bɛ **hakili kɛlɛ dɔɔnin (MCI)** la. O kɔrɔ ye hakili walima kɛlɛ caman ye ka tɛmɛ mɔgɔ dɔw fɛ ka kɔrɔ, nka mɔgɔ ka ɲɛnamaya ka kɛ tuma caman na. NIA b'a fɔ ko MCI bɛ se ka kɛ Alzheimer's ka fɔlɔ siginɛ ye, nka mɔgɔ bɛɛ min bɛ MCI la, o tɛ Alzheimer's sɔrɔ.
 
-## Fɛn wɛrɛ jumɛnw bɛ se ka hakiliɲagami lase mɔgɔ ma?
+## Hakili kɛlɛ dɔw tɔw bɛ se ka kɛ mun ye?
 
-Fɛn caman bɛ yen minnu tɛ hakilijigin ye nka u bɛ se ka nɔ bila hakili la, wa dɔw bɛ fisaya ni furakɛli ye. NIA bɛ olu fɔ:
+Dementia bɛ se ka hakili kɛ, nka ko tɔw caman bɛ se ka hakili kɛ, ani tɔw bɛ ɲɛ ka kɔfɛ dawolo ka kɔfɛ. NIA b'o yɛrɛ fɔ:
 
-- **Tiroyidi, kɔmɔkili walima biɲɛkisɛ gɛlɛyaw**
-- **Fura kɛlɛw**
-- **Dusukasi ani haminanko**
-- **Witamini B12 dɔgɔyali** walima ka dumuni kɛnɛman dɔgɔya
-- **Sunɔgɔ gɛlɛyaw**
-- **Dɔlɔmin walima fura jugu baara**
-- **Bana misɛnninw, joli sirilenw walima banakisɛw** kungolo kɔnɔ
-- **Kungolo joginni**, i n'a fɔ kungolo sɛgɛnni
-- **Degunba walima dusukasi**, i n'a fɔ baara bila walima furuɲɔgɔn bɔnɛ
+- **Tiroyidi, dɛgɛ walima kɔ ka kɛlɛ**
+- **Dawolo ka kɔfɛ kɛlɛ**
+- **Dusu ni hɔrɔnya**
+- **B12 ka kɔ** walima dɔ ka ɲɛ ka fɛn ɲumanw kɛ
+- **Dormi kɛlɛ**
+- **Dɔlɔ walima jɛlen ka kɔfɛ kɛlɛ**
+- **Infɛksiɔn, sanga kɛlɛ walima dɛ** hakili kɔnɔ
+- **Kun ka kɛlɛ**, i ko kun kɔrɔ
+- **Hɛrɛ ka kɛlɛ caman walima nɛnɛ**, i ko ka baara bɔ walima mɔgɔ ka sɛnɛ bɔ
 
-Tulo ni ɲɛ gɛlɛyaw fana bɛ se ka kɛ i n'a fɔ ɲagami; aw ye an ka [tulominɛcogo ɲɛbilasɛbɛn](/brain-health/hearing/) lajɛ. O de y'a to kɛnɛya sɛgɛsɛgɛli nafa ka bon. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) ka fɔla, dɔgɔtɔrɔw bɛ joli sɛgɛsɛgɛli kɛ tuma caman na walasa ka tiroyidi gɛlɛyaw, witamini dɔgɔyaliw ani bana misɛnninw lajɛ. [Sunɔgɔ ɲuman](/brain-health/sleep/) ani dusukasi furakɛli fana ka kan ka fɔ.
+Tendɛn ni hakili kɛlɛ bɛ se ka kɛ kuma ɲɛnɔgɔn ye ka dementia ɲɛ. O de kɛra dɔkotɔrɔ ka sɛgɛsɛgɛli ka mago. Aw ka [hakili ka dɛmɛ](/brain-health/hearing/) ci a ɲɛ ka ɲɛ. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) b'a fɔ ko dɔkotɔrɔ bɛ jɛnɛ sɛgɛsɛgɛli kɛ ka tiroyidi kɛlɛ, B vitamini ka kɔ ani infɛksiɔn ɲini. [Dɔrɔn ka ɲɛ](/brain-health/sleep/) ani dusu ka labɔ, o fana ka kan ka fɔ.
 
-## Ɲagami joona ye kɔrɔtɔko ko ye
+## Sɛgɛn lɔnnen bɛ ka kɛ hakili kɛlɛ ye
 
-**Ɲagami min bɛ bɔ joona, lɛrɛw walima don damadɔ kɔnɔ, o bɛ kɛnɛya dɛmɛ joona de wajibiya.** O bɛ se ka kɛ deliriyɔmu ye. [VA bɛ deliriyɔmu ɲɛfɔ](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ko o ye kɛnɛya kɔrɔtɔko ko ye, wa a b'a fɔ ko mɔgɔ in ka kɛnɛya baarakɛla ka wele sisan walima ka wele kɛnɛya kɔrɔtɔko nimɔrɔ ma (i n'a fɔ 15). Taamasiyɛnw ye:
+**Hakili bɔli min bɛ na lɔn sani wagati dɔ, walima don dɔ la, o bɛ kɛ dɔkɔtɔrɔ dɛmɛ ye ka kɔrɔ.** A bɛ se ka kɛ delirium ye. [VA b'a fɔ delirium la](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ko o ye sɛgɛn dɔ ye min ka wajibi, ani a b'a fɔ ko ka mɔgɔ ka dɔkotɔrɔ wele tuma ɲɔgɔn na, walima wele kunnafoni nɔmɔrɔ 15 (SAMU) ma. Siginɛw ye nin ye:
 
-- Se ka miiri ka ɲɛ, o bɛ yɛlɛma yɛlɛma
-- Gɛlɛya ka jateminɛ kɛ
-- Miiriya ɲagaminen
-- Ka sunɔgɔ kosɛbɛ ka tɛmɛ a kan, walima ka basigi tɛ ani ka ɲagami kosɛbɛ
+- Hakili ka sɛbɛn dɔ bɛ ɲɛ ka tɛmɛ ni dɔ ye
+- Sɔn tɛ ka ɲɛ ka ɲinɛ
+- Hakili bɛ ɲɛ ka hakili ɲɛnɔgɔn
+- Ka ɲɛ ka sɔn kosɛbɛ, walima ka ɲɛ ka siran kosɛbɛ
 
-O bɛ se ka kɛ mɔgɔ o mɔgɔ la, hali mɔgɔ minnu bɛ ni hakilijigin ye kaban. [NHS](https://www.nhs.uk/symptoms/confusion/) ka fɔla, a kun caman ye bana misɛnninw ye (suguya misɛnninw ka ca mɔgɔ kɔrɔbaw ni mɔgɔ minnu bɛ ni hakilijigin ye olu cɛ), jolikuru tiɲɛni, joli sukaro dɔgɔyali mɔgɔ minnu bɛ ni diyabɛti ye, kungolo joginni ani fura dɔw. Ni aw bɛ dɛmɛ makɔnɔ, aw ka to mɔgɔ in fɛ ani k'a dusu saalo ni kuma surunw ni nɔgɔmanw ye. Aw kana ɲininkali caman kɛ, ani aw ka fura minnu bɛ a bolo, olu sɛbɛn.
+Nin bɛ se ka kɛ mɔgɔ o mɔgɔ la, mɔgɔ min bɛ dementia la fana. [NHS](https://www.nhs.uk/symptoms/confusion/) b'a fɔ ko kɛlɛ caman bɛ se ka kɛ infɛksiɔn ye (sɛnɛ ka infɛksiɔn caman bɛ ɲɛ ka kɔ mɔgɔ kɛnɛmanw ni dementia bɛ mɔgɔ la), dɛ dɔ, dusu kɛlɛ ni dolo ka kɔfɛ kɛlɛ, kun ka kɛlɛ ani dawolo dɔw. Ka dɛmɛ ka na ɲɛ, ka mɔgɔ sigi a fɛ, ka kuma ɲuman ni kuma gɛlɛn ɲɛnɔgɔn fɔ ka a hakili ɲɛ. Aw kana ɲininkali caman ɲini, ani aw ka dawolo min bɛ a ka nɛnɛ ye, o ɲini.
 
-## Ne bɛ se ka ne yɛrɛ labɛn cogo di dɔgɔtɔrɔ lajɛ kama?
+## Dɔkotɔrɔ ka sɛgɛsɛgɛli ka ɲɛfɛ kɛ cogo di?
 
-Lajɛ ɲuman bɛ daminɛ ni sɛbɛn ɲumanw ye. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) b'a fɔ ko aw ka fɛnw nataw lase aw fɛ:
+Sɛgɛsɛgɛli ɲuman bɛ daminɛ ni sɛbɛnni ɲuman ye. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) b'a fɔ ko aw ka ɲɛ ka nin ɲini:
 
-1. **Fɛn caman sɛbɛn** hakili, dusukunnata ani kɛwalew la, ni misali kɛrɛnkɛrɛnnenw ye ani tuma min na a daminɛna, o fɔli ni a bɛ se ka kɛ cogo min na
-2. **Kɛnɛya gɛlɛyaw minnu tun bɛ yen ani minnu bɛ yen sisan**, i n'a fɔ denbaya kɔnɔ hakiliɲagami tariku
-3. **Fura bɛɛ minnu sɛbɛnna ani minnu bɛ san k'a sɔrɔ sɛbɛn tɛ**
-4. **Witamini walima faranfasi fɛn o fɛn**
-5. **Aw ka ɲininkaliw**, i n'a fɔ sɛgɛsɛgɛli jumɛnw bɛna kɛ, u bɛ waati joli ta, ani jaabiw bɛna bɔ tuma jumɛn
+1. **Hakili, dusukasi ani kɛwale ka yɛlɛmali sɛbɛn**, ni misali ye ani tuma min na a daminɛna
+2. **Ɲɛnamaya ka kɛlɛw kɔ ni sɔrɔ**, ani hakili kɛlɛ min bɛ ka kɛ ka bɔ ɲɛnamaya kɔnɔ
+3. **Dawolo ka kɔfɛ ani ɲɛdiɲɛ dawolo bɛɛ**
+4. **Vitamini ni dawolo ka ɲɛfɛ wɛrɛ**
+5. **Aw ka ɲininkali**, i ko ko min bɛ kɛ sɛgɛsɛgɛli ye, o bɛ se ka jɔ jɛn, ani jɛnɛjɛn bɛ se ka na cogo di
 
-A fana bɛ nafa la ka denbaya mɔgɔ dɔ walima teri dɔ ta min bɛ mɔgɔ in dɔn kosɛbɛ. [NIA b'a ɲɛfɔ](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ko dɔgɔtɔrɔw bɛ se ka ɲininkali kɛ mɔgɔ in n'a ka denbaya mɔgɔ dɔ fɛ kɛnɛya, furaw, don o don baaraw ani kɛwale caman kan. Dɔgɔtɔrɔw fana bɛ se ka:
+A fana ɲuman ka mɔgɔ dɔ ɲɛ ka aw ni ɲɔgɔn ye, mɔgɔ min bɛ ɲɛnamaya kɔrɔ ka dɔ kɛ kɛwale ye. [NIA b'o fɔ](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ko dɔkotɔrɔ bɛ se ka mɔgɔ ni a ka denmisɛnnin ɲinɛ ka ɲɛ ko lafiya, dawolo, kɛwale ani hakili ka yɛlɛmali la. Dɔkotɔrɔw bɛ se fana ka:
 
-- Hakili, gɛlɛyaw ɲɛnabɔli, jateminɛ, jatebɔ ani kumakan sɛgɛsɛgɛliw kɛ
-- Joli, sugu ani sɛgɛsɛgɛli wɛrɛw ɲini walasa ka kun wɛrɛw ɲini
-- Dusukasi walima hakili kɛnɛya gɛlɛya wɛrɛw lajɛ
-- Kungolo ja sɛgɛsɛgɛliw ɲini i n'a fɔ CT walima MRI
-- A ci dɔgɔtɔrɔ kɛrɛnkɛrɛnnen dɔ ma, i n'a fɔ kɔrɔbaw dɔgɔtɔrɔ, kungolo dɔgɔtɔrɔ, kɔrɔbaw hakili dɔgɔtɔrɔ walima hakili ni kɛwale dɔgɔtɔrɔ
+- Hakili, ɲɛnamaya ka kɛwale, ka hakili kɔnɔ, ka jɛnɛ ni kuma ka sɛgɛsɛgɛli kɛ
+- Ka jɛnɛ, ka sɛgɛsɛgɛ ani ɲɛ ka sɛgɛsɛgɛli kɛ ka fɛn tɔw ɲini
+- Ka hakili kɔnɔ kɛlɛ walima sɛnɛ kɛlɛ sɛgɛsɛgɛ
+- Ka brɛn sɛgɛsɛgɛli kɛ, i ko CT walima MRI
+- Ka mɔgɔ ci dɔkotɔrɔ kɛnɛma ma, i ko gériatre, neurologue, psychiatre ani neuropsychologue
 
-NIA b'a fɔ ko hakili sɛgɛsɛgɛli ye Medicare ka san o san kɛnɛya lajɛ yɔrɔ dɔ ye min wajibiyalen don, o bɛ se ka kɛ waati ɲuman ye ka haminankow fɔ. Hali dɔgɔtɔrɔw bɛ baara kɛ ni sɛgɛsɛgɛli surunw ye, olu yɛrɛ tɛ dafa ka hakilijigin dɔn. Olu ye daminɛ fɔlɔ ye ka taa sɛgɛsɛgɛli dafalen dɔ la, wa a dɔnni bɛ se ka lajɛ kelen tɛmɛ. NIA b'a fɔ ko mɔgɔ minnu bɛ ni hakiliɲagami gɛlɛyaw ye, u ka segin dɔgɔtɔrɔ ye kalo 6 fo 12 o kalo 12 kɔnɔ.
+NIA b'a fɔ ko hakili sɛgɛsɛgɛli ye sɛgɛsɛgɛli dɔ ye min bɛ kɛ ɲɛnamaya ka cɛɲɛ fɛ, a bɛ se ka kɛ tuma ɲuman ye ka ɲɛɲɛmajɔ fɔ. Dɔkotɔrɔ sɛgɛsɛgɛli dɔɔnin tɛ se ka dementia ɲini kelen-kelen. O ye daminɛ de ye, ani ɲini bɛ se ka kɛ tuma kelen caman. NIA b'a fɔ ko hakili kɛlɛ bɛ se ka kɛ mɔgɔ min bɛ dɔkotɔrɔ bɛ ka ɲɛ tuma o tuma sanga 6 ni 12 kɔnɔ.
 
-## Kuma fɔli ni ɲumanya ye
+## Kuma ɲumanw ni mɔgɔ wɛrɛ ka hakili ɲɛ
 
-Ni aw bɛ haminanko sɔrɔ mɔgɔ wɛrɛ dɔ ko la, aw ka waati lafiyalen ni gundo dɔ sugandi. Aw ka kuma fɛn kɛrɛnkɛrɛnnen minnu kɔlɔsira, ka a jira ko aw bɛ haminanko kɛ a ka kɛnɛya ko la, a tɛ jalaki ye. Ka kɛnɛya lajɛ bɛɛ lajɛlen dɔ fɔ, o bɛ se ka kɛ nɔgɔman ye ka tɛmɛ. Aw ka mɔgɔ in don latigɛw kɔnɔ ani ka kuma a fɛ i n'a fɔ mɔgɔba min a ye. An ka [kumacogo ɲumanw](/caregiving/communication-tips/) bɛ se k'aw dɛmɛ.
+Ni aw bɛ siran mɔgɔ wɛrɛ kosɔn, sɔrɔ wagati ɲuman ni yɔrɔ tɛ mɔgɔ caman ye. Ka kuma ka fɛn kɔnɔ ni aw ye ko min ɲɛ, ka a fɔ ko aw bɛ siran a ka lafiya kosɔn, aw tɛ kɔrɔ fɔ. Ka fɔ ko ka dɔkotɔrɔ ka sɛgɛsɛgɛli kɛ, o bɛ se ka kɛ ko min tɛ siran kosɔn. Ka mɔgɔ ka kɛli kɛ, ka a ɲɛ i ko mɔgɔ min ye mɔgɔ fɔlɔ. [Kuma ka ɲuman](/caregiving/communication-tips/) bɛ se ka dɛmɛ.
 
-## Kuma dɔgɔtɔrɔ fɛ
+## Dɔkotɔrɔ ni kuma ka kɛ
 
-Ni aw ye fɛn caman yeli kɔlɔsi hakili, miiriya, dusukunnata walima don o don seko la minnu ye kura ye ani minnu bɛ to ka kɛ, aw ka lajɛ don ni kɛnɛya dɔgɔtɔrɔ ye. Ni ɲagami bɔra joona, aw ka wele kɛnɛya kɔrɔtɔko nimɔrɔ ma (i n'a fɔ 15) walima mɔgɔ in ka kɛnɛya baarakɛla sisan. Ka sɛgɛsɛgɛli kɛ joona, o bɛ a to kun minnu bɛ se ka furakɛ, olu bɛ se ka sɔrɔ, wa ni a ye hakilijigin ye, waati bɛ sɔrɔ ka labɛn kɛ ani ka dɛmɛ ɲini. Aw fana k'aw janto aw yɛrɛ la o waati in na; aw ye an ka [ladonbaga yɛrɛladonni ɲɛbilasɛbɛn](/caregiving/caregiver-self-care/) lajɛ.
+Ni aw ye hakili, kɛlɛ, dusukasi walima ɲɛnamaya ka kɛwale ka yɛlɛmali ye min kura, min bɛ kɛ tuma caman, aw ka dɔkotɔrɔ ni kɛ ka ɲɛ tuma min na. Sɛgɛn lɔnnen tuma, aw ka 15 (SAMU) walima mɔgɔ ka dɔkotɔrɔ wele tuma ɲɔgɔn na. Tuma ɲuman sɛgɛsɛgɛli bɛ se ka kɛ ko min bɛ kɛ dawolo ye, ani ni dementia ye, o kɔ waati caman bɛ sɔrɔ ka labɛn ani ka dɛmɛ sɔrɔ. Aw yɛrɛ fana ka lafiya; ka ɲɛ [aw yɛrɛ ka lafiya ka kɛli](/caregiving/caregiver-self-care/) la.
 
-Nin ɲɛ in ye kunnafoni bɛɛ lajɛlen ye, a tɛ kɛnɛya laadilikan ye. Aw ye an ka [kɛnɛya lasɔmini](/medical-disclaimer/) lajɛ.
+Nin page ye kunnafoni ye ka bɔ sɛbɛnni kɔnɔ, a tɛ dawolo ko ye. Ka ɲɛ [dawolo ka fɛn](/medical-disclaimer/) la.

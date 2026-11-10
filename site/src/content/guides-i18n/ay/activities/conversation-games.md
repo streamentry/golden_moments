@@ -1,34 +1,34 @@
 ---
-title: "Dementia Uñt'ayatakix 20 Yatiyaña ukat Parlañ Juegonaka"
-seoTitle: "20 Yatiyaña ukat Parlañ Juegonaka Dementia Uñt'ayatakix"
-description: "Dementia uñt'ayir jaqinakatakix 20 yatiyaña ukat yaqha parlañ juegonaka, kunatixa jaqix yatiñani ukhamaw uñjatäñapa, jan puntaj, jan tiempo, jan yatiyañani."
+title: "Demencia Jaqinakatakix 20 Tapuñani ukat Parlañ Anatañanaka"
+seoTitle: "Demencia Jaqinakatakix 20 Tapuñani Anatañanaka"
+description: "Demencia jaqinakatakix 20 tapuñani ukat yaqha parlañ anatañanaka, jupa yatiri uñt'atäñapataki, janiw punt'aña, reloj ni jisk'a tapuñ sarañäkiti."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Yatiyaña juego ukax sum ukat sapa jaqimpi sarañ jan ukax parlañ juego
-  uñjasiñ utjaspa, jaqix yatiñani ukhaxa. Jupax uñt'aspa, jumax yes jan ukax
-  no sañ ukhaman jisk'a yatiyañanakam yatiyañani. "Akax jan ukax ukax" ukat
-  "Kunas akaxa munasma?" sañ parlañ juegonakax ukhamarakiw luraspa: jupanakax
-  iyawsäwinak ukat sarnaqäwinak parlatäñataki, jan yatichäwinak. Sapa
-  rondanakax jisk'a utjañapa, jaqix jan ukhamaraki sayt'ayañapa, jan
-  jaktañamäkiw ukax yatiyañanakam jan jakhuñamäkiw.
+  Tapuñani anatañax walja sociable ukat suma anatañawa, jupa yatiri sarañ
+  uñt'atäñapataki. Jupaw jiwasan uñjañatak imaña uñsti, jumaw tapuñanaka
+  jaytañäta, sí jan ukax janiw sasa. Yaqha parlañ anatañanakax, kunjamtï “Kunaw
+  jumatak sumaraki” ukat “Kuna uñjañ munta?” ukanakax, sapa kutiw jupanakan
+  amuyunakapa ukat sarnaqawinakapa uñt'atäñapataki, janiw chiqapa yatiñanakan
+  uñjañapataki. Anatañanakax jisk'a sarañapawa, jupax jan munañani sarañ
+  utjañapawa, ukat tapuñanakax janiw jakhuñañapäkiti.
 keyPoints:
-  - "Jaqirux uñt'ayañatakix, kunatix animal jan ukax objeto, jupax yatiñani ukhamaw uñjatäñapa. Jumax yatiyañanakam yatiyaña, jupax yes jan ukax no sañ liwat."
-  - "Pasañ, yanapt'äwi jan ukax señasa yäqañ sum utjañapa. Janiw puntaj uñjañamäkiti jan ukax yatiyañanakam jakhuñamäkiti."
-  - "Jaqir jakañat uñjat sapa uruw kunanakas, akham kunatix manq'äwi, uta ukat sarañ."
-  - "Akham iyawsäwinak, kunjamataki 'Munasmati...?' jan ukax 'Kunas jumar munasma?', janiw jan walinakax utjkiti."
-  - "Jaqix jan munañapan tukuyañapa. Paya ukat kimsa rondanakax wali sum utjañapa."
+  - "Jupa yatiri uñt'atäñapataki, jupaw imaña jan ukax animal amuyapxi. Jumaw tapuñani, jupaw sí jan ukax janiw sasa siwa."
+  - "Jupaw jan sarañ, yaqha yatiyäwi jan ukax uñt'añ muni. Janiw kuna tapuñanakas sarañ ukat jakhuñañ ni yatiqañ jan utjkiti."
+  - "Sapa uruw uñjat yatiñanak ajllisiñamawa, kunjamtï jupan uñjat mikhunaka, uta ukat chiqa utjkiri."
+  - "“Kunaw jumatak sumaraki?” jan ukax “Kunaw munta?” ukham tapuñanakax janiw jan walinak utjkiti."
+  - "Jupa jan munañani ukhaw tukuyañ. Paya jan kimsa anatañanakax walpun jiwasatakix."
 faq:
-  - q: "¿Yatiyaña juego dementia uñt'ayir jaqinakatakix walikiti?"
-    a: "Walikiwa, jaqix kunanakas yatiñani ukhaxa, janiw khithinakas jachañkiti. Jan yatiyasa, jaqix yatiñapan yatiyañaw utjañapa, uka ukax jan sum uñjasiñkiti. Ukhamaw sum uñjasiñapa, jan ch'axwañanakam."
-  - q: "¿Kunanakas jaqix yatiyaña juegonakan uñt'ayañapa?"
-    a: "Sum ukat sapa uruw uñjasir kunanakaw sum utjaraki: quqa, uywa, uraqpacha kunsa, qulqi, uta ukat sumaw uñt'ata chiqa. Janiw sapa uñt'asirinakarux, jaqinakan sutinakapas, jan ukax llakisiñ utjaspas uñt'añamäkiti."
-  - q: "¿Kunas jaqix jan yes jan no sañ liwayaspa ukax?"
-    a: "Señasa, pulgar arriba jan ukax abajo, jan ukax uñt'ayaña jach'a chiqa uñt'añamawa. Jumax tuqina yatiyañanak arsuñatäñapa, jaqix mayt'asa, jan ukax sonkomp'at sañ liwayañapa."
-  - q: "¿Yaqha parlañ juegonaka dementia uñt'ayir achachilanakatakix utjasaspa?"
-    a: "Utjaraki. 'Akax jan ukax ukax' sañ, jupa kuna ukax munasisa sasaw jan. 'Kunas munasma' sañ, iyawsäwi lup'añatakiw. Golden Moments [conversation cards](/games/conversation-cards/) ukhamaraki, sarnaqäwi uruw parlañatakix uñt'ayañanakaw utjaraki."
+  - q: "¿Demencia jaqinakatakix 20 tapuñani walikiti?"
+    a: "Walikiwa, jupa yatiri imaña uñt'atäñapataki ukat janiw kunas jakhuñañäkiti. Jupanakan yatiñ sarañ munañani ukhaw jakhuñañapäkiti. Ukatx, jan walt'awi ukat sumaraki uñjañamawa."
+  - q: "¿Kunas 20 tapuñani jaqix imañapachaxa?"
+    a: "Sapa uruw uñjat, yatiñ sasa ukat sumaraki: mä kiwlla, mä animal, mä uta, mä ch'uqi, mä jisk'a jan ukax mä pacha. Janiw ch'iqa amuyunakax, jaqinakan sutinakax ni kuna llakisiñ utji ukanakax ajllisiñamawa."
+  - q: "¿Kunas jupax janiw sí jan ukax janiw sasa sarañ atinkaspati?"
+    a: "Uñt'añ, sipansa ch'iyaparu jan ukax uñt'añ pacha uñjañamawa, jan ukax jupa uñjañ munkaspa ukax ch'uqi purapachiñ. Ukatx, sapa uruw parlañ ukhamarak yaqha uñt'añanakas sarañaw utjaraki."
+  - q: "¿Utjarakchi yaqha parlañ anatañanaka demencia awkinakatakix?"
+    a: "Utjarakiwa. “Kunaw jumatak sumaraki” ukax mä ajllisiñ ukhamarak sapa yatiñanakampi. “Kuna uñjañ munta?” ukax jupa amuyuñ uñt'atäñapataki. Golden Moments tuqi conversation cards ukax sarnaqawinakat parlañ anatañ jupanakan amuyunakapat chika."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,51 +47,51 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Walja jaqinakax uñjasiñ jan ukax ch'axwañ juego sañ munapxi, jan parlañ ukhaxa. Yatiyaña ukat uka uñt'aña juegonakax sum luräñapxi, kunatix sum yatiñani ukat parlañax kawkiruw sarañapa. Kuna ch'iqanakas: jaqix uñt'ayaña, jumax yatiyañaw utjañapa. Akax uka juegonak sumaw luräñatakix yatiyaskiwa, ukat dementia uñt'ayir jaqinakatakix kuna parlañ juegonakas sum utjaraki.
+Walja familiankirinakax mä anatañ munapxi, kunjamtï parlañ ukhamarak janiw mä yatiñ uñjañ sarañäkiti. Jisk'a tapuñani ukat uñjat anatañanakax suma sarañ utji, kunattix kamachinakapax jisk'awa ukat parlañax kawkir sarañ utjaraki. Jupa yatiri sarañ uñt'atäñapataki, jumaw tapuñani. Kunjamtï uka anatañ sarañapa, uka tuqi aka uñacht'äwix yatiyaraki, ukat kawkiri parlañanakas demencia jaqinakatakix suma utjaspa uka uñt'atäñapataki.
 
-## ¿Kunatsa kunjamäkaspas ch'iqanakax jan luraña?
+## ¿Kunatsa kunjamsa kamachinak jaytañapa?
 
-Jiwasan kunjamataki yatiñanakaxa, mayni yatiyiri, mayni jaqix yatiñapa. Ukhamaw dementia uñt'ayir jaqix jan yatiñani ukax jachañkaspa, ukax llakisiñ utjaraki. Jupax uñt'ayaña, jumax yatiyañaw utjañapa ukhaxa, jupax yatiñani ukhamaw uñjatäñapa. Jupax uñt'ayaña, yes jan no sañ liwañ yatiyasiñ, jumax yatiyañ uñjañapas sum sarnaqañapa.
+Sapa uruw tapuñani anatañanakan, mä jaqix tapuñi ukat yaqhapax yatiñapawa. Ukhamaw demencia jaqix jan walt'añ utji, jan walt'añ ukax llakisiñ utji. Jupanakax imañ ajllisipxi, jumax tapuñasa, ukhamaw jupa yatiri sarañ utji. Jupax imaña uñtasa, sí jan ukax janiw sasa siwa sarañ atinissa, ukat jumax jan uñjañapatak jakhuñasa.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ukax uñt'ayañ jaqinakar yatiyi, jisk'a arsuñanak, mayni yatiyañ ukat jan ch'axwañ arsuñanak. Ukax yatiyañ juegonakar sum sarnaqañapa.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ukax familianakar yatiyaraki, jisk'a ch'uqi sarañanakampi, mä tapuñ sapa kutiw, ukat sumaraki ch'iyaparu parlañampi. Ukanakax anatañanakar suma sarañ utji.
 
-## Kunjamä 20 yatiyañ juego sumaw luraña
+## Kunjamsa 20 tapuñani suma sarañapa?
 
-1. **Mayni tema suyt'a** jaqin jakañapat, kunjamataki utanakat, quta sayañ jan ukax uywanak.
-2. **Jupax mayni sayt'ayaña** ukat jisk'a arsu jan ukax uñt'ayañ luraña, jumax janiw ist'añamäkiti.
-3. **Mayni yes jan no yatiyañ suyt'a.** "¿Ukax manqhañ manq'äwa?" "¿Ukax sapatu sañ jukhachi?"
-4. **Kuna sarañas sum katuqaña.** Janchi tikxäwi, umaraki jan ukax ch'uqtayañ uñjasiñ.
-5. **Jisk'a yatiñ arsuña** ukat kusisiñ. Juma sum yatiñ ukhaxa, sum kusisiñ.
-6. **Yanapt'añ uñt'ayañ** jaqix jaytatäkchi ukhaxa: "Ukax utan manq'äwipawa."
-7. **Janiw yatiyañanak jakhuñamäkiti** ukat janiw puntajanakax uñjañamäkiti.
+1. **Mä tuqi ajllisiña** jupan sarnaqawipat, kunjamtï uta, quera, animal jan ukax thaya.
+2. **Jupar imañ ajllisiñ** ukat ch'iyaparu parlañ, jan ukax mä uñt'ayaña ch'uqi uñjañ, ukhamat jumax jan istañkañapäkiti.
+3. **Sapa kutiw mä tapuñ tapuñ.** “¿Mikhuñ kunaw?” “¿Sapatu sipansa ch'ammachixa?”
+4. **Kuna jawsäwis katuqañ.** Mä jiwawi, jan ukax mä katunt'asiñ, jan ukax mä kusisiña ukax walikiwa.
+5. **Jiwasa jach'a parlañ** ukat kusisiñ. Jumax jitheqañ ukat sasa, jiwasa kusisipxañani.
+6. **Yanapt'añ yatiyaña** jupa jan sarañ munkchi ukhax: “Uka uta ukan utji.”
+7. **Tapuñanak jan jakhuñañ**, jan puntaj uñjañ.
 
-Jaqix kunjamataki sarnaqañ jan yatiñani ukhaxa, sum sarnaqañ sapa juego luraña: jumax mä kunanak arsuta, jupax sum uñt'añ yatiyasiñ.
+Jupax jan sarañ atinkchi ukhax, jisk'a sarañ ajllisiñ: jumax mä kunas parlta, jupax mä sumaraki uñjaspa uñt'ayaraki.
 
-## Sum ajllinakax
+## Walikiw kunanaka ajllisiñ
 
-- Sum jiwaki, verduras jan ukax flores
-- Ch'iyar uywanak, mayni uywa ukat jiwasan animal
-- Herramientas, kunjamataki martillo, rastrillo jan ukax aguja
-- Utachi qhanachi jan ukax muebles
-- Sum uñt'ata chiqa, kunjamataki parque jan ukax marka
-- Isi jan ukax jaqi kusiskäna
+- Mä suma phuta, mä yuraq jan ukax mä qhanti
+- Mä chakra, mä phaki jan ukax mä uywa, kunjamtï jupa uywjapxi ukanaka
+- Mä kunas ch'uqi, ukjama mä martillo, mä rastrillo jan ukax mä aguja
+- Mä ch'uqi jan ukax mä kunas utanki
+- Mä thaya jan ukax mä marka, kunjamtï jupa yatiri uñjañapa
+- Mä isi, kunjamtï jupa munañani ukat sarañ
 
-Janiw jaqinakan sutinakapa ukat llakisiñ utjaski ukanakar jan ajllinakamäkiti.
+Jaqinakan sutinakapa, llakisiñ utji ukanakapa, ukhamarak walaqt'ayañ utji ukanakapa jan ajllisiñamawa.
 
-## Yaqha parlañ juegonaka
+## Yaqha parlañ anatañanaka
 
-- **Akax jan ukax ukax.** Mä ukat paya uñt'aña suyt'a, kuna munasisa: t'é jan ukax café, qullu jan ukax mar. Janiw sum jan ukax chiqa sarañ.
-- **Kunas munasma.** Jisk'a, kusisiñ tuqi yatiyaña: "¿Jumax picnic munasmati jan ukax cena?"
-- **Arsuña tukuyaña.** Mä yatiñ arsu, tukuyaña jist'aräna. Uka juegonakan [finish-the-saying games](/activities/finish-the-saying/) uñjañamawa.
-- **Chiqa sutip uñt'aña.** Mä munasir utan, marka jan ukax uñjata chiqa uñt'añ suyt'a, jumax ukhamaraki uñjañam.
-- **Parlañ tarjetanaka.** Nuestras [conversation cards](/games/conversation-cards/) ukax sapa tema uñtasa, mesa qhipan imprimir.
+- **Kunaw jumatak sumaraki.** Mä ajllisiña jawsañ ukat jupa kawkir munta uka jawsañ: “Ch'a jan ukax kafe”, “Qullu jan ukax thaya”, mä qhana isi jan ukax mä yuraq isi. Janiw kuna chiqpach jawsäwi utjkiti.
+- **Kuna uñjañ munta?** Mä suma tapuñ jawsañ: “¿Uta quta ukar sarañ munta jan ukax qunuyña?”
+- **Mä parlañ tukuyañ.** Mä muspharañ parlañ, jupan uñjaw. [Parlañ tukuyañ anatañanaka](/activities/finish-the-saying/) sarañapataki uñjañamawa.
+- **Uka thaya sutiyaña.** Jupar mä jach'a uta, markaru jan ukax mä uñjat sarnaqawi uñt'añ, jumax jupan uñjatap uñjañ.
+- **Kuna tapuñanakas yanapt'añ.** Golden Moments tuqi [conversation cards](/games/conversation-cards/) ukax sapa tema tuqi tapuñanakaw utji, mesa ukan ch'iyaña ukar.
 
-Sarnaqäwinak ukat jakañ historias uñt'ataki, [reminiscence questions](/activities/reminiscence-questions/) uñjañamawa. Jisk'a uñt'aña juego sum sarañataki, [easy trivia for seniors with dementia](/activities/trivia/) uñjañamawa, ukax ajllinak ukat jan puntaj.
+Yaqha amuyunakaxa, sarnaqawi ukhamarak jaqinakan uñjañapat amuyt'añ, [reminiscence questions](/activities/reminiscence-questions/) uñjañamawa. Sasa uñjañ ukat suma sarañ anatañ, [easy trivia for seniors with dementia](/activities/trivia/) ukax ajllisiñampi ukat janiw puntaj utjkiti.
 
-## ¿Kunas jaqix chhuxllañ jan ukax ch'axwañ?
+## ¿Kunas jupax jan wali sarañ munkchi ukhax?
 
-Sayt'asim, jisk'a sumaw arsum: "Mayni juego luqtasipxañäni." Ch'axwañ uñt'ayañax juego mayjt'añ uñt'aña, janiw jaytañäkiti. [how to play games with someone who has dementia](/caregiving/how-to-play-together/) uñjañamawa, kunjamataki mayjt'aña.
+Sayt'aña, jiwasa jach'a, ukat sasa: “Janiw ukax yaqha anatañ anatañasa.” Jupa jan walt'ayañax mä yatiyaña ukax anatañ mayjtayañawa, janiw jach'a mayjtayañäkiti. [Jaqinakampi anatañanaka kunjamsa sarañapa](/caregiving/how-to-play-together/) uka tuqi uñjañamawa.
 
-## Kunsa juegonakax lurañapa, janiw lurañapäkiti
+## ¿Kunas anatañanakax sarañ atinki ukat janiw?
 
-Parlañ juegonakax kusisiñ ukat jaqinakampi sarañ. Jupanakax jaqinakampi sarañapa ukat sarnaqäwinak parlañapa. Janiw dementia uñt'ayañ, janiw sawaraña jan ukax jan utjañ. Chiqpach kuna amtasiñas: mä sum tiempo jumanakampi.
+Anatañanakax kusisiñ ukat sociable utji. Jupanakax jaqinakampi jaqichañ ukat sarnaqawinakap parlañ yanapt'apxi. Janiw demencia jan sasa, jan ukax jan sarañ khitinakar jark'apxi. Amuyuñ sasa: uka pachan jiwasa jakañ, walja uñjañani.

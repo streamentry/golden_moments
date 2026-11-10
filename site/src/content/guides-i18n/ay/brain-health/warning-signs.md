@@ -1,28 +1,32 @@
 ---
-title: "Demencia ukan nayr qhanañchanaka ukat médico ukaru sarañ"
-seoTitle: "Demencia ukan nayr qhanañchanaka ukat médico ukaru sarañ"
-description: "Demencia ukan nayr qhanañchanaka, kunjamasa jaqi maraxaru uñtasiwayi, amuyañ ukan yanapt'asiñanaka ukat médico ukaru sarañ taripaña."
+title: "Demencia ukan qalltanakapa ukat doctor uñjañ pacha"
+seoTitle: "Demencia ukan qalltanakapa ukat doctor uñjañ pacha"
+description: "Demencia ukan qalltanakapa, jaqinakan jakañapa ukat amuyu chhaqhañapa ukanakat t'aqhisiñapa, ukat doctor uñjañatakix kunjamsa yatiqañapa."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Jakañ ukan sarnaqañ ukar jithiqtayañ amnaqañ, sapa uru lurañanakan jan sum yatiñ, lugar ukat pacha ukan jan amuyasiña, ukat amuyu jan ukax sasa ... ukanakax demencia ukan nayr qhanañchanakaw sapxi. Yaqha jan walt'awinakas, kunjamasa ch'uxña jan walt'awi, B12 jan ukat medicinanakan jan walinaka, llakisiña ukat jan amuyuñ jan ukax suñ jan walinakas, akham uñtasiñanakar purapxi. Médico calificado yatiyañ puedi. Nayraqata jan amuyasiñ ukax emergencia ukar sarañ wakisi.
+  Amuyu chhaqhaña, jakañ lurañanakar jaytañ ukat uru pacha jan yatiñ ukanakax demencia ukan
+  qalltanakapax ukax utjaspawa. Yaqha qullqanakax, kuna jiwasan thyroid ukat vitamina B12 ukan
+  jan wali sañ, medicina ukan mayjt'awinakapa, llakisiña ukat jan ch'amanit puriña ukax akham
+  mayjt'awinakar purapxi. Jan ukax qhanañ chiqat yatiri ukax demencia uñjañ atipxi. Thuqhanakan
+  chiqa chuymaxa presurampi uñjañ munaski.
 keyPoints:
-  - "Mayni maraw jan amuyañ jakañ ukan wali unt'ayaña; jakañ ukan sarnaqañanakar jithiqtayañ ukax uñjañ wakisi."
-  - "Alzheimer's Association ukax 10 nayr qhanañchanaka yatiyi, sapa mayni ukan mayni maran jakañ uñtasiñapa."
-  - "Tiroides jan walt'awi, B12 jan ukat medicinanakan jan walinaka, llakisiña, jan walt'awi ukat suñ jan walinakax amuyañ ukar mayjt'ayapxi, ukat yaqhipan walt'asiñ puedi."
-  - "Médico calificado yatiyañ puedi demencia ukax; internet ukan preguntanakax ukat maypacha yatiyañanakax jan yanapt'apxi."
-  - "Nayraqata amuyasiñ, horas ukat urunakan utjañ, delirium ukhamaraki utjañ puedi, ukat emergencia ukar sarañ wakisi."
+  - "Achuqallan amuyu chhaqhaña jaqinakan awtipax akhamawa; jakañ lurañanakar jaytañ uñjañ wali askiwa."
+  - "Alzheimer's Association ukax 10 uñachtʼäwi uñacht'ayi, sapa uñachtʼäwi ukax awtinak uñtañatakix jaqinakan mayjt'awipa."
+  - "Thyroid, vitamina B12 ukan jan wali sañ, medicina ukan mayjt'awinakapa, llakisiña, jan ch'amanit puriña ukanakax amuyu ukar mayjt'apxi, mayakanakax allichasiñax atipxi."
+  - "Demencia uñjañax qhanañ yatiri ukanakan ukhamaraki, intirnit ukan prueba ukanakax jan atipxi."
+  - "Chuymachañ ukax sapa uru utjañ kunapachatixa, uru jan kunkay, kunapachatixa wali sut'ikarai, delirium ukax utjayañapa ukat wali presurampi yanapt'añapa."
 faq:
-  - q: "¿Amuyañ jan utjañax jakañ maranakan kunapachatixa?"
-    a: "Yaqhipan kunapachatixa. National Institute on Aging yatiyi, mayni maraw jan amuyañ, kunapachatixa mayni lunthata jan amuyañ, jakañ maran usuñ ukhamaraki utjañ. Demencia jakañ maran kunapachatixa jan utjkiti. Amuyañ jan utjañanakax kunjamatixa manejo ukat teléfono ukanakan jan sum sarañ ukhamaw médico ukaru sarañ wakisi."
-  - q: "¿Amuyañ jan utjañ demencia jan ukhamarakiw utjañ?"
-    a: "Jisa. National Institute on Aging yatiyi tiroides, riñón jan ukat hígado jan walt'awinaka, medicinanakan jan walinaka, llakisiña, B12 jan ukat suñ jan walinaka, ukat yaqhanakas. Yaqhipanakax walt'atäpxi, ukatwa médico uñjañax wali."
-  - q: "¿Utaran demencia uñjasma jaqi?"
-    a: "Janiw. Médico calificado sapa demencia uñjañ puedi, historia médica, uñjaña, amuyu ukat yatiñ lurañanaka, laboratorio ukat yaqhipanakan uñjañanakampi. Médicos ocupi ukax, ukhamasa, jan jach'a amuyu luraña ukar jiwasa, demencia uñjañataki jan wali."
-  - q: "¿Kunas lurasma jaqi kunapachatixa jan amuyasi?"
-    a: "Sarañ ukar yanapt'añ ukat jichhürux. Amuyu jan sum utjañ delirium ukax emergencia médica, VA yatiyi. Jaqi médico ukar ukat emergencia ukar jawsañ, jupar sartaña, medicinanakas yatiyañ."
+  - q: "¿Amuyu chhaqhaña awtinakax jaqinakan awtipa?"
+    a: "Mayni awtipaw. Jach'a jaqinakan qhanañ yatichañ utapan (National Institute on Aging) siwayi, qullqi ukat yaqha lurañanakar jan amtañax achuqallan, awtinakan amuyu chhaqhañapawa. Demencia ukax jaqinakan awtipa jan ukhamäkiti. Jakañ lurañanakar, uñjañ, qalltaña jan ukax utar mariñ jan ukhamarak amuyu chhaqhañanakax doctor uñjañ wali askiwa."
+  - q: "¿Amuyu chhaqhañax demencia jan ukhamarak mayni ukat utjaspa?"
+    a: "Ukhamawa. National Institute on Aging ukax thyroid, qhurux ukat hígado ukan jan wali sañ, medicina ukan mayjt'awinakapa, llakisiña, vitamina B12 jan wali sañ, alkoholinak lurañ, jan ch'amanit puriña, infeksiones ukat uma uñjañ ukanakar yatiyaraki. Yaqhanakax allichasiñax atipxi, ukatakix doctor uñjañax wali askiwa."
+  - q: "¿Utankama jaqi demencia uñjañ atipxitati?"
+    a: "Janiwa. Qhanañ yatiri sapa demencia uñjañ atipxi, jaqin qullqi uñjaña, lurañ, amuyu ukat yatiñ prueba ukanakat, laboratorio prueba ukanakat, jan ukax uma uñjañ scanners ukanakat. Doctorinakan ocupa ukanakax janiw demencia uñjañatak mayni ch'amañkiti."
+  - q: "¿Kunas lurañ jaqi sapa sutchawa ch'uxña chuymachasiñ qalltaskixa?"
+    a: "Jichhürux yanapt'añ mantañama. Utjañ chuymachañax delirium ukax utjaspa, ukax U.S. Department of Veterans Affairs ukan siwayi wali sut'ikaña thaqhat uñjaskiwa. Jaqi yanapt'añ yatiri ukar jichhürux luqtañama jan ukax emergencia thaqhar qhanañama, jaqi ukamp sayt'ayañama, medicinanakap yatiñama."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -50,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Jakañ ukan amuyañ jan utjañ, jan ukax jumar munat jaqin amuyañapa uñjañax, llakisiñaniwa. Akax médico ukaru sarañ ukat ukar yanapt'añ yatiyañ wakisi. Janiw kunjamasa demencia utjaski sapxañ puedi. **Médico calificado sapa demencia uñjañ puedi**, ukat amuyañ jan utjañanakan yaqha jan demencia jaqinakampi wali. Internet ukan preguntanakax jan ukat jan ukhamaraki yatiyañanakax jan confíapxañamäkiti.
+Jaqi jan uñjañamp amuyu chhaqhañ uñjañax, jan ukax munat jaqi uñjañax, ch'iqhapt'añ utjaspa. Aka qillqatax doctor uñjañ pachaw yatiyañataki, ukat ukar kunjamsa sarañ amuyañatakis yanapt'aniwa. Jan ukax jaqi demencia utjaspasa janiw yatiyañ atipkiti. **Qhanañ yatiri chiqpachaw demencia uñjañ atipxi**, ukat amuyu chhaqhañ mayni mayni mayjt'awinakax demencia janiwa. Intirnit ukan prueba ukanakar jan confíe.
 
-## ¿Kunas demencia ukan nayr qhanañchanakapa?
+## ¿Kunas demencia ukan qalltanakapa?
 
-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) ukax 10 nayr qhanañchanaka yatiyi. Sapa mayni ukan mayni jakañ maran uñtasiñapa yatiyi. Nosotros ukat akham arsutanakampi:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) ukax 10 qalltanakap uñacht'ayi. Sapa uñachtʼäwiru jaqinakan awtipar uñtasa. Nuestra kamachi ukan siwayi:
 
-| Qhanañchawi uñjañataki | Jakañ mara ukan kunjamasa jaqi uñstaski |
+| Uñjañ wali askiwa | Jaqinakan awtipar mayjt'ata |
 | --- | --- |
-| Jakañ ukan sarnaqañ jan walt'añ amuyañ, quizás qharüru ukat mayni arsutanakax mayampi jisk'aña jan ukax sapa mayni arsutan | Yaqhipan sutinaka jan ukat reunión jan amuyañ, ukatha qhipat amuyañ |
-| Sapa uruw uñjañ, jan ukat jakañ ukan maynin ... | Yaqhipan jakañ ukan qullqinakan jan sum luraña |
-| Jakañ ukan lurañanaka tukuyañ dificultad, qhipa ukat kunapachatixa jan kuna... | Kunapachatixa microondas jan ukat TV ukan yanapt'añ |
-| Urunakan, jaya ukat lugar ukan jan amuyasiña | Urunakan jan amuyañ, qhipat amuyañ |
-| Mayni jaqinakan jan amuyañ ukat jan uñjañanakax, ukhamaraki colores ukat aka jan yatiyañ | Yaqhipan ñawinakan maynin jan uñjañ, cataratas ukat yatiñanakan |
-| Arsutanakan jan sum yatiñ, arsuña chhaqtayaña jan ukax jan sutinakan arsuña | Yaqhipan arsutanakan jan sum amuyañ |
-| Kunanakas jan kunapachatixa uñjañ, jan ukat sarnaqañanakar sarañ jan yatiñ | Kunapachatixa jan uñjañ, qhipat amuyañ ukat uñjañ |
-| Qullqinakan jan walt'añ ukat jaqi lurañanakan jan sum amuyaña | Yaqhipan jan walt'añ amuyu luraña |
-| Lurañanakar, trabajo ukat reunión ukar jan sarañ | Yaqhipan familia ukan jan sarañ munañ |
-| Amuyu ukat jaqi sarnaqañan jan sum mayjt'ayaña, llakisiña ukat jan sum amuyaña | Sarnaqañanakan mayni thakhi, jan ukat rutina jan walt'ayañ ukan jan kusisiña |
+| Amuyu chhaqhaña jakañ lurañanakar jaytañ, kunapachatixa uru mayni yatiñ ukanakar jan amtañ jan ukax mayni mayni jutañ | Kunas sutiñ jan ukax uru chiqa lurañ amtañ, ukat qhipäx amtañ |
+| Amuyu luraña ukat jaqin lurañanakap thaqhaña, kunjamsa wali yatiñ jan ukax qullqi uñjaña | Uta qullqi ukan kuna chiqa jan lurañ |
+| Yatiñ lurañanakar tukuyañ askichañ, utan, trabajon jan ukax thakinkama | Microondas ukan yanapt'añ jan ukax TV ukan awtipa uñjaña |
+| Uru, mara pacha jan ukax kawkir utjasa amuyu chhaqhaña | Uru jan yatiñ, qhipäxa amuyañ |
+| Jaya jan ukax colores ukanakar mayjt'añ jaya | Ojos ukan mayjt'awi jan ukax yanapt'añ |
+| Arunaka ukan jan ch'amanit puriña, arunak jan ukax mayni arunak sum parlañ | Kunas arux jan jaytaña |
+| Kunanakas jan ukhamarak uñjaña, ukat ukat uñtañ jan atipaña | Uru mayni kunanakar jan uñjaña, uñtayañanakap qhipäx jaytayañ |
+| Jan wali amuyuñ, qullqi jan ukax chuymaña lurañanakan | Uru jan wali amuyu ukax |
+| Kunanakat jaytaña, trabajo jan ukax jaqinakan tantachawinakat | Uru jaya jan ukax tantachaw sarañ jan munañ |
+| Chuymanakan jan ukax amuyunakan mayjt'awi, kunap jan ukax llakisiñ, jan confíe, mayni ukat llakisiña | Lurañanakax sapa uru ukhamaraki, rutina jan ukhamarak ukat ch'ixi |
 
-Mayni qhanañchawi ukax demencia ukat sapaki janiw utjkiti. Jach'a amuyu ukax **jaqi ukan sapa kunjamasa jakañ ukat ukan mayjt'ayaña**, ukat jakañ ukan jan sum sarnaqañ.
+Mayni uñachtʼäwi ukax demencia utjasa sañ janiw ukhamäkiti. Aka sum uñjañax **jaqin awtipat mayjt'awi**, khitinakats wali askichañ jan ukax jakañ jaqinak ukhamarak uñjañ.
 
-## ¿Kunjamasa jakañ ukat demencia ukan uñtasiñapa?
+## ¿Kunjamasa jaqinakan awtipax demencia ukat mayjt'ata?
 
-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) yatiyi, yaqha jaqinakax amuyañ jan sum, jan ukat mayni lunthata jan amuyañ ukat qullqi jan amuyañ. Akanakax mayni jakañ maran amuyañ usuñ ukhamaw utjañ. **Demencia janiw jakañ mara ukan utjkiti.** Jach'a amuyañ usuñax sarnaqañanakar jan sum sarañ, uñjaña, teléfono ukat jaqi uta ukar sarañ.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) siwayi, wali jaqinak amuyu chhaqhañ mayni mayni jan ukax achuqalla amuyapxi. Ukax achuqallan amuyu chhaqhaña ukhamaw. **Demencia janiwa jaqinakan awtipa.** Amuyu chhaqhaña jach'a jakañ lurañanakar jaytañ, kunjamasa jaqi jan atipkiti, uñjañ, luqtañ, jan ukax utar mariñ.
 
-NIA yatiyi médico ukaru sarañ, jaqi:
+NIA siwayi, doctor parlañ wali askiwa jaqi:
 
-- Mayni ukat mayni jaw jan amuyañ
-- Jakañ ukan sarnaqañ jan amuyañ ukhamaw jan sum sarañ
-- Lurañanaka jan ukat sarañanaka jan amuyañ
-- Pacha, jaqi ukat lugar ukan jan amuyasiña
-- Jupa mayn jaqi ukan jan lurañ, jan sum manq'añ, jan ukat jan sum sarnaqañ
+- Ukhamaraki mayni mayni jutañ
+- Kawkisa wali yatiqañ utjasa, ukanakan jan thaqhaña
+- Jakañ amuyu, yatiñ jan ukax lurañanakar jaytañ
+- Uru, jaqinaka, ukat sapa chiqan jan ch'iqhapt'aña
+- Jakañ amtañ jan ukax chuymaña jan ukax jaqi uñjañ jan ukhamarak jan arsutaña
 
-Yaqha jaqinakax **mild cognitive impairment (MCI)** utjañ puedi. Akax amuyañ jan ukat amuyu ukan jach'a usuñ, ukat uru sarnaqañ ukat lurañanakan jan sum ukhamaw sarañ. NIA yatiyi MCI ukax Alzheimer's ukan nayr qhanañchawi utjañ puedi, ukhamaraki yaqhipan jan Alzheimer's utjañ.
+Yaqha jaqinakax **mild cognitive impairment (MCI)** utjapxi. Ukax amuyu chhaqhañ jan ukax amuyu luraña mayni jaqinakat jach'awa, ukampis nayra jakañ jakasipxi. NIA siwayi, MCI ukax Alzheimer's ukan qalltanakap utjaspa, ukampis khitinakas MCI utjatap taqini Alzheimer's ukar puriñapa janiwa.
 
-## ¿Kunas yaqha jan walt'awinaka amuyañ jan utjañ?
+## ¿Kunanakas amuyu chhaqhañ mayjt'aspa?
 
-Demencia jan ukhamarakiw amuyañ jan walt'añ, ukat yaqhipan walt'asiñ puedi. NIA yatiyi:
+Demencia ukat yaqha kunanakas amuyu ukar mayjt'apxi, ukat yaqhanakax allichasiñax atipxi. NIA ukax akhanakar uñacht'ayi:
 
-- **Tiroides, riñón jan ukat hígado jan walt'awinaka**
-- **Medicinanakan jan walinaka**
-- **Llakisiña ukat jan kusisiña ukat ansiedad**
-- **B12 jan ukat jan sum manq'añ**
-- **Ch'uxña jan walt'awinaka**
-- **Alcohol jan ukat drogas jan sum ocupaña**
-- **Infeccionanaka, jan ukat sallqa ukan uñjañanaka** ukat jan jiwayañ
-- **Umu jan ukat jaqi uñjañ**, ukhamaraki concusión
-- **Jach'a llakisiña jan ukat jaqi jiwaña**, jubilación jan ukat jaqi chachan
+- **Thyroid, qhurux jan ukax hígado jan wali sañ**
+- **Medicina ukan mayjt'awinakapa**
+- **Llakisiña ukat jan ch'amanit puriña**
+- **Vitamina B12 jan wali sañ**, jan ukax wali manq'añ jan amtaña
+- **Jakañ jan wali sañ**
+- **Alkoholinak jan ukax drogas lurañ**
+- **Infeksiones, uma ch'allt'añ jan ukax umanakan ch'uxña**
+- **Umat jaqhañ**, akham kunjamasa jaqinaka jaqhasipxi
+- **Jach'a llakisiña jan ukax jaya**, akham jubilarse jan ukax jaqi jaya jan ukax warmi jan ukax chacha jaya
 
-Uñjaña jan ukat ist'aña jan walt'awinakax amuyañ jan ukat jan amuyañ ukhamaw uñtasiñ puedi; [guía de audición](/brain-health/hearing/) uñjañamawa. Ukatwa médico uñjañax wali. Segun [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), médicos sañ, sapa mayni wilanakan tiroides, jan manq'añ ukat infección uñjañ. Walt'añ [ch'uxña](/brain-health/sleep/) ukat llakisiña walt'añax jupanakan wali.
+Uñjañ jan ukax ist'añ mayjt'awinakax chuymachañ uñtasa; [ist'añ qillqatanakar](/brain-health/hearing/) uñjapxam. Ukatakix doctor uñjañax wali askiwa. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) siwayi, doctor wali kutiw thyroid, vitamina jan wali sañ ukat infeksiones uñjañatak laboratorio prueba mayjt'apxi. Wali [jakañ](/brain-health/sleep/) ukat llakisiña allichasiña ukax parlañ wali askiwa.
 
-## Jan amuyasiña ukax emergencia ukhamaw
+## Utjañ chuymachañ ukax emergencia ukaraki
 
-**Horas ukat urunakan jan amuyañ ukax jichhürux médico ukaru sarañ wakisi.** Delirium uñjañ puedi. [VA delirium ukat](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) emergencia médica sañ, jaqi médico ukar jawsañ jan ukax emergencia ukar jawsañ yatiyi. Qhanañchawinakax:
+**Uru, horas jan ukax uru ukan utjañ chuymachañ ukax jichhürux yanapt'añ mantañama.** Delirium ukat utjaspa. [VA ukax delirium ukar](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) emergencia siwayi, jaqi yatiri ukar jichhürux luqtañ jan ukax emergencia thaqhar qhanañ yatiyi. Uñachtʼäwinakax:
 
-- Amuyañ jan sum chhaqtayaña
-- Jan sum uñjañ
-- Arsutanakan jan sum amuyañ
-- Jach'a ch'uxñaña jan ukat jan sum samaraña
+- Amuyu qhanañ ukan jaqsuqat jaqsut sarañ
+- Chuymachañ jan ukax amuyu ch'ixi
+- Amuyunakax jan ukhamaraki
+- Jan wali ch'ixi jan ukax wali jan ch'amañ, jan ukax ch'amañ, ch'ixi
 
-Kunapachatixa jaqi ukax demencia ukan jakañ ukhamawa. Segun [NHS](https://www.nhs.uk/symptoms/confusion/), yaqha mayni uñjañanakax infección, mä ch'uxña pachax, azúcar jan ukat diabetes, umu jan ukat medicinanakan. Yanapt'añ suytasiñ ukan jaqi ukar jakasiña, sapa arsutanakampi sum arsuña. Walpun jawsañanakax jan sum juk'ampi, ukat medicinanakax yatiyañ.
+Aka sapa jaqirux utjaspa, demencia ukat jakkiri jaqinakanakapas. [NHS](https://www.nhs.uk/symptoms/confusion/) siwayi, mayni awtipax infeksiones (wali jaqinakan uta ukan infeksion), stroke, diabetes ukan wali jan wali uma ukhamaraki, umat jaqhañ ukat medicinanakas. Yanapt'iri utjañ sapa, jaqi sayt'ayañama, jisk'a arunakampi yanapt'añama. Wali jisk'a jaytañamay, medicinanakap yatiñama.
 
-## ¿Kunjamasa médico ukaru sarañ?
+## ¿Kunjamsa doctor uñjañ pachar sarañ?
 
-Walt'ata sarañ ukax wali yatiñ ukampi qalltaña. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) sañ aka apthapiñ:
+Wali uñjañ utjañ ukax wali qillqatanakampi qalltaspa. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) siwayi, apanukuñama:
 
-1. **Amuyañ, jan ukat sarnaqañ ukan jan walt'awinaka**, jaqi ukan qhipa arsutanakampi ukat kunapachatixa qalltasi
-2. **Qhipa ukat jichhürux walt'awinaka**, ukhamaraki familia ukan amuyañ jan utjañapa
-3. **Medicinanakan ukat qhipa jan sum medicinanakan**
-4. **Vitaminas jan ukat suplementos**
-5. **Yatiñanakamax**, kunanakas uñjasa, kunapachas ukat kunjamasa resultado ukanakax utjasa
+1. **Amuyu, chuyma ukat lurañanakan mayjt'awinakan lista**, kunanak uñjata ukat kunapachax qalltaspa uk qillqata
+2. **Nayra ukat jichhüru jan wali sañanakan**, amuyu chhaqhañ jaqinakan awtipa ukhamaraki
+3. **Medicinanakan jan ukax recetanakan**, mayni farmacia jan ukax sapa medicina ukanakan
+4. **Vitaminanakan jan ukax suplementonakan**
+5. **Jumax yatiñam mayjt'awinakam**, kuna prueba lurasa, kunjamasa suma pacha ukhamaraki kunapachas resultado utjaspa
 
-Familia jan ukat amigo jaqi yanapt'añax wali, jupax jaqi walik yatiri. [NIA yatiyi](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) médicos jaqi ukat familia jaqi mayt'asiñ, salud ukat medicinanakan, jakañ ukan lurañanakan ukat sarnaqañanakan. Médicos ukhamaraki:
+Yanapt'iri jaqi ukat jaqi yatiri ukat apanukuñamay. [NIA yatiyi](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) siwayi, doctor jaqi ukat uywa ukan jan jaqi ukanakat jan ukax jakañ lurañanakat, medicinanakat ukat uru lurañanakat jan ukax awtinakat parlañ. Doctor ukax:
 
-- Amuyañ, yatiñ, sapa uru lurañ, yatiñ uñjañanakar ukat arsutanakar uñjañ
-- Jisk'a jaqi uñjañ ukat laboratorio uñjañ
-- Llakisiña ukat yaqha jan amuyañ uñjañ
-- CT ukat MRI sañ uñjañ
-- Especialista ukar sarañ, geriatra, neurólogo, psiquiatra ukat neuropsicólogo
+- Amuyu, lurañ, yatiñ, jaya ukat arunakan prueba lurañ
+- Yaqha mayni kunanakat uñjañatak laboratorio, uma jan ukax jukuña prueba lurañ
+- Llakisiña jan ukax yaqha amuyu chuymachañanakat uñjañ
+- CT jan ukax MRI uma uñjañ scanners lurañ
+- Especialista ukar yatiyañ, akham geriatra, neurólogo, psiquiatra jan ukax neuropsicólogo
 
-NIA yatiyi cognitive uñjañ ukax Medicare sañ chiqan sapa maran chequeo ukan utjañ puedi; ukax jan jiwasa amuyañ ukar uñjañ. Jan ukat uñjañanakax demencia uñjañataki jan wali. Sapa mayni kunanakax yatiñ qalltañ, ukat uñjaña yaqha uru ukhamaw sarañ. NIA yatiyi amuyañ jan walt'ayaña jaqinakax médico ukar 6 jan ukat 12 mararu kutt'añ.
+NIA siwayi, amuyu uñjañ ukax Medicare revisión anual ukan wali utjaspa, ukax chuymachañanakap parlañatakix askiwa. Doctor ukan jisk'a prueba ukanakax janiw demencia uñjañatak mayni ch'amañkiti. Ukax qalltañ laq'a, ukat walja utjañ utjañ wali jisk'a qhipat uñjañ. NIA siwayi, amuyu chhaqhañ jaqinakax 6 jan ukax 12 mes ukan doctor kutiñ wali askiwa.
 
-## Taqi chuqi llakisiñanaka jan sum parlaña
+## Chuymaña ukat suma parlañ
 
-Yaqha jaqi llakisiñax jan utjañ ukat, sum sarnaqañ ukhamaw jaqi uñjañ. Kunas uñjasma taqi chuqi yatiñ ukampi parlañ, jaqi walt'añ ukat jan uñjañ ukhamaw. Jach'a chequeo ukar sarañ mayni jaqinakax jan llakisiñ. Jaqi ukar yatiyañ, jupar jach'a jaqi ukhamaw uñjañ. [Consejos de comunicación](/caregiving/communication-tips/) yanapt'añ puedi.
+Yaqha jaqi llakisiñ utjaspa ukhax, sapa chuyma ukat jisk'a pacha ajlliñama. Uñjata kunanakat parlañama, jan ch'iqhapt'añ, jaqi jakañatak llakisiñat. Ukat jaqi kuna amuyu luraña ukan yanapt'añama, sapa jaqi ukham uñjañama. Nuestros [consejos de comunicación](/caregiving/communication-tips/) yanapt'apxi.
 
-## Médico ukamp parlaña
+## Doctor ukamp parlaña
 
-Amuyañ, yatiñ, amuyu ukat sapa uru lurañanakan jan sum utjañ ukax ukat jan jiwasa sum utjañ ukhamaw, médico ukar sarañ. Sayt'asiñ ukat amuyu jan sum utjañ ukax, emergencia ukar sarañ jan ukax médico ukar jawsañ. Uñjañanakax walt'atäpxi, ukat demencia ukax yatiñ, amuyañ ukat yanapt'añ mayjt'ayañ. Jumax mayt'asiñ jakañ ukan, [cuidado personal](/caregiving/caregiver-self-care/) uñjañamawa.
+Amuyu chhaqhaña, amuyu, chuyma jan ukax lurañanakan mayjt'awinakax utjaspa ukhax, primer doctor ukar luqtañama. Utjañ chuymachañ uru ukhax, 911 jan ukax jaqi yatiri ukar jichhürux qhanañama. Jan wali lurañanakat yanapt'añ ukhax, mayni jaqi ukan qalltañ thakhi ukat jan ukax yanapt'iri ukanakat jaytañ wali askiwa. Uñjañat yanapt'äna ukax, demencia utjaspa ukhax, kuna thakhinakas jaytayañ. Juma pachpat chuymam yanapt'aña; [chuymaña uñjañ qillqata](/caregiving/caregiver-self-care/) uñjapxam.
 
-Akax yatiyaña ukhamaw, médico yatiyaña janiw. [Aviso médico](/medical-disclaimer/) uñjañamawa.
+Aka qillqataxa ukax nayra yatiñawa, janiw qhanañ yanapt'awa. Uñjapxam [qhanañ yanapt'awi ukat jaqinakan yatiyawi](/medical-disclaimer/).

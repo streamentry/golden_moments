@@ -1,28 +1,34 @@
 ---
-title: "Alzheimer's iyo Dementia-ta Kaalo-cabbiyaha"
-seoTitle: "Kaalo-cabbiyaha Alzheimer's iyo Dementia"
-description: "Alzheimer's ìyo dementia qabbaʼ dadhinka kaalo-cabbiyaha: gorfa dhaqan-naʼ, kaalo-bohah weyn, tap-kaalo ìyo daabbitaʼ, tababarka iyo sida hadaaq-garaʼ."
+title: "Altsaymer kee Kas-baytih Kullaysiyyah Taamoomi"
+seoTitle: "Altsaymer kee Kas-bayti Luk Yani Marah Kulla Hayya"
+description: "Altsaymer kee kas-bayti luk yani marah kulla hayya: kaxxa marih waraaqat, qaxbaah kullay qalam, shaashah kusaq kee elle xaban inna xayyowsa kusaq."
 section: activities
 order: 25
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Kaalo-cabbiyaha waa hawl sahlaʼ ìyo furaysʼ: jawaab sàʼʼ ma jiro, ìyo waqti kasta ma-sibbiʼ. Dadka dhibaatah Alzheimer's ama dementia qabbaʼ ìyo, gorfa dhaqan-naʼ mackaʼ, kaalo-bohah ìyo kaalo-cabbiyaha weyn filo. Kaalo-cabbiyaha-ka waagaʼ, hoosta addunyo ìyo faraʼ-wadaʼ, ìyo qofka-kaʼ-ah waqti-kuunsaʼ. Tap-kaalo ìyo gorfa daabbitaʼ labaʼuu filo.
+  Kulla hayya xabbacowaah abtaamat caddok tekkek: uma gabat-gac mayana, kaadu
+  waqdi kulla xaban xiqtana. Altsaymer kee kas-bayti luk yani marah, kaxxa mara
+  xagnissaah yaabuddi fanah baxaaxi luk tan masal doora, qaxbaah tan kullay
+  qalamitte ken uwwa. Ken catoot digi, sissikah elle meceek farti kullaala
+  ken faatisa, kaadu isin qokolta num elle gabat-gaca waqdi is dooraay qada.
+  Shaasha tabaq-haysak kulla haytan kusaq kee kaxxa waraaqatak tan masal
+  namma tiyak kusaq doorit yaani.
 keyPoints:
-  - "Gorfa dhaqan-naʼ filo, sida dhul-dhuwaʼ, ìyo muraq-bayyo, ilmaʼ-dhawaʼ ma-ah."
-  - "Kaalo-bohah weyn, markaaʼ-ƴoosta ama kaalo-buuraq filo. Waraaqa xasaʼ ku-hay, dhaqan-kaalo yar hayʼ."
-  - "Kaalo-cabbiyaha kompyuutar-ka waa tap-kaalo ìyo qeybta gorfaʼ, taasi adeegsiʼ-gacan-yaraʼ."
-  - "Kaalo ìyo gorfaʼ ka hadal, ma-ahaʼ in qofku khatt-ka ku-jiroʼ."
-  - "Waqti yaraʼ ka-hor-dhiʼi waa wanaag. Daqiiqo-yar oo kaalo-cabbiyaha la-wadaaga waa hawl dhammeystiran."
+  - "Kaxxa mara xagnissa masal doora, baxsaaluk gubi taagoot, laqoh mandalas, ken ixxigah tan qiddo kee baxaaxik tan qibaaroora; urriyih kartoon doortinam xiqtaama hinna."
+  - "Qaxbaah tan kullay qalamitte, kaxxa maarkeritte kee doora fanah tan bilsih qalamitte xayyowsa. Waraaqat qaxbaah yibiddik taturisaay, kullay doora xabbacowsa."
+  - "Kulla hayya shaashal kulla tabataah masalih kobox tabaq-haytaamal taamitaanam xiqtana, taam gaba-qunxi caddoh taama mayallissa."
+  - "Kullaala kee masalih caagid yaaba, num xariirat addal yeedeeh mayeedeeh innah tan caagid ma-yabaana."
+  - "Gabat-gaci sissikah xaban xiqtana. Inkih dagoo daqiiqah kulla hayyaanam kaxxa taama kinni."
 faq:
-  - q: "Kaalo-cabbiyaha Alzheimer's-ka qabbaʼ-ka-u wanaagsanaa?"
-    a: "Waa hawl sahlaʼ ìyo raaxo-yaraʼ, dadka badan ay nafta-ku-smooyaaʼ, ìyo ma-u-baahnaa xusuus ama jawaab sàʼʼ. Waa daawo ma-ah, ìyo ma-jirto oo ku-sheegaa in-ay dhibaatada hoosaysaa. Ku-tixraac hawl wadaaga oo raaxo-leh."
-  - q: "Gorfa maxay ku-habboon yihiin dadka dementia qabbaʼ?"
-    a: "Gorfa dhulka-weyn ìyo mawduuc-yaqaan ayaa ugu wanaagsan: ubax, miro, beerta, shimbiro, doonyo, ama shey jecel. Gorfa-yar ìyo naqshad-cidhiidhi ka-fogaaw. Gorfa daabbitaʼ dadka-weyn ìyo tap-kaalo labaduba waa filo."
-  - q: "Hooyaday wuu-cadhoodaa markay khatt-ka-dibadda kaalo-cabbiyso. Maxaan sameeyaa?"
-    a: "U-sheeg in khatt-kaa-ma-muhiimmo. Gorfa shaqal-weyn filo, ama ku-talo in bogga oo dhan hal midab lagu-dhigo. Midabka ay dooratay ku-amaan, ìyo haddii ay-niyad-jabto joojii."
-  - q: "Kaalo-cabbiyaha tablet-ka lagama-sameeyaa?"
-    a: "Haa. Golden Moments waxay leedahay ciyaar kaalo-cabbiyaha ah, midab tap-garaʼ ìyo qeyb gorfaʼ tap-garaʼ. Adeegsiʼ-gacan-yaraʼ ma-u-baahnaa, ìyo bilaabidda iyo joojinta waa fudud."
+  - q: "Kulla hayya Altsaymer luk yani marah meqee taama innaa?"
+    a: "Xabbacowaah, kassitita taama kinniih mangi marah xala-le gabat-gac acayuk geytimta; kaadu kas-xaafiyyat hinnay qadooti-gabat-gac mali. Ta taama daawa hinna, kaadu biyak xabbacowsu wayteem akkek maqana. Inkih aban meqe kusaq caddok kaa qada."
+  - q: "Kas-bayti luk yani kaxxa marah manna waraaqat yayse?"
+    a: "Kaxxaah baxaaxik tan arooca luk tan waraaqat kee garcit tan caagid mangoh yaysi: cambooliyo, cindhoh morkot, gubi-araca, kimbir, dooni, hinnay kacanih tan qiddo. Qunxixxic kee qibaaroh xaxxiita aba waraaqatak garca, kaadu urrih masal doorit mayanna. Kaxxa marih waraaqat kee shaashal tabaq-haytan kusaq namma tiyak yayse doorit yaani."
+  - q: "Yi ina xariirat dereet kulla hayta waqdi xalay-dhabba. Ahul macah abiyoo?"
+    a: "Xariirat dereet haytaamal caagid annek axce. Kaxxa qibaaroora luk tan waraaqat dora, hinnay inkih tan waraaqat inki kullat kullaysiyya teetil warisa. Is doortah tan kullaala faatisa, kaadu xalay dhabta tekkek kusaq gaba kaak cawa."
+  - q: "Kulla hayya taableetal abaanam xiqtanaa?"
+    a: "Yeey. Golden Moments kulla haytih kusaq le, kullal tabaq haytaah dumaat masalih gabaat tabaq haytan. Ah gaba-qunxi xiikiyya ma-yallissa, kaadu qimmisaanam kee xabanam sissikiyya kinni."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -41,55 +47,51 @@ related: [activities/arts-and-crafts, activities/art-projects, activities/printa
 health: false
 ---
 
-Kaalo-cabbiyaha waa mid ka mid ah hawlaha-fudud ee-aad u-wanaagsan ee loo-soo-jeedin karo qof qabbaʼ Alzheimer's ama nooc kale oo dementia. Ma-u-baahnaa akhris, xusuus, ama jawaab sàʼʼ. Gacmaha ayaa dhaqaaqa, midabka ayaa soo-baxa, ìyo sawir ayaa jira oo la-hadlo. Hagahan wuxuu-ku-sharaxayaa sida gorfaha loo-dooranayo, maxaa la-diyaarinayaa, iyo sida loo-kaalo-cabbiyo si uu-u-noqdo mid carruur-ah ama imtixaan-ah.
+Kulla hayya Altsaymer hinnay kas-bayti luk yani mara acayuk geytima qibaaroh kusaqak yayse taama kinni. Akriya mali, kas-xaafiyyat mali, kaadu qadooti gabat-gac ma-yallissa. Gabi yuqunxe, kullaala yawqe, kaadu elle yaaban masal geytima. Ta kusaq-gide waraaqat mannal dooraana, macah xayyowsaana, kaadu urriyiyya hinnay fanna-fanta xiqsisak mayaninik mannal inkih kulla haytan yaabaha.
 
-## Sababta kaalo-cabbiyaha dadka badan u-habboon
+## Kas-bayti luk yani mangi marah kulla hayya macah koboxxowta
 
-Kaalo-cabbiyaha wuxuu gacmaha siiyaa shey ay ku-shaqeeyaan, indhaha-na shey ay-raacaan. Miiska ama kursi-daaqadda agtiisa ayaa lagu-samayn karaa, ìyo si fudud ayaa loo-qaadi karaa oo loo-dhigi karaa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) waxay farshaxanka ku-tilmaamaysaa hab lagu-muujiyo dareenka ìyo lagu-raaxeysto waqtiga-jooga, waxayna-sheegaysaa in aan xirfad farshaxan u-baahnayn.
+Kulla hayya gabat taama tacaah inti elle yaalatan caagid takke. Meesaat digiinik hinnay daaqarat catoot korsit digiinik abaanam xiqtana, kaadu sissikah qimmisaanaah xaban xiqtana. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) bilsi kee kusaq sorkocobbaxi xiqsiisaah ta waqdih farti elle geyan inna baxxaqisa, kaadu bilsih kaxxa aaxigiyya ma-yallissa axcuk kassiisa.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) waxay ku-talinaysaa in la-doorto hawlo ku-habboon waxa qofku-weli-sameyn karo, ìyo in la-beddelo markay awoodduu-isbeddelo. Kaalo-cabbiyaha si fudud ayaa loo-beddeli karaa: sawir weyn, kaalo-bohah weyn, midab yar, ama shaashad tap-garaʼ.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) num ta waqdi abaah xiqam luk taamoomi dooraanaah, dudda korsita waqdi ken caddosak gacan inna kassiisa. Kulla hayya sissikah caddosaanam xiqtana: kaxxa masal, qaxbaah tan kullay qalam, dagoo kullaala, hinnay shaashal tabaq-haytan kusaq.
 
-## Dooro naqshad dhaqan-naʼ
+## Kaxxa mara xagnissa masal doora
 
-Dadka-weyn badanaa ma-jecla sawirrada carruurta. Raadiso:
+Kaxxa mari urrih masal xaley ma-le. Ta caagid gurrus:
 
-- **Muuqaallo dabiici ah:** beer ubax weyn leh, harro doonyo leh, shimbiro geed-kor fadhiya.
-- **Alaabta-aqoonta:** koob shaaha, baaskiil, midho, koofiyad.
-- **Naqshado weyn oo fudud:** mandala iyo qaabab-gees ah oo qaybo weyn-yar leh.
-- **Sawirro farshaxan ama dhul** oo qofku-garan karo meel-jecel ama farshaxan-yaqaan.
+- **Gubi taagoot:** kaxxa cambooliyoh araca, weqeytih dumaat dooni, kimbir caxat tan.
+- **Ken ixxigah tan qiddo:** shaayik buraad, biskileet, morkot, koofiyya.
+- **Kaxxaah baxaaxik tan qibaaroora:** mandalas kee xabbacowah tan kaxxa qibaaroora.
+- **Bilsih taamoomi hinnay aracak bilsi** isin qokolta num garci-aracak hinnay kacan-le bilsiyseeytak yaaxigem takke.
 
-Ka-fogaaw bogagga-cidhiidhi ee qaybo yaryar leh, kuwaas oo-ka-dhiban. Gorfa dadka-weyn ee daabbitaʼ waa filo fiican, ìyo [dhaqamada dementia ee bilaash ah ee la daabbiyo](/activities/printable/) waxay ku-jiraan bogag far-weyn.
+Qunxixxic kee koboxxowteh tan arooca luk tan waraaqatak garca, ken kibbi xaladhabba acayuk geytima. Kaxxa marih waraaqat yayse doorit kinni, kaadu nanu acayuk geytimna [free printable dementia activities](/activities/printable/) kaxxa bilsih waraaqat le.
 
-## Maxaa la-diyaariyaa
+## Macah xayyowsaana
 
-- **Qalab adag oo-fudud-qabsada.** Kaalo-bohah weyn, markaaʼ-weyn, ama qalam-midab oo gacan-qabsaʼ ballaaran leh ayaa ka-fudud qalam-yar.
-- **Midabyo yar.** Saddex ama afar midab way-ku-filan yihiin. Doorasho badan ayaa-kaʼ-ah yaabinaysa.
-- **Waraaqa adag ama kaarar.** Waraaqa-yaraʼ way-jabtaa oo way-ku-dhacdaa. Geesaha ku-xiran ama clipboard isticmaal.
-- **Miis nadiif ah.** Wax-kasta ka-saar oo hal bog-keliya hadda ku-dhig.
-- **Shey lagu-dhibiyo ama lagu-isku-daro,** sida maro ama sifoon, si midabka-jilicsan loo-helo.
+- **Qaxbaah, yibiddik sissikah tan qiddo.** Kaxxa kullay qalam, qaxbah maarkeritte, hinnay sissikah yibiddik geytima kullaay qalam sissikah tanoomik yaysi.
+- **Xabbacowah tan kullay doora.** Sidiica hinnay affara kulla gida kinni. Mangi doorit kas-kibbi kalta.
+- **Qaxbaah tan waraaqat hinnay kartoon.** Xaxxi-waraaqat daggoytaah sissikaama. Gariiroor gabaata kal hinnay waraaqat yibiddih qiddo gicil.
+- **Baxaaxik tan meesa.** Taamoomit mayallinnim kalisaay, inki waqdi inki waraaqat xayyowsa.
+- **Elle cuqqusaanah hinnay xorqotan qiddo,** saaru hinnay isfanji innah tan, xabbacowaah xala-le bilsi geyaanam keh.
 
-## Kaalo-cabbiyaha tablet-ka
+## Taableetal kulla hayya
 
-[Ciyaarta kaalo-cabbiyaha](/games/coloring/) ee Golden Moments waxay ku-shaqeysaa markaad midab taabato, kadibna qeyb sawirka ka mid ah taabato. Gacan-xakameyn-weyn ma-u-baahnaa, sidaas darteed waxay ku-habboon tahay dadka gacantooda ay-liidatay. Qofka ku-dhow fadhii si aad shaashadda-wadaaga, ìyo qofka midabka u-dooro. Ogeysiisyada damii si sawirku-u-noqdo xuduudda.
+Golden Moments addal tan [coloring game](/games/coloring/) kullal tabaq haytaah dumaat masalih gabaat tabaq haytaamal taamita. Ah gaba-qunxi xiikiyya ma-yallissa, toomah gabah dudda daggoowteh tan marah meqee taama takke. Isin qokolta numih catoot digi shaasha inkih taabaleenim keh, kaadu kullaala ken dooraay xaba. Waraaqatak yawqe xabaraara kalisa shaashat masal inkih yaabaleenim keh.
 
-## Sida lagu-kaalo-cabbiyo wada-jir
+## Mannal inkih kulla haytan
 
-1. **Xarfaha-ugu-horreeya wada-bilow.** Kaalo-bohaha la-qabo, ama gacantaada gacantooda dul-dhig dhowr xaraf-yaraʼ, kadibna sii dayn.
-2. **Midabka iyo meelaha ka-hadal.** "Waa buluug aad u-qurxan. Meel-mataanaa midabkaas biyo ka-aragteen?" wuxuu wada-hadal-ka-dhigayaa iyada oo aan su'aal-ku-dhicin.
-3. **Doorashooyinka ammaan, ma-ahaʼ hagaagga.** "Midabyo kulul-ah ayaad dooratay" ayaa ka-wanaagsan "Khatt-ka-ma-dhaafin."
-4. **Qofku hogaanke ha-noqdo.** Haddii ay-doonto in bogga oo dhan-ku-qoraan, u-oggolaʼ.
-5. **Joogso markay joogsato.** Kaalo-bohaha dhig, ìyo shaah ama socod ku-talin.
+1. **Naharsi xariirat inkih qimmisa.** Kullay qalam ken luk yibida, hinnay ku gaba ken gabat xayaay dagoo xariir abteenik lakal xaba.
+2. **Kullaala kee aroocah caagid yaaba.** "Tah meqe buluukulla kinni. Lee ta kullat elle tuble araca tayxigee?" axcuk yaab geyan fannat mayaninik.
+3. **Doortiinik faatisa, xariir caddok hinna.** "Kacan-le kullaala doorte" yaanam yaysi, "Xariirat addat teede" yaanamik.
+4. **Kena fanta-axaw taca.** Inkih tan waraaqat xorqotiyyak faxeeni tekkek, ken xaba.
+5. **Ken gaba-gac waqdi xaba.** Kullay qalamitte oobisa, kaadu shaay kubbaayata hinnay gexsoh yaaba.
 
-## Sida loo-beddelo markay dementia-ku-beddelato
+## Kas-bayti korsita waqdi caddosiyya
 
-Marka hore, dadku badanaa gorfaha-faahfaahsan ayay ku-raaxaystaan, ìyo midabka iyo naqshadda way-dooran karaan. Marka dhexe, sawirro weyn iyo doorasho yar ayaa-caawiya. Marka dambe, shaqal weyn, warqad midab-jilicsan, ama kaliya kaalo-bohaha-gacanta-ku-qabso intaad-hees-ka-humminayso ayaa isku-day. Dadka qaarkood sawir dhammaaday-ka-eegidda ayay ka-raaxaystaan intaasi-ka-badan sawir-sameynta.
+Naharsi caddot, mari baxaaxik tan waraaqat faxaah isi kullay doora kee masal dooraanam xiqtana. Fan-caddot, kaxxa masalitte kee dagoo doora qokol taca. Lakal-caddot, inki kaxxa qibaaro, xala-le waraaqat, hinnay kullay qalam yibiddik gita-qangoota yaalliyya kusaqsa. Mangi mari gabat-gaceh yan masal wagitto faxa, abaanamik yaysi axcuk.
 
-Hawlaha farshaxanka ee marxaladaha kala-duwan, eeg [farshaxanka iyo gacan-shaqada dadka-weyn ee dementia qabbaʼ](/activities/arts-and-crafts/) ìyo [mashaariicda farshaxanka ee dadka dementia qabbaʼ](/activities/art-projects/).
+Kulli caddot qibaaroh taamoomik mango caagid geytuh, [arts and crafts for adults with dementia](/activities/arts-and-crafts/) kee [art projects for people with dementia](/activities/art-projects/) wagit.
 
-## Goorta la-joogsado
+## Waqdi elle xaban
 
-Joogso haddii qofku-niyad-jabto, waraaqa-ka-riixo, ama uu-daalan yahay. Laba daqiiqo kadib joogsashadu waa guul haddii ay-ku-raaxaysatay. Waad-ku-noqon kartaa mar kale, ama sawir kale ama hawl kale sida [ciyaarta dareenka](/activities/sensory/) isku-day.
-
-<system-reminder>
-Note: this Afar version was produced without a native-speaker check. Please have a fluent Afar speaker and a dementia-care specialist review it before publishing.
-</system-reminder>
+Isin qokolta num xalay dhabeek, waraaqat iima kaak yekkee, hinnay qawwalik yublek gabat-gaca. Namma daqiiqat xaban kaxxa gaba-gac kinni ken fannat tekke tekkek. Sarrah gacanam xiqtana, hinnay aka masal kusaqsaana hinnay [sensory play](/activities/sensory/) innah tan aka taama kusaqsaanam xiqtana.

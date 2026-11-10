@@ -1,34 +1,34 @@
 ---
-title: "Akyiwadeɛ Nneɛma Ti Dementia Ano? Nea Adesua Kyerɛ"
-seoTitle: "Akyiwadeɛ Nneɛma Ti Dementia Ano? Adesua Nsɛm"
-description: "Nea nhwehwɛmu kyerɛ wɔ akyiwadeɛ nneɛma ne dementia ho: adwene ahodoɔ, kɔmputa akyiwadeɛ, ACTIVE nhwehwɛmu ne FTC Lumosity asɛm, ɛne tebea a wɔkyerɛ yie."
+title: "Adwene Agodie Ebesiw Dementia? Nhwehwɛmu No Kyerɛ Dɛn"
+seoTitle: "Adwene Agodie Ebesiw Dementia? Nhwehwɛmu No"
+description: "Nhwehwɛmu no ka adwene agodie ne dementia ho: adwene so boa, kɔmputa adwene agodie, ACTIVE nhwehwɛmu ne FTC Lumosity asɛm, akyerɛkyerɛ a ɛyɛ mmerɛ."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Akyiwadeɛ neɛma biara nni nhwehwɛmu a ɛkyerɛ sɛ ebi ti dementia ano. Kɔmputa
-  akyiwadeɛ boa ma nipa tu mmirika wɔ nneɛma a wɔsua no nko ara. ACTIVE
-  nhwehwɛmu no kyerɛɛ sɛ nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm, ne nkɔsoɔ a wɔsuaa
-  bio, nam so, nnipa bi dementia yiyi ase bɛtɔ mmere 20 mu, nanso ɛyɛ asɛm a
-  ɛtra. Ma nnipa a wɔwɔ dementia dada, adwene ahodoɔ wɔ nkommɔ mu boa ma ɛyɛ
-  kakra wɔ mmere tiaa mu. Akyiwadeɛ neɛma yɛ dɛ sɛ wobɛdi wɔn anigye ne nnipa
-  ka ho.
+  Biribiara a wɔahwehwɛ no nkyerɛ sɛ adwene agodie biara ebesiw dementia ano.
+  Kɔmputa adwene agodie kɛse no boa nnipa ma wɔyɛ nneɛma a wɔsua no yiye.
+  ACTIVE nhwehwɛmu mu baabi a wɔyɛɛ ntɛmntɛm adwene nhyehyɛe bi ne mmoa
+  mmienu afi ase kɔɔ so, dementia nsɛm bi bɛba nnipa ahama bi so afe 20 mu,
+  nanso nsɛm no yɛ tiaa. Ma nnipa a wɔwɔ dementia dedaw no, adwene so
+  nhyehyɛe a wɔyɛ mmoa mu no ma ahoɔfɛ a ɛyɛ kakraa bi ba nɔhare kakra. Agodie
+  yɛ de ma anigye ne abusuafoɔ.
 keyPoints:
-  - "Akyiwadeɛ nhwehwɛmu kyerɛ sɛ nnipa tu mmirika wɔ nneɛma a wɔsua no mu, nanso ɛnyɛ kakraa sɛ eyi kɔ asetena so."
-  - "Wɔ ACTIVE nhwehwɛmu mu no, nnipa a wɔsuaa nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm ne nkɔsoɔ a wɔsuaa bio nko ara na wɔnyaa dementia yiyi ase kakraa mmere 20 mu. Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm a ɛnni nkɔsoɔ a wɔsuaa bio, ne adwene a wɔsuaa wɔ nkaeɛ ne adwene mu, nkyerɛɛ saa."
-  - "Wɔ 2016, Lumosity a ɔyɛ no yɛɛ $2 million de bɔɔ FTC ka a ɛka sɛ wɔnni nhwehwɛmu a ɛboa wɔn nkɔmmɔ wɔ nkɔsoɔ a ɛbɛtwe dementia ho asɛm ho."
-  - "Ma nnipa a wɔwɔ dementia kakraa kɔ akɔsi sɛ ɛyɛ den kakra, adwene ahodoɔ wɔ nkommɔ mu boa wɔn adwene ne nkɔsoɔ a ɛbɛma wɔn nkɔsoɔ mu nkɔ so ntɛm wɔ mmere tiaa mu."
-  - "Golden Moments nneɛma yɛ anigye ne bere a wɔde nnipa nyinaa ka ho. Wɔnyɛ ayaresa, na wɔnnye dementia ntwe anaa ɛnnyɛ no ntɛm."
+  - "Adwene agodie nhwehwɛmu kyerɛ sɛ nnipa tumi yɛ nneɛma a wɔsua no yiye, nanso nsɛm kakra pɛ na ɛda so sɛ saa tumi no bɛkɔ wɔn nnɛyɛe a wɔyɛ da biara mu."
+  - "Wɔ ACTIVE nhwehwɛmu no mu, nnipa a wɔyɛɛ ntɛmntɛm adwene nhyehyɛe bi ne mmoa mmienu nkutoo na dementia nsɛm kɔɔ fam ase afe 20 mu. Ntɛmntɛm adwene nhyehyɛe a wɔnnyɛ mmoa mmienu ne adwene nkaebɔ ne adwene nhwehwɛ nni saa nsɛm yi."
+  - "Wɔ afe 2016 mu no, Lumosity a ɔyɛ ne kɔmputa agodie no de $2 million totoo US Federal Trade Commission (FTC) asɛmmisa a wɔkyerɛɛ sɛ wɔnni nhwehwɛmu a ɛboa ma wɔka sɛ ne agodie tumi twe dementia ase."
+  - "Ma nnipa a dementia wɔ mu kakraa kɔsi ntɛm kɔ so no, adwene so nhyehyɛe a nnipa wɔ mu ma ahoɔfɛ ba nɔhare ne ɛmma ahosɛm bi ba nkɔmhyɛ, nkɔmmɔ ne nkɔmmɔ mu mmoa."
+  - "Golden Moments agodie yɛ de ma anigye ne bere a wɔde ka bom. Ɛnyɛ ayaresa, na ɛnnyɛ dementia ebesiw ano anaa ɛnnsɛ ne nantew."
 faq:
-  - q: "Akyiwadeɛ nneɛma ti Alzheimer's ano?"
-    a: "Akyiwadeɛ neɛma biara nnyɛ nhwehwɛmu a ɛkyerɛ sɛ ɛti Alzheimer's anaa dementia foforo ano. National Institute on Aging ka sɛ nhwehwɛmu nni dodow a ɛboa sɛ kɔmputa akyiwadeɛ no tumi yɛ sɛ nhwehwɛmu mu nneɛma no. Nneɛma yi bɛyɛ bere a ɛyɛ anigye wɔ hɔ."
-  - q: "ACTIVE nhwehwɛmu kyerɛɛ dɛn wɔ nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm ne dementia ho?"
-    a: "Nhwehwɛmu a wɔyɛe wɔ 2026 no de ACTIVE nnipa no nsɛm kɔɔ Medicare abakɔsɛm mu mmere 20 mu. Nnipa a wɔsuaa nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm ne bio koraa no, wɔn a wɔyɛe dementia yiyi ase no yɛ kakra sen wɔn a wɔammɔ adwene wɔ nkommɔ mu. Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm a ɛnni nkɔsoɔ a wɔsuaa bio, ne nkaeɛ anaa adwene nkommɔ, nkyerɛɛ nsɛm a ɛyɛ mmaa."
-  - q: "Nneɛma a ɛma ntease ne akyiwadeɛ boa ma nipa a ɔwɔ dementia dada anaa?"
-    a: "Ɛboa sɛ nipa no ani gye ho. Nkommɔ a wɔyɛ ma wɔn a wɔwɔ dementia, a ɛka nsɛm, ntease ne nnwom ne nkɔmmɔ ho, kyerɛ sɛ ɛboa kakra wɔ mmere tiaa mu ma adwene, ne ɛboa sɛ nkɔmmɔ ne nkɔsoɔ nnipa ntam yɛ kɛse. Anigye ne ɛyɛ nea ɛsɛ sɛ yɛhwehwɛ, na ɛnyɛ nsɛmfua no ho."
-  - q: "Adɛn nti na FTC bubuu Lumosity sika?"
-    a: "Wɔ 2016, Federal Trade Commission kae sɛ Lumos Labs yɛɛ ka wɔ ne nneɛma ho, a ɛka sɛ ɛbɛyɛ sɛ nkɔsoɔ a ɛfa mmere ho ne dementia bɛtwe, nanso wɔnni nhwehwɛmu a ɛboa saa ka no. Kompani no pɛɛ sɛ ɔbɛtua $2 million, na ɔbɛhyɛ nsa sɛ ɔbɛhwehwɛ nhwehwɛmu a ɛyɛ nokorɛ ansa na wakyerɛ saa nsɛm bio."
+  - q: "Adwene agodie ebesiw Alzheimer's anaa?"
+    a: "Dabi. Wɔnhunu adwene agodie biara a ɛbɛsiw Alzheimer's anaa dementia foforo biara ano. US National Institute on Aging ka sɛ nhwehwɛmu nni so sɛ kɔmputa adwene agodie a wɔtɔn no tumi ara ɛyɛ nneɛma a wɔhwehwɛɛ wɔ nhwehwɛmu mu. Agodie bi bɛtumi ayɛ bere a ɛyɛ anigye ma ɛfa bere a wɔde bɛkɔ."
+  - q: "ACTIVE nhwehwɛmu huu dɛn wɔ ntɛmntɛm adwene nhyehyɛe ne dementia ho?"
+    a: "Afe 2026 nhwehwɛmu bi de ACTIVE nnipa no ne Medicare nsɛm (US gov't health insurance for older adults) toto afe 20 mu. Nnipa a wɔyɛɛ ntɛmntɛm adwene nhyehyɛe ne mmoa baako anaa sen saa nkutoo na dementia a wɔkyerɛɛ wɔn no bɛba wɔn mu kɔɔ fam sen nnipa a wɔnyɛɛ adwene nhyehyɛe biara. Ntɛmntɛm adwene nhyehyɛe a wɔnnyɛ mmoa, ne adwene nkaebɔ anaa adwene nhwehwɛ nhyehyɛe, nni nsusuwii a ɛyɛ hɔ."
+  - q: "Ebia agodie ne nneɛma a ɛwɔ mfonyin ne nneɛma a ɛboa dementia wɔ hɔ ma obi a ɔwɔ dementia dedaw?"
+    a: "Ɛbɛtumi ayɛ yie sɛ ɔpɛ, na ɛyɛ nea ɔpɛ. Adwene so nhyehyɛe a nnipa wɔ mu, a ɛka nsɛmfua agodie, nneɛma a ɛboa adwene, nnwom ne ɛyɛ nkɔmhyɛ, ma ahoɔfɛ a ɛyɛ kakraa bi ba nɔhare kakra ne ntɛmntɛm mu ne ɔkwan a ɛboa ma nkɔmmɔ ne ɛyɛ nkɔmmɔ mu ma ahoɔfɛ kɛse. Anigye na ɛsɛ sɛ yɛhwehwɛ, na ɛnyɛ nsɛmmisa ho mfomsoɔ."
+  - q: "Adɛn nti na FTC totu Lumosity ka?"
+    a: "Afe 2016 mu no, FTC kyerɛɛ sɛ Lumos Labs yɛe nkɔsɔfoɔ ka nneɛma a ɛfa ne agodie ho, a ɛka sɛ ɛbɛma ɛbɛyɛ nsɛm a ɛfa bere ne dementia ho, nanso wɔnni nhwehwɛmu a ɛboa ma wɔka saa nsɛm no. Kompani no pene sɛ wɔbɛtua $2 million, na wɔbɛhwehwɛ nhwehwɛmu a ɛyɛ nokware ansa na wɔaka saa nsɛm bio."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -59,87 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Akyiwadeɛ nneɛma wɔ baabi nyinaa, na bebree hyɛ bɔ sɛ wɔbɛma wo adwene atena ase daa. Sɛ wo ne obi a wodi ho dwuma wɔ dementia, anaa wo ho wo ho hwehwɛ wo kokoam ho a, ɛyɛ nea ɛma wobisa sɛ ebia wɔn no boa. Ɛnyɛ nea ɛma wo ho nhwɛ mu no ara, na yɛbɛkyerɛ wo nea nhwehwɛmu kyerɛ ankasa, nea ɛyɛ anigye ne nea ɛnyɛ saa.
+Kɔmputa adwene agodie wɔ hɔ ɛnneɛ, na bi ka sɛ ɛbɛma wo adwene ntena yie. Sɛ wo ne obi a ɔwɔ dementia di nkɔsoɔ anaa wo ara wo ho hu sɛ wo nkaeɛ nkɔ so, ɛyɛ nea ɛba wo adwene mu sɛ ebia saa agodie yi boa. Ɛnne yɛbɛka nhwehwɛmu no nneɛma a ɛwɔ hɔ, nea ɛyɛ anigye ne nea ɛnyɛ saa.
 
-Eyi yɛ amanneɛ a ɛfa asetena ho, nanso ɛnyɛ ayaresa afotu. Hwɛ yɛn [akwankyerɛ a ɛfa ayaresa ho amanneɛ](/medical-disclaimer/).
+Eyi yɛ amanneɛ a ɛfa ayaresa ho nkyerɛ mo, na ɛnyɛ ayaresafoɔ afotu. Hwɛ yɛn [ayaresa kyerɛkyerɛ](/medical-disclaimer/).
 
-## Akyiwadeɛ nneɛma ti dementia ano?
+## Adwene agodie ebesiw dementia anaa?
 
-Akyiwadeɛ neɛma biara nni nhwehwɛmu a ɛkyerɛ sɛ ɛti dementia ano. National Institute on Aging (NIA) kuruwa sɛ nnipa nhwɛ yie wɔ nkyerɛaseɛ a ɛka sɛ kɔmputa ne ɔkwan so akyiwadeɛ nneɛma boa ma adwene yɛ mmerɛ. Wɔka nso sɛ nhwehwɛmu nni dodow a ɛkyerɛ sɛ kɔmputa akyiwadeɛ app a wɔtɔn no tumi yɛ sɛ nhwehwɛmu mu akyiwadeɛ a wɔyɛe no ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Adwene agodie biara remmɔ dementia ano. US National Institute on Aging (NIA) kyerɛkyerɛ nnipa sɛ wonhwɛ yie wɔ nkɔmhyɛ a ɛka sɛ kɔmputa ne intaanɛt agodie tumi ma nkaeɛ yɛ den, na ɔka sɛ nhwehwɛmu nni so sɛ kɔmputa adwene agodie biara a wɔtɔn no tumi ara te sɛ nhwehwɛmu mu adwene nhyehyɛe ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Ɛnyɛ sɛ nneɛma no nni baabi so, nanso ne botae yɛ anigye, nnipa ka ho ne nkɔsoɔ ho. Ɛnyɛ sɛ ɛbɛboa obiara ahwɛ dementia so.
+Saa nso nkyerɛ sɛ agodie yɛ hwee. Ɛkyerɛ sɛ ne mfaso ne anigye, abusuabɔ ne nhyehyɛe, na ɛnyɛ sɛ ɛbɛbɔ obi ho ban afi dementia ho.
 
-## Dɛn ne "near transfer", na adɛn nti na ɛho hia?
+## Dɛn ne "near transfer", na ɛdɛn nti na ɛho hia?
 
-Sɛ wosua adwuma bi a, wunya nkɔsoɔ wɔ saa adwuma no mu. Nhwehwɛfo frɛ saa nkɔsoɔ yi training effect. Asɛm a ɛyɛ den sen biara ne sɛ, nkɔsoɔ no kɔ adwuma foforo mu anaa? Ɛkɔ nneɛma a ɛte saa so (near transfer) anaa ɛkɔ abrabɔ a ɛda so ara, te sɛ nkaeɛ nsɛm a wobɛkae anaa sika a wobɛhwɛ (far transfer).
+Sɛ wosua adwuma bi yiye a, wobɛyɛ no yie. Nhwehwɛfoɔ frɛ yei training effect. Nea ɛyɛ ɔsɔre ne sɛ, ɛsɛ sɛ nneɛma a wɔsua no no baa adwuma a ɛte saa anaa nnɛyɛe a yɛyɛ da biara mu (far transfer) mu.
 
-Nhwehwɛmu kɛse a wɔyɛe wɔ 2016 hwehwɛɛ nhwehwɛmu a akyiwadeɛ kompani no bɔɔ kɛse wɔ ne mmoa so no. Ɛhunuu sɛ nhwehwɛmu no kyerɛ sɛ nnipa tu mmirika wɔ nneɛma a wɔsuaa no mu dodow, nanso ɛnyɛ dodow sɛ wɔtu mmirika wɔ nneɛma a ɛtɔ so, na nkɔsoɔ no kɔ abrabɔ a ɛda so ara adwene mu nso nni dodow. Nhwehwɛmu bebree nso nyaa nsakrae a ɛma ɛnyɛ den sɛ wobɛka nokware asɛm ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Afe 2016 mu nsɛmfua a ɛkɔ akyiri bi, nhwehwɛfoɔ hwehwɛɛ nhwehwɛmu a adwene agodie kuw kyerɛɛ sɛ ɛyɛ wɔn nsɛm titiriw. Wɔhunuu sɛ nnipa tumi yɛ nneɛma a wɔsuaa no yie, nanso nsɛm a ɛkyerɛ sɛ saa tumi no kɔ nneɛma a ɛtɔ mu no yɛ kakra, na nsɛm a ɛkyerɛ sɛ adwene agodie boa nnipa ma wɔte nneɛma a yɛte da biara ase no nni hɔ. Nhwehwɛmu bebree nso nni nhyehyɛe a ɛma ɛyɛ den sɛ yɛbɛka nsɛm pefee ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## Dɛn na nsɛmmisa ka wɔ kɔmputa akyiwadeɛ ho?
+## Nsɛm bɛn na nhwehwɛmu no ka faa kɔmputa adwene so nhyehyɛe ho?
 
-Cochrane nsɛmmisa, a ɛboa nhwehwɛmu a ɛyɛ pa a wɔayɛ no nyinaa ano, ahwehwɛ kɔmputa akyiwadeɛ a ɛtenaa bere a ɛyɛ dapɛn 12 anaa ɛboro saa:
+Cochrane nhwehwɛmu, a ɛboa ma wɔbɔ nhwehwɛmu a ɛwɔ hɔ ano, ahwehwɛ kɔmputa adwene so nhyehyɛe a ɛkɔɔ so bere a ɛyɛ nkɔsoɔ 12:
 
-- **Nnipa a wɔyɛ ahoɔden a wɔn afe ne 65 anaa ɛboro saa:** nhwehwɛmu nsia, nnipa 1,183. Nhwehwɛmu no ne tumi a ɛbrɛ ase anaa ɛbrɛ ase kɛse. Ebia ɛboaa kakra bere a wɔtɔɔ akyiwadeɛ no awie, nanso nhwehwɛmu no nkyerɛ sɛ ɛbɛtena ase kɔsi bere bɔne ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **Nnipa a adwene wɔ mmerɛ kakra (mild cognitive impairment):** nhwehwɛmu nsia, nnipa 660. Nhwehwɛmu biara nka sɛ nnipa no nyaa dementia anaa, na nsɛm no ye sɛ wɔbɛtumi ayɛ afotu koro ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Nnipa a wɔnnyɛ dementia a wɔn mfe yɛ 65 anaa ɛboro saa:** nhwehwɛmu 8 a nnipa 1,183 wɔ mu. Nsɛm no yɛ tiaa anaa ɛyɛ sɛ tiaa paa. Ebia ɛboa kakraa bi bere a wɔwie adwene so nhyehyɛe no, nanso nsɛm a ɛkyerɛ sɛ ɛtena so no nni hɔ ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Nnipa a wɔwɔ adwene nkaeɛ kakraa:** nhwehwɛmu 8 a nnipa 660 wɔ mu. Nhwehwɛmu biara amma yɛnim sɛ nnipa no bɛyɛ dementia anaa, na nsɛm no yɛ tiaa sɛ ɛbɛma yɛbɛtumi aka nsusuwii ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## ACTIVE nhwehwɛmu no kyerɛɛ dɛn?
+## ACTIVE nhwehwɛmu huu dɛn?
 
-ACTIVE yɛ US nhwehwɛmu kɛse a ɛfii 1998 mu, nnipa 2,802 a wɔn afe ne 65 anaa ɛboro saa ne wɔn a wɔtena wɔn ara ara ne wɔn a wɔnnyɛ adwene mmerɛ kɛse wɔ nkaeɛ anaa nteaseɛ mu na wɔfaa wɔn. Wɔkyɛɛ wɔn ma wɔsuaa ɔkwan biara mu nkɔsoɔ kakra (nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm, nkaeɛ, anaa nteaseɛ) anaa wɔhyɛɛ wɔn a wɔnni nkitahodie mu. Nkɔsoɔ no bɛyɛ nkɔmmɔ 10 wɔ dapɛn 5 anaa 6 mu. Nnipa a wɔwiee nkɔmmɔ no pii no, wɔde bio ma wɔn bere a ɛyɛ dapɛn 1 ne mfe 3 akyi.
+ACTIVE yɛ US nhwehwɛmu kɛse a ɛfii ase afe 1998 wɔ nnipa 2,802 a wɔn mfe yɛ 65 anaa ɛboro saa, a wɔte wɔn ara ase, na adwene nkaeɛ anaa adwene nsɛm kɛse nni wɔn so. Wɔkyɛɛ nnipa no kɛkɛ wɔ ntɛmntɛm adwene nhyehyɛe mu mmiensa (nneɛma a wɔhwɛ ntɛmntɛm, nkaebɔ, anaa adwene nhwehwɛ) mu biako, anaa wɔde wɔn sɛ wɔnnyɛ hwee. Nhyehyɛe no yɛ mmɔden bebree wɔ nnanan kɔsi nnawɔtwe abien anaa abiɛsa mu. Nnipa a wɔwiee nhyehyɛe no mu sɛɛ ara no, wɔfrɛɛ wɔn bio wɔ mmerɛ bi ase afe baako ne mmiensa so mmoa.
 
-Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm no hwehwɛ nsɛm a wɔhwɛ ntɛm, ne nsɛm a ɛyɛ tuntum wɔ bere a ɛyɛ tiaa mu.
+Ntɛmntɛm adwene nhyehyɛe no kyerɛɛ sɛ wɔhwɛ nneɛma a ɛbɛba ntɛm kakraa, na nea ɛwɔ mu no tɔ so ɛkɔ so sɛnea nnipa no yɛ yie no.
 
-Wɔ 2026, nhwehwɛfo kyekyee nnipa 2,021 wɔ Medicare abakɔsɛm mu mmere 20 ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Eyi ne nea wohunuu no ankasa:
+Afe 2026 mu no, nhwehwɛfoɔ de nnipa 2,021 a wɔpaw ho no ne Medicare nsɛm toto afe 20 mu ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Eyi ne nea wohu:
 
-- **Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm ne bio koraa no:** dementia a wɔkyerɛɛ sɛ wɔyɛ no yiyi ase kakra sen nnipa a wɔammɔ adwene wɔ nkommɔ mu (hazard ratio 0.75, a ɛkyerɛ sɛ ɛyɛ 25% ketewa).
-- **Nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm a ɛnni bio:** yiyi ase no nni ketewa.
-- **Nkaeɛ anaa adwene nkommɔ:** nkyerɛɛ dementia yiyi ase nsɛm a ɛyɛ mmaa.
-- **Nkommɔ biara a wɔka ho nyinaa sen nnipa a wɔammɔ adwene wɔ nkommɔ mu:** ɛkyerɛɛ sɛ yiyi ase no yɛ ketewa kakra, nanso ɛnyɛ nsɛm a ɛyɛ mmaa wɔ ɔkwan a wɔfa so ahwehwɛ no mu.
+- **Ntɛmntɛm adwene nhyehyɛe ne mmoa baako anaa sen saa:** dementia a wɔkyerɛɛ wɔn no bɛba wɔn mu kɔɔ fam sen nnipa a wɔnnyɛɛ hwee (hazard ratio 0.75, a ɛkyerɛ sɛ ɛyɛ 25% fam).
+- **Ntɛmntɛm adwene nhyehyɛe a wɔnnyɛ mmoa:** dementia nsɛm kɔɔ fam ase.
+- **Nkaebɔ anaa adwene nhwehwɛ nhyehyɛe:** nsɛm a ɛkyerɛ sɛ dementia nsɛm wɔ ntɛmntɛm mu nni hɔ.
+- **Nhyehyɛe mmoa nyinaa bere a wɔbɔ wɔn ne nnipa a wɔnnyɛɛ hwee:** ɛyɛ sɛ dementia kɔɔ fam kakra, nanso ɛnyɛ nea ɛda so pefee.
 
-### Nsɛm a ɛtra wɔ nhwehwɛmu yi mu
+### Nsɛm a ɛde ntease
 
-- Ɛfa **nkɔsoɔ bi a wɔsua ne wɔn a wɔhwɛ so no bere a ɛyɛ ntɛm ne bio** ho nko ara, ɛnyɛ kɔmputa akyiwadeɛ nyinaa ho.
-- Nsɛm a ɛyɛ mmaa no fi **ɔkyɛ kakra** (nnipa a wɔyɛe nkɔsoɔ mfirihyia no ne wɔn a wɔmaa wɔn bio) mu, na ɛnyɛ nnipa nyinaa a wɔwɔ nkɔsoɔ a wɔsuaa bere a ɛyɛ ntɛm no mu.
-- Wɔhwehwɛɛ dementia wɔ **Medicare nsɛm mu codes**, na ɛnyɛ sɛ wɔhwɛɛ nnipa biara. Nnipa a ɛboro ɔha mmiɛnsa a wɔfiri nhwehwɛmu no mu wɔ Medicare Advantage mu, a nsɛm a ɛfa wɔn ho nni mu koraa.
-- Nnipa a wɔfiri nhwehwɛmu no mu no nni adwene mmerɛ a ɛyɛ kɛse wɔ bere a wɔfiri ase. Nhwehwɛmu no nkyerɛ asɛm biara ho ma nnipa **a wɔwɔ dementia dada** nneɛma.
+- Ɛfa **ntɛmntɛm adwene nhyehyɛe a wɔhwɛ so, a wɔyɛ mmoa, bi** nkutoo, na ɛnyɛ kɔmputa adwene agodie nyinaa.
+- Nsɛm a ɛyɛ titiriw no fi **nnipa kakraa bi** mu (nnipa a wɔwiee nhyehyɛe mfiase no mu bebree na wɔfrɛɛ wɔn bio), na ɛnyɛ nnipa nyinaa a wɔwɔ ntɛmntɛm mu.
+- Wɔhwehwɛɛ dementia **de diagnosis codes wɔ Medicare nsɛm mu**, na ɛnyɛ sɛ wɔhwɛɛ obiara ankasa. Nnipa a ɛyɛ ebe anan wɔ mpɛnsa no mu no, wɔyiyii wɔn fii nhwehwɛmu no mu, efisɛ Medicare Advantage nsɛm no nnya nsɛm nyinaa.
+- Nnipa a wɔyɛɛ nhwehwɛmu no ankasa no, adwene nsɛm kɛse nni wɔn so bere a ɛrehyɛ ase. Nsɛm a ɛfiri nhwehwɛmu yi mu no nka **nnipa a dementia wɔ wɔn so dedaw** ho hwee.
 
-Ɛyɛ nsɛm a ɛsɛ sɛ wɔsua ho ankasa, nanso ɛnyɛ sɛ kɔmputa app biara tumi ti dementia ano.
+Ɛyɛ nsɛm a ɛyɛ anigye na ɛsɛ sɛ wɔhwehwɛ mu bio, nanso ɛnyɛ adwene agodie biara ara bɛbɔ dementia ban.
 
-## Dɛn na FTC kaa ho asɛm wɔ Lumosity ho?
+## FTC kyerɛɛ dɛn wɔ Lumosity ho?
 
-Wɔ January 2016, Lumos Labs a ɔyɛ Lumosity no yɛɛ ka sɛ ɔbɛtua $2 million de bɔ Federal Trade Commission ka a ɛka sɛ wɔde nkyerɛaseɛ a ɛnni nokware bɔɔ nneɛma no. FTC kae sɛ kompani no kaa sɛ ne nneɛma tumi boa adwuma ne sukuu mu adwene, na ɛbɛtwe mmere ho nsɛm, adwene mmerɛ, dementia ne Alzheimer's, nanso nhwehwɛmu a ɛboa saa ka no nni. Wɔ ɔkwan a wɔde kyerɛɛ no mu no, ɛsɛ sɛ kompani no nya nhwehwɛmu a ɛyɛ nokorɛ ansa na wakyerɛ saa nsɛm bio ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Afe 2016 mu January, Lumos Labs a ɔyɛ Lumosity no pene sɛ ɛde $2 million bɛtua US Federal Trade Commission (FTC) asɛmmisa a ɛfa nkɔsɔfoɔ ho. FTC kyerɛɛ sɛ kompani no kaa sɛ ne agodie tumi boa adwuma ne sukuu mu, na ɛbɛma ɛbɛyɛ nsɛm a ɛfa bere ne dementia ho, na nhwehwɛmu a ɛyɛ nokware nni hɔ ma wɔka saa nsɛm no. Atemmuo no hia sɛ kompani no hwehwɛ nhwehwɛmu a ɛyɛ nokware ansa na wɔaka saa nsɛm no bio ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-Nkyerɛkyerɛ ma abusua: fa ho bɔ app, neɛma anaa nkɔmmɔ biara a ɛka sɛ ɛbɛboa wo adwene anaa ɛbɛtwe dementia ho.
+Nkyerɛkyerɛ ma abusuafoɔ ne sɛ, sɛ agodie, app anaa nhyehyɛe bi ka sɛ ɛbɛbɔ adwene ban anaa ɛbɛsiw dementia ano a, fa ahobrɛaseɛ hwɛ.
 
-## Ebia nneɛma betumi aboa obi a wɔwɔ dementia dada anaa?
+## Agodie tumi boa obi a wɔwɔ dementia dedaw anaa?
 
-Ɛboa ma da no yɛ anigye, ɛyɛ nea ɛho hia paa. Nhwehwɛmu a wɔayɛ wɔ ho pii ne **adwene ahodoɔ** (cognitive stimulation): nkɔmmɔ a ɛyɛ anigye a wɔyɛ wɔ nnipa ntam, te sɛ nkɔkɔ, nkaeɛ, nsɛm a ɛfa nkaeɛ ho, ntease ne nnwom. Ɛtaa yɛ wɔakuw ketewa mu, ɔkyerɛkyerɛfo a ɔdi kan.
+Ɛtumi ma da bi ayɛ yie, na ɛho hia paa. Adwene so nhyehyɛe a nhwehwɛmu ahwehwɛ yie ara ne **cognitive stimulation**: nnipa a wɔpɛ ne wɔn ho yɛ anigye wɔ kuw mu, te sɛ nkɔkɔaseɛ, nkaebɔ, nsɛmfua agodie, nneɛma a ɛboa adwene ne nnwom, a ɛda so yɛ wɔ mmoa kakra mu, na ɔkyerɛkyerɛfoɔ bi na ɔdi so.
 
-Cochrane nsɛmmisa a wɔyɛe wɔ 2023 hwehwɛɛ nhwehwɛmu 37 a nnipa 2,766 a wɔwɔ dementia kakra kɔ akɔsi sɛ ɛyɛ den kakra ka ho. Ɛhunuu sɛ ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Afe 2023 Cochrane nhwehwɛmu a ɛfa nhwehwɛmu 37 a nnipa 2,766 a wɔwɔ mfe kakra kɔsi mfe kɛse mu dementia wɔ mu ho no kyerɛɛ sɛ ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- **nkɔsoɔ ketewa, a ɛtena ase kakra,** wɔ adwene nhwehwɛmu so (nsɛm a ne tumi yɛ mmerɛ);
-- **nkɔsoɔ a ɛyɛ nea wɔhu wɔ ɔkwan a ɛfa nkɔmmɔ ne nnipa ntam so** (nsɛm a ne tumi yɛ kɛse, fi nhwehwɛmu kakra mu);
-- **nkɔsoɔ kakra** wɔ asetena ne ahoɔfɛ, awerɛhow ne abrabɔ mu.
+- **adwene nsɛm kakra a ɛboa kakraa bi, a ɛkɔ so kakraa** (nhwehwɛmu a ɛyɛ mmerɛ so);
+- **ɛboa paa wɔ nkasa ne nkɔmmɔ mu** (nhwehwɛmu a ɛyɛ nokware so, nanso ɛwɔ nhwehwɛmu kakra mu);
+- **nnɛyɛe kakra ma nkwa ne anigye, asetena ne ɔkwan a wɔfa so te** (ɛboa kakraa bi).
 
-Wɔhwehwɛɛ nkɔsoɔ no sɛ ɛbɛyɛ dapɛn 10 akyi, na nhwehwɛmu kakra nko na wɔhwehwɛɛ sɛ ɛbɛtena ase. Cochrane adwene ahodoɔ yɛ nkɔmmɔ a wɔhyehyɛ yie wɔ nnipa ntam, enti eyi nsɛm no nkyerɛ sɛ ɛbɛyɛ mmerɛ sɛ ɛkɔ ɔbarima anaa ɔbaa a ɔrekyea kɔmputa anaa tablet no ho pɛnkoro.
+Nnɛyɛe no kyerɛɛ sɛ ɛboaa bere a ɛyɛ nkɔsoɔ 10 a ɛdi kan, na nhwehwɛmu kakra pɛ na wɔhwehwɛɛ sɛ ɛtena so. Cognitive stimulation yɛ kuw mu nhyehyɛe a wɔhyehyɛ, enti nsɛm yi nnyɛ sɛ ɛte ase sɛ ɛbɛyɛ ma obi a ɔrekyinkyin agodie ankasa wɔ tablet so.
 
-Lancet Commission a wɔyɛe wɔ 2024 nso ka sɛ nkɔmmɔ a ɛma nnipa a wɔwɔ dementia wɔ nkɔsoɔ ho yɛ hia, sɛ ɛbɛboa wɔn ani gye ne wɔn adwene a wɔwɔ ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Afe 2024 Lancet Commission nso ka sɛ nnwuma a ɛma nnipa a wɔwɔ dementia wɔ anigye ne botaeɛ ho ho hia ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## Dɛn na nneɛma yɛ ma mmoa?
+## Dɛn na agodie yɛ yie ma?
 
-Sɛ wɔpaw yie a, nneɛma betumi ama:
+Sɛ wopɛ yie a, agodie tumi:
 
-- **Anigye.** Mmerɛ a ɛyɛ anigye kakra ho bɔne, ɛwɔ nʼankasa ho nhyira.
-- **Abusuabɔ.** Sɛ wo ne ɔno retu ntam a, ɛma wowɔ biribi a ɛyɛ mmerɛ sɛ wobɛka bom sɛ nkasa yɛ den. Hwɛ [sɛnea wobɛtu ntam](/caregiving/how-to-play-together/).
-- **Nhyehyɛe.** Adwuma a wɔnim, a wɔyɛ bere a ɛsɛ sɛ wɔyɛ da biara, betumi ama awerɛhow.
-- **Ahotoso.** Nneɛma a ɛfata nea ɔno betumi ayɛ yie ma ɔnya ahoɔden, na ɛnyɛ sɛ wɔrehwehwɛ no.
-- **Nkɔmmɔ.** Ɔwɔ a wɔhwɛ anaa ɔsɛm a wɔnim betumi ahyɛ asɛm ase. Sɔ [nkɔmmɔ kaad](/games/conversation-cards/) anaa [ka mmuaeɛ no](/games/finish-the-saying/).
+- **Ma anigye.** Anigye bere kakra yɛ ho mfaso ankasa.
+- **Ma wo ne obi abɔ abusuabɔ.** Sɛ wo ne obi di agodie no ho wɔ mpɛnsa a, ɛbɛyɛ ɔkwan a ɛyɛ mmerɛ sɛ wobɛka ho asɛm bere a nkasa yɛ den. Hwɛ [sɛnea wobɛdi agodie mu wɔ hɔ](/caregiving/how-to-play-together/).
+- **Ma nnɛyɛe a yɛyɛ da biara wɔ hɔ.** Agodie a wɔyɛ bere koro so da biara, bere koro so, bɛma ahoɔfɛ.
+- **Ma ahotɔ.** Nneɛma a ɛfata nea obi tumi yɛ yie ma obi tumi ka ne ho ahotɔ, a ɛnyɛ sɛ wɔbɔ no ho ɔkwan.
+- **Ma nkasa ne ɔkasa.** Ɔfɛ anaa abɛ a ɔnnim ne nkyerɛaseɛ bɛtumi abue asɛm. Sɛ wopɛ a, hwehwɛ [nkasa kaadi](/games/conversation-cards/) anaa [finish the saying](/games/finish-the-saying/).
 
-Nea ɛsɛ sɛ wogyina ho: bere a wɔde ahyɛ nsɛm, nkaeɛ, nkyerɛ ne nneɛma a ɛte sɛ adwene nhwehwɛmu. Sɛ ɔno ayɛ mmerɛ a, gyae. Sɛ wɔgyae ntɛm anaa wotena ɔkɔ ntam, ɛyɛ nea ɛyɛ. Yɛn [akwankyerɛ a ɛfa app ne nneɛma a wɔpaw](/caregiving/choosing-apps-and-games/) wɔ nsɛmmisa a ɛboa.
+Nneɛma a ɛsɛ sɛ wosie: bere a wɔde reka, nkontaabu, nsɛnnennen, ne nneɛma a ɛma ɛte sɛ adwene nhwehwɛmu. Sɛ obi no ho hyɛ no den a, gyae. Gyae ntɛm anaa sɛ wotena bom no, ɛyɛ nea ɛyɛ yie. Yɛn [sɛnea wobɛpaw apps ne agodie](/caregiving/choosing-apps-and-games/) kyerɛw no wɔ mu.
 
 ## Golden Moments wɔ baabi a ɛfata
 
-Golden Moments nneɛma, te sɛ [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) ne [large-print word search](/games/word-search/), yɛyɛ maa anigye ne bere a wɔde nnipa nyinaa ka ho. Wɔnni bere ne nkontaabu. **Wɔnyɛ** ayaresa, na **wɔnnye** dementia ntwe anaa ɛnnyɛ no ntɛm. Yɛpɛ sɛ yɛka eyi ho nokorɛ sen sɛ yɛbɛhyɛ bɔ a nneɛma biara ntumi nnyɛ no.
+Golden Moments agodie, te sɛ [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) ne [large-print word search](/games/word-search/), yɛ de ma anigye ne bere a wɔde bɛka bom. Wɔnni bere ne nkontaabu. Wɔnyɛ **ayaresa**, na wɔnnyɛ **dementia ebesiw ano anaa ɛnsɛ ne nantew**. Yɛpɛ sɛ yɛka eyi kyerɛ mo pefee sen sɛ yɛbɛka nneɛma a agodie biara ntumi nyɛ.
 
-## Kasa kyerɛ dɔkota
+## Ka ho asɛm ne ɔyarefoɔ
 
-Sɛ wowɔ nsɛmmɔne wɔ wo ho anaa obi a wodi ho dwuma wɔ adwene ho a, kɔ dɔkota nkyɛn, na ɛnyɛ sɛ wode wo ho to app so. Dɔkota betumi ahwehwɛ nneɛma a wɔbɛtumi asan ayɛ, na ɔbɛkyerɛ wo akwan a ɛyɛ nea ɛsen biara a nhwehwɛmu koro kyerɛ, te sɛ mogya bɔne ho nhwɛso ne ntisɛm ho nhwɛso. Hwɛ [Dementia betumi aban ano?](/brain-health/can-dementia-be-prevented/) ma nsɛm a ɛso. Sɛ wohu ntɛmntɛm nkɔmhyɛ anaa nsakrae a ɛntɛm wɔ wo mu, kɔ ayaresabea ntɛm.
+Sɛ wowɔ suro sɛ adwene bɛsesa wo ankasa anaa obi a wodi ne nkɔsoɔ, hwehwɛ ɔyarefoɔ, na mma wo nkyɛn app no nko ara. Ɔyarefoɔ bɛtumi ahwehwɛ nneɛma a wɔbɛtumi aba ase na ɔbɛkyerɛkyerɛ mo nhyehyɛe a ɛwɔ nhwehwɛmu a ɛyɛ nokware mu, te sɛ mogya kɔ so ne ntease ahwehwɛ. Hwɛ [Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) ma nsɛm a ɛsɔ mu. Sɛ wodi nsɛnnennen anaa nsakrae a ɛba ntɛm mu, hwehwɛ ayaresa ntɛm.

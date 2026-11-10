@@ -1,33 +1,33 @@
 ---
-title: "Demans yaşayanlar üçün addım-addım sənət layihələri"
-seoTitle: "Demans yaşayanlar üçün addım-addım sənət layihələri"
-description: "Demans yaşayanlar üçün addım-addım sənət layihələri: akvarel, kollaj, gil, təbaşir və yarpaq çapı, həmçinin təhlükəsiz materialların seçilməsi."
+title: "Demans üçün rəsm layihələri, addım-addım"
+seoTitle: "Demans üçün rəsm layihələri, addım-addım"
+description: "Demans olan insanlar üçün addım-addım rəsm layihələri: akvarel, kollaj, gil, təbaşir və yarpaq çapı, həmçinin təhlükəsiz yetkin rəssamlıq ləvazimatını necə seçmək."
 section: activities
 order: 28
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Demans yaşayanlar üçün sənət layihələri adətən qısa, hissə təsir edən və aydın
-  ilk addımı olanda ən yaxşı işləyir. Akvarel yayma, jurnal kollajı, yumşaq gil,
-  tünd kağızda təbaşir boyaları və ya yarpaq çapından birini sınayın və hər birinə
-  birlikdə başlayın. Zəhərsiz, böyük tutacaqlı, kiçik sərbəst hissələri olmayan
-  ləvazimat seçin və mərhələni nəzərə alın. Proses əsas məqsəddir; bitmiş əsər
-  isə əlavə xoşbəxtlikdir.
+  Demans olan insanlar üçün rəsm layihələri ən yaxşı nəticəni verir, əgər onlar
+  qısa, duyğulara əsaslanan və aydın ilk addımı olan olsa. Akvarel fonu, jurnal
+  kollajı, yumşaq gil, tünd kağızda təbaşir pastelləri və ya yarpaq çapını
+  sınayın və hər birinə birlikdə başlayın. Zəhərsiz, böyük tutacaqlı və kiçik
+  azad hissələri olmayan ləvazimat seçin və mərhələni nəzərə alaraq planlayın.
+  Əsas məqsəd prosesdir; bitmiş əsər isə əlavə sevinc sayılır.
 keyPoints:
-  - "Yalnız bir aydın ilk addımı olan layihələri seçin, məsələn fırçanı suya salmaq və ya şəkli cırmaq, ki, insan asanlıqla başlaya bilsin."
-  - "Böyük tutacaqlı, zəhərsiz ləvazimatlardan istifadə edin; kiçik hissəsi, tüstüsü və itiuclu aləti olmasın."
-  - "Birlikdə başlayın, sonra geri çəkilin. Bir çox insana davam etmək üçün yalnız ilk xətt və ya kəsik lazım olur."
-  - "Qabiliyyət dəyişdikcə layihəni uyğunlaşdırın: əvvəlki təfərrüatlı işdən sonra geniş, hissi hərəkətə keçin."
-  - "Texnikanı yox, seçimləri və toxunuşları tərifləyin və fəaliyyət xoş olmağı dayandıran kimi dayandırın."
+  - "Hər kəsin asanlıqla başlaya bilməsi üçün bir aydın ilk addımı olan layihələr seçin, məsələn fırçanı suya salmaq və ya şəkli cırmaq."
+  - "Böyük tutacaqlı, zəhərsiz ləvazimatdan istifadə edin; kiçik hissələr, tüstü və iti alətlər olmasın."
+  - "Birlikdə başlayın, sonra geri çəkilin. Bir çox insana yalnız ilk zərbə və ya kəsik lazım olur ki, davam etsin."
+  - "Layihəni insanın bacarığındakı dəyişikliyə uyğunlaşdırın: əvvəldə təfərrüatlı işdən sonra geniş, duyğulara əsaslanan hərəkətə keçin."
+  - "Bacarığı yox, seçimləri və toxunuşları təqdir edin; fəaliyyət xoşagəlməz olmağa başlayan kimi dayandırın."
 faq:
-  - q: "Demans yaşayanlar üçün hansı sənət layihələri uyğundur?"
-    a: "Yaxşı variantlar: qalın kağızda akvarel yayma, jurnal şəkillərindən kollaj, sıxmaq və əzmək üçün yumşaq gil, tünd kağızda təbaşir boyaları, yuyula bilən boyalarla yarpaq çapı, parça və ya çiçək düzümü. İnsanın maraqlarına və bacarığına uyğun olanı seçin."
-  - q: "Demans yaşayan biri üçün sənət ləvazimatını necə seçim?"
-    a: "Zəhərsiz, yuyula bilən, böyük tutacaqlı və parlaq rəngli materiallara baxın. Kiçik muncuq, düymə, parıltı, islanmış şüşə, itiuclu qayçı və yuta biləcək hər şeydən çəkinin. Allergiyaları yoxlayın, məsələn lateks əlcəklər və bəzi boyalar. Yaxşı kontrast istifadə edin, məsələn ağ kağızda parlaq rəng, və ləvazimat siyahısını qısa saxlayın."
-  - q: "Son mərhələdə olan insan sənətlə məşğul ola bilərmi?"
-    a: "Bəli, sadə hissi formalarla. Yumşaq gili sıxmağa, geniş fırça ilə su qabında boyamağa və ya toxunuşlu parça nümunələrini ayırmağa cəhd edin. Əlini istiqamətləndirmək lazım gələ bilər. Rənglər haqqında danışmaq və baxmaq da iştirak etməyin bir yoludur."
+  - q: "Demans olan insanlar üçün hansı rəsm layihələri uyğundur?"
+    a: "Yaxşı variantlara qalın kağızda akvarel fonu, jurnal şəkillərindən kollaj, barmaqla sıxmaq və əzmək üçün yumşaq gil, tünd kağızda təbaşir pastelləri, yuyula bilən boya ilə yarpaq çapı və parça və ya çiçəklərin düzülməsi daxildir. Şəxsin marağına və bacarığına uyğun olanı seçin."
+  - q: "Demans olan biri üçün rəsm ləvazimatını necə seçmək olar?"
+    a: "Zəhərsiz, yuyula bilən, böyük tutacaqlı və parlaq rəngli materiallara baxın. Kiçik muncuqlardan, düymələrdən, parıltıdan, sınıq şüşədən, iti qayçılardan və uda biləcək hər şeydən çəkinin. Allergiyanı yoxlayın, məsələn lateks əlcəklər və bəzi boyalar. Yaxşı kontrast istifadə edin, məsələn ağ kağız və parlaq rəng, və siyahını qısa saxlayın."
+  - q: "Gec mərhələdə olan insan rəsm edə bilərmi?"
+    a: "Bəli, sadə duyğu formaları ilə. Yumşaq gili sıxmağa, su dolu sinidə geniş fırçayla boyamağa və ya toxunuşlu parça nümunələrini çeşidləməyə cəhd edin. Əlinə kömək etməli ola bilərsiniz. Rənglər haqqında baxmaq və danışmaq da iştirak etməyin bir yoludur."
   - q: "Deyirlərsə ki, rəsm çəkə bilmirəm?"
-    a: "Onlara xatırladın ki, sənət bacarıq deyil, rəng və toxunuşdan zövq almaqdır. İlk xətti özünüz çəkin və davam etməyi təklif edin. Hələ də imtina etsələr, başqa fəaliyyət təklif edin; imtina və narahatlıq haqqında bələdçiyə baxın."
+    a: "Onlara xatırladın ki, rəsm bacarıq deyil, rəng və toxunuşdan zövq almaqdır. İlk zərbəni özünüz vurun və davam etməyi təklif edin. Hələ də imtina etsələr, başqa fəaliyyət təklif edin; imtina və əsəbilik haqqında bələdçiyə baxın."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -46,65 +46,65 @@ related: [activities/arts-and-crafts, activities/coloring, activities/sensory, a
 health: false
 ---
 
-Sənət layihələri demans yaşayan biri ilə vaxt keçirmək üçün dəyərli yoldur. Əlləri, gözləri və hisslərin hamısını cəlb edir və birlikdə danışmaq üçün bir mövzu verir. Bu səhifədə sadə addımlarla konkret layihələr və ləvazimatı təhlükəsiz seçmək üzrə tövsiyələr var. Yetkinlər üçün sənətin əsas prinsipləri, məsələn uşaqlara məxsus materiallardan çəkinmək, üçün [yetkinlər üçün sənət və əl işləri](/activities/arts-and-crafts/) səhifəsinə baxın.
+Rəsm layihələri demans olan biri ilə vaxt keçirmək üçün faydalı yoldur. Onlar əllərini, gözlərini və duyğularını işə salır və danışmaq üçün mövzu verir. Bu səhifədə sadə addımlarla konkret layihələr və ləvazimatı təhlükəsiz seçmək üzrə məsləhətlər var. Yetkin rəssamlığın prinsipləri, məsələn uşaq materiallarından çəkinmək üçün [demans olan yetkinlər üçün incəsənət və sənətkarlıq](/activities/arts-and-crafts/) səhifəsinə baxın.
 
-## İstənilən sənət layihəsinə necə başlamaq olar
+## İstənilən rəsm layihəsinə necə başlamaq olar
 
-1. **Başlamazdan əvvəl hazırlaşın.** Bir-iki material, qoruyucu örtük və nəmli əski qoyun.
-2. **İlk addımı göstərin.** Fırçanı suya salın, ilk parçanı cırın və ya gilin kiçik parçasını sıxın və onları da eyni şeyi etməyə dəvət edin.
-3. **Yan-yana işləyin.** Öz layihənizi yaxında saxlayın ki, fəaliyyət nəzarət kimi yox, birgə kimi hiss olunsun.
+1. **Başlamazdan əvvəl hazırlaşın.** Bir-iki material, qoruyucu örtük və nəm əski qoyun.
+2. **İlk addımı göstərin.** Fırçanı batırın, ilk parçanı cırın və ya bir az gil sıxın, sonra eyni şeyi etmək üçün dəvət edin.
+3. **Yanaşı işləyin.** Öz layihənizi yaxında saxlayın ki, fəaliyyət nəzarət kimi yox, birgə hiss olunsun.
 4. **Gördüklərinizdən danışın.** Əsəri qiymətləndirmək əvəzinə rəngləri, toxunuşları və formaları təsvir edin.
 5. **Enerji düşməmişdən dayandırın.** On-iyirmi dəqiqə çox vaxt yaxşı müddətdir.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) sənətin hissləri ifadə etmək və sənət bacarığı olmadan yaradıcı olmaq yolu olduğunu qeyd edir. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) isə fəaliyyətləri kiçik, idarə oluna bilən addımlara bölməyi məsləhət görür.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) qeyd edir ki, rəsm bacarıq tələb etmədən hissləri ifadə etmək və yaradıcı olmaq yoludur. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fəaliyyətləri kiçik, idarə oluna bilən addımlara bölməyi tövsiyə edir.
 
-## Akvarel yayma
+## Akvarel fonu
 
-Qalın akvarel kağızı, geniş yumşaq fırça və sayğac fincanlarında bir neçə rəng istifadə edin. Kağızı təmiz su ilə islədin, sonra insanın ona rəng damcılatmasına imkan verin. Rənglərin axması üçün kağızı yavaşca əyin. Nəticə plan tələb etməyən yumşaq, abstrakt şəkildir.
+Qalın akvarel kağızı, böyük yumşaq fırça və sayğac fincanlarında bir neçə rəng istifadə edin. Kağızı təmiz su ilə islədin, sonra rəngləri ona damlatmasına icazə verin. Rəngləri axmaq üçün kağızı yavaşca əyin. Nəticə plan tələb etməyən yumşaq, mücərrəd bir şəkil olur.
 
-- **Erkən mərhələ:** Rəngləri onlar seçsin və mənzərə çəksinlər.
+- **Erkən mərhələ:** Rəngləri özü seçsin və mənzərə çəksin.
 - **Orta mərhələ:** İki-üç rəng təklif edin və islatma işini özünüz görün.
-- **Son mərhələ:** Kağızı siz tutun, onlar isə süngərlə vurub yaysın.
+- **Gec mərhələ:** Kağızı tutun, onlar isə süngərlə yüngülcə vursun.
 
 ## Jurnal kollajı
 
-Çiçək, yemək, heyvan, avtomobil və ya səyahət haqqında parlaq şəkilli jurnal səhifələri toplayın. Şəkilləri böyük parçalarla cırın (kəsmək qədər çətin deyil) və karton vərəqinə yapışdırın. Hər şəkil bir xatirəyə yol aça bilər, buna görə kollaj söhbət üçün yaxşı başlanğıcdır. Seçməyi və çeşidləməyi sevən insana uyğundur.
+Çiçək, yemək, heyvan, avtomobil və ya səyahət haqqında parlaq şəkilləri olan jurnal səhifələri toplayın. Şəkilləri kəsmək əvəzinə böyük parçalarla cırın, çünki bu daha asandır, və karton vərəqinə yapışdırın. Hər şəkil bir xatirəyə yol aça bildiyi üçün kollaj söhbət üçün yaxşı başlanğıcdır. Çeşidləməyi və seçməyi sevən insana uyğundur.
 
 ## Yumşaq gil
 
-Hava ilə quruyan və ya yumşaq modelləşdirmə gili sıxıla, yuvarlana və əzilə bilər. Sadə kasa və ya düz kafel düzəldin. Gil güclü toxunuş təsiri verir, buna görə əşyaları əllə tutmağı sevən insanlar üçün sakitləşdirici ola bilər. Parçaları böyük saxlayın və itiuclu alətlərdən çəkinin.
+Hava ilə quruyan gil və ya yumşaq modelləşdirmə gili barmaqla sıxıla, yuvarlana və əzilə bilər. Sadə bir kasa və ya yastı kafel düzəldin. Gil güclü toxunma hissi verdiyi üçün əşyalarla məşğul olmağı sevən insanlar üçün sakitləşdirici ola bilər. Parçaları böyük saxlayın və iti ucları olan alətlərdən çəkinin.
 
-## Tünd kağızda təbaşir boyaları
+## Tünd kağızda təbaşir pastelləri
 
-Tünd kağız boyaların rənglərini parlaq göstərir. Böyük, yoğun boyalar istifadə edin və insanın geniş cızıqlar çəkməsinə və ya barmaq və ya kağız dəsmalla qarışdırmasına imkan verin. Boyalar tozlu olduğu üçün sini üzərində işləyin və sonra əllərinizi silin. Etiketində zəhərsiz yazılmış yumşaq boyalar seçin.
+Tünd kağız pastel rənglərini parladır. Böyük, yoğun pastellər istifadə edin və şəxsin geniş xətlər çəkməsinə və ya barmaq və ya kağız salfet ilə qarışdırmasına icazə verin. Pastellər toz buraxır, ona görə bir sinidə hazırlaşın və sonra əllərini silin. Zəhərsiz olduğu bildirilən yumşaq pastellər seçin.
 
 ## Yarpaq çapı
 
-Bağdan böyük yarpaqlar toplayın, damarlarına yuyula bilən boya sürtün və kağıza basın. Yarpağı diqqətlə qaldırın və çapa baxın. Bu layihə [həyət və bağçılıq fəaliyyətləri](/activities/outdoor-and-gardening/) ilə yaxşı uyğunlaşır və yarpaq toplamaq üçün gəzintidən başlaya bilər.
+Bağdan böyük yarpaqlar toplayın, damarlarına yuyula bilən boya sürtün və yarpağı kağıza basın. Diqqətlə qaldırın və çapa baxın. Bu layihə [açıq hava və bağçılıq fəaliyyətləri](/activities/outdoor-and-gardening/) ilə yaxşı əlaqələnir və yarpaq toplamaq üçün gəzintidən başlaya bilər.
 
 ## Parça və çiçək düzümü
 
-Toxunuşuna görə parça nümunələrini çeşidləyin və ya vazada bir neçə təzə çiçək düzün. Bunlar çox az təzyiqli hissi layihələrdir. Son mərhələdə olan insanlara da uyğundur. Daha çox ideya üçün [demans üçün hissi fəaliyyətlərə](/activities/sensory/) baxın.
+Toxunuşuna görə fərqli parça nümunələrini çeşidləyin və ya vazada bir neçə təzə çiçək düzün. Bunlar çox az təzyiqli duyğu layihələridir. Gec mərhələdə olan insanlara da uyğundur. Daha çox fikir üçün [demans olan insanlar üçün duyğu fəaliyyətləri](/activities/sensory/) səhifəsinə baxın.
 
-## Sənət ləvazimatını seçmək
+## Rəsm ləvazimatını seçmək
 
-Ləvazimat keyfiyyətdən çox təhlükəsizlik və rahatlıq üçün vacibdir. Seçərkən nəzərə alın:
+Ləvazimatın seçimi keyfiyyətdən çox təhlükəsizlik və rahatlıq baxımından önəmlidir. Seçərkən nəzərə alın:
 
-- **Zəhərsiz və yuyula bilən:** Etiketdə zəhərsiz yazısı olanlara baxın və boyaların yuyula bilən olduğunu yoxlayın.
-- **Böyük tutacaqlar:** Qalın karandaşlar, qalın fırçalar və yoğun boyalar tutmaq üçün asandır.
-- **Kiçik hissə yoxdur:** Yuta biləcək muncuq, düymə, pulcuq və boş parıltıdan çəkinin.
-- **İtiuclu alət yoxdur:** Təhlükəsiz qayçıdan istifadə edin və ya kağızı əllə cırın.
-- **Allergiyalar:** Lateksi və məlum dəri həssaslıqlarını yoxlayın.
-- **Kontrast:** Ağ və ya tünd kağızda parlaq rənglər daha asan görünür.
+- **Zəhərsiz və yuyula bilən:** Zəhərsiz yazılmış etiketlərə baxın və boyaların yuyula bilən olduğunu yoxlayın.
+- **Böyük tutacaqlar:** Nəhəng karandaşlar, qalın fırçalar və yoğun pastellər tutmaq üçün asandır.
+- **Kiçik hissələr yoxdur:** Uda biləcək muncuq, düymə, pullu və boş parıltıdan çəkinin.
+- **İti alətlər yoxdur:** Təhlükəsizlik qayçısı istifadə edin və ya kağızı əllə cırın.
+- **Allergiyalar:** Lateksə və hər hansı məlum dəri həssaslığına baxın.
+- **Kontrast:** Ağ kağız üzərində parlaq rənglər və ya tünd kağızda açıq rənglər daha asan görünür.
 - **Qısa siyahı:** İki-üç material kifayətdir. Çox seçim insanı çaşdıra bilər.
-- **Asan təmizlik:** Sini, plastik örtük və nəmli əski istifadə edin ki, çirklənmə dayanmaq üçün səbəb olmasın.
+- **Asan təmizlik:** Bir sini, plastik örtük və nəm əski istifadə edin ki, çirklənmə fəaliyyəti dayandırmaq üçün səbəb olmasın.
 
 ## Mərhələyə görə uyğunlaşdırma
 
-Erkən mərhələdə çox insan az kömək ilə layihəni planlaşdırıb tamamlaya bilər. Orta mərhələdə daha az seçim və daha çox istiqamət verin. Son mərhələdə gilin sıxılması və ya süngərlə boyanın vurulması kimi hissi proseslərə diqqət yetirin və nəticədən çox prosesdən həzz alın.
+Erkən mərhələdə çox insan az kömək ilə layihəni planlaşdırıb tamamlaya bilər. Orta mərhələdə daha az seçim və daha çox rəhbərlik təklif edin. Gec mərhələdə gili sıxmaq və ya süngərlə boya vurmaq kimi duyğu proseslərinə diqqət yetirin və nəticədən çox prosesdən həzz alın.
 
-Mərhələyə aid daha çox ideya üçün [erkən mərhələ](/activities/early-stage/), [orta mərhələ](/activities/middle-stage/) və [son mərhələ fəaliyyətlərinə](/activities/late-stage/) baxın. Əgər insan imtina edirsə və ya əsəbiləşirsə, [kimsə “yox” dediyi zaman](/caregiving/when-they-say-no/) bələdçimiz geri çəkilməyin yolunu izah edir.
+Mərhələyə xas daha çox fikir üçün [erkən mərhələ](/activities/early-stage/), [orta mərhələ](/activities/middle-stage/) və [gec mərhələ fəaliyyətlərinə](/activities/late-stage/) baxın. Əgər insan imtina edərsə və ya əsəbiləşərsə, [kimsə "yox" dediyi zaman](/caregiving/when-they-say-no/) bələdçimiz geri çəkilməyin yolunu izah edir.
 
 ## Oyunla birləşdirin
 
-Rəsm sessiyasından sonra daha sakit davam üçün planşetdə [rəngləmə](/games/coloring/) edin və ya yekun fəaliyyət üçün [şəkil tapmacası](/games/picture-puzzle/) seçin. Hər ikisi incə bacarıq tələb etmədən əlləri məşğul edir.
+Rəsm sessiyasından sonra daha sakit davam üçün planşetdə [rəngləmə](/games/coloring/) və ya son fəaliyyət kimi [şəkil tapmacası](/games/picture-puzzle/) sınayın. Hər ikisi incə bacarıq tələb etmədən əllərini məşğul saxlayır.

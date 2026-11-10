@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Doeg ok sieng",
+      "stopReading": "Dingh doeg",
+      "region": "Youxyi",
+      "restart": "Haijsi laux baez ndeu",
+      "soundOn": "Hai sieng nyoengh",
+      "soundOff": "Bit sieng nyoengh",
+      "done": "Baezneix daengz neix",
+      "feedbackQuestion": "Vanzneix miz bangxcuh lō?",
+      "feedbackYes": "Miz",
+      "feedbackNo": "Mbouj lai",
+      "feedbackThanks": "Doxceiq mwngz gangj gou rox."
+    },
+    "tile": {
+      "named": "{name}, bengx {n}",
+      "hidden": "Hingz daepyouq, bengx {n}",
+      "withState": "{label}, {state}",
+      "matched": "Duih doengz le",
+      "selected": "Gaeuq le",
+      "picture": "Hingz",
+      "photoNumber": "Ciuhbienx {n}"
+    },
+    "pairs": {
+      "allTogether": "Duih doengz liux le. Youx laux baez ndeu roxnaeuz iengh di.",
+      "photoPair": "Ciuhbienx song bengx, duih doengz le.",
+      "picturePair": "Hingz {name|lower} song bengx, duih doengz le.",
+      "selected": "{name}. Seizneix ra bengx duih de.",
+      "mismatch": "Mbouj aeu manx. Diengz hingz ndeu cix gaijcig.",
+      "mismatchNamed": "{a} caeuq {b}. Mbouj aeu manx. Diengz hingz ndeu cix gaijcig."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Diengz hingz ndeu, lauxnamh diengz bengx duih doengz de.",
+      "guidanceHidden": "Diengz song bengx biuq okdaeuj. Ra song bengx doengzmeh.",
+      "restart": "Hingz moq",
+      "sizeLegend": "Gij bengx geijlai",
+      "size": {
+        "one": "{n} bengx",
+        "other": "{n} bengx"
+      },
+      "viewLegend": "Hong youx",
+      "viewShowing": "Hingz biuq ok",
+      "viewHidden": "Hingz daepyouq",
+      "playAgain": "Aeu hingz moq youx laux baez ndeu",
+      "talk": "Caemhcungz gangj hingz"
+    },
+    "choose": {
+      "countLegend": "Hingz geijlai bengx",
+      "count": "Miz {n} bengx hawj gaeuq",
+      "thatOne": "Bengx haenx cix dwg {name|lower}. Mbouj aeu manx."
+    },
+    "findTheSame": {
+      "guidance": "Yawj hingz youq gwnz. Diengz bengx doengzmeh youq laj.",
+      "yes": "Heue, dwg {name|lower} doengzmeh.",
+      "next": "Hingz lauxnamh"
+    },
+    "shadowMatch": {
+      "guidance": "Yawj yemq youq gwnz. Diengz hingz doengz yemq haenx.",
+      "yes": "Heue, yemq haenx cix dwg {name|lower} okdaeuj.",
+      "next": "Yemq lauxnamh",
+      "shadowAlt": "Yemq aeu duih",
+      "foundAlt": "Yemq {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Diengz hingz ndeu, lauxnamh diengz hamq de roek bae.",
+      "restart": "Hingz moq",
+      "themeLegend": "Cujtiz",
+      "selected": "{name}. Seizneix diengz hamq aeu roek bae haenx.",
+      "pickFirst": "Guhgonq diengz hingz ndeu, lauxnamh diengz hamq ndeu.",
+      "hint": "{name|lower} ndaej roek bae \"{basket}\". Diengz hamq haenx aeu bae ceh.",
+      "placed": "{name|lower} roek bae \"{basket}\" le.",
+      "sorted": "Fwnh liux le. Caemhcungz yawj ndaw hamq, roxnaeuz gaeuq cujtiz moq laux.",
+      "basket": {
+        "one": "Hamq {basket}, ndaw de miz {count} bengx hingz",
+        "other": "Hamq {basket}, ndaw de miz {count} bengx hingz"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Diengz bengx ndeu, lauxnamh diengz bengx ndeu laux. Song bengx cix vuenh dieggiz.",
+      "restart": "Luanh laux baez ndeu",
+      "pictureLegend": "Hingz",
+      "pictures": {
+        "sailboat": "Ruz buemh",
+        "house": "Ruanz",
+        "balloon": "Boh hei",
+        "sunflower": "Rva daengxngenz",
+        "lighthouse": "Tah dang",
+        "cat": "Meux"
+      },
+      "sizeLegend": "Gij bengx",
+      "size": {
+        "one": "{n} bengx",
+        "other": "{n} bengx"
+      },
+      "pickedUp": "Aeu bengx neix hwnjdaeuj le. Seizneix diengz dieggiz aeu bae ceh.",
+      "whole": "{name|lower} ciemq caep liux le. Geijsiz mwngz siengz gaeuq hingz moq cix ndaej.",
+      "swapped": {
+        "one": "Vuenh le. Miz {correct} bengx youq ndaw {total} bengx ceh deng dieggiz le.",
+        "other": "Vuenh le. Miz {correct} bengx youq ndaw {total} bengx ceh deng dieggiz le."
+      },
+      "guideAlt": "Hingz cenzbuonh: {name}",
+      "guideText": "Hingz ciemq caep liux cix dwg ienghneix yawj.",
+      "piece": "Bengx youq {place}",
+      "pieceInPlace": ", youq deng dieggiz",
+      "piecePickedUp": ", aeu hwnjdaeuj le",
+      "places4": [
+        "gwnz swix",
+        "gwnz gvax",
+        "laj swix",
+        "laj gvax"
+      ],
+      "places9": [
+        "gwnz swix",
+        "gwnz gyang",
+        "gwnz gvax",
+        "gyang swix",
+        "gyang",
+        "gyang gvax",
+        "laj swix",
+        "laj gyang",
+        "laj gvax"
+      ],
+      "done": "Hingz ciemq caep liux le. Youx laux baez ndeu roxnaeuz iengh di.",
+      "playAgain": "Luanh laux baez ndeu"
+    },
+    "finishTheSaying": {
+      "guidance": "Caemhcungz doeg vahgonq neix, lauxnamh diengz vah baezlaeng aeu ciemq caep de.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Heue, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" cungj ndaej. Vahgonq caez gangj cix aeu \"{end}\" daengz liux.",
+      "revealed": "Vahgonq neix dwg \"{start} {end}.\"",
+      "choicesLabel": "Gaeuq vah baezlaeng",
+      "show": "Biengz ok vah baezlaeng",
+      "talk": "Caemhcungz gangj: ",
+      "next": "Vahgonq lauxnamh"
+    },
+    "wordSearch": {
+      "guidance": "Cawx vah baih gvangq roxnaeuz baih laj. Diengz sauhjmeh gonq, lauxnamh diengz sauhjmeh baezlaeng de.",
+      "restart": "Tiz moq",
+      "themeLegend": "Cujtiz",
+      "sizeLegend": "Keh geijlai",
+      "size": {
+        "one": "{n} x {n} ({words} diuz vah)",
+        "other": "{n} x {n} ({words} diuz vah)"
+      },
+      "print": "Dahyinj tiz neix",
+      "letterChosen": "Gaeuq sauhjmeh {letter} le. Seizneix diengz sauhjmeh baezlaeng de.",
+      "found": "Ra raen {word} le.",
+      "foundAll": "Ra raen {word} le. Cungj ra raen liux le. Youx laux baez ndeu roxnaeuz iengh di.",
+      "tryAgain": "Mbouj aeu manx. Diengz sauhjmeh gonq, lauxnamh diengz sauhjmeh baezlaeng de.",
+      "gridLabel": "Keh sauhjmeh, {n} hangz miz {n} sauhjmeh. Aeu gein gyaeujgyaep iq biuq bae biuq daeuj.",
+      "cell": "{letter}, hangz {row}, liet {col}",
+      "cellFound": ", dwg faenh ndaw vah ra raen le",
+      "wordsHeading": "Vah aeu ra",
+      "wordFound": " (ra raen le)",
+      "sheetTitle": "Ra vah: {theme}",
+      "sheetNote": "Cawx vah baih gvangq roxnaeuz baih laj.",
+      "unavailable": "Keh sauhjmeh mbouj hoxcaeuz vah neix, gvaqneix cix mbouj hawj youxyi ra vah. Cingj thư yawj youxyi hingz."
+    },
+    "coloring": {
+      "guidance": "Diengz saek ndeu, lauxnamh diengz faenh hingz ndeu.",
+      "restart": "Coet saek",
+      "cleared": "Yieb neix hung laux le.",
+      "pageLegend": "Yieb",
+      "print": "Dahyinj yieb neix",
+      "colorsLabel": "Gij saek",
+      "paintChosen": "Gaeuq {paint} le.",
+      "painted": "{part} seizneix biet bae {paint|lower} le.",
+      "artLabel": "{page}, miz {count} dieg aeu biet saek",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, mbouj biet saek",
+      "paints": {
+        "red": "Hoengz",
+        "orange": "Saekmak",
+        "yellow": "Hengz",
+        "green": "Hyoek",
+        "blue": "Lamz",
+        "purple": "Ndu",
+        "pink": "Hoengzonq",
+        "brown": "Saeknamh",
+        "sky-blue": "Saekmbwn",
+        "cream": "Hau onq",
+        "gray": "Heiq",
+        "white": "Hau"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Doeg ok sieng kat neix. Mbouj miz daeb deng daeb loek.",
+      "position": "Kat {n} ndaw {total}",
+      "themeLegend": "Cujtiz",
+      "next": "Kat lauxnamh",
+      "previous": "Kat gonqhaenx",
+      "print": "Dahyinj daengxbuonh kat",
+      "sheetTitle": "Kat caemhcungz gangjvah"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Gaeuq ciuhbienx mwngz gonq.",
+      "guidance": "Diengz ciuhbienx ndeu, lauxnamh diengz bengx duih doengz de.",
+      "restart": "Luanh laux baez ndeu",
+      "intro": "**Gaeuq 2 daengz 6 tiuz ciuhbienx** youq ndaw seidbi neix daeuj. Ciuhbienx cungj biuq youq yieb neix xwnz, mbouj songh hwnj bae roxnaeuz guenyouq.",
+      "choose": "Gaeuq ciuhbienx",
+      "chooseDifferent": "Gaeuq ciuhbienx mbouj doengz",
+      "clear": "Coet ciuhbienx",
+      "cleared": "Coet ciuhbienx youq yieb neix le.",
+      "atLeastTwo": "Cingj gaeuq iq siux song tiuz ciuhbienx.",
+      "usingFirst": "Aeu {max} tiuz ciuhbienx gonqhaenx.",
+      "skipped": {
+        "one": "Miz {count} aen vwnzgen mbouj dwg ciuhbienx raen ndaej.",
+        "other": "Miz {count} aen vwnzgen mbouj dwg ciuhbienx raen ndaej."
+      },
+      "playAgain": "Aeu ciuhbienx neix youx laux baez ndeu",
+      "empty": "Ciuhbienx mwngz caez biuq youq neix, moix tiuz cungj biuq song baez."
+    },
+    "pictureBingo": {
+      "guidance": "Dahyinj kat gonq. Lauxnamh aeu cingx hung baezceiq biuq aen heuh hingz neix.",
+      "called": {
+        "one": "{name}. Youq ndaw {total} bengx hingz heuh le {called} bengx.",
+        "other": "{name}. Youq ndaw {total} bengx hingz heuh le {called} bengx."
+      },
+      "start": "Diengz \"Hingz lauxnamh\" cix heuh hingz daih'it.",
+      "restart": "Haijsi youxyi moq",
+      "squaresLegend": "Gak youq gwnz moix aen kat",
+      "squares": "{n} aen gak ({side} x {side})",
+      "cardsLegend": "Dahyinj geijlai aen kat",
+      "cards": {
+        "one": "{n} aen kat",
+        "other": "{n} aen kat"
+      },
+      "print": {
+        "one": "Dahyinj {n} aen kat binghgo",
+        "other": "Dahyinj {n} aen kat binghgo"
+      },
+      "ready": "Mwngz yaemh ndei le cix ndaej",
+      "next": "Hingz lauxnamh",
+      "allCalled": "Moix bengx hingz cungj heuh liux le",
+      "alreadyCalled": "Heuh gvaq le",
+      "sheetTitle": "Binghgo hingz · kat {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Iencien hung hwnjdaeuj couh hoek heiq, iencien iq loengx couh cuet heiq. Hoekcuet roeg baez liux couh dingz.",
+      "paceLegend": "Cietcou",
+      "paceSlow": "Manh (moix baez 5 meux)",
+      "paceGentle": "Ngunx (moix baez 4 meux)",
+      "ready": "Mwngz vihjungh liux couh daeuj",
+      "in": "Hoek heiq",
+      "hold": "Hiemx heiq",
+      "out": "Cuet heiq",
+      "start": "Hai",
+      "stop": "Dingz",
+      "started": "Haih liux. Iencien hung hwnjdaeuj couh hoek heiq.",
+      "stopped": "Dingz liux.",
+      "finished": "Gvaq liux roeg baez hoekcuet manh. Gijmaz cibxaux couh ndaej hai baezmouq."
+    }
+  },
+  "pictures": {
+    "teacup": "Beicaz",
+    "kettle": "Auzaemx",
+    "bread": "Minbau",
+    "frying-pan": "Vang cien tr gaiq",
+    "cake": "Dangh sanghyit",
+    "sunflower": "Rox tavan",
+    "tulip": "Rox yudigim nding",
+    "watering-can": "Hud roxva",
+    "potted-plant": "Pueh roxva",
+    "tree": "Gohfaex",
+    "bird": "Roek youq gajfaex",
+    "butterfly": "Mbaqva",
+    "dog": "Ma",
+    "cat": "Meuz",
+    "fish": "Bya gim",
+    "apple": "Bingzgoj nding",
+    "pear": "Makli",
+    "strawberry": "Makcauhmeiz",
+    "banana": "Makcuj",
+    "lemon": "Makningzmungz",
+    "cherries": "Makyinghdoz",
+    "house": "Ranz",
+    "lamp": "Daeng coeng",
+    "armchair": "Dangx nauq",
+    "key": "Soz gaeuq",
+    "umbrella": "Romh",
+    "sailboat": "Ruz buem",
+    "car": "Ci gaeuq",
+    "bicycle": "Cixyingzci",
+    "balloon": "Bihgiuz heiqrex",
+    "lighthouse": "Daeng haij",
+    "sun": "Tavan",
+    "moon": "Dwen caeuq ndau",
+    "teapot": "Au caz",
+    "apple-pie": "Bauh bingzgoj",
+    "honey-jar": "Dungh namxdangz",
+    "boiled-egg": "Tr gaiq youq bei",
+    "toaster": "Loux bauh",
+    "cheese": "Naijyaz",
+    "milk-jug": "Au noemx",
+    "cupcake": "Dangh iq",
+    "orange": "Makgam",
+    "grapes": "Makbutauz",
+    "watermelon": "Makgvo nding",
+    "pineapple": "Makbohloz",
+    "peach": "Makdoz",
+    "rose": "Rox meigveiq",
+    "daisies": "Rox juz",
+    "mushroom": "Het",
+    "wheelbarrow": "Ci dax",
+    "birdhouse": "Ranz roek",
+    "cactus": "Pueh sienhnyinzcanj",
+    "acorn": "Makfaex",
+    "autumn-leaf": "Mbai faex couxcou",
+    "rabbit": "Toq",
+    "duck": "Pit",
+    "hen": "Gaiqmeh",
+    "sheep": "Yenz",
+    "owl": "Roek meuz",
+    "ladybird": "Duh buet",
+    "snail": "Hoi",
+    "frog": "Goep",
+    "bee": "Nyaenj",
+    "clock": "Cung coeng",
+    "vase-of-flowers": "Bwngz roxva",
+    "radio": "Gvangjbohgaeit gaeuq",
+    "books": "Coengz saw",
+    "candle": "Denh",
+    "glasses": "Gyaeng da",
+    "telephone": "Denva",
+    "ball-of-wool": "Giuz sae yenz",
+    "straw-hat": "Mwk fwnz",
+    "train": "Hojci heiq",
+    "bus": "Gunggungh cice",
+    "airplane": "Fihgih",
+    "suitcase": "Siengx byaek",
+    "tractor": "Tohlaihgih",
+    "rowing-boat": "Ruz vaij",
+    "rainbow": "Mboq",
+    "rain-cloud": "Fuen fven",
+    "snowflake": "Mbai naeux",
+    "kite": "Vauh",
+    "sunrise": "Tavan hwnj bya"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGHKLMNPQRSTUVXYZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Mak",
+          "words": [
+            "MAK",
+            "MAKLI",
+            "MAKDOZ",
+            "MAKGAM",
+            "MAKCUJ",
+            "MAKGVO",
+            "MANH",
+            "GAM",
+            "DOZ"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Suen",
+          "words": [
+            "SUEN",
+            "NAMH",
+            "MBAI",
+            "FANJ",
+            "MAI",
+            "RUMH",
+            "DANGZ",
+            "NYAENJ",
+            "RANGZ"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Rauq",
+          "words": [
+            "RAUQ",
+            "VANG",
+            "VAEN",
+            "DIEP",
+            "BEI",
+            "CAZ",
+            "CAEN",
+            "LOUX",
+            "HAUQ"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Thiendiq",
+          "words": [
+            "TAVAN",
+            "FVEN",
+            "RUMZ",
+            "MOK",
+            "NAEUX",
+            "BYAJ",
+            "UNQ",
+            "REX",
+            "LENGX"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Duhson",
+          "words": [
+            "MEUZ",
+            "ROEK",
+            "BYA",
+            "MAX",
+            "VAIZ",
+            "MOZ",
+            "PIT",
+            "GAIQ",
+            "TOQ"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ranz",
+          "words": [
+            "RANZ",
+            "DAENG",
+            "DANGX",
+            "COENG",
+            "TIANGZ",
+            "CAEUX",
+            "CUNG",
+            "SOZ",
+            "FANGZ"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Doxbu card",
+        "food": "Gijgwn",
+        "home": "Ranz",
+        "outdoors": "Rog ranz",
+        "animals": "Duhson",
+        "travel": "Byaij rog",
+        "work": "Gungcoz caeuq heiqyaemx",
+        "music": "Imyoz caeuq fvnhvix",
+        "seasons": "Seiq geiq"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Youq ndaw rauq, mwngz heiq ndoengqmaz hom nanz lumj?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Dangh heiq ndoengqmaz mwngz siengq ciemx youq ngoenz nyinhauq?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Gangj lox mak bauh roxnaeuz gij diuztimh mwngz gwn nanz hom ma hax."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Mwngz heiq ndoengqmaz ca roxnaeuz gahfeih gwn nanz ndei?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Gwn gijmaz guh haeuqroek caemh heiq ndei sim?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Mwngz miz baez bae doengx get mak ma?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Vanh caeuq som: ndoengqmaz mwngz gwn ndaej sim raemh?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Gijgwn ndoengqmaz baez gwn couh lumj daengz haxgeiq?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Gangj lox ranz aen mwngz youq ndaej sim nanz ndei ma hax."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Dieggoengq aen ndoengqmaz mwngz naengh ndaej sim nanz anvenh?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Haeplaemx cingsingq, mwngz heiq guh gijmaz?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Gij swhmaz mwngz siengq ceiq youq ndaw siengx aen ndei?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Mwngz siengq ciuq bouxlawz daeuj ranz ndoet ca baez?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ngoenz fven roengz, mwngz heiq guh gijmaz ndaw ranz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Youq ndaw suen, mwngz siengq damq gij roxva ndoengqmaz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Gangj lox gij faex roxnaeuz gunghyenz mwngz heiq ndei ma hax."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Youq ndaw suenva, gijmaz guh hawj sim mwngz anvenh nanz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Roxva saek ndoengqmaz mwngz yawj ndaej sim nanz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Youq ndaw ranz ceiq roxva damq faex, mwngz heiq ndei sim ma?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ngoenz daengz ndat ndei, mwngz siengq guh gijmaz nanz?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Gangj lox aen ma mwngz roxnyinh ma hax."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Meuz roxnaeuz ma, mwngz heiq aen ndoengqmaz nanz?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Youq rog ranz, mwngz nyi roxnaeuz yawjraen gij roek ndoengqmaz?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Mwngz miz baez bae doekbya roxnaeuz liengx bya ma?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Duhson aen ndoengqmaz mwngz yawjraen ndei nanz lumj?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Gangj lox aen ci mwngz heiq ndei sim ma hax."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Youq rim haij roxnaeuz youq ndaw bya, mwngz heiq dieggoengq aen ndoengqmaz?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Cawq ci byaij, mwngz siengq bae dieggoengq ndoengqmaz?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Danghnaeuz ndaej mbin gvaq dieggoengq, mwngz siengq yawj dieg ndoengqmaz?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Gangj lox baez byaij lwgrog aen mwngz heiq ndei sim ma hax."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Gungcoz heiq ndoengqmaz mwngz guh ndaej sim ndei?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Gij heiqyaemx ndoengqmaz mwngz guh liux mbouj rox laep ngoenz?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Gij swhmaz mwngz guh roxnaeuz siux ndaej ndei nanz?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Mwngz siengq gangj lox maz hawj bouxhausoengq ciemx guh gungcoz?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Gij imyoz ndoengqmaz ndaej nyi liux sim hwnj siengq doengx?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Hoiq fvnhvix guh dajngeih maz couh ndaej ndei nanz?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Boux ciengq go aen ndoengqmaz mwngz heiq nyi nanz?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Denhyiengh roxnaeuz densi aen ndoengqmaz mwngz yawj baezmouq caemh heiq ndei?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Haxgeiq daengz, gijmaz guh hawj mwngz heiq ndei sim nanz?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Couxcou daengz, gijmaz hawj mwngz heiq sim anvenh?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Haep laep laengx ndaw ranz, guh gijmaz heiq ndaej unq sim?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Gijmaz daeuj hawj mwngz roxnaeuz cuencou daengz liux?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Naeux, fven, roxnaeuz tavan ndat: ndoengqmaz mwngz heiq nanz?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Pueh roxva",
+          "regions": {
+            "sky": "Bienglaeng",
+            "table": "Coeng",
+            "stem": "Goh rox",
+            "leaf-left": "Mbai hwnz zoj",
+            "leaf-right": "Mbai hwnz iuq",
+            "petal-1": "Mbaq 1",
+            "petal-2": "Mbaq 2",
+            "petal-3": "Mbaq 3",
+            "petal-4": "Mbaq 4",
+            "petal-5": "Mbaq 5",
+            "petal-6": "Mbaq 6",
+            "petal-7": "Mbaq 7",
+            "petal-8": "Mbaq 8",
+            "center": "Sim roxva",
+            "pot": "Pueh",
+            "pot-rim": "Rim pueh"
+          }
+        },
+        "house": {
+          "name": "Ranz",
+          "regions": {
+            "sky": "Bwn",
+            "sun": "Tavan",
+            "grass": "Rumh",
+            "chimney": "Rong hoiq",
+            "walls": "Bieng ranz",
+            "roof": "Rungbwnz",
+            "door": "Caeux",
+            "window-left": "Roeng zoj",
+            "window-right": "Roeng iuq",
+            "path": "Roen"
+          }
+        },
+        "teacup": {
+          "name": "Beicaz",
+          "regions": {
+            "background": "Bienglaeng",
+            "saucer": "Diep bei",
+            "handle": "Huj bei",
+            "cup": "Bei",
+            "band": "Diuz saek bei",
+            "tea": "Raemxcaz"
+          }
+        },
+        "butterfly": {
+          "name": "Mbaqva",
+          "regions": {
+            "background": "Bienglaeng",
+            "wing-top-left": "Fwng goengz zoj",
+            "wing-top-right": "Fwng goengz iuq",
+            "wing-bottom-left": "Fwng laj zoj",
+            "wing-bottom-right": "Fwng laj iuq",
+            "spot-left": "Diengz fwng zoj",
+            "spot-right": "Diengz fwng iuq",
+            "body": "San duh"
+          }
+        },
+        "sailboat": {
+          "name": "Ruz buem",
+          "regions": {
+            "sky": "Bwn",
+            "sea": "Haij",
+            "sail-big": "Buem hung",
+            "sail-small": "Buem iq",
+            "mast": "Goh buem",
+            "hull": "San ruz",
+            "flag": "Giz"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Rauq caeuq suen",
+          "baskets": [
+            "Ndaw ranzsaeuq",
+            "Ndaw suen"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Mak caeuq doenghduz",
+          "baskets": [
+            "Mak",
+            "Doenghduz"
+          ]
+        },
+        "home-travel": {
+          "label": "Ranz caeuq lijyouz",
+          "baskets": [
+            "Ndaw ranz",
+            "Rog ranz"
+          ]
+        }
+      }
+    }
+  }
+}

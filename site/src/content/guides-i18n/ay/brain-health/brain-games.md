@@ -1,35 +1,34 @@
 ---
-title: "¿Juegonakax demencia jark'arakiti? Yatiqañanaka"
-seoTitle: "¿Juegonakax demencia jark'arakiti? Yatiqañanaka"
-description: "Yatiqañanaka: juegonaka demencia ukat, mayja yatiqañ, computadora ukan yatiqañ juegonaka, ACTIVE yatiqaña ukat FTC Lumosity yatiqaña, sapa qhanañchatañanakampi."
+title: "¿Yatiqañ kusisiñanakax amuyt'añ jark'aspa?"
+seoTitle: "¿Yatiqañ kusisiñanakax amuyt'añ jark'aspa? Yatiñanaka"
+description: "Yatiñanakax kunsa sañ sapxi yatiqañ kusisiñanaka, computadora ukan yatiqaña, ACTIVE yatiqañ ukat FTC Lumosity uñacht'äwi, sapa uñacht'ayañ."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Janiw ni mä juego demencia jark'arakiti uñjatäkaspati. Computadora ukan
-  yatiqañax, sapa qhipharux yatiqañ luräwinak sum ukaxa, jupanakax
-  amuyaskiwa. Mä yatiqañ ACTIVE ukan, sapa jaqinakax mä ch'aman yatiqañ
-  luraspa ukat yatiqañ ch'amanakaw irptasiñ sartaspa, 20 maranakan demencia
-  uñtasa uñjatäpxi, ukax jukʼamp yatiqañawa. Demencia uñtata jaqinakatakix
-  ukuna sapa uñjirinakampi yatiqañ tantachañanakax jukʼa, mayacht'asa
-  allinkañ uñjatäpxi. Juegonakax kusisiñataki ukat jakañ tuqiw sum
-  sarnaqañapawa.
+  Janiw kuna yatiqañ kusisiñas demencia jark'añ uñjatäkiti. Computadora ukan
+  yatiqañax, yatiqatap ch'iwa ukanakar sipansa jan wali uñjasi. ACTIVE yatiqañ
+  ukan, mä sapa yatiqañ ukat refuerzo sesionanak luqt'ata jaqinakax 20 maranakan
+  demencia uñjasiñanak jani wali utjapxi, ukax jiskha uñacht'äwiwa. Demencia
+  ukan sarnaqirinakatakix, uñjasiñ grupo yatiqañax jisk'a, mayni sapa
+  jiwasanakan wali uñjasiñ utjaraki. Kusisiñ ukat sapa jan wali uñjasiñ
+  sarnaqañatakix ukax wali walikiwa.
 keyPoints:
-  - "Yatiqañ juegonaka uñjatäpxi, sapa jaqix luraña luräwinakaru sum mayjtʼasaw, ukampisa lurañ luräwinakax jakañ tuqiru jukʼamp yanapt'iwa."
-  - "ACTIVE yatiqañan, mä ch'aman ch'amanakaw irptasiñ sartapxi, ukax sapa jaqinakax 20 maranakan demencia uñtasa uñjatäpxi. Ch'amanakax janiw irptasiñ sartaspati, amuyt'añ yatiqañanakax janiw ukax uñjatäkaspati."
-  - "2016 maranxa, Lumosity uñt'ayirin, FTC ukan 2 millón dólar ukaru qullqichasaw, Alzheimer ukat demencia atipaña tuqi arsutanakan janiw yatiqañ ukanakax lurkiti."
-  - "Demencia jaya-jayakan jaqinakatakix, tantachañ yatiqañanakax, mayacht'asa yatiqañ ukat parlaña ukan, jukʼa, chika uru uñjatäpxi."
-  - "Golden Moments juegonakax kusisiñataki ukat mayacht'asa pasañataki. Janiw jark'añ luräwikiti, janiw demencia jark'añ jan ukax sayt'ayañ luräwikiti."
+  - "Yatiqañ kusisiñ uñjatanakax, yatiqatap ch'iwa ukanakan jaqinakax wali uñjasipxi, ukat janiw yatiqañ ukax uru ukat sarnaqañ ukanakan jaqukatak sarañapkiti sañ amuyt'añ jark'aqapkiti."
+  - "ACTIVE yatiqañ ukan, mä sapa yatiqañ ukat refuerzo sesionanak luqt'ata jaqinakaw 20 maranakan demencia uñjasiñanak jani wali utjapxi. Mä sapa yatiqañ refuerzo sesionanak janiw, amuyt'añ ukat yatiñ yatiqañanakax janiw ukham uñacht'ayapkiti."
+  - "2016 maranxa, Lumosity uñt'ayirix US$ 2 millones lurañ amtapxi, FTC ukax akham sañ jiwasa: demencia ukat ukan wali walt'añ ukanak lurañ jan yatiñ utjkäna."
+  - "Demencia jisk'a jan ukax taypi uñjatanakatakix, uñjasiñ grupo yatiqañax jisk'a, mayni sapa uñacht'ayañ ukat parlañ ukan wali uñjasiñ utjaraki."
+  - "Golden Moments yatiqañanakax kusisiñatakiwa ukat sapa uñjasiñatakiwa. Ukanakax janiw amparat yanapañakiti, janirakiw demencia jark'añ jan ukax jiskt'añ."
 faq:
-  - q: "¿Juegonakax Alzheimer jark'arakiti?"
-    a: "Janiw, janiw ni mä juego Alzheimer jan ukax maya demencia jark'añ uñjatäkaspati. National Institute on Aging ukax siwa, computadora yatiqañ aplicaciones ukanakax yatiqañ yatiqañ pruebanakan uñjatänakjama ch'amanakaw irptasiñ sartkaspati ukaxa janiw yatiqañ sum uñjatäkiti. Juegonakax kusisiñ sarnaqañatakix sum jakañ thakiw kunawsatixa."
-  - q: "¿Kunas ACTIVE yatiqañax ch'amanakan demencia ukat uñjäna?"
-    a: "2026 maranxa, mä amuyt'awi ACTIVE ukan sapa jaqinak Medicare yatiqañanakampi 20 maranakan jikxatatäpxi. Ch'amanak irptasiñ yatiqañ luraspa ukat mä jan ukax lukʼat sarañ yatiqañ luraspa ukanakax, yatiqañ janiw lurkaspati ukanakat jukʼamp demencia uñtasa uñjatäpxi. Ch'amanak janiw irptasiñ sartaspati, amuyt'añ jan ukax yatiqañ yatiqañanakax janiw ukax uñjatäkaspati."
-  - q: "¿Uñjatax ukhamarakiw demencia uñtata jaqinakatakix juegonakax ukat rompecabezas allin ukaxa?"
-    a: "Jupanakax allinakiwa, sapa jaqix kusisiñ sarnaqañ ukax. Chiqa tantachañ yatiqañ ukat, arsut ukhamaraki katuntañ ukat parlaña ukat, jukʼa, chika uru uñjatäpxi. Kusisiñax, janiw yatiqañ jach'a ukax, amtañ jiwasanakan jaqinakax."
+  - q: "¿Yatiqañ kusisiñanakax Alzheimer jark'aspa?"
+    a: "Janiw kuna yatiqañ kusisiñas Alzheimer jan ukax yaqha demencia jark'añ uñjatäkiti. National Institute on Aging sañ sapi, comercial yatiqañ aplicaciones ukanakax yatiqañ pruebanakan uñjatänwa ukham jani utjkiti sañ jiwasa. Yatiqañ kusisiñax uñjasiñ mä walja sarnaqañ ukhamarakiwa."
+  - q: "¿Kunsa ACTIVE yatiqañ ukan uñjasïna demencia ukat speed training ukat?"
+    a: "2026 maranxa, ACTIVE jaqinakax Medicare uñachtäwinakampi 20 maranakan lup'ayatawa. Speed-of-processing yatiqañ ukat refuerzo sesionanak mayni sapa lurirnakax, yatiqañ janiwa lurirnakat sipansa demencia uñjasiñ jisk'a utjäna. Refuerzo sesionanak janiw lurirnakax, amuyt'añ jan ukax yatiñ yatiqañanakax janiw wali uñjasiñ uñacht'ayapkiti."
+  - q: "¿Ch'iwanakax ukat yatiqañ kusisiñanakax jaqinakatak walikipxi, jupanakax demencia uñjatanakan?"
+    a: "Walikipxi, jupanakax kusisipxi ukhaxa. Uñjasiñ grupo yatiqañax, arunak yatiqañanaka, ch'iwanaka, qhiti ukat parlañanakax jisk'a sapa uñjasiñ utjaraki, ukat parlañ ukat sapa jaqinakampi sarañ ukan wali uñjasiñ utjaraki. Kusisiñ ukax janiw yatiñ uñacht'äwi ukar uñjasiñ, walikiwa."
   - q: "¿Kunatsa FTC Lumosity ukar multa churapxi?"
-    a: "2016 maranxa, Federal Trade Commission ukan Lumos Labs juegonakan arsutanakap uñt'ayapxi, mä jach'a uru jan ukax demencia jark'aña ukhamanak, janiw yatiqañ amuyt'añanakax jiwasanakax jupanakax lurkapxi. Kompañiax 2 millón dólar qullqichañ ukat, yatiqañ chiqa uñjatäñ luräwinakax jutïr arsutanakax janiw ukhamarak lurañ ukax jiwasanakax."
+    a: "2016 maranxa, Federal Trade Commission ukax Lumos Labs yatiqañ kusisiñanakat lurañanakax akham sañ jiwasa: jaqinakax wali walt'añ ukat demencia jark'añ sañ arsutanakax yatiñ jan utjkäna. Kompaniax US$ 2 millones amtapxi, ukat aka arsutanakax yatiñ chiqa utjañapatak sañ sarantasiwa."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -60,175 +59,164 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Juegonaka sapa chiqanwa, mayacht'asa jupanakax sapa uñjirinakax amuyunakap
-sum uñjapxi. Jumax demencia uñtata jaqi uñjasa jan ukax nayan amuyuman
-prekupata, ukhamasti juegonakax yanapt'apxitaspa sasaw amuyasma. Akax
-chiqa yatiqañ uñjatäñ ukawa, ukat yanapt'asiñ ukat janiw yanapt'asiñ
-uñjatanakas.
+Yatiqañ kusisiñanakax sapa chiqanwa utjapxi, ukat walja jupanakax jaqin amuyt'a
+sumaw uñjapxi sasa arsapxi. Jumax demencia ukan sarnaqir jaqir uñjasma jan ukax
+mayninakan amuyt'am uñjasma ukhaxa, yatiqañ ukanakax yanapañapa sasa
+amuyasiñax wali sum utjaraki. Akax yatiñanakax kunsa uñacht'ayi, ukanakan
+wali uñjasiñanakampi jan wali uñjasiñanakapampi.
 
-Akax sapa qhanañchawa, janiw sanañ yanapt'awiti. Uñjatäñ tuqi
-[medical disclaimer](/medical-disclaimer/) uñjasma.
+Akax jach'a yatiñanakat sipansa jiskha yatiyañawa, janiw amparat yanapañ
+ukhamäkiti. Ukatpï [jan wali uñjasiñ arunakax](/medical-disclaimer/) uñakipt'apxam.
 
-## ¿Juegonakax demencia jark'arakiti?
+## ¿Yatiqañ kusisiñanakax demencia jark'aspa?
 
-Janiw ni mä juego demencia jark'arakiti uñjatäkaspati. National Institute on
-Aging (NIA) ukax yatiqañ jiwasanakar yatichaskiwa, computadora ukan jan ukax
-internet ukan juegonakax amuyunak sum uñjañ ukat jan uñjatäñ arsutanakat
-jark'añ, ukat janiw ni mä computer yatiqañ aplicación ukax clinical pruebanakan
-uñjatänakjama ch'amanakaw irptasiñ sartkaspati ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Janiw kuna yatiqañ kusisiñas demencia jark'añ uñjatäkiti. National Institute on
+Aging (NIA) sañ sapi, computadora ukan ukat internet ukan yatiqañanakax amuyt'añ
+ch'amanchañ sasa arsutanakat jaytañamawa, ukat janiw comercial yatiqañ
+aplicaciones ukanakax yatiqañ pruebanakan uñjatänwa ukham mayni utjkiti sañ
+jiwasa ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Ukax juegonakax janiw jan waliki sasaw. Jupanakan wali sum uñjatäñapax
-kusisiñ, mayacht'asa sarañ ukat jakañ thakiwa, janiw ni mä jaqir demencia
-jark'añ tuqiw.
+Ukhamarakiw yatiqañanakax jan wali sasa janiw sañkiti. Ukanakan wali uñjasiñax
+kusisiñan, sapa uñjasiñan ukat sarnaqañanwa, janiw kuna jaqirus demencia
+jark'añatakikiti.
 
-## ¿Kunas "near transfer" ukax, ukat kunatsa wali uñjatäñax?
+## ¿Kunsa "near transfer" ukat, kunatsa wali?
 
-Mä luräwi lurañ ukhamarakiw sapa jaqix jupa ukan jukʼamp sum luräwi. Yatiqirinakax
-ukar "training effect" sapxi. Jukʼamp jach'a yatiqañax ukaxa, ukax luräwi
-ukax jakañ tuqiru sartaspa sasaw, jan ukax parlt'anak luräwinakar (near transfer)
-jan ukax jakañ lurañanakar (far transfer), kunjamasa uñt'ayañ, qullqi
-amuyañ.
+Mä lurañ yatiqañ ukhax, lurañ ukan wali sum sarnaqañ. Yatiñ jiwasax ukham
+sapxi "training effect". Jach'a jisk'a jiskt'äwix, ukax yaqha lurañanakan ukat
+urunakan sarnaqañ ukanakan utjaspa.
 
-Mä jach'a 2016 amuyt'awi ukan, brain-training empresanakan utjatäpxi, ukanakat
-yatiqañ tuqi uñt'ayatäpxi. Jupanakax sapa jaqinakax yatiqañ luräwinakax sum
-mayjt'asaw uñjatäpxi, janiw jukʼamp ukhamarakiti parlt'añ luräwinakax, ukat
-jakañ tuqi yatiqañanakax janiw jukʼa uñjatäkiti. Ukanakan jukʼa yatiqañanakax
-lurañ thakinakampi ch'axwaskapxi, ukat janiw chiqa juk'amp arsutanakax
-uñt'ayañ atinkaspati ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 maranxa mä jach'a yatiñ uñakipäwix, yatiqañ kampañanakax maynit ukanak
+uñacht'ayapxi uñjasiñ ukanakar uñjasipxi. Ukanakax akham uñacht'ayapxi: jaqinakax
+yatiqatap lurañanakan wali sum sarnaqapxi, yaqha chiqanak lurañanakan jisk'a
+uñjasipxi, ukat urunakan amuyt'añanakan janiw wali uñjasiñ uñacht'ayapkiti. Walja
+yatiñanakan lurañ ukax jan wali ukhamaw utjäna, ukatwa janiw chiqa yatiñ
+uñacht'ayañax utjkiti ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## ¿Kunas Cochrane amuyt'awinakax computadora yatiqañ tuqi sasa?
+## ¿Kunsa uñacht'ayañanaka computadora ukan yatiqañ ukat sapxi?
 
-Cochrane amuyt'awinakax, sum uñjatäñ yatiqañanakar tantachañ luraspa, computadora
-yatiqañ 12 semanat sipansa ukar uñjapxi:
+Cochrane uñacht'ayañanakax, chiqa yatiñanakat ch'uqt'asitanakax, computadora
+yatiqañ 12 semanat sipansa suyt'apxi:
 
-- **Jan uñjatäñ jach'a 65 maranakan jaqinakax:** 8 yatiqañanaka, 1,183 jaqinakampi.
-  Uñjatäñax jukʼa jan ukax jukʼa sasa. Yatiqañ qhipharux jukʼa ch'amanakaw
-  irptasiñ, janiw ukax ch'aman sarañ yatiqañ uñt'atäkiti
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **Jukʼa ch'amat amuyt'añ jan waliki jaqinakax (mild cognitive impairment):** 8
-  yatiqañanaka, 660 jaqinakampi. Janiw ni mä yatiqañ demencia qhiparu
-  sarkati uñt'atäkiti, ukat uñjatäñax jukʼa sasa, janiw ukax amuyt'añanaka
-  luraña atinkaspati
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Qharuru 65 maranïr jaqinakax:** 1 183 jaqinakat 8 yatiñ. Yatiñ chiqapax
+  jisk'a jan ukax jan wali uñjasi. Yatiqañ mä kuti ukat wali uñjasiñ utjaraki,
+  ukampis janiw chiqa lupt'añ utjkiti ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Jisk'a amuyt'añ jan walinakan jaqinakax:** 660 jaqinakat 8 yatiñ. Janiw
+  yatiñ uñacht'ayañanakax demencia jark'aspa sasa uñjkiti, ukat yatiñ jisk'a
+  ukax janiw chiqa arsañ ukax utjkiti ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## ¿Kunas ACTIVE yatiqañax uñt'ayi?
+## ¿Kunsa ACTIVE yatiñ uñacht'ayi?
 
-ACTIVE ukax US ukan jach'a yatiqañawa, 1998 maranxa qalltäna, 2,802 jach'a
-65 maranakan jaqinakampi, sapa jupanakax jakañ thakinakan sarnaqapxi, janiw
-amuyt'añanakax jach'a jan waliki utjkiti. Jaqinakax kimsa tipo tantachañ
-yatiqañanakar (amuyt'añ turi, yatiqañ, jan ukax amuyt'añ) jan ukax janiw
-yatiqañ jaqinakar (no-contact group) chiqa churatäpxi. Yatiqañax 10 sesiones
-kama, 5 jan ukax 6 semanat ukan lurataspa. Jukʼa jaqinakax, sesiones
-phuqhañ, 1 ukat 3 maranakat qhipa booster sesiones chiqa churatäpxi.
+ACTIVE ukax 1998 maranxa qalltäna jach'a US yatiñawa, 2 802 qharuru 65 maranïr
+jaqinakampi, jupanakax kikpach sarnaqapxi ukat amuyt'añ jan walinakax janiw
+utjkänti. Jaqinakax mä kuti uñjasiñ grupo ukar sartapxi: ukax (speed of
+processing, memoria jan ukax razonamiento) jan ukax jan ukat jan
+yatiqañanakampi uñjasiñ. Yatiqañax 10 sesionakama, 5 jan ukax 6 semananakan
+utjäna. Walja sesion pachpa luqtirinakar, 1 ukat 3 maranakat qhipa refuerzo
+sesionanak sasa churapxi.
 
-Amuyt'añ turi yatiqañax, qhanañ uñjatäñ ukat jukʼamp jukʼamp uñtäwinakan
-amuyt'añawa, kunjamasa sum uñjatäñ ukax jukʼa jukʼamp jan.
+Speed yatiqañax, uñjasiñ ukat yatiqañ ukan jaqinakax wali sum lurapxi uka
+pachax, sapa uñjasiñax jisk'a jisk'a utjäna.
 
-2026 maranxa, yatiqirinakax 2,021 jaqinakar Medicare yatiqañanakaru 20
-maranakan jikxatapxi ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Akax uñt'ayatäpxi:
+2026 maranxa, yatiñirinakax 2 021 jaqinakar Medicare uñachtäwinakampi 20
+maranakan lup'ayapxi ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Akham uñjapxi:
 
-- **Amuyt'añ turi yatiqañ ukat mä booster sesión sipansa:** jan yatiqañ
-  jaqinakat jukʼamp demencia uñtasa uñjatäpxi (hazard ratio 0.75, ukax
-  jukʼa 25% jukʼamp uñtasa sasa).
-- **Amuyt'añ turi yatiqañ booster sesiones janiw:** jukʼamp uñtasa janiwa.
-- **Yatiqañ jan ukax amuyt'añ yatiqañ:** demencia uñtañanakax janiw
-  chiqa jukʼamp uñt'atäkiti.
-- **Sapa tantachañ yatiqañ jan yatiqañ jaqinakat:** jukʼamp uñtasa
-  sarañ amuyt'ata, ukampisa janiw chiqa uñt'atäkiti.
+- **Speed yatiqañ ukat refuerzo sesion 1 jan ukax sipansa:** jan yatiqañ
+  jaqinakat sipansa demencia uñjasiñ jisk'a (hazard ratio 0,75, ukax
+  jaqinakan 25% jisk'a sañ sapxi).
+- **Speed yatiqañ refuerzo sesionanak janiw:** jisk'a janiw utjkiti.
+- **Memoria jan ukax razonamiento yatiqañ:** demencia uñjasiñ ukar janiw
+  wali uñjasiñ utjkiti.
+- **Yatiqañ grupo tuqi sapa grupo jan yatiqañ grupo ukar uñtasa:** jisk'a
+  sapxi, ukampis janiw chiqa uñacht'ayañ utjkiti.
 
-### Akan chiqa amuyt'awix jukʼa sasa
+### Ukax kunjamas jisk'ä
 
-- Akax **mä jukʼa turi amuyt'añ yatiqañ, booster sesiones ukat** uñjatäñax,
-  janiw sapa juegonakar.
-- Chiqa uñt'atänakax **mä jukʼa jaqinakat** jutäxiwa (sapa jaqinakax
-  yatiqañ sesiones phuqhapxi ukat booster sesiones churatäpxi), janiw
-  amuyt'añ turi yatiqañ sapa jaqinakat.
-- Demencia uñtañax **Medicare yatiqañanakan diagnosis códigos** ukat
-  lurataw, janiw sapa jaqi uñjatäñat. Ukampisa jach'a 25% jaqinakax
-  jan jikxatatäpxi, Medicare Advantage ukan jan wali yatiqañanak
-  utjkiti.
-- Jaqinakax yatiqañ qalltañ uñt'atäpxi janiw amuyt'añ jan waliki
-  utjkiti. Ukax **demencia jark'ata jaqinakatakix** janiw parlkiti.
+- Ukax **mä kuti jaqi yatiqañ sum yatiqañ refuerzo sesionanakampi** ukar
+  uñjasi, janiw computadora yatiqañanakar uñjasiñ kuna jaqirus.
+- Chiqa uñacht'äwi **mä ch'iwat jaqinakat** utji (sapa chiqan yatiqañ ukan
+  wali sum sarnaqirinakat, refuerzo sesionanak churat), janiw jach'a grupo
+  ukat.
+- Demencia **Medicare uñachtäwinakan amparanakat** uñacht'ayatawa, janiw
+  sapa jaqir uñjasa. Sapa maranakan 1/4 jaqinakax Medicare Advantage ukan
+  utjapxi, ukatwa janiw chiqa uñachtäwinakax utjkiti.
+- Yatiqañ qalltañ ukhax jaqinakax jisk'a amuyt'añ jan walinakax janiw
+  utjkänti. Ukatpï ukanakax **demencia ukan sarnaqirinakatak** janiw yatiñ
+  uñacht'ayapkiti.
 
-Ukax chiqa uñt'ayañ, ukampisa jukʼamp yatiqañ munaski. Janiw ni mä
-aplicación demencia jark'arakiti sasa uñjatäkiti.
+Kunjamasa mä yatiñ ukax wali chiqa lup'ayañ munaski, ukampis janiw aplicación
+ukax demencia jark'añ uñacht'äwiti.
 
-## ¿Kunas FTC Lumosity tuqi sasa?
+## ¿Kunsa FTC Lumosity ukat sapxi?
 
-2016 maranxa enero phasiyan, Lumos Labs, Lumosity lurir, Federal Trade
-Commission ukan 2 millón dólar qullqichañ arsuta. FTC ukax, juegonakax
-lurañ kunaw sañ jark'añ luräwinakax, jan yatiqañ chiqa amuyt'añanakampi
-arsutänwa, sañ jupanakax: luräwi ukan jan jan ukax yatiqañ ukan
-sum sarañ, edad tuqi jaqi jakañ jaytañ, mild cognitive impairment,
-demencia ukat Alzheimer jark'añ ukanakat jark'añ. Kompañiax jutïr akham
-arsutanakar yatiqañ chiqa amuyt'añanakampi uñjatäñ luraña ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016 maranin enero phaxsiru, Lumos Labs (Lumosity ukan lurirïtapa) US$ 2 millones
+amtapxi, Federal Trade Commission ukax jaqinakar jiwasa lurañanak jan chiqa
+sañ. FTC ukax sapxi, kompaniax yatiñ jan utjkän arsutanakax, juparu sapxi
+lurañ ukanakax trabajo ukan ukat yatiqañ ukan wali sum sarañ, ukat
+qharuru uñjasiñ, amuyt'añ jisk'a uñjasiñ, demencia ukat Alzheimer jark'añ
+sañ ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-Familianakatakix yatiqañ: sapa juego, aplicación jan ukax programa
-amuyt'añ jark'añ jan ukax demencia jark'añ arsuta ukanakat jaysañ.
+Familianakatakix yatiñaw: amuyt'ä jark'añ jan ukax demencia jark'añ sasa
+arsuñ mayni yatiqañ, aplicación jan ukax programa, uksaru jan iyawsañamawa.
 
-## ¿Juegonakax demencia jark'ata jaqinakar yanapt'añ atinkiti?
+## ¿Yatiqañ kusisiñanakax demencia uñjatanakar yanapaspa?
 
-Jupanakax sum uru uñjatäñ yanapt'añ atinkapxi, ukax jach'a. Jiwasanakan
-sum uñjatäñ sarnaqañax **cognitive stimulation** sañawa: kusisiñ tantachañ
-luräwinakax, parlañ, yatiqañ, arsut, rompecabezas ukat arsut ukanakampi,
-jukʼa tantachañ, mä yatiqiri jaytañanakampi.
+Walikipxi, ukax jach'a wali. Yatiñ sum uñjatawa **uñjasiñ yatiqañ**: jaqinakan
+parlañapa, amuyt'añ sarnaqañanaka, arunaka, ch'iwanaka ukat ch'uqinakax, walja
+jaqinakampi, mayni uñjirinakampi.
 
-2023 Cochrane amuyt'awi, 37 yatiqañanaka, 2,766 demencia jukʼa jan ukax
-chika uñjatäñ jaqinakampi ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 maranxa, Cochrane yatiñ 37 yatiñanakat, 2 766 jaqinakat, demencia
+jisk'a jan ukax taypi uñjatanakat uñacht'ayapxi
+([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- amuyt'añ tesis ukan **jukʼa, jukʼa pachan** yanapt'äwi (wali sum uñjatäñ
-  yatiqañ, medium-quality evidence);
-- **parlañ ukat tantachañ ukan jach'a uñjatäñanaka** (high-quality evidence,
-  jukʼa yatiqañanakat);
-- jakañ amuyu, kusisiñ ukat sarnaqañ ukan **jukʼa yanapt'äwi**.
+- amuyt'añ yatiñanakan **jisk'a, jisk'a dурус wali uñjasiñ** (taypi chiqa yatiñ);
+- **parlañanakan ukat jaqinakampi sarañanakan chiqa wali uñjasiñ** (chiqa
+  yatiñ, jisk'a yatiñanakat);
+- **jisk'a wali uñjasiñ** sarnaqañ walinakan, kusisiñan ukat lurañanakan.
 
-Yanapt'äwix 10 semana qhipa uñjatäpxi, ukat jukʼa yatiqañanakax jan
-jikxatatäpxi kunjamasa suma jakasipkana. Tantachañ yatiqañanakax mä
-luraña thakiw, ukat akax janiw sapa jaqi tablet ukan mä juego
-sarnaqañar mayjt'atäkiti.
+Wali uñjasiñax, 10 semananak uñjasiñ qhipat wali uñjasi, ukat jisk'a yatiñanakax
+janiw uñjasiñ jakañapatak uñjapxiti. Yatiqañ kusisiñax mä grupo yatiqañawa,
+ukatwa ukanakax janiw mayni computadora ukan jaqinakar nayra amuyt'añkiti.
 
-2024 Lancet Commission ukax, demencia jark'ata jaqinakatakix, luräwinakax
-kusisiñ ukat amuyt'añ chiqa yatiqañ tuqi wali sasa
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission 2024 maranxa sapi, uñjasiñ lurañanakax demencia uñjatanakatakix
+wali wakiskiwa, kusisiñ ukat amtañ jaktañatakix ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## ¿Kunas juegonakax chiqapachaw sum uñjatäñ?
+## ¿Kunsa yatiqañ kusisiñanakax wali utjaspa?
 
-Sum akajamp ajllisa, juegonakax akanakar yanapt'apxi:
+Walikipxi ukhamarak sum ajllisi ukhaxa, akanak lurapxi:
 
-- **Kusisiñ.** Mä kusisiñ chika uru jakañ tuqiw utji.
-- **Mayacht'asiñ.** Mayacht'asa sarañ ukhamarak, parlañax jukʼa jan ukax
-  mayjt'añ ukan, tantachañ ukat jukʼa. Uñjatäñ [kunjamas tantachañ luraña](/caregiving/how-to-play-together/).
-- **Sarnaqaña.** Mä chiqa pacha luräwi, jukʼa pachan, jakañ thakinakan
-  amuyunak sum uñjaña.
-- **Ch'amañchasiña.** Jaqix sum sarañ luräwinakax, janiw yatiqañ jach'a,
-  mä wali amuyt'añ uñjatäñ.
-- **Parlaña.** Mä uñacht'äwi jan ukax mä yatiqañ arsut ukax mä sarnaqaña
-  qalltañ. Pruebe [conversation cards](/games/conversation-cards/) jan ukax
-  [finish the saying](/games/finish-the-saying/).
+- **Kusisiñ.** Mä kusisiri ukhamaw qhipat sarnaqañ, ukax wali.
+- **Jaqinakampi sarañ.** Chikan sarañ ukhaxa, parlañ jan walinakan mä
+  ch'iwa jaqinakampi uñjasiñ. Uka tuqit [sapa yatiqañ](/caregiving/how-to-play-together/).
+- **Lurañ ukat uru.** Mä lurañ ukax sapa uruw qhipat utjaspa, ukax amuyt'añ
+  wali.
+- **Iyawsäwi.** Jaqir yatipkaki ukanakax, jupanakar yanapañ, ukat jupanakax
+  mayja sipan, janiw pruebanakar.
+- **Parlañ.** Mä uñjasiñ jan ukax yatiñ arunak ukar parlañanakax mä willañ
+  utjaspa. Yatiqañ [parlañ jaqinakat](/games/conversation-cards/) jan ukax
+  [arunak tukuyaña](/games/finish-the-saying/).
 
-Jaytañ luräwinakax: pachanakax, puntajes, racha ukat amuyt'añ jark'ata
-luräwinakax. Jaqix jaysiñ jan ukax jukʼa jayt'añ pachaxa, sayt'ayañ.
-Jaysañ jan ukax chiqa tantachasiñ, ukax wali sum tukuyañawa. Juegonakan
-ajllisiñ ukat [choosing apps and games](/caregiving/choosing-apps-and-games/)
-ukan yatiqañ jach'a.
+Jan walinakax: reloj, puntos, ch'iwanakan ukat amuyt'añ pruebanakar uñjasiñ.
+Jaqix jan kusisiña jan ukax jan wali uñjasi ukhaxa, sayt'añamawa. Jan uñjasiñ
+jan ukax mayni sarañ ukax wali. Mayni [yatiqañ aplicación ajllisiña](/caregiving/choosing-apps-and-games/)
+uñacht'ayaña ukax yanapaspa.
 
-## Golden Moments kunjamas uñjasi
+## ¿Kunsa Golden Moments yatiqañanakax?
 
-Golden Moments juegonaka, kunjamasa [picture pairs](/games/picture-pairs/),
+Golden Moments yatiqañanakax, akanakjama [picture pairs](/games/picture-pairs/),
 [picture puzzle](/games/picture-puzzle/) ukat
-[large-print word search](/games/word-search/), kusisiñataki ukat tantachañ
-pachataki luratäpxi. Janiw pacha, janiw puntaj utjkiti. Akanakax **janiw**
-uñjatäñ kiti, ukat **janiw** demencia jark'añ jan ukax sayt'ayañ kiti. Jiwasax
-jumar chiqa sasaw sañ munasma, janiw ni mä juego ukat sum luraña sasa
-arsutanakar jaytañ.
+[large-print word search](/games/word-search/), kusisiñatakiwa ukat mayni
+sarañ urunakatakiwa. Janiw reloj ukat puntos utjkiti. Janiw **amparat yanapañ**
+utjkiti, ukat janiw **demencia jark'añ** jan ukax jiskt'añ utjkiti. Jiwasax
+chiqapar sipansa jiskha uñacht'ayañaw munañäni, janiw kuna yatiqañ lurañ
+jan lurkaspa ukar arsuñataki.
 
 ## Doctor ukar parlañ
 
-Jumax jan ukax uñjasma jaqi amuyt'añ jan waliki uñjatäñ tuqi amuyasma ukhaxa,
-doctor ukar uñjañ, janiw aplicación ukar jan ukax juego ukar confiyañ. Doctor
-ukax jakañ ukar chiqa yatiqañ tuqi uñjapxi, kunjamasa presión arterial
-uñjañ ukat oído ukax uñjañ. Mä juego jan jan ukax kunsa yatiqañ mä jaqi
-sayt'ayañ atinkiti. Walja yatiqañanakax [Can dementia be prevented?](/brain-health/can-dementia-be-prevented/)
-ukan uñjatänwa. Jan suytasa amuyt'añ jan ukax jaqi ch'ax ch'axwañ sasa,
-yatiqañ wali lurañ amuyasa.
+Jumax jan ukax uñjatamax amuyt'ä jarkañ ukhar uñjasiñ, doctor ukar parlañamawa,
+aplicación ukar iyawsañ sipansa. Doctor ukax jarkañ ukanakar uñjapxi,
+yatiqañ chiqa ukar amuyt'apxi, akanak sum luratawa, kunjamasa presión arterial
+uñjañ ukat uñt'añ chiqa. Uka tuqit [Can dementia be prevented?](/brain-health/can-dementia-be-prevented/)
+uñjañamawa. Jan suyt'ata jan ukax jaqix jan amuykipxi ukhaxa, pronto
+amparan yanapt'iri jaqinakar sayt'añamawa.

@@ -1,33 +1,33 @@
 ---
-title: "Dementia Adwuma a Wobɛprint Ahofadi"
-seoTitle: "Dementia Adwuma a Wobɛprint: Nkyerɛwde Kɛse"
-description: "Dementia adwuma a wobɛprint ahofadi: nkyerɛwde kɛse, ahoɔden ɛne abɔde a wobɛkyerɛ, nkitahodie kaadɛ ne ɛbɔ nkaa, nso ɛne nkyerɛkyerɛ a ɛboa wɔ sɛ wobɛprint."
+title: "Dementia Nnwuma a Wobɛtumi Abɔ Ntadeɛ Ankasa"
+seoTitle: "Dementia Nnwuma a Wobɛtumi Abɔ: Asɛm Kɛse"
+description: "Dementia nnwuma a wobɛtumi abɔ ntadeɛ ankasa: asɛm ahwehwɛ kɛse, nkɔsoɔ mfonini, nkitahodie kaadi ne mfonini bingo, ne nhyehyɛe a ɛboa ma wobɛbɔ no yie."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments ma dementia adwuma a wobɛprint ahofadi: nkyerɛwde kɛse a
-  nsɛm wɔ ne so, abɔde a wobɛkyerɛ, nkitahodie kaadɛ ne abɔde a wɔbɔ nkaa.
-  Bue bɔtɔn a ɛkyerɛ "Print" wɔ kyɛfa biara a woware so. Fa nkyerɛwde kɛse ne
-  ɛsoro, a ɛyɛ den, ana wo prin no ma wɔwɔ asɛnka biara. Hyɛ abɔde a wobɛdi
-  dwuma bio mu wɔ plastik ho. Wo ankasa nso wɔ ahofadi a ɛyɛ mmerɛ, te sɛ
-  asɛm a ɛfa wo ankasa asetra ho ne da biara ho nhyehyɛe, a ɛboa.
+  Golden Moments de dementia nnwuma a wobɛtumi abɔ ntadeɛ ankasa bi ma wo:
+  asɛm ahwehwɛ kɛse, nkɔsoɔ mfonini, nkitahodie kaadi ne mfonini bingo kaadi.
+  Bue saa agyinabea biara a ɛwɔ so na fa ne **Print** bɔtane no. Bɔ nkyerɛwde
+  kɛse, a ɛyɛ pɛpɛɛpɛ wɔ kɔkɔɔ paper so, na da adwuma biako so wɔ krataa biara
+  so. Sɛ wopɛ sɛ wosan de krataa no di dwuma a, fa sɛ ɛbɛyɛ den. Krataa a
+  wayɛ wɔ fie, te sɛ abrabɔ nkyerɛkyerɛ anaa adwuma a wɔde bɛyɛ da, nso boa.
 keyPoints:
-  - "Yɛn ahofadi a wobɛprint yɛ ahofadi: Nsɛm Ahodoo, Abɔde, Nkitahodie Kaadɛ ne Nkɔsoɔ Bingo. Kyɛfa biara wɔ bɔtɔn a ɛkyerɛ \"Print\"."
-  - "Fa nkyerɛwde kɛse ne nsɛm a ɛpɛpɛɛpɛ, a wotumi hu ntɛm, ana wo prin asɛnka biara wɔ kyɛfa mu."
-  - "Ɛsoro a ɛyɛ den anaa kaad a ɛyɛ den yɛ mmerɛ sɛ wobɛkyere ne sɛ ɛnyɛ mmerɛ sɛ ɛbɛbubu. Fa plastik kata abɔde no sɛ wobɛdi bio, wo de dwumadie a wotumi sɛ ayɛ ahyew mfa mfa."
-  - "Abɔde a wo ankasa wɔ, te sɛ asɛm a ɛfa wo asetra ho, da biara nhyehyɛe, ne mfonini a ɛwɔ mmuaa so, yɛ mmerɛ na ɛboa."
-  - "Abɔde a wɔaprint yɛ abisa, na ɛnyɛ adwumayɛ a wobɛyɛ. Sɛ wobɛyɛ bi anaa wɔmmɛyɛ bi, ɛyɛ."
+  - "Yɛn nnwuma a wɔbɔ ntadeɛ no yɛ fri: Word Search, Coloring, Conversation Cards ne Picture Bingo. Agyinabea biara wɔ **Print** bɔtane."
+  - "Bɔ nkyerɛwde kɛse, a ɛyɛ pɛpɛɛpɛ, na wɔn ne krataa no mu nyɛ den; da adwuma biako so wɔ krataa biara so."
+  - "Krataa a ɛyɛ den anaa card stock yɛ mmerɛw sɛ wobɛkyere no, na ɛnnyae a wɔmfa nnwinn. Fa laminate to krataa no na wobɛtumi asan de dry-erase ntoma adi dwuma."
+  - "Krataa a wayɛ wɔ fie, te sɛ abrabɔ krataa, da nhyehyɛe anaa nkyerɛwde a wɔde ahyɛ mpono so, yɛ mmerɛw na ɛboa."
+  - "Krataa a wɔabɔ ntadeɛ yɛ kyerɛ no, ɛnyɛ adesua. Sɛ wodi ɛkyɛn anaa wɔammfa nni so a, ɛyɛ."
 faq:
-  - q: "Dementia adwuma a wobɛprint ahofadi yɛ ahofadi anaa?"
-    a: "Aane. Nsɛm Ahodoo, Abɔde, Nkitahodie Kaadɛ ne Nkɔsoɔ Bingo kyɛfa a ɛwɔ saa beaeɛ yi so yɛ ahofadi de di dwuma na wɔde prinn. Bue kyɛfa no ase na fa bɔtɔn a ɛkyerɛ \"Print\" di dwuma."
-  - q: "Adwuma bɛn na ɛyɛ papa ma dementia wɔ abɔde a wobɛprint mu?"
-    a: "Abɔde a ɛyɛ papa ne ɛda a ɛsɛ, ɛyɛ mmerɛ ne ɛyɛ adult: nsɛm ahodoo kɛse a nsɛm nko ara wɔ ne so, afɔrebɔ a nkyerɛkyerɛ pɛpɛɛpɛ, mfonini kaad a ɛbɛma nkitahodie ahyɛ, ne nkɔsoɔ bingo ma nnipa a wɔyɛ abusuaa. Fa adwuma no sɛ ɛfata onipa no ani agye ne ne tumi a ɛseesei, na fa asɛnka biara ma kyɛfa biara."
-  - q: "Ɛdeɛ na mɛyɛ abɔde a wobɛprint ayɛ hu na ɛyɛ mmerɛ de di dwuma?"
-    a: "Fa nkyerɛwde kɛse a ɛpɛpɛɛpɛ, tintin tɛkrɛma wɔ fɔ a ɛyɛ fitaa anaa ɛyɛ nkɔnsɔ, ne boɔ pii. Prin wɔ ɛsoro a ɛyɛ den anaa kaad, na ɛbɛma ɛnkɔ sɛ ɛnyɛ mmerɛ. Fa ɛsoro a ɛnnyɛ nhyerɛn gyinafa, na de clipboard anaa mat a ɛnnyɛ sɛ ɛbɛyera hyɛ ɛsoro no so. Plastik ma abɔde no tena ase."
-  - q: "Metumi aprint yɛn adwuma ma afie a wɔhwɛ nnipa anaa adwuma a ɛbɔ da?"
-    a: "Aane. Wɔn a wɔyɛ adwuma wɔ afie no ahyɛ wo kɔ so sɛ wobɛprint yɛn kyɛfa ma nnipa a wɔtena hɔ ne mmoa. Nkɔsoɔ Bingo yɛ ma nnipa pii, na ɛwɔ frɛ a ɛwɔ ɔkwan so a wobɛkyerɛ wɔ TV anaa projector so."
+  - q: "Yɛn dementia nnwuma a wɔbɔ ntadeɛ yɛ fri anaa?"
+    a: "Aane. Word Search, Coloring, Conversation Cards ne Picture Bingo krataa a ɛwɔ saa agyinabea yi so yɛ fri sɛ wobɛdi dwuma na wobɛbɔ. Bue agyinabea no na fa **Print** bɔtane no."
+  - q: "Dementia ho nnwuma bɔ krataa mu bɛn na ɛyɛ ɛfɛ?"
+    a: "Nnwuma a ɛyɛ mfɛfo paa, a ɛnyɛ den na ɛyɛ pɛpɛɛpɛ, ne nea ɛyɛ: asɛm ahwehwɛ a nkyerɛwde kɛse, a nsɛm no wɔ kwan a ɛkɔ ɛnam ne ɛfa ase ne ɔkwan a ɛka ho no so nko; nkɔsoɔ mfonini a nkyerɛkyerɛ mu pɛpɛ; mfonini kaadi a ɛboa ma nkitahodie bɛba; ne mfonini bingo ma nnipa a wɔyɛ nnipakuw. Hwɛ obi a wopɛ ne nneɛma a ɔpɛ ne nea ɔtumi yɛ nnɛ, na da adwuma biako so wɔ krataa biara so."
+  - q: "Ɛdeɛn na mɛyɛ ma krataa no ahu yie na ɛyɛ mmerɛw ma obi de di dwuma?"
+    a: "Fa nkyerɛwde kɛse a ɛyɛ pɛpɛɛpɛ, tintin a ɛyɛ tuntum wɔ fitaa anaa ɔpɔnkɔ paper so, na mfifiri pii wɔ hɔ. Bɔ krataa no wɔ paper a ɛyɛ den anaa card stock so, sɛnea ɛbɛma krataa no ntɔ, fa paper a ɛnyɛ nwini a ɛnnyɛ nwene so sɛ wopɛ sɛ ɛnnyin ɔhow, na fa clipboard anaa mat a ɛnnyi so de krataa no mu. Laminate boa sɛ krataa no bɛtena ase."
+  - q: "Metumi abɔ mo nnwuma ma fie a wɔboa nnipa anaa ɛbɔ dwuma a ɛfa nnipa ho?"
+    a: "Aane. Nnipa a wɔyɛ adwuma wɔ adwumapɔn a wɔboa nnipa no nyinaa tumi bɔ yɛn krataa ma wɔn ne nkɔmhyɛ. Picture Bingo yɛ ma nkɔmhyɛ ne nnipakuw, na ɛwɔ caller a ɛwɔ agyinabea so a wobɛtumi ahyɛ TV anaa projector so."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Ɛbaa mpɛn pii a adwuma a ɛsɛ sɛ ɛyɛ no ne pampɛn ne kalum wɔ aduabɔ ntama so. Abɔde a wɔaprint nni ahoɔden a wɔde hyɛ so, nni mfaso a wɔde bɛhwehwɛ, na nni sɛ ɛsɛ sɛ wohwɛ ogyinabɔ mu; ɛyɛ mmerɛ sɛ wobɛfa kɔ ahyɛdeɛ anaa nkitahodie. Saa kyɛfa yi kyerɛkyerɛ yɛn ahofadi a wobɛprint wɔ yɛn beaeɛ so, sɛdeɛ wobɛprint wɔn sɛ ɛbɛyɛ mmerɛ sɛ wɔbɛhu na wɔakyere, ne abɔde kakra a ɛyɛ mmerɛ a mmusuakuo ne adwumayɛfoɔ a wɔhwɛ nnipa de di dwuma.
+Nnwuma a ɛyɛ mfɛfo paa no ebia ne pampa ne peni a wode bɛto aduaban so. Krataa nhia tɔ nkɔ, password nhia, na screen nhia. Ɛyɛ mmerɛw sɛ wobɛfa kɔ nkyɛkyɛre anaa nhyiam mu. Saa krataa yi kyerɛ yɛn saa agyinabea yi so dementia nnwuma a wɔbɔ ntadeɛ, sɛnea wobɛbɔ ma ɛnyɛ den ma wohu na wɔakyere no, ne nhyehyɛe bi a wɔabɔ fie a ɛboa mmusuakuw ne nnipa a wɔyɛ adwuma wɔ adwumapɔn.
 
-## Ahofadi bɛn na yɛma a wobɛprint?
+## Dementia nnwuma a wobɛtumi abɔ ntadeɛ ankasa bɛn na yɛwɔ?
 
-Yɛma ahofadi a wobɛprint anan. Bue kyɛfa biara a woware so na fa bɔtɔn a ɛkyerɛ **Print** di dwuma de nya kɔpi a ɛyɛ mmerɛ ma wɔprint.
+Yɛwɔ nnwuma anan a wɔbɔ ntadeɛ a yɛma fri. Bue saa agyinabea yi biara na fa **Print** bɔtane no so, wobɛnya krataa a ɛboa sɛ wobɛbɔ.
 
-| Ahofadi a wobɛprint | Nea ɛyɛ | Ɛyɛ mmerɛ ma |
+| Krataa | Ɛyɛ dɛn | Ɛboa ma |
 | --- | --- | --- |
-| [Nsɛm Ahodoo](/games/word-search/) | Nsɛm ahodoo a nkyerɛwde kɛse wɔ so, a nsɛm no ntena so nko ara ne sɛ ɛkɔ anafo ne akyiri | Asɛm a nkɔsoɔ ne ɔkyerɛwde; obi a ɔdɔ nsɛm abisadeɛ |
-| [Nkitahodie](/games/coloring/) | Nkitahodie kaadɛ a wobɛprint anaa wobɛkyerɛ wɔ screen so | Bere a ɛnyɛ den, ne adwuma a ɛyɛ nkitahodie; kwan biara a wɔboa |
-| [Nkitahodie Kaadɛ](/games/conversation-cards/) | Mfonini kaadɛ a ɛwɔ abisadeɛ a ɛnyɛ ɔsɔrɔ ne mmuae a wɔbɛkyere ne asɛm | Nkɔsoɔ, frɛ, abɔdeɛ ne asetra a wɔkaa ho asɛm |
-| [Nkɔsoɔ Bingo](/games/picture-bingo/) | Bingo kaadɛ a mfonini wɔ mu sɛ ɛnyɛ nɔma, ne frɛ a wɔyɛ wɔ screen so | Afie a wɔhwɛ nnipa, dwumadie a ɛbɔ da, nnipa a wɔyɛ abusuaa ahyiamu |
+| [Word Search](/games/word-search/) | Asɛm ahwehwɛ a nkyerɛwde kɛse, nsɛm no wɔ kwan a ɛkɔ ɛnam ne ɛfa ase nko so | Bere a ɛyɛ mmerɛ wɔ peni ho; obi a ɔpɛ nnwuma a ɛfa mfonini ho |
+| [Coloring](/games/coloring/) | Nkɔsoɔ mfonini a wobɛbɔ anaa wobɛkɔsoɔ wɔ screen so | Bere a wɔyɛ nnwuma a ɛboa ma ɔdi ahoɔfɛ; ɛnam ɔkwan biara so |
+| [Conversation Cards](/games/conversation-cards/) | Mfonini kaadi a ɛwɔ nsɛm a ɛmma nkitahodie bɛba, a wɔakyerɛ sɛ ɛnyɛ mmisa | Nkyɛkyɛre, frɛ, abusuafo di anɔpa, ne nkitahodie a wɔde ahyɛ mpaebɔ so |
+| [Picture Bingo](/games/picture-bingo/) | Bingo kaadi a mfonini wɔ hɔ wɔ nɔma no baabi, ne caller a ɛwɔ screen so | Fie a wɔboa nnipa, adwumapɔn a ɛboa nnipa, abusuafo nhyiam |
 
-### Nsɛm ahodoo a nkyerɛwde kɛse
+### Asɛm ahwehwɛ a nkyerɛwde kɛse
 
-[Nsɛm Ahodoo](/games/word-search/) de nkyerɛwde kɛse yɛ adwuma, na ɛma nsɛm no ntena so nko ara ne sɛ ɛkɔ anafo ne akyiri, na ɛnnyɛ nsɛm a ɛkɔ mmiensa anaa nsɛm a ɛkɔ akyi. Yɛ adwuma no bom: obi kenkan nsɛm bi a ɛwɔ list no mu, na obi foforɔ hwehwɛ no. Sɛ ɛyɛ den sɛ wobɛhwehwɛ nsɛm, sɔ ɔkwan a ɛboa: hyɛ ngɔnkyɛ wɔ nsɛm biara mfirihɔ no ase, anaa kenkan nsɛm list no na kasa fa nsɛm biara ho.
+[Word Search](/games/word-search/) no de nkyerɛwde kɛse, na ɛma nsɛm no wɔ kwan a ɛkɔ ɛnam ne ɛfa ase nko so, a ɛnni nkɔnsɛm a ɛnyɛ tɛkrɛma anaa nsɛm a wɔka mu nko ara. Yɛ adwuma no ne obi pɛ: obi kenkan nsɛm no mu baabi, na obi foforo hwehwɛ. Sɛ ɛyɛ den sɛ wobɛhwehwɛ nsɛm no a, sɔ nsɛm biara mfirihyɛ wɔ hɔ kɔ ne nsɛm no sɛ dadaa, anaa kenkan nsɛm no mu nkyerɛ no na mmom ka ho asɛm.
 
-### Nkitahodie kaadɛ
+### Nkɔsoɔ mfonini
 
-[Nkitahodie](/games/coloring/) kaadɛ a wobɛprint, wobɛtumi de tintin anaa tɛkrɛma tɔ. Sɛ wobɛyɛ no wɔ tablet so nso, wobɛtumi ahyɛ tɛkrɛma so, afei ɔfa ɔkɔn a wobɛkyerɛ. Sɛ wobɛprint kaadɛ no, fa tintin a ɛyɛ den ne tɛkrɛma kakra bɛboro ɔkyɛ ano. Hwɛ yɛn [asɛmfua adwuma ne nkyerɛwde nkyerɛkyerɛ](/activities/arts-and-crafts/) sɛ wobɛhu sɛdeɛ wɔbɛyɛ nkitahodie a ɛyɛ adult ne ɛma ahome.
+Wobɛtumi abɔ [Coloring](/games/coloring/) mfonini ma marker anaa colored pencil, anaa wobɛkɔsoɔ wɔ tablet so denam langa a wɔde bɛgu so na ɛnna ɛfa mfonini no ankasa. Sɛ wɔbɔ krataa no a, de marker a ɛyɛ kɛse ne langa kakra de ma no bere biara. Hwɛ yɛn [nnwuma a wɔyɛ ne nsa ho guide](/activities/arts-and-crafts/) ma nkɔsoɔ a ɛyɛ adult ne ahomegyebɔ.
 
-### Nkitahodie kaadɛ
+### Nkitahodie kaadi
 
-[Nkitahodie Kaadɛ](/games/conversation-cards/) de mfonini a ɛpɛpɛɛpɛ bɔ abisadeɛ a ɛbue, te sɛ "Ka me ho asɛm..." anaa "Ɛdeɛ wuhu?" Wɔkyerɛw wɔn sɛ abisadeɛ a ɛbue, na ɛnnyɛ nsɛmmisa a ɛyɛ adwenkyerɛ. Prin kaadɛ ne nhyehyɛe, twa wɔn, na kora kakra wɔ kɔkɔ mu ma nkɔsoɔ anaa frɛ. Wɔnso yɛ adwuma wɔ [ɛdwuma a wɔkae](/activities/reminiscence/) mu.
+[Conversation Cards](/games/conversation-cards/) de mfonini a ɛyɛ pɛpɛɛpɛ ne nsɛm a ɛbue ano ka ho, te sɛ "Ka me ho asɛm..." anaa "Wuhu dɛn?". Wɔakyerɛw sɛ ɛyɛ nkitahodie a ɛbue ano, na ɛnyɛ mmisa. Bɔ kaadi no mu, twa mu, na de kakra kɔ adane ho a wɔde bɛkɔ nkyɛkyɛre anaa de kɔ fon ho frɛ. Ɛyɛ mmerɛw nso wɔ [nkaeɛ](/activities/reminiscence/) nhyiam mu.
 
-### Nkɔsoɔ bingo kaadɛ
+### Picture bingo kaadi
 
-[Nkɔsoɔ Bingo](/games/picture-bingo/) kaadɛ de mfonini yɛ adwuma sɛ ɛnyɛ nɔma. Prin kaad biara ma ɔkyerɛ biara na fa screen so frɛ a ɛwɔ laptop, TV anaa projector so di dwuma. Yɛkyerɛ sɛ wɔnfrɛ kɔsi sɛ wɔn biara kaad no ma, ɛnyɛ sɛ obi bi wɔ akyi. Hwɛ [nkɔsoɔ ma afie a wɔhwɛ nnipa](/activities/care-home-groups/) sɛ wobɛhu sɛdeɛ wɔbɛyɛ ahyiamu no.
+[Picture Bingo](/games/picture-bingo/) kaadi de mfonini mmom de nɔma. Bɔ kaadi biako ma obiara, na fa caller a ɛwɔ laptop, TV anaa projector so di dwuma. Yɛkyerɛ sɛ wofrɛ nsɛm kɔsi bere a obiara kaadi ahyɛ ma, sɛnea obiara remfa nni so. Hwɛ [nnipakuw nnwuma a wɔyɛ adwumapɔn mu](/activities/care-home-groups/) ma sɛnea wobɛhyehyɛ nhyiam no.
 
-## Sɛdeɛ wobɛprint adwuma sɛ ɛbɛyɛ mmerɛ de di dwuma?
+## Ɛdeɛn na mɛbɔ nnwuma ma ɛnyɛ den sɛ wɔde bedi dwuma?
 
-Nsakrae kakra a wɔyɛ wɔ sɛdeɛ wɔprint no bɛma ɛyɛ yie.
+Nsakrae kakra wɔ sɛnea wobɔ krataa no mu ma ɛyɛ mmerɛw.
 
-### Ma ɛyɛ mmerɛ sɛ wobɛhu
+### Ma ɛnyɛ den sɛ wɔhu
 
-- **Nkyerɛwde kɛse a ɛpɛpɛɛpɛ.** Fa nkyerɛwde kɛse a ɛkɔ soro sɛdeɛ kɔpi no ka ho. Ma wɔmfa nkyerɛwde a ɛyɛ nkyerɛwde ahoɔfɛ anaa nkyerɛwde a ɛbɔ sɛ nkɔnsɔ.
-- **Fitaa ne mfonini a ɛpɛpɛɛpɛ.** Tintin a ɛyɛ den wɔ ɛsoro a ɛyɛ fitaa anaa ɛyɛ nkɔnsɔ so. Ma wɔmfa ɛsoro a ɛyɛ nkɔnsɔ anaa a ɛyɛ mfonini a ɛnyɛ pɛpɛɛpɛ.
-- **Ɛsoro a ɛnnyɛ nhyerɛn** boa ma hann a ɛwɔ ɔsɛnkafoɔ ne ɔhyerɛn mu renyɛ hwee.
-- **Hwɛ ahunu ne hann.** Alzheimer's Association kyerɛ sɛ ahunu ne ntɛm a ɛnyɛ yie betumi ama nkɔkɔbɔ nnyɛ yie, na ɛka sɛ wɔhwɛ wɔn daa daa. Hann a ɛyɛ kɛse ne ɛyɛ pɛpɛɛpɛ nso boa.
+- **Nkyerɛwde kɛse a ɛyɛ pɛpɛɛpɛ.** Fa nkyerɛwde kɛse a ɛbɛyɛ krataa no so yie. Twe tintin a ɛyɛ nwoma sɛ nkaeɛ mfɛfo.
+- **Tintin a ɛda so kɔ mmɔfra.** Tintin a ɛyɛ tuntum wɔ fitaa anaa ɔpɔnkɔ paper so. Mma nkyerɛwde a ɛyɛ fitaa anaa wɔde tintin fitaa anaa kɔkɔɔ bɔ sɛ ɔsɛnkyerɛnne.
+- **Matte paper** ma ahoɔhare a ɛwɔ hann kɛse ase nnyɛ den.
+- **Hwɛ ahunu ahwɛ ne nneɛma a ɛma ɔhu.** Alzheimer's Association kyerɛ sɛ ahuhu ne ntease a ɛnyɛ yie ka ɛyɛ den ma nkɔmhyɛ, na wɔka sɛ wɔmfa nhwɛ ahunu ne ntease no. Hann a ɛyɛ pɛpɛɛpɛ nso boa.
 
-### Ma ɛyɛ mmerɛ sɛ wobɛkyere
+### Ma ɛnyɛ den sɛ wɔkyere
 
-- **Ɛsoro a ɛyɛ den anaa kaadɛ** tena ase na ɛyɛ mmerɛ sɛ wobɛkyere, na ɛtumi tena ase daa.
-- **Clipboard anaa mat a ɛnnyɛ sɛ ɛbɛyera** boa ma ɛsoro no ntena ase.
-- **Tintin a ɛyɛ kɛse anaa tɛkrɛma a ɛyɛ kɛse** yɛ mmerɛ sɛ wobɛkyere sen ɔpɛn a ɛyɛ kakraa.
+- **Paper a ɛyɛ den anaa card stock** ma krataa no ntɔ, ɛyɛ mmerɛw sɛ wɔkyere, na ɛtumi tena ase wɔ bere bebree mu.
+- **Clipboard anaa non-slip mat** ma krataa no nntu.
+- **Marker a ɛyɛ kɛse anaa pencil a ɛyɛ kɛse** yɛ mmerɛw sɛ wɔkyere sen peni a ɛyɛ kakra.
 
-### Ma wotumi de bɛdi bio
+### Ma ɛyɛ mmerɛw sɛ wɔde bedi dwuma bio
 
-- **Fa plastik kata abɔde no** anaa fa wɔn to clear sheet protector mu. Fa dry-erase tintin di dwuma wɔ nsɛm ahodoo ne bingo kaadɛ so, na afei pɛ no.
-- **Paw matte** sɛ ɛhyɛ wo ya a ɛfiri hann a ɛyɛ kɛse mu, na **yɛ nkotɔ a ɛwɔ kaadɛ a wɔkata no ano** a ɛyɛ mmerɛ sɛ wobɛkyere.
-- **Kora fael bi** a ɛwɔ abɔde a wo pɛ so, na ɛntumi ammɛprint ɔwɛn biara.
+- **Laminate krataa** anaa fa wɔ sheet protector a ɛyɛ tuntum mu. Fa dry-erase ntoma di dwuma wɔ asɛm ahwehwɛ ne bingo kaadi so, na wɔapɔ ntoma no bere a wɔaqua.
+- **Fa matte pouch** sɛ ahoɔhare yɛ haw, na **fa kasa tew laminate kaadi ano** de sɛnkyerɛ, ma ɛnyɛ den sɛ wɔde di dwuma.
+- **Kora krataa a ɛyɛ wo dɔ** mu, ma ɛnyɛ sɛ wobɛbɔ krataa koro bio ne koro bio.
 
-### Ma ɛyɛ mmerɛ
+### Ma ɛnyɛ den
 
-- **Adwuma biako wɔ kyɛfa biara.** Nsɛm ahodoo biako anaa mfonini biako, na ɛnyɛ adwuma pii a ɛboro ho ankɔ.
-- **Ɔfifiri pii wɔ kyɛfa mu.** Kyɛfa a ɛyɛ ɔfifiri ara ne ɔfifiri yɛ den.
-- **Mmɛka nkyerɛkyerɛ a ɛsɛ sɛ wɔkenkan, sɛ ɛbɛyɛ.** Kyerɛ onipa no nea ɛsɛ sɛ ɔyɛ.
-- **Tew kyɛfa.** Sɛ kyɛfa a ɛyɛ ma ɛyɛ den, tew no mfinimfini anaa tatɔ no sɛ wobɛhunu ɛfa biako nko.
+- **Adwuma biako wɔ krataa biara so.** Asɛm ahwehwɛ biako anaa mfonini biako, na ɛnyɛ nnwuma pii a wɔabɔ abɛn ne ho wɔ krataa biako so.
+- **Nsɛm a ɛwɔ krataa no so kɛse.** Krataa a nsɛm pii wɔ so bɛyɛ den ma obi.
+- **Nkyerɛkyerɛ a ɛyɛ den nni hɔ, sɛ ɛtumi yɛ saa.** Ma obi hu nea ɔsɛ sɛ ɔyɛ no kyerɛ no.
+- **Tew krataa.** Sɛ krataa a ɛyɛ nyinaa yɛ den a, tew mu kakra anaa pae so na nsɛm kakra nko na ɛda ase.
 
-## Abɔde afoforɔ a wobɛyɛ wɔ afie a wɔbɛdi dwuma
+## Nnwuma foforo a ɛboa a wobɛtumi ayɛ fie
 
-Ɛnyɛ abɔde nyinaa yɛ adwuma. Abɔde yi yɛ mmerɛ sɛ wobɛyɛ wɔ word processor ne printer so.
+Ɛnyɛ krataa biara a ɛboa no yɛ nnwuma. Nea edidi ni yɛ ɛyɛ mmerɛw sɛ wɔde word processor ne printer bɔ.
 
-### Asetra ho kyɛfa
+### Krataa a ɛka wo ho asɛm
 
-Kyɛfa biako a ɛka ho asɛm a wɔaka wɔ ne ho, ɔfoto, din a ɔpɛ sɛ wɔfrɛ no, baabi a ɔbɔɔ, ɔdwuma, abusuafo, aduane a ɔpɛ, nnwom ne nneɛma a ɛma ɔwɔ ahodo anaa nneɛma a ɛma ɔnyɛ yie. Dementia Australia kyerɛ sɛ [nkaebɔ ho mpɔw](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) a ɛka onipa no asetra, ne nneɛma a ɔpɛ ne nnipa a ɛho hia ho nsɛm, boa nnipa a wɔba hɔ ne nnipa a wɔhwɛ no, na ɛboa ma wɔka asɛm.
+Krataa biako a ɛka ɔbɔfra ho asɛm: ne mfonini, din a ɔpɛ sɛ wɔfrɛ no, baabi a ɔfiri, ne adwuma, abusuafo, nnuane a ɔpɛ, nnwom ne nneɛma a ɛma ɔdi ahoɔfɛ anaa a ɛma ɔnyɛ komm. Dementia Australia kyerɛ sɛ wɔnyɛ [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) a ɛka obi asetena, nea ɔpɛ, ne abusuafo a ɛho hia, ma ɛboa nkɔmhyɛfo ne obi a ɔboa no, ne ma nkitahodie nso bɛba.
 
-Ɛyɛ mmerɛ paa wɔ ayaresabea ne baabi foforɔ a wɔhwɛ nnipa. NIA kamfo sɛ wɔma ayaresabea nnipa [kyɛfa a ɛka onipa no ho nsɛm](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) a ɛka ne da biara nhyehyɛe, din a ɔpɛ, nea ɔpɛ ne nea ɔnpɛ, nneɛma a ɛbɛma ɔbɔ ɔhaw, ne nsɛnkyerɛnne a ɛkyerɛ sɛ ɔhaw.
+Ɛho hia paa wɔ ayaresabea ne baabi foforo a wɔhyehyɛ ma nnipa a wɔboa ne ho. NIA kyerɛ sɛ wɔmma ayaresabea adwumayɛfo [krataa a ɛka obi ho asɛm](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), a ɛka obi nhyehyɛe, din a ɔpɛ sɛ wɔfrɛ no, nea ɔpɛ ne nea ɔmpɛ, nneɛma a ebia bɛma ɔyɛ komm, ne nsɛnkyerɛnne a ɛkyerɛ sɛ ɔyɛ yaw a ɔnkasa.
 
-### Da biara nhyehyɛe
+### Da nhyehyɛe
 
-Nhyehyɛe a ɛyɛ kɛse ne ɛyɛ pɛpɛɛpɛ ma da no, a ɛwɔ bere, nsɛm kakra ne mfonini kakra ma ɔfã biara: anɔpadwuma, nantew, aduane, ahomegyese, nnwom, anɔpa. Fa wɔ ɛpɔn so, ebia wɔ firi so, na ma ɛnyɛ den sesa. Alzheimer's Association [da biara nhyehyɛe](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) kyerɛ sɛ wɔnhyehyɛ da no wɔ bere a onipa no tumi yɛ adwuma yie, ne sɛ wɔda nsɔ ne sɛ wɔda nkɔ daa, ne sɛ adwuma ne ahomegyese yɛ pɛ. Hwɛ [da biara nhyehyɛe kyerɛwde](/activities/daily-routine/) ma nsɛm pii.
+Da nhyehyɛe a ɛyɛ kɛse ne mmerɛw, a ɛwɔ bere, nsɛm kakra ne mfonini kakra ma da no mu kyerɛ: anɔpa di, nantew, anɔpa di, da, nnwom, anwansɛ di. Alzheimer's Association [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) kyerɛ sɛ wohyehyɛ da no sɛnea ɛbɛyɛ ma ɔbɔfra no ɛye, sɛ ɔsɔre ne ɔda ne ɔsɔre bere bi, ne ɔmmɔden a ɛyɛ ne tirimu ne ɔdi a ɛka ho. Fa no bɛda baabi a ɛyɛ mmerɛw sɛ wobɛhwɛ, sɛ nʼadaka so, na ma ɛnyɛ nea wɔrenyin. Hwɛ yɛn [da nhyehyɛe guide](/activities/daily-routine/) ma nsɛm a ɛboro saa.
 
-### Mfonini a ɛwɔ dan ne kɔkɔ mu
+### Mfonini a ɛwɔ dan ne kuw mu ho nkyerɛwde
 
-NIA kyerɛ sɛ wɔde [nkyerɛwde a ɛwɔ tintin a ɛyɛ fitaa anaa mfonini a ɛyɛ mmerɛ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) de kyerɛ dan no, ɛdan ɔsɔfo, ne ɛfie no. Ɛsɛ de ara kɔ kɔkɔ ne ɛsroma mu: mfonini a ɛyɛ ntakra wɔ ntakra kɔkɔ so, ne mfonini a ɛyɛ nkɔm wɔ nkɔm kɔkɔ so. Prin, fa plastik kata na fa to ho.
+NIA kyerɛ sɛ wɔde nkyerɛwde a ɛyɛ mfonini kɛse anaa mfonini a ɛyɛ tuntum [kyerɛ dan a ɛwɔ asuo, ɔdan ne aduane](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Ɛno ara nso yɛ adwuma wɔ nkuw ne kabini ho: mfonini a ɛkyerɛ ntama wɔ ntama kuw so, nkyene wɔ nkyene kabini so. Bɔ, laminate na fa tape ta so.
 
-### Nkyɛfa a wɔbɛsesa
+### Nneɛma a wɔbɛkyekye
 
-Prin nsɛm a ɛfa nkɔm abien a ɛyɛ mmerɛ, te sɛ aduadua ne nnuaba, anaa nnuanom ne ntama a wɔde yɛ adwuma, wɔ kaad so. Tew wɔn na fa wɔn ka ho wɔ nkotɔ abien mu ne obi. Ɛnyɛ den sɛ wɔyɛ no wɔ screen so, na wɔfrɛ no [Sort Together](/games/sort-together/).
+Bɔ mfonini a ɛfiri nkyekyɛmu mmienu a ɛyɛ mfɛfo, te sɛ aduane ne nnua, anaa nnwinnade ne aduane a wɔde di dwuma, paper a ɛyɛ den so. Kyekye bɛyɛ nkyekyɛmu, na ɛnna nyinaa de ko agorɔ mmienu mu. Krataa a ɛwɔ kɔmputa so no yɛ [Sort Together](/games/sort-together/).
 
-### Nnwom asɛm kyɛfa
+### Nnwom nsɛm krataa
 
-Prin nnwom a wɔpɛ kakraa ne nsɛm wɔ tintin a ɛyɛ kɛse paa mu ma ɛnnwom ahyɛnsoɔ. Ɛbɛyɛ ɛfa nnipa a wɔrenkenkan nwɛn bio hoɔ; wɔbɛtumi ahyɛ nkyɛfa no so.
+Bɔ nnwom a wopɛ no nsɛm wɔ nkyerɛwde kɛse kɛse so ma nnwom ka. Obiara a ɔnkenkan bebree nso betumi apɛ sɛ ɔkɔ krataa no so.
 
-### Abusua ɔfoto kyɛfa
+### Abusuafo mfonini krataa
 
-Kyɛfa biako a ɛwɔ mfonini kɛse anan kosi anum, na ɛnam ne din a ɛtete so. Ɛbɛtumi atena ɛpɛnsɔ so ma obiara afa na ɔka ho asɛm. Din bɛboa ma nnipa a wɔba hɔ ne nnipa a wɔhwɛ no akɔ asɛm no mu, na obiara nhwehwɛ sɛ "Hwan ne yi?"
+Krataa biako a ɛwɔ abusuafo mfonini nnan anaa anum a ɛyɛ kɛse, na din a ɛwɔ ase biara wɔ hɔ. Ɛbɛtumi atena agorɔ so ma obiara nfa nkɔka ho asɛm. Din no boa ma ɔhyɛfo ne adwumayɛfo nnyɛ nkitahodie mu, na obiara remmisa sɛ "Hena ni?"
 
-### Nkyerɛwde a wɔde yɛ aduane
+### Aduane nhyehyɛe krataa
 
-Prin aduane a ɛwɔ abusua mu a ɔpɛ paa wɔ nkyerɛwde kɛse mu. Fa ayɛ aduane a wobɛyɛ wɔ hɔ, anaa kasa ho wɔ aduane a wɔde yɛɛ kwan.
+Bɔ aduane a wɔfa bere a ɛkɔ so no nhyehyɛe a ɛyɛ kɛse. Fa so wɔ aduane so, anaa ka nkitahodie a ɛfa aduane a wɔdidi no bere a atwa so.
 
-## Sɛdeɛ wobɛma nkyɛfa a wobɛprint ntumi nyɛ adwuma a ɛyɛ sɛ wɔrehwɛ?
+## Ɛdeɛn na mɛma nnwuma a wɔbɔ ntadeɛ no ansɛ sɛ ɛyɛ adesua?
 
-Ma ɛnyɛ sɛ ɛyɛ adwuma a wobɛsesa, ma ɛyɛ sɛ wɔbɛkyɛ.
+Ka sɛ ɛyɛ biribi a wobɛkyekye, na ɛnyɛ sɛ ɛyɛ ɔsɔhwɛ.
 
-- **Tena fam na fi ase wo ho.** "Mereyɛ nsɛm ahodoo yi. Wopɛ sɛ woboa me ma mehu 'aduaba'?"
-- **Yɛ adwuma bom.** Fa nkɔnsɔnsɔnsɔ anaa obi kenkan na obi foforɔ hwehwɛ, anaa obi hwehwɛ na obi foforɔ kyerɛ no ɔkɔn.
-- **Mfa nni nea ɛyɛ nokorɛ anaa nea ɛyɛ nnyɛ.** Alzheimer's Association [kyerɛwde ho nkyerɛkyerɛ a ɛfa afie adwuma](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ka sɛ wɔnhwɛ adwuma no mu, na ɛnyɛ nea ɛba, ne sɛ wɔnhwɛ anigye, na ɛnyɛ nea ɛba wɔ mu.
-- **Gyae kyɛfa ama wɔhwehwɛ.** Saa kyerɛwde no nso ka sɛ wɔde nkyerɛwde, mfonini nkyerɛwde anaa magazine a wɔakɔsɔ wɔ beaeɛ a ɛyɛ ɔkwan a wɔbɛtumi akɔ so. Nkyerɛwde ne mfonini kyɛfa betumi awɔ ntaban ketewa so saa ara.
-- **Gyina bere biara a wopɛ.** Kyɛfa a wɔayɛ fã no mu yɛ anwonwade pa. Ɛyɛ mmerɛ nso sɛ wobɛde kyɛfa no sie na wonom tii.
+- **Fa ho ntena ase na fi ase wo ho.** "Me ne asɛm ahwehwɛ yi reyɛ. Wopɛ sɛ yɛboa me ahwehwɛ 'turo'?"
+- **Yɛ adwuma bom.** Fa bere ma obiara, anaa obi biara hwehwɛ na obi foforo ka ho.
+- **Nka sɛ ɔteɛ anaa ɔnteɛ.** Alzheimer's Association [nnwuma a wɔyɛ fie](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) gyidi ma yɛhwɛ nea ɛreba mu, ɛnyɛ nea ɛba awiei, ne ahoɔfɛ, ɛnyɛ nkonimdi.
+- **Ma nsɛnnennen ne nkaeɛ nka hɔ.** Saa guide kyerɛ sɛ wɔde nkaeɛ, mfonini nkoraa anaa magazine a wɔakɔ akyire wɔ baabi a ɛyɛ mmerɛw sɛ wobɛnya, sɛnea krataa a wɔabɔ ntadeɛ ne mfonini krataa nso betumi ayɛ wɔ abɔdeɛ ntama so.
+- **Gyae bere biara a wopɛ.** Nkɔsoɔ krataa fã yɛ anwummere a ɛyɛ. Sɛ wɔde krataa no sie na wɔnom tii a, nso ɛyɛ.
 
-## Hwehwɛ nkyerɛkyerɛ pii
+## Hwehwɛ nnwuma foforo
 
-Hwɛ [mmomɔ ne nkyerɛwde a wɔprint](/games/) nyinaa, anaa hwɛ [adwuma ma asetra biara](/activities/ideas/) ma nkyerɛkyerɛ pii, a ɛwɔ kyɛfa ne nkyerɛwde ho, ne nea ɛnwɔ.
+Hwehwɛ yɛn [nnwuma ne krataa a wɔbɔ ntadeɛ](/games/) nyinaa, anaa hwɛ [nnwuma ma baabi a ɛwɔ ase](/activities/ideas/) ma nneɛma foforo, a ɛwɔ krataa so ne a ɛnwɔ krataa so.
