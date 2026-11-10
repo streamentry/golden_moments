@@ -77,6 +77,10 @@ Photo Pairs now displays a one-line comfort reminder before selection. It adds n
 
 The website now lets a person look at one selected photo without matching; two or more photos are required for matching and navigation. The site suite (1,855 tests), TypeScript, 12,491-page build and `check-site` pass with 0 errors. The prior weighted score of **9.62** and lowest dimension **7.5** remain the last measured repository-wide score. I did not recalculate it: Flutter is unavailable, PR #184 included app changes that have not been tested here, and the dynamic photo view did not receive browser or assistive-technology testing. These checks remain unverified, not release claims.
 
+## Round 46 score update (2026-11-11)
+
+The Today tool now reveals one suggestion first and keeps alternatives behind a native disclosure. It adds no timer, score, storage or telemetry. The 1,857 site tests, TypeScript, full build and site checker pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); this website-only change does not establish new browser, caregiver or person-with-dementia usability evidence.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

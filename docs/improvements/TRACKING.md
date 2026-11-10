@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 45 / 100 completed**
+**Progress: 46 / 100 completed**
 
 ---
 
@@ -55,6 +55,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 43 | 2026-11-10 | `cd308446` (English labels), `5590a205` (feature) | Optional captions give website family photos useful spoken names | [Alzheimer's Association: Reminiscence and Reminiscence Therapy](https://www.alz.org/help-support/caregiving/daily-care/reminiscence-and-reminiscence-therapy) describes photos and familiar objects as shared prompts and says to follow the person's lead; [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) recommends using photos with captions. | Photo Pairs labelled each selected image only “Photo 1,” “Photo 2,” and so on. Added optional captions in a collapsed section; a caption becomes the tile's screen-reader name, while a blank caption keeps the numbered name. Captions and photos stay in page memory only. | Implemented in `PhotoPairs.tsx`, `PairsBoard.tsx`, and `photo-label.ts`; 2 focused tests, 727 site tests and TypeScript pass. English labels fall back on translated pages. Browser/caregiver/person checks not done. Full build remains blocked by the Tibetan guide schema error. |
 | 44 | 2026-11-10 | `1b574d28` | A gentle photo comfort reminder in Photo Pairs | [Alzheimer's Society: The Activities Handbook](https://www.alzheimers.org.uk/sites/default/files/2020-11/AS_77AC_The-Activities-Handbook.pdf) says some photos may bring painful memories; if the person becomes upset, allow them to express feelings and check whether they want to continue. | Photo Pairs had no point-of-use reminder about a photo upsetting someone. Added a short line before the picker: choose photos the person enjoys, and stop or switch if a photo upsets them. | Implemented in `site/src/games/PhotoPairs.tsx`; all 727 site tests and TypeScript pass. The new line uses English fallback on translated pages. Browser/caregiver/person checks not done. Full build still stops on the existing Tibetan guide schema error. |
 | 45 | 2026-11-10 | `2855eea6` | Look through family photos without matching | [Alzheimer's Association: Reminiscence and Reminiscence Therapy](https://www.alz.org/help-support/caregiving/daily-care/reminiscence-and-reminiscence-therapy) says photos can support shared reminiscence; the goal is connection rather than testing memory, and caregivers should follow the person's lead. | Website Photo Pairs accepted personal photos but required matching. A single selected photo now opens one-at-a-time viewing. With two or more, helpers can choose viewing or matching; Previous/Next appear only when another photo exists. Captions remain optional, and photos stay in page memory. | Implemented in `site/src/games/PhotoPairs.tsx` and `photo-viewer.ts`; 4 focused photo-viewer tests, 1,855 site tests and TypeScript pass. Full verification builds 12,491 pages; `check-site` reports 0 errors and 536 warnings. New copy uses English fallback on translated pages. Browser, caregiver/person and native-language checks not done. |
+| 46 | 2026-11-11 | `f4b50676` | One Today suggestion at a time | [Dementia Australia: Activities for people with dementia](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) recommends one instruction at a time and short activities; [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) advises adapting or ending an activity if attention fades or frustration rises. | `/today/` showed all three suggestions at once. It now shows the first suggestion, with the other two inside a closed “See two more ideas” disclosure. The caregiver can reveal alternatives when useful; no suggestion is forced. | Implemented in `Today.tsx` and `TodaySuggestions.tsx`; 2 focused TodaySuggestions tests, 1,857 site tests, TypeScript and 106 Python tests pass. Full verification builds 12,491 pages; `check-site` reports 0 errors and 536 warnings. No storage or telemetry changes. |
 
 ---
 
@@ -62,8 +63,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 46 | *Next in queue* | Pending |
-| 47–100 | Planned one by one | Pending |
+| 47 | *Next in queue* | Pending |
+| 48–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -145,3 +146,13 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Translation | New Photo Pairs labels in `site/src/i18n/play/en.json` use English fallback on translated pages; existing `atLeastTwo` locale keys remain compatible. | Known localization gap. |
 | Full checks | `pnpm --dir site verify`: 1,855 tests pass, 12,491 pages build, `check-site` reports 0 errors and 536 warnings. The installed Node 22.14.0 is below the package's >=22.22.0 engine declaration; checks still pass. Release metadata check passes. | Pass. |
 | Not verified | No interactive browser, caregiver/person or native-speaker check. The Playwright wrapper is blocked by the environment's `npx` package guard; Astro dev exits with `SKIP_FORMAT`. Headless Chrome exited before opening. | Open; automated checks pass, but they do not prove comfortable use. |
+
+## Round 46: show one Today suggestion at a time
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Dementia Australia recommends one instruction at a time and short, simple activities. The Alzheimer's Association advises adapting or ending an activity when attention fades or frustration rises. | A caregiver-facing page should make a first action easy to find while keeping alternatives available. This is a design inference, not a clinical claim. |
+| Gap and change | The `/today/` answer displayed three suggestions together. It now shows the first suggestion, with the other two inside a closed disclosure. The caregiver can reveal them; no advice was removed. | Less text is shown at once without requiring an interaction before help appears. |
+| Tests | `TodaySuggestions.test.ts`: 2 pass, checking the first step, collapsed alternatives and empty input. `situations.test.ts`: 5 pass. `pnpm --dir site test`: 1,857 pass. `pnpm --dir site exec tsc --noEmit`: pass. | Pass. |
+| Full checks | `pnpm --dir site verify`: 1,857 tests pass, 12,491 pages build, `check-site` reports 0 errors and 536 warnings. `python3 -m unittest discover -s tests -p 'test_*.py'`: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Pass. |
+| Not verified | No interactive browser or caregiver/person check. The Playwright wrapper is blocked by the `npx` package guard; Astro dev exits with `SKIP_FORMAT`. Today remains an English-only page. | Open; tests do not establish that the layout is easier for caregivers. |
