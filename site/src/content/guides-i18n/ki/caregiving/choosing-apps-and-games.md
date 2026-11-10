@@ -1,35 +1,38 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Ũrĩa wa Gũthuura Apps na Michetho ya Dementia"
+seoTitle: "Ũrĩa wa Gũthuura Apps na Michetho ya Dementia"
+description: "Mũtaratara wa gũthuura apps na michetho ya dementia: ambĩrĩria na kĩrĩa ũkwenda, epũka mathaa na matangazo, rora ũhoro wa mwanya, na thikĩrĩria ciugo cia ũtaarani wega."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Ambĩrĩria na kĩrĩa ũkwenda app ĩrute wĩra: kũhũthĩrĩria meciiria na njĩra
+  njega, kũririkana maũndũ ma tene, ũhooreri kana ngwatanĩro. Ũcooke ũthuure
+  ĩrĩa ĩkũringana na ũhoti wa mũndũ ũrĩa ũtũũraga na kĩrĩa kĩa kwĩririkania
+  ũmũthĩ, ĩrĩ na mbica nene, ĩtarĩ na mathaa ma gũthima, mĩtaratara ya
+  ciũgũ, matangazo, na ĩrĩ na njĩra njũhũ ya gũtiga. Rora ũhoro ũrĩa ĩcookanagĩrĩria,
+  andũ arĩa ĩũgayaga nao, na kana no ũmĩtharie. Menyerera ciugo iria ciugaga
+  atĩ app nĩ ĩgiragĩrĩria kana ĩkamata kĩrĩa kĩa kwĩririkania; ũthuthuria ũmwe
+  ti kĩonithia kĩa ma atĩ nĩ ũhoro wa ma.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Ambĩrĩria na kũmenya kĩrĩa ũkwenda: kũhũthĩrĩria meciiria, kũririkana maũndũ ma tene, ũhooreri kana ngwatanĩro ciendabaga apps itiganĩte."
+  - "Ringania na ũhoti wa mũndũ ũcio mũthenya ũcio, ti rĩĩtwa rĩa gĩkundi, na ũtũme mĩthondekere ĩkorũo ĩrĩ mĩhũthũ."
+  - "Epũka apps irĩ na mathaa ma gũthima, ciũgũ, mĩoyo, mĩtaratara ya mĩthenya, matangazo kana maũndũ ma kũgũrĩrio."
+  - "Rora ũhoro ũrĩa ĩcookanagĩrĩria, ũrĩa ĩũgayaga na andũ angĩ, na ũrĩa ũngĩtharia. Kaingĩ HIPAA ndĩhumbagĩra apps cia andũ othe."
+  - "Gĩa na nganja na ciugo cia „nĩ ĩgiragĩrĩria kĩrĩa kĩa kwĩririkania“. Kĩgerio kĩmwe, kana ciũgũ njega thĩinĩ wa app, ti kĩonithia kĩa ma."
+  - "Golden Moments nĩ wĩra wa gwĩkenia. Ndĩrĩ na ciĩko cia ũrigitani."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Michetho ya meciiria no ĩgirĩrĩrie kĩrĩa kĩa kwĩririkania?"
+    a: "Gũtirĩ ũira mũingĩ wonanagia atĩ apps cia gũthaka meciiria cia biashara nĩ igiragĩrĩria kana ikahokia kĩrĩa kĩa kwĩririkania. National Institute on Aging yugaga atĩ gũtirĩ ũira mũiganu wonanagia atĩ apps icio cia gũthaka meciiria irĩ na moimĩrĩro ta maruta marĩa mathondeketwo wega marĩa mageririo thĩinĩ wa ũthuthuria mũnene. Thuura apps nĩ ũndũ wa gwĩkenia na ngwatanĩro, ti ta ndawa."
+  - q: "App ya kĩrĩa kĩa kwĩririkania nĩ ĩhumbĩrĩtwo nĩ HIPAA?"
+    a: "Kaingĩ aca. HIPAA kaingĩ ĩkoretwo ĩkoniĩ aruti a wĩra wa ũgima, mabũrũri ma ũgima na aruti a wĩra ao. App ĩrĩa ũharũrũkagia we mwene kaingĩ ndĩhumbĩrĩtwo, tiga no angĩkorũo ĩheanĩtwo nĩ ũmwe wao. Watho wa FTC wa Health Breach Notification ũhumbagĩra apps nyingĩ cia ũgima iria HIPAA ĩtahumbagĩra."
+  - q: "Mũceere mwega wa kĩrĩa kĩa kwĩririkania wagĩrĩirũo nĩ gũkorũo ũhaana atĩa?"
+    a: "Mbica na maandĩko manene, makonekaga wega, ũndũ ũmwe mũhũthũ wa gwĩka o kĩonero-inĩ, gũtarĩ na mathaa ma gũthima kana ciũgũ, gũtarĩ na mĩgambo ya mahĩtia, gũtarĩ na matangazo, na njĩra njũhũ ya kũhurũka kana gũtiga. Wagĩrĩirũo nĩ kuoneka ta wathondekeirũo andũ agima na ũkorũo ũrĩ mũhũthũ mũndũ wa keerĩ kũingĩra."
+  - q: "Golden Moments nĩ yugaga atĩ nĩ ĩteithagia kũririkana?"
+    a: "Aca. Golden Moments ĩheanaga mawĩra mahũthũ ma gwĩka hamwe nĩ ũndũ wa gwĩkenia na kwaranĩria. Ndĩmenyagĩrĩria, ndĩmataga, ndĩgiragĩrĩria kana gũthima kĩrĩa kĩa kwĩririkania, na tũtirĩ na ciugo cia ma igũrũ rĩa kũririkana kana meciiria."
+  - q: "Njagĩrĩirũo nĩ kũrĩha nĩ ũndũ wa app ya kĩrĩa kĩa kwĩririkania?"
+    a: "Geragia mbere na apps cia tũhũ kana cia kũgeria cia tũhũ, na ũrore ũrĩa mũndũ ũcio aregaga ihinda rĩa ciumia igĩrĩ. Kũrĩha nĩ ũndũ wa app gũtitumaga ĩkorũo na hinya mũingĩ. Rora ũrĩa ũngĩtiga mbere ya kwĩyandĩkithia."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +63,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Mathibitari ma apps maiyũrĩte michetho ĩrĩ na marĩĩtwa ma arĩa akũrũ, kũririkana kana kĩrĩa kĩa kwĩririkania. Imwe nĩ ithondeketwo na ũmenyereri. Ingĩ nĩ ciongeragĩra ciugo cia ta cia ndagitari, mathaa ma gũthima marĩa matuaga mũceere ũtuĩke kĩgerio, kana matangazo na ũcookanĩrĩria wa ũhoro. Gĩcunjĩ gĩkĩ nĩ gĩkũhe njĩra ya gũtua app o yothe we mwene. Tũtigayanagia kana gũthuthuria indo cia andũ angĩ.
 
-## What should I decide before choosing a dementia app?
+## Nĩ kĩĩ njagĩrĩirũo nĩ gũtua itua mbere ya gũthuura app ya kĩrĩa kĩa kwĩririkania?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Tua itua rĩa kĩrĩa ũkwenda app ĩrute wĩra. „Mũceere wa maitũ“ no ũgĩe na maũndũ matiganĩte mũno, na ũthuurĩ mwega wa kĩrĩa kĩmwe no ũkorũo ũtarĩ mwega wa kĩrĩa kĩngĩ.
 
-| Goal | What it looks like | What to look for |
+| Kĩrĩa ũkwenda | Ũhaana atĩa | Kĩrĩa wagĩrĩirũo nĩ kũrora |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Kũhũthĩrĩria meciiria na njĩra njega | Kũringithania, kũgayania, mathabu mahũthũ, michetho ya ciugo | Ũritũ ũrĩa ũngĩgarũrwo, mbica iria ikoragwo ikonekana, gũtarĩ na kwĩhiũhia |
+| Kũririkana maũndũ ma tene | Mbica cia tene, ciugo iria cimenyeretwo, nyĩmbo cia hĩndĩ yao ya wĩthĩ | Mbica ciaku mwene, ciũria cia kwaranĩria, gũtarĩ na ciũria cia kĩgerio |
+| Ũhooreri | Mĩonekano mĩhoro, mĩgambo mĩhooreri, kũhuhia, mũmero wa mũciĩ | Njũhũ kwambĩrĩria na gũtiga, gũtarĩ na kĩndũ gĩkũhenũka, gũtarĩ na maũndũ ma kũgegia |
+| Ngwatanĩro | Gũceera kana kwaranĩria hamwe, mũrĩ hamwe kana na video | Ĩthondekeirũo andũ eerĩ, ciũria cia kwaranĩria |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Ũthuthuria ũkoniĩ „kũhũthĩrĩria meciiria“ kũrĩa gũthondeketwo nĩ ũndũ wa andũ arĩa matũũraga na kĩrĩa kĩa kwĩririkania kaingĩ ũkoragwo ũkoniĩ ikundi iria itongoragio nĩ aruti a wĩra methomithĩtie, marĩ na mĩario, michetho ya ciugo, mathabu, nyĩmbo na mawĩra ma ũũmbi. [Ũcũkeri wa Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) wonire maumĩrĩro manini ma gĩcigĩrĩra, marĩa matiganĩte gatagatĩ ka ũthuthuria. Mũtaratara ta ũcio wa ngwatanĩro na wa mĩthemba mĩingĩ ti ta app ya gwĩka wiki. Nĩ ũndũ ũcio, ona app o yothe ta wĩra ũmwe wa gwĩka hamwe gatagatĩ ka mawĩra mangĩ maingĩ.
 
-## How do I know if an app fits the person's abilities?
+## Nĩ atĩa ingĩmenya kana app nĩ ĩringaine na ũhoti wa mũndũ ũcio?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Rora ũrĩa aregaga, handũ ha kũrũmĩrĩra rĩĩtwa rĩa mũrimũ kana gĩkundi. Andũ eerĩ marĩ „gĩkundi-inĩ kĩmwe“ no makorũo matiganĩte mũno ũhoro-inĩ wa kuona, kũigua, gũtwarithia moko, kwaria na ũrĩa meiguaga na indo cia kĩonere. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ĩtaaraga kũririkana maũndũ marĩa mũndũ eendaga mbere na ũhoti wake wa rĩu, na kwĩkĩra hinya gwĩkenia handũ ha ũhootani.
 
-Signs of a good fit:
+Morũri ma kuonania atĩ nĩ ĩringaine wega:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- nĩ ambagĩrĩria kana kũingĩra hatarĩ kũringĩrĩrio mũno;
+- nĩ acemaga, akaheana ũhoro kana akaheana rũgano;
+- mahĩtia matiamathĩĩnagia;
+- nĩ akenaga gũtiga rĩrĩa ihinda rĩakinya.
 
-Signs it is a poor fit:
+Morũri ma kuonania atĩ ndĩringaine:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- kuuga kaingĩ „ndingĩhota“ kana „ũũ nĩ wa tũhũ“;
+- kũrigwo nĩ kĩrĩa agĩrĩirũo nĩ kũhũũra;
+- kũrakara, gũconoka kana gũtindĩka kĩndũ kĩu;
+- ĩrutaga wĩra tu no angĩkorũo wee nĩ ũreeka hakuhĩ maũndũ mothe.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Kũigua ũũru nĩ kĩmenyithia, ti ũndũ wa gũtooria. Rora [ũrĩa ũngĩĩka rĩrĩa makuuga aca](/caregiving/when-they-say-no/). Nĩ ũndũ wa meciiria mangĩ ma mawĩra ma kũringana na ikundi, rora mawĩra ma [gĩkundi kĩa mbere](/activities/early-stage/) na ma [gĩkundi kĩa mũthia](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Nĩ mĩthondekere ĩrĩkũ njagĩrĩirũo nĩ kũrora kana gwĩthema?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Rora mĩthondekere mĩhooreri, mĩhũthũ, ya andũ agima, na wĩtheme kĩndũ o gĩothe kĩongeraga mĩnyamaro.
 
-| Look for | Be wary of |
+| Rora | Menyerera |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Mbica na maandĩko manene, gũtiganu mwega | Tũhũũri tũnini, cionero iria ciyũrĩte |
+| Ũndũ ũmwe mũhũthũ wa gwĩka o kĩonero-inĩ | Tũhũũri tũingĩ, mĩtaratara, kana mataaro ma makinya maingĩ |
+| Gũtarĩ na mathaa ma gũthima, kana mathaa marĩa ũngĩhoria | Gũtara ihinda, iheo cia ihenya, „hota ihinda rĩaku“ |
+| Gũtarĩ na ciũgũ, kana macokio ma ũhooreri | Ciũgũ, mĩoyo, mĩtaratara ya mĩthenya, mũtaratara wa arĩa mahaanaine, „ũkũrũ wa meciiria“ |
+| Mahĩtia makũhũthĩrwo na ũhooreri | Mĩgambo, marũri ma X itune, ndũmĩrĩri ya „Ti wega“ |
+| Mbica cia ma cia andũ agima | Mĩtheme ya tũcicio kana ya ciana |
+| Ĩrutaga wĩra hatarĩ intaneti, ndĩbataire akaunti ya kwambĩrĩria | No nginya wĩyandĩkithie, ũtonye kana ũharũrũkie maũndũ mbere |
+| Njũhũ kũhurũka na gũtiga | Ndũmĩrĩri ikũũria ũthiĩ na mbere kana ũtue app |
+| Gũtarĩ na matangazo, thogora mũtaũku kana wa kwĩyandĩkithia | Matangazo, mĩhuko ya kũgũra, maũndũ maingĩ ma kũgũrĩrio |
+| Njũhũ mũndũ wa keerĩ kũingĩra | Ya mũndũ ũmwe tu, mũthondekere wa gũcindana |
 
-Ads and purchase prompts are easy to tap by accident.
+Matangazo na maũndũ ma kũgũrĩrio nĩ mahũthũ kũhũũrwo na mahĩtia.
 
-## How do I check an app's privacy?
+## Nĩ atĩa ingĩrora ũhoro wa mwanya wa app?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Rora ũhoro ũrĩa app ĩcookanagĩrĩria, andũ arĩa ĩũgayaga nao, na kana no ũmĩtharie. Mbere ya kũmĩĩkĩra:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Thoma mũkũyũ wa ũhoro wa mwanya wa thibitari.** [Gĩcunjĩ kĩa ũgitĩri wa ũhoro kĩa Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) na [gĩcunjĩ kĩa ũhoro wa mwanya kĩa App Store](https://support.apple.com/en-us/102399) nĩ cionanagia mĩthemba ya ũhoro ĩrĩa app ĩngĩcookanĩrĩria na kũgayana. Makampuni meerĩ nĩ moigaga atĩ ũhoro ũcio ũheanagwo nĩ athondeki, nĩ ũndũ ũcio nĩ kĩambĩrĩria, ti ũthuthuria mũkinyanĩru.
+2. **Ũria kana nĩ ĩbataire akaunti.** Angĩkorũo app ĩronanagia mbica tu kana michetho mĩhũthũ, no gũkorũo gũtirĩ gĩtũmi kĩa kũmenya rĩĩtwa rĩaku, imeyili kana mũthenya wa gũciarwo.
+3. **Rora rũtha.** Kaĩ mũceere wa kũringithania nĩ ũbataire kũmenya harĩa ũrĩ, andũ arĩa marĩ thimũ-inĩ yaku, mĩgambo kana mbica ciaku ciothe? Horia kĩndũ o gĩothe kĩtarĩ bata.
+4. **Rora matangazo na ũthuthuria wa mĩtugo.** Indo cia matangazo na cia kũrũmĩrĩra mĩtugo no itware ũhoro ũkoniĩ ũrĩa app ĩhũthagĩrwo kũrĩ makampuni mangĩ.
+5. **Menyaga mbica nacio ciĩthiiaga kũ.** Angĩkorũo nĩ wongerera mbica cia famĩlĩ, nĩ cigũikara thĩinĩ wa kĩndũ kĩu kana nĩ ciambatagio kĩaragĩra-inĩ? No ũcirute?
+6. **Rora ũhoro wa gũtharia.** Rora thĩinĩ wa watho wa mwanya kana mũkũyũ wa ũhoro ũrĩa ũngĩtharia ũhoro na akaunti. App ĩrĩa yugaga atĩ ũhoro ndũngĩthario nĩ yagĩrĩirũo nĩ kũmenyererwo mũno, makĩria angĩkorũo ĩkoragwo na mbica kana ũhoro wa ũgima.
+7. **Thoma watho wa mwanya** nĩguo ũgĩe na macokio mahũthũ igũrũ rĩa kĩrĩa gĩcookanagĩrĩrio, nĩkĩ, ihinda rĩigana atĩa, na nĩ a gĩgayanagwo nao.
 
-### Does HIPAA protect information in dementia apps?
+### Kaĩ HIPAA nĩ ĩgitagĩra ũhoro ũrĩ thĩinĩ wa apps cia kĩrĩa kĩa kwĩririkania?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Kaingĩ aca, na ũndũ ũcio nĩ ũgeagia andũ aingĩ. U.S. Department of Health and Human Services [nĩ ĩtaarĩria](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) atĩ HIPAA ĩkoniĩ mabũrũri ma ũgima, aruti aingĩ a wĩra wa ũgima, thibitari cia gũtheria ũhoro wa ũgima na aruti a wĩra ao. Mahinda maingĩ ndĩgitagĩra ũhoro ũrĩa wĩkagĩra thĩinĩ wa app nĩ ũndũ wa wĩhũthĩri waku mwene, tiga no angĩkorũo app ĩheanĩtwo nĩ mũndũ ũrĩa ũhumbĩrĩtwo nĩ HIPAA kana mũruti wĩra wake. „App ya kĩrĩa kĩa kwĩririkania“ ya kuuma thibitari ya apps kaingĩ ĩkoragwo nja ya HIPAA, o na angĩkorũo nĩ ĩaragia ũhoro wa ũgima.
 
-### What protects health data in apps that HIPAA does not cover?
+### Nĩ kĩĩ kĩgitagĩra ũhoro wa ũgima thĩinĩ wa apps iria HIPAA ĩtahumbagĩra?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Watho wa Federal Trade Commission wa Health Breach Notification nĩ ũhumbagĩra nyingĩ ciacio. Mwaka-inĩ wa 2024 FTC [nĩ yarĩkirie mĩgarũrũko](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ĩgĩtaarĩria atĩ watho ũcio ũkoniĩ apps cia ũgima na tekinoronjĩ ingĩ ta icio iria itahumbĩrĩtwo nĩ HIPAA. „Kũhĩngwo“ nĩ kũniinanĩte na kũguũrĩrio gũtarĩ na rũtha, ti kũhũrwo nĩ akoroku tu, na makampuni no nginya mamenyithie andũ arĩa makoniĩ na FTC. Ũcio nĩ mũgitĩri wa thutha wa ũndũ mũũru gwekĩka, ti kĩĩranĩro atĩ app ĩcookanagĩrĩria ũhoro ũrĩa ĩbataire tu.
 
-## How should I read claims about research and evidence?
+## Nĩ atĩa njagĩrĩirũo nĩ gũthoma ciugo cia ũthuthuria na ũira?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Thoma ciugo cia ũira kahora, na ũkorũo na nganja makĩria harĩ ciĩranĩro iria nene mũno. Ciũria cia kwĩyũria:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Nĩ kĩĩ kĩageririo kũna?** Ũthuthuria wa mũtaratara ũmwe ndũronanagia atĩ mũceere o wothe thĩinĩ wa app ũrutaga wĩra o ũguo.
+- **Nĩ a ageririo?** Moimĩrĩro harĩ arĩa akũrũ marĩ na ũgima mwega no matikoniĩ mũndũ ũrĩa ũtũũraga na kĩrĩa kĩa kwĩririkania.
+- **Nĩ kĩĩ kĩathimirwo?** Kwagĩrĩra mũceere-inĩ wene ti ta mĩgarũrũko ya mũtũũrĩre wa o mũthenya, mĩario, mĩtugo kana kwĩrũgamĩrĩra.
+- **Ũthuthuria ũcio ũrĩ na hinya ũigana?** Kĩgerio kĩa randomized controlled trial (RCT) nĩ kĩringithanagia gĩkundi kĩrĩa kĩhũthagĩra app na kĩrĩa gĩtahũthagĩra. Nĩ mũthondekere mwega, no RCT ĩmwe nini kana nguhĩ ti kĩonithia kĩa ma. Rora ũthuthuria mũingĩ, wa athuthuria matarĩ na ngwatanĩro, ũrĩa ũiguanĩte.
+- **Nĩ yugaga atĩ nĩ ĩgarũraga mũrimũ?** Ũthuthuria ũrĩa wonanagia kwagĩrĩra kũnini kĩgerio-inĩ ti kĩonithia atĩ app nĩ ĩhokiagia, ĩgiragĩrĩria kana ĩkamata kĩrĩa kĩa kwĩririkania.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Gĩcunjĩ kĩa National Institute on Aging igũrũ rĩa [ũgima wa meciiria kũrĩ arĩa akũrũ](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) nĩ gĩtaarĩria ũthuthuria mũnene ũteithĩtio nĩ NIH wa maruta ma gũthaka meciiria marĩa mathondeketwo, na gĩgacooka gĩkahe athomi ũhoro wa kwĩmenyerera ciugo iria ciugaga atĩ michetho mĩna ya kompiũta na ya intaneti no yagĩrĩre kũririkana na meciiria. Nĩ kiugaga atĩ gũtirĩ ũira mũiganu rĩu wonanagia atĩ apps cia gũthaka meciiria cia biashara irĩ na moimĩrĩro ta maruta marĩa mageririo thĩinĩ wa ũthuthuria ũcio. No ũthome makĩria thĩinĩ wa mũtaratara witũ wa [michetho ya meciiria na ũira](/brain-health/brain-games/) na [kĩrĩa ũthuthuria uugaga igũrũ rĩa kũgirĩrĩria kĩrĩa kĩa kwĩririkania](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Nĩ kĩonereria kĩrĩkũ kĩa mbere kĩa ciugo cia kũheenia?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Mweri wa mbere 2016, FTC [nĩ yamenyithirie kĩrĩkanĩro](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) na athondeki a Lumosity, mũtaratara wa „gũthaka meciiria“. FTC nĩ yathitangire atĩ kambuni ĩyo nĩ yaugire, hatarĩ ũira mũiganu, atĩ michetho yayo no ĩikarie thutha kũnina kwa meciiria nĩ ũndũ wa ũkũrũ na ĩkagitĩra kuumana na kũnina kũnini kwa meciiria, kĩrĩa kĩa kwĩririkania na mũrimũ wa Alzheimer's. Kambuni nĩ yetĩkĩrire kũrĩha milioni 2 cia thitari na no nginya ĩkorũo na ũira wa ma wa sayansi mbere ya kuuga ciugo ta icio rĩngĩ. Ŋũhĩ ĩyo nĩ kĩririkania kĩega atĩ ciugo cia kwendia indo ti ũira.
 
-### Which words are red flags?
+### Nĩ ciugo irĩkũ irĩ morũri ma ũgwati?
 
-Be cautious when an app or ad says it:
+Gĩa na nganja rĩrĩa app kana matangazo mekuuga atĩ:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- „nĩ ĩgiragĩrĩria,“ „nĩ ĩcookagia,“ „nĩ ĩtũmaga ĩtigathii na mbere“ kana „nĩ ĩhonia“ kĩrĩa kĩa kwĩririkania kana Alzheimer's;
+- „nĩ yonanĩtio na ũrigitani“ hatarĩ kuuga ũthuthuria ũrĩa, nĩ a maarĩ thĩinĩ, na nĩ kĩĩ kĩathimirwo;
+- nĩ ĩheanaga „ũkũrũ wa meciiria“ kana gĩthimo kĩa kũririkana kĩrĩa kĩonagia ta kĩmenyithia mũrimũ;
+- nĩ „ĩnooragia,“ „ĩkongerera“ kana „ĩgathaka“ meciiria;
+- ĩhũthagĩra ũira wa andũ ta kĩonithia.
 
-If you are unsure about a claim, ask the person's doctor.
+Ũngĩkorũo ndũmenyete wega igũrũ rĩa ciugo, ũria ndagitari wa mũndũ ũcio.
 
-## Where does Golden Moments fit?
+## Golden Moments ĩikaraga ha?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ĩheanaga mawĩra mahũthũ ma gwĩka hamwe, ti kĩgerio kĩa kũririkana, ũrigitani kana ũtaaro wa ndagitari. Michetho iitũ, ta [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) na [Calm Breathing](/games/calm-breathing/), nĩ ithondekeirũo gwĩkenia na kwaranĩria. Ndĩmenyagĩrĩria, ndĩmataga, ndĩgiragĩrĩria kana gũthima kĩrĩa kĩa kwĩririkania, na tũtirĩ na ciugo cia ma igũrũ rĩa kũririkana kana meciiria.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Ningĩ nĩ tũthondekete app ya tũhũ, [Golden Moments ya iPhone, iPad na Android](/app/). Ĩrĩ na mĩceere mĩhooreri ya kũringithania mbica na tũhũũri tũnene, michetho ya mbica cia famĩlĩ iria ũthuuraga, na mabũndĩki ma mbica marĩa marutaga wĩra hatarĩ intaneti, hatarĩ akaunti, matangazo, mathaa ma gũthima kana ciũgũ. Mũtaratara o ro ũcio nĩ ũkoniĩ: rũũri rwa mwanya rwa App Store ruugaga „Data Not Collected“, na [watho wa mwanya wa app](/app-privacy/) nĩ ũtaarĩria harĩa mbica iria cikũrũkĩtio ciigagwo.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Nĩ twenda ũtũtue ni we mwene handũ ha gũtwĩtĩkia o ũguo. Hũthĩra mũtaratara wa gĩcunjĩ gĩkĩ, thoma [gĩcunjĩ giitũ kĩa mwanya](/privacy/) na [mũkaana witũ wa maũndũ ma ndagitari](/medical-disclaimer/), na tiga kũhũthĩra kĩndũ o gĩothe, o na kiitũ, kĩrĩa gĩtaringaine na mũndũ ũrĩa ũroraga.
 
-## What is a sensible way to try a new app?
+## Nĩ njĩra ĩrĩkũ njega ya kũgeria app njerũ?
 
-Try it together for a couple of weeks and watch what happens.
+Mĩgeriei hamwe ihinda rĩa ciumia igĩrĩ na mũrore kĩrĩa kũrekĩka.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Mĩhaarĩrie mbere** ũkĩhũthĩra [mũtaratara witũ wa kũhaarĩria tablet na thimũ](/caregiving/tablets-and-screens/), na wambĩrĩrie na gĩkĩro kĩrĩa kĩhũthũ mũno.
+2. **Ikaragai ihinda inini,** menyai macemo, mĩario na ũhooreri, na mũrĩkie hĩndĩ ĩrĩa njega.
+3. **Mĩtige angĩkorũo nĩ ĩreheaga kũrakara,** o na ĩngĩkorũo ĩrĩ na igweta njega mũno.

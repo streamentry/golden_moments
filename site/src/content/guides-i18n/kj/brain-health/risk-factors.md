@@ -1,33 +1,35 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Oinima tai eta oupyakadi wedimbuluko: 14 ya tumbulwa kuLancet"
+seoTitle: "Oinima 14 yedimbuluko ya tumbulwa kuLancet"
+description: "Oinima 14 ya tumbulwa kokomitiye yaLancet mo2024 tai dulu okulundululwa, pamido dokukalamwenyo, nosho yo osho to dulu okukundafana nandokotola."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Okomitiye yaLancet mo2024 oya tumbula oinima 14 tai dulu okulundululwa
+  oyo tai dulu okukwatafana noupyakadi wedimbuluko: ehongo lixupi, okuuda
+  noudjuu, o-LDL cholesterol ya londa, oluhepo lopamadiladilo, oshilonga
+  shomomutwe, okuhalonga olutu, oushikisha, okushila omakaya, ombundu yopombada,
+  ondjudo ya pitilila, okunwa oalkoholi unene, okukala wa yooloka ko kuvamwe,
+  omhepo ya nyata nosho yo okuhamona nawa inaku pangwa. Aishe kumwe ohai
+  kwatafana noipupulu 45% yoihopaenenwa mounyuni aushe, ndele kape na
+  oushili kutya otashi ka ningilwa keshe umwe.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Oinima ei 14 ohai hange omunhu moukalamwenyo aushe: shimwe mounyasha, omulongo pokati komido, nhatu moukulupe."
+  - "Okuuda noudjuu nosho yo o-LDL cholesterol ya londa pokati komido keshe shimwe ohashi kwatafana noipupulu 7% yoihopaenenwa yedimbuluko mounyuni aushe, osho shi li pombada shi dulife oinima ikwao."
+  - "Oipupulu ei oyo omavalulo opashiwana taa tula mo ediladilo kutya oshinima otashi etifa shikwao. Omakwatafano amwe otashi dulika a kale ashike oshitopolwa shoshili."
+  - "Oukulukulu noikwamufyuululwalunde, oyo inai dulu okulundululwa, nayo oyo oinima inene tai eta oupyakadi. Okushunifa pedu oinima ei 14 itashi shilipaleke kutya omunhu ita ka kala noupyakadi wedimbuluko."
+  - "Oinima ihapu apa, ngaashi okutala ombundu, okuuda nomesho, oiwa koukolele meenghedi dimwe notai wapalele okukundafanwa nandokotola."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Oinima 14 ilipi tai dulu okulundululwa tai eta oupyakadi wedimbuluko?"
+    a: "Okomitiye yaLancet mo2024 oya tumbula ehongo lixupi, okuuda noudjuu, o-LDL cholesterol ya londa, oluhepo lopamadiladilo, oshilonga shomomutwe, okuhalonga olutu, oushikisha, okushila omakaya, ombundu yopombada, ondjudo ya pitilila, okunwa oalkoholi unene, okukala wa yooloka ko kuvamwe, omhepo ya nyata nosho yo okuhamona nawa inaku pangwa. Aishe kumwe ohai kwatafana lwopopepi netata loihopaenenwa yedimbuluko mounyuni aushe."
+  - q: "Oshinima shilipi shi na oshilonga unene mokukwatafana noupyakadi wedimbuluko?"
+    a: "Mounyuni aushe, okomitiye oya tengeneka kutya okuuda noudjuu nosho yo o-LDL cholesterol ya londa pokati komido keshe shimwe ohashi kwatafana noipupulu 7% yoihopaenenwa, sha landulwa kehongo lixupi nokukala wa yooloka ko kuvamwe keshe shimwe noipupulu 5%. Oinima ilipi ya fimanenena komunhu umwe oya kwatelwa moukolele waye, onghee ndokotola oye e li omuwiliki muwa."
+  - q: "Mbela oinima ivali ipe oya wedwa mo mo2024?"
+    a: "Heeno. Olopota yomo2024 oya weda ko o-LDL (ii) cholesterol ya londa pokati komido nosho yo okuhamona nawa inaku pangwa moukulupe koinima 12 ya tumbulwa mo2020. Okomitiye oya ti oi na ekwatafano noipupulu 7% noipupulu 2% yoihopaenenwa."
+  - q: "Mbela oukulukulu oshinima tashi dulu okulundululwa?"
+    a: "Ahowe. Oukulukulu owo oshinima sha shiivika nawa unene tashi eta oupyakadi waAlzheimer, notashi dulu okulundululwa. Oikwamufyuululwalunde nayo oi na oshinakuwanifwa. Oinima 14 eli kepandja eli oyo omapekapeko taa ulike kutya otashi dulika i lundululwe."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +51,84 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Oshinima tashi eta oupyakadi osho oshinima shi na ekwatafano nomhito ya kula yokumona oudu wonhumba. Hasho alushe tashi ti osho sha etifa oudu, nokukala nasho itashi ti kutya omunhu ota ka kala noupyakadi wedimbuluko. Epandja eli otali ulike oinima 14 tai eta oupyakadi wedimbuluko oyo okomitiye yaLancet mo2024 ya ti otai dulu okulundululwa, osho omapekapeko e i kwatakanifa nasho, nosho yo osho to dulu okukundafana nandokotola.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Opo u mone efano linene, mwa kwatelwa osho omakonaakono manene a mona, hovela apa
+[Mbela oupyakadi wedimbuluko otau dulu okukeelelwa? Osho omapekapeko taa ti](/brain-health/can-dementia-be-prevented/).
+Eli olo ouyelele wopashiwana, halombwelo lopaunamiti; tala
+[elondwelo letu lopaunamiti](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Oinima 14 ilipi tai eta oupyakadi wedimbuluko?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Okomitiye yaLancet mo2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+ya shangwa kovanongononi 27 vedimbuluko, oya tengeneka kutya oinima 14 tai dulu okulundululwa kumwe ohai kwatafana noipupulu 45% yoihopaenenwa yedimbuluko mounyuni aushe. Oshipupulu shoshinima keshe shi li apa pedu osho etengeneko lokomitiye loshitukulwa shoihopaenenwa mounyuni aushe shi na ekwatafano nasho, sha tulwa momuvalu wa yukilila. Omivalu odi na omakwatakanifo, molwaashi ovanhu vahapu ove na oinima ihapu tai eta oupyakadi poshikando shimwe, onghee ohadi lumbakana 45% ndele hadi kala ihapu.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Oshinima tashi eta oupyakadi | Efimbo moukalamwenyo | Oshitukulwa shoihopaenenwa | Osho omapekapeko taa ulike | Osho to dulu okuninga |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Ehongo lixupi | Mounyasha | 5% | Omido dinini dokofikola oda kwatakanifwa noupyakadi munene. Okukala wa longifa omadiladilo pokati komido otaku monika taku amene, nokuli nokovanhu va li ve na ehongo lixupi. | Twikila okulihonga nokulonga oinima tai longifa omadiladilo pefimbo keshe: okulesha, oinima oyo u hole, oilongwa, omaudano navamwe. |
+| Okuuda noudjuu | Pokati komido | 7% | Okuuda noudjuu inaku pangwa okwa kwatakanifwa noupyakadi munene. Omapekapeko oo taa shikula ovanhu efimbo lile otaa ulike kutya okulongifa oikwamifudo yokuuda okwa kwatakanifwa noupyakadi munini. | Ka konakonife okuuda kwoye. Pula ngeenge oikwamifudo yokuuda otai dulu okukwafela, ndele i djala ngeenge wa pewa. Amena omatwi koshilonga shina omawi mahapu. |
+| O-LDL cholesterol ya londa | Pokati komido (okuhovela lwopomido 40) | 7% | O-LDL ("ii") cholesterol ya londa pokati komido oya kwatakanifwa noupyakadi munene. Omapekapeko ekonakono otaa ulike kutya okulongifa omiti da statin okwa kwatakanifwa noupyakadi munini, ndele omakonaakono omomido dokomesho inaa ulika oshinima sha faafana. | Pula ndokotola woye ngeenge o-cholesterol yoye oi na okukonakonwa nosho yo kutya owa pumbwa okuninga shike. |
+| Oluhepo lopamadiladilo | Pokati komido | 3% | Oluhepo lopamadiladilo ola kwatakanifwa noupyakadi munene. Moukulupe, otali dulu yo okukala edidiliko lotete ledimbuluko tali ninipala. | Lombwela ndokotola kombinga yomaliudo mai ile okuhe na ohokwe efimbo lile li dulife oivike ivali. Oluhepo lopamadiladilo otali dulu okupangwa. |
+| Oshilonga shomomutwe | Pokati komido | 3% | Oshilonga shomomutwe pefimbo keshe nokomukalo keshe, mwa kwatelwa omaudano omakwato, osha kwatakanifwa noupyakadi munene. | Djala ombakitela ngeenge to enda nombasikela ile to dana omaudano omakwato. Pula kombinga yokukeelela okuwa. Fuda po nokukakonakonwa konima yoshilonga shomomutwe. |
+| Okuhalonga olutu | Pokati komido | 2% | Ovanhu ovo hava deula olutu nohava dana omaudano kashi fi shipu va kale noupyakadi wedimbuluko. Oumbangi womomakonaakono natango ou li munini. | Pula kutya edeulo lilipi la amenena kwoove, ndele hoolola osho u hole. Tala [ewiliko letu lokudeula olutu](/brain-health/exercise/). |
+| Oushikisha | Pokati komido | 2% | Oushikisha, unene tuu ngeenge wa hovela pokati komido ile wa kala efimbo lile, owa kwatakanifwa noupyakadi munene. | Ka konakonife osuuka yohonde. Ngeenge u na oushikisha, longa pamwe nongudu yoye youhaku opo u u pange nawa. |
+| Okushila omakaya | Pokati komido | 2% | Okushila omakaya okwa kwatakanifwa noupyakadi munene. Omapekapeko otaa ulike kutya ovo va efa okushila inava humbata oupyakadi wa faafana naavo tava twikile. | Pula ekwafo opo u efe po. Otashi kwafa okweefa po pefimbo keshe. |
+| Ombundu yopombada | Pokati komido | 2% | Ombundu yopombada pokati komido oya kwatakanifwa noupyakadi munene. Omakonaakono omiti dombundu otaa ulike kutya otashi dulika pa kale oupyakadi munini wedimbuluko ile wokudiladila. | Shiiva omuvalu woye. Okomitiye otai ti omuvalu wokombada u kale 130 ile u shune pedu okudja lwopomido 40; pula kutya elalakano lilipi le ku wapalela. |
+| Ondjudo ya pitilila | Pokati komido | 1% | Ondjudo ya pitilila pokati komido oya kwatakanifwa noupyakadi munene, nohai eta yo oupyakadi woushikisha. | Pula ndokotola woye kombinga yondjudo iwa kwoove. Ovanamido itava dulu okweefa po oikulya va ninipale nopehe na omayele opaunamiti. |
+| Okunwa oalkoholi unene | Pokati komido | 1% | Okunwa unene okwa kwatakanifwa noupyakadi munene. Okuninipala okudja mokunwa unene okwa kwatakanifwa noupyakadi munini. | Pula kutya ongushu iwa ilipi kwoove, unene tuu pamwe nomiti doye. |
+| Okukala wa yooloka ko kuvamwe | Moukulupe | 5% | Okukala ino popya ile ino shakeneka navamwe luhapu okwa kwatakanifwa noupyakadi munene. | Kala wa kwatakanifwa novanhu meenghedi odo u hole. Tala [ewiliko letu lokukala novanhu](/brain-health/social-connection/). |
+| Omhepo ya nyata | Moukulupe | 3% | Okukala monhele yomhepo ya nyata okwa kwatakanifwa noupyakadi munene. Omapekapeko otaa ulike kutya omhepo ya koshoka oya kwatakanifwa noupyakadi munini. | Shihapu oshinima shepangelo nomikalo dovanhu aveshe. Tala omalondwelo omhepo moshitopolwa sheni ndele ninipala efimbo lokukala pondje ngeenge omhepo ya nyata unene. |
+| Okuhamona nawa inaku pangwa | Moukulupe | 2% | Omaupyakadi omesho inaa yukifwa okwa kwatakanifwa noupyakadi munene. Ekonakono limwe linene moAmerika ola kwatakanifa etando loik Cataract noupyakadi munini. | Ka konakonife omesho oye pandjikilile. Pula ngeenge omaupyakadi ngaashi oik Cataract otaa dulu okupangwa. |
 
-## How should I read these percentages?
+## Nandi leshe ngahelipi oipupulu ei?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Nounghendi. Olopota yokomitiye vene otai yelifa oinima imwe ya fimana okudimbuluka:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Otai yelifa oshiwana, hakomunhu pauhandimwe.** [Efatululo laUniversity College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  otali ti kutya okushunifa pedu oupyakadi otashi longo moshiwana ashike itashi shilipaleke kutya omunhu keshe ita ka kala noupyakadi wedimbuluko.
+- **Otai tula mo ediladilo loshietifi noshizemo.** Ovashangi ova kufa mo ashike oinima i na oumbangi wa kola, ndele otava ti omakwatafano amwe otashi dulika a kale ashike oshitopolwa shoshili.
+- **Ei oyo omuvalu womounyuni aushe.** Oumbangi muhapu owa dja moilongo ya punapala, onghee oshitukulwa shoshili shoshilongo ile shomudingonoko keshe otashi dulu okukala sha yooloka.
+- **Oipupulu inini nayo otai dulu okukala ya fimana.** Oshinima sha kwatakanifwa noipupulu 2% yoihopaenenwa mounyuni aushe natango otashi kumu ovanhu vahapu.
 
-## Which risk factors were added in 2024?
+## Oinima ilipi ya wedwa mo mo2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Olopota yomo2024 oya weda ko oinima ivali koinima 12 ya tumbulwa mo2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **O-LDL cholesterol ya londa pokati komido**, ya kwatakanifwa noipupulu 7% yoihopaenenwa.
+- **Okuhamona nawa inaku pangwa moukulupe**, kwa kwatakanifwa noipupulu 2% yoihopaenenwa.
 
-## What risk factors cannot be changed?
+## Oinima ilipi itai dulu okulundululwa?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging oya ti
+[oukulukulu owo oshinima sha shiivika nawa unene tashi eta oupyakadi waAlzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+nokape na ou ta dulu oku u lundulula. Oikwamufyuululwalunde nayo oi na oshinakuwanifwa; omufyuululwalunde umwe wa shiivika oo hau nwefa mo oupyakadi waAlzheimer ohau ifanwa APOE. NIA oya weda ko kutya ovanongononi inava uda ko natango filufilu osho hashi eta Alzheimer movanhu vahapu. Okomitiye yaLancet otai ti kutya oinima tai dulu okulundululwa otai dulu okushunifwa pedu kashi na nee mbudi kutya omunhu oku na oupyakadi wopamufyuululwalunde ulipi.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Molwaashi oukulukulu noikwamufyuululwalunde oi na oshinakuwanifwa shinene, ovanhu vahapu ovo vehe na nande oshimwe shomoinima 14 natango otava dulu okukala noupyakadi wedimbuluko. Hasho epuko lasha.
 
-## What does the trial evidence say about changing these risks?
+## Oumbangi womomakonaakono otau ti shike kombinga yokulundulula oinima ei?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Okukwatakanifa oshinima noupyakadi wedimbuluko inashi faafana nokushilipaleka kutya okulundulula osho otaku shunifa pedu oupyakadi wedimbuluko. Oihopaenenwa imwe apa opo oumbangi womakonaakono wa fika:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Ombundu yopombada.** Mekonakono laSPRINT MIND, elalakano lombundu ya shuna pedu ola shunifa pedu lela oupyakadi munini wokudiladila. Inali shunifa pedu lela oupyakadi wedimbuluko wa fa u li po, nonande ekonakono otashi dulika la li linini unene okuulika oshinima osho ([SPRINT MIND muJAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Oikwamifudo yokuuda.** Okomitiye yaLancet otai hokolola ekonakono loomwedi 36 loikwamifudo yokuuda inali mona elunduluko liwa mokudiladila kwaaveshe, ndele ola mona ouwa mongudu yovanhu va li ve na oupyakadi munene. Omapekapeko oo taa shikula ovanhu efimbo lile otaa ulike kutya okulongifa oikwamifudo yokuuda okwa kwatakanifwa noupyakadi munini. [Ewiliko letu lokuuda](/brain-health/hearing/) oli na ouyelele muhapu.
+- **Edeulo lolutu.** National Institute on Aging oya ti kape na oumbangi wa wana womomakonaakono opo ku tiwe kutya edeulo lolutu otali dulu okukeelela ile okuninipika oupyakadi munini wokudiladila ile Alzheimer, nonande omapekapeko amwe otaa ulike kutya otashi dulika shi kwafele mokuninipika okushonopala kwomadiladilo okuyelekanifa noukulukulu
+  ([NIA kombinga yokukeelela Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Omakonaakono male oo taa teelele oupyakadi wedimbuluko u holoke ohaa kwata efimbo lile nohadi pula oimaliwa ihapu, onghee koinima ihapu oumbangi muwa otau twikile okudja momapekapeko oo taa shikula ovanhu oule weedula. Oumbangi oo ou na oshilonga, ndele kau na eenghono ngaashi ekonakono la yelekwa.
 
-## What about sleep and diet?
+## Ongahelipi kombinga yeemhofi nokulya?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Okomitiye oya konakona eemhofi nokulya ndele inai i weda ko keliste, molwaashi oumbangi kawa li wa kola ile tau tu kumwe nawa. Omawiliko etu kombinga
+[yeemhofi](/brain-health/sleep/) nokombinga
+[yokulya](/brain-health/diet/) otaa yelifa osho sha shiivika.
 
-## Talk with a doctor
+## Kundafana nandokotola
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Ekonakono loukolele lomudo keshe olo efimbo liwa okupopya oinima ei. Oto dulu okweeta eliste eli nokupula:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Omivalu dange dombundu, dosuuka yohonde nodi-cholesterol odilipi, nopeni pa pumbwa elitulemo?
+- Mbela ondi na okukakonakonifa okuuda nomesho ange?
+- Edeulo olo handi ningi ola amenena nole lilongekida nawa kwaame?
+- Mbela ope na omiti dange dimwe tadi dulu okunwefa mo edimbuluko ile okudiladila?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Ofimbo ino lundulula omiti, eendja, okweefa po okulya, edeulo lolutu ile oitungifi yokuwedela, kundafana tete nandokotola. Ngeenge ove ile omunhu oo u na ko nasha naye okwa kala mefimbo lixupi a ngwangwana, a nghundipala kombinga imwe yolutu, ile ta mono oudjuu mokupopya, denga diva ongodi yomayakulo omeendelelo moshitopolwa sheni (ngaashi 112).

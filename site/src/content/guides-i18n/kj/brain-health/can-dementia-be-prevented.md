@@ -1,35 +1,37 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Okudimbwa otaku dulu okukeelelwa? Osho omapekapeko taa ti"
+seoTitle: "Okudimbwa otaku dulu okukeelelwa? Omapekapeko"
+description: "Osho Okomisi yoLancet ya2024 nomakonakono makwao a mona kombinga yokuninipika oshiponga shokudimbwa, osho inaa mona, nomalunduluko okupukulula nandokotola."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Kape na ou ta dulu okuudaneka kutya okudimbwa otaku keelelwa. Okomisi yoLancet
+  ya2024 oya tengeneka kutya oipambuliko i fike lwopopefele yaavo ve na okudimbwa
+  mounyuni aushe oya pambafana noinima 14 oyo hai eta oshiponga noyi dulu
+  okulundululwa, ngaashi omufudo womhito wa londa pombada, okuhauda ko nawa
+  nokuhalongifa olutu. Omakonakono okwa ulika omalunduluko manini momayeleko
+  okudiladila, ndele hao oumbangi kutya ovanhu ovanini tava ka kala nokudimbwa.
+  Ovanhu vahapu ovo hava ningi ashishe “mondjila” natango otava dulu okukala
+  nokudimbwa, ndele kashi fi epuko laumwe.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Okomisi yoLancet ya2024 oya pambafanifa oipambuliko i fike po 45% yaavo ve na okudimbwa mounyuni aushe noinima 14 oyo hai eta oshiponga noyi dulu okulundululwa. Osho etengeneko loungudu wovanhu, hakeudaneko lopaumwene."
+  - "Okuninipika oshiponga otashi ti okushunifa pedu omhito moungudu wovanhu aushe. Inashi hala okutya omunhu keshe ota dulu okuhenuka okudimbwa."
+  - "Omakonakono manene ngaashi FINGER, US POINTER na SPRINT MIND okwa mona ouwa munini momayeleko okudiladila ile momaupyakadi manini okudiladila, ndele kape na limwe la ulika kutya elunduluko longhalamwenyo otali kelele okudimbwa."
+  - "Oukulu oo oshiponga shinene sha shiivika shoudu waAlzheimer, ndele itau dulu okulundululwa. Ovanhu vahapu ve na eenghedi diwa dokukalamwenyo natango otava dulu okukala nokudimbwa."
+  - "Eenghatu odo hadi konakonwa unene, ngaashi okuhakula omufudo womhito wa londa pombada, okulongifa oikwamifudo yokuuda nokukala to longifa olutu, oda wana okupopiwa nandokotola molwaashi ohadi kwafele yo oukolele peemhito dimwe."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Okudimbwa otaku dulu okukeelelwa?"
+    a: "Kape na ondjila ya yelifwa tai kelele okudimbwa komuntu keshe. Omapekapeko otaa ulike kutya okuninipika oinima imwe oyo hai eta oshiponga, ngaashi omufudo womhito wa londa pombada, okuhauda ko nawa inaku hakulwa nokushila omakaya, otashi dulika shi ninipike omhito yokukala nokudimbwa moungudu wovanhu ile shi undulile komesho efimbo eshi tashi hovele. Edi omhito, hadeudaneko."
+  - q: "Oshivalu sho 45% shOkomisi yoLancet otashi ti shike?"
+    a: "Okomisi yoLancet ya2024 oya tengeneka kutya oipambuliko i fike po 45% yaavo ve na okudimbwa mounyuni aushe oya pambafana noinima 14 oyo hai eta oshiponga noya li tai dulu, paunongononi, okulundululwa. Etengeneko eli ola tala ko kutya oinima oyo otai eta okudimbwa, novanyoli ova ti ekwatafano limwe otali dulu okukala ashike oshiyetifa shimwe. Otali popi kombinga youngudu wovanhu aushe ndele itali mu lombwele oshiponga shomunhu keshe pauhandimwe."
+  - q: "Ngeenge omudali wange okwa li e na onghalamwenyo iwa, omolwashike a ka kala nokudimbwa?"
+    a: "Oukulu, omaukwatya opandjele nomoinima ihapu oyo kape na ou te i pangele oi na oshinakuwanifwa shinene mokudimbwa. Ovanyoli vOkomisi yoLancet ova ti okuninipika oshiponga moungudu wovanhu itashi shilipaleke kutya omunhu keshe ote ke li henuka. Okumona oudu inashi hala okutya ope na ou a dopa."
+  - q: "Mbela osha lata okuninga sha okuninga oshiponga shokudimbwa konima yomido 65?"
+    a: "Okomisi yoLancet oya ti inashi kala nale unene ile sha lata unene okuninipika oshiponga, nonande oumbangi muhapu owa tala komido dopokati. Okuhakula omaupyakadi okuuda nokumona ko, okukala to longifa olutu nokukala wa kwatakanekwa novanhu vamwe oi li oihopaenenwa yeenghatu domido dokomesho odo da konakonwa. Popyeni nandokotola kombinga yaasho tashi wapalele oukolele weni."
+  - q: "Mbela omaudano omadiladilo ile eendja donhumba otaa kelele okudimbwa?"
+    a: "Kape na oudano, oikulya, oshitungifo shokuwedela ile omhumbwe yeendja ya yelifwa tai kelele okudimbwa. Ekonakono lomido nhatu lomhumbwe yeendja yaMIND inali mona eyooloko la fimana mokudiladila ngeenge tali yelekwa nomhumbwe imwe i lili, noupologalama wokudeula omadiladilo wangeshefa inau ulikwa u na oilanduliko ya fa oyo ya monika momakonakono opanongononi."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +65,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ngeenge omu li tamu file oshisho omunhu ta kala noudu wokudimbwa, ile omwa mona omudali weni ta kala nao, otashi dulika mwa kala tamu lipula ngeenge oudu owa li tau dulu okukeelelwa, nongeenge nye vene otamu dulu oku u keelela. Epandja eli otali yelifa osho omapekapeko taa ti shili, melaka liipu. Enyamukulo lixupi: kape na ou ta dulu okuudaneka kutya okudimbwa otaku keelelwa, ashike omapekapeko otaa ulike kutya oinima imwe oyo hai eta oshiponga otai dulu okuninipekwa, nokuninipika oinima oyo moungudu wovanhu aushe otashi dulika shi ningife ovanhu vanini va kale nokudimbwa ile va kale nao lwanima.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ou ouyelele wopetameko, hauyelele wopaunamiti. Alikana lesheni [elondwelo letu lopaunamiti](/medical-disclaimer/) nokupopya nandokotola kombinga youkolele weni.
 
-## Can dementia be prevented?
+## Okudimbwa otaku dulu okukeelelwa?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Kape na ondjila ya yelifwa tai kelele okudimbwa komuntu keshe pauhandimwe. O-National Institute on Aging (NIA) oya ti kutya nonande [inapa yelifwa sha natango tashi kelele oudu waAlzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), ovakonakoni ova mona eenghedi tadi tula eteelelo nove li mokulihonga osho tashi dulu naasho itashi dulu okulonga.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Osho omapekapeko *taa* ulike osho kutya oukolele wonhumba neenghedi donhumba dokukalamwenyo oya pambafana nomhito ya kula yokukala nokudimbwa. Ngeenge oinima oyo hai eta oshiponga oya ninipala moungudu wovanhu aushe, ovanhu vanini otashi dulika va kale nokudimbwa, ile va kale nao konima mefimbo longhalamwenyo. Osho osha yooloka filufilu kokuudaneka sha shili.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Oshiholekwa shimwe shokutula eteelelo: Okomisi yoLancet ya2024 oya lopota kutya moilongo imwe ya punapala, mwa kwatelwa Omapangelo Ahangana naUK, oshitukulwa shovanhu ovakulunhu ve na okudimbwa osha ninipala. Ovanyoli ova diladila kutya eshi otashi dulika sha etwa koshiyetifa shimwe kohongo iwa, kepangelo liwa louhaku nokuninipika omakwatelo omite momutima nomididimbe moule wefimbo longhalamwenyo, metwokumwe [nefupipiko lUCL lolopota](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Okomisi yoLancet ya2024 oya mona shike?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Okomisi yoLancet yokukelela, okuyandja ekwafo nokufila oshisho okudimbwa ongudu yovakonakoni 27 vokudimbwa ovo hava konakona oumbangi omido donhumba keshe. Olopota yavo ya2024 oya tumbula **oinima 14** oyo hai eta oshiponga noyi dulu okulundululwa, noya tengeneka kutya kumwe otai kwatele mo **lopefele laavo ve na okudimbwa mounyuni aushe (shi fike po 45%)**. Pamadiladilo ovanyoli, oipambuliko ei oya li *paunongononi* tai dulu okukeelelwa ile okuxwepopalekwa ngeenge oinima oyo hai eta oshiponga oya li ya kufwa po filufilu ([olopota yOkomisi yoLancet ya2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Oinima 14 oyo, ya tulwa momangudu pahalo longhalamwenyo opo oumbangi wa kola unene:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Ounyasha:** ohongo inini.
+- **Omido dopokati (lwopeemido 40 fiyo 65):** okuhauda ko nawa, o-LDL cholesterol (“ii”) ya londa pombada, okukala wa nyika oluhodi, epulo lomutwe, okuhalongifa olutu, oushikisha, okushila omakaya, omufudo womhito wa londa pombada, ondjudo ya pitilila, nokunwa oikunwa yoalkoholi unene.
+- **Omido dokomesho:** okukala uhe na ekwatafano novanhu, omhepo ya nyatekwa, nomaupyakadi okumesho inaa hakulwa.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Oinima ivali ipe oyo ya wedwa mo mu2024 oyo o-LDL cholesterol ya londa pombada nomaupyakadi okumesho inaa hakulwa. Oinima oyo ya pambafana noshitukulwa shinene shoipambuliko oya li okuhauda ko nawa no-LDL cholesterol ya londa pombada (keshe umwe shi fike po 7%), ya shikula kohongo inini nokukala uhe na ekwatafano novanhu (keshe umwe shi fike po 5%).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Oukwatya wetu woinima oyo hai eta oshiponga](/brain-health/risk-factors/) otau i yelifa aishe 14 metabeli, nosho omapekapeko taa i pambafanifa naasho to dulu okuninga.
 
-### What the 45% figure does not mean
+### Osho oshivalu sho 45% inashi hala okutya
 
-It is easy to misread this number, so it helps to be precise:
+Oshipu okulesha epuko oshivalu eshi, onghee osha fimana okuyelifa nawa:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Osho etengeneko loungudu wovanhu.** Otali popi oipambuliko yokudimbwa mounyuni aushe, hamhito yeni ile yovadali veni.
+- **Otali tale ko kutya ope na etomeno noilanduliko.** Ovanyoli ova ti ova tula mo ashike oinima oyo hai eta oshiponga i na oumbangi wa tomha, ashike omakwatafano amwe otaa dulu okukala ashike oshiyetifa shimwe. Pashihopaenenwa, okukala wa nyika oluhodi momido dokomesho otashi dulika shi kale omandidiliko opehovelo lokudimbwa ponhele yokukala etomeno.
+- **Itali shilipaleke sha nande komuntu umwe.** Efupipiko laUCL otali ti kutya okuninipika oshiponga ohaku longo pefimbo loungudu wovanhu ndele itashi shilipaleke kutya omunhu keshe ote ke li henuka.
+- **Etata likwao itali fatululwa koinima ei.** Oukulo, omaukwatya opandjele nomatomheno oo ovanongononi inave a uda ko natango otaa kwatele mo aishe ikwao.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Eyooloko olilipi pokati kokuninipika oshiponga nokukelela?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Okuninipika oshiponga** otashi ti okushunifa pedu omhito. Ngeenge ongudu inene yovanhu oya ninipike omufudo womhito, ovanhu vanini mongudu omo otashi dulika va kale nokudimbwa moule womido dihapu shi dulife ngeno inava ninga ngaho. Ovanhu vamwe mongudu oyo natango otava ka kala nao.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Okukelela** otashi ulike kokukandeka sha shiha ningwe nandenande. Shi na sha nokudimbwa, osho kashi fi osho omapekapeko taa dulu okuudaneka kuumwe nena.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ovakonakoni ohava popi yo kombinga **yokuxwepopaleka**. Okomisi yoLancet oya lopota oumbangi mupe kutya okuninipika oshiponga otashi dulika shi undulile komesho efimbo eshi okudimbwa tashi hovele nokuxupipika efimbo omunhu ta kala moupyakadi woukolele. Nokuli exwepopalo lomido dinini otali dulu okukala la fimana unene komunhu nokoukwaneumbo wavo.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Kepandja eli, ohatu longifa “okuninipika oshiponga” na “oya pambafana” nelalakano. Ngeenge omwa mono oshilongifo, oshitungifo shokuwedela ile opologalama tai udaneke “okukelela Alzheimer”, kaleni mu na elondwelo. O-NIA otai kumaida okupopya nandokotola manga inamu kendabala okakangwa ile epango keshe tali udaneke okukelela Alzheimer, molwaashi oilongifo ya tya ngaho otai dulu okukala ya nyika oshiponga, ehepaululo loimaliwa, ile aishe ivali.
 
-## What have large trials found?
+## Omakonakono manene okwa mona shike?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Omakonakono okukonakona eenghedi (oo haa tale osho tashi ningilwa ovanhu moule wefimbo) otaa dulu okuulika omakwatafano. Omakonakono omayeleko a hoololwa (opo ovanhu va pewa opologalama ile ongudu yokuyelekanifa pahoololo), oo eyeleko la kola. Apa ope na osho limwe lomomakonakono a shiivika nawa la mona.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Ekonakono laFINGER ola kwatela mo ovanhu 1,260 ve na omido 60 fiyo 77 ovo va li ve na oshiponga sha kula shokudimbwa. Etata ola pewa opologalama yomido mbali yomayele eendja, omaudhilo olutu, omaudano omadiladilo okupitila mokombiyuta nomakonakono oukolele womutima nomididimbe; etata likwao ola pewa omayele opashiwana oukolele. Ongudu yopologalama oya longa nawa kanini momayeleko okudiladila, eyooloko linini ashike la fimana pamivalu ([ekonakono laFINGER muThe Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Ekonakono ola yeleka oidjemo yomayeleko, hamatumbulo oudu wokudimbwa.
 
-### US POINTER (United States)
+### US POINTER (Omapangelo Ahangana)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ola kwatela mo ovanhu 2,111 ve na omido 60 fiyo 79 ovo va li ihava longifa olutu, ve na eendja inadi kala nawa nova li ve na oinima imwe vali oyo hai eta oshiponga. Eengudu adishe mbali oda ladipikwa di kale tadi longifa olutu nomadiladilo, di lye nawa, di kale novanhu vakwao nokukonakona oukolele womutima. Ongudu imwe oya mona opologalama ya unganekwa nekwafelo; ikwao oye liwilika yo vene. Moule womido mbali, oidjemo yomayeleko okudiladila oya xwepopala **meengudu adishe mbali**, noku xwepopala kanini mongudu ya unganekwa ([ekonakono laUS POINTER muJAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Ovanyoli ova ti okushikula ko kwa wedwa po okwa pumbiwa oku shiiva ngeenge eyooloko oli na oshilonga monghalamwenyo yakeshe efiku. Molwaashi kapa li ongudu “inai ninga sha”, ekonakono itali dulu okutya opologalama keshe oya kwafela shi fike peni ngeenge tai yelekwa nokuhenininga elunduluko.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (omufudo womhito)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND oya konakona ovanhu 9,361 vokuUS ve na omido 50 nokuyuka komesho ve na omufudo womhito wa londa pombada. Ova pewa elalakano lomufudo womhito la ninipala (onomola yokombada i li koshi yo 120) ile elalakano loshito (koshi yo 140). Elalakano la ninipala ola ninipika neenghono **omaupyakadi manini okudiladila**, onghatu yomadimbulukifo nomaupyakadi okudiladila oyo tai dulu okuya komesho yokudimbwa. Shi na sha **nokudimbwa taku diladilwa**, opa li oipambuliko inini mongudu yelalakano la ninipala, ashike eyooloko kala li la fimana pamivalu. Ekonakono ola xulifa po diva nolya li li na oipambuliko yokudimbwa inini shi dulife eshi la li la teelelwa, onghee otashi dulika la li linini unene okuyandja enyamukulo kepulo olo ([SPRINT MIND muJAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Osho omakonakono eengudu taa weda ko
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Omakonakono aCochrane a2021 okwa ongela omakonakono manene omuwoi eenghedi odo tadi ungaunga noinima ihapu oyo hai eta oshiponga poshikando shimwe, novanhu ve dulife 18,000. Okwa mona ouwa munini momayeleko okudiladila, ashike **kapa li eyooloko la yela kutya ovanhu vangapi va ka kala nokudimbwa** momakonakono avali oo e shi yeleka ([ekonakono laCochrane leenghedi dihapu](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Ekonakono la2017 lO-National Academies of Sciences, Engineering, and Medicine, la yelifwa kuNIA, ola mona oumbangi “tau tula eteelelo ashike inau yela filufilu” weenghedi nhatu: okupangela omufudo womhito wa londa pombada, okuhapupaleka omalongifo olutu, nokudeula omadiladilo.
 
-## Does it matter when you start?
+## Mbela osha fimana okutameka naini?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Omayele Okomisi yoLancet okukala okuninga oinima oyo hai eta oshiponga i ninipale diva ngaashi tashi dulika nokukala i li pedu efimbo lile ngaashi tashi dulika: “diva, oshiwa unene” na “efimbo lile, oshiwa unene”. Oya ti yo inashi kala nale unene ile sha lata unene okuninipika oshiponga. Oumbangi muhapu owa tala komido dopokati, lwopeemido 40 fiyo 65, ashike oinima imwe, ngaashi omaupyakadi okumesho nokukala uhe na ekwatafano novanhu, oi li oinima oyo hai eta oshiponga momido dokomesho omo eenghatu natango tadi dulu okukala di na oshilonga.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Olopota oya ti paife ope na oumbangi wa kola kutya okukala efimbo lile moinima oyo hai eta oshiponga oku na enwefemo linene. Pashihopaenenwa, oushikisha oo tau hovele momido dopokati otau monika wa fimana unene shi dulife oushikisha oo tau hovele lwanima.
 
-## Is dementia risk the same for everyone?
+## Mbela oshiponga shokudimbwa osha faafana komunhu keshe?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ahowe. Okomisi oya mona kutya ovanhu vomoilongo ihe na oiniwe ihapu ile yopokati, ovanhu vomomihoko dinini novanhu ve na oimaliwa inini luhapu ohava humbata oinima ihapu yomwaai hai eta oshiponga, onghee okudimbwa ohashi holoka luhapu pomido dinini. Oinima ihapu oyo hai eta oshiponga oya kwatakanekwa neenghalo odo ovanhu inava hoolola, ngaashi oukwatya wehongo olo va mona eshi va li ounona, omhepo opo hava kala, nongeenge oikulya iwa oi li po nawa noi na ondado i li nawa.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Osho nee omayele Okomisi okwa yukifwa keepangelo ngaashi yo kovanhu pauhandimwe: ehongo liwa kounona aveshe, omhepo ya koshoka, eenghatu dokuninipika okushila omakaya, okuninipika osuuka nomongwa meendja odo hadi landifwa momasitola nomorestauranda, noikwamifudo yokuuda kwaaveshe ovo ve i pumbwa. Eenghendabala domunhu oda fimana, ashike nonghalelo omo ovanhu hava kala nayo oya fimana. Osho etomheno limwe vali lihe na okupangula nande oumwe molwoudu.
 
-## What are the honest limits of this research?
+## Omapangelo omoule wopamapekapeko aa oelipi?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Okudimbwa ohaku kufa omido omilongo opo ku holoke**, ashike omakonakono mahapu ohaa kala omido mbali fiyo nhano. Okuyeleka okudimbwa kusho vene, haoidjemo yomayeleko ashike, okwa pumbwa omakonakono male unene nomaneenenene.
+- **Omakonakono mahapu ohaa yeleke omayeleko okudiladila.** Exwepopalo linini meyeleko inali hala okutya ovanhu vanini otava ka kala nokudimbwa ile onghalamwenyo yakeshe efiku otai ka kala ipu.
+- **Ovakwafi vomomakonakono luhapu ove na oukolele uwa** nohongo ya wedwa po shi dulife ongudu yovanhu aveshe. Okomisi yoLancet oya ti oumbangi muhapu natango otau di moilongo ya punapala nomihoko dinini inadi kalelwa po nawa.
+- **Omakwatafano amwe ohaa ende keembinga adishe mbali.** Okuhalongifa olutu ile okuhakala novanhu otashi dulika shi kale oshilanduliko shopehovelo shokudimbwa, hakukala ashike etomeno.
+- **Omakonakono eendja okwa nyemateka nafiyo opaife.** Ekonakono lomido nhatu lomhumbwe yeendja yaMIND inali mona eyooloko la fimana mokudiladila ngeenge tali yelekwa nomhumbwe imwe i lili. Taleni [oukwatya wetu weendja](/brain-health/diet/).
+- **Omaudano omadiladilo inaa yelifwa taa kelele okudimbwa.** Taleni oukwatya wetu kombinga [yomaudano omadiladilo nokudimbwa](/brain-health/brain-games/).
+- **Okulidilika okudya oku na oumbangi munini movanhu**, notaku dulu okukala kwa nyika oshiponga kovakulunhu. Taleni [oukwatya wetu wokulidilika okudya](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ngeenge omunhu okwa ninga ashishe “mondjila”, omolwashike natango a ka kala nokudimbwa?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Omolwaashi okudimbwa hashi di ashike momahoololo. O-NIA oya ti [oukulu oo oshiponga shinene sha shiivika shoudu waAlzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), ndele kape na ou te u lundulula. Omaukwatya opandjele nao otaa dana onghandangala. Novanongononi inava uda ko natango filufilu osho hashi eta Alzheimer movanhu vahapu. Nokuli nande oinima aishe 14 oyo hai eta oshiponga oya kufwa po, etengeneko lOkomisi yoLancet vene otali fiye po oipambuliko i dulife etata inai fatululwa.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Onghee ngeenge omu li tamu file oshisho omunhu oo a li ha longifa olutu, ha li nawa, ina shila nande omakaya ndele natango okwa ka kala nokudimbwa, kape na sha sha enda epuko kuvo, ile kunye. Ngeenge nye vene omu na okudimbwa, kashi fi epuko leni. Ondjo yokulimona epuko oi li po luhapu momaukwaneumbo, ashike inai wana. Osho sha fimana paife ombili, ekwatafano nomafiku mawa, nomadiladilo etu [oilonga yokulongela kumwe](/activities/ideas/) nosho yo [oukwatya wokulifila oshisho kwaavo hava file oshisho vamwe](/caregiving/caregiver-self-care/) oi li eenhele diwa okutamekela.
 
-## What steps can you talk over with a doctor?
+## Eenghatu dilipi tamu dulu okupopya nandokotola?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Edi odo eenhele odo hadi konakonwa unene. Oda wana okuyelekwa pokukonakonwa koukolele molwaashi dihapu domudo ohadi kwafele yo oukolele womutima, omaliudo nokukala u li pondjila yoye mwene, kashi na nee mbudi kutya enwefemo lado kokudimbwa otali ka kala ngahelipi.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Omufudo womhito.** Puleni kutya eenomola deni odilipi nelalakano lilipi tali mu wapalele. Okomisi yoLancet otai kumaida okulalakanena onomola yokombada yo 130 ile i li pedu okudja lwopomido 40, ashike elalakano liwa komukulunhu ola tala koukolele wavo aushe.
+2. **Okuuda.** Puleni mu konakonwe okuuda kweni, nokutala ngeenge oikwamifudo yokuuda otai dulu okukwafela. [Oukwatya wetu wokuuda](/brain-health/hearing/) otau yelifa omapekapeko.
+3. **Okumona ko.** Kaleni hamu i komakonakono omesho pandjikilile nokupula ngeenge omaupyakadi ngaashi okakololo (cataract) otaa dulu okuhakulwa.
+4. **O-cholesterol.** Puleni ngeenge o-LDL cholesterol yeni oi na okukonakonwa nongeenge ope na sha shi na okulundululwa.
+5. **Osuuka mohonde.** Ngeenge omu na oushikisha, puleni kutya mu u pangele ngahelipi nawa.
+6. **Omaliudo.** Okukala wa nyika oluhodi oku li po unene notaku dulu okuhakulwa. Lombweleni ndokotola ngeenge omwa kala mu udite mwa nyika oluhodi ile mwa kanifa ehalo loinima oule woivike ivali ile shi dulife po.
+7. **Okushila omakaya nokunwa oalkoholi.** Puleni ekwafo lokweefa po okushila omakaya nokombinga yeengaba da amenwa dokunwa oalkoholi.
+8. **Okweenda nokulongifa olutu.** Puleni kutya oludi lilipi lelongifo lolutu li li nawa kunye. [Oukwatya wetu womaudhilo olutu](/brain-health/exercise/) ou na omadiladilo.
+9. **Okukelela omutwe.** Djaleni oshikutu shokukelela omutwe ngeenge tamu endelele kombasikela ile tamu danaukile omaudano okupuma, nokupula kombinga yokukelela okuwila po.
+10. **Okukala mwa kwatakanekwa novanhu.** Efimbo novanhu vakweni oli li oshitukulwa shonghalamwenyo iwa. Taleni oukwatya wetu kombinga [yekwatafano novanhu](/brain-health/social-connection/), nosho yo [eemhofi](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Manga inamu lundulula omiti, eendja, oitungifo yokuwedela, okulidilika okudya ile omalongifo olutu, popyeni tandokotola, unene ngeenge omu na oudu womutima, oushikisha, ondjokonona yokuwila po, ile omu li nale tamu kala noudu wokudimbwa.
 
-## Talk with a doctor
+## Popyeni nandokotola
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ngeenge omwa mono omalunduluko omomadimbulukifo ile mokudiladila taa mu limbilike, kunye vene ile komunhu umwe, ningeni ewiliko lokumonafana. O-NIA oya ti [omaupyakadi omomadimbulukifo otaa dulu okukala e na omatomheno amwe](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), ngaashi oilanduliko yomiti, omaupyakadi ethyroid, okukala wa nyika oluhodi ile okuhe na sha B12, nonokutya omaupyakadi amwe ohaa xulu po ngeenge etomeno la hakulwa. [Oukwatya wetu womandidiliko elondwelo](/brain-health/warning-signs/) otau yelifa osho mu na okutala.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Kongeni ekwafo diva** komalunduluko ombwalangadja: okukaninga oumbada ombadilila, ounghundi ile okuhaudu ko kombinga imwe yolutu, oudjuu mokupopya, ile omutwe tau yahama unene otai dulu okukala omandidiliko ostroke ile oupyakadi umwe vali wa endelela. Dengeni 112.
 
-## Where Golden Moments fits
+## Opo Golden Moments tai kwafele
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments ohai longekida oilonga ilula yokulongela kumwe, ngaashi [oukalata vokupopya](/games/conversation-cards/), [obingo yomafano](/games/picture-bingo/) nosho yo [okufuda nombili](/games/calm-breathing/). Oya nuninwa okuhafifa nokukala pamwe. Kai fi epango, ndele itai kelele ile tai shunifa pedu okudimbwa.

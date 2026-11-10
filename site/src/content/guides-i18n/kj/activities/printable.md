@@ -1,33 +1,35 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Oilonga ya Nyanyangidwa ya Manguluka"
+seoTitle: "Oilonga ya Nyanyangidwa ya Manguluka: Eendada Dinene"
+description: "Oilonga ya dementia ya nyanyangidwa ya manguluka: okukonga oitya, omafo okufinga, oukalata veenghundafana nomabingo omafano, nomayele okukwafa eshi to nyanyangida."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments oha yandje oilonga ya nyanyangidwa ya manguluka yovanhu tava
+  kala noudu wokudimbwa: okukonga oitya meendada dinene, omafo okufinga,
+  oukalata veenghundafana omafano noukalata va picture bingo. Patulula epandja
+  loshanghaldangwa keshe ndele to longifa okambiyu kako Print. Nyanyangida
+  meendada dinene da yela, kombapila ya kola, ndele to tula oshilonga shimwe
+  alike kepandja limwe. Lamina omafo oo wa hala okulongifa natango. Oinima
+  ilula ya nyanyangidwa ya ningwa keumbo, ngaashi epandja londjokonona
+  yomwenyo ile elandulafano lefiku, nayo otai kwafa.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Oilonga yetu ya nyanyangidwa oya manguluka: Word Search, Coloring, Conversation Cards na Picture Bingo. Epandja loshanghaldangwa keshe oli na okambiyu ka Print."
+  - "Nyanyangida meendada dinene da yela, nomudidimbe wa yela nawa, ndele to tula oshilonga shimwe alike kepandja limwe."
+  - "Ombapila ya kola ile okakalata oka kwafa okupatwa nawa nokuhanyatukwa noupu. Lamina omafo opo u dule oku a longifa natango nomakanya taa dimwa po."
+  - "Oinima ilula ya nyanyangidwa ya ningwa keumbo, ngaashi epandja londjokonona yomwenyo, elandulafano lefiku ile omalebela omafano koivelo, oi li shipu notai kwafa."
+  - "Epandja la nyanyangidwa oshishivifo shokulongela kumwe, hashi oshilonga shofikola. Okuninga oshitukulwa shalo, ile okuheninga sha nandenande, oshi li nawa."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Oilonga yeni ya nyanyangidwa yovanhu tava kala noudu wokudimbwa oya manguluka tuu?"
+    a: "Heeno. Omapandja a Word Search, Coloring, Conversation Cards na Picture Bingo oku li pepandja eli otaa dulu okulongifwa nokunyanyangidwa oshali. Patulula epandja loshanghaldangwa ndele to longifa okambiyu ka Print."
+  - q: "Oilonga ilipi ya nyanyangidwa tai wapalele ovanhu tava kala noudu wokudimbwa?"
+    a: "Oinima ya nyanyangidwa tai longo nawa oi li ilula, ya yela noyovakulunhu: okukonga oitya meendada dinene noitya tai ende ashike kombinga nomuumbuti, omafo okufinga e na omalinyengo a yela, oukalata vomafano tava tameke eenghundafana, na picture bingo yeengudu. Hoolola oshilonga shi likolelela koinima oyo omunhu e hole nokoukwatya waye paife, ndele to tula oshilonga shimwe alike kepandja limwe."
+  - q: "Ohandi ningi ngahelipi opo oinima ya nyanyangidwa i kale ipu okumona nokulongifa?"
+    a: "Longifa eendada dinene da yela, inki ya laula kombapila itoka ile ya fa omashini, nonhele ya wana. Nyanyangida kombapila ya kola ile okakalata opo epandja li kale la yukilila, hoolola ombapila ihe na okweela opo i shunife ouyelele, ndele to longifa oklipibodi ile oshinima shihe na okushelela opo epandja li kale ponhele. Okulamina otaku kwafa omafo a kalelele."
+  - q: "Ohandi dulu tuu okunyanyangida oilonga yeni yongeleka yovafiloshisho ile elongelokumwe lomutenya?"
+    a: "Heeno. Ovo hava unganeke oilonga ova tambulwa ko va nyanyangide omapandja etu ovakalimo neengudu. Picture Bingo oya nuninwa eengudu notai kwatele mo omuleshi wokuulikila koskepa ile koprojeka."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +54,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Omafimbo amwe oshilonga shiwa unene epandja nombapila noshiti poshitaafula shomeumbo. Oinima ya nyanyangidwa kai pumbwa okuchajwa, oipassword ile oskepa, noi li ipu oku i twala ketalelepo ile keongalo. Epandja eli otali yelifa oilonga ya nyanyangidwa ya manguluka i li kepandja letu, nghee u na oku i nyanyangida opo i kale ipu okumona nokupata, noinima imwe ilula ya nyanyangidwa ya ningwa keumbo oyo omaukwaneumbo novalongi voilonga hava mono tai kwafa.
 
-## What free printable activities do you offer?
+## Oilonga ilipi ya nyanyangidwa ya manguluka mu na?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Otu na oinima ine ya nyanyangidwa ya manguluka. Patulula limwe lomomapandja aa oshanghaldangwa ndele to longifa okambiyu **Print** opo u mone oludi liwa lokunyanyangida.
 
-| Printable | What it is | Good for |
+| Sha nyanyangidwa | Oshike | Sha wapalela |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Okukonga oitya meendada dinene, noitya tai ende ashike kombinga nomuumbuti | Efimbo lombili noshiti; omunhu oo a li e hole omashendjo |
+| [Coloring](/games/coloring/) | Omafo okufinga taa nyanyangidwa, ile okufinga koskepa | Efimbo lombili lokutunga sha; keshe onghatu ngeenge pe na ekwafo |
+| [Conversation Cards](/games/conversation-cards/) | Oukalata vomafano ve na omapulo a manguluka opaitopolwa, hae fi omakonakono | Omatalelepo, eengodi, omalilo oukwaneumbo, eengudu deendjokonona |
+| [Picture Bingo](/games/picture-bingo/) | Oukalata va bingo ve na omafano ponhele yeevalulo, nomuleshi wokuulikila koskepa | Eengulu dovafiloshisho, omalongekido omutenya, eengudu doukwaneumbo |
 
-### Large-print word search
+### Okukonga oitya meendada dinene
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) ohai longifa eendada dinene nohai kaleke oitya tai ende ashike kombinga nomuumbuti, kape na oitya tai ende momudingonoko ile ya piluka. Longeleni kumwe: umwe ta lesha oshitya shomoludalwa, mukwao te shi kongo. Ngeenge okukonga oitya kwa ninga shidjuu, kendabaleni okudingilila pamwe onhumba yotete yoshitya keshe, ile lesheni ashike oitya yomoludalwa mokule ndele tamu kundafana kombinga yoshitya keshe.
 
-### Coloring pages
+### Omafo okufinga
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Omafo a [Coloring](/games/coloring/) otaa dulu okunyanyangidwa a fingwe nomakanya ile noipilangi yomavala, ile a fingwe kotableta mokutula omunwe komudidimbe ndele to ulike oshitukulwa shefano. Komafano a nyanyangidwa, yandja omakanya a kula nomavala manini pefimbo limwe. Tala [omayele etu oilonga yomake noyokutunga](/activities/arts-and-crafts/) u mone nghee okufinga taku dulu okukala kwovakulunhu nokwa ngungumana.
 
-### Conversation cards
+### Oukalata veenghundafana
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) otaa hangike efano la yela nepulo la manguluka, ngaashi „Lombwele nge kombinga ya…“ ile „Oshike to mono?“ Oa shangwa e li omashivo a manguluka, hae fi omapulo omakonakono. Nyanyangida ongudu, i tetaula, ndele to kaleke imwe mondjato yoye yomatalelepo ile popepi nongodi yoye. Otaa longo yo nawa meengudu de [endjokonona](/activities/reminiscence/).
 
-### Picture bingo cards
+### Oukalata va picture bingo
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Oukalata va [Picture Bingo](/games/picture-bingo/) ohava longifa omafano ponhele yeevalulo. Nyanyangida okakalata kamwe komudani keshe ndele to longifa omuleshi wokuulikila koskepa kolaptop, ko-TV ile koprojeka. Ohatu ladipike mu leshe fiyo okakalata kamunhu keshe ka yadifwa, opo pehe na ou ta kala pondje. Tala [oilonga yeengudu meengulu dovafiloshisho](/activities/care-home-groups/) u mone nghee to unganeke oshikando.
 
-## How do I print activities so they are easy to use?
+## Ohandi nyanyangida ngahelipi oilonga opo i kale ipu okulongifa?
 
-Small changes in how you print make a big difference.
+Omalunduluko manini monghedi omo to nyanyangida otaa dulu okuninga eyooloko linene.
 
-### Make it easy to see
+### I ninga ipu okumona
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Eendada dinene da yela.** Longifa onghedi inene yokunyanyangida oyo tai wanene natango kepandja. Henuka eendada da fa omafano ile da fa omashangelo omake.
+- **Omudidimbe wa yela nawa.** Inki ya laula kombapila itoka ile ya fa omashini. Henuka omudidimbe wa fefengwa ile omaluvala konima.
+- **Ombapila ihe na okweela** otai shunifa ouyelele koshi yomalamba a yela.
+- **Konakona omakende nokuyela kwelamba.** Alzheimer’s Association ota ti kutya omaupyakadi okomeso nokokuuda otaa dulu okuninga eenghundafana didjuu, nohatu ladipike a konakonwe pandjikilile. Olamba ya yela, ihe na omudidimbe nayo otai kwafa.
 
-### Make it easy to hold
+### I ninga ipu okupata
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Ombapila ya kola ile okakalata** otai kala ya yukilila, oi li ipu okunyamunwa, noihai nyonauka diva ngeenge tai longifwa lwoikando.
+- **Oklipibodi** ile oshinima shihe na okushelela otashi kwafele epandja liha shelele.
+- **Omakanya a kula ile oipilangi ya kula** oi li ipu okupata i dule oipena ile oipilangi ya finana.
 
-### Make it reusable
+### I ninga tai dulu okulongifwa natango
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Lamina omafo** ile u a tule moipambu ya yela yokukaleka omapandja. Longifa omakanya taa dimwa po kokukonga oitya nokoukalata va bingo, ndele to dima po konima.
+- **Hoolola oipambu ihe na okweela** ngeenge ouyelele ou li oupyakadi, ndele **teta ko omakona** oukalata va laminwa nomakondele opo va kale va yuka okupata.
+- **Kaleka ofolda** yoinima oyo mu hole opo uha nyanyangide epandja limwe oshivike keshe.
 
-### Keep it simple
+### I kaleka ilula
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Oshilonga shimwe kepandja limwe.** Okukonga oitya kumwe ile efano limwe alike, ha oilonga ihapu ya tulwa kumwe.
+- **Ehala litoka la wana.** Epandja li yadi unene otali dulu okukala lidjuu okutala.
+- **Henuka omalombwelo a leshwa, ngeenge tashi shiiva.** Ulika omunhu osho e na okuninga ponhele yokulesha.
+- **Teta epandja.** Ngeenge epandja alishe oli li lihapu unene, li teta pokati ile li peta opo oshitukulwa ashike shi kale tashi monika.
 
-## Other useful printables you can make at home
+## Oinima ikwao ya nyanyangidwa tai kwafa oyo to dulu okuninga keumbo
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Hakeshe oshinima sha nyanyangidwa tashi kwafa shi na okukala oshanghaldangwa. Oinima ei oi li ipu okuninga noshitya shokompiuta noprinita.
 
-### A life-story page
+### Epandja londjokonona yomwenyo
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Epandja limwe „kombinga yange“ li na efano, edina olo omunhu e hole okuifanwa, apa a kulila, oilonga yaye, oukwaneumbo, oikulya oyo e hole, omusika noinima oyo hai mu hekeleke ile hai mu udifa nai. Dementia Australia ota ladipike [embo leedimbuluko](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) li na ouyelele kombinga yomwenyo womunhu, osho e hole novanhu va fimana, opo li kwafe ovatalelipo novafiloshisho nokueta po eenghundafana.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Osha fimana unene moipangelo ile meenhele dipe dokufilwa oshisho. NIA ota ladipike okuyandja kovayakuli voshipangelo [epandja louyelele wopaumwene](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) tali ulike onghedi yomunhu yokukalamwenyo, edina olo e hole, osho e hole naasho ehe hole, oinima tai dulu oku mu udifa nai, nomadidiliko ouyahame oo taa holoka nopehe na eendjovo.
 
-### A daily schedule
+### Elandulafano lefiku
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Elandulafano lefiku li li paunafangwa, meendada dinene, li na eevili, eendjovo dinini nefano linini loshitukulwa keshe: ongula, okweenda, omusha, okufuda, omusika, ouvalelo. [Elandulafano lefiku](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) la Alzheimer’s Association otali ladipike okulongela pefimbo olo omunhu e na eenghono dihapu, neevili da faafana dokupenduka nodokukala, nelandulafano li na oilonga nokufuda. Li tulika pomesho, tashi dulika kofrija, ndele to li efa li kale tali dulu okulunduluka. Tala [omayele etu elandulafano lefiku](/activities/daily-routine/) u mone shihapu.
 
-### Picture labels for rooms and drawers
+### Omalebela omafano omakumba noitumba
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA ota ladipike okulongifa omalebela a yela ile omafano elula okukwatela [okambashu, onduda yokunangala nokombitha](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Ediladilo olo otali longo yo koitumba nokotukaleke: efano losokisa koshitumba shosokisa, omakopi koshikaleke shomakopi. Nyanyangida, lamina ndele to a nambeke ko.
 
-### A sorting set
+### Ongudu yokutopola
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Nyanyangida omafano eengudu mbali dilula, ngaashi oiimati neengala ile oilongifo noinima yokombitha, kokakalata. I tetaula ndele tamu i topola pamwe moimbale ivali. Oludi loshanghaldangwa eli koskepa olo [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Omapandja eendjovo deengalo
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Nyanyangida eendjovo deengalo donhumba odo mu hole meendada dinene unene mu imbe pamwe. Nokuli ovo ihava lesha vali unene otava dulu okuhafela okupata epandja olo.
 
-### A family photo page
+### Epandja lefano loukwaneumbo
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Epandja limwe li na omafano manene oukwaneumbo ane fiyo ahamano, keshe li na edina lotete koshi yalo. Otali dulu okukala poshitaafula opo keshe umwe e li kufe ndele ta popi kombinga yalo. Omalebela otaa kwafa ovatalelipo novayakuli va kufe ombinga meenghundafana, nopehe na ou e na okupula „Ou olyelye?“
 
-### A recipe card
+### Okakalata koresipi
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Nyanyangida oresipi youkwaneumbo oyo mu hole meendada dinene. I longifeni mu telekele pamwe, ile mu popye ashike kombinga yoikulya yomonakudiwa.
 
-## How do I offer a printable without it feeling like homework?
+## Ohandi yandje ngahelipi epandja la nyanyangidwa opo liha kale la fa oshilonga shofikola?
 
-Present it as something to share, not a test.
+Li yandja onga oshinima shokulonga pamwe, hashi ekonakono.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Kala omutumba ndele to li tameke ove mwene.** „Ohandi longo okukonga oitya oku. Owa hala tu konge pamwe ‘oshikunino’?“
+- **Longeleni kumwe.** Shikuleni, ile umwe ta kongo mukwao ta dingilile.
+- **Inamu shi tala kutya osha puka ile osha yuka.** Omayele a Alzheimer’s Association e na sha [noilonga peumbo](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) otaa ladipike mu yandje elitulemo konghedi, hakaidjemo, nokuhafela ponhele yokuwanifa po sha.
+- **Efeni omapandja a kale po.** Omayele tuu oo otaa ti kutya omambo omadimbuluko, omambo omafano ile oifo dakulu otadi dulu okutulwa meenhele di li popepi. Oukalata va nyanyangidwa nomapandja omafano navo otava dulu okukala poshitaafula shonhumba monghedi ya faafana.
+- **Xulifeni po efimbo keshe mwa hala.** Okufinga oshitukulwa shepandja oshinima shiwa shomutenya. Nosho yo okweefa epandja ndele tamu nu otee.
 
-## Where to find more
+## Apa to dulu okumona shihapu
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Tala oilonga yetu aishe [oilonga nomapandja taa nyanyangidwa](/games/), ile tala [oilonga yonghatu keshe](/activities/ideas/) u mone omadiladilo mahapu, noipumbiwa ombapila ile pehe na.

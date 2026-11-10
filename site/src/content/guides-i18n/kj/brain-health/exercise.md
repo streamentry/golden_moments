@@ -1,32 +1,34 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Okulinyenga kolutu noukolele wouluyi"
+seoTitle: "Okulinyenga kolutu noudu wokudimbwa"
+description: "Osho omapekapeko taa ulike kombinga yokulinyenga kolutu noshisho shokukala noudu wokudimbwa, nanghee ovanamido novanhu hava kala noudu wokudimbwa tava dulu okulinyenga nawa."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Omapekapeko otaa ulike kutya okulinyenga kolutu pandjikilile okwa kwatakanifwa noshisho
+  shinini shokukala noudu wokudimbwa, nolopota yoLancet Commission yomo 2024 oya tumbula
+  okuhenyenga kolutu shimwe shomoinima 14 tai dulu okulundululwa. Omakonakono inaa ulika
+  naana kutya okulinyenga kolutu otaku kelele oudu wokudimbwa. Ndele okulinyenga otaku
+  kwafele eenghono, ondjele yokukala ofika, omhepo iwa neemhofi diwa, onghee okweenda,
+  omalidilululo u li omutumba nokudana osha fimana oku shi ninga. Pula ndokotola manga
+  inamu hovela sha shipe.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Ovanhu hava linyenge kolutu luhapu ove na oshisho shinini shokukala noudu wokudimbwa, ashike eshi osha dja unene momapekapeko taa tale oinima ngaashi i li, ha momakonakono taa yeleke."
+  - "Ekonakono lomido nhano lovanamido ola mona kutya kapa li eyooloko la yela mokudiladila pokati keengudu."
+  - "Omayele aCDC ovanamido ve na omido 65 nokomingawo otaa kwatele mo omalidilululo taa endelelifa omutima, taa pameke omisipa notaa kwafele ondjele yokukala ofika, notaa ti okulinyenga kanini oku li xwepo okuhe na nande."
+  - "Komunhu ou ta kala noudu wokudimbwa, okulinyenga kwixupi, kwa ikililwa nokwa ningwa pamwe, ngaashi okweenda efiku keshe ile omadanau u li omutumba, oko kwa fimanenena shi dulife elalakano keshe."
+  - "Ovanamido ve dulife pomuvalu umwe mwaane ohava u keshe omudo, onghee omalidilululo ondjele yokukala ofika nonhele ya amenwa oye i na okutalwa tete."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Okulinyenga kolutu otaku dulu okukelela oudu wokudimbwa?"
+    a: "Kape na ou ta dulu oku shi udaneka. Omapekapeko mahapu otaa ulike kutya okukala ho linyenge okwa kwatakanifwa noshisho shinini shokukala noudu wokudimbwa, ashike omakonakono inaa ulika kutya okulinyenga kolutu otaku kelele oudu wokudimbwa. Okulinyenga kolutu oku na ouwa muhapu wa ulikwa, onghee osha fimana natango oku shi ninga."
+  - q: "Osha amenwa tuu komunhu ou ta kala noudu wokudimbwa okulinyenga kolutu?"
+    a: "Luhapu osho, ngeenge mwa longekida nawa. National Institute on Aging otai kumaida mu pule ndokotola womunhu oo manga inamu hovela elandulafano lipe, mu hoolole eenghaku diwa, mu mu pe omeva, nomalidilululo a kale maxupi. Kanghekeni ngeenge omunhu oo ta monika a loloka, ita kala ofika nawa ile ina hafa."
+  - q: "Omalidilululo elipi taa dulu okuningwa omunhu a kala omutumba?"
+    a: "Omalidilululo taa ningwa omunhu a kala omutumba otaa kwatele mo okutandaveka u li omutumba ile yoga yoshipundi, okweefa embaluni ile etanga li nyengana, okweekela okandjato keembidi, okuyelula oupakete wosupa, omalyenge taa tandavekwa noshikefa shokunana neemhadi. Aa omahoololo mawa ngeenge okweenda oshidjuu."
+  - q: "Oshike tu na okuninga ngeenge omunhu oo ina hala okulinyenga?"
+    a: "Inamu mu fininika. Kendabaleni vali lwanima, linyengeni pamwe naye, tuleni po omusika a ikilila, ile lundululeni okulinyenga ku kale oshilonga ngaashi okukomba ile okuteka oimeno. Okweenda kuxupi okuya kombaapila yopoosa osha wana, nosho yo okukala pamwe pondje."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +53,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Okukala ho linyenge kolutu okwo kumwe kwomoinima ya konakonwa unene momapekapeko oukolele wouluyi. Omapekapeko otaa ulike kutya okwa kwatakanifwa noshisho shinini shokukala noudu wokudimbwa, ashike inaa ulika naana kutya okulinyenga kolutu otaku kelele oudu wokudimbwa. Osho sha yela osho kutya okulinyenga otaku kwafele eenghono, ondjele yokukala ofika, omhepo iwa neemhofi diwa pomido adishe. Ependje eli otali yelifa osho omapekapeko taa ti, ounene welinyengo olo ovanamido tava ladipikwa va mone, neenghedi dinyengana dokulinyenga nomunhu ou ta kala noudu wokudimbwa.
 
-## Does exercise lower the risk of dementia?
+## Okulinyenga kolutu otaku shunifa pedu tuu oshisho shokukala noudu wokudimbwa?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Omapekapeko otaa ulike kutya ovanhu hava linyenge kolutu otashi dulika vaha kale noudu wokudimbwa nuupu, ashike oumbangi ou na omangabeko. [Olopota yoLancet Commission yomo 2024 kombinga youdu wokudimbwa](https://doi.org/10.1016/S0140-6736(24)01296-0) oya tumbula okuhenyenga kolutu shimwe shomoinima 14 tai dulu okulundululwa. Pamufika wayo, oinima ei 14 kumwe otai yelifa lwopomilongonhe nanhano lomaupyakadi oudu wokudimbwa mounyuni.
 
-Here is what the evidence looks like:
+Oumbangi otau monika ngaha:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Omapekapeko taa tale oinima ngaashi i li otaa ulike kombinga imwe.** Ekonakono lomapekapeko 58, olo la kundafanwa koCommission, ola mona kutya ovanhu hava linyenge kolutu ova li ve na oshisho shi li pedu lwopomilongo mbali shokukala noudu wokudimbwa. Eyooloko linene ola li pokati kaavo vehe na okulinyenga nandenande naavo va ninga nande okulinyenga kushona.
+- **Ekwatakanifo otali dulu okukala la manguluka kombinga noimbinga.** Commission oya ti okuhenyenga otashi dulika ku yelule oshisho. Oya ti yo kutya omalunduluko opetameko mouluyi oo haa holoka omido dihapu manga oudu inau monika otashi dulika a ningife ovanhu vaha linyenge vali unene.
+- **Omakonakono taa yeleke kae na ouyelele muhapu.** Mekonakono limwe, ovanamido 945 vomido 78 pokati ova li va tulwa momukokomoko womido nhano wokulinyenga kolutu luvali moshivike koshi yewiliko ile mongudu yokuyelekanifa. Pexulilo, kapa li eyooloko la yela mokudiladila pokati keengudu. Ovanhu vahapu mongudu yokuyelekanifa navo ova li hava linyenge, osho hashi ningifa oshizemo shi kale shidjuu okuleshwa.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) oya shi yelifa nawa. Inapa ulikwa ekwatakanifo la yela pokati kokulinyenga kolutu nokukelela oudu waAlzheimer, nokape na oumbangi wa wana womomakonakono okupopya kutya okulinyenga kolutu otaku kelele ile otaku shunifa monima oudu oo. Ndele okulinyenga kolutu otaku shunifa pedu oshisho shokuwa, shomhepo ya nyika oluhodi, shoushikisha, shomupiya womhito tau londo noshoudu wohapi. Omaupyakadi amwe aa nao okwa kwatakanifwa nokunghundipala kwokudiladila.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Oshili oyo kutya natu linyengeni molwaashi otashi tu kwafele tu kale tu udite nawa notu longe nawa nena. Ouwa keshe wouluyi oo tau dulu okuuya owo ouwa tau wedwa po, hauudaneko.
 
-## How much activity do older adults need?
+## Ovanamido ova pumbwa okulinyenga shi fike peni?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Omayele aCDC ovanamido ve na omido 65 nokomingawo](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) otaa kumaida omaludi atatu okulinyenga oshivike keshe:
 
-| Type | Weekly amount | Examples |
+| Oludi | Ouyelele woshivike | Oihopaenenwa |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Okulinyenga taku endelelifa omutima | Okulinyenga kwakula oule wominute 150, ngaashi ominute 30 omafiku 5 | Okweenda to endelele, okudana, omaudano omeva |
+| Okupameka omisipa | Nani omafiku 2, okupameka eengudu adishe domisipa | Okuyelula oiyelulifo inini ile oupakete wosupa, omalyenge taa tandavekwa |
+| Ondjele yokukala ofika | Pandjikilile | Okweenda to tula oshithininho shoshikoti konima yoshikwawo, okuyambuka moshipundi |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Ei omalalakano, ha oiteelelwa yokuhovela. CDC ota ti ngeenge ito dulu oku a wanifa, kala ho linyenge ngaashi eenghono noukolele woye tau shi pitike. Okulinyenga kanini oku li xwepo okuhe na nande.
 
-## Gentle ways to move for older adults
+## Eenghedi dinyengana dokulinyenga dovanamido
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Endeni pamwe.** Okweenda efiku keshe nakaume, nomushiinda ile nongudu yokweenda otaku eta eenghundafana nelongelokumwe liwa.
+- **Omalidilululo u li omutumba.** Okuyelula omaoko u li omutumba, okudingonoka eenyala deemhadi, okweenda poima u li omutumba noyoga yoshipundi otai pameke omisipa nopehe na oupyakadi wokukala wa ofika.
+- **Daneni mokombitha.** Tuleni po omusika oyo omunhu oo a li e hole efimbo a li omunyasha ndele tamu linyenge, tamu denge omake ile tamu lyata. Tala ewiliko letu [omikalo domusika](/activities/music/) u mone omadiladilo.
+- **Pameka omisipa noinima yomeumbo.** Yelula omabhodhlela omeva ile oupakete wosupa fimbo tamu tale oshipopiwa sheni shokuhoolola.
+- **Longa moshikunino ile oilonga yomeumbo.** Okuteka oimeno, okukomba, okufefa nokupeta oikutu aishe otai valulwa. Tala [oilonga yomoshikunino noyopondje](/activities/outdoor-and-gardening/) no [ilonga yomeumbo](/activities/household-tasks/).
+- **Omalidilululo omeva.** NIA oya tumbula omalongo omaudano omeva onga ehoololo limwe laavo tava mono okulinyenga kombada yedu shidjuu komakipa avo.
 
-## How to exercise with someone living with dementia
+## Nghee to linyenge nomunhu ou ta kala noudu wokudimbwa
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Komunhu ou ta kala noudu wokudimbwa, elalakano olo ombili, ehafo nokukaleka po ounghulungu wokukalamwenyo kwakeshe efiku, ndele hakuwanifa onomola yonhumba. NIA oya ti okulinyenga kolutu otaku kwafele okukaleka omisipa, omakipa nomutima womunhu e na oudu waAlzheimer meenghalo diwa, notaku dulu yo okuwapaleka omhepo neemhofi. Puleni ndokotola waye manga inamu hovela elandulafano lipe. Omaetepo aa a dja [mewiliko laNIA lovafile oshisho](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) otaa kwatele mo:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Endeni pamwe efiku keshe.** Hoololeni ondjila ya amenwa noya ikililwa ihe na oipundukifo. Ngeenge omunhu oo oha ende oye aeke, oumbandilona wokoshikesho u na onomola yoye yongodi oi li ediladilo liwa.
+2. **Kendabeleni ouvidio womalidilululo ovanamido.** Linyengeni pamwe, mwa kala omutumba ile mwa fikama.
+3. **Kalekeni omalidilululo maxupi.** "Omalidilululo maxupi" lwoikando otashi dulika a longe xwepo shi dulife limwe lile.
+4. **Wedeni po omusika.** Eengalo da ikililwa otadi ningifa okulinyenga ku kale kwa fa oshinima shi hafifa, ha oshilonga. Daneni ngeenge omunhu oo te shi hafele.
+5. **Yandjeni omeva neenghaku diwa.** Yandjeni omeva ile ojuice pefimbo nolwanima, nohoololeni oikutu iwa neenghaku da wapalela dokulinyenga.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Ngeenge okweenda oshidjuu, [ewiliko laNIA lokufila oshisho omunhu e na oudu waAlzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) otali kumaida omalidilululo taa ningwa omunhu a kala omutumba. Oo otaa kwatele mo omalidilululo oshilundi ile yoga, okweekela okandjato keembidi, okweefa etanga li nyengana ile embaluni, omalyenge taa tandavekwa, okuyelula oinima inini yomeumbo noshikefa shokunana neemhadi. Oilonga iipu ngaashi okukomba nokufefa nayo otai valulwa.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Kaleni mwe shi tala nawa osho okulinyenga taku dulu okuninga. Lancet Commission inai mona oumbangi kutya okulinyenga kolutu otaku shunifa pedu omalunduluko melihumbato ngaashi okuhandjala. Linyengeni pamwe molwaashi otashi dulu oku mu hafifa, ndele hamolwa okukandula po efimbo lidjuu. Ngeenge omunhu oo ta ti ahawe, osho shi li nawa. Ewiliko letu [ngeenge ta ti ahawe](/caregiving/when-they-say-no/) oli na eenghedi dinyengana dokukendabala vali lwanima. Okuxulifa diva ile okukala ashike pamwe pondje nako oshizemo shiwa.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Konima yokulinyenga, efimbo lixupi lelimweneneno ngaashi [Calm Breathing](/games/calm-breathing/) otali dulu oku mu kwafela amushe mu tulumukwe. Oshilonga tashi ningwa omunhu a kala omutumba nokulinyenga kwomawoko kunyengana, [Sort Together](/games/sort-together/) na [Picture Bingo](/games/picture-bingo/) otai longo nawa poshitaafula.
 
-## Balance and fall safety
+## Ondjele yokukala ofika nokukelela okuwa
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Okuwa oku li oshinima sha ikilila notashi dulu okukala sha kwata moiti. [CDC ota hokolola](https://www.cdc.gov/falls/data-research/facts-stats/index.html) kutya ovanamido ve dulife pomuvalu umwe mwaane ohava u keshe omudo, ashike kave dulife poohafu tava lombwele ndokotola wavo. Okuwa lumwe otaku hapupaleke oshisho shokuwa vali. Oinima oyo CDC a tumbula tai yelula oshisho oi li:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Oungone womomaulu nomomatundji
+- Oudjuu wokweenda nokukala wa ofika
+- Omiti dimwe, mwa kwatelwa odo tadi kwafele okukofa nodimwe odo hadi longifwa momhepo ya nyika oluhodi
+- Omaupyakadi omesho
+- Ouhyahya meemhadi ile eenghaku dii
+- Oiponga yomeumbo ngaashi oinima ya halakana, omakumbatha omomaulu neendodo da teka
 
-To move more safely:
+Opo mu linyenge neliameno liwa:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Longifeni oshipundi sha pama** shihe na omavili, nokukaleka okaunta ile oshikwatelwa popepi omalidilululo taa ningwa ofika.
+- **Yelekanifeni onhele** mu kufe mo omakumbatha omomaulu, eengodi noinima ya halakana tete.
+- **Endeleleni kanini eshi tamu fikama**, nokukangheka ngeenge omunhu oo ta udu e na edungadunga ile ita kala ofika nawa.
+- **Djaleni eenghaku tadi yambidida**, ndele hasekoshi ile eenghaku dihe li nawa.
+- **Lideuleni ondjele yokukala ofika popepi nopa yambididwa.** Okuyambuka moshipundi nokweenda to tula oshithininho shoshikoti konima yoshikwawo oyo iihopaenenwa yaCDC yomalidilululo ondjele yokukala ofika.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC ota kumaida kutya omunamido ou a wa ndele ta denge omutwe na ka mone ndokotola diva, unene ngeenge oha nu omiti tadi pupaleke ohonde.
 
-## Talk with a doctor
+## Popyeni nandokotola
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Puleni ndokotola manga inamu hovela elandulafano lipe lokulinyenga kolutu, unene tuu komunhu e na omaupyakadi omutima ile omapunga, ouyahya womakipa, omaupyakadi ondjele yokukala ofika, ile oudu wokudimbwa. Ndokotola ile omupangi womalidilululo olutu ota dulu okukumaida omalidilululo a amenwa nokutala ngeenge omiti otadi kumu ondjele yokukala ofika. Lombweleni ndokotola kombinga yokuwa keshe, nonande inaku etifa oshiponga. Ngeenge osha yahama ile inashi kala nawa pefimbo lokulinyenga, kanghekeni. Ngeenge ope na ouyahya womomutima tau holoka ombadilila, oudjuu wokufuda, ile edimbakano tali holoka ombadilila, dengeni 10111.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Ependje eli ouyelele waaveshe, ha omayele ouhaku. Tala [elondwelo letu louhaku](/medical-disclaimer/). Opo u mone efano linene, lesha [osho omapekapeko taa ti kombinga yoinima tai yelula oshisho shoudu wokudimbwa](/brain-health/risk-factors/) nangeenge [oudu wokudimbwa otau dulu okukelelwa](/brain-health/can-dementia-be-prevented/).

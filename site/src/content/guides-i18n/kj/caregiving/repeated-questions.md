@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Ngeenge omunhu e na okudimbwa ta pula epulo limwe lwoikando"
+seoTitle: "Okudimbwa: Ngeenge ta endulula omapulo"
+description: "Omolwashike omunhu e na okudimbwa ha pula epulo limwe lwoikando, nghee to nyamukula nombili, oilongifo tai kwafele, nonaini u na okupula ondokotola."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Okupula epulo limwe lwoikando oshi li oshinima shihapu mokudimbwa: luhapu omunhu
+  ke shi shii kutya okwa pula nale, nepulo otashi dulika tali ulike oshisho ile
+  oumbada. Nyamukula nombili nomuule mufupi wa fa ashike oto nyamukula oshikando
+  shotete, nyamukula komaliudo e li konima yepulo, ndele ino tya nande “owe shi
+  pula nale.” Shanga enyamukulo opo e li mone, mu lombwela kombinga yoinima tai
+  ka ningwa pokafimbo opo ashike, ndele to mu pe sha shihafifa mu longe pamwe. Ngeenge
+  pe na elunduluko lomukulumwanya, pula ondokotola.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Luhapu omunhu ke shi shii kutya okwa pula nale; ine shi ninga owina."
+  - "Epulo otashi dulika tali holola omaliudo, ngaashi oumbada kombinga yoshinima shonhumba ile okukala a hala okuuda ehe na oshisho."
+  - "Nyamukula nombili, muule mufupi nombili, wa fa ashike oshikando shotete. Ino tya nande “owe shi pula nale.”"
+  - "Okambapila, okaboodo, ewendo ile okalindeli ke li puye otai dulu oku mu nyamukula ponhele yoye."
+  - "Mu lombwela kombinga yoinima tai eta oshisho pokafimbo opo ashike tai ka ningwa."
+  - "Kufa efimbo u fude po ngeenge wa pumbwa, ndele to denga ondokotola ngeenge pe na elunduluko lomukulumwanya."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Omolwashike tate wange e na okudimbwa ha pula epulo limwe lwoikando?"
+    a: "Okudimbwa ohaku kuma okudimbulukwa kwopakafimbo, onghee otashi dulika a kale ina dimbulukwa kutya okwa pula nale ile kutya okwa uda enyamukulo. Luhapu epulo otali ulike yo omaliudo, ngaashi oumbada kombinga yaasho tashi ka ningwa ile okukala a hala okuuda ehe na oshisho. Okunyamukula komaliudo oo luhapu ohashi kwafele unene shi dulife okweendulula oushili."
+  - q: "Ondi na oku mu lombwela kutya okwa pula nale?"
+    a: "Ahowe. Itashi mu kwafele a dimbuluke, notashi dulu oku mu udifa nai wa fa to mu pukulula. Ehangano eli li kombinga yokudimbwa ohali kumaida okuyamukula nombili efimbo keshe, wa fa ashike oshikando shotete, nokukala enyamukulo li li lixupi."
+  - q: "Okushanga enyamukulo ohashi kwafele ngaa?"
+    a: "Otashi dulu okukwafela, fimbo omunhu ota dulu natango okulesha. Okambapila, okaboodo ke na elandulafano lonena, ewendo linene ile okalindeli ke li apa ha tale luhapu otai mu kwafele a tale ko enyamukulo ye mwene. Mu ulikila nombili, ndele ino tya “onde ku lombwela nale.”"
+  - q: "Onaini ndi na oku mu lombwela kombinga yokutalela po ondokotola ile okulweenda?"
+    a: "Pokafimbo opo ashike. Okupopya kombinga yokutalela po ondokotola ile olweendo omafiku ofimbo ina fika otashi dulu okweetifa omapulo mahapu oule wefimbo molwoumbada. Mu lombwela pokafimbo opo, nombili, nokutya oshike tashi ka ningwa po konima."
+  - q: "Onaini okweendulula omapulo taku ulike kutya na dengelwe ondokotola?"
+    a: "Ngeenge omapulo, okungwangwana ile elihumbato ola lunduluka omukulumwanya ile la naipala unene moule weevili ile omafiku, denga ondokotola yaye diva. Outalala, omiti ipe, ouyahame, okuhenanyata ile okukala uhe na omeva ma wana molutu otai dulu okweetifa okungwangwana kwomukulumwanya taku ifanwa delirium, oko kwa pumbwa ekwafo lopaunamiti diva."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +59,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“Ondokotola ohatu i ko efimbo peni?” Konima yeemhito omulongo: “Ondokotola ohatu i ko efimbo peni?” Okuuda epulo limwe lwoikando nolwoikando oshimwe shomoinima tai lolola unene ngeenge to file oshisho omunhu e na okudimbwa. Oshi li oshinima shihapu, ihashi ningwa owina, noku na eenghedi nombili dokunyamukula odo tadi ningi efiku li kale lipu kunye amushe.
 
-## Why does someone with dementia ask the same question over and over?
+## Omolwashike omunhu e na okudimbwa ha pula epulo limwe lwoikando?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Luhapu omolwa okudimbulukwa. Okudimbwa ohaku kumu okudimbulukwa kwopakafimbo, onghee omunhu luhapu ke shi shii kutya okwa pula nale, ile ke shi shii enyamukulo. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) oya popya kutya okupula omapulo lwoikando oshinima shihapu notashi teelelwa.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Epulo otashi dulu yo okukala tali humbata omaliudo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) oya yelifa kutya epulo tali endululwa otali dulu okuulika oshisho, eindilo lekwafo, ile oumbada nokukala ino manguluka, notashi dulika omunhu ta kongo ehekeleko nokukala e udite ehe na oshisho. “Ohatu i naini?” otashi dulu okutya “Ondi na oumbada okuya.” Okweefa po, oumbada, ombubo nelunduluko melandulafano lefiku otai dulu oku shi pendula, nepulo tali endululwa otali dulu yo okuulika eemhumbwe donhumba, ngaashi okuya kokandjuwo ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Ohandi ti ngahelipi?
 
-Answer calmly and briefly, as if it were the first time.
+Nyamukula nombili nomuule mufupi, wa fa ashike oto nyamukula oshikando shotete.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Enyamukulo nali kale lixupi nola faafana.** “Ondokotola ohatu i ko povili onhivali. Ohandi kala pamwe naave.” Enyamukulo la faafana oliupu okutambula ko.
+- **Nyamukula komaliudo.** “Oto diladila kombinga yondokotola. Otwa i ko omutenya ou, ndele ohandi tu shingi. Kape na sha wa pumbwa okuninga.”
+- **Longifa ondaka iwa nekumo lombili,** ngeenge osho va hole. Alzheimer's Association ohai kumaida okukala nombili nokuhenokulongifa omatomhelo ile okutamanana.
+- **Yandja enyamukulo olo va hala,** lwoikando ngaashi va pumbwa. Alzheimer's Association oya ti li endulula lwoikando ngaashi tava pula.
 
-## What should I avoid?
+## Oshike ndi na okuheninga?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“Owe shi pula nale.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ohai kumaida uha ulikile omunhu kutya okwa pula nale. Itashi mu kwafele a dimbuluke, notashi dulu oku mu udifa nai.
+- **Omayelifo male.** Eendjovo dihapu otadi eta po shihapu shokudimbwa.
+- **Okufuda pombada, okutala nai ile ondaka ya kukuta.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ohai kumaida elididimiko nokuhenoulika ehandu. Osho oshidjuu; tala oshitukulwa shi na sha nokufuda po pedu apa.
 
-## Simple tools that answer the question for you
+## Oilongifo ilula tai nyamukula epulo ponhele yoye
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Fimbo omunhu ota dulu natango okulesha, enyamukulo la shangwa olo e wete luhapu ohali kwafele shi dulife enyamukulo la popiwa.
 
-| Tool | How to use it |
+| Oshilongifo | Nghee to shi longifa |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Okambapila ke na eendada dinene | “Ondokotola onena povili onhivali. Omushingi oMary.” Ka tula apa ha tale unene |
+| Okaboodo | Elandulafano lonena momikweyo nhatu ile nhee; dima ndele to shange omutenya keshe |
+| Ewendo linene li na efiku netango | Ohali kwafele komapulo ngaashi “Onena efiku lashike?” ile “Efimbo ola fika nale?” |
+| Okalindeli | Tenda efiku keshe; dinga etalelepo tali landula |
+| Omafano a shiivikila | Efano lomunhu oo te uya otali dulu okunyamukula epulo “Olyelye te uya?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Omayele aa okwa dja ku [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) noku [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Mu ulikila okambapila ile okaboodo nombili (“Natu tale pamwe kokaboodo”) ponhele yokutya “Onde ku shangela ko.”
 
-## Tell them about events close to the time
+## Mu lombwela kombinga yoinima pokafimbo opo ashike
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Okupopya kombinga yetalelepo ile olweendo omafiku ofimbo ina fika otashi dulu okweetifa omapulo mahapu oule wefimbo molwoumbada. Family Caregiver Alliance na Alzheimer's Los Angeles aveshe ohava kumaida okupopya kombinga yomalongekido, unene oo taa eta oshisho ngaashi okutalela po ondokotola ile okwooga, pokafimbo opo ashike taa ka ningwa. Opo mu lombwela oshike tashi ka ningwa po konima, oshinima shimwe poshikando.
 
-## Activities that can shift attention
+## Oilonga tai dulu okukwafela okuyukifa omadiladilo komukalo umwe
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Konima eshi wa nyamukula nokutambula ko omaliudo, oshinima shihafifa noshingeyi otashi dulu okukwafela, unene ngeenge okweefa po oko kwe eta omapulo. Oilongifo aishe ya tumbulwa pombada ohai kumaida okuyukifa omadiladilo koshinima osho omunhu e hole.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Oudano ufupi noupu pamwe.** [Picture pairs](/games/picture-pairs/) ohau ulike omafano efimbo alishe, onghee kape na sha sha pumbwa okudimbulukwa.
+2. **Oshilonga sha shiivikila.** Okupeta oitungifo, okutula mo oikutu ile okulongekida oshitaafula. [Sort together](/games/sort-together/) osho oshinima sha faafana kopeke.
+3. **Popyeni kombinga yaasho e hole.** [Conversation cards](/games/conversation-cards/) ohadi yandje oitwa yokuhovela eenghundafana nopehe na omanyamukulo a puka ile mondjila.
+4. **Omusika, okweenda ile okalyo kanini.** National Institute on Aging oya tumbula oinima ei onga eenghedi dilula dokuyukifa omadiladilo komukalo umwe.
+5. **Okafimbo konghulo.** Kaleni omutumba pamwe, taleni pondje yekende, ile mu kendabale [okufuda nombili](/games/calm-breathing/) pamwe.
 
-If they return to the question, answer it again, kindly. That is fine.
+Ngeenge okwa alukile kepulo, li nyamukula natango, nombili. Osho oshi li nawa.
 
-## Look for patterns
+## Tale omukalo woinima
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association ohai kumaida okutala ngeenge omapulo ohaa holoka pefimbo lonhumba mefiku, novanhu vonhumba ile peenhele donhumba. Ngeenge ohaa hovele alushe ofimbo ovaenda inava fika, ile konguloshi, oto dulu okulongekida nale: okambapila kombinga yetalelepo, oshinima sha shiivikila shi li po, ile onhele i na ombili. Ewiliko letu kombinga yoilonga nombili [konguloshi](/caregiving/late-day-restlessness/) otali dulu okukwafela ngeenge omanguloshi oo madjuu unene.
 
-## Take care of yourself
+## File yo oshisho ove mwene
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Okunyamukula epulo limwe lwoikando omilongo mbali otashi lolola. Ngeenge ou wete elididimiko loye tali pu po ndele omunhu oku li meameno, ya monhele imwe oule weemhito dishona ndele to fuda, ngaashi [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) tai kumaida. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ohai ladipike ovo hava file oshisho va pule ekwafo nokudiladila kombinga yekwafo lokufuda po. Omayele vali oku li mewiliko letu li na sha [nokufila oshisho ove mwene](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Onaini ndi na okudenga ondokotola?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Denga ondokotola yaye diva ngeenge omapulo, okungwangwana ile elihumbato ola lunduluka omukulumwanya ile la naipala unene moule weevili ile omafiku. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) oya ti elihumbato la lunduluka omukulumwanya ile meendelelo, unene konima youtalala ile elunduluko momiti, oli na okulombwelwa ondokotola diva. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) oya yelifa kutya outalala, omiti, okukala uhe na omeva ma wana molutu, ouyahame ile okuhenanyata otai dulu okweetifa delirium, okungwangwana kwomukulumwanya nokunene oko kwa pumbwa ekwafo lopaunamiti diva. Denga 112 ngeenge ope na ou li moshiponga.

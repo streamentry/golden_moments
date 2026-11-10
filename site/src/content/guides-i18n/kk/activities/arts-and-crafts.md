@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Деменциясы бар ересектерге арналған қолөнер"
+seoTitle: "Деменция кезінде қолөнер: ересектерге лайық"
+description: "Деменциямен өмір сүретін ересектерге арналған қолөнер идеялары: акварель, коллаж, гүл қою, дайындау және бейімдеу туралы кеңестер."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Деменциямен өмір сүретін ересектерге арналған жақсы қолөнер ересектерге лайық
+  көрініп, солай сезілуі керек: акварель, журналдардан жасалған коллаж, гүл қою,
+  сазбен жұмыс, қарапайым ашықхат жасау немесе ересектерге арналған бояу
+  беттері. Аз ғана материалды дайындап қойыңыз, қажет болса, бірінші қимылды
+  бірге бастаңыз, жұмыс барысында әңгімелесіңіз және бірге өткізген уақытты басты
+  мақсат ретінде қарастырыңыз. Дайын туынды міндетті емес.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Ересектерге лайық материалдар мен тақырыптарды таңдаңыз: акварель қағазы, нағыз гүлдер, журнал суреттері. Жылтыр қағаз, жапсырмалар немесе мультфильмдік парақтар қажет емес."
+  - "Нәтижеге емес, үдеріске көңіл бөліңіз: түстерге, саздың сезіміне, әңгімеге. Дайын туынды болса, ол қосымша қуаныш."
+  - "Мүмкіндігінше мақсат қойыңыз, мысалы, немереге арнап ашықхат жасау немесе үстелге гүл композициясын даярлау."
+  - "Адамға бастауға көмектесіңіз, содан кейін сәл шегініңіз. Қылқаламның бірінші қимылын бірге жасау жиі жеткілікті."
+  - "Жұмысты бір отырыста аяқтау міндетті емес, ал ертерек тоқтату әрқашан орынды."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Қолөнердің балалық болып көрінбеуін қалай қамтамасыз етуге болады?"
+    a: "Нағыз көркем материалдарды, ересектерге лайық тақырыптарды және сыйластықпен сөйлесу мәнерін қолданыңыз. Жылтыр қағаз бен мультфильмдік беттердің орнына акварель қағазын, мата, гүлдер, журнал фотосуреттерін және егжей-тегжейлі бояу беттерін таңдаңыз. Жұмысты баланың суретін мақтағандай мақтамаңыз; оны кез келген ересек досыңызбен сөйлескендей талқылаңыз."
+  - q: "Деменцияның кейінгі кезеңінде қандай көркем әрекеттер қолайлы?"
+    a: "Кейінгі кезеңдерде қарапайым, сезімге әсер ететін жұмыстар жақсы келеді: үлкен қылқаламмен кең жағу, жұмсақ сазды қысу, құмыраға бірнеше гүл қою немесе матаны сипау арқылы сұрыптау. Қимылды бірге бастау қажет болуы мүмкін. Сіздің сурет салғаныңызды қарап, түстер туралы әңгімелесу де қатысудың бір жолы."
+  - q: "Егер адам «Мен сурет сала алмаймын» десе ше?"
+    a: "Қысымды азайтыңыз. Дұрыс немесе бұрыс жауабы жоқ жұмыстарды ұсыныңыз: акварельмен жеңіл бояу, коллаж жасау немесе гүл қою. Сондай-ақ, ашықхатқа түс таңдауда көмек керек екенін айта аласыз, сонда бұл тапсырма сынақ емес, өтініш сияқты сезіледі."
+  - q: "Бояу беттері ересектер үшін тым балалық па?"
+    a: "Егер олар ересектерге арнап жасалған болса, жоқ. Бақша, көрпе, көлік немесе табиғат көрінісі сияқты ересектерге лайық тақырыптары бар беттерді таңдап, оларды сабақ емес, демалыс ретінде ұсыныңыз. Біздің бояу беттерін басып шығаруға немесе планшетте бояуға болады."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Өнер және қолөнер деменциямен өмір сүретін адамдарға өз ойын дұрыс сөздерді іздемей-ақ білдіру мүмкіндігін береді. Alzheimer's Association өнер жобалары [жетістік пен мақсат сезімін](https://www.alz.org/help-support/caregiving/daily-care/art-music) және өзін білдіру мүмкіндігін бере алатынын атап өтеді. Бұл деменциясы бар адамға да, қамқорлық көрсететін адамға да пайдалы болуы мүмкін. Ең бастысы — әрекеттерді ересектерге лайық, қарапайым және қысымсыз ұстау. Бұл бетте нақты жобалар, оларды қалай дайындау және жағдай өзгерген сайын қалай бейімдеу жолдары берілген.
 
-## What makes an art activity adult and not childish?
+## Көркем әрекетті ересектерге лайық ететін не?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Ересектерге арналған көркем әрекетте нағыз материалдар, ересектерге лайық тақырыптар және сыйластықпен қарым-қатынас қолданылады. Alzheimer's Association жобаларды ересек деңгейінде ұстауды және кемсітетін немесе балалық болып көрінуі мүмкін нәрселерден аулақ болуды ұсынады.
 
-| Feels childish | Feels adult |
+| Балалық болып көрінеді | Ересектерге лайық көрінеді |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Жылтыр қағаз, көбік жапсырмалар, көз жапсырмалар | Акварель қағазы, мата, кептірілген гүлдер |
+| Мультфильмдік бояу парақтары | Бақша, көрпе, көлік немесе табиғат көрінісі бар бояу беттері |
+| Әрбір сызыққа «Жарайсың» деп мақтау | Шынайы әңгіме: «Мына көк түс жасылмен әдемі үйлесіп тұр» |
+| Пайдасы жоқ қолөнер | Досқа ашықхат, үстел әшекейі, сыйлық |
+| Сабақ сияқты оқылатын нұсқаулық | Шақыру: «Маған осыны жасауға көмектесесіз бе?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Адамның өз талғамын ескеріңіз. Тігіншілікпен айналысқан адам мата ұстағанды ұнатуы мүмкін. Бұрын инженер болған адамға ірі бөлшектері бар модель жинау немесе жобаға арналған ұсақ заттарды сұрыптау ұнауы мүмкін. Бұрын мұғалім болған адам ашықхат жасауды қызық көруі мүмкін.
 
-## Why focus on the process, not the product?
+## Неліктен нәтижеге емес, үдеріске көңіл бөлу керек?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Өйткені бастысы — бірге өткізген уақыт. Alzheimer's Association ұйымының [үйдегі әрекеттерге арналған нұсқаулығында](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) нәтижеге емес, үдеріске көңіл бөлу ұсынылады. «Тек көк түсті» сурет те — сурет. Үш суреті бар коллаж да — коллаж.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Сондай-ақ ұйым кәсіби суретшінің өз жұмысындағы өзгерістерден көңілі қалуы мүмкін екенін, ал әуесқой адам өзін білдірудің жаңа мүмкіндігінен ләззат табуы мүмкін екенін айтады. Егер адам бұрын шебер суретші болса, ол жақсы меңгерген түрдің орнына басқа әдісті байқап көріңіз, сонда бұл салыстыру емес, ойын сияқты сезіледі.
 
-## Arts and crafts ideas to try
+## Барып көруге болатын қолөнер идеялары
 
-Each idea includes how to make it simpler if it becomes hard.
+Әр идеяда қиын болып кеткен жағдайда оны қалай жеңілдетуге болатыны көрсетілген.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Акварельмен бояу.** Қалың акварель қағазын суландырыңыз да, адамға үлкен қылқаламмен түс тамызуға мүмкіндік беріңіз. Түстер өздігінен жайылады, сондықтан қате нәтиже болмайды. *Жеңілірек:* тек екі түс ұсыныңыз немесе ылғал ізді көрсететін қою қағазға сумен сурет салыңыз.
+2. **Журналдан коллаж.** Бақша, ас әзірлеу, көлік, саяхат немесе адамның бұрынғы әуесқойлықтары туралы журналдардан суреттерді алдын ала қиып қойыңыз. Адамға суреттерді таңдап, тығыз қағазға жапсыруға мүмкіндік беріңіз. *Жеңілірек:* алдын ала қиылған төрт сурет пен желім таяқшасын ұсыныңыз және жапсыруды бірге жасаңыз.
+3. **Гүл қою.** Alzheimer's Foundation of America маусымдық қарапайым композициялар жасау үшін [кесілген гүлдер мен жапырақтарды реттеуді](https://alzfdn.org/dementia-activity-gardening/) ұсынады. Ауыр, орнықты құмыра және алдын ала кесілген сабақтар қолданыңыз. *Жеңілірек:* бірнеше сабақты кішкентай кесеге біртіндеп қойыңыз.
+4. **Кептірілген гүлден жасалған ашықхаттар.** Гүл шоғындағы гүлдерді бір апта кітап беттерінің арасында кептіріңіз, содан кейін бүктелген тығыз қағазға жапсырыңыз. *Жеңілірек:* желімді сіз жағыңыз, ал адам гүлді басып жапсырады.
+5. **Ересектерге арналған бояу беттері.** Айқын сызықтары және шынайы тақырыптары бар беттерді таңдаңыз. Біздің басып шығаруға болатын [бояу беттерін](/games/coloring/) экранда да бояуға болады: алдымен түсті, содан кейін суреттің бөлігін түртіңіз. *Жеңілірек:* үлкен аумақтар, аз түс, қалың маркерлер.
+6. **Саз немесе жұмсақ қамыр.** Ауада қатып қалатын сазды немесе жұмсақ илеу қамырын домалақтаңыз, басыңыз және пішін беріңіз. Жапырақты сазға басып, қарапайым із қалдыруға болады. *Жеңілірек:* тек қысу мен домалату да толық әрекет. Адамның сазды аузына салмауын қадағалаңыз.
+7. **Ашықхат жасау.** Alzheimer's Association мұны нақты тапсырма ретінде ұсынуды айтады: «Досымызға сауықтыру ашықхатын жібереміз. Көмектесесіз бе?» Алдын ала кесілген тығыз қағаз және гүл немесе марка бейнелі бірнеше жапсырма жарайды.
+8. **Скрапбукинг.** Ескі фотосуреттердің көшірмелерін, ашықхаттарды немесе билет түбіртектерін бірге альбом беттеріне орналастырыңыз. Әрқайсысы туралы әңгімелесіңіз. Өткен туралы нәзік әңгімелеу тәсілдері үшін біздің [естеліктер туралы нұсқаулықты](/activities/reminiscence/) қараңыз.
+9. **Мата және текстура тақталары.** Вельвет, барқыт, қап мата және жібек қиындыларын қатты картонға жапсырыңыз. Жасау — бір әрекет, кейін қолмен сипап көру — тағы бір әрекет. Қосымша идеялар [сезімдік әрекеттер нұсқаулығында](/activities/sensory/) бар.
+10. **Қарапайым ағаш өңдеу.** Ағаш өңдеуді ұнатқан адам үшін тегіс ағаш кесегін зімпаралау немесе құс үйі жинағын бояу таныс сезілуі мүмкін. Өткір құралдарды алып тастаңыз және қадағалаңыз.
+11. **Музыкамен сурет салу.** Сүйікті музыканы қосып, көңіл-күйге сай пішіндер немесе түстер салыңыз. Бұл көптеген адам ұнататын екі әрекетті біріктіреді. [Музыкалық әрекеттерді](/activities/music/) қараңыз.
 
-## How do I set up an art session?
+## Көркем әрекетке қалай дайындалуға болады?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Алдымен дайындаңыз.** Адамды шақырмас бұрын барлығын қиып, реттеп қойыңыз. Сіз қайшы іздеп тұрған кезде қызығушылық жоғалуы мүмкін.
+2. **Аз ұстаңыз.** Екі-үш түс, бір қылқалам, бір парақ қағаз. Тым көп таңдау адамды шаршатуы мүмкін.
+3. **Үстелді қорғаңыз.** Пластик төсеніш немесе ескі мата болғанда, дақ туралы алаңдамайсыз.
+4. **Қатар отырып жасаңыз.** Оның қасында өз жұмысыңызды жасаңыз. Бұл бақылау емес, бірге істеген әрекет сияқты сезіледі.
+5. **Бастауға көмектесіңіз.** Alzheimer's Association қылқалам қимылын адаммен бірге бастаудың қажет болуы мүмкін екенін айтады. Басталғаннан кейін көптеген адам жалғастыра алады.
+6. **Жұмыс барысында сөйлесіңіз.** Түстер мен текстура туралы айтыңыз немесе сурет әңгімеге жол ашсын. «Бұл не?» сияқты сұрау түріндегі сұрақтардан аулақ болыңыз.
+7. **Уақыт жеткілікті болсын.** Жұмысты бір отырыста аяқтау міндетті емес.
 
-## How do I adapt art as dementia changes?
+## Деменция өзгерген сайын өнер әрекетін қалай бейімдеуге болады?
 
-| Stage | What tends to work | What to adjust |
+| Кезең | Не қолайлы болуы мүмкін | Нені өзгерту керек |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Ерте | Сабақтар, егжей-тегжейлі бояу, скрапбук, ашықхат жасау, фотосурет бойынша сурет салу | Жоба таңдауға мүмкіндік беріңіз; әрекетті ортақ етіңіз |
+| Орта | Алдын ала қиылған коллаж, акварельмен бояу, гүл қою, үлкен аумақтары бар бояу | Бір уақытта бір қадам; қию мен жапсыруды сіз жасаңыз |
+| Кейінгі | Кең қылқаламмен жағу, сазды қысу, матаны сипау, сіздің сурет салғаныңызды көру | Сезімдерге көңіл бөліңіз; егер адам қарсы болмаса, қолын ақырын бағыттаңыз |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS кейінгі кезеңдерде әрекеттер көбіне жеңілдетіліп, сезімдерге көңіл бөлетінін айтады. Басқа адамның сурет салғанын қарап, түстер туралы әңгімелесу — қатысудың шынайы жолы. Кезең бойынша қосымша идеялар үшін [әр кезеңге арналған әрекеттерді](/activities/ideas/) қараңыз.
 
-## Safety with art supplies
+## Көркем материалдармен қауіпсіздік
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Улы емес бояуларды, маркерлерді және желім таяқшаларын таңдаңыз.
+- Қайшы, пышақ және ыстық желім тапаншасын қол жетпейтін жерде ұстаңыз. Қию жұмысының барлығын алдын ала өзіңіз жасаңыз.
+- Адамның сазды, бояуды немесе ұсақ заттарды аузына салмауын қадағалаңыз.
+- Су мен құмыралар үшін орнықты, ауыр ыдыстарды қолданыңыз.
 
-## When should we stop?
+## Қашан тоқтау керек?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Зейін тарай бастағанда немесе мазасыздық байқалғанда тоқтаңыз. Alzheimer's Association зейін азайғанда немесе мазасыздық күшейгенде әрекетті аяқтауды немесе өзгертуді ұсынады. Жұмысты қауіпсіз жерге қойып, демалуға мүмкіндік беретін басқа нәрсе ұсыныңыз. Ертең қайта жалғастыруға да болады, немесе мүлде жалғастырмауға да болады. Екеуі де орынды.
 
-## Display the work, if the person wants
+## Егер адам қаласа, жұмысты көрсету
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Суретті тоңазытқышқа іліп қою немесе коллажды жақтауға салу — құрмет көрсетудің тыныш жолы болуы мүмкін. Алдымен сұраңыз. Кейбір адамдар өз жұмысының қабырғада тұрғанын ұнатады, ал кейбіреулер қаламауы мүмкін.
 
-## Pair art with our games
+## Өнерді біздің ойындармен үйлестіріңіз
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Бояу дайындау тым қиын болған күндері [Coloring](/games/coloring/) планшетте дақсыз жұмыс істейді. [Picture Puzzle](/games/picture-puzzle/) бөліктерді ауыстырғанда толық суретті көрініп тұратын бағдар ретінде сақтайды. [Conversation Cards](/games/conversation-cards/) суреттен әңгімеге апара алатын ашық сұрақтар ұсынады. Олардың барлығында таймер де, ұпай да жоқ. Сондай-ақ біздің [басып шығаруға болатын әрекеттер](/activities/printable/) жинағынан беттерді басып шығара аласыз.

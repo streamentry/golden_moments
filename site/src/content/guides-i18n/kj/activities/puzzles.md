@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Oupuzzle kwaavo hava kala nokudimbuka komadiladilo"
+seoTitle: "Oupuzzle nokudimbuka komadiladilo"
+description: "Nghee u na okuhoolola oujigsaw, oupuzzle voitya novopaintaneta kwaao e na okudimbuka komadiladilo: ounene woitukulwa, omafano, oitya inene nokulonga pamwe."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Opuzzle ya denga mbada komunhu e na okudimbuka komadiladilo oyo ta dulu
+  okumanifa nekwafo linini nokuhafela eshi te i longo. Hoolola oujigsaw ve na
+  oitukulwa inini, inene nomafano a yela ovakulunhu, kaleka efano lokombapila
+  li li po, nokutameka noitukulwa yomominghulo. Oupuzzle vokukonga oitya
+  noicrossword ohai longo nawa noitya inene. Oupuzzle vapupu vopaintaneta ve na
+  oitukulwa 4 otava wapalele pefimbo lopokati. Xulifa po fimbo tashi hafifa.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Hoolola she likolelela kunghee tashi ende, ha koludalo loshiteelelwa: ngeenge opuzzle otai monika idjuu, kendabala imwe i na oitukulwa inini."
+  - "Oitukulwa inene, ya kola nomafano a yela e na omaluvala a yooloka oipu unene i dule oitukulwa inini nomafano e na eulu linene."
+  - "Omafano ovakulunhu osha fimana. Oshikunino, okombitha, eehauto noinamwenyo, ha omafano ounona."
+  - "Okulonga pamwe oko kwa fimana. Mu pe oitukulwa, tula kumwe oitukulwa yomominghulo, kaleka efano lokombapila li li po."
+  - "Oupuzzle vokukonga oitya noitya inene nooupuzzle vapupu vopaintaneta ve na oitukulwa 4 ile 9 ove li oshali ko-website ei."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Oitukulwa ingapi yopuzzle ya wapalela omunhu e na okudimbuka komadiladilo?"
+    a: "Kape na ongushu imwe aike ya yuka. Omunhu oo a li ha dana oupuzzle ve na oitukulwa 1,000 ota dulu natango okuhafela omayovi manini pehovelo, ofimbo vamwe hava kala nawa noitukulwa inini inene. Ngeenge opuzzle otai monika idjuu ile tai eta oudjuu, ya koimwe i na oitukulwa inini. Opuzzle yetu yoPicture yopaintaneta oi na oitukulwa 4 ile 9."
+  - q: "Oujigsaw opuzzle oiwa ngoo kovanhu hava kala nokudimbuka komadiladilo?"
+    a: "Ovanhu vahapu ohave i hafele, unene tuu ngeenge ova li ve hole oupuzzle nale. Opuzzle ohai pe omake sha okuninga, elalakano la yela nefano lokupopya kombinga yalo. Kape na opuzzle ya ulikwa kutya otai pange ile tai shololifa okudimbuka komadiladilo, onghee hano i hoololeleni okuhafela nokukala pamwe."
+  - q: "Oshike handi dulu okuninga ngeenge omunhu ita dulu vali okulonga oujigsaw?"
+    a: "I ninipika nokulonga oinima ihapu ove mwene: mu pe oshitukulwa shimwe poshikando, ile mu fiile ashike oitukulwa yaxuuninwa inini. Kendabala opuzzle yopaintaneta yoitukulwa 4, okutula kumwe oitukulwa pamaluvala, ile ashike okutala efano la pwa pamwe."
+  - q: "Oicrossword nooupuzzle vokukonga oitya otaa wapalele ngoo okudimbuka komadiladilo?"
+    a: "Otaa dulu okuwapalela pefimbo lopetameko, noitya inene. Oupuzzle vokukonga oitya ve na oitya ya yuka ashike kombinga nokoshi oipu unene i dule oyo i na oitya ya yuka kominghulo ile ya shuna monima. Lesha omapulo ile omusholondodo woitya mokule nokulonga pamwe."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Oujigsaw ya tandavelifwa poshitaafula shokulila oimwe yomoilonga ipu okutukula pamwe. Otamu dulu okukala omutumba pamwe nopehe na okupopya unene, efano otali mu pe sha okupopya kombinga yasho, nokutula mo oshitukulwa shaxuuninwa ohashi eta ehafo. Ashike oupuzzle oi na okulunduluka eshi okudimbuka komadiladilo taku lunduluka. Opuzzle idjuu unene otai dulu okuningifa omutenya wa ngungumana u kale u yadi oudjuu. Ependje eli otali yelifa nghee u na okuhoolola nokulongekida oujigsaw, oupuzzle voitya nooupuzzle vapupu vopaintaneta, nosho yo osho u na okuninga ngeenge ya kala idjuu.
 
-## Are puzzles good for people with dementia?
+## Oupuzzle oi na ngoo ouwa kovanhu hava kala nokudimbuka komadiladilo?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Ovanhu vahapu ohave i hafele, unene tuu ovo va li have i dana nale. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) oya tumbula oupuzzle vokukonga oitya, omaudano oukalata nomaudano okoshitaafula mokati koilonga yefimbo lopetameko, omanga [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) tai tumbula omaudano opaintaneta nooupuzzle koitablet onghedi imwe yokukala wa kwatelwa mo.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Oupuzzle kashi fi epango. Kape na opuzzle ya ulikwa kutya otai shololifa ile tai kelele okudimbuka komadiladilo; ewiliko letu li na sha [nomaudano ouluvi nokudimbuka komadiladilo](/brain-health/brain-games/) otali yelifa omakonakono. Etomheno lokulonga opuzzle ololo kutya otali dulu okukala efimbo liwa nokukufa omadiladilo pamwe. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) otai ti pauxupi: yandjeni elitulemo kehafo, ha koilonga ya pondolwa.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Oto hoolola ngahelipi oujigsaw yopuzzle komunhu e na okudimbuka komadiladilo?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Tala kwaasho omunhu e hole nanghee opuzzle yaxuuninwa ya enda, ha koludalo loshiteelelwa.
 
-### Number of pieces
+### Ongushu yoitukulwa
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Kape na ongushu ya yuka. Omuholi woopuzzle efimbo lile ota dulu natango okuhafela omayovi manini pehovelo, ofimbo umwe e li nawa noitukulwa omulongo nasha. Efinamhango liwa: ngeenge opuzzle yaxuuninwa oya li idjuu, hoolola imwe i na oitukulwa ya fa ya ninipala po-vali. Ngeenge oya pwa diva nokwa hala vali, indila ko kanini.
 
-### Piece size and feel
+### Ounene noukwatya woitukulwa
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Oitukulwa inene** oipu okumona, okukwata nokupilula.
+- **Oitukulwa ya kula noya kola** ohai kala ya tulwa nawa noitai teka diva ngeenge ya wile.
+- **Oitukulwa ihai vilima** ohai shonopeke ouyelele tau vilima koshi yeelamba ile pomakende.
+- **Henuka oitukulwa inini unene** ngeenge omunhu ota dulu okutula oinima mokanya, osho tashi dulu okuningwa lwanima mokudimbuka komadiladilo.
 
-### The picture
+### Efano
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Omafano ovakulunhu.** Oshikunino, okombitha, eehauto donale, oinamwenyo yepulazi, odoolopa yokomunkulo wefuta, ile omudjalo oo e hole. Ha omafano ounona ile sha tashi monika oshinima shounona.
+- **Oitukulwa yomaluvala a yooloka.** Etungo litilyana, owato iluhlaza nepya lilihamwidi oipu i dule eulu olo tali yadifa etata lopuzzle.
+- **Omafano e shiivikile nosho yo opaumwene.** Efano lonhele oko a li ha kala ile oshinima osho a li e hole otali mu pe shihapu okupopya kombinga yasho. Eeshopa dimwe dokuprinta otadi dulu okuninga efano loukwaneumbo oujigsaw.
 
-## How do you do a puzzle together?
+## Oto dana ngahelipi opuzzle pamwe?
 
-Set it up so the person can get straight to the enjoyable part.
+I longekida opo omunhu a dule okutameka diva koshitukulwa shihafifa.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Hoolola onhele iwa.** Ouyelele muwa, oshipundi shi na omaoko, noshitaafula ile oshipambu opo opuzzle tai dulu okukala po.
+2. **Tula efano lokombapila** opo mu dule oku li tala amushe.
+3. **Pilula oitukulwa i li pombada** ofimbo inamu tameka.
+4. **Tula kumwe oitukulwa yomominghulo** ove mwene, ile ninga ominghulo tete ndele mu fiila pokati.
+5. **Tula kumwe oitukulwa pamaluvala** moituto ile moipambu ya mbwalangadja inini.
+6. **Mu pe oshitukulwa shimwe poshikando** ngeenge omutumba woitukulwa tau monika muhapu unene. «Ohandi diladila kutya eshi oshitukulwa shetungo.»
+7. **Popyeni kombinga yefano,** ha komesho loye. «Osho otashi monika ngaashi owato oyo tate a li e na.»
+8. **I efeni po.** Alukeni kuyo omafiku mahapu. Kape na okuendelela.
+9. **Xulifa po pefimbo liwa,** konima eshi oshitukulwa sha tulwa mo, fimbo natango tashi hafifa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) otai kumaida okukwafa omunhu a tameke, okutala ngeenge oku na oudjuu nokumu efa a tale ashike ngeenge osho te shi hafele unene. Okutala eshi to tula mo oitukulwa nokulombwela apa shimwe tashi dulu okuya, nasho yo okukufa ombinga.
 
-## Easy online puzzles
+## Oupuzzle vapupu vopaintaneta
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Opuzzle yokotablet oi na ouwa washili: kape na oitukulwa tai kana, omafano manene taa yadifa oshikandeko, nokape na oshitaafula shokuyelifa.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[Picture puzzle](/games/picture-puzzle/) yetu yoshali ohai teta efano moitukulwa 4 ile 9. Fina oitukulwa ivali opo u i lundulule ponhele fiyo efano la pwa. Efano la pwa ohali kala poshikandeko li li ewiliko, kape na efimbo tali valulwa, noto dulu okuxulifa po efimbo keshe. Oitukulwa ine otai wapalele ovanhu vahapu pefimbo lopokati ngeenge ve li nomunhu puvo.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Ngeenge mwa hala sha shipu unene, kendabaleni [Find the same](/games/find-the-same/), omo to fina efano tali faafana naalo li li pombada, ile [Sort together](/games/sort-together/), omo omafano taa tulwa moiyuma ngaashi okombitha ile oshikunino.
 
-## Word puzzles: word searches and crosswords
+## Oupuzzle voitya: oupuzzle vokukonga oitya noicrossword
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Oupuzzle voitya otai wapalele ovanhu ovo va li have i hafele alushe, unene tuu pehovelo lokudimbuka komadiladilo.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Oupuzzle vokukonga oitya noitya inene.** [Word search](/games/word-search/) yetu yoshali ohai longifa oitya inene noitya inini ashike, ya yuka kombinga nokoshi, haina ominghulo ile ya shuna monima. Danei ko koshikandeko ile i printeni.
+- **Lesha omusholondodo woitya mokule.** Umwe ta lesha oshitya, mukwao te shi kongo. Okutonga ondjila yotete yoshitya osha wana.
+- **Oicrossword yoitya inene** yomomambo opuzzle otai dulu okulonga pehovelo. Lesheni omapulo mokule, tukuleni opena nokunyamukula pamwe. Oicrossword ipu, i na oshipalanyole, oi li xwepo i dule oyo idjuu.
+- **Popyeni kombinga yoitya.** «Oshikunino» otashi dulu okueta ominute omulongo dokupopya kombinga yomatomate.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Ngeenge mwa hala oilonga ihapu yokombapila nanghee mu na oku i printa opo i kale ipu okumona nokukwata, taleni [oilonga yokudimbuka komadiladilo ya printwa yoshali](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Oupuzzle ilipi tai wapalele oshiteelelwa keshe?
 
-Stages overlap, and good and hard days are normal.
+Oiteelelwa ohai lumbakana, nomafiku mawa nomadjuu otaa dulu okukala po.
 
-| Stage | Puzzles that often fit | Your role |
+| Oshiteelelwa | Oupuzzle oyo luhapu tai wapalele | Oshinakuwanifwa shoye |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Petameko | Oujigsaw ya shiivikila i na oitukulwa inini i dule nale, oicrossword nooupuzzle vokukonga oitya yoitya inene, oupuzzle yopaintaneta yoitukulwa 9 | Okaume: mu efa a hoolole, mu kwafa ngeenge a pula |
+| Pokati | Oujigsaw i na oitukulwa omulongo nasha inene, oupuzzle yopaintaneta yoitukulwa 4, oupuzzle vokukonga oitya tai leshwa mokule pamwe | Longekida, tula kumwe oitukulwa, mu pe shimwe poshikando |
+| Lwanima | Okutala efano la pwa pamwe, Find the same nomafano avali, okukwata oitukulwa inini inene | I eta kuye; okukala pamwe nanye oko oilonga |
 
-## When should you make a puzzle easier, or stop?
+## Onaini u na okuninga opuzzle i kale ipu, ile okuxulifa po?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Tala ngeenge ta fudile pombada, ta undula po oitukulwa, ta ti lwoikando «Ihandi dulu» ile ta monika a limbililwa. Oyo omadidiliko oku lundulula sha, ha okutsikila noudjuu.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **I ninipika.** Oitukulwa inini, ile mu fiile ashike oitukulwa yaxuuninwa inini.
+- **Longa shihapu ove mwene** ndele to mu shivi a kwafe koitukulwa ipu.
+- **Lundulukila koshinima shi li popepi:** okutula kumwe oitukulwa pamaluvala, opuzzle yopaintaneta yoitukulwa 4, ile [okutyaula omafano](/games/coloring/).
+- **Xulifa po.** I tuleni po ndele tamu nu otee. Otamu dulu okualuka kuyo efiku limwe, ile inamu aluka vali nandenande.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ngeenge oupuzzle otai tameke okumonika ngaashi edimbulukifo laasho shidjuu, osha wana oku i efa. Ope na eenghedi dihapu vali dokukala nefimbo liwa pamwe; [omadilaadilo oilonga 101](/activities/ideas/) onhele iwa okutamekela.

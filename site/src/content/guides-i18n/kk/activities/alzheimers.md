@@ -1,35 +1,37 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Альцгеймер ауруы кезінде әрекеттер мен ойындар"
+seoTitle: "Альцгеймер: кезең бойынша әрекеттер мен ойындар"
+description: "Альцгеймер ауруының әр кезеңіне сай әрекеттер мен ойындар: ұзақ сақталатын дағдылар мен естеліктерге сүйенген, бірге ойнауға арналған тегін ойындар."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Альцгеймер ауруы бар адамға қолайлы әрекеттер көбіне ең ұзақ сақталатын
+  нәрселерге сүйенеді: көп жылдар бойы жасалып келген дағдылар, ескі әндер,
+  таныс үй шаруалары және сезім мүшелері. Алғашқы кезеңде карта, үстел
+  ойындары, тамақ дайындау және серуендеу жиі әлі де қолайлы болады. Ортаңғы
+  кезеңде кір жию, сұрыптау, ән айту, фотоальбомдарды қарау және қарапайым
+  суретті ойындарды байқап көріңіз. Аурудың соңғы кезеңінде музыка, жанасу
+  және қасында болу ең маңызды. Адамның бүгінгі жағдайы мен мүмкіндігіне
+  қарай таңдаңыз.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Альцгеймер ауруы — деменцияның ең жиі кездесетін себебі, сондықтан деменцияға арналған әрекеттер оған да сай келеді."
+  - "Жаңа ақпаратты есте сақтау әдетте бірінші кезекте қиындайды, ал көп жыл бұрын үйренген дағдылар мен әндер көбіне ұзағырақ сақталады. Соларға сүйеніңіз."
+  - "Кезеңдер бір-біріне ұласып жатады, жақсы күндер мен ауыр күндер болуы қалыпты жағдай. Адамның бүгін не істей алатынына және нені ұнататынына қарай таңдаңыз."
+  - "Таймері, ұпайы немесе сұрақ-жауап сынағы жоқ ойындарды таңдаңыз және суреттер көрініп тұруына мүмкіндік беріңіз."
+  - "Қарап отыру, бір нәрсені қолында ұстау немесе жай ғана бірге отыру — мұның бәрі де қатысу болып есептеледі."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Альцгеймер ауруы бар адамға қандай әрекеттер қолайлы?"
+    a: "Біраз жеңілдетілген таныс әрекеттер: кір жию, дастархан жасау, бірге тамақ дайындау, музыка тыңдау және ән айту, фотосуреттерді қарау, серуендеу, бағбаншылық және үй жануарымен уақыт өткізу. Қарапайым суретті ойындар, жеңіл пазлдар және әңгіме карталары да көп адамға ұнайды. Адам әрқашан ұнатқан нәрсені таңдап, оны бірге жасаңыз."
+  - q: "Альцгеймер ауруы бар адамдарға ойындар пайдалы ма?"
+    a: "Егер адамға ұнаса, ойындар бірге уақыт өткізудің жағымды тәсілі болуы мүмкін. Ешқандай ойын Альцгеймер ауруын емдейді, баяулатады немесе тоқтатады деп көрсетілмеген, сондықтан ойындарды ләззат алу үшін таңдаңыз: суреттері үлкен, таңдауы аз, таймері, ұпайы және қате жауап туралы дыбысы жоқ болсын."
+  - q: "Деменцияға арналған әрекеттер мен Альцгеймерге арналған әрекеттердің айырмашылығы бар ма?"
+    a: "Көбіне жоқ. Альцгеймер ауруы — деменцияның ең жиі кездесетін себебі, сондықтан әрекеттерге қатысты бірдей идеялар қолданылады. Альцгеймер кезінде пайдалы болатын нәрсе — жақында болған естеліктер әдетте бірінші болып ұмытылады, сондықтан ескі дағдыларға, әндерге және күнделікті әдеттерге негізделген әрекеттер жиі оңайырақ өтеді."
+  - q: "Альцгеймер ауруының соңғы кезеңінде адам нені ұната алады?"
+    a: "Сүйікті музыкасын, қолды ақырын уқалау, ұстауға жұмсақ заттар, дауыстап оқып беру, далада отыру және сенетін адамының қасында болуы. Барлығын қысқа әрі тыныш етіп өткізіңіз және адамның нені ұнататынын бет-әлпеті мен дене қимылынан байқаңыз."
+  - q: "Альцгеймер ауруы бар адамды әрекетке қалай қызықтыруға болады?"
+    a: "Әрекет бастайтыныңызды хабарлаудың орнына көмек сұраңыз, бәрін алдын ала дайындап қойыңыз және адам қосыла алатындай етіп бірінші өзіңіз бастаңыз. Адамның жағдайы жақсырақ болатын күннің уақытын таңдау үлкен өзгеріс әкелуі мүмкін. Егер адам келіспесе, кейінірек қайта байқап көріңіз немесе оңайырақ нұсқасын ұсыныңыз."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +56,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Егер жақын адамыңызда Альцгеймер ауруы болса, кейбір нәрселер өте тез ұмытылса, басқалары ұзақ сақталатынын байқаған боларсыз. Адам бүгін таңертең болған телефон қоңырауын ұмытып кетуі мүмкін, бірақ әннің әрбір сөзін айта алады, сүлгіні әрқашандағыдай бүктей алады немесе карта тарата алады. Жақсы әрекеттер осы сақталып қалған дағдыларға негізделеді. Бұл бетте алдымен себебі түсіндіріліп, кейін әр кезеңге арналған идеялар және оларға сай келетін осы сайттағы тегін ойындар ұсынылады.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Әрекеттерге келетін болсақ, Альцгеймер мен деменцияның айырмашылығы бар ма?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Өте аз. Деменция — жалпы ұғым, ал Альцгеймер ауруы оның ең жиі кездесетін себебі: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) дерегіне сәйкес, ол деменция жағдайларының 60–80 пайызын құрайды. Деменцияға арналған әрекеттер туралы жазылғанның бәрі дерлік Альцгеймерге де қатысты, соның ішінде біздің [101 әрекет идеясы](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Білуге пайдалы нәрсе — өзгерістердің әдеттегі реті. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) Альцгеймер ауруы алдымен мидың есте сақтауға жауапты бөліктеріне зақым келтіретінін, кейінірек сөйлеу, пайымдау және әлеуметтік мінез-құлыққа әсер ететінін түсіндіреді. Alzheimer's Association ең жиі кездесетін ерте белгі — жаңа үйренген ақпаратты есте сақтау қиынға соғатынын айтады. Әр адамның жағдайы әртүрлі және көп адамда себептер аралас болуы мүмкін, бірақ бұл заңдылық көбіне не жақсы жұмыс істейтінін түсінуге көмектеседі.
 
-## What kinds of activities suit Alzheimer's best?
+## Альцгеймер кезінде қандай әрекеттер жақсырақ сай келеді?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Ескі, жақсы меңгерілген білімге сүйенетін әрекеттер әдетте жаңа нәрсені үйренуді және есте сақтауды талап ететін әрекеттерге қарағанда оңайырақ өтеді.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Көп жылдар бойы жасалып келген дағдылар.** Alzheimer's Association адамның көп жыл бұрын үйренген қарапайым пианино әуендерін әлі де ойнай алуы мүмкін екенін айтады. Тоқу, ағашты қажау, карта араластыру, қамыр илеу және кір жию да соған ұқсас.
+- **Ескі әндер мен таныс музыка.** Көп адам жас кезіндегі әндердің, діни әндердің және үйлену тойындағы әндердің сөздерін әлі де біледі. [Музыкалық әрекеттерді](/activities/music/) қараңыз.
+- **Мақсаты бар күнделікті істер.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ыдыс жуу, дастархан жасау, шұлық сұрыптау және кір жиюді адамдар ұнатуы мүмкін әрекеттер қатарына жатқызады. Пайдалы сезіну маңызды.
+- **Еске түсіру емес, танып білу.** Сәйкес суретті көрсетіп беру оны жаттан айтып беруге қарағанда оңай. Сондықтан бәрі көз алдында тұрған суретті ойындар сұрақ-жауап сынақтарына қарағанда жақсырақ жұмыс істейді.
+- **Сезім мүшелері.** Сөздер қиындай бастағаннан кейін де текстура, иіс, жылылық, дәм және дыбыс мағыналы болып қала береді. [Сезімдік әрекеттерді](/activities/sensory/) қараңыз.
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Көбіне онша қолайлы болмайтыны: сағаты бар кез келген нәрсе, үйрену керек жаңа ережелер, есте сақтау қажет көп қадамдар немесе «Бұл кім екенін есіңе түсіре аласың ба?» сияқты жадты сынайтын сұрақтар. Мұндай нәрселер Альцгеймер кезінде қиындай түсетін тұстарды алға шығарады.
 
-## Activities for early-stage Alzheimer's
+## Альцгеймер ауруының ерте кезеңіндегі әрекеттер
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Ерте кезеңде [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) адамның көлік жүргізе алуы, жұмыс істей алуы және әлеуметтік әрекеттерге қатыса алуы мүмкін екенін, бірақ таныс сөздерді немесе заттардың қайда тұрғанын ұмыту сияқты есте сақтау қателіктерін байқай бастауы мүмкін екенін айтады. Ең жақсы тәсіл — серіктестік: адам нені жалғастырғысы келетінін және қандай көмек қалайтынын сұраңыз.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Бұрыннан бар хоббилерді жалғастырыңыз.** Гольф, бридж, көрпе тігу, хор және шіркеу топтары, мысалы топты кішірейту немесе тыныш уақытты таңдау сияқты шағын өзгерістермен.
+2. **Таныс карта және үстел ойындарын ойнаңыз.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ерте кезеңге арналған ойындар қатарында викториналар, сөз таппақтар, карта ойындары және үстел ойындарын атайды. Ұпай санау адамды алаңдататын болса, команда болып ойнаңыз немесе ұпайды мүлде алып тастаңыз.
+3. **Бірге тамақ дайындаңыз.** Адам жатқа білетін рецептті өзі орындасын, ал сіз қадамдарды оқып беруді өзіңізге алыңыз.
+4. **Өмір тарихы туралы жоба бастаңыз.** Адам өзі басқаратын фотоальбомдағы суреттер, рецептер және әңгімелер. [Естеліктерге арналған әрекеттерді](/activities/reminiscence/) қараңыз.
+5. **Серуендеуге шығыңыз.** Тыныш уақытта сүйікті мейрамханаға бару, музейге қысқа сапар жасау, саябақта серуендеу.
+6. **Адам өзі таңдайтын жұмбақтарды байқап көріңіз.** Ірі әріпті сөзжұмбақтар, сөз таппақтар және пазлдар. [Деменцияға арналған пазлдарды](/activities/puzzles/) қараңыз.
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Қосымша идеялар: [ерте кезеңдегі әрекеттер](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Альцгеймер ауруының ортаңғы кезеңіндегі әрекеттер
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association ортаңғы кезең әдетте ең ұзақ болатынын және ол көптеген жылдарға созылуы мүмкін екенін айтады. Сөздер шатасуы мүмкін, ашулану оңайырақ болуы мүмкін және адамға көбірек күтім қажет болады. Alzheimer's Foundation of America көптеген адамдарға әрекетті бастау немесе жалғастыру үшін көмек керек екенін қосады. Бұл кезеңде сіздің рөліңіз — барлығын дайындау, түсіндіргеннен гөрі көрсетіп беру және қиын бөліктерді өзіңізге алу.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Жию, сұрыптау және сәйкестендіру.** Сүлгілер, шұлықтар, асханалық құралдар, түстері бойынша түймелер. Қатар отырып жасалатын нақты жұмыстар.
+2. **Ән айтып, музыкаға қимылдаңыз.** Қол шапалақтау, тербелу немесе асүйде билеу. Алдымен өзіңіз ән бастаңыз да, адам қосылсын.
+3. **Фотоальбомдарды қарап шығыңыз.** Көріп тұрғаныңызды сипаттаңыз және әңгімеге шақырыңыз: «Мынау қандай көлік. Ол туралы айтып берші». Адам қандай есімдерді қолданса да, сонымен келісіп отырыңыз.
+4. **Қарапайым суретті ойындар ойнаңыз.** Төрт–алты тақтайшасы бар және суреттері ашық тұратын [Picture pairs](/games/picture-pairs/) немесе екі не үш таңдауы бар [Find the same](/games/find-the-same/).
+5. **Таныс мақал-мәтелдерді аяқтаңыз.** «Бір алма күнде...» Көп жыл бұрын үйренген мақал-мәтелдер жиі оңай айтылады. [Finish the saying](/games/finish-the-saying/) ойынын байқап көріңіз, онда кез келген аяқтауды бір түртумен көрсетуге болады.
+6. **Өсімдіктерге су құйып, күтіңіз.** Үйдегі гүлдер немесе биік төсекше және кішкентай суарғыш.
+7. **Отбасылық фотосуреттерден сәйкестендіру ойынын жасаңыз.** [Photo pairs](/games/photo-pairs/) ойыны сіз құрылғыда таңдаған суреттерді пайдаланады және олар құрылғыдан шықпайды.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Қосымша идеялар: [ортаңғы кезеңдегі әрекеттер](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Альцгеймер ауруының соңғы кезеңіндегі әрекеттер
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Соңғы кезеңде Alzheimer's Association адамдардың қоршаған ортаға жауап беру және әңгімені жалғастыру қабілетінен айырыла бастайтынын, бірақ олар әлі де кейбір сөздерді немесе сөз тіркестерін айта алуы мүмкін екенін айтады. Бұл кезеңде әрекет — адам демалып жатқан жерде оған жайлылық пен байланыс сезімін сыйлау.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Сүйікті музыкасын** үнсіз қойыңыз, теледидар кедергі жасамасын.
+2. **Адам ұнататын иісі бар креммен** қолын ақырын уқалаңыз.
+3. **Ұстауға жұмсақ заттар ұсыныңыз:** жылы көрпе, флис немесе тегіс тас.
+4. **Дауыстап оқып беріңіз:** дұғалар, өлеңдер немесе таныс әңгіме. Мағынасынан гөрі ырғағы маңыздырақ.
+5. **Далада көлеңкеде** немесе терезе алдында отырып, құстарды бақылаңыз.
+6. **Бір үлкен суретті бірге қараңыз.** Мысалы, планшет экранын түгел толтырған күнбағыс немесе ит суреті, ал сіз көріп тұрғаныңызды айтып отырыңыз.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Қосымша идеялар: [соңғы кезеңдегі әрекеттер](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Альцгеймер ауруы бар адамға қандай ойындар қолайлы?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Сәтсіздікке ұшыратпайтын ойындарды таңдаңыз. Бұл сайттағы әрбір ойын тегін, браузерде жұмыс істейді және оның таймері, ұпайы немесе тіркелуі жоқ.
 
-| Game | What you do | Often suits |
+| Ойын | Не істейсіз | Көбіне қай кезеңге сай |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Үлкен суреттерді сәйкестендіру; олар ашық тұра алады | Ерте және ортаңғы кезең |
+| [Find the same](/games/find-the-same/) | Жоғарғы суретке сәйкес келетін суретті түрту | Ортаңғы және соңғы кезең, көмекпен |
+| [Finish the saying](/games/finish-the-saying/) | Таныс мақалдың соңғы сөзін таңдау немесе көрсету | Ерте және ортаңғы кезең |
+| [Picture puzzle](/games/picture-puzzle/) | 4 немесе 9 бөлікті орнына қою, сурет көрініп тұрады | Ерте және ортаңғы кезең |
+| [Conversation cards](/games/conversation-cards/) | Сурет және әңгіме бастауға арналған ашық сұрақ | Кез келген кезең, әңгімелесетін адаммен |
+| [Photo pairs](/games/photo-pairs/) | Өз фотосуреттеріңізден жасалған сәйкестендіру ойыны | Ерте және ортаңғы кезең |
+| [Coloring](/games/coloring/) | Түсті, содан кейін суреттің бір бөлігін түртіңіз; немесе басып шығарыңыз | Кез келген кезең, көмекпен |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Қалай бірге отыру, қаншалықты көмек көрсету және қашан тоқтату туралы [деменциясы бар адаммен қалай бірге ойнауға болады](/caregiving/how-to-play-together/) бөлімінен оқыңыз. Егер «есте сақтау ойындары» туралы ойланып жүрсеңіз, [деменциясы бар егде жастағы адамдарға арналған есте сақтау ойындары](/activities/memory-games/) бөлімін қараңыз.
 
-## How to make any activity easier
+## Кез келген әрекетті қалай жеңілдетуге болады
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA кеңесінің мәні бірнеше әдетке саяды: әрекетті адамның мүмкіндігіне сай таңдау, бастауға көмектесу, ашулануды байқап отыру, адамның жетістік сезінуіне жағдай жасау және егер адам жай ғана қарап отырғысы келсе, соған рұқсат беру.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Адамның жағдайы жақсырақ болатын күннің уақытын таңдаңыз** және уақытты қысқа ұстаңыз.
+- **Бәрін алдын ала дайындап қойыңыз**, сонда бірден бастай аласыз.
+- **Нұсқаудың орнына шақырыңыз.** «Маған көмектесіп жібере аласың ба?» деген «Әрекет бастаймыз» дегеннен жақсырақ жұмыс істейді.
+- **Алғашқы қадамды өзіңіз жасаңыз** және адам қосылсын.
+- **Бір уақытта бір қадам мен бір таңдау ұсыныңыз.**
+- **Адамның өз әдісімен жасауына мүмкіндік беріңіз.** Сүлгілер қисық бүктелсе де, ештеңе етпейді.
+- **Әлі жағымды болып тұрғанда тоқтатыңыз.** Ерте аяқтау — сәтсіздік емес, жақсы нәтиже. Егер адам бас тартса, [деменциясы бар адам келіспегенде не істеу керек](/caregiving/when-they-say-no/) бөлімін қараңыз.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) мұны қарапайым айтады: жетістікке емес, ләззат алуға көңіл бөліңіз.

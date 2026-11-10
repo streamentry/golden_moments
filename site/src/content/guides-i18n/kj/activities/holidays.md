@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Oilonga yefimbo lomafudo komunhu ta dimbwa, okudja kuThanksgiving"
+seoTitle: "Omaetepo omafudo naThanksgiving komunhu ta dimbwa"
+description: "Oilonga ilula yefimbo lomafudo komunhu ta dimbwa: oilonga yokombiya, okuyamba, omusika, omafano neengodi dovidiyo, nosho yo nghee to longekida efiku la ngungumana."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Kaleka omafudo manini, pefimbo longula nokweehena popepi nenghedi yefiku
+  keshe yomunhu. Mu pa oilonga yashili noi li nawa, ngaashi okutula oitaafula,
+  okuyoga oikwambidi, okufutika oshali ile okutula po eshongo. Tyapuleni
+  omusika omushivi nomafano akulu, lombwela ovaenda nale, nokulongekidila
+  onhele ya ngungumana. Ningeni ashike osho tamu dulu okuungaunga nasho;
+  edano lixupi nola ngungumana oli li nawa.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Daneni pefimbo longula, ngaashi ouvalelo ile oshiumbululwa, ngeenge epiyagano lopefimbo lokomatango ohali holoka luhapu."
+  - "Yandjeni oilonga yashili: okutula oitaafula, okuyoga oikwambidi, okufutika, okuyamba ile okulongekida ouvalelo."
+  - "Omusika omushivi, eimbilo lomafudo nomambo omafano akulu oo eenghedi dilula dokutyapula efimbo lomafudo."
+  - "Lombwela ovaenda osho ve na okuteelela, nokulika omunhu omafano aavo tave uya."
+  - "Longekidila onhele ya ngungumana i na ekumbafa ile okahema oko a hole, nokweefa ovaenda ve uye vashona poshikando."
+  - "Inamu ninga sha osho tashi dulu oku mu piyaaneka, mwa kwatelwa omayambo taa monika a fa oikulya ile omalamba mahapu taa tema nokudima."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Omunhu ta kala nokudimbwa ota dulu okuninga shike puThanksgiving?"
+    a: "Mu pa oilonga ilula noi li nawa tai wapalele osho ta dulu okuninga nena: okuyoga oikwambidi, okutwala cranberry sauce, okutula oitaafula, okupeta eefoloma ile okutula ouvalelo moshiyaha. Konima, taleni omafano oukwaneumbo akulu ile imbeni pamwe omaimbilo omushivi. Okukala oshitukulwa shefiku osho sha fimana unene shi dulife nghee oshilonga sha enda."
+  - q: "Natu twikile natango tu kale tu na edano linene loukwaneumbo?"
+    a: "Ashike ngeenge otali dulu okuungaungwa nalo. Oongudu dinene nengungumo otai dulu oku mu piyaaneka, onghee omaumbo mahapu ohaa hoolola edano linini la manguluka, ouvalelo wopetameko, ile ovaenda tave uya meengudu dinini. Alzheimer's Association ohai ladipike ovo hava file oshisho va ninge ashike osho tava dulu okuungaunga nasho nawa nopehe na oshiponga."
+  - q: "Ohandi longekida ngahelipi ovakwaneumbo inava talela po efimbo lile?"
+    a: "Va lombwela nale ofimbo inava fika kombinga yomalunduluko oo tava dulu okumona, nokutya oo ohaa di moudu, ha komunhu mwene. Va pula vaha pukulule ile va pule omapulo mahapu, va popye umwe poshikando nokumu pa efimbo a nyamukule. Okulika omunhu omafano ovaenda nale otashi dulu yo okukwafela."
+  - q: "Oishali ilipi tai wapalele omunhu ta kala nokudimbwa?"
+    a: "Oinima ilula noi li nawa oyo ta dulu okuhafela paife: okakulya oko a hole, ekumbafa ile okahema ka loloka, omusika omushivi, ile embo lomafano oukwaneumbo. Henuka oikwamashina idjuu, oilongifo noyeemhito domaudano idjuu. Okumu kwatela mo mokuyandja, ngaashi okufutika oshali ile okupaka eembiskiti odo a kwafela okupaka, nasho otashi dulu okukala oshali yashili."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Omafudo otaa dulu okweetifa omadiladilo mawa, notaa dulu yo okweetifa engungumo, oongudu dinene nomalunduluko mefiku keshe. Komunhu ta kala nokudimbwa, omadano mawa luhapu ohaa kala manini, taa ende kanini nokutungwa poinima oyo ta dulu natango okuhafela. Omaetepo aa otaa longo kuThanksgiving, kuKrismesa, kuHanukkah, kOmudo Mupe nokomafiku okuvalwa oukwaneumbo.
 
-## How do I plan a calmer holiday?
+## Ohandi longekida ngahelipi efimbo lomafudo la ngungumana?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Tameka nenghedi yefiku keshe yomunhu nokulongekida efiku tali i landula. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) otai ti edano nali ningwe pefimbo longula, molwaashi epiyagano nokuhenoudjuu ohai hapupala luhapu komatango nokonguloshi (shimwe oshi shiivike onga sundowning). Ouvalelo ile oshiumbululwa shomafudo otashi dulu okukala shipu shi dulife ouvalelo wonguloshi.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Shi kaleka shi li pauhapu wa yuka.** Edano linini, la manguluka, ile ovaenda tave uya vashona poshikando, luhapu oli li shipu shi dulife oitaafula imwe i yadi.
+- **Yandja oilonga.** Pula ovakwaneumbo va ete oikulya, va ka lande ile va kale nomunhu ofimbo to teleke. Va lombwela kondadalunde osho tashi kwafele.
+- **Kaleka omayambo alula.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) otai ti omalamba taa tema nokudima otaa dulu okupiyaaneka, nosho yo oukeke ile oiimati yongaho ya longifwa onga eshongo otai dulu okutalwa ko i li oikulya.
+- **Tokola osho to efa.** Ngeenge onghedi yonale oya ninga idjuu ile i na oshiponga, oshi li nawa oku i efa ile okuyeleka imwe ya ngungumana.
 
-## What holiday activities can we do together?
+## Oilonga ilipi yefimbo lomafudo hatu dulu okuninga pamwe?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Hoolola oilonga nomainyanyudifo taa wapalele osho omunhu ta dulu okuninga nena. Okukala oshitukulwa shefiku osho sha fimana unene shi dulife nghee tashi ende.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Tuleni oitaafula pamwe.** Tula po tete oiyaha, opo nee eefoloma, opo nee eekopa. Okupeta eefoloma oilonga iwa oyo tai dulu okulongwa omutumba.
+2. **Yogeni nokutopola oikwambidi.** Okukosha omakunde ile okuteya eembidi koshitaafula shokombiya osha amenwa noshi shii okulineekelwa kovantu vahapu ovo va li hava teleke nale.
+3. **Twaleni, vongeni ile tuleni oikulya.** Okutwala cranberry sauce, okuvonga omuvovo ulula ile okutula eembiskiti moshiyaha ohashi kaleke omake e na oilonga kokule nomundilo nomamanya.
+4. **Futikeni oshali.** Teta nale ombapila nonatepu, ndele to efa omunhu a pete nokuyelakanifa. Okufutika nawa hako elalakano.
+5. **Tuleni po omayambo manini.** Hoolola oinima itai teka noumbangalanhu umwe unini, ngaashi oshishani ile okati kanini.
+6. **Ningeni oshihongwa shilula.** Eendjedi dopambapila, oshihongwa shomafoloma ile okafo komafudo neestempu otai longo nawa. [ewiliko letu lokuninga oinima yomaoko](/activities/arts-and-crafts/) oli na omaetepo mahapu.
+7. **Imbeni nokupwilikina.** Omaimbilo omushivi nomusika yomafudo oilula okwaama mo, nokuli nokomunhu oo ta popi kanini paife. Tala [ewiliko letu lomusika](/activities/music/) opo u tunge omusholondodo womusika.
+8. **Taleni omafano akulu omafudo.** Eteni omambo omafano omadano onale nokushiva omahokololo ("Lombwele nge kombinga yoshitaafula eshi") ponhele yokupula kutya olyelye e li mo. [Ewiliko letu lokudimbuluka](/activities/reminiscence/) otali yelifa nghee.
+9. **Daneni oudano ulula wongudu.** [Picture bingo](/games/picture-bingo/) ohai printwa moule weeminute dinini notai longo kovanhu vomido adishe, nomanga [conversation cards](/games/conversation-cards/) otai pe keshe umwe sha okupopya.
+10. **Valekeni pamwe.** [omafano okulonga ovala](/games/coloring/) alula otaa dulu okuprintwa opo ounona novakulunhu va tyapule pamwe poshitaafula.
+11. **Taleni okafilima komafudo oko mwa hole.** Okafilima omushivi otai tulumukifa, noshi li nawa okutala ashike oshitukulwa shayo.
+12. **Endeni olweendo lixupi noshihauto mu ka tale omalamba.** Olweendo la ngungumana okupitila momaumbo a yambwa otali dulu okukala shipu shi dulife oshiningwanima shi yadi ovanhu.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Ngeenge okuteleka okwa li oshitukulwa shinene monghalamwenyo yomunhu, [ewiliko letu loilonga yomeumbo onga oilonga yokulongwa pamwe](/activities/household-tasks/) oli na eenghedi dikwao dokuninga oilonga yokombiya i kale ya amenwa notai hafifa.
 
-## How do I prepare guests?
+## Ohandi longekida ngahelipi ovaenda?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Lombwela ovaenda osho ve na okuteelela ofimbo inava fika, unene tuu ovakwaneumbo inava talela po efimbo lile. Alzheimer's Association otai ti shiwa okuyelifa kutya omalunduluko meendunge nomokukala ohaa di moudu, ha komunhu mwene.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Yandjeni omayele manini alula:** popyeni umwe poshikando, yandjeni efimbo a mane ediladilo, inamu mu pukulula ile oku mu pula omapulo mahapu, nokunyamukula konghedi omo ta popi ngeenge eendjovo didjuu okuudiwa ko.
+- **Tyeni osho tashi kwafele nosho tashi udifa nai.** Ngeenge eendaka dopombada, okwendelwa ile oikundafanwa yonhumba ohai eta oudjuu, shi popyeni.
+- **Shiivifeni ovaenda nale.** Likeni omunhu omafano aavo tave uya nokuyandja omahokololo manini, ile mu ningeni ongodi ifupi yongodi ile yovidiyo ofimbo efiku inali fika.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[Ewilikonghatu letu lokupopya](/caregiving/communication-tips/) oli na ouyelele muhapu.
 
-## What if it gets to be too much?
+## Ohandi ningi ngahelipi ngeenge osha ninga shihapu unene?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Longekidila onhele ya ngungumana ofimbo ovaenda inava fika, kokule nengungumo, i na oinima yomunhu omushivi ngaashi ekumbafa, okahema ile oshinima shilula shokulonga. I yandja diva noluhapu: "Natu ka kale omutumba konhele ya ngungumana oule wokafimbo?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Okudja poshitaafula, oku ka nangala diva ile okweefa po oshitukulwa shefiku oshidjemo shiwa, kashi fi eponyoko. Ngeenge omunhu okwa nyika oluhodi, ondaka ya ngungumana, eimbilo omushivi ile okweenda muye onhele ikwao luhapu ohashi kwafele shi dulife okukondjifa nomatomheno. [Ewiliko letu lokuhenoudjuu kwomatango](/caregiving/late-day-restlessness/) oli na omaetepo mahapu komanguloshi.
 
-## How can family far away take part?
+## Ovakwaneumbo ve li kokule otava dulu ngahelipi okukufa ombinga?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Eengodi dovidiyo otadi pitike ovapambele va kale mo nopehe na okweda ko kongudu. Alzheimer's Association otai ti eengodi nadi kale di na elandulafano, ngaashi okwiimba omaimbilo omafudo, okutyapula omafano omadano onale, okuteleka pamwe oshikulya shimwe ile okutala okafilima komafudo pefimbo limwe. Kaleka eengodi dixupi, nokupula ovanhu va popye umwe poshikando, molwaashi okupopya pefimbo limwe oshidjuu oku shi landula. [Ewiliko letu leengodi nongodi dovidiyo](/activities/phone-and-video-calls/) oli na omaetepo pandjikilile.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Ngeenge omunhu oha kala monhele yofileisho yokudimbwa, pula omilandu dokutalela po nokupula ovanailonga va kwafele okutula po ongodi. [Ewiliko letu lokutalela po omunhu monhele yofileisho yokudimbwa](/activities/visiting/) otali popi osho to eta nanghee to dja po nawa.
 
-## What gifts suit someone with dementia?
+## Oishali ilipi tai wapalele omunhu ta kala nokudimbwa?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Oishali ilula noi li nawa oyo ta dulu okuhafela paife luhapu ohai longo nawa: okakulya oko a hole, ekumbafa ile okahema ka loloka, omusika omushivi, okalindeli keendjovo dinene, ile embo lomafano oukwaneumbo. Alzheimer's Association otai londwele mu henuke oilongifo i na oshiponga, oikwamashina idjuu noyeemhito domaudano idjuu.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Okuyandja otaku dulu okukala kwa fimana ngaashi okutaamba. Okupaka eembiskiti odo omunhu a kwafela okupaka, ile oku mu efa a futile oshali oyo wa landa, otashi mu pe omhito a kufe ombinga mefimbo lomafudo. Oudano womafano oukwaneumbo olo ediladilo likwao: [photo pairs](/games/photo-pairs/) ohai shitukifa omafano manini a hoololwa oudano ulula wokufaneka mombrowser.
 
-## Look after yourself too
+## File yo oshisho mwene
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Omafudo otaa wedele ko oilonga yokufila oshisho. Efa umwe a tambule ovaenda ile a teleke, tya aha koiningwanima oyo tai ka kala idjuu, nokukufa omafudepo ofimbo vamwe ve li nomunhu. Ngeenge ove ile omunhu oo to file oshisho kamu udite nawa, okuweya eke okudja pondje ile ongodi yovidiyo otai dulu okukala etalelopo liwa filufilu. [Ewiliko letu lokulifila oshisho mwene](/caregiving/caregiver-self-care/) oli na ekwafo la wedwa po.

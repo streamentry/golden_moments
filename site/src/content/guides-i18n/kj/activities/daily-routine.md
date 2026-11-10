@@ -1,32 +1,34 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Elandulafano la ngungumana mefiku keshe"
+seoTitle: "Elandulafano mefiku keshe noudu wokudimbwa"
+description: "Efiku la faafana tali dulu okulunduluka komunhu ta kala noudu wokudimbwa, nomalihongo, oilonga nokufuda, nanghee to dulu oku li tula melandulafano nokuli lundulula momafiku madjuu."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Elandulafano la ngungumana otali kwatele kumwe efimbo lokupenduka, okulya,
+  okufila oshisho nolokukalala po pe fike peenhele dimwe, tali tula oilonga
+  ya fimana pefimbo opo omunhu e na eenghono dihapu, notali tulike kumwe
+  oilonga nokufuda. Li tungila keenghedi nomikalo odo omunhu a kala ha ningi
+  onghalamwenyo yaye aishe, kala uhe li na sha unene, mona ouyelele wetango
+  nokulinyenga efiku keshe, nokulundulula elandulafano noupu ngeenge efiku
+  ole shi pula.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Efimbo la faafana lokupenduka, okulya, okufilwa oshisho nokukalala po otali pe efiku omukalo wa shiivika."
+  - "Tula oilonga ya fimana pefimbo liwa komunhu mefiku, luhapu ongula."
+  - "Ino yadifa okatendo keshe. Okufuda nefimbo lombili oshitukulwa shelandulafano."
+  - "Ouyelele wetango, okulinyenga efiku keshe nokuhenuka okukofa efimbo lile ile okunwa oinima i na caffeine onguloshi otashi dulu okukwafa eshongo lokuhedi nawa konguloshi."
+  - "Elandulafano olo ewiliko, halo oveta. Lundulula, xupipika ile efa po sha shonhumba momafiku madjuu."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Omolwashike elandulafano tali kwafa omunhu ta kala noudu wokudimbwa?"
+    a: "Efiku la teelelika otali shunifa pedu omatokolo nomashongo inaa teelelika, osho ovanhu vahapu ovo tava kala noudu wokudimbwa hava mono sha mbilipaleka. Alzheimer’s Association oya ti efiku la longekidwa otali ku kwafele u longife efimbo linini mokudiladila kutya oto ningi shike, ndele to longifa efimbo lihapu moinima oyo amushe hamu hafele. Otali kwafele yo ovo hava file oshisho va yukife efiku lavo nawa."
+  - q: "Elandulafano liwa mefiku keshe ola tya ngahelipi komunhu ta kala noudu wokudimbwa?"
+    a: "Kape na elandulafano limwe alike li li mondjila. Elandulafano liwa ohali kaleke okupenduka, okulya nokukalala po pefimbo la faafana, hali tula okufilwa oshisho noilonga ya fimana pefimbo opo omunhu e li nawa, hali kwatele mo efimbo lokukala pondje ile popepi nekende, nohali efa yo onhele yokufuda. Li tungila konghedi omo omunhu a kala ha kala."
+  - q: "Omunhu ta kala noudu wokudimbwa oku na okukofa omutenya?"
+    a: "Okufuda kanini otaku dulu okukwafa, unene tuu konima yomusha womutenya. National Institute on Aging otai kumaida kuhenukwe okukofa efimbo lile ile okutulumukwa unene lwanima mefiku, molwaashi okukala wa loloka unene ile inoo fuda nawa otashi dulu okuwedela eshongo lokuhedi nawa konguloshi. Ngeenge eemhofi oda ninga oupyakadi wa kwata moiti, popya nandokotola waye."
+  - q: "Oshike tu na okuninga ngeenge okwa anya okulandula elandulafano?"
+    a: "Li efa po paife ndele to kendabala vali lwanima ile monghedi imwe i lili. Okwaanya otashi dulu okutya okwa loloka, ke udite nawa, oku udite ouyahame ile ina longekida natango. Elandulafano oli li po okuninga efiku li kale shipu, onghee li lundulula ponhele yoku mu fininika."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +47,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Elandulafano la ngungumana otali pe efiku omukalo wa shiivika: okupenduka, okulya, oilonga inini, okufuda nokukalala po pefimbo la faafana. Otali shunifa pedu omatokolo nomashongo inaa teelelika, notali ku pe ondunge yoshinima to dulu okuninga peenhele opo wa li to lipula kutya oto ningi shike. Elandulafano tali landula apa oshihopaenenwa, halo oveta. Li longifa onga ehovelo, ndele to li wapeke shi fike komunhu oo ho file oshisho.
 
-## Why does a daily routine help?
+## Omolwashike elandulafano mefiku keshe tali kwafa?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Elandulafano la kola otali kwafa molwaashi omikalo da shiivika ohadi landulwa noupu shi dulife odo dipe. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) oya ti efiku la longekidwa otali ti kutya ope na efimbo linini lokutokola osho to ningi nefimbo lihapu loilonga tai hafifa, noya ti yo kutya efimbo la faafana lokupenduka nolokukalala po otali dulu okukwafa momaupyakadi eemhofi nomokuhenoukumwe konguloshi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) otai kumaida okuyoga, okudjala nokulya pefimbo la faafana efiku keshe onga oshitukulwa sheumbo la ngungumana, no [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nayo otai kumaida okukaleka omilandu da faafana.
 
-## A sample gentle day
+## Oshihopaenenwa shefiku la ngungumana
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Omafimbo oo oihopaenenwa ashike. Lundulula efiku alishe li ye komesho ile konima shi fike pomukalo womunhu.
 
-| Time | What happens | Ideas | On a harder day |
+| Efimbo | Osho tashi ningwa | Omaetepo | Mefiku lidjuu |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 08:00 ongula | Okupenduka, okuliyoga, okudjala | Elandulafano limwe efiku keshe; tula oikutu melandulafano omo tai djalwa | Kaleka okufilwa oshisho paunafangwa; okambindja kape ka wana |
+| 08:45 ongula | Ongulosho | Okofi nokuleshela omushangwa mokule ile okaradio | Leni pamwe nombili, inamu fininikila eenghundafana |
+| 09:30 ongula | Oilonga ya fimana | Okupeta oikutu, okuteleka, okulonga moshikunino, okweenda kanini ile okweendaenda | Oshitukulwa shinini ashike, ile mu efa e ku tale eshi to shi ningi |
+| 10:30 ongula | Efimbo lombili | Omusika, embo loifano, ile okukala omutumba popepi nekende | Okufuda moshipundi shaye shiwa |
+| 11:00 ongula | Okukwafa mokulongekida omusha womutenya | Okukosha oihape ile okutula otaafula | Ove to teleke; ye te ku findile po |
+| 12:00 omutenya | Omusha womutenya nokuwapaleka | Okukomba otaafula, okuyaneka oiyaxa inini | Efa po oilonga yomeumbo |
+| 13:00 konima yomutenya | Okufuda kanini | Tulika eemhadi pombada, omusika ya ngungumana | Sha faafana |
+| 14:00 konima yomutenya | Okukala pondje ile okulinyenga | Okweenda, okukala pondje yongulu, okuteka omeva koimeno, okuteya okambola | Kala omutumba popepi nekende li na ouyelele wetango |
+| 15:00 konima yomutenya | Okukala novanhu ile okuhonga sha | Etalelepo, ongodi, [picture pairs](/games/picture-pairs/), okufaneka, oukalata | Okunwa nokulya okapambu pamwe |
+| 16:30 konima yomutenya | Efimbo lokungungumana | Iidila omakumaido, tema omalamba, oilonga ya ngungumana ngaashi okupeta outualana | Omusika ya shiivika, ewi li li pedu |
+| 17:30 konguloshi | Ousha wonguloshi | Kwafa mokunyeka ile okutula otaafula | Oikulya i li paunafangwa, ya shiivika |
+| 18:30 konguloshi | Onguloshi pamwe | Okudimbuluka pamwe konima youvalelo, oukalata, oprograma iwa, ile okutila omake | Okukala pamwe nombili |
+| 20:00 konguloshi | Elandulafano lokukalala po | Okuyoga ile okulikosho, oikutu yokukalala, omusika ya ngungumana, omalamba a ninipala | Xupipika oinima aishe; eudeko li ye tete |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Oshihopaenenwa eshi otashi landula omukalo wepulandunge la faafana la tulwa po kuAlzheimer’s Association peenhele dokuhepa kwopetameko nokopokati, olo hali di mokufilwa oshisho noshiumbululwa shongula nokuyukila koilonga yomeumbo, okweenda, omusika, okufuda nomatalelepo, fiyo okousha wonguloshi, okudimbuluka nokulilongekidila okukalala.
 
-## How do you build your own routine?
+## Ongahelipi to dulu okutunga elandulafano loye mwene?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Hovela nonghedi omo omunhu a kala ha kala, ndele hakoshimhungu ile okomusholondodo. Alzheimer’s Association otai kumaida u diladile koinima ei manga ino tula elandulafano melandulafano:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Osho a hala, osho ina hala, eenghono daye noinima oyo e hole.**
+- **Nghene a li ha longifa efiku laye nale.** Omunhu oo a li ha penduka ongula nokweenda nombwa yaye oku na natango okweenda ongula. Omunhu oo ha kala po oufiku ita ka hafela okuhovela po 08:00 ongula.
+- **Efimbo laye liwa mefiku.** Tula okuyoga, okweendaenda noilonga ya fimana pefimbo opo.
+- **Efimbo la wana** lokulya, okuliyoga nokudjala, opo paha kale sha tashi ningwa meendelelo.
+- **Omafimbo a faafana okupenduka nokukalala po.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Odjo oyo tuu oyo otai kumaida yo okukwatelela mo oilonga yomeumbo, omalihongo, okufilwa oshisho, oilonga yokuhonga sha, okulinyenga kolutu, efimbo novanhu, oilonga yopamhepo noinima oyo hai holoka po ashike, ngaashi kaume te uya okutalela po.
 
-### Try it for a week, then adjust
+### Li kendabala oule woshivike, ndele to li wapeke
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Shanga ouyelele waunafangwa efiku keshe. Alzheimer’s Association otai kumaida u lipule kutya oilonga ilipi ya enda nawa nomolwashike, ngeenge ope na omafimbo a li e na oinima ihapu unene ile inini unene, nokutya omalongekido inaa teelelika okwa li taa hafifa ile okwa eta oshisho. Kaleka osho tashi longo, ndele to lundulula osho inashi longa.
 
-### Make it visible
+### Shi ninga shi wetike
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Ngeenge omunhu ota dulu natango okulesha, okabao ke li poluhaela ile okakalata ke na eendada dinene oko taka ulike elandulafano lefiku otaka dulu okumbilipaleka. Kaleka paunafangwa: „Ongulosho. Okweenda naSarah. Omusha womutenya. Okufuda.“ Vamwe ohava kala nawa ngeenge inava shiiva nale oinima yokomesho; Family Caregiver Alliance otai kumaida kuha kundafanwe omalongekido fiyo okafimbo kanini manga inaa ningwa, ngeenge otashi eta oshisho.
 
-## How to adapt the routine
+## Ongahelipi to dulu okulundulula elandulafano
 
-### Leave room to breathe
+### Efa onhele yokufuda
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ino yadifa okatendo keshe. Alzheimer’s Association otai yelifa kutya omunhu oku na okukala e na elandulafano la tulika kumwe oilonga nokufuda nokutya otashi dulika a pumbwe omafudepo luhapu. Ngeenge ota monika a bored, ita yandje elitulemo ile a handuka noupu, lundulula oilonga ile mu pe efimbo lokufuda.
 
-### Protect the late afternoon
+### Konga elandulafano konguloshi
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Ovanhu vahapu ohava kala vehe li nawa eshi ouyelele wetango tau ninipala. NIA otai kumaida okukala pondje ile popepi nekende u mone ouyelele wetango efiku keshe, okulinyenga efiku keshe ndele kuha longekidwe oinima ihapu unene, okuhenuka caffeine noikunwa yoalkoholi lwanima mefiku, nokuhenuka okukofa efimbo lile lwanima mefiku. Omapata amwe ohaa mono yo sha kwafa okwiidila omakumaido nokutema omalamba manga inaku laula. Tala [okuhenoukumwe konguloshi](/caregiving/late-day-restlessness/) no [eemhofi](/brain-health/sleep/).
 
-### Change it as needs change
+### Li lundulula eshi eemhumbwe tadi lunduluka
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Eshi sha tameka:** longekida elandulafano pamwe. Omunhu otashi dulika a kale a hala elandulafano la shangwa olo ta dulu oku li landula ye mwene.
+- **Eshi sha ya pokati:** ove to wilike unene. Oilonga i fupi, omafudepo mahapu noilonga ihapu ya shiivika; tala [oilonga peenhele dopokati](/activities/middle-stage/).
+- **Eshi sha ya kokule:** elandulafano otali yandje elitulemo keudeko, komalihongo nokufilwa oshisho, pamwe noikando i fupi yoinima tai kumu omaliudo ngaashi omusika ile okutila omake pokati; tala [oilonga peenhele dokokule](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Lundulula oilonga, ndele hakomukalo
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Kaleka omalihongo, okufuda nefimbo lokukalala po la faafana, ndele to lundulula oilonga pokati. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) otai kumaida oku kendabala oilonga i lili momafiku a yooloka opo oinima i kale tai hokwifa. Otashi dulika u teleke mEtivali, u longe moshikunino mEtitatu, ndele to tale oifano mEtine. [Omaetepo oilonga 101](/activities/ideas/) no [oilonga yomeumbo](/activities/household-tasks/) otai dulu okuwanifa po omafimbo oo.
 
-## When the day goes sideways
+## Ngeenge efiku inali enda ngaashi sha li sha longekidwa
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Omafiku amwe itaa ka landula nande elandulafano. Oudu, oufiku wa nyika oshiponga, etalelepo landokotola ile elunduluko longhalo yomhepo otai dulu okulundulula oinima aishe. Efa elandulafano, kaleka oinima ya fimanenena (okulya, okunwa, okufuda, eudeko) ndele to kendabala vali mongula. Ngeenge omunhu okwa anya sha, tala [eshi ta ti ahawe](/caregiving/when-they-say-no/). Okufuda moule pamwe naye oule wokafimbo kanini, ngaashi [okufuda nombili](/games/calm-breathing/), otashi dulu okukwafa amushe mu kale nawa vali.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Elandulafano loye nalo ola fimana. Tula mo omafudepo oye mwene, ndele to pula oilyo youkwaneumbo ile omayakulo okufuda opo u pewe efimbo lokufuda pandjikilile. Tala [okulifila oshisho kwaavo hava file oshisho](/caregiving/caregiver-self-care/).

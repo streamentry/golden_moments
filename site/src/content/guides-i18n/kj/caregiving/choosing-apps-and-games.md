@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Nghee u na okuhoolola omaapp oudu woludimbulukifo"
+seoTitle: "Okuhoolola omaapp oudu woludimbulukifo: Omusholondodo"
+description: "Omusholondodo wovafile kutya nghee u na okuhoolola omaapp nomaudano oudu woludimbulukifo: tameka nelalakano loye, henuka oitwa yoludimbo noipangelwa, tala oufemba woiholekwa, nokulesha omautumbulilo oumbangi noukeka."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Tameka naasho wa hala oapp i longe: etwomukumo leenghono, okudimbuluka,
+  ombili ile ekwatafano. Opo nee hoolola oapp tai wapalele eenghono domunhu
+  paife, i na omafano manene, ihe na oitima yoludimbo, omuvalu, oipangelwa ile
+  ee-ad, nokukala i na onghedi ipu yokuxulifa po. Tala kutya oiholekwa ilipi
+  tai ongelwa nongeenge oto dulu oku i dima po. Kala noukeka komautumbulilo
+  taa ti oapp otai kelele ile tai velula oudu woludimbulukifo; ekonakono limwe
+  alike kali fi oumbangi.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Tokola tete elalakano: etwomukumo, okudimbuluka, ombili ile ekwatafano oya pumbwa omaapp a yooloka."
+  - "Wapalele eenghono domunhu mefiku olo, ha etiketii loshitopolwa shoudu, nokukaleka oilongifo i li pu."
+  - "Henuka omaapp e na oitima yoludimbo, omuvalu, eemwenyo, omilandu dokutwikila, ee-ad ile omalombwelo okutenga."
+  - "Tala konghumbaketo yoiholekwa, okutukulilwa kwayo nokudimwa po kwayo. HIPAA luhapu ihai amene omaapp ovakwashiwana."
+  - "Kala nomalimbililo komautumbulilo taa ti \"otai kelele oudu woludimbulukifo\". Ekonakono limwe, ile omuvalu muwa moapp, kau fi oumbangi."
+  - "Golden Moments oi li oshilonga shokuhafifa. Kai na omautumbulilo ouhaku."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Omaudano opamadiladilo otaa dulu oku kelela oudu woludimbulukifo?"
+    a: "Kapu na oumbangi wa wana oo tau ulike kutya omaapp omalandifilo omaudano opamadiladilo otaa kelele ile taa shonopeke oudu woludimbulukifo. National Institute on Aging oya ti kapu na oumbangi wa wana kutya omaapp omalandifilo okudeula omadiladilo oku na oshizemo sha fa shoudeulo wa longekidwa oo wa yelekwa mekonakono linene lopanhu. Hoolola omaapp omolwehafifo nekwatafano, ndele ha ngoo omiti."
+  - q: "Oapp youdu woludimbulukifo oya amenwa kuHIPAA?"
+    a: "Luhapu ahawe. HIPAA luhapu ohai longo kovayandji vouhaku, omalongekido ouhaku novalongi pamwe navo. Oapp oyo to kufa ove mwene luhapu inai amenwa, okuninga ashike ngeenge oya yandjwa kumwe womuvo. FTC's Health Breach Notification Rule ohai amene omaapp mahapu oukolele oo HIPAA ihai amene."
+  - q: "Oudano muwa woudu woludimbulukifo ou na okukala wa tya ngahelipi?"
+    a: "Omafano nomishangwa minene, da yela, oshinima shimwe sha yela okutula mefano keshe, kape na oshitimha yoludimbo ile omuvalu, kape na omalaka omolwepuko, kape na ee-ad, nonghedi ipu yokutulumukwa ile yokuxulifa po. Ou na okumonika wa ningilwa ovakulunhu nokukala upu komunhu omutivali a kufe ombinga."
+  - q: "Mbela Golden Moments otai ti otai kwafele okudimbuluka?"
+    a: "Ahawe. Golden Moments ohai yandje oilonga ilulawe yokulongelwa pamwe omolwehafifo neenghundafana. Kai na okuxela oudu, oku u velula, oku u kelela ile oku u yeleka, no inatu ninga nande omautumbulilo kombinga yokudimbuluka ile okudiladila."
+  - q: "Nandi fute oapp youdu woludimbulukifo?"
+    a: "Kendabala tete oinima ya fangwa ile omayeleko a fangwa, ndele to tala nghee omunhu ta nyamukula moule weevike mbali. Okufuta oapp itashi i ningi i longe nawa. Tala nghee to dulu oku i xulifa po ofimbo ino lishangifa."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Oitola yoapp oi yadi omaudano a shangwa ovakulunhu, okudimbuluka ile oudu woludimbulukifo. Amwe okwa ningwa noukeka. Amwe otaa wedwa omautumbulilo taa monika a fa ouhaku, oitima yoludimbo tai ningi okudana kwa fa ekonakono, ile ee-ad nonghumbaketo yoiholekwa. Epandja eli otali ku pe onghedi yokutala oapp keshe ove mwene. Ihatu tula melandulafano ile tu yeleke oinima yavamwe.
 
-## What should I decide before choosing a dementia app?
+## Oshike ndi na okutokola ofimbo inandi hoolola oapp youdu woludimbulukifo?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Tokola kutya owa hala oapp i longe shike. "Oudano waMeme" otau dulu okutya oinima ya yooloka, nohoololo iwa yelalakano limwe luhapu kai li nawa yelalakano likwao.
 
-| Goal | What it looks like | What to look for |
+| Elalakano | Osha tya ngahelipi | Osho u na okutala |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Etwomukumo leenghono | Okufaafana, okutula melandulafano, omaudano mayele, omaudano eendjovo | Oudjuu tau dulu okulundululwa, omafano taa kala a monika, kape na efininiko loludimbo |
+| Okudimbuluka | Omafano onale, omautumbulilo a ikililwa, omusika yefimbo lavo lounyasha | Omafano oye mwene, omapulo a manguluka, kape na omapulo ekonakono |
+| Ombili | Omamoniko tae ende kanini, omalaka a ngungumana, okufuda, omudingonoko | Ipu okutameka nokuxulifa, kape na sha tashi vilima, kape na oikumwifa |
+| Ekwatafano | Okudana ile okupopya pamwe, moipafi ile okupitila movidiyo | Ya ningilwa ovanhu vavali, omapulo okukwafela eenghundafana |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Omapekapeko kombinga "yetwomukumo lopamadiladilo" la longekidwa kovantu tava kala noudu woludimbulukifo luhapu okwa kwatela mo omaliongalo ovakwashigwana taa wilikwa kovanailonga va deulwa, neenghundafana, omaudano eendjovo, omaudano mayele, omusika noilonga yokutunga. [Ekonakono laCochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ola mona ouwa munini pefimbo limwe, tau yooloka pokati komapekapeko. Oludi olo lomhito yopanghalafano noyoinima ya yooloka kali fi oshinima shelifa noapp yokulongifa omunhu oye aeke, onghee tala koapp keshe i li oshilonga shimwe sha longelwa pamwe mokati koinima ihapu.
 
-## How do I know if an app fits the person's abilities?
+## Ohandi shiiva ngahelipi ngeenge oapp otai wapalele eenghono domunhu?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Tala nghee ta nyamukula, ndele ha okutala kexelifo loudu ile etiketii loshitopolwa shoudu. Ovanhu vavali "moshitopolwa shelifa" otava dulu okukala va yooloka unene momesho, momatwi, meenghono domake, melaka nomukalo wokukala va manguluka noikwaelektronika. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) otai yandje ediladilo okukaleka momadiladilo oinima oyo a li e hole nale neenghono dopaife nokuyandja elitulemo kehafifo, ndele ha komupondo.
 
-Signs of a good fit:
+Omadidiliko kutya otai wapalele:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ota tameke ile ta kufa ombinga nopehe na okupukululwa kuhapu;
+- ota yolo, ta tya sha ile ta hokolola ehokololo;
+- omapuko itae mu udifa nai unene;
+- okwa hafa okuxulifa po ngeenge efimbo la fika.
 
-Signs it is a poor fit:
+Omadidiliko kutya inai wapalela:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- ta ti lwoikando "itandi dulu" ile "eshi oshinima shongaho";
+- ta nyengwa okuuda kutya oku na okunyika peni;
+- a handuka, a fya ohoni ile ta undulile oshikwamitya kokule;
+- otai longo ashike ngeenge ove to ningi konyala keshe shimwe.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Okukala wa nyika oluhodi oshididiliko, ndele ha oshinima u na okufininika. Tala [osho u na okuninga ngeenge ta ti ahawe](/caregiving/when-they-say-no/). Komadiladilo taa kalele poitopolwa youdu kombada yoapp, tala oilonga yopefimbo [lopehovelo](/activities/early-stage/) no [lopokomesho](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Oilongifo ilipi yomondjila ndi na okutala ile okuhenuka?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Konga omudidimbe, oupu nomudidimbe wovakulunhu, ndele to henuka keshe shimwe tashi eta efininiko.
 
-| Look for | Be wary of |
+| Konga | Kala wa lungama |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Omafano nomishangwa minene, omudidimbe wa yela | Ouvaleko vanini, omapandja a yadi unene |
+| Oshilonga shimwe sha yela mefano keshe | Eembomba dihapu, omalungula, ile omalombwelo omalininipiko mahapu |
+| Kape na oshitimha yoludimbo, ile oshitimha to dulu okudima | Okuvalula okushuna pedu, oipewa yolweendo, "finda efimbo loye" |
+| Kape na omuvalu, ile omanyamukulo omapole | Oitungifo, eemwenyo, omilandu dokutwikila, omalandulafano, "eedula domadiladilo" |
+| Omapuko taa ungaungwa nao nombili | Omalaka, omisholondodo ditilyana, omatumwalaka "Osha puka" |
+| Omafano ovakulunhu omounyuni washili | Oitwa ya fa younona ile youkakombolilwa |
+| Ohai longo nopehe na intaneta, kape na okushanga ombapila okutameka | Osha pumbiwa okushanga, okuya mo ile okukufa oinima tete |
+| Okutulumukwa nokuxulifa po okupu | Omambapila taa pula okutwikila ile okuyandja ondodo koapp |
+| Kape na ee-ad, ondado ya yela yefimbo limwe ile yoshikando keshe | Ee-ad, oinima yokulanda mo, omalombwelo okulanda lwoikando |
+| Ipu komunhu omutivali a kufe ombinga | Omudanauki umwe aeke, omudidimbe wetwokumwe |
 
-Ads and purchase prompts are easy to tap by accident.
+Ee-ad nomalombwelo okulanda oipu okunyikwa po epuko.
 
-## How do I check an app's privacy?
+## Ohandi tale ngahelipi oufemba woiholekwa woapp?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Tala kutya oapp otai ongele shike, otai shi tukulile nalyelye, nongeenge oto dulu oku shi dima po. Ofimbo ino i kufa:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Lesha omupopyo woiholekwa woshitola.** [Oshitukulwa shoData safety shaGoogle Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) noshitukulwa shoiholekwa sho [App Store](https://support.apple.com/en-us/102399) ohai ulike omaludi oiholekwa oo oapp tai dulu okuongela nokutukulila. Eenghundana adishe mbali oda ti ovanyoli ovo hava yandje ouyelele ou vene, onghee osho oshihovelo, ndele ha ekonakono la wana.
+2. **Pula ngeenge oya pumbwa okushanga ombapila.** Ngeenge oapp otai ulike ashike omafano ile omaudano mayele, otashi dulika kape na etomheno lokushiiva edina loye, omukanda wo-email ile efiku ledalwa loye.
+3. **Tala epitikilo.** Mbela oudano wokufaafana owa pumbwa shili onhele, eengodi dovanhu, omakwatampako ile omatungo aeshe omafano oye? Dima keshe shimwe inashi pumbiwa.
+4. **Konga ee-ad nomakonakono omalongifo.** Oilongifo yoipangelwa noyokulandula otai dulu okutuma ouyelele kombinga yelongifo loapp keenghundana dikwao.
+5. **Shiiva kutya omafano otaa i peni.** Ngeenge to wedamo omafano oukwaneumbo, otaa kala moshikwamitya ile otaa tulwa moservela? Oto dulu oku a kufa mo?
+6. **Tala okudimwa po.** Konga momukanda woiholekwa ile momupopyo woiholekwa nghee to dulu okudima po oiholekwa nombapila. Oapp tai ti oiholekwa itai dulu okudimwa po oya pumbwa elungamo la wedwa po, unene ngeenge oi na omafano ile ouyelele wouhaku.
+7. **Lesha omukanda woiholekwa** u mone omanyamukulo a yela kutya oshike tashi ongelwa, omolwashike, oule wefimbo li fike peni, notashi tukulilwa nalyelye.
 
-### Does HIPAA protect information in dementia apps?
+### Mbela HIPAA ohai amene ouyelele womoapp youdu woludimbulukifo?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Luhapu ahawe, naasho ohashi kumwifa ovanhu vahapu. U.S. Department of Health and Human Services [otai yelifa](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) kutya HIPAA ohai longo komalongekido ouhaku, kovayandji vouhaku vahapu, komahangano taa longekida ouyelele wouhaku nokovalongi pamwe navo. Moiholekwa ihapu kai amene ouyelele oo to tula moapp omolwelongifo loye mwene, okuninga ashike ngeenge oapp oya yandjwa konghundana ya amenwa ile komulongi pamwe nayo. "Oapp youdu woludimbulukifo" oyo ya dja moshitola shoapp luhapu oi li pondje yaHIPAA, nonande otai popi kombinga youkolele.
 
-### What protects health data in apps that HIPAA does not cover?
+### Oshike tashi amene ouyelele wouhaku mOapp oo HIPAA ihai amene?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Omulandu waFTC woHealth Breach Notification Rule ohau amene mahapu omuvo. Mo 2024 FTC [oya pwa okuningulula](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) nokuyelifa kutya omulandu ou ohau longo komaapp oukolele nokoukwamitya wa faafana oo inau amenwa kuHIPAA. "Okuteywa" okwa kwatela mo okutukulilwa kwaa na epitikilo, ndele ha ashike okuvakwa, neenghundana odi na okulondwela ovanhu va kumwa naFTC. Osho oshiyambidido konima ngeenge sha ningwa sha puka, ndele ha eudaneko kutya oapp otai ongele ashike osho ya pumbwa.
 
-## How should I read claims about research and evidence?
+## Nandi leshe ngahelipi omautumbulilo kombinga yomapekapeko noumbangi?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Lesha omautumbulilo oumbangi kanini kanini, nokukala nomalimbililo mahapu komaudaneko manenenene. Omapulo okulikonga:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Oshike sha li sha konakonwa lela?** Ekonakono lohango imwe yoku deula itali ulike kutya oudano keshe moapp otau longo monghedi ya faafana.
+- **Oolyelye va li va konakonwa?** Oidjemo movakulunhu ovakolele otai dulu iha longe komunhu ta kala noudu woludimbulukifo.
+- **Oshike sha li sha yelekwa?** Okuxwepopala moudano vene oku yooloka komalunduluko monghalamwenyo yakeshe efiku, meenghundafana, momaliudo ile mekulimangela.
+- **Ekonakono ola kola shi fike peni?** Ekonakono lopaunongononi la unganekwa nawa (RCT) ohali yeleke ongudu tai longifa oapp nongudu ihai i longifa. Oyo omudidimbe muwa, ndele ekonakono limwe aluke linini ile lixupi kali fi oumbangi. Konga omapekapeko mahapu, a ningwa kovakonakoni va manguluka, oo taa tu kumwe.
+- **Mbela otali ti otali lundulula oudu?** Ekonakono tali ulike omalunduluko manini mekonakono itali ulike oumbangi kutya oapp otai shonopeke, tai kelele ile tai velula oudu woludimbulukifo.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Epandja laNational Institute on Aging kombinga [youkolele wopamadiladilo wovakulunhu](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) otali hokolola ekonakono linene la yambididwa kuNIH lodeulo lopamadiladilo la longekidwa, ndele tali londwele ovaleshi va lungame komautumbulilo kutya omaudano amwe okombiyuta nokeintaneta otaa dulu okuxwepopaleka okudimbuluka nokudiladila. Otali ti natango kapu na oumbangi wa wana kutya omaapp omalandifilo okudeula omadiladilo oku na oshizemo shelifa nodeulo olo la yelekwa mekonakono olo. Oto dulu okulesha shihapu moshikundafanwa shetu kombinga [yomaudano opamadiladilo noumbangi](/brain-health/brain-games/) naasho [omapekapeko taa ti kombinga yokukelela oudu woludimbulukifo](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Oshihopaenenwa shashike shopashiwana sheutumbulilo la puka?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+MuJanuali 2016, FTC [oya shiivifa eumbo](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) novaningi vaLumosity, ehango "lokudeula omadiladilo". FTC oya ti ehangano ola ninga omautumbulilo, nopehe na oumbangi wa wana, kutya omaudano alo otaa dulu okufelelifa okushuna pedu kwopamadiladilo kwa etifwa kokukula nokwaamena komanyengano opamadiladilo a ngungumana, koudu woludimbulukifo nokoudu waAlzheimer. Ehangano ola dimina okufuta eedola eemiliyona mbali noli na okukala noumbangi wopaunongononi wa kola nowa lineekelwa ofimbo inali ninga omautumbulilo a tya ngaho monakwiiwa. Oshiningwanima eshi oshidimbulukifo shiwa kutya elaka loipangelwa kali fi oumbangi.
 
-### Which words are red flags?
+### Eendjovo dilipi di li omalididiliko opungo?
 
-Be cautious when an app or ad says it:
+Kala noukeka ngeenge oapp ile oipangelwa otai ti otai:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- "kelele", "alulile", "kangheke" ile "velula" oudu woludimbulukifo ile oudu waAlzheimer;
+- "ya kolekwa kopauhaku" nopehe na okushivifa ekonakono, oolyelye va li mo, nosho sha li sha yelekwa;
+- yandje "eedula domadiladilo" ile omuvalu wokudimbuluka tau ulike exelifo loudu;
+- "twake", "yambapaleke" ile "deule" omadiladilo;
+- longife oumbangi wovantu ngaashi oumbangi.
 
-If you are unsure about a claim, ask the person's doctor.
+Ngeenge ku na oushili kombinga yeutumbulilo, pula ndohotola yomunhu oo.
 
-## Where does Golden Moments fit?
+## Golden Moments oi li peni?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ohai yandje oilonga ilulawe yokulongelwa pamwe, ndele ha ekonakono lokudimbuluka, epango ile omayele ouhaku. Omaudano etu, ngaashi [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) na [Calm Breathing](/games/calm-breathing/), okwa ningilwa ehafifo neenghundafana. Kaa na okuxela oudu, oku u velula, oku u kelela ile oku u yeleka, no inatu ninga nande omautumbulilo kombinga yokudimbuluka ile okudiladila.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Ohatu ningi yo oapp ya fangwa, [Golden Moments yo-iPhone, iPad naAndroid](/app/). Oi na okufaafana omafano ombili nouvaleko vanene, omaudano nomafano oukwaneumbo oo wa hoolola nomapakete omafano taa longo nopehe na intaneta, nopehe na okushanga ombapila, ee-ad, oshitimha yoludimbo ile omuvalu. Omusholondodo welifa oo tau longo: etiketii loiholekwa loApp Store otali ti "Kapu na oiholekwa ya ongelwa", nomukanda [woiholekwa woapp](/app-privacy/) otau yelifa kutya eekopi domafano oda tuvikilwa peni.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Otwa hala u tu tale, ndele ha oku tu lineekela. Longifa omusholondodo wepandja eli, lesha [epandja letu loiholekwa](/privacy/) nomukanda wetu [womayele ouhaku](/medical-disclaimer/), ndele to xulifa po okulongifa keshe shimwe, mwa kwatelwa shetu, osho inashi wapalela omunhu oo to file oshisho.
 
-## What is a sensible way to try a new app?
+## Onghedi ilipi i li nawa yokuyeleka oapp ipe?
 
-Try it together for a couple of weeks and watch what happens.
+I yeleka pamwe moule weevike mbali ndele to tala osho tashi ningwa po.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **I longekida tete** to longifa [oshikundafanwa shetu shokulongekida otableti nongodi](/caregiving/tablets-and-screens/), ndele to tameke kondodo ipu unene.
+2. **Kaleka omalukalwa maxupi,** didilika omayolo, eenghundafana nombili, ndele to xulifa pefimbo liwa.
+3. **I efa ngeenge otai eta ehandu,** nonande oi na ondodo iwa shi fike peni.
