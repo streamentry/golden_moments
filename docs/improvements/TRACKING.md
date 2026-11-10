@@ -240,3 +240,13 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | `pnpm --dir site verify`: 1,865 tests, 12,493 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
 | Render inspection | The built `/caregiving/traveling-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
 | Not verified | No caregiver, participant, travel professional, clinician, native-speaker or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim suitability or user validation. |
+
+## Round 55: support for someone living alone with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association says many people with Alzheimer's live alone, particularly earlier on, with adjustments and support. It lists help with meals, household tasks, transportation and medication reminders, and regular contact with others. | A practical guide can focus on routines and support chosen with the person. This is not a decision tool for whether someone may live alone. |
+| Existing coverage and gap | Round 52 added room-by-room home-safety advice, but the site had no guide on daily routines, agreed check-ins, help with recurring tasks or adding support gradually for someone living alone. | Added the site's 51st English guide. It centers the person's priorities and avoids a fixed cutoff, stage score or monitoring requirement. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,494 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Render inspection | The built `/caregiving/living-alone-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No caregiver, participant, clinician, native-speaker or device review. The browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim a safety or suitability assessment. |
