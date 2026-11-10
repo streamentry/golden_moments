@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "ល្បែងខួរក្បាលការពារជំងឺវង្វេងបានទេ? អ្វីដែលភស្តុតាងបង្ហាញ"
+seoTitle: "ល្បែងខួរក្បាលការពារជំងឺវង្វេងបានទេ? ភស្តុតាង"
+description: "អ្វីដែលការស្រាវជ្រាវនិយាយអំពីល្បែងខួរក្បាលនិងជំងឺវង្វេង៖ ការរំញោចការគិត ការហ្វឹកហាត់ខួរក្បាលតាមកុំព្យូទ័រ ការសិក្សា ACTIVE និងករណី FTC Lumosity។"
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  មិនមានល្បែងខួរក្បាលណាមួយដែលត្រូវបានបង្ហាញថាអាចការពារជំងឺវង្វេងបានទេ។
+  ការហ្វឹកហាត់ខួរក្បាលតាមកុំព្យូទ័រភាគច្រើនធ្វើឲ្យមនុស្សធ្វើបានល្អជាងមុន
+  តែនៅក្នុងកិច្ចការដែលពួកគេបានហាត់ប៉ុណ្ណោះ។ ការវិភាគមួយពីការសិក្សា ACTIVE បានភ្ជាប់
+  ការហ្វឹកហាត់ល្បឿនជាក់លាក់មួយរួមជាមួយវគ្គបន្ថែម ជាមួយនឹងចំនួនការធ្វើរោគវិនិច្ឆ័យជំងឺវង្វេងតិចជាង
+  ក្នុងរយៈពេល 20 ឆ្នាំ ដែលជាការរកឃើញតូចចង្អៀតមួយ។ ចំពោះអ្នកដែលកំពុងរស់នៅជាមួយជំងឺវង្វេងរួចហើយ
+  ការរំញោចការគិតជាក្រុមបង្ហាញពីអត្ថប្រយោជន៍តូចៗ និងរយៈពេលខ្លី។
+  ល្បែងល្អបំផុតគឺសម្រាប់ភាពរីករាយ និងការរួមគ្នា។
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "ការសិក្សាអំពីការហ្វឹកហាត់ខួរក្បាលបង្ហាញថា មនុស្សធ្វើបានល្អជាងមុននៅក្នុងកិច្ចការដែលពួកគេហាត់ ប៉ុន្តែមានភស្តុតាងតិចតួចដែលបង្ហាញថាវាជួយដល់ជីវិតប្រចាំថ្ងៃ។"
+  - "ក្នុងការសិក្សា ACTIVE មានតែអ្នកដែលបានចូលរួមការហ្វឹកហាត់ល្បឿនជាក់លាក់មួយរួមជាមួយវគ្គបន្ថែមប៉ុណ្ណោះ ដែលមានការធ្វើរោគវិនិច្ឆ័យជំងឺវង្វេងតិចជាងក្នុងរយៈពេល 20 ឆ្នាំ។ ការហ្វឹកហាត់ល្បឿនដោយគ្មានវគ្គបន្ថែម ការហ្វឹកហាត់អង្គចងចាំ និងការវែកញែក មិនបង្ហាញលទ្ធផលនេះទេ។"
+  - "ក្នុងឆ្នាំ 2016 ក្រុមហ៊ុនផលិត Lumosity បានបង់ប្រាក់ 2 លានដុល្លារ ដើម្បីបញ្ចប់បណ្តឹងពី FTC ដែលចោទថាក្រុមហ៊ុនខ្វះភស្តុតាងវិទ្យាសាស្ត្រសម្រាប់ការអះអាងអំពីការពន្យារពេលជំងឺវង្វេង។"
+  - "ចំពោះអ្នកដែលមានជំងឺវង្វេងកម្រិតស្រាលទៅមធ្យម ក្រុមរំញោចការគិតបង្ហាញពីអត្ថប្រយោជន៍តូចៗ និងរយៈពេលខ្លីសម្រាប់ការគិត និងអត្ថប្រយោជន៍ច្បាស់ជាងសម្រាប់ការប្រាស្រ័យទាក់ទង និងអន្តរកម្មសង្គម។"
+  - "ល្បែងក្នុង Golden Moments គឺសម្រាប់ភាពរីករាយ និងពេលវេលារួមគ្នា។ វាមិនមែនជាការព្យាបាល ហើយក៏មិនការពារ ឬពន្យឺតជំងឺវង្វេងដែរ។"
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "តើល្បែងខួរក្បាលការពារជំងឺវង្វេង Alzheimer's បានទេ?"
+    a: "មិនមានល្បែងខួរក្បាលណាមួយដែលត្រូវបានបង្ហាញថាអាចការពារ Alzheimer's ឬជំងឺវង្វេងផ្សេងទៀតបានទេ។ National Institute on Aging បញ្ជាក់ថា មិនមានភស្តុតាងគ្រប់គ្រាន់ដែលបង្ហាញថាកម្មវិធីហ្វឹកហាត់ខួរក្បាលពាណិជ្ជកម្មមានផលដូចការហ្វឹកហាត់ដែលបានធ្វើតេស្តក្នុងការសិក្សាស្រាវជ្រាវទេ។ ប៉ុន្តែល្បែងនៅតែអាចជាវិធីរីករាយមួយក្នុងការចំណាយពេល។"
+  - q: "តើការសិក្សា ACTIVE បានរកឃើញអ្វីខ្លះអំពីការហ្វឹកហាត់ល្បឿន និងជំងឺវង្វេង?"
+    a: "ការវិភាគមួយក្នុងឆ្នាំ 2026 បានភ្ជាប់អ្នកចូលរួមក្នុង ACTIVE ជាមួយកំណត់ត្រា Medicare រយៈពេល 20 ឆ្នាំ។ អ្នកដែលបានចូលរួមការហ្វឹកហាត់ល្បឿនក្នុងការដំណើរការនិងមានវគ្គបន្ថែមយ៉ាងហោចណាស់មួយ មានអត្រាការធ្វើរោគវិនិច្ឆ័យជំងឺវង្វេងទាបជាងក្រុមដែលមិនបានហ្វឹកហាត់។ ការហ្វឹកហាត់ល្បឿនដោយគ្មានវគ្គបន្ថែម និងការហ្វឹកហាត់អង្គចងចាំ ឬការវែកញែក មិនបង្ហាញផលប៉ះពាល់គួរឲ្យកត់សម្គាល់ទេ។"
+  - q: "តើល្បែង និងល្បែងផ្គុំរូបល្អសម្រាប់អ្នកដែលមានជំងឺវង្វេងរួចហើយដែរឬទេ?"
+    a: "អាចល្អបាន ប្រសិនបើអ្នកនោះចូលចិត្ត។ ការរំញោចការគិតជាក្រុម ដែលរួមមានល្បែងពាក្យ ល្បែងផ្គុំរូប តន្ត្រី និងការសន្ទនា បង្ហាញពីអត្ថប្រយោជន៍តូចៗ និងរយៈពេលខ្លីសម្រាប់ការគិត និងអត្ថប្រយោជន៍ច្បាស់ជាងសម្រាប់ការប្រាស្រ័យទាក់ទង និងអន្តរកម្មសង្គម។ គោលដៅដែលត្រឹមត្រូវគឺភាពរីករាយ មិនមែនលទ្ធផលតេស្តទេ។"
+  - q: "ហេតុអ្វីបានជា Lumosity ត្រូវ FTC ដាក់ពិន័យ?"
+    a: "ក្នុងឆ្នាំ 2016 Federal Trade Commission បានចោទថា Lumos Labs បានធ្វើការអះអាងអំពីល្បែងរបស់ខ្លួន រួមទាំងការពន្យារពេលការធ្លាក់ចុះដែលទាក់ទងនឹងអាយុ និងជំងឺវង្វេង ដោយគ្មានភស្តុតាងវិទ្យាសាស្ត្រគ្រប់គ្រាន់។ ក្រុមហ៊ុនបានយល់ព្រមបង់ប្រាក់ 2 លានដុល្លារ និងត្រូវមានភស្តុតាងវិទ្យាសាស្ត្រដែលអាចទុកចិត្តបាន មុននឹងធ្វើការអះអាងបែបនេះនាពេលអនាគត។"
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+ល្បែងខួរក្បាលមាននៅគ្រប់ទីកន្លែង ហើយភាគច្រើនសន្យាថានឹងរក្សាឲ្យចិត្តរបស់អ្នកនៅក្មេង។ ប្រសិនបើអ្នកថែទាំមនុស្សដែលមានជំងឺវង្វេង ឬបារម្ភអំពីអង្គចងចាំរបស់ខ្លួនឯង វាជារឿងធម្មតาที่អ្នកចង់ដឹងថា ការលេងល្បែងទាំងនេះអាចជួយបានដែរឬទេ។ នេះគឺជាអ្វីដែលការស្រាវជ្រាវបានបង្ហាញពិតប្រាកដ រួមទាំងផ្នែកដែលមានក្តីសង្ឃឹម និងផ្នែកដែលមិនមាន។
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+នេះគឺជាព័ត៌មានទូទៅ មិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ។ សូមមើល [ការបដិសេធផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/) របស់យើង។
 
-## Do brain games prevent dementia?
+## តើល្បែងខួរក្បាលការពារជំងឺវង្វេងបានទេ?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+មិនមានល្បែងខួរក្បាលណាមួយដែលត្រូវបានបង្ហាញថាអាចការពារជំងឺវង្វេងបានទេ។ National Institute on Aging (NIA) ណែនាំឲ្យប្រុងប្រយ័ត្នចំពោះការអះអាងថា ល្បែងលើកុំព្យូទ័រ និងល្បែងអនឡាញអាចធ្វើឲ្យអង្គចងចាំប្រសើរឡើង ហើយបញ្ជាក់ថា មិនមានភស្តុតាងគ្រប់គ្រាន់ដែលបង្ហាញថាកម្មវិធីហ្វឹកហាត់ខួរក្បាលពាណិជ្ជកម្មណាមួយមានផលដូចការហ្វឹកហាត់ដែលបានធ្វើតេស្តក្នុងការសិក្សាគ្លីនិកទេ ([NIA អំពីការការពារ Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))។
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+នេះមិនមានន័យថាល្បែងគ្មានប្រយោជន៍ទេ។ វាមានន័យថាតម្លៃរបស់វាស្ថិតនៅក្នុងភាពរីករាយ ការរួមគ្នា និងទម្លាប់ប្រចាំថ្ងៃ មិនមែនក្នុងការការពារនរណាម្នាក់ពីជំងឺវង្វេងទេ។
 
-## What is "near transfer", and why does it matter?
+## តើ «near transfer» គឺជាអ្វី ហើយហេតុអ្វីវាសំខាន់?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+នៅពេលអ្នកហាត់កិច្ចការមួយ អ្នកជាធម្មតាធ្វើបានល្អជាងមុននៅក្នុងកិច្ចការនោះ។ អ្នកស្រាវជ្រាវហៅរឿងនេះថាជាផលនៃការហ្វឹកហាត់។ សំណួរដែលពិបាកជាងគឺថា តើការរីកចម្រើននោះ **ផ្ទេរ** ទៅកាន់អ្វីផ្សេងទៀតដែរឬទេ៖ ទៅកាន់កិច្ចការដែលស្រដៀងគ្នា (near transfer) ឬទៅកាន់ជីវិតប្រចាំថ្ងៃ ដូចជាការចងចាំការណាត់ជួប ឬការគ្រប់គ្រងលុយ (far transfer)។
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+ការពិនិត្យឡើងវិញដ៏សំខាន់មួយក្នុងឆ្នាំ 2016 បានពិនិត្យមើលការសិក្សាដែលក្រុមហ៊ុនហ្វឹកហាត់ខួរក្បាលបានយកមកជាភស្តុតាងល្អបំផុតរបស់ពួកគេ។ វាបានរកឃើញភស្តុតាងច្រើនថា មនុស្សធ្វើបានល្អជាងមុននៅក្នុងកិច្ចការដែលបានហាត់ ភស្តុតាងតិចជាងថាពួកគេធ្វើបានល្អជាងមុននៅក្នុងកិច្ចការដែលទាក់ទងយ៉ាងជិតស្និទ្ធ និងភស្តុតាងតិចណាស់ដែលបង្ហាញថាការហ្វឹកហាត់ធ្វើឲ្យការគិតក្នុងជីវិតប្រចាំថ្ងៃប្រសើរឡើង។ ការសិក្សាជាច្រើនក៏មានបញ្ហានៃការរៀបចំ ដែលធ្វើឲ្យមិនអាចសន្និដ្ឋានបានច្បាស់លាស់ទេ ([Simons និងអ្នកសហការ, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983))។
 
-## What do reviews say about computer brain training?
+## តើការពិនិត្យឡើងវិញនិយាយអ្វីខ្លះអំពីការហ្វឹកហាត់ខួរក្បាលតាមកុំព្យូទ័រ?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+ការពិនិត្យឡើងវិញរបស់ Cochrane ដែលរួមបញ្ចូលការសិក្សាល្អបំផុតដែលមាន បានពិនិត្យមើលការហ្វឹកហាត់តាមកុំព្យូទ័រដែលមានរយៈពេលយ៉ាងហោចណាស់ 12 សប្តាហ៍៖
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **មនុស្សពេញវ័យដែលមានសុខភាពល្អអាយុ 65 ឆ្នាំឡើង៖** ការសិក្សា 8 ដែលមានអ្នកចូលរួម 1,183 នាក់។ ភស្តុតាងមានគុណភាពទាប ឬទាបណាស់។ អាចមានអត្ថប្រយោជន៍តិចតួចភ្លាមៗបន្ទាប់ពីការហ្វឹកហាត់ ប៉ុន្តែគ្មានភស្តុតាងច្បាស់ថាវាមានរយៈពេលយូរទេ ([ការពិនិត្យឡើងវិញរបស់ Cochrane, មនុស្សចាស់ដែលមានសុខភាពល្អ](https://pubmed.ncbi.nlm.nih.gov/32104914/))។
+- **អ្នកដែលមានបញ្ហាការគិតកម្រិតស្រាល៖** ការសិក្សា 8 ដែលមានអ្នកចូលរួម 660 នាក់។ គ្មានការសិក្សាណាមួយរាយការណ៍ថាតើមនុស្សទាំងនោះបានវិវត្តទៅជាជំងឺវង្វេងដែរឬទេ ហើយភស្តុតាងក៏ខ្សោយពេកមិនអាចសន្និដ្ឋានបានទេ ([ការពិនិត្យឡើងវិញរបស់ Cochrane, បញ្ហាការគិតកម្រិតស្រាល](https://pubmed.ncbi.nlm.nih.gov/30864747/))។
 
-## What did the ACTIVE trial find?
+## តើការសិក្សា ACTIVE បានរកឃើញអ្វីខ្លះ?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE គឺជាការសិក្សាធំមួយនៅសហរដ្ឋអាមេរិកដែលបានចាប់ផ្តើមនៅឆ្នាំ 1998 ជាមួយមនុស្សពេញវ័យ 2,802 នាក់អាយុ 65 ឆ្នាំឡើង ដែលរស់នៅដោយឯករាជ្យ និងមិនមានបញ្ហាធ្ងន់ធ្ងរនៃអង្គចងចាំ ឬការគិត។ អ្នកចូលរួមត្រូវបានចាត់តាំងដោយចៃដន្យទៅក្នុងក្រុមហ្វឹកហាត់តូចៗមួយក្នុងចំណោមបីប្រភេទ (ល្បឿនក្នុងការដំណើរការ អង្គចងចាំ ឬការវែកញែក) ឬទៅក្នុងក្រុមដែលមិនមានការហ្វឹកហាត់។ ការហ្វឹកហាត់មានរហូតដល់ 10 វគ្គក្នុងរយៈពេល 5 ទៅ 6 សប្តាហ៍។ អ្នកមួយចំនួនដែលបានបញ្ចប់វគ្គភាគច្រើនក៏ត្រូវបានផ្តល់ជូន **វគ្គបន្ថែម** ប្រហែលមួយឆ្នាំ និងបីឆ្នាំក្រោយមក។
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+ការហ្វឹកហាត់ល្បឿនពាក់ព័ន្ធនឹងការមើលឃើញ និងដំណើរការព័ត៌មានដែលមើលឃើញក្នុងរយៈពេលខ្លីៗជាងមុន ដោយកម្រិតត្រូវបានកែតាមការរីកចម្រើនរបស់មនុស្ស។
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+ក្នុងឆ្នាំ 2026 អ្នកស្រាវជ្រាវបានភ្ជាប់អ្នកចូលរួម 2,021 នាក់ទៅនឹងកំណត់ត្រា Medicare របស់ពួកគេអស់រយៈពេល 20 ឆ្នាំ ([ការវិភាគ ACTIVE រយៈពេល 20 ឆ្នាំ](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/))។ នេះគឺជាអ្វីដែលពួកគេបានរកឃើញ៖
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **ការហ្វឹកហាត់ល្បឿនរួមជាមួយវគ្គបន្ថែមយ៉ាងហោចណាស់មួយ៖** មានអត្រាការធ្វើរោគវិនិច្ឆ័យជំងឺវង្វេងទាបជាងក្រុមដែលមិនមានការហ្វឹកហាត់ (hazard ratio 0.75 ដែលមានន័យប្រហែលថាអត្រាទាបជាងប្រហែល 25%)។
+- **ការហ្វឹកហាត់ល្បឿនដោយគ្មានវគ្គបន្ថែម៖** គ្មានអត្រាទាបជាងទេ។
+- **ការហ្វឹកហាត់អង្គចងចាំ ឬការវែកញែក៖** គ្មានផលប៉ះពាល់គួរឲ្យកត់សម្គាល់លើការធ្វើរោគវិនិច្ឆ័យជំងឺវង្វេងទេ។
+- **ក្រុមហ្វឹកហាត់នីមួយៗទាំងមូល បើប្រៀបធៀបនឹងក្រុមដែលមិនមានការហ្វឹកហាត់៖** មានទំនោរទៅរកអត្រាទាបជាង ប៉ុន្តែមិនមានន័យសំខាន់ខាងស្ថិតិទេ។
 
-### The limits of this finding
+### ដែនកំណត់នៃការរកឃើញនេះ
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- វាអនុវត្តចំពោះ **ការហ្វឹកហាត់ល្បឿនជាក់លាក់មួយប្រភេទដែលមានការគ្រប់គ្រង និងមានវគ្គបន្ថែម** ប៉ុណ្ណោះ មិនមែនចំពោះល្បែងខួរក្បាលទូទៅទេ។
+- លទ្ធផលដែលមានន័យសំខាន់បានមកពី **ក្រុមរង** (អ្នកដែលបានបញ្ចប់វគ្គដំបូងភាគច្រើន និងត្រូវបានផ្តល់ជូនវគ្គបន្ថែម) មិនមែនពីក្រុមហ្វឹកហាត់ល្បឿនទាំងមូលទេ។
+- ជំងឺវង្វេងត្រូវបានវាស់ដោយប្រើ **លេខកូដរោគវិនិច្ឆ័យនៅក្នុងកំណត់ត្រា Medicare** មិនមែនដោយការពិនិត្យអ្នកចូលរួមម្នាក់ៗទេ។ អ្នកចូលរួមដើមប្រហែលមួយភាគបួនត្រូវបានដកចេញ ពីព្រោះពួកគេបានចុះឈ្មោះក្នុង Medicare Advantage ដែលមិនមានកំណត់ត្រាពេញលេញ។
+- អ្នកចូលរួមមិនមានបញ្ហាធ្ងន់ធ្ងរនៃការគិតនៅពេលចាប់ផ្តើមទេ។ លទ្ធផលនេះមិននិយាយអំពីល្បែងសម្រាប់ **អ្នកដែលកំពុងរស់នៅជាមួយជំងឺវង្វេងរួចហើយ** ទេ។
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+នេះជាលទ្ធផលគួរឲ្យចាប់អារម្មណ៍ដែលសមនឹងការស្រាវជ្រាវបន្ថែម។ វាមិនមែនជាភស្តុតាងថាកម្មវិធីណាមួយអាចការពារជំងឺវង្វេងបានទេ។
 
-## What did the FTC say about Lumosity?
+## តើ FTC បាននិយាយអ្វីខ្លះអំពី Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+នៅខែមករា ឆ្នាំ 2016 Lumos Labs ដែលជាក្រុមហ៊ុនផលិត Lumosity បានយល់ព្រមបង់ប្រាក់ 2 លានដុល្លារ ដើម្បីបញ្ចប់បណ្តឹងពី Federal Trade Commission អំពីការផ្សាយពាណិជ្ជកម្មបំភាន់។ FTC បានបញ្ជាក់ថា ក្រុមហ៊ុនបានអះអាងដោយគ្មានវិទ្យាសាស្ត្រគ្រប់គ្រាន់ថា ល្បែងរបស់ខ្លួនអាចធ្វើឲ្យការសម្តែងនៅកន្លែងធ្វើការ និងសាលារៀនប្រសើរឡើង ហើយអាចពន្យារពេលការធ្លាក់ចុះដែលទាក់ទងនឹងអាយុ បញ្ហាការគិតកម្រិតស្រាល ជំងឺវង្វេង និង Alzheimer's។ ការបញ្ជាឱ្យនេះតម្រូវឲ្យក្រុមហ៊ុនមានភស្តុតាងវិទ្យាសាស្ត្រដែលមានសមត្ថភាព និងអាចទុកចិត្តបាន មុននឹងធ្វើការអះអាងបែបនេះនាពេលអនាគត ([សេចក្តីប្រកាសព័ត៌មានរបស់ FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program))។
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+មេរៀនសម្រាប់គ្រួសារគឺ៖ គួរមានការសង្ស័យចំពោះល្បែង កម្មវិធី ឬកម្មវិធីណាមួយដែលសន្យាថានឹងការពារអង្គចងចាំ ឬការពារជំងឺវង្វេង។
 
-## Can games help someone who already has dementia?
+## តើល្បែងអាចជួយអ្នកដែលមានជំងឺវង្វេងរួចហើយបានដែរឬទេ?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+ល្បែងអាចបន្ថែមភាពរីករាយដល់មួយថ្ងៃ ដែលជារឿងសំខាន់ណាស់។ វិធីសាស្ត្រដែលត្រូវបានសិក្សាច្រើនបំផុតគឺ **ការរំញោចការគិត**៖ សកម្មភាពជាក្រុមដែលរីករាយ ដូចជាការពិភាក្សា ការរំលឹករឿងចាស់ៗ ល្បែងពាក្យ ល្បែងផ្គុំរូប និងតន្ត្រី ជាធម្មតាក្នុងក្រុមតូចមួយដែលមានអ្នកដឹកនាំ។
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+ការពិនិត្យឡើងវិញរបស់ Cochrane ក្នុងឆ្នាំ 2023 នៃការសិក្សា 37 ដែលមានអ្នកចូលរួម 2,766 នាក់ដែលមានជំងឺវង្វេងកម្រិតស្រាលទៅមធ្យម បានរកឃើញ ([ការពិនិត្យឡើងវិញរបស់ Cochrane អំពីការរំញោចការគិត](https://pubmed.ncbi.nlm.nih.gov/39804128/))៖
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **អត្ថប្រយោជន៍តូចៗ និងរយៈពេលខ្លី** លើការធ្វើតេស្តការគិត (ភស្តុតាងគុណភាពមធ្យម)។
+- **ការរីកចម្រើនដែលមានន័យសម្រាប់ការប្រាស្រ័យទាក់ទង និងអន្តរកម្មសង្គម** (ភស្តុតាងគុណភាពខ្ពស់ ពីចំនួនការសិក្សាតិចជាង)។
+- **អត្ថប្រយោជន៍តិចតួច** សម្រាប់គុណភាពជីវិត អារម្មណ៍ និងអាកប្បកិរិយា។
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+អត្ថប្រយោជន៍ភាគច្រើនត្រូវបានវាស់ភ្លាមៗបន្ទាប់ពីកម្មវិធីប្រហែល 10 សប្តាហ៍ ហើយមានការសិក្សាតិចណាស់ដែលពិនិត្យមើលថាតើវាមានរយៈពេលយូរដែរឬទេ។ ការរំញោចការគិតគឺជាកម្មវិធីក្រុមដែលមានរចនាសម្ព័ន្ធ ដូច្នេះលទ្ធផលទាំងនេះមិនអាចអនុវត្តដោយស្វ័យប្រវត្តិចំពោះមនុស្សម្នាក់ដែលលេងល្បែងតែម្នាក់ឯងលើថេប្លេតបានទេ។
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+គណៈកម្មការរបស់ Lancet ឆ្នាំ 2024 ក៏បានបញ្ជាក់ផងដែរថា កម្មវិធីសកម្មភាពមានសារៈសំខាន់សម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង ដើម្បីរក្សាភាពរីករាយ និងគោលបំណង ([គណៈកម្មការរបស់ Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0))។
 
-## What are games actually good for?
+## តើល្បែងមានប្រយោជន៍អ្វីខ្លះជាក់ស្តែង?
 
-When chosen well, games can offer:
+នៅពេលជ្រើសរើសបានល្អ ល្បែងអាចផ្តល់៖
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **ភាពរីករាយ។** ពេលវេលាល្អមួយឆមាសម៉ោងមានតម្លៃដោយខ្លួនឯង។
+- **ការតភ្ជាប់។** ការលេងជាមួយគ្នាផ្តល់ឲ្យអ្នកមានរឿងសាមញ្ញមួយដើម្បីចែករំលែក នៅពេលការសន្ទនាពិបាក។ សូមមើល [របៀបលេងជាមួយគ្នា](/caregiving/how-to-play-together/)។
+- **ទម្លាប់ប្រចាំថ្ងៃ។** សកម្មភាពដែលធ្លាប់ស្គាល់នៅម៉ោងដដែលៗជារៀងរាល់ថ្ងៃអាចនាំមកនូវភាពស្រួលអារម្មណ៍។
+- **ទំនុកចិត្ត។** សកម្មភាពដែលសមស្របនឹងអ្វីដែលអ្នកនោះនៅតែអាចធ្វើបានល្អ អាចធ្វើឲ្យពួកគេមានអារម្មណ៍ថាមានសមត្ថភាព មិនមែនដូចជាកំពុងត្រូវបានធ្វើតេស្តទេ។
+- **ការសន្ទនា។** រូបភាព ឬសម្ដីដែលធ្លាប់ស្គាល់អាចបើកផ្លូវទៅកាន់រឿងរ៉ាវមួយ។ សាកល្បង [កាតសន្ទនា](/games/conversation-cards/) ឬ [បំពេញសម្តី](/games/finish-the-saying/)។
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+អ្វីដែលគួរជៀសវាង៖ ការកំណត់ពេលវេលា ពិន្ទុ ចំនួនថ្ងៃជាប់គ្នា និងអ្វីៗដែលធ្វើឲ្យមានអារម្មណ៍ដូចជាការធ្វើតេស្តអង្គចងចាំ។ ប្រសិនបើអ្នកនោះចាប់ផ្តើមមានអារម្មណ៍មិនស្រួល សូមឈប់។ ការបញ្ចប់មុនពេល ឬគ្រាន់តែអង្គុយជាមួយគ្នា ក៏ជាលទ្ធផលល្អដែរ។ មគ្គុទ្ទេសក៍របស់យើងអំពី [ការជ្រើសរើសកម្មវិធី និងល្បែង](/caregiving/choosing-apps-and-games/) មានបញ្ជីពិនិត្យមួយ។
 
-## Where Golden Moments fits
+## តើ Golden Moments ស្ថិតនៅកន្លែងណា?
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+ល្បែងក្នុង Golden Moments ដូចជា [picture pairs](/games/picture-pairs/) [picture puzzle](/games/picture-puzzle/) និង [large-print word search](/games/word-search/) ត្រូវបានបង្កើតឡើងសម្រាប់ភាពរីករាយ និងពេលវេលារួមគ្នា។ វាមិនមាននាឡិកា និងមិនមានពិន្ទុទេ។ វា **មិនមែន** ជាការព្យាបាល ហើយក៏ **មិន** ការពារ ឬពន្យឺតជំងឺវង្វេងដែរ។ យើងចង់និយាយរឿងនេះឲ្យច្បាស់ ជាជាងសន្យាអ្វីដែលគ្មានល្បែងណាអាចផ្តល់បាន។
 
-## Talk with a doctor
+## ពិគ្រោះជាមួយវេជ្ជបណ្ឌិត
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+ប្រសិនបើអ្នកបារម្ភអំពីការផ្លាស់ប្តូរអង្គចងចាំរបស់ខ្លួនឯង ឬរបស់អ្នកដែលអ្នកថែទាំ សូមទៅជួបវេជ្ជបណ្ឌិត ជាជាងពឹងផ្អែកលើកម្មវិធីណាមួយ។ វេជ្ជបណ្ឌិតអាចស្វែងរកមូលហេតុដែលអាចព្យាបាលបាន និងពិភាក្សាអំពីជំហានដែលមានភស្តុតាងល្អបំផុត ដូចជាការគ្រប់គ្រងសម្ពាធឈាម និងការពិនិត្យការស្តាប់។ សូមមើល [តើជំងឺវង្វេងអាចការពារបានទេ?](/brain-health/can-dementia-be-prevented/) សម្រាប់ព័ត៌មានបន្ថែម។ ប្រសិនបើមានការភាន់ច្រឡំភ្លាមៗ ឬការផ្លាស់ប្តូរផ្សេងទៀតដែលកើតឡើងភ្លាមៗ សូមទទួលជំនួយវេជ្ជសាស្ត្របន្ទាន់។

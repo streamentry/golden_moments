@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "សកម្មភាពសម្រាប់ជំងឺភ្លេចភ្លាំងដំណាក់កាលមធ្យម"
+seoTitle: "សកម្មភាពសម្រាប់ជំងឺភ្លេចភ្លាំងដំណាក់កាលមធ្យម"
+description: "សកម្មភាពសាមញ្ញសម្រាប់ជំងឺភ្លេចភ្លាំងដំណាក់កាលមធ្យម៖ ការងារមានប្រយោជន៍ តន្ត្រី រូបថត និងល្បែងងាយៗ ជាមួយការណែនាំរៀបចំ និងវិធីប្តូរការមិនស្ងប់ទៅជាសកម្មភាព។"
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  នៅដំណាក់កាលមធ្យមនៃជំងឺភ្លេចភ្លាំង សកម្មភាពដែលល្អបំផុតគឺខ្លីៗ ធ្លាប់ស្គាល់
+  និងបែងចែកជាជំហានតែមួយៗ៖ បត់សម្លៀកបំពាក់ តម្រៀបស្រោមជើង លាងចាន ច្រៀងចម្រៀង
+  ដើរលេងដោយមានអ្នកណែនាំ មើលអាល់ប៊ុមរូបថត និងល្បែងរូបភាពសាមញ្ញៗ។
+  រៀបចំជាមុន បង្ហាញជំហានដំបូង ជួយធ្វើផ្នែកដែលពិបាក
+  និងធ្វើឱ្យសកម្មភាពមានគោលបំណង។ បញ្ឈប់នៅពេលដែលវាលែងផ្តល់អារម្មណ៍ល្អ។
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "ការងារផ្ទះដែលធ្លាប់ស្គាល់ជារឿយៗដំណើរការល្អបំផុត ព្រោះវាធ្វើឱ្យមានអារម្មណ៍ថាមានប្រយោជន៍ និងជាមនុស្សពេញវ័យ។"
+  - "បង្ហាញជាជាងពន្យល់ ផ្តល់ជូនម្តងមួយជំហាន និងផ្តល់ជម្រើសសាមញ្ញពីរជំនួសសំណួរបើកចំហ។"
+  - "ជួយធ្វើផ្នែកដែលពិបាកបំផុត ដើម្បីឱ្យបុគ្គលនោះអាចធ្វើផ្នែកដែលផ្តល់អារម្មណ៍ពេញចិត្ត។"
+  - "អាកប្បកិរិយាមិនស្ងប់ជារឿយៗអាចមានន័យថាបុគ្គលនោះត្រូវការអ្វីមួយធ្វើ។ សូមផ្តល់សកម្មភាពដែលសមស្របជំនួសការនិយាយថាកុំ។"
+  - "ការមើល ការជួយបន្តិចបន្តួច ឬការបញ្ឈប់មុនកំណត់ គឺល្អទាំងអស់។"
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "សកម្មភាពអ្វីខ្លះដែលសមស្របសម្រាប់ជំងឺភ្លេចភ្លាំងដំណាក់កាលមធ្យម?"
+    a: "សកម្មភាពខ្លីៗ ធ្លាប់ស្គាល់ និងប្រើដៃជារឿយៗដំណើរការល្អបំផុត៖ បត់កន្សែង តម្រៀបស្រោមជើងជាគូ លាងចាន រៀបចំតុ ច្រៀងតាមបទចម្រៀងដែលចូលចិត្តពីមុន ដើរលេងដោយមានអ្នកណែនាំ មើលអាល់ប៊ុមរូបថត និងល្បែងរូបភាពសាមញ្ញៗ។ បែងចែកសកម្មភាពនីមួយៗជាជំហានតែមួយៗ ហើយធ្វើរួមគ្នា។"
+  - q: "តើខ្ញុំអាចជួយឱ្យអ្នកដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំងចាប់ផ្តើមសកម្មភាពបានដូចម្តេច?"
+    a: "រៀបចំអ្វីៗគ្រប់យ៉ាងជាមុន រួចចាប់ផ្តើមសកម្មភាពដោយខ្លួនឯង ហើយអញ្ជើញគាត់ឱ្យជួយ៖ «តើអ្នកអាចជួយខ្ញុំបត់កន្សែងទាំងនេះបន្តិចបានទេ?» មនុស្សជាច្រើនចង់ចូលរួម ប៉ុន្តែពិបាកក្នុងការចាប់ផ្តើម។ ការបង្ហាញជំហានដំបូងជារឿយៗមានប្រសិទ្ធភាពជាងការពន្យល់។"
+  - q: "តើខ្ញុំគួរធ្វើដូចម្តេចនៅពេលគាត់ធ្វើអ្វីមួយដដែលៗ?"
+    a: "ការធ្វើដដែលៗជារឿយៗមិនបង្កគ្រោះថ្នាក់ ហើយអាចជាសញ្ញាថាបុគ្គលនោះចង់មានអារម្មណ៍រវល់ ឬត្រូវការការធានាចិត្ត។ ជំនួសការកែតម្រូវ សូមផ្តល់សកម្មភាពដែលសមនឹងចលនានោះ ដូចជាកន្ត្រកកន្សែងតូចៗសម្រាប់បត់ ឬច្រៀងបទចម្រៀងរួមគ្នា។"
+  - q: "ចុះបើគាត់ធ្វើសកម្មភាពមិនត្រឹមត្រូវវិញ?"
+    a: "បើវាមិនបង្កគ្រោះថ្នាក់ សូមទុកឱ្យដូច្នោះ។ កន្សែងបត់ខុសបន្តិច ឬស្លាបព្រាដាក់ខុសកន្លែងមិនសំខាន់ទេ។ ការកែតម្រូវអាចធ្វើឱ្យគាត់មានអារម្មណ៍ដូចជាត្រូវបានរិះគន់ ខណៈពេលដែលការអនុញ្ញាតឱ្យធ្វើតាមវិធីរបស់គាត់អាចជួយឱ្យគាត់មានអារម្មណ៍ថាមានសមត្ថភាព និងមានប្រយោជន៍។"
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+ដំណាក់កាលមធ្យមនៃជំងឺភ្លេចភ្លាំងជារឿយៗគឺជាដំណាក់កាលដែលវែងបំផុត ហើយនេះក៏ជាពេលដែលសកម្មភាពចាប់ផ្តើមត្រូវការជំនួយយ៉ាងពិតប្រាកដ។ ការនិយាយពាក្យមកកាន់តែពិបាក ជំហានផ្សេងៗច្រឡំគ្នា ហើយការចាប់ផ្តើមអ្វីមួយអាចមានអារម្មណ៍លំបាក។ ប៉ុន្តែបំណងចង់មានប្រយោជន៍ និងចូលរួមជារឿយៗនៅតែមាន។ ដោយមានការរៀបចំបន្តិចបន្តួច បុគ្គលដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំងដំណាក់កាលមធ្យមនៅតែអាចរីករាយនឹងអ្វីៗជាច្រើន ជាពិសេសការងារដែលធ្លាប់ស្គាល់ តន្ត្រី និងរូបភាព ដែលធ្វើរួមគ្នាជាមួយអ្នក។
 
-## What activities work well in middle-stage dementia?
+## សកម្មភាពអ្វីខ្លះដែលសមស្របក្នុងជំងឺភ្លេចភ្លាំងដំណាក់កាលមធ្យម?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+សកម្មភាពខ្លីៗ ធ្លាប់ស្គាល់ និងប្រើដៃ ដែលបែងចែកជាជំហានតែមួយៗ គឺដំណើរការល្អបំផុត។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) បញ្ជាក់ថាអ្នកមិនចាំបាច់គិតរកសកម្មភាពថ្មីៗនោះទេ៖ សកម្មភាពអាចជាផ្នែកនៃជីវិតប្រចាំថ្ងៃ ដូចជាចម្អិនអាហារជាមួយគ្នា ធ្វើសួន ស្តាប់តន្ត្រី ឬដើរលេង។
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ចង្អុលបង្ហាញថា មនុស្សនៅដំណាក់កាលនេះជារឿយៗមានបំណងចង់មានអារម្មណ៍ថាមានគោលបំណង ឬថែទាំអ្វីមួយ ហើយត្រូវការជំនួយក្នុងការចាប់ផ្តើម ឬបន្តសកម្មភាព។ បញ្ជីសកម្មភាពសម្រាប់ដំណាក់កាលមធ្យមរួមមាន ការបត់សម្លៀកបំពាក់ ការលាងចាន ការតម្រៀបស្រោមជើង លំហាត់ប្រាណស្រាលៗ ការរាំតាមតន្ត្រីដែលធ្លាប់ស្គាល់ ការដើរលេងដោយមានអ្នកណែនាំ ការច្រៀងរួមគ្នា ការគូរគំនូរសាមញ្ញ និងការមើលអាល់ប៊ុមរូបថត។
 
-## How do you set up an activity so it works?
+## តើធ្វើដូចម្តេចដើម្បីរៀបចំសកម្មភាពឱ្យដំណើរការល្អ?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+សកម្មភាពភាគច្រើនជោគជ័យ ឬមិនជោគជ័យអាស្រ័យលើការរៀបចំ។ ទម្លាប់ទាំងនេះ ដែលយកចេញពី [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) និង [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) អាចជួយបានច្រើនបំផុត៖
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **រៀបចំបរិវេណឱ្យស្អាត។** បិទទូរទស្សន៍ បិទទ្វារ និងដាក់ត្រឹមតែវត្ថុដែលសកម្មភាពត្រូវការ។
+2. **ចាប់ផ្តើមដោយខ្លួនឯង។** ចាប់ផ្តើមបត់ ឬកូរ រួចអញ្ជើញគាត់ឱ្យចូលរួម៖ «តើអ្នកអាចជួយខ្ញុំរឿងនេះបានទេ?»
+3. **បង្ហាញ រួចរង់ចាំ។** បង្ហាញមួយជំហាន។ ចង្អុល ឬណែនាំដោយដៃ ឧទាហរណ៍បង្ហាញថាគួរដាក់ចាននៅឯណា។
+4. **ផ្តល់ម្តងមួយជំហាន។** «បត់វាពាក់កណ្តាល» ងាយជាង «បត់ទាំងនេះ រួចដាក់ជាជង់តាមពណ៌»។
+5. **ផ្តល់ជម្រើសពីរ មិនមែនសំណួរបើកចំហ។** «កន្សែងពណ៌ខៀវ ឬកន្សែងពណ៌ស?» ងាយឆ្លើយជាង «អ្នកចង់ធ្វើអ្វី?»
+6. **ធ្វើផ្នែកពិបាកដោយខ្លួនឯង។** អ្នកវាស់ គាត់កូរ។ អ្នកដោតអំបោះ គាត់រុំអំបោះ។
+7. **ផ្តល់ហេតុផល។** «កន្សែងទាំងនេះសម្រាប់អាហារពេលល្ងាចថ្ងៃអាទិត្យ» ធ្វើឱ្យការងារនោះមានអារម្មណ៍ពិតប្រាកដ។
+8. **អនុញ្ញាតឱ្យគាត់គ្រាន់តែមើល ប្រសិនបើគាត់ចង់។** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ចង្អុលបង្ហាញថា ការគ្រាន់តែមើលក៏អាចផ្តល់ភាពរីករាយដែរ។
 
-## Activity ideas for the middle stage
+## គំនិតសកម្មភាពសម្រាប់ដំណាក់កាលមធ្យម
 
-### Useful jobs
+### ការងារមានប្រយោជន៍
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **បត់កន្សែង និងកន្សែងតូចៗ។** វត្ថុតូចៗ និងរាបស្មើគឺងាយបំផុត។ កន្ត្រកកន្សែងតូចៗក្តៅៗអាចបត់ អូសឱ្យរាបស្មើ និងបត់ម្តងទៀត។
+- **តម្រៀបស្រោមជើងជាគូ។** ចាប់ផ្តើមជាមួយគូពីរបីដែលខុសគ្នាច្បាស់។ ការតម្រៀបតាមពណ៌តែមួយមុខក៏ល្អដែរ។
+- **លាង ឬសម្ងួតចានដែលមិនបែកងាយ។** ទឹកសាប៊ูก្តៅៗមានអារម្មណ៍ល្អនៅលើដៃ។ ការសម្ងួតពេលអង្គុយងាយស្រួលជាងសម្រាប់ជើង។
+- **រៀបចំតុ។** ប្រគល់វត្ថុម្តងមួយប្រភេទ ហើយរៀបចំកន្លែងមួយដោយខ្លួនឯងជាគំរូ។
+- **ជួយចម្អិនអាហារ។** លាងដំឡូង ហែកស្លឹកសាឡាត់ ឬកូរចាន។ អ្នកដោះស្រាយកាំបិត និងកម្ដៅ។
+- **បោសសំរាម សម្អាតធូលី ឬជូត។** កន្សែងសម្រាប់ជូតតុ ឬជក់ស្រាលសម្រាប់រានហាល។
 
-See [household tasks](/activities/household-tasks/) for many more.
+សូមមើល [ការងារផ្ទះ](/activities/household-tasks/) សម្រាប់គំនិតបន្ថែម។
 
-### Music and movement
+### តន្ត្រី និងចលនា
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **ច្រៀងបទចម្រៀងដែលចូលចិត្តពីមុន។** ចាប់ផ្តើមច្រៀងដោយខ្លួនឯងជាមុន មនុស្សជាច្រើនចូលរួមច្រៀងបទដែលគាត់បានស្គាល់អស់ជាច្រើនទសវត្សរ៍។ សូមមើល [សកម្មភាពតន្ត្រី](/activities/music/)។
+- **រាំដោយសេរី។** យោល ទះដៃ ឬធ្វើចលនាតាមដែលមានអារម្មណ៍ល្អ។ អង្គុយក៏បានដែរ។
+- **បោះបាល់ខ្យល់។** វាផ្លាស់ទីយឺត និងងាយចាប់បានពីកៅអី។
+- **ដើរលេងដោយមានអ្នកណែនាំ។** ដើរជាមួយគ្នាតាមផ្លូវខ្លីៗដែលធ្លាប់ស្គាល់ ដៃចាប់ដៃប្រសិនបើវាជួយបាន។
 
-### Pictures and stories
+### រូបភាព និងរឿងរ៉ាវ
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **មើលអាល់ប៊ុមរូបថត។** បញ្ចេញមតិអំពីអ្វីដែលអ្នកឃើញជំនួសការសួរសំណួរ៖ «មើលឡាននោះ។ ប្រាប់ខ្ញុំអំពីវាបន្តិច។» សូមមើល [សកម្មភាពរំលឹកអតីតកាល](/activities/reminiscence/)។
+- **ប្រើកាតសន្ទនា។** [កាតសន្ទនា](/games/conversation-cards/) ផ្គូផ្គងរូបភាពជាមួយសំណួរបើកចំហដែលមិនមានការសាកល្បង។
+- **មើលភាពយន្តចាស់ៗជាមួយគ្នា។** ជ្រើសរើសរឿងដែលធ្លាប់ស្គាល់ នៅក្បែរគ្នា និងផ្អាកសម្រាប់សម្រាក។
 
-### Simple, pressure-free games
+### ល្បែងសាមញ្ញៗ គ្មានសម្ពាធ
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Picture pairs ដោយបង្ហាញរូបភាព។** [Picture pairs](/games/picture-pairs/) អនុញ្ញាតឱ្យរូបភាពនៅបង្ហាញ ដូច្នេះវាផ្តោតលើការសង្កេត មិនមែនការចងចាំទេ។
+- **Find the same។** [Find the same](/games/find-the-same/) បង្ហាញរូបភាពមួយ និងមានជម្រើសតែពីរដល់បួនប៉ុណ្ណោះ។
+- **Sort together។** [Sort together](/games/sort-together/) ដូចជាការតម្រៀបសម្លៀកបំពាក់នៅលើអេក្រង់៖ ចុចរូបភាពមួយ រួចចុចកន្ត្រករបស់វា។
+- **Picture bingo។** [Picture bingo](/games/picture-bingo/) សមស្របសម្រាប់ការជួបជុំគ្រួសារ និងក្រុម។
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+ប្រសិនបើល្បែងចាប់ផ្តើមបង្កឱ្យមានការខកចិត្ត សូមបញ្ឈប់ ហើយធ្វើអ្វីផ្សេងវិញ។ សូមមើល [របៀបលេងជាមួយគ្នា](/caregiving/how-to-play-together/)។
 
-## Turning restlessness into an activity
+## ប្តូរការមិនស្ងប់ទៅជាសកម្មភាព
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+អាកប្បកិរិយាមិនស្ងប់ ឬធ្វើដដែលៗជារឿយៗមានមូលហេតុ។ Family Caregiver Alliance ចង្អុលបង្ហាញថា បុគ្គលដែលបន្តសម្អាតទូខោអាវអាចកំពុងព្យាយាមបំពេញតម្រូវការចង់មានអារម្មណ៍រវល់ និងមានប្រយោជន៍។ Alzheimer's Association ណែនាំឱ្យបង្វែរថាមពលនោះទៅជាសកម្មភាពដែលសមស្រប ជំនួសការបញ្ឈប់វា។
 
-| What you see | Something to offer |
+| អ្វីដែលអ្នកឃើញ | អ្វីដែលអាចផ្តល់ជូន |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| ដុស ឬចាប់តុដដែលៗ | កន្សែងសើម និងសំណើឱ្យជួយជូតតុ |
+| ជើងមិនស្ងប់ ឬគោះដៃជើង | តន្ត្រីដែលមានចង្វាក់ច្បាស់សម្រាប់គោះ ឬទះដៃតាម |
+| ដកអ្វីចេញពីថត ឬទូ | កន្ត្រកសម្លៀកបំពាក់ ឬកន្សែងសម្រាប់បត់ និងតម្រៀប |
+| សួរសំណួរដដែលៗ | ផ្តល់ការធានាចិត្ត រួចច្រៀងបទចម្រៀង ឬធ្វើការងាររួមគ្នា |
+| ដើរទៅមក | ដើរលេងជាមួយគ្នា ឬការងារដែលមានការយកអ្វីមួយទៅមក |
+| អារម្មណ៍មិនស្រួលនៅពេលរសៀល | កិច្ចការស្ងប់ស្ងាត់ដែលធ្លាប់ស្គាល់ក្នុងពន្លឺល្អ សូមមើល [ការមិនស្ងប់នៅពេលរសៀល](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## ពេលណាគួរបញ្ឈប់ ឬប្តូរទិស
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+សូមបញ្ឈប់នៅពេលអ្នកឃើញសញ្ញានៃភាពអស់កម្លាំង ការខកចិត្ត ការអាម៉ាស់ ឬការធុញទ្រាន់ ដូចជាការមិនអង្គុយនឹង ការរមួលមុខ ការរុញវត្ថុចេញ ឬការនិយាយថា «ខ្ញុំមិនអាចទេ»។ Alzheimer's Association ណែនាំឱ្យសាកល្បងម្តងទៀតនៅពេលផ្សេងក្នុងថ្ងៃ ឬធ្វើឱ្យសកម្មភាពសាមញ្ញជាងមុន។ កុំបង្ខំ។ ការបដិសេធអាចមកពីការភ័យខ្លាច ឬពីកិច្ចការដែលពិបាកពេក សូមមើល [នៅពេលគាត់និយាយថាទេ](/caregiving/when-they-say-no/)។
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+ការបញ្ឈប់មុនកំណត់គឺមិនអីទេ។ ការគ្រាន់តែអង្គុយជាមួយគ្នាជាមួយពែងតែមួយក៏ល្អដែរ។ នៅពេលសមត្ថភាពផ្លាស់ប្តូរបន្ថែមទៀត គំនិតក្នុង [សកម្មភាពដំណាក់កាលចុងក្រោយ](/activities/late-stage/) អាចសមស្របជាង ហើយ [សកម្មភាព 101](/activities/ideas/) មានគំនិតជាច្រើនទៀតសម្រាប់សាកល្បង។

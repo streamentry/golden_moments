@@ -1,32 +1,29 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "សកម្មភាពសម្រាប់បុរសដែលរស់នៅជាមួយជំងឺវង្វេង"
+seoTitle: "គំនិតសកម្មភាពសម្រាប់បុរសដែលរស់នៅជាមួយជំងឺវង្វេង"
+description: "គំនិតសកម្មភាពសម្រាប់បុរសដែលរស់នៅជាមួយជំងឺវង្វេង ផ្អែកលើការងារ ចំណូលចិត្ត និងទម្លាប់ប្រចាំថ្ងៃរបស់គាត់ រួមជាមួយគន្លឹះក្នុងការសម្របសម្រួលឱ្យមានសុវត្ថិភាព។"
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  សកម្មភាពល្អបំផុតសម្រាប់បុរសដែលរស់នៅជាមួយជំងឺវង្វេង គឺសកម្មភាពដែលមកពីជីវិតរបស់គាត់ផ្ទាល់៖
+  ការងារដែលគាត់ធ្លាប់ធ្វើ ចំណូលចិត្តដែលគាត់ស្រឡាញ់ និងទម្លាប់ប្រចាំថ្ងៃដែលគាត់ធ្លាប់មាន។ អ្នកធ្លាប់ធ្វើការក្នុងការិយាល័យអាចចូលចិត្តរៀបចំឯកសារ ជាងម៉ាស៊ីនអាចចូលចិត្តកាន់ឧបករណ៍ស្អាតៗ ហើយអ្នកគាំទ្រកីឡាអាចចូលចិត្តមើលការប្រកួតចាស់ៗ។ ចំណាប់អារម្មណ៍ខុសគ្នាពីមនុស្សម្នាក់ទៅមនុស្សម្នាក់ ដូច្នេះសូមចាប់ផ្តើមពីបុគ្គលនោះ មិនមែនពីភេទរបស់គាត់ទេ។
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "ចាប់ផ្តើមពីប្រវត្តិជីវិតរបស់បុរសម្នាក់នេះ៖ ការងារ ចំណូលចិត្ត ទម្លាប់ប្រចាំថ្ងៃ និងអ្វីដែលគាត់ធ្លាប់មានមោទនភាព។"
+  - "កិច្ចការដែលមានគោលបំណងច្បាស់លាស់ ដូចជាការតម្រៀបគ្រឿងផ្លាស់ប្តូរ ការលាងឡាន ឬការខាត់ឈើ ជារឿយៗអាចទាក់ទាញចិត្តបានច្រើនជាងសកម្មភាពដែលមានអារម្មណ៍ដូចជាការរៀនក្នុងថ្នាក់។"
+  - "មិនមែនបុរសគ្រប់រូបចូលចិត្តឧបករណ៍ ឬកីឡាទេ។ បុរសជាច្រើនចូលចិត្តចម្អិនអាហារ តន្ត្រី សួនច្បារ សិល្បៈ ឬការថែទាំអ្នកដទៃ។ សូមសួរ សង្កេត និងធ្វើតាមការនាំរបស់គាត់។"
+  - "ធ្វើឱ្យកិច្ចការដែលទាក់ទងនឹងការងារមានសុវត្ថិភាពដោយដកឧបករណ៍មុតចេញ ហើយត្រូវមានការមើលថែ គ្រប់គ្រង ព្រមទាំងធ្វើឱ្យកិច្ចការសាមញ្ញឡើងនៅពេលសមត្ថភាពរបស់គាត់ផ្លាស់ប្តូរ។"
+  - "ការបដិសេធគឺអាចធ្វើបាន។ សូមផ្តល់ជូនតួនាទី មិនមែនការប្រគល់ភារកិច្ចទេ ហើយអាចសាកល្បងម្តងទៀតនៅថ្ងៃផ្សេង។"
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "តើសកម្មភាពអ្វីខ្លះដែលបុរសដែលរស់នៅជាមួយជំងឺវង្វេងអាចចូលចិត្ត?"
+    a: "មិនមានបញ្ជីតែមួយទេ ព្រោះចំណាប់អារម្មណ៍របស់បុរសនីមួយៗខុសគ្នាដូចមនុស្សគ្រប់រូបដែរ។ ចំណុចចាប់ផ្តើមល្អៗ គឺកិច្ចការដែលទាក់ទងនឹងការងារពីមុនរបស់គាត់ ដូចជាការរៀបចំឯកសារ ឬការតម្រៀបគ្រាប់វីស និងប៊ូឡុង រួមជាមួយចំណូលចិត្តដែលគាត់ធ្លាប់ស្រឡាញ់ ដូចជាការនេសាទ រថយន្ត តន្ត្រី ការចម្អិនអាហារ ឬកីឡា។ សូមសង្កេតអ្វីដែលគាត់ធ្វើដោយខ្លួនឯង ហើយបន្តពីចំណុចនោះ។"
+  - q: "ឪពុកខ្ញុំបដិសេធមិនចូលរួមសកម្មភាពជាក្រុម។ តើខ្ញុំអាចធ្វើអ្វីបាន?"
+    a: "មនុស្សជាច្រើន ទាំងបុរស និងស្ត្រី ច្រើនតែបដិសេធសកម្មភាពដែលមានអារម្មណ៍ដូចជាការរៀនក្នុងថ្នាក់ ឬហាក់ដូចជាមិនសមនឹងមនុស្សពេញវ័យ។ សូមសាកល្បងសុំជំនួយវិញ៖ «តើអ្នកអាចជួយខ្ញុំតម្រៀបរបស់ទាំងនេះបានទេ?» ក្រុមតូចៗ ឬពេលវេលាតែមួយទល់នឹងមួយ ក៏អាចធ្វើឱ្យគាត់មានអារម្មណ៍ស្រួលជាងការនៅក្នុងបន្ទប់ធំមួយ។"
+  - q: "តើអនុញ្ញាតឱ្យគាត់ប្រើឧបករណ៍មានសុវត្ថិភាពដែរឬទេ?"
+    a: "អាចបាន តែត្រូវមានការមើលថែ និងប្រើឧបករណ៍ដែលមានសុវត្ថិភាពប៉ុណ្ណោះ។ សូមដកឧបករណ៍ប្រើថាមពល កាំបិត និងអ្វីៗដែលមុតចេញ ហើយផ្តល់កិច្ចការដូចជាការខាត់បន្ទះឈើ ការតម្រៀបគ្រឿងផ្លាស់ប្តូរស្អាតៗ ឬការរឹតប៊ូឡុងធំៗដោយដៃ។ Alzheimer's Association ណែនាំឱ្យដកវត្ថុដែលអាចបង្កគ្រោះថ្នាក់ចេញពីសិល្បៈខាងឧបករណ៍ ដើម្បីឱ្យកិច្ចការដូចជាការខាត់ឈើនៅតែអាចធ្វើបានដោយសុវត្ថិភាព។"
+  - q: "គាត់ធ្លាប់ជាអ្នកជំនាញ។ តើកិច្ចការសាមញ្ញៗនឹងធ្វើឱ្យគាត់មានអារម្មណ៍មិនល្អដែរឬទេ?"
+    a: "អាចមានបាន ប្រសិនបើវាត្រូវបានបង្ហាញដូចជាការងារគ្មានគោលបំណង។ សូមបង្ហាញកិច្ចការនោះថាជាជំនួយពិតប្រាកដ ប្រើសម្ភារៈសមស្របសម្រាប់មនុស្សពេញវ័យ ហើយជ្រើសរើសអ្វីដែលស្រដៀងនឹងតួនាទីចាស់របស់គាត់ ដូចជាការពិនិត្យបញ្ជី ការរៀបចំឯកសារ ឬការជួយរៀបចំសំបុត្រ។ ប្រសិនបើគាត់ធ្លាប់មានជំនាញខ្ពស់ក្នុងរឿងណាមួយ សកម្មភាពដែលទាក់ទងប៉ុន្តែខុសគ្នាបន្តិច អាចធ្វើឱ្យគាត់មិនមានអារម្មណ៍ថាកំពុងត្រូវបានប្រៀបធៀបទេ។"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +42,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+មនុស្សជាច្រើនស្វែងរក «សកម្មភាពសម្រាប់បុរសដែលរស់នៅជាមួយជំងឺវង្វេង» ពីព្រោះការណែនាំទូទៅជារឿយៗហាក់ដូចជាមិនសមនឹងបុរសដែលពួកគេថែទាំ។ នេះជាកង្វល់ដែលយល់បាន។ ប៉ុន្តែចម្លើយមិនមែនជាបញ្ជីសកម្មភាព «សម្រាប់បុរស» ទេ។ ចម្លើយគឺត្រូវចាប់ផ្តើមពីបុរសម្នាក់ៗ៖ គាត់ធ្លាប់ធ្វើការងារអ្វី គាត់ធ្វើអ្វីនៅថ្ងៃឈប់សម្រាក និងអ្វីដែលធ្វើឱ្យគាត់មានអារម្មណ៍ថាខ្លួនមានប្រយោជន៍។ ចំណាប់អារម្មណ៍ខុសគ្នាចំពោះមនុស្សគ្រប់រូប។ បុរសជាច្រើនចូលចិត្តចម្អិនអាហារ ថែសួនច្បារ គូររូប ឬច្រៀង ហើយស្ត្រីជាច្រើនក៏ចូលចិត្តរថយន្ត និងកីឡាបេស្បលដែរ។
 
-## How do I find activities he will actually enjoy?
+## តើខ្ញុំអាចរកសកម្មភាពដែលគាត់ពិតជាចូលចិត្តដោយរបៀបណា?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+សូមចាប់ផ្តើមពីរឿងរ៉ាវជីវិតរបស់គាត់។ Alzheimer's Association ណែនាំឱ្យរៀបចំ[ផែនការប្រចាំថ្ងៃ](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan)ដោយផ្អែកលើអ្វីដែលមនុស្សនោះចូលចិត្ត មិនចូលចិត្ត ចំណុចខ្លាំង ចំណាប់អារម្មណ៍ និងរបៀបដែលគាត់ធ្លាប់រៀបចំថ្ងៃរបស់គាត់ពីមុន។ សូមសួរខ្លួនឯងថា៖
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **តើគាត់ធ្លាប់ធ្វើការងារអ្វី?** ការិយាល័យ កសិកម្ម រោងចក្រ ជាង មilitary ការលក់ ការបង្រៀន ការបើកបរ ឬការងារនៅផ្ទះ?
+- **តើគាត់ធ្វើអ្វីនៅពេលទំនេរ?** ការនេសាទ ការលេងបៀ ចាក់ឈើ កីឡា ព្រះវិហារ តន្ត្រី ការចម្អិនអាហារ ឬថែរថយន្តក្នុងយានដ្ឋាន?
+- **តើទម្លាប់របស់គាត់មានអ្វីខ្លះ?** ភេសជ្ជៈកាហ្វេ និងអានកាសែតរាល់ព្រឹក? ពិនិត្យអាកាសធាតុ? លាងឡានរាល់ថ្ងៃសៅរ៍?
+- **តើគាត់នៅតែចាប់ផ្តើមធ្វើអ្វីដោយខ្លួនឯង?** សមាគមនោះចង្អុលបង្ហាញថា ប្រសិនបើមនុស្សនោះចាប់ផ្តើមធ្វើកិច្ចការដោយមិនចាំបាច់មានអ្នកសុំ ដូចជាការបោសជាន់ កិច្ចការទាំងនោះអាចក្លាយជាផ្នែកមួយនៃទម្លាប់ប្រចាំថ្ងៃ។
+- **តើគាត់ចៀសវាងអ្វីខ្លះ?** មនុស្សខ្លះចូលចិត្តមើលកីឡា ខណៈអ្នកផ្សេងទៀតអាចមានអារម្មណ៍មិនស្រួលដោយសារល្បឿន និងសំឡេងរំខាន។ សូមសង្កេតពេលដែលគាត់ហាក់ដូចជាសប្បាយ មានការថប់បារម្ភ ឬមិនស្រួលចិត្ត។
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+សូមនិយាយជាមួយសមាជិកគ្រួសារ និងមិត្តភក្តិចាស់ៗផងដែរ។ ពួកគេអាចចាំបាននូវចំណាប់អារម្មណ៍ដែលបានថយចុះពីជីវិតប្រចាំថ្ងៃ។
 
-## Activity ideas based on past work
+## គំនិតសកម្មភាពផ្អែកលើការងារពីមុន
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association ផ្តល់ឧទាហរណ៍ច្បាស់លាស់មួយ៖ អ្នកធ្លាប់ធ្វើការក្នុងការិយាល័យអាចចូលចិត្តកិច្ចការរៀបចំ ដូចជាការដាក់កាក់ក្នុងប្រអប់ ការជួយរៀបចំសំបុត្រ ឬការធ្វើបញ្ជីការងារត្រូវធ្វើ ខណៈអ្នកធ្លាប់ធ្វើកសិកម្ម ឬថែសួនច្បារអាចចូលចិត្តធ្វើការនៅក្នុងសួន។ គំនិតដូចគ្នានេះអាចអនុវត្តបានចំពោះការងារជាច្រើនប្រភេទ។
 
-| Past work | Activity ideas | Simpler version |
+| ការងារពីមុន | គំនិតសកម្មភាព | កំណែសាមញ្ញជាង |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| ការិយាល័យ ឬអាជីវកម្ម | តម្រៀបឯកសារដាក់ក្នុងថត បោះត្រាលើស្រោមសំបុត្រ ពិនិត្យបញ្ជី រៀបចំថតតុ | ដាក់ស្រោមសំបុត្រជាជង់ ក្លិបក្រដាសដាក់ក្នុងប្រអប់ |
+| ជាង ឬជាងម៉ាស៊ីន | តម្រៀបគ្រាប់វីស ប៊ូឡុង និងរង្វាស់ស្អាតៗ រឹតប៊ូឡុងធំៗដោយដៃ មើលកាតាឡុកឧបករណ៍ | តម្រៀបទៅតាមទំហំដាក់ក្នុងពែងពីរ |
+| កសិកម្ម ឬថែទេសភាព | ស្រោចទឹក ដាំរុក្ខជាតិក្នុងផើង កេះស្លឹកឈើ សង្កេតមើលសួន | អង្គុយនៅខាងក្រៅខណៈអ្នកធ្វើការ កាន់កញ្ចប់គ្រាប់ពូជ |
+| យោធា | ខាត់ស្បែកជើង រៀបចំថតឱ្យមានសណ្តាប់ធ្នាប់ មើលរូបថតពីសម័យបម្រើការងារ ប្រសិនបើគាត់ចូលចិត្ត | ស្តាប់តន្ត្រីពីសម័យនោះ |
+| ការលក់ ឬសេវាអតិថិជន | ទទួលភ្ញៀវ ចែកអាហារសម្រន់ តម្រៀបគូប៉ុង | អង្គុយនៅជិតទ្វារដើម្បីថ្លែងសួស្តី |
+| ការបង្រៀន | អានឱ្យស្តាប់ រៀបចំសៀវភៅ តម្រៀបរូបភាពតាមប្រធានបទ | មើលសៀវភៅរូបភាពជាមួយគ្នា |
+| ការបើកបរ ឬដឹកជញ្ជូន | មើលផែនទី ឬទស្សនាវដ្តីរថយន្តចាស់ៗ លាងឡាន | មើលរថយន្តឆ្លងកាត់ពីរានហាល |
+| ផ្ទះ និងគ្រួសារ | បត់សម្លៀកបំពាក់ រៀបចំតុ ជួយចម្អិនអាហារពេលល្ងាច | រាបកន្សែងតុ កូរចាន |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+អនុស្សាវរីយ៍មួយចំនួន ដូចជាការបម្រើការងារយោធា អាចនាំមកនូវអារម្មណ៍ខ្លាំង។ សូមធ្វើតាមការនាំរបស់គាត់ រក្សាការសន្ទនាអំពីអតីតកាលឱ្យមានអារម្មណ៍វិជ្ជមាន ហើយប្តូរប្រធានបទយ៉ាងស្រទន់ ប្រសិនបើគាត់ហាក់ដូចជាមិនស្រួលចិត្ត។
 
-## Activity ideas based on hobbies
+## គំនិតសកម្មភាពផ្អែកលើចំណូលចិត្ត
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **ការធ្វើឈើ។** ខាត់បន្ទះឈើរលោង ឬលាបឈើសម្រាប់ផ្ទះបក្សី។ Alzheimer's Association ណែនាំឱ្យដកសម្ភារៈ និងឧបករណ៍ដែលអាចបង្កគ្រោះថ្នាក់ចេញពីកន្លែងធ្វើការ ដើម្បីឱ្យសកម្មភាពដូចជាការខាត់ឈើអាចធ្វើបានដោយរីករាយ និងមានសុវត្ថិភាព។
+2. **ការនេសាទ។** តម្រៀបប្រអប់ឧបករណ៍នេសាទដោយបានដកត្រួតចេញ មើលទស្សនាវដ្តីនេសាទ ឬអង្គុយជាមួយគ្នានៅริมស្រះ។
+3. **រថយន្ត។** លាងឡាន ខាត់បន្លាដែកភ្លឺៗ មើលរូបថតរថយន្តបុរាណ ឬជិះឡានជាអ្នកដំណើរ។
+4. **កីឡា។** មើលការប្រកួតចាស់ៗ ឬចំណាំសំខាន់ៗ បោះបាល់ទន់ៗ ដាក់បាល់ហ្គោលនៅលើកម្រាល ឬតម្រៀបកាតបេស្បល។
+5. **បៀ និងល្បែង។** លេងបៀសាមញ្ញដែលគាត់ធ្លាប់ស្គាល់ ដូមីណូ ឬបង្វិលកាតដើម្បីរកគូដែលដូចគ្នា។ រក្សាឱ្យមានអារម្មណ៍ស្រាលស្រួល ហើយកុំរក្សាពិន្ទុ។
+6. **តន្ត្រី។** ចម្រៀងពីវ័យជំទង់ និងវ័យម្ភៃរបស់គាត់ ក្រុមតន្ត្រីដែលគាត់ចូលចិត្ត ឬបទចម្រៀងសាសនា។ សូមមើល[មគ្គុទ្ទេសក៍សកម្មភាពតន្ត្រី](/activities/music/)របស់យើង។
+7. **ការចម្អិនអាហារ និងអាំងអាហារ។** លាងបន្លែ កូរស៊ុប ធ្វើសាច់ក្រឡុក ឬពិពណ៌នាថាគាត់ធ្លាប់ធ្វើម្ហូបពិសេសរបស់គាត់យ៉ាងដូចម្តេច ខណៈអ្នកកំពុងចម្អិនវា។
+8. **កាសែត។** Alzheimer's Association ចង្អុលបង្ហាញថា មនុស្សដែលធ្លាប់អានកាសែតជានិច្ច អាចនៅតែរីករាយនឹងការធ្វើដូច្នោះ ទោះបីគាត់មិនអាចយល់ខ្លឹមសារទាំងអស់បានក៏ដោយ។ កាហ្វេ និងកាសែតអាចនៅតែជាផ្នែកមួយនៃពេលព្រឹក។
+9. **ការបង្កើត។** ឈុតម៉ូដែលមានបំណែកធំៗ ឬឈុតបង្កើតសាមញ្ញៗសម្រាប់មនុស្សពេញវ័យ។ សូមជ្រើសរើសបំណែកដែលងាយកាន់។
+10. **ការថែទាំអ្វីមួយ។** ឱ្យអាហារសត្វចិញ្ចឹម ថែសម្អាតសត្វចិញ្ចឹម ដើរលេងជាមួយសត្វចិញ្ចឹម ឬស្រោចទឹកដល់រុក្ខជាតិ។ NIA រាយបញ្ចូល[ការឱ្យអាហារ ថែទាំ ឬដើរលេងជាមួយសត្វចិញ្ចឹម](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)ក្នុងចំណោមសកម្មភាពដែលមនុស្សអាចចូលចិត្ត។
 
-## How do I offer an activity without it feeling like busywork?
+## តើខ្ញុំអាចស្នើសុំសកម្មភាពដោយមិនឱ្យមានអារម្មណ៍ដូចជាការងារគ្មានប្រយោជន៍ដោយរបៀបណា?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+សូមបង្ហាញវាថាជាជំនួយពិតប្រាកដ។ Alzheimer's Association ណែនាំឱ្យសួរថា «តើអ្នកអាចជួយខ្ញុំបានទេ?» ហើយភ្ជាប់កិច្ចការទៅនឹងគោលបំណងច្បាស់លាស់។ សូមប្រៀបធៀប៖
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «តើអ្នកចង់តម្រៀបប៊ូឡុងទាំងនេះទេ?» (ស្តាប់ទៅដូចជាការសាកល្បង)
+- «ខ្ញុំទិញគ្រឿងផ្លាស់ប្តូចមួយថង់ច្របល់គ្នា ហើយខ្ញុំត្រូវការតម្រៀបវាមុនពេលជួសជុលធ្នើ។ តើអ្នកអាចជួយខ្ញុំបានទេ?» (ស្តាប់ទៅដូចជាការងារពិត)
 
-Other tips:
+គន្លឹះផ្សេងទៀត៖
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **ប្រើសម្ភារៈសមស្របសម្រាប់មនុស្សពេញវ័យ។** ឧបករណ៍ពិតដែលបានដកផ្នែកមុតចេញ កាតាឡុកពិត ស្រោមសំបុត្រពិត។
+- **ធ្វើការជាមួយគ្នា។** មនុស្សពីរនាក់ធ្វើការងារជាមួយគ្នាគឺជាការមានមិត្តរួម។ មនុស្សម្នាក់មើលម្នាក់ទៀតគឺដូចជាការត្រួតពិនិត្យ។
+- **កុំកែតម្រូវ។** ប្រសិនបើប៊ូឡុងត្រូវបានដាក់ខុសពែង សូមទុកវាឱ្យនៅដដែល។ អ្វីសំខាន់គឺពេលវេលាដែលបាននៅជាមួយគ្នា និងអារម្មណ៍ថាខ្លួនមានប្រយោជន៍។
+- **ជួយគាត់ចាប់ផ្តើម។** Alzheimer's Association ចង្អុលបង្ហាញថា មនុស្សជាច្រើននៅតែមានបំណងចង់ធ្វើអ្វីៗ ប៉ុន្តែពួកគេពិបាកក្នុងការរៀបចំ និងចាប់ផ្តើម។ សូមធ្វើជំហានដំបូងជាមួយគ្នា។
 
-## How do I adapt as things change?
+## តើខ្ញុំអាចសម្របសម្រួលនៅពេលអ្វីៗផ្លាស់ប្តូរដោយរបៀបណា?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+នៅពេលជំងឺវង្វេងដំណើរការទៅមុខ Alzheimer's Association ណែនាំឱ្យណែនាំកិច្ចការដែលសាមញ្ញជាង និងមានការធ្វើម្តងហើយម្តងទៀត ហើយត្រៀមខ្លួនសម្រាប់ការដែលអ្នកនោះអាចចូលរួមតិចជាងមុន។ បុរសដែលធ្លាប់ជួសជុលម៉ាស៊ីនអាចឥឡូវនេះចូលចិត្តកាន់កូនសោស្អាតមួយ និងនិយាយអំពីរថយន្ត ឬមើលអ្នកធ្វើការ។ ការមើលក៏ជាការចូលរួមដែរ។
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+ប្រសិនបើគាត់ធ្លាប់មានជំនាញខ្ពស់ក្នុងរឿងណាមួយ សកម្មភាពដែលទាក់ទងអាចមានអារម្មណ៍ល្អជាងសិល្បៈចាស់របស់គាត់។ សមាគមនោះចង្អុលបង្ហាញថា វិចិត្រករជំនាញអាចមានអារម្មណ៍ថប់បារម្ភដោយសារការផ្លាស់ប្តូរក្នុងស្នាដៃរបស់គាត់ ខណៈអ្នកដែលគ្រាន់តែចូលចិត្តអាចរីករាយនឹងការសាកល្បងថ្មី។ រឿងដូចគ្នានេះក៏អាចកើតមានចំពោះជាងឈើជំនាញដែរ។
 
-## Safety with work-style tasks
+## សុវត្ថិភាពជាមួយកិច្ចការដែលទាក់ទងនឹងឧបករណ៍
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- ដកឧបករណ៍ប្រើថាមពល កាំបិត ត្រចៀក និងវីសដែលមានចុងមុតចេញ។
+- ចាក់សោទឹករំលាយថ្នាំលាប ឥន្ធនៈ និងសារធាតុគីមី។
+- លាក់សោរថយន្ត ប្រសិនបើគាត់លែងបើកបរទៀត។
+- ត្រូវមានការមើលថែគ្រប់កិច្ចការនៅកន្លែងធ្វើការ និងនៅសួន។
+- ជ្រើសរើសបំណែកធំៗដែលមិនអាចលេបបាន។
 
-## What if he says no?
+## ចុះបើគាត់និយាយថាទេ?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+សូមគោរពការសម្រេចចិត្តនោះ។ ការនិយាយថាទេអាចមានន័យថាកិច្ចការនោះពិបាកពេក មិនសមនឹងមនុស្សពេញវ័យពេក ឬគ្រាន់តែមិនសមស្របសម្រាប់ថ្ងៃនេះ។ Alzheimer's Association ព្រមានកុំបង្ខំ។ សូមសាកល្បងកិច្ចការផ្សេង ពេលវេលាផ្សេង ឬគ្រាន់តែអង្គុយជាមួយគ្នា។ សូមមើល[អ្វីដែលควรทำនៅពេលគាត់និយាយថាទេ](/caregiving/when-they-say-no/)។
 
-## Games and conversation that fit
+## ល្បែង និងការសន្ទនាដែលសមស្រប
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) ប្រើសុភាសិតអាមេរិកដែលគេស្គាល់ល្អ និងអាចនាំទៅរកការសន្ទនា។ [Conversation Cards](/games/conversation-cards/) មានសំណួរបើកចំហដែលគ្មានការសាកល្បង តាមប្រធានបទ ដែលអាចបើកឱ្យគាត់ចែករំលែករឿងរ៉ាវអំពីការងារ និងចំណូលចិត្ត។ [Picture Puzzle](/games/picture-puzzle/) រក្សារូបភាពទាំងមូលឱ្យនៅមើលឃើញខណៈអ្នកប្តូរបំណែក ហើយ [Word Search](/games/word-search/) ដែលមានអក្សរធំអាចបោះពុម្ព ហើយលេងជាមួយប៊ិចនៅតុផ្ទះបាយ។ សម្រាប់វិធីនិយាយអំពីអតីតកាលរបស់គាត់ដោយមិនសាកល្បងគាត់ សូមមើល[មគ្គុទ្ទេសក៍រំលឹកអនុស្សាវរីយ៍](/activities/reminiscence/)របស់យើង។

@@ -1,33 +1,28 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "អាហារូបត្ថម្ភ MIND និងមេឌីទែរ៉ាណេ និងជំងឺវង្វេង៖ អ្វីដែលការស្រាវជ្រាវបង្ហាញ"
+seoTitle: "អាហារូបត្ថម្ភ MIND និងជំងឺវង្វេង៖ អ្វីដែលការស្រាវជ្រាវបង្ហាញ"
+description: "អ្វីដែលការស្រាវជ្រាវនិយាយអំពីអាហារូបត្ថម្ភ MIND និងមេឌីទែរ៉ាណេ និងជំងឺវង្វេង ហេតុអ្វីការសាកល្បងមួយមិនឃើញអត្ថប្រយោជន៍ច្បាស់លាស់ និងរបៀបជួយអ្នកដែលរស់នៅជាមួយជំងឺវង្វេងឱ្យបរិភោគបានល្អ។"
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  ការសិក្សាដែលតាមដានមនុស្សមួយរយៈពេល បានភ្ជាប់ទំលាប់អាហារបែបមេឌីទែរ៉ាណេ និង MIND ជាមួយហានិភ័យជំងឺវង្វេងទាបជាង ប៉ុន្តែមិនមែនគ្រប់ពេលទេ។ ការសាកល្បងចៃដន្យរយៈពេលបីឆ្នាំលើអាហារូបត្ថម្ភ MIND ដែលបោះពុម្ពនៅឆ្នាំ 2023 មិនបានរកឃើញភាពខុសគ្នាយ៉ាងសំខាន់ក្នុងការគិត ឬការស្កេនខួរក្បាល បើប្រៀបធៀបទៅនឹងអាហារបញ្ជា។ គ្មានអាហារ ឬអាហារបំប៉នណាមួយត្រូវបានបញ្ជាក់ថាអាចការពារជំងឺវង្វេងបានទេ។ សម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង ការបរិភោគ និងផឹកទឹកឱ្យបានគ្រប់គ្រាន់គឺសំខាន់ជាងគេ។
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "ការសិក្សាមួយចំនួន ប៉ុន្តែមិនមែនទាំងអស់ ដែលតាមដានមនុស្សមួយរយៈពេល បានភ្ជាប់ទំលាប់អាហារបែបមេឌីទែរ៉ាណេ និង MIND ជាមួយហានិភ័យជំងឺវង្វេងទាបជាង។"
+  - "ក្នុងការសាកល្បងឆ្នាំ 2023 លើមនុស្សវ័យចំណាស់ចំនួន 604 នាក់ អ្នកដែលធ្វើតាមអាហារូបត្ថម្ភ MIND មិនបានធ្វើបានល្អជាងលើការធ្វើតេស្តគិត ឬការស្កេនខួរក្បាល បើប្រៀបធៀបទៅនឹងអ្នកដែលធ្វើតាមអាហារបញ្ជា បន្ទាប់ពីរយៈពេលបីឆ្នាំ។"
+  - "វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) បញ្ជាក់ថា គ្មានភស្តុតាងថាការបរិភោគ ឬការជៀសវាងអាហារជាក់លាក់ណាមួយអាចការពារជំងឺអាល់ហ្សៃមឺបានទេ ហើយគ្មានវីតាមីន ឬអាហារបំប៉នណាមួយត្រូវបានបញ្ជាក់ថាអាចការពារបានទេ។"
+  - "អាហារដែលមានបន្លែ ផ្លែឈើ សណ្តែក ធញ្ញជាតិពេញលេញ និងត្រីច្រើន អាចគាំទ្រសុខភាពបេះដូង ហើយអាចជួយកាត់បន្ថយហានិភ័យដូចជាសម្ពាធឈាមខ្ពស់ និងជំងឺទឹកនោមផ្អែម។"
+  - "សម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង អាហារដែលអាចចាប់ញ៉ាំដោយដៃ ចានដែលមានពណ៌ផ្ទុយគ្នា ពេលបរិភោគដោយស្ងប់ស្ងាត់ និងការផឹកទឹកជាទៀងទាត់ ជារឿយៗសំខាន់ជាងអាហារូបត្ថម្ភជាក់លាក់ណាមួយ។"
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "តើអាហារូបត្ថម្ភ MIND អាចការពារជំងឺវង្វេងបានទេ?"
+    a: "វាមិនទាន់ត្រូវបានបង្ហាញថាអាចការពារបានទេ។ ការសិក្សាដែលតាមដានមនុស្សមួយរយៈពេល បានភ្ជាប់អាហារូបត្ថម្ភ MIND ជាមួយហានិភ័យទាបជាង ប៉ុន្តែការសាកល្បងចៃដន្យរយៈពេលបីឆ្នាំដែលបោះពុម្ពនៅឆ្នាំ 2023 បានរកឃើញថា គ្មានភាពខុសគ្នាយ៉ាងសំខាន់ក្នុងលទ្ធផលតេស្តគិត ឬការស្កេនខួរក្បាល រវាងអ្នកដែលធ្វើតាមអាហារូបត្ថម្ភ MIND និងអ្នកដែលធ្វើតាមអាហារបញ្ជាទេ។ ក្រុមទាំងពីរបានប្រសើរឡើងបន្តិចបន្តួច ហើយបានស្រកទម្ងន់ស្រដៀងគ្នា។"
+  - q: "តើអាហារូបត្ថម្ភ MIND ខុសពីអាហារូបត្ថម្ភមេឌីទែរ៉ាណេយ៉ាងដូចម្តេច?"
+    a: "អាហារូបត្ថម្ភមេឌីទែរ៉ាណេផ្តោតលើបន្លែ ផ្លែឈើ ធញ្ញជាតិពេញលេញ សណ្តែក ត្រី និងប្រេងអូលីវ ហើយបរិភោគសាច់ក្រហម ឬអាហារផ្អែមតិច។ អាហារូបត្ថម្ភ MIND រួមបញ្ចូលវាជាមួយអាហារូបត្ថម្ភ DASH សម្រាប់សម្ពាធឈាម ហើយបន្ថែមការផ្តោតលើបន្លែស្លឹកបៃតង និងផ្លែប៊េរី ខណៈពេលកំណត់សាច់ក្រហម អាហារផ្អែម ឈីស ប៊ឺ ឬម៉ាហ្គារីន និងអាហារចៀន។"
+  - q: "តើមានអាហារ ឬអាហារបំប៉នណាមួយអាចការពារជំងឺអាល់ហ្សៃមឺបានទេ?"
+    a: "គ្មានទេ។ វិទ្យាស្ថានជាតិស្តីពីភាពចាស់បញ្ជាក់ថា គ្មានភស្តុតាងថាការបរិភោគ ឬការជៀសវាងអាហារជាក់លាក់ណាមួយអាចការពារជំងឺអាល់ហ្សៃមឺ ឬការថយចុះនៃការគិតដែលទាក់ទងនឹងវ័យបានទេ ហើយគ្មានវីតាមីន ឬអាហារបំប៉នណាមួយត្រូវបានបញ្ជាក់ថាអាចការពារជំងឺអាល់ហ្សៃមឺបានទេ។ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតមុនពេលទទួលទានអាហារបំប៉ន។"
+  - q: "តើអាហារអ្វីខ្លះដែលងាយស្រួលសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេងបរិភោគ?"
+    a: "អាហារដែលកាត់ជាចំណិតតូចៗអាចចាប់ញ៉ាំដោយដៃ ដូចជាចំណិតសាំងវិច ចំណិតសាច់មាន់ ចំណិតក្រូច ឬចំណិតបន្លែចំហុយ ជារឿយៗងាយស្រួលជាងការប្រើសម និងកាំបិត។ ប្រសិនបើការទំពារ ឬការលេបពិបាក អាហារទន់ដូចជាពងមាន់កូរ ទឹកផ្លែប៉ោមកិន ឬឈីស cottage អាចជួយបាន។ សូមសួរវេជ្ជបណ្ឌិតអំពីការវាយតម្លៃការលេប ប្រសិនបើមានការក្អក ឬស្ទះ។"
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +53,91 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+អ្នកអាចបានអានថា អាហារដែល «ល្អសម្រាប់ខួរក្បាល» អាចការពារជំងឺអាល់ហ្សៃមឺបាន។ ប៉ុន្តែភាពពិតគឺសាមញ្ញជាងនេះ។ ទំលាប់អាហារមួយចំនួនត្រូវបានភ្ជាប់ជាមួយហានិភ័យទាបជាងនៅក្នុងការសិក្សាដែលតាមដានមនុស្សមួយរយៈពេល ប៉ុន្តែការសាកល្បងល្អបំផុតរហូតមកដល់ពេលនេះមិនបានរកឃើញអត្ថប្រយោជន៍ច្បាស់លាស់ទេ។ ទំព័រនេះពន្យល់អំពីទាំងពីរ រួចបន្តទៅអ្វីដែលជារឿយៗសំខាន់ជាងគេសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេងរួចហើយ៖ ការបរិភោគ និងផឹកទឹកឱ្យបានគ្រប់គ្រាន់ ហើយរីករាយជាមួយវា។
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+នេះជាព័ត៌មានទូទៅ មិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ។ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ឬអ្នកជំនាញផ្នែកអាហារូបត្ថម្ភដែលបានចុះបញ្ជី មុនពេលផ្លាស់ប្តូរអាហាររបស់អ្នក ឬរបស់អ្នកដទៃ។ សូមមើល [ការបដិសេធផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/) របស់យើង។
 
-## What are the Mediterranean and MIND diets?
+## តើអាហារូបត្ថម្ភមេឌីទែរ៉ាណេ និង MIND ជាអ្វី?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (NIA) ពណ៌នាអំពីវាដូចខាងក្រោម
+([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease))៖
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **អាហារូបត្ថម្ភមេឌីទែរ៉ាណេ៖** មានផ្លែឈើ បន្លែ ធញ្ញជាតិពេញលេញ សណ្តែក ត្រី និងអាហារសមុទ្រ និងប្រេងអូលីវច្រើន ហើយបរិភោគសាច់ក្រហម ពងមាន់ និងអាហារផ្អែមតិច។
+- **អាហារូបត្ថម្ភ MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay)៖
+  ជាការរួមបញ្ចូលគ្នារវាងអាហារូបត្ថម្ភមេឌីទែរ៉ាណេ និងអាហារូបត្ថម្ភ DASH សម្រាប់សម្ពាធឈាម។ វាផ្តោតលើបន្លែ ជាពិសេសបន្លែស្លឹកបៃតង ផ្លែប៊េរី ធញ្ញជាតិពេញលេញ សណ្តែក គ្រាប់ ត្រីយ៉ាងហោចណាស់ម្តងក្នុងមួយសប្តាហ៍ និងប្រេងអូលីវ។ វាកំណត់សាច់ក្រហម អាហារផ្អែម ឈីស ប៊ឺ ឬម៉ាហ្គារីន និងអាហារចៀន ឬអាហាររហ័ស។
 
-## Do these diets lower dementia risk?
+## តើអាហារទាំងនេះអាចបន្ថយហានិភ័យជំងឺវង្វេងបានទេ?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+ភស្តុតាងគឺមិនដូចគ្នាទេ។ NIA បញ្ជាក់ថា ការសិក្សាដែលតាមដានមនុស្សមួយរយៈពេលខ្លះ ប៉ុន្តែមិនមែនទាំងអស់ បានភ្ជាប់អាហារូបត្ថម្ភមេឌីទែរ៉ាណេ និង MIND ជាមួយហានិភ័យជំងឺវង្វេងទាបជាង បើប្រៀបធៀបទៅនឹងអាហារបែបលោកខាងលិចដែលមានសាច់ក្រហម ខ្លាញ់ឆ្អែត និងស្ករច្រើន។
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+គណៈកម្មការរបស់ The Lancet ឆ្នាំ 2024 បានពិនិត្យការស្រាវជ្រាវឱ្យកាន់តែលម្អិត
+([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0))៖
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- ការពិនិត្យឡើងវិញនៃការសិក្សាតាមដានមួយ បានភ្ជាប់គុណភាពអាហារខ្ពស់ជាមួយហានិភ័យជំងឺវង្វេងទាបជាងប្រហែល 20%។
+- ការវិភាគធំមួយលើការសិក្សាតាមដានចំនួនបី បានភ្ជាប់ការធ្វើតាមអាហារូបត្ថម្ភ MIND កាន់តែជិតស្និទ្ធជាមួយហានិភ័យទាបជាង។
+- ប៉ុន្តែការសិក្សាមួយនៅស៊ុយអែតដែលតាមដានមនុស្សវ័យកណ្តាលចំនួន 28,025 នាក់អស់រយៈពេលប្រហែល 20 ឆ្នាំ មិនបានរកឃើញហានិភ័យទាបជាងទេ ទាំងជាមួយអាហារដែលបានណែនាំ ឬអាហារបែបមេឌីទែរ៉ាណេ។
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+ការសិក្សាដែលតាមដានមនុស្សមួយរយៈពេលមិនអាចបញ្ជាក់ពីមូលហេតុ និងផលបានទេ។ មនុស្សដែលបរិភោគបែបនេះ ជារឿយៗមានភាពខុសគ្នានៅចំណុចផ្សេងទៀតផងដែរ ដូចជាប្រាក់ចំណូល ការអប់រំ ការហាត់ប្រាណ និងការទទួលបានសេវាថែទាំសុខភាព។ គណៈកម្មការបានសន្និដ្ឋានថា មិនមានភស្តុតាងគ្រប់គ្រាន់ដើម្បីនិយាយថា អាហារដែលមានសុខភាពល្អអាចការពារជំងឺវង្វេងដោយផ្ទាល់បានទេ បើទោះបីជាការបរិភោគផ្លែឈើ និងបន្លែច្រើន ហើយបរិភោគអាហារកែច្នៃខ្លាំងតិច មានប្រយោជន៍សម្រាប់ស្ថានភាពសុខភាពជាច្រើន ហើយប៉ះពាល់ដល់កត្តាហានិភ័យដូចជាភាពធាត់ ជំងឺទឹកនោមផ្អែម និងសម្ពាធឈាមខ្ពស់ក៏ដោយ។ គណៈកម្មការមិនបានបន្ថែមអាហារូបត្ថម្ភទៅក្នុងបញ្ជី [កត្តាហានិភ័យចំនួន 14](/brain-health/risk-factors/) របស់ខ្លួនទេ។
 
-## What did the 2023 MIND diet trial find?
+## តើការសាកល្បងអាហារូបត្ថម្ភ MIND ឆ្នាំ 2023 បានរកឃើញអ្វីខ្លះ?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+ការសាកល្បងដ៏រឹងមាំបំផុតរហូតមកដល់ពេលនេះ គឺជាការសាកល្បងចៃដន្យដែលបានបោះពុម្ពនៅក្នុង New England Journal of Medicine ក្នុងឆ្នាំ 2023
+([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/))៖
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **អ្នកចូលរួម៖** មនុស្សពេញវ័យចំនួន 604 នាក់អាយុ 65 ឆ្នាំឡើងទៅ នៅតំបន់ Chicago និង Boston ដែលគ្មានបញ្ហាគិត មានសាច់ញាតិជិតស្និទ្ធរស់នៅជាមួយជំងឺវង្វេង មានទម្ងន់លើស ហើយមានទំលាប់អាហារមិនសូវល្អនៅពេលចាប់ផ្តើម។
+- **របៀបធ្វើ៖** រយៈពេលបីឆ្នាំ ពាក់កណ្តាលបានធ្វើតាមអាហារូបត្ថម្ភ MIND និងពាក់កណ្តាលទៀតបានធ្វើតាមអាហារធម្មតារបស់ពួកគេ។ ក្រុមទាំងពីរត្រូវបានស្នើឱ្យបរិភោគកាឡូរីតិចជាងមុនប្រហែល 250 កាឡូរីក្នុងមួយថ្ងៃ ហើយទទួលបានការណែនាំជាទៀងទាត់ពីអ្នកជំនាញផ្នែកអាហារូបត្ថម្ភដែលបានចុះបញ្ជី។
+- **លទ្ធផល៖** លទ្ធផលតេស្តគិតបានប្រសើរឡើងបន្តិចបន្តួចនៅក្នុង **ក្រុមទាំងពីរ**។ ភាពខុសគ្នារវាងក្រុមទាំងពីរគឺតូច ហើយ **មិនមានន័យសំខាន់តាមស្ថិតិ** ទេ។ ការស្កេនខួរក្បាលក៏បង្ហាញការផ្លាស់ប្តូរស្រដៀងគ្នានៅក្នុងក្រុមទាំងពីរដែរ។
+- **ទម្ងន់៖** ក្រុមទាំងពីរបានស្រកទម្ងន់ប្រហែល 5 គីឡូក្រាម (ប្រហែល 11 ផោន)។
 
-### Why might the trial have found no difference?
+### ហេតុអ្វីការសាកល្បងអាចនឹងមិនរកឃើញភាពខុសគ្នា?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+អ្នកស្រាវជ្រាវបានលើកឡើងពីមូលហេតុមួយចំនួន។ ក្រុមបញ្ជាក៏ប្រហែលជាបានធ្វើឱ្យអាហាររបស់ពួកគេប្រសើរឡើងដែរ ដោយសារពួកគេបានស្រកទម្ងន់ស្រដៀងគ្នា។ ការធ្វើតេស្តម្តងហើយម្តងទៀតអាចធ្វើឱ្យលទ្ធផលប្រសើរឡើងដោយខ្លួនឯង ដោយសារមនុស្សស៊ាំនឹងការធ្វើតេស្ត។ រយៈពេលបីឆ្នាំអាចនឹងខ្លីពេក។ អ្នកចូលរួមភាគច្រើនមានការអប់រំខ្ពស់ និងមានជំពូកអឺរ៉ុប ដូច្នេះលទ្ធផលអាចមិនអនុវត្តចំពោះមនុស្សគ្រប់គ្នាទេ។
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+ដូច្នេះ សេចក្តីសង្ខេបដោយស្មោះត្រង់គឺ៖ អាហារូបត្ថម្ភ MIND មិនបានប្រសើរជាងអាហារដែលកាត់បន្ថយកាឡូរីសមរម្យមួយក្នុងរយៈពេលបីឆ្នាំទេ។ នេះមិនមានន័យថាការបរិភោគអាហារដែលមានសុខភាពល្អគ្មានប្រយោជន៍ទេ។ វាមានន័យថា គ្មាននរណាម្នាក់គួររំពឹងថាអាហារូបត្ថម្ភជាក់លាក់ណាមួយអាចការពារជំងឺវង្វេងបានទេ។
 
-## What about specific foods and supplements?
+## ចុះអាហារ និងអាហារបំប៉នជាក់លាក់វិញយ៉ាងដូចម្តេច?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA បញ្ជាក់ថា គ្មានភស្តុតាងថាការបរិភោគ ឬការជៀសវាងអាហារជាក់លាក់ណាមួយអាចការពារជំងឺអាល់ហ្សៃមឺ ឬការថយចុះនៃការគិតដែលទាក់ទងនឹងវ័យបានទេ។ ផ្លែប្លូប៊េរី បន្លែស្លឹកបៃតង និងរមៀត ត្រូវបានសិក្សារួចហើយ ប៉ុន្តែគ្មានភស្តុតាងបញ្ជាក់ទេ។ NIA ក៏បញ្ជាក់ផងដែរថា គ្មានវីតាមីន ឬអាហារបំប៉នណាមួយត្រូវបានបញ្ជាក់ថាអាចការពារជំងឺអាល់ហ្សៃមឺបានទេ ហើយគ្មានអ្វីណាមួយត្រូវបានណែនាំសម្រាប់គោលបំណងនោះទេ។ NIA ព្រមានថា ផលិតផលដែលមិនទាន់បញ្ជាក់ ត្រូវបានលក់ដើម្បីការពារជំងឺអាល់ហ្សៃមឺ អាចមិនមានសុវត្ថិភាព ខ្ជះខ្ជាយប្រាក់ ឬទាំងពីរ ហើយអាចរំខានដល់ថ្នាំដែលវេជ្ជបណ្ឌិតបានចេញវេជ្ជបញ្ជា ដូច្នេះសូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតមុនពេលសាកល្បងអ្វីមួយ
+([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))។
 
-## How can eating stay healthy and enjoyable?
+## តើធ្វើដូចម្តេចដើម្បីឱ្យការបរិភោគនៅតែមានសុខភាពល្អ និងរីករាយ?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+សម្រាប់មនុស្សវ័យចំណាស់ភាគច្រើន គោលបំណងគឺអាហារដែលមានសារធាតុចិញ្ចឹម ស៊ាំ និងរីករាយ មិនមែនជាកម្មវិធីតឹងរឹងមួយទេ៖
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **រៀបចំអាហារជុំវិញអាហារដែលអ្នកចូលចិត្ត** ពីលំនាំមេឌីទែរ៉ាណេ៖ បន្លែ ផ្លែឈើ សណ្តែក ធញ្ញជាតិពេញលេញ ត្រី និងប្រេងអូលីវ។
+- **រក្សាអាហារពិសេសដែលចូលចិត្ត។** ការរីករាយ និងចំណង់អាហារមានសារៈសំខាន់ ជាពិសេសនៅវ័យចំណាស់។
+- **បរិភោគជាមួយអ្នកដទៃ** នៅពេលដែលអាចធ្វើបាន។ អាហាររួមគ្នាគឺជាការចំណាយពេលដ៏ល្អ។
+- **ចម្អិនអាហារជាមួយគ្នា។** ការលាងបន្លែ ឬការកូរអាហារក្នុងឆ្នាំង គឺជាសកម្មភាពរួមគ្នាដ៏ល្អ មើល [កិច្ចការផ្ទះ](/activities/household-tasks/)។ រូបមន្តអាហារគ្រួសារដែលចូលចិត្តក៏អាចជំរុញឱ្យមាន [ការចងចាំឡើងវិញ](/activities/reminiscence/) ផងដែរ។
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+មនុស្សវ័យចំណាស់មិនគួរកាត់បន្ថយកាឡូរី ឬស្រកទម្ងន់ដោយមិនបានពិគ្រោះជាមួយវេជ្ជបណ្ឌិតទេ ហើយការតមអាហារមានហានិភ័យបន្ថែម។ សូមមើល [មគ្គុទ្ទេសក៍អំពីការតមអាហារ](/brain-health/fasting/) របស់យើង។
 
-## How can you help someone with dementia eat well?
+## តើអ្នកអាចជួយអ្នកដែលរស់នៅជាមួយជំងឺវង្វេងឱ្យបរិភោគបានល្អដោយរបៀបណា?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+សម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង ការបរិភោគ និងផឹកទឹកឱ្យបាន **គ្រប់គ្រាន់** ជាធម្មតាគឺជាកង្វល់ចម្បង។ Alzheimer's Association កត់សម្គាល់ថា មនុស្សអាចភ្លេចបរិភោគ គិតថាខ្លួនបានបរិភោគរួចហើយ ឬមានអារម្មណ៍តានតឹងពេកដោយសារមានជម្រើសច្រើន ហើយអាហារូបត្ថម្ភមិនគ្រប់គ្រាន់អាចធ្វើឱ្យរោគសញ្ញាអាកប្បកិរិយាកាន់តែខ្លាំងឡើង និងបណ្តាលឱ្យស្រកទម្ងន់
+([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating))។
+គំនិតទាំងនេះមកពី Alzheimer's Association, NIA និង Alzheimer's Society៖
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **ផ្តល់អាហារដែលអាចចាប់ញ៉ាំដោយដៃ។** អាហារដែលកាត់ជាចំណិតតូចៗងាយចាប់ ដូចជាចំណិតសាំងវិច ចំណិតសាច់មាន់ ដំបងត្រី ចំណិតក្រូច ឬផ្កាខាត់ណាចំហុយ អាចឱ្យមនុស្សម្នាក់បរិភោគដោយខ្លួនឯងដោយមិនចាំបាច់ប្រើសម និងកាំបិត។
+2. **ប្រើពណ៌ផ្ទុយគ្នាលើតុ។** ការផ្លាស់ប្តូរនៃការមើលឃើញអាចធ្វើឱ្យពិបាកក្នុងការបែងចែកអាហារពីចាន។ ចាន ឬចានធំពណ៌សលើកន្លែងទ្រាប់ដែលមានពណ៌ផ្ទុយគ្នាអាចជួយបាន។ ជៀសវាងចាន និងក្រណាត់គ្របតុដែលមានលំនាំ។
+3. **ដាក់អាហារម្តងមួយ ឬពីរប្រភេទក្នុងពេលតែមួយ។** ចានដែលពេញអាចធ្វើឱ្យមានអារម្មណ៍តានតឹង។
+4. **រក្សាពេលបរិភោគឱ្យស្ងប់ស្ងាត់។** បិទទូរទស្សន៍ រក្សាតុឱ្យសាមញ្ញ និងផ្តល់ពេលវេលាឱ្យបានគ្រប់គ្រាន់។ NIA ណែនាំកុំប្រញាប់ ឬរុញច្រាន។
+5. **ផ្តល់អាហារតូចៗ និងអាហារសម្រន់ញឹកញាប់។** NIA ណែនាំឱ្យបរិភោគអាហារតូចៗញឹកញាប់ជាងមុន និងអាហារសម្រន់ដែលមានកាឡូរីខ្ពស់ ប្រសិនបើអ្នកនោះមិនបរិភោគគ្រប់គ្រាន់
+   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well))។
+6. **ជួយក្នុងការផឹកទឹក។** ផ្តល់កែវទឹកតូចៗ ឬភេសជ្ជៈផ្សេងទៀតពេញមួយថ្ងៃ ព្រមទាំងអាហារដែលមានទឹកច្រើនដូចជាផ្លែឈើ ស៊ុប មิลค์សេក និងស្មូទី។ ប្រសិនបើអ្នកនោះមិនចង់ផឹកទឹក NIA ណែនាំឱ្យសាកល្បងទឹកផ្លែឈើ ទឹកមានរសជាតិ ទឹកស៊ុប ទឹកដោះគោ ឬកាហ្វេ ឬតែគ្មានជាតិកាហ្វេអ៊ីន។
+7. **ពិនិត្យសីតុណ្ហភាព។** មនុស្សម្នាក់អាចមិនដឹងថាអាហារ ឬភេសជ្ជៈក្តៅពេក។
+8. **ปรับសម និងកែវឱ្យសមស្រប។** ចានធំជំនួសចានរាប ស្លាបព្រាដែលមានដៃកាន់ធំ និងកែវដែលមានគម្របអាចធ្វើឱ្យការបរិភោគកាន់តែងាយស្រួល។ កុំបារម្ភអំពីភាពស្អាត។
+9. **ធ្វើឱ្យអាហារងាយទំពារ និងងាយលេប។** កាត់អាហារជាចំណិតតូចៗ ឬផ្តល់អាហារទន់។ ប្រសិនបើអ្នកនោះក្អក ឬស្ទះនៅពេលបរិភោគ សូមប្រាប់វេជ្ជបណ្ឌិតរបស់ពួកគេ។
+10. **ជៀសវាងការបង្ខំឱ្យបរិភោគ។** NIA កត់សម្គាល់ថា ចំណង់អាហារថយចុះដោយធម្មជាតិនៅដំណាក់កាលចុងក្រោយនៃជំងឺអាល់ហ្សៃមឺ។
 
-### Signs to tell the doctor about
+### សញ្ញាដែលគួរប្រាប់វេជ្ជបណ្ឌិត
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+ការស្រកទម្ងន់ ការបដិសេធមិនបរិភោគ អារម្មណ៍អស់កម្លាំង ឬទន់ខ្សោយ អាចជាសញ្ញាថាអ្នកនោះមិនបានបរិភោគគ្រប់គ្រាន់។ Alzheimer's Society កត់សម្គាល់ថា ឈឺធ្មេញ ឬធ្មេញជំនួស ជំងឺធ្លាក់ទឹកចិត្ត ទល់លាមក និងការផ្លាស់ប្តូរថ្នាំ ទាំងអស់នេះអាចបន្ថយចំណង់អាហារ
+([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia))។
+សញ្ញានៃការខ្វះទឹកដែល NIA រាយមាន សំបកមាត់ស្ងួត វិលមុខ ចង្វាក់បេះដូងលឿន និងការឃើញរូបភាពមិនពិត
+([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers))។
 
-## Talk with a doctor
+## ពិគ្រោះជាមួយវេជ្ជបណ្ឌិត
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+មុនពេលធ្វើការផ្លាស់ប្តូរធំៗចំពោះអាហាររបស់អ្នកផ្ទាល់ ឬរបស់អ្នកដទៃ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ឬអ្នកជំនាញផ្នែកអាហារូបត្ថម្ភដែលបានចុះបញ្ជី ជាពិសេសប្រសិនបើអ្នកមានជំងឺទឹកនោមផ្អែម ជំងឺតម្រងនោម បញ្ហាការលេប ឬទើបតែស្រកទម្ងន់ថ្មីៗ។ សម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង សូមសួរថាតើពួកគេគួរបរិភោគ និងផឹកទឹកប៉ុន្មានក្នុងមួយថ្ងៃ ហើយថាតើអ្នកជំនាញផ្នែកអាហារូបត្ថម្ភ ឬអាហារបំប៉នអាចជួយបានដែរឬទេ។
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+សូមស្វែងរកជំនួយបន្ទាន់ ប្រសិនបើមាននរណាម្នាក់ស្ទះ ឬមានអาการច្រឡំភ្លាមៗ វិលមុខខ្លាំង ឬសន្លប់។

@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "សកម្មភាពបោះពុម្ពដោយឥតគិតថ្លៃសម្រាប់ជំងឺវង្វេង"
+seoTitle: "សកម្មភាពបោះពុម្ពសម្រាប់ជំងឺវង្វេង អក្សរធំ"
+description: "សកម្មភាពបោះពុម្ពដោយឥតគិតថ្លៃសម្រាប់ជំងឺវង្វេង៖ ស្វែងរកពាក្យអក្សរធំ ទំព័រដាក់ពណ៌ កាតសន្ទនា និងប៊ីងហ្គោរូបភាព ព្រមទាំងគន្លឹះបោះពុម្ព។"
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments ផ្តល់សកម្មភាពបោះពុម្ពដោយឥតគិតថ្លៃសម្រាប់ជំងឺវង្វេង៖
+  ការស្វែងរកពាក្យអក្សរធំ ទំព័រដាក់ពណ៌ កាតសន្ទនារូបភាព និងកាតប៊ីងហ្គោរូបភាព។
+  បើកទំព័រហ្គេមណាមួយ ហើយប្រើប៊ូតុងបោះពុម្ពរបស់វា។ បោះពុម្ពដោយប្រើអក្សរធំ
+  និងច្បាស់លាស់ លើក្រដាសក្រាស់ រក្សាកិច្ចការតែមួយក្នុងមួយទំព័រ ហើយគ្របក្រដាស
+  ដែលអ្នកចង់ប្រើឡើងវិញ។ សម្ភារៈបោះពុម្ពសាមញ្ញដែលធ្វើនៅផ្ទះ ដូចជាទំព័រប្រវត្តិជីវិត
+  ឬកាលវិភាគប្រចាំថ្ងៃ ក៏មានប្រយោជន៍ផងដែរ។
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "សកម្មភាពបោះពុម្ពរបស់យើងគឺឥតគិតថ្លៃ៖ ស្វែងរកពាក្យ ដាក់ពណ៌ កាតសន្ទនា និងប៊ីងហ្គោរូបភាព។ ទំព័រហ្គេមនីមួយៗមានប៊ូតុងបោះពុម្ព។"
+  - "បោះពុម្ពដោយប្រើអក្សរធំ និងច្បាស់លាស់ មានកម្រិតពណ៌ខុសគ្នាច្បាស់ ហើយរក្សាកិច្ចការតែមួយក្នុងមួយទំព័រ។"
+  - "ក្រដាសក្រាស់ ឬក្រដាសកាតុងងាយស្រួលកាន់ និងមិនងាយញ៉ាំញី។ គ្របក្រដាសដើម្បីប្រើឡើងវិញជាមួយប៊ិចលុបបាន។"
+  - "សម្ភារៈបោះពុម្ពសាមញ្ញដែលធ្វើនៅផ្ទះ ដូចជាទំព័រប្រវត្តិជីវិត កាលវិភាគប្រចាំថ្ងៃ ឬស្លាករូបភាពសម្រាប់ទ្វារ គឺមានប្រយោជន៍។"
+  - "ទំព័របោះពុម្ពគឺជាការអញ្ជើញមិនមែនជាកិច្ចការផ្ទះទេ។ ធ្វើបានខ្លះ ឬមិនធ្វើក៏មិនអីដែរ។"
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "តើសកម្មភាពបោះពុម្ពសម្រាប់ជំងឺវង្វេងរបស់អ្នកឥតគិតថ្លៃដែរឬទេ?"
+    a: "បាទ/ចាស។ ទំព័រស្វែងរកពាក្យ ដាក់ពណ៌ កាតសន្ទនា និងប៊ីងហ្គោរូបភាពនៅលើគេហទំព័រនេះ អាចប្រើ និងបោះពុម្ពបានដោយឥតគិតថ្លៃ។ បើកទំព័រហ្គេម ហើយប្រើប៊ូតុងបោះពុម្ព។"
+  - q: "តើសកម្មភាពបោះពុម្ពប្រភេទណាល្អសម្រាប់ជំងឺវង្វេង?"
+    a: "សម្ភារៈបោះពុម្ពដែលល្អគឺសាមញ្ញ ច្បាស់លាស់ និងសមរម្យសម្រាប់មនុស្សពេញវ័យ៖ ការស្វែងរកពាក្យអក្សរធំដែលមានពាក្យតែផ្ដេក និងបញ្ឈរ ទំព័រដាក់ពណ៌ដែលមានគំនូរច្បាស់ កាតរូបភាពដែលជួយចាប់ផ្តើមការសន្ទនា និងប៊ីងហ្គោរូបភាពសម្រាប់ក្រុម។ សូមជ្រើសរើសសកម្មភាពឱ្យសមនឹងចំណាប់អារម្មណ៍ និងសមត្ថភាពបច្ចុប្បន្នរបស់បុគ្គល ហើយរក្សាកិច្ចការតែមួយក្នុងមួយទំព័រ។"
+  - q: "តើខ្ញុំអាចធ្វើឱ្យសម្ភារៈបោះពុម្ពងាយមើល និងងាយប្រើបានដោយរបៀបណា?"
+    a: "ប្រើអក្សរធំ និងច្បាស់លាស់ ពណ៌ទឹកថ្នាំចាស់លើក្រដាសស ឬក្រដាសពណ៌គ្រីម និងទុកចន្លោះឱ្យបានច្រើន។ បោះពុម្ពលើក្រដាសក្រាស់ ឬក្រដាសកាតុងដើម្បីឱ្យទំព័រនៅរាបស្មើ ជ្រើសរើសក្រដាសម៉ាត់ដើម្បីកាត់បន្ថយការឆ្លុះពន្លឺ និងប្រើក្តារក្រដាស ឬកម្រាលមិនរអិលដើម្បីឱ្យទំព័រនៅនឹង។ ការគ្របក្រដាសអាចជួយឱ្យទំព័រមានភាពทนทานជាងមុន។"
+  - q: "តើខ្ញុំអាចបោះពុម្ពសកម្មភាពរបស់អ្នកសម្រាប់មជ្ឈមណ្ឌលថែទាំ ឬកម្មវិធីថ្ងៃបានទេ?"
+    a: "បាន។ បុគ្គលិកសកម្មភាពអាចបោះពុម្ពទំព័ររបស់យើងសម្រាប់អ្នករស់នៅ និងក្រុមបាន។ ប៊ីងហ្គោរូបភាពត្រូវបានរៀបចំសម្រាប់ក្រុម ហើយមានអ្នកអានលើអេក្រង់ដែលអ្នកអាចបង្ហាញនៅលើទូរទស្សន៍ ឬម៉ាស៊ីនបញ្ចាំង។"
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+ពេលខ្លះ សកម្មភាពល្អបំផុតគឺក្រដាសមួយសន្លឹក និងប៊ិចមួយដើមនៅលើតុផ្ទះបាយ។ សម្ភារៈបោះពុម្ពមិនត្រូវការសាកថ្ម មិនត្រូវការពាក្យសម្ងាត់ និងមិនត្រូវការអេក្រង់ទេ ហើយងាយយកទៅក្នុងការមកលេង ឬទៅក្នុងក្រុម។ ទំព័រនេះពន្យល់អំពីសកម្មភាពបោះពុម្ពដោយឥតគិតថ្លៃនៅលើគេហទំព័ររបស់យើង របៀបបោះពុម្ពឱ្យងាយមើល និងងាយកាន់ និងសម្ភារៈបោះពុម្ពសាមញ្ញមួយចំនួនដែលអាចធ្វើនៅផ្ទះ ដែលគ្រួសារ និងបុគ្គលិកសកម្មភាពអាចយល់ថាមានប្រយោជន៍។
 
-## What free printable activities do you offer?
+## តើអ្នកមានសកម្មភាពបោះពុម្ពដោយឥតគិតថ្លៃអ្វីខ្លះ?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+យើងមានសម្ភារៈបោះពុម្ពឥតគិតថ្លៃចំនួនបួន។ បើកទំព័រហ្គេមណាមួយខាងក្រោម ហើយប្រើប៊ូតុង **បោះពុម្ព** ដើម្បីទទួលបានកំណែដែលសមស្របសម្រាប់បោះពុម្ព។
 
-| Printable | What it is | Good for |
+| សម្ភារៈបោះពុម្ព | វាជាអ្វី | សមស្របសម្រាប់ |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [ស្វែងរកពាក្យ](/games/word-search/) | ការស្វែងរកពាក្យអក្សរធំដែលមានពាក្យតែផ្ដេក និងបញ្ឈរប៉ុណ្ណោះ | ពេលស្ងប់ស្ងាត់ជាមួយប៊ិច មនុស្សដែលធ្លាប់ចូលចិត្តល្បែងផ្គុំរូបឬល្បែងពាក្យ |
+| [ដាក់ពណ៌](/games/coloring/) | ទំព័រដាក់ពណ៌សម្រាប់បោះពុម្ព ឬដាក់ពណ៌នៅលើអេក្រង់ | ពេលវេលាស្រួលៗ និងច្នៃប្រឌិត គ្រប់ដំណាក់កាលដោយមានជំនួយ |
+| [កាតសន្ទនា](/games/conversation-cards/) | កាតរូបភាពដែលមានសំណួរបើកចំហសម្រាប់ចាប់ផ្តើមការសន្ទនា តាមប្រធានបទ | ការមកលេង ការហៅទូរសព្ទ អាហារជុំគ្រួសារ ក្រុមរំលឹកអតីតកាល |
+| [ប៊ីងហ្គោរូបភាព](/games/picture-bingo/) | កាតប៊ីងហ្គោដែលប្រើរូបភាពជំនួសលេខ ព្រមទាំងអ្នកអានលើអេក្រង់ | មជ្ឈមណ្ឌលថែទាំ កម្មវិធីថ្ងៃ ការជួបជុំគ្រួសារ |
 
-### Large-print word search
+### ការស្វែងរកពាក្យអក្សរធំ
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[ស្វែងរកពាក្យ](/games/word-search/) ប្រើអក្សរធំ ហើយរក្សាពាក្យឱ្យមានតែផ្ដេក និងបញ្ឈរ គ្មានបន្ទាត់ទ្រេត ឬពាក្យបញ្ច្រាសទេ។ អ្នកអាចធ្វើរួមគ្នា៖ មនុស្សម្នាក់អានពាក្យពីបញ្ជី ម្នាក់ទៀតស្វែងរកវា។ ប្រសិនបើការស្វែងរកពាក្យពិបាក សូមសាកល្បងគូសរង្វង់អក្សរដំបូងនៃពាក្យនីមួយៗជាមួយគ្នា ឬគ្រាន់តែអានបញ្ជីពាក្យឱ្យឮៗ ហើយនិយាយអំពីពាក្យនីមួយៗ។
 
-### Coloring pages
+### ទំព័រដាក់ពណ៌
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+ទំព័រ [ដាក់ពណ៌](/games/coloring/) អាចបោះពុម្ពសម្រាប់ប្រើជាមួយប៊ិចម៉ាកឺ ឬខ្មៅដៃពណ៌ ឬដាក់ពណ៌នៅលើថេប្លេតដោយចុចជ្រើសរើសពណ៌ រួចចុចលើផ្នែកនៃរូបភាព។ សម្រាប់ទំព័រដែលបោះពុម្ព សូមផ្តល់ប៊ិចម៉ាកឺក្រាស់ និងពណ៌ពីរបីក្នុងពេលតែមួយ។ សូមមើល [មគ្គុទ្ទេសក៍សិល្បៈ និងសិប្បកម្ម](/activities/arts-and-crafts/) របស់យើងសម្រាប់វិធីរក្សាការដាក់ពណ៌ឱ្យសមរម្យសម្រាប់មនុស្សពេញវ័យ និងស្រួលៗ។
 
-### Conversation cards
+### កាតសន្ទនា
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[កាតសន្ទនា](/games/conversation-cards/) ផ្គូផ្គងរូបភាពច្បាស់លាស់ជាមួយសំណួរបើកចំហ ដូចជា "សូមប្រាប់ខ្ញុំអំពី..." ឬ "តើអ្នកកត់សម្គាល់ឃើញអ្វីខ្លះ?" សំណួរទាំងនេះត្រូវបានសរសេរជាការអញ្ជើញបើកចំហ មិនមែនជាសំណួរសាកល្បងចម្លើយទេ។ បោះពុម្ពមួយឈុត កាត់វាចេញ ហើយរក្សាពីរបីសន្លឹកក្នុងកាបូបសម្រាប់ការមកលេង ឬទុកនៅជិតទូរសព្ទសម្រាប់ការហៅទូរសព្ទ។ វាក៏សមស្របសម្រាប់ក្រុម [រំលឹកអតីតកាល](/activities/reminiscence/) ផងដែរ។
 
-### Picture bingo cards
+### កាតប៊ីងហ្គោរូបភាព
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+កាត [ប៊ីងហ្គោរូបភាព](/games/picture-bingo/) ប្រើរូបភាពជំនួសលេខ។ បោះពុម្ពកាតមួយសន្លឹកសម្រាប់អ្នកលេងម្នាក់ៗ ហើយប្រើអ្នកអានលើអេក្រង់នៅលើកុំព្យូទ័រយួរដៃ ទូរទស្សន៍ ឬម៉ាស៊ីនបញ្ចាំង។ យើងសូមណែនាំឱ្យអានរហូតដល់កាតរបស់គ្រប់គ្នាពេញ ដើម្បីកុំឱ្យមានអ្នកណាម្នាក់មានអារម្មណ៍ថាត្រូវបានទុកចោល។ សូមមើល [សកម្មភាពជាក្រុមសម្រាប់មជ្ឈមណ្ឌលថែទាំ](/activities/care-home-groups/) សម្រាប់របៀបរៀបចំសកម្មភាពនេះ។
 
-## How do I print activities so they are easy to use?
+## តើខ្ញុំគួរបោះពុម្ពសកម្មភាពយ៉ាងដូចម្តេចឱ្យងាយប្រើ?
 
-Small changes in how you print make a big difference.
+ការផ្លាស់ប្តូរតូចៗក្នុងរបៀបបោះពុម្ពអាចធ្វើឱ្យមានភាពខុសគ្នាខ្លាំង។
 
-### Make it easy to see
+### ធ្វើឱ្យងាយមើល
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **អក្សរធំ និងច្បាស់លាស់។** ប្រើការកំណត់បោះពុម្ពធំបំផុតដែលនៅតែសមនឹងទំព័រ។ ជៀសវាងពុម្ពអក្សរដែលមានរចនាច្រើន ឬសរសេរជាប់គ្នា។
+- **កម្រិតពណ៌ខុសគ្នាច្បាស់។** ទឹកថ្នាំចាស់លើក្រដាសស ឬក្រដាសពណ៌គ្រីម។ កុំប្រើផ្ទៃខាងក្រោយពណ៌ប្រផេះស្រាល ឬពណ៌ច្រើន។
+- **ក្រដាសម៉ាត់** អាចកាត់បន្ថយការឆ្លុះពន្លឺនៅក្រោមពន្លឺខ្លាំង។
+- **ពិនិត្យវ៉ែនតា និងពន្លឺ។** Alzheimer's Association កត់សម្គាល់ថាបញ្ហាចក្ខុវិស័យ និងការស្តាប់អាចធ្វើឱ្យការទំនាក់ទំនងពិបាកជាងមុន ហើយណែនាំឱ្យពិនិត្យជាប្រចាំ។ ពន្លឺភ្លើងដែលភ្លឺ និងស្មើគ្នាក៏មានប្រយោជន៍ផងដែរ។
 
-### Make it easy to hold
+### ធ្វើឱ្យងាយកាន់
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **ក្រដាសក្រាស់ ឬក្រដាសកាតុង** នៅរាបស្មើ งាយចាប់យក និងทนทานសម្រាប់ការប្រើប្រាស់ម្តងហើយម្តងទៀត។
+- **ក្តារក្រដាស** ឬកម្រាលមិនរអិលអាចជួយឱ្យទំព័រមិនរអិល។
+- **ប៊ិចម៉ាកឺក្រាស់ ឬខ្មៅដៃក្រាស់** งាយកាន់ជាងប៊ិចស្តើងៗ។
 
-### Make it reusable
+### ធ្វើឱ្យប្រើឡើងវិញបាន
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **គ្របក្រដាស** ឬដាក់វាក្នុងស្រោមប្លាស្ទិកថ្លា។ ប្រើប៊ិចលុបបានលើការស្វែងរកពាក្យ និងកាតប៊ីងហ្គោ រួចលុបសម្អាតវិញ។
+- **ជ្រើសរើសស្រោមគ្របម៉ាត់** ប្រសិនបើមានបញ្ហាការឆ្លុះពន្លឺ ហើយ **កាត់ជ្រុងឱ្យមូល** នៃកាតដែលបានគ្រប ដើម្បីឱ្យងាយកាន់។
+- **រក្សាថតឯកសារ** នៃទំព័រដែលចូលចិត្ត ដើម្បីកុំឱ្យអ្នកត្រូវបោះពុម្ពទំព័រដដែលៗរៀងរាល់សប្តាហ៍។
 
-### Keep it simple
+### រក្សាឱ្យសាមញ្ញ
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **កិច្ចការតែមួយក្នុងមួយទំព័រ។** ការស្វែងរកពាក្យមួយ ឬរូបភាពមួយ មិនមែនសកម្មភាពច្រើនដាក់រួមគ្នាក្នុងទំព័រតែមួយទេ។
+- **ទុកចន្លោះទទេឱ្យគ្រប់គ្រាន់។** ទំព័រដែលមានរបស់ច្រើនពេកអាចធ្វើឱ្យមានអារម្មណ៍លើសលប់។
+- **កុំឱ្យមានសេចក្តីណែនាំច្រើនសម្រាប់អាន** ប្រសិនបើអាចធ្វើបាន។ សូមបង្ហាញបុគ្គលនោះថាត្រូវធ្វើដូចម្តេចជំនួសវិញ។
+- **កាត់ទំព័រ។** ប្រសិនបើទំព័រពេញពិបាកពេក សូមកាត់វាជាពាក់កណ្តាល ឬបត់វាដើម្បីឱ្យបង្ហាញតែផ្នែកមួយ។
 
-## Other useful printables you can make at home
+## សម្ភារៈបោះពុម្ពមានប្រយោជន៍ផ្សេងទៀតដែលអ្នកអាចធ្វើនៅផ្ទះ
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+មិនមែនសម្ភារៈបោះពុម្ពដែលមានប្រយោជន៍ទាំងអស់ជាល្បែងទេ។ សម្ភារៈទាំងនេះងាយធ្វើដោយប្រើកម្មវិធីវាយអត្ថបទ និងម៉ាស៊ីនបោះពុម្ព។
 
-### A life-story page
+### ទំព័រប្រវត្តិជីវិត
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+សន្លឹក "អំពីខ្ញុំ" មួយទំព័រ ដែលមានរូបថត ឈ្មោះដែលបុគ្គលនោះចូលចិត្តឱ្យគេហៅ ទីកន្លែងដែលគាត់ធំឡើង ការងារ គ្រួសារ អាហារដែលចូលចិត្ត តន្ត្រី និងរឿងដែលធ្វើឱ្យគាត់មានអារម្មណ៍ល្អ ឬមិនស្រួល។ Dementia Australia សូមណែនាំឱ្យមាន [សៀវភៅអនុស្សាវរីយ៍](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ដែលមានព័ត៌មានអំពីជីវិត ចំណូលចិត្ត និងមនុស្សសំខាន់ៗរបស់បុគ្គលនោះ ដើម្បីជួយអ្នកមកលេង និងអ្នកថែទាំ និងជួយចាប់ផ្តើមការសន្ទនា។
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+វាមានប្រយោជន៍ជាពិសេសនៅមន្ទីរពេទ្យ និងកន្លែងថែទាំថ្មីៗ។ NIA សូមណែនាំឱ្យផ្តល់ [សន្លឹកព័ត៌មានផ្ទាល់ខ្លួន](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ដល់បុគ្គលិកមន្ទីរពេទ្យ ដែលមានព័ត៌មានអំពីទម្លាប់ប្រចាំថ្ងៃ ឈ្មោះដែលចូលចិត្ត ចំណូលចិត្ត និងអ្វីដែលមិនចូលចិត្ត អ្វីដែលអាចបង្កឱ្យមានការភ័យតក់ស្លុត និងសញ្ញាឈឺចាប់ដែលមិនប្រើពាក្យ។
 
-### A daily schedule
+### កាលវិភាគប្រចាំថ្ងៃ
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+កាលវិភាគប្រចាំថ្ងៃដ៏សាមញ្ញ និងច្បាស់លាស់ ដែលមានម៉ោង ពាក្យពីរបី និងរូបភាពតូចមួយសម្រាប់ផ្នែកនីមួយៗ៖ អាហារពេលព្រឹក ដើរលំហែ អាហារថ្ងៃត្រង់ សម្រាក តន្ត្រី អាហារពេលល្ងាច។ [ផែនការថែទាំប្រចាំថ្ងៃ](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) របស់ Alzheimer's Association សូមណែនាំឱ្យរៀបចំផែនការជុំវិញពេលវេលាដែលបុគ្គលនោះមានសមត្ថភាពល្អបំផុតក្នុងថ្ងៃ ដោយមានម៉ោងភ្ញាក់ និងម៉ោងគេងទៀងទាត់ និងមានតុល្យភាពរវាងសកម្មភាព និងការសម្រាក។ បិទវានៅកម្រិតភ្នែក ជាឧទាហរណ៍នៅលើទូទឹកកក ហើយរក្សាភាពបត់បែន។ សូមមើល [មគ្គុទ្ទេសក៍ទម្លាប់ប្រចាំថ្ងៃ](/activities/daily-routine/) របស់យើងសម្រាប់ព័ត៌មានបន្ថែម។
 
-### Picture labels for rooms and drawers
+### ស្លាករូបភាពសម្រាប់បន្ទប់ និងថត
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA សូមណែនាំឱ្យប្រើស្លាកពណ៌ច្បាស់ ឬរូបភាពសាមញ្ញដើម្បី [ដាក់ស្លាកបន្ទប់ទឹក បន្ទប់គេង និងផ្ទះបាយ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips)។ គំនិតដូចគ្នានេះអាចប្រើសម្រាប់ថត និងទូផងដែរ៖ រូបភាពស្រោមជើងនៅលើថតស្រោមជើង រូបភាពពែងនៅលើទូពែង។ បោះពុម្ព គ្របក្រដាស ហើយបិទវា។
 
-### A sorting set
+### ឈុតតម្រៀប
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+បោះពុម្ពរូបភាពពីប្រភេទសាមញ្ញពីរ ដូចជាផ្លែឈើ និងផ្កា ឬឧបករណ៍ និងវត្ថុក្នុងផ្ទះបាយ លើក្រដាសកាតុង។ កាត់វាចេញ ហើយតម្រៀបវាចូលក្នុងកន្ត្រកពីរជាមួយគ្នា។ កំណែលើអេក្រង់នៃសកម្មភាពនេះគឺ [តម្រៀបជាមួយគ្នា](/games/sort-together/)។
 
-### Song lyric sheets
+### សន្លឹកចម្រៀង
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+បោះពុម្ពពាក្យចម្រៀងដែលចូលចិត្តមួយចំនួនដោយប្រើអក្សរធំខ្លាំងៗសម្រាប់ច្រៀងជាមួយគ្នា។ សូម្បីតែមនុស្សដែលមិនសូវអានច្រើនទៀតក៏អាចរីករាយក្នុងការកាន់សន្លឹកនោះដែរ។
 
-### A family photo page
+### ទំព័ររូបថតគ្រួសារ
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+ទំព័រមួយដែលមានរូបថតគ្រួសារធំៗពីរបួនទៅប្រាំមួយសន្លឹក ដែលនីមួយៗមានឈ្មោះខាងក្រោម។ វាអាចដាក់នៅលើតុឱ្យអ្នកណាក៏អាចយកមកមើល និងនិយាយអំពីបាន។ ស្លាកឈ្មោះអាចជួយអ្នកមកលេង និងបុគ្គលិកឱ្យចូលរួមក្នុងការសន្ទនា ហើយមិនចាំបាច់ឱ្យអ្នកណាម្នាក់សួរថា "តើនេះជានរណា?" ទេ។
 
-### A recipe card
+### កាតរូបមន្តម្ហូប
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+បោះពុម្ពរូបមន្តម្ហូបគ្រួសារដែលចូលចិត្តដោយប្រើអក្សរធំ។ អ្នកអាចប្រើវាដើម្បីចំអិនជាមួយគ្នា ឬគ្រាន់តែនិយាយអំពីអាហារពីអតីតកាល។
 
-## How do I offer a printable without it feeling like homework?
+## តើខ្ញុំអាចណែនាំសម្ភារៈបោះពុម្ពដោយមិនឱ្យវាមានអារម្មណ៍ដូចជាកិច្ចការផ្ទះបានដូចម្តេច?
 
-Present it as something to share, not a test.
+សូមបង្ហាញវាជាអ្វីមួយដែលត្រូវធ្វើរួមគ្នា មិនមែនជាការសាកល្បងទេ។
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **អង្គុយចុះ ហើយចាប់ផ្តើមធ្វើដោយខ្លួនអ្នកជាមុន។** "ខ្ញុំកំពុងធ្វើការស្វែងរកពាក្យនេះ។ ចង់ជួយខ្ញុំរកពាក្យ 'garden' ទេ?"
+- **ធ្វើរួមគ្នា។** ធ្វើម្តងម្នាក់ៗ ឬម្នាក់ស្វែងរក ម្នាក់ទៀតគូសរង្វង់។
+- **កុំដាក់សញ្ញាថាត្រូវ ឬខុស។** មគ្គុទ្ទេសក៍ [សកម្មភាពនៅផ្ទះ](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) របស់ Alzheimer's Association ណែនាំឱ្យផ្តោតលើដំណើរការ មិនមែនលទ្ធផលទេ ហើយផ្តោតលើការរីករាយជាជាងសមិទ្ធផល។
+- **ទុកទំព័រនៅទីនោះ។** មគ្គុទ្ទេសក៍ដដែលណែនាំឱ្យដាក់សៀវភៅកាត់ក្រដាស អាល់ប៊ុមរូបថត ឬទស្សនាវដ្តីចាស់ៗនៅកន្លែងដែលងាយหยิบ។ កាតបោះពុម្ព និងទំព័ររូបថតក៏អាចដាក់នៅលើតុតូចតាមរបៀបដូចគ្នា។
+- **ឈប់នៅពេលណាក៏បានដែលអ្នកចង់។** ដាក់ពណ៌បានពាក់កណ្តាលទំព័រក៏ជាពេលវេលាល្អមួយល្ងាចដែរ។ ការដាក់ទំព័រចោល ហើយផឹកតែមួយពែងក៏មិនអីដែរ។
 
-## Where to find more
+## កន្លែងស្វែងរកបន្ថែម
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+សូមមើល [ហ្គេម និងសម្ភារៈបោះពុម្ព](/games/) ទាំងអស់របស់យើង ឬមើល [សកម្មភាពសម្រាប់គ្រប់ដំណាក់កាល](/activities/ideas/) សម្រាប់គំនិតបន្ថែម ទាំងមាន និងគ្មានក្រដាស។

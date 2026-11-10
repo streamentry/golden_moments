@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "នៅពេលអ្នករស់នៅជាមួយជំងឺវង្វេងសួរសំណួរដដែលៗ"
+seoTitle: "ជំងឺវង្វេងសួរដដែលៗ៖ គួរនិយាយ និងធ្វើដូចម្តេច"
+description: "មូលហេតុដែលអ្នករស់នៅជាមួយជំងឺវង្វេងសួរដដែលៗ វិធីឆ្លើយតបដោយស្ងប់ ឧបករណ៍សាមញ្ញដែលអាចជួយ និងពេលណាដែលការផ្លាស់ប្តូរភ្លាមៗត្រូវទៅជួបវេជ្ជបណ្ឌិត។"
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  ការសួរសំណួរដដែលៗគឺជារឿងធម្មតានៅក្នុងជំងឺវង្វេង៖ ជាទូទៅអ្នកនោះមិនចាំថា
+  បានសួរហើយទេ ហើយសំណួរនោះជាញឹកញាប់កំពុងបង្ហាញពីការព្រួយបារម្ភ។ សូមឆ្លើយ
+  ដោយស្ងប់ និងខ្លីៗដូចជាលើកដំបូង ឆ្លើយតបទៅនឹងអារម្មណ៍ដែលនៅពីក្រោយសំណួរ
+  ហើយកុំប្រាប់ថា «អ្នកបានសួរហើយ»។ សរសេរចម្លើយនៅកន្លែងដែលគាត់អាចមើលឃើញ
+  ប្រាប់អំពីព្រឹត្តិការណ៍មុនពេលកើតឡើងបន្តិចប៉ុណ្ណោះ និងសូមណែនាំសកម្មភាពដែលគាត់
+  ចូលចិត្ត។ បើមានការផ្លាស់ប្តូរភ្លាមៗ សូមទៅជួបវេជ្ជបណ្ឌិត។
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "ជាទូទៅអ្នកនោះមិនចាំថាបានសួរហើយទេ វាមិនមែនធ្វើដោយចេតនាទេ។"
+  - "សំណួរនោះជាញឹកញាប់លាក់បាំងអារម្មណ៍មួយ ដូចជាការព្រួយបារម្ភអំពីការណាត់ជួប ឬចង់មានអារម្មណ៍សុវត្ថិភាព។"
+  - "សូមឆ្លើយដោយស្ងប់ ខ្លីៗ និងដោយក្តីគួរសម ដូចជាវាជាលើកដំបូង។ កុំប្រាប់ថា «អ្នកបានសួរហើយ»។"
+  - "ក្រដាសសរសេរ ក្តារខៀន នាឡិកា ឬប្រតិទិនដែលដាក់នៅកន្លែងមើលឃើញអាចជួយឆ្លើយសំណួរជំនួសអ្នកបាន។"
+  - "សូមប្រាប់អំពីព្រឹត្តិការណ៍ដែលអាចបង្កភាពតានតឹងមុនពេលវាកើតឡើងបន្តិចប៉ុណ្ណោះ។"
+  - "សូមសម្រាកបន្តិចនៅពេលអ្នកត្រូវការ ហើយទូរស័ព្ទទៅវេជ្ជបណ្ឌិតប្រសិនបើមានការផ្លាស់ប្តូរភ្លាមៗ។"
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "ហេតុអ្វីបានជាឪពុកខ្ញុំដែលរស់នៅជាមួយជំងឺវង្វេងនៅតែសួរសំណួរដដែលៗ?"
+    a: "ជំងឺវង្វេងប៉ះពាល់ដល់ការចងចាំរយៈពេលខ្លី ដូច្នេះគាត់អាចមិនចាំថាបានសួរ ឬបានឮចម្លើយពិតប្រាកដ។ ជាញឹកញាប់សំណួរនោះក៏បង្ហាញពីអារម្មណ៍មួយផងដែរ ដូចជាការព្រួយបារម្ភអំពីអ្វីដែលនឹងកើតឡើងបន្ទាប់ ឬត្រូវការការធានាថាមានសុវត្ថិភាព។ ការឆ្លើយតបទៅនឹងអារម្មណ៍នោះជាទូទៅអាចជួយបានច្រើនជាងការនិយាយម្តងហើយម្តងទៀតអំពីព័ត៌មាន។"
+  - q: "តើខ្ញុំគួរប្រាប់គាត់ថាគាត់បានសួរហើយឬទេ?"
+    a: "មិនគួរទេ។ វាមិនអាចជួយគាត់ឱ្យចាំបានទេ ហើយអាចធ្វើឱ្យគាត់មានអារម្មណ៍ដូចជាកំពុងត្រូវបានរិះគន់។ អង្គការពាក់ព័ន្ធនឹងជំងឺវង្វេងណែនាំឱ្យឆ្លើយដោយស្ងប់រាល់ពេល ដូចជាលើកដំបូង ហើយរក្សាចម្លើយឱ្យខ្លី។"
+  - q: "តើការសរសេរចម្លើយចុះអាចជួយបានទេ?"
+    a: "វាអាចជួយបាន នៅពេលដែលអ្នកនោះនៅតែអាចអានបាន។ ក្រដាសសរសេរ ក្តារខៀនដែលមានផែនការប្រចាំថ្ងៃ នាឡិកាធំ ឬប្រតិទិនដែលដាក់នៅកន្លែងដែលគាត់មើលញឹកញាប់ អាចឱ្យគាត់ពិនិត្យចម្លើយដោយខ្លួនឯងបាន។ សូមចង្អុលទៅកាន់វាដោយសុភាព ជាជាងនិយាយថា «ខ្ញុំបានប្រាប់អ្នកហើយ»។"
+  - q: "តើខ្ញុំគួរនិយាយអំពីការណាត់ជួប ឬការចេញទៅក្រៅនៅពេលណា?"
+    a: "នៅពេលជិតដល់ម៉ោង។ ការនិយាយអំពីការទៅជួបវេជ្ជបណ្ឌិត ឬការធ្វើដំណើរមុនច្រើនថ្ងៃ អាចបង្កឱ្យមានសំណួរដែលពោរពេញដោយការព្រួយបារម្ភរយៈពេលជាច្រើនម៉ោង។ សូមប្រាប់គាត់មុនពេលបន្តិចដោយស្ងប់ និងពន្យល់អំពីអ្វីដែលនឹងកើតឡើងបន្ទាប់។"
+  - q: "តើការសួរដដែលៗនៅពេលណាដែលគួរហៅទៅវេជ្ជបណ្ឌិត?"
+    a: "ប្រសិនបើសំណួរ ភាពច្របូកច្របល់ ឬអាកប្បកិរិយាផ្លាស់ប្តូរភ្លាមៗ ឬកាន់តែអាក្រក់ឡើងក្នុងរយៈពេលប៉ុន្មានម៉ោង ឬប៉ុន្មានថ្ងៃ សូមទូរស័ព្ទទៅវេជ្ជបណ្ឌិតរបស់គាត់ភ្លាមៗ។ ការឆ្លងមេរោគ ថ្នាំថ្មី ការឈឺចាប់ ការទល់លាមក ឬការខ្វះទឹកក្នុងខ្លួនអាចបង្កឱ្យមានភាពច្របូកច្របល់ភ្លាមៗដែលហៅថា delirium ដែលត្រូវការការថែទាំឆាប់រហ័ស។"
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+«ទៅជួបវេជ្ជបណ្ឌិតម៉ោងប៉ុន្មាន?» ដប់នាទីក្រោយមក៖ «ទៅជួបវេជ្ជបណ្ឌិតម៉ោងប៉ុន្មាន?» ការស្តាប់សំណួរដដែលៗម្តងហើយម្តងទៀត គឺជារឿងដែលធ្វើឱ្យហត់នឿយបំផុតមួយយ៉ាងនៅពេលថែទាំអ្នកដែលរស់នៅជាមួយជំងឺវង្វេង។ វាជារឿងធម្មតាណាស់ មិនមែនធ្វើដោយចេតនាទេ ហើយមានវិធីឆ្លើយតបដោយស្ងប់ដែលអាចធ្វើឱ្យថ្ងៃរបស់អ្នកទាំងពីរងាយស្រួលជាងមុន។
 
-## Why does someone with dementia ask the same question over and over?
+## ហេតុអ្វីបានជាអ្នករស់នៅជាមួយជំងឺវង្វេងសួរសំណួរដដែលៗ?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+ភាគច្រើនគឺដោយសារការចងចាំ។ ជំងឺវង្វេងប៉ះពាល់ដល់ការចងចាំរយៈពេលខ្លី ដូច្នេះជាញឹកញាប់អ្នកនោះមិនចាំថាបានសួរ ឬមិនចាំចម្លើយ។ [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) បង្ហាញថាការសួរសំណួរច្រើនដងគឺជារឿងធម្មតា និងអាចរំពឹងទុកបាន។
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+ជាញឹកញាប់សំណួរនោះក៏បង្ហាញពីអារម្មណ៍មួយផងដែរ។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ពន្យល់ថាសំណួរដែលសួរដដែលៗអាចបង្ហាញពីការព្រួយបារម្ភ ការសុំជំនួយ ឬអារម្មណ៍មិនស្ងប់ និងអសុវត្ថិភាព ហើយជាញឹកញាប់អ្នកនោះកំពុងស្វែងរកការលួងលោម និងអារម្មណ៍ quen quen។ «តើយើងនឹងទៅនៅពេលណា?» អាចមានន័យថា «ខ្ញុំមានអារម្មណ៍ព្រួយបារម្ភអំពីការទៅនោះ»។ អារម្មណ៍ធុញទ្រាន់ ការភ័យខ្លាច សំឡេងរំខាន និងការផ្លាស់ប្តូរទម្លាប់ប្រចាំថ្ងៃទាំងអស់នេះអាចជាមូលហេតុបាន ហើយសំណួរដែលសួរដដែលៗក៏អាចបង្ហាញពីតម្រូវការមួយដែរ ដូចជាចង់ទៅបន្ទប់ទឹក ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/))។
 
-## What should I say?
+## តើខ្ញុំគួរនិយាយអ្វី?
 
-Answer calmly and briefly, as if it were the first time.
+សូមឆ្លើយដោយស្ងប់ និងខ្លីៗ ដូចជាវាជាលើកដំបូង។
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **រក្សាចម្លើយឱ្យខ្លី និងដដែល។** «ទៅជួបវេជ្ជបណ្ឌិតម៉ោងពីរ។ ខ្ញុំនឹងនៅជាមួយអ្នក។» ចម្លើយដែលស្របគ្នាងាយស្រួលទទួលយកជាង។
+- **ឆ្លើយតបទៅនឹងអារម្មណ៍។** «អ្នកកំពុងគិតអំពីការជួបវេជ្ជបណ្ឌិត។ វានៅរសៀលនេះ ហើយខ្ញុំនឹងបើកបរយើងទៅ។ អ្នកមិនចាំបាច់ធ្វើអ្វីទេ។»
+- **ប្រើសំឡេងកម្សាន្ត និងការប៉ះដោយទន់ភ្លន់** ប្រសិនបើគាត់ចូលចិត្តការប៉ះ។ Alzheimer's Association ណែនាំឱ្យរក្សាភាពស្ងប់ និងកុំប្រើហេតុផលវែកញែក ឬឈ្លោះប្រកែក។
+- **ផ្តល់ចម្លើយដែលគាត់កំពុងស្វែងរក** តាមដែលចាំបាច់។ Alzheimer's Association ប្រាប់ឱ្យនិយាយម្តងទៀតរាល់ពេលដែលគាត់សួរ។
 
-## What should I avoid?
+## តើខ្ញុំគួរជៀសវាងអ្វីខ្លះ?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **«អ្នកបានសួរខ្ញុំរឿងនោះហើយ។»** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ណែនាំកុំឱ្យចង្អុលបង្ហាញថាគាត់ទើបតែបានសួរ។ វាមិនអាចជួយគាត់ឱ្យចាំបានទេ ហើយអាចធ្វើឱ្យគាត់មានអារម្មណ៍ដូចជាកំពុងត្រូវបានស្តីបន្ទោស។
+- **ការពន្យល់វែងៗ។** ពាក្យច្រើនមានន័យថាមានរឿងច្រើនដែលត្រូវបំភ្លេច។
+- **ការដកដង្ហើមធំ ការក្រឡេកភ្នែក ឬសំឡេងរឹង។** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ណែនាំឱ្យអត់ធ្មត់ និងកុំបង្ហាញការខឹង។ វាពិបាកណាស់ សូមមើលផ្នែកអំពីការសម្រាកខាងក្រោម។
 
-## Simple tools that answer the question for you
+## ឧបករណ៍សាមញ្ញដែលជួយឆ្លើយសំណួរជំនួសអ្នក
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+នៅពេលដែលអ្នកនោះនៅតែអាចអានបាន ចម្លើយដែលសរសេរទុកឱ្យគាត់មើលឃើញជាញឹកញាប់អាចជួយបានច្រើនជាងចម្លើយដែលនិយាយ។
 
-| Tool | How to use it |
+| ឧបករណ៍ | របៀបប្រើ |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| ក្រដាសសរសេរអក្សរធំៗ | «ទៅជួបវេជ្ជបណ្ឌិតថ្ងៃនេះម៉ោង 2 រសៀល។ Mary នឹងបើកបរ។» ដាក់វានៅកន្លែងដែលគាត់មើលញឹកញាប់បំផុត |
+| ក្តារខៀន | ផែនការថ្ងៃនេះចំនួនបី ឬបួនបន្ទាត់ លុបហើយសរសេរថ្មីរាល់ព្រឹក |
+| នាឡិកាធំដែលមានថ្ងៃ និងកាលបរិច្ឆេទ | ជួយឆ្លើយសំណួរដូចជា «ថ្ងៃនេះថ្ងៃអ្វី?» និង «ដល់ម៉ោងហើយឬនៅ?» |
+| ប្រតិទិន | គូសឆូតរាល់ថ្ងៃ និងគូសរង្វង់ថ្ងៃណាត់ជួបបន្ទាប់ |
+| រូបថតquen quen | រូបថតរបស់អ្នកដែលនឹងមកអាចឆ្លើយសំណួរថា «អ្នកណានឹងមកលេង?» |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+គំនិតទាំងនេះមកពី [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) និង [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf)។ សូមចង្អុលទៅក្រដាសសរសេរដោយសុភាព («តោះមើលក្តារជាមួយគ្នា») ជាជាងនិយាយថា «ខ្ញុំបានសរសេរទុកឱ្យអ្នកហើយ»។
 
-## Tell them about events close to the time
+## ប្រាប់អំពីព្រឹត្តិការណ៍នៅពេលជិតដល់ម៉ោង
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+ការនិយាយអំពីការណាត់ជួប ឬការចេញទៅក្រៅមុនច្រើនថ្ងៃ អាចបង្កឱ្យមានសំណួរដែលពោរពេញដោយការព្រួយបារម្ភរយៈពេលជាច្រើនម៉ោង។ Family Caregiver Alliance និង Alzheimer's Los Angeles ទាំងពីរណែនាំឱ្យនិយាយអំពីផែនការ ជាពិសេសផែនការដែលអាចបង្កភាពតានតឹងដូចជាការទៅជួបវេជ្ជបណ្ឌិត ឬការងូតទឹក មុនពេលវាកើតឡើងបន្តិចប៉ុណ្ណោះ។ បន្ទាប់មកសូមពន្យល់អំពីអ្វីដែលនឹងកើតឡើងបន្ទាប់ ម្តងមួយជំហានៗ។
 
-## Activities that can shift attention
+## សកម្មភាពដែលអាចជួយប្តូរអារម្មណ៍
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+បន្ទាប់ពីអ្នកបានឆ្លើយ និងទទួលស្គាល់អារម្មណ៍របស់គាត់រួចហើយ សកម្មភាពស្ងប់ស្ងាត់ និងរីករាយអាចជួយបាន ជាពិសេសប្រសិនបើការធុញទ្រាន់ជាមូលហេតុនៃសំណួរទាំងនោះ។ ប្រភពទាំងអស់ខាងលើណែនាំឱ្យបង្វែរទៅសកម្មភាពដែលអ្នកនោះចូលចិត្ត។
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **លេងហ្គេមខ្លីៗ និងងាយស្រួលជាមួយគ្នា។** [Picture pairs](/games/picture-pairs/) បង្ហាញរូបភាពនៅលើអេក្រង់ ដូច្នេះមិនចាំបាច់ចងចាំអ្វីទេ។
+2. **ការងារquen quenមួយ។** បត់កន្សែង តម្រៀបស្រោមជើង ឬរៀបចំតុ។ [Sort together](/games/sort-together/) គឺជាជម្រើសលើអេក្រង់។
+3. **និយាយអំពីរឿងដែលគាត់ចូលចិត្ត។** [Conversation cards](/games/conversation-cards/) ផ្តល់សំណួរបើកចំហដោយគ្មានចម្លើយត្រូវ ឬខុស។
+4. **តន្ត្រី ការដើរលេង ឬអាហារសម្រន់។** National Institute on Aging រាប់បញ្ចូលរឿងទាំងនេះជាវិធីសាមញ្ញក្នុងការបង្វែរការយកចិត្តទុកដាក់។
+5. **ការសម្រាកស្ងប់ស្ងាត់មួយ។** អង្គុយជាមួយគ្នា មើលទៅក្រៅបង្អួច ឬសាកល្បង [calm breathing](/games/calm-breathing/) ជាមួយគ្នា។
 
-If they return to the question, answer it again, kindly. That is fine.
+ប្រសិនបើគាត់ត្រឡប់មកសួរសំណួរដដែលម្តងទៀត សូមឆ្លើយម្តងទៀតដោយក្តីសប្បុរស។ វាមិនអីទេ។
 
-## Look for patterns
+## សង្កេតមើលគំរូនៃការសួរ
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association ណែនាំឱ្យសង្កេតមើលថាតើសំណួរទាំងនោះកើតឡើងនៅម៉ោងណាមួយ ជាមួយមនុស្សណាមួយ ឬនៅកន្លែងណាមួយឬទេ។ ប្រសិនបើសំណួរចាប់ផ្តើមរាល់ពេលមុនភ្ញៀវមកដល់ ឬនៅរសៀលយឺត អ្នកអាចរៀបចំជាមុនបាន៖ ក្រដាសសរសេរអំពីការមកលេង សកម្មភាពquen quenដែលត្រៀមរួចរាល់ បន្ទប់ដែលស្ងប់ជាងមុន។ មគ្គុទ្ទេសក៍របស់យើងអំពី [សកម្មភាពស្ងប់ស្ងាត់នៅរសៀលយឺត](/caregiving/late-day-restlessness/) អាចជួយបានប្រសិនបើពេលល្ងាចពិបាកបំផុត។
 
-## Take care of yourself
+## ថែទាំខ្លួនអ្នកផងដែរ
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+ការឆ្លើយសំណួរដដែលៗជាលើកទីម្ភៃគឺធ្វើឱ្យហត់នឿយណាស់។ ប្រសិនបើអ្នកមានអារម្មណ៍ថាកំពុងអស់ចិត្តអត់ធ្មត់ ហើយអ្នកនោះមានសុវត្ថិភាព សូមចូលទៅបន្ទប់ផ្សេងមួយរយៈពេលប៉ុន្មាននាទី ហើយដកដង្ហើមយឺតៗ ដូចដែល [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) បានណែនាំ។ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) លើកទឹកចិត្តឱ្យអ្នកថែទាំសុំជំនួយ និងពិចារណាការថែទាំសម្រាក។ គំនិតបន្ថែមមាននៅក្នុង [មគ្គុទ្ទេសក៍ថែទាំខ្លួនឯងសម្រាប់អ្នកថែទាំ](/caregiving/caregiver-self-care/) របស់យើង។
 
-## When should I call a doctor?
+## តើខ្ញុំគួរហៅទៅវេជ្ជបណ្ឌិតនៅពេលណា?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+សូមទូរស័ព្ទទៅវេជ្ជបណ្ឌិតរបស់គាត់ភ្លាមៗ ប្រសិនបើសំណួរ ភាពច្របូកច្របល់ ឬអាកប្បកិរិយាផ្លាស់ប្តូរភ្លាមៗ ឬកាន់តែអាក្រក់ឡើងក្នុងរយៈពេលប៉ុន្មានម៉ោង ឬប៉ុន្មានថ្ងៃ។ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) បញ្ជាក់ថាអាកប្បកិរិយាដែលផ្លាស់ប្តូរភ្លាមៗ ឬផ្លាស់ប្តូរយ៉ាងឆាប់រហ័ស ជាពិសេសបន្ទាប់ពីមានការឆ្លងមេរោគ ឬការផ្លាស់ប្តូរថ្នាំ គួរតែត្រូវបានប្រាប់ទៅវេជ្ជបណ្ឌិតភ្លាមៗ។ [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) ពន្យល់ថាការឆ្លងមេរោគ ថ្នាំ ការខ្វះទឹកក្នុងខ្លួន ការឈឺចាប់ ឬការទល់លាមកអាចបង្កឱ្យមាន delirium ដែលជាភាពច្របូកច្របល់ភ្លាមៗ និងធ្ងន់ធ្ងរ ដែលត្រូវការការព្យាបាលឆាប់រហ័ស។ សូមហៅលេខ 119 ប្រសិនបើមាននរណាម្នាក់ស្ថិតក្នុងគ្រោះថ្នាក់។

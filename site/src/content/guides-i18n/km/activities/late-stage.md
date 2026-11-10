@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "សកម្មភាពសម្រាប់ជំងឺវង្វេងដំណាក់កាលចុងក្រោយ រួមទាំងនៅលើគ្រែ ឬកៅអី"
+seoTitle: "សកម្មភាពជំងឺវង្វេងដំណាក់កាលចុងក្រោយ៖ គំនិតនៅលើគ្រែ និងកៅអី"
+description: "សកម្មភាពស្រទន់សម្រាប់ជំងឺវង្វេងដំណាក់កាលចុងក្រោយ រួមទាំងសម្រាប់អ្នកនៅលើគ្រែ ឬកៅអី៖ តន្ត្រី ការប៉ះ ការអានឱ្យស្តាប់ សម្លេង និងការនៅជាមួយគ្នា ជាមួយកំណត់ចំណាំសុវត្ថិភាព។"
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  នៅដំណាក់កាលចុងក្រោយនៃជំងឺវង្វេង សកម្មភាពផ្តោតលើវិញ្ញាណទាំងប្រាំ និងការនៅជាមួយអ្នក៖
+  ចាក់តន្ត្រីដែលចូលចិត្ត កាន់ដៃ យកឡេមាលដៃយឺតៗ ការអានឱ្យស្តាប់
+  ការមើលរូបថត សម្លេងធម្មជាតិ និងការអង្គុយក្បែរបង្អួច ឬនៅខាងក្រៅ។ គំនិតទាំងនេះ
+  អាចធ្វើបាននៅលើគ្រែ ឬកៅអី។ រក្សាពេលវេលាឱ្យខ្លី សង្កេតមើលផ្ទៃមុខ និងដៃសម្រាប់ភាពស្រួល
+  ហើយចងចាំថា គ្រាន់តែនៅជាមួយគ្នាក៏ជាសកម្មភាពមួយរួចទៅហើយ។
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "ការទំនាក់ទំនងនៅតែអាចកើតមាន។ នៅដំណាក់កាលចុងក្រោយ មនុស្សទទួលបានបទពិសោធន៍ជុំវិញខ្លួនតាមរយៈវិញ្ញាណទាំងប្រាំជាចម្បង។"
+  - "តន្ត្រី ការប៉ះយ៉ាងស្រទន់ សំឡេងquenធ្លាប់ស្គាល់ និងវត្ថុទន់ៗសម្រាប់កាន់ ជារឿយៗអាចឈានដល់មនុស្សបាន ទោះបីពេលសម្ដីលែងអាចប្រើបានក៏ដោយ។"
+  - "គំនិតស្ទើរតែទាំងអស់នៅទីនេះ អាចធ្វើបានសម្រាប់អ្នកដែលនៅលើគ្រែ ឬកៅអី។"
+  - "សង្កេតមើលសញ្ញាភាពស្រួល និងមិនស្រួលនៅលើផ្ទៃមុខ ដៃ និងដង្ហើម ហើយឈប់ភ្លាមនៅពេលមានសញ្ញានៃភាពលំបាក។"
+  - "ជៀសវាងវត្ថុតូចៗ ហើយផ្តល់អាហារ ឬភេសជ្ជៈតែនៅពេលដែលក្រុមថែទាំណែនាំប៉ុណ្ណោះ ពីព្រោះការលេបអាចក្លាយជាមិនមានសុវត្ថិភាព។"
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "តើអាចធ្វើសកម្មភាពអ្វីខ្លះជាមួយអ្នកដែលមានជំងឺវង្វេងដំណាក់កាលចុងក្រោយ ហើយកំពុងសម្រាកនៅលើគ្រែ?"
+    a: "ចាក់តន្ត្រីដែលពួកគេចូលចិត្ត កាន់ដៃពួកគេ យកឡេមាលដៃយឺតៗ អានសៀវភៅ ឬពាក្យបន់ស្រន់ដែលពួកគេស្រឡាញ់ឱ្យស្តាប់ បង្ហាញរូបថត ឬចាក់សម្លេងធម្មជាតិយ៉ាងស្រទន់។ បើកវាំងនន ដើម្បីឱ្យពួកគេអាចមើលទៅខាងក្រៅបាន។ ពេលវេលាខ្លីៗ ស្ងប់ស្ងាត់ និងធ្វើម្តងមួយយ៉ាង ជាធម្មតាដំណើរការបានល្អបំផុត។"
+  - q: "តើអ្នកដែលមានជំងឺវង្វេងដំណាក់កាលចុងក្រោយនៅតែអាចរីករាយជាមួយតន្ត្រីបានទេ?"
+    a: "មនុស្សជាច្រើននៅតែអាច។ Alzheimer's Association កត់សម្គាល់ថា សូម្បីតែនៅដំណាក់កាលចុងក្រោយ មនុស្សម្នាក់អាចវាយតាមចង្វាក់ ឬច្រៀងតាមបទចម្រៀងពីកុមារភាពបាន។ ជ្រើសរើសតន្ត្រីដែលពួកគេស្រឡាញ់នៅពេលក្មេង ហើយរក្សាកម្រិតសម្លេងឱ្យទន់។"
+  - q: "តើខ្ញុំដឹងដោយរបៀបណាថា ពួកគេកំពុងរីករាយនឹងសកម្មភាពនោះ?"
+    a: "សង្កេតមើលសញ្ញាតូចៗ៖ ស្មាស្រួល កမျက်មុខស្រទន់ ការសម្លឹងមើលគ្នា ការបឺតច្រៀង ការចុចដៃ ឬការដង្ហើមយឺតជាងមុន។ ការក្រញូកមុខ ការដកខ្លួនចេញ ភាពមិនស្ងប់ ឬសំឡេងគ្រហឹម អាចបង្ហាញពីភាពមិនស្រួល ឬការឈឺចាប់។ ប្រសិនបើអ្នកឃើញសញ្ញាទាំងនេះ សូមឈប់ ហើយប្រាប់ក្រុមថែទាំ ប្រសិនបើសញ្ញានោះនៅតែបន្ត។"
+  - q: "តើការមកលេងនៅតែមានតម្លៃទេ ប្រសិនបើពួកគេលែងស្គាល់ខ្ញុំ?"
+    a: "មានតម្លៃ។ National Institute on Aging កត់សម្គាល់ថា គ្រាន់តែនៅជាមួយគ្នាក៏អាចជួយឱ្យមានភាពស្ងប់បាន ហើយការប៉ះ តន្ត្រី និងរឿងរ៉ាវនៅតែអាចផ្តល់ភាពស្រួលក្នុងជំងឺវង្វេងដំណាក់កាលកម្រិតខ្ពស់។ សំឡេង និងការប៉ះរបស់អ្នកអាចនៅតែមានអារម្មណ៍quenធ្លាប់ ទោះបីពួកគែមិនចាំឈ្មោះរបស់អ្នកក៏ដោយ។"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+នៅដំណាក់កាលចុងក្រោយនៃជំងឺវង្វេង អ្នកដែលអ្នកថែទាំអាចនិយារតិចណាស់ ត្រូវការជំនួយក្នុងការថែទាំប្រចាំថ្ងៃទាំងអស់ ហើយចំណាយពេលភាគច្រើននៅលើគ្រែ ឬកៅអី។ វាអាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថា គ្មានអ្វីសល់សម្រាប់ធ្វើជាមួយគ្នាទៀតទេ។ ប៉ុន្តែនៅតែមាន។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) កត់សម្គាល់ថា ផ្នែកខ្លះនៃអត្តសញ្ញាណរបស់មនុស្សនោះអាចនៅតែមាន ហើយថានៅដំណាក់កាលនេះ មនុស្សទទួលបានបទពិសោធន៍ជុំវិញខ្លួនតាមរយៈវិញ្ញាណទាំងប្រាំជាចម្បង។ តន្ត្រី ការប៉ះ សំឡេងquenធ្លាប់ស្គាល់ និងការនៅជាមួយយ៉ាងស្ងប់របស់អ្នក នៅតែអាចនាំមកនូវភាពស្រួល និងពេលវេលានៃការទំនាក់ទំនង។
 
-## What activities help in late-stage dementia?
+## តើសកម្មភាពអ្វីខ្លះដែលជួយបាននៅដំណាក់កាលចុងក្រោយនៃជំងឺវង្វេង?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+សកម្មភាពវិញ្ញាណទាំងប្រាំសាមញ្ញៗ និងការនៅជាមួយគ្នាយ៉ាងស្ងប់ ជាធម្មតាជួយបានច្រើនបំផុតនៅដំណាក់កាលចុងក្រោយ។ Alzheimer's Association ណែនាំឱ្យចាក់តន្ត្រីដែលចូលចិត្ត អានផ្នែកខ្លះនៃសៀវភៅដែលមានន័យ លាបឡេដែលមានក្លិនquenចូលចិត្តលើស្បែក និងអង្គុយនៅខាងក្រៅជាមួយគ្នានៅថ្ងៃល្អ។ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) បន្ថែមទៀតថា ការនិទានរឿង ការបង្ហាញរូបថត ការប៉ះ ឬការមាលយ៉ាងស្រទន់ និងតន្ត្រី សម្លេងស ឬសម្លេងធម្មជាតិ អាចជួយបាន ហើយថា គ្រាន់តែការមានវត្តមានរបស់អ្នកក៏អាចជួយឱ្យមានភាពស្ងប់បានដែរ។
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) កត់សម្គាល់ថា អ្នកដែលនៅដំណាក់កាលចុងក្រោយជារឿយៗមានតម្រូវការខ្លាំងក្នុងការកាន់អ្វីមួយឱ្យជិតខ្លួនដើម្បីទទួលបានភាពស្រួល ហើយណែនាំសកម្មភាពវិញ្ញាណទាំងប្រាំសាមញ្ញៗ ការពង្រីករាងកាយយ៉ាងស្រទន់ ការផ្លាស់ប្តូរកន្សែង តន្ត្រី ការមកលេងរបស់សត្វ ការប៉ះពីមនុស្ស និងសិល្បៈសេរី។
 
-## Activities for someone in bed or a chair
+## សកម្មភាពសម្រាប់អ្នកដែលនៅលើគ្រែ ឬកៅអី
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **ចាក់តន្ត្រីរបស់ពួកគេ។** ជ្រើសរើសបទចម្រៀងពីវ័យពេញវ័យ កន្លែងជំនឿ ឬគ្រួសាររបស់ពួកគេ។ រក្សាកម្រិតសម្លេងឱ្យទន់ និងអង្គុយនៅជិត។ សូម្បីតែឥឡូវនេះ មនុស្សខ្លះនៅតែអាចវាយម្រាមដៃ ឬបឺតច្រៀងបាន។ សូមមើល [សកម្មភាពតន្ត្រី](/activities/music/)។
+2. **កាន់ដៃ។** គ្រាន់តែកាន់ដៃ ហើយលូកមេដៃយ៉ាងស្រទន់ ក៏ជាសកម្មភាពមួយដែរ។ សូមប្រាប់ជាមុនពីអ្វីដែលអ្នកកំពុងធ្វើ។
+3. **មាលដៃយឺតៗ។** យកឡេបន្តិចក្នុងបាតដៃឱ្យកក់ក្តៅ ហើយលូកពីកដៃទៅចុងម្រាមដៃ។ ជ្រើសរើសឡេគ្មានក្លិន ឬក្លិនដែលពួកគេតែងតែស្រឡាញ់ ប្រសិនបើស្បែករបស់ពួកគេទទួលបាន។
+4. **អានឱ្យស្តាប់។** កំណាព្យដែលពួកគេចូលចិត្ត ផ្នែកមួយនៃសៀវភៅដែលពួកគេស្រឡាញ់ អត្ថបទសាសនា ឬទំព័រកីឡា។ ចង្វាក់នៃសំឡេងរបស់អ្នកសំខាន់ជាងពាក្យសម្ដី។
+5. **និទានរឿង។** និយាយអំពីដំណើរកម្សាន្តគ្រួសារ ឬថ្ងៃដែលពួកគេរៀបការ។ អ្នកមិនចាំបាច់រង់ចាំការឆ្លើយតបទេ។
+6. **បង្ហាញរូបថត។** កាន់រូបថតធំមួយក្នុងមួយពេលនៅកម្រិតភ្នែក ហើយពណ៌នាដោយក្តីកក់ក្ដៅ។ ជៀសវាងការសួរថានរណានៅក្នុងរូប។
+7. **ផ្តល់អ្វីមួយទន់ៗឱ្យកាន់។** កន្សែងលាងមុខបត់ ក្រណាត់ fleece ឬសត្វទន់មួយ។ NIA ណែនាំឱ្យផ្តល់កន្សែងលាងមុខឱ្យមនុស្សនោះកាន់នៅពេលផ្លាស់ទី ដើម្បីកាត់បន្ថយការចាប់អ្នក ឬគ្រឿងសង្ហារឹម។
+8. **ចាក់សម្លេងធម្មជាតិ។** សម្លេងភ្លៀង រលកសមុទ្រ ឬសម្លេងបក្សីក្នុងកម្រិតទាប អាចជួយឱ្យបន្ទប់ដែលមានសម្លេងរំខានស្ងប់ជាងមុន។
+9. **នាំបរិយាកាសខាងក្រៅចូលមកក្នុងបន្ទប់។** បើកវាំងនន ដាក់កន្លែងចំណីបក្សីនៅខាងក្រៅបង្អួច ឬនាំផ្កាស្រស់ ឬស្លឹកពីរបីមកមើល និងប៉ះ។
+10. **ចេញទៅខាងក្រៅ។** ប្រសិនបើអ្នកដែលអ្នកថែទាំអាចអង្គុយលើរទេះរុញបាន ការចំណាយពេលពីរបីនាទីនៅក្រោមម្លប់ក្នុងថ្ងៃដែលអាកាសធាតុល្អ អាចជាពេលវេលាល្អមួយ។
+11. **សិតសក់ ឬផ្តល់កន្សែងកក់ក្តៅ។** ការថែរក្សាខ្លួនយឺតៗ និងយ៉ាងស្រទន់ និងការប្រើកន្សែងកក់ក្តៅសម្រាប់ដៃ និងមុខ អាចធ្វើឱ្យមានអារម្មណ៍ថាត្រូវបានថែទាំ។
+12. **ធ្វើចលនាយ៉ាងស្រទន់ជាមួយតន្ត្រី។** គ្រវីកន្សែងស្រាលៗជាមួយគ្នា ឬយោលដៃតាមចង្វាក់បទចម្រៀង។ សម្រាប់ការពង្រីករាងកាយ និងចលនាសន្លាក់ សូមសួរអ្នកព្យាបាលរាងកាយ ឬគិលានុបដ្ឋាយិកា ឱ្យបង្ហាញវិធីសុវត្ថិភាពជាមុនសិន។
+13. **បង្កើតសិល្បៈសេរី។** លាបថ្នាំពណ៌ដែលគ្មានជាតិពុលលើក្រដាសធំដោយប្រើអេប៉ុង ឬដៃ ដោយមានការណែនាំពីដៃរបស់អ្នក។ មិនមានលទ្ធផលត្រឹមត្រូវ ឬខុសទេ។
+14. **ស្វាគមន៍ការមកលេងរបស់សត្វ។** សត្វចិញ្ចឹមដែលស្ងប់នៅលើគ្រែ ឬលើត្រគាក ប្រសិនបើមនុស្សនោះធ្លាប់ចូលចិត្តសត្វ ហើយបរិយាកាសអនុញ្ញាត។
+15. **ដង្ហើមយឺតៗជាមួយគ្នា។** អង្គុយនៅជិតគ្នា ហើយដង្ហើមយឺតៗឱ្យឮសំឡេង។ [ការដង្ហើមឱ្យស្ងប់](/games/calm-breathing/) អាចជួយកំណត់ចង្វាក់សម្រាប់អ្នកទាំងពីរ ហើយអ្នកអាចចាប់ផ្តើម និងបញ្ឈប់វាបាន។
+16. **គ្រាន់តែនៅទីនោះ។** អង្គុយនៅក្បែរគ្នា បឺតចម្រៀង ប៉ាក់ ឬអានសៀវភៅស្ងាត់ៗ។ គ្រាន់តែមានវត្តមានរបស់អ្នកក៏គ្រប់គ្រាន់ហើយ។
 
-## How to share an activity at this stage
+## របៀបចែករំលែកសកម្មភាពនៅដំណាក់កាលនេះ
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **ចូលទៅពីខាងមុខ។** ហៅឈ្មោះពួកគេ និងប្រាប់ឈ្មោះរបស់អ្នក ហើយនិយាយយឺតៗ និងស្រទន់មុននឹងប៉ះ។
+- **ផ្តល់ម្តងមួយយ៉ាង។** បិទទូរទស្សន៍មុននឹងចាក់តន្ត្រី។ ធ្វើតែមួយវិញ្ញាណក្នុងមួយពេល។
+- **រក្សាពេលវេលាឱ្យខ្លី។** ពីរបីនាទីក៏អាចគ្រប់គ្រាន់ហើយ។ ពេលវេលាខ្លីៗច្រើនដងក្នុងមួយថ្ងៃ ប្រសើរជាងពេលវេលាវែងតែម្តង។
+- **ធ្វើឱ្យស្រួលសិន។** ពិនិត្យមើលថា មនុស្សនោះមានការទ្រទ្រង់បានល្អ។ NIA ណែនាំឱ្យប្រើក្តារដាក់លើត្រគាក ដើម្បីទ្រដៃ និងផ្នែកខាងលើនៃរាងកាយនៅពេលអង្គុយ។
+- **សង្កេតមើលការឆ្លើយតប។** ដៃស្រួល កမျက်មុខស្រទន់ ការសម្លឹងមើលគ្នា ឬការបឺតច្រៀង បង្ហាញពីភាពស្រួល។ NIA កត់សម្គាល់ថា សំឡេងគ្រហឹម ការក្រញូកមុខ ការការពារផ្នែកណាមួយនៃរាងកាយ ឬភាពមិនស្ងប់ភ្លាមៗ អាចជាសញ្ញានៃការឈឺចាប់។ សូមឈប់ ហើយប្រាប់ក្រុមថែទាំ។
 
-## A quick guide by sense
+## ការណែនាំរហ័សតាមវិញ្ញាណ
 
-| Sense | Ideas | Take care |
+| វិញ្ញាណ | គំនិត | ចំណាំ |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| ការស្តាប់ | តន្ត្រីដែលចូលចិត្ត សំឡេងរបស់អ្នកពេលអាន សម្លេងធម្មជាតិ | រក្សាកម្រិតសម្លេងទាប; ម្តងមួយសម្លេង |
+| ការប៉ះ | ការមាលដៃ ការកាន់ដៃ ក្រណាត់ទន់ កន្សែងកក់ក្តៅ | សួរ ឬប្រាប់ជាមុន; ពិនិត្យមើលថាស្បែកមិនឈឺ ឬមិនរបួស |
+| ការមើល | រូបថត ផ្កា ទិដ្ឋភាពពីបង្អួច វីដេអូធម្មជាតិយឺតៗ | ដាក់វត្ថុនៅកម្រិតភ្នែក; មានពន្លឺល្អ គ្មានពន្លឺចាំងខ្លាំង |
+| ការឈឺក្លិន | ឡេដែលចូលចិត្ត ផ្កាស្រស់ ក្លិនកាហ្វេដែលកំពុងឆុងនៅជិតៗ | ជៀសវាងក្លិនខ្លាំង; ពិនិត្យអាឡែរហ្សី និងការដង្ហើម |
+| ការភ្លក្សរស | រសជាតិតិចៗនៃអាហារដែលចូលចិត្ត | ផ្តល់តែអាហារ និងវាយនភាពដែលក្រុមថែទាំបញ្ជាក់ថាមានសុវត្ថិភាព |
 
-## Safety at this stage
+## សុវត្ថិភាពនៅដំណាក់កាលនេះ
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+ការលេបអាចក្លាយជាការលំបាកនៅដំណាក់កាលចុងក្រោយ ហើយ NIA ព្រមានថា នេះអាចបង្កើនហានិភ័យនៃការស្ទះ។ កុំទុកវត្ថុតូចៗឱ្យនៅជិតដៃ ហើយផ្តល់តែអាហារ ឬភេសជ្ជៈក្នុងវាយនភាព និងទីតាំងដែលក្រុមថែទាំណែនាំប៉ុណ្ណោះ។ ពិនិត្យស្បែកយ៉ាងស្រទន់ក្នុងអំឡុងពេលសកម្មភាពប៉ះ ពីព្រោះស្បែកអាចរហែក ឬជាំងាយ។ សម្រាប់គំនិតវិញ្ញាណទាំងប្រាំដែលមានសុវត្ថិភាពបន្ថែម សូមមើល [សកម្មភាពវិញ្ញាណទាំងប្រាំ](/activities/sensory/)។
 
-## Looking after yourself too
+## ការថែរក្សាខ្លួនអ្នកផងដែរ
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+ការថែទាំនៅដំណាក់កាលចុងក្រោយត្រូវការកម្លាំងរាងកាយ និងអារម្មណ៍ច្រើន មិនថានៅផ្ទះ ឬក្នុងអំឡុងពេលទៅលេងនៅមជ្ឈមណ្ឌលថែទាំក៏ដោយ។ ក្រុមថែទាំបន្ធូរអាការៈ និងក្រុមថែទាំលទ្ឋភាព អាចជួយเรื่องភាពស្រួល ការគាំទ្រ និងការរៀបចំផែនការ ហើយ NIA រាយពួកគេថាជាប្រភពជំនួយមួយ។ ការមកលេងខ្លីៗ និងស្ងប់ស្ងាត់មានតម្លៃ; សូមមើល [ការមកលេងអ្នកដែលមានជំងឺវង្វេង](/activities/visiting/)។ ប្រសិនបើអ្នកដឹកនាំក្រុម [សកម្មភាពជាក្រុមនៅមជ្ឈមណ្ឌលថែទាំ](/activities/care-home-groups/) មានគំនិតសម្រាប់ការសម្របសម្រួលសកម្មភាព។ ហើយសូមអាន [ការថែរក្សាខ្លួនឯងរបស់អ្នកថែទាំ](/caregiving/caregiver-self-care/): ការសម្រាកក៏ជាផ្នែកមួយនៃការថែទាំយ៉ាងល្អដែរ។
