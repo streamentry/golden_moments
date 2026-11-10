@@ -97,6 +97,10 @@ Today notes now accept one optional time band. Old records remain valid, and the
 
 The Today help copy now labels U.S.-based emergency and support numbers and gives a local-number alternative. It adds no locale detection or external request. Existing English-only behavior remains. The full site checks pass; interactive and regional user comprehension were not tested. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 51 score update (2026-11-11)
+
+Today now offers a confirmed way to clear its local notes, using a native button group and the existing storage helper. This adds no external data flow. The site suite, TypeScript, build, checker, Python tests and metadata check pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); the new flow has no live usability review.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
