@@ -82,3 +82,10 @@ Application: the app's 100 newer raster illustrations previously supplied Englis
 - [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) — read. It advises against detailed memory responses, and suggests simple yes/no questions or a few choices. The page also recognizes that reminiscence can be a useful shared activity; this change does not remove prompts.
 
 Application: website Conversation Cards already allowed a helper to hide or show its question, but the question started visible. The game now opens on the picture and theme with the checkbox unchecked. A helper can show a prompt if it seems welcome; the existing speech logic keeps a hidden question out of Read aloud. This is a low-pressure default inferred from the guidance, not evidence of a clinical benefit.
+
+## Round 43: optional captions for website-selected photos (read 2026-11-10)
+
+- [Alzheimer's Association: Reminiscence and Reminiscence Therapy](https://www.alz.org/help-support/caregiving/daily-care/reminiscence-and-reminiscence-therapy) — read. It describes photos and familiar objects as ways to start shared reminiscence, and says to follow the person's lead so the interaction is about connection, not testing.
+- [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) — read. It suggests using photos and adding captions, while allowing time for a response.
+
+Application: on the website, selected Photo Pairs tiles previously used only numbered labels such as “Photo 1.” Helpers can now add optional short captions; the caption is used as the screen-reader name. Captions stay in page memory and are not uploaded or saved. This is an accessibility and conversation-support inference, not a clinical claim.

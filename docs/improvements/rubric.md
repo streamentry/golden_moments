@@ -65,6 +65,10 @@ The added raster labels follow the existing locale coverage: 44 of 64 app locale
 
 Conversation Cards now starts with only its image and theme; the prompt remains available through its existing checkbox. Focused behavior tests, all 725 site tests and TypeScript pass. The full site build still stops on the Tibetan guide description, and Flutter is unavailable. The Playwright wrapper is blocked by the environment's `npx` package guard; Astro dev exits before ready, so no live browser inspection ran. The current rubric dimensions do not change; keep the weighted score at **9.62**, with verification health at **7.5**. Caregiver and participant feedback is also not verified.
 
+## Round 43 score update (2026-11-10)
+
+Optional captions now name selected Photo Pairs images for screen readers; blank fields preserve the numbered fallback. The three new labels use the English fallback on translated pages. All 727 site tests and TypeScript pass; the production build remains blocked by the Tibetan guide description, and the Playwright wrapper/Astro dev are unavailable for browser inspection. Keep the rubric result at **9.62**, with verification health at **7.5**; browser, caregiver and participant checks are not scored.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

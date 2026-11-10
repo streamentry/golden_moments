@@ -724,6 +724,72 @@
   width: 1px;
   height: 1px;
 }
+.photo-pick__caption-details {
+  width: 100%;
+  min-width: 0;
+}
+.photo-pick__caption-details > summary {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  min-height: var(--target-min);
+  cursor: pointer;
+  font-size: var(--text-md);
+  font-weight: 700;
+}
+.photo-pick__caption-details > summary:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 3px;
+  border-radius: var(--radius-sm);
+}
+.photo-pick__caption-help {
+  max-width: 48ch;
+  margin: 0 0 var(--space-md);
+  font-size: var(--text-md);
+}
+.photo-pick__caption-list {
+  display: grid;
+  gap: var(--space-md);
+}
+.photo-pick__caption-row {
+  display: grid;
+  grid-template-columns: minmax(64px, 88px) minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-md);
+  min-width: 0;
+}
+.photo-pick__caption-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border: 1px solid var(--gm-outline);
+  border-radius: var(--radius-md);
+}
+.photo-pick__caption-field {
+  display: grid;
+  gap: var(--space-xs);
+  min-width: 0;
+  font-size: var(--text-md);
+  font-weight: 700;
+}
+.photo-pick__caption-input {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: var(--target-primary);
+  padding: var(--space-sm) var(--space-md);
+  border: 2px solid var(--gm-outline);
+  border-radius: var(--radius-md);
+  background: var(--gm-surface-raised);
+  color: var(--gm-on-surface);
+  font-family: inherit;
+  font-size: var(--text-lg);
+  font-weight: 400;
+}
+.photo-pick__caption-input:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+}
 
 /* Bingo caller */
 .caller {
@@ -1168,6 +1234,19 @@
   .photo-pick {
     border: 3px dashed #000000;
   }
+  .photo-pick__caption-thumb {
+    border: 2px solid #000000;
+  }
+  .photo-pick__caption-input {
+    border: 3px solid #000000;
+    background: #FFFFFF;
+    color: #000000;
+  }
+  .photo-pick__caption-details > summary:focus-visible,
+  .photo-pick__caption-input:focus-visible {
+    outline: 3px solid #000000;
+    outline-offset: 2px;
+  }
   .photo-pick label.btn:has(input:focus-visible) {
     outline: 4px solid #000000;
     outline-offset: 3px;
@@ -1318,6 +1397,19 @@
   }
   .photo-pick {
     border: 2px dashed CanvasText;
+  }
+  .photo-pick__caption-thumb {
+    border: 2px solid CanvasText;
+  }
+  .photo-pick__caption-input {
+    border: 2px solid FieldText;
+    background: Field;
+    color: FieldText;
+  }
+  .photo-pick__caption-details > summary:focus-visible,
+  .photo-pick__caption-input:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
   }
   .photo-pick label.btn:has(input:focus-visible) {
     outline: 3px solid Highlight;

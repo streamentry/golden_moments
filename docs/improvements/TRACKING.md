@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 42 / 100 completed**
+**Progress: 43 / 100 completed**
 
 ---
 
@@ -52,6 +52,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 40 | 2026-11-10 | `52f4a422` | Two picture choices for the “nothing to do” moment | [Alzheimer's Society: communicating without speech](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/support-person-dementia-communicate-unable-speak) describes pictures a person can point or nod to; [Dementia Australia: talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) recommends simple questions and a few choices. The `/today/` answer already says to offer two choices, but showed only one activity link. It now offers two illustrated links: Picture pairs or Conversation cards. | Website: `Today.tsx`, `ActivityChoiceBoard.tsx`, `situations.ts`, `today.astro` | Implemented; 724 site tests and TypeScript pass. After two Bengali frontmatter repairs, the build stops on a Tibetan description over the 220-character limit. No caregiver/device test. |
 | 41 | 2026-11-10 | `e7fac006` | Screen-reader names for the new illustrations in app languages | [Alzheimer's Association: Communication and Alzheimer's](https://www.alz.org/help-support/caregiving/daily-care/communications) notes some people may return to their first language as communication changes. The app's 100 new raster illustrations had only English labels. Added localized names in the 44 non-English app locales that already have all drawing names; the 20 low-confidence locales keep the English fallback. | Shared app/site label data: `site/src/i18n/play/*.json`, `export-pictures.mjs`, generated `picture_library.g.dart` | Implemented; machine-made and unreviewed. Site tests, TypeScript, translation helper tests and generated-map test pass. No Flutter/device/native review. Full site build blocked by an unrelated Tibetan guide schema error. |
 | 42 | 2026-11-10 | `3efd757b` | Conversation Cards open on the picture, with questions by choice | [Alzheimer's Society: Who can support with memory problems?](https://www.alzheimers.org.uk/get-support/living-with-dementia/support-with-memory-problems) says friends and family can help by not testing the person; [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) advises against detailed memory responses and suggests simple questions or a few choices. | The website's Conversation Cards question checkbox was checked by default. It now starts unchecked; the labeled checkbox still lets a helper show a prompt when it suits the person. Hidden questions remain out of Read aloud. | Implemented in `site/src/games/ConversationCards.tsx`; focused 4 tests, all 725 site tests and TypeScript pass. Live browser inspection could not run: the Playwright wrapper is blocked by the environment's `npx` package guard, and Astro dev exits before ready. Caregiver/person checks not done. Full build still stops on the existing Tibetan guide schema error. |
+| 43 | 2026-11-10 | pending | Optional captions give website family photos useful spoken names | [Alzheimer's Association: Reminiscence and Reminiscence Therapy](https://www.alz.org/help-support/caregiving/daily-care/reminiscence-and-reminiscence-therapy) describes photos and familiar objects as shared prompts and says to follow the person's lead; [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) recommends using photos with captions. | Photo Pairs labelled each selected image only “Photo 1,” “Photo 2,” and so on. Added optional captions in a collapsed section; a caption becomes the tile's screen-reader name, while a blank caption keeps the numbered name. Captions and photos stay in page memory only. | Implemented in `PhotoPairs.tsx`, `PairsBoard.tsx`, and `photo-label.ts`; 2 focused tests, 727 site tests and TypeScript pass. English labels fall back on translated pages. Browser/caregiver/person checks not done. Full build remains blocked by the Tibetan guide schema error. |
 
 ---
 
@@ -59,8 +60,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 43 | *Next in queue* | Pending |
-| 44–100 | Planned one by one | Pending |
+| 44 | *Next in queue* | Pending |
+| 45–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -88,7 +89,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Repair | Evidence | Current result |
 |---|---|---|
 | Removed the empty duplicate FAQ `a` field from `bh/activities/picture-bingo.md`; quoted the Bhojpuri key point containing a colon in `bh/caregiving/asking-to-go-home.md`. The translated text was otherwise preserved. | Both files were clean before editing; Astro passed them after the repair and reported a different schema error. | Committed separately as validation maintenance, not a product improvement. |
-| Current build blocker | `pnpm --dir site verify` passes all 725 tests, then reports `description: expected <=220 characters` in the unchanged `bo/activities/holidays.md`. `check-site` did not run. | Build remains unverified; Node 24.11.1 is unavailable in this environment. |
+| Current build blocker | `pnpm --dir site verify` passes all 727 tests, then reports `description: expected <=220 characters` in the unchanged `bo/activities/holidays.md`. `check-site` did not run. | Build remains unverified; Node 24.11.1 is unavailable in this environment. |
 
 ## Round 41: localized labels for the 100 raster illustrations
 
@@ -110,3 +111,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Tests | `ConversationCards.test.ts` checks the initial unchecked state and absence of prompt text. `conversation-prompt.test.ts` checks that hidden prompts stay out of both sight and speech and can be shown when selected. `pnpm --dir site test`: 725 pass. `pnpm --dir site exec tsc --noEmit`: pass. | Pass. |
 | Full checks | `pnpm --dir site verify` passes all 725 tests, then stops on an unchanged Tibetan guide description over the schema limit. `check-site` does not run. Flutter is unavailable. | Existing build and app-verification gates remain open. |
 | Not verified | No live browser, caregiver or person-with-dementia feedback. Playwright's wrapper is blocked by the environment's `npx` package guard, and Astro dev exits before ready with `SKIP_FORMAT`. | Open. |
+
+## Round 43: optional captions for website-selected photos
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association says photos and familiar items can start shared reminiscence; follow the person's lead and keep the goal connection, not testing memory. Dementia Australia recommends photos with captions. | The source supports the activity context. Using captions as screen-reader names is a product accessibility inference, not a clinical claim. |
+| Gap and change | Photo Pairs gave selected pictures only numbered names, so a screen reader could not tell which family photo a tile showed. Added a closed-by-default “Add optional photo captions” section with a preview and a labelled field for each selected photo. Captions become tile names; empty fields keep “Photo N.” | No filenames or paths are used. Captions stay in React page memory and are not saved or uploaded. |
+| Translation | Three new labels are in `site/src/i18n/play/en.json`; missing locale keys deep-merge to English. | English fallback on translated pages until native-language translations are available and reviewed. |
+| Tests | `photo-label.test.ts`: 2 pass. `pnpm --dir site test`: 727 pass. `pnpm --dir site exec tsc --noEmit`: pass. `git diff --check`: pass. | Pass. |
+| Full checks | `pnpm --dir site verify` passes all 727 tests, then stops on the existing Tibetan guide description over the schema limit. `check-site` did not run. Flutter is unavailable. | Build and app-specific gates remain open. |
+| Not verified | No live browser, caregiver or person-with-dementia feedback. Playwright is blocked by the environment's `npx` guard; Astro dev exits before ready with `SKIP_FORMAT`. | Open. |
