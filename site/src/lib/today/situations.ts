@@ -1,3 +1,5 @@
+import type { GameSlug } from '../../data/games';
+
 /**
  * The answers on /today/ ("What is hardest today?"). Each one condenses an
  * existing, sourced guide on this site; change the guide first, then this.
@@ -26,7 +28,9 @@ export interface Situation {
   /** When to get help; always shown with the answer. */
   help: string;
   /** One gentle activity on this site. */
-  activity: { href: string; label: string };
+  activity?: { href: string; label: string };
+  /** Two picture activities when the person may prefer to point to a choice. */
+  choices?: readonly [GameSlug, GameSlug];
   /** The full guide this answer comes from. */
   guide: { href: string; label: string };
 }
@@ -92,7 +96,7 @@ export const SITUATIONS: readonly Situation[] = [
       'Watching, holding something or sitting close all count. Stopping early is fine.',
     ],
     help: DOCTOR,
-    activity: { href: '/games/picture-pairs/', label: 'Play picture pairs side by side' },
+    choices: ['picture-pairs', 'conversation-cards'],
     guide: { href: '/activities/ideas/', label: '101 activity ideas' },
   },
   {

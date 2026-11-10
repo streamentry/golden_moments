@@ -53,6 +53,10 @@ Dimensions 1–7 carry forward from the 2026-11-08 audit. The new label is a sho
 Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.4055 + 1.000 + 0.750 = **9.62**.
 Lowest dimension: verification health at 7.5. This clears the numeric bar, but the current website build failure remains recorded above and is not claimed as passed.
 
+## Round 40 score update (2026-11-10)
+
+The two-choice panel reuses the existing game artwork and content. Its links have 112 px minimum height, visible labels, and focus/contrast styles. The site suite is now 724 passing tests and TypeScript is clean. No dimension changed in the project-level score: the website build still stops on the same baseline Bengali YAML error, the Flutter SDK remains unavailable, and the live browser/caregiver checks remain open. The recorded score is still **9.62**, with verification health at **7.5**; this is not evidence that the current website build or app tests passed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

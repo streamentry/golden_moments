@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
+import { ActivityChoiceBoard } from './ActivityChoiceBoard';
 import { SITUATIONS, SITUATION_BY_ID, type SituationId } from '../lib/today/situations';
 import { addNote, byDay, loadNotes, localDay, removeNote, removeNoteAriaLabel, saveNotes, toggleSituation, type Note, type Outcome } from '../lib/today/notes';
 import { renderWithPhoneLinks } from '../lib/today/text';
@@ -109,10 +110,16 @@ export function Today() {
             <strong>Get help: </strong>
             {renderWithPhoneLinks(situation.help)}
           </p>
+          {situation.choices ? (
+            <ActivityChoiceBoard choices={situation.choices} />
+          ) : situation.activity ? (
+            <div className="today__activity-link">
+              <a className="btn btn--primary" href={situation.activity.href}>
+                {situation.activity.label}
+              </a>
+            </div>
+          ) : null}
           <div className="btn-row">
-            <a className="btn btn--primary" href={situation.activity.href}>
-              {situation.activity.label}
-            </a>
             <a className="btn btn--quiet" href={situation.guide.href}>
               Read more: {situation.guide.label}
             </a>

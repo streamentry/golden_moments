@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 39 / 100 completed**
+**Progress: 40 / 100 completed**
 
 ---
 
@@ -49,6 +49,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 37 | 2026-11-08 | `4381d2b` | Caregiver Hardest-Moment Decision Tool Interaction Flexibility, Complete FAQ Print Expansion Architecture, Table of Contents Title Signifier & Card Hover Action Affirmation | W3C COGA Objectives 1, 3 & 4, ISO 21801-1, DESIGN.md Principle "keep 'Done for now' or Back visible", Musa et al. (2023), Alzheimer's Society / Dementia UK Print Guidelines: In `Today.tsx`, enabled toggle-to-deselect on situation buttons (`toggleSituation`) so caregivers are not trapped in an open answer view, added a quiet "Done reading" button to dismiss the answer from the bottom of the card, and added a concrete example placeholder to the notes textarea; added unit test suite in `notes.test.ts` (712 passing tests); in `components.css`, expanded collapsed `<details>` in print (`.faq details > div { display: block !important; }`), hid confusing `+` / `−` glyphs (`.faq summary::after { display: none !important; }`), and prevented orphaned questions (`break-after: avoid;`); in `FaqView.astro`, added visible `<p class="toc__title" aria-hidden="true">{t.common.topics}</p>` with high-contrast / forced-colors styling; in `components.css`, added visuomotor hover and focus underlines on `.card:hover .card__more, .lead-guide:hover .card__more` across baseline, high-contrast, and forced-colors modes; in `SectionView.astro`, localized today link with `localePath(lang, '/today/')`. | Web Tools, Layout & Print (`Today.tsx`, `notes.ts`, `notes.test.ts`, `components.css`, `FaqView.astro`, `SectionView.astro`, `check-site.mjs`) | Done |
 | 38 | 2026-11-08 | `d333a59` | Recovered-Photos Action Names Its Outcome (Verb + Object, Replacing "Continue") | W3C COGA Objectives 1 & 4 and the W3C WAI Cognitive Accessibility pattern "Use Clear Visible Labels" (search result, not read in full); UX button-label guidance such as Splunk's button label rules and Adam Silver's examples (search results, general UX, not dementia-specific): the dialog that asks whether to add photos recovered after a restart had only a generic "Continue", so the person could not tell what would happen. The primary button now reads "Add the photos" and the other choice "Not now", matching the recovery dialog. Localized in 64 locales (machine-made, unreviewed). | Mobile app: `photo_collection_page.dart`, `app_*.arb`, `photo_collection_journey_test.dart` | Done |
 | 39 | 2026-11-10 | `b386ef21` (label), `cd29a93a` (feature) | Optional conversation prompts on the website | [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) advises adapting activities to the person's response and focusing on enjoyment; [Dementia Australia: Activities](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) recommends starting together, using one simple step at a time and keeping activities short. The app already has look-only viewing with optional prompts; website Conversation Cards always showed a question. Added a checkbox to hide or restore it, and keep its question out of speech when hidden. | Website: `ConversationCards.tsx`, `conversation-prompt.ts`, `games.css`, `play/en.json` | Implemented; focused and full site tests pass, TypeScript passes. Full site build blocked by a duplicate YAML key in the unchanged Bengali `picture-bingo.md`; Node 24 was unavailable. No caregiver/device test. |
+| 40 | 2026-11-10 | pending | Two picture choices for the “nothing to do” moment | [Alzheimer's Society: communicating without speech](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/support-person-dementia-communicate-unable-speak) describes pictures a person can point or nod to; [Dementia Australia: talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) recommends simple questions and a few choices. The `/today/` answer already says to offer two choices, but showed only one activity link. It now offers two illustrated links: Picture pairs or Conversation cards. | Website: `Today.tsx`, `ActivityChoiceBoard.tsx`, `situations.ts`, `today.astro` | Implemented; 724 site tests and TypeScript pass. Full site build remains blocked by the unchanged Bengali `picture-bingo.md` YAML error. No caregiver/device test. |
 
 ---
 
@@ -56,8 +57,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 40 | *Next in queue* | Pending |
-| 41–100 | Planned one by one | Pending |
+| 41 | *Next in queue* | Pending |
+| 42–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -69,3 +70,13 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Full site checks | `pnpm --dir site test`: 721 tests pass. `pnpm --dir site exec tsc --noEmit`: passes. `pnpm --dir site verify`: all 721 tests pass, then Astro stops on duplicate YAML key `a` in `site/src/content/guides-i18n/bh/activities/picture-bingo.md:23`; `check-site` did not run. `git show` confirms the same unchanged file in both `HEAD` and the fetched origin branch. Commands ran under Node 22.14.0; the project's pinned Node 24.11.1 was unavailable. | Existing site build blocker; not caused by Round 39. |
 | Localization | The new label is in `play/en.json`; the established deep-merge behavior supplies English on translated pages until that key is translated. | Automated fallback works; native-language wording is not reviewed. |
 | Not verified | No live browser/device or caregiver check. The Playwright CLI wrapper was blocked by the environment's `npx` package guard; local Astro dev did not start. The Flutter SDK was also unavailable, so no app suite was run in this turn. | Open; not part of the website-only change. |
+
+## Round 40: two picture choices for “nothing they want to do”
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Read Alzheimer's Society guidance on picture cue cards and communication boards: a person may point or nod, while a full board can sometimes overwhelm. Read Dementia Australia guidance to use one idea at a time and offer only a few choices. | A two-card activity choice is a product inference from these communication tips, not a clinical communication aid. |
+| Gap and change | The `/today/` answer says “Offer two choices, not a list,” but its action area linked only one game. For the “nothing-to-do” situation it now displays two large picture links, Picture pairs and Conversation cards. A caregiver can show both, wait, and open the choice the person indicates. Other situations keep their single activity link. | Implemented in `ActivityChoiceBoard.tsx`; the board adds no storage, tracking, permissions or network behavior. |
+| Tests | `situations.test.ts` checks exactly two valid game choices with picture ids; `ActivityChoiceBoard.test.ts` checks two labeled links and the point-and-tap cue. Full site test suite: 724 pass. `tsc --noEmit`: pass. | Pass. |
+| Full build | `pnpm --dir site verify` runs 724 tests successfully, then Astro stops at the duplicate YAML key `a` in `site/src/content/guides-i18n/bh/activities/picture-bingo.md:23`. The same clean file existed in `HEAD` and the fetched origin branch before Round 40. `check-site` did not run. Node 22.14.0 was used because Node 24.11.1 was unavailable. | Existing build blocker; not caused by Round 40. |
+| Not verified | No live browser, caregiver or device check. The Flutter SDK was unavailable, and this change only touches the website. | Open. |

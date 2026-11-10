@@ -62,3 +62,10 @@ Not used: Alzheimer's Society font and contrast figures reported by a blog ("san
 - [NIA: Adapting Activities for People With Alzheimer's Disease](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) — search result seen, but the page returned HTTP 405 when opened. No Round 39 claim relies on that page.
 
 Application: the mobile app already has a picture-viewing activity with optional prompts. Website Conversation Cards showed a question on every card and offered no way to look without it. A visible checkbox now lets the caregiver hide or restore the question; hiding it also keeps that question out of Read aloud. This is a low-risk extension of existing behavior, not evidence that the change improves health outcomes.
+
+## Round 40: two pictured activity choices (read 2026-11-10)
+
+- [Alzheimer's Society: How to support a person with dementia to communicate if they're unable to speak](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/support-person-dementia-communicate-unable-speak) — read. It describes picture cue cards that a person can point or nod to. A board showing everything at once may help some people and overwhelm others.
+- [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) — read. It recommends short, direct questions, one idea at a time, time to respond, and a few choices.
+
+Application: in the existing `/today/` advice, “nothing to do” already recommends offering two choices, but the interface linked one game. Two illustrated game links now make that advice usable without requiring the person to speak. This is a product inference, not evidence that a choice board treats or improves dementia.

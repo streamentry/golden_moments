@@ -64,6 +64,65 @@ import { Today } from '../tools/Today';
     border-left: 4px solid var(--gm-warning);
     background: var(--gm-surface-sunken);
   }
+  .today__activity-board {
+    margin-block: var(--space-lg) var(--space-xl);
+  }
+  .today__activity-board > p {
+    margin-bottom: var(--space-md);
+  }
+  .today__activity-choices {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--space-md);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  @media (min-width: 640px) {
+    .today__activity-choices {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+  .today__activity-choice {
+    display: grid;
+    grid-template-columns: 96px minmax(0, 1fr);
+    align-items: center;
+    gap: var(--space-md);
+    min-height: 112px;
+    padding: var(--space-md);
+    border: 1px solid var(--gm-outline);
+    border-radius: var(--radius-lg);
+    background: var(--gm-surface);
+    color: var(--gm-on-surface);
+    text-decoration: none;
+  }
+  .today__activity-choice:hover {
+    border-color: var(--gm-primary);
+    background: var(--gm-surface-raised);
+  }
+  .today__activity-choice:focus-visible {
+    outline: 3px solid var(--gm-primary);
+    outline-offset: 3px;
+  }
+  .today__activity-choice img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    border: 1px solid var(--gm-outline);
+    border-radius: var(--radius-md);
+    background: var(--gm-surface-raised);
+  }
+  .today__activity-choice-copy {
+    display: grid;
+    gap: var(--space-xs);
+    min-width: 0;
+  }
+  .today__activity-choice-copy strong {
+    font-size: var(--text-title-md);
+  }
+  .today__activity-choice-copy span {
+    font-size: var(--text-md);
+  }
   .today__label {
     display: block;
     font-weight: 700;
@@ -133,6 +192,13 @@ import { Today } from '../tools/Today';
     .today__answer {
       border: 3px solid #000000;
     }
+    .today__activity-choice {
+      border: 3px solid #000000;
+      color: #000000;
+    }
+    .today__activity-choice img {
+      border: 2px solid #000000;
+    }
     .today__help {
       border: 2px solid #000000;
       border-inline-start: 6px solid #000000;
@@ -167,6 +233,16 @@ import { Today } from '../tools/Today';
       outline: 2px solid Highlight;
     }
     .today__answer {
+      border: 2px solid CanvasText;
+    }
+    .today__activity-choice {
+      border: 2px solid CanvasText;
+      color: CanvasText;
+    }
+    .today__activity-choice:focus-visible {
+      outline: 3px solid Highlight;
+    }
+    .today__activity-choice img {
       border: 2px solid CanvasText;
     }
     .today__help {
