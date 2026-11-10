@@ -182,6 +182,7 @@
     "photoPairs": {
       "guidanceEmpty": "Start by choosing your photos.",
       "guidance": "Tap a photo, then tap the one that matches it.",
+      "photoComfort": "Choose photos the person enjoys. Stop or switch if a photo upsets them.",
       "restart": "Mix them again",
       "intro": "**Choose 2 to 6 photos** from this device. They are shown only on this page and are never uploaded or saved.",
       "choose": "Choose photos",

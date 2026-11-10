@@ -89,3 +89,9 @@ Application: website Conversation Cards already allowed a helper to hide or show
 - [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) — read. It suggests using photos and adding captions, while allowing time for a response.
 
 Application: on the website, selected Photo Pairs tiles previously used only numbered labels such as “Photo 1.” Helpers can now add optional short captions; the caption is used as the screen-reader name. Captions stay in page memory and are not uploaded or saved. This is an accessibility and conversation-support inference, not a clinical claim.
+
+## Round 44: comfortable photo selection (read 2026-11-10)
+
+- [Alzheimer's Society: The Activities Handbook](https://www.alzheimers.org.uk/sites/default/files/2020-11/AS_77AC_The-Activities-Handbook.pdf) — read. In the life-story section, it notes that some photographs may bring painful memories. If the person is upset, let them express their feelings and ask whether they want to continue or do something else.
+
+Application: Photo Pairs now puts one short reminder next to photo selection: choose photos the person enjoys and stop or switch if a picture upsets them. This is a point-of-use cue, not a clinical safeguard or evidence of a health outcome.

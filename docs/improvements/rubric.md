@@ -69,6 +69,10 @@ Conversation Cards now starts with only its image and theme; the prompt remains 
 
 Optional captions now name selected Photo Pairs images for screen readers; blank fields preserve the numbered fallback. The three new labels use the English fallback on translated pages. All 727 site tests and TypeScript pass; the production build remains blocked by the Tibetan guide description, and the Playwright wrapper/Astro dev are unavailable for browser inspection. Keep the rubric result at **9.62**, with verification health at **7.5**; browser, caregiver and participant checks are not scored.
 
+## Round 44 score update (2026-11-10)
+
+Photo Pairs now displays a one-line comfort reminder before selection. It adds no new control or state. The 727 site tests and TypeScript pass; the full build remains blocked by the Tibetan guide description, and the new English string is not yet translated. Keep the recorded weighted score at **9.62**, with verification health at **7.5**; live browser and caregiver/person checks remain unverified.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

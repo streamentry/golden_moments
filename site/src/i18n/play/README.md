@@ -40,7 +40,7 @@ member or carer. Write plain, warm, adult language.
 
 | Key | How many | What it is |
 | --- | --- | --- |
-| `ui` | 192 strings in 16 sections | Guidance, buttons, chips, live messages, labels, print headings |
+| `ui` | 193 strings in 16 sections | Guidance, buttons, chips, live messages, labels, print headings |
 | `pictures` | 83 names | One name per drawing id (list below) |
 | `illustrations` | 100 names | One short spoken label per mobile-only raster illustration id, copied from `assets/images/illustrations/manifest.json` |
 | `content.sayings` | at least 30; aim for 40–50 (English has 50) | Finish the saying |
@@ -77,6 +77,8 @@ already have all 83 drawing names; it is not used by the browser games.
   needs all six; Japanese, Korean, Chinese, Thai, Vietnamese and Indonesian
   need only `other`). The test checks this with `Intl.PluralRules`.
 - `photoPairs.intro`: text between `**` is shown in bold. Keep one bold run.
+- `photoPairs.photoComfort` is a short reminder to follow the person's response
+  to selected photos. It is an English fallback until translated.
 - `photoPairs.captionSummary`, `captionHelp` and `captionLabel` label optional,
   page-only photo captions. They remain English fallbacks on translated pages
   until reviewed translations are added; caption text is not stored or uploaded.

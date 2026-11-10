@@ -93,6 +93,7 @@ export default function PhotoPairs(props: PlayProps) {
           <p className="m-0">
             {boldRuns(ui.photoPairs.intro).map((run, i) => (run.bold ? <strong key={i}>{run.text}</strong> : run.text))}
           </p>
+          <p className="m-0">{ui.photoPairs.photoComfort}</p>
           <label className="btn btn--primary">
             <Icon name="photo" />
             {hasPhotos ? ui.photoPairs.chooseDifferent : ui.photoPairs.choose}
