@@ -98,14 +98,8 @@ implements them through `gm…` constants and `gmBuildTheme`.
    unrelated rewrites. Consult official APIs for the pinned SDK, not memory.
 4. Run applicable checks below, inspect the actual UI when changed, and review
    the diff against the three review rules. Fix causes rather than hiding errors.
-5. Record the tested commit, commands, results, and remaining gates. Recheck
-   upstream before writing; a concurrent merge requires fresh integration checks. Improve-until-done loops score with docs/improvements/rubric.md (automated evidence; above 8.6 overall, none below 7.0; person- or device-only checks are listed as not verified, never as blockers).
-
-CI is slow: never block on it. After pushing, record the PR number and head
-commit, then continue the next item of the goal. Check the PR's checks later, at
-the next natural step or on a later pass, and fix any failure on that branch.
-Do not poll, sleep, or run a background waiter for CI. Merge only when the final
-head's checks are green or the maintainer says to merge as is.
+5. Record the tested commit, commands, results and gates; check upstream before writing and integrate concurrent merges. Score loops with `docs/improvements/rubric.md` (>8.6 overall, none below 7.0; person/device-only checks are unverified, never blockers).
+CI is slow: do not poll, sleep or wait. After pushing, record PR/head and continue the goal; check later and fix failures. Merge only on green checks or an explicit maintainer “as is.”
 
 For multi-session work, leave a compact handoff in the existing workboard or PR:
 completed change, evidence, unresolved risk, and next executable action. Do not

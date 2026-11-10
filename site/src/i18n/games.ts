@@ -21,11 +21,10 @@ export function localizeGame(game: GameInfo, code: string): GameInfo {
 }
 
 /**
- * Whether a game is offered in `code`. Word search needs a letter grid, which
- * Chinese, Japanese, Korean and Thai do not have, and Finish the saying needs
- * 30 genuine sayings, which a language with little translation support may not
- * have. A language leaves such a game out entirely (no page, card or hreflang)
- * rather than show an empty or invented one.
+ * Whether a game is offered in `code`. Word search needs a suitable letter grid
+ * and enough translated words to fill every theme, while Finish the saying needs
+ * 30 genuine sayings. A language leaves an unsupported game out entirely (no
+ * page, card or hreflang) rather than show an empty or invented one.
  */
 export function gameAvailable(slug: string, code: string): boolean {
   if (slug === 'finish-the-saying') return !NO_SAYINGS_GAME.includes(code);

@@ -133,7 +133,8 @@ Each item is `{ "start", "end", "others": [two words], "prompt" }`.
 
 ### `content.wordSearch`
 
-- `available`: leave `true` unless a letter grid does not suit the script.
+- `available`: use `true` only when a letter grid suits the script and every
+  theme has at least six familiar 3–6 grapheme words; otherwise use `false`.
   It is already `false` for Chinese (both scripts), Japanese, Korean and Thai
   (`NO_LETTER_GRID` in `../play.ts`); delete `content.wordSearch` from those
   files, or copying `"available": true` from English would turn it back on.
