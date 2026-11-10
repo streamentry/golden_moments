@@ -1,10 +1,11 @@
 import { useEffect, useRef, useState } from 'react';
 import { ActivityChoiceBoard } from './ActivityChoiceBoard';
 import { SITUATIONS, SITUATION_BY_ID, type SituationId } from '../lib/today/situations';
-import { addNote, byDay, loadNotes, localDay, removeNote, removeNoteAriaLabel, saveNotes, toggleSituation, type Note, type Outcome } from '../lib/today/notes';
+import { addNote, byDay, loadNotes, localDay, removeNote, removeNoteAriaLabel, saveNotes, TIME_OF_DAY_LABELS, toggleSituation, type Note, type Outcome, type TimeOfDay } from '../lib/today/notes';
 import { renderWithPhoneLinks } from '../lib/today/text';
 import { sounds } from '../games/shared/sound';
 import { TodaySuggestions } from './TodaySuggestions';
+import { TodayTimePicker } from './TodayTimePicker';
 
 const OUTCOME_LABEL: Record<Outcome, string> = {
   helped: 'That helped',
@@ -43,6 +44,7 @@ export function Today() {
   const [chosen, setChosen] = useState<SituationId | null>(null);
   const [notes, setNotes] = useState<Note[]>([]);
   const [text, setText] = useState('');
+  const [timeOfDay, setTimeOfDay] = useState<TimeOfDay | ''>('');
   const [status, setStatus] = useState('');
   const [canSave, setCanSave] = useState(true);
   const answerHeading = useRef<HTMLHeadingElement>(null);
@@ -65,8 +67,19 @@ export function Today() {
   const record = (outcome: Outcome) => {
     if (!chosen) return;
     sounds.tap();
-    commit(addNote(notes, { id: newId(), date: localDay(), situation: chosen, outcome, text }), 'Saved in your notes below.');
+    commit(
+      addNote(notes, {
+        id: newId(),
+        date: localDay(),
+        situation: chosen,
+        outcome,
+        ...(outcome !== 'not_tried' && timeOfDay ? { timeOfDay } : {}),
+        text,
+      }),
+      'Saved in your notes below.',
+    );
     setText('');
+    setTimeOfDay('');
   };
 
   const days = byDay(notes);
@@ -86,6 +99,7 @@ export function Today() {
                 onClick={() => {
                   sounds.tap();
                   setChosen((prev) => toggleSituation(prev, s.id));
+                  setTimeOfDay('');
                   setStatus('');
                 }}
               >
@@ -145,6 +159,7 @@ export function Today() {
             onChange={(e) => setText(e.target.value)}
             placeholder="e.g., Playing music in the kitchen calmed things down"
           />
+          <TodayTimePicker value={timeOfDay} onChange={setTimeOfDay} />
           <div className="btn-row" role="group" aria-labelledby="today-how">
             {(Object.keys(OUTCOME_LABEL) as Outcome[]).map((o) => (
               <button key={o} type="button" className="btn" onClick={() => record(o)}>
@@ -183,7 +198,8 @@ export function Today() {
                   {d.notes.map((n) => (
                     <li key={n.id}>
                       <span>
-                        <strong>{SITUATION_BY_ID.get(n.situation)?.label}.</strong> {OUTCOME_IN_NOTES[n.outcome]}.
+                        <strong>{SITUATION_BY_ID.get(n.situation)?.label}.</strong> {OUTCOME_IN_NOTES[n.outcome]}
+                        {n.timeOfDay ? ` (${TIME_OF_DAY_LABELS[n.timeOfDay].toLowerCase()})` : ''}.
                         {n.text ? ` “${n.text}”` : ''}
                       </span>
                       <button
