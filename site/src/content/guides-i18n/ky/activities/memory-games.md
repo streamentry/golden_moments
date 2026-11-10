@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Деменциясы бар адамдар үчүн жумшак эс оюндары"
+seoTitle: "Деменция үчүн жумшак эс оюндары"
+description: "Деменциясы бар улгайган адамдар үчүн дал келтирүү, сүрөт жана карта оюндарын эч кимди текшербегендей ойноо: сүрөттөр ачык, жуптар аз, упай жок."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Деменциясы бар улгайган адамдар үчүн эс оюндары эстутумга таянбаганда
+  эң ылайыктуу болот. Дал келтирүү оюндарын сүрөттөрдү ачык калтырып
+  ойноңуз, төрттөн алтыга чейин карточка колдонуңуз, команда болуп
+  ойноңуз жана упайды кошпоңуз. Сүрөттү таануу аны эстеп чыгаруудан
+  жеңилирээк, ошондуктан баары көрүнүп турган оюндарды тандаңыз.
+  Максат — жыйынтык эмес, бирге ырахат алуу.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Кадимки эс оюндары карточкаларды жашырып, деменция кыйындаткан нерсени текшерет. Анын ордуна сүрөттөрдү ачык калтырыңыз."
+  - "Бөлүктөр аз, сүрөттөр чоң жана бир убакта бир гана тандоо оюнду жагымдуу сактайт."
+  - "Команда болуп ойноңуз, кезектешип жардам бериңиз жана упайдан баш тартыңыз. Эч кимди кысымга албоо керек."
+  - "Эч бир эс оюну деменцияны дарылоого, жайлатууга же токтотууга жардам берери көрсөтүлгөн эмес. Оюнду бирге ырахат убакыт өткөрүү үчүн ойноңуз."
+  - "Оюн кызыктуу болуп турганда токтоңуз. Сүрөттөр жөнүндө сүйлөшүү да жакшы жыйынтык."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Деменциясы бар адам үчүн кандай эс оюну ылайыктуу?"
+    a: "Сүрөттөрү ачык кала турган чоң, тааныш сүрөттөрү бар дал келтирүү оюну, мисалы төрт же алты карточка менен коюлган Picture pairs. Көрүнүп турган сүрөттүн экинчи окшошун табуу кыска мөөнөттүү эстутумду текшербестен ырахат тартуурат. Find the same дагы жөнөкөй: экиден төрткө чейинки варианттын ичинен бир сүрөттү дал келтиресиз."
+  - q: "Эс оюндары деменцияга жардам береби?"
+    a: "Эч бир эс оюну деменцияны дарылоого, жайлатууга же токтотууга жардам берери көрсөтүлгөн эмес; Cochrane серебинде компьютердик мээ көнүгүүлөрү деменциянын алдын алабы же жокпу деп айтуу үчүн далилдер өтө чектелген деп табылган. Ошентсе да оюндар бирге жылуу убакыт өткөрүүнүн жакшы жолу боло алат. Аларды ырахат жана шериктештик үчүн тандаңыз."
+  - q: "Деменциясы бар адам менен классикалык Concentration ойносом болобу?"
+    a: "Оорунун алгачкы мезгилинде айрым адамдар аны, өзгөчө карточкалар аз болгондо, дагы эле жактырышат. Эгер карточкалардын кайда турганын эстеп калуу капа кылып баштаса, карточкаларды ачык кылып, жуптарды чогуу таап коюңуз. Бул дал келтирүү бөлүгүн сактап, эстутумду текшерүүнү алып салат."
+  - q: "Топто ойноо үчүн улгайган адамдарга кандай эс оюндары ылайыктуу?"
+    a: "Экрандагы алып баруучу менен сүрөттүү бинго, тааныш макалдарды чогуу аяктоо жана сүйлөшүүгө түрткү болгон карточкалар топ үчүн ылайыктуу. Ар бир карта толгончо ойноңуз жана ким туура жооп бергенин атап айтпаңыз, ошондо эч ким өзүн бөлөкчө сезбейт."
+  - q: "Интернетте улгайган адамдар үчүн акысыз эс оюндары барбы?"
+    a: "Ооба. Бул сайттагы оюндар, анын ичинде Picture pairs, Find the same, Photo pairs жана Picture puzzle, акысыз, катталууну талап кылбайт жана телефондо, планшетте жана компьютerde иштейт. Эч биринде таймер же упай жок."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+«Улгайган адамдар үчүн эс оюндары» деп издесеңиз, көбүнчө мээни машыктырууну каалагандарга арналган нерселер чыгат: жашырылган карточкалар, тескери саноочу сааттар, деңгээлдер жана упайлар. Деменция менен жашаган адам үчүн бул өзгөчөлүктөр оюнду кыйын болуп калган нерсенин өзү боюнча сыноого айлантат. Ошол эле оюндарды бир кыйла жумшак жол менен ойносо болот. Бул бетте кантип ойноону жана ар бир этапта кандай оюндар ылайыктуу экенин көрсөтөбүз.
 
-## Why do classic memory games frustrate people with dementia?
+## Эмне үчүн классикалык эс оюндары деменциясы бар адамдарды чарчатат?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Анткени алар жаңы маалыматты эстутумда кармоого таянат, ал эми деменциянын эң кеңири таралган себеби болгон Альцгеймер оорусу көбүнчө дал ушул жөндөмгө биринчи таасир этет. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) Альцгеймер оорусунун алгачкы белгилеринен эң көп кездешкени — жаңы үйрөнүлгөн маалыматты эстөө кыйынчылыгы деп айтат. Классикалык Concentration оюнунда эки карточканы ачып, алардын кайда экенин эстеп, бир мүнөттөн кийин ошол маалыматты колдоносуз. Бул — жаңы маалыматты кармоо жана эстеп чыгуу.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Мындан тышкары таймер, упай же туура эмес жоопко сигнал кошулса, адам өзүнө кыйын болуп жаткан нерсени жакын адамынын жанында дагы бир жолу сезет. Көптөр акырындап оюн ойноодон баш тартышат.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Көрүнүп турган нерсени таануу — бул башка, көбүнчө бир кыйла жеңилирээк аракет. Эки чыны тең көрүнүп турганда, экинчисин көрсөтүү жагымдуу сезилет. Ошондуктан негизги ой — дал келтирүүнү сактап, эстутумду текшерүүнү алып салуу.
 
-## How do you make a memory game gentle?
+## Эс оюнун кантип жумшак кылса болот?
 
-These adjustments work for card games, board games and games on a screen.
+Бул өзгөртүүлөр карта оюндарына, үстөл оюндарына жана экрандагы оюндарга equally ылайыктуу.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Сүрөттөрдү ачык калтырыңыз.** Көрүнүп турган сүрөттөрдү дал келтирүү дагы деле чыныгы оюн, жана көбүнчө ырахат тарттырат.
+2. **Бөлүктөрдү азыраак колдонуңуз.** Эки же үч жуптан баштаңыз. Эгер өтө оңой болуп, көбүрөөк кааласа гана кошуңуз.
+3. **Чоң, тааныш, чоңдорго ылайыктуу сүрөттөрдү тандаңыз.** Мисалы, чыны, күн карама, кайык. Мультфильмдерди же өтө татаал көрүнүштөрдү колдонбоңуз.
+4. **Команда болуп ойноңуз.** «Сенин кезегиң» дегендин ордуна «Кел, иттерди чогуу табалы» деп айтыңыз. Кезектешип көрсөтүп, жардам бериңиз.
+5. **Упайдан баш тартыңыз.** Эч ким жеңиши керек эмес. Эгер кимдир бирөө сураса, жөн эле «Биз бүтүрдүк» деген жетиштүү.
+6. **Убакыт менен жарыштырбаңыз.** Таймер болбосун, кезектердин ортосунда шаштырбаңыз.
+7. **Сүрөттөр жөнүндө сүйлөшүңүз.** «Мына кайык кандай сонун. Сиз качандыр бир кезде кайык менен сүзгөн белеңиз?» Көп учурда эң жагымдуу бөлүгү — дал ушул баарлашуу.
+8. **Жакшы маалда токтоңуз.** Дагы эле жагымдуу болуп турганда, бир дал келтирүүдөн кийин токтоп коюңуз.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) да жалпы кеңеш катары ушундай эле ойду айтат: иш-аракетти адамдын колунан келгенге ылайыкташтырыңыз, капаланганын байкаңыз жана ал өзүңөр жетишкендик сезе алышын камсыз кылыңыз.
 
-## Gentle memory and matching games to try
+## Байкап көрүүгө ылайыктуу жумшак эс жана дал келтирүү оюндары
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (сүрөттөр көрүнүп турган дал келтирүү)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) — чоң сүрөттөрү бар жана 4төн 12ге чейинки карточкадан турган дал келтирүү оюну. Сүрөттөр көрүнүп турушу мүмкүн, ошондуктан оюн алардын кайда турганын эстөө жөнүндө эмес, окшош жуптарды табуу жөнүндө. Төрт карточкадан баштаңыз. Эгер оорунун алгачкы мезгилиндеги адам бир аз көбүрөөк кыйынчылыкты жактырса, **Жашырылган сүрөттөр** режимин тандаса болот, бирок кызык жоголо баштаган замат кайра сүрөттөр көрүнгөн режимге кайтыңыз.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) үстүндө бир сүрөттү, ылдый жагында экиден төрткө чейинки вариантты көрсөтөт. Туура келгенин басыңыз. Бул сайттагы эң жөнөкөй дал келтирүү оюну жана толук тор өтө татаал көрүнгөн адамдарга, анын ичинде жанында бирөө менен болгон кийинки этаптагы көптөгөн адамдарга ылайыктуу.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (үй-бүлөлүк сүрөттөр менен эс оюну)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) сиз тандаган сүрөттөрдү дал келтирүү оюнуна айлантат: ит, бакча, көл жээгиндеги үй. Тааныш жүздөр жана жерлер көбүнчө кадимки сүрөттөргө караганда көбүрөөк сүйлөшүүгө түрткү берет. Сүрөттөр браузериңизде сакталат жана эч качан жүктөлбөйт.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) ар бир сүрөттү тиешелүү себетке, мисалы ашканага же бакчага коюуну суранат. Иретке салуу кыска мөөнөттүү эстутумга эмес, дүйнө кантип иштейт деген узак убакыттан бери белгилүү билимге таянат.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) сүрөттү 4 же 9 бөлүккө бөлөт. Сүрөт толук болгуча, эки бөлүктү басып ордун алмаштырыңыз. Толук сүрөт экранда жетектөөчү катары көрүнүп турат.
 
-### Real cards on the table
+### Үстөлдөгү чыныгы карталар
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Экран сөзсүз түрдө керек эмес. Эки топтом картадан же сүрөттүү карта топтомунан дал келген жуптарды алып коюңуз. Аларды эки катарга ачык жайып, жуптарды чогуу табыңыз. Кийинчерээк түсү же масты боюнча иреттесеңиз болот. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) карта жана үстөл оюндарын алгачкы этап үчүн ылайыктуу иш-аракеттердин катарына киргизет.
 
-## Which memory games suit each stage?
+## Кайсы эс оюндары ар бир этапка ылайыктуу?
 
-Stages are loose labels. Go by what the person enjoys today.
+Этаптар — болжолдуу гана бөлүнүш. Бүгүн адамга эмне жагарын эске алыңыз.
 
-| Stage | Games that often fit | How to set them up |
+| Этап | Көбүнчө ылайыктуу оюндар | Кантип уюштурууга болот |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Алгачкы | Picture pairs, Photo pairs, 9 бөлүктүү Picture puzzle, тааныш карта оюндары | Аларга тандоого мүмкүнчүлүк бериңиз. Эгер жактырса, карточкалар айланса болот; тынчымды алса, упайдан баш тартыңыз |
+| Орто | 4–6 карточкалык, сүрөттөрү ачык Picture pairs, Find the same, Sort together | Сүрөттөр дайыма көрүнүп турсун. Жанында отырып, кезектешип жардам бериңиз |
+| Кийинки | 2 тандоосу бар Find the same, бир чоң сүрөттү чогуу кароо | Абдан кыска болсун. Планшетти сиз кармаңыз; алар көрсөткөнү же жөн эле көрүп, укканы жетиштүү |
 
-## Do memory games help with dementia?
+## Эс оюндары деменцияга жардам береби?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Эч бир эс оюну деменцияны дарылоого, жайлатууга же токтотууга жардам берери көрсөтүлгөн эмес. Жеңил когнитивдик бузулушу бар адамдар үчүн компьютердик когнитивдик машыгуулар боюнча жүргүзүлгөн [Cochrane сереби](https://pubmed.ncbi.nlm.nih.gov/30864747/) бул деменциянын алдын алабы же жокпу деп айтуу үчүн далилдер өтө чектелген деп тапкан. Биздин [мээ оюндары жана деменция](/brain-health/brain-games/) боюнча көрсөтмөбүз изилдөөлөр эмнени көрсөтөрүн жана эмнени көрсөтпөй турганын түшүндүрөт.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Бул оюндарды таптакыр ойнобоо керек дегенди билдирбейт. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) жетишкендикке эмес, ырахат алууга көңүл бурууну кеңеш берет. Сүрөттөрдү дал келтирип, алар жөнүндө сүйлөшкөн он мүнөт күндүн чындап жакшы бөлүгү боло алат.
 
-## What about memory games for seniors without dementia?
+## Ал эми деменциясы жок улгайган адамдар үчүн эс оюндарычы?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Эгер эстутуму боюнча кыйынчылыгы жок улгайган адам убакыт менен чектелген табышмактарды, упайды жана татаалыраак деңгээлдерди жактырса, мында эч нерсе ката эмес. Бирок муну деменциядан коргойт деп эсептебеңиз; эч бир оюн муну көрсөтө алган эмес. Жогорудагы жумшак варианттар муундар чогуу ойногондо да жакшы иштейт: деменциясы бар чоң ата же чоң эне менен жаш небереси эч ким текшерилбестен, сүрөттөрдү команда болуп дал келтире алышат.
 
-## When should you stop or change the game?
+## Оюнду качан токтотуу же өзгөртүү керек?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Оор дем алып коюу, планшетти түртүп коюу, «Мен муну кыла албайм» деп айтуу же тынчсыздангандай көрүнүү — баарын жеңилдетүү же токтотуу керек деген белги. Карточкаларды азайтыңыз, сүрөттөрдү ачык кылыңыз, [Find the same](/games/find-the-same/) оюнуна которулуңуз же жөн эле сүрөттөрдү карап, сүйлөшүңүз. Эгер таптакыр ойногусу келбесе, бул да эч нерсе эмес. Ыргак жана жардам берүү тууралуу көбүрөөк маалыматты [кантип чогуу ойноо керек](/caregiving/how-to-play-together/) деген көрсөтмөбүздөн таба аласыз.

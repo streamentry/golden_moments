@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Көнүгүү жана мээ саламаттыгы: изилдөөлөр эмнени көрсөтөт"
+seoTitle: "Көнүгүү жана деменция: изилдөөлөр эмнени айтат"
+description: "Дене кыймылы менен деменция коркунучу кандай байланышта экенин изилдөөлөрдөн билип, улуулар үчүн коопсуз жана жагымдуу кыймыл ыкмаларын караңыз."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Изилдөөлөр туруктуу дене кыймылы деменция коркунучунун төмөндүгү менен байланыштуу экенин
+  көрсөтөт. 2024-жылкы Lancet комиссиясы кыймылсыз жашоону өзгөртүүгө мүмкүн болгон 14
+  коркунучтун бири катары эсептейт. Бирок сыноолор көнүгүү деменциянын алдын аларын
+  далилдеген эмес. Ошентсе да кыймыл күчкө, тең салмактуулукка, маанайга жана уйкуга
+  пайдалуу, ошондуктан жөө басуу, отургучта жасалган көнүгүүлөр жана бийлөө өзү эле
+  пайдалуу. Жаңы нерсени баштоодон мурун дарыгер менен кеңешиңиз.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Дене кыймылы көп адамдарда деменция коркунучу орточо төмөн болот, бирок бул көбүнчө байкоо изилдөөлөрүнөн алынган, клиникалык сыноолордон эмес."
+  - "Улуу адамдар менен өткөрүлгөн беш жылдык көнүгүү сыноосунда топтордун ортосунда акыл-эс жөндөмү боюнча айкын айырма табылган жок."
+  - "65 жаштан улуу адамдар үчүн CDC көрсөтмөлөрү аэробдук, булчуңду чыңдоочу жана тең салмактуулукту жакшыртуучу аракеттерди камтыйт жана бир аз кыймыл болсо да эч нерсе кылбагандан жакшы экенин айтат."
+  - "Деменция менен жашаган адам үчүн узак убакыт эмес, тааныш жана чогуу жасалган кыймыл, мисалы күн сайын жөө басуу же отуруп оюн ойноо, кандайдыр бир көрсөткүчкө жетүүдөн маанилүү."
+  - "Төрт улгайган адамдын биринен көбү жыл сайын кулап калат, ошондуктан тең салмактуулукка жана коопсуз мейкиндикке биринчи орун берилет."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Көнүгүү деменциянын алдын алабы?"
+    a: "Муну эч ким убада кыла албайт. Көптөгөн изилдөөлөр активдүү болуу деменция коркунучунун төмөндүгү менен байланыштуу экенин көрсөтөт, бирок клиникалык сыноолор көнүгүү анын алдын аларын далилдеген жок. Көнүгүүнүн башка көптөгөн далилденген пайдасы бар, ошондуктан аны кылуу пайдалуу."
+  - q: "Деменция менен жашаган адам үчүн көнүгүү коопсузбу?"
+    a: "Адатта, бир аз пландоо менен коопсуз болот. Улуттук карылык институту (NIA) жаңы күн тартибин баштоодон мурун адамдын дарыгери менен кеңешүүнү, ыңгайлуу бут кийим тандап берүүнү, суу сунуштоону жана көнүгүүлөрдү кыска кармоону сунуштайт. Эгер адам чарчаган, тең салмактуулугун жоготкон же ыңгайсыз болуп жаткандай көрүнсө, токтотуңуз."
+  - q: "Отуруп туруп кандай көнүгүүлөрдү жасаса болот?"
+    a: "Отуруп жасала турган көнүгүүлөргө отургучта созулуу же отургучта йога, шарды же жумшак топту ыргытуу, буурчак капчыгын ыргытуу, консервалар банкисын көтөрүү, созулуучу лента менен машыгуу жана педалдуу тренажёр кирет. Булар жөө басуу кыйын болгондо жакшы тандоо."
+  - q: "Эгер адам кыймылдаганы келбесечы?"
+    a: "Аны мажбурлабаңыз. Кийинчерээк кайра аракет кылыңыз, өзүңүз да кошулуңуз, тааныш музыка коюңуз же кыймылды шыпырыуу же гүлдөргө суу куюу сыяктуу ишке айландырыңыз. Почта кутусуна чейин кыска жөө басуу да жетиштүү, сыртта чогуу жөн эле отуруу да жакшы."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Активдүү болуу мээ саламаттыгы боюнча изилдөөлөрдө эң көп изилденген адаттардын бири. Изилдөөлөр аны деменция коркунучунун төмөндүгү менен байланыштырат, бирок көнүгүү деменциянын алдын аларын далилдеген эмес. Түшүнүктүү нерсе: кыймыл ар кандай куракта күчкө, тең салмактуулукка, маанайга жана уйкуга жардам берет. Бул баракта изилдөөлөр эмнени көрсөтөрү, улууларга канча кыймыл сунушталарын жана деменция менен жашаган адам менен бирге кандай жумшак кыймыл ыкмаларын колдонсо болорун табасыз.
 
-## Does exercise lower the risk of dementia?
+## Көнүгүү деменция коркунучун азайтабы?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Изилдөөлөр дене кыймылы көп адамдарда деменциянын өнүгүш ыктымалдыгы азыраак экенин көрсөтөт, бирок далилдердин чеги бар. [2024-жылкы деменция боюнча Lancet комиссиясы](https://doi.org/10.1016/S0140-6736(24)01296-0) кыймылсыз жашоону өзгөртүүгө мүмкүн болгон 14 коркунучтун бири катары эсептейт. Комиссиянын үлгүсүнө ылайык, бул 14 фактор дүйнө жүзүндөгү деменциянын болжол менен 45% менен байланыштуу.
 
-Here is what the evidence looks like:
+Далилдер мындай көрүнөт:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Байкоо изилдөөлөрү бир багытты көрсөтөт.** Комиссия талкуулаган 58 изилдөөнү камтыган серепте физикалык жактан активдүү адамдарда деменция коркунучу болжол менен 20% төмөн болгон. Эң чоң айырма дээрлик такыр кыймылдабаган адамдар менен жок дегенде бир аз кыймыл кылгандар арасында байкалган.
+- **Байланыш эки тараптуу болушу мүмкүн.** Комиссия кыймылсыздык коркунучту жогорулатышы мүмкүн экенин белгилейт. Ошондой эле диагноз коюлганга чейин бир нече жыл мурун башталган деменциянын алгачкы мээ өзгөрүүлөрү адамдарды азыраак кыймылдоого алып келиши мүмкүн деп эскертет.
+- **Клиникалык сыноолор анчалык так эмес.** Бир сыноодо орточо жашы 78 болгон 945 улуу адам беш жыл бою жумасына эки жолу көзөмөлдөгү көнүгүү тобуна же салыштыруу тобуна бөлүнгөн. Аягында топтордун ортосунда акыл-эс жөндөмү боюнча айкын айырма болгон жок. Салыштыруу тобундагы көптөгөн адамдар да активдүү болушкан, бул жыйынтыкты түшүндүрүүнү кыйындатат.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Улуттук карылык институту (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) муну ачык айтат. Дене кыймылы менен Альцгеймер оорусунун алдын алуу ортосунда так байланыш көрсөтүлгөн эмес жана көнүгүү анын алдын алат же жайлатат деп айтуу үчүн сыноолордун далилдери жетишсиз. Ошентсе да көнүгүү кулап калуу, депрессия, кант диабети, жогорку кан басым жана инсульт коркунучун азайтат. Бул абалдардын айрымдары акыл-эс жөндөмүнүн начарлашы менен да байланыштуу.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Чынчыл жыйынтык мындай: бүгүн өзүңүздү жакшыраак сезүү жана жакшыраак кыймылдай алуу үчүн кыймылдаңыз. Мээ үчүн мүмкүн болгон пайда бул убада эмес, кошумча мүмкүнчүлүк.
 
-## How much activity do older adults need?
+## Улууларга канча кыймыл керек?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[65 жаштан улуу адамдар үчүн CDC көрсөтмөлөрү](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) ар жума сайын үч түрдүү кыймылды сунуштайт:
 
-| Type | Weekly amount | Examples |
+| Түрү | Жумалык көлөмү | Мисалдар |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Аэробдук | Жок дегенде 150 мүнөт орточо активдүүлүктө, мисалы 5 күндө 30 мүнөттөн | Тез жөө басуу, бийлөө, сууда аэробика |
+| Булчуңду чыңдоо | Жок дегенде 2 күн, негизги булчуң топторунун баарын иштетүү | Жеңил гантелдерди же консервалар банкисын көтөрүү, созулуучу лента |
+| Тең салмактуулук | Туруктуу түрдө | Өкчө менен учун кезектештирип басуу, отургучтан туруп кетүү |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Булар милдеттүү талап эмес, максаттар. CDC бул максаттарга жетпесеңиз деле, мүмкүнчүлүгүңүзгө жана ден соолугуңузга жараша активдүү болуңуз деп айтат. Бир аз кыймыл болсо да эч нерсе кылбагандан жакшы.
 
-## Gentle ways to move for older adults
+## Улуулар үчүн жумшак кыймыл ыкмалары
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Бирге жөө басыңыз.** Досуңуз, кошунаңыз же жөө жүрүүчү топ менен күн сайын басуу баарлашууга жана коопсуздукка жардам берет.
+- **Отургучта көнүгүүлөр.** Отуруп кол көтөрүү, тизени айлантуу, ордунда марш басуу жана отургучта йога тең салмактуулукка коркунуч туудурбай күчтү арттырат.
+- **Ашканада бийлеңиз.** Адамдын өспүрүм же жаштык кезиндеги тааныш музыкасын коюп, акырын чайкалыңыз, чертиңиз же кадам таштаңыз. Биздин [музыка иш-чаралары боюнча колдонмодо](/activities/music/) идеялар бар.
+- **Үйдөгү буюмдар менен күч көнүгүүлөрү.** Сүйүктүү берүүнү көрүп отурганда суу толтурулган бөтөлкөлөрдү же консервалар банкисын көтөрүңүз.
+- **Бакча иштери же үй жумуштары.** Гүлдөргө суу куюу, жалбырак чогултуу, шыпыруу жана кир жуугандарды бүктөө — мунун баары кыймылга эсептелет. [Сыртта жана бакчада жасала турган иш-чараларды](/activities/outdoor-and-gardening/) жана [үй жумуштарын](/activities/household-tasks/) караңыз.
+- **Сууда көнүгүү.** NIA кургакта көнүгүү муундарга оор келсе, сууда аэробика сабактарын тандоого болорун белгилейт.
 
-## How to exercise with someone living with dementia
+## Деменция менен жашаган адам менен кантип көнүгүү керек
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Деменция менен жашаган адам үчүн максат — көрсөткүчкө жетүү эмес, ыңгайлуулук, жагымдуу убакыт жана күнүмдүк жөндөмдөрдү колдоо. NIAнын айтымында, дене кыймылы Альцгеймер оорусу менен жашаган адамдын булчуңдарын, муундарын жана жүрөгүн жакшы абалда кармоого жардам берет, ошондой эле маанайды жана уйкуну жакшыртышы мүмкүн. Жаңы күн тартибин баштоодон мурун адамдын дарыгери менен кеңешиңиз. [NIAнын кам көрүүчүлөр үчүн колдонмосундагы](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) кеңештер:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Күн сайын чогуу жөө басыңыз.** Коопсуз, тааныш жана тоскоолдуксуз жол тандаңыз. Эгер адам жалгыз жүрсө, телефон номериңиз жазылган ID билерик пайдалуу болот.
+2. **Улуу адамдар үчүн көнүгүү видеолорун байкап көрүңүз.** Отуруп же туруп, чогуу кайталаңыз.
+3. **Көнүгүүлөрдү кыска кармаңыз.** Бир узак машыгуунун ордуна бир нече кыска «мини-көнүгүү» ылайыктуураак болушу мүмкүн.
+4. **Музыка кошуңуз.** Тааныш ырлар кыймылды милдет эмес, жагымдуу иш-чарадай сездирет. Эгер адам кааласа, бийлеңиз.
+5. **Суу жана ыңгайлуу бут кийим сунуштаңыз.** Көнүгүү учурунда жана андан кийин суу же шире бериңиз, ыңгайлуу кийим жана көнүгүү үчүн ылайыктуу бут кийим тандаңыз.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Эгер жөө басуу кыйын болсо, [Альцгеймер оорусу менен жашаган адамга кам көрүү боюнча NIA колдонмосу](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) отуруп жасала турган ыкмаларды сунуштайт. Буларга отургучта көнүгүүлөр же йога, буурчак капчыгын ыргытуу, жумшак топту же шарды ыргытуу, созулуучу лента, жеңил үй буюмдарын көтөрүү жана педалдуу тренажёр кирет. Шыпыруу жана чаң сүртүү сыяктуу жөнөкөй иштер да эсептелет.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Кыймыл эмнеге жарай аларын реалдуу баалаңыз. Lancet комиссиясы көнүгүү тынчсыздануу сыяктуу жүрүм-турум өзгөрүүлөрүн азайтат деген далил тапкан эмес. Кыйын түштүктү «оңдоо» үчүн эмес, жакшы сезилиши мүмкүн болгондуктан чогуу кыймылдаңыз. Эгер адам жок десе, эч нерсе эмес. Биздин [алар макул болбогондо](/caregiving/when-they-say-no/) деген колдонмодо кийинчерээк кайра аракет кылуунун жумшак жолдору бар. Эртерээк токтотуу же жөн эле сыртта чогуу отуруу да жакшы жыйынтык.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Кыймылдагандан кийин [Тынч дем алуу](/games/calm-breathing/) сыяктуу тынч тыныгуу экөөңөргө тең эс алууга жардам берет. Үстөлдө отуруп, колду жумшак кыймылдаткан иш-чаралар үчүн [Чогуу иреттейли](/games/sort-together/) жана [Сүрөт бинго](/games/picture-bingo/) ылайыктуу.
 
-## Balance and fall safety
+## Тең салмактуулук жана кулап калуудан сактануу
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Кулап калуу көп кездешет жана олуттуу болушу мүмкүн. [CDC маалыматы боюнча](https://www.cdc.gov/falls/data-research/facts-stats/index.html), төрт улгайган адамдын биринен көбү жыл сайын кулап калат, бирок жарымынан азы гана бул тууралуу дарыгерине айтат. Бир жолу кулап калуу кайра кулап калуу ыктымалдыгын эки эсе жогорулатат. CDC көрсөткөн коркунуч факторлору:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Буттагы жана жамбаштагы алсыздык
+- Жөө басууда жана тең салмактуулукта кыйынчылык
+- Айрым дары-дармектер, анын ичинде тынчытуучу каражаттар жана айрым антидепрессанттар
+- Көрүү көйгөйлөрү
+- Буттун оорусу же ылайыксыз бут кийим
+- Үйдөгү коркунучтар, мисалы башаламан буюмдар, жыбыр килемдер жана бузулган тепкичтер
 
-To move more safely:
+Коопсузураак кыймылдоо үчүн:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Бекем отургучту колдонуңуз** — дөңгөлөктөрү жок болсун жана туруп көнүгүү учурунда жакын жерде стол бетин же туткучту кармаңыз.
+- **Мейкиндикти тазалаңыз** — килемдерди, зымдарды жана башаламан буюмдарды алдын ала алып салыңыз.
+- **Отургандан жай туруп кетиңиз** жана адам башы айланып же тең салмактуулугун жоготуп жатканын сезсе, токтогула.
+- **Таянычы жакшы бут кийим кийгизиңиз**, байпак менен же бош шыпшыкы менен жүрбөсүн.
+- **Таянычтын жанында тең салмактуулукту машыктырыңыз.** Отургучтан туруп кетүү жана өкчө менен учун кезектештирип басуу — CDC көрсөткөн тең салмактуулук көнүгүүлөрүнүн мисалдары.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC улгайган адам кулап, башын уруп алса, өзгөчө кан суюлтуучу дары ичип жүрсө, дароо дарыгерге кайрылуу керек деп сунуштайт.
 
-## Talk with a doctor
+## Дарыгер менен кеңешиңиз
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Жаңы көнүгүү күн тартибин баштоодон мурун, өзгөчө жүрөк же өпкө көйгөйлөрү, муун оорусу, тең салмактуулук көйгөйлөрү же деменциясы бар адам үчүн дарыгер менен кеңешиңиз. Дарыгер же физиотерапевт коопсуз иш-чараларды сунуштап, дары-дармектер тең салмактуулукка таасир этеби же жокпу текшере алат. Кулап калуу жаракатсыз өтсө да, бул тууралуу дарыгерге айтыңыз. Көнүгүү учурунда бир нерсе ооруса же туура эмес сезилсе, токтогула. Капыстан көкүрөк ооруса, дем алуу кыйынчылык жаралса же капыстан башаламандык пайда болсо, 103 (тез жардам) же 112 номерине чалыңыз.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Бул барак жалпы маалымат үчүн, медициналык кеңеш эмес. Биздин [медициналык билдирүүнү](/medical-disclaimer/) караңыз. Жалпы көрүнүш үчүн [деменция коркунучу факторлору боюнча изилдөөлөр эмнени айтат](/brain-health/risk-factors/) жана [деменциянын алдын алууга болобу](/brain-health/can-dementia-be-prevented/) деген баракчаларды окуңуз.

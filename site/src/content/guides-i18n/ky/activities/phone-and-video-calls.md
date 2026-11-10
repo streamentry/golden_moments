@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Деменциясы бар адам менен телефон жана видео чалуу"
+seoTitle: "Деменцияда видео чалуу иш-чаралары"
+description: "Деменция менен жашаган адамдын алыскы жакындары үчүн телефон жана видео чалуу иш-чаралары: көрсөтүү, үн чыгарып окуу, ырдоо, экранды бөлүшүү жана кеңештер."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Деменция менен жашаган адам менен сүйлөшүүлөр кыска, үзгүлтүксүз болуп,
+  бирге жасоого бир нерсе болуп турса жакшы өтөт. Мисалы, үй жаныбарын же бакчаны
+  көрсөтүү, сүрөттөрдү көрүү, үн чыгарып окуу, сүйүктүү ырды ырдоо же экранды
+  бөлүшүп, жөнөкөй оюн ойноо. Мүмкүн болсо, күн сайын бир эле убакта чалыңыз,
+  бир убакта бир гана адам сүйлөсүн жана жанындагы жардамчы түзмөктү коюп берсин.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Биргелешкен иш-чара чалууга багыт берет жана сүйлөшүү қысымын азайтат. Бөлүшө турган бир жөнөкөй нерсени пландаңыз."
+  - "Кыска жана үзгүлтүксүз, күн сайын бир эле убактагы чалуулар узак жана сейрек чалууларга караганда көбүнчө жакшыраак болот."
+  - "Бир убакта бир гана адам сүйлөсүн. Бир нече адам тең сүйлөшкөн топтук чалууларды түшүнүү кыйын, айрыкча угуу начарласа."
+  - "Жанындагы жардамчы түзмөктү жөндөп, адамдын жанына отуруп, оюн же сүрөттөр үчүн «кол» боло алат."
+  - "Эгер чалуу бүгүн жакшы өтпөсө, жылуу сөз менен аяктаңыз. Эртең кайра аракет кылсаңыз болот."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Деменциясы бар адам менен видео чалууда эмнелерди кылса болот?"
+    a: "Бир жөнөкөй иш-чараны пландаңыз: бакчаңызды, үй жаныбарыңызды же ашканаңызды көрсөтүңүз; эски сүрөттөрдү чогуу көрүңүз; кыска ырды же катты үн чыгарып окуңуз; ал жакшы көргөн ырды ырдаңыз; бир эле убакта бир эле тамакты даярдаңыз; же экранды бөлүшүп, жөнөкөй сүрөт оюнун ойноңуз. Иш-чаралар чалууга багыт берип, адамдан сүйлөшүүнү өзүнө алып барууну талап кылбайт."
+  - q: "Видео чалуу канча убакытка созулушу керек?"
+    a: "Адатта, сиз ойлогондон кыскараак. Бир нече жылуу мүнөт жетиштүү болушу мүмкүн, айрыкча адам тез чарчаса. Күн сайын бир эле убакта үзгүлтүксүз чалуу ар бир чалуунун узактыгынан маанилүүрөөк болушу мүмкүн."
+  - q: "Эгер видео чалуулар аны чаташтырса же тынчын алсачы?"
+    a: "Айрым адамдар экрандагы жүздү түшүнүксүз деп кабыл алышы мүмкүн. Жөнөкөй телефон чалуусун, жардамчы тынч учурда ойното турган алдын ала жазылган видео билдирүүнү же почта менен жиберилген куттуктоо карталарын жана сүрөттөрдү байкап көрүңүз. Эгер чалуу жакшы өтпөсө, мейиримдүү аяктап, башка күнү же башка убакта кайра аракет кылыңыз."
+  - q: "Энем телефонду колдоно албаса, ага видео чалууга кантип жардам берсем болот?"
+    a: "Үй-бүлө мүчөсүнөн, үй жардамчысынан же кам көрүү жайынын кызматкеринен чалууну баштап, түзмөктү кармап же бекем коюп берүүсүн сураныңыз. Көптөгөн кам көрүү жайлары үй-бүлөлөргө видео чалууларда жардам берет, ошондуктан алар эмне сунуштаарын сураңыз. Таянычка коюлган, экраны чоң жана үнү жетиштүү катуу планшет баарына жеңил болот."
+  - q: "Видео аркылуу чогуу оюн ойной алабызбы?"
+    a: "Ооба. Эң оңой жолу — бир адам видео тиркемеде экранын бөлүшүп, экинчиси кайсы сүрөттү басууну айтат. Же жанындагы жардамчы планшетте ошол эле оюнду ачып, сиз сүйлөшүп жатканда адам үчүн басып бере алат. Таймери же упайы жок оюндарды тандаңыз."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Деменция менен жашаган адамдан алыс жашоо өзүн жардамы жок сезимде калтыршы мүмкүн. Телефон жана видео чалуулар кучактоонун ордун баспайт, бирок жакшы пландалса, чыныгы жакындык учурларын бере алат. Негизги маселе — кадимкидей кабарлашып сүйлөшүүгө аракет кылууну токтотуп, анын ордуна чогуу бөлүшө турган жөнөкөй нерсени пландоо. Бул баракчада видео жана телефон аркылуу жасала турган иш-чаралар, чалууну кантип туура уюштуруу жана жанындагы адам кандайча жардам бере алары тууралуу айтылат.
 
-## Why plan an activity for a call?
+## Эмне үчүн чалууга иш-чара пландоо керек?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Иш-чара чалууга багыт берет. «Кандайсыз? Бүгүн эмне кылдыңыз?» деген суроолор адамдан эстеп, айтып берүүнү талап кылат, бул кээде кыйын жана оор болушу мүмкүн. Ал эми «Караңызчы, помидорлор бышты» деген сөз андан эч нерсе талап кылбайт.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association чоң топтор менен видео аркылуу сүйлөшүү кыйын болушу мүмкүн экенин белгилейт жана [чалууга түзүлүш кошууну](https://www.alz.org/help-support/caregiving/holidays), мисалы, ыр ырдоону же сүрөттөрдү көрсөтүүнү сунуштайт.
 
-## What activities work on a video call?
+## Видео чалууда кандай иш-чаралар ылайыктуу?
 
-### Show and tell
+### Көрсөтүп баяндаңыз
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Өз жаныңыздагы нерселерди көрсөтүңүз. Камераны жай бакчаңызда айлантып, итти тааныштырып, эмне бышырып жатканыңызды көрсөтүп, небереңиздин сүрөтүн кармап же терезеден карды көрсөтүңүз. Көргөн нерсени жөнөкөй сөздөр менен айтып, жооп берүүсү үчүн тыныгуу калтырыңыз. Суроо берүү зарыл эмес.
 
-### Look at photos together
+### Сүрөттөрдү чогуу көрүңүз
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Эски сүрөттү камерага көрсөтүңүз же экраныңызды бөлүшүп, бир жолу бир нече чоң сүрөттү көрсөтүңүз. Байкаганыңыз жөнүндө айтыңыз: «Атаңыздын шляпасына караңызчы». «Бул ким?» же «Эсиңиздеби?» деп сурабаңыз. Эгер адам бирөөнү туура эмес атаса, ага каршы чыкпай кабыл алыңыз. Жумшак суроолор үчүн [эскерүү иш-чаралары боюнча баракчабызды](/activities/reminiscence/) караңыз.
 
-### Read aloud
+### Үн чыгарып окуңуз
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Кыска ырды, дубаны, ошол эле чалуудагы небереге арналган сүйүктүү балдар китебин, туугандын катын же ал жакшы көргөн китептин бир барагын үн чыгарып окуп бериңиз. Үн чыгарып окуу адамга жооп берүүнүн кажети жок, тынч угууга бир нерсе берет.
 
-### Sing or listen to music together
+### Чогуу ырдаңыз же музыка угабыз
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Ал жакшы билген ырды ырдаңыз же өзүңүздүн тарабыңыздан сүйүктүү музыканы коюңуз. Көп адамдар үчүн ырдап кошулуу сүйлөшкөндөн оңой. [Музыка иш-чаралары боюнча баракчабызды](/activities/music/) караңыз.
 
-### Cook or bake at the same time
+### Бир эле учурда тамак бышырыңыз
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association атайын тамакты чогуу бышыруу үчүн видео чалууну пландаштырууну сунуштайт. Чалууну эки ашканада тең түзүңүз. Жанындагы адам аралаштырып же даам көрүп турса, сиз анын эски рецепти боюнча бышыра берсеңиз болот.
 
-### Watch something together
+### Чогуу бир нерсе көрүңүз
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Ассоциация ошондой эле ар башка үйдөн сүйүктүү тасманы бир эле учурда көрүп, телефон же видео аркылуу сүйлөшүүнү сунуштайт. Деменция менен жашаган адам үчүн толук тасмага караганда кыска үзүндү, эски телеберүү же спорт оюну ылайыктуураак болушу мүмкүн.
 
-### Play a gentle game on a shared screen
+### Экранды бөлүшүп, жөнөкөй оюн ойноңуз
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Көптөгөн видео чалуу тиркемелери экраныңызды бөлүшүүгө мүмкүндүк берет. Оюнду сиз ачып, басасыз; ал эми сиз кам көргөн адам кайсы сүрөттү тандоону айтып же көрсөтүп турат. Же жанындагы жардамчы планшетте ошол эле оюнду ачып, сиз сүйлөшүп жатканда адам үчүн басып берет.
 
-Games that work well this way:
+Бул үчүн ылайыктуу оюндар:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** сиз тааныш сөз айкашын окуйсуз, ал аягын айтат, андан кийин үн чыгарган түрткү берилет.
+- **[Picture Pairs](/games/picture-pairs/):** чоң сүрөттөрү бар, көрүнүп турчу, таймери жана упайы жок жөнөкөй жупташтыруу оюну.
+- **[Conversation Cards](/games/conversation-cards/):** чогуу сүйлөшүүгө түрткү берген сүрөт жана ачык суроо.
+- **[Photo Pairs](/games/photo-pairs/):** өзүңүздүн түзмөгүңүздө тандаган сүрөттөрдөн түзүлгөн жупташтыруу оюну. Сүрөттөр браузериңизде сакталат, ал эми адам аларды бөлүшүлгөн экран аркылуу көрөт.
 
-### Recorded messages
+### Алдын ала жазылган билдирүүлөр
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Түз эфирдеги чалуулар кыйын болгондо, кыска видео жаздырыңыз: салам, ыр же корооңузда айланып жүргөн үзүндү. Жардамчы аны тынч учурда, адам жактырганча бир нече жолу ойното алат. Alzheimer's Association балдардын белек ачышы сыяктуу өзгөчө учурларды жаздырып жөнөтүүнү да эскертет.
 
-## What about plain phone calls?
+## Жөнөкөй телефон чалууларычы?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Телефон чалуулары да маанилүү. Dementia Australia [күн сайын бир эле убакта чалууну](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) жана шашпагандыкты сунуштайт, себеби деменция менен жашаган адамдарга кошулуу үчүн убакыт керек болушу мүмкүн. Телефон аркылуу сүйлөшкөндө:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Саламдашкан замат атыңызды жана ким экениңизди айтыңыз: «Салам, ата, бул мен — кызыңыз Айгүл».
+- Жай, кыска сүйлөмдөр менен, бир жолу бир гана ойду айтыңыз.
+- Суроо берүүнүн ордуна кабар айтыңыз: «Кечээ сиздин рецептиңиз боюнча эт бышырдым».
+- Кыска ыр окуңуз же сүйүктүү ырыңыздын бир куплетин ырдаңыз.
+- Кыска сүйлөшүп, жылуу сөз менен аяктаңыз.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia сүйлөшүү кыйынга турганда видео чалуулар пайдалуу болушу мүмкүн экенин, себеби адам жүзүңүздү көрө аларын белгилейт. Эгер телефон чалуулары чаташтырып жатса, видеону байкап көрүңүз же тескерисинче.
 
-## How do I set up a video call that works?
+## Иштей турган видео чалууну кантип уюштуруу керек?
 
-**Before the call:**
+**Чалуудан мурун:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Туруктуу убакыт тандаңыз** — адам адатта эс алган учурда болуп, ошону сактаңыз. Күн тартиби жардам берет.
+2. **Жанындагы жардамчы менен макулдашыңыз.** Бир күн мурун жазган билдирүү пландоого жардам берет.
+3. **Түзмөктү текшериңиз.** Таянычтагы планшет колдо кармаган телефондон ыңгайлуу. Кубатталганын, экраны жарык экенин жана үнү жетиштүү катуу экенин текшериңиз. Эгер тиркемеде мүмкүнчүлүк бар болсо жана адам жакшы окуй алса, субтитрлерди күйгүзүңүз.
+4. **Бир иш-чараны пландап**, баарын даярдап коюңуз.
 
-**During the call:**
+**Чалуу учурунда:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Камерага жакын отуруңуз**, жарык жакшы түшкөн жерде, терезеге жүзүңүз менен отуруңуз, артына эмес.
+- **Ар бир жолу өзүңүздү тааныштырыңыз** — атыңызды жана ким экениңизди айтыңыз.
+- **Бир убакта бир гана адам сүйлөсүн.** Alzheimer's Association деменция менен жашаган адамдар жана угуу жөндөмү начар адамдар үчүн тең сүйлөшүү кыйын экенин белгилейт. Эгер бир нече тууган кошулса, кезектешип сүйлөшүңүз же эки-үч адам менен чектелиңиз.
+- **Бир убакта бир гана суроо бериңиз.** Family Caregiver Alliance [жөнөкөй, ооба же жок деп жооп берүүгө боло турган суроолорду](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) берүүнү жана мүмкүн болсо, тандоону көрсөтүүнү сунуштайт.
+- **Узак тыныгууларга уруксат бериңиз.** Жоопту күтүңүз. Эгер сөз издеп жатса, бир сөздү сунуштоо да жарайт.
+- **Жүзүңүздү жана үнүңүздү колдонуңуз.** Жылмайыңыз, баш ийкеп туруңуз жана үнүңүз жылы болсун. Көбүнчө мимика жана үн обону сөздөн да жакшы жеткирет.
+- **Тууралабагыла.** Эгер адам так эмес нерсе айтса, жөн гана калтырыңыз.
 
-**Ending the call:**
+**Чалууну аяктоо:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Адам чарчап кетүүдөн мурун, мүмкүн болсо жакшы маанайда аяктаңыз.
+- Ар дайым бир эле коштошуу сөзүн колдонуңуз: «Эртең түшкү тамакта чалам. Сени жакшы көрөм».
+- Чалууну созбой коюңуз.
 
-## Tips for the helper on site
+## Жанындагы жардамчыга кеңештер
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Эгер сиз чалууга жардам берип жаткан жубай, жардамчы, бир тууган же кызматкер болсоңуз, сиз муну мүмкүн кыласыз.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Тынч жерди даярдаңыз.** Телевизорду өчүрүп, эшикти жабыңыз.
+- **Чалууну өзүңүз баштаңыз**, андан кийин планшетти таянычка коюп же көз деңгээлинде кармап туруңуз.
+- **Анын жанына отуруңуз, алдында эмес.** Сиздин жаныңызда болгонуңуз тынчтандырат. Керек болсо, акырын түрткү бериңиз: «Караңызчы, бул Айгүл».
+- **«Кол» болуп туруңуз.** Сүрөттөрдү кармап туруңуз, оюнду басыңыз, бөлмөнү көрсөтүү үчүн планшетти буруңуз.
+- **Чарчоо же тынчсыздануу белгилерин байкаңыз** жана чалууну аяктоонун убактысы келгенин чалып жаткан адамга айтыңыз.
+- **Эмне жакшы өткөнүн айтыңыз.** «Ал итти абдан жактырды» деген сөз кийинки чалууну пландоого жардам берет.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA алыс жакта жашаган туугандар улгайган адамга [телефондун мүмкүнчүлүктөрүн үйрөнүүгө](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), мисалы видео чалууларды колдонууга жардам бере аларын айтат. Кийинки этаптарда түзмөктү көбүнчө жардамчы толугу менен кармап турушу керек болот. Бул нормалдуу.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Эгер адам кам көрүү жайында жашаса, Alzheimer's Foundation of America үй-бүлөлөргө видео чалууларда жардам беришеби деп сурап көрүүнү сунуштайт. AFA ошондой эле үй-бүлөлөрдүн кам көрүү кызматкерлери аркылуу сүрөттөрдү алмашып турушу жана жаккан тамак-аш же кичинекей соолук берүүчү нерселерди жөнөтүшү мүмкүн экенин айтат, бирок ал үчүн жайдын эрежелерин тактап алуу керек.
 
-## What if the call doesn't go well?
+## Эгер чалуу жакшы өтпөсөчү?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Айрым чалуулар түшүнүксүз, көңүлсүз же оор болушу мүмкүн. Бул сиздин айыбыңыз эмес жана чалуулар пайдасыз дегенди билдирбейт.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Эгер адам экрандан таң калып жатса, телефон чалуусуна же алдын ала жазылган билдирүүгө өтүңүз.
+- Эгер ал тынчсызданса, сезимин моюнга алып, тынчтандыруучу сөз айтыңыз жана жылуу менен аяктаңыз.
+- Эгер чалуулар күндүн бир убакытында көп кыйын өтсө, башка убакытты байкап көрүңүз.
+- Эгер ал сизди башка бирөө деп ойлосо, мейиримдүү кабыл алыңыз.
 
-It is fine to end early. A short, warm call is a good outcome.
+Эрте аяктоо да туура. Кыска жана жылуу чалуу — бул жакшы натыйжа.
 
-## Between calls
+## Чалуулардын ортосунда
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Башка жолдор менен да байланышта болуңуз. Dementia Australia куттуктоо карталарын, электрондук каттарды, сүрөттөрдү же кичинекей белектерди жөнөтүүнү сунуштайт. Бир чоң сүрөтү жана кыска жазуусу бар жумалык открытка кайра-кайра окулушу мүмкүн. Басып чыгарууга боло турган [Conversation Cards](/games/conversation-cards/) карталарын жардамчыга жөнөтсөңүз, кийинки чалууда даяр тема болот.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Планшетти кантип тандоо жана туура коюу боюнча кеңештер үчүн [планшеттер жана экрандар](/caregiving/tablets-and-screens/) баракчасын караңыз. Жүз көрүшүү үчүн [зыяраттар](/activities/visiting/) боюнча баракчабызды окуңуз.

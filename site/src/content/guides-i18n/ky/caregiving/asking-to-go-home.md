@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Деменцияда үйгө баргысы келгенде"
+seoTitle: "Деменцияда үйгө барууну суранса: эмне дейсиз?"
+description: "Деменция менен жашаган адам үйүндө болсо да эмне үчүн үйгө барууну сурайт, эмне айтууга болот, тынчтандыруучу иш-чаралар жана коопсуздук боюнча кеңештер."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Деменция менен жашаган адам дайыма үйгө барууну сураса, «үй» көбүнчө имаратты
+  эмес, коопсуздук сезимин же мурунку жерди билдирет. Анын үйүндө экенин
+  талашпаңыз. Сезимин түшүнгөнүңүздү көрсөтүп, коопсуз экенине ынандырыңыз,
+  үйү тууралуу сураңыз, анан акырындык менен сүрөттөрдү, музыканы, тамакты,
+  сейилдөөнү же жөнөкөй ишти сунуштаңыз. Ачка, суусаганына, дааратканага
+  баргысы келбей жатканына же ооруп жатканына көңүл буруңуз. Эгер бул капыстан
+  башталса, дарыгерине кайрылыңыз.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Үйгө баргым келет» деген сөз көбүнчө даректи эмес, «өзүмдү коопсуз же тынч сезбей жатам» деген маанини билдирет."
+  - "Талашуу же анын үйүндө экенин далилдөөгө аракет кылуу, адатта, тынчсызданууну күчөтөт. Сөздөргө эмес, сезимге жооп бериңиз."
+  - "Үйү тууралуу айтып берүүсүн сураңыз, анан сүрөттөрдү, музыканы, тамакты, сейилдөөнү же жөнөкөй ишти сунуштаңыз."
+  - "Оңдоого мүмкүн болгон нерсени текшериңиз: ачкачылык, суусоо, даараткана, оору, өтө ысык же суук болуу, ызы-чуу, чарчоо."
+  - "Эгер бул күн сайын кечинде кайталанса, бул күн бата тынчсыздануу болушу мүмкүн; туруктуу тартип жана жакшы жарык жардам берет."
+  - "Ал сыртка чыгып кетүүгө аракет кылса, коопсуздукту пландаштырыңыз жана капыстан өзгөрүү болсо дарыгерине кайрылыңыз."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Эмне үчүн деменция менен ооруган апам үйүндө болсо да дайыма үйгө барууну сурайт?"
+    a: "Деменция тааныш бөлмөлөрдү да жат көрүнүшүнө алып келиши мүмкүн, ал эми адам өзүн мурунку мезгилде сезиши мүмкүн. «Үй» бала чактагы үйдү же жөн гана коопсуз жана ыңгайлуу болуу сезимин билдириши мүмкүн. Ал кайда экенин айтып бергенге караганда, ошол сезимге жооп берүү көбүнчө натыйжалуураак болот."
+  - q: "Ал үйгө барууну сураганда эмне десем болот?"
+    a: "«Бул жерде сиз коопсузсуз, мен жаныңыздамын» деп айтып көрүңүз, анан «Үйүңүз тууралуу айтып берчи» деп сураңыз. Угуңуз, сүрөт же ыр бөлүшүңүз жана суу же кыска сейилдөө сунуштаңыз. «Сен үйдөсүң» деп оңдоп айтуудан алыс болуңуз, бул аны туура эмес деп айтыштай сезилиши мүмкүн."
+  - q: "«Кийинчерээк барабыз» деп айтууга болобу?"
+    a: "Үй-бүлөлөр менен деменция боюнча уюмдардын пикири бул боюнча айырмаланат. Көптөр адегенде чынчыл сооротуу менен көңүлдү бурууну колдонушат, ал эми чындык адам жеңе албай турган капа кылса гана жумшак айланта айтууга кайрылышат. Кайсы жолду тандасаңыз да, мээримдүү жана ырааттуу болуңуз, анын чындыкты кабыл алышын эч качан шылдыңдабаңыз."
+  - q: "Эгер ал үйдөн чыгып кетүүгө аракет кылсачы?"
+    a: "Тынч болуңуз жана жолун бөгөп койгондорун, аны менен чогуу жүрүңүз; кыска сейилдөө көбүнчө бул каалоону басаңдатат. Алдын ала коопсуздук чараларын көрүңүз, мисалы, аты-жөнү жазылган билерик, эшикте үн чыгаруучу коңгуроо жана акыркы сүрөт. Ал табылбай калса, дароо издей баштаңыз, ал эми 15 мүнөт ичинде таппасаңыз, адамда деменция бар экенин айтып 112ге чалыңыз."
+  - q: "Качан дарыгерге кайрылышым керек?"
+    a: "Эгер сурап туруу же абдыроо капыстан башталса же бир нече саат же күндүн ичинде кыйла күчөсө, айрыкча ысытма, жаңы дары же заара жолдорунун инфекциясынын белгилери коштолсо, дароо дарыгерине кайрылыңыз. Капыстан абдыроо делирий болушу мүмкүн жана тез жардам керек. Кимдир бирөө коркунучта болсо, 112ге чалыңыз."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Үйгө баргым келет.» Көптөгөн үй-бүлөлөр үчүн, айрыкча сиз кам көргөн адам өзүнүн конок бөлмөсүндө отурганда, муну угуу абдан оор болушу мүмкүн. Бул көп кездешет, деменциянын каалаган этабында болушу мүмкүн жана ага жооп берүүнүн тынч, практикалык жолдору бар. Бул бетте бул сөздөр көбүнчө эмнени билдирери, эмне айтууга болору, ошол учурда жардам бере турган иш-чаралар жана коопсуздукту кантип сактоо керектиги тууралуу айтылат.
 
-## Why does someone with dementia keep asking to go home?
+## Эмне үчүн деменция менен жашаган адам дайыма үйгө барууну сурайт?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Көбүнчө «үй» жерден көп сезимди билдирет. Alzheimer's Society муну үйдүн өзү эмес, ыңгайлуулук жана коопсуздук сезими же мурунку үй деп сүрөттөйт. Деменция тааныш бөлмөлөрдү жат көрүнүшүнө алып келиши мүмкүн, ошондуктан адам өзүн мурунку мезгилде, мисалы, бала кезиндеги үйүндө же балдарын өстүргөн жеринде жашап жаткандай сезиши мүмкүн.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Бул сөздөр азыр башка бир нерсе туура эмес экенинин белгиси да болушу мүмкүн: ал ачка, суусаган, дааратканага баргысы келет, ооруп жатат, өтө ысык же суук болуп жатат, чарчады, жалгыз, коркуп жатат же ызы-чуу ага өтө көп болуп жатат. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) тынчсыздануунун себептеринин катарында оору, ызы-чуу, жалгыздык, күнүмдүк тартиптин өзгөрүшү жана дары-дармектерди көрсөтөт.
 
-## What should I say when they ask to go home?
+## Ал үйгө барууну сураганда эмне десем болот?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Сөздөргө эмес, сезимге жооп бериңиз. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) адамды анын туура эмес экенине ынандырууга аракет кылбоону кеңеш берет: анын сезими чыныгы, ошондуктан адегенде сооротуу жана ынандыруу менен жооп берип, анан жумшактык менен көңүлүн башка нерсеге буруңуз.
 
-Phrases that often help:
+Көп учурда жардам бере турган сөздөр:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Сезимин атаңыз.** «Сиз үйүңүздү сагынып жаткандайсыз.»
+- **Ынандырыңыз.** «Бул жерде сиз коопсузсуз, мен жаныңыздамын.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) «Бул жерде сиз коопсузсуз» деген жөнөкөй сөздөрдү сунуштайт.
+- **Эстеликтерге чакырыңыз.** «Үйүңүз тууралуу айтып берчи. Ашканаңыз кандай болчу?» Алыскы өткөн тууралуу суроо берүү, адатта, бүгүнкү күн тууралуу суроолорго караганда жеңилирээк болот.
+- **Бирге бир нерсе сунуштаңыз.** «Адегенде чогуу чай ичели» же «Бул сүлгүлөрдү бүктөп берүүгө жардам бересизби?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Жылуу үн жана, эгер ал жактырса, колун жеңил тийүү сөздөрдөн да көбүрөөк таасир эте алат.
 
-## What should I avoid?
+## Эмнеден алыс болуу керек?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Талашуудан же түшүндүрүп берүүдөн.** «Эми сиз бул жерде жашайсыз» же «Бул сиздин 40 жылдан бери үйүңүз» деген сөздөр андан деменция кабыл алууну кыйындаткан нерсени кабыл алууну талап кылат жана өзүн туура эмес деп жаткандай сезилиши мүмкүн.
+- **Суроо менен кысым кылуудан.** «Эсиңде жокпу?» же «Дарек кайсы?» деген суроолор кошумча кысым жаратат.
+- **Ачууланып эшикти бөгөөдөн.** Ал сыртка чыккысы келсе, тынч болуңуз жана аны менен чогуу жүрүңүз. Кыска сейилдөө көбүнчө бул каалоону басаңдатат.
+- **Шашуудан.** Теманы алмаштыруудан мурун, ага үйү тууралуу айтканына убакыт бериңиз.
 
-## Activities that can help in the moment
+## Ошол учурда жардам бере турган иш-чаралар
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Сезимин түшүнгөнүңүздү билдиргенден кийин, тынч жана тааныш иш-аракет көңүлүн четке бурбай, аны жумшак которууга жардам берет.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Үйдүн жана үй-бүлөнүн сүрөттөрүн караңыз.** Барактарды барактап, суроо бербестен, комментарий айтыңыз («Мына бул бакча кандай сонун»). Телефондо же планшетте [Photo pairs](/games/photo-pairs/) сиздин үй-бүлөлүк сүрөттөрүңүздү жумшак дал келтирүү оюнуна айлантат, ал эми сүрөттөр түзмөгүңүздө сакталат.
+2. **Үй тууралуу сүйлөшүңүз.** [Conversation cards](/games/conversation-cards/) үйлөр, ашканалар, кошуналар жана майрамдар тууралуу ачык суроолорду сунуштайт, анда туура же туура эмес жооп жок.
+3. **Ал жактырган музыканы коюңуз.** National Institute on Aging тынчсызданууну басаңдатуу жолдорунун катарында тынчтандыруучу музыканы да көрсөтөт. Биздин [музыкалык иш-чаралар](/activities/music/) барагын караңыз.
+4. **Тамак же суусундук бериңиз.** Ачка жана суусоо тынчсыздануу сыяктуу көрүнүшү мүмкүн. Бир чыны чай же сүйүктүү тамак үйдө болгондой сезимдин кичинекей ырым-жырымы да боло алат.
+5. **Сейилдеп келиңиз же сыртта отуруңуз.** Кыймыл жана күн нуру, айрыкча күндүзгү маалда, жардам берет.
+6. **Тааныш иш берип коюңуз.** Кийим бүктөө, аш саюуларды иреттөө же гүлдөргө суу куюу үй чарбаларын жүргүзгөндөй сезимди кайтарышы мүмкүн.
+7. **Баарын жайлатыңыз.** Телевизорду өчүрүңүз, ызы-чууну жана жаркыраган жарыкты азайтыңыз, анан чогуу [тынч дем алуу](/games/calm-breathing/) тыныгуусун жасап көрүңүз.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Бир идея туура келбесе, кийинчерээк башкасын байкап көрүңүз. Жөн эле жанаша отурушуу да жакшы жыйынтык.
 
-## Check for a cause you can fix
+## Оңдой ала турган себебин текшериңиз
 
-| Check | What to try |
+| Эмнени текшерүү керек | Эмне кылса болот |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Ачка же суусаган | Суу жана кичине тамак сунуштаңыз |
+| Дааратканага баргысы келет | Тынчтык менен, ашыкча сөз кылбай дааратканага барууну сунуштаңыз |
+| Оору же ыңгайсыздык | Тыйылуу, дененин бир жерин кармоо же запор сыяктуу белгилерди байкаңыз жана дарыгерине айтыңыз |
+| Өтө ысык же өтө суук | Кийимин же бөлмөнүн температурасын тууралаңыз |
+| Ызы-чуу же эл көп | Тынчыраак бөлмөгө өтүңүз, телевизорду өчүрүңүз |
+| Чарчаган же өтө чарчап калган | Дем алдыруу, жарыкты күңүрттөө, акырын музыка коюу |
+| Кечки маал | Төмөндөгү күн бата тынчсыздануу бөлүмүн караңыз |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society бул өтүнүч качан кайталанарын кыскача жазып турууну сунуштайт, мисалы, тамактан мурун, коноктор кеткенден кийин же күн бата баштаганда. Мындай кайталануулар алдын ала пландаштырууга жардам берет.
 
-## Is it okay to tell a white lie?
+## Жумшак айланта айтуу туурабы?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Бул чыныгы талаш-тартыш маселеси, мээримдүү үй-бүлөлөр ар кандай чечимге келишет. Alzheimer's Society бир гана туура жооп жок дейт: чындыкты айтпоо айрым адамдарды көбүрөөк шектенүүгө алып келиши мүмкүн, ошондуктан адам үчүн эмне эң пайдалуу экенин чечип, ырааттуу болуңуз. Penn Memory Center боюнча, адегенде чындыкты айтуу керек, ал эми жумшак айланта айтуу адам белгилүү бир чындыкты кабыл ала албаган учурларда гана ылайыктуу, жана анын чындыкты кабыл алышын эч качан шылдыңдабаш керек.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Көп кам көрүүчүлөр ортонку жолду пайдалуу деп табышат: адегенде чынчыл сооротуу жана көңүлдү буруу («Бүгүн түнү бул жерде болобуз, мен жаныңыздамын»), үй кайда экенин талашпай.
 
-## What if it happens every afternoon or evening?
+## Эгер бул күн сайын түштөн кийин же кечинде болсочу?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Түштөн кийин башталган же күчөгөн тынчсыздануу көбүнчө күн бата тынчсыздануу деп аталат. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) туруктуу тартипти, күн сайын күн нуруна чыгуу менен активдүүлүктү, кечки узак уктоону азайтууну жана кечинде кофеин же алкогольдөн алыс болууну сунуштайт. Карангы түшердөн мурун жарыкты күйгүзүү да жардам бериши мүмкүн. Биздин [кечки маалда тынчтандыруучу иш-чаралар](/caregiving/late-day-restlessness/) тууралуу баракта дагы маалымат бар.
 
-## Keeping them safe if they try to leave
+## Ал чыгып кетүүгө аракет кылса, коопсуздукту кантип сактоо керек
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Үйгө барууну сурануу адашып кетүүгө алып келиши мүмкүн. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) деменция менен жашаган алты адамның бири жок дегенде бир жолу адашып кетээрин болжолдойт.
 
-**Prepare ahead:**
+**Алдын ала даярданыңыз:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Аты-жөнү жана телефон номериңиз жазылган ID же медициналык билерик, ошондой эле кийимине жапсырылган белгилер. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) MedicAlert жана Alzheimer's Association Safe and Found программасын эскерет, алар акылы болушу мүмкүн.
+- Эшикте үн чыгаруучу коңгуроо же сигнализация, ошондой эле жогорку же төмөнкү жакка орнотулган кулпулар. Адамды эч качан жалгыз кулпулап койбоңуз.
+- Жакынкы убактагы портрет сүрөтү жана ал бара тургандай жерлердин тизмеси, мисалы, мурунку үйү же иштеген жери.
+- Ишенимдүү кошуналарга айтып коюңуз жана аларга номериңизди бериңиз.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Эгер ал табылбай калса:** дароо издей баштаңыз; Alzheimer's Association көп адамдар 1.5 миля аймактын ичинде табыларын белгилейт. Эгер 15 мүнөт ичинде таппасаңыз, 112ге чалып, адамда деменция бар экенин айтыңыз. Кимдир бирөө коркунучта болсо, дароо 112ге чалыңыз.
 
-## When should I call a doctor?
+## Качан дарыгерге кайрылышым керек?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Эгер сурап туруу же абдыроо капыстан башталса же бир нече саат же күндүн ичинде кыйла күчөсө, дарыгерине тез арада кайрылыңыз. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) күтүлбөгөн же тез өзгөргөн жүрүм-турумду, айрыкча инфекциядан же дары өзгөргөндөн кийин, дароо текшерүү керек деп белгилейт. Капыстан абдыроо делирий болушу мүмкүн, ал эми [NHS](https://www.nhs.uk/symptoms/confusion/) мындай учурда тез жардам керек дейт; улгайган адамдарда заара жолдорунун инфекциясы көп кездешүүчү себеп болушу мүмкүн.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Кийинки жолугушууда туруктуу кайталануулар тууралуу айтуу да пайдалуу, анткени оору, көңүл чөгүү, уйку көйгөйлөрү же дарынын кошумча таасири да себеп болушу мүмкүн.

@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Дементия менен жашагандар үчүн пазлдар"
+seoTitle: "Дементия менен жашагандар үчүн пазлдар"
+description: "Дементия менен жашаган адамга мозаика, сөз жана онлайн пазлдарды кантип тандоо керек: бөлүкчөлөр, сүрөт, чоң ариптер жана чогуу ойноо."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Дементия менен жашаган адам үчүн эң жакшы пазл — бир аз жардам менен бүтүрө
+  алган жана процесстен ырахат алган пазл. Бөлүкчөлөрү аз, чоңураак жана сүрөтү
+  так, чоңдорго ылайыктуу мозаиканы тандаңыз, кутунун сүрөтүн көз алдыда
+  кармаңыз жана алгач четки бөлүкчөлөрдү топтоңуз. Сөз издөө жана кроссворддор
+  чоң арип менен басылганда ыңгайлуу болот. Төрт бөлүктөн турган жеңил онлайн
+  пазлдар орто стадияга ылайык келиши мүмкүн. Кызыктуу болуп турганда токтогула.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Стадиянын аталышына эмес, пазл кандай өтүп жатканына карап тандаңыз: эгер оор сезилсе, бөлүкчөлөрү азыраак пазлды сынап көрүңүз."
+  - "Чоң, бекем бөлүкчөлөр жана түсү так айырмаланган сүрөт майда бөлүкчөлөрдөн жана асмандын көп болгон сүрөтүнөн жеңилирээк болот."
+  - "Сүрөт чоңдорго ылайыктуу болушу маанилүү. Бакчалар, ашканалар, унаалар жана жаныбарлар — мультфильмдер эмес."
+  - "Маанилүү нерсе — чогуу жасоо. Бөлүкчөлөрдү узатыңыз, четкилерин топтоңуз, кутунун капкагын көрүнүктүү жерге коюңуз."
+  - "Чоң арип менен жазылган сөз издөө оюндарын жана 4 же 9 бөлүктөн турган жеңил онлайн пазлдарды бул сайттан акысыз таба аласыз."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Дементия менен жашаган адам үчүн пазлдын канча бөлүгү ылайыктуу?"
+    a: "Бир гана туура сан жок. Мурда 1000 бөлүктөн турган пазлдарды кургандар алгач бир нече жүз бөлүктөн ырахат ала алышы мүмкүн, ал эми башкаларга ончолук чоңураак бөлүкчөлөр ылайыктуу. Эгер пазл оор болуп же нааразы кылып жатса, бөлүкчөлөрүн азайтыңыз. Биздин онлайн «Сүрөт пазлы» оюнунда 4 же 9 бөлүк бар."
+  - q: "Мозаика пазлдары дементия менен жашаган адамдарга пайдалуу болобу?"
+    a: "Көптөр, өзгөчө мурун пазл кургандар, муну жактырышат. Пазл колго иш берет, так максат койот жана сүйлөшүүгө сүрөт сунуштайт. Бир дагы пазл дементияны дарылайт же жайлатат деп далилденген эмес, ошондуктан аны ырахат алуу жана чогуу убакыт өткөрүү үчүн тандаңыз."
+  - q: "Адам мозаика пазлды кура албай калса, эмне кылса болот?"
+    a: "Пазлды кичирейтип, көбүн өзүңүз жасаңыз: бирден бөлүкчө узатыңыз же акыркы бир нече бөлүкчөнү гана калтырыңыз. 4 бөлүктөн турган онлайн пазлды, бөлүкчөлөрдү түсү боюнча топтоону же даяр сүрөттү чогуу карап отырууну сынап көрүңүз."
+  - q: "Кроссворддор жана сөз издөө оюндары дементияда ылайыктуубу?"
+    a: "Алар, адатта дементиянын алгачкы стадиясында, чоң арип менен басылган болсо, ылайыктуу болушу мүмкүн. Сөздөрү тик жана туурасынан гана жайгашкан сөз издөө оюндары кыйгач же тескери сөздөр болгондорго караганда жеңилирээк. Суроолорду же сөздөрдүн тизмесин үн чыгарып окуп, чогуу иштеңиз."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Аш үстөлүнө жайылган мозаика — чогуу өткөрүүгө эң оңой иш-аракеттердин бири. Көп сүйлөбөй туруп эле жанаша отура аласыз, сүрөт сүйлөшүүгө себеп болот, ал эми акыркы бөлүкчөнү салуу жагымдуу сезим берет. Бирок дементия өзгөргөн сайын пазлдарды да өзгөртүү керек болот. Өтө кыйын пазл тынч түштөн кийинки убакытты оор кыла алышы мүмкүн. Бул баракта мозаиканы, сөз пазлдарын жана жеңил онлайн пазлдарды кантип тандоо жана уюштурууну, ошондой эле алар кыйын болуп калганда эмне кылууну карайбыз.
 
-## Are puzzles good for people with dementia?
+## Пазлдар дементия менен жашаган адамдарга пайдалуу болобу?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Көптөр, өзгөчө мурун пазл кургандар, муну жактырышат. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) алгачкы стадиядагы иш-аракеттердин катарына сөз издөө, карта жана үстөл оюндарын киргизет, ал эми [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) планшеттеги онлайн оюндарды жана пазлдарды кызыгууну колдоо жолдорунун бири катары айтат.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Пазлдар дарылоо эмес. Бир дагы пазл дементияны жайлатат же токтотот деп көрсөтүлгөн эмес; [мээ оюндары жана дементия](/brain-health/brain-games/) жөнүндө биздин баракчада изилдөөлөр түшүндүрүлөт. Пазл куруунун себеби — бул чогуу ырахат алып өткөргөн убакыт болушу мүмкүн. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) муну кыскача айтат: жетишкендикке эмес, ырахат алууга көңүл буруңуз.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Дементия менен жашаган адам үчүн мозаика пазлды кантип тандоо керек?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Стадиянын аталышына эмес, адамга эмне жагарына жана мурунку пазл кандай өткөнүнө караңыз.
 
-### Number of pieces
+### Бөлүкчөлөрдүн саны
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Туура сан жок. Өмүр бою пазл курган адам алгачкы мезгилде бир нече жүз бөлүктөн ырахат ала бериши мүмкүн, ал эми башкасы ончолук бөлүк менен бактылуу болот. Жөнөкөй эреже: эгер мурунку пазл оор сезилсе, бөлүкчөлөрү болжол менен эки эсе аз пазлды тандаңыз. Эгер ал тез бүтүп, дагы кааласа, бир аз көбөйтсөңүз болот.
 
-### Piece size and feel
+### Бөлүкчөнүн көлөмү жана ыңгайлуулугу
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Чоңураак бөлүкчөлөрдү** көрүү, кармоо жана буруу оңой.
+- **Калың, бекем бөлүкчөлөр** ордунан кыймылдабайт жана түшүп кетсе да оңой бузулбайт.
+- **Жылтырабаган бет** лампа же терезе жарыгында көзду камаштырбайт.
+- **Майда бөлүкчөлөрдөн алыс болуңуз**, эгер адам бир нерсени оозуна салса, бул дементиянын кийинки мезгилинде болушу мүмкүн.
 
-### The picture
+### Сүрөт
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Чоңдорго ылайыктуу темалар.** Бакчалар, ашканалар, эски унаалар, ферма жаныбарлары, деңиз жээгиндеги шаар же сүйүктүү спорт. Мультфильмдер же балдардын оюнчугуна окшогон нерселер болбосун.
+- **Түсү так айырмаланган аймактар.** Кызыл сарай, көк кайык жана жашыл талаа — пазлдын жарымын ээлеген асманга караганда оңой.
+- **Тааныш жана жакын сүрөттөр.** Адам жашаган жер же сүйгөн хоббиси тууралуу сүрөт сүйлөшүүгө көп мүмкүнчүлүк берет. Айрым басмаканалар үй-бүлөлүк сүрөттү мозаика пазлга айландыра алышат.
 
-## How do you do a puzzle together?
+## Пазлды чогуу кантип куруу керек?
 
-Set it up so the person can get straight to the enjoyable part.
+Адамга эң жагымдуу бөлүгүнөн дароо баштоого шарт түзүңүз.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Ыңгайлуу жер тандаңыз.** Жарык жакшы болсун, колтугу бар орундук жана пазлды бир нече күн калтыра турган үстөл же поднос болсун.
+2. **Кутунун капкагын** экөөңөр тең көрө тургандай коюңуз.
+3. **Баштоодон мурун** бөлүкчөлөрдүн баарын сүрөтү өйдө карагандай айландырыңыз.
+4. **Четки бөлүкчөлөрдү** өзүңүз топтоңуз же алгач жээгин курап, ортосун ага калтырыңыз.
+5. **Бөлүкчөлөрдү түсү боюнча** бир нече тайыз табакка же идишке бөлүңүз.
+6. **Эгер үймөк көп болуп кетсе, бирден бөлүкчө узатыңыз.** «Бул сарайдын бөлүгү окшойт».
+7. **Жүрүшү тууралуу эмес, сүрөт тууралуу сүйлөшкүлө.** «Бул атамдын кайыгына окшоп турат».
+8. **Пазлды чогултпай калтырыңыз.** Бир нече күндүн ичинде кайтып келсеңиз болот. Шашылуунун кереги жок.
+9. **Жагымдуу учурда токтогула**, мисалы бир бөлүкчө ордуна отургандан кийин, дагы эле жагымдуу сезилип турганда.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) адамга баштоого жардам берүүнү, нааразы болуу белгилерин байкоону жана эгер ал үчүн жөн гана көзөмөлдөө жагымдуураак болсо, ошого уруксат берүүнү сунуштайт. Сиз курганды көрүп, кайсы жерге туура келерин көрсөтүү да катышуу болуп саналат.
 
-## Easy online puzzles
+## Жеңил онлайн пазлдар
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Планшеттеги пазлдын айрым артыкчылыктары бар: бөлүкчөлөр жоголбойт, сүрөттөр экранды толтуруп чоң көрүнөт жана үстөлдү бошотуунун кереги жок.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Биздин акысыз [Сүрөт пазлы](/games/picture-puzzle/) оюнунда сүрөт 4 же 9 бөлүккө бөлүнөт. Сүрөт толук болмоюнча, эки бөлүкчөнү басып, алардын ордун алмаштырасыз. Толук сүрөт экранда үлгү катары туруп турат, таймер жок жана каалаган учурда токтосоңуз болот. Төрт бөлүк жанында сиз турганда орто стадиядагы көп адамдарга ылайык келиши мүмкүн.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Андан да жөнөкөй сүрөт оюндарын кааласаңыз, үстүндөгу сүрөткө окшошун баскан [Окшошун тап](/games/find-the-same/) оюнун же сүрөттөрдү ашкана же бакча сыяктуу себеттерге салган [Чогуу иргеп коёлу](/games/sort-together/) оюнун сынап көрүңүз.
 
-## Word puzzles: word searches and crosswords
+## Сөз пазлдары: сөз издөө жана кроссворддор
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Сөз пазлдары мурунтан эле ушундай оюндарды жактырган адамдарга, көбүнчө дементиянын алгачкы стадиясында, ылайыктуу болот.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Чоң арип менен сөз издөө.** Биздин акысыз [Сөз издөө](/games/word-search/) оюну чоң тамгаларды колдонот жана бир нече сөздү гана камтыйт. Сөздөр тик же туурасынан гана жазылат, кыйгач же тескери эмес. Аны экранда ойносоңуз да, басып чыгарып алсаңыз да болот.
+- **Тизмени үн чыгарып окуңуз.** Бир адам сөздү окуйт, экинчиси аны издейт. Биринчи тамганы гана тегеректөө да жетиштүү.
+- **Чоң арип менен кроссворддор** пазл китептеринен алгачкы стадияда ылайыктуу болушу мүмкүн. Суроолорду үн чыгарып окуп, калемди кезектешип кармап, жоопторду чогуу жазыңыз. Жөнөкөй, темага байланышкан кроссворддор татаал кроссворддорго караганда ыңгайлуураак.
+- **Сөздөр тууралуу сүйлөшкүлө.** «Бакча» деген сөз помидор тууралуу он мүнөт сүйлөшүүгө алып барышы мүмкүн.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Кагаздагы башка иш-аракеттер жана аларды көрүүгө, кармоого ыңгайлуу кылып кантип басып чыгаруу тууралуу [акысыз басып чыгарылуучу иш-аракеттер](/activities/printable/) баракчасынан окуңуз.
 
-## Which puzzles suit each stage?
+## Кайсы пазлдар ар бир стадияга ылайык келет?
 
-Stages overlap, and good and hard days are normal.
+Стадиялар бири-бирине өтүп кетиши мүмкүн, жакшы жана оор күндөрдүн болушу кадимки нерсе.
 
-| Stage | Puzzles that often fit | Your role |
+| Стадия | Көбүнчө ылайык келген пазлдар | Сиздин ролуңуз |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Алгачкы | Мурункуга караганда бөлүкчөлөрү азыраак тааныш мозаикалар, чоң арип менен кроссворддор жана сөз издөө, 9 бөлүктөн турган онлайн пазлдар | Өнөктөш: аларга тандоого мүмкүндүк бериңиз, сураганда жардам бериңиз |
+| Орто | Ончолук чоң бөлүкчөлөрү бар мозаикалар, 4 бөлүктөн турган онлайн пазлдар, чогуу үн чыгарып окулган сөз издөө | Даярдап коюңуз, бөлүкчөлөрдү топтоңуз, бирден узатыңыз |
+| Кеч | Даяр сүрөттү чогуу карап отуруу, эки сүрөт менен «Окшошун тап», бир нече чоң бөлүкчөнү кармоо | Иш-аракетти ага жакындатыңыз; сиздин жанында болушуңуз өзү маани берет |
 
-## When should you make a puzzle easier, or stop?
+## Качан пазлды жөнөкөйлөтүү же токтотуу керек?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Оофтоо, бөлүкчөлөрдү түртүү, кайра-кайра «мен кыла албайм» деп айтуу же тынчсыз көрүнүш — булар улантуунун эмес, бир нерсени өзгөртүүнүн белгиси.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Жөнөкөйлөтүңүз.** Бөлүкчөлөрдү азайтыңыз же ага акыркы бир нечесин гана калтырыңыз.
+- **Көбүрөөк бөлүгүн өзүңүз жасап**, оңой жерлерине жардам берүүнү сунуштаңыз.
+- **Жакын башка нерсеге өтүңүз:** бөлүкчөлөрдү түсү боюнча топтоо, 4 бөлүктөн турган онлайн пазл же [боёо](/games/coloring/).
+- **Токтогула.** Пазлды бир жакка коюп, чай ичип алыңыз. Башка күнү кайтып келсеңиз болот, же такыр кайрылбасаңыз да болот.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Эгер пазлдар кыйын нерселерди эскерткендей болуп калса, аларды таштап коюу туура болот. Чогуу жакшы убакыт өткөрүүнүн көп башка жолдору бар; [101 иш-аракет идеясы](/activities/ideas/) баракчасы жакшы башталыш болушу мүмкүн.

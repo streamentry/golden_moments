@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Деменциясы бар адам менен сүйлөшүү боюнча кеңештер"
+seoTitle: "Деменция: сүйлөшүү кеңештери"
+description: "Деменция менен жашаган адам менен сүйлөшүүгө практикалык кеңештер: сүйлөшүүгө кантип даярдануу, эмнени айтуу жана кантип уккулаак болуу."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Тынч жерде сүйлөшүңүз, адамга жүзүңүздү буруп, атын атап, жай жана кыска,
+  жөнөкөй сүйлөмдөр менен сүйлөңүз. Бир эле суроону бериңиз, ачык суроолордун
+  ордуна эки тандоо сунуштаңыз жана адаттагыдан узагыраак күтүңүз. Талашпаңыз,
+  оңдобоңуз жана текшербеңиз. Сөздөрдүн артындагы сезимге жооп бериңиз. Сөз
+  табуу кыйын болгондо, тийүү, сүрөттөр жана жаңсоолор аркылуу баарлашыңыз.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Сүйлөшүп баштоодон мурун айлананы тынч кылып, адамдын көзүнө караңыз."
+  - "Кыска сүйлөмдөрдү, бир учурда бир ойду жана «ал», «алар» деген ат атоочтордун ордуна аттарды колдонуңуз."
+  - "Ачык суроолордун ордуна эки тандоо же «ооба» же «жок» деп жооп бериле турган суроо бериңиз."
+  - "Жоопту күтүңүз. Эгер түшүнбөсө, ошол эле сөздөрдү кайталаңыз, анан башка сөздөр менен айтыңыз."
+  - "Талашпаңыз жана оңдобоңуз. Айткан сөзүнүн артындагы сезимге жооп бериңиз."
+  - "Сөздөр азайганда, тийүү, үн, жүздөгү көрүнүш жана чогуу караган сүрөттөр аркылуу баарлашыңыз."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Деменциясы бар адамга эмнени айтпаш керек?"
+    a: "Текшерүүчү суроолордон («Эсиңдеби...?»), оңдоодон («Бул туура эмес»), жоготууларды эске салуудан («Мен сага буга чейин айткам») жана адам жоктогондой сүйлөшүүдөн алыс болуңуз. Баладай сүйлөбөңүз. Мындай сөздөр көбүнчө жардам бербей, уят же капа болууга себеп болот."
+  - q: "Адам фактыны туура эмес айтса, оңдошум керекпи?"
+    a: "Адатта, кереги жок. Эгер ката зыян келтирбесе, жылаң эле коё бериңиз. Талаш-тартыш адамдын оюн сейрек өзгөртөт жана көбүнчө аны капа кылат. Азыркы учурда ал кандай сезип жатканына жана ага эмне керек экенине көңүл буруңуз."
+  - q: "Адам керектүү сөздү таба албай калса, эмне кылышым керек?"
+    a: "Адегенде ага убакыт бериңиз. Эгер ал кыйналып жатса, керектүү сөздү акырын сунуштоо же айткысы келген ойду божомолдап, тактоо үчүн суроо берүүгө болот. Көрсөтүү, жаңсоо жана сүрөттөр да жардам бере алат."
+  - q: "Деменциянын кийинки стадиясында сейрек сүйлөгөн адам менен кантип сүйлөшөм?"
+    a: "Алды жактан жакындап, өзүңүздү тааныштырыңыз жана тынч үн менен, жумшак тийүү менен сүйлөшүңүз. Адамдын сезимин түшүнүү үчүн жүзүнө жана дене тилине көңүл буруңуз. Жаныңызда болууңуз, тааныш ыр же кол кармашуу сөзсүз эле көп нерсени билдире алат."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +43,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Деменция сөз табууну, узун сүйлөмдү түшүнүүнү же айланадагы ызы-чууну четке кагууну кыйындатышы мүмкүн. Бул адамдын баарлашкысы келбей калганын билдирбейт. Сүйлөшүүгө кантип даярданганыңызда, кантип сүйлөгөнүңүздө жана кантип укканыңызда кичинекей өзгөртүүлөрдү киргизүү баарлашууну экөөңүз үчүн тең жеңилирээк жана тынчыраак кыла алат.
 
-## What are the most important tips for talking with someone who has dementia?
+## Деменциясы бар адам менен сүйлөшүүдө эң маанилүү кеңештер кайсылар?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Адамдын көңүлүн буруңуз, жөнөкөй сүйлөңүз жана чыдамкай болуңуз. Беш нерсени гана эстесеңиз болот:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Бөлмөнү тынч кылып, адамга жүзүңүздү буруңуз.** Телевизорду өчүрүп, көз деңгээлинде отуруңуз жана атын атаңыз.
+2. **Бир учурда бир нерсени айтыңыз.** Кыска сүйлөмдөр, бир ой, бир суроо.
+3. **Эки тандоо сунуштаңыз.** «Чайбы же кофе?» деген суроо «Эмне каалайт элеңиз?» дегенге караганда жеңилирээк.
+4. **Күтүңүз.** Жооп алуу үчүн адаттагыдан көбүрөөк убакыт бериңиз жана сөзүн бөлбөөгө аракет кылыңыз.
+5. **Эч качан талашпаңыз жана текшербеңиз.** Фактылар туурабы же жокпу, ага эмес, адам кандай сезип жатканына жооп бериңиз.
 
-## How should I start a conversation?
+## Сүйлөшүүнү кантип башташым керек?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Адам сизге көңүл бургандай шарт түзүңүз. [Family Caregiver Alliance жетектемеси](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) адегенде ызы-чууну азайтууну сунуштайт: радио же телевизорду өчүрүңүз, пердени же эшикти жабыңыз же тынчыраак жерге өтүңүз.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Алды жактан жакындаңыз.** Арттан же капталдан келүү адамды чочутуп коюшу мүмкүн.
+- **Өзүңүздү тааныштырыңыз.** «Саламатсызбы, ата, бул мен, кызыңыз Сара». Бул адамга сиздин атыңызды эстеп табууга аракет кылуунун кереги жок.
+- **Анын деңгээлине түшүңүз.** Эгер ал отуруп турса, көзүңүз бир деңгээлде болушу үчүн отуруңуз же тизелениңиз.
+- **Жүзүңүздүн көрүнүшүнө жана үнүңүзгө көңүл буруңуз.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) үнүңүздүн обонуна, катуулугуна, жүзүңүздүн көрүнүшүнө жана дене тилине көңүл бурууну, жылуу жана жөнөкөй мамиле кылууну сунуштайт.
+- **Көз айнек менен угуу аппараты такылганын текшериңиз.** Толук көрбөгөн же укпаган сүйлөшүүнү түшүнүү кыйын.
 
-## How should I phrase what I say?
+## Айткан сөзүмдү кантип түзүшүм керек?
 
-Use simple words, short sentences and a calm, low voice.
+Жөнөкөй сөздөрдү, кыска сүйлөмдөрдү жана тынч, жыш эмес үндү колдонуңуз.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Бир сүйлөмдө бир ой.** «Келиңиз, курткаңызды кийели. Анан сыртка чыгабыз». Экөөнү бир дем менен айтпаңыз.
+- **Ат атоочтордун ордуна аттарды колдонуңуз.** «Жеңе Жан чакырды» деген «Ал чакырды» дегенге караганда түшүнүктүүрөөк.
+- **Үнүңүздү бийиктетпей, ылдыйраак кылып сүйлөңүз.** Family Caregiver Alliance үнүңүздү катуулатуунун ордуна, бир аз төмөндөтүүнү сунуштайт.
+- **Кайталаңыз, анан башкача айтыңыз.** Эгер адам түшүнбөсө, ошол эле сөздөрдү бир жолу кайталаңыз. Эгер бул жардам бербесе, бир аз күтө туруп, башка сөздөр менен айтып көрүңүз.
+- **Айтып гана койбой, көрсөтүңүз.** Чыныны көрсөтүңүз, эки свитерди сунуңуз же биринчи кадамды өзүңүз жасап көрсөтүңүз.
+- **Адам менен сүйлөшүңүз, ал жөнүндө эмес.** NIA адам жоктогондой сүйлөшүүдөн жана «баладай сүйлөөдөн» алыс болууну эскертет.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA күнүмдүк суроолордун жөнөкөй варианттарын сунуштайт. Ошол духта айрым мисалдар:
 
-| Instead of | Try |
+| Мунун ордуна | Муну айтып көрүңүз |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Кечки тамакка эмне каалайт элеңиз?» | «Балыкпы же тоокпу каалайт элеңиз?» |
+| «Өзүңүздү кандай сезип жатасыз?» | «Чарчадыңызбы?» |
+| «Ачкасызбы?» | «Кечки тамак беш мүнөттөн кийин даяр болот.» |
+| «Муну мындай кылбайт.» | «Келиңиз, мындай кылып көрөлү.» |
+| «Көл жээгиндеги сапарыбыз эсиңиздеби?» | «Көл жээгиндеги сапарыбыз эсиме түштү. Ал сапардан эмне жакканын айтып бериңизчи.» |
+| «Мен сага буга чейин айткам.» | Биринчи жолу айтып жаткандай, кайрадан сылыктык менен жооп бериңиз. |
 
-## How do I listen well?
+## Кантип жакшы уксам болот?
 
-Listen for the meaning and the feeling, not just the words.
+Сөздөрдү гана эмес, маанисин жана сезимин уга билиңиз.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Күтүңүз.** Унчукпай калуу көбүнчө ойлоно турган убакыт. Сөзүнө кирүүдөн мурун жай онго чейин санаңыз.
+- **Адам сөз таба албай кыйналганда гана жардам бериңиз.** Family Caregiver Alliance адам кыйналып жатканда керектүү сөздү сунуштоого болот дейт.
+- **Укканыңызды тактаңыз.** [Alzheimer's Association баарлашуу боюнча жетектемеси](https://www.alz.org/help-support/caregiving/daily-care/communications) айтылган сөздүн артындагы маанини таап, туура түшүнгөнүңүздү текшерүү үчүн аны кайтарып айтууну сунуштайт. «Унаа үчүн тынчсызданып жатасызбы?»
+- **Жүзүнө жана денесине көңүл буруңуз.** Сүйлөө кыйынга турганда, NIA айтымында, жүздөгү көрүнүш кайгы, ачуулуу же нааразы болууну сөздөргө караганда айкыныраак көрсөтүшү мүмкүн.
+- **Тынчсызданууларын олуттуу кабыл алыңыз.** Тынчсыздануу туура эмес фактка негизделсе да, сезим чыныгы.
 
-## What if they say something that is not true?
+## Эгер адам чындыкка дал келбеген нерсе айтсачы?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Талашпаңыз. Сиз ойду өзгөртө албай калышыңыз мүмкүн, ал эми адам уялгандай же корккондай сезиши ыктымал. Анын ордуна, сезимине жооп берип, акырын башка нерсеге көңүл буруңуз.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance көңүлдү башка нерсеге буруудан мурун адамдын сезимин таанууну сунуштайт. Мисалы, апаңыз балдарды мектептен алып келиш керек деп турса:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Мунун ордуна: «Апа, балдарың чоңойгон. Ал кырк жыл мурун болгон».
+- Муну айтып көрүңүз: «Сиз дайыма камкор эне болгонсуз. Балдарды алып келген убактарыңыз тууралуу айтып бериңизчи. Адегенде бир нерсе жеп алалыбы?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association да сиз макул болбогон сөздөр үчүн талашпоону кеңеш берет. Маанилүү учурларды тандаңыз: эгер туура эмес ой зыянсыз болсо, коё бериңиз.
 
-## How does communication change as dementia progresses?
+## Деменция өнүккөн сайын баарлашуу кантип өзгөрөт?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Убакыттын өтүшү менен муктаждыктар өзгөрөт, ошондуктан мамилеңизди да ошого жараша өзгөртүңүз. Alzheimer's Association үч негизги этапты сүрөттөйт:
 
-| Stage | What helps |
+| Этап | Эмнелер жардам берет |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Алгачкы | Адам баарлаша албай калды деп ойлобоңуз. Аны сүйлөшүүгө кошуңуз, түздөн-түз ага кайрылыңыз, кандай колдоо кааларын сураңыз жана ылайыктуу болсо, юморду колдонуңуз. |
+| Ортоңку | Тынч жерде бирөөгө бирөө сүйлөшүңүз. Жай сүйлөңүз, көз карандышты сактаңыз, «ооба» же «жок» деп жооп бериле турган суроолорду бериңиз, кадам-кадам көрсөтмө бериңиз, сынга албаңыз жана оңдобоңуз. |
+| Кийинки | Алды жактан жакындап, өзүңүздү тааныштырыңыз. Көрсөтүүгө жана жаңсоого үндөңүз. Тийүү, үндөр, көрүнүштөр жана жыттар аркылуу баарлашыңыз. Эч качан адам жоктогондой сүйлөбөңүз. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Ар бир адам өзгөчө, ал эми ошол эле адамда жакшы жана кыйын күндөр болушу мүмкүн. Белгиге эмес, адам азыр кандай экенине көңүл буруңуз.
 
-## Can pictures and activities make conversation easier?
+## Сүрөттөр жана иш-аракеттер сүйлөшүүнү жеңилдетеби?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ооба. Чогуу караган сүрөт кысымды азайтып, экөөңүз тең карап, көрсөткөн нерсе берет.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Сүрөт түрүндөгү суроолор.** [Conversation Cards](/games/conversation-cards/) эч качан текшербеген, ачык суроолору бар сүрөттөрдү сунуштайт.
+- **Үй-бүлөлүк сүрөттөр.** [Photo Pairs](/games/photo-pairs/) сиз тандаган сүрөттөрдү жеңил дал келтирүү оюнуна айлантат, бул көбүнчө эскерүүлөрдү жаратат.
+- **Тааныш кеңеш сөздөр.** [Finish the Saying](/games/finish-the-saying/) көпчүлүккө тааныш кеңеш сөздөрдү колдонот, андан кийин сүйлөшүүгө түрткү берет.
+- **Сүйлөшүү учурундагы дал келтирүү оюндары.** [Picture Pairs](/games/picture-pairs/) сүйлөшүп жатканда колуңузга бир нерсе кылууну берет.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Көбүрөөк маалымат алуу үчүн [чогуу кантип ойноо керек](/caregiving/how-to-play-together/) жана [эскерүү иш-аракеттери](/activities/reminiscence/) бөлүмдөрүн караңыз. Конокко баруу жана чалуулар тууралуу [конокко баруу](/activities/visiting/) жана [телефон жана видео чалуулар](/activities/phone-and-video-calls/) жетектемелерибизди окуңуз.
 
-## What if I lose my patience?
+## Эгер сабырым кетсе эмне кылам?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Мындай абал ар кимде болот. NIA эгер ачууланып калсаңыз, тынчыңызды алуу үчүн бир аз убакыт бөлүүнү сунуштайт. Башка бөлмөгө өтүп, бир нече жолу жай дем алып, өзүңүздү тынч сезгенде кайтып келиңиз. Сүйлөшүүнү кайрадан баштасаңыз болот, жана адам сиздин тынч маанайыңызга оң жооп бериши мүмкүн. Эгер нааразы болуу дайыма кайталана берсе, бул сиз жетишсизсиз дегенди эмес, көбүрөөк колдоого муктаж экениңизди билдирет. [Кам көрүүчүнүн өзүнө кам көрүүсү](/caregiving/caregiver-self-care/) жетектемесибизде кайрылса боло турган жерлер бар.

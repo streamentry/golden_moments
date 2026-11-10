@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Деменция менен жашаган адамдын күнүмдүк тартиби"
+seoTitle: "Деменцияда күн тартиби: ийкемдүү үлгү күн"
+description: "Деменция менен жашаган адам үчүн ийкемдүү үлгү күн: тамак, иш-чаралар жана эс алуу, өз тартибиңизди түзүү жана оор күндөргө ылайыктоо."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Жумшак күн тартиби ойгонуу, тамактануу, өзүнө кам көрүү жана уктоо убактысын
+  болжол менен бирдей кылып, негизги иш-чараны адам эң сергек кезде жайгаштырат
+  жана иш-чаралар менен эс алууну тең салмактайт. Аны адамдын өмүр бою
+  калыптанган адаттарынан түзүңүз, күндү толтуруп жибей, бош кармаңыз, күн сайын
+  күн нуруна чыгып, кыймылдаңыз жана күн талап кылганда планды эркин өзгөртүңүз.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ойгонуу, тамактануу, кам көрүү жана уктоо үчүн туруктуу убакыт күнгө тааныш тартип берет."
+  - "Негизги иш-чараны адамдын күн ичиндеги эң ыңгайлуу убактысына, көбүнчө эртең мененкисине коюңуз."
+  - "Ар бир мүнөттү толтурбаңыз. Эс алуу жана тынч убакыт да күн тартибинин бир бөлүгү."
+  - "Күн нуру, күнүмдүк кыймыл, күндүз узак уктабоо жана кечинде кофеинди аз колдонуу кечки мазасыздыкка жардам бериши мүмкүн."
+  - "Күн тартиби — эреже эмес, жол көрсөтүүчү. Оор күндөрдө каалаган нерсени алмаштырыңыз, кыскартыңыз же өткөрүп жибериңиз."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Деменция менен жашаган адамга күн тартиби эмне үчүн пайдалуу?"
+    a: "Алдын ала болжолдонгон күн чечимдерди жана күтүүсүз жагдайларды азайтат, бул деменция менен жашаган көптөгөн адамдарга тынчтык берет. Alzheimerʼs Association белгилегендей, пландаштырылган күн эмне кыларын ойлоп отурган убакытты азайтып, экөөңөр тең ырахат ала турган нерселерге көбүрөөк убакыт калтырат. Ал ошондой эле кам көргөн адамга өз күнүн ыңгайлуураак уюштурууга жардам берет."
+  - q: "Деменция менен жашаган адам үчүн кандай күн тартиби ылайыктуу?"
+    a: "Бир гана туура график жок. Жакшы күн тартиби ойгонуу, тамактануу жана уктоо убактысын болжол менен бирдей кылат, өзүнө кам көрүүнү жана негизги иш-чараны адамдын абалы жакшы убакытка жайгаштырат, көчөдө же терезе жанында болууга убакыт калтырат жана эс алууга орун берет. Аны адам дайыма кандай жашап келгенине жараша түзүңүз."
+  - q: "Деменция менен жашаган адам күндүз укташы керекпи?"
+    a: "Кыска эс алуу, өзгөчө туштан кийинки тамактан кийин, пайдалуу болушу мүмкүн. National Institute on Aging күндүз узак уктоого жана кечинде калгып кетүүгө шарт түзбөөнү сунуштайт, анткени өтө чарчоо же жетишсиз эс алуу кечки мазасыздыкты күчөтүшү мүмкүн. Эгер уйку чындап көйгөй болуп жатса, дарыгер менен кеңешиңиз."
+  - q: "Эгер адам күн тартибин аткаргысын келбесе эмне кылуу керек?"
+    a: "Азырынча коё бериңиз, кийинчерээк кайра аракет кылыңыз же башка жол менен сунуштаңыз. Баш тартуу адам чарчаганын, өзүн начар сезип жатканын, ооруп жатканын же жөн эле даяр эместигин билдириши мүмкүн. Күн тартиби күндү жеңилдетүү үчүн бар, ошондуктан аны мажбурлабастан, ыңгайлаштырыңыз."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Жумшак күн тартиби күнгө тааныш форма берет: ойгонуу, тамактануу, бир аз иш-чара, эс алуу жана уктоо болжол менен бир эле убакта болот. Ал чечимдерди жана күтүүсүз жагдайларды азайтат, ошондой эле эмнени кыларыңызды билбей турган учурларда сизге план берет. Төмөнкү күн тартиби — үлгү, эреже эмес. Аны башталгыч чекит катары колдонуп, сиз кам көргөн адамга ылайыкташтырыңыз.
 
-## Why does a daily routine help?
+## Күнүмдүк тартип эмне үчүн жардам берет?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Туруктуу тартип пайдалуу, анткени тааныш ыкмалар жаңы нерселерге караганда ээрчүү үчүн жеңилирээк. [Alzheimerʼs Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) пландаштырылган күн эмне кылууну чечүүгө кеткен убакытты азайтып, жагымдуу иш-чараларга көбүрөөк убакыт калтырарын айтат. Ошондой эле ойгонуу жана уктоо убактысынын туруктуу болушу уйку көйгөйлөрүнө жана кечки мазасыздыкка жардам бериши мүмкүн деп белгилейт. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) тынч үй шартын түзүү үчүн жуунуу, кийинүү жана тамактанууну күн сайын бир убакта кылууну сунуштайт, ал эми [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) да ошол эле күн тартибин сактоону сунуштайт.
 
-## A sample gentle day
+## Жумшак күндүн үлгүсү
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Убакыттар — жөн гана мисал. Бүт күндү адамдын өз ыргагына жараша эртерээк же кечирээк жылдырыңыз.
 
-| Time | What happens | Ideas | On a harder day |
+| Убакыт | Эмне болот | Идеялар | Оор күндө |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 | Ойгонуу, жуунуу, кийинүү | Күн сайын бирдей тартипте; кийимди кийүү ирети менен даярдап коюңуз | Кам көрүүнү жөнөкөйлөтүңүз; тазаланган көйнөк эле жетиштүү |
+| 8:45 | Эртең мененки тамак | Кофе жана үн чыгарып окуган гезит же радио | Бирге тынч тамактаныңыз, сүйлөшүүгө мажбурлабаңыз |
+| 9:30 | Негизги иш-чара | Кийим бүктөө, тамак бышыруу, бакча иши, кыска сейилдөө же жөө басуу | Кыскараак вариант же сиз кылып жатканда алар жанында болсун |
+| 10:30 | Тынч убакыт | Музыка, сүрөт альбому же терезе жанында отуруу | Сүйүктүү креслодо эс алуу |
+| 11:00 | Түшкү тамакка жардам | Жашылчаларды жуу, дасторкон жайуу | Сиз тамак бышырыңыз, алар сизге шерик болсун |
+| 12:00 | Түшкү тамак жана жыйноо | Үстөлдү сүртүү, бир нече идишти кургатуу | Үй иштерин өткөрүп жибериңиз |
+| 13:00 | Кыска эс алуу | Бутту көтөрүп отуруу, жумшак музыка | Ошол эле |
+| 14:00 | Көчөдө же кыймылдуу убакыт | Жөө басуу, подъездде отуруу, өсүмдүктөргө суу куюу, шарды ыргытуу | Күн тийген терезе жанында отуруу |
+| 15:00 | Баарлашуу же чыгармачылык | Конок, телефон чалуу, [сүрөт жуптары](/games/picture-pairs/), боёо, карта оюндары | Бирге ичимдик жана тамак-аш |
+| 16:30 | Тынчтануу убактысы | Парданы жабуу, жарыкты күйгүзүү, сүлгү бүктөө сыяктуу тынч иш | Тааныш музыка, аз ызы-чуу |
+| 17:30 | Кечки тамак | Аралаштырууга же дасторкон жайууга жардам берүү | Жөнөкөй, тааныш тамак |
+| 18:30 | Кечки бирге убакыт | Десерт жеп эстени жаңыртуу, карта, сүйүктүү көрсөтүү, колду жумшак сыйпоо | Тынч шериктештик |
+| 20:00 | Уктоого даярдануу | Жуунуу же мончо, пижама, жумшак музыка, күңүрт жарык | Баарын кыскартыңыз; ыңгайлуулук биринчи орунда |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Бул үлгү Alzheimerʼs Association сунуштаган эрте жана орто стадиялар үчүн үлгү планга окшош: ал өзүнө кам көрүү жана эртең мененки тамактан башталып, үй иштери, сейилдөө, музыка, эс алуу жана коноктор аркылуу кечки тамакка, эскерүүлөргө жана уктоого даярданууга өтөт.
 
-## How do you build your own routine?
+## Өз күн тартибиңизди кантип түзүүгө болот?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Диаграммадан эмес, адам дайыма кандай жашап келгенинен баштаңыз. Alzheimerʼs Association пландаштыруудан мурун төмөнкүлөр жөнүндө ойлонууну сунуштайт:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Анын жактыруулары, жактырбоолору, күчтүү жактары жана кызыккан нерселери.**
+- **Ал мурун күнүн кантип өткөрчү.** Дайыма эрте туруп, итин сейилдеткен адам эртең менен эле сейилдеши керек. Кеч туруп көнгөн адам 8:00дө баштоону эч качан жактырбашы мүмкүн.
+- **Анын күн ичиндеги эң ыңгайлуу убактысы.** Жуунууну, сыртка чыгууну жана негизги иш-чараны ошол убакытка коюңуз.
+- **Жетиштүү убакыт** тамактанууга, жуунууга жана кийинүүгө, эч нерсе шашылыш болбошу үчүн.
+- **Туруктуу ойгонуу жана уктоо убактысы.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ошол эле булак үй иштерин, тамактанууну, өзүнө кам көрүүнү, чыгармачылык иш-чараларды, дене кыймылын, баарлашууну, руханий иш-чараларды жана күтүүсүз жагымдуу учурларды, мисалы достун капыстан келүүсүн, кошууну сунуштайт.
 
-### Try it for a week, then adjust
+### Бир жума сынап көрүп, анан өзгөртүңүз
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Күн сайын кыскача белгилеп туруңуз. Alzheimerʼs Association кайсы иш-чаралар жакшы өткөнүн жана эмнеге андай болгонун, өтө көп нерсе болуп кеткен же тескерисинче, аз нерсе болгон учурлар болгон-болбогонун, күтүүсүз пландар жагымдуу же тынчсыздандыра тургандай сезилген-сезилбегенин суроону сунуштайт. Жакшы иштеген нерселерди калтырыңыз, иштебегенин өзгөртүңүз.
 
-### Make it visible
+### Аны көрүнүктүү кылыңыз
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Эгер адам дагы эле окуй алса, күндүн планы жазылган доска же чоң тамга менен жазылган карточка тынчтык бере алат. Аны кыска кармаңыз: «Эртең мененки тамак. Сара менен сейилдөө. Түшкү тамак. Эс алуу». Айрым адамдар алыскы пландарды билүүдөн жакшыраак, учурда гана билгенди туура көрүшөт; эгер ал тынчсыздануу туудурса, Family Caregiver Alliance пландарды алар боло электе эле талкуулоону сунуштайт.
 
-## How to adapt the routine
+## Күн тартибин кантип ылайыкташтыруу керек
 
-### Leave room to breathe
+### Дем алууга орун калтырыңыз
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ар бир мүнөттү толтурбаңыз. Alzheimerʼs Association адамга иш-чаралар менен эс алуунун тең салмактуулугу керек экенин жана ага тез-тез тыныгуу керек болушу мүмкүн экенин баса белгилейт. Эгер адам зеригип, көңүлү чөгүп же ачуусу келип жаткандай көрүнсө, иш-чараны алмаштырыңыз же эс алууга убакыт бериңиз.
 
-### Protect the late afternoon
+### Түштөн кийинки убакытты коргоңуз
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Көптөгөн адамдар күн батып баратканда көбүрөөк мазасызданышат. NIA күн сайын күн нуруна чыгуу же терезе жанында болуу, күн сайын кыймылдоо, бирок өтө көп нерсени пландабоо, кечинде кофеин менен алкоголдон алыс болуу жана кечинде узак уктоого шарт түзбөөнү сунуштайт. Айрым үй-бүлөлөр күн батканга чейин парданы жаап, жарыкты күйгүзүү жардам берерин байкашат. [Кечки мазасыздык](/caregiving/late-day-restlessness/) жана [уйку](/brain-health/sleep/) бөлүмдөрүн караңыз.
 
-### Change it as needs change
+### Керектөөлөр өзгөргөн сайын аны өзгөртүңүз
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Эрте стадия:** күн тартибин бирге пландаштырыңыз. Адам өзү башкарып турган жазуу түрүндөгү графикти каалашы мүмкүн.
+- **Орто стадия:** сиз көбүрөөк жетектейсиз. Иш-чаралар кыскараак, эс алуу көбүрөөк жана көптөгөн тааныш иштер болот; [орто стадиядагы иш-чараларды](/activities/middle-stage/) караңыз.
+- **Кеч стадия:** күн тартиби ыңгайлуулукка, тамактанууга жана кам көрүүгө негизделет, алардын ортосунда музыка же колду жумшак сыйпоо сыяктуу кыска сезүү учурлары болот; [кеч стадиядагы иш-чараларды](/activities/late-stage/) караңыз.
 
-### Vary the activities, not the frame
+### Негизги түзүлүштү эмес, иш-чараларды алмаштырыңыз
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Тамактануу, эс алуу жана уктоо убактысын туруктуу кармаңыз, ортосундагы иш-чараларды алмаштырып туруңуз. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) кызыгууну сактоо үчүн ар кандай күндөрдө ар кандай иш-чараларды сынап көрүүнү сунуштайт. Мисалы, дүйшөмбүдө тамак бышырып, шейшембиде бакча иштешип, шаршембиде сүрөттөрдү карасаңыз болот. Биздин [101 иш-чара идеясы](/activities/ideas/) жана [үй иштери](/activities/household-tasks/) бул орундарды толтурууга жардам берет.
 
-## When the day goes sideways
+## Күн пландалгандай өтпөй калганда
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Кээ бир күндөр эч кандай планга баш ийбейт. Оору, начар түн, дарыгерге баруу же аба ырайынын өзгөрүшү баарын өзгөртүшү мүмкүн. Планды коё бериңиз, негизгилерди (тамак, суу, эс алуу, ыңгайлуулук) сактаңыз жана эртең кайра аракет кылыңыз. Эгер адам бир нерседен баш тартса, [алар «жок» дегенде](/caregiving/when-they-say-no/) бөлүмүн караңыз. [Тынч дем алуу](/games/calm-breathing/) сыяктуу бирге жасалган жай дем алуу экөөңөргө тең кайрадан топтонууга жардам бериши мүмкүн.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Сиздин өзүңүздүн күн тартибиңиз да маанилүү. Өзүңүз үчүн тыныгуу убактысын пландап, туруктуу эс алуу үчүн үй-бүлө мүчөлөрүнөн же убактылуу кам көрүү кызматынын жардамын сураныңыз. [Кам көргөн адамдын өзүнө кам көрүүсү](/caregiving/caregiver-self-care/) бөлүмүн караңыз.
