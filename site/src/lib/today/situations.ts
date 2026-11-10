@@ -19,6 +19,16 @@ export const SITUATION_IDS = [
 
 export type SituationId = (typeof SITUATION_IDS)[number];
 
+export interface GuideActivityChoice {
+  type: 'guide';
+  href: string;
+  label: string;
+  description: string;
+  picture: string;
+}
+
+export type ActivityChoice = GameSlug | GuideActivityChoice;
+
 export interface Situation {
   id: SituationId;
   /** In the caregiver's own words. */
@@ -29,8 +39,8 @@ export interface Situation {
   help: string;
   /** One gentle activity on this site. */
   activity?: { href: string; label: string };
-  /** Two picture activities when the person may prefer to point to a choice. */
-  choices?: readonly [GameSlug, GameSlug];
+  /** Two pictured activities when the person may prefer to point to a choice. */
+  choices?: readonly [ActivityChoice, ActivityChoice];
   /** The full guide this answer comes from. */
   guide: { href: string; label: string };
 }
@@ -96,7 +106,16 @@ export const SITUATIONS: readonly Situation[] = [
       'Watching, holding something or sitting close all count. Stopping early is fine.',
     ],
     help: DOCTOR,
-    choices: ['picture-pairs', 'conversation-cards'],
+    choices: [
+      'picture-pairs',
+      {
+        type: 'guide',
+        href: '/activities/music/',
+        label: 'Listen to a familiar song',
+        description: 'Choose music they enjoy. Listening together is enough.',
+        picture: 'radio',
+      },
+    ],
     guide: { href: '/activities/ideas/', label: '101 activity ideas' },
   },
   {
