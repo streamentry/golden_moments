@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Çalakiyên cejnê ji bo kesê ku bi demansê re dijî"
+seoTitle: "Ramanên cejnê ji bo demansê"
+description: "Çalakiyên cejnê yên hêsan ji bo kesê ku bi demansê re dijî: karên xwarinçêkirinê, xemilandin, muzîk, wêne û bangên vîdyoyê, û plansaziyeke aramtir."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Cejnan biçûktir, di destpêka rojê de û nêzîkî bernameya rojane ya asayî ya
+  kesî bihêlin. Kareke rast û ewle bidin wî, wek danîna maseyê, şuştina
+  sebzeyan, pêçandina diyariyekê an daliqandina xemilandinekê. Muzîka nas û
+  wêneyên kevn parve bikin, mêvanan pêşwext amade bikin û jûreyeke bêdeng
+  çêbikin. Tenê tiştên ku hûn bi awayekî maqûl dikarin bikin, bikin; pîrozbahiyeke
+  kurt û aram pîrozbahiyeke baş e.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Heke tevlihevî di dawiya rojê de gelemperî ye, pîrozbahiyê di destpêka rojê de bikin, wek firavîn an taştêya dereng."
+  - "Karên rast pêşniyar bikin: danîna maseyê, şuştina sebzeyan, pêçandin, xemilandin an danîna şîraniyan li ser tepsiyê."
+  - "Muzîka nas, stranên cejnê û albûmên wêneyên kevn rêyên hêsan in ji bo parvekirina demsalê."
+  - "Ji mêvanan re bibêjin ka çi li bendê bin, û wêneyên kesên ku tên nîşanî wî kesî bidin."
+  - "Jûreyeke bêdeng bi betaniyeke an çakêteke bijare amade bikin, û mêvanan çend kes bi carekê bihêlin werin."
+  - "Ji tiştên ku dikarin zêde bar bikin dûr bisekinin, tevî xemilandinên ku wek xwarinê xuya dikin û gelek roniyên çavpêketok."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Kesê ku bi demansê re dijî dikare di Pîroza Spasdariyê de çi bike?"
+    a: "Kareke hêsan û ewle bidin wî ku li gorî tiştên ku ew îro dikare bike be: şuştina sebzeyan, tevlihevkirina sosê cranberry, danîna maseyê, qatkirina destmalên maseyê an danîna şîraniyan li ser tepsiyekê. Piştre, li wêneyên kevn ên malbatê binêrin an bi hev re stranên nas bêjin. Tev li rojê bûn ji encama karî girîngtir e."
+  - q: "Gelo divê em dîsa civîneke mezin a malbatê li dar bixin?"
+    a: "Tenê heke birêvebirina wê pêkan e. Girse û deng dikarin zêde bar bikin, ji ber vê yekê gelek malbat derbasî civîneke biçûktir û rehetir, xwarineke zûtir, an mêvanên ku di komên piçûk de tên dibin. Alzheimer's Association teşwîq dike ku kesên ku lênihêrînê dikin tenê tiştên ku bi awayekî maqûl û ewle dikarin bikin, bikin."
+  - q: "Ez çawa malbata ku demek e nehatiye amade bikim?"
+    a: "Berî ku ew werin, ji wan re bibêjin ka dibe ku ew kîjan guhertinan bibînin, û ku ev guhertin ji nexweşiyê tên, ne ji kesî. Ji wan bixwazin ku rast nekin an nepirsin, yek bi yek bipeyivin û ji bo bersivan dem bidin. Nîşandana wêneyên mêvanan ji pêş de jî dibe ku alîkar be."
+  - q: "Kîjan diyarî ji bo kesê ku bi demansê re dijî guncaw in?"
+    a: "Tiştên hêsan û ewle ku ew niha dikare jê kêfê bike: xwarineke bijare, betaniyeke an çakêteke nerm, muzîka nas, an albûmeke wêneyên malbatê. Ji amûrên elektronîkî yên tevlihev, amûran û lîstikên maseyê yên dijwar dûr bisekinin. Tevlîkirina wî di dayînê de, wek pêçandina diyariyekê an danîna kulîçeyên ku ew alîkariya pijandina wan kiriye di nav qutiyekê de, bixwe dikare bibe diyariyek."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Cejn dikarin bîranînên germ vegerînin, û ew dikarin deng, girse û guhertinên di roja asayî de jî bînin. Ji bo kesê ku bi demansê re dijî, pîrozbahiyên çêtirîn bi gelemperî biçûktir, hêdîtir in û li dor tiştên ku ew hîn jî dikare jê kêfê bike hatine çêkirin. Ev raman hem ji bo Pîroza Spasdariyê, hem ji bo Christmas, Hanukkah, Sersal û rojbûnên malbatê jî guncaw in.
 
-## How do I plan a calmer holiday?
+## Ez çawa dikarim cejneke aramtir plansaz bikim?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Bi bernameya rojane ya asayî ya kesî dest pê bikin û rojê li gorî wê plansaz bikin. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) pêşniyar dike ku pîrozbahî di destpêka rojê de were kirin, ji ber ku tevlihevî û bêrihetiyê gelek caran di dawiya piştî nîvro û êvarê de zêde dibin (carinan jê re sundowning tê gotin). Firavîneke cejnê an taştêya dereng dikare ji şîveke dereng hêsantir be.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Mezinahiyê guncaw bihêlin.** Civîneke biçûktir û rehetir, an mêvanên ku çend kes bi carekê tên, gelek caran ji maseyeke tijî mirov hêsantir e.
+- **Karan belav bikin.** Ji xizmên xwe bixwazin ku xwarinekê bînin, kirînê bikin an dema ku hûn xwarinê amade dikin bi kesî re dem derbas bikin. Bi zelalî bibêjin ka çi dê bibe alîkar.
+- **Xemilandinan hêsan bihêlin.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) destnîşan dike ku roniyên çavpêketok dikarin tevlihevkar bin, û ku şîrînî an fêkiyên çêkirî yên ku wek xemilandin tên bikaranîn dibe ku bi xeletî wek xwarin werin hesibandin.
+- **Biryarê bidin ka çi bihêlin.** Heke kevneşopiyek bûye stresdar an metirsîdar, çê ye ku hûn wê nekin an kevneşopiyeke aramtir biceribînin.
 
-## What holiday activities can we do together?
+## Em dikarin bi hev re kîjan çalakiyên cejnê bikin?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Kar û çalakiyên ku li gorî tiştên ku kes îro dikare bike ne hilbijêrin. Tev li rojê bûn ji encama wê girîngtir e.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Bi hev re maseyê danînin.** Pêşî tepsiyan, paşê destmalan, paşê tasan danînin. Qatkirina destmalên maseyê karekî baş e ku meriv rûniştî bike.
+2. **Sebzeyan bişon û rêz bikin.** Şuştina kartolan an şikandina fasûliyên kesk li ser maseya mitbaxê ji bo gelek kesên ku berê xwarinê çêdikirin ewle û nas e.
+3. **Tevlihev bikin, têkel bikin an li ser tepsiyê danînin.** Tevlihevkirina sosê cranberry, têkelkirina hevîrekî hêsan an danîna kulîçeyan li ser tepsiyekê destan mijûl dihêle, dûrî sobê û kêrikan.
+4. **Diyariyekê bipêçin.** Kaxiz û benîştê pêşwext bibirin, û bihêlin kes wê qat bike û safî bike. Pêçandina bêkêmasî ne armanc e.
+5. **Çend xemilandinan daliqînin.** Xemilandinên neşikestî û cihekî piçûk hilbijêrin, wek taca derî an dareke piçûk.
+6. **Hunereke hêsan çêbikin.** Zincîrên kaxizê, kolajeke pelan an karteke cejnê bi mohuran baş dixebitin. Rêberê me yê [huner û destkarî](/activities/arts-and-crafts/) bêtir ramanan pêşkêş dike.
+7. **Bistrên û guhdarî bikin.** Stranên cejnê yên nas hêsan in ku mirov tev li wan bibe, heta ji bo kesê ku niha kêmtir diaxive jî. Ji bo çêkirina lîsteyeke stranê li rêberê me yê [muzîkê](/activities/music/) binêrin.
+8. **Li wêneyên kevn ên cejnê binêrin.** Albûmên pîrozbahiyên berê derxin û ji bo çîrokan vexwînin («Der barê vê maseyê de ji min re bêje») li şûna ku bipirsin ka kî kî ye. Rêberê me yê [bîranînan](/activities/reminiscence/) vê yekê şirove dike.
+9. **Lîstikeke komî ya nerm bilîzin.** [Picture bingo](/games/picture-bingo/) di çend deqeyan de tê çapkirin û ji bo her temenî guncaw e, û [conversation cards](/games/conversation-cards/) ji her kesî re tiştekî dide ku li ser biaxive.
+10. **Bi hev re reng bikin.** [Rûpelên rengkirinê](/games/coloring/) yên hêsan dikarin ji bo zarok û mezinan werin çapkirin da ku li ser maseyê bi hev re parve bikin.
+11. **Fîlmeke cejnê ya bijare temaşe bikin.** Fîlmeke nas aramker e, û pirsgirêk nîne heke tenê beşek jê were temaşekirin.
+12. **Gerîdeke kurt bikin da ku roniyan bibînin.** Gerîdeke bêdeng li ber xaniyên xemilandî dikare ji bûyereke qerebalix hêsantir be.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Heke xwarinçêkirin beşeke mezin a jiyana kesî bû, rêberê me yê [karên malê wek çalakî](/activities/household-tasks/) rêyên bêtir pêşkêş dike da ku karên mitbaxê ewle û dilxweşker bin.
 
-## How do I prepare guests?
+## Ez çawa mêvanan amade bikim?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Berî ku mêvan werin, ji wan re bibêjin ka çi li bendê bin, bi taybetî ji xizmên ku demek e nehatiye. Alzheimer's Association pêşniyar dike ku were şirovekirin ku guhertinên di bîr û tevgerê de ji nexweşiyê tên, ne ji kesî.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Çend serişteyên hêsan parve bikin:** yek bi yek bipeyivin, ji bo qedandina ramanekê dem bidin, rast nekin an nepirsin, û heke peyv şopandin zehmet in, bersivê bidin dengê kesî.
+- **Bibêjin ka çi alîkar e û çi aciz dike.** Heke dengên bilind, lezandin an hin mijar dibe sedema nerehetiyê, vê yekê bibêjin.
+- **Mêvanan pêşwext bidin nasîn.** Wêneyên kesên ku tên nîşanî wî kesî bidin û çend çîrokan parve bikin, an berî rojê bangeke kurt a telefonî an vîdyoyê saz bikin.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Rêberê me yê [serişteyên ragihandinê](/caregiving/communication-tips/) bêtir hûrguliyan dide.
 
-## What if it gets to be too much?
+## Heke tişt zêde bibin çi?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Berî ku mêvan werin, jûreyeke bêdeng amade bikin, dûrî dengê, bi tiştên nas ên aramker wek betaniyeke bijare, çakêtek an çalakiyeke hêsan. Zû û gelek caran wê pêşniyar bikin: «Em ji bo demekê li cihêkî bêdengtir rûnin?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Ji maseyê rabûn, zû razan an beşek ji rojê nekirin encameke baş e, ne têkçûn. Heke kes aciz bibe, dengekî aram, straneke nas an çûna odeyeke din gelek caran ji sedem anîna mentiqî bêtir alîkar e. Rêberê me yê [bêrihetiya dawiya rojê](/caregiving/late-day-restlessness/) ji bo êvaran bêtir ramanan dide.
 
-## How can family far away take part?
+## Malbata dûr çawa dikare tev bigire?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Bangên vîdyoyê dihêlin ku xizm bêyî zêdekirina qerebalixiyê tev bibin. Alzheimer's Association pêşniyar dike ku bang xwedî avahiyekê bin, wek mînak bi hev re gotina stranên demsalê, parvekirina wêneyên pîrozbahiyên berê, bi hev re çêkirina heman reçeteyê an di heman demê de temaşekirina fîlmeke cejnê. Bangan kurt bihêlin, û ji mirovan bixwazin ku yek bi yek bipeyivin, ji ber ku axaftina hevdem şopandin zehmet e. Rêberê me yê [bangên telefon û vîdyoyê](/activities/phone-and-video-calls/) ramanên gav bi gav pêşkêş dike.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Heke kes di navendeke lênêrîna bîrê de dijî, siyaseta serdanê kontrol bikin û ji karmendan bixwazin ku ji bo sazkirina bangekê alîkar bin. Rêberê me yê [serdana kesê ku di navendeke lênêrîna bîrê de ye](/activities/visiting/) vedibêje ka çi bînin û çawa bi başî biqedînin.
 
-## What gifts suit someone with dementia?
+## Kîjan diyarî ji bo kesê ku bi demansê re dijî guncaw in?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Diyariyên hêsan û ewle ku ew niha dikare jê kêfê bike bi gelemperî çêtirîn dixebitin: xwarineke bijare, betaniyeke an kardiganeke nerm, muzîka nas, salnameyeke bi tîpên mezin, an albûmeke wêneyên malbatê. Alzheimer's Association şîret dike ku ji amûrên metirsîdar, amûrên elektronîkî yên tevlihev û lîstikên maseyê yên dijwar dûr were sekinîn.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Dayîn dikare bi qasî wergirtinê girîng be. Danîna kulîçeyên ku kes alîkariya pijandina wan kiriye di nav qutiyekê de, an pêçandina diyariyekê ku we kirî bi alîkariya wî, dihêle ku ew tev li demsalê bibe. Lîstikeke wêneyan a malbatê jî ramaneke din e: [photo pairs](/games/photo-pairs/) çend wêneyên bijartî di gerokê de vediguherîne lîstikeke hevberdanê ya nerm.
 
-## Look after yourself too
+## Ji xwe re jî lê binerin
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Cejn barê lênêrînê zêde dikin. Bihêlin kesekî din mazûvanî bike an mirîşkê bipêje, ji bûyerên ku dê dijwar bin re bibêjin na, û dema ku kesên din bi wî kesî re dem derbas dikin navberan bidin xwe. Heke hûn an kesê ku hûn lê dinêrin nexweş in, hejandina destan ji rêyan an bangeke vîdyoyê bi tevahî serdaneke baş e. Rêberê me yê [lênêrîna ji xwe re ji bo kesên ku lênihêrînê dikin](/caregiving/caregiver-self-care/) piştgiriyeke bêtir pêşkêş dike.

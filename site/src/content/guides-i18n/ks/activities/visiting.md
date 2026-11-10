@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "میموری کیئر یا ہسپتالس مَنٛز ڈیمینشیا سٍتۍ روزن وٲلِس سٍتۍ ملاقات"
+seoTitle: "ڈیمینشیا سٍتۍ روزن وٲلِس سٍتۍ ملاقات: کیا کرُن تہٕ کیا نِنُن"
+description: "میموری کیئر، نرسنگ ہوم یا ہسپتالس مَنٛز ڈیمینشیا سٍتۍ روزن وٲلِس سٍتۍ ملاقاتُک طریقہ: کیا نِنُن، سادہ سرگرمیاں، لۄکچار مُلاقاتہٕ تہٕ آرام سان واپسی۔"
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  ییلہٕ تۄہہ میموری کیئر یا ہسپتالس مَنٛز ڈیمینشیا سٍتۍ روزن وٲلِس کٲنٛسہِ سٍتۍ
+  ملاقات کران چھِو، چیزہٕ تھٲوِو سادٕ: یِوان یِوان پنُن ناو وَنِو، شیئر کرنہٕ خٲطرٕ
+  کینٛہہ اَنِو — مِثالَن فوٹو، موسیقی یا پسندیدٕ خٮ۪ن — تہٕ اکھ سۄہل کام ہیکِو
+  مِلِتھ کرِتھ۔ لۄکچار، باقاعدٕ مُلاقاتہٕ چھےٚ اکثر زیچھن، کم مُلاقاتن ہُنٛد کھۄتہٕ بہتر
+  گژھان۔ آرام سان تہٕ اَکِے طریقہٕ رخصت گژھنُک بَندوبست کٔرِو تاکہ واپسی تُہندِ خٲطرٕ
+  تہٕ تِہندِ خٲطرٕ آسہِ آسان۔
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "تَس شخصہٕ سُنٛد ناو ہیتھ کٔرِو خیرمقدم تہٕ وَنِو زِ تۄہہ کُس چھِو، تاکہ تِمن مَہ گژھِ سوچُن: «ہی ماجی، بٕ چھُس سوزن، چٲنۍ کور۔»"
+  - "شیئر کرنہٕ خٲطرٕ اکھ یا زٕ چیزہٕ اَنِو، مِثالَن فوٹو اَلبم، تِہنز پسندیدٕ موسیقی، نرم کمَل یا سُہ خٮ۪ن یَتھ عملس منز ہِنٛز اجازت آسہِ۔"
+  - "لۄکچار، باقاعدٕ مُلاقاتہٕ چھےٚ اکثر زیچھن، کم مُلاقاتن ہُنٛد کھۄتہٕ بہتر گژھان۔ تُہنز موجودگی چھےٚ تَمہِ کھۄتہٕ زیادہ اہم یُس تۄہہ ونان چھِو۔"
+  - "ہسپتالس مَنٛز دِیِو عملس اکھ صفُک پرچہ یَتھ مَنٛز تَس شخصہٕ مُتعلِق ضروری معلومات آسَن، تہٕ اگر اچانک کانٛہہ تبدیلی باسیٛو تیٚلہِ کٔرِو فوراً ڈاکٹرس اطلاع۔"
+  - "پنُن واپسی ہُنٛد بَندوبست گۄڈٕ کٔرِو: وَنِو زِ تۄہہ کٲژاہ کال روزِو، پرٛتھ لٹہِ کٔرِو اَکی وَے رخصت، تہٕ رۄپِتھ مَہ گٔژِھو۔"
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "ڈیمینشیا سٍتۍ روزن وٲلِس سٍتۍ ملاقات کرنہٕ وِزِ کیا اَنُن چاہِ؟"
+    a: "شیئر کرنہٕ خٲطرٕ کینٛہہ اَنِو، نَہ زِ بحث کرنہٕ خٲطرٕ کینٛہہ۔ اکھ لۄکُٹ فوٹو اَلبم، تِہنزَن پسندیدَن گیتَن ہُنٛد پلے لِسٹ، اکھ نرم کمَل، اَتھن خٲطرٕ لوشن، پرٲنِ دلچسپی ہُنٛد میگزین، یا سُہ خٮ۪ن یَتھ عملس اجازت دِژمٕژ آسہِ — یِم سٲری ہیکَن ٹھیک آسِتھ۔ کیئر ہومس مَنٛز ہیکَن خاندٲنی فوٹو تہٕ مانوس چیزہٕ کمرس مزید گَرس ہِیوٚن بناوِتھ۔"
+  - q: "ڈیمینشیا سٍتۍ روزن وٲلِس سٍتۍ ملاقات کرنہٕ وِزِ مےٚ کٲژاہ کال روزُن چاہِ؟"
+    a: "کانٛہہ صحیح مُدّت چھُنہٕ۔ واریاہ خاندانہٕ چھےٚ یہِ محسوس کران زِ لۄکچار، باقاعدٕ مُلاقاتہٕ چھےٚ زیچھن، کم مُلاقاتن ہُنٛد کھۄتہٕ بہتر گژھان، تِکیازِ تِم ہیکَن جلدی تھٔکِتھ تہٕ تِمن ہیکہِ یاد آسُنہٕ زِ تۄہہ کٲژاہ کال روٗدِو۔ تھکنٕچ علامتہٕ وُچھِو تہٕ تَمہِ وِزِ نیرِو ییلہٕ مُلاقات ہَوزِو ٹھیک پیٚٹھ باسان۔"
+  - q: "اگر تِم وَنن زِ «مےٚ چھےٚ گَرس گژُھن»، تیٚلہِ کیا وَنُن؟"
+    a: "لَفظن ہُنٛد جواب دِنہٕ بجاےٚ دِیِو احساسُک جواب۔ «مےٚ چھےٚ گَرس گژُھن» ہیکہِ اکثر یہِ معنی آسُن زِ «مےٚ چھُنہٕ آرام یا حِفاظت محسوس گژھان۔» تۄہہ ہیکِو وَنِتھ: «مےٚ وَنِو پننِس گَرَس مُتعلِق»، مِلِتھ وُچھِو فوٹو، یا سیر کرنُک یا کینٛہہ کھیٚنُک پیش کٔرِو۔ بحث کرُن یا سمجھاون زِ تِم کیازِ ہیکَن نہٕ گٔژِھتھ، چھُ اکثر پریشٲنی ہُرراوان۔"
+  - q: "اگر تِم مےٚ پرزناوَن نہٕ، تیٚلہِ کیا کرُن؟"
+    a: "یہِ ہیکہِ دِلَس لاگِتھ، مگر تِمن ٹھیک کرنٕچ یا «تۄہہ چھا جانان مےٚ کُس چھُس؟» پرژھنٕچ کوشش مَہ کٔرِو۔ نرمی سان تہٕ سادٕ طریقہٕ کٔرِو پنُن تعارُف تہٕ بس تِمَن سٍتۍ کٔرِو وقت گزارُن۔ واریاہ لُکھ چھِ سٲتھس مَنٛز خۄشی محسوس کران تہٕ مُلاقاتُک گرم احساس محسوس کران، اگرچہِ تِمن آسہِ نہٕ یاد زِ تۄہہ کُس چھِو۔"
+  - q: "ہسپتالس مَنٛز قیام دوران بٕ کِتھ کٔنۍ ہیکہٕ مدد کٔرِتھ؟"
+    a: "یوتاہ ممکن آسہِ، تَس شخصہٕ سٍتۍ روٗزِو، کھیٚنس تہٕ چیٚنس مَنٛز کٔرِو مدد، تہٕ فوٹو ہِیوِ مانوس چیزہٕ اَنِو۔ عملس دِیِو اکھ پرچہ یَتھ مَنٛز تِہنز معمولی روٹین، پسندیدٕ ناو، پسند، ناپسند تہٕ دٔدِچ علامتہٕ درج آسَن۔ اگر سُہ شخص اچانک زیادہ بیمار یا بدلاونہٕ آمُت باسیٚو، تیٚلہِ کٔرِو فوراً ڈاکٹرس اطلاع، تِکیازِ اچانک الجھن ہیکہِ کُنہِ طبی مسئلہٕچ نِشٲنی آسُن۔"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+میموری کیئر، نرسنگ ہوم یا ہسپتالس مَنٛز پننِس عزیز سٍتۍ ملاقات کرُن ہیکہِ واریاہ احساس اَنِتھ۔ تۄہہ ہیکِو سوچان آسُن زِ کیا وَنُن، کیا نِنُن، یا اگر تِمن یاد روٗزِ نہٕ تیٚلہِ تہِ چھا مُلاقاتُک کانٛہہ مطلب؟ مطلب چھُ۔ National Institute on Aging چھُ ونان زِ الزائمَر سٍتۍ روزن وٲلؠ لُکھ چھِ اکثر [سٲتھس مَنٛز خۄشی محسوس کران](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)، اگرچہِ تِمن آسہِ نہٕ یاد زِ مُلاقات کرن وول کُس اوس۔ یتھ صفہٕ چھےٚ مُلاقاتہٕ برونٹھ، دوران تہٕ پتہٕ خٲطرٕ عملی مشورٕ، تہٕ ہسپتالس مَنٛز قیام خٲطرٕ خاص ہدایتہٕ۔
 
-## How do I get ready for a visit?
+## بٕ کِتھ کٔنۍ کرٕ تیار مُلاقاتہٕ برونٹھ؟
 
-A little planning makes the visit easier for both of you.
+تھوٚڑ منصوبہٕ بناوُن چھُ تُہندِ خٲطرٕ تہٕ تِہندِ خٲطرٕ مُلاقات آسان بناوان۔
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **مُنٲسِب وقت چُنِو۔** Dementia Australia چھُ مشورٕ دِوان زِ تَمہِ وِزِ کٔرِو ملاقات ییلہِ سُہ شخص عام طور جاگروٗزِتھ آسہِ، یُس واریاہن لُکن خٲطرٕ صبح یا دوپہر آسہِ۔ Family Caregiver Alliance چھُ مشورٕ دِوان زِ سہولتُک وقت جدول زانُن تہٕ [سرگرمی وَقتَس بجاےٚ فارغ وَقتس مَنٛز](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) ملاقات کرٕنۍ۔
+- **عملہٕ سٍتۍ کٔرِو بات۔** پرٛژِھو زِ از سُہ شخص کِتھ چھُ، تہٕ کھیٚن، جانورن یا نیبر نیرن مُتعلِق اگر کانٛہہ قٲعدٕ آسن تیٚم تہِ وُچھِو۔
+- **لۄکُٹ مُلاقات بیگ تیار کٔرِو۔** شیئر کرنہٕ خٲطرٕ اکھ یا زٕ چیزہٕ چھےٚ واریاہ (بۄن کَنہِ فہرست وُچھِو)۔
+- **کینٛہہ موضوع سوچِتھ تھٲوِو۔** تَس شخصہٕ نِش ہیکہِ نٔو خبر آسُنہٕ، لہٰذا پنٕنۍ خبرٕ اَنِو: خاندٲنۍ حالات، موسم، کانٛہہ میچ، یا مزٕ دار کہٲنی۔
+- **پننِی توقعات تھٲوِو ہلکی۔** کینژھہ مُلاقاتہٕ آسَن گرم تہٕ گُفتگو وال، تہٕ کینژھہ خاموش یا مشکل۔ دۄشوے چھےٚ عام۔
 
-## What should I bring?
+## مےٚ کیا نِنُن چاہِ؟
 
-Bring things to share, not things that test. Good choices include:
+شیئر کرنہٕ خٲطرٕ چیزہٕ اَنِو، نَہ زِ امتحان گژھن وٲلؠ چیزہٕ۔ چنگی انتخاب چھِ:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **لۄکُٹ فوٹو اَلبم** بڈن، صاف فوٹوَن سٍتۍ۔ عملہٕ خٲطرٕ کٔرِو پتِم کُن لیبل۔
+- **پسندیدَن گیتَن ہُنٛد پلے لِسٹ** فونَس مَنٛز، سادہ ہیڈفون یا لۄکِٹ سپیکر سٍتۍ۔
+- **کینٛہہ نرم تھَفنہٕ خٲطرٕ،** مِثالَن مانوس کمَل، سکارف یا سویٹر۔
+- **اَتھن خٲطرٕ لوشن** نرمی سان اَتھ دباؤنہٕ خٲطرٕ، اگر تَس شخصہٕ یہِ پسند آسہِ۔
+- **پرٲنِ دلچسپی ہُنٛد میگزین یا تصویری کِتاب،** مِثالَن باغبٲنی، گاڑِ، جانوَر یا کھٮ۪ن پکن۔
+- **پسندیدٕ خٮ۪ن،** اگر عملہٕ وَنن زِ یہِ چھُ محفوظ۔
+- **کمرہٕ خٲطرٕ مانوس چیزہٕ۔** Family Caregiver Alliance چھُ پھول، پودٕ، خاندٲنی فوٹو تہٕ آرٹ، یا پرٲنِ خاندٲنی فوٹوَن ہُنٛد بۄڈ پوسٹر تجویز کران۔
+- **ٹیبلیٹ،** خاندٲنی فوٹو وچھنہٕ خٲطرٕ یا مِلِتھ اکھ آرام دِنہٕ وول گیم کھیلنہٕ خٲطرٕ۔
 
-## What can we do together during a visit?
+## مُلاقات دوران أس کیا ہیکو مِلِتھ کٔرِتھ؟
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+مِلِتھ کینٛہہ کرُن چھُ گُفتگو ہُنٛد دَباؤ کم کران۔ Dementia Australia چھُ تجویز کران زِ فوٹو وُچھنؠ، سۄہل ہُنر کام، پودٕ لاگُن، موسیقی، مِلِتھ خٮ۪ن، یا احاطس مَنٛز لۄکچار سیر۔ کینٛہہ بییہِ خیال:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **فوٹو وُچھِو۔** یُس کینٛہہ تۄہہ وُچھان چھِو، تَتھ مُتعلِق وَنِو: «یَتھ ٹوپی کِژاہ شاندار چھےٚ۔» «یہِ ساحل چھُ واریاہ خۄبصورت باسان۔» تَس شخصہٕ سُنٛد راہنمٲیی کرن دِیِو۔ «یہِ کُس چھُ؟» مَہ پرٛژِھو۔
+2. **موسیقی بُزِو تہٕ گِیِو۔** مانوس گیت ہیکَن مِزاج بہتر بناوِتھ تہٕ اکھ مشترکہ لمحہٕ دِتھ، ییلہِ بوزُن مشکل آسہِ۔
+3. **لۄکچار سیر کٔرِو۔** Family Caregiver Alliance چھُ سہولتس مَنٛز، خاص کر باغس مَنٛز اگر آسہِ، سیر کرنٕچ تجویز کران۔ ویل چیئر پیٚٹھ سیر تہِ چھےٚ ٹھیک۔
+4. **اَتھن ہُنٛد ہلکہٕ مساج کٔرِو۔** تھوٚڑ لوشن تہٕ آہستہٕ آہستہٕ اَتھن پیٚٹھ ہَتھ پھیرُن ہیکہِ سکون دِوان آسُن۔
+5. **سجاونَس مَنٛز کٔرِو مدد۔** Dementia Australia چھُ وَنان زِ مَستۍ وٲرُن، نَخَن رنگ کرُن یا پسندیدٕ پوشاک لاگنس مَنٛز مدد کرٕنۍ، اگر تَس شخصہٕ یہِ پسند آسہِ۔
+6. **اکھ سادٕ گیم کھیٚلِو۔** Family Caregiver Alliance چھُ تاش، ڈومینو، یا سُہ گیم تجویز کران یُس سُہ شخص برونٹھ کھیلان اوس۔ ٹیبلیٹَس پیٚٹھ ہیکِو [Picture Pairs](/games/picture-pairs/) تِتھے کھیٚلِتھ یَتھ مَنٛز تصویرٕ روزَن نَنہِ تہٕ کانٛہہ ٹائمر آسہِ نہٕ۔ [Photo Pairs](/games/photo-pairs/) چھےٚ تُہندِ چُنی مٕژ فوٹو اَکہِ میچ گیمس مَنٛز بدلٲوان، تہٕ فوٹو چھےٚ تُہندِس براؤزرَس مَنٛز روزان۔
+7. **مِلِتھ کینٛہہ وُچھِو۔** Family Caregiver Alliance چھُ مزٲحیہ پروگرام تہٕ پرٲنۍ فلمہٕ تجویز کران۔ اگرچہِ سُہ شخص کہٲنی ہیکہِ نہٕ سمجِھتھ، تۄہہ ہیکِو نزدیک بِہِتھ سُہ وقت شیئر کٔرِتھ۔
+8. **بُلند آوازِ پٔرِو۔** اکھ لۄکچ نظم، کانٛہہ پسندیدٕ اقتباس، یا خاندانہٕ کِنہِ رُکن ہُنٛد خط۔
+9. **بس مِلِتھ بِہِو۔** اَتھ تھَفُن یا خاموشی سان بِہُن تہِ چھےٚ اصلی ملاقات۔ Alzheimer's Association چھُ وَنان زِ اگر تۄہہ زانِو نہٕ کیا وَنُن تیٚلہِ تہِ چھُ ٹھیک، تہٕ تُہنز موجودگی چھےٚ سارو کھۄتہٕ اہم۔
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+ییلہِ وَننہٕ خٲطرٕ کینٛہہ آسہِ نہٕ، تیٚلہِ ہیکَن [Conversation Cards](/games/conversation-cards/) مدد کٔرِتھ۔ پرٛتھ کارڈَس پیٚٹھ چھےٚ اکھ تصویر تہٕ اکھ کُھلہٕ سوال۔
 
-## How should I talk during the visit?
+## مُلاقات دوران بٕ کِتھ کٔنۍ کرٕ گُفتگو؟
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **پرٛتھ لٹہِ کٔرِو پنُن تعارُف۔** «ہی بابا، بٕ چھُس مارک، چون نِچُو۔» NIA چھُ مشورٕ دِوان زِ مُلاقات کرن وٲلؠ کٔرِن گُفتگو شروع کرنہٕ برونٹھ مُختصر تعارُف۔
+- **برونٹھ کُن آوِو** تہٕ نظرِ برابر بِہِو۔
+- **ٹھیک مَہ کٔرِو تہٕ بحث مَہ کٔرِو۔** NIA چھُ مشورٕ دِوان زِ اگر تَس شخصہٕ کانٛہہ غلطی گژھِ یا کینٛہہ رٲوِش، تیٚلہِ مَہ کٔرِو تِم ٹھیک۔
+- **صبر کٔرِو** ییلہِ لَفظ لبنہٕ مَنٛز وَقت لَگہِ۔ واریاہ وَقت دِیِو۔
+- **احساساتن ہُنٛد جواب دِیِو۔** اگر سُہ شخص اُداس یا پریشان باسیٚو، تیٚلہِ موضوع بدلاؤنہٕ برونٹھ کٔرِو تِہندِ احساسٕچ تسلیم۔
+- **امتحٲنی سوال مَہ پرٛژِھو** مِثالَن «تۄہہ چھا مےٚ پرزناوان؟» یا «تۄہہ کیا کوٚرو دوپہرس کھیٚن؟»
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+مزید خٲطرٕ وُچھِو سٲنۍ [گُفتگو ہٕند مشورٕ](/caregiving/communication-tips/)۔
 
-## What do I do when they say "I want to go home"?
+## ییلہِ تِم وَنن «مےٚ چھےٚ گَرس گژُھن»، تیٚلہِ کیا کرُن؟
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+لفظن پَتہٕ کَنہِ موجود احساسُک جواب دِیِو (سٲنۍ رہنمٲیی [ییلہِ کانٛہہ بار بار گَرس گژھنُک وَنہِ](/caregiving/asking-to-go-home/) چھےٚ یَتھ مُتعلِق مزید وَنان)۔ Family Caregiver Alliance چھُ واضح کران زِ «مےٚ چھےٚ گَرس گژُھن» چھُ اکثر یہِ وَننُک طریقہٕ زِ «مےٚ چھُنہٕ آرام محسوس گژھان», تہٕ «مےٚ وَنِو پننِس گَرَس مُتعلِق» یا «گَرس مَنٛز کیا چھُ تُہندِ خٲطرٕ سارو کھۄتہٕ پسند؟» ہِوِ جواب تجویز کران چھُ۔ Dementia Australia چھُ مزید وَنان زِ «گَر» ہیکہِ سُہ وقت یا جای آسُن یَتہِ تَس شخصہٕ پانےٚ پانس حِفاظت محسوس ٲس کران، مِثالَن بچپن۔
 
-Try:
+تۄہہ ہیکِو:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- احساس تسلیم کٔرِتھ: «باسان چھُ تۄہہ چھُو گَرٕچ یاد یِوان۔»
+- اگر پسند آسہِ تیٚلہِ نرمی سان اَتھ تھَفِتھ تسلی دِن۔
+- فوٹو وُچھِتھ یا خاندٲنی گَرَس مُتعلِق بات کٔرِتھ۔
+- سیر، چیٚن یا کینٛہہ کھیٚنُک پیش کٔرِتھ۔
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+بحث مَہ کٔرِو یا یہِ سمجھاونٕچ کوشش مَہ کٔرِو زِ تِم کیازِ ہیکَن نہٕ گٔژِھتھ۔ یہِ چھُ کم مدد کران تہٕ اکثر پریشٲنی ہُرراوان۔
 
-## How long should a visit be?
+## مُلاقات کٲژاہ کال آسٕنۍ چاہِ؟
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+لۄکچار تہٕ باقاعدٕ مُلاقاتہٕ چھےٚ اکثر بہتر گژھان۔ Family Caregiver Alliance چھُ وَنان زِ تَس شخصہٕ چھُنہٕ عام طور یاد روزان زِ تۄہہ پانژھ منٹ روٗدِو یا پانژھ گھنٹہٕ، تہٕ مشورٕ چھُ دِوان زِ ہَفتس مَنٛز ترٛے لۄکچار مُلاقاتہٕ ہیکَن اَکہِ زیچھ مُلاقاتہٕ کھۄتہٕ بہتر آسُن۔ Dementia Australia چھُ وَنان زِ مُلاقاتن ہُنٛد کانٛہہ صحیح تعداد یا صحیح مُدّت چھُنہٕ۔
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+میموری کیئرس مَنٛز منتقل گژھنہٕ پتہٕ گۄڈنِکن ہَفتن مَنٛز چھُ Family Caregiver Alliance مشورٕ دِوان زِ واریاہ لٹہِ کٔرِو ملاقات، پتہٕ آہستہٕ آہستہٕ بناوِو اکھ باقاعدٕ ترتیب۔ عملہٕ نِش پرٛژِھو زِ تِم کیا وُچھان چھِ۔
 
-## How do I leave without upsetting them?
+## بٕ کِتھ کٔنۍ گژھٕ واپس پریشان کٔرِتھ وَرائے؟
 
-Leaving can be the hardest part. Dementia Australia suggests:
+واپسی گژُھن ہیکہِ سارو کھۄتہٕ مشکل حِصہٕ آسُن۔ Dementia Australia چھُ مشورٕ دِوان:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **یِوان یِوان وَنِو زِ تۄہہ کٲژاہ کال ہیکِو روزِتھ۔** «بٕ ہیکہٕ اکھ گھنٹہٕ روزِتھ، پتہٕ چھُ مےٚ خریدارِ گژُھن۔»
+- **کُنہِ سرگرمی ہُنٛد اختتام بناوِو قدرتی انجام۔** «ییلہِ یہِ گیت مُکلیو، تیٚلہِ گژھٕ بٕ۔»
+- **رخصت کرِو کھیٚن یا کُنہِ سرگرمی ہُنٛد وقت مِلناوِتھ،** یا عملہٕ نِش مَنگِو مدد تاکہ سُہ شخص کُنہِ بدل سرگرمی کُن مشغول گژھِ۔
+- **رخصتی تھٲوِو مُختصر تہٕ پرٛتھ لٹہِ اَکی وَے۔** رۄپِتھ روزُن، معٲفی مَنگُن یا «بس تھوٚڑ مزید» روزُن ہیکہِ بۄنہٕ کنہِ رخصتی مزید مشکل بناوِتھ۔
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+واپس گژھنہٕ پتہٕ چھُ اُداس محسوس کرُن عام۔ پانس دِیِو آرام۔ اگر سُہ شخص پریشان گوٚو، تیٚلہِ ہیکہِ عملہٕ جلدی تِم آرام دِتھ۔
 
-## Visiting someone with dementia in the hospital
+## ہسپتالس مَنٛز ڈیمینشیا سٍتۍ روزن وٲلِس سٍتۍ ملاقات
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+ہسپتال چھُ شور دار، نٔو تہٕ اجنبی لُکن سٍتۍ برِتھ، یُس ڈیمینشیا سٍتۍ روزن وٲلِس شخصہٕ سُنٛد واریاہ مشکل ہیکہِ آسُن۔ NIA ہُنٛد رہنمٲیی [ڈیمینشیا سٍتۍ روزن وٲلِس شخصہٕ سٕند ہسپتالس نِنُن](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) چھُ یِم مشورٕ دِوان:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **یوتاہ ممکن آسہِ، تَس شخصہٕ سٍتۍ روزن دِیِو کٲنٛسہِ**: خاندانہٕ کُن کانٛہہ رُکن، کانٛہہ بھروسہٕ مند دوست یا کانٛہہ مقرر کرنہٕ آمُت دیکھ بھال کرن وول۔
+- **عملس دِیِو ذٲتی معلوماتُک اکھ پرچہ** یَتھ مَنٛز تِہنز معمولی روٹین، پسندیدٕ ناو، پسند تہٕ ناپسند، ممکنہٕ پریشٲنی ہٕند سبب، تہٕ دٔدِچ غیر لفظی علامتہٕ درج آسَن۔ یِمَن پرچَن ہٕنز کاپی تھٲوِو کمرس مَنٛز تہٕ نرس اسٹیشنَس پیٚٹھ۔
+- **کھیٚنس تہٕ چیٚنس مَنٛز کٔرِو مدد۔** ہسپتالس مَنٛز ہیکَن زِیٹھ لُکھ کم خوراک حٲصل کٔرِتھ۔ ڈبہٕ کھولِو، کھیٚنس مَنٛز کٔرِو مدد، مِلِتھ کھیٚیِو، تہٕ چیٚن پیش کٔرِو۔
+- **تسلی دِنہٕ واجِنؠ چیزہٕ اَنِو** مِثالَن فوٹو یا روحٲنی چیزہٕ۔
+- **شور کم کٔرِو۔** ٹی وی بند کٔرِو تہٕ فون تہٕ انٹرکام ہُنٛد آواز کم کٔرِو۔
+- **آرام دِنہٕ وٲلؠ عادتہٕ آزمٲوِو،** مِثالَن پرسکون موسیقی، پَرُن، دعا، گِیُن یا پرٲنۍ فوٹو وُچھنؠ۔
+- **عملہٕ ہٕنز اجازت ہیتھ کٔرِو ہلُن جُلُنٕچ حوصلہٕ افزٲیی** یوتاہ محفوظ آسہِ۔
+- **اگر سُہ شخص اچانک زیادہ بیمار یا بدلاونہٕ آمُت باسیٚو، تیٚلہِ کٔرِو فوراً ڈاکٹرس اطلاع۔** NIA چھُ واضح کران زِ اچانک سخت الجھن، یَس ڈیلیریم وَنان چھِ، ہیکہِ انفیکشن، بخار، پانی ہُنٛد کمی یا دواین ہٕند مضر اثرن ہِوِن مسئلن کِنہِ گٔژِھتھ، تہٕ اَتھ چھےٚ فوری طبی توجہٕچ ضرورت۔
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+ہسپتالس مَنٛز اکھ لۄکچار، پرسکون مُلاقات، یَتھ مَنٛز اکھ مانوس بُتھ تہٕ کانٛہہ پسندیدٕ گیت آسہِ، ہیکہِ دۄہک سارو کھۄتہٕ تسلی دِنہٕ وول حِصہٕ آسُن۔
 
-## Bringing children on a visit
+## مُلاقاتس پیٚٹھ بچے نِنہٕ
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+بچے ہیکَن واریاہ گرم جوشی اَنِتھ۔ تِمن کٔرِو برونٹھ سادٕ، صاف لفظن مَنٛز تیار، مُلاقات تھٲوِو لۄکچار، تہٕ تِمن دِیِو کانٛہہ کم، مِثالَن پنُن ڈرائنگ ہاون یا کانٛہہ فوٹو دِن۔ NIA چھُ وَنان زِ بچے تہٕ الزائمَر سٍتۍ روزن وٲلؠ لُکھ ہیکَن سادَن سرگرمین مَنٛز مِلِتھ خۄشی محسوس کٔرِتھ، مِثالَن فوٹو اَلبم وُچھُن یا موسیقی بوزُن۔ Dementia Australia چھُ مشورٕ دِوان زِ لۄکٹی بچن خٲطرٕ اکھ لۄکُٹ بیگ تیار کٔرِو یَتھ مَنٛز تھوٚڑ میٹھ یا خاموش چیزہٕ آسَن۔
 
-## Take care of yourself too
+## پنُن خیال تہِ تھٲوِو
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+ملاقات کرٕنۍ ہیکہِ تھکاون وول تہٕ جذباتی آسُن، خاص کر اگر سُہ شخص واریاہ بدلاومُت آسہِ۔ اگر ضرورت آسہِ تیٚلہِ چھُ کم مُلاقات کرٕنۍ، مدد خٲطرٕ کانٛہہ دوست سٍتۍ نِنُن، یا مشکل دۄہس مَنٛز جلدی واپس گژُھن بالکل ٹھیک۔ پنُن خیال تھاونہٕ مُتعلِق مزید خیالَن خٲطرٕ وُچھِو [دیکھ بھال کرن وٲلِس سُنٛد پنُن خیال](/caregiving/caregiver-self-care/)۔ اگر تۄہہ دوٗر روزان چھِو، تیٚلہِ وُچھِو سٲنۍ رہنمٲیی [فون تہٕ ویڈیو کالہٕ](/activities/phone-and-video-calls/) مُتعلِق۔

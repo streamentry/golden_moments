@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "نیند تہٕ دِماغی صحت: تحقیق کیاہ چھُ ونان"
+seoTitle: "نیند تہٕ ڈیمنشیا: تحقیق کیاہ چھُ ونان"
+description: "نیند تہٕ ڈیمنشیا خَطرٕ مُتعلِق تحقیق کیاہ چھُ ونان، دِماغ صاف کرن واجِن تحقیق کیازِ چھُ اَز تہِ شُروٗعاتی، تہٕ بُڈَن تہٕ تیمَن ہُنٛد خٲطرٕ یِمَن تُہؠ خیال تھٲوِو مفید نیند عادَتہٕ۔"
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  کینٛہہ زیچھَر پیٹھٕ جٲری تحقیقَن مَنٛز چھُ درمیٲنی عُمرس مَنٛز کَم نیند ہُنٛد رٲبطہٕ ڈیمنشیا ہُنٛد خَطرٕ بۄڈنَس سٟتؠ، تہٕ لیب تحقیق چھُ اِشارٕ دِوان زِ نیند ہیکہِ دِماغس فضلہٕ کڈنَس مَنٛز مَدَتھ کٔرِتھ۔ یِہ ثبوت چھُ وُنِ شُروٗعاتی، تہٕ 2024 ہُک Lancet Commission ہَن کوٚر نہٕ نیندس تبدیل ہیٚکن وٲلؠ خَطرٕ عَوامِلَن مَنٛز شٲمِل۔ مَعمولی نیند عادَتہٕ چھےٚ دۄہَس دۄہَس بہتر مَحسوٗس کرنَس مَنٛز مَدَتھ کران۔ ڈیمنشیا سٟتؠ زندٕگی گزاران وٲلؠن لُکن مَنٛز چھِ نیندِک پریشٲنی عام، تہٕ یِم چھِ ڈاکٹرس سٟتؠ وننَس لایِق۔
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "اَکھ برطانوی تحقیق، یَتھ مَنٛز تَقارِبن 8,000 لُکھ 25 ؤرِیَن تام وُچھنہٕ آے، چھُ درمیٲنی عُمرس مَنٛز شَے گَنٹن یا اَمہِ کھۄتہٕ کَم نیند ہُنٛد رٲبطہٕ ڈیمنشیا ہُنٛد زیادٕ خَطرٕ سٟتؠ جوٚڈمُت۔"
+  - "نیندِک تبدیلی ہیکہِ ڈیمنشیا ہٕنٛز اَکھ شُروٗعاتی نِشٲنی تہِ ٲسِتھ، تَمِی مۄکھہٕ چھُ وَج تہٕ اَثَر مَنٛز فَرَق کَرُن مُشکِل۔"
+  - "نیند سٟتؠ دِماغہٕ منٛز بیٹا امیلوئڈ کڈنٕچ تحقیق چھےٚ اصلی مگر شُروٗعاتی، یِمن مَنٛز چھُ واریاہ حِصہٕ چوٗنٹن پیٹھٕ۔"
+  - "نیند مَنٛز ساہ رُکن (sleep apnea) چھُ عام، عِلاج ہیٚکن واجِن تہٕ تحقیقَن مَنٛز ڈیمنشیا سٟتؠ جوٚڈمُت؛ زورٕ ہُنٛد خَرٲٹھ تہٕ دۄہس نیند یِنؠ چھِ جٲچ کرنس لایِق۔"
+  - "ڈاکٹرس سٟتؠ کتھ کٔرِتھ وَرائے مہٕ کٔرِو کُنہِ تہِ نیندِک دَوا یا نیندِچ مَدَتھ شُروٗ، بَند یا تبدیل۔"
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "کیاہ خراب نیند چھا الزائمر بنٲوِتھ؟"
+    a: "یِہ چھُنہٕ وُنِ ثابت سپُدمُت۔ کینٛہہ تحقیقَن مَنٛز چھُ کَم نیند ہُنٛد رٲبطہٕ ڈیمنشیا ہُنٛد زیادٕ خَطرٕ سٟتؠ، مگر ڈیمنشیا پانہٕ تہِ چھُ نیندس خرٲب کران، اَکسَر تَشخیصہٕ برونٛہہ واریاہَن ؤرِیَن۔ 2024 ہُک Lancet Commission چھُ ثبوت اَتھ قدر غیر مُتَسِل سَمٕژمُت زِ نیندس تبدیل ہیٚکن واجِن خَطرٕ عَوامِلَن مَنٛز شٲمِل کٔرِتھ ہیکہِ نہٕ۔"
+  - q: "بُڈَن کٲژاہ نیند چھےٚ ضروٗرَت؟"
+    a: "National Institute on Aging چھُ ونان زِ بُڈَن چھےٚ تِتھٕے نیندِچ ضروٗرَت یِژھ باقی بٲلِغَن، یعنی راتَس 7 پؠٹھ 9 گَنٹہٕ۔ واریاہ بُڈؠ لُکھ چھِ برونٛہہ کھۄتہٕ جلدی نِندرِ تہٕ جلدی وُتھان، تہٕ یِہ چھُ عام۔"
+  - q: "ڈیمنشیا سٟتؠ زندٕگی گزاران وول شخص کیازِ چھُ دۄہس شۄنگِتھ تہٕ راتس وُتھان؟"
+    a: "ڈیمنشیا ہیکہِ جِسمٲنی گھڑی پیٹھٕ اَثَر کٔرِتھ، ییٚمہِ سٟتؠ نیند تہٕ بیدٲری ہُنٛد وَقت چھُ رَلِتھ گَژھان۔ دَرَد، بوریت، بۄچھ یا دَوا ہُنٛد اَثَر تہِ ہیکہِ اَتھ مَنٛز حِصہٕ نِتھ۔ دۄہَک گاش، دۄہَچ حرکت تہٕ راتس اَکھ پُرسَکوٗن عادت ہیکہِ مَدَتھ کٔرِتھ۔ ڈاکٹَر ہیکہِ تِمَن وَجَن ہُنٛد جٲیزٕ ہؠتھ یِمن ہُنٛد عِلاج ہیٚکہِ۔"
+  - q: "کیاہ مےٚ پَزِ تَس شخصس نیندِچ دَوا دِنؠ یَس بٕہ خیال تھٲواں؟"
+    a: "گۄڈٕ کٔرِو تِہِنٛدِس ڈاکٹرس سٟتؠ کتھ، دوکاندار دَوا ہُنٛد تہِ شٲمِل کٔرِتھ۔ National Institute on Aging چھُ ونان زِ کینٛہہ نیندِچ دَوا ہیکہِ الزائمر سٟتؠ زندٕگی گزاران وٲلؠن لُکن مَنٛز چَکَر یِنُک، گِرنُک تہٕ اُلجھن ہُنٛد خَطرٕ بڈٲوِتھ۔"
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+نیند تہٕ دِماغی صحت ہُنٛد رٲبطہٕ چھُ صاف، مگر یِہ رٲبطہٕ کِتھ کٔنۍ چھُ، یِہ چھُ وُنِ تہِ سمجھنہٕ یِوان۔ کینٛہہ تحقیقَن مَنٛز چھُ کَم نیند ہُنٛد رٲبطہٕ ڈیمنشیا ہُنٛد زیادٕ خَطرٕ سٟتؠ۔ دوٚیِم طرفہٕ چھُ ڈیمنشیا اَکسَر نیندس خرٲب کران۔ یِہ صَفہٕ چھُ ونان زِ تحقیق کیاہ چھُ ہاوان تہٕ کیاہ چھُنہٕ ہاوان، مفید نیند عادَتہٕ چھُ دِوان، تہٕ ڈیمنشیا مَنٛز عام نیند پریشٲنِین ہُنٛد ذِکر چھُ کران۔ یِہ صَفہٕ چھُنہٕ نیندِچ دَوا مُتعلِق کٲنٛسہِ مَشوَرٕ دِوان؛ تِژھ کتھ چھےٚ ڈاکٹرس سٟتؠ کرٕنۍ۔
 
-## Is poor sleep linked with dementia?
+## کیاہ خراب نیند چھا ڈیمنشیا سٟتؠ جوٚڈمِژ؟
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+کینٛہہ زیچھَر پیٹھٕ جٲری تحقیقَن مَنٛز چھُ کَم نیند ہُنٛد رٲبطہٕ ڈیمنشیا ہُنٛد زیادٕ خَطرٕ سٟتؠ، مگر ثبوت چھُنہٕ وُنِ پٔزِ پٲٹھؠ طے۔
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **25 ؤرِیَن ہٕنٛز برطانوی تحقیق۔** مَحققَن کوٚر [Whitehall II تحقیق](https://www.nature.com/articles/s41467-021-22354-2) مَنٛز تَقارِبن 8,000 بٲلِغَن پیٹھٕ نَظَر۔ یِم لُکھ 50 یا 60 ؤرِیَن مَنٛز شَے گَنٹن یا اَمہِ کھۄتہٕ کَم شۄنگان ٲسؠ، تِہُنٛد برونٛہہ پؠٹھٕ ڈیمنشیا ہُنٛد خَطرٕ اوس تِمن کھۄتہٕ زیادٕ یِم سَتھ گَنٹہٕ شۄنگان ٲسؠ۔ یِم لُکھ 50، 60 تہٕ 70 ؤرِیَن مَنٛز شَے گَنٹن یا اَمہِ کھۄتہٕ کَم شۄنگان ٲسؠ، تِہُنٛد خَطرٕ اوس تَقارِبن 30٪ زیادٕ تِمن مُقابلہٕ یِم مَعمولی طور سَتھ گَنٹہٕ شۄنگان ٲسؠ۔ یِہ ٲس اَکھ مُشٲہدٕچ تحقیق، تَمِی مۄکھہٕ چھِ یِہ رٲبطہٕ ہاوان، وَج نہٕ۔
+- **Lancet Commission ہُنٛد نَظریہٕ۔** [2024 ہُک Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ہَن کوٚر نہٕ نیندس پَننِس 14 تبدیل ہیٚکن وٲلؠ خَطرٕ عَوامِلَن ہٕنٛز فہرستس مَنٛز شٲمِل۔ تِمن اوس ثبوت واریاہ مُتَسِل نہٕ باسان۔ اَکھ وَج چھُ «اُلٹہٕ وَج» (reverse causation): ڈیمنشیا ہٕنٛز دِماغی تبدیلی چھِ تَشخیصہٕ برونٛہہ واریاہَن ؤرِیَن شُروٗ گَژھان تہٕ نیندس ہیکہِ خرٲب کٔرِتھ۔ اَکِس بٔڈِس تحقیقس مَنٛز آو زیٛوٹھ نیند تہٕ ڈیمنشیا درمیان رٲبطہٕ گایِب، یوتاہ کالہٕ پیروی ہُنٛد گۄڈنِک پٲنژھ ؤری اَلَگ تھاونہٕ آے۔
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+تَمِی مۄکھہٕ چھُنہٕ کُنہِ اَکہِ راتہٕ کَم نیند فکرِچ وَج۔ مَعمولی، بہتر معیارٕچ نیند چھےٚ کوشش کرنَس لایِق، تِکیازِ یِہ چھےٚ اَز مِزاجس، ہوشیٲری تہٕ حِفاظَتس مَنٛز مَدَتھ کران۔
 
-## What is the "brain-clearing" sleep research?
+## «دِماغ صاف کرن واجِن» نیند تحقیق کیاہ چھُ؟
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+تۄہیہِ ما ٲسِو پورمُت زِ نیند چھُ دِماغس «صاف» کران۔ یِہ خَیال چھُ اصلی تحقیقہِ پؠٹھٕ بُنیاد تھٲوِتھ، مگر یِہ چھُ وُنِ شُروٗعاتی۔
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **چوٗنٹن مَنٛز۔** 2013 ہٕچ اَکھ تحقیق، یَتھ [NIH ہَن وَننہٕ چھُ آمُت](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep)، مَنٛز آو لبنہٕ زِ ییلہِ چوٗنٹہٕ شۄنگان ٲسؠ، دِماغی خلیَن درمیان جاے گٔیہِ تَقارِبن 60٪ بٔڈ۔ رَطوبَت گٔیہِ دِماغہٕ منٛز آسٲنی سان بہَن، یَتھ محقق glymphatic نظام چھِ ونان۔ بیٹا امیلوئڈ، اَکھ پروٹین یُس الزائمر سٟتؠ جوٚڈمُت چھُ، آو شۄنگن وٲلؠن چوٗنٹن ہٕنٛدِس دِماغہٕ نِش جلدی کڈنہٕ۔
+- **لُکن مَنٛز۔** اَکہِ لۄکچہِ [2018 ہٕچ تحقیق](https://www.pnas.org/doi/10.1073/pnas.1721694115) مَنٛز آے 20 صِحَتمَنٛد بٲلِغ (عُمر 22 پؠٹھ 72) اَکہِ مَعمولی راتہٕ پتہٕ تہٕ اَکہِ بِنا نیند راتہٕ پتہٕ سِکین کَرنہٕ۔ بِنا نیند راتہٕ پتہٕ وۄچھ بیٹا امیلوئڈُک اَکھ دِماغی سِکین اِشارٕ تَقارِبن 5٪ بۄڈمُت، یَتھ مَنٛز ہِپوکیمپس تہِ اوس، یُس حِصہٕ یادداشت خٲطرٕ اَہَم چھُ۔ لؠکھَن وٲلؠن ووٚن یِہ شُروٗعاتی ثبوت۔ تِمن اوس نہٕ معلوم زِ یِہ تبدیلی آرام پتہٕ چھا گٲلِتھ گَژھان، یا یِہ چھا آہِستہٕ صاف گَژھن ہُنٛد نَتیجہٕ یا زیادٕ امیلوئڈ بَننُک۔
+- **یِہ چھُ دۄن طرفَن۔** Lancet Commission چھُ ونان زِ بُڈَن مَنٛز امیلوئڈ جمع گَژھُن ہیکہِ پانہٕ تہِ نیندس خرٲب کٔرِتھ۔
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+یِم نَتیجہٕ چھِ سمجھنَس مَنٛز مَدَتھ کران زِ محقق کیازِ چھِ نیندس مَنٛز دِلچَسپی تھٲوان۔ یِم چھِنہٕ ہاوان زِ بہتر نیند چھُ الزائمرس رُکاوان۔
 
-## What sleep habits may help?
+## کَمہِ نیند عادَتہٕ ہیکہِ مَدَتھ کٔرِتھ؟
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) مُطٲبِق چھےٚ بُڈَن راتَس تَقارِبن 7 پؠٹھ 9 گَنٹہٕ نیندِچ ضروٗرَت، یِژھ باقی بٲلِغَن۔ تِہٕنٛز مَشوَرٕ چھِ:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **اَکھ مَعمولی وَقت تھٲوِو۔** پرٛتھ دۄہ گٔژھِو اَکِس وَقتس پیٹھٕ نِندرِ تہٕ اَکِس وَقتس وُٹھِو، چھُٹی دۄہَن تہِ۔
+- **راتس برونٛہہ آرام کرنٕچ عادت بَنٲوِو۔** نِندرِ برونٛہہ پٔرِو، پُرسَکوٗن موسیقی بوزِو یا گَرم آبس مَنٛز نہٲوِو۔
+- **نِندرِ ہُنٛد کمرٕ تھٲوِو آرام دہ،** نہٕ واریاہ گَرم تہٕ نہٕ واریاہ ٹھنڈ۔
+- **دۄہس ٲخری حِصَس مَنٛز کیفین کَم کٔرِو۔** کافی، چائے، سوڈا تہٕ چاکلیٹ ہیکہِ تُہُنٛد وُٹھنَس مَنٛز رُکاوَٹ بَنِتھ۔
+- **شراب نِش روزِو،** NIA ہُنٛد مَشوَرٕ چھُ زِ کَم مقدار تہِ۔
+- **نِندرِ برونٛہہ دۄیِم یا ترٛیِم گَنٹن اندر بٔڈ کھؠن مَہ کھیٚیِو،** تہٕ دۄہس ٲخری حِصَس مَنٛز واریاہ چیٚن تہِ۔
+- **مَعمولی طور پیٹھٕ وَرزِش کٔرِو، مگر نِندرِ برونٛہہ 3 گَنٹن اندر نہٕ۔** سٲنۍ [وَرزِش ہٕنٛز رہنمٲئی](/brain-health/exercise/) وُچھِو۔
+- **سِکرین تھٲوِو نِندرِ ہٕنٛدِس کمرس نِش نیبر۔** NIA چھُ مَشوَرٕ دِوان زِ تَتِ مہٕ وُچھِو ٹی وی تہٕ مہٕ کٔرِو کمپیوٹر، فون یا ٹیبلیٹ اِستِعمال۔
+- **اگر ہیٚکہِ تیٚلہِ مَہ شۄنگِو دۄہس ٲخری حِصَس یا شامَس**۔
 
-## Sleep problems in dementia
+## ڈیمنشیا مَنٛز نیندِک پریشٲنی
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+ڈیمنشیا مَنٛز چھِ نیندِک تبدیلی عام۔ [NIA چھُ ونان](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) زِ واریاہ یا واریاہ کَم شۄنگُن، راتس واریاہ لٹہِ وُٹھُن، تہٕ دۄہس واریاہ نِندرِ یِنؠ۔ یِہ چھُ سنڈاؤننگ (sundowning) ہُنٛد تہِ ذِکر کران: بیچینی، بے قرٲری یا اُلجھن یۄسہٕ دۄہ گاش کم گَژھنَس سٟتؠ شُروٗ گَژھان یا بڈان چھےٚ۔
 
-Caregiver tips from the NIA include:
+NIA ہٕنٛز کینٛہہ مَشوَرٕ تِمَن لُکن خٲطرٕ یِمَن تُہؠ خیال تھٲوِو چھِ:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **صبحَس نِیِو گاش تہٕ حرکت۔** دۄہس گٔژھِو نیبر یا وِنڈو نکھہٕ بِہِو، تہٕ تَس شخصس کٔرِنٲوِو پرٛتھ دۄہ کینٛہہ حرکت۔ روشن روشنی ہیکہِ جِسمٲنی گھڑی دوبارٕ ٹھیک کرنَس مَنٛز مَدَتھ کٔرِتھ۔
+2. **زیادٕ چالاکی واجِن کٲم تھٲوِو صبحَس خٲطرٕ۔** صبحَس نہٲوُن یا دۄہس مَنٛز بۄڈ کھؠن کھیاوُن ہیکہِ مفید ٲسِتھ۔
+3. **دۄہَچ نِندر تھٲوِو لۄکٕژ تہٕ جلدی۔** دۄہس ٲخری حِصَس مَنٛز اونگھن کَم کٔرِو۔
+4. **شام بنٲوِو پُرسَکوٗن۔** روشنی کَم کٔرِو، شور گھَٹٲوِو تہٕ اگر تَس شخصس پسند چھُ تیٚلہِ پُرسَکوٗن موسیقی چَلٲوِو۔ سٲنۍ [شامَچ بیچینی](/caregiving/late-day-restlessness/) ہٕنٛز رہنمٲئی مَنٛز چھِ بییہِ مَشوَرٕ۔
+5. **راتس نِندرِ برونٛہہ اَکھ مَعمولی عادت تھٲوِو۔** پرٛتھ رات اَکِس وَقتس زورٕ سان پَرُن چھُ NIA ہُنٛد اَکھ مِثال۔ اَکھ [مَعمولی دۄہَچ رۄٹین](/activities/daily-routine/) تہِ چھُ مَدَتھ کران۔
+6. **کیفین تہٕ شراب کَم کٔرِو۔**
+7. **نِندرِ ہٕنٛدِس کمرس، دالانَس تہٕ باتھ رومَس مَنٛز** راتَک روشنی (nightlights) اِستِعمال کٔرِو۔
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+راتس وُٹھنہٕ خٲطرٕ چھِ NIA ہٕنٛز [گَریلوٗ حِفاظتی مَشوَرٕ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) مَنٛز راتَک روشنی یا پانہٕ جَلن واجِن لایِٹ سینسر، باتھ رومَس مَنٛز پکڑنہٕ خٲطرٕ ڈَنڈہٕ، ہیٚرِن ہٕنٛزن کَنن پیٹھٕ روشن رٔنگٕچ ٹیپ، تہٕ دَواہَن قُلف کٔرِتھ تھَونس جايہِ تھٲوِوُن۔
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+شامَس اَکھ لۄکُٹ، پُرسَکوٗن سرگرمی ہیکہِ تۄہیہِ دۄنَوے آرام واتناوَنَس مَنٛز مَدَتھ کٔرِتھ۔ اَکھ آہِستہٕ [Calm Breathing](/games/calm-breathing/) وَقفہٕ آزماوِو یا کینٛہہ آرام دِہ [Conversation Cards](/games/conversation-cards/)。 نِندرِ برونٛہہ نکھہٕ تُلناوَن واجِن کٲم یَچھِو، تہٕ یوتاہ کالہٕ تَس شخصس بس باسیو، تیوٗتاہ کالہٕ رُکِو۔
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+ٹُٹمِژ نیند چھُ تِمن لُکن تہِ تھکاوان یِم خیال تھٲوان۔ سٲنۍ [خیال تھاون وٲلؠن ہٕنٛز پَننِس خیال تھاونٕچ رہنمٲئی](/caregiving/caregiver-self-care/) مَنٛز چھِ آرام تہٕ مَدَتھ حٲصِل کرنٕک طریقہٕ۔
 
-## What about sleep apnea?
+## نیند مَنٛز ساہ رُکن (sleep apnea) ہُنٛد کیاہ؟
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+نیند مَنٛز ساہ رُکن چھُ نیند دوران ساہس مَنٛز لۄکچہِ رُکاوَٹہٕ پٲدٕ کران، اَکسَر راتس واریاہ لٹہِ۔ NIA چھُ ونان زِ اگر اَمِیُک عِلاج نہٕ کَرنہٕ یِیہِ، تیٚلہِ ہیکہِ اَمہِ سٟتؠ ہایِ بْلڈ پریشر، فالج یا یادداشتِک پریشٲنی ہِوؠ مَسئلہٕ پٲدٕ سَپدِتھ۔ نِشٲنیَن مَنٛز چھُ زورٕ ہُنٛد خَرٲٹھ تہٕ دۄہس نیند یِنؠ شٲمِل، تہٕ واریاہَن لُکن چھُنہٕ پتہٕ آسان زِ تِمن چھُ یِہ۔ Lancet Commission چھُ 11 تحقیقَن ہٕنٛدِس اَکِس جٲیزس ہُنٛد ذِکر کران یَتھ مَنٛز نیند مَنٛز ساہ رُکن وٲلؠن لُکن ہُنٛد ڈیمنشیا خَطرٕ اوس تَقارِبن 43٪ زیادٕ۔ مگر تِمو تحقیقو مَنٛز کوٚر کمَو چھُنہٕ وَزنُک خیال، تَمِی مۄکھہٕ چھُ یِہ رٲبطہٕ غیر یقینی۔
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+نیند مَنٛز ساہ رُکن ہیکہِ پَتہٕ لگٲوِتھ تہٕ عِلاج کٔرِتھ۔ NIA چھُ ونان زِ CPAP مَشین چھُ تَقارِبن ہَمیشہٕ مَدَتھ کران۔ اگر تُہؠ یا سُہ شخص یَس تُہؠ خیال تھٲوِو زورٕ خَرٲٹھ کران چھُ، نیندِ مَنٛز ساہ رُکاوان چھُ، یا دۄہس واریاہ نیند یِوان چھےٚ، تیٚلہِ ؤنِو ڈاکٹرس۔
 
-## A note about sleep medicines
+## نیندِچ دَوا ہُنٛد اَکھ نوٹ
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+أسؠ چھِنہٕ نیندِچ دَوا یا سپلیمنٹ مُتعلِق کٲنٛسہِ مَشوَرٕ دِوان۔ NIA چھُ ونان زِ نیندِچ دَوا ہیکہِ کینٛہہ کالَس خٲطرٕ مَدَتھ کٔرِتھ، مگر یِہ چھُنہٕ بے خوٲبی ہُنٛد عِلاج۔ یِہ چھُ یہِ تہِ ونان زِ کینٛہہ دَواہَن، یِمہٕ الزائمر سٟتؠ زندٕگی گزاران وٲلؠن لُکن شۄنگناونہٕ خٲطرٕ دِنہٕ یِوان چھےٚ، ہیکہِ چَکَر یِنُک، گِرنُک تہٕ اُلجھن ہُنٛد خَطرٕ بڈٲوِتھ۔ کُنہِ تہِ نیندِچ دَوا، دوکاندار نیندِچ مَدَتھ شٲمِل کٔرِتھ، ڈاکٹرس یا فارماسسٹَس سٟتؠ کتھ کٔرِتھ وَرائے مہٕ کٔرِو شُروٗ، بَند یا تبدیل۔
 
-## Talk with a doctor
+## ڈاکٹرس سٟتؠ کٔرِو کتھ
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+ڈاکٹرس سٟتؠ مِلِو اگر تُہؠ یا سُہ شخص یَس تُہؠ خیال تھٲوِو ہَمیشہٕ تھَکمِتھ آسان چھُ، اَکثَر راتَن شۄنگنَس مَنٛز دِقَت آسان چھےٚ، زورٕ خَرٲٹھ کران چھُ، یا راتس ساہ رُکاوان چھُ۔ اگر ڈیمنشیا مَنٛز نیندِک پریشٲنی جٲری روزان چھےٚ، تیٚلہِ چھُ [NIA مَشوَرٕ دِوان](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) زِ طبی مَشوَرٕ نِیِو۔ اَکھ جٲچ ہیکہِ تِم وَجہٕ لبٲوِتھ یِم ہیکَن دَرَد، بییہِ کُنہِ نیندِک مَسئلہٕ، کٲنٛسہِ بیماری یا دَوا ہُنٛد اَثَر ٲسِتھ۔ اچانک اُلجھن، یا اُلجھن سٟتؠ نیندِ مَنٛز اچانک تبدیلی، چھےٚ فوری طبی توجُہ مَنگان۔ [کَتِ وُچھُن ڈاکٹرس](/brain-health/warning-signs/) پٔرِو۔
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+یِہ صَفہٕ چھُ عام مولوٗمات، طبی مَشوَرٕ نہٕ۔ سون [طبی اعلان](/medical-disclaimer/) وُچھِو۔

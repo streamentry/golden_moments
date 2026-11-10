@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "دیکھ بھال کرن والن ہُنٛد پانَس ہُنٛد خیال: آرام تہٕ مدد"
+seoTitle: "ڈیمنشیا دیکھ بھال: پانَس ہُنٛد خیال تہٕ آرام"
+description: "دیکھ بھال کرن والن ہُنٛد تھکاوٹچ علامژٕ، آرام تہٕ مدد کِتھ کٔنۍ میلہ، تہٕ مفت US ہیلپ لائنہٕ، مِثالَن Alzheimer's Association 24/7 Helpline تہٕ Eldercare Locator۔"
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  ڈیمنشیا سٟتؠ زندٕگی گزارَن وٲلِس کٲنٛسہِ شخصہٕ سُنٛد خیال تھاون چھُ مشکل، تہٕ پنُن پان خیال تھاون چھُ اَمی کاٚمُک حِصہٕ۔ تھکاوٹ، ژوٗر، خراب نیندر تہٕ دوستن نِش دور گژھن ہِنزَن علامتن پیٹھ نظر تھٲوِو۔ خاص کاٚمن خٲطرٕ مدد مٔنگِو، آرامُک وقت (respite care) نِیِو، تہٕ مددگار گروپس سٟتؠ جُڑِو۔ US منز چھِ مفت مدد دستِیاب، مِثالَن Alzheimer's Association 24/7 Helpline 1-800-272-3900 پیٹھ تہٕ Eldercare Locator 1-800-677-1116 پیٹھ۔
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "تھکاوٹ چھِ اکثر تھَکن، ژوٗر، خراب نیندر، اُداسی تہٕ پنٕنِ صحتچ دیکھ بھال ترٛاوُن ہِیوے ظٲہر گژھان۔"
+  - "آرامُک وقت (respite care) چھُ تُہندِ خٲطرٕ کینٛژھن گھنٹن پیٹھہٕ کینٛژھن ہفتن تام آرامُک موقع دِوان، گرِ منز یا کٲنٛسہِ دیکھ بھال جایِہ منز۔"
+  - "خاص کاٚمن خٲطرٕ صاف طور مدد مٔنگِو؛ واریاہ لۄکھ چھِ مدد کرٕنۍ یژھان مگر تِمن چھُنہٕ پے کِتھ۔"
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) چھِ کُنہِ تہِ وقت مفت تہٕ رازدارانہٕ مدد دِوان۔"
+  - "Eldercare Locator (1-800-677-1116) چھُ تُہؠ مقامی خدمتن سٟتؠ جوٚڑان، یَتھ منز تُہُنٛد مقامی Area Agency on Aging تہِ شٲمِل چھُ۔"
+  - "اگر تُہؠ سخت مشکل محسوس گژھیو، تیٚلہ کٔریو 988 پیٹھ کال یا ٹیکسٹ۔ ہنگامی صورت حالس منز کٔریو 112 کال۔"
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "دیکھ بھال کرن وٲلِس سٕنز تھکاوٹچ کیا چھِ علامژٕ؟"
+    a: "عام علامتن منز چھِ واریاہ تھَکن، دباو یا پریشٲنی محسوس کرٕنۍ، جلدی ناراض یا بے صبر گژُھن، نیندرِچ مشکل، اُداسی یا ناؤمیدی محسوس کرٕنۍ، دوستن نِش الگ گژُھن، واریاہ کیلِہ درد یا تکلیف، تہٕ پنٕنۍ کھؠنہٕ چیٖز، وَرزِش یا ڈاکٹری خیال ترٛاوُن۔ اگر یِم علامژٕ واریاہ وِزِ گژھن، تیٚلہ کٔریو پننِس ڈاکٹرَس سٟتؠ کتھ۔"
+  - q: "بہٕ کِتھ کٔنۍ لٔبۍ مے نکھتل آرامُک وقت (respite care)؟"
+    a: "Eldercare Locator (1-800-677-1116 یا eldercare.acl.gov) پیٹھہٕ کٔریو شروع یُتھ تُہؠ پننِس مقامی Area Agency on Aging تام واتہِو، یا ARCH National Respite Locator Service، یا Alzheimer's Association Helpline 1-800-272-3900 پیٹھ کال کٔریو۔ خاندان، دوست تہٕ رضاکار تہِ ہیٚکن آرامُک وقت فراہم کٔرِتھ۔"
+  - q: "کیا Medicare چھا آرامُک وقتٕچ (respite care) خرچ چُکاوان؟"
+    a: "National Institute on Aging مُطٲبق، یُس شخص hospice دیکھ بھال رٹان چھُ، تٔمِس خٲطرٕ چھُ Medicare ہسپتالس یا ہُنر مند نرسنگ سہولیتس منز لگاتار پانژن دۄہن تام آرامُک وقتٕچ زیادہ تر خرچ چُکاوان۔ زیادہ تر نجی صحت بیمہ چھُنہٕ آرامُک وقتٕچ خرچ چُکاوان؛ Medicaid تہٕ کینٛژھ طویل مدتی دیکھ بھال بیمہ منصوبہ ہیٚکن مدد کٔرِتھ۔"
+  - q: "کیا Alzheimer's Association Helpline واقعی مفت چھا تہٕ راتس تہِ چھا دستیاب؟"
+    a: "آ، چھُ۔ Alzheimer's Association چھُ ونان زِ یِہ ہیلپ لائن 1-800-272-3900 چھِ مفت، رازدارانہٕ تہٕ ؤرِیَس منز پرٛتھ دۄہ، چوبیس گھنٹہٕ دستیاب، تہٕ واریاہَن زبانن منز چھِ مدد میلان۔ رِلے سروس خٲطرٕ کٔریو 711 ڈائل۔"
+  - q: "کیا دیکھ بھال نِش آرام نِنہٕ خٲطرٕ رُکُن چھا خودغرضی؟"
+    a: "نہ۔ آرام چھُ تُہؠ مدد کران زِ تُہؠ ہیٚکِو دیکھ بھال جٲری تھٲوِتھ، تہٕ آرامُک وقت ہیکہِ سُہ شخص یَس تُہؠ خیال چھو تھاوان تہِ بدل کمپنی تہٕ سرگرمی فراہم کٔرِتھ۔ واریاہ دیکھ بھال کرن وٲلؠ چھِ پتہٕ ونان زِ کاش تِم آسِہَن گۄڈے مدد مٔنگِمٕژ۔"
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+اگر تُہؠ ڈیمنشیا سٟتؠ زندٕگی گزارَن وٲلِس کٲنٛسہِ شخصہٕ سُنٛد خیال چھو تھاوان، تیٚلہ چھو تُہؠ ممکنہٕ یِہ صفہٕ دیر راتس، تھٔکِتھ تہٕ تِمَن کاٚمن ہُنٛد فہرست تھٲوِتھ پران یِم وۄنؠ تام کرنہٕ آمٕتؠ چھِنہٕ۔ یِہ چھُ عام۔ پنُن پان خیال تھاون چھُنہٕ کٔہہ عیش یا تِمن سارِنؠ کاٚمن پورٕ کرنہٕ پتہٕ مِلن وول اِنعام۔ یِہ چھُ سُہ چیز یُس تُہؠ برونٛہہ پکناوَنس منز مدد کران چھُ۔
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+یتھ صفَس منز چھِ تھکاوٹچ علامژٕ، اصلی آرام کِتھ کٔنۍ میلہ، مدد کتہِ لبہِو، تہٕ مفت US ہیلپ لائنہٕ یِمن پیٹھ تُہؠ اَز کال ہیٚکِو کٔرِتھ۔
 
-## What are the signs of caregiver burnout?
+## دیکھ بھال کرن وٲلِس سٕنز تھکاوٹچ کیا چھِ علامژٕ؟
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+تھکاوٹ چھِ اکثر آہستہ آہستہ یِوان، امہِ موجوب چھُ جانُن ضروری زِ تُہنزٕ پنٕنۍ علامژٕ کیا چھِ۔ [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) چھُ دیکھ بھال کرن والن ہُنٛد دباوچ کینٛژھن علامتن ہُنٛد ذِکر کران، یِمن منز چھِ:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- واریاہ تھَکن، دباو یا پریشٲنی محسوس کرٕنۍ؛
+- جلدی ناراض یا بے صبر گژُھن؛
+- اکیلا یا باقیَن نِش الگ محسوس کرٕنۍ؛
+- نیندرِچ مشکل، یا کافی نیندر نہ میلنہِ؛
+- اُداسی یا ناؤمیدی محسوس کرٕنۍ، یا تِمَن چیزن منز دِلچسپی گژُھن یِم تُہؠ برونٛہہ پسند ٲسۍ؛
+- واریاہ کیلِہ درد یا بیٚیہ جسمٲنی تکلیف؛
+- پننِس خٲطرٕ وَرزِش یا صحت مند کھؠن بناونُک وقت نہ آسُن؛
+- نہانُن یا بیٚیہ ذٲتی خیال ترٛاوُن؛
+- شراب یا منشیاتُک غلط استعمال، بشمول ڈاکٹر سٕندؠ لِکھمٕتؠ دوا۔
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) چھِ بیٚیہ علامتن ہُنٛد تہِ ذِکر کران، مِثالَن بیماری انکار کرُن، سُہ شخص یَس تُہؠ خیال چھو تھاوان تٔس پیٹھ ناراض گژُھن («سُہ چھُ صرف ضد کران»)، مُستقبلٕچ فکر، توجہ دِنَس منز مشکل، تہٕ صحتی مسئلن ہُنٛد اثر۔ اگر یِم علامژٕ واریاہ وِزِ گژھن، تیٚلہ چھِ تِم پننِس ڈاکٹرَس سٟتؠ کتھ کرنٕچ صلاح دِوان۔
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA چھُ صلاح دِوان زِ یوٚت تام تُہؠ واریاہ زیادہ تھٔکِتھ محسوس نہ کٔریو توٚت تام مہ کٔریو انتظار۔ پنٕنۍ علامژٕ کٔریو جلدی محسوس تہٕ تِمن پیٹھ کٔریو عمل۔
 
-## What can I do today, in five minutes?
+## اَز کیا ہیٚکہٕ بہٕ پانژن منٹن منز کٔرِتھ؟
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+لۄکچہِ رُکاوٹ تہِ چھِ اہم۔ یِم چیزٕ چھِنہٕ تھکاوٹ پورٕ ٹھیک کران، مگر یِم ہیٚکن تُہؠ اکھ مشکل دوپہر کڈنس منز مدد کٔرِتھ۔
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **نیبر نیرِو۔** یٚلہ سُہ شخص محفوظ تہٕ آرامَس منز آسہِ، تیٚلہ بیہِو دَبس پیٹھ یا پٔکِو میل بکسس تام۔
+- **آہستہ آہستہ سانس نِیِو۔** کُنہِ مشکل سوالُک جواب دِنہٕ برونٛہہ کٔریو کینٛژھ آہستہ سانس۔ تُہؠ ہیٚکِو [Calm Breathing](/games/calm-breathing/) ہُند آرامُک لمحات سُہ شخص یَس تُہؠ خیال چھو تھاوان تٔس سٟتؠ تہِ بانٛٹِتھ۔
+- **کینٛژھ آب چیٚو تہٕ کینٛژھ کھؠیِو۔** پنُن کھؠن مشراوُن چھُ آسان۔
+- **کٲنٛسہِ أکِس دوستس سٟتؠ کٔریو پیغام۔** کینٛژھ منگنہٕ خٲطرٕ نہ، صرف رابطہٕ خٲطرٕ۔**
+- **پانس سٟتؠ کٔریو مہرٕ بٲنۍ کتھ۔** NIA ہٕچ [پانس ہُنٛد خیال تھاونٕچ ہدایت](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) چھِ یِم جملہٕ وَننٕچ صلاح دِوان: «بہٕ چھُس پنٕنۍ پوری کوشش کران»، «بہٕ چھُس نہ کامل، تہٕ یِہ چھُ ٹھیک», تہٕ «یٚلہ اسہِ سکون سٟتؠ أکِسٲتھ گۄڈراونُک موقع میلہِ، تیٚلہ کَر بہٕ تِم لمحات پسند۔»
 
-## What is respite care, and how do I get it?
+## آرامُک وقت (respite care) کیا چھُ، تہٕ بہٕ کِتھ کٔنۍ ہیکہٕ یِہ حٲصِل کٔرِتھ؟
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+آرامُک وقت (respite care) چھُ تٔمِس شخصہٕ سٕندِ خٲطرٕ مختصر وقتٕچ دیکھ بھال یَس تُہؠ خیال چھو تھاوان، یُتھ تُہؠ آرام ہیٚکِو کٔرِتھ۔ NIA ہُند [آرامُک وقتس متعلق صفہٕ](https://www.nia.nih.gov/health/caregiving/what-respite-care) چھُ وَنان زِ یِہ ہیٚکہِ کینٛژھن گھنٹن پیٹھہٕ کینٛژھن ہفتن تام گژھِتھ، تہٕ یِہ ہیٚکہِ گرِ منز، کٲنٛسہِ صحت سہولیتس منز یا اکھ ڈے کیئر سینٹرس منز گژھِتھ۔
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) چھِ عام قسمن ہُنٛد وضاحت کران:
 
-| Type | What it is |
+| قسم | یِہ کیا چھُ |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| گرِ منز مدد | اکھ دوست، رشتہٕ دار، رضاکار یا تنخواہ پیٹھ یِوان مددگار گرِ چھُ یِوان |
+| ڈے کیئر سینٹر | محفوظ گروپی ماحولس منز منصوبہٕ بند سرگرمیہٕ، مِثالَن موسیقی تہٕ فن؛ اکثر چھِ سواری تہٕ کھؠن تہِ میلان |
+| راتٕچ یا مختصر قیام | اکھ طویل مدتی دیکھ بھال کمیونٹی چھِ تٔمِس شخصہٕ سُنٛد اکھ رات، کینٛژھ دۄہ یا کینٛژھ ہفتہٕ خیال تھاوان |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**خرچ کُس چھُ دِوان؟** NIA مُطٲبق، خاندان، دوستن یا رضاکارن ہُنٛد فراہم کوٚرمُت آرام ہیٚکہِ مفت آسِتھ۔ پیشہ ورانہٕ خدمژٕ چھِ گھنٹہٕ یا دۄہ حسابہٕ خرچ لگان۔ یُس شخص hospice دیکھ بھال رٹان چھُ، تٔمِس خٲطرٕ چھُ Medicare ہسپتالس یا ہُنر مند نرسنگ سہولیتس منز لگاتار پانژن دۄہن تام زیادہ تر خرچ چُکاوان۔ Medicaid ہیکہِ مدد کٔرِتھ۔ زیادہ تر نجی صحت بیمہ چھُنہٕ یِہ خرچ چُکاوان، حالانکہ کینٛژھ طویل مدتی بیمہ منصوبہ ہیٚکن مدد کٔرِتھ۔
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**مشورہ:** Alzheimer's Association چھُ صلاح دِوان زِ آرامُک وقت فراہم کرن وٲلؠ کٔریو غٲر ہنگامی حالتس منز آزمٲیش، یُتھ اگر اچانک مدد ضروری گژھیو تیٚلہ آسَن تِم تیار۔
 
-## Where can I find help near me?
+## مے کتہِ لبہِ نکھتل مدد؟
 
-Several free US services can point you to local help.
+واریاہ مفت US خدمژٕ ہیٚکن تُہؠ مقامی مدد تام واتناوِتھ۔
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) چھِ مفت تہٕ رازدارانہٕ، ؤرِیَس منز پرٛتھ دۄہ چوبیس گھنٹہٕ دستیاب، تہٕ 200 کھوتہٕ زیادہ زبانن منز دو لِسان عملہٕ یا ترجمانن ذٔریعہ مدد دِوان۔ رِلے سروس خٲطرٕ کٔریو 711 ڈائل۔ تُہؠ ہیٚکِو رٔوِیہ تبدیلیَن، دیکھ بھال کرن وٲلِس سٕندِس دباوس، آرامُک وقتٕچ آپشنن، مقامی پروگرامَن وغٲرہ متعلق کتھ کٔرِتھ، تہٕ کیئر کنسلٹنٹس سٟتؠ ؤڈ کتھ باژ کرنٕچ درخواست تہِ کٔرِتھ۔ عملہٕ چھُنہٕ طبی مشورہٕ دِوان۔
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/)، یُس Administration for Community Living ہٕچ اکھ عوامی خدمت چھِ، چھُ تُہؠ بوڈ لۄکن تہٕ تِہندین خاندانن خٲطرٕ خدمتن سٟتؠ جوٚڑان۔ تُہؠ ہیٚکِو کال کٔرِتھ، ٹیکسٹ کٔرِتھ، آن لائن چیٹ کٔرِتھ یا ای میل کٔرِتھ تربیت یافتہ عملَس سٟتؠ کتھ کٔرِتھ، یا جایِہ ہُنٛد نَو لٲگِتھ تلاش کٔرِتھ۔ یِہ ہیٚکہِ تُہؠ تُہندِس مقامی Area Agency on Aging تام واتناوِتھ۔
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) چھُ تُہؠ ریاست حسابہٕ آرامُک وقت فراہم کرن وٲلؠ لبنس منز مدد کران، تہٕ صلاح دِوان زِ اگر تُہنزِ ریاستس منز آسہِ تیٚلہ کٔریو گۄڈٕ پننِس State Respite Coalition یا Lifespan Respite پروگرامَس سٟتؠ رابطہٕ۔ ARCH چھُ وَنان زِ سُہ چھُنہٕ فراہم کرن والن ہُنٛد جانچ کران، امہِ موجوب کٔریو تِہُند تجربہٕ تہٕ پس منظر پانَس جانچ۔
 
-## How do I find a support group?
+## بہٕ کِتھ کٔنۍ لٔبۍ اکھ مددگار گروپ؟
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+ہیلپ لائن پیٹھ پٕرژِھو یا آن لائن کٔریو پننِس نکھس گروپن ہٕنز تلاش۔ Alzheimer's Association چھِ [مددگار گروپ چلاوان](https://www.alz.org/help-support/community/support-groups) تِمَن دیکھ بھال کرن والن تہٕ تِمَن لۄکن خٲطرٕ یِم ڈیمنشیا سٟتؠ زندٕگی گزاران چھِ، روبرو تہٕ آن لائن، تربیت یافتہ رہنماون ہٕندِ ذٔریعہ۔ واریاہ جایَن پیٹھ چھِ خاص گروپ تہِ میلان، مِثالَن بالغ دیکھ بھال کرن والن خٲطرٕ یا تِمَن لۄکن خٲطرٕ یِمن کم عُمرس منز یا شروعٲیی مرحلس منز Alzheimer's چھُ۔ یِہ چھُ ALZConnected تہِ چلاوان، اکھ مفت آن لائن کمیونٹی یَتھ دیکھ بھال کرن وٲلؠ پنٕنۍ مشورٕ بانٛٹان چھِ۔
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+مددگار گروپ ہیٚکہِ اکھ جایِہ آسِتھ یَتھ تُہؠ بغیر کُنہِ فیصلہٕ دِل مٔکلاوِتھ ہیٚکِو، تِمَن لۄکن نِش مفید مشورٕ ہیٚکِو رٔٹِتھ یِمَن یِہ تجربہٕ چھُ، تہٕ کم اکیلا محسوس ہیٚکِو کٔرِتھ۔ اگر گۄڈنِیُک گروپ ٹھیک باسہِ نہ، تیٚلہ کٔریو بیاکھ آزمٲیش۔
 
-## How do I ask family and friends for help?
+## خاندانن تہٕ دوستن نِش مدد کِتھ کٔنۍ مٔنگۍ؟
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+صاف تہٕ خاص طور کٔریو درخواست۔ واریاہ لۄکھ چھِ مدد کرٕنۍ یژھان مگر تِمن چھُنہٕ پے زِ کیا پیش کرن۔ NIA چھُ یِم مشورٕ دِوان:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **اکھ فہرست تھٲوِو** تِمَن کاٚمن ہٕنز یِم باقی لۄکھ ہیٚکن نِتھ، تہٕ لۄکن دِیِو ژارنُک موقع۔
+- **لۄکٹِیو شروع کٔریو** اگر منگُن مشکل باسہِ۔
+- **کام کٔریو شخصہٕ سٟتؠ میل** یُس کام کرنُک عادی آسہِ۔ سُہ رشتہٕ دار یَس کھؠن بناوُن پسند چھُ، سُہ اَنہِ پرٛژھ دۄہ شامُک کھؠن۔ سُہ ہمسایہٕ یَس فارمَن ہُند کام آسان چھُ، سُہ کَرِ کاغذاتن منز مدد۔
+- **ٹیکسٹ یا ای میل کٔریو** اگر روبرو منگُن تُہؠ غیر آرام دہ باسہِ۔
+- **اکھ جواب کٔریو تیار** یٚلہ کانٛہہ مدد پیش کرِ: «پُچھنہٕ خٲطرٕ شکریہ۔ تُہؠ ہیٚکِو یِہ کٔرِتھ۔»
+- **کینٛژھن انکارَن ہٕنز کٔریو توقع** تہٕ کوشش کٔریو زِ تِم دِلس پیٹھ نہ نِیِو۔
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+بیٚیہ خیال: کٲنٛسہِ ؤنِو زِ سُہ بیہِ ہفتَس منز اکہِ دۄہ کینٛژھن گھنٹن خٲطرٕ تٔمِس شخصہٕ سٟتؠ، تٔمِس سٟتؠ اکھ لۄکُٹ پھیٖر کَرِ، یا صرف مِلنہٕ یِیہِ تہٕ اکھ گیم کھیلہِ۔ سٲنۍ [أکِسٲتھ کھیلنٕچ ہدایت](/caregiving/how-to-play-together/) چھِ مِلنہٕ یِن وٲلؠن سٟتؠ بانٛٹنہٕ خٲطرٕ آسان۔
 
-## What if something happened to me?
+## اگر مے کینٛژھ گژھیو تیٚلہ کیا؟
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+وۄنؠ بنٲوِو اکھ سادٕ بیک اپ منصوبہٕ۔ NIA چھُ صلاح دِوان زِ خاندان یا نکھتِلؠن دوستن سٟتؠ کٔریو طے زِ کُس یِیہِ برونٛہہ، تہٕ اکھ کاپی منز تھٲوِو ہنگامی نمبر، دواہ، تِم رٔوِیہ مُتعلق مشورٕ یِم کارگر چھِ، تہٕ پسندیدٕ سرگرمیہٕ۔ Alzheimer's Association چھِ تہِ صلاح دِوان زِ تٔمِس شخصہٕ سٕند طبی رابطہٕ تہٕ تازٕ دواہَن ہٕنز فہرست تھٲوِو آسانی سٟتؠ لبنہٕ جایِہ۔
 
-## When should I get professional or urgent help?
+## مے کُر گژھیو پیشہ ورانہٕ یا فوری مدد حٲصِل کرٕنۍ؟
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+اگر دباوچ علامژٕ واریاہ وِزِ گژھن، اگر تُہؠ اُداسی محسوس گژھیو، یا تُہؠ حالات سٟتؠ نبراونس منز مشکل محسوس گژھیو، تیٚلہ کٔریو پننِس ڈاکٹرَس سٟتؠ کتھ۔ پننِس ڈاکٹرَس ؤنِو زِ تُہؠ چھو اکھ دیکھ بھال کرن وول۔ NIA چھُ وَنان زِ مشیر تہٕ سماجی کارکن ہیٚکن مشکل جذباتن تہٕ منصوبہٕ بندی منز مدد کٔرِتھ، تہٕ Medicare، Medicaid تہٕ کینٛژھ نجی بیمہ ہیٚکن کینٛژھن ذہنی صحت خرچَن ہٕنز کینٛژھ حصّہٕ چُکاوِتھ۔
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+اگر تُہؠ سخت مشکل محسوس گژھیو یا پانس نقصان واتناونٕک خیال یِیِو، تیٚلہ کٔریو 988 پیٹھ کال یا ٹیکسٹ یُتھ تُہؠ [988 Suicide & Crisis Lifeline](https://988lifeline.org/) تام واتہِو، یِہ چھِ مفت تہٕ 24/7 دستیاب۔ اگر کانٛہہ فوری خطرس منز آسہِ، تیٚلہ کٔریو 112 کال۔
 
-## Can shared activities give me a break too?
+## کیا أکِسٲتھ کھیلنہٕ یِنہٕ وٲلؠ سرگرمیہٕ ہیٚکہٕ مے تہِ آرام دِتھ؟
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+کُنہِ وِزِ ہیٚکن۔ اکھ پُرسکون سرگرمی یۄسہٕ تُہؠ دۄشوے پسند چھو کران، ہیکہِ دۄہُک اکھ نرم حصہٕ بنِتھ، تُہندِ خٲطرٕ تہِ تہٕ سُہ شخص یَس تُہؠ خیال چھو تھاوان تٔمِس خٲطرٕ تہِ: پرٛٲنۍ گیوان بوزُن، تصویٖر وچھنہِ، یا [Conversation Cards](/games/conversation-cards/) ہِیو گیم یَتھ صحیح جوابٕچ ضرورت چھِنہٕ آسان۔ اگر تٔمِس شخصہٕ سٟتؠ دۄیِم صحبت رَژھِ، تیٚلہ ہیٚکہِ سینئر سینٹرس یا ڈے کیئر پروگرامس منز [Picture Bingo](/games/picture-bingo/) ہُند اکھ گروپی دور تُہؠ اکھ گھنٹہٕ آرام دِتھ۔ خیالن خٲطرٕ وُچھِو [دیکھ بھال گرَن منز گروپی سرگرمیہٕ](/activities/care-home-groups/)۔

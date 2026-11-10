@@ -1,33 +1,28 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "ڈیمینشیا ہُند خٲطرٕ عوامل: یِم 14 لانسؠٹ کمیشن نے نام دِتھ"
+seoTitle: "ڈیمینشیا ہُند خطرٕ عوامل: 14 لانسؠٹ عوامل"
+description: "2024 عِسوی ہُندس لانسؠٹ کمیشن نے یِم 14 تبدیٖل گژھَتھ وِنہٕ واجِن خطرٕ عوامل نام دِتھ، عمرِ حِصہٕ وار، تحقیق چھُ کیا رٲبط دِوان تہٕ ڈاکٹر سانئِس کیا کَتھ کرٕنۍ."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 عِسوی ہُندس لانسؠٹ کمیشن نے 14 یِم خطرٕ عوامل نام دِتھ یِم تبدیٖل گژھَتھ ہیکن: کم تعلیٖم، بُولوٕ ہُند کمزوری، تِلوٕ LDL کولیسٹرول، ڈپریشن، سَرِس پٲٹھۍ زخم، بے حَرکتی، ذیابیطس، تمباکو نوشی، تِلوٕ بُلوڈ پریشر، موٹاپہ، زیاده شراب نوشی، سماجی تنہائی، ہوا آلودگی تہٕ بے علاج نظرِ کمزوری۔ یِم سارے مِلِتھ دُنیا بھرَس منز تقریٖباً 45% کیسَن سانئِس جُڑے چھِ، حالانکہ کُنہِ تہِ شخص خٲطرٕ یِتھ چھُ کوئی ضمانت نہٕ.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "یِم 14 عوامل پورٕ زندگی پٲٹھۍ چھِ پھیٖلِتھ: اکھ ابتدائی عمرَس منز، دَہ درمیانی عمرَس منز تہٕ ترے پِتھۍ عمرَس منز۔"
+  - "درمیانی عمرَس منز بُولوٕ ہُند کمزوری تہٕ تِلوٕ LDL کولیسٹرول، ہَر اکھَن سانئِس دُنیا بھرَس منز تقریٖباً 7% ڈیمینشیا ہُند کیسَن رٲبط چھُ، یِم چھِ کُنہِ تہِ اکھل خطرٕ عاملَن منز سبٕ کھۄتھ زیاده حصہ۔"
+  - "یِم فیصد چھِ آبادی ہُند تخمینٕ، یِتھ منز سبب تٕ اثر ہُنٛد فرض کرنہٕ آمُت چھُ۔ کینہہ رٲبط شاید صرف جزوی طور پٲٹھۍ سبب وِنہٕ واجِن آسن۔"
+  - "عمر تہٕ جین، یِم کُنہِ تہِ نہ ہیکن تبدیٖل کرنہٕ یِن، چھِ تہِ بڑٕ خطرٕ عوامل۔ یِم 14 خطرٕ عوامل کم کرنہٕ سانئِس تہِ کُنہِ شخص ہیکہ نہٕ یقین دِلِتھ زِ ڈیمینشیا نہِ یِیہ۔"
+  - "اکثریتِ اعمال یِمہ، مثلاً بُلوڈ پریشر، بولوٕ تہٕ نظرِ جانچ، چھِ دوسرے طریقَن تہِ صحت خٲطرٕ خیریت وِنہٕ واجِن تہٕ ڈاکٹرس سانئِس بَحَث کرنہٕ خٲطرٕ مُناسب چھِ۔"
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "ڈیمینشیا ہُند یِم 14 تبدیٖل گژھَتھ وِنہٕ واجِن خطرٕ عوامل کیا چھِ؟"
+    a: "2024 عِسوی ہُندس لانسؠٹ کمیشن نے یِم نام دِتھ: کم تعلیٖم، بُولوٕ ہُند کمزوری، تِلوٕ LDL کولیسٹرول، ڈپریشن، سَرِس پٲٹھۍ زخم، جسمانی بے حَرکتی، ذیابیطس، تمباکو نوشی، تِلوٕ بُلوڈ پریشر، موٹاپہ، ضرورت کھۄتھ شراب نوشی، سماجی تنہائی، ہوا آلودگی تہٕ بے علاج نظرِ کمزوری۔ یِم سارے مِلِتھ دُنیا بھرَس منز تقریٖباً آدٕ ڈیمینشیا ہُند کیسَن سانئِس جُڑے چھِ۔"
+  - q: "ڈیمینشیا ہُند سبٕ کھۄتھ اَھم خطرٕ عامل کُس چھُ؟"
+    a: "دُنیا بھرَس آبادی ہُنٛد حساب پٲٹھۍ، کمیشن نے اندازہ لگووُتھ زِ درمیانی عمرَس منز بُولوٕ ہُند کمزوری تہٕ تِلوٕ LDL کولیسٹرول، ہَر اکھَن سانئِس تقریٖباً 7% کیسَن رٲبط چھُ، پَتھ چھِ کم تعلیٖم تہٕ سماجی تنہائی، ہَر اکھَن سانئِس تقریٖباً 5% کیسَن رٲبط۔ کسِ شخص خٲطرٕ کُس عامل ہُنٛد اثر سبٕ کھۄتھ زیادٕ چھُ، یِہ تُہندس خاص صحت پٲٹھۍ منحصر چھُ، تہٕ یِتھ خٲطرٕ بہترین رہنمائی ڈاکٹر دِیہ۔"
+  - q: "کیا یِم دو نو خطرٕ عوامل 2024 عِسویَس منز شامِل کِتھ گَے؟"
+    a: "آو، 2024 عِسوی ہُندس رپورٹَس منز 2020 عِسویَس منز نام دِنہٕ آمِتھ 12 عواملَن کینؠ پؠٹھ یِم دو نو عوامل شامِل کِتھ گَے: درمیانی عمرَس منز تِلوٕ LDL (خراب) کولیسٹرول تہٕ پِتھۍ عمرَس منز بے علاج نظرِ کمزوری۔ کمیشن نے یِنہٕ سانئِس ترتیب وار تقریٖباً 7% تہٕ 2% کیسَن رٲبط لگووُتھ چھُ۔"
+  - q: "کیا عمر چھُ تبدیٖل گژھَتھ وِنہٕ واجِن خطرٕ عامل؟"
+    a: "نہٕ۔ عمر چھُ الزائمر ہُند سبٕ کھۄتھ اَھم خطرٕ عامل، تہٕ یِہ ہیکہ نہٕ تبدیٖل کرنہٕ یِینہ۔ جین تہِ رٲبط چھِ کَڈان۔ یِم صفحَس پٲٹھۍ دِنہٕ آمِتھ 14 عوامل چھِ یِم تحقیقَس مُطٲبق ممکن طور پٲٹھۍ تبدیٖل گژھَتھ ہیکن۔"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +44,77 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+خطرٕ عامل یعنی اکھ یِتھ سانئِس کُنہِ حالت یِنُک امکان ودی گژھان چھُ، رٲبط دِوان چھُ۔ یِہ ہر حالتَس منز سبب نہِ چھُ، تہٕ اکھ خطرٕ عامل آسن سانئِس تہِ یِہ ضرور نہِ چھُ زِ تُہندس ڈیمینشیا یِیہ۔ یِتھ صفحَس پٲٹھۍ چھِ یِم 14 ڈیمینشیا ہُند خطرٕ عوامل یِم 2024 عِسوی ہُندس لانسؠٹ کمیشن نے احتمالاً تبدیٖل گژھَتھ وِنہٕ واجِن قرار دِتھ، یِنہٕ سانئِس تحقیق کیا رٲبط چھُ، تہٕ تُہۍ ڈاکٹر سانئِس کیا کَتھ کرِتھ ہیکیو بَحَث۔
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+زیادہ مجموعی معلومات خٲطرٕ، یِتھ منز بڑٕ ٹرائلز کیا مِلِتھ، شروع کٔرِو
+[کیا ڈیمینشیا روکنہٕ یِیہ؟ تحقیق کیا چھُ وَنان](/brain-health/can-dementia-be-prevented/)۔
+یِہ عمومی معلومات چھِ، طبی مشورٕ نہِ؛ سون
+[طبی اعلانِ ذمہ داری](/medical-disclaimer/) وُچھِو۔
 
-## What are the 14 risk factors for dementia?
+## ڈیمینشیا ہُند یِم 14 خطرٕ عوامل کیا چھِ؟
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 عِسوی ہُندس لانسؠٹ کمیشن](https://doi.org/10.1016/S0140-6736(24)01296-0)، یِتھ منز 27 ڈیمینشیا ہُند محقق شریک ٲسِتھ، اندازہ لگووُتھ زِ 14 احتمالاً تبدیٖل گژھَتھ وِنہٕ واجِن خطرٕ عوامل مِلِتھ دُنیا بھرَس منز تقریٖباً 45% ڈیمینشیا ہُند کیسَن ہُنٛد حساب رَکھن۔ تَلِ دِنہٕ آمِتھ جدولَس منز ہَر اکھ خطرٕ عامل خٲطرٕ فیصد چھُ کمیشن ہُند یُو تخمینٕ زِ دُنیا بھرَس منز کَتھہِ فیصد کیسَن سانئِس یِہ رٲبط چھُ، پورٕ عددَس منز دِنہٕ آمُت چھُ۔ یِم فیصد اکھ ونۍ سانئِس جُڑے چھِ کیازِکہ اکثر لوٗکن اکھس تے زیادٕ خطرٕ عوامل مِلِتھ آسَن، یِتھ وجہٕ چھُ زِ یِم سارے مِلِتھ 45% پٲٹھۍ یِوان، زیادٕ نہِ۔
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| خطرٕ عامل | عمرِ حِصہٕ | کیسَن ہُنٛد حصہ | تحقیق کیا رٲبط چھُ وَنان | تُہۍ کیا کرِتھ ہیکیو |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| کم تعلیٖم | ابتدائی عمر | 5% | کم تعلیٖم سانئِس ودی خطرٕ رٲبط چھُ۔ درمیانی عمرَس منز ذہنی سرگرمی تہِ کم تعلیٖم وُتھ وِنہٕ والے لوٗکن خٲطرٕ تہِ حفاظت کرن وول چھُ۔ | عمرِ ہر حِصہٕ منز سِکھن تہٕ ذہنی طور پٲٹھۍ مشغول روزو: پرن، مشغولِیات، جماعتیں، یا وُنۍ سانئِس کھیٖلن۔ |
+| بُولوٕ ہُند کمزوری | درمیانی عمر | 7% | بے علاج بُولوٕ ہُند کمزوری سانئِس ودی خطرٕ رٲبط چھُ۔ عمر پٲٹھۍ پیروی کرن وول مطالعن منز بُولوٕ ہُند آلات استعمال کرن سانئِس کم خطرٕ رٲبط چھُ وَنوُن آمُت۔ | پنُن بولوٕ جانچو۔ پٔژھیو زِ بُولوٕ ہُند آلات کِیا مدد کرِتھ ہیکن، تہٕ اگر تجویز دِنہٕ یِیہ تِم استعمال کٔرِو۔ تیز آوازَن پؠٹھۍ بُولوٕ بچٲوِو۔ |
+| تِلوٕ LDL کولیسٹرول | درمیانی عمر (تقریٖباً 40 سال پؠٹھۍ) | 7% | درمیانی عمرَس منز تِلوٕ LDL ("خراب") کولیسٹرول سانئِس ودی خطرٕ رٲبط چھُ۔ مشاہداتی مطالعن منز statin استعمال سانئِس کم خطرٕ رٲبط چھُ وَنوُن آمُت، حالانکہ پِتھۍ عمرَس منز کِتھہِ ٹرائلن منز یِہ نہِ چھُ ظٲہِر سپُدُم۔ | پنُن ڈاکٹر پٔژھیو زِ تُہندس کولیسٹرول جانچنُک ضرورت چھُ کہ نہِ، تہٕ کیا کرنُک چھُ اگر ضرورت آسہ۔ |
+| ڈپریشن | درمیانی عمر | 3% | ڈپریشن سانئِس ودی خطرٕ رٲبط چھُ۔ پِتھۍ عمرَس منز ڈپریشن ہیکہ ڈیمینشیا ہُنٛد ابتدائی نِشان تہِ آسِتھ۔ | اگر دو ہفتن کھۄتھ زیادٕ کم مزاجی یا دلچسپی کم سپدِ، تِہ پنُن ڈاکٹرَن وَنیو۔ ڈپریشن چھُ علاج گژھَتھ۔ |
+| سَرِس پٲٹھۍ زخم (traumatic brain injury) | درمیانی عمر | 3% | عمرِ ہر حِصہٕ منز تہٕ ہر وجہ پؠٹھۍ سَرِس زخم، یِتھ منز رابطہ وول کھیل تہِ شامِل چھِ، سانئِس ودی خطرٕ رٲبط چھُ۔ | سٲیکل چلأوِنس یا رابطہ وول کھیلَن منز ہیلمٹ استعمال کٔرِو۔ گرن پؠٹھۍ بچنُک انتظام پٔژھیو۔ سَرِس زخم پؠٹھۍ آرام کٔرِو تہٕ جانچ کرأوِو۔ |
+| جسمانی بے حَرکتی | درمیانی عمر | 2% | یِم لوٗکھ یِم ورزش یا کھیل کَرن، تِمَن ڈیمینشیا یِنُک کم امکان چھُ۔ ٹرائل ہُند ثبوت چھِ وُنہِ محدود۔ | پنُن ڈاکٹر پٔژھیو زِ تُہند خٲطرٕ کُس قٕسمُک فعالیت مناسب چھُ، تہٕ اکھ یِتھ سانئِس تُہۍ خوش آسو، تِہ لٔبِو۔ سون [ورزش ہُنٛد رہنمائی](/brain-health/exercise/) وُچھِو۔ |
+| ذیابیطس | درمیانی عمر | 2% | ذیابیطس، خاص کرِتھ اگر درمیانی عمرَس منز شروع گژھِ یا زیادٕ دیر تام آسِ، سانئِس ودی خطرٕ رٲبط چھُ۔ | پنُن بلڈ شوگر جانچو۔ اگر ذیابیطس چھُ، پنُن علاج کَرن وول ٹیم سانئِس مِلِتھ محفوظ طریقہٕ سانئِس انتظام کٔرِو۔ |
+| تمباکو نوشی | درمیانی عمر | 2% | تمباکو نوشی سانئِس ودی خطرٕ رٲبط چھُ۔ مطالعن منز یِہ وَنوُن آمُت زِ یِم لوٗکھ تمباکو ترَکہ دِیُمِتھ چھِ، تِنہٕ یُتھ خطرٕ نہِ چھُ، یُتھ تام تمباکو استعمال کران وولن چھُ۔ | تمباکو ترَکہ دِنہٕ خٲطرٕ مدد پٔژھیو۔ عمرِ ہر حِصہٕ منز ترَکہ دین چھُ مُفید۔ |
+| تِلوٕ بُلوڈ پریشر | درمیانی عمر | 2% | درمیانی عمرَس منز تِلوٕ بُلوڈ پریشر سانئِس ودی خطرٕ رٲبط چھُ۔ بُلوڈ پریشر ہُند دواون ہُند ٹرائلن منز ڈیمینشیا یا ادراکی کمزوری یِنُک معمولی طور پٲٹھۍ کم خطرٕ وَنوُن آمُت چھُ۔ | پنُن نمبر زانِو۔ کمیشن نے تقریٖباً 40 سال پؠٹھۍ اوپری نمبر 130 یا کم تجویز دِیُتھ، لیکن تُہند خٲطرٕ مناسب ہدف پٔژھیو پنُن ڈاکٹر سانئِس۔ |
+| موٹاپہ | درمیانی عمر | 1% | درمیانی عمرَس منز موٹاپہ سانئِس ودی خطرٕ رٲبط چھُ، تہٕ یِہ ذیابیطس ہُنٛد تہِ خطرٕ ودیوان چھُ۔ | پنُن ڈاکٹر پٔژھیو زِ تُہند خٲطرٕ صحت مند وزن کُس چھُ۔ بوٗڈھ لوٗکن خٲطرٕ طبی مشورٕ بغیر وزن کم کرنُک غذاگری نہِ کرٕنۍ۔ |
+| ضرورت کھۄتھ شراب نوشی | درمیانی عمر | 1% | ضرورت کھۄتھ شراب نوشی سانئِس ودی خطرٕ رٲبط چھُ۔ ضرورت کھۄتھ شراب نوشی کم کرن سانئِس خطرٕ کم گژھان چھُ۔ | پنُن خٲطرٕ محفوظ حد پٔژھیو، خاص کرِتھ اگر تُہۍ کینہہ دوائیں استعمال کران چھِو۔ |
+| سماجی تنہائی | پِتھۍ عمر | 5% | کمزور سماجی رٲبط سانئِس ودی خطرٕ رٲبط چھُ۔ | یِم لوٗکھ سانئِس رابطہ تھٲوِو یِمَن سانئِس تُہۍ خوش چھِو۔ سون [سماجی رابطہ ہُنٛد رہنمائی](/brain-health/social-connection/) وُچھِو۔ |
+| ہوا آلودگی | پِتھۍ عمر | 3% | زیادٕ ہوا آلودگی منز روزن سانئِس ودی خطرٕ رٲبط چھُ۔ صفٕ هوا سانئِس خطرٕ کم گژھان ہُنٛد رٲبط چھُ مطالعن منز وَنوُن آمُت۔ | یِہ عام طور پٲٹھۍ عوامی پالیسی سانئِس جُڑِتھ چھُ۔ پنُن علاقَس منز ہوا ہُنٛد معیار جانچو تہٕ جب ہوا بہت آلودٕ آسِ تِہ باہر کم وقت گزارو۔ |
+| بے علاج نظرِ کمزوری | پِتھۍ عمر | 2% | بے درست نظرِ مسائل سانئِس ودی خطرٕ رٲبط چھُ۔ اکھ بڑٕ امریکی مطالعَس منز موتیابند ہُند آپریشن سانئِس کم خطرٕ رٲبط چھُ وَنوُن آمُت۔ | باقاعدگی سانئِس نظرِ جانچ کرأوِو۔ پٔژھیو زِ موتیابند یا دیگر مسائلَن ہُند علاج گژھَتھ چھُ کہ نہِ۔ |
 
-## How should I read these percentages?
+## یِم فیصد کِتھہٕ پٲٹھۍ پرُن چھُ؟
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+احتیاط سانئِس پرُن۔ کمیشن ہُندس رپورٹَس منز چھِ کینہہ اہم نکتہ یِم ذہنَس منز تھٲوِنی واجِن:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **یِم آبادیَن بَنان، افرادَن نہٕ۔** یونیورسٹی کالج لندن ہُندس [رپورٹ ہُنٛد خلاصہ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) چھُ وَنان زِ خطرٕ کم کرن آبادی بھرَس پٲٹھۍ کام کران چھُ، تہٕ یِہ کُنہِ تہِ اکھ شخص خٲطرٕ ضمانت نہِ دِوان زِ سُہ ڈیمینشیا پؠٹھۍ بچِیہ۔
+- **یِم سبب تٕ اثر فرض کرِتھ چھِ لکھنہٕ آمِتھ۔** مصنفن چھِ صرف تِم عوامل شامل کِتھ یِنہٕ پٲٹھۍ قوی ثبوت چھِ، حالانکہ یِم چھِ وَنان زِ کینہہ رٲبط شاید صرف جزوی طور پٲٹھۍ سبب وِنہٕ واجِن آسن۔
+- **یِم دُنیا بھرِ ہُند اعداد و شمار چھِ۔** اَکثریتِ ڈیٹا چھُ اعلیٰ آمدنی وول ملکَن منز کٹھ، تہٕ حقیقی حصہ ہیکہ ہر ملک یا برادریَس مطابق مختلف آسِتھ۔
+- **چھوٹٕ فیصد تہِ ہیکن اہم آسِتھ۔** اکھ عامل یِتھ سانئِس دُنیا بھرَس منز 2% کیسَن رٲبط چھُ، یِہ تہِ ایک بہت بڑی تعدادِ لوٗکن خٲطرٕ اثر کَران چھُ۔
 
-## Which risk factors were added in 2024?
+## 2024 عِسویَس منز کُس عوامل شامِل کِتھ گَے؟
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 عِسوی ہُندس رپورٹَس منز 2020 عِسویَس منز نام دِنہٕ آمِتھ 12 عواملَن پؠٹھ یِم دو نو عوامل شامِل کِتھ گَے:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **درمیانی عمرَس منز تِلوٕ LDL کولیسٹرول**، یِتھ سانئِس تقریٖباً 7% کیسَن رٲبط چھُ۔
+- **پِتھۍ عمرَس منز بے علاج نظرِ کمزوری**، یِتھ سانئِس تقریٖباً 2% کیسَن رٲبط چھُ۔
 
-## What risk factors cannot be changed?
+## کُس خطرٕ عواملَن ہُند تبدیٖل نہِ گژھَتھ؟
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+نیشنل انسٹی ٹیوٹ آن ایجنگ چھُ وَنان زِ [عمر چھُ الزائمر ہُند سبٕ کھۄتھ اَھم معلوم خطرٕ عامل](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)، تہٕ یِہ ہیکہ نہٕ تبدیٖل کرنہٕ یِینہ۔ جین تہِ رٲبط چھِ، اکھ مشہور جین یِتھ الزائمر ہُندس خطرَس پٲٹھۍ اثر کَران چھُ، یُس چھُ APOE نٲم۔ NIA چھِ تہِ یِہ وَنان زِ سائنسداں وُنہِ پورٕ پٲٹھۍ نہِ چھِ سمجھمُت زِ اَکثریتِ الزائمر کیسَن ہُنٛد کیا سبب چھُ۔ لانسؠٹ کمیشن چھِ وَنان زِ احتمالاً تبدیٖل گژھَتھ وِنہٕ واجِن خطرٕ عوامل ہیکن کم کرنہٕ یِن، قطع نظر زِ کُنہِ شخص ہُنٛد جینی خطرٕ کِتھہِ تہِ آسِہ۔
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+کیازِکہ عمر تہٕ جینَن چھُ اتھاہ اَھمیت، اَتھ لوٗکھ یِمَن منز یِم 14 خطرٕ عواملَن منز کُنہِ تہِ نہِ آسِ، تِم تہِ ڈیمینشیا نارَس یِوان۔ یِہ کُنہِ تہِ شخص ہُنٛد قصور نہِ چھُ۔
 
-## What does the trial evidence say about changing these risks?
+## خطرٕ عوامل تبدیٖل کرن پؠٹھۍ ٹرائل ہُند ثبوت کیا چھِ؟
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+اکھ خطرٕ عامل سانئِس رٲبط آسن تٕ یِس تبدیٖل کرن سانئِس ڈیمینشیا ہُنٛد خطرٕ کم گژھان چھُ، یِہ اکھ وُنۍ چیز نہِ چھُ۔ تَل چھِ کینہہ مثال، یِتھ منز ٹرائل ہُند ثبوت کِتھہِ چھُ:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **بُلوڈ پریشر۔** SPRINT MIND ٹرائلَس منز، بُلوڈ پریشر ہُند کم ہدف سانئِس معمولی ادراکی کمزوری یِنُک خطرٕ نمایاں طور پٲٹھۍ کم سپُدُم۔ حالانکہ یِہ امکانی ڈیمینشیا یِنُک خطرٕ نمایاں طور پٲٹھۍ نہِ کمووُتھ، شاید ٹرائل چھُ اتھ چھوٹ زِ یِہ وَچھِتھ نہِ ہیکِہ ([SPRINT MIND، JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/))۔
+- **بُولوٕ ہُند آلات۔** لانسؠٹ کمیشن چھُ وَنان زِ ترٕ برٕسُک اکھ بُولوٕ آلات ہُنٛد ٹرائلَس منز مجموعی طور پٲٹھۍ سوچن فِکرن پٲٹھۍ کُنہِ اثر نہِ مِلیوُم، مگر ودی خطر وولن لوٗکن اکھ گروپَس منز فائدٕ مِلیوُم۔ عمر پٲٹھۍ پیروی کرن وول مطالعن منز بُولوٕ ہُند آلات استعمال سانئِس کم خطرٕ رٲبط چھُ وَنوُن آمُت۔ سون [بولوٕ ہُنٛد رہنمائی](/brain-health/hearing/) منز زیاده جانِو۔
+- **جسمانی فعالیت۔** نیشنل انسٹی ٹیوٹ آن ایجنگ چھُ وَنان زِ کلیٖنیکل ٹرائلَن ہُنٛد اتھ ثبوت نہِ چھُ زِ ورزش ہیکہ معمولی ادراکی کمزوری یا الزائمر روکی یا سست کرِتھ، حالانکہ کینہہ مطالعن منز یِہ ظاہر کران چھُ زِ یِہ عمر سانئِس جُڑِتھ کمزوریَن پٲٹھۍ مدد کرِتھ ہیکِہ ([NIA، الزائمر روکُنُک بارے](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))۔
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+ژور ٹرائل یِم ڈیمینشیا یِنُک انتظار کران، چھِ دیر تام تہٕ مہنگ، یِتھ وجہٕ چھُ زِ اکثر عوامل خٲطرٕ بہترین ثبوت وُنہِ تام وُنۍ مطالعن پؠٹھۍ یِیہ، یِم لوٗکن سانئِس ورِی ورِی سال پیروی کران۔ یِہ ثبوت مُفید چھُ، مگر ٹرائل کھۄتھ کمزور چھُ۔
 
-## What about sleep and diet?
+## نیند تہٕ غذا بَرے منز کیا؟
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+کمیشن نے نیند تہٕ غذَس منز جائزٕ وُچھمُت، مگر یِنہٕ چھِ فہرستَس منز شامل نہِ کِتھ، کیازِکہ ثبوت ٲسِ نہِ اتھ مضبوط یا ہم آہنگ زِ شامل کرنہٕ یِن۔ سون رہنمائیاں [نیند](/brain-health/sleep/) تہٕ [غذا](/brain-health/diet/) منز چھِ یِم بَرے منز کیا معلوم چھُ وَننہٕ آمُت۔
 
-## Talk with a doctor
+## ڈاکٹر سانئِس بَحَث کٔرِو
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+واریاہ جانچ چھُ اکھ مناسب موقع زِ تُہۍ یِم موضوعات پیش کٔرِو۔ تُہۍ ہیکیو یِہ فہرست سانئِس وِتھ تہٕ پٔژھیو:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- **مٔنٛز نمبر:** مۄنٛز بُلوڈ پریشر، بلڈ شوگر تہٕ کولیسٹرول ہُنٛد نمبر کیا چھِ، تہٕ کیا اِنہِ پٲٹھۍ دھیان دِنُک ضرورت چھُ؟
+- **جانچ:** کیا مۄے بولوٕ تہٕ نظرِ جانچ کرنُک ضرورت چھُ؟
+- **فعالیت:** مۄے یِتھ فعالیت کران چھُس، کیا یِہ محفوظ تہٕ کافی چھُ؟
+- **دوائیں:** کیا مۄنٛز کُنہِ دوا پؠٹھۍ یاداشت یا سوچن فِکرن پٲٹھۍ اثر یِوان چھُ؟
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+دوا، غذا، روزٕ، ورزش یا سپلیمنٹس بدلأوِنس برونٹھ ضرور ڈاکٹر سانئِس مشورٕ کٔرِو۔ اگر تُہند یا تُہند خیال تھٲوِمُت شخصَن یِکایہ اکھطرفہ بدحواسی، اکھ طرف کمزوری، یا کَتھ کَرنَس مشکل یِیہ، تِہ فوری طور پٲٹھۍ 112 (یا پنُن علاقَس ہُنٛد مقامی ایمرجنسی نمبر) کال کٔرِو۔

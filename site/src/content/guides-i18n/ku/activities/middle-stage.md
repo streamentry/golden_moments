@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "چالاکییەکان بۆ قۆناغی ناوەڕاستی دیمێنسیا"
+seoTitle: "چالاکییەکانی دیمێنسیای ناوەڕاست: بیرۆکەی سادە"
+description: "چالاکیی سادە بۆ قۆناغی ناوەڕاستی دیمێنسیا: کارە بەسوودەکان، مۆسیقا، وێنە و یاریی ئاسان، لەگەڵ ئامادەکاری هەنگاو بە هەنگاو."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  لە قۆناغی ناوەڕاستی دیمێنسیا، باشترین چالاکییەکان کورت، ئاشنا و دابەشکراون
+  بۆ هەنگاوی تاک: دەستمال پێچانەوە، گۆرەوی جووتکردن، قاپ شتن، گۆرانی گوتن،
+  پیاسەی بەڕێوەبراو، ئەلبوومی وێنە و یاریی وێنەیی سادە. شتەکان ئامادە بکە،
+  یەکەم هەنگاو پیشان بدە، بەشە سەختەکان وەربگرە و مەبەستێک بدە بە چالاکییەکە.
+  کاتێک چیتر خۆش نەبوو، وەستە.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "کارە ئاشناکانی ناوماڵ زۆرجار باشترین ئەنجام دەدەن، چونکە هەست بە بەسوودبوون و پێگەی گەورە دەدەن."
+  - "پیشان بدە نەک بڵێیت، هەنگاوێک لە یەک کاتدا پێشکەش بکە، و لەبری پرسیاری کراوە دوو هەڵبژاردەی سادە پێشکەش بکە."
+  - "سەختترین بەشی کارەکە وەربگرە تاکوو ئەو کەسە بتوانێت بەشی خۆشەکەی ئەنجام بدات."
+  - "ڕەفتاری بێئارامی زۆرجار واتای ئەوەیە کە کەسەکە پێویستی بە شتێک هەیە بیکات. لەبری نەخێر گوتن، چالاکییەکی گونجاو پێشکەش بکە."
+  - "تەنها سەیرکردن، کەمێک یارمەتیدان، یان زوو وەستان هەموویان باشن."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "چ چالاکییەکێک بۆ قۆناغی ناوەڕاستی دیمێنسیا گونجاوە؟"
+    a: "چالاکیی کورت، ئاشنا و کرداری زۆرجار باشترینن: دەستمال پێچانەوە، گۆرەوی جووتکردن، قاپ شتن، ئامادەکردنی مێز، لەگەڵ گۆرانییە دێرینە خۆشەکاندا گۆرانی گوتن، پیاسەی بەڕێوەبراو، سەیرکردنی ئەلبوومی وێنە و یاریی وێنەیی سادە. هەر یەکێکیان دابەش بکە بۆ هەنگاوی تاک و پێکەوە ئەنجامی بدەن."
+  - q: "چۆن وا بکەم کەسێک کە دیمێنسیای هەیە چالاکییەک دەست پێ بکات؟"
+    a: "هەموو شتێک ئامادە بکە، پاشان خۆت چالاکییەکە دەست پێ بکە و بانگهێشتی بکە بۆ یارمەتیدان: «دەتوانیت کەمێک یارمەتیم بدەیت لەگەڵ ئەم دەستمالانە؟» زۆر کەس دەیانەوێت بەشداری بکەن بەڵام دەستپێکردن بۆیان سەختە. پیشاندانی یەکەم هەنگاو زۆرجار باشتر لە ڕوونکردنەوە کاردەکات."
+  - q: "چی بکەم کاتێک بەردەوام هەمان شت دەکاتەوە؟"
+    a: "دووبارەکردنەوە زۆرجار بێزیانە و لەوانەیە نیشانەی ئەوە بێت کە کەسەکە دەیەوێت خۆی سەرقاڵ هەست بکات یان پێویستی بە دڵنەوایی هەیە. لەبری ڕاستکردنەوە، چالاکییەک پێشکەش بکە کە لەگەڵ جووڵەکەدا دەگونجێت، وەک سەبەتەیەک دەستمالی بچووک بۆ پێچانەوە یان گۆرانییەک بۆ پێکەوە گوتن."
+  - q: "چی بکەم ئەگەر چالاکییەکە بە هەڵە ئەنجام بدات؟"
+    a: "ئەگەر بێزیانە، وا بەجێی بهێڵە. پێچانەوەی دەستمال بە شێوەیەکی جیاواز یان دانانی کەوچک لە شوێنی هەڵە گرنگ نین. ڕاستکردنەوە لەوانەیە وەک ڕەخنە هەست پێ بکرێت، لەکاتێکدا ئەنجامدانی بە شێوازی خۆی وای لێدەکات هەست بە توانست و بەسوودبوون بکات."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+قۆناغی ناوەڕاستی دیمێنسیا زۆرجار درێژترین قۆناغە، و ئەو کاتەیە کە چالاکییەکان دەست دەکەن بە پێویستیان بە پشتگیریی ڕاستەقینە. وشەکان بە ئاسانی نایەن، هەنگاوەکان تێکەڵ دەبن، و دەستپێکردنی هەر شتێک لەوانەیە سەخت بێت. بەڵام خواستی بەسوودبوون و بەشداربوون زۆرجار دەمێنێتەوە. بە کەمێک ئامادەکاری، ئەو کەسەی لە قۆناغی ناوەڕاستدایە دەتوانێت هێشتا چێژ لە زۆر شت وەربگرێت، بە تایبەتی کارە ئاشناکانی ناوماڵ، مۆسیقا و وێنەکان کاتێک لە تەنیشت ئێوەدا ئەنجام دەدرێن.
 
-## What activities work well in middle-stage dementia?
+## چ چالاکییەکان لە قۆناغی ناوەڕاستی دیمێنسیا باش کاردەکەن؟
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+چالاکیی کورت، ئاشنا و کرداری کە دابەشکراون بۆ هەنگاوی تاک باشترینن. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) دەڵێت پێویست ناکات شتی نوێ داهێنیت بۆ ئەنجامدان: چالاکییەکان دەتوانن بەشێک بن لە ژیانی ڕۆژانە، وەک پێکەوە چێشت لێنان، باخەوانی، گوێگرتن لە مۆسیقا یان چوون بۆ پیاسە.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) تێبینی دەکات کە ئەو کەسانەی لەم قۆناغەدان زۆرجار پێویستیان بە هەستکردن بە مەبەست یان ئاگاداربوون لە شتێک هەیە، و پێویستیان بە یارمەتی هەیە بۆ دەستپێکردن یان بەردەوامبوون لە چالاکییەکان. لیستی قۆناغی ناوەڕاستی ئەوان دەستمال پێچانەوە، قاپ شتن، گۆرەوی جووتکردن، وەرزشە ئاسانەکان، سەماکردن لەگەڵ مۆسیقای ئاشنادا، پیاسەی بەڕێوەبراو، پێکەوە گۆرانی گوتن، وێنەکێشانی سادە و سەیرکردنی ئەلبوومی وێنە لەخۆدەگرێت.
 
-## How do you set up an activity so it works?
+## چۆن چالاکییەک ئامادە بکەیت تاکوو باش کار بکات؟
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+زۆربەی چالاکییەکان لە ئامادەکارییەکەدا سەرکەوتوو یان شکستخواردوو دەبن. ئەم ڕەفتارانە، کە لە [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) و [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) وەرگیراون، گەورەترین کاریگەریان هەیە:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **شوێنەکە پاک بکەوە.** تەلەفزیۆنەکە بکوژێنەوە، دەرگاکە دابخە و تەنها ئەو شتانە دابنێ کە چالاکییەکە پێویستی پێیەتی.
+2. **خۆت دەستی پێ بکە.** دەست بکە بە پێچانەوە یان تێکەڵکردن و بانگهێشتی بکە: «دەتوانیت لەمەدا یارمەتیم بدەیت؟»
+3. **پیشان بدە، پاشان چاوەڕێ بکە.** یەک هەنگاو پیشان بدە. ئاماژە بکە یان بە دەست ڕێنمایی بکە، بۆ نموونە پیشان بدە قاپەکە لە کوێ دانرێت.
+4. **هەنگاوێک لە یەک کاتدا بدە.** «لە نیوەوە بیپێچەوە» ئاسانترە لە «ئەمانە بپێچەوە و بەپێی ڕەنگ ڕێکیان بخە».
+5. **دوو هەڵبژاردە پێشکەش بکە، نەک پرسیاری کراوە.** «دەستمالە شینەکان یان سپییەکان؟» وەڵامدانەوەی ئاسانترە لە «دەتەوێت کامیان بکەیت؟»
+6. **بەشی سەخت خۆت ئەنجام بدە.** ئێوە دەپێون، ئەوان تێکەڵ دەکەن. ئێوە دەزوو تێدەکەن، ئەوان دەزووی پێ دەئاڵێنن.
+7. **هۆکارێکی بدێ.** «ئەم دەستمالە بچووکە بۆ نانی یەکشەممەیە» وای لێدەکات کارەکە ڕاستەقینە هەست پێ بکرێت.
+8. **ڕێگەی بدە سەیر بکات ئەگەر ویستی.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) تێبینی دەکات کە تەنها سەیرکردنیش لەوانەیە خۆش بێت.
 
-## Activity ideas for the middle stage
+## بیرۆکەی چالاکی بۆ قۆناغی ناوەڕاست
 
-### Useful jobs
+### کارە بەسوودەکان
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **دەستمال و دەستمالی بچووک پێچانەوە.** شتە بچووک و تەختەکان ئاسانترن. سەبەتەیەک دەستمالی بچووکی گەرم دەتوانرێت بپێچرێتەوە، ڕاست بکرێتەوە و دووبارە بپێچرێتەوە.
+- **گۆرەوی جووتکردن.** بە چەند جووتێکی زۆر جیاواز دەست پێ بکە. جیاکردنەوە تەنها بەپێی ڕەنگیش باشە.
+- **قاپی نەشکێنەر شتن یان وشککردنەوە.** ئاوی گەرم و سابوون بۆ دەست خۆشە. وشککردنەوە لەکاتێکدا دانیشتوویت بۆ قاچەکان ئاسانترە.
+- **ئامادەکردنی مێز.** لە یەک کاتدا یەک جۆر شت بدە، و یەک شوێن خۆت وەک نموونە ئامادە بکە.
+- **یارمەتیدان لە چێشت لێناندا.** شتنەوەی پەتاتە، دڕاندنی کاهوو یان تێکەڵکردنی قاپێک. ئێوە چاقۆ و گەرمی بەکار دەهێنن.
+- **گێسککردن، تۆزسڕینەوە یان پاککردنەوە.** قوماشێک بۆ مێزەکە، گێسکێکی سووک بۆ بەردەرگاکە.
 
-See [household tasks](/activities/household-tasks/) for many more.
+بۆ بیرۆکەی زیاتر سەیری [کارەکانی ناوماڵ](/activities/household-tasks/) بکە.
 
-### Music and movement
+### مۆسیقا و جووڵە
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **گۆرانییە دێرینە خۆشەکان بڵێن.** خۆت دەست بە گۆرانی گوتن بکە؛ زۆر کەس لەگەڵ ئەو گۆرانیانەدا دەبێژێن کە بۆ ساڵانێکی زۆر دەیانناسن. سەیری [چالاکییەکانی مۆسیقا](/activities/music/) بکە.
+- **بە ئازادی سەما بکەن.** هەڵبسوڕێنەوە، چەپڵە لێ بدەن یان بەو شێوەیە بجووڵێن کە خۆشە. دانیشتنیش باشە.
+- **باڵۆن بەیەکەوە هاوێژ بکەن.** بە هێواشی دەجووڵێت و لەسەر کورسییەوە بە ئاسانی دەگیرێت.
+- **پیاسەی بەڕێوەبراو بکەن.** پێکەوە پیاسەیەکی کورت و ئاشنا بکەن، ئەگەر یارمەتیدەر بێت قۆڵ لە قۆڵ.
 
-### Pictures and stories
+### وێنە و چیرۆک
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **سەیرکردنی ئەلبوومی وێنە.** لەبری پرسیارکردن، باسی ئەوە بکە کە دەیبینیت: «سەیری ئەو ئۆتۆمبێلە بکە. باسی بکە.» سەیری [چالاکییەکانی بیرەوەری](/activities/reminiscence/) بکە.
+- **کارتی گفتوگۆ بەکار بهێنە.** [Conversation cards](/games/conversation-cards/) وێنەیەک لەگەڵ داواکارییەکی کراوە و بێ تاقیکردنەوە تێکەڵ دەکات.
+- **پێکەوە فیلمێکی کۆن سەیر بکەن.** فیلمێکی ئاشنا هەڵبژێرە، لە نزیکەوە بمێنەوە و بۆ پشوو وەستێنە.
 
-### Simple, pressure-free games
+### یاریی سادە و بێ فشار
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Picture pairs لەگەڵ وێنە دیارەکان.** [Picture pairs](/games/picture-pairs/) ڕێگە دەدات وێنەکان دیار بمێننەوە، بۆیە سەرنجدانە نەک بیرخستنەوە.
+- **Find the same.** [Find the same](/games/find-the-same/) یەک وێنە و تەنها دوو تا چوار هەڵبژاردە پیشان دەدات.
+- **Sort together.** [Sort together](/games/sort-together/) وەک جیاکردنەوەی جل لەسەر شاشەیە: وێنەیەک دابگرە، پاشان سەبەتەکەی.
+- **Picture bingo.** [Picture bingo](/games/picture-bingo/) بۆ کۆبوونەوەی خێزان و گرووپەکان باش کاردەکات.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+ئەگەر یارییەک دەستی کرد بە دروستکردنی بێزاری، وەستە و شتێکی تر بکە. سەیری [چۆن پێکەوە یاری بکەین](/caregiving/how-to-play-together/) بکە.
 
-## Turning restlessness into an activity
+## گۆڕینی بێئارامی بۆ چالاکییەک
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+ڕەفتاری بێئارام یان دووبارەبووە زۆرجار هۆکارێکی هەیە. Family Caregiver Alliance ئاماژە بەوە دەکات کە کەسێک کە بەردەوام ناوەڕۆکی دولابێک دەکاتە دەرەوە لەوانەیە هەوڵ بدات پێویستییەکی خۆی بۆ سەرقاڵبوون و بەسوودبوون جێبەجێ بکات. Alzheimer's Association پێشنیار دەکات وزەی وا بگۆڕدرێت بۆ چالاکییەکی گونجاو، نەک ڕاوەستێنرێت.
 
-| What you see | Something to offer |
+| ئەوەی دەیبینیت | شتێک بۆ پێشکەشکردن |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| لێدانی مێز یان دەستدان لێی | قوماشێکی تەڕ و داواکردن بۆ سڕینەوەی مێزەکە |
+| قاچی بێئارام یان لێدان | مۆسیقایەک بە لێدانی ڕوون بۆ لێدان یان چەپڵە لێدان لەگەڵیدا |
+| بەتاڵکردنی چەکمەجە یان دولاب | سەبەتەیەک جل یان دەستمالی بچووک بۆ پێچانەوە و جیاکردنەوە |
+| دووبارەکردنەوەی هەمان پرسیار | دڵنەوایی، پاشان گۆرانییەک یان کارێک بۆ پێکەوە ئەنجامدان |
+| هاتووچۆکردن | پێکەوە پیاسەکردن، یان کارێک کە هەڵگرتنی شتی تێدایە |
+| نائارامی دوا نیوەڕۆ | ئەرکێکی ئارام و ئاشنا لە ڕووناکیی باشدا؛ سەیری [نائارامیی دوا ڕۆژ](/caregiving/late-day-restlessness/) بکە |
 
-## When to stop or change course
+## کەی وەستەین یان ڕێگا بگۆڕین
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+کاتێک نیشانەی ماندوو بوون، بێزاری، شەرمەزاری یان بێحەزی دەبینیت وەستە، وەک بێئارامی، تووڕەبوون، پاڵنان لە شتەکان یان گوتنی «ناتوانم». Alzheimer's Association پێشنیار دەکات لە کاتێکی جیاواز لە ڕۆژدا هەوڵ بدەیتەوە یان چالاکییەکە سادەتر بکەیت. ناچاری مەکە. ڕەتکردنەوە لەوانەیە لە ترس یان لەوە بێت کە ئەرکەکە زۆر سەختە؛ سەیری [کاتێک دەڵێن نەخێر](/caregiving/when-they-say-no/) بکە.
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+زوو کۆتایی پێهێنان باشە. تەنها پێکەوە دانیشتنیش باشە لەگەڵ کوپێک چادا. کاتێک تواناکان زیاتر دەگۆڕێن، لەوانەیە بیرۆکەکانی [چالاکییەکانی قۆناغی دواتر](/activities/late-stage/) زیاتر گونجاو بن، و [101 چالاکی](/activities/ideas/) بیرۆکەی زۆری تری تێدایە بۆ تاقیکردنەوە.

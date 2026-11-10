@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Çalakî û Lîstik ji bo Kesên bi Alzheimerê"
+seoTitle: "Çalakî û Lîstikên Alzheimerê: Li gorî Qonaxê"
+description: "Çalakî û lîstikên ji bo kesên bi Alzheimerê li her qonaxê, li ser jêhatî û bîranînên mayî ava dibin, bi lîstikên belaş ji bo lîstina bi hev re."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Çalakiyên baş ji bo kesekî bi Alzheimerê pişta xwe bi tiştên ku herî dirêj
+  dimînin didin: jêhatîyên ku demeke dirêj hatine kirin, stranên kevn, karên
+  rojane yên nas û hestan. Di destpêkê de, qert, lîstikên maseyê, xwarinçêkirin
+  û derketin bi gelemperî hê jî dikarin bibin. Di qonaxa navîn de, qatkirin,
+  rêzkirin, strankirin, albûmên wêneyan û lîstikên hêsan ên bi wêneyan biceribînin.
+  Di qonaxa dawî ya nexweşiyê de, muzîk, destdan û hebûna li kêleka wî/wê herî
+  girîng in. Li gorî rewşa kesê îro hilbijêrin.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer sedema herî berbelav a demansê ye, ji ber vê yekê ramanên çalakiyan ji bo demansê ji bo wê jî derbas dibin."
+  - "Agahiyên nû bi gelemperî pêşî herî dijwar in, lê jêhatî û stranên ku demeke dirêj berê hatine fêrbûn bi gelemperî dirêjtir dimînin. Pişta xwe bi wan bidin."
+  - "Qonax li hev dikevin û rojên baş û dijwar asayî ne. Li gorî tiştê ku kes îro dikare bike û jê kêfê bistîne hilbijêrin."
+  - "Lîstikên bê demjimêr, bê pûan û bê pirsîn hilbijêrin, û bihêlin wêne xuya bimînin."
+  - "Temaşekirin, girtina tiştekî an jî tenê rûniştina bi hev re jî beşdarî tê hesibandin."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Kîjan çalakî ji bo kesekî bi Alzheimerê baş in?"
+    a: "Çalakiyên nas ku hinekî hêsantir hatine kirin: qatkirina cilşûştinê, amadekirina maseyê, bi hev re xwarinçêkirin, muzîk û strankirin, mêzekirina wêneyan, meş, baxçevanî û dema bi heywanekî malê re. Lîstikên hêsan ên bi wêneyan, puzzle yên hêsan û qertên sohbetê jî ji bo gelek kesan guncaw in. Tiştê ku kes her dem jê hez kiriye hilbijêrin û wê bi hev re bikin."
+  - q: "Gelo lîstik ji bo kesên bi Alzheimerê baş in?"
+    a: "Ger kes jê kêfê bistîne, lîstik dikarin rêyek xweş bin ji bo derbaskirina demê bi hev re. Tu lîstikek nehatiye nîşandan ku Alzheimerê derman dike, hêdî dike an rawestîne, ji ber vê yekê lîstikan ji bo kêfê hilbijêrin: wêneyên mezin, bijarteyên kêm, û bê demjimêr, bê pûan an dengên bersiva şaş."
+  - q: "Gelo di navbera çalakiyên ji bo demansê û çalakiyên ji bo Alzheimerê de cudahî heye?"
+    a: "Bi gelemperî na. Nexweşiya Alzheimerê sedema herî berbelav a demansê ye, û heman ramanên çalakiyan tê de derbas dibin. Tiştê ku di Alzheimerê de alîkar dibe ew e ku meriv bizane bîranînên dawî bi gelemperî pêşî winda dibin, ji ber vê yekê çalakiyên ku li ser jêhatî, stran û rûtînên kevn hatine avakirin bi gelemperî baştir diçin."
+  - q: "Kesekî di qonaxa dawî ya Alzheimerê de hê jî dikare ji çi kêfê bistîne?"
+    a: "Muzîka bijare, masajeke nerm a destan, tiştên nerm ji bo girtinê, xwendina ji bo wî/wê, rûniştina li derve, û hebûna kesekî ku ew pê bawer e. Wê kurt û aram bihêlin, û li rû û laşê wî/wê mêze bikin da ku bibînin ji çi hez dike."
+  - q: "Ez çawa dikarim eleqeya kesekî bi Alzheimerê ji bo çalakiyekê zêde bikim?"
+    a: "Li şûna ku hûn çalakiyekê ragihînin, ji wî/wê alîkariyê bixwazin, her tiştî pêşî amade bikin, û bi xwe dest pê bikin da ku ew bikaribe beşdar bibe. Hilbijartina wextê rojê ku ew di rewşa xwe ya baştir de ye jî gelek alîkar dike. Ger ew bibêje na, paşê dîsa biceribînin an guhertoyeke piçûktir pêşkêş bikin."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ger kesekî ku hûn jê hez dikin bi Alzheimerê dijî, dibe ku we berê ferq kiriye ku hin tişt zû ji bîr diçin û hinên din dimînin. Dibe ku ew telefonî îro sibê ji bîr bike, lê hê jî hemû gotinên stranekê bibêje, destmalekê wekî berê qat bike, an bêyî ku bifikire qertan belav bike. Çalakiyên baş li ser van jêhatîyên mayî hatine avakirin. Ev rûpel rave dike çima, paşê ji bo her qonaxê ramanan dide û lîstikên belaş ên li ser vê malperê yên ku li gorî wan in destnîşan dike.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Ma Alzheimer ji bo çalakiyan ji demansê cuda ye?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ne pir. Demans têgeheke giştî ye, û nexweşiya Alzheimerê sedema wê ya herî berbelav e: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dibêje ku ew ji sedî 60 heta 80 ê bûyerên demansê pêk tîne. Hema hema her tiştê ku li ser çalakiyên ji bo demansê tê nivîsandin ji bo Alzheimerê jî derbas dibe, di nav de [101 ramanên çalakiyan](/activities/ideas/) ên me.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Zanîna rêza asayî ya guherînan bikêr e. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) rave dike ku Alzheimer pêşî zirarê dide beşên mejî yên ku bi bîrê ve girêdayî ne, û paşê bandorê li ziman, aqil û tevgera civakî dike. Alzheimer's Association dibêje ku nîşana destpêkê ya herî berbelav zehmetiya bîranîna agahiyên ku nû hatine fêrbûn e. Her kes cuda ye, û gelek kes sedemên tevlihev hene, lê ev şêwe alîkariya têgihîştina tiştên ku bi gelemperî baş dixebitin dike.
 
-## What kinds of activities suit Alzheimer's best?
+## Kîjan cure çalakî ji bo Alzheimerê herî guncaw in?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Çalakiyên ku pişta xwe bi zanîn û jêhatîyên kevn û baş-pratîkkirî didin bi gelemperî ji yên ku hewceyê fêrbûn û girtina tiştekî nû di bîrê de ne, hêsantir derbas dibin.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Jêhatîyên ku demeke dirêj hatine kirin.** Alzheimer's Association destnîşan dike ku kesek dibe ku hê jî bikaribe stranên hêsan ên ku sal berê li piyanoyê fêrbûye bilîze. Çîrokirin, şûştina darê, tevlihevkirina qertan, hevîrkirin û qatkirina cilşûştinê jî mîna vê ne.
+- **Stran û muzîka nas a kevn.** Gelek kes hê jî hemû gotinên stranên ji ciwanî û xortaniya xwe, ilahiyan û stranên dawetê dizanin. Binêrin [çalakiyên bi muzîkê](/activities/music/).
+- **Karên rojane yên bi armanc.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) şûştina firaqan, amadekirina maseyê, rêzkirina goreyan û qatkirina cilşûştinê wekî çalakiyên ku dibe ku kes jê kêfê bistînin navnîş dike. Hestkirina bikêrhatîbûnê girîng e.
+- **Naskirin li şûna bîranînê.** Nîşankirina wêneya guncaw ji bîranîna navê wê hêsantir e. Ji ber vê yekê lîstikên bi wêneyan ên ku her tişt xuya ye ji pirsên bîranînê çêtir dixebitin.
+- **Hest.** Destdan, bîn, germî, tam û deng piştî ku peyv dijwar dibin jî watedar dimînin. Binêrin [çalakiyên hestî](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Tiştên ku bi gelemperî kêmtir baş diçin: her tiştê ku demjimêr heye, qaîdeyên nû yên fêrbûnê, gelek gavên ku divê di bîrê de bimînin, an pirsên ku bîrê diceribînin, wekî «Tu dibîrî ev kî ye?» Ev tişt beşa dijwar a Alzheimerê tînin pêş.
 
-## Activities for early-stage Alzheimer's
+## Çalakî ji bo qonaxa destpêkê ya Alzheimerê
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Di qonaxa destpêkê de, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) dibêje ku kesek dibe ku hê jî ajotinê bike, bixebite û beşdarî çalakiyên civakî bibe, lê di heman demê de kêmasiyên bîrê wekî jibîrkirina peyvên nas an cihê tiştan ferq bike. Rêya herî baş hevkarî ye: ji wî/wê bipirsin ew dixwaze çi berdewam bike û dixwaze kîjan alîkariyê.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Xebatên hobî yên heyî berdewam bikin.** Golf, brîc, dirûtin, kor û komên dêrê, bi guherînên piçûk wekî komên piçûktir û demên bêdengtir.
+2. **Lîstikên qert û maseyê yên nas bilîzin.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ji bo qonaxa destpêkê trivia, peyv-dîtin, lîstikên qertê û lîstikên maseyê navnîş dike. Ger jimartina pûanan dest bi acizkirina wî/wê bike wekî tîmek bilîzin, an jî pûanan bi tevahî bavêjin.
+3. **Bi hev re xwarinê çêkin.** Bihêlin ew reçeteyeke ku ji bîrê dizane bi rê ve bibe, û hûn xwendina gavan li ser xwe bigirin.
+4. **Projeyekê çîroka jiyanê dest pê bikin.** Wêne, reçete û çîrok di albûmekê de ku ew rêberiya wê dike. Binêrin [çalakiyên bîranînê](/activities/reminiscence/).
+5. **Herin derve.** Xwarinxaneyeke bijare di demeke bêdeng de, serdaneke kurt ji muzeyê re, meşeke li parkê.
+6. **Puzzle yên ku ew hilbijêre biceribînin.** Peyvên xaç, peyv-lêgerîn û puzzle bi tîpên mezin. Binêrin [puzzle ji bo demansê](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Ramanên zêdetir: [çalakiyên qonaxa destpêkê](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Çalakî ji bo qonaxa navîn ya Alzheimerê
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association qonaxa navîn wekî qonaxa ku bi gelemperî herî dirêj e şirove dike, û dibêje ku dibe ku gelek salan bidome. Peyv tevlihev dibin, acizbûn hêsantir tê, û kes hewcedariya lênêrîneke zêdetir dibîne. Alzheimer's Foundation of America lê zêde dike ku gelek kes ji bo destpêkirin an berdewamkirina çalakiyan alîkariyê dixwazin. Rola we diguhere: amadekirin, nîşandan li şûna ravekirin, û girtina beşên dijwar li ser xwe.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Qat bikin, rêz bikin û li hev bînin.** Destmal, gore, amûrên maseyê, bişkok li gorî rengan. Karên rastîn, li kêleka hev.
+2. **Bi muzîkê re bêjin û bilivîn.** Çepikan lêxin, hejiqînin an jî di mitbaxê de reqs bikin. Bi xwe dest bi strankirinê bikin û bihêlin ew beşdar bibe.
+3. **Li albûmên wêneyan mêze bikin.** Tiştê ku hûn dibînin rave bikin û ji bo çîrokan vexwendin: «Çi erebeyek e. Ji min re behsa wê bike.» Li gorî navên ku ew bi kar tîne herin.
+4. **Lîstikên hêsan ên bi wêneyan bilîzin.** [Picture pairs](/games/picture-pairs/) bi çar heta şeş pêlikan û wêneyên xuya, an [Find the same](/games/find-the-same/) bi du an sê bijarteyan.
+5. **Gotinên pêşiyan temam bikin.** «Sêvekê rojê…» Gotinên ku demeke dirêj berê hatine fêrbûn bi gelemperî hêsan tên. [Finish the saying](/games/finish-the-saying/) biceribînin, ku hûn dikarin bi yek têkilî her dawiyekê nîşan bidin.
+6. **Riwekên nebatan av bidin û lênêrîna wan bikin.** Kulîlkên hundir an bexçeyeke bilind, bi avdankeke piçûk.
+7. **Ji wêneyên malbatê lîstikeke lihevhatinê çêkin.** [Photo pairs](/games/photo-pairs/) wêneyên ku hûn li ser cîhaza xwe hilbijêrin bi kar tîne, û ew tu carî jê dernakevin.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Ramanên zêdetir: [çalakiyên qonaxa navîn](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Çalakî ji bo qonaxa dawî ya Alzheimerê
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Di qonaxa dawî de, Alzheimer's Association dibêje ku kes şiyana bersivdana li hawîrdora xwe û domandina sohbetê winda dike, her çend dibe ku hê jî hin peyv an hevokan bibêje. Niha çalakî tê wateya rehetî û girêdanê, li cihê ku kes lê bêhnvedide.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Muzîka wî/wê ya bijare** bi dengekî nizm lê bidin, bêyî ku televîzyon pêşbaziyê bike.
+2. **Masajeke nerm a destan** bi losyoneke ku bînekî ku ew jê hez dike tê de heye bikin.
+3. **Tiştên nerm ji bo girtinê pêşkêş bikin:** betaniyeke germ, pembû, kevirekî xweşik.
+4. **Bi dengekî bilind bixwînin** zebûr, helbest an çîrokeke nas. Rîtim ji wateyê girîngtir e.
+5. **Li derve rûnin** li bin siyê, an li kêleka pencereyekê ku çivîk lê xuya dibin.
+6. **Li wêneyekî mezin bi hev re mêze bikin.** Gulberojek an kûçikek ku ekrana tabletekê tije dike, û hûn tiştê ku dibînin dibêjin.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Ramanên zêdetir: [çalakiyên qonaxa dawî](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Kîjan lîstik ji bo kesekî bi Alzheimerê guncaw in?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Lîstikên ku tê de tu tişt nikare bi ser nekeve hilbijêrin. Her lîstikek li ser vê malperê belaş e, di gerokê de dixebite û demjimêr, pûan an qeydkirin tune ye.
 
-| Game | What you do | Often suits |
+| Lîstik | Hûn çi dikin | Bi gelemperî guncaw e ji bo |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Wêneyên mezin li hev bînin; dikarin vekirî bimînin | Qonaxa destpêkê û navîn |
+| [Find the same](/games/find-the-same/) | Li wêneya ku li jorê ya wekhev e bitikînin | Qonaxa navîn û dawî, bi alîkariyê |
+| [Finish the saying](/games/finish-the-saying/) | Peyva dawî ya gotinekê nas hilbijêrin, an wê nîşan bidin | Qonaxa destpêkê û navîn |
+| [Picture puzzle](/games/picture-puzzle/) | 4 an 9 perçeyan biguherînin û vegerînin cihê xwe, bi wêneya xuya | Qonaxa destpêkê û navîn |
+| [Conversation cards](/games/conversation-cards/) | Wêneyek û daxwazeke vekirî ji bo sohbetê | Her qonax, bi kesekî ji bo sohbetê re |
+| [Photo pairs](/games/photo-pairs/) | Lîstikeke lihevhatinê ji wêneyên xwe çêkirî | Qonaxa destpêkê û navîn |
+| [Coloring](/games/coloring/) | Li rengekî bitikînin, paşê li beşekî wêneyê; an çap bikin | Her qonax, bi alîkariyê |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Ji bo ku hûn bizanin çawa bi hev re rûnin, çiqas alîkarî bikin û kengê rawestin, bixwînin [çawa bi kesekî ku demans heye re lîstikan bilîzin](/caregiving/how-to-play-together/). Ger hûn li ser «lîstikên bîrê» difikirin, binêrin [lîstikên bîrê ji bo mezinên bi demansê](/activities/memory-games/).
 
-## How to make any activity easier
+## Meriv çawa her çalakiyekê hêsantir dike
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Şîretên NIA di çend adetên hêsan de dicivin: çalakiyê li gorî tiştê ku kes dikare bike hilbijêrin, ji wî/wê re bibin alîkar ku dest pê bike, li acizbûnê mêze bikin, piştrast bikin ku ew xwe serkeftî hîs dike, û bihêlin ew tenê temaşe bike ger ew jê kêfê bistîne.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Wextê rojê ku ew di rewşa xwe ya baştir de ye hilbijêrin,** û danişînan kurt bihêlin.
+- **Her tiştî pêşî amade bikin** da ku hûn bikarin tavilê dest pê bikin.
+- **Vexwendin, ne ferman.** «Tu dikarî alîkariya min bikî?» ji «Wextê çalakiyê ye» çêtir dixebite.
+- **Gava yekem bi xwe bikin** û bihêlin ew beşdar bibe.
+- **Di carekê de gavek û bijarteyek pêşkêş bikin.**
+- **Bihêlin ew bi awayê xwe bike.** Destmalên xwar ne pirsgirêk e.
+- **Dema ku hê jî xweş e rawestin.** Zû qedandin encameke baş e, ne têkçûn. Ger ew red bike, binêrin [dema ku kesekî bi demansê dibêje na](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bi sade dibêje: li şûna serkeftinê, li ser kêfê bisekinin.

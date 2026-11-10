@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Demansa Dawî: Çalakî li Nivîn an Kursiyê"
+seoTitle: "Demansa Dawî: Çalakî li Nivîn û Kursiyê"
+description: "Ramanên nerm ji bo demansa qonaxa dawî, ji bo kesê li nivîn an kursiyê: muzîk, destdan, xwendina bi deng û bûna bi hev re, bi notên ewlehiyê."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Di qonaxa dawî ya demansê de, çalakî li ser hestan û li ser hebûna we disekinin:
+  lêdana muzîka bijare, girtina destan, masajeke hêdî ya destan, xwendina bi deng,
+  nihêrîna li wêneyan, dengên xwezayê û rûniştina li kêlekê pencereyê an li derve.
+  Ev ji bo kesê li nivîn an li ser kursiyê jî guncan in. Demên kurt bihêlin, ji bo
+  rehetiyê li rû, dest û nefesê temaşe bikin, û ji bîr nekin ku hebûna we bi xwe
+  jî çalakiyek e.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Girêdan hê jî gengaz e. Di qonaxa dawî de, cîhan bi piranî bi rêya hestan tê jiyîn."
+  - "Muzîk, destdana nerm, dengên nas û tiştên nerm ji bo girtinê gelek caran digihîjin mirovan dema ku peyv nema dibin alîkar."
+  - "Hema hema her ramanek li vir ji bo kesê li nivîn an li ser kursiyê guncan e."
+  - "Li rû, dest û nefesê ji bo rehetiyê an nerehetiyê temaşe bikin, û bi her nîşaneke tengasiya rawestin."
+  - "Ji tiştên biçûk dûr bisekinin û xwarin an vexwarinê tenê wekî ku tîma lênêrînê şîret dike pêşkêş bikin, ji ber ku daqurtandin dibe ku ne ewle bibe."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Hûn dikarin bi kesek ku demansa wî ya qonaxa dawî heye û li nivînê ye çi çalakiyan bikin?"
+    a: "Muzîka wî ya bijare lê bidin, destê wî bigirin, bi losyonekê masajeke hêdî ya destan bikin, ji pirtûkek an duayek ku ew jê hez dike bi dengekî bilind bixwînin, wêneyan nîşan bidin, an dengên nerm ên xwezayê lê bidin. Perdeyan vekin da ku ew karibe li derve binêre. Demên kurt û aram, bi carekê tenê yek tişt, bi piranî baştir encam didin."
+  - q: "Gelo kesên ku demansa wan a qonaxa dawî heye hê jî dikarin ji muzîkê kêfê bistînin?"
+    a: "Gelek kes dikarin. Alzheimer’s Association dibêje ku heta di qonaxa dawî de jî, dibe ku kesek bikaribe li gorî rîtmekê bitikîne an bi stranekê ji zaroktiya xwe re bêje. Muzîka ku ew di ciwaniya xwe de jê hez dikir hilbijêrin û deng nizm bihêlin."
+  - q: "Ez çawa dizanim ku ew ji çalakiyê kêfxweş dibe?"
+    a: "Li nîşanên biçûk temaşe bikin: milên rihet, rûyek nermtir, têkiliya çavan, hummkirin, guvaşek destê an nefeseke hêdîtir. Rûçikandin, xwe kişandin, bêaramî an nalîn dibe ku nîşana nerehetî an êşê bin. Heke hûn van bibînin, rawestin û heke berdewam bin ji tîma lênêrînê re bibêjin."
+  - q: "Gelo hêja ye ku ez serdanê bikim heke ew êdî min nas neke?"
+    a: "Erê. National Institute on Aging dibêje ku tenê hebûna we dibe ku aramker be, û ku destdan, muzîk û çîrok hê jî dikarin di demansa pêşketî de rehetiyê peyda bikin. Deng û destê we dibe ku nas bimînin tevî ku navê we neyê bîranîn."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Di qonaxa dawî ya demansê de, dibe ku kesek pir kêm biaxive, ji bo hemû lênêrîna rojane alîkariyê hewce bike û piraniya rojê li nivîn an li ser kursiyê derbas bike. Dibe ku wisa xuya bike ku êdî tiştek nema ku hûn bi hev re bikin. Lê heye. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) dibêje ku dibe ku beşek bingehîn ji kesayetiya kesê bimîne, û ku di vê qonaxê de cîhan bi piranî bi rêya hestan tê jiyîn. Muzîk, destdan, dengekî nas û hebûna we ya aram hê jî dikarin rehetiyê û demên girêdanê bînin.
 
-## What activities help in late-stage dementia?
+## Di demansa qonaxa dawî de kîjan çalakî dibin alîkar?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Di qonaxa dawî de, çalakiyên hestî yên sade û hebûna bêdeng bi piranî herî zêde dibin alîkar. Alzheimer’s Association pêşniyar dike ku muzîka bijare were lêdan, beşên ji pirtûkên watedar werin xwendin, bi losyonekê bi bêhnek bijare masaja çerm were kirin, û bi hev re li derve, di rojekê xweş de, were rûniştin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) jî çîrok gotin, nîşandana wêneyan, destdana nerm an masaj, û muzîk, dengê spî an dengên xwezayê lê zêde dike, û dibêje ku tenê hebûna we jî dibe ku aramker be.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) dibêje ku kesên di qonaxa dawî de gelek caran hewcedariya wan a bihêz heye ku ji bo rehetiyê tiştekî nêzîkê xwe bigirin, û çalakiyên hestî yên sade, dirêjkirinên nerm, tevgera bi şalê, muzîk, serdanên heywanan, destdana mirovan û hunera azad pêşniyar dike.
 
-## Activities for someone in bed or a chair
+## Çalakî ji bo kesê li nivîn an li ser kursiyê
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Muzîka wî lê bidin.** Stranên ji salên ciwaniya wî, ji baweriya wî an ji malbata wî hilbijêrin. Deng nizm bihêlin û nêzîk rûnin. Heta niha jî, hin kes bi tiliyekê ditikînin an humm dikin. Binêrin [çalakiyên muzîkê](/activities/music/).
+2. **Destê wî bigirin.** Tenê girtina destekî, bi hejandineke nerm a tiliya mezin, bi xwe çalakiyek e. Berî ku dest bidin, bêjin ka hûn çi dikin.
+3. **Masajeke hêdî ya destan bikin.** Di nav lepên xwe de hinek losyon germ bikin û ji çokê destê heta serê tiliyên bihejînin. Losyona bêbêhn hilbijêrin, an jî bêhnek ku ew her dem jê hez dikir heke çermê wî li ber xwe bide.
+4. **Bi deng bixwînin.** Helbestek bijare, beşek ji pirtûkek pir hezkirî, nivîsek olî an rûpela werzîşê. Rîtma dengê we ji peyvan girîngtir e.
+5. **Çîrokekê bibêjin.** Derbarê gerê malbatê an roja zewaca wan biaxivin. Ne hewce ye ku bersiv werin.
+6. **Wêneyan nîşan bidin.** Carekê tenê wêneyekî mezin di asta çavan de bigirin û bi germî şirove bikin. Nepirsin ka di wêneyê de kî heye.
+7. **Tiştekî nerm ji bo girtinê pêşkêş bikin.** Destmaleke paqijkirinê ya qatkirî, çarçikek fleece an heywanekî nerm. NIA pêşniyar dike ku dema kes tê guheztin, destmalekê bidin wî da ku bigire, da ku ew kêmtir bixwaze we an mobîlyayan bigire.
+8. **Dengên xwezayê lê bidin.** Dengê baranê, pêlan an çivîkan bi dengekî nizm dibe ku jûreyeke bi deng aram bike.
+9. **Derva bînin hundir.** Perdeyan vekin, li derveyî pencereyê cihê xwarina çivîkan danînin, an jî çend kulîlk an pelên teze bînin hundir da ku li wan binêre û dest lê bide.
+10. **Herin derve.** Heke kes dikare li ser kursiya bi teker rûnê, çend deqeyên di bin siyê de di rojekê nerm de dikarin xweş bin.
+11. **Porê wî bihejînin an destmaleke germ pêşkêş bikin.** Lênêrîna hêdî û nerm û destmaleke germ ji bo dest û rû dikare xwe wekî lênêrînê hîs bide.
+12. **Bi muzîkê re hêdî tevbigerin.** Bi hev re şalekî sivik bihejînin, an destan li gorî stranekê bihejînin. Ji bo dirêjkirin û tevgera movikan, pêşî ji fîzyoterapîstek an hemşîrekê bixwazin ku rêyên ewle nîşanî we bide.
+13. **Hunera azad bikin.** Bi sponsorek an destekê, bi rêberiya destê we, boyaxa ne-jehrîn li ser kaxezeke mezin belav bikin. Encam ne hewce ye ku rast be.
+14. **Serdanên heywanan bi xêr hatinê bibêjin.** Heywanekî aram li ser nivînê an di hembêzê de, heke kes ji heywanan hez dikir û şertên cihê destûr didin.
+15. **Bi hev re hêdî nefesê bistînin.** Nêzîk rûnin û hêdî û bi dengekî eşkere nefesê bistînin. [Nefesa aram](/games/calm-breathing/) dikare ji we herduyan re rê bide, û hûn dest pê dikin û diqedînin.
+16. **Tenê li wir bin.** Li nêzîk rûnin, humm bikin, bi destan bixebitin an bêdeng bixwînin. Hebûna we bes e.
 
-## How to share an activity at this stage
+## Di vê qonaxê de çawa çalakiyekê bi hev re bikin
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Ji pêş ve nêzîk bibin.** Navê wî û navê xwe bibêjin, û berî ku dest bidin hêdî û nerm biaxivin.
+- **Carekê tenê yek tişt pêşkêş bikin.** Berî lêdana muzîkê televîzyonê vemirînin. Carekê tenê yek hest.
+- **Kurt bihêlin.** Dibe ku çend deqe bes bin. Gelek demên kurt di nav rojê de ji yek rûniştina dirêj baştir in.
+- **Pêşî rehetiyê peyda bikin.** Kontrol bikin ku kes baş piştgirî ye. NIA pêşniyar dike ku dema rûniştî ye, tabloyeke hembêzê ji bo piştgiriya milan û laşê jorîn were bikaranîn.
+- **Li bersivê temaşe bikin.** Destên rihet, rûyek nermtir, têkiliya çavan an hummkirin rehetiyê nîşan didin. NIA dibêje ku nalîn, rûçikandin, parastina beşekî ji laş an bêaramiya ji nişka ve dibe ku nîşanên êşê bin. Rawestin, û ji tîma lênêrînê re bibêjin.
 
-## A quick guide by sense
+## Rêberek kurt li gorî hestan
 
-| Sense | Ideas | Take care |
+| Hest | Raman | Bala xwe bidinê |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Guhdarî | Muzîka bijare, dengê we dema dixwînin, dengên xwezayê | Deng nizm bihêlin; carekê tenê yek deng |
+| Destdan | Masaja destan, girtina destan, qumaşê nerm, destmaleke germ | Pêşî bixwazin an agahdar bikin; kontrol bikin ku çerm birîndar an şikestî nebe |
+| Dîtin | Wêne, kulîlk, dîmena ji pencereyê, vîdyoyeke hêdî ya xwezayê | Tiştan di asta çavan de bigirin; ronahiya baş, bê biriqîn |
+| Bêhn | Losyonek bijare, kulîlkên teze, bêhna qehweyê li nêzîkê | Ji bêhnên zêde dûr bisekinin; alerjî û nefesê kontrol bikin |
+| Tam | Tamê biçûk ji tamê bijare | Tenê xwarin û tevnên ku tîma lênêrînê dibêje ewle ne |
 
-## Safety at this stage
+## Ewlehî di vê qonaxê de
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Di qonaxa dawî de daqurtandin dikare dijwar bibe, û NIA hişyar dike ku ev rîska xeniqînê zêde dike. Tiştên biçûk di destgehê de nehêlin, û xwarin an vexwarinê tenê bi tevn û di rewşên ku tîma lênêrînê pêşniyar dike pêşkêş bikin. Di dema çalakiyên destdanê de çermê bi nermî kontrol bikin, ji ber ku çerm dikare bi hêsanî çirîk an birîndar bibe. Ji bo bêtir li ser ramanên hestî yên ewle, binêrin [çalakiyên hestî](/activities/sensory/).
 
-## Looking after yourself too
+## Li xwe jî miqate bin
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Lênêrîna di qonaxa dawî de ji aliyê laşî û hestyarî ve daxwazkar e, çi li malê be çi di dema serdanên li maleke lênêrînê de. Tîmên lênêrîna hospice û palyatîf dikarin bi rehetiyê, piştgirî û plansaziyê re bibin alîkar, û NIA wan wekî çavkaniyeke alîkariyê navnîş dike. Serdanên kurt û aram hêja ne; binêrin [serdana kesek ku bi demansê dijî](/activities/visiting/). Heke hûn koman rêve dibin, [çalakiyên komî yên li mala lênêrînê](/activities/care-home-groups/) ji bo guncandina rûniştinan ramanan dihewîne. Û ji kerema xwe bixwînin [lênêrîna kesane ya lênihêrker](/caregiving/caregiver-self-care/): bêhnvedan beşek ji lênêrîna baş e.

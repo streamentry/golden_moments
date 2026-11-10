@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Çalakî ji bo qonaxa destpêkê ya demansê"
+seoTitle: "Çalakî ji bo qonaxa destpêkê ya demansê"
+description: "Ramanên çalakiyê ji bo qonaxa destpêkê ya demansê: hobî, lîstik, derketin, nivîsandin û plansazkirina bi hev re, bi guherînên piçûk ku kêf û kontrol di destê wî kesî de bimîne."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Di qonaxa destpêkê ya demansê de, pir kes dikarin tiştên ku jê hez dikin
+  bidomînin: hobî, lîstikên qert û maseyê, xwarinçêkirin, baxçevanî, meşe,
+  kom, çalakiyên baweriyê û xwebexşî. Guherînên sereke bi gelemperî komên
+  piçûktir, derketinên kurttir, planên nivîskî yên hêsan û hebûna hevjînekî li
+  cem wî ne. Ji kesî bipirsin ka çi alîkariyê dixwaze, û bihêlin ku ew rêberiyê bike.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Pir kesên di qonaxa destpêkê de bi awayekî serbixwe dijîn. Bi gelemperî çalakî hewceyê guherandinê ne, ne guhertinê."
+  - "Ji kesî bipirsin ka çi piştgiriyê dixwaze, û li ser nîşanek hêsan li hev bikin ku dema alîkarî bixwaze nîşan bide."
+  - "Komên piçûktir, demên bêdengtir û derketinên kurttir pir caran cudahiyeke mezin çêdikin."
+  - "Ev demeke baş e ku kes bixwe projeyên derbarê jiyana xwe de bimeşîne, wek rojnameyek an pirtûkeke çîroka jiyanê."
+  - "Lîstikan ji bo kêfê hilbijêrin. Tiştên ku wek ceribandinê hîs didin, bila bimînin."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Ji bo qonaxa destpêkê ya demansê kîjan çalakî baş in?"
+    a: "Bi gelemperî heman çalakiyên ku kes berê jê hez dikir: qert, lîstikên maseyê, xwarinçêkirin, baxçevanî, meşe, muzîk, çalakiyên baweriyê, kom û xwebexşî. Dibe ku hewce be wan kurttir, bêdengtir an hêsantir bikin. Nivîsandina rojnameyê, nivîsandina nameyan û çêkirina pirtûkeke çîroka jiyanê jî ji bo vê qonaxê guncan in."
+  - q: "Ez çawa dikarim alîkariyê bikim bêyî ku kontrolê bigirim destê xwe?"
+    a: "Bipirsin ka kes çi cure alîkariyê dixwaze, û pir caran kontrol bikin. Li ser peyvek an serhejandinekê li hev bikin ku tê wateya baş e ku hûn têkevinê, mînak dema peyvek an navek nayê bîra wî. Ger metirsiyek ewlehiyê tune be, bihêlin ku ew bi awayê xwe bike, her çend dirêjtir jî bibe."
+  - q: "Gelo kesek bi demansa destpêkê divê çalakiyên nû biceribîne?"
+    a: "Erê, ger bixwaze. Hobiyên nas bi gelemperî hêsantir in, lê gelek kes ji tiştekî nû jî kêfê digirin, wek komeke meşê ya li gorî demansê, derseke hunerê an komeke stranbêjiyê. Bê zext carekê biceribînin û bibînin ka çawa hîs dide."
+  - q: "Gelo sepanên lîstikên mêjî di qonaxa destpêkê de bi kêr tên?"
+    a: "Hin kes ji puzzle û lîstikên peyvan kêfê digirin, û ev kêf bi xwe sedemek têr e. Tu sepan an lîstikek nehatiye nîşandan ku demansê derman dike, hêdî dike an rawestîne. Ger lîstikek bibe sedema stresê an kes hîs bike ku têk diçe, wê deynin aliyekî."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Di qonaxa destpêkê ya demansê de, gelek kes hîn jî piraniya rojên xwe wek berê dijîn. Dibe ku bixebitin, xwebexşiyê bikin, hevalên xwe bibînin û gelek karên rojane bi xwe bikin. Bi gelemperî ne hewce ye ku çalakî bên guhertin; tenê çend guherînên piçûk lazim in da ku ew xweş bimînin. Rola we nêzîktirê hevjînekê ye ji kesekî ku lênêrînê dike: kesek ku piştgiriyê dide, bi wî re plan dike û tenê dema tê xwestin têkeve.
 
-## What activities are good in early-stage dementia?
+## Di qonaxa destpêkê ya demansê de kîjan çalakî baş in?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Di qonaxa destpêkê de, baştirîn çalakî bi gelemperî heman tiştên ku kes jixwe jê hez dike ne, tenê hinekî hêsantir hatine kirin. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ramanan wek lîstikên qert û maseyê, peyvdîtin, meşe, dans, baxçevanî, rêzkirina kulîlkan, çîrokbêjî, wênekêşî, muzîk, nivîsandina rojnameyê, nivîsandina nameyan, çêkirina albûmê, xwarinçêkirin û kevneşopiyên cejnê navnîş dike.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Pir caran ne çalakî, lê cih û şert diguherin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dibêje ku kesên di qonaxa destpêkê de dibe ku ji tiştên ku berê jê hez dikirin hinekî paşde vekişin, û mînaka kesekî dide ku di partiyeke mezin de zêde tê barkirin lê di komeke piçûk de xwe baştir hîs dike. Bi awayekî vekirî li ser tiştên ku dijwartir bûne biaxivin, û bi hev re wan biguherînin.
 
-## Ask first, and agree on how to help
+## Pêşî bipirsin, û li hev bikin ka çawa alîkariyê bikin
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Rêbernameya qonaxa destpêkê ya Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) çend adetên ku ji bo çalakiyan jî guncan in pêşniyar dike:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Rasterast bipirsin.** “Çi dikare klûba pirtûkan ji te re hêsantir bike?” ji texmînkirinê bersivek çêtir dide.
+- **Bawer bikin ku dikare.** Ger metirsiyek ewlehiyê tune be, bihêlin kes biceribîne, û li şûna ku kontrolê bigirin destê xwe, wî teşwîq bikin.
+- **Li ser nîşanekê li hev bikin.** Peyvek an serhejandinekê hilbijêrin ku tê wateya “baş e ku tu têkevî,” mînak dema navek di dema lîstikeke qertê de nayê bîra wî.
+- **Bi rêkûpêk kontrol bikin.** Bipirsin ka asta alîkariyê guncan e, zêde ye an kêm e.
 
-## Activity ideas for the early stage
+## Ramanên çalakiyê ji bo qonaxa destpêkê
 
-### Keep up roles and hobbies
+### Berdewamkirina rol û hobiyan
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Bernameyeke rêkûpêk biparêzin.** Guherîna xwebexşiya heftane, kor an klûbekê dide hefteyê avahiyek. Ger stresdar bibe, dibe ku rolek kurttir an bêdengtir çêtir be.
+- **Bi hev re xwarinan plan bikin.** Ger kirîna li firoşgehê acizker bûye, Alzheimer's Association pêşniyar dike ku ji kesî bixwazin alîkariya plansazkirina menuya hefteyê bike û lîsteyê binivîse.
+- **Xwarinçêkirin û pijandin.** Reçeteyeke bijare bi hev re bişopînin. Berî ku dest pê bikin, malzemeyan li gor rêzê amade bikin, da ku gavan bi zelalî bên dîtin.
+- **Baxçevanî.** Beşekê plan bikin, tov an nebatan hilbijêrin û karê bi hev re bikin. Lîsteyeke nivîskî ya karên baxçê yên hefteyê dibe alîkar.
+- **Hunerên destan bidomînin.** Daristanî, dirûtin, çîmentin an çêkirina modelan dikarin bi qalibên hêsantir û ronahiya baş bidomin.
 
-### Games for enjoyment
+### Lîstikên ji bo kêfê
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Lîstikên qert û maseyê bilîzin.** Lîstikên nas hêsantir in. Wek tîm bilîzin da ku tu kes di bin zextê de nemîne, û pûanan bi sivikî bihesibînin an jî qet nehesibînin.
+- **Peyvdîtineke bi tîpên mezin biceribînin.** [Peyvdîtina me](/games/word-search/) dikare li ser ekranê were lîstin an jî ji bo demeke aram were çapkirin.
+- **Puzzle bikin.** Hejmara perçeyan wisa hilbijêrin ku aramker be, ne dijwar. [Puzzleya wêneyê](/games/picture-puzzle/) guhertoyeke kurt a li ser ekranê ye, û rêbernameya me ya [puzzleyên ji bo demansê](/activities/puzzles/) li ser hilbijartinê alîkariyê dike.
+- **Ji bo kêfê beşdarî quîzê bibin.** Hin kes ji şeva quîzê ya tîmî kêfê digirin. Ger wek ceribandinê hîs bide, tiştekî din hilbijêrin, an [pirsên quîzê yên hêsan](/activities/trivia/) biceribînin, ku bi vebijarkên bersivê û bê pûan tên.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Li vir lîstik ji bo kêfê ne. Tu lîstikek nehatiye nîşandan ku demansê derman dike an hêdî dike; bêtir li [lîstikên mêjî: lêkolîn çi dibêjin](/brain-health/brain-games/) bixwînin.
 
-### Write, reflect and record
+### Nivîsandin, bîranîn û tomarkirin
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Rojnameyekê bihêlin.** Alzheimer's Association nivîsandina rojnameyê wek rêyek ji bo rûbirûbûna hestan piştî teşxîsekê pêşniyar dike. Her roj çend rêz bes in.
+- **Pirtûkeke çîroka jiyanê bi rê ve bibin.** Qonaxa destpêkê demeke baş e ku kes bixwe wêneyên xwe hilbijêre û çîrokên li pişt wan binivîse an bêje. Binêrin [çalakiyên bîranînê](/activities/reminiscence/).
+- **Nameyan binivîsin.** Nameyek ji neviyekî, hevalekî kevn an hevkarekî berê re dikare ji bo her du aliyan watedar be.
+- **Li ser wêneyan biaxivin.** [Cotên wêneyan](/games/photo-pairs/) wêneyên malbatê vediguherîne lîstikeke nerm a lihevhatinê, û [kartên axaftinê](/games/conversation-cards/) xalên destpêkê yên hêsan ji bo sohbetê didin.
 
-### Go out and move
+### Derketin û tevger
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pêşniyar dike ku derketinên nas heta ku hûn her du jî rehet in berdewam bikin. Wan ji bo dema baştirîn a rojê ya kesî plan bikin û nehêlin pir dirêj bibin.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Serdanên kurt ên çandî.** Muzexane, fîlmekê nîvro an pêşangeheke hunerî, bi tercîh di demeke bêdengtir de.
+- **Avjenî.** NIA hewzeke avjeniyê di demeke aram a rojê de pêşniyar dike.
+- **Komên meşê û dersên dansê.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dans, tai chi, yoga, avjenî û komên meşê, û heke hebin danişînên li gorî demansê dibêje.
+- **Komên stranbêjiyê û kafeyên bîranînê.** Komên aram ku kesên ku bi demansê dijîn û hevjînên wan dikarin kesên din ên di rewşeke wekhev de bibînin.
 
-## Small changes that keep activities enjoyable
+## Guherînên piçûk ku çalakiyan xweş dihêlin
 
-| If this is getting harder | Try this |
+| Ger ev dijwartir bûye | Vê biceribînin |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Cihên qelebalix an bi deng | Di demên bêdeng de biçin, komên piçûktir hilbijêrin, li kêlekê rûnin |
+| Bîranîna navên nû | Her carê kesan bi navê wan bidin nasîn; ji koman bixwazin ku kartên navê bikar bînin |
+| Şopandina planên bi gelek gavan | Gavan binivîsin, an berî destpêkirinê her tiştî li gor rêzê deyînin |
+| Westandin | Derketinên kurttir, piştî wê bêhnvedanek, wê rojê tiştekî din neplan bikin |
+| Şopandina lîstikekê | Wek tîm bilîzin, rêzikan hêsan bikin, an pûanan nehêlin |
+| Dîtina peyvan | Dem bidin; tenê heke nîşana ku we li ser li hev kiriye bêje, peyvekê pêşniyar bikin |
 
-## When to slow down
+## Kengê hêdî bikin
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Dema çalakiyek ji kêfê bêtir stresê tîne, wê rawestînin an biguherînin. Acizbûna dubare, dûrketina ji hobiyekê an gotina “ez nikarim” hêjayî axaftineke nerm in, ne zorkirinê. Pir caran bersiv guhertoyeke piçûktir a heman tiştî ye. Dema kes ji bo destpêkirin û şopandina gavan bêtir alîkariyê dixwaze, dibe ku ramanên di [çalakiyên qonaxa navîn](/activities/middle-stage/) çêtir li gorî wî bin. Ji bo bêtir agahdarî li ser axaftina piştgirîker, binêrin [şîretên ragihandinê](/caregiving/communication-tips/), û ji bo gelek ramanên din, binêrin [101 çalakî](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Hevjînan jî piştgiriyê hewce dikin. Qonaxa destpêkê demeke baş e ku hûn ji bo xwe jî tora alîkariyê ava bikin; binêrin [xwe-lênêrîna ji bo kesên ku lênêrînê dikin](/caregiving/caregiver-self-care/).

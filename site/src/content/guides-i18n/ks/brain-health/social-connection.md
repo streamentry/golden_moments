@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "سماجی رٲبطہٕ تہٕ دماغی صحت: اکیلاپن، الگ تھاون تہٕ ڈیمینشیا"
+seoTitle: "اکیلاپن، سماجی الگ تھاون تہٕ ڈیمینشیا ہُند خطرہ"
+description: "اکیلاپن تہٕ سماجی الگ تھاون چھِ ڈیمینشیا ہٕندِس خطرس سٟتؠ کِتھہٕ کَنؠ جُڈِتھ، Surgeon General ہٕند مشورہ کیاہ اوس، تہٕ رٲبطہٕ برقرار تھاونٕکؠ سادٕ طریقہ۔"
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  تحقیق چھِ ونان زِ بڈِ وٲنسؠ منز سماجی الگ تھاون تہٕ اکیلاپن چھِ ڈیمینشیا ہُند خطرہ زیادٕ آسنس سٟتؠ جُڈِتھ۔
+  2024 Lancet Commission چھِ اندازٕ کران زِ لگ بھگ 5٪ معاملاتن ہُند تعلق چھِ الگ تھاونس سٟتؠ، اگرچہ کینہہ حِصہٕ
+  گٔژھِتھ ڈیمینشیا ہٕندِ شروعاتی دورُک آسُن یِتھ منز لُکھ الگ گژھان چھِ۔ رٲبطہٕ تھاون، سٟتؠی مشغلہٕ تہٕ بوزن
+  یا أچھن منز مدد چھِ رٲبطس منز یأری کران۔ تِمن لُکن ہٕندِ خٲطرٕ یِم ڈیمینشیا سٟتؠ زندٕگی گزاران چھِ، چھِ
+  سٟتؠی سرگرمی زندگی ہٕندِ معیارٕ خٲطرٕ اَہَم؛ مقصد چھِ رٲبطہٕ، نَہ کہ کارکردگی۔
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet Commission چھِ بڈِ وٲنسؠ منز سماجی الگ تھاون ڈیمینشیا ہٕندین 14 تبدیل کرنہٕ یِن والین خطرٕ عاملن منز شأمِل کران، یُس لگ بھگ 5٪ معاملاتن سٟتؠ جُڈِتھ چھُ۔"
+  - "امریکی Surgeon General ہٕند 2023 ہُک مشورہ چھِ ونان زِ بُجر لُکن منز مُستقِل اکیلاپن تہٕ الگ تھاون چھِ ڈیمینشیا ہُند خطرہ لگ بھگ 50٪ زیادٕ کران۔"
+  - "یِہ زیادٕ تر ثبوت چھُ مشاہدٲتی، تہٕ شروعاتی ڈیمینشیا ہٕندیو تبدیلیو ہٕندِ وجہ سٟتؠ تہِ ہیکن لُکھ الگ گٔژھِتھ۔"
+  - "بوزن یا أچھن ہٕنز مشکل، اکیلے روزُن تہٕ تیماردٲری چھِ الگ تھاونُک خطرہ زیادٕ کران۔"
+  - "تِمن لُکن ہٕندِ خٲطرٕ یِم ڈیمینشیا سٟتؠ زندٕگی گزاران چھِ، چھِ مزٕ دار سٟتؠی سرگرمی زندگی ہٕندِ معیارس منز یأری کران؛ مقصد چھِ رٲبطہٕ، نَہ کہ کارکردگی۔"
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "کیاہ اکیلاپن چھا ڈیمینشیا پٲدٕ کران؟"
+    a: "یہ چھُنہٕ ثٲبت۔ واریاہن تحقیقن چھِ اکیلاپن تہٕ الگ تھاون ڈیمینشیا ہٕندِس زیادٕ خطرس سٟتؠ جُڈِتھ، مگر دماغٕچ شروعاتی تبدیلی تہِ ہیکہِ لُکن باقین نِشہِ دوٗر کرِتھ۔ رٲبطہٕ تھاونٕک چھِ مِزاجس تہٕ صحتس واریاہ باقؠ فٲیدٕ، تِمَو وجہ سٟتؠ چھُ یہ ہر صوٗرتس منز قٲبِلِ حمایت۔"
+  - q: "اکیلاپن تہٕ سماجی الگ تھاونس منز کیاہ فرق چھُ؟"
+    a: "سماجی الگ تھاونُک مطلب چھُ باقاعدگی سان میلناو کرنہٕ خٲطرٕ کم لُکھ آسُن۔ اکیلاپن چھُ اکیلے یا کٹوٗتھ محسوس کرنُک دگدار احساس۔ اکھ شخص ہیکہِ اکیلے روزِتھ تہِ اکیلاپن محسوس نہ کٔرِتھ، یا واریاہن لُکن درمیان روزِتھ تہِ اکیلاپن محسوس کٔرِتھ۔"
+  - q: "بہٕ کِتھہٕ کَنؠ ہیکہٕ پننِس ڈیمینشیا سٟتؠ زندٕگی گزارن والِس مٲلِس بُڈِببس رٲبطس منز روزنس منز مدد کٔرِتھ؟"
+    a: "مختصر، باقاعدٕ رٲبطہٕ چھُ اکثر کارگر آسان۔ ہفتٕ وار مقرر کال یا ویڈیو چیٹ، کچنس منز سٟتؠی سرگرمی، میموری کیفے، یا کُنہِ پالتو جانورس یا نَوِس نِیاس سٟتؠ ملاقات کٔرِو کوٗشش۔ گروپ تھٲوِو لۄکچار تہٕ پرسکون، تہٕ تُہندِس عزیزس دِیِو پننِس رفتارِ مُطٲبِق چلنُک موقہٕ۔"
+  - q: "اکِس الگ روزن والِس بُجرس خٲطرٕ مقامی مدد مے کَتہِ مِلہِ؟"
+    a: "Eldercare Locator، اکھ عوامی خِدمَت، چھِ خاندانہٕ مقامی ایجنسیَن ہٕندِس بوڈِنس تہٕ کمیونٹی پروگرامَن سٟتؠ جوڑان۔ اَتھ پؠٹھ ہیکہِو 800-677-1116 پؠٹھ یا eldercare.acl.gov پؠٹھ رٲبطہٕ کٔرِتھ۔"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+لُکھ چھِ ساتھس خٲطرٕ بَناونہٕ آمٕت، تہٕ وٲنسی سٟتؠ چھُنہٕ یہ بدلِان۔ تحقیق چھِ ونان زِ بڈِ وٲنسؠ منز اکیلاپن تہٕ سماجی الگ تھاون چھِ ڈیمینشیا ہٕندِس زیادٕ خطرس سٟتؠ جُڈِتھ، تِتھے پٲٹھۍ دِلہٕچ بیماری تہٕ اُدٲسی سٟتؠ تہِ۔ تحقیق ہیکہِ نہ وۄنؠ یہ وَنان زِ اَمِک کۄس حِصہٕ چھُ سِیودٕ وجہ تہٕ اثر۔ یتھ صفہٕ چھُ بیان کران زِ ثبوت کیاہ چھِ ونان، رٲبطہٕ برقرار تھاونٕکؠ عملی طریقہٕ، تہٕ تِمن لُکن ہٕندِ خٲطرٕ یِم وۄنؠ ڈیمینشیا سٟتؠ زندٕگی گزاران چھِ سٟتؠی سرگرمی کیازِ چھِ واریاہ اَہَم۔
 
-## Are loneliness and isolation linked with dementia?
+## کیاہ اکیلاپن تہٕ الگ تھاون چھا ڈیمینشیا سٟتؠ جُڈِتھ؟
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+آ، واریاہن تحقیقن چھِ یِم جُڈِتھ، مگر رۄخ چھُنہٕ پوٗرٕ پٲٹھۍ واضح۔ [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) چھِ بڈِ وٲنسؠ منز سماجی الگ تھاون ڈیمینشیا ہٕندین 14 تبدیل کرنہٕ یِن والین خطرٕ عاملن منز شأمِل کران۔ [UCL ہُند رپورٹُک خلاصہ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) چھِ اَمِک اندازٕ دُنیا بٔھر منز ڈیمینشیا ہٕندین معاملاتن ہُند لگ بھگ 5٪ دِوان۔
 
-What the evidence shows:
+ثبوت کیاہ چھِ ونان:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **کم رٲبطہٕ، زیادٕ خطرہ۔** Commission چھِ دۄن جٲیزن ہُند ذِکر کران یِمن منز کم سماجی رٲبطس ڈیمینشیا ہٕندِس زیادٕ خطرس سٟتؠ جُڈِتھ آو۔ اَکھس منز آو لگ بھگ 57٪ زیادٕ خطرہ لبنہٕ تہٕ بیِیس منز لگ بھگ 18٪۔
+- **اکیلاپن تہِ۔** اکیلاپن، یعنی کٹوٗتھ محسوس کرُن، آو تہِ واریاہن جٲیزن منز ڈیمینشیا ہٕندِس زیادٕ خطرس سٟتؠ جُڈِتھ لبنہٕ۔
+- **Surgeon General ہُند نَظرِیہ۔** مئی 2023 منز کٔر امریکی Surgeon General نِہ [اکیلاپن تہٕ الگ تھاونَس پؠٹھ اکھ مشورہ](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) جٲری۔ اَتھ منز چھُ وَننہٕ آمُت زِ بُجر لُکن منز مُستقِل اکیلاپن تہٕ الگ تھاون ہیکہِ ڈیمینشیا ہُند خطرہ لگ بھگ 50٪ زیادٕ کٔرِتھ۔ اَمِک رٲبطہٕ آو کمزور سماجی رٲبطس دِلہٕچ بیماری ہٕندِس 29٪ زیادٕ خطرس تہٕ فالج ہٕندِس 32٪ زیادٕ خطرس سٟتؠ تہِ جوڑنہٕ۔
+- **یہ کۄتہٕ عام چھُ۔** [National Academies ہٕچ رپورٹ](https://www.ncbi.nlm.nih.gov/books/NBK557972/) چھِ ونان زِ کمیونٹی منز روزن والین 65 ؤری یا تَمہِ کھۄتہٕ زیادٕ وٲنسی والین امریکیَن منز چھِ لگ بھگ 24٪ سماجی طور الگ۔
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+اکھ اَہَم احتیاط: Lancet Commission چھِ نوٹ کران زِ لُکھ ہیکن ڈیمینشیا ہٕندِس شروعاتی، وۄنؠ نامعلوم دَورس منز سماجی سرگرمی کم کٔرِتھ۔ یِمُک مطلب چھُ زِ کینہہ حِصہٕ گٔژھِتھ ڈیمینشیا ہٕندِ وجہ سٟتؠ الگ گژھُن آسُن، نَہ کہ صِرف الگ گژھنُک خطرہ زیادٕ کرُن۔ یِہ تقریباً سارُے ثبوت چھُ مشاہدٲتی تحقیقو پؠٹھہٕ۔
 
-## What is the difference between loneliness and isolation?
+## اکیلاپن تہٕ الگ تھاونس منز کیاہ فرق چھُ؟
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) چھِ یِتھہٕ پٲٹھۍ سمجھاوان۔ **سماجی الگ تھاون** چھُ کم سماجی رٲبطہٕ آسُن یا باقاعدگی سان میلناو کرنہٕ خٲطرٕ کم لُکھ آسُن۔ **اکیلاپن** چھُ اکیلے یا الگ تھاونہٕ آمُت محسوس کرنُک دگدار احساس۔ اکھ شخص ہیکہِ اکیلے روزِتھ خوش آسِتھ، تہٕ اکھ شخص ہیکہِ بٔرتھس کمرس منز اکیلاپن محسوس کٔرِتھ۔
 
-The NIA lists factors that raise the risk of both:
+NIA چھِ تِم چیز فِہرِست کران یِم دۄنَوٕے ہُند خطرہ زیادٕ کران چھِ:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- بوزن یا أچھن ہٕنز مشکل
+- یِنہٕ گژھنہٕ منز دِقت، یا سوٲری نہ آسُن
+- اکیلے روزُن، یا کانٛہہ بوڈ نۄقصان یِتھہٕ پٲٹھۍ شریکِ حیات سُند مَرُن یا ریٹائرمنٹ
+- یادداشت یا سوچنہٕ سمجھنہٕ منز تبدیلی
+- کُنہِ بیمار عزیز سٕنز تیماردٲری
+- پَیسن ہٕنز پریشٲنی یا زَبان ہٕنز رُکاوٹ
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+بوزُن چھُ واریاہ اَہَم۔ NIA چھِ ونان زِ یِم لُکھ ٹھیک پٲٹھۍ بوزان چھِنہٕ تِم ہیکن الگ گٔژھِتھ، تِکیازِ بات چیت چھِ پریشان کُن یا شرمندگی ہُند احساس پٲدٕ کران۔ سون [بوزن تہٕ دماغی صحت ہُند رہنما صفہٕ](/brain-health/hearing/) چھِ بوزن ہٕندِس جانچس تہٕ کاؤنٹر پؠٹھہٕ مِلن والین بوزن والین آلَن مُتعلِق بیان کران۔
 
-## Practical ways to stay connected
+## رٲبطہٕ برقرار تھاونٕکؠ عملی طریقہٕ
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA چھِ واریاہ تجویز دِوان۔ اکھ یا زٕ یِم تُہندِس حالَس سٟتؠ میل کھاین ژٲرِو:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **باقاعدٕ رٲبطُک وقت مُقرر کٔرِو۔** دۄہس یا ہفتس منز اکھ مقرر وقت خاندانی، دۄستَن یا ہَمساین سٟتؠ کال، پیغام، ای میل یا کارڈ سوزنہٕ خٲطرٕ۔
+- **ویڈیو کال یا سمارٹ اسپیکر کٔرِو استعمال۔** اگر ٹیکنالوجی نٔو چھے، تیٚلہِ چھِ واریاہ عوامی لائبریری تہٕ کمیونٹی سینٹر کلاس پیش کران۔ سون [فون تہٕ ویڈیو کال ہُند رہنما صفہٕ](/activities/phone-and-video-calls/) وُچھِو۔
+- **کُنہِ چیزس منز شأمِل گٔژھِو۔** کانٛہہ کلاس، مذہبی برادری، واکنگ کلب یا رضاکارانہٕ کردار چھُ تُہِ رٲبطہٕ تہٕ مقصدُک احساس دِوان۔
+- **کانٛہہ پرٛون مشغلہٕ دوبارٕ شروع کٔرِو** یا باقین سٟتؠ کانٛہہ نٔو چیز ہیٚچھِو۔
+- **باقین سٟتؠ حرکت کٔرِو۔** دۄستس یا گروپس سٟتؠ ورزش کٔرِو۔ سون [ورزش ہُند رہنما صفہٕ](/brain-health/exercise/) منز چھِ نرم آپشن۔
+- **اگر تُہۍ اَمِچ خیال تھٲوِتھ ہیکِو، تیٚلہِ کٔرِو پالتو جانورَس پؠٹھ غور۔**
+- **مقامی خِدمتن ہُند فٲیدٕ تُلِو۔** سینئر سینٹر، Area Agencies on Aging تہٕ Eldercare Locator (800-677-1116) ہیکن تُہِ پروگرامَن تہٕ سوٲری ہٕندِس مُتعلِق رھنُمٲیی کٔرِتھ۔
 
-## Why do shared activities matter in dementia?
+## ڈیمینشیا منز سٟتؠی سرگرمی کیازِ چھِ اَہَم؟
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+تِمن لُکن ہٕندِ خٲطرٕ یِم وۄنؠ ڈیمینشیا سٟتؠ زندٕگی گزاران چھِ، چھُ رٲبطُک مطلب خوشی، آرام تہٕ شأمِل محسوس کرُن، نَہ کہ خطرہ کم کرُن۔ Lancet Commission چھِ ونان زِ سرگرمی چھِ ڈیمینشیا سٟتؠ زندٕگی گزارن والین لُکن خوشی تہٕ مقصد برقرار تھاونس منز مدد کران۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) چھِ نوٹ کران زِ زندگی ہٕندِس معیارس بہتر بناونہٕ علاوٕ ہیکن سرگرمی یِژھن رویَن، یِتھہٕ پٲٹھۍ آوارٕ گژھُن یا بے چینی، کم کٔرِتھ۔ [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) چھِ ونان زِ الزائمر سٟتؠ زندٕگی گزارن والین لُکن چھِ فعال روزُن تہٕ تِم چیز کرٕنۍ یِم تِمن خوش کران چھِ۔
 
-Ideas that work well:
+تِم خیال یِم اکثر ٹھیک چھِ چلان:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **سٟتؠی تصویری وُچھِو۔** [Conversation Cards](/games/conversation-cards/) چھِ کُھلہٕ، بے کوئز اشارٕ دِوان یِتھہٕ پٲٹھۍ "مے وَنِو..." سون [یاد تازٕ کرنُک رہنما صفہٕ](/activities/reminiscence/) وُچھِو۔
+2. **اکھ أکِس نِشہِ کھیٚلِو۔** [Picture Pairs](/games/picture-pairs/) چھِ تصویری ہَمیٚشہٕ نَنہِ تھٲوِتھ، تہٕ اَتھ منز چھُنہٕ ٹائمر یا سکور، یِمُک مطلب چھُ کانٛہہ دَباؤ چھُنہٕ۔ سٲنِس [سٟتؠی کھیلنہٕ مُتعلِق رہنما صفہٕ](/caregiving/how-to-play-together/) منز چھِ مشورٕ۔
+3. **خاندٲنی تصویرو ہُند کٔرِو استعمال۔** [Photo Pairs](/games/photo-pairs/) چھِ تُہندیو ژارنہٕ آمچو تصویرو اکھ میچنگ گیم بناوان، تہٕ تصویری چھِ تُہندِس ڈِوایسَس پؠٹھے روزان۔
+4. **لُکھ کٔرِو اَکھ جای اکھٹھ۔** [Picture Bingo](/games/picture-bingo/) چھُ خاندٲنی جلسَن تہٕ [کیر ہوم گروپن](/activities/care-home-groups/) خٲطرٕ موزوں۔
+5. **موسیقی، گَریلو کأم یا باغبٲنی کٔرِو سان۔** [موسیقی سرگرمی](/activities/music/)، [گَریلو کأم](/activities/household-tasks/) تہٕ [سرگرمیَن ہٕنز پوٗرٕ فِہرِست](/activities/ideas/) وُچھِو۔
+6. **ملاقات بنٲوِو آسان۔** سون [ملاقات ہُند رہنما صفہٕ](/activities/visiting/) چھِ مختصر، پرسکون ملاقاتن مُتعلِق مشورٕ دِوان یِم سارِنٕے خٲطرٕ خوشگوار آسان چھِ۔
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+یہ تھٲوِو سادٕ تہٕ آرام دہ۔ اکھ پرسکون کمرہٕ اَکہِ یا دۄن لُکن سٟتؠ چھُ اکثر بٔڈِس گروپہٕ کھۄتہٕ بہتر چلان۔ اگر تُہند عزیز تھکان چھُ یا دِلچسپی گژھان چھے، تیٚلہِ رُکُن چھُ ٹھیک۔ اَکھ کَپ چای سٟتؠ سٟتؠی بِہُن تہِ چھُ اکھ رُت نتیجہٕ۔
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+تِمن لُکن ہٕندِ خٲطرٕ یِم ڈیمینشیا سٟتؠ اکیلے روزان چھِ، چھِ NIA مشورہٕ دِوان زِ اکھ بھروسہ مند شخص لبِو یُس باقاعدگی سان ملاقات یا ویڈیو کال ہیکہِ کٔرِتھ تہٕ ہنگٲمی رابطہٕ بنِتھ ہیکہِ روزِتھ۔ یہ چھِ مقامی میموری کیفے ہُند تہِ ذِکر کران، یُس یادداشتٕچ کمی والین لُکن تہٕ تِہندین خاندانہٕ خٲطرٕ اکھ آرام دہ سماجی جای چھے۔
 
-## Caregivers get lonely too
+## تیماردار تہِ چھِ اکیلاپن محسوس کران
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA چھِ کُنہِ بیمار عزیز سٕنز تیماردٲری الگ تھاونٕک اکھ خطرٕ عامل شُمار کران۔ پننین دۄستی خٲطرٕ، سپورٹ گروپن خٲطرٕ تہٕ آرام خٲطرٕ کینہہ وقت محفوظ تھٲوِو۔ سٲنِس [تیماردارن ہٕندِس خود خیال تھاونٕچ رہنمٲیی](/caregiving/caregiver-self-care/) منز چھِ عملی تجویز۔
 
-## Talk with a doctor
+## ڈاکٹر سٟتؠ کٔرِو بات
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+اگر تُہۍ یا تُہند کانٛہہ عزیز اکثر اکیلاپن یا الگ تھاون محسوس کران چھُو، تیٚلہِ کٔرِو ڈاکٹر سٟتؠ بات۔ NIA چھِ لُکن ترغیب دِوان زِ زندگی ہٕنز بڑی تبدیلی، یِتھہٕ پٲٹھۍ خاندانس منز کانٛہہ وفات، ڈاکٹر سٟتؠ شیئر کٔرِن، تاکہ ڈاکٹرس پوٗرٕ تصویر سمجھنس منز یأری مِلہِ۔ وارن ہفتن ہَتی کمزور محسوس کرُن ہیکہِ اُدٲسی آسُن، یتھ ہُند علاج ہیٚکہِ سپدِتھ۔ اگر کانٛہہ بوڈ شخص اچانک تِمن دۄستَن یا سرگرمیَن نِشہِ دوٗر گژھان چھُ یِم تَس برونٹھ پسند ٲس، تیٚلہِ چھِ یہ تبدیلی تہِ ڈاکٹر سٟتؠ وَننہٕ لایق۔ [شروعاتی نِشٲنی تہٕ ڈاکٹر سٟتؠ کٔمِس وِزِ میلُن](/brain-health/warning-signs/) پٔرِو۔
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+یہ صفہٕ چھُ عام زانکٲری، نَہ کہ طبی مشورہ۔ سون [طبی اعلانِ لاتعلقی](/medical-disclaimer/) وُچھِو۔

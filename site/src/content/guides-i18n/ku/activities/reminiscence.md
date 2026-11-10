@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Çalakiyên Bîranînê: Qutî, Çîroka Jiyanê û Wêne"
+seoTitle: "Çalakiyên Bîranînê ji bo Demansê: Bê Test"
+description: "Meriv çawa bê ceribandinê bi kesê ku bi demansê dijî re bîranînan parve dike: axaftina li ser wêneyan, qutiyên bîranînê û pirtûkên çîroka jiyanê."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Bîranîn tê wateya kêfa ji boriyê bi hev re, bi wêne, tişt, muzîk û çîrokan.
+  Qutiyeke bîranînê çêbikin, pirtûkeke hêsan a çîroka jiyanê amade bikin, an
+  li wêneyan li kêleka hev binêrin. Tu carî test nekin: ji pirsên wekî «Tu
+  tê bîra te?» û «Ev kî ye?» dûr bisekinin û vexwendinên vekirî wekî «Ji min
+  re li ser vê bêje» bi kar bînin. Axaftineke germ ji rastbûna hûrguliyan
+  girîngtir e.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Bîranîn axaftinek e, ne ceribandinek. Rastbûna hûrguliyan ne girîng e; kêf girîng e."
+  - "Li şûna «Tu tê bîra te...?» û «Ev kî ye?» şîrove û vexwendinan wekî «Ji min re li ser vê rojê bêje» bi kar bînin."
+  - "Qutiyeke bîranînê ya bi tiştên ji jiyana wî kesî re dibe alîkar ku dest û axaftin tiştekî bigirin."
+  - "Pirtûkeke çîroka jiyanê alîkariya malbat, mêvan û karmendan dike ku kesê nas bikin, ne tenê rewşa wî."
+  - "Heke bîranînek xemgîniyê tîne, pêşî dilê wî aram bikin û bi nermî derbasî tiştekî din bibin."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Bîranîn ji bo kesên ku bi demansê dijîn çi ye?"
+    a: "Bîranîn parvekirina bîranîn û serpêhatiyên berê ye, bi gelemperî bi alîkariya wêne, tişt, muzîk an vîdyoyan. Ew dikare yek bi yek an jî di komê de bibe. Armanc axaftineke xweş û watedar e, ne ceribandina tiştên ku kes dikare bîne bîra xwe."
+  - q: "Çima divê ez nepirsim «Tu tê bîra te?»"
+    a: "Pirsên ku bîranînê diceribînin dikarin bibin sedem ku kes xwe şermok an nerehet hîs bike dema ku bersiv nayê bîra wî. Enstîtuya Neteweyî ya Pîrbûnê (National Institute on Aging) di nav tiştên ku divê ji wan dûr bikevin de pirsîna ka kes tiştekî an kesekî tîne bîra xwe jî dibêje. Li şûna wê, li ser tiştê ku hûn dibînin şîrove bikin û bihêlin kes tiştê ku dixwaze lê zêde bike."
+  - q: "Divê ez çi têxim nav qutiyeke bîranînê?"
+    a: "Tiştên ewle û zexm ên girêdayî jiyana wî kesî hilbijêrin: tiştên kar, amûrên hobiyan, şalek an stûyek bijare, kartpostal, kartên reçeteyan, bîranînên werzîşê an kopiyên wêneyan. Ji tiştên tûj, tiştên piçûk ên ku dikarin werin daqurtandin û orîjînalên bêhejmar dûr bisekinin."
+  - q: "Heke ew hûrguliyan xelet bibêjin çi?"
+    a: "Berdin derbas bibe. Heke diya we bibêje ku di wêneyê de xwişka wê ye lê di rastiyê de pismama wê ye, ev ne pirsgirêk e. Rastkirin deqeke germ vediguherîne ceribandinekê. Li pey çîroka ku ew vedibêje herin û bi hev re jê kêfê bikin."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Bîranîn bi tenê tê wateya kêfa ji boriyê bi hev re. Ji bo gelek kesên ku bi demansê dijîn, bîranînên ji dehsalan berê ji tiştên ku îro sibê qewimîne zelaltir dimînin. Wêne, tiştên naskirî, muzîk û çîrok dikarin wan bîranînan vejînin û tiştekî germ bidin we ku hûn bi hev re parve bikin. Yek rêzik heye: ev axaftinek e, tu carî ceribandinek nîne.
 
-## What is reminiscence, and how is it different from quizzing?
+## Bîranîn çi ye, û ew ji ceribandinê çawa cuda ye?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Bîranîn parvekirina bîranînan bi wêne, tişt, muzîk an vîdyoyê ye, li gor leza wî kesî. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) wê wekî parvekirina serpêhatiyên berê û çîrokan bi alîkariya wêne, tişt, vîdyoyan an muzîkê, di pirtûkekê de an li ser tabletekê, diyar dike. Ceribandin cuda ye: ew ji kes dixwaze ku bersiveke rast bide, û ev dikare li şûna kêfê şermî bîne.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[Enstîtuya Neteweyî ya Pîrbûnê (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) di nav tiştên ku divê ji wan dûr bikevin de pirsîna ji kesekî ka ew tiştekî an kesekî tîne bîra xwe jî dibêje. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) pêşniyar dike ku ji pirsên ku xwe dispêrin bîranîna demkurt dûr bisekinin û li şûna wê li ser boriyeke dûrtir biaxivin.
 
-| Instead of | Try |
+| Li şûna vê | Vê biceribînin |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «Tu vê tê bîra te?» | «Ev wekî rojeke xweş xuya dike. Ji min re li ser wê bêje.» |
+| «Ev kî ye?» | «Li vir Metika Rojîn li peravê ye. Li wê kulikê binêre.» |
+| «Ev sala çendê bû?» | «Ev wekî mala kevn xuya dike. Jiyan li wir çawa bû?» |
+| «Na, ev Bilal nîne, ev Ferman e.» | «Ew pir kêfxweş xuya dike.» |
+| «Te berê jî ev ji min re got.» | «Ez ji vê çîrokê pir hez dikim.» |
 
-## How do you talk about photos without quizzing?
+## Meriv çawa bê ceribandinê li ser wêneyan diaxive?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Bi tiştê ku hûn dibînin dest pê bikin, dû re cihê bidin kes ku heke bixwaze tiştekî lê zêde bike.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Li kêleka hev rûnin.** Albûmê di navbera we de bigirin da ku hûn bi hev re mêze bikin, ne ku hûn ji ser maseyê ceribandinê bikin.
+2. **Çend wêne hilbijêrin.** Pênc wêneyên baş ji hemû qutiyekê çêtir in. Wêneyên mezin û zelal baştir in.
+3. **Navên kesan bi xwe bibêjin.** «Li vir tu û bavê te di roja dawetê de ne» zextê kêm dike.
+4. **Li ser hûrguliyan şîrove bikin.** Cil, erebe, xwarin, hewa, rû. «Çi erebeyek. Pir dibiriqe.»
+5. **Vexwendinê bikin, daxwaz nekin.** «Ji min re li ser... bêje» an «Tu çi dibînî?» Bêdengî jî baş e.
+6. **Li pey wî herin.** Heke ew dest bi axaftina li ser tiştekî bi tevahî din dike, bi wî re bidomînin.
+7. **Dema ku hîn xweş e rawestin.** Berî ku westîn dest pê bike albûmê bigirin.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Ji bo pirs û mijarên amade yên li ser wêneyan, [kartên axaftinê](/games/conversation-cards/) biceribînin. Ji bo ku wêneyên malbata xwe bikin lîstikeke hêsan a lihevhatinê, [cotên wêneyan](/games/photo-pairs/) biceribînin; wêneyên ku hûn hildibijêrin di geroka we de dimînin.
 
-## How do you make a memory box?
+## Meriv çawa qutiyeke bîranînê çêdike?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Qutiyeke bîranînê qutiyek e ku tê de tiştên ji jiyana wî kesî hene ku meriv dikare wan bigire dest û li ser wan biaxive.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Qutiyeke zexm hilbijêrin** ku bi hêsanî were vekirin, wek qutiyeke pêlavan, qutiyeke kulikan an sindoqeke piçûk a darîn.
+2. **Mijarek an tevliheviyek hilbijêrin.** Kar, hobiyek, cîhek, dehsalek, an jî hinekî ji her tiştî.
+3. **Tiştên ewle kom bikin.** Ji bo destpêkê pênc heta deh tişt bes in.
+4. **Ji tiştên biqîmet kopiyan bi kar bînin.** Ji wêne û belgeyên bêhejmar kopiyan çêbikin û orîjînalan ewle bihêlin.
+5. **Tiştan yek bi yek derxin.** Yekê bidin destê wî, tiştekî li ser wê bibêjin û bibînin axaftin ber bi ku ve diçe.
 
-Ideas to include:
+Ramanên ku hûn dikarin têxinê:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Kar:** kartê nasnameyê, amûrek piçûk, pariyekî unîformayê, defterek, nîşanek an pirtûkeke reçeteyan.
+- **Mal:** karteke reçeteyê bi destnivîsa wî, destmaleke metbexê, şalek an stûyek bijare.
+- **Hobî:** çengelek masîgirtinê bê çengel, topek, giloverek rîşalê, pakêtek toxim.
+- **Cih:** kartpostal, nexşe, bîranînek geştyariyê, birînek ji rojnameya bajarê wî.
+- **Malbat:** kopiyên wêneyan, wêneyê xêzkirî yê zarokekî, vexwendnameya dawetê.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Tiştên tûj, tiştên piçûk ên ku dikarin werin daqurtandin û her tiştê ku dibe ku bîranînên bi êş bîne derxin, heta ku hûn nizanin ew bi xêr hatî ye.
 
-## How do you make a life-story book?
+## Meriv çawa pirtûkeke çîroka jiyanê çêdike?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Pirtûkeke çîroka jiyanê albûmeke hêsan e ku tê de wêne û sernivîsên kurt ên li ser jiyana wî kesî hene. Ew tiştekî ye ku hûn dikarin bi hev re lê binêrin, û ew alîkariya mêvan û karmendan dike ku tevahiya kesê bibînin.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Formatek hilbijêrin.** Klasorek bi berikên parastinê, pirtûkeke wêneyan a çapkirî, an pêşandana slaytan li ser tabletekê.
+2. **Çend beşan plan bikin.** Zarotî, dibistan, kar, malbat, cihên jiyînê, bawerî, hobî, xwarin û muzîka bijare.
+3. **Ji bo her rûpelê yek an du wêne lê zêde bikin** bi sernivîsek kurt û bi tîpên mezin: «Meryem, 22 salî, dest bi kar li bankê dike.»
+4. **Tiştên ku jê hez dike û rûtînan jî têxinê.** «Qehweya xwe bi şîr vedixwe. Ji stranên yekşemê hez dike. Ji televîzyona bi deng bilind hez nake.» Ev ji her kesê ku lê dinihêre re dibe alîkar.
+5. **Heta ku ew bixwaze kesê têxin nav kar**, di hilbijartina wêneyan, vegotina çîrokan an jî tenê temaşekirina amadebûnê de.
+6. **Zêdekirinê bidomînin.** Ne hewce ye ku ew temam bibe da ku kêrhatî be.
 
-## More reminiscence ideas
+## Ramanên din ji bo bîranînê
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Muzîka ji ciwaniya wî lê bidin** û li ser wê biaxivin ku ew wî ber bi ku ve dibe. Binêrin [çalakiyên muzîkê](/activities/music/).
+- **Fîlmên malê an bernameyên televîzyonê** ji dehsalên ku ew jê hez dike temaşe bikin.
+- **Xwarinek ji zarotiya wî çêkin** û bihêlin bêhn axaftinê rê bide.
+- **Li nexşeya bajarê wî mêze bikin** û kolanên naskirî bişopînin.
+- **Katalog an kovarên kevn** di dest de bigirin û li ser biha, moda û erebeyan biaxivin.
+- **Bi destûra wî çîrokên wî** li ser telefonê tomar bikin, ji bo malbatê.
+- **Di dema telefonan de parve bikin.** Di dema bangeke vîdyoyê de wêneyekî nîşan bidin; binêrin [telefon û bangên vîdyoyê](/activities/phone-and-video-calls/).
+- **Dema ku hûn diçin serdanê wêneyek an tiştekî bi xwe re bibin.** Ev ji serdanê re mijarek hêsan dide; binêrin [serdan](/activities/visiting/).
 
-## What if a memory is painful?
+## Heke bîranînek bi êş be çi?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Hin bîranîn xemgînî, poşmanî an tirsê tînin. Heke kes aciz bibe, rawestin, wî aram bikin û bi nermî mijar an çalakiyê biguherînin. Li ser tiştê ku qewimî nîqaş nekin. Family Caregiver Alliance şîret dike ku hewl nedin kesî qanih bikin ku ew xelet e û pêşniyar dike ku bersivê bidin hestên ku ew nîşan dide, ku rast in. Heke ew li ser kesekî ku wefat kiriye wekî ku sax be biaxive, bersivê bidin hestê: «Tu bêriya wê dikî. Ji min re li ser wê bêje.»
 
-## What does the research say?
+## Lêkolîn çi dibêje?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Vekolîna Cochrane ya li ser bîranînê](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ku 22 ceribandin û 1.972 kes dihewîne, dît ku bandor ne yekrêz bûn, piçûk bûn û li gorî cih û awayê pêkanînê diguherîn. Ti delîl nedît ku ji kesên ku bi demansê dijîn re zirarê bike. Em bîranînê pêşniyar dikin ji ber ku ew dikare demeke germ û watedar bi hev re bîne, ne wekî dermankirin. Ji bo bêtir agahî li ser axaftinên hêsan, binêrin [şîretên ragihandinê](/caregiving/communication-tips/).

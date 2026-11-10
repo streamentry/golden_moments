@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "ییلہ ڈیمینشیا سانْ روزن وول اکھ شخص سرگرمی نِہ کَرِ"
+seoTitle: "ڈیمینشیا سانْ روزن وول شخص ییٚلہ سرگرمی نِہ کَرِ"
+description: "ڈیمینشیا سانْ روزن وول شخص سرگرمی کیازِ نِہ کَرِ یا پریشان گژِھہ، کیاہ کٔرِو، کیہنہ کٔرِو، تِہ کُس اچانک تبدیل ڈاکٹرس نِش گژھن واجِن۔"
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  ییلہ ڈیمینشیا سانْ روزن وول کانٛہہ شخص ”نَہ“ وَنِ، اَمِک آرام سانْ قبول کٔرِو
+  تِہ پتہٕ دوبارٕ کوشش کٔرِو یا بیٚیہ کانٛہہ چیز پیش کٔرِو۔ انکارٕک ہیکہِ کانٛہہ
+  وجہ ٲسِتھ: کام ہیکہِ واریاہ مشکل یا بچھن ہِیوٚند باسیُن، سُہ ہیکہِ تھٔکِتھ ٲسِتھ،
+  تکلیف، بُچھ یا شورٕ سٟتؠ پریشان ٲسِتھ۔ بحث مَہ کٔرِو تہٕ نہ ضِد کٔرِو۔ چیز سادٕ
+  کٔرِو، زٕ انتخاب دِیِو، یا تِمن مددٕ باپتھ ونِو۔ اچانک یا تیزی سانْ بَدلان
+  رَویِہ، خاص کر ییلہ انفیکشن یا نوِ دوا آسہِ، جلدی ڈاکٹرس نِش گژھن واجِن۔
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "”نَہ“ چھُ اکھ اَدَب سانْ مانَن واجِن جواب، نَہ کہ حل کَرن واجِن مشکل۔"
+  - "انکارٕک چھُ عام طور کانٛہہ وجہ آسان: واریاہ مشکل، بچھن ہِیوٚند، تھکاوَٹ، بیٚمٲری، بےآرامی یا واریاہ شور۔"
+  - "پَتھ ہَٹِو، انتظار کٔرِو، تِہ پتہٕ دوبارٕ کوشش کٔرِو — بدلِ وقتس پؠٹھ یا سادٕ شکلِ منز۔"
+  - "مدد منگُن چھُ کارکرٛٲوؠ آسان یِوان بنام اَمہِ کھوتہٕ ذیادٕ کانٛہہ کرنَس وَننُک۔"
+  - "زَہ۪نہِ بحث، ضِد، پرٛژھگٲر یا غلطی ٹھیک مَہ کٔرِو۔ پانس وُچھِو زِ تُہؠ تیزی تہٕ مَہ چھِو کَران یا واریاہ نزدیک مَہ چھِو گژھان۔"
+  - "اچانک یا تیزی سانْ بَدلان رَویِہ، خاص کر انفیکشن یا نوِ دواہن سٟتؠ، فوراً ڈاکٹرس نِش گژھن واجِن۔"
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "کیاہ اَمہِ چھُ ٹھیک زِ سُہ کُنہِ دۄہ سرگرمی بالکل ترٲوِتھ؟"
+    a: "آ، کُنہِ أکِس دۄہس۔ أکِس جایِ بہِتھ وقت گزارُن، موسیقی بوزُن یا دُنیاہ وُچھُن چھُ واریہِ۔ اگر کانٛہہ شخص ہفتن ہفتن کِس کانٛہہ چیزس منز خوشی محسوس نہ کَرِ، تیٚلہ ڈاکٹرس ؤنِو، تِکیازِ کم مِزٲجی، دَرد یا باقٕ صحت مسئلہٕ ہیکَن اَتھ منز شٲمِل ٲسِتھ۔"
+  - q: "سُہ تِمہٕ چیزٕ کیازِ نِہ کَران یِمہٕ تِمن برونٹھ واریاہ پسند اوس؟"
+    a: "پرٛٲنی شوق ہیکہِ پریشان کُن بنِتھ ییٚلہ اَتھ منز تِمہٕ ہُنر ضرورت چھِ یِم ڈیمینشیا سٟتؠ مشکل بنیمٕتؠ چھِ، تِہ شخص ہیکہِ شرم محسوس کَرِتھ۔ تٔمۍ سرگرمی ہُند اکھ سادٕ حصہ آزمٲوِو، مِثالَن سیٚوَن بدل بٹن چھانٹُن، یا باغ لاگنہٕ بدل باغٕچ تصویرٕ وُچھنِہ۔"
+  - q: "کیاہ مےٚ تِمن سمجھاونٕچ کوشش کرٕنۍ چھا؟"
+    a: "نَہ۔ کٲنٛسہِ تِتھ چیز کرنہٕ باپتھ زور دِیُن یۄسہٕ ڈیمینشیا سٟتؠ مشکل بنیمٕژ چھےٚ، چھُ بےچینی ہُند اکھ زاننہٕ آمُت محرک۔ ”نَہ“ قبول کٔرِو، موضوع بدلٲوِو، تِہ پتہٕ یا بدلِ طریقہٕ دوبارٕ پیش کٔرِو۔"
+  - q: "رَویِہ بدلُن کُس وقت چھُ ہنگامی صورتحال؟"
+    a: "اگر کانٛہہ خطرس منز آسہِ یا تِمن طبی ہنگامی علامات آسن، تیٚلہ 112 فون کٔرِو۔ اچانک الجھن یا تِتھ رَویِہ یُس گھنٹن یا دۄہن منز تیزی سانْ بدلِ، خاص کر بخار، انفیکشن یا نوِ دواہن سٟتؠ، فوراً تِہندِس ڈاکٹرس سٟتؠ رابطہٕ کٔرِو۔"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+تُہؠ چھِو سٲری تیاری کٔرمٕژ، کانٛہہ گیم یا سیر پیش چھِو کٔرمٕژ، تِہ بوزِو ”نَہ“۔ یا سرگرمی چھےٚ جان شروٗع گژھان مگر ختم گژِھہ ٹیبلٹ پَتھ دِنہٕ سٟتؠ تِہ تیز لفظن سٟتؠ۔ یہ چھُ مایوس کُن، تِہ واریاہ عام۔ انکار تہٕ پریشٲنی چھےٚ عام طور اکھ پیغام، ضد نَہ۔ اَمہِ پیغامُک مطلب سمجھن سٟتؠ ہیکہِ پتاہ لگِتھ زِ پتہٕ کیاہ کٔرِو۔
 
-## Why does someone with dementia refuse activities?
+## ڈیمینشیا سانْ روزن وول شخص سرگرمی کیازِ نِہ کَرِ؟
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+عام طور چھُ کانٛہہ وجہ آسان، اگرچہِ شخص ہیکہِ تَتھ لفظن منز بیان نہ کٔرِتھ ہیٚکہِ۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) چھُ وَنان زِ مزاحمت ہیکہِ اَمیُک نِشانہٕ ٲسِتھ زِ شخص کام نہ کٔرِتھ ہیٚکہِ یا کوشش کرنہٕ نِش کھۄژان چھُ۔ عام وجوہ چھےٚ:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **یہ چھُ واریاہ مشکل باسان۔** سرگرمی چھےٚ وٕنۍ تِمن ہُنرن ہٕنز ضرورت تھٲوان یِم ڈیمینشیا سٟتؠ مشکل بنیمٕتؠ چھِ، تِہ کٲنٛسہِ برونٹھ ناکام گژھن چھُ شرم ناک۔
+- **یہ چھُ بچھن ہِیوٚند باسان۔** بڈٕ لوٗکھ چھِ کارٹونی تصویرٕ، بچھن ہِوِند آوازٕ تِہ تِمہٕ سرگرمی پرزناوان یِمہٕ بچھن باپتھ بنٲومژ باسان چھےٚ۔
+- **تھکاوَٹ۔** واریاہن لُکن ہُند قوت چھُ دۄہس پٔتِمِس حصس منز کم گژھان۔ وُچھِو [شامس نزدیک آرام دِنہٕ واجِنۍ سرگرمی](/caregiving/late-day-restlessness/)۔
+- **جسمٲنی بےآرامی۔** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) چھُ دَرد، نِندرٕچ کمی، وُچھنس یا بوزنس منز دِقت، قبض، بُچھ، تریش تِہ نوِ دواہن ہٕندِ اثرٕ پریشٲنی ہٕنز ممکنہٕ وجہ وَنان۔
+- **واریاہ شور یا ہَلچَل۔** تیز ٹی وی، واریاہ کتھ باتھ یا بٔرِتھ کمرٕ ہیکہِ پریشان کَرَن وول ٲسِتھ۔
+- **زور دِیُن باسان۔** NIA چھُ وَنان زِ کٲنٛسہِ تِتھ چیز کرنہٕ باپتھ زور دِیُن یۄسہٕ Alzheimer سٟتؠ واریاہ مشکل بنیمٕژ چھےٚ، یا واقعات یا لُکن یاد پاونٕچ کوشش، ہیکہِ بےچینی ہُند سبب بنِتھ۔
+- **کم مِزٲجی۔** چیزن منز دلچسپی ختم گژھن ہیکہِ مایوسی ہٕنز نِشٲنی ٲسِتھ، یَتھ مُتعلِق ڈاکٹرس سٟتؠ کتھ کرٕنۍ موزوٗن چھےٚ۔
+- **سُہ بس یچھان نَہ۔** بڈٕن لُکن چھُ ”نَہ“ وننُک حق۔
 
-## What should I try when they say no?
+## ییلہ سُہ ”نَہ“ وَنن، مےٚ کیاہ کرُن؟
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+آرام سانْ ”نَہ“ قبول کٔرِو، پتہٕ کانٛہہ چیز بدلٲوِو: وقت، سرگرمی، مشکل درجہٕ یا پرٛژھنُک طریقہٕ۔
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **وُنۍ ترٲوِو۔** ”ٹھیک چھُ۔ شاید پتہٕ۔“ پتہٕ بغیر آہ بھرنہٕ بیٚیہ کُنہِ چیزس کُن گٔژِھو۔
+2. **پتہٕ دوبارٕ کوشش کٔرِو۔** Alzheimer’s Association چھُ صلاح دِوان زِ پتہٕ یا دۄہس کُنہِ بدلِ وقتس پؠٹھ دوبارٕ کوشش کٔرِو۔
+3. **چھوٹ کٔرِو۔** پوٗرٕ گیٚم بدل اکھ جوڑ۔ پوٗرٕ کپڑٕچ ٹوکری بدل اکھ تِولیِہ۔ کم تصویرٕ، کم انتخاب، تصویرٕ نَنہِ تھٲوِو۔
+4. **زٕ انتخاب دِیِو۔** ”تُہؠ چھِوا یچھان جانورن ہٕنز تصویرٕ وُچھنِہ یا کینہہ موسیقی بوزٕنۍ؟“ انتخاب سٟتؠ چھُ کنٹرولُک احساس واپس یِوان۔
+5. **کارکردگی بدل مدد مٔنگِو۔** ”تُہؠ ہیکِوا یِم چھانٹنس منز میٲنی مدد کٔرِتھ؟“ یا ”تُہؠ ہیکِوا ؤنِتھ کُس رنگ چھُ بہتر باسان؟“ ضرورت محسوس گژھن چھُ جانچ گژھنہٕ کھوتہٕ بالکل مُختلف۔
+6. **پانے شروٗع کٔرِو۔** تِہندِ قریب بِہِتھ پرٛژِھہ بغیر سرگرمی شروٗع کٔرِو۔ واریاہ لوٗکھ چھِ شامل گژھان ییٚلہ کانٛہہ چیز پہلے پیٹھے چلان آسہِ، تِہ اگر نہ تہِ، تُہۍ ہیکِو تٔتِہ تہِ أکِس سٟتؠ وقت گزارِتھ۔
+7. **کانٛہہ جسمٲنی یا آرام دِنہٕ واجِن چیزس کُن گٔژِھو۔** اکھ لۄکچار سیر، موسیقی، ہلکہٕ کھیٚن، کپڑٕ سمیٹنہِ، یا أکِس سٟتؠ [آرام دِنہٕ واجِن ساہ](/games/calm-breathing/) ہُند وقفہٕ۔ NIA چھُ توجہ موسیقی، کتاب یا سیرس کُن موڑنٕچ صلاح دِوان۔
+8. **تِمن پننہِ طریقہٕ سٟتؠ کرنہٕ دِیِو۔** اگر سُہ قواعدن ہِندِ مطابق نَہ بلکہ پننہِ طریقہٕ کھیٚلِتھ یچھن، تیٚلہ تِی کٔرِو۔ Alzheimer’s Association چھُ لچکدار آسنٕچ صلاح دِوان۔
 
-## What should I say when they get frustrated?
+## ییلہ سُہ پریشان گژھن، مےٚ کیاہ وَنُن؟
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+آہستہٕ کٔرِو، آواز بۄن کٔرِو تِہ تسلی دِیِو۔ [Alzheimer’s Association ہٕنز بےچینی مُتعلِق رہنمٲیی](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) چھےٚ پَتھ ہٹنٕچ، اِجازت منگنٕچ، پُر سکون تہٕ مثبت جُملہٕ وَننٕچ، تِہ زٕن انتخابن منز اکھ رہنمٲیی سٟتؠ پسند دِنٕچ صلاح دِوان۔ تِتھ جذبہٕک جُملہٕ ہیکَن ٲسِتھ:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- ”مےٚ چھُ افسوس، یہ چھُ پریشان کَرَن وول۔ یِتھ ترٲوَو۔“
+- ”تُہؠ چھِو ٹھیک کَران۔ بٕہ چھُس یِتِہ۔“
+- ”تُہؠ چھِوا مےٚ کُنہِ بیٚیہ چیزس منز مدد کٔرِتھ ہیکان؟“
+- ”اسہِ گژھوٕ کیاہ اکھ کپ چائے چیٚتھ؟“
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+پتہٕ سرگرمی بغیر کانٛہہ وڈ مسئلہٕ بناونہٕ ختم کٔرِو۔ سانہِ [رابطٕچ صلاح](/caregiving/communication-tips/) منز چھُ مزید زِ کیاہ وَنُن۔
 
-## What should I avoid?
+## مےٚ کیہنہ کٔرِو؟
 
-Some natural reactions tend to make things worse.
+کینٛہہ قدرتی ردِ عمل ہیکَن صورتحال مزید خراب کٔرِتھ۔
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **بحث یا ضِد۔** ”بس اکھ بیٚیہ“ یا ”تۄہیہِ چھُ یہ پسند“ عام طور مدد نَہ کَران۔
+- **پرٛژھگٲر یا غلطی ٹھیک کرٕنۍ۔** ”تۄہیہِ چھُ پتاہ یہ کیاہ چھُ“ یا ”نَہ، یہ چھُ غلط“ سٟتؠ چھُ دباؤ بڑھان۔
+- **ذٲتی طور تُلن۔** NIA چھُ یاد پاوان زِ یِم تبدیلی چھےٚ بیماری سٟتؠ یِوان، نَہ کہ تٔمۍ شخص سٟتؠ۔
+- **واریاہ نزدیک گژھن یا تیزی کرٕنۍ۔** Alzheimer’s Association چھُ صلاح دِوان زِ آواز بلند مَہ کٔرِو، گھبراہٹ مَہ ہٲوِو، کُنہِ کُنس منز مَہ بند کٔرِو، واریاہ نزدیک مَہ گٔژِھو، زبردستی مَہ تھٲوِو، تنقید مَہ کٔرِو، نظرانداز مَہ کٔرِو تہٕ بحث مَہ کٔرِو، تِہ تِہنزِ نظرِ نِش نیبر اچانک حرکت مَہ کٔرِو۔
+- **احساسِ قصور دِیُن۔** ”مےٚ کٔر تُہندِ خٲطرٕ یہ سٲری تیاری“ سٟتؠ چھِو دۄشوے بدتر محسوس کَران۔
+- **لیبل لاگُن۔** ”ضدی“ یا ”مشکل“ سٟتؠ چھُ اصلی وجہ ژھٹان تِہ حل لبُن مشکل گژھان۔
 
-## How can I find out what is behind repeated refusals?
+## بار بار انکارٕک وجہ بٕہ کِتھ کٔنۍ سمجِھہ ہیکہٕ؟
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+اکھ یا زٕ ہفتہٕ باپتھ اکھ سادٕ نوٹ تھٲوِو۔ NIA چھُ وَنان زِ رَویِہ تبدیلی درج کرنہٕ سٟتؠ ہیکہِ دیکھبال کرن والؠن تہٕ صحت ماہرن اکھ نمونہٕ پرزناونہٕ تِہ وجہ سمجھنہٕ منز مدد مِلِتھ۔
 
-Jot down:
+لِکھِو:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- دۄہُک وقت؛
+- تُہؠ کیاہ پیش کوٚرُو تِہ کِتھ کٔنۍ پرٛژِھو؛
+- اَرد گرد کیاہ اوس گژھان (شور، پاٹھؠ، ٹی وی)؛
+- سُہ کِتھ کٔنۍ سوٚر، کیاہ کوٚر کھیٚن چیٚن، تِہ ٲخری لٹہٕ کٔمِس گٔے؛
+- کانٛہہ نوِ دوا یا حالُک بیٚمار۔
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+نمونہٕ چھِ اکثر جلدی نَنہِ یِوان: انکار یُس صرف 4 وگہٕ پتہٕ گژِھہ، صرف کُنہِ خاص گیٚمس سٟتؠ، یا صرف ییٚلہ ٹی وی چلان آسہِ۔ Family Caregiver Alliance ہٕنز [ڈیمینشیا رَویِہ ہٕنز رہنمٲیی](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) چھُ سادٕ لفظن منز وَنان: اسہِ ہیکَو نہ شخص بدلِتھ، مگر اسہِ ہیکَو پنُن رَویِہ تہٕ ماحول بدلِتھ۔
 
-## When should I talk to a doctor about refusal or frustration?
+## انکار یا پریشٲنی باپتھ مےٚ کٔمِس ڈاکٹرس سٟتؠ کتھ کرٕنۍ؟
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+ییٚلہ رَویِہ اچانک، تیزی سانْ یا بیٚمٲری ہٕندین علامتن سٟتؠ بدلِ، تیٚلہ ڈاکٹرس سٟتؠ کتھ کٔرِو۔ NIA چھُ وَنان زِ رَویِہ منز اچانک یا تیزی سانْ بَدلان تبدیلی، خاص کر اگر شخصس انفیکشن آسہِ یا دواین منز حالُک تبدیلی آسہِ آمٕژ، فوراً ڈاکٹرس نِش ونٕنۍ چھےٚ۔
 
-Contact their doctor promptly if you notice:
+اگر تُہؠ یِم وُچھِو تیٚلہ جلدی ڈاکٹرس سٟتؠ رابطہٕ کٔرِو:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- اچانک الجھن یا گھنٹن یا دۄہن منز وڈ تبدیلی؛
+- دَردٕچ نِشٲنی، مِثالَن چہرٕ بگاڑُن، جسمُک کانٛہہ حصہ بچاون یا نو حرکتس منز دِقت؛
+- بخار یا انفیکشنٕچ باقٕ نِشٲنی؛
+- نوِ یا بدلیمژ دوا تِہ اَمہِ پتہٕ رَویِہ منز تبدیلی؛
+- تقریباً پرٛتھ کانٛہہ چیزس منز دلچسپی ختم گژھن، رۄدُن یا زٕ ہفتہٕ کھوتہٕ ذیادٕ وقتس باپتھ اکیلا گژھن؛
+- کھیٚن چیٚن نِش انکار۔
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer’s Association چھُ صلاح دِوان زِ رَویِہ مسئلن وٲلِس پرٛتھ کٲنٛسہِ شخصس باپتھ پوٗر طبی معاینہٕ گژِھہ، خاص کر ییٚلہ یِم اچانک شروٗع گژھن۔ Family Caregiver Alliance چھُ تہِ صلاح دِوان زِ گۄڈنِک ڈاکٹر سٟتؠ رابطہٕ کٔرِو، تِکیازِ رَویِہ مسئلن ہیکہِ طبی وجہ ٲسِتھ۔ ڈاکٹرس یا فارماسِسٹ سٟتؠ کتھ کرنہٕ بغیر کانٛہہ دوا شروٗع، بند یا تبدیل مَہ کٔرِو۔
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+اگر کانٛہہ خطرس منز آسہِ یا طبی ہنگامی علامت آسن، تیٚلہ 112 فون کٔرِو۔ NIA چھُ صلاح دِوان زِ ڈِسپَیچرس ؤنِو زِ تٔمِس شخصس چھُ ڈیمینشیا۔
 
-## Is it okay if we do nothing at all?
+## کیاہ ٹھیک چھُ اگر اسہِ کِہِنؠ تہِ نہ کرو؟
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+آ۔ کینٛہہ دۄہ چھُ بہترین سرگرمی کانٛہہ سرگرمی نہ آسنہِ: أکِس سٟتؠ بِہِتھ، اَتھ تھپھ تھٲوِتھ، پسندیدٕ موسیقی بوزِتھ، یا کھڑکی نِش جانور وُچھِتھ۔ یہ چھُ نَہ ناکامی۔ سون [أکِس سٟتؠ کھیٚلنٕچ رہنمٲیی](/caregiving/how-to-play-together/) چھُ سمجھٲوان زِ جلدی رُکن یا بالکل شروٗع نہ کرُن کیازِ ہیکہِ صحیح فیصلہٕ ٲسِتھ۔

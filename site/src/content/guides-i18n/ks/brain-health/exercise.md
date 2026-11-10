@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "ورزش تہٕ دِماغی صحت: تحقیق کیاہ چھُ ونان"
+seoTitle: "ورزش تہٕ ڈیمنشیا: تحقیق کیاہ چھُ ونان"
+description: "جسمانی سرگرمی تہٕ ڈیمنشیا خطرس منز تحقیق کیاہ چھُ ونان، تہٕ بُڈؠن لُکن تہٕ ڈیمنشیا سانٛ زِندٕ روزَن والؠن خٲطرٕ محفوظ، مزٕ دار پٲٹھؠ ہِلُن جُلُن۔"
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  تحقیقن ہُنٛد اشارٕ چھُ زِ باقاعدٕ جسمانی سرگرمی چھُ ڈیمنشیا ہُنٛد خطرٕ کم گژھن سٟتؠ جُڑِتھ، تہٕ 2024
+  Lancet کمیشن چھُ جسمانی بے حرکتی 14 بدلاوَن لایقن خطرٕ عاملن منز شٲمِل کٔرِمٕژ۔ آزمٲیشنن چھُنہٕ ثٲبِت
+  کوٚرمُت زِ ورزش چھُ ڈیمنشیا رُکاوان۔ تَتھ پتہٕ تہِ چھُ ہِلُن جُلُن طاقتس، توازنس، مزاجس تہٕ نیندرس
+  فٲیدٕ مند، تَمِی چھُ سٲری، کُرسی پؠٹھ ورزش تہٕ ناچ پَننِی خٲطرٕ کرنہٕ قٲبِل۔ کِہہ نٔو شروع کرنہٕ برونٛہہ
+  کریو ڈاکٹرن سٟتؠ مشورٕ۔
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "جسمانی طور پٲٹھؠ سرگرم لُکن ہُنٛد ڈیمنشیا خطرٕ چھُ عام طور پٲٹھؠ کم، مگر یِہ چھُ زیادہ تر مشاہدٲتی تحقیقو پیٹھ بنیاٛد، آزمٲیشنن پیٹھ نَہ۔"
+  - "بُڈؠن لُکن پؠٹھ اَکھ پنژن ؤرین ورزش آزمٲیشہِ منز آو نہٕ دۅن گروہن درمیان سوچنچ صلاحیتن منز کانٛہہ واضِح فرق۔"
+  - "65 ؤرِیاہو کھۄتہٕ وۄذر لُکن خٲطرٕ CDC ہٕند ہدایتن منز چھُ ایروبِک، پُٹھٕ مضبوط کرٕنؠ تہٕ توازنٕچ سرگرمی شٲمِل، تہٕ یِہ تہِ وَنان زِ کینٛہہ تہِ کرُن چھُ کِہہ نہ کرنہٕ کھۄتہٕ بہتر۔"
+  - "ڈیمنشیا سانٛ زِندٕ روزَن والؠن خٲطرٕ چھُ مختصر، واقف تہٕ أکِسٟتؠ ہِلُن جُلُن، مِثلَن پرٛتھ دۅہ اکھ سٲری، کُنہِ ہدف کھۄتہٕ زیادہ اہم۔"
+  - "پرٛتھ ؤرِ چھُ چورِم حِصہٕ کھۄتہٕ زیادہ بُڈؠن لُکن منز اکھ گِرُن واتان، تَمِی چھُ توازنچ مشق تہٕ محفوظ جاے گۅڈٕ ضروری۔"
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "کیاہ ورزش ہیکہِ ڈیمنشیا رُکٲوِتھ؟"
+    a: "یِہ کانٛہہ ہیکہِ نہٕ وعدٕ کٔرِتھ۔ واریاہ تحقیق چھِ سرگرم روزنس ڈیمنشیا ہُنٛد کم خطرس سٟتؠ جُڑِتھ ونان، مگر طبی آزمٲیشنن چھُنہٕ ہاوُتمُت زِ ورزش چھُ یِہ رُکاوان۔ ورزشٕکؠ باقی واریاہ فٲیدٕ چھِ ثٲبِت، تَمِی چھُ یِہ کرُن فٲیدٕ مند۔"
+  - q: "کیاہ ڈیمنشیا سانٛ زِندٕ روزَن وٲلِس شخصس خٲطرٕ چھا ورزش کرٕنۍ محفوظ؟"
+    a: "عام طور پٲٹھؠ، کینٛہہ منصوبہ بندی سان۔ National Institute on Aging چھُ مشورٕ دِوان زِ نٔو معمول شروع کرنہٕ برونٛہہ کریو تِمن ہُنٛد ڈاکٹرن سٟتؠ مشورٕ، آرام دہ جوتہٕ چُنیو، آب دِیو، تہٕ وقت مختصر تھٲوِو۔ اگر شخص تھکاوُت، بے توازنی یا ناخۄش باسان، رکٲوِو۔"
+  - q: "کمہِ ورزش ہیکن بؠہِتھ کٔرِتھ؟"
+    a: "بؠہِتھ کرنہٕ واجِنؠن منز چھِ کُرسی پؠٹھ ہلکی چالہِ یا کُرسی یوگا، غبارٕ یا نرم بال چھَکُن، بین بیگ چھَکُن، سوپٕکؠ ڈبہٕ تُلنؠ، کھچَن وٲلؠ پٹّہِ سٟتؠ چالہِ تہٕ پیڈل ورزش۔ یِم چھِ تِمن وقتن رٔتؠ انتخاب ییلہِ پَکہُن مشکل آسہِ۔"
+  - q: "اگر شخص ہِلُن جُلُن یژھان آسہِ نہٕ تیٚلہِ کیاہ کرُن؟"
+    a: "زور مَہ دِیو۔ پتہٕ کٔرِو دوبارٕ کوشش، پانہٕ تہِ گٔژِھو شٲمِل، واقف موسیقی لٲگِو، یا ہِلُن جُلُن کُنہِ کٲمَس منز بدلاوِو یُتھ جھاڑو دِیُن یا کُلؠن آب دِیُن۔ میل بکس تام اکھ چھوٹی سٲری تہِ چھِ کافی، تہٕ أکِسٟتؠ نیبرِ بہِتھ روزُن تہِ۔"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+سرگرم روزُن چھُ دِماغی صحتچ تحقیق منز واریاہ پرژھنہٕ آمُت اکھ معمول۔ تحقیق چھُ اَتھ ڈیمنشیا ہُنٛد کم خطرس سٟتؠ جُڑِتھ ونان، مگر اَمِی چھُنہٕ ثٲبِت سپُدمُت زِ ورزش چھُ ڈیمنشیا رُکاوان۔ یِکیناً چھُ صاف زِ ہِلُن جُلُن چھُ پرٛتھ عمرس منز طاقتس، توازنس، مزاجس تہٕ نیندرس مدد کران۔ یتھ صفحس پؠٹھ چھُ تحقیق کیاہ چھُ ونان، بُڈؠن لُکن کتہِ سرگرمی ہٕند مشورٕ چھُ دِنہٕ یِوان، تہٕ ڈیمنشیا سانٛ زِندٕ روزَن وٲلِس شخصس سٟتؠ نٔرم پٲٹھؠ ہِلُن جُلُن کِتھ کٔنۍ ممکن۔
 
-## Does exercise lower the risk of dementia?
+## کیاہ ورزش چھا ڈیمنشیا ہُنٛد خطرٕ کم کران؟
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+تحقیق چھُ اشارٕ کران زِ جسمانی طور پٲٹھؠ سرگرم لُکن چھُ ڈیمنشیا گژھنُک امکان کم آسان، مگر ثبوتن ہٕنز کینٛہہ حدٕ چھِ۔ [2024 Lancet کمیشن برائے ڈیمنشیا](https://doi.org/10.1016/S0140-6736(24)01296-0) چھُ جسمانی بے حرکتی 14 بدلاوَن لایقن خطرٕ عاملن منز شٲمِل کٔرِمٕژ۔ پننِس ماڈلس مُطٲبِق چھِ یِم 14 عامل پورٕ دُنیاہس منز لگ بگ 45٪ ڈیمنشیا خٲطرٕ جوابدہ۔
 
-Here is what the evidence looks like:
+ثبوت کِتھؠ چھِ باسان:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **مشاہدٲتی تحقیق چھِ أکِس طرف اشارٕ کران۔** 58 تحقیقن ہُنٛد اکھ جٲیزٕ، یَتھ کمیشنن ذکر کوٚر، چھُ ونان زِ جسمانی طور پٲٹھؠ سرگرم لُکن ہُنٛد ڈیمنشیا خطرٕ اوسماناً لگ بگ 20٪ کم اوس۔ بوٚڈ فرق اوس تِمن لُکن درمیان یِم تقریباً بالکل بے حرکت ٲسِتھ تہٕ تِمن یِم کم از کم کینٛہہ سرگرمی کران ٲسۍ۔
+- **یِہ رشتہٕ ہیکہِ دۅشوے طرف آسِتھ۔** کمیشن چھُ ونان زِ بے حرکت روزُن ہیکہِ خطرٕ بڑٲوِتھ۔ اَمِی سٟتؠ چھُ یِہ تہِ ونان زِ ڈیمنشیا ہٕندۍ گۅڈٕنِکی دِماغی تبدیلی، یِم تشخیص برونٛہہ واریاہن ؤرِین شروع گژھان چھِ، ہیکن لُکھ کم سرگرم بنٲوِتھ۔
+- **آزمٲیشہِ ہٕندۍ نٔتیجٕ چھِ کم واضِح۔** اکہِ آزمٲیشہِ منز ٲسۍ 945 بُڈؠ لُکھ، یِمن ہُنٛد اوسط وۄذر اوس 78 ؤری، تہٕ تِمن آو پنژن ؤرِین ہَفتس دۅہ لٹؠ نگرٲنی منز ورزش یا مُقابلہٕ گروہس منز دِنہٕ۔ ٲخرس منز آیہِ نہٕ دۅن گروہن درمیان سوچنچ صلاحیتن منز کانٛہہ واضِح فرق۔ مُقابلہٕ گروہس منز تہِ ٲسۍ واریاہ لُکھ سرگرم، یِمَو سٟتؠ چھُ نٔتیجہٕ سمجھُن مشکل گژھان۔
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) چھُ یِہ صاف پٲٹھؠ ونان۔ جسمانی سرگرمی تہٕ الزائمر رُکاونَس درمیان چھُنہٕ کانٛہہ واضِح رشتہٕ آموُت سامنہِ، تہٕ آزمٲیشی ثبوت چھِنہٕ واریاہ زِ یِہ ؤنِتھ ہیکو زِ ورزش چھُ یِہ رُکاوان یا سُست کران۔ تَتھ پتہٕ تہِ چھُ ورزش گِرنہٕ ہُنٛد خطرٕ، اُداسی، ذیابیطس، ہائی بلڈ پریشر تہٕ فالج ہُنٛد خطرٕ کم کران۔ یِمَو منز چھِ کینٛہہ حالت فِکرِ سوچِ ہٕندِس کمزور گژھنس سٟتؠ تہِ جُڑِتھ۔
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+صاف حقیقت چھِ یِہ زِ ہِلِو جُلِو تِکیازِ اَمہِ سٟتؠ چھُو تۄہیہِ اَز بہتر محسوس گژھان تہٕ بہتر کٲم کران۔ دِماغس خٲطرٕ کانٛہہ فٲیدٕ اگر آو، سُہ چھُ مُمکِن، وعدٕ نَہ۔
 
-## How much activity do older adults need?
+## بُڈؠن لُکن کتہِ سرگرمی ہٕنز ضرورت چھِ؟
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[65 ؤرِیاہو کھۄتہٕ وۄذر لُکن خٲطرٕ CDC ہٕند ہدایت](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) چھُ ہَفتس منز ترٚے قٔسمٕچ سرگرمی ہُنٛد مشورٕ دِوان:
 
-| Type | Weekly amount | Examples |
+| قٔسم | ہَفتہٕ وار مقدار | مِثالہٕ |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| ایروبِک | کم از کم 150 مِنٹ درمیانہٕ سرگرمی، مِثلَن 5 دۅہن 30 مِنٹ | تیز سٲری، ناچ، آبہٕ منز ایروبِکس |
+| پُٹھٕ مضبوط کرٕنۍ | کم از کم 2 دۅہ، تمام بڈؠ پُٹھؠ شٲمِل کٔرِتھ | ہلکی وَزَن یا سوپٕکؠ ڈبہٕ تُلنؠ، کھچَن وٲلؠ پٹّہِ |
+| توازن | باقاعدٕ | ایڈی ژھیٹھ پٲٹھؠ پَکھُن، کُرسی پیٹھ کھڑا گژُھن |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+یِم چھِ ہدف، شروعاتی شرط نَہ۔ CDC چھُ ونان زِ اگر تۄہیہِ یِم پورٕ ہیکو نہٕ کٔرِتھ، تیٚلہِ کٔرِو تِیُتھ سرگرم یِیُتھ تُہٕنز صلاحیت تہٕ صحت اجازت دِیہِ۔ کینٛہہ تہِ کرُن چھُ کِہہ نہ کرنہٕ کھۄتہٕ بہتر۔
 
-## Gentle ways to move for older adults
+## بُڈؠن لُکن خٲطرٕ ہِلُن جُلُن ہٕندۍ نٔرم طریقہٕ
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **أکِسٟتؠ سٲری کٔرِو۔** دۅستس، ہمسایس یا سٲری گروہس سٟتؠ پرٛتھ دۅہ اکھ سٲری چھُ کتھ باتھ تہٕ حفاظت تہِ رٹان۔
+- **کُرسی پؠٹھ ورزش۔** کُرسی پؠٹھ اَتھ تُلنؠ، گُٹن ہٕندۍ گول چکر، جایِ بؠہِتھ پَکھُن تہٕ کُرسی یوگا چھِ توازنس خطرٕ بغیر طاقت بڑاوان۔
+- **باوَرچِ خانس منز ناچ۔** تِمن ہٕندِ نوجوانی ہُنٛد یا وُشرُنِک وقتُک موسیقی لٲگِو تہٕ ہلکہٕ ہلکہٕ ہِلِو، تھپتھپٲوِو یا قدم تُلِو۔ اسہِ ہٕندِس [موسیقی سرگرمی ہٕندِس رہنما صفحس](/activities/music/) پؠٹھ چھِ تجاویز۔
+- **گھرٕکؠن چیٖزن سٟتؠ طاقت۔** پنُن پسندیدٕ پروگرام وُچھان وُچھان کٔرِو آبہٕ سٟتؠ بٔرِتھ بوتلہٕ یا سوپٕکؠ ڈبہٕ تُلنچ مشق۔**
+- **باغبانی یا گھرٕکۍ کٲم۔** کُلؠن آب دِیُن، پَتہٕ اِکہٕ وٹہٕ کرٕنۍ، جھاڑو دِیُن تہٕ کپڑٕ تہہ کرٕنۍ، یِم سٲری چھِ شٲمِل۔ [نیبرِم تہٕ باغبٲنی سرگرمی](/activities/outdoor-and-gardening/) تہٕ [گھرٕکۍ کٲم](/activities/household-tasks/) وُچھِو۔
+- **آبہٕ منز ورزش۔** NIA چھُ آبہٕ منز ایروبِکس کلاسہٕ تِمن لُکن خٲطرٕ اکھ اختیار زانان یِمن خشکی پؠٹھ ورزش جوڑن خٲطرٕ سخت باسان چھِ۔
 
-## How to exercise with someone living with dementia
+## ڈیمنشیا سانٛ زِندٕ روزَن وٲلِس شخصس سٟتؠ ورزش کِتھ کٔنۍ کرٕنۍ
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+ڈیمنشیا سانٛ زِندٕ روزَن وٲلِس شخصس خٲطرٕ چھُ مقصد آرام، مزٕ تہٕ پرٛتھ دۅہکؠن صلاحیتن ہُنٛد برقرار تھاوُن، کانٛہہ نمبر حٲصِل کرُن نَہ۔ NIA چھُ ونان زِ جسمانی سرگرمی چھُ الزائمر سانٛ وٲلِس شخصس سٕندۍ پُٹھٕ، جوڑ تہٕ دِل تندرست تھاونس منز مدد کران، تہٕ مزاجس تہٕ نیندرس منز تہِ ہیکہِ بہتری اَنِتھ۔ نٔو معمول شروع کرنہٕ برونٛہہ کریو تِمن ہُنٛد ڈاکٹرن سٟتؠ مشورٕ۔ [NIA ہٕندِس دیکھ بھال رہنما](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ہٕندۍ کینٛہہ مشورٕ چھِ:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **پرٛتھ دۅہ کٔرِو أکِسٟتؠ سٲری۔** اکھ محفوظ، واقف وَتھ چُنیو یَتھ منز رُکاوٹ آسہِ نہٕ۔ اگر شخص اکیلے پَکان چھُ، تیٚلہِ چھُ تُہٕندِس فون نمبر سٟتؠ ID بریسلٹ ٹھیک۔
+2. **بُڈؠن لُکن خٲطرٕ ورزش ویڈیو آزمٲوِو۔** أکِسٟتؠ کٔرِو پیروی، بؠہِتھ یا کھڑا روزِتھ۔
+3. **وقت تھٲوِو مختصر۔** واریاہ چھوٹی ”مِنی ورک آؤٹ“ ہیکن اکہِ ؤڈِ سیشن کھۄتہٕ بہتر کٲم کٔرِتھ۔
+4. **موسیقی شٲمِل کٔرِو۔** واقف گیت چھِ ہِلُن جُلُن اکھ سرگرمی بناوان، کٲم نَہ۔ اگر شخص پسند کران چھُ تیٚلہِ کٔرِو ناچ۔
+5. **آب تہٕ آرام دہ جوتہٕ دِیو۔** دوران تہٕ پتہٕ دِیو آب یا جوس، تہٕ آرام دہ کپڑٕ تہٕ ورزش خٲطرٕ بنٲومِتۍ ٹھیک جوتہٕ چُنیو۔
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+اگر پَکھُن مشکل آسہِ، تیٚلہِ چھُ [الزائمر سانٛ وٲلِس شخصس ہٕنز دیکھ بھال کرنُک NIA رہنما](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) بؠہِتھ کرنہٕ واجِنؠن ہُنٛد مشورٕ دِوان۔ یِمن منز چھِ کُرسی پؠٹھ ورزش یا یوگا، بین بیگ چھَکُن، نرم بال یا غبارٕ چھَکُن، کھچَن وٲلؠ پٹّہِ، ہلکی گھریلو چیزٕ تُلنؠ، تہٕ پیڈل ورزش۔ جھاڑو دِیُن تہٕ گرد صاف کرُن ہِوۍ سادٕ کٲم تہِ چھِ شٲمِل۔
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+یِہ سمجھُن تہِ چھُ ضروری زِ ہِلُن جُلُن کیاہ ہیکہِ نہٕ کٔرِتھ۔ Lancet کمیشنن آیہِ نہٕ کانٛہہ ثبوت لبنہٕ زِ ورزش چھُ بیچینی ہِوین رویَن منز کمی اَنٲوِتھ۔ أکِسٟتؠ ہِلِو جُلِو تِکیازِ یِہ ہیکہِ خۄشگوار لٲگِتھ، کانٛہہ سخت دوپہر ٹھیک کرنُک ذریعہٕ بناوُن نَہ۔ اگر شخص نہٕ وَنان چھُ، تیٚلہِ چھُ ٹھیک۔ اسہِ ہٕندِس [ییلہِ تِم نہٕ وَنن](/caregiving/when-they-say-no/) صفحس پؠٹھ چھِ پتہٕ کوشش کرنٕکۍ نٔرم طریقہٕ۔ جلدی ختم کرُن، یا صرف أکِسٟتؠ نیبرِ بہِتھ روزُن، یِہ تہِ چھُ اکھ رُت نٔتیجہٕ۔
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+ہِلُن جُلُن پتہٕ ہیکہِ اکھ پُرسکون وقفہٕ، مِثلَن [پُرسکون ساہ](/games/calm-breathing/)، تۄہیہِ دۅشوٕنۍ آرام واتناونس منز مدد کٔرِتھ۔ میزس پؠٹھ نٔرم اَتھ ہِلاونہٕ واجِنہِ بؠہِتھ سرگرمی خٲطرٕ چھِ [أکِسٟتؠ ترتیب دِیو](/games/sort-together/) تہٕ [تصویری بِنگو](/games/picture-bingo/) مناسب۔
 
-## Balance and fall safety
+## توازن تہٕ گِرنہٕ نِش حفاظت
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+گِرُن چھُ عام تہٕ سنجیدٕ۔ [CDC چھُ وَنان](https://www.cdc.gov/falls/data-research/facts-stats/index.html) زِ پرٛتھ ؤرِ چھُ چورِم حِصہٕ کھۄتہٕ زیادہ بُڈؠن لُکن منز اکھ گِرُن واتان، مگر اَدھن کھۄتہٕ کم چھِ پننِس ڈاکٹرس ونان۔ اکہِ لٹہِ گِرنس پتہٕ چھُ دوبارٕ گِرنُک امکان دوگنہٕ گژھان۔ CDC ہٕندِ فہرست مُطٲبِق کینٛہہ خطرٕ عامل چھِ:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- کھۄرَن تہٕ رانَن ہٕنز کمزوری
+- پَکنس تہٕ توازنس منز دِقّت
+- کینٛہہ دوا، مِثلَن نیندٕچ دوا تہٕ کینٛہہ اُداسی ہٕنز دوا
+- نظرِ ہٕنز مشکل
+- کھۄرَن ہُنٛد دۅد یا ناقص جوتہٕ
+- گرِکؠ خطرٕ، مِثلَن بکھرِتھ چیزٕ، چھوٹ قالین تہٕ ٹوٹمِتۍ سیڑھی
 
-To move more safely:
+زیادہ محفوظ پٲٹھؠ ہِلُن جُلُن خٲطرٕ:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **مضبوط کُرسی استعمال کٔرِو** یَتھ پہیہٕ آسَن نہٕ، تہٕ کھڑا گژھنہٕ واجِنہِ ورزش خٲطرٕ تھٲوِو کاؤنٹر یا ریل نکھہٕ۔
+- **جاے کٔرِو گۅڈٕ صاف**، قالین، تار تہٕ بکھرِتھ چیزٕ کٔڈِو نیبر۔
+- **کھڑا گژھنہٕ وقت گٔژِھو وارٕ وارٕ**، تہٕ اگر شخصس چکر یا بے توازنی باسان چھِ تیٚلہِ رکٲوِو۔
+- **سہارا دِنہٕ وٲلۍ جوتہٕ پٲوِو**، موزہٕ یا ڈھیلہٕ چپل نَہ۔
+- **سہارس نکھہٕ کٔرِو توازنچ مشق۔** کُرسی پیٹھ کھڑا گژُھن تہٕ ایڈی ژھیٹھ پٲٹھؠ پَکھُن چھِ CDC ہٕنز توازنچ مِثالہٕ۔
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC چھُ مشورٕ دِوان زِ اگر کانٛہہ بُڈ شخص گِرِ تہٕ تَس کَلس پؠٹھ لٲگی، تیٚلہِ گژِھ فوراً ڈاکٹرس نِش گژُھن، خاص طور پٲٹھؠ اگر سُہ خون پتلا کرنہٕ واجِنہِ دوا خٲران آسہِ۔
 
-## Talk with a doctor
+## ڈاکٹرن سٟتؠ کٔرِو کتھ
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+نٔو ورزش معمول شروع کرنہٕ برونٛہہ کریو ڈاکٹرن سٟتؠ مشورٕ، خاص طور پٲٹھؠ تِمن لُکن خٲطرٕ یِمن دِل یا پُھپھُس ہٕنز بیماری، جوڑن ہُنٛد دۅد، توازنچ مشکل، یا ڈیمنشیا آسہِ۔ ڈاکٹر یا فزیو تھراپسٹ ہیکہِ محفوظ سرگرمی ہٕند مشورٕ دِتھ تہٕ یِہ تہِ وُچھِتھ زِ دوا چھا توازنس پؠٹھ اثر تراوان۔ پرٛتھ گِرنُک واقعہٕ ؤنِو ڈاکٹرس، خواہ چوٹہِ بغیر آسہِ۔ اگر ورزش دوران کینٛہہ دۅد یا غلط باسان چھُ، تیٚلہِ رکٲوِو۔ اچانک چھاتی ہُنٛد دۅد، ساہ ہؠنَس منز دِقّت، یا اچانک الجھنٕچ صورت منز کریو 112 فون۔
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+یِہ صفہٕ چھُ عام معلومات خٲطرٕ، طبی مشورٕ نَہ۔ اسہِ ہُنٛد [طبی اعلانِ لاتعلقی](/medical-disclaimer/) وُچھِو۔ ؤڈِ تصویر خٲطرٕ پٔرِو [ڈیمنشیا ہٕندِ خطرٕ عاملن مُتعلِق تحقیق کیاہ چھُ ونان](/brain-health/risk-factors/) تہٕ [کیاہ ڈیمنشیا ہیکہِ رُکِتھ](/brain-health/can-dementia-be-prevented/)۔
