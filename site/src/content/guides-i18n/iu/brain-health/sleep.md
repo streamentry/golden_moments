@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "ᓯᓂᓕᕆᓂᖅ ᑲᕉᓯᒪᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓕᕆᓂᕐᒧᑦ: ᖃᐅᔨᓴᕐᓂᖅ"
+seoTitle: "ᓯᓂᓕᕆᓂᖅ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ: ᖃᐅᔨᓴᕐᓂᖅ ᐅᖃᐅᓯᖏᑦ"
+description: "ᖃᐅᔨᓴᕐᓂᖅ ᐅᖃᐅᓯᖏᑦ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ, ᖃᐅᔨᓴᕐᓂᖅ ᓱᓕ ᐱᒋᐊᕈᑎᒋᔪᖅ, ᐊᒻᒪ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐃᑲᔪᖅᑐᐃᔪᑦ ᐃᓐᓇᐃᑦ ᒪᓂᕋᕐᓯᔨᐅᔪᓪᓗ."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  ᐃᓚᖏᑦ ᐅᓪᓗᒥ ᐊᑯᓂᐅᔪᒃᑯᑦ ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᕗᑦ ᐊᑯᓂᐅᓂᖏᑦ ᐃᓂᕐᒧᑦ ᐅᑭᐅᓂ ᐊᑯᓐᓂᖓᓂ ᓯᓂᖃᑦᑕᖅᑐᑦ 6 ᐃᑲᕐᕋᓂᒃ ᐅᖓᑖᓂᒃ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ ᐅᓄᕈᓐᓃᕈᓐᓇᕐᓂᖏᓐᓂᒃ. ᖃᐅᔨᓴᕐᓂᕐᒧᑦ ᖃᐅᔨᒪᔭᐃᑦ ᐃᓱᒪᒋᔭᐅᕗᑦ ᓯᓂᓕᕆᓂᖅ ᐃᑲᔪᕈᓐᓇᕐᓂᖓᓂᒃ ᑲᕉᓯᒪᓂᕐᒧᑦ ᓱᕈᓯᕐᓂᒃ ᓴᓗᒪᓂᖏᓐᓂᒃ ᐲᕐᓂᐊᕐᓂᖓᓂᒃ. ᑖᓐᓇ ᖃᐅᔨᓴᕐᓂᖅ ᓱᓕ ᐱᒋᐊᕈᑎᒋᔪᖅ, 2024-ᒥ ᒪᓐᓇ Lancet Commission ᓯᓂᓕᕆᓂᖅ ᑎᑎᕋᖅᓯᒪᙱᑦᑐᖅ ᐊᓯᔾᔨᖅᑕᐅᔪᓐᓇᖅᑐᓂᒃ ᐊᒃᑐᐊᓂᖃᕐᓂᕐᒧᑦ ᓇᓗᓇᐃᖅᑕᐅᔪᓂᒃ. ᐊᑐᖅᑕᐅᓲᖑᔪᑦ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐃᓕᖅᑯᓯᕆᔾᔪᑏᑦ ᐃᑲᔪᕗᑦ ᐅᓪᓗᑕᒫᑦ ᖃᐅᔨᒋᐊᕐᓂᕐᓂ. ᓯᓂᓕᕆᓂᕐᒧᑦ ᐊᔪᕐᓇᙱᑦᑐᑦ ᐳᐃᖅᑐᓕᕆᓂᖃᖅᑐᓂ ᐃᓄᓐᓂ ᐊᑦᔨᒌᖕᖏᑐᑦ ᐊᒻᒪ ᐋᓐᓂᐊᖃᖅᑎᒧᑦ ᐅᖃᐅᓯᔭᕆᐊᖃᖅᑐᑦ.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "ᐅᑭᐅᖅᑕᖅᑐᒥ ᖃᐅᔨᓴᕐᓂᖅ ᒪᓕᒃᑕᐅᑎᓪᓗᒍ 8,000 ᐃᓄᐃᑦ 25 ᐊᕐᕌᒍᓄᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᕗᖅ 6 ᐃᑲᕐᕋᓂᒃ ᐅᖓᑖᓂᒃ ᓯᓂᖃᑦᑕᕐᓂᖅ ᐅᑭᐅᓂ ᐊᑯᓐᓂᖓᓂ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ ᐅᓄᕈᓐᓃᕈᓐᓇᕐᓂᖏᓐᓂᒃ."
+  - "ᓯᓂᓕᕆᓂᕐᒧᑦ ᐊᓯᔾᔨᖅᑐᑦ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᓯᕗᓪᓕᖅᐹᒥ ᓇᓗᓇᐃᔭᖅᑕᐅᔪᓐᓇᖅᑐᑦ, ᑕᐃᒪᐃᒻᒪᑦ ᓇᓗᓇᕐᓂᖅ ᐱᔾᔪᑎᖓ ᐱᔾᔪᑕᐅᓂᖓ ᐊᔪᕐᓇᖅᑐᖅ."
+  - "ᖃᐅᔨᓴᕐᓂᖅ ᓯᓂᓕᕆᓂᖅ ᑲᕉᓯᒪᓂᕐᒥᒃ ᐱᕈᖅᓴᓯᒪᔪᓂᒃ ᐲᕐᓂᐊᕐᓂᖓᓂᒃ ᐱᔭᕇᖅᓯᒪᔪᖅ ᑭᓯᐊᓂ ᓱᓕ ᐱᒋᐊᕈᑎᒋᔪᖅ, ᐊᒥᓱᖏᑦ ᑕᕆᐅᑲᓐᓂ."
+  - "ᓯᓂᖃᑦᑕᕐᓂᖅ ᐊᓂᖅᓵᖅᑐᐃᓪᓗᓂ (sleep apnea) ᐊᑦᔨᒌᖕᖏᑐᖅ, ᐋᓐᓂᐊᖅᑕᐅᔪᓐᓇᖅᑐᖅ ᐊᒻᒪ ᖃᐅᔨᓴᕐᓂᓂ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᖅᑐᖅ; ᓂᐱᓪᓗᐊᑕᖅ ᑯᕋᓗᒃᑐᖅ ᐅᓪᓗᒥ ᕿᐊᒃᑲᐃᓂᖅ ᖃᐅᔨᒋᐊᕆᐊᖃᖅᑐᑦ."
+  - "ᓯᓂᓕᕆᓂᕐᒧᑦ ᑕᖅᓴᓕᐅᕈᑎᒥᒃ ᐱᒋᐊᕈᓐᓇᖏᑦᑐᑎᑦ, ᓄᖅᑲᖅᑎᓪᓗᒍ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᔾᔨᖅᑎᓪᓗᒍ ᐋᓐᓂᐊᖃᖅᑎᒥᒃ ᐅᖃᐅᓯᖃᑦᑕᖅᓯᒪᙱᓪᓗᑎᑦ."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "ᓯᓂᓕᕆᓂᖅ ᐋᓐᓂᐊᖃᙱᑦᑐᖅ ᐱᔾᔪᑎᖃᖅᐸ ᐋᓐᓗᒋᕗᒻᒥ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ?"
+    a: "ᑕᐃᒪᓐᓇ ᑕᑯᒃᓴᐅᑎᑕᐅᓯᒪᙱᑦᑐᖅ. ᐃᓚᖏᑦ ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᕗᑦ ᓯᓂᖃᑦᑕᕐᓂᖅ ᓇᐃᓪᓕᒋᔭᐅᓂᖅ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ ᐅᓄᕈᓐᓃᕈᓐᓇᕐᓂᖏᓐᓂᒃ, ᑭᓯᐊᓂ ᐳᐃᖅᑐᓕᕆᓂᖅ ᐃᒪᖓᓄᑦ ᓯᓂᓕᕆᓂᕐᒥᒃ ᐊᔪᕐᓇᙱᑎᑦᑎᕗᖅ, ᐊᕐᕌᒍᑦ ᐊᒥᓱᑦ ᓯᕗᓪᓕᖅ ᓇᓗᓇᐃᖅᑕᐅᓂᖓᓂ. 2024-ᒥ Lancet Commission ᐃᓱᒪᒋᔭᖓ ᖃᐅᔨᓴᕐᓂᖅ ᓇᓗᓇᐃᖅᓯᒪᙱᓐᓂᖓ ᓯᓂᓕᕆᓂᕐᒥᒃ ᐊᓯᔾᔨᖅᑕᐅᔪᓐᓇᖅᑐᓂᒃ ᐊᒃᑐᐊᓂᖃᕐᓂᕐᒧᑦ ᓇᓗᓇᐃᖅᑕᐅᔪᓂᒃ ᑎᑎᕋᕐᓗᒍ."
+  - q: "ᖃᑦᓯᐅᓂᖅ ᐃᑲᕐᕋᓂᒃ ᐃᓐᓇᐃᑦ ᓯᓂᖃᑦᑕᕆᐊᖃᖅᐲᑦ?"
+    a: "National Institute on Aging ᐅᖃᖅᑐᖅ ᐃᓐᓇᐃᑦ ᓯᓂᖃᑦᑕᕆᐊᖃᖅᑐᑦ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐃᓄᐃᑦ ᐊᓯᖏᓐᓂ, 7-ᒥᑦ 9-ᒧᑦ ᐃᑲᕐᕋᓄᑦ ᐅᓐᓄᐊᒧᑦ. ᐃᓐᓇᐃᑦ ᐊᒥᓱᑦ ᓯᕗᓐᓂᖅᓴᐅᕙᑦ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐃᑎᕐᓗᑎᒃ ᒪᒃᑯᒃᑐᐃᓪᓗᑎᒃ, ᑖᓐᓇ ᐊᑦᔨᒌᖕᖏᑐᖅ."
+  - q: "ᓱᖃᓪᓚᕆᒻᒪᑦ ᐳᐃᖅᑐᓕᕆᓂᖃᖅᑐᖅ ᐃᓄᒃ ᐅᓪᓗᒥ ᓯᓂᖃᑦᑕᖅᐸ ᐅᓐᓄᒃᑯᑦ ᐃᑎᖅᐸ?"
+    a: "ᐳᐃᖅᑐᓕᕆᓂᖅ ᑎᒥᒧᑦ ᐅᓪᓗᕐᒧᑦ ᓇᓗᓇᐃᖅᑕᐅᔪᓂᒃ ᐊᓯᔾᔨᖅᑎᑦᑎᔪᓐᓇᖅᑐᖅ, ᑕᐃᒪᐃᒻᒪᑦ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐃᑎᕐᓂᕐᒧᑦ ᐱᕈᕐᓇᐅᑏᑦ ᐋᖅᑭᒃᓱᐃᕙᑦ. ᐋᓐᓂᐊᖅ, ᓱᓇᒃᑯᑖᕐᓂᖅ, ᑲᐃᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᑕᖅᓴᓕᐅᕈᑎᐅᑉ ᐊᑯᓐᓂᖏᑦ ᐃᓚᒋᔭᐅᔪᓐᓇᖅᑐᑦ. ᐅᓪᓗᒥ ᖃᐅᒻᒪᖅ, ᐅᓪᓗᑕᒫᑦ ᐱᓕᕆᐊᖃᕐᓂᖅ ᐊᒻᒪ ᓴᐃᓕᒪᓂᖅ ᐅᓐᓄᒃᑯᑦ ᐱᕈᕐᓇᐅᑎ ᐃᑲᔪᕈᓐᓇᖅᑐᑦ. ᐋᓐᓂᐊᖃᖅᑎ ᖃᐅᔨᔪᓐᓇᖅᑐᖅ ᐱᔾᔪᑎᖏᓐᓂᒃ ᐋᓐᓂᐊᖅᑕᐅᔪᓐᓇᖅᑐᓂᒃ."
+  - q: "ᓯᓂᓕᕆᓂᕐᒧᑦ ᐃᑲᔪᖅᑐᒥᒃ ᑕᖅᓴᓕᐅᕈᑎᒥᒃ ᑐᓂᔭᕆᐊᖃᖅᐲᖓ ᐃᓄᒻᒧᑦ ᒪᓂᕋᕐᓯᒪᔪᒻᓄᑦ?"
+    a: "ᐋᓐᓂᐊᖃᖅᑎᖓᓄᑦ ᐅᖃᐅᓯᖃᑦᑕᕐᓗᑎᑦ ᓯᕗᓪᓕᖅᐹᒥ, ᓂᐅᕕᐊᒃᓴᖃᙱᑦᑐᓂᒃ ᑕᖅᓴᓕᐅᕈᑎᓂᒃ ᐃᓚᒋᓗᒋᑦ. National Institute on Aging ᐅᖃᖅᑐᖅ ᐃᓚᖏᑦ ᓯᓂᓕᕆᓂᕐᒧᑦ ᑕᖅᓴᓕᐅᕈᑏᑦ ᐅᓗᕆᐊᓇᒃᑯᑕᒥᒃ, ᐊᒃᑲᐃᓂᕐᒥᒃ ᐊᒻᒪ ᐃᓱᒪᒃᓴᖅᓯᐅᕈᓐᓇᓂᕐᒥᒃ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ ᐅᓄᕈᓐᓃᑎᑦᑎᔪᓐᓇᖅᑐᑦ ᐋᓐᓗᒋᕗᒻᒥ ᐳᐃᖅᑐᓕᕆᓂᖃᖅᑐᓂ ᐃᓄᓐᓂ."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+ᓯᓂᓕᕆᓂᖅ ᑲᕉᓯᒪᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓕᕆᓂᖅ ᐊᒃᑐᐊᓂᖃᖅᑐᑦ, ᑭᓯᐊᓂ ᖃᓄᖅ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᑦ ᓱᓕ ᖃᐅᔨᒪᔭᐅᓯᒪᔪᑦ. ᐃᓚᖏᑦ ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᕗᑦ ᓯᓂᖃᑦᑕᕐᓂᖅ ᓇᐃᓪᓕᒋᔭᐅᓂᖅ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ ᐅᓄᕈᓐᓃᕈᓐᓇᕐᓂᖏᓐᓂᒃ. ᐳᐃᖅᑐᓕᕆᓂᖅ, ᐊᓯᖏᓐᓂᒃ, ᓯᓂᓕᕆᓂᕐᒥᒃ ᐊᔪᕐᓇᙱᑎᑦᑎᕙᑦ. ᑖᓐᓇ ᒪᒃᐱᖅᑐᒐᖅ ᓇᓗᓇᐃᔭᐃᕗᖅ ᖃᐅᔨᓴᕐᓂᖅ ᖃᓄᖅ ᑕᑯᒃᓴᐅᑎᑦᑎᓂᖓᓂᒃ ᑕᑯᒃᓴᐅᑎᑦᑎᙱᓂᖓᓂᒃᓗ, ᑐᓂᓯᕗᖅ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐃᓕᖅᑯᓯᕆᔾᔪᓯᓂᒃ ᐃᑲᔪᖅᑐᓂᒃ, ᐊᒻᒪ ᐅᖃᐅᓯᕗᖅ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐊᔪᕐᓇᙱᑦᑐᓂᒃ ᐳᐃᖅᑐᓕᕆᓂᖃᖅᑐᓂ ᐃᓄᓐᓂ ᐊᑦᔨᒌᖕᖏᑐᓂᒃ. ᑕᖅᓴᓕᐅᕈᑎᓂᒃ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐱᔾᔪᑎᖃᙱᑦᑐᖅ; ᑕᐃᒪᓐᓇ ᐅᖃᐅᓯᖃᕐᓂᖅ ᐋᓐᓂᐊᖃᖅᑎᒧᑦ ᐱᔭᕆᐊᖃᖅᑐᖅ.
 
-## Is poor sleep linked with dementia?
+## ᓯᓂᓕᕆᓂᖅ ᐋᓐᓂᐊᖃᙱᑦᑐᖅ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᖅᐸ?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+ᐃᓚᖏᑦ ᐅᓪᓗᒥ ᐊᑯᓂᐅᔪᒃᑯᑦ ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᕗᑦ ᓯᓂᖃᑦᑕᕐᓂᖅ ᓇᐃᓪᓕᒋᔭᐅᓂᖅ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ ᐅᓄᕈᓐᓃᕈᓐᓇᕐᓂᖏᓐᓂᒃ, ᑭᓯᐊᓂ ᖃᐅᔨᓴᕐᓂᖅ ᓱᓕ ᓇᓗᓇᐃᖅᓯᒪᙱᑦᑐᖅ.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **25 ᐊᕐᕌᒍᓄᑦ ᖃᐅᔨᓴᕐᓂᖅ ᐅᑭᐅᖅᑕᖅᑐᒥ.** ᖃᐅᔨᓴᖅᑎᑦ ᒪᓕᒃᑕᐅᑎᓪᓗᒋᑦ 8,000 ᐃᓄᐃᑦ [Whitehall II ᖃᐅᔨᓴᕐᓂᖓᓂ](https://www.nature.com/articles/s41467-021-22354-2). ᐃᓄᐃᑦ 6 ᐃᑲᕐᕋᓂᒃ ᐅᖓᑖᓂᒃ ᓯᓂᖃᑦᑕᖅᑐᑦ 50 ᐅᕝᕙᓘᓐᓃᑦ 60 ᐅᑭᐅᓂ ᐱᒋᐊᕐᓂᖏᓐᓂ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᑦ ᐅᓄᕈᓐᓃᕙᑦ ᑭᖑᓂᖓᓂ 7 ᐃᑲᕐᕋᓂᒃ ᓯᓂᖃᑦᑕᖅᑐᓂᑦ. ᐃᓄᐃᑦ 6 ᐃᑲᕐᕋᓂᒃ ᐅᖓᑖᓂᒃ ᓯᓂᖃᑦᑕᖅᑐᑦ 50, 60 ᐊᒻᒪ 70 ᐅᑭᐅᓂ 30% ᒥᑦᓵᓄᑦ ᐅᓄᕈᓐᓃᕙᑦ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ 7 ᐃᑲᕐᕋᓂᒃ ᐊᑐᖅᑕᐅᓲᖑᔪᓂᒃ ᓯᓂᖃᑦᑕᖅᑐᓂᑦ. ᑖᓐᓇ ᖃᐅᔨᓴᕐᓂᖅ ᑕᑯᓯᒪᔪᖅ ᐊᒃᑐᐊᓂᖃᕐᓂᖓᓂᒃ, ᑭᓯᐊᓂ ᐱᔾᔪᑎᖓ ᑕᑯᒃᓴᐅᑎᑦᑎᙱᑦᑐᖅ.
+- **Lancet Commission ᐃᓱᒪᒋᔭᖏᑦ.** [2024-ᒥ Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ᓯᓂᓕᕆᓂᕐᒥᒃ ᐃᓚᓯᙱᑦᑐᖅ 14-ᓄᑦ ᐊᓯᔾᔨᖅᑕᐅᔪᓐᓇᖅᑐᓄᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᕐᒧᑦ ᓇᓗᓇᐃᖅᑕᐅᔪᓄᑦ. ᐃᓱᒪᒋᔭᖏᑦ ᖃᐅᔨᓴᕐᓂᖅ ᓇᓗᓇᐃᖅᓯᒪᙱᓐᓂᖓ ᐱᔭᕇᖅᓯᒪᙱᑦᑐᖅ. ᐱᔾᔪᑎᖓ ᐃᓚᖓ ᐅᑯᓇᖓ «reverse causation»: ᑲᕉᓯᒪᓂᕐᒧᑦ ᐊᓯᔾᔨᖅᑐᑦ ᐳᐃᖅᑐᓕᕆᓂᖃᖅᑐᓂ ᐱᒋᐊᕈᑎᒋᔪᑦ ᐊᕐᕌᒍᑦ ᐊᒥᓱᑦ ᓯᕗᓪᓕᖅ ᓇᓗᓇᐃᖅᑕᐅᓂᖓᓂ ᐊᒻᒪ ᓯᓂᓕᕆᓂᕐᒥᒃ ᐊᔪᕐᓇᙱᑎᑦᑎᔪᓐᓇᖅᑐᑦ. ᐊᖏᔪᒥ ᖃᐅᔨᓴᕐᓂᕐᒥ, ᓯᓂᖃᑦᑕᕐᓂᖅ ᐅᓄᓯᒪᔪᖅ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖓ ᐲᔭᐅᓚᐅᖅᑐᖅ ᓯᕗᓪᓕᖏᑦ 5 ᐊᕐᕌᒍᑦ ᒪᓕᒃᑕᐅᓂᖏᑦ ᐲᖅᑕᐅᒃᑲᓐᓂᕐᓗᒋᑦ.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+ᑕᐃᒪᐃᒻᒪᑦ ᐊᑕᐅᓯᕐᒥᒃ ᐅᓐᓄᐊᒥ ᓯᓂᖃᑦᑕᕐᓂᖅ ᓇᐃᓪᓕᒋᔭᐅᓂᖅ ᐃᓱᒪᒃᓴᖅᓯᐅᕈᑎᖃᕈᓐᓇᙱᑦᑐᖅ. ᐊᑐᖅᑕᐅᓲᖑᔪᖅ ᐋᓐᓂᐊᖃᖅ ᓯᓂᓕᕆᓂᖅ ᐱᕈᕐᓇᐅᑐᐃᓐᓇᖅᑐᖅ, ᐅᓪᓗᑕᒫᑦ ᖃᐅᔨᒋᐊᕐᓂᕐᓄᑦ, ᐃᕿᐊᓱᒃᑕᐅᓂᕐᒧᑦ ᐊᒻᒪ ᐊᑦᑕᕐᓇᖅᑕᐃᓕᒪᓂᕐᒧᑦ ᐃᑲᔪᕐᒪᑦ.
 
-## What is the "brain-clearing" sleep research?
+## ᓯᓂᓕᕆᓂᖅ «ᑲᕉᓯᒪᓂᕐᒥᒃ ᓴᓗᒪᓂᖃᕐᓂᖓ» ᖃᐅᔨᓴᕐᓂᕐᒧᑦ ᖃᓄᐃᑦᑑᓂᖓ?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+ᐅᖃᐅᓯᖃᕈᓐᓇᖅᑐᑎᑦ ᓯᓂᓕᕆᓂᖅ ᑲᕉᓯᒪᓂᕐᒥᒃ «ᓴᓗᒪᓂᖃᕐᓂᖓᓂᒃ». ᑕᐃᒪᓐᓇ ᐃᓱᒪᒋᔭᐅᔪᖅ ᖃᐅᔨᓴᕐᓂᕐᒥᒃ ᐱᔭᕇᖅᓯᒪᔪᖅ, ᑭᓯᐊᓂ ᓱᓕ ᐱᒋᐊᕈᑎᒋᔪᖅ.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **ᑕᕆᐅᑲᓐᓂ.** 2013-ᒥ ᖃᐅᔨᓴᕐᓂᖅ [NIH-ᑯᑦ ᐅᖃᐅᓯᖏᓐᓂ](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ᓇᓗᓇᐃᔭᐃᕗᖅ ᑲᕉᓯᒪᓂᕐᒧᑦ ᐃᓗᐊᓄᑦ ᐃᓂᖃᖅᑐᑦ ᐊᖏᓂᖅᓴᐅᓂᖏᑦ 60% ᒥᑦᓵᓄᑦ ᐊᖏᓂᖅᓴᐅᓕᖅᑐᑦ ᑕᕆᐅᑲᑦ ᓯᓂᖃᑦᑕᖅᑎᓪᓗᒋᑦ. ᐃᒪᖅ ᑲᕉᓯᒪᓂᕐᒧᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᖅ ᐱᔭᕇᖅᓯᓚᐅᖅᑐᖅ, ᖃᐅᔨᓴᖅᑎᑦ ᑕᐃᔭᐅᓂᖏᑦ ᒥᑦᓵᓄᑦ «glymphatic system». ᐱᕈᖅᓴᓯᒪᔪᖅ ᐋᑐᕋᐅᑎ «beta-amyloid», ᐋᓐᓗᒋᕗᒻᒥ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᖅᑐᖅ, ᓴᖅᑭᑦᑎᓪᓗᓂ ᐲᖅᑕᐅᓚᐅᖅᑐᖅ ᑕᕆᐅᑲᓐᓂ ᓯᓂᖃᑦᑕᖅᑐᓂ.
+- **ᐃᓄᓐᓂ.** 22-ᒥᑦ 72-ᒧᑦ ᐅᑭᐅᓂ ᐱᒋᐊᕐᓂᖏᑦ 20 ᐃᓄᐃᑦ ᐋᓐᓂᐊᖃᙱᑦᑐᑦ [2018-ᒥ ᖃᐅᔨᓴᕐᓂᕐᒥ](https://www.pnas.org/doi/10.1073/pnas.1721694115) ᑕᑯᔭᐅᓚᐅᖅᑐᑦ ᓯᓂᖃᑦᑕᖅᑐᑦ ᐅᓐᓄᐊᒥ ᐊᒻᒪ ᓯᓂᖃᑦᑕᙱᑦᑐᑦ ᐅᓐᓄᐊᒥ. ᓯᓂᖃᑦᑕᙱᑦᑐᑦ ᐅᓐᓄᐊᒥ ᑭᖑᓂᖓᓂ, ᑲᕉᓯᒪᓂᕐᒧᑦ ᑕᑯᔭᐅᓂᖅ ᓇᓗᓇᐃᔭᐃᔪᖅ beta-amyloid ᐅᓄᕈᓐᓃᓚᐅᖅᑐᖅ 5% ᒥᑦᓵᓄᑦ ᐃᓗᐊᓂ ᐃᖅᑲᐃᔾᔪᑕᐅᔪᒥ ᐃᓗᐊᓂ «hippocampus», ᐃᖅᑲᐃᔾᔪᑕᐅᔪᖅ ᐱᒻᒪᕆᐅᔪᖅ. ᑎᑎᕋᖅᑎᑦ ᐅᖃᓚᐅᖅᑐᑦ ᑖᓐᓇ ᓯᕗᓪᓕᖅᐹᒥ ᖃᐅᔨᓴᕐᓂᐅᓂᖓᓂᒃ. ᖃᐅᔨᒪᙱᓚᐅᖅᑐᑦ ᐊᓯᔾᔨᖅᑐᖅ ᐲᔭᐅᓂᐊᖅᐸ ᒪᒃᑯᒃᑐᐃᓂᕐᒥ, ᐅᕝᕙᓘᓐᓃᑦ ᓴᖅᑭᑦᑎᓪᓗᓂ ᓴᖅᑭᓪᓕᖅᐸ ᐅᕝᕙᓘᓐᓃᑦ beta-amyloid ᐅᓄᕈᓐᓃᓕᖅᐸ.
+- **ᑕᒪᕐᒥᒃ ᐊᑐᖅᑐᖅ.** Lancet Commission ᐅᖃᖅᑐᖅ amyloid ᑲᑎᖅᓱᖅᓯᒪᓂᖅ ᐃᓐᓇᐃᑦ ᑲᕉᓯᒪᓂᖏᓐᓂ ᓯᓂᓕᕆᓂᕐᒥᒃ ᐊᔪᕐᓇᙱᑎᑦᑎᔪᓐᓇᖅᑐᖅ.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+ᑖᒃᑯᐊ ᓇᓗᓇᐃᔭᖅᑐᑦ ᐃᑲᔪᕗᑦ ᑐᑭᓯᐅᒪᓂᕐᒧᑦ ᓱᖃᓪᓚᕆᒻᒪᑦ ᖃᐅᔨᓴᖅᑎᑦ ᓯᓂᓕᕆᓂᕐᒥᒃ ᐱᔪᒪᔭᐅᓂᖏᓐᓂᒃ. ᑕᑯᒃᓴᐅᑎᑦᑎᙱᑦᑐᑦ ᓯᓂᓕᕆᓂᖅ ᐋᓐᓂᐊᖃᖅ ᐋᓐᓗᒋᕗᒻᒥ ᐳᐃᖅᑐᓕᕆᓂᕐᒥᒃ ᓄᖅᑲᖅᑎᑦᑎᙱᓂᖓᓂᒃ.
 
-## What sleep habits may help?
+## ᖃᓄᑐᐃᓐᓇᑦ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐃᓕᖅᑯᓯᕆᔾᔪᓯᑦ ᐃᑲᔪᕈᓐᓇᖅᐲᑦ?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) ᐅᖃᖅᑐᖅ ᐃᓐᓇᐃᑦ ᓯᓂᖃᑦᑕᕆᐊᖃᖅᑐᑦ 7-ᒥᑦ 9-ᒧᑦ ᐃᑲᕐᕋᓄᑦ ᐅᓐᓄᐊᒧᑦ, ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐃᓄᐃᑦ ᐊᓯᖏᓐᓂ. ᐅᖃᐅᓯᖏᑦ ᐃᓚᒋᔭᐅᕗᑦ ᐅᑯᐊ:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **ᐊᑐᖅᑕᐅᓲᖑᔪᖅ ᐱᕈᕐᓇᐅᑎ ᐊᑐᕐᓗᒍ.** ᐊᔾᔨᒌᒃᑐᒥᒃ ᐱᕈᕐᓇᐅᑎᒥ ᓯᓂᓕᕆᕐᓗᑎᑦ ᐃᑎᕐᓗᑎᑦᓗ, ᐱᓇᓱᐊᕈᓰᑦ ᐅᓪᓗᖏᓐᓂᓗ.
+- **ᓴᐃᓕᒪᓂᕐᒧᑦ ᐱᕈᕐᓇᐅᑎ ᓴᖅᑭᑦᑎᓗᑎᑦ.** ᐅᖃᓕᒫᕐᓗᑎᑦ, ᓴᐃᓕᒪᓂᖃᖅᑐᒥᒃ ᐃᙱᓪᓗᑎᑦ ᑐᓴᕐᓗᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖅᑰᔪᒥᒃ ᐅᐊᕐᕈᒃᑕᕐᓗᑎᑦ ᓯᓂᓕᕆᓂᕐᓂ ᓯᕗᓪᓕᖅ.
+- **ᓯᓂᕕᒃ ᓴᐃᓕᒪᓂᖃᖅᑎᓪᓗᒍ,** ᐅᖅᑰᓯᙱᓪᓗᓂ ᓂᒋᙱᓪᓗᓂᓗ.
+- **ᐅᓐᓄᒃᑯᑦ ᓯᕗᓪᓕᖅ ᑳᐱ ᐃᒥᕐᓗᒍ.** ᑳᐱ, ᑏ, ᓱᑕ ᐊᒻᒪ ᓱᑯᓚᑦ ᐃᑎᖅᑎᑦᑎᔪᓐᓇᖅᑐᑦ.
+- **ᐃᒥᖅᓱᖅᑕᐅᔪᓂᒃ ᐊᑐᕐᓂᖃᕐᓗᑎᑦ,** ᒥᑭᔪᓂᒃᓗ, NIA ᐅᖃᐅᓯᕗᖅ.
+- **ᓂᕆᔭᑦ ᐊᖏᔪᑦ ᓂᕆᕈᓐᓇᖏᑦᑐᑎᑦ 2-ᒥᑦ 3-ᒧᑦ ᐃᑲᕐᕋᓄᑦ ᓯᓂᓕᕆᓂᕐᓂ ᓯᕗᓪᓕᖅ,** ᐊᒻᒪ ᐃᒥᔪᑦ ᐊᖏᔪᑦ ᐅᓐᓄᒃᑯᑦ ᓯᕗᓪᓕᖅ.
+- **ᐊᑐᖅᑕᐅᓲᖑᔪᒥᒃ ᑎᒥ ᐱᓕᕆᐊᖃᕐᓗᑎᑦ, ᑭᓯᐊᓂ ᓯᓂᓕᕆᓂᕐᓂ ᓯᕗᓪᓕᖅ 3 ᐃᑲᕐᕋᓂᒃ ᐃᓗᐊᓂ.** ᑕᑯᕐᓗᒍ [ᑎᒥ ᐱᓕᕆᐊᖃᕐᓂᕐᒧᑦ ᒪᓕᒃᓯᒪᓂᖅ](/brain-health/exercise/).
+- **ᓴᖅᑭᔮᖅᑎᑕᐅᔪᑦ ᓯᓂᕕᒻᓂ ᐃᓂᖃᕈᓐᓇᖏᑦᑐᑎᑦ.** NIA ᐅᖃᐅᓯᕗᖅ ᑕᕝᕙᓂ ᑕᓚᕖᓴᖃᕈᓐᓇᖏᑦᑐᑎᑦ, ᖃᕋᓴᐅᔭᒃᑯᑦ ᐱᓇᔪᑦ, ᐅᖃᓘᑎᖃᕐᓗᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑕᑕᑎᕆᐊᓕᒃ ᐊᑐᕈᓐᓇᖏᑦᑐᑎᑦ.
+- **ᐅᓐᓄᒃᑯᑦ ᓯᕗᓪᓕᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓐᓄᒃᑯᑦ ᓯᓂᖃᑦᑕᕐᓂᖅ ᐊᑐᕈᓐᓇᖏᑦᑐᑎᑦ** ᐱᔪᓐᓇᖅᑎᓪᓗᒍ.
 
-## Sleep problems in dementia
+## ᓯᓂᓕᕆᓂᕐᒧᑦ ᐊᔪᕐᓇᙱᑦᑐᑦ ᐳᐃᖅᑐᓕᕆᓂᖃᖅᑐᓂ ᐃᓄᓐᓂ
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+ᓯᓂᓕᕆᓂᕐᒧᑦ ᐊᓯᔾᔨᖅᑐᑦ ᐊᑦᔨᒌᖕᖏᑐᑦ ᐳᐃᖅᑐᓕᕆᓂᖃᖅᑐᓂ ᐃᓄᓐᓂ. [NIA ᑎᑎᕋᖅᓯᕗᖅ](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ᐊᒥᓱᒃᑲᓐᓂᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᒥᓲᓂᖅᓴᒥᒃ ᓯᓂᓕᕆᓂᖅ, ᐅᓐᓄᒃᑯᑦ ᐊᒥᓱᖅᑕᖅᑕᐅᕐᓂᖅ, ᐊᒻᒪ ᐅᓪᓗᒥ ᐊᒥᓱᖅᑕᖅᑕᐅᕐᓂᖅ ᓯᓂᖃᑦᑕᕐᓂᖅ. ᐅᖃᐅᓯᕗᖅ ᐊᒻᒪ «sundowning»: ᓴᐃᓕᒪᙱᓂᖅ, ᓄᓇᖃᑦᑕᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓱᒪᒃᓴᖅᓯᐅᕈᓐᓇᓂᖅ ᐱᒋᐊᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐱᔪᓐᓇᖅᓴᐅᓕᖅᑐᖅ ᐅᓪᓗᖅ ᑕᖃᓕᖅᑎᓪᓗᒍ.
 
-Caregiver tips from the NIA include:
+NIA-ᑯᑦ ᒪᓂᕋᕐᓯᔨᓄᑦ ᐅᖃᐅᓯᖏᑦ ᐃᓚᒋᔭᐅᕗᑦ ᐅᑯᐊ:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **ᐅᓪᓗᒥ ᐅᓪᓗᖅ ᖃᐅᒻᒪᖅ ᐊᒻᒪ ᐊᐅᓚᔾᔭᐃᕐᓂᖅ ᓯᕗᓪᓕᖅᐹᒥ ᐱᓗᑎᑦ.** ᓯᓚᑖᕐᓗᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒐᓛᖅᑐᒥ ᐃᖅᑲᓇᐃᔭᕐᓗᑎᑦ ᐅᓪᓗᒥ, ᐊᒻᒪ ᐃᓄᖅ ᒪᓂᕋᕐᓯᒪᔪᑦ ᐅᓪᓗᑕᒫᑦ ᐱᓕᕆᐊᖃᕐᓗᒍ. ᖃᐅᒻᒪᖅ ᑎᒥᒧᑦ ᐅᓪᓗᕐᒧᑦ ᓇᓗᓇᐃᖅᑕᐅᔪᓂᒃ ᐋᖅᑭᒃᓯᐅᑎᑦᑎᔪᓐᓇᖅᑐᖅ.
+2. **ᐅᓪᓗᐃᑦ ᓯᕗᓪᓖᑦ ᐱᓕᕆᐊᖃᕐᓂᕐᓂᒃ ᐸᕐᓇᐅᑎᓯᓗᑎᑦ.** ᐅᓪᓗᐃᑦ ᓯᕗᓪᓖᑦ ᐅᐊᕐᕈᒃᑕᕐᓗᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓪᓗᐊᖅᐸᒃᑐᒥ ᓂᕆᔭᑦ ᐊᖏᔪᑦ ᓂᕆᓗᑎᑦ.
+3. **ᓯᓂᖃᑦᑕᕐᓂᖅ ᐅᓪᓗᒥ ᓇᐃᓪᓕᒋᔭᐅᓗᒍ ᓯᕗᓐᓂᖅᓴᐅᓗᒍᓗ.** ᐅᓐᓄᒃᑯᑦ ᓯᕗᓪᓕᖅ ᓯᓂᖃᑦᑕᕐᓂᖅ ᒥᑭᓕᒋᐊᕐᓗᒍ.
+4. **ᐅᓐᓄᒃᑯᑦ ᓴᐃᓕᒪᓂᖃᖅᑎᓪᓗᒍ.** ᖃᐅᒻᒪᖅ ᒥᑭᓕᒋᐊᕐᓗᒍ, ᓂᐱᖃᙱᑎᑦᑎᓗᑎᑦ, ᐊᒻᒪ ᓴᐃᓕᒪᓂᖃᖅᑐᒥᒃ ᐃᙱᓪᓗᑎᑦ ᐃᓄᖅ ᐱᔪᒃᑯᒪᒃᐸᑦ. [ᐅᓐᓄᒃᑯᑦ ᓯᕗᓪᓕᖅ ᓴᐃᓕᒪᙱᓂᕐᒧᑦ ᒪᓕᒃᓯᒪᓂᖅ](/caregiving/late-day-restlessness/) ᐃᓚᒃᑲᓐᓂᕐᓂᒃ ᐃᓱᒪᒋᔭᐅᓂᒃ ᑐᓂᓯᕗᖅ.
+5. **ᓯᓂᓕᕆᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᓲᖑᔪᖅ ᐱᕈᕐᓇᐅᑎ ᐊᑐᕐᓗᒍ.** ᐊᔾᔨᒌᒃᑐᒥᒃ ᐱᕈᕐᓇᐅᑎᒥ ᐅᓐᓄᑕᒫᑦ ᐅᖃᓕᒫᕐᓂᖅ ᓂᐱᓪᓗᑎᒃ NIA-ᑯᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᔭᖓ ᐃᓚᖓᐅᔪᖅ. [ᐊᑐᖅᑕᐅᓲᖑᔪᖅ ᐅᓪᓗᑕᒫᑦ ᐱᕈᕐᓇᐅᑎ](/activities/daily-routine/) ᐃᑲᔪᕐᓗᓂ ᐱᐅᔪᖅ.
+6. **ᑳᐱ ᐃᒥᖅᓱᖅᑕᐅᔪᓂᒃᓗ ᒥᑭᓕᒋᐊᕐᓗᒍ.**
+7. **ᐅᓐᓄᒃᑯᑦ ᖃᐅᒻᒪᒃᑯᑦ ᐃᑯᓪᓚᖅᑎᑕᐅᔪᓂᒃ ᐊᑐᕐᓗᒍ** ᓯᓂᕕᒻᓂ, ᐊᖅᑯᑎᒥ ᐊᒻᒪ ᖁᕐᕕᖕᒥ.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+ᐅᓐᓄᒃᑯᑦ ᐃᑎᕐᓂᕐᒧᑦ, NIA-ᑯᑦ [ᐊᖏᕐᕋᒧᑦ ᐊᑦᑕᕐᓇᖅᑕᐃᓕᒪᓂᕐᒧᑦ ᐅᖃᐅᓯᖏᑦ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ᐃᓚᒋᔭᐅᕗᑦ ᐅᓐᓄᒃᑯᑦ ᖃᐅᒻᒪᒃᑯᑦ ᐃᑯᓪᓚᖅᑎᑕᐅᔪᑦ ᐅᕝᕙᓘᓐᓃᑦ ᖃᐅᒻᒪᖅ ᐃᒪᓐᓇᐅᑎᒋᔪᖅ ᓴᕿᔮᖅᑎᑕᐅᔪᖅ, ᖁᕐᕕᖕᒥ ᑎᒍᒥᐊᖅᑎᑕᐅᔪᑦ, ᑐᙵᕕᒃᑯᑦ ᐊᒥᐊᖅᑐᒥᒃ ᓇᓗᓇᐃᔭᖅᓯᒪᔪᖅ ᑕᐱᖅᑯᑦ ᓯᓂᖓᓂ, ᐊᒻᒪ ᑕᖅᓴᓕᐅᕈᑏᑦ ᑮᓇᐅᔭᖃᖅᑎᑕᐅᓯᒪᔪᒥ ᑐᖅᑯᖅᓯᒪᔪᑦ.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+ᓇᐃᓪᓕᒋᔭᐅᔪᖅ, ᓴᐃᓕᒪᓂᖅ ᐱᓕᕆᐊᖃᕐᓂᖅ ᐅᓐᓄᒃᑯᑦ ᐃᓕᓐᓂᐊᕐᓂᓕᒻᓄᑦ ᐃᑲᔪᕈᓐᓇᖅᑐᖅ ᓴᐃᓕᒪᓂᕐᒧᑦ. ᐆᒃᑐᕋᕐᓗᒍ ᓱᑲᒃᑲᖓ [Calm Breathing](/games/calm-breathing/) ᐅᕝᕙᓘᓐᓃᑦ ᓴᐃᓕᒪᓂᖃᖅᑐᑦ ᐃᓚᖏᑦ [Conversation Cards](/games/conversation-cards/). ᓯᓂᓕᕆᓂᕐᓂ ᓯᕗᓪᓕᖅ ᐱᕈᕐᓇᐅᑎᓂᒃ ᓴᖅᑭᑦᑎᓪᓗᑎᒃ ᐊᑐᕈᓐᓇᖏᑦᑐᑎᑦ, ᐊᒻᒪ ᓄᖅᑲᕐᓗᑎᑦ ᐃᓄᖅ ᓇᒻᒥᓂᖅ ᐱᔪᒃᑯᒪᒃᐸᑦ.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+ᐅᓐᓄᒃᑯᑦ ᓯᓂᖃᑦᑕᕐᓂᖅ ᐊᔪᕐᓇᙱᑦᑐᖅ ᒪᓂᕋᕐᓯᔨᓂᒃ ᓴᖅᑭᔮᖅᑎᑦᑎᕙᑦ. [ᒪᓂᕋᕐᓯᔨᓄᑦ ᐃᒪᓐᓇ ᐃᓅᓯᕐᒧᑦ ᒪᓕᒃᓯᒪᓂᖅ](/caregiving/caregiver-self-care/) ᐅᖃᐅᓯᕗᖅ ᖃᓄᖅ ᒪᒃᑯᒃᑐᐃᓂᕐᒥᒃ ᐃᑲᔪᖅᑐᓂᒃ ᐱᓂᐊᕐᓂᕐᒧᑦ.
 
-## What about sleep apnea?
+## ᓯᓂᖃᑦᑕᕐᓂᖅ ᐊᓂᖅᓵᖅᑐᐃᓪᓗᓂ (sleep apnea) ᖃᓄᐃᑦᑑᓂᖓ?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sleep apnea ᐊᓂᖅᓵᕐᓂᕐᒥᒃ ᓄᖅᑲᖅᑎᑦᑎᕗᖅ ᓯᓂᖃᑦᑕᖅᑎᓪᓗᒍ, ᐅᓐᓄᐊᒥ ᐊᒥᓱᖅᑕᖅᑕᐅᕙᑦ. NIA ᐅᖃᖅᑐᖅ ᐋᓐᓂᐊᖅᑕᐅᓂᖃᕐᓗᓂ, ᐊᔪᕐᓇᙱᑦᑐᓂᒃ ᐱᔾᔪᑎᖃᕈᓐᓇᖅᑐᖅ ᐆᒃᑐᕋᕐᓯᒪᔪᒥ ᐊᐅᒃᑯᑦ ᐱᓂᕐᓂᖓ, ᑲᕉᓯᒪᓂᕐᒧᑦ ᐊᔪᕐᓇᙱᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᖅᑲᐃᔾᔪᑕᐅᔪᓂᒃ ᐱᐅᓂᖅ. ᓇᓗᓇᐃᔭᖅᑐᑦ ᐃᓚᒋᔭᐅᕗᑦ ᓂᐱᓪᓗᐊᑕᖅ ᑯᕋᓗᒃᑐᖅ ᐊᒻᒪ ᐅᓪᓗᒥ ᕿᐊᒃᑲᐃᓂᖅ, ᐊᒻᒪ ᐃᓄᐃᑦ ᐊᒥᓱᑦ ᖃᐅᔨᙱᑦᑐᑦ ᑕᐃᒪᓐᓇ ᐱᔾᔪᑎᖃᕐᓂᖏᓐᓂᒃ. Lancet Commission ᐅᖃᖅᑐᖅ 11 ᖃᐅᔨᓴᕐᓂᓂ ᑲᑎᖅᓱᐃᓂᕐᒥ ᐃᓄᐃᑦ sleep apnea-ᖃᖅᑐᑦ 43% ᒥᑦᓵᓄᑦ ᐅᓄᕈᓐᓃᕙᑦ ᐳᐃᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ. ᑖᒃᑯᐊ ᖃᐅᔨᓴᕐᓃᑦ ᐊᒥᓲᓂᖏᑦ ᐅᖁᒪᐃᑦᑐᖅ ᐃᓱᒪᒃᓴᖅᓯᐅᖃᑦᑕᖅᓯᒪᙱᓚᐅᖅᑐᑦ, ᑕᐃᒪᐃᒻᒪᑦ ᐊᒃᑐᐊᓂᖅ ᓇᓗᓇᐃᖅᓯᒪᙱᑦᑐᖅ.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sleep apnea ᖃᐅᔨᔭᐅᔪᓐᓇᖅᑐᖅ ᐋᓐᓂᐊᖅᑕᐅᔪᓐᓇᖅᑐᖅᓗ. NIA ᐅᖃᖅᑐᖅ CPAP ᓴᕿᔮᖅᑎᑕᐅᔪᖅ ᐊᑐᖅᑕᐅᒻᒪᕆᐊᓗᒃ ᐃᑲᔪᖅᑐᖅ. ᐃᓕᑕᕆᔭᐅᔾᔪᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓄᖅ ᒪᓂᕋᕐᓯᒪᔪᑦ ᓂᐱᓪᓗᐊᑕᖅ ᑯᕋᓗᒃᐸᑦ, ᓯᓂᖃᑦᑕᖅᑎᓪᓗᒍ ᐊᓂᖅᓵᕐᓗᓂ, ᐅᕝᕙᓘᓐᓃᑦ ᐅᓪᓗᒥ ᕿᐊᒃᑲᐃᙱᓪᓗᐊᑕᖅᐸᑦ, ᐋᓐᓂᐊᖃᖅᑎᒧᑦ ᐅᖃᐅᓯᓗᑎᑦ.
 
-## A note about sleep medicines
+## ᓯᓂᓕᕆᓂᕐᒧᑦ ᑕᖅᓴᓕᐅᕈᑎᓂᒃ ᐅᖃᐅᓯᖅ
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+ᓯᓂᓕᕆᓂᕐᒧᑦ ᑕᖅᓴᓕᐅᕈᑎᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᑲᔪᖅᑐᓂᒃ ᐅᖃᐅᓯᖃᙱᑦᑐᒍᑦ. NIA ᐅᖃᖅᑐᖅ ᓯᓂᓕᕆᓂᕐᒧᑦ ᑕᖅᓴᓕᐅᕈᑏᑦ ᓇᐃᓪᓕᒋᔭᐅᒥᒃ ᐃᑲᔪᕈᓐᓇᖅᑐᑦ ᑭᓯᐊᓂ ᓯᓂᖃᑦᑕᕐᓂᖅ ᐊᔪᕐᓇᙱᓂᕐᒥᒃ ᐋᓐᓂᐊᖅᑎᑦᑎᙱᑦᑐᑦ. ᐅᖃᖅᑐᖅ ᐊᒻᒪ ᐃᓚᖏᑦ ᑕᖅᓴᓕᐅᕈᑏᑦ ᐋᓐᓗᒋᕗᒻᒥ ᐳᐃᖅᑐᓕᕆᓂᖃᖅᑐᓄᑦ ᐃᓄᓐᓄᑦ ᓯᓂᓕᕆᓂᕐᒧᑦ ᑐᓂᔭᐅᔪᑦ ᐅᓗᕆᐊᓇᒃᑯᑕᒥᒃ, ᐊᒃᑲᐃᓂᕐᒥᒃ ᐊᒻᒪ ᐃᓱᒪᒃᓴᖅᓯᐅᕈᓐᓇᓂᕐᒥᒃ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᓐᓂᒃ ᐅᓄᕈᓐᓃᑎᑦᑎᔪᓐᓇᖅᑐᑦ. ᓯᓂᓕᕆᓂᕐᒧᑦ ᑕᖅᓴᓕᐅᕈᑎᒥᒃ, ᓂᐅᕕᐊᒃᓴᖃᙱᑦᑐᓂᒃ ᐃᓚᒋᓗᒋᑦ, ᐱᒋᐊᕈᓐᓇᖏᑦᑐᑎᑦ, ᓄᖅᑲᖅᑎᓪᓗᒍ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᔾᔨᖅᑎᓪᓗᒍ ᐋᓐᓂᐊᖃᖅᑎᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑕᖅᓴᓕᐅᕈᑎᓂᒃ ᑎᑎᕋᖅᑎᒥᒃ ᐅᖃᐅᓯᖃᑦᑕᖅᓯᒪᙱᓪᓗᑎᑦ.
 
-## Talk with a doctor
+## ᐋᓐᓂᐊᖃᖅᑎᒧᑦ ᐅᖃᐅᓯᕆᐊᖃᕐᓗᑎᑦ
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+ᐋᓐᓂᐊᖃᖅᑎ ᑕᑯᓗᒍ ᐃᓕᑕᕆᔭᐅᔾᔪᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓄᖅ ᒪᓂᕋᕐᓯᒪᔪᑦ ᐊᑐᖅᑕᐅᓲᖑᔪᒥᒃ ᑕᖃᔪᖅᐸᑦ, ᐅᓐᓄᑕᒫᑦ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐊᔪᕐᓇᙱᑦᑐᖃᖅᐸᑦ, ᓂᐱᓪᓗᐊᑕᖅ ᑯᕋᓗᒃᐸᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᐅᓐᓄᒃᑯᑦ ᐊᓂᖅᓵᕐᓗᓂ. ᐳᐃᖅᑐᓕᕆᓂᖃᖅᑐᓂ ᐃᓄᓐᓂ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐊᔪᕐᓇᙱᑦᑐᑦ ᑲᔪᓯᙱᒃᑲᓐᓂᕐᐸᑦ, [NIA ᐅᖃᐅᓯᕗᖅ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ᐋᓐᓂᐊᖃᖅᑎᒥᒃ ᐅᖃᐅᓯᖃᕐᓂᕐᒥᒃ ᕿᓂᕐᓗᑎᑦ. ᖃᐅᔨᓴᕐᓂᖅ ᓇᓗᓇᐃᔭᐃᔪᓐᓇᖅᑐᖅ ᐱᔾᔪᑎᓂᒃ ᓲᕐᓗ ᐋᓐᓂᐊᖅ, ᓯᓂᓕᕆᓂᕐᒧᑦ ᐊᔪᕐᓇᙱᓂᖅ ᐊᓯᖓ, ᐋᓐᓂᐊᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑕᖅᓴᓕᐅᕈᑎᐅᑉ ᐊᑯᓐᓂᖓ. ᑐᑭᓯᒋᐊᕈᓐᓇᙱᑦᑐᖅ ᐃᓱᒪᒃᓴᖅᓯᐅᕈᓐᓇᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᑐᑭᓯᒋᐊᕈᓐᓇᙱᑦᑐᖅ ᐊᓯᔾᔨᖅᑐᖅ ᓯᓂᓕᕆᓂᕐᒧᑦ ᐃᓱᒪᒃᓴᖅᓯᐅᕈᓐᓇᓂᕐᒧᑦ ᐃᓚᒋᔭᐅᓗᓂ, ᑐᐊᕕᕐᓇᖅᑐᒥᒃ ᐃᑲᔪᖅᑐᒥᒃ ᐱᔭᕆᐊᖃᖅᑐᖅ. ᐅᖃᓕᒫᕐᓗᒍ [ᖃᖓ ᐋᓐᓂᐊᖃᖅᑎ ᑕᑯᔭᕆᐊᖃᖅᑕᖓ](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ᑖᓐᓇ ᒪᒃᐱᖅᑐᒐᖅ ᑐᑭᓯᐅᒪᔾᔪᑎᓂᒃ ᑐᓂᓯᕗᖅ, ᐋᓐᓂᐊᖃᖅᑎᒧᑦ ᐅᖃᐅᓯᒃᓴᐅᙱᑦᑐᖅ. ᑕᑯᕐᓗᒍ [ᐋᓐᓂᐊᖃᖅᑎᒧᑦ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖅ](/medical-disclaimer/).

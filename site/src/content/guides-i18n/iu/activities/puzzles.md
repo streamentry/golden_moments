@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "ᐃᓕᐅᕈᑎᑦ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᓄᑦ: ᐊᔾᔨᒌᙱᑦᑐᑦ ᐊᒻᒪ ᑎᑎᕋᖅᓯᒪᔪᑦ"
+seoTitle: "ᐃᓕᐅᕈᑎᑦ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᓄᑦ"
+description: "ᖃᓄᐃᑦᑑᓂᖓ ᓂᕈᐊᕐᓗᑎᑦ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ, ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐊᒻᒪ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᓕᐅᕈᑎᓂᒃ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᒧᑦ: ᐃᓕᐅᕈᑎᐅᑉ ᐊᖏᓂᖓ, ᐊᔾᔨᖅ, ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᓂᖅ, ᑲᑐᔾᔨᓗᑕ ᐱᓕᕆᓂᖅ, ᐊᒻᒪ ᖃᓄᖅ ᐊᔪᕈᓐᓃᖅᓴᐅᑎᑕᐅᓂᖓ."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  ᐃᓕᐅᕈᑎᐅᑉ ᐱᐅᓂᕐᓴᖓ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᒧᑦ ᑖᓐᓇ ᐱᔭᕇᖅᓯᔪᓐᓇᖅᑕᖓ ᐃᑲᔪᖅᑐᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᑲᔪᖅᑐᖅᑕᐅᓗᓂ,
+  ᐊᒻᒪ ᖁᕕᐊᓇᖅᑐᒻᒪᕆᖓ ᐱᓕᕆᓂᕐᒧᑦ. ᓂᕈᐊᕐᓗᑎᑦ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ,
+  ᐊᖏᔪᓂᒃ ᐃᓕᐅᕈᑎᐅᓂᒃ ᐊᒻᒪ ᓇᓗᓇᐃᔭᖅᑐᒥᒃ ᐊᔾᔨᒥᒃ ᐃᓐᓇᐅᓂᖃᖅᑐᒥᒃ. ᐴᖅᑲᐅᑉ ᐊᔾᔨᖓ ᑕᑯᒃᓴᐅᑎᑕᐅᓗᓂ,
+  ᐊᒻᒪ ᓯᓂᖓᓂ ᐃᓕᐅᕈᑎᓂᒃ ᓯᕗᓪᓕᕐᓗᑎᑦ ᐋᖅᑭᒃᓱᖅᑕᐅᓗᑎᒃ. ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᓂᖃᖅᑐᑦ ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ
+  ᐃᓕᐅᕈᑎᑦ ᐊᒻᒪ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐊᔾᔨᒌᙱᑦᑎᑕᐅᓂᖅ ᐱᐅᔪᒻᒪᕆᑦ. ᐊᔪᕈᓐᓃᖅᑐᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᓕᐅᕈᑎᑦ
+  4 ᐃᓕᐅᕈᑎᓂᒃ ᐱᖃᖅᑐᑦ ᐊᑯᓐᓂᖓᓂ ᐱᐅᔪᑦ. ᓄᖅᑲᖅᑎᑕᐅᓗᑎᑦ ᖁᕕᐊᓱᒍᕕᒃ ᓱᓕ.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "ᓂᕈᐊᕐᓗᑎᑦ ᖃᓄᖅ ᐱᓕᕆᐊᖑᒻᒪᖔᑦ ᑕᑯᒃᓴᐅᓗᑎᑦ, ᐊᑎᖓ ᓇᓗᓇᐃᔭᖅᓯᒪᙱᑦᑐᖅ: ᐃᓕᐅᕈᑎᖅ ᐱᓕᕆᓂᕐᒧᑦ ᐊᔪᕈᓐᓃᖅᐸᑦ, ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᐆᒃᑐᕋᕐᓗᑎᑦ."
+  - "ᐊᖏᔪᑦ, ᓴᙱᔪᑦ ᐃᓕᐅᕈᑎᐅᑦ ᐊᒻᒪ ᓇᓗᓇᐃᔭᖅᑐᖅ ᐊᔾᔨᖅ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐃᓗᓂᒃ ᐊᔪᕈᓐᓃᖅᓴᐅᔪᑦ ᒥᑭᔪᓂᑦ ᐃᓕᐅᕈᑎᓂᑦ ᐊᒻᒪ ᐊᖏᔪᓂᒃ ᓯᓚᓂᒃ."
+  - "ᐃᓐᓇᐅᓄᑦ ᐊᔾᔨᐅᔪᑦ ᐱᒻᒪᕆᐅᔪᑦ. ᐱᕈᕐᓰᕕᑦ, ᐃᒐᕕᑦ, ᐊᖅᑯᑎᑦ ᐊᒻᒪ ᓂᕐᔪᑏᑦ, ᓄᑕᕋᕐᓯᒪᔪᓄᑦ ᐊᔾᔨᙱᑦᑐᑦ."
+  - "ᑲᑐᔾᔨᓗᑕ ᐱᓕᕆᓂᖅ ᐱᒻᒪᕆᐅᔪᖅ. ᐃᓕᐅᕈᑎᓂᒃ ᑐᓂᓯᓗᑎᑦ, ᓯᓂᖓᓂ ᐃᓕᐅᕈᑎᓂᒃ ᐋᖅᑭᒃᓱᖅᑕᐅᓗᑎᒃ, ᐴᖅᑲᐅᑉ ᐊᔾᔨᖓ ᑕᑯᒃᓴᐅᑎᑕᐅᓗᓂ."
+  - "ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᓂᖃᖅᑐᑦ ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᑦ ᐊᒻᒪ ᐊᔪᕈᓐᓃᖅᑐᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᓕᐅᕈᑎᑦ 4 ᐅᕝᕙᓘᓐᓃᑦ 9 ᐃᓕᐅᕈᑎᓂᒃ ᐱᖃᖅᑐᑦ ᐊᑭᖃᙱᑦᑐᑦ ᐅᕙᓂ ᑕᑯᔭᖅᑐᐃᓐᓇᐅᔪᑦ."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "ᖃᓄᖅ ᐊᒥᓱᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᐱᐅᓂᕐᓴᐅᕙ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᒧᑦ?"
+    a: "ᐊᑕᐅᓯᖅ ᓈᓴᐅᑎᐅᑉ ᑕᒪᐃᓐᓂᖓ ᐱᐅᓂᕐᓴᐅᔪᖅ ᐱᑕᖃᙱᑦᑐᖅ. 1,000 ᐃᓕᐅᕈᑎᓂᒃ ᐱᓕᕆᐊᖃᑦᑕᖅᓯᒪᔪᖅ ᐱᒋᐊᕈᑎᒥ ᐊᒥᓱᓂᒃ ᖁᕕᐊᓱᒍᓐᓇᖅᑐᑦ ᓱᓕ, ᑭᓯᐊᓂ ᐊᓯᖏᑦ ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ ᐊᖏᔪᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᐱᐅᔪᑦ. ᐃᓕᐅᕈᑎᖅ ᐱᓕᕆᓂᕐᒧᑦ ᐊᔪᕈᓐᓃᖅᐸᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐆᒃᑐᕋᖅᑎᑦᑎᓯᒪᓕᕐᐸᑦ, ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᐆᒃᑐᕋᕐᓗᑎᑦ. ᖃᕆᑕᐅᔭᒃᑯᑦ ᐊᔾᔨᒥᒃ ᐃᓕᐅᕈᑎᕗᑦ 4 ᐅᕝᕙᓘᓐᓃᑦ 9 ᐃᓕᐅᕈᑎᓂᒃ ᐱᖃᖅᑐᖅ."
+  - q: "ᐊᔾᔨᒌᙱᑦᑐᑦ ᐃᓕᐅᕈᑎᑦ ᐱᐅᔪᑦ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᓄᑦ?"
+    a: "ᐊᒥᓱᑦ ᖁᕕᐊᓱᒃᑐᑦ ᑕᐃᒪᓐᓇ, ᐱᓕᕆᐊᖃᑦᑕᖅᓯᒪᒍᑎᒃ ᓯᕗᙵᕈᓐᓇᒥ. ᐃᓕᐅᕈᑎᖅ ᐊᒡᒐᐃᑦ ᐱᓕᕆᔾᔪᑎᖃᖅᑎᑦᑎᔪᖅ, ᓇᓗᓇᐃᔭᖅᑐᒥᒃ ᑐᕌᒐᖃᖅᑎᑦᑎᔪᖅ, ᐊᒻᒪ ᐊᔾᔨᒥᒃ ᐅᖃᖃᑎᒌᒍᑎᖃᖅᑎᑦᑎᔪᖅ. ᐃᓕᐅᕈᑎᖅ ᑕᑯᔭᖅᑐᐃᔪᖅ ᐃᓱᒪᓕᕆᓂᖅ ᐋᓐᓂᐊᖅᑕᐅᓂᖓᓂᒃ ᓄᖅᑲᖅᑎᑦᑎᔪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓱᑲᖅᑎᑦᑎᔪᖅ, ᑕᐃᒪᐃᒻᒪᑦ ᓂᕈᐊᕐᓗᑎᑦ ᖁᕕᐊᓇᖅᑐᒧᑦ ᐊᒻᒪ ᑲᑐᔾᔨᓗᑕ ᐃᖃᑦᑕᕐᓂᕐᒧᑦ."
+  - q: "ᖃᓄᐃᓕᐅᕐᓂᖅᓴᐅᓂᖓ ᐃᓄᒃ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᐱᔪᓐᓇᙱᓚᖓᑦ?"
+    a: "ᒥᑭᓂᖅᓴᐅᑎᓗᒍ ᐊᒻᒪ ᐃᓕᑦ ᐊᒥᓱᓂᖅᓴᓂᒃ ᐱᓕᕆᓗᑎᑦ: ᐊᑕᐅᓯᕐᒥᒃ ᐃᓕᐅᕈᑎᒥᒃ ᑐᓂᓯᓗᑎᑦ ᐊᑕᐅᓯᕐᒧᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᑭᖑᓪᓕᖅᐹᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᑭᓯᐊᓂ ᖁᔭᓐᓇᒦᓗᑎᑦ. 4 ᐃᓕᐅᕈᑎᓂᒃ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᓕᐅᕈᑎᒥᒃ ᐆᒃᑐᕋᕐᓗᑎᑦ, ᐃᓕᐅᕈᑎᓂᒃ ᐊᒥᐊᒃᑯᑦ ᐋᖅᑭᒃᓱᖅᑕᐅᓗᑎᒃ, ᐅᕝᕙᓘᓐᓃᑦ ᐱᔭᕇᖅᓯᒪᔪᒥᒃ ᐊᔾᔨᒥᒃ ᑲᑐᔾᔨᓗᑕ ᑕᑯᓗᑎᑦ."
+  - q: "ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐊᔾᔨᒌᙱᑦᑎᑕᐅᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᑦ ᐊᒻᒪ ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᑦ ᐱᐅᔪᑦ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᓄᑦ?"
+    a: "ᐱᐅᔪᑦ ᓯᕗᓪᓕᖅᐹᒥ ᐱᒋᐊᕈᑎᒥ, ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᓂᖃᖅᑐᓂᒃ. ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᑦ ᓴᓂᒧᑦ ᐊᒻᒪ ᐊᑖᒧᑦ ᑭᓯᐊᓂ ᐅᖃᐅᓯᖃᖅᑐᑦ ᐊᔪᕈᓐᓃᖅᓴᐅᔪᑦ ᑎᑎᕋᖅᓯᒪᔪᓂᑦ ᑕᓪᓕᒪᒃᑯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᑎᕐᓗᑎᒃ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ. ᐅᖃᐅᓯᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐅᖃᓕᒫᕐᓗᑎᑦ ᐊᒻᒪ ᑲᑐᔾᔨᓗᑕ ᐱᓕᕆᓗᑎᑦ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+ᐊᔾᔨᒌᙱᑦᑐᑦ ᐃᓕᐅᕈᑎᖅ ᓂᕿᑦᑎᐊᕙᐅᑉ ᖄᖓᓂ ᓯᐊᒻᒪᖅᑕᐅᓯᒪᔪᖅ ᐱᓕᕆᔾᔪᑎᐅᑉ ᐊᔪᕈᓐᓃᖅᓴᐅᓂᖓᑦ ᑲᑐᔾᔨᓗᑕ. ᐃᖃᑦᑕᐅᔪᓐᓇᖅᑐᑎᑦ ᐅᖃᖃᑎᒌᙱᓪᓗᑎᑦ, ᐊᔾᔨᖅ ᐅᖃᖃᑎᒌᒍᑎᖃᖅᑎᑦᑎᔪᖅ, ᐊᒻᒪ ᑭᖑᓪᓕᖅᐹᒥᒃ ᐃᓕᐅᕈᑎᒥᒃ ᐃᓚᓕᐅᔾᔭᕐᓂᖅ ᖁᕕᐊᓇᖅᑎᑦᑎᔪᖅ. ᐃᓕᐅᕈᑎᑦ ᑭᓯᐊᓂ ᐊᓯᒍᓐᓇᕆᐊᖃᖅᑐᑦ ᐃᓱᒪᓕᕆᓂᖅ ᐊᓯᒍᓐᓇᕌᖓᑦ ᒪᓕᒃᖢᓂ. ᐃᓕᐅᕈᑎᖅ ᐊᔪᕈᓐᓃᖅᓴᐅᒐᑦ ᓴᐃᓕᒪᓂᖃᖅᑐᖅ ᐅᓪᓗᒥᒃ ᐆᒃᑐᕋᖅᑎᑦᑎᔪᒪᔪᓂᒃ. ᑖᓐᓇ ᒪᒃᐱᒐᖅ ᐅᖃᐅᓯᖃᖅᑐᖅ ᖃᓄᖅ ᓂᕈᐊᕆᐊᖃᖅᑕᖏᑦ ᐊᒻᒪ ᐋᖅᑭᒃᓱᖅᑕᐅᓂᖏᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ ᐃᓕᐅᕈᑎᑦ, ᑎᑎᕋᖅᓯᒪᔪᑦ ᐃᓕᐅᕈᑎᑦ ᐊᒻᒪ ᐊᔪᕈᓐᓃᖅᑐᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᓕᐅᕈᑎᑦ, ᐊᒻᒪ ᖃᓄᐃᓕᐅᕆᐊᖃᖅᑕᖏᑦ ᐊᔪᕈᓐᓃᖅᐸᑦ.
 
-## Are puzzles good for people with dementia?
+## ᐃᓕᐅᕈᑎᑦ ᐱᐅᔪᑦ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᓄᑦ?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+ᐊᒥᓱᑦ ᖁᕕᐊᓱᒃᑐᑦ ᑕᐃᒪᓐᓇ, ᐱᓕᕆᐊᖃᑦᑕᖅᓯᒪᒍᑎᒃ ᓯᕗᙵᕈᓐᓇᒥ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ᑎᑎᕋᖅᑐᖅ ᐅᖃᐅᓯᓕᕆᓂᕐᒥᒃ, ᐸᐃᑉᐹᑎᓂᒃ ᐱᙳᐊᕈᑎᓂᒃ ᐊᒻᒪ ᓂᕿᑦᑎᐊᕙᐅᑉ ᖄᖓᓂ ᐱᙳᐊᕈᑎᓂᒃ ᐱᓕᕆᔾᔪᑎᐅᓂᖏᓐᓂᒃ ᓯᕗᓪᓕᖅᐹᒥ ᐱᒋᐊᕈᑎᒥ, ᐊᒻᒪ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ᐅᖃᐅᓯᖃᖅᑐᖅ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐱᙳᐊᕈᑎᓂᒃ ᐊᒻᒪ ᐃᓕᐅᕈᑎᓂᒃ ᑕᐃᔭᐅᓂᒃᑯᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᓂᒃ ᐃᓚᒋᔭᐅᔪᓐᓇᕐᓂᕐᒧᑦ.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+ᐃᓕᐅᕈᑎᑦ ᐋᓐᓂᐊᖅᑕᐅᑎᑦᑎᔾᔪᑎᙱᑦᑐᑦ. ᐃᓕᐅᕈᑎᖅ ᑕᑯᔭᖅᑐᐃᔪᖅ ᐃᓱᒪᓕᕆᓂᖅ ᓱᑲᖅᑎᑦᑎᔪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓄᖅᑲᖅᑎᑦᑎᔪᖅ; [ᐃᖅᑲᐅᒪᔭᕐᓄᑦ ᐱᙳᐊᕈᑎᑦ ᐊᒻᒪ ᐃᓱᒪᓕᕆᓂᖅ](/brain-health/brain-games/) ᒪᒃᐱᒐᕗᑦ ᐅᖃᐅᓯᖃᖅᑐᖅ ᖃᐅᔨᓴᕐᓂᕐᒧᑦ. ᐃᓕᐅᕈᑎᒥᒃ ᐱᓕᕆᓂᕐᒧᑦ ᐱᔾᔪᑎᖓ ᖁᕕᐊᓇᖅᑐᒥᒃ, ᐱᔪᒪᓇᖅᑐᒥᒃ ᐃᑲᕐᕋᒥᒃ ᑲᑐᔾᔨᓗᑕ ᐊᑐᕐᓂᖅ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ᓇᐃᓈᖅᓯᒪᔪᖅ: ᖁᕕᐊᓇᖅᑐᒧᑦ ᑐᕌᒐᕆᓗᑎᑦ, ᐱᔭᕇᖅᓯᓂᕐᒧᑦ ᐱᔾᔪᑎᖃᙱᓪᓗᑎᑦ.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## ᖃᓄᖅ ᓂᕈᐊᕆᐊᖃᖅᑕᖓ ᐊᔾᔨᒌᙱᑦᑐᖅ ᐃᓕᐅᕈᑎᖅ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᒧᑦ?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+ᐃᓄᐃᑦ ᖁᕕᐊᓇᖅᑐᖏᓐᓂᒃ ᐊᒻᒪ ᖃᓄᖅ ᑭᖑᓪᓕᖅᐹᖅ ᐃᓕᐅᕈᑎᖅ ᐱᓕᕆᐊᖃᑦᑕᖅᓯᒪᒻᒪᖔᑦ ᑕᑯᒃᓴᐅᓗᑎᑦ, ᐊᑎᖓ ᓇᓗᓇᐃᔭᖅᓯᒪᙱᑦᑐᖅ.
 
-### Number of pieces
+### ᐃᓕᐅᕈᑎᐅᑉ ᖃᓄᖅ ᐊᒥᓱᓂᖓ
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+ᓈᓴᐅᑎᐅᑉ ᑕᒪᐃᓐᓂᖓ ᐱᐅᓂᕐᓴᐅᔪᖅ ᐱᑕᖃᙱᑦᑐᖅ. ᐃᓕᐅᕈᑎᓂᒃ ᐱᓕᕆᐊᖃᑦᑕᖅᓯᒪᔪᖅ ᐊᒥᓱᓂᒃ ᖁᕕᐊᓱᒍᓐᓇᖅᑐᑦ ᓯᕗᓪᓕᖅᐹᒥ, ᐊᓯᖓ ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ ᖁᕕᐊᓱᒃᑐᖅ. ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ ᒪᓕᒐᖅ: ᑭᖑᓪᓕᖅᐹᖅ ᐃᓕᐅᕈᑎᖅ ᐱᓕᕆᓂᕐᒧᑦ ᐊᔪᕈᓐᓃᖅᐸᑦ, ᓂᕈᐊᕐᓗᑎᑦ ᐃᓕᐅᕈᑎᓂᒃ ᐊᒥᓱᓂᖏᑦ ᐃᒻᒥᓐᓂᒃ ᒥᑭᓂᖅᓴᐅᓗᑎᒃ. ᐱᔭᕇᖅᓯᒪᒍᑦ ᓴᕕᕋᔭᒃᑕᐅᓗᓂ ᐊᒻᒪ ᐊᒥᓱᓂᖅᓴᓂᒃ ᐱᔪᒪᓕᕐᐸᑦ, ᒥᑭᓗᐊᕐᓗᑎᑦ.
 
-### Piece size and feel
+### ᐃᓕᐅᕈᑎᐅᑉ ᐊᖏᓂᖓ ᐊᒻᒪ ᐊᑦᑕᕐᓇᖓ
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **ᐊᖏᔪᑦ ᐃᓕᐅᕈᑎᐅᑦ** ᑕᑯᔪᓐᓇᖅᑐᑦ, ᑎᒍᒥᐊᕈᓐᓇᖅᑐᑦ ᐊᒻᒪ ᒧᒥᖅᑕᐅᔪᓐᓇᖅᑐᑦ.
+- **ᓴᙱᔪᑦ, ᐃᑎᔪᑦ ᐃᓕᐅᕈᑎᐅᑦ** ᐃᓂᖃᖅᑐᑦ ᐊᒻᒪ ᑲᑎᖅᓱᖅᑕᐅᒐᑦ ᐊᓯᐅᙱᑦᑐᑦ.
+- **ᖃᐅᒻᒪᖅᑯᑎᖃᙱᑦᑐᖅ** ᖃᐅᒻᒪᖅᑯᑎᐅᑉ ᒥᑭᓂᖓ ᐃᑲᔪᖅᑐᖅ ᖃᐅᒻᒪᖅᑯᑎᐅᑉ ᐊᑭᓐᓂ ᐊᒻᒪ ᐃᒐᓛᒃᑯᑦ.
+- **ᒥᑭᔪᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᐊᑕᖏᓗᑎᑦ** ᐃᓄᐃᑦ ᑕᒪᒃᑯᐊ ᖃᓄᓕᒫᖏᑦ ᐃᓕᓗᒋᔭᐅᔪᓐᓇᖅᐸᑦ, ᑕᐃᒪᓐᓇ ᐱᔪᓐᓇᖅᑐᖅ ᐃᓱᒪᓕᕆᓂᖅ ᑭᖑᓪᓕᕐᒥ.
 
-### The picture
+### ᐊᔾᔨᖅ
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **ᐃᓐᓇᐅᓄᑦ ᐊᔾᔨᐅᔪᑦ.** ᐱᕈᕐᓰᕕᑦ, ᐃᒐᕕᑦ, ᐊᖅᑯᑎᑦ ᐱᑐᖃᐅᓯᒪᔪᑦ, ᐃᓄᐃᑦ ᓂᕐᔪᑏᑦ, ᑕᕆᐅᑉ ᓯᓂᖓᓂ ᓄᓇᓕᖅ, ᐱᔪᒪᔭᖏᑦ ᐱᙳᐊᕈᑎᐅᔪᑦ. ᓄᑕᕋᕐᓯᒪᔪᓄᑦ ᐊᔾᔨᙱᑦᑐᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓄᑕᕋᕐᓯᒪᔪᓄᑦ ᐱᙳᐊᕈᑎᑦᑎᑑᓂᖅᓴᐅᔪᑦ.
+- **ᐊᔾᔨᒌᙱᑦᑐᑦ ᐃᓗᖏᑦ ᐊᒥᐊᖃᖅᑐᑦ.** ᐊᐅᐸᖅᑐᖅ ᐃᒡᓗᕈᓯᕐᔪᐊᖅ, ᑐᖑᔪᖅ ᐅᒥᐊᖅ ᐊᒻᒪ ᐃᕕᑦᑐᖅ ᓇᒧᙵᐅᖅᑐᖅ ᐊᔪᕈᓐᓃᖅᓴᐅᔪᑦ ᓯᓚ ᐃᓕᐅᕈᑎᐅᑉ ᐃᓗᐊᓂ ᐊᒥᓱᓂᒃ ᐃᓗᓂᖃᖅᑐᒥᑦ.
+- **ᐃᓕᓴᕆᔭᐅᔪᑦ ᐊᒻᒪ ᓇᓗᓇᐃᔭᖅᑐᑦ.** ᓄᓇᓕᐅᑉ ᐊᔾᔨᖓ ᐃᓄᐃᑦ ᓄᓇᖃᑦᑕᖅᓯᒪᓂᖓ ᐅᕝᕙᓘᓐᓃᑦ ᐱᔪᒪᔭᖓ ᐅᖃᖃᑎᒌᒍᑎᖃᖅᑎᑦᑎᔪᖅ ᐊᒥᓱᓂᒃ. ᑎᑎᕋᖅᑎᑦ ᐃᓚᖏᑦ ᐃᓚᒌᒍᑎᐅᑉ ᐊᔾᔨᖓ ᐊᔾᔨᒌᙱᑦᑐᒧᑦ ᐃᓕᐅᕈᑎᖃᖅᑎᑦᑎᔪᓐᓇᖅᑐᑦ.
 
-## How do you do a puzzle together?
+## ᖃᓄᖅ ᑲᑐᔾᔨᓗᑕ ᐃᓕᐅᕈᑎᒥᒃ ᐱᓕᕆᕙ?
 
-Set it up so the person can get straight to the enjoyable part.
+ᐋᖅᑭᒃᓱᖅᑕᐅᓗᑎᑦ ᐃᓄᐃᑦ ᖁᕕᐊᓇᖅᑐᒥᒃ ᐃᓗᐊᓂ ᐱᒋᐊᕈᓐᓇᖁᓪᓗᒍ.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **ᐃᓂᒃᓴᖅ ᓂᕈᐊᕐᓗᑎᑦ.** ᖃᐅᒻᒪᖅᑐᖅ, ᐃᖅᑲᐃᑦᑕᕐᕕᒃ ᑕᓪᓕᖃᖅᑐᒥᒃ ᐊᒻᒪ ᓂᕿᑦᑎᐊᕙᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓴᖅᑭᔮᖅᑎᑕᐅᔪᖅ ᐃᓕᐅᕈᑎᖅ ᐃᓂᖃᕈᓐᓇᖅᑐᖅ.
+2. **ᐴᖅᑲᐅᑉ ᐊᔾᔨᖓ ᓇᒻᒥᓂᖅᓗᒍ** ᑕᒪᕐᒥᒃ ᑕᑯᔪᓐᓇᖅᑐᒥᒃ.
+3. **ᐃᓕᐅᕈᑎᑦ ᓴᖑᑎᓪᓗᑎᒃ ᐊᔾᔨᖏᑦ ᖁᕝᕙᕆᐊᖅᑎᓪᓗᒋᑦ** ᐱᒋᐊᕈᓐᓇᑦ ᓯᕗᓪᓕᖅᑎᓪᓗᑎᑦ.
+4. **ᓯᓂᖓᓂ ᐃᓕᐅᕈᑎᓂᒃ ᐋᖅᑭᒃᓱᖅᑕᐅᓗᑎᒃ** ᐃᓕᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᓯᓂᖓ ᐱᔭᕇᖅᓯᓗᑎᑦ ᐊᒻᒪ ᕿᑎᖓ ᑭᓯᐊᓂ ᖁᔭᓐᓇᒦᓗᑎᑦ.
+5. **ᐃᓕᐅᕈᑎᓂᒃ ᐊᒥᐊᒃᑯᑦ ᐋᖅᑭᒃᓱᖅᑕᐅᓗᑎᒃ** ᐃᑎᔪᓄᑦ ᓴᖅᑭᔮᖅᑎᑕᐅᔪᓄᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐳᖅᑐᓄᑦ.
+6. **ᐊᑕᐅᓯᕐᒥᒃ ᐃᓕᐅᕈᑎᒥᒃ ᑐᓂᓯᓗᑎᑦ** ᐃᓕᐅᕈᑎᑦ ᐊᒥᓱᐃᓚᐅᖅᐸᑦ. «ᑖᓐᓇ ᐃᒡᓗᕈᓯᕐᔪᐊᐅᑉ ᐃᓚᖓᓂᒃ ᐃᓱᒪᒋᔭᕋ.»
+7. **ᐊᔾᔨᒥᒃ ᐅᖃᖃᑎᒌᒍᑎᖃᕐᓗᑎᑦ,** ᐱᔭᕇᖅᓯᓂᕐᒥᒃ ᐱᔾᔪᑎᖃᙱᓪᓗᑎᑦ. «ᑖᓐᓇ ᐅᒥᐊᖅ ᐊᑖᑕᒪ ᐱᖃᑦᑕᖅᓯᒪᔭᑦᑎᐊᓲᖑᓚᐅᖅᑐᖅ.»
+8. **ᐃᓂᖃᖅᑎᓪᓗᒍ.** ᐅᑎᕐᓗᑎᑦ ᐅᓪᓗᐃᑦ ᖃᐅᑕᒫᑦ ᐱᔭᕇᖅᓯᓂᐊᕐᓗᒍ. ᓱᒃᑲᔪᒃᑐᖃᙱᑦᑐᖅ.
+9. **ᓄᖅᑲᖅᑎᑕᐅᓗᑎᑦ ᐱᐅᒍᓐᓇᕐᓂᖓᓂ,** ᐃᓕᐅᕈᑎᖅ ᐃᓚᓕᐅᔾᔭᕐᓂᖓᑕ ᑭᖑᓂᖓᓂ, ᖁᕕᐊᓇᖅᑐᒥᒃ ᓱᓕ ᐱᔪᒪᒍᕕᒃ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ᐅᖃᐅᔾᔪᐊᖅᑐᖅ ᐃᓄᒃ ᐃᑲᔪᕐᓗᒍ ᐱᒋᐊᕐᓂᐊᕐᒪᖔᑦ, ᐆᒃᑐᕋᖅᑐᓂᒃ ᑕᑯᒃᓴᐅᓗᑎᑦ ᐊᒻᒪ ᑕᑯᓇᓗᒍ ᑭᓯᐊᓂ ᖁᕕᐊᓱᒍᑦ ᑕᐃᒪᓐᓇ ᐱᔪᒪᒍᑦ. ᐃᓕᐅᕈᑎᓂᒃ ᐃᓚᓕᐅᔾᔭᕐᓂᕐᓂᒃ ᑕᑯᓗᑎᑦ, ᐊᒻᒪ ᓇᓃᓐᓂᖓ ᐅᖃᐅᑎᑦᑎᓗᑎᑦ, ᐃᓚᐅᔪᓐᓇᖅᑐᖅ ᓱᓕ.
 
-## Easy online puzzles
+## ᐊᔪᕈᓐᓃᖅᑐᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᓕᐅᕈᑎᑦ
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+ᑕᐃᔭᐅᓂᒃᑯᑦ ᐃᓕᐅᕈᑎᖅ ᐱᐅᔪᓂᒃ ᐱᖃᖅᑐᖅ: ᐃᓕᐅᕈᑎᑦ ᑕᒻᒪᖅᑐᙱᑦᑐᑦ, ᐊᖏᔪᑦ ᐊᔾᔨᐅᔪᑦ ᓴᖑᑎᑕᐅᔪᑦ ᑕᒻᒪᖅᑐᒥᒃ, ᐊᒻᒪ ᓂᕿᑦᑎᐊᕙᖅ ᓴᓗᒻᒪᖅᓴᐅᑎᑕᐅᔾᔪᑎᖃᙱᑦᑐᖅ.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+ᐊᑭᖃᙱᑦᑐᖅ [ᐊᔾᔨᒥᒃ ᐃᓕᐅᕈᑎᖅ](/games/picture-puzzle/) ᐊᔾᔨᒥᒃ ᐊᕕᒃᑐᐃᓗᒍ 4 ᐅᕝᕙᓘᓐᓃᑦ 9 ᐃᓕᐅᕈᑎᓄᑦ. ᒪᕐᕉᒃ ᐃᓕᐅᕈᑎᒃ ᓇᕿᓪᓗᒋᑦ ᐊᔾᔨᖅ ᐱᔭᕇᖅᑎᓪᓗᒍ. ᐱᔭᕇᖅᓯᒪᔪᖅ ᐊᔾᔨᖅ ᑕᑯᒃᓴᐅᑎᑕᐅᓯᒪᔪᖅ ᐃᑲᔪᖅᑐᐃᓪᓗᓂ, ᐱᕕᖃᙱᑦᑐᖅ, ᐊᒻᒪ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑐᑎᑦ ᓇᓃᓐᓂᖓᓂ. ᓯᑕᒪᐅᔪᑦ ᐃᓕᐅᕈᑎᐅᑦ ᐱᐅᔪᑦ ᐊᒥᓱᓄᑦ ᐃᓄᖕᓄᑦ ᐊᑯᓐᓂᖓᓂ ᐱᒋᐊᕈᑎᒥ, ᐃᓄᒃ ᓴᓂᒥ ᐃᓚᐅᒍᑦ.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+ᐊᔾᔨᒥᒃ ᐱᙳᐊᕈᑎᒧᑦ ᐊᔪᕈᓐᓃᖅᓴᐅᔪᒧᑦ, ᐆᒃᑐᕋᕐᓗᑎᑦ [ᐊᔾᔨᑐᐃᓐᓇᖅ ᓇᓂᓗᒍ](/games/find-the-same/), ᐊᔾᔨᒥᒃ ᖁᓛᓂ ᐊᔾᔨᑐᐃᓐᓇᕐᒥᒃ ᓇᕿᓗᑎᑦ, ᐅᕝᕙᓘᓐᓃᑦ [ᑲᑐᔾᔨᓗᑕ ᐋᖅᑭᒃᓱᖅᑕᐅᓗᑎᑦ](/games/sort-together/), ᐊᔾᔨᐅᔪᑦ ᐃᓗᒃᓴᐃᑦ ᐃᓕᓗᒋᔭᐅᓗᑎᒃ ᓲᕐᓗ ᐃᒐᕕᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐱᕈᕐᓰᕕᒃ.
 
-## Word puzzles: word searches and crosswords
+## ᑎᑎᕋᖅᓯᒪᔪᑦ ᐃᓕᐅᕈᑎᑦ: ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᑦ ᐊᒻᒪ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐊᔾᔨᒌᙱᑦᑎᑕᐅᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᑦ
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+ᑎᑎᕋᖅᓯᒪᔪᑦ ᐃᓕᐅᕈᑎᑦ ᐱᐅᔪᑦ ᐃᓄᖕᓄᑦ ᑕᐃᒪᓐᓇ ᐱᔪᒪᔭᖃᑦᑕᖅᓯᒪᔪᓄᑦ, ᐊᒥᓲᓗᐊᖅᑐᒥᒃ ᓯᕗᓪᓕᖅᐹᒥ ᐱᒋᐊᕈᑎᒥ.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᓂᖃᖅᑐᖅ ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᖅ.** ᐊᑭᖃᙱᑦᑐᖅ [ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᖅ](/games/word-search/) ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᓂᖃᖅᑐᖅ ᐊᒻᒪ ᐅᖃᐅᓯᓂᒃ ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ ᐱᖃᖅᑐᖅ, ᓴᓂᒧᑦ ᐊᒻᒪ ᐊᑖᒧᑦ ᑭᓯᐊᓂ, ᑕᓪᓕᒪᒃᑯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᑎᕐᓗᑎᒃ ᐱᙱᑦᑐᖅ. ᑕᑯᔭᖅᑐᐃᓐᓇᐅᔪᖅ ᓴᖑᑎᑕᐅᔪᒥ ᐅᕝᕙᓘᓐᓃᑦ ᑎᑎᕋᖅᑕᐅᔪᓐᓇᖅᑐᖅ.
+- **ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐅᖃᓕᒫᕐᓗᑎᑦ.** ᐃᓄᒃ ᐅᖃᐅᓯᒥᒃ ᐅᖃᓕᒫᖅᑐᖅ, ᐊᓯᖓ ᕿᓂᖅᑐᖅ. ᓯᕗᓪᓕᖅᐹᒥᒃ ᑎᑎᕋᖅᓯᒪᔪᒥᒃ ᑲᓕᒃᑎᑕᐅᓂᖅ ᓈᒻᒪᒃᑐᖅ.
+- **ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᓂᖃᖅᑐᑦ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐊᔾᔨᒌᙱᑦᑎᑕᐅᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᑦ** ᒪᒃᐱᒐᐃᑦ ᐃᓗᐊᓂ ᐱᐅᔪᑦ ᓯᕗᓪᓕᖅᐹᒥ. ᐊᐱᖅᑯᑎᓂᒃ ᐅᖃᓕᒫᕐᓗᑎᑦ, ᑎᑎᕋᐅᑎᒥᒃ ᐊᑐᖅᑕᐅᓗᑎᑦ ᐊᒻᒪ ᑭᐅᔭᐃᑦ ᑎᑎᕋᕐᓗᒋᑦ ᑲᑐᔾᔨᓗᑕ. ᐊᔪᕈᓐᓃᖅᑐᑦ, ᐱᔾᔪᑎᖃᖅᑐᑦ ᐃᓕᐅᕈᑎᑦ ᐱᐅᓂᕐᓴᐅᔪᑦ ᐊᔾᔨᒌᙱᑦᑐᓂᑦ.
+- **ᐅᖃᐅᓯᓂᒃ ᐅᖃᖃᑎᒌᒍᑎᖃᕐᓗᑎᑦ.** «ᐱᕈᕐᓰᕕᒃ» ᐅᖃᐅᓯᖃᖅᑐᖅ ᐅᖃᐅᓯᖃᕈᓐᓇᖅᑐᖅ ᐃᖅᑲᓇᐃᔭᖅᑐᓂᒃ ᒥᑭᓄᑦ.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+ᐸᐃᑉᐹᒧᑦ ᐱᓕᕆᔾᔪᑎᓂᒃ ᐊᒻᒪ ᖃᓄᖅ ᑎᑎᕋᖅᑕᐅᔪᓐᓇᖅᑕᖏᑦ ᑕᑯᔪᓐᓇᖁᓪᓗᒋᑦ ᐊᒻᒪ ᑎᒍᒥᐊᕈᓐᓇᖁᓪᓗᒋᑦ, ᑕᑯᓗᑎᑦ [ᐊᑭᖃᙱᑦᑐᑦ ᑎᑎᕋᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐃᓱᒪᓕᕆᓂᖅᑕᖃᖅᑐᓄᑦ ᐱᓕᕆᔾᔪᑎᑦ](/activities/printable/).
 
-## Which puzzles suit each stage?
+## ᖃᓄᑐᐃᓐᓇᑦ ᐃᓕᐅᕈᑎᑦ ᐱᐅᔪᑦ ᐊᑐᓂ ᐱᒋᐊᕈᑎᒥ?
 
-Stages overlap, and good and hard days are normal.
+ᐱᒋᐊᕈᑏᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ, ᐊᒻᒪ ᐱᐅᔪᑦ ᐊᒻᒪ ᐊᔪᕈᓐᓃᖅᑐᑦ ᐅᓪᓗᐃᑦ ᐊᑐᖅᑐᑦ.
 
-| Stage | Puzzles that often fit | Your role |
+| ᐱᒋᐊᕈᑎᐅᑉ ᐊᑯᓐᓂᖓ | ᐃᓕᐅᕈᑎᑦ ᐱᐅᔪᑦ ᐊᒥᓲᓗᐊᖅᑐᑦ | ᐃᓕᑦ ᐱᓕᕆᐊᖃᕐᓂᖅ |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| ᓯᕗᓪᓕᖅᐹᖅ | ᐃᓕᓴᕆᔭᐅᔪᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ ᐃᓕᐅᕈᑎᑦ ᓯᕗᙵᕐᔪᐊᒧᑦ ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ, ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᓂᖃᖅᑐᑦ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐊᔾᔨᒌᙱᑦᑎᑕᐅᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᑦ ᐊᒻᒪ ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᑦ, 9 ᐃᓕᐅᕈᑎᓂᒃ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᓕᐅᕈᑎᑦ | ᐃᓚᐅᖃᑕᐅᓂᖅ: ᓂᕈᐊᕈᓐᓇᖁᓪᓗᒍ, ᐊᐱᖅᑯᑎᒍᑦ ᐃᑲᔪᕐᓗᒍ |
+| ᐊᑯᓐᓂᖓ | ᐊᔾᔨᒌᙱᑦᑐᑦ ᐃᓕᐅᕈᑎᑦ ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ ᐊᖏᔪᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ, 4 ᐃᓕᐅᕈᑎᓂᒃ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᓕᐅᕈᑎᑦ, ᐅᖃᐅᓯᓕᕆᓂᕐᒧᑦ ᐃᓕᐅᕈᑎᖅ ᑲᑐᔾᔨᓗᑕ ᐅᖃᓕᒫᖅᑕᐅᔪᖅ | ᐋᖅᑭᒃᓱᖅᑕᐅᓗᑎᑦ, ᐃᓕᐅᕈᑎᓂᒃ ᐋᖅᑭᒃᓱᖅᑕᐅᓗᑎᒃ, ᐊᑕᐅᓯᕐᒥᒃ ᑐᓂᓯᓗᑎᑦ |
+| ᑭᖑᓪᓕᖅᐹᖅ | ᐱᔭᕇᖅᓯᒪᔪᒥᒃ ᐊᔾᔨᒥᒃ ᑲᑐᔾᔨᓗᑕ ᑕᑯᓂᖅ, ᐊᔾᔨᑐᐃᓐᓇᖅ ᓇᓂᓗᒍ ᒪᕐᕉᒃ ᐊᔾᔨᒥᒃ, ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ ᐊᖏᔪᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᐊᑐᖅᑕᐅᓂᖅ | ᐊᐅᓪᓚᖅᑎᓪᓗᒍ; ᐃᓕᑦ ᐃᓚᐅᓂᖅ ᐱᓕᕆᔾᔪᑎᐅᔪᖅ |
 
-## When should you make a puzzle easier, or stop?
+## ᖃᖓ ᐃᓕᐅᕈᑎᖅ ᐊᔪᕈᓐᓃᖅᓴᐅᑎᑕᐅᓂᖓ, ᐅᕝᕙᓘᓐᓃᑦ ᓄᖅᑲᖅᑎᑕᐅᓂᖓ?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+ᑕᑯᒃᓴᐅᓗᑎᑦ ᐊᓃᓐᓂᖅ, ᐃᓕᐅᕈᑎᓂᒃ ᐊᔪᓕᖅᑎᑕᐅᓂᖅ, «ᐱᔪᓐᓇᙱᑦᑐᖓ» ᐅᖃᐅᓯᖅᑕᐅᖏᑦᑐᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓱᒪᓕᐅᕈᑎᖃᖅᑐᑦ ᑕᑯᒃᓴᐅᓂᖏᑦ. ᑖᒃᑯᐊ ᓇᓗᓇᐃᔭᖅᑐᑦ ᐊᓯᒍᓐᓇᕆᐊᖃᖅᑕᖅ, ᑲᔪᓯᑎᑕᐅᔾᔪᑎᖃᙱᑦᑐᑦ.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **ᒥᑭᓂᖅᓴᐅᑎᓗᒍ.** ᐃᑲᓬᓗᐊᙱᑦᑐᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ, ᐅᕝᕙᓘᓐᓃᑦ ᑭᖑᓪᓕᖅᐹᓂᒃ ᐃᓕᐅᕈᑎᓂᒃ ᑭᓯᐊᓂ ᖁᔭᓐᓇᒦᓗᑎᑦ.
+- **ᐃᓕᑦ ᐊᒥᓱᓂᖅᓴᓂᒃ ᐱᓕᕆᓗᑎᑦ** ᐊᒻᒪ ᐊᔪᕈᓐᓃᖅᑐᓂᒃ ᐃᓗᐊᓂ ᐃᑲᔪᖅᑐᐃᓂᕐᒧᑦ ᖁᔭᓕᓗᑎᑦ.
+- **ᖃᓂᒋᔭᖓᓄᑦ ᐊᓯᒍᓐᓇᕐᓗᑎᑦ:** ᐃᓕᐅᕈᑎᓂᒃ ᐊᒥᐊᒃᑯᑦ ᐋᖅᑭᒃᓱᖅᑕᐅᓂᖅ, 4 ᐃᓕᐅᕈᑎᓂᒃ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᓕᐅᕈᑎᖅ, ᐅᕝᕙᓘᓐᓃᑦ [ᐊᒥᐊᖃᖅᑎᑕᐅᓂᖅ](/games/coloring/).
+- **ᓄᖅᑲᖅᑎᑕᐅᓗᑎᑦ.** ᐃᓛᒃᑰᖅᑎᓪᓗᒍ ᐊᒻᒪ ᑎᐅ ᐃᒻᒥᕐᓗᑎᑦ. ᐅᑎᕐᓗᑎᑦ ᐊᓯᐊᒍᑦ ᐅᓪᓗᒥ, ᐅᕝᕙᓘᓐᓃᑦ ᐅᑎᕐᓗᓐᓇᙱᓗᑎᑦ.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+ᐃᓕᐅᕈᑎᑦ ᐃᕐᖃᓯᐅᑎᑦᑎᓯᒪᓕᕐᐸᑦ ᐊᔪᕈᓐᓃᖅᑐᓂᒃ ᐃᕐᖃᓯᐅᑎᑦᑎᓗᑎᒃ, ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑐᖅ. ᐊᒥᓱᑦ ᐊᓯᖏᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐱᐅᒍᓐᓇᕐᓂᒃ ᐃᑲᕐᕋᒥᒃ ᑲᑐᔾᔨᓗᑕ ᐊᑐᕐᓂᐊᕐᓗᑎᑦ; [101 ᐱᓕᕆᔾᔪᑎᐅᑉ ᐃᓱᒪᒋᔭᐅᔪᑦ](/activities/ideas/) ᐱᐅᔪᖅ ᐃᓂᒃᓴᐅᔪᖅ ᕿᓂᕐᓂᐊᕐᓗᑎᑦ.

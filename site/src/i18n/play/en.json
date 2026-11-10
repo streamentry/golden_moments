@@ -173,6 +173,7 @@
       "guidance": "Read the card out loud. There are no right answers.",
       "position": "Card {n} of {total}",
       "themeLegend": "Theme",
+      "showPrompt": "Show a conversation prompt",
       "next": "Next card",
       "previous": "Previous card",
       "print": "Print all cards",

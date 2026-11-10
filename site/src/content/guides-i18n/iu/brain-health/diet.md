@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND ᐊᒻᒪᓗ Mediterranean ᓂᕿᓂᖅ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᓗ"
+seoTitle: "MIND ᓂᕿᓂᖅ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᓗ: ᖃᐅᔨᓴᕐᓂᖅ"
+description: "ᖃᐅᔨᓴᕐᓂᖅ ᐅᖃᐅᓯᖃᖅᑐᖅ MIND ᐊᒻᒪᓗ Mediterranean ᓂᕿᓂᕐᒧᑦ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒧᓪᓗ, ᖃᐅᔨᓴᕐᓂᖅ ᐃᑲᔫᑎᖃᙱᑦᑐᖅ, ᐊᒻᒪᓗ ᖃᓄᖅ ᐃᑲᔪᕈᓐᓇᕐᓂᖅ ᓂᕆᔭᐅᓂᕐᒧᑦ."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  ᐃᓄᓕᕆᓂᕐᒧᑦ ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᕋᓐᓈᖅᑕᐅᓯᒪᔪᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ Mediterranean ᐊᒻᒪᓗ MIND ᓂᕿᓂᕐᒧᑦ
+  ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᓂᒃ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒧᑦ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ, ᑭᓯᐊᓂ ᑕᒪᐃᓐᓂ ᐱᔪᓐᓇᖅᑕᐅᙱᑦᑐᑦ.
+  ᐱᖓᓱᓂᒃ ᐅᑭᐅᓂᒃ ᖃᐅᔨᓴᕐᓂᕐᒥ, 2023-ᒥ ᓴᖅᑭᑕᐅᓯᒪᔪᒥ, MIND ᓂᕿᓂᖅ ᓇᓗᓇᐃᔭᙱᑦᑐᖅ
+  ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐃᓱᒪᓕᕆᓂᕐᒥ ᐅᕝᕙᓘᓐᓃᑦ ᑕᕆᐅᑉ ᓴᖅᑭᑎᑕᐅᓂᖏᓐᓂ. ᓂᕿᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑕᒪᕆᐅᕈᑎᒃ
+  ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᖅ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ ᐱᔭᕇᖅᓯᒪᔪᓐᓇᕐᓂᕐᒧᑦ. ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ ᐃᓅᓯᒪᔪᓄᑦ,
+  ᓂᕆᓂᖅ ᐊᒻᒪᓗ ᐃᒥᕐᓂᖅ ᓇᒻᒥᓂᖅᓴᐅᕗᖅ.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "ᐃᓚᖏᑦ, ᑭᓯᐊᓂ ᑕᒪᐃᓐᓂᙱᑦ, ᖃᐅᔨᓴᕐᓃᑦ ᐃᓄᓕᕆᓂᕐᒧᑦ ᑕᑯᕋᓐᓈᖅᑕᐅᓯᒪᔪᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ Mediterranean ᐊᒻᒪᓗ MIND ᓂᕿᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᓂᒃ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒧᑦ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ."
+  - "2023-ᒥ ᖃᐅᔨᓴᕐᓂᕐᒥ 604-ᓂᒃ ᐃᓐᓇᑐᖃᕐᓂᒃ, MIND ᓂᕿᓂᕐᒧᑦ ᒪᓕᒃᑎᑦ ᐱᐅᓯᒋᐊᖅᓯᙱᑦᑐᑦ ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐆᒃᑐᕋᕐᓂᕐᓄᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑕᕆᐅᑉ ᓴᖅᑭᑎᑕᐅᓂᖏᓐᓄᑦ ᐊᓯᖏᓐᓂᑦ ᓂᕿᓂᕐᒧᑦ ᒪᓕᒃᑐᓂᑦ ᐱᖓᓱᓂᒃ ᐅᑭᐅᓂᒃ ᑭᖑᓪᓕᖅᐹᒥ."
+  - "National Institute on Aging ᐅᖃᐅᓯᖃᖅᑐᖅ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᖅ ᓂᕿᒃ ᐊᑐᕐᓂᖓ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑐᙱᓂᖓ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᒥᒃ Alzheimer ᐱᔭᕇᖅᓯᒪᔪᓐᓇᕐᓂᕐᒧᑦ, ᐊᒻᒪᓗ ᑕᒪᕆᐅᕈᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓚᓯᐅᑎ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᖅ ᐱᔭᕇᖅᓯᒪᔪᓐᓇᕐᓂᕐᒧᑦ."
+  - "ᓂᕿᓂᖅ ᐱᕈᖅᑐᓂᒃ ᓂᕿᓂᒃ, ᐱᕈᖅᑐᓂᒃ ᓇᐹᖅᑐᓂᒃ, ᑰᑦᓯᓂᒃ, ᑎᒻᒥᐊᓂᒃ, ᐃᖃᓗᓂᓪᓗ ᐃᑲᔪᕐᓂᖅᓴᐅᔪᖅ ᐆᒻᒪᑎᓕᕆᓂᕐᒧᑦ ᖃᓄᐃᓕᖓᓂᕐᒧᑦ ᐊᒻᒪᓗ ᐃᑲᔪᕈᓐᓇᖅᑐᖅ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓄᑦ ᐊᒻᒪᓗ ᑲᓇᑕᒧᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᕐᒧᑦ."
+  - "ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ ᐃᓅᓯᒪᔪᓄᑦ, ᐊᓪᓚᖑᖃᑕᐅᑎᓪᓗᒋᑦ ᓂᕿᑦ, ᐊᔾᔨᒌᙱᑦᑐᑦ ᐸᓚᐅᒑᖏᑦ, ᓴᐃᓕᒪᓂᖃᙱᑦᑐᖅ ᓂᕿᓂᕐᒧᑦ ᐃᓂᖃᕐᕕᖕᒥ, ᐊᒻᒪᓗ ᐃᒥᕐᓂᖅ ᑲᑎᙵᔪᒃᑯᑦ ᐱᒻᒪᕆᐅᓂᖅᓴᐅᓲᖑᔪᑦ ᓂᕿᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᒥᑦ ᐊᔾᔨᒌᙱᑦᑐᒥᑦ."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "MIND ᓂᕿᓂᖅ ᐱᔭᕇᖅᓯᒪᔪᓐᓇᖅᐸ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ?"
+    a: "ᑕᐃᒪᐃᒻᒪᑦ ᑕᑯᔭᐅᓯᒪᙱᑦᑐᖅ. ᐃᓄᓕᕆᓂᕐᒧᑦ ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᕋᓐᓈᖅᑕᐅᓯᒪᔪᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ MIND ᓂᕿᓂᖅ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᒥᒃ, ᑭᓯᐊᓂ ᐱᖓᓱᓂᒃ ᐅᑭᐅᓂᒃ ᖃᐅᔨᓴᕐᓂᕐᒥ, 2023-ᒥ ᓴᖅᑭᑕᐅᓯᒪᔪᒥ, ᓇᓗᓇᐃᔭᙱᑦᑐᖅ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐆᒃᑐᕋᕐᓂᕐᓄᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑕᕆᐅᑉ ᓴᖅᑭᑎᑕᐅᓂᖏᓐᓄᑦ MIND ᓂᕿᓂᕐᒧᑦ ᒪᓕᒃᑐᑦ ᐊᒻᒪᓗ ᐊᓯᖏᑦ ᓂᕿᓂᕐᒧᑦ ᒪᓕᒃᑐᑦ ᐊᑯᓐᓂᖓᓂ. ᑕᒪᕐᒥᒃ ᐃᓚᒋᔭᐅᔪᑦ ᒥᑭᒡᓕᒋᐊᖅᑐᑦ ᐊᒻᒪᓗ ᐊᔾᔨᒌᒃᑐᒥᒃ ᐅᖁᓯᕙᓪᓕᐊᓚᐅᖅᑐᑦ."
+  - q: "ᖃᓄᖅ ᐊᔾᔨᒌᖕᖏᑐᖅ MIND ᓂᕿᓂᖅ ᐊᒻᒪᓗ Mediterranean ᓂᕿᓂᖅ?"
+    a: "Mediterranean ᓂᕿᓂᖅ ᐱᒻᒪᕆᐅᓂᖅᓴᐅᓲᖅ ᓂᕿᓂᒃ, ᐱᕈᖅᑐᓂᒃ ᓇᐹᖅᑐᓂᒃ, ᑎᒻᒥᐊᓂᒃ, ᑰᑦᓯᓂᒃ, ᐃᖃᓗᓂᒃ ᐅᖅᓱᐊᓗᖕᒥᓪᓗ, ᐊᒻᒪᓗ ᐅᓕᒻ ᐅᖅᓱᖓᓂᒃ, ᒥᑭᒡᓕᒋᐊᖅᑐᒥᒃ ᐆᒻᒪᑎᓂᒃ ᓂᕿᓂᒃ, ᒪᓐᓂᕐᓂᒃ, ᐊᒻᒪᓗ ᓯᐊᒻᒪᖅᑐᓂᒃ. MIND ᓂᕿᓂᖅ ᑲᑎᑎᑕᐅᓯᒪᔪᖅ Mediterranean ᓂᕿᓂᕐᒧᑦ ᐊᒻᒪᓗ DASH ᓂᕿᓂᕐᒧᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓄᑦ, ᐱᒻᒪᕆᐅᓂᖅᓴᐅᓲᖅ ᓴᓗᒪᓂᒃ ᓄᓇᐅᑉ ᓂᕿᖏᓐᓂᒃ ᐊᒻᒪᓗ ᐱᕈᖅᑐᓂᒃ ᒥᑭᔪᓂᒃ, ᐊᒻᒪᓗ ᒥᑭᓪᓕᑎᑦᑎᓲᖅ ᐆᒻᒪᑎᓂᒃ ᓂᕿᓂᒃ, ᓯᐊᒻᒪᖅᑐᓂᒃ, ᐃᒻᒧᒃ, ᐅᖅᓱᖅᑯᑦ ᓴᓇᔭᐅᓯᒪᔪᓂᒃ, ᐊᒻᒪᓗ ᐆᑦᑕᕐᓱᒃᑕᐅᓯᒪᔪᓂᒃ ᓂᕿᓂᒃ."
+  - q: "ᓂᕿᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑕᒪᕆᐅᕈᑎᑦ ᐱᔭᕇᖅᓯᒪᔪᓐᓇᖅᐸᑦ Alzheimer-ᒥᒃ?"
+    a: "ᐋᒃᑲ. National Institute on Aging ᐅᖃᐅᓯᖃᖅᑐᖅ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᖅ ᓂᕿᒃ ᐊᑐᕐᓂᖓ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑐᙱᓂᖓ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᒥᒃ Alzheimer ᐅᕝᕙᓘᓐᓃᑦ ᐃᓐᓇᑐᖃᕐᓂᒃ ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ ᐱᔭᕇᖅᓯᒪᔪᓐᓇᕐᓂᕐᒧᑦ, ᐊᒻᒪᓗ ᑕᒪᕆᐅᕈᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓚᓯᐅᑎ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᖅ Alzheimer ᐱᔭᕇᖅᓯᒪᔪᓐᓇᕐᓂᕐᒧᑦ. ᐋᓐᓂᐊᖃᕐᑐᒧᑦ ᐅᖃᖃᑎᒌᒍᑎᒃ ᐊᑐᓂᐊᕐᓂᐊᕐᓂᑦ ᑕᒪᕆᐅᕈᑎᓂᒃ ᐃᓚᓯᐅᑎᓂᒃ ᐊᑐᕐᓂᐊᕐᓂᐊᕈᕕᑦ."
+  - q: "ᓂᕿᑦ ᖃᓄᑎᒋ ᐊᔪᕐᓇᙱᑦᑐᑦ ᓂᕆᔭᐅᔪᓐᓇᖅᑐᑦ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ ᐃᓅᓯᒪᔪᒧᑦ?"
+    a: "ᒥᑭᔪᑦ ᐊᓪᓚᖑᖃᑕᐅᑎᓪᓗᒋᑦ ᓂᕿᑦ, ᓲᕐᓗ ᓴᓐᕕᓯᐊᑦ ᐃᓚᖏᑦ, ᑯᒻᒥᐊᑦ ᐃᓚᖏᑦ, ᐋᐅᓚᐅᓐᓱ ᐃᓚᖏᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐆᑦᑕᕐᓯᒪᔪᑦ ᓂᕿᐃᑦ ᐃᓚᖏᑦ, ᐊᔪᕐᓇᙱᓛᖅᑐᑦ ᓴᕕᕋᔭᒃᑯᑦ ᐊᑐᙱᑦᑐᑦ ᐊᑐᕐᓂᐊᕐᓂᕐᒥ. ᑮᔭᖃᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᕿᕐᓂᖅ ᐊᔪᕐᓇᖅᐸᑦ, ᐊᖅᑯᑎᑐᑦ ᓂᕿᑦ ᓲᕐᓗ ᒪᓐᓂᕐᓂᒃ ᐃᒡᓗᕈᓯᐊᖅᑕᐅᓯᒪᔪᑦ, ᐋᐳᓗ ᐃᖑᓯᒪᔪᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᒻᒧᒃ ᐃᑲᔪᕈᓐᓇᖅᑐᑦ. ᐋᓐᓂᐊᖃᕐᑐᒧᑦ ᐊᐱᕆᓗᑎᑦ ᐃᕿᕐᓂᕐᒧᑦ ᖃᐅᔨᓴᕐᓂᕐᒧᑦ ᖁᕝᕙᕆᐊᖅᐸᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓄᕿᔪᓕᕈᓐᓇᖅᐸᑦ."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,165 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+ᐅᖃᓕᒫᒐᓱᒃᑲᓐᓂᕈᓐᓇᖅᐳᑎᑦ «ᑕᕆᐅᒧᑦ ᖃᓄᐃᓕᖓᓂᕐᒧᑦ ᐱᐅᓯᒋᐊᖅᑐᖅ» ᓂᕿᓂᖅ ᐱᔭᕇᖅᓯᒪᔪᓐᓇᖅᑐᖅ Alzheimer-ᒥᒃ.
+ᐱᔾᔪᑎᖓ ᒥᑭᓂᖅᓴᐅᕗᖅ. ᐃᓚᖏᑦ ᓂᕿᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ ᐊᑯᓐᓂᖓᓂ
+ᖃᐅᔨᓴᕐᓂᕐᓂ ᐃᓄᓕᕆᓂᕐᒧᑦ ᑕᑯᕋᓐᓈᖅᑕᐅᓯᒪᔪᓂ, ᑭᓯᐊᓂ ᐱᐅᓯᒋᐊᕐᓂᖅᓴᖅ ᖃᐅᔨᓴᕐᓂᖅ ᒫᓐᓇᒧᑦ ᓇᓗᓇᐃᔭᙱᑦᑐᖅ
+ᓇᓗᓇᐃᖅᓯᒪᔪᓂᒃ ᐃᑲᔫᑎᓂᒃ. ᑖᓐᓇ ᒪᒃᐱᒐᖅ ᓇᓗᓇᐃᖅᓯᕗᖅ ᑕᒪᒃᑭᖕᓂᒃ, ᑕᐃᒪᓗ ᐅᖃᐅᓯᕗᖅ ᐱᒻᒪᕆᐅᓂᖅᓴᐅᔪᓂᒃ
+ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ ᐃᓅᓯᒪᔪᒧᑦ: ᓂᕆᓂᖅ ᐊᒻᒪᓗ ᐃᒥᕐᓂᖅ ᓇᒻᒥᓂᖅᓴᐅᓂᖅ, ᐊᒻᒪᓗ ᐊᓕᐊᓇᖅᑐᒦᓂᖅ.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+ᑖᓐᓇ ᑐᑭᓯᒋᐊᕈᑎᐅᔪᖅ ᑲᑐᔾᔨᔪᖅ, ᐋᓐᓂᐊᖃᕐᑐᒧᑦ ᐊᑐᖅᑕᐅᔪᖅ ᐱᙱᑦᑐᖅ. ᐅᖃᖃᑎᒌᒍᑎᒃ ᐋᓐᓂᐊᖃᕐᑐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ
+ᓂᕿᓂᕐᒧᑦ ᐃᓕᓴᕆᔭᐅᔪᒧᑦ ᐊᑐᖅᑎᒧᑦ ᓂᕿᓂᕐᓂᒃ ᐊᓯᔾᔨᖅᑕᐃᓕᒪᓂᐊᕐᓂᐊᕐᓂᐊᕈᕕᑦ ᐃᓕᕕᓪᓘᓐᓃᑦ ᐊᓯᖏᓐᓄᑦ. ᑕᑯᓗᒍ
+[ᐋᓐᓂᐊᖃᕐᑎᓄᑦ ᓇᓗᓇᐃᔭᖅᓯᒪᔪᖅ](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## ᓇᓗᓇᐅᑎᖃᕐᐸᑦ Mediterranean ᐊᒻᒪᓗ MIND ᓂᕿᓂᕐᒧᑦ?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) ᑕᐃᒪᐃᒻᒪᑦ ᓇᓗᓇᐃᖅᓯᕗᖅ
+([NIA ᓂᕿᓂᕐᒧᑦ ᐊᒻᒪᓗ Alzheimer-ᒧᑦ](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Mediterranean ᓂᕿᓂᖅ:** ᐊᒥᓱᑦ ᐱᕈᖅᑐᑦ ᓂᕿᑦ, ᓂᕿᑦ ᓇᐹᖅᑐᑦ, ᑎᒻᒥᐊᑦ, ᑰᑦᓯᑦ,
+  ᐃᖃᓗᒃᑕᐅᑦ ᐊᒻᒪᓗ ᐅᖅᓱᐊᓗᕐᒥᐅᑕᑦ ᓂᕿᖏᑦ, ᐊᒻᒪᓗ ᐅᓕᒻ ᐅᖅᓱᖓ, ᒥᑭᒡᓕᒋᐊᖅᑐᒥᒃ ᐆᒻᒪᑎᓂᒃ ᓂᕿᓂᒃ,
+  ᒪᓐᓂᕐᓂᒃ, ᐊᒻᒪᓗ ᓯᐊᒻᒪᖅᑐᓂᒃ.
+- **MIND ᓂᕿᓂᖅ** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  ᑲᑎᑎᑕᐅᓯᒪᔪᖅ Mediterranean ᓂᕿᓂᕐᒧᑦ ᐊᒻᒪᓗ DASH ᓂᕿᓂᕐᒧᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓄᑦ.
+  ᐱᒻᒪᕆᐅᓂᖅᓴᐅᓲᖅ ᓂᕿᓂᒃ ᓇᐹᖅᑐᓂᒃ, ᐱᓗᐊᖅᑐᒥᒃ ᓴᓗᒪᓂᒃ ᓄᓇᐅᑉ ᓂᕿᖏᓐᓂᒃ; ᐱᕈᖅᑐᓂᒃ ᒥᑭᔪᓂᒃ;
+  ᑎᒻᒥᐊᓂᒃ; ᑰᑦᓯᓂᒃ; ᓇᑦᑏᓂᒃ; ᐃᖃᓗᓂᒃ ᒥᑭᔪᒥᑦ ᐱᓇᓱᐊᕈᓯᕐᒥ ᐊᑕᐅᓯᕐᒥᒃ; ᐊᒻᒪᓗ ᐅᓕᒻ ᐅᖅᓱᖓᓂᒃ.
+  ᒥᑭᓪᓕᑎᑦᑎᓲᖅ ᐆᒻᒪᑎᓂᒃ ᓂᕿᓂᒃ, ᓯᐊᒻᒪᖅᑐᓂᒃ, ᐃᒻᒧᒃ, ᐅᖅᓱᖅᑯᑦ ᓴᓇᔭᐅᓯᒪᔪᓂᒃ, ᐊᒻᒪᓗ
+  ᐆᑦᑕᕐᓱᒃᑕᐅᓯᒪᔪᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑐᐊᕕᕐᓇᖅᑐᒦᑦᑐᓂᒃ ᓂᕿᓂᒃ.
 
-## Do these diets lower dementia risk?
+## ᑖᒃᑯᐊ ᓂᕿᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᑦ ᒥᑭᓪᓕᑎᑦᑎᓲᖅᐸᑦ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒧᑦ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+ᓇᓗᓇᐃᖅᑕᐅᓯᒪᔪᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ. NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᐃᓚᖏᑦ, ᑭᓯᐊᓂ ᑕᒪᐃᓐᓂᙱᑦ, ᐃᓄᓕᕆᓂᕐᒧᑦ
+ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᕋᓐᓈᖅᑕᐅᓯᒪᔪᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ Mediterranean ᐊᒻᒪᓗ MIND ᓂᕿᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᓂᒃ
+ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒧᑦ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ Western ᓂᕿᓂᕐᒧᑦ ᐊᒥᓲᓂᖅᓴᓂᒃ ᐆᒻᒪᑎᓂᒃ ᓂᕿᓂᒃ,
+ᐅᖅᓱᖅᑐᓂᒃ, ᐊᒻᒪᓗ ᓯᐊᒻᒪᖅᑐᓂᒃ.
 
-The 2024 Lancet Commission reviewed the research in more detail
+2024 ᒥᑦᑎᒪᑕᓕᕆᔨᒃᑯᑦ ᑲᑎᒪᔨᖏᑦ (Lancet Commission) ᖃᐅᔨᓴᕐᓂᕐᒥᒃ ᑐᑭᓕᐅᕈᓐᓇᖅᑎᑦᑎᓚᐅᖅᑐᑦ
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- ᐃᓚᖏᑦ ᖃᐅᔨᓴᕐᓃᑦ ᑲᑎᑎᑕᐅᓯᒪᔪᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᓂᕿᓂᖅ ᐱᐅᓯᒋᐊᖅᑐᖅ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ ᒥᑭᒡᓕᒋᐊᖅᑐᒥᒃ
+  20% ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒧᑦ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ.
+- ᐊᖏᓂᖅᓴᖅ ᖃᐅᔨᓴᕐᓂᖅ ᐱᖓᓱᓂᒃ ᐃᓚᒋᔭᐅᔪᓂᒃ ᐅᖃᐅᓯᖃᖅᑐᖅ MIND ᓂᕿᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᓂᒃ
+  ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ ᒥᑭᓂᖅᓴᐅᓂᕐᒧᑦ.
+- ᑭᓯᐊᓂ Sweden-ᒥ ᖃᐅᔨᓴᕐᓂᖅ 28,025-ᓂᒃ ᐃᓐᓇᑐᖃᕐᓂᒃ ᑕᑯᕋᓐᓈᖅᑕᐅᓯᒪᔪᖅ ᒥᑭᔪᒥᒃ 20 ᐅᑭᐅᓂᒃ
+  ᓇᓗᓇᐃᔭᙱᑦᑐᖅ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ ᒥᑭᓂᖅᓴᐅᓂᕐᒥᒃ ᐊᑐᖅᑕᐅᔪᓂ ᐅᖃᐅᔭᐅᔪᓂᒃ ᓂᕿᓂᕐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ
+  Mediterranean ᓂᕿᓂᕐᒧᑦ.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+ᐃᓄᓕᕆᓂᕐᒧᑦ ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᕋᓐᓈᖅᑕᐅᓯᒪᔪᑦ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᙱᑦᑐᑦ ᐱᔾᔪᑎᖃᕐᓂᕐᒥᒃ ᐊᒻᒪᓗ ᖃᓄᐃᓕᖓᓂᕐᒥᒃ.
+ᑕᐃᒪᐃᑦᑐᒦᑦᑐᑦ ᓂᕿᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ ᐊᓯᖏᓐᓂᓪᓗ, ᓲᕐᓗ ᑮᓇᐅᔭᖃᕐᓂᖅ, ᐃᓕᓐᓂᐊᕐᓂᖅ, ᑎᒥᒧᑦ ᐱᓕᕆᓂᖅ,
+ᐊᒻᒪᓗ ᐋᓐᓂᐊᖃᕐᑎᓄᑦ ᐱᔪᓐᓇᕐᓂᖅ. ᑲᑎᒪᔨᖏᑦ ᐃᓱᒪᒋᔭᖏᑦ ᓇᒻᒥᓂᖅ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᖅ ᓂᕿᓂᖅ ᖃᓄᐃᓕᖓᓂᖅᓴᐅᑦᑎᐊᖅ
+ᐱᔭᕇᖅᓯᒪᔪᓐᓇᖅᑐᖅ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ, ᑭᓯᐊᓂ ᐊᒥᓱᓂᒃ ᐱᕈᖅᑐᓂᒃ ᓂᕿᓂᒃ ᓂᕆᓂᖅ ᐊᒻᒪᓗ ᒥᑭᓪᓕᑎᑦᑎᓂᖅ
+ᐋᖅᑭᒃᓱᖅᑕᐅᓯᒪᔪᓂᒃ ᓂᕿᓂᒃ ᐱᐅᔪᖅ ᐊᒥᓱᓄᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓄᑦ ᐊᒻᒪᓗ ᐊᑐᖅᑐᖅ ᐊᑲᐅᓂᖅᓴᐅᔪᓄᑦ ᓲᕐᓗ
+ᐅᖁᓯᕙᓪᓕᐊᓂᖅ, ᑲᓇᑕᒧᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᖅ, ᐊᒻᒪᓗ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᖅ. ᓂᕿᓂᕐᒥᒃ ᐃᓚᓯᙱᑦᑐᑦ
+ᑎᑎᕋᖅᓯᒪᔪᖏᓐᓄᑦ [14 ᐊᑲᐅᓂᖅᓴᐅᔪᓄᑦ ᐱᔾᔪᑎᖏᓐᓄᑦ](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## ᖃᓄᖅ ᓇᓗᓇᐃᔭᖅᑐᖅ 2023-ᒥ MIND ᓂᕿᓂᕐᒧᑦ ᖃᐅᔨᓴᕐᓂᖅ?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+ᐱᐅᓯᒋᐊᕐᓂᖅᓴᖅ ᖃᐅᔨᓴᕐᓂᖅ ᒫᓐᓇᒧᑦ ᖃᐅᔨᓴᕐᓂᐅᓚᐅᖅᑐᖅ New England Journal of Medicine-ᒥ 2023-ᒥ
+([MIND ᓂᕿᓂᕐᒧᑦ ᖃᐅᔨᓴᕐᓂᖅ](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **ᑭᓇᐅᔭᑦ:** 604 ᐃᓐᓇᑐᖃᕐᓂᒃ 65 ᐅᑭᐅᓂᒃ ᐅᖓᑖᓂᒃ ᐊᒻᒪᓗ ᐅᖓᑖᓂᒃ, Chicago ᐊᒻᒪᓗ Boston
+  ᐊᕕᒃᑐᖅᓯᒪᓂᖏᓐᓂ, ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐊᔪᕐᓇᐅᑎᖃᙱᑦᑐᑦ, ᐃᓚᒋᔭᒥᓂᒃ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ ᐃᓚᒋᔭᖃᖅᑐᑦ,
+  ᐅᖁᓯᕙᓪᓕᐊᓯᒪᔪᑦ, ᐊᒻᒪᓗ ᓂᕿᓂᖏᑦ ᐱᐅᓯᒋᐊᙱᑦᑐᑦ ᐱᒋᐊᖅᑎᓪᓗᒍ.
+- **ᖃᓄᖅ:** ᐱᖓᓱᓂᒃ ᐅᑭᐅᓂᒃ, ᐊᕝᕙᐅᖓ ᒪᓕᓚᐅᖅᑐᑦ MIND ᓂᕿᓂᕐᒧᑦ ᐊᒻᒪᓗ ᐊᕝᕙᐅᖓ ᒪᓕᓚᐅᖅᑐᑦ
+  ᓂᕿᓂᕐᒧᑦ ᐱᖃᑦᑕᖅᑐᒥᓂᒃ. ᑕᒪᕐᒥᒃ ᐃᓚᒋᔭᐅᔪᑦ ᐊᐱᖅᑕᐅᓚᐅᖅᑐᑦ ᒥᑭᒡᓕᒋᐊᖅᑐᒥᒃ 250 ᑲᓚᕆᔭᐅᔪᓂᒃ
+  ᐅᓪᓗᒃᑯᑦ ᐊᒻᒪᓗ ᐃᑲᔪᖅᑕᐅᓚᐅᖅᑐᑦ ᓂᕿᓂᕐᒧᑦ ᐃᓕᓴᕆᔭᐅᔪᓂᒃ ᖃᐅᔨᒪᔪᓂᒃ.
+- **ᖃᓄᖅ ᐱᔾᔪᑎᖃᖅᑐᖅ:** ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐆᒃᑐᕋᕐᓃᑦ ᒥᑭᒡᓕᒋᐊᖅᑐᑦ **ᑕᒪᕐᒥᒃ** ᐃᓚᒋᔭᐅᔪᓂ.
+  ᐊᔾᔨᒌᙱᓐᓂᖅ ᐃᓚᒋᔭᐅᔪᑦ ᐊᑯᓐᓂᖏᓐᓂ ᒥᑭᔪᓚᐅᖅᑐᖅ ᐊᒻᒪᓗ **ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᖅ**.
+  ᑕᕆᐅᑉ ᓴᖅᑭᑎᑕᐅᓂᖏᑦ ᑕᑯᔭᐅᓚᐅᖅᑐᑦ ᐊᔾᔨᒌᒃᑐᓂᒃ ᐊᓯᔾᔨᖅᑕᐅᓂᕐᓂᒃ ᑕᒪᕐᒥᒃ ᐃᓚᒋᔭᐅᔪᓂ.
+- **ᐅᖁᓯᕙᓪᓕᐊᓂᖅ:** ᑕᒪᕐᒥᒃ ᐃᓚᒋᔭᐅᔪᑦ ᐅᖁᓯᕙᓪᓕᐊᓚᐅᖅᑐᑦ ᒥᑭᔪᒥᒃ 5 ᑭᓚᒍᕌᒻ (11 ᐳᓐ).
 
-### Why might the trial have found no difference?
+### ᓱᓇᒃ ᐱᔾᔪᑕᐅᓯᒪᔪᖅ ᖃᐅᔨᓴᕐᓂᖅ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᓇᓗᓇᐃᖅᓯᒪᙱᑦᑐᖅ?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+ᖃᐅᔨᓴᖅᑎᑦ ᐃᓱᒪᒋᔭᖏᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᐊᒥᓱᓂᒃ ᐱᔾᔪᑎᓂᒃ. ᐊᓯᖏᑦ ᓂᕿᓂᕐᒧᑦ ᒪᓕᒃᑐᑦ ᓂᕿᓂᖏᑦ
+ᐱᐅᓯᒋᐊᖅᓯᓯᒪᔪᑦ ᐃᒻᒥᒃᑯᑦ, ᐊᔾᔨᒌᒃᑐᒥᒃ ᐅᖁᓯᕙᓪᓕᐊᓚᐅᖅᑐᑎᒃ. ᐅᖅᓱᐊᓗᒃᑯᑦ ᐆᒃᑐᕋᕐᓂᖅ ᐱᐅᓯᒋᐊᖅᓯᔪᓐᓇᖅᑐᖅ
+ᐃᓕᑉᐸᓪᓕᐊᓂᕐᒧᑦ. ᐱᖓᓱᑦ ᐅᑭᐅᑦ ᓇᐃᑦᑐᑦ ᐱᔪᓐᓇᖅᑐᑦ. ᐊᒥᓱᑦ ᐃᓚᐅᖃᑕᐅᔪᑦ ᐃᓕᓐᓂᐊᕐᓂᖅᓴᐅᔪᑦ ᐊᒻᒪᓗ
+Europe-ᒥᐅᑕᐅᔪᑦ, ᑖᒃᑯᐊ ᖃᓄᐃᓕᖓᓂᖏᑦ ᑕᒪᐃᓐᓄᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᙱᑦᑐᑦ.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+ᑕᐃᒪᐃᒻᒪᑦ ᓇᓗᓇᐃᖅᓯᒪᔪᖅ ᐅᓂᒃᑳᖅᑐᐊᖅ: MIND ᓂᕿᓂᖅ ᐱᐅᓯᒋᐊᖅᓯᙱᑦᑐᖅ ᓂᕿᓂᕐᒥᒃ ᒥᑭᒡᓕᒋᐊᖅᑐᒥᒃ
+ᑲᓚᕆᔭᐅᔪᓂᒃ ᒥᑭᓪᓕᑎᑦᑎᓯᒪᔪᒥᒃ ᐱᖓᓱᓂᒃ ᐅᑭᐅᓂᒃ. ᑖᓐᓇ ᑐᑭᖃᙱᑦᑐᖅ ᓂᕿᓂᖅ ᖃᓄᐃᓕᖓᓂᖅᓴᐅᑦᑎᐊᖅ ᐱᐅᙱᑦᑐᖅ.
+ᑐᑭᖃᖅᑐᖅ ᑭᓇᐅᓂᑐᐃᓐᓇᖅ ᓂᕿᓂᕐᒥᒃ ᐊᑐᖅᑕᐅᔪᒥᒃ ᐱᔭᕇᖅᓯᒪᔪᓐᓇᙱᑦᑐᖅ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ.
 
-## What about specific foods and supplements?
+## ᖃᓄᖅ ᓂᕿᑦ ᐃᓚᖏᑦ ᐊᒻᒪᓗ ᑕᒪᕆᐅᕈᑎᑦ?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᖅ ᓂᕿᒃ ᐊᑐᕐᓂᖓ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑐᙱᓂᖓ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᒥᒃ
+Alzheimer ᐅᕝᕙᓘᓐᓃᑦ ᐃᓐᓇᑐᖃᕐᓂᒃ ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐊᑲᐅᓂᖅᓴᐅᓂᕐᒧᑦ ᐱᔭᕇᖅᓯᒪᔪᓐᓇᕐᓂᕐᒧᑦ. ᐱᕈᖅᑐᑦ ᒥᑭᔪᑦ,
+ᓴᓗᒪᑦ ᓄᓇᐅᑉ ᓂᕿᖏᑦ, ᐊᒻᒪᓗ turmeric ᖃᐅᔨᓴᖅᑕᐅᓯᒪᔪᑦ, ᑭᓯᐊᓂ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᑦ. NIA ᐅᖃᐅᓯᖃᖅᑐᖅ
+ᑕᒪᕆᐅᕈᑎᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓚᓯᐅᑎ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᙱᑦᑐᖅ Alzheimer ᐱᔭᕇᖅᓯᒪᔪᓐᓇᕐᓂᕐᒧᑦ, ᐊᒻᒪᓗ ᐊᑐᖅᑕᐅᔪᖃᙱᑦᑐᖅ
+ᑕᐃᒪᐃᓐᓂᖅᓴᐅᓂᕐᒧᑦ. NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᓇᓗᓇᐃᖅᑕᐅᙱᑦᑐᑦ ᓂᐅᕕᐊᒃᓴᐃᑦ ᓂᐅᕕᖃᑦᑕᖅᑕᐅᔪᑦ Alzheimer
+ᐱᔭᕇᖅᓯᒪᔪᓐᓇᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐊᑦᑕᕐᓇᙱᑦᑐᑦ, ᑮᓇᐅᔭᓂᒃ ᐊᑐᖅᑕᐅᓗᑎᒃ ᐱᐅᙱᑦᑐᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᑕᒪᕐᒥᒃ,
+ᐊᒻᒪᓗ ᐊᑯᓐᓂᖅᑎᑕᐅᔪᓐᓇᖅᑐᑦ ᐋᓐᓂᐊᖃᕐᑎᓄᑦ ᑕᒪᕆᐅᕈᑎᓄᑦ, ᑕᐃᒪᐃᒻᒪᑦ ᐋᓐᓂᐊᖃᕐᑐᒧᑦ ᐊᐱᕆᓗᑎᑦ ᐊᑐᕐᓂᐊᕐᓂᐊᕈᕕᑦ
+([NIA Alzheimer ᐱᔭᕇᖅᓯᒪᔪᓐᓇᕐᓂᕐᒧᑦ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## ᖃᓄᖅ ᓂᕿᓂᖅ ᖃᓄᐃᓕᖓᓂᖅᓴᐅᑦᑎᐊᖅ ᐊᒻᒪᓗ ᐊᓕᐊᓇᖅᑐᒦᑦᑐᖅ?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+ᐊᒥᓲᓂᖅᓴᓄᑦ ᐃᓐᓇᑐᖃᕐᓄᑦ, ᑐᕌᒐᖃᖅᑐᖅ ᓂᕿᓂᕐᒥᒃ ᖃᓄᐃᑦᑑᓂᖅᓴᐅᓂᕐᒥᒃ, ᐃᓕᑉᐸᓪᓕᐊᓯᒪᔪᓂᒃ, ᐊᒻᒪᓗ
+ᐊᓕᐊᓇᖅᑐᓂᒃ, ᐱᓕᕆᐊᖑᔪᒥᒃ ᓄᓇᙳᐊᖅᓯᒪᙱᑦᑐᒥᒃ:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **ᓂᕿᑦ ᓴᖅᑭᑎᑦᑎᓗᑎᑦ ᐱᔪᒪᔭᕕᓂᒃ** Mediterranean ᓂᕿᓂᕐᒥᑦ: ᓂᕿᑦ ᓇᐹᖅᑐᑦ, ᐱᕈᖅᑐᑦ ᓂᕿᑦ,
+  ᑰᑦᓯᑦ, ᑎᒻᒥᐊᑦ, ᐃᖃᓗᒃᑕᐅᑦ, ᐊᒻᒪᓗ ᐅᓕᒻ ᐅᖅᓱᖓ.
+- **ᐱᔪᒪᔭᕕᓂᒃ ᓂᕿᑦ ᓯᐊᒻᒪᖅᑐᑦ ᐱᖃᑎᒋᓗᒋᑦ.** ᐊᓕᐊᓇᖅᑐᒦᓂᖅ ᐊᒻᒪᓗ ᓂᕆᔪᒪᓂᖅ ᐱᒻᒪᕆᐅᔪᖅ, ᐱᓗᐊᖅᑐᒥᒃ
+  ᐃᓐᓇᑐᖃᕐᓂᒃ.
+- **ᐊᓯᖏᓐᓂ ᓂᕆᑎᑦᑎᓗᑎᑦ** ᐱᔪᓐᓇᖅᐸᑦ. ᑲᑐᔾᔨᓂᖅ ᓂᕿᓂᕐᒥ ᐱᐅᔪᖅ ᐃᓚᒌᒍᓯᕐᒧᑦ.
+- **ᑲᑐᔾᔨᓗᑎᑦ ᓂᕿᓂᒃ ᓴᓇᓗᑎᑦ.** ᓂᕿᑦ ᓴᓗᒃᓴᐃᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓘᓚᐅᑎᒃ ᐱᐅᔪᖅ ᑲᑐᔾᔨᓂᕐᒧᑦ
+  ᐱᓕᕆᐊᖑᔪᖅ; ᑕᑯᓗᒍ [ᐃᓪᓗᒥ ᐱᓕᕆᐊᑦ](/activities/household-tasks/). ᐃᓚᒋᔭᒥᓂᒃ ᓂᕿᓂᖅ ᐱᔪᒪᔭᕕᑦ
+  ᐃᖅᑲᐅᒪᔭᐅᔪᓐᓇᖅᑐᖅ [ᐃᖅᑲᐅᒪᓂᕐᒧᑦ](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+ᐃᓐᓇᑐᖃᕐᓂᒃ ᒥᑭᓪᓕᑎᑦᑎᔪᓐᓇᙱᑦᑐᑦ ᑲᓚᕆᔭᐅᔪᓂᒃ ᓂᕆᔭᒥᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖁᓯᕙᓪᓕᐊᔪᓐᓇᙱᑦᑐᑦ ᐋᓐᓂᐊᖃᕐᑐᒧᑦ
+ᐅᖃᖃᑎᒌᙱᑦᑎᓪᓗᒍ, ᐊᒻᒪᓗ ᓂᕆᙱᓂᖅ ᐊᑲᐅᓂᖅᓴᐅᔪᓐᓇᖅᑐᖅ. ᑕᑯᓗᒍ
+[ᓂᕆᙱᓂᕐᒧᑦ ᐊᑐᖅᑎ](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## ᖃᓄᖅ ᐃᑲᔪᕈᓐᓇᖅᐳᑎᑦ ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ ᐃᓅᓯᒪᔪᒧᑦ ᖃᓄᐃᓕᖓᓂᖅᓴᐅᑦᑎᐊᖅ ᓂᕆᓂᕐᒧᑦ?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ ᐃᓅᓯᒪᔪᓄᑦ, **ᓇᒻᒥᓂᖅᓴᐅᓂᖅ** ᓂᕆᓂᕐᒥᒃ ᐊᒻᒪᓗ ᐃᒥᕐᓂᕐᒥᒃ ᐱᒻᒪᕆᐅᓲᖑᔪᖅ.
+Alzheimer's Association ᐅᖃᐅᓯᖃᖅᑐᖅ ᐃᓄᑦ ᐳᐃᒍᖅᓯᒪᔪᓐᓇᖅᑐᑦ ᓂᕆᔪᒪᓂᕐᒥᒃ, ᐃᓱᒪᔪᓐᓇᖅᑐᑦ ᓂᕆᓚᐅᖅᑐᑦ,
+ᐅᕝᕙᓘᓐᓃᑦ ᐊᒥᓱᓂᒃ ᓂᕈᐊᕐᓂᕐᒧᑦ ᐊᔪᕐᓇᖅᑐᑦ, ᐊᒻᒪᓗ ᓂᕿᓂᖅ ᓇᒻᒥᓂᖅᓴᐅᙱᓐᓂᖅ ᐱᐅᓯᒋᐊᖅᓯᔪᓐᓇᖅᑐᖅ
+ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓂᒃ ᐊᒻᒪᓗ ᐅᖁᓯᕙᓪᓕᐊᓂᕐᒥᒃ
+([Alzheimer's Association ᓂᕿᓂᕐᒧᑦ ᐊᒻᒪᓗ ᓂᕆᓂᕐᒧᑦ](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+ᑖᒃᑯᐊ ᐃᓱᒪᒋᔭᐅᔪᑦ ᐱᔭᐅᔪᑦ Alzheimer's Association-ᒥᑦ, NIA-ᒥᑦ, ᐊᒻᒪᓗ Alzheimer's Society-ᒥᑦ:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **ᐊᓪᓚᖑᖃᑕᐅᑎᓪᓗᒋᑦ ᓂᕿᑦ ᑐᓂᓯᓗᑎᑦ.** ᒥᑭᔪᑦ ᐃᓚᖏᑦ ᐊᔪᕐᓇᙱᑦᑐᑦ ᑎᒍᒥᐊᖅᑎᓪᓗᒋᑦ,
+   ᓲᕐᓗ ᓴᓐᕕᓯᐊᑦ ᐃᓚᖏᑦ, ᑯᒻᒥᐊᑦ ᐃᓚᖏᑦ, ᐃᖃᓗᒃᑕᐅᑦ ᐃᓚᖏᑦ, ᐋᐅᓚᐅᓐᓱ ᐃᓚᖏᑦ ᐅᕝᕙᓘᓐᓃᑦ
+   ᐆᑦᑕᕐᓯᒪᔪᑦ ᓂᕿᐃᑦ ᐃᓚᖏᑦ, ᐃᑲᔪᕐᓂᖅᓴᐅᔪᑦ ᐃᓄᒻᒧᑦ ᓂᕆᔪᓐᓇᕐᓂᕐᒧᑦ ᓴᕕᕋᔭᒃᑯᑦ ᐊᑐᙱᑦᑐᑦ.
+2. **ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐸᓚᐅᒑᖏᑦ ᐊᑐᕐᓗᑎᑦ.** ᑕᑯᓂᕐᒧᑦ ᐊᓯᔾᔨᖅᑕᐅᓂᖅ ᐊᔪᕐᓇᖅᓯᔪᓐᓇᖅᑐᖅ ᓂᕿᒃ ᐸᓚᐅᒑᕐᒥᑦ
+   ᓇᓗᓇᐃᔭᕐᓂᕐᒥᒃ. ᖃᑯᖅᑕᑦ ᐸᓚᐅᒑᖏᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐳᐊᑦ ᐊᔾᔨᒌᙱᑦᑐᒥ ᐊᑎᖓᓂ ᐃᑲᔪᕈᓐᓇᖅᑐᑦ.
+   ᐊᑐᙱᓗᑎᑦ ᐸᓚᐅᒑᖏᑦ ᐊᒻᒪᓗ ᓂᕿᕕᐅᑉ ᖃᓪᓗᖓᓂ ᐊᓪᓚᖑᖃᑕᐅᔪᓂᒃ.
+3. **ᐊᑕᐅᓯᕐᒥᒃ ᒪᕐᕉᒃ ᐅᕝᕙᓘᓐᓃᑦ ᒪᕐᕉᖕᓂᒃ ᓂᕿᓂᒃ ᑐᓂᓯᓗᑎᑦ.** ᐸᓚᐅᒑᖅ ᐃᓗᓕᖃᖅᑐᖅ ᐊᔪᕐᓇᖅᓯᔪᓐᓇᖅᑐᖅ.
+4. **ᓂᕿᓂᕐᒧᑦ ᐃᓂᖃᕐᕕᖕᒥ ᓴᐃᓕᒪᓂᖃᙱᑦᑐᖅ ᐱᖃᑎᒋᓗᒍ.** ᑕᓚᕖᓴᖅ ᖃᒥᓗᒍ, ᓂᕿᕕᖓ ᐊᔪᕐᓇᙱᑦᑐᒥᒃ
+   ᐱᖃᑎᒋᓗᒍ, ᐊᒻᒪᓗ ᐱᕕᖃᖅᑎᑦᑎᓗᑎᑦ ᐅᑕᖅᑭᔪᒪᙱᑦᑐᒥᒃ. NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᑐᐊᕕᕐᓇᖅᑐᒦᙱᑦᑐᒥᒃ
+   ᐅᕝᕙᓘᓐᓃᑦ ᐱᓂᐊᕐᓂᖅᑎᑦᑎᙱᑦᑐᒥᒃ.
+5. **ᒥᑭᔪᓂᒃ ᓂᕿᓂᒃ ᐊᒻᒪᓗ ᓂᕿᓂᒃ ᐊᑯᓐᓂᖓᓂ ᑐᓂᓯᒃᑲᓐᓂᕐᓗᑎᑦ.** NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᒥᑭᓂᖅᓴᓂᒃ,
+   ᐅᖅᓱᐊᓗᒃᑯᑦ ᓂᕿᓂᒃ ᐊᒻᒪᓗ ᑲᓚᕆᔭᐅᔪᓂᒃ ᐊᒥᓲᓂᖅᓴᓂᒃ ᓂᕿᓂᒃ ᐃᓄᒃ ᓂᕆᙱᑦᐸᑦ
+   ([NIA ᓂᕆᓂᕐᒧᑦ ᐃᑲᔪᖅᑐᑦ](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **ᐃᒥᕐᓂᕐᒧᑦ ᐃᑲᔪᕐᓗᑎᑦ.** ᒥᑭᔪᓂᒃ ᖃᔪᖅᑕᐅᔪᓂᒃ ᐃᒥᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᖏᓐᓂᒃ ᐃᒥᕐᓂᒃ ᐅᓪᓗᒃᑯᑦ
+   ᑐᓂᓯᒃᑲᓐᓂᕐᓗᑎᑦ, ᐊᒻᒪᓗ ᓂᕿᑦ ᐃᒥᕐᒥᒃ ᐊᒥᓲᓂᖅᓴᓂᒃ ᓲᕐᓗ ᐱᕈᖅᑐᑦ ᓂᕿᑦ, ᓂᕿᐃᑦ ᐃᒻᒧᖏᑦ,
+   ᐃᒻᒧᒃ ᐊᓘᓚᐅᑎᒃ, ᐊᒻᒪᓗ smoothies. ᐃᓄᒃ ᐃᒥᕐᒥᒃ ᐱᔪᒪᙱᑦᐸᑦ, NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᐆᒃᑐᕋᕐᓗᑎᑦ
+   ᐱᕈᖅᑐᑦ ᐃᒻᒧᖏᑦ, ᑎᐱᖓᖃᖅᑐᖅ ᐃᒥᖅ, ᓂᕿᐃᑦ ᐃᒻᒧᖏᑦ, ᐃᒻᒧᒃ, ᐅᕝᕙᓘᓐᓃᑦ ᑲᑉᐱ ᐃᓚᖃᙱᑦᑐᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑏ.
+7. **ᐅᖅᑰᓂᖓ ᖃᐅᔨᓴᕐᓗᒍ.** ᐃᓄᒃ ᐃᓕᑉᐸᓪᓕᐊᙱᑦᑐᖅ ᓂᕿᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒥᖅ ᐅᖅᑰᓂᖅᓴᐅᔪᖅ.
+8. **ᓴᕕᕋᔭᐃᑦ ᐊᒻᒪᓗ ᖃᔪᖅᑕᐅᔪᑦ ᐋᖅᑭᒃᓱᐃᓗᑎᑦ.** ᐳᐊᑦ ᐸᓚᐅᒑᖏᓐᓂᑦ ᑐᙵᕕᒃᓴᐅᑎᓪᓗᒋᑦ, ᐊᓘᓚᐅᑏᑦ
+   ᐊᖏᔪᓂᒃ ᑎᒍᒥᖃᖅᑐᑦ, ᐊᒻᒪᓗ ᖃᔪᖅᑕᐅᔪᑦ ᒪᑐᖃᖅᑐᑦ ᐊᔪᕐᓇᙱᑦᑎᐊᖅᑐᑦ ᓂᕆᓂᕐᒥᒃ. ᐃᓱᒪᒋᔭᐃᙱᓗᑎᑦ
+   ᓴᓗᒪᙱᑦᑐᒥᒃ.
+9. **ᓂᕿᑦ ᐊᔪᕐᓇᙱᑦᑎᐊᖅᑐᑦ ᑮᔭᖃᕐᓂᕐᒧᑦ ᐊᒻᒪᓗ ᐃᕿᕐᓂᕐᒧᑦ.** ᓂᕿᑦ ᒥᑭᔪᓂᒃ ᐃᓚᖃᑎᑦᑎᓗᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ
+   ᐊᖅᑯᑎᑐᓂᒃ ᓂᕿᓂᒃ ᑐᓂᓯᓗᑎᑦ. ᐃᓄᒃ ᖁᕝᕙᕆᐊᖅᐸᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓄᕿᔪᓕᕈᓐᓇᖅᐸᑦ ᓂᕆᑎᓪᓗᒍ, ᐋᓐᓂᐊᖃᕐᑐᖓᓄᑦ ᐅᖃᖃᑎᒌᓐᓂᕐᓗᑎᑦ.
+10. **ᐱᓂᐊᕐᓂᖅᑎᑦᑎᓂᕐᒥᒃ ᓂᕆᔭᐅᑎᑦᑎᙱᓗᑎᑦ.** NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᓂᕆᔪᒪᓂᖅ ᒥᑭᓪᓕᒋᐊᖅᑐᖅ ᐃᓗᓕᖅᓯᒪᔪᒥ
+    Alzheimer ᑭᖑᓪᓕᖅᐹᖓᓂ.
 
-### Signs to tell the doctor about
+### ᓇᓗᓇᐃᔭᖅᑎᑦ ᐋᓐᓂᐊᖃᕐᑐᒧᑦ ᐅᖃᐅᔾᔨᔭᐅᔭᕆᐊᖃᖅᑐᑦ
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+ᐅᖁᓯᕙᓪᓕᐊᓂᖅ, ᓂᕆᔪᒪᙱᓐᓂᖅ, ᑖᖅᑐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓴᙱᓂᖅ ᓇᓗᓇᐃᔭᖅᑎᐅᔪᓐᓇᖅᑐᑦ ᐃᓄᒃ ᓂᕆᙱᑦᑐᖅ ᓇᒻᒥᓂᖅᓴᐅᓂᕐᒥᒃ.
+Alzheimer's Society ᐅᖃᐅᓯᖃᖅᑐᖅ ᑭᒍᑎᓕᕆᓂᖅ, ᑭᒍᑎᑦ ᐃᓪᓗᐃᑦ, ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐊᔪᕐᓇᐅᑎᖃᕐᓂᖅ,
+ᐊᓇᐅᑎ ᓱᕈᓯᑎᑦᑎᙱᓐᓂᖅ, ᐊᒻᒪᓗ ᑕᒪᕆᐅᕈᑎᑦ ᐊᓯᔾᔨᖅᑕᐅᓂᖏᑦ ᑕᒪᐃᓐᓂ ᓂᕆᔪᒪᓂᕐᒥᒃ ᒥᑭᓪᓕᑎᑦᑎᔪᓐᓇᖅᑐᑦ
+([Alzheimer's Society ᓂᕆᔪᒪᓂᕐᒧᑦ](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+ᐃᒥᕐᒥᒃ ᐊᒥᓲᙱᑦᑐᖅ ᓇᓗᓇᐃᔭᖅᑎᖏᑦ NIA ᑎᑎᕋᖅᓯᒪᔭᖏᑦ ᐃᓚᖃᖅᑐᑦ ᖃᓂᖅ ᐸᓂᖅᑐᖅ, ᐅᓪᓗᕆᐊᖅᑐᖅ,
+ᐆᒻᒪᑎᐅᑉ ᑐᑭᓯᐅᒪᓂᖓ ᑐᐊᕕᕐᓇᖅᑐᖅ, ᐊᒻᒪᓗ ᑕᑯᙱᑦᑐᓂᒃ ᑕᑯᓂᖅ
+([NIA ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᑦ ᐊᑲᐅᓂᖅᓴᐅᔪᑦ](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## ᐅᖃᖃᑎᒌᒍᑎᒃ ᐋᓐᓂᐊᖃᕐᑐᒧᑦ
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+ᐊᖏᔪᓂᒃ ᐊᓯᔾᔨᖅᑕᐅᓂᕐᓂᒃ ᓂᕿᓂᕐᒧᑦ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᐊᕐᓂᐊᕈᕕᑦ ᐃᓕᕕᓪᓘᓐᓃᑦ ᐊᓯᖏᓐᓄᑦ, ᐅᖃᖃᑎᒌᒍᑎᒃ
+ᐋᓐᓂᐊᖃᕐᑐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓂᕿᓂᕐᒧᑦ ᐃᓕᓴᕆᔭᐅᔪᒧᑦ ᐊᑐᖅᑎᒧᑦ, ᐱᓗᐊᖅᑐᒥᒃ ᑲᓇᑕᒧᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᖅ ᐱᖃᖅᐸᑦ,
+ᑕᒃᑎᓄᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᖅ ᐱᖃᖅᐸᑦ, ᐃᕿᕐᓂᕐᒧᑦ ᐊᔪᕐᓇᐅᑎᖃᖅᐸᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᒫᓐᓇ ᐅᖁᓯᕙᓪᓕᐊᓯᒪᖅᐸᑦ.
+ᐳᐃᒍᖅᑎᑦᑎᓯᒪᓂᕐᒥᒃ ᐃᓅᓯᒪᔪᒧᑦ, ᐊᐱᕆᓗᑎᑦ ᖃᓄᖅ ᐊᒥᓲᓂᖅᓴᓂᒃ ᓂᕆᔭᕆᐊᖃᖅᑐᑦ ᐊᒻᒪᓗ ᐃᒥᕆᐊᖃᖅᑐᑦ ᐅᓪᓗᒃᑯᑦ,
+ᐊᒻᒪᓗ ᓂᕿᓂᕐᒧᑦ ᐃᓕᓴᕆᔭᐅᔪᒧᑦ ᐊᑐᖅᑎ ᐅᕝᕙᓘᓐᓃᑦ ᑕᒪᕆᐅᕈᑎᑦ ᐃᑲᔪᕈᓐᓇᖅᐸᑦ.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+ᑐᐊᕕᕐᓇᖅᑐᒦᑦᑐᒥᒃ ᐃᑲᔪᖅᑐᒃᓴᐅᑎᒋᓗᒍ ᑭᓇᐅᓂᑐᐃᓐᓇᖅ ᓄᕿᔪᓕᕈᓐᓇᖅᐸᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᑐᕌᖓᑦᑎᐊᕆᐊᖃᖅᑐᒥᒃ
+ᐃᓱᒪᒋᔭᐅᔪᓂᒃ ᐊᓯᔾᔨᖅᑕᐅᓂᖅ, ᐱᔾᔪᑎᖃᖅᑐᒥᒃ ᐅᓪᓗᕆᐊᖅᑐᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓪᓗᑐᐃᓐᓇᖅᑐᖅ.
