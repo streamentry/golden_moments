@@ -85,6 +85,10 @@ The Today tool now reveals one suggestion first and keeps alternatives behind a 
 
 Photo Pairs now shows one 14-word setup reminder before photo selection. Existing site styles handle the text, and the English key falls back on untranslated pages. The full site suite, TypeScript, build and checker pass; Python and metadata checks pass. This adds one untranslated string until reviewed translations are available. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no new aggregate score or live usability evidence is claimed.
 
+## Round 48 score update (2026-11-11)
+
+The Today choice board keeps two pictured options and adds a familiar-music guide link beside one game. It reuses the existing layout, picture art and English-only tool copy. The site suite, TypeScript, build, checker, Python tests and metadata check pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); the actual interaction and caregiver/person response remain unverified.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

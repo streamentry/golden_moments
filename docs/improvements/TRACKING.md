@@ -167,3 +167,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Tests | `PhotoPairs.test.ts`: 2 focused SSR/fallback tests pass. `pnpm --dir site verify`: 1,859 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass after `astro sync`. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
 | Render inspection | The built `/games/photo-pairs/` HTML contains the setup cue as a visible paragraph before the photo-comfort note and picker. | Static output checked. |
 | Not verified | Playwright CLI is blocked by the local `npx` package-age guard; no browser CLI is installed. No live small-screen/large-text inspection, caregiver/person feedback, native-speaker review or device check. | Open; do not claim usability validation. |
+
+## Round 48: offer familiar music as a Today choice
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatment claim. |
+| Gap and change | The `/today/` answer for "There's nothing they want to do" showed two browser games, although its guidance says to start from the person's interests and offer two choices. | One pictured choice now opens Picture Pairs; the other opens the existing music guide. The board still has two choices and keeps its point-or-tap cue. |
+| Implementation | `ActivityChoiceBoard` now supports both game cards and a guide card. The music card uses the existing radio illustration, links to `/activities/music/`, and tells caregivers that listening together is enough. No audio, streaming, storage, account or telemetry was added. | Uses existing site artwork and content. |
+| Tests | `ActivityChoiceBoard.test.ts` and `situations.test.ts`: 6 focused tests pass. `pnpm --dir site verify`: 1,859 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
+| Render inspection | The component SSR test confirms two visible choice links, their labels, the guide route and radio illustration. | Passed for the component; the actual `/today/` selection interaction was not browser-tested. |
+| Not verified | The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. Today has no live small-screen/caregiver/person check and remains English-only. | Open; don't claim usability validation. |
