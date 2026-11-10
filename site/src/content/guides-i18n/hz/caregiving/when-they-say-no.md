@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Tji omundu ngu ri nomutjise wokuzemba tja naka poo tja pindike otjiungura"
+seoTitle: "Tji omundu nomutjise wokuzemba tja naka otjiungura"
+description: "Omena ratjike omundu ngu ri nomutjise wokuzemba tji ma naka poo tja hihamisiwa i otjiungura, okutjita vi, okutjita tjike, nu tji omarundurukiro omatjimanga ye hepa onganga."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Tji omundu ngu ri nomutjise wokuzemba tja tja kako, yakura nao mohange
+  nu rora okuṱuna rukwao kombunda poo mu pe otjiṋa tjarwe. Okunaka potuingi ku
+  nonda: otjiungura matji munika otjizeu poo otjovanatje, eye wa urwa, u ri
+  mouhihamo, u nondjara, poo wa pindikisiwa i ombosiro. O ripatasane nu o
+  ṋiṋikize. Tjita otjiungura otjipupu, mu pa ozondando mbari, poo mu ningira
+  ekwatho. Omarundurukiro omatjimanga poo ngu maye runduruka tjimanga, tjinene
+  kombunda yomutjise wombinda poo omiti omipe, ye hepa onganga tjimanga.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "\"Kako\" eziriro ndi sokuṱakamisiwa, ka ouzeu mbu mau sokukandwa."
+  - "Okunaka potuingi ku nonda: otjizeu tjinene, otjovanatje tjinene, okurwa, okuvera, okuhinomuhuka, poo okupindikisiwa."
+  - "Jaruka kombunda, undja, nu rora rukwao kombunda, moruveze rwarwe, poo notjiungura otjipupu."
+  - "Okuningira ekwatho ku ungura nawa okukapita okuningira kutja ma sokutjita nawa."
+  - "O ripatasane, o ṋiṋikize, o pura omapuriro wokurora poo o vyurura. Ritara oveni kutja hi nokuhakahana poo okumupata."
+  - "Omarundurukiro omatjimanga poo ngu maye runduruka tjimanga, tjinene nomutjise wombinda poo omiti omipe, ye sokuṱunwa konganga tjimanga."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ouwa okutja ve ise oviungura avihe?"
+    a: "Ii, meyuva ngamwa arihe. Okuhaama pamwe, okupuratena komizumbi poo okutara imbi mbi ri pendje mape ya a yenene. Tji omundu tja isa okuyorokera oviṋa avihe oure wozombura, raera onganga ye, mena rokutja omuinyo omuvi, ouhihamo poo ouzeu warwe woutjidu mape ya au kara motjirimunikise."
+  - q: "Omena ratjike tji ve naka oviṋa mbi va suverere rukuru?"
+    a: "Otjiungura otjikuru matji yenene okupindikisa tji tji hepa ounongo omutjise wokuzemba mbu wa tjita ouzeu, nu omundu ma yenene okumuna ohoṋi. Rora orupa orupupu rwotjiungura otjingetjo, tjimuna okutoorora ozombandi moruveze rwokuhondja, poo okutara oviperendero vyotjikunino moruveze rwokukuna."
+  - q: "Hi sokukondja okuvetjivisa?"
+    a: "Kako. Okuṋiṋikiza omundu okutjita otjiṋa omutjise wokuzemba tji wa tjita otjizeu otjiṋa tji matji tjiukwa kutja tji eta omapindikiro. Yakura okuti kako, rundurura ehungi, nu yandja rukwao kombunda poo momuano warwe."
+  - q: "Oruṋe omarundurukiro womuinyo tji ye ri otjiponga tjimanga?"
+    a: "Isana 112 tji omundu e ri motjiponga poo tji pe noviraisiro vyotjiponga tjoutjitu tjimanga. Tji pe nomapirukiro omatjimanga poo omuinyo mbu mau runduruka tjimanga moure wozoiiri poo omayuva, tjinene nozombura, nomutjise wombinda poo omuti omupe, hungira nonganga ye tjimanga."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Wa ṱuna oviṋa avihe, wa yandja otjinyanda poo okuryanga, nu wa zuu "Kako." Poo otjiungura tja uta nawa nu tja yanda nokaputirise nga ka undirwa kokure nembo ekukutu. Otjiṋa hi matji tjiti kutja u ise ombepo, nu otjiṋa tji matji tjitwa potuingi. Okunaka nokupindikisiwa potuingi ombuze, kakuṋiṋikiza. Okukondja okuzuva kutja ombuze ndji mai hee tjike potuingi ku ku raisira kutja mo yenene okurora tjike.
 
-## Why does someone with dementia refuse activities?
+## Omena ratjike omundu ngu ri nomutjise wokuzemba tja naka oviungura?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Potuingi pe nonda, nandarire kutja omundu ke nokuyenena oku i hungira momambo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) mai tja okunaka mape ya aku hee kutja omundu ke nokuyenena okutjita otjiungura poo u notira okurora. Onda ozondjivisiro ze ri:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Matji munika otjizeu.** Otjiungura nai tji hepa ounongo omutjise wokuzemba mbu wa tjita ouzeu, nu okuṱira komurungu womundu warwe ku eta ohoṋi.
+- **Matji munika otjovanatje.** Ovandu ovanene ve muna oviperendero vyomanyando, omaraka womizumbi wovanatje noviungura mbi mavi munika aayo vya ungurirwa ovanatje.
+- **Okurwa.** Ovandu ovengi ve nomasa omaṱiṱi kombunda yeyuva. Tara [oviungura ovipore komatango komuhuka](/caregiving/late-day-restlessness/).
+- **Okuhinomuhuka morutu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) mai tamuna ouhihamo, okuhinokurara nawa, ouzeu wokumuna poo okuzuva, oupupu wombunda, ondjara, onyota nozondjandje zovipo vyomiti omipe otjoviṋa mbi mavi eta ouzeu.
+- **Oviṋa ovingi tjinene vi tjitwa.** Oratiyo ndji mai poso, omahungi omengi poo ondjuwo ndje ura ovandu mape ya avi pindikisa.
+- **Okumuna kutja wa ṋiṋikiziwa.** NIA mai tamuna okuṋiṋikiziwa okutjita otjiṋa Alzheimer tji ya tjita otjizeu tjinene, poo okuzemburukisa oviṋa mbya tjitwa poo ovandu, otjonda yomapindikiro.
+- **Omuinyo omuvi.** Okuhina okuyorokera oviṋa mape ya aku ri otjiraisiro tjomuinyo omuvi, nu otjiṋa hi tji sokuhungirwa nonganga.
+- **Eye ke nokuvanga uriri.** Ovandu ovanene ve nouyara wokutja kako.
 
-## What should I try when they say no?
+## Hi sokurora tjike tji ma tja kako?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Yakura okuti kako mohange, nu rundurura otjiṋa: oruveze, otjiungura, oupupu poo omuano mu mo ningire.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Tji esa nai.** "Kape notjiponga. Mape ya kombunda." Nu kayenda kotjiṋa tjarwe nokuhina okusisa omuinyo.
+2. **Rora rukwao kombunda.** Alzheimer's Association mai tunduuza okurora rukwao kombunda, poo moruveze rwarwe meyuva.
+3. **Tji tjita otjiṱiṱi.** Okupatasana kumwe uriri moruveze rwotjinyanda atjihe. Oruvava rumwe uriri moruveze rwondjatu yozombanda. Oviperendero oviṱiṱi, ozondando ozoṱiṱi, oviperendero mbi vya sewa amavi munika.
+4. **Yandja ozondando mbari.** "Mo vanga okutara oviperendero vyozondera poo okupuratena komizumbi?" Ondando i yarura ombepo yokutja u nomasa.
+5. **Ningira ekwatho moruveze rwokutjita nawa.** "Mo yenene okundjivatera okutoorora oviṋa mbi?" poo "Mo yenene okundjiraera kutja omuhivirikwa uṋe mbu mau munika nawa?" Okumunika omunandengu ku ri momuano warwe tjinene nokurorwa.
+6. **Uta oveni.** Uta otjiungura mene ye nokuhina okupura. Ovandu ovengi ve rihonga mo tji otjiṋa tji matji tjitwa rukuru, nu nandarire kutja kave notji tjita, mwa kara pamwe oruveze.
+7. **Rundurukira kotjiṋa tjomurutu poo otjipore.** Okuryanga okasupi, omizumbi, okatjaerwa, okupeta ozombanda, poo okupata pamwe [okusuva okupore](/games/calm-breathing/). NIA mai tunduuza okurundurura ombango komizumbi, embo poo okuryanga.
+8. **Mu esa ma tjite momuano we.** Tji ma vanga okunyanda momuano warwe pu nomirari, kayenda nao. Alzheimer's Association mai tunduuza okukara omupore momuano mu mu tjita oviṋa.
 
-## What should I say when they get frustrated?
+## Hi sokutja tjike tji ma pindike?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Kende kouteṱi, tjita eraka roye ri rire etiti nu mu yanḓiparisa. [Omirari vya Alzheimer's Association ohunga nomapindikiro](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) mavi tunduuza okujaruka kombunda nokuningira orusa, okutjita omambo omahange nomawa, nokuyandja ondando ndja hongorerwa pokati kozondando mbari. Omambo nge ri momuano mbo:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Ndji undjira ko, otjiṋa hi matji pindikisa. Ngatu tji ese."
+- "Mo tjiti nawa. Ami mbi ri popezu na ove."
+- "U noruveze okundjivatera notjiṋa tjarwe?"
+- "Ngatu nwe po otee moruveze?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Nu mana otjiungura nokuhina okutji tjita otjinene. [Omirari vyetu vyokuhungira](/caregiving/communication-tips/) vi nozondunge zarwe ohunga na imbi mbi mo yenene okutja.
 
-## What should I avoid?
+## Hi sokuyepa tjike?
 
-Some natural reactions tend to make things worse.
+Ozondando tjiva ozongwa potuingi ze tjita kutja oviṋa vi rire ovivi.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Okuripatasana poo okuṋiṋikiza.** "Indjo, rumwe uriri rukwao" poo "Ove wa suverere otjiṋa hi" potuingi kavi vatere.
+- **Okupura omapuriro wokurora poo okuvyurura.** "Ove mo tjiwa kutja otjiṋa hi otjikwaye" poo "Kako, tji tja posa" vi weza ombata.
+- **Okutjita otjovandu.** NIA mai zemburukisa ovatarere kutja omutjise, ka omundu, ongwa u eta omarundurukiro nga.
+- **Okumupata poo okumuhakahanisa.** Alzheimer's Association mai tunduuza kutja o yere eraka roye kombanda, o raise omburuma, o mu patere, o mu ṋiṋikize, o mu tjaere, o mu nyanekere, o mu hinokuteya poo o ripatasane na ye, nu o yandjere omanyinganyingiro omatjimanga ngu ma tjitwa pu ma ha munu.
+- **Okutjita kutja me rimunu ondjo.** "Ami mbe ku ṱunina oviṋa avihe mbi" ku tjita kutja amuyevari mu kare navi.
+- **Okumuvara omambo.** "Omuṋiṋikize" poo "omuzeu" vi horeke onda yatjiri nu vi tjita kutja i rire ouzeu okuzengurura.
 
-## How can I find out what is behind repeated refusals?
+## Me yenene vi okuzuva kutja otjikwaye tji tji ri kongotwe yokunaka tjinene?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Tjanga ondjivisiro ombupu oure wotjivike poo vivari. NIA mai tja okutjevera omarundurukiro womuinyo ku vatera ovatarere novavatere vouṱiṱu okukotora omuhingo nokuzuva onda.
 
-Jot down:
+Tjanga:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- oruveze meyuva;
+- otjikwaye tji wa yandja nomuano mu we tji ningira;
+- imbi mbya ri amavi tjitwa peneṋe (ombosiro, ovayenda, oratiyo);
+- omuano ma rara, ma ri nokunwa, nu oruveze rwa katjitire mu tja hepa;
+- omiti avihe omipe poo omitjise omipe.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Omihingo potuingi vi munika tjimanga: okunaka ku ku tjitwa kombunda yoiri onḓaṱu komuhuka uriri, notjinyanda tjimwe uriri, poo tji oratiyo i ri pozombura uriri. [Ondjira ya Family Caregiver Alliance ohunga nomuinyo womutjise wokuzemba](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) mai tja nai: katu nokuyenena okurundurura omundu, posi ya matu yenene okurundurura omuinyo wetu noruveze pu tu ri.
 
-## When should I talk to a doctor about refusal or frustration?
+## Oruṋe tji me sokuhungira nonganga ohunga nokunaka poo okupindikisiwa?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Hungira nonganga tji omuinyo mau runduruka tjimanga, tjimanga tjinene, poo pamwe noviraisiro vyomitjise. NIA mai tja omarundurukiro omatjimanga poo ngu maye runduruka tjimanga momuinyo, tjinene tji omundu a ri nomutjise wombinda poo omarundurukiro omape womiti, ye sokuraerwa konganga tjimanga.
 
-Contact their doctor promptly if you notice:
+Hungira nonganga ye tjimanga tji wa munu:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- omapirukiro omatjimanga poo omarundurukiro omanene moure wozoiiri poo omayuva;
+- oviraisiro vyouhihamo, tjimuna okurinyona, okutjevera orupa rworutu, poo ouzeu oupe wokunyinga;
+- ozombura poo oviraisiro vyarwe vyomutjise wombinda;
+- omiti omipe poo mbi vya rundururwa nu kombunda yavio omuinyo wa runduruka;
+- okuhina okuyorokera oviṋa avihe, omipupo poo okuriyandja ku kwa kara oure wozombura mbari poo kombanda yanao;
+- okunaka ovikurya poo omeva.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association mai tunduuza okurorwa kuṱiṱu kuṱiṱu kouṱiṱu komundu auhe ngu noviraisiro vyomuinyo, tjinene tji vya munika tjimanga. Family Caregiver Alliance wina mai tunduuza okurora konganga rutenga, mena rokutja ouzeu womuinyo mape ya au kara nonda youṱiṱu. O uta, o esa poo o rundurura omuti auhe nokuhina okuhungira nonganga poo omuungure womiti.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Tji pe nomundu ngu ri motjiponga poo pe noviraisiro vyotjiponga tjoutjitu tjimanga, isana 112. NIA mai tunduuza okuraera omuyakure wombosiro kutja omundu u nomutjise wokuzemba.
 
-## Is it okay if we do nothing at all?
+## Ouwa tji matu ha tjiti otjiṋa?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ii. Omayuva tjiva otjiungura otjiwa tjinene okutjina otjiungura: okuhaama pamwe, okukambura momake, okupuratena koruteto ndu wa suvererwa, poo okutara ozondera pendje yorutjito. Ihi katjiṋa tjokuhihamwa. [Ondjira yetu yokunyanda pamwe](/caregiving/how-to-play-together/) mai kahurura kutja omena ratjike okuyanda rukuru, poo okuhinauta, tji tji ri ondando ombwa.

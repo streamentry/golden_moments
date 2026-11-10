@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Cura de se: reposo, supporto e signos de exhaustion"
+seoTitle: "Cura de se pro qui cura personas con dementia"
+description: "Signos de exhaustion, como trovar reposo e gruppos de supporto, e lineas gratuite in le SUA, como le linea 24/7 del Alzheimer's Association e Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Prender cura de un persona qui vive con dementia es difficile, e prender cura
+  de te mesme face parte del travalio. Presta attention a signos como
+  exhaustion, irritabilitate, mal somno e le tendentia a isolar te. Pede adjuta
+  specific, usa le cura de reposo e participa in un gruppo de supporto. Adjuta
+  gratuite in le SUA include le linea de adjuta 24/7 del Alzheimer's
+  Association al 1-800-272-3900 e Eldercare Locator al 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Le exhaustion sovente se monstra como fatiga intense, irritabilitate, mal somno, tristitia e le abandono del proprie cura de sanitate."
+  - "Le cura de reposo te da un pausa, de alcun horas usque a plure septimanas, a casa o in un centro de cura."
+  - "Pede adjuta pro travalios specific; multe personas vole adjutar ma non sape como."
+  - "Le linea de adjuta 24/7 del Alzheimer's Association (1-800-272-3900) offere supporto gratuite e confidential a omne hora."
+  - "Eldercare Locator (1-800-677-1116) te connecte con servicios local, includente tu Area Agency on Aging."
+  - "Si tu te senti in crisi, appella o invia un message a 988. In un emergentia, appella le numero local de emergentia."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Quales es le signos de exhaustion in qui prende cura?"
+    a: "Signos commun include sentir se exhauste, opprimite o anxiose; irritar se o perder patientia facilemente; haber difficultates a dormir; sentir se triste o sin sperantia; isolar se de amicos; haber frequentemente mal de capite o dolor; e saltar tu proprie repastos, exercitio o cura medical. Si signos como istes occurre regularmente, parla con tu medico."
+  - q: "Como pote io trovar cura de reposo presso me?"
+    a: "Comencia con Eldercare Locator (1-800-677-1116 o eldercare.acl.gov) pro contactar tu Area Agency on Aging local, le ARCH National Respite Locator Service, o le linea de adjuta del Alzheimer's Association al 1-800-272-3900. Familia, amicos e voluntarios pote anque offerer cura de reposo."
+  - q: "Medicare paga pro cura de reposo?"
+    a: "Pro un persona qui recipe cura hospice, Medicare coperi le major parte del costo de usque a cinque dies consecutive de cura de reposo in un hospital o un installation de cura infirmierie qualificate, secundo le National Institute on Aging. Le major parte del assecurantia private de sanitate non coperi le cura de reposo; Medicaid e alcun planos de assecurantia de cura a longe termino pote adjutar."
+  - q: "Es le linea de adjuta del Alzheimer's Association vermente gratuite e disponibile durante le nocte?"
+    a: "Si. Le Alzheimer's Association dice que su linea de adjuta al 1-800-272-3900 es gratuite, confidential e disponibile a omne hora, 365 dies per anno, con adjuta in multe linguas. Composa 711 pro un servicio de retransmission."
+  - q: "Es egoista prender un pausa del cura?"
+    a: "No. Le reposo te adjuta a continuar a prender cura, e le cura de reposo pote anque dar al persona de qui tu prende cura un cambio de compania e de activitates. Multe personas qui prende cura dice plus tarde que illes haberea desirate peter adjuta plus tosto."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Si tu prende cura de un persona qui vive con dementia, probabilemente tu lege isto tarde, fatigate, e con un lista de cosas que tu non ha facite. Isto es normal. Prender cura de te mesme non es un luxo ni un premio pro haber finite toto. Illo es lo que te permitte continuar.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Iste pagina tracta le signos de alerta del exhaustion, como obtener un ver pausa, ubi trovar supporto, e lineas de adjuta gratuite in le SUA que tu pote appellar hodie.
 
-## What are the signs of caregiver burnout?
+## Quales es le signos de exhaustion in qui prende cura?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Le exhaustion sovente arriva lentemente, dunque il es utile recognoscer tu proprie signos de alerta. Le [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lista signos de stress in qui prende cura, includente:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- sentir se exhauste, opprimite o anxiose;
+- irritar se o perder patientia facilemente;
+- sentir se sol o distantiate de alteres;
+- haber difficultates a dormir, o non dormir bastante;
+- sentir se triste o sin sperantia, o perder interesse in cosas que tu soleva gauder;
+- haber frequentemente mal de capite, dolor o altere problemas physic;
+- non haber tempore pro facer exercitio o preparar mangiar san pro te mesme;
+- saltar le ducha o altere cura personal;
+- usar mal alcohol o drogas, includente medicamentos prescribite.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+Le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) mentiona anque signos como le negation del maladia, colera verso le persona ("ille es simplemente obstinate"), anxietate super le futuro, difficultate a concentrar se, e problemas de sanitate que pesa sur te. Illo consilia parlar con tu medico si tu ha signos como istes regularmente.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Le consilio del NIA es non attender usque tu te senti completemente opprimite. Recognosce tu signos tosto e age.
 
-## What can I do today, in five minutes?
+## Que pote io facer hodie, in cinque minutas?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Le parve pausas conta. Nulle de istes cosas resolve le exhaustion, ma illos pote adjutar te a passar un postmeridie difficile.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Sorti foras.** Sede sur le veranda o cammina usque al cassa postal durante que le persona es secur e tranquille.
+- **Respira lentemente.** Alcun respirationes lente ante responder a un question difficile. Tu pote anque compartir un pausa de [Calm Breathing](/games/calm-breathing/) con le persona de qui tu prende cura.
+- **Bibe un poco de aqua e mangia qualcosa.** Il es facile oblidar tu proprie repastos.
+- **Invia un message a un amico.** Non pro peter qualcosa, simplemente pro mantener le contacto.
+- **Dice qualcosa gentil a te mesme.** Le [guida del NIA pro prender cura de te mesme](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggere phrases como "Io face le melior que io pote", "Io non es perfecte, e isto es acceptabile", e "Io gaudera del momentos quando nos pote esser insimul in pace".
 
-## What is respite care, and how do I get it?
+## Que es le cura de reposo, e como pote io obtener lo?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Le cura de reposo es cura a curte termino pro le persona de qui tu prende cura, assi que tu pote reposar. Le [pagina del NIA sur le cura de reposo](https://www.nia.nih.gov/health/caregiving/what-respite-care) explica que illo pote durar de alcun horas usque a plure septimanas e pote haber loco a casa, in un installation de cura de sanitate o in un centro de die pro adultos.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+Le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describe typos commun:
 
-| Type | What it is |
+| Typo | Que es |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Adjuta a casa | Un amico, familiar, voluntario o un accompaniante o assistente pagate veni al casa |
+| Centro de die pro adultos | Activitates planate como musica e arte in un ambiente de gruppo secur; sovente se offere transporto e repastos |
+| Nocte o sejorno curte | Un communitate de cura a longe termino prende cura del persona durante un nocte, alcun dies o alcun septimanas |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Qui paga?** Secundo le NIA, le cura de reposo offerite per familia, amicos o voluntarios pote costar nihil. Le servicios professional cobra per hora o per die. Pro un persona qui recipe cura hospice, Medicare coperi le major parte del costo de usque a cinque dies consecutive de cura de reposo in un hospital o un installation de cura infirmierie qualificate. Medicaid pote adjutar. Le major parte del assecurantia private de sanitate non coperi le cura de reposo, ben que alcun planos de assecurantia de cura a longe termino lo face.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Consilio:** Le Alzheimer's Association suggere provar prestatores de cura de reposo in un situation non urgente, assi que illes es preste si tu subitemente besonia adjuta.
 
-## Where can I find help near me?
+## Ubi pote io trovar adjuta presso me?
 
-Several free US services can point you to local help.
+Plure servicios gratuite in le SUA pote indicar te adjuta local.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Linea de adjuta 24/7 del Alzheimer's Association: 1-800-272-3900.** Le [linea de adjuta](https://www.alz.org/help-support/resources/helpline) es gratuite e confidential, disponibile a omne hora, omne die del anno, con adjuta in plus de 200 linguas per personal bilingue o interpretes. Composa 711 pro un servicio de retransmission. Tu pote parlar de cambios in le comportamento, stress del cura, optiones de reposo, programmas local e plus, e peter un conversation plus longe con un consultante de cura. Le personal non da consilios medical.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), un servicio public del Administration for Community Living, te connecte con servicios pro adultos plus vetule e lor familias. Tu pote appellar, inviar un message de texto, chatter in linea o inviar un e-mail a personal formate, o cercar per localitate. Illo pote indicar te tu Area Agency on Aging local.
+- **ARCH National Respite Locator Service.** Le [localisator de reposo de ARCH](https://archrespite.org/caregiver-resources/respitelocator/) te adjuta a trovar prestatores de cura de reposo per stato, e suggere contactar primo tu State Respite Coalition o Lifespan Respite program si tu stato ha un. ARCH nota que illo non verifica le prestatores, dunque tu debe examinar lor experientia e antecedentes tu mesme.
 
-## How do I find a support group?
+## Como pote io trovar un gruppo de supporto?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Demanda al linea de adjuta o cerca in linea gruppos presso te. Le Alzheimer's Association [organisa gruppos de supporto](https://www.alz.org/help-support/community/support-groups) pro personas qui prende cura e personas qui vive con dementia, in persona e in linea, guidate per facilitatores formate. Multe locos offere anque gruppos specialisate, per exemplo pro personas adulte qui prende cura o pro personas qui vive con Alzheimer de initio precoce o in stadio initial. Illo alberga anque ALZConnected, un communitate gratuite in linea ubi personas qui prende cura comparte consilios.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Le gruppos de supporto pote esser un spatio pro exprimer te sin judicio, apprender consilios practic de personas qui ha vivite situationes similar, e sentir te minus sol. Si le prime gruppo non te conveni, proba un altere.
 
-## How do I ask family and friends for help?
+## Como pote io peter adjuta a familia e amicos?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Sia specific. Multe personas vole adjutar ma non sape que offerer. Le NIA suggere:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Tene un lista** de travalios que alteres poterea facer, e lassa les eliger.
+- **Comencia con qualcosa parve** si peter adjuta te sembla difficile.
+- **Adapta le travalio al persona.** Le cosino que ama cocer porta le cena le jovede. Le vicina que es habile con formularios adjuta con le papiros.
+- **Invia un message de texto o un e-mail** si peter lo facie a facie es incomfortable.
+- **Prepara un responsa** pro quando alcuno offere adjuta: "Gratias pro peter. Ecce lo que tu pote facer."
+- **Expecta alcun refusas** e tenta non prender los personalmente.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Altere ideas: demanda a alcuno de restar con le persona durante un postmeridie per septimana, portar le a facer un curte excursion, o visitar e jocar insimul. Nostre [guida pro jocar insimul](/caregiving/how-to-play-together/) es facile a compartir con visitantes.
 
-## What if something happened to me?
+## E si qualcosa me evenirea?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Face ora un plan simple de reserva. Le NIA suggere decider con familia o amicos proche qui prenderea le relevo, e tener un quaderno con numeros de emergentia, medicamentos, consilios sur le comportamento que functiona, e activitates favorite. Le Alzheimer's Association recommenda anque tener facilemente accessibile le contactos medical del persona e un lista actualisate de medicamentos.
 
-## When should I get professional or urgent help?
+## Quando debe io cercar adjuta professional o urgente?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Parla con tu medico si le signos de stress es regular, si tu te senti deprimite, o si tu ha difficultate a affrontar le situation. Dice a tu medico que tu prende cura de alcuno. Le NIA nota que consilieros e assistentes social pote adjutar con sentimentos difficile e con le planification, e que Medicare, Medicaid e alcun assecurantia private pote coperir alcun costos de sanitate mental.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Si tu te senti in crisi o ha pensatas de facer mal a te mesme, appella o invia un message a 988 pro contactar le [988 Suicide & Crisis Lifeline](https://988lifeline.org/), gratuite e disponibile 24/7. Si alcuno es in periculo immediate, appella le numero local de emergentia.
 
-## Can shared activities give me a break too?
+## Pote le activitates compartite dar me anque un pausa?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+A vices, si. Un activitate calme que vos ambe gaude pote esser un parte plus dulce del die tanto pro te como pro le persona de qui tu prende cura: ascoltar vetule cantos, reguardar photos, o un joco como [Conversation Cards](/games/conversation-cards/) que non besonia responsas correcte. Si le persona gaude del compania, un session de gruppo con [Picture Bingo](/games/picture-bingo/) in un centro pro adultos vetule o in un programma de die pote dar te un hora de reposo. Vide [activitates pro gruppos in residentias de cura](/activities/care-home-groups/) pro ideas.

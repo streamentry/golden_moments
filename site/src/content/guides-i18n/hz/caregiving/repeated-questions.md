@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Tji omundu nouvera wokuzemba ma pura epuriro rukwao"
+seoTitle: "Omapuriro ngu maye hingwa: Okutja vi nokutjita vi"
+description: "Omena raye omundu nouvera wokuzemba tji ma pura epuriro rimwe rukwao, omiano vyomahore okuzira, oviṋa mbi mavi vatere, na indu tji ma sokuvanga omunganga."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Omapuriro ngu maye hingwa omingi mouvera wokuzemba: potuingi omundu ke
+  zemburuka kutja wa pura rukuru, nu epuriro potuingi ri nomerikendero. Zira
+  momahore nokusupi otja tji ri otjikando otjitenga, zira komerimwino ngu ri
+  kongotwe yaro, nu o tja “wa pura rukuru.” Tjanga eziriro pu ri munika, hungira
+  noviṋa mbi mavi tjitwa oure woruveze orusupi uriri ngunda avi hiya tjitwa, nu
+  mu ningire otjiṋa otjiyolise. Omazengurukiro nge ya tjimanga ye hepa
+  omunganga.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Potuingi omundu ke zemburuka kutja wa pura; katji tjitwa momanangero."
+  - "Epuriro potuingi ri horeka omuzandu, tjimuna omerikendero ohunga notjiṋa tji matji ya poo okuvanga okurihonga kutja u ri mondjeverero."
+  - "Zira momahore, okusupi nokunawa, otja tji ri otjikando otjitenga. O tja “wa pura rukuru.”"
+  - "Okatjangwa, otjipirangi otjitjapa, ohauto yoruveze poo okalendaro pu ri munika mavi yenene okuzira epuriro."
+  - "Hungira noviṋa mbi mavi kendisa omutima oure woruveze orusupi uriri ngunda avi hiya tjitwa."
+  - "Risuva oure woruveze orusupi tji wa hepa, nu isana omunganga ohunga nomazengurukiro ngamwa aehe nge ya tjimanga."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Omena raye tate ngu ri nouvera wokuzemba tji ma kayenda komurungu okupura epuriro rimwe?"
+    a: "Ouvera wokuzemba u ṱuna kozondjiviro zoruveze orusupi, ku nao eye ma yenene okukara tje hi nokuzemburuka kutja wa pura poo wa zuu eziriro. Potuingi epuriro wina ri nomuzandu, tjimuna omerikendero ohunga na imbi mbi mavi ya poo okuhepa okumuna ombatero yomutima. Okuzira komuzandu ngo potuingi ku vatera okukapita okuraisira ouatjiri rukwao."
+  - q: "Hi sokumu raera kutja wa pura rukuru?"
+    a: "Indee. Katji nokumu vatera okuzemburuka, nu tji yenena okumuvivisa otja tji ma verwa. Ozongetjefa zouvera wokuzemba ze tunduuza okuzira momahore otjikando atjihe, otja tji ri otjikando otjitenga, nokukara neziriro esupi."
+  - q: "Okutjanga eziriro pehi maku vatere?"
+    a: "Maku yenene, ngunda omundu tji ma yenene okuresa. Okatjangwa, otjipirangi otjitjapa nomuhunga weyuva ndi, ohauto onene yoruveze poo okalendaro pu ma tara potuingi mavi mu yandjere okuritara eziriro omuini. Mu raisira ko momahore, pendje nokutja “ambe ku raere.”"
+  - q: "Ruṋe tji me sokuhungira ohunga nomeriyandjerero poo omauyenda?"
+    a: "Tji pe ri popezu noruveze. Okutja ohunga nomeriyandjerero komunganga poo ouyenda omayuva komurungu maku yenene okutjita kutja pe kare nomapuriro omengi nomerikendero oure wozoure ozengi. Mu raera oure woruveze orusupi ngunda avi hiya tjitwa, momahore, na imbi mbi mavi kongorere ko."
+  - q: "Ruṋe omapurisiro ngu maye hingwa tji maye rire etompero rokusana omunganga?"
+    a: "Omapuriro, ongaro yokuvanda poo omitjise tji vya runduruka tjimanga poo tji vya rire oviyaukise tjinene moure wozoure poo omayuva, sana omunganga we tjimanga. Omutjise, omiti omipe, omihihamo, ombindo ongukutu poo okuhinomeva mbi yenene okuretako ozondunge nḓe vandekua tjimanga, i isanewa delirium, nu ze hepa okutjeverwa tjimanga. Isana 112 poo 10111 tji pe nomundu ngu ri moumba."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +59,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“Omunganga u nondando ruṋe?” Kombunda yozominute omurongo: “Omunganga u nondando ruṋe?” Okuzuva epuriro rimwe rukwao na rukwao otjiṋa tjimwe tji tji urisa tjinene mokutjevera omundu ngu ri nouvera wokuzemba. Otjiṋa hi tji tjitwa potuingi, katji tjitwa momanangero, nu pe nomiano vyomahore okuzira mbi mavi tjiti eyuva ri rire epupu kweṋe aveyevari.
 
-## Why does someone with dementia ask the same question over and over?
+## Omena raye omundu nouvera wokuzemba tji ma pura epuriro rimwe rukwao na rukwao?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Potuingi mena rozondjiviro. Ouvera wokuzemba u ṱuna kozondjiviro zoruveze orusupi, ku nao omundu potuingi ke zemburuka kutja wa pura, poo ke zemburuka eziriro. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) i kahurura okupura omapuriro povikando ovingi otjotjiṋa tji tji tjitwa potuingi nu tji tji undjirirwa.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Potuingi epuriro wina ri nomuzandu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) i kahurura kutja epuriro ndi ri hingwa mari yenene okuraisa omerikendero, ombango yombatero, poo omaumba nokuhina ombepo ohore, nu kutja omundu potuingi u paha omahuhumiṋino noviṋa mbya tjiukwa. “Matu i ruṋe?” mape ya ai hee kutja “Me rikendere okuyenda.” Okunyanda, outirise, ombosiro nomarundurukiro motuveze tweyuva avihe mavi yenene okutjita nao, nu epuriro ndi ri hingwa mari yenene wina okuraisa otjihepwa, tjimuna okuyenda kondjuwo yomeva ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Hi sokutja vi?
 
-Answer calmly and briefly, as if it were the first time.
+Zira momahore nokusupi, otja tji ri otjikando otjitenga.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Kara neziriro esupi nu rimwe.** “Omunganga u nondando pozombairo mbari. Me kara puna ove.” Eziriro ndi ri kara nonḓengu imwe ri pupu okutambura.
+- **Zira komuzandu.** “Mo ripura nomunganga. Oruveze ndwi omutenya, nu ami me tu hingi. Kape notjiṋa tji mo sokutjita.”
+- **Ungurisa eraka oriyazuva nokutuna momahore,** tji ve nonyuṋe mokutunwa. Alzheimer's Association i tunduuza okukara momahore nokuhina okuungurisa ombatasaneno poo okupatasana.
+- **Yandja eziriro ndi mave paha,** otja pu ma heperwa po. Alzheimer's Association i tja ri zira povikando avihe pu mave pura.
 
-## What should I avoid?
+## Hi sokuyepa tjike?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“Wa ndji pura rukuru.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i tunduuza kutja o sokuraisa kutja va pura nai. Katji nokuvatera okuzemburuka, nu tji yenena okumuvivisa otja tji ma verwa.
+- **Omahungiriro omare.** Omambo omengi ye yandja ovingi mbi mavi zembwa.
+- **Okusuva ombepo, okutara nombinḓu poo eraka ekukutu.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i tunduuza omb patience nokuhina okuraisa ombango. Otjiṋa hi otjikukutu; tara korupa ndwi rwomaisuvasuvo kehi mba.
 
-## Simple tools that answer the question for you
+## Oviṋa ovipupu mbi mavi ziri epuriro ponḓengu yoye
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Ngunda omundu tji ma yenene okuresa, eziriro nda tjangwa ndi ri munika potuingi ri vatera tjinene okukapita indi nda hungirwa.
 
-| Tool | How to use it |
+| Otjiṋa | Omuano wokutjiungurisa |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Okatjangwa nozoharro ozonene | “Omunganga ndino pozombairo mbari 2. Mary me hingi.” Twa po pu ma tara potuingi |
+| Otjipirangi otjitjapa | Omuhunga weyuva ndi momize vitatu poo vine; zemisa nu tjanga rukwao omuhuka auhe |
+| Ohauto onene yoruveze neyuva nondatumero | I vatera ku “Ndino eyuva riṋe?” na “Ruṋe tji pa tumbu?” |
+| Okalendaro | Tona eyuva arihe; zengurura omeryandjerero ndu mape ya |
+| Ovipikiture mbya tjiukwa | Otjipikiture tjomundu ngu me ya matji yenene okuzira ku “Ouṋe ngu me ya?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Omazeva nga ye za ku [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) na [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Raisira kokatjangwa momahore (“Ngatu tare kotjipirangi pamwe”) pendje nokutja “ambe tji tjanga kove.”
 
-## Tell them about events close to the time
+## Mu raera ohunga noviṋa tji pe ri popezu noruveze
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Okutja ohunga nomeriyandjerero poo ouyenda omayuva komurungu maku yenene okutjita kutja pe kare nomapuriro omengi nomerikendero oure wozoure ozengi. Family Caregiver Alliance na Alzheimer's Los Angeles aveyevari ve tunduuza okuhungira ohunga nomiano, tjinene imbi mbi kendisa omutima tjimuna omayendere komunganga poo okurikohorora, oure woruveze orusupi uriri ngunda avi hiya tjitwa. Okuzambo tja imbi mbi mavi kongorere ko, otjikando tjimwe poruveze.
 
-## Activities that can shift attention
+## Oviungura mbi mavi yenene okupukisa ombango
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Tji wa zu nokuzira nokuzira komuzandu, otjiungura otjipore otjiyolise matji yenene okuvatera, tjinene okunyanda tji tji ri kongotwe yomapuriro. Omikambo avihe vyokombanda mbi vi tunduuza okupukisira ku imbi omundu mbye vanga.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Otjinyanda otjisupi otjipupu pamwe.** [Picture pairs](/games/picture-pairs/) tji kara novipikiture pu vi munika, ku nao kape notjiṋa tji tji sokuzemburukwa.
+2. **Otjiungura tji tja tjiukwa.** Okupeta omatowel, okuyandja ozosokisi poo okutuna orutara. [Sort together](/games/sort-together/) otjombosiro yotjiṋa ho mokombiuta.
+3. **Hungira ohunga notjiṋa tje tji suvera.** [Conversation cards](/games/conversation-cards/) ze yandja omapuriro omazeu nomaziriro nge hina ondjambi imwe uriri.
+4. **Ovizemburuka, okuyenda kokure okasupi poo okurya okatiti.** National Institute on Aging i vi tja mokati komiano omipupu vyokupukisira.
+5. **Okusuva okapaze.** Kara pamwe, tara pendje porutjivelo, poo rorera [okusuva omuinyo momahore](/games/calm-breathing/) pamwe.
 
-If they return to the question, answer it again, kindly. That is fine.
+Tji va kotoka kepuriro, ri zira rukwao, momahore. Ouwa nao.
 
-## Look for patterns
+## Tara komihunga
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association i tunduuza okutara kutja omapuriro ye ya poruveze rumwe rweyuva, pu novandu ovandu poo momatuwo wovilongo. Tji ye uta aruhe ngunda ovayenda ave hiye ere, poo omutenya omape, mo yenene okurongerisa komurungu: okatjangwa ohunga nomayendere, otjiungura tji tja tjiukwa tji tja rongerisirwa, orutjivelo ndu hina ombosiro. Omuhunga wetu ohunga [noviungura oviwore komutenya omape](/caregiving/late-day-restlessness/) mau yenene okuvatera tji ongurova tji ze ri ozonḓeu tjinene.
 
-## Take care of yourself
+## Ritjevera oveni
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Okuzira epuriro rimwe povikando omirongo vivari ku urisa. Tji wa munu kutja omb patience yoye mai yanda nu omundu u ri mondjeverero, pita morutjivelo rwarwe oure wozominute ozonḓiṱi nu suva omuinyo, otja [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) tji ya tunduuza. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) i tunduuza ovatjevere okukumbira ombatero nokuripura nomaisuvasuvo wokusuva. Omazeva warwe ye ri momuhunga wetu [wokuritjevera kovarjevere](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Ruṋe tji me sokuisana omunganga?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Isana omunganga we tjimanga omapuriro, ongaro yokuvanda poo omitjise tji vya runduruka tjimanga poo tji vya rire oviyaukise tjinene moure wozoure poo omayuva. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i tja omitjise mbi vya runduruka tjimanga poo mbi mavi runduruka hakahana, tjinene kombunda yomutjise poo omarundurukiro womiti, vi sokuraerwa komunganga tjimanga. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) i kahurura kutja omutjise, omiti, okuhinomeva, omihihamo poo ombindo ongukutu mavi yenene okuretako delirium, ozondunge nḓe vandekua tjimanga nu ozonḓeu, nḓe hepa omapangero tjimanga. Isana 112 poo 10111 tji pe nomundu ngu ri moumba.

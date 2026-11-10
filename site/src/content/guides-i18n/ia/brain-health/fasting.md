@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Jejuno intermittente e dementia: Que dice le recerca"
+seoTitle: "Jejuno intermittente e dementia: Que dice le recerca"
+description: "Le evidentia human sur le jejuno intermittente e le dementia es limitate e preliminar. Cognosce le riscos pro adultos plus vetere e proque mangiar satis importa plus con dementia."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Il non ha bon evidentia que le jejuno intermittente preveni o relentia le
+  dementia. Multo del recerca es in animales, e le studios human in adultos
+  plus vetere es parve e curte. Le jejuno pote esser riscose pro adultos plus
+  vetere: perdita de peso e de musculos, basso nivello de glucosa in le sanguine
+  con alcun medicamentos pro le diabete, dehydration e caditas. Pro personas
+  qui vive con dementia, mangiar e biber satis es usualmente le preoccupation
+  plus importante. Parla con un medico primo.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Le National Institute on Aging dice que il non ha satis de evidentia pro recommendar alcun dieta de jejuno o de restriction de calorias, specialmente pro adultos plus vetere."
+  - "Multo del recerca sur le jejuno e le vetulessa veni de animales, e iste resultatos non se applica necessariemente a personas."
+  - "Possibile riscos pro adultos plus vetere include perdita involuntari de peso, perdita de musculos, basso nivello de glucosa in le sanguine con alcun medicamentos pro le diabete, dehydration, vertigine e caditas."
+  - "Personas qui vive con dementia sovente oblida de mangiar o biber, o pensa que illes jam lo ha facite. Adjutar les a mangiar e biber satis importa usualmente multo plus que quando illes mangia."
+  - "Non usa le jejuno pro un persona qui vive con dementia. Parla con un medico o un dietista registrate ante qualcunque cambio in le habitos de mangiar."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Esque le jejuno intermittente preveni le maladia de Alzheimer?"
+    a: "Il non ha bon evidentia que illo lo face. Multo del recerca ha essite facite in animales, e le essays human ha essite in general curte, in adultos plus juvenes o con superpeso, e concentrate sur le perdita de peso. Le National Institute on Aging dice que il non ha satis de evidentia pro recommendar dietas de jejuno al publico."
+  - q: "Esque le jejuno intermittente es secur pro adultos plus vetere?"
+    a: "Illo pote non esser lo. Le jejuno pote ducer a perdita involuntari de peso e de musculos, dehydration, vertigine e caditas, e pote causar un nivello periculosemente basse de glucosa in le sanguine in personas qui prende insulina o alcun altere medicamentos pro le diabete. Mayo Clinic nota que illo pote non convenir a personas con un alte risco de perdita ossee e caditas. Parla con un medico ante tentar lo."
+  - q: "Deberea un persona con dementia tentar le jejuno?"
+    a: "No. Personas qui vive con dementia sovente ha difficultate a mangiar e biber satis, e un nutrition inadequate pote augmentar le symptomas comportamental e causar perdita de peso. Le jejuno adde risco sin beneficio probate. Concentra te in vice sur repastos regular, snacks que le persona apprecia e satis a biber."
+  - q: "Quales es signos que un persona con dementia non mangia o non bibe satis?"
+    a: "Presta attention a perdita de peso, vestimentos que deveni plus large, fatiga, debilitate, constipation, o refusal de mangiar. Signos de dehydration listate per le National Institute on Aging include bucca sic, vertigine, un ritmo cardiac rapide e hallucinationes. Informa lor medico si tu nota istos signos."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,150 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Le jejuno intermittente, como mangiar solmente durante un fenestra de octo
+horas o reducer fortemente le calorias duo dies per septimana, recipe multe
+attention, e alcun articulos suggere que illo pote proteger le cerebro. Si tu
+es un adulto plus vetere, o si tu prende cura de un persona qui vive con
+dementia, ecce lo que le recerca realmente monstra, e proque le prudentia
+importa.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Isto es information general, non consilio medical. Non comencia le jejuno, ni
+cambia le maniera de mangiar del persona de qui tu prende cura, sin parlar con
+un medico o un dietista registrate. Vide nostre [disclamation
+medical](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Esque le jejuno intermittente preveni le dementia?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Il non ha bon evidentia que le jejuno intermittente preveni o relentia le
+dementia. Le National Institute on Aging (NIA) dice que il non ha satis de
+evidentia pro recommendar alcun typo de dieta de restriction de calorias o de
+jejuno, e que il es necessari apprender multo plus sur lor efficacia e
+securitate, specialmente in adultos plus vetere ([NIA sur restriction de
+calorias e jejuno](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Proque le evidentia es tanto limitate
 
-The NIA gives several reasons:
+Le NIA da plure rationes:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Le major parte del studios es in animales.** Le recerca in vermes, muscas,
+  muses e simias ha producite resultatos interessante, ma iste constatationes
+  non se applica necessariemente a personas. Mesmo in animales, le resultatos
+  es mixte; in alcun stirpes de muses, le restriction de calorias abbreviava le
+  vita.
+- **Le essays human ha essite curte.** Le major parte durava alcun septimanas o
+  menses.
+- **Le major parte del essays human se concentrava sur le perdita de peso** in
+  adultos con superpeso, non sur le memoria o le dementia.
+- **Adultos plus vetere es rarmente includite.** Multe essays recrutava personas
+  de 60 annos o minus.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Un revision systematic de 2026 examinava specificamente le jejuno intermittente
+in adultos de 60 annos o plus. Illo trovava que le evidentia in iste gruppo de
+etate resta limitate, con studios parve, observation curte e designos mixte. Le
+constatationes sur le pensar e le memoria veniva de studios individual e non de
+resultatos combinate de plure essays. Le revision notava etiam que alcun
+studios ligava fenestras de mangiar multo curte o jejunos longe con pejor
+resultatos, e le autores urgeva prudentia pro adultos plus vetere ([revision de
+2026 in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Alcun recercatores pensa que le passage del corpore a arder grassia durante un
+jejuno pote influentiar le cerebro, ma isto es ancora un theoria in studio. Le
+NIA nota que le scientia es incerte.
 
-## What are the risks of fasting for older adults?
+## Quales es le riscos del jejuno pro adultos plus vetere?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Le jejuno non es un experimento sin periculo pro multe personas plus vetere.
+Possibile riscos include:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Perdita involuntari de peso.** Mangiar minus que le corpore besonia pote
+  ducer a perdita de peso e minus fortia muscular, lo que pote lassar un persona
+  plus fragile.
+- **Perdita de musculos e de osso.** In un essay de duo annos supportate per le
+  NIA sur le restriction de calorias in adultos juvenes e de medie etate, le
+  participantes habeva legier declinos in le densitate ossee e in le massa
+  corporal magre.
+- **Basso nivello de glucosa in le sanguine con medicamentos pro le diabete.**
+  Personas qui prende insulina o alcun altere medicamentos pro le diabete pote
+  haber un nivello de glucosa troppo basse si illes salta o retarda repastos,
+  secundo le [National Institute of Diabetes and Digestive and Kidney
+  Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
+  Un nivello basse de glucosa pote causar vertigine, confusion e irritabilitate.
+- **Dehydration.** Si le bibitas es saltate insimul con le repastos, un persona
+  pote devenir dehydrate.
+- **Vertigine e caditas.** Mayo Clinic nota que le jejuno intermittente pote
+  facer sentir le personas multo fatigate e vertiginose, e que illo pote non
+  esser un habito san pro personas con un alte risco de perdita ossee e caditas
+  ([Mayo Clinic sur le jejuno
+  intermittente](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Altere effectos.** Mayo Clinic lista etiam mal de capite, cambios de humor e
+  constipation, e nota alcun evidentia que un jejuno de 16 horas con un fenestra
+  de mangiar de 8 horas pote augmentar le risco de maladia cardiac in
+  comparation con altere fenestras de mangiar. Iste evidentia non es ancora
+  clar.
 
-## Why is eating enough the bigger concern with dementia?
+## Proque mangiar satis es le preoccupation plus importante con dementia?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Pro personas qui vive con dementia, le problema usual es obtener **satis** de
+mangiar e biber, non troppo. Le Alzheimer's Association explica que personas in
+le phases medie e tardive pote sentir se supercargate per le selectiones de
+mangiar, oblida de mangiar, o pensar que illes jam ha mangiate. Illo adde que
+un nutrition inadequate pote augmentar le symptomas comportamental e causar
+perdita de peso ([Alzheimer's Association sur mangiar e
+biber](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Le Alzheimer's Society nota que non mangiar satis pote ducer a perdita de peso,
+minus fortia muscular, fatiga e debilitate, lassante un persona plus fragile e
+minus capace de recuperar se post infectiones ([Alzheimer's Society sur le
+appetito](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Pro iste rationes, le jejuno non es un bon idea pro un persona qui vive con
+dementia.** Repastos saltate pote facilemente devenir repastos perdite.
+Qualcunque cambio in le maniera de mangiar de un persona con dementia debe esser
+guidate per su medico o un dietista registrate.
 
-## What are the warning signs of poor eating or drinking?
+## Quales es le signos de advertimento de mangiar o biber insufficiente?
 
-Watch for:
+Presta attention a:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Perdita de peso**, o vestimentos que sede plus large.
+- **Lassar mangiar o refusar repastos**, o tener mangiar in le bucca.
+- **Fatiga o debilitate.**
+- **Constipation**, que pote esser ligate con le dieta e le dehydration.
+- **Signos de dehydration.** Le NIA lista bucca sic, vertigine, un ritmo
+  cardiac rapide e hallucinationes, que pote etiam esser causate per le
+  dementia mesme ([NIA sur problemas medical
+  commun](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Un appetito povre pote haber multe causas possibile: dentes dolorose o
+dentaturas non firme, nove medicamentos, depression, constipation, minus
+activitate, o cambios in le gusto e le olfacto. Informa le medico del persona
+sur qualcunque de iste signos. Le medico pote cercar un causa e pote suggerer
+un dietista o supplementos.
 
-## How can you help someone eat and drink enough?
+## Como pote tu adjutar un persona a mangiar e biber satis?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Offere parve repastos e snacks sovente**, in loco de tres grande repastos.
+- **Serve le mangiares favorite**, e sia flexible quando le gustos cambia.
+  Mangiares dulce pote esser benvenite si le appetito es basse; demanda al
+  medico si il ha rationes de salute pro limitar le sucro.
+- **Mantene bibitas al portata del mano** e offere parve tasses durante le die.
+  Suppas, fructos, smoothies e batitos de lacte conta etiam.
+- **Mangia insimul** quando tu pote. Le repastos es un opportunitate de
+  compagnia, non un carga a hastar.
+- **Prova mangiar con le manos**, como sandwiches, fettas de fructo o pecias de
+  pollo, si le uso de utensilios ha devenite difficile.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Nostre [guida sur le dieta](/brain-health/diet/) ha plus ideas pro le repastos.
+Preparar mangiar insimul pote etiam esser un activitate agradabile a divider;
+vide [tareas domestic](/activities/household-tasks/).
 
-## Talk with a doctor
+## Parla con un medico
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Ante tentar qualcunque plano de jejuno tu mesme, parla con tu medico o un
+dietista registrate, specialmente si tu prende medicamentos pro le diabete o le
+pression sanguinee, si tu ha perdite peso recentemente, o si tu ha habite
+caditas. Pro un persona qui vive con dementia, demanda a su medico quanto illa
+deberea mangiar e biber cata die, in loco de parlar sur le jejuno.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Cerca adjuta medical urgente pro confusion subite, desmaio, o signos de un
+nivello multo basse de glucosa in le sanguine que non meliora rapidemente.

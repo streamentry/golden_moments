@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Activitás in gruppe por dementia: Guide por hem e programes"
+seoTitle: "Activitás in gruppe por dementia: Bingo, canzones, racontas"
+description: "Activitás in gruppe por hem de cura e programes diari: bingo de images, canzones e racontas, con consilies por sedes e grandore del gruppe."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Bon activitás in gruppe in hem de cura memorie e programes diari es curt,
+  familiar e facil a junter se a quelcunc nivelle: bingo de images, cantar
+  ensemble, circules de racontas, simplic movement e ludes de paroles. Mantene
+  gruppes micri si possibil, sede persones por que omnes posse vider e audir,
+  da un clar passo a un vez, e prepara un rol plu facil e un tranquil surtida
+  por ti qui besona it.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Micri gruppes sovente functiona plu bon quam un grand eveniment, e ili lassa plu persones prender un activ part in vice de solmen regardar."
+  - "Sede persones in un circul o fer-de-cavall, proxim al ductor, con besones de audition e vision in mente e sin son de funde."
+  - "Plan chascun activitá a du o tri nivelles por que persones con diferent capacitás posse junter se."
+  - "Evita questiones, punctuation e ganatores. Bingo de images posse esser ludet til que omnes have un plen carte."
+  - "It es bon ear plu tost, regardar o dormitar. Have un membre del equipe pret a apoyar alqui qui desira un plu tranquil spacie."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Quel es un bon grandore de gruppe por activitás de dementia?"
+    a: "Ne existe un sol rect numero, e it depende del residentes, del chambre e de quant membres del equipe vu have. Mult equipes trova que micri gruppes lassa omnes vider, audir e prender part, durant que evenimentes in grand chambres lassa plu persones regardar. Si vu fa un grand eveniment, adjunte membres del equipe o voluntarios qui posse seder inter residentes e auxiliar un o du persones chascun."
+  - q: "Qualmen conduir un gruppe con mixtet capacitás?"
+    a: "Plan plu quam un maniere a junter se a chascun activitá. Durant cantar ensemble, quelc persones canta chascun parol, quelc applaude o murmura, e quelc tene un sonette. In bingo de images, quelc persones trova lor propri images, durant que un auxiliator monstra por altres. Sede persones qui besona plu auxilie apu un membre del equipe o voluntario."
+  - q: "Qualmen luder bingo de images sin far it competitiv?"
+    a: "Anuncia chascun image til que li carte de omnes es plen, por que nequi es lassat extra. Parla pri chascun image quande it apare, e omisse prises por ganatores o da li sam micri cose a omnes. Li scope es comun atention e conversation, ne qui fini unesim."
+  - q: "Posse yo usar vor ludes sur un grand ecran in un gruppe?"
+    a: "Yes. Nor ludes functiona in un navigator web, do vu posse aperter les sur un portabile o tablette conectet a un TV o projector. Picture Bingo include printabil cartes e un anunciante sur ecran. Finish the Saying e Picture Pairs anc functiona bon sur un grand ecran con un person qui tippa por li gruppe."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ti guide es por directores de activitás, equipes de cura memorie e ductores de programes diari por adultes. It tracta formates de gruppe quel functiona, arangeament del chambre, adaptation de un activitá por mixtet capacitás, e li usation de nor printabil cartes de bingo e ludes sur grand ecran. Omnicos ci have quam scope comfort, conexion e selection. Nequo ci es un test.
 
-## What makes a group activity work in memory care?
+## Quo fa un activitá in gruppe bon in cura memorie?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Un bon activitá in gruppe es familiar, curt, facil a junter se a quelcunc nivelle e sin pression. Li [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) del Alzheimer's Association descri significativ participation quam alquicos quel supporta li interesses e preferences de un person e lassa spacie por selection e successes, mem quande dementia es tre sever. Li sam document nota que traditional programes sovente usa un o du grand evenimentes in gruppe chascun die, u residentes es sovente solmen passivmen ocupat.
 
-That points to a few practical rules:
+To monstra quelc practic regules:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Familiar es plu bon quam nov.** Canzones, dites, images e objectes del plu yun annus del residentes es plu facil a junter se.
+- **Curt es plu bon quam long.** Plan circa li témpor de atention quel vor gruppe have usualmen, con un natural punctu de stop in li medie.
+- **Far es plu bon quam regardar.** Da a chascun person alquicos a tener, tippar, selecter o dir.
+- **Mult nivelles, un activitá.** Include plu facil e plu desfacil manieres a prender part.
+- **Sin ganatores, sin punctuation.** Formats competitiv lassa quelc persones sentir que ili fallit.
 
-## How big should the group be?
+## Quant grand deve li gruppe esser?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Plu micri es usualmen plu facil. Li Alzheimer's Association nota que un person quel trova un grand reunion tro pesant posse interacter plu bon in un micri gruppe. Ne existe un sol rect numero. It depende del residentes, del chambre e de quant membres del equipe e voluntarios es disponibil.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Un util test: posse chascun person vider li visage del ductor, audir clarmen e esser atinget de un auxiliator in quelc secondes? Si no, divide li gruppe, adjunte auxiliatores o move a un plu micri chambre.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Por un grand eveniment, quam un concert de feste, sede membres del equipe e voluntarios inter residentes, ne solmen long li mures.
 
-## How should I set up the room and seating?
+## Qualmen deve yo arangear li chambre e sedes?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Circul o fer-de-cavall.** Li recomandationes de practica descri un circul de partiprendentie quam max bon in un spacie suficent grand por que omnes sede in un circul, sin son de funde.
+- **Ductor proxim e al nivelle del ocules.** Sede in vice de star si vu posse.
+- **Audition e vision unesimmen.** Sede persones con perda de audition max proxim al ductor, sur lor plu bon látere. Assecura que lornettes e audifones es portat. Li Alzheimer's Association nota que problemes de vision e audition posse far communication plu desfacil.
+- **Luce detra residentes, ne detra vu.** Evita seder alquem con li visage vers un clar fenestre.
+- **Extinte li TV e radio.** Li Alzheimer's Association consilia remover concurrent sones durant activitás de musica.
+- **Un conversation a un vez.** Parlar in sam témpor es desfacil por persones quel vive con dementia e persones con perda de audition, quam li Alzheimer's Association monstra in su [consilies por festes](https://www.alz.org/help-support/caregiving/holidays).
+- **Clar surtidas e un tranquil angul.** Alqui qui vole ear deve posser far it facilmen, con un membre del equipe por accompaniar le.
 
-## Group activity ideas
+## Idés de activitás in gruppe
 
-### Picture bingo
+### Bingo de images
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo de images remplazza numeros per clar images, quam un teiere, un cane o un rose, por que nequi besona sequer un long numero o leer micri textu.
 
-**How to run it:**
+**Qualmen conduir it:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Printa un carte por person ex nor págine [Picture Bingo](/games/picture-bingo/) per li buton Print. Plu gross paper es plu facil a tener. Lamina por reusar.
+2. Da grand marcatores facil a prender, quam jetones, capes de botelles o quadrates de carton.
+3. Usa li anunciante sur ecran sur un TV o projector por que omnes vide li image quande vu di su nómine.
+4. Pausa pos chascun image e invita un curt comenta: «Esque alquem vole racontar pri un cane quel il conosset?» o «Quo vu remarca in ti image?»
+5. Continua anunciar til que chascun carte es plen. Omnes fini.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Adaptation:** Usa minu quadrates por persones quel trova un plen carte tro plen. Un auxiliator posse monstra li egal image por alquem qui besona it. Quelc persones prefere tener li carte del anunciante e monstrar it al gruppe.
 
-### Sing-alongs
+### Cantar ensemble
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Musica es un del max amat activitás in gruppe. Li Alzheimer's Association nota que mem in tard stadies, un person posse ancor [batter un ritme o cantar un canzon ex su infantie](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Qualmen conduir it:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Selecte canzones con queles residentes crescit, ne li favorites del ductor. Questiona families quo chascun person amat.
+- Usa musica sin reclames, quel li Association di posse esser confusent.
+- Printa textus in grand lítteres por tis qui lee, ma ne postula it.
+- Ofre sonettes, micri tambures o scarpes a agitar.
+- Anima applauder e mover se, e mantene li sonoritá comfortabil.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Adaptation:** Quelc persones va cantar chascun parol, quelc va murmurar, quelc va batter li pede, e quelc va solmen escutar. Omni to conta. Vide nor [guide pri activitás con musica](/activities/music/) por plu.
 
-### Reminiscence groups
+### Gruppes de racontas
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Un gruppe de racontas reuni se circum un tema, quam dies de scole, unesim autos, cocines o estive, con fotos, objectes e musica. Li scope es agradabil conversation, ne precis memorie.
 
-**How to run it:**
+**Qualmen conduir it:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Selecte un tema e aporta quelc objectes quel persones posse tener: un mixer manual, un guante de baseball, un chapel, un catalog de semes.
+2. Passa un objecte a un vez. Questiona apert questiones: «Raconta me pri to», «Quo vu remarca?» «Qui usat alquicos quam to?»
+3. Recive chascun response. Nequande corecte un date o un facte.
+4. Guida li conversa vers calid memoras. Li recomandationes de practica nota que curatores deve guidar racontas vers positiv memoras, ne vers tis quel posse causar pena.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) ofre printabil cartes con images e apert questiones secun tema, quel functiona bon quam comensa de conversation. Plu idés es in nor [guide pri racontas](/activities/reminiscence/).
 
-### Finish the saying
+### Completa li dite
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Familiar dites («A penny saved is a penny...») invita omnes a clamar li fine ensemble. Monstra [Finish the Saying](/games/finish-the-saying/) sur un grand ecran e lassa li gruppe responder quam un voce. Hay un question de conversa pos chascun dite. Si nequi di li fine, monstra it e continua. Ne existe rect o fals.
 
-### Large-print word search, together
+### Grand-littere sercha de paroles, ensemble
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Projecte li grand-littere [Word Search](/games/word-search/) sur un ecran e sercha paroles quam un gruppe, o printa copies por tis qui prefere laborar sol apu li table. Paroles va solmen tra e ad-infra.
 
-### Gentle movement
+### Dulci movement
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Sedet strechamentes, passar un moll balle o balon, o dansar sur un stul con familiar musica. Monstra chascun movement in vice de descrir it.
 
-### Sorting and matching at the table
+### Ordinar e egalisar apu li table
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Micri tables de tri o quar persones posse ordinar images, pecies de textil o argenteríe ensemble. Sur ecran, [Picture Pairs](/games/picture-pairs/) posse esser ludet con images visibil, con un person qui tippa durant que li table parla pri chascun image.
 
-## How do I use your games on a big screen?
+## Qualmen usar vor ludes sur un grand ecran?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Nor ludes functiona in un navigator web, do vu posse usar les sur un TV o projector sin instalar alquicos.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Aperte li lude sur un portabile o tablette conectet al ecran per cable o per projection.
+2. Fa li navigator plen-ecran e adjusta li son a un comfortabil nivelle.
+3. Lassa un ductor tippar durant que li gruppe clama selectiones. O passa un tablette a un residente qui vole un torn.
+4. Stoppa quande li gruppe es pret. Li ludes ne have horloge, punctuation o fortiat fine.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) e [Conversation Cards](/games/conversation-cards/) conveni max bon a gruppes. Vide omni optiones sur nor [págine de ludes](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Qualmen adaptar un activitá por mixtet capacitás?
 
-Plan at least three ways to join every activity.
+Plan adminim tri manieres a junter se a chascun activitá.
 
-| Activity | More independent | Some support | Most support |
+| Activitá | Plu índependent | Con quelc auxilie | Con max auxilie |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo de images | Trova e covri su propri images | Auxiliator monstra; person covri | Tene un carte de image; escuta e regarda |
+| Cantar ensemble | Canta, selecte li sequent canzon | Murmura, applaude, usa un sonette | Escuta, tene un scarpe, tippa un manu |
+| Racontas | Raconta histories | Responde yes o no o monstra | Tene e senti li objecte |
+| Sercha de paroles | Labora sur su propri printat copie | Trova paroles sur li grand ecran con un auxiliator | Escuta quande paroles es leet |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Por residentes in plu tard stadies, li NHS nota que activitás usualmen besona esser plu simplic e focusar se plu sur li senses, quam musica, objectes a palpar e massage de manus. Un moment un-a-un durant o pos li gruppe posse convenir les plu bon quam li gruppe self. Vide [activitás por tard stadies](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Qualmen deve ductores parlar durant un gruppe?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Presenta te chascun vez, e usa li preferet nómine de chascun person.
+- Parla lentmen, da un passo a un vez, e monstra ante que vu di.
+- Questiona apert invitationes («Raconta me pri...») o simplic selectiones, nequande questiones de test («Esque vu memora...?»).
+- Ne corecte. Mersi a chascun person por su contribution.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Plu pri to es in nor [consilies pri communication](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Finir bon, e lassar persones ear
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Stoppar es un bon resultate. Observa signes que alquem es fatigat, ínquiet o trist, e fa que un auxiliator ofre un promenada o un tranquil sede altriloc. Alquem quel dormita durant cantar ensemble posse simplicmen esser comfortabil.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Clude chascun gruppe in li sam maniere, con un familiar canzon o un simplic mersí, por que li fine senti se calm e expectat. Pos to, scri curt notes pri quo functionat e quo quelc persones joyat. Ti notes fa li sequent session plu bon.

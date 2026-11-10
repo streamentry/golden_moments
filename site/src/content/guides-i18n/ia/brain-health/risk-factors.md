@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Factores de risco de dementia: Le 14 del Lancet"
+seoTitle: "Factores de risco de dementia: Le 14 del Lancet"
+description: "Le 14 factores de risco de dementia que pote esser cambiate, nominate per le Commission Lancet 2024, per etate, con lo que le recerca liga e que discuter con un medico."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Le Commission Lancet 2024 nominava 14 factores de risco de dementia que pote
+  potentialmente esser cambiate: minus education, perdita de audita, alte
+  cholesterol LDL, depression, lesion del capite, inactivitate, diabete, fumo,
+  alte pression sanguinee, obesitate, consumo excessive de alcohol, isolation
+  social, pollution del aere e perdita de vision non tractate. Insimul illos
+  es ligate con circa 45% del casos in tote le mundo, sin garantia pro alcun
+  persona individual.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Le 14 factores se extende super tote le vita: un in le prime annos, dece in le medie etate e tres in le etate plus avantiate."
+  - "Le perdita de audita e le alte cholesterol LDL in le medie etate es cata un ligate con circa 7% del casos de dementia in tote le mundo, le plus grande partes de alcun factor singule."
+  - "Iste percentages es estimationes pro le population que presume causa e effecto. Alcun ligamines pote esser solo partialmente causal."
+  - "Le etate e le genes, que nemo pote cambiar, es etiam factores de risco importante. Reducer le 14 riscos non garantiza que alcuno evitara le dementia."
+  - "Le major parte del passos implicate, como verificar le pression sanguinee, le audita e le vision, es bon pro le salute in altere modos e merita esser discutite con un medico."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Quales es le 14 factores de risco modificabile pro dementia?"
+    a: "Le Commission Lancet 2024 nominava minus education, perdita de audita, alte cholesterol LDL, depression, lesion cerebral traumatic, inactivitate physic, diabete, fumo, alte pression sanguinee, obesitate, alcohol excessive, isolation social, pollution del aere e perdita de vision non tractate. Insimul illos es ligate con quasi le medietate del casos de dementia in tote le mundo."
+  - q: "Qual factor de risco de dementia importa le plus?"
+    a: "Trans le population mundial, le Commission estimava que le perdita de audita e le alte cholesterol LDL in le medie etate es cata un ligate con circa 7% del casos, sequite per minus education e isolation social con circa 5% cata un. Qual factores importa le plus pro un persona depende de su proprie salute, dunque un medico es le melior guida."
+  - q: "Es le duo nove factores de risco addite in 2024?"
+    a: "Si. Le reporto de 2024 addeva alte cholesterol LDL (le \"mal\" cholesterol) in le medie etate e perdita de vision non tractate in le etate plus avantiate al 12 factores nominate in 2020. Le Commission les ligava con circa 7% e 2% del casos respectivemente."
+  - q: "Es le etate un factor de risco modificabile?"
+    a: "No. Le etate es le plus grande factor de risco cognoscite pro le morbo de Alzheimer, e illo non pote esser cambiate. Le genes tamben ha un rolo. Le 14 factores in iste pagina es illos que le recerca suggere pote potentialmente esser cambiate."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,133 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Un factor de risco es qualcosa ligate con un major possibilitate de disveloppar
+un condition. Illo non es un causa in cata caso, e haber un non significa que
+tu disveloppra dementia. Iste pagina lista le 14 factores de risco de dementia
+que le Commission Lancet 2024 dice pote potentialmente esser cambiate, con que
+le recerca les liga, e que tu poterea discuter con un medico.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Pro le imagine plus complete, incluse lo que grande studios trovava, comencia
+con [Pote le dementia esser prevenite? Lo que le recerca dice](/brain-health/can-dementia-be-prevented/).
+Isto es information general, non consilio medical; vide nostre
+[aviso medical](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Quales es le 14 factores de risco pro dementia?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+Le [Commission Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+scribite per 27 recercatores de dementia, estimava que 14 factores de risco
+potentialmente modificabile insimul representa circa 45% del casos de dementia
+in tote le mundo. Le percentage pro cata factor infra es le estimation del
+Commission del parte de casos in tote le mundo ligate con illo, rotundate a
+numeros integre. Le cifras se superpone, proque multe personas ha plure riscos
+al mesme tempore, e isto explica proque illos totalisa 45% e non plus.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Factor de risco | Etate del vita | Parte del casos | Lo que le recerca liga | Lo que tu pote facer |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Minus education | Prime annos | 5% | Minus annos de schola es ligate con un risco plus alte. Esser mentalmente active in le medie etate pare tamben protective, mesmo pro personas con poc schola. | Continua apprender e facer cosas mentalmente stimulante a omne etate: leger, hobbies, cursos, jocos con alteres. |
+| Perdita de audita | Medie etate | 7% | Le perdita de audita non tractate es ligate con un risco plus alte. Studios que seque personas in le tempore liga le uso de apparatos auditive con un risco plus basse. | Face testar tu audita. Demanda si apparatos auditive poterea adjutar, e porta los si illos es prescribite. Protege tu aures contra ruito forte. |
+| Alte cholesterol LDL | Medie etate (ab circa 40 annos) | 7% | Alte cholesterol LDL (le "mal" cholesterol) in le medie etate es ligate con un risco plus alte. Studios observational liga le uso de statinas con un risco plus basse, ma studios in le etate plus avantiate non ha monstrate isto. | Demanda a tu medico si tu cholesterol deberea esser verificate e que facer, si algo. |
+| Depression | Medie etate | 3% | Le depression es ligate con un risco plus alte. In le etate plus avantiate, le depression pote tamben esser un signo precoce de dementia. | Parla con un medico sur humor basse o perdita de interesse que dura plus de duo septimanas. Le depression pote esser tractate. |
+| Lesion cerebral traumatic | Medie etate | 3% | Un lesion del capite a omne etate e de omne origine, incluse sportes de contacto, es ligate con un risco plus alte. | Porta un casco quando tu va in bicycletta o practica sportes de contacto. Demanda sur le prevention de caditas. Reposa e face te verificar post un lesion del capite. |
+| Inactivitate physic | Medie etate | 2% | Le personas que face exercitio e practica sportes ha minus probabilitate de disveloppar dementia. Le evidentia de studios es ancora limitate. | Demanda qual activitate es secur pro te, e trova qualcosa que tu gaude. Vide nostre [guida sur exercitio](/brain-health/exercise/). |
+| Diabete | Medie etate | 2% | Le diabete, specialmente quando illo comencia in le medie etate o dura plus longe, es ligate con un risco plus alte. | Face verificar tu nivello de sucro in le sanguine. Si tu ha diabete, labora con tu equipa de cura pro gerer lo de maniera secur. |
+| Fumo | Medie etate | 2% | Fumar es ligate con un risco plus alte. Studios trova que ex-fumatores non ha le mesme risco elevate como personas qui continua fumar. | Demanda supporto pro stoppar. Vale le pena stoppar a omne etate. |
+| Alte pression sanguinee | Medie etate | 2% | Alte pression sanguinee in le medie etate es ligate con un risco plus alte. Studios de medicamentos pro le pression sanguinee suggere un riscetto modestemente plus basse de dementia o deterioration cognitive. | Cognosce tu numeros. Le Commission suggere un numero superior de 130 o minus ab circa 40 annos; demanda qual objectivo te conveni. |
+| Obesitate | Medie etate | 1% | Le obesitate in le medie etate es ligate con un risco plus alte, e illo tamben augmenta le risco de diabete. | Demanda a tu medico sur un peso salubre pro te. Adultos plus vetere non deberea facer dieta pro perder peso sin consilio medical. |
+| Alcohol excessive | Medie etate | 1% | Beber multo es ligate con un risco plus alte. Reducer post un consumo elevate es ligate con un risco plus basse. | Demanda qual limite es secur pro te, specialmente con tu medicamentos. |
+| Isolation social | Etate plus avantiate | 5% | Contacto social infrequente es ligate con un risco plus alte. | Mantene contacto con personas in modos que tu gaude. Vide nostre [guida sur connexion social](/brain-health/social-connection/). |
+| Pollution del aere | Etate plus avantiate | 3% | Viver con plus pollution del aere es ligate con un risco plus alte. Studios liga aere plus pur con un risco plus basse. | Isto depende in grande parte del politicas public. Verifica le avisos local sur le qualitate del aere e limita le tempore foras in dies multo polluite. |
+| Perdita de vision non tractate | Etate plus avantiate | 2% | Problemas de vision non corrigite es ligate con un risco plus alte. Un grande studio in le Statos Unite ligava le cirurgia de cataracta con un risco plus basse. | Face examenes ocular regular. Demanda si problemas como cataractas pote esser tractate. |
 
-## How should I read these percentages?
+## Como debera io leger iste percentages?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Con attention. Le reporto mesme del Commission face plure punctos utile a
+tener in mente:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Illos describe populationes, non personas.** Le
+  [resumo del reporto](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  de University College London nota que reducer le risco functiona trans un
+  population e non garantiza que alcun persona individual evitara le dementia.
+- **Illos presume causa e effecto.** Le autores includeva solo factores con
+  evidentia convincente, ma dice que alcun ligamines pote esser solo
+  partialmente causal.
+- **Illos es cifras mundial.** Le major parte del datos veni de paises con alte
+  ingresos, e le parte real pro alcun pais o communitate specific sera
+  differente.
+- **Parve percentages pote ancora importar.** Un factor ligate con 2% del casos
+  in tote le mundo concerne ancora un numero multo grande de personas.
 
-## Which risk factors were added in 2024?
+## Qual factores de risco esseva addite in 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Le reporto de 2024 addeva duo factores al 12 nominate in 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Alte cholesterol LDL in le medie etate**, ligate con circa 7% del casos.
+- **Perdita de vision non tractate in le etate plus avantiate**, ligate con
+  circa 2% del casos.
 
-## What risk factors cannot be changed?
+## Qual factores de risco non pote esser cambiate?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Le National Institute on Aging dice que
+[le etate es le plus grande factor de risco cognoscite pro le morbo de Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+e nemo pote cambiar lo. Le genes tamben ha un rolo; un gene ben cognoscite que
+influentia le risco de Alzheimer se appella APOE. Le NIA adde que le
+scientistas non comprende ancora completemente lo que causa le morbo de
+Alzheimer in le major parte del personas. Le Commission Lancet nota que le
+riscos potentialmente modificabile pote esser reducite sin reguardo del risco
+genetic de un persona.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Proque le etate e le genes ha un rolo tanto grande, multe personas qui non ha
+alcun del 14 factores de risco disveloppa tamen dementia. Isto non es le culpa
+de alcuno.
 
-## What does the trial evidence say about changing these risks?
+## Que dice le evidentia de studios sur cambiar iste riscos?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Ligar un factor de risco con dementia non es le mesme que provar que cambiar lo
+reduce le risco de dementia. Alcun exemplos de ubi sta le evidentia de
+studios:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Pression sanguinee.** In le studio SPRINT MIND, un objectivo plus basse de
+  pression sanguinee reduceva significativemente le deterioration cognitive
+  leve. Illo non reduceva significativemente le dementia probabile, ben que le
+  studio pote haber essite troppo parve pro monstrar isto
+  ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Apparatos auditive.** Le Commission Lancet describe un studio de tres annos
+  sur apparatos auditive que non trovava un effecto general sur le pensamento,
+  ma un beneficio in un subgruppo de personas con risco plus alte. Studios que
+  seque personas in le tempore liga le uso de apparatos auditive con un risco
+  plus basse. Nostre [guida sur audita](/brain-health/hearing/) ha plus
+  information.
+- **Activitate physic.** Le National Institute on Aging dice que il non ha
+  sufficiente evidentia de studios clinic pro concluder que le exercitio pote
+  prevenir o relentar le deterioration cognitive leve o le morbo de Alzheimer,
+  ben que alcun studios suggere que illo pote adjutar con le declino ligate al
+  etate
+  ([NIA sur prevenir le morbo de Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Longe studios que attende que le dementia se disveloppa es lente e costose,
+dunque pro multe factores le melior evidentia continuara a venir de studios que
+seque personas durante annos. Iste evidentia es utile, ma illo es minus forte
+que un studio clinic.
 
-## What about sleep and diet?
+## E le somno e le alimentation?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Le Commission revideva le somno e le alimentation ma non les addeva al lista,
+proque le evidentia non esseva assatis forte o consistente. Nostre guidas sur
+[somno](/brain-health/sleep/) e [alimentation](/brain-health/diet/) explica lo
+que es cognoscite.
 
-## Talk with a doctor
+## Parla con un medico
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Un controlo annual es un bon momento pro mentionar iste themas. Tu poterea
+portar iste lista e demandar:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Quales es mi numeros de pression sanguinee, sucro in le sanguine e
+  cholesterol, e alcun de illos besonia attention?
+- Deberea io face verificar mi audita e mi oculos?
+- Es le activitate que io face secur e sufficiente pro me?
+- Alcun de mi medicamentos pote influentiar le memoria o le pensamento?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Ante cambiar medicamentos, alimentation, jejuno, exercitio o supplementos, parla
+primo con un medico. Si tu o le persona de qui tu prende cura ha confusion
+subite, debilitate de un latere, o difficultate a parlar, appella le numero de
+emergentia local.

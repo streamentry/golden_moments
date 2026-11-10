@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Activitates pro dementia tardive, in lecto o in sede"
+seoTitle: "Dementia tardive: activitates in lecto e sede"
+description: "Ideas gentile pro dementia tardive, in lecto o sede: musica, tocco, lectura a alte voce, sonos e esser insimul, con notas de securitate."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  In le stadio tardive del dementia, le activitates se centra sur le sensos e
+  sur tu compania: ascoltar le musica favorite, tener le mano, un massage lente
+  del mano, leger a alte voce, reguardar photos, sonos del natura e seder presso
+  un fenestra o foras. Iste ideas functiona in lecto o in un sede. Mantene le
+  sessiones curte, observa le facie e le manos pro signos de conforto, e
+  rememora que esser presente es in se mesme un activitate.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Le connexion es ancora possibile. In le stadio tardive, le mundo es vivite principalmente a transverso le sensos."
+  - "Musica, tocco gentile, voces familiar e cosas suave a tener sovente attinge personas quando le parolas non plus lo face."
+  - "Quasi omne idea hic functiona pro alicuno in lecto o in un sede."
+  - "Observa le conforto e le disconforto in le facie, le manos e le respiration, e stoppa a omne signo de angustia."
+  - "Evita parve objectos e offere alimento o bibita solmente como le equipa de cura lo consilia, perque deglutir pote devenir insecur."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Qual activitates pote io facer con un persona con dementia tardive qui es in lecto?"
+    a: "Ascolta su musica favorite, tene su mano, da un massage lente del mano con lotion, lege a alte voce un libro o un oration que ille ama, monstra photos, o face sonar sonos gentile del natura. Aperi le cortinas assi que ille pote vider foras. Sessiones curte e calme, con un sol cosa al vice, functiona usualmente le melio."
+  - q: "Pote personas con dementia tardive ancora gauder del musica?"
+    a: "Multes pote. Le Alzheimer's Association nota que mesmo in le stadio tardive, un persona pote esser capace de batter le rhythmo o cantar insimul un canto de su infantia. Elige musica que ille amava quando ille esseva plus juvene e mantene le volumine basse."
+  - q: "Como sape io si le activitate place a ille?"
+    a: "Observa parve signos: spatulas relaxate, un facie plus suave, contacto visual, un murmure, un pression del mano o un respiration plus lente. Un grimace, retirar se, inquietude o gemitos pote indicar disconforto o dolor. Si tu vide isto, stoppa e informa le equipa de cura si illo continua."
+  - q: "Vale il le pena visitar si ille non plus me recognosce?"
+    a: "Si. Le National Institute on Aging nota que simplemente esser presente pote esser calmante, e que tocco, musica e historias pote ancora apportar conforto in le dementia avantiate. Tu voce e tu tocco pote esser familiar mesmo quando tu nomine non lo es."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+In le stadio tardive del dementia, un persona pote parlar multo poco, haber besonio de adjuta con omne cura quotidian e passar grande parte del die in lecto o in un sede. Il pote semblar que il non resta plus nihil a facer insimul. Illo resta. Le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) nota que alcun nucleo del identitate del persona pote remaner, e que in iste stadio le mundo es vivite principalmente a transverso le sensos. Musica, tocco, un voce familiar e tu compania calme pote ancora apportar conforto e momentos de connexion.
 
-## What activities help in late-stage dementia?
+## Qual activitates adjuta in le dementia tardive?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Activitates sensorial simple e compania tranquille adjuta le plus in le stadio tardive. Le Alzheimer's Association suggere ascoltar le musica favorite, leger partes de libros significative, massar le pelle con un lotion de un odore favorite, e seder foras insimul in un belle die. Le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adde contar historias, monstrar photos, tocco o massage gentile, e musica, ruito blanc o sonos del natura, e dice que tu presentia sol pote esser calmante.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+Le [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nota que personas in le stadio tardive ha sovente un forte besonio de tener qualcosa presso se pro conforto, e suggere activitates sensorial simple, extension gentle, movimentos con un sciarpa, musica, visitas de animales, tocco human e arte libere.
 
-## Activities for someone in bed or a chair
+## Activitates pro alicuno in lecto o in un sede
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Ascolta su musica.** Elige cantos de su juventute, de su fide o de su familia. Mantene le volumine basse e sede presso ille. Mesmo ora, alcun personas batte un digito o murmura. Vide [activitates con musica](/activities/music/).
+2. **Tene su mano.** Simplemente tener un mano, con un caressa gentile del police, es un activitate. Dice primo lo que tu va facer.
+3. **Da un massage lente del mano.** Calefa un poco de lotion in tu palmas e caressa del pulso usque al punctas del digitos. Elige un lotion sin odore, o un odore que ille sempre ha amate si su pelle lo tolera.
+4. **Lege a alte voce.** Un poema favorite, un passage de un libro multo amate, un texto sacre o le pagina sportive. Le rhythmo de tu voce importa plus que le parolas.
+5. **Conta un historia.** Parla de un viage in familia o del die de su matrimonio. Tu non ha besonio de responsas.
+6. **Monstra photos.** Tene un sol photo grande al vice al nivello del oculos e describe lo con caliditate. Evita demandar qui es in illo.
+7. **Offere qualcosa suave a tener.** Un panno plicate, un quadrato de fleece o un animal suave. Le NIA suggere dar al persona un panno a tener durante que on lo move, assi que ille ha minus tendentia de agarrar te o le mobiles.
+8. **Face sonar sonos del natura.** Pluvia, undas o canto de aves a basse volumine pote render un camera rumorose plus calme.
+9. **Porta le exterior a interior.** Aperi le cortinas, pone un mangiatorio pro aves foras del fenestra, o porta alcun flores o folios fresc a reguardar e toccar.
+10. **Vade foras.** Si le persona pote seder in un sede a rotas, alcun minutas al umbra in un die moderate pote esser agradabile.
+11. **Pectina su capillos o offere un panno calide.** Un cura personal lente e gentile, e un panno calide pro le manos e le facie, pote dar un sensation de attention.
+12. **Move te gentilmente con musica.** Agita insimul un sciarpa legier, o balancia le manos al rhythmo de un canto. Pro extensiones e movimentos del articulationes, demanda primo a un physiotherapeuta o un infirmiero/-a de monstrar te manieras secur.
+13. **Face arte libere.** Extende pintura non toxic sur grande papiro con un spongia o con un mano, guidate per le tue. Il non ha un resultato correcte.
+14. **Recipe visitas de animales.** Un animal de compania calme sur le lecto o sur le genos, si le persona gaudeva del animales e si le loco lo permitte.
+15. **Respira lentemente insimul.** Sede presso ille e respira lentemente e de maniera audible. [Respiration calme](/games/calm-breathing/) pote dar le rhythmo a ambes, e tu pote comenciar e stoppar lo.
+16. **Simplemente sta ibi.** Sede presso ille, murmura, tricota o lege in silentio. Esser presente suffice.
 
-## How to share an activity at this stage
+## Como divider un activitate in iste stadio
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Approcha del fronte.** Dice su nomine e tu nomine, e parla lentemente e suavemente ante toccar.
+- **Offere un sol cosa al vice.** Extingue le television ante ascoltar musica. Face un sol senso al vice.
+- **Mantene lo curte.** Alcun minutas pote esser bastante. Plure momentos curte durante le die es melior que un longe session.
+- **Cerca primo le conforto.** Verifica que le persona es ben sustenite. Le NIA suggere un tabula pro le genos pro reposar le bracios e sustener le parte superior del corpore quando on sede.
+- **Observa le reaction.** Manos relaxate, un facie plus suave, contacto visual o un murmure suggere conforto. Le NIA nota que gemitos, grimaces, proteger un parte del corpore o un agitation subite pote esser signos de dolor. Stoppa, e informa le equipa de cura.
 
-## A quick guide by sense
+## Un guida rapide per senso
 
-| Sense | Ideas | Take care |
+| Senso | Ideas | Attention |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Audito | Musica favorite, tu voce legente, sonos del natura | Mantene le volumine basse; un sol sono al vice |
+| Tacto | Massage del mano, tener le mano, tissu suave, panno calide | Demanda o annuncia primo; verifica que le pelle non es dolente o vulnerate |
+| Visto | Photos, flores, le vista per le fenestra, un video lente del natura | Tene le cosas al nivello del oculos; bon lumine, sin refulgentia |
+| Olfacto | Un lotion favorite, flores fresc, caffe que se prepara vicin | Evita odores forte; verifica allergias e respiration |
+| Gusto | Un parve gusto de un sapor favorite | Solmente alimentos e texturas que le equipa de cura dice esser secur |
 
-## Safety at this stage
+## Securitate in iste stadio
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Deglutir pote devenir difficile in le stadio tardive, e le NIA adverti que isto augmenta le risco de suffocation. Non lassa parve objectos a portata de mano, e offere alimento o bibita solmente in le texturas e positiones recommendate per le equipa de cura. Verifica gentilmente le pelle durante le activitates de tocco, perque le pelle pote vulnerar se o contunder se facilemente. Pro plus ideas sensorial secur, vide [activitates sensorial](/activities/sensory/).
 
-## Looking after yourself too
+## Prender cura de te mesme tamben
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Prender cura de un persona con dementia in stadio tardive es exigente physicamente e emotionalmente, sia a casa sia durante visitas a un residentia de cura. Equipas de cura hospice e palliative pote adjutar con conforto, supporto e planification, e le NIA los mentiona como fonte de adjuta. Visitas curte e calme vale le pena; vide [visitar un persona qui vive con dementia](/activities/visiting/). Si tu guida gruppos, [activitates in gruppo in residentias de cura](/activities/care-home-groups/) ha ideas pro adaptar le sessiones. E per favor lege [cura de se mesme pro qui prende cura](/caregiving/caregiver-self-care/): reposar face parte de prender cura ben.

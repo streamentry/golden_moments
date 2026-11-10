@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Activitates imprimibile gratuite pro dementia"
+seoTitle: "Activitates imprimibile: litteras grande"
+description: "Activitates imprimibile gratuite pro dementia: recerca de parolas in litteras grande, paginas de colorar, cartas de conversation e bingo de imagines."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments offere activitates imprimibile gratuite pro dementia: un
+  recerca de parolas in litteras grande, paginas de colorar, cartas de
+  conversation con imagines e cartas de bingo de imagines. Aperi le pagina de
+  un joco e usa su button Imprimer. Imprime in litteras grande e simple sur
+  papiro dur, mantene un sol activitate per pagina, e lamina le paginas que tu
+  vole reusar. Simple imprimibiles fatte a casa, como un pagina de historia de
+  vita o un horario quotidian, es utile tamben.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Nostre activitates imprimibile es gratuite: Word Search, Coloring, Conversation Cards e Picture Bingo. Cata pagina de joco ha un button Imprimer."
+  - "Imprime in litteras grande e simple, con bon contrasto, e mantene un sol activitate per pagina."
+  - "Papiro dur o cartulina es plus facile a tener e se frange minus. Lamina le paginas pro reusar los con marcatores a siccar."
+  - "Imprimibiles simple fatte a casa, como un pagina de historia de vita, un horario quotidian o etiquettas con imagines pro portas, es utile."
+  - "Un pagina imprimite es un invitation, non un deber. Es ben si le persona face solo un parte, o nihil."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Es vostre activitates imprimibile pro dementia gratuite?"
+    a: "Si. Le paginas Word Search, Coloring, Conversation Cards e Picture Bingo sur iste sito es gratuite a usar e imprimer. Aperi le pagina del joco e usa le button Imprimer."
+  - q: "Qual activitates imprimibile es melior pro personas vivente con dementia?"
+    a: "Le melior imprimibiles es simple, clar e adulte: un recerca de parolas in litteras grande con parolas solo horizontal e vertical, paginas de colorar con contornos clar, cartas con imagines que comencia un conversation, e bingo de imagines pro gruppos. Elige le activitate secundo le interesses e le capacitates actual del persona, e mantene un sol activitate per pagina."
+  - q: "Como pote io render le imprimibiles plus facile a vider e usar?"
+    a: "Usa litteras grande e simple, tinta scur sur papiro blanc o crema, e multo spatio. Imprime sur papiro dur o cartulina assi que le pagina resta plan, elige papiro mat pro reducer le reflexos, e usa un tabula a pinza o un tappeto antislipamento pro tener le pagina ferme. Laminar adjuta le paginas a durar."
+  - q: "Pote io imprimer vostre activitates pro un residentia de cura o un programma diurne?"
+    a: "Si. Le personal de activitates es benvenite a imprimer nostre paginas pro residentes e gruppos. Picture Bingo es concipite pro gruppos e include un appellator sur schermo que tu pote monstrar sur un television o un projector."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+A vices le melior activitate es un folio de papiro e un penna al tabula del cocina. Le imprimibiles non besonia esser cargate, non require contrasignos e non usa un schermo. Illos es facile a portar a un visita o a un gruppo. Iste pagina describe le activitates imprimibile gratuite sur nostre sito, como imprimer los pro que illos sia facile a vider e tener, e alcun simple imprimibiles fatte a casa que familias e personal de activitates trova utile.
 
-## What free printable activities do you offer?
+## Qual activitates imprimibile gratuite offere vos?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Nos offere quatro imprimibiles gratuite. Aperi qualcunque de iste paginas de joco e usa le button **Imprimer** pro obtener un version facile a imprimer.
 
-| Printable | What it is | Good for |
+| Imprimibile | Que es | Bon pro |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Un recerca de parolas in litteras grande, con parolas solo horizontal e vertical | Un momento tranquille con un penna; alicuno qui amava le puzzles |
+| [Coloring](/games/coloring/) | Paginas de colorar a imprimer, o a colorar sur schermo | Un momento creative e calme; omne stadio, con adjuta si besoniate |
+| [Conversation Cards](/games/conversation-cards/) | Cartas con imagines e questiones aperte, sin quiz, organisate per thema | Visitas, appellos, repastos in familia, gruppos de reminiscentia |
+| [Picture Bingo](/games/picture-bingo/) | Cartas de bingo con imagines in loco de numeros, plus un appellator sur schermo | Residentias de cura, programmas diurne, reunion familiar |
 
-### Large-print word search
+### Recerca de parolas in litteras grande
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+Le [Word Search](/games/word-search/) usa litteras grande e mantene le parolas solo horizontal e vertical, sin diagonales e sin parolas al reverso. Labora insimul: un persona lege un parola del lista, le altere la cerca. Si trovar le parolas deveni difficile, prova a circular insimul le prime littera de cata parola, o simplemente lege le lista de parolas in alte voce e parla de cata parola.
 
-### Coloring pages
+### Paginas de colorar
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Le paginas de [Coloring](/games/coloring/) pote esser imprimite pro marcatores o crayons de color, o colorate sur un tabletta toccante un color e pois un parte del imagine. Pro paginas imprimite, offere marcatores grosse e poc colores al mesme tempore. Vide nostre [guida de artes e travalios manual](/activities/arts-and-crafts/) pro ideas pro mantener le colorar adulte e calme.
 
-### Conversation cards
+### Cartas de conversation
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+Le [Conversation Cards](/games/conversation-cards/) combina un imagine clar con un question aperte, como "Conta me de..." o "Que observa tu?" Illos es scribite como invitationes aperte, non como questiones de quiz. Imprime un collection, seca los, e tene alcunes in un sacco pro visitas o presso le telephono pro appellos. Illos functiona ben tamben in gruppos de [reminiscentia](/activities/reminiscence/).
 
-### Picture bingo cards
+### Cartas de bingo de imagines
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Le cartas de [Picture Bingo](/games/picture-bingo/) usa imagines in loco de numeros. Imprime un carta per jocator e usa le appellator sur schermo sur un portabile, television o projector. Nos suggere appellar usque le carta de omnes es plen, assi que nemo se senti excludite. Vide [activitates in gruppo pro residentias de cura](/activities/care-home-groups/) pro como conducer un session.
 
-## How do I print activities so they are easy to use?
+## Como pote io imprimer le activitates pro que illos sia facile a usar?
 
-Small changes in how you print make a big difference.
+Parve cambios in le maniera de imprimer pote facer un grande differentia.
 
-### Make it easy to see
+### Rende lo facile a vider
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Litteras grande e simple.** Usa le plus grande grandor de impression que ancora entra in le pagina. Evita typos ornate o de script.
+- **Bon contrasto.** Tinta scur sur papiro blanc o crema. Evita fundos gris pallide o colorate.
+- **Papiro mat** reduce le reflexos sub luces forte.
+- **Verifica oculos e illumination.** Le Alzheimer's Association nota que problemas de vista e de audita pote render le communication plus difficile, e suggere verificar los regularmente. Un lampa clar e uniforme adjuta tamben.
 
-### Make it easy to hold
+### Rende lo facile a tener
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Papiro dur o cartulina** resta plan, es plus facile a prender, e resiste melio al uso repetite.
+- **Un tabula a pinza** o un tappeto antislipamento impedi que le pagina glissa.
+- **Marcatores grosse o crayons grosse** es plus facile a tener que pennas fin.
 
-### Make it reusable
+### Rende lo reusabile
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Lamina le paginas** o mitte los in fundas transparente. Usa marcatores a siccar sur le recercas de parolas e le cartas de bingo, pois nettia los.
+- **Elige fundas mat** si le reflexos es un problema, e **rotunda le angulos** del cartas laminate con forteas pro que illos sia comfortable a tener.
+- **Tene un dossier** con le favoritos, assi que tu non debe imprimer le mesme pagina cata septimana.
 
-### Keep it simple
+### Mantene lo simple
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Un sol activitate per pagina.** Un sol recerca de parolas o un sol imagine, non plure activitates pressate insimul.
+- **Multo spatio blanc.** Un pagina troppo plen pote semblar pesante.
+- **Si possibile, sin instructiones a leger.** Monstra al persona que facer, in loco de demandar de leger.
+- **Reduce le folios.** Si un pagina integre es troppo, seca lo in medietate o plica lo assi que solo un parte es visibile.
 
-## Other useful printables you can make at home
+## Altere imprimibiles utile que tu pote facer a casa
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Non omne imprimibile utile es un joco. Istos es facile a facer con un programma de texto e un imprimitor.
 
-### A life-story page
+### Un pagina de historia de vita
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Un folio "super me" con un photo, le nomine que le persona prefere, ubi ille o illa cresceva, su travalio, familia, mangiar favorite, musica e cosas que conforta o disturba. Dementia Australia suggere un [libro de memorias](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) con detalios super le vita del persona, su preferences e le personas importante, pro adjutar visitatores e personas qui cura e pro iniciar conversationes.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Illo es specialmente utile in hospitales e nove locos de cura. Le NIA recommenda dar al personal del hospital un [folio de information personal](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) con le rutina del persona, le nomine preferite, lo que place o non place, possibile factores de stress, e signos non verbal de dolor.
 
-### A daily schedule
+### Un horario quotidian
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Un horario simple e grande pro le die con horas, poc parolas e un parve imagine pro cata parte: dejunio, promenada, prandio, reposo, musica, cena. Le [plano de cura quotidian](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) del Alzheimer's Association suggere planificar secundo le melior momentos del die pro le persona, con horas regular de eveliar e de dormir e un equilibrio inter activitate e reposo. Pone lo al nivello del oculos, per exemplo sur le refrigeratorio, e mantene lo flexibile. Vide nostre [guida al rutina quotidian](/activities/daily-routine/) pro plus information.
 
-### Picture labels for rooms and drawers
+### Etiquettas con imagines pro cameras e tiratorios
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Le NIA suggere usar signales de colores vive o simple imagines pro [etiquettar le bagno, le camera de dormir e le cocina](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Le mesme idea functiona pro tiratorios e armarios: un imagine de calcettas sur le tiratorio de calcettas, tazas sur le armario de tazas. Imprime, lamina e fixa los.
 
-### A sorting set
+### Un collection pro ordinar
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Imprime imagines de duo simple categorias, como fructos e flores o utensiles e cosas de cocina, sur cartulina. Seca los e ordina los insimul in duo panieros. Le version sur schermo de isto es [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Folios con textos de cantos
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Imprime le parolas de alcun cantos favorite in litteras multo grande pro cantar insimul. Mesmo personas qui jam non lege multo pote gauder de tener le folio.
 
-### A family photo page
+### Un pagina con photos de familia
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Un sol pagina con quatro a sex grande photos de familia, cata un con un prenomine sub illo. Illo pote restar sur le tabula pro que qualcunque pote prender lo e parlar de illo. Le etiquettas adjuta visitatores e personal a participar in le conversation, e nemo debe demandar "Qui es isto?"
 
-### A recipe card
+### Un carta de recepta
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Imprime un recepta familiar favorite in litteras grande. Usa lo pro cocer insimul, o simplemente pro parlar de repastos del passato.
 
-## How do I offer a printable without it feeling like homework?
+## Como pote io offerer un imprimibile sin que illo sembla un deber?
 
-Present it as something to share, not a test.
+Presenta lo como qualcosa a divider, non como un test.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Sede te e comencia tu mesme.** "Io face iste recerca de parolas. Vole tu adjutar me a trovar 'jardin'?"
+- **Labora insimul.** Alterna, o un persona trova e le altere circula.
+- **Nunquam marca lo como correcte o incorrecte.** Le guida del Alzheimer's Association sur [activitates a casa](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) consilia de concentrar se sur le processo, non sur le resultato, e sur le placer plus tosto que sur le prestation.
+- **Lassa le paginas a vista.** Le mesme guida suggere poner libros de memorias, albumes de photos o revistas ancian in locos facile a attinger. Cartas imprimite e paginas con photos pote restar sur un tabula lateral del mesme maniera.
+- **Stoppa quando vos vole.** Un medie pagina de colorar pote esser un belle postmeridie. Anque mitter le pagina a latere e biber un tassa de the es ben.
 
-## Where to find more
+## Ubi trovar plus
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Explora tote nostre [jocos e imprimibiles](/games/), o vide [activitates pro cata stadio](/activities/ideas/) pro plus ideas, con e sin papiro.

@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Omomuano wokutoorora omaappu novinyandwa vyodementia"
+seoTitle: "Omomuano wokutoorora omaappu novinyandwa vyodementia"
+description: "Oruteto rwomutjevere rwokutoorora omaappu novinyandwa vyodementia: uta nondando yoye, yanda ozovandu noviyandjewa, tara oupore, nu lesa omambo womauye nawa."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Uta na imbi mbi mo vanga kutja oappu i ungure: okunyandisa porwavyo, okuzemburuka,
+  okuhuhumiṋa poo okutuurunga. Okuzambo toorora imwe ndji mai yendere pamwe
+  nouyara womundu ndino eyuva, noviperendero ovinene, nokuhina ozovandu, ozonomora
+  poo oviyandjewa, nokuhina omuano omupupu wokuyaruka. Tara kutja i kongorera
+  ovina vi nu kutja mo yenene okuviisapo. Kara nongengezero komambo ngu maye tja
+  oappu i tjaera poo i verukisa odementia; okuraisiwa kumwe ka ku ri ouatjiri.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Tya ondando rutenga: okunyandisa, okuzemburuka, okuhuhumiṋa poo okutuurunga vi hepa omaappu pekepeke."
+  - "Yendere pamwe nouyara womundu meyuva ndo, ka tjiṋa tjondengu, nu tjita oviungurisiwa oviṱiṱi."
+  - "Yanda omaappu nge nozovandu, ozonomora, omiinyo, ozomikoka, oviyandjewa poo omaningiriro wokuranda."
+  - "Tara omakongero wovina, okuhaṋasana nokuisapo. HIPAA potuingi kai kamburire mo omaappu wovandu avehe."
+  - "Kara nongengezero komambo nga “tjaera odementia”. Okuraisiwa kumwe, poo ozonomora ozombwa moappu, ka ku ri ouatjiri."
+  - "Golden Moments otjiṋa tjokunyanda uriri. Katji nokumunika ku novineya vyoutjise."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Ovinyandwa vyotjongo vi yenena okutjaera odementia?"
+    a: "Kape nouatjiri mbu mau raisa kutja omaappu wovinyandwa vyotjongo wokurandisa ye tjaera poo ye kuramisa odementia. National Institute on Aging mai tja kape nouatjiri mbwa yenene okuraisa kutja omaappu wokurandisa wotjongo ye notjiṋa tjimwe otja omarongerero womahongero nga raisiwa moruveze orunene rwokukonḓonona. Toorora omaappu mena ronyando nokutuurunga, ka mena romiti."
+  - q: "Oappu yodementia i kamburirwa mo i HIPAA?"
+    a: "Potuingi kako. HIPAA potuingi i ungurira kovayandje vouveruke, ozoplan zeuveruke novaundjapi vawo. Oappu ndji mo toora omuini potuingi kai kamburirwe mo, posi yokutja ya yandjwa i umwe wawo. Otjirango tja FTC tjokutjivisa omatjendje weuveruke tji kamburira mo omaappu omengi weuveruke ngu HIPAA hi na ku kamburira mo."
+  - q: "Otjinyandwa otjiwa tjodementia tji sokurira vi?"
+    a: "Oviperendero novisonekwa ovinene novipaturuke, otjiṋa tjimwe uriri otjipaturuke okutjita pokarere kese, nokuhina ovandu, ozonomora, ozombosiro zomapuko, oviyandjewa, nomuano omupupu wokuyaruka poo okuyaruka. Tji sokumunika otja tja ungurirwa ovandu ovanene nu tji rire otjipupu komundu warwe okutuurunga."
+  - q: "Golden Moments i munika kutja i vatera ozondunge?"
+    a: "Kako. Golden Moments i yandja oviṋa oviṱiṱi vyokunyanda pamwe mena ronyando nomahungiriro. Kai tjivisa, kai verukisa, kai tjaera nu kai varura odementia, nu katu nomambo ngu maye tja ovikwaye nozondunge."
+  - q: "Hi sokusuta oappu yodementia?"
+    a: "Rora ozongaro ozohere poo omarorero wohere rutenga, nu tara omomuano omundu me ritjindi moure wovivike vivari. Okusuta oappu kaku i tjiti kutja i ungure nawa. Tara omomuano wokuyarukisa komurungu yokurihandisa."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Ozostora zomaappu ze ura novinyandwa mbi vya tjangwa ovakurundu, ozondunge poo odementia. tjiva vya ungurwa nawa. Vyakwawo vi weza nomambo nge munika otja outjise, ozovandu nḓu maze tjiti onyando otja oruveze, poo oviyandjewa nomakongero wovina. Ombapira ndji mai ku pe omuano wokukonḓonona oappu aihe omuini. Katu sasaneka poo katu konḓonona oviungura vyarwe.
 
-## What should I decide before choosing a dementia app?
+## Hi sokutya tjike komurungu yokutoorora oappu yodementia?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Tya kutja mo vanga oappu i ungure tjike. “Otjinyandwa tja Mama” matji yenene okuheya oviṋa pekepeke, nu ondando ombwa kondando imwe potuingi kai ri ombwa kondando yarwe.
 
-| Goal | What it looks like | What to look for |
+| Ondando | Mai munika vi | Tara tjike |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Okunyandisa porwavyo | Okuwana ovipuka mbya sana, okutuurunga, omaraisiro omapupu, ovinyandwa vyomambo | Ondengu ndji mai rundururwa, oviperendero mbi mavi kara pomurungu, nokuhina ombangu |
+| Okuzemburuka | Oviperendero vyakuru, omambo nga tjiukwa, omizumbi vyoutumba wawo | Oviperendero vyoye omuini, omapuriro omapaturuke, nokuhina omapuriro woruveze |
+| Okuhuhumiṋa | Ovimunikise ovingarere, ombosiro ozohorokoto, okusuva, oupanga | Otjipupu okuuta nokuyaruka, kape notjiṋa tji matji yere, kape novihimise |
+| Okutuurunga | Okunyanda poo okuhungira pamwe, potjimaho poo movidio | Tja ungurirwa ovandu vevari, omapuriro womahungiriro |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Omakonḓononeno nge notjiṋa “okunyandisa otjongo” kovandu mbe nodementia potuingi ye kamburira mo ozombongarero zovandu mba hongwa, nomahungiriro, ovinyandwa vyomambo, omaraisiro, omizumbi noviungura vyokutunga. [Oruveze rwa Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) rwa muna ouwa ouṱiṱi moruveze rwakuharupu, nu wa runduruka pokati komakonḓononeno. Oprograma ndjo ndji notjiwana noviṋa pekepeke kai ri otja oappu yomundu erike, otji to vara oappu otja otjiṋa tjimwe tjokunyanda pamwe mokati kovingi.
 
-## How do I know if an app fits the person's abilities?
+## Me tjiwa vi kutja oappu mai yendere pamwe nouyara womundu?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Tara omomuano mu me ritjindi, nungwari o ha tara kotjivero tjoutjise poo kondengu. Ovandu vevari “pondengu imwe” mave yenene okupanguka tjinene momeho, omatwi, omaoko, eraka noupore noviraisiro. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) mai tunduuza okutjita kutja oviṋa mbya suverere morukapitaveze nouyara we ndino vi kare momazemburukiro, nokuyandja ombango konyando, ka kombatero.
 
-Signs of a good fit:
+Oviraisiro vyokutja vya yendera:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ma utu poo ma tuurunga nokuhina okuningira tjinene;
+- ma yere, ma tja otjiṋa poo ma serekarere ehungi;
+- omapuko kaye mu hihamisa;
+- ma kara nondjoroka okuyaruka indu oruveze tji rwa yenene.
 
-Signs it is a poor fit:
+Oviraisiro vyokutja kavi yendere:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- ma tja aruhe “Hi yenene” poo “Otjiṋa hi otjisengasenga”;
+- ma kereka kutja ma tono pi;
+- omaumba, ohoṋi poo okuundura otjiraisiro kokure;
+- tji ungura uriri tji mo ungura avihe.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Omahihamisiro omayuva otjiraisiro, ka otjiṋa tji mo sokupata. Tara [okutjita tjike indu tji ma tja kako](/caregiving/when-they-say-no/). Komazuviro weviungura pekepeke pendje nomaappu, tara oviungura vy[ondengu ondenga](/activities/early-stage/) novy[ondengu onḓiṱi](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Oviṋa vi vyomutungiro mbi hi sokupaha poo okuyanda?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Paha omutungiro omuhorokoto, omupupu nu mbwa ungurirwa ovandu ovanene, nu yanda atjihe tji matji eta ombangu.
 
-| Look for | Be wary of |
+| Paha | Kara nongengezero na |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Oviperendero novisonekwa ovinene, ombangu ndji mai munika nawa | Oviraisiro oviṱiṱi, ozokarere nḓa urisiwa |
+| Otjiungura tjimwe otjipaturuke pokarere kese | Ozombutona ozengi, omamenyu, poo omaraerero omengi |
+| Nokuhina ovandu, poo ovandu nḓu mo yenene okuzepa | Okuvara kokutja, ozondjambi zombangu, “toṋa oruveze roye” |
+| Nokuhina ozonomora, poo ombango ombwa ohorokoto | Ozonomora, omiinyo, ozomikoka, omasasanekero, “ombura yotjongo” |
+| Omapuko maye yandjwa porwavyo | Ozombosiro, ozonḓa ozoserandu, omambo nga “Wa posa” |
+| Oviperendero vyouatjiri vyovandu ovanene | Ovitjendje vyovanatje poo oviperendero vyomanyando |
+| Vi ungura nokuhina onet, kape notjiungurisiwa tji matji hepwa okuuta | Mo sokurihandisa, okuhita poo okutoora oviṋa rutenga |
+| Okuyaruka nokuyaruka otjipupu | Ozombapira nḓe ningira okuramba amave nyanda poo okutara oappu |
+| Nokuhina oviyandjewa, ondando ombwa yotjikando tjimwe poo yokurihandisa | Oviyandjewa, ovitjendje vyokuranda, omaningiriro wokuranda aruhe |
+| Otjipupu komundu warwe okutuurunga | Okunyanda omundu erike, omutungiro wokurwisa |
 
-Ads and purchase prompts are easy to tap by accident.
+Oviyandjewa nomaningiriro wokuranda mavi tonwa potjipuko.
 
-## How do I check an app's privacy?
+## Me konḓonona vi oupore woappu?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Tara kutja oappu i kongorera ovina vi, i vi haṋasana na une, nu kutja mo yenene okuviisapo. Komurungu yokutwa:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Lesa ombapira youpore mostora.** [Orupa rwoupore rwovina rwa Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) norupa rwovina rwoupore rwa App Store [orupa rwovina rwoupore](https://support.apple.com/en-us/102399) vi raisa omihoko vyovina oappu mbi mai yenene okukongorera nokuhana. Omakambani aevari maye tja ovatungi owo mbe yandja ombuze ndji, otji ri ombutiro uriri, ka oruveze rwokukonḓonona.
+2. **Pura kutja mai hepa otjiungurisiwa.** Indu oappu tji mai raisa oviperendero uriri poo ovinyandwa oviṱiṱi, mape ya kape notjiṋa tji matji i hepe okutjiwa ena roye, ombapira yozombuze poo eyuva rokukwatwa.
+3. **Tara omayandjero.** Otjinyandwa tjokuwana ovipuka mbya sana tjiri matji hepa oruveze, ovandu voye, ombosiro poo otjivaro atjihe tjoviperendero vyoye? Zepa atjihe tji hi na ku hepa.
+4. **Paha oviyandjewa nomakonḓononeno.** Oviungurisiwa vyoviyandjewa nokukongorera mavi yenene okuhinda ombuze yomomuano oappu mu mai ungurisiwa komakambani warwe.
+5. **Tjiwa kutja oviperendero mavi i pi.** Tji mo weza oviperendero vyeṱunḓu, vi kara motjiraisiro poo vi hindwa koserver? Mo yenene okuviisapo?
+6. **Tara okuisapo.** Paha motjirango tjoupore poo mombapira yovina omomuano wokuisapo ovina notjiungurisiwa. Oappu ndji mai tja ovina kavi yenene okuisapwa i hepa ongengezero, tjinenenene tji i noviperendero poo ombuze youtjise.
+7. **Lesa otjirango tjoupore** u mune omaziriro omapaturuke wokutja ku kongorerwa tjike, mena ratjike, oure woruveze uṋe, nu ku haṋasanwa na une.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA i yama ovina vyodementia momaappu?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Potuingi kako, nu otjiṋa hi tji himisa ovengi. U.S. Department of Health and Human Services [mai kahurura](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) kutja HIPAA i ungurira kozoplan zeuveruke, ovayandje vouveruke ovengi, ovayandje vomakondjero weuveruke novaundjapi vawo. Povikando ovingi kai yama ovina mbi mo twa moappu mena romeriyandjerero woye, posi yokutja otjira tjouveruke tji tja kamburirwa mo poo omuundjapi watjo wa yandja oappu. Oappu “yodementia” ndji ya za mostora yomaappu potuingi i ri pendje ya HIPAA, nandarire kutja mai hungire ouveruke.
 
-### What protects health data in apps that HIPAA does not cover?
+### Ovina vyouveruke vi yamwa i tjike momaappu ngu HIPAA hi na ku yama?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Otirango tja Federal Trade Commission tjokutjivisa omatjendje weuveruke tji kamburira mo ozengi. Mo 2024 FTC [ya manisa omarundurukiro](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ngu maye kahurura kutja otjirango hi tji ungurira komaappu weuveruke noviungurisiwa vyotjihorera mbya ha kamburirwa mo i HIPAA. “Otjendje” tji kamburira mo okuhaṋasana ku kwa ha yandjerwa, ka omatjendje wovakenge uriri, nu omakambani ye sokutjivisa ovandu mba ṱunwa na FTC. Otjo otjirwise kombunda yokutja otjiṋa tja tjitwa, ka omakwizikiro wokutja oappu i kongorera imbi uriri mbi mai hepa.
 
-## How should I read claims about research and evidence?
+## Hi sokulesa vi omambo nge notjiṋa nomakonḓononeno nouatjiri?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Lesa omambo wouatjiri porwavyo, nu kara nongengezero tjinene komakwizikiro omanene. Omapuriro okuripura:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Kwa konḓononwa tjike tjiri?** Okukonḓonona kweprograma imwe kaku raisa kutja otjinyandwa atjihe moappu tji ungura momuano umwe.
+- **Kwa konḓononwa une?** Oviṋa mbya munika movakurundu mbe nouveruke mavi yenene okuha yendera komundu ngu ri nodementia.
+- **Kwa varurwa tjike?** Okurira omuwa motjinyandwa otjo otjini tji panguka komarundurukiro mehupo eyuva arihe, momahungiriro, momuinyo poo momeriyandjerero.
+- **Okukonḓonona kwa ri nomasa vi?** Okukonḓonona okuraisiwa ku ku toororwa (RCT) ku sasaneka otjivaro tji matji ungurisa oappu notjivaro tji hi na ku i ungurisa. Otjo omutungiro omuwa, posi RCT imwe uriri onḓiṱi poo osupi kai ri ouatjiri. Paha omakonḓononeno omengi, wovakonḓonone mbe hi norupa, ngu maye zuvasana.
+- **Mai munika kutja mai rundurura outjise?** Okukonḓonona ku ku raisa omarundurukiro omaṱiṱi moruveze kaku ri ouatjiri wokutja oappu i kuramisa, i tjaera poo i verukisa odementia.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Ombapira ya National Institute on Aging [youveruke wotjongo novakurundu](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) mai kahurura okuraisiwa okunene kwa NIH kwehongero rotjongo, nu ai rundurura ovasere okutjevera omambo wokutja ovinyandwa tjiva vyokomputera novyonet vi yenena okuvandurura ozondunge nomeripura. Mai tja kape nouatjiri mbwa yenene okuraisa kutja omaappu wokurandisa wotjongo ye notjiṋa tjimwe otja ehongero nda raisiwa moruveze ndo. Mo yenene okulesa ovingi moruteto rwetu [rwovinyandwa vyotjongo nouatjiri](/brain-health/brain-games/) na [imbi omakonḓononeno mbi maye tja ohunga nokutjaera odementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Otjihorera tjimwe otjipaturuke tjembo ndi hi ri ouatjiri otjipi?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Mu January 2016, FTC [ya tjivisa omahanganeno](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) novatungi va Lumosity, oprograma “yokuhonga otjongo”. FTC ya muna kutja ekambani ra munika omambo, nokuhina ouatjiri mbwa yenene, wokutja ovinyandwa vyaro mavi yenene okukuramisa omapunguhiro wotjongo nge ya nombura nokuyama komapunguhiro omaṱiṱi wotjongo, odementia notjise tja Alzheimer. Ekambani ra itavera okusuta $2 million nu ri sokukara nouatjiri wosayensi mbu ri oviyara nu mbu mau kongorerwa komurungu yokutja omambo otja ingo moruyaveze. Otjiṋa hi otjizemburukise otjiwa tjokutja eraka roviyandjewa ka ri ouatjiri.
 
-### Which words are red flags?
+### Omambo yeṋe ngu maye ri oviyandjeze?
 
-Be cautious when an app or ad says it:
+Kara nongengezero indu oappu poo otjiyandjewa tji matji tja:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- “i tjaera,” “i yarura,” “i kuramisa” poo “i verukisa” odementia poo Alzheimer;
+- “ya raisiwa moruveze rwoutjise” nokuhina okutja ena rokukonḓonona, kutja mwa ri une, nokutja kwa varurwa tjike;
+- i yandja “ombura yotjongo” poo ozonomora zozondunge nḓu maze munika otja otjivero;
+- mai “paturura,” “tuna” poo “hongo” otjongo;
+- i ungurisa ouhatoi otja ouatjiri.
 
-If you are unsure about a claim, ask the person's doctor.
+Tji u hi nokukara nawa nembo, pura onganga yomundu ngo.
 
-## Where does Golden Moments fit?
+## Golden Moments i ri pi?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments i yandja oviṋa oviṱiṱi vyokunyanda pamwe, ka oruveze rwotjongo, omaverukisiro poo omaraerero woutjise. Ovinyandwa vyetu, otja [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) na [Calm Breathing](/games/calm-breathing/), vya ungurirwa onyando nomahungiriro. Kavi tjivisa, kavi verukisa, kavi tjaera nu kavi varura odementia, nu katu nomambo ngu maye tja ozondunge poo omaripura.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Wina tu ungura oappu ohere, [Golden Moments for iPhone, iPad and Android](/app/). I novinyandwa vyokuwana oviperendero mbya sana novitenda ovinene, ovinyandwa vyoviperendero vyeṱunḓu mbi mo toorora nu omipaketo vyoviperendero mbi vi ungura nokuhina onet, nokuhina otjiungurisiwa, oviyandjewa, ovandu poo ozonomora. Oruteto oruṋe ndu ru ungura: otjiyandjeze tjayo tjoupore mo App Store tji lesa “Data Not Collected”, nu [otjirango tjoupore twoappu](/app-privacy/) tji kahurura kutja ovitjendje vyoviperendero vi tuwa pi.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Tu vanga kutja u tu konḓonone pendje nokutukambura. Ungurisa oruteto ndu ri kombapira ndji, lesa [ombapira yetu youpore](/privacy/) [nombapira yetu yomeriyandjerero woutjise](/medical-disclaimer/), nu yaruka okuungurisa atjihe, nandarire tjimuna ihi tjetu, tji tji hi nokuyendera komundu ngu mo tjevere.
 
-## What is a sensible way to try a new app?
+## Omuano uṋe omuwa wokurora oappu ombe?
 
-Try it together for a couple of weeks and watch what happens.
+I rora pamwe moure wovivike vivari nu tara kutja pe tjitwa tjike.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **I rongerisa rutenga** amu ungurisa [omuhunga wetu wokurongerisa otableta nongodi](/caregiving/tablets-and-screens/), nu uta pondengu ndji ri omipupu tjinene.
+2. **Kara nozoruveze ozosupi,** tara omayere, omahungiriro nouhorokoto, nu yaruka poruveze oruwa.
+3. **I esa indu tji mai eta omaumba,** nandarire kutja ya varwa nawa vi.

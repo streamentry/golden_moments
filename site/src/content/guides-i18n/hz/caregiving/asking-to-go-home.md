@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Omundu ngu ma hupu n’otjindjumba tja pura okutaura konganda"
+seoTitle: "Otjindjumba tji tja pura okutaura: Ove mo tja vi"
+description: "Omena ratjike omundu ngu ma hupu n’otjindjumba tje mu pura okutaura konganda nandarire tje ri ponganda, oviṋa mbi mo hungire, oviungura vyokuvatera, nokukara mondjeverero."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Omundu ngu ma hupu n’otjindjumba tja pura okutaura konganda, omambo nga “konganda”
+  potuingi maye hee ongaro yokuvanga okukara mondjeverero poo oruveze orukuru,
+  nungwari ka yotjivaka. O tira okupatasana kutja eye u ri ponganda. Yakura
+  ongaro ndje ri mu yo, mu tjiukisa kutja u ri mondjeverero, mu pura ohunga
+  nonganda, nu tjita oupore okutaura koviperendero, komizumbi, kotjokurya,
+  okukaenda poo kotjiungura otjipupu. Tara kutja kena ondjara, onyuṋe, okutaura
+  kotjiyandero tjovandu, poo omihihamo. Tji tja uta tjimanga, isana onganga ye.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "“Me vanga okutaura konganda” potuingi maku hee “Hi nokuvanga okukara mondjeverero poo me vanga okuṱuna”, nungwari ka kombapira yotjirongo."
+  - "Okupatasana poo okuraisa kutja eye u ri ponganda potuingi ku tjita kutja omuinyo u rire omuzeu tjinene. Zira kongaro ndje ri mu yo."
+  - "Mu ningira ma serekarere ohunga nonganda, nu mu yandja oviperendero, omizumbi, otjokurya, okukaenda poo otjiungura otjipupu."
+  - "Tara kutja pe notjiṋa tji matji yenene okutunwa: ondjara, onyuṋe, okutaura kotjiyandero tjovandu, omihihamo, oupyu poo ombepera tjinene, ombosiro, ourumbu."
+  - "Tji tji tjitwa ape omutenya auhe, mape ya tji ri otjindjumba tjokomaundiro; ondunge ndji ri tjimwe nouyeze ouwa mavi yenene okuvatera."
+  - "Rongerisa ondjeverero tje rora okuza mondjuwo, nu isana onganga ye tji pe notjiṋa tji tja runduruka tjimanga."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Omena ratjike mama ngu ma hupu n’otjindjumba tje mu pura aruhe okutaura konganda nandarire tje ri ponganda?"
+    a: "Otjindjumba matji tjiti kutja ozondjuwo nḓe ri momutima ze kare otjipuka otjipe, novandu tjiva mave munu aayo ve ri moruveze orukuru mehupo rawo. “Konganda” mape ya a ku hee ondjuwo youṱiṱi poo ongaro yokuvanga okukara mondjeverero nokumuna ouwa. Okuzira kongaro ndjo potuingi ku ungura nawa okukapita okumutjaera kutja u ri pi."
+  - q: "Hi nokutja vi indu tja pura okutaura konganda?"
+    a: "Rora okutja “Ove u ri mondjeverero muno, nu ami me kara puna ove,” nu okuzambo “Ndji serekarera ohunga nonganda yoye.” Puratena, mu raisa otjiperendero poo mu imburira otjizumbi, nu mu ningire omanwe poo okukaenda ouṱiṱi. Rira okutja “Ove u ri ponganda” otjomambo wokuronga, mena rokutja maye mu tjiti a mune kutja wa tja wa posa."
+  - q: "Ouwa okumutjaera kutja matu kaenda konganda kombunda?"
+    a: "Omazumo novitongore vyovandu mbe hupa n’otjindjumba kave hitasana mouṱiṱi. Ovengi ve uta nokuhuhumiṋa nokumuvatera nomuano omupore, nu ve ungurisa omambo nge he ri ouatjiri indu ouatjiri tji mau mu hihamisa uriri nu eye ke nokuyenena okuzuva na wo. Kainatja kutja mo toorora tjike, kara nomutima omuwa nu u rire omuṱakame, nu o nyekerere omuano mbwe ripura."
+  - q: "Nu tje rora okuza mondjuwo?"
+    a: "Kara noupore nu kaenda puna ye pendje nokumutjaera; okukaenda ouṱiṱi potuingi ku tjita kutja ondando ndjo i ṱune. Rongerisa ondjeverero komurungu woruveze, otjotjihorera otjiraisiro tjena re nonomora yoye yongodi, ombosiro pozombundi nondjivisiro ndja ningwa oupe. Tje zengi, uta okupaha tjimanga, nu isana 10111 tji u hiya mu muna mozominute 15, nu tja kutja omundu ngo ma hupu n’otjindjumba."
+  - q: "Me sokuisana onganga ruṋe?"
+    a: "Isana onganga ye tjimanga omapuriro poo omahwangatwangatweno tji ya uta tjimanga poo tji ya ririra omavi tjinene moure womahora poo omayuva, tjinene tji pe nombindu, omiti omipe poo oviraisiro vyombandukiro yomeva womomundu. Omahwangatwangatweno nge ya tjimanga mape ya ye hepa ombatero yotjimanga. Isana 10111 tji pe nomundu ngu ri mozombanguriro."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+“Me vanga okutaura konganda.” Kozomazumo ozengi ihi otjiṋa otjizeu okuzuva, tjinene indu omundu ngu mo rikendere tje haama mondjuwo ye omuini. Oviṋa mbi vi tjitwa potuingi, nu mavi yenene okutjitwa moruveze ngamwa aruhe rwotjindjumba, nu pe nomiano omipore vyokuzira. Ombapira ndji mai hungire kutja omambo nga potuingi maye hee tjike, oviṋa mbi mo hungire, oviungura mbi mavi yenene okuvatera moruveze ndwo, nokukara mondjeverero.
 
-## Why does someone with dementia keep asking to go home?
+## Omena ratjike omundu ngu ma hupu n’otjindjumba tje mu pura aruhe okutaura konganda?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Potuingi, “konganda” ongaro okukapita oruveze. Alzheimer's Society i tja i ri ongaro yokumuna ouwa nondjeverero, poo ondjuwo ndja ri ko rukuru, nungwari ka yondjuwo ndjo oveni. Otjindjumba matji tjiti kutja ozondjuwo nḓa zikamisiwa ze kare otjipuka otjipe, nomundu ma yenene okumuna kutja u ri moruveze orukuru mehupo re, indu onganda tji ya ri ondjuwo youṱiṱi poo oruveze pu va kurisa ovanatje vawo.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Omambo nga wina maye raisa kutja pe notjiṋa tjarwe tji tji he ri nawa nai: eye u nondjara, onyuṋe, ma hepa okutaura kotjiyandero tjovandu, u nomihihamo, u noupyu poo nombepera tjinene, wa rumbuka, u ri erike, wa tira, poo wa hwangatwangwa i yombosiro. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) i tjaera omihihamo, ombosiro, okukara erike, omarundurukiro mondunge yomeyuva nomiti otjoviṋa mbi mavi eta omahwangatwangatweno.
 
-## What should I say when they ask to go home?
+## Hi nokutja vi indu tja pura okutaura konganda?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Zira kongaro ndje ri mu yo, nungwari ka komambo uriri. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i tunduuza kutja o kondjisa okumutjaera kutja wa posa: ongaro ze ozatjiri ku ye, otji wa sokuuta nokumuhuhumiṋa nokumuṱakamisa, nu okuzambo tjita oupore okumuvatera.
 
-Phrases that often help:
+Omambo nge vatera potuingi:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Tja ongaro ndje ri mu yo.** “Mbi zuu kutja mo zemburuka onganda.”
+- **Mu huhumiṋa.** “Ove u ri mondjeverero muno, nu ami me kara puna ove.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) i tunduuza omambo omapupu nga “Ove u ri mondjeverero muno.”
+- **Mu ningira ozondjivisiro.** “Ndji serekarera ohunga nonganda yoye. Otjizero tjoye aatji munika vi?” Okumupura ohunga noruveze orukuru potuingi ku kara noupore okukapita omapuriro ohunga neyuva ndi.
+- **Mu ningira mu tjite otjiṋa pamwe.** “Ngatu nwe otjitee rutenga,” poo “Mo yenene okundjivatera nozombanda nda?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Eraka ewa nokukambura kokuoko, tje nonyuṋe yokutunwa, mavi yenene okutja ovingi okukapita omambo.
 
-## What should I avoid?
+## Oviṋa mbi hi nokutjita vi?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Okupatasana poo okuzuva nawa.** “Ove u tura muno nai” poo “Ondjuwo ndji ya ri oyoye oure wozombura 40” ku mu ningira a yakure otjiṋa otjindjumba tji tji tjita kutje rire otjizeu okuyakura, nu mape ya a mune kutja wa tja wa posa.
+- **Okumupura omapuriro omengi.** “Ko nakuzemburuka?” poo “Otirongo tji ri pi?” ku weza ombundu.
+- **Okutjaera ombundi nomazenge.** Tje utu okuza, kara noupore nu kaenda puna ye. Okukaenda ouṱiṱi pamwe potuingi ku tjita kutja ondando ndjo i ṱune.
+- **Okukaendesisa tjimanga.** Mu pa oruveze a hungire ohunga nonganda ngunda au hiya rundurura ehungi.
 
-## Activities that can help in the moment
+## Oviungura mbi mavi yenene okuvatera moruveze ndwo
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Kombunda yokuyakura ongaro ndje ri mu yo, otjiungura otjipore tji tji zikamisiwa matji yenene okutjita kutja omuinyo u ṱune nokuhina okumunyona.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Tarera oviperendero vyonganda neṱunḓu.** Yarura omapandje nu tjita omambo omapupu (“Tara ehombo ndo”) pendje nokumupura omapuriro. Mongodimbura poo motjirongo tji tji raisa oviperendero, [Photo pairs](/games/photo-pairs/) i tjita oviperendero vyoye vyeṱunḓu otjotjizuvano otjipore, nu oviperendero vi kara motjirongo tjoye.
+2. **Hungira ohunga nonganda.** [Conversation cards](/games/conversation-cards/) ze yandja omapuriro omapaturuke ohunga nozondjuwo, ovizero, ovakwao novitjitwa vyomayuva omanene, nokuhina eziriro ndi ri mondyo.
+3. **Imburira omizumbi mbya suvera.** National Institute on Aging i tjaera omizumbi omipore otjomuano wokuvatera omahwangatwangatweno. Tara [oviungura vyomizumbi](/activities/music/) vyetu.
+4. **Yandja otjokurya poo omanwe.** Ondjara nonyuṋe mavi yenene okumunika otja omahwangatwangatweno. Otjitee poo otjokurya tji tja suverwa wina otjiṋa otjiṱiṱi tji tji zemburukisa onganda.
+5. **Kaenda poo haama pendje.** Okunyunguta nouyeze vi vatera, tjinene omuhuka weyuva.
+6. **Mu pa otjiungura tji tja zikamisiwa.** Okupeta ozombanda, okutwa oviṋa vyokurya poo okuteka omeva kovihape mavi yenene okuzemburukisa ongaro yokutjevera onganda.
+7. **Tjita avihe noupore.** Zepa otjiraisiro tjoviperendero, sesa ombosiro nouyeze ouṱiṱi, nu rora [okusuva oupore](/games/calm-breathing/) pamwe.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Omuano umwe tji u hi nokuvatera, rora omukwao kombunda. Okuhaama pamwe noupore wina otjiṋa otjiwa.
 
-## Check for a cause you can fix
+## Tara kutja pe nombango ndji mo yenene okutuna
 
-| Check | What to try |
+| Tara | Oviṋa mbi mo yenene okutjita |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Ondjara poo onyuṋe | Yandja omanwe notjokurya otjiṱiṱi |
+| Ma hepa okutaura kotjiyandero tjovandu | Mu ningira a kaende noupore nokuhina okupata |
+| Omihihamo poo okuhina okumuna ouwa | Tara oviraisiro otja okuhinya, okukambura korutu poo okuhina okutaura nawa, nu raera onganga ye |
+| Oupyu poo ombepera tjinene | Rundurura ombanda poo ongaro yondjuwo |
+| Ombosiro poo ovandu ovengi | Twaura kondjuwo ndji noupore, zepa otjiraisiro tjoviperendero |
+| Ourumbu poo okuhwangatwangwa | Suva, tjita kutja ondjuwo i kare nozondorera, imburira omizumbi omipore |
+| Ape omutenya | Tara orupa rwomaundiro kehi mbo |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society i tunduuza okutjanga ouṱiṱi kutja omapuriro nga ye ya ruṋe, otjotjihorera komurungu wokurya, kombunda yovaenda, poo omaundiro tji ye ya. Omiano mbi ye vatera okurongerisa komurungu.
 
-## Is it okay to tell a white lie?
+## Ouwa okutja otjiṋa tji tji he ri ouatjiri uriri?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Ihi otjihungiriro otjinanḓengu, nu omaṱunḓu omawa ye kara nomaziriro pekepeke. Alzheimer's Society i tja kape neziriro rimwe uriri ndi ri mondyo: omambo nge he ri ouatjiri mape ya ye tjiti kutja ovandu tjiva ve kare nozongendo, otji toorora imbi mbi ri oviwa komundu ngo nu u rire omuṱakame. Penn Memory Center, omunane omutjavari u muna kutja ouatjiri owo omuano omunene, nu omambo omapupise nge he ri ouatjiri ye yakurwa uriri indu omundu tje hi nokuyenena okuzuva nouatjiri mbwo, nu ko soku nyekerera omuano mbwe ripura.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Ovengi mbe rikendere ve muna omuano wokati mbu ungura: okuhuhumiṋa nouatjiri nokuvatera rutenga (“Matu kara muno ouṱuku mbwi, nu ami mbi ri puna ove”), nokuhina okupatasana kutja onganda i ri pi.
 
-## What if it happens every afternoon or evening?
+## Nu tji tji tjitwa ape omutenya auhe poo ongurova?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Omahwangatwangatweno nge uta poo nge ririra omavi ape omutenya potuingi ye tjiukwa otja omaundiro. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) i tunduuza ondunge ndji ri tjimwe, ouyeze weyuva noviungura eyuva arihe, okusuva okuṱiṱi kombunda yomutenya, nokuhina okunywa otjikofi poo omavinu ongurova. Okuṱurisa ozonyutji ngunda omaundiro aye hiye ya wina mape ya a ku vatere. Ehungiro retu ohunga [noviungura vyokusuva ape omutenya](/caregiving/late-day-restlessness/) ri na ovingi.
 
-## Keeping them safe if they try to leave
+## Okukara mondjeverero tje rora okuza mondjuwo
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Okupura okutaura konganda mape ya aku eta okukaenda nokuhina okuyandjera. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) i varura kutja ovandu hamboumwe movandu hambondatu mbe hupa n’otjindjumba mave kaenda nokuzengi rukwao rumwe.
 
-**Prepare ahead:**
+**Rongerisa komurungu woruveze:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Otjiraisiro tja kongongo poo otjouveruke tji tji nena re nonomora yoye yongodi, nozondjivisiro mozombanda ze. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) i tjaera ehungiro ra MedicAlert na Alzheimer's Association Safe and Found, ndi mari yenene okutjitisa ovimariva.
+- Ombosiro yombundi poo ondjivisiro, nozombundi nḓa pata kombanda poo kehi. O pata omundu ngwaerike mondjuwo.
+- Ondjivisiro yomurungu ndja ningwa oupe, noruteto rworuveze ku ma yenene okutaura, otjotjihorera ondjuwo yavo onakuru poo oruveze rwoviungura.
+- Raera ovakwao mu mu lineekera, nu ve pa onomora yoye yongodi.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Tje zengi:** uta okupaha tjimanga; Alzheimer's Association i tja ovengi ve munika moure wozomaero 1.5. Tji u hiya mu muna mozominute 15, isana 10111 nu tja kutja omundu ngo ma hupu n’otjindjumba. Isana 10111 tjimanga tji pe nomundu ngu ri mozombanguriro.
 
-## When should I call a doctor?
+## Me sokuisana onganga ruṋe?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Isana onganga ye tjimanga omapuriro poo omahwangatwangatweno tji ya uta tjimanga, poo tji ya ririra omavi tjinene moure womahora poo omayuva. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i tja omarundurukiro nge ya tjimanga poo nge runduruka hakahana, tjinene kombunda yombandukiro poo omarundurukiro womiti, ye sokutarewa tjimanga. Omahwangatwangatweno nge ya tjimanga mape ya ye ri otjindjumba tji tji hepa ombatero yotjimanga; [NHS](https://www.nhs.uk/symptoms/confusion/) i tja ombandukiro yomeva womomundu otjombango ndji tjitwa potuingi movandu ovanene.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Wina otjiwa okuraera ohunga nomuano mbu ri po moruveze oruyave rwokukaryangera onganga, mena rokutja omihihamo, ongaro yomuinyo ombi, ouzeu wokurara poo oviṋa mbi za momiti avihe mavi yenene okukara norupa.
