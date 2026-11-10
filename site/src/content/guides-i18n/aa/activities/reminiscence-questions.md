@@ -1,32 +1,33 @@
 ---
-title: "Su'aalaha Yaadiinta ee Dementia Qabiyah Ummatah, Furay"
-seoTitle: "Su'aalaha Yaadiinta ee Dementia: Furay, Imtihaan Ma'aa"
-description: "Su'aalaha yaadiinta ee dementia qabiyah ummatah mahhaysa, mawduu'een: Gurri, shaqo, kaabe, codka iyo ayyaanta. Ergi furay, ufaanaysa dhaqanka ajiyah."
+title: "Dementia Le Marah Duma Yaaba Esseroora, Fakkinta"
+seoTitle: "Dementia Le Marah Duma Yaab Esseroora: Fakkinta"
+description: "Dementia le marah duma yaaba esseroora: buxa, taama, maaqo, gaari kee ayyanta wadir fakki-iyya le yaaba, walal qaxmeeni luk raaqisiyyah."
 section: activities
 order: 27
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Su'aalaha yaadiinta ummatah ajiyah ta dhaqankiisa furay ah ta'a: "Ii sheeg gurrin ka dhalanaysay," ma'aa "Ta'ahayta gurrin yaadatta?" Mawduu'een
-  dabarre su'aalah kaccee, ummatah kaaxan kaay, kaa'in gabay gumuddaadha
-  dhaqankeem caro saqa. Jawaab sax ah ma'aa hinkallatin ka qab, imtihaan ma'aa.
-  Gurri, shaqo, kaabe, codka, ayyaanta iyo ayaanta mahhaysa ta'ahahaynaah
-  dhaqan furay.
+  Duma yaaba esseroora num duma wadir yaabak qaxmeeni le fakki-iyyat
+  yaabiyyah dooqaysak: "Atu kaxxa tekke buxak yoh waris," ma-ittina "Atu
+  gaba raaqe dagan kassittaa?" Kaa dooqaysak gaaboytah esseroora essera, kay
+  gita kataata, esseroorak xinto gexsit yaallay dooqaysita. Makoo essero
+  m-esserina, num mafattisina. Buxa, taama, maaqo, gaari, ayyanta kee buxah
+  mara kinnim dooqaysiyyah meqe dooqaytu teceela.
 keyPoints:
-  - "Ergi ergi furay, sirrin 'Ii sheeg...' ma'aa 'Maxaa ahaa...', dablaggah eeyyo ma'aa laa'ee ta'ahayta sax ma'aa dhoobe ta'a."
-  - "Imtihaan ma'aa 'Yaadattaa?' ma'aa 'Kanne waa?' mahhaysa. Kuwaa imtihaan kaay, dhib maxaa qabsaah."
-  - "Ummatah sheeg kaaxan kaay, sirrin dhaqankiisa beddelanaysa ma'aa. Dareenka iyo ayaanta fada kaay, hadal sax maxaa ta'a."
-  - "Su'aal ta'ah kaay, sooyaan sawarah ka yaqqa, sawirah, urri ma'aa heeso ta'a."
-  - "Yaadiinta dhibaa ma'aa ummatah dhahaysa, kaaxan xaraar sirrin sacaa, hinkallatin dhaqankaa mahhaysa."
+  - "Fakki-iyyat esseroora essera, 'Yoh waris...' hinnay 'Manna yekke...', 'Yeey' hinnay 'Malee' axcuk yaabeeni kaxxam wayuk."
+  - "'Kassittaa?' hinnay 'Ta num miyya?' axcuk fattishah essero m-esserina. Usun fattishah innah yablinnaanih gibda abaanam xiqta."
+  - "Numuk warro kataata, xinto xissinta way tekkeh kobox. Kaa garab yan xali kee xinto numuk meqem."
+  - "Tiik tiyattah essero esser, boola, sunsukuyyah sumaq hinnay gaarit yaaba fakiyyah gexsa."
+  - "Wadire kassiit gibda leeh num gaba raaqek, walal xinto salaamatik korsisaay meqe caalatah gaxa."
 faq:
-  - q: "Su'aalaha yaadiinta dementia qabiyah ummatah maxaa?"
-    a: "Ergi furay ta'a: 'Ii sheeg gurrin kaa dhalanaysay,' 'Maxaa kaa ta'ah kaabe?' 'Codka ta'ah ayyaanta ta'ahay?' ma'aa 'Ayyaanta cillikh ta'ah maxaa ahaa?' Kuwaa sheeg bil'ah, jawaab sax ta'a maxaa."
-  - q: "Yaadiinta iyo imtihaanta ayaa maxaa dhabiyah?"
-    a: "Yaadiinta dhaqan dhaqankeem ta'a, jawaab dhoobe maxaa ta'a. Imtihaan jawaab gaar ah kaay, ta'ah kaay. Imtihaan ummatah sheeg ta'a, sirrin hinkallatin ta'a; hadal furay ta'a."
-  - q: "Ummatah yaadiinta mahhaysa dhoobe ta'a ta'ah ma'aa?"
-    a: "Xalaq kaay, dhib ma'aa nabsi ta'a ta'a. Taariikh ma'aa magacaa sax ma'aa ma'aa. Dareenka ma'aa ayaanta iyo sheegi ta'aa."
-  - q: "Yaadiinta bahar ah ta'ah maxaa?"
-    a: "Tobbah iyo soddom daqiiqah kaay. Ummatah dadis ta'a ma'aa, hinkallatin ma'aa ta'a, sirrin hoy."
+  - q: "Dementia le marah meqe duma yaaba esserooray duma kassiisa tu kinnii?"
+    a: "Fakki-iyyat yaaba esseroora kaxxam tayse: 'Atu kaxxa tekke baaxok yoh waris,' 'Maay maaqo yabxeenim kicintan tine?' 'Mannal gaarih orba teceen?' hinnay 'Atu kaxxa makkottah ayro mannal ten?' Ta esseroora numuk warro kalteh essertam kinnuk cakkik esseram hinna."
+  - q: "Duma yaaba wadir kassit kee fattisha esseroorak baxsa tu kinnii?"
+    a: "Duma yaaba wadir kassit koboxuy mako waytek gexsit leey numuk garab yabalo kinnim. Fattishah essero cakkik baxte numuk kassiisaay fattisa. Fattisha abaanam numut qibaadaay gibda luk abtam kinnik, walal fakki-iyyat kee qaxmeenit hayisa."
+  - q: "Numuk duma wadir kassiit garqad le num tekkeh tekkek manna?"
+    a: "Kaa gita kataata, gibda luk abta waytek hinnay aala luk tekkek kalah. Ayroora hinnay migooq masassaqina. Ta caalatak mannal gabbataanah tineem hinnay woo ayro usun mannal yablin dooqaytik essera."
+  - q: "Duma yaaba wadir walal mannak gexissaamah taaxago?"
+    a: "Tamanak taban kee tabantaman daqiiqa gacta, dagan tekkek meqem. Num dacarek, gibda luk tekkeh hinnay faxe kalek, solsaay xayi gari numut meqe gexsit abta wakte gila."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -42,82 +43,82 @@ related: [activities/reminiscence, activities/music, activities/trivia, activiti
 health: false
 ---
 
-Yaadiinta waa dhaqan ta'ahay ummatah gurri, ceelah, kaabe, heeso, ayyaan iyo gurri dhaqankeem. Dementia qabiyah ummatah kaay, dhaqankaa gurri hadal ah dhaqan ajiyah. Ta'ahay: sheeg kaay ummatah sheeg ta'a, imtihaan ma'aa. Su'aalaha mawduu'een kaa, dhaqankeem tusaale ta'a.
+Duma yaaba wadir kassit kinnim duma wadir ittat yaabaama: kaxxa yekkene buxa, dooqaysite taama, kicnih yan maaqo, gaari, arooca kee ayyanta. Dementia luk yani marah, sinam teetik manol meqe qaxmeenit yaabtam ayroh meqe kutbeh tiya kinnim teceela. Kaxxa mayso kinnim warro kalta gital esseraay duma kassiit mafattisina. Ta esseroora gaaboytah xissinte, mannal taamissaanamal kas-le gita luk.
 
-## Qawaaniin su'aalaha yaadiinta
+## Duma yaaba esseroorah caddo kee gita
 
-- **Su'aal furay ergi.** "Ii sheeg..." iyo "Maxaa ahaa..." sheeg kaaxan ta'a. "Yaadattaa?" jawaab sax kaa.
-- **Imtihaan ma'aa.** "Kanne waa?", "Sanad maxaa ahaa?" iyo "Magaca ... yaadattaa?" ma'aa.
-- **Wixi kasta aqbal.** Sheeg beddelan ma'aa, meel kaxaan ma'aa, ayaanta fada.
-- **Su'aal keeli sirrin.** Sug, dhegayso, su'aal sahal ah kaay.
-- **Ummatah hogaan.** Sheeg kale ta'ah, ummatah kaay.
+- **Fakki-iyyat esseroora essera.** "Yoh waris..." kee "Manna yekke..." warro kalta. "Kassittaa...?" axcem cakkik makoo gexsit essertam kinnuk m-axcina.
+- **Mafattisina.** "Ta num miyya?", "Woo ayro maay sanata?" kee "Migac kassittaa...?" axce waytaanam dacrisa.
+- **Yemeetem gabbata.** Warro korsintek hinnay baaxooxa maki-iyya leeh gactek, dooqaysitaay mannal yablin yaaba essera.
+- **Tiik tiyattah essero essera.** Qaagita, ankacisaay salfa le esserot xinta.
+- **Num gita kataata.** Kalah yan caddoh yaaboonu faxeenik, ken gita kataata.
 
-[Hay'adda Dhalasho ee Ajiyah ee Maraykan](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) waxaa ka iska caabbi hadal gaaban, codka nabsi ah, iyo sabr ummatah erayga helo. Qawaaniinkaas meel kasta waa muhiim.
+[National Institute on Aging's guidance on communicating](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) xaloot yaabak qilsa waytam, deqsitta qango, kee num yaaba geeya fan xabbi haytam kassissa. Ta caddoora kalah innah tayse meqe gita.
 
-## Guri iyo gurri
+## Buxa kee kaxxale
 
-- Ii sheeg gurigii aad ka dhalatay. Gacanka maxaa ahaa?
-- Gurri dhigga maxaa jeclaysay markii aad yartay?
-- Ayaa kula ciyaari jirtay baradhka?
-- Qolkaagu maxaa ahaa? Ma la wadaagtay qof?
+- Atu kaxxa tekke buxak yoh waris. Kuxna manna tekke?
+- Atu kaxxa makkottah ayro dibuk maay abtam kicinte tine?
+- Sin daqaarak atu luk dooqaysite mara miyya tineeni?
+- Ku diinettah buxa manna tekke? Tiyak num luk garabaytin tineenii?
 
-## Shaqo iyo hawl
+## Taama kee taamiteenim
 
-- Shaqo noocee ah ayaad ugu jeclaysay?
-- Ii sheeg maalin shaqo oo aad ku faanisay.
-- Gacmahaaga maxaad samayn jirtay ama aad dayn jirtay?
-- Yaa shaqadaada kugu baray badan?
+- Mannah tan taama kaxxam kicintan tine?
+- Ku taamah ayroy atu qibnaytah leet tekkeemik yoh waris.
+- Ku gabat maay bicissam hinnay sassarisam kicintan tine?
+- Taamah gital kaxxam ko barseem miyya?
 
-## Cunto iyo karin
+## Maaqo kee maaqo abtiiy
 
-- Qoyskaagu Axadda maxaa cunayay?
-- Ii sheeg cunto qof qoyskaaga ah si wanaagsan u sameeyay.
-- Markii aad yartay, meel gaar ah ma jirtay oo aad ka helaysay macmaan?
-- Urtaas guriga ayaa xusuusin?
+- Sin buxah mara Axad ayro maay akun tineenii?
+- Sin buxah num meqem bicise maaqok yoh waris.
+- Atu kaxxa makkottah meqe xinto kataysisa dacisitte baaxo liton tineenii?
+- Maay sunsukuyya koo buxa kassissaa?
 
-Hadalka cuntada wuxuu si fiican ula socdaa [dhaqannada dareenka](/activities/sensory/), iyo yar oo dhadhan ah haddii ay ammaan tahay.
+Maaqo yaab [sensory activities](/activities/sensory/) xissiyyah meqem teceela, dagan caxle tamaam meqem tekkeh gacsit yaallek.
 
-## Heeso iyo ciyaar
+## Gaari kee orba
 
-- Heesaha markii aad yartay ayaad ku heesi jirtay ama ku baradhi jirtay?
-- Heesaa ama kooxda aad ugu jeclaysay ayaa kuwee ahaa?
-- Muusikada halkee ayaad ka maqli jirtay waagaas: guriga, xafladaha, kaniisadda?
+- Atu derre caxle wakte maay gaari celtaanam hinnay orba teceenim?
+- Kicintan gaariyta hinnay gaarih kobox miyya tineeni?
+- Woo wakte gaari elle taabben baaxo maay ten: buxal, orbal, hinnay masaagidil?
 
-Liiska heesaha iyo fikradaha muusikada, eeg [dhaqannada muusikada ee dementia qabiyah ummatah](/activities/music/).
+Gaarih playlist kee kas-leeh, [music activities for people with dementia](/activities/music/) akkala.
 
-## Ayaan iyo xafladaha
+## Ayyanta kee farax ayroora
 
-- Ayaantii aad ugu jeclayd markii aad koreysay?
-- Ii sheeg xaflad dhalashada aad xasuusato.
-- Qoyska fiidkii xagaaga maxaa sameeyay?
-- Qoyskaagu sidee ayuu u dabaaldegi jiray xilliyada sannadka?
+- Atu kaxxa tekke wakte ku kicnih tan ayyantu maay ten?
+- Kassiisan mawlud ayrok yoh waris.
+- Buxah mara carra ayro maay abak sugen?
+- Sin buxah mara ayyanta mannal daabisak sugen?
 
-Fikradaha ayaanta gaarka ah, eeg [dhaqannada ayaanta ee qof dementia qabiyah](/activities/holidays/).
+Ayyantah gexsiyyah meqe kas-leeh, [holiday activities for someone with dementia](/activities/holidays/) akkala.
 
-## Qoys iyo saaxiibo
+## Buxah mara kee kataysis
 
-- Ii sheeg qofka ugu badan ee kaa qosliyay.
-- Maalinta arooskaaga sidee ahayd?
-- Ii sheeg carruurtaada markii ay yaryihiin.
-- Saaxiibbadaa magacaa ku yeeri jiray?
+- Koo kaxxam usuulisa numuk yoh waris.
+- Ku arooca ayro manna tekke?
+- Kaxxa makkottah ku xaylo mannal sugteemik yoh waris.
+- Ku kataysis mannal ko seecak sugen?
 
-Su'aalaha qoyska si tartiib ah u weydii. Haddii ummatahu uu qof dhintay u baroorayo, hogaan u raac oo ha ka dhigin inuu xusuusto faahfaahin dhibaato leh.
+Buxah marah esseroora salaamatik essera. Num gacsi-iyya litoh tekkek, ken gita kataataay ken gibiddaaha kassiit mafattisina.
 
-## Meelaha iyo dabiiciga
+## Baaxooxa kee ugut
 
-- Ii sheeg meel aad ka fakarto oo aad jeceshahay.
-- Cimilada meeshii aad ka dhalatay sidee ahayd?
-- Beer ama geed gaar ah ayaa kaa jiray?
-- Ii sheeg safar aad ku farxday.
+- Atu kaxxam kassitam kicintan baaxok yoh waris.
+- Atu kaxxa tekke baaxol caagid manna tekke?
+- Atu masno liton tineenii, hinnay kicnih tan caxa?
+- Atu dooqaysitte safarak yoh waris.
 
-## Sawirrada iyo alaabta
+## Boola kee aala xintoosa dooqaysiyya
 
-Sawirku waa bilow dabiici ah. Sawir ku hay indhaha heerkiisa oo dheh, "Ii sheeg tan." [Hay'adda Alzheimer ee Maraykan ee tilmaamaha dhaqannada](https://www.alz.org/help-support/caregiving/daily-care/activities) waxay soo jeedinaysaa in alaabta caadiga ah, sawirrada iyo muusikada loo isticmaalo hadal bilaabid. Sanduuq xusuusin oo leh alaabo yar oo ka tirsan nolosha ummatahu wuu shaqeeyaa; sida loo diyaariyo, eeg [dhaqannada yaadiinta](/activities/reminiscence/).
+Boola qaxmeeni fakiyyah meqe doori kinnim teceela. Boola inti caddol haysitaay, "Taamih caagidak yoh waris," ixxica. [Alzheimer's Association's guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities) aala, boola kee gaarit dooqaysak walal fakiyyah meqe gita kinnim kassissa. Numuk manoh aalat tan sanduuqa dooqaysiyyah meqem teceela; mannal xissaanam yabliyyah [reminiscence activities](/activities/reminiscence/) akkala.
 
-## Haddii xasuusta ay xanuun tahay
+## Kassiit gibda le waqdi
 
-Xasuusqaar qaarkood murugo, cabsi ama cadho ayay keenaan. Haddii ummatahu uu cadhoobo, ha riixin. Waxaad dheh, "Taasi waa waqti adag oo ahayd. Ma rabtaa inaan wax farxad leh ka hadalno?" Kadibna mawduuca beddel, shaax shaah kuu soo qaad, ama heeso uu jecel yahay shid.
+Gari kassiit kobox gibda, meesi hinnay naqab bahtam xiqta. Num gaba raaqek, magibdinina. Qaxmeenit axcuk, "Woo wakte koo gibda luk sugtem celta. Meqe caagidak yaabnu kiccintaa?" ixxica. Woo wakte walal korsisa, shaahi ceeya, hinnay kicnih tan gaari fakisa.
 
-## Ku dar ciyaar ama socod
+## Dooqaytuh hinnay gexsitih kobox hayisiyya
 
-Kadib kulan yaadiinta, ciyaar tartiib ah ayaa farxadda iska dhigi karta. Isku day [kaardhada wada hadalka](/games/conversation-cards/) su'aalo furay ah, ama [dhamaystir erayada](/games/finish-the-saying/) erayada caadiga ah ee carruurtiisa. Talooyinka wada hadalka guud ahaan, eeg [talooyinka wada hadalka ee qof dementia qabiyah](/caregiving/communication-tips/).
+Duma yaaba kassiit lakal, salfa le dooqaytu farax raaqissam xiqta. Fakki-iyyat dooqaysiyyah [conversation cards](/games/conversation-cards/) dooqaysita, hinnay duma kassitooh [finish the saying](/games/finish-the-saying/) aakuma. Yaaba gexsiyyah kobox le gita yabliyyah, [communication tips for someone with dementia](/caregiving/communication-tips/) akkala.

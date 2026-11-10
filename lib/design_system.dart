@@ -109,9 +109,9 @@ TextTheme _gmTextTheme(Color onSurface) {
     titleLarge: display(24, 1.3), // title-lg
     titleMedium: style(20, FontWeight.w700, 1.35), // title-md
     titleSmall: style(18, FontWeight.w700, 1.35), // title-sm
-    bodyLarge: style(20, FontWeight.w400, 1.4), // body-lg: default reading
-    bodyMedium: style(18, FontWeight.w400, 1.4), // body-md
-    bodySmall: style(16, FontWeight.w400, 1.4), // body-sm: the floor
+    bodyLarge: style(20, FontWeight.w400, 1.5), // body-lg: default reading
+    bodyMedium: style(18, FontWeight.w400, 1.5), // body-md
+    bodySmall: style(16, FontWeight.w400, 1.5), // body-sm: the floor
     labelLarge: style(20, FontWeight.w700, 1.2), // label-lg: buttons
     labelMedium: style(18, FontWeight.w700, 1.2), // label-md: chips, nav
     labelSmall: style(16, FontWeight.w700, 1.2), // label-sm: badges

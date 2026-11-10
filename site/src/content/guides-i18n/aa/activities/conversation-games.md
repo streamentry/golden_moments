@@ -1,33 +1,32 @@
 ---
-title: "Dhaga-gaalo iyo Ciyaaro Hadal Dementia Qabaniinta"
-seoTitle: "20 Su'aalood iyo Ciyaaro Hadal Dementia-ta"
-description: "Dhaga-gaalo iyo ciyaaro hadal dementia qabaniinta. Nin-kun ogaanshiyuu ta'a, ma jirto dhibcaha, waqti-tirka, ama imtixaan."
+title: "Kas Dagomtu Le Marah 20 Essero Kee Walalo Dabal"
+seoTitle: "20 Essero Kee Walalo Dabal Kas Dagomtu Le Marah"
+description: "Kas dagomtu le marah 20 essero kee walalo dabal, numuk iima meqe yab akke kal, daraja malii kee saqatah kalih dabal."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Dhaga-gaalo wuxuu ciyaar nabad leh oo wada hadal ta'uu kartaa markuu nin-kun
-  ogaanshiyuu ta'a jawaabta. Wuu ka fakkiraa wax, adiinu su'aalo eeh ama maa
-  ah ku weydiisaa, ma jirto imtixaan. Ciyaaro hadal kale, kaasoo "Kan ama kan"
-  iyo "Maxay ka doorbiddaa?" ku jiraan, isla sidaas bay u shaqeeyaan: waxay
-  aragti iyo sheeko kugu dhiirrigeliyaan, macluumaad ma'aha. Wareegyada gaabi,
-  nin-kun ha ka tegeyo markuu doonayo, tirinta su'aalaha ha tirin.
+  20 essero meqe dabal akke duuda num usuk gaba-kallac yaabita wakti.
+  Usuk hebelto caagid kasit yaaba, atu yeey-hinna essertaa, num mayessera.
+  Gari walaloh dabalu, «Tanna hido Toh» kee «Maha doortaa?» innah, ta taamatah
+  gexsit le: usun hebelto numuk kas kee taariikh gacan, numuk iima meqe kal.
+  Dabalah gide dagoyisa, numuk gaba calo oggola, esseroh gide mayadidin.
 keyPoints:
-  - "Nin-kun ha fakkiro shayga ama xayawaanka, si uu u ahaado ogaanshiyaha. Adiga su'aalaha ku weydiiso, isna eeh ama maa jawaab."
-  - "Ogolow inuu ka tago, qo'lo ama calaamad ku caawiyo. Dhibcaha ha hayn, su'aalaha intee le'eg ahaayeen ha tirin."
-  - "Shayga maalinta-maalinta ka soo jeeda hadhaaga nin-kun ee jacaylka leh, sida cunto uu jecel yahay, qalab ama meel."
-  - "Su'aalaha doorashada, sida 'Ma doorbiddaa...?' ama 'Kan noocee ayaad ugu jeceshahay?', jawaab qalad ma leh."
-  - "Ciyaarta joogso markuu nin-kun dareen ka qabo. Laba ama saddex wareeg way ku filan yihiin."
+  - "Num hebelto caagid hido baacalo yabtaamal kasit yaaboh oggola, usuk aamine num akku. Atu essero essertaa, usun yeey hido hinna iyyan."
+  - "Tohuk taturem, calaamat hido gaba giclo oggola. Num mayessera, esseroh gide maxasbina."
+  - "Numuk manok maaqo, hebelto taamâ qokol hido meqe baaxo innah tan caagid doora."
+  - "Kasih essero, «Tamaam doortaa hido tohmey...?» innah tanim, uma gaba malit."
+  - "Num fantaaxaw kalek dabal xisa. Namma hido sidooca tabsa gactam fayu le."
 faq:
-  - q: "Dhaga-gaalo ma wanaagsan yahay dementia qabaniinta?"
-    a: "Wuu wanaagsan karaa, markuu nin-kun jawaabta fakkiro oo aan qofna la imtixaamin. Haddii loo isticmaalo sida imtixaan, oo hooyo ama aabbe macluumaad xasuusto ku weydiiso, wuxuu dareen imtixaan keeni karaa. Xeerarka fureen oo diiran ha ahaadeen."
-  - q: "Nin-kun maxay ka fakkiri karaa dhaga-gaalo?"
-    a: "Waxyaabo fudud oo la yaqaan ayaa ugu fiican: midho, xayawaan, qalab, nooc ubax, alaab guri ama meel uu si fiican u yaqaan. Fikrado aan la taaban karin, magacyada dadka iyo waxyaabo murug keeni kara ka fogaada."
-  - q: "Haddii nin-kun eeh ama maa ku jawaabi kari waayo, maxaa la sameeyaa?"
-    a: "Calaamado isticmaal, sida gacan sare ama hoos, ama sawir kaarka ku tilmaam. Waxaad sidoo kale si hadal ah isugu mala-awaal, isna madax ku jeedi, dhoolla-caddeyn ama hal eray ku jawaab."
-  - q: "Ciyaaro hadal kale oo dadka weynaha dementia qabaa ayaa jira?"
-    a: "Haa. 'Kan ama kan' wuxuu weydiinayaa midka ka jecel yahay laba shay. 'Maxay ka doorbiddaa' aragti ayuu weydiinayaa. Kaarar ciyaar oo su'aalo furan leh, sida kaararka wada-hadalka ee Golden Moments, sheeko ku saabsan nolosha maalinlaha ah ayay kugu dhiirrigelinayaan."
+  - q: "20 essero kas dagomtu le marah meqee?"
+    a: "Meqem akke duuda, num usuk gaba-kallac yaabita wakti, num mayessera. Kaa esseroh dabal fan gactek, dacrissam numuk kas hebelto caagid maaxago celta, iimaan gactam faxximta. Dabalih caagid sissik kee kaxxa qokolit xisa."
+  - q: "Num 20 esserol mahak yaabitam duuda?"
+    a: "Koboxu meqem: maaqo, baacalo, taamâ qokol, ubuklu, daboh addah cindam, hido meqe baaxo. Kas ceytam, maray manô migaq kee rooxi daggoytam doora bayisa."
+  - q: "Num yeey hido hinna iyaam duudee kalek mahay?"
+    a: "Gaba giclo, amo cugguqo, hido kártah sawra waraaga cula. Qangara kaxxa yabak acayuk, usuk amo cugguqiyyah hido musleninnah gaba acayu duuda."
+  - q: "Kas dagomtu le kaxxa marah gari walaloh dabalu yanii?"
+    a: "Yeey. «Tanna hido Toh» namma caagidak miyya doortam essera. «Maha doortaa?» kasih yab faxa. Golden Moments walaloh kárta innah tan kártah dabal, manô taariikh kee yab gacissa."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,53 +45,51 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Qoysas badan waxay doonayaan ciyaar ay wada ciyaaraan oo la mid ah wada-hadal, ma aha imtixaan. Dhaga-gaalo iyo ciyaaro male-rarka ah oo kale way wanaagsan karaan, sababtoo ah xeerarkoodu fudud yihiin, hadalkuna meel kasta u gudbi karo. Furaha waa in door-isbeddelka caadiga ah la rogo: nin-kun jawaabta ayuu fakkiraa, adna waad weydiisaa. Boggan waxa lagu sharxayaa sida ciyaaraha noocan ah si nabad leh loogu ciyaaro, iyo ciyaaraha wada-hadalka ee ku habboon dadka dementia qabaa.
+Mangoh tan buxah mari ittat dabal xisaanam faxa, toh walalo kinnimih caalatat, iimaan kinniimih caalatat hinna. 20 essero kee tama dabal innah tanim meqennal gexsit duuda, caagid sissik kinniimih sabbatah kee walalo hebelto fantaaxaw culaamih gideh. Meqe gurral gexsiyaanam: atu dacrisaa num usuk gaba-kallac yaabita, atu essertaa. Ta kaxxa waraaqat dabal meqennal elle xisan gurra kee kas dagomtu le marah meqe walaloh dabalu baxxaqissa.
 
-## Maxaad u beddeshaa xeerarka caadiga ah?
+## Macah caagid gannik qellisan?
 
-Imtixaan caadi ah, mid su'aalaa oo kan kale jawaabta yaqaana. Taasi waxay keentaa in nin dementia qabo uu halis ku jiro inuu qaldo, qaladkuna wuu niyad jabin karaa. Markuu shayga iyo jawaabta uu dooranayo, adna aad male-awaasho, wuxuu noqonayaa ogaanshiye. Jawaabta ayuu gacanta ku hayaa, waxaana isagu go'aaminayaa goorta uu eeh ama maa yidhaahdo, wuuna ku farxi karaa inuu kugu arko markaad isku daydid.
+Kobox esserol, inki num essera, aka num aaganam faxximta. Toh kas dagomtu le numuk duude-waa caagid culsa, duude-waam numuk rooxi radissa. Usuk hebelto caagid doorak atu esseriyyah gactek, usuk aamine num akku wayta. Usuk gaba-kallac le, yeey hido hinna iyaam usuk doora, atu essertam yabaliiluk gaba cina.
 
-[Guddiga Da'da ee Mareykanka](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) wuxuu la talinayaa daryeelayaasha inay isticmaalaan jumlado gaaban oo fudud, su'aal mid mar keliya, iyo hab deggan oo samir leh. Dabeecadahaas waxay si fiican ugu habboonyihiin ciyaaraha male-rarka.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) dacrisaa marah sissik qangaraat, inki essero inki wakti, kee sabri le awwalah yab xisaanamih qokol yacee. Ta meqe taama dabalih gexsoh kaxxam meqe.
 
-## Sida dhaga-gaalo loogu ciyaaro si nabad leh
+## 20 essero meqe gurral elle dabalitan inna
 
-1. **Mawduuc dooro** oo ka soo jeeda nolosha nin-kun, sida guriga cuntada, beerta, xayawaanka ama xeebta.
-2. **Ha fakkiro wax** oo si hoose ula hadal, ama sawir kaar tus si aadan u baahnayn inaad maqasho.
-3. **Mar mid kaliya su'aal eeh ama maa ah weydii.** "Ma wax cunto baa?" "Ma waa weyn yahay sidii kabo?"
-4. **Jawaab kasta aqbal.** Madax ku jeedin, madax ku jeedin dhinac, ama qosol, dhammaantood way tirtiraan.
-5. **Qiyaas dhawaaq ah sameey** oo ku raaxayso. Haddii saxda ku dhacdo, wada farxa.
-6. **Caawimo sii** markuu nin-kun ku xiranaado: "Waa wax ku jira guriga cuntada."
-7. **Su'aalaha ha tirin** oo dhibic ha hayn.
+1. Numuk manok **koboxu hebelto tema doora**, daboh adda, coox, baacalo, hido badah gari innah tanim.
+2. **Usuk hebelto caagid yaaboh oggola** kaadu sissiknah yaabu, hido sawrah kárta uybullu atu aaganam faxxiimuu kal.
+3. **Inki wakti inki yeey-hinna essero essera.** «Toh yabaloona maaqoo?» «Kopoh daguk kaxxa?»
+4. **Hebelto gacsa oggola.** Amo cugguqo, amo waynam, hido muslenin inkih meqe.
+5. **Essero kaxxa qangarat acaya** kaadu walaloh fantaaxawa. Gacsak garaytek, ittat fantaaxawa.
+6. Num caagid gexsu wek **qokol acaya**: «Toh daboh addal tanim.»
+7. **Esseroh gide mamadin** kaadu daraja hebelto wakti mahasin.
 
-Haddii nin-kun xeerarka raaci waayo, nooc fudud isticmaal: waxyaabo yar ku magacow, isna midka saxda ah ku tilmaamo.
+Num caagid taamisaam duudee kalek, sissik gurral gexa: atu gari caagid migaq acaya, usuk meqe sawrat gaba cula.
 
-## Waxyaabo wanaagsan oo la doorto
+## Dooritah meqe caagid
 
-- Midho, khudaar ama ubax uu jecel yahay
-- Xayawaan beerta, xayawaanka xaynka ama xayawaan uu lahaa
-- Qalab, sida gartoon, gacanmaaj ama usha ilaaqada
-- Alaab guri ama shay gurigu leeyahay
-- Meel uu si fiican u yaqaan, sida beer ama magaalo
-- Dharka uu jeclaan jiray inuu xidho
+- Kaxxam kicnon maaqo, caxâ mixo, hido ubuklu
+- Buxah baacalo, caxâ baacalo, hido usun daanisak sugen baacalo
+- Taamâ qokol, martello, fariid, hido karbaabu innah tanim
+- Daboh addah cindam hido firaash
+- Meqennal yaaginen baaxo, parki hido magaala innah tanim
+- Qaxsa kicnon sara
 
-Ka fogow magacyada dadka, waxyaabo murug keeni kara, iyo shay khatar ah ama si fudud loo khaldi karo.
+Maray manô migaq, numuk rooxi radisa caagid, kee qawwalaytu le hido kas ceyta hebelto caagidak xada.
 
-## Ciyaaro hadal dheeraad ah
+## Gari walaloh dabalu
 
-- **Kan ama kan.** Laba doorasho soo teey oo weydii midka uu doorbido: shaah ama qaxwo, buur ama badda, dhar casaan ah ama mid buluug ah. Jawaab saxda ah ma jirto.
-- **Maxay ka doorbiddaa.** Su'aal fudud oo nolol ah weydii: "Ma doorbiddaa jiifka beerta ama cunto guriga?"
-- **Erayga dhammaystir.** Odhaah caan ah oo dhamaadkeeda laga tago. Tus [ciyaaraha erayga dhammaystirka](/activities/finish-the-saying/) si aad hage u hesho.
-- **Magaca meeluhu.** Ka codso inuu sharxo qol, magaalo ama muuqaal uu jecel yahay, adna ku martiqaad inaad sidoo kale sawirto.
-- **Kaararka su'aalaha furan.** [Kaararka wada-hadalka](/games/conversation-cards/) waxay siiyaan su'aalo furan oo mawduucyo kala duwan ku saabsan, oo miiska lagu daabici karo.
+- **Tanna hido Toh.** Namma caagid uybulluk miyya doortam essera: shaahi hido bun, qaleela hido bada, qasa sara hido buluu sara. Duude-waa gacsa aytik mali.
+- **Maha doortaa.** Sissik, meqe essero essera: «Buxak daran maaqo takmeenim doortaa hido koboxal?»
+- **Kasit gacsa.** Kaxxam yaaginen qangara gaba kaluk xisa. Ku qokoluh meqe [finish-the-saying games](/activities/finish-the-saying/) dabal wagit.
+- **Baaxô migaq acaya.** Kicnon dabo, magaala hido meqe wagitto yabaloona essera, atu sawrat tublem innah.
+- **Kártah yab dabal.** Ni [conversation cards](/games/conversation-cards/) koboxul kártah yab yacee, xamullal xisan waraaqata.
 
-Fikrado dheeraad ah oo xasuusta iyo sheeko nolosha ku salaysan, eeg [su'aalaha xasuusta](/activities/reminiscence-questions/). Qosol nabad leh oo qaab imtixaan leh, eeg [xog-ogaal fudud oo dadka dementia qabaa](/activities/trivia/), kaasoo doorasho isticmaasha oo dhibic lagu tirinayn.
+Kasaak yab kee manô taariikh faxxa hawaluk, [reminiscence questions](/activities/reminiscence-questions/) wagit. Meqe gurral kobox esserol fantaaxaw faxxek, doorit leeh daraja male [easy trivia for seniors with dementia](/activities/trivia/) wagit.
 
-## Haddii nin-kun cadhoodo?
+## Numuk rooxi raddek mahay?
 
-Jooji, soo jeedi, oo odhon wax sida, "Aan ciyaar kale ciyaarno." Cadhada waa calaamad lagu beddelo ciyaarta, ma aha mid lagu xoogeeyo. [Hagaha sida loo ciyaaro nin dementia qabo](/caregiving/how-to-play-together/) wuxuu sharxayaa sida xeerarka dhexdooda loo beddelo.
+Sol, musle kaadu «Aka dabal fan gexna» ixxic. Rooxi radam dabal korsaamih calaamata, num kaxxam qasbaamih hinna. Ni gaba-kallac [how to play games with someone who has dementia](/caregiving/how-to-play-together/) dabalih gide korsaamih meqe gurra baxxaqisa.
 
-## Waxa ciyaaraha ka qaban karaan iyo waxa aysan qaban karin
+## Dabalu dumaam kee duude-waam
 
-Ciyaaraha wada-hadalka waa kuwo farxad leh oo bulsho ah. Waxay caawin karaan in dadku isku xidhaan oo sheekooyin wadaago. Ma daweeyaan dementia, ma gaabiyaan, ma hortagaan. Ujeedada ku hay si fudud: wakhti diiran oo wada yeelashada.
-
----
+Walaloh dabalu fantaaxaw kee kobox le taama. Num ittat cuggaawu kee manô taariikh ittat acayu duuda. Ta dabalu kas dagomtu ma-urisa, ma-dagoyisa hido ma-waassa. Kaxxa faan meqennal xisa: meqe wakti ittat gexsa.

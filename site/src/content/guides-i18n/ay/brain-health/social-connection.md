@@ -1,32 +1,32 @@
 ---
-title: "Jaqichasiña ukat amuyu wali: Sapakiña ukat demencia"
-seoTitle: "Sapakiña, jaqichasiña ukat demencia chika"
-description: "Sapakiña ukat jaqichasiña demencia chikanti kunjamas yatiyasi, Estados Unidos ukan kamachi yatiyañapa ukat jaqinakampi sarañ sasa sapa lurañanakas."
+title: "Mayacht'asiña, sapaki kankaña ukat demencia"
+seoTitle: "Sapaki kankaña ukat demencia jan walt'awi"
+description: "Kunjamsa sapaki kankaña ukat jaqinakat jan mayacht'asiña demencia jan walt'awi ukampi mayjt'atäpxi, Cirujano General ukan qillqatapa ukat sapa lurawinaka chiqpach mayacht'asiñataki."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Yatiñanakax jaya marana sapakiña ukat jaqichasiña demencia chikanti uñjapxi. 2024 Lancet Commission
-  yatiyañapax sapakiñax kunayman 5% demencia uñjatanakan utjaspa sasaw amuyi, ukampisa sapakiñ
-  demencia qalltañat jaqinakax jaqinakat jaytapxañapa. Jaqinakampi sarañax, ch'iqa ch'iqa jaqinakampi
-  lurañax ukat arst'añax jaqichasiñ yanapt'apxi. Demencia jaqinakatakix, jaqinakampi lurañax
-  kusisiñ ukat jakañ askiñ yanapt'apxi.
+  Qhipa mara jakañanxa sapaki kankaña ukat jaqinakat jan mayacht'asiña demencia jan walt'awi ukampi mayjt'atäpxi.
+  2024 Lancet Comisión ukax sapaki kankañax kasta 5% casos ukan utjatap amuyi, ukampis jupanakan mayacht'asiñapa
+  mä chiqankapax demencia qalltat jaqinakax jaqinakat aljasiñapawa. Jaqinakampi sartaña, sapa lurawinaka ukat
+  jiskhi uñjañ yanapt'aña ukanakax mayacht'asiñ yanapt'apxi. Demencia ukampi jakirinakatakix, chiqpach lurawinakax
+  kusisiñataki ukat jakañ allin sarnaqañataki wali waljaniwa.
 keyPoints:
-  - "Lancet Commission yatiyañapax jaya marana sapakiñ 14 jan walt'äwi demencia chikanakat, kunayman 5% uñjatanakan utjaspa."
-  - "Estados Unidos ukan Surgeon General kamachi 2023 maranx, jaya marana sapakiña ukat jaqichasiña, markan 50% sipansa jach'a demencia chikanti sasaw yatiyi."
-  - "Yatiñanakax akham uñjañ ukat jan jak'achasiñapa, sapakiñ qalltañax demencia uñjatanakax jaqinakat jaytañ utji."
-  - "Ñanqha ukat qhana jan uñjañanakax, sapaki jakañax ukat yanapirinakan lurañax sapakiñ chikanti."
-  - "Demencia jaqinakatakix, kusisiñ lurañanakax jakañ askiñ yanapt'apxi; amtax jaqichasiñawa, jan chiqpach lurañ mayjt'aña."
+  - "Lancet Comisión ukax qhipa mara jakañan jan sapaki mayacht'asiñ 14 jan walt'awi demencia ukan mä ukawa uñt'ayi, kasta 5% casos ukan utjatap amuyi."
+  - "Estados Unidos ukan Cirujano General ukax 2023 qillqatapan sapaki kankaña ukat aljasiña ukax qhipa mara jaqinakan demencia ukan jan walt'awi 50% sipansa juk'a juk'a sipan jukhutaw utjañapa uñt'ayi."
+  - "Aka yatiqäwinaka ukax uñjañanakampi amuyasiñawa, ukat qalltat demencia ukax jaqi jaljañatakix mayisiñ utjaspawa."
+  - "Uñjaña ukat qhathañ ukat sapaki jakaña, yanapt'aña ukanakax aljasiñ jan walt'awi ukar jaqsuwayi."
+  - "Demencia ukampi jakirinakatakix, kusisiñ lurawinaka jakañ allin sarnaqañ yanapt'apxi; amtañax mayacht'asiñawa, mä chiqpach lurawiwa."
 faq:
-  - q: "Sapakiñax demencia uñjañapatakiw?"
-    a: "Janiw chiqpach yatiñ utjkiti. Yatiñanakax sapakiñ ukat jaqichasiñ demencia chikanti uñjapxi, ukampisa amuyu uñjatanakax jaqinakat jaytañapatakiw utji. Jaqichasiñax kusisiñ ukat jakañ askiñ yanapt'añ utji, ukatsa yanapt'apxam."
-  - q: "Sapakiña ukat jaqichasiña kunjamas mayjt'ataspa?"
-    a: "Jaqichasiña sasax, jaqinakampi chika sarañax jaqinakampi arsutanakax jani utjañapawa. Sapakiña sasax, sapakiñ llakisiñax, jaqinakat jaytata jakañapawa. Sapakiñ jakañax janiw sapakiñ llakisiñ utjkiti; jaqinakamp k'ankhar jakañax sapakiñ llakisiñ utjaspawa."
-  - q: "Kunjamas awkix utjañ munaski, demencia uñjatawa, jaqichasiñ yanapt'añ?"
-    a: "Mayni mayni, sapa phaxsi chiqar sarañax askiwa. Sapa phaxsi chiqar llamaña, video llamaña, mesan sarañ, jaqinakampi lurañ, qhana jaqinakampi jakañ jan ukax wawanakampi sarañax yanapt'añapa. Jaqinakax jan jach'a jach'a jaqinakaw uñjañapa, jaqi sapakiñ thakhi churañapa."
-  - q: "Chiqpach jaqinakampi yanapt'añ sapakiñ jakirinakatakix kawkans sapxitan?"
-    a: "Eldercare Locator, Estados Unidos ukan utawa, chiqpach awkinakan ukat mara jaqinakatakix yanapt'añ utji. Aka utax markaman chiqpach yanapa utanakampi arsuñanakasa, eldercare.acl.gov uñjañamawa."
+  - q: "¿Sapaki kankañax demencia utjañapa?"
+    a: "Akax janiw chiqpachjamäkiti. Yatiqirinakax sapaki kankaña ukat aljasiña jan walt'awi demencia ukampi mayjt'atäpxi, ukampis mä qalltat uñjañanakax jaqinakat aljasiñ mayisipxi. Mayacht'asiñax qamir amuyt'awinakatak ukat hacienda utjatakix wali allinwa, ukatwa jiwasan yanapt'añasa."
+  - q: "¿Kunas sapaki kankaña ukat aljasiña chiqan mayjt'añaxa?"
+    a: "Aljasiñax mä juk'a jaqinakampi sarnaqañ ukawa. Sapaki kankañax jaqi aljasitap, jupa sapaki qhiparu sarnaqañ amuyuwa. Mä jaqix sapaki jakasa jan sapaki kankañ utjaspa, ukat mä jaqix jaqinakamp chika utjasa sapaki kankañ utjaspa."
+  - q: "¿Kunjamsa yanapt'ä demencia ukampi jakiri awkiru mayacht'asiñataki?"
+    a: "Juk'a, sapa uru mayacht'asiñax allinwa. Mä jani sapa semana mä llamawi jan ukax video llamawi, uta manqhan mä chiqpach lurawi, mä memoria café jan ukax wawampi jan ukax uywampi mayacht'asiña ukanakax yanapt'apxi. Jaqinakax juk'a ukat isi uñt'ayaña, ukat jaqi uñjata sarnaqañ thakhi ukar churañapa."
+  - q: "¿Kawkirsa jiskhi yanapt'a qhiparu jaqi awkinakataki jikxatasiñ?"
+    a: "Eldercare Locator, Estados Unidos ukan jaqi kastañ lurañ sarnaqäwi, familianakar awkinakan agencias ukat comunidad yanapt'awinakar mayacht'asi. Llamawi 800-677-1116 jan ukax eldercare.acl.gov ukanwa mayisiñ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-Jaqinakax jaqinakampi jakañatakiw luratäpxi, ukax jaya mara ukax janiw mayjt'askiti. Yatiñanakax jaya marana sapakiñ ukat jaqichasiñ demencia chikanti uñjapxi, ukhamarak ch'ukiña ukat amuyu llakinakan chikanti. Yatiñanakax janiw sañ munapxiti kunjamas mayni mayni chikanakas utji. Aka qillqatax jaqinakampi jakañ yanapt'awinakaw uñjaraki, ukhamarak demencia jaqinakatakix jaqichasiñ kunatsa wali sasa.
+Jaqinakax mayacht'asiñataki luratawa, ukat edad juk'amp jak'achasiñ ukanx janiw mayjt'ayatäkiti. Qhipa mara jakañanxa sapaki kankaña ukat jaqinakat aljasiña, jan walt'awi demencia ukampi mayjt'atäpxi, sapüru ukhamarak jan wali chuymampi ukat deprimido ukampi. Yatiqäwinakax janiw ukax kunjamasa mayisiñ utjki ukat kunjamasa jan walt'awi ukat mayacht'asiñ ukanakan utjki uk uñt'añax. Aka uraqpachanx sasa sapa lurawinak, qhipa mara jakañanxa mayacht'asiña, ukat kunsa demencia ukampi jakirinakatakix mayacht'asiñ yanapt'apxi uk yatiyañawa.
 
-## Sapakiñ ukat jaqichasiña demencia chikanti?
+## ¿Sapaki kankaña ukat aljasiña demencia ukampi mayjt'atäpxiti?
 
-Jiwasax uñjapxi, ukampisa chiqapar amuyañax janiw sipansa jan yatiñanakaw utji. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) yatiyi, jaya marana sapakiñax 14 walt'äwi demencia chikanakat utjaspa. [UCL yatiyañapa](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) sasaw, aka chikax kunayman 5% demencia uñjatanakan utjaspa.
+Jiwasax uñjapxi, ukampis jan sapa mayjt'äwiwa. [Lancet Comisión 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ukax qhipa mara jakañan sapaki mayacht'asiñ 14 jan walt'awi demencia ukan mä ukawa uñt'ayi. [UCL ukan qillqatap uñt'äwi](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ukax kasta 5% demencia casos ukan utjatap amuyi.
 
-Yatiñanakax akham uñjapxi:
+Yatiqäwinakax akanakwa uñt'ayi:
 
-- **Jan jaqinakampi sarañax, jach'a chikanti.** Lancet Commission yatiyañapax, jan mayni mayni jaqinakampi sarañax demencia chikanti sasaw yatiyi. Mayni yatiñax 57% jach'a chika uñjaraki, mayni yatiñax 18% sasaw uñjarakiwa.
-- **Sapakiñax jani.** Sapakiñ llakisiñax, sapaki jakañax ukat jaqinakat jaytata uñjatax, mayni yatiñanakan demencia chikanti uñjatawa.
-- **Estados Unidos kamachi.** 2023 maranx Estados Unidos Surgeon General [yatiyañ](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) qillqt'ataw. Yatiyañapax, jaya marana sapakiñ ukat jaqichasiñax, markan 50% jach'a demencia chikanti sasaw sañ. Ukhamarak, jan askinaka jaqichasiñax 29% jach'a sawu chikanti, 32% jach'a usuchjañ chikanti sasaw yatiyi.
-- **Kunayman utjañapa.** [Estados Unidos yatiyañapa](https://www.ncbi.nlm.nih.gov/books/NBK557972/) sasaw, 65 maranakan sipansa jaqinakan 24% sapakiñ jakapxi.
+- **Juk'a mayacht'asiña, jan walt'awi juk'ampi.** Comisión ukax paqallq yatiqäwi qhanañapxi, ukanakax juk'a juk'a jaqinakamp mayacht'asiña demencia jan walt'awi juk'ampi mayjt'atäpxi. Mä ukanx kasta 57% juk'ampi, mä ukanx kasta 18% juk'ampi.
+- **Sapaki kankañas.** Sapaki kankaña, jupa jaqinakat t'aqisiñ amuyu, paqallq yatiqäwinakan jan walt'awi demencia ukampi mayjt'atäpxi.
+- **Cirujano General ukan amuyu.** 2023 mara mayisa, Estados Unidos ukan Cirujano General ukax [sapaki kankaña ukat aljasiña qillqatap](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) qillqäna. Ukanx sapaki kankaña ukat aljasiña jaya jakañanxa, qhipa mara jaqinakan demencia jan walt'awi kasta 50% juk'amp jukhutaw utjañapa uñt'ayi. Ukhamarak jan wali mayacht'asiña ukax corazón jan walt'awi kasta 29% ukat stroke jan walt'awi kasta 32% juk'amp jukhutaw utjañapa uñt'ayi.
+- **Kunjamsa juk'at utjañapa.** [Academias Nacionales ukan qillqatapax](https://www.ncbi.nlm.nih.gov/books/NBK557972/) uñt'ayi, Estados Unidos ukan 65 maranïr jaqinakan kasta 24% sapaki kankañ utjaspa.
 
-Yatiñanakan amuyt'añ: Lancet Commission sasaw, jaqinakax demencia uñjatäxi, jan yatiñ utjkäna qalltaña mara ukanakan jaqichasiñat jaytapxi. Ukatwa, mayni chikax demencia jaqinakat jaytañapatak utjaspa, janiw jaqinakat jaytañax demencia chikarakiti. Yatiñanakan sipansa wali, jan ch'ukiñ yatiñanakaw utji.
+Mä jisk'a amuyt'awi: Lancet Comisión ukax uñt'ayi, jaqinakax demencia qalltat, jan uñt'atäkaspa, sapa lurawinakat qhipantapxi. Ukhamasti mä chiqankapax demencia ukax jaqi aljasiñ utjaspa, janiw jaqinakat aljasiña ukax demencia utjayañkiti. Aka yatiqäwinakax ukat, uñjañanakat yatiqatawa.
 
-## Sapakiña ukat jaqichasiña kunasa?
+## ¿Kunas sapaki kankaña ukat aljasiña chiqan mayjt'añaxa?
 
-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) yatiyañapax akham sasaw amuyt'ayi. **Sapakiñ** sasax, jaqinakampi sarañ pisi utjañapawa. **Sapakiña** sasax, jaqinakat jaytata llakisiñ utjañapawa. Jaqinakax sapakiñ kusisipxi, ukampisa jaqinakampi kuna lurañax jani kusisiñ utjañapatak.
+[Nacional Instituto del Envejecimiento (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) ukax akham uñt'ayi. **Aljasiña** ukax jaqinakamp juk'a mayacht'asiñ utjañapa. **Sapaki kankaña** ukax sapaki jakañ ukat jaqinakat t'aqisiñ amuyu. Mä jaqix sapaki jakasa kusisiñ utjaspa, mä jaqix jaqinakamp chika utjasa sapaki kankaña utjaspa.
 
-NIA yatiyañapax, uka lurañanakax sapakiñ ukat jaqichasiñ chikanti:
+NIA ukax akanakwa jan walt'awinak uñt'ayi, ukanakax sapaki kankaña ukat aljasiña utjañ yanapt'apxi:
 
-- Ñanqha ukat qhana jan uñjañ
-- Sarañ jan atipxañ, jan ukax movilidad jan utjañ
-- Sapaki jakañ, jan ukax jaqi jiwañ ukat jubilación ukhama jach'a jaytañanaka
-- Amuyu jan wali sarañ jan ukax amuyu jan askiñanaka
-- Kunayman jan askiñ jaqi yanapt'añ
-- Qullqi llakisiñ ukat arsuñ jan atipxañ
+- Uñjaña jan ukax qhathañ jan wali
+- Sarnaqaña jan ukax khithiw sarañ jan utjaña
+- Sapaki jakaña, jan ukax jaqi jiwaña jan ukax jubilación ukhamaraki jaqi jaljañ
+- Amuyu jan ukax yatiña ukan mayjt'äwinaka
+- Jan wali jaqi jaljaña
+- Qullqi jan ukax arun jan ukat arunak yatiña
 
-Ñanqha ukat qhana jan uñjañax jach'a chikawa. NIA yatiyañapax, jaqinakax jan ñanqhapxi, arsutanakax jan kusisiñ uñjatax, jaqinakat jaytapxi sasaw. Aka yatiñ [wali yatiñanakax](/brain-health/hearing/) ñanqha uñjañ ukat yanapt'awinakas utji.
+Qhathañax juk'a jan walt'awi ukakiwa. NIA ukax uñt'ayi, jan qhathañ jaqinakax jaqinakat aljasipxi, parlañax ch'ajjwañapxi jan ukax vergüenza utjañapa. [Hipoacusia ukat demencia yatiqäwi](/brain-health/hearing/) ukax qhathañ uñjañ ukat qhathañ yanapt'awinak yatiyi.
 
-## Kunjamas jaqinakampi chikanakan sarañ?
+## ¿Kunjamsa mayacht'asiñ yanapt'apxi?
 
-NIA yatiyañapax, kunayman lurañanakas utji. Mayni mayni sapxam:
+NIA ukax walja ideanak yatiyi. Mä jan ukax paqallq ajllapxam:
 
-- **Sapa phaxsi jaqinakampi arsuñ.** Sapa uru jan ukax sapa phaxsi jaqinakampi, sullka jaqinakampi, jan ukax yatiqañ jaqinakampi llamaña jan ukax qillqaña.
-- **Video llamaña jan ukax yanapt'awi yatiyiri.** Yatiñ jan ukax yatiqañ utanakax, awkinakan ukat jaqinakan yatiqañanakas utji. [Llamaña yatiñanakax](/activities/phone-and-video-calls/) uñjañamawa.
-- **Jaqinakampi sarañ.** Yatiqañ, iglesia, sarañ jaqinakampi jan ukax jaqinakampi yanapt'añ kunaymanakas utji.
-- **Mayni sarañ jan ukax yatiqañ.** Jaqinakampi kusisiñ ukhamarak lurañanakas utji.
-- **Jaqinakampi jaquntañ.** Jaqinakampi jaquntañax askiwa. [Jaquntañ yatiñanakax](/brain-health/exercise/) jan wali lurañanakas uñjañamawa.
-- **Uywa.** Uywa jakañ jakasiñax, jaqinakampi chikanakan jakasiñax, askiwa.
-- **Chiqpach yanapt'awinakan.** Markan jaqi chiqpach utanakax, Area Agencies on Aging ukat Eldercare Locator, ukanakax yanapt'awinakan ukat sarañ yanapt'awinakan amuyt'ayapxi.
+- **Mayacht'asiña uru jan ukax sapa semana ukat yatiñ.** Mä uru sapa uru jan ukax sapa semana, llamaña, qillqaña, jan ukax tarjeta khithiw jaqinakamp, familiapampi jan ukax amigonakampi mayacht'asiña.
+- **Video llamawinak jan ukax smart speakers.** Tecnología machaq ukhamaxa, walja biblioteca ukat comunidad centros yatiqaña uñt'añ. Uñjañ [llamawi ukat video llamawi yatiqäwi](/activities/phone-and-video-calls/) uñjañamawa.
+- **Mä lurawi mayacht'asiña.** Mä clase, iglesia, sarnaqañ grupo jan ukax voluntario lurawi jaqinakamp mayacht'asiñ utjañapa.
+- **Mä wali munat lurawi sutimpi lurañ** jan ukax machaq yatiña jaqinakamp.
+- **Jaqinakamp sarnaqaña.** Amigo jan ukax grupo ukampi jan ukax sarnaqaña. [Arsut yatiqäwi](/brain-health/exercise/) ukax suma thakinakaw utji.
+- **Uywa ukat qhiparu jakaña**, mä uywa yanapt'añ puedes ukhaxa.
+- **Jiwasan chiqan yanapt'awinak.** Tuqi jaqi centros, Area Agencies on Aging ukat Eldercare Locator (800-677-1116) ukax programanak ukat sarnaqañ yanapt'awinak uñt'apxi.
 
-## Kunatsa jaqinakampi lurañax demenciana wali?
+## ¿Kunatsa jaqinakamp lurawinaka wali wakisi demencia ukampi?
 
-Demencia jaqinakatakix, jaqichasiñax kusisiñ, jakañ askiñ ukat jaqinakan utjañ sasaw wali. Janiw chika sañ amuyañax jan utjkiti. Lancet Commission sasaw, lurañanakax demencia jaqinakan kusisiñ ukat amtanakax utjañapawa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yatiyañapax, jakañ askiñ yanapt'añ sasaw, lurañanakax jan wali sarañ jan ukax llakisiñ pisiyañapatak yanapt'apxi. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sasaw, Alzheimer's jaqinakax lurañ munapxi, kusisiñ lurañanakas.
+Demencia ukampi jakiri jaqitakix, mayacht'asiñax kusisiñ, sum jakañ ukat jaqinakan chika utjaña ukhamarakiwa, janiw jan walt'awi juk'añataki. Lancet Comisión ukax uñt'ayi, lurawinakax demencia ukampi jakirinakar kusisiña ukat amtañ yanapt'apxi. [Alzheimer Asociación](https://www.alz.org/help-support/caregiving/daily-care/activities) ukax uñt'ayi, lurawinakax jakañ allinchañataki sarañ jan ukax lup'iwi jaqinakan jan amuyt'äwinak juk'ap yanapt'apxi. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ukax yatiyi, Alzheimer ukampi jakirinakax lurawinak lurañapa ukat kusisiñ lurawinak lurañapa.
 
-Askinaka lurañanakax:
+Suma ideanak:
 
-1. **Chiqpach uñjañ.** [Conversation Cards](/games/conversation-cards/) ukax arsuñ jan quiz uñjañanaka. [Reminiscence yatiñ](/activities/reminiscence/) uñjañamawa.
-2. **Ch'iqa ch'iqa lurañ.** [Picture Pairs](/games/picture-pairs/) ukax uñjañanakax uñstaski, jan tiempo jan puntos utjkiti. [Jaqinakampi lurañ yatiñ](/caregiving/how-to-play-together/) uñjañamawa.
-3. **Familiar uñjañanaka.** [Photo Pairs](/games/photo-pairs/) ukax sapa jaqi suyt'at uñjañanakampi lurañ, ukat uñjañanakax ukan utjapxi.
-4. **Jaqinakampi tantachaña.** [Picture Bingo](/games/picture-bingo/) ukax familiar tantachañanakatakix, [care home jaqinakatakix](/activities/care-home-groups/) askiwa.
-5. **Taqi chika lurañ, uywa, ch'uxña.** [Music activities](/activities/music/), [household tasks](/activities/household-tasks/) ukat [activity ideas](/activities/ideas/) uñjañamawa.
-6. **Jaqinakan sarañ.** [Visiting guide](/activities/visiting/) ukax chiqpach jaqinakampi sarañ askiwa.
+1. **Chiqpach uñjañanak chika uñjaña.** [Conversation Cards](/games/conversation-cards/) ukax "Qhipa uru kunas utjkäna..." ukhamaraki jiwasan tuqi parlañ yanapt'apxi. Uñjañ [reminiscence yatiqäwi](/activities/reminiscence/).
+2. **Chika lurañ.** [Picture Pairs](/games/picture-pairs/) ukax uñjañanak uñjatäpxi, janiw tiempo jan ukax puntaj utjkiti, ukhamasti jan wali sum jakaña. Uñjañ [kunjamsa chika lurañ](/caregiving/how-to-play-together/) yatiqäwi.
+3. **Familiapan uñjañanakap ocupaña.** [Photo Pairs](/games/photo-pairs/) ukax ajllitanakam uñjañanak jupanakan mataq lurañ, uñjañanakax celular ukan qhipkaspa.
+4. **Jaqinakamp tantachaña.** [Picture Bingo](/games/picture-bingo/) ukax familia tantachäwinakan ukat [care home grupos](/activities/care-home-groups/) ukanakan wali allinwa.
+5. **Musica, lurawi jan ukax uta qhipa lurawi.** Uñjañ [música lurawinak](/activities/music/), [uta lurawinak](/activities/household-tasks/) ukat [sapa lurawinaka](/activities/ideas/) ukanak.
+6. **Jaqinakar sarañ sum lurañ.** Uñjañ [jaqinakar sarañ yatiqäwi](/activities/visiting/) ukax jisk'a, jan sapaki sarañ ukanak yatiyi.
 
-Ch'uxña ukat sum sarañ. Pisi jaqinakampi sarañax jach'a tantachañ sipansa askiwa. Jaqix jan munaspa jan ukax jan kusisipan, sayt'añax askiwa. Mayni jaqinakampi tè umañax askiwa.
+Jisk'a ukat sum lurañ. Jisk'a uta, mä jan ukax paqallq jaqinakampi wali allinwa, janiw walja jaqinakampi. Jaqix jan ch'ajjwañ jan ukax jan munañ utjaspa, sayt'ayañax jan jan walkiti. Mä yuqalla ukampi t'ē umantañax sum lurawiwa.
 
-Demencia jaqix sapakiñ jakaski ukhax, NIA yatiyañapax, jaqi yatiñ sarañ jan ukax llamaña utjañapatak yanapt'añ sasaw. Ukhamarak, memory cafe ukax, demencia jaqinakatakix ukat familiapatakix, sum tantachañ uñjañ utjaspa.
+Demencia ukampi sapaki jakiri jaqitakix, NIA ukax mä yatinïr jaqi jan ukax khitichi sarañ, llamaña jan ukax video ukampi mayacht'asiña, ukat jan wali uru yanapt'añataki yatiyi. Ukhamarak mä memoria café, jan sapaki sarañ, jaqinakataki wali sum thaki.
 
-## Yanapt'iri jaqinakax ukhamarak sapakiñ jakapxi
+## Yanapt'iri jaqinakax sapaki kankañ utjaspa
 
-NIA yatiyañapax, jaqi yanapt'añax sapakiñ chika sasaw. Jumax ukhamarak amuyt'añ munasmawa: jaqinakampi jakañ, tantachañ ukat samayaña. [Caregiver self-care guide](/caregiving/caregiver-self-care/) uñjañamawa.
+NIA ukax uñt'ayi, jaqi yanapt'añax aljasiña jan walt'awi. Sapa jaqi yanapt'añ ukat jupamp chika utjañ tiempo ukanakax amuykipasa, jupanakan yanapt'äwi ukat samar sarañ. [Yanapt'iri jaqinakan suma uñjañ yatiqäwi](/caregiving/caregiver-self-care/) ukax lurañ ideanak uñt'ayi.
 
-## Doctor yatiñ
+## Doctor ukampi parlañ
 
-Jumax jan ukax jaqi yanapt'asma sapakiñ jakapxi jan ukax llakisiñ utjaspa ukhax, doctor yatiñ. NIA yatiyañapax, wali jach'a jaytañanakax, jaqi jiwañ ukhama, doctor yatiñ sasaw. Mayni mayni llakisiñax jaqinakat jaytañapatak, jan ukax depression sasaw, yanapt'añ utji. Jaqi jaqinakat jaytapxi jan ukax lurañanakat jaytapxi ukhax, aka uñjañax doctor yatiyañamawa. [Qalltaña uñjatanakax ukat doctor yatiñ](/brain-health/warning-signs/) uñjañamawa.
+Jumax jan wali sapaki kankañ jan ukax aljasiñ ukhamarak utjaspa, ukat jaqi yanapt'aña ukanakax, doctor ukar yatiyañamawa. NIA ukax jaqinakar yatiyi, jaqi jan ukax wali jaya ukat jaqi jiwaña ukanak doctor ukar yatiyañapa, ukhamasti doctor ukax sum amuyañapa. Semanas jan wali amuyasiñ jan ukax deprimido utjañapa, ukax allinchasiñ utjaspa. Qhipa jaqix amigonak jan ukax lurawinak sayt'ayi ukat jupanakar mayacht'asiñ jan wali uñjaspa ukax doctor ukar yatiyañapa. Uñjañ [jan walt'awinak ukat doctor ukar sarañ uru](/brain-health/warning-signs/).
 
-Aka qillqatax yatiñ aski, jan doctor yatiñ kunawa. [Medical disclaimer](/medical-disclaimer/) uñjañamawa.
+Aka qillqatax yatiqäwi jan doctor ukar yatiqäwi. Uñjañ [jan walt'awi ukat yatiqäwi](/medical-disclaimer/).

@@ -1,34 +1,34 @@
 ---
-title: "Taem Pesen we i Gat Dementia i No Wantem Aktiviti o i Kros"
-seoTitle: "Taem Pesen we i Gat Dementia i No Wantem Aktiviti"
-description: "From wanem pesen we i stap wetem dementia i ken no wantem aktiviti o i kros, wanem fo traem, wanem fo avoidim, mo taem wan sudden jenis i nidim dokta."
+title: "Taem Man we i Gat Dementia i Refusum Wan Aktiviti"
+seoTitle: "Taem Man we i Gat Dementia i Refusum Aktiviti"
+description: "Wae man we i gat dementia i save refusum o i kros long wan aktiviti, wanem yu save traem long hem, wanem yu mas no duim, mo taem wanem yu mas kolem doctor kwik."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Taem wan pesen we i gat dementia i tok "no," akseptem hem kwaet mo traem
-  bakegen long narafala taem, o ofa wan narafala samting. Refusal i gat wan
-  rison ofen: aktiviti i sem hard o i sem pikinini, pesen i taed, i sik, i
-  hangre, o i woret long noes. No argiu o no fos. Simplifaem, ofa tu jois, o
-  askem hem blong helpem yu. Sudden o kwik jenis long fasin, espesial afta long
-  infeksen o niu medisin, i nidim dokta kwik.
+  Taem man we i gat dementia i talem "no", yu mas akseptem long kwaet fasin mo
+  traem bakegen long lo wan taem, o givim wan narafala samting. Refusal i gat
+  wan reason: wok ya i hard tumas o i samting blong pikinini, oli taed, oli gat
+  pein, oli hangri, o noise i tumas. No argue o forcem. Mekem i simpol, givim
+  tu jus blong jusum, o askem hem blong helpem yu. Sudden o kwiktaem jenis long
+  fasin, espesali afta infeksen o niu medisin, i nidim doctor kwik.
 keyPoints:
-  - "Wan \"no\" i wan ansa we yu mas respektem, i no wan problem blong winim."
-  - "Refusal i gat wan kos: i hard tumas, i pikinini tumas, i taed, i sik, i no kamfotebol, o i woret tumas."
-  - "Stap bak, wet, mo traem bakegen lata, long narafala taem, o wetem wan simpol ves."
-  - "Askem hem blong helpem yu i gud moa tan blong askem hem blong playem wan samting."
-  - "No argiu, no fos, no kwestin, no korektem. Jekem yu seleva long rush o pusum hem."
-  - "Sudden o kwik jenis long fasin, espesial wetem infeksen o niu medisin, i mas go long dokta raet away."
+  - "Wan \"no\" i ansa we yu mas respektem, i no wan prablem blong winim."
+  - "Refusal i yusuali i gat wan cause: i hard tumas, i samting blong pikinini, oli taed, oli sik, oli no fitim, o oli filim tumas samting."
+  - "Bakemaot, wet, mo traem bakegen long narafala taem, long narafala fasin, o wetem wan simpol vesen."
+  - "Askem hem blong helpem yu i gud moa than askem hem blong soem wok."
+  - "No argue, no forcem, no kwestin, no korektem. Jekem seleva blong yu long rush o pushim tumas."
+  - "Sudden o kwiktaem jenis long fasin, espesali wetem infeksen o niu medisin, i mas go long doctor kwik."
 faq:
-  - q: "Ok ia blong lego hem i skip aktiviti olgeta?"
-    a: "Yes, long eni dei. Sindaon tugeta, harem miusik o lukluk long wol, i ken stap gud. Sipos wan pesen i stopem enisamting long ol wik, talem long dokta blong hem, from low mood, pen o narafala sik i ken stap insaed."
-  - q: "From wanem oli no wantem samting we oli lavem bifo?"
-    a: "Wan oldfala hobi i ken kam frastrasen taem i nidim ol skil we dementia i mekem i hard, mo pesen i ken sem sem. Traem wan simpol pat blong sem aktiviti, olsem sorting ol batan insted blong sewing, o lukluk long ol piksa blong gaden insted blong planting."
-  - q: "Eh, mi mas traem blong konvinsem hem?"
-    a: "Nogat. Pusum wan pesen blong dum wanfala samting we dementia i mekem i hard i wan save trigga blong agitesen. Akseptem no, jenjem toktok, mo ofa bakegen latta o long narafala fasin."
-  - q: "Wanem taem wan jenis long fasin i wan emergensi?"
-    a: "Kolem emergency namba blong ples yu stap long hem sipos wan pesen i stap long denja o i showem saen blong wan emergensi long hel. Long sudden konfyus o fasin we i jenis kwik long ol aoa o ol dei, espesial wetem hae sik, infeksen o niu medisin, kontaktem dokta blong hem raet away."
+  - q: "Ok ia blong lusim man ya i skipim ol aktiviti evri taem?"
+    a: "Ya, long eni wan dei. Sidaon wetem, harem musik o lukluk long wol we i pas, i save i enafmak. Sipos wan man i stap lusim ol samting we hem i bin laekem long ol wik, talem long doctor blong hem, from low mood, pein o ol narafala helt prablem i save i stap long pija ya."
+  - q: "Wae oli refusum ol samting we oli bin laekem bifo?"
+    a: "Wan ol hobi blong bifo i save i kros taem i nidim ol skil we dementia i mekem i hard, mo man ya i save i filim sem. Traem wan simpol pat blong sem aktiviti, olsem sotem ol batan i stap long samting blong sew, o lukluk long ol piksa blong gaden i stap long samting blong planem."
+  - q: "Mi mas traem konvinsem hem?"
+    a: "No. Pushim wan man blong duim wan samting we dementia i mekem i hard, hemia i wan trigga we i save mekem hem agitet. Akseptem no ya, jenisim toktok, mo askem bakegen long lo wan taem o long narafala fasin."
+  - q: "Wanem taem wan jenis long fasin i wan emergency?"
+    a: "Kolem namba blong emergency blong ples sipos wan man i stap long denja o i gat saen blong wan medical emergency. Sipos i gat sudden konfiusen o fasin we i jenis kwik long ol aoa o ol dei, espesali wetem fiva, infeksen o niu medisin, kolem doctor blong hem kwik."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Yu redi everything, yu ofa wan gem o wan wakabaot, mo yu harem "No." O aktiviti i stat gud mo i finis wetem wan tablet we pesen i pusum awe mo wan sharp tok. I hatem, mo i wan komon samting. Refusal mo frustresen i ofen wan mesej, no stubbornness. Taem yu save wanem mesej ia i minim, ofen i soem yu wanem fo traem nekis.
+Yu setem evri samting, yu ofarem wan gem o wan wok, mo yu harem "No." O aktiviti i stat gud mo i finis wetem wan tablet we hem i pushim awe mo wan had tok. Hemia i mekem yu filim i no gud, mo hemia i komon tumas. Refusum mo kros i save i wan mesej, i no i fasin blong hard hed. Sipos yu save wanem mesej ya, hemia i save soem yu wanem nao blong traem nekis.
 
-## From wanem pesen we i gat dementia i no wantem aktiviti?
+## Wae man we i gat dementia i refusum ol aktiviti?
 
-Usually i gat wan rison, even sipos pesen i no save talem long wod. Ol [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i talem se resistens i ken minim se pesen i no save dumas taskis o i fraet blong traem. Ol komon kos i inkludim:
+Yusuali i gat wan reason, even if man ya i no save talem long wot. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i talem se resistens i save minim se man ya i no save duim wok ya o i fraet blong traem. Ol komon cause oli:
 
-- **I hard tumas.** Aktiviti i nidim ol skil we dementia i mekem i hard, mo i sem sem blong fel long fran blong narafala man.
-- **I pikinini tumas.** Ol adult i save lukim ol kaftun piksa, singsing voes mo ol aktiviti we i olsem oli mekem blong ol pikinini.
-- **Tiret.** Plante pipol i gat smol enejia long laet afternun. Lukluk [kalm aktiviti long aftanun](/caregiving/late-day-restlessness/).
-- **Fasin we i pen o i no kamfot.** Ol [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i lisim pen, no slip, trabol long lukluk o harem, hadtaem long bel, hangre, tingting, mo ol saet ifekt blong ol niu medisin olsem ol possible kos blong distres.
-- **Tumas samting i stap.** Wan laod TV, plante toktok, o wan fulap rum i ken mekem pesen i no save rabisim.
-- **Fil se oli pusum hem.** NIA i netem blong pusum pesen blong mekem samting we Alzheimer's i mekem i hard tumas, o blong tingting long iven o ol man, olsem wan kos blong agitesen.
-- **Low mood.** Lus intres long ol samting i ken kamaot olsem saen blong depresen, we i gud blong talem long dokta.
-- **Oli no wantem nomo.** Ol adult i gat raet blong tok no.
+- **I hard tumas.** Aktiviti ya i nidim ol skil we dementia i mekem i hard, mo i sem fasin blong fel long ai blong narafala man.
+- **I samting blong pikinini.** Ol man i save filim pikja we i sem ol kateni, ol voes we i singsing, mo ol aktiviti we oli luk olsem oli blong ol pikinini.
+- **Taed.** Planti man oli gat smol strong long aftenun. Lukluk [ol aktiviti blong aftenun we i kwaet](/caregiving/late-day-restlessness/).
+- **Pein long bodi.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i talem se pein, no slip, trabol blong lukluk o harem, hadhed, hangri, tos, mo ol saed efet blong niu medisin oli save i mekem man i distres.
+- **Tumas samting i hapen.** TV we i loud, ol toktok i go long sem taem, o rum we i fulap, oli save i mekem hem i filim i tumas.
+- **Filim se oli pushim hem.** NIA i talem se taem oli pushim man blong duim wan samting we Alzheimer i mekem i hard tumas, o blong remembarem ol even o ol man, hemia i wan cause blong agitesen.
+- **Low mood.** Taem man i lusim intres long ol samting, hemia i save i wan saen blong depresen, mo hemia i gud blong talem long doctor.
+- **Oli no wantem nomo.** Ol man oli gat raet blong talem "no".
 
-## Wanem fo traem taem oli tok no?
+## Wanem nao mi save traem taem hem i talem "no"?
 
-Akseptem no kwaet, then jenjem wan samting: taem, aktiviti, level blong hard, o fasin blong askem.
+Akseptem no ya long kwaet fasin, mo jenisim wan samting: taem, aktiviti, hadhed o fasin we yu askem.
 
-1. **Lego hem long naoia.** "Hemi oraet. Maet latta." Then go long narafala samting wetem no sigh.
-2. **Traem bakegen latta.** Ol Alzheimer's Association i sujestem blong traem bakegen latta, o long narafala taem long dei.
-3. **Mekem hem smol.** Wan matj nomo, no wan hol gem. Wan taol nomo, no wan basket blong wasing. Smol piksa, smol jois, ol piksa i stap luk.
-4. **Ofa tu jois.** "Yu wantem lukluk long ol bed piksa o harem sam miusik?" Wan jois i givim bak fil blong kontrol.
-5. **Askem help insted blong performans.** "Yu save helpem mi blong sotem ol ia?" o "Yu save talem mi wanem kala i stret?" Fil se oli nidim yu i defren long fil se oli stap tesem.
-6. **Yu stat hem yu seleva.** Stat aktiviti klosap long hem wetem no askem. Plante pipol i jeen taem samting i stap finis, mo sipos oli no jeen, yu jes spendem taem wetem hem.
-7. **Jenjem i go long samting we i fisiskol o i kam kwaet.** Wan sot wakabaot, miusik, wan snak, folem ol klos, o wan sheya [kalm breathing](/games/calm-breathing/) taem. NIA i sujestem blong jenjem atensen i go long miusik, wan buk o wan wakabaot.
-8. **Lego hem i play long fasin blong hem.** Sipos hem i wantem play defren long ol rul, folem hem. Ol Alzheimer's Association i advaesem blong stap fleksibol.
+1. **Lusim i stap long naoia.** "Hemia i oraet. Maet bae yumi duim lo wan taem." Afta, go long wan narafala samting withaot yu sigh.
+2. **Traem bakegen lo wan taem.** Alzheimer's Association i sajestem blong traem bakegen lo wan taem, o long narafala taem blong dei.
+3. **Mekem i smol.** Wan matj nomo, no wan gem i hol. Wan tauel nomo, no ol klos blong wasem ol. Smol piksa, smol jusum, ol piksa i stap i luk.
+4. **Givim tu jus.** "Yu laek lukluk long ol piksa blong ol pisin o harem sam musik?" Wan jusum i givim bak wan fil blong kontrol.
+5. **Askem helpem, no performans.** "Yu save helpem mi sotem ol ya?" o "Yu save talem mi wanem kala i luk i gud moa?" Fil blong yu nidim i defren tumas long fil blong yu testem.
+6. **Yu stat seleva.** Stat aktiviti long saed blong hem withaot askem. Planti man oli save joen taem wan samting i stap ready hapen, mo sipos oli no joen, yu bin spendem taem wetem hem.
+7. **Jenis i go long wan samting we i muv bodi o i mekem i kwaet.** Wan smol wok long rod, musik, wan snak, folem ol klos, o wan fasin blong [kalm breting](/games/calm-breathing/) wetem hem. NIA i sajestem blong tanem atensen i go long musik, buk o wok long rod.
+8. **Letem hem duim long fasin blong hem.** Sipos hem i wantem pleiem i defren long ol rul, gogo wetem hem. Alzheimer's Association i advaesem blong yu fleksibol.
 
-## Wanem fo talem taem oli frastret?
+## Wanem nao mi save talem taem hem i kros?
 
-Slou daon, low voes mo givim gud fil. Ol [Alzheimer's Association gaed long agitesen](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) i sujestem blong stap bak mo askem blong permisen, yusum kwaet, pozetiv tok, mo ofa wan jois long tu ples. Ol tok we i kam long sem fasin:
+Slou bakegen, toktok i nomo laod, mo givim hem sefti. [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) i sajestem blong bakemaot mo askem pemisen, yusum kwaet, pozitiv toktok, mo givim jusum blong tu ol jusum. Ol toktok we i sem fasin ya:
 
-- "Mi sore, hemi annoying. Yumi stopem."
-- "Yu mekem gud. Mi stap klosap."
+- "Mi sore, hemia i wari yu. Yumi stopem nao."
+- "Yu stap gud. Mi stap klosap."
 - "Yu gat taem blong helpem mi long wan narafala samting?"
-- "Yumi drink wan kap tii long hem?"
+- "Yumi drinkem wan kap wota blong hot tea nomo?"
 
-Afta, finisim aktiviti wetem no mekem hem big samting. Ol [komunikesen tips](/caregiving/communication-tips/) blong yumi i gat moa long wanem blong talem.
+Afta, finisim aktiviti withaot yu mekem i kam wan bigfala samting. Ol [toktok blong komunikesen](/caregiving/communication-tips/) oli gat moa long wanem blong talem.
 
-## Wanem fo avoidim?
+## Wanem nao mi mas no duim?
 
-Sam natural fasin i save mekem samting i kam wes.
+Sam natural rispon oli save i mekem samting i kam woes.
 
-- **Argiu o fos.** "Kam nao, jes wan moa" o "Yu lavem hemia" i no ofen i helpem.
-- **Kwestin o korektem.** "Yu save wanem hemia" o "Nogat, hemia i rong" i putum presa.
-- **Tekem hem olsem personal.** NIA i talem long ol karegivas se sik i wanem i mekem ol jenis ia, no man i mekem.
-- **Krowd o rush.** Ol Alzheimer's Association i advaesem blong no raes voes, no soem fraet, no kornam, no krowd, no holem, no kritikem, no ignorem o argiu wetem pesen, mo blong no mekem sudden muv long aot blong aei blong hem.
-- **Yusum gilti.** "Mi setemap evri samting ia blong yu" i mekem yu tufala i fil wes.
-- **Lebelem hem.** "Stubborn" o "hatwoki" i haedem rison we i stret mo i mekem hem hard blong solvem.
+- **Argue o forcem.** "Kam nao, jus wan moa" o "Yu laekem hemia" i no save helpem.
+- **Kwestin o korektem.** "Yu save wanem hemia?" o "No, hemia i rong" i save i putum presa.
+- **Tekem i personal.** NIA i remaendem ol carer se sik ya nao i mekem ol jenis ya, no man ya seleva.
+- **Krohem o rushem.** Alzheimer's Association i advaesem blong no raes voes blong yu, no soem fraet, no kornarem, no pusum, no restreinem, no kritisaes, no ignorem o argue wetem man ya, mo blong no muv kwik long ae blong hem.
+- **Yusum guilt.** "Mi setem evri samting ya blong yu" i mekem yu tufala i filim i wos.
+- **Lebel.** "Stubborn" o "difisel" i hitim rial rison mo i mekem i hard blong solvem.
 
-## Hao blong faendem wanem i stap biaen long ol taem we oli no wantem?
+## Hao mi save faenem wanem i stap behaen ol refusum we i kam bakegen?
 
-Rekodem wan smol nout long wan o tu wik. NIA i talem se tracking jenis long fasin i ken helpem ol karegivas mo ol man blong hel blong luk pataen mo faendem kos.
+Kipim wan simpol nout long wan o tu wik. NIA i talem se traking ol jenis long fasin i save helpem ol carer mo ol helt woka blong luk wan patten mo faenem cause.
 
 Raetem:
 
-- taem long dei;
-- wanem we yu ofarem mo hao yu askem;
-- wanem we i stap raon yu (noes, ol visita, TV);
-- hao hem i slip, kakae mo draonk, mo taem we hem i go bathrum last taem;
-- ol niu medisin o ol sik we i kamap resen.
+- taem blong dei;
+- wanem yu ofarem mo hao yu askem;
+- wanem i stap hapen long saed blong yu (noise, ol visita, TV);
+- hao hem i slip, hao hem i kakae mo drink, mo taem we hem i yusum toilet last taem;
+- eni niu medisin o sik we i kam resent.
 
-Ol pataen i ofen kamaot kwik: ol no wantem we i kamap afta long 4 p.m. nomo, nomo long wan spesel gem, o nomo taem TV i opin. Family Caregiver Alliance long [gaed blong dementia fasin](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i talem klia: yumi no save jenisim pesen, bat yumi save jenisim fasin blong yumi mo envaeronmen.
+Ol patten oli save i soem kwik: ol refusum we i hapen nomo afta 4 p.m., nomo long wan gem, o nomo taem TV i ron. Family Caregiver Alliance long [gaed blong ol fasin blong dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i talem long wan simpol fasin: yumi no save jenisim man ya, bat yumi save jenisim fasin blong yumi seleva mo envaromen.
 
-## Taem wanem fo tokaot long dokta long refusal o frustresen?
+## Wen mi mas toktok wetem doctor long refusum o kros?
 
-Tokaot long dokta taem fasin i jenis sudden, kwik, o wetem saen blong sik. NIA i talem se sudden o kwik jenis long fasin, espesial sipos pesen i bin gat infeksen o jenis long medisin resen, i mas go long dokta raet away.
+Toktok wetem doctor taem fasin i jenis kwik, sudden, o i kam wetem ol saen blong sik. NIA i talem se sudden o kwik jenis long fasin, espesali sipos man ya i gat infeksen o niu jenis medisin, i mas go long doctor kwik.
 
-Kontaktem dokta blong hem kwik sipos yu lukim:
+Kontakem doctor blong hem kwik sipos yu lukim:
 
-- sudden konfyus o wan big jenis long ol aoa o ol dei;
-- saen blong pen, olsem winsing, protektem sam bodi part, o niu trabol long muv;
-- hae sik o narafala saen blong infeksen;
-- niu o jenis medisin i kam bihaen wetem jenis long fasin;
-- lus intres long olgeta samting, krae o wiskdro i stap moa tan tu wik;
-- oli refusim kakae o draonk.
+- sudden konfiusen o wan big jenis lo ol aoa o ol dei;
+- saen blong pein, olsem hem i fes o i protektem wan pat blong bodi, o i gat niu trabol blong muv;
+- fiva o ol narafala saen blong infeksen;
+- niu o jenis medisin, afta we fasin i jenis;
+- i lusim intres long bigfala samting, i kraengud o i wantem stap wan long hem seleva i stap long moa than tu wik;
+- i refusum kakae o drink.
 
-Ol Alzheimer's Association i ademdem wan fulfulat medikol jek-ap long eni man we i gat fasin simptom, espesial taem oli kamap sudden. Family Caregiver Alliance tu i advaesem blong jekem wetem dokta fastaem, from ol fasin prablem i ken gat wan medikol kos. No stat, no stopem, no jenisim eni medisin withaot toktok wetem dokta o fama.
+Alzheimer's Association i ademem wan gud medical jeks blong evri man we i gat fasin blong bihevia, espesali taem oli kam sudden. Family Caregiver Alliance tu i advaesem blong jekem wetem doctor fastaem, from bihevia prablem i save i gat medical cause. No stat, no stopem, no jenisim eni medisin withaot yu talem long doctor o fama.
 
-Sipos eni man i stap long denja o i gat saen blong wan medikol emergensi, kolem emergency namba blong ples ya. NIA i sujestem blong talem long ol man we i resivim kol se pesen i gat dementia.
+Sipos eni man i stap long denja o i gat saen blong wan medical emergency, kolem namba blong emergency blong ples. NIA i sajestem blong talem long man we i ansarem kol se man ya i gat dementia.
 
-## Ok ia sipos yumi no mekem enisamting?
+## Ok ia sipos mifala no duim eni samting nomo?
 
-Yes. Sam dei, besfala aktiviti i nating aktiviti: sindaon tugeta, holem han, harem wan fevret miusik, o lukluk long ol bed long windo. Hemia i no wan fel. [Gaed blong yumi long pleim tugeta](/caregiving/how-to-play-together/) i eksplenem wae stopem erli, o no stat nating, i ken i stret jeso.
+Yes. Sam dei, best aktiviti i no wan aktiviti: sidaon wetem, holem han, harem wan record we yu laekem, o lukluk ol pisin long windo. Hemia i no wan fail. [Gaed blong pleiem togeta](/caregiving/how-to-play-together/) i eksplenem wae stopem erly, o no stat nating, i save i rait samting.

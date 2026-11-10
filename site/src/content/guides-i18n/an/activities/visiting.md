@@ -1,35 +1,35 @@
 ---
-title: "Visitar a una persona con demenzia en residenzia u espital"
-seoTitle: "Visitar a una persona con demenzia: qué facer y qué traer"
-description: "Qué facer al visitar a una persona con demenzia en residenzia, centro de cuidaus u espital: qué traer, actividatz sinzillas, visitas cortas y cómo despedir-se bien."
+title: "Visitar a una persona con demencia en residencia o hospital"
+seoTitle: "Visitar a una persona con demencia: qué facer y qué portar"
+description: "Qué facer al visitar a una persona con demencia en residencia, en una residencia de mayors o en o hospital: qué portar, actividatz sinzillas, visitas curtas y una buena despedida."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Cuan visite a una persona con demenzia en residenzia u espital, faga-lo
-  sinzillo: diga-le a suya nombre cuan llegue, traiga bella cosa pa compartir,
-  como fotos, musica u una merienda que le guste, y faga chunto una cosa fácil.
-  As visitas más cortas y regulars sovén van mellor que as largas y de tanto en
-  tanto. Planifique una despedida tranquila y siempre igual, pa que marchar sía
-  más fácil pa los dos.
+  Cuan visites a una persona con demencia en residencia o en o hospital, fe-lo
+  sinzillo: diga-le o tuyo nombre en chegar, porta bella cosa para compartir,
+  como fotos, musica u una golosina que le guste, y faigan chunta una cosa
+  fazil. Visitas más curtas y regulars solen ir millor que visitas largas y
+  rars. Prepara una despedida tranquila y siempre igual, para que marchar sía
+  más fazil pa las dos.
 keyPoints:
-  - "Saluda a la persona por suya nombre y diga-le quien ye, pa que no tienga que adivinar-lo: «Hola, mai, soy Susana, a tuya filla.»"
-  - "Traiga una o dos cosas pa compartir, como un album de fotos, musica que le guste, una manta chana o una merienda que os sanitarios hayan aprobau."
-  - "As visitas cortas y regulars sovén van mellor que as largas y de tanto en tanto. A suya presenzia importa más que lo que diga."
-  - "En l'espital, dé-le a os sanitarios una fulla d'una cara con información sobre la persona y diga-le al doctor de chicote cualsiquier cambio subito."
-  - "Planifique a suya salida: diga cuánto tiempo puede quedar-se, faga siempre la mesma despedida y marche sin alargar-lo."
+  - "Saluda a la persona por o suyo nombre y diga-le quién ye, pa que no tienga que adivinar-lo: « Hola, mai, soi Susana, a tuya filla. »"
+  - "Porta una o dos cosas pa compartir, como un album de fotos, musica que le guste, una manta suau o una golosina que o personal haiga aprebau."
+  - "Visitas curtas y regulars solen ir millor que visitas largas y espaciadas. A tuya presenzia importa más que lo que digas."
+  - "En o hospital, da-le al personal una fuella con información sobre la persona y avisa al doctor en o momento si hai un cambio de golpe."
+  - "Prepara la salida: di cuánto tiempo puez quedar, usa siempre la mesma despedida y marcha sin alargar-lo."
 faq:
-  - q: "¿Qué debo traer al visitar a una persona con demenzia?"
-    a: "Traiga cosa pa compartir más que cosa de la que parlar. Un album de fotos chicototo, una lista de canzons que le gusten, una manta chana, crema pa las mans, una revista sobre una afizión de antis o una merienda que os sanitarios hayan aprobau, son bien. En una residenzia de cuidaus, las fotos de familia y los obchetos conoxitos pueden tamién fer que la sala se sienta más como una casa."
-  - q: "¿Cuánto tiempo debo quedar-me al visitar a una persona con demenzia?"
-    a: "No hay una duración correcta. Muitas familias alcuentan que as visitas más cortas y más frecuents van mellor que as largas y de tanto en tanto, porque la persona puede cansar-se rapido y puede que no recuerde cuánto tiempo vusté ha estato. Fique atento a los sinyals de cansancio y marche mientres la visita encara sía agradable."
-  - q: "¿Qué digo cuan me pida ir-se a casa?"
-    a: "Responda a lo que sienta, no a las palabras. «Quiero ir-me a casa» sovén quiere dicir «no me siento a chusto o seguro». Pruebe a dicir: «Cóntame de tu casa», mirar fotos chuntos u ofrecer-le un paseyo o una merienda. Discutir o explicar-le por qué no puede marchar, normalment aumenta la angustia."
-  - q: "¿Qué pasa si no me reconoxe?"
-    a: "Puede doler, pero intente no corrixir-lo ni preguntar-le «¿No sabes quién soy?». Preséntese con cariño y de manera sinzilla, y goce del tiempo chuntos. Muitas personas encara disfrutan de la compañía y sienten la calor d'una visita aunque no puedan saber quién ye vusté."
-  - q: "¿Cómo puedo ayudar durante una estada en l'espital?"
-    a: "Quédese con la persona cuan pueda, ayude-la a comer y beber, y traiga cosas conoxidas como fotos. Dé-le a os sanitarios una fulla con a rutina de la persona, el nombre que prefiere, lo que le gusta, lo que no le gusta y los sinyals de dolor. Diga-le al doctor de chicote si la persona parexe de repente peor o diferent, porque una confusión subita puede sinyalar un problema medico."
+  - q: "Qué debo portar al visitar a una persona con demencia?"
+    a: "Porta alguna cosa pa compartir, en cambio de alguna cosa de la que charrar. Un album de fotos chicorro, una lista de canciones que le gusten, una manta suau, crema de mans, una revista sobre una afizión de antis o una golosina que o personal haiga aprebau, todo ixo funciona bien. En una residencia, las fotos de familia y los obchectos familiars tamién pueden fer que a sala paresca más como casa."
+  - q: "Cuánto tiempo debo quedar-me al visitar a una persona con demencia?"
+    a: "No hai una duración correcta. Muitas familias troban que visitas más curtas y más frecuents funcionan millor que visitas largas y rars, porque a persona puede cansar-se pronto y puede que no recuerde cuánto tiempo quedó-te. Fiza-te en as sinyals de cansancio y vete mientres a visita encara sía buena."
+  - q: "Qué digo cuan me piden que los lleve a casa?"
+    a: "Responde a o sentimiento, no a las palabras. « Quiero ir a casa » sovén significa « no me siento a gusto o segura ». Prueba a decir: « Cóntame de a tuya casa », mira fotos chuntos u ofrece-le un paseyo o una golosina. Discutir u explicar-le por qué no puede marchar solen aumentar a angustia."
+  - q: "Y si no me reconoze?"
+    a: "Puede doler, pero intenta no corregir-lo ni preguntar-le « No sabes quién soi? ». Preséntate con cariño y de forma sinzilla, y disfruta del tiempo chunto. Muitas personas encara disfrutan de la compañía y sienten o calor de una visita, incluso cuan no saben situar quién ye ti."
+  - q: "Cómo puedo ayudar durante una ingresada en o hospital?"
+    a: "Quédate con a persona cuan puedas, ayuda-la a comer y beber, y porta cosas familiars como fotos. Da-le al personal una fuella con a suya rutina, o nombre que prefiere, lo que le gusta, lo que no le gusta y as sinyals de dolor. Avisa al doctor en o momento si la persona parez de golpe peor o diferent, porque una confusión sobtada puede ser sinyal de un problema medico."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -54,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visitar a alguien que quiere en una residenzia de cuidaus, en una residenzia u en l'espital puede traer muitos sentimientos. Pot que se pregunte qué dicir, qué traer, u si la visita importa siquiera si no se va a recordar. Sí que importa. El National Institute on Aging sinyala que las personas con Alzheimer [sovén disfrutan de la compañía](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) encara cuan no recuerdan quién ye la persona que los visita. Esta pachina da pasos prauticos pa antes, durante y dimpués d'una visita, mas consellos concretos pa las estadas en l'espital.
+Visitar a alguien que quiens en una residencia de cuidatos de memoria, en una residencia de mayors o en o hospital puede traer muitos sentimientos. Puede que te pregunte-s qué decir, qué portar, u si a visita tiene sentito si no se va a recordar. Sí que lo tiene. O National Institute on Aging avisa que as personas con Alzheimer [sovén disfrutan de la compañía](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) encara que no recuerden quién ye a persona que las visita. Esta pachina da pasos practicos pa antes, durant y dimpués de una visita, y consellos concretos pa las ingresadas en o hospital.
 
-## ¿Cómo me preparo pa una visita?
+## Como me preparo pa una visita?
 
-Una mica de planificazión fa que la visita sía más fácil pa los dos.
+Una mica de planificación fa que a visita sía más fazil pa las dos.
 
-- **Escoja buen momento.** Dementia Australia suxire visitar cuan la persona sol estar más despierta, que pa muitas personas ye por la mañana u sobre mediodía. Family Caregiver Alliance suxire aprender l'horario de la residenzia y visitar durante el [tiempo libre y no durante las actividatz](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Consulte a os sanitarios.** Pregunte cómo ha estato la persona hue y revise las normas sobre comida, animals u salidas.
-- **Prepare una bolsa pequeña pa la visita.** Una o dos cosas pa compartir bastan (vea la lista de abaixo).
-- **Planifique unos temas.** La persona pot que no tienga noticias que contar, asinas que traiga las suyas: novedatz de familia, lo que fa tiempo, un partido de pelota, una anécdota grazioza.
-- **Fixe-se expectativas propias.** Unas visitas seran calidas y charradoras. Atras seran calladas u difiziles. Dos cosas son normals.
+- **Tría un buen momento.** Dementia Australia recomienda visitar cuan a persona sol estar más despierta, que pa muitas personas ye a mañana o o mediodía. Family Caregiver Alliance recomienda conoixer o horario de la residencia y visitar en o [tiempo libre y no en o tiempo de actividatz](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Consulta con o personal.** Pregunta cómo ha estau la persona o día de hoy, y mira las normas sobre comida, mascotas u salidas.
+- **Prepara una bolsa pequeña pa la visita.** Una o dos cosas pa compartir bastan (mira la lista de baixo).
+- **Piensa en unos temas.** Puede que la persona no tienga noticias que contar, asinas que porta tú las tuyas: novedatz de a familia, o tiempo, un partido, una anécdota grazioza.
+- **Fixa-te tus propias expectativas.** Dalgunas visitas seran cálidas y charradoras. Atras seran tranquilas u duras. Dimbas cosas son normals.
 
-## ¿Qué debo traer?
+## Qué debo portar?
 
-Traiga cosas pa compartir, no cosas que pongan a prueba. Bellas buenas opcions son:
+Porta cosas pa compartir, no cosas que pongan a prueba. Bones opcions son:
 
-- **Un album de fotos chicototo** con fotos grans y claras. Escriba-les una etiqueta detrás pa os sanitarios.
-- **Una lista de canzons** que le gusten en un teléfono, con auriculars sinzillos u un altavoz pequeño.
-- **Una cosa suau pa tener-la en a man,** como una manta, un pañuelo o un chersé conoxito.
-- **Crema pa las mans** pa un masache sueve, si la persona disfruta del contacto.
-- **Una revista u un libro d'imachens** sobre una afizión de antis, como la chardinería, los coches, los paxaros u la cocina.
-- **Una merienda que le guste,** si os sanitarios dicen que ye segura.
-- **Obchetos conoxitos pa la sala.** Family Caregiver Alliance suxire flors, plantas, fotos de familia y obras d'arte, u un cartel grande con fotos de familia de antis.
-- **Una tableta,** pa mirar fotos de familia u jugar a un chuego sueve chuntos.
+- **Un album de fotos chicorro** con fotos grans y claras. Escribe-les o nombre en a parte de detrás pa o personal.
+- **Una lista de canciones** que le gusten en o teléfono, con auriculars sinzillos u un altavoz chicorro.
+- **Quelga cosa suau pa tener en as mans,** como una manta, una bufanda o un chersei de los de siempre.
+- **Crema de mans** pa un masache suau, si a persona disfruta con o contacto.
+- **Una revista o un libro de dibujos** sobre una afizión de antis, como a chardinería, os coches, os pacharos o a cocina.
+- **Una golosina que le guste,** si o personal dice que ye segura.
+- **Obchectos familiars pa la sala.** Family Caregiver Alliance recomienda flors, plantas, fotos de familia y obra d'arte, u un cartel grande con fotos de familia de antis.
+- **Una tableta,** pa mirar fotos de familia u jugar a un chuego suau chuntos.
 
-## ¿Qué podemos fer chuntos durante una visita?
+## Qué podemos fer chuntos durant a visita?
 
-Fer una cosa chuntos quita presión a la charra. Dementia Australia suxire mirar fotos, una manualidat fácil, plantar plantones, musica, compartir una merienda u dar un paseyo por los chardins. Unas ideas más:
+Fer alguna cosa chunto quita pesura a la charra. Dementia Australia recomienda mirar fotos, una manualidat sinzilla, plantar plantons, musica, compartir una golosina o dar un paseyo por os chardins. Unas cuantas ideyas más:
 
-1. **Mirar fotos.** Sinyale lo que veiga: «Mira ese sombrero». «Esta playa paré preciosa». Deixe que la persona lleve la conversación. Evite «¿Quién ye este?».
-2. **Escuchar musica y cantar.** Las canzons conoxidas pueden alegrar el ánimo y crear un momento compartito, encara cuan charrar sía difízil.
-3. **Dar un paseyo cortico.** Family Caregiver Alliance suxire caminar por la residenzia, sobre todo por o chardín si n'hay. Un paseyo en silla de rodas tamién cuenta.
-4. **Dar un masache de mans.** Un poqueté de crema y movimientos lentos y suaus en as mans pueden calmar.
-5. **Ayudar con l'aseo.** Dementia Australia menziona peinar, pintar las uñas u ayudar a la persona a ponerse una roba que le guste, si lo disfruta.
-6. **Jugar a un chuego sinzillo.** Family Caregiver Alliance suxire cartas, dominós u lo que la persona solía jugar. En una tableta, se pueden jugar [Picture Pairs](/games/picture-pairs/) con os dibuixos a la vista y sin cronómetro. [Photo Pairs](/games/photo-pairs/) convierte las fotos que escoja en un chuego de parexas, y las fotos se quedan en o suyo navegador.
-7. **Mirar algo chuntos.** Family Caregiver Alliance suxire comedias y pelicllas antiguas. Encara que la persona no pueda seguir la historia, puede sentar-se cerca y compartir el tiempo.
-8. **Leer en veu alta.** Un poema cortico, un pasache favorito u una carta de un familiar.
-9. **Simplement estar-se chuntos.** Tener-se de las mans u sentar-se en silenzio ye una visita de verdat. L'Alzheimer's Association sinyala que ye normal no saber qué dicir y que la suya presenzia ye lo más importán.
+1. **Mirar fotos.** Sinala lo que veigas: « Mira ixe sombrero. » « Esta playa pinta bien. » Deixa que la persona lleve la charra. Evita « Quién ye ixe? »
+2. **Escuchar musica y cantar.** As canciones de siempre pueden alegrar o ánimo y crear un momento compartito, encara que charrar sía difizil.
+3. **Dar un paseyo curto.** Family Caregiver Alliance recomienda caminar por a residencia, sobre todo por o chardín si n'hai uno. Un paseyo en silla de rodas tamién cuenta.
+4. **Dar un masache de mans.** Un poquet de crema y caricias lentas en as mans pueden tranquilizar.
+5. **Ayudar con o aseo.** Dementia Australia menciona peinar, pintar as uñas u ayudar a ponerse una roupa preferida, si a persona lo disfruta.
+6. **Chugar a un chuego sinzillo.** Family Caregiver Alliance recomienda cartas, dominós u o chuego que la persona chugaba de antis. En una tableta, [Picture Pairs](/games/picture-pairs/) se puede chugar con as imachens a la vista y sin reloch. [Photo Pairs](/games/photo-pairs/) convierte las fotos que tu elichas en un chuego de parexas, y as fotos se quedan en o tuyo navegador.
+7. **Mirar algo chuntos.** Family Caregiver Alliance recomienda comedias y pelicolas de antis. Encara que la persona no siga a historia, puedes sentar-te cerca y compartir o tiempo.
+8. **Leyer en voz alta.** Un poema curto, un texto preferito o una carta de un familiar.
+9. **Sentar-se chuntos sin más.** Dar-se as mans o estar en silenzio chuntos ye una visita de verdat. A Alzheimer's Association avisa que ye normal no saber qué decir, y que a tuya presenzia ye o más importán.
 
-[Conversation Cards](/games/conversation-cards/) pueden ayudar cuan se quedan sin qué dicir. Cada carta tiene un dibuixo y una pregunta abierta.
+[Conversation Cards](/games/conversation-cards/) pueden ayudar cuan se t'acaben las cosas que decir. Cada carta tiene una imachen y una pregunta abierta.
 
-## ¿Cómo debo charrar durante la visita?
+## Como debo charrar durant a visita?
 
-- **Preséntese cada vez.** «Hola, pai, soy Marco, o tuyo fillo». El NIA suxire que os visitantes se presenten brevemen pa empecipiar una charra.
-- **Aprocheque-se por delant** y sién a la mesma altura d'os güellos.
-- **No corrixca ni discuta.** El NIA aconseya a os visitantes no corrixir a la persona si se equivoca u se olvida de algo.
-- **Tienga paciencia** cuan las parolas le cuesten. Dé-le bella tiempo.
-- **Responda a los sentimientos.** Si la persona parexe triste u preocupada, recoñozca-lo antes de cambiar de tema.
-- **Evite preguntas d'examen** como «¿Te acuerdas de mí?» u «¿Qué comiste?».
+- **Presenta-te cada vegada.** « Hola, pai, soi Marcos, o tuyo fillo. » O NIA recomienda que las visitas se presenten brevemen pa empecipiar una charra.
+- **Acércate por delant** y sienta-te a la mesma altura de los ojos.
+- **No corrixas ni discutas.** O NIA aconseya que las visitas no corrixan a la persona si se equibica u si se le olvida una cosa.
+- **Ten paciencia** cuan las palabras cuesten. Da-le mucho tiempo.
+- **Responde a los sentimientos.** Si la persona parez triste u preocupada, reconoze-lo antes de cambiar de tema.
+- **Evita las preguntas de examen,** como « Te acuerdas de mí? » u « Qué has almorzau? ».
 
-Vea nuestros [consellos de comunicazión](/caregiving/communication-tips/) pa mas información.
+Mira os nuestros [consellos de comunicación](/caregiving/communication-tips/) pa más información.
 
-## ¿Qué faigo cuan dicen «quiero ir-me a casa»?
+## Qué faigo cuan dicen « Quiero ir a casa »?
 
-Responda al sentimiento que hai detrás de las parolas (nuestra guía sobre [cuan alguien pide siempre ir-se a casa](/caregiving/asking-to-go-home/) va más alla). Family Caregiver Alliance explica que «quiero ir-me a casa» sovén ye una manera de dicir «no estoy a chusto», y suxire respuestas como «Cóntame de tu casa» u «¿Cuál ye lo que más te gusta de tu casa?». Dementia Australia adde que «casa» puede querer dicir un tiempo u un puesto en o que la persona se sentía segura, como la infancia.
+Responde al sentimiento que hai detrás de las palabras (a nuestra guía sobre [cuan alguien sigue pidiendo ir a casa](/caregiving/asking-to-go-home/) ye más a fondo). Family Caregiver Alliance explica que « Quiero ir a casa » sovén ye una manera de decir « no estoy a gusto », y sugiere respuestas como « Cóntame de a tuya casa » o « Cuala ye a tuya cosa preferida de casa? ». Dementia Australia añade que « casa » puede significar un tiempo o un lugar en o que la persona se sentía segura, como a infanzia.
 
-Pruebe:
+Prueba:
 
-- recoñeixer el sentimiento: «Paré que echas de menos tu casa».
-- ofrecer consuelo con o contacto, si lo acepta
-- mirar fotos u charrar de la casa de la familia
-- ofrecer un paseyo, una beguda u una merienda
+- reconoziendo o sentimiento: « Paez que echas de menos a tuya casa. »
+- ofreciendo consuelo con o tacto, si lo acepta
+- mirando fotos u charrando de a casa familiar
+- ofreciendo un paseyo, una bebida u una golosina
 
-Evite discutir u explicar-le por qué no puede marchar. Raramén ayuda y sovén aumenta la angustia.
+Evita discutir u explicar por qué no puede marchar. Pocas vegadas ayuda y sovén aumenta a angustia.
 
-## ¿Cuánto debe durar una visita?
+## Cuánto debe durar una visita?
 
-As visitas más cortas y más frecuents sovén van mellor. Family Caregiver Alliance alcuenta que la persona normalmente no recuerda si vusté ha estato cinco minutos u cinco horas, y suxire que tres visitas cortas a la semana pueden ser mellores que una larga. Dementia Australia dice que no hay un número correcto de visitas ni una duración correcta.
+Más curta y más frecuent sovén funciona millor. Family Caregiver Alliance avisa que la persona normalmén no recuerda si estas cinco minutos u cinco horas, y sugiere que tres visitas curtas a la semana pueden ser millores que una larga. Dementia Australia dice que no hai un número correcto de visitas ni una duración correcta.
 
-En as primeras semanas dimpués de mudar-se a una residenzia de cuidaus, Family Caregiver Alliance suxire visitar sovén y luego ir asentando-se en un patrón regular. Pregunte a os sanitarios qué ven ellos.
+En as primeras semanas dimpués de mudar-se a una unidat de cuidatos de memoria, Family Caregiver Alliance recomienda visitar a menudo, y luego ir asentando-se en un patrón regular. Pregunta al personal qué ye lo que está veyendo.
 
-## ¿Cómo marcho sin disgustar-la?
+## Como me'n vaig sin disgustar-la?
 
-Marchar puede ser lo más difízil. Dementia Australia suxire:
+Marchar puede ser a parte más difizil. Dementia Australia recomienda:
 
-- **Diga cuánto tiempo puede quedar-se cuan llegue.** «Puedo quedar-me una ora, dimpués tengo que ir a fer compras».
-- **Use una actividat como final natural.** «Cuan acabemos esta canzón, me'n vaigo».
-- **Calcule o momento con una comida u una actividat,** u pida a os sanitarios que ayuden a la persona a meter-se en otra cosa.
-- **Faiga la despedida cortica y siempre igual.** Alargar-la, pedir perdón u quedar-se «un chicotet más» puede fer que las despedidas futuras sían más duras.
+- **Di cuánto tiempo puez quedar cuan chegues.** « Puedo quedar-me una hora, dimpués tiengo que ir a la compra. »
+- **Usa una actividat como final natural.** « Cuan acabemos esta canción, me'n iré. »
+- **Ajusta-lo a una comida u una actividat,** u pide al personal que ayude a la persona a entretener-se con otra cosa.
+- **Manten la despedida curta y siempre igual.** Alargar-la, pedir perdón u quedar-se « un poquet más » puede fer más difizils las despedidas siguients.
 
-Dimpués de marchar, ye normal sentir-se triste. Déixese descansar. Si la persona se disgustó, os sanitarios sovén pueden ayudar-la a calmar-se pronto.
+Dimpués de marchar, ye normal sentir-se triste. Deixa-te descansar. Si la persona se disgustó, o personal sovén puede ayudar-la a calmar-se pronto.
 
-## Visitar a una persona con demenzia en l'espital
+## Visitar a una persona con demencia en o hospital
 
-Un espital ye ruidoso, desconoxito y plen de desconoxidos, y pot ser muito difízil pa una persona con demenzia. La guía del NIA sobre [llevar a una persona con Alzheimer al espital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recomienda:
+Un hospital ye ruidoso, desconoixito y lleno de desconoixencos, y puede ser muito duro pa una persona con demencia. La guía del NIA sobre [llevar a una persona con Alzheimer al hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recomienda:
 
-- **Que alguien se quede con la persona** en o posible: un familiar, un amigo de confiyanza u un cuidador contratau.
-- **Dar a os sanitarios una fulla de información personal** con la rutina de la persona, el nombre que prefiere, lo que le gusta y lo que no le gusta, posibles desencadenantes y sinyals no verbals de dolor. Ponga copias en a sala y en o puesto de enfermeras.
-- **Ayudar a comer y beber.** As personas mayors pueden desnutrir-se en l'espital. Abra los envases, ayude en as comidas, coma en compañía y ofrezca bebidas.
-- **Traer obchetos que consuelen,** como fotos u obchetos espirituals.
-- **Baixar o ruido.** Apague a television y reduza o volumen d'o teléfono y d'o interfón.
-- **Probar rituals calmants,** como musica suau, leer, rezar, cantar u mirar fotos antigas.
-- **Animar a moverse** en o que sía seguro, con permiso de os sanitarios.
-- **Diga-le al doctor de chicote si la persona parexe de repente peor o diferent.** El NIA explica que una confusión subita y grave, llamada delirio, puede estar causada por problemas como una infeción, fiebre, deshidratazión u efectos secundarios de medicamentos, y necesita atención medica.
+- **Que alguien se quede con a persona** en a mayor parte d'o tiempo posible: un familiar, un amigo de confianza u un cuidador contratau.
+- **Dar-le al personal una fuella con información personal** con a rutina de la persona, o nombre que prefiere, lo que le gusta y lo que no le gusta, posibles desencadenantes y sinyals no verbals de dolor. Pon copias en a sala y en o puesto de enfermería.
+- **Ayudar a comer y beber.** Las personas mayors pueden desnutrir-se en o hospital. Abre os envases, ayuda con as comidas, come chunto y ofrece bebidas.
+- **Portar cosas que consuelen,** como fotos u obchectos espirituals.
+- **Baixar o ruido.** Apaga a television y reduz o volumen d'o teléfono y d'o interfono.
+- **Probar rituals que calmen,** como musica suau, leyer, rezar, cantar u mirar fotos vellas.
+- **Animar a moverse** en a mayor medida que sía seguro, con o visto bueno d'o personal.
+- **Avisar al doctor en o momento si la persona parez de golpe peor o diferent.** O NIA explica que una confusión severa y sobtada, llamada delirio, puede estar causada por problemas como una infección, fiebre, deshidratación u efectos secundarios de medicamentos, y necesita atención medica.
 
-Una visita corta y tranquila con una cara conoxida y una canzón que le guste puede ser la parte más reconfortante d'un día en l'espital.
+Una visita curta, tranquila, con una cara conoixida y una canción preferida puede ser a parte más reconfortante d'un día de hospital.
 
-## Llevar a los nenos a una visita
+## Llevar a nenos a una visita
 
-Los nenos pueden dar muita calor. Prepárelos de antemano con parolas sinzillas y sinceras, faiga la visita cortica y dé-les una tarea, como ensenyar un dibuxo u dar una foto. El NIA suxire que los nenos y las personas con Alzheimer pueden disfrutar chuntos de actividatz sinzillas, como mirar un album de fotos u escuchar musica. Dementia Australia suxire llevar una bolsa pequeña con chuchitas u cosas tranquilas pa mantener entretenidos a los nenos chicotets.
+Os nenos pueden dar muita calidez. Prepara-los con antelación con palabras sinzillas y sinceras, manten la visita curta y dalos una tarea, como ensenyar un dibuixo u dar una foto. O NIA suggiere que os nenos y as personas con Alzheimer pueden disfrutar chuntos de actividatz sinzillas, como mirar un album de fotos u escuchar musica. Dementia Australia recomienda portar una bolseta pequeña con golosinas u cosas tranquilas pa mantener entretenitos a os nenos chicorros.
 
-## Cuide-se tamién a vusté
+## Cuida tamién de tu mesmo
 
-Visitar puede cansar y afeutar, sobre todo si la persona ha cambiau muito. Ye normal visitar menos a menudo si lo necesita, traer a un amigo pa tener apoyo u marchar antes en un día difízil. Pa consellos sobre cómo cuidar-se, vea [o autocuidau de la persona cuidadora](/caregiving/caregiver-self-care/). Si vive lueñe, vea nuestra guía sobre [las llamadas telefónicas y de vídeo](/activities/phone-and-video-calls/).
+Visitar puede ser cansau y emocional, sobre todo si la persona ha cambiau muito. Ye normal visitar menos a menudo si lo necesitas, traer a un amigo pa tener apoyo u marchar antes en un día duro. Pa ideyas sobre como cuidar-te, mira [o autocuidau d'o cuidador](/caregiving/caregiver-self-care/). Si vives lueñe, mira a nuestra guía sobre [llamadas telefónicas y videollamadas](/activities/phone-and-video-calls/).

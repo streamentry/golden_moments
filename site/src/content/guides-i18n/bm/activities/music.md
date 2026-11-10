@@ -1,33 +1,33 @@
 ---
-title: "Musiki kɛlikɛlaw mɔgɔ minnu bɛ dementia la"
-seoTitle: "Dementia ka musiki kɛlikɛlaw: liste ni ciɲɛ"
-description: "Cogo min na musiki ka sɔrɔ ni mɔgɔ min bɛ dementia la: liste yɛrɛ ka tɛmɛsira waati ni musiki sɔrɔsiraw fɛ, musiki kɛlikɛlaw 15 dɔgɔman, ani ciyɛrɛ ka ɲɛ sigi kɔnɔ."
+title: "Musiki sɛbɛnw dementia bana minɛnw ye"
+seoTitle: "Dementia kɔnɔ musiki sɛbɛnw: playlist ni ladilikanw"
+description: "Dementia bana min bɛ ɲɛnamaya la, o ye musiki ka playlist yɛrɛ ta, musiki kɛlɛ 15 ta, ani ladilikanw ka ɲɛnamaya kɔ kelen-kelen ma cogo min na."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Musiki ye kɛlikɛla ye min ka gɛn ka se ka sɔrɔ ni mɔgɔ min bɛ dementia la. I
-  ka se ka liste yɛrɛ ta musiki ka fɛn min ɲɛnɛma ye a dɔgɔya, a ka dugukolo
-  ni a ka lamaya ni a ka jamakɛ la, ka o da kɛ ni tɛ reklam ni tɛ fɛn wɛrɛ
-  ye. I ka se ka dɔn ni fɔ, ka da kɛ, ka tɔnɔ kɛ, walasa ka sɛgɛn ko kɔnɔ ni
-  aw ye. Musiki fɛ min ka sɛgɛn ni hɛrɛ b'a sɔrɔ ni waati, o sugandi, ka
-  hakɛ kɔrɔya ka ɲɛ sigi, ani ka bɔ ni a bɛ kɔrɔ dɔ ye mɔgɔ la.
+  Musiki ye kɛlɛ dɔ ye min ka ɲɛ dementia bana minɛnw ye ka sɔrɔ ka fara u ɲɛ kan.
+  I bɛ se ka playlist ta u ka musiki ma min ye u ka ɲɛnamaya fɔlen, u ka
+  dɔnkili ni u ka jamana ta, ka o ta kɛlɛ ni reklam ani wulilen tɛ. I bɛ se ka
+  dɔnkili, kɔlɔ, sɔnɔ ni u ka musiki ka ɲɛ, walasa i ni u ka bɛ kɛ ɲɔgɔn fɛ. Musiki
+  lakana ni musiki ɲɛnagaman sugandi ni waati o waati, ani musiki ka sɛbɛ
+  ka mɛnni ka sabati, ni dɔ u ka dusukasi ka gɛn, o kɔ ka ɲɛnɛ.
 keyPoints:
-  - "Musiki yɛrɛ ka kɛlikɛla ka ɲɛ ka bon: musiki ni u ye fɔlɔ ka kɛ ni u ye ka mɔgɔba ye, ani musiki min bɛ jamakɛ, lamaya ni dugukolo la."
-  - "Ka musiki kelen kɛ waati kelen na, tɛ reklam ani ka televiziyɔn tulu."
-  - "Tɔnɔ kɛ, da kɛ, kɔrɔ ka sɛgɛn ni kumakan ka sɛgɛn, o bɛɛ ye cogo ye min b'a to mɔgɔ bɛ kɛ."
-  - "Musiki min kɔrɔ ye, o ka se ka sigi; musiki min ka fɛ, o ka se ka hakɛ kɔrɔya. Ka ɲɛ to mɔgɔ ka jaabi ye."
-  - "Sɛbɛnnin min bɛ musiki kɛli fɛnw ko ni sɛgɛn ye, o ka fitinin dɔrɔn ye; an b'a fɔ ko musiki ye fɛn ye min ka ɲɛ ka bon ka sɔrɔ ni mɔgɔw, o tɛ dawɔrɔ ye."
+  - "Musiki yɛrɛ ta, o ka ɲɛ ka tɛmɛ: musiki min u ka sɔrɔ ka kɛ u dɔnkili fɛɛ ni u ka jamana ni u ka dɔnkili ka sɛbɛnw ye."
+  - "Musiki kelen kelen ta, reklam tɛ ani TV kɛ."
+  - "Dɔnkili, kɔlɔ, sɔnɔ ni musiki ɲɛ kɛ, o bɛɛ ye kɛlɛ ye min bɛ dɛmɛ."
+  - "Musiki lakana bɛ dɛmɛ ka hɔrɔnya, musiki ɲɛnagaman bɛ dɛmɛ ka dusukasi ɲɛ; ka ɲɛnɛ ka mɛnni a ka kɛ cogo min na."
+  - "Musiki kɛlɛ ɲɛnɔgɔnyanw tɛ caman; an bɛ musiki ta ka kɛlɛ ɲɛ dɔ ye, ka tɛ ka kɛ ka dɛmɛ ye."
 faq:
-  - q: "Musiki jumɛn ye dementia la mɔgɔ ye ka ɲɛ?"
-    a: "Musiki min mɔgɔ ye a dɔn ani a fɛ tuma caman, a bɛ se ka bɔ a ka dɔgɔya waatiw la ka se a ka bɔnɛ ni a ka fɛ, ani musiki min bɛ a ka dinɛ ni a ka jamakɛ ni a ka sɛnɛkɛlaw la. Ni o bɛ se ka kɛ, a ka kɛ a ka sugandi ye. Ka a ɲɛ ni a ka dɔnɛ ɲɛ walasa ka dɔn o min bɛ a ka fɛ; musiki o musiki min bɛ a hakɛ sɔrɔ, o bɛ bɔ."
-  - q: "Ka kɛ ni kasatɔfɛn ye wa?"
-    a: "Mɔgɔ dɔw bɛ kasatɔfɛn fɛ, katuguw bɛ fɛn wɛrɛ mɛn. Mɔgɔ wɛrɛw bɛ o sɔrɔ tɔɔrɔ ye walima u bɛ dɔgɔya ka dɔn. Fɔlɔ ka speaker ta, walasa ka tulu ka se ka kɛ ni u ye. Ni i bɛ kasatɔfɛn kɛ, ka kɔrɔ dɔrɔn ka da ka a ni mɔgɔ bɛ dɔrɔn ka gɛn."
-  - q: "Musiki bɛ se ka dɛmɛ ni hakɛ kɔrɔ dɔ ye walima hakɛ kɔrɔ ye?"
-    a: "Musiki hɛrɛ ani dɔnnen bɛ se ka dɛmɛ ka hakɛ hɛrɛ kɛ, Alzheimer's Association b'a fɔ ko musiki bɛ se ka kɛ hakilijakabɔ ye min bɛ se ka kɛ i ka wajibi ye. A tɛ kɛ tuma bɛɛ ye. Ni mɔgɔ bɛ hakɛ kɔrɔ, a ka ɲɛ to dɔ bɛ wa ka dɔ dɔ ɲini: jɛgɛ, dɔgɔ, kulukulu walima sɔgɔ."
-  - q: "Dementia ka dɔ min bɛ se ka kɛ kɔlɔsili la, o mɔgɔ bɛ se ka musiki ye wa?"
-    a: "Mɔgɔ caman bɛ se. Alzheimer's Association b'a fɔ ko kɔlɔsili la mɔgɔ bɛ se ka ka fiyɛn ka dɔ wɛɛrɛ walima ka kɔrɔ ni dɔ ye min ye a denw ka tuma ye. Sigi a gɛlɛn, musiki kɔrɔ ka fɔ, ani ka a bolo ka bɔ walima ka fɛn ka tulu ni a ye."
+  - q: "Musiki jɔn ye dementia bana min bɛ ɲɛnamaya la, o ka ɲɛ?"
+    a: "Musiki min u ye a kɛ ka ca ni a dɔnnen waati ye, a bɛ kɛ u ka ɲɛnamaya kɔfɛ ni u ka tɔgɔ fɛ, ani musiki min bɛ u ka dinɛ ni u ka jamana ni u ka dɔnkili ta. Ni o bɛ se, u ka sugandi ka kɛ. Ka u ka fɛn ɲɛnɛ ni u ka tɛ ɲɛ, walasa i ka a dɔn u bɛ ɲɛ mun, ka musiki min bɛ u dusu gɛn, o bɔ."
+  - q: "Ka mɛ ka sɔnkɔrɔnw kɛ wa?"
+    a: "Mɔgɔ caman bɛ sɔnkɔrɔ ɲɛ, bawo u bɛ wulilen bɔ; mɔgɔ tɔw bɛ a ɲɛ ka tɛmɛ ka kɛ hɛrɛ tɛ, a bɛ u ɲɛ ka ɲɔgɔn. Jɔrɔ fɔ ka kɛ ka mɛ ni karijan ye, walasa aw ka kɛ ɲɔgɔn ye. Ni sɔnkɔrɔ kɛra, sɔnkɛ ka fitinin ka ɲɛ ka kɛ, ani i ka ɲɛ ka kɛ u ɲɛ kɔ."
+  - q: "Musiki bɛ dɛmɛ ka wulilen ni dusu gɛnw ma wa?"
+    a: "Musiki lakana, min u dɔnnen bɛ, bɛ dɛmɛ ka hɔrɔnya lakana. Alzheimer's Association ka a fɔ ko musiki bɛ dɛmɛ ka hɔrɔnya sɔrɔ, o kɔ tɛ fɛɛrɛ bɛɛ kɛ. Ni mɔgɔ bɛ tɛ ɲɛ, a ka ɲɛ ka tɔɔrɔ, ka dɔ, ka wulilen ni ka sɔgɔ ye, o ka ɲɛ."
+  - q: "Dementia ka ɲɛnamaya kɔfɛ bana min bɛ, o bɛ se ka musiki ɲɛ wa?"
+    a: "Mɔgɔ caman bɛ se. Alzheimer's Association ka a fɔ ko mɔgɔ min bɛ dementia ka laban kɔfɛ, a bɛ se ka tapa ni musiki ka dɔnkili ni ko ka kɛ musiki dɔ ye min u dɔnnen bɛ denw ka waati la. Sigi a dɛ kɔrɔ, musiki kɛ ni sɔngɔ ye, ani ɲɛ dɔ bɛ kɛ ni a bolo ɲɛ ni u ka ɲɛ ka sɛɲɛ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -46,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Musiki ye fɛn ɲumanba ye min bɛ se ka sɔrɔ ni mɔgɔ min bɛ dementia la. A tɛ fɛn ka wajibiya: jaabi ɲuman tɛ a la, sɛko kɛlɛ tɛ a la. Dɔnnen dɔ bɛ se ka hakɛ fɛ, ka ɲɛmɔgɔya kɛ, walima ka kuma ka dɔ tɔnɔ, hali ni tɔgɔ ko kɔrɔ bɛ kuma gɛlɛya. O bɛɛ bɛ ko ni musiki ɲuman ye mɔgɔ min bɛ aw ka kɔnɔ, ani waati hɛrɛ min na ka o ta.
+Musiki ye kɛlɛ ye min ka ɲɛ ka sɔrɔ ka fara dementia bana min bɛ ɲɛnamaya la ɲɛ kan. A tɛ wajibiya kɛlɛ dɔ ye: jaabi ɲuman tɛ, ni kɛlɛ dɔ tɛ min ka ɲɛ ka kɛ kɔrɔ. Dɔ min dɔnnen bɛ, a bɛ dɛmɛ ka dɔ ka kɛ ka dusu, a ka tapa ni a ka dɔnkili min bɛ ɲɔgɔn ka dɔnkili, hali ni kuma bɛ u ye gɛlɛn don min na. I ka musiki min ka ɲɛ mɔgɔ ye, ni waati wulilen dɔ, o bɛ se ka kɛ.
 
-## Musiki kɛlikɛlaw jumɛnw bɛ baara kɛ dementia la mɔgɔw ye?
+## Musiki kɛlɛ minnu bɛ ɲɛ dementia bana minɛnw ye?
 
-Musiki ka lamɛn, tɔnɔ kɛ, da kɛ, ani musiki kuma, bɛɛ bɛ baara kɛ ɲɛ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) b'a fɔ ko i ka se ka musiki ta, musiki ni a dɔnikɛla ko kuma, dɔnnen dɔ ka hɔrɔnyɔrɔ lamɛn walima ka da kɛ ni o ye, ani ka dɛsɛ ni kɛɲɛ lamɛn dɔ ye jamakɛ la. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) b'a fɔ fana ko kɔrɔ ni da kɛ i ko kɛlɛ ka tɔnɔ, ani ko musiki bɛ se ka kɛ sira ye walasa ka ɲɛmɔgɔya kɛ kuma gɛlɛnna ka kɔ.
+Musiki ka ɲɛ, dɔnkili, kɔlɔ, sɔnɔ ni musiki kuma bɛɛ ye kɛlɛ ɲuman ye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka a fɔ ko i bɛ se ka musiki ta, ka musiki ni a dɔnkilila kuma, ka dɔnkili ni sɔnɔ dɔ min dɔnnen bɛ, ani ka taa musiki ni kɔnɔfɔlɔ kɛlɛw la dugukolo kɔnɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ka a fɔ fana ko kɔlɔ ni sɔnɔ i ko kɔlɔ ni dɔnkili bɛ musiki ka ɲɛ ka bon, ani ko musiki bɛ se ka kɛ ka ɲɔgɔn ka sɔrɔ, kuma ka gɛlɛya kɔfɛ.
 
-## I bɛ se ka musiki liste yɛrɛ ta cogo di?
+## I bɛ se ka playlist yɛrɛ ta cogo di?
 
-Fɛn ɲumanba min i bɛ se ka ta, o ye liste ye musiki ta min b'a ka fɛn ye mɔgɔ min ye. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) fana b'a jaabi ko musiki min bɛ fɛn ka fɛ mɔgɔ ye, o ka bon. Nin ye cogo dɔgɔman ye min bɛ se ka kɛ.
+Playlist min ka ɲɛ ka bon ni o ye musiki ye min bɛ mɔgɔ in ka dusu. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) fana bɛ musiki min bɛ ka mɔgɔ ka ɲɛnamaya la, o jate. Nin ye cogo fɛɛrɛ ye min bɛ se ka kɛ.
 
-### Fɔlɔ, a ka ɲɛnamaya ka ɲɛfɔ
+### A ka ɲɛnamaya fɔlen
 
-- **A ka ɲɛnɛ ni a ka kɛnɛ waati.** Hakilina ka radiyo, ka bɔnɛ, ani ka fiyɛn min bɛ kɛ a denw ka tuma la.
-- **Waati nɔgɔnman.** Musiki min bɛ kɛ a ka furu la, a ka ɲɛfɛ dumuni, walima album min a nisɔngɔ ka fɛ ni denw ye ka tilebin la.
-- **Dinɛ ani jamakɛ.** Dinɛ dɔnnen, dinɛ hɛrɛ, dinɛ kɔrɔ, walima dɔnnen min bɛ a ka kan fɔlɔ la.
-- **Baara ani ka baara kɛ jamanaden na.** Marsi ka sɛgɛn, baara dɔ ka sɛgɛn, walima musiki min bɛ sɔrɔ waati dɔ la min a bɛ sɔjɔrɔ dɔ la.
-- **Mun denw ni dɔnnen dɔ ye ka dɔn.** Ka ɲininɛ denw, ɲininɛ ka sɔn, ani ɲɛmɔgɔw min bɛ sɔn ka fɔ mun b'a ka sɛgɛn tuma bɛɛ.
+- **A ka denmisɛnnin ni a ka ɲɛnamaya kɔfɛ.** Hakili to ka miiri ko radiyo, dɔnkili ni sinɛma la, o waati la musiki jɔn bɛ a la.
+- **Waati nin ka ɲɛ.** Musiki min bɛ a ka sennen ta, a ka dɔnkili ni a ka denw ka musiki min u bɛ tɛmɛ fɛ.
+- **Dinɛ ni jamana.** Dinɛ dɔnkili, gospel, musiki sanuman, walasa musiki min bɛ a ka kan fɔlɔ la.
+- **Baara ni ka kɛ jamana ka kɛlɛ.** Musiki ka dɔnkili, baara dɔ ka musiki, walasa musiki min bɛ waati dɔ la ka kɛ sɔrɔ.
+- **Denw ka hakilina.** Ka a ka balimaw, a ka denw ni a ka tɔɔrɔ ka musiki min u ye a ta kɛ, o dɔnni.
 
-### Hakilina sɔrɔsiraw la, tɛ dɔrɔn dɔ la
+### Musiki ka siraw ni ko kɛlɛ, sɛbɛ kelen kelen tɛ
 
-Ni i bɛ jɛ ka sɔrɔ se, ka waati dɔgɔman dɔ ta sɔrɔsiraw minnu kɔnɔ: big band ni swing, doo-wop, Motown ani soul, rock and roll fɔlɔ, country and western, bluegrass, gospel ni dinɛ, Broadway show tunes, jazz standards, Latin musiki i n'a fɔ bolero walima mariachi, polka, folk ani musiki kɔrɔ. Ka min bɛ kɛ ni ɲɛ ni tɔnɔ ye, o to; ka min bɛ kɛ ni ɲɛ dɔ ye, o bɔ.
+Ni i bɛ hakilina ko i bɛ se ka daminɛ cogo di, i ka siraw dɔw ka miniti dɔw ta, ka a ye min bɛ kɛ, ka a ɲɛnɛ: dɔnkili bandi ni swing, doo-wop, Motown ni soul, rock and roll ka fɔlɔ, country ni western, bluegrass, gospel ni dinɛ musiki, Broadway musiki, jazz, Latin musiki i ko bolero ni mariachi, polka, folk ni classical. Min bɛ kɛ ka sɔnɔ ni dɔnkili, o to; min bɛ ɲɛ ka wuli, o bɔ.
 
-### Ka a kɛ ka dɔgɔ ka tɔnɔ
+### Ka kɛlɛ ka sɔrɔ ka fariso
 
-- **Tɛ reklam.** Alzheimer's Association b'a fɔ ko reklam bɛ se ka kɛ ka hakilina tɛ. Ka musiki min sɔrɔla fɛn, CD, disiki walima ka ɲɛfɛ min bɛ kɛ tɛ reklam ye, o kɛ.
-- **Fɛn kelen dɔgɔman.** Speaker min bɛ bɔtɔn kelen ka bon, walima liste min bɛ to ka kɛ ka se, walasa mɔgɔ o mɔgɔ ka se ka a daminɛ.
-- **Liste fila dɔgɔman.** Liste hɛrɛ min bɛ hakɛ hɛrɛ kɛ, ani liste ka bon min bɛ hakɛ kɔrɔya.
-- **A tɔgɔ kɔnɔ.** Mɔgɔ tɔgɔ ni "musiki min a fɛ" bɛ sɛbɛn ka fɛn kan, walasa ni denw ni baarakɛlaw bɛ se ka a kɛ.
+- **Reklam tɛ.** Alzheimer's Association ka a fɔ ko reklam bɛ se ka hakili gɛlɛya. Musiki min bɛ kɛ a ka kɛ download, CD, disiki walima reklam tɛ service dɔ kɔnɔ, o ta.
+- **Ɲɛnamaya dɔ min ka fɛ.** Kan dɔ min bɛ kɛ ni bɔtɔn dɔ ye, walima playlist min bɛ tɛ, walasa mɔgɔ o mɔgɔ bɛ se ka kɛ.
+- **Playlist fila ka kɛ.** Dɔ lakana min bɛ dɛmɛ ka hɔrɔnya, ani dɔ ɲɛnagaman min bɛ dɛmɛ ka dusukasi ɲɛ.
+- **Tɔgɔ sɛbɛ.** Mɔgɔ tɔgɔ ni “musiki min ka ɲɛ” sɛbɛ kan min bɛ kɛ, walasa ni denw ni baarakɛlaw bɛ se ka kɛ a kan fana.
 
-## Musiki kɛlikɛlaw 15 min i bɛ se ka kɛ
+## Musiki kɛlɛ 15 min ka ko ka ɲɛ
 
-1. **Ka musiki lamɛn ni mɔgɔ kelen.** Sigi ni ɲɛ kelen ye, fɛn wɛrɛ tɛ ɲɔgɔn na. Musiki lamɛn yɛrɛ ye kɛlikɛla ye.
-2. **Ka da kɛ.** Daminɛ ka lamɛn yɛrɛ. Ka hɔrɔnyɔrɔ walima ka kuma kɔrɔ ka fɔ, o bɛ jate.
-3. **Ka tɔnɔ walima ka tɔnɔ kɛ ni dɔgɔ.** Ka kɔnɔ kɛ, ka tabili kɛ, walima ka dulun dɔ ka se.
-4. **Dɔgɔ kɛlɛ.** I bolo ka bɔ ni ɲɛ, ka lamɛn tabali kɔrɔ walima ka kɔnɔ ka sigi ka bolo ka to ni o ye.
-5. **Ka sukuru ni ka lamɛn.** Ka sukuru ɲɛfɛ kɛ musiki ka tɛmɛsira la, ka sigi walima ka wuli.
-6. **Ka musiki kuma.** Ka wele, ka tɔgɔ kɛ: "O ko i ko bɔlɔ ka tɛmɛsira ye. Aw ka ɲɛfɛ kuma." Tɛ o fɔ: "I b'a dɔn ko musiki ni?"
-7. **Album dɔ ka lamɛn fɔlɔ ka se a laban ma.** Kɔlɔsi dɔ min a fɛ tuma caman, a fɔlɔ ka se a laban ma, ni kafe bɛ.
-8. **Album ka sɛgɛn ɲɛ.** Disiki ka sɛgɛnkan kɛ fɛn ɲumanba ye ka kuma ni furu, mɔbili ni ɲɛ ko kan.
-9. **Musiki kɛlikɛla ɲɛ.** Musiki walima kontɛri min ka fɛn kɛra a ka waati la, o bɛ ko ɲuman kɛ dɔnkili ye. Ka sigi ka dɔgɔ waatiw kɛ.
-10. **Dɔnnen dɔ min bɛ dɔnkili ka bɔ.** Pianɛ walima gitar fɛnɛ dɔ min bɛ dɔn ka fara, o bɛ se ka kɔrɔ ka lamɛn ka ɲɛ. Kɔlɔsili la, kelen-kelen ka dɔnkili bɛ to.
-11. **Musiki ni baara.** Musiki min a fɛ ka kɛ ni kɔnɔ ni muso ka kɔ, walima ka kuban ka ta.
-12. **Sukuru ka fɛn.** Ka sukuru kelen ka lamɛn ka da ka sɔrɔ a ka sɛgɛn la, ka ɲɛmɔgɔya ka fɛn ye.
-13. **Ka dinɛ walima musiki sigiyɔrɔ lamɛn.** Ka musiki min bɛ a ka dinɛ kɔnɔ, ka da kɛ ni o ye.
-14. **Ka lamɛn ni mɔgɔw ye.** NHS b'a fɔ ko musiki lamɛn kɔnɔ ni mɔgɔw bɛ ɲɛmɔgɔya ni sɛgɛn kɛ ɲuman. Ka dementia ka mɔgɔ lamɛn ni mɔgɔw ka dɛsɛ fɔ jamanaden na.
-15. **Ka sɔn musiki sɛgɛnnen na.** Jamakɛ ka musiki dɔgɔman walima tilebin musiki dɔ. Sigi ka bɔ-sira kɔrɔ, ka bɔ ni i fɛ tuma o tuma.
+1. **Ɲɔgɔn fɛ musiki ta.** Sigi ɲɔgɔn kɛrɛ, fɛn wɛrɛ tɛ. Musiki ta ye kɛlɛ dafalen ye.
+2. **Ɲɔgɔn fɛ dɔnkili.** I yɛrɛ daminɛ dɔnkili la. Sɔnɔ ni kuma ka ɲɛ ka kɛ kɛlɛ.
+3. **Kɔlɔ walima tapa ka sɔrɔ.** Ka i ka kɔlɔ fɔ, ka tabli kan tapa, walima tapa fɛlɛ sɔrɔ kɔlɔ dɔ.
+4. **Dɔnkili kɛlɛ dɔ.** Bolo ɲɛ ka sɛɲɛ ka wuli ka taa ka ɲɛ ka dɔnkili, walima sigi ka dɔnkili, ni bolow ɲɔgɔn fɛ.
+5. **Sali dɔnkili.** Sali fitinin ka dɔnkili musiki la, ka sigi walima ka wuli.
+6. **Musiki kuma.** Ka kuma ni a ka sɔrɔ, ka kuma min bɛ kɛ ni hɛrɛ ye: “O bɛ i ko dɔnkili jɛɲɔgɔnya. Ne ye, dɔnkili min kɛra, o kuma.” Ka tɛ ka ɲininka “I bɛ musiki in dɔnna wa?”
+7. **Album dɔ bɛɛ ta.** Disiki min u bɛ fɛ, o ta ka daminɛ ka se ka ban, ni kafe ye.
+8. **Album ka sɛbɛnw ye.** Disiki ka sɛbɛnw ka kuma ka kɛ fasa, mɔtɔ ni mɔgɔw ka jɛɲɔgɔnya kan.
+9. **Sɛbɛn min kɛra filimu musiki kan.** Filimu musiki walima konsɛri min bɛ kɛ u ka waati kɔnɔ, o bɛ kɛ sɛgɛsɛgɛ ɲuman ye. Ka sɔrɔ ka ɲɛmɔgɔ ka sɔrɔ.
+10. **Musiki organi dɔ min dɔnnen bɛ, o ka kɛ.** Pianiso walima gitari ka kɛlɛ min bɛ a dɔnnen, o bɛ se ka ɲɛ ka kɛ kɛlɛ ɲuman ye. Waati nɔgɔn kɔfɛ, a ka notw ɲɔgɔn fɛ ka kɛ ka to.
+11. **Musiki ni baara.** Ka musiki min bɛ a ka ɲɛ, o ka kɛ ka kɔnɔ ka tɛlɛn walima ka dumuni tanga.
+12. **Sɛgɛ musiki.** Ka dɔ dɔ ka musiki ka kɛ ka sɔrɔ ka sɛgɛsɛgɛ ka kɛ sɛgɛsɛgɛ kɔnɔ.
+13. **Dinɛ musiki walima sali.** Ka musiki min bɛ a ka dinɛ kɛlɛ kɔnɔ, o ka kɛ ka dɔnkili ni ɲɔgɔn fɛ.
+14. **Dɔnkili jɛ ni mɔgɔ tɔw ye.** NHS ka a fɔ ko dɔnkili jɛ bɛ dɛmɛ ka hakilinata ni ɲɛnamaya ɲuman ma. Ka dugu kɔnɔ ka mɛn ka dementia ni hakili fɛ ɲɔgɔnya dɔnkili jɛ.
+15. **Musiki kɔnɔ ka taa.** Konsɛri kɛlɛ dɔ, walima musiki yɔrɔ gɛlɛn dɔ. Sigi ni fɛɛn bɔ yɔrɔ ye, ni i fɛ ka bɔ, i bɛ se ka bɔ.
 
-Ni i fɛ kɛlikɛla dɔgɔ ka kuma ni kuma dɔnnen ye, ka [finish the saying](/games/finish-the-saying/) ɲini, o kɔnɔ i bɛ se ka ɲɛfɛ ka sɔn tuma bɛɛ.
+Kuma kɛlɛ dɔ min dɔnnen bɛ, ka ko ka laban ka fɔ, [ko ka laban ka fɔ](/games/finish-the-saying/), o bɛ se ka kɛ, ni i bɛ se ka laban ko yɛrɛ jira waati o waati.
 
-## Musiki ka dɔ ni waati
+## Musiki ka sɛgɛsɛgɛ waati o waati
 
-Alzheimer's Association b'a fɔ ko musiki bɛ se ka kɛ hakilijakabɔ ye min i fɛ: musiki hɛrɛ ka ɲɛmɔgɔya kɛ, ani dɔnnen cheerful dɔ mɔgɔ ka denw ka tuma la ka hakɛ kɔrɔya.
+Alzheimer's Association ka a fɔ ko musiki bɛ se ka kɛ ka hakilina ɲuman sɔrɔ: musiki lakana ka hakilina ɲuman sɔrɔ, ani dɔnkili min kɛra mɔgɔ ka dɔnkili la ka hɔrɔnya ka dusu ka wuli.
 
-| Waati | I bɛ se ka kɛ | Ciyɛrɛ |
+| Waati | Ka kɛ | Ladilikan |
 | --- | --- | --- |
-| Ka wuli | Dɔnnen cheerful dɔ | Sukuru kelen kelen dɔ ka wulikɛli ye a ka dɔgɔ bɛ kɛ |
-| Baara | Dɔnnen tɔnɔbaliw | Musiki bɛ baara kɛ ko ɲɔgɔn bɛ |
-| Dumuni | Musiki instrumentali ɲuman | Ka a kɛ ɲɛgɛn, walasa a tɛ dumuni kɔrɔ |
-| Don-don kɔfɛ | Musiki hɛrɛ, dɔnnen | A ka bɔ ni ɲɛ [kɔfɛ hakɛ gɛlɛya](/caregiving/late-day-restlessness/) |
-| Dɔrɔn | Musiki hɛrɛ ani dɔgɔ | Ka kɔrɔ ni ɲɛ kɔrɔ ka ɲɛ tɔgɔ |
-| Kɔlɔsili | A ka dɔnnen min fɛ tuma caman, dɔgɔ kosɛbɛ | Sigi ni ɲɔgɔn ye ka bolo ka to |
+| Wuli ka taa | Dɔnnen, ɲɛnagaman dɔ | Musiki kelen sɔgɔma o sɔgɔma bɛ kɛ sugandi ye |
+| Baara | Musiki ɲɛnagaman min dɔnnen bɛ | Musiki bɛ baara ka kɛ i ko ɲɔgɔn ye |
+| Dumuni | Musiki sɔnɔ ma kɛ wulilen | Ka a kɛ ka sɔrɔ, walasa a kɛ dumuni ni ka ɲɛ tɛ |
+| Tile kɔfɛ | Musiki lakana ni dɔnnen, ni hɛrɛ bɛ tɛ | Ka [tile kɔfɛ hakili gɛlɛya](/caregiving/late-day-restlessness/) ɲɛ |
+| Sɛgɛ | Musiki sɛgɛ, ni a ka fitinin bɛ | Ka sɔnɔ dɔgɔya ani ka fitinin dɔgɔya |
+| Ɲɛnamaya kɔfɛ | Musiki min u ka ɲɛ, a ka hɛrɛ dɔgɔ | Sigi ɲɔgɔn fɛ, ka bolo ɲɛ |
 
-## Ciyɛrɛ ɲuman ka sɔrɔ ni cogo min
+## Kɛlɛ ɲɛ kɛlɛ ka ladilikanw
 
-- **Fɛn wɛrɛ ka kɛ ɲɛgɛn.** Alzheimer's Association b'a fɔ ko i ka windo ni duguma ka kɛ, ka televiziyɔn tulu, walasa musiki kelen ye fɛn ye min bɛ kan.
-- **Ka tɔnɔ kɛ dɔgɔ.** Musiki ka kɛ ni dɔgɔ ye, tɛ ni kɛɲɛ ye. Ni mɔgɔ bɛ kan dɔgɔ dɔ mɛn, a ka kan ka kɛ ka bɔ ni a ka kan bɛ baara kɛ; [kan](/brain-health/hearing/) ɲini.
-- **Ka ɲɛ to fɛn min bɛ hakɛ ɲɛgɛn kɛ.** Musiki dɔw bɛ dusukasi, ko walima sɛnɛ kɔrɔ. Ni dɔnnen dɔ bɛ a hakɛ ɲɛgɛn, a ka ɲɛ tɔnɔ ka dɔnnen wɛrɛ kɛ.
-- **Ka a kɛ ka kɛ ni a yɛrɛ ye.** Ni a bɛ se, ka a ka musiki sugandi, ka "ɔɔ" dɔ yɛrɛ jaabi.
-- **Ka sɔrɔ ka bɔ.** Musiki miniti 5 ye kɛlikɛla ɲuman ye. Ka musiki bɔ ka sigi dɔgɔ kɔnɔ, o fana ye.
+- **Fɛn wɛrɛ ka wulilen ɲɛ.** Alzheimer's Association ka a fɔ ko i ka bolo, ka da ani ka TV ɲɛ, walasa musiki kelen bɛ sɔnɔ.
+- **Sɔnɔ ka dɔgɔ.** Musiki ka kɛ ɲɛnagaman ye, a tɛ ka kɛ gɛlɛn. Ni mɔgɔ bɛ sɔnɔ dɛ ɲɛ ka kɛ, a ka sɔnɔ ka kɛ fitinin ye, ka kɛ ka bɛn; [sɔnɔ](/brain-health/hearing/) ka ɲɛ ka ɲɛ.
+- **Ɲɛ ka musiki min bɛ dusu bin.** Musiki dɔ bɛ dusukasi jɛnɛ, bɔnɛ walima ɲɛnamaya bɛ dusu bin. Ni musiki dɔ bɛ mɔgɔ dusu bin, aw ka a dusu, ka musiki wɛrɛ kɛ.
+- **Ka mɔgɔ ka kuma ta.** Ni se bɛ, ka mɔgɔ yɛrɛ ka musiki sugandi, ani a ka “ayi” ta.
+- **Ka waati ni kɛlɛ ɲɛ.** Musiki miniti duuru ye kɛlɛ ɲuman ye. Musiki ka kɛ ka bɔ, ka sigi ɲɔgɔn fɛ, o fana ye kɛlɛ ɲuman ye.
 
-## Sɛbɛnnin min bɛ musiki ni dementia ye, o b'a fɔ mun?
+## Ɲɛnɔgɔnya bɛ musiki ni dementia kan cogo di?
 
-Sɛbɛnnin bɛ dɔgɔ. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ye sɛbɛnnin 30 ye min bɛ musiki sɛgɛnnen ye, a caman bɛ kɛ jamakɛ la ni dɔgɔ-so ye. A ye a sɔrɔ ko o sigiyɔrɔ bɛ ɲɛgɛn kɛ kosɛbɛ, ka dusukasi hakɛ ɲɛgɛn kɛ kɛlɛ dɔgɔ ni kɛlɛ ka dɔnkili ye, nka a ma sɔrɔ ko hakɛ gɛlɛya, ɲɛmɔgɔya walima hakilina kɔrɔ ye ka ɲɛ, ani a ma sɔrɔ ko o bɛ tɛmɛ kɛlɛ ka kɔ.
+Ɲɛnɔgɔnya bɛ kɛ tɛ caman. [2025 Cochrane ɲɛnɔgɔnya](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ye ɲɛnɔgɔnya ye min ka ɲɛ ka sɛbɛnw 30, musiki sɛgɛsɛgɛ ni mɔgɔw dɔw ye, o kɔnɔ mɔgɔ caman ye yɔrɔ min bɛ mɔgɔ ka tɔɔrɔ kɛ ni nɛgɛ ye. A ye a yɛrɛ ka sɔrɔ ko o sɛgɛsɛgɛw bɛ dɛmɛ ka dusu dimi dɔgɔya dɔgɔya, ka dɔ ka kɛ kɔrɔ ni sɛgɛsɛgɛ dɔw bɛ kɛ, nka a tɛ dɔ jira ka ɲɛ kɛ ka hakili gɛlɛya, ka ɲɛnamaya ɲuman ni hakili ni dɔnkili ɲɛ, ani ka kɛlɛ kɔfɛ ka se.
 
-An b'a fɛ musiki ka lamɛn ka bɔ ko musiki ye fɛn ye min bɛ se ka sɔrɔ ni ɲɛmɔgɔya ni dɔgɔya ye, tɛ dawɔrɔ ye. Ni jamakɛ kɔrɔ ye, [jamakɛ kɛlikɛlaw](/activities/care-home-groups/) ɲini; ni i bɛ musiki ni sɛbɛnnin ni kuma ta ye, [sɔgɔsɔgɔ kɛlikɛlaw](/activities/reminiscence/) ɲini.
+An bɛ musiki ta bawo a ye kɛlɛ ɲuman ye min bɛ se ka kɛ ni hɛrɛ tɛ ni mɔgɔ ye ɲɔgɔn fɛ, a tɛ kɛlɛ ye ka mɔgɔ ka bana ka kɛ. Dɔnɔ kɛlɛ ɲɔgɔn ye, [dɔnkili kɛlɛ dɔw ka sɛgɛsɛgɛ](/activities/care-home-groups/) ɲɛ; musiki ni sɛbɛnw ni kuma ɲɔgɔn fɛ, [kuma ka kɛlɛ](/activities/reminiscence/) ɲɛ.

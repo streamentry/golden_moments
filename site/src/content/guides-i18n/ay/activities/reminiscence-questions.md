@@ -1,34 +1,34 @@
 ---
-title: "Pasado jakawi taqinaka demencia jakirinakatak, jan prueba"
-seoTitle: "Demencia taqinaka: Pasado jakawi, jan prueba"
-description: "Demencia jakiri jaqinakatak pasado jakawi taqinaka, taqi tuqi: utji, irnaqawi, manq'a, taki, uywiñ urunaka, kellkatas. Arunakax tuqinakaru sarañ jikxatañataki."
+title: "Amuyu pantjasiri jaqinakatakix qhipa pacha yatiñanaka"
+seoTitle: "Qhipa pacha yatiñanaka amuyu pantjasiri jaqinakatakix"
+description: "Amuyu pantjasiri jaqinakatakix qhipa pacha yatiñanaka, taqi tuqita: uta, irnaqawi, manq'a, taki, arust'a ukax jach'a urunakan. Jaqichasiñ arunakampi, sapa uñt'awimpi."
 section: activities
 order: 27
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Pasado jakawi taqinakax jaqi pasado jakawiruw sapxi, jan wali sasa jan
-  ukax jan sum sasa, sum sasiw: “Jumax utji kawkirutix wawachatäta sasaw
-  yatiñasa,” sasa, jan “Jumax utji kawkirutix jakasta ukax janiw amtktati?”
-  sasa. Taqi tuqi kimsa ukax pä taqinak apnaqañamawa, jaqin arsuta sarañamawa,
-  jan ukax jaqin pasado jakawi jan wali sasa ukhamarakiw kusisiñamawa. Jan
-  kuna wali sasa arsuñamawa, jan ukax prueba sasa. Utji, irnaqawi, manq'a,
-  taki, uywiñ urunaka ukat familia taqinakax sum jikxatañanakawa.
+  Qhipa pacha yatiñanakax jaqir qhipa pachan parlañ muni, jaqichasiñ ukampi,
+  kunjamtix: "Uta jumax utjkta uka utaru parlapxam," janiw "Jumax uka chiqar
+  jakasipkta, amuytati?" sasa. Taqi tuqinakan sapa mayni uñt'awinakam ocht'añ,
+  jaqix sarañap uñjaña, ukat kunanakatix jan sum amuyasipkchi ukanakan
+  sañ jiwasa kusisiñ. Janipuniw jan chiqa turkañ mayipxañamäkiti, janipuniw
+  yatiqañ mayipxañamäkiti. Utanakax, irnaqawinakax, manq'anakax, takinakax,
+  arust'anakax ukat familianakax ch'iqapa jaqichasiñ uñt'awinakaw.
 keyPoints:
-  - "Sum sasiw arsuñamawa, 'Yatiyam...' jan ukax 'Kunas ukhamaxa...' sasa, jan ukax 'Ukax chiqapäti?' sasa jan ukhamanakax jan arsuñamawa."
-  - "Jan kunatakis 'Amtktati?' jan ukax 'Ukax khitis?' sasa prueba ukham arsuñamawa. Ukanakax llakisiñ utt'ayapxi."
-  - "Jaqin jakawi arsuta sarañamawa, pachanakax mayjt'atäñapachaspas. Amuyu ukat sarañaxa, yatiñat sipan wali wakisi."
-  - "Mä taqi tuqiw qalltañamawa, uñacht'awi, manq'a ukat taki ukax arsuñ qalltañ ukhamarakiw yanapt'i."
-  - "Pasado jakawix llakisiñaniwa jan ukax jaqix jan kusisiñaniwa ukhaxa, mayjt'atäñamawa, kusisiri tuqiruw kutt'añamawa."
+  - "Jaqichasiñ uñt'awinakam ocht'añ, kunjamtix 'Parlapxam...' jan ukax 'Kunjams pasasiwayxi...' sasa, janiw 'Ari' jan ukax 'Janiw' sasa, jan ukax chiqa-jan chiqa uñt'awinakamp ocht'añ."
+  - "Janipuniw yatiqañ, kunjamtix 'Amuyasmati?' jan ukax 'Jupax khitis?' sasa uñt'awinakamp. Ukanakax yatiqat uñjasi, ukat jaqi llakisiyañapataki."
+  - "Jaqin parlat qhiparapxam, jan ukax chiqanakax mayjt'atäni ukhamarak. Sum sartaña ukat jaqichasiñaw jach'a, janiw yatiñanakaxa."
+  - "Mayni uñt'awimp qalltam, ukat mayni uñt'awi taqi qhiparu, uñjat uñt'awi, jan ukax taki uñjata parlañ qalltañataki."
+  - "Yatiñax llakisiyi jan ukax jaqix jank'ak llakisi ukhaxa, jak'ankañampi arust'añ ukat sum uñt'awir kutt'añ."
 faq:
-  - q: "Kunas sum pasado jakawi taqinakas demencia jakirinakatak?"
-    a: "Sum sasiw arsuñamawa: “Chiqa jakasta uta uñtasmawa,” “Kuna manq'anakas munasmati lurañ?” “Kawkir taki sarnaqasmati?” jan ukax “Wawachasi uywiñ urunakax kunas ukhamasa?” Ukanakax mä jan mä chiqa arsutaki, jakawi sarañ sasa."
-  - q: "Kunas pasado jakawi ukat prueba ukax tuqisiwa?"
-    a: "Pasado jakawix mä yatiyawi sarañawa, janiw jan wali arsutanakas utjkiti. Prueba ukax mä chiqa yatiñ munaskiwa, ukat jan wali sasa uñjañawa. Prueba ukax jaqiruw llakisiñ ukat jan walt'ayañ utt'ayi, ukhamasti arsut sum sasiw uñjañamawa."
-  - q: "Jaqin pasado amuyu jan wali ukhaxa kunas lurañ?"
-    a: "Ukham sarañamawa, llakisiñ jan ukax jan sum sasa utt'ayaskan ukax janiw. Fecha jan ukax sutinak jan wali sasa jark'añamti. Ukhamaxa, ukax kunjamas jaqirux sinti utt'ayi jan ukax kunas amtapxi, ukanakaw arsuñamawa."
-  - q: "Pasado jakawi taqi kuna sapa suyt'añasa?"
-    a: "10 ukat 20 minutos ukax walpuniw, jani ukax juk'at ukax walikiwa. Jaqix llakisiñani jan ukax jan munaskan ukhaxa, sayt'ayañamawa, jupanakaxa mayni thaki sarnaqañamawa."
+  - q: "Kuna qhipa pacha yatiñanakas amuyu pantjasiri jaqinakatakix walikiwa?"
+    a: "Jaqichasiñ uñt'awinakax sum irnaqi: 'Uka markan jumax utjkta uka parlapxam,' 'Kuna manq'anakas jumax sum manq'anichkta?' 'Kuna takinakas taki takisipkta?' jan ukax 'Jisk'achkasax kunas uka pacha jumax jakasipkta?' sasa. Ukanakax sapa mayni chiqa arunakat jukʼamp, jaqirux arust'añ mayipxi."
+  - q: "Qhipa pacha yatiñanaka ukat yatiqaña chiqapachas kunas ch'ax?"
+    a: "Qhipa pacha yatiñax jaqinakampi chiqpachaki parlañawa, janiw jan chiqanakax utjkiti. Yatiqañax yatiñ uñt'awi mayiskiwa ukat jan chiqa ukhax uñjasi. Yatiqañax jaqirux llakisiyañ ukat jan walt'añ mayi, ukatwa jaqichasiñ uñt'awinakam parlañ."
+  - q: "Jaqix qhipa pachan amuyuwipax jan chiqa ukhaxa?"
+    a: "Sarañamawa, llakisiyañax jan utjañapataki jan ukax jan waliyañapataki. Pacha jan ukax sutinak jan chiqachañamäkiti. Uka jaqix kunjamsa sumaxa sintisipki jan ukax uka pachax kunjamsa amtañapa jupataki sasa jawsañamawa."
+  - q: "Qhipa pacha yatiñax kunay ukhama sayt'asiñapa?"
+    a: "Paqallqu tunka pachanakax walikiwa, jan ukax juk'amp walikiwa. Jaqix jank'ak llakisi jan ukax janiw munkiti ukhaxa sayt'añ, ukat jumanakax mayni thakhi thaqhañapataki."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -44,82 +44,82 @@ related: [activities/reminiscence, activities/music, activities/trivia, activiti
 health: false
 ---
 
-Pasado jakawix mä jaqi jakawinakat arsuñawa, utjañ, irnaqañ, manq'a, taki, casarasiña ukat uywiñ urunakat. Demencia jakiri jaqinakatakix mä sum arsuñax jakawin uru mä kusisiñ pachapawa. Taqi uñjañax akahaw: sum sasiw arsuñamawa, jaqin amuyu jan prueba sasa. Akax taqi tuqinakat amtatawa, ukat apnaqañ yatiyawinakaniw utji.
+Qhipa pacha yatiñax jaqinakampi chiqpachaki parlañawa: utanakan, irnaqawinakan, manq'anakan, takinakan, arust'anakan, boda uñt'awinakan, jach'a urunakan. Amuyu pantjasiri jaqinakatakix, sapa uñt'awi jaqichasiñ uñt'awiwa, qhipa pacha yatiñaw ch'amanchañ jani. Taqi uñt'awinakax uñt'awinakan, sapa mayni uñt'awinakan ukhamarak yatiyañanakampi.
 
-## Pasado jakawi taqinakan kamachinakapa
+## Qhipa pacha yatiñanakan kamachinakapa
 
-- **Sum sasiw arsuñamawa.** “Jumax yatiyam...” ukat “Kunjamas sarnaqäna...” sasa arsutanakax mä jakawi sarañ jikxatañataki. “Yatiskasmati...?” sasa jan ukax chiqa arsut munaskiwa.
-- **Jan prueba sasa.** “Khitis akax?”, “Kawkir maraniw ukax?” ukat “Sutix yatiskasmati...?” sasa jan arsuñamawa.
-- **Kuna arsutas kutt'ayki, uk katuqañamawa.** Jakawix mayjt'atäsa jan ukax thakhinakax jan wali sasa, kusisiñ ukat sinti arsuñamawa.
-- **Mä taqi tuqi arsuñamawa.** Suyt'añamawa, uñt'añamawa ukat sum sasiw jaysañamawa.
-- **Jaqix thaki irpañamawa.** Jupax maya tema arsuñ munaski ukhaxa, jupan qhipäta sarañamawa.
+- **Jaqichasiñ uñt'awinakam ocht'añ.** "Parlapxam..." ukat "Kunjamsa sartasipkta..." sasa uñt'awinakax arust'a ukax jach'a. "Amuyasmati...?" sasa uñt'awix chiqa jaqi munaraki.
+- **Janiw yatiqañ.** "Jupax khitis?", "Ukax kunay maranakanaki?" ukat "Ukan sutip amuyasmati...?" sasa uñt'awinakat jan ocht'añ.
+- **Kuna kutt'asiñas sum katuñ.** Arust'a jan ukax chiqanakax mayjt'atäni ukhaxa, kusisiñampi katuña ukat amuyunakat jawsañ.
+- **Mayni uñt'awi taqi qhiparu.** Sayt'añ, ist'añ ukat sasirjama uñt'awi ocht'añ.
+- **Jaqix qhiparapxañapa.** Jupax masiyjama yatiñ munaskchi ukhaxa, jupamp sarañ.
 
-[National Institute on Aging's guidance on communicating](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) yatiyañapax, jisk'a oracionanakampi, sum sasi arsuñampi ukat jaqix arunak tantachañatak suyt'añampi ukax wali wakisiskiwa. Akanakax akan kuna chiqankirinakankasa ukhamarakiw wakisi.
+[Estados Unidos Jach'a Uñt'awi Chiqapar Jaqinakan Uñt'awinakapa (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) yatiyi: sallqa arunaka, ch'uqi arust'a, ukat paciencia jaqix arunakap thaqhañapataki. Ukanakax akan kunjamtix mayni chiqanakan walikiwa.
 
-## Utji ukat wawachawi
+## Utan ukat wawaru
 
-- Jumax utjam kawkirutix wawachatäta sasaw yatiñasa? Kucinax kunjamas sasa?
-- Wawachäta ukhax kawkirus jaqunkäta?
-- Jumanakax calen uñtasir kawkir jaqinakampis jaqunkäta?
-- Jumax kawkir ukax armaskäta? Mayni jaqimpis armasktati?
+- Uka utaru jumax utjkta uka parlapxam. Kuna sapa kuchhi utan kunjamsa utjäna?
+- Kunsa jumax wawaxt'ana uka manqhana sartañ munayätan?
+- Kuna jaqinakas jumampi uka thakinakan jakasipkäna?
+- Kunjamsa jumanakan wawanakax utan jakasipkäna? Kuna chhijmpi jumax ch'uq'ani?
 
-## Irnaqawi ukat luräwi
+## Irnaqawi ukat lurañanaka
 
-- Kawkir irnaqawix sum kusisiyäta?
-- Mä irnaqawi urux jumax kusisiñ munäta, uk arsum.
-- Kunanakas amparamp luraña jan ukax sayt'ayaña munäta?
-- Khitis irnaqawi tuqit sum yatichayätam?
+- Kuna irnaqawinakas jumaru sum sarañ munaraki?
+- Irnaqawinkir uka urux parlapxam, uka jumaru kusisiña luraki.
+- Kuna lurañanakas amparampi lurañ munayätan jan ukax k'anchañ munayätan?
+- Khitis jumaru irnaqawimpi sum yatichäna?
 
-## Manq'a ukat manq'a luraña
+## Manq'a ukat manq'a lurañ
 
-- Familiax domingon kunas manq'añ munasa?
-- Mä manq'a arsum, familianakan mayniw sum luraski.
-- Wawachäta ukhax kawkirus sum manq'a munaskäta?
-- Kuna manq'anakas utar uñtasiskaki?
+- Domingo uruxa kunas familiamax manq'ayaraki?
+- Parlapxam, familiamanx khitis sum lurkäna ukax manq'a.
+- Wawaxt'añ uka urunakan kawkir manq'an sut'ita lantiyañ munayätan?
+- Kuna jaqinakas jumaru utaru uñt'ayapxi?
 
-Manq'a arsuñax [uñjañ sensorial taqinakampi](/activities/sensory/) ukat jan jan sum manq'a utt'ayañampi wali sum mayt'asi, uk jupanakakiw jaysañamawa.
+Manq'a parlañax [ajayun sensorial uñt'awinakampi](/activities/sensory/) sum mayt'añ, ukat walikiwa ukax jan jan'ax manq'a sañ uñjañ.
 
-## Taki ukat sarnaqaña
+## Taki ukat tuqhu
 
-- Kuna takinakas wawachäta ukhax sipxanäta jan ukax sarnaqañ munäta?
-- Khitis taki sum ch'ax takiyäta jan ukax banda?
-- Kawkir uru takinakas ist'äta: utanx, sarnaqañanx jan ukax iglesianx?
+- Wawaxt'ana kuna takinakas taki takisipkäta jan ukax tuqhusipkäta?
+- Khitis jach'a arust'äna jan ukax kuna taki qhiparapxäna?
+- Kawkin uru jumax taki ist'äta? Utan, tuqhunakan, iglesiankirin?
 
-Taki lista ukat takinak yatiñatakix, [demencia jakirinakatak taki luraña](/activities/music/) uñjañamawa.
+Taki ukat sarnaqañ ideanakax, [jach'a uñt'awinakat taki uñt'awinakax amuyu pantjasiri jaqinakatakix](/activities/music/) sasa uñjañamawa.
 
-## Uywiñ urunaka ukat kusisiña
+## Jach'a urunaka ukat k'achanaka
 
-- Wawachäta ukhax kawkir uywiñ uru sum kusisiyäta?
-- Mä cumpleaños sasiw arsum, kunjamas sarnaqäna?
-- Familia qhana urun kunas lurañ?
-- Familiax kunjamas pachanakan uywiñ urunakap uywäna?
+- Kuna jach'a urux wawaxt'anax jumaru sum kusisiyäna?
+- Kuna boda uru jumax amtasiñamawa?
+- Jach'a p'iqinchañan familiamax kunas lurañ?
+- Kunjamsa familiamax tuqinakan jach'a urunakap k'achañ?
 
-Mä uywiñ urutakix ideanaka uñjañatakix, [demencia jakirinakatak uywiñ urunaka](/activities/holidays/) uñjañamawa.
+Jach'a urunakatakix ideanak uñjañamawa, [amuyu pantjasiri jaqinakatakix jach'a urunakan uñt'awinakar](/activities/holidays/) uñjañamawa.
 
-## Familia ukat amigonaka
+## Familia ukat jilanaka
 
-- Khitis sum laykuña jan ukax wali kusisiyäta?
-- Casarasiñ urux kunjamas sarnaqäna?
-- Wawanakam wawachatäpachanx kunjamas sarnaqäna?
-- Amigonakamax kunas sutiyam sasaw ukhamarak arsuna?
+- Jumaru jach'a sisi jaqi khitis?
+- Boda uruxa kunas utjäna?
+- Wawanakam wawaxt'añkama kunjams utjapxäna?
+- Jilanakamax kunas sutimp sañ jumaru?
 
-Familiatak jisk'a sasiw arsuñamawa. Jaqix jiwatat llakisiñ utjaski ukhaxa, jupan sarnaqaña katuqañamawa, jan ukax llakisiri amuyunak amtañ janiw lurañamäkiti.
+Familiam jawsañax ch'uqi lurañamawa. Jaqix jilanakap jaytawayi ukhaxa, jupax lunthatäki, jan ukax jan sum amuyasipkchi uka yatiñanakar jawsañ janiw munañamäkiti.
 
-## Chiqanaka ukat pachamama
+## Chiqanakat ukat uraqi
 
-- Mä chiqaruw amuyañ munasma, uk arsum.
-- Wawachäta ukhax kunjamas ch'ax pacha sarnaqäna?
-- Mä ch'uqi jan ukax mä quqar utjaskäta?
-- Mä sarnaqañ sum kusisiyäta, uk arsum.
+- Kuna chiqas jumax amuyañ munaraki?
+- Kunsa uka chiqan jumax wawaxt'ana?
+- Uraqi jumax utjkta ukan kuna pachas utjäna?
+- Kuna sarnaqañas jumaru sum kusisiyäna?
 
-## Uñacht'awinaka ukat mayjt'awinaka
+## Uñt'awinak ukat lurañanak ocht'añ
 
-Uñacht'awinakax qalltañ chiqawa. Uñacht'awi ukax nayra uñt'ayañamawa, “Akax arsum” sasa. [Alzheimer's Association sarnaqañanakan yatiyawipa](https://www.alz.org/help-support/caregiving/daily-care/activities) amuyañ mä yatiyawiwa, jaqi familiar mayjt'awinaka, uñacht'awinaka ukat takinakampi arsuñ qalltañataki. Jaqin jakawinkama mayjt'awinakampi mä mayjt'awi janchi lurañax wali sum sarnaqañ utt'ayi; [pasado jakawi taqinakan](/activities/reminiscence/) uñjañamawa, kunjamas lurañ yatiñataki.
+Uñt'awinakax parlañ qalltañataki sum walikiwa. Uñt'awi nayra uñtam sayt'ayañamawa, sasa, "Ukax kunas?" sasa parlañamawa. [Alzheimer's Association mayjt'awinakax](https://www.alz.org/help-support/caregiving/daily-care/activities) yatiyi: utjkayki lurañanakax, uñt'awinakax ukat takinakax parlañ qalltañataki sum walikiwa. Jaqin wawaxt'ata lurañanakap ch'iqa katuntañax ukhamarak sum mayt'añ, ukat [qhipa pacha yatiñanakan uñt'awinakar](/activities/reminiscence/) uñjañamawa.
 
-## Amuyt'awi llakisiri ukhamaxa
+## Llakisiyañ yatiñanakax
 
-Mayni amuyunakax llakisiñ, mantañ jan ukax colerax utt'ayapxi. Jaqix llakisiñ kankasa, janiw irpañamäkiti. Sum sasiw arsuñamawa: “Ukax wali sinti pacha ukhamarakiw. ¿Kusisiñ tuqit arsuñ munasmati?” Ukatxa maya tema arsuñamawa, mä juk'a uma ukat jan taki luraña.
+Mayni yatiñanakax llakisiyi, axsarayi jan ukax tuku phiñasiyi. Jaqix jank'ak llakisi ukhaxa, jan jiwasa jan lirinkañamäkiti. Sasa, "Ukax jan sum pachänwa ukhamarak. Sum mayt'añ munta, jach'a urunakax?" sasa parlañamawa. Ukat mayni uñt'awi qalltañamawa, jan ukax tiya ch'uñ, jan ukax jach'a taki uñjañamawa.
 
-## Juego jan ukax sarnaqaña sasa
+## Jani ukat sarnaqañat qhipa uñt'awi
 
-Pasado jakawi taqi tuqi, mä jisk'a juego sum kusisiyañ utt'ayi. [Arsu cartas](/games/conversation-cards/) jan ukax [suyt'añanaka](/games/finish-the-saying/) jaqin wawachäta ukhaxa arunakap yatiñataki. Arsutanakan mä jisk'a yatiyawi ukat [demencia jakirinakatak arsuñ yatiyawi](/caregiving/communication-tips/) uñjañamawa.
+Qhipa pacha yatiñ thaqhat, sum manq'a uñt'awi sarañamawa, jaqix sumaki sartañapataki. [Uñt'awinak yatiqañataki](/games/conversation-cards/) jukʼamp uñt'awinak uñjañamawa, jan ukax [arunak tukuyaña](/games/finish-the-saying/) jaqin wawaxt'ata arunakap uñjañamawa. Parlañ yatiqañ ukhamarak, [amuyu pantjasiri jaqinakar parlañ yatiñanakar](/caregiving/communication-tips/) uñjañamawa.

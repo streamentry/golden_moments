@@ -1,34 +1,34 @@
 ---
-title: "Aktiviti blong pipol we oli laef wetem dementia: 101 ol isi aedia"
-seoTitle: "Aedia blong aktiviti long dementia: 101 ol isi aktiviti"
-description: "101 ol isi aktiviti blong adult we oli laef wetem dementia, from fold tawel, miusik mo fotopik, wetem hao blong jenjem each wan taem i kam hard moa."
+title: "Aktiviti blong ol man we oli gat dementia: 101 aidia"
+seoTitle: "Aidia blong aktiviti long dementia: 101 isi aktiviti"
+description: "101 isi aktiviti blong ol adalt we oli gat dementia, from fol ol towel go long miusik mo fotogref, wetem fasin blong jenjenem long taem we i kam had."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ol gud aktiviti blong pipol we oli gat dementia i samting we oli save finis,
-  we i blong adult mo isi blong sherem: fold laondri, sortem samting, kukum kaikai,
-  miusik, lukluk long fotopik, wokabaot, gaden, taem wetem animal mo ol isi gem.
-  Jusum wanem we man ya i bin laekem long laef blong hem, kasem ol hard wok, mo stopem
-  taem hemi taed. Hapi taem tugeta i impotant moa long finisim eni samting.
+  Ol gud aktiviti blong ol man we oli gat dementia oli samting we oli save finis
+  mo oli isi blong serem: fol laondri, sotem ol samting, kukum kaikai, miusik,
+  lukluk long fotogref, wokabaot, gaden, taem wetem ol animol mo ol isi gem. Jusum
+  wanem man ya i bin laekem long laef blong hem, mo tekem ol hevi wok, mo stopem
+  taem hem i taed. Ol gud taem tugeta i impoten moa long finisim eni wan wok.
 keyPoints:
-  - "Startem long laef blong man ya: wok blong hem, hobi blong hem, fet blong hem mo miusik we hemi laekem, ol ya i gud gaed."
-  - "Mekem eni aktiviti i smol moa taem i nidim: smol step, smol jus, yu nao duim hard wok."
-  - "Lukluk, holem samting, no sidaon klosap, ol ya oli kaontem olsem yu join in."
-  - "Stopem o jenjem taem yu lukim hemi tired, i kros o i bored. Finisim i ya, i gud rizolt."
-  - "Duim tugeta i impotant moa long duim i stret."
+  - "Stat from laef blong man ya: wok blong hem, ol hobi blong hem, fet blong hem mo miusik we hem i laekem, oli gud gaed blong yu."
+  - "Mekem eni aktiviti i smol moa taem i nidem: ol step oli less, ol jus i less, yu tekem hevi wok."
+  - "Lukluk, holem samting o jes sindaon klosap, oli stap kaontem olsem yu join ia."
+  - "Stopem o jenjenem taem yu lukim hem i taed, i kros o i bored. Stopem i erly i gud rizolt."
+  - "Duim tugeta i impoten moa long duim i stret."
 faq:
   - q: "Wanem aktiviti i gud long wan man we i gat dementia?"
-    a: "Ol aktiviti we man ya i bin duim long ol yia, we oli smolem sam: fold laondri, setemap tebol, kukum kaikai, miusik, lukluk long fotopik, wokabaot, gaden mo taem wetem wan pet. Jusum ol samting we i fitim adult mo i gat yusfulnes, mo duim tugeta."
-  - q: "Hao longfala aktiviti i sud stap?"
-    a: "I no gat rod lengt. Smol taem blong fold tawel i save i inaf wan dei, mo wan aoa long gaden i save i isi long narafala dei. Letem man ya i setem spid mo finisim taem i stap yet i fil gud."
-  - q: "Wat if man ya i no wantem duim wan aktiviti?"
-    a: "No pusum hem. Ting ya i save minim se task i hard tumas, taem i no raet, o hemi tired o i no fil gud. Traem bihaen, ofarem wan smol vesen, o yu stap startem task long klosap mo askem hem blong help."
-  - q: "Ol brain gem i gud long pipol we oli gat dementia?"
-    a: "Gem i save hemi wan gud rod blong spendem taem tugeta, bat no gem we i bin prufum se i save tritim, slowem o stopem dementia. Jusum gem we no gat taem, skoa o saon blong rong ansa, mo tritim olsem wan aktiviti blong tugeta, no wan test."
-  - q: "Hao blong mi save stopem aktiviti blong no fil olsem pikinini?"
-    a: "Yusum ol samting we i stret mo blong adult: tawel we i stret, resipi we i stret, miusik mo ol samting blong pentem blong grown-up, mo fotopik wetem tema blong adult. Talem wok olsem help we yu stret nidim, mo toktok long man ya olsem adult we hemi stret."
+    a: "Ol aktiviti we oli familiar, we man ya i bin duim long planti yia, be yu mekem i isi smol: fol laondri, setem tebol, kukum kaikai, miusik, lukluk long fotogref, wokabaot, gaden mo taem wetem wan animol. Jusum ol samting we oli fil olsem adalt mo oli yusum, mo duim tugeta."
+  - q: "Hamas taem I mas stap long wan aktiviti?"
+    a: "I no gat wan stret lengt. Sam minis blong fol ol towel maet i nogud long wan dei, mo wan aoa long gaden maet i isi long narafala dei. Letem man ya setem spid mo finisim taem i stap yet i gud."
+  - q: "Wanem if man ya i no laekem duim wan aktiviti?"
+    a: "No fosem hem. Wan 'nomo' i ken minim se wok ya i hevi tumas, taem i no raet, o hem i taed o i no fil gud. Traem bihaen, ofarem wan smol vesen, o yu stat wok ya klosap, mo askem hem blong helpem."
+  - q: "Ol gem blong brein i gud long ol man we oli gat dementia?"
+    a: "Ol gem i ken blong spenem taem tugeta long wan gud fasin, be i no gat eni gem we oli prufum finis se i save hilim, slouem o stopem dementia. Jusum ol gem we i no gat taem, skoa o ol saon blong rong ansa, mo tekem olsem wan aktiviti blong tugeta, no wan test."
+  - q: "Hao blong mi save stopem ol aktiviti long i no fil olsem ol pikinini?"
+    a: "Yusum ol samting blong adalt we oli stret: ol towel we oli stret, ol resipi we oli stret, miusik blong ol adalt mo ol samting blong pentem, mo ol piksa wetem ol tem blong adalt. Setemap wok olsem help we yu save nidim, mo toktok long man ya olsem adalt we hem i stap."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-Aktiviti we i bes blong pipol we oli laef wetem dementia usually i samting we hemi save finis blong duim, we i isi moa, mo we yu duim wetem wan man we hemi trastem. Hemi 101 aedia, oli grup long ol kaen, wetem hao blong setemap mo hao blong mekem i isi moa taem i kam hard moa. Yu no nidim sipesol tul, mo yu no nidim finisim eni samting. Wan gud aftenun i save hemi jes wan basket tawel mo wan kap kofi tugeta.
+Gud aktiviti blong wan man we i gat dementia, hemi usually wan samting we hem i save finis long duim, be we i isi smol mo we wan man we hem i trastem i stap wetem hem. Oli gat 101 aidia i stap belo, oli grupum long kaen, mo long eseh wan oli gat fasin blong setemap mo blong mekem i isi taem i kam hadwan. Yu no nidim ol spesol tul, mo yu no nidim blong finisim eni samting. Wan gud aftanun i ken jes wan basket blong ol towel mo wan kap kofi we yufala i drink tugeta.
 
-## Hao yu save jusum raet aktiviti?
+## Hao blong jusum gud aktiviti?
 
-Jusum long man, no long lis: startem long samting we hemi bin laekem olwe mo samting we hemi save duim gud tudei.
+Jusum long man ya, no long lisi: stat wetem wanem hem i bin laekem long oltaem mo wanem hem i save duim gud long disfala dei.
 
-- **Ting long wok mo hobi blong hem.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i talem se wan man we i bin wokem long ofis i save laekem blong sortem mani o mekem ol mail, mo wan man we i bin gaden i save laekem wok long yad.
-- **Lukluk long wanem hemi save duim finis.** Sipos papa blong yu i swipem vranda evri mones witaot we yu askem hem, putum dat long dei blong yu.
-- **Planem long ol limit.** Tired, aei, ia, han we i pen, mo balans, ol ya oli impotant.
-- **Lukluk long fil blong hem.** Aktiviti we i bisi mo i nogud long saon i gud long sam man, bat i fraet long narafala.
-- **Givim wan presen blong hem.** Folem napkin blong wan sanie blong jos blong jej i save i fil moa wetem valiu long hem, winim wan exercise blong jes exercise.
+- **Tingem wok mo ol hobi blong hem.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i sugestem se wan man we hem i bin wok long ofis, hem i save laekem blong sotem ol kointi o blong redi ol mail, mo wan man we hem i bin gaden, hem i save laekem wok long gaden.
+- **Lukluk long wanem hem i already duim.** Sipos papa blong yu i swipim vera long moning i no wet blong yu talem hem, putum dat long wan dei blong yu.
+- **Planim klosap ol limit.** Taed, lukluk, herin, han we i sore mo balans, oli ol samting we oli impoten.
+- **Lukluk long fil blong hem.** Ol aktiviti we oli bisi mo oli no kwaet oli gud long sam man, be oli frightenem sam narafala.
+- **Givim wan purpos.** Fol ol napkin blong wan dinner long jos i fil moa gud long wan exercise we i no gat eni purpos.
 
-### Wan rof gaed long stej
+### Wan rof gaed long ol stej
 
-Dementia i oftenem i kolem long fas stap, midol stap mo las stap. Ol ya oli luus leibol, no bokis, mo plande man i gat ol gud mo ol hard dei, so go long wanem yu lukim tudei. [Alzheimer's Foundation of America lis long stej](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i folem sem kaen fasin.
+Ol man oli talem dementia i gat ol erly, midol mo leit stej. Ol nem ia oli loose nomo, oli no ol bokis, mo planti man oli gat ol gud dei mo ol hadwan dei, so lukluk long wanem yu lukim tede. [Alzheimer's Foundation of America i gat lisi blong ol aktiviti long ol stej](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) we i folem wan sem pata.
 
-| Topik | Fas stap | Midol stap | Las stap |
+| Topik | Erly stej | Midol stej | Leit stej |
 | --- | --- | --- | --- |
-| Wanem yu save lukim | Hemi mostle save duim samting yet; planning, nating nem we i niu mo ples we i bisi i kam hard | Hemi nidim help blong startem mo long ol step; ol tok i kam hard | Hemi nidim help long mostu daily kea; ol sens i impotant moa |
-| Aktiviti we oftenem i fitim | Kad, bod gem, kukum, gaden, rajting, aotin, klab | Fold laondri, sortem, ol isi step blong kukum, singsing, fotobuk, wokabaot wetem gaed | Miusik we i fevret, han masej, ol soft samting blong holem, man i ridim buk long hem, sidaon aotsaed |
-| Rol blong yu | Patna: askem wanem sapot hem i wantem | Setemap, soem, tekem ol hard wok | Karem aktiviti i kam long hem; yu stap wetem hem hemi aktiviti |
-| Mo aedia | [Fas stap](/activities/early-stage/) | [Midol stap](/activities/middle-stage/) | [Las stap](/activities/late-stage/) |
+| Wanem yu save lukim | Hem i mostly stanap yet; plan, nyunyu nem mo ol bisi ples i kam had | I nidim help blong stat mo long ol step; ol toktok i kam hard blong hem | I nidim help long ol bigfala wok blong kea long ded; ol sens oli impoten moa |
+| Ol aktiviti we oli stap fit | Ol kad, ol bod gem, kukum kaikai, gaden, rekodem ol tingting long buk, ol trip, ol klab | Fol laondri, sotem ol samting, ol step blong kukum isi, singsing, ol album blong fotogref, wokabaot wetem gaed | Miusik we hem i laekem, masaj long han, ol soft samting blong holem, man i ridim buk long hem, sindaon aotsaed |
+| Rol blong yu | Pata: askem wanem sapot hem i laekem | Setemap, soem, tekem ol hevi wok | Kasem aktiviti i kam long hem; yu stap wetem hem hemi aktiviti |
+| Moa aidia | [Erly stej](/activities/early-stage/) | [Midol stej](/activities/middle-stage/) | [Leit stej](/activities/late-stage/) |
 
-## Hao yu startem wan aktiviti wetem wan man we i gat dementia?
+## Hao blong stat wan aktiviti wetem man we i gat dementia?
 
-Startem smol, startem klosap long hem, mo mekem i isi blong hem i se yes. Plande man i stap wantem join in bat i hard long hem blong planem o startem.
+Stat smol, stat klosap long hem, mo mekem i isi blong hem i save seiyes. Planti man oli wantem stap long wok be oli hadwan blong plan o stat.
 
-1. **Jusum taem we hem i gud moa,** oftenem long moning.
-2. **Setemap evrisamting fastaem** so yu save startem raet away.
-3. **Askem blong help, no blong soem wan performance:** "Yu save givim mi wan han long ol ya?"
-4. **Startem hemi yet.** Fold fastaem tawel mo letem hem i join in. Soem i strong moa long toktok.
-5. **Givim wan step long wan taem.**
-6. **Tekem hard pat.** Alzheimer's Association i talem se yu mesurem ol ingridiens yu seleva, afta givim spun blong hem blong stirem.
-7. **Letem hem i duim long wei blong hem.** Tawel we oli fold long narafala wei i oraet.
-8. **Stopem taem hemi no fil gud moa.** Oli stap muv, fes i kros o "mi no save" ol ya i saen blong jenjem o restem.
+1. **Jusum taem we hem i gat bes fil,** usually long moning.
+2. **Setemap evri samting finis** blong yu save stat kwiktaem.
+3. **Askem help, no wan soa:** "Yu save givim mi wan han long ol ia?"
+4. **Stat wok ya yu wan.** Fol fasbaot towel mo letem hem i joinim. Soem i stret moa long eksplenem.
+5. **Ofarem wan step wan taem.**
+6. **Tekem hevi wok.** Alzheimer's Association i sugestem se yu mesurem ol kaikai yu wan, mo bihaen givim hem spun blong stirem.
+7. **Letem i kam aot long fasin blong hem.** Towel we oli fol long narafala fasin i oraet.
+8. **Stopem taem i no moa i gud.** Hem i wigil, i frong o i talem "mi no save" oli sain blong jenjenem o resis.
 
-Lukluk tu [hao blong pleiem tugeta](/caregiving/how-to-play-together/) mo [tips long kaming tugeta](/caregiving/communication-tips/).
+Lukluk tu long [hao blong pleiem tugeta](/caregiving/how-to-play-together/) mo [tips blong toktok](/caregiving/communication-tips/).
 
-## Ol wok blong hom
+## Ol wok long haos blong ol dei
 
-Ol hos wok i famlaea mo oli yusful, so oli nambawan ples blong startem. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i lisim ol dis wok, setemap tebol, swip, sortem mail mo fold laondri olsem ol aktiviti we pipol i save enjoyem. Moa long [ol hos wok](/activities/household-tasks/).
+Ol wok long haos oli save finis mo oli yusum, so oli wan gud fasin blong stat long hem. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i lisim ol plet, setemap tebol, swipim, sotem mail mo fol laondri olsem ol aktiviti we ol man oli ken enjoem. Moa long [ol wok long haos](/activities/household-tasks/).
 
-1. **Fold warm tawel.** Tipem basket long drae i go antap tebol mo fold long saet blong yu. Bihaen, smoothem mo stakem hemi save i olsem help tu.
-2. **Pairem sok.** Startem long ol kala we i difren tumas. Bihaen, sortem laet mo dak i inaf finis.
-3. **Setemap tebol.** Givim wan kaen samting long wan taem. Setem wan ples yu seleva blong mekem hem i luk.
-4. **Wasem o drae ol dis.** Warm wota we i gat soap mo ol dis we i no save brok. Drae we yu sidaon i isi long leg.
-5. **Klinim tebol.** Givim wan wet kloth afta kaikai. Hemi real wok blong ol han we i no save stap.
-6. **Sortem mail.** Katalog mo jank mail i go long "kipem" mo "risaekol." Ol bil we i blong real, hemi kipem aotsaed.
-7. **Katem kupon.** Sisa we i raon long toktok mo ol flaea blong saf. Bihaen, serkelem ol kaikai we hem i laekem i gud tu.
-8. **Sortem mani.** Sortem jenj i go long ol kap o rolem i go long ol raper. Skipem ol smol samting sipos man i save putum samting long maot.
-9. **Swipem o dastem.** Wan lait broom long vranda, o wan langfala dasta we yu yusum long wan jea.
-10. **Helpem mekem wan kaikai.** Wasem vej, ripim lektis, stirem. Yu hanemaot naef mo hit.
-11. **Bekem wan famili resipi.** Yusum kad we i long han blong hem sipos yu gat. Bihaen, hem i save i taster.
-12. **Duim ofis wok.** Fold leta, putum mo stempem envelop, o raetem leden blong saping tugeta.
+1. **Fol ol warm towel.** Tipem basket blong drae long tebol mo fol klosap wetem. Bihaen, smoothim mo stakem hemi help tu.
+2. **Mekem ol sok i pea.** Stat wetem ol kala we oli difren tumas. Bihaen, sotem ol laet kala long ol dak kala i enaf nomo.
+3. **Setem tebol.** Givim wan kaen samting wan taem. Setem wan plet yu wan olsem samting blong soem.
+4. **Wasem o drae ol plet.** Warm wota we i gat sop mo ol plet we oli no save brek. Drae taem man i sindaon i isi long ol leg.
+5. **Klinim tebol.** Givim wan wet kloth bihaen long kaikai. Hemi wan wok we i stret blong ol han we oli no save stap.
+6. **Sotem mail.** Katalog mo junk mail i go long "kipem" mo "recyklem." Kipem ol bill we oli stret aot.
+7. **Katem ol kupon.** Sisa we i gat raon tip mo ol flaea blong gres. Bihaen, sekolem ol kaikai we hem i laekem i wok tu.
+8. **Sotem ol kointi.** Sotem sensis long ol kap o rolem i go insaed long ol paper. Lusim ol smol samting sipos man i putum samting long maos.
+9. **Swipim o dastem.** Wan leit broom long fran blong haos, o wan dasta we i gat longfala hanol we hem i yusum taem hem i sindaon long wan jea.
+10. **Helpem mekem wan kaikai.** Wasem ol vej, bruk lettis, stirem. Yu hanemaot ol naef mo faea.
+11. **Bekem wan famili resipi.** Yusum kad we i gat han raetin blong hem sipos yu gat. Bihaen, hem i ken kakae.
+12. **Duim ofis wok.** Fol ol leta, putum envelop insaed mo sitem stem, o raetem lisi blong maket tugeta.
 
 ## Miusik
 
-Miusik we i fevret i save kasem ol pipol, evin taem ol tok i hard. [Alzheimer's Association i givim tips long miusik](https://www.alz.org/help-support/caregiving/daily-care/art-music) i talem ol fevret son, no ol kamaselse mo TV i ofu. Lukluk [ol aktiviti blong miusik](/activities/music/).
+Familiar miusik i save kasem ol man, even taem ol toktok oli hard. [Alzheimer's Association ol tips long miusik](https://www.alz.org/help-support/caregiving/daily-care/art-music) i sugestem ol singsing we oli familiar, no ol advertising mo TV i lokem. Lukluk long [ol aktiviti long miusik](/activities/music/).
 
-13. **Mekem wan personol playlis.** Miusik long taem blong hem i yangfala, long wedin blong hem, long jos blong hem mo long kastom blong hem.
-14. **Singsing wetem hem.** Startem singsing yu seleva. Humim o harem i kaontem.
-15. **Holem bit.** Klap, pat long nis o pleim wan hand drum. I save wok taem yu sidaon mo long las stap.
-16. **Dens.** Slou dens long kitjen, o swingem bodi taem yu sidaon mo holem han.
-17. **Pleiem wan fulfala album.** Wan fevret rekod stat go kasem finis, wetem kofi mo no eni narafala samting i go.
-18. **Toktok long miusik.** Askem long stori, no fakta: "Tellem mi long ol dens we yu bin go long."
-19. **Lukim wan filmd miusikol o kansot.** Wan sow we hem i bin laekem i mekem gud evning. Posem long eni taem.
-20. **Pleiem wan famili instrumen.** Wan foma pianist i save laekem ol simpol pis; bihaen, sam nout tugeta.
-21. **Harem live miusik.** Wan smol komuniti kansot o kwaea risal. Sidaon klosap long aot.
+13. **Mekem wan personal playlist.** Miusik blong taem we hem i yang, taem blong mared blong hem, jos blong hem mo kastom blong hem.
+14. **Singsing wetem hem.** Stat singsing yu wan. Hambarem o herin i kaontem tu.
+15. **Holem bit.** Klap, pat ol nis o plei wan hand drum. Hemi wok taem man i sidaon mo long leit stej.
+16. **Dans.** Slou dans long kitsen, o swae i sidaon taem yufala i holem han.
+17. **Plei wan album finis.** Wan rekod we hem i laekem long stat go long finis, wetem kofi mo no eni narafala samting i raonem.
+18. **Toktok long miusik.** Askem ol stori, no ol fakta: "Talem mi long ol dans we yu bin go long hem."
+19. **Lukim wan filmed musical o konsot.** Wan sow we hem i laekem i mekem wan gud naet. Pausem taem nomo.
+20. **Pleim wan instrumen we hem i save.** Wan pianis we i bin stap i ken laekem ol isi pis; long leit stej, jes sam nout tugeta.
+21. **Herem laev miusik.** Wan smol konsot long komuniti o wan choir rihes. Sidaon klosap long doa.
 
-## Ol tingting, samting blong hand mo stori
+## Ol tingting, ol samting mo ol stori blong bifo
 
-Enjoyem past tugeta witaot we yu testem hem. Skipem "Yu remembem...?" mo "Hu ia?" mo yusum ol open invitesen. Lukluk [ol aktiviti blong tingting bak](/activities/reminiscence/).
+Enjoem bifo tugeta, be no testem hem. Lusim "Yu tingting...?" mo "Hu nao i stap long piksa ia?" mo yusum ol invitesen we oli oupen. Lukluk long [ol aktiviti blong ol tingting bifo](/activities/reminiscence/).
 
-22. **Lukluk long wan fotobuk.** Talem wanem yu lukim: "Wanem wan dres. Tellem mi long dei ia." Folem ol nem we hem i yusum.
-23. **Mekem wan memori bokis.** Wan sus bokis blong ol samting long laef blong hem, olsem wan wok badj o wan resipi kad. Tekemaot ol samting wan wan.
-24. **Startem wan laef-stori buk.** Sam fotopik long wan pej wetem bigfala kaption. I helpem ol niu helpa blong save man ya.
-25. **Yusum kaonvesesen kad.** [Kaonvesesen kad](/games/conversation-cards/) i pairem wan pikja wetem wan open askem.
-26. **Mekem wan famili fotopik gem.** [Fotopea](/games/photo-pairs/) i turnem yu seleva ol fotopik i kam wan matj gem.
-27. **Lukim ol homemuvi o ol olfala TV.** Komentem tugeta, no askem ol kwesin.
-28. **Holem ol samting long wok laef blong hem.** Wan spana, wan stetoskop, wan leja. Ol han oftenem i lidim stori.
-29. **Kukum wan pikinini dis.** Hem i save stirem, testem o jes sidaon long kitjen wetem yu.
-30. **Lukluk long wan map blong ples we hem i bin stap.** Trasem ol famili rod long wan bigfala atlas we yu toktok.
+22. **Lukluk long wan album blong fotogref.** Talem wanem yu lukim: "Wan gud drese ia. Talem mi long dei ia." Tekem ol nem we hem i yusum.
+23. **Mekem wan bokis blong memoris.** Wan sus bokis blong ol samting long laef blong hem, olsem wan wok badge o kad blong resipi. Tekem ol samting aot wan wan taem.
+24. **Stat wan buk blong laef stori.** Sam fotogref long wan pej wetem ol bigfala raetin klosap. Hemi helpem niu helpa blong save man ya.
+25. **Yusum ol kad blong toktok.** [Ol kad blong toktok](/games/conversation-cards/) i pea wan piksa wetem wan oupen askem.
+26. **Mekem wan famili fotogref gem.** [Photo pairs](/games/photo-pairs/) i jenjenem ol fotogref blong yu blong mekem wan gem blong fitim.
+27. **Lukim ol homemuvi o ol olfala TV.** Komentem tugeta, no askem ol kwestin.
+28. **Holem ol samting long wok blong hem.** Wan spana, wan stetoskop, wan buk blong akaont. Hanem ofen i lidim stori.
+29. **Kukum wan kaikai blong pikinini taem.** Hem i ken stirem, testem o jes sidaon long kitsen wetem yu.
+30. **Lukluk long ol map blong ol ples we hem i bin stap.** Traehem ol rod we hem i save long wan big atlas taem yu toktok.
 
-## Krieitif aktiviti
+## Ol kriesen aktiviti
 
-Art i long duim, no long finisim wan pis. Kipem ol materiol blong adult mo sef. Lukluk [ol aktiviti blong art mo kraft](/activities/arts-and-crafts/).
+Ol kraft i stap long duim, no long finis piis. Kipem ol materiel blong adalt mo i sef. Lukluk long [ol aktiviti blong ol ateskat mo kraft](/activities/arts-and-crafts/).
 
-31. **Pentem wetem waoto kala.** Tik pepa, sam kala. Sipos startem i hard, gaedem ol fas strok tugeta.
-32. **Kalarem ol adult disain.** Flaoa o kuilt, no ol kadun. Our [pej blong kalarem](/games/coloring/) i wok long skrin o long printed pepa.
-33. **Mekem wan kolaj.** Trarem ol magasin pikja blong gaden, kar o kaikai mo gluem. Bihaen, jusum ol pikja i inaf finis.
-34. **Setemap flaoa.** Wan bunj blong flaoa long stoa mo wan vaes. Bihaen, sam stik long wan jar.
-35. **Nitem o krosem tugeta.** Simpol rou long bigfala nidol. Bihaen, wainem yaen i kam bolo.
-36. **Mekem kad blong famili.** Stempem, saenem o dekoretem kad blong bday mo blong sik man, long ol man we oli stap long laef.
-37. **Mekem air-dray kley.** Presem wan smol dis. Yusum ol non-toksik material mo stap klosap.
-38. **Sanem mo finisim wud.** Wan pre-kat birdhaos kit mo sandpepa, no pawa tul. Lukluk [ol aktiviti blong ol man](/activities/for-men/).
-39. **Raetem o toktok long wan leta.** Long wan pikinini blong pikinini o wan olfala fren. Sipos raetem i hard, hem i toktok mo yu i raetem.
+31. **Pentem wetem watercolor.** Pepa we i tik, sam kala nomo. Sipos i hard blong stat, gaedem ol fes stroks tugeta.
+32. **Kalarem ol adalt disaen.** Ol flaoa o ol kwilt, no ol katun. Ol [pej blong kalarem](/games/coloring/) i wok long skrin o long print.
+33. **Mekem wan kolas.** Brokem ol piksa blong gaden, ol kar o kaikai long ol magasin mo pastem. Bihaen, jus jusum ol piksa i enaf.
+34. **Setemap ol flaoa.** Wan bandel long gris stoa mo wan vas. Bihaen, sam stik long wan jar.
+35. **Naetem o krosem tugeta.** Ol simpol rou wetem ol bigfala nidel. Bihaen, waendem yani i go long ol bol.
+36. **Mekem ol kad blong famili.** Stempem, saenem o dekoretem ol kad blong bataday o blong sindaon kwiktaem long ol man we oli stap rieli.
+37. **Mekem sipe long klei we i draem long eya.** Presem wan smol dis. Yusum ol materiel we i no toksik mo stap klosap.
+38. **Sanem mo finisim wud.** Wan pre-kat birdhaus kit mo sanpepa, no pawa tul. Lukluk long [ol aktiviti blong ol man](/activities/for-men/).
+39. **Raetem o talem wan leta.** Long wan pikinini blong pikinini o wan fren blong bifo. Sipos raeting i hard, hem i toktok mo yu i raetem.
 
 ## Aotsaed mo gaden
 
-Fresh eya mo sanlaet i gud kampani. Lukluk [ol aktiviti aotsaed mo gaden](/activities/outdoor-and-gardening/).
+Fresh eya mo leit blong san i gud kampani. Lukluk long [ol aktiviti aotsaed mo gaden](/activities/outdoor-and-gardening/).
 
-40. **Wasem ol plant.** Wan smol kan mo sam pot. Dei-dei wasem i givim dei wan rod.
-41. **Plantem wan pot.** Putum long tebol blong nobodi i no kniol. Ol smol plant i isi moa winim sid.
-42. **Weedem o katem ol flaoa we i dae.** Gluv i stap, wan smol bed long wan taem.
-43. **Rekem ol lif.** Wan smol ples. Bihaen, holem bag i open i wan real wok.
-44. **Wokabaot long wan famili rod.** Raon long bloc o go long meil boks. Smol i oraet.
-45. **Sidaon aotsaed tugeta.** Wan vrandaseat long wan maeld dei. Lukluk klaod o ol man we i pas.
-46. **Fidem ol bet.** Fulemap wan fida tugeta mo lukluk long wan windo seat.
-47. **Wasem kar.** Bokes, spij, wan warm aftenun. Rinsem ol hab kap i wan gud wan-step wok.
+40. **Wota ol plant.** Wan smol kan mo sam pot. Daily wota i givim dei ya wan ritm.
+41. **Planem wan pot.** Putum long tebol blong nobodi i nidim nilim. Ol seedling i isi moa long ol sid.
+42. **Ridim gras o katem ol flaoa we oli dae.** Glov i stap, wan smol gaden wan taem.
+43. **Rekem ol lif.** Wan smol ples. Bihaen, holem wan bag we i opem hemi wan rial wok.
+44. **Wokabaot long wan rod we i familiar.** Raon long bloc o go long mel bokis. Smol i oraet.
+45. **Sidaon aotsaed tugeta.** Wan jea long fran blong haos long wan wan warm dei. Lukluk long ol klaud o ol man we oli wokabaot.
+46. **Fidim ol pisin.** Fulumap wan fida tugeta mo lukluk long wan windo sit.
+47. **Wasem ka.** Wan bokis, wan spans, wan aftanun we i warm. Rinsim ol hubkap hemi wan gud wan step wok.
 
-## Sensori aktiviti
+## Ol sensori aktiviti
 
-Taj, smel, kaikai, saon mo lukluk i kam impotant moa taem dementia i go ahed. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i mensen miusik, ol samting blong holem mo han masej long ol las stej. Tekem fastaem tes long alajik mo ol risk blong jokem o jokem long win; lukluk [ol sensori aktiviti](/activities/sensory/).
+Taj, smel, teis, saon mo sight oli kam moa impoten taem dementia i go haed. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i menisimaot miusik, ol samting blong holem mo masaj long han long ol leit stej. Jekem ol alajik mo ol risk blong jokem fas; lukluk long [ol sensori aktiviti](/activities/sensory/).
 
-48. **Givim wan han masej.** Askem fastaem mo yusum wan smol lotion. Jusum wan we no gat smel sipos yu no save long skin o alajik.
-49. **Fil ol kloth.** Wan basket blong velvet, kodrei, wul mo satin blong stroem mo fold.
-50. **Smelem ol herb mo kofi.** Ruem fresh mint o rosemary long fingas blong yu. Skipem strong smel sipos man i gat brif prablem.
-51. **Brasim gras blong hem.** Slou mo soft, sipos hem i laekem.
-52. **Sherem wan warm wasklos.** Long han mo fes long wan kol dei. Testem tempretja fastaem.
-53. **Lukim wan aktiviti apron.** Bigfala botan mo sip we oli sivim gud. Tekem tu se nating i save kam aot.
-54. **Traem wan fevret tritman.** Wan smol spun, long wan kaen tekstja we hem i save kaekem long sef wei.
-55. **Pleiem nesja saon.** Ren, uwis o bed singsing long wan lo vol.
-56. **Lukim wan samting we i slou.** Wan fis tank, wan nesja vidio o snou we i fulap.
+48. **Givim masaj long han.** Askem fes mo yusum wan smol lotion. Jusum wan we i no gat smel sipos yu no save long skin o alajik.
+49. **Fil ol kloth.** Wan basket blong velvet, korduroy, wul mo satin blong strok mo fol.
+50. **Smelem herbs mo kofi.** Rabem fresh mint o rosemary long fingas. Skipem strong smel sipos man i gat trabol blong win.
+51. **Brasem ol gris blong hem.** Slou mo soft, sipos hem i laekem.
+52. **Sheraem wan warm wasklot.** Blong han mo fes long wan kol dei. Testem tempretja fas.
+53. **Lukim wan aktiviti apron.** Bigfala batan mo sip we oli sol gud. Jekem nating i save lus.
+54. **Teistem wan fevret smol kaikai.** Wan smol spun, long wan tekstja we hem i save kakae sef.
+55. **Plei saon blong nature.** Ren, wef o bod saon long wan smol vol.
+56. **Lukim wan samting we i slou.** Wan fish tank, wan video blong nature o snou we i foldaon.
 
-## Gem mo pasol
+## Ol gem mo ol puzol
 
-Gem i wok sipos i no gat taem, skoa o presa. Sipos wan i stat fil olsem wan test, putum i go. Lukluk [jusum ap mo gem](/caregiving/choosing-apps-and-games/) mo [brein gem](/brain-health/brain-games/).
+Ol gem i wok taem i no gat taem, skoa o presa. Sipos wan i stat fil olsem wan test, putum i go. Lukluk long [jusum ol app mo gem](/caregiving/choosing-apps-and-games/) mo [gem blong brein](/brain-health/brain-games/).
 
-57. **Matjem pikja.** [Pikja pea](/games/picture-pairs/) i letem ol pikja i stap aples, so i tokbaot long lukluk, no long tingting.
-58. **Faenem sem pikja.** [Faenem sem](/games/find-the-same/) i ofarem tu tumas long foa jois. Toktok long wanwan pikja.
-59. **Sortem long basket.** [Sortem tugeta](/games/sort-together/) i olsem sortem sok long skrin.
-60. **Duim wan bigfala pis pasol.** Adult pikja, wan isi namba blong pis. [Pikja pasol](/games/picture-puzzle/) i holem fulfala pikja i luk. Moa long [pasol blong dementia](/activities/puzzles/).
-61. **Pleiem wan old kad gem.** Wanem we hem i pleiem long ol yia. Bihaen, sortem dek long kala i wan gem tu.
-62. **Pleiem domino.** Matjem ol ej. Bihaen, jes lainem ol tail i oraet.
-63. **Traem wan bigfala print wod sojsoj.** Our [wod sojsoj](/games/word-search/) i gat ol wod long saet mo long dong nomo, mo i kan printem.
-64. **Finisim ol fes we oli save.** [Finisim fes](/games/finish-the-saying/) i letem yu soem ol en long eni taem.
-65. **Pleiem pikja bingo.** [Pikja bingo](/games/picture-bingo/) i gud long famili mo grup. Helpem mak ol kad fri.
-66. **Pleiem jekas.** Holem ol rul i no strikt. Muvum ol pis taem yu toktok i kaontem.
+57. **Makem piksa.** [Picture pairs](/games/picture-pairs/) i letem ol piksa stap wetem fes i go antap, so hemi long lukluk, no long rimembem.
+58. **Faenem sem piksa.** [Find the same](/games/find-the-same/) i ofarem tu o fo ol jus. Toktok long wan wan piksa.
+59. **Sotem long ol basket.** [Sort together](/games/sort-together/) i olsem sotem sok long skrin.
+60. **Duim wan bigfala pis jigsaw.** Adalt ol piksa, wan isi namba blong pis. [Picture puzzle](/games/picture-puzzle/) i kipim hol piksa i stap luk. Moa long [ol puzol blong dementia](/activities/puzzles/).
+61. **Pleim wan olfala kad gem.** Wanem we hem i bin pleim long planti yia. Bihaen, sotem ol kad long kala hemi wan gem long hemsef.
+62. **Pleim domino.** Makem ol ende. Bihaen, jes lainimap ol tael hemi oraet.
+63. **Traem wan word search we i bigfala print.** Ol [word search](/games/word-search/) blong yumi i gat ol word long sankam mo long dong nomo, mo oli print.
+64. **Finisim ol sekson we oli familiar.** [Finish the saying](/games/finish-the-saying/) i letem yu soem ol en long eni taem.
+65. **Pleim picture bingo.** [Picture bingo](/games/picture-bingo/) i fit long famili mo grup. Helpem mak ol kad we oli fri.
+66. **Pleim checkers.** Holem ol rul i loos. Muvem ol pis taem yu toktok i kaontem.
 
 ## Muvmen
 
-NIA i sugestem wokabaot, wan stesanri baesikol, stretjing bandis, tossem wan soft bol o balun, lifim ol soup kan mo ol exercise vidio blong ol olfala adult. Askem wan doktaman fastaem bifo startem eni niu samting, sipos balans i wan prablem.
+NIA i sugestem wokabaot, wan stationary sakol, ol strech band, tossem wan soft bol o balun, lifim ol kan blong suup mo ol exercise video blong ol olfala. Askem ol doktor bifo yu stat eni niu samting, espesol sipos i gat balans trabol.
 
-67. **Tosem wan balun.** Sidaon fesfes. Hemi muv i slou, so isi blong kasem.
-68. **Folem wan sidaon exercise vidio** we oli mekem blong ol olfala adult, klosap long hem.
-69. **Stretjem wetem wan band.** Gud han pul wetem wan laet band taem yu sidaon.
-70. **Lifim soup kan.** Slou han raes, maet wetem miusik.
-71. **Raedem wan stesanri baesikol.** Sam isi minit, yu stap klosap.
-72. **Dens wetem skaf.** Wevem laet skaf long miusik, sidaon o stanap.
-73. **Wokabaot wetem wan risen.** Blong go pos wan leta o baem wan kofi. Wan rison blong go i fil naturol.
-74. **Sherem wan brif stop.** Slouem bodi tugeta wetem [kalm brif](/games/calm-breathing/).
+67. **Tosem wan balun.** Sidaon fes long fes. Hemi muv slou, so hemi isi blong katsem.
+68. **Folem wan seated exercise video** we i mekem blong ol olfala, klosap long yu.
+69. **Strechem wetem band.** Gud hanbak pulim wetem wan laet band taem i sidaon.
+70. **Lifim ol kan blong suup.** Slou raes blong han, sam taem wetem miusik.
+71. **Raed wan stationary sakol.** Sam isi minis, yu klosap.
+72. **Dans wetem ol skaf.** Wevem ol laet skaf long miusik, i sidaon o i stanap.
+73. **Wokabaot wetem wan samting blong duim.** Blong sendem wan leta o baem kofi. Wan rison blong go hemi fil nat.
+74. **Serem wan briting pos.** Slou daon tugeta wetem [kalm breathing](/games/calm-breathing/).
 
-## Social aktiviti
+## Sosol aktiviti
 
-Kampani i impotant evin taem nem oli hard, mo smol grup oli isi moa winim bigfala. NIA i talem se wan man i save nating nem blong wan visita bat i save laekem kampani. Lukluk [visiting](/activities/visiting/).
+Kampani i impoten even taem nem oli hard, mo smol grup i isi moa long bigfala. NIA i talem se wan man i ken no rimembem wan visita hu hemi, be hem i save laekem kampani. Lukluk long [visiting](/activities/visiting/).
 
-75. **Kasem wan o tu visita long wan taem.** Smol visit long wan kwaet rum, wetem fotopik blong lukluk.
-76. **Vidio kol long famili.** Smol kol, wan vois long wan taem. Lukluk [fon mo vidio kol](/activities/phone-and-video-calls/).
-77. **Traem wan memori kafe.** Informol gedaring we ol man i save drop long hem, blong ol pipol we oli laef wetem dementia mo ol kea man. Askem long Area Agency on Aging blong yu wanem i stap klosap.
-78. **Kaikai aotsaed long wan kwaet taem.** NIA i sugestem wan famili, kwaet restoran long taem we i no bisi, wetem tebol klosap long toilet.
-79. **Go long senior senta o adult dei program.** Kampani blong hem mo wan brek blong yu.
-80. **Spendem taem wetem pikinini.** Wan smol, kwaet visit blong ol pikinini blong pikinini, o ridim wan pikja buk long wan smol pikinini.
-81. **Sherem nuspepa wetem kofi.** Ridim ol hed-lain long voes. Rut i impotant moa winim niuz.
-82. **Helpem narafala man.** Folem ol jos program blong jej o mekem wan kad blong wan nebo.
+75. **Gat wan o tu vesitas long wan taem.** Sot vosit long wan kwaet rum, wetem ol fotogref blong lukluk.
+76. **Video kol famili.** Sot kol, wan vois long wan taem. Lukluk long [kol blong fon mo video](/activities/phone-and-video-calls/).
+77. **Traem wan memori kafe.** Informol drop-in gedring blong ol man we oli gat dementia mo ol man we oli kea long olgeta. Askem long ol lokol Area Agency on Aging wanem i stap klosap.
+78. **Go kaikai aotsaed long wan kwaet taem.** NIA i sugestem wan familiar, kwaet restorent long ol taem we no bisi, wetem wan tebol klosap long toilet.
+79. **Vesitim wan senior senta o adalt dei program.** Kampani blong hem mo wan brek blong yu.
+80. **Spenem taem wetem ol pikinini.** Wan sot kol vosit blong ol pikinini blong pikinini, o ridim wan pikja buk long wan smol pikinini.
+81. **Sherem nyuspeper long kofi.** Ridim ol hed lain long vois hae. Ritual i impoten moa long nyus.
+82. **Helpem narafala man.** Fol ol program blong jos o mekem wan kad blong wan neba.
 
-## Faet mo spirit aktiviti
+## Fet mo spirichual aktiviti
 
-Folem tradisen blong man ya, no nating. NIA i sugestem ol famili sevis, ridings, holi miusik, prea, meditesen mo holide rul.
+Folem tradisen blong man ya, o no eni. NIA i sugestem ol servis we i familiar, ol ridin, miusik we i holi, prea, meditesen mo ol ritual blong hol de.
 
-83. **Go long wan famili sevis.** Jusum wan we i kwaet moa, sidaon klosap long aisol, mo letem ol man long ples i save long dementia.
-84. **Lukluk wan sevis long ontaen** long ol dei we go aot i tumas.
-85. **Prea o ridim tugeta.** Ol famili tok, ridim i slou. Hem i save joen long ol pat we hem i save.
-86. **Singsing ol himn o holi miusik** blong tradisen blong hem.
-87. **Holem holide rul.** Bateri kandol, wan blesing, ol dekorasen we hem i bin yusum olwe.
-88. **Sherem kwaet taem.** Sidaon long gaden o lukluk san i go daon tugeta.
+83. **Atendem wan servis we i familiar.** Jusum wan we i kwaet moa, sidaon klosap long pasej, mo letem ol man long there save long dementia.
+84. **Lukim wan servis online** long ol dei taem i tumas blong go aot.
+85. **Prea o ridim tugeta.** Ol famili wod, ridim slou. Hem i ken joinim long ol pat we hem i save.
+86. **Singsing ol jos singsing o holi miusik** blong tradisen blong hem.
+87. **Holem ol ritual blong hol de.** Ol kandel we oli ran long batri, wan blesing, ol dekorasen we hem i yusum oltaem.
+88. **Sherem kwaet taem.** Sidaon long gaden o lukluk long san i godaon tugeta.
 
-## Pet mo animol
+## Ol animol mo ol bisin
 
-NIA i sugestem fidem, grumim, wokabaot, o sidaon wetem mo holem wan pet.
+NIA i sugestem fidim, grumim, wokabaot, o sidaon klosap mo holem wan animol.
 
-89. **Brasim wan kwaet dog o kat** wetem longfala, slou strok.
-90. **Fidem pet tugeta.** Yu mesurem; hem i pourim.
-91. **Wokabaot wetem dog tugeta.** Yu holem liz.
-92. **Holem pet long lap.** Wan kwaet kat long wan blanket i save i gat gud fil.
-93. **Kaebem visit animol.** Sam kea haos mo dei program i gat animol visit. Askem long ples.
-94. **Ofarem wan laef-laek soft animol.** Sipos i no gat pet, sam man i save laekem holem wan laef-laek plush kat o dog. Ofarem i isi, no olsem tjoi, mo akseptem sipos hem i se no.
+89. **Brasem wan kwaet dog o pusi** wetem ol long slou strok.
+90. **Fidim animol tugeta.** Yu mesurem; hem i pourem.
+91. **Wokabaot wetem dog tugeta.** Yu holem leash.
+92. **Holem wan animol long lap.** Wan kwaet pusi long wan blanket i ken mekem hem i fil kwaet tumas.
+93. **Velkamem ol visiting animol.** Sam kea hom mo dei program i gat ol visit blong animol. Askem long lokol ples.
+94. **Ofarem wan soft animol we i olsem rial.** Sipos i no gat animol blong haos, sam man i laekem holem wan plush pusi o dog we i luk olsem rial. Ofarem hem wetem sipal fasin, nating olsem wan toy, mo aksept sipos hem i talem nomo.
 
-## Seasonal aktiviti
+## Ol seasonal aktiviti
 
-Keepem tradisen, bat i isi moa. NIA i sugestem blong stap realistik mo gat wan kwaet ples blong brek long ol bisi holide.
+Holem ol tradisen, be simpol moa. NIA i sugestem blong stap realistik mo gat wan kwaet ples blong brek long ol bisi holiday.
 
-95. **Dekoretem blong seasen.** Wan pampkin, wan writ o flaoa long tebol.
-96. **Mekem holide kaikai.** Rolem dof o frostem kuki. Yu handelem ovan.
-97. **Hangem dekorasen.** Ornament we i no save brok, givim wan long wan taem.
-98. **Draev blong lukim ol lait.** Wan smol naet draev we i askem nating bat kampani.
-99. **Plantem sprin bolb.** Pusum bolb long wan pot long fol mo lukluk long ol niu shut.
-100. **Brukem kon o sel pis.** Wan sama porch wok wetem wan bolo long lap.
-101. **Raetem holide kad.** Oli saenem, stempem o sil; yu handelem ol adres.
+95. **Dekoretem blong seson.** Wan pamkin, wan wrif o ol nyu flaoa long tebol.
+96. **Mekem wan holiday kaikai.** Rolem dough o ais ol kuki. Yu hanem ven.
+97. **Hangem ol dekorasen.** Ol ornament we i no save brek, ol i givim wan wan taem.
+98. **Drevem blong lukim ol lait.** Wan smol naet drevem i askem nating bat kampani.
+99. **Plantem ol spring bulb.** Pressem ol bulb long wan pot long fol mo lukluk long ol nyu shoot.
+100. **Kraksem kon o seselem pis.** Wan summa jea wok wetem wan bol long lap.
+101. **Raetem ol holiday kad.** Oli saenem, stempem o seilem; yu hanem ol adres.
 
 ## Wanem if wan aktiviti i no wok?
 
-Stopem, mo traem wan narafala samting long narafala taem. NIA i sugestem blong lukluk long fastret mo letem man ya jes lukluk sipos hem i laekem. Wan no ofen i minim se task i tumas hard, taem i no raet, o samting narafala i stap wari hem, olsem pein, hanggri o noes. Mekem i smol moa, traem long moning, o startem hemi yet mo lukluk sipos hem i joen. Lukluk [taem we hem i se no](/caregiving/when-they-say-no/) mo [bihaen dei restlesnes](/caregiving/late-day-restlessness/).
+Stopem, mo traem wan narafala samting long narafala taem. NIA i sugestem blong lukluk long frustresen mo letem man ya jes lukluk sipos hem i wantem. Wan "nomo" i ken minim se wok ya i hevi tumas, taem i no raet, o samting narafala i bodarem hem, olsem pein, hangre o nojis. Mekem i smol moa, traem long moning, o stat wok ya yu wan mo lukluk sipos hem i joinim. Lukluk long [taem we hem i talem nomo](/caregiving/when-they-say-no/) mo [hevi taem long aftanun](/caregiving/late-day-restlessness/).
 
-Blong putum aktiviti i kam insaed long kaikai mo spij, lukluk [wan gentol dei rutin](/activities/daily-routine/). Blong ol samting we yu savem redi, lukluk [printabol aktiviti](/activities/printable/), mo sipos yu lidim wan grup, lukluk [kea haos grup aktiviti](/activities/care-home-groups/). Ren blong yu tu i impotant: lukluk [kea blong yu seleva](/caregiving/caregiver-self-care/).
+Blong fitim ol aktiviti long midol blong kaikai mo rest, lukluk long [wan isi dei rutin](/activities/daily-routine/). Blong ol samting we yu save redim, lukluk long [ol prinsbol aktiviti](/activities/printable/), mo sipos yu lidim wan grup, lukluk long [grup aktiviti long kea hom](/activities/care-home-groups/). Rest blong yu tu i impoten: lukluk long [kea blong yu wan](/caregiving/caregiver-self-care/).

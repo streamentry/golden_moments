@@ -1,33 +1,33 @@
 ---
-title: "Dementia kɔrɔfɛnw: Lancet Commission ka 14 minnu"
-seoTitle: "Dementia kɔrɔfɛnw: Lancet ka 14 kɔrɔfɛn"
-description: "Lancet Commission ka 2024 jɛkabaga ka dementia kɔrɔfɛn 14 minnu bɛ yɛrɛ ɲɛnɛ, sanji tɔgɔ ni tɔgɔ, ani fɛn minnu sɛgɛsɛgɛ bɛ jira, ani fɛn minnu bɛ se ka kuma dɔkitɔrɛ fɛ."
+title: "Dimansi ka teriw: Lancet Commission fɔra 14"
+seoTitle: "Dimansi ka teriw 14: Lancet ka kiri"
+description: "2024 Lancet Commission ka dimansi ka 14 teriw minnu bɛ yɛrɛ ka kɛ, waati kelen kelen ye, ani nin min bɛ dɔn ni dɔktɔrɔ ye ka kɛ kumaw."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Lancet Commission ka 2024 jɛkabaga ka dementia kɔrɔfɛn 14 minnu bɛ yɛrɛ ɲɛnɛ
-  ka se ka kɛ: kalan kɔnɔnaman, kulukulu kɛɲɛ, LDL ka nɔgɔ dɔ, dusukasi,
-  kɔrɔ ka kɔnɔ ɲɛ, baara kɛɲɛ, dɔgɔya, nɛgɛ fɛ, tansiyɔn ka ɲɛ, fasa ka
-  bɔnɛ, nin ka dɔ ka nɔgɔ, mɔgɔw ka tɛ kɛ ni mɔgɔw ye, kɛlɛ ka fɛ ni ɲɛnɛ
-  ka sanji. Olu bɛ jɛ dɔ dɔ ka fara ka 45% ka dementia baaraw ma duniya kɔnɔ,
-  nka mɔgɔ kelen na, tɔɔ tɛ ɲɛfɛnɛ.
+  2024 Lancet Commission fɔra dimansi ka 14 teriw minnu bɛ yɛrɛ ka kɛ: kalan
+  dɛsɛ, kan bɔsɔli, LDL cholesterol bonya, dusukasi, kun kɔ dɔgɔya, kɛlɛ dɔgɔya,
+  sukari bana, sigaret min bɛ fu, tansiyɔn bonya, kg bonya, nɛgɛ min bɛ ka bon,
+  mɔgɔw ma sɔrɔ ka tɛ, ɲɛfɛn fɛn sɔrɔ ye ka ɲɛ tɔ ni ɲɛ dɔgɔya min tɛ ɲɛ
+  kɛ. Olu bɛ ka ɲɔgɔn ye dimansi ka kɛɲɛ kelen bɛɛ ye 45% la duniya kɔnɔ, nka
+  mɔgɔ kelen bɛɛ ma sɛbɛn ko nin teriw bɛɛ bɛna ɲɛ mara.
 keyPoints:
-  - "Kɔrɔfɛn 14 minnu bɛ mɔgɔ ka ɲɛnɛ ka kɛlɛ bɛɛ kɔnɔ: 1 balikuya kɔnɔ, 10 jɛɲɛ kɔnɔ ani 3 ɲɛmɔgɔya kɔfɛ."
-  - "Kulukulu kɛɲɛ ani LDL ka nɔgɔ dɔ jɛɲɛ kɔnɔ olu kelen-kelen bɛ jɛ ni duniya ka dementia baaraw ka 7% ye, olu ye kɔrɔfɛn kelen-kelen ka tɛmɛnen ye."
-  - "Olu ka faamuyɔrɔw ye mɔgɔw ka jamanaw ka faamuyɔrɔw ye, ani olu bɛ miiri ko fɛn min bɛ kɛ, o ye ko min bɛ kɛ o bɛ kɛ. Dɔw ka sɛbɛnw bɛ se ka kɛ kosɛbɛ ɲɛfɛnɛ."
-  - "Sanji ni ni ɲɛnɛ, mɔgɔ si tɛ se ka o yɛrɛ ɲɛ, olu fana ye kɔrɔfɛn nla ye. 14 kɔrɔfɛn ɲɛ kɔfɛ, tɔɔ tɛ ɲɛfɛnɛ ko mɔgɔ si tɛ dementia la."
-  - "Ɲɛnɛmaw dɔ, i ko tansiyɔn, kulukulu ani ɲɛnɛ fɛ ɲɛ ɲɛnɛ bɛ, olu bɛ nɔgɔ ɲɛnɛ fana bɛ kɛ, ani olu ka kuma dɔkitɔrɛ fɛ ka ɲɛ."
+  - "Teriw 14 bɛ mɔgɔ ka waati bɛɛ la: kelen kalan fɔlɔ la, tan midlife la, ani saba ni dɔgɔ nɔgɔnkɔ la."
+  - "Kan bɔsɔli ani LDL cholesterol bonya midlife la, olu kelen kelen bɛ ka ɲɔgɔn ye dimansi ka kɛɲɛ 7% duniya kɔnɔ, o ye teri kelen kelen bɛɛ ka ɲɛmɔgɔya ka bon ye."
+  - "Nin kɛɲɛ tɔw ye mɔgɔw ka jatigɛw ye, ani u bɛ miiri ko fɛn bɛ ka kɛ ni fɛn tɔw ye. Fɛn dɔw ka kɛɲɛ ka tɛ sɔrɔ tuma bɛɛ."
+  - "Dɛ ni ɲɛnamaya, minnu tɛ se ka yɛrɛ ka kɛ, ka tɛ, nka bɛ ka kɛ dimansi ka teriw ka dɔgɔya ma sɔrɔ ka tɛ mɔgɔ kelen bɛɛ ye ka dimansi ka tɛ sɔrɔ."
+  - "Teriw dɔw, i ko tansiyɔn, kan ni ɲɛ ye ɲɛnamaya ɲɛ ye, u bɛ ɲɛnamaya ɲɛfɛ fɔ, ani dɔktɔrɔ ye u kuma kɛ."
 faq:
-  - q: "Dementia kɔrɔfɛn 14 minnu ye mun ye, olu bɛ se ka yɛrɛ ɲɛnɛ?"
-    a: "Lancet Commission ka 2024 jɛkabaga ka fɔ ko kalan kɔnɔnaman, kulukulu kɛɲɛ, LDL ka nɔgɔ dɔ, dusukasi, kɔrɔ ka kɔnɔ ɲɛ, baara kɛɲɛ, dɔgɔya, nɛgɛ fɛ, tansiyɔn ka ɲɛ, nin ka dɔ ka nɔgɔ, dɔgɔya ka kɛlɛ, mɔgɔw ka tɛ kɛ ni mɔgɔw ye, fasa ka bɔnɛ ani ɲɛnɛ ka sanji ko ye. Olu bɛ jɛ ni duniya ka dementia baaraw ka dɔ ka fara ka nɔgɔ ye."
-  - q: "Dementia kɔrɔfɛn juru bɛ mun ye ka tɛmɛn?"
-    a: "Duniya ka mɔgɔw bɛɛ kɔnɔ, Commission ka faamuyɔrɔ ye ko kulukulu kɛɲɛ ani LDL ka nɔgɔ jɛɲɛ kɔnɔ olu kelen-kelen bɛ jɛ ni baaraw ka 7% ye, o kɔfɛ kalan kɔnɔnaman ani mɔgɔw ka tɛ kɛ ni mɔgɔw ye olu kelen-kelen ka 5% ye. Kɔrɔfɛn juru bɛ mɔgɔ kelen na ka sɔrɔ a yɛrɛ ka dɔnkili ni a ka ɲɛnɛ ye, o la dɔkitɔrɛ ye ɲɛtaa ye."
-  - q: "Ɲɛnɛmaw 2 min ye kɔrɔfɛn kura ye, olu ka bɔ 2024 la wa?"
-    a: "Ɔwɔ. 2024 jɛkabaga ka LDL nɔgɔ (\"fɛn mabɛ\") jɛɲɛ kɔnɔ ani ɲɛ min tɛ kɛ ɲɛ nɔgɔ kɔrɔ kɔnɔ fara 12 min na 2020 la. Commission ka faamuyɔrɔ ye ko olu bɛ jɛ ni baaraw ka 7% ani 2% ye, ka kɔ."
-  - q: "Sanji ye kɔrɔfɛn ye min bɛ se ka yɛrɛ ɲɛ?"
-    a: "Ɔcɛ. Sanji ye kɔrɔfɛn nla ye min bɛ Alzheimer ka dɔ ka ɲɛfɛnɛ, ani o tɛ se ka yɛrɛ ɲɛ. Tɔgɔ fana bɛ baara kɛ. Kɔrɔfɛn 14 minnu bɛ tɔɔrɔ ɲɛfɛnɛ ka sɛgɛsɛgɛ bɛ jira ko olu bɛ se ka yɛrɛ ɲɛ, olu ye ni ɲɛ."
+  - q: "Dimansi ka teriw 14 minnu bɛ yɛrɛ ka kɛ ye jɛ?"
+    a: "2024 Lancet Commission fɔra kalan dɛsɛ, kan bɔsɔli, LDL cholesterol bonya, dusukasi, kun kɔ dɔgɔya, dɔnkili ma kɛ, sukari bana, sigaret, tansiyɔn bonya, kg bonya, nɛgɛ min bɛ ka bon, mɔgɔw ma sɔrɔ ka tɛ, ɲɛfɛn fɛn sɔrɔ ye ka ɲɛ tɔ, ani ɲɛ dɔgɔya min tɛ ɲɛ kɛ. U bɛ ka ɲɔgɔn ye dimansi ka kɛɲɛ duniya kɔnɔ."
+  - q: "Dimansi ka teri jɛ bɛ ka bon ka tɛmɛ tɔw kan?"
+    a: "Duniya mɔgɔw ka kɛɲɛ la, Commission ka kɛɲɛ ye ko kan bɔsɔli ani LDL cholesterol bonya midlife la, olu kelen kelen bɛ ka ɲɔgɔn ye kɛɲɛ 7% ma, kalan dɛsɛ ani mɔgɔw ma sɔrɔ ka tɛ, olu kelen kelen bɛ ka ɲɔgɔn ye 5% ma. Mɔgɔ kelen bɛɛ ka teri minnu bɛ ka bon, o bɛ kɛ a ka ɲɛnamaya ye, dɔktɔrɔ ye ɲɛfɛ kɛ."
+  - q: "Teri fila min bɛ kɛ 2024 la, olu bɛ kɛ kura ye wa?"
+    a: "Ɔwɔ. 2024 kibaru bɛ kan LDL (bɔnɛ) cholesterol midlife la, ani ɲɛ dɔgɔya min tɛ ɲɛ kɛ later life la, o kɔnɔ, 2020 la fɔra 12 kɔ. Commission bɛ olu ɲɔgɔn ye kɛɲɛ 7% ni 2% ma, u ka ɲɛmɔgɔya ye."
+  - q: "Ɲɔgɔn ye fɛn ye min bɛ yɛrɛ ka kɛ dimansi ka teri ye wa?"
+    a: "Tɛ. Ɲɔgɔn ye dimansi ka teri ka bon ka tɛmɛ Alzheimer ka kɔnɔ, o tɛ se ka yɛrɛ ka kɛ. Mɔgɔ ka dɔnkili fana bɛ kɛ. Nin page kɔnɔ teriw 14 ye fɛn ye min bɛ dɔn ko u bɛ se ka yɛrɛ ka kɛ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,74 +49,92 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-Kɔrɔfɛn ye fɛn ye min bɛ mɔgɔ ka ɲɛnɛ ka kɛ dɔ ka ɲɛfɛnɛ ka ɲɛnɛ kɔnɔ. A tɛ se ka fɔ ko o ye sababu ye ni o bɛ kɛ kɔnɔ bɛɛ la, ani kɔrɔfɛn kelen tɛ fɔ ko i bɛna dementia sɔrɔ. Nin kɔnɔ bɛ dementia kɔrɔfɛn 14 minnu fɔ, minnu Lancet Commission ka 2024 jɛkabaga fɔ ko olu bɛ se ka yɛrɛ ɲɛ, ani sɛgɛsɛgɛ min bɛ olu ni fɛ jira, ani fɛn minnu bɛ se ka kuma dɔkitɔrɛ fɛ.
+Teri ye fɛn ye min bɛ ka ɲɔgɔn ye mɔgɔ ka dɔgɔ ka kɛ ni fɛn dɔ ye. A tɛ kɛ
+sababu ye tuma bɛɛ, ani a tɛ wɛrɛ ko mɔgɔ min bɛ teri dɔ la, o bɛna dimansi
+kɛ. Nin page bɛ dimansi ka teriw 14 fɔ, minnu Lancet Commission fɔra 2024 la ko
+u bɛ se ka yɛrɛ ka kɛ. Ani u bɛ ka ɲɔgɔn ye fɛn min bɛ dɔn, ani fɛn min bɛ ka
+kan dɔktɔrɔ ye.
 
-Ni i wajibi ka kɔrɔ fɔ, o kɔnɔ, o ye sɛgɛsɛgɛ ba min kɛra ni sɛgɛsɛgɛ ba min kɛra, o la, [Dementia bɛ se ka kɛ ka tɛ ɲɛfɛnɛ wa? Sɛgɛsɛgɛ fɔ min bɛ yen](/brain-health/can-dementia-be-prevented/) ka kɔ. Nin ye kuma ye min bɛ kɛ sɛbɛnnen kɔnɔ, o tɛ dɔkitɔrɛ ka kuma ye; a bɛ ci [an ka sɛbɛn dɔkitɔrɛ ka kuma kɔnɔ](/medical-disclaimer/) ma.
+Ka dɔn fɛn bɛɛ kɔnɔ, kɔrɔ ni fɛn minnu sɔrɔcogo kɔnɔ, aw ka daminɛ
+[Dimansi bɛ se ka tɛmɛ wa? Fɛn min bɛ kalan](/brain-health/can-dementia-be-prevented/) la.
+Nin ye kalan jɛɲɔgɔn ye, tɛ dɔktɔrɔ ka ci ye; aw ye
+[dɔktɔrɔ ka kuma](/medical-disclaimer/) ye.
 
-## Dementia kɔrɔfɛn 14 minnu ye mun ye?
+## Dimansi ka teriw 14 jɛ?
 
-[2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0), min sɛbɛnnen kɛra ni dementia sɛgɛsɛgɛkɛla 27 ye, ko kɔrɔfɛn 14 minnu bɛ se ka yɛrɛ ɲɛ, olu bɛ jɛ ni dementia baaraw ka 45% ye duniya kɔnɔ. Kɔrɔfɛn kelen-kelen ka faamuyɔrɔ min bɛ sɔrɔ kɔnɔ, o ye Commission ka faamuyɔrɔ ye ko baaraw ka dɔ min bɛ jɛ ni o ye, a bɛ jɛ ni duniya ka baaraw ka dɔ ye, ka lɔn ka ɲɛmɔgɔ ye. Faamuyɔrɔw bɛ kɔnɔ ɲɛ, bawo mɔgɔ caman bɛ kɔrɔfɛn caman sɔrɔ kelen na, o de kosɔn olu bɛ kɔnɔ 45% ma, a tɛ ɲɛ dɔ.
+[2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0), min
+kɛra dimansi kalanbaga 27 ye, ko teriw 14 minnu bɛ se ka yɛrɛ ka kɛ, olu bɛ
+ka ɲɔgɔn ye dimansi ka kɛɲɛ 45% duniya kɔnɔ. Teri kelen kelen ka kɛɲɛ bɛ
+bɔ Commission ka kɛɲɛ la, o ye mɔgɔw ka kɛɲɛ ye duniya kɔnɔ, u ka jɔrɔ ye
+kɛɲɛ dɔ ye. Kɛɲɛ minnu bɛ bɔ, u bɛ ɲɔgɔn ye, bawo mɔgɔ caman bɛ teri caman
+la, o de bɛ kɛ u ka kɛɲɛ bɛɛ bɛ kɔ 45% ye, tɛ ka ca.
 
-| Kɔrɔfɛn | Jɛɲɛ | Baaraw ka dɔ | Sɛgɛsɛgɛ bɛ mun jira | I bɛ se ka mun kɛ |
+| Teri | Ɲɛnamaya waati | Kɛɲɛ | Kalan bɛ min ɲɔgɔn ye | Aw bɛ se ka min kɛ |
 | --- | --- | --- | --- | --- |
-| Kalan kɔnɔnaman | Balikuya | 5% | Sanji dɔ ka kalan kɔnɔnaman, o bɛ jɛ ni dementia ka ɲɛnɛ ye. Kɔrɔ ka hakilina kɛ jɛɲɛ kɔnɔ bɛ kɛ kɔrɔ, hali mɔgɔ min kalanna tɛ caman, o bɛ se ka dɛmɛ. | Kalan ka kɔnɔ ɲɛ ni sanji bɛɛ la: karanw, fasa, kalan ka cɛ, o ni mɔgɔw ye ɲɛnɛ min bɛ hakili kɛ. |
-| Kulukulu kɛɲɛ | Jɛɲɛ | 7% | Kulukulu kɛɲɛ min tɛ kɛ jɛɲɛ kɔnɔ, o bɛ jɛ ni ɲɛnɛ ye. Sɛgɛsɛgɛ min bɛ mɔgɔw ka ɲɛnɛ kɔfɛ, a jirala ko kulukulu bɔnɛ ka dɔ bɛ kɛ kɔrɔ ka ɲɛnɛ ma. | Kulukulu ka kɛɲɛ ɲɛ. I ka kulukulu kɔrɔ ka dɔ bɛ kɛ ka kuma dɔkitɔrɛ fɛ, ni dɔkitɔrɛ ka fɔ, o ka kɛ. Mɔgɔ nin ka kulukulu kɛɲɛ min bɛ, o ka kɛ fɛn ye. |
-| LDL nɔgɔ dɔ | Jɛɲɛ (40 ka kɔfɛ) | 7% | LDL ("fɛn mabɛ") nɔgɔ dɔ jɛɲɛ kɔnɔ bɛ jɛ ni ɲɛnɛ ye. Sɛgɛsɛgɛ min tɛ tɛmɛ mɔgɔ ka ɲɛnɛ kɔnɔ, olu jirala ko nɔgɔ dimi ka dɔ bɛ kɛ kɔrɔ, nka ɲɛnɛ kɔfɛ sɛgɛsɛgɛw tɛ o jira. | Kuma dɔkitɔrɛ fɛ ko i ka nɔgɔ ka ɲɛ, ani o ka kɛ cogo di. |
-| Dusukasi | Jɛɲɛ | 3% | Dusukasi bɛ jɛ ni ɲɛnɛ ye. Kɔrɔ ka ɲɛnɛ kɔfɛ, dusukasi bɛ se ka kɛ dementia ka fɔlɔ dɔ ye. | Kuma dɔkitɔrɛ fɛ ni hakili bɔra, ni dusukasi bɛ tɛmɛ don 2 kɔ. Dusukasi bɛ se ka dɔ. |
-| Kɔrɔ ka kɔnɔ ɲɛ | Jɛɲɛ | 3% | Kɔrɔ ka kɔnɔ ɲɛ, a ka ɲɛnɛ fɛ, bɛ jɛ ni ɲɛnɛ ye, ni o bɛ kɛ tɔɔ dɔ kɔnɔ, mɔgɔ ka dɔnkili fɛ wala tɔɔ fɛ. | Karanw ni kasikɛlɛ ɲɛ, sisan ka tɛ kɛ ni cogo di. Ni kɔrɔ ka kɔnɔ ɲɛ kɔfɛ, kuma dɔkitɔrɛ fɛ ka ɲɛnɛ ka kɛ ni ka sɔrɔ. |
-| Baara kɛɲɛ | Jɛɲɛ | 2% | Mɔgɔ min bɛ baara kɛ ka tɛ wuya, o bɛ se ka dementia sɔrɔ ka tɛ kɛ mɔgɔ min tɛ baara kɛ. Sɛgɛsɛgɛ jirala ko baara kɛ ka caman tɛ. | Kuma dɔkitɔrɛ fɛ baara min ka kɛ i ye, ani baara min bɛ i dusu don. I ka [baara kɛli sɛbɛn](/brain-health/exercise/) ka kɔ. |
-| Nɛgɛ fɛ | Jɛɲɛ | 2% | Diabɛti, ni o bɛ fara jɛɲɛ kɔnɔ wala o bɛ tɛmɛ ka ca, o bɛ jɛ ni ɲɛnɛ ye. | Ka nɛgɛ fɛ ka kɔ. Ni i bɛ diabɛti la, kɛ ni i ka dɛmɛbaw ye ka o kɔnɔ cogo ka ɲɛ. |
-| Nin ka dɔ | Jɛɲɛ | 2% | Nin ka dɔ bɛ jɛ ni ɲɛnɛ ye. Mɔgɔ min ye nin ka dɔ dɔ ye, a ka ɲɛnɛ tɛ kɛ mɔgɔ min bɛ nin ka dɔ tɛ. | Kuma sɛngɛ dɔkitɔrɛ fɛ ni tɛ ka sɔrɔ. A ka kɛ ka fɔ ko i ka dɛmɛ bɛ se ka sɔrɔ. |
-| Tansiyɔn ka ɲɛ | Jɛɲɛ | 2% | Tansiyɔn min bɛ jɛɲɛ kɔnɔ, o bɛ jɛ ni ɲɛnɛ ye. Dawolo min ye tansiyɔn ka ɲɛ ye, olu jirala ko ɲɛnɛ ka dɔ bɛ kɛ tɛmɛ dementia wala hakili bɔnɛ la. | I ka lɔnkan ka ɲɛ. Commission fɔ ko top number 130 wala tɛmɛ jɛɲɛ 40 ka kɔfɛ; kuma i ka ɲɛnɛ min ka kɛ i ye fɛ. |
-| Nɔgɔ | Jɛɲɛ | 1% | Nɔgɔ min bɛ jɛɲɛ kɔnɔ, o bɛ jɛ ni ɲɛnɛ ye, ani o bɛ nɛgɛ fɛ ka ɲɛ. | Kuma dɔkitɔrɛ fɛ nɔgɔ ka cogo di min ka kɛ i ye. Mɔgɔ ka ca tɛ ka nɔgɔ dimi ni dɔkitɔrɛ ka kuma tɛ. |
-| Dɔgɔya | Jɛɲɛ | 1% | Ni mɔgɔ bɛ dɔ caman min, o bɛ jɛ ni ɲɛnɛ ye. Ni o dimi ka tɛmɛ dɔ ma, o bɛ se ka ɲɛnɛ ka dimi. | Kuma dɔ dɔ ka tɛmɛ ka ɲɛ ka tɛ, ni i bɛ dawolo la. |
-| Mɔgɔw ka tɛ kɛ ni mɔgɔw ye | Ɲɛmɔgɔya kɔfɛ | 5% | Mɔgɔw ka tɛ kɛ ni mɔgɔw ye ka caman tɛ, o bɛ jɛ ni ɲɛnɛ ye. | Ka ɲɛnɛ ka kɛ ni mɔgɔw ye fɛn min bɛ i dusu don. I ka [mɔgɔw ni ɲɛnɛ sɛgɛsɛgɛ](/brain-health/social-connection/) ka kɔ. |
-| Fasa ka bɔnɛ | Ɲɛmɔgɔya kɔfɛ | 3% | Fasa ka bɔnɛ caman min bɛ kɛ i ka dugu la, o bɛ jɛ ni ɲɛnɛ ye. Fasa ka ɲɛ bɛ jɛ ni ɲɛnɛ ye. | Ɲɛfɛnɛ ka kɛ ka fɛn ye min bɛ sɔrɔ jamana kɔnɔ kuntigiw ka kɛ ye. Fasa ka kɛɲɛ fɔlɔ ka ci, ani kɔrɔ ka ɲɛnɛ i ka bɔ ka kɛ. |
-| Ɲɛ min tɛ kɛ ɲɛ nɔgɔ kɔrɔ kɔnɔ | Ɲɛmɔgɔya kɔfɛ | 2% | Ɲɛ min tɛ kɛ kɔrɔ, o bɛ jɛ ni ɲɛnɛ ye. Amerikɛ sɛgɛsɛgɛ dɔ jirala ko ɲɛ kɛ ni cataract ye, o bɛ ɲɛnɛ nɔgɔ. | Ɲɛ ka kɛlɛ ka kɛ ni tɛmɛn. Kuma dɔkitɔrɛ fɛ ni cataract wala ɲɛ kɔrɔfɛn dɔ bɛ se ka kɛ ɲɛ ka ɲɛ. |
+| Kalan dɛsɛ | Kalan fɔlɔ | 5% | Kalan waati dɔgɔ bɛ ɲɔgɔn ye dimansi ka bon ni. Hakili kalan midlife la fana bɛ dimansi dɔgɔya, ko mɔgɔ kalan dɔgɔ bɛ bɔ. | Kalan ka kɛ ni hakili ka baara, waati bɛɛ: karamɔgɔya, kɛlɛ, sɛbɛn, kɛlɛ ni mɔgɔw ye. |
+| Kan bɔsɔli | Midlife | 7% | Kan bɔsɔli min tɛ kɛ, o bɛ ɲɔgɔn ye dimansi ka bon ni. Kalan min bɛ mɔgɔw ka waati kɔnɔ, o bɛ ɲɔgɔn ye ko kan bɔsɔli dɛmɛ bɛ dimansi dɔgɔya. | Kan bɔsɔli ka ɲɛfɛ. Ka ɲɛmɔgɔya kɛ ko kan dɔgɔ bɛ kɛ wa, ani ka sɔn ka kan dɔ kɛ ni sɔrɔ ye. Ka kɛ ka kan dɔgɔ ni kɛlɛ bɛɛ ye. |
+| LDL cholesterol bonya | Midlife (a bɛ kɛ 40 kɔ) | 7% | LDL ("bɔnɛ") cholesterol bonya midlife la, o bɛ ɲɔgɔn ye dimansi ka bon ni. Kalan min bɛ mɔgɔw ka waati kɔnɔ, o bɛ ɲɔgɔn ye ko statin dɛmɛ bɛ dimansi dɔgɔya, nka kɛlɛ later life la tɛ o yɛrɛyɛrɛ jate. | Ka dɔktɔrɔ ka kuma ka cholesterol ka kɛ wa, ani fɛn jumɛn ye min bɛ kɛ, ni a bɛ kɛ. |
+| Dusukasi | Midlife | 3% | Dusukasi bɛ ɲɔgɔn ye dimansi ka bon ni. Later life la, dusukasi bɛ kɛ dimansi ka fɔlɔ ka masike dɔ fana ye. | Ka dɔktɔrɔ fɔ hakilisɛnɛ min bɛ gɛlɛya, walima ko ɲɔgɔn ma sɔrɔ, waati ni tile 2 bɛ ka tɛmɛ. Dusukasi bɛ se ka dɔn. |
+| Kun kɔ dɔgɔya | Midlife | 3% | Kun kɔ dɔgɔya, a sɔrɔcogo bɛɛ ye, o ka kɛlɛ ni sport ye, bɛ ɲɔgɔn ye dimansi ka bon ni. | Ka kun kɔ ni kɔrɔfɛ ka kɛ kɛlɛ ni sport bɛɛ la. Ka kun kɔ kɔ kɔ kɔ dɔgɔya ka kɛ. Ka sɔn ka sɔrɔ kun kɔ dɔgɔya kɔ. |
+| Ɲɛnamaya ɲɛfɛ kɛ tɛ | Midlife | 2% | Mɔgɔ min bɛ ɲɛnamaya kɛ ni sport ye, u bɛ dimansi ka bon kɔ. Kalan bɛ ka ɲɛ tɛ jɛɲɔgɔn ye sisan. | Ka dɔn ko ɲɛnamaya min bɛ ɲɛ, ani ka fɛn dɔ sɔrɔ min bɛ ka di aw ma. Aw ka [sport ka kalan](/brain-health/exercise/) ye. |
+| Sukari bana | Midlife | 2% | Sukari bana, kɔ midlife la walima a ka tɛmɛ, o bɛ ɲɔgɔn ye dimansi ka bon ni. | Ka sukari ka kɛ ka ɲɛmɔgɔya. Ni aw bana, ka kɛ ni aw ka kɛlɛbolo ye ka sukari ka kɛ ɲɛ ye. |
+| Sigaret | Midlife | 2% | Sigaret bɛ ɲɔgɔn ye dimansi ka bon ni. Mɔgɔ min bɛ sigaret bɔ, u ma bɛ dimansi ka teri ka bon kɔ, i ko mɔgɔ min bɛ sigaret fu. | Ka sɔn ka dɛmɛ sɔrɔ ka sigaret bɔ. A ka ɲɛ waati bɛɛ la. |
+| Tansiyɔn bonya | Midlife | 2% | Tansiyɔn bonya midlife la bɛ ɲɔgɔn ye dimansi ka bon ni. Tansiyɔn dawolo kalan bɛ ɲɔgɔn ye ko dimansi dɔgɔya dɔgɔ. | Ka aw ka nɔmɛrɔ dɔn. Commission ka kuma ko tansiyɔn kɔnɔ ka 130 walima dɔgɔ, a kɔ 40 kɔ; ka kuma dɔktɔrɔ ye ko nɔmɛrɔ min bɛ aw ye. |
+| Kg bonya | Midlife | 1% | Kg bonya midlife la bɛ ɲɔgɔn ye dimansi ka bon ni, a bɛ sukari bana fana bonya. | Ka dɔktɔrɔ ka kuma ka kg ka ɲɛfɛ ye aw ye. Mɔgɔ ɲɛnɔgɔnin tɛ kɛ kg dɔgɔya ni dɔktɔrɔ ka ci tɛ. |
+| Nɛgɛ min bɛ ka bon | Midlife | 1% | Nɛgɛ ka bon bɛ ɲɔgɔn ye dimansi ka bon ni. Nɛgɛ ka dɔgɔya nɛgɛ min bɛ ka bon, o bɛ ɲɔgɔn ye dimansi ka teri dɔgɔ ni. | Ka dɔktɔrɔ ka kuma ko nɛgɛ ka dɔgɔ ye jɛ, ani dawolo ka kɛ ni. |
+| Mɔgɔw ma sɔrɔ ka tɛ | Later life | 5% | Mɔgɔw ma sɔrɔ ka tɛ fɔ ka tɛmɛ, o bɛ ɲɔgɔn ye dimansi ka bon ni. | Ka mɔgɔw ni kɛ ka ɲɛ tɔ ni fɛn min bɛ aw ye. Aw ka [mɔgɔw ka kalan](/brain-health/social-connection/) ye. |
+| Ɲɛfɛn fɛn sɔrɔ ye ka ɲɛ tɔ | Later life | 3% | Ɲɛfɛn fɛn caman bɛ ɲɔgɔn ye dimansi ka bon ni. Ɲɛfɛn fɛn dɔgɔ bɛ ɲɔgɔn ye dimansi ka teri dɔgɔ ni. | Ɲɛfɛn ka gɛlɛya jɛɲɔgɔnɲɛ ye, ko ɲɛ nɔ. Ka ɲɛfɛn ka kɛlɛ dɔn ka ɲɛfɛn ka kɛ la kɔrɔ ni fɛn ye. |
+| Ɲɛ dɔgɔya min tɛ ɲɛ kɛ | Later life | 2% | Ɲɛ dɔgɔya min tɛ ɲɛ kɛ, o bɛ ɲɔgɔn ye dimansi ka bon ni. Kalan dɔ Amerikɛ la bɛ ɲɔgɔn ye ko ɲɛ cataract kɛ bɛ dimansi dɔgɔya. | Ka ɲɛ kɔrɔfɛ ka tɛmɛ ni waati bɛɛ. Ka dɔn ko cataract bɛ se ka kɛ wa. |
 
-## I ka ɲɛnɛmaw ka ɲɛfɛnɛ, i bɛ se ka mun kɛ?
+## Nin kɛɲɛ minnu bɛ kɛ, o ka kɛ cogo di?
 
-Ka lɔn ka ɲɛ. Commission ka jɛkabaga ka fɛn caman bɛ yen min ka kɛ ka lɔn:
+Ka kɔnɔ. Commission ka kalan ye kuma caman ye min bɛ kan:
 
-- **Olu bɛ mɔgɔw ka jɛɲɛ fɔ, mɔgɔ kelen ka tɛ.** Londɔn kɔnɔ kaaran ka [jɛkabaga ka kɔrɔ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ko kɔrɔfɛn ka fɛn ka ɲɛ bɛ kɛ mɔgɔw bɛɛ kɔnɔ, nka a tɛ mɔgɔ kelen ka dementia kɛ.
-- **Olu bɛ fɔ ko fɛn min bɛ kɛ o bɛ kɛ.** Sɛbɛnnen kɛlaw ye kɔrɔfɛn min sɛgɛsɛgɛ ye ɲɛ ye, nka olu fɔ ko dɔw ka sɛbɛnw bɛ se ka kɛ kosɛbɛ ɲɛfɛnɛ.
-- **Olu ye duniya ka faamuyɔrɔ ye.** Sɛgɛsɛgɛ caman bɛ bɔ jamanaw min ka wari caman bɛ, ani jamana wala dugu kelen-kelen ka faamuyɔrɔ bɛ se ka wuya.
-- **Dɔ tɔɔ fana bɛ se ka kɛ fɛn ye.** Kɔrɔfɛn min ka dɔ ye 2% ye duniya kɔnɔ, o bɛ mɔgɔ caman kɔrɔ.
+- **Olu bɛ mɔgɔ bɛɛ ka kɛɲɛ ye, tɛ mɔgɔ kelen ka kɛɲɛ.** University College London ka
+  [kalan kɔrɔ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  ko teri dɔgɔya bɛ kɛ duniya mɔgɔw ka kɛɲɛ la, nka a tɛ ɲɛfɛ ko mɔgɔ kelen bɛna dimansi ka tɛ sɔrɔ.
+- **Olu bɛ miiri ko fɛn bɛ ka kɛ ni fɛn tɔw ye.** Kalanbagaw ye teri minnu bɛ ka ɲɔgɔn ye ɲɛ ni, nka u b'a fɔ ko ɲɔgɔn dɔw ka kɛ ni fɛn tɔw ye ka ɲɛ.
+- **Olu ye duniya kɛɲɛ ye.** Kalan caman bɛ bɔ jamanaw min ka wari ka bon, nka jamana walima dugu kelen bɛɛ ka kɛɲɛ bɛna yɛrɛyɛrɛ.
+- **Kɛɲɛ dɔgɔ bɛ se ka ko caman kɛ.** Teri min bɛ mɔgɔ 2% ka dimansi ma, o bɛ mɔgɔ caman kɛ.
 
-## Kɔrɔfɛn juru minnu bɔra 2024 la?
+## Teri jɛ minnu bɛ kɔ 2024 la?
 
-2024 jɛkabaga ka kɔrɔfɛn 2 ɲɛ kɔfɛ, 2020 la fara 12 min na:
+2024 kibaru bɛ teri fila kɔ 2020 la fɔra 12 kɔ:
 
-- **LDL nɔgɔ dɔ jɛɲɛ kɔnɔ**, ka jɛ ni baaraw ka 7% ye.
-- **Ɲɛ min tɛ kɛ ɲɛ nɔgɔ kɔrɔ kɔnɔ**, ka jɛ ni baaraw ka 2% ye.
+- **LDL cholesterol bonya midlife la**, o bɛ ɲɔgɔn ye kɛɲɛ 7% ma.
+- **Ɲɛ dɔgɔya min tɛ ɲɛ kɛ later life la**, o bɛ ɲɔgɔn ye kɛɲɛ 2% ma.
 
-## Kɔrɔfɛn minnu tɛ se ka yɛrɛ ɲɛ?
+## Teri jɛ minnu tɛ se ka yɛrɛ ka kɛ?
 
-Kɔrɔfɛn min bɛ kɔnɔ Amerikɛ National Institute on Aging fɔ, [sanji ye Alzheimer ka kɔrɔfɛn nla ye](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), mɔgɔ si tɛ se ka o yɛrɛ ɲɛ. Tɔgɔ fana bɛ baara kɛ; tɔgɔ kelen min bɛ Alzheimer ka ɲɛfɛnɛ kɛ, o tɔgɔ ye APOE ye. NIA fana fɔ ko sɛgɛsɛgɛkɛlaw ma faamu ka bon ko mun bɛ Alzheimer kɛ mɔgɔ caman kɔnɔ. Lancet Commission fɔ ko kɔrɔfɛn minnu bɛ se ka yɛrɛ ɲɛ, olu bɛ se ka nɔgɔ, mɔgɔ ka tɔgɔ fɛn ye min ka kɛ.
+National Institute on Aging b'a fɔ ko
+[dimansi ka teri ka bon ka tɛmɛ Alzheimer ka kɔnɔ, o ye ɲɔgɔn ye](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ani mɔgɔ si tɛ se ka o yɛrɛ ka kɛ. Dɔnkili fana bɛ kɛ; dɔnkili kelen min bɛ Alzheimer ka teri kɛ, o tɔgɔ ye APOE ye. NIA b'a fɔ ko kalanbagaw ma dɔn fɔlɔ fɛn min bɛ Alzheimer kɛ mɔgɔ caman la. Lancet Commission b'a fɔ ko teriw minnu bɛ se ka yɛrɛ ka kɛ, u bɛ se ka dɔgɔya mɔgɔ kelen bɛɛ dɔnkili ye.
 
-Sanji ni tɔgɔ bɛ baara caman kɛ, o de kosɔn mɔgɔ caman min tɛ kɔrɔfɛn 14 kelen sɔrɔ, olu fana bɛ dementia sɔrɔ. O tɛ mɔgɔ dɔ ka fili ye.
+Bawo ɲɔgɔn ni dɔnkili bɛ mɔgɔ caman la, mɔgɔ caman min tɛ teriw 14 kɔnɔ, u bɛna dimansi kɛ. O tɛ mɔgɔ dɔ ka jurumu ye.
 
-## Sɛgɛsɛgɛ bɛ mun fɔ kɔrɔfɛn minnu yɛrɛ ɲɛ kɔfɛ?
+## Kalan minnu bɛ ko teriw ka yɛrɛyɛrɛ kɛ, o ye mun ye?
 
-Ɲɛnɛ ka sɛgɛsɛgɛ min fɔ ko kɔrɔfɛn dɔ bɛ jɛ ni dementia ye, o tɛ kɔrɔfɛn ka ɲɛ kɛ ko dementia bɛ nɔgɔ. Nin ye sɛgɛsɛgɛ dɔw ye:
+Teri ni dimansi ka ɲɔgɔn ye tɛ ka ɲɛfɛ ko teri yɛrɛyɛrɛ bɛ dimansi ka kɛɲɛ ɲɛ. Kalan dɔw nin ye:
 
-- **Tansiyɔn.** SPRINT MIND sɛgɛsɛgɛ kɔnɔ, tansiyɔn ka ɲɛ min tɛmɛ dɔ bɛ kɛ, o nɔgɔcogo ka hakili bɔnɛ dɔ nɔgɔ ka cɛɲi. A ma dementia nɔgɔ dɛɛ, nka sɛgɛsɛgɛ ka dɔgɔ, a ma se ka o jira ([SPRINT MIND JAMA la](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Tulonkɛ ka kɛlɛnw.** Lancet Commission fɔ sɛgɛsɛgɛ dɔ ko san 3, min ye tulonkɛ ka kɛlɛ ye; a ma hakili bɔnɛ jira, nka mɔgɔ dɔw min kɔrɔfɛn caman bɛ, olu ka ɲɛnɛ ka kɛ ka caya. Mɔgɔ min bɛ tulonkɛ ka kɛlɛ kɛ ka ɲɛnɛ ka kɔrɔ, o bɛ jɛ ni ɲɛnɛ nɔgɔ ye. Ni i bɛ fɛ ka caya, [tulonkɛ sɛbɛn](/brain-health/hearing/) bɛ yen.
-- **Baara kɛli.** National Institute on Aging fɔ ko sɛgɛsɛgɛ kɔnɔ fɛn ka ca tɛ ko baara kɛli bɛ se ka mild cognitive impairment wala Alzheimer ɲɛfɛnɛ wala a ka ɲɛ, nka sɛgɛsɛgɛ dɔw jirala ko a bɛ se ka dɛmɛ ka ɲɛnɛ ka kɔrɔ ka ɲɛnɛ ka kɛ ([NIA ka kuma Alzheimer ɲɛfɛnɛ kɔnɔ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Tansiyɔn.** SPRINT MIND kalan la, tansiyɔn ka dɔgɔ ka kɛ ɲɛ, o bɛ mɔgɔ dɔgɔya hakili ka tɛ fɛn ye kɔnɔ. Nka a ma dimansi dɔgɔya kosɛbɛ, o bɛ kɛ ko kalan ka ɲɛ tɛ ka ca ((
+  [SPRINT MIND JAMA la](https://pubmed.ncbi.nlm.nih.gov/30688979/))).
+- **Kan bɔsɔli dɛmɛ.** Lancet Commission b'a fɔ kalan saba kalan ye kan bɔsɔli dɛmɛ la, o ma hakili ka kɛ ɲɛ, nka mɔgɔ dɔw min bɛ teri la, o bɛ ɲɛ. Mɔgɔw ka kalan min bɛ waati kɔnɔ, o bɛ ɲɔgɔn ye ko kan bɔsɔli dɛmɛ bɛ dimansi dɔgɔya. Aw ka [kan ka kalan](/brain-health/hearing/) ye.
+- **Kɛlɛ.** National Institute on Aging b'a fɔ ko kalan caman tɛ se ka fɔ ko kɛlɛ bɛ dimansi ka tɛmɛ walima a dɔgɔya, nka kalan dɔw b'a fɔ ko a bɛ dɛmɛ ka kɛ ni waati ka bonya ye
+  ([NIA ka kuma Alzheimer ka tɛmɛ kan](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Sɛgɛsɛgɛ min bɛ tɛmɛ dementia ka kɛ kɔfɛ, o bɛ waati caman ni wari caman ta, o de kosɔn caman bɛ tɛmɛ mɔgɔw ka ɲɛnɛ sɛgɛsɛgɛ ye min bɛ san caman kɔnɔ. Nin sɛgɛsɛgɛ bɛ dɛmɛ, nka a ka jɛ ka tɛmɛ sɛgɛsɛgɛ ka kɔrɔ.
+Kalan minnu bɛ dimansi ka waati caman ta, olu bɛ ka wari caman ni waati caman ta. Dɔw kɔnɔ, kalan minnu bɛ mɔgɔw ka waati kɔnɔ, olu bɛ kɛ kalan ɲɛ ye. Nka o kalan tɛ kalan ɲɛfɛ ye.
 
-## Sanji ni dumuni kɔnɔ fɛ?
+## Hakili ka dɔ ni nɔgɔ ye jɛ?
 
-Commission ka sɛgɛsɛgɛ ye kalan ni dumuni kɔnɔ ye, nka olu tɛ kɛ kɔrɔfɛn kura ye, bawo sɛgɛsɛgɛ ma ca ka kɛ ka kɛ fɛn ye. [Sanji](/brain-health/sleep/) ni [dumuni](/brain-health/diet/) sɛbɛn bɛ fɔ min bɛ lɔn.
+Commission ye hakili ni nɔgɔ kalan, nka u ma olu don teriw kɔnɔ, bawo kuma ma dɔn kosɛbɛ walima ma sɔn. Aw ka [hakili kɔnɔ kalan](/brain-health/sleep/) ni [nɔgɔ kalan](/brain-health/diet/) ye, o bɛ fɛn bɛɛ fɔ.
 
-## Dɔkitɔrɛ fɛ ka kuma
+## Dɔktɔrɔ ni kuma
 
-San kɔnɔ dɔkitɔrɛ ka sɛgɛsɛgɛ ye waati ɲɔgɔn ye o kuma kɛ. I bɛ se ka nin kɔrɔ ta ka nin ɲɛmɔgɔ fɔ:
+Sanji kɔnɔ dɔktɔrɔ ye waati ɲɛnama ye ka nin kuma kɛ. Aw bɛ se ka nin sɛbɛn fɛ ka nin ɲininkali ɲini:
 
-- Ne ka tansiyɔn, nɛgɛ fɛ ni nɔgɔ ka jɔnjɔnw, olu bɛ se ka kɛ cogo di wala olu bɛ fɛ ka ɲɛ?
-- Ne ka tulonkɛ ni ne ka ɲɛ ka sɛgɛsɛgɛ kɛ wa?
-- Baara min ne bɛ kɛ, o ka ɲɛ wala a ka ca ne ye wa?
-- Ne ka dawolo dɔw bɛ se ka hakili ni hakilina ɲɛ wa?
+- Ne ka tansiyɔn, sukari ni cholesterol nɔmɛrɔ jɛ, ani olu bɛ hakili kɛ wa?
+- Ne ka kan ni ɲɛ kɔrɔfɛ wa?
+- Ne ka kɛlɛ ɲɛfɛ ye wa, ani a bɛ ne ye wa?
+- Ne ka dawolo dɔ bɛ hakili ni miiri la wa?
 
-Ni i bɛ fɛ ka dawolo, dumuni, ɲɛnɔnɔ, baara kɛli, wala dawolo ɲɛfɛnw yɔrɔ ɲɛ, aw ka kuma dɔkitɔrɛ fɛ ɲɛɲɛ. Ni mɔgɔ min bɛ aw ka dɛmɛ, a bɛ hakili bɔnɔ sisan, a ka boko bɛ bɔ fɛ kɔrɔ, wala a bɛ kuma yɛrɛ ɲɛ, aw ka 15 wele.
+Ka dawolo, nɔgɔ, dɔgɔ kɛ, sport walima ɲɛdaw ka ci ɲɛ, aw ka dɔktɔrɔ ka kuma daminɛ. Ni aw walima mɔgɔ min bɛ aw ka kɛlɛ kɛ, a hakili bɛ gɛlɛya tuma dɔ la walima a ka kɔ dɔ bɛ kɔnɔ, walima a kuma bɛ gɛlɛya, ka urgences nimɔrɔ wele.

@@ -1,33 +1,33 @@
 ---
-title: "Tablet anaa Fon Ahyehyɛde ma Dementia Nipa"
-seoTitle: "Hyehyɛ Tablet anaa Fon ma Dementia Nipa"
-description: "Nhyehyɛ a ɛnyinasɛm: fa tablet anaa fon kɔ app baako mu, ma nkyerɛwde yɛ kɛse, tew nkɔsoɔ, kyerɛ nhyehyɛ a ɛyɛ mmerɛ ne ahobrɛaseɛ."
+title: "Tablet anaa Fon a Wobɛhyehyɛ Ma Obi a Dementia Wɔ Ho"
+seoTitle: "Hyehyɛ Tablet anaa Fon Ma Obi a Dementia Wɔ Ho"
+description: "Nhyehyɛe ma tablet anaa fon ma obi a dementia wɔ ho: fa app baako, kyerɛ nkyerɛwde kɛse, yi nkaeɛ fi hɔ, sie home screen, hyehyɛ volume ne ho ahobammɔ."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ma tablet anaa fon ayɛ yie ansa na woama obi no. Fa Guided Access so kɔ app
-  baako mu wɔ iPad ne iPhone so, anaa app pinning wɔ Android so, anaa fa Apple
-  Assistive Access so ma nhyehyɛ a ɛyɛ mmerɛ. Ma nkyerɛwde yɛ kɛse, gyae
-  nkɔsoɔ, fa app kakraa bi bɛkɔ fie baako so, hyehyɛ mmaa, fa stand, na tew
-  app ahobammɔ ho kwan. Fa yɛɛ no ka ho, bɔ mmɔden a ɛnyɛ fon so ho ho.
+  Ma tablet anaa fon yɛ mfiase ansa na wode bɛma no. Fa Guided Access di
+  iPad ne iPhone so, anaa app pinning di Android so, de app baako pɛ na ɛnte
+  so. Anaa fa Apple's Assistive Access de nhyehyɛe a ɛyɛ mfiase. Yɛ nkyerɛwde
+  kɛse, yi nkaeɛ fi hɔ, fa app kakraa pɛ kɔ home screen baako so, hyehyɛ
+  volume, fa stand, na tew app ho ntaa. Fa ne ho ka ho nnwuma a ɛnni screen.
 keyPoints:
-  - "Guided Access (iPhone, iPad) ne app pinning (Android) ma fon no nni app foforɔ so kɔsi sɛ wobɔ no ahoa."
-  - "Apple Assistive Access ma nhyehyɛ a ɛyɛ mmerɛ, a wɔayɛ ma nnipa a wɔwɔ nimdeɛ ho ɔhaw."
-  - "Ma nkyerɛwde yɛ kɛse, gyae nkɔsɔ ne nkɔsoɔ, na nkɔsoɔ anaasɛ nneɛma a ɛpue nsɔ nkɔsoɔ ammɛyɛ no."
-  - "Fa app kakraa a wɔn a wɔahyia dɔ bi bɛkɔ fie baako so, na hyehyɛ mmaa ansa na wofi ase."
-  - "Stand ne baabi a wobɛkyerɛ fon no bɛma ɛyɛ mmerɛ sɛ wobɛde no bɛhyɛ ananmu."
-  - "Hwehwɛ app tumi ne nsɛm a ɛfa nsɛm nsie ho: HIPAA mmara (Amerika) nnyɛ nsɛm a ɛwɔ fon a ɛyɛ obi ankasa so ho ban koraa."
+  - "Guided Access (iPhone, iPad) ne app pinning (Android) ma screen no tena app baako so kɔsi sɛ wobɛyi no."
+  - "Apple's Assistive Access ma nhyehyɛe a ɛyɛ mfiase, a wɔayɛ ma nnipa a wɔn adwene mu ho ɔhaw wɔ."
+  - "Yɛ nkyerɛwde kɛse, na yi nkaeɛ ne pop-up fi hɔ, ma biribi nni mu anaa ɛnhaw."
+  - "Fa app kakraa a wɔn ho wɔ wɔ home screen baako so, na hyehyɛ volume ansa na worefi ase."
+  - "Stand ne baabi a wɔbɛkɔ fɔtɔ a ɛnsakra no ma device no yɛ adwuma yie na ɛyɛ mmerɛ sɛ wobɛhwehwɛ."
+  - "Hwɛ app ahunu ne nsɛm a wɔde ka ho: HIPAA (America mmara a ɛfa ayaresa nsɛm ho) nnyɛ den sɛ ɛbɛbɔ ho ban ma nsɛm a wɔkora wɔ fon anaa tablet a ɛyɛ ho nkutoo."
 faq:
-  - q: "Ɛdeɛn na memfa obi a ɔwɔ dementia nnyɛ app bi so wɔ iPad so?"
-    a: "Bue Guided Access wɔ Settings > Accessibility > Guided Access, na hyehyɛ passcode. Bue app no, nsi bɔtɔn a ɛwɔ soro (anaa Home bɔtɔn wɔ iPad a ɛyɛ kan so) mmɔden abiɛsa, na tɔ Start. iPad no bɛtena saa app no mu kɔsi sɛ obi de passcode no bɛto mu."
-  - q: "Ɛdeɛn na memfa Android tablet ka app baako ho?"
-    a: "Bue app pinning wɔ Settings app mu, a ɛwɔ Security (anaa Security & location) > Advanced > App pinning ase. Afei bue app no, bue Overview, tɔ app no ikon a ɛwɔ soro, na tɔ Pin. Wohia wo PIN, pattern anaa password de yi ho."
-  - q: "Ɛyɛ mmerɛ sɛ mede Guided Access di dwuma wɔ obi no ankasa fon so?"
-    a: "Hwɛ yie. Apple ka sɛ Crash Detection ne Emergency Services nni hɔ bere a Guided Access rehyɛ adwuma. Sɛ obi no de ne fon bɛfrɛ ɔhaw mu boafoɔ a, fa Guided Access di dwuma kɛse wɔ bere a wo ne no wɔ hɔ nko, anaasɛ fa Assistive Access."
-  - q: "Bere bɛn na ɛyɛ mmerɛ sɛ obi a ɔwɔ dementia de ne ho bɛhwɛ screen?"
-    a: "Biribi nni hɔ a wɔde ahyɛ mu. Nkɔsoɔ mmere tiaa a wɔde bom yɛ mu, a wobɛfa nnantwie, nnwom, adwuma fie ne nkɔmmɔ ka ho, yɛ da a ɛyɛ ma sen sɛ wobɛtena device so nkoaa. Sɛ device no ma ɔsɔre anaa ɛsɛe nneɛma a afoforo yɛ a, fa no di dwuma kakra."
+  - q: "Ɛdeɛn na mɛyɛ de ma obi a dementia wɔ ho ntumi nnkɔ app foforo ho wɔ iPad so?"
+    a: "Fa Guided Access di Settings > Accessibility > Guided Access so na hyɛ passcode. Bue app no, nkyɛn botaa no mmɛɛnsa (top button anaa Home button wɔ iPad a ɛyɛ kɛse), na tɔ Start. iPad no bɛtena saa app no mu kɔsi sɛ obi bɛde passcode no bɛto mu."
+  - q: "Ɛdeɛn na mɛyɛ de bɛkyerɛ Android tablet app baako?"
+    a: "Fa app pinning di Settings app mu, wɔ Security (anaa Security & location) > Advanced > App pinning so. Afei bue app no, bue Overview, tɔ app no ticon a ɛwɔ soro no, na tɔ Pin. Wohia wo PIN, pattern anaa password de yi."
+  - q: "Ɛyɛ nea ɛteɛ sɛ mede Guided Access bɛdi obi ankasa fon so?"
+    a: "Hwɛ yie. Apple ka sɛ Crash Detection ne Emergency Services nni hɔ bere a Guided Access wɔ hɔ. Sɛ obi no de ne fon di ntɔn fɛ ntoboa a, fa Guided Access di kan nkutoo bere a wowɔ ne nkyɛn, anaa hwehwɛ Assistive Access."
+  - q: "Bere bɛn na screen bere a ɛyɛ ma obi a dementia wɔ ho?"
+    a: "Ɛnni nsonsonoe a wɔahyɛ. Nnwuma a ɛyɛ mmerɛ, a wɔyɛ bom, a ɛka nnwoma, nnwom, adwuma ketewa ne asɛm kasa, boa ma da no yɛ mmerɛ sen sɛ ɛbɛyɛ nnɔnhwerɛ de screen rekɔ so. Sɛ fon no de ahohia anaa ɛpow nnwuma foforo a, fa so di dwuma kakra."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -64,119 +64,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-Tablet bi bɛyɛ anigyeɛ ma wo ne obi no bɛhyɛ mfoniniwa, nnwom ne akwan a ɛyɛ mmerɛ a wɔde bɛbom akyɛ. Nanso ɛsɛ sɛ ɛnyɛ nea ɛma obi no nhyɛ nsɛm: ɔtɔ bi a ɛnyɛ nea wopɛ no bɛbue app foforɔ, nkaeɛ bi bɛpue, nkyerɛwde no yɛ nketenkete, anaa screen no bɛtwe bere a wɔrehwɛ kɔmpyuta. Wo ankasa nhyehyɛ kakra bɛboa ma nneɛma pii yɛ yie. 
+Tablet bi bɛyɛ anigye ma wo ne obi a wodi ne ho ahyia de mfonini, nnwom ne nnwoma a ɛyɛ mfiase di dwuma. Nanso ɛbɛyɛ nea ɛhaw nso: sɛ wo tɔ ɔfa biara a, app foforo bɛbue; nkaeɛ bɛba pue; nkyerɛwde bɛyɛ sɛ ɛyɛ ketewa; anaa screen no bɛdwiri bere a wɔrehwe ere. Wo ankasa nhyehyɛe kakra bɛboa ma nsɛm dodoɔ no ayera.
 
-Saa nkyerɛkyerɛ yi de iPhone, iPad ne Android mu nhyehyɛ a ɛwɔ device no mu na ɛsom. Din a wɔde frɛ nneɛma no bɛsesa bere a software no rehyɛ so ne bere a device a ɛwɔ hɔ no hyɛ ho ase, enti sɛ biribi a woahu yɛ ka ho a, di Apple anaa Google nkyerɛwde a ɛwɔ linkɔ no so wɔ wo device no ho. Di nhyehyɛ no ankasa, ansa na wobɛtena ase bom.
+Saa nkyerɛkyerɛ yi de iPhone, iPad ne Android mu nhyehyɛe a ɛwɔ device no mu di dwuma. Menu din bɛsesa ntam software ne device a ɛyɛ mu, enti sɛ biribi nhwɛ sɛ ɛsesa a, di Apple anaa Google nkyerɛkyerɛ a wɔde ahyɛ ase wɔ device wo no akyi. Yɛ nhyehyɛe no wo ankasa ansa na wobɛtena ase wɔ ho.
 
-## Ɛnyɛ tablet anaa fon ma obi a ɔwɔ dementia?
+## Ɛsɛ sɛ obi a dementia wɔ ho de tablet anaa fon di dwuma?
 
-Ɛsɛ sɛ wɔhwɛ obi no ho. Nnipa pii ani gye sɛ wɔde tablet di dwuma bere a obi wɔ wɔn akyi, ɛwom sɛ wɔrenni ho nkoaa a ɛbɛyɛ den. Fi ase de bom di dwuma, app baako bue, nkakrankakra bere mmienu. Sɛ ɛma anigyeɛ ne nkɔmmɔ a, kɔ so. Sɛ ɛma ɔsɔre anaa ɔhaw a, nkyerɛwde mfonini, ntaadeɛ a wɔayi anaa nnwom bɛyɛ mmerɛ ma no sen. Yɛn [nneɛma a wɔde ntaadeɛ yɛ](/activities/printable/) yɛ akwan foforɔ.
+Ɛgyina obi no so. Nnipa pii ani gye tablet bere a obi wɔ wɔn nkyɛn, ɛwom sɛ wɔrenni ho nkutoo a ɛnyɛ den. Fi ase de di dwuma wɔ ho ne wo, app baako pɛ bue, bere kakra. Sɛ ɛma anigye ne asɛm kasa a, toa so. Sɛ ɛma ahohia anaa abufuo a, album a wɔde mfonini, krataa a wɔde ebe anaa nnwom bɛyɛ ma wɔn. Yɛn [nnwuma a wɔde krataa yɛ](/activities/printable/) yɛ kwan foforo.
 
-Tablet yɛ mmerɛ sen fon: screen ne mfonini no yɛ kɛse, na ɛnyɛ obi no ankasa ɔhaw mu boafoɔ nso.
+Tablet yɛ sɛ ɛyɛ fon sen: screen ne mfonini no yɛ kɛse, na ɛnyɛ obi no ntɔn fɛ ntoboa nso.
 
-## Ɛdeɛn na memfa tablet anaa fon ka app baako ho?
+## Ɛdeɛn na mɛyɛ de tablet anaa fon bɛkyerɛ app baako?
 
-Fa Guided Access di dwuma wɔ iPhone ne iPad so, anaa app pinning wɔ Android so. Wɔn mmienu yi ma screen no ka app baako ho kɔsi sɛ wobɛde kɔd bɛto mu, enti ɛtɔ bi anaa nsiesie bi ammɛma app foforɔ mmue.
+Fa Guided Access di iPhone ne iPad so, anaa app pinning di Android so. Biara ma screen no tena app baako so kɔsi sɛ wobɛde kɔd bɛto mu, enti tɔ anaa nhyɛ ɔfa biara ntumi nbue app foforo.
 
 ### iPad ne iPhone: Guided Access
 
-Fi [Apple Guided Access nkyerɛkyerɛ](https://support.apple.com/en-us/111795) mu:
+Fi [Apple's Guided Access nkyerɛkyerɛ](https://support.apple.com/en-us/111795) mu:
 
-1. Bue **Settings**, tɔ **Accessibility**, afei tɔ **Guided Access** na bue no.
-2. Wɔ **Passcode Settings** ase, hyehyɛ Guided Access passcode. Wobetumi nso de Face ID anaa Touch ID.
-3. Sɛ wopɛ: wɔ **Display Auto-Lock** ase, paw bere a screen no bɛkyekyere wɔ bere a wɔreyɛ adwuma no mu, ama ɛnkyekyere wɔ bere a wɔreyɛ ɛkwan no mu.
+1. Bue **Settings**, tɔ **Accessibility**, afei tɔ **Guided Access** na fa so.
+2. Wɔ **Passcode Settings** ase, hyɛ Guided Access passcode. Wobetumi nso ma Face ID anaa Touch ID.
+3. Sɛ wopɛ: wɔ **Display Auto-Lock** ase, paw ntɛmpɛ a screen no bɛkyɛ wɔ bere a wɔreyɛ adwuma no, na ɛremfa ne ho nnyɛ nnwonwon bere a wɔreyɛ.
 4. Bue app a wopɛ no.
-5. Tɔ side bɔtɔn no mmɔden abiɛsa (iPhone), top bɔtɔn no (iPad), anaa Home bɔtɔn wɔ device a ɛyɛ kan so.
-6. Sɛ wopɛ: kyekyere screen no ananmu a wopɛ sɛ ɛnte ntɔ ho. Tɔ **Options** (anaa **Session Settings**) de gyae volume bɔtɔn no anaa gyae screen no ntene.
+5. Nkyɛn botaa no mmɛɛnsa (triple-click): iPhone no side button, iPad no top button, anaa Home button wɔ device a ɛyɛ kan no so.
+6. Sɛ wopɛ: fa afahyɛ bi a wopɛ sɛ screen no rentie tɔ ho no ho nkyekyɛ. Tɔ **Options** (anaa **Session Settings**) de twe volume botaa no anaa gyina screen no rentwa so.
 7. Tɔ **Start**.
 
-Sɛ wopɛ sɛ wobɛto saa adwuma yi mu a, tɔ saa bɔtɔn no mmɔden abiɛsa bio, hyɛ passcode no, afei tɔ **End**. Apple ka sɛ wɔ software a ɛyɛ kan bi mu no, wɔde mmɔden mmienu mmom.
+Sɛ wopɛ sɛ wobɛtwe adwuma no awie a, nkyɛn botaa no mmɛɛnsa bio, hyɛ passcode, na tɔ **End**. Apple ka sɛ software a ɛyɛ kan bi so no, wobɛdi dwuma mmɛɛnsa mmienu (double-click).
 
-**Ɛho hia:** Apple ka sɛ Crash Detection ne Emergency Services nni hɔ bere a Guided Access rehyɛ adwuma. Nni Guided Access so wɔ fon a obi no bɛfa ne ho nfrɛ ɔhaw mu boafoɔ no so.
+**Ɛho hia:** Apple ka sɛ Crash Detection ne Emergency Services nni hɔ bere a Guided Access rekɔ so. Nnyi Guided Access da fon a obi no hia sɛ ɔde bɛfrɛ ntɔn fɛ ntoboa.
 
 ### Android: app pinning
 
-Fi [Google Android boafoɔ nkyerɛkyerɛ ho nsɛm a ɛfa screen pinning ho](https://support.google.com/android/answer/9455138?hl=en) mu:
+Fi [Google's Android nkyerɛkyerɛ wɔ screen pinning ho](https://support.google.com/android/answer/9455138?hl=en) mu:
 
-1. Bue **Settings** app no.
-2. Tɔ **Security** (anaa **Security & location**), afei **Advanced**, afei **App pinning**. Sɛ wohu no ammɔ hɔ a, hwehwɛ device no mfiase boafoɔ nkyerɛwde.
-3. Bue **App pinning**. Wobehia wo PIN, pattern anaa password de yi ho.
-4. Bue app a wopɛ no. Sɛ wɔde gesture nhyehyɛ di dwuma a, kɔ screen no mfinimfini, hyɛ ase na wɔ hɔ. Sɛ wɔde 3-button nhyehyɛ di dwuma a, tɔ Overview.
-5. Wɔ app preview no soro, tɔ app ikon no, afei tɔ **Pin**.
+1. Bue **Settings** app.
+2. Tɔ **Security** (anaa **Security & location**), afei **Advanced**, afei **App pinning**. Sɛ wannya no a, hwehwɛ device no abenfoɔ nkyerɛkyerɛ.
+3. Fa **App pinning** di dwuma. Wohia wo PIN, pattern anaa password de yi.
+4. Bue app a wopɛ no. Fa nsa ma kɔ screen no mfimfini ase, na twa so de bue Overview (anaa tɔ Overview sɛ wɔde 3-button navigation).
+5. Wɔ app no preview no soro, tɔ app no ticon, afei tɔ **Pin**.
 
-Sɛ wopɛ sɛ wobɛyi pin no wɔ gesture nhyehyɛ so a, kɔ soro na hyɛ ase na wɔ hɔ. Wɔ 3-button nhyehyɛ so, tɔ Back ne Overview mu de wɔn hyɛ ase. Wɔ 2-button nhyehyɛ so, tɔ Back ne Home mu de wɔn hyɛ ase. Afei hyɛ wo PIN, pattern anaa password.
+Sɛ wode gesture navigation di dwuma a, fa nsa ma sɔ soro na gyina so de yi. Sɛ wode 3-button navigation di dwuma a, gyina Back ne Overview so. Sɛ wode 2-button navigation di dwuma a, gyina Back ne Home so. Afei hyɛ wo PIN, pattern anaa password.
 
-## Ɛwɔ hɔ nhyehyɛ a ɛyɛ mmerɛ ma iPhone anaa iPad nyinaa?
+## Ebia ɛwɔ kwan a ɛyɛ mfiase ma iPhone anaa iPad nyinaa?
 
-Ɛwɔ hɔ. Apple Assistive Access de nhyehyɛ a ɛyɛ mmerɛ bɛsi home screen a ɛtɔ so no beaeɛ. [Apple ka sɛ](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) wɔyɛe no sɛ ɛbɛma iPhone yɛ mmerɛ ma nnipa a wɔwɔ nimdeɛ ho ɔhaw sɛ wɔbɛde ankasa di dwuma, na nneɛma a ɛwɔ screen no so yɛ kɛse, nneɛma a ɛboa nso ka ho. Apple de [saa nhyehyɛ no ara](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) ma iPad nso.
+Ɛwɔ hɔ. Apple's Assistive Access de home screen a ɛyɛ mfiase sɛ ɛbɛdi nea ɛda so. [Apple kyerɛ](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) sɛ wɔayɛ no ma iPhone yɛ mfiase ma nnipa a wɔn adwene mu ho ɔhaw wɔ sɛ wɔbɛdi dwuma ankasa, ne sɛ ɛwɔ nneɛma a ɛyɛ kɛse wɔ screen so ne nneɛma a ɛboa ma wɔhwɛ yie. Apple de [saa mfiase kwan no](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) ma iPad nso.
 
-- **Hena na ɔhyehyɛ.** Apple ka sɛ obi a wotwa so, sɛ ɔbusuafoɔ anaa obi a ɔhwɛ so a ɔnim obi no, boa wɔ sɛ wobɛpaw app ne nneɛma.
-- **Ɛhe na wofi ase.** Kɔ **Settings > Accessibility > Assistive Access**, tɔ **Set Up Assistive Access**, afei tɔ **Continue**.
-- **Apps.** Wopaw apps a wɔbɛda so. Apple apps bi wɔ nhyehyɛ a ɛyɛ mmerɛ, na apps foforɔ bi nso wɔbɛtumi aka ho wɔ wɔn nhyehyɛ a ɛda so no mu.
-- **Nhyehyɛ.** Paw **Rows** (nkyerɛwde a ɛyɛ mmerɛ hwɛ) anaa **Grid** (nneɛma kɛse a ɛgyina mfonini ne ntweaa so).
-- **Passcode.** Wɔde passcode a ɛyɛ ka Assistive Access ho ma wo sɛ wobɛbue, wobɛfi ase, anaa wobɛsesa nhyehyɛ. Apple kyerɛ sɛ ɛsɛ sɛ wo hyehyɛ Apple Account a wɔde bɛsan passcode no a wo werɛfrɛ no. Sɛ wonni saa account no a, sɛ wowerɛ wo passcode a, ɛsɛ sɛ wosan device no.
+- **Hena na ɔhyehyɛ.** Apple ka sɛ obi a wodi ne ho ahyia, te sɛ abusua mu ɔbarima anaa ɔbaa a ɔboa, a ɔnim obi no, ka ho boa wɔ app ne nneɛma a wɔpaw mu.
+- **Ɛhe na ɛfiri.** Kɔ **Settings > Accessibility > Assistive Access**, tɔ **Set Up Assistive Access**, afei tɔ **Continue**.
+- **Apps.** Wopaw app a ɛbɛba. Apple apps bi wɔ mfiase nkyerɛwde, na app foforo a ɛwɔ hɔ no bɛba wɔ wɔn nhyehyɛe a ɛda so mu.
+- **Nhyehyɛe.** Paw **Rows** (nkyerɛwde a ɛyɛ mfiase sɛ wobɛhwɛ) anaa **Grid** (nneɛma kɛse a ɛka mfonini ne ticon).
+- **Passcode.** Wohyɛ passcode a ɛyɛ ka ho ma Assistive Access de bue, de fi hɔ anaa de sesa nhyehyɛe. Apple kyerɛ sɛ wɔhyehyɛ Apple Account a ɛboa ma wosan de passcode a wɛ mfi hɔ, efisɛ sɛ wo werɛfi passcode a, ɛhia sɛ wosan device no.
 
-Assistive Access bɛyɛ mmerɛ ma obi a ɔde ne device di dwuma da biara. Guided Access anaa app pinning yɛ vinyɛ sen wɔ bere a wɔrekyekyere app baako ho no mu.
+Assistive Access bɛboa sɛ obi de wɔn ankasa device di dwuma da biara. Guided Access anaa app pinning yɛ ntɛmpɛ ma bere a wobɛyɛ anigye bom.
 
-## Ɛdeɛn na memfa nkyerɛwde ne mfonini yɛ kɛse?
+## Ɛdeɛn na mɛyɛ de nkyerɛwde ne mfonini ayɛ kɛse?
 
-Ma nkyerɛwde ne screen display no yɛ kɛse, na afei hwɛ sɛ nkɔnkɔnkɔnkɔnkɔnkɔnkɔnkɔnkɔ bɛyɛ ma wɔatumi ato ntwa so.
+Ma nkyerɛwde ne screen no nhyehyɛe ayɛ kɛse, na hwɛ sɛ mfeaatwa no ka ho ntumi nnyɛ den.
 
-**iPhone ne iPad.** Sɛdeɛ [Apple font size nkyerɛkyerɛ](https://support.apple.com/en-us/102453) kyerɛ no, kɔ **Settings > Display & Brightness > Text Size**, na twe slider no. Sɛ wopɛ nkyerɛwde a ɛyɛ kɛse paa a, kɔ **Settings > Accessibility > Display & Text Size > Larger Text**. Apple ka sɛ nkyerɛwde a ɛyɛ kɛse paa bɛma nkɔnkɔnkɔnkɔnkɔnkɔ bi nyɛ den sɛ wɔbɛto mu, enti sesa sɛ ɛho hia.
+**iPhone ne iPad.** Sɛdeɛ [Apple's font size nkyerɛkyerɛ](https://support.apple.com/en-us/102453) kyerɛ no, kɔ **Settings > Display & Brightness > Text Size** na twe slider no. Sɛ wopɛ nkyerɛwde a ɛyɛ kɛse sen saa, kɔ **Settings > Accessibility > Display & Text Size > Larger Text**. Apple ka sɛ nkyerɛwde a ɛyɛ kɛse pii bi betumi ama mfeaatwa bi nnyɛ den sɛ wɔbɛtɔ, enti sesa sɛdeɛ ɛbɛyɛ.
 
-**Android.** Sɛdeɛ [Google nkyerɛwde ne display nhyehyɛ boafoɔ](https://support.google.com/accessibility/android/answer/11183305?hl=en) kyerɛ no, bue **Settings** na hwehwɛ **Font size**, afei twe slider no. Hwehwɛ **Display size** de ma biribiara a ɛwɔ screen no ayɛ kɛse. Wobetumi nso de **Bold text** bue wɔ **Accessibility > Display size and text** ase. Apps bi remfa saa nhyehyɛ yi nni.
+**Android.** Sɛdeɛ [Google's text and display settings nkyerɛkyerɛ](https://support.google.com/accessibility/android/answer/11183305?hl=en) kyerɛ no, bue **Settings** na hwehwɛ **Font size**, afei twe slider no. Hwehwɛ **Display size** de ma biribiara wɔ screen so ayɛ kɛse. Wobetumi nso de **Bold text** di dwuma wɔ **Accessibility > Display size and text** mu. App bi remfa saa nhyehyɛe yi nni dwuma.
 
-Wɔ mmara a ɛte sɛ [Picture Pairs](/games/picture-pairs/) ne [Find the Same](/games/find-the-same/) mu no, wobetumi aka mfonini anaa mmuaeɛ akɛse, na ɛma screen no yɛ mmerɛ.
+Wɔ agorɔ te sɛ [Picture Pairs](/games/picture-pairs/) ne [Find the Same](/games/find-the-same/) mu no, wobetumi apaw nkɔ kakra anaa mmuae kakra, na ɛbɛma screen no yɛ mfiase.
 
-## Ɛdeɛn na memfa nkaeɛ ne nkaeɛ a ɛpue nkɔsɔ nkɔ?
+## Ɛdeɛn na mɛyɛ de nkaeɛ ne pop-up ano?
 
-Gyae app a wonhia no nkaeɛ, na fa Do Not Disturb di dwuma bere a wɔreyɛ adwuma.
+Yi nkaeɛ fi app a ɛnhia wo no hɔ, na de Do Not Disturb di dwuma bere a wɔreyɛ adwuma.
 
-**iPhone ne iPad.** Kɔ **Settings > Notifications**, tɔ app bi a ɛwɔ **Notification Style** ase, afei gyae **Allow Notifications** ([Apple nkaeɛ nhyehyɛ nkyerɛkyerɛ](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Sɛ wopɛ sɛ wɔbɛgyae nkaeɛ, frɛ, ne nkɔsɔ bere tiaa bi a, bue Do Not Disturb wɔ Control Center mu, fi **Focus** bɔtɔn so ([Apple Do Not Disturb boafoɔ](https://support.apple.com/en-us/105112)). Wobetumi nso ahyehyɛ bere a ɛbɛba **Settings > Focus > Do Not Disturb > Set a Schedule** so.
+**iPhone ne iPad.** Kɔ **Settings > Notifications**, tɔ app bi a ɛwɔ **Notification Style** ase, na twe **Allow Notifications** fi hɔ ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Sɛ wopɛ sɛ wobɛma ntaa, nkaeɛ ne ahyɛde nni hɔ bere kakra, bue Control Center, na fa **Do Not Disturb** di dwuma fi **Focus** botaa so ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). Wobetumi nso ahyehyɛ no wɔ **Settings > Focus > Do Not Disturb > Set a Schedule** so.
 
-**Android.** Twe nsã fi screen no soro, afei tɔ **Do Not Disturb**, anaa kɔ **Settings > Modes > Do Not Disturb** ([Google Do Not Disturb boafoɔ](https://support.google.com/android/answer/9069335?hl=en)). Wɔ **Notification filters** ase no, wobetumi apaw nnipa ne apps a wɔbɛtumi aba so. Nhyehyɛ no yɛ adi sɛ device no a ɛyɛ mu no.
+**Android.** Twa screen no soro fi soro, na tɔ **Do Not Disturb**, anaa kɔ **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Wɔ **Notification filters** ase no, wobetumi apaw nnipa ne app a wɔbɛtumi asoma wo bere a wɔreyɛ adwuma. Nhyehyɛe no sesa ntam device abenfoɔ ntam.
 
-## Ɛdeɛn na memfa home screen a ɛyɛ mmerɛ ahyehyɛ?
+## Ɛdeɛn na mɛyɛ de home screen a ɛyɛ mfiase?
 
-Ma app a wɔn a wɔhu no dɔ ntena screen baako so, na yi nea aka no fi ananmu. Biribi nni hɔ a wɔbɛyɛ ka ho a ɛyɛ ade koro; ɛfa ahyɛ nneɛma a ɛmfa nni hɔ ho.
+Fa app kakraa a wɔn ho wɔ a wɔn ho ayɛ wo dɔ wɔ screen baako so, na fa app a aka no kɔ baabi a wɔnhwɛ. Ɛnyɛ nhyehyɛe baako a wɔde yɛ; ɛfa nneɛma a ɛnhia yiyi fi hɔ.
 
-- **Paw app abiɛsa kɔsi nsia.** Ɛtɔ da, mfonini, nnwom, video frɛ app ne ɔkwan baako bi.
-- **Fa wɔn kɔ screen a ɛdi kan no so,** wɔ beaeɛ koro nso so bere nyinaa, na fa nneɛma foforɔ kɔ screen a ɛto so mmienu anaa folder mu.
-- **Fa wallpaper a ɛyɛ pii a ɛdi kan, a ne tɔ yɛ pɛpɛɛpɛ,** te sɛ ɔkɔla baako anaa mfonini baako a ɔhu no dɔ, ma ikon no ada so.
-- **Yi apps a wonhia no.** Apps a ɛyɛ ɛdɔ bɛma ɔhaw ne data a wɔboa no yɛ kakra.
-- **Susuw Assistive Access** wɔ Apple device so sɛ wopɛ sɛ device no nnyi adwuma yi ama wo.
+- **Paw app abiɛsa kosi mmienu.** Sɛdeɛ nhwɛso: mfonini, nnwom, video frɛ app ne ɔkyɛ game baako.
+- **Fa wɔn wɔ screen a ɛkan no so,** wɔ baabi koro nso, na de ebinom a aka no kɔ screen a ɛtɔ so mmienu anaa folder mu.
+- **Fa wallpaper a ɛyɛ mfiase, a ɛyɛ nhoma kɛse,** te sɛ ɔhɔho baako anaa mfonini a wɔn ho wɔ wo ho, na ticon no bɛda so.
+- **Yi app a wohia no fi hɔ.** App kakraa ma ɛnyɛ mmerɛ sɛ ɔbɛhaw anaa ɛbɛhwehwɛ nsɛm a ɛnsɛ sɛ wɔhwehwɛ.
+- **Hwehwɛ Assistive Access** sɛ device no yɛ Apple device a, ɛbɛma device no ayɛ saa adwuma no ama wo.
 
-## Ɛdeɛn ne volume ne nne?
+## Nea ɛfa volume ne nne ho?
 
-Hyehyɛ volume a ɛyɛ mmerɛ ansa na wobɛma obi no device no. Wɔ Guided Access mu no, wobetumi agyae volume bɔtɔn no, ama ɛnsesa bere a wɔreyɛ adwuma no mu. Hwɛ sɛ hearing aids wɔ wɔn beaeɛ yiyi na ɛreyɛ adwuma.
+Hyehyɛ volume a ɛyɛ yie ansa na wode device no bɛma no. Sɛ wode Guided Access di dwuma a, wobetumi de volume botaa no atwe fi hɔ ma ɛrensesa wɔ bere a wɔreyɛ adwuma. Hwɛ sɛ nne mu boa (hearing aids) wɔ hɔ na ɛyɛ adwuma.
 
-## Ɛhe na tablet no sɛ ɛtena?
+## Ɛhe na tablet no kɔ?
 
-Fa stand ne baabi a wɔbɛkyerɛ no daa daa.
+Ma ɔstand ne baabi a ɛgyina kosi daa ma nkɔsoɔ.
 
-- **Stand anaa case** a ɛma tablet no tena ankɔnkɔn wɔ ɔpon no so, sɛdeɛ obi biara remfa nsa nnkura so, na ɛyɛ mmerɛ sɛ wɔbɛtumi asan awie.
-- **Baabi koro a wɔbɛkyerɛ no,** ɛfiri ɛyɛ charging stand wɔ ɔpon a wɔde di dwuma da biara ase. Ɛno ara na tablet no bɛyɛ ma ɛnyɛ ma ɛbɛgyina baabi koro so.
-- **Tew nsɛɛ.** Fa screen no fi hann a ɛyɛ mmɔ so.
+- **Stand anaa case** a ɛma tablet no gyina atifi wɔ ɔpon so, na obiara nhyɛ no mu. Ɛmma ɛyɛ mmerɛ sɛ wɔbɛtumi ayɛ nhyehyɛe.
+- **Baabi baako a wɔde bɛhyɛ fɔtɔ,** a ɛnsakra, ɛyɛ mfiase sɛ ɛyɛ stand a wɔde gyina ɔpon so wɔ dan a wɔde di dwuma da biara mu. Saa ara na tablet no bɛkɔ fɔtɔ daa, na wɔbɛhunu baabi a ɛwɔ hɔ daa.
+- **Tew hann a ɛpɔ anim.** Fa screen no kɔ fi ɔpɔn bɔnsaee a ɛyɛ hyerɛn ho.
 
-## Bere bɛn na ɛyɛ mmerɛ sɛ wɔde screen di dwuma?
+## Bere bɛn na screen bere a ɛyɛ?
 
-Biribi nni hɔ a wɔde ahyɛ mu. Hwehwɛ nkakrankakra mmere a wobɛyɛ bom, ɛfa so yɛ da no mu bi, a ɛka nneyɛeɛ, nnwom, adwuma fie, nkɔmmɔ ne bere a wɔde ɔpon ka ho. Esiane sɛ anadwo a ɛyɛ den wɔ nkɔsoɔ a ɛba mu nso ka ho no, susuw sɛ wobɛde screen nneyɛeɛ bɛkɔ da no ase. Hwɛ [nneyɛeɛ a ɛyɛ mmerɛ anadwo](/caregiving/late-day-restlessness/).
+Nsonsonoe biara nni hɔ ma minute. Pɛ sɛ wode screen bere tiaa bere tiaa, a wɔka ho nnwuma a ɛyɛ anigye, nnwom, adwuma a wɔyɛ afie, asɛm kasa ne bere a wɔde di aframa mu, na ɛyɛ dwumadie a ɛma da no yɛ ma. Efisɛ anadwo a ɛyɛ ahohia betumi ama abufuo a ɛba anadwo nso, hwɛ sɛ wɔde screen nnwuma kɔ anɔpa anaa anwummere ase. Hwɛ [nnwuma a ɛyɛ mmerɛ anwummere](/caregiving/late-day-restlessness/).
 
-Sɛ wode tablet no bɛyɛ adwuma bom, na ɛnyɛ sɛ wɔde bɛbɔ obi no ho ban a, ɛbɛma ɛyɛ nkɔmmɔ. Yɛn [nkyerɛwde a ɛfa nneyɛeɛ a wɔyɛ bom ho](/caregiving/how-to-play-together/) kyerɛkyerɛ akwan.
+Sɛ wode tablet di dwuma ka ho, ɛnyɛ sɛ ɛyɛ akwantuo, na ɛbɛma ɛyɛ asɛm kasa. Yɛn [nkyerɛkyerɛ wɔ game a wɔbɛyɛ ka ho](/caregiving/how-to-play-together/) kyerɛ sɛdeɛ wobɛyɛ.
 
-## Ɛdeɛn na memfa obi no ho ban wɔ device no so?
+## Ɛdeɛn na mɛyɛ de ban wɔn ho nsɛm wɔ device no so?
 
-Tew nsɛm a apps bɛtumi aboa ho, na nhwɛ sɛ ɔhyiadeɛ mmara a ɛfa ahoyeɛ ho nni ho biribi wɔ ho. Amerika Health and Human Services (HHS) [kyerɛ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) sɛ HIPAA mmara a ɛwɔ Amerika (ɛnyɛ ɔman yi mmara) remfa ahoyeɛ nsɛm a wɔkora wɔ fon anaa tablet a ɛyɛ obi ankasa so nni ho ban koraa. Wɔ mmere pii mu no, HIPAA nso nni ho ban ma nsɛm a wɔde to apps mu de di dwuma ankasa, mfa ho sɛ app no fi ɔbuadeɛ a ɔhwɛ yare anaa ɔbɔ ho ban, anaa wɔn a wɔyɛ adwuma wɔ wɔn ho no.
+Ma app nni hɔ a wɔtumi de nsɛm ahyiaeɛ, na nnye nni sɛ ɔhyehyɛ ho mmara nkyerɛ ho nsɛm. U.S. Department of Health and Human Services (HHS) [kyerɛ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) sɛ HIPAA Rules nnyɛ den sɛ ɛbɛbɔ ayaresa nsɛm a wɔkora wɔ fon anaa tablet a ɛyɛ ho nkutoo ho. Wɔ mmere pii mu no, HIPAA nso nnyɛ den sɛ ɛbɛbɔ nsɛm a wɔde ka app a wɔde di ankasa dwuma ho, gye sɛ app no firi ayaresabea, ɔdwumadie a ɛboa ayaresa anaa wɔn a wɔyɛ adwuma ho.
 
 HHS ka sɛ:
 
-- montumi nnyɛ apps a ɛnhia anaa a wɔde ano ankasa, titiriw nso "free" apps;
-- montumi nnma apps tumi a wobɛhwehwɛ beaeɛ wɔ hɔ sɛ ɛnhia, te sɛ mapa.
+- monkaa app a ɛnhia anaa a wɔn ho nni dwuma, ɛkyɛn wɔn a ɛyɛ "free" no;
+- mma app no nkwan a ɛfa baabi a wɔwɔ ho, sɛ ɛnhia sɛ ɛhwɛ kwan, te sɛ maps.
 
-Susuw nso:
+Saa nso na ɛho hia:
 
-- **Fa passcode** ma device no, na kyerɛw ne baabi a ɛyɛ mmerɛ.
-- **Hwehwɛ tumi** a ɛfa mfonini, kamera, microphone, nkyerɛwde ne beaeɛ ho, na gyae nea app no nhia.
-- **Hwehwɛ nea app no boaboa** ansa na wode bɛgyina. Yɛn [nkyerɛwde a ɛfa apps ne games a wɔyɛ ma dementia ho](/caregiving/choosing-apps-and-games/) wɔ ahyɛde a ɛfa ahoyeɛ ho.
-- **Hwɛ yie wɔ mfonini a ɛfa abusua ho.** Ma mfonini a obi no ani gye sɛ wɔde kɔ so nko na wɔde bɛkɔ so. Hu baabi a app no bɛkora mfonini no. Wɔ [Photo Pairs](/games/photo-pairs/) mu no, mfonini a wopaw no gyina wo browser mu.
-- **Gyae in-app purchases** anaa yi payment nsɛm a ɛwɔ accounts a obi no de di dwuma no mu.
+- **Fa passcode di dwuma** wɔ device no so, na kora baabi a ɛyɛ mfiase so nkyerɛwde a ɛkyerɛ passcode no.
+- **Hwɛ app a wɔde ahyɛ ase no permissions** ho: mfonini, camera, microphone, contacts ne location, na twe nea app no nhia fi hɔ.
+- **Hwɛ nea app no bɛboa ma wɔaboa ansa na wɔde ahyɛ ase.** Yɛn [nkyerɛkyerɛ wɔ sɛdeɛ wobɛpaw dementia apps ne games](/caregiving/choosing-apps-and-games/) wɔ privacy nhwɛso.
+- **Hwɛ yie wɔ abusua mfonini ho.** Ma wɔnkyerɛ mfonini a ɔbɛpɛ sɛ wɔkyerɛ, na hu baabi a app no bɛkora wɔn. Wɔ [Photo Pairs](/games/photo-pairs/) mu no, mfonini a wopaw no tena wo browser mu.
+- **Twe in-app purchases fi hɔ** anaa yi payment nsɛm a ɛwɔ accounts a obi no de di dwuma no mu.

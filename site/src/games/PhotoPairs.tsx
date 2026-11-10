@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import type { PlayProps, PlayUi } from '../i18n/play';
 import { boldRuns, fill, plural } from '../i18n/play/format';
-import { movePhotoIndex } from '../lib/games/photo-viewer';
+import { hasPhotoNavigation, initialPhotoMode, movePhotoIndex } from '../lib/games/photo-viewer';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
 import { PairsBoard } from './shared/PairsBoard';
@@ -47,18 +47,23 @@ export default function PhotoPairs(props: PlayProps) {
     const images = Array.from(files).filter((f) => f.type.startsWith('image/') && f.size <= MAX_BYTES);
     const skipped = files.length - images.length;
     const picked = images.slice(0, MAX_PHOTOS);
+    const mode = initialPhotoMode(picked.length);
     // Clear the input so choosing the same files again still fires a change.
     resetInput();
-    if (picked.length < 2) {
-      setNote([ui.photoPairs.atLeastTwo, pickNote(ui, lang, skipped, 0)].filter(Boolean).join(' '));
+    if (mode === 'empty') {
+      setNote([ui.photoPairs.atLeastOne, pickNote(ui, lang, skipped, 0)].filter(Boolean).join(' '));
       return;
     }
-    setNote(pickNote(ui, lang, skipped, images.length - picked.length));
+    setNote(
+      [mode === 'look' ? ui.photoPairs.atLeastTwo : '', pickNote(ui, lang, skipped, images.length - picked.length)]
+        .filter(Boolean)
+        .join(' '),
+    );
     setUrls(picked.map((f) => URL.createObjectURL(f)));
     setCaptions(picked.map(() => ''));
-    setLookOnly(false);
+    setLookOnly(mode === 'look');
     setPhotoIndex(0);
-    setMessage('');
+    setMessage(mode === 'look' ? fill(ui.photoPairs.photoPosition, { n: 1, total: 1 }) : '');
     setDone(false);
     setRound((r) => r + 1);
   };
@@ -108,7 +113,7 @@ export default function PhotoPairs(props: PlayProps) {
             {boldRuns(ui.photoPairs.intro).map((run, i) => (run.bold ? <strong key={i}>{run.text}</strong> : run.text))}
           </p>
           <p className="m-0">{ui.photoPairs.photoComfort}</p>
-          <label className={hasPhotos ? 'btn' : 'btn btn--primary'}>
+          <label className={hasPhotoNavigation(urls.length) ? 'btn' : 'btn btn--primary'}>
             <Icon name="photo" />
             {hasPhotos ? ui.photoPairs.chooseDifferent : ui.photoPairs.choose}
             <input ref={input} type="file" accept="image/*" multiple onChange={(e) => choose(e.currentTarget.files)} />
@@ -144,7 +149,7 @@ export default function PhotoPairs(props: PlayProps) {
               </div>
             </details>
           ) : null}
-          {hasPhotos ? (
+          {hasPhotoNavigation(urls.length) ? (
             <label className="chip photo-pick__look-toggle">
               <input
                 type="checkbox"
@@ -195,34 +200,36 @@ export default function PhotoPairs(props: PlayProps) {
               alt={currentCaption ? '' : fill(ui.tile.photoNumber, { n: photoIndex + 1 })}
             />
             {currentCaption ? <figcaption aria-live="polite" aria-atomic="true">{currentCaption}</figcaption> : null}
-            <div className="btn-row">
-              <button
-                type="button"
-                className="btn"
-                onClick={() => {
-                  sounds.tap();
-                  const index = movePhotoIndex(photoIndex, urls.length, -1);
-                  setPhotoIndex(index);
-                  setMessage(fill(ui.photoPairs.photoPosition, { n: index + 1, total: urls.length }));
-                }}
-              >
-                <Icon name="back" />
-                {ui.photoPairs.previousPhoto}
-              </button>
-              <button
-                type="button"
-                className="btn btn--primary"
-                onClick={() => {
-                  sounds.tap();
-                  const index = movePhotoIndex(photoIndex, urls.length, 1);
-                  setPhotoIndex(index);
-                  setMessage(fill(ui.photoPairs.photoPosition, { n: index + 1, total: urls.length }));
-                }}
-              >
-                {ui.photoPairs.nextPhoto}
-                <Icon name="arrow" />
-              </button>
-            </div>
+            {hasPhotoNavigation(urls.length) ? (
+              <div className="btn-row">
+                <button
+                  type="button"
+                  className="btn"
+                  onClick={() => {
+                    sounds.tap();
+                    const index = movePhotoIndex(photoIndex, urls.length, -1);
+                    setPhotoIndex(index);
+                    setMessage(fill(ui.photoPairs.photoPosition, { n: index + 1, total: urls.length }));
+                  }}
+                >
+                  <Icon name="back" />
+                  {ui.photoPairs.previousPhoto}
+                </button>
+                <button
+                  type="button"
+                  className="btn btn--primary"
+                  onClick={() => {
+                    sounds.tap();
+                    const index = movePhotoIndex(photoIndex, urls.length, 1);
+                    setPhotoIndex(index);
+                    setMessage(fill(ui.photoPairs.photoPosition, { n: index + 1, total: urls.length }));
+                  }}
+                >
+                  {ui.photoPairs.nextPhoto}
+                  <Icon name="arrow" />
+                </button>
+              </div>
+            ) : null}
           </figure>
         ) : (
           <PairsBoard

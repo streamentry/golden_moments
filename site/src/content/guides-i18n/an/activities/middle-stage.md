@@ -1,33 +1,32 @@
 ---
-title: "Actividatz pa la demencia en fase mesana"
-seoTitle: "Actividatz pa la demencia en fase mesana: ideyas simplas"
-description: "Actividatz simplas pa la demencia en fase mesana: trabayos útils, musica, fotos y chuegos fáciles, con pasos ta preparar-las y ideyas ta la inquietut."
+title: "Actividatz pa la demencia en fase media"
+seoTitle: "Actividatz pa la demencia en fase media: ideas simplas"
+description: "Actividatz simplas pa la demencia en fase media: tareas útiles, música, fotos y chuegos fáciles, con pasos de preparación y maneras de convertir la inquietut en algo que facer."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  En a fase mesana de la demencia, las mellors actividatz son curtas, familiars
-  y partidas en pasos sinchos: doblar a ropa, parear calcetins, fregar los
-  platos, cantar, paseos guiatos, albumes de fotos y chuegos sinchos con
-  imachens. Prepare las cosas, amostre o primer paso, faga vusté las partes
-  difízils y dé-le un sentido a la actividat. Pare cuando deje d'estar
-  agradable.
+  En a fase media de la demencia, as mellors actividatz son curtas, de toda la vida
+  y partidas en pasos sinchos: doblar a roba, emparellar calzetas, fregar los platos,
+  cantar, pasiatas guiadas, álbumes de fotos y chuegos simplos con imachens. Prepare
+  las cosas, amostre o primer pas, faiga vusté la parte más difícil y dé a la actividat
+  una finalidat. Pare cuan deixe de ser agradable.
 keyPoints:
-  - "Los trabayos domésticos de toda la vida suelen funcionar mellor perque se sienten útils y de persona adulta."
-  - "Amostre en cuenta de explicar, ofrezca un paso cada vez y dé dos opcions simplas en cuenta de preguntas abiertas."
-  - "Faga vusté la parte más difícil ta que la persona pueda fer la parte que da satisfaczión."
-  - "La inquietut a vegadas significa que la persona necesita algo que fer. Ofrezca una actividat que encaixe en vez de dezir que no."
-  - "Mirar, ayudar un poquet o parar antes son todo bien."
+  - "As tareas de casa de toda la vida sovén funcionan mellor porque se sienten útiles y de persona adulta."
+  - "Amostre en vez de dir, ofrezca un pas cada vegada y dé dos opciones simplas en vez de preguntas abiertas."
+  - "Faiga vusté la parte más difícil pa que la persona pueda faer la parte que da satisfaczión."
+  - "A inquietut sovén significa que la persona necesita alguna cosa que faer. Ofrezca una actividat que encaixe en vez de dezir que no."
+  - "Mirar, ayudar un poquet o parar a tiempo son totas cosas bien."
 faq:
-  - q: "Qué actividatz son buenas pa la demencia en fase mesana?"
-    a: "Las actividatz curtas, familiars y con as mans suelen funcionar mellor: doblar toballas, parear calcetins, fregar los platos, poner la mesa, cantar as canzones de toda la vida, paseos guiatos, mirar albumes de fotos y chuegos sinchos con imachens. Parta cada una en pasos sinchos y fagan-la chuntos."
-  - q: "Cómo fago ta que una persona con demencia empiece una actividat?"
-    a: "Tienga todo preparau y empiece vusté la actividat y convide-la a ayudar: \"¿Me podría ayudar con estas toballas?\" Muchas personas quiren participar pero les cuesta empezar. Amostrar o primer paso funciona mellor que explicar-lo."
-  - q: "Qué fago cuando fa la misma cosa una y atra vegada?"
-    a: "A repetición a vegadas no fa mal y puede ser una sinyal de que la persona quiere sentir-se ocupada o necesita tranquilidat. En cuenta de corrichir, ofrezca una actividat que encaixe con el movimiento, como una cesta de manetas pa doblar o una canzón pa cantar chuntos."
-  - q: "Qué pasa si fa mal la actividat?"
-    a: "Si no fa mal, déxe-lo estar. Las toballas doblatas d'otra manera o las culleres en un puesto diferent no importan. Corrichir pot sentir-se como una critica, en cambio, fer-lo a la suya les fa sentir capaces y útils."
+  - q: "Qué actividatz son buenas pa la demencia en fase media?"
+    a: "As actividatz curtas, de toda la vida y con as mans suelen funcionar mellor: doblar toballas, emparellar calzetas, fregar los platos, poner a mesa, cantar canzones de siempre, pasiatas guiadas, mirar álbumes de fotos y chuegos simplos con imachens. Partix cada una en pasos sinchos y faigala chunto."
+  - q: "Cómo faigo que una persona con demencia empiece una actividat?"
+    a: "Tienga todo listo, empiece vusté la actividat y convide-la a ayudar: «¿Me podría echar una mano con estas toballas?». Muitas personas quieren participar pero les cuesta empecipar. Amostrar o primer pas funciona mellor que explicar-lo."
+  - q: "Qué faigo cuan repiten una cosa una y atra vegada?"
+    a: "A repetición sovén no fa mal y puede ser una sinyal de que la persona quiere sentir-se ocupada o necesita tranquilidat. En vez de corregir-la, ofrezca una actividat que encaixe con o movimiento, como un cesto de pañuelos pa doblar o una canzón pa cantar chunto."
+  - q: "Qué pasa si fan la actividat mal?"
+    a: "Si no fa mal, deixe-lo estar. Las toballas dobladas de otra manera o las cucharas en o puesto que no toca no importan. Corregir puede sentir-se como una crítica, mientres que faiga-lo a a suya manera les deixa sentir-se capaces y útiles."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -49,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-A fase mesana de la demencia sol ser la más larga, y ye cuando las actividatz comencen a necesitar un apoyo de verdat. As parolas vienen más malament, los pasos se barrexan y empezar cualsequiera cosa pot sentir-se difízil. Pero las ganas de ser útil y de participar normalment se mantienen. Con una mica de preparación, una persona en a fase mesana puede disfrutar encara de bella cosa, sobre todo trabayos de toda la vida, musica y imachens feitos a la par de vusté.
+A fase media d'a demencia ye a sobén a más larga, y ye cuan as actividatz empiezan a necesitar aduya de verdá. As parolas bienen menos facilment, os pasos se barallan y empecipar cualsiquier cosa pue sentir-se difícil. Pero as ganas de sentir-se útil y de participar cheneralment quedan. Con una mica de preparación, una persona en fase media puede disfrutar bella cosa, sobre todo de los trabajos de casa de toda la vida, de a musica y de as fotos, feitas chunto a vusté.
 
-## Qué actividatz funcionan bien en a demencia en fase mesana?
+## Qué actividatz funcionan bien en a demencia en fase media?
 
-Las actividatz curtas, familiars y con as mans, partidas en pasos sinchos, son las que mellor funcionan. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) dize que no fa falta inventar cosas nuevas: las actividatz pueden ser parte d'a vida de cada día, como fer a cena chuntos, fer chardín, escuchar musica o salir a caminar.
+Las actividatz curtas, de toda la vida y con as mans, partidas en pasos sinchos, son as que mellor funcionan. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) dice que no fa falta inventar cosas nuevas: as actividatz pueden formar parte d'a vida de cada día, como fer a sopa chunto, cuidar un ortico, escuitar musica o salir a caminar.
 
-A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) menciona que las personas en esta fase tienen a menudo una fuerte necesidat de sentir que sirven pa alguna cosa o de cuidar de algo, y necesitan ayuda pa empezar o seguir las actividatz. Su lista pa la fase mesana incluye doblar a ropa, fregar los platos, parear calcetins, ejercicio fácil, bailar con musica de toda la vida, paseos guiatos, cantar chuntos, pintar con sencillez y mirar albumes de fotos.
+A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) indica que as personas en esta fase sovén tienen una gran necesidat de sentir que tienen una finalidat o de cuidar de alguna cosa, y que necesitan aduya pa empecipar o seguir con as actividatz. A suya lista pa la fase media incluye doblar a roba, fregar los platos, emparellar calzetas, ejercicio fácil, bailar con musica de siempre, pasiatas guiadas, cantar canzones chunto, pintar simple y mirar álbumes de fotos.
 
 ## Cómo prepara una actividat pa que funcione?
 
-La mayoría de las actividatz salen bien o mal en a preparación. Estos hábitos, sacatos de [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) y de [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), marcan la mayor diferencia:
+La mayoría de las actividatz salen bien o mal según cómo se preparan. Estos hábitos, tomatos de la [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) y de la [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), marcan a mayor diferencia:
 
-1. **Aclare o espacio.** Apague la tele, zarre la puerta y ponga solo lo que la actividat necesite.
-2. **Empiece vusté.** Comience a doblar o a remenar y convide-la a sumar-se: "¿Me podría ayudar con esto?"
-3. **Amostre y espere.** Faga un paso con calma. Sinyale o guíe con a mano, por eixemplo amostrando onde va o plato.
-4. **Dé un paso cada vez.** "Dobla-lo por a mitat" es más fácil que "dobla estos y apila-los por colors".
-5. **Ofrezca dos opcions, no preguntas abiertas.** "¿Las toballas azules o las blancas?" es más fácil de responder que "¿Qué quiere fer?"
-6. **Faga vusté la parte difícil.** Vusté mide, ella remena. Vusté enfila la aguya, ella enrolla a lana.
-7. **Dé-le una razón.** "Estas servilletas son pa a cena de o domenche" fa que o trabayo parezca de verdat.
-8. **Déxe-la mirar si lo prefiere.** A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nota que mirar tamién puede ser agradable.
+1. **Despeje o espacio.** Apague a tele, zierre a puerta y saque sólo lo que la actividat necesita.
+2. **Empiece vusté.** Comience a doblar o a remover y convide-la a unir-se: «¿Me podría ayudar con esto?».
+3. **Amostre y espere.** Faiga una cosa de cada vegada. Señale o guíe con a mano, por ejemplo amostrando dónde va o plato.
+4. **Dé un pas cada vegada.** «Dóblala por la mitat» ye más fácil que «doble estas y apílalas por colors».
+5. **Ofrezca dos opciones, no preguntas abiertas.** «¿Las toballas azules o las blancas?» ye más fácil de responder que «¿Qué quiere faer?».
+6. **Faiga vusté la parte difícil.** Vusté mide, ella remueve. Vusté enfila a aguja, ella enrolla a lana.
+7. **Dé-le una razón.** «Estas servilletas son pa a comida de domingo» fa que o trabajo parezca de verdá.
+8. **Deixe-la mirar si lo prefiere.** A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) indica que mirar tamién puede ser agradable.
 
-## Ideyas de actividatz pa la fase mesana
+## Ideas de actividatz pa la fase media
 
-### Trabayos útils
+### Trabajos útiles
 
-- **Doblar toballas y manetas.** As cosas planas y chicas son las más fáciles. Una cesta de manetas calentas pot doblar-se, alisar-se y volver a doblar-se.
-- **Parear calcetins.** Empiece con unos pares muy diferentes. Ordenar por color solo tamién vale.
-- **Fregar o secar platos que no se trenquen.** L'augua calienta con chabón es agradable pa las mans. Secar sentada es más fácil pas camas.
-- **Poner a mesa.** Dé un tipo de cosa cada vez, y ponga vusté un puesto de modelo.
-- **Ayudar en a cena.** Lavar patatas, desfullar lechuga o remenar un bol. Vusté se ocupa de os cuchiellos y del fuego.
-- **Barrer, pulir o limpiar.** Un trapo pa a mesa, una escoba lebiana pa o porche.
+- **Doblar toballas y pañuelos.** As cosas planas y pequeñas son las más fáciles. Un cesto de pañuelos calientes puede doblar-se, alisar-se y volver a doblar-se.
+- **Emparellar calzetas.** Empiece con unas poquetas de parellas muy distintas. Ordenar sólo por color también vale.
+- **Lavar o secar platos que no se rompan.** L'augua calient con chabón ye agradable pa las mans. Secar sentada ye más fácil pa las piernas.
+- **Poner a mesa.** Dé un tipo de cosa cada vegada y ponga vusté un puesto como modelo.
+- **Ayudar a fer a cena.** Lavar patatas, desfullar una lechuga o remover un plato. Vusté maneja os cuchiellos y o fuego.
+- **Barrer, quitar o limpiar.** Un trapo pa a mesa, una escoba lebiana pa o porche.
 
-Mire [trabayos de a casa](/activities/household-tasks/) pa muchos más.
+Mire [trabajos de casa](/activities/household-tasks/) pa muitas más ideas.
 
 ### Musica y movimiento
 
-- **Cantar as canzones de toda la vida.** Comience cantando vusté; muchas personas se sumen en canzones que conoixen de hace decenios. Mire [actividatz de musica](/activities/music/).
-- **Bailar sin presión.** Balancear-se, aplaudir o moverse como guste. Sentada tamién vale.
-- **Lanzar un globo.** Se mueve despacio y es fácil de atrapar desde una cadiera.
-- **Faga un paseo guiato.** Caminen un bucle curto y familiar chuntos, de bracete si ayuda.
+- **Cantar canzones de siempre.** Empiece cantando vusté; muitas personas se unen a canzones que conocen de hace decenios. Mire [actividatz con musica](/activities/music/).
+- **Bailar libremente.** Balancear-se, aplaudir o moverse como guste. Sentada tamién ye bien.
+- **Pasar un globo.** Se mueve despacio y ye fácil de collir desde una silla.
+- **Faer una pasiata guiada.** Caminen un treito curto y conocido chunto, braceando si ayuda.
 
 ### Imachens e historias
 
-- **Mirar un album de fotos.** Comente lo que ve en cuenta de fer preguntas: "Mire ixe coche. Cuénteme d'él." Mire [actividatz de remembranza](/activities/reminiscence/).
-- **Usar cartas de conversación.** [Cartas de conversación](/games/conversation-cards/) acopla una imachen con una pregunta abierta, sin examen.
-- **Veyer una pelicula vieja chuntos.** Triga una de tota la vida, quédese cerca y pare pa descansar.
+- **Mirar un álbum de fotos.** Coment-e lo que ve en vez de facer preguntas: «Mire aquel coche. Cuénteme de él». Mire [actividatz de recuerdos](/activities/reminiscence/).
+- **Usar cartas de conversación.** [Cartas de conversación](/games/conversation-cards/) unen una imachen con una pregunta abierta, sin examen.
+- **Ver una película antiga chunto.** Escoja una conocida, quédese cerca y para pa descansar.
 
-### Chuegos sinchos, sin presión
+### Chuegos simplos, sin presión
 
-- **Parejas de imachens con as imachens a la vista.** [Parejas de imachens](/games/picture-pairs/) deixa as imachens visibles, así que se trata de fixar-se, no de recordar.
-- **Trobar lo mismo.** [Trobar lo mismo](/games/find-the-same/) amuestra una imachen y solo dos a cuatro opcions.
-- **Ordenar chuntos.** [Ordenar chuntos](/games/sort-together/) es como ordenar a ropa en a pantalla: toque una imachen y luego a cesta que le corresponda.
+- **Parellas de imachens con as imachens a la vista.** [Parellas de imachens](/games/picture-pairs/) deixa las imachens visibles, asinas se trata de fixar-se, no de recordar.
+- **Trobar la igual.** [Trobar la igual](/games/find-the-same/) amuestra una imachen y sólo dos a cuatro opciones.
+- **Ordenar chunto.** [Ordenar chunto](/games/sort-together/) ye como ordenar a roba en pantalla: toque una imachen y luego a cesta que le toca.
 - **Bingo de imachens.** [Bingo de imachens](/games/picture-bingo/) funciona bien en reunions familiars y en grupos.
 
-Si un chuego empieza a causar frustración, pare y faga otra cosa. Mire [cómo chugar chuntos](/caregiving/how-to-play-together/).
+Si un chuego empieza a causar frustración, pare y faga otra cosa. Mire [cómo jugar chunto](/caregiving/how-to-play-together/).
 
 ## Convertir la inquietut en una actividat
 
-A inquietut o los comportamientos repetitivos a vegadas tienen una razón. A Family Caregiver Alliance sinyala que una persona que vuelve a vaciar un armario puede estar intentando satisfacer una necesidat de sentir-se ocupada y útil. A Alzheimer's Association suggerix encauzar esa enerchía en una actividat que encaixe, en cuenta de frenarla.
+A inquietut o as conductas repetitivas sovén tienen una razón. A Family Caregiver Alliance indica que una persona que vacía un armario una y atra vegada puede estar intentando satisfacer una necesidat de sentir-se ocupada y productiva. A Alzheimer's Association sugiere encauzar esa enerchía a una actividat que encaixe, en vez de parar-la.
 
-| Qué ve | Qué ofrecer |
+| Lo que ve | Qué ofrecer |
 | --- | --- |
-| Frotar o rascar una mesa | Un trapo mollau y pedir-le que limpie a mesa |
-| Piés inquietos o dar golpes | Musica con un ritmo claro pa seguir con os pies o aplaudir |
-| Vaciar cajons o armarios | Una cesta de ropa o manetas pa doblar y ordenar |
-| Preguntar lo mismo otra vegada | Tranquilidat, y luego una canzón o un trabayo pa compartir |
-| Caminar de un lado a otro | Un paseo chuntos, o un trabayo con cosas pa portar |
-| Desazón a última hora de a tarde | Una tarea tranquila y familiar con buena luz; mire [inquietut a última hora de o día](/caregiving/late-day-restlessness/) |
+| Frotar o rascar una mesa | Un trapo húmedo y pedir-le que limpie a mesa |
+| Pies inquietos o golpeteo | Musica con un ritmo claro pa seguir con os pies o aplaudir |
+| Vaciar cajones o armarios | Un cesto de roba o pañuelos pa doblar y ordenar |
+| Preguntar lo mesmo otra vegada | Tranquilidat, y luego una canzón o una faena pa compartir |
+| Caminar de un lau a otro | Una pasiata chunto, o una faena que implique llevar cosas |
+| Malestar a la tardada | Una faena tranquila y conocida con buena luz; mire [inquietut en a tardada](/caregiving/late-day-restlessness/) |
 
 ## Cuándo parar o cambiar de rumbo
 
-Pare cuando vea sinyales de cansancio, frustración, vergüenza o aburrimiento, como moverse nerviosa, fruncir o cara, apartar cosas o decir "no puedo". A Alzheimer's Association suggerix intentar-lo otra vegada a otra hora del día o fer la actividat más simple. No la fuerce. Un rechazo puede venir de la miedo o de que o trabayo sea muy difícil; mire [cuando dicen que no](/caregiving/when-they-say-no/).
+Pare cuan vea sinyales de cansancio, frustración, vergüenza o aburrimiento, como moverse nerviosa, fruncir o cara, apartar cosas o decir «no puedo». A Alzheimer's Association sugiere intentar-lo otra vegada a una hora distinta del día o facer a actividat más simple. No la fuerce. Una negativa puede venir de la paura o de que la tarea sea demasiado difícil; mire [cuan dicen que no](/caregiving/when-they-say-no/).
 
-Acabar pronto está bien. Tamién lo está simplement sentar-se chuntos con una tazeta de té. Cuando las capacidatz cambian más, las ideyas de [actividatz pa la fase tardana](/activities/late-stage/) pueden encaixar mellor, y [101 actividatz](/activities/ideas/) tiene muchas más pa probar.
+Parar pronto ye bien. Tamién lo ye simplement sentar-se chunto con una tasa de té. Cuan las capacidatz cambien más, las ideas de [actividatz pa la fase tardana](/activities/late-stage/) pueden encaixar mellor, y [101 actividatz](/activities/ideas/) tiene muitas más pa probar.

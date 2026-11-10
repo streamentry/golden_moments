@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Passer disk' å mwaisse contnou",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Activités po les djins avou l' demince",
+    "homeLabel": "Mwaisse pådje di Golden Moments",
+    "mainNav": "Mwaisse meni",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Walon",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: grandès belès imådjes d' ene djate, d' on solea et d' on tchin",
+    "languages": "Lingaedje",
+    "englishOnly": "(Inglès)",
+    "machineTranslated": "Cisse pådje cial a stî rmetowe otomaticmint et n' a nén co stî rwaiteye pa ene djin ki cåze li lingaedje d' aplon.",
+    "readOriginal": "Lére l' oridjinå en inglès",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Djous",
+      "activities": "Activités",
+      "caregiving": "Aidî on parint",
+      "brainHealth": "Santé do cervea"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Kesses et rponses",
+    "breadcrumb": "Pazea d' naiviaedje",
+    "home": "Mwaisse pådje",
+    "lastUpdated": "Dierinne mise a djoû",
+    "topics": "Tinmes",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Grandeur do tecse",
+      "smaller": "Tecse normå",
+      "larger": "Pus grand tecse",
+      "contrast": "Pus hôt contraste"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "Djouwer",
+    "picturePairs": "Pwaires d' imådjes",
+    "conversationCards": "Cåtes po devizer",
+    "pictureBingo": "Bingo d' imådjes",
+    "allGames": "Tos les djous",
+    "pictures": "Imådjes a-z imprimer",
+    "activityIdeas": "Idêyes d' activités",
+    "ideas101": "101 idêyes d' activités",
+    "lateStage": "Activités pol dierinne estape",
+    "printable": "Activités a-z imprimer",
+    "allActivities": "Totes les activités",
+    "forCaregivers": "Po les aidants",
+    "playTogether": "Kimint djouwer eshonne",
+    "selfCare": "Prende foin d' vos-minme",
+    "brainHealth": "Ricwerances sol santé do cervea",
+    "faq": "Kesses et rponses",
+    "about": "Åd fwait",
+    "approach": "Nosse manire di fé",
+    "howWeWrite": "Kimint k' nos scrijhans",
+    "organizations": "Po les organizåcions",
+    "app": "L' aplikêye Golden Moments",
+    "appHelp": "Aidance po l' aplikêye",
+    "support": "Aidance",
+    "legal": "Legå",
+    "sitePrivacy": "Privaesté do waibe-sit",
+    "appPrivacy": "Politike di privaesté di l' aplikêye",
+    "privacyChoices": "Tchuzes di privaesté",
+    "terms": "Condicions et licince di l' aplikêye",
+    "safety": "Såvrité et såle préveyowe",
+    "accessibility": "Accessibilité",
+    "healthNotice": "Avis sol santé",
+    "allLegal": "Totes les racsegnes legåles",
+    "note": "Golden Moments ahessêye des simpes activités a fé eshonne po l' plaijhi. Ci n' est nén on consî d' medcén, èn egzamin ni on traitmint, et ça n' fwait pont d' diyagnostik, d' mezeure ni d' ponts po nolu. Po des kesses sol santé, cåzez-nd avou on medcén. S' i gn a ene urdjince, houkîz l' 112.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Djous et activités po l' demince et l' Alzheimer | Golden Moments",
+    "description": "Gratwits et doûs djous d' imådjes a djouwer so les fis et idêyes d' activités po les djins ki vicnut avou l' demince ou l' Alzheimer et po leus aidants. Pont d' idintifiaedje, d' ôrlodje ni d' ponts.",
+    "eyebrow": "Gratwit · Pont d' rclames · Pont d' idintifiaedje · Pont d' ôrlodje ni d' ponts",
+    "h1": "Doûs djous et activités po les djins ki vicnut avou l' demince",
+    "lede": "Des simpes djous d' imådjes, des fotos bén cnoxhowes et des activités po passer do bon tins eshonne — a vosse ritme.",
+    "playGame": "Djouwer a on dju",
+    "findIdeas": "Trover des idêyes d' activités",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Fonctionêye so telefone, tåvlete et copiutrece",
+      "Grandès imådjes ki dmorèt veyåves",
+      "Arestez cwand vos vloz; rén a rater"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Eto ene gratwite aplikêye po iPhone, iPad et Android, avou les prôpès fotos di vosse famile",
+    "albumNote": "« Deus imådjes del djate, eshonne. »",
+    "gamesEyebrow": "Djouwer dins vosse betchteu",
+    "gamesTitle": "Des djous k' vos ploz djouwer sol moumint",
+    "gamesLede": "Tchaeke dju est påjhûle, fwait po les grandès djins et abeye a cmincî. Tchoezixhoz-nd onk, astokez-vos l' onk dilé l' ôte, et tchitchîz a tour di role.",
+    "seeAllGames": "Vey tos les {count} djous",
+    "howTitle": "Kimint çk' i va",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Tchoezi ene sacwè d' bén cnoxhou",
+        "text": "Des imådjes di djates, di cortis, d' biesses di måjhon et d' bateas a vwales. Rén a lére ni pont d' rîle a-z aprinde divant."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "S' ashir l' onk dilé l' ôte",
+        "text": "Leyîz-lzès tchitchî. Cåzez des imådjes. Si deus imådjes èn vont nén eshonne, l' ecran rawêye tot simplumint l' côp ki vént."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Arester tant k' c' est agreyåve",
+        "text": "On dju rprezinte ene activité tote fwaite. Li boton « C' est bon po asteure » est todi sol waitroûle."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Pus lon ki l' waitroûle",
+    "stageTitle": "Des idêyes d' activités po tchaeke estape",
+    "stageLede": "Muzike, ovraedjes di tos les djoûs, sovenances et påjhûls moumints d' sinteyes, adaptés a çou ki va l' mî po l' moumint.",
+    "ideas101": "101 idêyes d' activités",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Prumire estape",
+        "text": "Continouwer a fé çou k' i veyèt voltî, avou des ptitès adaptåcions: pasmints d' tins, rexhousses, djous d' mots et arindjamints eshonne.",
+        "label": "Idêyes pol prumire estape"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Mîtrinne estape",
+        "text": "Des simpes ovraedjes bén cnoxhous pårtis e ptits estapes: ployî l' lingadje, relire, muzike, djous d' imådjes et ptitès pormoennådes.",
+        "label": "Idêyes pol mîtrinne estape"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Dierinne estape",
+        "text": "Riconfôrt et loyén pal froyêye, les sons et l' veyance: soen des mwins, tchansons d' cour, fotos et esse simplumint eshonne.",
+        "label": "Idêyes pol dierinne estape"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Vos cwerîz ene sacwè d' bén preciz? Sayîz les <a href=\"/activities/alzheimers/\">activités et djous po l' Alzheimer</a>, les <a href=\"/activities/memory-games/\">doûs djous d' memwere</a>, les <a href=\"/activities/trivia/\">åjheyes kesses</a> ou les <a href=\"/activities/puzzles/\">puzles</a>.",
+    "approachEyebrow": "Nosse manire di fé",
+    "approachTitle": "Ene activité pårtaedjeye, nén èn egzamin d' memwere",
+    "approachLede": "Bén des « djous d' cervea » sont fwaits sol vitêye, les ponts et les rîlêyes. Po ene djin ki vike avou l' demince, ça pout rshonner a èn egzamin. Nos avans fwait tot l' contråve.",
+    "approachLink": "Pocwè nos l' arindjans inla",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Rén a rater",
+        "text": "Pont d' ôrlodje, di ponts, di veyes ni d' piede. Ene imådje diferinne, c' est djusse ene pôze, nén ene aroke."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Les imådjes dimorèt veyåves",
+        "text": "Reconoxhe purade ki d' s' erbathe li memwere. Les pwaires sont mostreyes d' avance, do côp i gn a rén k' i fåt rewerdi d' memwere."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Grandès djins et dignité",
+        "text": "Des doûs et simpes mots, et des vraiyès imådjes del vie. Måy di desséns d' efants ni d' lingaedje di ptit råpén."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Privaesté garanteye",
+        "text": "Pont d' conte ni d' rclame. Vos fotos èn cwitèt måy vosse machine."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Po les aidants",
+    "guidesTitle": "Pratikes guidons po tos les djoûs",
+    "allCaregiving": "Tos les guidons po les aidants",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Kimint djouwer eshonne",
+        "text": "Aprestaedje, ritme, et çou k' i fåt fé cwand on dju n' fwait pus plaijhi."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Cwand i djhèt « nonna » a ene activité",
+        "text": "Les råjhons corantes d' on rfus, et des doûs moyéns di rsayî pus tård."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Arindjî ene tåvlete",
+        "text": "Pus grand tecse, moens di distourbaedjes et ene seule simpe mwaisse waitroûle."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Gratwitès activités a-z imprimer",
+        "text": "Mots-croejhîs a grandès letes, pådjes a coleurî, bingo et cåtes po devizer."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Santé do cervea: çou k' les ricwerances djhèt vormint",
+    "researchText": "Pout-on espaitchî l' demince? Est-ce ki les djous d' cervea aidnut? Et l' djuner, li nouriteure, li doirmî et l' etindaedje? Des rponses clêyes et sourdants a l' apiye, minme la k' les prouves sont flåwes.",
+    "researchLink": "Lére les guidons d' ricwerances",
+    "appEyebrow": "Eto ene aplikêye",
+    "appTitle": "Golden Moments so iPhone, iPad et Android",
+    "appText": "L' aplikêye gratwite fonctionêye foû fizrece et pout eployî des fotos d' famile ki vos tchoezixhoz, wårdêyes come copies so vosse machine. Li minme påjhûle manire: cwate grands cwåreas, pont d' ôrlodje, pont d' ponts.",
+    "aboutApp": "Åd fwait di l' aplikêye",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Kécosse ki c' est des bons djous po les djins ki vicnut avou l' demince?",
+        "a": "Les bons djeus sont simpes, bén cnoxhous eyet sins pont d' pôssion : des grandès imådjes a mete eshonne, relire, des åjheys puzzles, fini des spotches bén cnoxhous, do coleuriaedje, do bingo d' imådjes eyet des cwåtes po cåzer. Li meyeu tchwea, c' est l' ci ki fwait plaijhi al djin ouy. Evitez les munutreyes, les ponts et tot çou k' a l' air d' èn egzamin."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Est-ç' ki ces djeus pol demance sont po rén ?",
+        "a": "Oyi. Tchaeke djeu eyet foye a imprimer so Golden Moments est po rén, sins conte a fé, sins s' eredjistrer eyet sins rén a aberweter. Les djeus rotnut dins l' betchteu waibe so on fone, ene tapete u èn ordenateur."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Est-ç' ki les djeus pol cervea espaitchnut l' demance ?",
+        "a": "I gn a pont d' djeu k' a mostré k' i pout espaitchî l' demance, eyet Golden Moments ni pretind nén sognî ni espaitchî cwè ki ç' soye. Nos djeus sont fwaits po passer on bon moumint et s' amuser eshonne. Nosse seccion sol santé do cervea vos esplike çou k' les rcwerances mostrèt et çou k' ele ni mostrèt nén."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Est-ç' ki ces djeus convnèt po ene djin k' a l' Alzheimer ?",
+        "a": "Oyi. Li må d' Alzheimer est l' cåze li pus corante del demance, eyet les djeus sont fwaits po çoula : des grandès imådjes ki dmorèt a vey, waire di tchweas, et rén a rewerter u a fé d' traviers. Mete eshonne, relire eyet fini des spotches bén cnoxhous s' apiynut so d' ancyinnès cnoxhances purade ki so d' noveas apurdissaedjes."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Est-ç' k' ene djin k' est pus avancêye dins l' demance pout fé ces activités la ?",
+        "a": "Sovint, oyi, avou ene sakî a costé d' leye. Atakez avou Trover l' parey avou deus imådjes, Pwaires d' imådjes avou cwate carreas, ene pådje a coleurî u ene påjhûle pôze po respirer. Fijhoz court, shuvoz l' djin ey arestez cwand ele n' è vout pus."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Est-ç' ki mes racsegnes dimeurnut privêyes ?",
+        "a": "Li waibe n' a pont d' conte ni pont d' reclames. Nos eployans Google Analytics po comprinde kénès pådjes sont vizitêyes. Les fotos ki vos tchoezixhoz po Pwaires di fotos ni s' mostrèt k' dins vosse betchteu et n' sont måy aberwetêyes sol daegne."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Kî çki fwait Golden Moments ?",
+        "a": "Golden Moments, c' est ene pitite ekipe ki fwait des påjhûlås activités d' imådjes po les grands, pol famile et les aidants, sol waibe eyet dizo fôme d' aplicacion po rén. Nos n' estans nén des docteurs, eyet rén d' çou k' i gn a chal n' est on consaey medicål."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "do cminçmint",
+    "middle": "do mitan",
+    "late": "avancêye",
+    "hintOne": "Convint sovint po l' estape {list}",
+    "hintMany": "Convint sovint po les estapes {list}",
+    "labelEarly": "Estape do cminçmint",
+    "labelMiddle": "Estape do mitan",
+    "labelLate": "Estape avancêye"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Åd fwait di ç' djeu ci",
+    "printable": "A imprimer",
+    "play": "Djouwer a {name} →",
+    "readGuide": "Lére li guide"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Prest po on djeu tot doûs ?",
+    "text": "Des grandès imådjes, pont d' munutreye, pont d' ponts et rén po s' eredjistrer. Djouwoz eshonne dins vosse betchteu.",
+    "play": "Djouwer a on djeu",
+    "all": "Vey tos les djeus",
+    "aria": "Djouwer a on djeu"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Emportez ces djeus avou vos",
+    "text": "L' aplicacion po rén Golden Moments po iPhone, iPad eyet Android : des grandès imådjes, des djeus avou vos prôpès fotos d' famile, et des botes d' imådjes ki rotnut sins Wi‑Fi. Pont d' conte, pont d' reclames, pont d' munutreye ni d' ponts.",
+    "appStore": "L' aveur so l' App Store",
+    "googlePlay": "L' aveur so Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Åd fwait di l' aplicacion",
+    "aria": "Aveur l' aplicacion"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Activités",
+      "title": "Activités po les djins k' ont l' demance",
+      "seo": "Activités po les djins k' ont l' demance : idêyes pa estape",
+      "description": "Des idêyes d' activités po les djins ki vicnut avou l' demance a tchaeke estape : muzike, sovenances, bouyes di tos les djoûs, moumints d' sins, bricolaedje, foû måjhon eyet foyes a imprimer po rén.",
+      "lede": "Ene bouye k' a do sins, c' est tot çou ki poite do råjhônmint, do souwaedje u on moumint d' atnançance. Atakez avou çou k' li djin a todi inmé fé, et rindoz l' åjhey po ouy."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Aidants",
+      "title": "Guides po les aidants",
+      "seo": "Guides po sogner ene djin k' a l' demance : aidance di tos les djoûs",
+      "description": "Des guides acontants et pråtikes po les cis ki sognèt ene djin k' a l' demance : djouwer eshonne, comunicacion, rfusaedjes, tracaedje di fén d' djoûnéye, tapetes, tchoezi des aplicacions eyet prinde sogne di vos-minme.",
+      "lede": "Ene aidance clére et pråtike po les moumints di tos les djoûs cwand on s' okupe d' ene djin ki vit avou l' demance, sins rovyî d' prinde sogne di vos-minme."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Santé do cervea",
+      "title": "Santé do cervea : çou k' les rcwerances djhèt",
+      "seo": "Santé do cervea et risse di demance : çou k' les rcwerances djhèt",
+      "description": "Pout-on espaitchî l' demance ? Des guides sincires et bén sourdants so les risses del demance, les djeus pol cervea, li djuner, li nourixhance, l' egzercice, li doirmaedje, l' etindance eyet les prumîs senes.",
+      "lede": "Çou k' les grandès studes mostrèt po d' bon po bouter l' risse di demance pus bas, espliké tot simplumint, minme la k' les prouves sont flåwes u maxhêyes. Racsegnes djeneråles, nén des consaels medicås."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Mins a djoû",
+    "minuteRead": "{n} munutes a lére",
+    "byTeam": "Pa l' ekipe di Golden Moments",
+    "howWeWrite": "Comint k' nos scrijhans",
+    "shortAnswer": "Li responda e court",
+    "onThisPage": "So cisse pådje ci ({n} seccions)",
+    "commonQuestions": "Kesses corantes",
+    "sources": "Sourdants",
+    "sourcesNote": "Nos metans des loyéns viè les soces et les studes so les keles cisse pådje ci s' apiye. Tchaekene a stî rwaitêye cwand l' pådje a stî meynowe a djoû.",
+    "tryTogether": "Sayîz eshonne",
+    "relatedGuides": "Ôtes guides ki vont avou",
+    "related": "Vey ossu",
+    "startHere": "Atakez chal"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Notule so les racsegnes di santé",
+    "title": "Racsegnes djeneråles, nén des consaels medicås",
+    "textHtml": "Cisse pådje cial rashonne des studes eplaideyes po les familes. Ele ni vos pout nén dire çou k' est l' meyeu po ene djin a pårt. Cåzez-nd avou on medcin divant d' candjî d' nourixhance, d' egzercice, di doirmaedje, di rimêdes u d' complimints. S' i gn a ene transe a brikbrik u d' ôtes subits candjmints, cwerexhoz d' l' aidance medicale do côp (houkîz l' 112). <a href=\"/medical-disclaimer/\">Lijhoz nosse notule so les racsegnes di santé</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Ene bouye fwaite eshonne, nén on test di memwere",
+      "seoTitle": "Åd fwait di Golden Moments : nosse manire di vey les tchôzes",
+      "description": "Pocwè ki les djeus Golden Moments n' ont pont d' munutreyes, pont d' ponts ni d' rîlêyes d' afwaire, pocwè les imådjes dimeurnut a vey, eyet çou k' nos vlan eyet n' volans nén pretinde sol demance.",
+      "crumb": "Nosse manire di fé",
+      "lede": "Golden Moments fwait des påjhûlås activités d' imådjes po les grands, k' on aidant et ene djin ki vit avou l' demance polèt fé eshonne, l' onk a costé d' l' ôte.",
+      "bodyHtml": "<h2>Çou k' nos croeyans</h2><p>Li såme d' ene activité, c' est l' moumint lu-minme : cåzer eshonne, on sorire, li plaijhi d' mete deus imådjes eshonne, oudonbén djusse esse ashîs l' onk dilé l' ôte. Ci n' est nén d' muzrer ene sakî, del poûssî pus lon u d' prouver cwè ki fouxhe.</p><p>Bråmint d' aplicåcions po « fé bouter l' cervea » sont fwaites so l' abeye, les ponts, les tchinnes et les liveas. Po ene djin ki vike avou ene demince, çoula pout rshonner a èn egzamwin k' ele ni såreut passer. Nos avans fwait tot l' contråve, et nos nos tnans a ces rreules chal :</p><ul><li><strong>Rén a rater.</strong> Pont d' ôrlodje, pont d' ponts, pont d' conteu d' mouvmints, pont d' veyes, pont d' tchinnes, pont d' confetis ni d' a rvier conteu, so nolu d' nos écrans.</li><li><strong>Ricnoxhe purade ki s' rapouster.</strong> Les imådjes dmorèt veyåves d' ofice. Les ptitès dmowes amointièt l' cåzaedje et n' fwaiynut måy d' egzamwin so des nos u des rmimbrances.</li><li><strong>Grand, simpe et d' asteme.</strong> Grands tecses et grandès imådjes, foirt contrasse, et les botons ki dmorèt tofer al minme plaece.</li><li><strong>Dinité d' grandès djins.</strong> Vraiys portraits del veye et des simpès et tchôdès paroles. Pont d' dessins d' efants, pont d' tchantaedjes po fé l' fåsse louwandje, pont d' rcompinses a môde d' emodjis.</li><li><strong>Èn åjhey mojen d' arester.</strong> « Asteure, c' est bon » est tofer veyåve. Arester a mitan, c' est ddja foirt bén.</li><li><strong>Privé d' ofice.</strong> Pont d' conte ni d' reclames. Les fotos k' vos tchoezixhoz dmorèt so voste éndjole.</li></ul><h2>Çou k' nos n' pretendans nén</h2><p>Nos djoûs sont fwaits po l' plaijhi et po s' raprotchî. I n' fijhèt pont d' diyagnostik, i n' sayèt rén, i n' muzrèt rén, i n' fjhèt pont d' médiaedje, i n' ralentixhèt nén ey i n' espaitchèt nén l' demince u l' maladeye d' Alzheimer, et nolu n' les dvoeut tchoezi po çoula. Cwand nos scrijhans so les rcwerances dins nos <a href=\"/brain-health/\">pådjes sol santé do cervea</a>, nos djhans foirt netmint cwand les preuves sont flåwes, et nos n' fijhans måy l' aloyaedje avou nos prôpes djoûs.</p><h2>Kî çk' nos estans</h2><p>Golden Moments est ene pitite ekipe indepindante. Nos n' estans nén des docteurs ni des soygnants. Nos guides sont scrîts a pårti d' consîs eplaidîs pa des organizåcions come li National Institute on Aging et l' Alzheimer’s Association, et tchaeke guide dene ses sourdants. Léjhoz <a href=\"/editorial-policy/\">comint k' nos scrijhans et verifyans nos pådjes</a>.</p><h2>Dihoz-nos çou k' vos pôreut aidî</h2><p>Nos åréns grand plaijhi a savu çou ki va bén po vos et çou ki n' va nén, aprume del pårt des djins ki vicnut avou ene demince, des aidants d' famile et do personel d' animåcion. Sicrijhoz èn emile a <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Comint k' nos scrijhans et verifyans nos pådjes",
+      "seoTitle": "Politike d' edicion",
+      "description": "Comint k' Golden Moments fwait les rcweraedjes, sicrijhaedjes, cîtant les sourdants et metant a djoûr ses pådjes d' activités pol demince et l' santé do cervea, et çou k' nos n' eplaidrans måy.",
+      "crumb": "Politike d' edicion",
+      "bodyHtml": "<h2>Nos sourdants</h2><p>Nos rpoizans nos guides so les rcmandåcions publiques d' organizåcions come li National Institute on Aging, li CDC, l' Alzheimer’s Association, l' Alzheimer’s Foundation of America, li Family Caregiver Alliance et li NHS, et so des rcwerances ricnoxhowes pa des peres come les revowes Cochrane et des grands sayes clinikes. Tchaeke guide dene les sourdants k' i s' apiye dsu. Nos rwaitans tchaeke sourdant dvant del citer, et nos n' racontans k' çou k' i dit vormint.</p><h2>Comint k' nos scrijhans</h2><ul><li>Pratike d' abord : çou k' on pout fé ouy, dins on lingaedje simpe.</li><li>Oniesse so les preuves : nos djhans « loyî a », « i s' pout ki » et « les preuves sont dbrôleyes » cwand c' est l' vraiy.</li><li>Rispictiveus : nos cåzans des djins ki vicnut avou ene demince come des grandès djins, et nos n' eployans måy on lingaedje d' egzamwin u ki fwait honte.</li><li>Pont d' contnou edvinté : pont d' fås chifes, pont d' fåssès citåcions, d' espierts, di studias, d' avizes u d' temonhaedjes edvintés.</li></ul><h2>Kî çk' erwaite nos pådjes</h2><p>Les pådjes sont scrîtes et rvoeyowes pa l' ekipe di Golden Moments, avou l' aidance d' usteyes d' inteligince artificiele po cweri et rascourti. Tchaeke pådje est verifyeye al fene d' après ses sourdants pa l' ekipe. Nos pådjes n' ont <strong>nén</strong> stî rvoeyowes pa on docteur u èn ôte soygnant, et nos n' pretendans rén d' ôte. Ele dinèt des racsegnes djeneråles, ci n' est nén des cônsîs medicås.</p><h2>Çou k' nos n' eplaidrans måy</h2><ul><li>Des pretincions k' on djoû, èn amagnî, on complimint d' amagnî, on djun u ene couteume espaitche, médeye, ralentixhe u rwerixhe li demince.</li><li>Des sayes, des kessions-respondes u des ponts ki froyént croere k' ene djin a, u n' a nén, li demince.</li><li>Des cônsîs po cmincî, arester u candjî d' yebe u d' riméde.</li><li>Del reclame u do contnou sponsorijhî catchî dizo l' fôme di cônsîs.</li></ul><h2>Mitoes a djoûr et coridjaedjes</h2><p>Tchaeke pådje mostere li date k' ele fourit rmetowe a djoûr pol dierin côp. Si vos trovoz ene aroke u on sourdant ki n' est pus d' esté, evoyîz s' i vs plait èn emile a <a href=\"mailto:{email}\">{email}</a> et nos l' erwaitrans foirt rade.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Kessions et rponses",
+      "seoTitle": "Djoûs et activités pol demince : kessions et rponses",
+      "description": "Rponses ås kessions sovint pôzêyes so les djoûs et les activités pol demince : kés djoûs sayî, comint d' tins djower, idêyes po les stadjes pus avanceyis, santé do cervea et privaisté.",
+      "crumb": "Kessions et rponses",
+      "lede": "Des courtès et simpès rponses ås kessions k' les aidants poizèt l' pus sovint.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Åd fwait des djoûs",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Kés sont les meyeus djoûs po ene djin ki vike avou ene demince ?",
+              "a": "Les meyeus djoûs sont conoxhous, simpes et sins broke, et l' bon djoû, c' est cper k' i plait al djin ouy. Mete eshonne des imådjes ki dmorèt veyåves, rindjî, fé des åjheys casse-tiesses, fini des spots bén cnoxhous, coloriî et djower å loto d' imådjes fonccionèt foirt bén po bråmint des djins. Evitîz les ccompteurs di tins, les ponts et tot çou ki rshonne a èn egzamwin."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Est-ce ki les djoûs sont vormint po rén ?",
+              "a": "Oyi. Tos les djes et documints a-z imprimer sont d' bounisse, sins conte a fé, sins s' edjîstrer, sins rén teleberwer et sins rclame."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Pocwè n' a-t i pont d' ponts, di liveas ni d' munutreyes ?",
+              "a": "Li radisté et les ponts fjhèt d' ene agreyåve activité èn egzamin, çou ki pout moenner del fagne u del disbåtchance. Nos metans l' accint so l' plaijhi et l' tins passé eshonne : i n' a rén k' on pout rater, et vos poloz arester cwand vos vloz."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Kéces éndjoles convnèt l' mî ?",
+              "a": "Tot gsm, tayeulrece u éndjole avou on betchteu waibe modiene. Ene tayeulrece so on sopoirt al tåve, c' est sovint l' meyeuse façon po deus djins djonde a djonde. Èn ôdinatour poirterrece raloyî a ene tévé va bén po les groupes."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Polans dj' djouwer avou nos prôpès fotos d' famile ?",
+              "a": "Oyi. Pwaires di fotos fwait d' 2 a 6 fotos ki vos tchoezixhoz on djeu d' apwairtaedje. Les fotos dmorèt dins vosse betchteu et n' sont måy evoyeyes sol rantoele ni schapêyes."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Activités et acpagnaedje",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Tcombén d' tins èn activitêye doet ele durer ?",
+              "a": "Sovint, 10 a 20 munutes c' est bén assez, et pacôp 2 munutes c' est dja on succès. Loukîz après les senes di rastroxhaedje u d' disbåtchance, et arestez tant k' c' est co agreyåve. I n' a pont d' boune durêye tote fwaite."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Et si l' djin n' vout nén fé èn activitêye ?",
+              "a": "Rispictez l' « neni », et sayîz d' ravni pus tård u d' èn ôte môde. On refus pout vni d' esse sô, d' ene må, d' èn edon d' intcherteye u biesmint d' èn manke d' eterese. Loukîz nosse guide so çou k' i fåt fé cwand i djhèt neni."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Kézés activités convnèt po les dierins estådes del demance ?",
+              "a": "Li råjhe et les sinses : schoûter del muzike k' i veyèt voltî, on doûs måssaedje des mwins avou del crinme, rwaitî des fotos eshonne, tini ene doûce coviete, esse ashî a l' ouxh, u on djeu d' imådjes tot simpe avou ene sakî a costé d' zels. Nosse guide so les dierins estådes a co bråmint d' idêyes."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "A-t i des activités po les groupes dins ene måjhon d' ritrôte ?",
+              "a": "Oyi. Li bingo d' imådjes a des cåtes a-z imprimer ey on tirrece so l' waitroûle, et Fini l' diton eyet les Cåtes di cåzaedje vont foirt bén cwand on lzès léte a hôt vwas. Nosse guide po les groupes el måjhon d' ritrôte esplike li grandeur do groupe, l' ashidaedje et l' manire d' afèter l' djeu sorlon les capåcités d' tchak' onk."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Santé do cerva",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Est-ce ki des djes polèt espaitchî u ralinti l' demance ?",
+              "a": "I n' a nole prouve ki des djes såvrént espaitchî l' demance, et nos djes ni fjhèt pont d' tîle di rclame inla. Li stimulåcion do cerva dins èn ambyince sociåle a mostré d' pitits bifetes dins les rcwerances po les djins k' ont-st ene demance ledjire a moyene, mins çoula n' vout nén dire k' on djeu espaitche ene maladeye. Nos prepojans des djes djusse pol plaijhi et po rwaitî d' esse eshonne."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Pout-on espaitchî l' demance ?",
+              "a": "Nén d' acertinance. Les rcwerances raloyèt 14 facteurs di santé et d' vicance å risse di demance, come li sourdisté, li hôte tansyon, li manke di mouvmint et l' recloyaedje so s' coir. S' endè måfyî pout abaxhî l' risse po sacwantes djins, mins bråmint d' djins ki fjhèt tot çou k' i fåt atrapèt cwand minme ene demance. Ci n' est måy del fåte di nolu."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Est-ce ki l' djunaedje d' astantche est bon pol santé do cerva ?",
+              "a": "Les prouves so les djins dmorèt foirt limitêyes et divant-goxhes, et bråmint des rcwerances ont stî fwaites so des biesses. Djuner pout esse riskeus po les pus viyès djins, aprume avou des droukes siconte do diyabete u s' i pierdèt do pwès sins l' vudlî, et ci n' est nén rcomandé po les djins ki vicnut avou l' demance. Cåzez-nd a on medcén divant d' candjî vosse manire di magnî."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Veye privêye et såvrité",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Rascodoz veus des racsegnes so nozôtes ?",
+              "a": "Pont d' conte ni d' rclame. Nos eployans Google Analytics po conter les vizites et vey keles pådjes rindèt siervice, et vosse betchteu wåde en alouwaedje si vos avoz metou les doûs sons. Les fotos k' vos tchoezixhoz po Pwaires di fotos ni sont måy aberwêyes so les sierveus. Loukîz les racsegnes so l' privêye veye po-z endè savu dpus."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Est-ce des consîs d' medcén ?",
+              "a": "Neni. Golden Moments est la pol plaijhi et po des racsegnes d' ordenance. Po des kessions so vosse santé, cåzez-nd a on medcén, et po les urginces fwaites li 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Pus d' racsegnes : <a href=\"/caregiving/how-to-play-together/\">kimint djouwer eshonne</a>, <a href=\"/caregiving/when-they-say-no/\">cwand i djhèt neni</a>, <a href=\"/activities/late-stage/\">activités po les dierins estådes</a> eyet <a href=\"/brain-health/can-dementia-be-prevented/\">pout-on espaitchî l' demance ?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Djes d' bounisse et doûs po les djins ki vicnut avou l' demance",
+      "seoTitle": "Foyou a-z imprimer : Djes d' bounisse so les fis po les djins avou l' demance",
+      "description": "On foyou d' ene pådje a-z imprimer po les familes et les aidants so des doûs djes d' imådjes d' bounisse po les djins ki vicnut avou l' demance, po les groupes di soçonance et les pakèts d' aidance.",
+      "crumb": "Foyou a-z imprimer",
+      "lede": "Imprantez cisse pådje chal po on groupe di soçonance, on pakèt d' aidance u po l' ouxh do frigo. Eployîz l' comande Imprimer di vosse betchteu ; les menus et les botons n' aparexhront nén so l' papî.",
+      "introHtml": "<p>Des grandès imådjes, des mots simpes et rén k' on såreut rater. D' bounisse so on gsm, ene tayeulrece u èn ôdinatour, sins s' edjîstrer, sins rclame, sins munutreye et sins ponts. Ashidoz-ve djonde a djonde et djouwez a tour d' rôle.</p>",
+      "gamesTitle": "Des djes a sayî eshonne",
+      "restHtml": "<h2>Sacwantès consêyes</h2><ul><li>Tchoezixhoz on moumint del djournêye k' el djin est al pus alêye.</li><li>Atakez avou l' apontiaedje li pus åjhey. Cwate careas, c' est bén assez.</li><li>Cåzez des imådjes. Li cåzaedje, c' est sovint çou k' i gn a d' meyeu.</li><li>Arestez tant k' c' est co agreyåve. Fini pus timpe, c' est èn esitoes bén reussi.</li></ul><h2>I gn a eto sol waibe</h2><ul><li>Documints d' bounisse a-z imprimer : mot-a-mot e grands letes, pådjes a rcolorer, cåtes di cåzaedje et bingo d' imådjes.</li><li>Des idêyes d' activités po tchaeke eståde, et des guides po djouwer eshonne et s' ocuper d' vos-minme.</li></ul><p class=\"muted\">Pol plaijhi et passer do tins eshonne. Nén on consî d' medcén, èn ègzamin ni on traitmint. Golden Moments est eplaidî pa Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Po les måjhons d' ritrôte, les bibiotekes et les groupes di soçonance",
+      "seoTitle": "Activités d' bounisse pol demance po les måjhons d' repos et les tropes",
+      "description": "Comint k' les måjhons d' repos, les centres d' acoy d' djoû, les bibiotèques, les organizåcions pol troejhinme edje et les tropes di sotnaedje eploynut nos libès activités pol demance, et on tecse po nos radjouter a vosse djivêye d' adresses.",
+      "crumb": "Po les organizåcions",
+      "lede": "Tot çk' i gn a so cisse waibe chal est d' bounisse po fé avou les dmorants, les mimpes et les cliyints, sins conte, sins licince et sins rén a payî. Cisse pådje chal vos esplike çou k' i gn a et comint l' pårtaedjî.",
+      "shortText": "{name} : des doûs djeus d' imådjes d' bounisse et des guides d' activitîs po les djins ki vicnut avou l' demance et leus aidants. Sins s' edjîstrer, sins munutreye, sins ponts.",
+      "longText": "{name} ({domain}) vos coplexhe {count} djeus d' bounisse so furchrece pinsés po les djins ki vicnut avou l' demance, come mete des pares d' imådjes eshonne tot leyant les fitchas veyåves, on rtoûne-tiesse åjhey, do rindjaedje, des vîs spots bén cnoxhous et on bintro d' imådjes avou des fitchas a rexhe so papî. I n' a pont d' conte a fé, pont d' riclame, pont d' munutreye et pont d' ponts. Li waibe a eto des guides d' activitîs e simpe lingaedje po tchaeke tape del demance, ki citèt l' National Institute on Aging et l' Alzheimer's Association.",
+      "useTitle": "Çou k' les organizåcions polèt eployî",
+      "gamesItemHtml": "<strong>{count} djeus so furchrece</strong> ki rotnut so on poirtable, ene taplete ou ene tévé raloyeye a l' éndjole. Pont d' astalaedje, pont d' conte et rén a aberweter. Vey <a href=\"/games/\">tos les djeus</a>.",
+      "printablesLabel": "{count} documints a rexhe so papî :",
+      "printablesAfter": "Eployîz l' boton Imprimer so tchaeke pådje.",
+      "moreItemsHtml": "<li><strong>Pol trope :</strong> Li <a href=\"/games/picture-bingo/\">bintro d' imådjes</a> a des fitchas a rexhe so papî et on crijheu so l' waitroûle, et les <a href=\"/activities/trivia/\">åjheys kesses-respondous</a> ont 50 kesses avou des tchuzes di response et des idêyes po fé cåzer.</li><li><strong>Guides d' activitîs</strong> pol personel et les familes, pa tape et pa sôre, scrîts e simpe lingaedje avou les sourds. Cmincîz avou les <a href=\"/activities/ideas/\">101 idêyes d' activitîs</a> ou les <a href=\"/activities/care-home-groups/\">activitîs d' trope po les måjhons d' repos</a>.</li>",
+      "restHtml": "<h2>Comint k' les tropes l' eploynut</h2><ul><li><strong>Måjhons d' repos et d' soen adaptêye :</strong> bintro d' imådjes ou achever l' spot sol tévé del såle comunne, avou ene djin ki clitche pol trope.</li><li><strong>Centres d' acoy d' djoû :</strong> on poss da taplete avou les Pares d' imådjes réglêyes so cwate fitchas, po des courts moumints a deus.</li><li><strong>Bibiotèques publiques :</strong> des mots-croejhîs a rexhe so papî et des fitchas d' sovnance dins des kits pol memwere, et l' waibe metowe ezès favoris so les tapletes del bibiotèque.</li><li><strong>Tropes di sotnaedje des aidants et cafés-memwere :</strong> ene <a href=\"/handout/\">pådje a rexhe so papî</a> po k' les familes l' emoennexhe avou zeles.</li><li><strong>Ospitås et servis d' sårteye :</strong> li foyet dins les fôrdjeas po les aidants, po-z aveur ene cayike di trankile a fé al måjhon ou a costé do lét.</li></ul><h2>Çou k' nos n' fijhans nén</h2><p>Les djeus sont fwait po s' amuser et passer do bon tins eshonne. I n' fjhèt pont d' diagnostik, ni d' saye, ni d' conte di ponts, et i n' sognèt ni n' ralentixhèt nén l' demance ; nos dmandans åzès organizåcions del nén prezinter insi. I n' a pont d' riclame, et les djeus ni dmandèt djamåy di nos, di racsegnes so l' santé ni d' eberweter des fotos. Li waibe eploye Google Analytics po conter les vizites ; nosse <a href=\"/privacy/\">notitche sol viye privêye</a> vos esplike çou k' est rashonné. Les fotos eployeyes dins <a href=\"/games/photo-pairs/\">Photo pairs</a> dmorèt dins l' furchrece.</p><h2>Radjouter nosse waibe a vosse djivêye d' adresses</h2><p>Si vos avoz ene djivêye d' adresses po les aidants, vos estoz les bénvnous a mete on loyén eviè <a href=\"/\">{domain}</a>. Vos poloz rcopyî l' ene ou l' ôte des discripcions.</p>",
+      "shortTitle": "Corte discripcion",
+      "longTitle": "Pus longue discripcion",
+      "linksHtml": "<p>Des pådjes ahesse po mete on loyén directemint : <a href=\"/games/\">djeus d' bounisse</a>, <a href=\"/activities/printable/\">documints a rexhe d' bounisse</a>, <a href=\"/activities/alzheimers/\">activitîs po l' Alzheimer</a> et <a href=\"/caregiving/how-to-play-together/\">comint djouwer eshonne</a>.</p><h2>Kesses ou coridjaedjes</h2><p>Si ene sacwè sol waibe est må fwaite ou nén clêye, ou k' les bzoens d' on dmorant ni trovèt nén leu conte chal, dihoz l' nos s' i vos plait a <a href=\"mailto:{email}\">{email}</a>. Ni rmanindjîz pont d' infôrmåcions privêyes ou d' santé so les dmorants ou les cliyints.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "L' aplicåcion Golden Moments",
+      "seoTitle": "L' aplicåcion Golden Moments po iPhone et Android",
+      "description": "L' aplicåcion d' bounisse Golden Moments : doûs djeu d' pareyes fotos avou cwate grandès plakes, fotos d' famile wårdêyes so vosse machene, fitchas d' imådjes foû-royete et pont d' conte.",
+      "crumb": "L' aplicåcion",
+      "lede": "Tot çk' vos inmez sol waibe, dins ene aplicåcion ki va foû-royete et k' pout eployî les fotos d' famile ki vos tchoezixhoz.",
+      "worksOn": "Va so {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Atakîz tot doûçmint</h2><p>Comincîz avou cwate grandès plakes et des kenexhantès imådjes. Leyîz les imådjes veyåves, u rascovroz-les cwand çoula va l' mî po vos. Li môde doûs n' a pont d' munutreye, di ponts ni d' pûnixhance. Tchoezixhîz 4, 6, 8 u 12 plakes.</p><h2>Fijhîz çoula a vosse gosse</h2><p>Tchoezixhîz des fotos d' famile avou l' rwaitoe d' fotos d' vosse machene. L' aplicåcion wåde des pus ptitès copies po ses activités. Ele ni va nén fouyî dins vosse galreye ni candjî vos oridjinålès fotos, et ele wåde disk' a 24 fotos dins ene ramexhnêye.</p><h2>Djusse rwaitî eshonne</h2><p>Rwaitîz ene imådje al feye. Des ptitès idêyes a tchoez vos dinèt l' ocåzion d' copiner sins dmander a nolu d' si rsovni d' nos ni d' diner ene boune responduwe. Djusse rwaitî est bén assez.</p><h2>Foû raloyaedje la k' i fåt</h2><p>Les prumirès imådjes et les wit pakets d' imådjes sont ddja metous dins l' aplicåcion. Les copies d' fotos aberwetêyes vont foû raloyaedje. Tchoezi des oridjinås ki n' sont wårdés ki so iCloud pout dmander on raloyaedje a l' internet.</p><h2>Pont d' conte, pont d' sierveu d' sincronijhaedje</h2><p>Les copies des fotos d' famile dmorèt dins l' aplicåcion so l' aparail. Vos ploz rsaetchî les copies sins disfaecî les oridjinås. Les såvgådes di l' aparail polèt rprinde les dnêyes di l' aplicåcion. Lijhoz l' <a href=\"/app-privacy/\">politike di privance di l' aplicåcion</a>, eyet l' <a href=\"/help/\">aidaedje di l' aplicåcion</a> vos moenne pas a pas.</p>",
+      "disclaimer": "Golden Moments est fwait po s' amuzer et copiner eshonne. I n' fwait pont d' diynostik, ni rweri, ni espaitchî, ni muzrer l' demance u l' må d' Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Djeus d' bandolet sol waibe po l' demance et l' må d' Alzheimer",
+    "description": "Djeus d' bandolet sol waibe po les pus vîs ki vicnut avou l' demance u l' må d' Alzheimer : rashonner des imådjes, åjheys puzzles, rindjaedje, spots, coleuraedje, bingo. Sins s' enscrire, sins munutreye ni ponts.",
+    "crumb": "Djeus",
+    "h1": "Doûs djeus po les djins ki vicnut avou l' demance",
+    "lede": "{count} djeus d' bandolet po djower eshonne dins vosse betchteu. Des grandès imådjes, des mots simpes, et rén a mankir : pont d' munutreye, pont d' ponts, pont d' enscrijhaedje.",
+    "listName": "Doûs djeus po les djins ki vicnut avou l' demance",
+    "byStageTitle": "Tchoezi on djeu sorlon l' tape",
+    "byStageLede": "Les tapes ni sont k' po vos dner ene idêye. Shuvoz çou k' plait al djin et çou ki va l' mî po leye ouy.",
+    "stageCol": "Tape",
+    "gamesCol": "Djeus ki vont sovint bén",
+    "moreHtml": "Co des idêyes lon erî del waitroûle : <a href=\"/activities/ideas/\">101 activités po les djins ki vicnut avou l' demance</a>, <a href=\"/activities/alzheimers/\">activités et djeus po l' må d' Alzheimer</a>, <a href=\"/activities/memory-games/\">doûs djeus d' mémwerre</a> eyet <a href=\"/activities/puzzles/\">puzzles</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Par ké djeu dvréns-ns ataker ?",
+        "a": "Les coblas d' imådjes avou cwate plakes, c' est on doûs prumî tchoez. Si tchoezi inte des imådjes fwait d' trop, sayîz « Trover l' pareye » avou deus imådjes. Po ene trope, sayîz l' « Bingo d' imådjes »."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Est-ce ki les djeus vont so èn iPad u on télefone ?",
+        "a": "Oyi. Tchaeke djeu va dins l' betchteu so les télefones, les tåvletes et les copiutreces, et les imådjes s' agrandixhèt po rimpli l' waitroûle. Ene tåvlete so on sopoirt, c' est sovint l' pus ahessåve po deus djins."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Est-ce ki ces djeus la vont bén po ene djin k' a l' må d' Alzheimer ?",
+        "a": "Oyi. Il ont stî fwaits po les djins ki vicnut avou l' demance, et l' må d' Alzheimer k' end est l' cåze li pus corante. Les imådjes dmorèt veyåves, i gn a k' kékès causetes a tchoezi, et rén n' est mzuré ni conté, di feyon ki les djeus s' apiyèt sol fwait d' ricnoxhe des kenexhantès sacwès purade ki d' si rsovni d' noveles."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Est-ce ki c' est des djeus d' mémwerre po les pus vîs ?",
+        "a": "C' est des djeus d' rashonnaedje et d' imådjes ki tertos polèt inmer, mins il ont stî fwaits po n' nén mzuré l' mémwerre : dins les « Coblas d' imådjes », les imådjes dmorèt al copete a mwins ki vos n' tchoezixhîxhe ôtrumint. Nosse guidon so les djeus d' mémwerre po les vîs k' ont l' demance esplike kimint wårder tot l' minme ké djeu d' mémwerre bén doûs."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "A-r-i des djeus po les tropes dins ene måjhon d' repos ?",
+        "a": "Oyi. Li « Bingo d' imådjes » a des cåtes a-z imprimer et on criyeu sol waitroûle, et « Rinde li spot » eyet les « Cåtes di soçnaedje » vont foirt bén lîtes a hôte vwès po ene trope."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad eyet Android",
+    "requirements": "iOS 15 u pus noû ; Android 7.0 u pus noû",
+    "summary": "Ene aplicåcion d' bandolet po iPhone, iPad eyet Android avou doûs rashonnaedje d' imådjes so cwate a doze grandès plakes, rashonnaedje et rwaitaedje avou des fotos d' vosse famile ki vos tchoezixhîz, eyet wit pakets d' imådjes dedja dvins ki vont sins internet. Pont d' conte, pont d' rclames, pont d' munutreye ni d' ponts.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Doûs rashonnaedje d' imådjes avou 4, 6, 8 u 12 grandès plakes ; les imådjes dmorèt veyåves a mwins ki vos n' tchoezixhîxhe delzès catchî",
+      "Les fotos d' famile ki vos tchoezixhîz sont rcopieyes dins l' aplicåcion po les rashonner et po les rwaitî eshonne",
+      "Rwaitî eshonne : ene imådje al feye avou des ptitès idêyes a tchoez po copiner",
+      "Wit pakets d' imådjes metous dins l' aplicåcion ; i vont foû raloyaedje",
+      "Pont d' conte, pont d' rclames, pont d' atchats dins l' aplicåcion, pont d' munutreye, di ponts ni d' pûnixhance"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "A-r-i ene aplicåcion d' activités po l' demance ?",
+        "a": "Oyi. Golden Moments (metou sol no d' \"{storeName}\") est d' bandolet so l' App Store et Google Play. Ele dene on doûs rashonnaedje d' imådjes avou des grandès plakes, des djeus avou des fotos d' famile ki vos tchoezixhîz, et des pakets d' imådjes ki vont foû raloyaedje."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Est-ce ki l' aplicåcion Golden Moments est d' bandolet ?",
+        "a": "Oyi. Ele pout esse aberwetêye d' bandolet, sins rclames, sins conte eyet sins atchats dvins."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Est-ce ki l' aplicåcion va sins internet ?",
+        "a": "Oyi. Les prumirès imådjes et les wit pakets d' imådjes sont ddja metous dins l' aplicåcion, et les fotos d' famile vont foû raloyaedje on côp k' ele sont rcopieyes dins l' aplicåcion. Tchoezi ene foto ki n' est wårdêye ki so iCloud pout dmander on raloyaedje."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Pout-on eployî nos prôpès fotos d' famile ?",
+        "a": "Oyi. Tchoezixhoz des fotos avou l' tchoezixheu d' fotos d' vosse aparey. L' aplicåcion wåde des pus ptitès copies so l' aparey po ses activités, ele ni les evoye nén sol Daegntoele et n' candje måy les oridjinås. Vos ploz rsaetchî les copies a tot moumint."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Est-ce ene aplicåcion d' etrinnmint do cervea u d' test di memwere ?",
+        "a": "Neni. Golden Moments est fwait po passer on bon moumint et s' amuser eshonne. I gn a pont d' mårke ni d' test, ey i n' diyagnostike, ni médeye, n' espaitche ni n' mezeure li demince u l' må d' Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
-        "a": "{platforms}: {requirements}."
+        "q": "So kénes apareys çoula va-t i ?",
+        "a": "{platforms} : {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Gn a-t i ene modêye aplicåcion po ci djeu ci ?",
+      "a": "Oyi. L' aplicåcion gratis Golden Moments po iPhone, iPad eyet Android a l' minme djeu d' acoplaedje d' imådjes tot doûçmint, pout eployî vos propès fotos d' famile k' vos tchoezixhoz, et va sins raloyaedje al Daegntoele. Pont d' conte, pont d' rclame ni d' mårke."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Gn a-t i ene modêye aplicåcion po ci djeu ci ?",
+      "a": "Nén po ci djeu ci. L' aplicåcion gratis Golden Moments po iPhone, iPad eyet Android a l' acoplaedje d' imådjes tot doûçmint avou des grandès plakes et vos propès fotos d' famile k' vos tchoezixhoz, ey ele va sins raloyaedje al Daegntoele. Ci djeu ci dmeure gratis chal e vosse betchteu."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name} : grandès belès imådjes",
+    "noscript": "Ci djeu ci a mezåne ki JavaScript soeye en alaedje e vosse betchteu. Les consîs chal pa dzo vont sins çoula.",
+    "about": "Åd fwait di {name}",
+    "aboutAria": "Åd fwait di ci djeu ci",
+    "noTimer": "Pont d' munutreye ni d' mårke",
+    "printable": "A imprimer",
+    "howTo": "Comint djower a {name}",
+    "tips": "Des consîs po djower eshonne",
+    "newToPlayingHtml": "Vos cmincîz a djower avou ene sakî k' a del demince ? Lijhoz <a href=\"/caregiving/how-to-play-together/\">comint djower a des djes eshonne</a>, avou çou k' i fåt fé si l' djin ped si gosse.",
+    "moreAria": "Pus a discovri",
+    "helpfulGuides": "Des guides ahessåves",
+    "appTitle": "Djouwoz-î so l' aplicåcion",
+    "appText": "L' aplicåcion gratis Golden Moments a l' acoplaedje d' imådjes tot doûçmint avou des grandès plakes et vos propès fotos d' famile, ey ele va sins Wi‑Fi. iPhone, iPad eyet Android.",
+    "photoAppTitle": "Wårdoz vos fotos a pont",
+    "photoAppText": "E l' aplicåcion gratis Golden Moments, les fotos k' vos tchoezixhoz dmorèt so vosse aparey po l' côp ki vént, eyet les djes vont sins Wi‑Fi. iPhone, iPad eyet Android.",
+    "goodToKnow": "Boun a saveur",
+    "goodToKnowText": "Ci djeu ci est fwait po passer on bon moumint et s' amuser eshonne. I n' fwait pont d' test, i n' mezeure rin et n' médeye rin.",
+    "moreGames": "Pus d' doûs djes",
+    "crumb": "Djes"
   }
 }

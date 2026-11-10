@@ -1,33 +1,28 @@
 ---
-title: "Hakilijigin baara: Hakilijigin kɛsu, ɲɛnamaya tariku ani jaaw"
-seoTitle: "Hakilijigin baara hakilijigin mɔgɔw ye: Ɲininkali tɛ"
-description: "Cogo min na i bɛ se ka hakilijiginw tila ni mɔgɔ ye min bɛ ɲɛnamaya kɛ hakilijigin na, k’a sɔrɔ i ma ɲininkali kɛ: ja baro, hakilijigin kɛsu ani ɲɛnamaya tariku gafew, ni kumasenw ye minnu bɛ baara nɔgɔya."
+title: "Tɛmɛnen Kɛlɛw: Hakili Sɛnɛfɛn, Ɲɛnamaya Kuma ani Fɔtɔw"
+seoTitle: "Tɛmɛnen Kɛlɛw Dementia Ye: Dɛmɛ Tɛ, Kuma Ɲɔgɔn Kɛ"
+description: "Dementia ka mɔgɔ ye ka tɛmɛnen kuma ni a ka kɛlɛ ɲɛnɛ: fɔtɔ kuma, hakili sɛnɛfɛn ani ɲɛnamaya kitabu, kumaw ka kɛ ka ɲɛfɛ ni ɲɛnɛma ye."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Hakilijigin baara kɔrɔ ye ka diya sɔrɔ tɛmɛnen na ɲɔgɔn fɛ, jaaw, fɛnw,
-  dɔnkiliw ani maana fɛ. Hakilijigin kɛsu dɔ dilan, ɲɛnamaya tariku gafew
-  nɔgɔman dɔ labɛn, walima ka jaaw lajɛ ɲɔgɔn kɛrɛfɛ. Kana ɲininkali kɛ
-  abada: « I b’a hakili la wa ? » ani « Nin ye jɔn ye ? » bila, ka weleli
-  dafalenw kɛ i n’a fɔ « Nin ko in ɲɛfɔ n ye. » Baro dususuma nafa ka bon ka
-  tɛmɛ tiɲɛni sɔrɔli kan.
+  Tɛmɛnen kɛra ka kɔrɔ ka ɲɛnamaya ɲɛnɛ ka fɔtɔw, nɛgɛ sɛnɛfɛnw, fɛɛrɛ ani kumaw fɛ. Hakili sɛnɛfɛn dɔ dɛ, ɲɛnamaya kitabu dɔ dɛ walima fɔtɔw ka ɲɛfɛ ni ɲɛnɛ. Kuma kɛra dɔrɔn ka tɛ ɲɛnɛma ye: aw kana "I bɛ o hakili la wa?" ani "Ninnu ye jɔ ye?" fɔ, aw ka "I ka o kuma ne ye." fɔ ka kɛɲɛ. Kuma hɛrɛ ka bon ni tiɲɛ kɔrɔ lakika ka bon.
 keyPoints:
-  - "Hakilijigin baara ye baro ye, a tɛ kɔrɔbɔli ye. Tiɲɛni tɛ kɔrɔta; diya de nafa ka bon."
-  - "« I b’a hakili la wa... ? » ani « Nin ye jɔn ye ? » bila, ka kuma ni weleliw kɛ i n’a fɔ « Nin don in ɲɛfɔ n ye. »"
-  - "Hakilijigin kɛsu min falen bɛ fɛnw na mɔgɔ ka ɲɛnamaya kɔnɔ, o bɛ bolo ni baro dɛmɛ ka fɛn dɔ minɛ."
-  - "Ɲɛnamaya tariku gafew bɛ denbaya, lɔnɔgɔw ani ladonbaarakɛlaw dɛmɛ ka mɔgɔ lɔn, a tɛ bana dɔrɔn ye."
-  - "Ni hakilijigin dɔ bɛ dusukasi lase, dususalo kɛ fɔlɔ, ka taa fɛn wɛrɛ la dɔɔni dɔɔni."
+  - "Tɛmɛnen kɛra kuma ye, dɔrɔn ka tɛ ɲɛnɛma ye. Tiɲɛ tɛ se ka ɲɛ; ɲɛfɛ ye muso ye."
+  - "'I bɛ o hakili la wa?' ani 'Ninnu ye jɔ ye?' bɛ ban ni kumaw ni ɲɛnɛma ka kɛ: 'I ka o kuma ne ye, o don min.'"
+  - "Sɛnɛfɛn dɔ ka ɲɛnamaya ka fɛn ye, o bɛ se ka ɲɛfɛ ka kɛ ni sɛnɛ ni kuma ka kɛ."
+  - "Ɲɛnamaya kitabu bɛ dɛmɛ ka bɔ muso ka denw, ka ɲɔgɔn ka kɛlɛbaw ani ka fɛɛrɛ kɛbaw ka mɔgɔ ka kɔnɔ ka kɛ, dementia tɛ dɔrɔn ye."
+  - "No tɛmɛnen kɛra ka dusukun ɲɛ, a ka ɲɛnɛma ka tɛmɛnen dɔ kɛ; a ka ɲɛnɛma ka kɛ ka hɛrɛ kɛ, ka kɔrɔ ka taa."
 faq:
-  - q: "Hakilijigin baara ye mun ye mɔgɔw bolo minnu bɛ ɲɛnamaya kɛ hakilijigin na ?"
-    a: "Hakilijigin baara ye hakilijiginw ni tɛmɛnen kɛkow tila ye, tuma caman na jaaw, fɛnw, dɔnkiliw walima wideyow dɛmɛni na. A bɛ se ka kɛ mɔgɔ kelen ni kelen cɛ walima jɛkulu kɔnɔ. Kuntilenna ye ka baro ɲuman, nafa bɛ min na, sɔrɔ, a tɛ mɔgɔ ka hakilijigin kɔrɔbɔli ye."
-  - q: "Mun na n man kan ka ɲininka ko « I b’a hakili la wa ? »"
-    a: "Ɲininkali minnu bɛ hakilijigin kɔrɔbɔ, olu bɛ se ka mɔgɔ maloya walima ka hami a la ni jaabi ma sɔrɔ. National Institute on Aging bɛ ɲininkali kɛli fɔ, n’a bɛ fɛn walima mɔgɔ dɔ hakilijigin ɲininka, i n’a fɔ fɛnw minnu ka kan ka bila. I ye min ye, o kofɔ, ka mɔgɔ bila a ka fɛn o fɛn fara a kan n’a b’a fɛ."
-  - q: "N ka kan ka mun bila hakilijigin kɛsu kɔnɔ ?"
-    a: "Fɛn lakananenw, barikamaw sugandi minnu bɛ tali kɛ mɔgɔ ka ɲɛnamaya la: baara fɛnw, diyanyeko fɛnw, fini kanulen dɔ, karti postalw, tobilikɛcogo kartiw, farikoloɲɛnajɛ hakilijigin fɛnw walima jaaw kopi. Fɛn misɛnninw, fɛn fitininw minnu bɛ se ka min, ani fɛn kɔrɔlenw minnu kopi tɛ yen, olu bila."
-  - q: "Ni u ye tiɲɛni kɛ fɛn dɔ la, n ka kan ka mun kɛ ?"
-    a: "A to a ka tɛmɛ. Ni i ba ko ja in bɛ a balimamusoman jira k’a sɔrɔ a ye a balimakɛ ye, o tɛ baasi ye. Tiɲɛni ladilanni bɛ wagati dususuma dɔ yɛlɛma ka kɛ kɔrɔbɔli ye. Maana min bɛ fɔra, o tugu, ka diya sɔrɔ ɲɔgɔn fɛ."
+  - q: "Dementia ka mɔgɔw ye tɛmɛnen kɛlɛ jɛ?"
+    a: "Tɛmɛnen ye hakili ni ɲɛnamaya kɔrɔ ka kuma ye, fɔtɔw, fɛɛrɛw, dɔnkili walima wɛrɛyɔrɔ ka dɛmɛ la. A bɛ kɛ mɔgɔ kelen ni kelen ye walima jama ye. Ɲɛnɛ ye ka kuma ɲɛfɛ ni ɲɛnɛma ye, mɔgɔ ka hakili ka kɔrɔ ka sɔn ka sɔrɔ ɲɛ tɛ."
+  - q: "Mun na ne kana 'I bɛ o hakili la wa?' fɔ?"
+    a: "Kuma min bɛ hakili ɲɛfɛ, o bɛ mɔgɔ ka hɛrɛ ni ɲɛnɛ kɛ hakili kɔnɔ tɛ ko kɛlɛ. Mɔgɔ dɔ bɛ sɔn ka ɲɛfɛ ka kɛ ni a ye ka kuma ye, o ka sɛbɛn ye ka kan. National Institute on Aging bɛ o fɔ ka kɛ fɛn min kana kɛ: ka mɔgɔ ka hakili ɲɛfɛ mɔgɔ dɔ walima fɛn dɔ ko. O kɔrɔ, aw ka fɛn min ye ɲɛfɛ, ka mɔgɔ ka kuma sɛgɛsɛgɛ ka ɲɛfɛ."
+  - q: "Mun ye don hakili sɛnɛfɛn kɔnɔ?"
+    a: "Aw ka fɛn ɲɛfɛ ko, min bɛ mɔgɔ ka ɲɛnamaya ni ɲɛnɛ: baara fɛn, sɛnɛ fɛn, mɔgɔ ka fɛn min ka di ɲɛ, dagaw ka ɲɛfɛ, sitanw walima nɔgɔn. Aw kana fɛn min kɛ fɛn gɛlɛn, nɔgɔn min bɛ se ka ɲɛ, walima fɛn min sɛbɛn tɛ sɔrɔ ka sɛbɛn yɛrɛ."
+  - q: "Ni a bɛ kuma tɛ tiɲɛ ye, mun na?"
+    a: "A ka to. Ni aw bɛ fɔ ko aw ba bɛ fɔtɔ kɔnɔ, o ye a ba ka kɔrɔ ye, o ka fɛn ye. Fɛn dɔ bɛ kɛ kuma ɲɛfɛ ka sɛnɛfɛn ka kɛ ka hɛrɛ kɛ kuma kɔnɔ. A ka kuma ɲɛfɛ ka kɛ ni a ka hɛrɛ ye."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,82 +41,82 @@ related: [activities/ideas, activities/music, activities/visiting, activities/ph
 health: false
 ---
 
-Hakilijigin baara kɔrɔ ye ka diya sɔrɔ tɛmɛnen na ɲɔgɔn fɛ. Mɔgɔ caman bolo minnu bɛ ɲɛnamaya kɛ hakilijigin na, saan caman tɛmɛnen hakilijiginw bɛ se ka jɛya ka tɛmɛ bi sɔgɔma kɛkow kan. Jaaw, fɛnw minnu bɛ dɔn, dɔnkiliw ani maana bɛ se ka hakilijigin ninnu dayɛlɛ, ka fɛn dususuma dɔ di aw ma ka tila. Sariya kelen: o ye baro ye, a tɛ kɔrɔbɔli ye abada.
+Tɛmɛnen kɛra kɔrɔ ka ɲɛnamaya ɲɛnɛ ka fɔtɔw, fɛɛrɛw, dɔnkili ni kumaw fɛ. Mɔgɔ caman min bɛ dementia ka kɛlɛ la, a bɛ hakili ka kɔrɔ ka sɔn ka ɲɛ ka tɛmɛn bi tɛ sɔrɔ, ka sɔn ka ɲɛ ka bi ka fɛn min kɛra. Fɔtɔw, fɛn ɲɛfɛ, dɔnkili ani kumaw bɛ se ka o hakili kɔrɔ ka bɔ, ka kɛ fɛn ɲɛfɛ ye aw ka ɲɛnɛma ye. Ɲɛnɛ kelen: o ye kuma ye, dɔrɔn ka tɛ ɲɛnɛma ye.
 
-## Hakilijigin baara ye mun ye, ani a danfara ye mun ye ni ɲininkali ye ?
+## Tɛmɛnen ye mun ye, ani a bɛ se ka kɛ cogo di ka ɲɛnɛma ni kuma ye?
 
-Hakilijigin baara ye hakilijiginw tila ye jaaw, fɛnw, dɔnkiliw walima wideyow fɛ, mɔgɔ yɛrɛ ka teliya la. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) b’a ɲɛfɔ i n’a fɔ tɛmɛnen kɛkow ni maana tila, jaaw, fɛnw, wideyow walima dɔnkiliw dɛmɛni na, gafew kɔnɔ walima tabalɛti kan. Ɲininkali danfara don: a bɛ mɔgɔ ɲini a ka jaabi tiɲɛnen di, wa o bɛ se ka maloya lase diya nɔ na.
+Tɛmɛnen ye ka kɔrɔ ɲɛnɛ fɔtɔw, fɛɛrɛw, dɔnkili walima bɛnkan ka dɛmɛ la, mɔgɔ ka waati ni a ka sɛgɛsɛgɛ ye. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bɛ o fɔ ko a ye ka ɲɛnamaya kɔrɔ ni kuma ɲɛnɛ ye fɔtɔw, fɛn, bɛnkan walima dɔnkili ka dɛmɛ la, kitabu kɔnɔ walima tablet kɔnɔ. Ɲɛnɛma ka kɛ kuma sɔrɔ tɛ: ɲɛnɛma bɛ mɔgɔ ka ɲɛnɛ ka jaabi tiɲɛ ɲɛ, o bɛ se ka kɛ hɛrɛ tɛ, ka kɛ ɲɛnɛma ye.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) bɛ ɲininkali kɛli fɔ, n’a bɛ mɔgɔ ɲininka ni a b’a hakili la fɛn walima mɔgɔ dɔ na, i n’a fɔ fɛn min ka kan ka bila. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) b’a laadi ka ɲininkali minnu bɛ jigi hakilijigin surun kan, olu bila, ka kuma tɛmɛnen jan kan.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) bɛ o fɔ ko mɔgɔ ka hakili ɲɛfɛ mɔgɔ dɔ walima fɛn dɔ ko, o ye fɛn ye min kana kɛ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) bɛ o fɔ ko aw kana kumaw kɛ min bɛ hakili kɔrɔ sɛgɛsɛgɛ la, ka kuma kɛ kɔrɔ sɔrɔ ka kɔrɔ ka taa ɲɛ.
 
-| Nin nɔ na | Nin kɛ |
+| Ni aw bɛ ... fɔ | Aw ka ... fɔ |
 | --- | --- |
-| « I b’a hakili la wa ? » | « Nin bɛ i ko don nisɔndiya dɔ. A ɲɛfɔ n ye. » |
-| « Nin ye jɔn ye ? » | « Nin ye Tanti Rose ye kɔgɔjida la. A ka fula in filɛ. » |
-| « Nin ye saan jumen ye ? » | « Nin bɛ i ko so kɔrɔ. Ɲɛnamaya tun bɛ di cogo di yen ? » |
-| « Ayi, o tɛ Bill ye, o ye Frank ye. » | « A bɛ i ko a tun bɛ diya kosɛbɛ. » |
-| « I ye o fɔ n ye kaban. » | « N bɛ maana in kanu. » |
+| "I bɛ o hakili la wa?" | "O ye don ɲɛnɛ ye. I ka o kuma ne ye." |
+| "Ninnu ye jɔ ye?" | "Ninnu ye Tant Rose ye sɔgɔsɔgɔ kɔnɔ. Filɛ o ɲɛfɛ." |
+| "O ye jɔn san ye?" | "O ye ka ɲɛfɛ ka so kɔrɔ ye. I ka o kuma ne ye." |
+| "Ayi, o tɛ Bill, o ye Frank ye." | "A ye kɔnɔ ɲɛnɛ ka bon." |
+| "I ka o kuma a fɔ ne ye kɔrɔ." | "Ne bɛ o kuma ɲɛ kosɛbɛ." |
 
-## Cogo di ka baro kɛ jaaw kan k’a sɔrɔ ɲininkali ma kɛ ?
+## Fɔtɔw kuma cogo di ka sɔrɔ ka kuma tɛ sɛgɛsɛgɛ tɛ?
 
-I ye min ye, o fɔ fɔlɔ, o kɔ i ka yɔrɔ to mɔgɔ ye a ka fɛn dɔ fara a kan n’a b’a fɛ.
+Fɛn min ka i ye, o kuma fɔ ka ɲɛfɛ, ka kɛ ka kɔrɔ ka jaabi ka to mɔgɔ ka ɲɛ ka fɛn dɔ fɔ ni a fɛ.
 
-1. **Sigilen kɛ ɲɔgɔn kɛrɛfɛ.** Alibɔmu minɛ aw cɛ, walisa aw ka lajɛ ɲɔgɔn fɛ, a tɛ kɔrɔbɔli ye tabali fan wɛrɛ fɛ.
-2. **Ja damadɔ sugandi.** Ja ɲuman duuru ka fisa ni kɛsu dafalen ye. Ja belebelew, jɛlenw de ka ɲi kosɛbɛ.
-3. **Mɔgɔw tɔgɔ fɔ i yɛrɛ.** « Nin ye i ni Baba ye aw ka furu don na » o bɛ degun bɔ.
-4. **Fɛn misɛnninw kofɔ.** Finiko, mobiliw, dumuni, wagati, ɲɛda. « Mobili nin ka ɲi. A bɛ manamana. »
-5. **Weleli kɛ, kana wajibiya.** « Nin ɲɛfɔ n ye... » walima « I bɛ mun ye ? » Makun tɛ baasi ye.
-6. **A ka taama tugu.** N’a ye baro yɛlɛma ka taa fɛn wɛrɛ la, a tugu.
-7. **A dabila a diyara tuma min na.** Alibɔmu datugu sanni sɛgɛn ka don.
+1. **Sigi ɲɔgɔn kɛrɛ.** Sigi fɔtɔ kitabu kɔnɔ ni kelen ye, i ka ɲɛ ka fɔtɔ ɲɛ ɲɔgɔn fɛ, aw kana sigi tabili ni kelen ye ka ɲɛnɛ kɛ.
+2. **Fɔtɔ dama sugandi.** Fɔtɔ naani ɲɛfɛ bɛ ɲɛ ka tɛmɛ fɔtɔ bolo caman kan. Fɔtɔ ɲɛfɛ ni fɔtɔ jan ka ɲɛfɛ.
+3. **I yɛrɛ ka mɔgɔw tɔgɔ fɔ.** "Nin ye i ni Papa ye i ka sɛnɛ don ɲɛnɛ." O bɛ ɲɛgɛn bɔ.
+4. **Fɛn ɲɛfɛ ka kuma kɛ.** Kɔnɔ, fiyɛ, dumuni, sɛnɛ, mɔgɔw ka ɲɛ. "Fiyɛ nin ye ɲɛ ka ɲɛfɛ, a ye ka ɲɛnɛ."
+5. **Ka wele, kana ɲɛnɛma kɛ.** "I ka ... kuma ne ye," walima "I bɛ min ɲɛ?" Sɛgɛn tɛ ɲɛfɛ.
+6. **Mɔgɔ ka kuma kɔrɔ.** Ni a bɛ kuma wɛrɛ fɔ bɔnɛ, aw ka a kɔ ka taa.
+7. **Ka sɔrɔ ni a bɛ ɲɛfɛ.** Ka fɔtɔ kitabu kɔrɔ sɔrɔ ka nɔgɔn ka a ye.
 
-Ni i bɛ ja ɲininkali labɛnnenw fɛ, i bɛ se ka [conversation cards](/games/conversation-cards/) kɛ. Walisa k’i yɛrɛ ka denbaya jaaw yɛlɛma ka kɛ tulonɲɔgɔnma nɔgɔman ye, i bɛ se ka [photo pairs](/games/photo-pairs/) kɛ; ja minnu i bɛ sugandi, olu bɛ to i ka navigatɛri kɔnɔ.
+Ni aw bɛ fɔtɔ kuma sugandi ta, [sɛnɛfɛnw kɔrɔ](/games/conversation-cards/) ka kɛ. Ni aw bɛ aw ka fɔtɔw kɛ ɲɛnɛ ɲɛfɛ dɔ ye, [fɔtɔ kelenw](/games/photo-pairs/) ka kɛ; aw ka fɔtɔw bɛ maa kɔnɔ aw ka navigateur kɔnɔ.
 
-## Cogo di ka hakilijigin kɛsu dilan ?
+## Hakili sɛnɛfɛn cogo di ka kɛ?
 
-Hakilijigin kɛsu ye fɛn minɛminɛn dɔ ye min falen bɛ mɔgɔ ka ɲɛnamaya fɛnw na, walisa ka minɛ ani ka baro kɛ.
+Hakili sɛnɛfɛn ye fɛn ye, min kɔnɔ fɛn ye mɔgɔ ka ɲɛnamaya ka fɛn, ka sɔrɔ ka kuma ni a fɛ.
 
-1. **Kɛsu barikama dɔ sugandi** min dayɛlɛni ka nɔgɔn, i n’a fɔ sanbɛrɛ kɛsu, fula kɛsu walima jiri kɛsu fitinin.
-2. **Barokun dɔ sugandi walima ka fɛnw ɲagami.** Baara, diyanyeko, yɔrɔ dɔ, wagati dɔ, walima fɛn fitinin bɛɛ la.
-3. **Fɛn lakananenw lajɛ.** Fɛn duuru fo tan ka ɲi ka daminɛ.
-4. **Fɛn nafamaw kopi kɛ.** Ja ni sɛbɛn minnu kopi tɛ yen, olu kopi kɛ, ka kɔrɔlenw mara u lakanani na.
-5. **Fɛn kelen kelen bɔ.** Fɛn kelen di, fɛn dɔ fɔ a kan, ka filɛ baro bɛ taa min.
+1. **Sɛnɛfɛn dɔ sugandi** min bɛ se ka kɛ ka tɛ bi, i n'a fɔ sakɛtɛ, chapeau sɛnɛfɛn walima kɔnɔ tabali.
+2. **Sɛnɛ walima fɛn caman dɔ sugandi.** Baara, sɛnɛ, dugu, waati dɔ walima fɛn caman.
+3. **Fɛn ɲɛfɛ ta.** Fɛn 5 ni 10 bɛ to ɲɛfɛ ka kɛ kɔrɔ.
+4. **Fɛn ɲɛnɛ kɔrɔ ka kɛ.** Fɔtɔ walima sɛbɛnw min tɛ se ka sɔrɔ tuma o tuma, o kɔpi ka kɛ ka o ɲɛnɛ maraka.
+5. **Fɛn kelen kelen bɔ.** Fɛn kelen di mɔgɔ ye, a ka kuma ɲɛfɛ, ka sɔn ka ɲɛ ka kuma bɛ taa min fɛ.
 
-Fɛn minnu bɛ se ka bila a kɔnɔ:
+Fɛnw min ka kɛ:
 
-- **Baara:** tɔgɔ baji, baarakɛminɛn fitinin, teniw yɔrɔ dɔ, jatebɔ gafew, furakɛlikɛla ka pin, dumunikɛyɔrɔ ka tobilikɛ gafew.
-- **So:** tobilikɛcogo karti min sɛbɛnnen bɛ a yɛrɛ bolo, minɛn ko safunɛ, fini kanulen walima karavati min ka di a ye.
-- **Diyanyeko:** jolige nɛgɛ min kɔnɔkɔnɔ bɔra, baseball, fani boli, yiri kisɛ pake.
-- **Yɔrɔw:** karti postalw, kartiw, taamakɛlaw ka hakilijigin fɛn, dugu fɔlɔ ka kunnafoni sɛbɛn yɔrɔ dɔ.
-- **Denbaya:** jaaw kopi, den ka ɲɛbɔli, furu weleli.
+- **Baara:** baara sɛbɛn fɛn, tiɛ fɛn ntɛ, baara sumanɛ, buku fɛn, sɛbɛn min bɛ fɔ ko a ye dɔnkili sɔrɔ.
+- **So:** sɛbɛn min bɛ kɛ a ka ɲɛ ka jaabi ye, sɔgɔ kɔnɔ fɛn, kɔnɔ wɛrɛ walima sɛnɛ.
+- **Dɔnkili:** siginɛ min tɛ mɔgɔ dɔ bɛ ɲɛfɛ, bɔlɔ, fuw, nɛgɛ sɛnɛ fɛn.
+- **Yɔrɔw:** postkarti, kaarti, sitanw ka fɛn, dugu ka kasɛ dɔ.
+- **Denw:** fɔtɔ kɔpi, denbaw ka nɛgɛ, sɛbɛn min bɛ fɔ ko baara dɔ bɛ kɛ.
 
-Fɛn misɛnninw, fɛn fitininw minnu bɛ se ka min, ani fɛn minnu bɛ se ka hakilijigin dimi lase, olu bila, fo n’i b’a lɔn ko u diyara.
+Fɛn gɛlɛnw, fɛn min bɛ se ka dɛ, ani fɛn min bɛ hakili kɔrɔ dimi ka bɔ, o kana kɛ, ni aw ma a dɔn ko o bɛ ɲɛfɛ.
 
-## Cogo di ka ɲɛnamaya tariku gafew dilan ?
+## Ɲɛnamaya kitabu cogo di ka kɛ?
 
-Ɲɛnamaya tariku gafew ye alibɔmu nɔgɔman ye min kɔnɔ jaaw ni kumasen surunw bɛ yen mɔgɔ ka ɲɛnamaya kan. A ye fɛn ye min bɛ se ka lajɛ ɲɔgɔn fɛ, wa a bɛ lɔnɔgɔw ni ladonbaarakɛlaw dɛmɛ ka mɔgɔ dafalen ye.
+Ɲɛnamaya kitabu ye fɔtɔ ni sɛbɛn gɛlɛn ye mɔgɔ ka ɲɛnamaya kɔnɔ. A ye ka ɲɛnɛ ni ɲɛnɛma ye, ka dɛmɛ ka bɔ fɔtɔ kɛlɛw ni kumaw ka mɔgɔ ka kɔrɔ.
 
-1. **Cogo dɔ sugandi.** Dosiyɛ min kɔnɔ sɛbɛn lakanalanw bɛ, ja gafew min bɛ sɛbɛn, walima ja jiralan tabalɛti kan.
-2. **Yɔrɔ damadɔ labɛn.** Denmisɛnya, kalanso, baara, denbaya, sigiyɔrɔw, dannako, diyanyeko, dumuni ni dɔnkili minnu ka di a ye.
-3. **Ja kelen walima fila fara ɲɛ kelen kan** ni kumasen surun ye, sɛbɛnni belebele: « Mary, saan 22, a ye baara daminɛ banki la. »
-4. **A diyanyefɛnw ni a ka delikow fara a kan.** « A bɛ kafe min ni nɔnɔ ye. Dimansi dɔnkiliw ka di a ye. Telewisɔn mankanba tɛ diya a ye. » O bɛ mɔgɔ o mɔgɔ dɛmɛ min b’a ladon.
-5. **Mɔgɔ sen don a la** a b’a fɛ cogo min na, ka jaaw sugandi, ka maana fɔ walima ka a lajɛ a bɛ ka labɛn.
-6. **A fara a kan ka taa a fɛ.** A man kan ka dafa walisa ka nafa sɔrɔ.
+1. **Ka kitabu kɔrɔ sugandi.** Kitabu min bɛ fɔtɔ bɔ ka ɲɛfɛ, fɔtɔ kitabu min bɛ kɛ, walima diaporama tablet kɔnɔ.
+2. **Ka kitabu tabali dɔ sugandi.** Denyɔrɔ, kalan, baara, so, yɔrɔ min bɛ sigi, dinɛ, fɛn min ka di ɲɛ, dumuni ni fɛn min ka di ɲɛ.
+3. **Fɔtɔ kelen walima fila ta kitabu kɔnɔ kɔnɔ kelen.** Sɛbɛn kɛnɛ, ɲɛfɛ ni sɛbɛn gɛlɛn: "Mariama, san 22, a ka baara daminɛ banki kɔnɔ."
+4. **Fɛn ɲɛfɛ ni ɲɛnɛ sɛbɛn.** "A bɛ kafe ni nɔnɔ min. A bɛ Dimanche dɔ mɔgɔ ka dɔnkili ɲɛ. A tɛ ɲɛ ka dɛ ni tele ka dɔnkili." O bɛ dɛmɛ mɔgɔ min bɛ a kɛ.
+5. **Mɔgɔ kɛ kitabu kɔnɔ** a ka waati ni a ka hakili bɛ se, ka fɔtɔ sugandi, ka kuma fɔ, walima ka a ɲɛnɛ.
+6. **Ka kitabu kɔrɔ ka ɲɛ.** A tɛ ka kɛ ka ɲɛnɛ ni a ka kɛ, ka kɛ ka ɲɛfɛ.
 
-## Hakilijigin baara hakɛ wɛrɛw
+## Tɛmɛnen kɛlɛw wɛrɛ
 
-- **A ka denmisɛnya dɔnkiliw fɔ** ka baro kɛ a bɛ taa min. A lajɛ [dɔnkili baaraw](/activities/music/) kɔnɔ.
-- **So wideyow walima telewisɔn porogaramuw lajɛ** minnu bɔra a ka wagati diyalenw na.
-- **A ka denmisɛnya dumuni dɔ tobi** ka kɛsu bila baro ka ɲɛminɛ.
-- **A ka dugu fɔlɔ karti lajɛ** ka siraw tugu minnu bɛ dɔn.
-- **Katalɔgu kɔrɔw walima gafe misɛnninw minɛ** ka baro kɛ sɔngɔw, finiko ni mobiliw kan.
-- **A ka maanaw mara** telefɔni na, n’a sɔnna, denbaya kama.
-- **A tila weleli senfɛ.** Ja kelen jira wideyo weleli senfɛ; a lajɛ [telefɔni ni wideyo weleliw](/activities/phone-and-video-calls/) kɔnɔ.
-- **Ja walima fɛn dɔ ta i ye n’i bɛ taa lɔnɔgɔya.** O bɛ lɔnɔgɔya nɔgɔya; a lajɛ [lɔnɔgɔya](/activities/visiting/) kɔnɔ.
+- **Dɔnkili ka waati ka kuma fɔ**, ka kɔrɔ ka sɔn ka ɲɛ o ka kɔrɔ ka kɛ. Ni i bɛ ɲɛ ka [dɔnkili kɛlɛw](/activities/music/) ta.
+- **Ka filimu walima tele ka kɛlɛ kɔrɔ** min bɛ ɲɛ mɔgɔ ka waati ɲɛfɛ.
+- **Ka sumaya dɔ ka kɛ min bɛ ɲɛ mɔgɔ ka denyɔrɔ,** ka sɔn ka ɲɛ ka kuma bɔ ni a ka ɲɛgɔnɔn ye.
+- **Ka kaarti walima dugu ka kaarti ta,** ka kuma kɛ ka dugu ka sira ɲɛfɛ.
+- **Ka kataloɡ walima jɔnɔ ta,** ka kuma kɛ ka fɛn ka ɲɔgɔn, ka sɔn ka ɲɛ ka sɛnɛ ni sitanw kuma.
+- **Ka a ka kuma sɛbɛn telefɔn kɔnɔ,** a ka yafa ni, denw ka dɛmɛ la.
+- **Ka fɔtɔ dɔ bɔ wele kɔnɔ.** Ni i bɛ wele kɛ video kɔnɔ, fɔtɔ kelen bɔ; [telefɔn ni video wele](/activities/phone-and-video-calls/) ka ɲɛ.
+- **Ka fɔtɔ walima fɛn dɔ ta ni i bɛ taa.** O bɛ taa ka kɛ ka ɲɛfɛ; [taa](/activities/visiting/) ka ɲɛ.
 
-## Ni hakilijigin dɔ bɛ dimi, n ka kan ka mun kɛ ?
+## Ni kuma bɛ hakili kɔrɔ ka kɛ hɛrɛ ka bon?
 
-Hakilijigin dɔw bɛ se ka dusukasi, nimisa walima siran lase. Ni mɔgɔ dusu kasira, a dabila, a dusu saalo, ka barokun walima baara yɛlɛma dɔɔni dɔɔni. Kana sɔsɔli kɛ min kɛra kan. Family Caregiver Alliance b’a laadi kana kɛ ka mɔgɔ lasɔn a ka fili la, ka a hakilinanw jaabi minnu bɛ jira, olu ye tiɲɛ ye. N’a bɛ kuma mɔgɔ salen dɔ kan i n’a fɔ o bɛ ɲɛnamaya kɔnɔ, dusukunnataw jaabi: « I b’a ɲɛ fɛ. A ko ɲɛfɔ n ye. »
+Kuma dɔw bɛ dusu nɛ, pɛrɛ walima siran. Ni mɔgɔ bɛ kɔnɔ, aw ka kɛlɛ ka to, ka hɛrɛ kɛ, ka kuma walima kɛlɛ dɔ kɛ kɔrɔ ka taa. Aw kana kɛ ka wale ni a fɛ ko kuma tiɲɛ tɛ. Family Caregiver Alliance bɛ o fɔ ko aw kana kɛ ka mɔgɔ ka hakili kɔrɔ ka sɔn, ka a ye ko a tɛ tiɲɛ ye; ka sɛgɛsɛgɛ ka hakilina min bɛ a yɛrɛ ka yɛrɛ ɲɛ. Ni a bɛ kuma ni mɔgɔ min ka sa ye, a bɛ o kɔrɔ ka a ye ko a bɛ ɲɛnɛ, ka fɛn min ka hakilina ɲɛ: "I bɛ a ɲɛ. I ka a kuma ne ye."
 
-## Sɛgɛsɛgɛli bɛ mun fɔ ?
+## Ɲɛnɛma ye mun fɔ?
 
-[Cochrane ka hakilijigin baara sɛgɛsɛgɛli lajɛ](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), min ye kɔrɔbɔli 22 ni mɔgɔ 1 972 lajɛ, o y’a sɔrɔ ko nɔw tun tɛ kelen ye, u tun fitinin don, wa u tun bɛ danfara yɔrɔ ni cogo fɛ. A ma tɔɔrɔ fɛn si sɔrɔ mɔgɔw la minnu bɛ ɲɛnamaya kɛ hakilijigin na. An bɛ hakilijigin baara laadi bawo a bɛ se ka wagati dususuma ni nafa sɔrɔ ɲɔgɔn fɛ, a tɛ furakɛli ye. Baro nɔgɔman kan, i bɛ se ka [kumakan ladilikanw](/caregiving/communication-tips/) lajɛ.
+[Cochrane sɛbɛn min bɛ tɛmɛnen kɔrɔ](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), min ye ɲɛfɛ ka 22 ni mɔgɔ 1,972 ka kɔrɔ, a sɛbɛnna ko ɲɛfɛ ye ka tɛ kelen ye, ka dɔgɔ, ka kɛ yɔrɔ ni sɛnɛ ka fɛn ye. A ma sɔrɔ ko o bɛ dementia ka mɔgɔw ka kɛlɛ ɲɛ. An bɛ tɛmɛnen fɔ bawo o bɛ se ka kɛ ɲɛfɛ ni sɛgɛsɛgɛ tɛ kuma ye, ka kɛ wari ka mɔgɔ ka dɔnkili walima kɛlɛ ye tɛ. Kuma ɲɔgɔn ka sɛbɛn kɔrɔ, [kumako ɲɛfɛ](/caregiving/communication-tips/) ka ɲɛ.

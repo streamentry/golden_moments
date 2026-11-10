@@ -1,32 +1,34 @@
 ---
-title: "Dementia ukampi jakasir jaqinakatakix musica lup'iwinaka"
-seoTitle: "Dementia musica lup'iwinaka: listas ukat ideas"
-description: "Kunjamasa musica uñtañataki dementia ukampi jakasir jaqi ukampi: jupa jaqin listapa, genero ukat pacha sapa, 15 sencillo musica lup'iwinaka, ukat yatichäwinaka sapa etapa."
+title: "Jaylli sarnaqañanaka amtañ jan waliki jaqinakatakix"
+seoTitle: "Dimensia jaylli sarnaqañanaka: Jaylli laykux ideas"
+description: "Kunjamsa jaylli uñtasiñ amtañ jan waliki jaqimpi: jaylli laykux, jaylli 15 sarnaqañanaka, ukat ch'iqa pachanakan yatiyawinaka."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Musica ukax dementia ukampi jakasir jaqi ukamp uñtañataki qhan sencillo
-  lup'iwinakanwa. Jupa jaqin listap luraña, jupa wawachkana, tupaña ukat
-  yatiqañ musicampi, ukat chiqpach jaqi ukampi lup'iña. Pacha ukar kuna
-  musicas lup'iñ sum irpañapataki, sut'ita sarnaqaña, ukat jupa jan kusisiñ
-  musica sayaraki ukhamawa sayt'ayaña.
+  Jaylli, amtañ jan waliki jaqimpi uñtasiñataki sumpach sarnaqañanakan uñstati.
+  Jaylli laykux, jaylli yuqallañkama, iglisiyan ukat familyan jaylli uñtasiñ
+  jaqi yatxataña, jaylli jan anunciusa ukat jan sarnaqañ jan ch'iqaskana
+  uñt'ayañ, jaylli jaytayañ, t'ijtayañ, jach'a jaylli t'ijtayañ jan ukax sapa
+  jaylli ist'aña. Jaylli jan ch'uxñaña kunjamsa jaqirux wali ukhamaraki
+  jaylli sañ jan muspharañ, ukat jaqi jan kusisitap jaylli yatxataña jan
+  jaytayañ.
 keyPoints:
-  - "Jupa jaqin musicapax sum askiwa: jaqichasiñ mayt'asa, jupa jaqin iglesia, marka ukat ayllu uñt'äwinakan musicapa."
-  - "Mä musica sapa kuti lup'iñ, janiw anunsiwinakanakampi, ukat TV ch'iwtaña."
-  - "Wayneñ musica, tupaña, jaltaña ukat chiqpach ist'añax sapa kunaw jan sarnaqañ mayjt'añatak."
-  - "Ch'iwiñataki khuyaña musica, sarnaqañ ukhamarak kusiswinakataki chuymaña musica ocupa, ukat jaqi kunjamas sarnaqaski uñjaña."
-  - "Lup'ir musicas kuna uñt'äwinaka yatiqañ qhanächañ jan wali, ukat musicax janiw mä amtañak ukhamäkiti, jan ukax uñt'aña ukhamawa sarnaqaña."
+  - "Jaylli kunapachas askaraki: jaqi ch'iqa pachanakan kusisitapxäna ukanakax, ukhamaraki iglisiyan, jaqi ukat familyan jaylli."
+  - "Mä jaylli ist'añ sapa kuti, jan anunciunakampi, ukat TV jan uñt'ayañ."
+  - "T'ijtayañ, jach'a jaylli t'ijtayañ, jaytayañ ukat jaylli ist'añ, taqi ukanakax sarnaqañ thakhinakawa."
+  - "Jaylli ch'iqa ukat jach'a jaylli ocupañataki: ch'iqa jaylli jaytayañatakix, jach'a jaylli ch'uymaña ukat jaqi kunjamsa sarnaqañ uñjañ."
+  - "Yatiyawinaka jaylli yatxataña jan askiwa; janiw jaylli amparañ thakhi ukhamaraki jaylliru sum tratamientoruw uñt'añ munkiti."
 faq:
-  - q: "¿Kuna musica dementia ukampi jakasir jaqinakataki askiwa?"
-    a: "Jupa jakasir jaqi ukax kawkhantix sapa uñt'äna, ukat sapa sarnaqañ musicanak uñt'añ. Jupa jaqin uñt'äwinakan ukat ayllu ch'iwinakan musicapa. Ukaxa jupa parlañ amtaña, jupa jaqi sarnaqañ uñjaña. Jupax kunsa ist'añ ukhamarak jan kusisiñ musica tuqita wali yatiña."
-  - q: "¿Auricularesa jan ukax jupa jaqi ukaru ist'añ?"
-    a: "Kunti jaqinakax auricularesa kusisipxi, jupa sayaraki, ukat yaqhipanakax jan wali uñt'apxi. Nayrax altavoz ukampi lup'iña, ukatpï jupa jaqimpi ist'asiña. Auricularesa ocupa ukhax, lup'iñ muspa sut'ita ukat jupa jaqi sayt'asiña."
-  - q: "¿Musica ukax chuymaña jan ukax jan sum jaqi ukatak yanapt'araspa?"
-    a: "Ch'ikhi ukat yatiñ musicax jaqi ukatak sumankaña uñjañataki yanapt'ayaspa, ukat Alzheimer's Association ukax musicamp pacha lurañ yatichi. Janiw sapa kutiw lurkaspa. Jupa jaqi jan kusisiñ ukhax, ch'ikiña, yapuña, jan ist'añ jan ukax jaqi ch'allaña uñjañamawa."
-  - q: "¿Qhipa etapa dementia ukamp jakasir jaqinakax musica kusisipxitaspa?"
-    a: "Askinakax kusisipxi. Alzheimer's Association ukax yatiyi qhipa etapa jaqi jupa wawana cancion ukampi tupaña jan ukax jaltaña ukhamarak sarnaqaspa. Jupa jaqi jakañ chiqaru sayt'asiña, musica ch'iwiñ lup'iña, jan ukax ampara ukat thuraña."
+  - q: "¿Kuna jaylli ukax amtañ jan waliki jaqitakix askiwa?"
+    a: "Jaqi wali yatiyata ukat kusisitata jaylli, sapa kuti sarnaqañat, ukat iglisiyan, cultura ukat familyan jach'a uñtasiñanakan jaylli. Jakhu ukax jaqi munañap uñjañ. Jaqi t'aqa ukat janchi uñjañ kuna jaylli kusisiyaspa uk yatiñataki, ukat kuna jaylli jaqi jan kusisiyañ uñjañ uk jaytañ."
+  - q: "¿Auricular ocupañ ukhaxa?"
+    a: "Mayni jaqinakax auriculares kusisipxi, ukax sarañ jisk'a sapa ukat jaylli; ukampirus mayninakax janiw kusisipkiti jan ukax juchañchasipxi. Jisk'a parlantemp yatxataña, ukhamat jumampi ist'añataki. Auriculares ocupasaxa, jaylli sañ jisk'a uñjañ ukat jumax jaqi qhipan qhitasiñ."
+  - q: "¿Jaylli ukax jaqi jan amuyasitap ukat jan kusisitap yanapt'atañapakix?"
+    a: "Ch'iqa ukat yatiyata jaylli, ch'uymaña pachan uñt'ayañatakix yanapt'añapa, ukat Alzheimer's Association ukax jaylli uñt'añ jaqi munañap uñjañ amuyañ siwa. Janiw taqi kutinakan askiwa. Jaqi llakisitan ukhaxa, jan janchi, yarqaña, jan ist'añ ukat qhiparasiñ uñjañ."
+  - q: "¿Jaqinakax ch'iqa pachanakan ukhamarak jaylli kusisipxaspati?"
+    a: "Walja jaqinakax kusisipxi. Alzheimer's Association ukax yatiyi, ch'iqa pachan jaqix ukhamaraki t'ijtayañ jan ukax wawäkan jaylli yatiñ jaylli sarañ. Jumax ch'iqa jaylli ist'añ, jaqi amparapa jan ukax jaytayañ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +47,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Musica ukax dementia ukampi jakasir jaqi ukamp uñtañataki qhan sencillo luräwinakanwa. Janiw kunsa chiqa jawsatanakax utjkiti, janiw kunsa purïñanakax utjkiti. Mä jach'a jiwasa yatiñ lup'iña, jupa jaqi ukax wawachañ, jan ukax ist'añ qala sarnaqañ. Ch'ikhi parlañanakax jan sum ukhasa, mä yatiqañ tupaña ukax muna jaqi ukat jaltaña ukhamarak sayt'aña. Kunti jupa jaqitakix musica ukat mä chiqa pacha lup'iñataki.
+Jaylli, amtañ jan waliki jaqimpi uñtasiñataki sum thakhinakan uñstatapxi. Janiw kuna yatiñanakas mayt'añkiti, janiw kuna sarnaqañanakas kiti. Mä munat jaylli, mä jaytaña, jan ukax mä arunakax jaylliru jaqintaña uk uñjañ, ch'iqa pachan ukhamarak wali jaqimpi sarnaqañ jan askïspa. Jumatakix jaqi jaylli ukhamaraki mä jisk'a pacha jaylli ist'añataki ukax chiqpachaw munasi.
 
-## ¿Kuna musica lup'iwinakas dementia ukampi jakasir jaqinakataki askiwa?
+## ¿Kuna jaylli sarnaqañanakas amtañ jan waliki jaqinakatakix askiwa?
 
-Ist'aña, jaltaña, tupaña, sayt'aña ukat musica tuqita parlaña ukax sum sarnaqañawa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ukax yatichi musica lup'iñ, musica ukat artista tuqita parlañ, yatiyata cancionanakampi jaltaña jan ukax tupaña, ukhamarak marka uñt'äwinakan jan ukax musica uñt'äwinakan sarañ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ukax sapaki yatichi tupaña ukat jaltaña ukax kusisiñ askichaski, ukhamarak musica jupa jaqi ukamp chiqpach sarnaqañ thakhi ukhamawa, arunak jan sum ukhasa.
+Jaylli ist'añ, jaylli t'ijtayañ, jaytayañ ukat jaylli parlayañ taqinakax sumpach. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi jaylli ist'añ, jaylli ukat jaylliri yatxataña, mä jaylli jaytayañ jan ukax t'ijtayañ, ukhamaraki yuqallañkama jaylli jan ukax jaylli uñt'ayañ ch'iqa pachanakan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ukax yatiyi jaytayañ jan ukax t'ijtayañ kusisiñ walt'ayi, ukhamaraki jaylli jaqimpi sarnaqañ thakhi ukax arunakax jan sum saraqañ qhipäkan.
 
-## ¿Kunjamasa jupa jaqin listapa lurasna?
+## ¿Kunjamsa jaylli sapa jaqi jaylli luraña?
 
-Kunti luraña askïki ukax mä lista musicanakampi, jupa jaqitakix kuna uñt'äwinakas utjki ukanakampi. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ukax yatichi musica kuna uñt'äwinakas utjki ukanakampi. Akax mä sencillo thakhiwa lurañatakix.
+Jumatakix askiwa jaylli sapa jaqi jaylli luraña, jaqitakix kuna jaylli wali lup'ixi ukanakampi. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ukax yatiyi jaylli jaqi lup'iñapa. Aka jaylli luraña thakhi jisk'a:
 
-### Jupa jaqin uñt'äwinakampi qalltaña
+### Jaqi jakawipan qalltaña
 
-- **Jupa wawanakapa ukat mayt'asa.** Yatiña kunas radio, baile ukat cine ukanakan wawanaka ukhamarak uñjasipxäna.
-- **Jach'a pachanaka.** Boda ukan musica, mayt'asa baile, jan ukax jupa ayllu viaje ukan musica.
-- **Iglesia ukat marka.** Himnos, gospel, kunayman musica, jan ukax jupa aru ukan cancionanaka.
-- **Trabajo ukat servicio.** Banda musica, trabajo cancionanaka, jan ukax militar pacha ukan musica.
-- **Ayllu yatiñ.** Jan ukax jupa ayllu, wawanaka ukat sullka amigonaka jupa kuntix sapa lup'ipxäna ukanakan.
+- **Jaqi wawa pacha ukat jaqi mä chiqapa.** Amuyasiña kuna jaylli radiu, baile ukat cine uñt'atäna ukhamaraki jupanakax wawakïpan.
+- **Jach'a pacha.** Casarasiña pachan jaylli, primer baile ukat familyan wali munat jaylli.
+- **Iglisiya ukat cultura.** Himnos, gospel, jach'a jaylli ukat jaqi aru jaylli.
+- **Trabajo ukat servicio.** Banda de músicos, trabajo jaylli, jan ukax soldadunakan jaylli.
+- **Familya amtañ.** Jilanakaru, wawanakaru, machaq amigonakaru jisa kuna jaylli sapa yatiñ jan ukax jayllapxitap.
 
-### Genero ukanakan yatiqañ, janiw cancionanakax mayt'asa
+### Jaylli genero sapa ukan janiw mayjt'añkiti
 
-Jan yatiñ kawkiruw qalltañ ukax, akanakan mä qhipa minutos lup'iñamaw, ukat uñjañamawa: big band ukat swing, doo-wop, Motown ukat soul, early rock and roll, country ukat western, bluegrass, gospel ukat himnos, Broadway cancionanaka, jazz standards, Latin musica ukhamarak bolero jan ukax mariachi, polka, folk ukat clásica. Kunti kusisiñ jan ukax tupaña jaltaña ukanaka prizaña; kunti jan kusisiña ukanak jaytaña.
+Jumax janiw yatkätati kawkiri qalltañ ukax, mä chiqar sarnaqañ: big band ukat swing, doo-wop, Motown ukat soul, nayra rock and roll, country and western, bluegrass, gospel ukat himnos, Broadway jaylli, jazz, Latin jaylli ukhamarak bolero jan ukax mariachi, polka, folk ukat clásica. Kusisiñ jan ukax t'ijtayañ jaqi uñjañ uk prizar; llakiyañ uñjañ uk jaytañ.
 
-### Lup'iñ sum irpañataki
+### Ukanak sarnaqañataki jaylli sum
 
-- **Janiw anunsiwinaka.** Alzheimer's Association ukax yatichi anunsiwinakax jaqi ch'ikhiyañ sum utjañ. Jupa descargado musica, CD, disco jan ukax janiw anunsiwi servicio ukanak apnaqaña.
-- **Mä sencillo aparato.** Mä altavoz, mä jach'a botón ukampi, jan ukax mä lista ukat chiqpach imt'ata ukax, kuna jaqis lup'iñataki.
-- **Paya sapa lista.** Mä ch'iwi lista ch'iwiñataki, ukat mä tupaña lista chuymaña ukhamarak jan kusisiñ ukhamawa.
-- **Sutirjama.** Aparato patxana jupa jaqi sutip ukat "musica kusisiñ" qillqaña, ukatpï jupa uñjasiñ ukat utachayiri jaqinakax lup'iñ.
+- **Janiw anuncios.** Alzheimer's Association yatiyi anuncionakax confusión luraspa. Descargar jaylli, CD, disco jan ukax mä jan anuncio servicio ocupañ.
+- **Mä jisk'a aparato.** Mä parlante jach'a botón, jan ukax mä playlist ukax sapa kuti sarañataki, ukhamat sapa jaqi qalltañataki.
+- **Paya jisk'a lista.** Mä ch'iqa lista jaytayañataki, ukat mä jaylli lista kusisiñataki.
+- **Sutip qillqaña.** Aparato patan jaqi sutip ukat "jaylli munat" qillqaña, ukhamat jaqi familyaki ukat cuidado ukanakax ocupapxañapataki.
 
-## Pachpa uñt'äwinaka 15 musica lup'iwinaka amtañataki
+## 15 jaylli sarnaqañanaka ukat jaytañataki
 
-1. **Chiqpach ist'añ.** Mayni mayni sayt'aña jan kunsa ukhamarak. Ist'aña ukax mä phuqhata lup'iwiwa.
-2. **Cancionanakampi jaltaña.** Nayraqat jaltaña qalltaña. Jan arust'asa jan ukax arunak suma sut'iña ukax yatiñ.
-3. **Tupaña jan ukax pacha ch'allaña.** Rodillanak ch'allaña, mesa ch'allaña, jan ukax chiqa sayt'ayaña ukat mä chiqa tambor ukhamarak sonaja.
-4. **Sayt'asa baile.** Amparanaka katuntaña, cocina ukan sayt'asa jan ukax sayt'asaw baile, ukat amparanakampi sapa kuti luraña.
-5. **Pañuelo baile.** Pañuelo sumata mayt'añ musica pachampi, sayt'asa jan ukax sayt'asaw.
-6. **Musica tuqita parlaña.** Mayt'aña, janiw yatiyañ: "Akax baile salón ukax sasa. Baile tuqita parlt'asiñamawa." Janipuniw "¿Akax cancionan yatiñ?" sasa jan arusiñ.
-7. **Mä álbum phuqhata lup'iña.** Mä disco kusisipkäna ukax, qalltat tukuyaña, café ukampi.
-8. **Álbum portadas uñjaña.** Disco sobres uñjaña ukax askiwa, moda, auto ukat uñt'äwinaka tuqita parlaña.
-9. **Mä musical uñjaña.** Mä pelicula jan ukax concierto jupa pachana, mä qhipa tuqinak ukat parlañ.
-10. **Mä instrumento lup'iña.** Mä jupa piano jan ukax guitarra yatiqirinakax sencillo lup'iña kusisipxi. Qhipa tuqinakan mä qhipa notas mayt'asiñax askiwa.
-11. **Luraña musicampi.** Kusisiñ cancionanaka lurañanakan, uma aptaña jan ukax mesa sayt'ayañ.
-12. **Thaya musica.** Sapa uru mä sum wayna cancion ukampi qalltaña, sapa uruw sarnaqaña.
-13. **Himnos jan ukax iglesia musica.** Jupa iglesia musica lup'iña, ukat jaltaña chiqpach.
-14. **Mä jaltañ grupo mantaña.** NHS ukax yatichi jaltañ grupo ukax chuymaña ukat sum sarnaqañataki. Jupa chiqan dementia ukampi walja jaqinakataki coro ukanak jawsaña.
-15. **Mä musica jakaña.** Mä phuqhata concierto jan ukax musica jaya uraqinkan. Puerta ch'iwiñ sayt'aña, kuna pachas sarañ.
+1. **Ch'ikhankama ist'añ.** Mayniw kuna jaylli jan ukax jan kuna jaylli jan ukax ch'iqa uñjañ. Ist'añax mä jach'a sarnaqañawa.
+2. **Jaylli parlañ.** Jumax qalltam jaylli ist'añ. Jan aruni jan ukax jaylli bocax jan jaytayañ ukax yanapt'.
+3. **T'ijtayañ jan ukax jaylli t'ijtayañ.** Rodillas t'ijtayañ, mesa t'ijtayañ jan ukax mä jisk'a tambor ukat shaker ocupañ.
+4. **Ch'iqa baile.** Amparapa sarañ ukat cocinan sarañ jan ukax jaqi chiqan t'ijtayañ, bracitus wali jaqi chiqan.
+5. **Pañuelos ukat baile.** Jaylli jach'a mä pañuelo maqhatañ, sayt'añ jan ukax t'ijtañ.
+6. **Jaylli parlañ.** Mayni jaqir jaylli jan yatiñ: "Ukax baile salón ukhamaraki uñt'ayi. Parlt'añ kunjamsa bailanakax." Janiw "¿Akax jaylli amtasmati?" sañ jan sañamti.
+7. **Mä albúm taqi.** Mä disco jaqi kusisitap uñjañ, kallpat, cafe ukamp.
+8. **Albúm portadanaka uñjañ.** Nayra disco uñt'äwi ukhamaraki moda, auto ukat jaqinak parlañataki askiwa.
+9. **Mä musical uñjañ.** Mä película jan ukax concierto jaqi pacha uñjañ askiwa. Jan jakañ pausa.
+10. **Mä instrumento ukax yatiñ.** Mä piano jan ukax guitarra yatiri jaqi jisk'a t'ijtayañ kusisiñ. Qhipäkan mä jisk'a notas chuymp ayllu t'ijtayañ jakhawa.
+11. **Lurañ pacha jaylli.** Ch'uyñuqañ jan ukax mesa jaytañ pachan kusisitap jaylli.
+12. **Uru jaylli.** Sapa uru mä kusisitap jaylli qalltaña, rutina ukhamaraki.
+13. **Himnos jan ukax jach'a jaylli ist'añ.** Iglisiyan jaylli ist'añ ukat jaqimpi ayllu jaylli parlañ.
+14. **Coro ukar mantaña.** NHS yatiyi coro sarnaqañ askiwa kusisiñataki ukhamaraki wali sarnaqañataki. Markamp amtañ jaqi coro sarnaqañ jan ukax dementia-friendly coro uñjañ.
+15. **Jaylli uñjañ.** Mä jisk'a comunidad concierto jan ukax jaylli phiña pacha. Sarañ puerta ch'iqana, ukat kuna pacha sarañ munañ uk sarañ.
 
-Mä yatiqañ sencillo arunakampi, [amuyt'añ arunaka](/games/finish-the-saying/) ukax askiwa, kawkiruw tukuyaña uñjañ jakaspa.
+Mä yanapt'añ jaylli ukat jaylli yatiñ, [finish the saying](/games/finish-the-saying/) uñjañ, ukanx jumax kuna pacha tukuyañ uñt'ayañ.
 
-## Pachaman musica sayt'ayaña
+## Jaylli sarnaqañ pacha uñjañ
 
-Alzheimer's Association ukax yatichi musica ocupa ukat jupa kusisiñ lurañataki: ch'ikhi musica chuymaña, ukat cancion sum wayna ukat chuymaña irpañataki.
+Alzheimer's Association yatiyi jaylli uñt'ayañ munat kusisiñ: ch'iqa jaylli chuymaña ch'uymaña, ukhamaraki jach'a jaylli jaqi jaqi nayra pachanakan jakhütañataki.
 
-| Pacha | Pruebay | Yatichäwi |
+| Pacha | Uñt'añ | Yatiyawi |
 | --- | --- | --- |
-| Sayt'aña | Mä sumata, kusisiñ cancion | Sapa uru mä cancion ukax mä sut'ita yatiqañ |
-| Trabajo | Askinak kusisiñ musica | Musica ukax trabajo ukar jupa jaqi ukampi lup'iñ uñjaña |
-| Manq'a | Sut'ita instrumental musica | Ch'iwiñ ch'ikhi ukax manq'añ jan jark'añataki |
-| Qhipa urun | Ch'ikhi, yatiñ musica sum kanti | Uñjañ [qhipa urun ch'ikhi](/caregiving/late-day-restlessness/) |
-| Irnaqaña | Ch'ikhi musica, ch'ikhi ch'ikhi | Ch'iwi musica ukat qhanalla sayt'aña |
-| Qhipa etapa | Jupa jaqin askinak cancionanakax, sut'ita | Qarümpi sayt'ayaña, amparamp katuntaña |
+| Sayt'añ | Mä kusisitap, jach'a jaylli | Sapa uru mä jaylli ukax sarañ thakhi |
+| Lurañ | Jach'a munat jaylli | Jaylli lurañ ukax jaqi chiqan sarañ |
+| Manq'a | Ch'iqa instrumental jaylli | Ch'iqa uñt'ayañ jan manq'añ jan jist'añataki |
+| Qhipa tarde | Ch'iqa, kusisitap jaylli wali inti | Uñjañ [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Anu punkhu | Ch'iqa, jisk'a jaylli | Qhipäkan ch'uymaña ukat qhanäkan ch'iqaru |
+| Qhipa pacha | Jaqi munat jaylli, ch'iqa ch'iqa | Jumax jakhu ukat amparapa sarañ |
 
-## Askinak lurañataki yatichäwinaka
+## Askinak jaylli kusisiñataki
 
-- **Yaqha ist'añ ch'iwiña.** Alzheimer's Association ukax yatichi punktanak jan ukax TV ch'iwiñ, ukat musica sapa ist'aña.
-- **Ch'iwi musica.** Musica sumata ist'añ, janiw jach'a. Jupa jaqi ist'añ aparatonaka apnaqaspa ukhax, uñjañamawa lurañataki; uñjaña [ist'añ](/brain-health/hearing/).
-- **Chuymaña cancionanaka uñjaña.** Yaqhipa cancionanaka llakisiñ, guerra jan ukax chiqpach ch'ikhi irpi. Cancion jupa jaqi ch'allaña ukhax, chuymaña ukat jaytaña.
-- **Jupa jaqi mantaña.** Askinak ukax jupa jaqi musica akhamarak ajllisiñ, ukat jan sasa arusiñ.
-- **Sapa ch'iwiña.** Phisqa minutos musica lup'iña jan ukax jaqi uñjaña ukat ch'iwi sarnaqaña, ukax askiwa.
+- **Jaqi jan jaylli ch'uymaña.** Alzheimer's Association yatiyi puertanak jan ukax ventananak sarañ, ukat TV jan uñt'ayañ, ukhamat jaylli jisk'a ist'añataki.
+- **Ch'iqa jaylli.** Jaylli ch'iqa sañ kusisitap, jach'a janiw. Jaqi audífonos ocupañ ukhaxa, uñjañ wali ch'uyñuqañ ukat sarañ; [hearing](/brain-health/hearing/) uñjañ.
+- **Llakiña yatiñ.** Mayni jaylli jan kusisiyaña yatiyi, jan ukax jaqi wanuñ. Jaqi llakisitap ukhaxa, yanapt'añ ukat jaylli mayt'añ.
+- **Jaqi munañap uñjañ.** Janiw jaqi munañ jan uñjañ jan ukax, jaqi jaylli ajllinaka, ukat jan sañ wali.
+- **Kuna pacha sarañ.** Pachp jaylli jisk'a sarañ askiwa. Jan ukax jaylli jaytañ ukat ch'uymaña sarañ askiwa.
 
-## ¿Kunsa investigación musica tuqita dementia ukampi arum?
+## ¿Kuna yatiyi jaylli amtañ jan waliki jaqinakatakix?
 
-Yatiñ jan walja. [Cochrane review 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ukax 30 yatichäwinak uñjaña, walja grupo asilo ukan. Ukax yatichi ukax musica jaltañ jupa jaqi chuymaña ukat jan ch'ikhi ukat jan jark'añ ukhamarak, ukat jan qhanäña sum mayt'añ, ukat jan sarnaqañ ukhamarak.
+Yatiyawi jach'a janiw. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) uñjañ 30 yatiñanaka jaylli sarnaqañ grupo, walja jaqinakax asilo ukan. Yatiyi jaylli ukax ch'iqa chuymaña ch'iqar yanapt'ayi ukhamarak llakisiña, ukampisa janiw kuna jaylli jan ukax amuyaña amtañax jan sum uñjatañ, ukat jaylli sarnaqañ tukuyatapat qhipäkan janiw sum uñjatäkiti.
 
-Musica lup'iñ ukax mä sumata, jan wali sarnaqaña ukhamaw, jan tratamiento ukhamakiti. Grupo ukanaka uñjañataki, [asilo utjañ grupo lup'iwinaka](/activities/care-home-groups/) uñjaña; musica fotonakampi ukat amtañanakampi lup'iñataki, [amtañ lup'iwinaka](/activities/reminiscence/) uñjaña.
+Jaylli uñtasiñax kusisiñ ukat ch'iqa sarnaqañ jaqinakampi kusisiñ ukhamaraki, janiw tratamiento sañkama. Grupo sarnaqañataki, [care home group activities](/activities/care-home-groups/) uñjañ; foto ukat jaqi yatiñanakampi jaylli, [reminiscence activities](/activities/reminiscence/) uñjañ.

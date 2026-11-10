@@ -1,33 +1,32 @@
 ---
-title: "Dementia la mɔgɔw ka ɲininkali dɔgɔ, gɛlɛya tɛ"
-seoTitle: "Dementia la mɔgɔw ka ɲininkali ni jabi ɲɛfɔ"
-description: "Dementia la mɔgɔw ye ɲininkali 50 dɔgɔ ye, ni jabi sugandilen ni kumaw ye, ani ka ɲininkali kɛ ka ɲɛ ko mɔgɔ si kɔnɔ tɛ ka hakili kɛ, ani ka sɛgɛn."
+title: "Dɛmansi Mɔgɔw Ka Sɛbɛnsɛbɛn Ɲɛnɛma, Gɛlɛya Tɛ"
+seoTitle: "Dɛmansi Mɔgɔw Ka Sɛbɛnsɛbɛnw, Jaabiw Ɲɔgɔn"
+description: "Dɛmansi mɔgɔw ka sɛbɛnsɛbɛn 50 ɲɛnɛma, jaabi sugandilenw ani kumaw ka kɛlɛ, ani cogo min na kɛ ka mɔgɔ si kɔnɔ tɛ."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Dementia la mɔgɔw ye ɲininkali dɔgɔ ka ɲɛfɛ ni kumaw ye, ni o bɛ kɛ i ka
-  kumakan ye, ka bɔ ɲininkali kɔrɔ. Kuma ka ɲininkali kɛ ka kɔnɔ kɛnɛ kɔfɛ, i
-  ko dumuni, dɔnkili, sigiɲɛ ani ɲɛnamaya ka ɲɛnajɛ, ka jabi ni bɛɛ ye ka kɛ
-  sanni fila walima saba ye. Jabi ka di ɲɛ ni ɲɛfɛ, mɔgɔ kelen kɔrɔ ka sɛgɛn
-  kɛ tɛ, ni jabi kelen bɛ kuma kɛ, o ka kɛ sɛgɛn ka fɔ. Ɲininkali min tɛ jabi
-  gɛlɛn na, o kɛra ɲininkali dɔgɔ ye, ni ɲininkali kɛ nin ko la.
+  Dɛmansi mɔgɔw ka sɛbɛnsɛbɛn kɛ ɲɛ ni a bɛ kɛ kumasɛbɛn ye, kɛlɛ ye tɛ. Aw ka ko ka bɔ
+  waati caman ɲɛ, i n'a fɔ dɔnkili, ɲɛnamaya ka dɔnniya, dɔnsɛbɛn ani sanuya ka kuma,
+  ani aw ka jaabiw ta sugandilen kelen-kelen. Jaabi ɲɛnɔgɔnw ka kɛlɛ ni jaabi ta ye,
+  ani sɛbɛnsɛbɛn ka dɔ kɛ kuma kɛ wɛrɛ ye. "Nin wala o" kɛlɛw, minnu si tɛ jaabi
+  tiɲɛ, bɛ se ka kɛ tɛmɛnɛ kɔnɔ sɔrɔ.
 keyPoints:
-  - "Ka ɲininkali kɛ kuma ka ɲɛnajɛ min ye ka ɲɛ kɔnɔ tuma ka tɛmɛ: dɔnkili, sigiɲɛ, sigiɲɛ ka kuma, dumuni ani ɲɛnamaya ka ɲɛnajɛ."
-  - "Sanni fila walima saba di ka jabi ka bɔ ka kɛ fɛn min ka ɲɛ ka dɔn, o bɛ kɛ hakili kɛ ka kɔrɔ, kɔnɔ tɛ ka hakili kɛ ka ɲɛnajɛ."
-  - "Jabi ɲɛfɔ ni ɲɛ ni ɲɛfɛ ka bɔ, ka kɔ tugu. Jabi o jabi min bɛ kuma daminɛ, o ye jabi ɲumanba ye."
-  - "Ka sɛgɛn kɛ, ka tɛ mɔgɔ kelen ka ɲɛ, ka tɛ kɛ mɔgɔ kelen ka ɲɛfɛ. Ka jabi bɔ mɔgɔ bɛɛ ka kɔnɔ."
-  - "Ni jabi sugandi bɛ gɛlɛya, o kɔ, ka ɲininkali kɛ ni sanni ye min tɛ jabi gɛlɛn, o ye o ye."
+  - "Ko ka kɛlɛ dɔnnin ko kan: dɔnkili, ɲɛnɛmaw, dɔnw, dumuni ani ɲɛnamaya ka kɛlɛ waati caman bɔ."
+  - "Jaabi ɲɔgɔn walima saba sugandi, walasa mɔgɔ ka jaabi dɔn, o tɛ ka dɔn hakilina kɔnɔ."
+  - "Jaabi fɔ ni nɛɛma ye ka tɛmɛ kɔnɔ. Jaabi o jaabi min bɛ kuma kɛ, o ye jaabi ɲɛ ye."
+  - "Ko si tɛ jaabi tɔɔrɔ, ko si tɛ ɲɔgɔn ka kɛlɛ, ko si tɛ mɔgɔ kelen wele. Jaabiw ka bɔ mɔgɔ bɛɛ kɔnɔ."
+  - "Ni jaabi sugandi bɛ gɛlɛya, o waati la, nin wala o kɛlɛw kɛ, minnu si tɛ jaabi tiɲɛ."
 faq:
-  - q: "Ɲininkali ye ɲɛnajɛ ye dementia la mɔgɔw ye wa?"
-    a: "A bɛ kɛ ɲɛnajɛ ye, ni a bɛ kɛ ni hɛrɛ ye. Alzheimer's Foundation of America bɛ ɲininkali ta ka kɛ fɛn ye min bɛ kɛ dementia daminɛ tuma la. Ka ɲininkali kɛ kuma ka ɲɛnajɛ min ye ka ɲɛ kɔnɔ tuma ka tɛmɛ, ka jabi di, ani ka mɔgɔ kelen ka ɲɛ tɛ ka gɛlɛya kɛ, ka jabi ye kuma ka dɔ ye, ka tɛ ɲininkali ye ka mɔgɔ ka hakili kɛ."
-  - q: "Ɲininkali ka kuma jumɛn ye dementia kɔrɔ ɲɛ?"
-    a: "Fɛn minnu ka ɲɛ ka dɔn tuma ka tɛmɛ, o bɛ ɲɛ kɔrɔ ka tɛmɛ: dɔnkili minnu ka ɲɛ ka dɔn, mɔgɔ minnu ka ɲɛ ka dɔn ka tɛmɛ, sanni minnu bɛ kuma kɛ, sigiɲɛ, cɛɲɛ, ani ɲɛnamaya ka ɲɛnajɛ, i ko sɔgɔsɔgɔ ka kuma ni sɔn. Ka kuma kɛ tɛmɛn tuma kɔrɔ, ani fɛn min bɛ kɛ ka hakili kɛ ka ɲɛ dɔn sɛgɛsɛgɛ kɔnɔ, o kɔrɔ."
-  - q: "Ka ɲininkali kɛ ka kɔrɔ ka tɛ ɲɛ kɔrɔ, cogo di?"
-    a: "Ka ɲininkali kɛ ka fɔ ka mɔgɔ bɛɛ ye, ka jabi fɔ, ka jabi di mɔgɔ bɛɛ ye. Ka tɛ mɔgɔ kelen wele, ka tɛ sɛgɛn kɛ. Ka jabi, ka kɛ ni dimi ye, ka tugu, ani ka ɲininkali tɛmɛn ka kuma, i ko: « Jɔnw ka bɔ ka bɛɛ ka wɔrɔ dɔ ka bɔ? »"
-  - q: "Ɲininkali kɔfɛ, ni dementia ka ɲɛ bɛ kɛ ka ɲɛ, o bɛ se ka kɛ juru ye?"
-    a: "Ka kɛ ni ka ɲɛ bɛ ɲininkali ye kɔnɔ tɛ, i ko « Kafe wala dɔnkili? » walima « Kɔgɛ wala kulu? » ani ka kuma ni ka jabi kelen ye, ka dumuni kɔrɔ ka fɔ, ani ka dɔnkili ni ka ɲɛ ka fɔ. Ka sanni kɛ ka ɲɛ ni sigiɲɛ ka ɲɛ ye, ka kɛ ka kuma sɔn, o bɛ ɲɛ kɔrɔ."
+  - q: "Sɛbɛnsɛbɛn ye dɛmansi mɔgɔw ye kɛlɛ ɲuman ye wa?"
+    a: "A bɛ se ka kɛ, ni a kɛra ni hɛrɛ ye. Alzheimer's Foundation of America bɛ sɛbɛnsɛbɛn fɔ kɛlɛw ɲɔgɔn ye minnu bɛ kɛ dɛmansi fɔlɔ waati la. Ko minnu bɛ kɛ ko ye waati caman ka dɔnniya ye, jaabiw di, mɔgɔ kelen si kan kɛ mɔgɔ kɔnɔ, ani jaabiw ka kɛ kuma sira ye, kɛlɛ ye tɛ."
+  - q: "Ko jumɛn ye sɛbɛnsɛbɛn ka ɲuman ye dɛmansi kɔnɔ?"
+    a: "Ko minnu dɔnnen bɛ se ka ɲuman kɛ waati caman, o ye waati ka ko ye. Dɔnkili minnu bɔra ɲɛnamaya ka ɲɛfɔ fɔlɔ, sɛbɛnw, dumuni, wulu, sɔrɔ ani ɲɛnamaya kɔnɔ ko w, i n'a fɔ sariya kɔnɔ kolo ka bɔ ani tɛlɛfɔnu ka kɛlɛ. Ko kura minnu bɛ dɔnkili kɛ, ni a bɛ kɛ ka hakili ta kɔ kɛlɛ kɔnɔ ɲɔgɔn ye, o ka kan ka bɔ."
+  - q: "Ka sɛbɛnsɛbɛn kɛ ka mɔgɔ ɲɛ si kɛ fitinin, mun ye min kɛ?"
+    a: "Sɛbɛn kuma bɛɛ bɛ mɔgɔ bɛɛ fɛ, jaabi bɛɛ bɛ se ka di mɔgɔ min bɛ se ka fɔ. Mɔgɔ kelen wele tɛ, sɛbɛn kɛ tɛ. Jaabi min bɛ fɔ, o kɔ, nɛɛma ni ɲɛ ye jaabi di, ani kɔfɛ kuma ɲɛnɛma kelen ci ka kɛ kumasɛbɛn ye, i n'a fɔ 'Mɔgɔ jumɛn ye yɔrɔ min na drive-in ye?'"
+  - q: "Ni dɛmansi kɛrɛnkɛrɛnnen na, mun ye sɛbɛnsɛbɛn kɔfɛ kɛ?"
+    a: "Jaabi si tɛ min bɛ kɛ jaabi tiɲɛ ye, o kɛlɛw kɛ, i n'a fɔ 'Kafe wala tɛ wa?' walima 'Kɔgɔ wala kulu?', ani ko dɔnnen tɛmɛni ka ɲɛfɔ kɛ ka kɛ ɲɔgɔn ye. Ɲɛnɛmaw ka ɲɛ ye ka kuma ni ɲɔgɔn ye, o bɛ ɲuman kɛ fosi."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,136 +45,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Ɲininkali ye sɛgɛsɛgɛ ye min bɛ kɛ ka caya ka tɛmɛ ni cɛ bɛ kɛ dementia la mɔgɔw ye, ani ni mɔgɔ caman bɛ o kɛ ni ɲɛsin wulu ye. A bɛ kɛ ni mɔgɔ fɛ ka ɲɛ ni ɲɔ ye, ni mɔgɔ kelen bɛ jabi di, a bɛ mɔgɔ kelen ka hakili kɛ ka ɲɛ kɔnɔ. Ni a bɛ kɛ ka ɲɛfɛ, a ye kuma ɲumanba ye min bɛ kɛ ka kuma ka kɛ. Ɲininkali dɔgɔ 50 bɛ nin ka kɔfɛ, ni jabi sugandilen ni kumaw bɛ o ka kɔfɛ, ani ka sɛgɛn kɛ cogo min na.
+Sɛbɛnsɛbɛn ye kɛlɛ ye min bɛ ka ɲɛ kosɔn ka tɛmɛ dɔ tuma caman na dɛmansi sɛnɛkɛla ni don-wotaasiɲɔgɔn ɲɔgɔn na, ani mɔgɔ caman bɛ a kɛ sɛnɛ kɔnɔ fosi fana. Ni a kɛra ka ɲɛ waati caman ni mɔgɔ kelen jaabi bɛ kɛ, o bɛ se ka mɔgɔ min bɛ dɛmansi kɛ, o bɛ mɔgɔ ɲɛ kɔnɔ. Ni a kɛra cogo ɲuman na, o ye kɛlɛ ye min bɛ kuma ɲuman kɛ. Ka bɔ yan, sɛbɛnsɛbɛn 50 ɲɛnɛma ka jaabiw ni kuma ye, ani kɔfɛ sɛbɛnsɛbɛn kɛli cogo.
 
-## Cogo jumɛn na ka ɲininkali kɛ dementia la mɔgɔ ye ka ɲɛ?
+## Cogo jumɛn na sɛbɛnsɛbɛn bɛ ɲuman kɛ dɛmansi mɔgɔ kama?
 
-Ka ɲininkali kɛ fɛn minnu ka ɲɛ ka dɔn tuma ka tɛmɛ ni ka hakili kɛ ka dɔn, ka jabi bɛɛ ka kɛ ɲɛ ye.
+A ka kan ka kɛ ko dɔnnen ni waati ka ko dɔnniya kan, ani jaabi bɛɛ ka kan ka kɛ ko ɲuman ye.
 
-1. **Ka sɛgɛsɛgɛ kɛ tuma ka tɛmɛ.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) b'a fɔ ko Alzheimer's ka ɲɛfɛ min bɛ kɛ daminɛ, o ye kɔrɔ ye ka fɛn kura dɔn ka hakili kɛ. Dɔnkili, sanni, ani ɲɛnamaya ka ɲɛnajɛ min bɛ kɛ san caman bɔ tuma ka tɛmɛ, o bɛ kɛ ka ɲɛ sɔn ka tɛmɛ.
-2. **Jabi bɛɛ di.** Jabi tɔ sanni fila walima saba ka bɔ ka kɛ ka sɔn ka kɛ ka ɲɛ ye, ka tɛmɛ ka fɛn fɔ ka kɛ kɔfɛ.
-3. **Ɲininkali kuma ka fɔ ka ɲɛ kɔrɔ ka ɲɛ ni cɛɲɛ.** Ɲɛsin ni tablɛt min bɛ kɛ ɲɛ kɔrɔ, o bɛ dɛmɛ mɔgɔw ye minnu ma ɲɛnajɛ kɛ kuma kɔnɔ.
-4. **Jabi di ka ɲɛ.** Ni mɔgɔ si ma dɔn, a ka fɔ ni dimi ye ka tɛmɛ kɔfɛ. Ka tɛ fɔ ko « I ka dɔn ko nin ye, sisan. »
-5. **Ka tɛ ɲumanba kɛ.** Ka tɛ mɔgɔ kelen ka ɲɛ ni ka tɛ ɲɛ ka kɛ kɔrɔ kɔnɔ. Ni mɔgɔw b'a fɛ ka ɲumanba dɔn, ka ɲumanba hakilina kelen kɛ ka ɲɛ bɛɛ ye.
-6. **Ka tɛ mɔgɔ kelen wele.** Ka jabi bɔ mɔgɔ bɛɛ ka kɔnɔ. Ni mɔgɔ kelen bɛ kɛ ni mɔgɔ kelen ye, ka jabi kɛ ni mɔgɔ fila ye: « Ne miiri ko a ye pianɔ ye. Aw miiri ko cogo di? »
-7. **Ka kɛ kuma ka dɔ ye.** Jabi ye daminɛ ye, a ma ban. Kuma ye ɲɛnajɛ ye.
-8. **Ka kɛ dɔgɔ.** Ɲininkali tan ni kuma ye tɛmɛn ka kɛ ka ɲɛ.
+1. **Ko waati ka ko ka bɔ.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) b'a fɔ ko Alzheimer's ka sɛnɛkɛlaya fɔlɔ min bɛ ɲɛ, o ye kuma dɔnnen kɔnɔ hakili tɛ kɛ. Dumuni, sɛbɛnw, ani ɲɛnamaya ka kɛlɛw minnu bɔra waati caman bɔ, o bɛ se ka kɛ kɛlɛ ɲuman ye.
+2. **Jaabi sugandilen di tuma bɛɛ.** Jaabi ɲuman sugandi saba kɔnɔ, o ka fɛ ka ɲɛ ni jaabi ɲuman ta ye kɔnɔ ɲɛnɛma.
+3. **Kuma ɲɔgɔn fɛ ka ɲɛfɔ dɔ, ka a yɛrɛ jira.** Tabali ni tablɛti minnu bɛ jɛ ɲɛfɛ, o bɛ dɛsɛ mɔgɔw ye minnu bɛ ka kan dɔ.
+4. **Jaabi di ni nɛɛma ye.** Ni tɛ mɔgɔ si dɔn, a fɔ ni hɛrɛ ye ka tɛmɛ kɔ. "Ayi, i b'a dɔn!" ko ka kɛ tɛ.
+5. **Ko si tɛ jaabi tɔɔrɔ.** Mɔgɔ kelen ka jaabi wala tabali ka jaabi, o si tɛ. Ni mɔgɔw b'a fɛ ka jateminɛ kɛ, jateminɛ kelen kɔnɔ ka kɛ.
+6. **Mɔgɔ kelen wele tɛ.** Jaabi ka bɔ mɔgɔ o mɔgɔ kɔnɔ. Ni kɛlɛ bɛ kɛ ni mɔgɔ kelen ye, aw ka jaabi ɲɔgɔn fɛ: "Ne miiri ko piano ye. Aw ka hakilina jumɛn ye?"
+7. **Kuma sira ka ɲɛfɔ kɛ.** Jaabi ye daminɛ ye, a ma ye laban ye. Kuma ye kɛlɛ ka ɲɛnɛmaw ye.
+8. **Ka a tɛmɛn dɔgɔya.** Sɛbɛnsɛbɛn 10 ani kumaw minnu bɛ kɛ sɔrɔ, o ka ca.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) b'a fɔ ka kɛ ni hakilina dɔ ye: a ye ɲɛ ka ɲɛfɛ kɛ dimi ye, ani ka mɔgɔ ka hakili ka kɛ ka ɲɛ ko a ka kɛ ka ɲɛ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) b'a fɔ ko ɲininkali bɛ kɛ ka ɲɛ kɔrɔ dementia daminɛ tuma la. Dementia kɔnɔ tuma la, jabi fila kɔrɔ ka kɛ, ka kuma kɛ ka ɲɛ kɔnɔ. Tuma min na, ka ɲininkali kɛ ka ɲɛ ye ka tɛmɛ kɔfɛ, i ko o jabi min bɛ ɲininkali kɔnɔ kɔfɛ.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) b'a fɔ ko ka dɔ kɛ: ka ɲɛ ta mɔgɔ dusukasi kan, ani ka a jira ko a ye ɲɛnɔgɔn ye. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) b'a fɔ ko sɛbɛnsɛbɛn bɛ kɛ sɛnɛkɛla fɔlɔ waati la. Sɛnɛkɛla kɔnɔ, jaabi saba ye kɛ sugandi fila ye, ani kuma sira kɛ. Kɔfɛ, ka kɛlɛ kɛ "nin wala o" kɛlɛw ye, minnu bɛ kɔfɛ dɔ kɔnɔ.
 
-## Dɔnkili ni sɛgɛsɛgɛ
+## Dumuni ani kɛlɛ sɛbɛnsɛbɛnw
 
-Jabi bɛ **gɛlɛn** ye. Ka ɲininkali nin ɲɛ ka kɛ ni mɔgɔ ye: mɔgɔ min kɔrɔ ka dɔnkili Motown ye, o bɛ fɛ ka sɛgɛ dɔ ka kɛ ni mɔgɔ min kɔrɔ ka dɔnkili big band ye, o ma kɛ ni o ye.
+Jaabi bɛ **gɛlɛn** kɔnɔ. Aw ka sɛbɛnsɛbɛnw ka ɲɛ mɔgɔ kan: mɔgɔ min ka ɲɛnamaya kɔnɔ ka dumuni Motown ye, o bɛ fɛ dumunikɛlaw wɛrɛ ye ni mɔgɔ min ka ɲɛnamaya kɔnɔ ka dumuni big band ye.
 
-| Ɲininkali | Jabi | Kuma ka fɔ |
+| Sɛbɛn | Jaabiw | Kuma ko |
 | --- | --- | --- |
-| Jɔ min tɔ bɛ wele « Rock and Roll ka Masakɛ »? | **Elvis Presley**, Frank Sinatra, Bing Crosby | I ye Elvis ye TV la ye wa? |
-| Dɔnkilila jɔ min tɔ bɛ wele Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Sinatra dɔnkili jumɛn ye aw fɛ ka tɛmɛn? |
-| Bing Crosby bɛ dɔnkili ko... ka kɛ ka ɲɛ kɔnɔ? | **Christmas**, sɛnɛfɛ, so | Ka dɔnkili ka kɛlɛ ɲɛ ni mɔgɔ fila ye |
-| Louis Armstrong bɛ dɔnkili « What a Wonderful... » | Don, **Dunuya**, Ɲɛnamaya | Jɔn bɛ dunuya ka ɲɛ ka di aw ma? |
-| « Over the Rainbow » ka dɔnkili Judy Garland ye film min kɔnɔ? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | I ye aw ka filimu ɲɛnamaya ka ɲɛ min ye, o ye min ye? |
-| Jɔ min tɔ ye Lucy ye « I Love Lucy » kɔnɔ? | **Lucille Ball**, Doris Day, Betty White | Sɛɲɛ min bɛ aw ka mɔgɔw bɛɛ ye TV la? |
-| Cow boy jɔ min tɔ bɛ sow kun Trigger? | **Roy Rogers**, Gene Autry, John Wayne | I ye cow boy ye ka ɲɛ kɛ baarakɛ dɔ la, aw ye? |
-| Jɔ min tɔ bɛ « The Tonight Show » ka kuma kɛ san 30 kɔnɔ? | Ed Sullivan, **Johnny Carson**, Bob Hope | I ye TV ka ɲɛ ka sɔgɔ dɔ ka kɛ tile la wa? |
-| Ni min bɛ 88 ka wulu ye? | Gitari, **pianɔ**, tirɔmɛt | Aw ka mɔgɔ dɔ ye ka ɲɛ kɛ? |
-| Dɔnkili min bɛ kɛ bɛ kɛ ka kɛ 1-2-3, 1-2-3? | **Waltz**, twist, tango | I ye sɔgɔ ka dɔnkili ye min na? |
+| Jɔn bɛ wele Rock and Roll Masakɛ ye? | **Elvis Presley**, Frank Sinatra, Bing Crosby | I ye Elvis ye TV kɔnɔ ye wa? |
+| Ɲɔgɔn bɛ wele Ol' Blue Eyes ye? | Dean Martin, **Frank Sinatra**, Perry Como | Sinatra dumuni jumɛn ye i fɛ ka ɲuman ye? |
+| Bing Crosby ka wulu dɔ, "white..." | **Christmas**, wedding, house | Dumuni kelen ɲɔgɔn fɛ |
+| Louis Armstrong ye "What a Wonderful..." dumuni fɔ | Day, **World**, Life | Mun bɛ dunia ɲuman kɛ i ye? |
+| Judy Garland ye "Over the Rainbow" dumuni fɔ film min kɔnɔ? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | I ye i ka film ɲuman ye min ye? |
+| Jɔn ye Lucy ye "I Love Lucy" kɔnɔ? | **Lucille Ball**, Doris Day, Betty White | Mun ye show min ye i ka mɔgɔw ye ɲɔgɔn fɛ ka ye? |
+| Cowboy jumɛn ye Trigger tɔgɔ ni sɔgɔ dɔ ye? | **Roy Rogers**, Gene Autry, John Wayne | I ye cowboy ye ka o kɛ abɔrɔ? |
+| Jɔn ye "The Tonight Show" kɛ san 30 ye? | Ed Sullivan, **Johnny Carson**, Bob Hope | I ye TV ye ka ɲɛnɛ kɔnɔ wa? |
+| Jaabi jumɛn ni 88 bɛ? | Guitar, **piano**, trumpet | Mɔgɔ dɔ ye ka o kɛ i ka mɔgɔw kɔnɔ wa? |
+| Jaabi jumɛn ye dance kɛ ka "hɛkɛ-fila-saba"? | **Waltz**, twist, tango | I ye dance kɛ minnu yɔrɔ? |
 
-Ka dɔ dɔn dɔnkili kɔnɔ ɲɛ, i ka [music activities for dementia](/activities/music/) ka ɲɛ ye.
+Dumuni kuma ka dɔ ye, [dumuni ka kɛlɛw dɛmansi kama](/activities/music/) ye.
 
-## Ɲɛnamaya ka ɲɛnajɛ ɲininkali
+## Ɲɛnamaya ka kuma sɛbɛnsɛbɛnw
 
-| Ɲininkali | Jabi | Kuma ka fɔ |
+| Sɛbɛn | Jaabiw | Kuma ko |
 | --- | --- | --- |
-| Fɛn min tɛ ɲɛ kɔrɔ, so caman bɛ dumuni ka maro ka kɛ cogo di? | **Ɲɛsi**, furu, gwan | Jɔn bɛ ɲɛsi nin ka sɔrɔ? |
-| Jɔ min bɛ ɲɛsi ka sɔrɔ ka bɔ ka dɔ ni tɛmɛ ka sigi? | Kɔlɔsili, **ɲɛsi kɛlɛ**, sigi ɲɛ | Jɔn bɛ fɛn wɛrɛ ka bɔ ka so ma? |
-| I bɛ nɛgɛ ka bɛn cogo di? | Ka kɛ ka kɔlɔ, **ka wɛrɛ ka dɔ kɛ**, ka kuma ni a ye | I ka kɔnɔ tɛlɛfɔn kɔrɔ kuma ka fɔ |
-| Ford ye jɛ jumɛn ye min ka mɔto Model T ye? | **Ford**, Chevrolet, Buick | Mɔto min ka ɲɛ, o kuma ka fɔ |
-| Ɲɛ min bɛ kɛ soda jerk, o ye jɔn ye? | **Soda fountain**, buuru, banki | I ye jɔn ye ka ɲɛnajɛ ka sɔrɔ tabali kɔrɔ? |
-| Dɔnkili min bɛ kɛ ka ɲɛ kɛ ni ɲɛ ye, o ye jɔn ye? | Yo-yo, **Slinky**, hula hoop | Jɔn ye ɲɛ ka ɲɛ kɛ ka sɔgɔ? |
-| Drive-in ye fɛn ye min bɛ kɛ ka ɲɛ kɛ? | **Filimu mɔto kɔnɔ**, sɔgɔ ka wulu, sigi | I ye jɔn ye ka taa? |
-| Jɔn ye ye min ka ɲɛ bɛ dolari kɔnɔ? | Lincoln, **George Washington**, Jefferson | Dolari kelen bɛ se ka sɔrɔ ka fɛn jumɛn ye ka tɛmɛ? |
-| Jɔn ye ye min ka ɲɛ bɛ penny kɔnɔ? | **Abraham Lincoln**, Washington, Franklin | I ye penny ka bɔ ka tile la ka sɔrɔ? |
-| Sɛnɛfɛ mɔto ye jɛ ye jumɛn ye? | Jɛ, **sɔnɔ**, ka | I ye jɔn ye ka taa ka ɲɛ kɛ sɛnɛfɛ? |
+| Refrigerator tɛ yen sani, so caman bɛ mɔgɔ jaabi... | **Icebox**, oven, attic | Jɔn ye ji fɛ? |
+| Jɔn ye nɔnɔ kɛ dugu-so ka da kɔnɔ ni bɔlɔ ye? | Dɔnkili mɔgɔ, **nɔnɔ mɔgɔ**, kɔrɔkɛ mɔgɔ | Mun wɛrɛ bɛ so kɔnɔ ka bɔ? |
+| I bɛ rotary tɛlɛfɔn dɔ ka bɔ cogo jumɛn na? | Bɛn kɛlɛ, **sigi ka wilii**, a kuma | I ka so tɛlɛfɔn kuma |
+| Jɔn ye Model T mɔto da? | **Ford**, Chevrolet, Buick | Mɔto min ye i fɛ ka ɲuman ye, o kuma |
+| Jɔn bɛ soda jerk sɔrɔ? | **Soda fountain**, bulanjɛri, banki | I ye mun ɲɛnɛ taabolo kɔnɔ? |
+| Jaabi jumɛn ye tiri ye min bɛ se ka ta bɔ? | Yo-yo, **Slinky**, hula hoop | Dumuni jumɛn ye i fɛ kosɛbɛ? |
+| Drive-in ye yɔrɔ ye min na mɔgɔ bɛ... | **Film bɛ mɔto kɔnɔ ka ye**, sukanw, siranw | I ye mɔgɔ jumɛn ni ye ka taa? |
+| Jɔn ka ɲɛ bɛ dɔlari fɔlɔ kɔnɔ? | Lincoln, **George Washington**, Jefferson | Dɔlari kelen bɛ mun ye waati dɔ la? |
+| Jɔn ka ɲɛ bɛ penny kɔnɔ? | **Abraham Lincoln**, Washington, Franklin | I ye penny ta ka sɔn kɔgɔ kɔnɔ waati ɲɔgɔn na wa? |
+| Bɔkɔ wɛrɛ bɛ kɛ jɛ jumɛn ye? | Fɛɛrɛ, **jɛ**, blɛ | I bɛ taa lɛkɔli la cogo jumɛn na? |
 
-## Tile, ɲɔgɔn ni dugu
+## Don, dugukolo ani yɔrɔw
 
-| Ɲininkali | Jabi | Kuma ka fɔ |
+| Sɛbɛn | Jaabiw | Kuma ko |
 | --- | --- | --- |
-| Tile jumɛn ye sɔgɔ? | **Ɲɛsin**, ɲɛ, tile | I ye ɲɛfɛ ka fɔ? |
-| Ɲɛfɛ ka kɔnɔ kɛlɛ ye jumɛn ye? | **Thanksgiving**, Labor Day, Memorial Day | Jɔn bɛ kɛ dumuni kɔnɔ kɛlɛ ka kɔrɔ? |
-| Jack-o'-lanterns bɛ kɛ jumɛn ka kɛlɛ kɔnɔ? | **Halloween**, Easter, Christmas | I ka Halloween ka kuma ka fɔ aw ka dugu la |
-| Fourth of July ye Declaration of ka kɛlɛ ye... | Rights, **Independence**, Freedom | I ye jɔn ye ka tugu ka sɔrɔ? |
-| Mother's Day bɛ kɛ jumɛn kalo kɔnɔ? | Avrili, **Mɛ**, Juɲɛ | Aw ka mɔgɔw bɛ kɛlɛ kɛ cogo di? |
-| Siri 50 ye jumɛn ye Amerika ka jamanaden kɔnɔ? | 48, **50**, 52 | Siri 48 bɛ kɛ ka se 1959 ma. Jabi bɛɛ ye hakilina ɲumanba ye |
-| Ɲɔgɔn jumɛn ye ka ɲɔgɔn Atlantic ye? | Pacific, **Atlantic**, Arctic | I ye sɔnɔ ye ka bɛ ɲɔgɔn kɛ? |
-| Statue of Liberty bɛ jumɛn dugu la? | Boston, **New York**, Philadelphia | I ye New York la wa? |
-| Ni bɛ min bɛ kɛ? | Sɛnɛ, **nɛgɛ**, ɲɔgɔn | Nɛgɛ ka kɛ buredo kɔrɔ walima ka kɛ jɔ kɔnɔ? |
-| Ɲɔgɔn dɔ bɛ kɛ jumɛn ye? | Foal, **calf**, kid | I ye ka sigi ɲɔgɔn kɛ ka kɔrɔ? |
-| Ɲɔgɔn jumɛn ye min bɛ kɛ ɲɛ ka kɔrɔ ka tɛmɛ? | Rose, **sunflower**, tulip | Jɔn bɛ kɛ aw ka ɲɛ kɔnɔ? |
-| Sanni jumɛn bɛ kɛ ka kɛ, ka kɛ dɔ ni 366? | 365, **366**, 360 | I ye sɔgɔ ka ɲɛ ka dɔn ka hakili kɛ ka ɲɛ? |
-| Kɛlɛ jumɛn bɛ kɛ kɔfɛ? | Sɛgɛn, **Tile**, Sɔgɔ | Kɛlɛ jumɛn bɛ aw fɛ ka tɛmɛn? |
+| Don jumɛn bɛ kɛ nin tile ni hɔrɔ ye ka nɔ ni Thursday ye? | Labor Day, **Thanksgiving**, Memorial Day | Mun bɛ se ka bɔ i ka dɛ kɔnɔ tuma bɛɛ? |
+| Jack-o'-lanterns bɛ kɛ don jumɛn na? | **Halloween**, Easter, Christmas | I ye Halloween kɔnɔ kuma ka kɛ i ka dugu kɔnɔ |
+| Fourth of July bɛ Declaration of... ye | Rights, **Independence**, Freedom | I ye fireworks ye minnu yɔrɔ? |
+| Mother's Day bɛ kɛ kalo jumɛn na? | April, **May**, June | I ka mɔgɔw ye don nin kɛ cogo jumɛn na? |
+| Ɲɛnɛma flag kan bɛ ni sɔgɔma sɛgɛnnen joli ye? | 48, **50**, 52 | Flag ka sɔgɔma sɛgɛnnen 48 ye 1959 ma. Jaabi fila bɛɛ ye hakili ɲuman ye |
+| Ɲɔgɔn jumɛn bɛ East Coast kɔnɔ? | Pacific, **Atlantic**, Arctic | I ye taa ka kɛ ji da kɔnɔ wa? |
+| Statue of Liberty bɛ jɛɛ jumɛn kɔnɔ? | Boston, **New York**, Philadelphia | I ye New York taa wa? |
+| Sɛnɛkɛlaw bɛ mun ye? | Dɔ, **nɛɛn**, kɛnɛ | Nɛɛn ye mun ye sɔrɔ-bɛɛ, walima ji ni dɔ ye? |
+| Jaabi jumɛn ye "sankɔrɔ ka dɔ" ye? | Foal, **calf**, kid | I ye sɔrɔ dugu ye ka kɛ jɛ wa? |
+| Jaabi jumɛn ye tiɲɛ ka bɛn ka kan dɔ ye, a bɛ jɛ ni fɛn ye? | Rose, **sunflower**, tulip | Mun ye i ka sɛnɛ kɔnɔ kɛra? |
+| Don kɔnɔ zan jumɛn ye? | 365, **366**, 360 | Kalo dumuni dɔ fɔ min ye i hakili kɔnɔ |
+| Sɔgɔ dɔ bɛ bɔ sanu kɔfɛ? | Fall, **spring**, summer | Sanu jumɛn ye i fɛ ka ɲuman ye? |
 
-## Dumuni ni sɔgɔsɔgɔ ɲininkali
+## Dumuni ani sɔrɔ sɛbɛnsɛbɛnw
 
-| Ɲininkali | Jabi | Kuma ka fɔ |
+| Sɛbɛn | Jaabiw | Kuma ko |
 | --- | --- | --- |
-| Raisins ye ... ka gbɛ ye. | Plums, **grapes**, cherries | I ye raisins dɔ ka kɛ ka bɔ sigi kɔrɔ? |
-| Prunes ye ... ka gbɛ ye. | **Plums**, figs, apples | Jɔn ka mɔgɔ bɛ prunes fɛ ka tɛmɛn? |
-| Peanut butter ni... | **Jelly**, cheese, ham | Ka gbaga walima ka nɔgɔ? |
-| Guacamole ka ɲɛ kɛ... | Peas, **avocados**, cucumbers | Dumuni min bɛ kɛ ka ɲɛ ni dumuni ye, o kuma ka fɔ |
-| Pie jumɛn ye Thanksgiving ka fɛn ye? | **Pumpkin**, lemon, cherry | Pie jumɛn bɛ aw ka kɛ? |
-| Baseball kɔrɔ ka mɔgɔ joona ye jumɛn ye? | 7, **9**, 11 | Kɔrɔ jumɛn ka kɛ ka ɲɛ? |
-| Baseball kɔnɔ ka strikes joona ye jumɛn ye? | Fila, **saba**, naani | I ye ka bɔ ka ɲɛ kɛ ka wɔrɔ dɔ ka kɛ ka? |
-| Babe Ruth ye jumɛn ye ka ɲɛ kɔnɔ? | Ka ka tɔrɔ, **baseball**, golf | I ye ka taa ka ɲɛ ka kɛ? |
-| Golf kɔrɔ jumɛn bɛ kɛ ka ɲɛ kɔnɔ? | 9, **18**, 24 | I ye golf wala mini golf kɛ tuma dɔ? |
-| Jɔn ye ka ɲɛ kɛ ka touchdown? | **Football**, hockey, basketball | Jɔn bɛ football ka ɲɛ kɛ aw ka so la? |
+| Raisin ye ... ka bɛn ye | Plums, **grapes**, cherries | I ye raisin ka don ka ɲɛmɔgɔ bɛ nɔ kɔnɔ wa? |
+| Prune ye ... ka bɛn ye | **Plums**, figs, apples | Mɔgɔ jumɛn ka dɔ ye prune kɛ? |
+| Peanut butter ani... | **Jelly**, cheese, ham | Jɛ ni ɲɛ ye, walima kolo? |
+| Guacamole kɛra ... ka bɛn ye | Peas, **avocados**, cucumbers | Mun ye sɛnɛ kɔnɔ fɛɛrɛ min bɛ ka ɲɛmɔgɔ ɲɛ? |
+| Pie jumɛn ye Thanksgiving ka dɔ ye? | **Pumpkin**, lemon, cherry | Pie jumɛn i ye kɛ? |
+| Baseball team kɔnɔ mɔgɔ joli bɛ field kɔnɔ? | 7, **9**, 11 | Team jumɛn i ye jɛnɛ? |
+| Baseball kɔnɔ strike joli bɛ out kɛ? | Two, **three**, four | I ye ball ta ka kɛ wa? |
+| Babe Ruth ye sɔrɔ jumɛn ye ka ɲɛ? | Boxing, **baseball**, golf | I ye ball ɲɔgɔn ye ka taa wa? |
+| Golf course kɔnɔ kɔ joli bɛ? | 9, **18**, 24 | I ye golf ta ka kɛ walima mini golf? |
+| Sɔrɔ jumɛn kɔnɔ bɛ touchdown sɔrɔ? | **Football**, hockey, basketball | Mɔgɔ jumɛn ye football ye i ka so kɔnɔ? |
 
-## Kuma fɔlenw
+## Kumasɛbɛnw ka sɛbɛnsɛbɛn
 
-Kuma ka ɲɛ kɔfɛ bɛ kɛ ka kuma fɔlen ye min bɛ kɛ ka kalan tuma ka tɛmɛ, a bɛ se ka dɔ ye ka ɲɛ. Ka [Finish the saying](/games/finish-the-saying/) ɲɛ ka kɛ, a bɛ kuma caman kɛ.
+Sɛbɛn fɔ ka ɲɛfɔ ka kɛ, o ye kuma ye min ka ɲɛ waati caman sɔrɔ, o bɛ se ka kɛ ka sɔrɔ. [Ko ka kumasɛbɛn kɔ](/games/finish-the-saying/) kɛlɛ bɛ kumasɛbɛn caman bɛ yɛrɛ, ani a kɛ jaabi bɛɛ jira.
 
-| Kuma | Jabi | Kuma ka fɔ |
+| Kumasɛbɛn | Jaabiw | Kuma ko |
 | --- | --- | --- |
-| Pomme kelen don ka ... ka dɔ kɛ. | **Dɔkitɛri**, sɔgɔ, sɛgɛ | Jɔn bɛ nin fɔ aw ye tuma dɔ? |
-| Sisan bɛ ... ka sɔrɔ. | Bus, **worm**, train | I ye sɔgɔ ye wa? |
-| Kɛ ka ɲɛfɛ ka kɔrɔ ... | **Hatch**, sɔgɔ, sɛgɛ | Aw ka mɔgɔw bɛ tulu ɲɛ kɔnɔ wa? |
-| Penny kelen ka ... ka tɛ ɲɛ. | **Earned**, lost, spent | Jɔn ka mɔgɔ ye ka sɔrɔ ka kɛ ka kuru? |
-| So ye ... ka ɲɛ ye. | Garden is, **heart is**, kitchen is | Jɔn bɛ kɛ so ko i ka ɲɛ? |
-| Ka ... ka ɲɛ tɛ ka kɛ ka ɲɛ. | Early, **never**, sorry | Jɔn ka mɔgɔ bɛ ɲɛ kɔnɔ ka kɛ ka tɛmɛ? |
-| Ɲɛ kɔnɔ ka silver ... | **Lining**, spoon, coin | I ye ɲɛ ka kɛ ka sɔrɔ ka kuma ka fɔ |
-| Ka kɛ ka ɲɛ ye... ka fɔ ka ɲɛ kɔrɔ | **Words**, music, thunder | I ye mɔgɔ min fɔ ko a ka kuma ka ɲɛ, o ka kuma ka fɔ |
+| Don kɛlɛ kelen, ... bɛ dɔktɔrɔ ... | **Dɔktɔrɔ ka fɛn**, sankolo ka fɛn, sun ka fɛn | Jɔn bɛ ko nin fɔ i ma? |
+| Sanuyɔrɔ kuma ye ... sɔrɔ | Bus, **worm**, train | I ye sanuyɔrɔ mɔgɔ ye wa? |
+| Ka sigi ka ɲɛmɔgɔ bɛ kɛ ... ɲɛfɛ | **Hatch**, sleep, sing | I ye sigi ka ɲɛmɔgɔ dɔ kɛ kɛra wa? |
+| Dɔnkili kɛlɛ fɛ, ... bɛ se ka sɔrɔ | **Earned**, lost, spent | Jɔn ye kɔnɔ mɔgɔ ye min bɛ dɔnkili ta? |
+| So ye ... ye | Garden is, **heart is**, kitchen is | Mun bɛ yɔrɔ kɛ so ye? |
+| Ka ... ka tɛmɛnɛ ka ɲɛ | Early, **never**, sorry | Jɔn bɛ tɛmɛnɛ? |
+| Sankolo ka ... bɛ ... | **Lining**, spoon, coin | Kuma dɔ fɔ ka dɔnkili sɔrɔ |
+| Ko bɛ ... ka ɲɛ | **Words**, music, thunder | Jɔn ye min fɔra o kuma? |
 
-## Ni ko o ye walima o ye, jabi tɛ ɲɛ kɔrɔ
+## "Nin wala o" kɛlɛw min tɛ jaabi tiɲɛ
 
-Nin bɛ kɛ ka ɲɛ ka kɛ ka sɛgɛn dementia la kɔnɔ bɛɛ, a bɛ kɛ kɔfɛ kɔfɛ, ka ɲɛ ka kɛ jabi ɲɛfɔ tɛ. Aw ka mɔgɔ kɔrɔ ka ɲininkali kɛ, ka mɛn, ani aw ka jabi fana ka fɔ.
+Nin kɛlɛw bɛ kɛ sɛnɛkɛla bɛɛ kɔnɔ, sɛnɛkɛla kɔfɛ kɔnɔ fana, bawo ko si tɛ tiɲɛ. Ka lamɛn, ka kuma, ani i yɛrɛ jaabi fana ka jira.
 
-- Kafe wala dɔnkili?
-- Sɔnɔ wala kulu?
-- Sɔgɔ wala ɲinɛ?
-- Tile wala sɛgɛn?
+- Kafe wala tɛ wa?
+- Ji da wala kulu wala?
+- Sɔgɔ wala kɔgɔ?
+- Sanu wala sɔgɔ?
 - Pie wala gato?
-- Sɔgɔ ka wɔrɔ wala ka kɛ?
-- Sanni yɛrɛ wala ka kɛ tile?
-- Sɔgɔ ka sɛnɛ wala ka fɔ?
+- Dance kɛ wala lamɛn?
+- Sankolo ka se wala sankolo ka ɲɔ?
+- Kɔlɔnkɔlɔ wala ka ɲɛnɛ?
 - Radio wala disque?
-- Pancakes wala ɲɛ?
-- Rose wala daisies?
-- Train ka sɛgɛn wala mɔto ka sɛgɛn?
+- Mɔgɔ-bɛ-nɛn wala ufu?
+- Roses wala daisies?
+- Gare ka taa wala mɔto ka taa?
 
-Ni aw b'a fɛ ka ɲininkali kɛ ka ɲɛ ni ɲɛsin ye, aw ka [Conversation cards](/games/conversation-cards/) ka ɲɛ.
+Ni aw b'a fɛ ka kuma ta ni sɛbɛnw ye, aw ka [Conversation cards](/games/conversation-cards/) lɔ.
 
-## Cogo jumɛn na ka ɲininkali kɛ ka ɲɛ so ka ɲɛfɛ walima ka mɔgɔ caman bɛ ɲɛ?
+## Cogo jumɛn na sɛbɛnsɛbɛn bɛ kɛ so kɛrɛfɛ walima dugu kɔnɔ?
 
-1. **Ka mɔgɔw sigi ka ɲɛ ni ka ɲɔgɔn ye.** Tulu ni ɲɛ ka sɔrɔ, ɲɛ ka kɔnɔ, ka TV ka tɛmɛ.
-2. **Ka kɛ kuma ye.** « Ne ka ɲininkali dɔ bɛ kɛ tuma kɔrɔ ka kuma kɛ, aw ka dɔnkili ka ɲɛ ne ka tɛmɛ. »
-3. **Ka ɲininkali kelen ka fɔ ka kɛ ni tugu, ani ka jabi ka bɔ ka kɛ ka ɲɛ.**
-4. **Ka jabi di sɔgɔ ka ɲɛfɛ kɔnɔ ka kɛ.** Ka jabi ɲumanba fɔ ka mɔgɔ bɛɛ ka ɲɛ kɛ.
-5. **Ka jabi fɔ mɔgɔ bɛɛ ye,** ka kɔfɛ ka ɲininkali kuma kɛ ka fɔ ka mɔgɔw bɛɛ ye.
-6. **Ka ɲɛ kɛ mɔgɔw ka hakili ko.** Ni ɲininkali kelen bɛ kuma caman kɛ wɔrɔ minuti 10, o ka kɛ.
-7. **Ka sɔrɔ ni dɔnkili walima ni ɲininkali sɛgɛn ye,** i ko mɔgɔw bɛɛ ka sɔrɔ ni fɛn dɔ ye min bɛ se ka kɛ.
+1. **Mɔgɔw sigi cogo min na ka se ka ɲɛ ni ka mɛn.** Matɔ bɛ kɔnɔ, ɲɛfɛ bɛ kɔnɔ, TV bɛ bɔ.
+2. **Ka sɛbɛnsɛbɛn kɛ kuma ye.** "Ne bɛ kuma kɛ ko dɔnnen ta kɔnɔ, ani ne b'a dɔn ko aw bɛ dɔn ne ka tɛmɛn kɔnɔ."
+3. **Sɛbɛn kelen-kelen fila ka fɔ, ani jaabiw ka jira ka bɔ ɲɛfɛ.**
+4. **Jaabi bɛɛ ka bɔ kɔrɔ bɛɛ la.** Jaabi ɲuman kɛ kɔfɛ ka fɔ ka mɔgɔ bɛɛ mɛn.
+5. **Jaabi di mɔgɔ bɛɛ ye ni nɛɛma ye,** o kɔfɛ ka kuma sɛbɛn fɔ kɔrɔ bɛɛ ye.
+6. **Kuma ka sira tugu.** Ni sɛbɛn kelen bɛ kuma tɔɔrɔ fɔ mɛnɛti tan, o ka kɛ.
+7. **Dumuni walima "nin wala o" kɛlɛ kɛ laban ye,** walasa mɔgɔ bɛɛ ka laban ye ko ɲuman kan.
 
-Ɲɛsin ni kuma ɲumanba caman, o ye picture bingo ni sɔgɔ dɔnkili ye, i ka [group activities for care homes](/activities/care-home-groups/) ka ɲɛ.
+Kɛlɛ wɛrɛw kɛlɛ kama, minnu kɔnɔ bɛ picture bingo ani dumuni kɛ, [dugu ka kɛlɛw dɛmansi kama](/activities/care-home-groups/) ye.
 
-## Ni plan bɛ ka ɲɛfɛ
+## Waati min na a ka kan ka laɲini yɛrɛ
 
-Ni mɔgɔ bɛ jɛ ka dimi, walima a bɛ sɔgɔ, walima a bɛ fɔ ko « Ne ma dɔn » ka tɛmɛ kɔfɛ, ka ɲɛ kɛ ka sɔgɔ: jabi fila kɔrɔ ka kɛ, ka jabi bɛɛ ka kɛ ka ɲɛ, walima ka ɲininkali kɛ sanni fila ni sɛgɛn ye. Ni mɔgɔw b'a fɛ ka kuma kɛ ɲininkali kelen kan ka tile bɛɛ, o ye ɲɛsin ye. Ɲininkali jabi ɲɛ tɛ kɛ aw ka sigiɲɛ ye. Nin ye sɔrɔ ka ɲɛ, ka ɲɛfɛ ni mɔgɔ ɲumanba ye.
+Ni mɔgɔ dɔ bɛ kɛ ko jɔ ye, a bɛ dan, walima a bɛ fɔ "Ne dɔn tɛ" ka tɛmɛ kelen kɔfɛ, a ka kan ka kɛ fanba. Jaabi fila kɛ, jaabi ɲɔgɔn fɛ, walima "nin wala o" kɛlɛw kɛ. Ni dugu bɛ kuma sɛbɛn kelen kan ka tɛmɛ bɛɛ kɔnɔ, o ye ɲɛtaa ye. Sɛbɛnsɛbɛn ka sababu tɛ jaabi ɲuman kɛ ɲɛnamaya kɔnɔ tɔ. A sababu ye ka waati ɲuman kɛ mɔgɔ ɲuman ni ɲɔgɔn ye.

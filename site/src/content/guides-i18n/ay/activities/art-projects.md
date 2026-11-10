@@ -1,32 +1,33 @@
 ---
-title: "Demencia uñjatanakatakix Arte Lurawinaka, Thakhi Thakhi"
-seoTitle: "Demencia uñjatanakatakix Arte Lurawinaka, Thakhi Thakhi"
-description: "Demencia uñjat jaqinakatakix arte lurawinaka, thakhi thakhi: akuarela, collage, arcilla, tiza ukat laphi qillqa, ukat kunjamat jan llakisir arte khithapinak ajllir sarañ."
+title: "Demencia uñtat jaqinakatakix luqtañ, yaqha yaqhaw"
+seoTitle: "Demencia uñtat jaqinakatakix luqtañ, yaqha yaqhaw"
+description: "Demencia uñtat jaqinakatakix luqtañanaka yaqha yaqhaw: akuarela, collage, arcilla, tiza ukat hoja imprenta, ukat kunjamasa sum llakinak ajllisiñ."
 section: activities
 order: 28
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Demencia uñjat jaqinakatakix arte lurawinakax sum sarañapataki, mayjt'ayañapataki
-  ukat qalltañ thakhi sum uñjatañapataki. Akuarela, revista collage, lanti arcilla,
-  laphi tiza, jan ukax qillqa laphinakampi lurañ munasmawa. Jan lliqi, sum q'arañ
-  khithapinak ajllisim, jan jiwasa jak'a khithapinakampi. Lurawix sapa kuna, lurañ
-  sumaw, phuqhat lurawix wali sum.
+  Demencia uñtat jaqinakatakix arte luqtañanakax aski sarnaqañ, jaqichasiñ
+  ukat sapa qalltañ mayjt'a. Akuarela, revista collage, lika arcilla, tiza
+  oscuro papel patxan, ukat hoja imprenta ajllisipxam, ukat sapa mayni
+  sarnaqañ jupanakampi sapa. Janiw jan walt'añ usunak, jak'a agarrañ
+  sum llakinak ajllisiñ, janiw jach'a punzunak ni chhiqhar qhiqhan
+  llakinak. Luqtañax sarnaqañ ukawa; qillqatax ch'iqa yatiyañawa.
 keyPoints:
-  - "Qalltañ thakhi sapa kuna ajllisim, akuas punzu q'añuñ jan ukax uñjata laphi p'iqiñ, ukhamat jaqix sapjamaw qalltañapataki."
-  - "Jan lliqi khithapinak ocupañ, jupanakax sum q'arañ, jan jak'a khithapinak, jan ukax jan qhuñut ukat jan ch'aqha khithapinakampi."
-  - "Sapa kuna qalltasim, ukat jan sarañ uñjasim. Walja jaqinakax qalltañ sapa phaxsi jan ukax qhulla p'iqiñ mayjt'añ."
-  - "Lurawi jaqin kunjamat jan wali sarañapa uñjasa ajuste, qalltañ jan jaqhañ kunjamat sarañapat jiwasan mayjt'añ."
-  - "Ajllinakar ukat laphinakar yupaychañ, jan lurañ chiqarjamaw, ukat sapa kunarus jan kusisiñ khithapkañ qhipa sayt'ayañ."
+  - "Mä qalltañ mayjt'a ukax sum ajllisiñ, akham sañ pincel manq'añ jan ukax revista t'ijtañ, ukhamat jaqix aski qalltañ."
+  - "Janiw jan walt'añ usunak ocupañ, jak'a agarrañani llakinak ukat janiw q'ara ni jach'a tiyuwinak ocupañ."
+  - "Mayacht'asiñ qalltañ, ukat ch'iqa sayt'añ. Walja jaqinakax mä k'iwa jan ukax mä t'ijtaña mayjt'a sarnaqañataki."
+  - "Luqtañ mayjt'aw jaqin chuymachiñapa, sapa tiempo jan jaqin kunjamasa yatiñapa; qalltañ sum ukat janiw sapa mayni tukuñapa."
+  - "Ajllisiñanak ukat ch'uqinak ajllisiñ yatiyañ, janiw yatiyañ ch'iqa; ukat sarnaqañ jan kusisiñani ukhaxa, sayt'añ."
 faq:
-  - q: "¿Kunak arte lurawinaka wali sarañapa demencia uñjat jaqinakatakix?"
-    a: "Wali ajllinakax: akuarela wali sayñ llapunt qillqa, revista uñjatanakampi collage, lanti arcilla t'aqañataki ukat ch'uqañataki, laphi tiza, jan ukax mayi jaqhañ lawampi laphi p'iqiñ ukat qalt'añ ch'ullu ukat ch'ullu. Jaqi munañanakampi ukat sarañapampi ajlliñamawa."
-  - q: "¿Kunjamat arte khithapinak ajllir sarañ demencia uñjat jaqitakix?"
-    a: "Jan lliqi, jan jak'a, lawamp p'iqiñ sum q'arañ khithapinak ajllisim, ukat wali q'añu arunakar. Jan ch'uqi perlanak, botonanak, glitter, jan ch'aqha tijrjanak ukat jan jiwayasa ukhamarak jan manq'añ munasiñ ukanaka. Alergia uñjasim, ukhamarak lateks guantenak jan ukax ch'uwa janchinak. Qillqa uñjata wali sumaw, jupanaka sapa phaxsi."
-  - q: "¿Tukuyawi phasea jaqix arte lurañ puedi?"
-    a: "Puedi, sapa kuna uñjata lurawinakampi. Lanti arcilla t'aqaña, jan ukax wali sumjam brocha ukampi, jan ukax jakhuwinakar khuchhi ukampi lurañ. Jupanakax amparampi yanapaña wakisi. Uñjañax ukat q'añunakan parlañax arte lurañ ukhamarakiw."
-  - q: "¿Kunas jupax sañkiwa jan lurañ puedi sañ?"
-    a: "Arte sum q'añunak ukat jakhuwinak kusisiñataki, jan lurañ chiqa amtañataki yatiyaña. Qalltañ qalltawi lurawim sapa, ukat jupa lurañ sapaki mayjt'aña. Jupax jan munañ ukhamaw, luraña khithap mayjt'aña; jan ukax [jan munañana sarañ] uñjasim."
+  - q: "¿Kunay arte luqtañanakas demencia uñtat jaqinakatakix sum?"
+    a: "Aski ajllisiñanakax: akuarela papel jach'a patxan, revista uraqinakan collage, lika arcilla, tiza oscuro papel patxan, lupha imprenta ukat t'ant'a flores ukat tela sayt'añ. Jupa jaqin munañanakapan ukat yatiñapan ajllisiñ."
+  - q: "¿Kunas artes ajllisiñ demencia uñtat jaqitakix?"
+    a: "Janiw jan walt'añ usunak, jak'a ch'uqichat lupha, aski ch'ukur ukat jach'a q'ara ajllisiñ; janiw jisk'a ch'uxña, botones, glitter, janiw kunas wayraja, janiw q'ara tijerana, ukat janiw kunas manq'añ. Alérgias uñjañ, akham sañ látex guantes jan ukax ciertos lupha. Contraste aski ajllisiñ, akham sañ jach'a lupha papel q'ara patxan, ukat lista jisk'a imprañ."
+  - q: "¿Jach'a punzunakan uñtat jaqix arte luqtañ puedi?"
+    a: "Sí, sum sentidonakan ajllisiñanakampi. Lika arcilla ch'allañ, jach'a pincel ch'alla bandeja patxan pinturañ, jan ukax tela sayt'añ. Maki irpañ munaskiwa. Ch'uqinak ukat ñanqhan uñjañ, parlañ ukasti luqtañ ukaw."
+  - q: "¿Kunas sañ jupax janiw pintañ yatiti?"
+    a: "Arte ukax lupha ukat sayt'a kusisiñawa, janiw yatiñ ukakiti sañ asegurañ. Qalltañ mä k'iwa nayax luqt'asa, ukat sapaki sarnaqañ mayni. Janipun sarnaqañ munkiti ukhaxa, mayni luqtañ yanapt'añ; kunamtix qhiphar ukat chiqpach jan walt'añ, uñjañ aka guía de rechazos ukat frustración."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,65 +46,65 @@ related: [activities/arts-and-crafts, activities/coloring, activities/sensory, a
 health: false
 ---
 
-Arte lurawinakax demencia uñjat jaqiruw sarañ thakhi sum, jupamp chika sarañataki. Maynit ukax amparanakampi, uñjañampi ukat jaqhañanakampi lurañ, ukat parlañ uñjatanakampi. Aka qillqañax lurawinak sum yatiyaña, lurañ aski uñjañ khithapinak ajllisa. Arte jaqinakatakix sumaw yatiyasiñ, ukat "chiqpach aka wali sarañapa" sañ utjaspa, sapa kuna uñjañ ukat [demencia uñjat jaqinakatakix arte lurawinaka](/activities/arts-and-crafts/) yatiyaña.
+Arte luqtañanakax demencia uñtat jaqimpi mayni tiempo pasañatakix sum. Maki, uñjañ ukat sensacionanakar yanapt'i, ukat parlañ tema churi. Aka qillqatax yaqha luqtañanakan sapa mayjt'a aski qalltañanakampi, ukat lupha ajllisiñataki sum yatiyañanakampi. Arte jaqinakatakix yatiyañanakataki, akham sañ janiw qhiphar ch'uqinak, uñjañ [arte ukat luqtañ jaqinakatakix demencia uñtat jaqinakatakix](/activities/arts-and-crafts/).
 
-## Sapa arte lurawi qalltaña
+## Sapa arte luqtañ qalltañ kunjamasa
 
-1. **Qalltañ sapa kuna sarañ.** Mä jan ukax paya khithapinak, mä lliqi manta ukat mä jan ch'uñu q'ara ajllisim.
-2. **Qalltañ thakhi uñjata.** Brochat ch'alluñ, jan ukax qalltawi lanti ch'uqi jan ukax arcilla ch'iwi t'aqañ, ukat jupanakar mayjt'aña.
-3. **Sapa kuna lurasim.** Jumaru lurawim jupat sayt'ayañ, ukhamat lurawi sapa kunawa, jan uñjata sañ sapaki.
-4. **Uñjatanakat parlaña.** Q'añu, qhuñut ukat thakhi uñjañ, jan jiwasa jach'a arunakampi.
-5. **Kusisiñ tukuñ sarañapat jan jiwayañ.** Pä chunka jan ukax pusi chunka minutu wali jaqhaskiwa.
+1. **Qalltañ sipansa lurañ.** Mä jan ukax paya lupha, mä manta sayt'a ukat mä ch'allu trapo apthapiñ.
+2. **Qalltañ mayjt'a uñachayañ.** Pincel manq'añ, mayni t'ijtañ jan ukax lika arcilla mä ch'iqa ch'allañ, ukat jupanakar mayni lurañataki mayiña.
+3. **Mayacht'asiñ luqtañ.** Jumax luqtam qhipana uñjañ, ukhamat luqtañ mayacht'asiñawa, janiw uñjañ.
+4. **Uñjatanakat parlañ.** Ch'uqinak, ch'iqha ukat uñtanak parlañ; janiw luqtañ jisk'achañ.
+5. **Kusisiñ tukuñ sipansa tukuñ.** Chunka ukat pä chunka minutunaka sum ukhamarak.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) yatiyi arte ukax sapa kuna ajllisa, lurañ jaqhañ jan sum q'añu ch'amañ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi lurawinak sapa thakhi jach'a thakhinakaruw t'aqañ.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) yatiyistu arte sapa chuymaw ukat janiw artista yatiñ munañ luqtañ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyistu luqtañanak jisk'a jisk'a sarnaqañanakar t'aqaña.
 
 ## Akuarela
 
-Wali jach'a akuarela qillqa, jach'a jaqhañ brocha ukat paya q'añu jach'a jaqhañ lisintanakan ajllisim. Qillqa janch'uqi uma ukat q'añu sumaw churaña, ukat mayjt'aña khithap p'iqiñ. Qillqa jan uchañ, sumaw lurawix.
+Jach'a akuarela papel, jach'a pincel ukat walja ch'uqi jisk'a tazanakan. Papel ch'iqha ukat ch'iqa ch'allañ, ukat jupax ch'uqi uchañ. Papel jasak tiquñ ukat ch'uqinak sayt'añ. Yanapt'asiñ, janiw plan munañ.
 
-- **Qalltawi phasea:** Jupanakax q'añunak ajllisim ukat uta ukat qullu lurañ.
-- **Taypi phasea:** Paya jan ukax kimsa q'añu churaña, ukat uma ch'alluñ wali sumaw.
-- **Tukuyawi phasea:** Qillqa jaqhaña, jupanakax esponja ukampi ch'iqiñ.
+- **Qalltañ sipansa:** Ch'uqinak ajllisiñ, uraqi uñtat luqtañ.
+- **Taypi sipansa:** Pä jan ukax kimsa ch'uqi churañ, ukat ch'allañ jupanakar lurañ.
+- **Qhipa sipansa:** Papel katxata, ukat esponja ch'allañ.
 
 ## Revista collage
 
-Revista qillqanak sum uñjatanak, jach'a q'añu puraqi, uywa, janchi, auto jan ukax jaya uñjatanaka ajllisim. Uñjatanak jach'a jaqhañ t'aqaña, jan jak'a jaqhañ, ukat jupanakar cartónar lakhut. Collage parlañ qalltañataki sumaw, sapa uñjata amuyu jaqhañ. Jupax sapa ajllisiñ ukat sapa kunar uñjañ munasiri jaqinakatakiw.
+Revista lup'iña jach'a uñtanakampi: t'ant'a flores, manq'a, uywanakan, auto jan ukax sarnaqañanakan. Uñtanak jach'a p'iqinakar t'ijtañ, janiw lluch'iña sañ, ukat cartón patxan ch'allañ. Collage parlañ qalltañ sum, sapa uñta mayni amuyunakar yanapt'i. Jaqinakatakix aski ajllisiñ ukat sumanakar ch'uqiñ.
 
-## Lanti arcilla
+## Lika arcilla
 
-Lanti ukat jan lliqi arcilla t'aqañ, ch'uqañ ukat ch'uqi ch'uqañ. Mä lliqi jan ukax lanti tiles lurañ. Arcilla janchimp uñjañ ukat sapa kuna sarañ, ukhamat jupanakax jaqhañ jan llakisiñ. Jach'a jaqhañ manq'añaka ukat jan jak'a q'ara jaqhañ.
+Lika arcilla jan ukax lika modelar arcilla ch'allañ, ch'allañ ukat tuqutañ. Mä jisk'a p'iqi jan ukax mä jaya tile lurañ. Arcilla maki uñjañ sum, ukat jaqinakatakix sum kusisiñ. Pieza jach'a tukuñ, ukat punta q'ara herramientanak janiw ocupañ.
 
-## Tiza laphinaka q'ara paypach
+## Tiza oscuro papel patxan
 
-Q'ara paya q'añu laphinakax q'añu sum uñjañapataki. Jach'a tiza laphinaka ukat jach'a jaqhañ ajllisim, ukat jaqix jach'a jaqhañ jan ukax jaqhaña ch'uwa ukampi ch'alluña. Tiza laphinaka ch'iwix, bandejan lurañ, ukat lurawi qhipa janchinak ch'iqiñ. Non-toxic qillqa ajllisim.
+Oscuro papel patxan, tiza colores k'ancharañ. Jach'a tiza ocupañ, ukat jaqix jach'a t'ijtañ jan ukax mä p'uxtu ocupañ. Tiza ch'uqiñ, ukat bandeja patxan lurañ, ukat maki ch'allañ mayni. Tiza jan walt'añ, ukhamat "non-toxic" qillqata ch'uqinak ajllisiñ.
 
-## Qillqa laphi q'ara
+## Hoja imprenta
 
-Uta manq'añ jach'a qillqa jupanakax sapa lurawi, jan ukax jach'a jaqhañ ch'uwa ch'uqañ ukat jach'a jaqhañ qillqa uñjaña. Jupanakax sum q'añu ukat jach'a qillqa uñjañ. Jupanakax uma ch'alluñ jan ukax pampa thakhi ukat sapa kuna. Kunjamat jupanakax phaxsi jaqhaña [uta jaqhañ lurawinaka](/activities/outdoor-and-gardening/) ukat sapa jach'a jaqhañ qillqa laphinaka.
+Jach'a hojanak uywa uma apthapiñ, nayrar ch'uqi lavable pintura veras patxan, ukat papel patxan kumañ. Maynitz ch'iqha apthapiñ ukat uñjañ. Aka luqtañax [jaya ukat uywa luqtañanakampi](/activities/outdoor-and-gardening/) mayacht'i, ukat hojanak apthapiñ sarnaqañampi qalltañ.
 
-## Ch'uwa ukat uta jaqhañ
+## Tela ukat flores sayt'añ
 
-Jan ukax ch'uwa janchinak ch'uqi ukat jan ukax jach'a jan ukax uta jaqhañ ch'uwa jaqhaña. Jupanakax sapa ch'aqha jaqhañ ukat sapa phasea jaqinakaruw wali sumaw. Jupanakax ch'aqha ch'uqi ukat sapa kuna. Walja yatiyaña, [uñjata ch'uwa jaqhañ](/activities/sensory/).
+Textura tela uñtanak uñjañ ukat sayt'añ, jan ukax mä jisk'a flores jach'a florero patxan sayt'añ. Akanakax sensorial luqtañanakawa, janiw jisk'a presión. Qhipa sipansa jaqinakatakix sum. Yaqha ideas uñjañataki, [sensorial luqtañanaka demencia uñtat jaqinakatakix](/activities/sensory/).
 
-## Arte khithapinak ajllisa
+## Arte lupha ajllisiñ
 
-Khithapinak ch'uwa jan ukax sum sarañapataki, kunjamat sapa kuna. Ajllisax:
+Lupha ajllisiñax janiw calidad sañ, janiw jan walt'añ ukat sum ch'uqinakataki. Ajllisiñ sipansa, uñjañ:
 
-- **Jan toxic ukat ch'alluñ:** Non-toxic arunak uñjasim, ukat pinturanak ch'alluña uñjasim.
-- **Jach'a jaqhañ:** Jach'a laphinaka, jach'a brochanaka ukat jach'a tizanaka jaqhañ sum.
-- **Jan jak'a khithapinak:** Ch'uñu perlanak, botonanak, lantinaka jan manq'añ.
-- **Jan ch'aqha tijranak:** Jan ch'aqha tijranak ukat jaqhañ ch'uqañ.
-- **Alergia:** Lateks ukat jan ukax piel ch'aqha uñjasim.
-- **Uñjata:** Q'añu sum jach'a q'añu jan ukax q'ara paya qillqa.
-- **Mä lliqi lista:** Paya jan ukax kimsa khithapinak wali. Walja ajllisiñ ch'iqiñ.
-- **Ch'iwi sum:** Bandeja, lliqi ukat ch'uwa ch'iwi, ukhamat ch'iwi jan jaqhañ sayt'ayañ.
+- **Janiw jan walt'añ ukat lavable:** Etiquetanak non-toxic qillqata uñjañ, ukat pinturanakax lavable uñjañ.
+- **Jach'a agarrañ:** Jach'a crayones, jach'a pinceles ukat jach'a tizas maki agarrañ sum.
+- **Janiw jisk'a parte:** Janiw cuentas, botones, lentejuelas jan ukax glitter ocupañ, mä jan ukax lunthatañ.
+- **Janiw q'ara herramientas:** Seguridad tijeras ocupañ jan ukax papel maki t'ijtañ.
+- **Alergias:** Látex jan ukax piel sensibilidades uñjañ.
+- **Contraste:** Jach'a colores jach'a papel patxan jan ukax oscuro papel patxan uñjasiñ sum.
+- **Jisk'a lista:** Pä jan ukax kimsa lupha sum. Walja ajllisiñanakax jaqin chuymachi.
+- **Sayt'añ sapa:** Bandeja, plástico manta ukat ch'allu trapo ocupañ, ukhamat lik jan ukax qhiqhan jan sayt'añ.
 
-## Phasewa lurañ
+## Etapa patxan lurañ
 
-Qalltawi phasea jaqinakax lurawi sapa kuna ukat yanapaña ukat sum tukuñ. Taypi phasea ajllinakax ch'iqiñ ukat yatiyaña. Tukuyawi phasea sapa kunar uñjañ, lanti arcilla t'aqaña jan ukax esponja ukampi ch'uqañ, ukat lurawi jaqhañ sum jan tukuñ.
+Qalltañ etapana, walja jaqinakax mä luqtañ lurañ yanapt'asiñ ukat tukuñ. Taypi etapana, jisk'a ajllisiñ ukat aski yanapt'asiñ. Qhipa etapana, arcilla ch'allañ jan ukax esponja ch'allañ kunjamasa sensorial luqtañanak, ukat resultado sipansa sum uñjañ.
 
-Walja phase yatiyañataki, [qalltawi phasea](/activities/early-stage/), [taypi phasea](/activities/middle-stage/) ukat [tukuyawi phasea lurawinaka](/activities/late-stage/) uñjasim. Jupax jan munañ jan ukax jaqhañ jan kusisiñ ukhaxa, [jan munañ ukhamaw](/caregiving/when-they-say-no/) yatiyi, kunjamat sayt'ayañ.
+Etapa patxan yaqha ideas uñjañataki, [qalltañ etapa](/activities/early-stage/), [taypi etapa](/activities/middle-stage/) ukat [qhipa etapa luqtañanaka](/activities/late-stage/). Jupax janiw munañ jan ukax chuymachi, [cuando alguien dice no](/caregiving/when-they-say-no/) qillqatax kunjamasa qhipa sarnaqañ yatiyi.
 
-## Mä jaqhañ jan ukax pusi lurawi
+## Mä juego ukampi
 
-Arte lurañ qhipa, tablet ukan [coloring](/games/coloring/) lurañ jan ukax [picture puzzle](/games/picture-puzzle/) tukuñataki. Jupanakax amparanakar sayt'ayañ, jan jach'a sum ch'uqañ munasiri.
+Pintura sarnaqañ qhipana, [coloring](/games/coloring/) tablet patxan jisk'a sarnaqañataki, jan ukax [picture puzzle](/games/picture-puzzle/) tukuñ luqtañataki. Ukanakax maki ocupañ janiw ch'iqa yatiñ munañ.

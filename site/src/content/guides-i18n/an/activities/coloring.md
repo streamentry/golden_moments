@@ -1,33 +1,33 @@
 ---
-title: "Actividatz de pintar pa l'alzheimer y a demencia"
-seoTitle: "Pintar pa l'alzheimer y a demencia"
-description: "Pintar pa personas con alzheimer o demencia: dibujos pa adultos, creyons gordos, chuegos de tocar pa pintar y dibujos pa imprentar, con consellos y maneras de parar sin problema."
+title: "Actividaz de colorear pa l'alzhéimer y la demencia"
+seoTitle: "Colorear pa l'alzhéimer y la demencia"
+description: "Colorear pa personas con alzhéimer o demencia: dibuixos pa adultos, creyons grans, chuegos de tocar y imprimibles, con consellos pa empezar y parar sin problema."
 section: activities
 order: 25
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Pintar ye una actividat sincilla y sin final fixo: no hai respuesta mal, y
-  se puede parar en qualsevol momento. Pa las personas que viven con alzheimer
-  o demencia, triga dibujos pa adultos con formas grans y claras, y ofrez
-  creyons gordos o rotuladores. Sienta-se al lau d'ella, alabe los colors y no
-  la traza, y deixe que la persona decida cuando parar. Un chuego de pintar en
-  a pantalla y dibujos pa imprentar son dos opcions.
+  Colorear ye una actividat sincilla y sin reglas: no bi ha respuesta mal, y se
+  puede parar en qualsevol momento. Pa las personas con alzhéimer u otra
+  demencia, trigue dibuixos pa adultos con formas gruesas y poco detalle, y
+  ofreixca creyons gruesos o rotuladores. Sienta-se al lado d'ellas, alabe los
+  colors y no la pulcritut, y deixe que la persona decida cuán parar. Un chuego
+  de tocar en pantalla y las páginas imprimibles son dos opciones.
 keyPoints:
-  - "Triga dibujos pa adultos, como paisaches de naturaleza, mandalas, oxetos familiars y dibujos grans y sinplos, no dibujos de debuxos animatos pa nenos."
-  - "Use creyons gordos, rotuladores grans o lapiceros gordos. Sostienga bien o papel y tienga la paleta chicota."
-  - "Se puede pintar en a pantalla tocando un color y luego una parte del dibujo, asi no fa falta control fino de la man."
-  - "Parle d'os colors y d'o dibujo, no de si la persona se ha salito d'as linias."
-  - "Parar antes ye normal. Unos minutos pintando chuntos son una actividat completa."
+  - "Trigue dibuixos pa adultos, como paisachs de la natura, mandalas, oxetos familiars y dibuixos grans y sencillos, no dibuixos infantils."
+  - "Use creyons gruesos, rotuladores grans o lápices gruesos. Suxete bien el papel y tienga poquez colors."
+  - "Se puede colorear en pantalla tocando un color y dimpués una parte del dibuixo, cosa que evita la destreza fina de la mano."
+  - "Parle d'os colors y del dibuixo, no de si la persona se ha salito de las linias."
+  - "Parar prou aviesto ye bien. Unos minutos colorando chuntos ya son una actividat completa."
 faq:
-  - q: "Ye bueno pintar pa las personas con alzheimer?"
-    a: "Ye una actividat sincilla y agradable que muitas personas encuentran calmosa, y no fa falta memoria ni respuestas correctas. No ye un tratamiento, y nada d'aqui affirma que frene a enfermedat. Consideri-la como una actividat compartida agradable."
-  - q: "Qué dibujos pa pintar funcionan millor pa adultos con demencia?"
-    a: "Los dibujos con zonas grans y claras y temas conoixidos suelen funcionar millor: flors, fruita, chardins, aucells, barcos u un oxeto favorito. Evite los dibujos chicotez y plenos de detalles, y los que parezcan de nenos. Los dibujos pa adultos pa imprentar y los chuegos de tocar pa pintar son buenas opcions."
-  - q: "A mi mai se disgusta cuando pinta fuera de as linias. Qué puedo fer?"
-    a: "Digue-le que as linias no importan. Triga un dibujo con formas grans, o sugiera-le que pinte toda la pachina d'un solo color. Alabe os colors que triga, y pare si se frustra."
-  - q: "Se puede pintar en una tableta?"
-    a: "Sí. Golden Moments tiene un chuego de pintar en o que se toca un color y luego una parte del dibujo. No fa falta control fino de la man y ye fácil de empezar y parar."
+  - q: "¿Colorear ye bueno pa las personas con alzhéimer?"
+    a: "Ye una actividat sincilla y agradable que muitas personas encuentran calmante, y no necesita memoria ni respuestas correctas. No ye un tratamiento, y nada d'aquí dice que frene la enfermedat. Considérala una actividat agradable pa fer en familia."
+  - q: "¿Qué páginas de colorear funcionan mejor pa adultos con demencia?"
+    a: "Las páginas con zonas grandes y claras y temas conocidos suelen ser las mejores: flors, fruta, uerto, pájaros, barcos o un oxeto favorito. Evite los dibuixos chicos y con muita cosa, y los dibuixos que parezcan infantils. Las páginas pa adultos imprimibles y los chuegos de tocar pa colorear son dos buenas opciones."
+  - q: "Mi mai se disgusta cuando colorea fuera de las linias. ¿Qué puedo fer?"
+    a: "Dígue-le que las linias no importan. Escoja una página con formas grans, o sugiérale que pinte la pachina entera con un solo color. Alabe los colors que escoyga, y pare si se frustra."
+  - q: "¿Se puede colorear en una tableta?"
+    a: "Sí. Golden Moments tiene un chuego de colorear en que se toca un color y dimpués una parte del dibuixo. No necesita control fino de la mano y ye fácil de empezar y de parar."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -46,51 +46,51 @@ related: [activities/arts-and-crafts, activities/art-projects, activities/printa
 health: false
 ---
 
-Pintar ye una d'as actividatz creativas mas fáciles de ofrecer a una persona que vive con alzheimer u otra forma de demencia. No fa falta leyer, no fa falta memoria y no hai respuesta correcta. As mans se mueven, salen colors, y hai un dibujo del que charlar. Esta guía explica como triar os dibujos, qué preparar y como pintar chuntos sin que pareixca cosa de nenos ni un examen.
+Colorear ye una d'as actividaz creativas mas fáziles que se pueden ofrir a una persona con alzhéimer u otro tipo de demencia. No necesita leyer, ni memoria, ni una respuesta correcta. Las mans se mueven, salen los colors, y hay un dibuixo del que charrar. Esta guía explica cómo escoller las páginas, qué poner en a mesa, y cómo colorear chuntos sin que pareixca cosa de nens ni una prueba.
 
-## Por qué pintar encaixa con muitas personas con demencia
+## Por qué colorear ye bueno pa muitas personas con demencia
 
-Pintar da a las mans algo que fer y a los ojos algo que seguir. Se puede fer sentau a una mesa o en una cadiera al canto d'una finestra, y se puede agarrar y dexar facilment. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) describe l'arte como una manera de expresar sentimientos y disfrutar d'o presente, y indica que no requiere habilidat artistica.
+Colorear da a las mans algo que fer y a la vista algo que seguir. Se puede fer sentau a una mesa o en una cadera a una finestra, y se puede coger y dixar fácilment. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) describe l'arte como una manera de expresar sentimientos y de disfrutar d'o presén, y indica que no requiere habilidá artística.
 
-A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aconseya triar actividatz que coincidan con lo que una persona aínda puede fer, y ajustar-las a medida que cambian las capacidatz. Pintar se adapta facilment: un dibujo mas gran, creyons mas gordos, menos colors, o una pantalla de tocar pa pintar.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) recomienda escoller actividaz que concuerden con lo que una persona encara puede fer, y adaptar-las a midida que cambian las capacidaz. Colorear ye fácil d'adaptar: un dibuixo mas grande, creyons mas gruesos, menos colors, o una pantalla de tocar pa colorear.
 
-## Triga dibujos pa adultos
+## Escoja dibuixos pa adultos
 
-Os adultos suelen no querer dibujos de nenos. Busque:
+Los adultos muitas vegadas no quieren dibuixos infantils. Mire-se:
 
-- **Paisaches de naturaleza:** un chardín con flors grans, un lago con un barco, aucells en una rama.
+- **Escenas de la natura:** un uerto con flors grans, un lago con un barco, pájaros en una rama.
 - **Oxetos familiars:** una tetera, una bicicleta, una fruta, un sombrero.
-- **Dibujos grans y sinplos:** mandalas y formas geometricas claras con pocas zonas grans.
-- **Estampas d'arte o paisaches** que la persona pueda reconoixer d'un puesto querido u d'un pintor.
+- **Dibuixos grans y sencillos:** mandalas y formas geométricas claras con pocas zonas grandes.
+- **Estampas o paisachs** que la persona pueda reconocer de un puesto favorito o de un pintor.
 
-Evite las pachinas con zonas chicotas y plenas de detalles, que son frustrantes de pintar. Los dibujos pa adultos pa imprentar son una buena opción, y os nuestros [dibujos gratis de actividatz pa demencia pa imprentar](/activities/printable/) incluyen pachinas con letra grande.
+Evite las páginas con zonas chicas y muita cosa, que son frustrantes de pintar. Las páginas pa adultos imprimibles son una buena opción, y nuestras [actividaz gratuitas imprimibles pa demencia](/activities/printable/) incluyen páginas con letra grande.
 
-## Qué preparar
+## Qué poner en a mesa
 
-- **Herramientas gordas y fáciles de sostener.** Creyons de tamaño grande, rotuladores gordos o lapiceros de colors con agarradera ancha son mas fáciles que boligrafos finos.
-- **Una paleta chicota.** Tres o cuatro colors bastan. Demasiadas opcions pueden abrumar.
-- **Papel u cartolina fuerte.** O papel fino se rompe y se desliza. Pegue as esquinas con cinta o use una tabla con pinza.
-- **Una mesa despejada.** Quite lo que sobre y ponga una pachina cada vez.
-- **Algo pa mojar o mezclar,** como un trapo o una esponja, pa un efecto mas suau.
+- **Herramientas gruesas y fáziles de sostener.** Creyons grans, rotuladores gruesos o lápices de colors con un agarre ancho son mas fáziles que los boligrafos finos.
+- **Una paleta chica.** Tres o cuatro colors bastan. Muitas opciones pueden abrumar.
+- **Papel o cartón resistente.** El papel fino se rompe y se mueve. Plegue las esquinas con cinta o use una tablilla con pinza.
+- **Una mesa despejada.** Quite lo que sobre y ponga una página cada vegada.
+- **Algo pa mezclar o difuminar,** como un trapo o una esponja, pa un efecto mas suau.
 
-## Pintar en una tableta
+## Colorear en una tableta
 
-El [chuego de pintar](/games/coloring/) en Golden Moments funciona tocando un color y luego tocando una parte del dibujo. No fa falta control fino de la man, por eso puede encaixar con personas a las que se les ha debilitado l'agarre. Sienta-se al lau d'a persona pa compartir a pantalla, y deixe que elichan os colors. Desactive las notificaciones pa que o dibujo siga siendo lo principal.
+El [chuego de colorear](/games/coloring/) en Golden Moments funciona tocando un color y dimpués tocando una parte del dibuixo. No necesita control fino de la mano, por o cual puede ser adequado pa personas que tienen la agarradera mas débil. Sienta-se al lau de la persona pa compartir la pantalla, y deixe que escoyga los colors. Desactive las notificaziones pa que el dibuixo siga siendo lo importante.
 
-## Como pintar chuntos
+## Cómo colorear en familia
 
-1. **Empiecen o primer trazo chuntos.** Sostienga o creyon con ell o ella, o ponga a suya man sobre a d'ella unos trazos, y luego suelte.
-2. **Parle d'os colors y d'os lugares.** "Qué azul mas bonito. Donde ha visto agua d'este color?" invita a charlar sin hacer preguntas de examen.
-3. **Alabe as eleccions, no a limpieza.** "Ha triau colors muy calientes" se siente mejor que "Se ha quedau dentro de as linias".
-4. **Deixe que lleve ell o la.** Si quiere garrapatear toda la pachina, deixe-lo.
-5. **Pare cuando pare.** Deixe os creyons y propóngase un café o un paseyo.
+1. **Empiece el primer treco chuntos.** Agarre el creyón con ella, o ponga la suya sobre la de la persona unos treszes, y dimpués suelte.
+2. **Charre de los colors y de los puestos.** «Qué azul tan bonito. ¿Dónde ha visto agua de ese color?» invita a conversar sin hacer preguntas de examen.
+3. **Alabe las eleccions, no la pulcritut.** «Ha escogito unos colors muy calentitos» ye mas agradable que «Se ha quedau dentro de las linias».
+4. **Deixe que la persona guíe.** Si quiere repasar toda la pachina, déjela.
+5. **Pare cuán pare la persona.** Dixe los creyons, y sugiera un café con leche o un pasiar.
 
-## Adaptar-se a medida que cambia la demencia
+## Adaptar-se a midida que cambia la demencia
 
-En a etapa inicial, a menudo las personas disfrutan de pachinas con detalles y pueden triar sus propios colors y dibujos. En a etapa media, ayudan los dibujos mas grans y menos opcions. En las etapas mas avanzadas, pruebe una sola forma grande, un papel de colors suaus, o simplement sostener un creyon mientres tararea una canción. Algunas personas disfrutan mas mirando un dibujo acabau que fendo uno.
+En la etapa inicial, muitas personas disfrutan de páginas con detalles y pueden escoller sus propios colors y dibuixos. En la etapa media, ayudan los dibuixos mas grandes y menos opciones. En etapas mas avanzadas, pruebe una forma grande, una hoja de color suau, o simplemente sostener un creyón mientres canta una melodía. A algunas personas les gusta mirar un dibuixo acabau mas que fer-ne uno.
 
-Pa mas información sobre o trabayo creativo en cada etapa, vea [manualidaz pa adultos con demencia](/activities/arts-and-crafts/) y [proyectos d'arte pa personas con demencia](/activities/art-projects/).
+Pa mas información sobre el trabajo creativo en cada etapa, vea [artesanía pa adultos con demencia](/activities/arts-and-crafts/) y [proyectos de arte pa personas con demencia](/activities/art-projects/).
 
-## Cuando parar
+## Cuán parar
 
-Pare si la persona se frustra, aparta o papel, o parece cansada. Acabar a los dos minutos ye un exito si ha disfrutau. Puede tornar mas tarde, o probar con otro dibujo u otra actividat como [chuegos sensoriales](/activities/sensory/).
+Pare si la persona se frustra, aparta el papel, o parece cansada. Acabar a los dos minutos ye un éxito si la persona lo ha disfrutau. Puede tornar mas tarde, o probar otra imagen u otra actividat, como [juego sensorial](/activities/sensory/).

@@ -1,34 +1,35 @@
 ---
-title: "Demencia jakañanakatakix Lup'iwinaka: 101 Sasa Ideanaka"
-seoTitle: "Demencia Lup'iwi Ideanaka: 101 Sasa Lup'iwinaka"
-description: "Demencia jakañ jaqinakatakix 101 sasa, jach'a jaqinakan lup'iwinakapa, p'achanaka sawuñat qhanan ukanakakama, uñtasiñanaka ukat Ch'uxña. Kunjamtix wali machaqa sarañanakan."
+title: "Demencia uñtat jaqinakatakix lurawinaka: 101 sasa amtanaka"
+seoTitle: "Demencia lurawinaka: 101 sasa lurawinaka"
+description: "101 sasa, jaqi lurawinaka demencia uñtat jaqinakatakix, pañuelo tikaña sarawinakat, yatiña ukat sarnaqañ uñjasiñ kunjamsa ch'amañchasiñ."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Wali lup'iwinakax jaqinakatakix ukax uñt'atawa, jach'a jaqinakan ukat sasa
-  uñjasiñawa: p'achanaka sawuña, uñtasiña, manq'a luraña, ch'uxña, uñjañanaka
-  uñjaña, sarañ, qullu lup'iwi ukat sasa jaqi uñjasiña. Jaqix kunanakas
-  wali munañapa ajllisim, lup'iwinakan ch'ikhinakap katunta, sarnaqañat
-  sayt'añ. Sumankaña jakañax lup'iwi tukuyañat sipansa jukhsa.
+  Demencia uñtat jaqinakatakix sum lurawinakax jan kunatsa uñtasipkäna, jaqi
+  ukax yatiwa, sarnaqañ jaqi jupanakampi: pañuelo tikaña, sortear, manq'añ,
+  taqi uñjañ, uywa uñjañ, sarañ, qullu lurañ, uywanakampi sarañ ukat sasa
+  jugonaka. Jaqi munat lurawi ajllisim, lurawinaka ch'iqañ ukax jiwasa luqaña,
+  ukatsa jan sarañ jiwasa ch'amañchañ. Sumaw sarnaqañ ukat jupanakampi
+  sarnaqañ, taqi lurawi tukuñat sipansa.
 keyPoints:
-  - "Jaqin jakañapat qalltañamawa: lup'iwipa, lunthatawipa, iglesia ukat ch'uxña taqi kunanakapa wali thaqhaskiwa."
-  - "Kuna lup'iwis jiwasa chika lurañatakix sasa luraña: sapa ch'ikha lurañanaka, ajllitanakax jan askinaka, jiwasax wali ch'ikhi lurañan."
-  - "Uñjañax, aptañax jan ukax jaqi chika qunturañax lup'iwi sarañapa ukhamarakiw."
-  - "Jaqix qhiparañ, jan sum munañ jan ukax wali jark'añ uñjaski ukhax sayt'añ jan ukax mayjt'ayañ. Jaqix jakhusiñaw wali."
-  - "Chika lurañax sumanñapatakix askiwa, jan wali lurañapatakix sipansa."
+  - "Jaqi ukan sarnaqañap uñjasim: lurawinakapa, irnaqäwipa, yupaychäwipa ukat munat takinakapa sum amuyt'äwiwa."
+  - "Lurawi jisa ch'iqaña kunapachatixa: jan sapa k'añunaka, jan akapachaxa ajllinaka, jiwasa lurañ."
+  - "Uñjañ, aptañ jan ukax ch'uyanakan uñtasiñ, taqi lurawinakan yanapt'añ ukhamarak."
+  - "Jan ch'ama sarañ, jiwasa sarañ uñjasiñ jan lurañ: sarañ ukax sum jutañawa."
+  - "Taqi kunatsa sumaw, jan ukax jiwasa kunatsa lurasi ukax uñjasim."
 faq:
-  - q: "¿Kuna lup'iwinakas demencia jaqi sumäkaspa?"
-    a: "Jaqix maya lup'iwinakaruw sarañapa, kunanakas jupax sapa mayt'ayarakiwa, kunanakas sasa sasanw. Uñt'apxam sart'añat, manq'a luraña, ch'uxña, uñjañanaka, sarañ, qullu lup'iwi ukat ch'uxña. Jupax wali yanapt'añ munañ lup'iwinakaw ajllisiñapa, ukat chika lurañ."
-  - q: "¿Kunjamasa lup'iwix utjañapa?"
-    a: "Janiw kuna ch'iqhapax utjkiti. Mä qawqha qhulla p'achanakaxa uñtasiñax askiwa, jichhürux mä hora qullumpi lurañax sumatwa. Jaqix thaqhapax ajllisi, sum sarañ ukhamaw utjañapa."
-  - q: "¿Kunas jaqix lup'iwi lurañat janiwa munkiti ukhax?"
-    a: "Janiw qhiparasiñamäkiti. Janiw sañax lup'iwix jark'añ, pacha wakisiñ jan ukax jaqix qarjatañ jan ukax jan sumäñ ukax utjaspa. Qhiparamaw yant'aña, jisk'a lurañ yanapt'añ jan ukax jumax sarañatakix qalltam ukat jaqi yanapt'añ mayñamaw."
-  - q: "¿Yatiñ sayt'aña jaqinakatakix askinakas?"
-    a: "Sayt'añanakax askiwa, jan ukax jiwasa chikaw sarañapa, ukampirus janiw kunatix sayt'añax demencia qhanañ, qhiparañ jan ukax jiwayaña ukax uñt'atäkiti. Jan ch'ikhi ukat jan puntos jan ukax jan wali sarañ sarakis sayt'añanakax ajllisiñamawa, ukat chika lurañ ukhamaw luraña, jan jach'a yatiñ uñjasiña ukhamäkaspa."
-  - q: "¿Kunjamasa lup'iwinakax wawanakjam jan uñjatäñapa?"
-    a: "Chiqapa, jaqi tuqi lup'iwinak apnaqañamawa: chiqapa tuwallanaka, chiqapa yatiyañanaka, jach'a jaqinakan ch'uxña ukat uñjañanaka, jach'a jaqinakan uñjañanaka. Lup'iwinakax yanapt'añ muni ukhamaw uñjañamawa, jaqirux jach'a jaqi ukhamaw parlañamawa."
+  - q: "¿Kuna lurawinaka sum demencia uñtat jaqinakatakix?"
+    a: "Jaqi walja maranakan lurirakiwa uñtasi, jisa ch'iqatanaka: pañuelo tikaña, mesa tukuña, manq'añ, taqi uñjañ, qullu lurañ, sarañ, uywanakampi sarañ. Amuyt'añanakaw ajllim, sumaw jiwasa lurañ."
+  - q: "¿Kunas lurawi sayañapa?"
+    a: "Janiw kuna jak'achaw. Mä uru pañuelo tikaña walja uñtasi, mä phaxsi quqa lurawi ukax sayñawa. Jaqi wali sayañapa amuyt'ayañ, sum jan ch'ama tukuñawa."
+  - q: "¿Kunas jaqi lurawi jan munañapa ukax?"
+    a: "Jan ch'amañchañ. Jan munañ ukax lurawi ch'amanïtaw, dupa jan ukax jan kuntï sum sarañ uñtasi. Qharurusa sarañ, jisa ch'iqat lurawi ajlliñ jan ukax jumax lurañ sayñapa."
+  - q: "¿Yatiña uywanakax sum demencia uñtat jaqinakatakix?"
+    a: "Uywanakax jaqinakampi sarañ ukax sumawa, ukampis janiw kunatsa ch'iqañ, ch'amañchañ jan ukax ch'uqiñ katuntañ qhipxataraki. Jan tiempo, jan puntaje, jan jaranaka ukanakatakix ajlliñ, ukat sapa jiwasa lurawi amuyañ."
+  - q: "¿Kunsa lurawinakax jaqi jiwasa uñjañ jan ukax uñjañanakanaka?"
+    a: "Chiqapa, jaqi lurañ materialanakampi: chiqapa pañuelonaka, chiqapa uñt'añanaka, sarañ musicanaka ukat jaqi amuyt'ayañ. Lurawinakax yanapt'añ jiwasa mä kunatsa munasiñ, ukat jaqi jaqi uñtañ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-Demencia jakañ jaqirux wali lup'iwix, jupa ukax sumpi yatiwayaña, sasa luraña ukat jupat yatiri jaqi chika lurañawa. Ukhamarakiw 101 ideanaka, sapa mayni, kunjamasa lurañ, kunjamasa sasa lurañ jaqi tukuyañ ukat sasa lurañ uñtatawa. Janiw kuna mayjt'añanakas munañamäkiti, janiw kuna tukuyañas munañamäkiti. Mä wali urupa, mä canasta p'achanakampi, mä ch'uxña qaphimpi, ukax chikaw utjañapa.
+Demencia uñtat jaqitakix sum lurawi ukax general jiwasa yatiwa, jaqi ukax jupa sarnaqañ jaqinakampi. Akham 101 sasa lurawinaka, taqi jaqi ukhamaraki, kunjamsa lurañ ukat kunjamsa ch'iqañ kunapachatixa jan ch'amäñ. Janiw kuna yanapt'awinaka munañax, janiw taqi lurañ munañax. Mä uru pañuelo canasti ukat mä ch'uspa ch'uyanakampi sum uñtasiñ.
 
-## ¿Kunjamasa lup'iwi ajllisiñax?
+## ¿Kunjamsa ajllisiñ sum lurawi?
 
-Lup'iwi ajllisiñax jaqimpiw, janiw listanakampi: jupax kunanakas wali munañapa, kunanakas jichhürux askiw luraña uñtasiñapa ukat qalltañamawa.
+Jaqi ukax ajllim, jan lista: qalltañ jaqi munat lurawinakampi, jupa kunanakan ch'amanïta.
 
-- **Lunthatawipa, lup'iwipa uñtasiñamawa.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yatiyistu, mä qhipa oficina jaqix monedanak ukat qillqatanak sarañ munañapa, mä ch'ukiri jaqix uywanakapa ukat qulqunakapa.
-- **Kunanakas jupax lurañapa uñjasiña.** Awkim aka phuqhanaka sweep juk'amp ukat ch'uxña, ukax uruw uruwjam lurañapa.
-- **Kunanakas jupax jan ch'ikhi uñtasiñamawa.** Qarjatañ, nayrampi uñjañ, lunch sarañ, makhatanakan ch'iqhapa ukat sarnaqañ uñtasiñamawa.
-- **Jupan sarnaqañap uñjasiña.** Jaqi kunjamasa wali munañapa ukat kunjamasa jan munañapa, ukhamarak jaqinakan kunanakapa uñjasiñamawa.
-- **Kuna amtapa uñjasiña.** Mä iglesia qhipa uñjañ jan ukax chiqapa uñjasiñax askiwa, sapa jan askiñ sayt'añat sipansa.
+- **Irnaqäwi ukat lurawinaka amuyaña.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yatiyi, mä oficinista jaqi qullqi sortear jan ukax kartanakar ch'uqiñ munañapa, mä ch'uqiri jaqi ukax ch'uqi lurañ munañapa.
+- **Kunanakat lurañ uñjaña.** Jumax tatitu thuntañ yatixa, jupa wali sapa uru, ukax lurawi ukat uñtañ.
+- **Ch'amapa uñjaña.** Qhipsiñ, uñjañ, ist'añ, amparanakan ch'amañ ukat sayañ ukat uñtasiñ.
+- **Amuyunakap uñjaña.** Lurawinakax walja sarañ ukat jachañ ukax kuna jaqinakatakix sumawa, kuna jaqinakatakix ajlliñ.
+- **Amtawa jupanakatakix.** Qullqi servilletanaka yänaka sarañ, jan ukax jan kuna lurawi.
 
-### Etapanakan ukat jiwasa amtasiñanaka
+### Kunapachatixa sapa jaqi uñtasiñ
 
-Demencia jakañaxa qalltañ, chika ukat qhipa etapanakanakawa uñt'atawa. Ukax yänka amtanakawa, janiw mä jach'a sawuñanakaqa, jaqinakax wali uruw, jan wali uruw sarnaqapxi, ukhamasti jichhürux uñjasiñamawa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) qillqaskañanakapa ukat ukhamarakiw yatiyiwa.
+Demencia ukax sapa jaqi qalltañ, taqi jaqinakatakix sarnaqañ jaqinakampi. Jiwasa qalltaña ukax jan sapa, jan ukax ukhamaraki. Ukatsa [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yatiñapa.
 
-| Tuqi | Qalltañ etapa | Chika etapa | Qhipa etapa |
+| Tema | Qalltañ uru | Chiqa uru | Qhipa uru |
 | --- | --- | --- | --- |
-| Kunsa uñjasma | Sapa jakañ sarañ; amtañ, jan ukax wali mayni chiqanakan jark'asiñ jark'at | Qalltañatakix yanapt'añ ukat luraña chika jark'ata; arunakax ch'iqhapa | Uru uruw yanapt'añ wali munañapa; uñjañanaka ukat uñtañanaka wali askiwa |
-| Lup'iwinaka kunjamasa askiwa | Sapa jakañ sarañ, amtañ, mä jach'a sarañ, uywanaka, ch'uxña, luqtañanaka | Tuwallanaka, sarañanaka, jisk'a manq'a lurañanaka, ch'uxña, ch'uxña takinaka, sarañ | Ch'uxña, makhatanakan masaña, jiwañ manq'añ, jaqi kallpa, ch'uxña uñjaña |
-| Jumax kunas sarañ | Yanapt'iri: jaqix kunsa yanapt'añ muni jupax | Thaqhañ, uñtañ, lurañ, jark'a lurañanaka | Lup'iwix jupar apaña; jumax chiqapa lup'iwiw |
-| Yatiyañanaka | [Qalltañ etapa](/activities/early-stage/) | [Chika etapa](/activities/middle-stage/) | [Qhipa etapa](/activities/late-stage/) |
+| Kunanakas uñjaña | Walja jaqi ch'amañchasi; amuyañ, machaq sutinaka ukat walja chiqanaka jan sum | Yanapt'añ qalltañ ukat lurañanakan; arunaka jan sum | Walja lurawinakan yanapt'añ; jiwasa mayjt'ayañ sumawa |
+| Lurawinaka kunanakas sum | Naypacha sarañ, lurañ, manq'añ, qullu lurañ, yatiña ch'iqañ | Pañuelo tikaña, sortear, manq'añ jisa lurañanakan, arunaka, chiqa uñt'añanaka, sarañ | Munat musica, aka uñjañ, kunaymana kunanaka aptaña, arunaka ist'añ, qhana chiqanaka |
+| Jumax kuna lurañ | Yanapt'añ: jupa kuna yanapt'awinaka munañap jisa | Yatiyaña, uñtañ, ch'uqiñ lurawinakan yanapt'añ | Lurawi jupar apaña; jumax uñt'añaw lurawi |
+| Walja ideanaka | [Qalltañ uru](/activities/early-stage/) | [Chiqa uru](/activities/middle-stage/) | [Qhipa uru](/activities/late-stage/) |
 
-## ¿Kunjamasa jaqi demencia jakañ jaqi chika lup'iwi qalltañ?
+## ¿Kunjamsa qalltañ lurawi demencia uñtat jaqimpi?
 
-Jisk'a qalltañ, chika qalltañ ukat jupanakar sayt'aña, mä mayt'ayañ sasa. Walja jaqinakax ch'uxña lurañ munapxi, ukampirus lurañ qalltañ ukat yatiyañ jark'apxi.
+Jisa qalltaña, jupampi qalltaña, ukat jupa munañapa sum ch'iqaña. Walja jaqinakax lurañ munapxi, jan ukax amuyañ ukat qalltañ ch'amanïpxi.
 
-1. **Jupan sum urupa ajllisiña,** kunapachatix uru sarxi ukax.
-2. **Taqi kuna sayt'añanakaw nayrar uñjañ,** ukhamat qalltañ.
-3. **Yanapt'añ mayisiña, janiw uñjañ luraña:** "¿Jumax maya yanapt'ama?"
-4. **Jumax qalltam.** Mä tuwalla lluchurimpi, jumax qalltam ukat jupax sarañ. Uñjañax arunakat sipansa askiwa.
-5. **Mä ch'ikhi lurañ mayni.**
-6. **Jach'a lup'iwi jumax lurañ.** Alzheimer's Association yatiyistu, jumax manq'anakan qulqunakapa lurañ, ukat jupar chamcha ch'uqañ.
-7. **Jupan sarnaqañapampi lurañ.** Tuwallanaka jukhusa sarxiwa, janiw kunas jan askiwa.
-8. **Jan wali sarañ ukhax tukuyañ.** Ch'iqhapa, jan kusisa jan ukax "janiw atiñäkiti" sañ ukhax, sayt'añ jan ukax samar sarañ.
+1. **Jupan sum uru ajlliña,** taqi naypacha.
+2. **Taqi kuna uñt'añ sayaña,** ukhamat qalltañ.
+3. **Yanapt'añ mayñiña, jan uñtasiña:** "¿Ukax yanapt'asmawa ukanakan?"
+4. **Qalltañ jumaw.** Mä pañuelo tikaña, jupa mayt'añ. Uñjañ, arunakat sipansa sumawa.
+5. **Mä lurañ mayni yanapt'añ.**
+6. **Ch'iqañ lurawi jumax lurañ.** Alzheimer's Association yatiyi, manq'a ajllisiñ jumax, ukat cuchara jupar churañ.
+7. **Jupan kunjamsa munañapa lurañ.** Jan sum tikasa pañuelonaka jan ch'amañ.
+8. **Jan walikipan tukuña, jupa jan munasiña uñjasim.** Jan sayañ, q'añu uñjañ ukat "jan atinïa" arunaka ukat sayañ.
 
-Uñjañanaka: [kunjamasa chika lup'iwi](/caregiving/how-to-play-together/) ukat [parlañ yatiyañanaka](/caregiving/communication-tips/).
+Uñjañ ukhamaraki [jiwasa sarañ](/caregiving/how-to-play-together/) ukat [arunaka ist'añ](/caregiving/communication-tips/).
 
-## Utan sarnaqañ lup'iwinaka
+## Uta ukan lurawinaka
 
-Utan lup'iwinakax uñjasiñawa, jupanakax wali askiwa ukat qalltañatakix mä sum chiqawa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyistu, manq'a q'awanak, mesa uñjañ, sweep, correo uñjañ ukat tuwallanak uñjañ jaqinakax munapxi. Juk'amp yatiñataki: [utan lup'iwinaka](/activities/household-tasks/).
+Uta lurawinakax yatiwa ukat sum, ukatsa qalltañ sum. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi, manq'a ch'uqiña, mesa tukuña, q'uma apaña, cartanakat ch'uqiña ukat pañuelo tikaña jaqinakan munat lurawinakapa. Walja [uta lurawinaka](/activities/household-tasks/) ukhamaraki.
 
-1. **Q'uma tuwallanak mikhuña.** Canasta jamasa mesa ch'uqañ, chiqa chiqar tuwallanak uñjañ. Qhipaxa, alisaña ukat apaqaña wali askiwa.
-2. **Medias chikaru uñjaña.** Qalltañatakix wali sapa uñjat ch'uxña. Qhipaxa, qhanat ch'uxñ sarañ wali askiwa.
-3. **Mesa uñjaña.** Mä kunsa mä kuti apaña. Mä lugar jumaw qalltam.
-4. **Manq'a q'awa uñjaña jan ukax jamayaña.** Q'umpi ukat wali ch'uxña umanwa. Jamayañax chiqa uñjañatakix askiwa.
-5. **Mesa ch'uqaña.** Manq'añ qhipa jumpa lliqt'añ ch'uxña. Jaqix luraña wali askiwa.
-6. **Correo uñjaña.** Catálogo ukat ch'usa correos "imañ" ukat "qhurt'añ" ukhamaw uñjaña. Chiqapa yatiyañanaka jan mistuñamäkiti.
-7. **Cupones ch'uqaña.** Tijerapa ukat wali chiqapa uñjañanaka. Qhipaxa, jaqi munañapa manq'anak uñjañ wali askiwa.
-8. **Monedanak uñjaña.** Monedanak phuqhaña jan ukax wali chiqat wali sart'aña. Jaqix jisk'a lurañanak aptañ ukat mikhuñ sapa jan.
-9. **Sweep jan ukax ch'ukiña.** Ch'uxña escoba porchinkan jan ukax wali chikhar qhipa ch'uxña.
-10. **Manq'a lurañ yanapt'aña.** Ch'uxña ch'uxñ, lechuga jak'añ, jan ukax chamcha ch'uqaña. Jumax cuchillo ukat nina uñjañ.
-11. **Familia manq'a luraña.** Jupan qillqatapa uñjañ, khitinakas utjaspa. Qhipaxa, mä jaqi jamasa jakhusiña.
-12. **Oficina lup'iwi lurañ.** Cartanak lluchuña, sobres uñjaña ukat sello jak'añ, jan ukax manq'a lista qillqaña.
+1. **Q'añu pañuelo tikaña.** Canastar mesar ch'uqiña ukat jupampi tikaña. Sipansa, pañuelo jisa lurañ sum.
+2. **Medias jupta ch'uqiña.** Qalltañ ch'iyar jan sapa colornaka. Sipansa, janq'u ukat ch'iyar ch'uqiña sumawa.
+3. **Mesa tukuña.** Mä mä uñt'añanaka churaña. Mä lugar jumax tukuña, jupa uñjañapataki.
+4. **Manq'a apaña jan ukax ch'uqiña.** Q'añu uma, jan kaskaña ch'uqinakampi. Asientunkama ch'uqiña sum jiwasa tuqinakatakix.
+5. **Mesa q'uñuña.** Manq'añ qhipa ch'uqi paña churaña. Sum lurawi jisa janq'unakatakix.
+6. **Cartanakat ch'uqiña.** Catálogo ukat jan sum carta "waxt'aña" ukat "reciclar" ukar. Jan qullqi cartanaka uñjañ.
+7. **Cupónes ch'uqiña.** Tijerajat tijeranaka ukat grocery panfletonaka. Sipansa, munat manq'anakar jaqar.
+8. **Qullqi ch'uqiña.** Monedanaka vasonakar ch'uqiña jan ukax lurañ. Jan jisa uñt'añanaka jupa jakuñ.
+9. **Q'añu apaña jan ukax thaqhaña.** Jisa escoba jan ukax jaqinakat uñt'añ.
+10. **Manq'a lurañ.** Q'uma verduranaka, lechuga q'uñuña, sayañ. Jumax cuchillonaka ukat nina uñjañ.
+11. **Familia receta lurañ.** Jupan qillqatapa ukax sumawa. Sipansa, jupa degustador.
+12. **Oficina lurawi.** Carta tikaña, sobre ch'uqiña ukat sello churaña, jan ukax manq'a listar.
 
-## Ch'uxña
+## Musica
 
-Walja jaqinakan arunakaxa jan sum yatiñapkanti ukhasa, ch'uxñax wali yanapt'añ ukat jupanakan chuymanakap sayt'añ. [Alzheimer's Association ch'uxña yatiyañanaka](https://www.alz.org/help-support/caregiving/daily-care/art-music) yatiyistu: sapa jaqinakan ch'uxña, janiw publicidad jan ukax TV. Juk'amp yatiñataki: [ch'uxña lup'iwinaka](/activities/music/).
+Musica yatiwa jaqinakatakix arunaka jan sum sarañ ukhamarak. [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) yatiyi, yatiña tuqinakat, jan propaganda ukat TV jan. Uñjañ [musica lurawinaka](/activities/music/).
 
-13. **Jupan ch'uxñapa uñjaña.** Yoqallanak, chiqapa ch'uxña, iglesia ukat jupan awkimpi ch'uxña.
-14. **Ch'uxñ sarañ.** Jumax qalltam. Jan jach'a ch'uxña uñjañax yanapt'añ.
-15. **Chiqa uñjaña.** Palmas, uqhanakampi jan ukax tambor ch'uxña. Qhiparasiñ jaqinakatakix wali askiwa.
-16. **Ch'uxña ch'uxña.** Manq'a ch'uxña, jan ukax qhiparasa chiqat thaqhañ.
-17. **Mä ch'uxña tukuyaña.** Jupan ch'uxña mä cassette jan ukax disco, qalltañat tukuyañkama.
-18. **Ch'uxña parlaña.** Chiqapa yatiyañanaka jan, jan ukax jakañ sarnaqañ ukat yatiyañanaka mayisiña: "Jupax maya pachan tuqi ch'uxñ sarañ jan ukax uñjañ."
-19. **Ch'uxña jan ukax concierto uñjaña.** Jupanakan wali munañ ch'uxña, khititix wali munäspa. Ch'uxñax jupanak kusisiyañ.
-20. **Ch'uxña yatiña.** Jupanakan ch'uxña piano ukat ch'uxña jisk'a arunakampi.
-21. **Ch'uxña uñjaña.** Mä jisk'a concierto jan ukax coro. Chiqapa uñjañanakar jark'añ.
+13. **Jupan playlist lurañ.** Musica ch'iqinkiri, casamiento ukat iglesia ukat jupan marka.
+14. **Jupampi arunaka.** Jumax qalltañ. Ist'añ ukat uñtañ sum.
+15. **Ritmo uñjaña.** Aplaudir, jan ukax thaqhaña. Sayañ jan sum ukhamaraki.
+16. **Ch'alla.** Sumaw jupampi sayañ.
+17. **Mä albúm ist'añ.** Jupan munat disco, qalltat tukuñkama.
+18. **Musica uñtañ.** Chiqa arunakat jan sipansa jan chiqa: "Uñtañam nayar jupanakat."
+19. **Filmat musica uñjaña.** Munat show. Jan tuqi sayañ.
+20. **Instrumento tañaña.** Jupa pianista ukat, jisa yatiña.
+21. **Musica chiqapa ist'añ.** Mä jisa coro ukat mä jisa musica. Jan tuqi sarañ.
 
-## Kusa uñjañ: uñjañanaka, lup'iwinaka ukat yatiyañanaka
+## Yatiña, uñjañanaka ukat arunaka
 
-Qhipa pachan kusisipxam, jan uñjañ ukhama. "¿Yatimti...?" ukat "¿Khitisa?" sañ jaqi phiñ, mä mayni yatiyañanaka mayisiña. Juk'amp yatiñataki: [kusa uñjañ lup'iwinaka](/activities/reminiscence/).
+Qhipa uru uñtañ jan jach'a kunawa. Jan "¿Yatiñamasa...?" ukat "¿Kuna jaqisa?" arunaka; sipansa kuna jaqinakas uñjañ. [Reminiscence activities](/activities/reminiscence/) uñjañ.
 
-22. **Mä uñjañ album uñjaña.** Uñjatanak arsuña: "¡Kunja wali ch'uxña! Parlasiñamawa uka urux." Jupan arunakap katuña.
-23. **Mä yatiñ caja luraña.** Jupan jakañap yatiñanakampi, mä trabajo carnet jan ukax manq'a qillqaña. Mä mä apaña.
-24. **Mä jakañ qillqa qillqaña.** Mä qillqa jaqi uñjañanakampi, letra jach'a. Jaqi yanapt'irinakax jupar yatiñatak.
-25. **Yatiyañ cartanak uñjaña.** [Conversation cards](/games/conversation-cards/) mä uñjañ ukat mä parlañ.
-26. **Familia uñjañ lup'iwi luraña.** [Photo pairs](/games/photo-pairs/) juman uñjañanakam mä chikaru lup'iwi.
-27. **Uñjañ video jan ukax TV uñjaña.** Parlasiñamawa, jan jiwasa jiwasa jarurïña.
-28. **Lup'iwi jakañ apaña.** Mä llave, mä estetoscopio, mä libro. Makhatanakax yatiyañ.
-29. **Qhipa manq'a luraña.** Jupax ch'uxña, manq'a jaqi jan ukax uñjañ.
-30. **Ch'uqañ mapa uñjaña.** Qhipa jakañ chiqanakan sarañ uñjaña.
+22. **Mä albúm uñjaña.** Uñjat arunaka: "¡Kunjam sum pollera! Uñtañam nayar uru." Jupa sutinakap ist'aña.
+23. **Mä caja uñtañ.** Jupan uñt'añanaka, ejemplo carnet ukat receta. Mä mä uñjaña.
+24. **Mä libro qalltaña.** Mä pajinar walja uñtañanaka, letra jach'a uñt'añanaka.
+25. **Conversation cards.** [Conversation cards](/games/conversation-cards/) mä uñtañ ukat mä arunaka.
+26. **Familia uñtañ jugo.** [Photo pairs](/games/photo-pairs/) jumanakan uñtañanakat.
+27. **Uta video jan ukax TV uñjaña.** Jupanakat arunaka, jan jisa jan.
+28. **Irnaqäwi uñtañ.** Mä llave, mä estetoscopio, mä libro. Janiw sapa qillqaña.
+29. **Wawa manq'a lurañ.** Jupa mä cuchara jan ukax manq'a uñjañ.
+30. **Mapa uñjaña.** Mä atlas jach'a jaqi sarnaqat uñtañ.
 
-## Luraña ukat ch'uxña lup'iwi
+## Lurawi ch'uqiña
 
-Lup'iwix luraña lurañawa, janiw phuqhat lurañax. Materialanakax jach'a jaqinakan, wali. Juk'amp yatiñataki: [arte ukat manualidades](/activities/arts-and-crafts/).
+Arte lurañ ukax lurañ, jan lurat uñtañ. Chiqapa materialanakampi lurañ. Uñjañ [arts and crafts](/activities/arts-and-crafts/).
 
-31. **Acuarela pintaña.** Jach'a papel, qawqha ch'uxña. Qalltañ jark'a ukax, jupanakampi mayt'aña.
-32. **Jach'a diseño colorear.** Qhanat ch'uxña, janiw dibujo jisk'a. [coloring pages](/games/coloring/) yatiyañanaka.
-33. **Collage luraña.** Revistanakan uñjañanaka t'ijañ, qhurt'añ. Qhipaxa uñjañanaka ch'uqañ askiwa.
-34. **Qurinak ch'uqaña.** Mä ramo jan ukax mä florero. Qhipaxa, jisk'a qurinak mä jarrón.
-35. **Q'ipi lurañ.** Jisk'a q'ipi jan ukax jisk'a agujanakampi. Qhipaxa, lanacha ch'uqaña.
-36. **Familiar tarjetanakan lurañ.** Cumpleaños ukat sum jan ukax chiqa jaqinakatak.
-37. **Arcilla lurañ.** Mä jisk'a plato lurañ. Materialanakax jan qhapiñ ukat nayar uñjaña.
-38. **Madera lijar.** Mä jisk'a casa de pájaros kit ukat lija. Juk'amp yatiñataki: [actividades para hombres](/activities/for-men/).
-39. **Carta qillqaña jan ukax parlaña.** Jilanakar ukat jank'ak amigo. Qillqañax jan askïpan, jupax parlaraki, jumax qillqam.
+31. **Acuarelanakampi pintaña.** Jach'a papel, jisa colornaka. Qalltañ jan sum ukax mayt'añ.
+32. **Chiqa diseñonaka colorear.** Flores jan dibujos animados. [Coloring pages](/games/coloring/) pantalla jan ukax imprimir.
+33. **Collage lurañ.** Revistanakat jaqi uñtañanaka. Sipansa, uñtañanaka ajlliña.
+34. **Flores tikaña.** Mä ramo ukat mä florero. Sipansa, jisa qhanqha.
+35. **Wayt'añ jan ukax crochet.** Jisa wayt'añanaka. Sipansa, lanaka bolanakar.
+36. **Familia tarjetanaka lurañ.** Cumpleaños ukat recuperación tarjetanaka.
+37. **Arcilla lurañ.** Mä jisa plato. Jan ch'ama materialanaka.
+38. **Madera lurañ.** Mä pajarera kit ukat lija. Uñjañ [activities for men](/activities/for-men/).
+39. **Carta qillqaña jan ukax arunaka.** Mä wawaru jan ukax amigo. Qillqañ jan sum ukax jupa arsuña, jumax qillqañ.
 
-## Jaya ukat qullu lup'iwi
+## Uraqi ukat qhana lurawinaka
 
-Jaya ukat qhana uru wali sarnaqañ. Juk'amp yatiñataki: [jaya lup'iwinaka](/activities/outdoor-and-gardening/).
+Jach'a jan uñjañ sumaw. Uñjañ [outdoor and gardening activities](/activities/outdoor-and-gardening/).
 
-40. **Qurinak q'uma.** Jisk'a lata ukat qawqha maceta. Sapa uruw q'uma sarnaqañ.
-41. **Mä maceta luraña.** Mesa ukan uñjaña. Jisk'a plantanakax uñjañ jaya ukat jisk'a sarañ.
-42. **Ch'iqhapa t'ijaña.** Guantenak uñjaña, mä jisk'a qullu.
-43. **Qullu t'ijaña.** Mä jisk'a patch. Qhipaxa, mä bolsa uñjañ.
-44. **Mä uñjañ sarañ.** Mä jisk'a cuadra jan ukax correo sarañ. Jisk'a sarañax askiwa.
-45. **Mä jaya uñjaña.** Mä silla porchin. Nubenaka uñjaña jan ukax jaqinak uñjaña.
-46. **Ch'uqañ pájaros.** Mä comedero ch'uqaña, ventanaru uñjaña.
-47. **Auto ch'uqaña.** Balde, esponja, jaya qhana. Ch'uxña ch'uxña wali sarañ.
+40. **Qhana umaña.** Mä jisa lata ukat jisa maceta. Uru uru umaña.
+41. **Mä maceta lurañ.** Mesa patjar churaña. Plantanakax sum.
+42. **Qhana sayañ jan ukax flores tukuña.** Guantes, mä jisa qhana.
+43. **Qhana ch'uqiña.** Mä jisa qhana. Sipansa, saco uñjaña.
+44. **Mä sarañ.** Mä manzana jan ukax buzón. Jisa sarañ sumawa.
+45. **Uraqi jiwasa tukuña.** Mä silla, mä jisa qhana.
+46. **Pajaranakar manq'a churaña.** Mä feeder ukat ventana.
+47. **Auto umaña.** Balde, esponja, sumaw qhipa uru. Mä jisa lurawi.
 
-## Sensoriales lup'iwinaka
+## Sentido lurawinaka
 
-Ch'uxña, ch'uxña, lup'iwi ukat ajayu ukax demencia qhipaxa wali. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) yatiyistu ch'uxña, uñjañanaka ukat makhat masaña. Jiwasa chika lurañ ukat alergia uñjañ; juk'amp yatiñataki: [sensoriales lup'iwinaka](/activities/sensory/).
+Uñt'añ, q'uma, manq'a, ist'añ ukat uñjañ jach'a kunawa. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) yatiyi musica, uñjañ ukat aka uñjañ. Alergia ukat aptañ jan ukax uñtañanakan. Uñjañ [sensory activities](/activities/sensory/).
 
-48. **Makhat masaña.** Jumax jaysa ukat jisk'a aceite. Piel jan ukax alergia uñjañax mä ch'uxña jan ukax jan olor.
-49. **Tela uñjaña.** Terciopelo, corduroy, lana, satén ukat ch'uqaña.
-50. **Hierbas ukat café ch'uqaña.** Menta jan ukax romero. Jan ch'uqañ qhapiñ uñjañax wali askiwa.
-51. **Ch'uqañ jiwasa.** Jisk'a jan ukax jan qhapiñ, jupar kusisiyañax.
-52. **Chiqa jamaña.** Makhat jan ukax ch'uxña chiqa. Jumax chiqanakar uñjam.
-53. **Delantal lup'iwi.** Botonanaka ukat zipper uñjaña. Jan jiwasa jaqi uñjaña.
-54. **Mä ch'uxña mikhuña.** Jisk'a qaqti, jan qhapiñ.
-55. **Jaya ch'uxña.** Qarwa, mar jan ukax pájaros ch'uxña jisk'a.
-56. **Mä jisk'a uñjaña.** Peces uñjaña, video uñjaña jan ukax nieve uñjaña.
+48. **Aka uñjaña.** Jupar yatiñ ukat jisa lociones. Jan q'uma aroma ajllisiña.
+49. **Telas uñjaña.** Mä canasta tela: terciopelo, corduroy, lana ukat satén.
+50. **Hierbas ukat café q'uma uñjaña.** Menta jan ukax romero. Jan jach'a q'uma aromanakat.
+51. **Uñt'a jaspiña.** Jisa ukat sum.
+52. **Mä jisa paño umaña.** Ch'uyanakar ukat uñtañar. Temperatura yatiña.
+53. **Mä mandil lurawi.** Jach'a botones ukat cierre. Jan ch'iqiña.
+54. **Mä manq'a uñjaña.** Mä jisa cuchara, jan jisa.
+55. **Jaqi uñjañ sonidos.** Jallu, qota jan ukax pájaros.
+56. **Jisa uñjaña.** Mä peces tanque, mä naturaleza video jan ukax nieve.
 
-## Uñjañanaka ukat qhanañanaka
+## Juegos ukat rompecabezas
 
-Uñjañanakax wali sarañ, jan tiempo, jan puntos. Mä uñjañ jan ukax mä uñjañ mä qhapiñ ukhax qhiparamaw. Juk'amp yatiñataki: [app ukat uñjañanaka ajllisiña](/caregiving/choosing-apps-and-games/) ukat [brain games](/brain-health/brain-games/).
+Juegos sum ukax jan tiempo, jan puntaje. Jan ch'ama ukax, jan jisa. Uñjañ [choosing apps and games](/caregiving/choosing-apps-and-games/) ukat [brain games](/brain-health/brain-games/).
 
-57. **Uñjañanaka jak'añ.** [Picture pairs](/games/picture-pairs/) uñjañanaka jiwasa uñjañ, janiw amtañ.
-58. **Mä ch'uxña uñjaña.** [Find the same](/games/find-the-same/) mä jan ukax paya ajllinaka. Parlasiñamawa.
-59. **Canastanakar uñjaña.** [Sort together](/games/sort-together/) mä medias sarañ.
-60. **Mä jisk'a rompecabezas.** [Picture puzzle](/games/picture-puzzle/) uñjañanaka. Juk'amp yatiñataki: [rompecabezas para demencia](/activities/puzzles/).
-61. **Mä naypacha naypacha naypacha.** Khitinakas sarnaqapxi. Qhipaxa, ch'uxña uñjaña.
-62. **Dominó.** Lluchuña. Qhipaxa, jisk'a uñjaña.
-63. **Mä jach'a qillqa sopa.** [Word search](/games/word-search/) arunakax jan ukax jisk'a.
-64. **Arunakan tukuyañapa.** [Finish the saying](/games/finish-the-saying/) tukuyañ sarañ.
-65. **Picture bingo.** [Picture bingo](/games/picture-bingo/) jaqinakatakix.
-66. **Damas.** Reglanakax jan ch'uqañ. Chiqanakar jaqin sarañ.
+57. **Uñtañanaka jaqsaña.** [Picture pairs](/games/picture-pairs/) uñtañanaka uñjañ, jan amuyañ.
+58. **Mä jaqi uñtaña.** [Find the same](/games/find-the-same/) ukat jisa ajllinaka.
+59. **Canastanakar sortear.** [Sort together](/games/sort-together/) pantalla.
+60. **Mä jisa rompecabezas.** [Picture puzzle](/games/picture-puzzle/) sum. Uñjañ [puzzles for dementia](/activities/puzzles/).
+61. **Juego de cartas.** Jupan munat juego. Sipansa, colorear.
+62. **Dominó.** Sum juego. Sipansa, sapa mä.
+63. **Sutinaka jaqsaña.** [Word search](/games/word-search/) jach'a qillqa.
+64. **Arunaka tukuña.** [Finish the saying](/games/finish-the-saying/).
+65. **Bingo.** [Picture bingo](/games/picture-bingo/) familia ukat grupo.
+66. **Damas.** Reglas jisa. Jupampi arunaka.
 
 ## Sarañ
 
-NIA yatiyistu sarañ, bicicleta, bandas, ch'uxña, sopa latas. Jumax doctor jaqinakar yatiyañamawa, jan ukax chiqar jan sum sarañ.
+NIA yatiyi sarañ, bicicleta, bandas, pelota jan ukax globo, sopa latanakar jaytaña ukat ejercicios. Doctor jan ukax balance ukat qalltañ.
 
-67. **Globo ch'uqaña.** Chiqanakan uñjaña. Jisk'a ch'uqañ.
-68. **Video sarañ.** Jaqinakatakix chiqapa.
-69. **Bandas ch'uqaña.** Jisk'a sarañanaka.
-70. **Latanak ch'uqaña.** Jisk'a sarañanaka, ch'uxñampi.
-71. **Bicicleta.** Jisk'a minutos, jumampi.
-72. **Pañuelo ch'uqaña.** Ch'uxñampi.
-73. **Mä amtampi sarañ.** Correo jan ukax café. Mä amtaña.
-74. **Jaysa sarañ.** [Calm breathing](/games/calm-breathing/) ukampi.
+67. **Globo jaytaña.** Uñtasiña. Sum.
+68. **Ejercicio video.** Jupanakat jama.
+69. **Banda ukat luqaña.** Jisa brazo.
+70. **Sopa latanakar.** Ch'alla sarañ.
+71. **Bicicleta.** Jisa minutos.
+72. **Bufanda ukat sarañ.** Jisa bufanda musica ukat.
+73. **Sarañ mä amuyt'aña.** Mä carta jan ukax café. Sum.
+74. **Qhipa saraña.** [Calm breathing](/games/calm-breathing/).
 
-## Qhiparasiña lup'iwinaka
+## Jaqi lurawinaka
 
-Jaqinakampi sarañ wali, jisk'a jaqinakampi askiwa. NIA yatiyistu, jupanakax uñjasiñ, jan ukax jaqi uñjañ. Juk'amp yatiñataki: [uñjañ](/activities/visiting/).
+Jaqinakampi sarañ sum, jan sutinaka jan ukax jisa grupo. NIA yatiyi, jaqi jupa jan amuyasa jan ukax jupa sarañ munasi. Uñjañ [visiting](/activities/visiting/).
 
-75. **Mä jan ukax paya uñjañ.** Jisk'a uñjañanaka, uñjañanaka uñjaña.
-76. **Familia video llamada.** Jisk'a llamadanaka. Juk'amp yatiñataki: [llamadanaka](/activities/phone-and-video-calls/).
-77. **Café de memoria.** Jaqinakatakix jisk'a reunión. Ch'uxña oficina jan ukax chiqa yatiyaña.
-78. **Jaqinakan ch'uxña mikhuña.** NIA yatiyistu, mä uñjañ restaurante.
-79. **Senior center jan ukax día programa.** Jupanakatakix jan ukax jumatakix descanso.
-80. **Wawanakampi sarañ.** Jisk'a uñjañanaka, jan ukax libro uñjaña.
-81. **Diario uñjaña café.** Titulares parlaña.
-82. **Yanapt'aña.** Iglesia qillqa jan ukax tarjeta.
+75. **Jisa visita.** Mä jan ukax jupa uñjañ.
+76. **Familia video llamada.** Jisa llamada. Uñjañ [phone and video calls](/activities/phone-and-video-calls/).
+77. **Memory café.** Jaqinakampi jisa reunión. Averiguaña Área local.
+78. **Qhipa saraña.** Mä jisa restaurante jan walja jaqinakampi.
+79. **Senior center.** Jupan jaqinakampi.
+80. **Wawanakampi.** Mä jisa visita, jan ukax wawa libro.
+81. **Periódico ist'aña.** Titular arunaka. Ritual.
+82. **Jaqi yanapt'aña.** Iglesia programa jan ukax tarjeta.
 
-## Iglesia ukat jiwasa lup'iwinaka
+## Yupaychäwi lurawinaka
 
-Jaqin tradición uñjasiñ. NIA yatiyistu, misas, lectura, ch'uxña, oración ukat meditación.
+Jupan yupaychäwi jan ukax jan yupaychäwi. NIA yatiyi, misa, lecturas, musica sagrada, oración ukat fiesta.
 
-83. **Mä misa uñjaña.** Jisk'a misa, jan ukax jaqinakan uñjañ.
-84. **Misa online uñjaña.**
-85. **Oración jan ukax lectura.** Jisk'a arunakampi.
-86. **Himnos ch'uxña.**
-87. **Feria uñjaña.** Velas, bendición, jupanakan qhanat.
-88. **Jisk'a sarañ.** Jaya jan ukax inti jaquña uñjaña.
+83. **Iglesia.** Mä jisa, jupa sayañ.
+84. **Online misa.** Uta.
+85. **Oración jan ukax lectura.** Jupanakat.
+86. **Himnos.** Jupan tradición.
+87. **Fiesta ritual.** Velas, bendición.
+88. **Jisa tukuña.** Jardín jan ukax puesta de sol.
 
-## Uywanakampi
+## Uywanakampi lurawinaka
 
-NIA yatiyistu uywa mikhuña, uñjaña, sarañ ukat ch'uqaña.
+NIA yatiyi uywa mikhaña, uñjaña, sarañ jan ukax uywa katuntaña.
 
-89. **Mä jan ukax mä gato ch'uqaña.**
-90. **Uywa mikhuña.** Jumax medir, jupax ch'uqaña.
-91. **Mä perro sarañ.** Jumax correa uñjam.
-92. **Uywa ch'uqaña.** Mä gato manta patxa.
-93. **Uywanaka uñjaña.** Jaqi uñjañanaka jan ukax uywa uñjaña.
-94. **Mä jan uywa ch'uqaña.** Jan uywa ukax mä ch'uxña gato jan ukax perro. Jan uñjañ.
+89. **Mä jisa perro jan gato umaña.**
+90. **Uywa mikhaña.** Jumax medida, jupa tuqi.
+91. **Perro sarañ.** Jumax correa.
+92. **Uywa larma jaytaña.** Mä jisa gato manta.
+93. **Uywa visita.** Averiguaña.
+94. **Mä jisa uywa muñeca.** Jan juguete, jan ch'ama.
 
-## Maya pacha lup'iwi
+## Qhana pacha lurawinaka
 
-Tradicionanaka ch'uxña, jisk'a. NIA yatiyistu, pacha wali thaqhañ.
+Tradicion jisa lurañ. NIA yatiyi, realista ukat jisa.
 
-95. **Pacha decoración.** Mä calabaza, mä corona, jan ukax qurinak.
-96. **Manq'a lurañ.** Galleta jan ukax torta. Horno jumax uñjam.
-97. **Decoración jakhusiña.** Mä mä ch'uqaña.
-98. **Luces uñjaña.** Jisk'a arumanta sarañ.
-99. **Qurinak ch'uqaña.** Maceta, qhipa ch'uqaña.
-100. **Choclo jan ukax haba.** Mä mä.
-101. **Tarjetanak qillqaña.** Jupanakax firma, jumax direcciones.
+95. **Pacha ch'iqaña.** Calabaza, corona jan ukax flores.
+96. **Fiesta manq'a.** Galletas.
+97. **Adornos.** Jisa.
+98. **Luces uñjaña.** Mä jisa sarañ.
+99. **Flor tiqi.** Bulbos.
+100. **Choclo ukat arvejas.** Mä jisa lurawi.
+101. **Tarjetanaka qillqaña.** Jupa firmar, jumax direcciones.
 
-## ¿Kunsa lup'iwi janiw sum sarkiti ukhax?
+## ¿Kunas lurawi jan sum sarañ ukhaxa?
 
-Sayt'añ, jupar mayni pacha uñjaña. NIA yatiyistu jaqi phiñ uñjañ, jaqi uñjañ munañapa. Janiw sañax lup'iwi wali jark'ax, pacha jan wali, jan ukax jan sum uñjañ. Jisk'a lurañ, uru qalltañ, jan ukax jumax qalltam. Juk'amp yatiñataki: [jan sañ](/caregiving/when-they-say-no/) ukat [qhiparasiña](/caregiving/late-day-restlessness/).
+Jisa sayañ, mayni uru ukat mä jaqi jan sum. NIA yatiyi, jaqi ch'iqañ ukat uñjañ. Jan munañ ukax lurawi ch'amani, uru jan sum, jan ukax dolor, manq'a, jan ist'añ. Jisa lurañ, uru sayañ jan ukax jumax lurañ. Uñjañ [when they say no](/caregiving/when-they-say-no/) ukat [late-day restlessness](/caregiving/late-day-restlessness/).
 
-Mikhuña ukat samaña ukanakan lup'iwinaka ch'uqañatakix, [utan sarnaqañ](/activities/daily-routine/). Qillqa lup'iwinakatakix [printable activities](/activities/printable/), jan ukax grupo lurañatakix [care home group activities](/activities/care-home-groups/). Jumat samaña ukax wali: [caregiver self-care](/caregiving/caregiver-self-care/).
+Walja lurawinaka manq'a ukat jisa sayañ: uñjañ [a gentle daily routine](/activities/daily-routine/). Yatiñ ukat jisa lurawinaka: uñjañ [printable activities](/activities/printable/), ukat grupo lurañ: [care home group activities](/activities/care-home-groups/). Jumax ch'amañchasiñ: uñjañ [caregiver self-care](/caregiving/caregiver-self-care/).

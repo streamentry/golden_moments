@@ -189,7 +189,7 @@
       "previousPhoto": "Previous photo",
       "nextPhoto": "Next photo",
       "restart": "Mix them again",
-      "intro": "**Choose 2 to 6 photos** from this device. They are shown only on this page and are never uploaded or saved.",
+      "intro": "**Choose 1 to 6 photos** from this device. Look through them one at a time, or match pairs with at least two. They stay on this page and are never uploaded or saved.",
       "choose": "Choose photos",
       "chooseDifferent": "Choose different photos",
       "clear": "Clear photos",
@@ -197,7 +197,8 @@
       "captionHelp": "A short caption gives screen readers a useful name for each photo. It is not uploaded or saved.",
       "captionLabel": "Caption for photo {n} (optional)",
       "cleared": "Photos cleared from this page.",
-      "atLeastTwo": "Please choose at least two photos.",
+      "atLeastOne": "Please choose at least one photo.",
+      "atLeastTwo": "One photo selected. Add another to match pairs.",
       "usingFirst": "Using the first {max} photos.",
       "skipped": {
         "one": "{count} file was not a photo we can show.",

@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Kwaet Aktiviti long Lastaftenun blong Dementia"
-seoTitle: "Sundowning: Kwaet Aktiviti long Lastaftenun"
-description: "Ol gud rutin, jenj long rum mo kwaet aktiviti we mey help long redyus laet-dei restlesnes long dementia, mo taem blong kolem doctor long ol sem we i kam nyu o i kam bigwan."
+title: "Sundowning: Ol Kalmgud Aktiviti long Lasta Aftanun"
+seoTitle: "Sundowning: Ol Kalmgud Aktiviti long Lasta Aftanun"
+description: "Ol stedi rutin, jenis long rum mo ol kalmgud aktiviti we oli save helpem long hevi long lasta dei, mo taem blong kolem dokta long ol nyu o ol simptom we oli kam nogud moa."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning i minim restlesnes, konfiuzen o kros we i stat o i kam bigwan long
-  lastaftenun o long evening. Ol stap we we mey help i inklud wan stiadi dei
-  rutin, san mo aktiviti bifo long dei, lesen ol slip long lastaftenun, lesen
-  kofi, nating long haus bifo dak, wan kwaet haus, mo kwaet aktiviti olsem
-  miusik, foto o foldem wasing. Ol sem we i kam nyu o i kam bigwan i nidim wan
-  doctor blong jeke.
+  Sundowning i wan hevi, konfiuson o kros we i stat o i kam nogud long lasta
+  aftanun o long evening. Ol stap we oli save helpem oli inkludim wan stedi
+  dei rutin, sanlaet mo aktiviti long moning, ol sleep long lasta aftanun we
+  i no longfala, no gat drink we i gat kafein, ol lait insaed haos bifo i dak,
+  wan haos we i kwaet, mo ol kalmgud aktiviti olsem myusik, fotopiksa o foldim
+  laondri. Ol nyu o ol simptom we i kam nogud oli nidim wan dokta blong jekem.
 keyPoints:
-  - "Sundowning i minim restlesnes o konfiuzen we i stat o i kam bigwan taem san i go daon."
-  - "Putum ol wok we i hevi, ol trip aot mo bat long mone long moning o long ili aftenun."
-  - "San, wan walk long dei, lesen ol slip long lastaftenun mo lesen kofi long lastaftenun i mey help evening i go gud."
-  - "Laetem ol laet bifo dak, darem noes, mo jenj i go long ol kwaet mo ol aktiviti we i fama long ol."
-  - "Rekodem wanem i save kikim restlesnes, mo stap kwaet mo givim strong long man o woman we yu stap kea long hem taem restlesnes i stat."
-  - "Go lukim doctor long ol sem we i kam nyu o i kam bigwan: pein, sik we i kam long bodi o ol medisin i save kasem wan rol."
+  - "Sundowning i minim hevi o konfiuson we i stat o i kam nogud taem sanlaet i stat i lus."
+  - "Putum ol wok we i hevi, ol trip aot mo taem blong bat long moning o long ertaem afternun."
+  - "Sanlaet, wok long dei, sleep long lasta aftanun i no longfala mo i no gat kafein long lasta aftanun i save helpem ol evening i go gud moa."
+  - "Onem ol lait bifo i dak, lusum noes, mo jenisim i go long ol kalmgud aktiviti we i fríndli."
+  - "Keepem wan lif blong lukaot ol samting we i save kosem hevi, mo stap kam mo givim tingting we i save kiaremap taem hevi i stat."
+  - "Lukaot wan dokta long ol nyu o ol simptom we i kam nogud: pein, sik we i kam long insaed o ol medisin i save gat paat long hem."
 faq:
-  - q: "Wanem taem long dei we sundowning i save hapen?"
-    a: "I save stat o i kam bigwan long lastaftenun o ili evening, taem san i stap go daon. Taem ia i defren long each man o woman, so rekodem sem we i save hapen long wan o tu wik i save help."
-  - q: "Wanem aktiviti i save help long sundowning?"
-    a: "Ol kwaet, ol samting we i fama mo ol we i no hevi long wok i save wok gud long lastaftenun: miusik we i kwaetem, lukluk long ol foto, wan show o muvi we i fevret, foldem wasing, wan sotfala walk, o kaikai wan snek tugeta. Sevem ol nyu o ol aktiviti we i hevi blong bihaen long dei."
-  - q: "Eni taem sundowning i save kamaot from wan sik we i stap long bodi?"
-    a: "Ol sik long bodi olsem pein, infeksen olsem infeksen long yurinari sistem, ol slip prablem o ol saed efekt blong medisin i save mekem i kam bigwan. Sipos restlesnes i kam nyu, i kam kwik o i kam bigwan, kolem doctor blong man o woman ia."
-  - q: "Mi mas askem doctor long medisin blong sundowning?"
-    a: "Hemia i wan toktok blong mekem wetem doctor. Alzheimer's Association i sei ol fasin we no yusum medisin i gat fos prefa, mo eni medisin blong evening agitesen i mas fasin long wok aot ol risk mo ol benefit bihaen. Pej ia i no givim advaes long medisin."
+  - q: "Wanem taem long dei we sundowning i save kam?"
+    a: "I save stat o i kam nogud long lasta aftanun o long erli evening, taem sanlaet i stat i lus. Taem i stap i no sem long ol man, from hemia i gud blong kipim wan lif we i sot long wan o tu wik."
+  - q: "Wanem ol aktiviti i save helpem long sundowning?"
+    a: "Ol kalm, we oli fríndli mo oli no nidim bigfala wok, oli moa gud long lasta aftanun: myusik we i kalmem, lukluk long fotopiksa, wan TV sou o muvi we i fríndli, foldim laondri, wan sotfala wok, o kaikai smol wan wan wetem. Ol nyu o ol aktiviti we i hevi, seivem olgeta long moning."
+  - q: "Eniwan sundowning i save minim wan sik long bodi?"
+    a: "Hem i save kam nogud from ol hevi long bodi olsem pein, sik long insaed olsem sik long blad blong pisin, ol problem long sleep o ol saed efek blong medisin. Sipos hevi i kam nyu, i kam wan taem, o i kam nogud, kontaktem dokta blong man ya."
+  - q: "Mi shud askem dokta long medisin blong sundowning?"
+    a: "Hemia i wan toktok we yu mas gat wetem dokta. National Institute on Aging ... Alzheimer's Association i talem se ol tramata we no gat medisin oli stap fastaem, mo eni medisin blong naet hevi i shud konsidarem nomo afta we oli weitem ol risk mo ol benefit. Pej ya i no givim advaes long medisin."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Plante famle oli luk wan sem pataen: moning oli gud kwaet, bat taem afternoon i go, man o woman we yu stap kea long hem i kam restles, i fraet, i konfius o i kros. Hem i save wakabaot, aksem blong "go hom" even taem hem i stap long haus ya, o i kros kwik. Ol man i kolem sundowning long hemia.
+Plante famili oli luk sem patern: long moning ol samting i kam kwaet, be taem aftanun i go, man we yu kea long hem i kam naf, i no save kalmdaon, i gat konfiuson o i kam kros kwik. Hem i save wakabaot i no stop, o askem blong "go bak long haos" evbuilt taem hem i stap finis long haos, o hem i kam hevi kwik. Ol man oli save kolem hemia sundowning.
 
-I no gat wan wei nomo blong fiksim, be jenj long rutin blong dei, long rum mo long ol aktiviti we yu ofem, i save mekem lastaftenun i kwaet moa. Pej ia i kolektem ol nonmedikol aedia blong National Institute on Aging mo Alzheimer's Association. Hemia i no advaes blong sik. Sipos ol sign i nyu, i kam kwik o i kam bigwan, toktok wetem doctor blong man o woman ia.
+I no gat wan wei nomo blong fiksim, be ol jenis long rutin blong dei, long rum mo long ol aktiviti we yu ofem, oli save mekem ol lasta aftanun i kwaet moa. Pej ya i kolektem ol aidia we oli no gat tingting long medisin, we National Institute on Aging mo Alzheimer's Association oli givim. Hemia i no advaes blong dokta. Sipos ol simptom oli nyu, oli kam wan taem, o oli kam nogud, toktok wetem dokta blong man ya.
 
-## Wanem nao sundowning?
+## Wanem sundowning?
 
-Sundowning i restlesnes, agitesen, kros o konfiuzen we i stat o i kam bigwan taem san i go daon, long lastaftenun o ili evening. Ol [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) i talem se taed tumas i save mekem restlesnes long lastaftenun i kam bigwan.
+Sundowning i hevi, i no save kalmdaon, i kros o i gat konfiuson we i stat o i kam nogud taem sanlaet i lus, long lasta aftanun o erli evening. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) i talem se taem man i tayed tumas, hemia i save mekem hevi long lasta dei i kam moa.
 
-## Wanem nao i save mekem restlesnes long lastaftenun i kam bigwan?
+## Wanem ol samting we i save mekem hevi long lasta dei i kam nogud?
 
-Sam samting i save mekem, oftaen oli kam tugeta. Ol [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) i lukaotem ol samting olsem:
+Sam samting i save mekem hemia, mo ofen oli kam tugeta. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) i lisemaot ol samting olsem:
 
-- taed tumas afta long wan fulap dei;
-- ol niu o ol samting we i konfiusem long hem;
-- wan "bodi klok insaed" we i no stap long rod, we i mekem man o woman i slip long dei mo i wekap long naet;
-- ol darkfala mo ol sado, we i save konfiusem;
-- man o woman i kasem stres o frastresen from ol man we oli stap raon long hem;
-- i nidim less slip, we i kamon long ol olfala man mo woman.
+- man i tayed tumas afta wan fulap dei;
+- ol nyu o ol samting we i konfius long hem;
+- "bodi klok" we i no stret, we i mekem man i slip long dei mo i wekap long naet;
+- dak mo ol seko we i konfiusem hem;
+- man i ridim stres o ol kros long ol man we oli stap raon long hem;
+- hem i nidim sleep smol moa, wanfala samting we i kamon long ol olfala.
 
-NIA i addem ol moa kosis blong agitesen, olsem pein, depresen o stres, les rest, konstipesen, tumas noes o tumas man, mo sam medisin mo ol medisin we oli stap intarakt.
+NIA i addem ol kos blong hevi moa long wan wei, olsem pein, sedhed o stres, no gat rest we i gud, kost, noes tumas o ol man tumas, mo sam medisin o medisin we oli mikis wetem narafala.
 
-## Hao nao mi save planem dei blong mekem ol aftenun i kwaet moa?
+## Hao blong mi save plan dei blong mekem ol evening i kwaet moa?
 
-Putum ol hevi wok i go long bifo long dei, mo kipim lastaftenun i gentel mo i save fasin. Bot NIA mo Alzheimer's Association oli rekomendem wan regula rutin. Wan sampol dei, blong yu adjastem long dei blong yu:
+Putum ol wok we i hevi i go long erli taem mo kipim lasta aftanun i gentel mo i stedi. Bot NIA mo Alzheimer's Association oli rekomendem wan stedi rutin. Hemia i wan sampol dei, we yu save jenisim long famili blong yu:
 
-| Taem | Wanem i save help |
+| Taem | Wanem i save helpem |
 | --- | --- |
-| Moning | Apointmen, wasem, trip aot mo eni wok we i nidim strong, long taem we plante man i gat moa strong |
-| Late moning | Taem aotsaed o long wan san windo; wan walk o narafala aktiviti |
-| Midel dei | Wan bigfala lanj (Alzheimer's Association i sajestem bigfala lanj mo lait lanj long evening) |
-| Ili afternoon | Rest sipos i nidim, bat no slip long longfala taem long lastaftenun |
-| Midel i go long lastaftenun | Kwaet, ol samting we i fama aktiviti; wan snek mo drink; no kofi |
-| Bifo dak | Turnem ol laet insaed long haus mo klosem ol kaaten bifo i dak |
-| Evening | Wan laet kaikai, kwaet miusik, les samting we i stimulet, wan stiadi bedtaem rutin |
+| Moning | Apointmen, bat, trip aot mo eni wok we i nidim strong, long taem we ol man i moa redi |
+| Late moning | Taem aotsaet o long wan sanlaet windo; wan wak o narafala aktiviti |
+| Midel dei | Wan bigfala kaikai long lanj (Alzheimer's Association i sajestem wan bigfala lanj mo wan smol kaikai long naet) |
+| Erli afternun | Rest sipos i nid, be no slip longfala long lasta dei |
+| Midel to lasta afternun | Kalm, fríndli aktiviti; wan kaikai mo drink; no kafein |
+| Bifo i dak | Onem ol lait insaed mo klosem ol kateng bifo i kam dak |
+| Evening | Wan smol kaikai, kwaet myusik, no gat tumas samting we i kakae mon, wan stedi rutin blong go slip |
 
-Sam spesifik pointi long ol sos:
+Sam spesifik pointi long ol sos ya:
 
-- **San.** NIA i sajestem se yu arensem taem long aotsaed o long wan windo blong san long wan dei.
-- **Muv long dei, bat no tumas.** Traehad blong mekem bodi i muv long wan dei bat no plan tumas aktiviti, NIA i talem.
-- **Drink long lastaftenun.** Lesen alkol mo ol drink we i gat kafin, olsem kofi o cola, long lastaftenun (NIA). Alzheimer's Association i talem tu long nikotin.
-- **Slip.** Lesen longfala slip mo naf-naf long lastaftenun (NIA). Alzheimer's Association i sajestem blong limitim ol dei slip sipos naet slip i wan prablem.
+- **Sanlaet.** NIA i sajestem blong arenjem taem aotsaet o long wan windo blong sanlaet evri dei.
+- **Muvmen long dei, be no tumas.** Traehad blong muv bodi long evri dei be no planem tumas ol aktiviti, NIA i talem.
+- **Drink long lasta dei.** Lusum alkol mo ol drink we i gat kafein, olsem kofi o kola, long lasta dei (NIA). Alzheimer's Association i mekem toktok tu long nikotin.
+- **Naps.** Lusum ol longfala naps mo slip long lasta dei (NIA). Alzheimer's Association i sajestem blong limitem ol naps long dei sipos sleep long naet i wan hevi.
 
-Blong moa long mekem wan stiadi dei, lukim [ol aktiviti blong daily rutin](/activities/daily-routine/).
+Blong moa long wei blong mekem wan stedi dei, luk [ol aktiviti long stedi dei rutin](/activities/daily-routine/).
 
-## Hao mi save mekem haus i kwaet long lastaftenun?
+## Hao blong mi save mekem haos i kwaet moa long lasta aftanun?
 
-Redyusim noes, putum laet mo kipim ol famili samting klosap.
+Lusum noes, putum moa lait mo kipim ol samting we i fríndli klosap.
 
-- **Brait mo ekwal laet.** Alzheimer's Association i rekomendem blong kipim haus i gat gud laet long evening. Laetem ples bifo ol sado i kam.
-- **Less noes.** Ofem o lowem TV mo redio, mo limitim ol visita o ol busy haus wok long taem ia. Alzheimer's Association i sajestem blong redyusim ol stimulesen long evening olsem TV, wok long haus mo loud miusik.
-- **Ol fama komfot.** NIA i sajestem soting miusik mo kipim ol samting we oli fevret mo ol foto stap raonabaot long haus.
-- **Komfot jek.** Alzheimer's Association i rekomendem blong jekem pein, hangre, traes, konstipesen, bladda we i ful, taed, infeksen mo skin irritesen, mo kipim rum long wan komfotebol hit.
-- **Filing blong yu.** Ol man i kasem stres. NIA i sajestem blong slowem mo traehad blong relaks sipos ol worri blong yu i save addem long tensen.
+- **Lait we i bright mo i stret.** Alzheimer's Association i rekomendem blong kipim haos we i gat gud lait long evening. Lait i go long rum bifo ol seko i kam.
+- **Lesin noes.** Lusum o daonem TV mo redio, mo limitem ol visita o ol bisi hosehold wok long taem ya. Alzheimer's Association i sajestem blong lusum ol samting we i mekem tumas noes long evening olsem TV, wok long haos mo myusik we i strong.
+- **Ol samting we i mekem man i fíling gud.** NIA i sajestem blong slowem tingting mo traehad blong relaks sipos ol wari blong yu i save mekem stres i kam moa.
+- **Jek long kies.** Alzheimer's Association i rekomendem blong jekem pein, hangre, tristi long drink, kosti, fulap blata, tayed, sik long insaed mo skin i nogud, mo kipim rum long wan tempereja we i kamfot.
+- **Fílin blong yu.** Ol man oli ridim stres. NIA i sajestem blong slowem tingting mo traehad blong relaks sipos ol wari blong yu i save mekem tensen i kam moa.
 
-## Wanem kwaet aktiviti yumi save mekem long lastaftenun?
+## Wanem ol kalm aktiviti yumi save mekem long lasta aftanun?
 
-Jusum ol aktiviti we i fama, we oli no fast, mo we i isi blong stopem. Alzheimer's Association i sajestem ol soting aktiviti olsem kwaet miusik, foto o wan fevret muvi, mo wan walk tugeta blong redyusim restlesnes. NIA i sajestem wan snek o drink, wan fevret TV show, miusik, wan walk, ridim, o wan simpol haus wok olsem foldem wasing.
+Jusum ol aktiviti we i fríndli, we no gat hari mo we i isi blong stopem. Alzheimer's Association i sajestem ol kalmgud aktiviti olsem kwaet myusik, fotopiksa o wan fevarit muvi, mo wan wak tugeta blong lusum hevi. NIA i sajestem wan kaikai o drink, wan fevarit TV sou, myusik, wan wak, ridim, o wan simpol wok long haos olsem foldim laondri.
 
-Ol aedia blong traem:
+Ol aidia blong traem:
 
-1. **Foldem wasing tugeta.** NIA i sajestem kaen simpol haus wok ia. Taul oli isi blong holem, mo wok ia i gat wan klia pinis.
-2. **Plei fevret miusik.** Ol fevret song from taem we oli yang, long wan lo vol. Hom long saed i gud tu. Moa aedia long [ol aktiviti blong miusik](/activities/music/).
-3. **Lukluk long ol foto.** Wan foto album, o sam famili foto long [Photo Pairs](/games/photo-pairs/) we ol pikjas i stap visibol, i save mekem kwaet toktok.
-4. **Wan sotfala walk.** Raon long garden, long bloc o long hol, bifo i dak.
-5. **Sher wan snek mo wan drink.** Wan simpol samting, we i warm mo no gat kafin, long tebol tugeta.
-6. **Gentel matjing.** [Picture Pairs](/games/picture-pairs/) wetem fo tael mo ol pikjas we i stap visibol, i isi blong stat mo isi blong stopem.
-7. **Kolarem.** [Coloring](/games/coloring/) long skrin o long wan prin pej, no wetem gol blong finis.
-8. **Lukluk mo toktok.** [Conversation Cards](/games/conversation-cards/) i givim wan pikja mo wan opm kwestin. Jus lukluk i gud finis.
-9. **Wan brith pos.** [Calm Breathing](/games/calm-breathing/) i wan slou, kwaet pos we yu stat mo stopem yu wan.
-10. **Han wok.** Sotem ol batn o ol sok, smoothem wan sopla blanket, o holem wan famili samting. Lukim [ol sensory aktiviti](/activities/sensory/).
+1. **Foldim laondri tugeta.** NIA i sajestem kaen simpol wok long haos ya. Tauel oli isi blong hanem, mo wok ya i gat wan klia end.
+2. **Plei fevarit myusik.** Ol fevarit singsing from taem we hem i yang, long wan low volium. Singsing i stap i gat tu. Moa ol aidia long [ol aktiviti blong myusik](/activities/music/).
+3. **Lukluk long fotopiksa.** Wan album blong fotopiksa, o sam famili piksa long [Photo Pairs](/games/photo-pairs/) we ol piksa i stap i kam, i save mekem wan kwaet toktok.
+4. **Wan sotfala wak.** Raon long garden, long bloc o long wan haloe, bifo i dak.
+5. **Sheraem wan kaikai mo wan drink.** Wan samting we i simpol, wom mo we i no gat kafein, long tebol tugeta.
+6. **Gentel matching.** [Picture Pairs](/games/picture-pairs/) wetem fo tael mo ol piksa we i stap i kam, i isi blong stat mo isi blong stop.
+7. **Kalaring.** [Coloring](/games/coloring/) long skrin o long wan printed pej, no wetem goal blong finisim.
+8. **Lukluk mo toktok.** [Conversation Cards](/games/conversation-cards/) i givim wan piksa mo wan open kwestin. Jus lukluk i gud finis.
+9. **Wan brif we i slow.** [Calm Breathing](/games/calm-breathing/) i wan slow mo kwaet pos we yu save stat mo stopem yu wan.
+10. **Hanwok we i isi.** Sotem ol batn o ol sok, smutem wan sofi blanket, o holem wan samting we i fríndli. Luk [ol sensory aktiviti](/activities/sensory/).
 
-Lesen ol niu gem, ol bisi trip aot mo eni samting we i askem tumas long memori o fokas long lastaftenun. Seivem ol ia blong moning.
+Lusum ol nyu gem, ol trip aot we i bisi mo eni samting we i askem tumas long memori o tingting long lasta aftanun. Seivem ol samting ya long moning.
 
-## Wanem mi mas duim taem restlesnes i stat?
+## Wanem mi shud mekem taem hevi i stat?
 
-Stap kwaet, givim strong, mo gentel jenjem fokas. NIA i sajestem toktok kwaet, harem long ol worri blong man o woman, no argiu, mo tokem long hem se hem i seif, mo yusum gentel tos sipos i help. Afta, traem wan distrakson: wan snek, wan drink, miusik o wan walk.
+Stap kam, givim tingting blong gudfala, mo jenisim gentel. NIA i sajestem toktok we i kam, herem ol wari blong man, no mekem ol ragumen, talem hem se hem i seif, mo yusum gentel tase sipos i help. Afta, traem wan difren samting: wan kaikai, wan drink, myusik o wan wak.
 
-Alzheimer's Association i sajestem ol toktok olsem "Yu seif hia" mo "Mi sore se yu kros", mo i talem blong addem laet, slowem mo limitim stimulesen. No kona, no pusum o holem man o woman, no argiu wetem hem.
+Alzheimer's Association i sajestem ol toktok olsem "Yu seif long hia" mo "Mi sore we yu i kros", mo i advaesem blong putum moa lait, slowem ol samting mo limitem ol samting we i mekem man i fíling tumas. No kornerem, no pusum, no holem man strong, o ragumenem hem.
 
-Sipos man o woman i kam wael, NIA i talem blong stap long wan seif distans kasem behevia i stopem. Long wan emergensi, kolem emergency namba long ples blong yu mo talem se man o woman i gat dementia.
+Sipos man i kam strong nogud, NIA i advaesem blong stap long wan seif distans kasem hevi i stopem. Long wan emergensi, kolem namba blong emergensi long ples blong yu mo talem se man ya i gat dementia.
 
-Ol pej blong [komunikesen](/caregiving/communication-tips/) mo [wanem blong mekem taem oli talem no](/caregiving/when-they-say-no/) i gat moa long toktok we i kwaetem.
+Ol gaed blong [kominiketem](/caregiving/communication-tips/) mo [wanem blong mekem taem oli talem no](/caregiving/when-they-say-no/) i gat moa samting long ol toktok we i kiaremap.
 
-## Hao mi save faenem ol triga?
+## Hao blong mi faenem ol samting we i kosem hevi?
 
-Rekodem wan sotfala taem long wan o tu wik. Alzheimer's Association i rekomendem blong trakem wanem i hapen bifo sundowning episod blong faenem ol triga. Rekodem taem we restlesnes i stat, wanem i hapen long wan aoa bifo, naf-naf, kaikai mo drink, ol visita, noes mo laet. Kasem doctor wetem rekod. NIA i talem se keepem trak long ol jenj blong fasin i save helpem ol man we oli kea mo ol helt kea wekaman blong rikognaes wan pataen.
+Kipim wan short lif long wan o tu wik. Alzheimer's Association i rekomendem blong trakem wanem i kamaot bifo ol sundowning episod blong faenem ol samting we i kosem hevi. Ratem taem we hevi i stat, wanem i happen long wan aoa bifo, ol naps, kaikai mo drink, ol visita, noes mo lait. Karem lif ya long dokta. NIA i talem se kipim trak blong ol jenis long bihevia i save helpem ol man we oli kea mo ol man we oli wok long helt kea blong lukim wan pateln.
 
-## Wanem taem mi mas kolem doctor long sundowning?
+## Wanem taem mi shud kolem dokta long sundowning?
 
-Kolem doctor blong man o woman ia sipos restlesnes i nyu, i kam bigwan kwik, o i kam wetem ol narafala jenj. NIA i talem se ol jenj blong fasin we i kam kwik o i jenj kwik, espesol afta long wan infeksen o jenj blong medisin, oli mas kam long doctor kwik.
+Kontaktem dokta blong man ya sipos hevi i nyu, i kam nogud i kwik, o i kam wetem ol narafala jenis. NIA i talem se ol jenis long bihevia we i kam kwik o i jenis kwik, namel afta infeksen o jenis long medisin we i nyu, oli mas kasem atensen blong dokta long hao we i kwik.
 
-Askem doctor blong jekem ol samting we i save mekem lastaftenun i hadwan. Alzheimer's Association i menseonem ol fizikol prablem olsem infeksen long yurinari sistem, les kontrol long bladda, restles legs mo slip apnia, mo i sajestem blong askem wanem taem long dei i gud blong each medisin. NIA i listem pein, konstipesen mo saed efekt o intarakson blong medisin olsem sam kosis blong agitesen.
+Askem dokta blong jekem ol samting we i save mekem lasta dei i harem moa. Alzheimer's Association i mekem toktok long ol hevi long bodi olsem sik long blata we i stap long pisin, pisin we i no save kontrolem, sik long leg we i muv tumas long naet, mo sleep apnea, mo i sajestem blong askem wanem taem long dei i gud moa blong eni medisin. NIA i lisemaot pein, kost mo ol saed efek blong medisin o ol medisin we oli mikis wetem narafala, olsem sam ol kos blong hevi.
 
-Alzheimer's Association i talem se fasin we no yusum medisin i gat fos prefa long ol slip prablem we i kasem Alzheimer's, mo medisin blong lastaftenun agitesen i mas konsiderem sipos ol fasin ia i no wok, afta long wokaot ol risk mo ol benefit. Hemia i wan desisen blong doctor. No stat, no stopem, no jenjem eni medisin, slip aed o sapliman withaot advaes blong doctor.
+Alzheimer's Association i talem se ol tramata we no gat medisin oli kamaot fastaem blong ol sleep problem we i kanekt long Alzheimer's, mo medisin blong hevi long lasta aftanun i shud konsidarem nomo sipos ol tramata ya i no wok, afta we oli weitem ol risk mo ol benefit. Dicision ya i blong dokta. No stat, no stopem o jenisim eni medisin, sleep medisin o suplemen we i no gat advaes blong dokta.
 
-## Hao mi save go throu long ol aftenun blong mi wan?
+## Hao blong mi save pas long ol evening mi wan?
 
-Lastaftenun oli ken i wan long ol hadwan taem blong wan kea man. Sipos yu save, askem wan famili memba, fren o man we i pedem blong helpem long lastaftenun sam dei long wik, even wan haoa nomo. Pej blong [kea long yu wan](/caregiving/caregiver-self-care/) i listim ol respaet opsen mo Alzheimer's Association 24/7 Helpline we i fri.
+Lasta aftanun i save kam hadest pat blong dei blong wan man we i kea. Sipos yu save, askem wan famili memba, fren o wan man we i pem blong helpem blong kavarem lasta aftanun sam dei long wik, eniwe wan haoa nomo. Gaed blong yumi long [kea blong yu wan](/caregiving/caregiver-self-care/) i lisemaot ol sans blong rest mo fri Alzheimer's Association 24/7 Helpline.

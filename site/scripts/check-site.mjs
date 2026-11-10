@@ -142,7 +142,7 @@ for (const file of htmlFiles) {
   } else if (language && (descriptionWidth < 50 || descriptionWidth > 360)) {
     err(rel, `translated meta description is ${descriptionWidth} chars wide (expected 50-360)`);
   } else if (language && (descriptionWidth < 70 || descriptionWidth > 170)) {
-    // Translated descriptions are warned about outside the preferred window (maintainer decision, PR #175).
+    // Translated descriptions are warned about outside the preferred window (maintainer decision).
     warn(rel, `translated meta description is ${descriptionWidth} chars wide`);
   }
   if (!is404) descriptions.set(langKey + desc, [...(descriptions.get(langKey + desc) ?? []), rel]);

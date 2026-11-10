@@ -1,32 +1,33 @@
 ---
-title: "Nnwuma ma Dementia a Ɛba Ntɛm: Adwuma ma Nkurɔfo"
-seoTitle: "Nnwuma ma Dementia a Ɛba Ntɛm: Nsusuwii"
-description: "Nnwuma ma dementia a ɛba ansa ɛberɛ 65: adwuma a wɔpɛ, nsase, nnwom a ɛfiri mmere a atwa so, ne mmoa ma mpena ne mmabarima a wɔboa wɔn."
+title: "Nnwuma ma Early-Onset Dementia: Nnipa a Wɔwɔ Adwuma"
+seoTitle: "Nnwuma ma Early-Onset Dementia: Nsɛm a Ɛboa"
+description: "Nnwuma ma early-onset dementia, a ɛbɛba ansa na ɔrenyin 65: adwuma a ɔpɛ, nkɔ baabi, nnwom ne mfonini a ɛfa wɔn mmere, ne boafo ma wɔn a wɔboa wɔn."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Dementia a ɛba ntɛm fi ɛberɛ a ɔbɛyɛ 65 ansa. Ɛtɔ so ba bere a obi wɔ adwuma,
-  wɔ kar so anaa ɔredi ne mmofra so. Ma wɔn ho ahobrɛase wɔ wɔn adwuma ne
-  wɔn nnamfo mu, paw nsase a ɛyɛ wɔn ankasa, de nnwom ne mfonini a ɛfiri wɔn
-  mmere so, na ma wɔn ara nni wɔn nhyehyɛe so. Mpena ne mmabarima a wɔboa wɔn
-  nso hia mmoa, na Alzheimer's Association wɔ nnipa a wɔyɛ saa adwuma no mpɔtam hyia.
+  Early-onset dementia bɛba ansa na ɔrenyin 65, bere a obi ka sɛ ɔreyɛ adwuma,
+  ne ho kɔ kwan, anaa ɔrehwɛ mmofra so. Ma ɔkɔ n'anigye ne n'abusuabɔ so,
+  paw nkɔ baabi a ɛyɛ ne ho papa, fa nnwom ne mfonini a ɛfa ne mmere ho de, na
+  ma ɔnyɛ ne nkitahodi ho ɔkwan. Wɔn a wɔboa no, sɛ ne kunu anaa ne mmofra a
+  wɔayɛ mmarima anaa mmaa, nso hia boafo, na Alzheimer's Association de
+  mpɔtam ahoɔfɛ nhyiam ma wɔn.
 keyPoints:
-  - "Dementia a ɛba ntɛm fi ɛberɛ 65 ansa. Nnipa dodow no ani nnye sɛ nsase a wɔde ma wɔn nyɛ wɔn mmere."
-  - "Ma obi no nni wɔn ankasa paw mu, fi nsase a ɔbɛpɛ kosi nhyehyɛe a ɔde bɛkɔ."
-  - "Nnwom, mfonini ne abakɔsɛm a ɛfiri wɔn mmerɛ 20 kosi 50 mu gyina hɔ sɛ ɛyɛ anigye, sen nsase a ɛfiri wɔn akwantuo a atwam."
-  - "Ma wɔn nntena ase na wɔn nnipa nso nnkɔ, na sɛ wɔpɛ, fa ntɛmkɔkɔ a ɛfata sesa, mmom nsesa nsase no."
-  - "Obi a ɔboa wɔn, titiriw mpena ne mmabarima, boa wɔn yiye sɛ wɔka abusua a wɔwɔ saa ɔhaw yi mu."
+  - "Early-onset dementia fi ase ansa na ɔrenyin 65. Nnipa pɛɛpɛɛ tee sɛ wɔn mfe nni ho nkɔsoɔ nnwuma a wɔde ma wɔn."
+  - "Ma obi no nni ɔkwan nyinaa so, efisɛ ɔno na ɔbɛpaw nnwuma biara, efi nea ɔbɛsɔ hwɛ kɔsi baabi a ɔbɛkɔ."
+  - "Nnwom, mfonini ne nsɛmmisa a ɛfa wɔn mfe 20 kosi 50 mu no, ɛtaa yɛ nea ɛsen nnwuma a ɛfa wɔn akyiri mfe."
+  - "Ma ɔnyɛ adwuma ne ɔkwan a ɔde ne ho bɛkɔ wɔ abusua mu sɛ ɔpɛ, na sesa nsɛnkyerɛ no, na ɛnyɛ sɛ wobɛsesa nnwuma no ankasa."
+  - "Wɔn a wɔhwɛ so, titiriw wɔn a wɔyɛ ne kunu anaa ne mmofra, di ntesɛm wɔ nkitahodi ho boafo mu."
 faq:
-  - q: "Dementia a ɛba ntɛm ye dɛn?"
-    a: "Ɛyɛ dementia a ɛba ansa ɛberɛ 65. Alzheimer's Association kyerɛ sɛ Alzheimer's yɛ younger-onset sɛ ɛba obi a ɔnnɔ 65. Dementia a ɛba ntɛm nni ɛberɛ a ɛtɔ so, nanso ɛnnyɛ hwee, na ɛtɔ so yɛ ɔkwan foforɔ: obi no bi ka tu adwuma, di kar so, anaa ɔyɛ ɔwofo."
-  - q: "Nnwuma bɛn na ɛfata obi a ɔwɔ dementia a ɛba ntɛm?"
-    a: "Nnwuma a ɛfata wɔn adult asetena no yɛ ade: adwuma a wɔn ara pɛ, nnamfo ne wɔn kɔ akwantuo, adwumayɛ a wɔyɛ de boa, abusua nnuan a wɔyɛ, nnwom a ɛfiri wɔn mmerɛ, anaa akwantuo kɔ beaeɛ a ɔpɛ. Ma wɔn nni nea wɔpɛ paw, na sesa nnwuma no tenenee anaa nnipa a wɔne no, nanso nnwuma no ara nni hɔ."
-  - q: "Ɛhe na mpena anaa ne mmabarima bɛkɔ ahyɛ mmoa?"
-    a: "Alzheimer's Association de mmoa mpɔtam hyia a ɛnni bo ma obi a ɔboa wɔn, ne mpɔtam hyia ma wɔn a wɔboa obi a ɔwɔ dementia a ɛba ntɛm. Wobetumi afrɛ wɔn 24/7 Helpline 800.272.3900 abisa mpɔtam hyia ne nsɛm a ɛboa."
-  - q: "Ɛsɛ sɛ obi a ɔwɔ dementia a ɛba ntɛm toa nnwuma a ɔpɛ so bio?"
-    a: "Aane, sɛ ɛnyɛ ɔhaw na ɔpɛ. Adwumayɛ wɔ asɔredan, nhoahoa, nnwuma a ɛma nipasu ne nnamfo ho bere nyinaa yɛ ɔkwan a ɛma nkwa ma ɛyɛ mmerɛ. Sesa baabi no, fa obi a ɔbɛka no, ne hyɛ bere ma ɔdi ahome, na gyae nnwuma no sɛ ɛnyɛ anigye bio."
+  - q: "Dɛn ne early-onset dementia?"
+    a: "Ɛyɛ dementia a ɛfi ase ansa na obi rekyere 65. Alzheimer's Association ka sɛ wɔfrɛ Alzheimer's sɛ younger-onset bere a ɛka obi a ne mfe ase 65. Early-onset yɛ kakra sen late-onset dementia, nanso ɛnyɛ animuonyam kɛse, na nsɛm a ɛba so no taa yɛ nea ɛsɛ: obi no bɛtumi awie adwuma, ne ho kɔ kwan, na ɔrehwɛ mmofra so."
+  - q: "Nnwuma bɛn na ɛfata obi a ɔwɔ early-onset dementia?"
+    a: "Nnwuma a ɛfa wɔn ankorakora adwuma ara na ɛyɛ papa: adwuma a wɔapɛ dada, nantew ne ayɔnkofo, adwumayɛ a wɔyɛ de aboa, abɔde yɛ fie ho aduane ma abusua, nnwom a wɔtetee wɔ wɔn mmere mu, anaa nkɔ baabi a wɔdɔ. Ma wɔnnyina nea ɔbɛpaw, na sesa berɛ tenten ne nnipa a wɔne wɔn di mu, na ɛnyɛ nnwuma no ankasa."
+  - q: "Ɛhe na kunu anaa ne mmofra a wɔhwɛ so bɛtumi anya mmoa?"
+    a: "Alzheimer's Association ma boafo a wɔyɛ mpɔtam ahoɔfɛ nhyiam, a wɔnhwehwɛ sika, na ɛmpo wɔ ho nhyiam ma wɔn a wɔhwɛ obi a ɔwɔ younger-onset dementia so. Wobɛtumi afrɛ Association no 24/7 Helpline wɔ 800.272.3900 de abisa nhyiam ne nsɛnkyerɛ ho nsɛm. Eyi yɛ US nọma; sɛ wowɔ baabi a ɛnyɛ US a, bisa wo ahoɔfɛ asɛdeɛ anaa dementia akuo a ɛwɔ hɔ."
+  - q: "Ɛsɛ sɛ obi a ɔwɔ early-onset dementia toa nnwuma a ɔpɛ so?"
+    a: "Aane, sɛ ɛnyɛ ɔkwan a ɛbɛma ɔyɛ basaa na ɔpɛ. Adwuma a ɔpɛ, asɔredan ho adwuma, nnwuma a ɛfa nipadua ahoyeyɛ ne nkitahodi ho ka ɔkwan a ɛma obi tra ase yiye. Siesie baabi a wobɛyɛ no, fa obi a ɔbɛne no kɔ, na hyɛ berɛ a ɔbɛda, na gyae sɛ nnwuma no no nni ahoɔden bio."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -45,45 +46,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Nsɛmfua pii a ɛfa dementia no kyerɛ sɛ obi no yɛ mfe 70 anaa 80. Sɛ obi a wɔahu no wɔ ne mfe 40 anaa 50, ne da biara asetena no yɛ ade foforɔ. Ebetumi aba sɛ ɔwɔ adwuma, ɔwɔ fie ho akatua, ɔwɔ mmofra a wɔrekɔ sukuu, anaa ɔwɔ maame a ɔrehwɛ. Nnwuma ho nsɛm no ntumi nnyina saa adult asetena yi so. Saa tatrɛ yi ka nea ɛsesa, nea ɛboa, ne baabi a mpena ne mmabarima betumi akɔ ahyɛ mmoa.
+Nsɛm pii a wɔka fa dementia ho no fa sɛ obi no yɛ mfe aduonu anaa aduosia. Nanso wɔn a wɔsusuw mfe aduanan anaa aduonum mu no, wɔn da biara nkwa yɛ foforo. Wɔtaa wɔ adwuma, wɔwɔ fie ho nneɛma, mmofra a wɔte fie, anaa wɔn maame anaa agya a wɔhwɛ so. Nnwuma no ntɛm ntwa saa adeyɛ yi so. Eyi boa yɛ sɛ yɛhwɛ nkɔso a ɛwɔ ne mu, yɛbɛkyerɛ nea yɛbɛyɛ, ne baabi a kunu anaa mmofra a wɔwɔ wɔn wɔ ho nya mmoa.
 
-## Dementia a ɛba ntɛm ye dɛn?
+## Dɛn ne early-onset dementia?
 
-Dementia a ɛba ntɛm ye dementia a ɛfiri ɛberɛ a ɔbɛyɛ 65 ansa. Wɔfrɛ no younger-onset bi. [Alzheimer's Association's blog](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) kyerɛ sɛ Alzheimer's yɛ younger-onset sɛ ɛba obi a ɔnnɔ 65, na ɛka sɛ ɛyɛ “ɔhaw a ɛwɔ ne ankasa ho” sɛ wobɛboa obi a ne mfe so yɛ kakra saa. Nsɛnkyerɛnne no betumi ayɛ sɛ ɛte sɛ nea ɛba mmere a atwa so, nanso obi no anidasoɔ, ne mmara ne nnamfo asetena no nnyɛ saa.
+Early-onset dementia ne dementia a ɛfi ase ansa na obi rekyere 65, a wɔfrɛ no younger-onset. [Alzheimer's Association blog](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) ka sɛ wɔfrɛ Alzheimer's younger-onset bere a ɛka obi a ne mfe ase 65, na ɛka sɛ ɛyɛ "ɔhaw a ɛwɔ ne mu" sɛ wobɛhwɛ obi a ne mfe yɛ saa. Nsɛnkyerɛ no tɛ sɛ nea ɛba akyiri mfe, nanso obi no anidasoɔ, nneyɛe ne nkitahodi nni hɔ.
 
-Ɛyɛ hwee sɛ wɔrenya ɔkwan a ɛnyɛ den de hu yɛ, enti nkurɔfo betumi agyina bere tenten ansa na wɔahu. Mpena ne mmabarima nso betumi ahu sɛ wonni obi a wɔbɛka kyerɛ. Sɛ wunim sɛ nnipa foforo nso wɔ saa asetena yi a, ɛboa dodow.
+Ɛyɛ kakra, enti nnipa bɛtumi atwe aseɛ kɔsi ɛberɛ a wɔbɛhunu yiye, na abusua nso bɛtumi aho sɛ wonni obi a wɔbɛka nsɛm no kyerɛ. Ɛboa pii sɛ wunim sɛ afoforo nso wɔ saa asetra yi.
 
-## Ma obi no ara ka nnwuma no mu
+## Ma adult no ka nnwuma no mu
 
-Nnipa a wɔyɛ adult a wɔwɔ dementia a ɛba ntɛm no, ɛnyɛ kakra na wɔpɛ sɛ wɔbɔ wɔn sɛ mmofra. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ ɛsɛ sɛ wosesa nnwuma no sɛdeɛ obi no betumi ayɛ ne nea ɔpɛ. Sɛ obi no ayɛ mfe 50, saa nsesa yi betumi ayɛ:
+Nnipa a wɔwɔ early-onset dementia pii ampɛ sɛ wɔbɛyɛ wɔn sɛ mmofra. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ ɛsɛ sɛ wɔsesa nnwuma no kɔ nea obi no tumi ka ne ani gye. Sɛ obi no yɛ mfe aduonum a, eyi bɛyɛ:
 
-- **Kɔ so yɛ adwuma a ɔpɛ,** te sɛ dua mmɔ, agodi, kaad, nhoma kenkan anaa dwom kwaa, a wɔboa no kakra anaa bere tiaa.
-- **Nantew anaa kɔ bisikoro ne nnamfo,** wɔ akwan a ɔnim yiye.
-- **Yɛ abusua aduane,** na ɔyɛ ade a ɔbɛtumi ayɛ.
-- **Boa anaa yɛ adwuma a ɔpaw** te sɛ nkoa nneɛma a wɔde ma no, anaa boa sukuu ahyɛde.
-- **Kɔ akwantuo kɔ beaeɛ a ɛyɛ ne dea,** na ɔne nnamfo kɔ, wɔ nhyehyɛe a ɛyɛ mmerɛ.
-- **Fa bere kɔ ne mmabunu, ne nananom mmanofoɔ anaa mmabarima,** de agyinamoɔ anaa adwuma bi.
+- **Ma ɔnnya n'adwuma a ɔdɔ,** te sɛ dwumadie, agodie, nantew, kwan nkaebɔ anaa dwom nhyiam, ne mmoa kakra anaa berɛ tiaa.
+- **Nantew anaa ɔkɔ kwan wɔ ayɔnkofo ho,** wɔ kwan a ɔnim yiye.
+- **Yɛ abusua aduane,** ma ɔyɛ nneyɛe a ɔtumi yɛ.
+- **Boa anaa yɛ adwumayɛ** wɔ adwuma a ɔpaw, te sɛ ɔbɛhwehwɛ nneɛma a wɔde ama afoforo anaa ɔboa wɔ sukuu nhyiam mu.
+- **Kɔ baabi a ɛyɛ ne ho** wɔ ayɔnkofo ne ne ho kɔ kwan a ɛyɛ kwan pa.
+- **Di bere wɔ abusua ba mmarima, mmaa, ne mmofra a wɔn ba ba** ho, de gyinabɔ anaa adwuma ketewa.
 
-Ma obi no nni nea ɔpɛ paw. Sɛ wobisa sɛ “Wopɛ sɛ yɛyɛ dɛn ɛnnɛ anwummere?” ɛyɛ nidi sen sɛ wobɛpaw ma no.
+Ma obi no ne ho nni ɔkwan. Ɛyɛ anidasoɔ pa sɛ wobɛbisa sɛ, "Wopɛ sɛ yɛyɛ dɛn ɛnnɛ anwummere?" sen sɛ wobɛpaw ma no.
 
-## Fa nnwom ne mmere a atwa so nsa
+## Fa nnwom ne nkaebɔ a ɛfa wɔn mfe ho de
 
-Nnwom, mfonini ne abakɔsɛm a ɛfiri obi ne mfe 20, 30 ne 40 betumi ama ahoyeraseɛ ne nkɔmmɔ a ɛyɛ dɛ aba. Yɛn [music activities](/activities/music/) guide kyerɛ sɛdeɛ wobɛyɛ playlist, na [reminiscence activities](/activities/reminiscence/) kyerɛ sɛdeɛ wobɛka mfonini ne abakɔsɛm a ɛnni bisa nsɛm. Sɛ wopɛ agyinamoɔ a ɛyɛ nnipa mu, sɔ [conversation cards](/games/conversation-cards/) hwɛ, a ɛwɔ nsɛm a ɛfa adwuma, akwantuo, nnamfo ne abusua ho.
+Nnwom ne mfonini a ɛfa obi mfe 20, 30 ne 40 ho no betumi ama ɔnya anigye ne nkɔmhyɛ a ɛyɛ dɛ. Yɛn [nnwom nnwuma](/activities/music/) boa wo sɛ wobɛyɛ nnwom nhyehyɛe, na [nkaebɔ nnwuma](/activities/reminiscence/) kyerɛ ɔkwan a wobɛfa mfonini ne nsɛm so nkɔ nkɔsoɔ a ɛnyɛ nsɛmmisa. Sɛ wopɛ agyinatuo a ɛyɛ adult ma, hwɛ [nkɔmhyɛ kaad](/games/conversation-cards/), a ɛwɔ nsɛmmisa a ɛmfa adwuma, nkɔ baabi, nnamfo ne abusua nni.
 
-Mfonini a wɔfiri abusua mfonini mu ayɛ [photo pairs](/games/photo-pairs/) no nso betumi ayɛ yiye, efisɛ mfonini no yɛ nnipa ne beaeɛ a ɛho hia obi no. Photo pairs no de mfonini no sie wɔ browser no mu wɔ saa fon yi so.
+Mfonini a wɔfiri abusua mfonini mu nso betumi ayɛ adwuma, efisɛ mfonini no yɛ nnipa ne baabi a ɛyɛ obi no ho hia. [Mfonini nhyehyɛe](/games/photo-pairs/) gyina browser so wɔ saa aboa no so.
 
-## Adwuma, kar so nantew ne nkwa a ɛda so
+## Adwuma, kwan a wɔtwa so ne fie asetra
 
-Nnipa pii a wɔwɔ dementia a ɛba ntɛm no ka wɔ adwuma, di kar so, anaa di sika ho ban. Eyi nyɛ nnwuma a wɔfrɛ no nnwuma sɛnea yɛte no, nanso ɛkyerɛ sɛdeɛ obi no betumi ayɛ nneɛma. Kasa kyerɛ wɔn dɔkota ho nsɛm a ɛfa kar so nantew ne adwuma ho ahobammɔ, na susuw sɛ obi no pɛ sɛ wɔboa no sika ho anaa nhyehyɛe a ɛfa ayaresabea ho. Ɛfa sɛ wɔbɛbɔ ahobrɛase a ɛsɛ ma obi no, nanso ɔde ne ankasa ho ka nneɛma a ɔpɛ.
+Nnipa pii a wɔwɔ early-onset dementia da so wɔ adwuma, wɔtwa kwan, anaa wɔhwɛ sika. Eyi nyɛ nnwuma a wɔfrɛ no ara, nanso ɛnam so ne nea obi no betumi ayɛ. Kasa kyerɛ wɔn dɔkotafo sɛ wɔnkɔ kwan ne adwuma mu ahobammɔ ho, na susuw sɛ wɔn a ɔpɛ sɛ mmoa ka sika ne nsɛnkyerɛ ho no. Ɛnam ho ara, wɔbɛbɔ ne ho ban ne animuonyam, na wɔma ɔno ka ne ho ka nneɛma a ɔpɛ.
 
-Sɛ wopɛ nkyerɛkyerɛ wɔ nkwa a ɛda so ne ahoyeraseɛ ho, hwɛ [a gentle daily routine](/activities/daily-routine/) ne [household tasks as activities](/activities/household-tasks/).
+Sɛ wopɛ nkɔmhyɛ wɔ nnwuma ne ahoɔden ho, hwɛ [adaworɔ nhyehyɛe a ɛyɛ dɛ](/activities/daily-routine/) ne [fie adwuma sɛ nnwuma](/activities/household-tasks/).
 
-## Mmoa ma mpena ne mmabarima
+## Boafo ma wɔn a wɔboa no ne kunu anaa mmofra
 
-Mpena ne mmabarima a wɔboa wɔn no, betumi ayɛ wɔn nnim nnipa. Wɔn hwɛ-so-boa nso betumi ahyɛ wɔn adwuma ne abusua mu so. Alzheimer's Association blog a ɛwɔ hɔ no kyerɛ sɛ mpena ne mmabarima a wɔwɔ dementia a ɛba ntɛm mpɔtam hyia no boa wɔn wɔ nsɛm a ɛyɛ mmerɛ te sɛ mmara ho nhyehyɛe, na ɛboa wɔn sɛ wɔte ase sɛ nnipa de wɔn ho. Association no nso yɛ mpɔtam hyia a ɛnni bo ma mpena ne mmabarima, ne mpɔtam hyia ma wɔn a wɔboa obi a ɔwɔ dementia a ɛba ntɛm; mpɔtam abien ahyia wɔ intanɛt so Kwesida ne Wukuda.
+Wɔn a wɔboa obi, sɛ kunu anaa mmofra, pii tee sɛ wɔn nko ara. Ɛboa sɛ wohwɛ obi so bɛyɛ adwuma foforo a ɛgyina adwuma ne abusua so. Alzheimer's Association blog post no kyerɛ sɛ wɔn a wɔboa wɔn a wɔwɔ younger-onset no ka sɛ mpɔtam nhyiam no boa wɔn wɔ nsɛm a ɛfa mmara ho ne wɔn a wɔyɛ nkaebɔ, na ɛma wɔn ho yɛ wɔn sɛ wɔte wɔn nsɛm. Ɛka nso sɛ Association no yɛ mpɔtam ahoɔfɛ nhyiam a wɔnhwehwɛ sika, ebinom a wɔn a wɔhwɛ obi a ɔwɔ younger-onset dementia so ka ho, na nhyiam mmiɛnsa so mmere mu ne da a ɛtɔ so (Wiensday) hyiam wɔ intaanɛt so.
 
-Sɛ wopɛ sɛ wobisa mpɔtam ho nsɛm, frɛ Association no 24/7 Helpline 800.272.3900. Yɛn [caregiver self-care guide](/caregiving/caregiver-self-care/) kyerɛ ho nsɛm a ɛfa ahomegyenyɛ, akyiwadeɛ ne nsɛnkyerɛnne a ɛkyerɛ sɛ obi ayɛ den.
+Wobɛtumi afrɛ Association no 24/7 Helpline wɔ 800.272.3900 de abisa ho nsɛm fa nhyiam ne nsɛnkyerɛ ho. [Yɛn boafo ho kwan](/caregiving/caregiver-self-care/) kyerɛ ahomegyebɔ, ahomegyebɔ tenten ne nsɛnkyerɛ a ɛda sɛ wo ho ayɛ wo basaa.
 
-## Mmere bi hia hɔ
+## Mmere ka so hia
 
-Obi a ɔwɔ dementia no mmere ka ho nso hia sɛdeɛ nneɛma boa no. Ansa na obi betumi ayɛ ne nnwuma a ɔyɛ kɔ so, na yɛn [early-stage activities](/activities/early-stage/) guide wɔ nkyerɛkyerɛ pii. Akyiri no, nnwuma no bɛyɛ mmerɛ na ɛbɛfa nneɛma a ɛde ahoɔden ba, sɛdeɛ wɔkyerɛ wɔ [late-stage activities](/activities/late-stage/). Sesa nnwuma no sɛdeɛ obi no nso sesa, na bisa no nea ɔpɛ bere a ɔbɛtumi aka.
+Obi no mmere a ɔwɔ wɔ dementia mu hia ara nso na ɛma wɔn a wɔboa no hu ɔkwan a ɛboa. Ɛberɛ a ɛreba ase no, nnipa pii betumi ayɛ wɔn nnwuma a wɔayɛ da so, nanso ɛsɛ sɛ wosesa mu kakra, na [mmere ase nnwuma](/activities/early-stage/) nso wɔ nkyerɛkyerɛ pii. Ɛberɛ a ɛreba akyiri no, nnwuma no bɛyɛ mmerɛw na ɛkɔ so nea wɔhunu so, sɛdeɛ [mmere akyiri nnwuma](/activities/late-stage/) kyerɛ. Sesa nnwuma no sɛdeɛ obi no nso sesa, na bisa no nea ɔpɛ bere a ɔbɛtumi aka.

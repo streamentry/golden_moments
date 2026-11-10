@@ -1,33 +1,33 @@
 ---
-title: "Puzzle blong Dimensia: Jigsaw, Wol mo Intaniet"
-seoTitle: "Puzzle long Dimensia: Jigsaw mo Wol Puzzle"
-description: "Hao blong jusum jigsaw, wol puzzle mo ol puzzle long intaniet blong man we i gat dimensia: saes blong pis, piksa, bigfala raetin, mo taem blong mekem i isi."
+title: "Puzzle blong Pipol wetem Dementia: Jigsaw mo Wed Puzzle"
+seoTitle: "Puzzle blong Dementia: Jigsaw mo Wed Puzzle"
+description: "Hao blong jusum jigsaw, wed puzzle mo online puzzle blong man we i gat dementia: saes blong pis, ol pikja, rita we i bik, wok togeta, mo taem blong mekem i isi."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gud puzzle blong man we i gat dimensia i wan we hem i save finisim wetem smol
-  help mo i enjoyem long taem we hem i wok. Jusum jigsaw we i gat fewfala
-  bigfala pis mo wan klia piksa blong laef long ples, kipim bokis piksa long ae,
-  mo sotem ol pis long edj fastfala. Wol searches mo crosswords i gud moa long
-  raetin we i bigfala. Ol isi puzzle long intaniet we i gat 4 pis i fitim midol
-  stej. Stopem taem i stil fun.
+  Best puzzle blong man we i gat dementia i wan we hem i save finisim wetem
+  smol help mo we hem i enjoyem long taem blong hem. Jusum jigsaw we i gat
+  fewfala pis we i bigfala mo wan klia pikja blong adult, kipim bokis pikja
+  long ai, mo sotem ol pis long edj fastaem. Wed sed mo kros-wed i gud moa taem
+  rita i bigfala. Isi online puzzle we i gat 4 pis i fitim taem long middle
+  stage. Stop taem i stap fun.
 keyPoints:
-  - "Jusum long hao i go, nating long stej label: sipos puzzle i olsem wok, traem wan we i gat fewfala pis."
-  - "Bigfala, strong pis mo wan klia piksa we i gat ol eria we kala i diffrent i isi moa long ol smol pis mo bigfala skae."
-  - "Piksa blong ol adalt i impoten. Gaden, kitchen, ka mo ol animol, nating ol cartoon."
-  - "Dufala wok wetem i minim mo. Givim ol pis, sotem ol edj, kipim bokis lid long ae."
-  - "Wol searches long bigfala raetin mo ol isi puzzle long intaniet wetem 4 o 9 pis oli fri long saet ia."
+  - "Jusum long wanem i save hapen, no long label blong stej: sipos puzzle i feel olsem wok, traem wan we i gat fewfala pis."
+  - "Bigfala, strong pis mo wan klia pikja we i gat ol eria blong kala we i defren i isi moa long smol pis mo bigfala skae."
+  - "Pikja blong adult i impoten. Gaden, kitchen, kar mo animal, no katun."
+  - "Wok togeta i samting we i impoten. Givim pis, sotem edj, kipim bokis lid long ai."
+  - "Wed sed long bigfala rita mo isi online puzzle we i gat 4 o 9 pis i fri long saet ia."
 faq:
-  - q: "Hamas pis blong puzzle i gud long man we i gat dimensia?"
-    a: "Nating wan namba i stret. Man we i bin mekem puzzle wetem 1,000 pis i save enjoyem sam handred pis long fastfala stej, be ol narafala oli gud moa long wan dosin bigfala pis. Sipos puzzle i olsem wok o i mekem hem i kros, jusum ol fewfala pis. Puzzle long intaniet blong mifala i gat 4 o 9 pis."
-  - q: "Jigsaw i gud long man we i gat dimensia?"
-    a: "Plante man oli enjoyem, espeseli sipos oli bin laekem puzzle bifo. Puzzle i givim han wan wok, wan klia gol mo wan piksa blong toktok long hem. Nating puzzle i bin sowem se hem i save tritim o slowem dimensia, so jusum olgeta blong enjoyment mo kampani."
-  - q: "Mi save duim wanem sipos man i no save moa mekem jigsaw?"
-    a: "Mekem i smol moa mo mekem plante long hem yu wan: givim wan pis long wan taem, o livim ol las fyu pis blong hem. Traem wan puzzle long intaniet wetem 4 pis, sotem ol pis long kala, o jas lukluk long fineshed piksa togeta."
-  - q: "Crosswords mo wol searches i fitim man we i gat dimensia?"
-    a: "Oli save fitim long fastfala stej, long bigfala raetin. Wol searches we ol wod oli go long saed mo long ples i isi moa long ol we i gat ol wod i go long kona o i go bak. Ridim ol klu o lis blong wod long hae vois mo wok togeta."
+  - q: "Hamas pis blong puzzle i gud long man we i gat dementia?"
+    a: "I no gat wan rait namba. Wan man we i bin duim 1,000-pis puzzle i save enjoyem sam handred pis long fastaem, be narafala i gud moa wetem wan dosin bigfala pis. Sipos puzzle i feel olsem wok o i mekem frustre, muvum i go long fewfala pis. Online Picture puzzle blong mifala i gat 4 o 9 pis."
+  - q: "Ol jigsaw puzzle i gud long ol man we oli gat dementia?"
+    a: "Plante oli enjoyem olgeta, espesol sipos oli bin laekem puzzle finis. Wan puzzle i givim han samting blong duim, wan klia gol mo wan pikja blong toktok long hem. I no gat puzzle we i bin prufem blong tritim o slouem dementia, so jusum olgeta blong enjoyment mo kampani."
+  - q: "Wanem mi save duim sipos man i no save manej wan jigsaw moa?"
+    a: "Mekem i smol moa mo yu duim moa long hem: givim wan pis long wan taem, o lego smol nomo ol las pis blong hem. Traem wan 4-pis online puzzle, sotem ol pis long kala, o just lukluk long finis pikja togeta."
+  - q: "Ol kros-wed mo wed faenem i fit long dementia?"
+    a: "Oli save fit long stej fastaem, long rita we i bigfala. Wed faenem we ol wed i stap nomo long saed i go long saed mo i go long dong i isi moa long ol we i gat wed we i go kotwed o go bakwol. Ridim ol klu o list blong wed long ol hai vois mo wok togeta."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-Wan jigsaw we i stap long tebol blong kakae i wan long ol isi aktiviti blong sherem. Yu save sidaon togeta nating yu toktok, pija i givim yu samting blong toktok long hem, mo taem yu putum las pis i gud long fil. Be ol puzzle i mas jenisim taem dimensia i jenisim. Puzzle we i hard tumas i save mekem wan kwaet aftanun i kam wan we i kros. Pej ia i sowem hao blong jusum mo setemap jigsaw, wol puzzle mo ol isi puzzle long intaniet, mo wanem blong mekem taem oli kam hard.
+Wan jigsaw we i stap long tebol blong kakae i wan long ol aktiviti we i isi moa blong sherem. Yu save sindaon togeta withaut we yu nidim toktok, pikja i givim yu samting blong toktok long hem, mo taem yu putum las pis i stap, i gat gud fil. Be ol puzzle i nidim blong jenisim taem dementia i jenisim. Puzzle we i hard tumas i save mekem wan kwaet aftanun i kam wan we i mekem hevi. Pej ia i showimaot hao blong jusum mo setemap ol jigsaw, wed puzzle mo ol isi online puzzle, mo wanem blong duim taem oli kam hard.
 
-## Ar puzzle i gud long man we i gat dimensia?
+## Eniwe ol puzzle i gud long ol man we oli gat dementia?
 
-Plante man oli enjoyem olgeta, espeseli ol we oli bin mekem puzzle bifo. Ol [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) oli lukaotem wol finds, kad gem mo bodi gem olsem ol aktiviti blong fastfala stej, mo [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i talem ol gem long intaniet mo ol puzzle long tablet olsem wan rod blong stap engaged.
+Plante man oli enjoyem olgeta, espesol ol we oli bin duim puzzle finis. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i listim wed faenem, kad gem mo bod gem long ol aktiviti blong stej fastaem, mo [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i talem ol gem mo puzzle long tablet olsem wan wei blong kipim man i stap intrested.
 
-Puzzle i no wan trit. Nating wan puzzle i bin sowem se hem i save slowem o stopem dimensia; pej blong mifala long [brain games mo dimensia](/brain-health/brain-games/) i eksplenem ol risej. Rison blong mekem wan puzzle hemi blong hem i save kamaot wan gud, i kolsap olgeta awa togeta. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i talemaot long wan fasin: fokes long enjoyment, nating long archievment.
+Puzzle i no wan tritmen. I no gat wan puzzle we i bin prufem blong slouem o stopem dementia; gaed blong mifala long [brain games mo dementia](/brain-health/brain-games/) i eksplenem ol risej. Rison blong duim wan puzzle, i blong i wan aoa we i plesen mo i tekem yu tu long wan aoa tugeta. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i talem long wan wei: fokas long plesa, no long winim.
 
-## Hao blong jusum wan jigsaw puzzle blong man we i gat dimensia?
+## Hao blong jusum jigsaw puzzle blong man we i gat dementia?
 
-Jusum long wanem man ia i enjoyem mo hao last puzzle i bin goro, nating long wan stej label.
+Go long wanem man i laekem mo hao las puzzle i bin goaot, no long label blong stej.
 
 ### Namba blong pis
 
-I no gat wan stret namba. Man we i bin laekem puzzle long laef blong hem i save enjoyem sam handred pis long fastfala stej, be narafala i gat moa gud long wan dosin. Wan gud rul: sipos last puzzle i olsem wok, jusum wan we i gat abaot haf blong namba ia. Sipos hem i finis kwik mo oli wantem moa, go antap smol.
+I no gat wan rait namba. Wan man we i bin laekem puzzle long laef blong hem i save enjoyem sam handred pis long fastaem, be narafala i hapi moa wetem wan dosin pis. Wan rul we i prektikol: sipos las puzzle i feel olsem wok, jusum wan we i gat abaot haf blong namba ia. Sipos i finis kwik mo oli wantem moa, go antap smol.
 
-### Saes blong pis mo fil blong hem
+### Saes blong pis mo filing
 
-- **Bigfala pis** i isi blong luk, kisim mo tanem.
-- **Tik, strong pis** i stap stret mo i no bruk sipos i foldaon.
-- **Matte finish** i redius glea anda long lam o windo.
-- **Mas no yusum smol pis** sipos man i save putum ol samting long maot, we i save hepen bihaen long dimensia.
+- **Bigfala pis** oli isi blong luk, pikap mo tanem.
+- **Thik mo strong pis** oli stap ples mo oli no bruk sipos oli foldaon.
+- **Matte finis** i redyusim glea long lamp mo windo.
+- **No yusum smol pis** sipos man i save putum samting long maot, we i save hapen bihaen long dementia.
 
-### Piksa
+### Pikja
 
-- **Adalt sabjek.** Gaden, kitchen, ol old ka, animol long fam, wan siti long see, wan fevret sport. Nating cartoon o samting we i lukluk olsem toy blong pikinini.
-- **Ol eria blong kala we i diffrent.** Wan red barn, wan blu bot mo wan grin fil i isi moa long wan skae we i kavarem haf blong puzzle.
-- **Famla mo personal.** Wan piksa blong wan ples we hem i bin stap long hem o wan hobi we hem i bin laekem i givim yu plante samting blong toktok. Sam print shop oli save tanem wan famli foto i kam wan jigsaw.
+- **Ol subjek blong adult.** Gaden, kitchen, ol ol kar, animal long fam, wan taon long sea, wan spot we hem i laekem. No katun o eni samting we i lukluk olsem toy blong ol pikinini.
+- **Ol eria blong kala we i defren.** Wan red barn, wan blu boat mo wan grin fil oli isi moa long wan skae we i kavremap haf long puzzle.
+- **Familiar mo personol.** Pikja blong wan ples we oli bin stap o wan hobi we oli bin laekem i givim yu plante samting blong toktok. Sam print shop oli save jenisim famli foto i kam wan jigsaw.
 
-## Hao blong mekem wan puzzle togeta?
+## Hao blong duim wan puzzle togeta?
 
-Setemap i olsem man i save go kwik i go long ol samting we i enjoyem.
+Setemap i olsem man i save go kwik i kam long pat we i enjoyable.
 
-1. **Jusum wan gud ples.** Gud laet, wan jea we i gat ol han, mo wan tebol o tre we puzzle i save stap long hem.
-2. **Putum bokis lid** long ples we yufala i save luk long hem.
-3. **Tanem ol pis i go antap** bifo yu start.
-4. **Sotem ol edj** yu wan, o mekem border fastfala mo lusim midol blong hem.
-5. **Grupim ol pis long kala** i go long sam sek plet o tre.
+1. **Jusum wan gud ples.** Gud lait, wan jea we i gat han, mo wan tebol o tre we puzzle i save stap long hem.
+2. **Putum bokis lid** long ples we yu tufala i save lukim.
+3. **Tanem ol pis i fes antap** bifo yu stat.
+4. **Sotem ol edj** yu wan, o duim bodaer fastaem mo lego midol blong hem.
+5. **Grupim ol pis long kala** i go long sam sek o plet.
 6. **Givim wan pis long wan taem** sipos paelo i tumas. "Mi tingting disfala i pat blong barn."
-7. **Toktok long piksa,** no long progres. "Ia i olsem bot we papa blong mi i bin gat."
-8. **Lusim i stap.** Kambak long hem long sam dei. No gat hari.
-9. **Stopem long wan gud taem,** bihaen wan pis i go insaed, taem i stil fil gud.
+7. **Toktok long pikja,** no long progres. "Hemia i olsem boat we papa blong mi i bin gat."
+8. **Lego i stap aotsaed.** Kam bak long hem long sam dei. No gat hari.
+9. **Stop long gud pointi,** afta wan pis i go insaed, taem i stap i gud fil.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i advaesem blong helpem man blong statem, lukaotem sipos hem i kros, mo letem hem i jes lukluk sipos hem i enjoyem moa. Lukluk yu putum ol pis, mo poentem we wan pis i save go, hemi stil wan fasin blong joenem.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i advaesem blong helpem man i stat, lukaotem sipos i frustret, mo letem hem i jes lukluk sipos hem i laekem moa. Lukluk taem yu putum ol pis, mo pointem ples we wan i save go, hemia i stil wan wei blong joen.
 
-## Isi puzzle long intaniet
+## Isi online puzzle
 
-Wan puzzle long tablet i gat sam gud samting: i no gat ol pis i lus, bigfala piksa we i fulumap skrin, mo yu no nid klinim tebol.
+Wan tablet puzzle i gat sam gud samting: no gat pis we i lus, bigfala pikja we i fulap skrin, mo no nidim klia tebol.
 
-Fri [Picture puzzle](/games/picture-puzzle/) blong mifala i katem wan piksa i go long 4 o 9 pis. Tapem tu pis blong switjem tumas kasem piksa i kam hol. Fulpiksa i stap long skrin olsem gaed, i no gat taem blong waj, mo yu save stopem long eni pemt. Fo pis i fitim plante man long midol stej we wan man i stap klosap long hem.
+Fri [Picture puzzle](/games/picture-puzzle/) blong mifala i katem wan pikja i go 4 o 9 pis. Tap tu pis blong switsim tugeta kasem pikja i kam hol. Fulap pikja i stap long skrin olsem gaed, no gat taem, mo yu save stop long eni taem. 4 pis i fitim plante man long middle stage sipos wan i sidaon klosap.
 
-Blong aktiviti piksa we i isi moa, traem [Find the same](/games/find-the-same/), we yu tapem piksa we i matj wan long topsaed, o [Sort together](/games/sort-together/), we ol piksa i go long ol basket olsem kitchen o gaden.
+Blong wan smol moa sempol pleim, traem [Find the same](/games/find-the-same/), we yu tap pikja we i sem wetem wan long top, o [Sort together](/games/sort-together/), we ol pikja i go long basket olsem kitchen o gaden.
 
-## Wol puzzle: wol searches mo crosswords
+## Wed puzzle: wed faenem mo kros-wed
 
-Wol puzzle i fitim ol man we oli bin laekem olgeta, usually long fastfala dimensia.
+Wed puzzle i fitim ol man we oli bin enjoyem olgeta, usually long fastaem blong dementia.
 
-- **Wol search long bigfala raetin.** Fri [Word search](/games/word-search/) blong mifala i yusum bigfala leta mo fewfala wod nomo, we oli go long saed mo i go long ples, nating long kona o i go bak. Yu save pleim long skrin o prin i kam.
-- **Ridim lis long hae vois.** Wan man i ridim wan wod, narafala i lukaotem. Sekol nomo fastfala leta i gud.
-- **Bigfala raetin crosswords** long ol puzzle buk i save wok long fastfala stej. Ridim ol klu long hae vois, sherem pen mo raetem ol ansa togeta. Ol isi crosswords we oli gat wan tema i gud moa long ol we oli hard.
-- **Toktok long ol wod.** "Gaden" i save kasem ten minit blong toktok long tomato.
+- **Wed faenem long bigfala rita.** Fri [Word search](/games/word-search/) blong mifala i yusum bigfala leta mo sam wed nomo, we i go long saed mo go long dong, no go kotwed o go bakwol. Pleim long skrin o prin i kam.
+- **Ridim list long hai vois.** Wan man i ridim wan wed, narafala i lukaotem. Sekel nomo long fes leta i oraet.
+- **Bigfala rita kros-wed** long ol puzzle buk i save wok long fastaem. Ridim ol klu long hai vois, sherem pen mo filim ol ansa togeta. Ol isi kros-wed we i gat wan tema i gud moa winim ol we i gat hard tingting.
+- **Toktok long ol wed.** "Gaden" i save kasem ten minit blong toktok long tomato.
 
-Blong moa ol pepa aktiviti mo hao blong prinem olgeta blong oli isi blong luk mo holem, luk [free printable dementia activities](/activities/printable/).
+Blong moa ol pepa aktiviti mo hao blong prin olsem oli isi blong luk mo holem, lukluk [ol fri prin aktiviti blong dementia](/activities/printable/).
 
-## Wanem puzzle i fitim long ēj stej?
+## Wanem puzzle i fitim long ea stej?
 
-Ol stej oli joen wan wan, mo ol gud dei mo ol hard dei i normal.
+Ol stej oli overlap, mo ol gud dei mo ol hard dei i normal.
 
-| Stej | Puzzle we oftn i fitim | Rol blong yu |
+| Stej | Puzzle we i oftn i fit | Rol blong yu |
 | --- | --- | --- |
-| Fastfala | Ol famla jigsaw we i gat fewfala pis long bifo, bigfala raetin crosswords mo wol searches, 9-pis puzzle long intaniet | Pat: letem hem jusum, helpem sipos hem askem |
-| Midol | Jigsaw wetem wan dosin bigfala pis, 4-pis puzzle long intaniet, wol search we ol ridim long hae vois togeta | Setemap, sotem ol pis, givim wan wan long taem |
-| Las | Lukluk fineshed piksa togeta, Find the same wetem tu piksa, holem fewfala bigfala pis | Karim i go long hem; yu kampani i wan aktiviti |
+| Fastaem | Ol famli jigsaw we i gat fewfala pis moa long bifo, bigfala rita kros-wed mo wed faenem, 9-pis online puzzle | Patna: letem hem i jusum, helpem taem hem i aksem |
+| Middle | Jigsaw we i gat wan dosin bigfala pis, 4-pis online puzzle, wed faenem we oli ridim long hai vois togeta | Setemap, sotem ol pis, givim wan long wan taem |
+| Las | Lukluk long finis pikja togeta, Find the same wetem tu pikja, holem fewfala bigfala pis | Karem i kam long hem; kampani blong yu i wan aktiviti |
 
-## Wanem taem blong mekem puzzle i isi, o stopem?
+## Wanem taem blong mekem puzzle isi, o stop?
 
-Lukaotem sipos hem i kasem win, i pusum ol pis i go, i talem "mi no save" i kambak, o i lukluk wari. Ol ia i saen blong jenisim samting, no blong pushum i go moa.
+Lukaotem sikh, pusum ol pis i go wantaem, repitim "mi no save", o luk we i worri. Ol ia i saen blong jenisim samting, no blong pusum.
 
-- **Mekem i smol.** Fewfala pis, o lusim ol las fyu pis blong hem nomo.
+- **Mekem i smol.** Fewfala pis, o lego smol nomo ol las pis long hem.
 - **Duim moa long hem yu wan** mo askem hem blong helpem long ol isi pat.
-- **Jenis i go long samting klosap:** sotem ol pis long kala, wan 4-pis puzzle long intaniet, o [coloring](/games/coloring/).
-- **Stopem.** Putum i go long saed mo dringim wan kap tea. Yu save kambak long narafala dei, o no kambak olgeta.
+- **Switsim i go long samting klosap:** sotem ol pis long kala, wan 4-pis online puzzle, o [coloring](/games/coloring/).
+- **Stop.** Putum i go saed mo dringem wan kap ti. Yu save kam bak long narafala dei, o no kam bak nating.
 
-Sipos ol puzzle i statem fil olsem wan rimaenda blong ol samting we i hard, hemi oraet blong lego olgeta. I gat plante narafala rod blong spenem gud taem togeta; [101 activity ideas](/activities/ideas/) blong mifala i wan gud ples blong lukluk.
+Sipos puzzle i stat blong feel olsem wan rimainda blong ol samting we i hard, i oraet blong letem i go. I gat plante narafala wei blong spendem gud taem togeta; [101 aidia blong aktiviti](/activities/ideas/) blong mifala i wan gud ples blong lukluk.

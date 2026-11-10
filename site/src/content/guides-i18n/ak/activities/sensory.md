@@ -1,33 +1,32 @@
 ---
-title: "Ntease Dwumadie ma Nnipa a Dementia Atwa Wɔn Ho"
-seoTitle: "Dementia Ntease Dwumadie: Nsusuwii ne Ahobammɔ"
-description: "Ntease dwumadie ma nnipa a dementia atwa wɔn ho, efi nsa so tɔ kɔsi nsuo a ɛtɔ ne nsɛm a yɛtie, ne ahobammɔ nsɛm wɔ nkakrankakra, ahosu ne ahoɔ ho."
+title: "Ntease Nneɛma ma Nnipa a Wɔwɔ Dementia"
+seoTitle: "Dementia Ntease Nneɛma: Nkyerɛkyerɛ ne Ahobammɔ"
+description: "Ntease nneɛma ma nnipa a wɔwɔ dementia, efi nsa so ne aduane so kosi nkotodwe ne nkɔnsɔnkɔnsɔn, nhoma ne nhwɛso ho, nea ɛbɛboa wo ma wo nhwɛ ahobammɔ."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ntease dwumadie de ntease anum di dwuma: nsa so mmɔ, bɛkɔ a ɛyɛ mmerɛ ahoɔ
-  a ɛtɔ so, nhwiren a ɛyɛ dɛ, nsɛm a ɛfa wiase mu tie, anaa hwɛ nnoawa wɔ
-  sukuu a ɛwɔ ɔpon ho. Ɛyɛ ma nkɔso biara, na ɛboa paa wɔ asetra a ɛdi kan ho.
-  Hwɛ ntɛmntɛm nneɛma a ɛbɛyɛ ahohuhuo, ahosu, ahoɔ a ɛte sɛ nneɛma a wɔde
-  yɛ sɛ nsisi ne ahoɔ a ɛyɛ mmerɛ, na fa nneɛma biako di dwuma bere biara.
-  Gyae na wo ho ahyɛ dwumadie no mu sɛ onipa no ani nnye anaa ɔyɛ mmerɛ.
+  Ntease nneɛma de ntease nnan ahyɛ adwuma: nsa so a ɛyɛ brɛoo, ntoma a ɛyɛ
+  nwoma, nhwɛ a ɛwɔ mmɔbɔ, nteɛm a ɛfa wɔ ɔhyɛn, anaa nhwɛ mmoa a wɔrehwɛ wɔ
+  adaboɔ so. Wɔnhwɛ kwan a ɛwɔ ɔhaw a wɔbɛgye ho, ahodoɔ, nkwa a ɛwɔ ahoɔ
+  ho, ne nhwɛ a ɛyɛ ahoɔden. Hwɛ ho ntɛm, ma ɛyɛ biribi biako pɛɛpɛɛ, na sɛ
+  obi no nnye ho yie a, gyae.
 keyPoints:
-  - "Ntease dwumadie no nni mmuae a ɛsɛ sɛ wɔka, ɛno nti ɛyɛ ma wɔn a wɔn ho yɛ den nyinaa, wɔ mpa so anaa wɔ agyaadeɛ so."
-  - "Fa ntease biako pɛ di dwuma wɔ dan a ɛyɛ komm mu, na bisa anaa ka kyerɛ onipa no ansa na woresi no."
-  - "Ntwe nneɛma kakra ne nneɛma a ɛte sɛ aduane nanso ɛnyɛ aduane, ɛfiri sɛ onipa bi betumi de ne nsa mu."
-  - "Hwɛ ahosu, nipa ho yaw ne ahome haw ansa na wode lotion, ahoɔ anaa aduane di dwuma."
-  - "Nsɛm nni nokware bi a ɛkyerɛ sɛ aromatherapy boa ɛmfa dementia nsɛnkyerɛnne; fa ahoɔ di dwuma ma anigye kakra pɛ, sɛ ɛsɛ koraa."
+  - "Ntease nneɛma nni mmuae a ɛyɛ nokorɛ, enti wɔyɛ adwuma wɔ asasetɔ biara mu, ɛwom sɛ ɛbɛyɛ wɔ mpa so anaa wɔ ntebe so."
+  - "Fa ntease biako ka ho bere biara wɔ adaduan a ɔnteɛm mu, na bisa anaa ka ansa na wobɛtɔ obi."
+  - "Gyina nneɛma kakraa ne nneɛma a ɛte sɛ aduane nanso ɛnyɛ aduane, esiane sɛ nnipa bi de nneɛma kɔ wɔn anom."
+  - "Hwɛ ahodoɔ, nhoma ho yaw ne ahome ho ɔhaw ansa na wode hwɛ ntoma, aduane anaa nneɛma a wɔde ahoɔ."
+  - "Nhwɛso a wɔka sɛ aromatherapy boa dementia ho nneyɛe nni ahoɔden a ɛyɛ nokorɛ; fa honhom a ɛyɛ dɔ de ma ɔnnye ho, sɛ ɛwɔ hɔ a."
 faq:
-  - q: "Ntease dwumadie bɛn na ɛyɛ mma obi a dementia atwa no ho?"
-    a: "Nsusuwii a ɛyɛ mmerɛ ne sɛ, wo bɛ mmɔ nsa mu nsuo a ɛwɔ lotion mu bɛkɔ a ɛyɛ mmerɛ, mmɔ nsaho a ɛyɛ mmerɛ, bɔ aduane anaa kɔfi ahoɔ, tie nnwom a ɔpɛ anaa nnoawa a ɛyɛ mmerɛ, hwɛ nnoawa anaa nsuo a wɔwɔ ntoma mu, anaa anom aduane a ɔpɛ wɔ nkakrankakra a ɛyɛ mmerɛ mu. Fa ntease biako pɛ di dwuma, na hwɛ sɛnea onipa no ani gye."
-  - q: "Ntease dwumadie yɛ ahoɔ sɛ onipa a ɔde nneɛma to ne ano no?"
-    a: "Ɛbɛyɛ ahoɔ sɛ wobɛyɛ no yiye. Fa nneɛma kɛse a wɔnnim anaa wɔnnye nnwene bi pɛ, gyaa nneɛma a ɛyɛ kakra anaa a ɛbɛbubu ho, na kora lotion, sapo ne ahoɔ a wɔde yɛ no ahodoɔ wɔ baabi a ɔnnya nkɔ, ɛfiri sɛ ɛbetumi ayɛ sɛ aduane anaa ɛte sɛ aduane. Tena ho ne onipa no nyinaa."
-  - q: "Aromatherapy boa dementia ho?"
-    a: "Cochrane nhwehwɛmu bi hunuu sɛ nsɛm nni nokware bi a ɛkyerɛ sɛ aromatherapy boa nnipa a dementia atwa wɔn ho, nanso nhwehwɛmu no yɛ kakraa na nsɛm a ɛwɔ mu nnyɛ pɛ. Sɛ onipa no ani gye ahoɔ a ɛyɛ mmerɛ a wanim no, ɛyɛ; nanso mma ahoɔ a ɛyɛ den, titiriw wɔ nnipa a ɔhome yɛ den anaa wɔn ho yaw."
-  - q: "Fidget anaa activity apron nie ne dɛn?"
-    a: "Ɛyɛ kyɛw, apron anaa kɔbɔ a wɔde nneɛma a ɛsɛ sɛ wɔdi ahyɛ mu, te sɛ bɔtan kɛse, zipper, sinaa ne nkuruwa a ɛyɛ mmerɛ, ahyɛ mu yiye. Ɛma nsa a ɛnni adwuma no nneɛma a ɛbɛma wɔahwehwɛ. Hwɛ no daa sɛ hɔ nneɛma a ɛwɔ ntwe a wobetumi atu."
+  - q: "Dɛn ne ntease nneɛma a ɛyɛ papa ma obi a ɔwɔ dementia?"
+    a: "Nneɛma a ɛyɛ mmerɛ ni ne nsa so a ɛyɛ brɛoo de ntoma a ɛwɔ nkwan, honhom a ɛfa nhwɛ anaa kɔfi, nteɛm a ɛfa nnwom a ɔpɛ anaa nteɛm a ɛfa mmoa, nhwɛ mmoa anaa nkɔnsɔnkɔnsɔn a ɛwɔ hyɛ, ne aduane a ɔpɛ a ɛwɔ nkwan a ɛyɛ mmerɛ mu. Fa ntease biako ka ho bere biara na hwɛ sɛdeɛ ɔnnye ho."
+  - q: "Ntease nneɛma yɛ ahobammɔ ma obi a ɔde nneɛma kɔ ne anom?"
+    a: "Ɛbɛyɛ, sɛ wohwɛ yie. Fa nneɛma kɛse a wontumi nnan nko ara, ntwe nneɛma kakraa anaa nneɛma a ɛbɛbu, na de nhoma, sopɔ ne nneɛma a ɛwɔ honhom sɛ wobɛtu akyiri no ahyɛ kwan a wɔnnhwɛ. Tena ne nkyɛn bere nyinaa."
+  - q: "Aromatherapy boa dementia anaa?"
+    a: "Cochrane nhwehwɛmu a wɔyɛe no hunuu nsɛmmisa a ɛda adi a ɛkyerɛ sɛ aromatherapy boa nnipa a wɔwɔ dementia, nanso nhwehwɛmu no yɛ ketewa na nea ɛba mu no nyɛ pɛ. Sɛ obi pɛ honhom a ɛyɛ dɔ a ɔhunu dada a, ɛyɛ; nanso fa honhom a ɛyɛ den, titiriw sɛ ɔwɔ ahome ho ɔhaw anaa ahodoɔ, nkɔ so."
+  - q: "Dɛn ne fidget anaa activity apron?"
+    a: "Ɛyɛ ntoma, apron anaa kɔtɔn a wɔde nneɛma a wɔbɛkyere nsa ho sɛ wobɛdi ho ayɛ den, sɛ nkotodwe kɛse, zippers, ribbons ne nkɔnsɔnkɔnsɔn a wɔde ahyɛ. Ɛma nsa a ɛnnyina adwuma nni biribi a ɛbɛma wɔdi ho nhwehwɛ. Hwɛ ho bere bebree sɛ biribi nni hɔ a ɛbɛyera anaa ɛbɛtu."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -52,83 +51,83 @@ related: [activities/late-stage, activities/music, activities/outdoor-and-garden
 health: false
 ---
 
-Ntease dwumadie de yɛn ntease anum di dwuma: tie, ahoɔ, anom, nne ne hwɛ. Ɛnhia sɛ wokae, nhyehyɛe biara nni hɔ, na mmuae a ɛsɛ sɛ wɔka nni hɔ, enti ɛbetumi ayɛ adwuma wɔ bere biara. Ɛyɛ ɛsɛnea ɛsen wɔ bere a ɛdi akyiri. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) kyerɛ sɛ wɔ stage a ɛdi akyiri mu, onipa no hu wiase titiriw wɔ ntease so, na wobetumi akyerɛ adwene a ɛfa ɔpɛ ho wɔ nsa so tɔ, nne, hwɛ, anom ne ahoɔ so. Nkyerɛkyerɛ ahoɔ bi a wɔyɛ ansa na wɔreyɛ dwumadie no bɛma ɛyɛ anigye ma obiara.
+Ntease nneɛma de adwene a ɛyɛ nnipa ahoɔden nnan ahyɛ adwuma: ntease, honhom, ɛdɛ, nteɛm ne ahuhu. Wɔnhia nkaebɔ, anammɔn biara anaa mmuae a ɛyɛ nokorɛ, enti wɔbɛtumi ayɛ wɔn wɔ asasetɔ biara mu. Ɛho hia paa akyiri yi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ka sɛ wɔ asasetɔ a ɛtwa toɔ mu no, wiase de ahoɔden nnan na ɛhyɛ adwuma, na wobetumi adi ɔdɔ wɔ nsa so, nteɛm, ahuhu, ɛdɛ ne honhom so. Nhwɛso kakraa a wɔhwɛ ansa na wɔayɛ no ma nnwuma yi yɛ ahomegyeɛ ma obiara.
 
-## Dɛn ne ntease dwumadie wɔ dementia mu?
+## Dɛn ne ntease nneɛma ma dementia?
 
-Ntease dwumadie yɛ ahotɔ a ɛyɛ mmerɛ a wɔde ntease biako pɛ yɛ, te sɛ sɛ wɔbɛtɔ kyɛw, wɔbɛhwɛ nhwiren anaa wɔbɛtie osutɔ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) kyerɛ sɛ dwumadie a ɛdi akyiri hia sɛ ɛtwe ntease so, na ɛkyerɛ nnwom, nneɛma a wobɛtɔ na wɔde nsa ahwehwɛ, ne nsa so mmɔ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kyerɛ sɛ wɔ stage a ɛdi akyiri mu, onipa betumi ahia sɛ ɔkyekyere biribi mu ama ahome.
+Ntease nneɛma yɛ nneyɛe a ɛyɛ mmerɛ a wɔde ntease biako ka ho, sɛdeɛ ɛbɛyɛ sɛ wobɛpapaa ntoma, wobɛhonhom nhwɛ anaa wobɛtie osutɔ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ka sɛ nnwuma a wɔyɛ wɔ asasetɔ a ɛtwa toɔ mu no hia sɛ ɛfa ntease so, na ɛfa nnwom, nneɛma a wɔbɛtie na wɔde nsa ahwɛ, ne nsa so a ɛyɛ brɛoo. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ka sɛ nnipa a wɔwɔ asasetɔ a ɛtwa toɔ mu no betumi ahia biribi a wɔbɛkyere ho de ahome ma wɔn.
 
-## Ntease dwumadie a ɛyɛ mmerɛ, ntease biara biara
+## Ntease nneɛma, ntease biako biako
 
-### Nsa so tɔ
+### Nsa so
 
-- **Nsa so mmɔ.** Hyew lotion kakra wɔ w'anim mu, na fa so kɔ ɔnkɔnkɔnsa fi nsa ano kɔ nsa nsɛnkyea. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ka sɛ wɔde lotion a ɛnni ahoɔ bi bɛmmɔ ho ma ahome.
-- **Kyɛw a wɔbɛtɔ.** Kyɛw kɛse a wɔde velvet, corduroy, fleece, satin ne wool yɛ, a wobɛtɔ, wɔabɔ no ayɛ, na mmɛka ho asɛm.
-- **Nsuo a ɛyɛ hyew.** Ntwene a ɛyɛ hyew a wɔaboa wɔ nsuo mu ama nsa, sɛ ɛyɛ owia a ɛyɛ mmɔbɔ. Hwɛ ntempɛ no wɔ w'ankyɛn nsa so ansa na woyɛ.
-- **Apron anaa kɔbɔ a wɔde nneɛma to so.** Bɔtan kɛse, zipper, sinaa ne nkuruwa a wɔde yɛ ntɔ yiye.
-- **Ntwene a ɛyɛ mmerɛ.** Ntwene a ɛyɛ pɛ anaa mpaapa a wɔbɛbɔ ayɛ ahyɛ mu, a wɔnyɛ no sɛ akwadaa dwumadie.
-- **Biribi a ɛyɛ mmerɛ a wɔbɛkyere.** Kɔbɔ ahoɔ, mpaapa anaa anibɔ a ɛyɛ mmerɛ, wɔde ma no kwa, na wɔnyɛ no sɛ akwadaa dwumadie.
+- **Nsa so brɛoo.** Hyew ntɛm nkakrɛ nhwɛ wɔ wo nsa mu, na pue nsa no fi asennua kɔsi nsateaa so brɛoo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ka sɛ wobetumi de nkakrɛ a wɔnhwɛ honhom no so nsa so ama ahome.
+- **Ntoma kɛseɛ a wɔde nhyɛ mu.** Ntoma kɛse a wɔde ahyɛ mu, a ɛyɛ velvet, corduroy, fleece, satin ne wool, a wobɛkɔ so pue, ayɛ ntuanee na aka ho asɛm.
+- **Nsuo a ɛyɛ hyew.** Ɛyɛ ntoma a ɛyɛ nsuo mu a ɛyɛ hyew, de ma nsa ntɛmtɛm, sɛ ɛyɛ ahuhuru bere. Sɔ wo nsa ano ansa na wode ahyɛ.
+- **Apron anaa kɔtɔn a wɔde nsa ahwɛ.** Nkotodwe kɛse, zippers, ribbons ne nkɔnsɔnkɔnsɔn a wɔde ahyɛ mu yiye.
+- **Ntwentwen ne nkyekyeɛ.** Ntoma a ɛyɛ teɛteɛ, nsa ntɛmtɛm anaa ntwentwen, a wobɛkyekye, nhyɛ ne bɔ mu bio.
+- **Biribi a wɔbɛkyere.** Ntoma nsɔnsɔn, ntoma a ɛyɛ ɔkɔkɔɔ anaa ɔdwera a wɔde ma no ntɛm, a wɔnnsɛ sɛ ɛyɛ mpaboa.
 
-### Ahoɔ
+### Honhom
 
-- **Nhwiren a ɛyɛ fɛɛ.** Pɔn mint, rosemary, basil anaa lavender ahoma wɔ w'nsam mu, na fa so ma no ahoɔ.
-- **Aduane ahoɔ.** Kɔfi a ɛrekɔ so, paanoo a ɛrekɔ so, sinamon anaa ɔfoo a wɔrepɔn ne mu wɔ nkyɛn.
-- **Nkyɛmu.** Fa nkyɛmu kakra a ɛfiri akuraa anaa ɛfiri dwadan so.
-- **Ahoɔ a ɛyɛ onipa no dea.** Sapo anaa lotion a wɔde yɛ bere nyinaa, sɛ ne ahodoɔ tumi tɔ.
+- **Ahuhuruw.** Pue mmɔdenbɔ a ɛyɛ foforɔ ntɛmtɛm wɔ nsa mu, na wɔbɛtwe nsa so.
+- **Aduane a ɛde honhom.** Kɔfi a ɔrehyew, paanoo a ɔrehyew, sinamon anaa ɛbɛnam a wɔrehwe ɛbɛn.
+- **Nhwiren.** Fa nhwiren foforɔ bi fi afuw anaa adwadan so.
+- **Sɔapo anaa ahodoɔ a wɔpɛ.** Sɔapo anaa ahodoɔ a wɔde di dwuma daa, sɛ ne ahoɔ tumi gye a.
 
-### Anom
+### Ɛdɛ
 
-- **Anom a onipa no pɛ.** Nkɔnkɔnsa kakra a ɛyɛ onipa no ɔpɛ, te sɛ applesauce, pudding anaa ice cream, wɔ ntɛmpa a wɔbɛtumi de ahye ano.
-- **Mmoa wɔ kuku mu.** Wobɛnom aba anaa kɔfi sukɔ kakra bere a mo ne mo ho reyɛ kuku.
-- **Anom a ɛfa bere ho.** Watermelon wɔ osutɔ mu, ɛsɔ ɔfoa wɔ osutɔ a ɛreba mu, na wɔde ma ɛwɔ hyew a ɛyɛ mmerɛ.
+- **Ɛdɛ a wɔpɛ.** Nsuanyɛ kakraa a obi pɛ, te sɛ apple sauce, pudding anaa ice cream, wɔ ahoɔ a wɔbɛtumi adi so yie.
+- **Boa wɔ bobe mu.** Nhwɛ aba anaa sugar krim a ɛwɔ mu bere a moreyɛ bobe mu.
+- **Ɛdɛ a ɛfa bere ho.** Nsuo mmɔbɔ wɔ osutɔ bere, kɔfi a ɛyɛ hyew wɔ ɔhyɛn bere, wɔ ahoɔ a ɛyɛ mmerɛ ma obi nnwene.
 
-### Tie
+### Nteɛm
 
-- **Nnwom a onipa no pɛ.** Nnwom a wɔatie dada wɔ nsɛm a ɛyɛ mmerɛ; hwɛ [music activities](/activities/music/).
-- **Nsɛm a ɛfiri wiase mu.** Osu, nsuo a ɛreboa anaa nnoawa a ɛyɛ mmerɛ. NIA ka sɛ nnwom, nsɛm a ɛyɛ mmerɛ ne nsɛm a ɛfiri wiase mu boa nnipa bi ma wɔn ahome.
-- **Wo nne.** Kenkan kɔ so, hyew, anaa kyerɛ ɔbɔ.
-- **Nnwomdua a ɛyɛ mmerɛ.** Ɔdan a wɔde nsa bɔ, nsutu anaa dwɔn a wobetumi de nnwom ne wo ho.
+- **Nnwom a obi pɛ.** Nnwom a wɔatie dada wɔ nteɛm a ɛyɛ brɛoo; hwɛ [nnwuma a ɛfa nnwom ho](/activities/music/).
+- **Mmoa ne nsuo nteɛm.** Osu, mpoma anaa nnomaa dwenenemu. NIA ka sɛ nnwom, nteɛm a ɛte sɛ mframa anaa nteɛm a ɛfa wiase ho boa obi bi ahome.
+- **Wo nne.** Kenkan anaa hwɛ bere a wodi asɛm, anaa ka anansesɛm.
+- **Nkɔmmɔ nneɛma a ɛyɛ mmerɛ.** Nkɔmmɔ kakraa, nsuo a wɔde gu, anaa aka a wɔde bɔ nteɛm ka nnwom ho.
 
-### Hwɛ
+### Ahuhu
 
-- **Hwɛ nnoawa wɔ dan no mu.** Nnoawa a ɛbɛba sɛ ɔfɛ aduaba a ɛwɔ dan no ankasa, mmofra a ɛrekɔ fie, anaa sukan a ɛrewɔ ɛpo.
-- **Nsuo mu nnwan anaa video a ɛyɛ mmerɛ.** Ntɔntɔn a ɛyɛ mmerɛ a ɛnni nne a ɛyɛ den.
-- **Mfonini kɛse.** Mfonini a ɛyɛ pɛpɛɛpɛ biako pɛ, a wɔde ka ɛfifiri ahwɛ.
-- **Nkyɛn ne mmɔdenkɔ.** Nkyerɛ nkyɛn a ɛyɛ anibɔ anaa nkyɛn wɔ ntwene, a wɔde ahoɔ a ɛyɛ anibɔ anaa nkyerɛ mmoa a ɛyɛ mmerɛ. Yɛn [coloring](/games/coloring/) nhyehyɛe no mu bi mpo betumi aboa.
-- **Wɔ fie akyi.** NHS ka sɛ nnua a ɛwɔ ahoɔ, ahoma ne nsuo wɔ mu ɛboa. Hwɛ [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Nhwɛ nkrasɛm wɔ afuw so.** Nnomaa a wɔde aduane ama wɔ afuw a ɛwɔ ankɔnsɔ, mmofra a ɛrepɛ fie, anaa kɔm a ɛrebɔ.
+- **Akwadaa anaa vidio a ɛyɛ brɛoo.** Ntɛmtɛm a ɛnnyɛ nteɛm a ɛyɛ den.
+- **Mfonini kɛseɛ.** Mfonini a ɛyɛ teɛteɛ baako bere, a wɔde ma nkyɛn ahunu.
+- **Nsɔhwɛ ne nsɛnsɛn.** Nkyekyɛ nkyerɛnkyerɛ a ɛyɛ nsɛnsɛn, nnomaa anaa nsɔnsɔn a wɔkyekyɛ, anaa [nsɛnkyerɛ a ɛfa ntɛmtɛm a wɔde yɛ](/games/coloring/).
+- **Wɔ ɔhyɛn so.** NHS ka sɛ wobetumi de nnua a ɛyɛ ɛdɛ, nneɛma a wɔbɛtumi asi nsa ho ne nsuo a ɛtene wɔ wɔ nnua mu. Hwɛ [nnwuma a ɛfa ɔhyɛn ne nnua ho](/activities/outdoor-and-gardening/).
 
-## Sɛnea wobɛyɛ bokɔ a ɛyɛ ntease
+## Sɛdeɛ wobɛyɛ ntease adekyee
 
-1. **Paw bere** a ɛfa onipa no asetra ho: mpoano, afuom, dapɔn, adwumayɛfie, anaa ntama twa.
-2. **Yi nneɛma nnan anaa mmiako a ɛyɛ mmerɛ,** te sɛ ɔpɛ ɛkɛse, ɔkyekye a wɔyɛ wɔ dua mu, nsaho a ɛyɛ mmerɛ, lavender a wɔahyew ma ɛhyɛ mu, anaa dua a ɛyɛ mmerɛ.
-3. **Hwɛ biribiara** de hwɛ sɛ nneɛma ketewa biara nni hɔ, nneɛma a ɛyɛ ɔkyɛ, ntwe a ɛyɛ ɔtwiri, anaa biribi a ɛbɛbubu.
-4. **Fa neɛma biako pɛ bra.** Fa kɔma ma no, kyerɛ no sɛnea ɛte, na ma onipa no ahwehwɛ.
-5. **Fa bokɔ no sie akyi** de ma ɛnyɛ den, na ɛnhwɛ nneɛma no bio ansa na wɔde bɛsan aba.
+1. **Yi insɛnsɛmfa a ɛfa obi nkwa ho**, te sɛ ɛpo, ɔhyɛn, aduane, nnuadzi anaa nsɛnsɛn.
+2. **Yi nneɛma baanu anaa abien, nneɛma kɛse a ɛyɛ nsa a ɛnyɛ basabasa,** sɛdeɛ ɛbɛyɛ ɛponkyɛn kɛse, ɔdɔ a wɔde ahyɛ mu, ɛdwene a ɛyɛ dwiriw, anaa ɛwɔ bɔ ahyɛ mu.
+3. **Hwɛ nneɛma biara** hwɛ sɛ ɛwɔ nneɛma kakraa, ntwe a ɛyɛ mmerɛ, ntoma a ɛyɛ nsrɛ anaa nneɛma a ɛbɛbu.
+4. **Fa nneɛma biako biako bra.** Fa kɔ ne nsa mu, ka ho asɛm, na ma obi no nnwene.
+5. **Fa adekyee no to baabi bio bere a woawie.** Saa ara na ɛbɛda so yɛ kronkron na wɔbɛhwɛ nneɛma no bio ansa na wɔde bɛsan adi.
 
-## Ahobammɔ ne ɛdi kan
+## Ahobammɔ ne nea ɛdi kan
 
-Ntease dwumadie yɛ mmerɛ, nanso nsɛm kakra a ɛho hia. Nnipa bi a dementia atwa wɔn ho betumi asusuw nneɛma a ɛnyɛ aduane sɛ aduane, na wɔn ano betumi ayɛ den bere a ɛrekɔ so; NIA kɔ ɛkɔ sɛ sɛ ano ayɛ den wɔ stage a ɛdi akyiri mu a, ɛma ɛyɛ ɔkyɛ sɛ wɔbɛtrɛw.
+Ntease nneɛma yɛ mmerɛ, nanso nsɛnkyerɛ bi wɔ hɔ a ɛho hia. Nnipa a wɔwɔ dementia bi betumi asusuw nneɛma a wɔnnyɛ aduane sɛ aduane, na nnan so ɛbɛyɛ den akyiri yi; NIA kaa sɛ ɔhaw a ɛwɔ nnan so wɔ asasetɔ a ɛtwa toɔ mu no de kwan ma nkotodwe.
 
-| Asɛnka | Ɛsɛ sɛ wo yɛ dɛn |
+| Ɔhaw | Dɛn na wobɛyɛ |
 | --- | --- |
-| Ɔkyɛ | Fa nneɛma a ɛyɛ kɛse a wɔntumi nnye nkyɛ nko. Mma bɔtan, mpaapa, sika, abɛ anaa mmoa ketewa wɔ bokɔ mu. Ma aduane nko wɔ ntɛmpa a asetra ho adwumayɛfoɔ kyerɛ sɛ ɛyɛ mmerɛ. |
-| Nneɛma a ɛte sɛ aduane | NIA ka sɛ wobu lotion, sapo, shampoo ne ahoɔ a ɛte sɛ aduane kɔ hɔ, ɛfiri sɛ ɛbetumi ayɛ sɛ aduane anaa ɛte sɛ aduane, na yiyi nkwadaa a ɛte sɛ aduane a wɔayɛ. Kora nneɛma a wɔde ntease di dwuma akyi. |
-| Nsaho | Hwɛ sɛ onipa no nni nneɛma bi a ɛmmɔ no yaw, te sɛ nkwadaa, latex, wool, nnua anaa ahoɔ ansa na woresi. |
-| Ahoɔ a ɛyɛ den | Mma ahoɔ a ɛyɛ den ne ahoɔ a wɔyɛ no wɔ nnua mu, titiriw sɛ onipa no ho yaw wɔ ahome mu. Ahoɔ a ɛyɛ mmerɛ a ɛfiri wiase mu no ɛyɛ mmerɛ. |
-| Nipa | Hwɛ nipa a ɛyɛ dɛ anaa ɛbu, anaa ɛyɛ ɔkyɛ ansa na woreyɛ mmɔ. Fa nsa a ɛyɛ mmerɛ mmɔ, na gyae sɛ wohunu sɛ ɛyɛ no yaw. |
-| Hyew | Sɔ kyɛw a ɛyɛ hyew ne nsuo a ɛyɛ hyew wɔ w'nsam mu ansa na woma no. |
-| Nneɛma a ɛtwa anaa ɛyɛ nnuru | Mma nneɛma a ɛtwa, ahyɛn, sika a ɛyɛ nnuru anaa nneɛma a wɔde yɛ adwuma a ɛyɛ nnuru. |
+| Nkotodwe | Fa nneɛma a ɛyɛ kɛse a wontumi nnan nko ara. Nkotodwe, ɔdɔ, sika, nsuwa anaa nneɛma a ɛyɛ nkɔnsɔnkɔnsɔn ammɔ adekyee mu. Ma aduane nko ara wɔ ɔkwan a ɔsɛ a wɔsɔ hwɛ ka sɛ ɛyɛ ahobammɔ no mu. |
+| Nneɛma a ɛte sɛ aduane | NIA ka sɛ fa nsuo ahoɔden, sopɔ, shampoo ne ahonhom a ɛte sɛ aduane, a ɛbɛyɛ sɛ nneɛma a ɛte sɛ aduane anaa ɛwɔ honhom, ɛde ankɔ akyiri anaa ɔbɔ nneɛma a wɔyɛ ayɛ anaa ayɛ a ɛyɛ nnipa a wɔyɛ. Fa nneɛma a wɔde ayɛ ntease adwuma no ahyɛ kwan a wɔnnhwɛ wɔ dwumadie akyi. |
+| Ahodoɔ | Hwɛ sɛ ɛwɔ ahodoɔ a ɛfa nkuku, latex, wool, nnuadzi anaa honhom ho ansa na woreyɛ. |
+| Honhom a ɛyɛ den | Fa honhom a ɛyɛ den, te sɛ ahonhom ne aduru a ɛyɛ ɛnyinase, nkɔ akyi, titiriw sɛ ɔwɔ ahome ho ɔhaw anaa ɔhaw a ɛfa ahome ho. Honhom a ɛyɛ hyew ne ɔkwan a ɛyɛ mmerɛ ye ankasa. |
+| Pɔw | Hwɛ sɛ pɔw, nhwɛ anaa pɔw a ɛyɛ den ntwa ansa na wobɛyɛ nsa so. Fa nsa so ahoɔ a ɛyɛ mmerɛ, na gyae sɛ wɔsɛnkɔ anaa wɔnnye ho. |
+| Ahyew | Sɔ hyew nsuo ne nsuo a wɔbɛnom wo nsa ano ansa na woreyɛ. |
+| Nneɛma a ɛyɛ den anaa a ɛyɛ nsɛe | Ma nneɛma a ɛyɛ den, nsuo a wɔde pɛɛ, anaa nneɛma a ɛyɛ nsɛe a wɔde yɛ adwuma nnyɛ. |
 
 ## Aromatherapy boa anaa?
 
-Ɛnyɛ nokware sɛ ɛboa wɔ ɛkwan a wobetumi ahunu mu. [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) hwehwɛɛ nhwehwɛmu 13 a nnipa 708 wɔ mu, na nnipa no nyinaa wɔ aguaa fie mu, na wohunuu sɛ nsɛm nni nokware bi a ɛkyerɛ sɛ ɛboa. Nhwehwɛmu no yɛ kakraa, nsɛm no mfa nyinaa nyɛ pɛ, na wɔankyerɛ nsɛm a ɛyɛ ɔkyɛ yiye. Sɛ onipa no ani gye ahoɔ a ɛyɛ mmerɛ a wanim, te sɛ lavender a wɔfiri afuom mu, ɛyɛ bere a wobetumi akyekyɛ ne ho. Ɛnyɛ ɔyare ho ayaresa.
+Ɛrenyɛ nokorɛ sɛ ɛboa ankasa. [Cochrane nhwehwɛmu a wɔyɛe wɔ aromatherapy ho ma dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) hwehwɛɛ nhwehwɛmu 13 a nnipa 708 wɔ mu, a wɔwɔ asasetɔ mu nyinaa, na wohunuu sɛ nsɛmmisa a ɛda adi a ɛkyerɛ sɛ ɛboa nni hɔ. Nhwehwɛmu no yɛ ketewa, nea ɛba mu no nkɔ tɛ, na wɔankyerɛ nsɛnkyerɛ a ɛyɛ nsɛe yie. Sɛ obi pɛ honhom a ɛyɛ dɔ a ɔhunu dada, te sɛ ahonhom a wɔfa afuw so no, ɛyɛ biribi a wobetumi de ma no; ɛnyɛ ɔyaresɛm.
 
-## Sɛnea wobɛma ntease dwumadie
+## Sɛdeɛ wobɛma ntease adwuma
 
-- **Paw ɛberɛ a ɛyɛ komm** na ntwa TV no.
-- **Bɛba ne anim,** frɛ ne din, na bisa anaa ka kyerɛ no ansa na wobɛtɔ no: "Mewɔ lotion kakra. Wopɛ sɛ mɛmmɔ w'nsa?"
-- **Fa neɛma biako pɛ bra,** ama ɛnyɛ den.
-- **Hwɛ sɛnea ɔbɔ mmɔden.** Anim a ɛyɛ mmerɛ, nsa a ɛdwodwo anaa ɔseɛ yɛ nsɛnkyerɛnne a ɛyɛ. Sɛ ɔyi ne nsa anaa ɔfom anaa ɔnnyɛ komm a, gyae.
-- **Ma ɛnyɛ tenten.** Mmiɛnsa komm a ɛyɛ mmerɛ yɛ bere a ɛfata.
+- **Yi bere a ɛyɛ kyɛn** na guan TV no.
+- **Bɛn no fi kwan a ɔrehwɛ wo so,** frɛ no din, na bisa anaa ka ansa na woreto no: "Mewɔ lotion. Wopɛ sɛ mehwɛ wo nsa?"
+- **Fa ntease biako ka ho bere biara** sɛnea ɛrennya ɔhaw.
+- **Hwɛ sɛdeɛ ɔbɛda so.** Ɔano a ɛyɛ mmerɛ, nsa a ɛnyɛ den anaa ɛseɛ a ɔbɛseɛ yɛ nsɛnkyerɛ pa. Sɛ ɔyi ne nsa fi wo nsa mu, ɔnye ho anaa ɔbɛyɛ nneyɛe a ɛnyɛ mmerɛ a, gyae.
+- **Ma ɛnyɛ ɛkɔ ɛkyɛ.** Nnɔnsɔ nkakrɛ anaa ɛyɛ mmerɛ ɛyɛ nnwuma a ɛyɛ.
 
-Sɛ wo ne onipa no bɛhome ntɛmntɛm ne ntɛmpa, [calm breathing](/games/calm-breathing/) bere a wohome ɛboa wɔ ɛkwan a ɛyɛ mmerɛ de awie. Sɛ wopɛ nsɛm a ɛfa ntoma mu ho ntease a ɛboa, hwɛ [late-stage activities](/activities/late-stage/), na sɛ anigyeɛ rennya bere a ɛyɛ anwummere a, hwɛ [late-day restlessness](/caregiving/late-day-restlessness/).
+Ɔhyɛ nkakrɛ a ɛyɛ mmerɛ, te sɛ [nkwa mu ahome](/games/calm-breathing/), ne ɛbɛboa sɛ wodi ɛbɛtwa. Sɛ wopɛ nkyerɛkyerɛ foforɔ a ɛfa mpa so ho, hwɛ [asasetɔ a ɛtwa toɔ mu nnwuma](/activities/late-stage/), na sɛ ɔhaw a ɛfa anadwo ho a, hwɛ [anadwo ahoɔden](/caregiving/late-day-restlessness/).

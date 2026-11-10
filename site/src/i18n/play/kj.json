@@ -505,162 +505,162 @@
           "prompt": "Oho hafele okuninga shike konguloshi ya ngungumana?"
         },
         {
-          "theme": "eumbo",
+          "theme": "home",
           "picture": "key",
           "prompt": "Oshinima shilipi shi na ongushu to dulu okutuwa moshiketha she likaleka?"
         },
         {
-          "theme": "eumbo",
+          "theme": "home",
           "picture": "kettle",
           "prompt": "Olyelye to dulu okuhiya e ye okunwa otee pamwe naave?"
         },
         {
-          "theme": "eumbo",
+          "theme": "home",
           "picture": "umbrella",
           "prompt": "Oho hafele okuninga shike mefiku tali loko?"
         },
         {
-          "theme": "pondje",
+          "theme": "outdoors",
           "picture": "sunflower",
           "prompt": "Eengala dilipi wa hala okutula moshikunino?"
         },
         {
-          "theme": "pondje",
+          "theme": "outdoors",
           "picture": "tree",
           "prompt": "Hokolola kombinga yomuti ile yoshikunino osho u hole."
         },
         {
-          "theme": "pondje",
+          "theme": "outdoors",
           "picture": "watering-can",
           "prompt": "Oshike u hole unene ngeenge u li moshikunino?"
         },
         {
-          "theme": "pondje",
+          "theme": "outdoors",
           "picture": "tulip",
           "prompt": "Eengala dolwaalo lilipi u hole unene?"
         },
         {
-          "theme": "pondje",
+          "theme": "outdoors",
           "picture": "potted-plant",
           "prompt": "Ou hole okukala neemeno meumbo?"
         },
         {
-          "theme": "pondje",
+          "theme": "outdoors",
           "picture": "sun",
           "prompt": "Efiku letango liwa kwoove oli li ngahelipi?"
         },
         {
-          "theme": "oinamwenyo",
+          "theme": "animals",
           "picture": "dog",
           "prompt": "Hokolola kombinga yombwa oyo wa li u shii nawa."
         },
         {
-          "theme": "oinamwenyo",
+          "theme": "animals",
           "picture": "cat",
           "prompt": "Oumbishi ile eembwa, ile kapu na nande shimwe? Oshike u hole kuyo?"
         },
         {
-          "theme": "oinamwenyo",
+          "theme": "animals",
           "picture": "bird",
           "prompt": "Eedila dilipi ho di mono ile ho di udu pondje?"
         },
         {
-          "theme": "oinamwenyo",
+          "theme": "animals",
           "picture": "fish",
           "prompt": "Owa ka kwata nale eeshi, ile owa li u na eeshi meumbo?"
         },
         {
-          "theme": "oinamwenyo",
+          "theme": "animals",
           "picture": "butterfly",
           "prompt": "Oshinamwenyo shilipi shiwa unene wa mona nale?"
         },
         {
-          "theme": "oulweendo",
+          "theme": "travel",
           "picture": "car",
           "prompt": "Hokolola kombinga yohauto oyo wa li u hole."
         },
         {
-          "theme": "oulweendo",
+          "theme": "travel",
           "picture": "sailboat",
           "prompt": "Owa hala okukala efiku keshanga lefuta ile keemhunda?"
         },
         {
-          "theme": "oulweendo",
+          "theme": "travel",
           "picture": "bicycle",
           "prompt": "Openi wa hala okuya u ka ende?"
         },
         {
-          "theme": "oulweendo",
+          "theme": "travel",
           "picture": "balloon",
           "prompt": "Ngeno oto dulu okutuka kombanda yehala keshe, oto ka tuka peni?"
         },
         {
-          "theme": "oulweendo",
+          "theme": "travel",
           "picture": "lighthouse",
           "prompt": "Oulweendo ulipi wa hafele unene?"
         },
         {
-          "theme": "oilonga",
+          "theme": "work",
           "picture": "key",
           "prompt": "Oilonga yoludi lilipi wa hafele okulongwa?"
         },
         {
-          "theme": "oilonga",
+          "theme": "work",
           "picture": "watering-can",
           "prompt": "Oshinima shilipi u hole okuninga to dulu okulongifa po eevili dihapu?"
         },
         {
-          "theme": "oilonga",
+          "theme": "work",
           "picture": "bread",
           "prompt": "Oshinima shilipi wa li wa shiivikila oku shi longa ile oku shi panga?"
         },
         {
-          "theme": "oilonga",
+          "theme": "work",
           "picture": "house",
           "prompt": "Omayele elipi to pe omunyasha ta hovele oilonga?"
         },
         {
-          "theme": "omusika",
+          "theme": "music",
           "picture": "balloon",
           "prompt": "Omusika yoludi lilipi hai ku hafifa u thine eemhadi doye?"
         },
         {
-          "theme": "omusika",
+          "theme": "music",
           "picture": "cake",
           "prompt": "Oshike hashi ningifa oshituthi shi kale shiwa lela?"
         },
         {
-          "theme": "omusika",
+          "theme": "music",
           "picture": "lamp",
           "prompt": "Olyelye omuimbili oo u hole okupwilikina kuye?"
         },
         {
-          "theme": "omusika",
+          "theme": "music",
           "picture": "armchair",
           "prompt": "Efilimi ile oprograma yotelevisi ilipi u hole okutala vali?"
         },
         {
-          "theme": "omafimbo omudo",
+          "theme": "seasons",
           "picture": "sun",
           "prompt": "Oshike u hole unene pefimbo lokwenye?"
         },
         {
-          "theme": "omafimbo omudo",
+          "theme": "seasons",
           "picture": "tree",
           "prompt": "Oshike ho hafele pefimbo leteyo?"
         },
         {
-          "theme": "omafimbo omudo",
+          "theme": "seasons",
           "picture": "moon",
           "prompt": "Oshinima shilipi shiwa to dulu okuninga konguloshi yopefimbo loutalala?"
         },
         {
-          "theme": "omafimbo omudo",
+          "theme": "seasons",
           "picture": "tulip",
           "prompt": "Didiliko dilipi dotete hadi ku ulikile efimbo lemaso?"
         },
         {
-          "theme": "omafimbo omudo",
+          "theme": "seasons",
           "picture": "umbrella",
           "prompt": "Ohaela, omvula ile etango: oshike u hole unene?"
         }

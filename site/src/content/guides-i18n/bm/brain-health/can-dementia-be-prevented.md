@@ -1,35 +1,35 @@
 ---
-title: "Dimansi bɛ se ka dɔgɔya wa? Sɛbɛnw b'a fɔ cogo min na"
-seoTitle: "Dimansi bɛ se ka dɔgɔya wa? Sɛbɛnw b'a fɔ"
-description: "Sɛbɛnw ye min fɔ dimansi kɛlɛ ka dɔgɔya kan, 2024 Lancet Commission ani bɔɲɔ ​​nla dɔw la, ani min tɛ jira, ani kuma min ka kan ka kuma dɔktɔrɔ ye."
+title: "Dimansi bɛ se ka kɔsɔn? Sɛbɛnw bɛ min fɔ"
+seoTitle: "Dimansi bɛ se ka kɔsɔn? Sɛbɛnw ka fɔ"
+description: "Mun ye 2024 Lancet Commission ni kɛlɛ caman ye dimansi ka ɲɛnamaya ka dɔgɔya kɔnɔ, mun tɛ sɔrɔ, ani mun ye ka kuma ni dɔkita ye."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Mɔgɔ si tɛ se ka dimansi ka ban da a kan. 2024 Lancet Commission ko dimansi
-  kɛlɛ dɔgɔ ye dunia kɔnɔ, ka tɛmɛ 45% kɔnɔ, ka ɲɔgɔn ye fɛn 14 ye min bɛ
-  se ka yɛrɛyɛrɛ, i n'a fɔ dɔ ka tansiyɔn, nɔ tɛ mɛn ni kɔnɔ mɛn ani
-  sigiyɔrɔ tɛ. Bɔɲɔ nla dɔw jira ko dɔgɔya ka ɲɛnamaya dɔgɔ kosɛbɛ kɛlɛ
-  dɔgɔ kan, o tɛ dimansi kɛlɛ dɔgɔya nɔ. Mɔgɔ caman b'a sɔrɔ ko u ye fɛn
-  ɲumanw bɛɛ kɛ "ka ɲɛ", u bɛ dimansi sɔrɔ tuma dɔw la, ani o tɛ ko min ta ye.
+  Mɔgɔ si tɛ se ka dɔ ɲɛmɔgɔ ka dimansi kɔsɔn. 2024 Lancet Commission ye ɲɛsin
+  ko dimansi kɛlɛ dɔw bɛ se ka kɛ duniya kɔnɔ, u bɛ sɔrɔ ni fɛn 14 ye min bɛ se
+  ka yɛlɛ, i n'a fɔ dɔ tansiya, kuman tɛ se ka mɛn, ani sigi-ka-ko. Kɛlɛ caman
+  b'a jira ko hakilina ladonni ɲɛfɔlenw kɔnɔ fɛn dɔrɔn bɛ yɛrɛ yɛrɛ, nka tɛ
+  dimansi kɛlɛ dɔw ka dɔgɔya jira. Mɔgɔ caman b'a kɛ "ka ɲɛ" ka kɛ, nka u bɛ
+  dimansi sɔrɔ, ani tɔgɔ tɛ mɔgɔ si ye.
 keyPoints:
-  - "2024 Lancet Commission ko dimansi kɛlɛ tɛmɛ 45% ka ɲɔgɔn ye fɛn 14 ye min bɛ yɛrɛyɛrɛ dunia kɔnɔ. O ye jateliya ye ni dunia bɛɛ ye, o tɛ sɛgɛsɛgɛ ye ni mɔgɔ kelen ye."
-  - "Kɛlɛ dɔgɔya kɔrɔ ye ko sababu ka ɲɛ dɔgɔya dunia nɔfɛ, o tɛ ko mɔgɔ kelen se ka dimansi ban."
-  - "Bɔɲɔ nla i n'a fɔ FINGER, US POINTER ani SPRINT MIND sɔrɔ ka nɔɔrɔ dɔgɔ hakili fɛn kɛlɛ ni hakili tɛ ɲɛ dɔgɔ kan, nka tɛ min jira ko sɛbɛn ka dimansi ka ban."
-  - "Bɛɛ la, Alzheimer's ye ɲɔgɔn ye sababu ye min bɛ bɔ ka dimansi kɛ, ani o tɛ se ka yɛrɛyɛrɛ. Mɔgɔ caman min bɛ ɲɛnamaya ɲuman kɛ, u bɛ dimansi sɔrɔ."
-  - "Fɛn min bɛ kɛ ka caman sɛgɛn, i n'a fɔ tansiyɔn ka sɔn, kɔfɛ sɔrɔ ka se ka nɔ kɛ, ani ka tɛmɛ ko bɛ se ka nɔfɛ ɲɔgɔn kɔnɔ, o ka kan ka kuma dɔktɔrɔ ye, katuguni o bɛ ɲɛnamaya ɲuman sɛgɛn bɛɛ la."
+  - "2024 Lancet Commission ye ɲɛsin ko dimansi kɛlɛ 45% bɛ sɔrɔ ni fɛn 14 ye min bɛ se ka yɛlɛ. Nin ye duniya ɲɛfɔ ye, tɛ ɲɛmɔgɔ kelen ka sɛbɛn ye."
+  - "Kɔsɔn-ka-dɔgɔya kɛra ka kɔnɔnin duniya ka dimansi ka dɔgɔya ye. Tɛ ko mɔgɔ kelen bɛ se ka dimansi ban."
+  - "Kɛlɛ bonya FINGER, US POINTER ani SPRINT MIND ye hakili ladonni ɲɛfɔlenw kɔnɔ fɛn dɔrɔn ɲɛsin, nka tɛ min ka jɔ ka dimansi kɔsɔn."
+  - "Sɛgɛnsɛgɛ ye dimansi ye fɛn bɛɛ ka gɛlɛya ye, ka sɔrɔ ni Alzheimer ye, ani a tɛ se ka yɛlɛ. Mɔgɔ caman b'a kɛ ɲɛnamaya ɲuman ni dimansi bɛ sɔrɔ."
+  - "Fɛn caman min ka sɛbɛn kɛlen bɛ kɛ, i n'a fɔ tansiya tɛmɛnen kɔrɔ ka kɛ, mɛnni fɛnw ye, ani sɛnɛkɛla ka kuma sɔrɔ, o bɛ kɛ dɔ ye ka kuma ni dɔkita ye, katuguni o bɛ dɛmɛ ka ɲɛnamaya ɲuman kɛ fana."
 faq:
-  - q: "Dimansi bɛ se ka ban wa?"
-    a: "Mɔgɔ kelen si tɛ se ka dimansi ban ni fɛn min ye sɛbɛn ye ka jira. Sɛbɛnw b'a fɔ ko kɛlɛ dɔw dɔgɔya, i n'a fɔ tansiyɔn, nɔ tɛ mɛn ni kɔnɔ mɛn ani taba, bɛ se ka dimansi sɔrɔ tɛmɛ ka ɲɛ kan, walima ka dimansi ka sɔrɔ kɔfɛ. O ye sɛgɛsɛgɛ ye, o tɛ ko min ta ye."
-  - q: "Lancet Commission ka 45% ka kuma ye mun ye?"
-    a: "2024 Lancet Commission ko dimansi kɛlɛ tɛmɛ 45% dunia kɔnɔ ka ɲɔgɔn ye fɛn 14 ye min bɛ se ka yɛrɛyɛrɛ. Jateliya ye ko o fɛn ye dimansi sababu ye, ani sɛbɛkɛlaw ye ko sababu dɔw ka jɛnsɛ ye. O bɛ dunia bɛɛ kuma, o tɛ kuma mɔgɔ kelen ka kɛlɛ kan."
-  - q: "Ni n' fa bɛ ɲɛnamaya ɲuman kɛ, mun na a ye dimansi sɔrɔ?"
-    a: "Ɲɛnamaya, tɛgɛ ani fɛn caman min tɛ mɔgɔ si ka a kɔnɔ, olu bɛ dimansi kɛ caman. Lancet Commission sɛbɛkɛlaw ye ko kɛlɛ dɔgɔya dunia nɔfɛ tɛ ko mɔgɔ kelen ban dimansi ma. Dimansi sɔrɔli tɛ ko mɔgɔ si ye ɲɔgɔn tigi."
-  - q: "Dimansi kɛlɛ dɔgɔya kɔfɛ ni a ye san 65 ye, a bɛ se ka tɛmɛ wa?"
-    a: "Lancet Commission ko kɛlɛ dɔgɔya tɛ tɛmɛ ka tɛ kɔfɛ, n'a bɛ se ka a ka tilenbaliya ni a ye ɲɛfɛ ɲɛnamaya kɔnɔ. Nka bɔɲɔ caman ka kuma ni ɲɛnamaya kɔnɔ ye. Tulo ni ɲɛ kɛlɛ ka kɛ, ka ɲɛnamaya ni dɔnkili kɛ, ani ka mɔgɔw ye ni ɲɛnamaya kɔnɔ ye, olu ye kɛlɛ kɔfɛ ɲɔgɔn ye. Aw ka dɔktɔrɔ ye ka kuma ni aw ka ɲɛnamaya ye."
-  - q: "Hakili fɛn kɛlɛw walima dɔgɔ ɲuman dimansi ban wa?"
-    a: "Fɛn si, dɔgɔ si, ni dɔgɔ ɲuman si tɛ min jira ko bɛ se ka dimansi ban. San saba ka bɔɲɔ min ka MIND dɔgɔ ye, o ma jira ko hakili ɲɛfɔ ye ni dɔgɔ dɔ tɛ. Hakili kɛlɛ apps dɔw tɛ jira ko bɛ se ka min kɛ bɔɲɔ sɛbɛnw la."
+  - q: "Dimansi bɛ se ka kɔsɔn wa?"
+    a: "Mɔgɔ kelen bɛ se ka dimansi kɔsɔn ni sɛbɛn ye min bɛ se ka ɲɛfɔ. Sɛbɛnw ɲɛsin ko fɛn dɔw ka yɛlɛ, i n'a fɔ tansiya, mɛnni dɔ min tɛ dɔkita ka kɛlɛ, ani tabaki, bɛ se ka dimansi sɔrɔli dɔgɔya duniya kɔnɔ, walima a ka kɔrɔ-ka-taa. Nin ye ɲɛmɔgɔ jɛnɛ tɛ, nka ɲɛfɔ dɔrɔn."
+  - q: "Lancet Commission ka 45% ka ɲɛfɔ b'a fɔ juman?"
+    a: "2024 Lancet Commission ye ɲɛsin ko dimansi kɛlɛ 45% bɛ sɔrɔ ni fɛn 14 ye, u bɛ se ka yɛlɛ ni a kɛra ɲɛfɛ. Nin ɲɛfɔ b'a sɔrɔ ko fɛn ninnu bɛ dimansi kɛ, ani sɛbɛnkɛlaw b'a jira ko dɔw bɛ se ka kɛ ka sɔrɔ tɛ dɔrɔn. A bɛ dunniya ɲɛfɔ, a tɛ ɲɛmɔgɔ kelen ka kɛlɛ ɲɛfɔ."
+  - q: "Ni nɔɔrɔ bɛ ɲɛnamaya ɲuman kɛ, mun na a ka dimansi sɔrɔ?"
+    a: "Sɛgɛnsɛgɛ, fa-ka-bɔ, ani fɛn caman min tɛ mɔgɔ ye ɲɛ, o bɛɛ bɛ dimansi kɛ dɔ ye ka ca. Lancet Commission ka sɛbɛnkɛlaw b'a fɔ ko kɔnɔnin dunniya kɔnɔ ka kɛlɛ dɔgɔyali tɛ ko mɔgɔ kelen bɛ dimansi ban. Dimansi sɔrɔli tɛ ko mɔgɔ tɔɔrɔ ye."
+  - q: "Ni sanu 65 tɔ, a bɛ kɛ ka ɲɛ ka kɛlɛ dɔgɔya wa?"
+    a: "Lancet Commission b'a fɔ ko kɛlɛ dɔgɔyali tɛ ka kɔrɔ ni tɔgɔ bɛ se ka kɛ ka ɲɛ, nka sɛbɛnw ka ca b'a sɔrɔ ni sɛgɛ-ɲɛ ye. Sɛgɛn-ɲɛ ni sɛgɛ-tulu dɛmɛni, dɔnkili ka tɛ kɛ, ani mɔgɔw ni ɲɛnamaya kɔnɔ ni ɲɛdɔnnikɛli ye, o ye ɲɛnamaya kɔfɛ fɛn min sɛbɛnnen bɛ. Kuma ni dɔkita ye ka kɔrɔ ka ɲɛ."
+  - q: "Hakili ladonni wa dɛgɛ-cɛ wa fɛn wɛrɛ bɛ dimansi kɔsɔn?"
+    a: "Ko tɛ kɛ: fɛn si, dɛgɛ si, fɛnɲuman si walima fɛn wɛrɛ si tɛ dimansi kɔsɔn ka ɲɛfɔ ye. Mɔgɔ 3 ka kɛlɛ MIND dɛgɛ ye dɔrɔn kɛra, ka hakili ɲɛfɔ tɛ ɲɛ ni dɛgɛ wɛrɛ ye. Hakili ladonni apps ni fɛn wɛrɛw tɛ ɲɛsin ko u ka sɔrɔ kɛlɛ bɔnnen ye."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,124 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-Ni i bɛ dimansi ka mɔgɔ kɛ, walima i ye i ba kelen ye min bɛ dimansi la, i bɛ se ka miiri ko o bɛ se ka ban wa, ani i bɛ se ka miiri ko o tɛ i fɛ wa. Nin páje bɛ sɛbɛnw fɔ cogo min na, kuma sɛbɛn sɛbɛn ye. Jaabi ye nin ye: mɔgɔ si tɛ se ka dimansi ban ka a dɛ ni ko ye. Nka sɛbɛnw b'a fɔ ko kɛlɛ dɔw bɛ se ka dɔgɔya, ani ko kɛlɛ dɔgɔya dunia nɔfɛ, o bɛ se ka mɔgɔ dɔw ye dimansi sɔrɔ tɛ, walima u bɛ se ka sɔrɔ kɔfɛ.
+Ni aw bɛ dɛmɛ dimansi bɛ se ka mɔgɔ dɔ, walima aw ye a ye ko dimansi bɛ ni mɔgɔ dɔ ye, aw bɛ se ka miiri ko a sɔrɔli bɛ se ka kɔsɔn, ani aw bɛ se ka miiri ko o tɛ se ka sɔrɔ aw fana ma. Nin kɔnɔ bɛ sɛbɛnw fɔ, ka kɛ kumakan ye min bɛ faamuya. Kɔrɔ ye nin ye: mɔgɔ si tɛ se ka dɔ ka dimansi kɔsɔn, nka sɛbɛnw b'a jira ko fɛn dɔw ka gɛlɛya bɛ se ka dɔgɔya, ani ko dunniya kɔnɔ fɛn nin dɔgɔyali bɛ se ka kɛ dimansi mɔgɔ dɔw ka dɔgɔya walima a ka kɔrɔ-ka-taa.
 
-O ye sɛbɛn jateliya ye, o tɛ dɔktɔrɔ ka ci ye. Aw ka [kuma ni dɔktɔrɔ ka ci](/medical-disclaimer/) kalan, ani kuma dɔktɔrɔ ye aw ka ɲɛnamaya kan.
+Nin ye kumakan ye, tɛ dɔkita ka kuma ye. Aw ka ko ye [dɔkita ka kuma yɛrɛwolo](/medical-disclaimer/) ka kalan, ani aw ka kuma ni dɔkita ye aw ka ɲɛnamaya kɔnɔ fɛn ye.
 
-## Dimansi bɛ se ka ban wa?
+## Dimansi bɛ se ka kɔsɔn wa?
 
-Mɔgɔ kelen na, dimansi ka ban fɛn ye min bɛ jira ni sɛbɛn ye, o tɛ yen. National Institute on Aging (NIA) ko [fɛn si tɛ jira ko bɛ se ka Alzheimer's ban](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) bi, nka sɛbɛnkɛlaw ye fɛn ɲuman sɔrɔ ka ko kɛ, ani u bɛ kalan ko fɛn o fɛn bɛ se ka baara kɛ, ani o fɛn tɛ se.
+Mɔgɔ kelen ka dimansi tɛ se ka kɔsɔn ni sɛbɛn ye min bɛ se ka ɲɛfɔ. Amerikɛ Ɲɛnamaya Sɛgɛn Ɲɛfɔlaw ka Ciden (NIA) b'a fɔ ko nka [Alzheimer tɛ se ka kɔsɔn ni sɛbɛn ye min bɛ se ka ɲɛfɔ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), sɛbɛnkɛlaw ye fɛn dɔw ɲɛsin ko o ka ɲɛ, ani u bɛ kalan ka dɔn fɛn min bɛ kɛ, fɛn min tɛ kɛ.
 
-Sɛbɛn b'a jira ko nɔ dɔw ni ɲɛnamaya dɔw bɛ ɲɔgɔn ye ni dimansi ka caya ye. Ni kɛlɛ nin dɔgɔ dunia nɔfɛ, mɔgɔ dɔw tɛ dimansi sɔrɔ, walima u bɛ sɔrɔ kɔfɛ ɲɛnamaya kɔnɔ. O ka bon kosɛbɛ ni ko dɔ ye min bɛ se ka ɲɛnamaya kɔnɔ, o tɛ sɛgɛsɛgɛ ye.
+Fɛn min sɛbɛnw bɛ *jira*, o ye ko kɛlɛ dɔw ni ɲɛnamaya ɲuman dɔw bɛ mɔgɔ ka dimansi sɔrɔli ka gɛlɛya kɛ. Ni nin gɛlɛyaw dɔgɔyara dunniya kɔnɔ, mɔgɔ dɔgɔnin bɛ dimansi sɔrɔ, walima u bɛ sɔrɔ ni sanu kɔrɔ ye. O tɛ ko min ka sɛbɛn ye.
 
-Ko ɲuman dɔ: 2024 Lancet Commission ko dunia nɔfɛ, a ka fɔ ko dimansi la mɔgɔ kulukulu caman cɛ, i n'a fɔ Amerika ni Ingiliki, o ka ɲɛ dɔgɔya. Sɛbɛkɛlaw ye ko o bɛ kɛ sababu ye ni kalanko ɲuman ye, ni ɲɛnamaya ɲuman ye, ani ni jɔ kɔnɔ mɔgɔ tɛ kɔrɔ ye sisan, o kɔnɔ ye yɛrɛ ye, i n'a fɔ [University College London ka kuma ni sɛbɛn kan](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Ɲɛɲuman dɔ: 2024 Lancet Commission ye ɲɛsin ko fɛn dɔw la, i n'a fɔ Amerikɛ ni Angilɛterɛ, sanu kɔrɔ mɔgɔw ka dimansi ka ɲɛfɔ dɔgɔyara. Sɛbɛnkɛlaw b'a miiri ko o bɛ kɛ kalan ka caya, dɔkitɔrɔ ka ɲɛmɔgɔya, ani ɲɛnamaya kɔnɔ jɛlɛn ma kɔrɔ ka kɛ, [University College London ka ɲɛfɔ kɔrɔ ka sɛbɛn](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ka kɔnɔ.
 
-## 2024 Lancet Commission ye mun fɔ?
+## 2024 Lancet Commission ye min sɔrɔ?
 
-Lancet Commission dimansi ka ban, sɔrɔli ani kɛlɛ kan ye mɔgɔ 27 ye, ko sɛbɛnkɛlaw ye dimansi kan. U bɛ jateliya kɛ san caman kɔfɛ. U ka sɛbɛn 2024 la, u ye **fɛn 14** fɔ min bɛ se ka yɛrɛyɛrɛ, ani u ye jate ko olu bɛɛ ye **dimansi kɛlɛ tɛmɛ ka ɲɛ kɛnɛ (45%)** dunia kɔnɔ. U b'a fɔ ko o kɛlɛ bɛ se ka ban walima ka dɔgɔya ni fɛn olu bɛɛ bɔra ([2024 Lancet Commission sɛbɛn](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission ka dimansi kɛlɛ, kɛlɛ ni dɛmɛ ka kɔnɔ ye mɔgɔw ka kɔnɔ min ye sɛbɛnkɛlaw 27 ye, u bɛ ɲɛfɔ dimansi ka sɛbɛnw sɔrɔ wagati dɔw kɔfɛ. U ka 2024 sɛbɛn ye **fɛn 14** ɲɛsin min bɛ se ka yɛlɛ, ani u ye ɲɛsin ko u bɛɛ ye **dimansi kɛlɛ 45% (ni ɲɛ 45) tɛmɛnen bɛ dunniya kɔnɔ** ka bɔ. Sɛbɛnkɛlaw ka kuma la, nin kɛlɛ bɛ se ka kɔsɔn walima ka kɔrɔ-ka-taa ni gɛlɛya ninnu bɛɛ yɛlɛra ([2024 Lancet Commission sɛbɛn](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-Fɛn 14 yɛrɛ, i n'a fɔ ni o bɛ kɛ ɲɛnamaya kɔnɔ ni min ye:
+Fɛn 14 ninnu, ka tɛmɛ ka ɲɛnamaya wagati min kɔnɔ sɛbɛnw ka dɔnniya ka gɛlɛn ye:
 
-- **Ɲɛnamaya fɔlɔ:** kalan kɛlɛ.
-- **Ɲɛnamaya kɔnɔ (san 40 ka tɛmɛ san 65 ma):** hakili ɲɛ, cɛ kɔrɔ ("juru") cholesterol, dusukasi ɲɔgɔn, tiɲɛ kɔnɔ kɛlɛ, fɛn min bɛ kɛ ka bɔ, sukari sɔrɔli, nɔ, tansiyɔn, bɔnɔ kɛlɛ, ani ji ɲɔgɔn caman min.
-- **Ɲɛnamaya kɔfɛ:** mɔgɔ tɛ ɲɛnamaya ni mɔgɔ ye, dunia fanfɛ dimɛ, ani ɲɛ min tɛ ɲɛdɔn ani a tɛ se ka dɛ.
+- **Ɲɛnamaya fɔlɔ:** kalan dɔgɔ.
+- **Ɲɛnamaya kɔnɔ (sanu 40 ni 65 ɲɛ):** kuma ye mɛn tɛ, LDL ("ɲɛ tɛ") nɛnɛ mɛn bɛ kɛ, dusu ɲɛnamaya, ɲɛ-jigi-ɲɛnabɔ, dɔ ɲɛ kɔrɔ, fa-ka-bɔ, tabaki min bɛ juɲɔgɔn, sukari ka gɛlɛya, tabaki-minɛ, nɛnɛ jɛgɛn, ani dɔlɔ min caman bɛ min.
+- **Ɲɛnamaya kɔfɛ:** mɔgɔw ka ɲɛnamaya kɔnɔ tɛ ɲɛfɔlen, dunniya kɔnɔ ka nɛnɛ-dɔw, ani ɲɛ ka ɲɛfɛ min tɛ dɔkita ka kɛlɛ.
 
-Fɛn 2024 la kɔfɛ kelen ye cholesterol kɔrɔ ni ɲɛ min tɛ ɲɛdɔn ye. Fɛn min ka caman bɛ kɛ sababu ye ni hakili ɲɛ ani cholesterol kɔrɔ ye, o ka kɛ 7% kelen-kelen na, ka tɛmɛ kalan dɔgɔ ni mɔgɔ tɛ ɲɛnamaya ni mɔgɔ ye, o ka kɛ 5% kelen-kelen na.
+Sɛbɛn 2024 kɔnɔ fɛn kɛsɛ ye LDL ɲɛ-tɔgɔ ani ɲɛ ka ɲɛfɛ min tɛ dɔkita ka kɛlɛ. Fɛn min bɛ dimansi kɛlɛ caman sɔrɔ, o ye ɲɛ-jigi-ɲɛnabɔ ani LDL nɛnɛ mɛn ye (kɛlɛ 7% kɔrɔ, u bɛɛ ye 7% ye), ka tɔ kalan dɔgɔ ani mɔgɔw ka kɔnɔ tɛ kɛ (kɛlɛ 5% kɔrɔ, u bɛɛ ye 5% ye).
 
-Aw ka [fɛn 14 kan sɛbɛn](/brain-health/risk-factors/) b'o bɛɛ fɔ tabali kɔnɔ, ani ko min bɛ kalan ani min bɛ se ka kɛ.
+An ka [kɛlɛ ka kumakan](/brain-health/risk-factors/) bɛ fɛn 14 bɛɛ ɲɛsin kɛlɛ dɔ kɔnɔ, ni fɛn min sɛbɛnnen bɛ ni o fɛn ka ɲɛfɔ min bɛ se ka kɛ.
 
-### 45% ka kuma tɛ mun fɔ
+### Fɛn min tɛ 45% ka ɲɛfɔ kɔnɔ
 
-A bɛ se ka a kɔrɔ ka ɲɛfɛ ni o kɔnɔ fɔcogo ye, o de y'a ka ɲɛ ye ka kɔrɔ:
+O ɲɛfɔ bɛ se ka miiri ka kɔ, o de y'a sɔrɔ u ka dɔn ka gɛlɛ:
 
-- **O ye jateliya ye ni dunia bɛɛ ye.** A bɛ dimansi kɛlɛ dunia kɔnɔ kuma, o tɛ aw walima aw fa ka kɛlɛ kuma.
-- **A b'a miiri ko fɛn kɛ sababu ye.** Sɛbɛkɛlaw b'a fɔ ko olu ye fɛn min bɛ kɛ sababu ye ni hakilina ye, nka sababu dɔw ka jɛnsɛ ye. I n'a fɔ, dusukasi ɲɔgɔn ɲɛnamaya kɔfɛ, o kɔnɔ dimansi kalanso fɔlɔ ye, tɛ sababu ye.
-- **O tɛ ko min ta ye mɔgɔ kelen ye.** UCL ka kuma b'a fɔ ko kɛlɛ dɔgɔya bɛ kɛ dunia nɔfɛ, o tɛ ko mɔgɔ kelen na a se ka dimansi ban.
-- **Fɛn wɛrɛ, o tɛ fɛn nin ye.** Ɲɛnamaya, tɛgɛ, ani fɛn sɛbɛnkɛlaw tɛ dɔn ɲɛfɛ, olu ye yɛrɛ ye.
+- **Ɲɛfɔ ye dunniya ye.** A bɛ dimansi kɛlɛw dunniya kɔnɔ ɲɛfɔ, a tɛ aw ni aw fa ka ɲɛfɔ.
+- **A miiri ko fɛn bɛ kɛ ni fɛn ye.** Sɛbɛnkɛlaw b'a fɔ ko u ye fɛn min sɛbɛnnen bɛ ni a kɔnɔ dalen bɛ, nka dɔw bɛ se ka kɛ kɔnɔ tɛ yɛrɛ ye. Misali, dusu ɲɛnamaya ɲɛmɔgɔ kɔrɔ, o bɛ se ka kɛ dimansi fɔlɔ ka ɲɛnabɔ ye, a tɛ ka kɛ fɛn min bɛ kɛ a sɔrɔli ye.
+- **A tɛ fɛn ye min bɛ se ka sigi mɔgɔ kelen kan.** UCL ka ɲɛfɔ b'a fɔ ko kɛlɛ dɔgɔyali bɛ kɛ mɔgɔw ka kɔnɔ, tɛ ko mɔgɔ kelen bɛ dimansi ban.
+- **Ɲɔgɔn tɛ nin fɛnw ka ɲɛfɔ.** Sanu, bɔnɛ ni dɔnniya min tɛ se ka dɔn bi, o bɛ nin tɛmɛnen ɲɛfɛ.
 
-## "Kɛlɛ dɔgɔya" ani "ban" ka tilennenya mun ye?
+## Mun ye "kɛlɛ dɔgɔyali" ni "kɔsɔn" ka tɔɔrɔ?
 
-**Kɛlɛ dɔgɔya** b'a fɔ ka sababu dɔgɔya. Ni mɔgɔ caman ka tansiyɔn dɔgɔya, dimansi bɛ sɔrɔ mɔgɔ dɔw ma san caman kɔfɛ, ka tɛmɛ ni o tɛ kɛ. Mɔgɔ dɔw min bɛ o kɔnɔ, u bɛ dimansi sɔrɔ.
+**Kɛlɛ dɔgɔyali** b'a fɔ ko gɛlɛya dɔgɔya. Ni mɔgɔw caman bɛ jɛnɛ dɔgɔya ka ɲɛ, dimansi mɔgɔ dɔgɔnin bɛ sɔrɔ wagati caman kɔnɔ, ka tɛmɛ ni o ye ɲɛfɛ. Mɔgɔ dɔw ka mɔgɔw kɔnɔ bɛ dimansi sɔrɔ fana.
 
-**Ban** b'a fɔ ko fɛn tɛ kɛ abada. Dimansi kan, sɛbɛn tɛ ko min ta mɔgɔ si ye bi.
+**Kɔsɔn** b'a fɔ ko fɛn tɛ kɛ kosɛbɛ. Dimansi ye, sɛbɛnw tɛ se ka ɲɛfɔ ko mɔgɔ si bɛ se ka o kɔsɔn bi.
 
-Sɛbɛnkɛlaw b'a fɔ fana **tɛmɛ** kan. Lancet Commission ko kɛlɛ dɔgɔya bɛ se ka dimansi ka sɔrɔli tɛmɛ, ani ka ɲɛnamaya kɔnɔ ni kɛlɛ ka waati dɔgɔya. Tɛmɛ dɔgɔ kelen fana bɛ se ka mɔgɔ ni a ka ba ye ko caman ye.
+Sɛbɛnkɛlaw bɛ **kɔrɔ-ka-taa** fana kuma. Lancet Commission b'a fɔ ko kɛlɛ dɔgɔyali bɛ se ka dimansi kɔrɔ ka sɔrɔ, ani ka mɔgɔ ka ɲɛnamaya ni dusu ɲɛnamaya kɔnɔ ɲɛnamaya-jɛnɛ dɔgɔya. Sanu dɔw kɔrɔ ka kɛ cɛ kɛ, o bɛ mɔgɔ ni a fɛ ka ɲɛnamaya kɛ ka ɲɛ.
 
-Sitɛ nin kɔnɔ, an bɛ "kɛlɛ dɔgɔya" ani "ka ɲɔgɔn ye" fɔ ni ko kɛlen ye. Ni i ye fɛn dɔ ye, i n'a fɔ dawa, fɛn ka fɛn walima kalan min b'a fɔ ko "bɛ dimansi ban", aw ka a kɛ ni hakilitigiya ye. NIA ko aw ka kan ka dɔktɔrɔ ka ci ka dawa dɔ walima fɛn dɔ kɛ, min b'a fɔ ko bɛ Alzheimer's ban, katuguni o fɛn bɛ se ka kɛ ni ɲɛnamaya tɛ ɲuman ye, walima o bɛ wari ɲɔgɔn ye, walima o bɛɛ bɛ kɛ.
+Nin sitɛ kɔnɔ, an bɛ "kɛlɛ dɔgɔya" ni "ka ɲɛ" kuma ka bɛnɛ. Ni i ye fɛn, dɛgɛ walima fɛn wɛrɛ ye min b'a fɔ ko "Alzheimer kɔsɔn", i ka ɲɛ ka sɛbɛn. NIA b'a fɔ ko i ka dɔkita ka kuma ka ɲɛ, ni i bɛ nin dɔgɔ walima kɛnɛ min b'a fɔ ko Alzheimer kɔsɔn, katuguni o dɔ bɛ se ka kɛ jɔ tɛ, walima sɛbɛ tɛ, walima u bɛɛ ye ye.
 
-## Bɔɲɔ nla minnu ye mun jira?
+## Mun b'a jira ni sɛbɛn caman?
 
-Sɛbɛnw min bɛ mɔgɔw ka ɲɛnamaya ni tɛmɛ kɔnɔ ni, olu bɛ ɲɔgɔn jira (observational studies). Randomized trials, min ka mɔgɔw bɛ sɛnɛ ni mɔgɔ tɛ kɔrɔ ye, o bɛ fɛn ɲumanba jira. Nin ye fɛn min ye bɔɲɔ ɲumanw bɛɛ la.
+Sɛbɛn min b'a ɲɛ kɛ mɔgɔw ka ɲɛnamaya kɔnɔ wagati dɔ kɔnɔ, o bɛ se ka dɔnniya ɲɛsin. Sɛbɛn min kɛ ni mɔgɔw bɛ kɛ ka kɛ kɔlɔsili kɔnɔ walima kɔnɔ tɛ fɛn ye, o ye sɛbɛn cɛman ye. Nin ye fɛn dɔw ye min sɛbɛnnen bɛ ka bɔ sɛbɛn ɲumanw kɔnɔ.
 
-### FINGER (Finilandi)
+### FINGER (Filandi)
 
-FINGER bɔɲɔ ye mɔgɔ 1,260 ye, ni u ye san 60 ka tɛmɛ san 77 ma, u min bɛ dimansi kɛlɛ caman sɔrɔ. Mɔgɔ tilala ye sanfɛ kɛ kalan ni fɛn min bɛ kɛ, sɔrɔ jigi, hakili ɲɛfɔ ni kɔmiyuteri ye, ani dusukasi ni ji ka ɲɛnamaya kɔrɔw ka sɛgɛsɛgɛ. Tilala kɔfɛ ye ni kalan dɔgɔ ye. Mɔgɔ ye sanfɛ kɔnɔ ye tɛmɛ dɔ ka ɲɛ ye ka hakili ɲɛ kɛlɛ kɔnɔ, nka dɔgɔ ye ([FINGER bɔɲɔ Lancet la](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Bɔɲɔ ye hakili ɲɛ kɛlɛ sɛgɛsɛgɛ ye, o tɛ dimansi sɔrɔli jateliya ye.
+FINGER sɛbɛn ye mɔgɔ 1 260 sɔrɔ, u ka sanu 60 ni 77 ɲɛ, u bɛ kɛ dimansi ka gɛlɛya kɔnɔ. Mɔgɔ tilala ye dɛgɛ ka kalan kɛ san fila kɔnɔ, fa-ka-bɔ, dɛgɛ-sɛbɛn hakili ka ladonni ni dusu ni dusu ɲɛnamaya ka kɔlɔsili; tilala wɛrɛ ye kumakan ɲɔgɔn kelen ye. Kɔlɔsili-kɛlɛ ka mɔgɔw ɲɛfɔ hakili ka sɛbɛnw kɔnɔ bɛ se ka ɲɛ ka tɛmɛ, nka tɛ ɲɛ caman; sɛbɛn b'a jira ka sɔrɔ ɲɛ ni kɛlɛ ye ([FINGER sɛbɛn The Lancet kɔnɔ](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Sɛbɛn ye hakili sɛbɛnw ka sɔrɔ jɔ, dimansi ka dɔnniyaw tɛ.
 
-### US POINTER (Amerikaden)
+### US POINTER (Amerikɛ Jamanakuntigi)
 
-US POINTER bɔɲɔ ye mɔgɔ 2,111 ye, ni u ye san 60 ka tɛmɛ san 79 ma, u tɛ baara kɛ, u ka kalan tɛ ɲuman, ani u ni fɛn wɛrɛ dɔ kɛ kɛlɛ ye. Mɔgɔ bɛɛ bɛ dusu ka ɲɛ kɛ ka caya ɲɛnamaya kɔnɔ, ka kalan ɲuman kɛ, ka mɔgɔw ye, ani ka dusukasi ɲɛnɛ. Tilala kelen bɛ kɛ ni ɲɛnɛma ye, tilala wɛrɛ bɛ kɛ ni u yɛrɛ ye. San fila kɔfɛ, hakili ɲɛ kɛlɛ bɛɛ bɛ ɲɛ, nka ɲɛ caman ye tilala ni ɲɛnɛma tilala ye ([US POINTER bɔɲɔ JAMA la](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Sɛbɛkɛlaw b'a fɔ ko tɛmɛ caman ka kan ka ka ɲɛ ko kɔrɔ, katuguni u ka mɔgɔ ye ɲɛnamaya kɔnɔ ye. Bɔɲɔ tɛ mɔgɔ sɛnɛ min tɛ "ka ɲɛ ko" bɛ kɛ, o de kosɔn, o tɛ jira ko sɛgɛsɛgɛ bɛ se ka caya mun.
+US POINTER ye mɔgɔ 2 111 sɔrɔ, u ka sanu 60 ni 79 ɲɛ, u tɛ kɛ ɲɛnamaya-ɲuman kɔnɔ, u ka dɛgɛ tɛ ɲuman, ani u ni kɛlɛ wɛrɛ caman bɛ u kan. Tilala fila b'a ɲɛ ka ɲɛnamaya ka ɲɛfɔ dɔn ka fa-ka-bɔ, ka dɛgɛ ɲuman dɔn, ka mɔgɔw ni ɲɔgɔn ka kɛ, ani ka dusu ɲɛnamaya ɲɛ. Tilala kelen ye kalan ɲɔgɔn kɔnɔ ni kɔlɔsili ye; tilala wɛrɛ ye yɛrɛ yɛrɛ ka kɛ. San fila kɔnɔ, hakili ka sɛbɛnw ɲɛ ye ka ɲɛ tilala fila bɛɛ kɔnɔ, ani kɛlɛ kɔrɔ tilala kelen kɔnɔ ([US POINTER sɛbɛn JAMA kɔnɔ](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Sɛbɛnkɛlaw b'a fɔ ko ka ɲɛ dɔnniya ka kɛ, mun ye sɛbɛn dɔ kɔnɔ wɛrɛ ka kɛ ka sɔrɔ ni ɲɛnamaya kɔnɔ ye. Sɛbɛn kɔnɔ tɛ tilala min "a tɛ fɛn kɛ" ye, o de y'a sɔrɔ sɛbɛn tɛ se ka fɔ ko tilala fila bɛɛ ka kɛlɛ bɛ mɛn cogo min na, ni u ye fɛn tɛ kɛ ka bɔ kɔnɔ.
 
-### SPRINT MIND (tansiyɔn)
+### SPRINT MIND (dusu ɲɛnamaya)
 
-SPRINT MIND bɛ mɔgɔ 9,361 kɔrɔ, Amerikaden, u ye san 50 walima ka tɛmɛ, ani u ka tansiyɔn caman bɛ. U bɛ sanfɛ ka tansiyɔn dɔgɔ ka a ka sanji tilenbaliya ye, sanji fɔlɔ 120 ka tɛmɛ, walima ka tilenbaliya ye (140 ka tɛmɛ). Tansiyɔn dɔgɔ kɔnɔ, **hakili ɲɛfɔ kɛlɛ** (mild cognitive impairment) kɛlɛ dɔgɔ kosɛbɛ, o kɛlɛ bɛ dimansi ɲɛ fɔlɔ. **Dimansi kɛlɛ** kan, dimansi kɛlɛ caman tɛ ɲɔgɔn ye tansiyɔn dɔgɔ kɔnɔ, nka tɛmɛ tɛ ko min ta ye ni kɛlɛ bɛɛ bɛ kɛ. Bɔɲɔ ka tɛmɛ dɔgɔ ka kɔfɛ, o ye tɛmɛ jɛɲɔgɔn ye dimansi kɛlɛ ka kuma kɔnɔ, o ka dɔ bɛ fɔ ko tɛ ɲɔgɔn ye ([SPRINT MIND bɔɲɔ JAMA la](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND ye mɔgɔ 9 361 Amerikɛ ka mɔgɔw sɔrɔ, u ka sanu 50 ni kɔrɔ ye, u ka dusu ɲɛnamaya ka gɛlɛya bɛ u kan. U bɛ kɛ dusu ɲɛnamaya ka tilali ma: ɲɛ-kɔrɔ ka dusu ɲɛnamaya ka kɛlɛ tilali (kɔrɔ ni 120 ka surun) walima ka dusu ɲɛnamaya ka tilali ɲɛfɛ (ka surun ni 140). Tilali min ye ɲɛnamaya-ɲuman dɔgɔya, o ye **hakili-kɛlɛ dɔgɔ** dɔgɔya ka ɲɛ, hakili ladonni ni hakili ɲɛ kɛlɛ min bɛ se ka dimansi ɲɛfɔ. Dimansi sɔrɔ cogo la, tilali min ye dusu ɲɛnamaya kɔrɔ, o kɔnɔ dimansi sɔrɔli dɔgɔ ye, nka sɛbɛn ka ɲɛ tɛ ka ɲɛ ka dɔ ye. Sɛbɛn ka kɛ fɛn tɛmɛnen kɔrɔ ka dɔgɔ, o de y'a sɔrɔ sɛbɛnnen tɛ se ka ɲɛfɔ fɛn min na ([SPRINT MIND sɛbɛn JAMA kɔnɔ](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### Bɔɲɔ bɛɛ ka kuma
+### Sɛbɛnw ka kuma bɛɛ ka jɛnɛ
 
-Cochrane sɛbɛn 2021 ye bɔɲɔ kɔnɔ 9 bɛɛ ka kuma ye, ka ɲɔgɔn ye fɛn caman min bɛ kɛlɛ caman kɛ, mɔgɔ 18,000 kɔfɛ ka kuma kɛ. A ye hakili ɲɛ kɛlɛ kɔnɔ ɲɛ dɔgɔ ye, nka **a tɛ jira ko mɔgɔ caman bɛ dimansi sɔrɔ** bɔɲɔ fila kɔnɔ min ye dimansi ye ([Cochrane sɛbɛn kɛlɛ caman kan](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 Cochrane sɛbɛn ye tilala 9 ka kalan ka sɛbɛn kɛ, u ye ɲɛfɛ tilala caman bɛ fɛn caman tuma kelen na, mɔgɔ 18 000 kɔrɔ bɛ u kɔnɔ. A b'a jira ko hakili ka sɛbɛnw kɔnɔ fɛn dɔrɔn bɛ sɔrɔ, nka **mɔgɔ dimansi sɔrɔli ka dɔgɔ tɛ jɛnɛ sɛbɛn fila kɔnɔ min ye o ɲɛfɔ** ([Cochrane sɛbɛn ka kɛlɛ caman ye](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-2017 sɛbɛn ye National Academies of Sciences, Engineering, and Medicine ka ye, NIA ye a kuma. A ye fɔ ko "ɲɛ bɛ se ka kɛ, nka fɛn tɛ kɛ ka jɛɲɔgɔn": tansiyɔn dɔgɔ kɛ, dusu ka caya, ani hakili ɲɛfɔ.
+Amerikɛ Jamanaw ka Sɛbɛnkɛlaw, Fɛnw ka Ɲɛfɔlaw, ani Dɔkitɔrɔw Ciden ka 2017 sɛbɛn, NIA ka ɲɛfɔ min kɔnɔ, ye "ka ɲɛ ka kɛ, nka dɔgɔ tɛ" sɔrɔ kɛlɛ saba kɔnɔ: dusu ɲɛnamaya kɔrɔ ka kɛlɛ, ɲɛ ka kɛ, ani hakili ka ladonni.
 
-## A waati bɛ se ka caya ka kɛ wa?
+## A bɛ kɛ ka ɲɛ ka tuma min na?
 
-Lancet Commission ka kuma ye ko kɛlɛ bɛ se ka dɔgɔya ni a ka tɛmɛ ka ɲɛ, ani ka a ka dɔgɔya tuma caman na. "Ni a bɛ fɔlɔ, o ka ɲɛ" ani "ni a bɛ ka tɛmɛ, o ka ɲɛ". A b'a fɔ fana ko kɛlɛ dɔgɔya tɛ tɛmɛ ka tɛ kɔfɛ. Sɛbɛn caman ye san 40 ka tɛmɛ san 65 ma. Nka fɛn dɔw, i n'a fɔ ɲɛ ko ɲɛ ani mɔgɔ tɛ ɲɛnamaya ni mɔgɔ ye, olu ye kɛlɛ kɔfɛ ɲɛnamaya kɔnɔ, o min bɛ se ka kɛ ka ɲɛ.
+Lancet Commission ka ɲɛfɔ ye ka kɛlɛ dɔgɔya fɔlɔ, ani ka o to ka ɲɛ ka mɛn ka ɲɛ. A b'a fɔ: "fɔlɔ, ka ɲɛ" ani "ka ɲɛ tuma caman, ka ɲɛ." A b'a fɔ fana ko kɛlɛ dɔgɔyali tɛ ka kɔrɔ ni tɔgɔ bɛ se ka kɛ ka ɲɛ. Sɛbɛn caman ka ca bɛ ɲɛnamaya kɔnɔ, sanu 40 ni 65 ɲɛ, nka fɛn dɔw, i n'a fɔ ɲɛ-jigi ka kɛ ni mɔgɔw ka kɔnɔ tɛ kɛ, ye ɲɛnamaya kɔfɛ kɛlɛw ye, ani o kɛlɛw kɔnɔ, ka kɛ ka caya ka kɛ.
 
-Sɛbɛn b'a fɔ fana ko kɛlɛ bɛ kɛ ka caya, o ka caya, o bɛ se ka dimansi ka kɛlɛ kɔnɔ ka ɲɛ. I n'a fɔ, sukari sɔrɔli min bɛ fɔlɔ ɲɛnamaya ni ɲɛnamaya kɔnɔ ye, o ka kɛlɛ caman bɛ ɲɛ ni min bɛ kɔfɛ sɔrɔ.
+Sɛbɛn b'a fɔ ko sɔrɔ kɛlɛ bɛ kɛ ka caya ni tuma caman ka kɛlɛ bɛ kɛ ka caya. Misali, sanu kɔnɔ ni sukari sɔrɔli ɲɛnamaya kɔnɔ bɛ kɛ ka caya ni ɲɛnamaya kɔfɛ sukari ka sɔrɔli ye.
 
-## Dimansi kɛlɛ bɛ mɔgɔ bɛɛ la wa?
+## Mɔgɔw bɛɛ ka dimansi kɛlɛ ye kelen wa?
 
-Ayi. Lancet Commission ye jate ko mɔgɔ min bɛ dunia kɔnɔ wari dɔgɔ ye, ani mɔgɔ min bɛ jamana dɔw kɔnɔ, ani mɔgɔ min tɛ wari caman sɔrɔ, olu bɛ kɛlɛ caman sɔrɔ, ani dimansi bɛ sɔrɔ ni a ka sɔrɔ ye. Kɛlɛ caman bɛ bɔ ka fɛn min bɛ kɛ ni ɲɛnamaya ye, u tɛ min sugandi: i n'a fɔ, kalan ka ɲɛ min sɔrɔra bɔɲɔ na, dunia kɔnɔ ka fɛn, ani ni fɛn ɲumanw bɛ sɔrɔ ni a tɛ ka wari caman ye ani u bɛ yen.
+Ayi. Commission b'a ɲɛ ko mɔgɔw min bɛ jamanaw kɔnɔ min ka wari ka dɔgɔ walima wari tɛ, mɔgɔ jɛlɛnnin ni wari tɛ mɔgɔ caman, o kɛlɛw bɛ u kan caman, o de kosɔn dimansi bɛ sɔrɔ sanu dɔgɔ kɔnɔ. Kɛlɛ caman bɛ mɔgɔ ka sigiyɔrɔ ni fɛn min tɛ u ka sugandi ye, i n'a fɔ u ka kalan ka ɲɛfɛ denw ka kalan kɔnɔ, u bɛ sigi min ka tilali, ani dɔgɔ ye min ka ɲɛfɛ, ani ni fɛn ɲuman bɛ sɔrɔ ka wari ni ka sigiyɔrɔ kɔnɔ.
 
-O de kosɔn Lancet Commission ka kuma bɛ jamanaw ni mɔgɔ ye: kalan ɲuman bɛɛ ye denw ye, dunia kɔnɔ ka ɲɛ dɔgɔ, nɔ ka dɔgɔya, sukari ni cɛ kɔnɔ tɛ caman sɔrɔ nɔfɛ dukɛnw ni dunɛ bɔ, ani sɔrɔ jigi ni mɔgɔ bɛɛ min ka ko ye. Mɔgɔ kelen ka baara ka kan, nka dunia min kɔnɔ mɔgɔ bɛ sigi, o ka kan fana. O de kɔrɔ mɔgɔ si tɛ ka kan ka kɔnɔ dimansi kɔnɔ, mɔgɔ bɛɛ ka kan ka dusu ka ɲɛ ko.
+O de kosɔn Commission ka ɲɛfɔ bɛ ka dɔgɔ ka kɛ jamanaw ka mɔgɔw ye, ani mɔgɔ kelen kelen ye. Denw bɛɛ ka kalan ɲɛ, dunniya kɔnɔ tilali ɲuman, fa-ka-bɔ dɔgɔya, sukari ni ɲɛ dɔgɔya dɛgɛ ka kɛlɛ ɲɛfɛ dɛgɛnaw kɔnɔ, ani dɛgɛ ɲuman ni wari ɲɔgɔn kɔnɔ ka sɔrɔ. Mɔgɔ kelen kelen ka kɛlɛ bɛ mɛn, nka dunniya min kɔnɔ mɔgɔw bɛ sigi, o fana bɛ mɛn. O ye dɔ ye min kɔsɔn kɔ ma mɔgɔ si tɔɔrɔ ni dimansi sɔrɔli ye.
 
-## Sɛbɛnw ka jatejɛnnɛ kɔnɔ fɛn min tɛ ɲɛdɔn?
+## Sɛbɛnw ka ɲɛfɔ tilali ye jɔ?
 
-- **Dimansi bɛ tɛmɛ san caman kɔfɛ, nka bɔɲɔ caman bɛ tɛmɛ san fila ni duuru ma.** Dimansi tɔw jateliya bɛ se ka kɛ san caman kɔnɔ, ani mɔgɔ caman kɔnɔ.
-- **Bɔɲɔ caman bɛ hakili ɲɛfɔ sɛgɛsɛgɛ.** Hakili ɲɛfɔ ɲɛ dɔgɔ tɛ jira ko mɔgɔ caman bɛ dimansi sɔrɔ, walima ko ɲɛnamaya bɛ ɲɛ.
-- **Mɔgɔ min bɛ bɔɲɔ la, u bɛ kɛ ɲɛnamaya ɲuman kɛ**, ani u bɛ kalan ɲɛ. Lancet Commission ko mɔgɔ caman bɛ bɔɲɔ kɛ jamanaw bɛɛ la, ani mɔgɔ tɛ caman kɔnɔ bɛ ɲɛnamaya kɔnɔ.
-- **Kɛlɛ dɔw bɛ kɛ ɲɔgɔn fɛ.** Ni mɔgɔ tɛ baara kɛ ka caya, walima ka ɲɔgɔn ye, o bɛ se ka kɛ dimansi fɔlɔ ka sababu, a tɛ sababu kelen kelen ye.
-- **Nɔ bɔɲɔ tɛ ɲɛ ko caman.** San saba MIND nɔ bɔɲɔ, o ma jira hakili ɲɛfɔ ni nɔ tɛ ɲɛ ko ye. Aw ka [nɔ kan sɛbɛn](/brain-health/diet/) ka ɲɛ.
-- **Hakili fɛn kɛlɛw tɛ jira ko bɛ dimansi ban.** Aw ka [hakili fɛn kɛlɛw ani dimansi kan sɛbɛn](/brain-health/brain-games/) ka ɲɛ.
-- **Kɔrɔfɛ dɔgɔ ni mɔgɔ bɛ bɔɲɔ la, ani o bɛ se ka ko ɲɔgɔn kɛ mɔgɔ kɔrɔ ye.** Aw ka [kɔrɔfɛ sɛbɛn](/brain-health/fasting/) ka ɲɛ.
+- **Dimansi bɛ kɛ ka caya ni san caman ka wati kɔnɔ**, nka sɛbɛn caman bɛ kɛ san fila ni duuru ka wati kɔnɔ. Dimansi yɛrɛ ka ɲɛfɔ bɛ kɛ sɛbɛn ka ca ni ka ɲɛ fɛ, hakili ka sɛbɛnw ɲɛfɛ tɛ.
+- **Sɛbɛn caman bɛ hakili ka sɛbɛnw ɲɛfɛ.** Hakili ka sɛbɛn ɲɛ kɛlɛ dɔ tɛ ko dimansi tɛ sɔrɔ, walima ko ɲɛnamaya tɛ ka ɲɛ.
+- **Sɛbɛn ka mɔgɔw bɛ kɛ ɲɛnamaya-ɲuman ni kalan caman.** Lancet Commission b'a fɔ ko sɛbɛn caman bɛ kɛ jamanaw kɔnɔ min ka wari ka bon, ani mɔgɔ tilalen tɛ sɛbɛn kɔnɔ.
+- **Fɛn dɔw bɛ kɛ fila.** Ka bɔ ka ɲɛ ka dɔgɔ, walima ka mɔgɔw ka ɲɛ ka dɔgɔ, o bɛ se ka kɛ dimansi fɔlɔ kɔrɔ ka sɔrɔ, tɛ dɔrɔn ka kɛ kɛlɛ.
+- **Dɛgɛ sɛbɛnw ka ɲɛfɔ tɛ ɲɛ.** Sɛbɛn sanu 3 kɔnɔ min kɛra MIND dɛgɛ ye, o ye hakili ɲɛfɔ tɛ ɲɛ ni dɛgɛ wɛrɛ ye. An ka [dɛgɛ kumakan](/brain-health/diet/) ye.
+- **Hakili ladonni dɔ tɛ dimansi kɔsɔn ka ɲɛfɔ.** An ka [hakili ladonni ni dimansi kumakan](/brain-health/brain-games/) ye.
+- **Kɔrɔ ka dɛgɛ-tɛ ka kɔnɔ bɛ kɛ mɔgɔw kɔnɔ ni sɛbɛn tɛ caman.** Sanu kɔrɔ mɔgɔw ka dɛgɛ-tɛ bɛ kɛ gɛlɛya ye. An ka [dɛgɛ-tɛ kumakan](/brain-health/fasting/) ye.
 
-## Ni mɔgɔ kɛra "ka ɲɛ" bɛɛ, mun na a ye dimansi sɔrɔ?
+## Ni mɔgɔ ye fɛn ɲuman bɛɛ kɛ, mun na a ka dimansi sɔrɔ?
 
-Katuguni dimansi tɛ ɲɛfɛ ka sababu ye ka sɔrɔ sɔn dɔ kɛ. NIA ko [ɲɛnamaya ye Alzheimer's ka sababu caman ye](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), ani mɔgɔ tɛ se ka o yɛrɛyɛrɛ. Tɛgɛ fana bɛ kɛ sababu ye. Sɛbɛkɛlaw fana tɛ dɔn ɲɛfɛ mun bɛ Alzheimer's kɛ mɔgɔ caman kɔnɔ. Hali ni fɛn 14 bɛɛ bɔra, Lancet Commission ka jateliya ye ko sababu caman tɛ jira ka ɲɛ kan.
+Dimansi tɛ fɛn ye min ye sigida ɲɛnabɔ kelen ye. NIA b'a fɔ ko [sanu ye Alzheimer ka gɛlɛya ye min bɛ mɛn ka tɛmɛ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), o tɛ se ka yɛlɛ. Bɔnɛ bɛ kɛ dɔ. Ani sɛgɛnsɛgɛlaw tɛ dɔn fɛyɛ mun bɛ Alzheimer kɛ mɔgɔ caman kɔnɔ. Ni fɛn 14 ninnu bɛɛ bɛ bɔ, Lancet Commission ka ɲɛfɔ b'a jira ko kɛlɛ caman tɛ se ka dɔn.
 
-O kɔnɔ, ni i bɛ mɔgɔ kɛ min bɛ kɛnɛ ka ɲɛ, a bɛ kalan ɲuman kɛ, a tɛ sigasiga, a bɛ dimansi sɔrɔ, o tɛ a ka sababu walima aw ka sababu ye. Ni i yɛrɛ bɛ dimansi la, o tɛ i ka tilenbaliya ye. Hakɛ bɛ mɔgɔ caman ka dusu kɛ, nka o tɛ dusu ka tilennen ye. Sɔrɔ ni ɲɛnamaya bɛ ɲɛ, ni ɲɛ, ni ɲɔgɔn ye, o bɛ mɛn. A tɛ aw ka fɛn ye kɔnɔ, [sɛgɛsɛgɛ kɛlɛ ka ɲɛ](/activities/ideas/) ani [mɔgɔ min bɛ mɔgɔ dɛmɛ ka ɲɛnamaya kɔnɔ](/caregiving/caregiver-self-care/) bɛ ɲɛ ka fɔ fɔlɔ.
+O de kosɔn, ni i bɛ mɔgɔ dɛmɛ min kalanna, dɛgɛ ka ɲɛ, ka fa-ka-bɔ ka ɲɛ, ani min tɛ ɲɛ ka tabaki min, nka a sɔrɔra dimansi, o ma ko fɛn dɔ tɛ ɲɛ a ka kɛ walima aw ka kɛ. Ni i yɛrɛ bɛ dimansi ni ɲɛnamaya kɔnɔ, o tɔɔrɔ tɛ i ka kɛ. Hakili tiɲɛni caman bɛ mɔgɔw bɛɛ ka dusu kɔnɔ, nka o tɛ tɔɔrɔ ye. Sisan min ka kan ye ɲɛnamaya-ɲuman, ɲɔgɔn-ɲɔgɔn ni fɛnɲuman ye, ani [sɛgɛnsɛgɛ fɛnw kumakan](/activities/ideas/) ni [dɛmɛ-ka-kumakan ka kumakan](/caregiving/caregiver-self-care/) ye fɛn ɲuman ye ka daminɛ.
 
-## Mun ye fɛn min bɛ se ka kuma ni dɔktɔrɔ ye?
+## Mun ye fɛnw ye aw ka ka kuma ni dɔkita ye?
 
-Nin ye yɛrɛ min bɛ kɛ kalan ka caya tuma caman na. U ka kan ka kuma dɔktɔrɔ ye kalan kɔnɔ, katuguni u bɛ dusu ni hakili ni yɛrɛ dɛmɛ ka ɲɛ fana, o min bɛ kɛ dimansi ka ɲɛ.
+Nin ye fɛnw ye min caman bɛ kalan. U ka ɲɛfɛ ye ka kuma ni dɔkita ye fɛn ka ɲɛfɛ kɔnɔ, katuguni u caman bɛ dɛmɛ dusu ɲɛnamaya, dusu kɛlɛ ni mɔgɔ ka kɛ ka ɲɛ fɛ, dimansi ka kɛlɛ tɛmɛnen bɛ, o ka dɔ kɛ bɔ yɛrɛ tɛ.
 
-1. **Tansiyɔn.** Ko aw ka nimɔrɔ mun ye, ani sanji min ka ɲɛ aw ka kan. Lancet Commission b'a fɔ ko san 40 kɔfɛ, tansiyɔn kɔrɔ sanji 130 walima ka tɛmɛ, nka sanji min ka kan mɔgɔ kɔrɔ ye, o bɛ kɛ a ka ɲɛnamaya kɔnɔ kɛlɛ ye.
-2. **Tulo.** Ko tulo kɛlɛ kɛ, ani ko tulo bɛ se ka kɛ wa. Aw ka [tulo kan sɛbɛn](/brain-health/hearing/) ka ɲɛ, o b'a fɔ sɛbɛn kan.
-3. **Ɲɛ.** Ɲɛ kɛlɛ kɛ tuma caman, ani ko kataraki bɛ se ka dɛmɛ wa.
-4. **Cholesterol.** Ko aw ka LDL cholesterol bɛ se ka kɛ wa, ani ko fɛn dɔ bɛ se ka caya wa.
-5. **Sukari sɔrɔli.** Ni i bɛ sukari sɔrɔli la, ko a ka kɔnɔ ka kɛ cogo ɲuman na.
-6. **Dusukasi.** Dusukasi bɛ kɛ caman, ani o bɛ se ka dɛmɛ. Ni i bɛ dusukasi ni fɛn tɛ ɲɛ kɔnɔ san kɔfɛ, ko dɔktɔrɔ ye.
-7. **Sigareti ani dɔgɔ.** Ko sigareti bɛ se ka bɔ, ani ko dɔgɔ min bɛ ɲɛnamaya ɲuman ye, o ka ci.
-8. **Baara.** Ko baara ɲuman min tɛ kɛ ka ɲɛ, dɔktɔrɔ ye ci. Aw ka [kɛlɛ sɛbɛn](/brain-health/exercise/) bɛ ɲɛ ka fɔ.
-9. **Kun kɔrɔ.** Ni i bɛ fiyɛ ni kɔnɔ kɛ, ko kun kɔrɔ ka kɛ. Ko bɔ ka bɔ, ani ko ko ɲuman kɛ.
-10. **Mɔgɔw ni ɲɔgɔn.** Mɔgɔw ni ɲɔgɔn ye ɲɛnamaya ɲuman ye. Aw ka [mɔgɔw ni ɲɔgɔn sɛbɛn](/brain-health/social-connection/) ani [dɔgɔya sɛbɛn](/brain-health/sleep/) ka ɲɛ.
+1. **Dusu ɲɛnamaya.** Ka ɲɛ ka ka ɲɛ-jɔnw ka dɔnniya ni ka mun ye ka ɲɛ ka ɲɛnamaya kɔnɔ. Lancet Commission b'a fɔ ko sanu 40 ɲɛ, dusu ɲɛnamaya kɔrɔ ka 130 kɔrɔ ka kɛ ka ɲɛ, nka sanu kɔrɔ mɔgɔ ka kɛlɛ ka ɲɛ bɛ kɛ ni a ka ɲɛnamaya bɛɛ ye.
+2. **Kɔlɔ.** Ka ɲɛ-kɔlɔ ɲɛfɛ, ka dɔn ko ɲɛ-kɔlɔ bɛ se ka dɛmɛ wa. [Kɔlɔ kumakan](/brain-health/hearing/) bɛ sɛbɛn ɲɛfɔ.
+3. **Ɲɛ.** Ka ɲɛ-jɔnw ka ɲɛfɛ ka ɲɛ ka kɛ, ka dɔn ko ɲɛ-kɔrɔ fɛnw i n'a fɔ kadirifɛ bɛ se ka kɛ ka ɲɛ.
+4. **Kɔnɔ-ka-tabaki.** Ka dɔn ko i ka LDL nɛnɛ ka kɛ ka ɲɛ, ani fɛn dɔ ka kɛ wa.
+5. **Sukari nɛnɛ.** Ni i bɛ sukari dusu ni dusu ɲɛ, ka dɔn ka mun ye ka o ka bon ka ɲɛ.
+6. **Hakilina.** Dimansi bɛ kɛ ka kɛlɛ ka ɲɛ, ka ɲɛnamaya ka kɛlɛ dɔgɔ. Ni i ka ɲɛnamaya bɛ kɛ dɔ ye ka dɔgɔ walima fɛn caman tɛ ka ɲɛ, ka o dɔkita ye ka dɔn ka tɛmɛ kɔrɔ ka kɛ.
+7. **Tabaki ni sɛnɛ.** Ka dɔn ka mɔgɔ dɛmɛ min bɛ se ka tabaki ka bɔ, ani ka dɔn ka sɛnɛ ka kɔnɔ ka kɛ.
+8. **Kɛlɛ.** Ka dɔn fɛn min bɛ se ka kɛ ka ɲɛ aw ye. An ka [kɛlɛ kumakan](/brain-health/exercise/) bɛ fɛn caman ɲɛsin.
+9. **Kun-kɔlɔ.** Ka kun-kɔlɔ tɔrɔ kɛ ka sigi-sigi ni ka kɛ ni nɔɔrɔ, ani ka dɔn ko mɔgɔ bɛ se ka bɔ ka ɲɛfɛ.
+10. **Mɔgɔw ni ɲɔgɔn.** Mɔgɔw ni ɲɔgɔn ka waati ye ɲɛnamaya ɲuman ka fɛn ye. An ka [mɔgɔw ni ɲɔgɔn ka kumakan](/brain-health/social-connection/) ni [sɔgɔ](/brain-health/sleep/) fana ye.
 
-Ni i b'a fɛ ka dawa, nɔ, fɛn ka fɛn, kɔrɔfɛ walima kɛlɛ ka yɛrɛyɛrɛ, dɔktɔrɔ ka ci fɔlɔ, ni i bɛ hakili ka ɲɛ, ni i bɛ kɔrɔ ka kɛlɛ, ni i bɛ bɔ ka bɔ ka kɛlɛ, walima ni i bɛ dimansi la yɛrɛ.
+Fɛn min bɛ dusu ɲɛnamaya, dɛgɛ, dɔgɔ, dɛgɛ-tɛ, walima kɛlɛ, o ɲɛ, ka kuma ni dɔkita ye ɲɔgɔn fɔlɔ, sanko i bɛ dusu ka tilali ka kɛlɛ, ka kɛlɛ ka tɔɔrɔ ni bɔ, walima i bɛ dimansi ni ɲɛnamaya ka kɛlɛ.
 
-## Dɔktɔrɔ ka ci
+## Kuma ni dɔkita ye
 
-Ni i ye hakili walima ɲɛnamaya fɛn dɔ ye min bɛ i hinɛ, i yɛrɛ walima mɔgɔ wɛrɛ kɔnɔ, aw ka kan ka dɔktɔrɔ ye. NIA ko [hakili ɲɛfɔ bɛ se ka kɛ fɛn wɛrɛ ye](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), i n'a fɔ dawa ka ɲɛfɛ kɛlɛ, sɛgɛn kɛlɛ, dusukasi walima vitamini B12 dɔgɔya, ani fɛn dɔw bɛ bɔ ni o fɛn kɛlen ye kɔfɛ. Aw ka [dimansi ka ɲɛfɛ kalan sɛbɛn](/brain-health/warning-signs/) ka ɲɛ, o b'a fɔ fɛn min na a ka ɲɛ.
+Ni i ye hakili walima sɛbɛn kɔnɔ fɛn ye min ka ɲɛfɛ ni tɔɔrɔ bɛ kɛ, aw yɛrɛ kɔnɔ walima mɔgɔ wɛrɛ kɔnɔ, ka dɔkita ye ka kɛ ka dɔ ka ɲɛ. NIA b'a fɔ ko [hakili ka kɛlɛ bɛ se ka kɛ fɛn wɛrɛ tɔ](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), i n'a fɔ dawa ka kɛlɛ, ka kɔ ka dusu dɔgɔ, dimansi, walima B12 dɔgɔ, ani fɛn dɔw bɛ ban ni o kɛlɛ bɛ ka dɔ ka ɲɛ. An ka [kɛlɛ dɔnniya kumakan](/brain-health/warning-signs/) bɛ fɛn min ka kɔrɔ ka ɲɛ ɲɛsin.
 
-**Ni fɛn dɔ kɛra ka ɲɛfɛ kɛlɛ:** hakili ka sigasiga, kɔrɔ ni kɔnɔ ni fɛn kɔrɔ ye, kuma ka ɲɛ ka bɔ, walima kun ka ɲɛfɛ kɛlɛ, o bɛ se ka kɛ kɔrɔnɛn ka sɔrɔ. Wele aw ka hakɛ sɛgɛsɛgɛli nimɔrɔ ma.
+**Ka dɛmɛ ɲɛnabɔ** ni fɛn ye ɲɛnabɔ, i n'a fɔ sisan hakili kɔnɔ kɔrɔ, ka tɛ ka nɔɔrɔ ka kɛlɛ, jɛgɛ kɛrɛ kelen kan, kuma ka gɛlɛya, walima kun-kan-tɔɔrɔ ka ɲɛ: nin bɛ se ka kɛ dusu ɲɛnamaya walima wɛrɛ ɲɛnabɔ. Ka wele ka dɛmɛ-wele nimɔrɔ ka wele.
 
-## Golden Moments ye min ye
+## Golden Moments ka kɔnɔ
 
-Golden Moments bɛ fɛn ɲuman kɛ mɔgɔw ye ni ɲɔgɔn ye, i n'a fɔ [kuma kaarti](/games/conversation-cards/), [sɛbɛn bingo](/games/picture-bingo/) ani [ɲɛnɛma ɲɛfɛ](/games/calm-breathing/). U bɛ kɛ ka ɲɛ, ani ka ɲɔgɔn ye. U tɛ dawa ye, u tɛ dimansi ban walima u tɛ dimansi ka bɔɲɔ.
+Golden Moments bɛ fɛn ɲuman sɔrɔ mɔgɔ caman ka kɛlɛ ye, i n'a fɔ [kuma-kaɲɛw](/games/conversation-cards/), [sɛbɛn-bingo](/games/picture-bingo/) ani [dusu-kɛlɛ ɲɛnamaya](/games/calm-breathing/). U bɛ kɛ ɲɛnamaya ni mɔgɔw ka waati ɲuman ye. Nin tɛ dawa ye, u tɛ dimansi kɔsɔn walima dimansi ka gɛlɛya ɲɛ.

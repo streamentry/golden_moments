@@ -1,33 +1,33 @@
 ---
 title: "Kunsprojekte vir mense met demensie, stap vir stap"
 seoTitle: "Kunsprojekte vir mense met demensie, stap vir stap"
-description: "Kunsprojekte vir mense met demensie, stap vir stap: waterverfwasse, kollage, klei, kryt en blaarafdrukke, met riglyne vir die keuse van veilige, volwasse kunsbenodigdhede."
+description: "Kunsprojekte vir mense met demensie: waterverf, collage, klei, kryt en blaarafdrukke, plus hoe om veilige kunsbenodigdhede vir volwassenes te kies."
 section: activities
 order: 28
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Kunsprojekte vir mense met demensie werk die beste wanneer hulle kort en
-  sensories is en 'n duidelike eerste stap het. Probeer 'n waterverfwas, 'n
-  tydskrifkollage, sagte klei, kryt-pastels op donker papier of blaarafdrukke,
-  en begin elkeen saam. Kies nie-giftige benodigdhede met groot handvatsels en
-  geen klein losse dele nie, en beplan vir die fase waarin die persoon is. Die
-  proses is die doel; 'n afgewerkte werkstuk is 'n bonus.
+  Kunsprojekte vir mense met demensie werk die beste wanneer dit kort en sensories
+  is, met ’n duidelike eerste stap. Probeer waterverf, ’n tydskrifcollage, sagte
+  klei, bordkrytpastelle op donker papier of blaarafdrukke, en begin elkeen
+  saam. Kies nie-giftige benodigdhede met groot handvatsels en sonder los
+  deeltjies, en beplan volgens die stadium. Die proses is die belangrikste deel;
+  ’n voltooide kunswerk is ’n bonus.
 keyPoints:
-  - "Kies projekte met een duidelike eerste stap, soos 'n kwas in verf dompel of 'n prent skeur, sodat die persoon maklik kan begin."
-  - "Gebruik nie-giftige benodigdhede met groot handvatsels, geen klein dele nie, en geen dampe of skerp gereedskap nie."
-  - "Begin saam, en trek dan terug. Baie mense het net die eerste streep of snit nodig om voort te gaan."
-  - "Pas die projek aan namate die persoon se vermoëns verander, van noukeurige werk in die begin tot breë, sensoriese beweging later."
-  - "Prys keuses en teksture, nie tegniek nie, en stop sodra die aktiwiteit nie meer aangenaam is nie."
+  - "Kies projekte met een duidelike eerste stap, soos om ’n kwas in te doop of ’n prentjie te skeur, sodat die persoon maklik kan begin."
+  - "Gebruik nie-giftige materiale met groot handvatsels, sonder klein deeltjies, dampe of skerp gereedskap."
+  - "Begin saam en tree dan terug. Baie mense benodig net die eerste kwasstreep of knip om aan te hou."
+  - "Pas die projek aan soos die persoon se vermoë verander, van fyn werk vroeg tot breë, sensoriese bewegings later."
+  - "Prys keuses en teksture, nie tegniek nie, en hou op sodra die aktiwiteit nie meer lekker is nie."
 faq:
-  - q: "Watter kunsprojekte werk vir mense met demensie?"
-    a: "Goeie opsies is waterverfwasse op swaar papier, kollage uit tydskrifprente, sagte klei om te knyp en te druk, kryt-pastels op donker papier, blaarafdrukke met wasbare verf, en die rangskikking van stof of blomme. Kies die een wat by die persoon se belangstellings en vermoë pas."
+  - q: "Watter kunsprojekte werk goed vir mense met demensie?"
+    a: "Goeie keuses sluit in waterverf op dik papier, collages van tydskrifprente, sagte klei om te knie en druk, bordkrytpastelle op donker papier, blaarafdrukke met wasbare verf, en die rangskikking van lap of blomme. Kies die opsie wat by die persoon se belangstellings en vermoë pas."
   - q: "Hoe kies ek kunsbenodigdhede vir iemand met demensie?"
-    a: "Soek nie-giftige, wasbare materiaal met groot handvatsels en sterk kleure, en vermy klein krale, knope, glinsterpoeier, nat glas, skerp skêr en alles wat ingesluk kan word. Kyk vir allergieë, soos latekshandskoene of sekere verwe. Gebruik goeie kontras, soos wit papier met 'n sterk kleur, en hou die lys van benodigdhede kort."
-  - q: "Kan iemand in die laat fase nog kuns doen?"
-    a: "Ja, met eenvoudige sensoriese vorme. Probeer om sagte klei te druk, met 'n groot kwas op 'n blad water te verf, of stoflappies met verskillende teksture te sorteer. U sal dalk die hand moet lei. Om na die kleure te kyk en daaroor te praat, is ook 'n manier om deel te neem."
+    a: "Soek na nie-giftige, wasbare materiale met groot handvatsels en helder kleure, en vermy klein krale, knope, glinsterpoeier, nat glas, skerp skêre en enigiets wat ingesluk kan word. Let op allergieë, soos latexhandskoene of sekere verfsoorte. Gebruik goeie kontras, soos wit papier met ’n donker kleur, en hou die lys benodigdhede kort."
+  - q: "Kan iemand in die laat stadium nog kuns doen?"
+    a: "Ja, met eenvoudige sensoriese vorms. Probeer sagte klei druk, met ’n groot kwas op ’n skinkbord met water verf, of verskillende lapstrokies voel en sorteer. Jy moet dalk hul hand liggies lei. Om bloot te kyk en oor die kleure te gesels, is ook ’n manier om deel te neem."
   - q: "Wat as hulle sê hulle kan nie verf nie?"
-    a: "Verseker hulle dat kuns gaan oor die geniet van kleur en tekstuur, nie vaardigheid nie. Begin self die eerste streep en nooi hulle uit om voort te gaan. As hulle steeds weier, bied 'n ander aktiwiteit aan; sien die gids oor weiering en frustrasie."
+    a: "Stel hulle gerus dat kuns gaan oor die genot van kleur en tekstuur, nie oor vaardigheid nie. Maak self die eerste kwasstreep en nooi hulle uit om voort te gaan. As hulle steeds weier, bied ’n ander aktiwiteit aan; kyk na die gids oor weiering en frustrasie."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -46,65 +46,65 @@ related: [activities/arts-and-crafts, activities/coloring, activities/sensory, a
 health: false
 ---
 
-Kunsprojekte is 'n lonende manier om tyd saam met iemand met demensie deur te bring. Hulle betrek die hande, die oë en die sintuie, en hulle gee julle iets om oor te praat. Hierdie bladsy bied spesifieke projekte met eenvoudige stappe, plus riglyne oor die veilige keuse van benodigdhede. Vir die beginsels agter volwasse kuns, soos om kinderagtige materiale te vermy, sien [kuns en handwerk vir volwassenes met demensie](/activities/arts-and-crafts/).
+Kunsprojekte is ’n lonende manier om tyd deur te bring saam met iemand wat met demensie leef. Dit betrek die hande, oë en sintuie, en gee julle iets om oor te gesels. Hierdie bladsy bied spesifieke projekte met eenvoudige stappe, tesame met raad oor hoe om materiale veilig te kies. Vir die beginsels agter kuns vir volwassenes, soos om kinderagtige materiale te vermy, sien [kunsvlyt vir volwassenes met demensie](/activities/arts-and-crafts/).
 
 ## Hoe om enige kunsprojek te begin
 
-1. **Maak alles reg voordat u begin.** Lê een of twee materiale, 'n beskermlaken en 'n klam doek uit.
-2. **Wys die eerste stap.** Dompel die kwas, skeur die eerste stukkie, of druk 'n klein klont klei, en nooi hulle uit om dieselfde te doen.
-3. **Werk langs mekaar.** Hou u eie projek naby, sodat die aktiwiteit gedeeld voel en nie gekontroleer nie.
-4. **Praat oor wat u sien.** Beskryf kleure, teksture en vorme in plaas van die werk te beoordeel.
-5. **Stop voordat die energie afneem.** Tien tot twintig minute is dikwels 'n goeie lengte.
+1. **Berei voor voordat jy begin.** Sit een of twee materiale, ’n beskermende seil en ’n klam lap gereed.
+2. **Wys die eerste stap.** Doop die kwas in, skeur die eerste stukkie af, of druk ’n klein stukkie klei, en nooi hulle uit om dieselfde te doen.
+3. **Werk langs mekaar.** Hou jou eie projek naby sodat die aktiwiteit soos ’n gedeelde oomblik voel, nie asof iemand dopgehou word nie.
+4. **Praat oor wat julle sien.** Beskryf kleure, teksture en vorms eerder as om die werk te beoordeel.
+5. **Stop voor die energie daal.** Tien tot twintig minute is dikwels lank genoeg.
 
-Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) noem dat kuns 'n manier is om gevoelens uit te druk en kreatief te wees, sonder dat artistieke vaardigheid nodig is. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) raai aan om aktiwiteite in klein, hanteerbare stappe op te breek.
+Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) wys daarop dat kuns ’n manier is om gevoelens uit te druk en kreatief te wees sonder om artistieke vaardighede nodig te hê. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) beveel aan om aktiwiteite in klein, hanteerbare stappe op te breek.
 
-## Waterverfwas
+## Waterverf-wassing
 
-Gebruik swaar waterverfpapier, 'n groot sagte kwas en 'n paar kleure in vlak koppies. Maak die papier nat met skoon water, en laat hulle dan kleur op die papier laat val. Kantel die papier saggies sodat die kleure kan loop. Die resultaat is 'n sagte, abstrakte prent wat geen plan nodig het nie.
+Gebruik dik waterverfpapier, ’n groot, sagte kwas en ’n paar kleure in vlak bakkies. Maak die papier met skoon water nat en laat hulle dan kleur daarop drup. Kantel die papier liggies sodat die kleure inmekaar vloei. Die resultaat is ’n sagte, abstrakte prent wat geen beplanning verg nie.
 
-- **Vroeë fase:** Laat hulle die kleure kies en 'n landskap verf.
-- **Middelfase:** Bied twee of drie kleure aan en doen die natmaak vir hulle.
-- **Latere fase:** Hou die papier vas terwyl hulle met 'n spons dupies verf.
+- **Vroeë stadium:** Laat hulle kleure kies en ’n landskap verf.
+- **Middelstadium:** Bied twee of drie kleure aan en maak self die papier nat.
+- **Later stadium:** Hou die papier vas terwyl hulle met ’n sponsie dep.
 
-## Tydskrifkollage
+## Tydskrifcollage
 
-Versamel tydskrifbladsye met helder foto's van blomme, kos, diere, motors of reise. Skeur die prente in groot stukke, wat makliker is as sny, en plak hulle op 'n vel karton. Kollage werk goed as 'n gespreksbegin, omdat elke prent tot 'n herinnering kan lei. Dit pas by iemand wat daarvan hou om te sorteer en te kies.
+Versamel tydskrifbladsye met duidelike foto’s van blomme, kos, diere, motors of reis. Skeur die prente in groot stukke—wat makliker as knip is—en plak dit op ’n stuk karton. ’n Collage werk goed om ’n gesprek aan die gang te sit, aangesien elke prent ’n herinnering kan ontlok. Dit pas goed by iemand wat daarvan hou om dinge te sorteer en keuses te maak.
 
 ## Sagte klei
 
-Lugdroogende klei of sagte modelleerklei kan geknyp, gerol en gedruk word. Maak 'n eenvoudige bak of 'n plat teëltjie. Klei is sterk tasbaar, so dit kan kalmerend wees vir mense wat daarvan hou om dinge te hanteer. Hou stukke groot, en vermy gereedskap met skerp punte.
+Lugdroë klei of sagte modelleerklei kan geknyp, gerol en gedruk word. Maak ’n eenvoudige bakkie of ’n plat teël. Klei is baie tasbaar en kan daarom rustigheid bring vir mense wat graag dinge met hul hande hanteer. Hou die stukke groot en vermy gereedskap met skerp punte.
 
-## Kryt-pastels op donker papier
+## Bordkrytpastelle op donker papier
 
-Donker papier laat pastelkleure gloei. Gebruik groot, dik pastels en laat die persoon breë strepe maak of met 'n vinger of 'n sakdoek vermeng. Pastels is stowwerig, so stel op 'n blad op en vee daarna die hande af. Kies sagte pastels wat as nie-giftig gemerk is.
+Donker papier laat pastelkleure helder uitstaan. Gebruik dik pastelkryte en laat die persoon breë hale maak of die kleur met ’n vinger of sneesdoekie meng. Pastelle maak stof, so werk op ’n skinkbord en vee hande agterna af. Kies sagte pastelle wat as nie-giftig gemerk is.
 
 ## Blaarafdrukke
 
-Versamel groot blare uit die tuin, smeer wasbare verf op die are, en druk die blaar op papier. Trek dit versigtig af en bewonder die afdruk. Hierdie projek sluit goed aan by [buite- en tuinaktiwiteite](/activities/outdoor-and-gardening/), en dit kan begin met 'n wandeling om blare te versamel.
+Tel groot blare in die tuin op, verf wasbare verf oor die are, en druk die blaar op papier vas. Trek dit versigtig af en bewonder die afdruk. Hierdie projek skakel goed met [buitelug- en tuinaktiwiteite](/activities/outdoor-and-gardening/), en kan begin met ’n stappie om blare bymekaar te maak.
 
-## Stof en blomrangskikking
+## Lap- en blomrangskikking
 
-Sorteer stoflappies met verskillende teksture volgens aanvoeling, of rangskik 'n paar varsgesnyde blomme in 'n vaas. Dit is sensoriese projekte met baie min druk. Hulle pas ook by mense in die latere fases. Vir meer idees, sien [sensoriese aktiwiteite vir mense met demensie](/activities/sensory/).
+Sorteer lapstrokies met verskillende teksture volgens gevoel, of rangskik ’n paar vars blomme in ’n vaas. Hierdie is sensoriese projekte met bitter min druk. Dit pas ook mense in die later stadiums. Vir meer idees, sien [sensoriese aktiwiteite vir mense met demensie](/activities/sensory/).
 
-## Kies kunsbenodigdhede
+## Keuse van kunsbenodigdhede
 
-Benodigdhede is belangriker vir veiligheid en gemak as vir gehalte. Oorweeg die volgende wanneer u kies:
+Benodigdhede is belangriker vir veiligheid en gerief as vir gehalte. Wanneer jy kies, dink aan die volgende:
 
-- **Nie-giftig en wasbaar:** Soek etikette wat nie-giftig sê, en kontroleer dat verf wasbaar is.
-- **Groot handvatsels:** Dik kryte, dik kwaste en dik pastels is makliker om vas te hou.
-- **Geen klein dele nie:** Vermy krale, knope, sequins en losse glinsterpoeier wat ingesluk kan word.
-- **Geen skerp gereedskap nie:** Gebruik veiligheidskêr of skeur papier met die hand.
-- **Allergieë:** Kontroleer vir latex en vir enige bekende velsensitiwiteite.
-- **Kontras:** Sterk kleure op gewone wit of op donker papier is makliker om te sien.
-- **'n Kort lys:** Twee of drie materiale is genoeg. Te veel keuses kan oorweldigend wees.
-- **Maklike opruiming:** Gebruik 'n blad, 'n plastiekseil en 'n klam doek, sodat rommel nie 'n rede word om op te hou nie.
+- **Nie-giftig en wasbaar:** Soek etikette wat sê nie-giftig en maak seker dat verf afwasbaar is.
+- **Groot handvatsels:** Dik vetkryte, stewige kwaste en groot pastelle is makliker om vas te hou.
+- **Geen klein deeltjies:** Vermy krale, knope, blinkertjies en los glinsterpoeier wat ingesluk kan word.
+- **Geen skerp gereedskap:** Gebruik ’n kinderveilige stompneusskêr of skeur papier met die hand.
+- **Allergieë:** Let op vir latex en enige bekende velgevoelighede.
+- **Kontras:** Helder kleure op skoon wit of donker papier is makliker om te sien.
+- **’n Kort lys:** Twee of drie materiale is genoeg. Te veel keuses kan oorweldig.
+- **Maklike opruiming:** Gebruik ’n skinkbord, ’n plastiekseil en ’n klam lap sodat gemors nie ’n rede word om op te hou nie.
 
-## Aanpassing by fase
+## Pas aan volgens stadium
 
-In die vroeë fase kan die meeste mense 'n projek met 'n bietjie hulp beplan en voltooi. In die middelfase bied u minder keuses en meer leiding. In die latere fase fokus u op sensoriese prosesse soos klei knyp of met 'n spons dupies verf, en geniet die resultaat eerder as die afwerking.
+In die vroeë stadium kan die meeste mense ’n projek met ’n bietjie hulp beplan en voltooi. In die middelstadium bied jy minder keuses en meer leiding aan. In die laat stadium fokus jy op sensoriese prosesse soos om klei te druk of verf met ’n sponsie te dep, en geniet julle die oomblik eerder as die eindproduk.
 
-Vir meer fase-spesifieke idees, sien [vroeë fase](/activities/early-stage/), [middelfase](/activities/middle-stage/) en [aktiwiteite vir die latere fase](/activities/late-stage/). As die persoon weier of frustrerend raak, verduidelik ons gids oor [wanneer iemand nee sê](/caregiving/when-they-say-no/) hoe om terug te trek.
+Vir meer idees volgens stadium, sien [vroeë stadium](/activities/early-stage/), [middelstadium](/activities/middle-stage/) en [laat stadium-aktiwiteite](/activities/late-stage/). As die persoon weier of gefrustreerd raak, verduidelik ons gids oor [wanneer iemand nee sê](/caregiving/when-they-say-no/) hoe om terug te tree.
 
-## Paar dit met 'n speletjie
+## Kombineer met ’n speletjie
 
-Probeer na 'n verfsessie [kleurlê](/games/coloring/) op 'n tablet vir 'n rustiger opvolgaktiwiteit, of 'n [prentlegkaart](/games/picture-puzzle/) as afsluitende aktiwiteit. Albei hou die hande besig sonder om 'n fyn vaardigheid te vra.
+Probeer na ’n verfsessie [inkleur](/games/coloring/) op ’n tablet vir ’n rustiger opvolg, of ’n [prentlegkaart](/games/picture-puzzle/) as ’n afrondingsaktiwiteit. Albei hou hande besig sonder dat fyn vaardighede nodig is.

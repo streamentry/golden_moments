@@ -1,31 +1,36 @@
 ---
-title: "Lakanakɛla yɛrɛ lakana: Sigi, dɛmɛ ani kunnafoniw"
-seoTitle: "Dimansi lakanakɛla yɛrɛ lakana: Sigi ani dɛmɛ"
-description: "Lakanakɛla ka ɲɛnamaya ka bɔ, sigi ni dɛmɛ kɔrɔfɔlen ani kumakan kɛlɛ tɛmɛnen, Alzheimer's Association 24/7 Helpline ani Eldercare Locator cɛ."
+title: "Dɛmɛkɛla yɛrɛ ka kɛwale: Sɔrɔ, dɛmɛ ani fanga bɔra ka kan"
+seoTitle: "Dɛmɛkɛla yɛrɛ ka kɛwale: Sɔrɔ ni dɛmɛ"
+description: "Dɛmɛkɛla fanga bɔra ka kan jɛnɛ, sɔrɔ ni dɛmɛ kɛlɛ sɔrɔli, ani Amerikɛ jamana kɔnɔ wari tɛ ka dɛmɛ telefɔn nimɔrɔw, Alzheimer's Association 24/7 Helpline ni Eldercare Locator dɔ."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Mɔgɔ min dimansi bɛ sɔrɔ, a lakana bɛ gɛlɛya, ani i yɛrɛ lakana ye baara ka se ka kɛ. I ka hakilina min bɛ ka bɔ ka jigi: sɔrɔ ka tɛ ka ɲɛnamaya, ka dusu ka bɔ, ka sɔgɔ tɛ, ani ka fɛnɲɔgɔnw ka se ka tɛ. Dɛmɛ kɔnɔ dɔ fɔ ka ɲɛnamaya, sigi dɛmɛ ka kɛ, ani dɛmɛ-sigi kɔrɔ ka ɲɛnamaya. Dɛmɛ ye Amerikɛ na, Alzheimer's Association 24/7 Helpline, 1-800-272-3900, ani Eldercare Locator, 1-800-677-1116, ye dɛmɛ tɛmɛnen ye.
+  Alzheimer ka dementia bɛ mɔgɔ min na, a dɛmɛ kɛli ka gɛlɛya, ani i yɛrɛ ka
+  kɛwale ye o kɛwale kɔnɔ dɔ ye. Hakilina ka jɛnɛ dɔw ɲɛnɛ: fanga tɛmɛn,
+  dusukun jɔ, sɔgɔ tɛ se ka sɔn, ani i ka teriw ka bɔ i yɛrɛ ma. I ka dɛmɛ
+  kɛlɛ dɔ ɲini, sɔrɔ dɛmɛ ka sɔrɔ, ani kulu dɛmɛ ka sɔrɔ. Amerikɛ jamana kɔnɔ
+  dɛmɛ wari tɛ ka sɔrɔ: Alzheimer's Association 24/7 Helpline, 1-800-272-3900,
+  ani Eldercare Locator, 1-800-677-1116.
 keyPoints:
-  - "Lakanakɛla ka ɲɛnamaya bɛ bɔ ka sɔrɔ ka tɛ, ka dusu ka bɔ, ka sɔgɔ tɛ, ka hɔrɔ ka bɔ, ani ka i yɛrɛ ka dɔgɔtɔrɔ ka sɛnɛ."
-  - "Sigi dɛmɛ bɛ kɛ i ka sigi ye, san dɔ bɔ ka se sɔgɔnin kɛma, a bɛ kɛ so kɔnɔ walima dɛmɛ-so kɔnɔ."
-  - "Baara dɔ ko ye dɛmɛ kɛ; mɔgɔ caman bɛ dɛmɛ kɛ, nka u tɛ a dɔn ko u ka se ka kɛ cogo di."
-  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) bɛ dɛmɛ kɛ ko tɛ wari ni ko ka dɔn, waati o waati."
-  - "Eldercare Locator (1-800-677-1116) bɛ i fara kunnafoniw ni dɛmɛ-so ɲɔgɔn ma, an ka Area Agency on Aging cɛ."
-  - "Ni i hakili bɛ ka gɛlɛya ka bɔ ka ɲɛnamaya ka kɛ, i ka 988 wele walima sms kɛ. Ni sɔrɔ ye gɛlɛya ye, i ka sigilanw wele ni dɔɔnin ye (Amerikɛ: 911)."
+  - "Dɛmɛkɛla fanga bɔra bɛ jɛnɛ kɔnɔ: fanga tɛmɛn, dusukun jɔ, sɔgɔ tɛ se ka sɔn, dusukun kɔnɔ ɲɛ tɛ, ani i yɛrɛ ka dɔgɔya tuma min na."
+  - "Dɛmɛ sɔrɔli bɛ se ka i ka ɲɛ: a bɛ se ka waati dɔ bɔ, lɔgɔ kelen fɔlɔ ka se kɔ dɔgɔ kelen fɔlɔ, o bɛ se ka kɛ i ka so kɔnɔ walima dɛmɛ yɔrɔ kɔnɔ."
+  - "Dɛmɛ ɲini kɛwale jɛnɛ kɔnɔ; mɔgɔ caman bɛ fɛ ka dɛmɛ kɛ, nka u tɛ a dɔn cogo min na."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) bɛ dɛmɛ wari tɛ ka sɔrɔ, ani a bɛ kuma ka ɲɛnɛmajɔ waati o waati."
+  - "Eldercare Locator (1-800-677-1116) bɛ i ka kan ka dɛmɛ yɔrɔ sigiyɔrɔ kɔnɔ, o kɔnɔ ka Area Agency on Aging fana."
+  - "Ko i ye hakilina kɔnɔ ka gɛlɛya, 988 ka telefɔn ka kɛ walima ka sɛbɛ. Kɔrɔfɛ kɔnɔ, i ka kɔrɔfɔ nimɔrɔ ka telefɔn ka kɛ."
 faq:
-  - q: "Lakanakɛla ka ɲɛnamaya kɔfɛ ye jɔnw ye wa?"
-    a: "Kunnafoniw ye: sɔrɔ, dusu bɛ ka dɛ walima ka bɔ kɔnɔ, dusu bɛ ka bɔ ka jigi tɛ, kɔnɔ bɛ ka dɔ, dusu bɛ ka sɔgɔ walima ka hakilina tɛ, fɛnɲɔgɔnw la ka sigi tɛ, ani sɔrɔ ka bɔ ka kɛ ka dɔgɔtɔrɔ. Ni kunnafoniw nin bɛ kɛ waati caman na, i ka dɔgɔtɔrɔ ka kuma."
-  - q: "Ne bɛ se ka dɛmɛ-sigi min ka kɔrɔ sɔrɔ wa?"
-    a: "I ka fɔ Eldercare Locator (1-800-677-1116 walima eldercare.acl.gov) ma, ka se ka i ka Area Agency on Aging sɔrɔ, ARCH National Respite Locator Service, walima Alzheimer's Association Helpline (1-800-272-3900). Fa, teriw ani dɛmɛkɛlaw fana bɛ se ka dɛmɛ-sigi kɛ."
-  - q: "Medicare bɛ dɛmɛ-sigi wari ta wa?"
-    a: "Mɔgɔ min bɛ hospice dɛmɛ sɔrɔ, Medicare bɛ wari caman ta, ka se ka tile kelen kɔfɛ tile duuru ma dɛmɛ-sigi hôpital walima skilled nursing facility kɔnɔ, National Institute on Aging ka fɔ cogo. Hakilina caman ka sɛnɛkɛ tɛ dɛmɛ-sigi wari ta; Medicaid ani sɔrɔ long-term care insurance dɔw bɛ se ka dɛmɛ."
-  - q: "Ka Alzheimer's Association Helpline ye wari ta ani a bɛ kɛ dibi la wa?"
-    a: "Ɔn. Alzheimer's Association ko a Helpline 1-800-272-3900 bɛ wari ta, ko tɛ wari ni ko ka dɔn, ani a bɛ baara kɛ waati bɛɛ, tile bɛɛ, ani kɛlɛ caman na. I bɛ se ka 711 wele relay service ye."
-  - q: "Ka lakanakɛla ka sigi ye hakilina tɔgɔ wa?"
-    a: "Ɔ́o, o tɛ. Sigi bɛ i ka se ka lakana ka tɛmɛ, ani dɛmɛ-sigi bɛ se ka kɛ ko i ka mɔgɔ fana ka kɛlɛ ni baara yɔrɔ dɔ yɛrɛ bɛ. Lakanakɛlaw caman bɛ fɔ kɔfɛ ko u bɛ hakili ka i ka dɛmɛ wele kuncɛ."
+  - q: "Dɛmɛkɛla fanga bɔra ka kan jɛnɛ mun ye?"
+    a: "Jɛnɛ caman ye fanga tɛmɛn, ko i bɛ gɛlɛya walima i bɛ hakilina kɔnɔ ɲɛnɛ, i bɛ dimi walima i bɛ ɲɛnɛ, i bɛ sɔgɔ tɛ se ka sɔn, i bɛ dusukun jɔ walima i bɛ hakilina bɔ, i bɛ teriw ka bɔ i yɛrɛ ma, ani i bɛ i ka dumuni, i ka kɛlɛ walima i ka dɔgɔya ka sɔrɔ wari kɔnɔ tɛ. Ko jɛnɛ nin bɛ kɛ tuma caman na, i ka kuma ni i ka dɔkitɔrɛ ye."
+  - q: "Ne bɛ se ka dɛmɛ kɛlɛ sɔrɔ min ne sigiyɔrɔ kɔnɔ?"
+    a: "Ka daminɛ Eldercare Locator ye (1-800-677-1116 walima eldercare.acl.gov), o bɛ i ka kan ka Area Agency on Aging ye, ani ARCH National Respite Locator Service, walima Alzheimer's Association Helpline, 1-800-272-3900. Bɔɲɔgɔnw, tɔgɔnw ani dɛmɛkɛlaw fana bɛ se ka dɛmɛ kɛlɛ kɛ."
+  - q: "Medicare bɛ dɛmɛkɛla sɔrɔli wari di wa?"
+    a: "Mɔgɔ min bɛ hospice dɛmɛ sɔrɔ, National Institute on Aging ko, Medicare bɛ se ka sɔrɔ wari caman di, lɔgɔ kɔnɔ 5 ka se kɔ, hopital walima skilled nursing facility kɔnɔ. Dɛmɛ sɔrɔli ka wari caman tɛ dɔ ka assurance kɔnɔ; Medicaid ani assurance dɔw bɛ se ka dɛmɛ."
+  - q: "Alzheimer's Association Helpline bɛ wari tɛ ka sɔrɔ wa, ani a bɛ kuma ka ɲɛnɛmajɔ wa?"
+    a: "Ɔwɔ. Alzheimer's Association ko a Helpline, 1-800-272-3900, bɛ wari tɛ ka sɔrɔ, kumakan bɛ maa ni a ka kanu ye, ani a bɛ waati bɛɛ kɛ, don 365 kɔnɔ. Dɛmɛ bɛ sɔrɔ kuma caman kɔnɔ. Ko i bɛ relay service ka di, 711 ka telefɔn ka kɛ."
+  - q: "Dɛmɛkɛla kɔnɔ waati ɲɛnɛma ye hakilina ye wa?"
+    a: "Ɔxɔ. Ɲɛnɛma bɛ i ka dɛmɛ ka kan ka i ka dɛmɛ kɛ tuma caman na. Dɛmɛkɛla caman b'a fɔ kɔfɛ ko u ka kan ka u ka dɛmɛ ɲini fɔlɔ."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -62,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-Ni i bɛ mɔgɔ lakana min bɛ dimansi sɔrɔ, i ka bɔ ka kɛ i ka ɲɛnamaya kɔnɔ, a bɛ se ka kɛ ko i bɛ ɲɛnamaya ka tiɲɛ. Ka i yɛrɛ lakana tɛ kɛ nafolo walima baara ka sara ye. O bɛ i ka se ka tɛmɛ.
+Ko i bɛ dɛmɛ kɛ mɔgɔ min bɛ dementia la, i bɛ se ka sɔn i bɛ ten sɔgɔma, i bɛ gɛlɛya, ani i bɛ kɛwale caman ye min i ma kɛ. O ye hɛrɛ ye. I yɛrɛ ka kɛwale ye kɛwale ye min tɛ fɛn ɲɔgɔn ye, tɛ sɔrɔ-fɛn ye kɛwale ka kɔ. O ye min bɛ i ka se ka taa ɲɛ.
 
-Nin kɔnɔ, i bɛ kunnafoniw ye ka sɔrɔ ka bɔ ka dɔɔnin, ka sigi ka se ka sɔrɔ, ka dɛmɛ sɔrɔ, ani kumakan kɛlɛ min bɛ se ka wele bi walasa.
+Nin kɔnɔ bɛ jɛnɛ kɔnɔ dɛmɛkɛla fanga bɔra ka kan, ni i bɛ ɲɛnɛma sɔrɔ cogo min na, dɛmɛ bɛ min sɔrɔ, ani Amerikɛ jamana kɔnɔ wari tɛ ka telefɔn nimɔrɔw min bɛ se ka kɛ bi.
 
-## Lakanakɛla ka sɔrɔ ka bɔ ka dɔɔnin cogo di?
+## Dɛmɛkɛla fanga bɔra ka kan jɛnɛ bɛ mun ye?
 
-Lakanakɛla ka sɔrɔ bɛ bɔ ka sɔgɔ ka tɛ, o de y'a sababu ka i yɛrɛ hakilina dɔn. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) bɛ lakanakɛla sɔrɔ kunnafoniw fɔ, u bɛ kɛ:
+Fanga bɔra bɛ na ɲɔgɔn ɲɔgɔn, o de kama, i ka jɛnɛ dɔn ka ɲɛ. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ko dɛmɛkɛla gɛlɛya jɛnɛ dɔw bɛ, olu ye nin ye:
 
-- sɔrɔ, gɛlɛya walima hakili ka ɲɔ;
-- dusu ka bɔ ka dɛ walima ka bɔ kɔnɔ;
-- ka dɔgɔ walima mɔgɔw ma ka tɛ ɲɔgɔn ye;
-- sɔgɔ tɛ walima sɔgɔ ka dɔgɔ;
-- dusu ka bɔ, walima fɛn min ka di i ye tɛmɛ ka bɔ;
-- kɔnɔ ka dɔ ka sɔrɔ, walima sɛnɛ ka bɔ;
-- waati tɛ ka sɔrɔ walima ka dumuni ɲɛnɛ ka ye yɛrɛ ye;
-- ka wuluw walima ka i yɛrɛ ka kɛnɛ ka tɛ;
-- ka jiri walima ka dawuru walasa ka kɛ, o ka kan walasa dɔgɔtɔrɔ ka bɔ.
+- fanga tɛmɛn, gɛlɛya walima hakilina kɔnɔ ɲɛnɛ;
+- i bɛ dimi ka tɛmɛn walima i bɛ ɲɔgɔn ma dimi;
+- i bɛ kɔrɔ, walima i bɛ teri ni i ka teriw ɲɔgɔn ye;
+- sɔgɔ tɛ se ka sɔn, walima sɔgɔ ka tɛ;
+- dusukun jɔ, walima hakilina bɔ, walima kɛwale i bɛ fɛ ka kɛ tẹ;
+- kɔngɔ dimi caman, dimi walima nɔgɔya dɔw;
+- i ka waati tɛ ka sɛnɛ kɛ walima ka dumuni ɲɛnɛ min ka ɲɛ i yɛrɛ ye;
+- i bɛ i yɛrɛ ka sirɛ ni i yɛrɛ ka kɛwale bɔ;
+- i bɛ ji walima dɔgɔya fɛn bɛ ka kɛ, o kɔnɔ ka dawuro min bɛ dɔkitɔrɛ ka kan.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) bɛ kunnafoniw caman fara ɲɔ: dimansi ka dɔn tɛ ka kuma, mɔgɔ min lakana ka dɔ ("a bɛ jiri kɛ ka ɲɛ"), kɔfɛ ka gɛlɛya, hakili ka dɔgɔya ka fɛn caman la, ani sɛnɛ gɛlɛya. A bɛ fɔ ko i ka dɔgɔtɔrɔ ka kuma ni i bɛ o kunnafoniw sɔrɔ waati caman na.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ka fɔ dɔw fana, i ko: mɔgɔ min bɛ dementia la, o ka bana kɔnɔ tɛ dɔn ("a bɛ ɲɔgɔn kɛ"), o ko kɔnɔ mɔgɔ ye, hakilina ka gɛlɛya kɛnɛ ɲɛnɛ, siga ɲɛnɛ, ni fɛn ɲɛnɛ, ani dɔkitɔrɛ kɔnɔ kɛlɛ bɛ i ka ɲɛ. A b'a fɔ ko i ka kan ka kuma ni i ka dɔkitɔrɛ ye ko jɛnɛ nin bɛ kɛ tuma caman na.
 
-NIA ka kuma ye ko i kana ɲɛnɛ fɔ i ka se ka kɛ sɛnɛ bɛɛ. Hakilina i ka kunnafoniw ɲɛnɛ, ka u ko kɔfɛ.
+NIA ka kuma ko i kan ka tɛ ɲɛnɛ sɔrɔ ni i bɛ gɛlɛya kosɛbɛ. I ka jɛnɛ ɲɛnɛ fɔlɔ, ka kɛwale ɲɛ ni o ye.
 
-## Ne bɛ se ka mun kɛ bi, sanga miniti duuru kɔnɔ?
+## Ne bɛ se ka mun kɛ bi, miniti 5 kɔnɔ?
 
-Waati tɛmɛnen fana bɛ kɛ. Nin dɔw tɛ lakanakɛla ka sɔrɔ ka ban, nka u bɛ se ka dɛmɛ ka tile gɛlɛn kɔnɔ.
+Dɛmɛ fitinin fɛ, o bɛ kɛ dɛmɛ. Nin fɛnw tɛ dɛmɛkɛla fanga bɔra dɔn, nka u bɛ se ka i dɛmɛ tile gɛlɛn kɔnɔ.
 
-- **Ka bɔ so kɔnɔ.** Sigi jiri la walima taama ka taa kisɛ-so ma, ni mɔgɔ min bɛ lakanakɛla ka ɲɛmɔgɔ sigi.
-- **Ka hɛrɛ ka sɔrɔ ka bɔ ka tɛmɛ.** Hɛrɛ tɛmɛnen dɔ ka dɔ ka kuma ni gɛlɛn kuma ka jaabi. I bɛ se ka [Calm Breathing](/games/calm-breathing/) hɛrɛ tɛmɛnen ka kɛ mɔgɔ min bɛ i lakana, ni a ka kɛ.
-- **Ji min ka min ka dumuni dɔ ka ɲɛnama.** I ka dumuni tɛ fɛn caman ka dɔn.
-- **Teri kelen dɔ ka wele ka sms kɛ.** Ka fɔ fɛn dɔ ka dɔn tɛ, ka kɔrɔ ka fɛn bɛɛ ka dɔn.
-- **I yɛrɛ ka kuma ka di.** NIA ka [kumakan ka i yɛrɛ lakana ka kuma](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) bɛ kuma nin ye: "Ne bɛ ne ka se ka kɛ tuma bɛɛ," "Ne tɛ hɛɛrɛ ye, ko tɛ ko," ani "Ne bɛ wasa ka ɲɛmɔgɔ waati min na, ko min ka kɛlɛ ɲɔgɔn ye."
+- **Bɔ so kɔnɔ.** Sigi da kɔnɔ walima taa ka se ka sɔrɔ, ni mɔgɔ min bɛ dɛmɛ sɔrɔ, a bɛ sigi ka ɲɛnɛ.
+- **Ka hɛrɛ sɔrɔ.** Hɛrɛ sɛgɛ fɔlɔ, i ka kuma ka ɲɛ ka gɛlɛya kuma ka ɲɛ. I bɛ se ka [Calm Breathing](/games/calm-breathing/) ka hɛrɛ sɔrɔ ni mɔgɔ min bɛ dɛmɛ kɛ, o fana bɛ kɛ.
+- **Ji min ka dumuni dɔ.** I ka dumuni bɛ se ka ɲɛnɛ.
+- **Teri kelen ka sɛbɛ.** Ka kɛ ni a ka sɔrɔ dɛmɛ kɛlɛ ye tɛ, ka kɛ ni a ka kɛ ka ɲɛ ye kɛ.
+- **I yɛrɛ ka kuma ɲɛ.** NIA ka [i yɛrɛ ka kɛwale kalan](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) b'a fɔ ko i ka kuma ɲɛ kɛ i yɛrɛ ye, i ko "Ne bɛ ne ka nɔ bɛɛ kɛ," "Ne tɛ kɛ hakɛ ye, o ye ɲɛ," ani "Ne bɛ ɲɛ ka sɔn waati min na an bɛ sigi ka hɛrɛ kɔnɔ."
 
-## Sigi dɛmɛ ye jumɛ ye, ani ne bɛ o sɔrɔ cogo di?
+## Sɔrɔ dɛmɛ ye mun ye, ani ne bɛ se ka min sɔrɔ?
 
-Sigi dɛmɛ ye lakanakɛla ka dɛmɛ ye, mɔgɔ min bɛ i lakana, walasa i ka se ka sigi. NIA ka [dɛmɛ-sigi kunnafoni](https://www.nia.nih.gov/health/caregiving/what-respite-care) ko a bɛ se ka wɔrɔ ka tile kelen kɔfɛ ka se ka kɛ kɛnɛ ka tile dɔw kɔfɛ, a bɛ se ka kɛ so kɔnɔ, walima sɛnɛya yɔrɔ kɔnɔ, walima dɛmɛ-so kɔnɔ ka mɔgɔw lakana.
+Sɔrɔ dɛmɛ ye dɛmɛ ye min bɛ mɔgɔ min ka ɲɛ, o kɛ dɛmɛ ye dɔgɔ. NIA ka [sɔrɔ dɛmɛ kalan](https://www.nia.nih.gov/health/caregiving/what-respite-care) b'a fɔ ko a bɛ se ka kɛ waati kɔnɔ lɔgɔ kelen fɔlɔ ka se kɔ dɔgɔ kelen fɔlɔ, ani a bɛ se ka kɛ so kɔnɔ, dɛmɛ yɔrɔ kɔnɔ walima adult day care center kɔnɔ.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) bɛ dɛmɛ-sigi ko caman fɔ:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) b'a fɔ sɔrɔ dɛmɛ ko caman:
 
-| Ko | A ye jumɛ ye |
+| Nɔ | A ye mun ye |
 | --- | --- |
-| So kɔnɔ dɛmɛ | Teri, balimaw, dɛmɛkɛla walima baara kɛlaw bɛ na so kɔnɔ |
-| Dɛmɛ-so kɔnɔ mɔgɔ dumuni | Baara tɛmɛnen, i ko dunun ani sɛnɛ, mɔgɔ caman ɲɔgɔn fɛ; taama ani dumuni caman bɛ di |
-| Dibi walima tile dɔw sigi | Long-term care so bɛ mɔgɔ lakana dibi kelen, tile dɔw walima kɛnɛ tile dɔw |
+| So kɔnɔ dɛmɛ | Teri, bɔɲɔgɔn, dɛmɛkɛla walima wari sɔrɔ dɛmɛkɛla bɛ na so kɔnɔ |
+| Adult day center | Kɛlɛ dɔw bɛ kɛ, i ko dumuni ni ɲɛnɛmajɔ, yɔrɔ ka ɲɛ ni mɔgɔ caman bɛ yen; waliman ni dumuni bɛ di caman |
+| Tile walima dɔgɔ kɔnɔ sigi | Mɔgɔ min bɛ dɛmɛ sɔrɔ, sigiyɔrɔ min bɛ dɛmɛ kɛ waati caman kɔnɔ, o bɛ mɔgɔ min ka dɛmɛ kɛ tile kelen, don kelen walima don caman kɔnɔ |
 
-**Jɛɲɔgɔnw bɛ wari di jumɛn?** NIA ko, teriw, balimaw walima dɛmɛkɛlaw ka dɛmɛ bɛ se ka kɛ tɛ wari ta. Baara kɛlaw bɛ wari ta waati walima tile kelen. Mɔgɔ min bɛ hospice dɛmɛ sɔrɔ, Medicare bɛ wari caman ta, ka se ka tile kelen kɔfɛ tile duuru ma dɛmɛ-sigi hôpital walima skilled nursing facility kɔnɔ. Medicaid bɛ se ka dɛmɛ. Hakilina caman ka sɛnɛkɛ tɛ dɛmɛ-sigi wari ta, nka long-term care insurance dɔw bɛ o ta.
+**Jɔ bɛ wari di?** NIA b'a fɔ ko teri, bɔɲɔgɔn walima dɛmɛkɛla ka dɛmɛ bɛ se ka kɛ tɛ wari ye. Dɛmɛ sɔrɔ bɛ wari di waati walima don kelen kelen. Mɔgɔ min bɛ hospice dɛmɛ sɔrɔ, Medicare bɛ wari caman di, lɔgɔ kɔnɔ 5 ka se kɔ, hopital walima skilled nursing facility kɔnɔ. Medicaid bɛ se ka dɛmɛ. Assurance caman tɛ sɔrɔ dɛmɛ sɔrɔli wari ye, nka assurance dɔw bɛ se ka kɛ.
 
-**Kɔrɔfɔli:** Alzheimer's Association bɛ fɔ ko i ka dɛmɛ-sigi kɛlaw ɲɛ ka kɛ waati min tɛ gɛlɛya, walasa u ka kɛ ni i bɛ dɛmɛ wele kɔfɛ.
+**Ɲɛnɛmajɔ:** Alzheimer's Association b'a fɔ ko i ka dɛmɛ sɔrɔ kɔrɔfɛ ma kɛ tile min na, o ka kɛ fɛn ye, i ka waati ka sɔrɔ.
 
-## Ne bɛ dɛmɛ sɔrɔ min ka kɔrɔ cogo di?
+## Ne bɛ se ka dɛmɛ min sɔrɔ ne sigiyɔrɔ kɔnɔ?
 
-Dɛmɛ-sigi caman bɛ wari ta, u bɛ se ka i ka dɛmɛ.
+Amerikɛ jamana kɔnɔ dɛmɛ telefɔn caman bɛ wari tɛ ka sɔrɔ, u bɛ se ka i ka yɔrɔ kɔnɔ dɛmɛ fɔ i ma.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) bɛ wari ta, ani a bɛ kuma ko tɛ wari ni ko ka dɔn. A bɛ baara kɛ waati bɛɛ, tile bɛɛ, san bɛɛ, ani kumakan caman bɛ se ka kɛ, nka a bɛ kuma ni kɛnɛya kɔfɛ ka kɛ bilingual kɛlaw walima interprètes fɛ. I bɛ se ka 711 wele relay service ye. I bɛ se ka kuma dimansi ka hakilina yɛlɛmanw ko, lakanakɛla ka gɛlɛya, dɛmɛ-sigi ko, sigi yɔrɔ ko dɔw, ani fɛn wɛrɛw ko, ani i bɛ se ka kuma kɛlaw ni care consultant ka waati dɔ ye. Kɛlaw tɛ dɔgɔtɔrɔ ka kumakan di.
-- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living ka sɛbɛn lakɔlɔsi, bɛ i ka mɔgɔ kɔrɔ, ani a fa ka dɛmɛ. I bɛ se ka wele, sms kɛ, online chat kɛ walima email ci kɛlaw ma, walima i bɛ se ka dɛmɛ sɔrɔ sigi kɔnɔ. A bɛ se ka i ka Area Agency on Aging ɲɛ.
-- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) bɛ dɛmɛ-sigi kɛlaw sɔrɔ jamana kɔnɔ kɔrɔ, ani a bɛ fɔ ko i ka State Respite Coalition walima Lifespan Respite programme wele kɔfɛ, ni i jamana bɛ o sɔrɔ. ARCH ko a tɛ dɛmɛ-sigi kɛlaw ka laadɔ ɲɛnɛ, o de y'a sababu ka i yɛrɛ ka u ka dɔn ka ɲɛnɛ.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) bɛ wari tɛ ka sɔrɔ, ani kuma bɛ maa ni a ka kanu ye, waati bɛɛ, don 365 kɔnɔ, ni kumakan bɛ kuma caman kɔnɔ, bilingual ka kumakan walima interpreter dɛmɛ ye. Ko i bɛ relay service ka di, 711 ka telefɔn ka kɛ. I bɛ se ka kuma ko hɛrɛ kɔnɔ, dɛmɛkɛla gɛlɛya, sɔrɔ dɛmɛ, sigiyɔrɔ kɔnɔ kɛlɛ, ani fɛn wɛrɛw ka kuma. I bɛ se ka wagati caman ni care consultant kuma. Kumakan tɛ dɔkitɔrɛ dɛmɛ fɔ.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living ka sigiyɔrɔ ye, bɛ i ka kan ka dɛmɛ ka kan mɔgɔ kɔrɔfɛnw ni u ka bɔɲɔgɔnw ma. I bɛ se ka telefɔn ka kɛ, sɛbɛ, chat online walima email ka kɛ, walima i bɛ yɔrɔ ka sɛbɛ. A bɛ i ka kan ka Area Agency on Aging ye.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) bɛ sɔrɔ dɛmɛ kɛlɛ ka kan ka sigiyɔrɔ ye. A b'a fɔ ko i ka kan ka kuma ni State Respite Coalition walima Lifespan Respite programme ye fɔlɔ, ko sigiyɔrɔ kɔnɔ bɛ min na. ARCH b'a fɔ ko a tɛ dɛmɛ kɛlɛ ka cogoya ɲɛ; i yɛrɛ ka a ka kɛwale, a ka dɔnniya ani a ka tɔgɔ ɲɛ.
 
-## Ne bɛ dɛmɛ-sigi kɛ cogo di?
+## Ne bɛ se ka kulu dɛmɛ sɔrɔ cogo di?
 
-I ka Helpline wele, walima ka online ɲɛnɛ sigi kɛlaw ye i sigi yɔrɔ kɔrɔ. Alzheimer's Association [bɛ sigi kɛlaw kɛ](https://www.alz.org/help-support/community/support-groups) lakanakɛlaw ni dimansi sɔrɔlen mɔgɔw ye, ka kɛ ni mɔgɔw ye yɔrɔ kelen na, walima online, kɔrɔfɔlen kalanfɛlaw fɛ. Yɔrɔ caman bɛ sigi kɛlaw kɛ mɔgɔ dɔw ye, i ko lakanakɛlaw ye sɔrɔ ka tɛ dimansi ko ka kɔrɔ, walima dimansi ka ɲɛnamaya ka mɔgɔw ye, u min bɛ gɛlɛya dimansi fɔlɔ walima bɔ kɔrɔ ka dimansi kɛlɛ.  A bɛ ALZConnected fana kɛ, online ɲɔgɔn ye, kɔrɔ min kɔnɔ lakanakɛlaw bɛ kuma ka dɛmɛ ɲɔgɔn ma.
+Helpline ye kuma ka dɛmɛ ko, walima i bɛ kulu dɛmɛ ye, ka kɛ sigiyɔrɔ ye, i bɛ kulu sɔrɔ i ka sigiyɔrɔ kɔnɔ. Alzheimer's Association [bɛ kulu ɲɛnɛ](https://www.alz.org/help-support/community/support-groups) dɛmɛkɛlaw ni mɔgɔ min bɛ dementia la ye, yɔrɔ kɔnɔ ni internet kɔnɔ, o kulu bɛ ladilikan ka kuma kɔnɔ. Yɔrɔ caman bɛ kulu wɛrɛw fana kɛ, i ko dɛmɛkɛlaw kulu walima mɔgɔ min bɛ dementia la, ka kɛ nɔ kɔnɔ mɔgɔ ye min bɛ se ka dɔgɔya ka kɛ. A bɛ ALZConnected fana kɛ, o ye internet kɔnɔ ɲɔgɔn ye, wari tɛ ka sɔrɔ, dɛmɛkɛlaw bɛ u ka kuma ɲɛ ka kɛ.
 
-Sigi kɛlaw bɛ se ka kɛ yɔrɔ min kɔnɔ i bɛ se ka i ka dusu ka bɔ ka hakili ka jɔ, mɔgɔ tɛ i kɔlɔsi, mɔgɔ min ka kuma bɛ dɛmɛ kɛ, u min tɛ ka dɛmɛ tɛmɛ. Ni sigi fɔlɔ tɛ i ye, i ka wele wɛrɛ kɔnɔ.
+Kulu bɛ se ka kɛ yɔrɔ min na i bɛ se ka i ka hakilina bɔ kuma ni mɔgɔ ye, mɔgɔ min ka kumakan bɛ kɛ kɔfɛ, ni i bɛ ɲɔgɔn kɔnɔ kɔfɛ ka dɔgɔya. Ko kulu fɔlɔ tɛ i ye, i ka wɛrɛ ɲini.
 
-## Ne bɛ dɛmɛ sɔrɔ ni balimaw ni teriw ma cogo di?
+## Ne bɛ se ka dɛmɛ ka kan ni teriw ni i ka teriw ye cogo di?
 
-I ka fɛn kɛ kɔrɔ. Mɔgɔ caman bɛ dɛmɛ kɛ, nka u tɛ a dɔn ko u bɛ se ka fɛn min kɛ. NIA bɛ laɲini nin ye:
+Kuma i ka tɔɲɔ. Mɔgɔ caman bɛ fɛ ka dɛmɛ kɛ, nka u tɛ dɔn o min bɛ se ka kɛ. NIA b'a fɔ:
 
-- **Ka fɛnw sɛbɛn** min bɛ kɛ baara ye, mɔgɔ wɛrɛw bɛ se ka u sɔrɔ, ka u kɛ ka mɔgɔ dɔ ka sugandi.
-- **Ka fɔlɔ dɔgɔ** ni i ka kɔnɔ bɛ ka gɛlɛya ka dɛmɛ wele.
-- **Ka baara ka mɔgɔ ka se ka kɛ ka sugandi.** Balimakɛ min bɛ mɔgɔ dumuni kɛ, a bɛ dumuni kɛ Tile naani. Teri min bɛ sɛbɛn kɛ kɔrɔ, a bɛ dɛmɛ kɛ kɔlɔsi dɛmɛ kɔnɔ.
-- **Ka sɛbɛn walima email ci** ni ka mɔgɔ ɲɛ ka kuma ka gɛlɛya.
-- **Ka jaabi kɛnɛya ka tɛmɛ** ni mɔgɔ dɔ dɛmɛ fɔ: "I ni ce ka kɛnɛ, nka i ka dɛmɛ bɛ se ka kɛ cogo di."
-- **Ka dɔ ka makɛ ka tɛ** ni mɔgɔ dɔ ka wale.
+- **Kɛlɛ dɔnkɔ ɲɛ** min bɛ se ka kɛ mɔgɔ wɛrɛw ka kɛlɛ, ka kɛ ka sɔrɔ.
+- **Dɛmɛ fitinin fɛ** ni ne ka kuma ka gɛlɛya.
+- **Kɛlɛ ni mɔgɔ ɲɔgɔn ka ɲɛ.** Dɔnsɛ ni tɛ ka kɛ ni dumuni ye, o bɛ dumuni kɛ Alamisi. Mɔgɔ min dɔn ka sɛbɛ, o bɛ dɛmɛ kɛ ka sɛbɛ kɛlɛw kɔnɔ.
+- **Sɛbɛ walima email ka kɛ** ni i tɛ se ka kuma ni mɔgɔ ye ɲɛ ko.
+- **Jaabi ɲɛ** ni mɔgɔ ye dɛmɛ fɔ: "Ne ni hɛrɛ kɛ. Nin ye min bɛ se ka kɛ."
+- **Ka kɛ ka "ɔ-ɔ" ɲɛ dɔw sɔrɔ**, ani kana o hakɛ ɲɛ.
 
-Fɛn wɛrɛw: mɔgɔ dɔ ka sɔrɔ ka so ka mɔgɔ lakana tile kelen na, ka taama ka kɛ kɔrɔ, walima ka wasa ka wɛrɛ ka dumuni. [Kɔrɔ min bɛ sigi kɛ](/caregiving/how-to-play-together/) bɛ kɔrɔ ka jɛ kɛlaw ye.
+Ɲɛnɛma fɛnw: mɔgɔ ka sigi ni mɔgɔ min bɛ dɛmɛ sɔrɔ, kɔrɔ kelen tile kelen kɔnɔ; ko i ka mɔgɔ ka dɔnkɔ kelen ka sɛnɛ ka kɛ; walima i ka mɔgɔ ka kɔfɛ ka kɛ, ka kɛ ka kɛlɛ dɔ ɲɛ, ka kɛ ka kɛlɛ ɲɔgɔn kɛ. Ko i bɛ se ka kɛ ni ɲɛnɛmajɔ ye, [kɛlɛ ɲɔgɔn ɲɛ](/caregiving/how-to-play-together/) bɛ se ka dɛmɛ kɛ ka mɔgɔ ye ka nɔ.
 
-## Ni ne ka dɛmɛ bɛ kɛ ko fɛn dɔ kɛ ne ka kɔnɔ, ne bɛ kɛ cogo di?
+## Ko ne ye tɛ se ka kɛ tuma min na, ko mun bɛ kɛ?
 
-Ko kɛ sisan ni i ka se ka kɛ ko min bɛ kɛ. NIA ko i ka mɔgɔ dɔ fɔ balimaw ni teriw ma, o bɛ sɔrɔ ni nɔ, ka sigi, ani ka kɔrɔ mɔgɔ ka tɔgɔ ni ka keme min bɛ kɛ, ka dawuru tɛmɛnen ni kɔrɔ min bɛ mɔgɔ ka ɲɛnamaya kɔnɔ. Alzheimer's Association fana bɛ laɲini ko i ka mɔgɔ ka dɔgɔtɔrɔ ka ɲɛnɛ ni dawuru ka sɛbɛn ka ɲɛnɛ sɔrɔ ka kɛ sɛbɛn ye.
+Ka ɲɛnɛma wɛrɛ kɛ sisan. NIA b'a fɔ ko i ka kan ka mɔgɔ dɔ ɲini min bɛ dɛmɛ kɛ, o ka kan ka kɛ i ka mɔgɔ ye, ani i ka kan ka nɔ ni i ka kuma ye, mɔgɔ min bɛ dɛmɛ kɛ kɔnɔ fɔ. A b'a fɔ ko i ka kan ka sɛbɛ i ka dɔkitɔrɛ nimɔrɔw ni i ka dawuro ka ɲɛ, ani i ka kɛlɛ dɔnkɔ.
 
-## Ni ne bɛ se ka dɔgɔtɔrɔ walima dɛmɛ kɛlaw ka dɛmɛ sɔrɔ waati gɛlɛya?
+## Ne bɛ se ka dɛmɛ ka kan ni dɔkitɔrɛ walima kɔrɔfɛ ye cogo di?
 
-Dɔgɔtɔrɔ ka kuma ni i hakili bɛ gɛlɛya tuma caman. Ni i bɛ hakili gɛlɛya, walima i bɛ se ka kɛ tuma caman, i ka dɔgɔtɔrɔ ka kuma ko i ye lakanakɛla ye. NIA ko kɛlaw bɛ se ka dɛmɛ hakilina gɛlɛnw ni baara sigi kɛ, ani Medicare, Medicaid ani sɔrɔ insurance dɔw bɛ se ka wari dɔ ta hakili dɔnkili wari ma.
+Kuma ni i ka dɔkitɔrɛ ye, ko i ka gɛlɛya jɛnɛ bɛ kɛ tuma caman na, ko i bɛ hakilina kɔnɔ gɛlɛya walima i bɛ gɛlɛya ka hakilina bɔ. Ko i ye dɛmɛkɛla ye, a ka dɔn. NIA b'a fɔ ko counselor ni social worker bɛ se ka dɛmɛ kɛ hakilina gɛlɛ ni ɲɛnɛmajɔ kɛlɛ, ani Medicare, Medicaid ni assurance dɔw bɛ se ka wari dɔ di hakilina kɔnɔ dɛmɛ wari ye.
 
-Ni i hakili bɛ gɛlɛya ka bɔ ka sɔrɔ ka ɲɛnamaya, walima ni i bɛ hakili ka ɲɛnɛ ka bɔ ka i yɛrɛ ka kɛ, i bɛ se ka 988 wele walima sms kɛ ka [988 Suicide & Crisis Lifeline](https://988lifeline.org/) ka wele, ko tɛ wari ni ko ka dɔn, a bɛ baara kɛ waati bɛɛ. Ni mɔgɔ dɔ bɛ kɔnɔ kɔrɔ ni gɛlɛya, i ka i ka emergency wele (Amerikɛ: 911).
+Ko i ye hakilina kɔnɔ ka gɛlɛya walima i bɛ hakɛ ɲɛ ka kɛ i yɛrɛ ye, 988 ka telefɔn ka kɛ walima ka sɛbɛ, o bɛ kɛ [988 Suicide & Crisis Lifeline](https://988lifeline.org/) ye, wari tɛ ka sɔrɔ, ani a bɛ waati bɛɛ kɛ. Ko mɔgɔ dɔ bɛ kɔrɔfɛ kɔnɔ kosɛbɛ, i ka kɔrɔfɔ nimɔrɔ ka telefɔn ka kɛ.
 
-## Fɛnw min bɛ kɛ ni mɔgɔw bɛ ɲɔgɔn fɛ, o bɛ se ka dɛmɛ i ma wa?
+## Kɛlɛ ni ɲɛnɛmajɔ ye i ka hɛrɛ kɛ wa?
 
-A bɛ se. Fɛn min bɛ kɛ ni mɔgɔw bɛ ɲɔgɔn fɛ ka sɛbɛ ka dɛmɛ, o bɛ se ka dɛmɛ i ma ni mɔgɔ min bɛ i lakana: dɔ min bɛ dusu ka bɔ ka ɲɛnamaya, i ko ka dɔnkili kɔrɔ mɛn, ka sɛbɛn fɔlɔ ka wɛrɛ ka ɲɛnamaya, walima ka sigi ni [Conversation Cards](/games/conversation-cards/) ye, min tɛ jaabi ka ɲɛ. Ni mɔgɔ min bɛ lakana, a bɛ mɔgɔw ka kɛlɛ fɛ, [Picture Bingo](/games/picture-bingo/) ka sigi ye senior center walima adult day program kɔnɔ, a bɛ se ka i ma dɛmɛ tile kelen. Ka laɲini sɔrɔ [mɔgɔ dumuni sigi kɛlaw ka laɲini](/activities/care-home-groups/) kɔnɔ.
+Dɔw ye. Ɲɛnɛmajɔ ɲɔgɔn ma min bɛ se ka dumuni ka kan, o bɛ se ka kɛ ɲɛnɛmajɔ ka hɛrɛ ye i yɛrɛ ni mɔgɔ min bɛ dɛmɛ sɔrɔ, ko ɲɛnɛmajɔ dɔw: jɛli nɔgɔn kan, jɛnɛ ni dumuni, walima [Conversation Cards](/games/conversation-cards/) ko min tɛ jaabi ɲɛ dɔ. Ni mɔgɔ min bɛ dɛmɛ sɔrɔ, a bɛ fɛ ka mɔgɔ ye, kulu ɲɛnɛmajɔ ni [Picture Bingo](/games/picture-bingo/) ye senior center walima adult day programme kɔnɔ, o bɛ i ka dɛmɛ tile kelen. Ka ɲɛnɛmajɔ wɛrɛw ɲɛ, [activities for care home groups](/activities/care-home-groups/) ɲɛ.

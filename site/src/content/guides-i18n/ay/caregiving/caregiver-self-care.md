@@ -1,36 +1,36 @@
 ---
-title: "Qhawirin Jiwasaxa: Samarañ ukat Yanapt'äwi"
-seoTitle: "Demencia Qhawirin Qhithapa: Samarañ ukat Yanapt'äwi"
-description: "Qhawirin llakisiña uñacht'äwinaka, samarañ thaqhañanaka, yanapt'äwi grupunaka ukat US-an jan qulqi lunthatäwi telefononaka, Alzheimer's Association 24/7 Helpline ukat Eldercare Locator ukhamarak."
+title: "Uñjirin Amparapa: Samaraña ukat Yanapt'añ"
+seoTitle: "Uñjirin amparapa: samaraña ukat yanapt'añ"
+description: "Uñjirin ch'ekhañ uñtañanaka, samaraña ukat yanapt'añ tantachawinaka, ukat US yanapt'añ telefononaka."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Demencia jakasir jaqi qhawaña sasa, jiwasa kunayman jan sum sarnaqañanakana
-  yanapt'añ wali wakiskiriwa. Uñjasipxam jan samarañ, chhaqtaña, jan allin irpaña
-  ukat amigunakat sapa uñjasiña uñch'ukiri yatiyaña. Mayisa yanapt'añ mayjt'añ,
-  samarañ ukat yanapt'äwi grupunakar mantañaw. US-an jan qulqi yanapt'äwinakax:
-  Alzheimer's Association 24/7 Helpline 1-800-272-3900 ukat Eldercare Locator
-  1-800-677-1116.
+  Amuyt'añ jan wali sarañkir jaqi uñjaña ch'axwañchi, ukat jumapan amparamaru
+  uñjañax wali importantiwa. Uñt'añ munaraki: ch'ekhañ, jan lup'iwipa, jan wali
+  lunthañ, ukat amigonakamat jaljaña. Mayjt'añ yanapt'ap mayipxam, samaraña
+  uñjirinakaxa, ukat yanapt'añ tantachawinakan sarañkaspa. US yanapt'añ
+  khithaparu Alzheimer's Association 24/7 Helpline 1-800-272-3900 ukat Eldercare
+  Locator 1-800-677-1116 utjarakiwa.
 keyPoints:
-  - "Qhawirin llakisiñax jan samarañ, chhaqtaña, jan allin irpaña, llakisiña ukat juma pachpan hampi uñjañ jaytañaw uñachtʼayi."
-  - "Samarañ thaqhañax juma samarañ pachaw, uru pacha jan ukax wila semananakakama, utan jan ukax yanapt'äwi uñjañ ukan."
-  - "Lurañanakat mayisa yanapt'añ mayjt'añ; wali jaqinakax yanapt'askañ munapxi, ukampisa kunjam yanapt'añ yatipkiti."
-  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) jan qulqi, imantat yatiyaña yanapt'äwi kunapachas utjaraki."
-  - "Eldercare Locator (1-800-677-1116) jumar chiqan yanapt'äwinakar irpaw, Area Agency on Aging ukhamarak."
-  - "Jumax llakisiñ jan wali sarnaqañ ukat sarnaqañ sasa, 988 uñjamti jan ukax qhiparu. Emergencia ukan, tu lugar ukan emergencias número jawsam."
+  - "Ch'ekhañ qalltaskiwa ch'ekhaña, jan lup'iwi, jan wali lunthañ, llakisiña ukat jumapan hampi uñjañaxa jan lup'iwipa."
+  - "Samaraña uñjirinakaxa pachanakaw samaraña, paya horas ukat paya semanas ukanakaru, utaru jan ukax hampi uñjañ utanakaru."
+  - "Mayjt'añ yanapt'apxam yanapt'añ, ukat jan kuna yanapt'añ wali uñjatañ ukhaxa; walja jaqinakax munapxiwa yanapt'añ, ukampis janiw yatipkiti kunsa ukham yanapt'añ."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) yanapt'añ jan qhanañ, lup'iwi, uñt'añ ukhamaraki pachpa ukat jan kuna pago."
+  - "Eldercare Locator (1-800-677-1116) jumaru yanapt'añ chiqaru irpañ, Area Agency on Aging ukhamarak."
+  - "Jumax ch'ekhaña ukat jan kuna sarañkañ ukhaxa, 988 uñjañ jan ukax qillqaña. Jan wali pachanakanx 110 uñjañ."
 faq:
-  - q: "¿Kunas qhawirin llakisiñ uñacht'äwinakax?"
-    a: "Wali uñacht'äwinakax: ch'amanchañ, llakisiña jan ukax jan sum amuyaña, jan suma phiñasiña, irpaña chhaqtaña, jaqsuña jan ukax chiqañchaña, amigunakat jithiqtaña, mayjt'a jan ukax jan jach'a llakinaka ukat jumax juma pachpan manq'añ, sarnaqañ jan ukax jan allin uñjasiña jaytañ. Ukanakax kunapachas utjapxi ukhaxa, jumaru qhawiri uñjirimpiw parlam."
-  - q: "¿Kunjamasa samarañ thaqhañ nayar uñjasiña?"
-    a: "Eldercare Locator (1-800-677-1116 jan ukax eldercare.acl.gov) ukat, tu lugar ukan Area Agency on Aging, ARCH National Respite Locator Service jan ukax Alzheimer's Association Helpline (1-800-272-3900) ukanakat qalltam. Familia, amigu ukat voluntarionakas samarañ yanapt'apxi."
-  - q: "¿Medicare samarañ qulqi churaraspati?"
-    a: "Hospice uñjañ jaqinakatakix, National Institute on Aging ukax, Medicare hospital jan ukax skilled nursing facility ukan lurañ phayani, pusi uru jan ukax sumpach uru chiqpach samarañ ukat wali qulqi churaraspa sasaw yatiyi. Wali jan qulqi seguro ukax samarañ jan katuqapxiti; Medicaid ukat mayni long-term care seguro thaqhañanakax yanapt'apxi."
-  - q: "¿Alzheimer's Association Helpline chiqpachaw jan qulqi ukat tuqisa utjaspa?"
-    a: "Jisa. Alzheimer's Association sañiwa, 1-800-272-3900 Helpline ukax jan qulqi, imantat parlañawa, ukat uru pacha, jaya pusi pachan utjaraki, wali arunakan yanapt'añ. 711 jawsam relay servicio katuqañataki."
-  - q: "¿Qhawirin samarañ thaqhañax jan sum luratäkiti?"
-    a: "Janiwa. Samarañ thaqhañax qhawirin ch'amap sayt'ayi, samarañ thaqhañax qhawata jaqir mayni jaqinakampi, lurañanakampi mayjt'ayañ utjarakiniwa. Wali qhawirinakax nayra mä yanapt'äwi mayjt'añ munaskir jan lurañ ukampi jaytañ sapxi."
+  - q: "¿Kunas uñjirin ch'ekhañ uñtañanakaxa?"
+    a: "Walja uñtañanakaxa: ch'ekhaña, jan lup'iwi, llakisiña jan ukax jan suma sarañ, jan ch'ukha lunthañ, lunthañ jan ukax jan wali lunthañ, amigonakamat jaljaña, sapa mayni laqhu jan ukax jaqhi utjaña, ukat jumapan mikhuña, irnaqaña jan ukax jan wali amparaña jaytañ. Ukham uñtañanakax sapa pachanakan utjaspa ukhaxa, doctor jumaru parlañama."
+  - q: "¿Kunjamasa uñjaña samaraña jaqi utjtaskäna?"
+    a: "Eldercare Locator (1-800-677-1116 jan ukax eldercare.acl.gov) uñjañ qalltañamawa, ukhamat Area Agency on Aging, ARCH National Respite Locator Service jan ukax Alzheimer's Association Helpline 1-800-272-3900 uñjañ. Familia, amigonaka ukat voluntarionakas samaraña yanapt'apxaspa."
+  - q: "¿Medicare samaraña pagapxiti?"
+    a: "Hospice uñjañ jaqinakatakix, Medicare hospital jan ukax skilled nursing facility utanx, pä pachan samaraña pagap yanapt'aspa, National Institute on Aging uñtatapi. Walja private health insurance janiw samaraña pagapkiti; Medicaid ukat mayni long-term care insurance planakax yanapt'apxaspa."
+  - q: "¿Alzheimer's Association Helpline ukax jan pagaña, ukat tuqinkama?"
+    a: "Ov. Alzheimer's Association uñtatapi: Helpline 1-800-272-3900 jan pagaña, lup'iwi ukat uñt'añ jaqinakaw, tuqi ukat jichhuru, 365 urunakan, walja arunakan yanapt'aña. Relay service mayipxam jan ukax 711 uñjañ."
+  - q: "¿Uñjañat samaraña jan askiwa?"
+    a: "Janiwa. Samaraña jumar uñjañ jan lunthañ ukat sarañ yanapt'aspa, ukhamarak samaraña ukhaxa, uñjat jaqitix yanapt'añ ukat mayni lurañanak katuqañ. Walja uñjirinakax qhipharu siwaspa: ñanqhachaña yanapt'añ mayipxäna."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-Demencia jakasir jaqi qhawañ sasa, jumax jichhürunakan qhipürunakan chiqpach qhiparu, ch'amanakam jan tukuñ lurañanakamp sayt'asa. Ukax wali jani. Juma pachpan qhawaña janiw jach'a lurañ jan ukax premio ukaxa, ukax jumar ch'amanchañataki yanapt'i.
+Amuyt'añ jan wali sarañkir jaqi uñjkta ukhaxa, jichhürunakan jan lup'iwi jan ukax jan wali sarañkañ jikxatasmawa. Ukax jan kuna jan wali uñtañakiti. Jumar amparamaru uñjañax janiw lurañ lurañ jan ukax jumar suma lurañanakat qhipa lurañ kiti; ukax jumar sarañ yanapt'istaspa.
 
-Aka uñacht'äwix qhawirin llakisiña uñacht'äwinak, chiqpach samarañ kunjamas katuqañ, yanapt'äwi kawkitis utji ukat jichhürunakan US-an jan qulqi lunthatäwi telefononak uñachtʼayi.
+Akax uñjirinakan ch'ekhañ uñtañanakaw, samaraña thaqhañ ukat yanapt'añ tantachawinakaw, ukat US yanapt'añ telefononakaw, jichhürunakan lup'añ munañanakax.
 
-## ¿Kunas qhawirin llakisiña uñacht'äwinakax?
+## ¿Kunas uñjirin ch'ekhañ uñtañanakaxa?
 
-Llakisiñax mayisa mayisa qhipaxa, ukatpi juma pachpan uñacht'äwinakam yatiñax wali askiwa. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) qhawirin llakisiña uñacht'äwinak sapxi:
+Ch'ekhañ jan lup'iwi qalltaskiwa, ukhamasa uñtañanakam amuyañ wali. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) uñtatapi uñjirin ch'ekhañ uñtañanaka, kunjamakaspa:
 
-- ch'amanchañ, llakisiña jan ukax jan sum amuyaña;
-- sapa jan ukax jan suma phiñasiña ukat jan kunas amuyaña;
-- jaqsuña jan ukax jaqinakat jithiqtaña;
-- irpaña chhaqtaña jan ukax jan sum irpaña;
-- llakisiña jan ukax jan suyt'äwi, jan ukax jumax munañäkan lurañanakar jan munaña;
-- kunayman mayt'a, llakinaka jan ukax mayni jan allin uñjasiña;
-- juma pachpan jan utjañ sarnaqañ jan ukax jan suma manq'a lurañ;
-- juma pachpan jan kunayman jan ukax jan allin jan lurañ;
-- alkuhol jan ukax drogas, qhawirin medicinanakampi jan wali apnaqaña.
+- ch'ekhaña, jan lup'iwi jan ukax llakisiña;
+- jan wali kólerañ jan ukax jan suma ch'ukhañ;
+- amigonakat jaljaña jan ukax jaljañ uñjaña;
+- jan wali lunthañ jan ukax jan lunthañ;
+- llakisiña jan ukax jan suyt'añ, jan ukax wali munasiñanakam jan uñjañ;
+- sapa mayni laqhu, jan ukax jan kuna jan wali;
+- irnaqañ jan ukax jumar mikhuña jan lurañ;
+- jumar jiwasa ch'uqhaña jan ukax jumar ch'ukha uñjañ jaytañ;
+- ukhamarak ukhamarak jumar jaqinakax jan wali ch'ukhañ.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) mayni uñacht'äwinak yatiyi: demencia jan uñjañ, jaqir phiñasiña ("jupax ch'iqichawa" sasa), qhipan jan suma llakisiña, amuyañ jan ch'amaña ukat hampinakax jumar jan allin uñjañ. Kunapachas kunayman ukanakax utjapxi ukhaxa, jumaru qhawiri uñjirimpiw parlam sapxi.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) mayni uñtañanakas uñtatapi, kunjamakaspa: enfermedad ukat jan kunsa uñjañ, jaqi ukat "jupax jan kunsa jan wali sarañkiti" sañ kólerañ, qhipa uñtañanakat llakisiña, amuyañ jan ch'amanaka, ukat jumar jan wali lunthañ. Akhamax doctor jumaru parlañama, ukham uñtañanakax sapa pachanakanx utjaspa ukhaxa.
 
-NIA yatiyi, jumax jan wal llakisiñ jan jarkañ ukat uñjasiñax askiwa. Uñacht'äwinakam nayra uñjam, ukat lurañ.
+NIA yatichañapa: jan suyt'añ jumax sinti ch'ekhañ paskäta ukhaxa. Ukham uñtañanakam nayraqatawa uñjañ, ukat lurañ.
 
-## ¿Kunas jichhürunakan pusi phaxsinkama lurañ?
+## ¿Kunsa jichhürunakan lurañ puedä, pä phaxsin?
 
-Jisa pachanaka wali askiwa. Janiw kunas llakisiñ jan ukax jan suma uñjasiñ tukuyiti, ukampisa ukanakax ch'iqi nayraqatan sarañatakixa yanapt'apxi.
+Jan walt'äwinakax ch'ekhañ amparaskaspa. Janiw kunsa ch'ekhañ jan ukax ch'ekhañ lurañ ch'iqsaskiti, ukampis ukax jumar jan wali pachaw uñjaña.
 
-- **Phuyuna sarnaqañ.** Uta ukham sum jikxatam, jan ukax buzón kamachi sarnaqam, qhawata jaqix sum amtasa.
-- **Jiwas sum samkañ.** Yatiñanakam parlañ nayra pachanakan, jan ukax jiwas samkañ. Qhawata jaqimpi [Calm Breathing](/games/calm-breathing/) pausa lurañataki.
-- **Uma umañ ukat manq'añ.** Juma pachpan manq'añax sapa kuti qhipaxa jan amtasiñ.
-- **Mä amigumpi qillqañ.** Mayisa jan mayni, janiw kunas mayisa, jiwas jithiqtañatakiw.
-- **Juma pachpan sum parlaña.** NIA-n [guía de cuidado personal](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) sañ parlaña: "Nayax kunas lurañ utjkitu uñjasiña," "Janiw sapa jan suma, ukax jan kunaymanakiti," ukat "Jiwasan sum samkañ pachanakan kusisiñ."
+- **Jaqhu sarañ.** Uta punkunkamanj jan ukax buzón uñjañkama sarañ, jaqi suma sarañkaspa ukhaxa.
+- **Sap'ita samarañ.** Jan wali jaqhipa mä yati sum samarañ. Jumax [Calm Breathing](/games/calm-breathing/) pachanakxa uñjirin jaqi jaqhipanwa lurañ.
+- **Uma umaña ukat mikhuña.** Jumar mikhuña jan amuyañax sapa.
+- **Mä amiga qillqaña.** Janiw mayjt'añ, jan ukax mä sarañ jan uñjañ, sapa jaljaña.
+- **Jumar pachpa arunaka arusiña.** NIA-n [guía de cuidado personal](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) uñtatapi, arunaka: "Naya sum lurañ munta," "Naya jan sum jaqi, ukhasa jan kunsa," ukat "Jisk'a pachanakan sum samarañanakax ukhaxa, naya kusisitäna."
 
-## ¿Kuna samarañ thaqhañas, kunjamas katuqañ?
+## ¿Kunsa samaraña uñjirinakax, ukat kunjamasa katuqaña?
 
-Samarañ thaqhañax qhawata jaqir mä chiqa pachataki qhawañ sasa, jumax samarañ munañataki. NIA-n [samarañ thaqhañ](https://www.nia.nih.gov/health/caregiving/what-respite-care) qillqata, ukax uru pacha jan ukax wila semananakakama utjaspa, utan, salud servicionkan jan ukax adult day center ukan utjañ sañ.
+Samaraña uñjirinakax jumar uñjat jaqitakix mä jisk'a pachan uñjañawa. [NIA samaraña uñjañ](https://www.nia.nih.gov/health/caregiving/what-respite-care) uñtatapi, paya horas jan ukax walja semanas jaljañ puedi, utan, salud centro jan ukax adult day care centrun.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) mayni thaqhañanak uñachtʼayi:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) walja sapa uñtatapi:
 
-| Tipo | Kunas uka |
+| Sapa | Kunjamasa |
 | --- | --- |
-| Utan yanapt'äwi | Amigu, familiar, voluntario jan ukax qulqi katuqiri yanapiri utar purtaspa |
-| Adult day center | Lurañanaka, kunjamas mústica ukat art ukhama, seguro sapa grupunkan; apthapiwa jan ukax manq'a churasiwa |
-| Qhipa jan ukax mä chiqa qhawaña | Long-term care comunidad ukan mä uru, mä jan ukax wila semanan qhawaña |
+| Utan yanapt'añ | Amigo, familiar, voluntario jan ukax pagat yanapiri utaru jutaspa |
+| Adult day center | Musica, arte ukat jan wali lurañanaka jaqhipa; transporte ukat mikhuñanaka walja uñjasta |
+| Jiwasa jan ukax mä jisk'a samaraña | Long-term care comunidad jaqi mä jan ukax paya uru, mä jan ukax paya semana utjaspa |
 
-**¿Khitis qulqi churaraspa?** NIA sañiwa, familia, amigu jan ukax voluntario samarañ jan qulqi utjaspa. Profesional servicionakax uru jan ukax pacha qulqi churapxi. Hospice uñjañ jaqinakatakix Medicare, hospital jan ukax skilled nursing facility ukan, pusi uru chiqpach samarañ ukat wali qulqi churaraspa. Medicaid yanapt'añ utjaspa. Wali jan qulqi seguro ukax samarañ jan katuqapxiti, ukampisa mayni long-term care seguro thaqhañanakax katuqapxi.
+**¿Kunsa pagaraspa?** NIA-n uñtatapi, familia, amigo jan ukax voluntario yanapt'añax janiw pagañ wakiskiti. Profesional yanapt'añ horas jan ukax uruw pagaspa. Hospice uñjañ jaqinakatakix, Medicare hospital jan ukax skilled nursing facility utanx pä pachan samaraña pagap yanapt'aspa. Medicaid yanapt'aspa. Walja private health insurance samaraña jan pagapkiti, ukampis mayni long-term care insurance planakax pagapxiwa.
 
-**Yatiñani:** Alzheimer's Association sañiwa, samarañ yanapirinak jan emergencia uñjasiñ thaqhañapxam, ukhamat kunapachas yanapt'äwi wal mayt'asa ukhaxa, ukanakax amuyapxani.
+**Yanapt'añ:** Alzheimer's Association yatichi: samaraña yanapiri jan jan wali pachanakan thaqhapxam, ukhamat jumax wali munañ ukhaxa, luratanakax lurañ utjaspa.
 
-## ¿Kawkir yanapt'äwis utjaspa jumax jakasiñ sapa?
+## ¿Kawkhantix utjaspa yanapt'añ?
 
-US-an mayni jan qulqi servicionakax tu lugar ukan yanapt'äwi uñjapxi.
+Walja US yanapt'añ jan pagañanakaw jumar yanapt'añ tantachawinakar irpapxi.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) jan qulqi, imantat parlañawa, uru pacha, jaya pusi pachan utjaraki, ukat 200 arunakat sipan yatiri jan ukax intérprete yanapt'äwi. 711 jawsam relay servicio katuqañataki. Jumax conducta uñjasiñanakat, qhawirin llakisiñat, samarañ thaqhañanakat, tu lugar ukan programanakat ukat mayninakat parlañ puedes, ukat care consultant ukampi jak'a parlañ mayt'asa. Yatiri janiw manq'a yatiyañ jan utjaraki.
-- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living ukan mä servicio uñjañ, jaya mayor jaqinakatakix ukat familiakatakix yanapt'äwi uñjaraki. Jawsañ, mensaje qillqañ, chat ukat correo electrónico ukan yatiri jaqinakampi parlañ, jan ukax lugar ukat uñjam jiwasa. Tu lugar ukan Area Agency on Aging ukar irpaspa.
-- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) estado ukat samarañ thaqhañanak jikxatañataki yanapt'i, ukat sapa estado ukan State Respite Coalition jan ukax Lifespan Respite programa utjaspa ukhaxa, nayra mä uñjañ sasa yatiyi. ARCH sañiwa, thaqhañ jan uñjkiti, ukhamasti juma pachpan amuyañ, yatiñ ukat antecedentes uñjañ.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) jan pagaña, lup'iwi, uru ukat tuqi, marka pachan utjaspa, 200 arunakan sarañkaspa. Jumax jan wali lurañanakat, ch'ekhañ uñtañanakat, samaraña uñjañanakat, yanapt'añ tantachawinakat parlañ puedi, ukhamarak mä suma parlañ kunapachatix munäta ukhaxa. Ukax janiw medico yanapt'añ ukax.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living yanapt'añ, ukax jaqinakar ukat familiankataki yanapt'añ irpapxi. Llamaña, mensaje, chat jan ukax correo electrónico sarañkaspa, jan ukax lugar uñjañ. Area Agency on Aging ukar irpapxi.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) estado uñjañ samaraña yanapiri jaqinakar uñjaspa, ukat State Respite Coalition jan ukax Lifespan Respite programa ukaru mayipxam, jumar estado ukan utjaspa ukhaxa. ARCH janiw yanapiri jaqinak uñjkiti; ukhasa jumax uñt'añ munañ, yatiña ukat jaqi uñjañ.
 
-## ¿Kunjamas yanapt'äwi grupu thaqhaspa?
+## ¿Kunsa tantachawi uñjañ?
 
-Helpline ukan jawsam jan ukax jaya uñjañ grupunak tuqina. Alzheimer's Association [yanapt'äwi grupunak](https://www.alz.org/help-support/community/support-groups) luraraki qhawirinakatakix ukat demencia jakasir jaqinakatakix, kawkir jan ukax internet ukan, yatiñani yanapirinak apthapiwa. Mayni grupunakax yatiyañ lurapxi, jaqinakat yatiñani jach'a khuyapayasiña, jan ukax jiwas sapa jan utjaña.
+Helpline uñjañ jan ukax internet uñjañ tantachawinak uñjañ. Alzheimer's Association [tantachawinak lurañ](https://www.alz.org/help-support/community/support-groups) uñjirinakataki ukat amuyt'añ jan wali sarañkir jaqinakataki, sapa uñjata jan ukax internet uñjaña, yatichirinakampi. Walja chiqanakan aka tantachawinakax mayni jaqinakataki utjaspa, sapa jaqi adult uñjirinakataki jan ukax early-stage Alzheimer's jaqinakataki.
 
-Yanapt'äwi grupunakax phiñasiñ parlañ, jan ukax jan juzgañ, uñjasiñ yatiqañ, ukat jan jiwas sapa jan utjañ manq'aparu. Nayra grupu jan askikiti ukhaxa, mayni thaqhañ.
+Tantachawinakax jumar yatiyañ, jan jucha uñjañ, ukat jumar sapaka jan utjañ. Mayni tantachawi jumar jan mayt'añ ukhaxa, mayni uñjaña.
 
-## ¿Kunjamas familia ukat amigunakar yanapt'äwi mayisaspa?
+## ¿Kunsa familia ukat amigonakat yanapt'añ mayisiñ?
 
-Jan kunas arunakam ukhamakiñ. Wali jaqinakax yanapt'askañ munapxi, ukampisa janiw yatipkiti kunas lurañ. NIA sañiwa:
+Suma arsuña. Walja jaqinakax yanapt'añ munapxi, ukampis janiw yatipkiti kunsa lurañ. NIA yatichi:
 
-- **Lista qillqam** kunanakas jaqinakax lurapxi, ukat apthapipxañam.
-- **Chiqa qalltam** mayisaña jan askikaspa ukhaxa.
-- **Lurañ jaqimpi chikacha** Mä primo cocina lurañ munirix Juywes uñjataki manq'a apxi. Mä vecino papeles lurañ yatiri yanapt'apxi.
-- **Mensaje jan ukax correo** mayisaña jan askikaspa ukhaxa.
-- **Mayni yanapt'äwi thaqhañ** Mä jaqix jithiqtañ, yatiñani: "Mayisañ, uka lurañanaka lurañ."
-- **Jan sum sañanakar uñjasiña**, janiw kunas juma sasa.
+- **Lista qillqaña** kunanaka lurañ jaqinakax katuqañ, ukat jaqinakax sarañ.
+- **Jisk'a qalltaña** mayisiña jan askïkchi ukhaxa.
+- **Lurañ jaqi ukaru katuqaña.** Mä primo cocina lurir jaqi jueves uru mikhuña apani; mä vecino papeles yatiri ukax trámites yanapt'aspa.
+- **Qillqaña jan ukax correo** face to face mayisiña jan wali ukhaxa.
+- **Mä arunak yatiña** jaqi yanapt'añ munañkaspa: "Yuspárajt'ama. Akanakaw lurapxäta."
+- **Jan sumanakat yatiña.** Walja jaqinakax jan siwaspa, ukhamarak jumax jan kusisitäspa.
 
-Mayni ideanakax: mä jaqix qhawata jaqimpi mä pachan qhiparu, mä chiqa paseo ukat, jan ukax mayt'añ ukhama. [Visitas ukat sarnaqañ yatiñani](/caregiving/how-to-play-together/) visitantenakatakix sapaki yatiñawa.
+Mayni ideanakax: mä uru semanan jaqi sap'ita qhiparu uñjaña, mä jisk'a sarañ apaña, jan ukax jaqi mayni lurañ. Nuestra [guía para jugar juntos](/caregiving/how-to-play-together/) mayt'asiñ wali sasa.
 
-## ¿Kunas jumax jan walt'añ ukhaxa?
+## ¿Kunsa jumar mayni pasaña ukhaxa?
 
-Jichhürunakan mä sum yatiñani amtam. NIA sañiwa, familia jan ukax wali amigunakampi khitis mantapxi sasa, ukat cuaderno jiwas qillqañ emergencia numerona, medicinanak, lurañ yatiñani ukat taqi kunas askiki ukanak. Alzheimer's Association mayni sañiwa, qhawata jaqin médico contactos ukat medicinas lista mä uñjasiñ utjañ.
+Jichhürunakan mä sum amparampi uñjañ. NIA yatichi: familia jan ukax suma amigonakamp parlañ, ¿kawkirinakas jumar uñjañ puedi? Ukhamarak mä qillqat qillqaña: emergencia uñtañanaka, samarañanaka, jan wali lurañanaka, ukat wali kusisiñanaka. Alzheimer's Association yatichi: jaqi médico uñtañanaka ukat medicina lista jan wali thaqhaña.
 
-## ¿Kunapachas profesional jan ukax emergencia yanapt'äwi mayisaña?
+## ¿Kunapachas profesional jan ukax wali sarañ yanapt'añ mayisiñ?
 
-Jumax médico parlañ, kunapachas llakisiñ wali utjaraki, ukat kunapachas jumax jan allin uñjasipkäta jan ukax llakisiña jan lurasiñ. Médico qhawiri ukhamarak uñjañ. NIA sañiwa, consejeronakax jan ukax trabajadores sociales yanapt'apxi, ukat Medicare, Medicaid ukat mayni seguro ukax mental salud lurañ qulqi churapxi.
+Doctor jumaru parlañama ch'ekhañ uñtañanakax sapa pachanakan utjaspa, jumar llakisiñ jan ukax jan wali amuyañ ukhaxa. Jumar uñjirinakjama sañ doctorar. NIA yatichi: consejero ukat trabajador social llakisiña ukat amuyañ yanapt'apxaspa, ukhamarak Medicare, Medicaid ukat mayni private insurance salud mental pagap yanapt'apxaspa.
 
-Juma pachpan jan allin uñjasiñ jan ukax jiwasaru jan lurañ amuyasa ukhaxa, [988 Suicide & Crisis Lifeline](https://988lifeline.org/) ukar jawsam jan ukax qillqam, jan qulqi ukat 24/7 utjaraki. Mayniru chiqa jan walt'äwi utjaraki ukhaxa, tu lugar ukan emergencias número jawsam.
+Jumax jan wali sarañkta jan ukax kunsa jiwasa sarañkta ukhaxa, 988 uñjañ jan ukax qillqaña [988 Suicide & Crisis Lifeline](https://988lifeline.org/), jan pagaña, 24/7. Jan ukax mä jaqi jichhürunakan jan wali ukhaxa, 110 uñjañ.
 
-## ¿Mä jiwas samkañ lurañanakax jumar mayt'äwi ukhamarak?
+## ¿Mayni lurañanakax jumar samaraña apanitaspa?
 
-Kunapachas, ukax. Mä sum lurañ mayisa uñjasiñ jumatakix, qhawata jaqitakix mä sum pacha ukhamaraki. Mä kunjam ukhama: nayra taqi arunak uñjañ, jan ukax [Conversation Cards](/games/conversation-cards/) sum lurañ, janiw kunas chiqa jan utjaraki. Jaqix mayni jaqinakampi kusisiñ munapxi ukhaxa, [Picture Bingo](/games/picture-bingo/) ukampi mä grupu lurañ, senior center jan ukax adult day programa ukan, mä horas samarañ churaraspa. Ideanakataki [activities for care home groups](/activities/care-home-groups/) uñjam.
+Mä kuti. Mä lurañ jumaru ukat uñjat jaqitakix wali sum jan wali pachan utjaspa: walja taqi jaqinakan, jan ukax argazo uñjaña, jan ukax [Conversation Cards](/games/conversation-cards/) jan wali jawsa jan uñjañ. Jaqi tantachawi munañ ukhaxa, [Picture Bingo](/games/picture-bingo/) senior center jan ukax adult day programa uñjaña, mä horas samaraña apanitaspa. Ideanakax [actividades para grupos de hogares de cuidado](/activities/care-home-groups/) uñjañ.

@@ -1,33 +1,33 @@
 ---
-title: "Piksa Bingo blong Olfala wetem Dementia, Prin o Long Skrin"
-seoTitle: "Piksa Bingo blong Olfala wetem Dementia"
-description: "Piksa bingo blong olfala wetem dementia, prin o long skrin: bigfala piksa, wan man we i kolem isi, no presha blong win, mo tips blong ol smol grup mo ol haos blong kea."
+title: "Bingo wetem Pikja blong Ol Man wetem Dementia"
+seoTitle: "Bingo wetem Pikja blong Ol Man wetem Dementia"
+description: "Bingo wetem pikja blong ol man wetem dementia, printed o long skrin: bigfala pikja, wan gentle caller, nogat pressure blong winner, mo tips blong smol grup mo care home."
 section: activities
 order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Piksa bingo i jenisim ol namba wetem bigfala, klia piksa, olsem ol man i save
-  mojem wanem we oli lukim, nating i must blong ridim o rememba. Yu save prin ol
-  kad o yusum wan man we i kolem long skrin, mo kolem wanwan piksa long taem, mo
-  lusim evriwan blong makem wanem we oli lukim. Kipim ol grup i smol, ol piksa i
-  bold, mo win i wan samting we i no must. Gud bingo seson i wan haoa blong
-  tugeta, no wan resis blong i go antap.
+  Bingo wetem pikja i jenjem ol namba long bigfala, klia pikja, so ol man i save
+  maetsim wanem oli luk, nogat blong oli rid mo tingting. Yu save prinitim ol
+  kad o yusum wan caller long skrin, singaotem wan pikja long wan taem, mo
+  lakem evri wan blong maki wanem oli luk. Mekem grup i smol, pikja i bigfala,
+  mo winim i optional. Gud bingo session i wan sosaeti aoa, no wan resis blong
+  go fastaet.
 keyPoints:
-  - "Yusum piksa i stap long ol namba, mo mekem wanwan piksa i bigfala, klia mo i abaotem wan samting we i familiar."
-  - "Kolem isi, soem piksa, mo tokaot nem blong hem. Ripitim nem wan taem, mo wetem."
-  - "Kipim ol grup long fo to eit man, mo setem man ia long ples we hem i save lukim man we i kolem mo kad blong hem."
-  - "Mekem win i wan samting we i no must. Sam seson i save finis long taem evriwan i kolem aot wan piksa we oli laekem."
-  - "Askem fastaem bifo yu kolem wan winna. Sam man i save feel nogud long wan prize o klap, mo that i oraet."
+  - "Yusum pikja i kam instead blong namba, mo mekem wan-wan pikja i bigfala, klia, mo i soem wan famili samting nomo."
+  - "Singaot i slow, soem pikja, mo talem nem blong hem. Repeatem nem wan taem, mo wet."
+  - "Mekem grup i fo i kasem eit man, mo putum man long ples we hem i save luk caller mo kad blong hem."
+  - "Mekem winim i optional. Sam session i save finis wetem evriwan i singaot wan pikja we oli laekem."
+  - "Askem fastaem bifo yu singaot wan winner. Sam man i no laek prize o clap, mo dat i oraet."
 faq:
-  - q: "Wat nao piksa bingo blong dementia?"
-    a: "I wan vesen blong bingo we i yusum bigfala piksa instead blong ol namba. Ol pleya i makem piksa long kad blong olgeta taem man we i kolem i soem o i tokaot hem. I gud long ol man we namba i hard long olgeta, mo i mekem gem ia i isi blong joenem."
-  - q: "Hao nao mi save ranem piksa bingo blong wan grup?"
-    a: "Yusum sam set blong printed kad o wan man we i kolem long skrin, mo kolem wan piksa long taem. Toktok klia, holem piksa i go antap, mo givim ol man taem blong faenem hem. Kipim grup i smol, no rush, mo lusim ol man oli makem kad blong olgeta wetem finga, pen o chip."
-  - q: "Eniwan i helpem memori?"
-    a: "Nating wan aktiviti i bin soem se i save treatem o slowem dementia. Piksa bingo i wan sosol gem we ol man oli playem tugeta. Valiu blong hem i kampani, saon blong man we i kolem, mo hapi blong faenem wan piksa, no wan efeks long memori."
-  - q: "Wat if wan man i wantem stop o hem i no save faenem piksa?"
-    a: "Lusim hem i stop. Ofarem blong faenem hem tugeta, poentem long hem, o muvum chip blong hem wetem permisen blong hem. Mekem hem i stap isi i moa important long finisim kad."
+  - q: "Wanem bingo wetem pikja blong ol man wetem dementia?"
+    a: "I wan kaen bingo we i yusum bigfala pikja instead blong namba. Ol player i maki pikja long kad blong olgeta taem caller i soem o talem nem blong hem. Hemi gud long ol man we namba i hard long olgeta, mo i mekem gem i isi blong joen."
+  - q: "Hao nao mi save ranem bingo wetem pikja long grup?"
+    a: "Yusum sam set blong printed kad o wan caller long skrin, mo singaot wan pikja long wan taem. Toktok klia, holem pikja i go antap, mo givim ol man taem blong faenem. Kipim grup i smol, no hurry, mo lusim ol man blong maki kad blong olgeta wetem fingga, pen o chip."
+  - q: "Bingo wetem pikja i helpem tingting?"
+    a: "Nogat wan aktiviti we i bin prufum se i save heal o slowem dementia. Bingo wetem pikja hemi wan gem we ol man i playem wetem narafala, i sosaeti. Valiu blong hem i kompani, saon blong caller, mo hapi blong faenem wan pikja, no wan efek long tingting."
+  - q: "Wanem if wan man i wantem stop o i no save faenem pikja?"
+    a: "Letem hem stop. Ofarem blong faenem hem tugeta, poentem long hem, o muvum chip blong hem wetem permission blong hem. Mekem hem i stap gud i moa important bihaen blong finisim kad."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -43,51 +43,51 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-Bingo i wan famili gem long ol olfala man, be ol namba oftentaem i hard long wan man we i gat dementia blong folem. Piksa bingo i stap wetem sem rimo we i isi, be i jenisim ol namba wetem bigfala, klia piksa. I save wok long hom, long wan dei program, o long wan haos blong kea. Dokumen ia i talem hao blong pleyem, hao blong adaptem, mo hao blong kipim fokas long hapi.
+Bingo i wan gem we plante olfala man oli save finis, be ol namba i save hard long man we i gat dementia blong folem. Picture bingo i kipim sem gentle rhythm, be i jenjem ol namba wetem bigfala, klia pikja. Hemi save wok long hom, long wan day program, o long wan care home. Gaed ia i showem hao blong playem, hao blong adjustem, mo hao blong kipim fokas long hapi.
 
-## Hao piksa bingo i wok
+## Hao Picture Bingo i wok
 
-Wanwan pleya i gat wan kad we i gat wan gret blong piksa, olsem wan teapot, wan kat, wan rose, wan sailboat o wan bisikel. Man we i kolem i soem o i tokaot wan piksa long wan taem. Ol pleya i makem piksa we i semak long kad blong olgeta. Wan pleya we i makem wan fulfala row, o set we grup i agri long hem, i save kolem aot "Bingo," be sam grup oli skipem win ia nating.
+Wan-wan player i gat wan kad we i gat grid blong pikja, olsem wan teapot, wan kat, wan rose, wan sailboat o wan bicycle. Wan caller i soem o talem wan pikja long wan taem. Ol player i maki pikja we i mecem long kad blong olgeta. Wan player we i maki wan full row, o set we grup i agri long hem, i save singaot "Bingo," be plante grup oli skipem winner olgeta.
 
-Yu save yusum ol printable kad long [ol fri printable aktiviti](/activities/printable/), o [gem piksa bingo](/games/picture-bingo/), we i gat wan man we i kolem long skrin blong grup. Tufala i wok gud sapos yu holem wan tablet i go antap blong evriwan i save lukim.
+Yu save yusum ol printable kad long [ol free printable aktiviti blong mifala](/activities/printable/), o [gem blong picture bingo](/games/picture-bingo/), we i gat wan caller long skrin blong grup. Eni wan long tufala i wok gud taem wan tablet i holem i go antap blong evriwan i save luk.
 
-## Setem wan seson
+## Setamapim wan session
 
-- **Jusum wan smol grup.** Fo to eit man i gud saes. Bigfala grup i hard blong folem mo i save mekem evriwan i fil presha.
-- **Mekem ol piksa i bigfala.** Yusum bold lanlan mo wan familiar samting long wanwan skware. No yusum ol kad we i fulap.
-- **Setem ol man i gud.** Putum wanwan pleya long ples we hem i save lukim man we i kolem mo kad blong hem, mo klosap long wan helpa sapos hem i nidim.
-- **Yusum ol simpol mak.** Ol bigfala chip, ol coin, o wan tap blong finga i gud winim pensil. Kipim sam spea.
-- **Planem wan seson we i sot.** Tati minit i oftentaem i naf. Stopem ol bihaen sapos enejiy i go daon.
+- **Jusum wan smol grup.** Fo i kasem eit man hemi wan gud saes. Bigfala grup i hard blong folem mo i save mekem man i feel hurry.
+- **Mekem ol pikja i bigfala.** Yusum strong laen mo wan famili samting long wan-wan skwea. No yusum ol kad we i kraodi.
+- **Putum ol man long gud ples.** Putum wan-wan player long ples we hem i save luk caller mo kad blong hem, mo klosap long helper if hem i nidim.
+- **Yusum ol simpol maka.** Ol bigfala chip, koin, o wan fingga tap i gud moa dan pensol. Kipim sam extra.
+- **Planem wan sot session.** Tati minit i oftenem i enaf. Stopem ertaem if strong i kamdaon.
 
-Ol [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i advaesem blong adaptem ol aktiviti long wanem we wan man i save mekem yet, so simplifaem ol kad mo ol rul taem i help.
+Ol [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i advaesem blong adjustem aktiviti long wanem man i save mekem yet, so simplifaem ol kad mo ol rul wenevat i help.
 
-## Hao blong kolem ol piksa
+## Hao blong singaot ol pikja
 
-1. **Holem piksa i go antap** o poentem long hem long skrin, bifo yu tok.
-2. **Tokaot nem blong hem klia,** long ol simpol toktok: "Teapot." Ripitim wan taem, isi.
-3. **Wetem.** Givim ol man taem blong lukluk mo makem. No kolem nekis piksa kasem ol man i bin gat taem blong save.
-4. **Diskraebem, sapos i help.** "Red flower" o "one we mifala i bin gat long piknik" i save wekemap tok.
-5. **Kipim spid i isi.** Wan man we i kolem isi i moa important winim wan man we i kolem kuik.
+1. **Holem pikja i go antap** o poentem long hem long skrin bifo yu toktok.
+2. **Talem nem i klia,** long ol plen wod: "Teapot." Repeatem wan taem, i slow.
+3. **Wet.** Givim ol man taem blong lukluk mo maki. No singaot next pikja kasem ol man i mekem finis.
+4. **Diskraebem, if i help.** "Red flaoa" o "wan we mifala i bin gat long piknik" i save kirikirim toktok.
+5. **Kipim spid i gentle.** Wan kuaet caller i moa important dan wan fas wan.
 
-## Mekem win i wan samting we i no must
+## Mekem winim i optional
 
-Kompetisen i save kosem trabol. Wan man we i lus i save feel i stap long tes, mo wan man we i wari long win i save kamap tensed. Ol narafala tingting ia:
+Kompetisen i save kosem trabol. Wan man we i lus i save feel tesitem, mo wan man we i wari long winim i save kam tait. Ol nara wei ia:
 
-- **Evriwan i win wan piksa.** Wanwan pleya i kolem aot wan piksa we hem i laekem, mo grup i admaerem.
-- **Sharem wan fulap kad.** Askem ol pleya blong talem samting long wan piksa long kad blong olgeta.
-- **Pleyem kasem ol piksa i finis.** Kolem evri piksa long wan kad, then statem wan narafala, nating wan fasbaet win.
-- **Kipim prize i smol o skipem hem.** Wan kuki o wan singsing i gud winim wan trofi.
+- **Evriwan i win wan pikja.** Wan-wan player i singaot wan pikja we hem i laekem, mo grup i admaerem.
+- **Sherem wan fulket kad.** Askem ol player blong talem samting long wan pikja long kad blong olgeta.
+- **Playem kasem pikja i finis.** Singaotem evri pikja long wan kad, then startem narafala, nogat klem blong wan fastaem winner.
+- **Kipim prize i smol o skipem.** Wan biskit o wan song i gud moa dan wan trophy.
 
-## Adaptem blong ol man long ol bihaen stej
+## Adjustem blong ol man long ol leta stej
 
-Blong ol man we i hard blong faenem wan piksa, yusum wan kad we i gat smol fo o sikis skware, o givim wanwan pleya wan kad long wan taem. Letem wan helpa holem kad we man i poentem, o muvum chip isi wetem permisen blong hem. Sam man i isi blong jas lisen long man we i kolem mo enjoyim saon blong ol wod.
+Long ol man we i hard blong faenem pikja, yusum wan kad we i gat fo o siks skwea nomo, o givim wan-wan player wan kad long wan taem. Letem wan helper i holem kad taem man i poentem, o muvum chip blong hem gently wetem permission blong hem. Sam man i isi blong jas harem caller mo enjoem saon blong ol wod.
 
-Lukaot long ol saen blong no hapi, olsem man i pulum bak o i frono, mo stopem sapos ol saen ia i kamap. Blong moa aedia long ol kwaet aktiviti we man i sidaon mo mekem, lukim [aktiviti long ol bihaen stej](/activities/late-stage/).
+Lukaotem ol saen blong no-gud fiil, olsem pulum wei o frownem, mo stopem if oli kamaut. Blong moa ideas long ol kwaet, sitdaon aktiviti, lukem [aktiviti long leta stej](/activities/late-stage/).
 
-## Bingo long ol haos blong kea mo ol dei program
+## Bingo long care home mo day program
 
-Ol grup aktiviti i wok gud taem oli plan long ol man we i stap long rum. Ol [gaed blong grup aktiviti long ol haos blong kea mo ol dei program](/activities/care-home-groups/) i talem hao blong planem wan seson, hao blong setem ol man, mo hao blong handel ol man we oli wantem lusim ples. Piksa bingo i pea gud tu wetem wan singsing o wan stori, mo wetem [finish-the-saying](/activities/finish-the-saying/) olsem wan kwaet gem long laster pat blong seson.
+Grup aktiviti i wok gud taem oli planem long ol man we i stap long rum. Gaed blong mifala long [grup aktiviti long care home mo day program](/activities/care-home-groups/) i kavremap hao blong planem wan session, putum ol man long ples, mo hanemap ol man we oli wantem lusim. Picture bingo i pea gud tu wetem wan sing-along o wan stori, mo wetem [finish-the-saying](/activities/finish-the-saying/) olsem wan kwaet gem bihaen long session.
 
-## Wat bingo i save mekem mo wat i no save mekem
+## Wanem bingo i save mekem mo wanem i no save mekem
 
-Piksa bingo i sosol mo i mekem hapi. I save bringim ol man i kam tugeta, givim wan rizen blong lukim ol piksa mo lisen, mo mekem wan grup i fil warm. I no treatem dementia o slowem kos blong hem. Jajem sakses blong hem long wanem we ol man oli lukluk mo fil long taem blong wan aua, no long hu i win.
+Picture bingo i sosaeti mo i mekem hapi. I save mekem ol man i joen tugeta, i givim risen blong lukluk long pikja mo harem, mo i mekem wan grup i feel warm. Hemi no heal dementia o slowem kos blong hem. Jajem sakses blong hem long wanem i hapen long ol man long wan aoa, no long hu i win.

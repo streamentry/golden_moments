@@ -1,33 +1,33 @@
 ---
-title: "Akyiwadeɛ Online Agorɔ ma Dementia, Ɛnhia Nsiesie"
-seoTitle: "Akyiwadeɛ Online Agorɔ ma Dementia"
-description: "Akyiwadeɛ online agorɔ ma nnipa a dementia adi wɔn so, a wɔbue wɔ browser mu, a ɛnhia app anaa account: picture matching, sorting, puzzles ne ahomegyebɔ, ka ho nsɛm."
+title: "Akwantuo Dwumadie a Wɔde Di Dementia Ho Ma, Wɔnhia Nsiesie"
+seoTitle: "Akwantuo Dwumadie ma Dementia, Nsiesie Biara Nhia"
+description: "Akwantuo dwumadie ma dementia nkurɔfo a wɔbɛbue wɛb browser mu, a app anaa account nhia: mfonini matching, sorting, mfonini nkyekyɛ ne ahomegyedi, ne nkyerɛkyerɛ."
 section: activities
 order: 22
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Akyiwadeɛ online agorɔ a ɛyɛ fɛ paa ma nnipa a dementia adi wɔn so bue wɔ web
-  browser mu, a ɛnhia app ne account. Golden Moments wɔ agorɔ a ɛyɛ fɛ ma tablet
-  anaa komputa: mfatoho, nhwehwɛ ɔfa a ɛte saa, sorting ma basket mu, picture
-  puzzle ne ahomegyebɔ a ɛyɛ mmerɛw. Tena wo mu ne onipa no mu, na gyae bere
-  biara a ɔpɛ. Agorɔ biara nnyae dementia anaa nnwane no; ɛfiri ho ne ahomegyebɔ
-  a ɛyɛ ahoɔfɛ a wobɛyɛ ne nkurɔfo.
+  Akwantuo dwumadie a ɛyɛ mmerɛ ma dementia nkurɔfo bue wɛb browser mu, a app
+  anaa account nhia. Golden Moments wɔ mfonini dwumadie a ɛyɛ mmerɛ ma tablet
+  anaa komputa: mfonini matching, mfonini a ɛte sɛ ɛno hwehwɛ, nsiesie wɔ
+  basket mu, mfonini nkyekyɛ ne ahomegyedi a ɛyɛ bɔbɔ. Fa wo ho ne onipa no
+  begyina ne akyi, na gyae bere biara a wɔpɛ. Dwumadie biara nni dementia
+  yare; nea ɛyɛ mfaso ne ahomegyedi a ɛma obiara di ho anigye.
 keyPoints:
-  - "Yi agorɔ a ɛyɛ adwuma wɔ picture a wobehu, na ɛnyɛ wɔ mmara, asɛm anaa agyapade so."
-  - "Bue agorɔ no wɔ browser so wɔ tablet anaa komputa so, tena onipa no ho, na ma no ntwe anaa ntwɛn."
-  - "Fa screen a ɛkɔ soro anaa stand, na yi notifications ne tabs a aka no fi hɔ ansa na worefi ase."
-  - "Agorɔ a ɛfa photo ho kɔ so hwɛ photo no wɔ browser mu wɔ device no so; hwɛ privacy nkyerɛkyerɛ ansa na woka family photos wɔ komputa a nnipa bebree de di dwuma so."
-  - "Gyae bere a ɛyɛ ntɛm nso yɛ ade pa. Agorɔ yi nni nea ɛtwerɛ anaa ɛbu onipa no ho."
+  - "Yi dwumadie a ɛyɛ adwuma wɔ mfonini hunu so, na ɛnyɛ wɔ mmara, asɛm anaa asɛmpa a wɔde kae so."
+  - "Bue dwumadie no wɔ browser so wɔ tablet anaa komputa so, fa wo ho begyina onipa no akyi, na ma wɔn ntwa anaa ntwa asɛm so."
+  - "Fa screen a ɛyɛ kɛse anaa stand, na gyae notifications ne tabs foforo ansa na woreresi."
+  - "Mfonini dwumadie no sie mfonini no wɔ browser so wɔ device no mu; hwɛ privacy nkyerɛwee no ansa na wode mfonini a ɛfa abusua ho bɛka komputa a ɛyɛ bi."
+  - "Ɛyɛ papa sɛ wogyae bere a ɛnnyɛ ara. Dwumadie yi nni biribi a ɛhwehwɛ anaa ɛde onipa no so nhwɛ."
 faq:
-  - q: "Ɛdeɛn online agorɔ akyiwadeɛ na nnipa a dementia adi wɔn so betumi ayɛ a wɔrentwe kɔ so?"
-    a: "Picture agorɔ a ɛyɛ mmerɛw yɛ fɛ paa: mfatoho ma picture a ɛte saa, hwehwɛ picture koro no fi nsɛnkyerɛnne kakraa mu, sorting nneɛma ma basket mu, ne picture a wɔatwa ɔfa mu a wobetumi asesa. Golden Moments wɔ saa agorɔ yi wɔ browser mu, a ɛnhia download anaa account. Fi picture a ɛyɛ kɛse paa a wobetumi anya ase."
-  - q: "Brain games betumi aboa dementia?"
-    a: "Agorɔ biara nnyae, nnwane anaa ntwe dementia. United States Federal Trade Commission ayɛ adwuma tiaa brain-training companies bere a na wɔka nsɛm a wɔrentumi nnye ho nnennen. Fa agorɔ yi di dwuma esiane sɛ ɛyɛ anigye na ɛyɛ mmerɛw sɛ wobɛka ho, na ɛnyɛ sɛ ɔyare bɔ."
-  - q: "Online agorɔ bɛyɛ mmerɛw ma onipa a dementia adi no so?"
-    a: "Ɛbetumi ayɛ, bere a obi hwɛ so. Kora device no nkɔ hɔ a obiara a ɔbɛtumi akɔ kwan wɔ so bɛtumi de akɔ. Yɛ ntua a ɛba pop-up ne links a ɛfiri baabi foforo. Nnyɛ sɛ wobɛgyae onipa no nkutoo wɔ screen a ɛsrɛ sika anaa password. Hwɛ device no privacy settings ansa na wode photos di dwuma."
-  - q: "Dɛn na ɛbɛyɛ sɛ onipa no ho ye no wɔ agorɔ no mu?"
-    a: "Sesa kɔ agorɔ a ɛyɛ mmerɛw kɛse, fa picture kakra, anaa yi agorɔ foforo. Sɛ ɔbɔ mmɔden, fa device no sie na fa aduane, nantew anaa dwom mmom. Agorɔ a ɛma onipa no ho ye nyɛ ade a ɛfata sɛ wobɛtwe."
+  - q: "Dwumadie bɛn a ɛwɔ wɛb so a dementia nkurɔfo bɛtumi abue a wɔrenhyɛ ho nhwɛso?"
+    a: "Mfonini dwumadie a ɛyɛ mmerɛ na ɛyɛ papa: mfonini a ɛte sɛ ɛno matching, mfonini a ɛte sɛ ɛno hwehwɛ wɔ nneɛma kakra mu, nneɛma a wɔde ka basket mu, ne mfonini a wɔatua mu nkyekyɛ a wɔbɛtumi asesa ne ho. Golden Moments wɔ saa dwumadie yi wɔ browser so, a wonhyɛ ho nhwɛso na wonhia account. Fi mfonini kɛse a wobɛtumi anya hɔ."
+  - q: "Brain games boa dementia?"
+    a: "Dwumadie biara nni nea wɔahu sɛ ɛbɔ dementia yare, ɛkyerɛ ɛno, anaa ɛma ɛnntɔ mmere. U.S. Federal Trade Commission adi amanneɛ tia kompani a wɔde brain-training di dwuma wɔ nneɛma a wɔantumi ankyerɛ mu. Fa dwumadie yi di dwuma sɛ ɛyɛ anigye na ɛyɛ mmerɛ sɛ wobɛka, na ɛnyɛ sɛ ɛyɛ ayaresa."
+  - q: "Wɛb dwumadie yɛ ahobammɔ ma obi a ɔwɔ dementia?"
+    a: "Ɛbetumi ayɛ ahobammɔ sɛ wɔhwɛ so. Hwɛ sɛ device no nni hɔ a obiara a ɔbɛtumi akɔ kwan wɔ fie a ɔbɛfa akɔ. Gyina pop-up ads ne external links ho, na nnyina onipa no nko wɔ screen a ɛhwehwɛ password anaa sika kaad. Hwɛ device no privacy settings ansa na wode mfonini bedi dwuma."
+  - q: "Dɛn sɛ onipa no fa abufuw wɔ dwumadie bi ho?"
+    a: "Sesa kɔ nea ɛyɛ mmerɛ, fa mfonini kakra di dwuma, anaa yi dwumadie foforo. Sɛ abufuw bɛba a, tew device no kɔ fam, na ka sɛ wɔmfa nnuan, nantew, anaa nnwom mmoa wɔn. Dwumadie a ɛma ɔhaw ba nni ho botae sɛ wobɛwie."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -49,54 +49,54 @@ related: [activities/memory-games, activities/puzzles, activities/ideas, caregiv
 health: false
 ---
 
-Nnipa bebree hwehwɛ akyiwadeɛ online agorɔ ma dementia efisɛ wopɛ ade a wobɛyɛ wɔ ho bom a ɛnhia store, login anaa credit card. Nneɛma a ɛyɛ mmerɛw ne a ɛfa picture ho, ɛyɛ mmerɛw sɛ wobɛgyae. Ɛsɛ sɛ ɛyɛ anigye a mo nyinaa mo ho te so, na ɛnyɛ ɔsɔhwɛ. Saa adwinnade yi kyerɛkyerɛ nea wobɛhwehwɛ, sɛnea wobɛhyehyɛ agorɔ, ne nea saa agorɔ yi betumi ayɛ ne nea entumi nyɛ.
+Nkurɔfo bebree hwehwɛ akwantuo dwumadie ma dementia ɛfiri sɛ wɔpɛ biribi a wɔbɛyɛ wɔn ho pɛn a ɛnhia abɔnten, login anaa sika kaad. Nea ɛyɛ papa ne nea ɛyɛ mmerɛ, ne mfonini so, na ɛyɛ mmerɛ sɛ wobɛgyae. Ɛsɛ sɛ ɛma ɛyɛ anigye a obi nya ne ho, na ɛnyɛ sɛ ɛyɛ sɔhwɛ. Saa adesua yi kyerɛkyerɛ nea wɔhwehwɛ, sɛnea wɔbɛhyehyɛ dwumadie, ne nea saa dwumadie yi betumi ayɛ ne nea entumi nyɛ.
 
-## Dɛn na ɛma online agorɔ fata ma dementia?
+## Dɛn na ɛma wɛb dwumadie yɛ mmerɛ ma dementia?
 
-Agorɔ fata ma nnipa a dementia adi wɔn so bere a ɛhwehwɛ nea wohu, ɛnyɛ nea wokae. Ɛde picture a ɛte saa mmom ne nea ɛka ho, sɛ ɔfa picture a ɛbɔ ɔkyerɛkyerɛ ho, anaa de nneɛma tow basket a ɛfata mu, nea ɛde hwɛ mu ankasa na ɛyɛ adwuma. Agorɔ a ɛhwehwɛ sɛ wokae mmara, asɛm, nɔma anaa nea wayɛ kan no tendenem nyinaa ɛyɛ ɔhaw.
+Dwumadie fata ma nkurɔfo bebree a ɔwɔ dementia sɛ ɛhwehwɛ sɛ wɔhunu biribi, na ɛnyɛ sɛ wɔkae biribi. Mfonini a ɛte sɛ ɛno ntwe, sɛ wotwe mfonini a ɛfata a ɛwɔ ɔkyinkyin so, anaa sɛ wotow nneɛma nkɔ basket a ɛfata mu, ne nea ɛsɛ ma aniwa hunu nnɛ so. Dwumadie a ɛhwehwɛ sɛ wokae mmara, asɛm, nɔma anaa ɔkwan a wɔtow atwa ansa na ɛkɔ so, ɛde ahohia ba.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) kamfo nneyɛeɛ a ɛdi onipa no ani ne nea ɔka ho, na ɛma ɔdi nkonimdi a ɔnnyɛ mmoa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka sɛ sɛ ahoɔden no sesa a, ɛsɛ sɛ wosiesie nneyɛeɛ no, na ɛnyɛ sɛ wogyae.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) kamfo nneyɛe a ɛfa nea onipa no ka ho anigye ne nea ɔtumi yɛ, na ɛma ɔnya ɔkwan a ɔbɛyɛ so a obenya boasetɔ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka sɛ sɛ nneyɛe no sakra no, ɛsɛ sɛ wosiesie no mmom sɛ wobɛgyae.
 
-## Golden Moments agorɔ a wobetumi abue wɔ browser mu
+## Golden Moments dwumadie a wobetumi abue wɔ browser mu
 
-Agorɔ biara a ɛwɔ hɔ yi bue fi websaet no so a ɛnhia download. Ɛbɛyɛ adwuma wɔ tablet anaa komputa so; ebinom nso betumi ahyɛ no ase.
+Dwumadie a edi so yi bue fi website no so, na wonhyɛ ho nhwɛso. Ɛbarima mu no kɔ tablet anaa komputa so; ebinom nso betumi ayɛ print.
 
-- **[Picture pairs](/games/picture-pairs/).** Mfatoho kɛse a picture no wɔ hɔ, na ɛnni timer anaa nsɛnkyerɛnne. Ɛyɛ fɛ ma agorɔ a edi kan.
-- **[Find the same](/games/find-the-same/).** Picture biako wɔ soro, na ɛte saa koro no nso wɔ ase wɔ nsɛnkyerɛnne mmienu kosi anan mu.
-- **[Shadow match](/games/shadow-match/).** Ntwiti a ɛyɛ mmerɛw bɛpue soro; tow picture a ɛyɛ saa ntwiti no.
-- **[Sort together](/games/sort-together/).** Tow picture, then basket a ɛfata ma no, te sɛ kitchen anaa garden.
-- **[Picture puzzle](/games/picture-puzzle/).** Wɔtwa picture no ayɛ ntakra, na picture no nyinaa hyɛ hɔ sɛ akwankyerɛ.
-- **[Finish the saying](/games/finish-the-saying/).** Nsɛm a wonim a nkyɛn no nni; tow nsɛnkyerɛnne anaa da nsɛm no awiei.
-- **[Conversation cards](/games/conversation-cards/).** Picture cards a ɛwɔ nsɛm a ɛma wɔka, ɛnyɛ nsɛmmisa. Wobetumi asɔ wɔn nso.
-- **[Photo pairs](/games/photo-pairs/).** Mfatoho a wɔyɛ fi photos a wopɛ wɔ device no so. Photos no kɔ so wɔ browser mu wɔ device no so.
-- **[Calm breathing](/games/calm-breathing/).** Ɔkwan a ɛyɛ bɔkɔɔ ne mmerɛw sɛ wobɛhome wɔ ne ho. Wo na wofi ase, na wo na wosiw.
+- **[Picture pairs](/games/picture-pairs/).** Mfonini a ɛte sɛ ɛno a wɔka ho ntwa, na mfonini no wɔ hɔ, na nsɛnkyerɛnne anaa timer nni hɔ. Ɛyɛ papa ma dwumadie a edi kan.
+- **[Find the same](/games/find-the-same/).** Mfonini baako wɔ soro, na sɛ ɛno sɛ mfonini a ɛte sɛ ɛno nso wɔ nneɛma meyɛnsa kɔsi anan wɔ fam.
+- **[Shadow match](/games/shadow-match/).** Ɔkyinkyin kakra bɛba soro; tow mfonini a ɛyɛ ɔkyinkyin no.
+- **[Sort together](/games/sort-together/).** Tow mfonini, afei tow basket a ɛfata ne mu, sɛ ɛdan anaa akyiwadeɛ.
+- **[Picture puzzle](/games/picture-puzzle/).** Wɔtwa mfonini no ayɛ nkyekyɛ, na mfonini nyinaa hyɛ hɔ sɛ akwankyerɛ.
+- **[Finish the saying](/games/finish-the-saying/).** Mmebusɛm a wɔanya ahyɛ no ne ɛdeɛ a ɛtwa so, na ɛsɛ sɛ wotow ɔkwan anaa ma ɛno ada.
+- **[Conversation cards](/games/conversation-cards/).** Mfonini kaad a ɛma wobɛka asɛm, na ɛnyɛ asɛmmisa. Wobetumi aprint nso.
+- **[Photo pairs](/games/photo-pairs/).** Mfonini a ɛte sɛ ɛno a wopaw wɔ device no so. Mfonini no sie wɔ browser so wɔ device no mu.
+- **[Calm breathing](/games/calm-breathing/).** Ɛyɛ bere a ɛyɛ brɛoo, ɛyɛ nwoa, a mo nyinaa hwɛ ho. Wo na wofi ase na wo na wogyae.
 
-Word search, coloring ne picture bingo nso wɔ hɔ sɛ nneɛma a wobetumi asɔ. Hwɛ [free printable dementia activities](/activities/printable/) ma nkyerɛkyerɛ a ɛboro saa.
+Ebinom nso wɔ word search, coloring ne picture bingo a wobetumi aprint. Hwɛ [free printable dementia activities](/activities/printable/) ma nsɛm a ɛsɛ.
 
-## Sɛnea wobɛhyehyɛ agorɔ bere
+## Sɛnea wobɛhyehyɛ dwumadie bere
 
-1. **Paw bere a ɛdwodwo** bere a onipa no ada adwo. Anadwo a ɛreba no, ebinom nni wɔn ho mfasoɔ, enti hwɛ wo ankasa ahwehwɛ kan.
-2. **Fa screen kɛse.** Tablet a ɛwɔ stand anaa komputa a browser no kɔ so kɛse yɛ mmerɛw sɛ wobɛhu na wobɛtumi atow.
-3. **Tew tabs a aka no ne notifications.** Pop-ups a ɛbɛba ntɛmntɛm bɛma wo ho ayɛ hu na ebetumi ama agorɔ a ɛyɛ fɛ awie.
-4. **Tena wo mu ne onipa no, nnyɛ sɛ wobɛtena nʼanim.** Ɛyɛ nkɔnkɔnkɔ sɛ mo ne hɔ hyɛ hɔ, na ɛnyɛ ɔsɔhwɛ.
-5. **Fi agorɔ biako ase wɔ simma nnɔnhwerɛ kɛse anaa mmienu.** Ma onipa no ntɔ screen no anaa ɔnnɔ, bere a mo nyinaa mo wɔ nkyɛnkyɛn mu.
-6. **Ka ase wɔ nea ɛyɛ.** Wie agorɔ no, na ka picture biako ho asɛm anaa frɛ no sɛ moanom tii.
+1. **Paw bere a ɛyɛ dekɛ** bere a onipa no ada so. Anwummere bi ɛyɛ den ma nkurɔfo bi, enti hwɛ wo ankasa nhyehyɛe kan.
+2. **Fa screen a ɛyɛ kɛse.** Tablet a ɛwɔ stand so, anaa komputa a wɔde browser no ahyɛ kɛse, yɛ mmerɛ sɛ wobɛhunu na wobɛtumi ahyɛ ho.
+3. **Tew tabs foforo ne gyae notifications.** Pop-up a ɛba ntɛmntɛm de ahuhudi ba na betumi asɛe bere papa.
+4. **Fa wo ho begyina onipa no akyi, na nnyina ne tɔ so.** Sɛ wohwɛ ne ho pɛn no, ɛte sɛ obi a ɔne wo, na ɛnyɛ sɛ ɛyɛ sɔhwɛ.
+5. **Fi dwumadie baako ase bere a ɛyɛ simma 5 kosi 10.** Ma onipa no nna screen no anaa ma ɔmfa ne nsa so kyerɛ, na mo nyinaa yɛ mo kwan.
+6. **Gyae bere a ɛyɛ papa.** Gyae kwan, afei ka mfonini baako ho asɛm anaa ka sɛ moninom tii tii.
 
-## Ahobammɔ ne privacy wɔ device a nnipa bebree de di dwuma so
+## Privacy ne ahobammɔ wɔ device a obi nyinaa de di dwuma
 
-- **Photos gyina device no so.** Photo pairs de photos a wopɛ di dwuma, na ɛkɔ so wɔ browser mu wɔ device no so. Hwɛ hwan na ɛtumi bue komputa anaa tablet no.
-- **Tew links a ɛfiri baabi foforo ne ads.** Fa agorɔ no fi websaet no so pɛpɛɛpɛ, na nnnɔ banners anaa nsɛnkyerɛnne a ɛsrɛ nsɛm ho nsɛm.
-- **Hyɛ sika ne accounts ankyɛ.** Nnyɛ sɛ wobɛgyae onipa no nkutoo wɔ screen a ɛsrɛ password anaa card number.
-- **Hwɛ sɛ onipa no bɛkɔ nkɔ.** Kora tablet no nkɔ hɔ sɛ onipa no betumi akɔ fie firi hɔ de.
+- **Mfonini te device no so.** Photo pairs de mfonini a wopaw di dwuma, na ɛsie wɔ browser so wɔ device no mu. Hwɛ obiara a ɔbɛtumi abue komputa anaa tablet no.
+- **Gyina external links ne ads ho.** Fa dwumadie no fi site no so, na nnyɛ banner anaa prompt a ɛhwehwɛ wo ho nsɛm pɛn so.
+- **Fa sika ne account nkyɛ.** Nnyina onipa no nko wɔ screen a ɛhwehwɛ password anaa sika kaad nɔma.
+- **Hwɛ sɛ obi rentu.** Fa tablet no kɔ baabi a ɔrenya hwee, sɛ onipa no betumi afi fie a ɔde no bɛkɔ.
 
-Sɛ wopɛ nkyerɛwde a ɛyɛ kɛse, hwɛ [how to choose dementia apps and games](/caregiving/choosing-apps-and-games/) ne [setting up a tablet or phone](/caregiving/tablets-and-screens/).
+Sɛ wopɛ nhwehwɛmu a ɛtrɛw, hwɛ [how to choose dementia apps and games](/caregiving/choosing-apps-and-games/) ne [setting up a tablet or phone](/caregiving/tablets-and-screens/).
 
-## Dɛn na agorɔ yi betumi ayɛ, ne dɛn na entumi nyɛ
+## Dɛn na dwumadie yi betumi ayɛ, na dɛn na ɛntumi nyɛ
 
-Online agorɔ ma nnipa a dementia adi wɔn so ma wɔn anigye bere biako, wɔhwɛ picture bom, ne sɛ wɔbɛyɛ adwuma bi a ɛnnhyɛ wɔn so mmoa. Ɛnnyae dementia, ɛnnwane no, na ɛnnntwe no. Nsɛm a ɛbɛyɛ kɛse ne [Federal Trade Commission's 2016 action against Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program), a na wɔrentumi nnye nsɛm a wɔka wɔ brain-training ho nnennen. Hwɛ agorɔ, app anaa websaet biara a ɛka sɛ ɛbɛma wo nteaseɛ ayɛ yie, ɛbɛsusuw wo brɛ anaa ɛka sɛ ɛbɛma ɔyare no kɔ akyi.
+Wɛb dwumadie ma dementia nkurɔfo ma wɔnya anigye bere kakra, wɔhwɛ mfonini bom, na wɔyɛ biribi a ɛnnyina ahohia. Ɛnyɛ dementia yare, ɛnkyerɛ ɛno, na ɛnnsiw ɔyaresa. Nsɛm bi a ɛfa ho a ɛtraa ase ne [Federal Trade Commission's 2016 action against Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program), a ɛfa brain-training nkɔso a wɔantumi ankyerɛ mu. Fa ahotoso ma dwumadie, app anaa website biara a ɛka sɛ ɛbɛma nkaeɛ ayɛ papa, ɛbɛsusuw wo adwene anaa ɛka sɛ ɛbɛma ɔkwan a aduru so akɔ akyiri.
 
-Fa agorɔ yi di dwuma sɛ ɛyɛ nea ɛboa wɔ da a ɛka nnwom, nantew, asɛm ne ɔda ho nso. Sɛ wopɛ kenkan a ɛkyerɛ sɛnea wobɛma agorɔ ayɛ anigye nanso ɛnyɛ ɔsɔhwɛ, hwɛ [how to play games with someone who has dementia](/caregiving/how-to-play-together/) ne [memory games that do not test](/activities/memory-games/).
+Fa dwumadie yi yɛ adwuma baako wɔ da a ɛka nnwom, ntamtam, nkɔmmɔ, asɛm ne ɔhome nso ho. Sɛ wopɛ kenkan a ɛkyerɛ sɛnea wobɛma dwumadie yɛ anigye sen ɔhaw, hwɛ [how to play games with someone who has dementia](/caregiving/how-to-play-together/) ne [memory games that do not test](/activities/memory-games/).
 
 ## Bere a wobɛgyae
 
-Gyae bere a onipa no hwɛ sɛ ɔayɛ fɛ, ɔbɔ mmɔden, ɔnya awerɛhyɛ anaa ɔnnyɛ ɔdɔ. Gyae bere a ɔnnya anigye bio. Ɛyɛ ade pa sɛ wogyae ntɛm. Wobetumi aba bio nna foforo, anaa wosesa kɔ asɛm anaa nantew.
+Gyae bere a onipa no hwɛ sɛ ɔnnya ahoɔden, ɔyɛ abufuw anaa ɔrenya asomdwoe. Gyae bere a ɔnnye ne ani wɔ ho. Ɛyɛ papa sɛ wogyae ntɛm. Wobetumi aba bio da foforo, anaa wosesa kɔ asɛmka anaa nantew.

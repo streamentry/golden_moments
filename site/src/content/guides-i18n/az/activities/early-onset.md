@@ -1,33 +1,28 @@
 ---
-title: "Erkən başlayan demans üçün fəaliyyətlər: işçi yaşdakı yetkinlər üçün ideyalar"
-seoTitle: "Erkən başlayan demans üçün fəaliyyətlər: ideyalar"
-description: "65 yaşdan əvvəl başlayan erkən demans üçün fəaliyyətlər: hobbilər, gəzintilər, gənclik musiqisi və tərəfdaşlar ilə böyük uşaqlar üçün dəstək."
+title: "Erkən başlayan demans üçün fəaliyyətlər: ideyalar"
+seoTitle: "Erkən demans üçün fəaliyyətlər: ideyalar"
+description: "65 yaşdan əvvəl başlayan erkən demans üçün fəaliyyətlər: hobbilər, gəzintilər, gənclik musiqisi və tərəfdaşlar və böyümüş uşaqlar üçün dəstək."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Erkən başlayan demans 65 yaşdan əvvəl başlayır, çox vaxt şəxs hələ işləyəndə,
-  sürücülük edəndə və ya uşaq böyüdəndə. Onların hobbilərini və dostluqlarını
-  qoruyun, özlərinə məxsus gəzintiləri seçin, öz illərindən olan musiqi və
-  fotolardan istifadə edin və planlar barədə qərarı onlara verin. Tərəfdaşlara
-  və böyük uşaqlara da dəstək lazımdır və Alzheimer Assosiasiyası onlar üçün
-  qruplar təşkil edir.
+  Erkən başlayan demans 65 yaşdan əvvəl ortaya çıxır, çox vaxt insan hələ işləyəndə, sürücülük edəndə və ya uşaq böyüdəndə. Hobbilərini və dostluqlarını saxlayın, ona aid olan gəzintiləri seçin, onun öz illərindən musiqi və fotoşəkillərdən istifadə edin və planlara nəzarəti ona verin. Tərəfdaşlara və böyümüş uşaqlara da dəstək lazımdır, Alzheimer Assosiasiyası onlar üçün qruplar təşkil edir.
 keyPoints:
-  - "Erkən başlayan demans 65 yaşdan əvvəl başlayır. İnsanlar çox vaxt təklif olunan fəaliyyətlərin öz yaşlarına uyğun olmadığını hiss edirlər."
-  - "Seçimlərə, hansı hobbini sınamaqdan hansı gəzintini planlamağa qədər, qərarı şəxsin özündə saxlayın."
-  - "İyirmi yaşdan əlli yaşa qədər olan musiqi, fotolar və hekayələr çox vaxt yaşlılıq dövrünün fəaliyyətlərindən daha mənalı olur."
-  - "Şəxs istədikdə aktiv və sosial qalın, fəaliyyəti əvəz etmək əvəzinə templəri tənzimləyin."
-  - "Qayğıkeşlər, xüsusilə tərəfdaşlar və böyük uşaqlar, həmyaşıd dəstək qruplarından faydalanır."
+  - "Erkən başlayan demans 65 yaşdan əvvəl başlayır. İnsanlar çox vaxt təklif olunan fəaliyyətlərin yaşlarına uyğun olmadığını hiss edirlər."
+  - "Seçimləri şəxsin öz əlində saxlayın: hansı hobbini sınamaq, hansı gəzintini planlaşdırmaq."
+  - "Onların 20-dən 50 yaşına qədər olan musiqi, fotoşəkil və hekayələri çox vaxt daha əhəmiyyətlidir, daha yaşlı dövrün fəaliyyətlərindən daha çox."
+  - "İstədikdə aktiv və ünsiyyətcil olmağa imkan verin və fəaliyyəti əvəz etmək əvəzinə tempi uyğunlaşdırın."
+  - "Qayğıkeşlər, xüsusilə tərəfdaşlar və böyümüş uşaqlar, həmyaşıdların dəstək qruplarından fayda görə bilər."
 faq:
   - q: "Erkən başlayan demans nədir?"
-    a: "Bu, 65 yaşdan əvvəl başlayan demansdır. Alzheimer Assosiasiyası qeyd edir ki, Alzheimer 65 yaşdan kiçik birinə təsir etdikdə gənc yaşda başlayan hesab olunur. Erkən başlayan demans gec başlayan demansdan daha az rast gəlinir, amma nadir deyil və təcrübə çox vaxt fərqli olur: şəxs hələ işləyə, sürücülük edə və övlad böyüdə bilər."
-  - q: "Erkən başlayan demansı olan birinə hansı fəaliyyətlər uyğundur?"
-    a: "Şəxsin yetkin həyatına uyğun fəaliyyətlər ən yaxşı işləyir: tanış hobbi, dostla gəzinti, könüllü növbə, ailə üçün yemək layihəsi, gənclik musiqisi və ya sevdiyi yerə səyahət. Seçimi onlara verin və fəaliyyətin özünü deyil, uzunluğunu və yoldaşları tənzimləyin."
-  - q: "Tərəfdaş və ya böyük uşaq haradan dəstək tapa bilər?"
-    a: "Alzheimer Assosiasiyası pulsuz qayğıkeş dəstək qrupları təşkil edir, o cümlədən gənc yaşda demansı olan birinə qayğı göstərənlər üçün qruplar. Qruplar və resurslar haqqında soruşmaq üçün 800.272.3900 nömrəli 24/7 Yardım xəttinə zəng edə bilərsiniz."
+    a: "Bu, 65 yaşdan əvvəl başlayan demansdır. Alzheimer Assosiasiyası qeyd edir ki, Alzheimer 65 yaşdan kiçik insana təsir etdikdə gənc yaşda başlayan hesab olunur. Erkən başlayan demans gec başlayan demansdan az rast gəlinir, lakin nadir deyil və təcrübə çox vaxt fərqlidir: şəxs hələ işləyə, sürücülük edə və valideynlik edə bilər."
+  - q: "Erkən başlayan demansı olan şəxs üçün hansı fəaliyyətlər uyğundur?"
+    a: "Böyüklük həyatına uyğun fəaliyyətlər ən yaxşı işləyir: tanış hobbi, dostla gəzinti, könüllü növbə, ailə üçün yemək layihəsi, öz gənclik musiqisi və ya sevdiyi yerə səyahət. Seçimi ona buraxın və fəaliyyətin özünü deyil, müddəti və yoldaşı tənzimləyin."
+  - q: "Tərəfdaş və ya böyümüş uşaq dəstəyi haradan tapa bilər?"
+    a: "Alzheimer Assosiasiyası pulsuz qayğıkeş dəstək qrupları təklif edir, o cümlədən gənc yaşda başlayan demansı olan birini qayğılandıranlar üçün qruplar. Qruplar və resurslar barədə soruşmaq üçün onun 24/7 Helpline xəttinə 800.272.3900 nömrəsi ilə zəng edə bilərsiniz (bu ABŞ nömrəsidir)."
   - q: "Erkən başlayan demansı olan şəxs sevdiyi fəaliyyətləri hələ də etməlidirmi?"
-    a: "Bəli, əgər təhlükəsizdirsə və özləri istəyirlərsə. Hobbilər, dini icmalar, idman və sosial vaxt tam həyatın bir hissəsidir. Quruluşu tənzimləyin, yoldaş götürün və istirahət üçün plan qurun, fəaliyyət yaxşı hiss etdirmədikdə isə dayandırın."
+    a: "Bəli, təhlükəsiz olduqca və özü istədikdə. Hobbilər, dini icmalar, məşq və sosial vaxt tam həyatın bir hissəsidir. Mühiti uyğunlaşdırın, yoldaş gətirin və istirahət üçün plan qurun, fəaliyyət yaxşı hiss etdirmədikdə isə dayandırın."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -46,45 +41,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Demans haqqında məlumatların çoxu şəxsin yetmiş və ya səksən yaşında olduğunu fərz edir. Qırx və ya əlli yaşında diaqnoz qoyulan insan üçün gündəlik həyat fərqlidir. Onların hələ işi, kredit borcu, yeniyetmə övladları və ya qayğı göstərməli olduqları valideyni ola bilər. Fəaliyyətlər bu yetkin həyatını nəzərə almalıdır. Bu bələdçi nələrin dəyişdiyini, nələri sınamaq olduğunu və tərəfdaşların və böyük uşaqların dəstəyi haradan ala biləcəyini izah edir.
+Demansla bağlı əksər məlumatlar şəxsin yetmiş və ya səksən yaşında olduğunu güman edir. Qırx və ya əlli yaşında diaqnoz qoyulmuş biri üçün gündəlik mənzərə fərqlidir. Onların hələ işi, kredit öhdəliyi, evdə yeniyetmə övladları və ya qayğısına qalmalı olduqları valideyni ola bilər. Fəaliyyətlər bu böyüklük həyatını nəzərə almalıdır. Bu bələdçi nələrin dəyişdiyini, nəyi sınamaq olduğunu və tərəfdaşların və böyümüş uşaqların dəstəyi haradan tapa biləcəyini izah edir.
 
 ## Erkən başlayan demans nədir?
 
-Erkən başlayan demans 65 yaşdan əvvəl başlayan demansdır, bəzən gənc yaşda başlayan adlandırılır. [Alzheimer Assosiasiyasının bloqu](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) Alzheimer xəstəliyini 65 yaşdan kiçik şəxsə təsir etdikdə gənc yaşda başlayan adlandırır və həmin yaşda birinə qayğı göstərmənin «özünəməxsus çətinlikləri» olduğunu qeyd edir. Simptomlar yaşlılıq dövrü ilə eyni ola bilər, lakin şəxsin gözləntiləri, məsuliyyətləri və sosial həyatı eyni olmur.
+Erkən başlayan demans 65 yaşdan əvvəl başlayan demansdır, bəzən gənc yaşda başlayan adlandırılır. [Alzheimer Assosiasiyasının bloqu](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) Alzheimeri 65 yaşdan kiçik şəxsə təsir etdikdə gənc yaşda başlayan kimi təsvir edir və həmin yaşda birini qayğılandırmağın «özünəməxsus çətinliklər» gətirdiyini qeyd edir. Simptomlar gec yaşdakı ilə eyni ola bilər, lakin şəxsin gözləntiləri, məsuliyyətləri və sosial həyatı eyni deyil.
 
-Bu xəstəlik daha az rast gəlindiyi üçün insanlar diaqnozu daha uzun gözləyə bilər, ailələr isə danışacaq kimsə olmadığını hiss edə bilər. Başqalarının da eyni təcrübəni yaşadığını bilmək çox vaxt rahatlıq gətirir.
+Daha az rast gəlindiyi üçün insanlar diaqnoz üçün daha uzun gözləyə bilər və ailələr danışacaq kimsənin olmadığını hiss edə bilər. Başqalarının da eyni təcrübə yaşadığını bilmək çox vaxt rahatlıq gətirir.
 
-## Fəaliyyətdə yetkinliyi qoruyun
+## Fəaliyyətdə böyüklüyü saxlayın
 
-Erkən başlayan demansı olan yetkinlər adətən özlərinə uşaq kimi yanaşılmasını istəmirlər. [Milli Yaşlanma İnstitutu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fəaliyyətləri şəxsin hələ edə və həzz ala biləcəyi işlərə uyğunlaşdırmağı məsləhət görür. Əlli yaşlarında olan biri üçün bu belə ola bilər:
+Erkən başlayan demansı olan böyüklər adətən özlərinə uşaq kimi yanaşılmasını istəmirlər. [ABŞ-ın Milli Qocalma İnstitutu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fəaliyyətləri şəxsin hələ edə və həzz ala biləcəyi işlərə uyğunlaşdırmağı tövsiyə edir. Əlli yaşında olan biri üçün bu belə ola bilər:
 
-- **Tanış bir hobbini saxlayın,** məsələn, ağac emalı, idman, kart oyunu, kitab klubu və ya xor, bir az köməklə və ya qısa sessiya ilə.
+- **Tanış hobbini saxlayın,** məsələn, ağac emalı, idman, kart oyunu, kitab klubu və ya xor, kiçik köməklə və ya qısa sessiya ilə.
 - **Yoldaşla gəzin və ya velosiped sürün,** yaxşı tanıdığı marşrutla.
-- **Ailə yeməyi bişirin,** şəxs bacardığı hissələri görərək.
+- **Ailə üçün yemək bişirin,** şəxs bacardığı hissələri görsün.
 - **Könüllü olun və ya kömək edin,** özü seçdiyi rolda, məsələn, ianələri çeşidləmək və ya məktəb tədbirində kömək etmək.
-- **Ona əziz olan yerə səyahət planlayın,** yoldaşla və sadə cədvəl ilə.
-- **Nəvələr, bacı və qardaşların uşaqları ilə vaxt keçirin,** oyun və ya layihə paylaşaraq.
+- **Ona vacib olan yerə səyahət planlaşdırın,** yoldaşla və sadə cədvəllə.
+- **Nəvələr, bacı və qardaş övladları ilə vaxt keçirin,** oyun və ya layihə paylaşaraq.
 
-Qərarı şəxsin özünə verin. «Bu günortadan sonra nə etmək istərdiniz?» deyə soruşmaq onların yerinə seçim etməkdən daha hörmətlidir.
+Seçimi ona buraxın. «Bu gün günortadan sonra nə etmək istərdiniz?» sualı onun yerinə seçim etməkdən daha hörmətlidir.
 
-## Onların öz illərindən musiqi və xatirələrdən istifadə edin
+## Onun öz illərindən musiqi və xatirələrdən istifadə edin
 
-İyirmi, otuz və qırx yaşlarından olan musiqi və fotolar isti hisslər və rahat söhbət yarada bilər. [Musiqi fəaliyyətləri](/activities/music/) bələdçisi pleylist hazırlamağı izah edir, [xatirə fəaliyyətləri](/activities/reminiscence/) isə fotoları və hekayələri sorğu-sual etmədən necə paylaşmağı göstərir. Daha yetkin bir oyun üçün iş, səyahət, dostlar və ailə haqqında açıq suallarla [söhbət kartları](/games/conversation-cards/) sınayın.
+İnsanın iyirmi, otuz və qırx yaşından olan musiqi və fotoşəkillər isti hisslər və rahat söhbət yarada bilər. [Musiqi fəaliyyətləri](/activities/music/) bələdçisi pleylist necə qurmağı izah edir, [xatirə fəaliyyətləri](/activities/reminiscence/) isə sual-cavab etmədən fotoşəkil və hekayələri necə paylaşmağı göstərir. Daha böyüklər üçün oyun axtarırsınızsa, iş, səyahət, dostlar və ailə barədə açıq suallarla [söhbət kartlarını](/games/conversation-cards/) sınayın.
 
-Ailə fotolarından hazırlanmış [foto cütləri](/games/photo-pairs/) oyunu da yaxşı ola bilər, çünki şəkillərdə şəxs üçün əhəmiyyətli insanlar və yerlər olur. Foto cütləri fotoları həmin cihazda, brauzerdə saxlayır.
+Ailə fotoşəkillərindən hazırlanmış [şəkil cütləri](/games/photo-pairs/) də yaxşı işləyə bilər, çünki şəkillərdə şəxs üçün vacib olan insanlar və yerlər var. Şəkil cütləri fotoşəkilləri həmin cihazda brauzerdə saxlayır.
 
 ## İş, sürücülük və gündəlik həyat
 
-Bir çox erkən başlayan demansı olan insan hələ işləyir, avtomobil sürür və ya pulunu idarə edir. Bunlar adi mənada fəaliyyət deyil, amma şəxsin nə edə biləcəyinə təsir edir. Həkimləri ilə sürücülük və iş təhlükəsizliyi barədə danışın və maliyyə və ya görüşlər üçün kömək istəyib-istəmədiklərini düşünün. Məqsəd şəxsin ləyaqətini qorumaq və onu istədiyi qədər işin içində saxlamaqdır.
+Erkən başlayan demansı olan bir çox insan hələ işləyir, sürücülük edir və ya pulunu idarə edir. Bunlar adi mənada fəaliyyət deyil, lakin şəxsin nə edə biləcəyini formalaşdırır. Sürücülük və iş təhlükəsizliyi barədə həkimləri ilə danışın və onların maliyyə və ya görüşlərdə kömək istəyib-istəmədiyini nəzərdən keçirin. Məqsəd, şəxsin istədiyi qədər iştirak etməsini saxlayaraq ləyaqətini qorumaqdır.
 
-Gündəlik rejim və aktiv qalma barədə məlumat üçün [yüngül gündəlik rejimə](/activities/daily-routine/) və [məişət işlərinə fəaliyyət kimi baxmağa](/activities/household-tasks/) baxın.
+Gündəlik rutin və aktiv qalma haqqında [yüngül gündəlik rutin](/activities/daily-routine/) və [ev işləri fəaliyyət kimi](/activities/household-tasks/) bələdçilərinə baxın.
 
-## Tərəfdaşlar və böyük uşaqlar üçün dəstək
+## Tərəfdaşlar və böyümüş uşaqlar üçün dəstək
 
-Tərəfdaşlar və böyük uşaqlar çox vaxt tənha hiss edirlər. Qayğı göstərmək iş və ailənin üstünə əlavə ikinci iş kimi görünə bilər. Alzheimer Assosiasiyasının bloq yazısında bildirilir ki, gənc yaşda demans qruplarının üzvləri bu qrupları hüquqi planlaşdırma kimi praktik məsələlərdə və sadəcə başa düşüldüklərini hiss etmələri üçün faydalı tapıblar. Orada həmçinin Assosiasiyanın pulsuz qayğıkeş dəstək qrupları təşkil etdiyi, o cümlədən gənc yaşda demansı olan birinə qayğı göstərənlər üçün qrupların olduğu və onlardan üçünün çərşənbə axşamı və çərşənbə günləri onlayn görüşdüyü qeyd olunur.
+Tərəfdaşlar və böyümüş uşaqlar çox vaxt təcrid olunmuş hiss edirlər. Qayğı göstərmək iş və ailənin üstünə ikinci bir iş kimi gələ bilər. Alzheimer Assosiasiyasının bloq yazısında bildirilir ki, gənc yaşda başlayan qruplarda olan qayğıkeşlər bu qrupları hüquqi planlaşdırma kimi praktik məsələlərdə və sadəcə başa düşülmək üçün faydalı tapıblar. Orada həmçinin qeyd olunur ki, Assosiasiya pulsuz qayğıkeş dəstək qrupları təşkil edir, o cümlədən gənc yaşda başlayan demansı olan birini qayğılandıranlar üçün qruplar, və bunlardan üçü çərşənbə axşamı və çərşənbə günləri onlayn görüşür.
 
-Qruplar haqqında soruşmaq üçün Assosiasiyanın 24/7 Yardım xəttinə 800.272.3900 nömrəsindən zəng edin. [Qayğıkeşin özünə qulluq bələdçisi](/caregiving/caregiver-self-care/) istirahət, müvəqqəti əvəzləmə və yorğunluq əlamətləri haqqında məlumat verir.
+Qruplar barədə soruşmaq üçün Assosiasiyanın 24/7 Helpline xəttinə 800.272.3900 nömrəsi ilə zəng edin (bu ABŞ nömrəsidir). Tam istirahət, müvəqqəti əvəzetmə və tükənmə əlamətləri üçün [qayğıkeş özünəqayğı bələdçimizə](/caregiving/caregiver-self-care/) baxın.
 
 ## Mərhələlər hələ də vacibdir
 
-Şəxsin demans mərhələsi hələ də nəyin kömək etdiyinə təsir edir. Əvvəlində çox adam adi fəaliyyətlərini bəzi dəyişikliklərlə edə bilir və [erkən mərhələ fəaliyyətləri](/activities/early-stage/) bələdçisində daha çox fikir var. Sonrakı dövrdə fəaliyyətlər sadələşir və hisslərə daha çox əsaslanır, bu barədə [son mərhələ fəaliyyətləri](/activities/late-stage/) bölməsində yazılıb. Şəxs dəyişdikcə fəaliyyəti də dəyişin və mümkün olduqda nə istədiyini soruşun.
+Şəxsin demans mərhələsi hələ də nəyin kömək etdiyini formalaşdırır. Əvvəldə əksər insanlar bəzi dəyişikliklərlə adi fəaliyyətlərini edə bilirlər və [erkən mərhələ fəaliyyətləri](/activities/early-stage/) bələdçimizdə daha çox ideya var. Sonrakı dövrdə fəaliyyətlər daha sadə və duyğulara yönəlmiş olur, [son mərhələ fəaliyyətləri](/activities/late-stage/) bələdçisində təsvir edildiyi kimi. Şəxs dəyişdikcə fəaliyyəti də dəyişin və mümkün olduqda ondan nə istədiyini soruşun.

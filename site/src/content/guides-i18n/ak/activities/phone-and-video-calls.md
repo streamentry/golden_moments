@@ -1,35 +1,34 @@
 ---
-title: "Fon ne Video Nkɔmmɔ Adwuma ma Obi a Dementia Wɔ No"
-seoTitle: "Video Nkɔmmɔ Adwuma ma Dementia"
-description: "Fon ne video nkɔmmɔ adwuma ma abusua a wɔwɔ akwan atirimpɔw: nea wobɛkyerɛ, kenkan, nnwom ne mmoa ma boafo."
+title: "Nnwuma wɔ Fon ne Video Call so ma Obi a Dementia Wɔ Ho"
+seoTitle: "Video Call Nnwuma ma Dementia"
+description: "Video call ne fon nnwuma ma abusua a wɔwɔ akyirikyiri fi obi a Dementia wɔ ho: nkyerɛ biribi, kenkan nwoma, dwene, ne mmoa a wɔbɛyɛ wɔ abɔnten so, ne mmuae ma wɔn a wɔboa."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Nkɔmmɔ a wobɛyɛ ne obi a dementia wɔ no ne wɔn yiyi nkitahodie no yɛ mfaso
-  sɛ ɛyɛ tebea a ɛntɔ mu, ɛtɔ da so, na wɔde biribi a mo ne ne bɛyɛ ka ho.
-  Nea ɛbɛyɛ ni ne sɛ wobɛka ne mmoa anaa wo turo, wokenkan mfonini, wokenkan
-  nkɔmmɔ, wobɛdwene dwene anaa wobɛtumi de ahurusi nnwom ayɛ kɔmpiuta
-  so. Sɛ wobetumi a, fa nkɔmmɔ no ma ɛyɛ bere koro so; ka mmara no ka ho
-  bere biara, na fa boafo bi a ɔwɔ hɔ ka ho.
+  Frɛ a wofrɛ obi a ɔwɔ Dementia ho no yɛ papa sɛ ɛyɛ tiaa, ɛbɛba daa daa, na
+  wɔahyehyɛ ho sɛ wobɛyɛ biribi wɔ ho bom, te sɛ nkyerɛ wɔn anwannwanee anaa
+  wo kuruwa, hwɛ mfonini, kenkan nwoma, dwene anigye dwene a wɔpɛ, anaa yɛ
+  abɔnten kakra wɔ abɔnten so. Frɛ no wɔ bere koro so sɛ wubetumi, ma obi biako
+  nkasa bere biara, na kɔ abusua a ɔwɔ hɔ so nka wo ho boa.
 keyPoints:
-  - "Adwuma bi ma nkɔmmɔ no nhyehyɛe, na ɛyi nkɔmmɔ no ahohia afiri. Hyehyɛ biribi a ɛyɛ mmerɛ a wobɛkyekye."
-  - "Nkɔmmɔ a ɛyɛ ketewa na ɛba bere koro so, bere a ɛtɔ da so, yɛ mfaso sen nkɔmmɔ tenten a ɛba bere bi a."
-  - "Obi biara kasa bere biara. Nkɔmmɔ a nkurɔfo pii ka ho bɛyɛ den sɛ wobɛte, titiriw sɛ wotie yiye."
-  - "Boafo a ɔwɔ hɔ betumi ahyehyɛ device no, atena ase wɔ obi no nkyɛn, na ɔyɛ 'nsa' ma adwuma biara anaa mfonini biara."
-  - "Sɛ nkɔmmɔ no nyɛ adwuma nnɛ a, gyae no wɔ ahoɔfɛ mu. Ɛyɛ yie sɛ wosan bɔ bio ɔkyena."
+  - "Nnwuma bi ma frɛ no kwan na ɛma nkɔmhyɛ nyɛ den. Hyehyɛ biribi a ɛyɛ mmerɛ a mo nyinaa bɛfa."
+  - "Frɛ a ɛyɛ tiaa, a wɔfrɛ bere koro so, boa sen frɛ a ɛyɛ tenten nanso ɛnyɛ daa."
+  - "Obi biako na ɔkasa bere biara. Frɛ a nnipa pii ka ho ne nkasa a ɛnyɛ ɛnkyene ye sɛ obi tee, titiriw sɛ ɔtie yiye."
+  - "Obi a ɔwɔ hɔ betumi ahyehyɛ fon no, atena ase ne obi, na ayɛ 'nsa' ma adeɛ biara a ɛwɔ abɔnten anaa mfonini."
+  - "Sɛ frɛ no nyɛ yie nnɛ, kyerɛ no ayamyɛ. Ɛyɛ yie sɛ wosan bɔ bio ɔkyena."
 faq:
-  - q: "Dɛn na metumi ayɛ wɔ video nkɔmmɔ mu ma obi a dementia wɔ no?"
-    a: "Hyehyɛ adwuma bi a ɛyɛ mmerɛ: kyerɛ wo akyikyedua, akraman anaa wo ɛdan; hwehwɛ mfonini a ɛyɛ nkyɛn ne nkɔmmɔ; kenkan nkyerɛwde anaa aseɛ tiaa bi; ka dwom a wɔpɛ; yɛ bɔɔlo a wɔyɛ bere koro no mu; anaa yɛ mfonini kɔmpiuta no so ahurusi dwumadie bi. Adwuma ma nkɔmmɔ no nhyehyɛe, na obi no nhia sɛ ɔde kasa nyinaa ma."
-  - q: "Ɛsɛ sɛ video nkɔmmɔ no maa bere sɛn?"
-    a: "Ɛnyɛ den sɛ ɛbɛyɛ tenten sen sɛ wobɛhwɛ. Nkɔmmɔ a wɔyɛ bere ketewa a ɛyɛ mmerɛ bɛtumi aboa, titiriw sɛ obi no ayɛ mmerɛ ntɛm. Ɛbɛyɛ sɛ nkɔmmɔ bere koro so betumi aboa sen sɛ nkɔmmɔ biara tenten sɛn."
-  - q: "Sɛ wɔbɛkyɛ anaa wɔn ani bɛgu video nkɔmmɔ ho a?"
-    a: "Nkurɔfo bi hu sɛ ahunu a ɛwɔ screen so yɛ basabasa. Sɔ telefon nkɔmmɔ kɛse, anaa video a wo ne ho boafo betumi ada wɔ bere a ɛyɛ dwodwo, anaa mfonini ne nkyerɛwde a wɔde toa so. Sɛ nkɔmmɔ no antumi nyɛ yie a, gyae no wɔ ahoɔfɛ mu na san bɔ bio da foforo anaa bere foforo."
-  - q: "Ɛdeɛ na metumi aboa me maame ma ɔnyɛ video nkɔmmɔ a ɔntumi nnfa telefon no nni?"
-    a: "Srɛ abusua no mu obi, ɔboafo a ɔwɔ fie anaa ɔyaresafo a ɔwɔ ɔdan a wɔboa wɔn no mu sɛ ɔnhyɛ nkɔmmɔ no ase na ɔnhwɛ device no anaa ɔnhyɛ no mu. Ayaresa ɔdan bi boa abusua no wɔ video nkɔmmɔ mu, enti bisa bere a wɔwɔ. Tablet a wɔde gyina stand so, a ɛwɔ screen kɛse na ne nne dɔɔso, ma obiara tumi te ne nkɔmmɔ."
-  - q: "Yɛbetumi ayɛ kɔmpiuta so ahurusi bi ka ho wɔ video so?"
-    a: "Yɛbetumi. Ɛyɛ ɔkwan a ɛyɛ mmerɛ sɛ obi bi bue ne screen wɔ video app no so bere a obi foforo ka kyerɛ no nea ɛsɛ sɛ ɔtɔ mfonini. Anaa boafo a ɔwɔ hɔ betumi abue ahurusi no wɔ tablet so na ɔnnɔ ma obi no bere a wo ne no reka. Paw ahurusi a bere nni ho na ɔnni nkontaabu."
+  - q: "Dɛn na metumi ayɛ wɔ video call so wɔ obi a ɔwɔ dementia ho?"
+    a: "Hyehyɛ nnwuma koro a ɛyɛ mmerɛ: kyerɛ wo turo, wo akraman anaa wo ɛdan; hwɛ mfonini a ɛyɛ dedaw bɛyɛ; kenkan asɛm tiaa anaa nkrasɛm a wɔkyerɛw; kenka dwene a wɔpɛ; anaa yɛ nnuadzeɛ bi a ɛyɛ mmerɛ wɔ abɔnten so. Nnwuma ma frɛ no wɔ akwan, enti obi no nhia sɛ ɔde nkasa nyinaa ahyɛ mu."
+  - q: "Frɛ a ɛsɛ sɛ ɛyɛ tenten sɛn?"
+    a: "Ɛdɛn a wo ani gye ne sɛ ɛsɛ sɛ ɛyɛ tenten sen sɛ wobɛhwɛ. Nkɔmhyɛ nkakrankakra a ɛyɛ anigye betumi ayɛ, titiriw sɛ obi no ahwe ahwe. Frɛ a ɛba daa daa wɔ bere koro so betumi asɛe sen frɛ bere tenten."
+  - q: "Dɛn na ɛbɛyɛ sɛ wɔn anyɛ mfiri anaa wɔn ani agu video call so?"
+    a: "Nnipa bi hu sɛ anipa a ɛwɔ abɔnten so yɛ nsɛnsɛn. Hwehwɛ fon a ɛyɛ pɛpɛɛpɛ, video nkrasɛm a wobetumi akyerɛ wɔ bere a ɛyɛ ahomeka, anaa nkyerɛwde ne mfonini a wɔde kɔ mail. Sɛ frɛ no kɔ yie, yɛ ayamyɛ, na sɛ wosan bɔ bio nna foforɔ anaa bere foforɔ."
+  - q: "Sɛn na metumi aboa me maame ma ɔnyɛ video call bere a ɔntumi nnyina fon so?"
+    a: "Srɛ abusuafoɔ, ɔboafoɔ a ɔbɛboa ne fi ha, anaa adwumayɛfoɔ wɔ ɔhyehyɛfie no mu sɛ wɔnhyɛ frɛ no ase na wɔnkura anaa wɔnhyɛ abɔnten no so. Ɛbarima bi ahyehyɛfie boa abusua wɔ video call mu, enti bisa wɔn nea wɔbɛma. Tablet a ɛwɔ stand so, a ɛyɛ kɛse na ne nne yɛ kɛse, ma nyinaa tie yie."
+  - q: "Yɛbetumi ayɛ agyinamu bi wɔ video so?"
+    a: "Yiw. Akwan a ɛyɛ mmerɛ ne sɛ obi biako ma ne screen wɔ video app no so, na obi foforɔ ka kyerɛ no sɛnea ɔbɛtɔ mfonini a ɛsɛ. Anaa ɔboafoɔ a ɔwɔ hɔ betumi abue agyinamu koro bi wɔ tablet so, na ɔnhyɛ mu ma ɔno, bere a wo ne no reka ho asɛm. Paw agyinamu a ɛnni bere anaa dwetɛ biara."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -51,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Sɛ wo te akwan a ɛyɛ patapaa a aka obi a dementia wɔ no ho a, ɛbɛyɛ sɛ wo ho yɛ basabasa. Fon ne video remma nnwa a wobɛdi wo ho akyɛ, nanso sɛ wohyehyɛ yie a, ɛbɛma mo nkɔmmɔ ahyia ankasa. Nea ɛboa ne sɛ wogyae ahwehwɛ nkɔmmɔ a ɛyɛ ade koro a wɔbɛyɛ mmoa, na mmom hyehyɛ biribi a ɛyɛ mmerɛ a mo ne ne bɛka ho. Saa kratafa yi kyerɛ adwuma a wɔbɛyɛ wɔ video ne telefon so, sɛnea wobɛhyehyɛ nkɔmmɔ no, ne nea boafo a ɔwɔ hɔ betumi ayɛ.
+Sɛ wo te akyirikyiri fi obi a ɔwɔ dementia ho a, ɛbɛyɛ sɛ wo ho nni ho nnaadaa. Fon ne video call ntumi nnyina ayɛ ahyɛaseɛ, nanso sɛ wohyehyɛ yie a, ebetumi ama mo ne ho nkitahodie a ɛyɛ nokware. Nsakrae ne sɛ wunnyɛ adwene sɛ wobɛkasa sɛnea wɔkasa daa, na mmom hyehyɛ biribi a ɛyɛ mmerɛ a mo nyinaa bɛfa. Saa nkyekyɛmu yi kyerɛ nnwuma a wɔyɛ wɔ video ne fon so, sɛnea wɔbɛhyehyɛ frɛ no, ne nea obi a ɔwɔ hɔ betumi ayɛ sɛ oboa.
 
-## Adɛn nti na ɛsɛ sɛ wohyehyɛ adwuma ma nkɔmmɔ?
+## Dɛnsɛ na ɛsɛ sɛ wohyehyɛ nnwuma ma frɛ no?
 
-Adwuma bi ma nkɔmmɔ no nhyehyɛe. "Wo ho te sɛn? Wayɛ dɛn nnɛ?" bisa obi sɛ ɔnkae na ɔnka, ɛbɛyɛ ɔhaw na ɛbɛma ɔnhye ne ho. "Hwɛ, nkwan no ayɛ pɛ" nhia obi sɛ ɔyɛ biribi biara.
+Nnwuma ma frɛ no kwan. "Ɛte sɛn? Dɛn na woyɛe nnɛ?" bisa obi sɛ ɔnkae na ɔnkyerɛ, ɛyɛ den na ɛma ɔhaw. "Hwɛ, nkwan no abɛyɛ kokoo" nni biribiara a ɛsɛ sɛ ɔyɛ.
 
-Alzheimer's Association ka sɛ nkɔmmɔ a nkurɔfo pii wɔ so wɔ video so ka ho bɛyɛ den, na ɛka sɛ wɔnhyehyɛ [nkɔmmɔ no nhyehyɛe](https://www.alz.org/help-support/caregiving/holidays) de nnwom ayɛ anaa mfonini kyerɛ.
+Alzheimer's Association kyerɛ sɛ nkɔmhyɛ a nnipa pii wɔ mu wɔ video so yɛ den, na wɔtrɛw [sɛ wɔde nhyehyɛe ka frɛ no ho](https://www.alz.org/help-support/caregiving/holidays) sɛ wɔbɛkenkan nnwom anaa wɔbɛda mfonini.
 
-## Adwuma bɛn na ɛyɛ yie wɔ video nkɔmmɔ mu?
+## Nnwuma bɛn na yɛ wɔ video call so?
 
-### Kyerɛ ne ka
+### Kyerɛ na ka
 
-Fa wo wiase kɔ ne nkyɛn. Tutu kamera no ntɛm wɔ wo akyikyedua mu, ma wo kraman no ho nkyerɛ, kyerɛ nea wɔrebɛyɛ, anaa sɛ ɛbɛyɛ nea ɛsɔ wɔ kɔkɔ no, kyerɛ ne nsɛnkyerɛnne ne nea waa. Kyerɛ nea wohu wɔ nsɛm a ɛyɛ mmerɛ mu, na ma ɛbɛyɛ bere ma wɔn sɛ wɔbɛda nea wɔhu no so. Ɛnhia sɛ wobisa nsɛm.
+Fa wo wiase kɔ wɔn nkyɛn. Tow kamera no kɔ wo turo mu brɛoo, fa ɔdwan no kyerɛ wɔn, ka wo nnipa a wɔwɔ fie no, kyerɛ nea woreyɛ wɔ kuruwa, fa nkyerɛwde a ɔba no ayɛ no bra, anaa kyerɛ fon no kɔ dwiraframa so sɛ sintɔ aba. Ka nea wuhu wɔ nsɛm a ɛyɛ kokoo na gyae hɔ kakra ma wɔabue. Ɛnhia sɛ wobisa nsɛmmisa.
 
-### Hwɛ mfonini bi wɔ mu
+### Hwɛ mfonini bom
 
-Fa mfonini a ɛyɛ dodo bi kɔ kamera no ananim, anaa fa wo screen da mfonini kɛseɛ kakra so, baako baako. Ka nea wuhu: "Hwɛ Papa kɔkɔ." Mma wo mmisa "Hena ne hena?" anaa "Wokae ne?" Sɛ obi no frɛ obi bi nkyɛ a, di so ka no. Hwɛ [akwan a wɔfa so kae ho adwuma](/activities/reminiscence/) mu nkyerɛkyerɛ a ɛyɛ mmerɛ.
+Fa mfonini tɛtrɛw bi kɔ kamera so, anaa fa wo screen kyerɛ mfonini kɛse kakraa nkyɛn ɔkyena. Ka nea wuhu: "Hwɛ Papa ntoma." Monkɔ "Hwan ni yi?" anaa "Wokae anaa?" Sɛ obi no kyerɛ din a ɛnyɛ nokware a, ka ho asɛm no. Hwehwɛ yɛn [kwan a yɛbɛfa so akae](/activities/reminiscence/) ma nkyerɛase a ɛyɛ mmerɛ.
 
-### Kenkan ma wɔn
+### Kenkan nwoma
 
-Kenkan anansesɛm ketewa, abɔ mmɔ, ɔbɔfo abakan a ɔdɔ, nkyerɛwde a ɔfranka bɛma wo, anaa kratafa a obi no dɔɔ. Kenkan nea ɛbɛma obi no ahu asɛm a ɛyɛ dodo, a ɛnhia sɛ ɔbua.
+Kenkan asɛm tiaa, nnwom a wɔfrɛ no Psalm, nwoma a wɔkenkan ma mmofra, nkrasɛm a obi bi kyerɛw wɔn, anaa nkyekyɛmu a ɔpɛ wɔ nwoma a ɔpɛ. Kenkan nwoma ma obi no tie biribi a ɛyɛ dɔ a ɔnhia sɛ ɔbua.
 
-### Di dwom anaa tie nnwom bi ho
+### Dwene anaa tie nnwom
 
-Di dwom a wɔte yie, anaa gyina nnwom a ɔpɛ wɔ wo fam. Dwom bɛka ho ka sen kasa ma nkurɔfo pii. Hwɛ [akwan a wɔfa so di nnwom ho adwuma](/activities/music/) mu.
+Dwene nnwom a wɔte yie, anaa gyina nnwom a wɔpɛ wɔ wo fam. Ɛyɛ mmerɛ ma nkurɔfoɔ pii sɛ wɔbɛdwene sen sɛ wɔbɛka. Hwehwɛ yɛn [kwan a ɛfa dwene](/activities/music/) so.
 
-### Ɛnsɛ anaa ɛnnuanom bere koro so
+### Yɛ aduane anaa tɔ bɔfoɔ wɔ bere koro so
 
-Alzheimer's Association ka sɛ wobɛtumi ahyehyɛ video nkɔmmɔ de ayɛ nnuanom anaa ɛnnuanom bi a wɔpɛ. Hyehyɛ nkɔmmɔ no wɔ aburoɔ abɛdan mu nyinaa. Obi a ɔwɔ hɔ betumi aka anaa ɔnhwɛ bere a wo ne ne ɛnnuanom no nyɛ nea wɔatwa so ne nnuanom a ɔde kyerɛ wo.
+Alzheimer's Association kyerɛ sɛ wohyehyɛ video call sɛ wobɛyɛ aduane bi a wɔpɛ anaa wobɛtɔ bɔfoɔ. Hyehyɛ frɛ no wɔ abɔfie mmienu so. Obi a ɔwɔ hɔ betumi ahyɛ aduane anaa ahwɛ sɛ ɛyɛ dɛn bere a wo nso wo ntɛtɛ a wodi wɔn nwɔnwɔ kuku ano.
 
-### Hwɛ biribi bi bom
+### Hwɛ bere a ɛnyɛ dɛn
 
-Alzheimer's Association nso ka sɛ wobɛtumi ahwɛ kɔmpiuta so sini a ɔpɛ wɔ bere koro so wɔ afie baanu mu bere a mo reka telefon anaa video so. Wɔ obi a dementia wɔ no ho, vidio ketewa, TV episode a ɔdɔ anaa asɛmpa a wɔde ayɛ ntɔ, ebetumi aboa sen sini ma.
+Alzheimer's Association nso kyerɛ sɛ wɔhyehyɛ sɛ wobɛhwɛ sini a ɛyɛ dɛ bere koro so wɔ mmeae nkaa mu, na wɔka nkɔmhyɛ anaa video so. Ma obi a ɔwɔ dementia ho no, ɛbɛyɛ sɛ video tiaa, TV episode a ɛyɛ dedaw, anaa agyinamu bi a ɛyɛ mmerɛ ye sen sini kɛse.
 
-### Di kɔmpiuta bi a ɛyɛ mmerɛ ho ahurusi
+### Yɛ agyinamu bi a ɛyɛ mmerɛ wɔ screen a wɔfa so
 
-Video nkɔmmɔ app pii ma wo tumi bue wo screen. Bue ahurusi no, na tɔ, na obi no ka kyerɛ wo mfonini a ɛsɛ sɛ wofa. Anaa boafo a ɔwɔ hɔ betumi abue ahurusi no wɔ tablet so, na ɔnnɔ ma obi no bere a wo ne no reka.
+Video call app pii ma wobetumi de wo screen akyerɛ nnipa. Wobue agyinamu no na wotow; obi no ka kyerɛ wo nea wɔpɛ sɛ wɔpaw wɔ mfonini no mu, anaa ɔdan ne nsa so kyerɛ. Anaa, ɔboafoɔ a ɔwɔ hɔ betumi abue agyinamu koro no wɔ tablet so, na ɔtow ma ɔno bere a wo ne no reka ho asɛm.
 
-Ahurusi a ɛyɛ yie saa akwan yi so:
+Agyinamu a ɛyɛ yie wɔ saa akwan yi so ne:
 
-- **[Finish the Saying](/games/finish-the-saying/):** wo kenkan mmɔdenbɔ a wɔte, ɔno de nea ɛto so bɛka, na asɛm a ɛbɛma wo ne no reka aba.
-- **[Picture Pairs](/games/picture-pairs/):** ahurusi a ɛyɛ mmerɛ a wɔde mfonini kɛseɛ hyehyɛ bom, a ɛbɛtumi agyina hɔ, na bere ne nkontaabu nni hɔ.
-- **[Conversation Cards](/games/conversation-cards/):** mfonini ne asɛmbisa a ɛma wo ne no kasa ho.
-- **[Photo Pairs](/games/photo-pairs/):** ahurusi a wɔyɛ fi mfonini a wopaw wo ankasa device so. Mfonini no tena wo browser mu, na obi no hunu no wo screen a wobɛda so no so.
+- **[Finish the Saying](/games/finish-the-saying/):** wobɛkenkan mmuaeɛ a wɔte, na obi kyerɛ awiei, na wɔde asɛm a ɛbɛma wɔkasa di so.
+- **[Picture Pairs](/games/picture-pairs/):** agyinamu a ɛyɛ mmerɛ a wɔde mfonini kɛse toto, a ɛntumi nkɔ, ɛnni bere, na ɛnni nkyɛmu.
+- **[Conversation Cards](/games/conversation-cards/):** mfonini ne asɛmmisa a wɔbɛkasa fa so.
+- **[Photo Pairs](/games/photo-pairs/):** agyinamu a wɔde mfonini a wopaw wɔ wo so fɛ toto. Mfonini no te wo browser mu, na obi no hwɛ wɔn wɔ wo screen a wɔfa so.
 
-### Nkra a wɔade ahyɛ
+### Nkrasɛm a wɔakyerɛ
 
-Sɛ nkɔmmɔ a ɛyɛ nkɔmmɔ tẽẽ yɛ den a, de video ketewa kyerɛw: nkɔmmɔ, dwom, wo kwan a wɔtwa wo fie ho. Boafo no betumi ada no wɔ bere a ɛyɛ dwodwo, bere a obi no pɛ no. Alzheimer's Association ka sɛ wobɛtumi ahwɛ na wɔasoma nea ɛyɛ sɛ ɛkɔ asɛm bi, sɛnea nkɔaseɛ bɛbue akyɛde.
+Sɛ ɛyɛ den sɛ wobɛfrɛ wɔ ahyɛnsɛ a, kyerɛ video tiaa: nhyiam, dwene, anaa nea wo ho dwo wɔ wo kurom. Ɔboafoɔ betumi abɔ no bere a ɛyɛ ahomeka, na ɛbɛyɛ bɛn bere a obi no pɛ. Alzheimer's Association ka nkyerɛ ne nkɔmmɔ ahorow a wɔsoma, te sɛ mmofra a wɔbue mpanyinfoɔ ho.
 
-## Ɛdeɛ na telefon nkɔmmɔ te?
+## Ɛdeɛn na ɛwɔ fon nkasa so?
 
-Telefon nkɔmmɔ wɔ hia. Dementia Australia ka sɛ [wobɛfrɛ bere koro so](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) na woanhyɛ ntɛm, ɛfiri sɛ nkurɔfo a dementia wɔ no betumi afa bere ma ɛbɛyɛ wɔn yie. Wɔ telefon so:
+Fon nkasa wɔ hia. Dementia Australia kyerɛ sɛ [wofrɛ bere koro so](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) na woanyɛ ntɛntɛ, efisɛ nnipa a wɔwɔ dementia ho betumi afa bere ntɛm sɛ wɔbɛka. Wɔ fon so:
 
-- Ka wo din ne wo abusuabɔ ntɛm: "Papa, ɛyɛ Jenny, wo ba mmaa."
-- Kasa bɔ mmɔden, ka nsɛm tiaa, na nsɛm baako nko ara.
-- Ka asɛm ma wɔn sen sɛ wobisa asɛm: "Mekeɛ wo ɛmo a wodi ansa na ɛkɔ so."
-- Kenkan anwommere ketewa, anaa tie dwom a wɔte yie mu nnwom baako.
-- Ma ɛnyɛ tenten, na gyae wɔ ahoɔfɛ mu.
+- Ka wo din ne wo abusua wɔ mfiase: "Ao Papa, ɛyɛ Jenny, wo babaa."
+- Ka nkɔm mmɔden, nsɛm a ɛyɛ nketewa, na nsɛm koro biara wɔ ne ho.
+- Kyerɛ wɔn nsɛm a ɛyɛ fɛ, na mma wɔn nkɔ so bisa: "Ɛnnɛ anadwo, mede wo nkyene ntoma nneɛma yɛɛ."
+- Kenkan asɛm tiaa, anaa kenkan nkyekyɛmu a wo nnwom a ɔpɛ mu.
+- Ma ɛnyɛ tenten, na sɛ woreyɛ wo nkyekyɛ no, yɛ dɔ.
 
-Dementia Australia nso ka sɛ video nkɔmmɔ betumi aboa sɛ kasa yɛ den, ɛfiri sɛ obi no betumi ahu wo anim. Sɛ telefon nkɔmmɔ de basabasa ba a, sɔ video anaa san sɔ telefon ka.
+Dementia Australia nso ka sɛ video call betumi aboa bere a nkasa ayɛ den, efisɛ obi no betumi ahwɛ wo ani. Sɛ fon nkasa ma wɔn nsɛnsɛn a, hwehwɛ video, anaa yɛ tebea a ɛsɛ sɛ ɛyɛ.
 
-## Ɛdeɛ na mɛyɛ video nkɔmmɔ a ɛbɛyɛ yie?
+## Ɛdeɛn na metumi ahyehyɛ video call a ɛbɛyɛ yie?
 
-**Ansa na nkɔmmɔ no aba:**
+**Ansa na frɛ no aba:**
 
-1. **Paw bere a ɛbɛyɛ.** Paw bere a obi no hyɛ ntɛm na ɔda ase, na ɔnsɛ ɛfa ho. Nhyehyɛe boa.
-2. **Ka boafo a ɔwɔ hɔ ho asɛm.** Nkratɔ bi da ansa na ɛboa wɔn sɛ wɔbɛhyehyɛ.
-3. **Hwɛ device no.** Tablet a wɔde gyina stand so yɛ mmerɛ sen telefon a wɔde wɔ nsa mu. Hwɛ sɛ ɔhyɛ mu, screen no hyerɛn, na nne no ye. Sɛ app no ma ‘captions’ na obi no kenkan yie a, fa so.
-4. **Hyehyɛ adwuma baako** na nyinaa asiesie.
+1. **Paw bere a ɛyɛ mmerɛ** a obi no adi ahome yiye, na ɛnyɛ bere a ɔnnyinaa, na mmɔ ho mu. Nhyehyɛe boa.
+2. **Ka ho asɛm ne ɔboafoɔ a ɔwɔ hɔ.** Nkrasɛm a wode kɔma no ɛdɛnkan da a edi kan no boa wɔn sɛ wɔnhyehyɛ.
+3. **Hwɛ fon no.** Tablet a ɛwɔ stand so yɛ mmerɛ sen fon a wɔdi wɔ nsa mu. Hwɛ sɛ ɔhyehyɛ mu, screen no yɛ hann, na nne no yɛ kɛse ma wotie. Fa captions so sɛ app no ma wɔ, na obi no kenkan yiye.
+4. **Hyehyɛ biribi koro** na nyinaa nni hɔ.
 
-**Bere a nkɔmmɔ no reyɛ:**
+**Bere a frɛ no rekɔ so:**
 
-- **Te kamera no ho ntɛm** wɔ hann pa mu, na ɛnyɛ sɛ owia wɔ wo akyi.
-- **Ka wo din ne wo abusuabɔ** bere biara.
-- **Obi biara kasa bere biara.** Alzheimer's Association ka sɛ nkɔmmɔ a nkurɔfo pii ka ho bɛyɛ den ma nkurɔfo a dementia wɔ no ne nkurɔfo a wɔntie yie. Sɛ abusua pii ka ho a, momma obiara nka ne kwan anaa mma baanu anaa abiɛsa nka.
-- **Bisa asɛmbisa baako bere biara.** Family Caregiver Alliance ka sɛ [mmisa a wɔbɛtumi abua "aane" anaa "daabi"](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) ne sɛ wɔbɛkyerɛ nneɛma a wɔpaw, sɛ wotumi yɛ saa.
-- **Ma bere ahyɛ nnwa.** Twɛn ma wɔnka. Ɛyɛ yie sɛ wɔbɔ asɛm a wɔte aseɛ sɛ wɔrebɛhwehwɛ asɛm bi.
-- **Fa wo anim ne wo nne.** Yɛ anigye, di so ka no, na ma wo nne nyɛ den. Anigye ka sen asɛm pii.
-- **Mma wo ankɔ so ka nea ɛnyɛ nokware.** Sɛ obi no ka biribi a ɛnyɛ nokware a, ma ɛkɔ so.
+- **Ka kɔ kamera nkyɛn wɔ hann mu,** na ɛnyɛ sɛ ɔwɔ wo akyi.
+- **Ka wo ho daa daa** wɔ bere biara, de wo din ne wo abusuakuo.
+- **Obi biako na ɔkasa bere.** Alzheimer's Association ka sɛ nkasa a nnipa pii ka ho yɛ den ma nnipa a wɔwɔ dementia ho ne nnipa a wɔtie yiye. Sɛ abusuafoɔ pii ba frɛ no mu a, momfa bere ma obiara ka anaa mmra abusuafoɔ baanu anaa baasa.
+- **Bisa asɛmmisa biako bere biara.** Family Caregiver Alliance kyerɛ sɛ [wobisa asɛmmisa a ɛyɛ mmerɛ a wɔbɛbua "ao" anaa "daabi"](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), na sɛ wobetumi a, ma wɔn nhwɛso.
+- **Ma bere tenten ma nsɛnkyerɛ.** Tena ase ma wɔbua. Ɛyɛ mmerɛ sɛ woboa nsɛm bi sɛ wɔhwehwɛ asɛm.
+- **Fa wo ani ne wo nne.** Ma wo ani nsɛe, de wo nne nyin ma wo nne ayɛ dɔ. Nkyerɛ ani mu ka nsɛm pii.
+- **Mma nkyerɛ mu.** Sɛ obi no ka biribi a ɛnyɛ nokware a, ma ɛnkɔ so.
 
-**Sɛ nkɔmmɔ no ba awiei:**
+**Frɛ no awiei:**
 
-- Gyae nkɔmmɔ no ansa na obi no ayɛ mmerɛ, ɛyɛ sɛ wogyae bere a ɛyɛ anigye.
-- Fa ɔkwan koro a ɛyɛ pɛ sɛ wobɛka "Ɛdɔ" wɔ nkɔmmɔ no awiei. Sɛ ɛyɛ, ka se: "Mɛfrɛ wo ɔkyena awia bere a ɛyɛ anɔpa. Medɔ wo."
-- Mma nkɔmmɔ no nnyɛ tenten.
+- Wɔ frɛ no awiei ansa na obi no abrɛ, na ɛyɛ sɛ ɛwɔ anigye mu.
+- Fa nsɛm a ɛyɛ pɛ bɔ wɔ wɔn bra biara mu: "Mɛfrɛ wo ɔkyena anɔpa. Medɔ wo."
+- Mma ɛnkɔ tenten.
 
-## Boafo a ɔwɔ hɔ betumi ayɛ dɛn?
+## Nkyerɛaseɛ ma ɔboafoɔ a ɔwɔ hɔ
 
-Sɛ woyɛ kunu, ɔsɔfo, nua anaa ɔyaresafo a ɔboa wɔ nkɔmmɔ no mu a, wo ne nea ɛma ɛbɛyɛ.
+Sɛ wo ne ɔkunu, ɔboafoɔ, nuabarima anaa ɔdwumayɛfoɔ a ɔboa wɔ frɛ no mu no, wo na woma ɛyɛ.
 
-- **Hyehyɛ beaeɛ a ɛnnyɛ mmerɛ.** Gyae TV no na tɔ ɔpon no.
-- **Fi ase nkɔmmɔ no ankasa,** na de tablet a wɔde gyina stand so ma obi no anaa gyina no wɔ ani so.
-- **Tena wɔn ho, ɛnyɛ wɔn anim.** Wo ho wɔ ho ahoɔfɛ. Sɛ ɛhia a, ka nkɔmmɔ no ankasa: "Hwɛ, ɛyɛ Jenny."
-- **Yɛ nsa.** Fa mfonini ka, tɔ ahurusi no, san tablet no na ɛkyerɛ dan no mu.
-- **Hwɛ sɛ ɔyɛ mmerɛ anaa ɔyɛ dwodwo,** na ka kyerɛ nea ɛfrɛ no sɛ ɛberɛ a wɔbɛgyae no.
-- **Ka nea ɛyɛ yie kyerɛ nea ɛfrɛ no.** "Ɔdɔɔ aboa no" boa wɔn ma wohyehyɛ nkɔmmɔ a ɛdi hɔ no.
+- **Hyehyɛ beaeɛ a ɛnyɛ nnyɛe.** Gyae TV no na tow ɔpon no.
+- **Fi ase frɛ no wo ho,** na lam tablet a ɛwɔ stand so anaa kyerɛ obi no wɔ anim.
+- **Tena wɔn akyi, na nnyɛ wɔn anim.** Wo ho ma wɔn nsa ahoɔden. Sɛ ɛhia a, kɔ nkɔmmɔ bi ase ahyɛ no ahyɛ: "Hwɛ, ɛyɛ Jenny."
+- **Yɛ nsa.** Kyerɛ mfonini, tow agyinamu, twe tablet no kɔ fie no mu.
+- **Hwɛ sɛ ɔbɔ mmɔden anaa ɔnyɛ fɛ,** na ka kyerɛ obi a ɔfrɛ no sɛ ɛberɛ a wɔbɛgyae.
+- **Ka kyerɛ obi a ɔfrɛ no nea ɛyɛɛ yie.** "Ɔpɛɛ ɔkraman" boa wɔ nea ɛbɛba ɔkyena.
 
-NIA ka sɛ abusua a wɔwɔ akwan atirimpɔw betumi aboa ɔpanin ma ɔsua [telefon no nneɛma](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) sɛ video nkɔmmɔ. Bere a ɛyɛ akyi no, boafo no bɛhia sɛ ɔdi device no ho dwuma koro. Ɛyɛ yie.
+NIA ka sɛ abusuafoɔ a wɔwɔ akyirikyiri betumi aboa ɔpanyin sɛ ɔsua [nea fon no yɛ](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), te sɛ video call. Bere a ɔyare no kɔ akyiri no, ɔboafoɔ no bɛhwehwɛ fon no nyinaa. Ɛyɛ yie.
 
-Sɛ obi no te ayaresa dan mu a, Alzheimer's Foundation of America ka sɛ wobisa sɛ dan no boa abusua ma wɔnyɛ video nkɔmmɔ anaa. AFA nso ka sɛ abusua betumi asoma mfonini nkɔ ne ɔdan no nyinaa, na wɔnsoma nnuadzi a ɛyɛ anigye anaa nneɛma ketewa a ɛma obi ahome, bere a wɔahwehwɛ nea dan no ma wɔnyɛ.
+Sɛ obi no te ɔhyehyɛfie mu a, Alzheimer's Foundation of America ka sɛ ebia wobɛbisa sɛ hyehyɛfie no boa abusuafoɔ wɔ video nkɔmmɔ mu. AFA nso ka sɛ abusuafoɔ betumi asoma mfonini ne adwumayɛfoɔ a wɔwɔ hɔ, na wɔnsoma nnuadzeɛ a wɔpɛ anaa nneɛma ketewa a ɛde anigye, bere a wɔahwehwɛ nea hyehyɛfie no ma.
 
-## Dɛn na ɛbɛyɛ sɛ nkɔmmɔ no nnyɛ yie?
+## Dɛn na mɛyɛ sɛ frɛ no nyɛ yie?
 
-Nkɔmmɔ bi bɛyɛ basabasa, anaa nkɔmmɔ no de abɔrɔ, anaa ɛde awerɛhow aba. Ɛnyɛ wʼakwan, na ɛnkyerɛ sɛ nkɔmmɔ no nni nea ɛsɔ.
+Frɛ bi betumi ayɛ nsɛnsɛn, ɛnyɛ anigye, anaa ɛnyɛ yie. Eyi nyɛ wo nsɛm, na ɛnkyerɛ sɛ frɛ no nni ho hia.
 
-- Sɛ obi no hunu sɛ screen no yɛ basabasa a, san telefon nkɔmmɔ anaa video nkra.
-- Sɛ wɔbɛyɛ awerɛhow a, gye wɔn awerɛhow, ka asɛm a ɛma wɔn ho ntɔ, na gyae ntɛmntɛm.
-- Sɛ nkɔmmɔ de basabasa ba bere bi a wɔnya ho, sɔ bere foforo.
-- Sɛ wɔsusuw sɛ wo nye obi foforo a, di so ka no ahoɔfɛ mu.
+- Sɛ obi no te sɛ ɔnte ase wɔ screen no ho a, sesa kɔ fon frɛ anaa nkyerɛwde a wɔakyerɛ.
+- Sɛ ɔbɔ mmɔden a, gye wɔn oboɔ tom, ka nsɛm a ɛma wɔn ahome, na gyae ahyɛnsɛ.
+- Sɛ wɔn ho ntaa, ka sɛ wo ho nni ho, na yɛ dɔ bere a wɔbɛgyae.
+- Sɛ wɔrowo sɛ wo nnye obi foforɔ a, gye too mu bɔ ɔmpɛ a yɛ dɔ.
 
-Ɛyɛ yie sɛ wogyae ntɛm. Nkɔmmɔ tiaa a ɛyɛ anigye yɛ ɔkwan a ɛyɛ.
+Ɛyɛ yie sɛ wogyae ntɛntɛ. Frɛ a ɛyɛ tiaa na ɛyɛ dɔ yɛ nea ɛyɛ.
 
-## Ɛnkyɛn nkɔmmɔ
+## Frɛ ne frɛ ntam
 
-Ka wo ho bɛn wɔ akwan foforo so. Dementia Australia ka sɛ wɔnsoma kaad, email, mfonini anaa akyɛde ketewa. Kaad ketewa a ɛwɔ mfonini kɛseɛ baako ne nkyerɛwde a ɛyɛ tiaa betumi akenkan bere a bebree. [Conversation cards](/games/conversation-cards/) a wɔde bɛsoma kɔ boafo no nso betumi ama nkɔmmɔ a ɛdi hɔ no nnwuma a wɔayɛ.
+Ka wo ho ba wɔn nkyɛn akwan foforɔ so. Dementia Australia ka sɛ wɔnsoma nkrasɛm, email, mfonini anaa nneɛma ketewa. Kɔsɛ a ɛyɛ mfonini kɛse ne nkyerɛwde ketewa bi nso betumi akenkan bio ne bio. Wɔ [conversation cards](/games/conversation-cards/) a wobetumi asoma kɔ ɔboafoɔ no nso betumi ama frɛ a ɛdi so no nea wɔbɛkasa ho asɛm.
 
-Sɛ wopɛ kwan a wobɛfa so apaw na wɔahyehyɛ tablet, hwɛ [tablets and screens](/caregiving/tablets-and-screens/). Sɛ wopɛ bere a wobɛfiri ne ho, hwɛ yɛn [visiting](/activities/visiting/) akwankyerɛ.
+Sɛ wopɛ sɛ wukɔ tablet a wɔde yɛ no ho ade so ne sɛnea wɔbɛhyehyɛ no, hwɛ [tablets and screens](/caregiving/tablets-and-screens/). Sɛ wopɛ sɛ wubɛba obi nkyɛn, hwɛ yɛn kwan a ɛfa [visiting](/activities/visiting/) so.

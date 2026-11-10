@@ -1,28 +1,33 @@
 ---
-title: "Demans üçün pulsuz onlayn oyunlar, yükləmə olmadan"
-seoTitle: "Demans üçün pulsuz onlayn oyunlar, yüklənmədən"
-description: "Brauzerdə açılan pulsuz onlayn oyunlar: tətbiq və hesab tələb etmir. Şəkil uyğunlaşdırma, çeşidləmə, tapmaca və sakit nəfəs məşqi, həmçinin məsləhətlər."
+title: "Demans üçün pulsuz onlayn oyunlar, yükləmə tələb olunmur"
+seoTitle: "Demans üçün onlayn oyunlar, yükləmədən"
+description: "Brauzerdə açılan pulsuz onlayn oyunlar demans olan insanlar üçün: şəkil oyunları, çeşidləmə, tapmaca və sakit nəfəs. Tətbiq və hesab lazım deyil."
 section: activities
 order: 22
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Demansı olan şəxslərlə oynamaq üçün ən asan pulsuz onlayn oyunlar veb brauzerdə açılır, tətbiq və hesab tələb etmir. Golden Moments planşet və ya kompüter üçün sadə şəkil oyunlarına malikdir: uyğunlaşdırma, eyni şəkli tapmaq, səbətlərə çeşidləmə, şəkil tapmacası və yavaş nəfəs pauzası. Şəxsin yanında oturun və istədiyiniz zaman dayandırın. Heç bir oyun demansı müalicə etmir, yavaşlatmır və ya qarşısını almır; dəyər sakit, birgə fəaliyyətdədir.
+  Demans üçün ən asan pulsuz onlayn oyunlar veb brauzerdə açılır, tətbiq və hesab
+  tələb etmir. Golden Moments planşet və ya kompüter üçün sadə şəkil oyunları
+  təklif edir: uyğunlaşdırma, eyni şəkli tapma, səbətlərə çeşidləmə, şəkil
+  tapmacası və yavaş nəfəs məşqi. Onunla yanaşı oturun və istədiyi an dayandırın.
+  Heç bir oyun demansı müalicə etmir və ya qarşısını almır; dəyəri sakit, birgə
+  keçirilən vaxtdır.
 keyPoints:
-  - "Xatırlamağa deyil, şəkli tanımağa əsaslanan oyunları seçin: qayda, söz və ya xal yadda saxlamağı tələb etməyən."
-  - "Oyunu planşetdə və ya kompüterdə brauzerdə açın, şəxsin yanında oturun və onun toxunmasına və ya göstərməsinə icazə verin."
-  - "Daha böyük ekran və ya dayaq istifadə edin, başlamazdan əvvəl bildirişləri və digər səhifələri bağlayın."
-  - "Şəkilə əsaslanan oyunların şəkilləri həmin cihazın brauzerində qalır; ortaq kompüterdə ailə şəkillərini əlavə etməzdən əvvəl məxfilik qeydlərini yoxlayın."
-  - "Erkən dayandırmaq yaxşı nəticədir. Bu oyunlarda heç nə şəxsi ölçmür və ona xal vermir."
+  - "Xatırlamağa yox, şəkli tanımağa əsaslanan oyunları seçin; qayda, söz və ya xal yaddaşa güvənən oyunlardan çəkinin."
+  - "Oyunu planşet və ya kompüterdə brauzerdə açın, yanında oturun və qoy onlar ekrana toxunsun və ya göstərsin."
+  - "Böyük ekrandan və ya dayaqdan istifadə edin, başlamazdan əvvəl bildirişləri və digər sekmələri bağlayın."
+  - "Şəkil oyunları fotoları həmin cihazın brauzerində saxlayır; paylaşılan kompüterdə ailə fotoları əlavə etməzdən əvvəl məxfilik qeydlərinə baxın."
+  - "Erkən dayandırmaq yaxşı nəticədir. Bu oyunlarda heç nə insanı ölçmür və ona xal vermir."
 faq:
-  - q: "Yükləmədən hansı pulsuz onlayn oyunları demansı olan şəxs oynaya bilər?"
-    a: "Ən yaxşı nəticəni sadə şəkil oyunları verir: eyni şəkilləri uyğunlaşdırmaq, bir neçə seçimdən eyni şəkli tapmaq, əşyaları səbətlərə çeşidləmək və kəsilib qarışdırıla bilən şəkil tapmacası. Golden Moments bunların hamısını brauzerdə təqdim edir, yükləmə və hesab tələb etmədən. Mümkün olan ən böyük şəkil variantı ilə başlayın."
-  - q: "Beyin oyunları demansa kömək edirmi?"
-    a: "Heç bir oyunun demansı müalicə etdiyi, yavaşlatdığı və ya qarşısını aldığı sübut olunmayıb. ABŞ-nin Federal Ticarət Komissiyası (Federal Trade Commission) beyin təlimi şirkətlərinə qarşı əsassız iddialara görə tədbir görüb. Bu oyunları terapiya kimi yox, xoşagələn və birgə oynamaq asan olduğu üçün oynayın."
-  - q: "Onlayn oyunlar demansı olan şəxs üçün təhlükəsizdirmi?"
-    a: "Nəzarət altında təhlükəsiz ola bilər. Cihazı, onunla evdən çıxıb gedə biləcək şəxsin əlçatmaz yerində saxlayın, pəncərə reklamlarından və xarici keçidlərdən çəkinin və heç vaxt şəxsi ödəniş və ya hesab ekranında tək qoymayın. Şəkillərdən istifadə etməzdən əvvəl cihazın məxfilik parametrlərini yoxlayın."
-  - q: "Şəxs oyundan əsəbiləşərsə nə etmək olar?"
-    a: "Daha asan variantə keçin, az şəkil istifadə edin və ya başqa oyun seçin. Əgər o, incisə, cihazı kənara qoyun və onun yerinə qəlyanaltı, gəzinti və ya mahnı təklif edin. Narahatlıq yaradan oyunu bitirməyə dəyməz."
+  - q: "Yükləmədən hansı pulsuz onlayn oyunları demans olan insanlar oynaya bilər?"
+    a: "Ən yaxşı seçim sadə şəkil oyunlarıdır: eyni şəkilləri uyğunlaşdırmaq, bir neçə variant arasında eyni şəkli tapmaq, əşyaları səbətlərə çeşidləmək və şəkli parçalara bölüb yerini dəyişdirmək. Golden Moments bunları yükləmə və hesab olmadan brauzerdə təklif edir. Mümkün olan ən böyük şəkilli variantdan başlayın."
+  - q: "Beyin oyunları demansa kömək edir?"
+    a: "Heç bir oyunun demansı müalicə etdiyi, ləngitdiyi və ya qarşısını aldığı göstərilməyib. U.S. Federal Trade Commission isə əsaslandırıla bilməyən iddialara görə beyin məşqi şirkətlərinə qarşı tədbir görüb. Bu oyunları terapiya kimi yox, əyləncəli və asanlıqla paylaşıla bilən fəaliyyət kimi oynayın."
+  - q: "Demansı olan biri üçün onlayn oyunlar təhlükəsizdirmi?"
+    a: "Nəzarət altında ola bilər. Cihazı, onu götürüb evdən çıxa biləcək adamın əlçatmaz yerində saxlayın, pop-up reklamlardan və xarici keçidlərdən çəkinin və heç vaxt ödəniş və ya hesab ekranında insanı tək qoymayın. Fotolardan istifadə etməzdən əvvəl cihazın məxfilik ayarlarını yoxlayın."
+  - q: "Şəxs oyundan əsəbiləşərsə nə etməli?"
+    a: "Daha asan variantə keçin, şəkil sayını azaldın və ya başqa oyun seçin. Narahat olarsa, cihazı yığışdırın və onun yerinə qəlyanaltı, gəzinti və ya mahnı təklif edin. Narahatlıq yaradan oyunu bitirməyin dəyəri yoxdur."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -44,54 +49,54 @@ related: [activities/memory-games, activities/puzzles, activities/ideas, caregiv
 health: false
 ---
 
-Bir çox ailə demans üçün pulsuz onlayn oyunları axtarır, çünki birlikdə vaxt keçirmək üçün mağaza, giriş və ya kart tələb etməyən bir şey istəyirlər. Ən yaxşı variantlar sadə, şəkilə əsaslanan və asanlıqla dayandırıla bilən oyunlardır. Onlar imtahan yox, birgə bir an hiss etdirməlidir. Bu bələdçi nəyə diqqət etmək lazım olduğunu, oyunun necə qurulacağını və bu oyunların nə edə bildiyini və nə edə bilmədiyini izah edir.
+Bir çox ailə demans üçün pulsuz onlayn oyunları axtarır, çünki birlikdə vaxt keçirmək istəyir və bunun üçün mağaza, giriş və ya bank kartı lazım olmasın. Ən yaxşı seçimlər sadə, şəkilə əsaslanan və istənilən an dayandırmaq asan olan oyunlardır. Onlar imtahan yox, birgə bir an kimi hiss olunmalıdır. Bu bələdçi nəyə diqqət etmək, oyunu necə hazırlamaq və bu oyunların nə edə bilib nə edə bilmədiyini izah edir.
 
-## Onlayn oyun demans üçün nə vaxt uyğundur?
+## Onlayn oyun demans üçün uyğun olduğunu necə anlamaq olar?
 
-Oyun, xatırlamaq yox, tanımaq tələb edəndə demansı olan əksər insanlara uyğun gəlir. İki eyni şəkli uyğunlaşdırmaq, kölgəyə uyğun şəkli seçmək və ya əşyanı düzgün səbətə atmaq hamısı gözün indi gördüyünə əsaslanır. Qayda, söz, rəqəm və ya əvvəlki hərəkəti yadda saxlamağa əsaslanan oyunlar isə adətən narahatlıq yaradır.
+Oyun xatırlamağa yox, tanımağa əsaslandıqda, demansı olan insanların əksəriyyəti üçün uyğun olur. İki eyni şəkli uyğunlaşdırmaq, kölgəyə uyğun şəkli seçmək və ya əşyanı düzgün səbətə atmaq gözün elə indi gördüklərinə əsaslanır. Qayda, söz, rəqəm və ya əvvəlki hərəkəti yadda saxlamağı tələb edən oyunlar isə adətən narahatlıq yaradır.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) şəxsin hələ də sevdiyi və edə bildiyi fəaliyyətlərə əsaslanan, onun kömək olmadan uğur qazanmasına imkan verən fəaliyyətləri tövsiyə edir. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) isə bacarıqlar dəyişəndə fəaliyyəti tamamilə dayandırmaq əvəzinə sadələşdirməyi məsləhət görür.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) şəxsin hələ də sevdiyi və edə bildiyi işlərə əsaslanan, kömək olmadan uğur qazanmasına imkan verən fəaliyyətləri tövsiyə edir. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) isə bacarıqlar dəyişəndə fəaliyyətdən imtina etmək əvəzinə onu sadələşdirməyi təklif edir.
 
 ## Brauzerdə aça biləcəyiniz Golden Moments oyunları
 
-Aşağıdakı hər oyun saytdan yükləmə olmadan açılır. Əksəriyyəti planşet və ya kompüterdə oynanılır; bəziləri çap da edilə bilər.
+Aşağıdakı hər oyun saytdan yükləmə olmadan açılır. Əksəriyyəti planşet və ya kompüterdə oynanılır; bəziləri çap da oluna bilər.
 
-- **[Şəkil cütləri](/games/picture-pairs/).** Şəkilləri açıq görünən böyük uyğun cütlər; taymer və xal yoxdur. İlk oyun üçün yaxşıdır.
-- **[Eyni şəkli tap](/games/find-the-same/).** Yuxarıda bir şəkil, aşağıda isə iki-dörd seçim arasında eyni şəkil.
-- **[Kölgə uyğunluğu](/games/shadow-match/).** Yuxarıda yumşaq bir kölgə görünür; onu yaradan şəkli toxunun.
-- **[Birlikdə çeşidləyin](/games/sort-together/).** Bir şəkli, sonra da ona aid olan səbəti seçin, məsələn, mətbəx və ya bağça.
-- **[Şəkil tapmacası](/games/picture-puzzle/).** Şəkil parçalara bölünür və bütöv şəkil yol göstərici kimi görünməyə davam edir.
-- **[Məşhur atalar sözləri](/games/finish-the-saying/).** Son sözü olmayan tanış atalar sözləri; variantlardan birini seçin və ya sonunu göstərin.
-- **[Söhbət kartları](/games/conversation-cards/).** Sual sorğulamaq üçün yox, danışmaq üçün açıq suallı şəkil kartları. Çap da edilə bilər.
-- **[Foto cütləri](/games/photo-pairs/).** Cihazınızda seçdiyiniz fotolardan hazırlanan uyğun cütlər. Fotolar həmin cihazın brauzerində qalır.
-- **[Sakit nəfəs](/games/calm-breathing/).** Birlikdə nəfəs almaq üçün yavaş, sakit pauza. Onu siz başladır və siz dayandırırsınız.
+- **[Şəkil cütləri](/games/picture-pairs/).** Şəkillər açıq görünən böyük uyğunlaşdırma cütləri, vaxt ölçən və ya xal verən sistem yoxdur. İlk oyun üçün yaxşıdır.
+- **[Eynini tap](/games/find-the-same/).** Yuxarıda bir şəkil, aşağıda isə iki-dörd variant arasında eyni şəkil.
+- **[Kölgə ilə uyğunlaşdırma](/games/shadow-match/).** Yuxarıda yumşaq bir kölgə görünür; ona uyğun şəkli toxunun.
+- **[Birlikdə çeşidləyin](/games/sort-together/).** Bir şəkilə, sonra da ona aid olan səbətə toxunun, məsələn, mətbəx və ya bağça.
+- **[Şəkil tapmacası](/games/picture-puzzle/).** Şəkil parçalara bölünür, bütöv şəkil isə bələdçi kimi görünməkdə qalır.
+- **[Atalar sözünü tamamlayın](/games/finish-the-saying/).** Tanış atalar sözləri sonuncu sözü çatışmayaraq verilir; variantlardan birinə toxunun və ya sonunu göstərin.
+- **[Söhbət kartları](/games/conversation-cards/).** Sorğu üçün yox, danışmaq üçün açıq suallı şəkil kartları. Çap üçün də hazırdır.
+- **[Foto cütləri](/games/photo-pairs/).** Cihazınızda seçdiyiniz fotolardan hazırlanmış uyğunlaşdırma cütləri. Fotolar həmin cihazın brauzerində qalır.
+- **[Sakit nəfəs](/games/calm-breathing/).** Birlikdə nəfəs almaq üçün yavaş və sakit fasilə. Başlatmaq və dayandırmaq sizin əlinizdədir.
 
-Söz axtarışı, rəngləmə və şəkilli bingo da çap oluna bilən fəaliyyətlər kimi mövcuddur. Ətraflı məlumat üçün [pulsuz çap edilə bilən demans fəaliyyətləri](/activities/printable/) səhifəsinə baxın.
+Söz axtarışı, rənglətmə və şəkilli binqo da çap oluna bilən fəaliyyətlər kimi mövcuddur. Daha çox üçün [demans üçün çap oluna bilən fəaliyyətlərə](/activities/printable/) baxın.
 
-## Oyun seansını necə qurmaq olar
+## Oyun seansını necə hazırlamaq olar
 
-1. **Sakit bir vaxt seçin**, şəxs dincələndə. Bəzi insanlar üçün axşamüstü çətin olur, ona görə əvvəlcə öz müşahidənizi yoxlayın.
-2. **Böyük ekrandan istifadə edin.** Dayaqda duran planşet və ya brauzerdə böyüdülmüş kompüter daha asan görünür və toxunulur.
-3. **Digər səkmələri bağlayın və bildirişləri söndürün.** Qəfil pəncərələr qorxudur və yaxşı seansı poza bilər.
-4. **Şəxsin qarşısında yox, yanında oturun.** Birlikdə baxmaq imtahandan çox yoldaşlığa oxşayır.
-5. **Bir oyunla beş-on dəqiqə başlayın.** Növbə ilə oynayarkən şəxsin ekrana toxunmasına və ya göstərməsinə icazə verin.
-6. **Yaxşı nöqtədə bitirin.** Bir raundu tamamlayın, sonra bir şəkil haqqında danışın və ya bir fincan çay təklif edin.
+1. **Sakit bir vaxt seçin**, şəxs istirahət etmiş olsun. Bəzi insanlar üçün axşam çağı çətin olur, ona görə əvvəl öz müşahidənizə baxın.
+2. **Böyük ekrandan istifadə edin.** Dayaqda duran planşet və ya brauzerdə şriftləri böyüdülmüş kompüter daha rahat görünür və toxunmaq asan olur.
+3. **Digər sekmələri bağlayın və bildirişləri söndürün.** Qəfil açılan pəncərələr qorxuducu olur və yaxşı seansı poza bilər.
+4. **Qarşısında yox, yanında oturun.** Birgə baxmaq imtahandan çox yoldaşlıq hissi yaradır.
+5. **Bir oyunla beş-on dəqiqəyə başlayın.** Şəxsin ekrana toxunmasına və ya göstərməsinə icazə verin, siz də növbə ilə iştirak edin.
+6. **Yaxşı bir sonluqla bitirin.** Bir raundu tamamlayın, sonra bir şəkil haqqında danışın və ya bir fincan çay təklif edin.
 
-## Ortaq cihazlarda məxfilik və təhlükəsizlik
+## Paylaşılan cihazlarda məxfilik və təhlükəsizlik
 
-- **Fotolar cihazda qalır.** Foto cütləri yalnız seçdiyiniz fotolardan istifadə edir və onlar həmin cihazın brauzerində saxlanılır. Kompüteri və ya planşeti başqa kimlərin aça biləcəyini yoxlayın.
-- **Xarici keçidlərdən və reklamlardan çəkinin.** Oyunları birbaşa saytdan açın və şəxsi məlumat istəyən banner və ya xəbərdarlıqlara klik etməyin.
-- **Ödənişləri və hesabları ayrı saxlayın.** Şəxsi parol və ya kart nömrəsi istəyən ekranda tək qoymayın.
-- **Gəzib-dolaşmağa diqqət edin.** Şəxs planşetlə evdən çıxa bilərsə, planşeti əlçatmaz yerdə saxlayın.
+- **Fotolar cihazda qalır.** Foto cütləri sizin seçdiyiniz fotolardan istifadə edir və onlar həmin cihazın brauzerində saxlanılır. Kompüteri və ya planşeti başqa kimlərin aça biləcəyini yoxlayın.
+- **Xarici keçidlərdən və reklamlardan çəkinin.** Oyunları birbaşa saytdan istifadə edin və şəxsi məlumat istəyən banner və ya pəncərələri klikləməyin.
+- **Ödənişləri və hesabları ayrı saxlayın.** Parol və ya kart nömrəsi tələb edən ekranda şəxsi tək qoymayın.
+- **Evdən çıxmaq riskinə diqqət edin.** Şəxs cihazla evdən çıxa bilərsə, planşeti əlçatmaz yerdə saxlayın.
 
-Daha geniş yoxlama siyahısı üçün [demans tətbiq və oyunlarını necə seçmək olar](/caregiving/choosing-apps-and-games/) və [planşet və ya telefonu necə qurmaq olar](/caregiving/tablets-and-screens/) səhifələrinə baxın.
+Daha geniş yoxlama siyahısı üçün [demans tətbiq və oyunlarını necə seçmək olar](/caregiving/choosing-apps-and-games/) və [planşet və ya telefonu necə quraşdırmaq olar](/caregiving/tablets-and-screens/) bölmələrinə baxın.
 
 ## Bu oyunlar nə edə bilər və nə edə bilməz
 
-Onlayn oyunlar demansı olan insanlara bir an zövq almağa, şəkillərə birlikdə baxmağa və təzyiqsiz bir fəaliyyətdə iştirak etməyə imkan verir. Onlar demansı müalicə etmir, yavaşlatmır və ya qarşısını almır. Geniş yayılmış nümunə [Federal Ticarət Komissiyasının 2016-cı il Lumosity ilə bağlı tədbiridir](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program): şirkət əsaslandırıla bilməyən beyin təlimi iddialarına görə cərimələndi. Yaddaşın yaxşılaşacağını vəd edən, beyninizi qiymətləndirən və ya tənəzzülü geri qaytara biləcəyini deyən hər oyun, tətbiq və ya saytdan ehtiyatlı olun.
+Onlayn oyunlar demansı olan insanlara bir an zövq almağa, şəkilləri birlikdə baxmağa və təzyiqsiz bir fəaliyyətdə iştirak etməyə imkan verir. Onlar demansı müalicə etmir, ləngitmir və ya qarşısını almır. Geniş yayılmış nümunə [Federal Ticarət Komissiyasının Lumosity əleyhinə 2016-cı il tədbiridir](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program); həmin şirkət əsaslandırıla bilməyən beyin məşqi iddialarına görə cavab verdi. Yaddaşı yaxşılaşdıracağını vəd edən, beyninizi ölçən və ya zehni tənəzzülü geri qaytarmağı iddia edən hər oyun, tətbiq və ya saytdan ehtiyatlı olun.
 
-Bu oyunlardan musiqi, gəzinti, söhbət və istirahət də olan gün planının bir hissəsi kimi istifadə edin. Oyunların təzyiq deyil, rahatlıq yaratması üçün [demans olan biri ilə necə oynamaq olar](/caregiving/how-to-play-together/) və [test etməyən yaddaş oyunları](/activities/memory-games/) səhifələrini oxuya bilərsiniz.
+Bu oyunları musiqi, gəzinti, söhbət və istirahət də olan gün planının bir hissəsi kimi istifadə edin. Oyunları gərginlik yox, rahatlıq yaratmaq üçün necə oynamağın yollarını öyrənmək üçün [demansı olan biri ilə oyunları necə oynamaq olar](/caregiving/how-to-play-together/) və [imtahan etməyən yaddaş oyunları](/activities/memory-games/) bölmələrinə baxın.
 
-## Nə vaxt dayandırmaq lazımdır
+## Nə vaxt dayandırmalı
 
-Şəxs yorğun, narahat, əsəbi və ya həyəcanlı görünəndə dayandırın. Marağı itirəndə dayandırın. Erkən dayandırmaq yaxşı nəticədir. Başqa gün yenidən başlaya bilərsiniz və ya söhbətə və ya gəzintiyə keçə bilərsiniz.
+Şəxs yorğun, narahat, əsəbi və ya həyəcanlı göründükdə dayandırın. Maraqını itirdikdə dayandırın. Erkən dayandırmaq yaxşı nəticədir. Bunu istənilən gün davam etdirə bilərsiniz və ya bunun yerinə söhbət və ya gəzintiyə keçə bilərsiniz.

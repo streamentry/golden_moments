@@ -1,33 +1,33 @@
 ---
-title: "Nsɛmmisa a Ɛyɛ Ma Dementia Nkurɔfo, Ɛnni Ahohia"
-seoTitle: "Nsɛmmisa ma Dementia Nkurɔfo, ne Mmuae"
-description: "Nsɛmmisa 50 a ɛyɛ ma dementia nkurɔfo, ne mmuae ne nsɛm a ɛbɛma nkitahodie, ne sɛnea wobɛyɛ nsɛmmisa a obiara rennya ahohia anaa wɔntwe no ase."
+title: "Nsɛmmisa a Ɛyɛ Yie ma Nnipa a Wɔwɔ Dementia, Enni Ahohia"
+seoTitle: "Nsɛmmisa ma Nnipa a Wɔwɔ Dementia, Ne Mmuae"
+description: "Nsɛmmisa 50 a ɛyɛ yie ma nnipa a wɔwɔ dementia, wɔ mmuae akyinnyeɛ ne nsɛm a wobɛka mu, ne sɛnea wɔbɛyɛ trivia a obiara remfa ho ahohia."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Nsɛmmisa a ɛyɛ ma dementia nkurɔfo yɛ adwuma sɛ ɛte sɛ nkɔkɔbɔ, na ɛnyɛ
-  sɛ wɔrebisa wo. Bisa nsɛm a wɔsuaa fã ara, te sɛ nnwom a wɔdɔ, mmebusɛm,
-  afahyɛ ne nkwa a ɛdɔɔ. Ma mmuae abien anaa abiɛsa nka ho. Ma wɔaka mmuae no
-  nnipa nyinaa ho, mma nkontabuo, yi asɛmti ho, na fa mmuae biara sɛ ɛbɛyɛ
-  asɛm. "Eyi anaa eyi" nsɛmmisa a mmuae a ɛyɛ bon biara nni mu no fata
-  nkɔso a ɛtɔ so.
+  Trivia ma nnipa a wɔwɔ dementia yɛ yie sɛ ɛyɛ nkɔmmɔ, ɛnyɛ ɔsɔhwɛ. Bisa
+  nneɛma a wosuaa wɔ bere a atwam, te sɛ nnwom a ɛtɔ so, mmebusɛm, afahyɛ ne
+  nkwa a ɛyɛ da biara, na ma mmuae abiɛsa anaa abien ayɛ ho nhyehyɛe daa. Ma
+  mmuae no wɔ anuonyam mu, nnyɛ obi ho mmoa, nnyina mmɔden ho, na fa mmuae biara
+  sɛ ɛbɛma abɔdeɛ. Nsɛmmisa a amumuyɛ biara nni mu boa ma ɛberɛ a ɔyare no akɔ
+  akyiri.
 keyPoints:
-  - "Bisa nneɛma a wɔasuasua wɔn ho: nnwom, mmebusɛm, afahyɛ, aduane ne nkwa a ɛdɔɔ afe a atwam."
-  - "Ma mmuae abien anaa abiɛsa, sɛnea wɔbɛtumi ahunu mmuae no mmom sen sɛ wɔbɛkae."
-  - "Ka mmuae no ho asɛm ne ahoɔfɛ na fa so. Nkɔsoɔ biara a ɛma asɛm bɛtɔ so yɛ nkɔsoɔ pa."
-  - "Mmara biara, nnipa nnyinasoɔ anaa obi a wɔbɛfrɛ no nni hɔ. Ma mmuae fi adekyeeɛ no nyinaa mu."
-  - "Bere a ɛyɛ den sɛ wobɛpaw mmuae no, sesa kɔ eyi anaa eyi nsɛmmisa a mmuae a ɛteɛ nni hɔ."
+  - "Bisa nneɛma a wɔsuaa dedaw: nnwom, mmebusɛm, afahyɛ, aduane ne nkwa a ɛyɛ da biara wɔ bere a atwam."
+  - "Ma mmuae abiɛsa anaa abien ɔkwan a obi bɛtumi ahu mmuae no mmom sɛ ɔbɛkae."
+  - "Ka mmuae no wɔ anuonyam mu na kɔ so. Abisa biara a ɛma asɛm bɛtɔ so yɛ abisa a ɛyɛ."
+  - "Mfeɛ nni hɔ, ɛnyɛ nnipa a wɔpere sɛ ɛntɔ, na ɛnyɛ obi nkyɛn na wobɛfrɛ. Ma mmuae nam nnipa nyinaa mu ba."
+  - "Sɛ ɛyɛ den sɛ wobɛpaw mmuae, sesa kɔ nsɛmmisa a ɛyɛ 'Yi anaa Yei' a mmuae nni mu tɔ."
 faq:
-  - q: "Nsɛmmisa yɛ adwuma a ɛyɛ ma dementia nkurɔfo anaa?"
-    a: "Ɛtumi yɛ, sɛ wɔde ahoɔfɛ yɛ no. Alzheimer's Foundation of America de nsɛmmisa ka ho wɔ adwuma a ɛfata ma dementia mfitiase bere mu. Bisa nsɛm a wɔasuasua wɔn ho, ma mmuae, mma obi nni ahohia wɔ nea wɔrebisa no ho, na fa mmuae no sɛ kwan a wobɛfa so akasa, na ɛnyɛ sɛ ɛyɛ ɔsɔhwɛ."
-  - q: "Nsɛm bɛn na ɛfata dementia nsɛmmisa?"
-    a: "Nneɛma a wɔsuaa fã ara na ɛtɔ so yɛ yie: nnwom a ɛdɔɔ ne nnwomfo a wɔtenaa ase, mmebusɛm a wɔka pɛpɛɛpɛ, afahyɛ, aduane, mmerɛ ne nkwa a ɛdɔɔ te sɛ mfuw nnoɔ ne nkaneɛ. Gyae nsɛm foforo ne nea ɛhia sɛ wokae biribi a wɔaka wɔ bere a atwam wɔ ase ho."
-  - q: "Ɛdeɛn na mɛyɛ nsɛmmisa wɔ ɔdan mu a enni obi ahohia?"
-    a: "Ka nsɛmmisa no kyerɛ nnipa nyinaa, ka mmuae anaa ka sɛ wɔmfa nkyɛ. Mfa obi biara nnfrɛ, na ɛnsɛ sɛ wokɔ akontaabu. Ka mmuae no ho asɛm ne ahoɔfɛ, na bisa nsɛm a ɛboa ma ɛbɛyɛ asɛm, te sɛ 'Hena wɔ ha no a waduru drive-in ?' sɛnea wɔbɛyɛ asɛm."
-  - q: "Ɛdeɛn na mɛyɛ bere a wɔaba aduruyɛ mu no, sɛ nsɛmmisa?"
-    a: "Sesa kɔ nsɛm a mmuae biara nni mu, te sɛ 'Kɔfi anaa tii?' anaa 'Mpɔtam anaa bepɔw?', na ka mmebusɛm anaa nnwom a wɔasuasua wɔn ho bom. Wɔ nso kyerɛ mfonini na wɔka ho asɛm bom nso yɛ adwuma pa."
+  - q: "Trivia yɛ dwumadie a ɛfata ma nnipa a wɔwɔ dementia anaa?"
+    a: "Ɛbɛtumi ayɛ, sɛ wɔyɛ no nyinaa yɛ mmerɛ. Alzheimer's Foundation of America kyerɛ sɛ trivia yɛ so wɔ dwumadie a ɛfata ma ɛberɛ a ɔyare no rehyɛ ase. Fa nsɛmmisa a ɛfa nneɛma a asuaa wɔ bere a atwam ho, ma mmuae, nnyina obi ho mmoa, na fa mmuae no sɛ kwan a wɔfa so rekɔ nkɔmmɔ mu, ɛnyɛ sɛ ɛyɛ ɔsɔhwɛ."
+  - q: "Nsɛm bɛn na ɛyɛ yie ma trivia a ɛfa dementia ho?"
+    a: "Nneɛma a wɔsuaa wɔ bere a atwam na ɛtɔ so yie: nnwom a nnipa tɔ so ne nnwomfo wɔ ɔbarima ne ɔbaa mmerɛ mu, mmebusɛm a wɔka daa, afahyɛ, aduane, mmerɛ ne nkwa a ɛyɛ da biara, te sɛ aduane a wɔde fi nkuro ma ne ntorɔ a wɔfa ne tɔ sɛ 'telefon' a wɔbɛfa. Gyae asɛm foforo a wɔtetew ho ne nneɛma a ehia sɛ wokae biribi a ɛfiri saa berɛ no mu."
+  - q: "Ɛdeɛn na mɛyɛ trivia wɔ ɔdan a wɔhwɛ nnipa mu a ɛremfa nsow obiara?"
+    a: "Kenkan nsɛmmisa no kyerɛ ayɛfo nyinaa, de mmuae kyerɛ wɔn, na ma obiara a ɔwɔ hɔ nnye mmuae. Nnfrɛ obi biara nkyerɛ ne sɛ ɔnkyerɛ mmuae, na nnyina nkontaabu. Ka mmuae no ne anigye, ɛnyɛ asɛm sɛ wɔsɔ nea wɔbuaa, na bisa nsɛmmisa a ɛkɔ akyiri te sɛ 'Ɛhɔ nnipa biara a wɔkɔɔ drive-in bere bi?' sɛnea wɔbɛyɛ asɛm."
+  - q: "Ɛdeɛn na mɛyɛ bere a ɔyare no akɔ akyiri mu sɛ mɛgyae trivia?"
+    a: "Sesa kɔ nsɛmmisa a amumuyɛ biara nni mu, te sɛ 'Kɔfi anaa tii?' anaa 'Mframa kɛse anaa bepɔw?' ne sɛ wobɛka mmebusɛm anaa nnwom a wɔasuaa no bom. Wɔ mfonini ho, wɔ wɔn ho ka ho nso yɛ yie."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Nsɛmmisa yɛ adwuma a nnipa pii pɛ paa wɔ ɔdan a wɔboa nkurɔfo ne wɔ adwuma a wɔyɛ wɔ mpɔtam hɔ, na abusua pii nso yɛ no wɔ wɔn efie ti ho. Sɛ wɔyɛ no sɛnea wɔyɛ no daa, de mmuaeɛ ne ahoɔfɛ ne obi a ɔno nko ara de mmuae ma, ɛtumi ma obi a wɔ dementia no ani nnye. Sɛ wɔyɛ no ahoɔfɛ a, ɛyɛ kwan a ɛyɛ anigyeɛ so wɔtie nsɛm. Ase yi, nsɛmmisa 50 a ɛyɛ ma ne mmuae ne nsɛm a wobɛka ho wɔ biara ho, ne sɛnea wobɛyɛ bere a wɔyɛ nsɛmmisa no.
+Trivia yɛ dwumadie a nnipa pii pɛ wɔ ɔdan a wɔhwɛ nnipa mu ne afɛ a wɔyɛ ho ho ne nkɔmmɔ mu, na abusua pii nso yɛ no wɔ wɔn aduane adan mu. Sɛ wɔyɛ no sɛnea ɛyɛ daa, a mmuae ne ntoto ka ho, ɛbɛma obi a wɔwɔ dementia ani abɔ sɛ wɔrehwɛ no. Sɛ wɔyɛ no yie, ɛyɛ akwan a ɛyɛ anigye so de tie nkɔmmɔ. Wɔ hɔ, wɔde nsɛmmisa 50 a ɛyɛ yie ne mmuae mmiaasa ne asɛm a wɔbɛka ma biribiara, a ɛdi so de kyerɛ sɛnea wɔbɛyɛ nkɔmmɔ.
 
-## Ɛdeɛn na wobɛma nsɛmmisa yɛ adwuma ma obi a wɔ dementia?
+## Ɛdeɛn na wobɛyɛ trivia ma obi a wɔwɔ dementia atumi aye?
 
-Ma ɛyɛ asɛm a ɛkɔ ho nkaebɔ ne nkaeɛ a ɛyɛ nneɛma a atwam, na ma mmuae biara nyinaa nya nidiɛ.
+Ma ɛnyɛ nea ɛfa nneɛma a wosuaa wɔ bere a atwam ho na wɔbɛkae, na ma mmuae biara nyɛ ɛfɛ.
 
-1. **Bisa nneɛma a ɛyɛ nnansa yi.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ka sɛ Alzheimer's a ɛba mfitiase no nsɛnkyerɛnne a ɛtɔ so ne sɛ ɛyɛ den sɛ obi bɛkae nsɛm a wasua foforo. Nnwom, mmebusɛm ne nkwa a ɛdɔɔ afe a atwam, ɛtɔ so yɛ nea ɛyɛ mmerɛ ma wɔn.
-2. **Ma mmuae daa.** Ɛyɛ mmerɛ sɛ obi bɛpaw mmuae a ɛteɛ wɔ mmuae abien anaa abiɛsa mu, sen sɛ wɔbɛfrɛ mmuae a ɛnni hɔ.
-3. **Kenkan nsɛmmisa no ma wɔatie na kyerɛ wɔ ɔfa kɛse so.** Whiteboard anaa tablet a wɔbɔ kɔ soro boa nnipa a wɔnte yie.
-4. **Ma mmuae no ma wɔnnye.** Sɛ obiara nnim a, ka no ho asɛm ahoɔfɛ na kɔ so. Ɛnsɛ sɛ wɔka sɛ "Wo nnim saa? Nsɛm no ara ne."
-5. **Mma akontaabu.** Ɛnte ma obi ne ɛnte ma mpɔtam nso. Sɛ nnipa pɛ nɔma a, ma akontaabu koro nko.
-6. **Mfa obi biara nnfrɛ.** Ma mmuae no ma nnipa nyinaa. Sɛ wo ne obi nko ara resɛm a, ka mmuae no ho ne wɔn bom: "Mesusuw sɛ ɛyɛ piano. Wo deɛ wobɛka?"
-7. **Fa asɛm a wɔbɛka ho no yɛ adwuma.** Mmuae no yɛ nkɔso, ɛnyɛ awiei. Asɛm no ne nea yɛpɛ.
-8. **Ma ɛnyɛ nea ɛbɛtɔ mmere pii.** Nsɛmmisa ɔpepem anaa mmienu a asɛm wɔ mu no ɛfata.
+1. **Bisa nneɛma a efi akyirikyiri.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) kyerɛ sɛ Alzheimer's a ɛba ɛberɛ a ɛrehyɛ ase no ada so sɛ nkaebɔ a ɛtɔ so ne sɛ ɛyɛ den ma obi kae nneɛma foforo a wasua. Nnwom, mmebusɛm ne nkwa a ɛyɛ da biara fi mfeɛ a atwam no mu ɛyɛ hia kɛse kɔ so.
+2. **Ma mmuae daa.** Ɛyɛ mmerɛ sɛ obi bɛpaw mmuae a ɛyɛ no fi mmuae abiɛsa anaa abien mu sen sɛ ɔbɛka mmuae a ɛyɛ no fi ne ti mu.
+3. **Kenkan nsɛmmisa no kɛse na hwɛ ɛmfa.** Ɛboa sɛ wobɛde tabe kɛse anaa tablet a wɔbɛma nnipa a ntease ye bɛhwɛ.
+4. **Ma mmuae no anigye.** Sɛ obiara nnim, ka mmuae no ɛne anigye na kɔ so. Nkɔ so ka "Monkɔ, wunim saa" bio.
+5. **Nkontaabu nni hɔ.** Nnyɛ nkontaabu ma obi ankasa na nnyɛ nkontaabu ma nnipa a wɔtete bo mu. Sɛ nnipa pɛ nkontaabu, ɛnyɛ mmoa kɛse biako nyinaa.
+6. **Nnfrɛ obi biako.** Ma mmuae nam obiara mu ba. Sɛ ɛyɛ nnipa biako nkyɛn, ka mmuae no bom: "Mesusuw sɛ ɛyɛ piano. Wo ankasa wosusuw sɛ dɛn?"
+7. **Fa asɛm a ɛwɔ nsɛmmisa no mu di dwuma.** Mmuae no yɛ ɛfiase, ɛnyɛ awiei. Asɛm no ne nea yɛpɛ.
+8. **Ma ɛnyɛ tenten.** Nsɛmmisa mmienu anaa mmienu ne asɛm a wɔka wɔ mu no ɛboro, ɛfata.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) de mmara titiriw no ka pefee: hwɛ sɛ obi ahohia ba, na ma obi no ani agye sɛ ɔayɛ adwuma yie. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) de nsɛmmisa ka ho wɔ adwuma a ɛfata mfitiase bere mu. Wɔ mfitiase bere a ɛtɔ so no, ma mmuae abien nkutoo, na fa asɛm a wɔbɛka ho no yɛ adwuma. Akyiri yi, sesa kɔ eyi anaa eyi nsɛmmisa a ɛwɔ ase no.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka mmara a ɛyɛ titiriw no sɛnkyerɛnne: hwɛ sɛ obi rentete ne ho ano, na hwɛ sɛ obi no ahu sɛ ɔayɛ adwuma yie. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kyerɛ sɛ trivia yɛ dwumadie a ɛfata ma ɛberɛ a ɔyare no rehyɛ ase. Wɔ ɛberɛ a ɛyɛ mfinimfini no, fa mmuae mmienu ara na fa asɛm a ɛwɔ nsɛmmisa no mu di dwuma. Ɛberɛ a ɛkɔ akyiri no, sesa kɔ 'Yi anaa Yei' nsɛmmisa a ɛwɔ ase no.
 
-## Nnwom ne ahyɛdeɛ nsɛmmisa
+## Nnwom ne akwanside trivia
 
-Mmuae a ɛteɛ no wɔ **mfuw**. Ma nsɛmmisa yi nsiesie wɔ onipa no ho: obi a ɔkɔɔ so tɔ Motown bɛpɛ nnwomfo a ɛyɛ foforo sen obi a ɔkɔɔ so tɔ big bands.
+Mmuae no wɔ **mmɔfra** mu. Yɛ saa nsɛmmisa yi ma obi: obi a wakɔ nkuro a wɔatwa so ka Motown a ɔbɛpɛ anyimyɛ ahyɛn nnwomfo a ɛyɛ foforo sen obi a ɔdaa Big Band nnwom.
 
-| Nsɛmmisa | Mmuae | Ka ho asɛm |
+| Nsɛmmisa | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| Hena na wɔfrɛɛ no Rock and Roll Hene? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Wuhuu Elvis wɔ TV so? |
-| Dwantofo bɛn na wɔfrɛɛ no Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Sinatra nnwom bɛn na wopɛ sen biara? |
-| Bing Crosby bisaa ho sɛ ɔbɛhunu ... ɔpɛ a ɛyɛ fitaa | **Kresimas**, aware, fie | Yɛn nyinaa ka nkyɛmu bi bom |
-| Louis Armstrong dwanee "What a Wonderful..." | Da, **Wiase**, Nkwa | Dɛn na ɛma wiase yɛ anigye wɔ wo ho? |
-| Judy Garland dwanee "Over the Rainbow" wɔ sini bɛn mu? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Afei wuhuu wo nsɛm a wopɛ wɔ he? |
-| Hena na ɔbɛyɛ Lucy wɔ "I Love Lucy" mu? | **Lucille Ball**, Doris Day, Betty White | Dɛn ara na wo abusua hwɛɛ bom? |
-| Ɔkɔm-kɔm ɔbɛn na ɔtenaa ɔkraman a wɔfrɛ no Trigger so? | **Roy Rogers**, Gene Autry, John Wayne | Wodii akɔm-kɔm yɛ ɔba-kakra? |
-| Hena na ɔkyerɛɛ The Tonight Show mfe 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | Woyɛ anadwo wɔ TV so? |
-| Nnwinnade bɛn na ɛwɔ 88 nkyɛn? | Gitaa, **piano**, trumpet | Obi wɔ wo abusua mu a ɔtu nnwom? |
-| Asaw bɛn na wɔka sɛ ɛyɛ baako-mmienu-mmiɛnsa, baako-mmienu-mmiɛnsa? | **Waltz**, twist, tango | Ɛhe na wokɔɔ asaw? |
+| Hena na wɔfrɛɛ no King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Wohui Elvis wɔ TV so anaa? |
+| Dɛn nnwomfo na wɔfrɛ no Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Sinatra nnwom bɛn na wopɛ sen biara? |
+| Bing Crosby hwehwɛɛ sɛ Krismas a ɛyɛ... | **Krismas**, ayeforo, fie | Yɛ nnwom no mmɔfra bi bom |
+| Louis Armstrong totoo "What a Wonderful..." | Da, **Wiase**, Nkwa | Dɛn na ɛma wiase yɛ anigye ma wo? |
+| "Over the Rainbow" a Judy Garland totoo wɔ sini bɛn mu? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Wohui wo ho sini a wopɛ wɔ he? |
+| Hena na ɔyɛɛ Lucy wɔ "I Love Lucy" mu? | **Lucille Ball**, Doris Day, Betty White | TV sɛnea bɛn na wo abusua hwɛɛ bom? |
+| Ɔkɔboy bɛn na ɔtenaa akɔnnɔa a wɔfrɛ no Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Woyɛɛ ɔkɔboy wɔ mmofra mmere mu anaa? |
+| Hena na ɔdaa "The Tonight Show" mfe 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | Woforo TV dadwow anaa? |
+| Ɛdwumadie bɛn na ɛwɔ mmɛnkyɛn 88? | Gitaa, **piano**, trumpet | Obi wɔ wo abusua mu a ɔtu piano anaa? |
+| Anyanyɛ bɛn na wɔkan sɛ ɛyɛ baako-mmienu-abiɛsa, baako-mmienu-abiɛsa? | **Waltz**, twist, tango | Wofinii anyanyɛ wɔ he? |
 
-Sɛ wopɛ sɛ wukenkan nnwom ho nsɛm a, hwɛ [music activities for dementia](/activities/music/).
+Sɛ wopɛ nsɛm kɛse wɔ nnwom ho, hwɛ [dwumadie a ɛfa nnwom ho ma dementia](/activities/music/).
 
-## Nkwa a ɛdɔɔ trivia
+## Adan nneɛma a ɛwɔ da biara mu trivia
 
-| Nsɛmmisa | Mmuae | Ka ho asɛm |
+| Nsɛmmisa | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| Ansa na refrigerator aba no, fie pii na wɔde ti kora nneɛma... | **Icebox**, oven, attic | Hena na ɔde yinyi no ba? |
-| Hena na ɔde nufuw kɔɔ ɔpon ɔkwan so wɔ glass bottles mu? | Akwan-nkɔm-kɔfo, **nufuw-kɔfo**, nwoma-kɔfo | Nneɛma bɛn foforo na wɔde kɔɔ fie? |
-| Wɔde rotary phone a, dɛn na wobɛyɛ? | Wobɛtwa bɔtɔn, **wobɛdan ɔwɔ**, wobɛka kyerɛ no | Ka wo fie telefon ho asɛm bi |
-| Kɔmpanyi bɛn na ɔyɛe Model T kar no? | **Ford**, Chevrolet, Buick | Ka kar a wopɛɛ ho asɛm |
-| Ɛhe na wobɛhunu soda jerk? | **Soda fountain**, baka-ɛfie, sikakorabea | Dɛn na wokaa wɔ counter no so? |
-| Dwetɛ bɛn ne metal spring a ɛtumi tu ɔfasu so? | Yo-yo, **Slinky**, hula hoop | Dwetɛ bɛn na wopɛɛ? |
-| Drive-in yɛ baabi a wɔhwɛ ... | **Sini wɔ kar mu**, bɔl agorɔ, ɔkwan a wɔfa so | Hena na wokɔɔ ne nkyɛn? |
-| Hena ne ɔhɔ a ɛwɔ one-dollar bill so no? | Lincoln, **George Washington**, Jefferson | Dɛn na dɔla baako tumi tɔn ansa na? |
-| Hena ne ɔhɔ a ɛwɔ penny so no? | **Abraham Lincoln**, Washington, Franklin | Wodii sika ketewa sɛ wobɛkora wɔ ɔpon mu ansa na? |
-| Asɛnka bus kɔla no yɛ ɔhɔɔhɔɔ dɛn? | Ɔhɔ-kɔkɔɔ, **kɔkɔɔ**, bibiri | Dɛn na wofaa de kɔɔ sukuu? |
+| Ansa na firiji reba no, fie pii kora aduane wɔ... | **Icebox**, oven, atiko | Hena na ɔde ice bɛba? |
+| Hena na ɔde nufɔ bɛba ɔpon wɔ ahoma a wɔde nkaa yɛ no mu? | Akwadaa a ɔde leta bɛba, **nufɔ fo**, akwadaa a ɔde nkɔsoɔ bɛba | Ɛdeɛn foforo na wɔde bɛba fie? |
+| Ɛdeɛn na wɔfrɛ telefon a ɛyɛ rotary? | Ntoto botum, **ɔnam so kɔ nkasa**, ka kyerɛ no | Ka asɛm ho nea ɛwɔ wo fie telefon ho |
+| Kompani bɛn na ɔyɛe Model T kar? | **Ford**, Chevrolet, Buick | Ka kar a wopɛ no ho asɛm |
+| Ɛhe na wobɛhwehwɛ soda jerk? | **Soda fountain**, bɛkɛrɛ, sika bank | Dɛn na wopɛ wɔ counter no so? |
+| Ɛdwumadie bɛn na ɛyɛ metal spring a ɛbɛtumi atena stairs so? | Yo-yo, **Slinky**, hula hoop | Akwadaa dwumadie bɛn na woperɛ? |
+| Drive-in yɛ baabi a wɔhwɛ... | **Sini a wotena kar mu**, bɔɔl ayɛ, ɔhyɛmu | Hena na woakɔ no? |
+| Hena ankasa na ɛwɔ dɔlar baako no so? | Lincoln, **George Washington**, Jefferson | Dɛn na dɔlar baako tumi tɔn saa bere no? |
+| Hena ankasa na ɛwɔ penny no so? | **Abraham Lincoln**, Washington, Franklin | Woboaboaa pennies wɔ ɔsikakɔkɔɔ mu saa bere no anaa? |
+| Ɛnsoɔ a wɔde akɔ sukuu no yɛ kɔla bere bɛn? | Fitaa, **kɔkɔɔ**, buruu | Wodii sukuu kɔ ɛdeɛn? |
 
-## Afahyɛ, nhoma ne baabi
+## Afahyɛ, ahyɛase ne baabi
 
-| Nsɛmmisa | Mmuae | Ka ho asɛm |
+| Nsɛmmisa | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| Afahyɛ bɛn na ɛba da a ɛto so anan wɔ Ɔbenaa Kwasiada wɔ November? | Labor Day, **Thanksgiving**, Memorial Day | Dɛn na na ɛda so wɔ wo fie? |
-| Wɔyɛ jack-o'-lanterns ma afahyɛ bɛn? | **Halloween**, Easter, Christmas | Ka Halloween a wɔyɛ wo baabi ho asɛm |
-| Fourth of July kyerɛ Declaration of... | Rights, **Independence**, Freedom | Ɛhe na wohwɛɛ fireworks? |
-| Mother's Day wɔ bosome bɛn mu? | April, **May**, June | Wo abusua yɛɛ afahyɛ no dɛn? |
-| Nhyerɛn bɛn na ɛwɔ American flag so? | 48, **50**, 52 | Flag no ne nhyerɛn 48 kosii 1959. Mmuae biara yɛ asɛm a wokae yie |
-| Ɛpo bɛn na ɛwɔ East Coast? | Pacific, **Atlantic**, Arctic | Woawu ɛpo ho anaa? |
-| Ɛhe na Statue of Liberty wɔ? | Boston, **New York**, Philadelphia | Woakɔ New York anaa? |
-| Dɛn na mframa yɛ? | Nufuw, **ɛmoa**, sikaa | Ɛmoa wɔ toast anaa wɔ tii mu? |
-| Nantwi ketewa a wɔfrɛ no... | Foal, **calf**, kid | Woatete afuo ho anaa? |
-| Ɛpaw ɔhɔɔhɔ bɛn a ɛkɔ anafo, a ɛdan so kɔ owia so? | Rose, **sunflower**, tulip | Dɛn na ɛdupɛ wɔ wo apɔnkɔ mu? |
-| Nnansa bɛn na ɛwɔ leap year mu? | 365, **366**, 360 | Ka birthday a wokae ho asɛm |
-| Bere bɛn na ɛdi awɔw akyi? | Ɔhɔhoɔ, **Osagyefo**, Ɔbɛdɛn | Bere bɛn na wopɛ sen biara? |
+| Afahyɛ bɛn na ɛba da a ɛto so anan wɔ Thanksgiving Thursday wɔ November? | Labor Day, **Thanksgiving**, Memorial Day | Dɛn na na ɛwɔ wo ɛpon so daa? |
+| Wɔyɛ jack-o'-lanterns ma afahyɛ bɛn? | **Halloween**, Easter, Krismas | Ka Halloween a wodii kɔsii wɔ hɔ ho asɛm |
+| Fourth of July hyɛ Declaration of... | Rights, **Independence**, Freedom | Ɛhe na wohwɛɛ fireworks? |
+| Mother's Day wɔ bosome bɛn mu? | Ebɔw, **Mɛ**, Ɔbɔsɛm | Sɛnea wo abusua hyɛɛ afahyɛ no? |
+| Nsoromma bɛn na ɛwɔ American flag no so? | 48, **50**, 52 | Flag no ne nsoromma 48 kosii 1959. Mmuae biara yɛ asɛm a ɛfata |
+| Ɛpo bɛn na ɛwɔ East Coast? | Pacific, **Atlantic**, Arctic | Wɔwɔ ɔpɔnkɔ mu bere bi anaa? |
+| Ɛkuro bɛn na Statue of Liberty wɔ? | Boston, **New York**, Philadelphia | Woakɔ New York anaa? |
+| Nnunum bɛn na ɛyɛ nnuban? | Nufɔ, **ɛnuadeɛ**, nsiaseɛ | Ɛnuadeɛ wɔ toast anaa tii mu? |
+| Ɛberɛ a ɔmaa nantwi bɛn nyɛ? | Ɔmaa, **nantwi**, ɔbɛmma | Wotenaa afuom sɛ ɛbɛn? |
+| Ɛhwɛ bɛn a ɛyɛ tenten ne kɔlɔ a ɛdan sɛ ɛde ne ani kɔ owia so? | Ɔsɛe, **sunflower**, tulip | Dɛn na na ɛdan wo afuw mu? |
+| Nnanson bɛn na ɛwɔ bɔfɛfe mu? | 365, **366**, 360 | Ka birthday bi a wokae ho asɛm |
+| Bere bɛn na ɛdi awia akyi? | Ahinime, **Osuso**, Owia | Bere bɛn na wopɛ sen biara? |
 
-## Aduane ne agodie trivia
+## Aduane ne akwan a wɔfa so tu fo trivia
 
-| Nsɛmmisa | Mmuae | Ka ho asɛm |
+| Nsɛmmisa | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| Raisins yɛ... | Plums, **grapes**, cherries | Woaguan raisins wɔ wo ɛnwuma mu anaa? |
-| Prunes yɛ... | **Plums**, figs, apples | Hena wɔ wo abusua mu a ɔdɔɔ prunes? |
-| Peanut butter ne... | **Jelly**, warankasa, hama | Ɛyɛ crunchy anaa smooth? |
-| Guacamole a ɛyɛ mfeɛ ne... | Peas, **avocados**, cucumbers | Dɛn na ɛyɛ dip a ɛba ahyɛdeɛ mu? |
-| Pie bɛn na ɛyɛ Thanksgiving no adi ahodoɔ? | **Pumpkin**, lemon, cherry | Pie bɛn na wo yɛe? |
-| Baseball asɛnka no wɔ nkɔmfo ɛdɔm mpɛn ɛhɔ? | 7, **9**, 11 | Hena ɛdɔm na wodiiɛ ma? |
-| Baseball mu, nsɛm bɛn na ɛyɛ out? | Mmienu, **mmiɛnsa**, anan | Woawɔ bɔl bere bi anaa? |
-| Babe Ruth yɛ nto a ɔfiri ɛha? | Boxing, **baseball**, golf | Woakɔ bɔl agorɔ anaa? |
-| Golf course a ɛyɛ ɛkɔm bɛn wɔ mu? | 9, **18**, 24 | Woawɔ golf anaa mini golf? |
-| Ɛdɔm bɛn na wɔtumi nya touchdown wɔ mu? | **Football**, hockey, basketball | Hena na ɔhwɛɛ football wɔ wo fie? |
+| Raisins yɛ... | Ahwetɛ, **aburoo**, ɛkrakyɛ | Woyɛɛ raisins di mmofra ayɛ no anaa? |
+| Prunes yɛ... | **Ahwetɛ**, nkwadua, aborɔdɛ | Hena wɔ wo abusua mu a ɔpɛ prunes? |
+| Peanut butter ne... | **Jelly**, warankɛse, ɛmo | Ɛkrakyɛ anaa ɛyɛ nwuw? |
+| Guacamole yɛ fi... | Ɛpɛ, **avocado**, nkwadua a ɛyɛ nti | Dɛn na wɔde yɛ dip wɔ afahyɛ mu? |
+| Ɛpie bɛn na Thanksgiving pɛ? | **Ɔfiri**, aborɔdɛ, ɛkrakyɛ | Ɛpie bɛn na woyɛe? |
+| Baseball kurom wɔ nnipa a wɔrekɔ fam mu? | 7, **9**, 11 | Kurom bɛn na woboaboa ma? |
+| Mpɛn nkyɛ bɛn na ɛyɛ out wɔ baseball mu? | Mmienu, **mmiɛnsa**, anan | Woboaa bɔɔl anaa? |
+| Babe Ruth yɛ ɛdwumadie bɛn mu a ɔyɛ fɛ? | Boxing, **baseball**, golf | Wokɔ bɔɔl agorɔ anaa? |
+| Mpɛn bɛn na ɛwɔ standard golf course mu? | 9, **18**, 24 | Woatu golf anaa mini golf? |
+| Ɛdwumadie bɛn na wowɔ touchdown wɔ mu? | **Football**, hockey, basketball | Hena na ɔhwɛɛ football wɔ wo fie? |
 
-## Mmebusɛm a wɔasuasua wɔn ho
+## Mmebusɛm a wɔka daa
 
-Sɛ wodi mmebusɛm awiei a, ɛboa wo ma wukae nsɛm a wosuaa dedaw, na ɛtɔ so yɛ mmerɛ. Yɛn [Gyina mmebusɛm](/games/finish-the-saying/) adwuma no wɔ mmebusɛm pii, na ɛwɔ nkɔm a wobɛtwa sɛ wɔmfa awiei no.
+Sɛ wɔka mmebusɛm a wɔka daa ayɛ, ɛfa kasa a wɔsuaa wɔ bere a atwam so, na ɛtɔ so mmerɛ. Yɛn [Finish the saying](/games/finish-the-saying/) dwumadie wɔ mmebusɛm pii bio, ne asiesie biara a wobɛtumi ahu no.
 
-| Mmebusɛm | Mmuae | Ka ho asɛm |
+| Mmebusɛm | Mmuae a wɔbɛpaw | Asɛm a wɔbɛka |
 | --- | --- | --- |
-| Apple biako da biara na ɛma... | **Dɔkota kɔ**, osuo kɔ, ɔkraman kɔ | Hena na ɔkyerɛɛ wo saa? |
-| Ɔpɛpɛ tuo no... | Ɔkwan-kɔ, **kokoɔ**, tren | Wo ne ɔpɛpɛ mpanyinfo anaa? |
-| Mma nkontabuo wo akoko ansa na... | **Wɔrebɛwɔ**, wɔrebɛda, wɔrebɛdwo | Wɔdii akoko wɔ wo abusua mu anaa? |
-| Sika a wɔakora yɛ... | **Wɔawɔ**, wɔtwe, wɔatɔ | Hena na ɔyɛ ɔkora sika wɔ wo abusua mu? |
-| Fie ne baabi a... | Turo ne, **koma ne**, ɛfie ne | Dɛn na ɛma baabi bi yɛ fie? |
-| Ɛyɛ mmerɛ sen... | Anɔpa, **daa**, bɛyɛ | Hena na na ɔbɛba akyiri daa? |
-| Ɔfifi biara wɔ... | **Ɔfa**, nkɔso, kɔkɔɔ | Ka ɔkwan a ɛboaa wo ho asɛm |
-| Nneyɛe ka kyerɛ... | **Asɛm**, nnwom, ɔhoho | Ka obi a ɔkaa saa ho asɛm |
+| Apple biako da biara, ɛbɛma ɔdɔkotaafoɔ... | **Ɛbɛtwe no firi wo nkyɛn**, osu bɛtwe, ɔsɛ bɛtwe | Hena na ɔka eyi kyerɛɛ wo? |
+| Ɔkɔkɔ a ɔsɔre ntɛm na ɔnya... | Kaa, **ɔbɔfuo**, tren | Wo ara wo ɛberɛ a ɛdi kan mu anaa? |
+| Nnɔnkɔ mma... ansa na wɔapopɔw | **Ahyɛ**, ɛnteɛ, ɛnnwom | Wɔde nkukuo bɛn ara wɔ wo abusua mu anaa? |
+| Sika a wɔakora yɛ... | **Wɔanya**, ɛbɔ, ɛtɔ | Hena na ɔyɛe sikakora wɔ wo abusua mu? |
+| Fie yɛ... | Akyiri ɛyɛ, **koma ne**, ɔpon ne | Ɛdeɛn na ɛma baabi bi yɛ fie? |
+| Ɛsen sɛ wɔbɛba akyiri... | Ɛtɔ, **nkyɛ**, mpaebɔ | Hena na na ɔbɛkyɛ daa? |
+| Ɔdesie biara wɔ... | **Ɛbɛn ahoma**, kɔkɔɔ | Nsɛm a ɛyɛ hia kɛse ara ne ɔmansa |
+| Nneyɛe ka nsɛm kɛse sen... | **Nsɛm**, nnwom, ɔpɛ | Ka obi a ɔkaa saa asɛm ho asɛm |
 
-## Nsɛmmisa a mmuae a ɛteɛ nni hɔ
+## Yi anaa Yei nsɛmmisa a mmuae nni mu
 
-Eyi yɛ adwuma ma bere nyinaa, ne bere a atwam nso, efisɛ biribiara nni hɔ a wɔbɛkae yie. Bisa, tie, na ka wo ankasa mmuae nso.
+Saa nsɛmmisa yi yɛ bere nyinaa, ɛfiri sɛ mmuae biara nni mu. Bisa, tie, na ka wo ankasa mmuae nso.
 
 - Kɔfi anaa tii?
-- Mpɔtam anaa bepɔw?
-- Kraman anaa mpɔtɔɔ?
-- Osusow anaa ahuhude?
-- Pie anaa keeki?
-- Asaw anaa hwɛ?
-- Owia bɔ anaa owia kɔ?
-- Fie ano ɔpon anaa fie akyi?
-- Radio anaa nnwom krataa?
-- Panke anaa nkɔkɔ?
+- Ɛpo ho anaa bepɔw?
+- Nkraman anaa mmoaa?
+- Ɛbere anaa ɔpɛpɛ?
+- Ɛpie anaa keeki?
+- Anyanyɛ anaa hwɛ?
+- Owia sɛe anaa owia ɔfa?
+- Ɛpon ano anaa akyi fie?
+- Radio anaa records?
+- Pancakes anaa nkɔkɔɔ?
 - Roses anaa daisies?
-- Tren asetena anaa kwan asetena?
+- Tren akwantuo anaa kar akwantuo?
 
-Sɛ wopɛ nsɛm a ɛkɔ ho ne mfonini, hwɛ yɛn [Conversation cards](/games/conversation-cards/) a wobɛtumi de ayɛ.
+Sɛ wopɛ nsɛmhwɛ a ɛne mfonini ka ho, hwɛ yɛn printable [Conversation cards](/games/conversation-cards/).
 
-## Ɛdeɛn na wobɛyɛ nsɛmmisa adwuma wɔ aduruyɛ fie anaa wɔ kuw mu?
+## Ɛdeɛn na wobɛyɛ trivia wɔ ɔdan a wɔhwɛ nnipa mu anaa wɔ nnipa kuw mu?
 
-1. **Fa nnipa to baabi a wobɛhwɛ na wobɛte yie.** Ma wɔnyɛ wɔn tie nnwinnade, ma wɔnyɛ wɔn ahwɛfoɔ, na tow TV no so.
-2. **Ka sɛ ɛyɛ nkɔkɔbɔ.** "Mewɔ nsɛmmisa bi a ɛfa nna a atwam ho, na mesuro sɛ wunim sen me."
-3. **Kenkan nsɛm biara mprɛnsa, na kyerɛ mmuae no wɔ ɔfa kɛse so.**
-4. **Gye mmuae fi baabi biara a ɛwɔ dan no mu.** Ma nkɔsoɔ a ɛyɛ no nyinaa atie.
-5. **Ka mmuae no ma nnipa nyinaa.** Afei bisa nsɛm a wobɛka ho asɛm kɔ dan no mu.
-6. **Di akwantuo no so.** Sɛ nsɛm a ɛba mu no ma asɛm a ɛfata simma mmiɛnsa, ma ɛkɔ so.
-7. **Wie n'adwuma wɔ dwom anaa mmuae abien, na ɛma nnipa nyinaa awie wɔ nea ɛyɛ mmerɛ so.**
+1. **Fa nnipa so sɛnea wɔbɛhunu na wɔatie.** Tie nkwa, fa ahuhuw ano, na ma TV no nnhyɛ so.
+2. **Ka sɛ ɛyɛ nkɔmmɔ.** "Mewɔ nsɛmmisa a ɛfa bere a atwam ho, na mesuro sɛ wunim sen me."
+3. **Kenkan nsɛmmisa no mmienu na hwɛ mmuae no kɛse.**
+4. **Ma nnipa nyinaa mu ba ka mmuae.** San ka mmuae a ɛyɛ bio ma obiara ati.
+5. **Ka mmuae no ma obiara, afei bisa asɛm a ɛwɔ nsɛmmisa no mu ma kuw no.**
+6. **Di asɛm a ɛyɛ nkɔmmɔ no akyi.** Sɛ nsɛmmisa baako ma nkɔmmɔ bɛtɔ so nkaa simma du, ma ɛnkɔ so.
+7. **Fa dwoom anaa Yi anaa Yei abien na ɛba awiei,** na obiara nkɔ so nam nea ɛyɛ ɛmfa awiei.
 
-Sɛ wopɛ nkɔm a wɔbɛyɛ nkabom afoforo, a ɛka picture bingo ne nnwom a wɔbɛdwan bom, hwɛ [group activities for care homes](/activities/care-home-groups/).
+Sɛ wopɛ afahyɛ ahodwoɔ a ɛfa nnwom, bingo ho ne nnwom a wɔka bom, hwɛ [group activities for care homes](/activities/care-home-groups/).
 
-## Bere a ɛsɛ sɛ wosesa akwan
+## Ɛberɛ a ɛsɛ sɛ wosesa nhyehyɛe no
 
-Sɛ obi hwehwɛ sɛ ɔsuro, ɔyɛ komm, anaa ɔka sɛ "Mennim" ɛboro baako, ma ɛnyɛ den. Sesa kɔ mmuae abien, ka mmuae no bom, anaa sesa kɔ eyi anaa eyi nsɛmmisa. Sɛ kuw no pɛ sɛ ɛkasa ho asɛm ɛberɛ a ɛyɛ nsɛm baako nko ara akyiri yi, ɛyɛ nkɔsoɔ. Nea yɛpɛɛ no nnyɛ sɛ mmuae a ɛteɛ nkutoo, na ɛyɛ bere a wɔbɛfa wɔ anigyeɛ mu.
+Sɛ obi hwɛ sɛ ɔwɔ awerɛhyɛ, ɔyɛ ɔkorɔn, anaa ɔka "Merenim" nkyɛn mpɛn pii a, ma ɛnyɛ mmerɛ: fa mmuae mmienu ara, ka mmuae no bom, anaa sesa kɔ 'Yi anaa Yei' nsɛmmisa. Sɛ kuw no pɛ sɛ wɔka nsɛmmisa baako wɔ mmɔnsɛn nyinaa, ɛyɛ ɔkwan a ɛkɔ so. Ɛnyɛ mmuae a ɛyɛ pɛpɛɛpɛ na yɛpɛ, na ɛyɛ bere a wɔde di nnipa a wɔn ho yɛ anigye.

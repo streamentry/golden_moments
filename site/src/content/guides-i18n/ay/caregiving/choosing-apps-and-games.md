@@ -1,36 +1,37 @@
 ---
-title: "Dementia Uñtat Jaqinakatakix Apnaqañanaka Ajllisiña"
-seoTitle: "Dementia Apnaqañanaka Ajllisiña: Yatiyawi Lista"
-description: "Dementia apnaqañanaka ajllir yatiyawi: amtasa, uñtañ, jiwasan yänakapa ukat ñanqha lup'iñ uñjaña. Jan timer, jan puntos, jan anuncionas."
+title: "Dementia Aplicacionanak ukat Juegonak Ajllir Yatiyaña"
+seoTitle: "Dementia Aplicacionanak Ajllir Thakhi: Yatiyawi"
+description: "Uñjir jaqir yanapir jaqinakatak yatiyawi: amtäwim qalltaña, timer ukat anunsionak jan mantaña, privacidad uñjaña, ukat evidencia arunak jan sum amuyaña."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Qalltasa kunsa apnaqañ munta: wali lup'iñ, amtasiña, sarnaqaña jan ukax
-  jiwasan. Ukat jupa jan wali amtasiñ apnaqañ ajllisiña, jaqin uñtañapa
-  jichhürunakan, dibujonakampi jak'a, jan timer, puntos jan anuncionas,
-  ukat sapa mä amtasiña sipansa. Yatiyawi kawkhan datonaks apnaqi ukat
-  jupanakax jark'añ puedi ukax uñjaña. Dementia uñt'añ jan ukax jark'añ
-  yatiyaña sasa arsutanakat jan iyawsaña; mä yatiña jan chiqa uñacht'äwi.
+  Qalltañamataki, aplicacionax maynit lurañapa uñjam: juk'a jan wali sarnaqaña,
+  yatiñ amtañ, sosegarse ukat jaqinakampi sarnaqaña. Ukatxa jichhürun jaqin
+  kapasidadanakapar mantir ajllim, dibujonak juk'ampi, timer, puntaj jan
+  utjir, anunsionak jan utjir, ukat sayt'ayañ sencillo utjir. Ukax ukhamarak
+  datos kunanakas apthapiski uk uñjaña ukat ukanak jisk'achañ atinisa uk
+  uñjaña. Aplicación dementia jan utjañapataki arsuta arunakar jan sum
+  iyawsaña; yatiñ juk'a jan pruebaskiti.
 keyPoints:
-  - "Nayra amtasiñ: wali lup'iñ, amtasiña, sarnaqaña jan ukax jiwasan ukanakax apnaqañ juk'a ukanakampi ajllaña."
-  - "Jaqin uñtañapa jichhürunakan uñjaña, jan etapa sapa; kontrolanakax sanäkaspawa."
-  - "Timer, puntos, vidanaka, racha jan ukax anuncionas apnaqañanakat jaytañ."
-  - "Datonaka mantaña, akanakar yapuña ukat jark'aña uñjaña. HIPAA jaqinakan apnaqañanakat jan jarktaspa."
-  - "Ch'iqtañ \"dementia jark'i\" arsutanakat jan iyawsaña. Mä yatiña jan jukhu, jan ukax apnaqañan ch'iqa puntos, chiqapa ukhamäkaspa."
-  - "Golden Moments mä amtasiña sarnaqañ, jan yatiña uñacht'äwinakampi."
+  - "Mayjt'a amtañ qalltañamataki: juk'a jan wali sarnaqaña, yatiñ amtaña, sosegarse ukat jaqinakampi sarnaqaña mayjt'a aplicacionanakampi."
+  - "Uñt'ata uru jaqin kapasidadapar mantañ, etapa sutimpi jan; kontrolanakax sum sencillo utjañapa."
+  - "Timer, puntaj, vidanaka, racha, anunsio jan utjir aplicacionanak jan ajllim."
+  - "Datos apthapiña, jaqinakampi apsuña ukat jisk'achaña uñjam. HIPAA ukax sapa jaqi aplicacionanakar jan uñjatap jakaskiti."
+  - "\"Dementia jan utjañapataki\" arunakar jan sum iyawsañamawa. Juk'a pruebaxa jan chiqapakiti, aplicacionan puntajanakapax sum sarnaqañanakampi."
+  - "Golden Moments ukax juk'a amtañ yatiyaña; janiw qhanañ ukat yanapäwi janiw uñt'añ."
 faq:
-  - q: "¿Ukhamaraki yatiñ apnaqañanakaxa dementia jark'ayaspa?"
-    a: "Jan wali yatiyaña utjiti aka sarnaqañ yatiñ apnaqañanakax dementia jark'añ ukax juk'ampi uñtañ. Estados Unidos mä jiwasan instituto arsuwayi, jan utjkiti ukham ... yatiña apnaqañanakax mä amtasiñ yatiñ ukhamarjama. Jiwasan yatiyaña ukhamax apnaqañanakaxa uñjaña, jan ukax jark'añ yatiña."
-  - q: "¿HIPAA dementia apnaqañanakar uñjaspa?"
-    a: "Juk'ampi jan. HIPAA ukax yatiyawinak uñjirinakaru, uñjañ yänakaru ukat luririnakaru. Jaqi mismo apnaqañ jan ukax jan uñjaspa, janiw uñjirinakan jan ukax luririnakan apnaqañ ukat. Komisión Federal de Comercio (FTC) mä arsutanakampi jarkañ uñjaspa, HIPAA jan ukax."
-  - q: "¿Kunsa mä wali dementia yatiña apnaqaña?"
-    a: "Dibujonaka ukat qillqat jak'a ukat qhana, mä lup'iña sapa pantallan, jan timer jan puntos, jan ch'ika jan anuncio, ukat amtasiña ch'iqa ukhamarjama. Jaqinakatak lurat uñjaña ukat mä jaqimpi sarnaqaña ukat wali."
-  - q: "¿Golden Moments yanapaña sasa arsuspa?"
-    a: "Janiw. Golden Moments amtasiñ jiwasan lup'iñatakiwa, sarnaqañ ukat parlañatakiwa. Janiw uñt'añ, jan jarkañ, jan uñacht'ayañ, ukat jan yatiyañ dementiaru jan ukax amtañ sasa arsutanakaxa jan."
-  - q: "¿Dementia apnaqañ jaqinakatak phuqaña?"
-    a: "Qalltasa jan qhana apnaqañanakat jan ukax jan qhana pruebanakat sarnaqañ, ukat jaqi kunsa sarnaqi uñjaña mä ukat ... phisqa semana. Apnaqañat phuqañ wali jan yanapaspa. Suscribirtañ ukat ... kunjamas jayt'añ uñjaña."
+  - q: "¿Juegonakax dementia jan utjañapataki yanapasktati?"
+    a: "Janiw sum evidenciaxa utjkiti sapa juego aplicacionanakax dementia jan utjañapataki jan ukax jisk'achañapataki. Instituto Nacional de Envejecimiento (National Institute on Aging) sañ sañkiwa: aplicacionanakan sum yatichañ jan utjkiti, jupanakax jach'a pruebanakan yatiyatäkaspa ukhamarakiw. Amtañ ukat jukuña ukanak ajllim, janiw ajjsaña kunatixa."
+  - q: "¿Dementia aplicación HIPAA ukan utjaspati?"
+    a: "Janiw ukhamäkiti. HIPAA ukax yanapiri ukat salud kamachi jaqinakar uñjatapuniwa. Sapa jaqi mayninakan aplicacionax ukhamaraki jan uñjatänwa, jupanakax uñjatañapataki jan ukax yanapiri apsuñapata. FTC ukan Health Breach Notification Rule ukax salud aplicacion walja jan HIPAA ukan utjkir uñjaraki."
+  - q: "¿Kunas suma dementia juego?"
+    a: "Dibujonak ukat qillqanakax jach'a ukat sum uñjasiñapa; sapa pantallan sapa lurañ uñjasiñapa; timer janiw puntaj utjañapa; jan pantjasiñ sonido, jan anunsionak, ukat sayt'ayañ sencillo utjañapa. Jaqi maynix ukhamar sarnaqañ atinisaña, ukat ukax jaqi maynitakix yanapaña jan ch'amañ."
+  - q: "¿Golden Moments ukax amtäwi yanapaspati?"
+    a: "Janiw. Golden Moments ukax juk'a yatiñ amtañ ukat parlañ sarnaqañatakiwa. Janiw dementia uñt'añ, qhanañ, yanapañ jan ukax uñjañ atipkiti, janiw amtäwi ukat yatiñ arunak uñt'ayañ."
+  - q: "¿Dementia aplicacion qullqi churañ munaspati?"
+    a: "Qalltañamataki jan qullqi mayni ukat mayjt'a prueba ajllim, jaqi uñjata kunjamasa sarnaqañ uñjam pä semana ukhama. Qullqi churañax janiw sum luräñ ukat jan ukax sum yanapañ utjkiti. Wakichañ sañkipan kunjamasa wañchañ yatiyañ."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -61,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-Play Store ukat App Store ukanakan "jach'a utjirinakatak", "amtasiña" jan ukax "dementia" sasa lup'iñanaka mä phuqhata. Kunaymana wali lurat utjaraki. Ukampisa jupanakax ch'iqa arsutanakampi, timernakampi, anuncionampi jan ukax datonak apsuñampi. Aka uñachtäwix mä amtañ sarnaqañ uñjaña, jumax ukanak kunjamas uñjasma. Janiw masa apnaqañanak ukanak ajllkañ jan ukax lurañ.
+Aplicación tiendanakan dementia, memoria jan adultos juegonak qillqatänwa. Yaqhipanakax suma luräna, yaqhipanakax wali amuyumpi arunaka, timer ukat anunsionakampi, jan ukax datos apthapiñampi. Akax juma sapa aplicacion uñjañataki thakhi yatiyiwa. Janiw masinakan aplicacionanakar jan ukax uñjañ jan lurañ.
 
-## ¿Kunsa dementia apnaqañ ajllkañat sapa amtasma?
+## ¿Kunas qalltañ uñjañ dementia aplicacion ajllir?
 
-Amtasma kunsa apnaqañax lurañapa. "Mamäkitaki lup'iña" sasa arsutax kunjamas juk'ampi sañ utjaspa, ukat mä amtañatakix wali apnaqañax, yaqhapa amtañatakix jan wali.
+Qalltañamataki kunas aplicacionax luraña uñjam. "Mamaxatakix juego" sañax walja tuqinak amuyañ atinisa, ukat maynix mayni tuqitakix jan walikiti.
 
-| Amtañ | Kunjamas uñjasi | Kunsa uñjaña |
+| Amtañ | Kunjamas uñstani | Kuna uñjañ |
 | --- | --- | --- |
-| Ch'iqa lup'iña | Ch'iqtaña, ch'iyaña, ch'iqa rompecabezas, arsuñ lup'iñanaka | Dificultad jaytañ, dibujonaka uñjasiñ, jan timer |
-| Yatiñ jutañ | Ukhamarak jaqinakan jach'a uñtanaka, ch'iqa arsutanaka, jiwasan kantañanaka | Sapa jumanaka uñtanaka, arsuñ jawsiñ, jan prueba jawsañanaka |
-| Amtasiña | Jan usuñ ch'iqa uñjañanaka, ch'iqa arunaka, samkañ, phaxsi | Sarnaqañ ukat jaytañ ch'iqa, jan lliwi uñjañanaka, jan mä kunsa uñjaña |
-| Jiwasan | Sapa jupanakampi jan ukax video mä lup'iña | Mä jaqitakiw lurat, parlañatakix jawsa |
+| Juk'a yanapaña | Jak'aptaña, kunanakar uñt'ayaña, juk'a rompecabezas, arunaka juegos | Ch'iqtañ jan ch'amañ, dibujonak uñstañ, jan ch'amasiñ |
+| Uñtañ | Wayna tiempos fotos, sapa arunaka, mä tiempo uñt'ata melodia | Jupanakan fotonakapa, jaktä jiwasa arunaka, jan pregunta jan examen |
+| Sosiego | Jan ch'amañ uñstawi, jan k'arintaña sonido, saxra ukat qalltañ | Qalltaña ukat sayt'aña sencillo, jan lup'iña, jan sorpresa |
+| Mayacht'aña | Mayaniw juegaña jan ukax parlañ, kuna jan ukax video | Ukhamarak iwxa jan ukax, parlañ arunaka |
 
-Dementia taqi chiqana "cognitive stimulation" ukan yatiñanakax juk'ampi jaqinakan tantachawinakanwa, yatiqirinakampi, parlañampi, rompecabezanakampi, arsutanakampi, kantañampi ukat lurañanakampi. [Cochrane arunaka](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) uñachtayi, sapa yatiyawinakan jan juk'a wali, ukat mä phuqha uñjaña. Aka jiwasan, qhana sarnaqañ jan sapa apnaqañ ukhama, ukhamasa apnaqañ mä jiwasan lup'iñ ukhama uñjañ.
+Dementia uñt'ata jaqinakatak amtañ, "cognitive stimulation" sañkiwa, janiw aplikaciona. Akax walja kuti uñt'ata yatiyirinakan thakhinpi luraña: parlañ, arunaka juegos, rompecabezas, melodía ukat luraña. [Cochrane sañ qillqata](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) sañkiwa juk'a yanapaña utjatapa, jan wali chiqapa sapa qillqat. Ukax sapa aplicación ukat jaqi kapa, janiw mä mayacht'añ. Ukatwa aplicacion sapa mayacht'añ uñjam.
 
-## ¿Kunjamas uñjä apnaqañax jaqin ch'uqtañapa?
+## ¿Kunjamas uñjä aplicacion jaqi kapasidadanakapar mantasi?
 
-Diagnóstico jan ukax "etapa" sasa arsuñ ukat jan jaqsaraña, uñjaña kunjamas jupax jaytaski. Mä etapa jukhu jaqinakax uñjañ, uñjaña, jiwasan amtañ, arsuña ukat pantalla uñjañat ch'iqa jaytaspa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) arsuwayi, jupanakan nayra munañanak ukat jichhüru yatiñanak amtañ, ukat yatiñ jaytañ jan lurañ uñjañ.
+Jaqi uñjam kunjamasa sarnaqaski, janiw diagnóstico jan etapa sutinak uñjam. "Mayni etapa" jaqinakax ukax juk'a jan sum uñjasipxi, nayraqata, ch'iqa ukat parlañaru jan ukax pantalla jan sum amuyapxi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sañkiwa uñtañ nayra munañanakap ukat jichhürun kapasidadanakap, lurañat jan ukax jach'a amtañ jaqinakatak.
 
-Wali ch'uqtañ uñachtayi:
+Suma mantañ uñstani:
 
-- jupax jan ch'iqa sarnaqañ ukat mayjt'añ;
-- jupax sarañ, arsuñ jan ukax mä sañ parlañ;
-- jan pantjasiña sasa jakañ;
-- sarnaqañ jaytañ wali.
+- janiw wali mayt'añ qalltaski jan ukax mayachtaski;
+- sonriyaski, arsuski jan ukax mä yatiñ parlaski;
+- jan pantjasiñ jakasipxi;
+- jaytaña ukat jank'akiw sayt'asipxi uka pacha.
 
-Jan wali ch'uqtañ uñachtayi:
+Jan mantañ uñstani:
 
-- kunsa "janiw puedkti" jan ukax "aka jan wali" sasa arsuña;
-- kunsa aylluñ ukax jan yatiña;
-- jiwaña, jan ukax dispositivo jaytaña;
-- jumax taqi lurasma ukat jupax jan lurañ.
+- jan sumi "janiw atinkti" jan ukax "aka ch'ajwa" sasa;
+- kunatsa uñt'añ tocar sasa jan amuyaña;
+- jan kusisiña, jan jiñaña jan qhithisiña jan pantalla jaytaña;
+- mä kuti mayt'ata luraña.
 
-Jan jupax jan sum uñjaña ukax mä uñachtäwi, jan mayjt'añ. Uñjañanakax [jan munaspa sasa arsuñat](/caregiving/when-they-say-no/) yatiñ. Apnaqañat sapa jan ukax [ch'iqa](/activities/early-stage/) ukat [jichhüru](/activities/late-stage/) amtasiñanak uñjañ.
+Pena uñstañax mä seña, janiw ch'amañ. Uñjam [jaqi janiw sasa kuna lurañ](/caregiving/when-they-say-no/). Aplicacionanak mayaniw [etapa ukhamarak amtañanaka](/activities/early-stage/) ukat [qhipa etapa amtañanaka](/activities/late-stage/) uñjam.
 
-## ¿Kunsa lup'iña uñjaña jan ukax jan uñjaña?
+## ¿Kunas uñjañ ukat jan uñjañ diseño ukanakan?
 
-Ch'iqa, jak'a, jaqi uñjañ lup'iña uñjaña, ukat jan ch'iqa mä ch'iqa lurañanaka jaytaña.
+Uñjam sum, juk'a, jach'a jaqinakatak diseño, ukat jan presión utjaña jan.
 
-| Uñjaña | Jark'aña |
+| Uñjañ | Jan uñjañ |
 | --- | --- |
-| Dibujo ukat qillqa jak'a, wali sut'a | Ch'iqa uñjañanaka, jak'a sut'a |
-| Mä sapa lurañ mä pantallan | Lliwi botonanaka, menunaka jan ukax yaqha lurañanaka |
-| Timer jan, jan ukax timer jaytañ | Jaytañ kunka uñjañanaka, "ch'iqtayañ ukat" |
-| Puntos jan, jan ukax ch'iqa arsutanaka | Puntos, vidanaka, racha, uñjañ chiqana, "jan yatiña uñjaña" |
-| Jan wali lurañanaka ch'iqa | Chinupanakampi, qhanunakampi, jan ukax "jan kunsa" |
-| Jaqi uñjañanaka, jan ukax jan mayjt'añ | Wawanakan yatiñanaka, jan ukax jan jaqi sarnaqañ |
-| Jan qhana sarnaqañ, mä sapa jan ukax mä apnaqañ | Mä jaqin yatiyaña, jan ukax chiqañ qhana jaytañ |
-| Sarnaqañ ukat jaytañ wali | Jaytañ ch'iqa, jan jaqi uñjañanaka |
-| Jan anuncio, mä sapa jan ukax ch'iqa jaytañ | Anuncionaka, lurat yatiñanaka, jan utjaña |
-| Mä yaqha jaqi uñjañ wali | Mä sapa jan ukax jaqinakampi yatiña |
+| Dibujo ukat qillqa jach'a, sum uñstaña | Juk'a ícono, ch'iqa pantalla |
+| Mä pantallan mä lurañ | Walja botón, menú jan ukax walja lurañ |
+| Janiw timer, jan ukax timer jan ch'amañ | Cuenta regresiva, bonus rapidez, "tiempo ukan uñt'ata" |
+| Janiw puntaj, jan ukax sum yatiyaña | Puntaj, vidas, rachas, ranking, "brain age" |
+| Jan pantjasiñ chimpu | Zumbador, X sañ, "Wrong" sasa |
+| Jaqi chiqa uñstañanaka | Wawaxar, juguetón tema |
+| Jan internet jaqi, cuenta mayjt'añ jan | Registrarse, log in jan ukax descargar sañ |
+| Sayt'aña ukat jaytaña sencillo | Pantalla jaytaña jan, calificar sañ |
+| Jan anunsio, mä kuti qullqi jan ukax suscripción | Anunsio, loot box, walja compra sañ |
+| Mä jaqi mayni jak'a jan sum | Mä jaqi jan mayni, competencia |
 
-Anuncionaka ukat ch'iqa jaytañanaka mä pachan jan ukax jan uñjaña yapuñ.
+Anunsio ukat compra sañ ukanakax jan amuyasa mayt'asiñataki.
 
-## ¿Kunjamas apnaqañ jark'aña uñjaña?
+## ¿Kunjamas aplicacion privacidad uñjaña?
 
-Apnaqañ kunsa uñjasi, kunsa jakhuñaraki ukat jaytañ jan uñjaña. Instalañ sapa nayra:
+Uñjam kuna datos apthapi, kawkirunakamp apsu, ukat jisk'achañ atinisa uk. Instalaña sapa ukat:
 
-1. **Tiendan jark'añ uñjañ.** Google Play ukan [Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ukat App Store ukan [privacy information](https://support.apple.com/en-us/102399) ukanakax apnaqañ datonak uñacht'ayi. Ambos ukanakax luririnakan mismo qillqatapa, ukhamaraki mä qalltañ, jan mä uñjañ.
-2. **Cuenta munaspa uñjaña.** Mä apnaqañ jan ukax lup'iña ch'iqa uñacht'ayi ukhaxa, jumax jan sutimp, jan correo jan ukax cumpleaños yatiñamäkaspa.
-3. **Permisos uñjaña.** Mä ch'iqtaña lup'iña wali ukax ubicación, contactos, micrófono jan ukax taqi photo ukanakamp mayjt'añ? Janiw munañ ukanak jaytañ.
-4. **Anuncios ukat seguimiento uñjaña.** Anuncionakampi ukat seguimiento yatiñanakax apnaqañan datonak yaqha empresanakar apsuñ.
-5. **Fotonak kawkiru sarañ uñjaña.** Familiar fotonak yapuñ, ¿qhana jaytasiñ jan ukax servidorar apsuñ? ¿Jupanakax jaytañ?
-6. **Jaytañ uñjaña.** Privacidad qillqat ukan jan ukax datos resumen ukan kunjamas jaytañ uñjaña. Mä apnaqañ jan jaytañ sasa arsuñ, ukax juk'ampi uñjañ, khä fotonak jan ukax yatiñ wali.
-7. **Privacidad qillqat wali uñjaña**, kunsa apsuñ, kunatak, kunka urunakan, ukat kawkiru apsuñ sasa jaqi arsutanaka.
+1. **Tienda sañ privacidad qillqat lla.** Google Play [Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ukat App Store [privacy information](https://support.apple.com/en-us/102399) sañ qillqanakax datos sañkama apthapi ukat apsu. Ukanakax luririnakan qillqatapawa, ukatwa qalltañ, janiw sum uñjañ.
+2. **Cuenta munasa jan uñjam.** Aplicacion dibujo jan ukax juego sencillo uñstañanakax, sutimam, correom jan ukax cumpleaños yatiñ jan wali.
+3. **Permisos uñjam.** Matching juego ukax ubicación, contactos, micrófono jan ukax walja fotos munañapati? Janiw munañapat ukanak jist'am.
+4. **Anunsio ukat análisis uñjam.** Anunsio ukat seguimiento uñjirinakax aplicacion lurañ ukat jaqi kunjamas ocupa uk kawkirunakar apsuchi.
+5. **Fotonakax kawkir sarañ uñjam.** Familiar fotonak churasa, máquina ukan jan ukax servidor ukan utjaspati? Mä kuti jist'añ atinisa?
+6. **Jist'añ uñjam.** Privacidad qillqat jan ukax datos qillqat ukan, datos ukat cuenta kunjamasa jist'añ uñjam. Jist'añ janiw atinisa sasa aplicacion, uka ukax jach'a uñjañ, khitinakax foto jan ukax salud yatiñanak apsuchi ukanakax.
+7. **Privacidad qillqat lla** kuna apthapi, kunatak, kunapacha utjaña, ukat khitinakar apsu sasa qhanañ arunakampi.
 
-### ¿HIPAA dementia apnaqañanakan yatiñ amparaspa?
+### ¿HIPAA dementia aplicacionanak uñjaspati?
 
-Juk'ampi jan, ukax nayra jan uñjasiñ. Estados Unidos Salud Pública Departamento [arsuwayi](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA ukax seguros de salud, uñjañ yatiyawinakan, ukat luririnakan apnaqañaparu. Juk'ampi jaqi mismo apnaqañatak, apnaqañ jan ukax uñjirinakan jan ukax luririnakan mä apnaqañ jan utjkipana. Tiendat mä "dementia apnaqañ" jan HIPAA ukan, ukat salud sasa arsuñ sapa.
+Janiw ukhamäkiti, ukax walja jaqinakar jan sum uñt'ata. Estados Unidos Departamento de Salud y Servicios Humanos ([HHS](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html)) sañkiwa HIPAA ukax salud seguro, yanapiri ukat sapa salud yanapirinakar uñjatapa. Walja kutiw sapa jaqi aplicacionan yatiñanak jan uñjatänwa, jupanakax jan mayni ukat jan yanapiri uñjatap jan ukax. Tienda ukan dementia aplicacion salud sañ uñt'ata ukhamarakiw HIPAA jan uñjatänwa.
 
-### ¿Kunsa yatiña amparaspa apnaqañanakan HIPAA jan utjaraki?
+### ¿Kunas uñjañ salud datos HIPAA jan uñjañ aplicacionanakan?
 
-Comisión Federal de Comercio (FTC) ukan Health Breach Notification Rule ukax juk'anakar amparaspa. 2024 maranxa FTC [mayjt'ayañ](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) uñachtayi, aka regla HIPAA jan utjaraki apnaqañanakar ukat yaqha tecnologíanakar. "Breach" ukax jan permiso ukat jaqinakan yatiñ apsuñ, janiw hackeo sapa. Luririnakax jaqinakar ukat FTC yatiyañapa. Aka wali jan kunsa pasaña ukat, janiw apnaqañax sapa ukhamaraki yatiña apsuñ sasa arsuñ.
+Federal Trade Commission ukan Health Breach Notification Rule ukax walja ukanak uñjaraki. 2024 maranxa FTC [chimpu churäna](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule), ukax salud aplicacionanak HIPAA jan uñjatanakar uñjaraki sasa. "Breach" sañax jan irpañ apsuñanakampi, jan hackeo sañkiti, ukat luririnakax jaqinakar ukat FTC yatiyañapa. Ukax juk'a jiwasaruw mä pachan jan wali jutasaxa, janiw sapa datos jist'añ sañ luraña.
 
-## ¿Kunjamas arsutanaka yatiñ ukat jan chiqa uñjaña?
+## ¿Kunjamas investigación ukat evidencia arunak uñjaña?
 
-Yatiyawi arsutanak sum uñjaña, ukat juk'ampi jach'a arsutanak iyawsañ jan. Jichhürunak jiwasan:
+Evidencia arunak sum uñjam, ukat jach'a arunaka jan iyawsañamawa. Kunanakas amuyañama:
 
-- **¿Kunsa uñjatawa?** Mä yatiñ programa uñjaña ukax taqi apnaqañ ukhama lurañ janiw uñacht'ayi.
-- **¿Kunaka uñjatawa?** Walja jaqi qhana uñjañanakax jan jaqinakan dementia uñjaña ukhamäkaspa.
-- **¿Kunsa uñjatawa?** Apnaqañan wali lurañ sapa sarnaqañ ukat ch'iqa jakañan ukax jan.
-- **¿Kunjamas chiqa yatiña?** Mä randomizado control yatiña (RCT) apnaqañ uñjaña ukat jan apnaqañ mä jaqinakan. Wali, ukampisa mä jan jukhu jan ukax mä ch'iqa yatiña jan chiqa. Walja yatiñanak uñjaña, independiente yatiqirinakan, ukat ukanakax ch'uqtasiñ.
-- **¿Dementia phasiñ sasa arsutaspa?** Mä ch'iqa yatiña uñjañ mä ch'iqa uñjañanakax janiw apnaqañ dementia jan ukax amtañ.
+- **¿Kunas uñjatänwa?** Mä amtäwi juego uñjaña janiw sapa juego ukhama sarnaqañ uñjkiti.
+- **¿Khitinakas uñjatänwa?** Walja jaqinakan yatiyañ jan wali jaqinakar jan sum uñjatap jan ukax dementia uñjatap.
+- **¿Kunas uñjatänwa?** Juego ukan sum sarnaqaña jan ukax jiwasan uñjiwipa, janiw uñjatap jaqi sarnaqaña.
+- **¿Kunjamas chiqapa?** Randomized controlled trial (RCT) ukax aplicación ukan jaqinakar mä grupo, ukat janiw uñjatäñapa mä grupo sapa ukar uñjaraki. Ukax sum diseño, ukampis mä juk'a jan ukax mä chiqapa pruebaxa janiw chiqa. Walja investigación, jiwasa mayni investigadores, jaqi uñjaña ukat chiqapa qhanañ mayni ukanakax.
+- **¿Enfermedad sarnaqañ ch'amanchañ sasa?** Juk'a sum prueba uñstañax janiw dementia jan ukax alzheimer aplicacionaw jist'añ jan ukax yanapaña sasa.
 
-Nacional Instituto de Envejecimiento ukan [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) qillqat mä juk'a NIH yatiña uñacht'ayi, ukat jan sapa computadora jan ukax internet jugonakan amtañ arsuñat jan iyawsaña. Jupax uñachtayi jan utjkiti yatiyawinakan ukhamarak apnaqañ yatiña ukax taqi yatiñ ukhamäkaspa. Jumax jiwasan uñjaña [brain games ukat yatiñanaka](/brain-health/brain-games/) ukat [dementia jan phuqaña](/brain-health/can-dementia-be-prevented/) qillqatanakan.
+National Institute on Aging ukan [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) qillqatanxa, NIH ukat yanapata jach'a uñjañ structured cognitive training ukat qhanañ wali cuidado sasa. Ukat jan iyawsaña sasa computadora jan ukax internet juegonak memoria jan ukax amuyu sum luraña. Janiw walja evidencia utjkiti, sapa aplicacion ukat uka uñjañ ukhamaraki. Yatiñanakasa uñjañataki [juegos ukat evidencia](/brain-health/brain-games/) ukat [dementia jan utjañapataki yatiyaña](/brain-health/can-dementia-be-prevented/) qillqat uñjam.
 
-### ¿Kunsa jan chiqa arsuñ mä uñacht'äwi?
+### ¿Kunas jan chiqa arunak uñjatap ejemplo?
 
-2016 maranxa januaryn, FTC [amuyt'ayaña](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity, "brain training" sasa programa luririnakamp. FTC arsuwayi, empresax jan walja yatiñampi arsuwayañ ukax jupanakan jukhunakax jan amtañ sasa, dementia ukat Alzheimer jan phuqañ sasa. Empresax $2 millones yapuñ uñjatapuni ukat yatiñ wali ukat chiqa uñjañ mayni arsutanakatakix. Aka yatiña uñachtayi, anuncio arunak janiw yatiña.
+2016 maranxa januarymi FTC mä [chimpu churäna](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity, "brain training" programa luririnakampi. FTC sañkiwa kompañía sañ jan sum evidencia ukampi juegonakax amuyu tuqinak jark'ayañ ukat dementia jan ukax Alzheimer jan utjañ sasa. Kompañía 2 millones de dólares yänakapa ukat sapa aplicacion chiqapa jan ukax yatiñ wali evidencia munaña. Ukax yatiyañawa: marketing arunakax janiw evidencia.
 
-### ¿Kunsa arunakax jan wali uñjaña?
+### ¿Kuna arunaka jan sum uñjañ?
 
-Jan iyawsaña app jan ukax anuncio arsuñ:
+Jan iyawsaña aplicacion jan ukax anunsio sasa:
 
-- "phuqaña," "ch'allañ," "sayt'ayaña" jan ukax "ch'iqtayaña" dementia jan ukax Alzheimer sasa;
-- "clínicamente probado" sasa, yatiña, jaqinakan, ukat kunsa uñjatap jan arsuñ;
-- "brain age" jan ukax yatiyaña puntos, diagnóstico sasa;
-- "ch'iqtayaña," "jach'ayaña" jan ukax "yatichaña" uñjaña sasa;
-- jaqinakan arsutanakampi chiqa uñacht'ayaña.
+- "jan utjañapataki," "kutt'ayañ," "jan utjañ" jan ukax "chilliyañ" dementia jan ukax Alzheimer;
+- "clínicamente comprobado" sasa, jan yatiñ sutinak, jan yatiñ jaqinakax, jan yatiñ uñjatapa;
+- "brain age" jan ukax memoria puntaj, diagnóstico sasa;
+- "sharpen," "boost" jan ukax "train" sasa amuyu;
+- testimonio ukanak chiqapa sasa.
 
-Jumax jan yatiñ jan ukax, jaqin doctorapar jist'añ.
+Mä arunaka uñjañ jan yatiñ sapa jaqi doctor ukar jisk'achañ.
 
-## ¿Kawkitix Golden Moments utjaspa?
+## ¿Kunjamas Golden Moments ukax utjaspa?
 
-Golden Moments amtasiña ch'iqa jiwasan lup'iñanakawa, janiw mä uñt'añ, terapia jan ukax yatiña amtañ. Ch'iqa lup'iñanakasa, [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ukat [Calm Breathing](/games/calm-breathing/), amtasiñ ukat parlañatakiwa. Janiw dementia uñt'añ, jan phuqañ, jan uñacht'ayañ, ukat janiw memoria jan ukax yatiña chiqa arsutanakax.
+Golden Moments ukax juk'a mayacht'añ amtañanakawa, janiw memoria examen, terapia jan ukax yatiñ yanapaña. Juegonakasa, [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ukat [Calm Breathing](/games/calm-breathing/), kusisiña ukat parlañ ukatakiwa. Janiw dementia uñt'añ, qhanañ, yanapañ jan ukax uñjañ, janiw memoria jan ukax amuyu arunaka qhanañ.
 
-Jiwasan mä jan qhana app ukhamarak lurañ, [Golden Moments iPhone, iPad ukat Android](/app/) sasa. Ukax ch'iqa dibujonakampi lup'iña, familiar fotonakampi lupiña, ukat yapuqa jan internet lup'iñanaka, jan cuenta, jan anuncio, jan timer, jan puntos. Ukhamarak chiqa uñjañ: App Store ukan privacidad rótulo "Data Not Collected" sasa, ukat [app privacy policy](/app-privacy/) uñacht'ayi fotonak kawkiru jaytasi.
+Ukhamarak jupanakax jan qullqi aplicacion [Golden Moments iPhone, iPad ukat Android](/app/) sasa. Ukax suma juk'a dibujonak matching, jaqi ajllir familia fotonakampi juegonak ukat paquetes offline ukanakampi. Janiw cuenta, anunsio, timer jan puntaj utjaraki. Kuna uñjañ ukax akawa: App Store privacy ukan "Data Not Collected" sañ utjaraki, ukat [app privacy policy](/app-privacy/) qillqat foto copia kawkir imasa uñt'ayaraki.
 
-Jumax jiwasan jan iyawsañ munasmi, jan mä jiwasan jak'a. Aka qillqat uñjaña, [privacy page](/privacy/) ukat [medical disclaimer](/medical-disclaimer/) uñjaña, ukat kunatix jan wali uñjasmasa, jiwasan sapa jan ukax yaqha, jumax jan mayjt'añ.
+Jiwasax juma confiar mayni juk'a uñjañ jan. Aka qillqat uñjam, [privacidad qillqat](/privacy/) ukat [medical disclaimer](/medical-disclaimer/) lla, ukat sapa aplicacion jan ukax Golden Moments jan wali uñjatap jist'añ, jan mayni ukat jaqi uñjasipkäta ukar.
 
-## ¿Kunjamas mä apnaqañ jan wali uñjaña?
+## ¿Kunjamas mä aplicacion mayni uñjañ sum?
 
-Mä semana jan ukax phisqa semana jumampi uñjaña, ukat kunsa jitaski uñjaña.
+Mä pä semana mayacht'asa uñjam kunjamasa sarnaqaski.
 
-1. **Nayra lurañ**, [tablet ukat teléfono yanapañ](/caregiving/tablets-and-screens/) uñjaña, ukat ch'iqa nivel qalltaña.
-2. **Ch'iqa sarnaqañ**, sum jak'a, parlañ ukat amtasiña uñjaña, ukat wali pachanakan tukuña.
-3. **Jaytañ ukat mayjt'añ**, jan jukhu jan ukax qalltaña ch'iqa jaytañ, kunaymana wali uñjasiñ jan ukax.
+1. **Qalltañ luram** [tablet ukat teléfono yanapaña](/caregiving/tablets-and-screens/) ukat jak'achasa, mä juk'a nivel qalltam.
+2. **Juk'a sesiones luram,** kusisiña, parlañ ukat sayt'aña uñjam, ukat suma pacha tukuyam.
+3. **Jan wali jaytaña utjaspa jan ukax jist'aña,** jach'a calificación utjasa ukhamarakiw.

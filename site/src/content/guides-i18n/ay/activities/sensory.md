@@ -1,33 +1,32 @@
 ---
-title: "Sentidonakampi lurañanaka demencia jaqinakatak"
-seoTitle: "Demencia sentidonakan lurañanaka: Ideanaka ukat seguridad"
-description: "Demencia jan walt'ayañan jaqinakatak sentidonakampi lurañanaka: llawinak masaje, awayu ch'uñunaka, qalanak ukat jach'a uraqpacha suyt'añanaka, ukat seguridad uñachtʼäwinaka."
+title: "Demencia jaqinakatak sentidonaka lup'iwinaka"
+seoTitle: "Demencia sentidonaka lup'iwinaka: Ideas ukat Seguridad"
+description: "Demencia jaqinakan sentidonaka lup'iwinaka, akham sañasa: amparan ch'iyar masaje, ist'asiñ qarpa, quqa ukat jakañ jaqhi sarañ, nayrankipan seguridad amuyunaka jan wali uñjatanakat."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sentidonakan lurañanakax llawin, sapa, lunthatañ, suyt'añ ukat uñjañamp
-  lurapxi: mä jisk'a llawin masaje, mä awayu ch'uñunaka, qalanaka lunthatañatak,
-  uraqpacha suyt'añanaka, jan ukax jach'a kallpa ukan pajaranakaru uñjaña. Taqi
-  etapanakan walikiwa, ukat qhipa pacha juk'amp wali. Nayrar uñjañamawa
-  jisk'achañ, alergiyanaka, arunaka ukat ch'iqi usunaka, ukat mä mä lurañ
-  sapxañamawa; jaqi jan sum sasa ukhax sayt'añamawa.
+  Sentidonaka lup'iwinakax pusi sentido ocupañawa: amparan ch'iyar masaje, ch'uyu
+  qarpa, ch'uxña quqa, ist'asiñ uraqi ukat ventana uñjañ, pajaro uñjañ. Jupanakax
+  sapa jaqhi sarañan ukat qhipa urunakan wali askiwa. Nayrar uñjasim peligronaka
+  ukat jan walinak uñjasim, uk ukhamarak lup'iwinakan ist'añ jan walinaka, ukat
+  sapa mayjt'ayaña, jupax jan ch'amañchasiñ uñjataspa ukhaxa, sayt'asim.
 keyPoints:
-  - "Sentidonakan lurañanakax janiw chiqapar jawabnaka munapkiti, ukatwa taqi etapanakan, sapa samarañan jan ukax silla patxan lurañ walikiwa."
-  - "Mä sentido sapa kuti, mä isi jisk'a uta ukan lurañamawa; llawinak uñjañat yatiyañamawa jan ukax jiskt'añat sañamawa."
-  - "Jisk'a jaqhañanaka ukat manq'añjam uñtataki jan ukax jaqhañ ch'iqi uñtatanaka jan jaytañamawa, jaqinakax lunthatañ uñjasipxi."
-  - "Crema, jaqhañ ukat ch'uñu jan lurañat sapxañamawa jaqinakax alergiyanaka, ch'iqi usunaka ukat ajayu jan lurañanaka uñjañapataki."
-  - "Aromaterapia demencia usunakar yanapt'istaspa sañ janiw chiqapar yatiqañaw utjkiti; ch'uñu jan sum yanapt'añ sapxañ ukax sumap jiwasan uñtañatakiw, ukhamarak janiw wakisiñkiti."
+  - "Sentidonaka lup'iwinakax janiw jan wali chimpunakax wali munañanakax, ukhamasti sapa etapan irnaqañ, ukapachaw walja ch'uxña utanakan ukat silla ukan."
+  - "Pä ch'iyar sentido mayjt'ayaña sapa kutin, qhiti laka uta ukan, ukat jupar uñtasiña jan ukax ist'ayaña sapa kuti."
+  - "Jan jach'a aruskipäwinak ukat ukax jan manq'a uñtasiñ sapa jaqhi, sapa janiw manq'aqa jan ukax janiw ukhamäkiti ukanakax apthapiñ."
+  - "Jan alergia, aka qhuñu ukat jakañ ch'ampinakat uñjasim, loción, perfume jan ukax manq'anak irnaqañ nayraqata."
+  - "Janiw amuyumpi jan wali uñjatanakat aromaterapia demencia manq'añ jan walinakat yanapt'istu sañ uñjasiñ; uñjatanakax sapa kutin, jan ukax janiw, uñtasiña ukhamaraki jakañ utanakat."
 faq:
-  - q: "¿Kuna sentidonakan lurañanakas walikiwa demencia jaqitakix?"
-    a: "Ch'iqi ideanakax: mä jisk'a llawin masaje cremampi, awayu q'añu apthapiña, menta jan ukax kafe ch'uñu, jaqhañ uñtañ, ajayu uñtañ ukat uraqpacha suyt'añanaka, pájaros jan ukax peces uñjaña, ukat wali munat manq'añ jisk'a khuchhi lup'iñampi. Mä sapa samarañan lurañamawa, ukat jaqi kunjamas sarnaqaski uñjañamawa."
-  - q: "¿Sentidonakan lurañanakax seguro wali sarnaqirinakatakix, jupanakax lunthatañ lunthatañ jaqhapxchi?"
-    a: "Walikiwa, nayrar uñjañampi. Janiw jaqhañ ukanakaru jan ukax ch'iqi ukanakaru jaytañamawa, sapa jaqhañ ukat ch'ukiñ ukanakat jisk'achañamawa, ukat crema, jabun ukat ch'uñu sanakanaka ukakiw jaytañamawa, ukanakax manq'añ ukhamar uñjasipxi. Jaqimp taqi kuti sarañamawa."
-  - q: "¿Aromaterapia demencia usunakar yanapt'istaspa?"
-    a: "Mä Cochrane uñakipäwix janiw chiqapar yatiqañanakaw utjkiti, jan ukax yanapt'añ sapxañ ukax jisk'a yatiqañanakampi, jan chiqapar uñjatäpxi. Jaqix mä jisk'a, jaqinakan wali yatiñ ch'uñu munasaxa, walikiw, ukampis q'ara ajayu janiw jaytañamawa, khuchhi jan ukax alergia usunakan."
-  - q: "¿Kunas fidget ukat jan ukax actividad apron ukax?"
-    a: "Awayu, apron jan ukax khuchhi frazada ukhamawa, uñtatanakampi lurat, sut'a jaqhañanaka, cierres, cintanaka ukat nasipar kallp'anaka sewn sasaw. Llawinakax uñjañ utjañ ukat sarnaqañ chuymaniwa. Sapa kuti uñjañamawa, jan ukax mä apaqañ uñtatanakax ajayuntañ."
+  - q: "¿Kunas wali sentido lup'iwinakax demencia jaqitakanaka?"
+    a: "Sasa ideas: loción ukat amparan ch'iyar masaje, ch'uyu qarpanakar tocht'asiña, aka t'ula ukat qhunch'u uñjasiña, ist'asiña jaya ukat uraqi ist'asiña, pajaronakar uñjasiña jan ukax peces jaqhi, ukat wali munat manq'a sapa jaqhi asp'iri. Sapa kuti mayjt'ayaña ukat jupar uñjasiña kunas uñtasisa."
+  - q: "¿Jan ch'uxña qawqha walinakat sentido lup'iwinakax seguro akapachatakax jupanakax yaqha qarpanakar manq'añ?"
+    a: "Walik ukax wali ukhamäkaspa, cuidado ukat sapa uñjañ. Jan ch'uxña, mä kutin manq'aña janiw ukhamäkiti aruskipäwanakar apaqañ, jan k'arisiña ukat ch'uxña jan ukax qhiti ukhaxa jan manq'añ, loción, jabón ukat perfume uñjatanakax qhipat jupanakax uñjasiñ manq'añapataki, jupanakax manq'a ukhamaraki uñjasiñ. Sapa jaqhi uñjat sayt'aña."
+  - q: "¿Aromaterapia demencia manq'añapataki yanapt'istasa?"
+    a: "Mä Cochrane amuyu uñjañan sapa jaqhi janiw aromaterapia demencia jaqinakatak yanapt'istu sañ amuyunaka uñjatax jan ukhamäkaspa, janiw wali yatiñ jan ukax ukax jan wali wali ukax jan uñjasiñapäkiti. Jaqhi munat jaya ukax yanapt'asiñ, ukax walikiwa, ukampis jan wali ch'amani aceites esenciales jan ukax jan wali sipansa, sapa juch'ampi uñjatanakax jakañ jaqhi ukat alergia."
+  - q: "¿Kunas delantal de actividad jan ukax manta de actividad?"
+    a: "Mä aqsu, delantal jan ukax manta jaqhi pampa uñjasiñ uñtatanaka, jupanakan jach'a botones, cierres, cintas ukat parches uñjatanakaw ch'iyar lliq'ichata. Ukax jaqhi maqanakat sayt'asiñ jan ukax ch'uyu uñtasiñ. Sapa mayjt'ayaña uñjasim jan ukax t'aqisiñ jan ukhamäkaspa."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -52,83 +51,83 @@ related: [activities/late-stage, activities/music, activities/outdoor-and-garden
 health: false
 ---
 
-Sentidonakan lurañanakax pusi sentidonakampi lurapxi: llokʼampi, ch'iqipampi, manq'apampi, suyt'apampi ukat uñjapampi. Janiw amuyu munañ, janiw mayjt'añanaka, janiw chiqapar jawabnaka munapkiti, ukatwa taqi etapanakan lurasiñ utjaraki. Qhipa pachan juk'amp wali. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) sapxi: qhipa etapanxa jaqix pacha sentidonakampiw uñjaski, ukat llokʼampi, suyt'apampi, uñjapampi, manq'apampi ukat ch'iqipampiw wali munasiñ uñacht'ayasma. Mä qawqha seguridad uñachtʼäwinaka lurañ taqinian sum sarnaqañ ukanakar sum sarañ.
+Sentidonaka lup'iwinakax pusi sentido ocupaniw: tocht'asiña, ulxaña, lunthatasiña, ist'asiña ukat uñjasiña. Janiw amtañ, janiw thaqhañ, janiw jan wali yatiñ aruskipäwanaka ukax wali munañanakax, ukhamasti sapa etapan irnaqañ. Qhipa urunakan wali askiwa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) amuyuwa: qhipa etapan jaqix sentidonakampiw aka pacha uñjaski, ukat tocht'asiñampi, ist'asiñampi, uñjasiñampi, lunthatasiñampi ukat ulxasiñampi wali munañ uñjasiñ ukax utjaspa. Mä qawqha seguridad uñjañanakax lup'iwinaka sapa jaqhi ukax sayt'asiñ.
 
-## ¿Kunas sentidonakan lurañanakax demencia tuqi?
+## ¿Kunas sentidonaka lup'iwinakax demencia ukax?
 
-Sentidonakan lurañanakax jisk'a uñjañanakawa, sapa mä sentido tuqi, sañ awayu llokʼaña, menta ch'iqiña jan ukax jallu uraqpacha suyt'aña. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) sapxi qhipa etapan lurañanakax sentidonakar yanapt'añapataki wali, ukhamarak musica, llokʼañ ukat llawin masaje lurañanakaw amuyasi. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) sapxi qhipa etapan jaqinakax wali ch'uxña jan ukax ajayu jaytañ munapxi, mä ch'uxña uñtat ajayu ukat sarnaqañ munañanaka.
+Sentidonaka lup'iwinakax mä sentido sapa mayjt'ayaña uñjasiñ aruskipäwanakawa, akham sañasa: qarpa tocht'asiña, qhunch'u uñjasiña jan ukax jaya ist'asiña. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) amuyuwa qhipa etapan lup'iwinakax sentidonakar jawq'jaña, ukat walja: ist'asiña, tocht'asiña, ukat amparan ch'iyar masaje ukanakaw utjaspa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) amuyuwa qhipa etapan jaqinakax wali munaña utjaspa, ukat mä uñtat q'uma ukanak anu sarañ ukat jaqhi sayt'asiñ.
 
-## Sentido sapa sentidon ideanaka
+## Sentido sapa sentido ideas
 
-### Llokʼaña
+### Tocht'asiña
 
-- **Llawin masaje.** Llawinakam jisk'a cremampi jaqhañama, ukat ch'uxña ch'iqinakaman jallu jallumpi, muñuñ ukat ch'iqinakat t'aqäwi kamaka. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) sapxi, ch'uñu jan lurat cremampi masaje lurañan ch'uxña sañ.
-- **Awayu canasta.** Jach'a terciopelo, corduroy, fleece, satén ukat lana awayu ch'uñunaka llokʼañ, pawañ ukat parlañatak.
-- **Ch'iqi q'añu tamasu.** Ch'uxña, junt'u q'añu tamasu, llawinakan sapa kuti, jallu ch'iqi uñtatas jisk'a ch'iqinaka. Nayra ch'iqimpi, ñuqaman muñuñaman amuyam.
-- **Awayu jan jaytañ jan ukax frazada apron.** Jach'a sut'a jaqhañanaka, cierres, cintas ukat nasipar uñtatanaka, sewn sasaw.
-- **Pawañ ukat ch'uyt'añ.** Q'añu, jan ukax servilletanaka ch'uxña canasta, pawañ, apthapiña ukat jaytañ.
-- **Lunthataña awayu.** Fleece manta, cojín jan ukax chiqapar uywa awayu, sapa uñtatatak, janiw jugueteñ.
+- **Amparan ch'iyar masaje.** Mä chiqa loción sapa amparan ch'iyar apt'asim, ukat muñi sapa jaq'uw amparan jach'a k'ulunakaru. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) amuyuwa aroma janiw utjaski loción ukanak jakañ ch'ampinakat, sayt'añ tuqi.
+- **Qarpa uñtaña.** Aqsu, ch'uyu qarpanaka: terciopelo, corduroy, fleece, satín ukat lana, tocht'asiña, paqallq'uña ukat parlasiña.
+- **Ch'uxña manta jan ch'ukiñ.** Mä ch'uxña, ch'iyar ch'uyu manta amparan ch'iyar khitinaka, jaqi ch'uxña uraqi. Mayjt'ayaña nayraqata sapa wiluma muñi uñjasiñ.
+- **Delantal jan ukax manta.** Jach'a botones, cierres, cintas ukat parches uñjatanakax jaqhi pampa uñjasiñ.
+- **Uñtaña ukat tacaña.** Ch'uyu paño jan ukax servilletanakan canasta, uñtaña, uñtatanakat ch'uxña uñtaña.
+- **Ch'uyu mayja q'ara.** Fleece manta, qhiti jan ukax realístico sapa uywa ch'uyu, jupanakar jach'a jan wali chimpunakat.
 
-### Ch'iqi
+### Ist'asiña
 
-- **Ch'uñu menta, romero, albahaca jan ukax lavanda.** Ch'uñu ch'iqinakap llawin sapa ch'iqimpi t'aqaña, ukat uñjañamawa.
-- **Manq'ana ch'iqinakax.** Kafe ch'iqiña, pan ch'iqiña, canela jan ukax naranja q'ara lakhapata qhipa.
-- **Phuqhanaka.** Uraqpacha jan ukax tienda uraqpacha phuqhanaka mä jisk'a apaña.
-- **Yatiñ jaqhañ.** Jupanakan ukat ukhamarak wali yatiqañ jaqhañ, jan ukax crema, piel jan sum sasa ukhax.
+- **Aka qhuñu.** Menta, romero, albahaca jan ukax lavanda q'ara ch'iyar muñi apt'asiñ, ukat uñtasiña.
+- **Jak'ana ist'asiña.** Café t'unuña, pan ch'uyuña, canela jan ukax naranja pelada ch'iyar.
+- **Flores.** Uraqinkir jan ukax tiendat jaya mä qawqha ch'iyar flores apt'asiña.
+- **Yatiña producto.** Jupanakax yatiñ jabón jan ukax loción, jupanakan piel jan mayjt'añ ukhaxa.
 
 ### Manq'a
 
-- **Wali munat manq'a.** Jisk'a cucharamp manq'a munat, sapa jan ukax ch'iqi manq'a, achu ukat sum manq'a, ch'uñu manq'añ sum.
-- **Sum panadería.** Frutas ukat jisk'a azúcar tastaña, mayni tuqi panadería lurasa.
-- **Pacha manq'anaka.** Sandía verano, sidra invierno, ch'uñu tiempo sum uñjasa.
+- **Munat manq'a.** Mä jisk'a cucharada munat manq'a, ukat jupanakan jakañ mayjt'ayaña, jan ukax pudín jan ukax helado, ukat textura jupanakan seguro manq'aña.
+- **Panadería yanapaña.** Jaya ukat pastel ukar mä qawqha t'ula manq'añ, jupanakampi chiqa.
+- **Mayja pacha manq'a.** Sandía qhiti pacha, ukat warm cider jan ukax kaqsa, seguro t'ukhu ukhamäkaspa.
 
-### Suyt'aña
+### Ist'asiña
 
-- **Wali munat musica.** Yatiñ taqiñ, jisk'a jach'a sut'a; [musica lurañanaka](/activities/music/) uñjañamawa.
-- **Uraqpacha suyt'añanaka.** Jallu, qutu jan ukax jara, pájaros suyt'añ. NIA sapxi musica, uraqpacha suyt'añanaka ukat jisk'a ch'uñu sapa jaqinakaru samarañ.
-- **Arsutamp.** Ch'iqi taqiñ, jan ukax mä yatiqäwi arst'añ.
-- **Jisk'a instrumentos.** Mä tambor, sonaja jan ukax campanilla, musica ukan sarañ.
+- **Munat takiña.** Yatiñ taqi jaya sapa jisk'a ist'asiña; uñtasiña [music activities](/activities/music/).
+- **Pacha ist'asiña.** Quqa, ch'uxña jan ukax pajaro jaya. NIA amuyuwa takiña, ch'uxña jan ukax pacha ist'asiñ walja jaqinakar ch'uxña sayt'ayaña.
+- **Sapa jaqhi arupa.** Mä qillqat jaya, qhiti jan ukax mä yatiña.
+- **Jisk'a instrumentonaka.** Amparan ch'iyar tambor, shaker jan ukax campanilla takiña.
 
-### Uñjaña
+### Uñjasiña
 
-- **Ventana uñjaña.** Pájaros comedero ventana ukan, uta sarañ wawanaka jan ukax jallu ch'iqi.
-- **Peces tanque jan ukax jisk'a video.** Jisk'a ch'uxñ jan jach'a suyt'añ.
-- **Jach'a fotonaka.** Mä sapa ch'iqi uñjaña, nayra uñtat jisk'a.
-- **Ch'uxña ukat uñtatanaka.** Ch'uxña awayu, phuqhanaka jan ukax servilletanaka uñjañ, jan ukax [coloring](/games/coloring/) sapa uñjaña.
-- **Jaya uñjaña.** NHS sapxi sentido jardínanaka ch'uñu, ch'uxña uraqpacha ukat yakha ukanakaw. Uñjañamawa [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Ventana uñjaña.** Mä pajaro manq'a ventana qhipan, uywa jan ukax nieve.
+- **Mä peces jaqhi jan ukax video.** Jisk'a jaqhi jan ukax ch'uxña, jan jach'a ist'asiñ.
+- **Jach'a uñtatanaka.** Mä uñtata jaqhi, uñjasiñ nayraqata, nayra laq'un ukanak.
+- **Color ukat uñtat.** Ch'iyar qarpanak, flores jan ukax servilletanaka ch'iyar, jan ukax jisk'a [coloring](/games/coloring/) uñtata.
+- **Uraqi.** NHS amuyuwa jardín sentidonaka, jupanakan aruma sapa, textura ukat yaku. Uñtasiña [outdoor and gardening activities](/activities/outdoor-and-gardening/).
 
-## ¿Kunjamas sentido caja lurasa?
+## ¿Kunjamasa mä sentidonaka caja luraña?
 
-1. **Mä tema akanakar ajlt'añamawa** jaqin uñjasiñ sarnaqañapat: uma jach'a, uraqpacha, manq'a uta, taller, ch'uñu.
-2. **Pä jan ukax pusi jach'a, sum jaqhañ** ajllt'añamawa, sapa mä jach'a conchita, mä ch'iqi cuchara, mä jisk'a awayu, mä lavanda chuyma, jan ukax mä llapjatu aynacha.
-3. **Taqi jaqhañ uñjañamawa** jisk'a ch'iqinaka, q'ara ch'iqinaka, wak'a jaqhañ ukat jaqhañ ch'iqinaka jan ukax wali jisk'a.
-4. **Sapa kuti mä jaqhañ apaña**, jaqi uñjañapataki, ukat jaqi uñtañapataki.
-5. **Qhipa pachan kuna lurañ**, sum sarnaqañapataki, ukat mayni pacha jaqhañ uñjañamawa.
+1. **Mä tema akatxa** jaqhi uñtañapataki: qota, jardín, cocina, taller, costura.
+2. **Pusi jan ukax pä pachpa sapa jach'a, seguro items apt'asiña**, akham sañasa: jach'a concha, ch'uyu quchsa, qarpa ch'uyu jan ukax ch'uyu jaqhi.
+3. **Sapa item uñjasiña** jisk'a partes, jaqhi sayt'asiñ jan ukax jan ch'uxña amuyuwa.
+4. **Mä mä kutin apaqasiña.** Jupanakar apaqaña, akham sañasa, ukat jaqhi uñjasiña.
+5. **Caja qhipat mayjt'ayaña** ukhaxa jupanakan wali uñtasiñ, ukat aka items sapa mayjt'ayaña uñjasiñ.
 
-## Nayrar seguridad
+## Nayrankipan seguridad
 
-Sentidonakan lurañanakax jisk'a, ukampis ch'iqi jan walinak utjaraki. Demencia jan walt'ayañan jaqinakax manq'añjam uñtatanakar manq'añjam uñtapxi, ukat manq'añ ukax qhipa pachan jan sum utjaraki; NIA sapxi qhipa etapan manq'añ ukax ch'ukiñ jan ch'iqi ukanakaru jaytañ ukat ch'iqi usunakar yanapt'añ.
+Sentidonaka lup'iwinakax suma, ukampis walja peligronaka utjaski. Walja demencia jaqinakax manq'a jan ukax jan manq'a sañapxi; manq'a manq'añax qhipa etapan jan ch'amani. NIA amuyuwa qhipa etapan manq'a ch'iyar jan ukax jan wali sawu ch'uxña peligro.
 
-| Risk | Kunjamas lurañ |
+| Peligro | Kunsa luraña |
 | --- | --- |
-| Ch'ukiñ | Jisk'a jan manq'añ ukanakap ukat. Janiw botónanaka, cuentanaka, monedanaka, canicanaka jan ukax jisk'a jugueteñ caja ukan. Manq'añ ukax mä ch'iqi manq'añ sapxapxi ukanakak. |
-| Manq'añ uñtatanakax | NIA sapxi crema, jabun, champú ukat perfume, manq'añjam uñtatanaka jan ukax khuchhi jisk'a. Ch'uñu jan jaytañamawa ukanakax wali uñjañ. |
-| Alergiyanaka | Nuez, latex, lana, phuqha jan ukax perfume alergias uñjañamawa lurañ qalta. |
-| Jach'a ch'iqinakax | Jach'a perfume jan ukax ch'uñu usunaka jan jaytañamawa, khuchhi asma jan ukax ajayu usunaka. Jisk'a, natural ch'iqinakax walikiwa. |
-| Piel | Masaje lurañ qhipa piel ch'iqinaka, jan ukax chhajra uñjañamawa. Jisk'a ch'iqinakampi, jan ukax jan sum sasa ukhax sayt'añamawa. |
-| Temperatura | Ch'uñu awayu jan ukax ch'uñu uma llawin ch'iqi uñjañamawa. |
-| Jach'a ukat jan walt'ayañ | Jach'a uta, vidrio jan ukax jan walt'ayañ craft sapa. |
+| Ch'uxña jan ukax manq'a | Qawqha jach'a items ukar apt'asiña, jan ch'uxña. Jan botones, cuentas, monedas, canicas jan ukax jisk'a jugar caja ukan. Manq'a ukax textura seguro ukhaman apt'asiña, care team amuyuwa. |
+| Manq'a ukhamaraki uñjaña | NIA amuyuwa loción, jabón, shampoo ukat perfume uñjasiña, jupanakax manq'a jan ukax qhuñu ukhamäkaspa, ukat artificial frutanak apaqasiña. Sentido producto uñjasiña mayjt'ayaña qhipa. |
+| Alergias | Nueces, látex, lana, uraqi jan ukax fragancias alergias uñjasiña nayraqata. |
+| Jach'a aroma | Jach'a perfumes ukat aceites esenciales jan apt'asiña, asma jan ukax jakañ jan ch'ampinakan. Jisk'a, natural aroma seguro. |
+| Piel | Masaje nayraqata piel jan ch'iyar, jan wali jan ukax jan ch'ukiña uñjasiña. Jisk'a presión apt'asiña, jupanakax muytaski ukhaxa sayt'asiña. |
+| Temperatura | Warm paños ukat bebidas nayraqata jupanakan wrist uñjasiña. |
+| Ch'uxña jan ukax jan wali items | Jan ch'uxña herramientas, vidrio jan ukax toxic craft suministros. |
 
 ## ¿Aromaterapia yanapt'istaspa?
 
-Janiw uñjatäkiti ukat janiw chiqapar yanapt'añ. [Cochrane uñakipäwi aromaterapia tuqi demencia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) uñjatarakiw 13 yatiqañanaka, 708 jaqinakampi, taqiniw care homes ukankirakiwa, ukat janiw chiqapar yanapt'añ uñjatäkiti. Yatiqañanakax jisk'a, uñjañanakax jan sapxi, ukat jan walt'ayañanakax jan sum qillqatäpxi. Jaqix mä jisk'a, yatiñ ch'uñu munasaxa, jupa sapa ch'iqi uñtañ jan ukax menta ch'iqi, lunthatañ ch'uxña. Janiw tratamiento ukkiti.
+Janiw ukhamäkaspa, jan uñjasiñ ukhamä. [Cochrane amuyu aromaterapia demencia tuqi](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) uñjaski 13 yatiña ukat 708 jaqinakat, sapa care home ukan, ukat janiw wali yatiñ amuyu uñjatax. Yatiñanakax jisk'a utjaski, ukat uñtatanakax jan sapa ukhamäkaspa, ukat jan wali uñjatanakax jan walja qillqatatäkaspa. Jaqhi jisk'a, yatiña aroma munaspa, lavanda uraqit, ukax wali jaya ukat sayt'asiña, ukampis janiw ukhamäkiti tratamiento.
 
-## ¿Kunjamas sentido lurañ uñjañ?
+## ¿Kunjamasa sentido lup'iwina uñjaña?
 
-- **Mä sum ch'iqi ajllt'añamawa** ukat TV jist'arañamawa.
-- **Nayrar uñjañamawa,** sutip sapxañamawa, ukat llokʼañ nayra jiwasa sapxañamawa: "Crema utjiw. ¿Munatati llawinak masaje?"
-- **Mä sapa mä lurañ** sapa kuti, jan ukax jaqi jan jaytañ.
-- **Uñjañamawa ukat uñjasiñ.** Ch'iqi uñtat, llawinak muñuñ jan ukax t'aqä ch'iqi walikiwa. Jaytañ, sayt'añ jan ukax jiskt'añ ukax sayt'añamawa.
-- **Jisk'a lurañamawa.** Pusi sapa khuchhi sum sarnaqañ walikiwa.
+- **Mä qhiti uñtata akatxa**, jan TV uñjasiña.
+- **Nayraqata jaqhi, sutip sut'ichaña**, jan ukax mayjt'ayaña nayraqata tocht'asiña: "Loción apt'antwa. ¿Amparan masaje munasmati?"
+- **Mä mä kutin uñjasiña**, jan ukax jan wali mayjt'ayaña.
+- **Uñjasiña uñtasiña.** Jisk'a uñtata, khara amparan ch'iyar jan ukax jisk'a jaya ukhamäkaspa. Jan ukax jaqhi jaruña, qharka jan ukax jisk'a ch'iyar sayt'asiña.
+- **Jisk'a apsuña.** Pusi qhiti minuto ukat wali sum.
 
-Mä suyt'aña sarnaqañ, [calm breathing](/games/calm-breathing/) ukat sapxi, sum tukuña ukhamawa. Yatiñ jaqhañ sartawinak, [late-stage activities](/activities/late-stage/) uñjañamawa; qhipa pacha jiskt'añanakax, [late-day restlessness](/caregiving/late-day-restlessness/) uñjañamawa.
+Mä ch'uyu jakañ sayt'asiña ukat [calm breathing](/games/calm-breathing/) akham, wali jisk'a tukuyaña. Jaya ideanakaqasa, [late-stage activities](/activities/late-stage/) uñjasiña, ukat qhipa urunakan jan ch'uxña, [late-day restlessness](/caregiving/late-day-restlessness/) uñjasiña.

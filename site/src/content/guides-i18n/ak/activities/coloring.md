@@ -1,28 +1,34 @@
 ---
-title: "Nkyekyɛ Adwuma ma Alzheimer's ne Dementia"
-seoTitle: "Nkyekyɛ ma Alzheimer's ne Dementia"
-description: "Nkyekyɛ ma nnipa a Alzheimer's anaa dementia atwa wɔn ho: mfonin ma akulafo, kraayon kɛse, skrini so nkyekyɛ ne mfonin a wobetumi aprint, ne ɔkwan a ɛnyɛ basaa de gyae."
+title: "Kɔla Adwuma ma Alzheimer's ne Dementia"
+seoTitle: "Kɔla ma Alzheimer's ne Dementia"
+description: "Kɔla adwuma ma nnipa a Alzheimer's anaa dementia wɔ: nsɛm a wɔde ma wɔn yɛ nwoma, ntoma kɛse, nhyɛ-na-kɔla agyinatuo ne nsɛntwene, nhyehyɛe ne akwan a wobetumi de agyae a enni ahaw."
 section: activities
 order: 25
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Nkyekyɛ yɛ adwuma a ɛyɛ mmerɛw na ɛnni ne ho hia. Mmuae a ɛyɛ nea ɛyɛ mmara biara nni hɔ, na wobetumi agyae bere biara. Ma nnipa a Alzheimer's anaa dementia atwa wɔn ho, paw mfonin a ɛyɛ ma akenkan ne mfonin a nsɛnkyerɛnne kɛse, na ma wɔn kraayon anaa mmara a ɛyɛ kɛse. Fa wo ho to wɔn ho, ma wɔn nkyekyɛ no ahoɔfɛ kɔ so, mmom sɛ wɔn ho ntease, na ma wɔn nsi sɛ wɔbɛgyae anaa. Skrini so nkyekyɛ ne mfonin a wobetumi aprint nso yɛ ɔkwan a wobetumi de yɛ adwuma.
+  Kɔla yɛ adwuma a ɛyɛ mmerɛw na ɛnni awiei koraa: biribi biara nni ho sɛ ɛyɛ
+  bere a ɛnyɛ yiye, na ɛbɛtumi agyae bere biara. Ma nnipa a Alzheimer's anaa
+  dementia atwa wɔn so, paw nsɛnkyerɛnne a ɛyɛ nkɔso ma nnipa kɛse, a
+  nkyɛmu ne ntoma a ɛyɛ den ne nea ɛyɛ kɛse. Tena wɔn akyi, ka akɔnnɔ no ho
+  ma, na ɛnyɛ sɛ wɔayɛ ne ho yiye anaa ɛnyɛ. Ma ɔno nso ne ho akwan sɛ ɔbɛgyae
+  bere a ɔpɛ. Nhyɛ-na-kɔla agyinatuo ne nsɛntwene a wɔbɛprint no nso yɛ
+  akwan a wobetumi de yɛ.
 keyPoints:
-  - "Paw mfonin a ɛfata akulafo, te sɛ nsuo ne mmoa, nsɛnkyerɛnne a wɔadi dwuma, ne nsɛnkyerɛnne a ɛyɛ kɛse a ɛwɔ nhyehyɛe pɛpɛɛpɛ, na ɛnyɛ mmofra nsɛnkyerɛnne."
-  - "Fa kraayon a ɛyɛ kɛse, mmara a ɛyɛ kɛse anaa mmara a ɛyɛ ntɛm a wobetumi akyere mu. Kora mpapaa no yiye, na fa nkyekyɛ kɔkɔɔ a ɛnyɛ den."
-  - "Wobetumi anyɛ nkyekyɛ wɔ skrini so denam sɛ wobɛtɔ kɔkɔɔ ne mfonin no ase, enti ɛnhwehwɛ sɛ ɔde nsa ahyɛ ntrɛ pɛpɛɛpɛ."
-  - "Kasa fa nkyekyɛ ne mfonin no ho, ɛnyɛ sɛ ɔde nkyekyɛ no atwe ntrɛ mu anaa nni."
-  - "Ɛyɛ yie sɛ wogyae ntɛm. Nkyekyɛ bere kakra ne obi wɔ hɔ yɛ adwuma a ɛyɛ pɛpɛɛpɛ."
+  - "Paw nsɛnkyerɛnne a ɛfata nnipa kɛse, te sɛ mmoa ne wiase, mandala, nneɛma a wohu ne nea ɛyɛ nkɔso kɛse, na ɛnyɛ nsɛnkyerɛnne a ɛfata mmofra."
+  - "Fa ntoma kɛse, kɔla a ɛyɛ kɛse anaa ɔpɛnsɛ a ɛyɛ kɛse. Hyɛ kɔla no so yiye, na fa akɔnnɔ kakraa bi nko."
+  - "Wobetumi akɔla agyinatuo so, de wo nsa ntɛ akɔnnɔ bi na afei ntɛ nsɛnkyerɛnne bi, a ɛmma wo nsa mmɔ den."
+  - "Ka akɔnnɔ ne nsɛnkyerɛnne no ho, na ɛnyɛ sɛ ɔde ne kɔla no kɔ akɔnnɔ no mu anaa ɛnyɛ."
+  - "Ɛyɛ yiye sɛ wogyae ntɛm. Kɔla bere kakraa bi nkɔ ne wo ho yɛ adwuma koraa."
 faq:
-  - q: "Nkyekyɛ boa nnipa a Alzheimer's atwa ho anaa?"
-    a: "Ɛyɛ adwuma a ɛyɛ mmerɛw na nnipa pii pɛ sɛ wɔyɛ, na ɛma wɔn ho tew. Ɛhwehwɛ nkaebɔ anaa mmuae a ɛyɛ nea ɛyɛ mmara. Ɛnyɛ ayaresa, na ɛnni asɛm biara a ɛka sɛ ɛma yare no tew anaa ɛbɔ no ntɛm. Fa sɛ adwuma a ɛyɛ anigye a wɔyɛ ne obi bom."
-  - q: "Mfonin a ɛyɛ dwuma sɛ nkyekyɛ ma akulafo a dementia atwa wɔn ho ye sɛn?"
-    a: "Mfonin a nsɛnkyerɛnne kɛse ne mfonin a ɛda adi, te sɛ aburɔfo, aduane, nnua, anomaa, ɔkɔtɔ anaa adeɛ a ɔpɛ paa, yɛ mfonin a ɛyɛ nea ɛboa pa. Fa nsɛnkyerɛnne a ɛyɛ ketewa ne ɛbɔ mu sɛ ɛyɛ den no ara, na fa mfonin a ɛte sɛ mmofra nso. Mfonin a wɔaprint ma akulafo ne skrini so nkyekyɛ nyinaa yɛ ɔkwan a ɛyɛ."
-  - q: "Me maame ani bɛgyina sɛ ɔnkyekyɛ ntrɛ mu. Ɛdeɛn na mɛyɛ?"
-    a: "Ka kyerɛ no sɛ ntrɛ no nyɛ hia. Paw mfonin a nsɛnkyerɛnne kɛse, anaa kyerɛ no sɛ ɔnkyekyɛ mpapaa no nyinaa ne kraayon baako ara. Ma wɔn a ɔpaw no ahoɔfɛ, na gyae sɛ ɔmfa ho nhyɛ no den."
-  - q: "Wobetumi ayɛ nkyekyɛ wɔ tablet so anaa?"
-    a: "Yiw. Golden Moments wɔ nkyekyɛ agyinatuo a wobetumi ayɛ denam sɛ wobɛtɔ kɔkɔɔ ne mfonin no ase. Ɛhwehwɛ nsa a ɛyɛ pɛpɛɛpɛ, na ɛyɛ mmerɛw sɛ wobɛhyɛ ase anaa wogyae."
+  - q: "Ɛyɛ yiye anaa kɔla boa nnipa a Alzheimer's wɔ?"
+    a: "Ɛyɛ adwuma a ɛyɛ mmerɛw na ɛsɛe kɔ, na nnipa pii hu sɛ ɛma wɔn ho tew. Ɛnhia nkaebɔ anaa nnuannuan. Ɛnyɛ ayaresa, na yɛnka sɛ ɛbɛtew yadwuma no ase nso. Fa sɛ adwuma a wɔne nnipa a wɔdɔ no bɛyɛ wɔ ho."
+  - q: "Mmoa nsɛnkyerɛnne bɛn na ɛyɛ yiye ma nnipa kɛse a dementia wɔ?"
+    a: "Nsɛnkyerɛnne a wɔn mmeae yɛ kɛse ne sɛ wohu nneɛma, de sɛ nnɔbae, nkwan, mmoa, ɔkɔnkɔnsa anaa adeɛ a ɔpɛ paa. Fa nsɛnkyerɛnne a nnipa pii ahyɛ mu ngu hɔ kwa, na nsɛnkyerɛnne a ɛyɛ mmofra nso kwa. Nsɛnkyerɛnne kɛse a wɔbɛprint no ne nhyɛ-na-kɔla agyinatuo nso yɛ akwan pa."
+  - q: "Me maame ani bɛgu sɛ ɔkɔla akɔ ɔfa a ɛnyɛ kɔla no mu. Dɛn na mɛyɛ?"
+    a: "Ka kyerɛ no sɛ ɔfa no nni hia. Paw nsɛnkyerɛnne a ɛwɔ mmeae kɛse, anaa kyerɛ no sɛ ɔnkɔla nsɛnkyerɛnne no nyinaa wɔ kɔlɔ bi mu. Ma ɔno nso akɔnnɔ a ɔpaw no ho, na sɛ ɔbɔ mmɔden a, gyae."
+  - q: "Wobetumi akɔla wɔ tablet so?"
+    a: "Yiw. Golden Moments wɔ kɔla agyinatuo bi a wobɛnhyɛ akɔnnɔ bi na afei nhyɛ nsɛnkyerɛnne bi mu. Ɛnhia nsa mmɔden kɛse, na ɛyɛ mmerɛw sɛ wobɛhyɛ ase anaa wogyae."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -41,51 +47,51 @@ related: [activities/arts-and-crafts, activities/art-projects, activities/printa
 health: false
 ---
 
-Nkyekyɛ yɛ adwuma a ɛyɛ mmerɛw sen biara a wobetumi ama obi a ɔwɔ Alzheimer's anaa dementia foforo bi. Ɛho hia sɛ wɔkenkan anaa wɔkae biribi, ɛho hia sɛ wɔkae nea ɛsɛ sɛ wɔkae, na mmuae a ɛyɛ nea ɛyɛ mmara nni hɔ. Nsa yɛ adwuma, nkyekyɛ ba, na mfonin bi wɔ hɔ a wobetumi akasa fa so. Saa adwuma yi kyerɛ sɛdeɛ wobɛpaw mfonin, deɛ wobɛhyehyɛ, ne sɛdeɛ wobɛyɛ nkyekyɛ bom a ɛrentumi nna sɛ adwuma a ɛyɛ mmara anaa sɛ ɛyɛ sɛ wɔrehwehwɛ wo.
+Kɔla yɛ adwuma a ɛyɛ mmerɛw sen nneɛma a yɛbɛtumi de ama nnipa a Alzheimer's anaa dementia afa wɔn so. Ɛnhia kenkan, nkaebɔ anaa nneɛma a wɔbɛkɔ so ahyɛ nkɔ. Nsa tu kɔ so, akɔnnɔ bɛba, na ɛwɔ nsɛnkyerɛnne a yɛbɛka ho asɛm. Saa adwuma yi bɛkyerɛ sɛdeɛ wobɛpaw nsɛnkyerɛnne, nneɛma a wobɛhyehyɛ, ne sɛdeɛ wobɛkɔla bom, a ɛnyɛ sɛ ɛbɛyɛ ɔmmofra adwuma anaa adwene a wɔde sɔ hwɛ.
 
-## Why nkyekyɛ fata nnipa pii a dementia atwa wɔn ho
+## Adɛn nti kɔla fata nnipa pii a dementia wɔ
 
-Nkyekyɛ ma nsa wɔ adwuma na ɛma ani hwɛ nea ɛwɔ hɔ. Wobetumi ayɛ no sɛ wɔte tebɛl so anaa sɛ wɔte kursi a ɛwɔ kɔkɔbɔ akyi, na wobetumi akyere no na wɔagyae no ntɛmntɛm. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ka sɛ nka yɛ ɔkwan a wobetumi de kyerɛ adwene ne sɛ wobedi ahodoɔ a ɛda so, na ɛka sɛ ɛho hia sɛ obi yɛ adwinnade a wɔatete.
+Kɔla ma nsa a ɛbɛyɛ adwuma ne ani a ɛbɛhwɛ nea ɛrekɔ so. Wobetumi akɔla wɔ ɔtabre so anaa wɔ ɔdan a ɛbɛn asuahyia mu, na wobetumi asiesie na asie ntɛm. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ka sɛ nhwipa yɛ akwan a nnipa de kyerɛ nneyɛe ne nea wɔpɛ, na wɔfrɛ wɔn sɛ wɔnnye nkɔso kwa wɔ hɔ, na ɛnhia sɛ obi yɛ adwinidɔ.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ wɔpaw adwuma a ɛfata nea obi hwan ara kwa a ɔtumi yɛ, na wɔnsesa no sɛ ne tumi sesa. Nkyekyɛ yɛ adwuma a ɛyɛ mmerɛw sesa: mfonin a ɛyɛ kɛse, kraayon a ɛyɛ den, kraayon a ɛyɛ kakraa, anaa skrini a wobetumi atɔ kɔkɔɔ so.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ wɔnfa adwuma a onipa no ka sɛ ɔbɛtumi ayɛ, na wɔnsesa no sɛdeɛ ne tumi nam so. Kɔla yɛ adwuma a ɛyɛ mmerɛw sesa: ɛbɛyɛ ɔfa kɛse, ntoma a ɛyɛ kɛse, akɔnnɔ kakraa, anaa agyinatuo a wobetumi ahwɛ wɔ ɔfa so.
 
-## Paw adwuma a ɛyɛ ma akulafo
+## Paw nsɛnkyerɛnne a ɛfata nnipa kɛse
 
-Nnipa a wɔyɛ akulafo pɛ mfonin a ɛyɛ mmofra. Hwehwɛ:
+Nnipa kɛse pii ani nnye mfonini a ɛyɛ mmofra. Hwehwɛ:
 
-- **Nsɛnkyerɛnne a ɛfa asase ho:** ɔpɔ a ɛwɔ nnwuma kɛse, ɛnsu a ɔkwan wɔ so, anaa aburɔfo a ɛwɔ abɔwa so.
-- **Nneɛma a wɔhunu daa:** tii nnuan, kaa, aba, ntoma anaa ntaadeɛ.
-- **Nhyehyɛe a ɛyɛ kɛse ne ɛyɛ pɛpɛɛpɛ:** mandala ne nsɛnkyerɛnne a ɛyɛ dodow a ɛwɔ nkyɛn kɛse.
-- **Mfonin anaa nsuo ho nsɛnkyerɛnne** a obi bɛhu sɛ ɛfa baabi a ɔpɛ anaa ɔdaafoɔ bi ho.
+- **Nsɛnkyerɛnne a ɛfa wiase ho:** atɛntrɛ a nnɔbae kɛse wɔ mu, nsu a ɔkwan wɔ so, anaa nkɔkɔ a ɛwɔ dua so.
+- **Nneɛma a wohu:** tii, ɔkɔnkɔnsa, aba bi, ntadeɛ anaa ntaadeɛ.
+- **Nsɛnkyerɛnne a ɛyɛ nkɔso kɛse:** mandala ne nsɛnkyerɛnne a ɛwɔ ntwaho a ɛyɛ kɛse, a ɛwɔ mmeae kakraa bi nko.
+- **Ntwerɛdeɛ anaa mmeae a onipa no bɛtumi ahu** efisɛ ɛfa baabi a ɔpɛ paa anaa ɔdwumfoɔ a ɔpɛ.
 
-Fa mfonin a nsɛnkyerɛnne ketewa ne ɛbɔ mu sɛ ɛyɛ den no ara. Ɛyɛ den sɛ wɔbɛkyekyɛ, na ɛde ahosiesie ba. Mfonin a wobetumi aprint a akulafo ne ɛfata, ne [free printable dementia activities](/activities/printable/) yɛn no, wɔ mfonin a nsɛnkyerɛnne kɛse.
+Fa nsɛnkyerɛnne a ɛyɛ mmerɛw ne mmeae a ɛyɛ mmerɛw ka ho. Nsɛnkyerɛnne a ɛwɔ hɔ nnipa pii anaa agyinatuo a wɔde kɔla no ho nso yɛ akwan pa. Nsɛntwene a wɔbɛprint no bi wɔ [free printable dementia activities](/activities/printable/) mu, na ɛwɔ nkyɛmu a ɛyɛ kɛse.
 
-## Nneɛma a wobetumi de ahyehyɛ
+## Nneɛma a wobɛhyehyɛ
 
-- **Nneɛma a ɛyɛ kɛse na ɛyɛ mmerɛw sɛ wɔkyere:** kraayon a ɛyɛ kɛse, mmara a ɛyɛ kɛse anaa colored pencils a wɔn kwan yɛ kɛse, ɛyɛ mmerɛw sen mmara a ɛyɛ kakraa.
-- **Nkyekyɛ kakra:** nkyekyɛ anan anaa mmiɛnsa na ɛfata. Nneɛma a wɔpaw dodow kɛse ntumi ma obi ani nnye.
-- **Pampa a ɛyɛ den anaa kaadi:** pampa a ɛyɛ pɛpɛɛpɛ tutu na ɛnsɛre. Fa tɛepu hyɛ ne mpaboa anaa fa clipboard.
-- **Tebɛl a ɛyɛ pɛpɛɛpɛ:** yi nneɛma a ɛnnyɛ hia firi hɔ, na ma mpapaa biako biako.
-- **Biribi a wobetumi de ahyɛ anaa de ahyɛ nkyekyɛ no ho mmɔden,** te sɛ ntoma anaa sponge, sɛ wopɛ sɛ mfonin no yɛ fɛw.
+- **Ntoma a ɛyɛ kɛse a ɛyɛ mmerɛw sɛ wobɛkyere:** kɔla ntoma kɛse, ntoma a ɛyɛ kɛse, anaa ntoma a wɔde ayɛ kɛse a ɛwɔ nsa a ɛyɛ mmerɛw sɛ wɔbɛkyere, ɛyɛ mmerɛw sen ntoma a ɛyɛ kakra.
+- **Akɔnnɔ a ɛyɛ kakraa:** akɔnnɔ anan anaa nnan yɛ krataa. Akɔnnɔ a ɛyɛ dodo bɛma ɔpaw ntɛm.
+- **Krataa a ɛyɛ den:** krataa a ɛyɛ tɔ ntɛm na ɛkɔ akyiri. Fa ntwea a ɛwɔ bɔnsa ɛpono anaa fa clipboard.
+- **Ɔtabre a ɛyɛ pɛpɛɛpɛ:** yi nneɛma a ɛnyɛ hia na fa krataa baako ko.
+- **Biribi a wobetumi de sɔ anaa de akɔnnɔ no ahyɛ mu,** te sɛ ntadeɛ anaa sponge, na ɛma ɛyɛ mmerɛw.
 
-## Nkyekyɛ wɔ tablet so
+## Kɔla wɔ tablet so
 
-[Nkyekyɛ agyinatuo](/games/coloring/) a ɛwɔ Golden Moments yɛ adwuma denam sɛ wobɛtɔ kɔkɔɔ bi ase, na afei wɔatɔ mfonin no bi ase. Ɛhwehwɛ nsa a ɛyɛ pɛpɛɛpɛ, enti ɛbetumi afata obi a ne nsa adwene atwa ho. Te wo ho ano obi no, na ma wɔn ahyɛ kɔkɔɔ no ho. Gyae nkaeɛ, na ma mfonin no ayɛ adwuma a ɛkɔ ɛnnɔ.
+[Kɔla agyinatuo](/games/coloring/) a ɛwɔ Golden Moments so yɛ adwuma sɛ wobɛnhyɛ akɔnnɔ bi na afei nhyɛ nsɛnkyerɛnne bi mu. Ɛnhia nsa mmɔden kɛse, enti ɛbɛtumi aboa nnipa a wɔn nsa adwene asɛe. Tena onipa no akyi na mo nka tuo no ho, na ma ɔnpaw akɔnnɔ no. Yi nkaeɛ a ɛba fam ho, na nsɛnkyerɛnne no nyinaa nnyina ɔhwɛ ani so.
 
-## Sɛdeɛ wobɛkyekyɛ bom
+## Sɛdeɛ wobɛkɔla bom
 
-1. **Hyɛ ahyɛ kyerɛwdeɛ no ase bom.** Fa kraayon no ne wɔn nsa, anaa de wo nsa to wɔn nsa so bere kakra, na afei gyae.
-2. **Kasa fa kɔkɔɔ ne nkyerɛ ho asɛm.** "Eyi yɛ abɔfra a ɛyɛ fɛw. Wahu nsuo a ɛte saa wɔ he?" ma wɔn asɛm kɔ so, na ɛnyɛ sɛ wobɛbisa nsɛm.
-3. **Ma nea wɔapaw ho ahotoso, na nnyɛ nea ɛyɛ pɛpɛɛpɛ.** "Wopaw kɔkɔɔ a ɛyɛ hyew" yɛ ɛfɛ sen "Wɔammfa mfonin no ahyɛ ntrɛ mu."
-4. **Ma wɔn nni akwan.** Sɛ wɔpɛ sɛ wɔkyekyɛ mpapaa no nyinaa, ma wɔnyɛ saa.
-5. **Gyae sɛ wɔgyae.** Ma kraayon no nkɔ fam, na kyerɛ wɔn sɛ wɔmfa tii anaa nantew.
+1. **Fi kɔla no mu ase bom.** Kɔ ntoma no mu ne wɔn, anaa de wo nsa kata wɔn nsa nkyɛn nnɛ kakraa, afei gyae.
+2. **Ka akɔnnɔ ne baabiara ho asɛm.** "Eyi yɛ bruu a ɛyɛ dɛ. Wahu nsuo a ɛyɛ saa akɔnnɔ no wɔ he?" ma nkɔmmɔ fa so, nanso ɛnyɛ nsɛmmisa.
+3. **Ka ahwehwɛ a wɔayɛ no ho, na ɛnyɛ sɛ wɔayɛ ne ho yiye.** "Woapaw akɔnnɔ a ɛyɛ hyew" yɛ nea ɛma onipa no ani gye sen "Woantena nsɛnkyerɛnne no mu."
+4. **Ma wɔnkɔ akyɛ.** Sɛ wɔpɛ sɛ wɔsɔ krataa no nyinaa nkyɛn a, ma wɔnyɛ saa.
+5. **Gyae sɛ wɔgyae.** Ma ntoma no nkɔ fam, na ka sɛ wɔnnom tii anaa wɔnantew.
 
-## Sesa wo adwuma sɛ dementia sesa
+## Sɛdeɛ adwuma no sesa sɛ dementia kɔ so
 
-Wɔ ɔkwan a ɛyɛ mfiase mu no, nnipa pii pɛ mfonin a nsɛnkyerɛnne pii, na wɔtumi paw wɔn kɔkɔɔ ne mfonin. Wɔ ɔkwan a ɛka ho mu no, mfonin a ɛyɛ kɛse ne nneɛma a ɛyɛ kakraa ma ɛboa. Wɔ ɔkwan a ɛdi akyiri no, sɔ nsɛnkyerɛnne kɛse biako, pampa a ɛwɔ kɔkɔɔ a ɛyɛ fɛw, anaa kyerɛ sɛ wobedi kraayon no mu bere a wɔrehwɛ wo nnwom. Nnipa bi pɛ sɛ wɔhwɛ mfonin a wɔawie sen sɛ wɔbɛyɛ bi.
+Wɔ mfitiase bere mu no, nnipa pii pɛ nsɛnkyerɛnne a wɔayɛ wɔ ho nkyerɛaseɛ, na wɔtumi paw wɔn akɔnnɔ ne nsɛnkyerɛnne. Wɔ ɛkyɛn bere mu no, nsɛnkyerɛnne kɛse ne nneɛma a ɛnyɛ den ye. Wɔ bere a ɛkɔ so no, sɔ ɔfa kɛse baako, krataa a akɔnnɔ a ɛyɛ dodo wɔ so, anaa ma wo ho nhyɛ nkɔ wɔ hɔ bere a woregyina nnwom. Nnipa bi pɛ sɛ wɔhwɛ krataa a wɔayɛ ho wie sen sɛ wɔbɛyɛ bi.
 
-Sɛ wopɛ nsɛm a ɛfa adwuma a ɛyɛ nkɔfa wɔ ɔkwan biara mu ho, hwɛ [arts and crafts for adults with dementia](/activities/arts-and-crafts/) ne [art projects for people with dementia](/activities/art-projects/).
+Ma nkyerɛkyerɛ a ɛfa adwuma a ɛyɛ nhwɛsoɔ wɔ bere biara mu, hwɛ [adwuma a ɛfa nnipa a dementia wɔ nhwɛsoɔ ne nkyekyɛmu](/activities/arts-and-crafts/) ne [nkyekyɛmu adwuma ma nnipa a dementia wɔ](/activities/art-projects/).
 
-## Bere a wobetumi agyae
+## Bere a wobɛgyae
 
-Gyae sɛ obi bɛyɛ basaa, sɛ ɔpo pampa no firi ne nkyɛn, anaa sɛ ɔyɛ hu. Sɛ wɔn ani gye, nkyekyɛ bere abien ne nkitahodie. Wobetumi asan aba akyire, anaa wobetumi asan aba mfonin foforo anaa adwuma foforo a ɛte sɛ [sensory play](/activities/sensory/).
+Gyae sɛ onipa no ani bɛgu, ɔpɛ sɛ ɔtwe krataa no akyi, anaa ɔyɛ ɔdɔ. Sɛ wɔkɔla nkɔsɛ mmienu na wɔpɛɛ, saa yɛ nkonimdi. Wobetumi aba bio akyire, anaa sesa nsɛnkyerɛnne anaa adwuma foforo te sɛ [sensory play](/activities/sensory/).

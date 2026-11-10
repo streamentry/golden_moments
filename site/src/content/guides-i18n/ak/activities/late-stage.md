@@ -1,33 +1,34 @@
 ---
-title: "Nneyɛe ma Dementia a Ɛdi Akyiri, Wɔ Mpa so anaa Ntiaso mu"
-seoTitle: "Dementia a Ɛdi Akyiri: Nneyɛe ma Mpa so ne Ntiaso"
-description: "Nneyɛe a ɛyɛ ahoɔfɛ ma dementia a ɛdi akyiri, ka ho sɛ obi wɔ mpa so anaa ntiaso: nnwom, nsa a wɔbɛkyerɛ, kɛnkan, nkɔsoɔ ne sɛ mo wɔ hɔ ketewa, ne nsɛm a ɛfa ahobammɔ ho."
+title: "Dementia Akyiri Stage: Nneɛma a Wobɛyɛ wɔ Mmɔden So"
+seoTitle: "Dementia Akyiri Stage Nneɛma: Mmɔden ne Hyɛn So Adwene"
+description: "Dɛ nneɛma ma dementia akyiri stage: nnwom, nsɛm ka, nneɛma a wobɛhwɛ ne nsa, ne mmɔden anaasɛ hyɛn so. Ahobammɔ nkyerɛkyerɛ nso wɔ mu."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Wɔ dementia a ɛdi akyiri mu no, nneyɛe no si so wɔ nneɛma a yɛhu wɔ honam fam
-  ne sɛ mo wɔ hɔ: nnwom a ɔpɛ, nsa a wɔbɛkyerɛ, mpaebɔ, kɛnkan a wɔka kɛse,
-  nkɔsoɔ a ɛyɛ ahoɔfɛ, nnɔnnwoma a ɛyɛ ahoɔfɛ ne sɛ mo tena mo ho wɔ
-  nkyɛnsoɔ anaa ne sɛ mo di kɔ wiase so. Saa nneyɛe yi yɛ adwuma wɔ mpa so anaa
-  ntiaso. Fa mmere tiaa, hwɛ anim ne nsa ho sɛ wɔn ho yɛ hɔ, na ɛnyɛ den sɛ wo
-  ankasa wɔ hɔ no yɛ nneyɛe no ankasa.
+  Wɔ dementia akyiri stage mu no, nneɛma no twa nipa no nnwinnwen ne wo
+  ankasa wo ho so: nnwom a ɔpɛ, nsa a wobɛkyerɛ no ahoɔfɛ, ahoɔ a wobɛyɛ
+  ahyɛ bi, nsɛm a wobɛka kɔkɔɔ, wɔn ahoɔ ntokuo a wobɛhwɛ, nkɔsoɔ, ne wo ne
+  ɔno wɔ ntoma mu. Saa nneɛma yi tumi yɛ mmɔden anaasɛ hyɛn so. Ka mmere
+  tiaa, hwɛ ɔno anim ne ne nsa hwɛ sɛ ɔyɛ ahoɔfɛ, na sɛ ɔda adanse a ɛkyerɛ
+  ɔyaw so a, gyae. Ɛnyɛ nneɛma nko ara na ɛboa, wo ankasa wo hɔ no nso yɛ
+  nneɛma no ankasa.
 keyPoints:
-  - "Nkitahodie ka hɔ hɔ. Wɔ dementia a ɛdi akyiri mu no, obi hu wiase nyinaa wɔ ne honam fam so."
-  - "Nnwom, nsa a wɔbɛhyɛ ahoɔfɛ, nne a wɔkasa ne nneɛma a ɛboa ma wɔn hyɛ nsa so, na ɛtɔ mmere a nsɛm no ntumi nto so."
-  - "Nneyɛe a ɛwɔ ha nyinaa yɛ adwuma ma obi a ɔwɔ mpa so anaa ntiaso."
-  - "Hwɛ anim, nsa ne ahome sɛ wɔn ho yɛ hɔ anaa wɔnnyɛ hɔ, na sɛ ɛba sɛ ɔyɛ wɔn yaw a, gyae."
-  - "Mma nneɛma ketewa nni hɔ, na ma biribi a wɔde bɛma aduan anaa nsuo no wɔ nkyerɛkyerɛ a ayaresa adwumfoɔ de ma, efisɛ nsuo mmɔ ne aduan ka bi ankɔ sɛ ɛnyɛ ahobammɔ."
+  - "Nkitahodie hɔ da so. Wɔ akyiri stage mu no, wiase no hu kɛse wɔ nnwinnwen so."
+  - "Nnwom, nsa a ɛyɛ dɛ, nsɛm a ɔte aseɛ, ne nneɛma a ɔbɛkyere mu ka no bɛma nipa no ani tɔ, bere a nsɛm no nnye ɔnim."
+  - "Nneɛma a yɛde aba ha no nyinaa tumi yɛ adwuma ma nipa a ɔwɔ mmɔden anaasɛ ɔte hyɛn so."
+  - "Hwɛ ahoɔfɛ ne ahoyaw wɔ ɔno anim, nsa ne ne home mu, na gyae wɔ bere biara a ɛda ɔyaw adanse so."
+  - "Fa nneɛma a ɛbɛyɛ ɔkɔm ba ara ara, na sɛ wɔ nnuan a ɛbɛyɛ ɔkɔm ba so; nea ɔbɛnom ne nsuo nso yɛ sɛ ɔhwɛ kwan sɛ nnipa a wɔhwɛ no akyerɛ, efisɛ ɛbɛyɛ ɔkɔm sɛ ɔnkɔ ne nsɔ yiye."
 faq:
-  - q: "Nneyɛe bɛn na mɛtumi ayɛ ma obi a dementia a ɛdi akyiri aba no a ɔwɔ mpa so?"
-    a: "Gyina ne nnwom a ɔpɛ so, fa wo nsa kyerɛ ne nsa, hyɛ nsa wɔ ne nsa so nkɔ, kenkan kɔ mu wɔ kɛnkan anaa mpaebɔ a ɔpɛ so, kyerɛ ne mfonini, anaa gyina nnɔnnwoma a ɛyɛ ahoɔfɛ so. Bue kurtins no sɛnea ɔbɛhu wiase no wɔ hɔ. Nneyɛe a ɛyɛ ketewa, a wɔyɛ ntɛm na wɔdi ko biribi pɛ, yɛ ade wɔ mmere a ɛkɔ so."
-  - q: "Dementia a ɛdi akyiri mu obi betumi ano nnwom ase ayɛ anigye?"
-    a: "Nnipa pii betumi. Alzheimer's Association ka sɛ, ɛwom sɛ ɛdi akyiri a obi bɛtumi ahwe ne nsa to ahyɛ nnwom so anaa ɔbɛtumi ayɛ nnwom a ɔtenaa ne mmofra mmere so no ho ka. Yɛ nnwom a ɔdɔɔ wɔ n'abɛyɛ mu, na ma ɛnteɛ."
-  - q: "Ɛdeɛn na mɛhunu sɛ wɔpɛ nneyɛe no?"
-    a: "Hwɛ nneɛma ketewa: ne mpa a ɛyɛ ahoɔfɛ, ne anim a ɛnyɛ den, ɔhwɛ wo ani, ɔhome, ɔkyerɛ wo nsa, anaa ne home a ɛyɛ fɛfɛ. Ɛtɔ kaa ho, ɔyi ne nsa, ɔnyɛ ahoɔfɛ, anaa ɔtete, ɛnam ɛ ka amanehunu ho. Sɛ wuhu saa a, gyae na ka kyerɛ ayaresa adwumfoɔ sɛ ɛkɔ so."
-  - q: "Ɛyɛ mmara sɛ mede me ho bɛba hɔ sɛ wɔrenhu me bio a?"
-    a: "Yiw. National Institute on Aging ka sɛ, ɔsɛ sɛ obi wɔ hɔ kɛse ankasa boa ma ahodoɔ, na nsa, nnwom ne nsɛm betumi aka ahoɔfɛ ma obi a dementia no ayɛ den. Wo nne ne wo nsa betumi ayɛ obi a ɔbɛkyerɛ wo, ɛwom sɛ wɔrenkae wo din."
+  - q: "Nneɛma bɛn na ɛyɛ, wɔ dementia akyiri stage mu, nipa a ɔte mmɔden so?"
+    a: "Tu nnwom a ɔpɛ, kyekyere ne nsa, hwɛ ne nsa yiye ne ɛnyinasɛm a wɔde nsuo a ɛyɛ wɔ ho, kenkan bɔɔk anaasɛ mpaebɔ a ɔdɔ, kyerɛ no nsɛm, ma no nwoma ne aseɛ, anaasɛ gyina nsa ho ma no bisa bere a ɔwɔ hɔ. Bue ɔpon ma ɔhwɛ wiase. Mmere tiaa, ahoɔden ase nneɛma a ɛyɛ baako, ɛyɛ nneɛma a ɛboa."
+  - q: "Nipa a ɔwɔ dementia akyiri stage ka ɛbɛtumi ani agye nnwom?"
+    a: "Bebree tumi. Alzheimer's Association kyerɛ sɛ wɔ stage no akyiri mu no, nipa bi tumi tɔ mmɔ anaasɛ aka nnwom a ɔtee wɔ ne mmerɛ mu. Paw nnwom a ɔdɔ wɔ ne mmerɛ mu, na ma nnwom no nnyɛ den."
+  - q: "Ɛte sɛn na mahunu sɛ ɔnni nneɛma no ani?"
+    a: "Hwɛ nsakrae ketewa: ne mpan a ɛyɛ dɛ, ne anim a ɛyɛ dɛ, ne ani a ɛhwɛ wo, ne nsɛm ntɔ, anaasɛ ne home a ɛdi ase. Ɔyaw anaasɛ ne nsa a ɔtwe kɔ nʼakyi, ne ahohuo, anaasɛ ne nkaeɛ a ɛka ho no kyerɛ sɛ ɔyɛ den anaasɛ ɔwɔ ɔyaw. Sɛ wohunu saa nneɛma yi a, gyae na ka kyerɛ nnipa a wɔhwɛ no sɛ ɛreba so."
+  - q: "Ɛyɛ sɛ mebɛsrɛ no sɛ ɔnte me ase nso?"
+    a: "Ɛyɛ. National Institute on Aging kyerɛ sɛ nnipa a wɔwɔ hɔ no bɛma ɔdwodwo, na nneɛma te sɛ hyɛn, nnwom ne nsɛm a wɔka bɛma ahoɔfɛ wɔ dementia akyiri stage mu. Wo nne ne wo tadeɛ nso bɛyɛ wo a ɔnim, bere a ne din anto."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -49,55 +50,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-Wɔ dementia a ɛdi akyiri mu no, obi betumi aka nsɛm kakra, ɔbehia obi a ɔboa no wɔ ne nnipadua nneyɛe nyinaa mu, na ɔbɛtena mpa so anaa ntiaso bebree. Ɛbɛyɛ sɛ biribiara nni hɔ a yɛbɛyɛ bom. Nanso, ɛnte saa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ka sɛ ɔdeɛ a ɛyɛ obi ankasa ho ka hɔ, na wɔ saa stage yi mu no, wiase no di kan hu wɔ honam fam so. Nnwom, nsa a wɔhyɛ, obi a ne nne yɛ wɔ hɔ, ne wo ankasa a wɔ hɔ ahoɔfɛ betumi ama ahoɔfɛ ne abɔdeɛ a ɛma mo nyinaa bɔ mo ho ba.
+Wɔ dementia akyiri stage mu no, nipa a ɔwɔ ho bɛkasa kakra, ɔbɛhia boa wɔ ne nneɛma nyinaa mu, na ɔbɛtena mmɔden anaasɛ hyɛn so bere pii. Ɛbɛyɛ sɛ nneɛma a mobɛyɛ bom no aba awiei. Nanso ɛwɔ hɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) kyerɛ sɛ nipa no ho ankasa kakra bi tra hɔ, na wɔ saa stage yi mu no, wiase no hu kɛse wɔ nʼahoɔ so. Nnwom, nsa a ɛtena nʼahoɔ, nsɛm a ɔte ne nkyɛn, ne wo ne ɔno a wodi ne ho ahoɔdɛn no bɛtumi de ahoɔfɛ ne nkitahodie aba.
 
-## Nneyɛe bɛn na boa wɔ dementia a ɛdi akyiri mu?
+## Nneɛma bɛn na ɛboa wɔ dementia akyiri stage mu?
 
-Nneyɛe a ɛfa honam fam ho ne nneɛma a yɛde ahodoɔ ne mo wɔ hɔ boa paa wɔ stage yi mu. Alzheimer's Association ka sɛ, gyina nnwom a ɔpɛ so, kenkan nsɛm a ɛfa nkɔso a ɔpɛ so, hyɛ nsa wɔ nsa so nkɔ a ɛwɔ ɔhoɔ a ɔpɛ, ne sɛ mo di kɔ wiase so wɔ ɛbere a ɛyɛ fɛ mu. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ka nso sɛ, kɛnkan nsɛm, mfonini a wɔkyerɛ, nsa a wɔhyɛ anaa nsa a wɔhyɛ ahoɔfɛ, nnwom, nsuo a ɛtɔ anaa nnɔnnwoma a ɛfa wiase ho, ne sɛ wo ankasa wɔ hɔ betumi ama obi ahodoɔ.
+Nneɛma a ɛfa nsɛn ho ne ahoɔfɛ a ɛyɛ dɛ boa paa wɔ akyiri stage mu. Alzheimer's Association ka sɛ wobɛtumi atu nnwom a ɔpɛ, kenkan nwoma bi a ɛwɔ ne nkaeɛ mu, de nnuro a ɔdɔ hyɛ ne honam so, na wɔ ɛberɛ a ɛyɛ fɛ no mu, mmɛfa wo ne ɔno ntena wɔ abɔnten. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ka sɛ nsɛm a wɔka, nifa a wɔde hwɛ, honam a wɔde ahoɔfɛ bɔ, nnwom, mmoa a ɛyɛ nwonwa, anaasɛ nsuo a ɛreyɛ wɔ mmuaemu mu no nso yɛ adwuma, na sɛ wo ankasa wo hɔ nso bɛma ɔdwo.
 
-[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ka sɛ, obi a ɔwɔ stage yi mu no pii hia sɛ ɔbɛkyekye biribi a ɔbɛgyina ne mu ma ahodoɔ, na ɔkyerɛ nneyɛe a ɛyɛ ketewa a ɛfa honam fam ho, nkɔsoɔ ahoɔfɛ, nnwom, nnɔnnwoma a ɛfa mmoa ho, nsa a wɔhyɛ ne nneyɛe a ɛyɛ nea wɔpɛ.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kyerɛ sɛ nipa a ɔwɔ akyiri stage mu no, ɛbu sɛ ɔkyekyere biribi a ɔbɛhyɛ ne mu ma ahoɔfɛ, na ɛtaa ka nneɛma a ɛyɛ dɛ ho: nneɛma a ɛfa nsɛn ho, honam a wɔyɛ nkɔsoɔ ketewa, nnwom, mmoa a wɔde bɛba, nipa ahoɔ a wɔde ahoɔdɛn bɔ, ne nsɛnkyerɛnne a ɛnyɛ nea wɔayɛ ho nhyehyɛe.
 
-## Nneyɛe ma obi a ɔwɔ mpa so anaa ntiaso
+## Nneɛma a wobɛyɛ ma nipa a ɔte mmɔden anaasɛ hyɛn so
 
-1. **Gyina ne nnwom so.** Yi nnwom a wɔtenaa ne mmabun mmere mu, ne gyidie anaa ne abusua nnwom. Ma nnwom no nnyɛ den, na tena ne nkyɛn. Ɛwom sɛ ɛda yi, obi bi betumi ahwe ne nsa to ahyɛ anaa ɔbɛkoro. Hwɛ [nnwom nneyɛe](/activities/music/).
-2. **Fa nsa kyerɛ.** Ɛrenyɛ den sɛ wofa ne nsa anaa wo nsa ntwene nsa ho, ɛnam sɛ wo nsa nkyerɛ ne nsa, ɛyɛ nneyɛe. Ka nea wo rebɔ kan.
-3. **Yɛ nsa a ɛyɛ mmerɛ mu nkɔ.** Hyɛ aduro kakra wɔ wo nsa mu, na fa so kɔ ɔnan kɔsi nsa ano. Fa aduro a ɛnnɔ ho nhwɛ, anaa ɔhoɔ a ɔdɔɔ wɔ n'ahoɔfɛ sɛ ne honam tumi a wɔbɛgye so.
-4. **Kenkan.** Ɛyɛ anigye sɛ wobɛkenkan ɔsɛnkafo, abakɔsɛm a ɔdɔɔ, anaa ɔdesɛmfo nsɛm. Nsɛm yi, ne nkɔ a ɔyɛ fɛ, ɛnyɛ ho hia sɛ nnyinasosɛm; wo nne a ɛyɛ ahoɔfɛ ne mmoa ho dɛ betumi aboa.
-5. **Ka nsɛm.** Ka wɔn nkwanta a wɔyɛe wɔ mmofra mmere anaa ɛda a wɔwaree no. Wɔrehia mmuae.
-6. **Kyerɛ mfonini.** Hwɛ mfonini kɛse baako pɛ ɛberɛ biara wɔ ne ani so, na ka ho nsɛm yie. Mma wo mmisa sɛ hwan na ɛwɔ mfonini no mu.
-7. **Ma biribi a ɛyɛ nwoma a wɔbɛgyina so.** Ntaadeɛ a wɔatwa, fleece kwadrɔ anaa abɔdeɛ a ɛyɛ nwoma. National Institute on Aging ka sɛ, sɛ wɔrebɔ obi ho no, ma no ntaadeɛ a ɔbɛkyekye, ɛnam saa so no ɔmmɛdi nsa so akyerɛ wo anaa nkɔ fie ahyɛde.
-8. **Gyina nnɔnnwoma a ɛfa wiase ho so.** Osu, mmiraa anaa nnuyɛ a wɔka ase wɔ ahyɛde a ɛnyɛ kɛse no betumi ama fie no ahoɔfɛ.
-9. **Fa wiase no aba mu.** Bue kurtins no, ma nkɔfɔ a ɛyɛ ahoɔfɛ ma nnuru a ɛwɔ kurtins no ano, anaa de nnuwa ne nhaban bi aba mu ma wɔhwɛ na wɔnhyɛ.
-10. **Kɔ ɔpon.** Sɛ obi betumi atena wiɛlsa mu a, nkyɛn bere kakra wɔ dua a ɛnnyew ase wɔ ɛbere a ɛnyɛ hye mu no betumi aba fɛ.
-11. **Hyɛ n'awi anaa ma nsuo a ɛyɛ ahuntu.** Nkuta a wɔyɛ ahoɔfɛ ne nsuo a ɛyɛ ahuntu a wɔde hyɛ nsa ne ani ho betumi ama ɛyɛ ahoɔfɛ.
-12. **Nkɔ ahoɔfɛ nnwom mu.** Fa kɛntɛ a ɛyɛ kanea kanea nkyerɛ ho, anaa ma nsa mmɛdi nnwom no nkyekyɛm. Ma ɔyaresafo anaa ɔayaresa adwumfoɔ akyerɛ wo ɛkwan a ɛnyɛ ahobammɔ a wɔbɛfa so yɛ nneyɛe a ɛfa ne nnabɔ ho ansa na.
-13. **Yɛ nkyerɛwee a ɛnyɛ ahyɛde.** Fa abɔfra a wɔde yɛ nkyerɛwee a ɛnyɛ nnuru ho paint kɔ kɛse nkrato so, fa wo nsa anaa wo sponge, na wo ankasa wo kyerɛ. Ɛnni ade a ɛyɛ pɛpɛɛpɛ.
-14. **Ma mmoa mmɛba.** Ɔboa a ɔnyɛ hye ɔkɔ sɛ ɔbɛda ne nan anaa ne ti so, sɛ obi no ani gye mmoa, na ɛbere no mu nso ɛyɛ.
-15. **Hɔ mu ka ho ahyɛnsɔ.** Gyina nkyɛn na fa ahyɛnsɔ a ɛyɛ ahoɔfɛ kɔ mu, fa ɛka kɛse. [Ahoɔfɛ mmɛ](/games/calm-breathing/) betumi ama mo nyinaa nna ne ahyɛnsɔ, na mo ara na wobɛhyɛ ne ase anaa ɛsɛ.
-16. **Ɛyɛ sɛ wo wɔ hɔ.** Gyina nkyɛn, hum, toto anaa kenkan ahodoɔ mu. Ɛberɛ a wo wɔ hɔ no, ɛdɛ ɛmfa ho.
+1. **Gyina ne nnwom so.** Paw nnwom a ɔtee wɔ ne mmerɛ mu, ne nnwom a ɛfa ne gyidi anaasɛ ne abusua ho. Ma nnwom no nnyɛ den, na tena ne akyi. Ɛwom sɛ ɛnnɛ, nipa bi ka ne nsa ntɔ anaasɛ ɔmmɔ mmɔ. Hwɛ [nnwom ho nneɛma](/activities/music/).
+2. **Kyekyere ne nsa.** Ɛwom sɛ wode ne nsa bɛyɛ ho nko no, ɛyɛ adwuma. Kyerɛ no ankasa nea woreyɛ kan.
+3. **Hyɛ ne honam so nkɔsoɔ mmɔfra.** Fa lotion kakra hyɛ wo nsa mu, na twa ne nsa so fi ne nsa mu ano kɔ ne nsa nsoa. Paw lotion a ɛnnyɛ ahoɔfɛ, anaasɛ ahoɔfɛ a ɔdɔ no sɛ ne honam ntumi nnyɛ no ɔyaw.
+4. **Kenkan nneɛma kɛse.** Ɛbɛyɛ mpaebɔ a ɔdɔ, nwoma ne nsɛm bi a ɛwɔ ne mmerɛ mu, Nyankopɔn asɛm anaasɛ krataa mu nneɛma a ɔpɛ. Wo nne ne nsɛm a ɛfa ne ho no ho ahoɔden sen nsɛm no ankasa.
+5. **Ka nsɛm.** Ka wɔn abusuafo anantwie anaasɛ da a wɔware. Ɛnhia sɛ ɔbua wo.
+6. **Da nsɛnkyerɛnne.** Gyina ɔpɛ kɛse baako mu, ma no ɛfa ne ani so, na ka no ahoɔfɛ. Mmisa no sɛ ɔnkyerɛ wo wɔn a ɛwɔ mu.
+7. **Ma no biribi a ɛyɛ dɛ a ɔbɛkyekyere.** Ɛbɛyɛ ntoma a wɔaboa, fleece a ɛyɛ nwini, anaasɛ mmoa a ɛyɛ dɛ. National Institute on Aging kyerɛ sɛ wobɛtumi ama nipa no ntoma bi a ɔbɛkyekyere bere a wɔrehyɛ no, na ɛbɛma ɔrenkyekyere wo anaasɛ agyapadeɛ no.
+8. **Gye nnuro a ɛwɔ wiase.** Osutɔ, nsuo a ɛreboa anaasɛ mmoa a ɛreto nnwom wɔ fitaa mu tumi ma efie a ɛyɛ nnwom kɛse no tɔ.
+9. **Fa wiase no ba fie.** Bue ɔpon, de nsoromma bi a ɛyɛ bird feeder hyɛ ɔpon no akyi, anaasɛ fa nsuo nkaeɛ anaasɛ nhaban bi ba fie ma ɔnhwɛ na ɔbɛtwe.
+10. **Fi fie kɔ wiase.** Sɛ nipa no tumi tete wheelchair mu a, nkɔsoɔ kakra wɔ ɔsuo ase wɔ ɛberɛ a ɛyɛ fɛ no mu, nea ɛwɔ mu no bɛyɛ fɛ.
+11. **Hyɛ ne tirim ano anaasɛ fa nsuo a ɛyɛ hyew ma no.** Ntoma a wɔde ɛyɛ ne nsa ne ne mmɛn, a ɛyɛ nkɔsoɔ, ɛbɛyɛ ahoɔfɛ.
+12. **Fa nnwom nkɔsoɔ.** Fa ntoma nsõ kɔ, anaasɛ twa ne nsa wɔ nnwom a ɔpɛ no ano. Sɛ wopɛ nkɔsoɔ a ɛfa honam ne mpɔnsɛ so a, srɛ ɔyarefo anaasɛ ɔbɔnyansafo no ma ɔnkyerɛ wo ɛkwan a ɛyɛ nokware kan.
+13. **Yɛ nsɛnkyerɛnne a wobɛyɛ wo ho.** Fa bɔɔfo a ɛyɛ nwini ne nsa anaasɛ ne nsa ntwa pentɛ a ɛnnwuo, de hyɛ krataa kɛse so. Biribiara nni ntwerɛ a ɛyɛ nokware.
+14. **Ma mmoa mmɛba.** Ɔsoro a ɛyɛ dɛ a ɔbɛtena ɔda so anaasɛ ne kuro so, sɛ nipa no pɛ mmoa na ɛmfa hɔ nnyɛ hɔhoɔ.
+15. **Hɔ ahome bom.** Mo ne ne ho hyɛn so, na monhome ahoɔfɛ, monsɛ ɔnkyerɛ mo ho ankasa. [Calm breathing](/games/calm-breathing/) boa mo nyinaa sɛ mobɛma mo ho ahoɔfɛ, na mo ara mo ntumi aguanhu.
+16. **Ɔnyɛ ɔsɛnkyerɛnne wɔ hɔ.** Tena ne nkyɛn, bom hum, ka krataa anaasɛ kenkan nwoma akyɛ. Ɛnyɛ ɛdeɛ hia ankasa ankasa, wo ho ahyɛ no ahoɔfɛ.
 
-## Ɛdeɛn na wɔbɛkyɛ nneyɛe wɔ stage yi mu
+## Ɛte sɛn na wobɛkyekye nneɛma wɔ stage yi mu
 
-- **Bra anim fi nsa.** Ka wɔn din ne wo din, na ka nsɛm ahomegyeɛ, na fi ase ka nsɛm a ɛyɛ ahoɔfɛ, ansa na woreyɛ no nsa so.
-- **Ma biribi biako ɛberɛ biara.** Gyae TV ansa na woregyina nnwom so. Yɛ nneyɛe wɔ honam fam biako ɛberɛ biara.
-- **Ma ɛnyɛ kɛse.** Mmere ketewa betumi ayɛ. Mmere ketewa a ɛdi kɔ wɔ da no mu yɛ ɛpapa sen ɛberɛ tenten koro.
-- **Ma wɔn ho nyɛ yie kan.** Hwɛ sɛ wɔboa obi no yie. NIA ka sɛ, sɛ obi tena so no, mpaboa a wɔde di nsa ne ti a ɛyɛ mmerɛ so no betumi aboa.
-- **Hwɛ ɔno ne ne mmuaeɛ.** Nsa a wɔnyɛ den, ani a ɛyɛ fɛ, ɔhwɛ wo ani, anaa ɔtoto betumi akyerɛ sɛ wo ho yɛ hɔ. National Institute on Aging ka sɛ, nteɛ, ayɛ ahometɔ, ɔkɔ so kyekye ne honam, anaa adwene a ɛbɛyɛ ɔhaw no betumi akyerɛ amanehunu. Gyae, na ka kyerɛ ayaresa adwumfoɔ.
+- **Fi ne anim baa.** Ka ne din ne wo din, na ka nsɛm a ɛyɛ dɛ, ɛnam ne nkyɛn, ansa na woreyɛ ne honam.
+- **Ma biribi baako pɛɛ.** Gyae TV no ansa na woreyɛ nnwom. Yɛ ahoɔ biako, na wɔ ahotɔ mu.
+- **Ma ɛnyɛ tenten.** Nkɔsoɔ kakra no bɛtumi ayɛ ɔkɔm. Mmere kakra a wɔkyekye da no mu ye sen bere tenten koro.
+- **Ma ɔne ho nyɛ ahoɔfɛ ansa.** Hwɛ sɛ ɔwɔ nkɔsoɔ a ɛyɛ dɛ. National Institute on Aging kyerɛ sɛ lap board bi a ɛma nsa ne ɔfã a ɛwɔ soro no ho ahoɔfɛ, ɛboa wɔ sɛ ɔrekɔ soro.
+- **Hwɛ nea ɔrekyerɛ.** Nsa a ɛyɛ dɛ, anim a ɛyɛ dɛ, ani a ɛhwɛ wo, anaasɛ ɔmmɔ mmɔ kyerɛ sɛ ɔyɛ ahoɔfɛ. National Institute on Aging ka sɛ ɔyaw nnwiriw, anim ntɔ, ne honam a ɔbɛkyere mu, anaasɛ ahohuo a ɛntɔ mmiɛnsa no nso yɛ adanse a ɛkyerɛ ɔyaw. Gyae, na ka kyerɛ ɔnnipa a wɔhwɛ no.
 
-## Nkɔsoɔ ntiɛ wɔ honam fam so
+## Nneɛma a ɛfa ahoɔ ho kɔ so
 
-| Honam fam | Nneyɛe | Hwɛ ho yie |
+| Ahoɔ | Nneɛma | Hwɛ yiye |
 | --- | --- | --- |
-| Tie | Nnwom a ɔpɛ, wo nne a wɔkenkan, nsuo a ɛtɔ | Ma nnwom no nnyɛ den; nnwom biako ɛberɛ biara |
-| Nsa | Nsa a wɔhyɛ, nsa a wɔkyerɛ, nsɛnsɛn a ɛyɛ ahoɔfɛ, ntaadeɛ a ɛyɛ mmerɛ | Ka anaa ka ansa na woreyɛ; hwɛ sɛ honam no nni yaw anaa ɛpasa |
-| Ani | Mfonini, nnuru, anim a wɔhwɛ fi kurtins mu, video a ɛfa wiase a ɛyɛ fɛ ho | Hyɛ nneɛma wɔ ani mu; hann a ɛyɛ fɛ, ɛnyɛ nnɔnnwoma a ɛdɔɔ |
-| Nhwɛ | Nsuo a ɔpɛ, nnuru, kɔfi a ɛrehwie ɛbɛn | Ma nsuo a ɛyɛ kɛse nkɔ; hwɛ ayaresa ne ahoɔfɛ |
-| Tɔ | Aduane kakra a ɔpɛ | Nneɛma ne nnwuma a ayaresa adwumfoɔ ka sɛ ɛyɛ ahobammɔ pɛ |
+| Tie | Nnwom a ɔpɛ, wo nne a wɔkenkan, nnuro a ɛwɔ wiase | Ma nnuro no nnyɛ den; nnuro baako pɛɛ |
+| Honam | Nsa a wɔhyɛ so nkɔsoɔ, nsa a wɔkyekyere, ntoma a ɛyɛ dɛ, nsuo a ɛyɛ hyew | Bisa anaasɛ ka kyerɛ ansa; hwɛ sɛ honam no nyɛ yaw anaasɛ ɔnyɛ ɔwɔ mu |
+| Ahuhuɛ | Krataa, nnuro, wiase a ɛwɔ ɔpon ano, video a ɛyɛ dɛ a ɛfa nnuro ho | Hyɛ nneɛma wɔ anim kɛse; hann a ɛyɛ dɛ, na hyɛ wɔ hɔ a ɛnyɛ nea ɛbɔ ahuhuɛ |
+| Ahoɔfɛ | Nsuo a ɔpɛ, nnuro, mmoa a ɛboa, nsuo a ɛyɛ dɛ a ɛreka | Ɛfiri nkɛntɛnsɛm ankasa; hwɛ sɛ ahoɔfɛ nnyɛ den ne ahome |
+| Nkwan | Nkwan a ɔpɛ kakra, sɛ ɔda wo so | Fa nneɛma a ɛboa kɛse ne nneɛma a ɔyɛ dɛ a ɔyare wɔ hɔ ka kyerɛ no |
 
 ## Ahobammɔ wɔ stage yi mu
 
-Nnuanom ne aduane a ɛtɔ wɔ dementia a ɛdi akyiri mu betumi aba ɔhaw, na National Institute on Aging ka sɛ, eyi ma nnɛyɛ a ɛyɛ den sɛ obi bɛtumi aguare. Mma nneɛma ketewa nnyɛ wo nsa mu, na ma biribiara a wɔde bɛma aduan anaa nsuo no nni nkyerɛkyerɛ a ayaresa adwumfoɔ de ma. Hwɛ honam fam ahoɔfɛ, efisɛ honam betumi apɛ anaa abɔ n'ahoɔ nyinaa. Sɛ wopɛ ahoɔfɛ nneyɛe a ɛfa honam fam ho ahodoɔ a, hwɛ [nneyɛe a ɛfa honam fam ho](/activities/sensory/).
+Nkɔsoɔ ne nsɛm a ɛfa nsa so mu nso bɛyɛ den wɔ akyiri stage mu, na National Institute on Aging ka sɛ eyi ma ɛyɛ mmerɛw sɛ ɔbɛtɔ nneɛma a ɛyɛ hyɛ ɔkɔm. Nnfa nneɛma ketewa a ɔrebɛfa nkɔɔ ne nsa mu. Fa nnuan anaasɛ nsuo a ɛfata nkyerɛkyerɛ a nnipa a wɔhwɛ no akyerɛ ma no. Hwɛ ne honam pa sɛ wobɛyɛ nkɔsoɔ a ɛfa honam so ho. Ɛwɔ sɛ honam no ntumi nni, na ɛyɛ ntɛm sɛ ɛbɛpaa anaasɛ ɛbɛboboa. Ma wo nni [nneɛma a ɛfa ahoɔ ho](/activities/sensory/) ho nkɔsoɔ, nkyerɛ nneɛma a ɛyɛ dɛ.
 
-## Hwɛ wo ankasa nso
+## Hwɛ wo ho nso
 
-Ɔdwumadie a wɔyɛ wɔ dementia a ɛdi akyiri mu hia honam ne adwene, sɛ wobɛyɛ no wɔ fie anaa wɔ ntiaso. Ayaresa ne ahoɔfɛ adwumfoɔ betumi aboa wɔ ahoɔfɛ, ahobammɔ ne nhyehyɛe mu, na NIA kyerɛ wɔn sɛ wɔn ne nnipa a wɔbɛboa. Mmere ketewa a ɛyɛ ahoɔfɛ a wobɛsra no yɛ adwuma; hwɛ [dementia wɔ obi a ɔwɔ no nkyɛn](/activities/visiting/). Sɛ wukyerɛkyerɛ mpanimfoɔ a, [nneyɛe ma ntiaso mmoa](/activities/care-home-groups/) wɔ nkyerɛkyerɛ a ɛboa sɛ wobɛsesa nhyehyɛe. Na ɛsɛ sɛ wuhwɛ [ankasa hwɛ wo ho](/caregiving/caregiver-self-care/): ahomegyeɛ yɛ nea ɛma wotumi hwɛ obi yie.
+Dementia akyiri stage mu hwɛ no yɛ adwuma wɔ honam ne adwene mu, sɛ wɔ fie anaasɛ wɔ ɛberɛ a wɔrekɔ hɔ baa abusua a wɔwɔ fie a wɔhwɛ wɔn no mu. Hospice ne palliative care nnipa a wɔboa wɔ ahoɔfɛ, nkyerɛkyerɛ ne nhyehyɛe ho, na National Institute on Aging kyerɛ sɛ wɔyɛ boafo. Mmere tiaa, nkɔsoɔ a ɛyɛ dɛ wɔ hɔ bɛyɛ fɛ; hwɛ [dementia ho ne nnipa a wɔhwɛ ɔyaresa so](/activities/visiting/). Sɛ wodi asɔfohwɛ mu, [nneɛma a wɔyɛ wɔ asɔfohwɛ mu](/activities/care-home-groups/) wɔ nneɛma a ɛboa sɛ wobɛsesa ɛkwan. Na ka [wo ho hwɛ](/caregiving/caregiver-self-care/) ho nkɔsoɔ: ahomegyebɔ ne ɛyɛ wo ho adwuma a ɛyɛ ɛpɛ.

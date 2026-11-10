@@ -1,35 +1,35 @@
 ---
-title: "Demencia jaqinakatakix jaya urunaka, Thanksgiving uruw"
-seoTitle: "Jaya uru ukat Thanksgiving amuyunaka demencia jaqinakatakix"
-description: "Demencia jaqinakatakix sasa jaya urunaka: manq'a lurañanaka, uñt'awinaka, arsu, uma q'uma ukat jaqinakampi parlaña, sapxam sum Thanksgiving jan Navidad jaya uru amuyañataki."
+title: "Navidad ukat Año Nuevo: demencia uñjat jaqinakatakix lurañanaka"
+seoTitle: "Navidad ukat Año Nuevo lurañanaka demencia uñjatanakatakix"
+description: "Demencia uñjat jaqinakatakix sasa lurañanaka: manq'a lurañ, adorno, taqi uñt'añanaka ukat sum Navidad jan ukax Año Nuevo sarañataki amuyt'añanaka."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Jaya urunakax jisk'a, uruxa nayra pacha ukat jaqi sarnaqañ thakhinakaruw
-  sarañapawa. Jaqinakaruw chiqapar, jan ch'amani lurañ churañapa, kunjamtix
-  aruma mesa uñt'aña, uma q'uma ch'uwaña, qillqat ch'uqaña jan ukax uta
-  q'uñuña. Jaqinakampi arsu ukat walja uñt'awinaka uñt'ayañapa, jutirinakar
-  ukhamarak jaqi uñjir jaqinakaruw yatichañapa, ukat jan yaqhip qhiri qhiri
-  utaxa amuyt'añapa. Kunsa ch'amampi lurasma ukanak lurañapa; jisk'a, sum
-  jaya uruxa walikiwa.
+  Fiesta urunakax juk'amp sasa, qhipürux uñtañ pacha ukat jaqin sapa uru
+  sarnaqañaparu sum sarañ. Jupar chiqpach ukat wali sasa lurañ churañamawa,
+  kunjamasa manq'a churañ, lurañ jan ukax adorno sayañ. Yatiyata taqi
+  yatiyata t'aqanaka ukat walja uñt'ayañanaka uñt'ayañamawa, jutirinakar
+  sum amuyt'añamawa, ukat ch'ulla sarnaqañ utaru ch'uqt'añamawa. Jumar
+  chiqpach lurañanakaru ch'amañchasiñamawa; juk'a, jan ch'iqhi fiesta sum
+  fiesta ukhamawa.
 keyPoints:
-  - "Jaya urunak nayra pacha lurañapa, kunjamtix qhipa pacha ukat chhiqi pacha jan amuyt'asiñ nayrar ukhamawa, kayu jaya awatiri jan ukax jaya manq'a ukhamarak."
-  - "Chiqapar lurañanaka churañapa: mesa uñt'aña, uma q'uma ch'uwaña, qillqat ch'uqaña, uñt'awinaka churaña jan ukax manq'a qhusa churaña."
-  - "Arsu, Navidad qamañ taqunakaru ukat walja uñt'awinaka jaqinakar jaya uru amuyañataki sum thakhiwa."
-  - "Jutirinakar yatichañapa kunsa uñjañapa, ukat jaqi uñjir jaqinakan uñt'awinaka uñt'ayañapa."
-  - "Jaqinakatakix jan ch'ama uta, ukax manta ch'iqa thuqu ukat qawqha jaqinakampi mantañapa; jaqi wali sum uñjañapa, ukat jan saphi."
-  - "Jan ch'amani lurañanak sarnaqañapa, kunjamtix jach'a uñt'awinaka ukat wali jach'a q'añu ch'uwañanaka."
+  - "Qhipürux uñtañ pachan fiesta lurañamawa, kunjamasa almuerzo jan ukax desayuno, uñjatanakax qhipürux ch'iqhi sarnaqañ wakiskiwa."
+  - "Chiqpach lurañanaka churañamawa: manq'a churañ, uma q'ara wali sayañ, aykañ jan ukax postre churañ."
+  - "Yatiyata t'aqanaka, Navidad jach'a t'aqanaka ukat walja uñt'ayañanaka sasa mayt'añ thakinakawa."
+  - "Jutirinakaru yatiyañamawa, jupanakaru uñt'ayañamawa sapa jaqi jut'ata uñtasiñataki."
+  - "Ch'ulla sarnaqañ utaru manta jach'a ch'uqt'añamawa, uñt'ayañanaka jaqinaka sapa kuti ch'iqhiwa."
+  - "Jan sasa lurañanaka mayt'añamawa, janiw k'achhu uñjañanakaru ni wali k'achhu ch'iyar k'ankanakaru."
 faq:
-  - q: "¿Kunsa demencia jaqix Thanksgiving uruna lurañapa?"
-    a: "Jupar ch'amanchaskani ukhaman chiqapar, jan ch'amani lurañ churañapa: uma q'uma ch'uwaña, sarata uma jaq'ayaña, mesa uñt'aña, aruma q'uma ch'uwaña jan ukax manq'a qhusa churaña. Qhipatxa, walja uñt'awinaka uñjañapa jan ukax sapa arsu arsuñapa. Lurañan wali uñjatapax jan kunjamtix lurat juk'amp ukasa, jaya urun cheqapar uñjatapawa."
-  - q: "¿Walja jaqinaka uñtasiñax sumawa?"
-    a: "Sumas uñjataw wali sarnaqañ ukhamarak. Jach'a jaqinakan jan ch'amani parlañapax jaqi jaranaka uñjañ qhiparu, ukatwa walja jaqinaka jisk'a jisk'a ch'uqañ jan ukax nayra pacha manq'a qhusa. Alzheimer's Association yatichistu jaqi uñjirinakaru chiqapar ukat jan ch'amani lurañ kunsa ch'amampi lurasiñapa."
-  - q: "¿Kunjamasa jutiri jaqinakar yatichañapa, jupanakax jaya jawsaña?"
-    a: "Mayaqatx jutañapkama yatichañapa kunanakatix uñjapxañapa, jupanakax jaqimpi kunjamasa tuku mayjt'at amuyt'apxañapa. Jan yant'añ jan ukax jan jiskhañ mayiñapa, mayni mayniw parlañapa ukat sapa parlañatak pacha churañapa. Jaqi uñjir jaqinakan uñt'awinakap nayra pacha uñjayañapa, ukax yanapt'añapa."
-  - q: "¿Kunsa churañapa jaya uru demencia jaqinakatakix?"
-    a: "Jisk'a, jan ch'ama kunanakaruw, kunsa jichhürux kusisiñataki: suma t'ant'a, qarwa ch'uxña jan ukax aynacha, arsu ukat walja uñt'awinaka, jan ukax jaqinakan uñt'awi qillqat. Jan jan ch'amani nuwasiñanak, lluqhanak jan ukax jaqi yatiñanak juk'ampi mantañapa. Jupanakar churañat ukax, qillqat ch'uqañat jan ukax yanapt'añanaka, wali sumawa."
+  - q: "¿Kunsa demencia uñjat jaqix Navidad uru lurañ puedi?"
+    a: "Jupar ch'ulla ukat sum lurañ churañamawa, jichhürunakan lurañ puedi ukar: uma q'ara wali sayañ, manq'a ch'aqhañ, manq'a churañ, servilleta t'aqhisiñ jan ukax postre plato churañ. Qhipharux, awkinakan uñt'añ photonaka uñtañamawa jan ukax taqi yatiyata t'aqanaka t'aqañamawa. Fiesta uru jakañan askinakapa, lurañan kunjamas tukuñapa uka janiw wakiskiti."
+  - q: "¿Jani jach'a familia tantachañ wakiskiti?"
+    a: "Sum puedi ukhax tantachañ. Walja jaqinaka ukat k'achhu jan ch'iqhi, ukhamaw walja familia qhipürux ukat ch'ulla tantachañ, jan ukax jutirinakax juk'ampinaka mantañ. Alzheimer's Association ukax wakiskiriwa ukhamaraki jupanakan puedi ukar sum lurañ jan jaqhachañataki."
+  - q: "¿Kunjamasa mayni familia, jan jutapxitu ukanakar, amuyt'añ?"
+    a: "Jutapxañ uru sañamawa, kuna uñjañanaka uñjapxañ ukanakan, ukanakax demencia nayrat uñtasiñ mayapxi, jan jaqi lurañat. Jupanakaru mayaña, jan chiqapar sarañ jan jan ukax jan uñjasiñ, sapa kuti parlañ, ukat parlañat mayt'añ."
+  - q: "¿Kunas Navidad uru demencia uñjat jaqinakatakix sum?"
+    a: "Ch'ulla, lurañ askinaka jichhüruw kusisiñataki: wali sum manq'a, ch'uxña kumbri jan ukax suwiyira, awki ukat familia uñt'ayañanaka. Jan k'achhu aparatonaka, jan ukax jaqinaka sum uñjañ jan ukax jaqhachañ jaqi uñt'ayañanaka jan lurañamawa. Jupanakaru irnaqañ, kunjamasa regalo wakhtañ jan ukax galletas wakhtañ, jupanakar ch'uqt'añ kuna regalo ukhamawa."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -42,64 +42,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Jaya urunakax amuyt'awinak apsuñapawa, ukhamarak jan ch'amani, walja jaqinaka ukat uru sarnaqañ sasa qhiparu. Demencia jaqinakatakix, sum jaya urunakax jisk'a, jan ch'amani ukat jupanakan ch'amampi lurasiñ wali sumawa. Ukax Thanksgiving, Navidad, Hanukkah, Año Nuevo ukat jaya cumpleaños ukanakan wali sumawa.
+Fiesta urunakax qhipürux uñtañanakaw apt'ani, ukhamarak jaqhar jaqhunaka, k'achhu ukat uru sarnaqañanakan mayjt'awinakaw utjaspa. Demencia uñjat jaqitakix allin fiestanakax juk'amp sasa, juk'amp sum sarnaqañ ukat jupanakan puedi ukar lurañanakan sarnaqatawa. Aka yatiyatanakax Navidad, Año Nuevo, familiankir cumpleaños ukanakan sum irnaqapxi.
 
-## ¿Kunjamasa jaya uru sum amuyañ?
+## ¿Kunjamasa sum fiesta lurasma?
 
-Jaqin sarnaqañap nayrar uñjasa uru amuyañamawa. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) yatichistu jaya urux nayra pacha lurañapa, kunjamtix qhipa pacha amuyt'asiñ ukat jan sum uñjasiñ jakhüntañ (sundowning ukhamaraki sasa). Jaya awatiri jan ukax manq'a qhusa nayra pacha, ukax jukhutatakix juk'ampi sumawa.
+Jaqin sarnaqañapar qalltasma, uru lurañanakax ukar sarnaqañapat. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) ukax yatichañ: fiesta qhipürux uñtañ pachan lurañamawa, kunatix ch'iqhi ukat jan amuyt'añ qhipa uru ukat tuqi uru mayjt'awinakaw. Qhipürux almuerzo jan ukax desayuno, qhipa uru wali sasa mantañ sum.
 
-- **Jaqinakar jisk'a churañapa.** Jisk'a, jan ch'amani jaqinakan utjañapa, jan ukax mayni mayni utt'añapa, walja mesa jan ch'amani sarañapa.
-- **Lurañanak churañapa.** Jutirinakar manq'a apsuñapa, sarañapa, jan ukax jaqi uñjañapa uma q'uma ch'uwañ sarañat. Kunsa yanapt'añapa uñt'ayañapa.
-- **Uñt'awinaka jisk'a lurañapa.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) yatichistu uta qhanawinaka jan sum uñjañatakix, ukhamarak dulce jan ukax jisk'a frutanaka uñt'awinakaruw jan manq'a ukhamaw amuyasiñapa.
-- **Kunanakax jaytañapa.** Jan ukax jaya ukax jan ch'amani jan ukax jan wali sarnaqañ ukax, jaytañapa jan ukax jisk'a sum sarnaqañ ukax sumawa.
+- **Chiqpach tamaña lurañ.** Ch'ulla, jan k'achhu tantachañ jan ukax jutirinakax juk'ampinaka mantañ, walja jaqinaka mesa uñt'añat sasa.
+- **Irnaqañanaka churañ.** Jutirinakar mayt'añamawa: manq'a aptañ, uma q'ara lurañ jan ukax jaqi uñt'añ kuna lurañ wakisi uka.
+- **Adornonaka ch'ulla tukuñ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) ukax yatichañ, k'ankanak ch'iqhi ch'uqt'asi, ukat dulce jan ukax fruta artificial uñjasa jan chiqpach mantañ uñjatäpxi.
+- **Kuna jan lurañ ukanakax jaytañ.** Sasa mayni yatiyata jan ukax uñt'ayañ jan wali sañ ukanakax jaytañ, ch'ulla ukat jan sasa uka lurañ ukanakax sum.
 
-## ¿Kunsa jaya urunak sapa mayni lurasna?
+## ¿Kuna fiesta lurañanakas tantachasa lurasma?
 
-Jaqi kunsa lurañ ch'amanchaskani ukanak ajllisiñapa. Lurañan wali uñjatapax jan kunjamtix lurat ukanakampi juk'amp ukax.
+Jaqin puedi ukar lurañanaka ajllista, kunatix jichhüruw lurañ puedi ukanakaw. Jupan kuna lurañ tukuñapa ukat janiw wakiskiti, jupa fiesta uru sarañaw wakisi.
 
-1. **Mesa uñt'aña.** Nayra platos churañapa, ipaxa servilleta, ipaxa vasos. Servilleta q'uñuña ukax sum lurañawa.
-2. **Uma q'uma ch'uwaña ukat ch'uqaña.** Papa mayaña jan ukax uchu jan ukax judías ch'uqaña ukax jaqinakan uta uñt'awinakanx sumawa.
-3. **Ch'uwaña, mixtaña jan ukax platos churaña.** Arándano lurañat ch'uwaña, jisk'a bizcocho mixtaña jan ukax galletas platos churaña ukax suma.
-4. **Regalo q'uñuña.** Papel ukat cinta jisk'a ch'uqaña, jaqi jan ukax ch'uxña q'uñuña. Wali sum q'uñuña janiw kuna jach'a ukax.
-5. **Walja uñt'awinaka churaña.** Jan p'akjasiñ uñt'awinaka ajllisiñapa, jisk'a chiqa jan ukax jisk'a arbolitu.
-6. **Jisk'a lurañanaka.** Papel cadenas, hojas collage jan ukax jaya qillqat sellonakampi. [Arts and crafts guide](/activities/arts-and-crafts/) walja amuyunaka uñjañapa.
-7. **Arsu ukat ist'aña.** Navidad arsunak ukat jaya arsunak jaqinakax sapa mayni arsuñapa, jan ukax jaqi jan walja parlkani ukhamakiñapa. [Music guide](/activities/music/) uñjañapa, playlist luraña.
-8. **Nayra jaya uruna uñt'awinak uñjaña.** Nayra jaya urunakan álbum apsuñapa, ukat "Uka mesa kunjamasa?" sasa jutiri parlañapa, jan ukax "Kawkiri jaqitix?" sasa jawsañapa. [Reminiscence guide](/activities/reminiscence/) uñjañapa.
-9. **Jisk'a sapa mayni juego.** [Picture bingo](/games/picture-bingo/) jisk'a minutunakan imprimirasiñ, walja mayisa ukat [conversation cards](/games/conversation-cards/) mayni mayniru parlañataki.
-10. **Sapa mayni colorear.** Jisk'a [coloring pages](/games/coloring/) imprimirasiñapa, wawanakampi ukat jaqinakampi mesa qhipan sapa mayni lurañataki.
-11. **Jaya uruna uñt'awi jach'a qillqat.** Jisk'a jaya qillqat ukax samarañ, jan ukax wali uñt'awinaka jisk'a uñjañapa, mayja jan ukax taqi uñjañapa.
-12. **Jisk'a sarañ luces uñjañataki.** Jan walja jaqi uñtasiñ jakhüntañ, jisk'a sarañ luces uñjañapa ukax sumawa.
+1. **Mesa tantachasa churasma.** Qalltanx platonak, ukat servilletanak, ukat qalanak churasma. Servilleta t'aqhisiña tuqi ch'iqhi sarañ.
+2. **Uma q'ara ukat wali ch'uqt'asma.** Papa mayt'asa jan ukax ch'uyñu uma q'ara sañ uru, mesa uñjañ, walja jaqinakatakix sum ukat yatiri ukhamawa.
+3. **Ch'aqhañ, aptañ jan ukax plato churañ.** Arándano salsa ch'aqhañ, ch'ulla massa aptañ jan ukax galletas plato churañ, amparanakax k'achhu ukat cuchillu jiwasat sayt'asi.
+4. **Regalo wayt'añ.** Papel ukat cinta ch'uqt'asma, jaqi tuqinkaña ukat ch'amañchasiña. Wali wayt'añ janiw wakiskiti.
+5. **Juk'a adornonaka churañ.** Jan t'aq'asiñ ornamentonaka ukat juk'a sitio, sasa corona jan ukax juk'a aliso sarañ.
+6. **Ch'ulla manualanaka lurañ.** Papel cadenanaka, qhulla collage jan ukax estampillanakampi Navidad kartilla. Jilan [arts and crafts guide](/activities/arts-and-crafts/) ukanx walja yatiyatanakaw utji.
+7. **Taqi jan ukax t'aqañ.** Walja Navidad t'aqanaka sasa thakhinakaw, jaqi jan walja parlañ puedi ukhanakax mayt'añ puedi. Playlist lurañatakix [music guide](/activities/music/) ukar uñtasma.
+8. **Nayra fiesta uñt'ayañanaka uñjaña.** Mayjt'awinakar album apasma, ukat ist'añ mayt'asma ("Aka mesa ukat yatiyasiñamawa") janiw "Kuna jaqisa?" sasa. [reminiscence guide](/activities/reminiscence/) ukax kunjamasa lurañ yatichi.
+9. **Juk'a grupo juego lurañ.** [Picture bingo](/games/picture-bingo/) ukax minutonakan imprimirasiñ puedi, taqi jaqinakatakix sum, ukat [conversation cards](/games/conversation-cards/) ukax taqinakar parlañ yatiyatanakaw churi.
+10. **Chiqpach colorear.** Sasa [coloring pages](/games/coloring/) imprimisma, wawanakampi jilanakampi mesa uñjañataki.
+11. **Navidad uñt'ayaña kuna uñt'asma.** Walja uñt'ayañ jaqinakaru sum, jan taqi uñt'asiñ ukat sasa uñt'asma.
+12. **Juk'a sarañ luces uñtañataki.** Jan walja jaqi uñt'ayañ ukat jach'a adornonak uñjañ juk'a sarañ, ukax jan ch'iqhi ukat sum.
 
-Jaqi lurañan jach'a sarnaqañapa ukhaman, [household tasks guide](/activities/household-tasks/) uñjañapa, uta lurañanaka sum ukat sum amuyañataki.
+Jaqix sukat lurañanakan sarnaqatatäna ukhax, [household tasks as activities](/activities/household-tasks/) ukax cocina lurañ sum ukat sum amuyt'añ yatichi.
 
-## ¿Kunjamasa jutirinak yatichañapa?
+## ¿Kunjamasa jutirinakar amuyasma?
 
-Jutirinakar jaya uruna nayra pacha yatichañapa, khäñapa ukhamarak jan walt'ayaña ukanakar. Alzheimer's Association yatichistu, uñjatanakax demencia nayra pacha lurañ ukat jaqi lurañanak uñjatanakax jaqi jan jani, jan ukax jaqi uñjir sarnaqañat utjaskañapa.
+Jutapxañ uru jutirinakar yatiyasma, jupanakax jan jutapkañ nayranakan. Alzheimer's Association ukax yatichañ: uñjañanakax jaqi lurañat jan ukax demencia nayrat utjatapa yatichañamawa.
 
-- **Pä chiqa yatichañanakat:** mayni mayni parlañapa, jupax tukuyañ pacha churañapa, jan yant'añ jan ukax jan jawsañ, ukat jaqi arunakap sum uñjañapa, arunak jan sasa ukhaman.
-- **Kunsa sumpacha, kunsa jan sumpacha uñt'añapa.** Jach'a arunaka, jan ukax jan sum jaqi amuyañ wali jan sum ukat jan ukax jaqinakar jan sum uñjañapa, ukanak yatichañapa.
-- **Jutirinakar nayra pacha uñt'ayañapa.** Jaqi uñjañapa jutirinakan álbum uñjañapa, jan ukax juk'a parlañapa jan ukax phone jan ukax video llamada nayra pacha lurañapa.
+- **Juk'a yatiyawinaka churasma:** sapa kuti parlasma, lurañ tukuñ pacha churasma, jan jan ukax jan uñjasiñ, jaqi parlañ jan wali ukhax uñt'asma.
+- **Kuna sum ukat kuna jan sum uk yatichasma.** Jan ist'añ ch'iqhi jan ukax jan utjaña uñjañanaka sarnaqañ jan wali ukhax, uk yatichasma.
+- **Jutirinakar qalltanx yatichasma.** Jutapxañ jaqinakan uñt'ayañanakap uñjasma, jan ukax juk'a telefono jan ukax video llamada qalltanx lurasma.
 
-[Communication tips](/caregiving/communication-tips/) uñjañapa, walja amuyunaka.
+Jilan [communication tips](/caregiving/communication-tips/) ukax walja yatiyatanakaw utji.
 
-## ¿Kunsa jan ch'amani pachana sapxa?
+## ¿Kunas jan ch'iqhi ukhax lurasma?
 
-Jan walja jaqinakan jisk'a uta sarnaqañapa, jan ch'amani uñjañataki, jisk'a uta ukar mantañapa, ukax manta jisk'a uta. Uta jisk'a, jan ch'amani sarnaqañapa, aruma q'uma jan ukax jisk'a uñt'awinaka churañapa. Sapa uñjataxa arsuñapa: "¿Jisk'a sarañ sarañapa jaya q'uma?"
+Qalltanx ch'uxña, jan walja jaqi utjañ, aka utanx sarnaqañ, awkinakan kumbri jan ukax suwiyira ukat ch'ulla juego ukhamaw utjañ. Sum sasa jaqhachasiñ jan utjañataki, jupa jaqi qalltat, jiwasan ist'añanakas mayt'añ.
 
-Mesa jaytañ, nayra pacha puriña jan ukax jaya ukax jan sum lurañ, jan ukax juk'a uñt'añ, ukax jan lurañ ukhamakiñapa, sum uñt'añapa. Jaqi jan ch'amanit ukhaman, arunak jisk'a ch'uwañ, arsu jan ukax jisk'a sarañ thakhi, walja wali yanapt'añapa. [Late-day restlessness guide](/caregiving/late-day-restlessness/) uñjañapa.
+Mesa sarañ, nayra puraña jan ukax juk'a lurañ jaytañ, janiw jan askiti. Jaqi ch'iqhi ukhax, sum ist'añ, uñt'ayañ ukat juk'a sarañ jan ukax taqi amuyt'añat sum. Jilan [late-day restlessness](/caregiving/late-day-restlessness/) ukax qhipa uru ukanakan yatiyatanakaw utji.
 
-## ¿Kunjamasa jaya jutirinakax jaya uruna uñt'asiñ?
+## ¿Kunjamasa sayt'ata familia jutañapa?
 
-Video llamadanakax jutirinakar walja jaqinakan jan ukax uta sarnaqañan jan ch'amani uñtasiñapa. Alzheimer's Association yatichistu llamadanakar sum thakhi churañapa, kunjamtix arsu jaya arsuñ, nayra jaya uruna uñt'awinaka uñjañ, jan ukax mayni lurañanak mayni uru lurañ. Llamadanakax jisk'a churañapa, mayni mayniw parlañapa, ukax suma. [Phone and video call guide](/activities/phone-and-video-calls/) uñjañapa.
+Video llamada ukhamax jaqinakax tantachañ jan walja jaqi mantañ. Alzheimer's Association ukax yatichañ: llamada ukanakax sum sarañ, kunjamasa Navidad t'aqanaka t'aqañ, nayra fiesta uñt'ayañanaka uñtañ, jan ukax chiqpach mayni lurañ sum ukhamaw. Llamada juk'a ukat sapa kuti parlañ, sasa parlañ ukat ist'añ wakiskiti. Jilan [phone and video call guide](/activities/phone-and-video-calls/) ukax sasa yatiyatanakaw utji.
 
-Jaqi uñjir jaqinakan jakasiñapax, visitas kamachinakap uñjañapa, jan ukax jaqi uñjir jaqinakar yanapt'añ llamada lurañ. [Visiting guide](/activities/visiting/) uñjañapa, kunsa apsuñapa ukat kunjamasa jaytañapa.
+Jaqix residencia uñjañ jan ukax memory care utanx utjatäna ukhax, visita policy uñjasma ukat trabajadornakar yanapt'añ mayt'asma. [visiting someone in memory care](/activities/visiting/) ukax kuna apañ ukat kunjamasa sum sarañ yatichi.
 
-## ¿Kunsa regalo demencia jaqinakatakix sumawa?
+## ¿Kuna regalos demencia uñjat jaqinakatakix sum?
 
-Jisk'a, jan ch'ama regalonak jichhürux kusisiñataki sum: suma t'ant'a, qarwa ch'uxña jan ukax aynacha, arsu, jisk'a letra ukax calendario, jan ukax jaqinakan uñt'awi álbum. Alzheimer's Association yatichistu jan ch'ama uywa, jan ukax jan yatiñ electrónicos, jan ukax juegos jan sum sasa.
+Ch'ulla, lurañ askinaka jichhüruw kusisiñataki sum: wali sum manq'a, ch'uxña kumbri jan ukax suwiyira, t'aqanaka, juk'a letra calendario ukat familia uñt'ayañ album. Alzheimer's Association ukax yatichañ: jan k'achhu herramientanaka, jan jaqhachañ aparatonaka ukat jan jaqhachañ juegonaka jan lurañamawa.
 
-Regalo churañax jaqinakar jach'a sum. Galletas jaqi lurat apsuñapa, jan ukax jaqi regalo q'uñuñapa, ukax jupar jaya uruna mayisiñapa. [Photo pairs](/games/photo-pairs/) uñjañapa, jisk'a uñt'awinaka jisk'a juego ukat jaya uruna walja kusisiñ.
+Regalo churañax jupanakar apañ kuna askiw. Jupa yanapt'ata galletas apañ jan ukax jupar regalo wayt'añ, jupa pacha tantachasiñataki sum. [photo pairs](/games/photo-pairs/) ukax familia uñt'ayañanakampi juego lurañ ukat jupanakar sum.
 
-## Qhipa amuyasiñ, jumatakix
+## Jumapachas amuyt'asma
 
-Jaya urunakax jaqi uñjañ lurañanakar walja llamaki. Jumax jan ch'amani sarañat, mayni mayni lurañ churañapa, ukat jamasa samarañ. Jaqi uñjir ukat jaqi uñjata jan sum jakasi ukhaman, jisk'a uñt'awi jan ukax video llamada sum mayisiñawa. [Caregiver self-care guide](/caregiving/caregiver-self-care/) uñjañapa, walja yanapt'awinaka.
+Fiesta urunakax jaqi uñjañ lurañanakaw walt'ayi. Jutirinakar lurañ churasma, jan wali lurañanakar sisma, ukat jupanakax jaqi uñjasa jumaxa samar sartañ. Jumax jan allinkaspa jan ukax jaqi uñjata jan allinkaspa ukhax, jan jutasiñ jan ukax video llamada jupanakar uñjañaw sum. [caregiver self-care](/caregiving/caregiver-self-care/) ukax walja yanapt'awinakaw utji.

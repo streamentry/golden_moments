@@ -1,28 +1,28 @@
 ---
-title: "Ol Erli Sain blong Dementia mo Taem blong Lukim Dokta"
-seoTitle: "Ol Erli Sain blong Dementia mo Taem blong Lukim Dokta"
-description: "Ol komon erli sain blong dementia, hamas oli difren from senis blong olfala, ol trabol blong memori we oli save trit, mo hao blong redi long apointmen wetem dokta."
+title: "Ol Sain Blong Dementia mo Taem Blong Lukim Dokta"
+seoTitle: "Ol Sain Blong Dementia mo Taem Blong Lukim Dokta"
+description: "Ol komon fas sain blong dementia, hao oli defren long laef blong ol man we oli olfala, ol kondisen we oli save heleim, mo hao blong redi long apointmen wetem dokta."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Lus blong memori we i bagarapem laef blong ded, ol hard taem blong mekem ol samting we yu save finis, konfiuzen long taem o ples, mo senis long fil mo tingting, oli save kam olsem erli sain blong dementia. Plante narafala sik oli save mekem ol senis olsem, olsem ol trabol blong tyroid, lo vitamin B12, sanem medisin, sik blong bel tingting mo trabol blong slip. Onle wan dokta we i gat skul i save mekem dagnosis. Sudden konfiuzen i nidim helpe blong dokta kwik.
+  Lus blong memori we i brokem laef blong ol dei, hard blong mekem ol wok we yu save finis, konfiuse long taem o ples, mo ol jenis long fil o tingting, oli save wan fas sain blong dementia. Plante narafala sik, olsem problem blong tirod, lo vitamin B12, side efek blong medisin, sed mo problem blong slip, oli save mekem ol sem jenis. Nomoa wan kwalifaed dokta i save mekem dagnosis. Konfiuse we i kamaot kwik i nidim hevi medikol kea.
 keyPoints:
-  - "Sam taem fogetful i komon long olfala; senis we i bagarapem laef blong ded oli gud blong jekem."
-  - "Alzheimer's Association i talem 10 warning sain, wetem wan komon senis long olfala blong kompea."
-  - "Tyroid trabol, lo vitamin B12, sanem medisin, sik blong bel tingting, enfeksen mo trabol blong slip oli save bagarapem memori, mo sam long olgeta oli save trit."
-  - "Onle wan dokta we i gat skul i save mekem dagnosis blong dementia; ol kwiz long intanet mo ol tes blong yu wan nomo oli no save."
-  - "Konfiuzen we i kamap kwik, long ol aoa o ol dei, i save kam blong delirium mo i nidim helpe blong dokta kwik."
+  - "Sometaem fogetem samting i komon long hae blong laef; ol jenis we oli brokem laef blong ol dei oli gud blong lukluk."
+  - "Alzheimer's Association i talem 10 sain blong wan, wetem wan komon jenis long hae blong kompea."
+  - "Problem blong tirod, lo vitamin B12, side efek blong medisin, sed, infeksen mo problem blong slip oli save afektem memori, mo sam long olgeta oli save heleim."
+  - "Nomoa wan kwalifaed dokta i save mekem dagnosis blong dementia; ol kwiz long intanet mo ol test blong yu wan oli no save."
+  - "Konfiuse we i kamaot kwik, long ol aowa o ol dei, i save wan delirium mo i nidim hevi medikol kea."
 faq:
-  - q: "Eso fogetful i part blong olfala?"
-    a: "Sam i part. National Institute on Aging i talem se sometaem yu lusum samting o fogetem bil, i yusualy i smol fogetful blong olfala. Dementia i no part blong olfala. Ol trabol blong memori we i mekem ol ded olsem drive, yusum fon, o painim rod blong go hom i hard, i gud blong jekem wetem dokta."
-  - q: "Eso ol trabol blong memori i save kam from narafala samting, no from dementia?"
-    a: "Yes. National Institute on Aging i lisim ol trabol blong tyroid, kidni o liva, sanem medisin, sik blong bel tingting mo fraet, lo vitamin B12, daranem alkol, trabol blong slip, enfeksen mo hed bruk, mo narafala. Sam long olgeta oli save gud moa taem oli kasem trit, mo dat i wan rịzn we medikol jek i impoten."
-  - q: "Eso mi save testem wan man blong dementia long haus?"
-    a: "No. Onle wan dokta we i gat skul i save mekem dagnosis blong dementia, i yusum medikol histri, fisikol jek, tes blong memori mo tingting, tes long leb mo sam taem brein skan. Ol sof tes we dokta i yusum i no gat strong blong mekem dagnosis blong dementia nomo."
-  - q: "Wat mi mas duim sipos wan man i kwik kwik i konfius?"
-    a: "Kasem medikol helpe nao. Sudden konfiuzen i save kam blong delirium, we VA i talem i wan medikol emergency. Kolem health keyə provaeda blong man ya nao o kolem emergency namba blong ples ya, stap wetem hem, mo raetem daon ol medisin we hem i tekem."
+  - q: "Waes fogetem samting i wan nomol pat blong olfala?"
+    a: "Sam i nomol. National Institute on Aging i talem se sometaem misplesem samting o fogetem wan bil i usualem wan lait fogetfulness we i kam wetem hae blong laef. Dementia i no nomol pat blong hae blong laef. Problem blong memori we i mekem ol wok blong ol dei olsem draev, yusum fon o faenem rod blong go bak hom i hard, i gud blong jekem wetem dokta."
+  - q: "Ka memori problem i save kamaot from sam samting narafala, no dementia?"
+    a: "Yes. National Institute on Aging i lisim tirod, kidni o liva problem, side efek blong medisin, sed mo nevos, lo vitamin B12, rong yusum blong alkol, problem blong slip, infeksen mo hed hit, mo ol narafala. Sam long olgeta oli save gud bakegen taem oli kea long olgeta, and hemia wan risen we medikol jekap i impoten."
+  - q: "Ka mi save testem wan man blong dementia long hom?"
+    a: "No. Nomoa wan kwalifaed dokta i save mekem dagnosis blong dementia, from medikol histri, fisikol jekap, test blong memori mo tingting, lab test mo sometaem skan blong bren. Even ol sotfala test we ol dokta i yusum oli no enaf long herem wan dagnosis blong dementia."
+  - q: "Wat mi mas duim sapos wan man i kwiktaem konfius?"
+    a: "Kasem medikol help long rot. Konfiuse we i kamaot kwik i save wan delirium, we VA i talem i wan medikol emeajensi. Kolem heltkea provaedA blong man ya long rot, o kolem 112, stap wetem hem, mo noutem evri medisin we hem i tekem."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -50,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Lukim ol senis long memori blong yu, o long memori blong wan man we yu laekem, i save fraet. Pej ya i save helpem yu blong save wanem taem i gud blong mekem apointmen wetem dokta mo hao blong redi long hem. Hem i no save talem yu se wan man i gat dementia o nating. **Onle wan dokta we i gat skul i save mekem dagnosis blong dementia**, mo plante sik we i mekem trabol blong memori i no dementia nating. Plis no bilif long ol kwiz long intanet o ol tes we yu mekem yu wan.
+Taem yu lukim jenis long memori blong yu, o long memori blong wan man we yu laekem, i save fraetem yu. Pej ya i save helpem yu blong fasem taem blong go lo dokta mo hao blong redi long hem. I no save talem yu sapos wan man i gat dementia o nomo. **Nomoa wan kwalifaed dokta i save mekem dagnosis blong dementia**, mo plante kondisen we i save mekem problem blong memori oli no dementia nating. Plis no bilif long ol kwiz long intanet o ol self-test.
 
-## Wanem ol erli sain blong dementia?
+## Wanem ol fas sain blong dementia?
 
-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) i talem 10 erli sain. Hem i putum wan-wan long wan komon senis long olfala blong kompea. Long ol wod blong yumi:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) i talem 10 fas sain. Oli putum wan-wan long wan komon jenis we i kam wetem hae blong laef, blong oli kompea. Long ol wod blong mifala:
 
-| Sain we i gud blong jekem | Moa komon long olfala |
+| Sain we i gud blong lukluk | Komon wetem hae blong laef |
 | --- | --- |
-| Lus blong memori we i bagarapem laef blong ded, olsem fogetem ol resent samting o askem sem kwestin oltaem | Sometaem fogetem nem o apointmen, be remembarem bihaen |
-| Hard blong planem o solvem problem, olsem folem wan famili resipi o keepem tab long bil | Wan taem nomo i mekem mistek long ol bil blong hom |
-| Hard blong finisim ol famili taskis long hom, long wok o taem yu aotsaed | Sam taem i nidim helpe blong setem mikroweiv o sevem wan TV programe |
-| Lusum tabu long ol dei, ol season, o ples we yu stap | Fogetem wanem dei long wik, be bihaen yu ripemberem |
-| Niufala hard blong jajem distans, ridim, o tokem ol kala | Ol senis long ae from katarak |
-| Niufala trabol wetem ol wod, olsem stop long miljap long toktok o kolem ol samting long rong nem | Sometaem i hard blong faenem rat wod |
-| Putum ol samting long ol strenj ples mo no save painim ol stap blong yu | Lusum ol samting sometaem mo faenem bihaen long lukim ol stap blong yu |
-| Pua jajmen, olsem long mani o long fasin blong lukaotem bodi | Mekem wan pua disisen sometaem |
-| Lusum intres long ol hobi, wok, o ol sosol aktiviti | Sometaem i no fil blong go long famili o sosol aktiviti |
-| Senis long fil o fasin, olsem kenfiuzd, sospektem narafala, fraet, o wari | Gat ol set fasin blong mekem ol samting mo kros taem ol rutin i brok |
+| Lus blong memori we i brokem laef blong ol dei, olsem fogetem ol samting we i jes hapen mo askem sem kwestin oltaem | Sometaem fogetem nem o apointmen be remembarem bakegen behaen |
+| Hard blong plan o solvem problem, olsem bihaen wan resep we yu save long hem o kipim trak blong ol bil | Wan taem wan taem i mekem mistek long ol bil blong hom |
+| Hard blong finisim ol wok we yu save long hom, long wok o taem yu aotsaed | Sometaem i nidim help long setting blong maekrowev o long recodem wan TV sho |
+| Lus trak blong ol dei, ol season o ples we yu stap | Ronem nem blong dei long wik, be bihaen i stret bakegen |
+| Nyufala hard blong jajem distans, ridim o tokem ol kala | Jenis long ai from katarakt |
+| Nyufala problem wetem ol wod, olsem staptem tok long midol o kolem ol samting long rong nem | Sometaem i hard blong faenem rat wod |
+| Putum ol samting long ol ples we oli no komon mo i no save go bak long ol step blong yu | Misplesem ol samting sometaem mo faenem olgeta taem yu go bak long ol step |
+| Nogud jajmen, olsem wetem mani o wok blong klinim yu sef | Wan taem wan taem i mekem nogud disisen |
+| Pulumbak from ol hobi, wok o ol sosol akti | Sometaem i no wantem go long famli o sosol ivent |
+| Jenis long fil o pesonaliti, olsem i kamaot kwesen, sospek, fraet o wari | I gat ol fasin we oli stedi mo i kros taem rutin i brok |
 
-Wan sain nomo i no minim dementia. Pwen i wan **senis from wanem i normal blong man ya**, espesli wan we i mekem laef blong ded i hard.
+Wan sain nomo i no minim dementia. Pwen i blong wan **jenis from wanem we i nomol long man ya**, namely wan we i mekem laef blong ol dei i hard moa.
 
-## Hao senis blong olfala i difren from dementia?
+## Hao nomol long olfala i defren from dementia?
 
-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) i talem plante olfala i luk se oli tingting slo, o sometaem oli putum samting long ples we i rong o fogetem bil. Ol samting ya usually i sain blong smol fogetful. **Dementia i no part blong olfala.** Ol serious trabol blong memori i mekem ol ded olsem drive, yusum fon, o painim rod blong go hom i hard.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) i talem plante olfala oli harem se oli ritrivim ol samting slo moa, o sometaem oli misplesem samting o fogetem wan bil. Ol samting ya i usualem ol sain blong wan lait fogetfulness. **Dementia i no nomol pat blong hae blong laef.** Ol serius problem blong memori i mekem ol wok blong ol dei i hard, olsem draev, yusum fon o faenem rod blong go bak hom.
 
-NIA i sajestem blong toktok wetem dokta sipos wan man:
+NIA i sajestem blong toktok wetem dokta sapos wan man:
 
-- I askem sem kwestin oltaem
-- I lus long ol ples we hem i save gud
-- I harem blong folem resipi o direksen
-- I kenfiuzd moa long taem, ol man, mo ples
-- I stop blong lukaotem yu wan, olsem i no kakae gud, no wasem bodi, o i mekem ol samting we i no seif
+- I askem sem kwestin ova mo ova
+- I lus long ol ples we hem i save gud long hem
+- I hard blong folem resep o direksen
+- I kamaot moa konfius long taem, ol man mo ples
+- I stopem blong kea long hem wan, olsem kaikai nogud, no wasem bodi, o mekem samting we i no seif
 
-Sam man i gat **mild cognitive impairment (MCI)**. Dat i minim i gat moa trabol blong memori o tingting from ol narafala we oli sem yia, be oli stil save manejem laef blong ded long ol dei. NIA i talem se MCI i save wan erli sain blong Alzheimer's, be no evriwan we i gat MCI bambae i kasem dat.
+Sam man oli gat **mail cognitive impairment (MCI)**. Hemia i minim oli gat moa problem blong memori o tingting i winim ol narafala we oli sem yia olsem olgeta, be oli stil save mekem laef blong ol dei. NIA i talem se MCI i save wan fas sain blong Alzheimer's, be no evriwan we i gat MCI bambae i devlop long hem.
 
-## Wanem narafala samting i save mekem trabol blong memori?
+## Wanem narafala samting i save kosem problem blong memori?
 
-Plante samting nomo dementia i save efektem memori, mo sam long olgeta oli save gud moa taem oli kasem trit. NIA i lisim:
+Plante samting narafala i save afektem memori, mo sam long olgeta oli save gud taem oli kasem tritmen. NIA i lisim:
 
-- **Trabol blong tyroid, kidni o liva**
-- **Sanem blong medisin**
-- **Sik blong bel tingting mo fraet**
-- **Lo vitamin B12** o no kakae gud kaikai
-- **Trabol blong slip**
-- **Daranem alkol o drag**
-- **Enfeksen, blad klot, o tumor** long brein
-- **Hed bruk**, olsem konkasen
-- **Bigfala stres o sori**, olsem ritaea o lusum laef paatna
+- **Problem blong tirod, kidni o liva**
+- **Side efek blong medisin**
+- **Sed mo nevos**
+- **Lo vitamin B12** o no kaikaim gud kaikai
+- **Problem blong slip**
+- **Rong yusum blong alkol o drag**
+- **Infeksen, blad klot o tumor** insaed long bren
+- **Hed hit**, olsem konkyusen
+- **Bigfala stres o sednes**, olsem ritaea o lusim man blong yu o woman blong yu
 
-Trabol blong harem mo luk tu i save kamap olsem konfiuzen; luk [hearing guide](/brain-health/hearing/) blong yumi. Hemi wae medikol jek i impoten. Y [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) i talem, dokta oltaem i ordarem blad tes blong jekem tyroid, lo vitamin mo enfeksen. Gud [slip](/brain-health/sleep/) mo tritmen blong sik blong bel tingting tu i gud blong talem.
+Problem blong program mo ai i save mistekem olsem konfiuson; lukim [gaed blong hia](/brain-health/hearing/). Hemia i wanem medikol jekap i impoten. Bifo long [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), ol dokta oli oftenem oda blad test blong lukim tirod problem, lo vitamin mo infeksen. Gud [slip](/brain-health/sleep/) mo tritmen blong sedness oli gud tu blong toktok long hem.
 
-## Sudden konfiuzen i wan emergency
+## Sudden konfiuson i wan emeajensi
 
-**Konfiuzen we i kamap kwik, long ol aoa o ol dei, i nidim medikol helpe kwik.** I save kam blong delirium. [VA i talem delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) olsem wan medikol emergency mo i talem yu kolem health keyə provaeda blong man ya kwik o kolem emergency namba blong ples ya. Ol sain oli:
+**Konfiuse we i kam kwik, long ol aowa o ol dei, i nidim hevi medikol kea.** I save wan delirium. [VA i talem delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) i wan medikol emeajensi mo i advaesem blong kolem heltkea provaeda blong man ya long rot, o kolem 112. Ol sain oli:
 
-- Ol senis long abiliti blong tingting klia, i go i kam
-- Hard blong pei atensen
-- Tingting i no stap long wan rod
-- Hem i slip plante, o i no save stap kwaet mo i wari tumas
+- Ol taem we hem i save tingting klia mo ol taem we nomo
+- Hard blong putum tingting long wan samting
+- Tingting i no oganaes
+- Hem i slip tumas, o hem i wari mo i kros tumas
 
-Dis i save kasem eniwan, inkludim ol man we oli laef finis wetem dementia. Long [NHS](https://www.nhs.uk/symptoms/confusion/) i talem, ol komon kas oli enfeksen (urinary tract infections i komon long olfala mo long ol man we oli gat dementia), stroke, lo blad suga long ol man we oli gat daeabetis, hed bruk, mo sam medisin. Taem yu waet long helpe, stap wetem man ya mo mekem hem i fil sef wetem ol sot sot tok. No askem plante kwestin, mo raetem daon ol medisin we hem i tekem.
+Hemia i save hapen long eni man, inkludim ol man we oli stap wetem dementia finis. Bifo long [NHS](https://www.nhs.uk/symptoms/confusion/), ol komon kos oli infeksen (ol infeksen long bladda blong yurin oli komon long ol olfala mo ol man we oli gat dementia), strok, blad suga we i lo long ol man we oli gat diabetis, hed hit mo sam medisin. Taem yu wetem help, stap wetem man ya mo help hem fil gud wetem ol sitgat tok we i simpol. No askem plante kwestin, mo noutem evri medisin we hem i tekem.
 
 ## Hao blong redi long apointmen wetem dokta?
 
-Wan gud apointmen i stat wetem gud nout. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) i sajestem blong bringim:
+Wan gud apointmen i stat wetem ol gud noten. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) i sajestem blong bringim:
 
-1. **Wan lis blong ol senis** long memori, fil mo fasin, wetem ol spesifik eksampol mo rafwan taem oli stat
-2. **Ol sik blong bifo mo distaem**, inkludim ol famili histri blong trabol blong memori
-3. **Ol presripsen mo ol medisin we yu save bae long fama**
-4. **Eni vitamin o sapliment**
-5. **Ol kwestin blong yu**, olsem wanem tes bambae oli mekem, hao long oli tekem, mo wanem taem ol risalt bambae kam
+1. **Wan lis blong ol jenis** long memori, fil mo behaen, wetem ol spesifik eksampol mo rafmaot taem we oli stat
+2. **Ol sik we i bin gat mo we i stap nao**, inkludim famli histri blong problem blong memori
+3. **Olgeta prescription mo ol medisin we yu save baem long faka**
+4. **Eni vitamin o sapleman**
+5. **Ol kwestin blong yu**, olsem wanem test bambae oli mekem, hao lelebaet bambae oli tekem mo taem bambae ol risalt i kam
 
-Hem i gud tu blong bringim wan famili memba o fren we i save man ya gud. [NIA i eksplen](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) se dokta i save askem man ya mo famili memba long hEalt, medisin, ol dei aktiviti, mo ol senis long fasin. Dokta tu i save:
+I gud tu blong bringim wan memba blong famli o wan fren we i save gud long man ya. [NIA i eksplenem](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) se ol dokta i save askem bot man ya mo wan memba blong famli long helt, medisin, ol dei wok mo ol jenis long behaen. Ol dokta oli save tu:
 
-- Givim tes blong memori, solvem problem, atensen, namba mo langwis
-- Ordarem tes blong blad, pisis mo ol narafala tes blong lukaotem ol narafala kas
-- Jekem blong sik blong bel tingting o ol narafala mental helt kondisen
-- Ordarem brein skan olsem CT o MRI
-- Refrem long wan spesialis, olsem wan geriatrisien, niurolosis, geriatrik saekiatris o niuropsikolojis
+- Givim test blong memori, solvem problem, tingting, kaontem mo tok
+- Oderem blad, yurin mo ol narafala test blong lukim ol narafala kos
+- Jekem sed o ol narafala problem blong tingting
+- Oderem skan blong bren olsem CT o MRI
+- Ritim man ya long wan spesialis, olsem geriatrician, neurologist, geriatric psychiatrist o neuropsychologist
 
-NIA i noutem se wan kognitiv asesmen i wan rekwaed pat blong yearly helt jek, we i save kam wan gud taem blong raesem ol wari. Ol sof tes we dokta i yusum i no gat strong blong mekem dagnosis blong dementia nomo. Oli wan fasmak step blong wan fulwan ivalueson, mo dagnosis i save kasem moa dan wan visit. NIA i advaesem se ol man we oli gat trabol blong memori i mas go bak long dokta evri 6 o 12 mans.
+NIA i nolem se wan kognitiv asesmen i wan rekwaed pat blong Medicare Annual Wellness Visit, mo hemia i save wan gud taem blong raesem ol wari. Even ol sotfala test we ol dokta i yusum oli no enaf long herem wan dagnosis blong dementia. Oli wan fas step blong wan fulfala evalueison, mo dagnosis i save kasem moa dan wan visit. NIA i advaesem se ol man we oli gat problem blong memori oli mas go bak long dokta evri 6 long 12 mut.
 
-## Toktok long fasin we i gud
+## Toktok long samting ya wetem gud tingting
 
-Sipos yu wari long wan narafala man, jusum wan kwaet mo prival taem. Toktok long ol spesifik samting we yu luk, i stap long wan wari blong helt blong hem, no wan kritisism. Talem nomo blong go long wan janeral jek i save mekem hem i no fraet tumas. Mekem man ya i kasem ol disisen mo toktok long hem olsem adalt we hem i stap. Ol [tips blong toktok](/caregiving/communication-tips/) blong yumi i save helpem.
+Sapos yu wari long narafala man, jusum wan kuat mo prat taem. Toktok long ol spesifik samting we yu harem, we yu talem olsem wari blong helt blong hem, no olsem kritisism. Sajest wan jeneral jekap i save lesem fraet. Putum man ya insaed long disisen mo toktok long hem olsem wan adalt we hem i stap. [Ol tips blong komunikesen](/caregiving/communication-tips/) blong mifala i save helpem.
 
 ## Toktok wetem dokta
 
-Sipos yu luk ol senis long memori, tingting, fil, o ol abiliti blong ded long ol dei, we i nyu mo i kepsem kamap, mekem apointmen wetem wan prajmeri keyə dokta. Long sudden konfiuzen, kolem emergency namba blong ples ya o health keyə provaeda blong man ya kwik. Taem yu jekem erli, ol trabol we oli save trit oli save faenem, mo sipos i dementia, i gat moa taem blong planem mo faenem sopot. Lukaotem yu wan tu long hipla taem; luk [gaed blong self-kea](/caregiving/caregiver-self-care/) blong yumi.
+Sapos yu harem jenis long memori, tingting, fil o ol wok blong ol dei we i nyufala mo i stap kamaot, mekem apointmen wetem primary care dokta. Long sudden konfiuson, kolem 112 o heltkea provaeda blong man ya long rot. Jekap long taem i mekem ol treatable kos i save faenem mo, sapos i dementia, i gat moa taem blong planem mo faenem sapot. Lukaftarem yu yet long ol samting ya tu; lukim [gaed blong self-kea blong man we i kea long narafala](/caregiving/caregiver-self-care/).
 
-Pej ya i jeneral infomesen, no medikol advaes. Luk [medikol disklema](/medical-disclaimer/) blong yumi.
+Pej ya i jeneral infomesen, i no medikol advaes. Lukim [medikol disklema blong mifala](/medical-disclaimer/).

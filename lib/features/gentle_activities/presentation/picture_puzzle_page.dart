@@ -91,7 +91,7 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
                   // Size the board to the height too, so the pieces below it
                   // are in view without scrolling at ordinary text sizes; on
                   // a tablet it grows with the screen like the other boards.
-                  final fit = constraints.maxHeight * 0.42;
+                  final fit = constraints.maxHeight * 0.36;
                   final gridSide = max<double>(
                     n * gmTileMin + gmTileGap * (n - 1),
                     min(available, fit),

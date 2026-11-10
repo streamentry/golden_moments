@@ -1,34 +1,34 @@
 ---
-title: "Hojjetoota Fannaa Ummata Dementia Qabsaa, Tarkaanfii Tarkaanfiin"
-seoTitle: "Hojjetoota Fannaa Ummata Dementia Qabsaa, Tarkaanfii Tarkaanfiin"
-description: "Hojjetoota fannaa ummata dementia qabsaa, tarkaanfii tarkaanfiin: marsoo watercolor, collage, cuqaa, chalk fi gurraacha bilbilaa, fi akkamitti meeqa fannaa nagaa ta'e filachuu."
+title: "Kas-makane Le Marah Fannii Taamitte, Geddaak Geddal"
+seoTitle: "Kas-makane Le Marah Fannii Taamitte, Geddaak Geddal"
+description: "Kas-makane le marah fannii taamitte: lee rangu, suwar diggi hayya, baxee, qabari kee ayxa, amaaluk nagaynan le fannii meqe qidaddik dooritiy yaalen inna."
 section: activities
 order: 28
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Hojjetoonni fannaa ummata dementia qabsaa hojjetoota gabaabaa, sensory ta'anii
-  tarkaanfii ifa ta'e qabaatan keessaatti ni hojjetu. Marsoo watercolor,
-  collage suuraa magaazinii, cuqaa laafaa, chalk pastel irra gurraacha
-  gurraachaa, ykn bilbila gurraachaa filadhu, guyyaa tokkoon wal'ana ta'anii
-  jalqabaa. Qabeenya nagaa ta'e, kottu bal'aa qabu, fi wanta xixiqqaa gad
-  cite hin qabne filadhu, sadarkaa ummatichaa ilaali. Hojjetni isaa wanta
-  bu'aa isaa caala barbaachisaa dha.
+  Kas-makane le marah fannii taamitte mango uddur akkewaa waqdi, maaqatta
+  leemit yayse, kaadu taturuk gacta naharsi abto lem axawah meqe. Lee rangik
+  xaawo, koraaditik suwar gubat diggi hayya, laba baxee, qidim warqatal qabari
+  kalluun, hinnay ayxak tabsa abbaasita, kaadu inkih qimbisa. Summi maleh yan,
+  koboxuh xabcisa, uqusun xayi xisaasin maleh yan qidaddi doora, kaadu numuk
+  yanim celta uddurut kassiisa. Kacanuy fanni abaanam kinni qadaado; taama dudda
+  hayya elle kabxaanam muxxoo kinni.
 keyPoints:
-  - "Hojjetoota tarkaanfii ifaa tokko, akka brush cuqaasuu ykn suuraa qoruu, filadhu, akkuma ummatichi salphaatti jalqabuu danda'u."
-  - "Qabeenya nagaa ta'e, qabsoo bal'aa qabu, wanta xixiqqaa hin qabne, fi cilaa ykn meeshaa cilee hin qabne itti fayyadami."
-  - "Wal'ana jalqabi, booda fagaadhu. Ummata baay'een tarkaanfii tokko ykn qoruu tokko qofa barbaachisa."
-  - "Hojjeticha jijjiirama dandeettii ummatichaa wajjin jijjiiri, hojii qabsoo xiqqaa jalqabaa irraa hamma sensory bal'aa booda hanga."
-  - "Filannoo fi tuqaa irratti galateeffadhu, malee teeknikii irratti hin galateeffatin. Yoo hojjetichi gammachiisuu dhabe, dhaabbadhu."
+  - "Num qimbisuh xabbacowtam fan, inki baxxaqqa iyya qimbisiyya lem doora, korsuk furshet rangit culusiyya hinnay suwar killiq haytam innaah."
+  - "Summi maleh yan, gubuh nabam, uqusun xayi xisaasin aallewaa, kaadu qubte hinnay goorisa qidaddi aallewaat abbaasita."
+  - "Inkih qimbisa, tohik lakal xabba haa. Mango mari taama itta elle xabsisuh naharsi tabsay hinnay killiq dubuk faxa."
+  - "Numuk duddah gactam celtan innal taama kassiisa, qimbisoo wakal bissaabi taamak qimbisak, lakal maaqattah xiikisiyyat gacaanam fanah."
+  - "Dooriti kee maaqattat fayla aba, taamah addat hinna, kaadu taama xannowtam xabbacowtaamak elle xabba haa."
 faq:
-  - q: "Hojjetoonni fannaa maalfaa ummata dementia qabsaa irratti hojjetu?"
-    a: "Filannoowwan gaarii marsoo watercolor fuula cabaa irratti, collage suuraa magaazinii, cuqaa laafaa akka cuqaasuu fi hiixxisuutti, chalk pastel gurraacha gurraachaa irratti, bilbila gurraachaa caccabsa dhiqamaa qabuun, fi wal-qabsiisuu suphaa ykn ababoo ti. Kan dandeettii fi fedhii ummatichaa wajjin walsimu filadhu."
-  - q: "Qabeenya fannaa ummata dementia qabsaa irratti akkamitti filadha?"
-    a: "Qabeenya nagaa ta'e, dhiqamaa danda'u, bifa ifaa qabu barbaadi, eeyyuu sidiroo xixiqqaa, qamadii, cuqaa, sirbii cilee, ykn meeshaa dhiitaa tuqamuu dandeessu hin filatin. Dhukkubbii akka dhoqoo latex ykn caccabsa tokko ilaali. Kontirasti gaarii fayyadami, akka fuula adii irratti gurraacha ifaa, fi tarree qabeenya gabaabaa qabaadhu."
-  - q: "Ummanni sadarkaa dhumaa keessa jiru fannaa hojjechuu danda'aa?"
-    a: "Eeyyee, foormii sensory salphaa wajjin. Cuqaa laafaa cuqaasuu, bu'aa qacaraa bal'aa tokko irratti kuufama bishaanii keessatti marsuu, ykn qolaa tokko irratti wal-qabsiisuu. Harka isaanii qajeeltuu ta'uu dandeessa. Ilaaluu fi waa'ee gurraachaa wal'ana dubbachuunis hirmaachuu dha."
-  - q: "Yoo isaan 'marsuu hin danda'u' jedhan maal godha?"
-    a: "Fannaan dandeettii osoo hin taane gammachuu gurraachaa fi tuqaa ta'uu isaa itti hubachiisi. Tarkaanfii jalqabaa ti kee gargaarsa isaanii fudhadhu, isaan itti fufuu akka danda'an gaafadhu. Yoo kanaaf iyyuu dide, hojii biraa fayyadami; qajeelfama 'yeroo ummatichi dide' irratti ilaali."
+  - q: "Kas-makane le maral ma fannii taamittey meqe?"
+    a: "Meqe dooritit: jibux warqatal lee rangik xaawo, koraaditik suwar diggi hayya, koboxuh laba baxee, qidim warqatal qabari kalluun, kalkalita rangit ayxak tabsa, kaadu sara hinnay daraaro meqe innal daabisa. Numuk faxe kee dudda celta taama doora."
+  - q: "Kas-makane le numuh fannii qidaddi mannal dooroo?"
+    a: "Summi maleh yan, kalkalita, koboxuh nabam kee baxxaqqa iyya rangitte leemit gurusa. Uqusun lulu, butuunaat, bilqat, xaboyta, xalim gaas kee liiqiyya duddam bayisa. Dambita, korsuk laateks qufaaz hinnay rangu celtaamat maadaaxisa. Baxxaqqa iyya celtaanamit abbaasita, qaddu warqatal baxxaqqa iyya rangu innaah, kaadu qidaddik mango qidaddi makibina."
+  - q: "Gaba kaltih uddurut yan num fannii taama abam dudu mayaa?"
+    a: "Yeey, sahhilte maaqattah taamat dudu yaanam celta. Laba baxee koboxuh sissikisiyya, nabam fursheetit leet sayniyal rangu tabsa, hinnay addi-gacta sara dacayri abak abbaasita. Gaba xabbocoh gacaanam koo faxissim takkem celta. Rangittet wagitak kaal yaabenim gaba kaltah gidi kinni."
+  - q: "Rangu tabsum maaxiga iyyeenik iyyim abnaa?"
+    a: "Fannu rangu kee maaqattah kacanuy kinniik, muxxo kinni waytam ken kassiisa. Naharsi tabsa isin gaba kak tahaay, usun itta xabsisanam fan seeca. Asobbitaanam katayyeenik, aka taama ken fan culus; madaare wayti kee gaaboytah gital tan maxcoot wagita."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -47,65 +47,65 @@ related: [activities/arts-and-crafts, activities/coloring, activities/sensory, a
 health: false
 ---
 
-Hojjetoonni fannaa ummata dementia qabsaa wajjin yeroo gaarii turuuf karaa gaarii dha. Harka, ija fi sensoroota isaanii hojjechiisu, wanta dubbatanii kaa'aniif ni kennu. Fuulli kun hojjetoota tarkaanfii salphaa qabanii fi qorannoo qabeenya nagaa filachuu irratti qajeelfama kennu. Yaadota fannaa namoota guddaa irratti, akka qabeenya daa'imman fakkaatan irraa of qusachuu, fuula [fannaa fi hojii harkaa namoota guddaa irratti](/activities/arts-and-crafts/) ilaali.
+Fannii taamitte kas-makane le numuk luk wakti dacrisuh meqe gita kinni. Gaba, inti kee maaqattat xiikisiyya gaca, kaadu ittat yaaban gita kah yacee. Ta waraaqat sahhal iyya gital fannii taamitte kee nagaynan le qidaddi mannal dooran inna tacee. Kaxxa marak fannii taamah meqe giddootti, urrute taama celtaamat akke waytam kee aka giddootih, [kas-makane le kaxxa marah fannii taamitte kee gabat-abino](/activities/arts-and-crafts/) wagita.
 
-## Akkamitti hojjetoota fannaa kamiyyuu jalqabu
+## Fannii taama mannal qimbisan inna
 
-1. **Dura qopheeffadhu.** Qabeenya tokko ykn lama, shiiqa eegu fi qilleensa jiidhaa qopheeffadhu.
-2. **Tarkaanfii jalqabaa agarsiisi.** Brush cuqaasi, suuraa jalqabaa harkaan tarraasi, ykn cuqaa xixiqqaa cuqaasi, isaanis akkasuma akka godhan gaafadhu.
-3. **Wal'ana hojjedhu.** Hojjetaa kee dhiyaatti kaa'i, akka hojiin wal'ana ta'e hin ta'in, to'annaan akka hin fakkaanne.
-4. **Waa'ee wanta ilaalte dubbadhu.** Miidhagaa, tuqaa fi bifa ibsi, malee hojii isaanii hin murteessin.
-5. **Dadhabbiin jabaachuu dura dhaabbadhu.** Daqiiqaa kudhan hanga digdamii yeroo gaarii ta'a.
+1. **Qimbisak duma kullim daabisa.** Inki hinnay namma qidaddi, sarbis waraaqat kee lee le suuf fidisa.
+2. **Naharsi gita ken yusbullu.** Furshet rangit culuusa, naharsi killiq aba, hinnay baxee koboxa, tohuk lakal usun abanam fan seeca.
+3. **Itta xayi taamita.** Ku fannii taama xayi haa, taama inkih aban taamah celtam fan, dacayruk qariimiyya maleh.
+4. **Tableenimil yaaba.** Rangu, maaqatta kee sumuda baxxaqisa, taamah muxxo abtinomit hinna.
+5. **Xayna gabbacowtamak duma xabba haa.** Tabannak namma taban daqiiqa mango addat meqe wakti kinni.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) akka jedhutti fannaan ummata dhimma isaanii ibsuu fi uumama qabaachuu danda'an, ogummaa ogummaa hin barbaachisu dha. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) hojii gara tarkaanfii xiqqaa, to'achuu danda'uutti caccabsuu gorsa.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) baxxaqisannal, fannu kas-makane le marak lubbi-sissikiyya kee gubat-abino yusbulluwan gita kinni, fannii muxxo aalle kal. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) taamitte uqusun, sahhal iyya gital baxsaanam kassiisa.
 
-## Marsoo watercolor
+## Lee rangik xaawo
 
-Gurraacha watercolor cabaa, brush laafaa bal'aa fi miidhagaa muraasa kuusaa xixiqqaa keessatti fayyadami. Fuula bishaan qulqulluu irratti jiidhu, booda miidhagaa fuula irratti akka gadi buusan kennu. Fuula gingiruu ti. Suuraa laafaa, abstract ta'e kan karoora hin barbaachisne dha.
+Jibux warqata, naba laba fursheet kee uqusun kubbaayat caddodda rangu doora. Warqata saytun leet sissikuk xasa, tohik lakal rangu elle yaadan inna ken xabboca. Warqata kalkalisak rangu itta elle gexuh koboxa. Gactam laba suwara, masso faxewaa fannu kinni.
 
-- **Sadarkaa jalqabaa:** Miidhagaa filachuu fi bakka qilleensa tarreessuu isaan kennu.
-- **Sadarkaa giddu-galeessaa:** Miidhagaa lama ykn sadii kennu, bishaan fuula irratti ni kuufsu.
-- **Sadarkaa dhumaa:** Fuula qabadhu, sifoon dhaadhdhaa irratti akka cuqaasan isaan gargaaru.
+- **Qimbisoo uddur:** Rangu dooronuy baaxo kee araca suwarat tabson ken xabboca.
+- **Fanah-gacta uddur:** Namma hinnay sidiica rangu acee, kaadu warqatit lee isin xasa.
+- **Gaba kaltih uddur:** Isin warqata ibbixa usun isfanjit rangu tabsaanamaah.
 
-## Collage suuraa magaazinii
+## Koraaditik suwar gubat diggi hayya
 
-Fuulawwan magaazinii suuraa ifa ta'e ababoo, nyaatee, horii, konkolaataa ykn imala qabaniin walitti qabi. Suuraalee guddaa qoru, kunis qabsoo irra salphaa dha, booda gara kaartaa cabaa irratti maaddii. Collage akka jalqabaa wal-dubbii ta'a, sababii suuraan tokkoon yaadannoo ta'uu danda'uuf. Namoota filachuu fi qoodu jaallatan irratti hojjetu.
+Baxxaqqa iyya daraaro, maaqo, laa, mootar hinnay safarak suwar le koraadi koboxa. Suwar naba gubat killiq aba, makoodik sahhal iyyaak, tohik lakal jibux warqatal gubat diggi haa. Koraaditik suwar koboxisiyya ittat yaaban gitah meqe, kulli suwar kassit fan gexsiisaah. A taama baxsiyya kee doorit kacanuyu le numuh meqe.
 
-## Cuqaa laafaa
+## Laba baxee
 
-Cuqaa air-dry ykn cuqaa modeling laafaan cuqaasuu, dheebuu, marsuu danda'a. Bakka ulfaataa tokko ykn tile gabaabaa tokko hojjedhu. Cuqaan tuqaa harkaan qabatu dha, kanaaf namoota wantoota harkaan qabachuu jaallatan irratti nagaa kennuu danda'a. Qaraxa dhaloota qabaniin hin cuqaasin, meeshaa boqqoo qabu hin fayyadamin.
+Cawot qambutta baxee hinnay laba baxee koboxak, bilqisiyyak kee sissikisak abbaasitan. Sahhal iyya xaan hinnay gubat fidise biraqqa bicaaya. Baxee maaqattat nabam xiikisa, tohul gabat qunxaane kacanuyu le marah lubbi-dagna taceem takke. Bixa naba gubat haa, kaadu goorisa xalim qidaddik xabba haa.
 
-## Chalk pastel gurraacha gurraachaa irratti
+## Qidim warqatal qabari kalluun
 
-Gurraachi gurraacha tiksitu, pastel bifa ifaa godha. Pastel guddaa ta'an fayyadami, ummanni miidhagaa bal'aa ykn tuqaa tissue ykn hanqaaqii harkaan akka hojjetu kennu. Pastel dusty dha, kanaaf tarree irratti qopheessi, booda harka qulqulleessi. Pastel laafaa non-toxic jedhamee mallattaa'e filadhu.
+Qidim warqata kalluun rangu ifoosa. Naba koboxu le qabari abbaasita, usun naba tabsa abaanay hinnay gaba hinnay mandilat rangu ittat koboxon ken xabboca. Qabari buur lemik, sayniyal daabisaay tohik lakal gaba kalisa. Summi maleh yan laba kalluun doora.
 
-## Bilbila gurraachaa
+## Ayxak tabsa
 
-Baalee bal'aa gurraacha gaara irraa walitti qabi, bishaan dhiqamaa qabu brush irratti, bilbila baalee irra tuuji, booda caccabsaa ammalaa ta'e akka hin qabu. Hojiin kun wal'ana [hojii qilleensaa fi qonnaa](/activities/outdoor-and-gardening/) wajjin walitti hidhata, ammas deemuu gaara irraa baalee walitti qabuun jalqabuu danda'a.
+Maysarraakat naba ayxa koboxa, kalkalita rangu fursheetit ayxak ciddat xasa, tohik lakal ayxa warqatal diggi haa. Xabbocoh foocaay gacta tabsat kacanuy aba. A taama [bade kee maysarraakah taamitte](/activities/outdoor-and-gardening/) gitat gacta, kaadu ayxa koboxuh gexaanamitik qimbisam duddan.
 
-## Qabeenya fi ababoo qopheessuu
+## Sara kee daraaro daabisiyya
 
-Qabeenya tuqaa qabu harkaan adda baafadhu, ykn ababoo haaraa muraasa booda qaagsatti qopheessi. Hojjetoonni kunniin sensory dha, cimina xiqqaa qabu. Sadarkaa dhumaa keessa jiran irrattis ni fayyadu. Yaadota dabalataa ilaaluuf, [hojjetoota sensory ummata dementia qabsaa](/activities/sensory/) ilaali.
+Maaqatta le sara gaba xabbocoh baxa, hinnay uqusun qunxa daraaro dhaban addat daabisa. Tah maaqattah taamittey kaxxa cibna maleh tan kinni. Kaadu gaba kaltih uddurut yan marah meqe. Mango meqe kasootih, [kas-makane le marah maaqattah taamitte](/activities/sensory/) wagita.
 
-## Qabeenya fannaa filachuu
+## Fannii qidaddi dooram
 
-Qabeenyi nagaa fi qulqulluu ta'uu isaa irratti caalaa miidhagaa hin dhiisu. Yeroo filattu, ilaali:
+Qidaddi muxxo kaxxa gidi kinniik nagaynan kee lubbi-dagna yayse. Doortan waqdi, tahit maadaaxisa:
 
-- **Non-toxic fi dhiqamaa danda'u:** Mallattoo non-toxic qabu barbaadi, miidhagaan dhiqamaa ta'uu isaa mirkaneessi.
-- **Qabatamaa bal'aa:** Crayon guddaa, brush bal'aa fi pastel guddaa harkaan qabachuu salphaa dha.
-- **Wanta xixiqqaa hin qabne:** Beedii, qamadii, sequin, fi gurraacha walitti hin ta'in, akka hin nyaatamne.
-- **Meeshaa cilee hin qabne:** Qaraxa nagaa fayyadami, ykn suuraa harkaan tarraasi.
-- **Dhoqoo:** Latex fi dhoqoo arma kamiyyuu ilaali.
-- **Kontirasti:** Miidhagaa ifaa fuula adii ykn gurraacha irratti ni argamu.
-- **Tarree gabaabaa:** Qabeenya lama ykn sadii ni gahu. Filannoo baay'ee hin yaadachiisin.
-- **Qulqullina salphaa:** Tarree, shiiqa plastikii fi qilleensa jiidhaa fayyadami, akka dhiqamni dhaabbachuu hin ta'in.
+- **Summi maleh yan kee kalkalita:** Summi maleh iyya waraaqat wagitaay rangitte kalkalitaamak maadaaxisa.
+- **Naba kobox:** Naba kalluun, jibux fursheet kee naba qabari gabat ibbixuh sahhal iyya.
+- **Uqusun xisaasin maleh:** Lulu, butuunaat, bilqat kee liiqiyya duddam bayisa.
+- **Goorisa qidaddi maleh:** Nagaynan makoodi abbaasita hinnay gabat warqata killiq aba.
+- **Dambita:** Laateks kee golid dambita lem wagita.
+- **Baxxaqqa iyya celtaanam:** Qaddu warqatal hinnay qidim warqatal baxxaqqa iyya rangu tableenimil sahhal iyya.
+- **Uqusun qidaddi:** Namma hinnay sidiica qidaddi duddam takke. Mango qidaddi numuk kas bayissa.
+- **Sahilte kalisiyya:** Sayniya, laastik kee lee le suuf abbaasita, xaawo taama xabbah sabab akka waytam fan.
 
-## Sadarkaan wal-qabsiisuu
+## Uddurik uddurut kassiisam
 
-Sadarkaa jalqabaa keessatti ummanni baay'een hojii isaanii karoorfachuu fi gargaarsa xiqqaadhaan xumuru danda'u. Sadarkaa giddu-galeessaa keessatti filannoo muraasa fi qajeelfama bal'aa kenni. Sadarkaa dhumaa keessatti cuqaasuu cuqaa ykn cuqaasuu miidhagaa sponge irratti irratti xiyyeeffadhu, bu'aa caala hojii isaa gammadi.
+Qimbisoo uddurut, mango mari uqusun catot taama kassiisak dudda haytam dudu yan. Fanah-gacta uddurut, uqusun doorit taceeniy mango catot gactan. Gaba kaltih uddurut, maaqattah taamittey baxee sissikisiyya hinnay isfanjit rangu tabsa celtaamat kassiisa, kaadu taama dudda haytamak gactat kacanuy aba.
 
-Qajeelfama sadarkaa kamiyyuu ilaaluuf, [sadarkaa jalqabaa](/activities/early-stage/), [sadarkaa giddu-galeessaa](/activities/middle-stage/) fi [hojjetoota sadarkaa dhumaa](/activities/late-stage/) ilaali. Yoo ummatichi dide ykn dadhabe, fuula [yeroo namni "hin danda'u" jedhu](/caregiving/when-they-say-no/) dhaabbachuu akkamitti akka ta'u ibsa.
+Uddurur celta meqe kasootih, [qimbisoo uddur](/activities/early-stage/), [fanah-gacta uddur](/activities/middle-stage/) kee [gaba kaltih udduruh taamitte](/activities/late-stage/) wagita. Isin dacayro kalah tan num asobbita hinnay gaabowtek, nee guidey [num aaleewayyeenik](/caregiving/when-they-say-no/) yanit xabba mannal haan inna baxxaqisa.
 
-## Taphaan wajjin walitti hidhi
+## Doolabuk katayisa
 
-Booda marsaa irraa, tabletaa irratti [marsoo](/games/coloring/) qabsoo laafaa ta'e ykn [picture puzzle](/games/picture-puzzle/) hojii xumuraa ta'e yaali. Lachuu isaan harka hojii keessa hin kaasin, dandeettii qulqulluu hin gaafatin.
+Rangu tabsak lakal, taableetit [rangu tabsa](/games/coloring/) abbaasita lubbi-dagna taceeh, hinnay gaba kaltih taamah [suwar bazal](/games/picture-puzzle/) abbaasita. Nammay kaxxa muxxo maleh gabat taama tacee.

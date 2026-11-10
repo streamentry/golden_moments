@@ -61,11 +61,13 @@ const guides = defineCollection({
 const guidesI18n = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/guides-i18n' }),
   schema: guideSchema.extend({
-    title: z.string().max(120),
+    /** Translated headings can expand; keep the full wording instead of cutting it off. */
+    title: z.string().max(140),
     seoTitle: z.string().max(80).optional(),
-    /** The site check warns outside 70–170 and rejects translated descriptions outside 50–360. */
+    /** Translated descriptions use the 50–360 display-width bounds in check-site.mjs. */
     description: z.string().min(30).max(360),
-    summary: z.string().min(30).max(600),
+    /** Preserve translated summaries that expand beyond the English character limit. */
+    summary: z.string().min(30).max(800),
     /** The date of the English version this translation was made from. */
     translatedFrom: z.coerce.date(),
   }),

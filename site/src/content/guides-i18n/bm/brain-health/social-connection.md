@@ -1,28 +1,28 @@
 ---
-title: "Mɔgɔ ɲɔgɔn ni hakilina: Kɔnɔnaya ani dementia"
-seoTitle: "Kɔnɔnaya, mɔgɔ ɲɔgɔn ɲɛ ani dementia kɛlɛ"
-description: "Kɔnɔnaya ani mɔgɔ ɲɔgɔn ɲɛ bɛ dementia kɛlɛ ni ɲɛnɔgɔnya ma, Surgeon General ka sariya ye mun ye, ani ɲɛnamaya ɲɛfɛ ka mɔgɔw ɲɔgɔn fɛ ka ɲɛ."
+title: "Mɔgɔ ɲɔgɔn ye, hakili ka ɲɛnamaya ani dementia"
+seoTitle: "Dɔgɔya, mɔgɔ ɲɔgɔn tɛ ani dementia ka kɔnɔnafɛn"
+description: "Dɔgɔya ni mɔgɔ ɲɔgɔn tɛ dementia kɔnɔnafɛn ɲɛ cogo jumɛn, Surgeon General ka laɲini ani ɲɔgɔn fɛ ka ɲɛnamaya ɲɛfɛn minnu bɛ se ka kɛ ɲɔgɔn fɛ."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sɛbɛnnen ye ko mɔgɔ kɔrɔ ka kɔnɔ ani kɔnɔnaya ɲɛnɔgɔnya ka dementia kɛlɛ ni ɲɛnɔgɔnya ma. 2024 Lancet Commission ka ɲɛfɔ ko kɔnɔnaya bɛ bɔ kɛlɛ bɔ ni dɔrɔn 5% ye, nka dementia dɔ bɛ se ka mɔgɔ yɛrɛ ka ɲɛnɔgɔnya ka bɔ. Ka tɔw ɲɛnɔgɔn, ɲɔgɔn ɲɛ ani ka ɲɛfɔ ka ɲɔgɔn ɲɛ, olu bɛ mɔgɔ ɲɔgɔn fɛ. Dementia bɛ min na, ɲɛnamaya kɔnɔ ɲɔgɔn ɲɛ bɛ nisɔndiya ani ɲɛnamaya ɲɛfɛ.
+  Sɛbɛnw bɛ jɛɲɔgɔn ko mɔgɔ ɲɔgɔn tɛ ani dɔgɔya ka bɔ mɔgɔ dɔ ka ɲɛnamaya kɔfɛ, o kɔ dementia kɔnɔnafɛn bɛ bɔnɛ. 2024 Lancet Commission ka jatebɔ ko mɔgɔ ɲɔgɔn tɛ bɛ kɔnɔnafɛn ka 5% ɲɛ, nka o kɔnɔnafɛn dɔ bɛ se ka kɛ dementia fɔlɔ ye, o bɛ mɔgɔ ka sigi kɔ. Ɲɔgɔn fɛ ka ɲɛnamaya bɛ se ka kɛ ka ɲɔgɔn fɛ ka kɔnɔ, ka ɲɔgɔn fɛ ka ɲɛnamaya kɛ ka ɲɔgɔn ɲɛ, ani ka dɔ kɛ ni ɲɔgɔn ye. Dementia bɛ mɔgɔ minnu la, ɲɔgɔn fɛ ka wasa ni ɲɛnamaya ɲɛfɛn bɛ mɔgɔ ka nisɔndiyakow ni ɲɛnamaya ɲɛ.
 keyPoints:
-  - "Lancet Commission ka ɲɛfɔ ko kɔnɔnaya mɔgɔ kɔrɔ fɛ ye dementia kɛlɛ 14 ka ɲɛfɛn ye min bɛ se ka dɔnkili kɛ, ani o bɛ kɛlɛ bɔ dɔrɔn 5% ye."
-  - "Amerika Surgeon General ka sariya ka 2023 ɲɛfɔ ko kɔnɔnaya ni kɔnɔnaya fɔlɔ bɛ bɔ dementia ɲɛnɔgɔnya ka ɲɛfɛ ni dɔrɔn 50% ye mɔgɔ kɔrɔ fɛ."
-  - "Sɛbɛnnen dɔw ye ɲɛfɔ tɛ, ani dementia kɔrɔ bɛ se ka mɔgɔ ka bɔ ɲɔgɔn fɛ."
-  - "Ɲɛ dɔ ni ɲɛ dɔ ka kɛlɛ, ka dɔ ye ɲɛfɛ, ani ka mɔgɔ ɲɔgɔn ɲɛ ka kɛ tun ye ɲɔgɔn ɲɛ kɔnɔnaya ma."
-  - "Dementia bɛ min na, ɲɛnamaya kɔnɔ ɲɔgɔn ɲɛ bɛ nisɔndiya ani ɲɛnamaya ɲɛfɛ; sɔrɔ ko ye ɲɔgɔn ɲɛ ye, kɛlɛ ye ɲɛfɛ kɔ tɛ."
+  - "Lancet Commission ka laɲini ko mɔgɔ ɲɔgɔn tɛ ka ɲɛnamaya kɔfɛ ye dementia kɔnɔnafɛn ka 14 ka kɔnɔnafɛn ɲɛ min bɛ se ka ɲɛnaɲɛ, o bɛ kɔnɔnafɛn ka 5% ɲɛ."
+  - "Amerika Surgeon General ka laɲini ka bɔ 2023 ko dɔgɔya ni mɔgɔ ɲɔgɔn tɛ bɛ kɔnɔnafɛn ka dementia ka kɔnɔnafɛn ɲɛ kɔrɔ, mɔgɔ dɔnnikɛlaw la, ka bɔ 50% ɲɛ kosɛbɛ."
+  - "Sɛbɛnw ka caman ye sɛbɛnw ye ka kɛ ɲɛnamaya kɔ, ani dementia fɔlɔ bɛ se ka kɛ mɔgɔ bɛ ka sigi kɔ."
+  - "Kuluw ni ɲɛ ɲɔgɔn fɛ ni ɲɛnamaya kɔ, sigi ni ɲɔgɔn ye, ani ɲɔgɔn ka ɲɛnamaya bɛ kɔnɔnafɛn ka mɔgɔ ka mɔgɔ ɲɔgɔn tɛ ɲɛ."
+  - "Dementia bɛ mɔgɔ minnu la, ɲɔgɔn fɛ ka wasa minnu bɛ nisɔndiyakow ni ɲɛnamaya ɲɛfɛn, o ɲɛnamaya ye ka ɲɔgɔn fɛ ka ɲɛ, ka kɛ ni ɲɔgɔn ye; o kɛlɛ tɛ ka kɛ ka ɲɛ kɛ."
 faq:
-  - q: "Ɲɛnɔgɔnya bɛ dementia kɛ wa?"
-    a: "O tɛ ɲɛ kɔnɔ. Sɛbɛnnen caman bɛ ɲɛnɔgɔnya ni kɔnɔnaya ɲɛ ni dementia ɲɛnɔgɔnya ye, nka dementia fɔlɔ bɛ se ka mɔgɔ ka ɲɛnɔgɔnya ɲɛ. Ka ɲɔgɔn ɲɛ bɛ nisɔndiya ani ɲɛnamaya ɲɛfɛ bɔ ɲɛ kɔnɔ, o y'a ka ɲɛ kɛ jamu ye."
-  - q: "Ɲɛnɔgɔnya ni kɔnɔnaya ka tɔw ye mun ye?"
-    a: "Kɔnɔnaya bɛ ka mɔgɔ dɔw ka kɔnɔ ɲɔgɔn dɔrɔn ye. Ɲɛnɔgɔnya ye ka mɔgɔ dɔ bɛ dusu ka kɔrɔ ka ɲɔgɔn ɲɛ tɛ. Mɔgɔ bɛ sigi yɛrɛ kɔnɔ ka dusu tɛ ɲɛnɔgɔnya ye, walasa mɔgɔ bɛ se ka dusu ka ɲɛnɔgɔnya ka kɔnɔ ni mɔgɔw bɛ yen."
-  - q: "Ne bɛ se ka ne fa ni dementia bɛ min na ka ɲɔgɔn ɲɛ ka kɛ cogo di?"
-    a: "Kɛlɛ gɛlɛn ni tɛmɛnen bɛ ɲɛ. Waati dɔ ka ɲɔgɔn ɲɛ ka kɛ tile dɔ kɔnɔ wa tile dɔ kɔnɔ ni kɛlɛ ye, ka ɲɛfɛ, ka hakilina ka kɛlɛ ɲɔgɔn ɲɛ, walima ka ɲɛnamaya ɲɛfɛ ni sogo wa ni den dɔ ye. Mɔgɔw ka ɲɔgɔn ɲɛ ka kɛ fitinin ye, ani ka mɔgɔ min bɛ sigi, o ka ɲɛnamaya kɛ."
-  - q: "Ne bɛ se ka dɛmɛ sɔrɔ mɔgɔ kɔrɔ min bɛ kɔnɔnaya kɔnɔ ni dɔrɔn, minnu bɛ se ka mɔgɔ dɛmɛ?"
-    a: "Eldercare Locator, Amerika kɔnɔ dɛmɛ sɛbɛnnen min bɛ mɔgɔ kɔrɔw ni ɲɛ kɔnɔ ka dɛmɛ ye, o bɛ ɲɛnɔgɔnya ka kɛ mɔgɔw ni dɛmɛ waleyali ye ka bɔ ɲɛnɔgɔnya ka dɔ sɔrɔ. A bɛ se ka wele 800-677-1116 walima eldercare.acl.gov."
+  - q: "Dɔgɔya bɛ dementia kɛ wa?"
+    a: "O tɛ jɛɲɔgɔn fɔlɔ. Sɛbɛnw caman bɛ dɔgɔya ni mɔgɔ ɲɔgɔn tɛ ka dementia kɔnɔnafɛn ɲɛ, nka hakili ka yɛrɛyɛrɛ ka kɔnɔnafɛn fɔlɔ bɛ se ka kɛ mɔgɔ bɛ ka sigi kɔ mɔgɔw ma. Ɲɔgɔn fɛ ka ɲɛnamaya bɛ nisɔndiya ni dɔ ni dɔ ka ɲɛnamaya ɲɛ, o kɔ ka ɲɔgɔn fɛ ka ɲɛnamaya ɲɛ, o ye ɲɛfɛn ye cogo o cogo."
+  - q: "Dɔgɔya ni mɔgɔ ɲɔgɔn tɛ ka tɔɔrɔ ye mun ye?"
+    a: "Mɔgɔ ɲɔgɔn tɛ bɛ ɲɛfɛn ko mɔgɔ dɔw tɛ mɔgɔ ɲɔgɔn ye ka dɔ ka ɲɛnamaya kɛ. Dɔgɔya ye hakili ka tɔɔrɔ ye, o bɛ kɛ ni mɔgɔ bɛ sigi ka dɔgɔ walima mɔgɔ bɛ bɔ mɔgɔw kɔ. Mɔgɔ bɛ se ka sigi yɛrɛ dɔrɔn ka dɔgɔya tɛ, walima ka dɔgɔya kɛ ni mɔgɔ caman bɛ."
+  - q: "Ne bɛ se ka dementia ka fa ka mɔgɔ ɲɔgɔn tɛ ɲɛ cogo jumɛn?"
+    a: "Ka kuma ni mɔgɔ ɲɔgɔn ye ka tɛmɛsira ni tɛmɛsira ye, o bɛ ɲɛ. Ka kɛ ka dɔ ni ɲɔgɔn ye sɛnɛ ni dɔ ni dɔ ye, ka sigi ni ɲɔgɔn ye ka bɔ ka kɛ ka dɔ ni ɲɔgɔn ye. Ka kɔnɔ mɔgɔ dɔw ni ɲɔgɔn ye, ka kɔnɔ ɲɛnamaya ni ɲɔgɔn ye, ka ɲɔgɔn fɛ ka mɔgɔ dɔ ka ɲɛnamaya ɲɛ."
+  - q: "Ne bɛ se ka dɔ sɔrɔ jamanaden ka mɔgɔ dɔgɔyalen ɲɛ min bɛ mɔgɔ ɲɔgɔn tɛ, cogo jumɛn?"
+    a: "Amerika jamanaden Eldercare Locator, o ye ɲɛnamaya nafolo ye min bɛ jɛnɛ ni sigilanw ni jamanaden kɔnɔ ye, o bɛ se ka wele 800-677-1116 kan walima ka eldercare.acl.gov ɲɛ. O ye Amerika jamanaden ye, nka ɲɔgɔn fɛ ka ɲɛ, ka ɲɛnamaya sigilanw ni dɔgɔya ɲɛnamaya ɲɛfɛn sɔrɔ ni jamanaden sigilanw ye."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,71 +50,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-Mɔgɔw ye mɔgɔ ɲɔgɔn ye, o tɛ yɛrɛ ka bɔ ni ɲɛnɔgɔnya ye. Sɛbɛnnen bɛ ɲɛfɔ ko kɔnɔnaya ni kɔnɔnaya fɔlɔ kɔrɔ fɛ, o bɛ dementia kɛlɛ ni dusu ni tɔw ɲɛnɔgɔnya ma. Sɛbɛnnen tɛ se ka ɲɛfɔ sisan ko ɲɛnɔgɔnya ni kɛlɛ, cɛ min bɛ ɲɛ ka kɛ, o cogo di. Nin kɔnɔ bɛ ɲɛfɔ min sɛbɛnnen bɛ, ɲɛnamaya kɛ cogo min na ka mɔgɔ ɲɔgɔn ɲɛ, ani mun na ɲɛnamaya ɲɛfɛ ka ɲɛ dementia bɛ min na.
+Mɔgɔw ye mɔgɔ ɲɔgɔn ye, o tɛ yɛrɛ kɔrɔ ka bɔ ni cɛɲi ye. Sɛbɛnw bɛ jɛɲɔgɔn ko dɔgɔya ani mɔgɔ ɲɔgɔn tɛ ka ɲɛnamaya kɔfɛ ye dementia kɔnɔnafɛn ɲɛ, o bɛ kɔnɔnafɛn ka dusu ni hakili ka ɲɛnamaya ɲɛ. Sɛbɛnw tɛ se ka f o kɔnɔnafɛn cogo jumɛn ka dɔ kɛ sɔrɔ bi. Ɲɛnɛ ​​kɛlɛ bɛ kuma ko nin ye cɛn ka kɔnɔnafɛn kɔrɔ. Nin kɛlɛ bɛ yɛrɛyɛrɛ ka jatebɔ, ɲɔgɔn fɛ ka ɲɛnamaya ɲɛfɛn minnu bɛ se ka kɛ ka ɲɔgɔn fɛ, ani se min na ka mɔgɔ minnu bɛ dementia ka bana ye, ɲɔgɔn fɛ ka wasa ni ɲɛnamaya bɛ o mɔgɔw ka nisɔndiyakow ni ɲɛnamaya ɲɛ.
 
-## Kɔnɔnaya ni kɔnɔnaya fɔlɔ bɛ dementia ɲɛnɔgɔnya wa?
+## Dɔgɔya ni mɔgɔ ɲɔgɔn tɛ bɛ dementia kɔnɔnafɛn ɲɛ wa?
 
-Ɔwɔ, sɛbɛnnen caman bɛ o ɲɛnɔgɔnya, nka cogo min na ɲɛnɔgɔnya bɛ ɲɛ, o tɛ ɲɛnɔgɔn ɲɔgɔn. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) bɛ kɔnɔnaya mɔgɔ kɔrɔ fɛ ye dementia kɛlɛ 14 ka ɲɛfɛn ye min bɛ se ka dɔnkili kɛ. [UCL ka kuma ɲɛfɛ ka sɛbɛnnen](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) bɛ o ɲɛ ka kɛ dɔrɔn 5% ye dunuya dementia kɛlɛw kɔnɔ.
+Ɔn, sɛbɛnw caman bɛ o kɔnɔnafɛn ɲɛ, nka cogo min na o bɛ kɛ, o tɛ se ka dɔnkili dafa. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ka laɲini ko mɔgɔ ɲɔgɔn tɛ ka ɲɛnamaya kɔfɛ ye dementia kɔnɔnafɛn ka 14 ka kɔnɔnafɛn ɲɛ min bɛ se ka ɲɛnaɲɛ. [UCL ka kuma ko laɲini in kan](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) bɛ o bɛn ka 5% dementia ko dusukasi bɛ ɲɛfɛn dunuya kɔnɔ.
 
-Sɛbɛnnen bɛ min ɲɛfɔ:
+Sɛbɛnw ka jatebɔ:
 
-- **Ɲɔgɔn ɲɛ dɔrɔn, ɲɛnɔgɔnya ka caya.** Commission bɛ sɛbɛnnen fila ɲɛfɔ min bɛ ɲɔgɔn ɲɛ dɔrɔn ni dementia ɲɛnɔgɔnya ye. Dɔ bɛ ɲɛfɔ ko ɲɛnɔgɔnya bɛ caya dɔrɔn 57%, dɔ tɛ ɲɛfɔ ko dɔrɔn 18%.
-- **Kɔnɔnaya fana.** Kɔnɔnaya, o ye dusu kɔrɔ ni ɲɔgɔn ɲɛ ye, o fana ye dementia ɲɛnɔgɔnya ye sɛbɛnnen caman kɔnɔ.
-- **Amerika Surgeon General ka ɲɛfɔ.** 2023 ka Mɛkalo kɔnɔ, Amerika Surgeon General ye [sariya kɔnɔnaya ni kɔnɔnaya fɔlɔ ma](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) bɔ. A ɲɛfɔ ko kɔnɔnaya ni kɔnɔnaya fɔlɔ bɛ se ka dementia ɲɛnɔgɔnya ka caya dɔrɔn 50% ye mɔgɔ kɔrɔw fɛ. A ye ɲɛfɔ fana ko ɲɔgɔn ɲɛ kɔrɔ bɛ se ka dusu kɔrɔ ɲɛnɔgɔnya ka caya dɔrɔn 29% ye, ani dusu ka ɲɛnɔgɔnya ka caya dɔrɔn 32% ye.
-- **A bɛ caman na cogo di.** [Sɛbɛnnen ka kuma Amerika](https://www.ncbi.nlm.nih.gov/books/NBK557972/) ɲɛfɔ ko Amerika mɔgɔ 65 ni a kɔrɔ, minnu bɛ sigi ɲɛ kɔnɔ, dɔrɔn 24% bɛ kɔnɔnaya kɔnɔ.
+- **Mɔgɔ ɲɔgɔn tɛ, dementia kɔnɔnafɛn bɛnbɔ.** Commission ka laɲini ko sɛbɛnw fila ka kuma mɔgɔ ɲɔgɔn tɛ ka kɔnɔnafɛn dementia ka kɔnɔnafɛn ɲɛ. Dɔ ka jatebɔ ye ko kɔnɔnafɛn bɛ bɔ ka 57% ɲɛ, dɔ ye ko ka bɔ 18% ɲɛ.
+- **Dɔgɔya fana.** Dɔgɔya, o ye hakili ka dɔgɔ ye ko mɔgɔ bɛ sigi ka bɔ mɔgɔw kɔ, o fana bɛ ɲɛ ni dementia kɔnɔnafɛn ye sɛbɛnw caman na.
+- **Amerika Surgeon General ka laɲini.** Mɛ 2023 la, Amerika Surgeon General ka [laɲini dɔgɔya ni mɔgɔ ɲɔgɔn tɛ kan](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) kɔrɔ. A ko dɔgɔya ni mɔgɔ ɲɔgɔn tɛ bɛ se ka dementia kɔnɔnafɛn ka bɔ 50% ɲɛ kosɛbɛ, mɔgɔ dɔnnikɛlaw la. A ko mɔgɔ ɲɔgɔn tɛ bɛ se ka kɔnɔnafɛn ka bɔ 29% ɲɛ kosɛbɛ dusu bana la, ani 32% ɲɛ kosɛbɛ sɔgɔsɔgɔ la.
+- **A ka caman cogo.** [Kalan fɛn ka laɲini](https://www.ncbi.nlm.nih.gov/books/NBK557972/) ko Amerikakaw ka mɔgɔw minnu bɛ 65 kɔfɛ ka sigi jamanaden kɔnɔ, o ka 24% bɛ mɔgɔ ɲɔgɔn tɛ.
 
-Ɲɛnɔgɔnya kɔnɔ: Lancet Commission bɛ ɲɛfɔ ko mɔgɔw bɛ se ka ɲɔgɔn ɲɛ dɔrɔn dementia fɔlɔ waati kɔnɔ, o waati min tɛ kalan. O b'a ɲɛnɔgɔnya ko ɲɛnɔgɔnya dɔw bɛ bɔ dementia ka mɔgɔ bɔ ɲɔgɔn fɛ, o tɛ ko ɲɔgɔn ɲɛ kɔrɔ kɛlɛ kɔ kelen. Ɲɛnɔgɔnya caman bɛ bɔ sɛbɛnnen ɲɛfɛnnen kɔnɔ.
+Ko dɔ bɛ ka dɔ lakana: Lancet Commission ko mɔgɔw bɛ se ka ɲɔgɔn fɛ ka kɔ ɲɛnamaya kɔfɛ, dementia fɔlɔ min tɛ dɔnnin, o waati la. O kɔ, mɔgɔ ɲɔgɔn tɛ kɔnɔnafɛn dɔ bɛ se ka kɛ dementia ka mɔgɔ ka sigi kɔ, o tɛ mɔgɔ ka sigi kɔ dementia ka kɔnɔnafɛn kɔrɔ dɔrɔn. Sɛbɛnw caman bɛ bɔ ka sɛbɛnw ɲɛ ye ka kɛ ɲɛnamaya kɔ.
 
-## Kɔnɔnaya ni kɔnɔnaya fɔlɔ ɲɛnɔgɔnya ye mun ye?
+## Dɔgɔya ni mɔgɔ ɲɔgɔn tɛ, o ye mun ye ka tɛmɛ ɲɔgɔn kan?
 
-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) bɛ o ɲɛfɔ cogo in na. **Kɔnɔnaya fɔlɔ** kɔrɔ ye ko mɔgɔ tɛ ɲɔgɔn ɲɛ ni mɔgɔ caman ye, walima ko mɔgɔ tɛ mɔgɔ ɲɔgɔn ɲɛ ka kɔnɔ waati caman. **Kɔnɔnaya** ye dusukasi ye min bɛ mɔgɔ kɔrɔ ka dusu ka kɔrɔ ka ɲɔgɔn ɲɛ tɛ, walima ka bɔ mɔgɔw fɛ. Mɔgɔ bɛ se ka sigi yɛrɛ kɔnɔ ka dusu ka nisɔndiya, mɔgɔ bɛ se fana ka kɔnɔnaya ni mɔgɔ caman bɛ yen.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) ka kuma o kan cogo in na. **Mɔgɔ ɲɔgɔn tɛ** o ye mɔgɔ dɔ ye min bɛ mɔgɔ dɔw ɲɔgɔn fɛ, walima mɔgɔ tɛ minnu ye ka kuma ni a ye ka dɔ ka ɲɛnamaya kɛ. **Dɔgɔya** o ye hakili ka dɔgɔ ye ko mɔgɔ bɛ sigi yɛrɛ dɔrɔn walima ko bɔ mɔgɔw kɔ. Mɔgɔ bɛ se ka sigi yɛrɛ dɔrɔn ka nisɔndiya, mɔgɔ fana bɛ se ka dɔgɔya kɛ ni mɔgɔ caman bɛ.
 
-NIA bɛ ɲɛfɛn minnu bɛ ɲɛnɔgɔnya ka caya cɛ ni kɔnɔnaya fɔlɔ ye:
+NIA ka ɲɛfɛn minnu bɛ kɛ ka kɔnɔnafɛn ka bɔ o fila la:
 
-- Ɲɛ ni tulo mɔgɔ bɛ ka kɛlɛ
-- Ka taa ni ka se ka taa, walima fɔ tiɲɛ tɛ
-- Ka sigi yɛrɛ kɔnɔ, walima mɔgɔ fɛnɛw kɔrɔ, i ko ni kɔrɔfɔ wa ka ci
-- Hakilina ka kɛ ni ɲɛnɔgɔnya kɛlɛ
-- Ka mɔgɔ min bɛ ɲɔgɔn ɲɛ kɔrɔ, o ka dɔ ye
-- Wari ka dɔ ni kuma tɔw ka dɔ
+- Tulonko walima ɲɛ ɲɛnamaya
+- Tulonko ka bɔ, walima mɔgɔ tɛ min bɛ se ka taa
+- Sigi yɛrɛ dɔrɔn, walima ko caman bɔra mɔgɔ ka ɲɛnamaya la, i n'a fɔ mɔgɔ ka muso walima ka cɛ bɔ, walima bɛ bɔ baara kɔ
+- Hakili ka ɲɛnamaya kɛli walima ɲɛnamaya ɲɛnamaya
+- Mɔgɔ dɔ ka dɔgɔya ni mɔgɔ ka kɛlɛ kɛ
+- Wari ko ni kuma tɔɔrɔ
 
-Tulo ye dɔ ye min bɛ fɛn caman kɛ. NIA bɛ ɲɛfɔ ko tulo mɔgɔw bɛ se ka bɔ ɲɔgɔn fɛ, katuguw ko kuma bɛ se ka gɛlɛya ka nisɔndiya, walima ka hinɛ. Ka tulo ka ɲɛfɛ, [sɔgɔsɔgɔ ni tulo ka kuma](/brain-health/hearing/) bɛ tulo ka sɔgɔsɔgɔ ni tulo ka dɛmɛ fɛn ko bɛ se ka ɲɔgɔn kɛ.
+Tulonko ye fɛn dɔ ye min bɛ bon kosɛbɛ. NIA ko mɔgɔ minnu bɛ tulonko kɛ, o bɛ se ka bɔ mɔgɔw kɔ ko kuma bɛ ka gɛlɛya walima ka hinɛ kɛ. Ne bɛ kɔnɔnafɛn ka laɲini kɛ ka [tulonko ni hakili ka ɲɛnamaya ɲɛnamaya](/brain-health/hearing/) kɔnɔ, o bɛ tulonko ɲɛnamaya ni dɛɲɛgɛn dɛkɛli sɔrɔ.
 
-## Cogo min na ka ɲɔgɔn ɲɛ ka kɛ?
+## Cogo jumɛn na ka mɔgɔ ɲɔgɔn ye?
 
-NIA bɛ ɲɛfɛnw caman ɲɛfɔ. Aw ka sugandi ka fɛn kelen walima fila sugandi, o min bɛ aw ka ɲɛ:
+NIA ka laɲini caman bɛ yan. Aw ka dɔ walima fila sugandi ka kɛ ka ɲɛnamaya:
 
-- **Waati ɲɛfɛnnen ka ɲɔgɔn ɲɛ.** Waati ɲɛfɛnnen don kalo kɔnɔ walima don kalo kɔnɔ, ka wele, ka sɛbɛ, ka ci sɛbɛ walima kaari ka sɛbɛ ni mɔgɔ ye, ni ɲɔgɔn ɲɛ ye, ni mɔgɔ ye, ni dugukolo ye.
-- **Video wele walima sɔgɔ-kuma kalan.** Ni teknɔlɔji bɛ kura ye, ɲɔgɔn kalan bɛ kɛ sebenw kɔnɔ caman. [Telefɔn ni video wele ka kuma](/activities/phone-and-video-calls/) bɛ ɲɛfɛn caman ɲɛfɔ.
-- **Ka ɲɔgɔn ɲɛ ka kɛ.** Ka kalan, ka dɔnniya, ka ɲɔgɔn ɲɛ ka kɛ ni ɲɔgɔn ye, walima ka kɛ dɛmɛ ni mɔgɔ bɛ se ka kɛ, o bɛ mɔgɔ ni mɔgɔ ɲɔgɔn ɲɛ ani ka hakilina ka kɛ dɔ.
-- **Ka fɛn kura kɛ ka ɲɛnɔgɔnya ye,** walima ka fɛn kura kalan mɔgɔw ni ɲɔgɔn ɲɛ ye.
-- **Ka taa ni mɔgɔ ɲɔgɔn ɲɛ.** Ka taa ni mɔgɔ ye walima ni mɔgɔ ɲɔgɔn ɲɛ ka kɛ ni mɔgɔ ye. [Ka ɲɔgɔn ɲɛ ka kuma](/brain-health/exercise/) bɛ ɲɛfɛnw ɲɛfɔ.
-- **Ni bɛ se, kɛ ni ɲɔgɔn ɲɛ.** Sɔgɔ ka ɲɛfɛnw bɛ kɛ dɛmɛ ye.
-- **Ka dɛmɛ sɔrɔ ɲɛ kɔnɔ.** Senior centers, Area Agencies on Aging ani Eldercare Locator (800-677-1116) bɛ se ka aw ɲɛfɛ kɔrɔ ka programme ni taa dɔ sɔrɔ.
+- **Ka waati ɲɛnɔgɔn ɲɛnamaya kɛ.** Ka waati dɔ sugandi o don dɔ walima kalo dɔ, ka wele, ka kuma ni ɲɔgɔn ye sɛbɛ, walima ka kaarti ci ni mɔgɔ ɲɔgɔn ye, ni bɔnɛ mɔgɔ ye, walima ni baarakɛla ye.
+- **Ka video wele walima ka dɔnkili ɲɛnamaya kɛ.** Ni ka kɔnɔ nin dɔnkili ɲɛnamaya kura ye, jamanaden kɔnɔ bɛ se ka dɔnkili kalanw kɛ. Ka [telefɔni ni video welew ɲɛnamaya](/activities/phone-and-video-calls/) ɲɛ.
+- **Ka kɔlɔsi dɔ kɛ.** Kalan dɔ, dinɛ ka jamana, ka taa ni mɔgɔ ɲɔgɔn ye, walima baara ɲɛnɔgɔn kɛ, o bɛ ɲɔgɔn fɛ ka ɲɛnamaya ni ɲɔgɔn ye.
+- **Ka kɛ ka dɔ kɛ ka se ka dɔ kɛ kɔfɛ.** Dɔ ka ɲɛnamaya min tun bɛ kɛ, walima dɔ kura min bɛ kɛ ni mɔgɔ ɲɔgɔn ye.
+- **Ka ɲɔgɔn fɛ ka dɔ kɛ.** Ka ɲɛnamaya kɛ ni mɔgɔ ɲɔgɔn ye, walima ka taa dɔ kɛ ni mɔgɔ ɲɔgɔn ye. Ka ɲɛnamaya kɛ ni nin ɲɛnamaya kɛ ni [ɲɛnamaya ɲɛfɛn](/brain-health/exercise/) ka ɲɛnamaya ɲɛfɛn.
+- **Ka dusu ni dɔ ɲɛ, ni i bɛ se ka o kɛ.** Ni i bɛ se ka dusu kɛ ni o ye ɲɛnamaya ɲɛ, o bɛ kɛ kɛlɛ dɔ.
+- **Ka jamanaden sigilanw kɛ.** Dɔnkili sigilanw, jamanaden sigilanw ani Eldercare Locator (800-677-1116) bɛ se ka aw ka ɲɛnamaya sigilanw ni taa ɲɛ.
 
-## Mun na ɲɔgɔn ɲɛ kɛlɛ dementia kɔnɔ?
+## Mun na ka sigi ni ɲɔgɔn ye dementia kɔnɔ?
 
-Dementia bɛ min na, ɲɔgɔn ɲɛ bɛ nisɔndiya, ka nisɔndiya ani ka mɔgɔ ye mɔgɔ ɲɔgɔn ye, o ye fɛn ye. A tɛ dusu ka ɲɛnɔgɔnya ka caya kɔ. Lancet Commission bɛ ɲɛfɔ ko kɛlɛw bɛ dementia mɔgɔw dɛmɛ ka nisɔndiya ni ɲɛnamaya ɲɛfɛ ka sɔrɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bɛ ɲɛfɔ ko kɛlɛw bɛ mɔgɔ ka ɲɛnamaya ɲɛfɛ, ani o bɛ se ka dɔ ka kɛ ni ka taa ɲɛfɛ mɔgɔ ka fɛn tɔw, i ko kɔnɔ ka taa walima ka ɲɛnɔgɔnya. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ fana ɲɛfɔ ko Alzheimer's bɛ mɔgɔ min na, o ka kan ka kɛ ni ka fɛn min nisɔndiya ka kɛ.
+Mɔgɔ dɔ min bɛ dementia ka bana la, o kɔnɔ, ɲɔgɔn fɛ ka ɲɛnamaya bɛ kɛ ka nisɔndiya ni ka kɔnɔ ɲɛnamaya kɛ, o tɛ kɔnɔnafɛn ka bɔ kɔrɔ. Lancet Commission ka laɲini ko ɲɛnamaya bɛ dementia bana la mɔgɔw ka nisɔndiya ni ka ɲɛnamaya ɲɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ka kuma ko ɲɛnamaya bɛ se ka ɲɛnamaya ɲɛ, o ka tɛ nisɔndiya ɲɛnamaya ɲɛ dɔrɔn, ka ɲɛnamaya kɛ tɔɔrɔ ni tɔɔrɔ kɛ ɲɛnamaya kɔfɛ. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fana ka laɲini ko mɔgɔ minnu bɛ Alzheimer ka bana la, o ka ɲɔgɔn fɛ ka baara kɛ ani ka fɛn minnu nisɔndiya o kɛ.
 
-Kɛlɛ minnu bɛ ɲɛ:
+Ɲɛnamaya minnu bɛ kɛ ka ɲɛ:
 
-1. **Ka sɛbɛ ɲɔgɔn ɲɛ.** [Conversation Cards](/games/conversation-cards/) bɛ kuma kɛlɛ ɲɛfɛnnen, tɛ kalan ni tɛ kɔnɔ ye, i ko "N ye ... fɛ kuma". A ka [ɲɛnɔgɔnya ka kuma](/activities/reminiscence/) ɲɛfɛ.
-2. **Ka kɛlɛ ni ɲɔgɔn ye.** [Picture Pairs](/games/picture-pairs/) bɛ sɛbɛ ɲɔgɔn ɲɛ, ani tɛ waati walima dɔn tɛ, o kɔ, mɔgɔ tɛ gɛlɛya. A ka [ɲɔgɔn ɲɛ ka kɛ cogo](/caregiving/how-to-play-together/) ka kuma ɲɛfɛ.
-3. **Ka mɔgɔ ka sɛbɛ kɛ.** [Photo Pairs](/games/photo-pairs/) bɛ sɛbɛ min aw sugandilen, o kɛ kɛlɛ ye min bɛ sɛbɛ ɲɔgɔn ɲɛ. Sɛbɛ tɔw bɛ sigi aw ka kɛnɛya kɔnɔ.
-4. **Ka mɔgɔw ɲɔgɔn ɲɛ ka kɛ.** [Picture Bingo](/games/picture-bingo/) bɛ kɛ ka ɲɔgɔn ɲɛ ka sigi ni fɛn kɔnɔ, ani [care home groups](/activities/care-home-groups/) kɔnɔ fana.
-5. **Ka dɔnkili, kasɛ walima kɔnɔ kɛ ni ɲɔgɔn ye.** A ka [dɔnkili ka kuma](/activities/music/), [so ka baara](/activities/household-tasks/) ani [kɛlɛ ka kuma caman](/activities/ideas/) ɲɛfɛ.
-6. **Ka taa ka ɲɛ.** A ka [taa ka kuma](/activities/visiting/) ɲɛfɛ, o bɛ kuma taa ɲɔgɔn kɔnɔ min bɛ ɲɛ ka kɛ mɔgɔ bɛɛ ye.
+1. **Ka sɛbɛnw ɲɛ ni ɲɔgɔn ye.** [Kuma Karɔtiw](/games/conversation-cards/) bɛ kumakan kɛ min bɛ ka kuma ni mɔgɔ ɲɔgɔn ye, i n'a fɔ "Ka ko ka..." Ka [waatiw ka kuma ɲɛnamaya](/activities/reminiscence/) ɲɛ.
+2. **Ka dɔ kɛ ni ɲɔgɔn ye sɛnɛ ni dɔ ye.** [Sɛbɛnw ni sɛbɛnw](/games/picture-pairs/) bɛ sɛbɛnw jɛɲɔgɔn ni waati kɛlɛ tɛ, o kɔ tɛ ɲɛ kɛ. Ka [ka dɔ kɛ ni ɲɔgɔn ye](/caregiving/how-to-play-together/) ɲɛ ka ɲɛnamaya kɛ.
+3. **Ka mɔgɔw ka sɛbɛnw kɛ.** [Ka sɛbɛnw ɲɛnɔgɔn kɛ](/games/photo-pairs/) bɛ sɛbɛnw min i yɛrɛ sugandi, ka o kɛ dɔ ye ni ɲɔgɔn ye, ani sɛbɛnw bɛ to i ka dɔnkili kɔnɔ.
+4. **Ka mɔgɔw ɲɔgɔn ye.** [Sɛbɛn Bingo](/games/picture-bingo/) bɛ kɛ jamanaden kɔ ɲɔgɔn fɛ, ani [dɔnkili sigilanw kɔnɔ mɔgɔw](/activities/care-home-groups/) fana.
+5. **Ka dɔnkili, baara walima sɛnɛ ɲɛnamaya kɛ ɲɔgɔn fɛ.** Ka [dɔnkili kalanw](/activities/music/), [so baara](/activities/household-tasks/) ani kɛnɛ ka [ɲɛnamaya ɲɛfɛn caman](/activities/ideas/) ɲɛ.
+6. **Ka taa ka ɲɛ ka sɔrɔ.** Ka [taa ɲɛnamaya kɛ](/activities/visiting/) min bɛ waati ɲɛnɔgɔn ni sigi ɲɛnamaya kɛ, o bɛ ɲɔgɔn fɛ ka nisɔndiya.
 
-Ka kɛ fitinin ni nisɔndiya ye. Mɔgɔ kelen walima fila ni ɲɔgɔn ɲɛ ka kɛ kɔnɔ ɲɛnɔgɔnya ka kɛ ka ɲɛ ni mɔgɔ caman kɔnɔ. Ni mɔgɔ min bɛ sigi, o sɔgɔ walima a ka hinɛ ban, o ye ɲɛ ye ka kɛlɛ ban. Ka sigi ɲɔgɔn fɛ ni tɛ-kɔ min bɛ bɔ, o fana ye ɲɛ ye.
+Ka o kɛ ni hinɛ ni dusu. Mɔgɔ fila walima saba ni ɲɔgɔn ye kɔnɔ bɛ ɲɛ ka tɛmɛ mɔgɔ caman kan. Ni mɔgɔ dɔ ye tɔmɔ walima a ye ɲɛnamaya bɔ, ka ɲɛnamaya ɲɛ ka tilen, o ka ɲɛ. Ka sigi ni ɲɔgɔn ye, ka tè ni ɲɔgɔn fɛ, o fana ye ɲɛnamaya ɲɛ.
 
-Ni mɔgɔ bɛ sigi yɛrɛ kɔnɔ ni dementia, NIA bɛ ɲɛfɔ ko ka mɔgɔ dɔ sɔrɔ min bɛ se ka taa walima video wele waati caman, ani min bɛ se ka kɛ ni dɛmɛ ye waati gɛlɛya kɔnɔ. A bɛ ɲɛfɔ fana ko kɔnɔ memory cafe, o ye ɲɛ kɔnɔ min bɛ mɔgɔ ye min bɛ hakili ka kɔnɔ, ni a ka mɔgɔ ye.
+Ni mɔgɔ dɔ min bɛ dementia ka bana la sigi yɛrɛ dɔrɔn, NIA ko ka mɔgɔ dɔ sɔrɔ, min bɛ se ka taa walima ka video wele waati ɲɔgɔn fɛ, ani min bɛ se ka kɛ dɔ ye ni ɲɛnamaya kɔfɛ ye. A fana ko jamanaden kɔnɔ ka "memory cafe" dɔ bɛ se ka kɛ, o ye ɲɛnamaya ɲɔgɔn ye min bɛ kɛ mɔgɔ minnu bɛ hakili ka ɲɛnamaya dɔ la ni u ka denw ye.
 
-## Mɔgɔ min bɛ mɔgɔ kɔrɔ dɛmɛ, o fana bɛ kɔnɔnaya kɔnɔ
+## Mɔgɔ minnu bɛ mɔgɔ ka bana ɲɛnamaya, u fana bɛ dɔgɔya
 
-NIA bɛ ɲɛfɔ ko mɔgɔ kɔrɔ ka dɛmɛ ye kɔnɔnaya ka ɲɛfɛn ye. Ka waati dɔ mara aw yɛrɛ ka ɲɔgɔn ɲɛ kɔnɔ, ka dɛmɛ kɔnɔ ni ka sɔgɔ. A ka [mɔgɔ min bɛ dɛmɛ ka yɛrɛ ka ɲɛfɛ kuma](/caregiving/caregiver-self-care/) bɛ kɛlɛ ɲɛfɛnw ɲɛfɔ.
+NIA ko mɔgɔ dɔ ka bana ɲɛnamaya kɛ, o ye mɔgɔ ɲɔgɔn tɛ ka kɔnɔnafɛn ye. Ka waati dɔ ɲɛnɔgɔn tila i ka teriya ni i ka dɔnkili ka sigi ɲɛ ni i yɛrɛ ka hinɛ. [Ka i yɛrɛ ka ɲɛnamaya ɲɛfɛn](/caregiving/caregiver-self-care/) ɲɛ ka sɛbɛnw ɲɛ.
 
-## Dokotoro ni kuma
+## Dɔkitɔrɔ ni kuma
 
-Ni aw walima mɔgɔ min bɛ aw ka hinɛ, o bɛ kɔnɔnaya walima kɔnɔnaya fɔlɔ waati caman kɔnɔ, aw ka dokotoro ni kuma. NIA bɛ mɔgɔw kuntigi ko ka fɛn kɔrɔ ɲɛnɔgɔnya kɔnɔ, i ko ni dɔ sara ka bɔ, walasa dokotoro ka fɛn bɛɛ dɔn. Ni ka hinɛ ka se tile caman kɔnɔ, o bɛ se ka kɛ depression ye, o bɛ se ka dɔ ni dɔ ye. Ni mɔgɔ kɔrɔ bɛ bɔ ɲɔgɔn fɛ, ka ɲɛfɛnw ka kɛ min bɛ nisɔndiya a ye ka ɲɛfɛ, o ka kan ka dokotoro ma fana. [Dementia ka ɲɛfɛn fɔlɔw ani dokotoro ka waati](/brain-health/warning-signs/) ka kuma kalan.
+Ni i walima mɔgɔ min bɛ i ka ɲɛnamaya kɛ bɛ dɔgɔya waati caman, dɔkitɔrɔ kan kuma. NIA ka mɔgɔw ɲɛnamaya kɛ ka kuma ni dɔkitɔrɔ ye ko ɲɛnamaya kɔfɛ ka fɛn dɔ kɛ, i n'a fɔ mɔgɔ ka sàn, walasa dɔkitɔrɔ ka dɔnkili ka se ka dɔ ye. Dɔgɔya ni dɔ kɔnɔ ka kɛ dɔ dɔ bɛ se ka kɛ ka mɔgɔ dɔ ka hakili ka ɲɛnamaya bɛ ɲɛ, o bɛ se ka kɛ ka sɔrɔ. Ni mɔgɔ dɔ bɛ ɲɛnamaya kɛ, u ka tulonko bɛ, walima u bɛ dɔ kɛ ka dɔgɔ, o fana ka kuma ni dɔkitɔrɔ ye. Ka [dementia ka ɲɛnamaya fɔlɔw ni dɔkitɔrɔ ka waati](/brain-health/warning-signs/) ɲɛ.
 
-Nin kɔnɔ ye kuma ɲɛfɛ ye, tɛ dokotorow ka kuma. [Dokotoro ka kuma ka kɔlɔsili](/medical-disclaimer/) fana ka kalan.
+O sɛbɛn ye kuma sɛbɛn ye, a tɛ dɔkitɔrɔ ka kuma ye. Ka [jamanaden kuma](/medical-disclaimer/) ɲɛ.

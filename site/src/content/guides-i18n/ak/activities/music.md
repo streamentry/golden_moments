@@ -1,32 +1,33 @@
 ---
-title: "Nnwom Dwumadie ma Nnipa a Dementia Wɔ"
-seoTitle: "Nnwom Dwumadie ma Dementia: Nnwom Ahyɛnsoɔ ne Afotuo"
-description: "Sɛnea wobɛkyerɛ nnwom kɔ obi a ɔwɔ dementia nkyɛn: ahyɛnsoɔ a wowɔ wɔ ne mmerɛ ne nnwom atɔ so, nnwom dwumadie 15 a ɛyɛ mmerɛw, ne afotuo ma mmere biara."
+title: "Nnwom Ho Adwuma ma Obi a Ɔwɔ Dementia"
+seoTitle: "Nnwom Ho Adwuma ma Dementia: Nhyehyɛe ne Nsusuwii"
+description: "Sɛdeɛ wobɛkyekye nnwom ne obi a ɔwɔ dementia: nhyehyɛe ankasa nnwom bi a efi mmere ne mmeaeɛ mu, nnwom adwuma 15 a ɛyɛ mmerɛw, ne nhyehyɛe ma mmere biara."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Nnwom yɛ biribi a ɛyɛ mmerɛw sɛ wobɛkyerɛ obi a ɔwɔ dementia. Yɛ ahyɛnsoɔ
-  a ɛfiri ne mmerɛ, ne gyidie ne abusuafo nnwom mu, na fa ɛnkɔ a wonni
-  nkɔsoɔ anaa nneɛma a ɛdwiriw. Yɛ nnwom a ɛyɛ dodoɔ anaa a ɛyɛ anigye
-  ɔkwan, na wɔn ho nhwɛso kɔ akyiri. Fa ɛka a ɛyɛ mmerɛw, na gyae sɛ nnwom
-  bi haw wɔn.
+  Nnwom yɛ adwuma a ɛyɛ mmerɛw sɛ wobɛkyekye obi a ɔwɔ dementia. Yɛ ankasa
+  nnwom nhyehyɛe a efi ne mmere, ne gyidie ne abusua mu, gye so a wɔnnyɛ
+  advertisement anaa nneɛma a ɛyɛ nkɔm nsɛ. Fa nnwom, bɔ nkwa, sew anaa
+  tie nnwom no ne ho ma wo ne wɔn. Paw nnwom a ɛyɛ dwo anaa a ɛma nkurɔfo
+  ani gye sɛ ɛfata mmere no, de nnwom no nsɛ bɔ kakra, na gyae nnwom no
+  sɛ ɛma ɔnipa no ho hyɛ no.
 keyPoints:
-  - "Nnwom a ɛyɛ wɔn ankasa yɛ nea ɛyɛ yiye: nnwom a wɔpɛ wɔ wɔn mmerɛ a wɔyɛ mmarima anaa mmaa pa, ne nnwom a ɛfiri wɔn gyidie, wɔn amammere ne abusua abɛn."
-  - "Fa biribi bi nko ara, nkɔsoɔ biara ntwa, na TV no nnyɛ ho."
-  - "Nnwom ka, nnwom pere nsa, nnwom nso ayɛ ntam, ne nnwom tie nso yɛ ɔkwan nyinaa a wobɛtra ho."
-  - "Fa nnwom a ɛyɛ dodoɔ ma ɔdwodwo, na nnwom a ɛyɛ anigye ma ahoɔden fi, na hwɛ sɛnea ɔno ara bɛgye."
-  - "Nhwehwɛmu a yɛayɛ wɔ nnwom a wɔhyehyɛ mu no yɛ kakraa; yɛkamfo sɛ nnwom yɛ biribi a ɛyɛ anigye sɛ wobɛkyerɛ, na ɛnyɛ ayaresa."
+  - "Ankasa nnwom na ɛyɛ yiye: nnwom a ɔpɛ wɔ ne mmerante, ne nnwom a efi ne gyidie, ne ne abusua anigye mu."
+  - "Gye nnwom baako pɛ so, na mma advertisement nni hɔ, na TV no nso nnyew."
+  - "Nnwom to, nnwom ka, bɔ nkwa, sew anaa tie nnwom no ne ho, nyinaa yɛ ɔkwan a wobetumi afa so."
+  - "Fa nnwom a ɛma ne ho dwo to so, na fa nnwom a ɛma ɔnyɛ anigye to so sɛ ɛbɛboa ma ne tebea a ɛbɛyɛ; hwɛ sɛdeɛ ɔno ara ɔte."
+  - "Nhwehwɛmu a wɔayɛ wɔ nnwom nhyehyɛe ho yɛ kakra; yɛka sɛ nnwom yɛ anigye a yɛde kyekye obi, na ɛnyɛ ɔyareɛ mmoa."
 faq:
-  - q: "Nnwom bɛn na ɛyɛ nea ɛboa ma obi a ɔwɔ dementia?"
-    a: "Nnwom a ɔno ankasa ani gye wɔ berɛ tenten, a ɛbɛyɛ ne mmerɛ a ɔwɔ nkwa mu ne ne mmerɛ a ɔwɔ mmerɛ pa, ne nnwom a ɛfiri ne gyidie, ne amammere ne abusua anigye mu. Sɛ ɛbɛyɛ yiye a, ma ɔno ara nyi nea ɔpɛ. Hwɛ ne ani ne ne nipadua sɛ wobɛhu nea ɔpɛ, na yi nea ɛma no ayɛ basaa."
-  - q: "Ɛsɛ sɛ mede ntiri nsiw ano?"
-    a: "Obi pɛ ntiri nsiw ano efisɛ ɛbɔ nsɛnkyerɛnneɛ ano, nanso obi foforo ntumi nnya ho anigye anaa ɛma no ahohia. Fa okasafo ka kɔ ho ansa na woabɛtie nnwom no mu bom. Sɛ wode ntiri nsiw ano a, ma nnwom no nnyɛ den na tena ho akyɛre."
-  - q: "Nnwom betumi aboa ma obi ayɛ ahosiesie anaa ɔyɛ abufuw?"
-    a: "Nnwom a ɛyɛ dodoɔ a wɔte no dadaa betumi aboa ma ahomegyebɔ ba, na Alzheimer's Association kyerɛ sɛ wobɛfa nnwom de ayɛ tebea a wopɛ. Ɛnyɛ bere nyinaa na ɛyɛ adwuma. Sɛ ɔno yɛ ɔhaw a, hwɛ sɛ ɔwɔ yea, anaa ɔpɛ aduan, anaa nsɛnkyerɛnneɛ, anaa ɔmmoa."
-  - q: "Dementia a ɛsen so no, obi betumi ahyɛ nnwom anigye so?"
-    a: "Wɔn bebree betumi. Alzheimer's Association kyerɛ sɛ obi a ɔwɔ stage a ɛsen so no betumi ayɛ ne nsa ntam anaa ayɛ ne nnwom a ɔte ne mmofra mmere mu anaa ɔka ho. Tena ne nkyɛn, ma nnwom no nyɛ dodoɔ, na kyere ne nsa anaa ma ɔne wo nyinaa pere nsa."
+  - q: "Nnwom bɛn na ɛyɛ yiye ma obi a ɔwɔ dementia?"
+    a: "Nnwom a onipa no anya ne ho anigye wɔ tete, a ɛbarima sɛ ne mmerante ne ne mmere a ɔwɔ mmerante; ne nnwom a efi ne gyidie, ne ne kurom ne abusua anigyeɛ mu. Sɛ ɛbɛyɛ a, ma ɔnipa no ara ne ho paw. Hwɛ ne ani ne ne nipadua, na hu nnwom a ɔpɛ. Yi nnwom biara a ɛte sɛ ɛma no awerɛhyem."
+  - q: "Ɛsɛ sɛ mede headphones di dwuma?"
+    a: "Obi pɛ headphones efisɛ ɛboa ma ɔnte mmoawa, nanso obi foforo nni ho anigye anaa ɛma no ho hyɛ no. Hwehwɛ speaker ns, na mo nyinaa nnwom no. Sɛ wodi headphones dwuma a, ma nnwom no nnɔ kɔsi, na tena wo hɔ."
+  - q: "Nnwom betumi aboa ma obi a ɔwɔ ahohuru anaa awerɛhyem?"
+    a: "Nnwom a ɛyɛ dwo na wɔn a wahu no dedaw bɛtumi aboa ma asomdwoe aba, na Alzheimer's Association kyerɛ sɛ wobɛtumi de nnwom ahyehyɛ ahoɔden a wopɛ. Ɛnyɛ den sɛ ɛbɛyɛ yie daa. Sɛ ɔnipa no ho hyɛ no a, hwɛ sɛ ɔwɔ yaw, ɔpɛ aduane, mmoawa anaa ɔhoho nso."
+  - q: "Nnipa a dementia atwa mu kɔsi awiei betumi agye nnwom anigye?"
+    a: "Wɔn bebree betumi. Alzheimer's Association kyerɛ sɛ onipa a ɔwɔ awiei stage no betumi ada asɛm bi mu, anaa ayɛ nnwom a wɔayɛ wɔ ne mmofra mmere so. Tena ne nkyɛn, gye nnwom no to so sɛ ɛnyɛ den, na kura ne nsa anaa sew ne ho abɔ nkwa."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Nnwom yɛ biribi a ɛyɛ mmerɛw a wobɛkyerɛ obi a ɔwɔ dementia. Ɛnhwehwɛ mmuae a ɛteɛ anaa nkyerɛkyerɛ a wobɛdi so. Nnwom a wonim pɛpɛɛpɛ nnɛ ka anigye, nsa a ɛpere, anaa nsɛm kakraa a wɔka ka, bere a ɛnyɛ yiye sɛ wɔbɛkasa. Ɛho hia kae sɛ nnwom a ɛfata saa obi yi ne bere a wobɛtie so ne yɛ.
+Nnwom yɛ biribi a ɛyɛ mmerɛw a wobetumi de kyekye obi a ɔwɔ dementia. Ɛnhia sɛ wobɔ mmuae pɔtee anaa wodi ɔkwan a wɔahyehyɛ. Nnwom a ɔhu ano dedaw betumi ama ɔpɛ ɛbɛdeda, ne nan a ɛrepɛ ahoɔ, anaa ɔbɛka nsɛm kakra a ɔkaa ho nkyerɛ bio, ɛwom sɛ ɛnyɛ anigye daa. Wohia nnwom a ɛyɛ yiye ma ɔnipa yi ne berɛ a ɛyɛ ahomeda a wobetumi asɛ nnwom no.
 
-## Dwumadie bɛn na ɛyɛ yiye ma nnipa a wɔwɔ dementia?
+## Nnwom adwuma bɛn na ɛyɛ yiye ma nkurɔfo a wɔwɔ dementia?
 
-Ntie nnwom, nnwom ka, nnwom pere nsa, nnwom nso ayɛ ntam, ne nkasa wɔ nnwom ho nyinaa yɛ yiye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ wobɛtie nnwom, wɔnkasa nnwom ne ɔdwanfo no ho, wɔnka anaa wɔnnyan nnwom a wɔnim yiye, ne wɔnkɔ nnwom ahyɛdeɛ a wɔyɛ wɔ mpɔtam mu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ka sɛ nsa a wɔpere, te sɛ nsa a wɔpere anaa wɔnyan, betumi ama anigye nyinaa ayɛ kɛse, na nnwom betumi aboa ma wɔnkyerɛ abusua no bere a nsɛm bɛyɛ den.
+Ntie nnwom, nnwom ka, bɔ nkwa, sew ne nkasa wɔ nnwom ho nyinaa yɛ adwuma a ɛyɛ yiye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ wɔngye nnwom to so, wɔnkasa wɔ nnwom ne ɔdansifo ho, wɔnka anaa wɔnsew nnwom a wɔnim yiye, ne sɛ wɔnkɔ nnwom ahyɛdeɛ anaa nnwom ahyɛdeɛ wɔ kurom mu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ka sɛ nneyɛe a ɛte sɛ bɔ nkwa anaa sew ka anigye ho, na nnwom betumi ayɛ ɔkwan a wobetumi de ka ho bio sɛ nsɛm no yɛ den.
 
-## Sɛnea wobɛyɛ ahyɛnsoɔ ka ho?
+## Sɛdeɛ wobɛhyehyɛ ankasa nnwom nhyehyɛe?
 
-Biribi a ɛboa paa a wobɛyɛ ne ahyɛnsoɔ a ɛyɛ nnwom a ɛwɔ obi a ɔwɔ ho mfaso. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nso ka nnwom a ɛwɔ wɔn ankasa ho nkyerɛaseɛ ho. Sɛnea wobɛyɛ no ni:
+Biribi a ɛboa paa a wobetumi ayɛ ne nnwom nhyehyɛe a ɛwɔ ho nkyerɛ ma ɔnipa yi. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nso gyina so sɛ nnwom a ɛwɔ ne ho nkyerɛ. Sɛdeɛ woibɛhyehyɛ bi ni ha.
 
 ### Fi ne nkwa ase
 
-- **Ne mmerɛ a ɔyɛ mmarima anaa mmaa pa.** Susuw nnwom a ɛwɔ radio, ahyɛdeɛ ne sini mu bere a ɔyɛ ɔbarima anaa ɔbaa.
-- **Nneɛma kɛse.** Nnwom a wɔtwee wɔ ne ware ho, ne nnwom a ɔfiri ne nkɔ bere a wɔfiri ne abusua ho nnwom a ɔpɛ paa.
-- **Gyidie ne amammere.** Nnwom a wɔka wɔ asɔredan mu, nnwom a ɛfa Nyankopɔn ho, anaa nnwom a wɔka wɔ wɔn kasa mu.
-- **Adwuma ne asɔfodie.** Nnwom a wɔtie wɔ asraafo mu, adwuma nnwom, anaa nnwom a ɛfa bere bi a ɔyɛ asraafo ho.
-- **Nea abusua no kae.** Bisa ne nuanom, mmofra ne nnamfo a wɔyɛ abusuafo a wɔyɛ nnwom anaa wɔka no bere nyinaa.
+- **Ne mmerante ne ne mmere a ɔwɔ mmerante.** Susuw nea wɔgyee wɔ radio, abɛdan ne sinima mu bere a ɔyɔ abofra.
+- **Nsɛmpa kɛseɛ.** Nnwom a wɔgyee wɔ ne ayawdie mu, ne kɔnsɛt a ɔpɛ paa, anaa album a wɔtee wɔ abusua mmerɛ mu.
+- **Gyidie ne kurom.** Nnwom a wɔka wɔ asɔredan, gospel, nnwom kronkron, anaa nnwom wɔ ne kasa mu.
+- **Adwuma ne asomdwoe.** Asraafo nnwom, adwumayɛ nnwom, anaa nnwom a ɛfa bere bi a ɔsomaa wɔ ɔsraafo mu ho.
+- **Nea abusua no kae.** Bisa ne nuanom, mma ne ne nnamfo a wɔatena ne nkyɛn sɛ ɛdeɛ anaa nnwom bɛn na wɔgyee sɛ wɔbɛgye.
 
-### Susuw nnwom mu a ɛyɛ mmusua, na ɛnyɛ nnwom kɛkɛ nko
+### Susuw nnwom mu nkyɛmu, na nnyɛ nnwom baako nko
 
-Sɛ wonnim baabi a wobɛfi ase a, sɔ nnwom mmienu anaa abiɛsa a ɛwɔ saa mmusua yi mu hwɛ, na hwɛ sɛnea ɔbɛgyina: big band ne swing, doo-wop, Motown ne soul, early rock and roll, country and western, bluegrass, gospel ne nnwom a wɔka wɔ asɔredan mu, Broadway nnwom, jazz nnwom a wɔnim, Latin nnwom te sɛ bolero anaa mariachi, polka, folk ne classical. Kora nea ɛma no anigye anaa ɛma ne nsa pere; gyae nea ɛma no mmɔbɔ.
+Sɛ worensusuw sɛ wobɛfi he ase a, sɔ nkyɛmu kakra wɔ saa nkyɛmu yi mu na hwɛ sɛdeɛ ɔte: big band ne swing, doo-wop, Motown ne soul, rock and roll a wɔyɛɛ dedaw, country and western, bluegrass, gospel ne nnwom kronkron, Broadway show tunes, jazz standards, Latin nnwom te sɛ bolero anaa mariachi, polka, folk ne classical. Gye nea ɛma ɔnyɛ anigye anaa ɔbɔ nkwa ase; yi nea ɛma ɔhwɛ ɔkɔm.
 
-### Ma ɛyɛ mmerɛw sɛ wobɛhyɛ so
+### Ma ɛyɛ mmerɛw sɛ wobɛgye
 
-- **Nkɔsoɔ biara nni hɔ.** Alzheimer's Association kɔkɔ sɛ nkɔsoɔ betumi ama obi ahoho. Fa nnwom a wɔde asiesie, CD, plaque anaa ɛfa nkɔsoɔ nni hɔ asɛm so.
-- **Nsɛnkyerɛnneɛ baako.** Nsɛnkyerɛnneɛ a ɛwɔ bɔtɔn kɛse baako, anaa nnwom a wɔasiesie na ɛda hɔ ma obi biara betumi ahyɛ so.
-- **Nnwom mmienu a ɛyɛ mmerɛw.** Nnwom a ɛyɛ dodoɔ ma ɔdwodwo, ne nnwom a ɛyɛ anigye ma ahoɔden fi.
-- **Ma ɛnyɛ basaa.** Kyerɛw ɔdeɛ no din ne "nnwom a ɔpɛ" wɔ nsɛnkyerɛnneɛ no so, na abusua a ɛbɛsrɛ ne ayaresa adwumfo nso betumi ahyɛ so.
+- **Advertisement biara nni hɔ.** Alzheimer's Association kɔ so ka sɛ advertisement betumi ama ɔhoho. Fa nnwom a wɔatwe fi intanɛt, CD, records anaa service a advertisement nni mu.
+- **Dwumadi a ɛyɛ kwan.** Speaker a ɛwɔ bɔtɔn kɛse baako, anaa nnwom nhyehyɛe a wɔasie ne asie, sɛnea obiara betumi afi ase.
+- **Nnwom nhyehyɛe abien.** Baako a ɛma ɔnipa adwo, ne baako a ɛma ɔnipa anigye.
+- **Ka ne din.** Kyerɛw ɔnipa no din ne "nnwom a ɔpɛ" wɔ dwumadi no so, sɛnea abusua a ɛbɛsrɛ ne nnipa a wɔhwɛ no nso betumi de di dwuma.
 
-## Nnwom dwumadie 15 a wobɛsɔ hwɛ
+## Nnwom adwuma 15 a ɛsɛ sɛ wosɔ hwɛ
 
-1. **Tie nnwom ne wo nyinaa.** Fa wo ho ne ne ho ntena ase, na biribi foforo nni hɔ. Nnwom a wotie no nso yɛ dwumadie a ɛmma.
-2. **Ka nnwom.** Fi wo ankasa ka ase. Sɛ wode wo ano bɛwoo nnwom anaa wo ano ɔka nsɛm no ɛnsɛ sɛ ɛyɛ basaa.
-3. **Pere nsa anaa kyerɛ mmerɛ.** Pere wo nkotodwe, pere ahyɛdeɛ no, anaa fa ɔkyɛ fɛɛ ɔbɛnnyan kakraa.
-4. **Dance a ɛyɛ dodoɔ.** Kyerɛ nsa ne ɔkyɛ wɔ abɔdeɛ mu anaa fa wo ho sɛ wobɛtra ase, na sɛ wotena a, fa nsa ne ho nnyan wɔ mu.
-5. **Ntoma a wɔde gu nsa mu.** Ma ntoma a ɛyɛ hann so, na wɔ nnwom so, wotra ase anaa wotena ase.
-6. **Kasa nnwom no ho.** Frɛ no kɔ ho, nka sɛ wobɛsɔ hwɛ: "Yei te sɛ ɛberɛ a wɔde kɔ dance. Ka nnwom ne tiaa ho asɛm ma me." Nka sɛ "Wo kae saa nnwom yi anaa?"
-7. **Gyina album nyinaa so.** Fa plaque a ɔpɛ paa sɛ wɔtie no fi ase kɔsi awiei, bere a wodi kɔfi.
-8. **Hwɛ album ano ntoma.** Plaque a wɔde yɛ album ho ntoma yɛ mmerɛw ma wɔka ntoma ho asɛm, kaa ne nnuan ho asɛm.
-9. **Hwɛ musical.** Musical anaa konsaati a wɔfa ne bere ho betumi ayɛ anadwo a ɛyɛ anigye. Gyae ama wɔayɛ ahomegyebɔ.
-10. **Fa ngoma a wonim so.** Obi a ɔtɔ piano anaa guitar ansa na ɔda betumi ani gye sɛ ɔbɛto ngoma a ɛyɛ mmerɛw. Akyiri no, sɛ wobɛto nkyene kakraa bom a ɛnyɛ den no ayɛ.
-11. **Nnwom bere a wɔreyɛ adwuma.** Gyina ne nnwom a ɔpɛ so bere a wɔreta nkata anaa wɔrehyehyɛ nnuane.
-12. **Anɔpa nnwom.** Fi nnwom a ɛyɛ anigye a wɔtie da biara ase sɛ ɛyɛ nea ɛwɔ wɔn daa ho adwuma mu.
-13. **Ka nnwom a ɛfa Nyankopɔn ho anaa asɔredan nnwom.** Gyina ne gyidie nnwom so, na mo nyinaa ka no.
-14. **Fa wo ho ka abɔdeɛ nnwom mu.** NHS kyerɛ sɛ abɔdeɛ nnwom a wɔka no boa ma ahoɔden ne ahomegyebɔ. Bisa wɔ wo mpɔtam mu sɛ ɛwɔ dementia-friendly choir anaa.
-15. **Kɔ nnwom a wɔrekyerɛ wɔ hɔ.** Konsaati kakraa a ɛwɔ mpɔtam mu anaa ɔdwoedwoɔ a wɔtɔ wɔ ɛsɛe mu. Tena ahwɛ ɔpon a ɛbɛn, na wobɛkɔ bere biara a wopɛ.
+1. **Tie nnwom bom.** Fa mo ho bɛtena nkyɛn wɔ asomdwoe mu, na biribiara nni hɔ. Tie nnwom ankasa yɛ adwuma koro.
+2. **Ka nnwom ne ho.** Fi ase ka nnwom. Sɛ wohum anaa wobɔ mmɔden a ɛka nsɛm no nso yɛ.
+3. **Bɔ nkwa anaa bɔ tempo no.** Bɔ wo bɔdwe, bɔ ntamadan no so, anaa fa ntenneɛ kakra anaa shaker.
+4. **Sɛe nnwom a ɛyɛ dwo.** Kura nsa mu na wɔ sɛ wote ase wɔ ɔdan mu, anaa sɛe wɔ kurosie so, de ntaban ne nsa sɛe bom.
+5. **Ntwene nnwom.** Hwie mpɛnsaa a ɛyɛ mmerɛw ɛnam nnwom a wɔrehyɛ so, wo ne ho ahyɛ anaa wo ne ho atena.
+6. **Kasa wɔ nnwom ho.** Fre, nnyɛ sɛ wobɛsɔ hwɛ: "Yɛɛ sɛ nnwom yi fa abɛdan ɛmmeae. Ka me ho asɛm wɔ abɛdan no ho." Nnyɛ bisa "Wo kae nnwom yi anaa?"
+7. **Gye album nyinaa.** Gye record a ɔdɔ no bɛn kɔsi awiei, fi ase kɔsi awiei, ɛnam kɔfi so.
+8. **Hwɛ album no kwan.** Records a wɔatwe wɔ mu no yɛ nea ɛboa paa sɛ wobɛkasa wɔ atade, kar ne anifuraefoɔ ho.
+9. **Hwɛ musical bi.** Musical anaa kɔnsɛt a wɔayɛ wɔ ne bere mu betumi ayɛ anadwo a ɛyɛ anigye. Gyae ma wɔnnyina ahomegyedi.
+10. **Gyina ɔsɛnkafoɔ a ɔnim.** Ɔpianofoɔ anaa gitaarfoɔ a wɔyɛ no kan betumi anya anigye wɔ nnwom a ɛyɛ mmerɛw ho. Akyire yi, ɛbɛyɛ ade sɛ mo nyinaa bɛtwe nkɔfa kakra.
+11. **Nnwom bere a wɔreyɛ adwuma.** Gye nnwom a ɔpɛ paa so bere a wɔrebɔ nkataa anaa wɔrehyehyɛ tabɔn no.
+12. **Anɔpa nnwom.** Fi ase da biara ɛnam nnwom anigye bi a wɔdi dwuma daa so.
+13. **Ka nnwom kronkron anaa nnwom asɔre.** Gye nnwom a efi wɔn gyidie mu to so na mo nyinaa nnwom.
+14. **Kɔ nnwom abɔ dwuma mu.** NHS kyerɛ sɛ nnwom ka dwumadi betumi aboa ma anigye ne ahoɔden. Bisa wɔ wo mpɔtam hɔ sɛ wɔwɔ dementia-friendly choirs anaa.
+15. **Kɔ nnwom a wɔrehyɛ ase no so.** Kɔnsɛt a ɛnyɛ tenten wɔ kurom mu anaa band a ɛhyɛ ase wɔ ɔpɛpɛ mu. Tena ɔpon no ho, na ɛsɛ wo pɛ a, fi hɔ.
 
-Sɛ wopɛ dwumadie a ɛyɛ ankasa ne nsɛm a wonim so a, sɔ [finish the saying](/games/finish-the-saying/) hwɛ, baabi a wobetumi aka awiei no daa.
+Sɛ wopɛ adwuma a ɛyɛ mmerɛw a ɛfa nkasa a wɔnim ho, sɔ hwɛ [ka mmara a ɛwɔ hɔ](/games/finish-the-saying/), baabi a wobetumi aka awiei ma no daa.
 
-## Nnwom a ɛfata bere biara
+## Nnwom a ɛfata bere no
 
-Alzheimer's Association kyerɛ sɛ wobɛfa nnwom de ayɛ tebea a wopɛ: nnwom a ɛyɛ dodoɔ ma ahomegyebɔ, ne nnwom a ɛyɛ anigye fi ɔbarima anaa ɔbaa mmerɛ mu ma ahoɔden fi.
+Alzheimer's Association kyerɛ sɛ wobetumi de nnwom ahyehyɛ ahoɔden a wopɛ: nnwom a ɛyɛ dwo ma asomdwoe, ne nnwom a ɛyɛ anigye a efi ne mmere mu de ma ne ho bɔ nkwa.
 
-| Bere | Bɔ mmɔden | Afotuo |
+| Bere | Sɛ wobɛyɛ | Afotu |
 | --- | --- | --- |
-| Sɛ ɔrestɔ | Nnwom a wonim, a ɛyɛ anigye | Nnwom koro a wɔtie da biara yɛ ɔkwankyerɛ a ɛyɛ mmerɛw |
-| Adwuma a wɔreyɛ | Nnwom a ɛyɛ anigye a ɔpɛ | Nnwom betumi ama adwuma nyɛ basaa, sɛ ɔne wo nyinaa wɔ hɔ |
-| Aduane | Nnwom a ɛyɛ nyinaa a ɛnyɛ den | Fa ɛnkɔ a ɛnnsɔre aduane ho |
-| Anwummere a ɛreba | Nnwom dodoɔ a wonim, wɔ hann pa mu | Hwɛ [ahosiesie a ɛba anwummere](/caregiving/late-day-restlessness/) |
-| Ɔda a ɔrehyɛ ɔdam | Nnwom a ɛyɛ dodoɔ ne mmerɛw | Ma nnwom no ayɛ ntɛm na hann nso nnyɛ den nyinaa |
-| Stage a ɛsen so | Nnwom a ɔpɛ paa, a ɛyɛ ntɛm | Tena ne nkyɛn na kyere ne nsa |
+| Sɛ ɔrewɔ mu | Nnwom a ɛyɛ mmerɛw ne anigye | Nnwom koro a ɛbɛba anɔpa no yɛ asɛm a ɛyɛ mmerɛw |
+| Adwuma a wɔreyɛ fie | Nnwom a ɛyɛ anigye | Nnwom betumi ama adwuma ayɛ sɛ ɔyɛ nkɔm |
+| Aduane | Nnwom a ɛyɛ dwo, a wɔnnyɛ nnwom no | Ma ɛnyɛ mmerɛ sɛ ɛbɛyɛ kɔ kɔ ɔduane no ho |
+| Anwummere a ɛreba | Nnwom a ɛyɛ dwo, a ɔnim | Hwɛ [ahohuru anwummere](/caregiving/late-day-restlessness/) |
+| Hɔ a wɔda | Nnwom a ɛyɛ dwo ne a ɛyɛ mmerɛw | Ma nnwom no ne hann nna nsɛ bɔ ase |
+| Awiei stage | Nnwom a ɔdɔ paa, a ɛyɛ dwo koraa | Tena ne nkyɛn na kura ne nsa |
 
-## Nkyerɛkyerɛ ma ɛyɛ yiye
+## Afotu ma ɔkwan a ɛyɛ yiye
 
-- **Gyae nnwom foforo.** Alzheimer's Association kyerɛ sɛ mma nnwom no nnyɛ dodoɔ ma ɛnyɛ basaa, na gyae nnwom no ho nkwadaa, de nnwom nko pɛ ɔdwo.
-- **Ma nnwom no nyɛ dodoɔ.** Nnwom no ka ho sɛ ɛyɛ mmerɛw, na ɛnyɛ nnwom a ɛyɛ den. Sɛ obi no wɔ tia a, hwɛ sɛ wɔde gu ne tia so, na wɔyɛ ayaresa; hwɛ [tia](/brain-health/hearing/).
-- **Hwɛ nnwom a ɛbɛma ahonyadɛ.** Nnwom bi betumi ama awerɛhoɔ, ɔko anaa awu aba. Sɛ nnwom bi haw wɔn a, boa wɔn na sesa nnwom no.
-- **Ma ɔno ahyɛ kwan.** Sɛ ɛbɛyɛ yiye a, ma ɔno ara nyi nnwom no, na gye sɛ ɔbɛka "daabi".
-- **Gyae bere biara.** Nnwom a ɛyɛ mmienu anaa anum ne dwumadie a ɛyɛ. Ɛyɛ dwumadie pa sɛ wɔgyae nnwom no na wotena hɔ dwodwo.
+- **Yi nnwom foforo a ɛnam so.** Alzheimer's Association kyerɛ sɛ wobɛtwe mmuruw ne ɔpon no, na wɔbɛtwe TV no hɔ, na nnwom no nko ara ne nnwom a ɛte so.
+- **Gye nnwom no to so sɛ ɛnyɛ den.** Nnwom no kɔ so sɛ ɛnyɛ den, sɛ ɛbɛyɛ yie. Sɛ ɔnipa no tie ntiasoɔ a, hwɛ sɛ ɛreyɛ adwuma yie anaa wɔaboaboa; hwɛ [ntie](/brain-health/hearing/).
+- **Hwɛ nnwom a ɛma ɔnipa yi awerɛ.** Nnwom bi betumi ama awerɛhyem, ɔko, anaa awu ba. Sɛ nnwom bi ma ɔnipa no ho hyɛ no a, fa ne ho ahome, na sesa nnwom no.
+- **Ma ɔnipa no nnyina ananmu.** Sɛ ɛbɛyɛ a, ma ɔnipa no ara ne nnwom paw, na gye ne "daabi" no.
+- **Gyae bere biara.** Nnwom nkyɛn nkyɛn bere a ɛnyɛ mmerɛw ne adwuma a ɛyɛ yiye. Yiyi nnwom no na tena ase kɔsi nkwa bere mu na nso yɛ adwuma a ɛyɛ yiye.
 
-## Nhwehwɛmu no ka nnwom ho sɛ dɛn?
+## Nhwehwɛmu no ka dɛn fa nnwom ne dementia ho?
 
-Nhwehwɛmu a yɛayɛ no nni hɔ pɛpɛɛpɛ. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) hwehwɛɛ nhwehwɛmu 30 a ɛfa nnwom a wɔhyehyɛ mu ho, a ɛbarima sɛ wɔyɛɛ no wɔ mmoa a wɔda wɔ mu. Ɛhunuu sɛ saa nhyehyɛe yi betumi aboa ma awerɛhoɔ nyɛ den kakraa sen nneyɛe a wɔyɛ daa, nanso enni nkyerɛkyerɛ pefee wɔ ahohia, ahomegyebɔ anaa adwene ne nkaebɔ ho, na ne mfaso nso anto bere a nhyehyɛe no awie.
+Nhwehwɛmu no kakra. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) hwehwɛe nhwehwɛmu 30 fa nnwom nhyehyɛe a wɔhyehyɛ ho, a ɛka sɛ ɛdɔɔso wɔ nkurɔfo a wɔte nkɔfa mu wɔ asɛnkyerɛ ahyehyɛde mu. Ɛhyɛɛ nsɛm a ɛkyerɛ sɛ nhyehyɛe no bɛboa kakra ma awerɛhyem a ɛnyɛ den sɛ ɛnyɛ nea wɔyɛ daa; nanso ɛnhyɛ nsɛm a ɛkyerɛ sɛ ɛboa ma ahohuru, ahoɔden anaa nteaseɛ ne nkaeɛ ho, na ɛnsi nso sɛ nea ɛboa no tenaa ase bere a nhyehyɛe no awie.
 
-Yɛde nnwom ka ho efisɛ ɛyɛ ɔkwan a ɛyɛ anigye, na ɛnhwehwɛ basaa, a yɛde bɛtena ho bom. Ɛnyɛ ayaresa. Sɛ wopɛ nhyehyɛe a wɔyɛ wɔ ɔdan a wɔtena mu nkyɛn no, hwɛ [dwumadie a wɔyɛ bebree wɔ asɔredan mu](/activities/care-home-groups/); na sɛ wopɛ sɛ wobɛde nnwom ne mfonini ne nsɛm ka ho a, hwɛ [nkaebɔ ho dwumadie](/activities/reminiscence/).
+Yɛgye nnwom to so ɛfiri sɛ ɛyɛ ɔkwan a ɛyɛ anigye, a ɛnyɛ den, de tena ne nkyɛn; ɛnyɛ sɛ ɛyɛ ayaresa. Ma nkurɔfo a wɔnnyina ahomegyedi, hwɛ [adwuma a wɔyɛ wɔ nkurɔfo ho wɔ ayaresabea](/activities/care-home-groups/); ma nnwom ne nsɛmpa ne mfonin a wɔka ho, hwɛ [nkaeɛ adwuma](/activities/reminiscence/).

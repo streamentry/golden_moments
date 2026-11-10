@@ -337,7 +337,18 @@
     "xcrun",
     "Zinnia",
     "resvg",
-    "webp"
+    "webp",
+    "Nesta",
+    "appstoreconnect",
+    "lumi",
+    "mobileprovision",
+    "keytool",
+    "printcert",
+    "exportarchive",
+    "xcodebuild",
+    "androidpublisher",
+    "gserviceaccount",
+    "jarfile"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",

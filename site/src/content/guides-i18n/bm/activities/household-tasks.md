@@ -1,32 +1,33 @@
 ---
-title: "So baaraw ka kɛ kɛlɛ ye dimansi la mɔgɔw ye"
-seoTitle: "Dimansi la so kɛlɛw: Don o don baaraw"
-description: "Sanfɛ fili, fɛnw ci, tablo labɛn ani dɔgɔ kɛli baarakɛ bɛ se ka kɛ kɛlɛ ɲumanw ye dimansi la mɔgɔw ye. O bɛ se ka labɛn cogo min na, o bɛ se ka yɛrɛ ɲɛnɛma cogo min na, ani o bɛ se ka maran cogo min na."
+title: "So baaraw bɛ kɛ wasa ye dimansi la mɔgɔw ye"
+seoTitle: "Dimansi wasa so baaraw: don o don baaraw"
+description: "Ka fa, ka fanw sɛbɛn, ka dumuni sigi ani ka dumuni dɔgɔ kɛ, o bɛɛ bɛ se ka kɛ wasa ye dimansi la mɔgɔw ye. Cogo di ka u sigi, ka u kɛ ka ɲɛ, ani ka u kɛ ka kɛ ka ɲɛ."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  So baaraw dɔw, i n'a fɔ sanfɛ fili, kalan sɔrɔ, tablo labɛn, tabali sɛgɛn,
-  sɔgɔsɔgɔ ani fɛn ɲumanw ci ka kɛ kɛlɛ ye, o bɛ se ka dimansi la mɔgɔ dɔ ka
-  fɛn ɲuman dɔ kɛ. Aw ka baaraw sugandi min mɔgɔ ye a dɔn, a ka baara kɔfɛ
-  kɛ fɛn kelen kelen ye, ani ka kɔlɔsili mɛ min bɛ se ka wuli ni ka dan ni ka
-  kɛ ka ɲi yɛrɛ ka baaraw kɔ, o ka ɲi ni o ka "ɲɛnɛ" ka ɲi.
+  So baaraw lakikaw, i n'a ta ka fanw fa, ka fanw sɛbɛn, ka dumuni sigi, ka
+  tabali ɲɛ sɛgɛn, ka jiri ko, ani ka dumuni dɔgɔ kɛ, o bɛɛ bɛ se ka kɛ dimansi
+  la mɔgɔ ye dɛmɛ kɛ ka kɛ cogo ye min bɛ a yɛrɛ ka ɲɛ. I ka baaraw suguya min
+  a dɔn, u kɛ ko kelen kelen ye, fɛn min bɛ se ka kɛ kɔlɔsi walima fɛn min bɛ
+  fɔɲɔ, o bɔ ka ɲɛ, ani i ka hakili to a ka baara ka kɛ ka ɲɛ, o ka ɲɛ ka tɛ a
+  ka kɛ "ka ɲɛ" wala ka sɔrɔ.
 keyPoints:
-  - "So baaraw ɲumanw bɛ se ka mɔgɔ dɔ ka hakili ka kɛ mɔgɔ min bɛ so kɔnɔ, o ka kan bɛ kɛ ka ɲi ni baara ka ɲɛnɛma ka ɲi."
-  - "Aw ka baara kelen kelen labɛn fɛn kelen kelen ye, aw ka a yɛrɛ ɲɛnɛma ka kɛ mɔgɔ ye ka a fɔ kɔnɔ, ani ni fɛn dɔ bɛ se ka kɛ teliya, aw ka a kɛ ka ɲi ni mɔgɔ dɔ ma a yɛrɛ ɲɛ."
-  - "Aw ka dɔgɔ ni fɛn jɛ ni sabun ni detergent kɔnɔ fɛn lɔ ka kɛ. Sɔgɔsɔgɔ ka kɛ sɔrɔ, aw ka dɔgɔsi ka kɛ ni fɛn fɔlɔ kɔ ni ka a labɛn."
-  - "Sanfɛ fili minw ka kɛ fɛn ɲumanw ye, aw ka o ɲɛ ni mɔgɔ ye ka o ɲɛnɛ fili ye o kan. Ni aw ka fɛn dɔ ɲɛnɛ ka kɛ kɔfɛ, aw ka o kɛ ni ɲɛnɛ ka lɛ ni tɛ ɲɛ."
-  - "Ni baara dɔ ka hakilina ni kiri ka kɛ, aw ka fɛn dɔgɔ kɛ, aw ka tɔnɔ kɔfɛ, walima aw ka sigi ka kɛ ni mɔgɔ ye."
+  - "So baaraw lakikaw bɛ se ka kɛ dimansi la mɔgɔ ye ka hakili to ka kɛ mɔgɔ min ka dɛmɛ bɛ wale, o ka ɲɛ ka tɛ baara kɛ cogo di ka ɲɛ ye."
+  - "I ka baara kɛ ko kelen kelen ye, i ka a jira ka tɛ a fɔ kɔrɔ, ani i ka ko min bɛ sɔrɔ ka kɛ kɔrɔ, o kɛ i yɛrɛ ye hɛrɛ-hɛrɛ."
+  - "Sanɛba, jiri ɲɛ sanfɛ ani sopuda sigilen ka sigi kɔnɔ, ani i ka dumuni kɛ kɔfɛ, o fɛ, i ka dumuni dabɔ ni kɔlɔ ye walima dɔgɔ ye, i ka a ma kɛ ka kɛ ka ɲɛ."
+  - "A tɛ ko i ka fanw sɛbɛn ka tɛ dimansi la mɔgɔ ye ka ɲɛ. Ni i ka ko kɛ kɔfɛ, i ka a kɛ waati tɛmɛnen na, ka a kɛ ɲɛ fɛ, u ka i ye tɛ."
+  - "Ni baara bɛ hakiliɲɛ kɛ, i ka baara dɔgɔ kɛ walima waati tɛmɛnen na ka u kɛ, walima aw sigi ka ɲɛ ka ɲɛ."
 faq:
-  - q: "So baara jumɛn ye dimansi la mɔgɔ bɛ se ka dɛmɛ a ka kɛ ka fɔ bi?"
-    a: "Mɔgɔ caman bɛ se ka sanfɛ fili, kalan sɔrɔ, tablo labɛn, dɔgɔ ci, sɔgɔsɔgɔ, fɛn ɲumanw ci ani ka dɔ ci ni fɛn ɲumanw ye. Aw ka baara sugandi mɔgɔ ye min a yɛrɛ kɛra bi ye, ka o ni min bɛ se ka kɛ sisan ye ɲɛnɛma. Kɔfɛ, baara kelen min bɛ kɛ ɲɛnɛ, i n'a fɔ sanfɛ ɲɛ, o bɛ se ka to."
-  - q: "Ka dimansi la mɔgɔ dɛmɛ tabali kɔnɔ, o ka kɛ ɲuman wa?"
-    a: "A bɛ se ka kɛ ɲuman, ni a bɛ kɛ ni ɲɛnɛma ni labɛnni ɲuman ye. Fɛn jɛ ni sabun ni fɛn min bɛ tɛmɛ, o ka kɛ fɛn ɲumanw bɛ se ka kɛ ka sɔrɔ, sɔgɔsɔgɔ ka sɔrɔ kɛ kɔnɔ ani ka dɔgɔsi ka kɛ kɛnɛ ni sɔgɔsɔgɔ, aw ka yɛrɛ ɲɛnɛma. Aw ka mɔgɔ dɔ di baara ɲuman ma, i n'a fɔ dɔgɔ ci, kalan sɔrɔ walima tablo labɛn. Aw kana sɔgɔsɔgɔ kɛ ni a tɛ ɲɛ ka kɛ fɛn kɔnɔ."
-  - q: "Ni u ka sanfɛ fili ka tɛ ɲuman, walima u ka fɛn dɔ kɛ kɔrɔ, o ka kɛ cogo di?"
-    a: "Aw ka o to. Ɲɛnɛ bɛ kɛ ka tɛmɛ ni ɲɛnɛ ye ani mɔgɔ ka hakili ka kɛ mɔgɔ min bɛ dɛmɛ ye, a tɛ ni labɛn ka ɲi ye. Ni fɛn dɔ ka kan ka kɔsɔn ka kɛ, aw ka tɔnɔ kɔfɛ, ka o kɛ ni mɔgɔ tɛ ɲɛ ka kɛ, i n'a fɔ, o kana u ka hakili ɲɛ ka kɛ kɔrɔ."
-  - q: "Ni u ka dɛmɛ bɛ ka kɛ tɛ, o ka kɛ cogo di?"
-    a: "Ni u b'a fɔ ko tɔɔ tɛ, o bɛ se ka kɛ ka baara ka gɛlɛya, ka hakiliw ka ɲɛ ka ɲɛ, walima ka sɔrɔ ka ɲɛ ka kɛ bi. Aw kana u tiɲɛ. Aw ka baara sɛbɛnnen ɲuman ɲɛ, walima aw ka u ɲɛ ka ɲɛ ka kɛ ka sigi ka kɛ ni aw ye, walima aw ka u wele kɔfɛ wakati ɲuman ma."
+  - q: "So baara jumɛn bɛ se ka kɛ dimansi la mɔgɔ dɛmɛ?"
+    a: "Mɔgɔ caman bɛ se ka fanw fa, ka fanw sɛbɛn, ka dumuniw sɛbɛn, ka tabali sigi, ka tabali ɲɛ sɛgɛn, ka so ɲɛ sɛgɛn, ka so bɔ, ka jiri ko, walima ka dumuni tɛlɛn. A ka baara sugandi mɔgɔ ye min a bɛ kɛ ka na, ka a sugandi ni fɛn min bɛ se ka kɛ bi. Kɔfɛ, ni a bɛ se ka kɛ kelen bɛ kɛ min ka ka kɛ ka ɲɛ, i ko, i ka sɛgɛn, o bɛ se ka to."
+  - q: "Dimansi la mɔgɔ bɛ se ka dɛmɛ kɛ so ka kɛ?"
+    a: "A bɛ se ka kɛ ni i bɛ a ɲɛ ni i bɛ cogo di ka ɲɛ. Sanɛbaw, fɛn ka tiɲɛ dumuni ni fɛn fɔɲɔ, o bɛɛ ka bɔ a ka bɛn ɲɛ, i ka dumuni dɔgɔ sɛgɛn walima dabɔ ni kɔlɔ ye, ka mɔgɔ dɛmɛ ni baara ɲɛfɛ, i ko dumuni ɲɛ sɛgɛn, ka dumuni ɲɛ sɛgɛn, walima ka tabali ɲɛ sigi. A tɛ ka mɔgɔ bɔ yɛrɛ kɔnɔ dumuni kɔrɔ ni a bɛ kɛ dɔ."
+  - q: "Ni u bɛ fanw ɲɛ tɛ, walima u bɛ fanba kɛ kɔlɔsi, u ka mun kɛ?"
+    a: "A ka to. Wasa ka sɔrɔ ka tɛ a ka ɲɛ, a ka tɛ fɛn kɛ kɛ ka sigi. Ni fɛn bɛ hɛrɛ kɛ ka sɛgɛn, i ka a kɛ waati tɛmɛnen na, i ka a kɛ ni mɔgɔ ma ɲɛ, o kɛ, u ka a ye ko i bɛ u ɲɛ tɛ."
+  - q: "Ni u bɛ ka dɛmɛ kɛ tɛ?"
+    a: "Ni u b'a fɔ 'ayi', o bɛ se ka kɛ ko baara bɛ u ye gɛlɛya, u bɛ hakili ɲɛ, walima u bɛ sɛgɛn sisan. I kana u ɲɛ. I ka baara ɲɛfɛ ɲɛ kɛ, walima i ka u ɲɛ ka sigi ni i ye, walima i ka waati tɛmɛnen na ka u ɲɛ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,105 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Mɔgɔ caman min bɛ dimansi la, o tun bɛ so kɔnɔ baara kɛ, denw lakodɔnin, walima baara kɔnɔ kɛ ɲɛnɛ kɛ bi ka tɛmɛ ɲɛ ni dɔrɔn. Ni aw ka so baara ɲumanw ka dɛmɛ ko, o bɛ se ka kɛ kuma ye min ka kan ka kɛ "aw bɛ sɔrɔ sisan ka kɛ so kɔnɔ mɔgɔ ye" ye, a bɛ se ka kɛ ka ɲi ni kɛlɛ caman tɛ min bɛ se ka o kɛ. Kɔnɔ nin kunnafoni bɛ so baaraw jumɛn bɛ ka ɲi, o bɛ se ka labɛn cogo min na, o bɛ se ka yɛrɛ ka ɲi fɛn caman ka kɛ cogo min na, ani o bɛ se ka kɛ ka maran cogo min na, kɔnɔ ni sanfɛ labɛnni ka kɔnɔ.
+Mɔgɔ caman min bɛ dimansi la, u ye tɔɔrɔ caman ye so kɛ, denw lakodon, walima baara kɛ ka ɲɛ ka tɛ ka kɛ kɔrɔ. Ni u b'a fɔ u ka dɛmɛ kɛ so baaraw la, o bɛ se ka kɛ ko "i sɔrɔ i bɛ so nin kɔnɔ" ka kan kɛ ɲɛ, wasa dɔw tɛ se ka kɛ o cogo. Nin kalan bɛ jira so baaraw minnu bɛ kɛ ka ɲɛ, u bɛ se ka sigi cogo di, u bɛ se ka kɛ cogo di ni fɛn bɛ yɛrɛ ka yɛlɛn, ani u bɛ se ka kɛ cogo di ka so ni kɛlɛ ɲɛfɛ ka maran.
 
-## So baaraw bɛ se ka kɛ kɛlɛ ɲumanw ye cogo di?
+## Mun na so baaraw bɛ kɛ wasa ye?
 
-So baaraw bɛ ɲuman bɛɛ n'a ye, katuguya ko u ka kɛ fɛn min bɛ mɔgɔ ye ka dɔn, ani u ka kɛlɛ bɛ ka dɔn a ka ci. Amerikɛ Kɔnɔnin Ɲɛnɛ Faso Kɔnɔ (National Institute on Aging) b'a fɔ ko dumuni kɛ, tabali labɛn, sɔgɔsɔgɔ, sɔgɔsɔgɔ, kalan sɔrɔ, sanfɛ fili ani fɛn sɔrɔ ka ci, o bɛ [dɔ ye min mɔgɔ dimansi la bɛ se ka nisɔndiya](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association b'a fɔ ko baara i n'a fɔ tabali labɛn bɛ se ka mɔgɔ ka [ɲɛnɛma so kɔnɔ mɔgɔ kɛ](https://www.alz.org/help-support/caregiving/daily-care/activities).
+So baaraw bɛ kɛ ka ɲɛ, bawo u bɛ dɔn ani u bɛ fɛn ka ɲɛ ko kelen. Nationaal Institute on Aging bɛ so baaraw jɔnjɔnw ɲɛnama, i ko dumuni ɲɛ sɛgɛn, tabali sigi, so ɲɛ sɛgɛn, dumuni ɲɛ sɛgɛn, sɛbɛn sɔrɔ, fanw fa ani jiri ko, [dɔrɔn dɔ fɛ min Alzheimer's bɛ se ka kɛ mɔgɔ ye ka nisɔndiya sɔrɔ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association b'a fɔ ko baara i ko tabali sigi bɛ se ka kɛ [mɔgɔ ye min ka kɛ so ka mɔgɔ ka ɲɛ](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-So baara bɛ se ka kɛ kɛlɛ ye ka wuli, katuguya ko a ka kɛ ni kuma ye min bɛ se ka dɔn. "Aw bɛ se ka dɛmɛ ne ma ni sanfɛ dɔw ye wa?" o bɛ se ka kɛ ka ɲi ni "I bɛ fɛ ka kɛlɛ dɔ kɛ wa?" ka ɲi.
+Baara bɛ se ka kɛ ka ɲɛ ka kɛ ka kɛ ka ɲɛ ni a ka dɔ bɛ yɛrɛ ka yɛlɛn. "I ka n dɛmɛ nin fanw la wa?" bɛ se ka yes ka ɲɛ ka tɛmɛ "I bɛ wasa kɛ wa?"
 
-## So baara jumɛn ye ka ɲɛnɛ ka kɛ?
+## So baaraw jumɛnw ka ɲɛ ka kɛ ka sɛgɛn?
 
-Aw ka baara sugandi mɔgɔ ye min a yɛrɛ kɛra bi ye, o kɔfɛ aw ka o ni min bɛ se ka kɛ bi ye ɲɛnɛma.
+Aw ka baara kɛ ni mɔgɔ min ka baara kɛ ka ɲɛ kɔrɔ, o kɛ ka ɲɛ, o kɔfɛ, ka a sugandi ni fɛn min bɛ se ka kɛ bi.
 
-### Sanfɛ ni sanfɛ fili
+### Fanw ni sɛbɛnnen
 
-- **Sanfɛ ni sanfɛ dɔgɔ fili.** Basɛti dɔ min fɛn tɔɔrɔ bɛ kɔnɔ ka di mɔgɔ ma. Sanfɛ bɛ se ka kɛ ka fili cogo o cogo, o tɛ ɲɛ ma.
-- **Ka sanfɛ ɲɔgɔn sɔrɔ.** Sanfɛ dɔgɔ dɔ tabali kan ka to. Ni ɲɔgɔn ka gɛlɛ ka sɔrɔ, aw ka sanfɛ saba walima naani min ka kɔlɔrɔ ka ɲi ni ɲɔgɔn ye.
-- **Ka sanfɛ ɲɛ ka ɲi ani ka u ta sɔrɔ.** Sanfɛ ni dɔgɔ kɛnɛ, kalan sɔrɔ, walima dɔgɔ ci min bɛ se ka ɲɛ ka ɲi, a bɛ se ka kɛ ka ɲi kɔfɛ. Nin bɛ kɛ ɲuman kɔfɛ, ni sanfɛ fili ka kɛ fɛn caman ye a tɛ ɲuman.
+- **Fanw fa ani ɲɛ fanw fa.** Fanw dɔ ka kɛ sɔrɔ ka dɔgɔ ka kɛ ka fa. Fanw bɛ se ka fa cogo caman ni, a tɛ fɛn ye min ka kɛ ka ɲɛ.
+- **Sɔnɔnw sɛbɛn.** Sɔnɔnw dɔ kelen tabali kan, ka u sɛbɛn ni u ye cɛmancɛ ye. Ni sɔnɔ ka tɛ ka ɲɛ, aw ka sɔnɔ kelen walima saba ka ɲɛ ni sɔnɔ ka tɛ ka kɛ kelen ye.
+- **Fanw sɛgɛn ani sigi.** Ni fanw ka fanw, i ko sɔnɔ, tuluma fanw walima ni fanw, u bɛ se ka sɛgɛn ka sigi ka dɔgɔ. O bɛ ɲɛ kɔfɛ, waati min na fa ka kɛ ka gɛlɛya.
 
-### Tabali ni dɔgɔ kɔnɔ
+### Tabali ani dumuni
 
-- **Tabali labɛn.** Aw ka sɔrɔ dɔ labɛn tabali kan a ka misali ye, ka mɔgɔ ka o kɛ. Ni o bɛ tɛ ɲuman, aw ka fɛn kelen kelen di: "Nin ye ɲɛnɛ ye ɲɛ kelen ma."
-- **Fɛn ci ni fɛn sɔrɔ.** Kalan, kɔnɔ ni kɔnɔ suuru fɛnw, ka sɔrɔ ka ɲi ka u bila karitan kɔnɔ. Kɛlɛ fɛnw ka labɛn kɔnɔ.
-- **Dɔgɔ ci.** Plastiki walima fɛn min tɛ ɲɛ ka u ɲɛ, ani sanfɛ ɲuman dɔ, o bɛ kɛ baara ɲuman ye.
-- **Tabali walima tabali ɲɛ ka ɲi.** Sanfɛ ni ko ɲuman ani tabali min ka ɲi. Alzheimer's Association b'a fɔ ko ni mɔgɔ bɛ tabali kan ni a bolo ka numan, aw ka sanfɛ di a ma, o bɛ a ka wulili ka kɛ baara ɲuman ye.
+- **Tabali sigi.** Aw ka tabali kan kelen ka kɛ misali ye, ka mɔgɔ ka a kɛ ka ɲɛ. Ni o ka gɛlɛya, aw ka fɛn kelen kelen di: "Nin ye fɔlɛnɛ ye dumuni kelen kelen ma."
+- **Fɔlɛnɛw ni sigi.** Fɔlɛnɛ, kaŋa ani kisɛ ka tɛ ka kɔlɔ, aw ka u kɔnɔ ka u sigi ka u bɔ sɔrɔ kɔnɛ. Aw ka kɔrɔnɛ fɔlɛnɛw bɔ.
+- **Dumuni ɲɛ sɛgɛn.** Plastiki dumuni ani dumuni min ka tɛ bɔ, ani ɲɛ sɔnɔ ɲɛfɛ, o bɛ se ka kɛ baara ka maran.
+- **Tabali walima dumuni ɲɛ sɛgɛn.** Ɲɛ sɔnɔ ni tabali ka kɛ ka ɲɛ. Alzheimer's Association b'a fɔ ko ni mɔgɔ bɛ tabali kan ni a bolo, aw ka ɲɛ sɔnɔ di a ma, o bɛ a ka sɛgɛn kɛ baara ka ɲɛ.
 
-### Ka dɔ kɛ so kɔnɔ
+### So kɔnɔ
 
-- **Ka ɲɔgɔn ɲɛ.** Sanfɛ nɛnɛ dɔ ni tabali dɔ min ka sɛgɛn, i n'a fɔ bɔgɔ tabali walima kitabu tabali.
-- **Ka sɔrɔ tɛ sɔrɔ.** Ka dɔ kɛ mɔgɔ ye ka kɛ bi jɔnjɔn ka sɔrɔ ni ka ɲi. Mɔgɔ min ka dɛmɛ sɔrɔ ka kɛ ka ɲi sɔrɔ.
-- **Sɔrɔ ka ci.** Ka ci kalan, kɔnɔ ni ka a ci ka ɲi, ka kɛ sɔrɔ jɛnsɛ kɔnɔ.
-- **Sɔgɔsɔgɔ.** Sɔgɔsɔgɔ dɔgɔ dɔ kɔnɔ ni ka ɲi ka kɛ fitinɛ ye, ni a ka kɛ ka tɛ ɲɛ mɔgɔ ye.
-- **Ji ci fɛn.** Ji ci dɔgɔ dɔ ni fɛn caman dɔ min bɛ se ka ɲɛ.
+- **Dusting.** Ɲɛ sɔnɔ ni tabali kɔnɔ ni kɛ dɔgɔ, i ko tabali bɔ ka sigi, walima kitabu tabali.
+- **Sɛbɛn sɔrɔ.** Aw ka sɛbɛn ka ɲɛ sigi ni sɛbɛn min tɛ ka kɛ ka ɲɛ, aw ka u sigi: u ka kɛ ka sigi, u ka u sɛgɛn, u ka u bɔ kɔfɛ. Sɛbɛn min bɛ wari kɛ, o bɛ kɛ ka ɲɛ.
+- **Jiri ko ka sigi.** Dumuni fitinin ɲɛ kelen kelen, ka u jiri ko kɛ kɔnɛ: kɔnɛ ka u kɛ, kɔnɛ ka u sɛgɛn, kɔnɛ min ka wari kɛ kɔfɛ.
+- **So ɲɛ sɛgɛn.** Ɲɛ sɔnɔ ni ɲɛ dɔgɔ ka kɛ tile ka kɛ ka ɲɛ, ni bolo ka sɛgɛn ka kɛ ka ɲɛ.
+- **Fanw dɔ ka fa.** Ka ji dɔgɔ ni dɔgɔ kɛ, ka fanw dɔ kɛ ka sɔrɔ.
 
-### Sɔgɔsɔgɔ ni dɛmɛ ɲuman
+### Mɔgɔ ka dumuni ni a ka dumuni ka fɛn
 
-Sɔgɔsɔgɔ bɛ kɛlɛ ɲuman caman ci. NIA b'a fɔ ko, aw ka mɔgɔ ka fɛnw ɲɛ ka sɔrɔ, ka fɛnw sɛgɛn, ka fɛnw fɛ, walima ka fɔ ni dɔrɔn ka ɲi ka kɛ cogo di ka dɔ kɛ, o bɛ kɛ kɛlɛ ɲuman ye. Baara ɲumanw ye nin ye:
+Dumuni caman bɛ mɔgɔ hakili ɲɛ. Sanɛbaw, mɔgɔ dɔ bɛ se ka kɛ ka dumuni kɛ ni a ka ɲɛ. Nationaal Institute on Aging bɛ a fɔ ko mɔgɔ dɔw bɛ dumuni ɲɛ sɛgɛn cogo caman ni u bɛ dumuni kɛ; u bɛ se ka u kɛ ni mɔgɔ dɔ bɛ dumuni kɛ ni dumuni ka mun kɛ, walima ka mɔgɔ bɛ dumuni kɛ ni mɔgɔ dɔ bɛ dumuni kɛ ni a ka ɲɛ.
 
-- ɲɛ ni fɛn sɔrɔ ka ɲi
-- ɲɛ ni jɛnsɛ walima lɛɲɛ ɲɛ
-- ɲɛ ni laitisi ka ɲi
-- Kɛlɛ ni dɔgɔ cɛ ni kɛnɛ
-- Sanfɛ ni mɔgɔ ye ni kɛnɛ sɔrɔ
-- Fɛn ɲumanw kɔnɔ pizza kan
+## Cogo di ka baaraw kɛ ka ɲɛ?
 
-Ni sɛgɛn bɛ gɛlɛya, Alzheimer's Association b'a fɔ ko aw ka sɛgɛn ka kɛ, kɔfɛ aw ka baara dɔ wɛrɛ di, i n'a fɔ fɛnw ɲɛ.
+1. **Waati ɲɛ.** Waati min na mɔgɔ bɛ sigi ni a bɛ hɛrɛ ɲɛ, o sugandi. Mɔgɔ caman bɛ o waati ɲɛ, o ye dɔgɔ.
+2. **Sɛgɛn ka fɛn.** Baara kelen, tabali kelen, fɛn dɔ tɛ tabali kan.
+3. **Ka wele, ka tɛ ka kɛ ka ɲɛ.** "N bɛ se ka aw dɛmɛ nin dumuniw la" bɛ ka ɲɛ tɛmɛ "A ka waati ka fanw fa."
+4. **A ka kɛ kelen ka jira.** Fanw kelen fa dɔgɔ, kɔfɛ fanw tɔɔrɔ. Jira bɛ ka ɲɛ tɛmɛ fɔ.
+5. **Ko kelen kelen di.** Ko caman kelen na bɛ se ka mɔgɔ gɛlɛya. Ko kelen ka sɔrɔ kɔfɛ, i ka tɔɔrɔ kɛ ko tɔ.
+6. **Ka baara kɛ ɲɛ ɲɛ.** Baara kelen kɛ ɲɛ ɲɛ, o bɛ ka kɛ kɛlɛ ye, ka tɛ ka kɛ ka ɲɛ.
+7. **Baara kuma, ka tɛ sɔrɔ kuma.** "Nin fanw ka dɔgɔ" walima "I bɛ se ka n fɔ ka so ka kɛ cogo di" bɛ kuma sɛgɛn, ka tɛ mɔgɔ ɲɛ.
 
-## Ka baara dɔ kɛ cogo di ka ɲi?
+## Cogo di ka baaraw ka ɲɛfɛ ni u bɛ sɔrɔ ka dɔgɔ?
 
-1. **Waati ɲuman sɔrɔ.** Sɔrɔ waati min mɔgɔ bɛ ɲɛnɛma ani a bɛ hakili ɲɛ. Mɔgɔ caman bɛ o sɔrɔ sɔgɔma.
-2. **Ka yɔrɔ labɛn.** Baara kelen, fɛn kelen, tabali kan fɛn tɛ.
-3. **Wele, ka a sɔrɔ kɔfɛ ka sɔrɔ.** "Ne bɛ hinɛ ni nin sanfɛw ye" bɛ ɲuman ni "A ka waati ka baara fili ye" ka ɲi.
-4. **Fɛn kɔfɛ jɔnjɔn sɔrɔ.** Sanfɛ kelen fili ka tɔɔrɔ ni ka sanfɛ tɔw ta. Ka a yɛrɛ ɲɛnɛ ka kɛ kuma ka ɲi.
-5. **Fɛn kelen kelen ka di.** Ka kuma caman kɛ ka fɛn kelen kɔfɛ, mɔgɔ bɛ se ka hakili ka lɔ. Ka kɔfɛ fɛn kelen ka kɛ ka tɔɔrɔ, kɔfɛ ka tɔw wele.
-6. **Ka ɲɔgɔn sɔrɔ.** Baara kelen kɛ ni ɲɔgɔn ye ɲɔgɔn ɲɛ bɛ kɛ kɛlɛ ɲuman ye, a tɛ ka kɛ ka ɲɛnɛ ye.
-7. **Ka kuma baara ka kan, tɛ a ka sɔrɔ ka kan.** "Nin sanfɛw ka kɔlɔ ka ɲi ka kɛ" walima "Aw ka fɔ ne ma, aw bɛ sanfɛ ɲɛ cogo di?" bɛ kumaw wuli ni tɛ mɔgɔ ka ɲɛ ka kɛ kɔrɔ.
+Hakili bɛ yɛlɛn ani mɔgɔ bɛ yɛlɛn don o don. Alzheimer's Association b'a fɔ ko ka baaraw kɛ ka dɔgɔ, ka baara ka kɛ ka ɲɛ, ni kɛlɛ bɛ ka dɔgɔ.
 
-## Ni mɔgɔ ka fɛn kɛ ɲɛ sɔrɔ, o bɛ kɛ cogo di?
-
-Aw ka baaraw ka kɛ ni fɛn caman ye ka ɲɛnɛ waati ni ɲɛnɛ bɛ kɛ kɔnɔ. Alzheimer's Association b'a fɔ ko, ka dɔgɔ ni dimansi ka kɛ kɔfɛ, aw ka baara ɲumanw ka sɔrɔ kɔrɔ, ka fɛnw ka kɛ.
-
-| Ni nin bɛ gɛlɛya | Ka nin kɛ dɔ wɛrɛ |
+| Ni o bɛ gɛlɛya sɔrɔ | Ka o kɛ sɔrɔ |
 | --- | --- |
-| Sanfɛ jumanw fili | Sanfɛ ɲɛnɛw fili walima sanfɛ dɔgɔ ci |
-| Tabali bɛɛ labɛn | Ka dɔ kelen to sigilaw bɛɛ kan |
-| Kalan ci kɔnɔ kɔnɔ | Kalan ci kɔnɔ dɔ ni kalan kɔrɔw |
-| Ka fɛn kɛ ka kuma kɔnɔ | Ka fɛn sɔrɔ, walima ka ɲɛnɛ ka tigi kɛ ka mɔgɔ ye ka ji ka ɲi a ka kɛ kɔfɛ |
-| Ka so bɛɛ sɔgɔsɔgɔ | Tabali dɔgɔ dɔ ci |
-| Baara bɛɛ tɛ kɛ | Ka sigi ka kɛ ni aw ye, ka aw ka sɔrɔ ka ɲi ka kɛ |
+| Fanw nɔgɔn fa | Sɔnɔ dɔgɔ fa walima ɲɛ sɔnɔ sigi |
+| Tabali fitinin sigi | Fɔlɛnɛ kelen kelen tabali kan |
+| Sɛbɛn sɔrɔ ka sigi fɛn caman | Sɛbɛnw sigi ka kɛ kelen ye |
+| Misali ka kɛ | Dumuni ɲɛ sɛgɛn, walima aw bɛ dumuni kɛ ka ɲɛ ni i bɛ mɔgɔ ye |
+| So bɛɛ bɔ | Tabali dɔgɔ kelen ɲɛ sɛgɛn |
+| Baara sɔrɔ tɛ | Aw sigi ka kɛ ni aw bɛ baara kɛ, ka mɔgɔ kɛlɛ |
 
-Ɲɛnɛ fana bɛ kɛ baara ye. NIA b'a fɔ ko mɔgɔ dɔw bɛ ɲɛnɛ ka nisɔndiya, o fana ye kɛlɛ ɲuman ye.
+Ko ɲɛ bɛ kɛ kɛlɛ ye. Nationaal Institute on Aging b'a fɔ ko mɔgɔ dɔw bɛ dumuni ɲɛ, o ye cogo ɲɛfɛ ye min ka ɲɛ ka kɛ ka ɲɛ.
 
-## So baaraw ka kɛ ka maran cogo di?
+## Cogo di ka so baaraw kɛ ka maran?
 
-Maran bɛ fɔlɔ. Dɔgɔsi kɔnɔ fan fɛ ni sɔgɔsɔgɔ. Ni ka labɛn ka ɲɛ, Alzheimer's Association ka dɛmɛ bɛ [dimansi la mɔgɔ dɔ ka fɛn ɲuman](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Nin bɛ kɛ:
+Maranya bɛ fitinin, kɔrɔ kɛ dumuni la. Nationaal Institute on Aw Ka ɲɛ [so maranya ɲɛfɛ dɔ, dimansi la mɔgɔ ka dɛmɛnw ye](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) bɛ nin fɛnw ɲɛ:
 
-- Fɛn jɛnsɛ, i n'a fɔ sabun ni detergent pods, bɛ ka kɛ ka ɲi kalan ye. Aw ka u lɔ ka sɔrɔ.
-- Kalan, sikɛti ni fɛnw min bɛ tɛmɛ, aw ka u lɔ ka ɲi ni dɔgɔ ye.
-- Fɛn ɲumanw ka sɔrɔ, fɛn ɲumanw ka sɔrɔ ka kɛ ni dɔgɔsi ye.
-- Aw ka ɲɛnɛ ka kɛ ka ɲi ni dɔgɔ ye, ka tɔ ka tiɲɛ ni "Ɲɛ" walima "Ka tɛ kɛ" ka fɛnw ɲɛ.
-- Aw ka tɔnɔ ɲɛnɛ, ka kɛ ka tɔ ɲɛnɛ ka dɔgɔ ka kɛ ɲɛ ni ɲɛ.
-- Aw ka fɛn ɲumanw ka sɔrɔ ka ɲi ka kɛ ni dɔgɔ ye.
+- Sɛgɛn walima bɔ dumuni sɔnɔ ni sɔnɔ, o la sɔnɔ ni ɲɛ fɔlɛnɛ, minnu bɛ kɛ i ko bonbon.
+- Kaŋa, sɛgɛn ani kɔnɛ dumuniw kɛ, aw ka u bɔ kɔnɔ sɔrɔ.
+- Sɔrɔ-ɲɛ ani kuru kɔrɔ dɔ ka kɛ fɔɲɔ sanɛba.
+- "Ban" walima "Fɔɲɔ kosɛbɛ" bɛ kɛ ka dɔgɔ ni fulu, kɛ ka dɔgɔ ka dɔgɔ ka kɛ fɔɲɔ ye.
+- Ji fɔɲɔ ka kɛ 49°C (120°F) ka dɔgɔ, o bɛ se ka ka fɔɲɔ tɔɔrɔ ka dɔgɔ.
+- Fɛn dɔw min bɛ kɛ bolo ye, u ka bɔ, u bɛ se ka kɛ dumuni.
 
-Fɛn dɔw fana bɛ dɛmɛ:
+Nin dɔw bɛ dɛmɛ:
 
-- Ni fɛn dɔ bɛ kɛ, i n'a fɔ dɔgɔ kɛnɛ, walima kalan sɔrɔ, aw ka sigi ka kɛ ka ɲi o kɔnɔ.
-- Fɛn ɲumanw ka sɔrɔ ka kɛ ka tɔ sɔrɔ ka kɛ ka dɔgɔ ci.
-- Ni sɔgɔsɔgɔ bɛ kɛ, aw ka sɔgɔsɔgɔ ka kɛ ka ɲi ni dɔgɔ ye, ka fɛn ka kan ka tɛ ɲɛ.
-- Ni mɔgɔ dɔ ka kɛ ni fɛn ɲumanw ye ka dɔ kɛ, Alzheimer's Association b'a fɔ ko aw ka fɛn ɲumanw ka lɔ ka kɛ ka ɲi, o bɛ se ka kɛ dɔ ɲuman ye, i n'a fɔ ka kɛ ka ɲi ka dɔgɔ kɛ.
+- I ka kɔnɛ dumuni kɛ waati min na sanɛba walima fɔlɛnɛ bɛ baara kɛ.
+- Dumuni min ka tɛ bɔ, o ka kɛ ɲɛ sɛgɛn walima tabali sigi.
+- I ka fɛn ɲɛ ka tɛ ka sɔrɔ ka fɛn fɔ, ka tɛ ka bɔ ka ɲɛ sɛgɛn.
+- Ni mɔgɔ bɛ kɛ bɔ ni a bɛ kɛ kɔnɔ kɛ, Alzheimer's Association b'a fɔ ko i ka fɛn min ka kɛ gɛlɛ ye, i ka u bɔ, o ka baara ka dɔgɔ, i i ko kɔnɛ dɔ ka sɛgɛn.
 
-## Ni u ka baara kɛ "ɲɛ tɛ" cogo la, o bɛ kɛ cogo di?
+## Ni u bɛ a kɛ "ka jugu" ka a kɛ cogo di?
 
-Aw ka o to. Sanfɛ min ka kɛ ni ɲɛ saba ye ka kɛ ni ɲɛ fila ye, o bɛ sanfɛ kɛ ka ɲi. Alzheimer's Association b'a fɔ kɔnɔ ko, ko min ka kan ka kɛ, o ye waati ye ka kɛ ni mɔgɔ ye ani mɔgɔ ka hakili ka kɛ dɛmɛ ye, a tɛ ko sanfɛw ka ɲi cogo ɲuman na. Ni fɛn dɔ kan ka kɛ kɔfɛ, aw ka tɔnɔ kɔfɛ, aw ka o kɛ ni mɔgɔ tɛ ɲɛ ka kɛ kɔrɔ.
+I ka a bɔ. Fani min u bɛ a kɛ ka kɔrɔ ni tɛmɛn, o bɛ fani ye. Alzheimer's Association b'a fɔ ka ɲɛ: fɛn min ka ɲɛ, o ye waati ye ka kɛ ni ɲɛfɛ, mɔgɔ ka hakili ye ko a ka dɛmɛ bɛ wale, o ye fɛn ye, a tɛ fani min ka ɲɛ kɛ. Ni fɛn ka ɲɛ ka sɛgɛn, i ka a kɛ waati tɛmɛnen na, ni mɔgɔ ma ɲɛ.
 
-Ni aw ka kuma kɛ baara kɛlɛ cɛɲɛ, o bɛ kɛ kɛlɛ ɲuman dɔ kɔrɔ ka kɛ hakilina ye min bɛ mɔgɔ ka fɛn ɲɛ. "Aw ka barika, nin ye dɛmɛ caman ye" ye kuma ɲuman ye, a bɛ se ka kɛ ka ɲi ni kuma wɛrɛ ye.
+Waati min na i bɛ mɔgɔ ka jugu kɛ, o bɛ baara ɲɛfɛ kɛ dɔgɔ ye min bɛ mɔgɔ hakili ɲɛ. "I ka baara ka ɲɛ, o dɛmɛ bɛ n ye ka ɲɛ" bɛ kuma ɲɛ ka ɲɛ.
 
-## Ni dɔgɔsi ka kɛ, o bɛ kɛ cogo di?
+## An bɛ ban cogo di?
 
-Ni mɔgɔ ka hakilina bɛ gɛlɛya, ni a ka sɔrɔ ka kɛ kɔnɔ, walima ni a ka ɲɛnɛma bɛ tiɲɛ, aw ka tɔnɔ ni dɔgɔsi ka kɛ. Tɔnɔ kɔfɛ tɛ kɛ fɛn ɲuman ye, nin ye ɲɛnɛma ye. Aw bɛ se ka:
+Ni i bɛ hɛrɛ tɛ, gɛlɛya, walima mɔgɔ ka hakili bɛ bɔ, i ka ban walima i ka kɛ fɛn wɛrɛ. Ban tɛ kɔlɔsi ye, o ye ɲɛ ye. I bɛ se ka:
 
-- fɛn dɔgɔ dɔ kɛ
-- ka kɛ ka fɛn ɲumanw ka kɛ, i n'a fɔ dɔnkili walima kafɛ dɔ
-- ka wɛrɛ kɔfɛ walima tile wɛrɛ
-- ka sigi ka kɛ ni ɲɔgɔn ye
+- baara dɔgɔ kɛ
+- kɛ fɛn ka ɲɛ, i ko dumuni walima kafe
+- kɔfɛ walima tɛmɛnen na ka kɛ
+- sigi ni aw ye
 
-Ni mɔgɔ b'a fɔ ko tɔɔ tɛ, aw kana u tiɲɛ. A bɛ se ka [a ka fɛn ka kɛ ni tɔɔ tɛ](/caregiving/when-they-say-no/) ɲɛ ka lɔ, aw ka nɔfɛ ɲumanw ka mɔgɔ ka ɲi.
+Ni mɔgɔ b'a fɔ "ayi", i kana u ɲɛ. [I bɛ se ka dɔn cogo di ka ɲɛ ni u b'a fɔ "ayi"](/caregiving/when-they-say-no/) ka ɲɛ.
 
-## Fɛn dɔgɔw kɛlɛ kɔrɔ ka ɲi
+## Baara tɔɔrɔ ni wasa dɔgɔ kelen
 
-Ni baara fɛnw ka kɛ tɛ, ka sɔrɔ ni ka ɲɔgɔn sɔrɔ bɛ se ka kɛ sigi kɔnɔ. [Sort Together](/games/sort-together/) bɛ kɛ ka ɲi ni sɔrɔ, ka ɲɛnɛ ka kɛ tabali ni ɲɛ kɔnɔ, ani [Picture Pairs](/games/picture-pairs/) ye kɛlɛ dɔgɔ ye min bɛ fɛnw ɲɔgɔn sɔrɔ ni ɲɛnɛ ka kɛ waati ka tɛ ɲɛ. [Conversation Cards](/games/conversation-cards/) bɛ kumaw wuli so ni denw kan, o bɛ kɛ ɲuman ni kafɛ ye baara kɔfɛ.
+Ni baara ka tɛ se ka kɛ ni nɔ ye, fanw ni sɛbɛnw tɛ sɔrɔ ka kɛ ni sigi ye. [Sort Together](/games/sort-together/) bɛ se ka kɛ ka fɔlɛnɛw tap ka sɔrɔ ka dumuni walima tuluma ni kɔnɔ, ani [Picture Pairs](/games/picture-pairs/) ye wasa ye min bɛ sɔnɔ ni fɔlɛnɛ caman, ka waati tɛ. [Conversation Cards](/games/conversation-cards/) bɛ kuma ɲɛ min bɛ so ni denw ko, o bɛ ka ɲɛ ni kafe ka kɛ kɔfɛ, baara ka kɛ kɔfɛ.
 
-Ni aw bɛ kɛlɛ ɲuman ka sɔrɔ ka kɛ ni tile ye, aw ka [tile kɛlɛ ɲuman](/activities/daily-routine/) ka kunnafoni ka ɲi. Waati ni kɛlɛ ɲumanw ka ɲi, aw ka [waati ɲɛnɛ kɛlɛ](/activities/middle-stage/) ka ɲi.
+Ni i bɛ fɛn ɲɛ min bɛ so baara ni don, i bɛ se ka dɔn [dɔrɔn dɔ fɛ min bɛ so ka ɲɛ](/activities/daily-routine/). Ni i bɛ dɔn fɛn caman min bɛ kɛ ka ɲɛ kɔfɛ, i bɛ se ka dɔn [kɔnɔ jɔnjɔn ka wasaw](/activities/middle-stage/).

@@ -1,32 +1,33 @@
 ---
-title: "Dementia bana mɔgɔw ka sɛnsɛnw kɛlɛw"
-seoTitle: "Dementia sɛnsɛnw kɛlɛw: kɛlɛ ideew ani hɛrɛ"
-description: "Dementia bana bɛ mɔgɔw ka sɛnsɛnw kɛlɛw, a bɛ se ka kɛ masaji fɛ, fini sɔrɔ bɔ, ani sɔn nɛnɛw ma. Hɛrɛ kan (sɛnsɛn, nɛnɛ, dumuni) bɛ yen."
+title: "Dementia mɔgɔw ka sɛnsɛ ciw"
+seoTitle: "Dementia sɛnsɛ ciw: ciw ni sɛgɛnni"
+description: "Dementia mɔgɔw ka sɛnsɛ ciw, a bɛ kɛ bolo masaji, dogo ɲɔgɔn fɛ, dɔ wɛrɛ ni kɔnɔ ta sɔrɔ, ka sɛgɛnni ci kɔnɔ kumaw ni kɔrɔ ye, ni sɛgɛn bɔnin."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sɛnsɛnw kɛlɛw bɛ kɛ sanu, nɛnɛ, dumuni, kan ani ɲɛ la: masaji fɛ ni ɲɛ
-  fɛ, fini bɔ, fɛnw nɛnɛ, sɔn nɛnɛw, walima ɲɛ la sɛgɛn ko ka fɛn. Olu
-  bɛ kɛ dɔrɔn ka ɲɛnamaya kɔfɛ kɔ, o ka ca. Hɛrɛ kan ka fɔ: sɛgɛn
-  kɛlɛ, allergie, ni nɛnɛ mabɔ ka kɛ. Kɛlɛ kelen kelen de ka di, ani ka
-  bɔ ni mɔgɔ ye ka gɛlɛya.
+  Sɛnsɛ ciw bɛ sɛnsɛ duuru kɛ: kɛnɛ, nunu, dɛgɛ, mɛnni ani ye. Bɔ masaji
+  ni tɔnɔ kɛnɛ kɔnɔ, dogo ɲɔgɔn fɛ, nɛ fɛ ka sɛgɛn, mɛnni ka sɛgɛn, walima
+  kɔnɔ ta yɔrɔ kɔnɔ ka sɛgɛn wulu ye. Olu bɛ kɛ cogo o cogo, o ka ca dɔ
+  kɔnɔ. A fɔlɔ ka sɛgɛnni ye: dɔ si ka ni ka ca, nunu ni nɛgɛ, ani kɔlɔsi
+  ni bɔ nɔ ye. Ciw kelen kelen ɲɛfɛ, ani ni mɔgɔ ka hakili gɛlɛyara, a
+  ka bɔ.
 keyPoints:
-  - "Sɛnsɛnw kɛlɛw tɛ jaabi tɔgɔ ye, o de kɔ a bɛ se ka kɛ ɲɛnamaya kɔfɛ kɔ, o bɛ kɛ kɛlɛ dɔ, sanji kɔnɔ walima sigi ka kɛ."
-  - "Sɛnsɛn kelen kelen de ka di sɔrɔ, ka sigi dugu kɔnɔ, ani ka fɔ walima ka laseli kɔ a kɔrɔ ka sɛgɛn."
-  - "Ka gɛlɛn fɛnw ni fɛnw ka kɛ i ko dumuni nka ma dumuni ye, ka gɛlɛya, mɔgɔw bɛ se ka fɛnw don da kɔnɔ."
-  - "Ka allergie, sanji mabɔ ni sɛgɛn sɛgɛn kɛ ka fɛ sanji, fɛn nɛnɛ walima dumuni kɔ."
-  - "Aromatherapy tɛ dementia kɔ fɛn dɔ kɛ dɔrɔn ka mafɛn ye; i ka nɛnɛ kɛ ka kɛ ɲɛnamaya kɔfɛ kɔ, o kɔ, i ka sɔrɔ ka fɛn ye."
+  - "Sɛnsɛ ciw ma jaabi tɛmɛnen ɲini, o de bɛ kɛ dementia sɛgɛn bɛɛ la, dabɔ kɔnɔ walima sigilan kɔnɔ fana."
+  - "Sɛnsɛ kelen kelen ɲɛfɛ, sɔgɔsɔgɔ yɔrɔ kɔnɔ, ani ka ɲɛfɛ kɔfɛ ka kɛnɛ ka ci walima ka fɔ."
+  - "Dogo ɲɔgɔn ni dɔ min bɛ i ka dumuni ɲɔgɔn ye ka kɛ kɔnɔ kɔ, o ka bɔ, bɔ mɔgɔ bɛ o kɔnɔ."
+  - "Ka allergiya, kɔlɔsi ni hɛrɛ gɛlɛyaw ye ɲɛ sɔrɔ ka nɔ, dɔgɔ kunnafɔnigɛ, nunu walima dumuni ɲɛfɛ."
+  - "Aromaterapi ka dementia kɔlɔsili dɛmɛ ka ɲɛnɛ, lakika tɛ sɔrɔ; nunu kɛ ka nisɔndiya tɛmɛn ɲini, ni kɛ, a ka kan ka kɛ kɔfɛ."
 faq:
-  - q: "Dementia bana mɔgɔ ye, sɛnsɛnw kɛlɛ juman ye jɔ?"
-    a: "Ideew ka ɲɛ: masaji fɛ ni sanji, fɛn ko ni kulu sanu, sumankɛ walima kafe nɛnɛ, a ka dɔnkili walima baganɛ kan, sɔn walima ji ka sɔn, ani dumuni min ka di, kɔ i ka nɔɔ bɛ kɛ se ka ɲɛ. Kɛlɛ kelen kelen de ka di, ka ɲɛ mɔgɔ ka jaabi."
-  - q: "Sɛnsɛnw kɛlɛw bɛ hɛrɛ wa mɔgɔ min bɛ fɛn don da kɔnɔ?"
-    a: "A bɛ se ka kɛ hɛrɛ kɔnɔ, ni i bɛ kɛ kɔnɔnaw. Fɛn ba min bɛ se ka bɔ, o kɔ ka ba; fɛn tɔɲɔ walima tigɛli kɔ fɛn kelen kelen tɛ, ani sanji, sabun ni nɛnɛ fɛnw kɛ sɔrɔ ka bɛn. O bɛ kɛ dumuni ko i ko, o kɔ, i ka mɔgɔ nɔɔ ka to."
-  - q: "Aromatherapy bɛ dementia dɛmɛ wa?"
-    a: "Cochrane sɛgɛsɛgɛli ye fɔ ko a tɛ mɔgɔ ye dɔ ka dɛmɛ dementia bana mɔgɔw ma, nka kalan ka fitinin dɔ, ani ɲɔgɔn tɛ ɲɛɛ. Ni mɔgɔ bɛ nɛnɛ ɲɛmɔgɔ mɛn, o tɛ hɛrɛ ye; nka aw ka nɛnɛ fɛnw ka kan kɛ, kɔrɔsi ni nɛnɛ sɔrɔ ni sɛgɛn sɛgɛn bɛ kɛ se ka ɲɛ."
+  - q: "Dementia mɔgɔ dɔ ye, sɛnsɛ ciw jumɛn ye ɲɛ?"
+    a: "Ciw ɲɛnɔgɔnw ye ɲɛ: bolo masaji ni tɔnɔ, dogo ɲɔgɔn ɲɛ, nunu fɛn ɲɔgɔnw ni kafe, mɛnni ka dɔ ni ka sɛgɛn walima ka wulu ye, sogo ni jɛ ta ye walima nɛgɛ ka dɛgɛ dumuni ɲɔgɔn ni sigi ka ɲɛ. Ciw kelen kelen fɔ, ani ka ɲɛ mɔgɔ jabi."
+  - q: "Sɛnsɛ ciw ka ɲɛnɔgɔn ye ɲɛ, ni mɔgɔ bɛ fɛn bɔ da kɔnɔ?"
+    a: "A bɛ kɛ ɲɛnɔgɔn, ni hakili bɛ. Fɛn gɛlɛn min tɛ se ka nɔ, o de kɛ; fɛn tɔɔrɔ walima min bɛ tɔ, o ka bɔ; ani ka tɔnɔ, sabun ni fɛn min ni nunu bɛ ka bɔ, olu ka bɔ dugu la, katuguni olu bɛ kɛ dumuni ye. Mɔgɔ ni ye yɔrɔ kɔnɔ ka sigi."
+  - q: "Aromaterapi bɛ dementia dɛmɛ ye wa?"
+    a: "Cochrane kɔlɔsili ye ci kelen ye: aromaterapi ka dementia mɔgɔw dɛmɛ, sɔrɔ dɔ ma sɔrɔ, nka kalan ɲɔgɔnw tun ka ɲɛ tɛ, ani sɛgɛnni tun ka tɛ mɔ kelen ye. Ni mɔgɔ bɛ nunu dɔgɔ, nunu min ye a ka kɛ, o tɛ ko; nka nɛgɛ hakɛ ni hɛrɛ gɛlɛyaw ye, ani ni allergiya bɛ yen, o ka bɔ."
   - q: "Fidget walima activity apron ye mun ye?"
-    a: "A ye kɔrɔ kɛnɛ ye, o ye kɔrɔ, walima dɔgɔ kɛnɛ min kan bɛ fɛn sanu kɔrɔ sɛbɛn ni sɛrɛ kɛ dɔgɔn: bɔtɔn gɛlɛn, zipɛ, ruban ni kɔrɔ kɛnɛ. A bɛ sanu kɔrɔ fɛn ka sɔrɔ. Ka a ye tile, ka ɲɛ fɛn min bɛ bɔ ka bɛn."
+    a: "A ye dogo, apron walima dan min bɛ fɛn ɲɔgɔnw ni nɔ ye, i ko bolo fɛ, zipper, ribɔn ani dan dɔ min bɛ ɲɔgɔn ni nɔ. A bɛ bolo min ka jɛ dɔ kɔnɔ, ka fɛn ka dɛmɛ. A ka bɛɛ ye ka lɔ ka ɲɛ, ka ko ni fɛn bɛ bɔ."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -51,83 +52,83 @@ related: [activities/late-stage, activities/music, activities/outdoor-and-garden
 health: false
 ---
 
-Sɛnsɛnw kɛlɛw bɛ baara ta sɛnsɛ duuru kan: sanu, nɛnɛ, dumuni, kan ani ɲɛ. Olu tɛ hakili ta, tɛ kɛlɛ dɔ ka taama, ani tɛ jaabi tɔgɔ; o de kɔ, a bɛ se ka kɛ ɲɛnamaya kɔfɛ kɔ. Olu bɛ sɔrɔ ka ca ɲɛnamaya kɔfɛ kɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) bɛ fɔ ko ɲɛnamaya kɔfɛ kɔ dɔ, dunɛ bɛ sɔrɔ sɛnsɛnw fɛ, ani i bɛ se ka hinɛ yɛrɛ kɛ sanu, kan, ɲɛ, dumuni ni nɛnɛ fɛ. Hɛrɛ kan dɔrɔn bɛ kɛ kɛlɛw ka nafa ni hɛrɛ ye mɔgɔ bɛɛ ye.
+Sɛnsɛ ciw bɛ sɛnsɛ duuru kɛ: kɛnɛ, nunu, dɛgɛ, mɛnni ani ye. Olu tɛ hakili, tasuma walima jaabi tɛmɛnen ɲini, o de kama o bɛ kɛ cogo o cogo. Olu bɛ ɲɛ ni ka ca dɔ kɔnɔ kosɔn. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ko kɔfɛ sɛgɛn kɔnɔ, duniya bɛ ye sɛnsɛ de kɔnɔ, ani aw bɛ hinɛ kɛ kɛnɛ, mɛnni, ye, dɛgɛ ani nunu fɛ. Sɛgɛnni dɔw bɛ sɛnsɛ ciw kɛ ka nisɔndiya ka bɔ bɛɛ ye.
 
-## Dementia sɛnsɛnw kɛlɛw ye mun ye?
+## Dementia sɛnsɛ ciw ye mun ye?
 
-Sɛnsɛnw kɛlɛw ye ɲɛnamaya kɛlɛ sɛbɛn ye, sɛnsɛ kelen kelen de kan: fɛn sanu, sumankɛ nɛnɛ walima sɔn kan. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bɛ fɔ ko ɲɛnamaya kɔfɛ kɔ kɛlɛw bɛ kɛ sɛnsɛnw kan, o bɛ kɛ sɔn, fɛn sanu ni masaji fɛ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ fɔ ko mɔgɔ ɲɛnamaya kɔfɛ kɔ bɛ se ka fɛn dɔ dɔgɔ ka to ka sɛgɛn.
+Sɛnsɛ ciw ye sɛnsɛ kelen kelen ye ka kɛ ciw ye, i ko dogo ka kɛnɛ, nunu ka fɛn, walima sanji ka mɛnni. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ko kɔfɛ sɛgɛn kɔnɔ ciw bɛ kɛ sɛnsɛ kan, ani a bɛ mɛn kɛnɛ fɛn, mɛnni ani bolo masaji. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ko mɔgɔ dɔw bɛ fɛn dɔ kɔnɔ ni hinɛ ye, ka nisɔndiya ka bɔ.
 
-## Sɛnsɛn ideew, sɛnsɛn kelen kelen
+## Sɛnsɛ ciw ka misali, sɛnsɛ kelen kelen
 
-### Sanu
+### Kɛnɛ
 
-- **Masaji fɛ.** Sanji kɔnɔ ka sanji ka fɛn dɔ, ka i bolo ka i ka sanji ka jigi ka bɔ fɔ ka se seginiw ma. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) bɛ fɔ ko masaji fɛ ni sanji min tɛ nɛnɛ kɛ, o bɛ dɛmɛ ka hɛrɛ kɛ.
-- **Kulu sanu.** Velvet, corduroy, fleece, satin ani wool kɔnɔ kɔrɔ, ka sanu ka fɔ, ka sɔrɔ ka fɔ kan.
-- **Ji dɔgɔ kɛnɛ.** Ji dɔgɔ kɔnɔ kɛnɛ ka dɔ sanji kɔ, sɔgɔma don. Ka ji heɲɛ i yɛrɛ sanji kan dɔ fɔlɔ.
-- **Kɔrɔ kɛnɛ walima sigi dɔ.** Bɔtɔn gɛlɛn, zipɛ, ruban ni kɔrɔ kɛnɛ, ka sɔrɔ ka sɛbɛn.
-- **Fɔ ka ɲɔ ka kɛ.** Sɛgɛn kɛnɛ sɛgɛn kɔnɔ ka fɔ, ka ɲɔ ka sɔrɔ ka fɔ.
-- **Dɔgɔ fɛn min bɛ sɔrɔ ka to.** Fleece dɔ, sigi dɔ, walima sogo dɔgɔ kɛnɛ, ka di sɛgɛn, kɛɲɛ fɛ, ni ka ban ka kɛ fɛn kɔ.
+- **Bolo masaji.** Tɔnɔ dɔgɔ dɔ ka jɛ ka sɔgɔ ni bolo ye, ka ci sɛgɛn ka bɔ kɔrɔ ka se kɔrɔ fɛ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ko tɔnɔ min tɛ nunu kɛ, o ka kɛ masaji ye nisɔndiya kosɔn.
+- **Dogo sɔgɔsɔgɔ.** Velvet, corduroy, fleece, satin ani wool dogo ni fɛ, ka kɛnɛ, ka kɔnɔ ka ci ka kuma.
+- **Ji jɛkulu ka dogo.** Ji dɔgɔ min bɛ ji kɛ, ka bolo ka sɛgɛn sanji fɛ. Aw ka ɲɛ ni ɲɛjɛ kɔnɔ ka tɛmpɛratɛri ye.
+- **Activity apron walima dan.** Bolo, zipper, ribɔn ani dan min bɛ mɔgɔ kɔnɔ kɛ.
+- **Ka ci ka kɔnɔ ni ka ci kɔrɔ.** Dogo sɔgɔsɔgɔ, kaskɛ walima fulu ka ci, ka ci ka kuma.
+- **Dɔ min bɛ ka nisɔndiya.** Fleece, dɔ, walima nɔ fɛn ye, ka fɔ ka ɲɛ, a ma kɛ dɔ ye.
 
-### Nɛnɛ
+### Nunu
 
-- **Sumankɛ kɔnɔ.** Ka sumankɛ, nɛnɛ, basilik walima lavande ka fɛ sanji kɔnɔ, ka sɔrɔ ka bɔ mɔgɔ ɲɛ.
-- **Kɛnɛ nɛnɛ.** Kafe ka dɔ, bulu ka ban, sinamɔn walima orange ka bɛn ka kɛ ɲɛ kɔrɔ.
-- **Fulu.** Ka fulu dɔ bɔ sɔrɔ bɔ kɔnɔ walima bɔ kɔnɔ.
-- **Ka fɛn dɔ ka kɛ kɔnɔ.** Sabun walima sanji ni ka kɛ a ka sɔrɔ, ni a sanji tɛ kɛ kɔnɔnaw.
+- **Sanji nunu.** Ka menta, rosemary, basil walima lavender tɛɲɛ ka nun ni sɛ fɛ, ka sɔrɔ ka mɔgɔ fɛ.
+- **Ka nunu kɔnɔ.** Kafe bɛ kɛ, mɔgɛ ka nunu, sinamɔn walima orange bɛ ta ka bɔ.
+- **Fleuri.** Fleuri dɔ ka bɔ jɛnɛ walima sanji ka bɔ.
+- **Sabun walima tɔnɔ min bɛ mɔgɔ ka dɔ.** Ni a bolo bɛ se ka o kɛ, o bɛ kɛ dɛmɛ.
 
-### Dumuni
+### Dɛgɛ
 
-- **Ka dumuni min ka di.** Ka dumuni dɔgɔ dɔ ka di, i ko nɛnɛ, pudding walima ice cream, ka dumuni kɔ ka ɲɛ.
-- **Fini kɛlɛ dɛmɛ.** Ka hɔrɔ walima ka fɛ ka kɛ ka dumuni ka dɛmɛ, i ka nɔɔ kɛ.
-- **Waati dumuni.** Sɔgɔma ko ɲɛ, sanji ko kɛ, ka se ka ɲɛnamaya kɔfɛ kɔ.
+- **Dɛgɛ min bɛ mɔgɔ ka nisɔndiya.** Dɛgɛ dɔgɔ dɔ, i ko sogo, pudding walima ice cream, min bɛ se ka dɛgɛ ka bɔ ni hakili ye.
+- **Dumuni la dɛmɛ.** Ni aw bɛ buru sɛgɛn, ka fɛn dɛgɛ walima frosting dɔgɔ dɔ.
+- **Waati kɔnɔ dumuni.** Dugu ka sanji walima ni cider ka dɛgɛ, a bɛ kɛ ɲɛgɛn tɛmɛ.
 
-### Kan
+### Mɛnni
 
-- **Sɔn min ka di.** Sɔn kɛnɛ dɔ, ka ɲɛ ka sɔrɔ ka sɔn. Ka laseli ka [sɔn kɛlɛw](/activities/music/) ye.
-- **Dunɛ kan.** Sɔgɔma, ji, walima sɔgɔ kan. NIA bɛ fɔ ko sɔn, kan ni dunɛ kan bɛ dɛmɛ mɔgɔ dɔw ka gɛlɛya.
-- **I kan.** Kalan kɛlɛ, sɔn kɛ, walima kalan dɔ fɔ.
-- **Sɔn fɛn dɔw.** Ka kɛ ka bɛn kɛ ka sɔn ni sɔn ka kɛ.
+- **Dɔ min bɛ mɔgɔ ka nisɔndiya.** Dɔ dɔ min bɛ mɔgɔ ka ɲɛ, ka ka mɛn ka dɛ ni dɔ dɔgɔ ye. Ni [music activities](/activities/music/) ka ɲɛ.
+- **Fɛn ka mɛnni.** Sanji, ji walima kɔnɔ ka dɔ. NIA ko dɔ, mɛnni ani fɛn mɛnni bɛ mɔgɔ dɔw nisɔndiya.
+- **I ka kuma.** Sɛgɛn kɔnɔ ka kalan, sanji ka dɔ walima ka kumakan fɔ.
+- **Fɛn ka ɲɛfɛ dɔ.** Ni dɔ ka sɔgɔ ni tanbu, fɛn, walima kɔnɔ ye.
 
-### Ɲɛ
+### Ye
 
-- **Sɔgɔma ɲɛ.** Sogo dɔ ka ɲɛ ka tugu ka sɛgɛn, ka sɔrɔ sɔgɔma ɲɛ, walima dɔgɔ kɛnɛ ka sɔn ka sɔrɔ.
-- **Fɛn dɔ ka ɲɛ.** Ka fɛn dɔ ka bɛ ɲɛ kɔrɔ, ka ɲɛ ka sɔrɔ ka sɔn.
-- **Sɔn fɛn sɛbɛn.** Ka sɛbɛn ka dɔ ka kɛ ka sɔn ni ka sɔrɔ ka fɔ. Ka [sɔn kɛlɛw](/games/coloring/) ka kɛ.
-- **Kɔrɔ ni sɛbɛn.** Kulu fɛnw ni fulu ka kɛ ka sɔrɔ, ka dɔgɔ sɛbɛn kɛ ka ɲɛ.
-- **Sɔgɔma ɲɛ.** NHS bɛ fɔ ko ka kɛ tɛ kɛ ka ɲɛ, ka dumuni, ka sɔn ni ji. Ka laseli [sɔgɔma kɛlɛw](/activities/outdoor-and-gardening/) ye.
+- **Ka ye kɔnɔ.** Ka ye kɔnɔ kɔrɔ ka dugu ka lɔ, bɛnkan ka sɛgɛn, walima ka kɔnɔ ka ci.
+- **Jɛ fɛn walima video.** Ka nɔ kɛ sɔgɔ dɔgɔ dɔ ni mɛn tɛ.
+- **Sanji dɔ ye ka fɔ.** Sanji dɔ, ɲɛ ni ka ɲɛ ka kɔnɔ.
+- **Ka mara ni ɲɛ.** Sɛgɛn ka ɲɛ, ka kɔ ka ɲɛnɔ, walima [coloring](/games/coloring/) dɔ.
+- **Ka bɔ.** NHS ko sanji ka ɲɛ, ka ɲɛ dɔ ni ka kɔ ni ka nunu ka. [outdoor and gardening activities](/activities/outdoor-and-gardening/) ka ɲɛ.
 
-## Sɛnsɛn sigi dɔ ka kɛ kɔrɔ
+## Sɛnsɛ bɔsɔ ka kɛ cogo
 
-1. **Sigi dɔ ka sugandi,** o ye mɔgɔ ka ɲɛnamaya la: tile, sɔgɔma, dumuni, sɔgɔma, sɛgɛn kɔrɔ.
-2. **Fɛn duuru walima fɔlɔ ka sigi, ni dɔgɔ ye,** i ko kɔrɔ kɔnɔ, kɔrɔ kɛnɛ ka sɔrɔ, sɔrɔ ka kɛ ni dibi.
-3. **Fɛn o fɛn ka sɛgɛn,** i ko kɔrɔ kɔnɔ, ka gɛlɛn, ka sɔrɔ ka tigɛli.
-4. **Fɛn kelen kelen de bɔ.** Ka di, ka fɔ, ka mɔgɔ ka sɔrɔ ka sanji.
-5. **Sigi ka bɔ kɔfɛ ka don.** O ka kɛ ka sɔrɔ ka sɛgɛn, ni fɛn tigɛli kɛ ka ban.
+1. **Ciw ka yɔrɔ sugandi** min bɛ mɔgɔ ka ɲɛ ni a ka dɔ ye: kɔnɔ, sanji, dumuni, kɛwale, ka sɔgɔsɔgɔ.
+2. **Fɛn duuru walima wɔɔrɔ sɛgɛn** min tɛ dɔ kɛ, i ko fɛn ka ɲɛ, kɔrɔ dɔ ka kɔnɔ, dan fɛn, walima dugu fɛn.
+3. **Fɛn bɛɛ ka ye.** Ni tɛ ka a ye fɛn tɔɔrɔ, bɛ dɔ kɛ, walima nɛgɛ ka bɔ.
+4. **Fɛn kelen kelen bɔ.** Dɔgɔ ka kɛnɛ ka fɔ, ka mɔgɔ ka ɲɛ.
+5. **Fɛn ka ɲɛ ka bɔ.** Ka o ɲɛ bɔ, ka ɲɛ, ka ci kɔrɔ.
 
-## Hɛrɛ fɔlɔ
+## Ɲɛmɔgɔya fɔlɔ
 
-Sɛnsɛnw kɛlɛw ye dɔgɔ ye, nka hɛrɛ dɔw ka gɛlɛn. Dementia bana mɔgɔ dɔw bɛ fɛn tɛ dumuni ko dumuni ye, ani dumuni don ka gɛlɛya ɲɛnamaya kɔfɛ kɔ; NIA bɛ fɔ ko ɲɛnamaya kɔfɛ kɔ, don gɛlɛya bɛ se ka sɔrɔ ka kɛ.
+Sɛnsɛ ciw bɛ nisɔndiya, nka ɲɛ dɔw bɛ kɛ. Dementia mɔgɔ dɔw bɛ fɛn ka mɔgɔ kɛ dumuni ye, ani dumuni ka se ka bɔ ka sɔrɔ tuma ɲɛnɔgɔn kɔnɔ; NIA ko tuma min bɛ kɛ kɔnɔ kɔrɔ, ka dumuni kɔrɔ ni ka se ka bɔ, o bɛ kɛ dɔ kɔnɔ ka ɲɛ.
 
-| Hɛrɛ | I ka mun kɛ |
+| Ɲɛ | Mun kɛ |
 | --- | --- |
-| Don ka gɛlɛya | Fɛn min bɛ se ka don tɛ, o de kɛ. Kɔrɔ kɔnɔ, bɔtɔn, dɔ, tigɛli, walima kɔrɔ kɛnɛ kɔnɔ tɛ. Dumuni min di, o ka kɛ ni ka kɛ kɛlɛ ka fɛɛrɛ ye. |
-| Fɛn min bɛ dumuni ko i ko | NIA bɛ fɔ ka sanji, sabun, shampoo ni nɛnɛ fɛnw ka kɛ sɔrɔ, olu bɛ se ka dumuni ko i ko, ka fɛn tigɛli ka bɔ. Sɛnsɛn fɛnw ka bɔ kɔfɛ kɔ ka bɛn. |
-| Allergie | Ka laseli nɛnɛ, latex, wool, fɛn walima nɛnɛ allergie ye, i ka kɛlɛ daminɛ. |
-| Nɛnɛ ka ca | Ka nɛnɛ ka ca, ni i bɛ se ka fɛnw kɛ ka kɛ asthma walima nɛsin. Nɛnɛ fɛnw min tɛ ca, o ka ɲɛ. |
-| Sanji | Ka laseli ni sanji kɔ, ni mɔgɔ sanji bɛ mabɔ walima gɛlɛn. Ka sɛgɛn kɛ tilebin, ka sɔrɔ ka bɛn ni mɔgɔ bɛ ɲɛ. |
-| Dɔgɔ | Ji dɔgɔ kɛnɛ ni ji min bɛ mɔgɔ min ka ji, ka sanji kɔnɔ ka ɲɛ. |
-| Fɛn gɛlɛn walima fɛn min bɛ ka jɛ | Fɛn gɛlɛn, dibi ni fɛn min bɛ mɔgɔ ka jɛ, o tɛ. |
+| Dumuni ka se ka bɔ | Fɛn min tɛ se ka nɔ ka dɔ ni o ko. Dogo kɔnɔ kɔrɔ, sakanji, walima fɛn tɔɔrɔ tɛ. Dumuni min bɛ dɔ kɔnɔ, o gɛn kɔrɔ ni ɲɛnɔgɔnw ko a bɛ ɲɛ. |
+| Fɛn min bɛ dumuni ye | NIA ko tɔnɔ, sabun, shampoo ani nunu ka bɔ kɔrɔ ka bɔ, katuguni olu bɛ dumuni ye. Fɛn kɔnɔ ka kɛ ka bɔ ka dɔ kɔ. |
+| Allergiya | Ka ɲɛ allergiya ye noon, nɛgɛ, latex, wool, sanji walima nunu ye ka dɔ. |
+| Nunu gɛlɛn | Nunu gɛlɛn ni ɲɛ ye ɲɛ, hɛrɛ gɛlɛyaw ye. Nunu min bɛ mɛn, o ka ɲɛ. |
+| Ɲɛ | Ka ɲɛ ni dan walima ɲɛ kɔnɔ, o ka bɔ masaji ka tɛ. Ka ɲɛ kɔrɔ ka mɔgɔ ka ɲɛ, ni a bɛ ɲɛ, ka bɔ. |
+| Tɛmpɛratɛri | Ka ji ni ji dɔgɔ ka ɲɛ ni ɲɛjɛ kɔnɔ. |
+| Fɛn tɔɔrɔ walima fɛn min bɛ nɔ | Fɛn tɔɔrɔ, ɲɛ ni kɔ fɛn tɛ. |
 
-## Aromatherapy bɛ dɛmɛ wa?
+## Aromaterapi bɛ dɛmɛ wa?
 
-A bɛ se ka kɛ ko tɛ dɛmɛ. [Cochrane sɛgɛsɛgɛli](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) bɛ sɛgɛsɛgɛli 13 ye, mɔgɔ 708 bɛ kɛ kɔnɔ, bɛɛ kɔnɔ kɔnɔ kɔrɔ. Olu bɛ fɔ ko hɛrɛ tɛ ɲɛ ko. Sɛgɛsɛgɛli kalan, jaabi tɛ ɲɔgɔn ye, ani hɛrɛ ka kɛ tɛ fɔ ka ɲɛ. Ni mɔgɔ bɛ nɛnɛ mabɔ, i ko sumankɛ ka nɛnɛ sɔrɔ ka kɛ, o ye ko ɲɛ ye; nka a tɛ dɔ ye.
+A tɛ dɔ ye, a tɛ sɔrɔ a ka dɔ ko. [Cochrane kɔlɔsili](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ka aromaterapi ka dementia kan, ka kalan 13 ni mɔgɔ 708 ye, bɛɛ kɛra dugu kɔnɔ. A sɔrɔ dɔ ma sɔrɔ. Kalan ɲɔgɔnw tun ka ɲɛ tɛ, ani fɛn min tun bɔ, olu tun ka ɲɛ tɛ. Ni mɔgɔ bɛ nunu dɔgɔ, i ko lavender min bɛ sanji ka bɔ, o ye ka ɲɛ ka kɛ. A tɛ dɔgɔ ye.
 
-## Sɛnsɛn kɛlɛ ka di mɔgɔ ma cogo di
+## Sɛnsɛ ciw ka sɛgɛnni
 
-- **Waati dɛnɛ dɔ sugandi,** ka sɔn kɔ ka tɛlevizɔn kɛ.
-- **Ka sigi ɲɛ fɛ,** ka mɔgɔ tɔgɔ fɔ, ka laseli ka kɛ ka sanu, i ko: "Ne ni sanji bɛ yen. I bɛ se ka sanji kɔ?"
-- **Kɛlɛ kelen kelen de ka di,** i ko a ka gɛlɛn ka kɛ kɔfɛ.
-- **Ka ɲɛ a ka jaabi.** Ka dɛ kɔrɔ, ka boko lafiɲɛ, ka ɲɛ dɛ, o ye ɲɛnamaya ye. Ka bɔ kɔfɛ, ka ɲɛ kɛ walima ka gɛlɛya, o ka kɛ ka sɔrɔ.
-- **Ka fɔ ka tɛmɛ.** Miniti duuru dɔgɔ ye kɛlɛ ɲɛ.
+- **Waati ɲɛnɔgɔn sugandi** ka TV bɔ.
+- **Ɲɛfɛ ka ɲɛ ka mɔgɔ tɔgɔ ka kuma**, ka ci ka fɔ ka mɔgɔ jabi a ka ɲɛ ka bɔ: "Ne ye tɔnɔ dɔ ta. I bɛ masaji ka kɛ wa?"
+- **Ciw kelen kelen ɲɛfɛ**, ka dumuni ka ɲɛ.
+- **Ɲɛ mɔgɔ ka jaabi.** Ni a ɲɛ ka ɲɛ, bolo ka dɔ, walima a bɛ dɛgɛ, o ka ɲɛ. Ni a ka bɔ, a ka ɲɛ fulu, walima a bɛ dɔ kɛ, o ka ɲɛ ka bɔ.
+- **Ka ɲɛ.** Dɔgɔ bɔ ka ɲɛ, o ka ɲɛ ka kɛ.
 
-Ka sɛgɛn kɛ ni mɔgɔ ye, i ko [calm breathing](/games/calm-breathing/), o ye ka kɛlɛ ka fɔ dɔgɔ. Ni i bɛ kɛlɛ dɔ ka laseli ka kɛ, ka ɲɛ [ɲɛnamaya kɔfɛ kɔ kɛlɛw](/activities/late-stage/), ani ka ɲɛ [sɔgɔma kɔrɔ gɛlɛya](/caregiving/late-day-restlessness/).
+Ni aw bɛ sɛgɛn ka ɲɛ ni ka sɛgɛn ka ɲɛ, i ko [calm breathing](/games/calm-breathing/), o bɛ kɛ ɲɛ ka bɔ. Dugu ka ciw dɔw, [late-stage activities](/activities/late-stage/) ka ɲɛ, ani ni sɛgɛnni bɛ kɛ kɔnɔ, [late-day restlessness](/caregiving/late-day-restlessness/) ka ɲɛ.

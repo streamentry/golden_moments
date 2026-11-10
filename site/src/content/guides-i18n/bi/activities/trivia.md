@@ -1,33 +1,33 @@
 ---
-title: "Simpol Trivia Gem blong Ol Olfala we Oli Gat Dementia"
-seoTitle: "Trivia Kwesten blong Olfala wetem Dementia, wetem Ansa"
-description: "50 simpol trivia kwesten blong olfala we oli gat dementia, wetem ol ansa mo ol toktok, mo hao blong ranem trivia we no mekem ol man i fil tesin o i stap aot."
+title: "Isi Kwis Blong Ol Man We Oli Gat Dementia, Bitim Presa"
+seoTitle: "Kwestin Kwis Blong Ol Man We Oli Gat Dementia, Wetem Ansa"
+description: "50 isi kwestin kwis wetem ol jois blong ansa mo ol samting blong toktok, plus hao blong ranem kwis we nating man i filim presa o i stap aotsaed."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Simpol trivia blong olfala we oli gat dementia i gud taem i olsem wan toktok,
-  nomo wan test. Askem long ol samting we oli save long taem bifo, olsem ol song,
-  ol toktok, ol holiday mo laef blong ol everi de, mo oltaem givim tu o tri ansa
-  blong jusum. Givim ansa long fasin we i fri, nating wanem man i talem, no
-  mekem skoa, mo yusum ol ansa blong stat wan stori. Ol kwesten "dis o dat" we
-  nating rong ansa i stap, oli gud long ol stej we i leta.
+  Isi kwis blong ol man we oli gat dementia i wok gud taem i olsem wan toktok,
+  nating wan test. Askem long ol samting we man i lanem finis longtaem bifo,
+  olsem ol sog blong olfala taem, ol tok, ol holide mo laef blong ol de. Oltaem
+  givim tu o tri jois. Givim ansa long fri we, nating mekem eni man i stap aotsaed,
+  skipem score, mo yusum ol ansa blong stat wan stori. Kwestin "dis o dat" we
+  nogat rong ansa i gud long ol laet stej.
 keyPoints:
-  - "Askem long ol samting we oli long fastaem: ol song, ol toktok, ol holiday, kaikai mo laef blong ol everi de long taem bifo."
-  - "Givim tu o tri ansa blong ol man i save rikognaesem ansa, no i nid tingting had blong talem fresh."
-  - "Talem ansa wetem wod we i gud mo mekem i go. Ol ges we i stat wan stori, oli gud gess."
-  - "No ol poen, no ol tim we oli ronem fastfast, no singaotem wan man. Letem ansa i kam long olgeta ol man long rum."
-  - "Taem i hard blong jusum ansa, jenisim i go long ol kwesten dis o dat we nating rong ansa i stap."
+  - "Askem long ol samting we oli stap longtaem: ol sog, ol tok, ol holide, kakae mo laef blong ol de bifo."
+  - "Givim tu o tri jois blong ansa i kan rikognaesem, nating blong rimemba long hed."
+  - "Talem ansa wetem gud tingting mo go long nekis kwestin. Eni ges we i stat wan stori i wan gud ges."
+  - "Nogat pointi, nogat tim blong rês, nogat wan man nomo we oli askem. Letem ol ansa i kam long evriwan long rum."
+  - "Taem i had blong jusum ansa, jenisim i go long kwestin dis o dat we nogat rong ansa."
 faq:
-  - q: "Eniwe trivia i gud long ol man we oli gat dementia?"
-    a: "I gat man i save seraes wetem, sapos yu ranem i gud. Alzheimer's Foundation of America i talem trivia i stap long ol akti blong stej we i stat. Stap long ol kwesten long ol samting we oli long fastaem, givim ol jes ansa, nating putum wan man long hat presa, mo tekem ol ansa olsem wan rod blong stat toktok, no olsem wan test."
-  - q: "Wanem ol topik we i gud moa long trivia blong dementia?"
-    a: "Ol samting we oli lan long taem bifo oli gud moa: ol popula song mo ol singa long taem blong man, ol toktok we oli no gat jenis, holiday, kaikai, sport, mo laef blong ol everi de olsem ol milk we oli bringim long dua mo ol rotary fon. Yu no yusum ol niuspepa blong nao o ol samting we i nid tingting long samting we i bin hapen long sesen ya."
-  - q: "Hao blong ranem trivia long wan care home we i no mekem ol man i sem shame?"
-    a: "Ridim ol kwesten long hol grup, soem o talem ol ansa, mo welkamem ansa long ol man long rum. Nating singaotem ol individual o keepem skoa. Talem ansa wetem smael, nating wanem i bin gesem, mo askem wan moa kwesten olsem 'Hu long hia i bin go long drive-in bifo?' blong jenisim i kam stori."
-  - q: "Wanem yu save mekem narafala long trivia long ol las stej?"
-    a: "Jenisim i go long ol kwesten we nating rong ansa i stap, olsem 'Kofi o te?' o 'Biij o ol maunten?', mo long finisim ol toktok o song we oli save long taem bifo, wetem ol man. Lukluk long ol pikja mo talemaot long ol samting we oli stap long tufala, i gud tu."
+  - q: "Eis kwis i gud blong ol man we oli gat dementia?"
+    a: "I save gud, sipos yu rann hem wetem isi tingting. Alzheimer's Foundation of America i putum kwis long ol aktiviti blong erli stej. Kipim ol kwestin long ol samting we oli stap longtaem, givim ol jois, nating putum wan man long presa, mo lukluk long ansa olsem wan rod blong toktok, nating wan test."
+  - q: "Wanem ol toktok we i gud blong kwis blong dementia?"
+    a: "Ol samting we oli lanem longtaem bifo i gud moa: ol gud sog mo ol singa blong taem we man i yang, ol tok we oli yusum, ol holide, kakae, spot, mo laef blong ol de olsem ol milk deliveri mo ol rotary telefon. Yu no nid yusum ol niuspepa blong nao, mo ol samting we i nid man i rimemba samting we i kamaot long sesen."
+  - q: "Hao blong mi ranem kwis long wan hom blong kea wetem nating mekem wan man i sem?"
+    a: "Ridim ol kwestin long evriwan long grup, soem o talem ol jois, mo welkamem ansa long eni man. Yu no nid kolem individual o kipim score. Talem ansa wetem smael nomo, wetem wanem we eni man i gesem, mo askem wan nekis kwestin olsem 'Hu long yumi we i bin go long drive-in?' blong jenisim i kam wan stori."
+  - q: "Wanem samting mi save duim instead blong kwis long ol laet stej?"
+    a: "Jenisim i go long ol kwestin we nogat rong ansa, olsem 'Kofi o te?' o 'Bij o ol maon?', mo long finisim ol sawe o ol sog we oli save finis, wetem yu. Lukluk long ol pikja mo talem wanem i stap long ol pikja tugeta i gud tu."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia i wan long ol gruop akti we ol man oli askem moa long ol care home mo ol day program, mo planti famili tu oli playem long tebol long kitchen. Sapos yu ranem olsem usual, wetem ol poen mo wan man nomo i ansarem, i save mekem man we i gat dementia i fil olsem oli putum hem long hat presa. Sapos yu ranem i gud, i wan laef fasin blong harem ol stori. Hia i gat 50 isi kwesten wetem ol ansa jusum mo wan samting blong toktok long each wan, afta long hao blong ranem wan sesen.
+Kwis i wan long ol gudfala grup aktiviti we ol man i askem plenti long ol hom blong kea mo ol program blong dei, mo plenti famili i pleim tu long tebol blong kisin. Sipos yu rann hem olsem usual, wetem pointi mo wan man nomo i ansa, hemi save mekem wan man we i gat dementia i filim presa. Sipos yu rann hem wetem isi tingting, hemi wan laef fulap rod blong harem ol stori. Hia i gat 50 isi kwestin, wetem ol jois blong ansa mo samting blong toktok long each wan, bihaen hao blong ranem wan sesen.
 
-## Hao blong mekem trivia i wok long man we i gat dementia?
+## Hao blong mekem kwis i wok gud long man we i gat dementia?
 
-Mekem i stap long rikognaesem mo tingbak long ol samting blong long taem bifo, mo mekem olgeta ansa i welkam.
+Mekem i stap long rimemba mo rikognaesem ol samting we i bin hapen longtaem bifo, mo mekem evri ansa i gat wolkam.
 
-1. **Askem long fasfala taem.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) i talem se fasin we i moa komon long fastaem blong Alzheimer i hard blong tingbak long samting we yu jes lanem. Ol song, ol toktok mo laef blong ol everi de long planti yia bifo, oli isi moa.
-2. **Oltaem givim jes ansa.** Jusumaot wan rong o raet ansa long tu o tri i isi moa long jenem ansa from nating.
-3. **Ridim ol kwesten long hae voes mo soem ol kwesten we oli bigfala.** Wan waetbod o wan tablet we yu holem i stap, i help ol man we oli no harem gud.
-4. **Givim ansa long fri fasin.** Sapos nating man i save, talem long hat we i gud mo go long nekis. Nating talem, "Kam nao, yu save long hem."
-5. **No skoa.** Nating blong ol individual mo nating blong ol tim. Sapos ol man oli wantem wan namba, keepem wan grup totol nomo.
-6. **Nating singaotem wan man.** Letem ansa i kam long eni man. Long wan-blong-wan, ansarem tugeta: "Mi tink i piano. Yu tingting wanem?"
-7. **Yusum ol toktok blong stat.** Ansa i stat blong toktok, i no finis. Ol stori i samting we yu wantem.
-8. **Mekem i sot.** Ten kwesten wetem ol stori long midol i stap.
+1. **Askem long ol samting long taem i bin pas longwe.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) i talem se wan long ol moss sain blong Alzheimer's we i kamap fastaem hemi trabol blong rimemba ol niu samting we man i jes lanem. Ol sog, ol tok mo laef blong ol de long planti yia bifo, ofen hemi isi moa.
+2. **Oltaem givim ol jois.** Jusum rait ansa long tri o tu hemi isi moa, bitim taem man i mas talem ansa long nating.
+3. **Ridim ol kwestin long vois mo soem olgeta long bigfala raet.** Wan waetbod o wan tablet we yu holem antap i halpem ol man we oli harem smol.
+4. **Givim ansa long fri we.** Sipos nating man i save, talem long gud fasin mo go long nekis. Nating talem "Kam nao, yu save long hemia."
+5. **Nogat score.** Nogat blong ol individual mo nogat blong ol tebol. Sipos ol man oli wantem wan namba, kipim wan grup totol nomo.
+6. **Nating kolem wan man nomo.** Letem ansa i kam long eni man. Long wan-long-wan, ansarem tugeta: "Mi tingting hemi piano. Yu tingting wanem?"
+7. **Yusum toktok.** Ansa hemi stat nomo, i no finis. Ol stori hemi gol we i tru.
+8. **Kipim i sot.** Ten kwestin wetem ol stori long midol i inaf ol.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i talem rul we i stap long hart long wan isi fasin: wajem sapos man i kros o i fil hard, mo mekem sua se man i fil se i winim samting. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i putum trivia i stap long ol akti blong stej we i stat. Long midol stej, kipim tu ansa nomo mo go wetem ol toktok blong stat. Afta, jenisim i go long ol kwesten "dis o dat" we i stap bihaen.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i talem rul we i main long isi fasin: lukaotem sipos man i kam frustret, mo mekem sua se man i filim se hem i wok gud. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i putum kwis long ol aktiviti blong erli stej. Long midol stej, kipim tu jois mo sapotem long ol toktok. Bihaen, jenisim i go long ol kwestin "dis o dat" we i stap long bilo.
 
-## Trivia long miusik mo entatenmen
+## Trivia long musik mo entatenmen
 
-Ansa i stap long **bold**. Mekem ol kwesten ya i fit long man: wan man we i bin graon wetem Motown bai i wantem ol narafala singa from wan man we i bin graon wetem big band.
+Ansa i stap long **bold**. Mekem ol kwestin ya i stret long man: wan we i bin grow wetem Motown bambae i wantem ol narafala singa from wan we i bin grow wetem big band.
 
-| Kwesten | Ol ansa | Samting blong toktok |
+| Kwestin | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| Hu i bin kolem King blong Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Yu bin lukim Elvis long TV nating? |
-| Wanem singa i bin kolem Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Wanem Sinatra song we yu laekem moa? |
-| Bing Crosby i bin drimim wan waet... | **Krismas**, weding, haos | Singim wan lain tugeta |
-| Louis Armstrong i singim "What a Wonderful..." | De, **Wol**, Laef | Wanem i mekem wol i gud long yu? |
-| "Over the Rainbow" i bin singaot long Judy Garland long wanem muvi? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Yu bin lukim ol muvi we yu laekem long hae nao? |
-| Hu i bin pleim Lucy long "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Wanem ol sou we famili blong yu i bin lukluk tugeta? |
-| Wanem kaobe i bin raed long hos we i nem Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Yu bin pleim olsem kaobe taem yu smol? |
-| Hu i bin holem "The Tonight Show" long 30 yia? | Ed Sullivan, **Johnny Carson**, Bob Hope | Yu bin stap leit blong lukim TV? |
-| Wanem miusik instrument i gat 88 ki? | Gita, **piano**, trampet | Eni famili blong yu i bin plei? |
-| Wanem dans i kaontem wan-tu-tri, wan-tu-tri? | **Waltz**, twist, tango | Yu bin go danis long we? |
+| Hu i bin kolem King blong Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Yu bin lukim Elvis long TV nogat? |
+| Wanem singa i bin kolem Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Wanem song blong Sinatra we yu laekem moa? |
+| Bing Crosby i dreamem wan waet... | **Krismas**, mared, haos | Singim wan lain tugeta |
+| Louis Armstrong i singim "What a Wonderful..." | Dei, **Wol**, Laef | Wanem i mekem wol i wanderful long yu? |
+| "Over the Rainbow" i bin singim long Judy Garland long wanem muvi? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Weja nao yu bin lukim ol muvi we yu laekem? |
+| Hu i stap olsem Lucy long "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Wanem ol sou we famili blong yu i bin lukim tugeta? |
+| Wanem kaobwoi i bin raed hos we i naem Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Yu bin pleim ol kaobwoi taem yu smol nogat? |
+| Hu i bin hostem "The Tonight Show" long 30 yia? | Ed Sullivan, **Johnny Carson**, Bob Hope | Yu bin slip let blong lukim TV nogat? |
+| Wanem instrumen i gat 88 ki? | Gita, **piano**, trumpet | Wan long famili blong yu i bin pleim nogat? |
+| Wanem dans i kaonted wan-tu-tri, wan-tu-tri? | **Waltz**, twist, tango | Weja nao yu bin go dens? |
 
-Blong moa long miusik, lukluk long [music activities for dementia](/activities/music/).
+Sipos yu wantem moa long musik, lukim [aktiviti blong musik long dementia](/activities/music/).
 
-## Trivia long ol everi de laef
+## Trivia long laef blong ol de
 
-| Kwesten | Ol ansa | Samting blong toktok |
+| Kwestin | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| Bifo ol refrijerator, planti haos i stap kipim kaikai i kol long wan... | **Aes bokis**, oven, banis | Hu i bin karem aes i kam? |
-| Hu i bin karem milk i kam long dua long ol glas bottol? | Postman, **milkman**, pepa boe | Wanem narafala samting i bin kam long haos? |
-| Yu bin dialem wan rotary fon hao? | Pressim ol bakis, **tanem wan wil**, toktok long hem | Talem mi long fon long haos blong yu |
-| Wanem kampani i bin mekem Model T kar? | **Ford**, Chevrolet, Buick | Talem mi long wan kar we yu laekem |
-| Wea nao yu save faenem wan soda jerk? | **Wan soda fountain**, wan bekeri, wan bank | Wanem yu bin ordarem long kaonta? |
-| Wanem toi i wan metal sprig we i save wokabaot i go daon long stiros? | Yo-yo, **Slinky**, hula hup | Wanem ol toi we yu bin laekem? |
-| Wan drive-in i bin ples blong lukim... | **Ol muvi from ol kar blong yu**, ol bol gem, ol parat | Hu i bin go wetem yu? |
-| Whose fes i stap long wan-dala bil? | Lincoln, **George Washington**, Jefferson | Wanem i bin save baem long wan dala long taem ya? |
-| Whose fes i stap long penny? | **Abraham Lincoln**, Washington, Franklin | Yu bin seivem ol penny long wan jar long taem ya? |
-| Wanem kala i komon blong wan skul bas? | Red, **yelo**, blu | Hao nao yu bin go long skul? |
+| Bifo ol refrijerator, ol haos i kipim kakae kol long wan... | **Ais bokis**, ovens, atik | Hu i bin karem ais i kam? |
+| Hu i karem milk i kam long doa long ol glas botol? | Postman, **man blong milk**, boy blong niuspepa | Wanem narafala samting i bin kam long haos? |
+| Yu bin dialem rotary telefon olsem wanem? | Presem ol batin, **wilim wan wil**, toktok long hem | Tellem mi long telefon long haos blong yu |
+| Wanem kampani i bin mekem kar Model T? | **Ford**, Chevrolet, Buick | Tellem mi long wan kar we yu bin laekem |
+| Weja nao yu bin faenem wan soda jerk? | **Wan soda fawntin**, wan bekeri, wan bank | Wanem yu bin oda long kaonta? |
+| Wanem toy i wan metal spring we i save wakabaot daon long stiers? | Yo-yo, **Slinky**, hula hoop | Wanem toy yu bin laekem? |
+| Wan drive-in i wan ples blong lukim... | **Muvi long kar blong yu**, ol bol gem, ol paredi | Hu nao yu bin go wetem? |
+| Hu i stap long wan-dala bil? | Lincoln, **George Washington**, Jefferson | Wanem i bin save baem long wan dala long taem ya? |
+| Hu i stap long penny? | **Abraham Lincoln**, Washington, Franklin | Yu bin seivim penny long wan bokis long taem ya? |
+| Wan skul bas usually i wanem kala? | Red, **yelo**, blu | Yu bin go long skul hao? |
 
-## Holiday, nature mo ples
+## Holide, nesa mo ples
 
-| Kwesten | Ol ansa | Samting blong toktok |
+| Kwestin | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| Wanem holiday i stap long foth Tosde long Novemba? | Labor Day, **Thanksgiving**, Memorial Day | Wanem i bin stap oltaem long tebol blong yu? |
-| Jack-o'-lanterns oli mekem blong wanem holiday? | **Halloween**, Ista, Krismas | Talem mi long Halloween long ples we yu bin kamap |
-| Fourth of July i selebretem Declaration blong... | Rights, **Independence**, Freedom | Yu bin lukim faea wok we wea? |
-| Mother's Day i stap long wanem manis? | April, **Mei**, June | Famili blong yu i bin selebretem olsem wanem? |
-| Hamas stua i stap long American flag? | 48, **50**, 52 | Flag i bin gat 48 stua kasem 1959. Eni ansa i gud long memori |
-| Wanem solwota i stap long East Coast? | Pacific, **Atlantic**, Arctic | Yu bin go long bij nating? |
-| Wea nao Statue of Liberty i stap? | Boston, **New York**, Philadelphia | Yu bin go long New York nating? |
-| Wanem i mekem hani? | Milk, **hani**, silk | Hani long tos o long te? |
-| Wan smol kao i kolem... | Foal, **kaf**, kid | Yu bin laef klosap long wan gaden nating? |
-| Wanem tol yelo flaoa i fames long tanem i kasem san? | Rose, **sunflower**, tulip | Wanem i bin kamap long gaden blong yu? |
-| Hamas dei i stap long wan leap yia? | 365, **366**, 360 | Talem mi long wan betde we yu rimemba |
-| Wanem sisen i kam afta long winta? | Fol, **sping**, samA | Wanem sisen yu laekem moa? |
+| Wanem holide i stap long fot Tosde long Novemba? | Labor Day, **Thanksgiving**, Memorial Day | Wanem i alwe stap long tebol blong yu? |
+| Jack-o'-lanterns i mekem long wanem holide? | **Halloween**, Easter, Krismas | Tellem mi long Halloween long ples we yu bin kamap long hem |
+| Fourth of July i selebretem Declaration blong... | Raet, **Independence**, Fridom | Weja nao yu bin lukim faiwok? |
+| Mothers Day i stap long wanem mun? | Epril, **Mei**, Jun | Famili blong yu i bin selebretem olsem wanem? |
+| Hamas stoa i stap long Ameriken flag? | 48, **50**, 52 | Flag i bin gat 48 stoa go kasem 1959. Eni ansa i wan gud memori |
+| Wanem sie i stap long East Coast? | Pasifik, **Atlantik**, Arctic | Yu bin go long bij nogat? |
+| Statue of Liberty i stap long wanem taon? | Boston, **New York**, Philadelphia | Yu bin go long New York nogat? |
+| Wanem i mekem ol bi? | Milk, **hani**, silk | Hani long toas o long te? |
+| Wan smol kaow i kolem wan... | Foal, **kalf**, kid | Yu bin stap klosap long wan fam nogat? |
+| Wanem tol yelo flaoa we i famous blong turnem i kam long san? | Rose, **sanflaoa**, tulip | Wanem i bin grow long garden blong yu? |
+| Hamas de i stap long wan liep yia? | 365, **366**, 360 | Tellem mi long wan birtde we yu rimemba |
+| Wanem seson i kam bihaen winta? | Fol, **Spring**, Sama | Wanem seson yu laekem moa? |
 
-## Kaikai mo sport trivia
+## Kakae mo spoat trivia
 
-| Kwesten | Ol ansa | Samting blong toktok |
+| Kwestin | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| Raisin i draede... | Plam, **grep**, jeri | Yu bin pakem raisin long lan bokis nating? |
-| Prune i draede... | **Plam**, fig, aple | Hu long famili blong yu i bin laekem prune? |
-| Peanut bata mo... | **Jelly**, sisi, ham | Kraf o smut? |
-| Guacamole i mekem moastaem long... | Pis, **avokado**, kukumba | Wanem dip oli bin kam long ol pati? |
-| Wanem pae i wan Thanksgiving fevret? | **Pumpkin**, lemon, jeri | Wanem pae yu bin mekem? |
-| Hamas plea i stap long wan baseball tim long fil? | 7, **9**, 11 | Wanem tim yu bin sapotem? |
-| Hamas strik i mekem wan out long baseball? | Tu, **tri**, fo | Yu bin pleim bol nating? |
-| Babe Ruth i bin famos long wanem sport? | Boxing, **baseball**, golf | Yu bin go lukim bol gem? |
-| Hamas hol i stap long wan standad golf kos? | 9, **18**, 24 | Yu bin pleim golf, o mini golf nating? |
-| Long wanem sport yu save skoa wan touchdown? | **Football**, hockey, basketball | Hu i bin lukim football long haos blong yu? |
+| Raisins i ol dreiden... | Plam, **grep**, cheri | Yu bin pakem raisins long lanch nogat? |
+| Prunes i ol dreiden... | **Plam**, fig, apol | Hu long famili blong yu i laekem prunes? |
+| Pinat bata mo... | **Jem**, jiis, ham | Crunchy o smooth? |
+| Guacamole i mekem moa long... | Pi, **avokado**, kukumba | Wanem dip i bin kam aot long ol pati? |
+| Wanem paei i famous long Thanksgiving? | **Pampkin**, lemon, cheri | Wanem paei yu bin mekem? |
+| Hamas pleya i stap long fild long wan baseball tim? | 7, **9**, 11 | Wanem tim yu bin sapotem? |
+| Hamas strike i mekem wan aut long baseball? | Tu, **tri**, fo | Yu bin pleim bol nogat? |
+| Babe Ruth i famous long wanem spoat? | Boksing, **baseball**, golf | Yu bin go lukim ol bol gem? |
+| Hamas hol i stap long wan standad golf kos? | 9, **18**, 24 | Yu bin pleim golf, o mini golf? |
+| Long wanem spoat yu save mekem wan touchdown? | **Football**, hockey, basketball | Hu i bin lukim football long haos blong yu? |
 
-## Ol toktok we oli komon
+## Ol tok we oli save yusum
 
-Finisim wan toktok i yusum langwis we oli lanem long taem bifo mo i save isi nomo. Gem blong mifala [Finish the saying](/games/finish-the-saying/) i gat planti moa, wetem wan tap blong soem eni endidin.
+Finisim wan tok i tekem langwis we oli lanem longtaem bifo, mo ofen hemi isi nomo. Gem [Finisim tok](/games/finish-the-saying/) blong mifala i gat planti moa, wetem wan tap blong soem eni fining.
 
-| Toktok | Ol ansa | Samting blong toktok |
+| Tok | Ol jois | Toktok long hem |
 | --- | --- | --- |
-| Wan aple long ol de i stopem... | **Doktaa i go**, ren i go, kat i go | Hu i bin talem olsem long yu? |
-| Early bird i kasem... | Bas, **vom**, trein | Yu wan man blong moning nating? |
-| No kaontem ol sikin blong yu before oli... | **Hasem**, slip, singsing | Famili blong yu i bin kipim sikin nating? |
-| Wan penni we yu seivem i wan penni we... | **Yu wok blong hem**, i lus, i spend | Hu i bin olsem man we i save long famili blong yu? |
-| Hom i wea... | Gaden i stap, **hat i stap**, kitjen i stap | Wanem i mekem wan ples i fil olsem hom? |
-| Late i sem betta than... | Erly, **nevva**, sori | Hu i bin olwe late? |
-| Evri klaod i gat wan silva... | **Laeningi**, spun, kointen | Talem mi long wan lak we yu bin kasem |
-| Wok we yu mekem i moa strong than... | **Tok**, miusik, skai taoa | Talem mi long wan man we i bin talem olsem |
+| Wan apol long wan dei i stopem... | **dokta**, ren, kat | Hu nao i bin talem yu long hem? |
+| Brid we i kirap erli i kasem... | Bas, **vom**, tren | Yu man we i kirap erli nogat? |
+| Yu no kaontem ol hen blong yu bifo oli... | **hatj**, slip, singsing | Famili blong yu i bin gat ol hen nogat? |
+| Penny we yu seivim i wan penny we yu... | **wokem**, lusum, spendem | Hu nao i bin seivim long famili blong yu? |
+| Hom i ples we... | Gaden i, **hat i**, kisin i | Wanem i mekem wan ples i filim olsem hom? |
+| I stret se late, bitim... | Erli, **nevva**, sori | Hu nao i olwe late? |
+| Evri klaod i gat wan silva... | **laen**, spun, koin | Talem mi long wan lak we yu bin gat. |
+| Wok i toktok moa long... | **tok**, musik, fanda | Talem mi long wan man we i bin talem olsem. |
 
-## Kwesten "dis o dat" we nating rong ansa i stap
+## Kwestin "dis o dat" we nogat rong ansa
 
-Ol ya i fit long evri stej, inkludim ol las stej, from we nating rong samting i stap. Askem, harem, mo sea nao ansa blong yu tu.
+Oli fit long evri stej, inklud long ol laet stej, from we nogat wan samting we yu mas kisim rait. Askem, harem, mo sherem ansa blong yu tu.
 
 - Kofi o te?
-- Biij o ol maontin?
+- Bij o ol maon?
 - Dog o kat?
-- SamA o winta?
+- Samra o winta?
 - Pae o keik?
-- Danis o lukim?
-- San kam aot o san go daon?
-- Front poj o bak yad?
-- Redio o rekot?
-- Pankek o egs?
-- Roses o daisis?
-- Trein trip o rod trip?
+- Dens o lukim?
+- Sanraes o sanset?
+- Front porch o back yard?
+- Radio o rekods?
+- Pankek o eg?
+- Rosa o daisi?
+- Trip long trein o trip long rod?
 
-Blong ol toktok we i go wetem ol pikja, traem [Conversation cards](/games/conversation-cards/) we yu save prin.
+Long ol toktok we i kam wetem ol pikja, traem [Ol kad blong toktok](/games/conversation-cards/) we yu save printim.
 
-## Hao blong ranem wan trivia sesen long care home o grup?
+## Hao blong ranem wan sesen kwis long wan hom blong kea o long grup?
 
-1. **Sidaon ol man blong oli save lukim mo harem.** Hia aed i stap, aes i stap, TV i ofsof.
-2. **Introdiusim olsem wan toktok.** "Mi gat sam kwesten long ol olfala taem, mo mi biliv yufala i save moa long mi."
-3. **Ridim wan kwesten tu taem mo soem ol ansa long bigfala fom.**
-4. **Welkamem ansa long eni ples long rum.** Ripitim ol gud ansa blong olgeta i harem.
-5. **Talem ansa blong olgeta,** afta askem ol toktok blong stat long rum.
-6. **Folem wanem i kamap.** Sapos wan kwesten i stat ten minits blong ol stori, letem hem i go.
-7. **Finisim wetem wan song o wan "dis o dat" raon,** blong olgeta i finis long wan isi samting.
+1. **Setem ol man blong oli save luk mo harem.** Ol hiring-eid i stap long ia, ol glas i stap long ai, TV i ofem.
+2. **Introdiusim i olsem wan toktok.** "Mi gat sam kwestin long ol bifo dei, mi biliv yu save moa long mi."
+3. **Ridim ol kwestin tu taem, mo soem ol jois long bigfala raet.**
+4. **Welkamem ansa long eni ples long rum.** Ripitim ol gud ansa blong evriwan i harem.
+5. **Talemaot ansa long evriwan,** bihaen askem toktok long rum.
+6. **Folem energi.** Sipos wan kwestin i stat ten minis blong ol stori, letem i go.
+7. **Finisim wetem wan singsing o wan raon blong dis o dat,** blong evriwan i finisim long wan samting isi.
 
-Blong ol narafala fasin long grup, inkludim picture bingo mo sing-along, lukluk long [group activities for care homes](/activities/care-home-groups/).
+Sipos yu wantem ol narafala fasin blong grup, inklud pikja bingo mo singsing, lukim [ol grup aktiviti long ol hom blong kea](/activities/care-home-groups/).
 
 ## Taem blong jenisim plan
 
-Sapos wan man i lukluk i wari, i stap kwaet o i talem "mi no save" moa wan taem, mekem i isi moa: tekem tu ansa nomo, ansarem tugeta, o jenisim i go long ol kwesten "dis o dat". Sapos grup i wantem toktok long wan kwesten long afternun, i wan gud rizalt. Ating blong trivia i nating blong ol rait ansa. Hem i blong taem blong stap long ol gud man.
+Sipos wan man i luk i worri, i kam kwaet, o i talem "Mi no save" moa wan taem, mekem i isi moa: kasem tu jois nomo, ansarem tugeta, o jenisim i go long kwestin dis o dat. Sipos grup i wantem toktok long wan kwestin olsem long aftenun, hemia i wan sakses. Taget i nating blong ol ansa we oli stret. Taget i blong taem long gudfala kampani.

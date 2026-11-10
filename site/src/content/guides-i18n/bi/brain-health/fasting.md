@@ -1,33 +1,33 @@
 ---
-title: "Intermittent fasting mo dementia: Wanem ol risej i talem"
-seoTitle: "Intermittent fasting mo dementia: Wanem risej i talem"
-description: "Pruf long intermittent fasting mo dementia i no plenti. Lanem ol risk long ol olfala, mo wae kakae mo dring i moa important long ol persin we oli gat dementia."
+title: "Intermittent Fasting mo Dimensia: Wanem Riset i Talem"
+seoTitle: "Intermittent Fasting mo Dimensia: Wanem Riset i Talem"
+description: "Evidens long intermittent fasting mo dimensia i no plen mo i stap yet. Lanem ol risk long ol olfala mo wae kaikai mo dring i impoten moa long dimensia."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  I no gat gud pruf se intermittent fasting i save stopem o slowem dementia.
-  Plenti risej i stap long ol animol, mo ol stadi long ol olfala long ol man mo
-  woman i smol mo i short. Fasting i ken i danis long ol olfala: lus long wet
-  mo muskol, sugar long blud i go daon tumas wetem sam medisin blong sugar,
-  drae, mo foldaon. Long ol persin we oli gat dementia, kakae mo dring i enaf i
-  usually i moa bigfala wari. Toktok wetem dokta fastaem.
+  I nating gud evidens we intermittent fasting i save stopem o slowem dimensia.
+  Plen long ol risej i long ol enimol, mo ol stadi long ol olfala long ol man i
+  smol mo i short. Fasting i save kasem risk long ol olfala: lus long wet mo
+  long muskol, blad sugar i godaon taem oli tekem sam medisin blong sugar,
+  dehydresen mo fal. Long ol man we oli stap laef wetem dimensia, kaikai mo dring
+  we i enaf i usually i moa impoten. Toktok wetem dokta fastaem.
 keyPoints:
-  - "Nasonal Institute on Aging i talem se i no gat pruf i enaf blong ritim ani fasting o kalori-restriction diet, espesol long ol olfala."
-  - "Plenti risej long fasting mo ageing i kam long ol animol, mo ol rizalt ia i no nesesari i stret long ol man mo woman."
-  - "Ol posibol risk long ol olfala i gat lus long wet we oli no plan, lus long muskol, sugar long blud i go daon tumas wetem sam medisin blong sugar, drae, dizzines mo foldaon."
-  - "Ol persin we oli gat dementia oli oltaem fogetem blong kakae o dring, o oli tingting se oli kakae finis. Haoem oli kakae mo dring i enaf i moa important bigwan taem we oli kakae."
-  - "No yusum fasting long persin we i gat dementia. Toktok wetem dokta o wan spesialis long kakae bifo yu jenisim ani fasin blong kakae."
+  - "Nasonal Institute on Aging i talem se i nogat enaf evidens blong sajestem enifala fasting o kalori-restriction diet, espesal long ol olfala."
+  - "Plen long riset long fasting mo jif i kam long ol enimol, mo ol resalt ya i no nesesari i save aplae long ol man."
+  - "Ol posibol risk long ol olfala i inkludem lus long wet we i no plan, lus long muskol, blad sugar i godaon wetem sam medisin blong sugar, dehydresen, hed i swim mo fal."
+  - "Ol man we oli stap laef wetem dimensia oli oftaen fogetem blong kaikai o dring, o oli tingting se oli finis kaikai ona. Helpem olgeta blong kaikai mo dring i enaf i usually i moa impoten winim taem we oli kaikai."
+  - "No yusum fasting long man we i stap laef wetem dimensia. Toktok wetem dokta o registered dietitian fastaem sipos yu wantem jenisim eni fasin blong kaikai."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "I no gat gud pruf se i save. Plenti risej i stap long ol animol, mo ol tes long ol man mo woman i stap sot taem nomo, oli stap long ol yangfala o ol fat tumas, mo oli fokas long lus long wet. Nasonal Institute on Aging i talem se i no gat pruf i enaf blong ritim ol fasting diet long ol pablik."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "Maet i no sef. Fasting i ken i mekem lus long wet mo muskol we oli no plan, drae, dizzines mo foldaon, mo i ken mekem sugar long blud i go daon tumas long ol persin we oli yusum insulin o sam narafala medisin blong sugar. Mayo Clinic i talem se i mey i no gud long ol persin we oli gat bigfala risk blong lus long bon mo foldaon. Toktok wetem dokta bifo yu traem."
-  - q: "Should someone with dementia try fasting?"
-    a: "Nogat. Ol persin we oli gat dementia oli oltaem gat hard long kakae mo dring i enaf, mo kakae we i no gud i ken mekem ol janis long fasin i bigwan mo i mekem lus long wet. Fasting i karem risk i moa, mo i no gat pruf we i gud. Fokas long ol kakae we i stret, ol snak we oni laekem, mo dring i enaf."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Lukaot long lus long wet, klos we i lous moa, i tair, i wik, bel i hard (constipation), o i refusem kakae. Ol sain blong drae we National Institute on Aging i lisim i inkludim drae maot, dizzines, hat we i fas, mo ol lukluk long samting we i no stap. Talem dokta blong hem sapos yu lukim ol samting ia."
+  - q: "Eia intermittent fasting i save stopem Alzheimer's?"
+    a: "I nogat gud evidens we i save. Plen long riset i long ol enimol, ol stadi long ol man i yangfala o i fat, mo i short, mo i fokus long lus long wet. Nasonal Institute on Aging i talem se i nogat enaf evidens blong rekomendem fasting diet long ol man."
+  - q: "Eia intermittent fasting i sef blong ol olfala?"
+    a: "Maet i no sef. Fasting i save lidim long lus long wet mo muskol we i no plan, dehydresen, hed i swim mo fal, mo i save kasem blad sugar i godaon tumas long ol man we oli tekem insulin o sam narafala medisin blong sugar. Mayo Clinic i talem se maet i no gud long ol man we oli gat big risk blong lus long bon mo fal. Toktok wetem dokta fastaem."
+  - q: "Eia man we i gat dimensia i sud traem fasting?"
+    a: "Nogat. Ol man we oli stap laef wetem dimensia oftaen oli kasem hadtaem blong kaikai mo dring i enaf, mo nogud kaikai i save insrisim ol fasin blong bihevia mo kasem lus long wet. Fasting i ademem risk tumas we nogat pruf blong gud we i kamaot long hem. Fokus i stap long ol regula kaikai, ol snak we olgeta i laekem mo dring i enaf."
+  - q: "Wanem ol saen we i talem se man we i gat dimensia i no kaikai o dring i enaf?"
+    a: "Lukaotem lus long wet, klos we i kam lus, i tired, i wik, konstipesen, o oli no wantem kaikai. Ol saen blong dehydresen we Nasonal Institute on Aging i listem i inkludem draemaot long maot, hed i swim, hart i bitim kwik, mo ol hallucinasen. Talem dokta blong hem sipos yu luk ol saen ya."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,70 +55,71 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, olsem kakae nomo long wan taem long eit aoa, o kasem daon tumas long kalori tu dei long wik, i kasem plenti tingting, mo sam atikol i talem se i save protectem bren. Sapos yu wan olfala, o yu lukaotem wan persin we i gat dementia, dae nao i stret blong lukim wanem risej i soem, mo wae i nid blong kea.
+Intermittent fasting, olsem kaikai nomo insaed long eit aoa long wan de, o smolem kalori tumas long tu dei long wik, i gat bigfala toktok, mo sam article i talem se i save protectem brain. Sipos yu wan olfala, o yu lukaftarem wan man we i stap laef wetem dimensia, hemia i wanem riset i talem tru, mo wae i impoten blong stap sef.
 
-Hemia i jenerol infomesen nomo, i no medikol advaes. Yu no gat fasting, o jenisim fasin blong kakae blong persin we yu lukaotem, sapos yu no toktok fastaem wetem dokta o wan spesialis long kakae. Luk tu long [disklemer blong medikol](/medical-disclaimer/).
+Hemia i jeneral infomesen, i no medikol adves. No stat fasting, o no jenisim wanem fasin blong kaikai blong man we yu lukaftarem, withaut toktok wetem dokta o registered dietitian. Lukim [noti blong medikol](/medical-disclaimer/).
 
-## Eniwe intermittent fasting i save stopem dementia?
+## Eia intermittent fasting i save stopem dimensia?
 
-I no gat gud pruf se intermittent fasting i save stopem o slowem dementia. Nasonal Institute on Aging (NIA) i talem se i no gat pruf i enaf blong ritim ani kaen calorie-restriction o fasting diet, mo plante moa i nid blong lanem long wanem i wok mo i sef, espesol long ol olfala ([NIA long calorie restriction mo fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+I nogat gud evidens we intermittent fasting i save stopem o slowem dimensia. Nasonal Institute on Aging (NIA) i talem se i nogat enaf evidens blong rekomendem enikaen kalori-restriction o fasting diet, mo se i gat plante moa we i nidim blong lanem long wok blong hem mo long sefti, espesal long ol olfala ([NIA long calorie restriction mo fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Wae pruf i no plenti
+### Wanem evidens i no plen tumas
 
 NIA i givim sam risen:
 
-- **Plenti stadi i stap long ol animol.** Ol risej long ol vom, ol fly, ol mausi mo ol monkey i soem sam intristing rizalt, be ol rizalt ia i no nesesari i stret long ol man mo woman. Even long ol animol, ol rizalt i no seem; long sam kaen mausi, kalori restriction i mekem laef i sot.
-- **Ol tes long man mo woman i short.** Plenti long olgeta i laes nomo sam wik o sam manis.
-- **Plenti tes long man mo woman i fokas long lus long wet** long ol man mo woman we i fat tumas, i no fokas long memori o dementia.
-- **Ol olfala oli no kasem long ol tes.** Plenti tes i kasem nomo ol persin we oli 60 yia o smol.
+- **Plen stadi i long ol enimol.** Riset long ol vom, ol fly, ol maos mo ol monki i givim ol intres resalt, be ol faending ia i no nesesari i save aplae long ol man. Even long ol enimol, ol resalt i mikis; long sam strein blong maos, kalori restriction i mekem laef i sot.
+- **Ol stadi long ol man i short.** Plen long olgeta i lastem sam wiks o mans.
+- **Plen stadi long ol man i fokus long lus long wet** long ol man we oli fat, nao i nogat long memori o dimensia.
+- **Ol olfala oli no oftaen kasem insaed.** Plen stadi i tekem ol man we oli 60 yia o i yangfala.
 
-Wan systematic review long 2026 i lukluk spesel long intermittent fasting long ol man mo woman we oli 60 yia o moa. I faenem se pruf long grup ia i stap smol nomo, wetem ol smol stadi, sot follow-up mo ol defren desen. Ol faending long tingting mo memori i kam long ol individual stadi, no long wan bigfala tes. Review ia i talem tu se sam stadi i linkem ol smol kakae windo o ol longfala fasting wetem ol nogud resalt, mo ol man we oli raetem i talem se olfala oli mas kea ([review long 2026 long Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Wan systematic review long 2026 i lukluk spesifik long intermittent fasting long ol man we oli 60 yia o i moa. I faenem se evidens long grup ya i stap i no plen, wetem ol smol stadi, short taem blong folo-ap, mo ol disaen we oli mikis. Ol faending long tingting mo memori i kam long ol indivitwal stadi, nogat long ol kombin tes resalt. Review ya i talem tu se sam stadi i linkem ol veri sot taem blong kaikai o ol longfala fasting wetem ol nogud resalt, mo ol man we oli raetem i askem ol olfala blong stap kea ([2026 review long Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Sam risej i tingting se taem bodi i jenisim fat blong save long taem blong fasting i ken i afektem brein, be hemia i stap nomo wan tiori we oli stadi yet. NIA i talem se saens i no sua yet.
+Sam riseja i tingting se taem bodi i jenisim blong bonem fat long taem blong fasting i save afektem brain, be hemia i stap wan tiori we oli stap stadi yet. NIA i talem se saens ya i no sua yet.
 
 ## Wanem ol risk blong fasting long ol olfala?
 
-Fasting i no wan seif eksperimen long plenti olfala. Ol posibol risk i inkludim:
+Fasting i no wan sef eksperimen long plenti ol olfala. Ol posibol risk i inkludem:
 
-- **Lus long wet we oli no plan.** Kakae i no enaf long wanem bodi i nidim i ken mekem lus long wet mo muskol i wik, mo persin i ken i wik moa.
-- **Lus long muskol mo bon.** Long wan tu-yia tes we NIA i sapotem, long ol yangfala mo ol man mo woman we oli midol eis, ol man mo woman i lus smol long bon denses mo lean bodi mas.
-- **Sugar long blud i go daon tumas wetem medisin blong sugar.** Ol persin we oli yusum insulin o sam narafala medisin blong sugar oli ken i gat sugar long blud i go daon tumas sapos oli skipem o slowem kakae, olsem ol talem long [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Sugar i go daon i ken mekem dizzines, konfiusen mo kros.
-- **Drae.** Sapos oli skipem dring wetem kakae, persin i ken i drae.
-- **Dizzines mo foldaon.** Mayo Clinic i talem se intermittent fasting i ken mekem ol persin i tair tumas mo i dizzi, mo i no wan gud fasin long ol persin we oli gat bigfala risk blong lus long bon mo foldaon ([Mayo Clinic long intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Ol narafala efek.** Mayo Clinic i listimap tu hed-hed, janis long fil mo hard long bel, mo i talem se sam pruf i soem se 16-aua fasting wetem 8-aua kakae windo i ken i raes risk blong heart disis, komperem long ol narafala kakae windo. Pruf ia i no sua yet.
+- **Lus long wet we i no plan.** Kaikai les winim wanem bodi i nidim i save lidim long lus long wet mo strong long muskol i kam les, mo man i save kam weak moa.
+- **Lus long muskol mo bon.** Long wan tu-yia trel we NIA i sapotem long kalori restriction long ol yangfala mo ol man we oli stap long midel ej, ol man i gat smol fal long bon denseti mo lean bodi mas.
+- **Blad sugar i godaon wetem medisin blong sugar.** Ol man we oli tekem insulin o sam narafala medisin blong sugar, blad sugar blong olgeta i save godaon tumas sipos oli skipem o lusum taem blong kaikai, i olsem wanem [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) i talem. Blad sugar we i godaon i save lidim long hed i swim, konfiuj mo kros.
+- **Dehydresen.** Sipos ol dring tu oli skip wetem ol kaikai, man i save kam dehydreitet.
+- **Hed i swim mo fal.** Mayo Clinic i talem se intermittent fasting i save mekem ol man i fil tired tumas mo hed i swim, mo se maet i no wan gud fasin long ol man we oli gat big risk blong lus long bon mo fal ([Mayo Clinic long intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Narafala ol efek.** Mayo Clinic i lukaotem tu hed-pen, jenis long fil, mo konstipesen, mo i talem se i gat sam pruf se wan 16-awa fast wetem wan 8-awa taem blong kaikai maet i inkrisim risk blong bigfala hat sik, komperem wetem ol narafala taem blong kaikai. Pruf ia i no yet klia.
 
-## Wae kakae i enaf i bigfala wari long dementia?
+## Wanem kaikai i enaf i impoten moa long dimensia?
 
-Long ol persin we oli gat dementia, usually problem i blong **kasem** kakae mo dring i enaf, i no blong kakae tumas. Alzheimer's Association i talem se ol persin long midol mo laste stej oli ken i feel se oli no save long ol jous blong kakae, oli fogetem blong kakae, o oli tingting se oli kakae finis. I talem tu se kakae we i no gud i ken mekem ol janis long fasin i bigwan mo i mekem lus long wet ([Alzheimer's Association long fud mo kakae](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Long ol man we oli stap laef wetem dimensia, prablem we i oftaen i stap hemia i gaten **enaf** kaikai mo dring, i no tumas. Alzheimer's Association i eksplenem se ol man long midel mo leta stej oli save fil overwhelm long ol jois blong kaikai, oli save fogetem blong kaikai, o oli tingting se oli finis kaikai ona. I talem tu se nogud kaikai i save insrisim ol fasin blong bihevia mo kasem lus long wet ([Alzheimer's Association long kaikai](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-Alzheimer's Society i talem se kakae we i no enaf i ken mekem lus long wet, lus long muskol, tair mo wik, mo persin i kam wik moa mo i no save kam bak kwiktaem long sik ([Alzheimer's Society long laef blong kakae](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society i talem se sipos man i no kaikai enaf, i save lidim long lus long wet, les strong long muskol, tired mo wik, mo man i save kam weak moa mo i no strong blong redi gud long ol infeksen ([Alzheimer's Society long aptet](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**Long ol rison ia, fasting i no gud fasin long persin we i gat dementia.** Ol kakae we oli skipem i ken isi i kam ol kakae we oli miss. Eni janis long hao persin we i gat dementia i kakae i mas i kam long dokta blong hem o wan spesialis long kakae.
+**Long ol risen ya, fasting i no wan gud aedia long man we i stap laef wetem dimensia.** Ol kaikai we oli skip i save kwik kam ol kaikai we oli missed. Eni jenis long fasin blong kaikai blong man we i gat dimensia i sud gaed long dokta blong hem o registered dietitian.
 
-## Wanem ol sain blong wan persin we i no kakae o dring i enaf?
+## Wanem ol saen blong warning long kaikai no dring gud?
 
-Lukaot long:
+Lukaotem:
 
-- **Lus long wet**, o klos we i lous moa.
-- **Livim kakae o refusem kakae**, o holem kakae long maot.
-- **Tair o wik.**
-- **Hard long bel (constipation)**, we i ken i gat konek wetem kakae mo drae.
-- **Sain blong drae.** NIA i lisim drae maot, dizzines, hat we i fas, mo ol lukluk long samting we i no stap, we dementia tu i ken i mekem ([NIA long ol komon medikol problem](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Lus long wet**, o klos we i kam lus moa.
+- **Lివ kaikai o no wantem kaikai**, o holem kaikai long maot.
+- **Tired o wik.**
+- **Konstipesen**, we i save i gat konekson wetem kaikai mo dehydresen.
+- **Ol saen blong dehydresen.** NIA i listem draemaot long maot, hed i swim, hart i bitim kwik, mo ol hallucinasen, we dimensia tu i save mekem.
+  ([NIA long ol komon medikol prablem](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Oltaem i gat plante samting we i ken mekem persin i no wantem kakae: tut we i sot o denja we i lous, nu medisin, sik we i stap long hed, hard long bel, i no movum bodi tumas, o janis long tes mo smel. Talem dokta blong persin ia long ol sain ia. Oli save lukluk long wanem i kosem, mo oli save sajestem wan spesialis long kakae o ol sapliment.
+Naf i gat plante kosis blong aptet we i nogud: ol tut we i pein o ol denjaz we i lus, ol niufala medisin, depresen, konstipesen, sam les aktiviti, o jenis long tes mo smel. Talemaot long dokta blong man ol saen ia. Oli save lukim wanem i kosem, mo oli save sajestem dietitian o ol supliment.
 
-## Hao yu save helpem wan persin i kakae mo dring i enaf?
+## Hao yu save helpem wan man blong kaikai mo dring i enaf?
 
-- **Givim smol kakae mo snak plante taem**, i gat moa gud dan tri bigfala kakae.
-- **Serve ol kakae we oli laekem**, mo oli no ken stret long janis long tes we i jenis. Ol switi kakae i ken i gud sapos appetite i no gud; askem dokta sapos i gat helt risen blong limitim sugar.
-- **Putum dring long ples we i kolsap**, mo givim smol kap long wan dei. Sup, fruit, smoothie mo milkshake oli kaontem tu.
-- **Kakae wetem ol narafala sapos yu save.** Taem blong kakae i wan taem blong kompani, no wan wok we yu mas rasim.
-- **Traem ol finga fud**, olsem sanwij, fruit slaes o chicken pisis, sapos ol naef mo fok i hard long ol.
+- **Givim ol smol kaikai mo snak we i oftaen**, i moa gud winim tri bigfala kaikai.
+- **Serve ol kaikai we i gat laek long hem**, mo i bitim long jenis blong tes we i jenis. Ol switi kaikai i save gud sipos aptet i lo; askem dokta sipos i gat sam helt risen blong limitim sugar.
+- **Holem ol dring i stap klostu**, mo givim ol smol kap i stap long dei. Sup, fruit, smudi mo milkseik tu i kaontem.
+- **Kaikai togeta** taem yu save. Ol kaikai i wan janis blong kampani, nating wan wok we yu mas hari long hem.
+- **Traem ol finga kaikai**, olsem sanwij, slaes blong fruit o pis blong jikin, sipos ol kroki i kam hadtaem blong yusum.
 
-[Gaed blong kakae](/brain-health/diet/) blong yumi i gat moa aedia long taem blong kakae. Helpem long redi kakae i ken tu i wan hapi joen akti; luk [ol haos wok](/activities/household-tasks/).
+Our [gaed long kaikai](/brain-health/diet/) i gat moa ideas long taem blong kaikai. Helpem long preparem kaikai tu i save wan kaen sheredi aktiviti we i gat fan; lukim [ol haosvok](/activities/household-tasks/).
 
 ## Toktok wetem dokta
 
-Bifo yu traem eni fasting plan yu wan, toktok wetem dokta blong yu o wan spesialis long kakae, espesol sapos yu yusum medisin blong sugar o blong blad presa, yu lus long wet long sot taem, o yu bin foldaon. Long wan persin we i gat dementia, askem dokta blong hem long hamas hem i mas kakae mo dring long wan dei, i nomo askem long fasting.
+Befo yu traem eni fasting plan, toktok wetem dokta blong yu o registered dietitian, espesal sipos yu tekem medisin blong sugar o blong presa, yu lusim wet long tulas, o yu fol. Long man we i stap laef wetem dimensia, askem dokta blong hem long hao naf hem i sud kaikai mo dring long wan dei, nating askem long fasting.
 
-Go kasem hely long hospitol kwiktaem sapos i gat sudden konfiusen, pelet, o sain blong sugar long blud we i low tumas we i no kam gud kwiktaem.
+Kasem medikol help long hariap sipos i gat sudden konfiuj, i faen, o ol saen blong veri lo blad sugar we i no kam gud kwiktaem.

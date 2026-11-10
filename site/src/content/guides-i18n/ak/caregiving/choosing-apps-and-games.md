@@ -1,31 +1,37 @@
 ---
-title: "Ɔkwan a Wobɛfa So Bɛpaw Dementia Apps ne Agodi"
-seoTitle: "Dementia Apps ne Agodi a Wobɛpaw: Kɔkɔbɔ"
-description: "Akwankyerɛ ma obi a ɔhwɛ obi so pɛ sɛ ɔbɛpaw dementia apps ne agodi: fi wʼanidasoɔ a ɛyɛ hɔ kɔsi, twe timer, scores ne ads ano, hwɛ wʼadeda ho ban, na kenkan nsɛm a ɛka ho ho ahoɔfɛ."
+title: "Sɛnea Wobɛpaw Dementia Apps ne Agodi"
+seoTitle: "Sɛnea Wobɛpaw Dementia Apps ne Agodi: Nhyehyɛe a Wobɛhwɛ"
+description: "Nhyehyɛe ma obi a ɔhwɛ onipa a dementia atwa no: fa wo botae ahyɛ ase, twe ntam, hwɛ nsɛm a ɛfa nhwɛsoɔ ho, na kenkan nsɛm a wɔka wɔ ho ho nsɛm wɔ mmoa ho."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Fi wʼanidasoɔ a ɛyɛ hɔ kɔsi: sɛ app no bɛboa wo ma wo ho bɛsɔre, bɛkɔsesa nkaebɔ ahorow, sɛ wo ho bɛtɔ so, anaa sɛ obi bɛka wo ho. Afei paw biribi a ɛfa obi a woreyɛ ne ho yiye nnɛ abilities no ho, a ɛwɔ akwan kɛseɛ kɛseɛ, a ɛnni timer, scores anaa ads, na ɛwɔ ɔkwan a ɛyɛ mmerɛ a wobɛtwe so. Hwɛ data a ɛboaboa ano ne sɛ wobɛtumi apoo no. Ma wo ho ntɔ nkɔmhyɛ a ɛka sɛ app no bɛtumi abɔ dementia ban anaa ayɛ no yare; nhwehwɛmu biako nyɛ adanse.
+  Fi nea wopɛ sɛ app no yɛ ase: ɛma wo ho yɛ den, ɛkyerɛkyerɛ nkaebɔ, ɛma wo
+  ho yɛ anigye, anaa ɛma wo ne obiara di nkitahodie. Afei yi app a ɛfata onipa
+  no tumi nnɛ, a nkyerɛase kɛse, nkontaabu, anaa ahoɔden biara nni mu, a ne
+  ntwitwa, nkontaabu, anaa nkɔsoɔ nni mu, na ɛma wo kwan a ɛyɛ mmerɛ so a
+  wobɛtumi asiesie. Hwɛ nsɛm a ɛfa nsɛm a app no hyiaa ne sɛnea wobɛtumi apow
+  ho. Monsusu nkɔsoɔ a app bɛkyerɛ sɛ ɛbɔ dementia ban anaa ɛyɛ no ayaresa; baabi
+  a nnipa mmienu no ahwehwɛ no nni nkitahodie nkyerɛ sɛ ɛyɛ nokware.
 keyPoints:
-  - "Di wʼanidasoɔ kan: dwumadie a ɛkora nʼadwene, nkaeɛ a wobɛkɔ so, ahomegyebɔ anaa ka ho bɛhwehwɛ apps a ɛyɛ soronko."
-  - "Hwɛ obi a woreyɛ ne ho yiye abilities ɛnnɛ, na nyɛ ne stage label, na ma nneyɛe ahorow ntɔ ho mu."
-  - "Twe apps a timer, scores, lives, streaks, ads anaa purchase prompts wɔ mu ano."
-  - "Hwɛ data a wɔboaboa, nea wɔde kɔma, ne sɛnea wobɛtumi apoo no. Sɛ wɔka ho asɛm no, HIPAA nkyɛn consumer apps."
-  - "Monnye “prevents dementia” nkɔmhyɛ ho nnyinasosɛm. Sɔhwɛ biako anaa nkɔso wɔ app mu nyɛ adanse."
-  - "Golden Moments yɛ nnwom a ɛyɛ anigye ma ɔkwan a yɛbɛfa so asoma. Yɛnka yare ho nsɛm biara."
+  - "Fa botae no ahyɛ ase: ɛma wo ho yɛ den, nkaebɔ, ahoɔden anaa nkitahodie hia app a ɛyɛ soronko."
+  - "Hwɛ sɛ onipa no tumi yɛ hɔ nnɛ, nnyɛ sɛnea wɔfrɛ ne bɔkyɛ, na ma akwan a wɔde di dwuma nyɛ den."
+  - "Fa app a ɛwɔ bere, nkontaabu, nkwa, nkɔsoɔ, ahoɔden anaa nkɔsoɔ a wɔde ma wo nkyɛ nkɔ mu."
+  - "Hwɛ nsɛm a wɔboaboa, nea wɔde kɔ baabi foforo ne nea wɔbɛtumi apopa. HIPAA rennyina ɔkwan a ɛfiri app a obi tɔ ho pii."
+  - "Monni nsɛm a ɛka sɛ \"ɛbɔ dementia ban\" ho nokware. Nsɔhwɛ bɛyɛ koraa, anaa nkontaabu pa wɔ app no mu, nyɛ nokware."
+  - "Golden Moments yɛ nnwom a wɔyɛ de di anigye; yɛnka ayaresa ho nsɛm biara."
 faq:
-  - q: "Brain games betumi abɔ dementia ban?"
-    a: "Adanse pa biara nni hɔ sɛ commercial brain-game apps bɛtumi abɔ dementia ban anaa ɛbɛyɛ no ntɛm. Amerika National Institute on Aging ka sɛ adanse nni so sɛ commercially available brain-training apps nyinaa yɛ adwuma sɛ training a wɔsesaa wɔ nhwehwɛmu kɛseɛ mu. Fa apps a ɛma wo anigye ne nkɔmbɔ, na nyɛ sɛ ɔyaayaa."
-  - q: "HIPAA kyɛ dementia app ho?"
-    a: "Ɛnyɛ den. HIPAA fa ayaresabea adwumayɛfoɔ, ayaresa boaboa ne wɔn adwumayɛfoɔ ho. App a wo ara wo de bɛto so no, ɛnyɛ den sɛ ɛbɛkɔ so sɛ ɛnyɛ wɔn na wɔde ma. FTC Health Breach Notification Rule kyerɛ apps pii a HIPAA nkyerɛ."
-  - q: "Ɛdeɛn na dementia game a ɛyɛ no hwɛ te sɛ?"
-    a: "Akwan kɛseɛ ne nkyerɛaseɛ a ɛda adi, dwumadie baako a ɛda adi wɔ nkyɛn biara so, timer anaa score nni hɔ, buzzers nni hɔ sɛ wosɛe biribi, ads nni hɔ, na ɔkwan a ɛyɛ mmerɛ sɛ wobɛtwa anaa wobɛgyae. Ɛmfa nhwɛ sɛ wɔayɛ ma adult, na ɛma obiara a ɔbɛka wo ho ahyɛ mu."
+  - q: "Nneɛma a wɔyɛ de di dwuma (brain games) betumi abɔ dementia ban?"
+    a: "Nhwɛso pa biara nni ho sɛ app a wɔtɔ ne nneɛma a wɔyɛ de di dwuma betumi abɔ dementia ban anaa ɛbɛma ɛnyini ntɔ. Amerika National Institute on Aging ka sɛ nsɔhwɛ a ɛterɛ ntɛm nni ho sɛ app a wɔtɔ fa ho no nni nsonsonoe ne nhyehyɛe a wɔsɔɔ hwɛ wɔ nhwehwɛmu kɛse mu. Fa app ma anigye ne nkitahodie, nyɛ ayaresa."
+  - q: "HIPAA (Amerika mmara a ɛfa ahodoɔ ho) betumi ahwɛ app a ɛfa dementia ho?"
+    a: "Ɛdeɛ, ɛnyɛ. HIPAA gyina so ma ayaresabea, ahodoɔ ahodie ne wɔn anuonyam mmoa. App a wo ankasa wo tɔ fi mu no nnyina so sɛ HIPAA bɛhwɛ, gye sɛ ɔhyɛ no nkɔ nnipa a wɔyɛ saa adwuma no. FTC Health Breach Notification Rule hwɛ app ahodoɔ pii a HIPAA nhwɛ."
+  - q: "Dwumadi dementia a ɛyɛ pa bɛyɛ sɛn?"
+    a: "Nkyerɛwde ne nneɛma a wɔhwɛ kɛse ne kɛse, nsɛnkyerɛnne biako a ɛda hɔ wɔ hɔ biara, bere anaa nkontaabu nni mu, mmoa a wɔfrɛ ho nni, ɔkwan biara a wɔde ayɛ ho nni, ne ɔkwan a ɛyɛ mmerɛ so a wobɛtumi aguan anaa asi hɔ. Ɛsɛ sɛ ɛyɛ adult, na onipa foforo nso betumi aka ho ahyia mmerɛ."
   - q: "Golden Moments ka sɛ ɛboa adwene ho?"
-    a: "Daabi. Golden Moments de nneyɛe a yɛyɛ bom ma anigye ne nkɔmmɔ. Ɛnhwehwɛ, ɛnyɛ yare, ɛnnkɔsesa, na ɛnnhwehwɛ dementia. Yɛnka nsɛm biara ho ho ma adwene anaa nkaeɛ."
-  - q: "Ɛsɛ sɛ mete ka dementia app ho?"
-    a: "Hwehwɛ nneɛma a wɔde ma free anaa free trials ansa na woatua ka, na hwɛ sɛnea obi no ne no reyɛ wɔ nnawɔtwe abien mu. Sɛ wotua ka app no, ɛnyɛ sɛ ɛbɛyɛ adwuma yie. Hwɛ sɛnea wobɛtumi aguan ansa na woayɛ subscription."
+    a: "Daabi. Golden Moments de nneɛma a yɛyɛ bom a yɛde di anigye ne nkitahodie ma. Yɛnhwɛ, yɛnsiesie ayaresa, yɛnnkɔ nkɔsoɔ ban anaa yɛnhwɛ dementia, na yɛnka nsɛm biara ho wɔ adwene anaa nkyerɛaseɛ ho."
+  - q: "Ɛsɛ sɛ metua sika ma dementia app?"
+    a: "Di free nneɛma anaa free trial kan, na hwɛ sɛnea onipa no ɔbɔ mmɔden nnanson a ɛbɛyɛ. Sika a wotua ma app no nnyɛ no nea ɛyɛ yiye. Hwɛ sɛnea wobɛtumi atwe ho fi ansa na woasi mu."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -56,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-Apps a wɔde di dwuma wɔ App stores mu ma nnipa a wɔwɔ dementia, anaa a wɔwɔ memory games, pii. Bi yɛ adwuma a wɔayɛ yie. Afoforo ka nsɛm a ɛte sɛ ayaresa ho asɛm, twe timer a ɛma agodi no yɛ sɛ wɔrehwehwɛ wo, anaa ads ne data a wɔboaboa. Saa kratafa yi ma wo akwan a wobɛfa so ahwehwɛ app biara ama wo ara. Yɛnhwehwɛ anaa yɛnkyerɛ nneɛma afoforo ho nkɛntɛnso.
+App stores ma nneɛma a wɔka sɛ ɛma ɛyɛ nkɔso ma nkɔso, adwene anaa dementia. Ebinom yɛ yiye. Ebinom nso de ayaresa nsɛm, bere a ɛma wo ho yɛ den sɛ ɛyɛ sɛ wobɛsɔ hwɛ, anaa ahodoɔ ne nsɛm a wɔboaboa. Saa nkyerɛkyerɛ yi ma wo akwan a wubetumi ahwɛ app biara ho wo ankasa. Yɛnhwɛ anaa yɛnkyerɛ nneɛma foforo ho.
 
-## Dɛn na ɛsɛ sɛ meyi ansa na mapaw dementia app?
+## Dɛn na ɛsɛ sɛ mede ahyɛ ase ansa na mapaw dementia app?
 
-Di wʼanidasoɔ kan wɔ dwumadie a wopɛ sɛ app no yɛ ho. “Agodi ma Maame” betumi akyerɛ nneɛma a ɛyɛ soronko. Nea ɛyɛ papa ma ɔkwan baako no, ɛnyɛ papa ma ɔkwan foforo.
+Fa nea wopɛ sɛ app no yɛ ase. "Agodi ma Maame" betumi akyerɛ nneɛma a ɛyɛ soronko, na botae biako ho app a ɛye no bɛyɛ app a ɛnye ma botae foforo.
 
-| Anidasoɔ | Ɛte sɛ dɛn | Nea wobɛhwehwɛ |
+| Botae | Sɛnea ɛte | Nea ɛsɛ sɛ hwɛ |
 | --- | --- | --- |
-| Nkɔmhyɛ a ɛma adwene ahyɛ mu nyinaa | Matching, sorting, puzzles a ɛyɛ mmerɛ, asɛmfua agodi | Ɔkwan a wobɛtumi asesa ahokyerɛ so, nneɛma a ɛdi adi, amfa bere nni ahohia so |
-| Ɛkaeɛ | Mfonini a ɛyɛ dada, nsɛm a wɔka sɛ ɛyɛ dada, nnwom a wɔtetee wɔ wɔn mmofra bere mu | Wo ankasa mfonini, nsɛm a wɔbɛbue, nnwinnwen a ɛyɛ quiz nni hɔ |
-| Ahomegyebɔ | Mfonini a ɛyɛ mmerɛ, nnwom a ɛyɛ mmerɛ, ahyɛnsɛm, ɔsase | Ɛyɛ mmerɛ sɛ wobɛhyɛ ase anaa wobɛtwa, nneɛma a ɛhyerɛn nni hɔ, nneɛma a ɛbɛma wo ho anhyɛ nni hɔ |
-| Ka ho | Agodi a wo ne obi di anaa wo ne obi ka ho, wɔ mmarima anaa wɔ video mu | Wɔayɛ ma mmarima baanu, nkɔmhyɛ a ɛma wɔka ho asɛm |
+| Ahoɔden a ɛyɛ mmerɛ | Nneɛma a ɛfa ho, ayɛ nneɛma a ɛfa ho, ɛma nhyehyɛe, asɛm agodi | Ɛsɛ sɛ wobetumi asesa ahoɔden, nkyerɛwde nni bere so ntwitwa |
+| Nkaebɔ | Mfonini a ɛyɛ dada, amanneɛ a wɔka, nnwom a ɛfa mmere a wɔyɛɛ ne mmofra mu | Wo ankasa mfonini, nsɛm a wɔbue, nsɛmmisa a ɛyɛ nkɔso nni mu |
+| Nkɔsoɔ | Nneɛma a ɛyɛ ntɛm, nnyinasɛm a ɛyɛ mmerɛ, ahoɔfɛ, nnwom | Ɛsɛ sɛ ɛyɛ ntɛm sɛ wobɛtumi aguan ne asi, nneɛma nni ho a ɛyɛ nyɛ ho |
+| Nkitahodie | Nneɛma a wɔyɛ ne obiara, anaa nneɛma a wɔyɛ wɔ video so | Ɛsɛ sɛ ɛma nnipa mmienu ayɛ, nsɛmmisa a ɛma nkɔmhyɛ |
 
-Adanse a ɛfa “cognitive stimulation” a wɔayɛ ama nnipa a wɔwɔ dementia wɔ nhyehyɛe mu, ɛkyerɛ sɛ ɛwɔ nkɔmbɔ a wɔyɛ wɔ nkɔmbɔ mu, a adwumayɛfoɔ a wɔasua yɛ sɛ wobɛdi nhyehyɛe so. Ɛwɔ nkɔmbɔ, asɛmfua agodi, mfonini, nnwom ne adwuma a ɛyɛ adwene. [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) hunuu sɛ ɛboa kakraa wɔ mmerɛ, nanso ɛbɛyɛ nea ɛsɛ wɔ nhwehwɛmu biara mu. Saa nhyehyɛe a ɛyɛ nkɔmbɔ ne ahodoɔ yi nyɛ ɔkwan koro a wobɛfa so ayɛ adwuma wɔ app mu. Enti, fa app biara sɛ ɔkwan baako a wɔfa so ayɛ adwuma bebree mu.
+Nhwehwɛmu a wɔyɛ wɔ "ahoɔden a ɛyɛ mmerɛ" ho, a ɛfa ahoɔden a wɔyɛ wɔ kuw mu, ka nnipa a wɔyɛ adwuma wɔ hɔ, nsɛmmisa, nnwom, asɛm agodi, nneɛma a wɔyɛ de di dwuma ne nneɛma a wɔyɛ adwene ho. Nhwehwɛmu a ɛyɛ [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) kyerɛɛ sɛ ɛboa kakraa wɔ nnɔnhwerɛ mu, na ɛsesa wɔ nhwehwɛmu biara mu. Saa kwan a ɛfa nnipa ne nneɛma ahodoɔ ho no nyɛ app a obi ankasa de di dwuma. Enti, fa app biara sɛ nneɛma a ɛyɛ bom a yɛde di dwuma wɔ nneɛma pii mu.
 
-## Ɛdeɛn na mahunu sɛ app no yɛ ma obi a woreyɛ ne ho yiye?
+## Ɛdeɛ, sɛnea mehu sɛ app no yɛ onipa no tumi?
 
-Hwɛ sɛnea wɔteɛ, na nyɛ sɛ wobɛfa ɔyareɛ anaa stage label so. Nnipa baanu a ɛyɛ “stage” korɔ mu yɛ nea wɔn ani, wɔn tie, wɔn nsa adwuma, wɔn kasa ne wɔn ahotɔ wɔ screen so yɛ nea ɛyɛ soronko. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ka sɛ ɛsɛ sɛ wukae nea wopɛ pɛn ne abilities a ɛwɔ hɔ seesei, na wodi anigye so sen sɛ wobɛdi nkonimdi.
+Hwɛ sɛnea ɔno ara ne nneɛma a ɔyɛ, na nka ɔyare anaa "stage" a wɔtwɛn ho. Nnipa mmienu a wɔka sɛ wɔwɔ "stage" koro mu betumi ayɛ nneɛma a ɛfa anihye, tie, nsa ahosɛe, kasa ne nsɛnkyerɛnne a wɔde hwɛ ho sɛ nneɛma biara. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ka sɛ hwɛ nneɛma a onipa no duru ani gye ne nneɛma a ɔtumi yɛ nnɛ, na ɛsɛ sɛ wofi anigye so sen sɛ wobɛdi nkonimdi.
 
-Nsɛnkyerɛnne a ɛkyerɛ sɛ ɛfata:
+Nsɛnkyerɛnne a ɛfata:
 
-- wɔhyɛ ase anaa wɔka ho bɛyɛ kakra;
-- wɔseesei anaa wɔka asɛm anaa wɔka abɔ;
-- nneyɛe a wɔyɛ bɛyɛ ayɛ wɔn fɛw;
-- wɔpɛ sɛ wɔgyae bere a ɛba.
+- wɔfi ase anaa wɔka ho ankasa a obi nni ne nkyɛn;
+- wɔseɛ, wɔka biribi anaa wɔka asɛm;
+- mfomso nnyɛ wɔn haw;
+- wɔpɛ sɛ wɔsi hɔ bere a ɛba.
 
-Nsɛnkyerɛnne a ɛkyerɛ sɛ ɛnyɛ yie:
+Nsɛnkyerɛnne a ɛkyerɛ sɛ ɛnfata:
 
-- “Metumi anyɛ” anaa “eyi yɛ nkwaseaa” a wɔka bere pii;
-- obi nnim nea ɛsɛ sɛ wɔtwe;
-- wɔnnu mmerɛ, wɔsuro anaa wɔsisi device no;
-- ɛyɛ adwuma kɛkɛ sɛ woyɛ biribiara ma wɔn.
+- wɔka "mentumi nyɛ" anaa "eyi yɛ atoro" daa daa;
+- ɔnnim nea ɛsɛ sɛ wɔtɔ;
+- wɔyɛ ahohia, sɔre, anaa wɔsisi device no firi wɔn anim;
+- ɛyɛ adwuma kɛse ma wo ara ɛsɛ sɛ wo na woyɛ bebree.
 
-Ɛdi sɛ ahohia yɛ nsɛnkyerɛnne, na ɛnyɛ biribi a ɛsɛ sɛ wɔde ahoɔden tɔ so. Hwɛ [nea wobɛyɛ bere a wɔka “daabi”](/caregiving/when-they-say-no/). Sɛ wopɛ nneyɛe a ɛfa stage so ma app a ɛnyɛ, hwɛ [early-stage](/activities/early-stage/) ne [late-stage](/activities/late-stage/) nneyɛe.
+Ahohia yɛ nkyerɛkyerɛ, ɛnyɛ biribi a ɛsɛ sɛ wotwe so. Hwɛ [nea wobɛyɛ bere a wɔka dabi](/caregiving/when-they-say-no/). Sɛ wopɛ nneɛma a ɛfa stage ho a ɛnyɛ app ho, hwɛ [early-stage](/activities/early-stage/) ne [late-stage](/activities/late-stage/) nneɛma.
 
-## Dɛn na mahwehwɛ anaa mapɛ sɛ mintwe wɔ design mu?
+## Dɛn na ɛsɛ sɛ mehwehwɛ anaa mede gyae wɔ design mu?
 
-Hwehwɛ design a ɛyɛ mmerɛ, ɛyɛ soronko, na ɛyɛ ma adult, na nnɛ biribiara a ɛde ahohia ba.
+Hwɛ design a ɛyɛ dada, ɛyɛ mmerɛ, na ɛfata nnipa a wɔyɛ adult, na gyae nneɛma a ɛde nsɛnkyerɛnne ma wo ho yɛ den.
 
-| Hwehwɛ | Hwɛ yie |
+| Hwɛ | Gyae |
 | --- | --- |
-| Akwan kɛseɛ ne nkyerɛaseɛ kɛseɛ, ɛfiri hɔ a ɛda adi | Nsɛnkyerɛnne suanser, nkyerɛaseɛ a ɛyɛ nketenkete |
-| Dwumadie baako wɔ nkyɛn biara so | Mmotobɔ pii, menus anaa akwan a ɛyɛ mmerɛ pii |
-| Timer nni hɔ, anaa timer a wobɛtumi atwa | Countdowns, nkɔso a wɔde ma sɛ wobɛyɛ ntɛm, “beat your time” |
-| Score nni hɔ, anaa ɛboa nkɔmmɔ | Nkaeɛ, lives, streaks, rankings, “brain age” |
-| Nneyɛe a wɔsɛe no wɔ ahoɔden mu | Buzzers, X a ɛyɛ fitaa, “Wrong” nkyerɛaseɛ |
-| Mfonini a ɛyɛ nnipa ne nneɛma a ɛwɔ wiase mu | Mfonini a ɛyɛ mmofra anaa nneɛma a ɛte sɛ nea ɛyɛ mmofra |
-| Ɛyɛ offline, ɛnhia account sɛ wobɛhyɛ ase | Ɛsɛ sɛ wode wo ho to mu, wo kɔ mu, anaa wo di nneɛma ansa |
-| Ɛyɛ mmerɛ sɛ wobɛgyae anaa wobɛtwa | Pop-ups a ɛbisa sɛ wɔntoa so anaa wɔmmɔ app no mu |
-| Ads nni hɔ, ɛka bo a ɛda adi, anaa ɛyɛ bɔne a wotua no pɛnkoro | Ads, loot boxes, purchase prompts a ɛba bere pii |
-| Ɛyɛ mmerɛ sɛ obi foforo bɛka ho | Obi koro nko na ɛyɛ, design a ɛma ɔko |
+| Mfonini ne nkyerɛwde a ɛyɛ kɛse, a ɛdi nkyerɛ | Mfonini ketewa, nhyehyɛe a ɛyɛ hyɛmuhyɛmu |
+| Ade biako a wɔbɛyɛ wɔ mfonini biara so | Bɔtan pii, akwan, anaa anammɔn a ɛyɛ nneɛma pii |
+| Bere biara nni mu, anaa bere a wobetumi atwe ho | Bere a ɛresisi, anaa "twe wo bere ho" |
+| Nkontaabu nni mu, anaa nkɔsoɔ a ɛyɛ mmerɛ | Nkontaabu, nkwa, nkɔsoɔ, nkɔsoɔ ahorow, "wo ho adwene" |
+| Mfomso a wɔbɛyɛ ho nkyerɛkyerɛ ahodoɔ | Nsɔre ne mfomso nsɛnkyerɛnne a wɔtwe so |
+| Mfonini a ɛyɛ nnipa ne wiase no ankasa | Mfonini a ɛyɛ mmofra anaa ɛyɛ nea wɔhwɛ hyɛ |
+| Ɛyɛ offline, ɛnhia account sɛ wobɛfi ase | Ɛsɛ sɛ wode account bɔ mu anaa wode nneɛma firi baabi |
+| Ɛyɛ ntɛm sɛ wobɛtumi aguan anaa asi | Pop-up a ɛbisa sɛ wɔntoa so anaa wɔmmɔ app no ho ɔmmɔ |
+| Ɛnni ads, nneɛma a wɔtua sika ma tẽẽ | Ads, loot boxes, sika a wɔbisa daa daa |
+| Ɛyɛ mmerɛ sɛ obi foforo bɛka ho | Ɛyɛ nea obi baako nko betumi de di dwuma, nkɔso ahorow |
 
-Ads ne purchase prompts yɛ mmerɛ sɛ wobɛtɔ wɔn a wonhwɛ yie.
+Ads ne sika a wɔbisa betumi ayɛ sɛ wotintim ho kwa.
 
-## Dɛn na mahwɛ app no kokoam nsɛm?
+## Sɛnea mehwehwɛ app no kokoam nsɛm?
 
-Hwɛ nea app no boaboa, obi a ɛkɔma, ne sɛnea wobɛtumi apoo. Ansa na woayɛ install:
+Hwɛ nea app no hwehwɛ, nea ɛkɔ ne nkyɛn, ne sɛ wobetumi ayi nsɛm no firi hɔ. Ansa na wode bɛdwene:
 
-1. **Kenkan privacy summary a ɛwɔ store no mu.** Google Play [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ne App Store [privacy information section](https://support.apple.com/en-us/102399) kyerɛ data a app no betumi aboaboa ne aka. Companies both ka sɛ developers ara na wɔkyerɛw nsɛm yi, enti ɛyɛ mfiase, nanso ɛnyɛ nhwehwɛmu a wɔayɛ yiye.
-2. **Bisa sɛ ɛhia account anaa.** Sɛ app no kyerɛ mfonini nko anaa agodi a ɛyɛ mmerɛ, ɛnsɛ sɛ ɛnim wo din, email anaa wo daa.
-3. **Hwɛ permissions.** Matching agodi bɛhia location, contacts, microphone anaa wo mfonini nyinaa? Gyae biribiara a ɛnhia.
-4. **Hwɛ ads ne analytics.** Advertising ne tracking tools betumi asoma data a ɛfa sɛnea wodi app no dwuma kɔ afoforo.
-5. **Hu baabi a mfonini kɔ.** Sɛ wode mfonini a ɛfa abusua ka ho, wɔda device no so anaa wɔkɔ server so? Wobɛtumi apoo?
-6. **Hwɛ sɛnea wobɛpoo.** Hwehwɛ privacy policy anaa data summary ma akwan a wobɛfa so apoo data ne account. App a ɛka sɛ wɔntumi mpoo data ɛsɛ sɛ wohwɛ yie, titiriw sɛ ɛwɔ mfonini anaa ayaresa nsɛm.
-7. **Kenkan privacy policy** na hunu nsɛm a ɛda adi: wɔboaboa dɛn, adeɛn nti, ɛbɛtena so bɛkyɛ, ne hena na wɔbɛkyɛ.
+1. **Kenkan app no kokoam nsɛm a wɔka ho.** Google Play [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ne App Store [privacy information section](https://support.apple.com/en-us/102399) kyerɛ nsɛm a app no betumi ahwehwɛ ne ɛbɛkɔ wɔ hɔ. Nkurɔfo abɔfo kyerɛ sɛ wɔn ankasa na wɔka saa nsɛm yi, enti ɛyɛ mfiase, ɛnyɛ nhwehwɛmu a ɛyɛ pɛpɛɛpɛ.
+2. **Bisa sɛ ɛhia account anaa.** Sɛ app no kyerɛ mfonini nko anaa agodi a ɛyɛ mmerɛ nko a, ɛnyɛ nea ɛsɛ sɛ ɛnim wo din, email anaa wo daa.
+3. **Hwɛ nkwa a app no hwehwɛ.** Agodi a ɛfa mfonini hwehwɛ hia sɛ ɛhwehwɛ beaeɛ, nnipa, mmoa anaa mfonini nyinaa? Gyae nneɛma a ɛnhia.
+4. **Hwɛ ads ne nhwehwɛ.** Ads ne nneɛma a ɛhwehwɛ betumi de nsɛm a ɛfa sɛnea wɔde app no di dwuma kɔ akuw foforo.
+5. **Hwɛ baabi a mfonini kɔ.** Sɛ wode mfonini a ɛfa abusua ka ho a, wɔsie wɔ device no so anaa ɛkɔ server so? Wobetumi ayi wɔn?
+6. **Hwɛ sɛnea wobɛyi nsɛm.** Hwɛ privacy policy anaa data summary mu sɛnea wobɛyi nsɛm ne account no. App a ɛka sɛ nsɛm a wɔahwehwɛ no ntumi nnyi ho, hia sɛ woyɛ nteaseɛ kɛse, titiriw sɛ ɛwɔ mfonini anaa nsɛm a ɛfa ayaresa ho.
+7. **Kenkan privacy policy** de hu nsɛm a wɔhwehwɛ, ɛfa sɛ ɛde nsɛm kɔ, nkyerɛ ɔkwan a ɛfa bere ne nnipa a wɔkyɛ nsɛm no ho.
 
-### HIPAA ara kwa na ɛbɔ dementia app mu nsɛm ban?
+### HIPAA betumi abɔ ban nsɛm a ɛwɔ dementia apps mu?
 
-Ɛnyɛ den, na eyi ma nnipa pii anwonwa. Amerika Department of Health and Human Services [kyerɛkyerɛ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) sɛ HIPAA fa health plans, ayaresabea adwumayɛfoɔ pii, health care clearinghouses ne wɔn adwumayɛfoɔ ho. Ɛfiri sɛ ɛnyɛ den no, ɛnyɛ data a wo ara wo de kɔ app mu wo ankasa dwumadie ho. Nanso sɛ ɛyɛ app a wɔde ma wo wɔ ayaresa nhyehyɛe mu anaa ɛyɛ wɔn adwumayɛfoɔ na wɔde ma, ɛbɛyɛ. “Dementia app” a wɔbɛnya wɔ app store mu, ɛfiri HIPAA mu, ɛwom sɛ ɛka ayaresa ho asɛm.
+Ɛdeɛ, ɛnyɛ. Amerika Department of Health and Human Services [kyerɛkyerɛ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) sɛ HIPAA gyina so ma ahodoɔ ahodie, ayaresabea ahorow, nsɛm a wɔkyekyɛ ne wɔn anuonyam mmoa. Ɛbɛtwa nkyekyɛ no, ɛnhwɛ nsɛm a wode ka app mu ma wo ankasa, sɛ ɛnyɛ wɔn a wɔsɔ ho ɔkwan anaa wɔn mmoa na wɔde app no ma. App a ɛfa dementia ho a wɔtɔ fi app store mu, ɛtɔ so nnyina HIPAA ase, ɛwom sɛ ɛka ayaresa ho nsɛm.
 
-### Dɛn na ɔbɔ health data ban wɔ apps a HIPAA nkata?
+### Hwan na ɛbɔ ayaresa nsɛm wɔ apps a HIPAA nhwɛ?
 
-Federal Trade Commission Health Breach Notification Rule ɔbɔ apps pii ban. Wɔ 2024 FTC [yɛɛ nsakrae](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) kyerɛɛ sɛ mmara no fa health apps ne nneɛma a ɛte saa a HIPAA nkata. “Breach” no fa nkɔmawu a wɔnnye ho nko, ɛnyɛ hacking nko, na companies ƐSƐ sɛ wɔka ho asɛm kyerɛ nnipa a ɛkɔ so ne FTC. Ɛyɛ nkwagyeɛ bere a biribi akɔ so, ɛnyɛ bɔhyɛ sɛ app no boaboa nea ɛsɛ nko.
+Federal Trade Commission Health Breach Notification Rule hwɛ pii. Wɔ 2024 FTC [yɛɛ nsakrae](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) a ɛkyerɛ sɛ mmara no fa health apps ne nneɛma a ɛte saa a HIPAA nhwɛ. "Breach" kyerɛ nkɔkɔ a wɔnhyɛ mu, ɛnyɛ hacking nko, na ɛsɛ sɛ kompanii ka nnipa ne FTC ho ka. Eyi yɛ ban bere a biribi a ɛnyɛ yiye akɔ so, ɛnyɛ bɔhyɛ sɛ app no hwehwɛ nea ɛhia nko.
 
-## Dɛn na mahwɛ sɛ ɛyɛ nokware wɔ nhwehwɛmu ne adanse ho nkɔmhyɛ?
+## Dɛn na ɛsɛ sɛ mete nsɛm a ɛfa nhwehwɛmu ne nsɔhwɛ ho?
 
-Kenkan nsɛm a ɛfa adanse ho yie, na twe ho nkyɛn wɔ nkɔmhyɛ a ɛyɛ kɛse ho. Nsɛm a ɛsɛ sɛ wobisa:
+Kenkan nsɛm a ɛfa nhwehwɛmu ne nsɔhwɛ ho yie, na monkyerɛ nneɛma a ɛyɛ kɛse no ho ntɛmntɛm. Nsɛmmisa a ɛsɛ sɛ mebisa:
 
-- **Dɛn na wɔsuaa?** Nhwehwɛmu a ɛfa training program biako ho nkyerɛ sɛ game biara a ɛwɔ app mu yɛ adwuma koro so.
-- **Hena na wɔsuaa?** Nea ɛba wɔ mmofra a wɔyɛ yiye mu betumi anyɛ adwuma ma obi a wɔwɔ dementia.
-- **Dɛn na wɔhwɛ?** Sɛ obi yɛ game no yie ne nea ɛyɛ den sen sɛ nneyɛe a ɛwɔ ne daa nkwa, nkɔmmɔ, ahoɔden anaa ne tumi.
-- **Nhwehwɛmu no yɛ den sɛn?** Randomized controlled trial (RCT) de nnipa a wɔde app no di dwuma toto nnipa a wɔnnyɛ saa. Ɛyɛ nhyehyɛe a ɛyɛ, nanso RCT a ɛyɛ ketewa anaa ɛtena ase bere tiaa nyɛ adanse. Hwehwɛ nhwehwɛmu bebree, a adwumayɛfoɔ a wɔnnyɛ nhyehyɛe no mu pɛ, na wɔka ho asɛm pɛpɛɛpɛ.
-- **Ɛka sɛ ɛsesa yare no?** Nhwehwɛmu a ɛkyerɛ sɛ nkɔso ketewa wɔ tua mu nyɛ adanse sɛ app no bɔ, bɔ ban anaa ayɛ dementia yare.
+- **Dɛn na wɔsuaa ho?** Nhwehwɛmu a wɔyɛ wɔ nhyehyɛe biako ho nkyerɛ sɛ agodi nyinaa wɔ app mu yɛ adwuma saa ara.
+- **Hena na wɔsuaa?** Nea wɔhunuu wɔ nnipa a ɛyɛ mmerɛ a wɔyɛ mfe ho ne nnipa a dementia atwa wɔn so mu no betumi ankyerɛ wɔn yiye.
+- **Dɛn na wɔhwɛɛ?** Sɛ wobɛyɛ agodi no yiye ne sɛ wɔsesa nneɛma a ɛwɔ ase, ɛyɛ adwuma koraa, nkɔmhyɛ, anigye anaa ahoɔden.
+- **Nhwehwɛmu no yɛ den sɛn?** Randomized controlled trial (RCT) de nnipa a wɔde app no di dwuma ne nnipa a wɔnnyɛ saa, toto ho. Ɛyɛ dwumadi pa, nanso RCT biako a ɛyɛ kakraa anaa a ɛtɔ nnɔnhwerɛ nko nyɛ nokware. Hwehwɛ nhwehwɛmu pii a nnipa a wɔnni ho nsɛm pɛpɛɛpɛ ayɛ no, na wɔka ho asɛm pɛ.
+- **Ɛka sɛ ɛsesa yare no?** Nhwehwɛmu a ɛkyerɛ sɛ nsɔhwɛ kakraa asesa wɔ nsɔhwɛ ho nkyerɛ sɛ app no nsesa, mmɔ ho ban anaa ayaresa dementia.
 
-Ɛwɛ National Institute on Aging nkyerɛwde a ɛfa [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ho, a ɛka NIH sikasɛe nhwehwɛmu kɛseɛ a ɛhwehwɛ structured cognitive training, na ɛkɔ akyerɛ nnipa sɛ wɔnnwɛn nkɔmhyɛ a ɛka sɛ computer ne online games betumi ama adwene ne ntease ayɛ yie. Ɛka sɛ adanse nni so sɛ commercially available brain-training apps yɛ adwuma sɛ training a wɔyɛ wɔ nhwehwɛmu no. Wobetumi akenkan yɛn akwankyerɛ a ɛfa [brain games ne adanse](/brain-health/brain-games/) ho, ne [nea nhwehwɛmu ka wɔ dementia ban ho](/brain-health/can-dementia-be-prevented/) ho.
+National Institute on Aging nkyerɛwde a ɛfa [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ho kyerɛ nhwehwɛmu kɛse a NIH de sika boaa, a ɛhwehwɛ nkyerɛkyerɛ a wɔhyehyɛ ma adwene. Afei ɛma yɛn ho ban nkyerɛ nsɛm a ɛka sɛ nneɛma a wɔyɛ wɔ kɔmputa ne intaanɛt so betumi ama nkɔso wɔ nkaebɔ ne adwene mu. Ɛka sɛ nsɔhwɛ a ɛterɛ ntɛm nni ho sɛ commercial brain-training apps betumi aye sɛ nhwehwɛmu no mu nkyerɛkyerɛ. Wobetumi akenkan yɛn [brain games and the evidence](/brain-health/brain-games/) ne [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/) guide no mu.
 
-### Dɛn ne nkɔmhyɛ a ɛyɛ nnianim bi a wɔde kyerɛ?
+### Hena ne nkyerɛkyerɛ a ɛyɛ nokware a ɛma nnipa di nsɛm nkyerɛ?
 
-Wɔ January 2016, FTC [kyerɛɛ aseɛ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ne Lumosity, “brain training” program a wɔyɛ no. FTC kae sɛ companies no kaa sɛ ne agodi betumi atwe adwene a ɛfa bere ho tɔ ase, na ɛbɔ mmɔden sɛ wɔbɛbɔ dementia ne Alzheimer's ban, nanso wɔannya adanse a ɛfata. Companies no pɛɛ sɛ wɔde $2 milliɔn ma, na wɔsɔ hwɛ sɛ wɔbɛwɔ adanse a ɛfata ne a ɛyɛ nokware ansa na wɔbɛka saa nkɔmhyɛ no bio. Saa asɛm yi kyerɛ yɛn sɛ nkɔmhyɛ a wɔka wɔ adetɔ mu nyɛ adanse.
+Wɔ January 2016, FTC [kyerɛɛ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) sɛ wɔayɛ nkɔsoɔ ne Lumosity, a ɛyɛ "brain training" program, ho bɔ. FTC kae sɛ kompanii no kaa sɛ nneɛma a wɔyɛ wɔ ne app no betumi ama adwene ne nkaebɔ a ɛfa mfe ho nkɔ ntɛm, na ɛbɛboa ma wɔammɛ mild cognitive impairment, dementia ne Alzheimer's, nanso wɔnni nsɛm a ɛyɛ mmerɛ. Kompanii no gyee sɛ ɛde $2 million tua, na ɛsɛ sɛ wɔwɔ nsɛm a ɛyɛ nokware ne nhwehwɛmu a ɛyɛ pɛpɛɛpɛ ansa na wɔka saa nsɛm no bio. Asɛm yi kyerɛkyerɛ yɛn sɛ nsɛm a wɔka wɔ adetɔ mu nyɛ nhwehwɛmu.
 
-### Ɛdeɛn ne nsɛm a ɛyɛ nsɛnkyerɛnne a ɛsɛ sɛ wohu?
+### Nsɛm bɛn na ɛkyerɛ ɔhaw?
 
-Monnye ho nsɛm sɛ app anaa ad ka sɛ ɛbɛ:
+Monnyina ho ansa na mopɛ app anaa ads a ɛka sɛ:
 
-- “bɔ ban,” “sakra,” “gyina” anaa “ayɛ yare” dementia anaa Alzheimer's;
-- “clinically proven” a wɔammɔ study no din, nea ɛwɔ mu, ne nea wɔhwehwɛɛ;
-- “brain age” anaa memory score a ɛkyerɛ sɛ wɔayɛ yare diagnosis;
-- “ma adwene ayɛ yie,” “boa,” anaa “train” ntɛnkɔ;
-- nnipa a wɔka adansedie biara sɛ adanse.
+- "ɛbɔ ban," "ɛsan de," "ɛgyina" anaa "ɛyɛ ayaresa" dementia anaa Alzheimer's;
+- "wɔasi no nokware" nanso wɔnnkyerɛ nhwehwɛmu no, nnipa a wɔwɔ mu ne nea wɔhwɛɛ;
+- ɛma "brain age" anaa adwene nkontaabu a ɛkyerɛ sɛ obi wɔ yare;
+- "ɛbɛma adwene ayɛ yie," "ɛbɛma adwene ayɛ den," anaa "ɛbɛtra" adwene;
+- ɛde nnipa a wɔka nsɛm ma sɛ ɛyɛ nokware.
 
-Sɛ wowɔ ahosɔhwɛ wɔ nkɔmhyɛ ho, bisa dɔkota a ɔhwɛ obi no.
+Sɛ wowɔ ahohia wɔ nsɛm bi ho a, bisa onipa no dɔkota.
 
-## Golden Moments wɔ he?
+## Golden Moments wɔ baabi bɛn?
 
-Golden Moments de nneɛma a ɛyɛ nkɔmbɔ a yɛde ka ho ma nnipa nyinaa, nanso ɛnyɛ memory test, ɛnyɛ ayaresa, na ɛnyɛ ayaresa akwankyerɛ. Yɛn agodi, te sɛ [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ne [Calm Breathing](/games/calm-breathing/), yɛyɛ ma anigye ne nkɔmbɔ. Ɛnhwehwɛ, ɛnyɛ yare, ɛnnkɔsesa, na ɛnnhwehwɛ dementia, na yɛnka nsɛm biara ho ho ma adwene anaa nkaeɛ.
+Golden Moments de nneɛma a ɛyɛ bom a yɛde di dwuma nkɔ ma nnipa, ɛnyɛ adwene nsɔhwɛ, ayaresa anaa ayaresa nkyerɛkyerɛ. Yɛn agodi, te sɛ [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ne [Calm Breathing](/games/calm-breathing/), yɛyɛ de di anigye ne nkitahodie ma. Ɛnhwɛ, ɛnsiesie ayaresa, ɛnnkɔ nkɔsoɔ ban anaa ɛnhwɛ dementia, na yɛnka nsɛm biara ho wɔ adwene anaa nkyerɛaseɛ ho.
 
-Yɛyɛ app a wɔntua ka bi nso, [Golden Moments for iPhone, iPad and Android](/app/). Ɛwɔ matching mfonini a akwan no kɛseɛ, agodi a ɛwɔ mfonini a wo ankasa paw, ne picture packs a wɔtumi de di dwuma offline, na account, ads, timer anaa score nni hɔ. Nsɛm a ɛwɔ saa akwankyerɛ yi mu no fa so: ne App Store privacy label kyerɛ sɛ “Data Not Collected”, na [app privacy policy](/app-privacy/) kyerɛ baabi a yɛkora mfonini a wɔakyerɛ no ho nkyerɛwde.
+Yɛyɛ app a ɛnnni bɔ, [Golden Moments for iPhone, iPad and Android](/app/). Ɛwɔ ahoɔden a ɛyɛ mmerɛ wɔ mfonini a ɛyɛ kɛse mu, agodi a wɔde mfonini a wopɛ ka ho, ne mfonini a ɛyɛ offline, na ɛnhia account, ads, bere anaa nkontaabu. Nhyehyɛe a ɛwɔ saa kratafa yi so ara na ɛfa yɛn so: App Store privacy label no kyerɛ sɛ "Data Not Collected", na [app privacy policy](/app-privacy/) kyerɛkyerɛ baabi a yɛkora mfonini no ho nkɔ.
 
-Yɛpɛ sɛ moasusuw yɛn ho sen sɛ moregye yɛn so. Fa saa akwankyerɛ yi di dwuma, kenkan yɛn [privacy page](/privacy/) ne [medical disclaimer](/medical-disclaimer/), na gyae app biara, ɛwom sɛ ɛyɛ yɛn, a ɛnyɛ ma obi a woreyɛ ne ho yiye.
+Yɛpɛ sɛ mohwɛ yɛn sen sɛ mogye yɛn di. Fa nhyehyɛe a ɛwɔ saa kratafa yi di dwuma, kenkan yɛn [privacy page](/privacy/) ne [medical disclaimer](/medical-disclaimer/), na gyae nneɛma biara, ɛnyɛ yɛn nko, a ɛnfata onipa a wodi ho ban.
 
-## Ɛdeɛn ne ɔkwan a ɛyɛ mmerɛ a wɔfa so bɔ app foforo ho sɔhwɛ?
+## Dɛn ne kwan a ɛyɛ mmerɛ so a wɔfa app foforo di dwuma?
 
-Fa ne nkyɛn sɔ hwɛ nnawɔtwe abien, na hwɛ nea ɛba.
+Fa di dwuma bom wɔ nnawɔtwe nnɔnhwerɛ mmienu mu, na hwɛ nea ɛbɛba.
 
-1. **Di kan hyehyɛ** wɔ yɛn [tablet and phone setup guide](/caregiving/tablets-and-screens/) so, na fi ɔkwan a ɛyɛ mmerɛ ara ase.
-2. **Ma nhyiamu nyɛ tenten,** hwɛ anigye, nkɔmbɔ ne ahomegyebɔ, na gyae bere a ɛyɛ papa.
-3. **Gyae app no sɛ ɛde ahohia ba,** ɛnyɛ den sɛ ne nkamfo bɛka ho.
+1. **Siesie app no ansa na woafi ase** de yɛn [tablet and phone setup guide](/caregiving/tablets-and-screens/) na fi ase wɔ mmerɛ kwan so.
+2. **Ma nhyiamu no nyɛ ɛkɔm,** hwɛ anihye, nkɔmhyɛ ne ahomegyebɔ, na gyae wɔ anigye bere mu.
+3. **Gyae sɛ ɛde ahohia ba,** ɛwom sɛ nnipa ahodoɔ ama no nkamfo kɛse.

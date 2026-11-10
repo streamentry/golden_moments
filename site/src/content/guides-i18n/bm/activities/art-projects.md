@@ -1,33 +1,28 @@
 ---
-title: "Dɔnkili Sɛbɛnw Dementia Mɔgɔw Ye, Kɔrɔ Kɔrɔ"
-seoTitle: "Dɔnkili Sɛbɛnw Dementia Mɔgɔw Ye, Kɔrɔ Kɔrɔ"
-description: "Dementia mɔgɔw ye dɔnkili sɛbɛnw, kɔrɔ kɔrɔ: nɛɛnɛ kɛli, kolaaji, tɛrɛ, chalk ani malo ɲɛ kɛli, ani sɛbɛn lakanaw ka labɛn kɔrɔ."
+title: "Dementia ka mɔgɔw ye sɛnɛkɛ kɛlɛw ye, kɔnɔ-kɔnɔ"
+seoTitle: "Dementia ka mɔgɔw ye sɛnɛkɛ kɛlɛw ye, kɔnɔ-kɔnɔ"
+description: "Dementia ka mɔgɔw ye sɛnɛkɛ kɛlɛw ye, kɔnɔ-kɔnɔ: ji kɔlɔsi, kolaaj, argile, pastel ni kɛlɛ dɔw. I bɛ se ka sɛnɛkɛ kɛlɛ sugandi cogo, ani ka sɛnɛkɛ ta min tɛ ni ka kɛ kɛnɛ."
 section: activities
 order: 28
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Dɔnkili sɛbɛnw dementia mɔgɔw ye, u bɛ ɲɛ kɛ ni u ka tɛmɛsira ka gɛlɛya ye
-  ani u bɛ hakilina ni sɛnɛ ɲɛ. I ka nɛɛnɛ kɛli, jurunalo kolaaji, nɛnɛ
-  tɛrɛ, dugukolo chalk dugukolo sɛbɛn dɔ ani malo ɲɛ kɛli, sɛbɛn ɲɔgɔn kɛ.
-  Ko sɛbɛn kɛli kɛ ni ɲɔgɔn ye, ani sɛbɛn kɛli dɔ kɛ ni ɲɔgɔn ye. Sɛbɛn
-  lakanaw kɛ ka labɛn ka ɲɛnɛ, ni u tɛ nɛ fɛ ka don. Ko kɛ tuma ye: sɛbɛn
-  kɛli ye kɛli ka kɛɲɛ ye, sɛbɛn kɛlen ye bonus ye.
+  Sɛnɛkɛ kɛlɛw dementia ka mɔgɔw bɛ ka kɛ ka di ni olu ye gɛlɛya tɛ, ni olu ye tɛmɛsiranko ye, ni olu bɛ hakilina dɔ jɛ. I bɛ se ka ji kɔlɔsi kɛ, kolaaj kɛ ni kɔrɔ dɔ ye, argile dɔgɔ kɛ, pastel kɔlɔsi kɛ kɔnɔ kɔrɔ ni wulu sɛnɛkɛ kɛ, ani ka kɛlɛ kɛlɛ kelen-kelen fara ɲɛ. Sɛnɛkɛ fɛn ye fɛn ye kosɛbɛ; kɛlɛ ka bɔ ka kɛ ka di, sɛnɛkɛ ka dɔrɔn bɛ fɛn ɲɛ. Fɛn min bɛ kɛ i ka tɛmɛsiranko na, o bɛ kɛ ka dɔ ye.
 keyPoints:
-  - "Sɛbɛn kɛli min bɛ fɔlɔ kɛ ka fɛɛrɛ kelen kɛ, i ko i bɛ ɲɛ kɛ malo ɲɛ ko i bɛ jurunalo kɔrɔ fa, walasa mɔgɔ ka sɛbɛn kɛ ka ɲɛnɛ."
-  - "Malo ɲɛ kɛli kɛ ni sɛbɛn lakanaw ye, minnu bɛ fan ka ɲɛ, sɛbɛn lakanaw tɛ, ani tɛ fumɛ ni tiɲɛ ni tiɲɛ."
-  - "Ɲɔgɔn ye kɛ fɔlɔ, ka tɛmɛ tuma kɔ. Mɔgɔ caman bɛ sɛbɛn ka kɛ fɔlɔ ni dɔ kɛ ka kɛ kɔrɔ."
-  - "Sɛbɛn kɛli ka ɲɛ ka kɛ ni mɔgɔ ka kɛɲɛ bɛ ɲɛnɛ, fɔlɔ ka kɛ kɛlen dɔ kɛ, kɔ ka kɛ ka bɔ nɔ ɲɔgɔn kɛ."
-  - "Ka ɲɛnamaya ni malo ɲɛ kɛ ka ɲɛ, sɛbɛn kɛli ka labɛn tɛ, ani ka sɛbɛn kɛli tuma min na, ka tɛmɛ tuma kɔ."
+  - "Sɛnɛkɛ kɛlɛ min ni kɛlɛ kelen fɔlɔ bɛ, i ko kɛlɛ dɔ, i ko i ka kɔlɔsi nɛgɛ ji la walima i ka sɛnɛkɛ dɔ dɔ, walasa mɔgɔ ka se ka daminɛ ni hɛrɛ ye."
+  - "Kɛ kɛ min bɛ kɛ ni fiyɛ tɛ ka kɛ nɛgɛ ka fɔ, mɛkɔnɔ ni ɲɔgɔn ni koko tɛ, ani sɛnɛkɛ tɛ min bɛ ko ni ko ka kɛ ka di."
+  - "Ka daminɛ i ka kɛlɛ ni mɔgɔ ye, o kɔfɛ ka i yɛrɛ ka kɔ. Mɔgɔ caman bɛ fɛ ka fɔlɔ kɛ kelen kɛlɛ dɔ ni kɛlɛ kɔfɛ ka kɛ."
+  - "Kɛlɛ ka yɛlɛma ni mɔgɔ ka se ka kɛ ye, a labɛnen ka kɛ fɛn gɛlɛn min na fɔlɔ, ka se ka fara fɛn ɲɛ sɔrɔ ni ka kɛ kɛlɛ min bɛ sɛnɛkɛ ye, o kɔfɛ."
+  - "Ka tanu i ka sugandili ni i ka sɛnɛkɛ ta, ani sɛnɛkɛ ta ni kɛlɛ ta, o ma kɛ ka fɔ kɛlɛ ka cogoya ye. Kɛlɛ bɛ mɔgɔ ka nisɔndiya dɔgɔ kɔ, o kɔfɛ ka kɛlɛ ta."
 faq:
-  - q: "Dementia mɔgɔw ye sɛbɛn kɛli jumɛn ye ɲɛ kɛ?"
-    a: "Sɛbɛn ɲɛnɛ kɛli bɛ ɲɛ kɛ: jurunalo kɔrɔ kɔrɔ ni malo ɲɛ, jurunalo kolaaji ni tɛmɛ sɛbɛn, dugukolo nɛnɛ min bɛ se ka tɔ ani ka kɔrɔ, chalk dugukolo sɛbɛn dɔ dugukolo kɔrɔ, nɛɛnɛ malo ɲɛ kɛli ni malo min bɛ se ka bɔ ni ji, ani fani ni ɲɔgɔn kɛli. Sɛbɛn min bɛ mɔgɔ ka kɛli ni ɲɛnamaya ye, o sugandi."
-  - q: "Ne bɛ sɛbɛn kɛli ka sɛbɛn lakanaw sugandi cɛ min ka dementia bɛ ɲɛ?"
-    a: "Sɛbɛn lakanaw min tɛ kɔ tɔɔ, min bɛ se ka labɛn ka ɲɛ ka ɲɛnɛ, min bɛ fan ka ɲɛ ka kɛ ni bolo ye, ni min ka kɛɲɛ ye fɔ dɛnɛ. Ka sɛbɛn kɛlen tɛ ka tɛ tiɲɛ ni yɛrɛ ye, i ka kolu ye kɛ, ani ka sɛbɛn kɛ min bɛ fan ka tɛ tɔnɔ ye. I ka ɲɛ ni ɲɛ kɛ ka nɛɛnɛ kɛ tiɲɛ, ka ɲɛ ko fɛɛrɛ ye, ani ka sɛbɛn lakanaw ka tɛmɛ kɛ ka ɲɛ."
-  - q: "Mɔgɔ min bɛ dementia ka tɛmɛ dɔ la, o bɛ sɛbɛn kɛ wa?"
-    a: "Ɔn, sɛbɛn ka kuntaala sɛnɛ lakanaw ye. I bɛ se ka sɛbɛn ka kɛ ni dugukolo nɛnɛ bɛ tɔ, malo ɲɛ kɛli ni malo ka jɔgɔn ɲɛ kɛ ni tɛrɛ dɔ ye, walasa ka jɛɲɔgɔn ɲɛ kɛ ni tɛrɛ ye. I bɛ se ka bolo sɛbɛn ka kɛ ni tɛmɛ ka kɔrɔ. Ka ɲɛ ka jɔ, ka kuma ko ka ɲɛ, o fana ye sɛbɛn kɛli ye."
-  - q: "U bɛ fɔ ko u tɛ se ka sɛbɛn kɛ, ne bɛ mun kɛ?"
-    a: "Ka ɲɛ ka hakili ka sɛbɛn kɛ ka ɲɛ ye, dɔ tɛ min ka ɲɛ ka hakili ye. I yɛrɛ ka tɛmɛ kɛ fɔlɔ, ka u kɛ ka tɛmɛ. Ni u tɛ kɛ sɛbɛn ye, sɛbɛn wɛrɛ kɛ; ka ɲɛ ka sɛbɛn ka kɔrɔ ni u ka kɛli ye, [ni u bɛ tɛmɛ ka kɛ] ye, [ni u bɛ tɛmɛ ka kɛ] ye, [ni u bɛ tɛmɛ ka kɛ] ye, [ni u bɛ tɛmɛ ka kɛ] ye, ani ka ɲɛ ka kɛ ni [ka ɲɛ ka kɛ] ye."
+  - q: "Sɛnɛkɛ kɛlɛ jumɛn ye dementia ka mɔgɔw ye?"
+    a: "Sɛnɛkɛ kɛlɛ ɲɛnamaw ye ji kɔlɔsi ye kɔnɔ kɔrɔ, kolaaj kɛ ni kɔrɔ ta ye, argile dɔgɔ kɛ min bɛ ko ni ko ye, pastel kɔlɔsi kɔnɔ kɔrɔ ni wulu sɛnɛkɛ, tɛrɛ kɔlɔsi ni ji ye, ani kɛ ni kɔrɔ ye sɛnɛkɛ ta nɔgɔ walima ji ni fiyɛ ye. Sugandi ka sɛnɛkɛ min bɛ mɔgɔ ka kɛlɛ ni hakilina ɲɛ, o ye min ye."
+  - q: "Ne bɛ se ka sɛnɛkɛ fɛnw sugandi cogo di mɔgɔ min bɛ dementia la?"
+    a: "Sɛnɛkɛ fɛnw min tɛ ni kɛ ka di, min bɛ sɛnɛkɛ ta ni kɔrɔ ye, min tɛ ni kɛ ka di, o ye min ye. Ka bɔ kɔrɔ ni ko tɛ ni kɔrɔ: nɛgɛ fɛnw, bɔlɔ, sumanɛ, sumanɛ mɛn min bɛ nɔgɔ, makɛli min bɛ ko ni kɔrɔ, ni kɛlɛ min bɛ ko ka kɛ ka di. Ɲɛ ka sugandi ka ɲɛ: kɔlɔsi ni kɔrɔ kɛlɛ ni kɔlɔsi kɔrɔ, i ko kɔrɔ kɔlɛ ni kɔlɔsi kɔrɔ, ani sɛnɛkɛ fɛnw ka dɔgɔ."
+  - q: "Mɔgɔ min bɛ kɛ ka sɔrɔ dementia ka kɔfɛ, a bɛ se ka sɛnɛkɛ kɛ wa?"
+    a: "Ɔn, ni fɛnw ye sɛnɛkɛ fɛnw ye min bɛ hakili ni sɔrɔ ye. I bɛ se ka argile dɔgɔ kɛ, ka ji kɔlɔsi tɛrɛ ni sɛnɛkɛ kɛ, walima ka sɛnɛkɛ fɛnw bɛ kɛ ka kɛ mɔgɔ min ka sɛnɛkɛ bɛ kɛ ni kɔlɔsi ye. A bɛ se ka kɛ ka i ka bolo sɔrɔ. I ka kɔlɔsi ni kɔrɔ ka fɔ fɛn min bɛ kɛ, o bɛ kɛ kɛlɛ dɔ ye."
+  - q: "A bɛ fɔ ko a tɛ se ka sɛnɛkɛ kɛ, ne bɛ mun kɛ?"
+    a: "Ka hɛrɛ kɛ a ye ko sɛnɛkɛ ye nisɔndiya ye ni kɔlɔsi ni kɔrɔ ye, tɛ ko sɛnɛkɛ kɛnɛ ye. I yɛrɛ ka sɛnɛkɛ fɔlɔ kɛ, ka a wele ka tɛmɛ o kɔfɛ. Ni a ka ɲɛfɔ tɛ, sɛnɛkɛ dɔ wɛrɛ sugandi; i bɛ se ka ɲɛ ka [mɔgɔ min tɛ ni kɛ ka fɔ ko 'ɔn' ni 'ɔ' ɲɛ](/caregiving/when-they-say-no/) ka kalan."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -46,65 +41,65 @@ related: [activities/arts-and-crafts, activities/coloring, activities/sensory, a
 health: false
 ---
 
-Dɔnkili sɛbɛnw ye sɛbɛn ka ɲɛ ye min bɛ se ka kɛ ni dementia mɔgɔ ye, i bɛ se ka ɲɛnɛ ni u ka kɔrɔ, ni u ka ɲɛ, ni u ka tɛmɛsira. U bɛ bolo, ɲɛ ni ɲɛ ka sɛnɛ kɛ, ani u bɛ kuma kɛ ni ɲɔgɔn ye. Nin kɔrɔ bɛ sɛbɛn kɛli jumɛn ye ni kɛli sɛbɛn kɛli ye, ani sɛbɛn kɛli ka labɛn ka ɲɛ. Dɔnkili sɛbɛnw kuntaalaw ka kɔnɔ, i ko kɛli fɛɲɛ, i bɛ se ka [dementia mɔgɔw ka dɔnkili sɛbɛnw](/activities/arts-and-crafts/) ka kuntaalaw ɲɛ.
+Sɛnɛkɛ kɛlɛw ye fɛn ye min bɛ se ka dɔ kɛ i ni dementia la mɔgɔ ye, ka i ni a ka tɛmɛsiranko bɛ se ka sɔrɔ. Olu bɛ bolo, ɲɛ ani hakilina bɛ kɛlɛ la, ka fɛn dɔ fɔ ka ɲɛnɛma. Nin kɛlɛ bɛ kɛlɛ kɛlɛ dɔw jira ni ɲɛfɔ ye, ani sɛnɛkɛ fɛnw ka kɛlɛ cogo ka dɔ labɛn cogo sɛbɛnnen. Mɔgɔ-kɛlɛ sɛnɛkɛ ka kɔnɔ fɛn (i ko fɛn min tɛ ni kɛ mɔgɔ ye, a tɛ ni kɛ ka bɔ ni ka kɛ ka sɛbɛn) ka kɔnɔ, i bɛ se ka [mɔgɔ-kɛlɛ sɛnɛkɛ dementia la mɔgɔw ye](/activities/arts-and-crafts/) ka kalan.
 
-## Dɔnkili sɛbɛn o o kuntaala
+## Sɛnɛkɛ kɛlɛ kɔnɔ fɔlɔ
 
-1. **Sɛbɛn kɛ fɔlɔ ka tɛmɛ.** Malo kelen walima fila ɲɛ kɛ, sɛbɛn tɔɔ kɔrɔ ani ji ka nɛnɛ ɲɛ.
-2. **Sɛbɛn kɛli fɔlɔ yira.** Brosi kɔnɔ ka ji kɔnɔ, nɛnɛ fɔlɔ ka tiɲɛ, walima dugukolo ka tɔ ka ɲɛ, ka u kɛ ka i ko kɛ.
-3. **Ɲɔgɔn ye kɛ.** I ka sɛbɛn yɛrɛ ka ɲɛ, walasa sɛbɛn ka kɛ ɲɔgɔn ye, ka tɛ kɛ ka kɔnɔ ye.
-4. **Kuma i ka ɲɛ ye.** Malo ɲɛ, nɛnɛ ani tɔɔ ka kuma kɛ, ka tɛ kɛ ka kɛli ɲɛ ka ɲɛ.
-5. **Ka tɛmɛ fɛn ye, sɛbɛn ka kɔrɔ.** Tɛmɛ tɛmɛ tɛ ka tɛ ɲɔgɔn ye fɔlɔ. Miniti tan ani tan tɛ tɛ nin ye.
+1. **Kɛlɛ ka fɔlɔ ka fɛn labɛn.** Fɛn kelen walima fila labɛn, kɔnɔ jɛn min bɛ ko ni ko ka lakana ani ji kɔlɔ ni dɔ.
+2. **Kɛlɛ fɔlɔ ka jira.** Ji kɔlɔsi ka sɛnɛkɛ ka kɔnɔ kɔrɔ, walima a ka nɛgɛ kɔnɔ dɔ ka i ka kɔlɔsi ta, ka a wele ka o kɛ.
+3. **Ɲɔgɔn fɛ ka kɛlɛ.** I yɛrɛ ka sɛnɛkɛ kɛlɛ dɔ labɛn i ɲɛ kɛrɛ, walasa kɛlɛ ka kɛ ɲɔgɔn ka kɛlɛ ye, tɛ ko ka kɛlɛ dɔ ka i ka kɛlɛ ye.
+4. **Fɛn min bɛ ɲɛ ko ka fɔ.** Kɔlɔsi, ko ni kɔrɔ fɔ, ani fɛn min bɛ kɛ ka fɔ ni kɛlɛ, o kɛlɛ tɛ fɛn ka kɛ kɔrɔ.
+5. **Ka sɔn ka kɛlɛ ta ni a ka fɛn bɛ bɔ.** Tɔgɔ tan ni tan-fila ye kɛlɛ ka waati ɲɛ ye ka ca.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ye ko dɔnkili sɛbɛn ye ɲɛnamaya ka hakili ka kɛli ye, ka dɔnkili kɛli ye min tɛ mɔgɔ ka kɛli ɲɛ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ye ko sɛbɛn kɛ ka tɛmɛ ka nɛɛnɛ.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ka fɔ ko sɛnɛkɛ ye sira ye min bɛ se ka hakili ni ɲɛ fɔ, ka ɲɛfɔ ni sɛnɛkɛ kɛ ka kɛ hakilina ni ka kɛ kɔfɛ ka kɛlɛ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka fɔ ko kɛlɛ ka kɛ ka kɛlɛ dɔgɔ-dɔgɔ ye.
 
-## Watercolor ji ɲɛ
+## Ji kɔlɔsi kɛlɛ
 
-Jurunalo kɔrɔ kɔrɔ, brosi kɔrɔ ani malo ɲɛ kɔrɔ fanba kɔnɔ. Ji ka nɛnɛ ni ji ka wɛrɛ ka tɛ tɔ, ka malo ɲɛ ka ɲɛ ka ji kɔnɔ. Jurunalo ka tiɲɛ ka ɲɛ, malo ɲɛ bɛ tɛ ka bɔ. O ye sɛbɛn ye min tɛ kɛ ni ɲɛ ye.
+Kɔnɔ kɔrɔ ji kɔlɔsi, kɛlɛ bolo min ka bɔ, ani kɔlɔsi dɔw ka kɛ ka kɔnɔ kɔrɔ. Ji ni fɔ kɔnɔ kɔrɔ ni ji dɔgɔ ye, o kɔfɛ ka kɔlɔsi bɔ a la. Kɔnɔ kɔrɔ ka kɔnɔ kɔrɔ, ka a ka fɛn ye ka ɲɛ. A bɛ kɛ sɛnɛkɛ ye min tɛ ni labɛn ye.
 
-- **Fɔlɔ kɔrɔ:** Malo ɲɛ kɛ ka sugandi ni u ka kɛli ye, ka sugandi ni ɲɛ ka kɛ.
-- **Kɔrɔ tɔɔ:** Malo fila walima saba ɲɛ kɛ, ka ji kɛ i yɛrɛ ye.
-- **Kɔ kɔrɔ:** Jurunalo ka tiɲɛ ka u ka tɔ, ka sɛbɛn kɛ ni sɛbɛn kɔrɔ ye.
+- **Fɔlɔ kɛlɛ:** A ka kɔlɔsi sugandi, ka kɔnɔ kɔrɔ ni ka ɲɛ.
+- **Kɔfɛ waati:** Kɔlɔsi fila walima saba ka sugandi, ka ji nɛgɛ ka fɔ i yɛrɛ.
+- **Kɔfɛ kɛlɛ:** Kɔnɔ kɔrɔ ka sɛnɛkɛ ni dɔ nɛgɛ ka ko.
 
-## Jurunalo kolaaji
+## Kolaaj ni kɔrɔ
 
-Jurunalo ka ɲɛ ka tɛmɛ ni malo ɲɛ bɛ ɲɛ ye, fɛn kɛ, fini, fɛn, fɛn ani ɲɛnɛ. Ka ɲɛ ka tɔ kɛ ka tɔ, ka tɛ kɛ ka tɔ kɛ kɛlen ye, ka ka ɲɛ ka tɔ. Kolaaji bɛ kuma fɔlɔ ye, ka sɛbɛn kɛ ka sɛbɛn kɔrɔ ye. O ye mɔgɔ ka ɲɛ ye min bɛ fan ka sɛbɛn ka sɛbɛn ka kɛ ka sɛbɛn kɛ.
+Kɔnɔ kɔrɔ, ka sɛnɛkɛ fɛnw bɛ kɛ ni tɛrɛ, sɛmɛ, ni sɛnɛkɛ fɛnw, sumanɛ, mɛnɛ walima sigi fɛnw min bɛ kɛ ni ɲɛ ye. Olu ka bɔ ka kɛ ni sɛnɛkɛ ye, o tɛ kɔrɔ ka kɛ ka sɛnɛkɛ fɛnw bɛ kɛ kɛlɛ ye ka kɔrɔ. Ka olu ka sɛnɛkɛ kɛ kɔnɔ kɔrɔ ni ka kɛ kɔfɛ. Kolaaj ye fɛn ye min bɛ kɛlɛ dɔ fɔ ka ɲɛnɛma, bawo fɛn kelen-kelen bɛ hakilina dɔ wele. A bɛ kɛ mɔgɔ ye min bɛ fɛ ka sɛnɛkɛ fɛnw dɔ-dɔ ka ɲɛ.
 
-## Dugukolo nɛnɛ
+## Argile dɔgɔ
 
-Dugukolo nɛnɛ walima dugukolo nɛnɛ min bɛ se ka tɔ, o bɛ se ka tɔ, ka tɔ ka kɔrɔ. Ka sɛbɛn kɛ ka sɛbɛn kɛ ka tɔ, ka tɔ kɛ ka tɔ. Dugukolo bɛ mɔgɔ ka kɔnɔ kɛ, o bɛ se ka dɛmɛ mɔgɔ min bɛ fɛn kɛ. Ka sɛbɛn kɛ ka tɛmɛ, ka fɛn ka gɛlɛya ka tɔ.
+Argile dɔgɔ walima argile min bɛ kɛ ka dɔgɔ ye, o bɛ se ka dɔgɔ, ka kɛ, ka ka kɛ ka ko. Ka kɔnɔ dɔ walima ka kɔnɔ kɔrɔ tɛrɛ kɛ. Argile ye fɛn ye min bɛ se ka mɔgɔ ka ɲɛ ni a ka bolo kɛ, o bɛ se ka hɛrɛ ni mɔgɔ min bɛ fɛ ka fɛn dɔw ka bolo. Ka fɛn bɛɛ kɛ ka bon, ani ka fɛn dɔ ni kɔrɔ min bɛ dɛ tɛ ni kɔrɔ.
 
-## Chalk pastel dugukolo sɛbɛn dɔ kɔrɔ
+## Pastel kɔlɔsi kɔnɔ kɔrɔ ni wulu sɛnɛkɛ
 
-Dugukolo sɛbɛn dɔ ka malo ɲɛ ka ɲɛ. Chalk pastel ka jɔ kɔrɔ, ka tɔ ka ɲɛ ka sɛbɛn kɛ, ka tɔ ka tɔ. Pastel bɛ ɲɛ kɛ, o kɔ ka sɛbɛn kɛ tɛrɛ kɔnɔ, ka kɔrɔ kɛ ka kɔrɔ ka kɔrɔ. Pastel ka jɔ kɔrɔ, ka tɔ kɛ ka sɛbɛn kɛ.
+Kɔnɔ kɔrɔ bɛ kɛ pastel kɔlɔsi ka ɲɛ. Pastel bon, ka kɔlɔsi ka kɛ ni ka ɲɛ dɔgɔ ye. A ka kɔlɔsi kɛ ni kɔrɔ ye min bɛ se ka wulu ni tɛmɛsiranko ye. Pastel bɛ kɛ ni ka dɔ bɛ se ka kɛ, o kɔfɛ ka bolo ka fɔ ka kɛ ka sɛnɛkɛ. Ka pastel min bɛ kɛ ka nɔgɔ, o kɔrɔ ka sɛbɛn.
 
-## Ɲɛnɛ malo ɲɛ kɛli
+## Ɲɔgɔn sɛnɛkɛ
 
-Ɲɛnɛ malo bɛ kɛ jurunalo kɔrɔ kɔrɔ kɔnɔ, ka malo ɲɛ ka ɲɛ, ka malo kɔrɔ ka sɛbɛn kɛ ka sɛbɛn kɔrɔ. Ka malo ɲɛ kɛ, ka tɔ ka kɔrɔ. O bɛ sɛbɛn kɛ ni [dɔ kɛ ni ɲɛnɛ kɛli ye](/activities/outdoor-and-gardening/), ani o bɛ fɔlɔ ka ɲɛnɛ malo ɲɛ kɛli ye.
+Ka ɲɔgɔn fɛnw ka fɛn ka bɔ, ni a bɛ kɛ ka kɔlɔsi dɔ ye min bɛ kɛ ni ji ye, ka ɲɔgɔn ka kɛ kɔnɔ kɔrɔ. Ka ɲɔgɔn fɛnw ka a ka kɔnɔ kɔrɔ ka kɛ ka sɛnɛkɛ. O kɔfɛ ka ɲɛ sɔrɔ. Sɛnɛkɛ ni kɔrɔ bɛ se ka kɛ ni [ɲɔgɔn ni kɛlɛ dɔw ye](/activities/outdoor-and-gardening/), o bɛ se ka kɛ ni taama ni ka ɲɔgɔn bɔ ka kɛ.
 
-## Tɛrɛ ni fini kɛli
+## Tɛrɛ ni fɛn ɲɛ
 
-Tɛrɛ ka tɛmɛ ka tɔ, fini ka ɲɛ kɛ kɔnɔ ni ɲɛ. O ye sɛbɛn ye min bɛ fan ka kɛ, ka tɛ kɛ ka tɔ. O bɛ se ka dɛmɛ mɔgɔ minnu bɛ kɔ fɔlɔ. Ka fɛn ka ɲɛ, [dɔnkili sɛbɛn ni malo ɲɛ kɛli](/activities/sensory/) kɛ.
+Ka tɛrɛ ka fɛn dɔw ka kɛ ka kɔnɔ kɔrɔ, walima ka fɛn dɔw ka labɛn ni ɲɛ ye. Olu ye sɛnɛkɛ kɛlɛ ye min tɛ ni dɔ kɛ. Olu bɛ kɛ mɔgɔ ye min bɛ kɔfɛ ka kɛ kɔfɛ. Ka [sɛnɛkɛ kɛlɛ dementia la mɔgɔw ye](/activities/sensory/) ka kalan.
 
-## Sɛbɛn lakanaw sugandi
+## Sɛnɛkɛ fɛnw sugandi
 
-Sɛbɛn lakanaw bɛ labɛn ni u ka ɲɛnamaya ye, ka sɛbɛn lakanaw sugandi, sɛbɛn kɛ ni u ka ɲɛnamaya ye. Ni i bɛ sugandi, i ka sɛbɛn lakanaw ka tɔ:
+Sɛnɛkɛ fɛnw ka kɛ ka di ni ka fɛn min bɛ ko ka kɛ, o ka bon ka kɛ ka di ni ɲɛ. Nin kɔrɔ ka ɲɛ:
 
-- **Non-toxic ani ji ka nɛnɛ:** Ka lakanaw ɲɛ min bɛ fɔ ko non-toxic, ani ka malo ɲɛ bɛ ji ka nɛnɛ.
-- **Bolo ka tɔ kɛ:** Crayons, brosi ka kɔrɔ ani pastel ka tɔ bɛ se ka bolo ka tɔ.
-- **Fɛn tɛmɛ tɛ:** Ka kɛ tɛ fɛn min bɛ se ka nin ka kɔnɔ kɛ.
-- **Ka sɛbɛn tɛ ni tiɲɛ:** Ka mankala ni tɔɔ kɛ, walima ka jurunalo ka tɔ.
-- **Allergies:** Ka latex ani ka ɲɛ ka tɔ ni tiɲɛ ye.
-- **Ka ɲɛ:** Malo ɲɛ kɔrɔ jurunalo tɛ ni dugukolo sɛbɛn kɔnɔ ka ɲɛ.
-- **Lakanaw tɔɔ:** Lakanaw saba walima fila ye tɛ ni bɛ se. Ka fɛn caman ka hakili ka kɛli ka fɛn ka ɲɛ.
-- **Ka sɛbɛn kɛli ka tɔ:** Ka tɔ, ka jurunalo ka tɔ ani ji ka nɛnɛ ɲɛ, walasa sɛbɛn ka kɛ ka kɛ kɛli ka tɛ kɛ ka tɔ.
+- **Tɛ ni kɛ ka di, ani ka sɛnɛkɛ ka bon:** Ka fɛn min bɛ kɛ ni "tɛ ni kɛ ka di" ye, ani ka ɲɛ ka kɔlɔsi ka bon.
+- **Bolo ka bon:** Kɔlɔsi ni ji kɔlɔsi ka bon, ka kɛ ka bolo ni dɔgɔ.
+- **Fɛn kɔrɔ tɛ:** Ka bɔ kɔlɔsi, bɔlɔ, sumanɛ, ani tɛrɛ min bɛ nɔgɔ tɛ.
+- **Fɛn kɔrɔ tɛ:** Ka sakɛli dɔ bɛ kɛ walima ka sɛnɛkɛ bɔ ni bolo ye.
+- **Dɔgɔ ni kɛlɛ:** Ka latɛks ka kɛ, ani ka kɛ ka ɲɛ.
+- **Kɔlɔsi kɔrɔ:** Kɔlɔsi kɛlɛ ni kɔrɔ min bɛ kɛ ka ɲɛ ni kɔnɔ fɛɛrɛ.
+- **Fɛn dɔgɔ:** Fɛn fila walima saba bɛ to. Fɛn caman bɛ hakili ɲɛ.
+- **Kɛlɛ ka kɛ ka fara:** Ka kɔnɔ fɛɛrɛ ni ji kɔlɔ ni dɔ kɛ, walasa kɛlɛ ka kɛ kɔfɛ.
 
-## Tuma ka sɛbɛn
+## Kɛlɛ ka waati ɲɛ
 
-Fɔlɔ tuma kɔnɔ, mɔgɔ caman bɛ se ka sɛbɛn ka kɛ ka dɛmɛ kɔrɔ. Tuma kɔnɔ kɔ, lakanaw tɔɔ ka dɛmɛ kɛ, ka kɔrɔ ka dɔ kɛ. Tuma kɔnɔ kɔ, fɛn ka kɛli ka ɲɛ, i ko dugukolo ka tiɲɛ walima jurunalo ka tɔ ni malo ɲɛ kɛli, ka sɛbɛn ka ɲɛ ka kɛ ka tɛmɛ.
+Fɔlɔ waati, mɔgɔ caman bɛ se ka kɛlɛ ka labɛn ani ka kɛ ni dɛmɛ dɔgɔ. Kɔfɛ waati, fɛn dɔgɔ sugandi ka kɛ, ani ka dɛmɛ caman kɛ. Kɔnɔ waati, ka kɛlɛ kɛ min bɛ kɛ ni bolo ye, i ko argile dɔgɔ kɛ walima ji kɔlɔsi ni kɔnɔ kɔrɔ, ani ka kɛlɛ ka sɔn ka kɛ ni ka fɛn kɛ.
 
-Tuma ka dɔ ka kɛli ka ɲɛ, i bɛ se ka [fɔlɔ tuma kɛli](/activities/early-stage/), [kɔrɔ tuma kɛli](/activities/middle-stage/) ani [kɔ tuma kɛli](/activities/late-stage/) ɲɛ. Ni mɔgɔ bɛ tɛ, walima ni o bɛ dɔ kɛ, [ni mɔgɔ bɛ fɔ ko ɔn tɛ](/caregiving/when-they-say-no/) ka kuntaala bɛ fɔ i ka kɔrɔ ka ɲɛ.
+Ka sɛnɛkɛ kɛlɛ ka kɛ waati ɲɛ ka fɔ, i bɛ se ka [fɔlɔ waati](/activities/early-stage/), [kɔfɛ waati](/activities/middle-stage/) ni [kɔnɔ waati kɛlɛ](/activities/late-stage/) ka kalan. Ni mɔgɔ ka ɲɛfɔ tɛ walima a ka hakili bɔ, [ni mɔgɔ bɛ fɔ ko ɔn](/caregiving/when-they-say-no/) ka kalan bɛ ɲɛfɔ ka kɛ ka sɔn.
 
-## Ka dɔ ni ɲɛnɛ kɛli
+## Ni tɛmɛsiranko dɔ ye
 
-Sɛbɛn kɔ, i bɛ se ka [malo ɲɛ kɛli](/games/coloring/) tablet kɔnɔ ka kɛ, ka tɛmɛ ka ɲɛ, walima [jurunalo ɲɛ](/games/picture-puzzle/) ka kɛ tɛmɛ kɔrɔ ye. Ɲɔgɔn bɛ bolo kɛ ka tɛmɛ, ka tɛ kɛ ka hakili ka kɛ ni ɲɛ ye.
+Ni ji kɔlɔsi ka kɔfɛ, i bɛ se ka [sɛnɛkɛ kɛlɛ](/games/coloring/) tablɛti kɔnɔ ka kɛ, ka tɛmɛsiranko ka ɲɛ, walima [tɛrɛ kɛlɛ](/games/picture-puzzle/) ka kɛ kɔfɛ ka kɛlɛ ta. Olu bɛɛ bɛ bolo ka kɛ, ka kɛlɛ bɛ kɛ ka sɛnɛkɛ kɛ min tɛ ni bɛ kɛ ka ɲɛ.

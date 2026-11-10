@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "איבערהיפּן צום הויפּט אינהאַלט",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "אַקטיוויטעטן פֿאַר מענטשן מיט דעמענץ",
+    "homeLabel": "Golden Moments – הײם",
+    "mainNav": "הויפּט מעניו",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "ייִдиш",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: גרויסע, פֿרײַנדלעכע בילדער פֿון אַ טעפּל טיי, אַ זונרויז און אַ הינטל",
+    "languages": "שפּראַך",
+    "englishOnly": "(ענגליש)",
+    "machineTranslated": "די דאָזיקע זײַט איז איבערגעזעצט געוואָרן אויטאָמאַטיש און איז נאָך נישט איבערגעקוקט געוואָרן דורך אַ מוטערשפּראַכיקן רעדנער.",
+    "readOriginal": "לייענען דעם אָריגינאַל אויף ענגליש",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "שפּילן",
+      "activities": "אַקטיוויטעטן",
+      "caregiving": "באַגלייטונג און זאָרג",
+      "brainHealth": "געזונט פֿונעם מוח"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "פֿראַגעס און ענטפֿערס",
+    "breadcrumb": "נאַוויגאַציע-וועג",
+    "home": "הײם",
+    "lastUpdated": "לעצט דערהײַנטיקט",
+    "topics": "טעמעס",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "גרייס פֿון טעקסט",
+      "smaller": "געוויינטלעכער טעקסט",
+      "larger": "גרעסערער טעקסט",
+      "contrast": "העכערער קאָנטראַסט"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "שפּילן",
+    "picturePairs": "בילדער-פּאָרן",
+    "conversationCards": "שמועס-קאַרטלעך",
+    "pictureBingo": "בילדער-בינגאָ",
+    "allGames": "אַלע שפּילן",
+    "pictures": "בילדער צום דרוקן",
+    "activityIdeas": "אידעען פֿאַר אַקטיוויטעטן",
+    "ideas101": "101 אידעען פֿאַר אַקטיוויטעטן",
+    "lateStage": "אַקטיוויטעטן פֿאַר שפּעטערע שטאַפּלען",
+    "printable": "אַקטיוויטעטן צום אויסדרוקן",
+    "allActivities": "אַלע אַקטיוויטעטן",
+    "forCaregivers": "פֿאַר באַגלייטער",
+    "playTogether": "ווי אַזוי צו שפּילן צוזאַמען",
+    "selfCare": "זאָרגן פֿאַר זיך אַליין",
+    "brainHealth": "פֿאָרשונג וועגן געזונט פֿונעם מוח",
+    "faq": "פֿראַגעס און ענטפֿערס",
+    "about": "וועגן אונדז",
+    "approach": "אונדזער צוגאַנג",
+    "howWeWrite": "ווי אַזוי מיר שרײַבן",
+    "organizations": "פֿאַר אָרגאַניזאַציעס",
+    "app": "די Golden Moments אַפּליקאַציע",
+    "appHelp": "הילף מיט דער אַפּליקאַציע",
+    "support": "שטיצע",
+    "legal": "לעגאַלע אינפֿאָרמאַציע",
+    "sitePrivacy": "פּריוואַטקייט אויפֿן וועבזײַטל",
+    "appPrivacy": "פּריוואַטקייט-פּאָליסי פֿון דער אַפּליקאַציע",
+    "privacyChoices": "אײַערע פּריוואַטקייט-ברירות",
+    "terms": "באַניץ-באַדינגונגען און אַפּ-ליצענץ",
+    "safety": "זיכערקייט און באַשטימטער באַניץ",
+    "accessibility": "צוטריטלעכקייט",
+    "healthNotice": "באַמערקונג וועגן געזונט-אינפֿאָרמאַציע",
+    "allLegal": "אַלע לעגאַלע פּרטים",
+    "note": "Golden Moments אָפֿערט פּשוטע געמיינזאַמע אַקטיוויטעטן פֿאַר פֿאַרגעניגן. עס איז נישט קיין רפואה-עצה, נישט קיין פּראָבע און נישט קיין היילונג, און עס גיט נישט קיין דיאַגנאָזן, מעסטונגען אָדער פּונקטן. פֿאַר געזונט-פֿראַגעס, ווענדט זיך צו אַ דאָקטער. אין אַ נויטפֿאַל, רופֿט 911.",
+    "publisher": "פֿאַרעפֿנטלעכט דורך Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "שפּילן און אַקטיוויטעטן פֿאַר מענטשן מיט דעמענץ און אַלצהײַמער | Golden Moments",
+    "description": "פֿרײַע, רויִקע בילדער-שפּילן אויפֿן קאָמפּיוטער און אידעען פֿאַר אַקטיוויטעטן פֿאַר מענטשן וואָס לעבן מיט דעמענץ אָדער אַלצהײַמער און פֿאַר זייערע באַגלייטער. אָן רעגיסטראַציע, זייגערס אָדער פּונקטן.",
+    "eyebrow": "בחינם · אָן רעקלאַמעס · אָן רעגיסטראַציע · אָן זייגערס אָדער פּונקטן",
+    "h1": "רויִקע שפּילן און אַקטיוויטעטן פֿאַר מענטשן וואָס לעבן מיט דעמענץ",
+    "lede": "פּשוטע בילדער-שפּילן, באַקאַנטע פֿאָטאָגראַפֿיעס און אַקטיוויטעטן צו געניסן צוזאַמען—אין אײַער אייגענעם טעמפּאָ.",
+    "playGame": "שפּילן אַ שפּיל",
+    "findIdeas": "געפֿינען אידעען פֿאַר אַקטיוויטעטן",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "אַרבעט אויפֿן טעלעפֿאָן, טאַבלעט און קאָמפּיוטער",
+      "גרויסע בילדער וואָס בלײַבן אויפֿן עקראַן",
+      "מע קען זיך אָפּשטעלן ווען מע וויל; גאָרנישט קען נישט דורכפֿאַלן"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "אויך אַ פֿרײַע אַפּליקאַציע פֿאַר iPhone, iPad און Android, מיט אײַערע אייגענע משפּחה-פֿאָטאָס",
+    "albumNote": "„צוויי בילדער פֿונעם טעפּל טיי, צוזאַמען.“",
+    "gamesEyebrow": "שפּילן גלייך אין בראַוזער",
+    "gamesTitle": "שפּילן וואָס איר קענט שפּילן שוין איצט",
+    "gamesLede": "יעדע שפּיל איז רויִק, פּאַסיק פֿאַר דערוואַקסענע און הויבט זיך אָן שנעל. קלײַבט אויס איינע, זעצט זיך איינער לעבן צווייטן, און דריקט אויפֿן עקראַן מיט דער ריי.",
+    "seeAllGames": "זען אַלע {count} שפּילן",
+    "howTitle": "ווי אַזוי עס אַרבעט",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "קלײַבט אויס עפּעס באַקאַנט",
+        "text": "בילדער פֿון טעפּלעך טיי, גערטנער, הויז-חיות און שיפֿלעך. מע דאַרף גאָרנישט לייענען אָדער לערנען קיין כּללים פֿריִער."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "זיצט איינער לעבן צווייטן",
+        "text": "לאָזט יענעם דריקן. שמועסט וועגן די בילדער. אויב צוויי בילדער שטימען נישט, וואַרט עס פּשוט אויפֿן נעקסטן דריק."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "שטעלט זיך אָפּ ווען עס פֿילט זיך נאָך גוט",
+        "text": "איין שפּיל איז שוין אַ גאַנצע אַקטיוויטעט. דער קנעפּל „גענוג פֿאַר איצט“ איז שטענדיק אויפֿן עקראַן."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "ווײַטער פֿונעם עקראַן",
+    "stageTitle": "אידעען פֿאַר אַקטיוויטעטן אויף יעדן שטאַפּל",
+    "stageLede": "מוזיק, טאָג-טעגלעכע מלאכות, דערמאָנען זיך אין אַמאָל און שטילע חושים-מאָמענטן, צוגעפּאַסט צו וואָס איז באַקוועם איצט.",
+    "ideas101": "101 אידעען פֿאַר אַקטיוויטעטן",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "ערשטער שטאַפּל",
+        "text": "פֿאָרזעצן צו טאָן וואָס יענער האָט ליב, מיט קליינע צופּאַסונגען: באַליבטע פֿאַרווײַלונגען, אַרויסגיין, וואָרט-שפּילן און פּלאַנירן צוזאַמען.",
+        "label": "אידעען פֿאַרן ערשטן שטאַפּל"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "מיטעלער שטאַפּל",
+        "text": "פּשוטע, באַקאַנטע מלאכות צעטיילט אויף קליינע טריט: פֿאָלטן וועש, סאָרטירן, מוזיק, בילדער-שפּילן און קורצע שפּאַצירן.",
+        "label": "אידעען פֿאַרן מיטעלן שטאַפּל"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "שפּעטערער שטאַפּל",
+        "text": "טרייסט און נאָענטקייט דורך באַרירן, קלאַנג און זען: פּאַשען די הענט, באַליבטע לידער, פֿאָטאָס און פֿאַרברענגען צוזאַמען.",
+        "label": "אידעען פֿאַרן שפּעטערן שטאַפּל"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "זוכט איר עפּעס ספּעציעל? פּרוּוּוט <a href=\"/activities/alzheimers/\">אַקטיוויטעטן און שפּילן פֿאַר אַלצהײַמער</a>, <a href=\"/activities/memory-games/\">רויִקע זכּרון-שפּילן</a>, <a href=\"/activities/trivia/\">גרינגע וויסן-פֿראַגעס</a> אָדער <a href=\"/activities/puzzles/\">רעטענישן</a>.",
+    "approachEyebrow": "אונדזער צוגאַנג",
+    "approachTitle": "אַ געמיינזאַמע אַקטיוויטעט, נישט קיין זכּרון-פּראָבע",
+    "approachLede": "אַ סך „מוח-שפּילן“ זענען געבויט אויף גיכקייט, פּונקטן און דערפֿאָלג-רייען. פֿאַר עמעצן וואָס לעבט מיט דעמענץ קען דאָס פֿילן ווי אַן עקזאַמען. מיר האָבן געשאַפֿן דאָס פּינקטלעכע פֿאַרקערטע.",
+    "approachLink": "פֿאַרוואָס מיר געשטאַלטן עס אַזוי",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "גאָרנישט קען נישט דורכפֿאַלן",
+        "text": "קיין זייגער, קיין פּונקטן, קיין לעבנס און קיין פֿאַרלירן. אַן אַנדער בילד איז בלויז אַ רו, נישט קיין טעות."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "בילדער בלײַבן אָפֿן",
+        "text": "דערקענען אָנשטאָט געדענקען. די פּאָרן הייבן זיך אָן מיטן פּנים אַרויף, אַזוי עס איז נישטאָ וואָס צו געדענקען אויף אויסווייניק."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "דערוואַקסן און כּבֿודיק",
+        "text": "וואַרעמע, פּשוטע ווערטער און אמתע בילדער פֿון דער וועלט. קיינמאָל קיין קאַרטונס אָדער קינדערישע שפּראַך."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "געבויט פֿאַר פּריוואַטקייט",
+        "text": "אָן קאָנטאָס און אָן רעקלאַמעס. אײַערע פֿאָטאָס גייען קיינמאָל נישט אַרויס פֿון אײַער מכשיר."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "פֿאַר באַגלייטער",
+    "guidesTitle": "פּראַקטישע וועגווײַזערס פֿאַר טאָג-טעגלעכער באַגלייטונג",
+    "allCaregiving": "אַלע באַגלייטונג-וועגווײַזערס",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "ווי אַזוי צו שפּילן שפּילן צוזאַמען",
+        "text": "צושטעלן די סבֿיבֿה, דער טעמפּאָ, און וואָס צו טאָן ווען אַ שפּיל הערט אויף צו זײַן אָנגענעם."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "ווען יענער זאָגט ניין אויף אַן אַקטיוויטעט",
+        "text": "געוויינטלעכע סיבות פֿאַר אָפּזאָגן זיך, און פֿאָרזיכטיקע וועגן ווי צו פּרוּוון ווידער שפּעטער."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "צושטעלן אַ טאַבלעט",
+        "text": "גרעסערער טעקסט, ווייניקער שטרויכלונגען און איין פּשוטער הויפּט-עקראַן."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "פֿרײַע אַקטיוויטעטן צום אויסדרוקן",
+        "text": "וואָרט-זוכענישן מיט גרויסע אותיות, מאָל-בלעטער, בינגאָ און שמועס-קאַרטלעך."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "געזונט פֿונעם מוח: וואָס די פֿאָרשונג זאָגט באמת",
+    "researchText": "קען מען פֿאַרהיטן דעמענץ? העלפֿן מוח-שפּילן? וואָס איז מיט תּעניתים, שפּײַז, שלאָף און הערן? פּשוטע, פֿאַרלאָזלעכע ענטפֿערס באַזירט אויף מקורות, אַרײַנגערעכנט וווּ די באַווײַזן זענען שוואַך.",
+    "researchLink": "לייענען די פֿאָרשונג-וועגווײַזערס",
+    "appEyebrow": "אויך אַן אַפּליקאַציע",
+    "appTitle": "Golden Moments אויף iPhone, iPad און Android",
+    "appText": "די פֿרײַע אַפּליקאַציע אַרבעט אָן אינטערנעץ און קען נוצן משפּחה-פֿאָטאָס וואָס איר קלײַבט אויס, געהיט ווי קאָפּיעס בלויז אויף אײַער מכשיר. דער זעלבער רויִקער אויפֿשטעל: פֿיר גרויסע קעסטלעך, קיין זייגער, קיין פּונקטן.",
+    "aboutApp": "וועגן דער אַפּליקאַציע",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "וואָס זענען גוטע שפּילן פֿאַר מענטשן מיט דעמענץ?",
+        "a": "גוטע שפּילן זענען פּשוט, באַקאַנט און אָן קיין דרוק: גרויסע בילדער צו פֿאַרבינדן אין פּאָרלעך, סאָרטירן, גרינגע פּאַזלס, ענדיקן באַקאַנטע שפּריכווערטער, פֿאַרביקן, בילדער־בינגאָ און שמועס־קאַרטלעך. דער בעסטער אויסוואַל איז דאָס וואָס דער מענטש האָט ליב הײַנט. פֿאַרמײַדט זײגערלעך, פּונקטן און אַלץ וואָס פֿילט זיך ווי אַ פּרוּוו."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "זענען די שפּילן פֿאַר מענטשן מיט דעמענץ פֿרײַ פֿון אָפּצאָל?",
+        "a": "יאָ. יעדע שפּיל און בויגן צום דרוקן אויף Golden Moments איז פֿרײַ פֿון אָפּצאָל, אָן קיין קאָנטאָ, אײַנשרײַבונג אָדער אַראָפּלאָדן. די שפּילן אַרבעטן גלײַך אינעם בלעטערער אויפֿן טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "קענען מוח־שפּילן פֿאַרהיטן דעמענץ?",
+        "a": "קיין שפּיל האָט נישט באַוויזן צו פֿאַרהיטן דעמענץ, און Golden Moments זאָגט נישט אַז עפּעס היילט אָדער פֿאַרהיט קראַנקהייט. אונדזערע שפּילן זענען געמאַכט פֿאַר פֿאַרגעניגן און פֿאַרברענגען צוזאַמען. אונדזער אָפּטייל וועגן מוח־געזונט דערקלערט וואָס פֿאָרשונגען ווײַזן יאָ און וואָס נישט."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "זענען די שפּילן פּאַסיק פֿאַר עמעצן מיט אַלצהײַמער?",
+        "a": "יאָ. אַלצהײַמער־קרענק איז די סאַמע אָפֿטסטע סיבה פֿון דעמענץ, און די שפּילן זענען געמאַכט פּונקט דערפֿאַר: גרויסע בילדער וואָס בלײַבן אויפֿן עקראַן, ווייניק ברירות, און גאָרנישט וואָס מע דאַרף געדענקען אָדער מאַכן אַ טעות. צונויפֿפּאָרן, סאָרטירן און ענדיקן באַקאַנטע שפּריכווערטער שטיצן זיך אויף לאַנג־יאָריקן וויסן אײדער אויף נײַעם לערנען."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "קען עמעצער אין אַ שפּעטערער שטאַפּל פֿון דעמענץ ניצן די דאָזיקע אַקטיוויטעטן?",
+        "a": "אָפֿטמאָל יאָ, צוזאַמען מיט עמעצן לעבן זיי. הייבט אָן מיט „געפֿין דאָס זעלבע‟ מיט צוויי בילדער, „בילדער־פּאָרלעך‟ מיט פֿיר קעסטלעך, אַ בלאַט צום פֿאַרביקן אָדער אַ רויִקע אָטעם־פּויזע. האַלט עס קורץ, גייט לויט זייער קצבֿ, און שטעלט זיך אָפּ ווען עס איז זיי גענוג."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "איז מײַן אינפֿאָרמאַציע פּריוואַט?",
+        "a": "דער וועבזײַטל האָט נישט קיין קאָנטאָס און קיין רעקלאַמעס. מיר ניצן Google Analytics כּדי צו פֿאַרשטיין וועלכע בלעטער מע באַזוכט. פֿאָטאָגראַפֿיעס וואָס איר קלײַבט אויס פֿאַר „פֿאָטאָ־פּאָרלעך‟ ווײַזן זיך בלויז אין אײַער בלעטערער און ווערן קיינמאָל נישט אַרויפֿגעלאָדן."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "ווער מאַכט Golden Moments?",
+        "a": "Golden Moments איז אַ קליינע גרופּע וואָס שאַפֿט רויִקע, דערוואַקסענע בילדער־אַקטיוויטעטן פֿאַר משפּחות און באַזאָרגער, אויפֿן וועב און ווי אַן אַפּליקאַציע פֿרײַ פֿון אָפּצאָל. מיר זענען נישט קיין דאָקטוירים, און גאָרנישט דאָ איז נישט קיין רפֿואה־עצה."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "פֿריִערדיק",
+    "middle": "מיטל",
+    "late": "שפּעטערדיק",
+    "hintOne": "פּאַסט אָפֿט פֿאַרן {list} שטאַפּל",
+    "hintMany": "פּאַסט אָפֿט פֿאַר די {list} שטאַפּלען",
+    "labelEarly": "פֿריִערדיקער שטאַפּל",
+    "labelMiddle": "מיטעלער שטאַפּל",
+    "labelLate": "שפּעטערדיקער שטאַפּל"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "וועגן דער דאָזיקער שפּיל",
+    "printable": "צום דרוקן",
+    "play": "שפּילט {name} →",
+    "readGuide": "לייענט דעם וועגווײַזער"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "גרייט פֿאַר אַ רויִקער שפּיל?",
+    "text": "גרויסע בילדער, אָן קיין זײגערל, אָן קיין פּונקטן און אָן קיין אײַנשרײַבונג. שפּילט צוזאַמען אין אײַער בלעטערער.",
+    "play": "שפּילט אַ שפּיל",
+    "all": "זעט אַלע שפּילן",
+    "aria": "שפּילן אַ שפּיל"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "נעמט די שפּילן מיט זיך",
+    "text": "די פֿרײַע Golden Moments אַפּליקאַציע פֿאַר iPhone, iPad און Android: גרויסע בילדער־קעסטלעך, שפּילן מיט אײַערע אייגענע משפּחה־פֿאָטאָס, און בילדער־פּעקלעך וואָס אַרבעטן אָן Wi‑Fi. אָן קיין קאָנטאָ, רעקלאַמעס, זײגערל אָדער פּונקטן.",
+    "appStore": "באַקומט עס אויפֿן App Store",
+    "googlePlay": "באַקומט עס אויף Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "וועגן דער אַפּליקאַציע",
+    "aria": "באַקומען די אַפּליקאַציע"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "אַקטיוויטעטן",
+      "title": "אַקטיוויטעטן פֿאַר מענטשן וואָס לעבן מיט דעמענץ",
+      "seo": "אַקטיוויטעטן פֿאַר מענטשן וואָס לעבן מיט דעמענץ: אידעען לויט שטאַפּל",
+      "description": "אידעען פֿאַר אַקטיוויטעטן פֿאַר מענטשן וואָס לעבן מיט דעמענץ אויף יעדן שטאַפּל: מוזיק, דערמאָנונגען, טאָג־טעגלעכע מלאכות, חושים־מאָמענטן, האַנטאַרבעט, אין דרויסן און בלעטער צום דרוקן פֿרײַ פֿון אָפּצאָל.",
+      "lede": "אַ באַדײַטנדיקע אַקטיוויטעט איז אַלץ וואָס ברענגט נחמה, אַ ציל אָדער אַ מאָמענט פֿון נאָענטקייט. הייבט אָן מיט דעם וואָס דער מענטש האָט תּמיד ליב געהאַט, און פּאַסט עס צופֿאַס צו הײַנט."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "באַזאָרגונג",
+      "title": "וועגווײַזערס פֿאַר באַזאָרגער",
+      "seo": "וועגווײַזערס פֿאַר באַזאָרגער: פּראַקטישע טאָג־טעגלעכע הילף",
+      "description": "פּראַקטישע, וואַרעמע וועגווײַזערס פֿאַר באַזאָרגער פֿון מענטשן מיט דעמענץ: שפּילן צוזאַמען, קאָמוניקאַציע, אָפּזאָגן, אומרויִקייט פֿאַרנאַכט, טאַבלעטן, אויסקלײַבן אַפּליקאַציעס און זאָרגן פֿאַר זיך אַליין.",
+      "lede": "פּשוטע, פּראַקטישע הילף פֿאַר די טאָג־טעגלעכע מאָמענטן פֿון זאָרגן פֿאַר עמעצן וואָס לעבט מיט דעמענץ, אַרײַנגערעכנט זאָרגן פֿאַר זיך אַליין."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "מוח־געזונט",
+      "title": "מוח־געזונט: וואָס די פֿאָרשונג זאָגט",
+      "seo": "מוח־געזונט און דעמענץ־ריזיקע: וואָס די פֿאָרשונג זאָגט",
+      "description": "קען מען פֿאַרהיטן דעמענץ? ערלעכע, באַגרינדעטע וועגווײַזערס וועגן ריזיקע־פֿאַקטאָרן פֿון דעמענץ, מוח־שפּילן, פֿאַסטן, שפּײַז, באַוועגונג, שלאָף, געהער און פֿריִע וואָרענונג־צייכנס.",
+      "lede": "וואָס גרויסע פֿאָרשונגען ווײַזן טאַקע וועגן פֿאַרמינערן די ריזיקע פֿון דעמענץ, פּשוט דערקלערט, אַרײַנגערעכנט וווּ די באַווײַזן זענען שוואַך אָדער געמישט. אַלגעמיינע אינפֿאָרמאַציע, נישט קיין רפֿואה־עצה."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "באַנײַט",
+    "minuteRead": "{n} מינוט לייענען",
+    "byTeam": "פֿון דער Golden Moments גרופּע",
+    "howWeWrite": "ווי מיר שרײַבן",
+    "shortAnswer": "דער קורצער ענטפֿער",
+    "onThisPage": "אויף דעם בלאַט ({n} אָפּטיילן)",
+    "commonQuestions": "אָפֿטע פֿראַגעס",
+    "sources": "קוואַלן",
+    "sourcesNote": "מיר פֿאַרבינדן צו די אָרגאַניזאַציעס און פֿאָרשונגען אויף וועלכע דער בלאַט שטיצט זיך. יעדער איינער איז איבערגעקוקט געוואָרן ווען דער בלאַט איז באַנײַט געוואָרן.",
+    "tryTogether": "פּראָבירט צוזאַמען",
+    "relatedGuides": "פֿאַרבונדענע וועגווײַזערס",
+    "related": "פֿאַרבונדן",
+    "startHere": "הייבט אָן דאָ"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "מעלדונג וועגן געזונט־אינפֿאָרמאַציע",
+    "title": "אַלגעמיינע אינפֿאָרמאַציע, נישט קיין רפֿואה־עצה",
+    "textHtml": "דער דאָזיקער בלאַט גיט איבער אַ קיצור פֿון פֿאַרעפֿנטלעכטע פֿאָרשונגען פֿאַר משפּחות. ער קען אײַך נישט זאָגן וואָס איז ריכטיק פֿאַר אַ באַזונדערן מענטש. רעדט מיט אַ דאָקטער איידער איר בײַט די שפּײַז, באַוועגונג, שלאָף, מעדיקאַמענטן אָדער תּוספֿות. בײַ אַ פּלוצעמדיקער צעטומלטקייט אָדער אַנדערע פּלוצעמדיקע ענדערונגען, ווענדט זיך באַלד נאָך מעדיצינישער הילף. <a href=\"/medical-disclaimer/\">לייענט אונדזער מעלדונג וועגן געזונט־אינפֿאָרמאַציע</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "אַ געמיינזאַמע אַקטיוויטעט, נישט קיין זכּרון־פּרוּוו",
+      "seoTitle": "וועגן Golden Moments: אונדזער צוגאַנג",
+      "description": "פֿאַרוואָס די Golden Moments שפּילן האָבן נישט קיין זײגערלעך, פּונקטן אָדער רייען, פֿאַרוואָס בילדער בלײַבן אויפֿן עקראַן, און וואָס מיר זאָגן יאָ און וואָס נישט וועגן דעמענץ.",
+      "crumb": "אונדזער צוגאַנג",
+      "lede": "Golden Moments שאַפֿט רויִקע, דערוואַקסענע בילדער־אַקטיוויטעטן וואָס אַ באַזאָרגער און עמעצער וואָס לעבט מיט דעמענץ קענען הנאה האָבן פֿון זיי זײַט בײַ זײַט.",
+      "bodyHtml": "<h2>וואָס מיר גלויבן</h2><p>דער גאַנצער ציל פֿון אַן אַקטיוויטעט איז דער מאָמענט אַליין: אַ שמועס, אַ שמייכל, דאָס פֿאַרגעניגן פֿון צונויפֿשטעלן צוויי בילדער, אָדער פּשוט זיצן נאָענט צוזאַמען. עס איז נישט פֿאַר מעסטן יענעם, נישט צו שטופּן ווייַטער, און נישט עפּעס אויפֿצוווייַזן.</p><p>אַ סך אַפּליקאַציעס פֿאַר „מוח־טרענירונג“ זענען געבויט אַרום גיכקייט, פּונקטן, רייען און שטאַפּלען. פֿאַר אַ מענטש וואָס לעבט מיט דעמענציע קען דאָס פֿילן ווי אַן עקזאַמען וואָס מע קען נישט דורכמאַכן. מיר האָבן געשאַפֿן פּונקט דאָס פֿאַרקערטע, און מיר האַלטן זיך בייַ די דאָזיקע כּללים:</p><ul><li><strong>נישטאָ וואָס דורכצופֿאַלן.</strong> קיין זייגער, קיין פּונקטן, קיין טריט־ציילער, קיין לעבנס, קיין סעריעס, קיין קאָנפֿעטי אָדער אָפּציילונגען, אויף קיין שום עקראַן.</li><li><strong>דערקענען איידער געדענקען.</strong> בילדער בלייַבן אָפֿן פֿון זיך אַליין. די פֿראַגעס רופֿן אַרויס אַ שמועס און פֿאַרהערן קיינמאָל נישט אויף נעמען אָדער זכרונות.</li><li><strong>גרויס, פּשוט און פעסט.</strong> גרויסע אותיות און בילדער, הויכער קאָנטראַסט, און קנעפּלעך וואָס בלייַבן אויפֿן זעלבן אָרט.</li><li><strong>כּבֿוד פֿאַר דערוואַקסענע.</strong> פֿאַקטישע בילדער פֿון דער וועלט און פּשוטע, וואַרעמע ווערטער. קיין קאַריקאַטורן, קיין קינדערישע לויב־געזאַנגען, און קיין עמאָדזשי־באַלוינונגען.</li><li><strong>אַ גרינגער וועג אַרויס.</strong> „גענוג פֿאַר איצט“ איז שטענדיק צו זען. זיך אָפּשטעלן אויפֿן האַלבן וועג איז אַ גוטער רעזולטאַט.</li><li><strong>פּריוואַט פֿון זיך אַליין.</strong> קיין קאָנטאָס און קיין רעקלאַמעס. בילדער וואָס איר קלייַבט אויס בלייַבן אויף אייַער מכשיר.</li></ul><h2>וואָס מיר זאָגן נישט צו</h2><p>אונדזערע שפּילן זענען פֿאַר הנאה און פֿאַרבינדונג. זיי טוען נישט דיאַגנאָזירן, בוחן זיין, מעסטן, באַהאַנדלען, פֿאַרהאַלטן אָדער פֿאַרהיטן דעמענציע אָדער אַלצהיימערס קרענק, און קיינער זאָל זיי נישט אויסקלייַבן צוליב דעם. ווען מיר שרייַבן וועגן פֿאָרשונגען אויף אונדזערע <a href=\"/brain-health/\">זייַטלעך וועגן מוח־געזונט</a>, זאָגן מיר קלאָר און פּשוט וווּ די באַווייַזן זענען שוואַך, און מיר פֿאַרבינדן דאָס קיינמאָל נישט מיט אונדזערע אייגענע שפּילן.</p><h2>ווער מיר זענען</h2><p>Golden Moments איז אַ קליינע, אומאָפּהענגיקע גרופּע. מיר זענען נישט קיין קליניקערס. אונדזערע וועגווייַזערס ווערן געשריבן אויפֿן יסוד פֿון פֿאַרעפֿנטלעכטע אָנווייַזונגען פֿון אָרגאַניזאַציעס ווי דער National Institute on Aging און די Alzheimer’s Association, און יעדער וועגווייַזער רעכנט אויס זייַנע מקורות. ליינט <a href=\"/editorial-policy/\">ווי אַזוי מיר שרייַבן און קאָנטראָלירן אונדזערע זייַטלעך</a>.</p><h2>זאָגט אונדז וואָס קען העלפֿן</h2><p>מיר וואָלטן זייער געוואָלט הערן וואָס אַרבעט פֿאַר אייך און וואָס נישט, באַזונדערס פֿון מענטשן וואָס לעבן מיט דעמענציע, משפּחה־באַזאָרגערס און אַקטיוויטעט־פּערסאָנאַל. שרייַבט אַן אימעיל צו <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "ווי אַזוי מיר שרייַבן און קאָנטראָלירן אונדזערע זייַטלעך",
+      "seoTitle": "רעדאַקציע־פּאָליטיק",
+      "description": "ווי אַזוי Golden Moments פֿאָרשט, שרייַבט, ברענגט מקורות און באַנייט די זייַטלעך וועגן דעמענציע־אַקטיוויטעטן און מוח־געזונט, און וואָס מיר וועלן קיינמאָל נישט פֿאַרעפֿנטלעכן.",
+      "crumb": "רעדאַקציע־פּאָליטיק",
+      "bodyHtml": "<h2>אונדזערע מקורות</h2><p>מיר בויען אונדזערע וועגווייַזערס אויף עפֿנטלעכע אָנווייַזונגען פֿון אָרגאַניזאַציעס ווי דער National Institute on Aging, דער CDC, די Alzheimer’s Association, די Alzheimer’s Foundation of America, די Family Caregiver Alliance און דער NHS, און אויף וויסנשאַפֿטלעך איבערגעקוקטע פֿאָרשונגען ווי Cochrane reviews און גרויסע קלינישע פּראָבעס. יעדער וועגווייַזער רעכנט אויס די מקורות אויף וועלכע ער שטיצט זיך. מיר עפֿענען יעדן מקור איידער מיר ציטירן אים, און מיר באַריכטן נאָר וואָס ער זאָגט טאַקע.</p><h2>ווי מיר שרייַבן</h2><ul><li>פּראַקטיש קודם־כּל: וואָס צו טאָן הײַנט, אין אַ פּשוטער שפּראַך.</li><li>אויפֿריכטיק וועגן באַווייַזן: מיר זאָגן „פֿאַרבונדן מיט“, „קען“ און „די באַווייַזן זענען געמישט“ ווען דאָס איז דער אמת.</li><li>כּבֿודיק: מיר שרייַבן וועגן מענטשן וואָס לעבן מיט דעמענציע ווי דערוואַקסענע, און מיר נוצן קיינמאָל נישט קיין פֿאַרהערנדיקע אָדער שעמענדיקע שפּראַך.</li><li>קיין אויסגעטראַכטער אינהאַלט: קיין אויסגעטראַכטע סטאַטיסטיק, ציטאַטן, מומחים, פֿאָרשונגען, אָפּשאַצונגען אָדער רעקאָמענדאַציעס.</li></ul><h2>ווער עס קאָנטראָלירט אונדזערע זייַטלעך</h2><p>די זייַטלעך ווערן געשריבן און קאָנטראָלירט דורך דער Golden Moments גרופּע, מיט דער הילף פֿון AI שרייַב־מכשירים פֿאַר פֿאָרשונג און שאַפֿן ערשטע וואַריאַנטן. יעדער בלאַט ווערט איבערגעקוקט קעגן זייַנע מקורות דורך דער גרופּע. אונדזערע זייַטלעך זענען <strong>נישט</strong> איבערגעקוקט געוואָרן דורך אַ דאָקטער אָדער אַן אַנדער קליניקער, און מיר זאָגן נישט אַנדערש. זיי זענען אַלגעמיינע אינפֿאָרמאַציע, נישט קיין מעדיצינישע עצה.</p><h2>וואָס מיר וועלן קיינמאָל נישט פֿאַרעפֿנטלעכן</h2><ul><li>טענות אַז אַ שפּיל, מאכל, צוגאָב, פֿאַסטן אָדער סדר־היום פֿאַרהיט, באַהאַנדלט, פֿאַרהאַלט אָדער היילט אויס דעמענציע.</li><li>טעסטן, פֿאַרהערן אָדער פּונקטן וואָס לאָזן פֿאַרשטיין אַז עמעצער האָט, אָדער האָט נישט, דעמענציע.</li><li>עצות אָנצוהייבן, אויפֿצוהערן אָדער צו ענדערן סייַ וועלכע רפֿואה.</li><li>רעקלאַמעס אָדער באַצאָלטער אינהאַלט פֿאַרשטעלט ווי אַ וועגווייַזער.</li></ul><h2>באַנײַונגען און פֿאַרריכטונגען</h2><p>יעדער בלאַט ווייַזט דעם דאַטום ווען ער איז לעצטנס באַנײַט געוואָרן. אויב איר געפֿינט אַ גרייַז אָדער אַ מקור וואָס איז מער נישט אַקטועל, ביטע שרייַבט אַן אימעיל צו <a href=\"mailto:{email}\">{email}</a> און מיר וועלן עס שנעל קאָנטראָלירן.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "פֿראַגעס און ענטפֿערס",
+      "seoTitle": "שפּילן און אַקטיוויטעטן פֿאַר דעמענציע: פֿראַגעס און ענטפֿערס",
+      "description": "ענטפֿערס אויף אָפֿטע פֿראַגעס וועגן שפּילן און אַקטיוויטעטן פֿאַר דעמענציע: וועלכע שפּילן צו פּרובירן, ווי לאַנג צו שפּילן, געדאַנקען פֿאַר שפּעטערע שטאַפּלען, מוח־געזונט און פּריוואַטקייט.",
+      "crumb": "פֿראַגעס און ענטפֿערס",
+      "lede": "קורצע, פּשוטע ענטפֿערס אויף די פֿראַגעס וואָס באַזאָרגערס פֿרעגן דאָס מערסטע.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "וועגן די שפּילן",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "וואָס זענען די בעסטע שפּילן פֿאַר אַ מענטש וואָס לעבט מיט דעמענציע?",
+              "a": "די בעסטע שפּילן זענען באַקאַנטע, פּשוטע און אָן קיין דרוק, און די פּאַסיקסטע איז סייַ וואָס פֿאַרשאַפֿט דעם מענטש הנאה הײַנט. צונויפֿפּאַסן בילדער וווּ ביידע בילדער בלייַבן אָפֿן, סאָרטירן, גרינגע פּאַזלס, ענדיקן באַקאַנטע שפּריכווערטער, מאָלן און בילדער־בינגאָ אַרבעטן זייער גוט פֿאַר אַ סך מענטשן. פֿאַרמייַדט טייַמערס, פּונקטן און אַלץ וואָס פֿילט זיך ווי אַ פּרואוו."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "זענען די שפּילן טאַקע בחינם?",
+              "a": "יאָ. אַלע שפּילן און דרוק־מאַטעריאַלן זײַנען פֿרײַ און בחינם, אָן קיין קאָנטע, רעגיסטראַציע, אַראָפּלאָדן אָדער רעקלאַמעס."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "פֿאַרוואָס זײַנען ניטאָ קיין פּונקטן, שטאַפּלען אָדער טײַמערס?",
+              "a": "גיכקייט און פּונקטן מאַכן פֿון אַן אָנגענעמער באַשעפֿטיקונג אַן עקזאַמען, וואָס דאָס קען שאַפֿן בושה אָדער אומרו. בײַ אונדז שטייט אין צענטער דאָס פֿאַרגעניגן און די צײַט צוזאַמען, כּדי מע זאָל ניט קענען דורכפֿאַלן, און מע קען זיך אָפּשטעלן ווען מע וויל."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "וועלכע מכשירים אַרבעטן דאָס בעסטע?",
+              "a": "יעדער טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער מיט אַ מאָדערנעם בלעטערער. אַ טאַבלעט אויף אַ שטעלער בײַם טיש איז אָפֿט דאָס באַקוועמסטע פֿאַר צוויי מענטשן וואָס שפּילן איינער לעבן צווייטן. אַ לעפּטאָפּ פֿאַרבונדן מיט אַ טעלעוויזיע אַרבעט גוט פֿאַר גרופּעס."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "קען מען שפּילן מיט אייגענע משפּחה־פֿאָטאָס?",
+              "a": "יאָ. די שפּיל Photo pairs פֿאַרוואַנדלט 2 ביז 6 פֿאָטאָס וואָס איר קלײַבט אויס אין אַ צופּאַס־שפּיל פֿון פּאָרלעך. די פֿאָטאָס בלײַבן אין אײַער בלעטערער און ווערן קיינמאָל ניט אַרויפֿגעלאָדן אָדער אָפּגעהיט."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "אַקטיוויטעטן און באַזאָרגונג",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "ווי לאַנג דאַרף דויערן אַן אַקטיוויטעט?",
+              "a": "אָפֿטמאָל זײַנען 10 ביז 20 מינוט גאַנץ גענוג, און מאַל מאַכט זיך אַז 2 מינוט איז שוין אַ שיינע דערגרייכונג. גיט אַכט אויף סימנים פֿון מידקייט אָדער אומגעדולד, און שטעלט זיך אָפּ בעת עס שפּירט זיך נאָך אָנגענעם. עס איז ניטאָ קיין באַשטימטע צײַט."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "וואָס זאָל מען טאָן אויב דער מענטש וויל ניט קיין אַקטיוויטעט?",
+              "a": "נעמט אָן דאָס „ניין‟ מיט כּבֿוד, און פּרוּווט ווידער שפּעטער אָדער אויף אַן אַנדער אופֿן. אַן אָפּזאָג קען קומען פֿון מידקייט, ווייטיק, אומזיכערקייט אָדער פֿשוט ניט האָבן קיין אינטערעס. זעט אונדזער וועגווײַזער וועגן וואָס צו טאָן ווען יענער זאָגט ניין."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "וועלכע אַקטיוויטעטן פּאַסן פֿאַר אַ מער פֿאָרגעשריטענעם שטאַפּל פֿון דעמענץ?",
+              "a": "באַקוועמקייט און די חושים: אויסהערן באַליבטע מוזיק, מאַסאַזש פֿאַר די הענט מיט קרעם, קוקן אויף פֿאָטאָס צוזאַמען, האַלטן אַ ווייכע קאָלדרע, זיצן אין דרויסן, אָדער אַ גאָר פּשוטע בילדער־שפּיל מיט עמעצן לעבן זיך. אונדזער וועגווײַזער פֿאַר שפּעטערע שטאַפּלען גיט נאָך פֿיל אידעען."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "זײַנען פֿאַראַן אַקטיוויטעטן פֿאַר גרופּעס אין אַ זאָרג־היים?",
+              "a": "יאָ. Picture bingo פֿאַרמאָגט דרוק־קאַרטלעך און אַן אויסרופֿער אויפֿן עקראַן, און Finish the saying און Conversation cards אַרבעטן זייער גוט אויפֿן קול. אונדזער וועגווײַזער פֿאַר גרופּעס אין זאָרג־היימען באַהאַנדלט די גרויס פֿון דער גרופּע, זיץ־ערטער און צופּאַסן צו פֿאַרשידענע פֿעיִקייטן."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "געזונט פֿונעם מוח",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "קענען שפּילן פֿאַרהיטן אָדער פֿאַרהאַלטן דעמענץ?",
+              "a": "עס איז ניט באַוויזן געוואָרן אַז אַ שפּיל קען פֿאַרהיטן דעמענץ, און אונדזערע שפּילן מאַכן ניט קיין שום אַזאַ טענה. גײַסטיקע סטימולאַציע אין אַ געזעלשאַפֿטלעכער סבֿיבֿה האָט אין פֿאָרשונגען געוויזן קליינע מעלות פֿאַר מענטשן מיט מילדער ביז מיטלמעסיקער דעמענץ, אָבער דאָס איז ניט דאָס זעלבע ווי אַ שפּיל וואָס פֿאַרהיט אַ קראַנקייט. מיר פֿאָרשלאָגן די שפּילן פֿאַר פֿאַרגעניגן און פֿאַרבינדונג."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "קען מען פֿאַרהיטן דעמענץ?",
+              "a": "ניט מיט זיכערקייט. פֿאָרשונגען פֿאַרבינדן 14 געזונט־ און לעבנסשטייגער־פֿאַקטאָרן מיטן ריזיקע פֿון דעמענץ, ווי ירידה פֿונעם געהער, הויכער בלוטדרוק, מאָנגל אין פֿיזישער באַוועגונג און סאָציאַלע אײַנזאַמקייט. זיך אָפּגעבן מיט זיי קען מעגלעך פֿאַרמינערן דעם ריזיקע פֿאַר טייל מענטשן, אָבער פֿיל מענטשן וואָס טוען אַלץ ריכטיק באַקומען פֿאָרט דעמענץ. עס איז קיינמאָל ניט קיינעמס שולד."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "איז איבעררײַסנדיק פֿאַסטן גוט פֿאַרן געזונט פֿונעם מוח?",
+              "a": "די באַווײַזן בײַ מענטשן זײַנען באַגרענעצט און ערשט אין די אָנהייבן, און אַ גרויסער טייל פֿון דער פֿאָרשונג איז געמאַכט אויף חיות. פֿאַסטן קען זײַן ריזיקאַליש פֿאַר עלטערע מענטשן, בפֿרט מיט צוקער־מעדיקאַמענטן אָדער אומגעוואָלטן פֿאַרלירן וואָג, און עס ווערט ניט רעקאָמענדירט פֿאַר מענטשן וואָס לעבן מיט דעמענץ. רעדט זיך דורך מיט אַ דאָקטער איידער איר ענדערט ווי אַזוי איר עסט."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "פּריוואַטקייט און זיכערהייט",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "זאַמלט איר סײַ וועלכע אינפֿאָרמאַציע?",
+              "a": "קיין קאָנטעס און קיין רעקלאַמעס. מיר ניצן Google Analytics בלויז צו ציילן באַזוכן און זען וועלכע זײַטלעך העלפֿן, און אײַער בלעטערער געדענקט צי איר האָט אָנגעצינדן די מילדע קלאַנגען. פֿאָטאָס וואָס איר קלײַבט אויס פֿאַר Photo pairs ווערן קיינמאָל ניט אַרויפֿגעלאָדן. זעט די פּריוואַטקייט־באַמערקונג פֿאַר פּרטים."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "איז דאָס אַ רפֿואה־עצה?",
+              "a": "ניין. Golden Moments איז געמאַכט פֿאַר פֿאַרווײַלונג און אַלגעמיינער אינפֿאָרמאַציע. פֿאַר געזונט־פֿראַגעס רעדט זיך דורך מיט אַ דאָקטער, און אין אַ נויטפֿאַל רופֿט דעם היגן נויטרוף־נומער (ווי 911)."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "מער פּרטים: <a href=\"/caregiving/how-to-play-together/\">ווי אַזוי צו שפּילן צוזאַמען</a>, <a href=\"/caregiving/when-they-say-no/\">ווען יענער זאָגט ניין</a>, <a href=\"/activities/late-stage/\">אַקטיוויטעטן פֿאַר שפּעטערע שטאַפּלען</a> און <a href=\"/brain-health/can-dementia-be-prevented/\">קען מען פֿאַרהיטן דעמענץ?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "פֿרײַע, מילדע שפּילן פֿאַר מענטשן וואָס לעבן מיט דעמענץ",
+      "seoTitle": "מאַטעריאַל צום דרוקן: פֿרײַע שפּילן אויפֿן אינטערנעץ פֿאַר מענטשן מיט דעמענץ",
+      "description": "אַן איינזײַטיק בלעטל צום דרוקן פֿאַר משפּחות און זאָרגער וועגן פֿרײַע, מילדע בילדער־שפּילן פֿאַר מענטשן וואָס לעבן מיט דעמענץ, פֿאַר שטיץ־גרופּעס און אינפֿאָרמאַציע־פּעקלעך.",
+      "crumb": "בלעטל צום דרוקן",
+      "lede": "דרוקט דאָס דאָזיקע בלעטל פֿאַר אַ שטיץ־גרופּע, אַן אינפֿאָרמאַציע־פּעקל אָדער פֿאַר דער פֿרידזשידער־טיר. ניצט דעם דרוק־באַפֿעל פֿון אײַער בלעטערער; די מעניוס און קנעפּלעך וועלן ניט ערשײַנען אויפֿן אָפּדרוק.",
+      "introHtml": "<p>גרויסע בילדער, פּשוטע ווערטער, און גאָרנישט דורכצופֿאַלן. בחינם אויפֿן טעלעפֿאָן, טאַבלעט אָדער קאָמפּיוטער, אָן רעגיסטראַציע, אָן רעקלאַמעס, אָן טײַמערס און אָן פּונקטן. זיצט איינער לעבן צווייטן און שפּילט בײַ דער ריי.</p>",
+      "gamesTitle": "שפּילן צו פּרוּוון צוזאַמען",
+      "restHtml": "<h2>עטלעכע עצות</h2><ul><li>קלײַבט אויס אַ צײַט פֿונעם טאָג ווען דער מענטש שפּירט זיך דאָס בעסטע.</li><li>הייבט אָן מיט דער גרינגסטער מדרגה. פֿיר קעסטלעך איז גאַנץ גענוג.</li><li>שמועסט וועגן די בילדער. דער שמועס איז אָפֿטמאָל דער בעסטער טייל.</li><li>שטעלט זיך אָפּ בעת עס שפּירט זיך נאָך אָנגענעם. זיך פֿריִער אָפּשטעלן איז אַ שיינער רעזולטאַט.</li></ul><h2>נאָך אויפֿן זײַטל</h2><ul><li>פֿרײַע מאַטעריאַלן צום דרוקן: וואָרט־זוכענישן מיט גרויסע אותיות, מאָלבלעטער, שמועס־קאַרטלעך און בילדער־בינגאָ.</li><li>אידעען פֿאַר אַקטיוויטעטן פֿאַר יעדן שטאַפּל, און וועגווײַזערס ווי צו שפּילן צוזאַמען און ווי צו זאָרגן פֿאַר זיך אַליין.</li></ul><p class=\"muted\">פֿאַר פֿאַרגעניגן און פֿאַרברענגען צוזאַמען. ניט קיין רפֿואה־עצה, קיין פּראָבע און קיין היילונג. Golden Moments ווערט אַרויסגעגעבן דורך Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "פֿאַר זאָרג־היימען, ביבליאָטעקן און שטיץ־גרופּעס",
+      "seoTitle": "פֿרײַע אַקטיוויטעטן פֿאַר מענטשן מיט דעמענציע אין פֿלעגהײמען און גרופּעס",
+      "description": "ווי פֿלעגהײמען, טאָג־פּראָגראַמען פֿאַר דערוואַקסענע, ביבליאָטעקן, אָרגאַניזאַציעס פֿאַר עלטערע לײַט און שטיץ־גרופּעס נוצן אונדזערע פֿרײַע שפּילן, צוזאַמען מיט טעקסט אונדז צוצושטעלן צו אַ רעסורסן־רשימה.",
+      "crumb": "פֿאַר אָרגאַניזאַציעס",
+      "lede": "אַלץ אויף דעם וועבזײַטל קען מען נוצן פֿרײַ מיט אײַנוווינער, מיטגלידער און קליִענטן, אָן אַ קאָנטע, ליצענץ אָדער שום אָפּצאָל. דאָס דאָזיקע בלאַט דערקלערט וואָס עס געפֿינט זיך דאָ און ווי מען קען עס טיילן.",
+      "shortText": "{name}: פֿרײַע, מילדע בילדער־שפּילן און אַקטיוויטעט־וועגווײַזערס פֿאַר מענטשן וואָס לעבן מיט דעמענציע און זייערע באַזאָרגערס. אָן זיך אײַנשרײַבן, אָן טײַמערס, אָן קיין פּונקטן.",
+      "longText": "{name} ({domain}) אָפֿערט {count} פֿרײַע בלעטערער־שפּילן געמאַכט פֿאַר מענטשן וואָס לעבן מיט דעמענציע, אַרײַנגערעכנט פּאָרלעך־צונויפֿפּאַסן וווּ די בילדער בלײַבן אָפֿן, אַ גרינגע פּאַזל, סאָרטירן, באַקאַנטע שפּריכוועלטער און בילדער־בינגאָ מיט קאַרטלעך צום דרוקן. עס איז ניטאָ קיין קאָנטע, קיין רעקלאַמעס, קיין טײַמער און קיין פּונקטן. דאָס וועבזײַטל האָט אויך קלאָרע, פּשוטע וועגווײַזערס פֿאַר אַקטיוויטעטן פֿאַר יעדער מדרגה פֿון דעמענציע, וואָס ציטירן דעם National Institute on Aging און די Alzheimer's Association.",
+      "useTitle": "וואָס אָרגאַניזאַציעס קענען נוצן",
+      "gamesItemHtml": "<strong>{count} בלעטערער־שפּילן</strong> וואָס אַרבעטן אויף אַ לעפּטאָפּ, טאַבלעט אָדער אַ טעלעוויזיע פֿאַרבונדן מיט אַ קאָמפּיוטער. אָן אינסטאַלירן, אָן קיין קאָנטע און אָן אַראָפּלאָדן. זעט <a href=\"/games/\">אַלע שפּילן</a>.",
+      "printablesLabel": "{count} מאַטעריאַלן צום דרוקן:",
+      "printablesAfter": "נוצט דעם קנעפּל „דרוקן“ אויף יעדן בלאַט.",
+      "moreItemsHtml": "<li><strong>פֿאָרמאַטן פֿאַר גרופּעס:</strong> <a href=\"/games/picture-bingo/\">בילדער־בינגאָ</a> האָט קאַרטלעך צום דרוקן און אַן אויסרופֿער אויפֿן עקראַן, און <a href=\"/activities/trivia/\">גרינגע טריוויע</a> האָט 50 פֿראַגעס מיט ברירות פֿאַר ענטפֿערס און טעמעס צום שמועסן.</li><li><strong>אַקטיוויטעט־וועגווײַזערס</strong> פֿאַרן פּערסאָנאַל און פֿאַמיליעס, לויט מדרגות און לויט סאָרטן, געשריבן אין אַ פּשוטער שפּראַך מיט קוואַלן. הייבט אָן מיט <a href=\"/activities/ideas/\">101 אידעען פֿאַר אַקטיוויטעטן</a> אָדער <a href=\"/activities/care-home-groups/\">גרופּע־אַקטיוויטעטן פֿאַר פֿלעגהײמען</a>.</li>",
+      "restHtml": "<h2>ווי גרופּעס נוצן עס</h2><ul><li><strong>פֿלעגהײמען און אָפּטיילן פֿאַר זכּרון־באַהאַנדלונג:</strong> בילדער־בינגאָ אָדער ענדיקן דאָס שפּריכוואָרט אויפֿן טעלעוויזיע אינעם געמיינזאַמען צימער, וווּ איין מענטש קליקט פֿאַר דער גאַנצער גרופּע.</li><li><strong>טאָג־פּראָגראַמען פֿאַר דערוואַקסענע:</strong> אַ ווינקל מיט אַ טאַבלעט מיט „בילדער־פּאָרלעך“ אָנגעשטעלט אויף פֿיר קעסטעלעך, פֿאַר קורצע פּערזענלעכע באַגעגענישן איין־אויף־איין.</li><li><strong>עפֿנטלעכע ביבליאָטעקן:</strong> געדרוקטע ווערטער־זוכענישן און שמועס־קאַרטלעך אין פּעקלעך פֿאַרן זכּרון, און דאָס וועבזײַטל פֿאַרצייכנט אין די בוקמאַרקס אויף די ביבליאָטעק־טאַבלעטן.</li><li><strong>שטיץ־גרופּעס פֿאַר באַזאָרגערס און זכּרון־קאַפֿעען:</strong> אַ <a href=\"/handout/\">געדרוקט איין־זײַטיק בלאַט</a> וואָס פֿאַמיליעס קענען נעמען אַהיים.</li><li><strong>שפּיטעלער און באַפֿרײַונג־פּלאַנירערס:</strong> דאָס בלאַט אין די אינפֿאָרמאַציע־פּעקלעך פֿאַר באַזאָרגערס, פֿאַר עפּעס רויִקס צו טאָן אינדערהיים אָדער לעבן בעט.</li></ul><h2>וואָס מיר טוען ניט</h2><p>די שפּילן זענען געמאַכט פֿאַר פֿאַרגעניגן און צו פֿאַרברענגען צײַט צוזאַמען. זיי שטעלן ניט קיין דיאַגנאָז, פּרוּוון ניט, מעסטן ניט קיין פּונקטן, היילן ניט און פֿאַרהאַלטן ניט דעמענציע, און מיר בעטן פֿון אָרגאַניזאַציעס ניט צו באַשרײַבן זיי אַזוי. עס זענען ניטאָ קיין רעקלאַמעס, און די שפּילן בעטן קיינמאָל ניט קיין נעמען, געזונט־פּרטים אָדער בילדער אַרויפֿצולאָדן. דאָס וועבזײַטל נוצט Google Analytics צו ציילן באַזוכער; אונדזער <a href=\"/privacy/\">פּריוואַטקייט־באַמערקונג</a> דערקלערט וואָס דאָס זאַמלט אײַן. בילדער וואָס ווערן גענוצט אין <a href=\"/games/photo-pairs/\">פֿאָטאָ־פּאָרלעך</a> בלײַבן אינעם בלעטערער.</p><h2>שטעלט אונדז צו צו אייער רעסורסן־רשימה</h2><p>אויב איר פֿירט אַ רשימה פֿון רעסורסן פֿאַר באַזאָרגערס, זענט איר האַרציק פֿאַרבעטן צו געבן אַ לינק צו <a href=\"/\">{domain}</a>. איר מעגט קאָפּירן סײַ דעם קורצן און סײַ דעם לענגערן באַשרײַבונג.</p>",
+      "shortTitle": "קורצע באַשרײַבונג",
+      "longTitle": "לענגערע באַשרײַבונג",
+      "linksHtml": "<p>ניצלעכע בלעטער פֿאַר דירעקטע לינקען: <a href=\"/games/\">פֿרײַע שפּילן</a>, <a href=\"/activities/printable/\">פֿרײַע מאַטעריאַלן צום דרוקן</a>, <a href=\"/activities/alzheimers/\">אַקטיוויטעטן פֿאַר אַלצהײַמער</a> און <a href=\"/caregiving/how-to-play-together/\">ווי אַזוי צו שפּילן צוזאַמען</a>.</p><h2>פֿראַגעס אָדער קאָרעקטורן</h2><p>אויב עפּעס אויפֿן וועבזײַטל איז ניט ריכטיק אָדער ניט קלאָר, אָדער די געברויכן פֿון אַן אײַנוווינער ווערן ניט באַפֿרידיקט פֿון וואָס איז דאָ, זײַט אַזוי גוט און לאָזט אונדז וויסן אויף <a href=\"mailto:{email}\">{email}</a>. ביטע שיקט ניט קיין פּערזענלעכע אָדער געזונט־אינפֿאָרמאַציע וועגן אײַנוווינער אָדער קליִענטן.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "די אַפּליקאַציע Golden Moments",
+      "seoTitle": "די אַפּליקאַציע Golden Moments פֿאַר iPhone און Android",
+      "description": "די פֿרײַע אַפּליקאַציע Golden Moments: מילד פֿאָטאָ־צונויפֿפּאַסן מיט פֿיר גרויסע קעסטעלעך, פֿאַמיליע־פֿאָטאָס בלײַבן אויף אייער מכשיר, בילדער־פּעקלעך אָפֿלײַן און אָן אַ קאָנטע.",
+      "crumb": "די אַפּליקאַציע",
+      "lede": "אַלץ וואָס איר האָט ליב אינעם וועבזײַטל, אין אַן אַפּליקאַציע וואָס אַרבעט אָפֿלײַן און קען נוצן פֿאַמיליע־פֿאָטאָס וואָס איר קלײַבט אויס.",
+      "worksOn": "אַרבעט אויף {platforms} ({requirements}).",
+      "bodyHtml": "<h2>אָנהייבן ביסלעכווײַז</h2><p>הייבט אָן מיט פֿיר גרויסע קעסטלעך און באַקאַנטע בילדער. לאָזט די בילדער אָפֿן, אָדער באַהאַלט זיי ווען דאָס פֿילט זיך באַקוועם. דער רויִקער מאָדע האָט ניט קיין זייגערל, פּונקטן אָדער שטראָף. קלײַבט אויס 4, 6, 8 אָדער 12 קעסטלעך.</p><h2>מאַכן עס פּערזענלעך</h2><p>קלײַבט אויס משפּחה־פֿאָטאָס מיט דער פֿאָטאָ־אויסקלײַבונג פֿון אײַער מכשיר. די פּראָגראַם היט אָפּ קלענערע קאָפּיעס פֿאַר די אַקטיוויטעטן. זי שאַצט ניט אײַער ביבליאָטעק און ענדערט ניט אײַערע אָריגינעלע פֿאָטאָס, און זי קען האַלטן ביז 24 פֿאָטאָס אין איין זאַמלונג.</p><h2>פּשוט קוקן צוזאַמען</h2><p>קוקט איין בילד אויף אַ מאָל. פֿרײַוויליקע רמזים שטיצן אַ שמועס, אָן צו בעטן עמעצן צו געדענקען נעמען אָדער געבן אַ ריכטיקן ענטפֿער. פּשוט קוקן איז גענוג.</p><h2>אָפֿלײַן ווען עס איז וויכטיק</h2><p>די ערשטע בילדער און אַלע אַכט בילדער־פּעקלעך קומען צוזאַמען מיט דער פּראָגראַם. די אַרײַנגענומענע פֿאָטאָ־קאָפּיעס אַרבעטן אָפֿלײַן. אויסקלײַבן אָריגינאַלן וואָס ליגן בלויז אויף iCloud קען פֿאָדערן אַן אינטערנעץ־פֿאַרבינדונג.</p><h2>אָן אַ קאָנטע, אָן אַ פֿאָטאָ־סערווער</h2><p>די קאָפּיעס פֿון די משפּחה־פֿאָטאָס בלײַבן אין דער פּראָגראַם אויפֿן מכשיר. איר קענט אַראָפּנעמען די קאָפּיעס אָן אויסמעקן די אָריגינאַלן. זיכערהייט־קאָפּיעס פֿונעם מכשיר קענען אַרײַננעמען די דאַטן פֿון דער פּראָגראַם. לייענט די <a href=\"/app-privacy/\">פּריוואַטקייט־כּללים פֿון דער פּראָגראַם</a>, און די <a href=\"/help/\">הילף פֿאַר דער פּראָגראַם</a> דערקלערט יעדן שריט.</p>",
+      "disclaimer": "Golden Moments איז געמאַכט פֿאַר פֿאַרווײַלונג און בשותּפֿותדיקע שמועסן. זי גיט ניט קיין דיאַגנאָז, היילט ניט, פֿאַרהיט ניט און מעסט ניט דעמענציע אָדער אַלצהײַמערס קרענק.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "פֿרײַע שפּילן אויפֿן וועב פֿאַר דעמענציע און אַלצהײַמער",
+    "description": "פֿרײַע שפּילן אויפֿן וועב פֿאַר עלטערע מענטשן וואָס לעבן מיט דעמענציע אָדער אַלצהײַמער: צונויפֿפּאַסן בילדער, גרינגע פּאַזלס, סאָרטירן, שפּריכווערטער, מאָלן, בינגאָ. אָן זיך אײַנשרײַבן, אָן זייגערלעך און אָן פּונקטן.",
+    "crumb": "שפּילן",
+    "h1": "רויִקע שפּילן פֿאַר מענטשן מיט דעמענציע",
+    "lede": "{count} פֿרײַע שפּילן צו שפּילן צוזאַמען אינעם בלעטערער. גרויסע בילדער, פּשוטע ווערטער, און גאָרנישט קען ניט דורכפֿאַלן: קיין זייגערלעך, קיין פּונקטן, קיין זיך אײַנשרײַבן.",
+    "listName": "רויִקע שפּילן פֿאַר מענטשן מיט דעמענציע",
+    "byStageTitle": "אויסקלײַבן אַ שפּיל לויט דער שטופֿע",
+    "byStageLede": "שטופֿעס זענען נאָר אַן אומגעפֿערעכער וועגווײַזער. גייט נאָך דעם וואָס דער מענטש האָט ליב און וואָס פֿילט זיך באַקוועם הײַנט.",
+    "stageCol": "שטופֿע",
+    "gamesCol": "שפּילן וואָס פּאַסן אָפֿט",
+    "moreHtml": "נאָך געדאַנקען אַוועק פֿונעם עקראַן: <a href=\"/activities/ideas/\">101 אַקטיוויטעטן פֿאַר מענטשן מיט דעמענציע</a>, <a href=\"/activities/alzheimers/\">אַקטיוויטעטן און שפּילן פֿאַר אַלצהײַמער</a>, <a href=\"/activities/memory-games/\">רויִקע זכּרון־שפּילן</a> און <a href=\"/activities/puzzles/\">רעטענישן</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "מיט וועלכער שפּיל זאָלן מיר אָנהייבן?",
+        "a": "בילדער־פּאָרן מיט פֿיר קעסטלעך איז אַ רויִקער ערשטער אויסוואַל. אויב אויסקלײַבן צווישן בילדער פֿילט זיך צו פֿיל, פּרוּווט „געפֿין דאָס זעלבע“ מיט צוויי בילדער. פֿאַר אַ גרופּע, פּרוּווט בילדער־בינגאָ."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "אַרבעטן די שפּילן אויף אַן iPad אָדער אויפֿן טעלעפֿאָן?",
+        "a": "יאָ. יעדע שפּיל אַרבעט אינעם בלעטערער אויף טעלעפֿאָנען, טאַבלעטן און קאָמפּיוטערס, און די בילדער ווערן גרעסער כּדי אָנצופֿילן דעם עקראַן. אַ טאַבלעט אויף אַ שטאַנד איז אָפֿט דאָס באַקוועמסטע פֿאַר צוויי מענטשן."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "זענען די שפּילן גוט פֿאַר עמעצן מיט אַלצהײַמער?",
+        "a": "יאָ. זיי זענען געמאַכט פֿאַר מענטשן וואָס לעבן מיט דעמענציע, אַרײַנגערעכנט אַלצהײַמער, די מערסט פֿאַרשפּרייטע סיבה. די בילדער בלײַבן אָפֿן, עס זענען דאָ בלויז אַ פּאָר ברירות, און גאָרנישט האָט ניט קיין צײַט אָדער פּונקטן; דערפֿאַר שטיצן זיך די שפּילן אויף דערקענען באַקאַנטע זאַכן איידער אויף געדענקען נײַע זאַכן."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "זענען דאָס זכּרון־שפּילן פֿאַר עלטערע מענטשן?",
+        "a": "דאָס זענען בילדער־שפּילן און צופּאַס־שפּילן וואָס יעדער עלטערער מענטש קען הנאה האָבן פֿון זיי, אָבער זיי זענען אויסגעשטעלט ניט צו פּרוּוון דעם זכּרון: אין „בילדער־פּאָרן“ בלײַבן די בילדער אָפֿן, סײַדן איר ווילט אַנדערש. אונדזער וועגווײַזער צו זכּרון־שפּילן פֿאַר עלטערע מענטשן מיט דעמענציע דערקלערט ווי צו האַלטן יעדע זכּרון־שפּיל רויִק און אָנגענעם."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "זענען דאָ שפּילן פֿאַר גרופּעס אין אַ מושבֿ־זקנים?",
+        "a": "יאָ. בילדער־בינגאָ האָט קאַרטלעך וואָס מע קען דרוקן און אַן אויסרופֿער אויפֿן עקראַן, און „ענדיק דאָס שפּריכוואָרט“ און שמועס־קאַרטלעך זענען זייער פּאַסיק צו לייענען הויך פֿאַר אַ גרופּע."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad און Android",
+    "requirements": "iOS 15 אָדער נײַער; Android 7.0 אָדער נײַער",
+    "summary": "אַ פֿרײַע פּראָגראַם פֿאַר iPhone, iPad און Android מיט רויִקן צונויפֿפּאַסן בילדער אויף פֿיר ביז צוועלף גרויסע קעסטלעך, צופּאַסן און קוקן אויף משפּחה־פֿאָטאָס וואָס איר קלײַבט אויס, און אַכט בײַגעלייגטע בילדער־פּעקלעך וואָס אַרבעטן אָן אינטערנעץ. אָן אַ קאָנטע, רעקלאַמעס, אַ זייגערל אָדער פּונקטן.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "רויִק צונויפֿפּאַסן בילדער מיט 4, 6, 8 אָדער 12 גרויסע קעסטלעך; די בילדער בלײַבן אָפֿן סײַדן איר קלײַבט זיי צו באַהאַלטן",
+      "משפּחה־פֿאָטאָס וואָס איר קלײַבט אויס ווערן קאָפּירט אין דער פּראָגראַם צום צונויפֿפּאַסן און צום קוקן צוזאַמען",
+      "קוקן צוזאַמען: איין בילד אויף אַ מאָל מיט פֿרײַוויליקע רמזים צום שמועסן",
+      "אַכט בילדער־פּעקלעך קומען מיט דער פּראָגראַם; זיי אַרבעטן אָפֿלײַן",
+      "אָן אַ קאָנטע, רעקלאַמעס, אײַנקויפֿן אין דער פּראָגראַם, אַ זייגערל, פּונקטן אָדער שטראָף"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "איז פֿאַראַן אַ פּראָגראַם פֿאַר אַקטיוויטעטן פֿאַר מענטשן מיט דעמענציע?",
+        "a": "יאָ. Golden Moments (אויסגערעכנט ווי \"{storeName}\") איז פֿרײַ אויפֿן App Store און Google Play. זי גיט רויִקע בילדער־שפּילן מיט גרויסע קעסטלעך, שפּילן מיט משפּחה־פֿאָטאָס וואָס איר קלײַבט אויס, און בילדער־פּעקלעך וואָס אַרבעטן אָפֿלײַן."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "איז די Golden Moments פּראָגראַם פֿרײַ?",
+        "a": "יאָ. זי איז פֿרײַ אַראָפּצולאָדן, אָן רעקלאַמעס, אָן אַ קאָנטע און אָן קיין אײַנקויפֿן אין דער פּראָגראַם."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "אַרבעט די פּראָגראַם אָן אינטערנעץ?",
+        "a": "יאָ. די ערשטע בילדער און אַלע אַכט בילדער־פּעקלעך קומען צוזאַמען מיט דער פּראָגראַם, און משפּחה־פֿאָטאָס אַרבעטן אָפֿלײַן נאָכדעם ווי מע קאָפּירט זיי אַרײַן אין דער פּראָגראַם. אויסקלײַבן אַ פֿאָטאָ וואָס ליגט נאָר אויף iCloud קען פֿאָדערן אַ פֿאַרבינדונג."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "קען איך ניצן אונדזערע אייגענע משפּחה־פֿאָטאָס?",
+        "a": "יאָ. קלײַבט אויס בילדער מיטן בילדער־קלײַבער פֿון אײַער מכשיר. די אַפּ האַלט קלענערע קאָפּיעס אויפֿן מכשיר פֿאַר אירע אַקטיוויטעטן, לאָדט זיי נישט אַרויף, און ענדערט קיינמאָל נישט די אָריגינאַלן. איר קענט אַראָפּנעמען די קאָפּיעס צו יעדער צײַט."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "איז דאָס אַן אַפּ פֿאַר מוח־טרענירונג אָדער אַ זכּרון־טעסט?",
+        "a": "ניין. Golden Moments איז געמאַכט פֿאַר הנאה און פֿאַרברענגען צײַט צוזאַמען. עס האָט נישט קיין פּונקטן אָדער טעסטן, און עס טוט נישט דיאַגנאָזירן, באַהאַנדלען, פֿאַרהיטן אָדער מעסטן דעמענציע אָדער אַלצהײַמערס קראַנקייט."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "אויף וועלכע מכשירים אַרבעט דאָס?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "איז פֿאַראַן אַן אַפּ־ווערסיע פֿון דער דאָזיקער שפּיל?",
+      "a": "יאָ. די אומזיסטע Golden Moments אַפּ פֿאַר iPhone, iPad און Android האָט די זעלבע רויִקע בילדער־צונויפֿפּאַסונג, קען ניצן משפּחה־בילדער וואָס איר קלײַבט אויס, און אַרבעט אָפֿלײַן. אָן אַ קאָנטע, רעקלאַמעס אָדער פּונקטן."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "איז פֿאַראַן אַן אַפּ־ווערסיע פֿון דער דאָזיקער שפּיל?",
+      "a": "נישט פֿון דער דאָזיקער שפּיל. די אומזיסטע Golden Moments אַפּ פֿאַר iPhone, iPad און Android האָט רויִקע בילדער־צונויפֿפּאַסונג מיט גרויסע קעסטעלעך און משפּחה־בילדער וואָס איר קלײַבט אויס, און זי אַרבעט אָפֿלײַן. די דאָזיקע שפּיל בלײַבט אומזיסט דאָ אין אײַער בלעטערער."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: גרויסע, פֿרײַנטלעכע בילדער",
+    "noscript": "די דאָזיקע שפּיל דאַרף אַז JavaScript זאָל זײַן אָנגעצונדן אין אײַער בלעטערער. די עצות פֿון אונטן אַרבעטן אויך אָן דעם.",
+    "about": "וועגן {name}",
+    "aboutAria": "וועגן דער דאָזיקער שפּיל",
+    "noTimer": "אָן אַ טײַמער אָדער פּונקטן",
+    "printable": "צו דרוקן",
+    "howTo": "ווי אַזוי צו שפּילן {name}",
+    "tips": "עצות פֿאַר שפּילן צוזאַמען",
+    "newToPlayingHtml": "שפּילט איר צום ערשטן מאָל מיט עמעצן וואָס לעבט מיט דעמענציע? לייענט <a href=\"/caregiving/how-to-play-together/\">ווי אַזוי צו שפּילן שפּילן צוזאַמען</a>, אַרײַנגערעכנט וואָס צו טאָן אויב יענער פֿאַרלירט אינטערעס.",
+    "moreAria": "נאָך צו אַנטדעקן",
+    "helpfulGuides": "נוצלעכע וועגווײַזערס",
+    "appTitle": "שפּילט אין דער אַפּ",
+    "appText": "די אומזיסטע Golden Moments אַפּ האָט רויִקע בילדער־צונויפֿפּאַסונג מיט גרויסע קעסטעלעך און אײַערע אייגענע משפּחה־בילדער, און אַרבעט אָן Wi‑Fi. iPhone, iPad און Android.",
+    "photoAppTitle": "האַלט אײַערע בילדער גרייט",
+    "photoAppText": "אין דער אומזיסטער Golden Moments אַפּ בלײַבן די בילדער וואָס איר קלײַבט אויס אויף אײַער מכשיר אויף ווײַטער, און שפּילן אַרבעטן אָן Wi‑Fi. iPhone, iPad און Android.",
+    "goodToKnow": "גוט צו וויסן",
+    "goodToKnowText": "די דאָזיקע שפּיל איז געמאַכט פֿאַר הנאה און פֿאַרברענגען צײַט צוזאַמען. זי טוט גאָרנישט טעסטן, מעסטן אָדער באַהאַנדלען.",
+    "moreGames": "נאָך רויִקע שפּילן",
+    "crumb": "שפּילן"
   }
 }

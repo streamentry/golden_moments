@@ -1,35 +1,35 @@
 ---
-title: "Video Kol mo Telefon Activities long Dementia"
-seoTitle: "Video Kol Activities long Dementia"
-description: "Video kol mo telefon activities blong famle we oli stap longwe: soem samting blong soem, ridim stori, singsing, gem long wan screen we yumi sherem mo tips blong helper."
+title: "Aktiviti long vidio kol mo fon wetem dementia"
+seoTitle: "Aktiviti long vidio kol blong dementia"
+description: "Aktiviti long vidio kol mo fon blong famle we oli stap longwe long man o woman wetem dementia: soem mo talemaot, ridim buk, singsing, gem long skrin mo tips blong helpa."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kol wetem man we i stap laef wetem dementia i gud moa taem oli sot, oli kamap
-  regula, mo oli gat wan samting blong mekem tugeta, olsem soem pet o gaden,
-  lukluk long foto, ridim stori, singsing long wan sing we hem i laekem, o gem
-  wan gentol gem long wan screen we yumi sherem. Kolem long sem taem long ded
-  sipos yu save, talem wan man nomo long wan taem, mo askem wan man we i stap
-  long ples blong help.
+  Kol wetem man o woman we i stap laef wetem dementia i go gud sapos oli sot,
+  oli kam regula mo oli gat wan samting blong mekem togeta, olsem soem wan pet
+  o gaden, lukluk long ol foto, ridim buk, singsing wan song we i blong hem, o
+  gem wan gentel gem long wan shea skrin. Kolem long sem taem long ven dei sapos
+  yu save, stap wetem wan vois long wan taem, mo askem wan man long ples blong
+  helpem.
 keyPoints:
-  - "Wan activity i mekem kol i gat shep mo i rimuvum presa long toktok. Planem wan simpol samting blong sherem."
-  - "Short kol we oli kamap regula long sem taem long ded oli save wok moa i gud than longfala kol we oli kamap samfala taem nomo."
-  - "Wan man nomo i toktok long wan taem. Grup kol we ol man oli toktok tugeta oli hard blong folem, espesli sipos man i harem no gud."
-  - "Wan helper long ples i save setemap divaes, sidaon klosap long man, mo i wok olsem 'han' blong ol gem o foto."
-  - "Sipos kol i no wok long dei ya, finisim hem wetem kaen tingting. Traem gen tumoro i oraet."
+  - "Wan aktiviti i givim kol wan fasin mo i tekem presa long toktok. Planem wan simpol samting blong soem."
+  - "Ol sot kol we oli kam regula long sem taem long ven dei oli save gud moa long ol longfala kol we oli kam sipos sipos."
+  - "Wan man i toktok long wan taem. Ol grup kol we ol man i toktok olsem ol i kros i hard blong folem, espesol sapos man i no save harem gud."
+  - "Wan helpa long ples i save setemap divaes, i save sidaon klosap long man, mo i save kam 'han' blong ol gem o foto."
+  - "Sapos kol i no wok long dei ya, finisim i gud. Traem bakegen long tumora i oraet."
 faq:
-  - q: "Wat samting mi save mekem long video kol wetem man we i gat dementia?"
-    a: "Planem wan simpol activity: soem gaden, pet o kitchen blong yu; lukluk long ol old foto tugeta; ridim wan short poem o leta long laod; singsing wan singsing we hem i laekem; kukum sem resipe long sem taem; o gem wan gentol picture gem long wan screen we yumi sherem. Activities i givim kol wan fokes, so man i no nidim karem wan bigfala toktok."
-  - q: "Hao long nao wan video kol i sud stap?"
-    a: "Usually i sot moa than wanem yu tingting. Sam warm minit i inaf, espesli sipos man i kwiktaem i tajem. Kolem regula long sem taem long ded i save impoten moa than hao longfala wan kol i stap."
-  - q: "Sipos oli kanfius o oli wari long video kol?"
-    a: "Sam man oli kanfius long fes long wan screen. Traem wan plen telefon kol, wan video mesej we yu recordem mo helper i save pleyem long wan kwaet taem, o ol kad mo foto we i kam long post. Sipos wan kol i no gud, finisim hem gud mo traem gen long narafala dei o long narafala taem."
-  - q: "Hao long mi save helpem mama blong mi long video kol sipos hem i no save yusum telefon?"
-    a: "Askem wan famle memba, home aide o staff long care home blong stat kol mo holem o sapotem divaes. Planti care setting i helpem famle long video kol, so askem wanem oli ofarem. Wan tablet long stand, we screen i bigfala mo saon i strong, i mekem i isi long everyone."
-  - q: "Ka yumi save gem wan gem tugeta long video?"
-    a: "Yes. Isi wei hemia se wan man i sherem screen blong hem long video app, mo narafala i talem hem i tajem wanem pikja. O helper long ples i save opem sem gem long wan tablet mo tajem blong man, wetem yu i talem hem long step-step. Jusum gem we i no gat taem o skor."
+  - q: "Wanem nao mi save mekem long vidio kol wetem man o woman we i gat dementia?"
+    a: "Planem wan simpol aktiviti: soemaot gaden, pet o kitchen blong yu; lukluk long ol old foto togeta; ridim wan sot poem o leta long hae vois; singsing wan song we oli laekem; kukum sem resipi long sem taem; o gem wan gentel pikja gem long wan shea skrin. Ol aktiviti i givim kol wan fokes, so man i no nid kerem olgeta toktok."
+  - q: "Hao longfala wan vidio kol i mas i stap?"
+    a: "Usually i sot moa long we yu tinkem. Sam warm minit i save i stret, espesol sapos man i kwiktaem i tair. Kolem regula long sem taem long ven dei i save i impoten moa long hao longfala ea kol i stap."
+  - q: "Wanem sapos oli konfius o oli kros long ol vidio kol?"
+    a: "Sam man oli save faen wan fes long wan skrin i konfius. Traem wan simpol fon kol, wan rekodem vidio mesej we helpa i save plei long wan kuat taem, o ol kad mo foto we i kam long post. Sapos kol i no gud, finisim i gud mo traem bakegen long narafala dei o long narafala taem."
+  - q: "Hao mi save helpem mama blong mi blong vidio kol sapos hem i no save yusum fon?"
+    a: "Askem wan famle memba, wan haosboe o wan staff blong nes haos blong startem kol mo holem o sanemaot divaes. Plante ples blong kea i save helpem famle long vidio kol, so askem wanem oli offrem. Wan tablet long wan stand, we i gat bigfala skrin mo i loud gud blong harem, i mekem i isi blong evriwan."
+  - q: "Yumi save gem wan gem togeta long vidio?"
+    a: "Yes. Waneedem we i isi, wan man i save sherem skrin blong hem long vidio app, mo narafala i tokbaot long hem wanem pikja blong tajem. O helpa long ples i save opnem sem gem long wan tablet mo tajem blong man, we yu i toktok long hem long hao blong gem. Jusum ol gem we i no gat taem o skoa."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -51,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Stap longwe long wan man we i gat dementia i save mekem yu filim yu no save helpem. Video kol mo telefon kol i no save tekem plas blong wan hag, be oli save mekem ol gud taem blong konektem tingting taem yu setemap hem gud. Trik i stap long from we yu no traem toktok olsem wan normal toktok, be yu planem wan simpol samting blong sherem. Pej ya i talem ol activity we oli wok long video mo telefon, hao blong setemap kol, mo wanem nao man we i stap long ples i save helpem.
+Stap longwe from wan man o woman we i gat dementia i save mekem yu filim olsem yu no save helpem. Kol long fon mo vidio i no save tekem ples blong wan hug, be oli save mekem ol gud taem blong kanektem yu wetem hem sapos yu setemap gud. Trik i olsem: no traem toktok olsem yufala i usually toktok, be planem wan simpol samting blong soem togeta. Pej ya i talemaot ol aktiviti we i wok long vidio mo fon, hao blong setemap kol, mo wanem man long ples i save duim blong helpem.
 
-## Wae yumi nidim plan wan activity blong kol?
+## Wae i gud blong planem wan aktiviti long kol?
 
-Wan activity i mekem kol i gat shep. "Yu orait? Wanem nao yu mekem tedei?" i askem man blong rimemba mo ripot, wanem i save hard mo i stresem hem. "Lukim, ol tomato oli redi nao" i no askem hem wan samting nating.
+Wan aktiviti i givim kol wan fasin. "Hao yu stap? Wanem yu wokem tede?" i askem man blong rimemba mo ripot, wanem i save i hard mo i presem hem. "Lukluk, ol tomato oli redi" i no askem hem wan samting nating.
 
-Alzheimer's Association i talem se toktok wetem bigfala grup long video i save hard, mo i sajestem blong [adem stretja long kol](https://www.alz.org/help-support/caregiving/holidays) wetem ol samting olsem singsing o sherem ol pikja.
+Alzheimer's Association i talem se ol toktok wetem bigfala grup long vidio i save i hard, mo oli sajestem blong [putum sam struktja long kol](https://www.alz.org/help-support/caregiving/holidays) wetem samting olsem singsing o soem ol foto.
 
-## Wanem activities i wok long video kol?
+## Wanem aktiviti i wok long vidio kol?
 
-### Soem mo talem
+### Soem mo talemaot
 
-Karem wol blong yu i kam long hem. Walemaot kemera i slou aroun long gaden blong yu, introdusum dog, soem wanem yu kukum, holem drowing blong pikinini blong yu, o pointem fon i luk aot long windo long snow. Talem ol samting we yu lukim long simpol wod mo lego ol taem blong hem i ridi blong ritoem. No nid askem kwestin.
+Karem wol blong yu i kam long hem. Walkem kamera i go slow long gaden blong yu, intrədiuspem dog, soem wanem yu kukum, holem pikja blong pikinini blong yu, o pointem fon i go long windo long snou. Discribem wanem yu lukim long ol simpol wod mo lego ples blong hem i ansa. No nid askem kwestin.
 
-### Lukluk long foto tugeta
+### Lukluk long ol foto togeta
 
-Holem wan old foto i kam klosap long kemera, o sherem screen blong soem sam bigfala foto wan-wan. Talem wanem yu lukim: "Lukim hat blong Grandpa." Lego "Hu nao ya?" o "Yu rimembam?" Sipos man i talem wan nem we i no stret, yu agree wetem hem. Lukim [gaed blong reminiscence](/activities/reminiscence/) blong ol gud tingting.
+Holem wan old foto i kam long kamera, o sherem skrin blong yu blong soem sam bigfala foto wan-wan. Toktok long wanem yu lukim: "Lukluk long hat blong Grandpa." No talem "Hu nao ia?" o "Yu rimemba?" Sapos man i nemem wan man rong, folem hem i go. Lukluk long [gaid blong rimembring](/activities/reminiscence/) blong ol gentel tingting.
 
-### Ridim stori long laod
+### Ridim long hae vois
 
-Ridim wan short poem, wan sam from Baebol, wan gudfala buk blong pikinini we yu ridim long pikinini blong yu long sem kol, wan leta from wan famle, o wan pej long buk we hem i laekem. Ridim long laod i givim man samting we kwaet blong harem, wetem no nid ansarem.
+Ridim wan sot poem, wan sam, wan fevrit pikinini buk long wan pikinini blong yu we i stap long sem kol, wan leta from wan famle memba, o wan pej long wan buk we hem i laekem. Ridim long hae vois i givim man wan kam samting blong harem, wetem no nid blong ansa.
 
-### Singsing o harem miusik tugeta
+### Singsing o harem miusik togeta
 
-Singsing wan singsing we hem i save gud, o pleim wan fevret rekod long saet blong yu. Singsing wetem i isi moa than toktok long planti man. Lukim [gaed blong miusik activities](/activities/music/).
+Singsing wan song we hem i save gud, o pleyem wan fevrit rekod long saet blong yu. Singsing wetem i isi moa long ol man i toktok. Lukluk long [gaid blong miusik aktiviti](/activities/music/).
 
 ### Kukum o bekem long sem taem
 
-Alzheimer's Association i sajestem blong planem wan video kol blong kukum o bekem wan spesol resipe tugeta. Setemap kol long bot kitchen. Man we i stap long ples i save stirim o tastem samting, wetem yu i folem old resipe kad blong hem.
+Alzheimer's Association i sajestem blong planem wan vidio kol blong kukum wan spesel resipi togeta. Setemap kol long ol kitchen blong yufala tufala. Helpa long ples i save stirem o tastem samting, wakem yu i folem olo resipi kad blong man.
 
-### Lukluk long wan samting tugeta
+### Wajem wan samting togeta
 
-Association i sajestem tu blong lukim wan fevret muvi long sem taem long despala haus, wetem toktok long telefon o video. Long man we i gat dementia, wan sotfala klip, wan old TV episod, o wan ball gem i save moa gud than wan fulfala muvi.
+Association i sajestem tu blong wajem wan fevrit muvi long sem taem from ol defren haos wetem toktok long fon o vidio. Long man we i gat dementia, wan sot klip, wan old TV episod o wan gem blong bolo i save i gud moa long wan fulfala muvi.
 
-### Gem wan gentol gem long wan screen we yumi sherem
+### Gem wan gentel gem long wan shea skrin
 
-Planti video kol app i letem yu sherem screen. Yu opem gem mo tajem; man i talem o pointem wanem pikja i blong jusum. O helper long ples i save opem sem gem long wan tablet mo tajem blong man, we yu toktok wetem hem.
+Plante vidio kol app oli letem yu sherem skrin blong yu. Yu opnem gem mo tajem; man i talem long yu o pointem long wanem pikja blong jusum. O helpa long ples i save opnem sem gem long wan tablet mo tajem blong man, taem yu chat.
 
-Ol gem we oli wok gud long fasin ya:
+Ol gem we i wok gud long wei ya:
 
-- **[Finisim Tok](/games/finish-the-saying/):** yu ridim wan famle tok, man i talem end blong hem, mo wan toktok prompt i folem.
-- **[Pea Pikja](/games/picture-pairs/):** wan gentol matjing gem wetem ol bigfala pikja we i save stap luk, no taem, no skor.
-- **[Kad blong Toktok](/games/conversation-cards/):** wan pikja mo wan open prompt blong toktok tugeta.
-- **[Foto Pea](/games/photo-pairs/):** wan matjing gem we i mekem long ol foto we yu jusum long divaes blong yu. Ol foto oli stap long browser blong yu, mo man i lukim tru long screen we yu sherem.
+- **[Finish the Saying](/games/finish-the-saying/):** yu ridim wan famle tok, hem i talemaot en blong hem, mo wan toktok prompt i folem.
+- **[Picture Pairs](/games/picture-pairs/):** wan gentel matching gem wetem bigfala pikja we i save stap i sakem, no taem mo no skoa.
+- **[Conversation Cards](/games/conversation-cards/):** wan pikja mo wan open prompt blong toktok togeta long hem.
+- **[Photo Pairs](/games/photo-pairs/):** wan matching gem we i mekem from ol foto we yu jusum long divaes blong yu. Ol foto oli stap long browser blong yu, mo man i lukim olgeta long shea skrin blong yu.
 
-### Mesej we yu recordem
+### Ol mesej we oli rekodem
 
-Taem ol live kol i hard, recordem wan short video: wan greeting, wan singsing, wan wakabaot long yad blong yu. Helper i save pleyem long wan kwaet taem, plante taem we man i laekem. Alzheimer's Association i talem long recordem mo sendem ol spesol momen, olsem taem pikinini oli opem ol presen.
+Taem ol laev kol i hard, rekodem wan sot vidio: wan gret, wan song, wan wok raon long yad blong yu. Helpa i save plei long wan kuat taem, plante taem sapos man i laekem. Alzheimer's Association i mensenem rekodem mo sendem ol spesel taem, olsem pikinini we oli openem gift.
 
-## Olsem wanem long ol plen telefon kol?
+## Olsem wanem long ol fon kol we i no gat vidio?
 
-Telefon kol i stap impoten. Dementia Australia i sajestem [kolem long sem taem long ded](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) mo no hurry, from man we i gat dementia i save tekem taem blong kasem toktok. Long telefon:
+Fon kol i stil impoten. Dementia Australia i sajestem [kolem long sem taem long ven dei](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) mo no ratem, from se man we i gat dementia i save tekem taem blong ansa. Long fon:
 
-- Talem nem blong yu mo wanem relesan blong yu long fastaem: "Hae Dad, mi Jenny, pikinini blong yu."
-- Toktok slou, long short sentens, wan aedia long wan taem.
-- Givim nyus, no askem nyus: "Mi kukum resipe blong pot roast blong yu lastnaet."
-- Ridim wan short poem, o singsing wan vas blong wan fevret singsing.
-- Keepem i short mo finisim long wan warm tingting.
+- Talemaot nem blong yu mo wanem yu blong hem raet no: "Haoa Dad, Jenny i stap, pikinini blong yu."
+- Toktok i slow, long sot sentens, wan aidia long wan taem.
+- Givim niuz i kam, no askem hem blong givim: "Mi mekem resipi pot roast blong yu laswiktaem."
+- Ridim wan sot poem, o singsing wan vas blong wan fevrit song.
+- Keepem i sot mo finisim long wan warm tingting.
 
-Dementia Australia i talem tu se video kol i save helpem taem toktok i kamap i hard, from man i save lukim fes blong yu. Sipos telefon kol i kanfius, traem video, o long narafala wei.
+Dementia Australia i talemaot tu se vidio kol i save helpem taem toktok i kam hard, from man i save lukim fes blong yu. Sapos fon kol i kam konfius, traem vidio, o i go long narafala wei.
 
-## Hao nao mi save setemap wan video kol we i wok?
+## Hao blong setemap wan vidio kol we i wok?
 
-**Bifo long kol:**
+**Befo long kol:**
 
-1. **Jusum wan regula taem** we man i usually i restem, mo stap long hem. Rutin i helpem.
-2. **Wok wetem helper long ples.** Wan tekis long dei bifo i helpem ol blong planem.
-3. **Jekem divaes.** Tablet long stand i isi moa than telefon we yu holem long han. Mekem sua se i gat jaj, screen i brait, mo saon i strong inaf. Opem ol kaption sipos app i gat, mo man i ridim gud.
-4. **Planem wan activity** mo mekem evri samting i redi.
+1. **Jusum wan regula taem** we man i usually i rest gud, mo stap long hem. Rutin i helpem.
+2. **Toktok wetem helpa long ples.** Wan mesej long bifo dei i helpem hem blong planem.
+3. **Jekem divaes.** Wan tablet long wan stand i isi moa long wan fon we oli holem long han. Mekem sua i fulap, skrin i brait, mo saon i loud gud blong harem. Oapem ol kaption sapos app i gat, sapos man i save ridim gud.
+4. **Planem wan aktiviti** mo redim evri samting.
 
-**Long taem blong kol:**
+**Taem long kol:**
 
-- **Sidaon klosap long kemera** long gud laet, fes long windo, no wetem windo i stap behaen yu.
-- **Introdusum yu wan** long evri taem, long nem mo relesan.
-- **Wan voes long wan taem.** Alzheimer's Association i talem se kros toktok i hard long man we i gat dementia mo long man we i no save harem gud. Sipos sam famle oli joinim, tanem tanem, o kipim i stap long tu o tri man nomo.
-- **Askem wan kwestin long wan taem.** Family Caregiver Alliance i sajestem [simpol kwestin we ansa blong hem i yes o no](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), mo soem jus sipos yu save.
-- **Letem long pos we i long.** Wet blong ansa. I oraet blong sajestem wan wod sipos hem i stap serjem.
-- **Yusum fes mo vois blong yu.** Smael, nod, mo kipim tone i warm. Fes i ofen i talem moa than tokgud.
-- **No korektem.** Sipos man i talem samting we i no tru, letem i stap olsem.
+- **Sidaon klosap long kamera** long gud lait, feisim wan windo, no wetem windo i stap biaen long yu.
+- **Introdiusum yu wan** long evri taem, wetem nem mo wanem yu blong hem.
+- **Wan vois long wan taem.** Alzheimer's Association i talemaot se ol kros toktok i hard long man we i gat dementia mo long man we i no save harem gud. Sapos plante famle i joen, tekem tan o kipim i jas tu o tri man.
+- **Askem wan kwestin long wan taem.** Family Caregiver Alliance i sajestem [simpol kwestin we ansa blong hem i yes o no](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), mo soemaot ol jus sapos yu save.
+- **Letem ol longfala pos i stap.** Wetem ansa blong hem. I oraet blong givim wan wod sapos hem i stap traem blong faendem.
+- **Yusum fes mo vois blong yu.** Smael, nod mo kipim vois i warm. Fes i save talem moa long wanem wod i talem.
+- **No ronem.** Sapos man i talem samting we i no tru, letem i stap olsem.
 
 **Taem blong finisim kol:**
 
-- Finisim bifo man i taed, long gudfala taem ideally.
-- Yusum sem gudbae evri taem: "Mi bambae mi kolem yu tumoro long lanj. Mi lav yu."
-- No drag i go longfala.
+- Finisim befo man i tael, we i gud moa long wan hae tingting.
+- Yusum sem gudbae evri taem: "Mi bae kolem yu tumora long lanj. Mi laerem yu." 
+- No longfalem.
 
-## Tips blong helper long ples
+## Tips blong helpa we i stap long ples
 
-Sipos yu wan husben o waef, aide, brata o staff memba we i helpem long kol, yu mekem i posibol.
+Sapos yu wan haosboe, wan waef, wan aide, wan brata o wan staff memba we i helpem long kol, yu nao i mekem hem i possibol.
 
-- **Setemap wan kwaet ples.** Ston TV mo lokem dua.
-- **Stat kol yu wan,** then givim man tablet long stand o holem long level blong ai.
-- **Sidaon klosap long hem, no long fran.** Presens blong yu i givim fiding gud. Sipos i nid, givim hint isi: "Lukim, hemi Jenny."
-- **Bi han blong hem.** Holem ap pikja, tajem gem, tanem tablet blong soem rum.
-- **Lukaot sipos hem i taed o i upset,** mo talem man we i kolem taem blong finisim.
-- **Talem man we i kolem wanem i wok.** "Hem i laekem dog nogud" i helpem blong planem nekis kol.
+- **Setemap wan kwaet ples.** Ofem TV mo klosem doa.
+- **Startem kol yu wan,** then givim man wan tablet long wan stand o holem long ae level.
+- **Sidaon klosap long hem, no long fran.** Presensis blong yu i givim hem sef filin. Helpem hem gentel sapos i nid: "Lukluk, ia Jenny i stap."
+- **Kam 'han' blong hem.** Holem ol foto, tajem gem, tanem tablet blong soem rum.
+- **Lukaotem sapos hem i tair o i kros,** mo talemaot long man we i kolem sapos i taem blong finisim.
+- **Talem long man we i kolem wanem i wok.** "Hem i laekem dog" i helpem blong planem nekis kol.
 
-NIA i talem se famle we oli stap longwe oli save helpem wan olfala man blong [lanem ol fitja blong fon blong hem](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), olsem video kol. Long leta stej, helper bambae usually i nidim karem divaes olgeta. Hemia i oraet.
+NIA i talemaot se famle we oli longwe oli save helpem wan lafmanples blong [lanem ol fitja blong fon blong hem](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), olsem vidio kol. Long ol leta stej, helpa bae i nid blong handelem divaes olgeta. Hemia i oraet.
 
-Sipos man i stap long wan care home, Alzheimer's Foundation of America i sajestem askem sipos fasiliti i helpem famle long video jat. AFA i talem tu long famle we oli sendem foto i go kam wetem staff, mo sendem ol fevret snak o ol smol komfot, afta we oli jekem wanem fasiliti i alaoem.
+Sapos man i stap long wan nes haos, Alzheimer's Foundation of America i sajestem blong askem sapos ples ya i helpem famle long vidio sats. AFA i mensenem tu famle we oli sendem foto i go bakegen wetem staff blong kea, mo sendem ol fevrit kakae o liu komfot, afta we oli jekem wanem ples i letem.
 
-## Wanem nao sipos kol i no wok gud?
+## Wanem sapos kol i no gud?
 
-Sam kol bambae i kanfius, i no gat laef, o i mekem man i upset. Hemia i no fol blong yu, mo i no minim se ol kol oli no gat velyu.
+Sam kol bae i konfius, i no gat laef, o i mekem man i kros. Hemia i no wan fol blong yu, mo i no minim se kol i no vali.
 
-- Sipos man i lukluk i kanfius long screen, switjim i go long plen telefon kol o recordem mesej.
-- Sipos hem i upset, akseptem filin, talem wan samting we i givim fiding gud, mo finisim gud.
-- Sipos kol i ofen i no gud long wan taem blong dei, traem wan narafala taem.
-- Sipos hem i tingting se yu wan narafala man, folem hem gud.
+- Sapos man i luk i konfius long skrin, swit i go long wan fon kol o wan rekodem mesej.
+- Sapos hem i kros, akseptem filin blong hem, talemaot wan samting we i mekem hem i filim gud, mo finisim gentel.
+- Sapos kol i ofen i no gud long sem taem long ven dei, traem narafala taem.
+- Sapos hem i tingting se yu i narafala man, folem hem i go wetem kaen tingting.
 
-I oraet blong finisim ero. Wan short, warm kol i wan gud rizalt.
+I oraet blong finisim ol taem bifo. Wan sot, warm kol i wan gud rizolt.
 
-## Long taem blong ol kol
+## Long taem betwen ol kol
 
-Stap wetem hem long ol narafala wei. Dementia Australia i sajestem sendem kad, imel, foto o ol smol presen. Wan postkad long wik wetem wan bigfala foto mo wan short nout i save ridim bakegen mo bakegen. Ol [kad blong toktok we yu save printem](/games/conversation-cards/) we yu mailem long helper i save givim nekis kol wan redi topik.
+Stap i stap long ol narafala wei. Dementia Australia i sajestem blong sendem kad, imel, foto o ol smol presen. Wan wiki postkad wetem wan bigfala foto mo wan sot nout i save ridim plante taem. Ol [printable conversation cards](/games/conversation-cards/) we yu sendem i go long helpa i save givim nekis kol wan redi tokbaot.
 
-Blong ol tips long jusum mo setemap tablet, lukim [tablets and screens](/caregiving/tablets-and-screens/). Blong taem long ples, lukim gaed blong yumi long [visiting](/activities/visiting/).
+Blong tips long jusum mo setemap wan tablet, lukluk long [tablet mo skrin](/caregiving/tablets-and-screens/). Blong taem we yu stap wetem hem long ples, lukluk long gaid blong yumi long [vijit](/activities/visiting/).

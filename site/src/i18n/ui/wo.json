@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Jàll ci li ëpp solo",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Jëf-jëf ngir demañs",
+    "homeLabel": "Dalub Golden Moments",
+    "mainNav": "Njëlbéen",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Wollof",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: nataal yu mag te rafet yu kaas bu tàng, gàncaxug jant ak xaj",
+    "languages": "Làkk",
+    "englishOnly": "(Àngale)",
+    "machineTranslated": "Xët wii, masin mooko fiiri te nit ku làkk làkk wi seetlaatu ko.",
+    "readOriginal": "Jàng bind bu njëkk bi ci àngale",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Po yi",
+      "activities": "Jëf-jëf yi",
+      "caregiving": "Toppatoo",
+      "brainHealth": "Wér-gu-yaramu xel"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Laaj ak tontu",
+    "breadcrumb": "Yoonu xët yi",
+    "home": "Dal bi",
+    "lastUpdated": "Yeesal bu mujj",
+    "topics": "Tëriit yi",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Dayoo mbind mi",
+      "smaller": "Mbind mu yam",
+      "larger": "Mbind mu gën a rëy",
+      "contrast": "Gën a fés"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Po",
+    "picturePairs": "Nataal yu yem",
+    "conversationCards": "Kàrtu waxtaan",
+    "pictureBingo": "Biŋgo ak nataal",
+    "allGames": "Mbooleem po yi",
+    "pictures": "Nataal yees man a móol",
+    "activityIdeas": "Xalaati jëf-jëf",
+    "ideas101": "101 xalaati jëf-jëf",
+    "lateStage": "Jëf-jëf ngir tolluwaay bu mujj bi",
+    "printable": "Jëf-jëf yees man a móol",
+    "allActivities": "Mbooleem jëf-jëf yi",
+    "forCaregivers": "Ngir way-toppatoo yi",
+    "playTogether": "Noo man a poodee",
+    "selfCare": "Toppatoo sa bopp",
+    "brainHealth": "Gëstu ci wér-gu-yaramu xel",
+    "faq": "Laaj ak tontu",
+    "about": "Lu jëm ci nun",
+    "approach": "Sunu doxaliin",
+    "howWeWrite": "Ni nuy binde",
+    "organizations": "Ngir mbootaay yi",
+    "app": "Apilikaasioŋ Golden Moments",
+    "appHelp": "Ndimbal ci apilikaasioŋ bi",
+    "support": "Ndimbal",
+    "legal": "Yoon",
+    "sitePrivacy": "Sutura dalub web bi",
+    "appPrivacy": "Sutura apilikaasioŋ bi",
+    "privacyChoices": "Tànneef ci wàllu sutura",
+    "terms": "Kàllente ak sañ-sañu apilikaasioŋ bi",
+    "safety": "Kaaraange ak li nu ko jaglee",
+    "accessibility": "Yombal jëfandikoo",
+    "healthNotice": "Xibaar ci wàllu wér-gu-yaram",
+    "allLegal": "Mbooleem xibaari yoon",
+    "note": "Golden Moments dafay joxe ay jëf-jëf yu yomb yoo man a bokk ngir bànneexu rekk. Du ndigalul paj, nattu mbaa paj, te du seet, du natt te du jox kenn njoor. Ngir laaj yu jëm ci wér-gu-yaram, waxtaanal ak doktoor. Su amee jafe-jafe gu réy, wooteel 15.",
+    "publisher": "Móol na ko Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Po ak jëf-jëf ngir demañs ak Alsaymeer | Golden Moments",
+    "description": "Po yu amul fey te teey ak nataal yoo man a po ci internet, ak xalaati jëf-jëf ngir ñiy dundu ak demañs mbaa Alsaymeer ak ñi leen di toppatoo. Amul bindu, waxtu bu lay teel, mbaa njoor.",
+    "eyebrow": "Amul fey · Amul siweel · Amul bindu · Amul waxtu bu lay teel mbaa njoor",
+    "h1": "Po ak jëf-jëf yu dal ngir ñiy dundu ak demañs",
+    "lede": "Po yu yomb ak nataal, nataali njaboot yees miin, ak jëf-jëf yoo man a bokk bànneexu—ci sa kàddu ak sa gaawaay.",
+    "playGame": "Póol ab po",
+    "findIdeas": "Wut ay xalaati jëf-jëf",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Dafay dox ci telefon, taablet ak ordinatëer",
+      "Nataal yu mag yuy des di feeñ",
+      "Taxawal ci waxtu boo bëgg; amul lenn loo ci man a loraale"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Apilikaasioŋ bu amul fey itam ngir iPhone, iPad ak Android, boo man a def say nataali njaboot",
+    "albumNote": "« Ñaari nataali kaas bu tàng, teqale leen. »",
+    "gamesEyebrow": "Póol ci sa joowkat",
+    "gamesTitle": "Po yoo man a po fii-ak-fii",
+    "gamesLede": "Benn bu ci nekk dafa dal, yey mag te yomb a tambali. Tànnal benn, toogalandooleen, ngeen di wàññente di laal suuf si.",
+    "seeAllGames": "Xoolal mbooleem {count} po yi",
+    "howTitle": "Ni muy doxe",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Tànnal lenn loo miin",
+        "text": "Nataali kaasi tàng, tooli mbay, mala yi ñu yar ak gaalu ngelaw. Amul njàng mbaa sart yoo wara jàng ba fàww."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Toogalandooleen",
+        "text": "Bàyyileen mu laal. Waxtaanleen ci nataal yi. Su ñaar yemul, dafay xaar rekk beneen laal."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Taxawleen fi ngeen neexee",
+        "text": "Benn po jëf-jëf bu mat la. « Doy na fii » dafay nekk saasu nekk ci seetluwaay bi."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ci biti seetluwaay bi",
+    "stageTitle": "Xalaati jëf-jëf ngir tolluwaay bu nekk",
+    "stageLede": "Misik, liggéeyu bés bu nekk, fàttaliku lu weesu ak waxtu yu dal, yoo yamale ak li gën a dal tey jii.",
+    "ideas101": "101 xalaati jëf-jëf",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Tolluwaay bu njëkk",
+        "text": "Wéyleen di def li leen neex, ak yenn coppite yu néew: bégéel, génn, poy kàddu ak waajalandoo.",
+        "label": "Xalaat ngir tolluwaay bu njëkk bi"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Tolluwaay bi ci digg bi",
+        "text": "Liggéey yu yomb te miin yuñ séddale ci ay pàcc: lem, ràññale, misik, poy nataal ak doxankatu néew.",
+        "label": "Xalaat ngir tolluwaay bi ci digg bi"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Tolluwaay bu mujj",
+        "text": "Dalal ak dëggëral jokkoo jaare ko ci laal, dégg ak seet: toppatoo loxo, woy yees bëgg, nataal ak nekkalandoo.",
+        "label": "Xalaat ngir tolluwaay bu mujj bi"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Ndax yaangi wut lenn lu yor xamle? Seetal <a href=\"/activities/alzheimers/\">jëf-jëf ak po ngir Alsaymeer</a>, <a href=\"/activities/memory-games/\">po yu dal ngir xel</a>, <a href=\"/activities/trivia/\">laaj ak tontu yu yomb</a> mbaa <a href=\"/activities/puzzles/\">pësël</a>.",
+    "approachEyebrow": "Sunu doxaliin",
+    "approachTitle": "Jëf-jëf bu nu bokk, du nattu xel",
+    "approachLede": "Bari na ci « po ngir xel » yoo xam ne gaawaay, njoor ak wéy ci sonal lañu leen tërële. Ci nit kuy dundu ak demañs, loolu mën na mel ni nattu jaŋgoor. Nun li ko wuteel lañu defar.",
+    "approachLink": "Lu tax nu defare ko nii",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Amul lenn loo ci man a loraale",
+        "text": "Amul waxtu, njoor, bakkan yuy jeex mbaa pert. Nataal bu yemul dafay taxaw rekk, du njuumte."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Nataal yi dañuy des di feeñ",
+        "text": "Ràññe mooy li am solo, du fàttaliku. Teqale dafay tambalee nataal yu féete kanam, kon amul dara loo wara jàngate."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Lu jëm ci mag te teey",
+        "text": "Kàddu yu teey, yu leer, ak nataali àddina bi. Du mukk nattalu xale mbaa waxi xale."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Sutura moo ko tëral",
+        "text": "Amul konte mbaa siweel. Say nataal duñu génn mukk sa jumtukaay."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ngir way-toppatoo yi",
+    "guidesTitle": "Téere ndimbal yu jariñ ngir toppatoog bés bu nekk",
+    "allCaregiving": "Mbooleem teerey toppatoo yi",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Ni nuy poodee",
+        "text": "Defaraat, gaawaay, ak li ngay def su fekkee po mi neexatul."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Su ñu bëggul po mi",
+        "text": "Li koy waral lu ëpp, ak fexe yu dal ngir jéemaat ko ci kanam."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Defar ab taablet",
+        "text": "Mbind mu gën a rëy, lu néew ci yàqaale, ak seetluwaay bu njëkk bu yomb."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Jëf-jëf yees man a móol te amul fey",
+        "text": "Seet kàddu ak mbind mu mag, xëti noone, biŋgo ak kàrtu waxtaan."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Wér-gu-yaramu xel: li gëstu bi wax dëgg-dëgg",
+    "researchText": "Ndax man nañu bañ demañs? Ndax po ngir xel mën na dimbali? Naka la koor, lekk, nelaw ak dégg mel? Tontu yu leer te leer nañu fu nu leen jële, ba ci fa firnde yi néewee.",
+    "researchLink": "Jàngal téerey gëstu yi",
+    "appEyebrow": "Apilikaasioŋ itam",
+    "appTitle": "Golden Moments ci iPhone, iPad ak Android",
+    "appText": "Apilikaasioŋ bu amul fey bi dafay dox te soxlawul internet, te mën na jëfandikoo nataali njaboot yoo tànn, yoo xam ne ci sa jumtukaay lañuy des. Benn doxaliin bu dal bi: ñeenti bantiir yu mag, amul waxtu bu lay teel, amul njoor.",
+    "aboutApp": "Lu jëm ci apilikaasioŋ bi",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ban po ñooy po yu baax ngir ñiy dundu ak demañs?",
+        "a": "Po yu baax yi dañoo yomb, nit ki xam leen, te amul benn nooteg xel: nataal yu mag yuy lënkaloo, séddale, puzzle yu yomb, matal wax yu siw, wuutal kuloor, bingo bu am nataal, ak kàrti waxtaan. Tànnéef bi gën mooy li neex nit ki tay. Moytuleen waxtu buy dëddu, poñ, ak lépp luy mel ni nattu."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Ndax po yii kenn du leen fay?",
+        "a": "Waaw. Bépp po ak lépp luy mönti móol ci Golden Moments doo ci fay dara, laccul am kont, bindu, walla wàccale ko. Po yi dañuy dox rekk ci boyetu web bi ci telefon, tablet walla ordinatëer."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Ndax po yi ñuy xalaate mën nañu tee jafe-jafey fàtte am?",
+        "a": "Benn po wanewul ne mën na tee jafe-jafey fàtte am, te Golden Moments waxul mukk ne dafay faj walla tee dara. Sunu po yi dañu nekk ngir bànneex ak bokk jamono rekk. Sunu wàllug wér-gi-yaramu xel dafay leeral li gëstuy xam-xam wane ak li mu wanewul."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Ndax po yii baax nañu ci ku am tawat bi tudd Alzheimer?",
+        "a": "Waaw. Tawat bi tudd Alzheimer mooy li ëpp liy jur jafe-jafey fàtte, te po yi dañu leen defar ngir loolu: nataal yu mag yuy des di fés, tànnéef yu néew, te amul luy fàttaliku walla juum. Boolale, séddale, ak matal wax yu xamoo dañuy sukkandiku ci xam-xam bu yàgg te du jàngum bees."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Ndax nit ku jafe-jafey fàtte bi gëna màgg ci moom mën na jëfandikoo yëngu-yëngu yii?",
+        "a": "Yenn saa yi waaw, bu amee koo xam ne dafa taxaw ci wetam. Dóoreleen ak Wër lu ni mel ak ñaari nataal, Nataal yu melandoo ak ñeenti taabil, xët wuñuy kuloorale, walla nooflaay ci noor bu dal. Bu mu yàgg, toppleen li ko neex te taxaw bu doyee."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Ndax sama xibaar yi suturalu nañu?",
+        "a": "Dalub web bi amul kont te amul siiwal. Danuy jëfandikoo Google Analytics ngir xam xët yiy gën a am gane. Nataal yingay tànn ngir Photo pairs ci sa boyetu web rekk lañuy fés te kenn du leen yeb ci net bi."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Kan mooy defar Golden Moments?",
+        "a": "Golden Moments mbooloo mu tuut la buy defar yëngu-yënguy nataal yu dal te jëm ci mag ñi, ngir njaboot gi ak ñiy toppatoo, ci web bi ak ci aplikasioŋ bu kenn du fay. Nun duñu doktoor, te lépp lu nekk fii du ndigal ci wàllu paj."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "njëlbéen",
+    "middle": "diggante",
+    "late": "mu jëm kanam",
+    "hintOne": "Yenn saa yi baax na ci tolluwaayu {list}",
+    "hintMany": "Yenn saa yi baax na ci tolluwaayi {list}",
+    "labelEarly": "Tolluwaayu njëlbéen",
+    "labelMiddle": "Tolluwaayu diggante",
+    "labelLate": "Tolluwaay bu jëm kanam"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ci mbiru po mii",
+    "printable": "Mën nañu ko móol",
+    "play": "Po {name} →",
+    "readGuide": "Jàng tektal yi"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Ndax waaj nga ngir po mu neex te dal?",
+    "text": "Nataal yu mag, amul waxtu buy dëddu, amul poñ, te amul fumu laaj bindu. Pandooleen ci sa boyetu web.",
+    "play": "Po benn po",
+    "all": "Gis po yépp",
+    "aria": "Po benn po"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Àndal ak po yii féepp",
+    "text": "Aplikasioŋ Golden Moments bi kenn du fay ngir iPhone, iPad ak Android: taabili nataal yu mag, po ak sa nataali njaboot ci boppam, ak kàrtu nataal yuy dox te amul Wi‑Fi. Amul kont, siiwal, waxtu buy dëddu walla poñ.",
+    "appStore": "Wàccale ko ci App Store",
+    "googlePlay": "Wàccale ko ci Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Ci mbiru aplikasioŋ bi",
+    "aria": "Amel aplikasioŋ bi"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Yëngu-yëngu yi",
+      "title": "Yëngu-yëngu yi ñu jagleel ñi am jafe-jafey fàtte",
+      "seo": "Yëngu-yëngu ngir ñi am jafe-jafey fàtte: Xalaat yi tegu ci tolluwaay",
+      "description": "Xalaati yëngu-yëngu ngir nit ñi dund ak jafe-jafey fàtte ci bépp tolluwaay: woy, fattaliku jamonoy làmb, liggéeyu bés bu nekk, yëg-yëgu yaram, loxo ak xam-xam, biti ak liñu mën a móol te doo fay.",
+      "lede": "Yëngu-yëngu bu am solo mooy lépp luy indi dal, solo, walla jamonoy lëkkaloo. Dóoreleen ak li neexon nit ki ca jamono yu yàgg, te jubale ko ak li am tay."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Toppatoo",
+      "title": "Tektali toppatoo",
+      "seo": "Tektali toppatoo ñi am jafe-jafey fàtte: Ndimbalu bés bu nekk",
+      "description": "Tektal yu am solo te neex ngir ñiy toppatoo ñi am jafe-jafey fàtte: bokk po, waxtaan, baŋ-baŋi, jaxasoo ci ngoon, tablet, tànn aplikasioŋ ak toppatoo sa bopp.",
+      "lede": "Ndimbal gu leer te yomb ngir bés bu nekk ci toppatoo ku am jafe-jafey fàtte, boole ci toppatoo sa bopp."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Wér-gi-yaramu xel",
+      "title": "Wér-gi-yaramu xel: Li gëstuy xam-xam wax",
+      "seo": "Wér-gi-yaramu xel ak musibay jafe-jafey fàtte: Li gëstuy xam-xam wax",
+      "description": "Ndax mën nañu tee jafe-jafey fàtte am? Tektal yu dëggu te am tegtal ci liy jur jafe-jafey fàtte, po yu xel, woor, lekk ak naan, yaramu yëngu, nelaw, dégg ak màndarga yu njëkki.",
+      "lede": "Li gëstu yu mag yi wane dëgg ci wàññi musibay jafe-jafey fàtte, leeral ko ci anam gu yomb, boole ci fa firnde yi néewee walla jaxasoo. Xibaar yu yaa la, du ndigal ci wàllu paj."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Yeesal nañu ko",
+    "minuteRead": "{n} simili jàng",
+    "byTeam": "Mbooloom Golden Moments moo ko bind",
+    "howWeWrite": "Ni nuy binde",
+    "shortAnswer": "Tontu bu gàtt bi",
+    "onThisPage": "Ci xët wii ({n} cér)",
+    "commonQuestions": "Laaj yu siw yi",
+    "sources": "Dàtt yi",
+    "sourcesNote": "Danuy lënkale mbooloo yi ak gëstu yi xët wii sukkandiku ci ñoom. Séet nañu bu nekk bi ñu yeesalee xët wii.",
+    "tryTogether": "Jéemandooleen",
+    "relatedGuides": "Tektal yi ci aju",
+    "related": "Li ci aju",
+    "startHere": "Dóoreleen fii"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Yégle ci xibaari wér-gi-yaram",
+    "title": "Xibaar yu yaa, du ndigal ci wàllu paj",
+    "textHtml": "Xët wii dafay tënk gëstuy xam-xam yi fés ngir njaboot yi. Mënul wax li baax ci benn nit ci boppam. Waxtaanleen ak doktoor laata ngeen di soppi lekk, yëngu-yënguy yaram, nelaw, garab walla ndimbali lekk. Su jaxasoo gu bettee walla yeneen soppite yu bettee amee, wutleen ndimbalu paj léegi-léegi. <a href=\"/medical-disclaimer/\">Jàngal sunu yégley xibaari wér-gi-yaram</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Yëngu-yëngu buñuy bokk, du nattu fàttaliku",
+      "seoTitle": "Ci mbiru Golden Moments: Sunu doxiin",
+      "description": "Lu tax poy Golden Moments amul waxtu buy dëddu, poñ walla toftalante, lu tax nataal yi di des di fés, ak li nuy wax ak li nu duñu mësa wax ci mbiru jafe-jafey fàtte.",
+      "crumb": "Sunu doxiin",
+      "lede": "Golden Moments dafay defar yëngu-yënguy nataal yu dal te jëm ci mag ñi, yoo xam ne ku koy toppatoo ak ku dund ak jafe-jafey fàtte mën nañu ko bégandoo wet ak wet.",
+      "bodyHtml": "<h2>Li nu gëm</h2><p>Li am solo ci po mi, mooy waxtu wi ngeen di dund ci boppam: waxtaan bu neex, ree bu teey, bànneex bi ci boole ñaari nataal yu melokaan benn, walla toog rekk ci wetu nit ki. Du ngir natt kenn, dëj ko ci lu ko sonal, walla firndeel dara.</p><p>Aplikasioŋ yu bari yiy wax naan dañuy tëgg xel mi, dañu leen tëral ci gaawaay, ay natt, poñ ak tolluwaay. Ci nit kuy dundu ak wàññikug fàttaliku, loolu mën na mel ni nattu bu mënul jàll. Nun leneen lañu tëral, te dañuy topp sàrt yii:</p><ul><li><strong>Dara amul luy perte.</strong> Amul montor, natt, limu yëngu, bakkan yuy jeex, poñ yu toppante, ay konfeti walla waxtu buy wàññiku, ci benn seetluwaay.</li><li><strong>Raññee ci kow fàttaliku.</strong> Nataal yi dañuy feeñ rekk te duñu làqu. Laac yi dañuy ubbi waxtaan te duñu laac mukk ay tur walla ay fàttaliku.</li><li><strong>Mbaax, leer te neex a gis.</strong> Mbind mu mag ak nataal yu rëy, leer bu leer nàññ, ak butoŋ yuy toog fumu nekk te duñu soppiku barab.</li><li><strong>Teg nit ki ci darajaam.</strong> Nataali dund gu dëgg ak baat yu teey te yiw. Amul nataali xale, tagg guy tëgg walla emosiŋ yuy maye ndam.</li><li><strong>Yoon bu yomb ngir génn.</strong> «Doy na fi» dafay feeñ saa yu nekk. Taxaw ci digg bi itam, mbir mu baax la.</li><li><strong>Sutura ci tëralin wi.</strong> Amul bindu, amul kabaari komersiyel. Nataal yi nga tànn ci sa aparey rekk lañuy des.</li></ul><h2>Li nu du wax mukk</h2><p>Sunu po yi ngir bànneex ak teewaloole lañu leen tëral. Duñu seet, duñu natt, duñu faj, duñu yeexal mbaa duñu tere wàññikug fàttaliku walla tawat bu Alzheimer, te kenn waru leen a tànn ngir loolu. Su nuy wax ci gëstu yi ci sunu <a href=\"/brain-health/\">xëti wér-gi-yaramu xel mi</a>, dañuy wax ci dëgg te leer fu firnde yi néewee, te dunu ko lëkkale mukk ak sunu po yii.</p><h2>Ñooy kan</h2><p>Golden Moments ay kureel yu ndaw lañu te moom sunu bopp. Dunuy doktoor. Sunu tektal yi, dañu leen sukandikoo ci téere yi kureel yu mel ni National Institute on Aging ak Alzheimer’s Association génne, te tektal bu ci nekk dafay wax fu mu jële kàddu yi. Jàngal <a href=\"/editorial-policy/\">ni nuy binde ak a seete sunu xët yi</a>.</p><h2>Wax leen nu li leen mën a dimbali</h2><p>Dina nu neex lool ñu dégg li leen neex ak li leen neexul, rawatina ci nit ñiy dundu ak wàññikug fàttaliku, mbokk yiy toppatoo ci kër gi, ak liggéeykat yiy doxal po yi. Bind leen nu ci <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Ni Nuy Binde ak a Seete Sunu Xët yi",
+      "seoTitle": "Sàrti Bindiin",
+      "description": "Ni Golden Moments di gëstoo, di binde, di sàmme cosaan yi ak a yeesale xëti poy wàññikug fàttaliku ak wér-gi-yaramu xel mi, ak li nu dul génne mukk.",
+      "crumb": "Sàrti bindiin",
+      "bodyHtml": "<h2>Sunu cosaan yi</h2><p>Dañuy sukandikoo sunu tektal yi ci ndigal yu feeñ yu kureel yu mel ni National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ak NHS, ak ci gëstu yu am xam-xam yu jàll ci nattu yu mel ni Cochrane reviews ak nattu ci wàllu paj yu mag. Tektal bu nekk dafay wax cosaan ya mu tegu. Dañuy ubbi cosaan bu ci nekk bala nu koy tuddoon, te dunu wax lu dul li fa nekk dëgg.</p><h2>Ni nuy binde</h2><ul><li>Jëf moo jiitu: li ngay def tey, ci kàddu yu leer te yomb.</li><li>Dëggu ci li xam-xam wax: dañuy wax «lënku na ak», «mën na» ak «firnde yi wute nañu» su dee loolu mooy dëgg gi.</li><li>Teg nit ci darajaam: dañuy binde ci nit ñiy dundu ak wàññikug fàttaliku ni mag yu am matug kàddu, te dunu jëfandikoo mukk kàddu yuy nattu mbaa yuy rusloo.</li><li>Amul lu nu fendi: amul lim yu nu tëgg ci kow te amul, kàddu yu kenn waxul, boroom xam-xam yu fende, gëstu, seet walla seede yu amul.</li></ul><h2>Kuuy seet sunu xët yi</h2><p>Xët yi, kureelu Golden Moments la leen di binde te di leen seet, ak ndimbalu jumtukaayi AI ngir gëstu ak tëral mbind mi. Xët bu ci nekk, kureel gi dafay seetaat cosaan yi. Sunu xët yi doktoor walla boroom paj <strong>seetuwu leen</strong>, te mësul nu wax leneen. Ay xibaar yu yàa lañu, du ndigalu fajkat.</p><h2>Li nu du mukk génne</h2><ul><li>Kàddu yiy wax naan po, dund, garabi ñam, woor walla doxaliin dafay tere, di faj, di yeexal walla di dindi wàññikug fàttaliku.</li><li>Nattu, laac walla lim yuy wax naan nit ki am na, walla amul, wàññikug fàttaliku.</li><li>Ndigal ngir tambali, bayyi walla soppi benn garab.</li><li>Kabaari njaay walla bu keneen fay bu nu làq ci biir tektal.</li></ul><h2>Yeesalaat ak jagleel</h2><p>Xët bu nekk dafay wone bés bi nu ko mujjee yeesal. Boo gisee njuumte walla cosaan bu dootul yees, bindal ci <a href=\"mailto:{email}\">{email}</a> te dina nu ko seet ci léegi-léegi.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Laac ak Tontu",
+      "seoTitle": "Poy Wàññikug Fàttaliku ak Yëngu-yëngu yi: Laac ak Tontu",
+      "description": "Tontu ci laac yi ëpp ci wàllu poy wàññikug fàttaliku ak yëngu-yëngu yi: ban po lañuy jéem, ñaata waxtu lañuy po, xalaat ngir tolluwaay yu gëna yàgg, wér-gi-yaramu xel mi ak sutura.",
+      "crumb": "Laac ak tontu",
+      "lede": "Tontu yu gàtt te leer ci laac yi toppatookat yi di gëna laac.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Ci wàllu po yi",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Ban po ñoo gëna baax ci nit kuy dundu ak wàññikug fàttaliku?",
+              "a": "Po yi gëna baax ñooy yi nit ki miin, yu yomb te amul coonataay, te po bu baax bi mooy li nit ki bëgg tey jii. Boole ñaari nataal yu feeñ, ràññatle, sàkketu nataal yu yomb, mottali leeb mbaa kaso yu nit ñi miin, xellal ak bingoog nataal, lépp loolu baax na lool ci nit yu bari. Moytuleen montor, natt ak lépp luy mel ni ekzaame."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Ndax po yi amul fay dëgg-dëgg?",
+              "a": "Waaw. Po yépp ak këyit yiy móol amul benn faye, te laajul bindu, sàkku kàmpit, yeb mbaa publisite."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Lu tax amul ay poñ, ay tolloowaay walla nattkatu waxtu?",
+              "a": "Gaawaay ak poñ dafay soppi po yu neex yi di leen def ekzame, te loolu man na jur rus walla mer. Li ñu bàyyi xel mooy bànneex ak séddoo waxtu, ba tax na amul lenn luy sànku te mën nga ko dakkal saa yoo ko bëggee."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Ban jumtukaay ñooy gën a baax?",
+              "a": "Benn telefon, tablèt walla ordinateer bu am làmbkatu web bu yees. Tablèt bu ñu tëral ci kaw taabal moo gën a yomb ngir ñaari nit séq po bi loxo ci loxo. Ordinateer bu ñu lëkkale ak tele it baax na lool ngir mbooloo."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Ndax mën nanu po ak suñuy nataalu njaboot?",
+              "a": "Waaw. Photo pairs dafay jël 2 ba 6 nataal yoo tànn di leen def po buñuy méngale. Nataal yi ci sa làmbkatu web rekk lañuy toog, duñu leen yeb ci internet walla denc leen."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Jëf yi ak toppatoo",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Diir bu tollu nan la benn jëf wara def?",
+              "a": "Yenn saa yi 10 ba 20 simili doyna lool, te yenn saa yi 2 simili kotte na. Saytul mandargay coono walla mer, te dakkal li feek neex na ba tey. Amul diir bu ñu tëral."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Su fekkee ne nit ki bëggul def lenn ci jëf yi nag?",
+              "a": "Woyofal ci li mu lànk, te jéemaat ci yeneen waxtu walla ci weneen anam. Lànk man na jògge ci coono, mettit, xalaas walla ñàkk bëgg rekk. Xoolal suñu téere ngir xam li nga wara def su dee dafa lànk."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Ban jëf ñooy yey ci nit ñi féebaru fàtte bi sori ci ñoom?",
+              "a": "Dalal ak dundal yëg-yëg yi: déglu misik bu neex ci moom, masaas loxo ak pomat, séq seet ay nataal, téye mbubb mu nooy, toog ci biti, walla po bu gën a yomb ci ay nataal ak koo xam ne dafa toog ci wetam. Suñu gindikaayu tolloowaay bu sori am na yeneen xalaat yu bare."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Ndax am na ay jëf ngir ay mbooloo ci kër toppatoowaay yi?",
+              "a": "Waaw. Picture bingo am na ay kart yoo man a móol ak woykat ci ekran bi, te Finish the saying ak Conversation cards baax nañu lool suñu leen di jàng ci kow. Suñu gindikaayu mboolooy kër toppatoowaay dafay wax ci réyaayu mbooloo bi, tooguwaay yi ak ni ñuy mësee méngale ak dooley nit ku nekk."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Wéru xel mi",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Ndax po yi man nañu téye walla yeexal féebaru fàtte?",
+              "a": "Benn po firndéwul ne man na téye féebaru fàtte, te suñuy po mësuñu wax loolu. Yeete xel ci biir mbooloo wone na tuuti njariñ ci gëstu yi ngir nit ñiy dundu ak féebaru fàtte bu ndaw ba diggdòomu, waaye loolu bokkul ak po buy dakkal féebar. Ñun danuy joxe po ngir bànneex ak séq jamono ju rafet."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Ndax man nañu téye féebaru fàtte?",
+              "a": "Du lu leer nàññ. Gëstu yi lëkkaloo nañu 14 mbir yu jëm ci wér-gu-yaram ak dundin ak xalaatu am féebaru fàtte, niki xàddi nopp, tansiyoŋ bu yéeg, ñàkk yëngu ak beru ci nit ñi. Saytu yile man na wàññi xalaat bi ci yenn nit ñi, waaye bare na nit ñoo xam ne def nañu lépp lu baax te it am féebaru fàtte. Du tooñu kenn mësu ko doon."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Ndax woor ci jamono yu dogoo baax na ngir wéru xel mi?",
+              "a": "Firnde yi jëm ci nit ñi dafa xat te doog a tàmbli, te gëstu yu bare ci ràb yi lañu ko def. Woor man na am yaram ci mag ñi, rawatina ak garabu suukir walla wàññeeku poy bi kenn bëggul, te diglewuñu ko nit ñiy dundu ak féebaru fàtte. Waxtaanal ak doktoor laata ngay soppi ni ngay dundee."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Sutura ak kaaraange",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Ndax dangeen di dajale benn xibaar?",
+              "a": "Amul kàmpit mbaa publisite. Danuy jëfandikoo Google Analytics ngir natt nemmeeku yi ak xool ban xët ñooy jàppale, te sa làmbkat dafay fàttaliku ndax tëgg nga kàddu yu nooy yi. Nataal yoo tànn ngir Photo pairs mësuñu leen yeb. Xoolal xibaaru sutura bi ngir yeneen leeral."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Ndax lii digle doktoor la?",
+              "a": "Déedéet. Golden Moments dafa nekk ngir bànneex ak xibaar yu mboole. Su dee laaj jëm ci wér-gu-yaram, waxtaanal ak doktoor, te ci jafe-jafe yu gaawoon wooyal 15 walla 18."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Yeneen leeral: <a href=\"/caregiving/how-to-play-together/\">ni ñuy poondoore</a>, <a href=\"/caregiving/when-they-say-no/\">bu ñu lànkee</a>, <a href=\"/activities/late-stage/\">jëf yi yey ci tolloowaay bu sori</a> ak <a href=\"/brain-health/can-dementia-be-prevented/\">ndax man nañu téye féebaru fàtte?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Po yu Yomb te Amul Faye ngir Nit ñiy Dundu ak Féebaru Fàtte",
+      "seoTitle": "Këyit wuñuy Móol: Po yu Amul Faye ci Féebaru Fàtte ci Internet",
+      "description": "Këyit wu am benn xët wu ñuy móol ngir njaboot yi ak toppatookat yi ci po yu yomb ci ay nataal te amul faye ngir nit ñiy dundu ak féebaru fàtte, ngir mboolooy ndimbal ak pakk yi ñuy joxe ngir toppatoo.",
+      "crumb": "Këyit wuñuy móol",
+      "lede": "Móolal xët wii ngir mbooloom ndimbal, pakkum toppatoo walla ci buntu firiñ bi. Jëfandikool ndigalal Móol ci sa làmbkatu web; boyet yi ak butoŋ yi duñu feeñ ci këyit bi.",
+      "introHtml": "<p>Nataal yu màgg, kàddu yu yomb te amul lenn loo man a sànku. Amul faye ci telefon, tablèt walla ordinateer, amul bindu, amul publisite, amul nattkatu waxtu te amul poñ. Toogleen loxo ci loxo te di leen ko def ku nekk sa téeñ.</p>",
+      "gamesTitle": "Po yoo man a jéemandoo",
+      "restHtml": "<h2>Yenn digle</h2><ul><li>Tànnal waxtu ci bés bi nga xam ne nit ki dafa gën a noppalu te fés ak doole.</li><li>Tàmbliileel li gën a yomb. Ñeenti kaye doyna lool.</li><li>Waxtaanleen ci nataal yi. Waxtaan wi moo gën a neex yenn saa yi.</li><li>Dakkal li feek neex na ba tey. Tàmbli ba dakkal ko ci teel njariñ la.</li></ul><h2>Am na it ci dal bi</h2><ul><li>Këyit yu amul faye yoo man a móol: seet baat yi ci mbind mu màgg, xëti kalar buñuy pentaar, karti waxtaan ak picture bingo.</li><li>Xalaati jëf ngir tolloowaay bu nekk, ak gindikaay ci ni ñuy poondoore ak ni ngay toppatoo sa bopp.</li></ul><p class=\"muted\">Ngir bànneex ak séddoo waxtu rekk. Du digle doktoor, nattu mbaa paj. Golden Moments dafa bokk ci li Cloudjet Solutions Pte. Ltd. génne.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Ngir Këri Toppatoowaay, Daaraaji Téere ak Mboolooy Ndimbal",
+      "seoTitle": "Po yu amul fey ngir kër mag ñi ak mbootaay yi ngir ñiy dundu ak wàññeeku xel",
+      "description": "Ni kër mag ñi, barabi jàngale mag ñi ci bëccëg, téereyukaay yi, mbootaayi toppatoo mag ñi ak kureeli ndimbal jëfandikoo po yu amul fey yu jëm ci ñiy dundu ak wàññeeku xel, ak mbind ngir yokk nu ci seen limu ndimbal.",
+      "crumb": "Ngir mbootaay yi",
+      "lede": "Lépp lu nekk ci dal bi amul benn fey ngir jëfandikoo ko ak ñi dëkk ci kër yi, cér yi ak gan yi, te amul laaj benn kont, sañ-sañ mbaa fey. Xët wii dafay fexel liy fi nekk ak ni ngeen koy séddoo.",
+      "shortText": "{name}: po yu amul fey, yu woyof te am nataal, ak tektali toppatoo ngir ñiy dundu ak wàññeeku xel ak ñi leen di toppatoo. Amul bindu, amul wàllu waxtu, amul kooñ.",
+      "longText": "{name} ({domain}) dafa lay may {count} po ci internet yu amul fey, yuñ defar ngir ñiy dundu ak wàññeeku xel, bokk na ci lëkkale nataal yu melandoo te teew ba tey, jigsaw bu yomb, tëral ak xàjjale, léebu yuñ xam ak bingo nataal bu am kayit yuñ mën a móol. Amul benn kont, amul benn yaxantu, amul waxtu te amul kooñ. Dal bi dafa am tamit ay tektal ci làkk bu yomb ngir toppatoo ci bépp xaju wàññeeku xel, yuñ jële ci National Institute on Aging ak Alzheimer's Association.",
+      "useTitle": "Li mbootaay yi mën a jëfandikoo",
+      "gamesItemHtml": "<strong>{count} po ci internet</strong> yoy mën nga leen doxal ci ordinatëer bu xat, taableet mbaa ci tele bu lëkkalook ordinatëer. Amul samp, amul bindu, amul yeb. Xoolal <a href=\"/games/\">po yépp</a>.",
+      "printablesLabel": "{count} kayit yuñ mën a móol:",
+      "printablesAfter": "Bësal butoŋu Móol bi ci bépp xët.",
+      "moreItemsHtml": "<li><strong>Po yu mbootaay:</strong> <a href=\"/games/picture-bingo/\">Bingo nataal</a> am na kayit yuñ mën a móol ak kiy woolé ci seetluukaay bi, te <a href=\"/activities/trivia/\">laantite yu yomb</a> am na 50 laaj yu and ak tontu yi nga mën a tànn ak cëslaayu waxtaan.</li><li><strong>Tektali def-def</strong> ngir liggéeykat yi ak njaboot yi, ci xaj ak ci xeet, yuñ bind ci làkk bu leer te and ak dali xibaar. Tambalil ak <a href=\"/activities/ideas/\">101 xalaati po</a> mbaa <a href=\"/activities/care-home-groups/\">poy mbootay ngir kër mag ñi</a>.</li>",
+      "restHtml": "<h2>Ni ko mbootaay yi di jëfandikoo</h2><ul><li><strong>Kër mag ñi ak barabi toppatoo fatteliku:</strong> bingo nataal mbaa motali-léebu ci telewu néeg bu yaa bi, te kenn rekk di bësal mbooloo mi.</li><li><strong>Poregaramu bëccëg ngir mag ñi:</strong> taableet buñ tëral ak Lëkkale nataal yuñ def ñeenti wàll, ngir waxtu gu gàtt diggante ñaar nit.</li><li><strong>Téereyukaayi mbooloo:</strong> wut baat yuñ móol ak kayiti waxtaan ci bërki fatteliku, ak dal bi ñu denc ko ci taableeti téereyukaay bi.</li><li><strong>Mbootaayi dimbali toppatookon yi ak memory cafés:</strong> <a href=\"/handout/\">kayit bu am benn xët buñ mën a móol</a> ngir njaboot yi yóbbu kër.</li><li><strong>Ospitaal yi ak ñiy teewal génn:</strong> kayit bi ci ëmbteelu toppatookon yi, ngir am lu dal luy def kër ga mbaa ci wetu lal bi.</li></ul><h2>Li nu dul def</h2><p>Po yi ngir bànneexu ak am waxtu bu rafet ñoor nañu. Duñu seet wopp, duñu natte, duñu joxe kooñ, duñu fajj te duñu yeexal wàññeeku xel mi, te danuy ñaan mbootaay yi bañ koo leeral noonu. Amul benn yaxantu, te po yi duñu laaj tur, xibaaru wér-gi-yaram mbaa nataal yoy da ngay yeb. Dal bi dafay jëfandikoo Google Analytics ngir waññ ñiy ñëw; sunu <a href=\"/privacy/\">tektalu sutura</a> dafay fexel li mu ciy dajale. Nataal yuñ jëfandikoo ci <a href=\"/games/photo-pairs/\">Nataal yu melandoo</a> dafay des ci browser bi.</p><h2>Yokk nu ci sa limu ndimbal</h2><p>Su fekkee danga am limu ndimbal ngir toppatookon yi, dalal ak jàmm ngir lëkkale ak <a href=\"/\">{domain}</a>. Mën nga duppi benn ci leeral yii.</p>",
+      "shortTitle": "Leeral bu gàtt",
+      "longTitle": "Leeral bu gëna yaa",
+      "linksHtml": "<p>Xët yu am njariñ yoy mën nga leen lëkkale ci anam gu jub: <a href=\"/games/\">po yu amul fey</a>, <a href=\"/activities/printable/\">kayit yuñ mën a móol te amul fey</a>, <a href=\"/activities/alzheimers/\">po ngir Alzheimer</a> ak <a href=\"/caregiving/how-to-play-together/\">ni ñuy poondoore</a>.</p><h2>Laaj mbaa yéwéni xibaar</h2><p>Su fekkee am na lenn lu juum mbaa lu leerul ci dal bi, mbaa soxlay ku dëkk fa matul ci li nekk fi, ngalla xamal nu ko ci <a href=\"mailto:{email}\">{email}</a>. Ngalla bul yónnee xibaaru bopp mbaa wér-gi-yaram bu jëm ci ñi fa dëkk mbaa gan yi.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Aplikasiyoŋu Golden Moments",
+      "seoTitle": "Aplikasiyoŋu Golden Moments ngir iPhone ak Android",
+      "description": "Aplikasiyoŋu Golden Moments bu amul fey: lëkkale nataal yu woyof ak ñeenti wàll yu mag, nataali njaboot yu des ci sa masin, mbooti nataal yoy doolaajo internet, te amul benn kont.",
+      "crumb": "Aplikasiyoŋ bi",
+      "lede": "Lépp loo bëgg ci dal bi, ci biir aplikasiyoŋ bu mën a dox te doolaajo internet te mën a jëfandikoo nataali njaboot yoo tànn.",
+      "worksOn": "Mën na dox ci {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Tambali ndànk</h2><p>Tambalileendook ñeenti karte yu mag ak nataal yu leen yàgg a xam. Bayyileen nataal yi ñu fés, walla ngeen nëbb leen su leen nexee. Anam gu lewet gi amul waxtu buy xaññe, amul ay poñ, amul it mbugal. Tànnleen 4, 6, 8 walla 12 karte.</p><h2>Def ko lu laal seen kër</h2><p>Tànnleen nataali kër gi ci jëfekaayu nataal yu seen aparay bi. Dal bi dafay denc ay nataal yu gën a tuuti ngir jëfe yi. Du seet ci seen sémbu nataal te du soppi seen nataal yu njëkk ya, te mën na denc ba 24 nataal ci benn mbooloo.</p><h2>Xoolandoo rekk</h2><p>Xoolleen benn nataal rekk ci benn yoon. Ay wax yu leen mën a ubbi kàddu mën nañu leen may ngeen waxtaan te du laaj kenn mu fàttaliku ay tur walla mu joxe tontu bu baax. Xoolandoo rekk doyna.</p><h2>Jëfandikookoo te soxlawul internet</h2><p>Nataali tambali yi ak juroom-ñetti sémbi nataal yépp a bokk ci dal bi. Nataali kër gi ngeen ci yeb dañuy dox te soxlawul internet. Tànn nataal yu njëkk ya nekk ci iCloud kese mën na laaj lëkkalekaayu internet.</p><h2>Amul kont, amul dencukaay buy yeb nataal</h2><p>Nataali kër gi ñu denc dañuy des ci dal bi ci seen aparay bi. Mën ngeen dindi nataal yi ci biir te seen nataal yu njëkk ya duñu fàddiku. Dencukaayu aparay bi mën na ëmb njoxe yu dal bi. Jàngleen <a href=\"/app-privacy/\">yooni sutura yu dal bi</a>, te <a href=\"/help/\">ndimmbalu dal bi</a> dafay woné bépp yeego.</p>",
+      "disclaimer": "Golden Moments ngir bànneexu ak waxtaanandoo la. Du seet wopp, du faj, du tee, te du natt woppu faté walla woppu Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Po yu amul fey ci internet ngir woppu faté ak Alzheimer",
+    "description": "Po yu amul fey ci internet ngir mag ñiy dund ak woppu faté walla Alzheimer: méngale nataal, po yu sew, séddale, léeb ak kàddu yu am solo, wone kalar, bingo. Du laaj bindu, amul waxtu buy xaññe te amul ay poñ.",
+    "crumb": "Po yi",
+    "h1": "Po yu lewet ngir nit ñiy dund ak woppu faté",
+    "lede": "{count} po yu amul fey ngir poandoo leen ci seen lëkkalekaay. Nataal yu mag, kàddu yu yomb, te amul lumu lay daaneel: amul waxtu buy xaññe, amul ay poñ, amul bindu.",
+    "listName": "Po yu lewet ngir nit ñiy dund ak woppu faté",
+    "byStageTitle": "Tànn po ak ni mbir mi toloot",
+    "byStageLede": "Tolookaay yi ab càmbar kese lañu. Toppleen li nex ki ngay toppatoo ak li ko gënal tey.",
+    "stageCol": "Tolookaay",
+    "gamesCol": "Po yiy gën a jàppandi",
+    "moreHtml": "Yeneen xalaat yu amul ekran: <a href=\"/activities/ideas/\">101 jëfe ngir nit ñiy dund ak woppu faté</a>, <a href=\"/activities/alzheimers/\">jëfe ak po ngir Alzheimer</a>, <a href=\"/activities/memory-games/\">po yu lewet ngir xel mi</a> ak <a href=\"/activities/puzzles/\">po yu sew</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Ban po lañu war a tambalee?",
+        "a": "Méngale ñaari nataal ak ñeenti karte mooy tànneef bu dal ngir tambali. Su tànn diggante nataal yi jafee lool, jéemleen Seet lii mu bokkal ak ñaari nataal. Ngir mbooloo, jéemleen Bingo ak nataal."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Ndax po yi dañuy dox ci iPad walla telefon?",
+        "a": "Waaw. Bépp po dafay dox ci lëkkalekaay bi ci telefon, tablet ak ordinatëer, te nataal yi dañuy màgg ba fees ekran bi. Tablet bu nekk ci ab tegukaay mooy li gën a jàppandi ngir ñaari nit."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Ndax po yii baax nañu ngir nit kuy dund ak Alzheimer?",
+        "a": "Waaw. Defar nañu leen ngir nit ñiy dund ak woppu faté, bokk na ci Alzheimer, mi gën a siw ci sabab yi. Nataal yi dañuy des di fés, tànneef yi bariwuñu, te amul luy waxtu walla poñ, kon po yi dañuy sàkku xàmme liy yàgg a xamle wànte du fàttaliku yeneen yu bees."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Ndax yii ay poy xel lañu ngir mag ñi?",
+        "a": "Ay poy nataal ak méngale lañu yu bépp mag mën a bégale, wànte defarwuñu leen ngir natt xel: ci Méngale ñaari nataal, nataal yi dañuy des di fés mukk ludul su ngeen tànnee nëbb leen. Sunu tektalu poy xel ngir mag ñiy dund ak woppu faté dafay leeral ni ngeen mën a báyye bépp poy xel mu lewet."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Ndax am na ay po ngir mbooloo ci kër toppatoo?",
+        "a": "Waaw. Bingo ak nataal am na ay karte yu ñu mën a móol ak woykat bu nekk ci ekran bi, te Motali léeb bi ak Kartay waxtaan dañuy dox bu baax bu leen gësee ci kàddu gu jéggi ngir mbooloo."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ak Android",
+    "requirements": "iOS 15 walla yu gën a yees; Android 7.0 walla yu gën a yees",
+    "summary": "Ab dal bu amul fey ngir iPhone, iPad ak Android bu am méngale nataal gu lewet ci ñeent ba fukk ak ñaari karte yu mag, méngale ak séenandoo nataali kër gi ngeen tànn, ak juroom-ñetti sémbi nataal yu ci bokk tey dox te soxlawul internet. Amul kont, amul yégle, amul waxtu buy xaññe te amul ay poñ.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Méngale nataal gu lewet ak 4, 6, 8 walla 12 karte yu mag; nataal yi dañuy des di fés ludul su ngeen tànnee nëbb leen",
+      "Nataali kër gi ngeen tànn dañu leen di denc ci dal bi ngir méngale leen ak xoolandoo leen",
+      "Xoolandoo: benn nataal ci benn yoon ak ay kàdduy ubbi waxtaan su ngeen ko bëggee",
+      "Juroom-ñetti sémbi nataal bokk nañu ci dal bi; dañuy dox te soxlawul internet",
+      "Amul kont, amul yégle, amul jënd ci biir dal bi, amul waxtu buy xaññe, amul ay poñ te amul mbugal"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Ndax am na ab dalu jëfe ngir nit ñiy dund ak woppu faté?",
+        "a": "Waaw. Golden Moments (ñu bind ko « {storeName} ») amul fey ci App Store ak Google Play. Dafay joxe méngale nataal gu lewet ak karte yu mag, po ak nataali kër gi ngeen tànn, ak sémbi nataal yiy dox te soxlawul internet."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Ndax dalu Golden Moments bi amul fey?",
+        "a": "Waaw. Yeb ko amul fey, amul yégle, amul kont te amul jënd ci biir dal bi."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Ndax dal bi dafay dox te soxlawul internet?",
+        "a": "Waaw. Nataali tambali yi ak juroom-ñetti sémbi nataal yépp a bokk ci dal bi, te nataali kër gi dañuy dox te soxlawul internet suñu leen dencee ba noppi ci biir dal bi. Tànn nataal bu nekk ci iCloud kese mën na laaj lëkkalekaayu internet."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Ndax mën naa jëfandikoo sunu nataali kër gi bopp?",
+        "a": "Waaw. Tànnal nataal yi ak tëriinu tànn nataal bu sa aparay. Aplikasiyoŋ bi dafay denc nataal yu gën a tuuti ci aparay bi ngir tëralin yi, du leen yeb te mukk du soppi nataal yu njëkk ya. Mën nga dindi nataal yooyu saa yu la nexee."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Ndax lii aplikasiyoŋu yar xel la walla buñuy natte fàttaliku?",
+        "a": "Déedéet. Golden Moments dafa nekk ngir bànneexu ak bokk jamono. Amul benn poñ mbaa seetlu, te du seet tawat, du faj, du tee, te du natt màcc walla tawatu Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Ci ban aparay la mëna dox?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Ndax po mii am na sumbu aplikasiyoŋ?",
+      "a": "Waaw. Aplikasiyoŋu Golden Moments bu amul pay ngir iPhone, iPad ak Android dafa am jokkale nataal yu lewet yooyu, mën na jëfandikoo nataali kër gi nga tànn, te mën na dox te amul internet. Amul konte, yégle mbaa poñ."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Ndax po mii am na sumbu aplikasiyoŋ?",
+      "a": "Déedéet ngir po mii. Aplikasiyoŋu Golden Moments bu amul pay ngir iPhone, iPad ak Android dafa am jokkale nataal yu lewet ak këriñ yu mag ak nataali kër gi nga tànn, te mën na dox te amul internet. Po mii dafay des di lu amul pay fii ci sa joowin."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: nataal yu mag te rafet",
+    "noscript": "Po mii dafa laaj nga taal JavaScript ci sa joowin. Xelal yi ci suuf mën nañu dox te loolu amul.",
+    "about": "Lu jëm ci {name}",
+    "aboutAria": "Lu jëm ci po mii",
+    "noTimer": "Amul natt waxtu mbaa poñ",
+    "printable": "Luñu mëna móol",
+    "howTo": "Ni ñuy poowee {name}",
+    "tips": "Xelal ngir poowandoo",
+    "newToPlayingHtml": "Ndax doog nga po ak nit kuy dund ak màcc? Jàngal <a href=\"/caregiving/how-to-play-together/\">ni ñuy poowandoo</a>, boole ko ak li ngay def bu fekkee bëggatu ko.",
+    "moreAria": "Yeneen yu nga mëna seet",
+    "helpfulGuides": "Tektal yu am njariñ",
+    "appTitle": "Poowal ko ci aplikasiyoŋ bi",
+    "appText": "Aplikasiyoŋu Golden Moments bu amul pay dafa am jokkale nataal yu lewet ak këriñ yu mag ak sa nataali kër gi, te mën na dox te amul Wi‑Fi. iPhone, iPad ak Android.",
+    "photoAppTitle": "Wàjjal sa nataal yi",
+    "photoAppText": "Ci aplikasiyoŋu Golden Moments bu amul pay, nataal yi nga tànn dañuy des ci sa aparay ngir yeneen yoon, te po yi dañuy dox te amul Wi‑Fi. iPhone, iPad ak Android.",
+    "goodToKnow": "Lu baax a xam",
+    "goodToKnowText": "Po mii dafa nekk ngir bànneexu ak bokk jamono. Du seet, du natt, te du faj dara.",
+    "moreGames": "Yeneen po yu lewet",
+    "crumb": "Po yi"
   }
 }

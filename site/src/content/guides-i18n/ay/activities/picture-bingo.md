@@ -1,34 +1,34 @@
 ---
-title: "Uñjasiñ bingo demencia jaqinakatak"
-seoTitle: "Uñjasiñ bingo demencia jaqinakatak"
-description: "Uñjasiñ bingo demencia jaqinakatak, imprentat jan pantallan: jach'a uñtanaka, suma aruni, jan ch'iqhapiwa, jisk'a tantachawinakatak ukat utanakatak yatiyawi."
+title: "Uñacha bingo demencia jaqinakataki"
+seoTitle: "Uñacha bingo demencia machaqanakataki"
+description: "Uñacha bingo demencia jaqinakataki, imprentawa jan ukax pantallan: jach'a uñachanaka, suma arusiri, jan ch'amaña tuqi, sapa jaqinakataki ukat uta utanakataki yatiyawinaka."
 section: activities
 order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Uñjasiñ bingo jisk'a yupanakar jach'a, sum uñtat uñjasiñanakampi
-  mayjtayi, ukhamat jaqinakax uñjatapat lup'ayañ utjani, janirakiw
-  amuyañ ukat yatxatañ mantañkiti. Imprentat qhispiyañ jan ukax pantalla
-  yatiyirimp mayjt'añ, uñtat uñtat mayjt'añ, ukat sapa mayni uñjatap
-  alwaskiw tiqi. Tantachawinakax jisk'a ukat uñtanakax jach'a sarnaqaña,
-  ukat ganar sarnaqañax khuyapayasiña. Suma bingo tantachawi, sociable
-  hora, janiw mayjt'añ ch'iqhapiwa.
+  Uñacha bingo ukax númeronakan sapaki jach'a, sut uñachanaka uñjañataki
+  ukat jaqinakax uñjatapat uñt'añataki, jan qillqañ ukat yatxatañ sapaki.
+  Imprentat cartanaka apt'asma jan ukax pantalla tuqi arsuri ukat sapa
+  uñacha mayni ukhamat arsu, ukat sapa jaqix uñjatap uñt'añapataki. Sapa
+  kuti jaqinakax chiqpach uñt'añapataki, uñachanakax suma jach'a ukat
+  ch'iqa ukax jan wali sapa, ukat ganar ukax sapa kuti munañawa. Suma bingo
+  tuqi jaqinakax sum tuqisiñapatakiw, jan mä irnaqäwi kumpitañ.
 keyPoints:
-  - "Yupanakar uñtanaka mayjtañ, ukat sapa uñta jach'a, sum uñtata ukat sapa uñtat jaqi amuyata."
-  - "Sapa uñta uñjasiña, sum arsuña ukat sutimp arsuña. Mayjt'añ jukk'a, ukat suytañ."
-  - "Tantachawinakax paqallqu jaqinakaru ukat pusi tunka jaqinakaru uñjañapawa, ukat jaqi uñjañ uñtañ ukat qharuru uñjañ."
-  - "Ganar sarnaqañax jan wali munañawa. Walja tantachawinakax sapa mayni munat uñtat arsuñampi tukuyañapawa."
-  - "Ganadoru sutiñ sipansa, yatiyam. Jaqinakax premio jan ukax aplauso jan sum munapxiti, ukax walikiw."
+  - "Númeronakan sipansa uñachanaka apt'asma, sapa uñacha jach'a, sut ukat mä yatiñani uñachaw ukhamarak."
+  - "Qulqi sawuña arsu, uñacha uñjayma ukat sutip sut. Mayjt'ayma sapa nayrankañ, ukat suytasi."
+  - "Jaqinaka pusi jan ukax paqallq kimsa jaqinakaru tuqi imt'asiña, jaqi uñjañ ukat cartapa uñjañataki wali suma sartaña."
+  - "Ganar ukax munañawa. Mayni sapa tukuyañapataki sapa jaqix uñachanak qhanañ munañ ukat arsu."
+  - "Ganadoruru arsuñ mayt'asiñ ukat aplausuñ, jaqinakax jan munaski ukax, akanakaw sum."
 faq:
-  - q: "¿Kunas demencia tuqi bingo?"
-    a: "Ukax bingo sarnaqañawa, janiw yupanakar jan ukax yupanakar uñtanakampi. Jaqinakax uñtat uñjasiñ ukax sarnaqañ uñt'añ sipansa, uñjasiñ ukat arsuñ ukat mayjt'añ. Yupanakat jiwasaru sarnaqañ jark'atañ jan ukax wali sarnaqañ yatiñaniwa."
-  - q: "¿Kunjams tantachawi uñtañ bingo?"
-    a: "Imprentat qharunak jan ukax pantalla yatiyiri uñjañ, sapa uñta alwaskiw tiqi. Sum arsuñ, uñta jach'ata uñjasiña, ukat jaqinakar uñtañ amuyaña. Tantachawi jisk'a tukuyañ, jan sartañ, ukat jaqinakax ch'api, lapiz jan ukax chip ukhamarak uñtañ."
-  - q: "¿Bingo yatiñ wali sarnaqañ?"
-    a: "Janiw kuna chiqansa jan ukax sarnaqañ jan ch'amañchañ sum uñjasiñ. Uñjasiñ bingo jaqinakampi sarnaqañ tantachawiwa. Wali sarnaqañax jaqinakampi jakañ, yatiyiri arsuñ ukat uñta tupuña ukhamawa, janiw yatiñ sarnaqañ utjañax."
-  - q: "¿Kunas jaqi sarnaqañ jan ukax uñta jan tupuñ munasa?"
-    a: "Sarnaqañ tukuyañ. Chiqpach uñtat uñtañ, uñjañ jan ukax chip jaytañ yatiyañampi. Jaqin munaña ch'amañchañ, cartón tukuñ sipansa wali."
+  - q: "¿Kunas uñacha bingo demenciatakix?"
+    a: "Akax bingo ukat mä kuna, númeronakan sipansa jach'a uñachanak apt'asiwa. Jaqinakax cartapan uñacha uñt'asiwa, arsuri uñachax uñjatäki jan ukax sutip arsuski ukhama. Yatiñani jaqinakataki askiwa ukat jaqinakax sapa uñjasiñ mä jani sañ askinak tukuyaña."
+  - q: "¿Kunsa mä jaqinakataki uñacha bingo lurañ?"
+    a: "Imprentat cartanaka walja apt'asma jan ukax pantalla tuqi arsuri ocupa, sapa uñacha mayni. Suma arusim, uñacha jach'a uñachañ ukat jaqinakar uñt'añataki pacha churañ. Jaqinaka jisk'a utjañ, jan sarnaqañ, ukat cartanakap dedo, lapi jan ukax chip tuqi mark'añ."
+  - q: "¿Uñacha bingo yatiñ ayuñtaspa?"
+    a: "Janiw mä irnaqäwi demencia suma phuqhañ jan ukax sayt'ayañ uñt'atäkiti. Uñacha bingo mä sapa sociales jach'a jiwasanakan. Askinakapax jaqinakan sapa uñjasiñapa, arsuri arusiñapa ukat uñacha uñt'asiñ kusisiñapawa, jan yatiñ luräwinakampi."
+  - q: "¿Kunsa jaqi tukuñ munaski ukax jan uñacha uñt'aspa ukax?"
+    a: "Tukuyañ sapa. Sarañ uñt'añ, uñachar jaqhuñ jan ukax chip mayt'asiñ, permiso churasa. Jaqi sum sarnaqañapax cartap tukuyañat sipansa jach'a."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -44,51 +44,51 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-Bingo ukax walja awki tiyanakan uñt'ata sociable sarnaqawi, ukampisa yupanakax jan uñjasiñ sum amuyañ jaqinakatak demencia uñtat. Uñjasiñ bingo ukax ukapi taqpach sarnaqawi, ukampisa yupanakar uñtanak jach'a, sum uñtanakampi mayjt'añ. Jupax utanakan, uñjasiñ sarnaqañanakan jan ukax wasipachanakan lurasiñ. Akan yatiyawinakax sarnaqañ, mayjt'añ ukat sarnaqañ taqi tuqi kuttanakawa.
+Bingo ukax walja jaqinakataki yatiñani sociales jueguw, ukampisa númeronakax demencia jakasir jaqinakataki jan sum uñt'ayañ. Uñacha bingo ukax mismo suaveñ ritmo imantañ, númeronak jach'a, sut uñachanakampi jaktayaraki. Utanakan, jiwasanakan jan ukax jaqinak uñjañ utanakan lurasiñ. Akax kunjamatsa lurasiñ, kunjamatsa wakisiñ ukat kunjamatsa kusisiñ uñjañ amuyuwa.
 
-## Kunjams uñjasiñ bingo sarnaqi
+## Uñacha bingo kunjamatsa irnaqaski
 
-Sapa mayni jaqix uñtat cartón uñtatawa, akham sarañchañ: tetera, katu, rosa, barquito ukat bicicleta. Jiwasaru arsuñ jan ukax uñtat uñjasiñ uñt'añ. Jaqinakax cartón uñjañanakan uñtat uñtat mayjt'añ. Jaqi jach'a fila jan ukax grupo amtat sarnaqañ "Bingo" sañ arsuñ, ukampisa walja tantachawinakax janiw ganadorux uñtañ.
+Sapa jaqix uñachanakan mä cartaniw utjaraki, kunjamtix t'ayan, misi, rosa, barco jan ukax bicicleta. Mä arsuri uñacha mayni uñjatäki jan ukax sutip arsuski. Jaqinakax cartanakapan uñacha mach'asiñapawa. Mä jaqi cartap qharu fila jan ukax grupo amtat set phuqhañat, "Bingo," sasa qhanañapawa, ukampisa walja grupot ganadorur jan uñjapxi.
 
-Jumax [amuyata imprentat sarnaqañanakat](/activities/printable/) jan ukax [uñjasiñ bingo sarnaqaña](/games/picture-bingo/) apnaqañ, ukax tantachawi pantalla yatiyiriwa. Ukanakax taqpachax tablet uñjañ tantachawi uñtañanakaru sum.
+[Imprenta uñacha cartanakampi](/activities/printable/) jan ukax [uñacha bingo juego](/games/picture-bingo/) apt'asiñamawa, kunawa grupot arsuri pantalla utjaraki. Ukanakax tableta tuqi ukat sapa grupo uñjañataki wali askiwa.
 
-## Tantachawi qalltaña
+## Sesión amtaña
 
-- **Jisk'a tantachawi ajllista.** Pusi ukat paqallqu jaqinakaxa wali. Jach'a tantachawinakax jaqi uñjañ ukat apuraña.
-- **Uñtanakax jach'a lurasiña.** Jach'a lapaza ukat sapa uñta sapa uñta. Jan walt'ata cartón.
-- **Jaqinakax sum uñtasiña.** Sapa jaqi yatiyiri ukat cartón uñtañ, ukat yanapiri jaqinakan.
-- **Sum chip apnaqañ.** Jach'a chip, qullqi jan ukax ch'uxña tuqita sum sarnaqañ, lapiz sipansa.
-- **Jisk'a tantachawi lurasiña.** Chunka pusi minuto walja. Ch'amañchañax jisk'aw sarnaqañ.
+- **Jisk'a grupo ajllisiña.** Pusi jan ukax paqallq kimsa jaqinakax wali suma tamaw. Walja jaqinakax jaysañ ukat jank'akiw.
+- **Uñachanakax jach'a lurañ.** Sut lap'inak ukat mä yatiñani uñacha sapa cuadrado. Jan walja cartanak luraña.
+- **Jaqinak suma churaña.** Sapa jaqi arsuri ukat cartapa uñjañapataki, yanapiri jaqi amuyt'añ pust'añapataki.
+- **Sencillo marcadores apt'asiña.** Jach'a chipanaka, qullqinaka jan ukax dedo tuqi jak'achañ ukax lapisat sipansa askiwa. Walja wakiskirinaka imañ.
+- **Jisk'a sesión lurañ.** Kimsa tunka minutos walja. Jaqi ch'amampix jisk'a jaytaña ukhaxa, sapa jisk'a tukuyañ.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi sarnaqañanakax jaqi ch'amampi lurañ, ukatwa cartón ukat kunjams sarnaqañ jisk'ayañ.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyañ ukax jaqi kunsa lurañ puedi ukar sapa luraña, ukatwa cartanak ukat reglanak jisk'achaña kuna pachanakansa ukax yanapiwa.
 
-## Uñtanak kunjams arsuña
+## Uñachanak kunjamatsa arsuña
 
-1. **Uñta jach'a sayaña** jan ukax pantallan uñtañ arsuñ sipansa.
-2. **Sum arsuña,** sasiw: "Tetera." Mayjt'a jukk'a arsuña.
-3. **Suytaña.** Jaqinakax uñjañ ukat chip jaytañ. Janiw sapa uñta uñtañ jan walt'añ.
-4. **Yatiyaña, munat ukhamaxa.** "Puka rosa" jan ukax "picnic tuqi uñtat" sasa arsuñ ukax arsuñ qalltañ.
-5. **Jukk'a sarnaqaña.** Jukk'a arsiri sipansa jan apuraña.
+1. **Uñacha jach'a uñjayañ** jan ukax pantalla tuqi uñjayañ arsuñ sipansa.
+2. **Sutip suma arsuña,** llamp'u arunakampi: "T'ayan." Mayja kuti, suytasa.
+3. **Suytaña.** Jaqinakar uñjañataki ukat mark'añataki pacha churaña. Walja jaqinakax uñacha tuqi jan mayt'asiñaka uñjat sipansa, jan sapa uñacha arsuñamäkiti.
+4. **Qhanañ, yanapaski ukhaxa.** "Q'ara qala" jan ukax "picnic tuqi uñjatanakax" sasa arsuñax parlañ uñt'ayañ.
+5. **Suma ritmo imantaña.** Suma arsuri jisk'a sarnaqañ sipansa wali askiwa.
 
-## Ganar sarnaqañ munañ ukhamaraki
+## Ganar ukax munañawa lurañ
 
-Tantachawi ch'axwañax jaqinakar ch'amañchañ. Ganañ ch'iqhapt'ata jaqi jan sum amuyaña, ukat ganañ sipansa llakisiñ jaqinakax ch'akhayaña. Ukanakax kunamsa yatiñani:
+Kumpitañ ukax jan walt'ayaña utjaraki. Mä jaqi jaqhipt'asiñax ch'amanchasiñawa, ukat ganañ axsarasiñax ch'amanchasiñ utjaraki. Akanakaw mayjt'asiñanakaxa:
 
-- **Taqi jaqi uñta katuqañ.** Sapa jaqix sapa uñta munat uñtat arsuñ, ukat tantachawi sum uñjañ.
-- **Cartón taqi uñtañ.** Jaqinakar cartón tuqi sapa uñta yatiyañ.
-- **Uñta tukuyañ suytañ.** Cartón taqi uñta arsuña, ukat mayni cartón qalltaña, janiw ukax ganadoru uñt'añ.
-- **Premio jisk'a jan ukax jan utjaña.** Galleta jan ukax taqi arsuña, trofeo sipansa wali.
+- **Sapa jaqi uñacha ganañapa.** Sapa jaqi mä uñacha munat arsu, grupo uñjatax k'achachañ.
+- **Mä cart uñjañ.** Jaqinakar cartanakapan mä uñacha tuqi arsuñ sasa mayt'aña.
+- **Uñacha tukuyañkama jaytaña.** Mä cartan uñachanakap arsu, ukat mayni qalltaña, mayni ganadoru jan uñjasa.
+- **Premio jisk'a jan ukax jan utjañ.** Galleta jan ukax taqi melodía tuqi suma sipansa trofeo.
 
-## Jaqinakar pachanak tuqi kunjams yanapt'añ
+## Jaqinakataki mayt'asiña ch'amampi
 
-Uñtat tupuñ ch'ama jaqinakatak, cartón pusi jan ukax paqallqu uñtanakampi lurañ, jan ukax sapa jaqi sapa cartón. Yanapiri cartón sayañ jaqix uñtat uñjañ, jan ukax chip sum sarnaqañ yatiyañampi. Walja jaqinakax arsuñ ukat arsuñ sum ch'iqañ lup'ayañ.
+Uñacha jaqhipt'asiñax jaqinakataki, cartanakax jisk'a uñachanakampi sapa 4 jan ukax 6 cuadradonakampi luraña, jan ukax sapa jaqi mä cartampi irnaqaña. Yanapiri cartap katuqañapawa jaqi uñjatäki, jan ukax chip permiso tuqi sumanjamaw churaña. Walja jaqinakax arsuri ukhamarak arunakan sut uñjañax kusisiñawa.
 
-Jan sum amuyañ jan ukax jaytañ, ch'iqhapt'añ ukhamarak uñtañ ukanak uñjasa, sayt'añ. Yatiyañ ukat jiwasaru [tuqi arsuñ tiempo](/activities/late-stage/) uñjañ.
+Jan walt'ayañ uñjañanakax uñjasa, kunjamtix jaqi jaytaña jan ukax sut sañ, ukat ukax tukuyañawa. Jisk'a sarnaqañ ukat chuymaw mayt'asiñ yatiñ ukanakataki, [etapa qhipa actividades](/activities/late-stage/) uñjañamawa.
 
-## Bingo utanakan ukat tantachawinakan
+## Bingo utanakan ukat grupo uñjañanakan
 
-Tantachawi tantachawinakax jaqinakan amuyañanakax yatiñanakampi sarnaqañ. Jumax [utanakan ukat tantachawinakan tantachawi yatiyawi](/activities/care-home-groups/) uñjañ, ukax tantachawi lurañ, jaqinakar uñtañ ukat sarañ munañ jaqinakax. Bingo ukax arsuñ ukat qhanañ sarnaqañ, ukat [finish-the-saying](/activities/finish-the-saying/) jukk'a sarnaqañ tantachawi qhipa.
+Grupo lurañanakax suma irnaqapxi jaqinakan uñjañapataki lurat. Nuestra [grupo actividades guía](/activities/care-home-groups/) sesión lurañ, jaqinak churañ ukat utat sarañ munaski ukanakan yatiyaraki. Uñacha bingo ukax canto jan ukax cuento tuqi ch'iqa, ukhamarak [finish-the-saying](/activities/finish-the-saying/) jisk'a juego sesión qhipana.
 
-## Kunas bingo lurañ ukat janiw lurañ
+## Uñacha bingo kunanakas lurañ jan lurañ
 
-Uñjasiñ bingo ukax sociable ukat khuyapayasiña. Jaqinakar tantachawi tantachaña, uñtat uñjasiña ukat arsuñ munañ, ukat tantachawi walpun. Ukax demencia janiw sum jan ukax sarnaqañ jan ch'amañchañ. Tantachawi wali sarnaqañ uñjañ, jaqinakax kunamsa uñtasi ukat amuyasi uñjañ, janiw ganadoru uñjañ.
+Uñacha bingo ukax sociales ukat kusisiñ jach'a. Jaqinakar jukt'ayañ, uñjañ ukat arsuñ t'aqhisiñ, grupo tuqi suma sartaña. Janiw demencia phuqhañ jan ukax ukax sayt'ayañ. Lurañ suma uñjasiñaxa jaqinakax kunjamati uñjapxi ukat amuyapxi uka hora, janiw kuna ganañ uñjasa.

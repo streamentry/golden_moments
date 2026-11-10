@@ -1,28 +1,33 @@
 ---
-title: "Ol gem blong tingting i stopem dementia o nogat?"
-seoTitle: "Ol gem blong tingting i stopem dementia? Ol proof"
-description: "Wanem ol risej i talemaot long ol gem blong tingting mo dementia: stimulesen blong tingting, kompiuta tren, tesis ACTIVE mo kes blong FTC long Lumosity, i eksplenem klia."
+title: "Ol brain gem i save stopem dementia? Wanem ol risej i soem"
+seoTitle: "Ol brain gem i save stopem dementia? Ol risej"
+description: "Wanem ol risej i talem long ol brain gem mo dementia: trening blong tingting, kompiuta brain trening, stadi ACTIVE mo kes blong FTC long Lumosity, i eksplenem klia."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No gem blong tingting i bin prove yet se i save stopem dementia. Kompiuta tren blong tingting i moa i helpem ol tingting we man i praktisim. Wan stadi long tesis ACTIVE i konektem wan spesol kaen spid tren mo ol booster sesen wetem fewfala dementia dae long 20 yia, wan narrow fàndin. Long ol man we oldaready i laef wetem dementia, grup kognitiv stimulesen i soem smol mo short-taem benefit. Ol gem i gud blong fanem mo blong kampani.
+  No brain gem i bin soem se i stopem dementia. Kompiuta brain trening i save
+  helpem ol man mo woman blong improf long ol wok we oli praktis nomo. Wan stadi
+  long ACTIVE trial i soem link wetem smol namba blong ol kes blong dementia we
+  ol dokta i rekoj long 20 yia, from wan spid trening wetem ol extra sesen. Long
+  ol man mo woman we oli gat dementia finis, grup kognitif stimulesen i soem
+  smol gud long short taem nomo. Ol gem i gud blong fan mo kampani.
 keyPoints:
-  - "Ol stadi long tren blong tingting i soem se man i kan winim ol tingting we hem praktisim, be i gat smol pruf se dat i go long laef blong ol de."
-  - "Long tesis ACTIVE, nomo ol man we i bin mekem spesol spid tren plus ol booster sesen i gat fewfala dementia dae long 20 yia. Spid tren we i nogat booster, mo tren long memori mo risonin, i no soem dat."
-  - "Long 2016, man we i mekem Lumosity i peim $2 million blong setem kes FTC we i blong ol klem we oli nogat sans long saen blong sapotem klem long dilei long dementia."
-  - "Long ol man we oli gat smol to midol dementia, grup kognitiv stimulesen i soem smol, short-taem benefit long tingting mo klia gud fasin long tok mo long sosol intarakson."
-  - "Ol gem blong Golden Moments i blong fanem mo blong sherem taem. Oli no tritmen mo oli no stopem o slowem dementia."
+  - "Ol stadi blong brain trening i soem se ol man mo woman oli kam gud long ol wok we oli praktis, be i no gat plante evidens se i save karem go long ol wok blong ol dei."
+  - "Long ACTIVE trial, nomo ol man mo woman we oli mekem wan spesol spid trening wetem ol extra sesen i gat fewa ol kes blong dementia long 20 yia. Spid trening we no gat ol extra sesen, mo trening blong memori mo tingting, oli no soem sem risalt."
+  - "Long 2016, mekasem blong Lumosity i pem US$2 million blong settlem ol klem blong FTC we i se oli no gat ol saentifik ples blong ol klem se i save slouem dementia."
+  - "Long ol man mo woman we oli gat dementia long lelebet to moderet lvel, grup kognitif stimulesen i soem smol gud long tingting long short taem, mo klia gud long toktok mo long mekem ol kampani."
+  - "Ol gem blong Golden Moments i blong fan mo taem blong stap wetem. Oli no tritmen, mo oli no stopem o slouem dementia."
 faq:
-  - q: "Ol gem blong tingting i save stopem Alzheimer's?"
-    a: "Nogat gem blong tingting we i bin prove yet se i save stopem Alzheimer's o narafala dementia. National Institute on Aging i talem se i no gat enaf pruf se ol komesol kompiuta app blong tingting i gat sem efekt olsem we i kamaot long ol tesis. Ol gem i save stap olsem wan gud wei blong spendem taem."
-  - q: "Wanem tesis ACTIVE i faendem long spid tren mo dementia?"
-    a: "Wan analisis long 2026 i konektem ol man long tesis ACTIVE wetem ol rikodem blong Medicare long 20 yia. Ol man we i mekem spid tren mo i gat seven wan booster sesen i gat smol reit blong dementia we i bin daknoa, i kamda long grup we oli no bin trening. Spid tren we i nogat booster, mo tren long memori o risonin, i no soem ol kaen efekt we i impoten."
-  - q: "Ol puzol mo ol gem i gud long man we i already gat dementia?"
-    a: "I save gud, sipos man i enjoem. Grup kognitiv stimulesen, we i gat ol gem blong wod, puzol, singsing mo tok, i soem smol short-taem benefit long tingting mo klia benefit long komunikesen mo sosol intarakson. Enjoyment, no wan test risol, i rait gol."
-  - q: "Wanem rong we FTC i mekem Lumosity i peim fain?"
-    a: "Long 2016, Federal Trade Commission i klemem Lumos Labs se hem i mekem klem long ol gem blong hem, inkludim klem se i save dilei age-related dikline mo dementia, be hem i nogat saen blong sapotem. Kompani i agri blong peim $2 million mo blong gat stret saen pruf bifo i mekem sem klem long fiuja."
+  - q: "Ol brain gem i save stopem Alzheimer's?"
+    a: "No gem blong brain i bin prufum se i stopem Alzheimer's o narafala kaen dementia. National Institute on Aging (NIA) i talem se i no gat plante evidens se ol komesol brain trening app oli gat sem effect olsem we i soem long ol trial. Be ol gem oli save wan gud wei blong spendem taem."
+  - q: "Wanem ACTIVE trial i faendem long spid trening mo dementia?"
+    a: "Wan analisis blong 2026 i konektem ol man mo woman long ACTIVE wetem rekod blong hels insiuransi long 20 yia. Ol we oli mekem spid trening blong proses infomesen mo sampla extra sesen, oli gat lelebet ress blong ol kes blong dementia we ol dokta i rekoj, komparem wetem grup we oli no mekem trening. Spid trening we no gat extra sesen, mo trening blong memori o tingting, oli no soem klia gud effect."
+  - q: "Ol puzol mo gem i gud blong wan man we i already gat dementia?"
+    a: "I save gud, sipos man ya i enjoy long ol. Grup kognitif stimulesen, we i gat ol gem blong wod, puzol, miusik mo toktok, i soem smol gud long tingting long short taem mo klia gud long toktok mo long mekem ol narafala kampani. Enjoyment, no wan test risalt, i stret goal."
+  - q: "Why FTC i pemem Lumosity?"
+    a: "Long 2016 Federal Trade Commission (FTC) i klemem se Lumos Labs i mekem ol klem long ol gem blong hem, inkludim klem se oli save slouem dilei blong eij mo dementia, be oli no gat saens we i stret blong sapotem. Kompani ya i agri blong pem US$2 million mo blong gat strong saentifik evidens bifo oli mekem ol klem olsem long fiuja."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -53,88 +58,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Ol gem blong tingting i stap everiwea, mo planti oli promis se bae i mekem tingting blong yu i stap yang. Sipos yu keakem wan man we i gat dementia, o yu wari long memori blong yu wan, hem i naturel blong askem se playim ol gem ia i save helpem o nogat. Hia i wanem ol risej i soem stret, inkludim ol pat we i gud mo ol pat we i nogat gud.
+Ol brain gem oli stap evriwea, mo plante oli promis se bae oli kipim brain blong yu i yang. Sipos yu stap keakem wan man we i gat dementia, o yu worri long memori blong yu seleva, i natural blong askem se ol gem ya save helpem o nao. Hia i stret wanem ol risej i soem, inkludim ol pat we i givim hop mo ol pat we i no givim hop.
 
-Hia i jeneral save nomo, i no medikol advaes. Lukim [medikol disklema blong mifala](/medical-disclaimer/).
+Ol toktok ya i jeneral infomesen nomo, no medikol advaes. Lukim [medical disclaimer](/medical-disclaimer/).
 
-## Ol gem blong tingting i stopem dementia o nogat?
+## Ol brain gem i save stopem dementia?
 
-Nogat gem blong tingting we i bin prove yet se i stopem dementia. National Institute on Aging (NIA) i advaesem ol man blong wari long ol klem se ol kompiuta mo ol gem long intanet i save improvem memori, mo hem i talem se i no gat enaf pruf se nogat wan komesol kompiuta app blong tingting i gat sem efekt olsem tren we oli testem long ol klinikol stadi ([NIA long wei blong stopem Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+No gem blong brain i bin prufum se i stopem dementia. National Institute on Aging (NIA) i advaesem ol man mo woman blong fraet long ol klem se ol kompiuta mo ol gem long intanet oli save improvem memori. NIA i talem tu se i no gat plante evidens se eni komesol brain trening app i gat sem effect olsem trening we ol klinik trial oli bin testem ([NIA long wei blong stopem Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Hemia i no talem se ol gem i no gat valiu. I min se valiu blong olgeta i stap long fanem, long kampani mo long rutin, nogat long protektem wan man long dementia.
+Hemia i no min se ol gem oli no gat valiu. Valiu blong olgeta i long enjoyment, kampani mo rutin. I no long protektem wan man from dementia.
 
-## Wanem "near transfer" i minim, mo wanem i impoten long hem?
+## Wanem "near transfer" i min, mo why i impoten?
 
-Taem yu praktisim wan wok, yu usually i kam gud moa long wok ia. Ol risesas i kolem hemia wan trening efek. Kwestin we i harad moa, i wan: sipos ol improvemen ia i "transfer" i go long ol narafala samting, olsem long ol wok we i olsem, (near transfer) o long laef blong ol de, olsem ting blong ol apointmen o blong ol mane (far transfer).
+Taem yu praktis wan wok, yu usualy i kam gud long hem. Ol risasa i kolem hemia training effect. Kwestin we i harem moa se: eni improvment ya i save "transfer" o nao long narafala samting. Hemia i ken i go long ol wok we i sem (near transfer), o long ol dei blong laef olsem rimembra ol apointmen o mekem moni (far transfer).
 
-Wan bigfala risiu long 2016 i lukluk long ol stadi we ol kampani blong tren blong tingting i yusum olsem ol bes pruf blong olgeta. Hem i faenem plante pruf se ol man i kam gud long ol wok we oli bin praktisim, be smol pruf nomo se oli kam gud long ol wok we i klosap, mo i nogat gud pruf se tren i helpem tingting blong laef blong ol de. Planti stadi tu i gat ol problem long dizaen we i mekem i no posibol blong mekem strong konklusen ([Simons mo ol kolik, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Wan bigfala risiu long 2016 i lukluk long ol stadi we ol kompani blong brain trening oli yusum olsem ol bes evidens blong olgeta. Risiu ya i faendem plante evidens se ol man oli kam gud long ol wok we oli trenem. I gat smol evidens se oli kam gud long ol wok we i klosap sem, mo i no gat plante evidens se trening i improvem tingting blong ol dei. Plante long ol stadi ya tu i gat ol trabol long disaen, we i mekem i no posibol blong mekem strong konklusen ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## Wanem ol risiu long Cochrane i talem long kompiuta tren blong tingting?
+## Wanem ol risiu long kompiuta brain trening i talem?
 
-Ol risiu blong Cochrane, we i kolektem ol gud tesis we i stap, oli lukluk long kompiuta tren we i go long wan taem we i no les long 12 wik:
+Cochrane reviews, we i putum tugeta ol bes trial we i stap, oli lukluk long kompiuta trening we i lastem at lis 12 wik:
 
-- **Ol hel adalt we oli 65 o moa:** eit tesis wetem 1,183 man. Ol pruf oli low o very low kwaliti. I save gat wan smol benefit klostu afta long tren, be i nogat klia pruf se hemia i stap.
-  ([Cochrane risiu, ol hel olfala man](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **Ol man we oli gat mail kognitiv impeiment:** eit tesis wetem 660 man. Nogat wan tesis i ripotem sipos ol man oli kam gat dementia, mo ol pruf oli wik tumas blong mekem konklusen ([Cochrane risiu, mail kognitiv impeiment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Ol hel adalt 65 mo i olsem:** eit trial wetem 1,183 man mo woman. Evidens i low o very low kwaliti. I save gat smol gud long samfala taem raet afta trening, be i no gat klia evidens se i stap lelebet ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Ol man mo woman we oli gat mild cognitive impairment:** eit trial wetem 660 man mo woman. No eni trial i ripotem se ol man ya oli bin kam gat dementia, mo evidens i wik tumas blong mekem konklusen ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## Wanem tesis ACTIVE i faendem?
+## Wanem ACTIVE trial i faendem?
 
-ACTIVE i wan bigfala tesis long USA we i stat long 1998 wetem 2,802 adalt we oli 65 o moa, we oli stap oli stap wetem tumas nomo, mo oli nogat bigfala problem long memori o tingting. Ol man oli bin rendemli putum long wan long tri kaen smol grup tren (spid blong prosesing, memori, o risonin) o long wan grup we i nogat kontakt. Tren i stap go antap long ten sesen long faev o sikis wik. Sam man we i kamplitim moa long ol sesen oli bin rendemli ofem tu ol **booster sesen** long klostu wan mo tri yia afta.
+ACTIVE i wan bigfala trial long USA we i stat long 1998 wetem 2,802 adalt we oli 65 mo i olsem. Ol man mo woman ya oli stap laef independen, mo oli no gat bigfala trabol long memori o tingting. Oli bin ranomli putum long wan long tri kaen smol grup trening (spid blong proses infomesen, memori, o tingting), o long wan grup we no gat kontak. Trening i go kasem ten sesen long faev o sikis wik. Sampla long ol man mo woman we oli finisim plante sesen, oli bin ranomli offarem ol **extra sesen** bitwin wan mo tri yia afta.
 
-Spid tren i involvem long lukluk mo prosesing blong ol visuol samting long ol sot-sot lukluk, we i kam wan wan sot moa, long level we i jenjem taem man i stat gud moa.
+Spid trening i involvem spotem mo proses visual infomesen long ol lukluk we i fas mo fas. Level i jenji long wei we man ya i improvem.
 
-Long 2026, ol risejman oli konektem 2,021 man we oli bin join long Medicare rikodem blong 20 yia ([ACTIVE 20-year analisis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Hia i wanem olgeta i faendem:
+Long 2026, ol risasa i konektem 2,021 man mo woman long rekod blong hels insiuransi blong olgeta long 20 yia ([analisis 20 yia blong ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Hemia nao wanem oli faendem:
 
-- **Spid tren wetem at least wan booster sesen:** wan lo reit blong dementia we i bin daknoa, i kamda long grup we i nogat kontakt (hazard reisio 0.75, we i min klostu 25% lo reit).
-- **Spid tren we i nogat booster:** nogat lo reit.
-- **Tren long memori o risonin:** nogat signifikan efekt long ol dementia dae.
-- **Olgeta grup blong tren, we oli kompea wetem grup we i nogat kontakt:** wan tendensi blong i gat lo reit, be i no signifikan.
+- **Spid trening wetem at least wan extra sesen:** i gat lelebet ress blong ol kes blong dementia we ol dokta i rekoj, komparem wetem grup we no bin mekem trening (hazard ratio 0.75, we i min roughly 25% lo ress).
+- **Spid trening we no gat extra sesen:** no lo ress.
+- **Trening blong memori o tingting:** no klia effect long ol kes blong dementia.
+- **Olgeta grup blong trening komparem wetem grup we no bin mekem trening:** i gat tendensi blong lo ress, be i no statistikli klia.
 
-### Ol limit blong faending ia
+### Ol limit blong risalt ya
 
-- I aplae nomo long **wan spesol kaen spid tren we i gat sipovisen wetem booster sesen**, no long ol gem blong tingting long jeneral.
-- Signifikan risol i kamaot long wan **sabgrup** (ol man we i finis long ol faswan sesen mo oli bin ofa booster), no long olgeta spid grup.
-- Dementia i bin mesurem long **dagnosis kod long Medicare klem**, no long wan-wan man i lukluk long hem. Abaot wan kwota blong ol orijinol man oli bin lusum, from oli bin stap long Medicare Advantage, we i nogat ful klem rikodem.
-- Ol man oli nogat signifikan problem long tingting taem oli stat. Ol risej oli nogat tok long gem blong ol man we **oli laef finis wetem dementia**.
+- I aplae long **wan kaen spid trening we i gat man i lidim, wetem ol extra sesen**. I no aplae long brain gem long ful.
+- Risalt we i impoten i kamaot long **wan smol grup** (ol man mo woman we oli finisim plante long ol fas sesen mo oli bin offarem ol extra sesen). I no kamaot long ful grup blong spid trening.
+- Dementia i bin mesurem long **kod blong dagnosis long ol rekod blong insiuransi**, i no long ol dokta i lukluk long wanwan man. Abaot wan kwota blong ol orijinal man mo woman oli bin lusum, from oli stap long wan kaen insiuransi plan we i no gat ful rekod blong claim.
+- Ol man mo woman oli no gat klia trabol long tingting taem oli stat. Ol risalt ya i no talem nating long ol gem blong ol man mo woman **we oli already gat dementia**.
 
-Hemia i wan intristing risol we i nidim moa risej. I no pruf se wan app i stopem dementia.
+Hemia i wan intresting risalt we i fitim blong gat moa risej. Be i no evidens se eni app i stopem dementia.
 
 ## Wanem FTC i talem long Lumosity?
 
-Long Janueri 2016, Lumos Labs, we i mekem Lumosity, i agri blong peim $2 million blong setem kes blong Federal Trade Commission long fol advaertising. FTC i talem se kompani i mekem klem, wetem nogat gud saen, se ol gem blong hem i save improvem wok mo skul perfomans, mo i save delei age-related dikline, mail kognitiv impeiment, dementia mo Alzheimer's. Oda i talem se kompani i mas gat kompetent mo relaebol saen pruf bifo i mekem sem klem long fiuja ([FTC presrilis](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Long Janueri 2016, Lumos Labs, we i mekem Lumosity, i agri blong pem US$2 million blong settlem ol klem blong Federal Trade Commission long ol advertising we i no stret. FTC i talem se kompani ya i klemem, wetem no gud saens, se ol gem blong hem i save improvem wok mo skul performans. I klemem tu se oli save slouem ol jenis we i kamaot wetem eij, mild cognitive impairment, dementia mo Alzheimer's. Oda i talem se kompani i mas gat stret mo strong saentifik evidens bifo oli mekem ol klem olsem long fiuja ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-Lesin blong famili: no tristem wan gem, app o program we i promis se bae i protektem memori o stopem dementia.
+Lesen blong ol famili: stap sospisis long eni gem, app o program we i promis blong protektem memori o stopem dementia.
 
-## Ol gem i save helpem wan man we oli already gat dementia?
+## Ol gem i save helpem wan man we i already gat dementia?
 
-I save ademap wan gud de, mo hemia i impoten tumas. Ol wei we oli stadi gud moa long hem i **stimulesen blong tingting**: ol grup aktiviti we man i enjoem, olsem diskasen, tingting bak long ol taem we i pas, ol gem blong wod, puzol mo singsing, usually long wan smol grup we wan fasilitetor i lidim.
+Oli save add long wan gud dei, wanem i impoten tumas. Aproj we i gat plante stadi long hem i **cognitive stimulation**: ol grup aktiviti we i fanem, olsem toktok, tingting bak long ol taem we i pas (reminiscence), gem blong wod, puzol mo miusik. Usualy oli stap long wan smol grup we wan fasilitator i lidim.
 
-Wan Cochrane risiu long 2023 i lukluk long 37 tesis wetem 2,766 man we oli gat mail mo midol dementia, mo i faenem ([Cochrane risiu blong stimulesen blong tingting](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Wan Cochrane review long 2023 blong 37 trial wetem 2,766 man mo woman we oli gat dementia long lelebet to moderet lvel i faendem ([Cochrane review blong cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- wan **smol, short-taem benefit** long ol tesis blong tingting (pruf we i midol kwaliti);
-- **impoten improvemen long komunikesen mo sosol intarakson** (pruf we i hae kwaliti, from wan smol namba blong ol stadi);
-- **smol benefit** long kwaliti blong laef, fil mo fasin.
+- wan **smol gud long short taem** long ol test blong tingting (evidens i gat moderet kwaliti);
+- **improvments we i impoten long toktok mo long mekem ol kampani** (evidens i gat hae kwaliti, from smol namba blong stadi);
+- **smol gud** long kwaliti blong laef, fil gud mo fasin.
 
-Ol benefit oli bin mesurem moslot klostu afta long program we i gat abaot ten wik, mo sam stadi nomo i lukluk sipos ol ia i stap. Stimulesen blong tingting i wan program long grup we i gat strokja, so ol risej ia i no aotomatik i aplae long wan man we i playim gem olem wan long tablet.
+Ol gud risalt oli mesurem moslotaem raet afta long ol program we i lastem abaot ten wik. Plante stadi oli no jekem se oli stap lelebet. Cognitive stimulation i wan strakje grup program, so ol risalt ya i no ototomatik aplae long wan man we i pleim gem seleva long wan tablet.
 
-Lancet Commission long 2024 i talem tu se ol aktiviti program oli impoten long ol man we oli laef wetem dementia, blong mekem oli stap enjoem laef mo oli gat peles ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Long 2024, Lancet Commission i talem tu se ol aktiviti program oli impoten long ol man mo woman we oli gat dementia, blong keepem enjoyment mo purpos ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## Wanem ol gem i save gud long hem?
+## Wanem ol gem i gud blong?
 
-Taem ol gem oli jusum gud, oli save givim:
+Taem oli jusum gud, ol gem i save givim:
 
-- **Enjoyment.** Wan nice hap haoa i gud long hem wetem hemseleva.
-- **Konekson.** Taem yu playim i stap saed bae saed, yu gat wan samting we i isi blong sherem taem tok i had. Lukim [hao blong playim tugeta](/caregiving/how-to-play-together/).
-- **Rutin.** Wan familiar aktiviti long sem taem evri de i save kasem komfot.
-- **Konfidens.** Aktiviti we i fitim long wanem man i save gud yet, i letem hem fil se hem i save, i no fil se hem i stap tesem.
-- **Tok.** Wan piksa o wan familiar saeng i save opem wan stori. Traem [kadi blong tok](/games/conversation-cards/) o [finish the saying](/games/finish-the-saying/).
+- **Enjoyment.** Wan hafa aoa we i fan i gat valiu long hem seleva.
+- **Kampani.** Pleim long saed bae i givim samting we i isi blong sheraem taem toktok i hard. Lukim [hao blong pleim tugeta](/caregiving/how-to-play-together/).
+- **Rutin.** Wan aktiviti we i famliar long sem taem evri dei i save karem komfot.
+- **Konfiden.** Aktiviti we i fitim long wanem man ya i stil save mekem gud i letem hem fil se hem i save, no fil se hem i stap testem.
+- **Toktok.** Wan piksa o wan save we i famliar i save opem wan stori. Traem [conversation cards](/games/conversation-cards/) o [finish the saying](/games/finish-the-saying/).
 
-Samting we i betta blong avoidem: taem, skor, strik mo eni samting we i olsem wan memori tes. Sipos man i kros o i wari, stopem. Stopem erli, o jus sidaon tugeta, i wan gud aot-kam. Gaed blong mifala long [jusum app mo gem](/caregiving/choosing-apps-and-games/) i gat wan jekslis.
+Ol samting we yu mas avoidem: taem, skor, streak mo eni samting we i fil olsem wan memori test. Sipos man ya i frustret, stopem. Stopem erli, o jus sidaon tugeta, i wan gud aotkam. Gaed blong yumi long [chusum ol app mo gem](/caregiving/choosing-apps-and-games/) i gat wan jeklis.
 
-## Wea Golden Moments i stap
+## Wanem Golden Moments i stap long hem
 
-Ol gem blong Golden Moments, olsem [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) mo [large-print word search](/games/word-search/), oli mekem blong fanem mo blong sherem taem. Oli nogat klok mo oli nogat skor. Oli **no** trisment, mo oli **no** stopem o slowem dementia. Mifala i wantem talem yu long klia fasin, long hem i moa gud, from mifala i no wantem promis wanem we nogat gem i save mekem.
+Ol gem blong Golden Moments, olsem [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) mo [large-print word search](/games/word-search/), oli mekem blong enjoyment mo taem blong stap wetem. Oli no gat klok mo no gat skor. Oli **no** tritmen, mo oli **no** stopem o slouem dementia. Mifala i wantem talem yu long stret wei long saed ya, i gud winim blong promis wan samting we eni gem i no save mekem.
 
-## Tok wetem dokta
+## Toktok wetem dokta
 
-Sipos yu wari long ol jenji long memori blong yu wan o long man we yu keakem, lukim dokta, i no ikis nomo long wan app. Dokta i save lukluk long ol kosis we oli save fiksim, mo tok long ol step we i gat ol bes pruf, olsem kontrolem presa blong blad mo jekem hiaring. Lukim [Ibaed dementia i save stopem?](/brain-health/can-dementia-be-prevented/) long moa samting. Sipos i gat sudden konfiuson o narafala sudden jenji, go kasem urgent medikol helb.
+Sipos yu worri long ol jenis long memori long yu seleva o long wan man we yu keakem, go lukim dokta. No jes rilaes long wan app. Dokta i save lukim ol kod we i save treatem mo i save toktok long ol step we i gat bes evidens, olsem kontrolem presa blong blad mo jekem harem. Lukim [Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) blong moa infomesen. Sipos i gat sudden konfiuzen o ol narafala sudden jenis, kasem urgent medical help kwik.

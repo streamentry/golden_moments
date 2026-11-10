@@ -1,34 +1,33 @@
 ---
-title: "Dimansi la mɔgɔw ka ɲininkali: jigsaw ani sɛbɛn ɲininkali"
-seoTitle: "Dimansi ka ɲininkali: jigsaw ani sɛbɛn ɲininkali"
-description: "I ka jigsaw, sɛbɛn ɲininkali ani ɲininkali sankolo ye cogo min na dimansi la mɔgɔ kɛlɛ: tilebin ka tilennen, sɛbɛ, kulu bonba, ani ko i ka kɛ ɲɔgɔn fɛ, ani waati min na a kɛ ka fɛɛrɛ gɛlɛn."
+title: "Dimansi tɛgɛw: jigsaw, kumatɛgɛw ani sɛbɛn tɛgɛw"
+seoTitle: "Dimansi tɛgɛw: jigsaw ani kumatɛgɛw"
+description: "A bɛ se ka jigsaw, kumatɛgɛ ani sɛbɛn tɛgɛ sugandi dimansi bɛ mɔgɔ ye: fɛnw bɛ se ka kɛ cogo di, sanfɛ, a ka sɛbɛn fɔlɔ, ni ɲɔgɔn bɛ tɛgɛ, ani waati min na a bɛ se ka dɔgɔya."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ɲininkali ɲɛnamaya ka bon ka ɲɛ dimansi la mɔgɔ ye ko o ka ka a ɲɛfɛ ka ɲɛ
-  ka dɛmɛ kɛlen kɛlen na, ani o kɛ ɲagali ye a kɔnɔ. I ka jigsaw sugandi ka
-  tilebin dɔgɔ ani kulu bonba ye ani sɛbɛ ka bon ye min bɛ mɔgɔ ka sɛbɛ ye,
-  i ka sanduku sɛbɛ to ɲɛ kɔnɔ, ani i ka tilebin ka kɔfɛ tilebin fɔlɔ sɔrɔ.
-  Sɛbɛn ɲininkali ani sɛbɛn-sɛbɛn kulu bonba la ka ɲɛ ka ɲɛ. Ɲininkali
-  sankolo min bɛ tilebin naani ye ka ɲɛ ka dimansi la kɔfɛ kɔnɔ ɲɛnɔgɔn ye.
-  Ɲininkali ka sɛbɛ ka ɲɛ ka ɲɛ ka ɲɛnamaya kɛ fɛn min ka ɲɛ ka ɲɛ.
+  Tɛgɛ min dɔ bɛ se ka ɲi dimansi bɛ mɔgɔ ye, o ye min bɛ se ka o ci ni dɛmɛ dɔ ye,
+  ka o kɔnɔ dɔ ka di o ka kɛli la. Jigsaw min bɛ fɛn kɛmɛ ni fɛn fitinin,
+  ani sanfɛ sɛgɛnnen min bɛ jigsaw boɲɛ kɔnɔ, o ye min ka ɲi: boɲɛ kɔnɔ sanfɛ
+  ka to yɛrɛ la, ani kamalen ta kɔrɔ fɛn fɔlɔ. Kumatɛgɛ ni sɛbɛn tɛgɛ bɛ ɲi
+  ni sɛbɛn kɛmɛ bɛ ka ɲi. Tɛgɛ sɛbɛnnen min bɛ sanfɛ 4 kɔnɔ, o bɛ ɲi dimansi
+  ka waati ɲɔgɔn ma. Tɛgɛ ka kɛ ni ɲinɛ ye, o kɔ ka bɔ.
 keyPoints:
-  - "I ka ɲininkali sugandi ka ɲɛ waati ye, sanga stage tɔgɔ ye: ni ɲininkali bɛ kɛ baara ye, i ka ɲininkali min bɛ tilebin dɔgɔ ye."
-  - "Tilebin bonba ani sɛbɛ min bɛ jɔ ye ni kɔrɔ sanfɛ ye, ka ɲɛ ni tilebin tiɲɛnin ani sankolo ka jɔnɔn ye."
-  - "Mɔgɔ sɛbɛ ye ka ɲɛ. Togo, dugukolo, fɛn kɛlɛ, ani wulu, o ye ka ɲɛ, o tɛ kɔrɔ ye."
-  - "Ɲɔgɔn fɛ ka ɲininkali kɛ ye ɲɛnamaya ta ye. I ka tilebin dɔ-dɔ di, edges ka ɲɛ, sanduku sɛbɛ ka to ɲɛ kɔnɔ."
-  - "Sɛbɛn ɲininkali kulu bonba la ani sɛbɛn ɲininkali sankolo min bɛ tilebin 4 walima 9 ye, o bɛ bɔ ɲɛ ka ɲɛ ka ɲɛ kɔnɔ."
+  - "Ka sugandi ni a bɛ kɛ cogo di, ni tɔɔ tɛ: ni tɛgɛ bɛ kɛ baara ye, fɛn dɔgɔ ye tɛgɛ min kɛ."
+  - "Fɛn kɛmɛ, sɔrɔ fɛn fitinin ani sanfɛ sɛgɛnnen min bɛ ka ɲi, o bɛ ɲi ka tɛ fɛn fitinin ani sanfɛ tɛ kɛ tɛgɛ."
+  - "Mɔgɔkɔrɔ sanfɛw ka ɲi. Tɛ kɔnɔ, tɛ jɛkuluw, bɔ ni ka bɔ bɔ, ni sogow."
+  - "Ni ɲɔgɔn bɛ tɛgɛ, o ye kɛlɛ ye. Fɛn di ɲɔgɔn ma, jigsaw sɛgɛnnen ta kɔrɔ ka to ɲɛ kɔnɔ."
+  - "Sɛbɛn tɛgɛ ni sanfɛ 4 walima 9 jigsaw min bɛ ɲi, o bɛ bɔ site nin kɔnɔ ni tɛ wari ye."
 faq:
-  - q: "Ɲininkali ka tilebin joona ka ɲɛ dimansi la mɔgɔ ye?"
-    a: "Ɲɔgɔn tɛ, a sɔrɔ ka ɲɛ mɔgɔ min ye. Mɔgɔ min ka ɲininkali tilebin 1000 kɛra fɔlɔ, a bɛ se ka tilebin mɛn-mɛn ɲɛ ka ɲɛ waati fɔlɔ, nka tɔw bɛ ɲɛ ni tilebin tɔgɔ tɛmɛn-tɛmɛn ye. Ni ɲininkali bɛ kɛ baara ye walima ɲɔgɔn bɛ kɛ, tilebin dɔgɔ sugandi. Sɛbɛn ɲininkali sankolo bɛ tilebin 4 walima 9 ye."
-  - q: "Jigsaw bɛ ɲɛ dimansi la mɔgɔ ye wa?"
-    a: "Mɔgɔ caman bɛ o ɲagali, sanga ni ɲininkali bɛ a fɛ fɔlɔ. Ɲininkali bɛ bolo ɲɛ baara ye, kuma bɛ ɲɛ kɔrɔ, ani sɛbɛ min bɛ kuma ka ɲɛ. Ɲininkali tɛ dimansi ɲɛ, tɛ a sɔrɔ ka ɲɛ wa a ka gɛlɛya. Ka o sugandi ɲagali ni kɛlɛ ɲɔgɔn ye."
-  - q: "Ni mɔgɔ tɛ se ka jigsaw kɛ tuma min na, mun bɛ se ka kɛ?"
-    a: "Ka o ka ɲɛ ka ɲɛ, ani i yɛrɛ ka caman kɛ: tilebin kelen-kelen di, walima tilebin naani kɔfɛ to ka ɲɛ. I ka ɲininkali sankolo 4 tilebin, tilebin ka ɲɛ ni ɲɛmɔgɔ ye, walima sɛbɛ ɲɛnɔgɔn ka ɲɛ ɲɔgɔn fɛ."
-  - q: "Sɛbɛn ɲininkali ani sɛbɛn-sɛbɛn ɲɛ dimansi la mɔgɔ ye wa?"
-    a: "A bɛ se ka kɛ fɔlɔ dimansi kɔnɔ, kulu bonba la. Sɛbɛn sɛbɛn min bɛ kɛ kɔnɔ-kɔnɔ ani ɲɛ-ɲɛ kɔfɛ, o ka ɲɛ ka ɲɛ ni kɛnɛ-kɛnɛ kɔfɛ ka ɲɛ. Ka ɲɛmɔgɔ ni sɛbɛn ka ɲɛ ka ɲɛ kulu ye ka ɲɔgɔn kɛ."
+  - q: "Jigsaw fɛn joona ka ɲi dimansi bɛ mɔgɔ ye?"
+    a: "Fɛn joona tɛ yen. Mɔgɔ min ye jigsaw 1,000 kɛ, a bɛ se ka 'ɲɔgɔn' ka sɔrɔ fɔlɔ, nka mɔgɔ dɔw bɛ ɲi ni fɛn tɔɔ tɛ. Ni tɛgɛ bɛ kɛ baara ye, walima ka dimansi bɛ mɔgɔ ye, fɛn dɔgɔ ta. Site nin kɔnɔ jigsaw sanfɛ 4 walima 9 bɛ sɔrɔ."
+  - q: "Jigsaw bɛ ɲi dimansi bɛ mɔgɔ ye wa?"
+    a: "Mɔgɔ caman bɛ o ɲi, kɔsɔn min ye jigsaw kɛ fɔlɔ. Tɛgɛ bɛ kɔ ka boloɲɛ kɛ, kɛlɛ bɛ sɔrɔ, ani sanfɛ bɛ kuma sɔrɔ. Tɛgɛ si tɛ dimansi ka kɛ, a tɛ sɛgɛsɛgɛli kɔnɔ fana ka jate. Ka o kɛ kɛlɛ ni ɲɔgɔnkɔrɔ ye."
+  - q: "Mun bɛ kɛ ni mɔgɔ tɛ se ka jigsaw kɛ tuma dɔ?"
+    a: "Ka o dɔgɔya, ka fɛn caman yɛrɛ kɛ: ka fɛn kelen kelen di, walima ka fɛn dɔrɔn kɔrɔ tɛgɛ. I bɛ se ka sanfɛ 4 jigsaw kɛ onlayini, ka fɛnw sɔrɔ ni kɔlɔ, walima ka sanfɛ sigi ani ɲɔgɔn ye."
+  - q: "Kumatɛgɛ ni sɛbɛn tɛgɛ ka ɲi dimansi ye wa?"
+    a: "Dimansi fɔlɔ kɔnɔ, o bɛ ɲi sɛbɛn kɛmɛ ni sanfɛ sɛgɛnnen ye. Sɛbɛn tɛgɛ min ka kɛ kɛ-fan ni kɛ-fan, o bɛ ɲi ka tɛ min ka kɛ kɔrɔ-fan walima kɔfɛ. Sɛbɛn ka siyɛn walima sɛbɛn sigi cɛ ka fɔ, ka tɛgɛ ni ɲɔgɔn ye."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-Jigsaw sɛbɛ min bɛ sɔrɔ ka tabali kɔnɔ, o ye ɲininkali ye min bɛ se ka ɲɔgɔn fɛ ka sɔn ka ɲɛ. I bɛ se ka sigi ɲɔgɔn fɛ ni kuma tɛ, sɛbɛ bɛ kuma sɔrɔ ka ɲɛ, ani tilebin laɲini ka ɲagali bɛ kɛ. Nka ɲininkali nɔ bɛ kɛ ka ɲɛ ka cogo kɛ dimansi ka ɲɛ ni a bɛ ɲɛ. Ɲininkali min bɛ gɛlɛn kosɛbɛ, o bɛ kɛ ɲɛnamaya gɛlɛn ye. Ɲɛnɔgɔn in bɛ jigsaw, sɛbɛn ɲininkali ani ɲininkali sankolo ka sugandi ka ɲɛ ani a ka cogo min bɛ ɲɛ waati min na.
+Jigsaw min bɛ sɔrɔ ka bɔ tabali kan kɔnɔ, o ye tɛgɛ ye min bɛ se ka ɲi ka ɲɔgɔn ye ka kɛ ni ɲɔgɔn ye. I bɛ se ka sigi ɲɔgɔn fɛ ni kuma tɛ, sanfɛ bɛ kuma kɛ ka ɲɔgɔn ye, ani ka jigsaw kɛnɛ fɛn laban bɛ kɛ kɛlɛ ye. Nka tɛgɛw ka kan ka yɛlɛ ni dimansi bɛ yɛlɛ. Tɛgɛ min bɛ kɛ baara kosɛbɛ, o bɛ wacɛ dɔgɔ ka kɛ kɛlɛ kɔnɔ kɛlɛ bɛ kɛ ka ɲi. Nin kɛlɛ ka kuma bɛ jigsaw, sɛbɛn tɛgɛ ani jigsaw onlayini ta ka kɛ cogo di, ani ni o bɛ kɛ baara kɔrɔ.
 
-## Ɲininkali ka ɲɛ dimansi la mɔgɔ ye wa?
+## Tɛgɛw ka ɲi dimansi bɛ mɔgɔ ye wa?
 
-Mɔgɔ caman bɛ o ɲagali, sanga min ye ɲininkali ɲɛnɔgɔn ye fɔlɔ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ sɛbɛn ɲininkali, karti ɲininkali ani tabali ɲininkali ɲɛ kɔfɛ fɔlɔ dimansi kɔnɔ, ani [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bɛ fɔ ko ɲininkali sankolo tabulet kɔnɔ ye cogo dɔ ye min bɛ mɔgɔ kɔnɔ ka ɲɛ.
+Mɔgɔ caman bɛ o ɲi, kɔsɔn min ye o kɛ fɔlɔ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ sɛbɛn tɛgɛ, kaarta ni tabali tɛgɛw ta fɔlɔ kɔnɔ dimansi kɔnɔ, ani [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) b'a fɔ ko onlayini tɛgɛw ni tablɛti kan jigsaw bɛ se ka kɛ cogo min na ka kɛ ni kɛlɛ ye.
 
-Ɲininkali tɛ dimansi ɲɛ. Ɲininkali tɛ ɲɔgɔn fɛ dimansi ka ɲɛ walima a ka ɲɛ ka ɲɛ. Sɛbɛ min bɛ ɲɛ brain games ani dimansi ka ɲɛ [ɲininkali kɔnɔ ɲɛ](/brain-health/brain-games/) bɛ o ɲɛnɔgɔn fɔ. Ɲininkali kɛ ka ɲɛ ye ko a bɛ kɛ waati ɲɛnɔgɔn ye ka ɲɛ ani ka kuma ɲɛ ɲɔgɔn fɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bɛ o fɔ cogo nin na: ka ɲagali sɔrɔ, ka ɲɛ ka ɲɛ, o tɛ ka ɲɛ.
+Tɛgɛ tɛ dɔ ye. Tɛgɛ si tɛ jate ka dimansi kɛ, walima ka a sɛgɛsɛgɛli. [Brain games and dementia](/brain-health/brain-games/) kibaru bɛ sɛgɛsɛgɛli kɔnɔ fɔ. Tɛgɛ kɛ ko ye ko kɛlɛ bɛ kɛ ni ɲɔgɔn ye waati dɔ kɔnɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) b'a fɔ ko kan ka kɛ ka ɲi ye, ko ka ɲɛnamaya ka ɲi ye, ka fɛn kɛ ka tɛ kɛ.
 
-## I bɛ se ka jigsaw sugandi cogo di dimansi la mɔgɔ ye wa?
+## Jigsaw min ka ɲi dimansi bɛ mɔgɔ ye, o bɛ se ka sugandi cogo di?
 
-I ka sugandi ni mɔgɔ min bɛ ɲagali ani ɲininkali laɲini ka ɲɛ, stage tɔgɔ ka ɲɛ tɛ.
+Sugandi ka kɛ mɔgɔ min bɛ ɲi, ani laban tɛgɛ cogo min na, o ye ka sugandi. Ka sugandi kɔnɔ waati ye, o tɛ kɛ sanfɛ ka ɲɛ.
 
-### Tilebin joona
+### Sanfɛ ka joona
 
-Joona tɛ ɲɔgɔn ye. Mɔgɔ min ka ɲininkali ɲɛnamaya bɛ ɲɛ, a bɛ se ka tilebin mɛn-mɛn ɲɛ ka ɲɛ fɔlɔ, nka tɔw bɛ ɲɛ ni tilebin tɔgɔ ye. Ɲɛnɛma kɛcogo: ni laɲini ɲininkali bɛ kɛ baara ye, i ka tilebin ka ɲɛ tilebin naani ye. Ni a bɛ ɲininkali ka teli, ka a fɛ ka ɲɛ, i ka tilebin ka ɲɛ ka ɲɛ.
+Fɛn joona tɛ yen. Mɔgɔ min ye jigsaw kɛ a ka ɲɛnamaya bɛɛ, o bɛ se ka ɲi sanfɛ kɛmɛ kɛmɛ ɲɔgɔn, nka mɔgɔ dɔw bɛ ɲi sanfɛ tɔɔ ni fɛn fitinin. Kɔrɔsi: ni tɛgɛ laban bɛ kɛ baara ye, sanfɛ ka tɔɔ ka ɲɛ ka kɛ jigsaw sanfɛ kɛmɛ kɛmɛ. Ni a bɛ tɛgɛ kɛ ka tugu, ka ɲi kosɛbɛ, o bɛ kɛ ka ɲi ka sanfɛ caman kɛ.
 
-### Tilebin ka tilennen ani ka ɲɛ
+### Sanfɛ ka joona ani a ka kɛnɛ
 
-- **Tilebin bonba** bɛ se ka ɲɛ, ka bolo ka kɛ, ka ɲɛ.
-- **Tilebin jɛnɛ, ka sɛgɛ** bɛ to ɲɛ kɔnɔ, ni a bɛ bɔ ɲɛ.
-- **Matte kɔrɔ** bɛ ɲɛ ɲɔgɔn fɛ fitinnin ka ɲɛ fitila ni dugu-yɔrɔ ka ɲɛ.
-- **Tilebin tɔgɔ kɛ** ni mɔgɔ min bɛ ɲɛ, a bɛ fɛn dɔ ka ɲɛ ka da kɔnɔ, o bɛ kɛ dimansi kɔfɛ kɔnɔ.
+- **Sanfɛ kɛmɛw** bɛ ɲi ka ɲi, ka sɔrɔ, ka o kɔrɔfɛ.
+- **Sanfɛ tɛ kɔnɔ, sanfɛ jɛkulu** bɛ ɲi ka to ɲɛ kɔnɔ, ani ka bɔ ni o bɛ kɛ.
+- **Sanfɛ tɛ ɲɛɲɛ kɛ** bɛ ɲi ka sɔrɔ ka gɛlɛya ka dɔgɔ kɛlɛ kɔnɔ fitinin.
+- **Ka sanfɛ fitinin ban** ni mɔgɔ bɛ se ka fɛn bɔ da kɔnɔ, o bɛ kɛ dimansi kɔnɔ kɔfɛ.
 
-### Sɛbɛ
+### Sanfɛ
 
-- **Mɔgɔ ka kɛwale.** Tɔnɔ, kulu, fɔ dɔ, fɔ-cɛ, sankolo, sɛgɛ ka ɲɛ. Kɔnɔ ka sanduku kɔnɔ tɛ, walima fɛn min bɛ ɲɛ kɛ denw ye.
-- **Kɔrɔ ɲɛnɔgɔn tilenen.** Tilebin wulu ani fɔ, ɲɛ ani fɔ bolo bɛ kɛ ka ɲɛ ka ɲɛ fɛ ka ɲɛ tilebin tiɲɛnin.
-- **Ka ɲɛ ani mɔgɔ ka ɲɛ.** Kulu min mɔgɔ tɛ ka ɲɛ, walima fɛn min mɔgɔ ka ɲɛ ka ɲɛ. Sɛbɛ foto ka ɲɛ jigsaw ye bɛ se ka kɛ ni ɲɔgɔn ka ɲɛ.
+- **Mɔgɔkɔrɔ fɛnw.** Sɛgɛnnen, tabali, kɛnɛ fɛn, kɛ fɛn, fɛnw ni wari. Tɛ jɛkuluw ni fɛn min bɛ kɛ ni denw tɛgɛ ye.
+- **Kɔlɔ caman sɔrɔ.** Ntɛgɛ kɔlɔ fɛn kɛmɛ, ka ko kɔlɔ fɛn kɛmɛ, ani ka fan dɔ ka ɲi ni ka dɛmɛ. Jigsaw min fɛn bɛ kɛ kɔlɔ dɔ bɛ fan kɛ dɔgɔ, o bɛ ɲi ka tɛ min bɛ fan kɛ kɔlɔ kɔnɔ.
+- **Mɔgɔ ka fɛn.** Yɔrɔ min ka kɛnɛ, ka kɛ ka kɛli ɲi, o bɛ ka kuma caman kɛ. Ni dɔ bɛ se ka sanfɛ ka jigsaw kɛ.
 
-## I bɛ se ka ɲininkali kɛ ɲɔgɔn fɛ cogo di?
+## Jigsaw cogo di ni ɲɔgɔn ye?
 
-Ka o sigi cogo min na mɔgɔ ka se ka ɲɛ fɔlɔ ka ɲagali kɔnɔ.
+Ka a to ka ɲi ka fɛn ɲi ka ɲɛ kɛlɛ kɔnɔ.
 
-1. **Yɔrɔ ɲɛ.** Fitila ɲɛ, sigi min bɛ kɛ ni bolo ye, ani tabali walima tabali sɛgɛ min bɛ ɲininkali to ka ɲɛ.
-2. **Sanduku sɛbɛ ka da** ka i ni mɔgɔ ye ɲɛ.
-3. **Tilebin sɛbɛ fɛ ka ɲɛ** a ɲɛ ka kɛ fɔlɔ.
-4. **Edges ka sugandi,** i yɛrɛ ka ɲɛ walima border fɔlɔ ka ɲɛ, ka middle to mɔgɔ ka ɲɛ.
-5. **Tilebin ka tiɲɛni ka ɲɛ,** ka ɲɛ ni kulu ni bolo ka ɲɛ.
-6. **Tilebin kelen-kelen di** ni pile ka ɲɛ ka ɲɛ. "Ne ye ko o tilebin ye barn ka ɲɛ."
-7. **Sɛbɛ kuma, tɛ ɲininkali ka ɲɛ.** "O bɛ i ko boat min na ne fa ka ɲɛ."
-8. **A to ɲɛ kɔnɔ.** Kɛ ɲɔgɔn fɛ ni ɲɛ tile dɔ ka ɲɛ. Sɔn tɛ.
-9. **Ka ɲininkali ɲɔgɔn kɛ,** tilebin dɔ ka ɲɛ kɔfɛ, a ka ɲɛ tuma min na.
+1. **Yɔrɔ ɲi.** Sɔgɔ ɲi, sigi min bɛ kɔ kɔnɔ, ani tabali walima ɲɛnɛ min bɛ jigsaw to.
+2. **Ka boɲɛ kɔnɔ kamalen ta kɔrɔ** ka ɲi ni ɲɔgɔn bɛ ye.
+3. **Ka sanfɛ yɔrɔ kɛ** fɔlɔ.
+4. **Sanfɛ bɛ kɔrɔ ka ɲi** i yɛrɛ ye, walima ka kɔrɔ fɔlɔ ka kɔ fɛn to mɔgɔ ye.
+5. **Ka sanfɛ kɔlɔ ɲɔgɔn bɛ tɛgɛ** ka tabali dɔw kɔnɔ.
+6. **Ka sanfɛ kelen kelen di** ni sanfɛ caman bɛ mɔgɔ ka hakili bɔ. "Ne ye ko ka sanfɛ nin ye barnen ka fɛn ye."
+7. **Ka kuma sanfɛ kɔrɔ**, ka tɛ kuma ka kɛ ka ɲi ka ɲɛnamaya. "O bɛ i ka ɲɛnamaya fa ka bɔ ni nka ka kɛ."
+8. **A to ka kɛ**. Ka o bɛ kɛ dɔ kɔ, ka waati ɲɔgɔn ta. Waati ka ɲi.
+9. **Ka tɛgɛ bɔ ni fɛn ɲi,** sanfɛ dɔ ka ɲɔgɔn ɔɔ ka o ɲɔgɔn. A ka kan ka kɛ ka to ka ɲi.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ fɔ ko i ka dɛmɛ ka ɲɛ ka ɲininkali ka ɲɛ, ka ɲɛ ka gɛlɛya, ani ka a ka ɲɛ ka ɲɛ ni a bɛ ɲagali ka ɲɛ ka ɲɛ. I ka tilebin kɔnɔ ka ɲɛ, ani ka fɔ yɔrɔ min na tilebin dɔ bɛ kɛ, o bɛ kɛ ɲininkali kɔnɔ.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) b'a fɔ ko ka dɛmɛ mɔgɔ ka kɔrɔfɛ, ka sɔn ka kɛlɛ ɲinɛ, ani ni a bɛ ɲi ka kɛ ka ɲɛ ka kɛ kɛlɛ. Ka i ka sanfɛ sɛgɛnnen kɛ ka a ɲɛ, ani ka fɛn ɲɛnɔgɔn sɔrɔ, o bɛ kɛ kɛlɛ kɔnɔ fana.
 
-## Ɲininkali sankolo tabulet kɔnɔ
+## Jigsaw onlayini ka ɲi
 
-Tabulet ɲininkali bɛ ɲɛnɔgɔn caman bɛ: tilebin tɛ bɔ, sɛbɛ bonba bɛ ekran ɲɛ, ani tabali tɛ ka ɲɛ.
+Tablɛti kan tɛgɛ bɛ ɲi ka dɔ. Sanfɛ tɛ bɔ, fɛn kɛmɛw bɛ ɲɔgɔn kɛ ka tɛ tabali kɔnɔ.
 
-Sɛbɛ [Picture puzzle](/games/picture-puzzle/) bɛ sɛbɛ tilebin 4 walima 9 ye. Ka tilebin fila ɲɛ ka tilebin kɛ ɲɔgɔn ye ka sɛbɛ kɛ kelen ye. Sɛbɛ fɛ bɛ ekran kɔnɔ ka ɲɛ, waati tɛ, ani i bɛ se ka to ɲɛ kɔnɔ waati o waati. Tilebin naani bɛ ɲɛ ka ɲɛ mɔgɔ caman ye min bɛ dimansi kɔfɛ kɔnɔ ani mɔgɔ min bɛ ɲɛ ka ɲɛ.
+Site nin kɔnɔ [Picture puzzle](/games/picture-puzzle/) bɛ sɔrɔ tɛ wari ye. A bɛ sɛgɛnnen sanfɛ 4 walima 9 kɔnɔ. A bɛ sanfɛ kelen ni kelen ɲɛ ka ɲi, ka sɛgɛnnen kɛ ka bɔ. Sɛgɛnnen fɛn bɛ ɲɛ kɔnɔ kɛ kɔrɔ, waati tɛ yen, ani i bɛ se ka to a kɔnɔ tuma o tuma. Sanfɛ 4 bɛ ɲi dimansi bɛ mɔgɔ caman ye, ni mɔgɔ kɔnɔ bɛ sigi a fɛ.
 
-Sɛbɛ ɲininkali ka ɲɛ ɲɛnɔgɔn, [Find the same](/games/find-the-same/) ka sugandi, o kɔnɔ i bɛ sɛbɛ min bɛ kɛ i ka kɔnɔ ɲɛ, ka a ɲɛ sɛbɛ dɔ ka ɲɛ. Walima [Sort together](/games/sort-together/), o kɔnɔ sɛbɛ bɛ kɛ kɔnɔ ka ɲɛ, kulu walima ɲɛ ka sɛbɛ kɔnɔ.
+Ni tɛgɛ dɔ bɛ kɛ ka sɔn, [Find the same](/games/find-the-same/) bɛ kɛ, i bɛ sanfɛ min bɛ kɛ i ka ɲɛ kɔnɔ ni min bɛ kɛ kun na, o bɛ kɛ ɲɛ kɔnɔ. Walima [Sort together](/games/sort-together/), min bɛ fɛn kɛ kɔlɔ ɲɔgɔn kɔnɔ, i ko kɛnɛ walima sɔgɔ.
 
-## Sɛbɛn ɲininkali: sɛbɛn ɲininkali ani sɛbɛn-sɛbɛn
+## Sɛbɛn tɛgɛw: kumatɛgɛ ni sɛbɛn kɛmɛ
 
-Sɛbɛn ɲininkali bɛ kɛ mɔgɔ min bɛ ɲagali ka ɲɛ fɔlɔ, a bɛ kɛ dimansi fɔlɔ kɔnɔ.
+Sɛbɛn tɛgɛw bɛ ɲi mɔgɔ min ye o kɛ fɔlɔ, dimansi fɔlɔ kɔnɔ.
 
-- **Sɛbɛn ɲininkali kulu bonba la.** Sɛbɛ [Word search](/games/word-search/) bɛ kulu bonba ni sɛbɛ dɔgɔ ye, ka kɛ kɔnɔ ni kɔrɔ ye, kɔnɔ ni ɲɛ ye, kɛnɛ ni kɔnɔ ye kɛnɛ, ani kɔnɔ tɛ ka kɛ kɛnɛ kɔfɛ. I bɛ se ka a kɛ ekran kɔnɔ walima ka a bɔ kɔrɔ ka ɲɛ.
-- **Sɛbɛ tɔgɔ ka kuma ka ɲɛ.** Mɔgɔ dɔ bɛ sɛbɛ kuma, tɔw bɛ a ɲininka. Sɛbɛ fɔlɔ tɔgɔ ka ɲɛ, a bɛ ɲɛ.
-- **Crossword kulu bonba la** bɛ kɛ kɔfɛ fɔlɔ. Ka kɔfɛ tɔgɔ ka ɲɛ ka kuma, ka ɲɛ ka peni ka kɛ ɲɔgɔn fɛ, ka jawabu ka sɛbɛ. Crossword ɲɛ ani fɛn ɲɛ ye, ɲɛ min kɔfɛ bɛ ɲɛ ka ɲɛ tɛ.
-- **Sɛbɛ kuma.** "Tɔgɔ" bɛ ɲɔgɔn ka kuma ɲɛ ka ɲɛ, miniti 10 tomates ka kuma.
+- **Sɛbɛn kɛmɛ kɛmɛ.** Site nin kɔnɔ [Word search](/games/word-search/) bɛ sɛbɛn kɛmɛ ni kɛ-fan ni kɛ-fan, a tɛ kɛ kɔrɔ-fan walima kɔfɛ. A bɛ kɛ ɲɛ kɔnɔ walima ka bɔ ka sɛbɛn.
+- **Ka sɛbɛn ɲini ka fɔ.** Mɔgɔ dɔ bɛ sɛbɛn fɔ, mɔgɔ dɔ bɛ o ɲini. A ɲɛfɛ ɲɔgɔn ka kɛ fɛn ye.
+- **Kumatɛgɛ kɛmɛ** min bɛ kɛ kitabu kɔnɔ, o bɛ ɲi fɔlɔ kɔnɔ. Ka kɛlɛ ɲinɛ ka fɔ, sɛbɛn kɛ ni ɲɔgɔn ye, ani ka jawabu ɲɔgɔn kɛ. Kumatɛgɛ min ka kɛ ka dɔgɔ, ani ka kɛ dɔ bɛ kɔnɔ, o ka ɲi ka tɛ min bɛ kɛ ka gɛlɛya.
+- **Ka sɛbɛnw kuma.** "Sanfɛ" bɛ kɛ ka kuma ka ɲi ka ɲɔgɔn minitiw tan la.
 
-Sɛbɛn ɲininkali ni ɲɛnɔgɔn ka ɲɛ, sɛbɛ ka cogo min bɛ ɲɛ ka ɲɛ, [free printable dementia activities](/activities/printable/) ɲɛ.
+Ka sɛbɛn tɛgɛw kɛ kɛ ka bɔ, ani ka o ɲɛ, o bɛ ɲi ka tɛ min bɛ kɛ, [free printable dementia activities](/activities/printable/) bɛ kɔ.
 
-## Ɲininkali min bɛ kɛ stage kɔnɔ cogo di?
+## Tɛgɛ jɔnw bɛ ɲi dimansi ka kɛ kɔrɔ?
 
-Stage bɛ ɲɔgɔn kɛ, ani tile ɲɛ ni gɛlɛya tile bɛ kɛ ɲɔgɔn ye.
+Dimansi ka kɛ kɔrɔ bɛ kɛ ka tɛ ɲɔgɔn ye, ani kɛlɛ ɲi walima kɛlɛ gɛlɛya bɛ kɛ cogo min na.
 
-| Stage | Ɲininkali min bɛ kɛ | I ka kɛwale |
+| Kɛ | Tɛgɛ min bɛ ɲi | I ka baara |
 | --- | --- | --- |
-| Fɔlɔ | Jigsaw min bɛ ɲɛ, tilebin dɔgɔ ni fɔlɔ, kulu bonba la crossword ani sɛbɛn ɲininkali, tabulet 9 tilebin | Ɲɔgɔn: a ka ɲɛ sugandi, dɛmɛ ka ɲɛ waati min na a bɛ fɔ |
-| Kɔfɛ | Jigsaw tilebin tɛmɛn-tɛmɛn bonba, tabulet 4 tilebin, sɛbɛn ɲininkali kuma ka ɲɛ ɲɔgɔn fɛ | Ka sigi kɛ, tilebin ka sɔrɔ, tilebin kelen-kelen di |
-| Kɔfɛ kɔfɛ | Sɛbɛ ka ɲɛ ɲɔgɔn fɛ, Find the same sɛbɛ fila ni, tilebin dɔgɔ bonba ɲɛ | A ka ɲɛ kɔnɔ; i ka ɲɔgɔn ye ɲininkali ye |
+| Fɔlɔ | Jigsaw min bɛ sanfɛ dɔgɔ ni fɔlɔ bɛ kɛ, sɛbɛn kɛmɛ ni kumatɛgɛ kɛmɛ, jigsaw sanfɛ 9 onlayini | Ɲɔgɔn: a ka ɲi a ka sugandi, ka dɛmɛ ni a ye ni a wele |
+| Kɔrɔ | Jigsaw ni sanfɛ kɛmɛ kɛmɛ, jigsaw sanfɛ 4 onlayini, sɛbɛn tɛgɛ ni sɛbɛn ɲinɛ ka fɔ | Ka yɔrɔ ɲi, ka sanfɛ sɛgɛnnen, ka fɛn kelen kelen di |
+| Kɔfɛ | Ka sanfɛ kɛmɛ kɛmɛ ni ɲɔgɔn ye, Find the same ni sanfɛ fila, ka fɛn kɛmɛ dɔw kɔrɔfɛ | I ka ɲɛ, i ka sigi ni a ye, o ye kɛlɛ ye |
 
-## Ɲininkali kɛ ɲɛnɔgɔn walima ka ɲɛ waati min na?
+## Jigsaw ka dɔgɔya walima ka bɔ, a waati jɔ?
 
-Ka ɲɛ ka ɲɛ ka ɲɛ: a bɛ ɲɛ ka ɲɛ, a bɛ tilebin bɔ ɲɛ, a bɛ fɔ "Ne tɛ se" ka ɲɛ walima a bɛ ɲɛ ka ɲɛ. O bɛ kɛ kɛwale ye ka ɲɛ, a tɛ kɛ ka ɲɛ ka ɲɛ.
+Ka ɲɛ ka ɲɛ: a bɛ kɔsi, a bɛ sanfɛ ka bɔ, a bɛ "N tɛ se" ko fɔ ni dɔrɔn, walima a ka ɲɛ bɛ ɲi kɔrɔ. O bɛ kɛ nɔgɔ ye ka fɛn dɔ yɛlɛ, a tɛ ka ɲi ka ɲɛnamaya.
 
-- **Ka ɲɛ.** Tilebin joona dɔgɔ, walima tilebin naani kɔfɛ to ka ɲɛ.
-- **I yɛrɛ ka caman kɛ** ka a ɲɛ ka ɲɛ baara ɲɛ ka ɲɛ.
-- **Ka ɲɛ dɔ ka ɲɛ:** tilebin ka tiɲɛni, 4 tilebin tabulet ɲininkali, walima [coloring](/games/coloring/).
-- **A to ɲɛ kɔnɔ.** A to ɲɛ kɔnɔ ka ɲɛ, ka tɛ kɛ ka ɲɛ. I bɛ se ka segin ka ɲɛ, walima ka ɲɛ dɔ ka ɲɛ.
+- **Ka a dɔgɔya.** Sanfɛ dɔgɔ, walima ka fɛn dɔrɔn kɔrɔ tɛgɛ kɔ.
+- **I yɛrɛ ka caman kɛ**, ka a wele ka dɛmɛ ni fɛn dɔw ye min bɛ ɲi.
+- **Ka fɛn dɔ kɛ min bɛ kɛ yɔrɔ kɔnɔ:** ka sanfɛ kɔlɔ ɲɔgɔn bɛ tɛgɛ, sanfɛ 4 jigsaw onlayini, walima [coloring](/games/coloring/).
+- **Ka to.** Ka tɛgɛ bɔ, ka tɛ ɲɛ ka kɛ. I bɛ se ka segin ka kɛ tuma wɛrɛ, walima ka tɛ kɛ abada.
 
-Ni ɲininkali bɛ kɛ dimansi ka ɲɛ kɔnɔ fɛn min bɛ gɛlɛn ka ɲɛ, o ye ɲɛ ka ɲɛ ka ɲɛ. Ɲɛnɔgɔn caman bɛ kɛ ɲɔgɔn fɛ ka ɲɛ, ani [101 activity ideas](/activities/ideas/) ye ɲɛ ka ɲɛ.
+Ni jigsaw bɛ kɛ ka tugu ka dimansi ka gɛlɛya kɛ kɔrɔ, o tɛ ka jɔ ka bɔ. Ɲɛnamaya kɔnɔ tɛgɛ caman bɛ yɔrɔ ye min bɛ se ka kɛ ni ɲɔgɔn ye ka ɲi; [101 activity ideas](/activities/ideas/) bɛ kɛ yɔrɔ ɲi ye.

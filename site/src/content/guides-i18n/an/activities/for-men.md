@@ -1,33 +1,33 @@
 ---
-title: "Actividaz pa homes con demencia"
-seoTitle: "Actividaz pa homes con demencia: idiegas d'a vida real"
-description: "Idiegas d'actividaz pa homes con demencia, basadas en o treballo, as aficions y as rutinas de cadaún, no en estereotipos, con consellos pa adautar cada una con seguranza."
+title: "Activitats ta ombres con demencia"
+seoTitle: "Activitats ta ombres con demencia: ideas de la vida real"
+description: "Ideas d'activitats ta ombres con demencia, basadas en o trabayo, as aficions y as rutinas y no en estereotipos, con consellos ta adaptar-las con seguranza."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  As mellors actividaz pa un home con demencia salen d'a suya propia vida:
-  o treballo que feba, as aficions que quería y as rutinas que mantenía cada
-  día. Un antigo empleyau de oficina puede disfrutar ordenando papers, un
-  mecánico puede disfrutar tocando herramientas limpias y un aficionau a os
-  deportes puede disfrutar d'un chuego viello. As preferencias cambian de home
-  a home, por eso empiece por la persona y no por o sexo.
+  A mellor activitat ta un ombre con demencia salt de a suya propia vida: o
+  trabayo que feba, as aficions que quería y as rutinas que mantenió. Un antigo
+  treballador d'oficina puede disfrutar ordenando papers, un mecanico puede
+  disfrutar tocando ferramientas netas, y un aficionau a l'esport puede
+  disfrutar d'un viello partido. As preferencias varían de ombre a ombre, por
+  o que cal partir d'a persona y no d'o sexo.
 keyPoints:
-  - "Empiece pola propia historia d'este home: o suyo treballo, as aficions, as rutinas y o que lo facía sentir orgulloso."
-  - "As tareas con un fin real, como ordenar ferraje, lavar o coche u lixar a madera, sovent agradan más que as actividaz que semblan una clase."
-  - "No a todos los homes les gustan as herramientas o os deportes. Muitos disfruta cocinando, con a musica, o chardín, l'arte o cuidando a otros. Pregunte, mire y siga a suya guía."
-  - "Pa que as tareas de tipo treballo sigan siendo seguras, quite as herramientas afiladas y supervise, y simplifique as tareas a midida que cambien as capacidaz."
-  - "Decir que no ye permitido. Ofrezca un papel, no una tarea obligatoria, y pruebe otro día."
+  - "Empiece con a historia d'este ombre: o suyo trabayo, as suyas aficions, as suyas rutinas y o que li feba estar orgulloso."
+  - "As tareas con una finalidat real, como ordenar ferramienta, lavar o coche o lixar madera, muitas begatas gustan mas que as activitats que paecen una clase."
+  - "No a todos os ombres les gustan as ferramientas o l'esport. Muitos disfrutan cocinando, con a musica, cultivando, con l'arte o cuidando a atros. Pregunte, mire y siga o suyo ritmo."
+  - "Pa que as tareas de tipo trabayo sigan siendo seguras, quite as ferramientas afiladas y supervise, y simplifique-las a meda que cambien as capacidatz."
+  - "Decir que no ye normal. Ofrezca un papel, no una obligación, y torne a intentar-lo otro día."
 faq:
-  - q: "Qué actividaz les gustan a os homes con demencia?"
-    a: "No hai una lista única, porque os interesos d'os homes varían como os de cualsequier persona. Buenos puntos de partida son tareas relacionadas con o suyo treballo pasau, como ordenar papers o clasificar tornillos y tuercas, y aficions que quería, como a pesca, os coches, a musica, cocinar o os deportes. Mire qué fa por cuenta propia y basa-se-ne."
-  - q: "O mío pai no quiere participar en actividaz de grupo. Qué puedo fer?"
-    a: "Muitas personas, homes y mullers por igual, refusan actividaz que semblan una clase u que pareixen infantils. Pruebe ofrecer-le un trabayo: 'Me pues ayudar a ordenar estos?' Grupos más chicos o tiempo a solas pueden resultar más cómodos que una sala grande."
-  - q: "Ye seguro dixar-lo usar herramientas?"
-    a: "Nomás con supervisión y herramientas seguras. Quite as herramientas eléctricas, as fuellas y cualsequier cosa afilada, y ofrezca tareas como lixar un tochico de madera, ordenar ferraje limpio u apretar tornillos gordos a mano. La Alzheimer's Association recomienda quitar d'o taller os elementos peligrosos pa que una tarea como lixar siga pudiendo disfrutar-se con seguranza."
-  - q: "Era un profesional. Las tareas sencillas le faran sentir-se ofendido?"
-    a: "Puede que sí, si se presentan como trabayo de relleno. Plantee la tarea como una ayuda de verdat, use materiales de adultos y escoja algo parecido a o suyo antigo papel, como revisar una lista, organizar un archivo u ayudar a preparar un envío por correo. Si era muito bueno en alguna cosa, una actividat relacionada pero diferent puede sentir-se menos como una comparanza."
+  - q: "¿Qué activitats disfruten os ombres con demencia?"
+    a: "No hi ha una lista unica, porque as aficions d'os ombres varían tanto como as de cualquiers atra persona. Bos puntos de partida son as tareas relacionadas con o suyo trabayo viello, como ordenar papers o clasificar tuercas y tornillos, y tamién as aficions que querió, como a pesca, os coches, a musica, cocinar o l'esport. Mire qué fa per iniciativa propia y construya sobre ello."
+  - q: "Mi pai rechaza as activitats en grupo. ¿Qué puedo fer?"
+    a: "Muitas personas, ombres y mullers, rechazan as activitats que paecen una clase o que les paecen infantils. Prebe a ofrecer-li una tarea: «¿Me ayudas a ordenar estos?». Os grupos mas chicotes o o tiempo a solas pueden tamién resultar mas comodos que una sala grande."
+  - q: "¿Ye seguro dixar-lo usar ferramientas?"
+    a: "Solo con supervisión y ferramientas seguras. Quite as ferramientas electricas, as ogullas y cualquier cosa afilada, y ofrezca tareas como lixar un bloque de madera, ordenar ferramienta neta o apretar tornillos grans a man. La Alzheimer's Association suggiere quitar os elementos peligrosos d'un taller pa que una tarea como lixar siga podendo disfrutar-se con seguranza."
+  - q: "Era un profesional. ¿Le sentirán mal as tareas sencillas?"
+    a: "Puede que sí, si se presentan como trabayo de relleno. Plantee a tarea como una ayuda de verdat, use materials de adultos y elixca algo parecito a o suyo antigo papel, como revisar una lista, organizar una carpeta o ayudar a preparar un envío por correo. Si era muito habilidoso en algo, una actividat relacionada pero diferent puede sentir-se menos como una comparación."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -46,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-A chen busca "actividaz pa homes con demencia" porque as ideas habituals no le semblan adecuadas pal home que tiene en a suya vida. Ye una preocupación normal. Pero a respuesta no ye una lista de actividaz "de homes". Ye empezar por este home en concreto: qué feba por treballo, qué feba os fins de semana y qué le feba sentir que servía pa alguna cosa. As aficions varían pa todo o mundo. Muitos homes disfruta cocinando, cuidando o chardín, pintando o cantando, y muitas mullers disfrutan con os coches o con o béisbol.
+A chent busca «activitats ta ombres con demencia» porque as sucherencias habituals no paecen adaptar-se ar ombre que tienen en a suya vida. Ye una preocupación ben razonable. Pero a respuesta no ye una lista d'activitats «de ombres». Ye empezar con este ombre en particular: qué feba por viver, qué feba os fins de semana y qué le feba sentir-se util. As aficions varían en cada uno. Muitos ombres disfrutan cocinando, cultivando, pintando o cantando, y muitas mullers disfrutan con os coches y con o beisbol.
 
-## Cómo trobo actividaz que de verdat le vayan a gustar?
+## ¿Como trobo activitats que de verdat le presten?
 
-Empiece por a suya historia de vida. La Alzheimer's Association recomienda armar un [plan diario](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) alredor d'os gustos, d'as cosas que no le gustan, d'as fortalezas y d'os interesos de la persona, y tamién d'o modo en que organizaba o suyo día. Pregúntese:
+Empiece por a historia de a suya vida. A Alzheimer's Association suggiere fer un [plan diario](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) basau en as preferencias, as cosas que no le gustan, as capacidatz y os intereses de la persona, y en como estructurava o suyo día. Pregunte-se:
 
-- **Qué era o suyo treballo?** Oficina, granja, fábrica, oficio, militar, ventas, enseñanza, conducir, a casa?
-- **Qué feba en o tiempo libre?** Pescar, cartas, carpintería, deportes, a iglesia, a musica, cocinar, un coche en o garache?
-- **Cuáles eran as suyas rutinas?** Café y o diario cada mañana? Mirar o tiempo? Lavar o coche os sabatos?
-- **Qué empieza a fer por suya cuenta?** La Association indica que si una persona empieza tareas sin que se lo pidan, como barrer o suelo, esas tareas pueden pasar a ser parte de la rutina.
-- **Qué evita?** A algunas personas les gusta mirar deportes; a otras, o ritmo y o ruido les molesta. Fixe-se en cuando parece contento, nervioso o irritable.
+- **¿Qué trabayo feba?** ¿Oficina, granchа, fabrica, un oficio, a milicia, ventas, enseñanza, conducir, a casa?
+- **¿Qué feba en o tiempo libre?** ¿A pesca, as cartas, a carpintería, l'esport, a iglesia, a musica, cocinar, un coche en o garache?
+- **¿Cuálas eran as suyas rutinas?** ¿Café y o diario cada mañana? ¿Mirar o tiempo? ¿Lavar o coche os sabatos?
+- **¿Qué empecipia encara por iniciativa propia?** A Asociación indica que si una persona empecipia tareas sin que le pidan, como barrer o solo, esas tareas pueden convertir-se en parte d'a rutina.
+- **¿Qué evita?** Algunas personas disfrutan mirando l'esport; atras se molestan con o ritmo y o ruido. Fese caso de cuando parece contento, ansioso u irritable.
 
-Hable tamién con a familia y con viellos amigos. Pueden recordar interesos que se han perdido d'a vida diaria.
+Charre tamién con a familia y os viellos amigos. Puede que recuerden aficions que han desaparecito d'a vida diaria.
 
-## Ideas de actividaz basadas en o treballo pasau
+## Ideas d'activitats basadas en o trabayo viello
 
-La Alzheimer's Association da un ejemplo claro: un antigo empleyau de oficina puede disfrutar fendo tareas de organización, como meter monedas en un portamonedas, ayudar a preparar un envío por correo o escribir una lista de cosas por fer, mientres que un antigo granchero o xardiner puede disfrutar trabayando en o corral. La misma idea sirve pa muitos oficios.
+A Alzheimer's Association da un exemplo claro: un antigo treballador d'oficina puede disfrutar fendo tareas de organización, como meter monedas en un soporte, ayudar a preparar un envío por correo o facer una lista de cosas por fer, mientres que un antigo granchero o hortelano puede disfrutar trabayando en o corral. A mesma idea se puede aplicar a muitos oficios.
 
-| Treballo pasau | Ideas de actividaz | Versión más sinzilla |
+| Trabayo viello | Ideas d'activitats | Version mas sencilla |
 | --- | --- | --- |
-| Oficina o negocio | Ordenar papers en carpetas, poner sellos en sobres, revisar una lista, ordenar un cajón d'a mesa | Apilar sobres; meter clips en una caixa |
-| Oficios o mecánicos | Ordenar tuercas, tornillos y arandelas limpias; apretar tornillos gordos a mano; mirar catálogos de herramientas | Ordenar por tamaño en dos tazas |
-| Granja o jardinería | Regar, plantar en macetas, recoger as fuyas, cuidar o chardín | Sentar-se fuera mientres treballa uno; sostener sobres de semillas |
-| Militar | Limpiar zapatos, ordenar un cajón, mirar fotos d'o servicio si le gusta | Escuchar musica d'aquella epoca |
-| Ventas o atención a clientes | Recibir visitas, repartir pastas, ordenar cupones | Sentar-se cerca d'a puerta pa saludar |
-| Enseñanza | Leer en voz alta, ordenar libros, clasificar fotos por tema | Mirar un libro de fotos chunto |
-| Conducir o transporte | Mirar mapas o viellas revistas de coches, lavar o coche | Mirar pasar os coches desde o porche |
-| Casa y familia | Plegar a ropa, poner a mesa, ayudar a fer a cena | Alisar as servilletas; remover |
+| Oficina o negocio | Clasificar papers en carpetas, poner sellos en sobres, revisar una lista, ordenar un caixón | Apilar sobres; meter clips en una caixa |
+| Oficios o mecanica | Ordenar tuercas, tornillos y arandelas netos; apretar tornillos grans a man; mirar catalogos de ferramientas | Ordenar por tamaño en dos vasos |
+| Granchería o jardinería | Regar, plantar en macetas, arrechugar as fuellas, vigilar l'horto | Sentar-se fuera mientres trabaya; sostener sobres de semiente |
+| Milicia | Limpiar as botas, ordenar un caixón, mirar fotos de o servicio si le gusta | Escuchar musica d'aquella epoca |
+| Ventas o atención a clients | Saludar a as visitas, repartir aperitivos, clasificar cupons | Sentar-se en a puerta pa saludar |
+| Enseñanza | Leyer en voz alta, ordenar libros, clasificar imachens por tema | Mirar un libro de imachens chuntos |
+| Conducir o transporte | Mirar mapas o revistas viellas de coches, lavar o coche | Mirar pasar los coches dende o porche |
+| Casa y familia | Doblar a ropa, poner a mesa, ayudar a cenar | Alisar as servilletas; remenar |
 
-Algunos recuerdos, como o servicio militar, pueden despertar sentimientos fuertes. Siga o suyo ritmo, mantenga as conversaciones d'o pasau en un tono positivo y cambie de tema con delicadeza si se nota alterato.
+Algunos recuerdos, como o servicio militar, pueden traer sentimientos fuertes. Siga o suyo ritmo, mantenga as charras sobre o pasau en un tono positivo y cambie de tema con delicadeza si parece disgustar-se.
 
-## Ideas de actividaz basadas en aficions
+## Ideas d'activitats basadas en aficions
 
-1. **Carpintería.** Lixar un tochico de madera lisa o pintar una caseta de pájaros. La Alzheimer's Association recomienda quitar d'o taller os materiales y as herramientas peligrosas pa que una actividat como lixar pueda ser agradable y segura.
-2. **Pesca.** Ordenar una caixa de aparejos sin os anzuelos, mirar revistas de pesca o sentar-se chunto a un estanque.
-3. **Coches.** Lavar o coche, sacar brillo a o cromado, mirar fotos de coches clásicos u ir de paseo como pasajero.
-4. **Deportes.** Mirar un partido viello o resúmenes, tirar una pelota blanda, poner pelotas de golf sobre una alfombra u ordenar cromos de béisbol.
-5. **Cartas y chuegos.** Una partida sinzilla de un chuego de cartas conocido, dominó o dar vuelta a cartas pa buscar parellas. Que sea un rato relajau y deje de lado llevar a cuenta d'os puntos.
-6. **Musica.** Canciones de cuando tenía quince o venti años, un grupo que le gustase o un himno. Vea nuestra [guía de actividaz con musica](/activities/music/).
-7. **Cocinar y fer barbacoa.** Lavar verduras, remover una salsa, dar forma a hamburguesas o contar cómo feba o suyo famoso chili mientres lo cocina.
-8. **O diario.** La Alzheimer's Association indica que una persona que siempre leía o diario puede seguir disfrutando de hacerlo, aunque no siga todo o contenido. O café y o diario pueden seguir siendo parte d'a mañana.
-9. **Construir.** Kits de maquetas con piezas grandes o chuegos de construcción sinzillos pa adultos. Escoja piezas fáciles de agarrar.
-10. **Cuidar a alguna cosa.** Dar de comer a una mascota, llenar o comedero de pájaros o regar plantas. La NIA incluye [dar de comer, peinar o pasear a una mascota](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) entre as actividaz que pueden gustar a la gente.
+1. **Carpintería.** Lixar un bloque de madera lisa o pintar un nido de pajaros en kit. A Alzheimer's Association suggiere quitar os materials y as ferramientas peligrosas d'o taller pa que una activitat como lixar pueda disfrutar-se con seguranza.
+2. **Pesca.** Ordenar una caixa de pesca sin os ganchos, mirar revistas de pesca o sentar-se yuntos a o lau d'una balsa.
+3. **Coches.** Lavar o coche, pulir o cromo, mirar fotos de coches clasicos o dar una vuelta en o coche como pasaxero.
+4. **Esport.** Mirar un partido clasico o os resumens, tirar una pelota blanda, poner pelotas de golf sobre una alfombra o clasificar cromos de beisbol.
+5. **Cartas y chuegos.** Una partida sencilla d'un chueg de cartas conoixito, dominó, o dar a bolteta a cartas pa trobar parellas. Manteniga relaxada y sin apuntar tantos.
+6. **Musica.** Cancions de as suyas adolescencias y bintenes, una banda que le gustase o un himno. Vea a nuestra [guía d'activitats de musica](/activities/music/).
+7. **Cocina y barbacoa.** Lavar verduras, remenar a salsa, dar forma a as hamburguesas o contar cómo feba o chili famoso mientres cocinan.
+8. **O diario.** A Alzheimer's Association indica que una persona que siempre leyó o diario puede seguir fendo-lo, incluso si no puede seguir tot o contenido. O café y o diario pueden seguir siendo parte d'a mañana.
+9. **Construir.** Kits de maquetas con piezas grans o chuegos de construcción sencillos pa adultos. Elixca piezas fáciles d'agarrar.
+10. **Cuidar a algo.** Dar de minchar a una mascota, llenar o comedero d'os pajaros o regar as plantas. A NIA incluye [dar de minchar, cepillar o pasiar a una mascota](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) entre as activitats que a gent puede disfrutar.
 
-## Cómo ofrezco una actividat sin que parezca trabayo de relleno?
+## ¿Como ofrezco una activitat sin que parezca trabayo de relleno?
 
-Preséntela como una ayuda de verdat. La Alzheimer's Association recomienda preguntar "Me pues ayudar, por favor?" y relacionar as tareas con una finalidat. Compare:
+Preséntela como una ayuda de verdat. A Alzheimer's Association suggiere preguntar «¿Me puedes ayudar, por favor?» y vincular as tareas con una finalidat. Compare:
 
-- "Quieres ordenar estos tornillos?" (suena a examen)
-- "Compré una bolsa de ferraje surtido y necesito ordenarlo antes de arreglar a estantería. Me pues echar una mano?" (suena a trabayo)
+- «¿Quieres ordenar estos tornillos?» (suena a examen)
+- «He comprau una bolsa de ferramienta mesclada y necesito tenerla ordenada antes de arreglar a estantería. ¿Me echas una mano?» (suena a trabayo de verdat)
 
-Otros consellos:
+Atros consellos:
 
-- **Use materiales de adultos.** Herramientas de verdat con os bordes afilados quitaus, catálogos de verdat, sobres de verdat.
-- **Trabayen uno a l'altro.** Dos personas trabayando en una misma cosa ye compañía. Una persona mirando a otra ye supervisión.
-- **No corrixca.** Si os tornillos acaban en a taza que no ye, déxelo estar. Lo importante ye o tiempo chunto y a sensación de estar siendo útil.
-- **Ayude-lo a empezar.** La Alzheimer's Association indica que muitas personas siguen teniendo ganas de fer cosas pero les cuesta organizar-se y empezar. Faga la primera tarea chunto.
+- **Use materials de adultos.** Ferramientas reals con os cantos afilaus quitatos, catalogos reals, sobres reals.
+- **Trabaye a o lau.** Dos personas trabayando en una tarea yuntos ye compañía. Una persona mirando a otra ye supervisión.
+- **No corrixca.** Si os tornillos acaban en o vaso equivocau, dixe-lo estar. Lo que importa ye o tiempo chuntos y a sensación d'estar sirviendo de cosa.
+- **Ayúdele a empecipiar.** A Alzheimer's Association indica que muitas personas tienen encara ganas de fer cosas pero tienen dificultatz pa organizar-se y empecipiar. Faga a primera tarea yuntos.
 
-## Cómo me adautó a os cambios?
+## ¿Como me adapto a os cambios?
 
-A midida que avanza la demencia, la Alzheimer's Association recomienda introducir tareas más sinzillas y repetitivas, y estar preparau pa que la persona tome un papel menos activo. Un home que antes arreglaba motors puede disfrutar ahora sosteniendo una yave inglesa limpia y hablando de coches, o mirando como trabaya vusté. Mirar tamién ye participar.
+A meda que avanza a demencia, a Alzheimer's Association suggiere introducir tareas mas sencillas y repetitivas, y estar preparau pa que la persona tome un papel menos activo. Un ombre que antes reparaba motors puede disfrutar ahora sostiendo una clau inglesa neta y charrando de coches, o mirando como trabaya vusted. Mirar tamién ye participar.
 
-Si era muy hábil en alguna cosa, una actividat relacionada puede sentar-le mejor que o suyo antigo oficio. La Association indica que un artista profesional puede frustrar-se con os cambios en o suyo trabayo, mientres que un aficionau puede disfrutar de una nueva salida. Lo mismo pasa con un carpintero de primera.
+Si era muito habilidoso en algo, una activitat relacionada puede sentar-le mejor que o suyo antigo oficio. A Asociación indica que un artista profesional puede frustrar-se con os cambios en o suyo trabayo, mientres que un aficionau puede disfrutar d'una nueva salida. Lo mesmo pasa con un carpintero mestro.
 
-## Seguranza en tareas de tipo treballo
+## Seguranza en as tareas de tipo trabayo
 
-- Quite as herramientas eléctricas, as fuellas, os clavos y os tornillos con puntas afiladas.
-- Guarde bajo clau o diluyente de pintura, a gasolina y os productos químicos.
-- Guarde as claus d'o coche fuera d'a vista si ya no conduce.
-- Supervise todas las tareas d'o taller y d'o corral.
-- Escoja piezas grandes que no se puedan tragar.
+- Quite as ferramientas electricas, as ojas, os clavos y os tornillos con puntas afiladas.
+- Guarde baixo chave o diluyente de pintura, a gasolina y os productos quimicos.
+- Guarde as claus d'o coche fuera de vista si ya no conduz.
+- Supervise todas as tareas d'o taller y d'o corral.
+- Elixca piezas grans que no se puedan tragar.
 
-## Qué pasa si dice que no?
+## ¿Qué pasa si dice que no?
 
-Respételo. Un no puede significar que la tarea le parece demasiado difícil, demasiado infantil o simplemente que hoy no es un buen día pa ella. La Alzheimer's Association advierte que no se debe forzar. Pruebe otra tarea, otro momento o simplemente sienten-se chunto. Vea [qué hacer cuando dicen que no](/caregiving/when-they-say-no/).
+Respete-lo. Un no puede significar que la tarea paece muito difícil, muito infantil o simplemente que hoy no ye o momento. A Alzheimer's Association advierte que no se debe forzar. Prebe una tarea diferent, otro momento, o simplemente sentin-se yuntos. Vea [qué fer cuando dicen que no](/caregiving/when-they-say-no/).
 
-## Chuegos y conversación que encaxan
+## Chuegos y conversación que encaixan
 
-[Finish the Saying](/games/finish-the-saying/) usa refranes conocidos en inglés de los Estados Unidos y lleva a la conversación. [Conversation Cards](/games/conversation-cards/) tiene preguntas abiertas, sin examen, por temas, que pueden abrir historias sobre o treballo y as aficions. [Picture Puzzle](/games/picture-puzzle/) mantiene visible la imagen completa mientres cambia las piezas, y a [Word Search](/games/word-search/) en letra grande se puede imprimir y hacer con un bolígrafo en a mesa d'a cocina. Pa maneras de hablar d'o suyo pasau sin ponerlo a prueba, vea nuestra [guía de reminiscencia](/activities/reminiscence/).
+[Acaba o refrán](/games/finish-the-saying/) usa refranes populars conoixitos y lleva a una conversación. [Cartas de conversación](/games/conversation-cards/) tiene preguntas abiertas, sin test, por temas, que pueden abrir historias sobre o trabayo y as aficions. [Puzle de imachens](/games/picture-puzzle/) mantiene a imachen completa visible mientres cambia as piezas, y a [Sopa de letras](/games/word-search/) con letra grande puede imprimir-se y fer-se con un boligrafo en a mesa de a cocina. Pa maneras de charrar d'o suyo pasau sin fer-lo una prueba, vea a nuestra [guía de reminiscencia](/activities/reminiscence/).

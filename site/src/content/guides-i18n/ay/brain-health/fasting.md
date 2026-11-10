@@ -1,33 +1,33 @@
 ---
-title: "Ayuno intermitente ukat demencia: Kunas yatiñanakax sapxi"
-seoTitle: "Ayuno intermitente ukat demencia: Kunas yatiñax sapxi"
-description: "Ayuno intermitente ukat demencia qhana yatiñanakax jisa ukat qalltawa. Jaqi machaqanakatakix kuna jan walinakas utjapxi, ukat demencia ukan jakasir jaqinakatakix manq'aña wali kunatsa sapxi."
+title: "Ayuna ukat demencia: Yatiñanakax kunas sapxi"
+seoTitle: "Ayuna ukat demencia: Yatichäwinakax kunas sapxi"
+description: "Ayuna ukat demencia uka tuqi jaqinakan yatiñanakax jisk'a ukat qalltawiyapxi. Chuymani jaqinakatakix kunanakansa jan walt'añapa, ukat demenciampi jakasirinakatakix manq'añ umañax kunatsa wali wakiskiriwa."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ayuno intermitente ukax jan wali yatiñanakampix janiw jark'aq demencia
-  jark'añ atinikiti. Yatiñanakan askinakax uywanakan utjapxi, jaqinakan
-  yatiñanakax jisa ukat mayjt'ayata. Ayunox jaqi machaqanakatakix jan walinakas
-  utjaraki: laqox ukat jisa jaltañax, jisa wila ukat jan wali yakhajan sap
-  yanapt'anakampi, jan umañ, ukat ch'ukuñ. Demencia ukan jakasir jaqinakatakix
-  manq'añ ukat umañax sapa jukʼañkiwa. Yatiri jilat parlt'asim.
+  Ayuna ukax demencia jan puriñ ukat jan usuchañ uka tuqi walik yatiñanakax
+  janiwa utjkiti. Yatiñanakan wali askinakax animalanakan utjapxi, jaqinakan
+  yatiñanakax jisk'a ukat mayjt'ayata chuymanïpxi. Chuymani jaqinakatakix ayuna
+  jan walikiwa: lurañanakax jan amuyasa jaktañ, lurirì ch'amax jaktañ, yuqallan
+  ch'uxña uma jaktañ, umañ jaktañ ukat ch'iqtañ. Demenciampi jakasirinakatakix
+  manq'añ ukat umañ wali wakiskiriwa. Yatiri jilïru parlañamawa nayraqatapan.
 keyPoints:
-  - "Naciones Unidas ukan Qhana Machaq Jakañ Institutox sapxi, ayuno ukat jisa manq'añ dieta ukat yatiñ wali sapkiti, mayormanakatakix."
-  - "Ayuno ukat machaq jakañ yatiñanakan askinakax uywanakan utjapxi, ukatwa janiw jaqinakatakix chiqapar mayjtañapakiti."
-  - "Jaqi machaqanakatakix jan walinakax: jan munatañ laqox jaltaña, jisa jaltaña, yakhajan sap yanapt'anakampi jisa wila, umañ jisa, ch'ukuñ ukat ch'ukuñ."
-  - "Demencia ukan jakasir jaqinakax manq'añ ukat umañ jan amuyapxi, jan ukax jiwasa manq'tapxtwa sasa. Manq'añ ukat umañ jisa jaltañax, kuna pacha manq'apxi ukat sapxi ukat wali sapkiti."
-  - "Demencia ukan jakasir jaqitakix ayuno janiw aptañ ukakiti. Manq'añ thaq ukat yatiri jilat parlt'asim sapa mayni thaq ukax."
+  - "Estados Unidos uka Jaqinakan Chuymani Institutopax sapki ukhamarak ayuna jan ukax manq'a jisk'achañ amtañ jan walik yatiñ utjkiti, khititix chuymani jaqinakatakis."
+  - "Ayunan ukat chuymani jaqinakan yatiñanakan walja askinakax animalanakat utjapxi, ukat ukax janiw jaqinakar mayjt'ayañ atinkiti."
+  - "Chuymani jaqinakatakix utjirixa: jan amuyasa jaktañ, lurirì ch'amax jaktañ, yuqallan ch'uxña umax jaktañ, ch'iqtañ, jan sayt'añ ukat tuqutañ."
+  - "Demenciampi jakasirinakax manq'añ ukat umañ jan amtasa jani jan amuyasa jiwasax jani manq'arakïna sasa amuyapxi. Manq'añ umañ yanapaña, kunapachas manq'añ wakiskiriwa."
+  - "Demenciampi jakasir jaqi ayunañ jan lurapxam. Manq'añ lurañ jan lurañ uk yatiri jilïru jan ukax manq'añ yatiri jilïru parlañamawa."
 faq:
-  - q: "Ayuno intermitente ukax Alzheimer jark'añ atinisiniw?"
-    a: "Janiw chiqapar yatiñax utjkiti. Yatiñanakan askinakax uywanakan utjapxi, jaqinakan yatiñanakax jisa, sapa mayni pacha, jaqi machaqanakan jan jaqinakan yatiñanakax jisa. Qhana Machaq Jakañ Institutox sapxi, jaqinakatakix ayuno dieta yatiñ wali sapkiti."
-  - q: "Ayuno intermitente ukax mayor jaqinakatakix jan walinakas utjaraki?"
-    a: "Utjaraki. Ayunox jan munatañ laqox ukat jisa jaltañ, umañ, mayjt'añ ukat ch'ukuñ, ukat yakhajan sap yanapt'anakampi jisa wila jan walinakas utjañ atinisi. Mayo Clinic sapxi, jaqinakax lukhtʼasir jaltañ, jisa jaltañ ukat jisa wila sapxi. Yatiri jilat parlt'asim sapa mayni pacha."
-  - q: "Demencia ukan jakasir jaqix ayuno lupt'aspati?"
-    a: "Janiw. Demencia ukan jakasir jaqinakax manq'añ ukat umañ jisa aptañ jan atinisiwayapxi, ukat jan wali manq'añax jan walinakas utjaraki. Ayunox jan chiqapar askinakan wali jan utjkiti. Ukhamarakiw sapa uru manq'añ, munat manq'añ ukat umañ jisa sapxi."
-  - q: "Kunas demencia ukan jakasir jaqix manq'añ ukat umañ jan aptapxi sañ uñacht'apxi?"
-    a: "Jisa jaltañ, p'iqinakax jaltapxi, ch'ukuñ, mayjt'añ, qala ch'ukuñ, nayra manq'añ jan munañ ukat uñjapxi. Qhana Machaq Jakañ Institutox sapxi, umañ jisa, jisa wila, jaqinakan sarlaqañax jisa ukat jan amuyañ ukax ch'uqi sapxi. Ukanakax uñjasa, yatiri jilat yatiyasim."
+  - q: "¿Ayuna ukax Alzheimer jan puriñ ukat jan usuchañ ukanakax walt'arakiti?"
+    a: "Janiwa walik yatiñanakax utjkiti. Walja yatiñanakax animalanakan lurasiwa, jaqinakan yatiñanakax jisk'a sarnaqatawa, khithi jaqinakatakis, ukat ch'uxña jaqinakatakis, ukat lurirì jaqinakatakix yati. Estados Unidos uka Jaqinakan Chuymani Institutopax sapki ukhamarak ayuna manq'a amtañanakax janiw jaqinakatakix yanapt'añ atinkiti."
+  - q: "¿Ayuna ukax chuymani jaqinakatakix walikiti?"
+    a: "Janiwa walikiti. Ayunañax jan amuyasa manq'añ, lurirì ch'amax jaktañ, umañ jaktañ, jan sayt'añ, ukat tuqutañ ukanakar puriñ atinispawa. Yuqallan uma jaktañ ukat jan walik yuqallan uma jaktañ ukax ch'iqtañ jaktañaparu puriñ atinispawa. Mayo Clinic uka yatiñ utjarakix sapki ukhamarak jan walt'arakiti, khithi jaqinakatakix wali ch'iqtañ ukat tuqutañ utjki ukanakan. Ayunaña nayraqatapan yatiri jilïru parlañamawa."
+  - q: "¿Demenciampi jakasir jaqix ayunaspati?"
+    a: "Janiwa. Demenciampi jakasirinakax wali askinakampi manq'añ ukat umañ jan amtañax jan sum amuyasa, ukat jan walik manq'añax jan walik lurañanakar, lurirì ch'amax jaktañar puriñ atinispawa. Ayuna ukax janiw walik utjkiti, ukat jan walik lurañ utjaraki. Taqi uñtat manq'añ, munat manq'añanakampi ukat walja umañampi yanapt'asipxam."
+  - q: "¿Kunas uñjañanakax yatiyapxi demenciampi jakasir jaqix janiw manq'añ ukat umañ amtkiti sasa?"
+    a: "Lurirì ch'amax jaktañ, lurirì ch'amax jan askisa, jan sayt'añ, lurirì ch'amax jaktañ, ch'iqtañ, jan manq'añ ukat manq'añ jaytañ uk uñjañamawa. Jaqinakan jilïri Estados Unidos uka Jaqinakan Chuymani Institutopax yatiyi ukax, umañ jaktañ ukanakax: umañ jaktañ, lurirì ch'amax jaktañ, ch'iqtañ ukat ch'uxña ch'amampi uñjañanakax utjkaspawa. Kunapachas uñjañani ukhax jilïri jilïru parlañamawa."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,70 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Ayuno intermitente, kunjamtix sapxi sapa pacha jani sapa pacha, jan jisa pacha manq'añ ukat jisa thaqhamp manq'añ, ukax jaqinakan amuyañaru mayt'asi, ukat askinakax sapxi ukax yuqallaki p'iqi wali sapxi sasa. Mayor jaqitix jan ukax demencia ukan jakasir jaqir uñjapxtaxa, kunas qhana yatiñanakax sapxi ukat kunatsa jan walinakas utjaraki ukax amuyasipxam.
+Ayuna, kunjamtix jisk'a sapaki mä horas ukan manq'añ, jan ukax phisqa uru ukanakan wali jisk'a manq'añ, walja parlañanakan uñjasi, ukat khitinakatix uka ayunañ chuymanakan yatiñ jaytanipxi. Jumax jach'a mara jaqikstati jan ukax demenciampi jakasir jaqi uñjtati ukhax, jichhax kunsa yatiñanakax uñjapxi ukat kunatsa jan walt'añax wali wakiskiriwa uka yatiñ uñjasim. Uka tuqi jumax yatiñ mayjt'añaxa.
 
-Akax sapa mayni yatiñawa, jan yatiri lupt'asiñat yatiñawa. Ayuno jan qalltañani, jan ukax jaqi uñjata manq'añ jan mayjtañani, yatiri jilat jan parlt'asiñamax. Uñjañ [jan walinak yatiñ](/medical-disclaimer/) jiwasan.
+Kunanakas ch'ichhaqutanakax janiw yatiri jan ukax yatiña parlañ jaqinakan yatiñ utjkiti. Jumax janiw yatiri jilïru parlañamasa ayuna jan ukax jumax uñjtati jaqin manq'aparu umañaparu uñjañ jan lurañamawa. Mayt'asiñ [jan jiwañ yatiñ](/medical-disclaimer/).
 
-## Ayuno intermitente demencia jark'añ atinisiniw?
+## ¿Ayuna demencia jan puriñ ukat jan usuchañ ukanakax walt'arakiti?
 
-Janiw chiqapar yatiñax utjkiti, ayuno intermitente demencia jark'añ jan ukax jisa jaltañ atinisi sasa. Qhana Machaq Jakañ Institutox (NIA) sapxi, janiw ukhamaraki manq'añ jisa ukat ayuno dietanakax wali sapkiti, ukat yatiñanakax walt'ayatawa jan walinakas utjañapataki mayor jaqinakatakix ([NIA ayuno ukat manq'añ jisa](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ayuna demencia jan puriñ ukat jan usuchañ ukanakax walt'arakiti sasa janiw walik yatiñanakax utjkiti. Estados Unidos uka Jaqinakan Chuymani Institutopax (NIA) sapki ukhamarak janiw yatiñanakax utjkiti manq'a jisk'achañ ayuna ukanakax askikiti sasa, ukat walja yatiñanakax mayt'añapawa, khithi jaqinakatakix askïki, ukat khithi jaqinakatakis ukanakax jan walt'aykiti, ukat jach'a mara jaqinakatakix ([NIA ayuna ukat manq'a jisk'achañ yatiñanakan](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Kunatsa yatiñax jisa
+### ¿Kunatsa yatiñax jisk'a?
 
-NIA sapxi, mayni mayni awk'anakax:
+NIA sapki ukhamarak walja yatiñanakax:
 
-- **Askinakax uywanakan utjapxi.** Gusanonakan, mosconakan, ratonakan ukat monokan yatiñanakax suma uñjasi, ukampisa janiw jaqinakatakix chiqapar sapkiti. Uywanakan jupanakax sapxi, ukat jisa.
-- **Jaqinakan yatiñanakax jisa.** Askinakax mayt'ayapxi, sapa mayni pacha.
-- **Jaqinakan yatiñanakax jisa jaltañ.** Jaqinakax jisa jan jaltañ ukat jisa jisa thaqhamp ukat jaqinakax jisa jan jaltañ.
-- **Mayor jaqinakax jisa jan uñjasi.** Askinakax 60 mara ukhapa jan ukax jisa uñjasi.
+- **Walja yatiñanakax animalanakan lurasiwa.** Qarwa, mosca, ratunaka ukat mono ukanakan yatiñanakax wali askinakampi utjapxi, ukampisa janiw jaqinakar mayjt'ayañ atinkiti. Animalanakanwa ukanakax jan ukhamakiti, jisk'a sarnaqat ukanakax jiwañ jisk'achapxi.
+- **Jaqinakan yatiñanakax jisk'a sarnaqatawa.** Walja yatiñanakax phisqa uru jan ukax paq uru sarnaqatawa.
+- **Jaqinakan yatiñanakax manq'a jisk'achañ ukar utjapxi.** Chuymani jaqinakax manq'a jisk'achañataki utjapxi, janiw amuyt'añ jan ukax demencia uka tuqi utjkiti.
+- **Jach'a mara jaqinakax jan yatiñ utjkiti.** Walja yatiñanakax 60 maranïki ukanakan jaqinakampi lurapxi.
 
-2026 maranx ayuno intermitente mayor jaqinakatakix (60 mara ukat jukʼamp) yatiñanakax uñjasi. Jupanakax sapxi, jisa jaqinakatakix yatiñax jisa, jisa pacha ukat jisa yatiñanakampi. Amuyañ ukat yatiñ yatiñanakax individual yatiñanakat, ukat jisa jaltañ. Yatiñanakax sapxi, jisa manq'añ thaqhamp jan ukax ayuno jisa thaqhamp jan walinakas utjaraki. Ukatwa mayor jaqinakatakix uñjañ suma sapxi ([2026 Nutrients yatiñ](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Jichha 2026 maranxa, yatiñ uñakipaña sapki ukhamarak ayuna horas sapa jach'a mara jaqinakan. Uka yatiñax sapki ukhamarak jisk'a yatiñanakax utjapxi, jisk'a uru ukat jan mayjt'ata jaqinakampi lurapxi. Amuyt'añanakax yatiñ ukat yatiñ sarnaqat jisk'a yatiñanakat utjapxi, janiw wali yatiñ sarnaqat utjkiti. Yatiñax sapki ukhamarak jisk'a horas manq'añ jan ukax wali jach'a ayuna ukanakax jan walik uñjatäpxi, ukat yatiñ luririnakax jach'a mara jaqinakatakix jan walt'añ sapki ([2026 yatiñ Nutrients ukan](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Mayni yatiriwa sapxi, ayuno ukan laqox kunapachas kunjamasa wali q'uma sapxi, ukax demencia ukan lup'ayañaru mayt'asi, ukampisa akax yatiñat jan chiqapar sapkiti. NIA sapxi, yatiñax jisa.
+Walja yatiri jaqinakax amuyapxi ayuna sarnaqat ukan janchix ch'ixi manq'a jan manq'añ ukat janchix luri ukhamaraki amuyañanakan jan jaktañ, ukampisa uka amuyuwix jichhürkama yatiñ sarnaqatawa. NIA sapki ukhamarak yatiñax jan sum amuytäñapa.
 
-## Ayuno ukax mayor jaqinakatakix kuna jan walinakas utjaraki?
+## ¿Kunas jan walt'añanakax utjapxi ayuna chuymani jaqinakatakix?
 
-Mayor jaqinakatakix ayuno jan sapa mayni lup'ayaña. Jan walinakax:
+Ayuna walja chuymani jaqinakatakix janiw jan sum jan lurañ ukhamäkiti. Jan walt'añanakax:
 
-- **Jan munat jisa jaltañ.** Jisa manq'añax laqox jaltañ ukat jisa p'iqi, ukatwa jaqix jisa ch'uqi.
-- **Jisa ukat jisa kumi jaltañ.** NIA yatiñanakan jaqinakax (sapxi 2 mara) jisa jaltañ, jisa ukat jisa kumi jaltañ sapxi.
-- **Yakhajan sap yanapt'anakampi jisa wila.** Insulina jan ukax jisa yanapt'anakax manq'añ jan ukax umañ jisa jaltapxi ukax wila jisa jaltañ ukat [Yatiñ Diabetes ukan Qhana Institutox](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) sapxi. Jisa wila ukax p'iqi, jan amuyañ ukat jan jaltañ.
-- **Umañ jisa.** Umañ jisa jaltañ ukat manq'añ umañ jisa, jaqix umañ jisa jaltañ.
-- **P'iqi ukat ch'ukuñ.** Mayo Clinic sapxi, ayuno intermitente jaqinakax jisa ch'ukuñ ukat p'iqi jaltañ, jisa jaltañ ukat jisa ch'ukuñ ukat jan suma uñjasi ([Mayo Clinic ayuno intermitente](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Mayni jan walinakas.** Mayo Clinic ukhamarak sapxi, p'iqi, sarnaqañ ukat jisa jaltañ, ukat qalla ch'ukuñ. Ukat 16 thaqhamp ayuno ukat 8 thaqhamp manq'añ ukax jisa uñjasi, jisa yatiñanakax jan chiqapar.
+- **Jan amuyasa manq'añ.** Janchix manq'a jisk'achañ ukat lurirì ch'amax jaktañ, ukatwa jaqix jan jiwañ jaktañ.
+- **Janchi ukat luri jaktañ.** NIA yatiñ ukan phisqa mara ayunañ, ch'uxña ukat paq mara jaqinakan janchi jan usuchañ jaktañ ukat lurirì jan walik.
+- **Yuqallan uma ch'uxña.** Insulina jan ukax yuqallan uma jaqinakax manq'a jaqi tuqu jan manq'añ, ukat wali jisk'a yuqallan uma jaktañ ([National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia)). Yuqallan uma jisk'a ukax ch'iqtañ, amuyt'añ ch'iqtañ ukat chuyma ch'iqtañ.
+- **Umañ jaktañ.** Umañ jan umañ ukat manq'añ jan manq'añ ukax jaqix umañ jaktañ.
+- **Ch'iqtañ ukat tuqutañ.** Mayo Clinic yatiyi ukax, ayuna ukax jaqix wali ch'iqtañ ukat tuqutañ jaktañ, ukat jan walik janchi jan usuchañ ukat tuqutañ jaktañ jaqinakatakix ([Mayo Clinic ayuna ukan](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Yaqha lurañanakax.** Mayo Clinic sapki ukhamarak jan walik umañ jaktañ, chuyma jan askïñ ukat luri ch'amax jaktañ, ukat ayuna 16 horas ukat 8 horas manq'añ ukax chuyma jan walik utjañ jaktañ. Uka yatiñax janiw walik sum uñjatäkiti.
 
-## Demencia ukan jakasir jaqinakatakix manq'añ ukat umañ ukax kunatsa wali?
+## ¿Kunatsa manq'añ ukat umañ amtañ wali wakiskiri demenciampi jakasirinakatakix?
 
-Demencia ukan jakasir jaqinakatakix jiwasan jisa manq'añ ukat umañ **sapa** jaltañax jisa lup'ayaña, jan jisa manq'añ. Alzheimer's Association sapxi, jaqinakax manq'añ ukat umañ wilat jan amuyapxi, jan ukax manq'apxtwa sasa. Ukhamarak sapxi, jan wali manq'añax jan walinakas utjaraki ukat ch'ukuñ ([Alzheimer's Association manq'añ](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Demenciampi jakasirinakatakix jan walt'añax jakasiñax manq'añ ukat umañ, janiw wali walja manq'añ ukat umañ. Alzheimer's Association yatiyi ukax, jaqinakax madurez ukat jan walik phasñanakan ukhax manq'añ ukat umañ jan amuyasa, manq'a jan manq'añ jan ukax jan manq'añ amuyasa. Ukat sapki ukhamarak jan walik manq'añ ukax lurirì ch'amax jaktañ, ukat janchi jan usuchañ utjañ jaktañ ([Alzheimer's Association manq'añ ukat ayuna ukan](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-Alzheimer's Society sapxi, jisa manq'añax laqox jaltañ, jisa p'iqi ukat jisa ch'uqi jaltañ, ukat jaqix jisa jan atinisi ([Alzheimer's Society nayra manq'añ](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society yatiyi ukax, jan walik manq'añ ukax janchi jan usuchañ, lurirì ch'amax jaktañ, ch'iqtañ ukat jan walik jaqi tuqutañ jaktañ, jaqin jan wali jisk'a jan ukax jan walik janchi amuyasa jaktañ ([Alzheimer's Society manq'añ ukan](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**Ukatwa ayuno jan wali sapxi demencia ukan jakasir jaqitakix.** Manq'añ jan manq'añax sapxi. Jaqi jakasir ukan manq'añax yatiri jilat jan ukax yatiri lup'ayaña wali.
+**Ukanakatakix ayuna janiw walik utjkiti demenciampi jakasir jaqinakatakix.** Jan manq'añ ukax sapki ukhamarak jan manq'añ ukax jan wali jisk'achañ. Demenciampi jakasir jaqi manq'añ jan ukax umañ sarnaqat ukax yatiri jilïru parlañamawa, jan ukax manq'a jisk'achañ yatiri jilïru parlañamawa.
 
-## Kunas jan manq'añ jan umañ uñacht'apxi?
+## ¿Kunas jan walik manq'añ ukat umañ jan amtañ uñjañanakax utjapxi?
 
-Uñjasim:
+Uñjañamawa:
 
-- **Jisa jaltañ**, jan ukax p'iqi jisa jaltañ.
-- **Manq'añ jan munañ**, jan ukax manq'añ jan munañ jaqinakax.
-- **P'iqi jisa jaltañ.**
-- **Ch'ukuñ**, mayni ukat jisa umañ jan ukax manq'añ jaqinakax sapxi.
-- **Umañ jisa uñacht'apxi.** NIA sapxi, umañ jisa, jisa wila, p'iqi jaltañ ukat jan amuyañ, ukax demencia ukan lup'ayañ ukhamaraki ([NIA jaqi machaqanakan yatiñanakax](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Janchi jan usuchañ**, jan ukax janchi jisk'achañ.
+- **Manq'a jan manq'añ jan ukax manq'a jaytañ**, jan ukax manq'a luk'añ.
+- **Lurirì ch'amax jaktañ.**
+- **Ch'iqtañ ukat tuqutañ.** Ch'iqtañ ukax ch'uxña jan ukax demencia uka tuqi utjañ jaktañ.
+- **Umañ jaktañ ukat jan umañ jaktañ.** NIA yatiyi ukax chuyma jan walt'añ, umañ jaktañ, chuyma ch'iqtañ, ukat ch'uxña jan amuyasa, ukanakax demencia uka tuqi jakasiñ jaktañ ([NIA jach'a mara jan walik uñjañanakan](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Manq'añ jan munañ ukax mayni jisa sapxi: uñtasiri lup'ayaña, jisa alluqa ukat umañ, jan jisa yatiñanakax, sarnaqañ jisa, jan ukax jaqinakan jaqi ukat jisa yatiñanakax. Uñjasim jaqi yatiriwa. Ukanakax yatiri jilat parlt'asim.
+Manq'a jan manq'añ ukax walja mayjt'ayañanakax utjapxi: janchi jan askïñ jan ukax jan askï ch'iwiña, qala jan askï jan ukax walja jan walik manq'añ, jan askï uñjañanakax, janchi jan askïñ, ch'uxña jan jaktañ, ukat jaqi jan amuyasa. Jaqi yatiri jilïru parlañamawa uka uñjañanakar. Uka ukanakax yatiyapxi ukat yanapt'apxi.
 
-## Kunjamas jaqi manq'añ ukat umañ yanapt'asma?
+## ¿Kunjamsa jumax yanapt'asma manq'añ ukat umañ amtañataki?
 
-- **Jisa manq'añ sapa uru**, jisa jaltañ.
-- **Munat manq'añ ukat**, jisa munañ jan ukax jisa lup'ayañ. Manq'añ jisa munañ ukax yatiri jilat jan parlt'asim.
-- **Umañ jisa jaqi uñjasim**, sapa thaqhamp. Sopa, frutas, smoothies ukat milkshakes ukhamarak sapxi.
-- **Chika manq'apxim** sapa jukʼamp. Manq'añax jisa lup'ayañ, jisa ch'uqi.
-- **Jisa manq'añ** jan ukax jisa manq'añ jaqinakax.
+- **Janchi jisk'a manq'anaka ukat wali manq'a**, jan ukax kimsa jach'a manq'ana ukat.
+- **Wali munat manq'anaka**, ukat jaqix munañanakax mayjt'ayañamawa. Uma ukat manq'a sayt'añ ukax wali wakiskiri jan ukax ukhama manq'añ jan puriñ.
+- **Umañ jaktañ**, ukat janchi jisk'a qala umañ jaktañ uru ukanakan. Sopa, t'ant'a, jugo ukat leche ukax ukanakax umañ jaktañ.
+- **Chika manq'añ**, kunapachas atinisa. Manq'a ukax jakasiñ ukat tuqutañ ukat, jan apuraña.
+- **Jan jaqi manq'añanakax**, sandwich, t'ant'a, pollo ukanakax, cuchara jan ukax tenedor ukax wali jan askïñ ukhax.
 
-Nuestra [guía de dieta](/brain-health/diet/) yatiñ jisa mayi. Manq'añ lup'ayañax ukhamarak sapa jukʼamp chika lup'ayañ ([tareas del hogar](/activities/household-tasks/)).
+Jumax [manq'a yatiñ](/brain-health/diet/) ukan walja yatiñanakax utjapxi. Manq'a lurañax sapki ukhamarak mä jakasiñ lurañ ukhamarakiwa; uñjaña [jaqi uru lurañanakan](/activities/household-tasks/).
 
-## Yatiri jilat parlt'asim
+## Yatiri jilïru parlañ
 
-Ayuno sapa jukʼamp qalltañ jan jaltañ, yatiri jilat jan ukax yatiri manq'añ ukat umañ parlt'asim, jisa jaltañ diabetes ukat p'iqi yanapt'anakax, jan ukax jisa wila jaltañ, ukat jisa ch'ukuñ. Demencia ukan jakasir jaqitakix, yatiri jilat jaqi manq'añ ukat umañ mayt'asim, ayuno jan ukat.
+Jumax janiw ayuna lurañ jan ukax yatiñ lurañ ukhamakiti. Jumax yatiri jilïru parlañamawa jan ukax manq'a yatiri jilïru parlañamawa, khithi jaqinakax yuqallan uma jaktañ, ukat yatiñ jan walt'añ ukat presión jan walik ukanakax utjki ukhax. Demenciampi jakasir jaqix yatiri jilïru parlañamawa, ayuna jan ukax ukhamarak jaqi manq'a ukat umañ kunjamsa walja ukax uru.
 
-Jisa jan amuyañ, p'iqi, jan ukax jisa wila jaltañ ukax yatiri lup'ayañ sapxi. Jisa jaltañ ukat jan walt'añ ukat jisa jan.
+Ch'iqtañ ukat amuyañ jan askïñ, jan ukax ch'uxña jan askïñ ukanakax jan walt'asa, yatiri jilïru uñjañamawa.

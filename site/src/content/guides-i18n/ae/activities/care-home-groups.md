@@ -1,28 +1,28 @@
 ---
-title: "𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬛𐬆𐬨𐬀𐬥𐬀: 𐬭𐬀𐬌𐬙𐬌𐬱 𐬥𐬌𐬨𐬀𐬥𐬀𐬌 𐬎𐬎𐬀 𐬛𐬀𐬌𐬙𐬌𐬌𐬀𐬌"
-seoTitle: "𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬛𐬆𐬨𐬀𐬥𐬀: 𐬠𐬌𐬥𐬔𐬋, 𐬔𐬁𐬚𐬁, 𐬐𐬀𐬚𐬁"
-description: "𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬥𐬌𐬨𐬀𐬥𐬀𐬌 𐬀𐬌 𐬥𐬌𐬱𐬀𐬯𐬙𐬌𐬱 𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀: 𐬗𐬌𐬚𐬭𐬀 𐬠𐬌𐬥𐬔𐬋, 𐬵𐬀𐬨𐬋.𐬔𐬁𐬚𐬀𐬥𐬀, 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬭𐬀𐬌𐬙𐬌𐬱."
+title: "Hanjamanō-varəza Pāiiu-nmananąm: Paitidītiš"
+seoTitle: "Hanjamanō-varəza: Citrā-kəlīda, Gāϑā̊, Saxvānī"
+description: "Hanjamanō-varəza pāiiu-nmananąm: citrā-kəlīda, gāϑanā̊, marəti-hanjamana, pascaēca vahištō-gātuš hanjamanahiiāca aipi-daxštanam."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  𐬎𐬎𐬀𐬵𐬎 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬥𐬌𐬨𐬀𐬥𐬀𐬌 𐬀𐬌 𐬥𐬌𐬱𐬀𐬯𐬙𐬌𐬱 𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀 𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬯𐬀𐬥𐬙𐬌𐬱 𐬀𐬥𐬁𐬯𐬀𐬥𐬀 𐬀𐬥𐬛 𐬀𐬌 𐬎𐬎𐬌𐬯𐬞𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬵𐬀𐬠𐬀𐬌𐬌𐬀𐬌𐬙𐬌: 𐬗𐬌𐬚𐬭𐬀 𐬠𐬌𐬥𐬔𐬋 𐬵𐬀𐬨𐬋.𐬔𐬁𐬚𐬀𐬥𐬀 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬗𐬀𐬑𐬭𐬀 𐬀𐬌 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬔𐬆𐬭𐬆𐬰𐬀 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬎𐬎𐬀𐬗𐬀. 𐬎𐬎𐬌𐬱𐬙𐬀 𐬔𐬀𐬥𐬀 𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬛𐬁𐬭𐬀𐬌𐬙𐬀 𐬫𐬀𐬚𐬀 𐬯𐬀𐬑𐬌𐬌𐬀𐬙𐬌 𐬎𐬎𐬌𐬯𐬞𐬀 𐬛𐬀𐬭𐬆𐬯𐬀𐬥 𐬀𐬌 𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬥 𐬀𐬉𐬎𐬎𐬀 𐬯𐬞𐬀𐬱𐬙𐬀 𐬀𐬉𐬎𐬎𐬀𐬎𐬎𐬀𐬙 𐬛𐬀𐬉𐬙𐬀 𐬀𐬌 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀 𐬀𐬌 𐬀𐬯𐬀𐬥𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬛𐬀𐬉𐬙𐬀.
+  Vohu hanjamanō-varəza pāiiu-nmananąm ayara-dātanąmca mərəzu, xšnūta, hāvanō-ayapta ca santi: citrā-kəlīda, gāϑanā̊ han-gāuua, marəti-hanjamana, hū-fraoiritiš ca vācō-urvāza. Hanjamana kasu cara, maš́iiānąm vahištō-gātūm dadāhi yaϑa vispe vaēnā̊nti surunvąntica, aēvəm daxštəm aēvacit gātuia, mərətu-kāma ca ramna-para-dvara ca bavaiti yōi xšaiieinti.
 keyPoints:
-  - "𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬔𐬀𐬥𐬀 𐬎𐬎𐬀𐬵𐬎 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬙𐬌 𐬫𐬀𐬚𐬀 𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬵𐬀𐬙 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀 𐬀𐬌 𐬎𐬎𐬌𐬯𐬞𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬙𐬌 𐬥𐬀 𐬐𐬆𐬎𐬎𐬀𐬮𐬀𐬨 𐬛𐬀𐬭𐬆𐬯𐬀𐬥𐬙𐬌."
-  - "𐬨𐬀𐬭𐬆𐬙𐬀 𐬀𐬌 𐬗𐬀𐬑𐬭𐬀 𐬫𐬀 𐬵𐬎𐬎𐬀𐬯𐬙𐬀𐬭𐬀 𐬥𐬌𐬱𐬀𐬯𐬙𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀 𐬎𐬎𐬌𐬯𐬞𐬀 𐬛𐬀𐬭𐬆𐬯𐬀𐬥 𐬀𐬌 𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬥 𐬯𐬀𐬑𐬌𐬌𐬀𐬥𐬙𐬌 𐬀𐬌 𐬞𐬀𐬭𐬋 𐬯𐬆𐬭𐬀𐬊𐬱𐬀 𐬎𐬎𐬌𐬛𐬁𐬭𐬀𐬌𐬙𐬀."
-  - "𐬵𐬀𐬭 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬀𐬌 𐬛𐬎𐬎𐬀 𐬫𐬀 𐬚𐬭𐬀𐬌𐬌𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬛𐬀𐬉𐬙𐬀 𐬫𐬀𐬚𐬀 𐬎𐬎𐬌𐬯𐬞𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬙𐬌."
-  - "𐬞𐬆𐬭𐬆𐬯𐬀 𐬔𐬀𐬥𐬀𐬥𐬀 𐬀𐬌 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬨𐬁 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. 𐬗𐬌𐬚𐬭𐬀 𐬠𐬌𐬥𐬔𐬋 𐬀𐬌𐬙𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬙𐬀 𐬫𐬀𐬚𐬀 𐬎𐬎𐬌𐬯𐬞𐬀 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬙𐬀 𐬎𐬎𐬀𐬥𐬀𐬥𐬙𐬌."
-  - "𐬰𐬎𐬛𐬀 𐬎𐬎𐬀𐬰𐬀 𐬔𐬀𐬨𐬀𐬥 𐬛𐬀𐬭𐬆𐬯𐬀𐬥 𐬫𐬀 𐬥𐬌𐬛𐬭𐬀 𐬎𐬎𐬀𐬵𐬎 𐬀𐬯𐬙𐬌. 𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬭𐬀 𐬀𐬌𐬙𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬛𐬀𐬉𐬙𐬀 𐬫𐬋 𐬀𐬯𐬀𐬥𐬀 𐬥𐬌𐬱𐬀𐬯𐬙𐬌𐬱 𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌."
+  - "Kasu hanjamana vīspa-vāhī-stōit vaheh bavaiti, yōi pouru maš́iiāka aŋhuie varəzāiie aipi-bavainti nōit dīdīm aēva."
+  - "Maš́iiāka gātūm paiti skərənda yaϑa frašna-paiti-dāra, sravah ca dōiϑra ca paiti-manō, apasya gōiϑrīm sravanəm."
+  - "Vispəm varəzəm duye vā ϑrayō vā gātu-hūitiš dāhi yaϑa vispe aipi-jasaēša."
+  - "Apasya pərəsanam, marəzanąm, yātu-yātanam. Citrā-kəlīda yaϑa vispe aēuuō-təma kəlīdam pərənəm barainti."
+  - "Para-fraϑa, dīdītiš, vā xᵛafna vā vahišta asti. Aiβi-daxštāra paiti-stāna dāhi aēmaiia ramna-gātūm vaēnainti."
 faq:
-  - q: "𐬛𐬆𐬨𐬀𐬥𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬀𐬌 𐬐𐬎𐬎𐬀 𐬔𐬀𐬥𐬀 𐬎𐬎𐬀𐬵𐬎 𐬀𐬯𐬙𐬌?"
-    a: "𐬀𐬉𐬎𐬎𐬀 𐬯𐬀𐬥𐬍 𐬯𐬀𐬥𐬑𐬌𐬌𐬁 𐬥𐬀 𐬀𐬯𐬙𐬌 𐬀𐬌 𐬀𐬌𐬙𐬀 𐬀𐬌 𐬨𐬀𐬭𐬆𐬙𐬀 𐬥𐬌𐬨𐬀𐬥𐬀 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬐𐬀𐬭𐬀 𐬯𐬀𐬥𐬑𐬌𐬌𐬁 𐬀𐬯𐬙𐬌. 𐬠𐬀𐬵𐬎 𐬔𐬀𐬥𐬀 𐬎𐬎𐬌𐬥𐬛𐬀𐬥𐬙𐬌 𐬫𐬀𐬚𐬀 𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬔𐬀𐬥𐬀 𐬎𐬎𐬌𐬯𐬞𐬀 𐬛𐬀𐬭𐬆𐬯𐬀𐬥 𐬀𐬌 𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬥 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬯𐬀𐬑𐬌𐬌𐬀𐬥𐬙𐬌. 𐬀𐬔𐬀𐬭 𐬎𐬎𐬀𐬵𐬎 𐬨𐬀𐬵𐬀𐬙 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬭𐬀 𐬀𐬌 𐬥𐬌𐬱𐬀𐬯𐬙𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀 𐬫𐬋 𐬀𐬌 𐬨𐬀𐬭𐬆𐬙𐬀 𐬥𐬀𐬰𐬛 𐬥𐬌𐬱𐬀𐬯𐬙𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬛𐬀𐬉𐬥𐬙𐬌."
-  - q: "𐬐𐬎𐬎𐬀 𐬀𐬉𐬎𐬎𐬀 𐬔𐬀𐬥𐬀 𐬀𐬌 𐬎𐬎𐬌𐬯𐬞𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬌𐬀𐬨?"
-    a: "𐬵𐬀𐬭 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬀𐬌 𐬠𐬀𐬵𐬎 𐬭𐬀𐬌𐬙𐬌𐬱 𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬛𐬀𐬉𐬙𐬀. 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬔𐬁𐬚𐬀 𐬐𐬀𐬯𐬗𐬌𐬙 𐬎𐬎𐬌𐬯𐬞𐬀 𐬔𐬁𐬚𐬀𐬌𐬙𐬌 𐬐𐬀𐬯𐬗𐬌𐬙 𐬵𐬀𐬯𐬙𐬀 𐬰𐬀𐬥𐬀𐬌𐬙𐬌 𐬫𐬀 𐬵𐬎𐬨𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌 𐬀𐬌 𐬐𐬀𐬯𐬗𐬌𐬙 𐬀𐬉𐬎𐬎𐬀 𐬯𐬀𐬛𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌. 𐬀𐬌 𐬗𐬌𐬚𐬭𐬀 𐬠𐬌𐬥𐬔𐬋 𐬐𐬀𐬯𐬗𐬌𐬙 𐬑𐬎𐬎𐬀 𐬗𐬌𐬚𐬭𐬀 𐬎𐬎𐬌𐬥𐬛𐬀𐬥𐬙𐬌 𐬀𐬌 𐬀𐬉𐬎𐬎𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬀𐬥𐬌𐬌𐬀 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬌. 𐬨𐬀𐬭𐬆𐬙𐬀 𐬫𐬋 𐬠𐬌𐬱𐬙𐬀𐬭 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬎𐬎𐬀𐬥𐬀𐬥𐬙𐬌 𐬥𐬀𐬰𐬛 𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬭𐬀 𐬥𐬌𐬱𐬀𐬯𐬙𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀."
-  - q: "𐬐𐬎𐬎𐬀 𐬗𐬌𐬚𐬭𐬀 𐬠𐬌𐬥𐬔𐬋 𐬠𐬆 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬌𐬀𐬨?"
-    a: "𐬵𐬀𐬭 𐬗𐬌𐬚𐬭𐬀 𐬀𐬌𐬙𐬀 𐬑𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬀 𐬫𐬀 𐬎𐬎𐬌𐬯𐬞𐬀 𐬐𐬀𐬭𐬙𐬀 𐬞𐬎𐬭𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬀𐬌 𐬐𐬀𐬯𐬗𐬌𐬙 𐬠𐬀𐬵𐬭𐬀 𐬥𐬀 𐬨𐬁𐬥𐬀𐬌𐬙𐬌. 𐬀𐬌 𐬵𐬀𐬭 𐬗𐬌𐬚𐬭𐬀 𐬐𐬀𐬚𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬀𐬌 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬥𐬀 𐬛𐬀𐬉𐬙𐬀 𐬫𐬀 𐬎𐬎𐬌𐬯𐬞𐬀 𐬵𐬀𐬨𐬀 𐬀𐬉𐬎𐬎𐬀 𐬐𐬎𐬱 𐬛𐬀𐬉𐬙𐬀. 𐬀𐬥𐬛𐬆𐬰𐬀 𐬵𐬀𐬨𐬋.𐬛𐬀𐬭𐬆𐬯𐬀𐬥 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬀𐬯𐬙𐬌 𐬥𐬀 𐬐𐬋 𐬰𐬎𐬛𐬀𐬙𐬀𐬭 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌."
-  - q: "𐬀𐬌𐬌𐬁 𐬎𐬎𐬀𐬵𐬎 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬀𐬌 𐬫𐬎𐬱𐬨𐬀 𐬀𐬌 𐬨𐬀𐬵𐬀𐬙 𐬛𐬀𐬭𐬆𐬯𐬀 𐬀𐬌 𐬔𐬀𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬌𐬀𐬨?"
-    a: "𐬵𐬀. 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬀𐬌 𐬀𐬵𐬨𐬀 𐬀𐬌 𐬎𐬎𐬆𐬠 𐬛𐬀𐬭𐬆𐬯𐬀𐬐𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬙𐬌 𐬀𐬌 𐬎𐬎𐬀𐬵𐬎 𐬀𐬌 𐬛𐬀𐬭𐬆𐬯𐬀𐬐𐬀 𐬫𐬀 𐬛𐬎𐬭𐬛𐬀𐬭𐬱𐬀𐬐𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬀𐬔𐬀𐬌𐬌𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. [Picture Bingo](/games/picture-bingo/) 𐬀𐬌 𐬗𐬁𐬞𐬀 𐬐𐬀𐬭𐬙𐬀 𐬀𐬌 𐬀𐬌 𐬛𐬀𐬭𐬆𐬯𐬀 𐬑𐬎𐬎𐬀𐬥𐬀𐬐𐬀 𐬀𐬯𐬙𐬌. [Finish the Saying](/games/finish-the-saying/) 𐬀𐬌 [Picture Pairs](/games/picture-pairs/) 𐬵𐬀𐬨 𐬎𐬎𐬀𐬵𐬎 𐬀𐬌 𐬨𐬀𐬵𐬀𐬙 𐬛𐬀𐬭𐬆𐬯𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬙𐬌 𐬫𐬀𐬚𐬀 𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬭𐬆𐬙𐬀 𐬀𐬌 𐬔𐬀𐬥𐬀 𐬰𐬀𐬥𐬀𐬌𐬙𐬌."
+  - q: "Cīš asti vohu hanjamana-masō pāiiu-hanjamanāi?"
+    a: "Nōit aēva aṣ̌ō-cida masō asti; nmānahe, maš́iiānąm, aiβi-daxštanąmca aipicit bavaiti. Pouru varəstāra vaēnainti yaϑa kasu hanjamana vispaēibiiō vaēnanəm, sravanəm, aipi-yaso dadāiti, masō-vāra ca dīdīm nīraoxšāiti. Yezi masō-varəzəm varəzayehi, aiβi-daxštāra nīšada yōi aēuuəm vā dvā vā maš́iiāka paiti-dāran."
+  - q: "Cā-yaϑa varəzayeni hanjamanəm vi-aojahąm?"
+    a: "Pouru paϑąm dāhi vispahmi varəze. Gāϑanāi, kəcit vispəm vācim sraoiieinti, kəcit zastəm frajasiieinti, kəcit drūm barainti. Citrā-kəlīde, kəcit haom citrəm vindanti, aiβi-daxštāra anyaēibiiō daxštəm daēsiieiti. Maš́iiāka yōi upa-maϑam vahištəm upa aiβi-daxštārəm nīšada."
+  - q: "Cā-yaϑa citrā-kəlīdam varəzayeni an-aibi-bərəti-stōit?"
+    a: "Vispəm citrəm sraoiiaye yāvata vispe pərənəm kəlīdam yąn. Citrəm paiti vācim cara, nōit aēvəm vanatūm aipi-yāsa taršca vispaēibiiō aēvəm dāštrəm dāhi. Haxədra ca fravaoca aēva asti, nōit yō paoiriiō frajasaiti."
+  - q: "Xšayehe-ne urvaza-dāštram masō-dōiϑre varəzayeiti hanjamanāi?"
+    a: "Bavaiti. Ahmahe urvāza vīspe-varətō paiti carahe, yaϑa TV vā dōiϑrō-patat paiti dāhi. Citrā-kəlīda pərənō-nyātəm kəlīdam dōiϑrō-sraoiieitīmca dadāiti. Finish the Saying ca Picture Pairs aipi masō-dōiϑre vohu varəzayeiti yaϑa aēvō narə hanjamanāi zasto-spasyeiti."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -47,132 +47,130 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-𐬀𐬉𐬱𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬀𐬌 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬭𐬀𐬌𐬙𐬀𐬭𐬀 𐬥𐬌𐬱𐬀𐬯𐬙𐬌𐬱 𐬎𐬎𐬀 𐬔𐬀𐬥𐬀 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀 𐬭𐬀𐬌𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬉𐬱𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬥𐬌𐬨𐬀𐬥𐬀 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬀𐬌 𐬀𐬵𐬨𐬀 𐬗𐬁𐬞𐬀 𐬠𐬌𐬥𐬔𐬋 𐬀𐬌 𐬨𐬀𐬵𐬀𐬙 𐬛𐬀𐬭𐬆𐬯𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬌. 𐬎𐬎𐬌𐬯𐬞𐬀 𐬀𐬌 𐬀𐬯𐬀𐬥𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬀𐬔𐬀𐬌𐬌𐬀 𐬀𐬌 𐬎𐬎𐬀𐬭𐬀𐬥𐬀 𐬀𐬥𐬛𐬆𐬰𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬌𐬙𐬭𐬀 𐬵𐬆𐬗 𐬞𐬆𐬭𐬆𐬯𐬀 𐬥𐬀 𐬀𐬯𐬙𐬌.
+Aēva paitidītiš asti varəzō-ratunąm, pāiiu-manahō hanjamananam, ayara-dātanąmca frašna-patinąm. Im aorunaoiti hanjamana-dātā yōi vohu bavainti, nmāna-dātəm, varəzahiiāca vahištō-gātūm vi-aojahąm, ahmaheca nyātō-kəlīdanąm masō-dōiϑranąmca urvāzanąm varəzanam. Vīspəm idā ā-ramnam, haxədrəm, kāmamca paurvīm vaēnaiti. Nōit cišcit idā pərəsā asti.
 
-## 𐬐𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬎𐬎𐬀𐬵𐬎 𐬀𐬌 𐬥𐬌𐬱𐬀𐬯𐬙𐬌𐬱 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬙𐬌?
+## Cīš hanjamanō-varəzəm vohūm karanaoiti pāiiu-nmānāi?
 
-𐬎𐬎𐬀𐬵𐬎 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬀𐬥𐬁𐬯𐬀𐬥𐬀 𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬀𐬌 𐬎𐬎𐬌𐬯𐬞𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬵𐬀𐬠𐬀𐬌𐬌𐬀𐬌𐬙𐬌 𐬀𐬌 𐬠𐬆 𐬎𐬎𐬀𐬭𐬀 𐬀𐬯𐬙𐬌. [Alzheimer's Association Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) 𐬀𐬥𐬛𐬆𐬰𐬀 𐬀𐬌𐬙𐬀 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬌 𐬫𐬀𐬚𐬀 𐬎𐬎𐬀𐬭𐬀𐬥𐬀 𐬀𐬌 𐬎𐬎𐬀𐬭𐬀𐬥𐬀 𐬀𐬌 𐬎𐬎𐬀𐬵𐬎 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬛𐬀𐬉𐬙𐬌 𐬫𐬀𐬚𐬀 𐬛𐬆𐬨𐬀𐬥𐬀 𐬯𐬀𐬑𐬙 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬵𐬀𐬨 𐬎𐬎𐬀𐬵𐬎 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌.
+Vohu hanjamanō-varəza xšnūta, mərəzu, hu-jasō vispāi gātuie, a-nīraoxšō asti. Alzheimer's Association [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) aēvəm vohu aipicit fraoxšti sraoiieiti yaϑa narš kāmamca vasnəmca upastayeiti, kāmam hu-yānəmca dadāiti, aipicit yaϑa manahō-garəma masō asti. Aēva nyāto mruiti yaϑa pourvīm dātā aēvəm vā dvā vā masō hanjamanā ayarə paiti varəzayeinti yōi maš́iiāka aēvacit dīdīm bavainti.
 
-𐬀𐬌𐬙𐬀 𐬗𐬀𐬥𐬛 𐬭𐬀𐬌𐬙𐬌𐬱 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬌:
+- **Xšnūtō vahištō navaēibiiō.** Gāϑanā̊, saxvānī, citrā, draonoca yōi narō yuvanō zaranō vaēnān hu-jasaēša bavainti.
+- **Mərəzva vahištō darəγaēibiiō.** Varəzəm dāhi ahmāi arəza yim hanjamana darəiti, paiticit ramnō-arəϑe antare.
+- **Varəzō vahištō dīdīie.** Dāhi vispāi maš́iiāi cīšcit darənāi, zasto-paitie, kāmanāi, vācaēca.
+- **Pouru gātuš, aēvō varəzō.** Dāhi kasu-aojahąm aipica tižy-aojahąm paϑąm aipi-jasaiti.
+- **Nōit vanatō, nōit marəzanam.** Aibi-bərəti-stōit kəcit maš́iiāka an-ayaptəm maniiante.
 
-- **𐬀𐬥𐬁𐬯𐬀𐬥𐬀 𐬎𐬎𐬀𐬵𐬎𐬙𐬀𐬭 𐬀𐬯𐬙𐬌.** 𐬔𐬁𐬚𐬁 𐬎𐬎𐬀𐬗𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬌 𐬛𐬀𐬭𐬆𐬯𐬀 𐬀𐬌 𐬫𐬀𐬎𐬎𐬀𐬥 𐬰𐬆𐬨𐬀𐬥𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬙𐬌.
-- **𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬎𐬎𐬀𐬵𐬎𐬙𐬀𐬭 𐬀𐬯𐬙𐬌.** 𐬀𐬌 𐬀𐬥𐬛𐬀𐬰𐬀 𐬛𐬀𐬭𐬆𐬯𐬀𐬥 𐬫𐬀 𐬔𐬀𐬥𐬀 𐬎𐬎𐬀𐬵𐬎 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬙𐬌 𐬀𐬉𐬎𐬎𐬀 𐬀𐬯𐬀𐬥𐬀 𐬀𐬎𐬎𐬀 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬀.
-- **𐬐𐬀𐬭𐬀 𐬎𐬎𐬀𐬵𐬎𐬙𐬀𐬭 𐬀𐬯𐬙𐬌 𐬀𐬰 𐬛𐬀𐬭𐬆𐬯𐬀𐬥.** 𐬵𐬀𐬭 𐬨𐬀𐬭𐬆𐬙𐬀 𐬀𐬉𐬎𐬎𐬀 𐬗𐬌𐬱 𐬛𐬀𐬉𐬙𐬀 𐬫𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌 𐬰𐬀𐬥𐬀𐬌𐬙𐬌 𐬎𐬎𐬀𐬭𐬀𐬥𐬀𐬌𐬙𐬌 𐬫𐬀 𐬔𐬎𐬙𐬀𐬌𐬙𐬌.
-- **𐬠𐬀𐬵𐬎 𐬭𐬀𐬌𐬙𐬌𐬱 𐬀𐬉𐬎𐬎𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀.** 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬀𐬌 𐬀𐬥𐬌𐬌𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬛𐬀𐬉𐬙𐬀.
-- **𐬠𐬆 𐬎𐬎𐬌𐬛𐬀𐬥𐬀 𐬠𐬆 𐬔𐬀𐬥𐬀𐬥𐬀.** 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀 𐬐𐬀𐬯𐬗𐬌𐬙 𐬀𐬌𐬙𐬀 𐬨𐬀𐬥𐬌𐬌𐬀𐬥𐬙𐬌 𐬫𐬀𐬚𐬀 𐬀𐬥𐬌𐬌𐬀 𐬥𐬀 𐬯𐬀𐬑𐬌𐬌𐬀𐬥𐬙𐬌.
+## Cvat masō bavaiti hanjamanəm?
 
-## 𐬔𐬀𐬥𐬀 𐬐𐬎𐬎𐬀 𐬀𐬥𐬛𐬀𐬰𐬀 𐬎𐬎𐬀𐬵𐬎 𐬀𐬯𐬙𐬌?
+Kasu hanjamana hu-tarəm asti. Alzheimer's Association sraoiieiti yaϑa narə yō masō hanjamanəm aipi-darštəm vindaiti, kasu hanjamanahmi vahištō-varəzō bavaiti. Nōit aēva aṣ̌ō-cida marəza asti. Nmānāi, maš́iiānąm, aiβi-daxštanąmca aipicit bavaiti.
 
-𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬔𐬀𐬥𐬀 𐬎𐬎𐬀𐬵𐬎 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬉𐬎𐬎𐬀 𐬯𐬀𐬥𐬍 𐬯𐬀𐬥𐬑𐬌𐬌𐬁 𐬥𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬌𐬙𐬀 𐬀𐬌 𐬨𐬀𐬭𐬆𐬙𐬀 𐬥𐬌𐬨𐬀𐬥𐬀 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬐𐬀𐬭𐬀 𐬯𐬀𐬥𐬑𐬌𐬌𐬁 𐬀𐬯𐬙𐬌.
+Vohu daxšta: xšayeiti-ne vispō narə ratu-zaraϑram vaēnaiti, aṣ̌a surunaoiti, upastārāca mərəzu-gātuie paiti-jasaiti? Yezi nōit, hanjamanəm vi-bada, upastāra dāhi, vā kasu nmānəm jasa.
 
-𐬀𐬉𐬎𐬎𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬀𐬰𐬨𐬀𐬌𐬱: 𐬀𐬌𐬌𐬁 𐬵𐬀𐬭 𐬨𐬀𐬭𐬆𐬙𐬀 𐬭𐬀𐬌𐬙𐬀𐬭 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬌 𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬌𐬙𐬌 𐬀𐬌 𐬀𐬉𐬎𐬎𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬀𐬌 𐬗𐬀𐬥𐬛 𐬯𐬀𐬥𐬔𐬀 𐬭𐬀𐬯𐬀𐬌𐬙𐬌? 𐬀𐬔𐬀𐬭 𐬥𐬀 𐬔𐬀𐬥𐬀 𐬎𐬎𐬌𐬠𐬀𐬰𐬀𐬌𐬙𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬀𐬯𐬀𐬥𐬀 𐬛𐬀𐬉𐬙𐬀 𐬫𐬀 𐬀𐬌 𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬥𐬌𐬨𐬀𐬥𐬀 𐬔𐬀𐬨𐬀𐬌𐬙𐬀.
+Masō-varəzāi, yaϑa yāro-kahrahe gāϑanāi, aiβi-daxštāra nīšada antare maš́iiāka, nōit dūra paiti drəmbam.
 
-𐬀𐬌 𐬨𐬀𐬵𐬀𐬙 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬭𐬀 𐬀𐬌 𐬨𐬀𐬭𐬆𐬙𐬀 𐬨𐬌𐬌𐬁𐬥 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬀 𐬥𐬀 𐬀𐬌 𐬛𐬌𐬎𐬎𐬀𐬭.
+## Cā-yaϑa nmānəm gātūmca dāyeni?
 
-## 𐬐𐬎𐬎𐬀 𐬥𐬌𐬨𐬀𐬥𐬀 𐬀𐬌 𐬥𐬌𐬱𐬀𐬯𐬙𐬌𐬱 𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬐𐬀𐬭𐬀𐬌𐬌𐬀𐬨?
+- **Skərənda vā aspō-pada.** Practice recommendations sraoiieiti yaϑa haxədrō-skərənda vahišta asti nmāne yaϑa vispe skərənde nīšadān, an-anyō-srava.
+- **Ratu nazda dōiϑrō-gātūmca.** Nīšada yaϑa histe yezi xšayehi.
+- **Sravanəm dōiϑrəmca paoiriiō.** Maš́iiāka yōi an-aṣ̌a-surunvanti nazda ratu nīšada, vahište aorane. Vaēna yaϑa dōiϑra-kāma sravanō-upastāca dārante. Alzheimer's Association sraoiieiti yaϑa sravanō dōiϑrahīca ana-bərəte vācim arəϑra-tarəm karanaonti.
+- **Raoce maš́iiāka-pascāt, nōit ratu-pascāt.** Nōit aēmam raocō-darəcahe arəm nīšada.
+- **TV radio-ca apa-nasa.** Alzheimer's Association nivaēdayeiti yaϑa anya-sravanəm apasya gāϑā-varəze.
+- **Aēvō fravaoca aēva gātuia.** Vi-sravanəm arəϑra asti maš́iiāka yōi manahō-aiβi-daxštanąm sravanō-ana-bərətanąmca, yaϑa Alzheimer's Association daxštayeiti [holiday guidance](https://www.alz.org/help-support/caregiving/holidays) paiti.
+- **Urvāϑō para-dvara ramnō-kašaca.** Yō para-jaso kāmayeiti, hu-jasō para-jasaiti, aiβi-daxštārā haϑa caraiti.
 
-- **𐬗𐬀𐬑𐬭𐬀 𐬫𐬀 𐬵𐬎𐬎𐬀𐬯𐬙𐬀𐬭𐬀.** 𐬀𐬌𐬙𐬀 𐬀𐬥𐬛𐬆𐬰𐬀 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬌 𐬫𐬀𐬚𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬗𐬀𐬑𐬭𐬀 𐬎𐬎𐬀𐬵𐬎 𐬀𐬯𐬙𐬌 𐬀𐬌 𐬞𐬀𐬭𐬋 𐬯𐬆𐬭𐬀𐬊𐬱𐬀 𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌.
-- **𐬭𐬀𐬌𐬙𐬀𐬭 𐬥𐬀𐬰𐬛 𐬀𐬌 𐬗𐬀𐬱𐬨𐬀.** 𐬫𐬀𐬚𐬀 𐬯𐬀𐬑𐬌𐬌𐬀𐬙𐬌 𐬥𐬌𐬱𐬀𐬯𐬙𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬥𐬀 𐬀𐬌𐬯𐬙𐬀𐬌𐬙𐬀.
-- **𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬥 𐬀𐬌 𐬛𐬀𐬭𐬆𐬯𐬀𐬥 𐬞𐬀𐬉𐬭𐬎𐬎𐬀.** 𐬨𐬀𐬭𐬆𐬙𐬀 𐬫𐬋 𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬥 𐬐𐬀𐬨 𐬀𐬯𐬙𐬌 𐬥𐬀𐬰𐬛 𐬭𐬀𐬌𐬙𐬀𐬭 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬀. 𐬗𐬀𐬱𐬨𐬀 𐬀𐬌 𐬔𐬎𐬱 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.
-- **𐬭𐬀𐬊𐬗𐬀𐬥𐬀 𐬀𐬰 𐬞𐬀𐬯 𐬨𐬀𐬭𐬆𐬙𐬀 𐬥𐬀 𐬀𐬰 𐬞𐬀𐬯 𐬎𐬎𐬀𐬵𐬎.** 𐬵𐬆𐬗 𐬐𐬀𐬯 𐬀𐬌 𐬭𐬎𐬱𐬀𐬥 𐬭𐬀𐬊𐬰𐬀𐬥𐬀 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬀.
-- **𐬛𐬎𐬭𐬛𐬀𐬭𐬱𐬀𐬐𐬀 𐬀𐬌 𐬭𐬁𐬛𐬌𐬌𐬋 𐬎𐬎𐬌𐬛𐬁𐬭𐬀𐬌𐬙𐬀.** 𐬀𐬌 𐬔𐬁𐬚𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬞𐬀𐬭𐬋 𐬯𐬆𐬭𐬀𐬊𐬱𐬀 𐬎𐬎𐬌𐬛𐬁𐬭𐬀𐬌𐬙𐬀.
-- **𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬀𐬉𐬎𐬎𐬀 𐬔𐬀𐬵.** 𐬠𐬀𐬵𐬎 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬀𐬌 𐬨𐬀𐬭𐬆𐬙𐬀 𐬫𐬋 𐬛𐬆𐬨𐬀𐬥𐬀 𐬀𐬌 𐬰𐬆𐬨𐬀𐬥𐬀 𐬰𐬆𐬨𐬀𐬥𐬀 𐬛𐬎𐬱𐬎𐬎𐬀𐬭 𐬀𐬯𐬙𐬌 𐬯𐬀𐬑𐬙 𐬀𐬯𐬙𐬌 𐬫𐬀𐬚𐬀 [𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀 𐬭𐬀𐬌𐬙𐬌𐬱](https://www.alz.org/help-support/caregiving/holidays) 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬌.
-- **𐬭𐬀𐬊𐬱𐬀𐬥 𐬛𐬎𐬎𐬀𐬭 𐬀𐬌 𐬀𐬯𐬀𐬥𐬀 𐬔𐬎𐬱𐬀.** 𐬵𐬀𐬭 𐬐𐬀𐬯 𐬫𐬋 𐬎𐬎𐬀𐬰𐬀 𐬔𐬀𐬨𐬀𐬥 𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬀𐬌 𐬀𐬯𐬀𐬥𐬀 𐬔𐬀𐬨𐬀𐬥 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌 𐬀𐬌 𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬭𐬀 𐬵𐬀𐬨𐬋.𐬭𐬀𐬵 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌.
+## Hanjamanō-varəzahe manō-dātā
 
-## 𐬀𐬥𐬛𐬆𐬰𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀
+### Citrā-kəlīda
 
-### 𐬗𐬌𐬚𐬭𐬀 𐬠𐬌𐬥𐬔𐬋
+Citrā-kəlīda marəząm anyō-karanaoiti citrāi, yaϑa paurvō-caia, spā, vā varəδa, yaϑa nōit aēvō darəγəm marəzəm dāraiti nōit kasu-fraoxštəm frasaite.
 
-𐬗𐬌𐬚𐬭𐬀 𐬠𐬌𐬥𐬔𐬋 𐬯𐬀𐬥𐬑𐬌𐬌𐬁 𐬀𐬌 𐬗𐬌𐬚𐬭𐬀 𐬭𐬀𐬊𐬱𐬀𐬥 𐬠𐬀𐬛𐬀𐬮𐬀𐬌𐬙𐬌 𐬫𐬀𐬚𐬀 𐬗𐬁𐬌 𐬯𐬞𐬀 𐬫𐬀 𐬔𐬎𐬮 𐬀𐬌 𐬵𐬆𐬗 𐬐𐬀𐬯 𐬛𐬆𐬭𐬆𐬖 𐬯𐬀𐬥𐬑𐬌𐬌𐬁 𐬫𐬀 𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬥𐬆𐬎𐬎𐬌𐬱𐬙𐬀 𐬥𐬀 𐬑𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌.
+**Cā-yaϑa varəzayeiti:**
 
-**𐬐𐬎𐬎𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬙𐬀:**
+1. Aēvəm kəlīdam vispāi narāi nyāta ahmahe [Picture Bingo](/games/picture-bingo/) paiti 'Print' bita paiti-jasaiti. Dərəzrō kax́δō hu-darənō asti. Dərəzraya yaϑa anyo-dātā varəzayāi.
+2. Dāhi masō hu-grəmbō daxšta, yaϑa aspō-marəza, cašmahe paiti-dānəm, vā kax́δō-bərəte.
+3. Dōiϑrō-sraoiieitīm paiti TV vā dōiϑrō-patat varəzaya yaϑa vispe citrəm vaēnān yaϑa nāməm sraoiiehi.
+4. Paiti-stāna citrəm pasca fravaocaca pərəsā: "Kāmayeiti-ne cišcit sraoiieiti spānəm yim xšnūta?" vā "Cīš vaēnehi idā?"
+5. Sraoiie yāvata vispe kəlīda pərənā bavainti. Vispe aipi-jasaiti.
 
-1. 𐬀𐬌 𐬵𐬀𐬭 𐬨𐬀𐬭𐬆𐬙𐬀 𐬀𐬉𐬎𐬎𐬀 𐬐𐬀𐬭𐬙𐬀 𐬀𐬌 [Picture Bingo](/games/picture-bingo/) 𐬗𐬁𐬞𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. 𐬯𐬀𐬑𐬙 𐬐𐬀𐬭𐬙𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌.
-2. 𐬨𐬀𐬵𐬀𐬙 𐬥𐬌𐬱𐬀𐬥𐬀 𐬛𐬀𐬉𐬙𐬀 𐬫𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬔𐬆𐬭𐬆𐬠𐬀𐬌𐬙𐬌.
-3. 𐬀𐬌 𐬛𐬀𐬭𐬆𐬯𐬀 𐬀𐬌 𐬥𐬌𐬱𐬀𐬥𐬀𐬐𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬫𐬀 𐬎𐬎𐬌𐬯𐬞𐬀 𐬗𐬌𐬚𐬭𐬀 𐬛𐬀𐬭𐬆𐬯𐬀𐬥 𐬫𐬀 𐬥𐬁𐬨𐬀 𐬔𐬎𐬙𐬀𐬌𐬙𐬌.
-4. 𐬀𐬌 𐬵𐬀𐬭 𐬗𐬌𐬚𐬭𐬀 𐬞𐬀𐬯 𐬀𐬉𐬎𐬎𐬀 𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬀𐬎𐬎𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬀𐬌 𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬑𐬎𐬎𐬀𐬵𐬀𐬌𐬙𐬀: "𐬀𐬌𐬌𐬁 𐬐𐬀𐬯 𐬀𐬌 𐬯𐬞𐬀 𐬐𐬀𐬚𐬀 𐬔𐬎𐬙𐬀𐬌𐬙𐬌 𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌?"
-5. 𐬀𐬌𐬙𐬀 𐬑𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬀 𐬫𐬀 𐬎𐬎𐬌𐬯𐬞𐬀 𐬐𐬀𐬭𐬙𐬀 𐬞𐬎𐬭𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌. 𐬎𐬎𐬌𐬯𐬞𐬀 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀𐬥𐬙𐬌.
+**Gātūm dātəm:** Kasu-gātūm varəzaya aēmaiia yōi pərənəm kəlīdam pouru-arəϑra vindanti. Upastāra daxštayeiti hā-citrəm ahmāi yō upastā-kāma asti. Kəcit maš́iiāka sraoiieiti-citrəm zaste dāran hanjamanāica daēsiieiieiti.
 
-**𐬵𐬀𐬨𐬋.𐬎𐬎𐬌𐬛𐬁𐬙𐬀:** 𐬐𐬀𐬨𐬙𐬀𐬭 𐬗𐬌𐬚𐬭𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. 𐬀𐬉𐬎𐬎𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬗𐬌𐬚𐬭𐬀 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬌. 𐬐𐬀𐬯𐬗𐬌𐬙 𐬥𐬌𐬱𐬀𐬥𐬀𐬐𐬀 𐬗𐬌𐬚𐬭𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌 𐬀𐬌 𐬀𐬌 𐬔𐬀𐬥𐬀 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬌.
+### Gāϑanā̊ han-gāuua
 
-### 𐬵𐬀𐬨𐬋.𐬔𐬁𐬚𐬀𐬥𐬀
+Gāϑā asti aēva vahištō-xšnūta hanjamanō-varəzanąm. Alzheimer's Association sraoiieiti yaϑa pascaēca gātuie narə xšayeiti yaϑa [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-𐬔𐬁𐬚𐬀 𐬀𐬉𐬎𐬎𐬀 𐬎𐬎𐬀𐬵𐬎 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬭𐬆𐬙𐬀 𐬀𐬌 𐬛𐬆𐬭𐬆𐬖 𐬛𐬆𐬨𐬀𐬥𐬀 𐬰𐬆𐬨𐬀𐬥𐬀 [𐬀𐬌 𐬔𐬁𐬚𐬀 𐬵𐬀𐬨𐬋.𐬔𐬁𐬚𐬀𐬌𐬙𐬌](https://www.alz.org/help-support/caregiving/daily-care/art-music) 𐬯𐬀𐬑𐬌𐬌𐬀𐬥𐬙𐬌.
+**Cā-yaϑa varəzayeiti:**
 
-**𐬐𐬎𐬎𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬙𐬀:**
+- Gāϑanā̊ vaēna yōi maš́iiāka yuvanō zaranō sraoiiān, nōit ratu-kāma. Pərəsa nmāno-paitīm cīš vispō narə frapō.
+- Gāϑā an-bāzāro-sravanəm varəzaya, yim Association sraoiieiti yaϑa arəϑrō-kərətam karanaoiti.
+- Gāϑā-vīspəm masō-fraoxšte nyāta aēmaiia yōi frasanti, nōit dātu-pərəsā.
+- Dāhi drūm, zasto-dumbrəm, vā vastrəm vātie.
+- Zasto-paitim fraoraitīmca fravāra, sravanəmca an-aomanəm dāra.
 
-- 𐬔𐬁𐬚𐬁 𐬀𐬌 𐬫𐬀𐬎𐬎𐬀𐬥 𐬰𐬆𐬨𐬀𐬥𐬀 𐬎𐬎𐬀𐬭𐬀𐬥𐬀𐬌𐬙𐬀.
-- 𐬔𐬁𐬚𐬀 𐬠𐬆 𐬭𐬀𐬛𐬌𐬌𐬋 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.
-- 𐬨𐬀𐬵𐬀𐬙 𐬎𐬎𐬀𐬗𐬀 𐬗𐬁𐬞𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬀𐬨𐬀 𐬥𐬀 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.
-- 𐬯𐬀𐬛𐬀 𐬫𐬀 𐬵𐬀𐬯𐬙𐬀 𐬔𐬀𐬙𐬌 𐬛𐬀𐬉𐬙𐬀.
-- 𐬵𐬀𐬯𐬙𐬀 𐬰𐬀𐬥𐬀𐬥 𐬀𐬌 𐬔𐬀𐬙𐬌 𐬎𐬎𐬀𐬭𐬀𐬥𐬀𐬌𐬙𐬀 𐬀𐬌 𐬯𐬆𐬭𐬀𐬊𐬱𐬀 𐬀𐬯𐬀𐬥𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬀.
+**Gātūm dātəm:** Kəcit maš́iiāka vispəm vācim sraoiiān, kəcit sruye, kəcit padəm paiti-jasaite, kəcit aēvacit surunaoiti. Vīspəm aēva aipi-jasaiti. Vaēna ahmahe [music activities guide](/activities/music/) anyāi.
 
-**𐬵𐬀𐬨𐬋.𐬎𐬎𐬌𐬛𐬁𐬙𐬀:** 𐬐𐬀𐬯𐬗𐬌𐬙 𐬎𐬎𐬌𐬯𐬞𐬀 𐬔𐬁𐬚𐬀𐬌𐬙𐬌 𐬐𐬀𐬯𐬗𐬌𐬙 𐬵𐬎𐬨𐬀𐬌𐬙𐬌 𐬐𐬀𐬯𐬗𐬌𐬙 𐬞𐬀𐬌𐬙𐬌 𐬰𐬀𐬥𐬀𐬌𐬙𐬌 𐬀𐬌 𐬐𐬀𐬯𐬗𐬌𐬙 𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬌𐬙𐬌. 𐬎𐬎𐬌𐬯𐬞𐬀 𐬀𐬌𐬥 𐬎𐬎𐬀𐬵𐬎 𐬀𐬯𐬙𐬌. 𐬠𐬌𐬱𐬙𐬀𐬭 𐬀𐬌 [𐬔𐬁𐬚𐬀 𐬭𐬀𐬌𐬙𐬌𐬱](/activities/music/) 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬀.
+### Marəti-hanjamana
 
-### 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬀𐬌 𐬫𐬀𐬛
+Marəti-hanjamana aēvəm dātu paiti jasaiti, yaϑa frašna-yāra, paoiriiō vāša, nmāno-xšnūtra, vā hāmina, citrāiš, draonāiš, gāϑābišca. Arəϑa asti urvāzō-fravaoca, nōit aṣ̌ō-cida marəna.
 
-𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬀𐬌 𐬀𐬉𐬎𐬎𐬀 𐬀𐬥𐬛𐬆𐬰𐬀 𐬗𐬌𐬚𐬭𐬀 𐬛𐬀𐬭𐬆𐬯𐬀 𐬀𐬌 𐬔𐬁𐬚𐬀 𐬵𐬀𐬨𐬋.𐬔𐬀𐬨𐬀𐬌𐬙𐬌. 𐬀𐬥𐬛𐬆𐬰𐬀 𐬀𐬯𐬀𐬥𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬀𐬯𐬙𐬌 𐬥𐬀 𐬭𐬀𐬯𐬙 𐬫𐬀𐬛.
+**Cā-yaϑa varəzayeiti:**
 
-**𐬐𐬎𐬎𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬙𐬀:**
+1. Aēvəm dātu vaēna dāhica draonā yōi maš́iiāka darən: zasto-sraoštra, spāro-zasta, xaoδa, vā zaoϑrō-kax́δa.
+2. Aēvəm draonəm aēva gātuia para-dāhi. Frašna pərəsa: "Fravaoca ahmāi," "Cīš vaēnehi?" "Kō aēva varəzayeiti?"
+3. Vispəm paiti-vācim sruye. Nōit ayarə vā dātəm aipi-karana.
+4. Fravaocəm garəmo-marətie fraiiehi. Practice recommendations sraoiieiti yaϑa pāiiu-dātāra vahištō-marətie fraiiehān nōit yā an-āzātam karanaoiti.
 
-1. 𐬀𐬉𐬎𐬎𐬀 𐬀𐬥𐬛𐬆𐬰𐬀 𐬎𐬎𐬀𐬭𐬀𐬥𐬀𐬌𐬙𐬀 𐬀𐬌 𐬗𐬀𐬥𐬛 𐬛𐬀𐬭𐬆𐬯𐬀 𐬀𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬀 𐬫𐬀 𐬨𐬀𐬭𐬆𐬙𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌.
-2. 𐬀𐬉𐬎𐬎𐬀 𐬀𐬉𐬎𐬎𐬀 𐬛𐬀𐬭𐬆𐬯𐬀 𐬛𐬀𐬉𐬙𐬀. 𐬞𐬆𐬭𐬆𐬯𐬀 𐬀𐬌 𐬭𐬀𐬊𐬱𐬀𐬥 𐬐𐬀𐬭𐬀𐬌𐬙𐬀: "𐬀𐬌 𐬀𐬌𐬥 𐬐𐬀𐬚𐬀 𐬔𐬎𐬙𐬀𐬌𐬙𐬀" "𐬗𐬌𐬱 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬀?"
-3. 𐬵𐬀𐬭 𐬞𐬀𐬯𐬀𐬑 𐬞𐬀𐬛𐬌𐬭𐬀𐬌𐬙𐬀. 𐬵𐬆𐬗 𐬭𐬀𐬯𐬙 𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.
-4. 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬀𐬌 𐬀𐬯𐬀𐬥𐬀 𐬫𐬀𐬛 𐬭𐬀𐬌𐬙𐬀𐬌𐬙𐬀.
+[Conversation Cards](/games/conversation-cards/) nyātō-kəlīdam citrāiš frašna-dātāiš dadāiti yōi vohu fravaocō-paitiš bavainti. Anyā manō-dātā santi ahmahe [reminiscence guide](/activities/reminiscence/) paiti.
 
-[Conversation Cards](/games/conversation-cards/) 𐬗𐬁𐬞𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬌 𐬞𐬆𐬭𐬆𐬯𐬀 𐬛𐬀𐬉𐬙𐬌 𐬫𐬋 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬎𐬎𐬀𐬵𐬎 𐬀𐬯𐬙𐬌. 𐬠𐬌𐬱𐬙𐬀𐬭 𐬀𐬌 [𐬫𐬀𐬛 𐬭𐬀𐬌𐬙𐬌𐬱](/activities/reminiscence/) 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬀.
+### Saxvanō-pərənəm
 
-### 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀 𐬎𐬎𐬀𐬗𐬀
+Xšnūtō saxvānī ("Aēva dīnāra dārita aēva...") vispəm maš́iiāka fravaoce haδa gātuia kərənvaonte. Daēsiia [Finish the Saying](/games/finish-the-saying/) masō-dōiϑre, dāhica hanjamana aēva-vācā paiti-mruiieiti. Fravaoco-frašna asti vispəm saxvanəm pasca. Yezi nōit aēvō apānəm sraoiieiti, daēsiia aipica cara. Nōit aṣ̌a vā drūj idā asti.
 
-𐬀𐬥𐬁𐬯𐬀𐬥𐬀 𐬎𐬎𐬀𐬗𐬀 𐬎𐬎𐬌𐬯𐬞𐬀 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬔𐬁𐬚𐬀 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀𐬥 𐬑𐬎𐬎𐬀𐬥𐬀𐬥𐬙𐬌. [Finish the Saying](/games/finish-the-saying/) 𐬀𐬌 𐬨𐬀𐬵𐬀𐬙 𐬛𐬀𐬭𐬆𐬯𐬀 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬀 𐬀𐬌 𐬔𐬀𐬥𐬀 𐬀𐬉𐬎𐬎𐬀 𐬯𐬆𐬭𐬀𐬊𐬱𐬀 𐬞𐬀𐬯𐬀𐬑 𐬛𐬀𐬉𐬙𐬌. 𐬀𐬌 𐬵𐬀𐬭 𐬎𐬎𐬀𐬗𐬀 𐬞𐬀𐬯 𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬔𐬀𐬭 𐬵𐬆𐬗 𐬐𐬀𐬯 𐬥𐬀 𐬔𐬎𐬙𐬀𐬌𐬙𐬌 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬀 𐬀𐬌 𐬞𐬀𐬭𐬋 𐬔𐬀𐬨𐬀𐬌𐬙𐬀.
+### Masō-fraoxšta vācō-pərəsā haδa
 
-### 𐬨𐬀𐬵𐬀𐬙 𐬎𐬎𐬀𐬗𐬀 𐬀𐬥𐬎𐬎𐬆𐬱𐬀 𐬵𐬀𐬨𐬋.𐬭𐬀𐬰𐬆𐬨𐬀
+Masō-fraoxštəm [Word Search](/games/word-search/) dōiϑre dāhi vācīmca vaēna haδa hanjamana, vā nyāta aēmaiia yōi xvaēpaϑye nmāne varəzayen. Vācō aēvacit paiti ca nīca caranti.
 
-𐬨𐬀𐬵𐬀𐬙 𐬎𐬎𐬀𐬗𐬀 [Word Search](/games/word-search/) 𐬀𐬌 𐬛𐬀𐬭𐬆𐬯𐬀 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬀 𐬀𐬌 𐬎𐬎𐬀𐬗𐬀 𐬀𐬌 𐬔𐬀𐬥𐬀 𐬀𐬥𐬎𐬎𐬆𐬱𐬀𐬌𐬙𐬀 𐬫𐬀 𐬗𐬁𐬞𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. 𐬎𐬎𐬀𐬗𐬀 𐬐𐬆𐬎𐬎𐬀𐬮𐬀𐬨 𐬀𐬌 𐬭𐬀𐬯𐬙 𐬀𐬌 𐬥𐬌𐬱 𐬔𐬀𐬨𐬀𐬥𐬙𐬌.
+### Hu-fraoiritiš
 
-### 𐬀𐬯𐬀𐬥𐬀 𐬔𐬀𐬙𐬌
+Gātu-stravano, hu-gəmbō gō-spāra vā vātō-dānəm para-dānəm, vā gātu-fraoraitiš xšnūte gāϑāi. Vispəm fraoiriti daēsiia nōit sraoiie.
 
-𐬥𐬌𐬱𐬀𐬯𐬙𐬀 𐬔𐬀𐬙𐬌 𐬥𐬀𐬭𐬆𐬨 𐬔𐬎𐬌 𐬛𐬀𐬉𐬙𐬀 𐬫𐬀 𐬀𐬌 𐬔𐬁𐬚𐬀 𐬔𐬀𐬙𐬌 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. 𐬵𐬀𐬭 𐬔𐬀𐬙𐬌 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬀 𐬥𐬀 𐬐𐬆𐬎𐬎𐬀𐬮𐬀𐬨 𐬔𐬎𐬙𐬀𐬌𐬙𐬀.
+### Vi-citiš hā-dātišca gātūm paiti
 
-### 𐬵𐬀𐬨𐬋.𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬀𐬌 𐬨𐬆𐬰
+Kasu gātūm ϑrayō vā caϑwārō vā maš́iiāka citrā, vastrā, vā zaranyō-xšnūtra vi-citīm karanaonti. Dōiϑre, [Picture Pairs](/games/picture-pairs/) varəzayeiti yaϑa citrā dōiϑro-dātā bavainti, aēvō narə zasto-spasyeiti yaϑa hanjamana citrəm paiti fravaoce.
 
-𐬨𐬆𐬭𐬆𐬖𐬎𐬎𐬋 𐬨𐬆𐬰 𐬗𐬌𐬚𐬭𐬀 𐬫𐬀 𐬛𐬀𐬭𐬆𐬯𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬐𐬀𐬭𐬀𐬥𐬙𐬌. 𐬀𐬌 𐬛𐬀𐬭𐬆𐬯𐬀 [Picture Pairs](/games/picture-pairs/) 𐬗𐬌𐬚𐬭𐬀 𐬭𐬀𐬊𐬱𐬀𐬥 𐬛𐬁𐬭𐬀𐬌𐬙𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬙𐬀 𐬀𐬌 𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬭𐬆𐬙𐬀 𐬰𐬀𐬥𐬀𐬌𐬙𐬌 𐬀𐬌 𐬨𐬆𐬰 𐬀𐬌 𐬵𐬀𐬭 𐬗𐬌𐬚𐬭𐬀 𐬐𐬀𐬚𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌.
+## Cā-yaϑa urvāza-dāštrəm masō-dōiϑre varəzayeni?
 
-## 𐬐𐬎𐬎𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬀𐬌 𐬀𐬌 𐬨𐬀𐬵𐬀𐬙 𐬛𐬀𐬭𐬆𐬯𐬀 𐬐𐬀𐬭𐬀𐬌𐬌𐬀𐬨?
+Ahmahe urvāza vīspe-varətō paiti caranti, yaϑa TV vā dōiϑrō-patat paiti varəzayehi an-cišcit-nyāte.
 
-𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬀𐬌 𐬀𐬵𐬨𐬀 𐬀𐬌 𐬎𐬎𐬆𐬠 𐬛𐬀𐬭𐬆𐬯𐬀𐬐𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬙𐬌 𐬀𐬌 𐬵𐬆𐬗 𐬗𐬌𐬱 𐬥𐬀 𐬀𐬎𐬎𐬀𐬭𐬀𐬌𐬙𐬀.
+1. Urvāzəm paiti-fravāra tablet vā dōiϑrō-fravaoce yō dōiϑre badra vā vātō-badra aipi-jasaiti.
+2. Vīspe-varətō masō-dōiϑrəm karana, sravanəmca an-aomanō-gātuie dāhi.
+3. Aēvō ratu zasto-spasiia dāhi yaϑa hanjamana kāmam sraoiieiti. Vā tablet maš́iiāi para-dāhi yō varəzō-kāma asti.
+4. Paiti-stāna yaϑa hanjamana paiti-stānō-kāma asti. Urvāza nōit zrvānəm, marəzanəm, vā nīraoxšō apānəm darənte.
 
-1. 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬀𐬌 𐬛𐬀𐬭𐬆𐬯𐬀𐬐𐬀 𐬫𐬀 𐬛𐬎𐬭𐬛𐬀𐬭𐬱𐬀𐬐𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬀𐬔𐬀𐬌𐬌𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.
-2. 𐬛𐬀𐬭𐬆𐬯𐬀𐬐𐬀 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬀𐬌 𐬯𐬆𐬭𐬀𐬊𐬱𐬀 𐬀𐬯𐬀𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.
-3. 𐬀𐬉𐬎𐬎𐬀 𐬭𐬀𐬌𐬙𐬀𐬭 𐬰𐬀𐬥𐬀𐬌𐬙𐬌 𐬀𐬌 𐬔𐬀𐬥𐬀 𐬎𐬎𐬀𐬭𐬀𐬥𐬀 𐬔𐬎𐬙𐬀𐬌𐬙𐬌. 𐬫𐬀 𐬀𐬉𐬎𐬎𐬀 𐬛𐬎𐬭𐬛𐬀𐬭𐬱𐬀𐬐𐬀 𐬀𐬌 𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬭𐬆𐬙𐬀 𐬛𐬀𐬉𐬙𐬀 𐬫𐬋 𐬎𐬎𐬀𐬭𐬀𐬥𐬀 𐬎𐬎𐬀𐬥𐬀𐬌𐬙𐬌.
-4. 𐬫𐬀𐬚𐬀 𐬔𐬀𐬥𐬀 𐬀𐬯𐬀𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬀𐬎𐬎𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬠𐬆 𐬔𐬀𐬵 𐬠𐬆 𐬔𐬀𐬥𐬀𐬥𐬀 𐬠𐬆 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬞𐬎𐬭𐬥𐬀 𐬀𐬯𐬙𐬌.
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) ca [Conversation Cards](/games/conversation-cards/) hanjamanāi vahištō bavainti. Vaēna vīspəm ahmahe [games page](/games/) paiti.
 
-[Picture Bingo](/games/picture-bingo/) 𐬀𐬌 [Finish the Saying](/games/finish-the-saying/) 𐬀𐬌 [Picture Pairs](/games/picture-pairs/) 𐬀𐬌 [Conversation Cards](/games/conversation-cards/) 𐬀𐬌 𐬔𐬀𐬥𐬀 𐬎𐬎𐬀𐬵𐬎 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬙𐬌. 𐬎𐬎𐬌𐬯𐬞𐬀 𐬀𐬌 [𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬀𐬌 𐬞𐬀𐬌𐬙𐬌](/games/) 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬀.
+## Cā-yaϑa aēvəm varəzəm vi-aojahąm dāyeni?
 
-## 𐬐𐬎𐬎𐬀 𐬀𐬉𐬎𐬎𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬀𐬌 𐬎𐬎𐬌𐬯𐬞𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬵𐬀𐬨𐬋.𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬐𐬀𐬭𐬀𐬌𐬌𐬀𐬨?
+ϑrayō paϑō dāhi yaϑa vispō narə aipi-jasaiti.
 
-𐬵𐬀𐬭 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬀𐬌 𐬐𐬀𐬨 𐬀𐬰 𐬐𐬀𐬨 𐬚𐬭𐬀𐬌𐬌𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬎𐬎𐬌𐬛𐬁𐬙𐬀 𐬛𐬀𐬉𐬙𐬀.
-
-| 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 | 𐬠𐬌𐬱𐬙𐬀𐬭 𐬑𐬎𐬎𐬀𐬛 𐬐𐬀𐬭𐬀 | 𐬐𐬀𐬨 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 | 𐬠𐬌𐬱𐬙𐬀𐬭 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 |
+| Varəza | Xvaēpaϑya-tarō | Upastā-vahišta | Pouru-upastā |
 | --- | --- | --- | --- |
-| 𐬗𐬌𐬚𐬭𐬀 𐬠𐬌𐬥𐬔𐬋 | 𐬑𐬎𐬎𐬀 𐬗𐬌𐬚𐬭𐬀 𐬎𐬎𐬌𐬥𐬛𐬀𐬌𐬙𐬌 𐬀𐬌 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬌 | 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬌 𐬨𐬀𐬭𐬆𐬙𐬀 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬌 | 𐬗𐬌𐬚𐬭𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌 𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬌 |
-| 𐬵𐬀𐬨𐬋.𐬔𐬁𐬚𐬀 | 𐬔𐬁𐬚𐬀𐬌𐬙𐬌 𐬔𐬁𐬚𐬀 𐬎𐬎𐬀𐬭𐬀𐬥𐬀𐬌𐬙𐬌 | 𐬵𐬎𐬨𐬀𐬌𐬙𐬌 𐬵𐬀𐬯𐬙𐬀 𐬰𐬀𐬥𐬀𐬌𐬙𐬌 | 𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬌𐬙𐬌 𐬭𐬎𐬨𐬀𐬮 𐬛𐬁𐬭𐬀𐬌𐬙𐬌 |
-| 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬀𐬌 𐬫𐬀𐬛 | 𐬐𐬀𐬚𐬀 𐬔𐬎𐬙𐬀𐬌𐬙𐬌 | 𐬵𐬀 𐬫𐬀 𐬥𐬀 𐬞𐬀𐬯𐬀𐬑 𐬛𐬀𐬉𐬙𐬌 | 𐬛𐬀𐬭𐬆𐬯𐬀 𐬛𐬁𐬭𐬀𐬌𐬙𐬌 𐬀𐬌 𐬯𐬞𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬌 |
-| 𐬎𐬎𐬀𐬗𐬀 𐬀𐬥𐬎𐬎𐬆𐬱𐬀 | 𐬑𐬎𐬎𐬀 𐬗𐬁𐬞𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬌 | 𐬀𐬌 𐬨𐬀𐬵𐬀𐬙 𐬛𐬀𐬭𐬆𐬯𐬀 𐬎𐬎𐬀𐬗𐬀 𐬀𐬥𐬎𐬎𐬆𐬱𐬀𐬌𐬙𐬌 | 𐬎𐬎𐬀𐬗𐬀 𐬯𐬆𐬭𐬀𐬊𐬱𐬀𐬌𐬙𐬌 |
+| Citrā-kəlīda | Xvato citrəm vindaiti aipica aorunaoiti | Upastāra daxštəm daēsiieiti; maš́iiō aorunaoiti | Citrō-kəlīdam darəiti; surunaoiti dīdaēca |
+| Gāϑanā̊ han-gāuua | Sraoiieiti, gāϑam anyam vaēnaiti | Sruye, zasto-paiti, drūm vazaite | Surunaoiti, vastrəm darəiti, zastəm paiti-jasaite |
+| Marəti-hanjamana | Saxvānī sraoiieiti | Aēvəm 'he' vā 'nōit' vā daxšti-fraoca | Draono darəiti hu-bərətaēca |
+| Vācō-pərəsā | Xvaēpaϑyəm nyātəm varəzayeiti | Vācim masō-dōiϑre upastārā vindaiti | Surunaoiti yaϑa vāco paiti-sraoiieinte |
 
-𐬀𐬌 𐬨𐬀𐬭𐬆𐬙𐬀 𐬀𐬌 𐬛𐬆𐬭𐬆𐬖 𐬛𐬆𐬨𐬀𐬥𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀𐬙𐬀𐬭 𐬀𐬌 𐬀𐬌 𐬯𐬞𐬀𐬭𐬆𐬯𐬀 𐬀𐬌 𐬵𐬀𐬯𐬙𐬀 𐬀𐬥𐬛𐬆𐬰𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌. 𐬀𐬉𐬎𐬎𐬀 𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬀𐬌 𐬔𐬀𐬥𐬀 𐬨𐬌𐬌𐬁𐬥 𐬫𐬀 𐬞𐬀𐬯 𐬀𐬰 𐬔𐬀𐬥𐬀 𐬎𐬎𐬀𐬵𐬎 𐬯𐬀𐬑𐬌𐬌𐬀𐬙𐬌. 𐬠𐬌𐬱𐬙𐬀𐬭 𐬀𐬌 [𐬛𐬆𐬭𐬆𐬖 𐬛𐬆𐬨𐬀𐬥𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀](/activities/late-stage/) 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬀.
+Maš́iiāka yōi pasca-gātūm arəzān, NHS sraoiieiti yaϑa varəza frapō-mərəzu bavaiti hu-manō dōiϑrāišca yaϑa gāϑā, draonō-darəna, zasto-paitica. Aēvō-aēvō zrvā hanjamanahmi vā pasca vahištō aēmaiia bavaiti hanjamanāt haomāt. Vaēna [late-stage activities](/activities/late-stage/).
 
-## 𐬭𐬀𐬌𐬙𐬀𐬭𐬀 𐬀𐬌 𐬔𐬀𐬥𐬀 𐬐𐬎𐬎𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬐𐬀𐬭𐬀𐬥𐬙𐬌?
+## Cā-yaϑa ratu hanjamanahmi fravacaiti?
 
-- 𐬵𐬀𐬭 𐬔𐬀𐬵 𐬑𐬎𐬎𐬀 𐬥𐬁𐬨𐬀 𐬔𐬎𐬙𐬀𐬌𐬙𐬀 𐬀𐬌 𐬵𐬀𐬭 𐬨𐬀𐬭𐬆𐬙𐬀 𐬥𐬁𐬨𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀.
-- 𐬀𐬯𐬀𐬥𐬀 𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬀𐬉𐬎𐬎𐬀 𐬀𐬉𐬎𐬎𐬀 𐬔𐬀𐬨 𐬛𐬀𐬉𐬙𐬀 𐬀𐬌 𐬥𐬌𐬱𐬀𐬥𐬀𐬌𐬙𐬀 𐬞𐬀𐬯 𐬔𐬎𐬙𐬀𐬌𐬙𐬀.
-- 𐬭𐬀𐬊𐬱𐬀𐬥 𐬑𐬎𐬎𐬀𐬵𐬀𐬌𐬙𐬀 ("𐬀𐬌 𐬀𐬌𐬥 𐬐𐬀𐬚𐬀 𐬔𐬎𐬙𐬀𐬌𐬙𐬀") 𐬫𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬎𐬎𐬀𐬭𐬀𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬵𐬆𐬗 𐬞𐬆𐬭𐬆𐬯𐬀 𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 ("𐬀𐬌𐬌𐬁 𐬫𐬀𐬛 𐬛𐬁𐬭𐬀𐬌𐬙𐬀?").
-- 𐬭𐬀𐬯𐬙 𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. 𐬵𐬀𐬭 𐬵𐬀𐬨𐬋.𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬀𐬌 𐬯𐬞𐬀𐬯 𐬔𐬎𐬙𐬀𐬌𐬙𐬀.
+- Xvaēpaϑyəm nāməm sraoiie vispəm gātūm, vispāica maš́iiāi kāmo-nāməm mruiie.
+- Mərəzu fravaoca, aēvəm gātūm aēvacit dāhi, daēsiia paoiriiō pasca mrūhi.
+- Pərəsa hu-fravaocā ("Fravaoca ahmāi...") vā hu-kāmā, nōit pərəsō-dātā ("Marəhi-ne...?").
+- Nōit apa-karana. Šnūtarəm daēsiia vispāi varəzāi.
 
-𐬠𐬌𐬱𐬙𐬀𐬭 𐬀𐬌 [𐬵𐬀𐬨𐬋.𐬐𐬀𐬚𐬀 𐬭𐬀𐬌𐬙𐬌𐬱](/caregiving/communication-tips/) 𐬛𐬀𐬭𐬆𐬯𐬀𐬌𐬙𐬀.
+Anyā idā asti ahmahe [communication tips](/caregiving/communication-tips/) paiti.
 
-## 𐬀𐬯𐬀𐬥𐬀 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀 𐬀𐬌 𐬎𐬎𐬀𐬰𐬀 𐬔𐬀𐬨𐬀𐬥
+## Vohu apāna, ramnō para-jasaiti
 
-𐬀𐬎𐬎𐬀 𐬐𐬀𐬭𐬀 𐬎𐬎𐬀𐬵𐬎 𐬞𐬀𐬌𐬙𐬌 𐬀𐬯𐬙𐬌. 𐬀𐬔𐬀𐬭 𐬐𐬀𐬯 𐬯𐬆𐬙 𐬫𐬀 𐬠𐬆 𐬀𐬯𐬀𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌 𐬀𐬉𐬎𐬎𐬀 𐬯𐬀𐬵𐬀𐬌𐬌𐬀 𐬔𐬀𐬙𐬌 𐬫𐬀 𐬀𐬯𐬀𐬥𐬀 𐬥𐬌𐬱𐬀𐬯𐬙𐬌𐬱 𐬞𐬀𐬌𐬱𐬥𐬵𐬀𐬛 𐬐𐬀𐬭𐬀𐬌𐬙𐬀. 𐬀𐬔𐬀𐬭 𐬐𐬀𐬯 𐬀𐬌 𐬵𐬀𐬨𐬋.𐬔𐬁𐬚𐬀 𐬥𐬌𐬛𐬭𐬀 𐬔𐬀𐬨𐬀𐬌𐬙𐬌 𐬀𐬎𐬎𐬀 𐬀𐬯𐬀𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌.
+Paiti-stānəm vohu yānam asti. Dīdīm dāra daxštanąm yaϑa narə qasaoiti, vā vaoiriieite, upastārāca dāhi yō carəm vā ramnō-gātūm anyāi daēsiieiti. Narə yō xᵛafne gāϑā-varəze aēvacit ramnō asti.
 
-𐬵𐬀𐬭 𐬔𐬀𐬥𐬀 𐬀𐬌 𐬀𐬉𐬎𐬎𐬀 𐬭𐬀𐬌𐬙𐬌𐬱 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬀𐬉𐬎𐬎𐬀 𐬔𐬁𐬚𐬀 𐬫𐬀 𐬀𐬉𐬎𐬎𐬀 𐬯𐬞𐬀𐬯 𐬀𐬌𐬙𐬀 𐬫𐬀 𐬞𐬎𐬭𐬥𐬀 𐬐𐬀𐬭𐬀 𐬀𐬯𐬀𐬥𐬀 𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌. 𐬞𐬀𐬯 𐬀𐬰 𐬀𐬥 𐬥𐬆𐬎𐬎𐬌𐬱𐬙𐬀 𐬐𐬀𐬭𐬀𐬌𐬙𐬀 𐬫𐬀 𐬗𐬌𐬱 𐬎𐬎𐬀𐬵𐬎 𐬠𐬎𐬛 𐬀𐬌 𐬐𐬋 𐬗𐬌𐬱 𐬎𐬎𐬀𐬵𐬎 𐬫𐬀𐬯𐬙 𐬀𐬌 𐬀𐬌𐬥 𐬫𐬀𐬛 𐬞𐬀𐬭𐬋 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬎𐬎𐬀𐬵𐬎𐬙𐬀𐬭 𐬐𐬀𐬭𐬀𐬌𐬙𐬌.
+Vispəm hanjamanəm haomō-paϑā apaye, xšnūtā gāϑā vā hu-šnūtā, yaϑa apānam ramnō xšnūto-ca bavaiti. Pasca, nyāta cīš vohu bavaiti kō cīš frapaiti. Aēva nyātā vahištō-tarəm aipi hanjamanəm karanaonti.

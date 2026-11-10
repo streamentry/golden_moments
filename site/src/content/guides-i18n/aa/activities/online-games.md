@@ -1,33 +1,33 @@
 ---
-title: "Bilisa Online Ciyaaroota Dementia Hay'ta Ta"
-seoTitle: "Bilisa Online Ciyaaroota Dementia, Download Hin Gaadhisin"
-description: "Dementia hay'ta ta online ciyaaroota bilisa, browser keessa ida'amu, app ma'ay account ma'ay: suuraa wal-simsiisuu, qooqaysuu, qubbi ta'ay, puzzle suuraa fi hafuura hadhaa. Gorsa ta'ay."
+title: "Kas Tammo Le Marah Bilaash Kaaciyitte, Oobisaanam Maleh"
+seoTitle: "Kas Tammo Le Marah Bilaash Kaaciyitte"
+description: "Kas tammo le marah bilaash kaaciyitte, braawzerit fakkiimta, appi kee akoont maleh: missoose gano, kurus, suurat xabbaco kee assakata, koboxis yab luk."
 section: activities
 order: 22
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Ciyaaroota online bilisa dementia hay'ta ta browser web keessa banu, app ma'ay
-  account ma'ay. Golden Moments keessa ciyaaroota suuraa salaaqqa ta'ay tablet
-  ma'ay kompiyuutara ta'ay: wal-simsiisuu, suuraa wal-fakkaatu barbaaduu,
-  basaaqqa keessa qooqaysuu, puzzle suuraa fi hafuura hadhaa. Namicha sirba
-  ta'ay wajjin taa'i, yeroo inni barbaadu dhaabbadhu. Ciyaarrichi dementia
-  hin hamaadhu, hin dhaabsisu, hin ittisu; faayidaan isaa walitti dhufuu nagaa.
+  Kas tammo luk yan marah xabbacoyta bilaash internet kaaciyitte web
+  braawzerit fakkiimta, appi kee akoont maleh. Golden Moments tablet hinnay
+  kompiyuterit meqenta missoositteh le: gano, inki suurat gurrus, gaarih
+  addal kurus, suurat xabbaco kee salaamih nifas cato. Numuk garil kuraay,
+  usuk faxa waktil meqeenta eesisa. Kaaciyte dementia matacbisa, mamaganta;
+  tu-xiiqo salaam le edde koboxisa meqeenta kinni.
 keyPoints:
-  - "Ciyaaroota filadhu kanneen suuraa beekuun hojjatan, dambii, jecha ykn qabxii yaadachuu barbaachisu hin qabne."
-  - "Ciyaarri browser keessa tablet ykn kompiyuutara irratti banaa, namicha sirba ta'ay taa'i, akka isaan tuuqu ykn agarsiisan gochuu."
-  - "Dhaabbii ykn ekraana guddaa fayyadami, jalqabuu dura notifications fi tab biroo dhaabi."
-  - "Ciyaaroota suuraa suuraa kee browser keessa meeshaa sanatti qabu; suuraa maatii kee kompiyuutara walii qooddatamuu irratti galchuu dura yaada icciitii ilaali."
-  - "Yeroo dursanii dhaabuun bu'aa gaarii dha. Ciyaaroota kana keessa namicha hin lakkaayan, hin qabxiisan."
+  - "Missoose yabaleh aaxaguk meqeenta doora, madqa, qangara hinnay lakqo kassisuk hinna."
+  - "Tablet hinnay kompiyuterit braawzer kaaciyta faka, numuk garil kuraay, usuk suurat yabxeemih idduqa."
+  - "Kaxxam gersi kobox hinnay ibeetisa fayya le kobox baaha, aabisinnaan kassiisiyya kee gersi taabititte fantaaxawa."
+  - "Suurat kaaciyitte fooritte braawzerit daabisa; maashina mara gersi le numuk kobox baaha."
+  - "Waktik duma meqeenta eesisiyya meqe xaloota. Kaaciyittik numtin kas malammaasanta."
 faq:
-  - q: "Ciyaaroota online bilisa maali dementia qabaniif download hin barbaachisu?"
-    a: "Ciyaaroota suuraa salaaqqaan hojjatan gaarii dha: suuraa wal-fakkaatu wal-simsiisuu, suuraa wal-fakkaatu filannoo muraasa keessaa barbaaduu, meeshaa basaaqqa keessa qooqaysuu, fi suuraa qooqaa ta'ee walitti jijjiiruu. Golden Moments keessa browser keessatti ni argamu, download ma'ay fi account ma'ay. Suuraa guddaa filadhu jalqabi."
-  - q: "Ciyaaroonni hafuura hadhaa dementia gargaaraa?"
-    a: "Ciyaarri tokko illee dementia akka fayyaduu, dhaabbatu ykn ittisu agarsiifameera hin beekamu. Federal Trade Commission (FTC) Ameerikaa, kampaaniiwwan 'brain-training' dubbii isaan hin mirkaneessine irratti tarkaanfii fudhateera. Ciyaaroota kana kan ni gammachiisan fi wal-qooddachuuf salphaa waan ta'aniif taphadhu, akka ilaaljechaatti hin taphatinu."
-  - q: "Ciyaaroonni online namicha dementia qabu nagaa?"
-    a: "Hordoffii wajjin nagaa ta'uu danda'u. Meeshaa namichi bade fudhatee dhiisuu danda'u irraa fagaadhi, reklaamii pop-up fi linkiiwwan alaa irraa of eegi, namicha herega ykn kaardii kaffaltii qabu irratti ofuma isaatti hin dhiisin. Suuraa fayyadamuu dura settings privacy meeshaa ilaali."
-  - q: "Namichi ciyaarra tokko irratti aaraa yoo ta'e maal godhamu?"
-    a: "Ciyaarra salphaa ta'uu, suuraa muraasa fayyadamuu, ykn ciyaarra biraa filachuu. Yoo rakkoon isaa guddate meeshaa dhoowwi, nyaata xiqqaa, daandii ykn sirba ta'ee dubbii kaa'i. Ciyaarri rakkoo fidu xumuramuu hin qabu."
+  - q: "Kas tammo le mari oobisaanam maleh ma bilaash internet kaaciyitte digirtaanama?"
+    a: "Missoose xabbacoytah tan kaaciyitte meqe: inki missoose gano, gersi dooqomik inki suurat gurrus, gaari addal tabaabaco, kee suurat cunkus meqenta. Golden Moments braawzerit tayim le, oobisaanam kee akoont maleh. Kaxxam gersi missooseh le dooqot qimbisa."
+  - q: "Kashih meqeenta kas tammoh cato leemii?"
+    a: "Kaaciyta dementia tacbiseemih hinnay magantemih sumaq maleh. U.S. Federal Trade Commission kashih meqeenta abna iyyam magantemih yab gaxe. Kaaciyitte digira kataataamal le xiqot, dacisiyyah hinna."
+  - q: "Internet kaaciyitte kas tammo le numuh xinto leemii?"
+    a: "Dacis luk xinto le. Maashina gersi koboxik wadirra, faatimi kassiisitte kee baxo linkitte waasa, lakqo fakkot num inkic maacisina. Suurat gaxisak duma maashinah amanaytu koboxisa."
+  - q: "Num meqeentak qaraaroobek ma abnaa?"
+    a: "Xabbacoytah tan gersi meqeentat gaxa, suurat lafaasa, hinnay gersi kaaciyta doora. Usuk edde qaraaroobek, maashina kalbisaay makmo, gacta hinnay saare baaha. Qaraaro gacta meqeenta ambuxise kal gaca."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -49,54 +49,54 @@ related: [activities/memory-games, activities/puzzles, activities/ideas, caregiv
 health: false
 ---
 
-Maatiin baay'ee dementia hay'ta ta kan gargaaru ciyaaroota online bilisa barbaadu, sababiin isaas wanta isaan kaffaltii karaa kaa'an, login ykn kaardii kaffaltii hin barbaachisne barbaadu. Filannoowwan gaarii suuraa irratti hundaa'an, salphaa fi dhaabuun salphaa ta'an. Yeroo wal-qooddachuu ta'uu qabu, qormaata hin ta'in. Qajeelfamni kun maal barbaaduu, akkamitti ciyaarra qopheessuu, fi ciyaaroonni kun maal godhuu fi maal godhuu hin danda'in ni ibsa.
+Magan mari bilaash internet kaaciyitte kas tammo le marah gurrusan, kobox baaha kusaagik, akoontik kee lakqo kartik maleh itta luk digiraanama gurrusan waqdi. Meqe dooqom xabbacoyta le, suurat yabaleh, kee waqdi gactam xiqtam kinni. Kaaciyitte itta luk gaba kaluuk aban tu-xiiqo akkik iyye ikke, fanooniyyah hinna. A dacisiyyah kitaab ma baxsaluk gurrusan, kaaciyta mannal daabisan, kee a kaaciyitte ma abtam kee ma abtam aaxaguk yantifiqen.
 
-## Ciyaarri online dementia hay'ta ta irratti gargaaru maal qabaata?
+## Internet kaaciyta kas tammo le marah meqeemim maataaye?
 
-Ciyaarri namoota dementia hay'ta ta qaban baay'ee irratti gargaaru yeroo yaadachuu irra iddoo ilaalchaa barbaadu. Suuraa lama wal-fakkaatu wal-simsiisuu, suuraa wal-fakkaatu qoodu tuquu, ykn meeshaa basaaqqa sirrii keessa kaa'uu, hunduu ijji amma ilaalu irratti hundaa'u. Ciyaaroonni dambii, jecha, lakkoofsa ykn tarkaanfii dura yaadachuu barbaadan rakkoo fidu.
+Kaaciyta kas tammo luk yani marah meqe taah inti yableh xiqtaamah digiraanaamal, kassisiyya faxxaamal hinna. Namma inki missoose gano, celta le suurat tabbaaxiyya, hinnay missoose meqe gaarit xayyoyya, inkih inti ta wagtat yableemit qimbisa. Madqa, qangara, lakqo hinnay dumi taama kassisiyyah tan kaaciyitte qaraaro bahta.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) namicha wanta isaan ammallee jaalatan fi danda'an irratti hundaa'u, akkasumas isaan ol-ka'uu danda'an gochuu gorsa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yeroo dandeettiin jijjiiramu, hojii salphisuu malee dhiisuu hin gorsu.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) num faxeemi kee abam xiqeemit taamita abaanam kassiise, gaba kalik maleh yamaatam xiqaanam faxximta. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) meqeentat xabbaco baahaanam kassiise, numuk xiqo tunkuxe waqdi meqeenta cabaanam faxximtam makinna.
 
-## Golden Moments ciyaaroota browser keessa banuu dandeessan
+## Golden Moments kaaciyitte web braawzerit fakkiimta
 
-Ciyaaroonni armaan gadii hunduu website irraa download malee banu. Baay'een isaanii tablet ykn kompiyuutara irratti taphatu; muraasni isaanii ni maxxanfamuu danda'u.
+Gubal tan kaaciyitte website-k oobisaanam maleh fakkiimta. Maganta tablet hinnay kompiyuterit digirta; gersitte maktaba luk tunkuttubem xiqta.
 
-- **[Suuraa wal-simsiisuu](/games/picture-pairs/).** Suuraa guddaa wal-simsiisuu, suuraan ni agarsiifama, yeroo ykn qabxiin hin jiru. Jalqabaaf gaarii.
-- **[Wal-fakkaatu barbaaduu](/games/find-the-same/).** Suuraa tokko gubbaa, isa wal-fakkaatu gadi keessa filannoo lama hanga afur keessaa.
-- **[Shadow match](/games/shadow-match/).** Gubbaa fakkii laafaa mul'ata; suuraa fakkii sana ta'e tuqi.
-- **[Wal-qooddachuu](/games/sort-together/).** Suuraa tuqi, booda basaaqqa isa qabu, akka mana nyaataa ykn bosona.
-- **[Puzzle suuraa](/games/picture-puzzle/).** Suuraan qooqaa ta'a; suuraa guutuun gorsa ta'ee ni mul'ata.
-- **[Jecha xumuruu](/games/finish-the-saying/).** Jechoota beekamoo jecha dhumaa hin qabne; filannoo tuqi ykn dhumaa agarsiisi.
-- **[Kaardota dubbii](/games/conversation-cards/).** Kaardota suuraa gaafii banaa dubbachuuf, ilaalchaa hin ta'in. Ni maxxanfamuu.
-- **[Suuraa wal-simsiisuu](/games/photo-pairs/).** Suuraa meeshaa keessatti filattan irraa wal-simsiisuu. Suuraan browser keessa meeshaa sana keessa ni turu.
-- **[Hafuura hadhaa](/games/calm-breathing/).** Dhaabbannaa fi callisaa hafuura wal-fakkaatanii fudhachuu. Ati jalqabdu, ati dhaabdu.
+- **[Picture pairs](/games/picture-pairs/).** Kaxxa gano missoositteh le, waktu hinnay lakqo maleh. Qimbisa meqeentah meqe.
+- **[Find the same](/games/find-the-same/).** Fayyal inki suurat yan, gubal nammaak afarah tan dooqot inki suurat gurrus.
+- **[Shadow match](/games/shadow-match/).** Fayyal celta le suurat yamballuk; tama suurat haytam tabbaaxa.
+- **[Sort together](/games/sort-together/).** Suurat tabbaaxaay, tohik sarra meqe gaarit hay, garo hinnay buro gaarit.
+- **[Picture puzzle](/games/picture-puzzle/).** Suurat cunkusleeh, inki xinto missoose cato koboxuh taamita.
+- **[Finish the saying](/games/finish-the-saying/).** Qangara kassiisa meqeenta, ellecabo qangara kalik; meqe dooqot tabbaaxa hinnay ellecabo numuh yayballaawa.
+- **[Conversation cards](/games/conversation-cards/).** Suurat kaarditte yab facsiyyah, fanooniyyah hinna. Maktabat koboxisan.
+- **[Photo pairs](/games/photo-pairs/).** Isinnik doortan suuratittek gano abtan. Fooro maashina braawzerik mawaqta.
+- **[Calm breathing](/games/calm-breathing/).** Salaam luk itta luk nifas baahaanaama. Isin qimbisaanaay isin eesistan.
 
-Word search, coloring fi bingo suuraa ammoo galmee maxxanfamuu ta'anii argamu. Dabalata ilaaluuf [free printable dementia activities](/activities/printable/) ilaali.
+Qangara gurrus, kuluub kurus kee missoose bingo maktabat kutbe dooqot yan. [free printable dementia activities](/activities/printable/) dacisaay gersi wagsiisaanama geyta.
 
-## Akkamitti yeroo ciyaaraa qopheessuu
+## Mannal meqeenta daabisaanaaye
 
-1. **Yeroo callisaa filadhu** yeroo namichi boqotee jiru. Galgala boodaa maaltu namoota tokko tokkoof rakkisa, kanaaf gurra kee dura ilaali.
-2. **Ekraana guddaa fayyadami.** Tablet stand irratti, ykn kompiyuutara browser zoom godhame, ilaaluu fi tuquu salphaa.
-3. **Tab biroo cufi, notifications dhaabi.** Pop-up ariifataa ta'uun ni dhiisa, yeroo gaarii kan ta'e ni cabsa.
-4. **Namicha bira taa'i, faana hin taa'in.** Wal-ilaaluun akka wal-qabatamaa ta'a, qormaata hin ta'in.
-5. **Ciyaarra tokko daqiiqaa shan hanga kudha qopheessi.** Namicha ekraana tuquu ykn tuqi, ati ni yeroo fudhatti.
-6. **Gaariin xumuri.** Marfaa xumuri, booda suuraa tokko ykn shaayii tokko dubbadhu.
+1. **Salaam le waktu doora**, num saami gey waqdi. Carra duma marih caddol gibdi takkem xiqta, sinni waktih dooqom duma yaaxagen.
+2. **Kaxxam gersi kobox intit haya.** Tablet ibeetisal, hinnay kompiyuter braawzer kaxxisuk yableenim kee tabbaaxaanam xabbaco le.
+3. **Gersi tabitte fantaaxawaay kassiisitte waasa.** Barta kassiisitte num qaraariseh meqe saami baysa.
+4. **Numuk garil kuraay, foocah manna.** Itta luk wagitto maro kobox celtaah, fanooniyya macelta.
+5. **Inki kaaciyittat konok tabna daqiiqat qimbisa.** Num screen tabbaaxuuh hinnay gaba oggolu waqdi ittal gaca.
+6. **Meqe xalootal meqeenta eesisa.** Inki maro gaba kaluuk sarra, suurat wagsiisak yaba hinnay shaahi kobox qimbiisa.
 
-## Icciitii fi nageenya meeshaa wal-qooddatamuu irratti
+## Amaana kee dacisiyya maashinat
 
-- **Suuraan meeshaa irratti turu.** Suuraa wal-simsiisuu suuraa ati filatte fayyadama, browser keessa meeshaa sanatti turu. Namoonni biroo kompiyuutara ykn tablet banuu danda'an ilaali.
-- **Linkii alaa fi reklaamii irraa of eegi.** Ciyaaroota website irraa kallattiidhaan fayyadami, bannaraa ykn gaaffii odeeffannoo ofiif gaafatan hin cuqaasin.
-- **Kaffaltii fi account adda baasi.** Namicha paasawoordii ykn lakkoofsa kaardii gaafatu irratti ofuma isaatti hin dhiisin.
-- **Deemuu irraa of eegi.** Namichi manaa ba'uu danda'u yoo ta'e, tablet fageenya isaa keessa hin kaa'in.
+- **Suurat maashinat cabta.** Photo pairs isin doortan suuratittey braawzerit cabtaah mawaqta. Iyya kompiyuter hinnay tablet fakam xiqtam dacisa.
+- **Baxo linkitte kee gersi yabak wadirra.** Meqeenta website-k direct digira, sinni yab faxa fakkitte ma-tabbaaxina.
+- **Lakqo fakkitte kee akoontitte wadirra.** Baaswoord hinnay kart lakqo le koboxut num inkic macabina.
+- **Farta gurrusu waasa.** Tablet num baaheh baxo mawaku kal kobox dacisa.
 
-Qajeelfama guddaa ilaaluuf, [how to choose dementia apps and games](/caregiving/choosing-apps-and-games/) fi [setting up a tablet or phone](/caregiving/tablets-and-screens/) ilaali.
+Kaxxam gersi wagsiisak, [how to choose dementia apps and games](/caregiving/choosing-apps-and-games/) kee [setting up a tablet or phone](/caregiving/tablets-and-screens/) wagit.
 
-## Ciyaaroonni kun maal godhu fi maal hin godhu
+## Ta meqeentitte ma abtam kee ma abtam
 
-Ciyaaroonni online namoota dementia hay'ta ta qaban yeroo gammachiisu, suuraa wspólnie ilaaluu, fi rakkoo malee wal-qabatu kennu. Dementia hin fayyaduu, hin dhaabsisu, hin ittisu. Fakkeenya beekamaa tokko [Federal Trade Commission's 2016 action against Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) dha, dubbii brain-training isaan mirkaneessuu hin dandeenye irratti. Ciyaarra, app ykn website kamiyyuu yoo yaadachuu fooyyessuu ykn sammuu kee madaaluu ykn hir'ina deebisuu dandeessu jedhe, akka hin amanne of eegi.
+Internet kaaciyitte kas tammo le marah saami yaceeh, missoositte itta luk yableenim kee gaba kalik digiraanama cato le. Kas tammo matacbisa, mamaganta, mawissikissaa. Yab le dooqom [Federal Trade Commission's 2016 action against Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) kashih meqeenta wagsiisak yab yibbixem kassisisa. Kas meqento, kashih lakqo hinnay xinto gaba kaltam iyyi meqeenta meqeentaak eedega.
 
-Ciyaaroota kana guyyaa keessaa kan muuziqaa, daandii, dubbii fi boqonnaa wajjin of keessaa qabu keessaa tokko godhaa. Akkamitti ciyaaroota callisaa godhuu fi qormaata hin taasisin barreeffama dubbisuuf, [how to play games with someone who has dementia](/caregiving/how-to-play-together/) fi [memory games that do not test](/activities/memory-games/) ilaali.
+Ta kaaciyitte maaqattak inki dooqom akkay, saare, gacta, yab kee salaam luk abnaama. Meqeentit salaam mannal baahan wagsiisak, [how to play games with someone who has dementia](/caregiving/how-to-play-together/) kee [memory games that do not test](/activities/memory-games/) wagit.
 
-## Yeroo dhaabuu
+## Waqdi eesisan
 
-Namichi yoo boqotee, gaddaa, aaraa ykn kaabaa yoo ta'e dhaabi. Yoo fedhii isaa dhaabe dhaabi. Yeroo dursanii dhaabuun bu'aa gaarii dha. Guyyaa biraa deebi'uu ykn dubbii, daandii ykn callisaa filachuu ni dandeessa.
+Num daala yable waqdi, qaraaroobaah, hinnay cato wayti waqdi meqeenta eesisa. Faxxeemi wayti waqdi eesisa. Waktik duma meqeenta eesisiyya meqe xaloota. Gersi maalol gactan, hinnay yab kee gactat gartan.

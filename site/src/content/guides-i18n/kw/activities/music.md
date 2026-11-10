@@ -98,7 +98,7 @@ Rag gwrians yskynna gans geryow aswonys, assayewgh [gorfenna an lavar](/games/fi
 
 An Alzheimer's Association a brof usya ilow dhe wul an vro a vynnowgh: ilow kosel rag ayrgylgh kosel, ha kan bewek dhyworth yowynkneth nebonan dhe dhrehevel an spyrys.
 
-| Pols | Assayewgh | Ky | 
+| Pols | Assayewgh | Ky |
 | --- | --- | --- |
 | Dihuni | Kan aswonys, lowenek | An keth kan pub myttin a dheu ha bos arwodh kosel |
 | Oberennow tre | Kanow meurgerys, bewek | Ilow a yll gul ober heveli koweth |

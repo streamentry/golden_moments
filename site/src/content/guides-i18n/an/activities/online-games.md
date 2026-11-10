@@ -1,34 +1,28 @@
 ---
-title: "Chuegos en linia gratuitos para demencia, sin descargar"
-seoTitle: "Chuegos gratuitos para demencia, sin descargar"
-description: "Chuegos en linia gratuitos para personas con demencia, en o navegador, sin aplicazión ni cuenta: imachens, clasificar, rompecabezas y respiración calma."
+title: "Chuegos en linia gratuitos pa la demencia, sin descargar"
+seoTitle: "Chuegos gratuitos en linia pa la demencia, sin descargar"
+description: "Chuegos en linia gratuitos pa persones con demencia, en un navegador y sin aplicación ni cuenta: emparellar imaches, clasificar, puzles y respirar con calma."
 section: activities
 order: 22
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Los chuegos en linia gratuitos más fáciles para personas con demencia se
-  abren en un navegador web, sin aplicazión ni cuenta. Golden Moments tiene
-  chuegos sinzillos con imachens para una tableta o un ordenador: parellar,
-  trobar a mesma imachen, clasificar en cestos, un rompecabezas de imachens y
-  una pausa de respiración lenta. Sién-se chunto a la persona y pare cuan
-  quiera. Denguno d'estos chuegos trata o previene la demencia; o valor ye una
-  actividat tranquila y compartida.
+  Os chuegos en linia más fáciles pa persones con demencia se abren en un navegador web, sin aplicación ni cuenta. Golden Moments tiene chuegos sencillos de imaches pa una tableta u ordenador: emparellar, buscar la mesma imache, clasificar en cestas, un puzle de imaches y una pausa de respiración lenta. Asiéntese al costato de la persona y pare cuando vusté quiera. Denguno d'estos chuegos cura, frena ni previene la demencia; lo valor ye una actividad tranquila y compartida.
 keyPoints:
-  - "Triga chuegos que funcionen reconoxiendo una imachen, no recordando una regla, una parola o una puntuación."
-  - "Abre un chuego en o navegador d'una tableta o un ordenador, sién-se chunto a la persona, y deixa que toque o sinyale."
-  - "Use una pantalla más gran o un soporte, y desactive as notificazions y as demás pestanyas antes de empezar."
-  - "Os chuegos con fotos guardan las fotos en o navegador d'o dispositivo; mire las notas de privacidat antes de agregar fotos d'a familia en un ordenador compartido."
-  - "Parar pronto ye un buen resultau. Denguna d'estas chuegos mide ni puntúa a la persona."
+  - "Triar chuegos que funcionan reconoixendo una imache, no recordando una regla, una parola o una puntuación."
+  - "Abrir un chuego en o navegador d'una tableta u ordenador, asentarse al costato de la persona y dixar que toque a pantalla u sinye."
+  - "Usar una pantalla más gran u un soporte, y desactivar as notificacions y as atras pestanyas antes de començar."
+  - "Os chuegos con fotos guardan as fotos en o navegador d'o dispositivo; mire as notas de privacidat antes d'anyadir fotos familiars en un ordenador compartito."
+  - "Parar antes ye un buen resultau. Denguno d'estos chuegos mide ni puntúa a la persona."
 faq:
-  - q: "Qué chuegos gratuitos en linia pueden chugar as personas con demencia sin descargar?"
-    a: "Los chuegos sinzillos con imachens funcionan millor: parellar imachens iguals, trobar la mesma imachen entre pocas opcions, clasificar cosas en cestos, y una imachen partida en pezas que se pueden cambiar. Golden Moments tiene estos en o navegador, sin descargar y sin cuenta. Empiece con la opción de imachen más gran que pueda trobar."
-  - q: "Los chuegos de entrenamiento mental ayudan con a demencia?"
-    a: "Denguno chuego se ha demostrau que trate, alentise o prevenga la demencia. A Comisión Federal de Comercio de EE.UU. (U.S. Federal Trade Commission) ha actuau contra empresas de entrenamiento mental por alegazions que no podían justificar. Chueguen estos chuegos porque son agradables y fáciles de compartir, no como terapia."
-  - q: "Son seguros os chuegos en linia para una persona con demencia?"
-    a: "Pueden serlo, con supervisión. Tienga o dispositivo fuera d'o alcance de quien pueda irse con él, evite anuncios emerchents y enlaces externos, y no deixe nunca a una persona sola ant una pantalla de pagos o cuentas. Revise la configuración de privacidat d'o dispositivo antes de usar fotos."
-  - q: "Qué pasa si la persona se frustra con un chuego?"
-    a: "Cambie a una versión más fácil, use menos imachens, o pruebe otro chuego. Si se disgusta, guarde o dispositivo y sucherilo una merienda, un paseo o una canzón. Un chuego que causa angustia no bal la pena terminar."
+  - q: "¿Qué chuegos en linia gratuitos puede jugar una persona con demencia sin descargar?"
+    a: "Los chuegos de imaches sencillos funcionan millor: emparellar imaches iguals, buscar la mesma imache entre unas poquas opcions, clasificar cosas en cestas, y una imache partita en pezas que se pueden cambiar. Golden Moments tiene estos chuegos en o navegador, sin descargar y sin cuenta. Empece con la opción de imache más gran que trobe."
+  - q: "¿Los chuegos de entrenamiento mental ayudan con la demencia?"
+    a: "Denguno chuego ha demostrau que trate, frene ni prevenga la demencia. La Comisión Federal de Comercio de los Estados Unidos (FTC) ha actuau contra empresas de chuegos de entrenamiento mental por afirmacions que no podían justificar. Juegue a estos chuegos porque son agradables y fáciles de compartir, no como terapia."
+  - q: "¿Son seguros los chuegos en linia pa una persona con demencia?"
+    a: "Pueden serlo, con supervisión. Mantenga o dispositivo fuera del alcance de quien pueda irse de casa con él, evite as ventanas emerchents y os enlaces externos, y no deixe nunca a la persona sola en una pantalla de pagos o de cuenta. Mire a configuración de privacidat d'o dispositivo antes de usar fotos."
+  - q: "¿Qué pasa si la persona se frustra con un chuego?"
+    a: "Cambie a una versión más fácil, use menos imaches o pruebe otro chuego. Si se disgusta, guarde o dispositivo y propose un refrigerio, un paseo o una canción. Un chuego que causa angustia no bale la pena acabar-lo."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,54 +44,54 @@ related: [activities/memory-games, activities/puzzles, activities/ideas, caregiv
 health: false
 ---
 
-Muitas familias buscan chuegos en linia gratuitos para demencia porque quieren fer quarque cosa chuntos sin necesidat de una tienda, un usuario ni una tarcheta de crédito. As mijors opcions son sinzillas, basadas en imachens y fáciles de parar. Han de sentir-se como un momento compartiu, no como una prueba. Esta guía explica qué buscar, cómo preparar un chuego y qué pueden y qué no pueden fer estos chuegos.
+Muitas familias buscan chuegos en linia gratuitos pa la demencia porque quieren fer algo chuntos sin necesitar una tienda, una cuenta ni una tarxeta de credito. Las mejores opcions son sencillas, basadas en imaches y fáciles de parar. Han de sentir-se como un momento compartito, no como una prueba. Esta guía explica qué buscar, como preparar un chuego y qué pueden y qué no pueden fer estos chuegos.
 
-## Qué fa a un chuego en linia adequau para a demencia?
+## ¿Qué fa que un chuego en linia sía apropiau pa la demencia?
 
-Un chuego ye adequau para la mayoría de personas con demencia cuan pide reconoxer en vez de recordar. Parellar dos imachens iguals, tocar la imachen que coincide con una sombra o meter un obchecto en o cesto correcto se basan en lo que los güellos ven en este momento. Los chuegos que dependen de recordar una regla, una parola, un número o un movimiento anterior tienden a causar frustrazión.
+Un chuego ye apropiau pa la mayoría de persones con demencia cuando pide reconoixer en vez de recordar. Emparellar dos imaches iguals, tocar la imache que correspon a una sombra u dexar un objeto en a cesta correcta se basan en lo que los güellos ven en este momento. Los chuegos que dependen de recordar una regla, una parola, un numero u una jugada anterior tienden a causar frustración.
 
-A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) recomienda actividaz que se basen en lo que una persona todavía disfruta y puede fer, y que la dexen tener éxito sin ayuda. O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suchiere simplificar una actividat en cuenta de dexarla cuan cambian las capazidaz.
+La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) recomienda actividades que partan de lo que la persona aún disfruta y puede fer, y que la dexen tener exito sin ayuda. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggiere simplificar una actividad en vez de renunciar a ella cuando cambian as capacidades.
 
 ## Chuegos de Golden Moments que puede abrir en un navegador
 
-Cada chuego d'abaixo se abre desde a web sin descargar nada. A mayoría se chuega en una tableta o un ordenador; unos puede imprimir-se tamién.
+Cada chuego d'abaixo se abre dende la web sin descargar res. La mayoría funciona en una tableta u ordenador; alguns tamién se pueden imprimir.
 
-- **[Parellas de imachens](/games/picture-pairs/).** Parellas grans con as imachens a la vista, sin cronómetro ni puntuazión. Bueno para o primer chuego.
-- **[Trobar la mesma](/games/find-the-same/).** Una imachen arriba, y la mesma entre dos a cuatro opcions abaixo.
-- **[Parellar sombra](/games/shadow-match/).** Una sombra sinzilla aparece arriba; toque la imachen que la forma.
-- **[Clasificar chuntos](/games/sort-together/).** Toque una imachen, y luego o cesto que li correspuesta, como cocina o chardín.
-- **[Rompecabezas de imachens](/games/picture-puzzle/).** Una imachen se parte en pezas y a imachen completa se queda a la vista como guía.
-- **[Acabar o refrán](/games/finish-the-saying/).** Refranes conoixidos con a zaguera parola fata; toque una opción o muestre o final.
-- **[Tarchetas de conversa](/games/conversation-cards/).** Tarchetas con imachens y preguntas abiertas para charrar, no para examinar. Tamién se pueden imprimir.
-- **[Parellas de fotos](/games/photo-pairs/).** Parellas hechas con fotos que vusted triga en o dispositivo. As fotos se quedan en o navegador d'ese dispositivo.
-- **[Respiración calma](/games/calm-breathing/).** Una pausa lenta y tranquila para respirar chuntos. Vusted la empecipia y vusted la para.
+- **[Emparellar imaches](/games/picture-pairs/).** Parellas grans de imaches iguals, con as imaches a la vista, sin cronómetro ni puntuación. Bueno pa un primer chuego.
+- **[Buscar la mesma](/games/find-the-same/).** Una imache arriba, y la mesma entre dos a cuatro opcions abaixo.
+- **[Emparellar sombra](/games/shadow-match/).** Una sombra suau aparece arriba; toque la imache que la fa.
+- **[Clasificar juntos](/games/sort-together/).** Toque una imache y dimpués la cesta a la que pertenece, como cocina u chardín.
+- **[Puzle de imaches](/games/picture-puzzle/).** Una imache se parte en pezas y la imache completa se queda a la vista como guía.
+- **[Acabar o refrán](/games/finish-the-saying/).** Refranes familiars con a última parola que falta; toque una opción u muestre o final.
+- **[Tarxetas de conversación](/games/conversation-cards/).** Tarxetas con imaches y preguntas abiertas pa charrar, no pa examinar. Tamién se pueden imprimir.
+- **[Parellas de fotos](/games/photo-pairs/).** Parellas hechas con fotos que vusté triga d'o dispositivo. As fotos se quedan en o navegador de ese dispositivo.
+- **[Respiración tranquila](/games/calm-breathing/).** Una pausa lenta y silenciosa pa respirar chuntos. Vusté la empecha y vusté la para.
 
-Tamién hai sopas de letras, pintar y bingo de imachens como actividaz imprimibles. Vea [actividaz imprimibles gratuitas para demencia](/activities/printable/) para más.
+Tamién hay sopas de letras, pintar y bingo de imaches como actividades pa imprimir. Vea [actividades pa imprimir pa la demencia](/activities/printable/) pa más.
 
-## Cómo preparar una sesión de chuego
+## Como preparar una sesión de chuego
 
-1. **Triga un momento tranquilo** cuan la persona está descansada. A tarde puede ser más difícil para unas personas, asinas que revise primero o suyo propio patrón.
-2. **Use una pantalla más gran.** Una tableta en un soporte, o un ordenador con o navegador ampliau, se ve y se toca más fácil.
-3. **Zarre as demás pestanyas y desactive as notificazions.** As ventanas emerchentes repentinas asustan y pueden acabar una sesión buena.
-4. **Sién-se chunto a la persona, no enfrent.** Mirar chuntos paezca más compañía y menos una prueba.
-5. **Empiece con un chuego de cinco a diez minutos.** Deixe que la persona toque a pantalla o sinyale mientres vusted y ella se turnan.
-6. **Acabe bien.** Termine una ronda y luego charre sobre una imachen o suchiera una tasa de té.
+1. **Triga un momento tranquilo** en que la persona esté descansada. A tarde suele ser más difícil pa alguns, asinas que compruebe primero o suyo propio patrón.
+2. **Use una pantalla más gran.** Una tableta en un soporte, u un ordenador con o navegador ampliau, se ve y se toca mejor.
+3. **Cierre as atras pestanyas y desactive as notificacions.** Las ventanas emerchents repentinas asustan y pueden acabar una buena sesión.
+4. **Asiéntese al costato de la persona, no enfrent.** Mirar chuntos se siente más como compañía y menos como una prueba.
+5. **Empece con un chuego de cinco a diez minutos.** Dixe que la persona toque a pantalla u sinye mientres vusté y ella se turnan.
+6. **Acabe bien.** Termine una ronda y dimpués charre sobre una imache u proposé una tacita de té.
 
-## Privacidat y seguridat en dispositivos compartius
+## Privacidat y seguranza en dispositivos compartitos
 
-- **As fotos se quedan en o dispositivo.** As parellas de fotos usan fotos que vusted triga, y se quedan en o navegador d'ese dispositivo. Mire quién más puede abrir o ordenador o la tableta.
-- **Evite enlaces externos y anuncios.** Use os chuegos directament desde a web, y no faga clic en banners ni avisos que pidan datos personals.
-- **Mantenga separaus los pagos y las cuentas.** No deixe a la persona sola ant una pantalla que pida una contrasenya o un numero de tarcheta.
-- **Vigile si se pueda perder.** Tienga una tableta fuera de alcance si la persona puede salir de casa con ella.
+- **As fotos se quedan en o dispositivo.** Las parellas de fotos usan fotos que vusté triga, y se quedan en o navegador de ese dispositivo. Mire quién más puede abrir o ordenador u a tableta.
+- **Evite enlaces externos y anuncios.** Use los chuegos dende a web misma, y no faga clic en banners ni en avisos que pidan datos personals.
+- **Mantenga separados los pagos y las cuentas.** No deixe a la persona sola con una pantalla que pida una contraseña u un numero de tarxeta.
+- **Vigile si la persona puede irse.** Mantenga una tableta fuera de su alcance si la persona puede salir de casa con ella.
 
-Para una lista más completa, vea [cómo triar aplicazions y chuegos para demencia](/caregiving/choosing-apps-and-games/) y [preparar una tableta o un teléfono](/caregiving/tablets-and-screens/).
+Pa una lista más completa, vea [como triar apps y chuegos pa la demencia](/caregiving/choosing-apps-and-games/) y [como configurar una tableta o un teléfono](/caregiving/tablets-and-screens/).
 
 ## Qué pueden y qué no pueden fer estos chuegos
 
-Los chuegos en linia dan a las personas con demencia la oportunidat de disfrutar un momento, de mirar imachens chuntos y de participar en quarque cosa sin presión. No tratan la demencia, no la alienten y no la previenen. Un ejemplo muy conoxiu ye la [acción de la Comisión Federal de Comercio de 2016 contra Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) por alegazions de entrenamiento mental que no podían justificar. Tienga cuidau con cualsiquier chuego, aplicazión o web que prometa mexor memoria, puntúe o cerebro o diga que puede invertir o deterioro.
+Los chuegos en linia dan a las persones con demencia la oportunidad de disfrutar un momento, de mirar imaches chuntos y de participar en algo sin presión. No tratan la demencia, no la frenan ni la previenen. Un ejemplo muy comentau es la [acción de la Comisión Federal de Comercio de 2016 contra Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) por afirmacions de entrenamiento mental que no podían justificar. Desconfíe de cualsiquier chuego, app u web que prometa mejor memoria, que puntúe o cerebro u que diga que puede revertir o deterioro.
 
-Use estos chuegos como una parte d'un día que tamién incluya música, paseos, charra y descanso. Para leer sobre cómo fer que los chuegos sigan relaxaus en cuenta de tensos, vea [cómo chugar con alguien con demencia](/caregiving/how-to-play-together/) y [chuegos de memoria que no examinan](/activities/memory-games/).
+Use estos chuegos como una parte d'un día que tamién incluya música, paseos, charra y descanso. Pa leer como facer que los chuegos sían relaxaus y no tensos, vea [como jugar con alguien que tiene demencia](/caregiving/how-to-play-together/) y [chuegos de memoria que no examinan](/activities/memory-games/).
 
-## Cuan parar
+## Cuando parar
 
-Pare cuan la persona paezca cansada, inquieta, frustrada o incomoda. Pare cuan perda l'interés. Parar pronto ye un buen resultau. Siempre puede tornar otro día, o cambiar a charra o a un paseo.
+Pare cuando la persona parezca cansada, inquieta, frustrada o incomoda. Pare cuando perda o interés. Parar antes ye un buen resultau. Siempre puede tornar otro día, u cambiar a una charra o a un paseo.

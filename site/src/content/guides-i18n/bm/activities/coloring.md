@@ -1,28 +1,28 @@
 ---
-title: "Kɔlɔrɛli kɛlɛw Alzheimer ni dementia ye"
-seoTitle: "Kɔlɔrɛli Alzheimer ni dementia ye"
-description: "Kɔlɔrɛli Alzheimer walima dementia la mɔgɔw ye: mɔgɔkɔrɔ sɛnɛnw, cɛnɛ jɛlɛn, tablet kɛlɛ ni kɔlɔrɛli dɔnkili, ani ko minnu bɛ se ka a sɔrɔ sɛgɛn kɔ tɛ."
+title: "Kolorisɛ fɛn Alzheimer ni dementia la"
+seoTitle: "Kolorisɛ Alzheimer ni dementia la"
+description: "Kolorisɛ mɔgɔw bɛ Alzheimer walima dementia la: mɔgɔkɔrɔ sɛbɛnw, kɔlɔ bɔnɛ ni kɔlɔ ɲɛnamaw, sɛbɛnw ni kɔnɔ jɔyɔrɔ, ani sɔrɔ ka bɔ ni sɛnɛ."
 section: activities
 order: 25
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Kɔlɔrɛli ye kɛlɛ ɲuman ye, ani a tɛ jaabi tɔgɔ kɛ. Ɲɛ tɛ yɔrɔ min na jaabi kɔnɔna. A bɛ se ka sɔrɔ waati o waati. Alzheimer walima dementia la mɔgɔw ye, aw ka mɔgɔkɔrɔ sɛnɛnw sugandi, ani aw ka cɛnɛ jɛlɛn, cɛnɛ ka bon ni cɛnɛ jɛlɛn ka ɲa ka ɲɛ. Aw sigi u ye, aw ka kɔlɔw tanu, aw kaŋa cɛ, ani mɔgɔ ka se ka yɛrɛ ka sɛgɛn sɔrɔ. Tablet kɛlɛ ni sɛnɛ kɔnɔ kɔlɔrɛli ka kɛlɛ, o bɛɛ ye sugandi ye.
+  Kolorisɛ ka ɲɛ, a tɛ jɛlɛn ni tɛ kan ni tɛ kɛ hakilina ye, ani o bɛ se ka bɔ tuma o tuma. Alzheimer walima dementia bɛ mɔgɔ la, sugandi sɛbɛnw minnu ka jɛlɛnw bɛ ɲɛnɛ, ani kɔlɔ bɔnɛ minnu ka ɲɛ, o sugandi ka ɲɛ. Aw sigi u ye, kɔlɔ minnu bɛ sɛbɛn na, o tɔɔrɔ ka fɛ, ani i ka sɔrɔ ka bɔ ni sɛnɛ. Kolorisɛ tilayɔrɔ ni sɛbɛn kɔlɔ bɛ se ka kɛ.
 keyPoints:
-  - "Mɔgɔkɔrɔ sɛnɛnw sugandi, i ko sɛnɛ ka bon, sigicɛ ni fɛnw, ani kɔlɔrɛli ka sɛnɛ mɔgɔkɔrɔ, o ye ɲuman ye. Denw ka sɛnɛnw tɛ se ka sugandi."
-  - "Cɛnɛ jɛlɛn, kɔlɔrɛli ka cɛnɛ bon walima cɛnɛ dɔ ka ɲa ye. Kɔlɔrɛli kɛlɛ tɛ ɲɛnɛma ni cɛnɛ kɛ."
-  - "Tablet kɔnɔ, i bɛ kɔlɔ dɔ tanu, o kɔfɛ i bɛ sɛnɛ dɔ tɛmɛ. O bɛ se ka kɛ ni mɔgɔ ka kɛlɛn ka tɛ jɔ ye."
-  - "Kuma kɔlɔw ni sɛnɛ kɔnɔ fɛnw ko, mɔgɔ ka sɛgɛn tɛ kɔlɔ ka kɛlɛ. Aw kuma ka ɲɛnɛma ko, ni cɛnɛ ka bon ko, o ye fɛn ye."
-  - "Waati dɔ kɔ sɛgɛn kɔ tɛ ka ɲi. Kɔlɔrɛli waati sɛgɛn dɔ kɔnɔ, o ye kɛlɛ bɛɛ ye."
+  - "Sugandi mɔgɔkɔrɔ sɛbɛnw sugandi, i n'a fo sogow ni fɛn ɲɔgɔnw ni sɛbɛn fitinw, a tɛ sugandi denw ye."
+  - "Kolorisɛ bɔnɛ ka ɲɛ, ka a ɲɛ sɛbɛnw ni pɛnsili jɛmanw ye. Sɛbɛn ka jɔ ka sigi, ani kɔlɔ jɛlɛnw ka tɛmɛn."
+  - "Kolorisɛ bɛ se ka kɛ tilayɔrɔ la: kɔlɔ jɛlɛn ka kɛ, o kɔnɔ sɛbɛnw kan kɛ. O tɛ kan ka ɲɛ kɛ sɔrɔ."
+  - "Kuma kɔlɔ ni sɛbɛn kan, a tɛ kuma ko mɔgɔ ye kɔnɔ kɔrɔ ni ye yɔrɔ ni ye yɔrɔ ka sɛbɛn fɛ."
+  - "Sɔrɔ ka bɔ ni sɛnɛ, a tɛ fɛn ɲɔgɔn ye. Kolorisɛ ni ɲɔgɔn ka miniti dɔw ye kɛlɛ ye kɛlɛ ɲɔgɔn ye."
 faq:
-  - q: "Kɔlɔrɛli ka ɲi Alzheimer la mɔgɔw ye wa?"
-    a: "A ye kɛlɛ ɲuman ye, ani mɔgɔ caman bɛ a sɔn ka hɔrɔnya. A tɛ hakili kɛlɛ, ani jaabi tɔgɔ tɛ. A tɛ dɔgɔtaari ye, ani nin kɛlɛ tɛ fɔ ko a bɛ bana dɔgɔya. Aw ka a ye kɛlɛ ɲuman ye mɔgɔ fɛɲɛ."
-  - q: "Mun ye sɛnɛ kɔlɔrɛli kɛlɛw ɲuman ye dementia la mɔgɔkɔrɔw ye?"
-    a: "Sɛnɛ min bɛ kɛ ni yɔrɔ fitinin ni fɛn dɔnnen ye, o ye ɲuman ye: flɛw, misɛnw, sogow, sɔgɔ, dɔgɔ walima fɛn min ka di mɔgɔ ye. Sɛnɛ ɲɔgɔn ni dɔgɔ tɛ ka ɲi, ani sɛnɛ min bɛ kɛ i ko denw de, o kɛ ka ɲi. Mɔgɔkɔrɔ sɛnɛnw ni tablet kɔnɔ kɔlɔrɛli kɛlɛw bɛɛ ye ɲuman ye."
-  - q: "Ne ba bɛ ɲaɲɛ ni a bɛ kɔlɔ tanu ni sɛnɛ kɔnɔ ye. Mun ka kɛ?"
-    a: "A ka fɔ ko sɛnɛ kɔnɔ kɔlɔw tɛ fɛn ye. Sɛnɛ min bɛ kɛ ni yɔrɔ bon ye walima a ka fɔ ko a ka sɛnɛ bɛɛ kɔlɔ kelen na. A ka kɔlɔw tanu ka ɲi, ani ni a ka hɛrɛ bɛ ɲi, sigi ka kɛ."
-  - q: "Kɔlɔrɛli bɛ se ka kɛ tablet kɔnɔ wa?"
-    a: "Ɔn. Golden Moments bɛ kɔlɔrɛli kɛlɛ dɔ ka di. I bɛ kɔlɔ dɔ tanu, o kɔfɛ i bɛ sɛnɛ dɔ tɛmɛ. A tɛ kɛlɛ ɲɛnɛma ni bolo ɲɛnɛma kɛ, ani a ka se ka daminɛ ani ka sigi ka ɲi."
+  - q: "Kolorisɛ ka ɲɛ Alzheimer ni dementia kɛnɛma mɔgɔw ye wa?"
+    a: "A ye kɛlɛ ye, ani a bɛ kɛ mɔgɔ dɔw ka hakili ka sɔrɔ, ani a tɛ hakilina walima jaabi tiɲɛ ni ka fɛ. A tɛ dawuw ye, ani nin kɛlɛ tɛ kɔrɔ ko a bɛ bɔ dɛnɛya ka. Aw ka a kɛ kɛlɛ ɲɛnamaw ye ka dɔ ni ɲɔgɔn ye."
+  - q: "Mun ye sɛbɛn kɔlɔ ye ɲɛ dɛ mɔgɔw ye min bɛ dementia la?"
+    a: "Sɛbɛnw minnu bɛ kɔlɔ ɲɛ, kɔlɔ jɛlɛnw bɛ yen, ani fɛnw minnu bɛ dɔnin ka ɲɛ, o bɛ ɲɛ kosɛbɛ: flɛri, fɛn ɲɔgɔn, sogonɛkɛ, sogow, kɔnɔ fɛn, walima fɛn min bɛ ɲɛ ka tɛmɛn. Sɛbɛn fitinw minnu bɛ dɔnin, o kɔrɔ, ani sugandi denw ka ɲɛ sɔrɔ. Mɔgɔkɔrɔ sɛbɛnw ni kolorisɛ tilayɔrɔ jɛlɛnw bɛ se ka kɛ."
+  - q: "Ne ma bɛ dimi tuma min na a bɛ kɔlɔ bɔ sɛbɛn kɔnɔ fɛ. Mun na n bɛ kɛ?"
+    a: "Aw fɔ a ma ko sɛbɛn kɔlɔ sɛbɛnw tɛ ka ɲɛ. Aw ka sɛbɛn min kɔlɔ bɛ dɔ ka kɛ, walima aw ka a fɔ a ka kɔlɔ dɔ kɛ sɛbɛn bɛɛ kan. Aw ka kɔlɔ min a sɔrɔ, ani aw ka sɔrɔ tuma min na a bɛ dimi."
+  - q: "Kolorisɛ bɛ se ka kɛ tablet kan wa?"
+    a: "Ɔhɔn. Golden Moments bɛ kolorisɛ jɛlɛn kɛ: aw bɛ kɔlɔ dɔ tɔɔrɔ, ka o kɔfɛ sɛbɛn dɔ tɔɔrɔ. A tɛ bɛ ɲɛnɛ bolo jɛmɛnw ka kɛlɛ ye, ani a ka dɔ ni sɔrɔ ka ɲɛ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -41,51 +41,49 @@ related: [activities/arts-and-crafts, activities/art-projects, activities/printa
 health: false
 ---
 
-Kɔlɔrɛli ye kɛlɛ ɲuman ye min bɛ se ka di Alzheimer walima dementia la mɔgɔ ye. A tɛ kalan ni hakili kɛlɛ, ani jaabi tɔgɔ tɛ. Bolow bɛ kɛlɛ, kɔlɔw bɛ bɔ, ani sɛnɛ dɔ bɛ yen min kɔnɔ aw bɛ kuma. Nin kɔnɔ, an bɛ sɛnɛnw sugandi, fɛn minnu bɛ kɛ ka kɔlɔrɛli ka kɛ, ani aw ka se ka kɛ ni mɔgɔ ye kɔlɔrɛli ka kɛ ka ɲi, ka i ko kɛlɛ dɔ min bɛ mɔgɔ kɔrɔ.
+Kolorisɛ ye kɛlɛ ye min ka ɲɛ ka kɛ mɔgɔ ye min bɛ Alzheimer walima dementia la. A tɛ kɛ sɛbɛn ye, hakilina ye, walima jaabi tiɲɛ ye. Bolow bɛ tabali, kɔlɔ bɛ bɔ, ani sɛbɛn dɔ bɛ yen ka kuma kɛ. Nin fɛn bɛ kɛnɛma fɛn ye: sɛbɛn minnu bɛ sugandi, ni min bɛ kɔrɔ ka kɛ, ani kolorisɛ ka kɛ ka ɲɛ ni ka kɛ fɛn denw ye.
 
-## Mun na kɔlɔrɛli bɛ ɲi mɔgɔ caman bɛ dementia la
+## Mun na kolorisɛ ka ɲɛ mɔgɔ caman bɛ dementia la
 
-Kɔlɔrɛli bɛ bolo kɛlɛ ni ɲɛ ko fɛn dɔ. A bɛ kɛ ni sigi tabali kɛrɛfɛ walima sigi fɛn kɔnɔ ni sɔgɔ fɛ. A bɛ se ka sɔrɔ ka bɔ sɔrɔ ka bɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) bɛ fɔ ko sɛnɛ ye kɛlɛ ye min bɛ hakilina yɛrɛyɛrɛ kɛ ni ka bɔnɛ bɛɛ ka ɲɛnɛma, ani a bɛ fɔ ko a tɛ hakilina kɔnɔ ɲɛ ye.
+Kolorisɛ bɛ bolow ni ɲɛw kɛ fɛn ye min bɛ kɛ. A bɛ kɛ tabali kɔnɔ walima sigi kɔnɔ fɛn ye min bɛ kɛ, ani a bɛ se ka sɔrɔ ka bɔ ni sɛnɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) bɛ a fɔ ko kɛlɛ bɛ se ka kɛ kuma bɛ ɲɛ ka jɛlen ni tuma ɲɛnamaw ka nɔ, ani a tɛ kɛ ko fɛn min bɛ kɛ ni ka ɲɛ ka kɛ kɛlɛ.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ laɲini ko kɛlɛ min bɛ sɔrɔ mɔgɔ bɛ se ka kɛ, o ye sugandi, ani ka o yɔrɔ sɔrɔ waati o waati ka ɲi ni mɔgɔ ka se ka kɛ. Kɔlɔrɛli bɛ se ka yɔrɔ ɲɛnamaya: sɛnɛ bon, cɛnɛ jɛlɛn caman, walima tablet kɛlɛ.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ a fɔ ko aw ka kɛlɛ sugandi mɔgɔ min bɛ se ka kɛ, ani aw ka a ɲɛnɛ tuma min na a sɔrɔ tɛ. Kolorisɛ bɛ ɲɛ ka sɔrɔ: sɛbɛn bonya, kɔlɔ jɛmanw, kɔlɔ tɛmɛnw, walima tilayɔrɔ kolorisɛ.
 
-## Sɛnɛ mɔgɔkɔrɔ sugandi
+## Sugandi mɔgɔkɔrɔ sɛbɛnw sugandi
 
-Mɔgɔ caman bɛ sɛnɛ denw ko nin. Aw ka ɲɛ ta:
+Mɔgɔkɔrɔw bɛ fɛn denw ka sɛbɛnw sɛbɛn. Aw ka dɔnin:
 
-- **Sɔgɔ ni flɛw sɛnɛ:** flɛ bon ni kɔlɔ caman bɛ yen, baji ni dɔgɔ, sogo kɔnɔ kɛnɛ.
-- **Fɛn dɔnnen:** tɛ, sanyɔrɔ, fɛn kɔnɔ ni flɛ, dɔgɔkɔnɔ.
-- **Sɛnɛ bon ni sɛnɛ ɲuman:** mandala ni sɛnɛ bon ni dɔgɔ caman bɛ yen.
-- **Sɛnɛ tɛmɛnen, walima sogo sɛnɛ** mɔgɔ min bɛ ka yɔrɔ dɔ dɔn walima ka ɲɛmɔgɔ dɔ dɔn.
+- **Ka fɛnw ka sɛbɛnw:** flɛri caman, jiri ni woyo, ni sogow minnu bɛ jiri kan.
+- **Fɛn minnu bɛ dɔnin:** tɛ kɔnɔ, bisiklɛti, hɔrɔ, fini.
+- **Sugandi denw ni ka fɛn jɛmanw:** mandala ni sɛbɛn jɛmanw minnu bɛ kɔlɔ caman bɛ yen.
+- **Sɛbɛn ni yɔrɔ ɲɛnamaw** min mɔgɔ bɛ dɔnin yɔrɔ min ye walima sɛbɛnbaga min ye.
 
-Ka sɛnɛ min bɛ kɛ ni yɔrɔ tɛmɛnen ni dɔgɔ caman ye, o ka ɲi ka kɔlɔ, o bɛ mɔgɔ hɛrɛ bila. Sɛnɛ mɔgɔkɔrɔ min bɛ bɔ printɛ kɔnɔ, o ye ɲuman ye, ani [mɔgɔ ka dɔnkili wɛrɛw ka sɛnɛ bɔ printɛ kɔnɔ](/activities/printable/) bɛ sɛnɛ bon kɔnɔ ɲuman.
+Aw ka sɛbɛnw ni yɔrɔ tɛmɛnw minnu bɛ tɛmɛn ni fɛn dɔw ye, o ka bɔ. O bɛ kɛ ko dɔ ka kɛ. Sɛbɛn mɔgɔkɔrɔ sɛbɛnw bɛ ɲɛ, ani aw ka [sɛbɛn dɔnin mɔgɔkɔrɔw ye](/activities/printable/) bɛ yen ni sɛbɛn ɲɛ ka bon.
 
-## Fɛn minnu bɛ kɛ ka sigi
+## Mun ka kɛ sigi
 
-- **Fɛn bon ani min bɛ se ka sɔrɔ ka tanu.** Kɔlɔ bon, kɔlɔ bon ni dɔgɔ caman, walima kɔlɔ bon min bɛ kɛ ni kɔlɔ ka dɔ bɛ ka ɲi.
-- **Kɔlɔ dɔgɔ.** Kɔlɔ saba walima naani ye ɲuman. Kɔlɔ caman bɛ mɔgɔ bila ka ɲi.
-- **Sɛnɛ min bɛ se ka dan ni kɔlɔ bɛ.** Kaɲɔgɔ sɛnɛ tɛ bɔ ka ɲi. Ka a ɲɛ ni kɔlɔ dɔ bɛ a kɔnɔ, walima ka a sigi clipboard kan.
-- **Tabali ɲuman.** Fɛn dɔgɔ ka sigi tabali kan, sɛnɛ kelen kelen.
-- **Fɛn min bɛ se ka dan walima ka kɔlɔ tanu,** i ko yɛlɛ walima sɛnɛ, ka a kɛ ɲuman.
+- **Jɛmanw ni sɛbɛn jɛmanw.** Kɔlɔ jɛmanw, sɛbɛn kɔlɔw, walima pɛnsili jɛmanw bɛ ɲɛ ka tɛmɛn sɛbɛn ka fɛ.
+- **Kɔlɔ dɔw dɔ.** Kɔlɔ saba walima naani bɛ to. Kɔlɔ caman bɛ mɔgɔ dimi.
+- **Sɛbɛn jɛmanw walima kaɲɛ.** Sɛbɛn ka dɔ bɛ bɔ walima bɔ. Aw ka a kan ka tɛmɛn walima klipbɔdi kan.
+- **Tabali ka sɔrɔ.** Fɛnw bɛɛ bɔ, ani sɛbɛn kelen kelen.
+- **Fɛn min bɛ kɛ ka ɲɛ walima ka fɛ,** i n'a fɔ fini walima ɲɔgɔn, ka kɛ ko ɲɛ.
 
-## Kɔlɔrɛli tablet kan
+## Kolorisɛ tablet kan
 
-[Kɔlɔrɛli kɛlɛ](/games/coloring/) min bɛ Golden Moments kɔnɔ, o bɛ kɛ i ka kɔlɔ dɔ tanu, o kɔfɛ i ka sɛnɛ dɔ tɛmɛ. A tɛ bolo ɲɛnɛma ni hakili kɛlɛ. O bɛ se ka kɛ mɔgɔ ye min bolo bɛ dɛɛ. Sigi mɔgɔ kɛrɛfɛ ka se ka ekrɛn kɔnɔ ni a ye, ani ka a sɛnɛ ka kɔlɔ ka sugandi. Kɔnɔ yɛlɛmɛnw kɛ ɲuman ka sɛnɛ sigi.
+[Kolorisɛ jɛlɛn](/games/coloring/) min bɛ Golden Moments kan, o bɛ kɛ kɔlɔ dɔ tɔɔrɔ ka o kɔfɛ sɛbɛn dɔ tɔɔrɔ. A tɛ bolo jɛmɛnw ka kɛlɛ ye, ani mɔgɔ min bolo bɛ ɲɛ kɔrɔ, o bɛ se ka o kɛ. Sigi mɔgɔ kɔrɔ ka ɲɛ ka tablet kan ka kuma, ani aw ka kɔlɔ sugandi ka mɔgɔ ka sɛnɛ. Aw ka notifikasiyɔn bɛɛ ɲɛ, o kɔrɔ ka sɛbɛn kɔnɔ ka to ɲɛ.
 
-## Kɔlɔrɛli ni mɔgɔ ye ka kɛ ni ɲɔgɔn ye
+## Ka kolorisɛ ni ɲɔgɔn ye
 
-1. **Daminɛ kɔlɔ tɔɲɔ ni ɲɔgɔn ye.** Ka kɔlɔ ni a ye, walima ka bolo i ka bolo kan sɛgɛn dɔ, kɔfɛ ka bolo bɔ.
-2. **Kuma kɔlɔw ni yɔrɔw ko.** "Nin ye kɔlɔ ɲuman ye. I ye ji nin kɔlɔ ye min na yɔrɔ wɛrɛ?" O bɛ kuma sɔrɔ, ka a kɛ laɲini tɛ.
-3. **Ka mɔgɔ ka kɔlɔ sugandi, ka sɛnɛ ka bon sugandi tɛ.** "I ye kɔlɔw ɲuman sugandi" ye ɲuman ye ka tɛmɛ "I ye kɔlɔ ka sɛnɛ la" kan.
-4. **Ka mɔgɔ ka sɛnɛ sigi.** Ni a bɛ fɛn bɛɛ kɔlɔ ni dɔgɔ ye, o ka ɲi.
-5. **Sɛgɛn ni mɔgɔ ye sɛgɛn.** Kɔlɔw dan, ka tɛ kɛ ni tiɲɛ kɛ, ka wɛrɛ kɛ i ko ji min bɛ ka ɲi walima sigi fɛn kɔnɔ.
+1. **Ka sɛbɛn fɔlɔ ni ɲɔgɔn ye.** Aw ka kɔlɔ bolo ni mɔgɔ ka bolo ka kɛ, walima aw ka bolo a bolo kan kɔrɔ dɔ, ka o kɔfɛ aw ka a bɔ.
+2. **Kuma kɔlɔw ni yɔrɔw kan.** "O kɔlɔ ka ɲɛ kosɛbɛ. O kɔlɔ yɔrɔ min na i ye ji ye o kɔlɔ ye?" O bɛ kuma kɛ, a tɛ kɛ ko ɲɛmɔgɔ.
+3. **Aw ka sugandi kɛ, a tɛ sɛbɛn ka ɲɛ kɛ.** "I ye kɔlɔ ɲɛ ka bon sɔrɔ" ka ɲɛ ka "I ye sɛbɛn kɔnɔ ka to" ka ɲɛ.
+4. **Aw ka a ka kɛ.** Ni a bɛ sɛbɛn bɛɛ kɔlɔ, aw ka a to.
+5. **Aw ka sɔrɔ tuma min na a bɛ sɔrɔ.** Aw ka kɔlɔ bɔ, ka a fɔ ko an ka ji min ni ɲɛ, walima an ka taama.
 
-## Dementia ka kɛlɛ ɲɛnɛma ni kɔlɔrɛli
+## Dementia ka yɛlɛn ni kolorisɛ
 
-Daminɛ waati la, mɔgɔ caman bɛ sɛnɛ bon ni sɛnɛ ka ɲi. A bɛ se ka kɛ ni ɲa ni kɔlɔ ka sugandi. Waati ɲɔgɔn la, sɛnɛ bonbon ni fɛn dɔgɔ ka ɲi. Waati kɔfɛ la, sɛnɛ dɔ tɛmɛnen, kɔlɔ dɔgɔ, walima kɔlɔrɛli ka dɔ ni dɔnkili bɛ se ka kɛ. Mɔgɔ caman bɛ hɔrɔnya ni ka sɛnɛ min kɔlɔrɛlila ka ɲɛ, o ka ɲi ka a kɛ.
+Ɲɛfɛ fɛɛrɛ la, mɔgɔ caman bɛ ɲɛ ka sɛbɛn jɛmanw kɛ, ani u bɛ kɔlɔ ni sugandi sugandi ɲɔgɔn ye. Ɲɛfɛ sigi la, sɛbɛn bonya ni jaabi kɔnɔ dɔw bɛ ɲɛ. Kɔfɛ, aw ka fɛn kelen jɛmanw, sɛbɛn min kɔlɔ bɛ ɲɛ ka kɛ, walima kɔlɔ ka tɛ tɛ ni sɛbɛn ka dɔ ka sigi ka dun. Mɔgɔ caman bɛ ɲɛ ka sɛbɛn min kɛra ka ɲɛ tuma ni o ye kɛ. Kɔlɔ ka dɔnin fɛn ɲɔgɔnw kan, aw ka [dɔnin ka kolorisɛ mɔgɔkɔrɔw ye](/activities/arts-and-crafts/) ni [sɛbɛn dɔnin dementia la mɔgɔw ye](/activities/art-projects/) ye.
 
-Kɔlɔrɛli dɔnkili wɛrɛw ka [sɛnɛ ni kɛlɛw dementia la mɔgɔw ye](/activities/arts-and-crafts/) ni [dementia la mɔgɔw ka sɛnɛ kɛlɛw](/activities/art-projects/) bɛ yen.
+## Tuma min na sɔrɔ
 
-## Waati min na a sɛgɛn kɔ
-
-Sɔrɔ mɔgɔ bɛ ɲaɲɛ, a bɛ sɛnɛ bɔ, walima a bɛ sɔsɔ, o kɔ, sɛgɛn. Ni a bɛ hɔrɔnya ni kɛlɛ, minuti fila kɔfɛ ka sɛgɛn, o ye sɔrɔli ye. I bɛ se ka segin ka kɛ wɛrɛ waati, walima ka sɛnɛ wɛrɛ walima kɛlɛ wɛrɛ kɛ, i ko [sɛnɛ hakili kɛlɛ](/activities/sensory/).
+Sɔrɔ ni mɔgɔ bɛ dimi, ni a bɛ sɛbɛn kɔnɔ bɔ, walima ni a bɛ tɛ. A bɛ sɔrɔ ka bɔ ni fɛn ye min ka ɲɛ kosɛbɛ tuma naani la, a bɛ ɲɛ fɛ. Aw bɛ se ka segin, walima aw ka sɛbɛn fitinw walima [sensory fɛnw](/activities/sensory/) ka dɔ kɛ.

@@ -1,32 +1,32 @@
 ---
-title: "Dwumadie ma Dementia Mfitiase Stage"
-seoTitle: "Dementia Mfitiase Stage Dwumadie: Nhyehyɛe a Ɛfata"
-description: "Dwumadie a ɛfata dementia mfitiase stage: anigyeɛ adwuma, nnwonwa, akwantuo, nkyerɛwde ne nhyehyɛe a wɔyɛ bom, nsakrae kakra a ɛma obi no ani gye na ɔka ne ho ban."
+title: "Nnwuma a Ɛfata Dementia Mfitiase Mu"
+seoTitle: "Dementia Mfitiase Nnwuma: Nnwuma a Ɛfata"
+description: "Nnwuma nhwehwɛmu ma dementia mfitiase: akyidie, agyinamoɔ, nnantew ne nkɔbɔ ne nhyehyɛe a yɛyɛ bom, nneɛma a wɔsesa kakra na ɛma obi no ani gye so na ɔka ne ho ankasa."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Wɔ dementia mfitiase stage mu no, nnipa pii betumi atoa so ayɛ nea wɔpɛ:
-  anigyeɛ adwuma, kaadɛ ne tabletop nnwonwa, aduane, nnua ho adwuma, nantew,
-  club, gyidie ne ɔboafo adwuma. Nsakrae a ɛsɛ sɛ wɔyɛ ne sɛ nnipa kakraa
-  pɛ, akwantuo mmerɛw, nhyehyɛe a wɔakyerɛw ma ɛbɛye, ne obi a ɔbɛtena
-  nkɔmhyɛ. Bisa obi no sɛ ɔpɛ boafo bɛn, na ma ɔnkɔ akyiri.
+  Dementia mfitiase mu no, nnipa pii betumi atoa so wɔn nneɛma a wɔpɛ: akyidie,
+  kaa ne agyinamoɔ, emu aduane, afuo adwuma, nantew, akɔsɔfo asɔre ne
+  adwumayɛ a wɔyɛ ma nkurɔfo. Nsakraeɛ a ɛho hia ne nkɔbɔ kakraa, nhyehyɛe a
+  wɔakyerɛw kɔ so, ne obi a ɔbɛboa ne wo bɛn. Bisa obi nea ɔpɛ sɛ woboa no, na
+  ma ɔnyinyɛn so.
 keyPoints:
-  - "Nnipa pii a wɔwɔ mfitiase stage no te ankasa wɔn ho so pii. Adwuma no hia sɛ wosesa kakra, ɛnyɛ sɛ wogyae."
-  - "Bisa obi no boafo a ɔpɛ, na mmom mfa ntease a ɛbɛkyerɛ sɛ boafo wɔ hɔ."
-  - "Nnipa kakraa, mmere a ɛnnyin, ne akwantuo a ɛmmɛrɛw betumi ama nsakrae kɛseɛ."
-  - "Eyi yɛ bere a ɛfata sɛ obi no bedi nhyehyɛe a ɛfa ne ankasa asetena so, sɛ nkyerɛwde anaa abakɔsɛm nhoma."
-  - "Yɛ nnwonwa de ma anigyeɛ. Gyae nea ɛbɛyɛ sɛ ɛreyɛ sɛ sɔhwɛ."
+  - "Nnipa pii a wɔwɔ mfitiase stage no te ankasa pɛpɛɛpɛ. Nneɛma a wɔyɛ no hia sɛ wɔsesa, na ɛnyɛ sɛ wɔsesa wɔn nyinaa."
+  - "Bisa obi nea ɔpɛ sɛ woboa no, na fa ɔkwan a ɛyɛ kwan bi a wobɛfa so kyerɛ sɛ mmoa wɔ hɔ."
+  - "Nkɔbɔ kakraa, mmere a ɛnyɛ nnɔnhwerew ne nnantew tiaa betumi ama nneɛma nsesa kɛse."
+  - "Ɛberɛ yi yɛ bere a ɛfata sɛ obi no kɔ so hyɛ nneɛma a ɛfa ne ankasa asetena ano, sɛ nkyerɛwde a wɔkyerɛw ne ne nkyerɛkyerɛ."
+  - "Yɛ akyidie ma anigye, na ntwe nneɛma a ɛyɛ sɛ ɛreyɛ ɔhwehwɛmu."
 faq:
-  - q: "Adwuma bɛn na ɛfata dementia mfitiase stage?"
-    a: "Ɛnam ankasa adwuma a obi no ara pɛ so: kaadɛ, nnwonwa wɔ tebel so, ayɛ aduane, nnua ho adwuma, nantew, nnwom, gyidie adwuma, club ne ɔboafo adwuma. Ebia ɛhia sɛ wosesa ho sɛ ɛbɛyɛ tiaa, ɛbɛyɛ komm, anaa ɛbɛyɛ kɔkɔ. Nkyerɛwde, nkyerɛwde ma obi foforo ne abakɔsɛm nhoma nso fata saa stage yi."
-  - q: "Ɛdeɛn na mɛboa a menntwa obi no so?"
-    a: "Bisa obi no sɛ ɔpɛ boafo bɛn, na san bisa bere bere. Yɛ ntam anaa ntoto ahoɔfɛ a ɛkyerɛ sɛ ɛye sɛ woba mu, sɛ nea ɛbɛyɛ sɛ asɛm anaa din nnkɔ wɔn ano. Sɛ ɛnyɛ ɔhaw biara a ɛbɛba, ma wɔnyɛ ne kwan, bere a ɛbɛfa nkyɛn."
-  - q: "Ɛsɛ sɛ obi a ɔwɔ dementia mfitiase stage sɔ adwuma foforo?"
-    a: "Ɛyɛ, sɛ ɔpɛ. Adwuma a wɔte ase no yɛ nea ɛyɛ mmerɛw, nanso nnipa pii pɛ adwuma foforo, te sɛ nantew a ɛfata dementia, adwumayɛ kilaas anaa nnwom ayɛ. Sɔ bere biako a ɛnyɛ nkokoaa, na hwɛ sɛdeɛ ɛte wɔ ne nkwa mu."
-  - q: "Ɛsɛ sɛ yɛde brain-training apps di dwuma wɔ mfitiase stage mu?"
-    a: "Nnipa bi pɛ nnwonwa ne asɛmfua nnwonwa, na saa anigyeɛ no ara nso ɛyɛ kwan. Biribiara wɔ app anaa nnwonwa mu a wɔakyerɛ sɛ ɛbɛtumi ayɛ dementia yiye, ɛbɛtumi ayɛ no awia anaa ɛbɛtumi agyae. Sɛ nnwonwa ma ɔhaw anaa ma obi no ho hyɛ sɛ ɔrentumi, gyae."
+  - q: "Nneɛma bɛn na ɛyɛ na ɛfata dementia mfitiase mu?"
+    a: "Ɛdɔɔso ɛyɛ nneɛma a obi no pɛ dada: kaa, agyinamoɔ, aduane, afuo adwuma, nantew, nnwom, asɔre nneɛma, nkabom ne adwumayɛ ma nkurɔfo. Ebia ɛsɛ sɛ wosesa no sɛ ɛbɛyɛ tiaa, anaasɛ ɛnyɛ den. Nkyerɛwde, nkyerɛwde ma obi ne nkyerɛwde a ɛyɛ ɔkra mu nso fata saa stage yi."
+  - q: "Ɛdeɛn na mɛboa a menntu mmirika me ho?"
+    a: "Bisa obi nea ɔpɛ sɛ wobɔ ma no, na sie ɛberɛ biara. Fa ɔkwan bi anaa ɔkɔm a ɛkyerɛ sɛ ɛyɛ yie sɛ wobɛboa, sɛdeɛ ebia sɛ asɛm anaa din werɛ ankɔ. Sɛ akwan mu biara nni asiane a, ma ɔnyɛ no ankasa wɔ ne kwan so, ɛwom sɛ ɛbɛfa bere tenten."
+  - q: "Ɛsɛ sɛ obi a ɔwɔ dementia mfitiase hwehwɛ nneɛma foforɔ?"
+    a: "Ɛyɛ, sɛ ɔpɛ. Nneɛma a wɔn ho adwene yɛ mmere ara ne ɛyɛ mmerɛw, nanso nnipa pii ani gye nneɛma foforɔ, te sɛ nantew kɔ a wɔyɛ ma dementia, adwuma a ɛfa nhoma ho anaa dwom kwaya. Sɔ bere biako a ɛnyɛ den na hwɛ sɛdeɛ ɛte."
+  - q: "Nnwuma a ɛma ntease yɛ mmerɛw ansa na yɛakɔ dementia mfitiase mu yɛ den?"
+    a: "Nnipa bi ani gye ahinimnwen ne nsɛm ahyɛdeɛ, na saa ani gyinae no ara nti ɛfata. Ɛnnim biribi a wɔahu sɛ nnwuma anaa akwan biara betumi ayɛ dementia yare, mmoa mu anaa ɛbɛgyina. Sɛ kaa bi ma wɔsuro anaa ɛma obi no ahu sɛ ɔrentumi nyɛ yie a, gyae."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-Wɔ dementia mfitiase stage mu no, nnipa pii ka sɛ wɔte sɛ ɛte kan. Wɔbetumi ayɛ adwuma, aboa nkurɔfo, ahyia nnamfo na wɔadi wɔn daa adwuma pii ho. Adwuma no nhia sɛ wɔtwe so; ɛho hia kakra nko sɛ wɔsesa so, na ɛnsɛ sɛ ɛnyɛ anigyeɛ bio. Wo adwuma yɛ sɛ wobɛyɛ hokafo sen sɛ wobɛyɛ ɔhwɛfo: wobɛboa, wobɛyɛ nhyehyɛe wɔ ho, na wobɛka ho kɔ sɛ wɔbisa wo.
+Dementia mfitiase mu no, nnipa pii ka sɛ wɔtra sɛdeɛ wɔteɛ ansa na yɛaforo. Wɔbetumi ayɛ adwuma, aboa, akyidi nnamfo, na wɔahyehyɛ wɔn da mu nneɛma pii ankasa. Nneɛma no nhyɛ hɔ; ɛho hia nkɔbɔ kakraa ma ɛnkɔ so yɛ anigye. Wo dwumadi yɛ sɛ obi a ɔne wɔn yɛ adwuma bom, obi a ɔboa, ɔhyehyɛ ne wɔn, na ɔba mu sɛ wɔfrɛ no nko ara.
 
-## Adwuma bɛn na ɛfata dementia mfitiase stage?
+## Nneɛma bɛn na ɛyɛ dementia mfitiase mu?
 
-Adwuma a ɛfata sε dementia mfitiase stage no yɛ nea obi no pɛ dada, nanso a wɔasesa no kakra. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kyerɛ adwuma a ɛte sɛ nkaadɛ ne tabletop nnwonwa, asɛmfua nnwonwa, nantew, ntoto, nnua ho adwuma, abakɔsɛm kyerɛkyerɛ, ayɛ aduane, ayɛ nsɛnkyerɛnne, nnwom, nkyerɛwde, ntwerɛ nkyerɛwde, ayɛ kuku, ne ɛberɛ a wɔde ahoɔfɛ di ahyɛde.
+Nneɛma a ɛyɛ mfitiase mu no ɛdɔɔso ne nneɛma a obi no ani gye so dada, a wɔasesa kakra. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kyerɛ nnwuma te sɛ kaa ne agyinamoɔ, nsɛm hwehwɛ, nantew, asɛnka, afuo adwuma, abɔde a wɔde ka ho, nnwom, nkyerɛwde, nkyerɛwde ma obi, afisɛm, aduane ne afahyɛ nkɔsoɔ.
 
-Nsakrae a wɔyɛ no gyina wɔ beaeɛ so sen adwuma ankasa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) kyerɛ sɛ nnipa a wɔwɔ mfitiase stage betumi afi adwuma a wɔpɛ no ho aka, na wɔde ɔbaa a ɔhaw sɛ ɔbɛkɔ ayɛ ɔkwan kɛse a nnipa pii wɔ hɔ no ma. Ɛyɛ, nnipa kakraa mu no ye ne ho. Kasa pefee wɔ nea ɛyɛ den no ho, na mmom mo ne ho sesa.
+Nea ɛsesa no ɛdɔɔso ne baabi a wɔreyɛ no, na ɛnyɛ nneɛma ankasa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) kyerɛ sɛ nnipa a wɔwɔ mfitiase stage no betumi afi nneɛma a wɔpɛ ho akɔ akyi, na wɔde obi a ɔhyɛ nsu wɔ afahyɛ kɛse mu, nanso ɔtena sɛ ɛyɛ yie wɔ kuw akyire mu, bere a ɔwɔ mmerɛ, bi ka ho. Ka nea ɛyɛ den no ho asɛm ankasa, na mo nyinaa sesa no.
 
-## Bisa ansa na ɛnna sɛdeɛ wɔbɛboa
+## Bisa ntɛm, na fa ɔkwan a wobɛboa so
 
-[Alzheimer's Association mfitiase stage akwankyerɛ](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) kyerɛ nneɛma kakra a ɛfata adwuma nso:
+[Alzheimer's Association mfitiase stage akwankyerɛ](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) kyerɛ nneyɛe bi a ɛfa nneɛma ho nso:
 
-- **Bisa pefee.** “Dɛn na bɛma book club no ayɛ wo yie?” yɛ mmuaeɛ a ɛye sen sɛ wobɛbu no.
-- **Gye sɛ wobetumi.** Sɛ ɔhaw biara nni hɔ a, ma obi no ntɔ mmɔden, na ma no ahonyadeɛ, na mma wo ankasa nnye no adwuma.
-- **Yɛ ɛbɛ.** Paw asɛm anaa ntoto a ɛkyerɛ sɛ “ɛyɛ, mɛba mu” sɛ ɛnyɛ ɛberɛ a din bɛkɔ so wɔ kaadɛ mu.
-- **Hwɛ bere bere.** Bisa sɛ boafo no dodow yɛ papa, ɛyɛ bebree anaa ɛyɛ kakraa.
+- **Bisa pefee.** "Dɛn na ɛbɛma kuw kɛkaa no ayɛ mmerɛ ma wo?" yɛ ɔkwan a ɛyɛ yie sen sɛ wobɛdwene.
+- **Gye sɛ wobɛtumi.** Sɛ asiane biara nni hɔ a, ma obi no nhwɛ ɛberɛ a ɔbɛyɛ, na boa no ahoɔden mmom sen sɛ wobɛfa ne nsa.
+- **Gyina ɔkɔm so.** Fa ɔkwan bi anaa ɔkɔm bi a ɛkyerɛ sɛ "ɛyɛ, mma me ka ho" ma ahyɛ nkɔnim, sɛ ebia sɛ din anka werɛ ankɔ wɔ kaa mu.
+- **Bisa ɛberɛ biara.** Bisa sɛ mmoa a wɔreyɛ no yɛ tiaa, anaasɛ ɛyɛ kɛse, anaasɛ ɛyɛ kakra.
 
-## Adwuma a ɛfata mfitiase stage
+## Nnwuma a yɛbɛyɛ wɔ mfitiase stage mu
 
-### Kɔ so di adwuma ne anigyeɛ adwuma
+### Kɔ so yɛ adwuma ne nneɛma a wɔpɛ
 
-- **Di bere bere adwuma so.** Ɔbɔadwuma da biara wɔ asɔredan, abɔdeɛ anaa club betumi ama nna no yɛ nhyehyɛe. Sɛ ɛyɛ den a, adwuma a ɛyɛ ketewa anaa a ɛnnyin betumi ayɛ.
-- **Yɛ aduane bom.** Sɛ aduane tɔ no ahohia a, Alzheimer's Association kyerɛ sɛ ma obi no mmoa wɔ nnawɔtwe no aduane nhyehyɛe ho ne sɛ ɔkyerɛw nkrataa no.
-- **Ayɛ aduane ne aboɔden.** Yɛ aduane a obi no pɛ. Hyehyɛ nnuane no ntosoɔ ansa na wɔrehyɛ aduane no mu, sɛdeɛ anammɔn no bɛhunu.
-- **Fi nnua ho adwuma.** Yɛ ɔbɔ, paw aba anaa nnuan, na mo mmienu nyɛ adwuma no. Nkyerɛwde a ɛkyerɛ nnuane adwuma a ɛwɔ nnawɔtwe yi mu boa.
-- **Kɔ so yɛ adwuma a wɔde nsa yɛ.** Ntoma nyinaa, ntoma, ntwerɛ anaa ɔdan nkyerɛwde betumi akɔ so de nkyerɛwde a ɛyɛ mmerɛw ne hann a ɛyɛ papa.
+- **Gyina adwuma a wɔsan yɛ dapɛn biara.** Afuo adwuma dapɛn biara, asɔfo nnwom ne ɔkuw bi ma dapɛn no wɔ ahyehyɛde. Sɛ ɛreyɛ wo den a, adwuma a ɛyɛ tiaa anaa a ɛyɛ mmerɛ betumi afata.
+- **Hyehyɛ aduane bom.** Sɛ aguamanfoɔ tɔ ayɛ den a, Alzheimer's Association kyerɛ sɛ bisa obi no sɛ ɔnboa ayɛ dapɛn no aduane ne ɔkyerɛw nkyerɛwde no.
+- **Yɛ aduane ne abɛɛ.** Di aduane a ɔpɛ so bom. Hyehyɛ nneɛma no wɔ nhyehyɛe mu ansa na yɛreyɛ, na anammɔn no ahu.
+- **Yɛ aduane wɔ afuo.** Hyehyɛ afifide, paw ɔburow anaa ɛwɛ, na yɛ adwuma no bom. Nkyerɛwde a ɛkyerɛ dapɛn no afuo adwumaboa.
+- **Kɔ so yɛ abɔde.** Adwuma a wɔde nkoko, ntama anaa ntoma ne ntoma ka ho betumi atɔ so, sɛ wɔde nhyehyɛe a ɛyɛ tiaa ne hann pa.
 
-### Nnwonwa a yɛde ma anigyeɛ
+### Agyinamoɔ a ɛma anigye
 
-- **Yɛ kaadɛ ne tabletop nnwonwa.** Nnwonwa a wɔn ho adwene yɛ nea ɛyɛ mmerɛw. Yɛ wɔ mmoa mu, na ɛnsɛ sɛ obiara wɔ nhwɛso a wɔbɛhwɛ no, na ɛnsɛ sɛ wɔkyerɛ nkontaabu, anaa sɛ wɔnkyerɛ bere biara.
-- **Di asɛmfua nhwehwɛ a ɛyɛ kɛse so.** Yɛn [asɛmfua nhwehwɛ](/games/word-search/) betumi ayɛ wɔ ahyɛde so anaa wɔde ntwa mu, ma ɛbɛyɛ bere a ɛnyɛ nnyinasoɔ.
-- **Yɛ ntoto nnwonwa.** Paw ntoto a ahoɔden ne ɛberɛ a ɛnyɛ den. [Ntoto nnwonwa](/games/picture-puzzle/) yɛ ntoto a wɔde ayɛ wɔ ahyɛde so a ɛnyɛ tebea, na yɛn [nkyerɛkyerɛ ho ntoto ma dementia](/activities/puzzles/) bɛboa wo sɛ wobɛpaw.
-- **Ka trivia ma anigyeɛ.** Nnipa bi pɛ trivia kwan a wɔyɛ mmoa mu. Sɛ ɛreyɛ sɛ ɛyɛ ɔsɔhwɛ a, paw adwuma foforo, anaa hwehwɛ yɛn [trivia nsɛmmisa a ɛyɛ mmerɛw](/activities/trivia/), a mmuaeɛ a wɔde ama wɔ mu ne sɛ wɔnhwɛ mmuaeɛ.
+- **Di kaa ne agyinamoɔ.** Nneɛma a wɔn ho adwene yɛ mmere ara na ɛyɛ mmerɛw. Yɛ wɔ nkabom mu, na ma obi biara nnyɛ hwee; kɔ nkɔ a, nkyerɛ nkɔnim kakraa anaa nnyɛ.
+- **Yɛ nsɛm hwehwɛ a nkyerɛwde no yɛ kɛse.** Yɛn [nsɛm hwehwɛ](/games/word-search/) betumi aba wɔ screen so anaa wɔabɔ so de ma ɛnyɛ anigye bere a nneɛma nyɛ mmerɛw.
+- **Yɛ ahyɛde ahyɛde.** Paw ɔhyɛde a ɛnnyɛ den. [Picture puzzle](/games/picture-puzzle/) yɛ screen so mmara tiaa, na yɛn akwankyerɛ a ɛfa [ahyɛde ma dementia](/activities/puzzles/) kyerɛ sɛdeɛ wobɛpaw.
+- **Ka nhwɛso anigye.** Nnipa bi ani gye abisadeɛ kɛse ka ho. Sɛ ɛreyɛ wo den a, sɔ [abisadeɛ a ɛyɛ mmerɛw](/activities/trivia/) a ɛwɔ nnyiano ne nsɛm sɛ wɔbɛpaw, a ɛnni kɔnt.
 
-Nnwonwa ho yɛ anigyeɛ ara. Biribiara nni nnwonwa mu a wɔakyerɛ sɛ ɛbɛtumi ayɛ dementia yiye anaa ɛbɛtumi agyae; hwehwɛ bio wɔ [brain games: nea nhwehwɛmu ka](/brain-health/brain-games/) mu.
+Ɛhɔ no, agyinamoɔ yɛ ma anigye nko ara. Ɛnni nneɛma bi a wɔahu sɛ ɛbɛyɛ dementia yare anaa ɛbɛgyina; hwehwɛ nea ɛwɔ [ahinimnwen agyinamoɔ: nea nhwehwɛmu ka](/brain-health/brain-games/).
 
-### Kyerɛw, susuw ne kyerɛw adwene
+### Kyerɛw, susuw ne kyerɛw ho adwene
 
-- **Kyerɛw abakɔsɛm nhoma.** Alzheimer's Association kyerɛ sɛ ɛyɛ bi a ɛboa sɛ wobɛdi awerɛhow a ɛba akyi a wɔakyerɛ sɛ obi wɔ dementia. Nsɛmfua vi anaa abien da biara na ɛbɛfata.
-- **Ma obi no akamfo abakɔsɛm nhoma.** Mfitiase stage yɛ bere a ɛfata sɛ obi no ayi ne ankasa mfonini, na ɔkyerɛw anaa ka nsɛm a ɛfa mfonini no ho. Hwɛ [abakɔsɛm adwuma](/activities/reminiscence/).
-- **Kyerɛw nkrataa.** Nkrataa a wɔkyerɛw kɔma abakyire, ɔyɔnko a wɔbɛyɛ sɛ mmerɛ, anaa ɔbaayɛfo a wɔyɛɛ adwuma wɔ hɔ betumi ayɛ anigyeɛ ma wɔn baanu.
-- **Ka mfonini ho asɛm.** [Mfonini nnwonwa](/games/photo-pairs/) ma wɔde mfonini a ɛfa abusua ho di nnwonwa mu, na [nkɔmhyɛ kaadɛ](/games/conversation-cards/) ma ɛyɛ mmerɛw sɛ wobɛhyɛ nkɔmhyɛ ase.
+- **Kyerɛw nkɔsoɔ.** Alzheimer's Association kyerɛ sɛ wobɛtumi akyerɛw nkɔsoɔ sɛ ɔkwan bi a ɛboa ma obi betumi aka ne ho asɛm bere a wɔakyerɛ no yare no. Nkyerɛwde nkakrankakra da biara ara ka.
+- **Kyerɛw nkyerɛwde a ɛka ne ankasa asetena.** Dementia mfitiase no yɛ bere a ɛfata sɛ obi no paw ne ankasa mfonini na ɔkyerɛw anaa ka nsɛm a ɛfa mfonini no ho. Hwehwɛ [nkyerɛwde ho nneɛma](/activities/reminiscence/).
+- **Kyerɛw nkrataa.** Nkrataa a wɔde kɔ abɔfra, obi a ɔyɛ wo nnamfo, anaa adwumafoɔ a ɔyɛ wo nnamfo betumi ayɛ anigye ma abien.
+- **Kasa wɔ mfonini ho.** [Mfonini nkabom](/games/photo-pairs/) de abusua mfonini ayɛ agyinamoɔ a ɛyɛ mmerɛw, na [nkasa kaad](/games/conversation-cards/) ma nsɛm a ɛyɛ mmerɛw a wobɛfi ase de akasa.
 
-### Fi ahyɛ wɔ akwantuo ne nneyɛe mu
+### Fa ne ho kɔ baabi na yɛ nneyɛe
 
-Ɛnam [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) so no, wɔka sɛ ɛsɛ sɛ wɔkɔ so kɔ akwantuo a mo baanu pɛ no, bere a mo baanu ani gye. Hyehyɛ akwantuo no wɔ ɛberɛ a obi no ho yɛ papa, na mma ɛnnhyɛ no.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ wobɛtumi atoa nneɛma a wɔsan de wɔ kwan so de sɛ mo nyinaa ne ahotɔ, sɛdeɛ ɛbɛyɛ. Hyehyɛ wɔn ma ɛberɛ a obi no ani gye ne ho, na ma ɛnkɔ tenten.
 
-- **Akwantuo ma nkrasɛm ne nhwɛsoɔ.** Kɔ sɛ wobɛhwɛ museum, ahoɔfɛ a wɔyɛ anadwo, anaa ntoto ahwɛ, sɛ ɛbɛyɛ bere a ɛnnyin.
-- **Ɔsuo.** NIA kyerɛ sɛ ɛyɛ papa sɛ wɔkɔ ɔsuo mu bere a nnipa nnyin.
-- **Nantew ne ɔkɔnsɛn ho kwan.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ka ɔkɔnsɛn, tai chi, yoga, ɔsuo ne nantew ho kwan, ne nhyehyɛe a ɛfata dementia baabi a ɛwɔ.
-- **Nnwom kwan ne memory café.** Akwantuo a ɛyɛ nwonwa, a nnipa a wɔwɔ dementia ne wɔn mmoafo betumi akyinnye afoforo a wɔwɔ saa tebea no.
+- **Ɔkwan tenten kɔ nhwɛsoɔ.** Kɔ museɔm, sini anaa nhwɛsoɔ, de ɛberɛ a ɛyɛ dwodwo ara.
+- **Nsu mu.** NIA kyerɛ sɛ wobɛtumi akɔ nsu mu bere a ɛnyɛ nnipa pii.
+- **Ɔkwan nantew ne akwantu anaa dance.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ka dance, tai chi, yoga, nsu mu ne nantew ho asɛm, ne dementia ho nkɔmhyɛ a wɔayɛ wɔ ɔmantam bi mu.
+- **Dwom ne nkɔmhyɛ kafe.** Nkɔmhyɛ a ɛyɛ mmerɛw, baabi a wɔn a wɔwɔ dementia ne wɔn mmoafoɔ betumi akɔ, de ahyia afoforɔ a wɔwɔ saa nsɛm no mu.
 
-## Nsakrae ketewa a ɛma adwuma no ye
+## Nsakraeɛ a ɛyɛ mmerɛw a ɛma nneɛma yɛ anigye
 
-| Sɛ eyi reyɛ den | Yɛ eyi |
+| Sɛ eyi reyɛ wo den | Sɔ eyi |
 | --- | --- |
-| Beaeɛ a nnipa pii wɔ anaa nnyɛmu wɔ hɔ | Kɔ bere a nnipa nnyin, paw nnipa kakraa mu, di ɛpon a ɛwɔ dan ano |
-| Din foforo a wɔrekae | Ka din no wɔ bere biara; ma obi a wɔrehyɛ ntoto na ɔnsi |
-| Nhyehyɛe a ɛwɔ anammɔn pii mu | Kyerɛw anammɔn no, anaa hyehyɛ biribiara ntosoɔ ansa na woreyɛ |
-| Ɔbrɛ | Akwantuo nketewa, da ase ɔda, na mma nneyɛe foforo nnkɔ saa da no mu |
-| Nkontaabu wɔ nnwonwa mu | Di nnwonwa wɔ mmoa mu, ma mmara no ayɛ mmerɛw, anaa mma nkontaabu |
-| Asɛmfua a ɛrentumi aba | Ma bere; ka asɛmfua ma wo kyerɛ sɛ wɔrehyɛ ntoto a mo de maa no |
+| Beaeɛ a nnipa pii wɔ anaa nsɛm pii | Kɔ bere a ɛyɛ dwodwo, paw nkɔmhyɛ ketewa, di tebea a ɛyɛ mmerɛw |
+| Ɛyɛ den sɛ wobɛkae din foforɔ | Ka din no bio mprɛnsɛ biara; ma nkɔmhyɛ no ahyɛ din mu |
+| Ɛyɛ den sɛ wobɛdi nhyehyɛe a ɛwɔ anammɔn pii so | Kyerɛw anammɔn no, anaa hyehyɛ nneɛma nyinaa wɔ nhyehyɛe mu ansa na yɛreyɛ |
+| Wo werɛ fi | Nkɔ tenten ntɛm, dwo ɛberɛ akyi, yɛ hwee foforɔ a ɛnyɛ da no mu |
+| Ɛyɛ den sɛ wobɛkyerɛ kɔnt wɔ agyinamoɔ mu | Kyɛ agyinamoɔ no ma nnipa pii, yɛ mmara a ɛyɛ tiaa, anaa mma wɔnkyerɛ kɔnt |
+| Ɛyɛ den sɛ wobɛka nsɛm | Ma ɛberɛ; ma nsɛm bi kɔ kɛse sɛ wo nhyehyɛe no ka sɛ ɛnyɛ |
 
-## Bere a ɛsɛ sɛ wɔsesa
+## Bere a ɛsɛ sɛ wobɔ mmɔden
 
-Gyae anaa sesa adwuma bere a ɛde awerɛhow pii bra sen anigyeɛ. Awerɛhow a ɛba mu bere bere, sɛ obi gyae anigyeɛ adwuma, anaa sɛ ɔka sɛ “merentumi bio” no, ɛfata sɛ wɔkasa ho ayɛ no sɛdeɛ, ɛnyɛ sɛ wɔtwe no so. Ɛtɔ da bebree no, ɔkwan a ɛyɛ ketewa wɔ adwuma no mu no yɛ ɔkwan. Sɛ obi no hia boafo kɛse de ahyɛ nneyɛe ase na ɔde toto nhyehyɛe so a, [mfitiase stage adwuma](/activities/middle-stage/) betumi afata. Sɛ wopɛ nkɔmhyɛ a ɛboa wɔ asɛm kasa mu, hwɛ [nkɔmhyɛ akwankyerɛ](/caregiving/communication-tips/), na sɛ wopɛ nnipa ɔha ho ideas bebree a, hwɛ [101 adwuma](/activities/ideas/).
+Gyae anaa sesa nneɛma bi bere a ɛde ahohia ba sen anigye. Ahohia a ɛba mpɛn pii, obi a ɔtwe ne ho afi nneɛma bi ho, anaa ɔka sɛ "Metumi nnyɛ bio" fata sɛ yɛkasa ne ho ayɛ wɔ ahoɔdɛn so, nanso mmom ɛnyɛ sɛ yɛma no ɔkwan. Ɛbɛyɛ pɛpɛɛpɛ sɛ wosesa ɔkwan bi a ɛyɛ tiaa wɔ nea ɛkɔ so no ara mu. Sɛ obi no hia mmoa pii de ahyɛ nneɛma ase ne ɔkwan a wɔbɛdi so no, [nneɛma a wɔyɛ wɔ mfimfini stage mu](/activities/middle-stage/) betumi afata. Wɔ nkasa a ɛboa ho, hwehwɛ [nkasa akwankyerɛ](/caregiving/communication-tips/), na wɔ nneɛma a ɛboro saa so, hwehwɛ [nneɛma 101](/activities/ideas/).
 
-Mo a moboa no nso hia boafo. Mfitiase stage yɛ bere a ɛfata sɛ wobɛyɛ wo ankasa nkɔmdi mu nkitahodie; hwɛ [wo ankasa ho hwɛ](/caregiving/caregiver-self-care/).
+Wɔ a wɔboa obi no nso hia mmoa. Mfitiase stage yɛ bere a ɛfata sɛ wobɔ wo ankasa mmoa adwuma; hwehwɛ [ka wo ankasa ho](/caregiving/caregiver-self-care/).

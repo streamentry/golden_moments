@@ -1,34 +1,34 @@
 ---
-title: "Lurañanaka Demencia Qalltañ Jaqinakatakix: Ideas"
-seoTitle: "Lurañanaka Demencia Qalltañ: Ideas"
-description: "Lurañanaka demencia qalltañ, kunapachatix ukax 65 mara sipansa qalltaski: phuqhañanaka, sarañanaka, taqi chuymaw uywatanakaxa, ukat chuymaw yanapa mayninakan, wawanakan uñjañapataki."
+title: "Lurañanaka chiqpach demenciyataki: Ideanaka"
+seoTitle: "Chiqpach demencia: Lurañanaka"
+description: "Lurañanaka chiqpach demenciyataki, uka jiwañanakaxa 65 maranakan sapxi: jan walt'äwinaka, sarañanaka, awtu tuqi yatiñanaka ukhamarak jaqinakaru yanapt'añataki."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Demencia qalltañax 65 maranakat sipansa qalltaski, jaqix mayjt'äwinakan
-  irnaqañkasa, auto irpañkasa jan ukax wawanakar uñjañkasa. Phuqhañanakap,
-  jaqinakap sarnaqañap imantañamawa, sarañanakap jaqix sapaki sarañap
-  amuyañamawa, taqi chuymaw uywatanakat yatiyatanakat ukat uñtasanakat
-  luraña, ukat jaqix amtanakap jiwasaru sapaki yanapt'añamawa. Mayninakax, wawanakax
-  yanapa munapxi, ukat Alzheimer's Association sat Asociación ukax tantachäwinakaru
-  yanapt'añatakix jakasiwa.
+  Chiqpach demencia qalltaski 65 maranak sipansa nayrarak, jaqix irnaqañ,
+  awtu tuqi sarañ jan ukax wawanakaru uñjañ pachana sapxi. Amuyunakap ukat
+  sarañanakap imantañamawa, sarañanakap ajllisañanakap ukat ukax wali
+  sapaki. Jan walt'äwinaka, uru tuqi jaqinakan yuqalla maranakan yatiñanaka
+  ukat uñt'äwinaka ukhamarak uñachtʼayañamawa. Jaqinakaru ukat wawanakaru
+  yanapt'añaw, ukat Alzheimer's Association sapxi ukat grupo yanapt'iri
+  lurañanakas utjaraki.
 keyPoints:
-  - "Demencia qalltañax 65 maranakat sipansa qalltaski. Jaqinakax usuntasa, lurañanakax jan amuyañanakar mayt'añjamawa."
-  - "Jaqix akham luraña ukanakan sapaki ajllisiñapawa, kunawa phuqhaña ukat kawkiru sarañ amtañapa."
-  - "Taqi chuymaw uywatanakax, yatiyatanakax, 20 maranakat 50 maranakkama uñtasanakax, mä jaqi sarnaqañ pachat sipansa yatiñani."
-  - "Jaqix munapki ukhaxa, jakañ yanapt'aña ukat tantachasiña, ukat lurañ mayjt'aña janiw; ukasti thakhi taqi chuymaw ch'amañchañamawa."
-  - "Mayninaka, khä mayninakax, wawanakax, jaqinakan tantachäwinakar sarañax yanapt'aspawa."
+  - "Chiqpach demencia 65 maranak sipansa nayrarak qalltaski. Jaqinakax lurañanakax maranakapat jan sapxi sasa amuyapxi."
+  - "Jaqi ajllisañanakaru kamachañamawa, kuna walt'äwis ajllisañapa ukat kuna sarañas uñt'añapa ukaru."
+  - "Yuqalla pachan 20 maranakat 50 maranakkamaxa uñt'äwinaka, arunaka ukat yatiñanakax wali sapaki, jiwasaxa mä jilir pacha lurañanakat sipansa."
+  - "Jaqix munaski ukhaxa jaqinakaru uñtasiñanakaru sarañ jan ukax lurañanaka jan lurañ, mä kunay sapxi."
+  - "Jaqinakaru, khaya wawanakaru ukhamarak jaqinakaru yanapt'añ juk'ampi, mayni jaqinakan grupo yanapt'iri lurañanakax wali askiwa."
 faq:
-  - q: "¿Kunas demencia qalltañaxa?"
-    a: "Demencia 65 maranakat sipansa qalltañawa. Alzheimer's Association sat Asociación yatiyañ jaqix, Alzheimer's 65 mara sipansa jaqir sartañapa, nayrapxat qalltañ sañ utjaski. Jani qhipa qalltañat sipansa tuqita nasa, ukampisa janiw tanqañkaniti, ukat jaqix ukax lurañanakapa, uñjañanakapa, auto irpañanakapa ukhamarak jiwasaru utjasaspawa."
-  - q: "¿Kunanakas sarañaxa sañ utjaspa, nayrapxat qalltañ jaqitakix?"
-    a: "Jaqin jakañapat luraña ukanakax aski sarapxi: mä ukjat phuqhaña, mä yanapiri jaqimpi sarañ, mä sarnaqañ ukax lurañ, familiankirinakatakix manq'añ luraña, nayrapxat uñjat taqi chuymaw uywatanakax, jan ukax jaqix munat sarañ. Jaqix ajllispawa, ukat sarañ suma nakhañ ukat yanapiri jaqinakat ukax ch'iqt'añapawa, lurañ mayjt'añ janiwa."
-  - q: "¿Kawkitsa mayninakax, khä wawanakax yanapt'añ katuqapxi?"
-    a: "Alzheimer's Association sat Asociación ukax mayninakatakix, khä wawanakatakix jan qhespiyañ tantachäwinak churapxi, uka tantachäwinak 'qalltañ demencia' uñjañ jaqinakatakix jakasipxi. Jumax 24/7 Helpline 800.272.3900 sat telefonu uñjasma, tantachäwinakat ukat yanapa uñjañanakat yatiñamawa."
-  - q: "¿Qalltañ demencia jaqix luratanakapa lurañ jakaspati?"
-    a: "Jakaspa, sumäkipan jakasipxi ukat munaspa ukhaxa. Phuqhañanaka, iglesia tantachäwinaka, ch'amañchaña ukat jaqinakampi tantachasiña, taqi jakañan sañ utjaspa. Uka sarañ ch'iqt'aña, mä yanapiri jaqimpi sarañ ukat samayañ amtañapa, lurañax janiw sum sasiñ ukhaxa, ch'iqt'añapawa."
+  - q: "¿Kuna chiqpach demenciyasa?"
+    a: "Chiqpach demencia 65 maranak sipansa nayrarak qalltaski. Alzheimer's Association sapxi, Alzheimer's jan maranakan utjiri ukax jaqi 65 maranak sipansa jukʼamp mä jaqinakar uñjatapat chiqpach qalltañ sasa amuyasiwa. Chiqpach qalltañax jilirpach demencia sipansa jukʼamp utjaraki, ukampirus jan jukʼa, ukat jaqix irnaqañ, awtu tuqi sarañ ukhamarak yuqallanakap uñjañ jan ukax sarnaqañ."
+  - q: "¿Kuna lurañanakas chiqpach demenciyan jaqinakataki wali askiwa?"
+    a: "Jaqi sarnaqañapar sapa lurañanakax wali askiwa: yatiñ walt'äwi, jaqi mayni jaqimpi sarañ, irnaqañ, awtu tuqi irnaqañ, familiyataki manq'a lurañ, yuqallanakan uñt'ataki arunaka jan ukax jiwaskiri chiqanakaru sarañ. Jaqix ajllisiñapa, sarañ ukat jaqinakampi sarañaxa kamachañamawa, lurañ ukaxa jan."
+  - q: "¿Kawkiran jaqinakaru ukhamarak wawanakaru yanapt'añ tuqisa?"
+    a: "Alzheimer's Association sapxi, jaqinakaru yanapt'añataki grupo jan qullqini utjaraki, ukanakan chiqpach demencia uñjatanakaru yanapt'añ grupo ukhamarak. Yatiñ jaqinakaru yatiyañataki 800.272.3900 uñjañ jan ukax jiskt'aña, 24 horas, 7 uru tuqi."
+  - q: "¿Chiqpach demencia uñjatas kunanakas wali munañapa lurañ?"
+    a: "Jisa, jan sapxi jaqix sarnaqañapat ukat munañapat ukhaxa. Walt'äwinaka, yatiñ tantachawinaka, lupʼiña ukat jaqinakampi sarañax jaqi sarnaqañan parti. Lurañ chiqap ukat jaqimpi sarañ, samarañ pachanakap uñt'añ, ukat jan wali sapxi ukhaxa sayt'ayañ."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -47,45 +47,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Demencia yatiyañanaka jaqinakan 70 jan ukax 80 maranakan jakasipxi sasa amuyasispa. Mä jaqi 40 jan ukax 50 maranakan demencia uñjatäki ukhaxa, jakañax wali sapaki. Jupax irnaqañ, qullqi ukat wawanakampi jakañ, jan ukax awkipan uñjañapa utjaspa. Lurañanakax uka mayjt'äwinak amuyañ ukat yatiñapa. Akax kuna mayjt'äwinakas utjaski, kunanakas luraña ukat mayninakax, khä wawanakax kawkiri yanapt'añapa uka yatiyañ.
+Demencia yatiñanaka jukʼamp jaqinakan 70 jan ukax 80 maranakan uñjatapat qhiparu sarapxi. Jaqix 40 jan ukax 50 maranakan uñjatäki ukhaxa, uruq uruq sarnaqañaxa wali sapaki. Irnaqañ, qullqi jan ukax yuqallanakampi sarañ utjaspa. Lurañanakax jaqin sarnaqäwiparu uñt'añapawa. Akan uñachtʼayañax lurañanakax kunsa yanapt'añ, ukat jaqinakaru ukhamarak wawanakaru yanapt'añ.
 
-## ¿Kunas demencia qalltañaxa?
+## ¿Kuna chiqpach demenciyasa?
 
-Demencia qalltañax 65 maranakat sipansa qalltaski, mä chiqana "younger-onset" sasa. [Alzheimer's Association sat Asociación blog](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) sañ utjaski, Alzheimer's 65 mara sipansa jaqir sartañapa, ukat uka jaqin uñjañax "jan sasiñ wali jan uñtatawa" sasa. Uñjañ ukanakax jani qhipa maranakan ukhamarakiwa, ukampisa jaqin suytanakapa, lurañanakapa ukat tantachasiñapa mayjt'atawa.
+Chiqpach demencia 65 maranak sipansa nayrarak qalltaski, ukarux chiqpach qalltañ sasa sapxi. [Alzheimer's Association's blog](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) sapxi, Alzheimer's jaqi 65 maranak sipansa jukʼamp mä jaqinakar uñjatapat chiqpach qalltañ sasa amuyasiwa, ukat sapxi jaqi wali chiqpachan uñjañax "uñjañ sasa ch'ama" utjaraki. Uñt'äwinakax jilirpach uru tuqi ukhamarakiw, ukampirus jaqin amuyunakapax, irnaqañapax ukat jaqinakampi sarañapax jan ukhamarakiw.
 
-Janiw wali yaqhipanakaxa, demencia jan qhespiyañ ukat nayrapxat yatiyañ mayt'añ katuqapxi, familiankirinakax jan parlañ jaqi utjañapa ukhaxa. Mayninakax uka uñjañ amuyañax jaqi sapa janiw utjañapa sasa amuyañaxa, ch'iqt'asiñ amuyañ.
+Jan jukʼa utjatapat, jaqinakax uñt'ayañ tuqi suyt'apxi, ukat familiyanakax parlañataki jan kuna jaqi utjañ sasa amuyapxi. Yatiñ jaqinakax jupanakjama ukhamarak jakañ yatiñaxa sumawa.
 
-## Jaqi lurañanakan jakañ ch'amañchañ
+## Jaqi lurañanakan utjañ
 
-Demencia qalltañan jaqinakax wawanak ukham uñjasiñ janiw munapxiti. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sañ utjaski, lurañanakax jaqin kunanakas lurañ ukat sum sarañ ukar apthapiñapa. 50 maranakan jaqirakix, akham luraña utjaspa:
+Chiqpach demencia uñjatanakax jukʼamp wawanakjamaki sasa munapxi jan ukax uñjatäpxi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sapxi lurañanakax jaqin kuna lurañ ukat munañapat uñt'añapawa. 50 maranakan jaqitaki, akax ukhamarakiw:
 
-- **Mä ukjat phuqhañ jakañ,** kunjamatix lakanakar purt'aña, nayrapxat qulqi, jan ukax yatiñ tantachäwi, kunaymana, jan ukax coro, kunjamatix chika jan sarañ ukhamarak.
-- **Sarnaqaña jan ukax bicicleta yatiñaru yanapiri jaqimpi,** mä thakhi jaqi yatiñ ukat.
-- **Familiankirinakatakix manq'a luraña,** jaqix yanapt'ita ukanak luraspa.
-- **Yanapt'aña jan ukax sarañ mä lurañat,** kunjamatix donaciones sartañ, jan ukax escuela ch'uqiñ tantachäwinakan yanapt'añ.
-- **Mä thakhi sarañ amtaña,** jaqirjama aski, yanapiri jaqimpi ukat sum sarañ amtañapa.
-- **Wawanakampi, sullkanakampi jan ukax sobrinonakampi uñtasiña,** mä juego jan ukax mä lurañ luraña.
+- **Yatiñ walt'äwi sarañ,** ukhamarak madera lurañ, deporte, naypa, libro tantachawi jan ukax coro, yanapt'añ juk'ampi jan ukax jukʼa pachan.
+- **Sarañ jan ukax bicicleta sarañ mayni jaqimpi,** jaqix yatiñ thakinakan.
+- **Familiyan manq'a lurañ,** jaqix kuna lurañ ukaru yanapt'añ.
+- **Yanapt'añ jan ukax sirvañ** kuna lurañ ajllisa, akhamarak donativonakar sipiyaña jan ukax escuelan uru tuqi.
+- **Mä sarañ lurañ** jaqitaki wali sapaki uka chiqar, mayni jaqimpi ukat jukʼa uru tuqi.
+- **Warminakampi, jilanakampi jan ukax wawanakampi sarañ,** mä jan ukax lurañ ukat juegu sapxi.
 
-Jaqiw ajllispa. "¿Kunsa jichhürux sarañ munta?" sasa jawsañax, mayni ajllañ sarasiñat sipansa aski.
+Jaqi ajllisañapa. "¿Kuna lurañ munta jichha tardi?" sasa arsuñax jaqiru kuna ajllisañ ukat sasa lurañat juk'ampi chiqapawa.
 
-## Jaqi maranakan mä lurañ ukat amuyañanaka ocupa
+## Yuqalla maranakan yatiñ ukat amuyunakampi lurañ
 
-Phisqhani maranakan, tunka paya maranakan ukat tunka phisqha maranakan amuyañanakax, uywatanakax ukat lurañanakax jach'a chuymaw yatiñ ukat sumanak arsutanakax, mä chiqana tantachäwinak yanapt'apxi. [Música](/activities/music/) yatiyañan, mä playlist luraña yatiyañanak utjaspa, ukat [reminiscence activities](/activities/reminiscence/) sañ jaqinakax, uñtasiñ, uñacht'äwinakat sarañ yatiñapa. Mä khä juego munaski ukhaxa, [conversation cards](/games/conversation-cards/) ukat, trabajo, sarañ, sullka ukat familia uñjañanakat jawsañanakat yatiñat.
+Jaqinakan 20, 30 jan ukax 40 maranakan arunaka ukat uñt'äwinakax jaqin amuyunakap apaski ukat parlañanak sapxi. [Music activities](/activities/music/) ukax playlist lurañ yatiyi, [reminiscence activities](/activities/reminiscence/) ukax uñt'äwinakampi arunakampi sarañ yatiyi. Juk'amp irnaqañ juego ukat, [conversation cards](/games/conversation-cards/) sarañ, irnaqañ, sarañ, familiya jan ukax yuqallanakan arsutanakampi.
 
-Familiankirin uñacht'äwinakat [Photo pairs](/games/photo-pairs/) ukat, kuna yatiñanakas jaqinakatakix uñacht'äwinakax, lurañ aski. Akax uñacht'äwinakax uka qhana computadoran jakasiñapa.
+Familiyan uñt'äwinakampi photo pairs lurañax wali askiwa, uka uñt'äwinakax jaqin munatanakampi jaqinakampi chiqpach utjaraki. [Photo pairs](/games/photo-pairs/) uka uñt'äwinakax navegador ukan uka computadora ukan imantasi.
 
-## Irnaqañ, auto irpañ ukat jakañ sarnaqaña
+## Irnaqañ, awtu tuqi sarañ ukat uru tuqi sarnaqañ
 
-Mayninakax, qalltañ demencia uñjatäki, irnaqapxi, auto irpapxi jan ukax qullqi uñjapxi. Akanakax lurañanak ukhamarak jan sasiñ jakañ ch'amañchapxi. Jupax doctor parlañapawa, auto irpañ ukat irnaqañ sum sarañ, ukat qullqi ukat citanak uñjañ yanapt'añ munapachati uka uñjañapa. Amtawa jaqi suma uñjañapa ukat munapki ukhaxa lurañanakan ch'amañchañapa.
+Chiqpach demencia uñjatanakax juk'amp irnaqapxi, awtu tuqi sarapxi jan ukax qullqi jan ukax chiqapar uñjapxi. Akanakax lurañ juk'a uñt'atäpxi, ukampirus jaqin sarnaqañap yanapt'apxi. Jaqix doctor jupampi parlañapa awtu tuqi sarañ ukat irnaqañ jan wali sapxi ukat qullqi jan ukax citanakataki yanapt'añ munasa. Amtaxa jaqin sumankañap imantañawa, ukat jaqix ajllisiñapa ukhamarak lurañ.
 
-Sarnaqañ sum sarañ ukat jakañ ch'amañchañ uñjañ [sarnaqañ sum sarañ](/activities/daily-routine/) ukat [utjañ lurañanaka](/activities/household-tasks/) uñjañanakaxa.
+[A gentle daily routine](/activities/daily-routine/) ukat [household tasks as activities](/activities/household-tasks/) sarnaqañ ukat lurañ yatiyi.
 
-## Mayninakan, khä wawanakan yanapt'añ
+## Warminakan ukat wawanakan yanapt'añ
 
-Mayninakax, khä wawanakax wali jaqi sapaki amuyapxi. Uywañ irnaqañ, trabajo ukat familia ukan ch'amañchañ. Alzheimer's Association sat Asociación blog sañ utjaski, qalltañ demencia uñjañ tantachäwinakan yanapt'añ katuqapxi, ukat legal yatiñanak ukhamarak amuyañ ch'amañchañ. Uka blog sañ utjaski, Association ukax jan qhespiyañ tantachäwinak churapxi, qalltañ demencia uñjañ jaqinakatakix ukat, kimsa tantachäwinak martes, miércoles ukanakan virtual tantachasipxi.
+Warminakax ukat wawanakax jukʼamp jan sapa sasa amuyapxi. Uñjañax irnaqañ ukat familiya uñjañ jukʼamp ch'amawa. Alzheimer's Association sapxi, uñjañ mayni jaqinakampi grupo jan qullqini utjaraki, ukanakan chiqpach demencia uñjatanakaru yanapt'añ ukhamarakiw, ukat kimsa grupo martes ukat miércoles virtual sasa tantachasi.
 
-Yatiñ mayt'añatakix, Association sat 24/7 Helpline 800.272.3900 sat telefonu uñjasma. [Caregiver self-care](/caregiving/caregiver-self-care/) yatiyañanakax, samaraña, yanapa ukat sinti ch'iqt'añ uñjañanakaxa.
+Grupo yatiñ jaqinakaru yatiyañataki Association 24 horas, 7 uru tuqi 800.272.3900 uñjañ jan ukax jiskt'aña. [Caregiver self-care guide](/caregiving/caregiver-self-care/) sarnaqañ, samarañ, ukat jaqi jan ukax ch'ama tukuña uñt'ayi.
 
-## Jaqi sawanakax ukat yatiñanakax
+## Qhipa pachanakan uñjañ wali sapaki
 
-Jaqin demencia sawanakapa, kunanak sumaw ukat, lurañanakas yanapt'añ. Nayrapxat qalltañ jaqinakax, lurañanakapa ukat sumaw sarapxi, ukat [early-stage activities](/activities/early-stage/) sañ yatiyañanakax yaqha ideas utjaspa. Qhipat, lurañanakax sapaki, sensorial sarapxi, ukat [late-stage activities](/activities/late-stage/) uñjañanakan yatiñanak utjaspa. Jaqi sarnaqañax mayjt'asa ukat lurañanakax mayjt'añapa, ukat jaqi munañ yatiñapxi ukhaxa, jawsañ.
+Jaqin demencia pacha yanapt'añ kunas wali sapaki. Nayrar pachanakan jaqinakax sarnaqañanakap lurapxi mä kunay sasa, [early-stage activities](/activities/early-stage/) ukax juk'a ideanaka yatiyi. Qhipa pachanakan, lurañanakax juk'ampi sapaki ukat sentidonakampi, [late-stage activities](/activities/late-stage/) ukar uñt'ayañ sasa. Jaqix mudasiñapat lurañ mudayaña, ukat jaqix parlañ atipi ukhaxa jupar jawsañapa munañap.

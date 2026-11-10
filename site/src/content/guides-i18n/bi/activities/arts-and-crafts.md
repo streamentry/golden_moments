@@ -1,28 +1,28 @@
 ---
-title: "Art mo Kraft blong Adult we Oli Gat Dementia"
-seoTitle: "Art mo Kraft blong Dementia: Blong Adult, No Blong Pikinini"
-description: "Art mo kraft aedia blong adult we oli gat dementia: watercolor, collage, flower arrangement, wetem tips blong setup mo adjust. Process i moa important winim product."
+title: "Art mo Kraf blong Ol Adult we Oli gat Dementia"
+seoTitle: "Art mo Kraf blong Dementia: Blong Adult, No Pikinini"
+description: "Ol aedia blong art mo kraf blong ol adult we oli gat dementia, from pent long wota mo kolas te long flaoa, wetem tips long setap mo jenjem, mo proses i moa impoten."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gud art mo kraft blong adult we oli gat dementia i luk mo i filim olsem olgeta i bigfala man mo woman: watercolor, collage long ol magazine, flower arrangement, clay, simple card making, o adult coloring pages. Putumaot sam material, helpem long fes stroke sipos i nid, toktok taem yu stap wok, mo save se taem we yufala i spendem wetem tugeta i wan main samting. Wan finis wok i no compulsory.
+  Art mo kraf we i gud blong ol adult we oli gat dementia oli luk mo oli filim olsem ol adult: pent long wota, kolaj long ol magasin, flaoa arenjmen, kle, mekem kad, o ol pej blong kalarem blong adult. Putumaot sam material, helpem long fes strok sipos i nid, toktok taem yu stap wok, mo luk taem we yu stap wetem olsem samting we i impoten. Wan pis we i finis hemi optional.
 keyPoints:
-  - "Jusum ol material mo tingting we i luk blong adult, olsem watercolor paper, ol real flower mo ol picture long magazine, no glitter, sticker o ol cartoon worksheet."
-  - "Stap long process: ol kala, fílin blong clay, toktok. Wan finis wok i bonus nomo, i no goal."
-  - "Givim wan purpose sipos yu save, olsem wan card blong pikinini blong yu, o wan centerpiece blong tebol."
-  - "Helpem man ya blong stat, then stap bak. Stat wan brush stroke wetem hem i ofen i nogat moa nid."
-  - "Ol project i no nid blong finis long wan taem, mo blong stopem erli i olwe fine."
+  - "Jusum material mo tema we oli luk olsem adult, olsem pepa blong pent long wota, flaoa we oli trufala mo pija long magasin, no glitta, sitika o ol wok sit blong kartun."
+  - "Fokas long proses: ol kolas, filin blong kle, toktok. Wan pis we i finis hemi wan bonus, no hemi gol."
+  - "Givim wan purpos taem yu save, olsem wan kad blong wan pikinini blong famili o wan centerpiece blong tebol."
+  - "Helpem man o woman i stat, then i stap bak. Stat wan strok blong bras togeta ofen i enak finis."
+  - "Ol project oli no nid blong finisim long wan sitting, mo stopem erli i oltaem i stret."
 faq:
-  - q: "Hao blong mi save kipim ol kraft i no luk olsem pikinini?"
-    a: "Yusum ol real art material, ol tingting blong adult mo fasin we i rispektem. Jenisim glitter mo ol cartoon pej wetem watercolor paper, kloth, flower, ol picture long magazine mo ol detailed coloring pej. No ros praes wok olsem wanem yu praesem drawing blong pikinini; toktok long hem olsem wanem yu toktok wetem wan adult fren."
-  - q: "Wanem art aktiviti i wok long stej we dementia i stap moa strong?"
-    a: "Ol projek we i simpol mo i usum fíling we oli wok moa bihaen: pentem ol bigfala stroke wetem bigfala brush, skwíz soft clay, arrenjem sam flower long vaes, o soem ol kloth swatch wetem fílin blong han. Yu save nidim blong stat mouvmen tugeta. Luk yu taem yu pentem mo toktok long ol kala i wan fasin blong tekem pat tu."
-  - q: "Wanem sipos oli talem se oli no save draw?"
-    a: "Mekem fes i no hevi. Traem ol projek we i no gat rong ansa, olsem wan wash blong watercolor, wan collage, o arrenjem flower. Yu save talem tu se yu nid helpem long wan samting spesifik, olsem jusum kala blong wan card, blong task i fílim olsem wan fevo, no wan test."
-  - q: "Ol coloring pej oli pikinini tumas blong ol adult?"
-    a: "No, sipos oli dizaen blong ol adult. Jusum ol pej wetem ol samting blong adult olsem gaden, kwilt, ka o ol landscape, mo presentem olsem samting we i rilakis, no olsem wan les. Ol coloring pej blong mifala i ken printem o kalarem long wan tablet."
+  - q: "Hao mi save stopem kraf blong no kam pikinini?"
+    a: "Yusum ol real art material, tema blong adult mo tok we i gud mo i respect. Jenjem glitta mo ol pej blong kartun wetem pepa blong pent long wota, kloth, flaoa, pija long magasin mo ol pej blong kalarem we oli gat ol detel. No tok gud long wok olsem we yu tok gud long drowing blong pikinini; toktok long hem olsem yu toktok wetem eni adult frend."
+  - q: "Wanem art aktiviti i wok long las stej blong dementia?"
+    a: "Ol project we oli simpol mo oli ritim filin oli wok moa taem: pentem ol bigfala strok wetem bigfala bras, skwiz soft kle, arenjem sam flaoa long wan vaes, o sortem ol pis kloth long filin. Yu save nidim stat movmen togeta. Lukim yu stap pentem mo toktok abaot ol kolas hemi wan rod blong tekem pat tu."
+  - q: "Wanem sipos oli talem se oli no save drowe?"
+    a: "Mekem i no stap presa. Traem ol project we i no gat rong ansa, olsem wan wash blong pent long wota, wan kolaj, o flaoa arenjmen. Yu save tu talem se yu nid helpem long wan samting spesifik, olsem jusum kolas blong wan kad, so wok i fil olsem wan fevo, no wan test."
+  - q: "Ol pej blong kalarem i tumas pikinini long ol adult?"
+    a: "No, taem oli dizaen blong ol adult. Jusum ol pej wetem ol sabjek blong ol adult olsem gaden, kwilt, ka o ol lanskep, mo presentem olsem samting blong relaks, no olsem wan lesen. Ol pej blong kalarem blong yumi oli save printem o kalarem long tablet tu."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -44,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art mo kraft i givim ol man mo woman we oli gat dementia wan rod blong soem tingting blong olgeta, we i no depend long faenem ol rait wod. Alzheimer's Association i talem se ol art project oli save givim [wan fílin blong i bin mekem wan gud samting mo i gat wan purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) mo wan jans blong soem tingting blong olgeta, long man we i stap lukaotem mo long man we i gat dementia. Main samting i blong mekem ol samting i stap blong adult, i simpol, mo i no gat presa. Pej ya i givim ol projek we i spesifik, hao blong setup olgeta, mo hao blong adjustem olgeta taem ol samting i jenis.
+Art mo kraf i givim ol man mo woman we oli gat dementia wan rod blong talem fasin blong olgeta, we i no depend long faendem ol rait wod. Alzheimer's Association i talem se ol art project oli save givim [sens blong acomplishment mo purpos](https://www.alz.org/help-support/caregiving/daily-care/art-music) mo wan jans blong expres fasin, long man we i kea mo long man we i gat dementia tu. Samting i impoten hemi blong kipem ol samting i stap adult, simpol mo no gat presa. Pej ia i givim ol project we i spesifik, hao blong setapem olgeta, mo hao blong adaptem olgeta taem samting i jenj.
 
-## Wanem i mekem wan art aktiviti i blong adult mo no pikinini?
+## Wanem nao i mekem wan art aktiviti i adult mo no pikinini?
 
-Wan art aktiviti blong adult i yusum ol real material, ol samting blong adult mo fasin we i rispektem. Alzheimer's Association i advaesem blong kipim ol projek long level blong adult mo blong no yusum eni samting we i save luk olsem i disrespektem o olsem pikinini.
+Wan art aktiviti we i adult i yusum ol real material, ol sabjek blong adult mo tok we i respect. Alzheimer's Association i advaesem blong kipem ol project long wan level blong adult mo blong avoidem eni samting we i save luk olsem i lesem dignity o olsem pikinini.
 
 | I luk olsem pikinini | I luk olsem adult |
 | --- | --- |
-| Glitter, foam sticker, ae we i lukluk olsem ae blong pikinini | Watercolor paper, kloth, flower we oli pres finis |
-| Cartoon coloring sit | Coloring pej blong gaden, kwilt, ka o landscape |
-| "Gud wok" praes long evri mak | Real toktok: "Blu ya i nice tumas klosap long grin" |
-| Wan kraft we i no gat yus | Wan card blong wan fren, wan centerpiece, wan presen |
-| Ol instruction i rid olsem wan les | Wan invitesen: "Yu ken helpem mi long samting ya?" |
+| Glitta, sitika blong foam, ol ae blong gugu | Pepa blong pent long wota, kloth, pressed flaoa |
+| Ol pej blong kalarem we oli kartun | Ol pej blong kalarem blong ol gaden, kwilt, ka o lanskep |
+| "Gud wok" blong evri mak | Toktok we i tru: "Blu ia i gud wetem grin" |
+| Wan kraf we i no gat yus | Wan kad blong wan fren, wan centerpiece, wan presen |
+| Ol instraksen i luk olsem wan lesen | Wan invitesen: "Yu save helpem mi long samting ia?" |
 
-Tingting long gud fílin blong man ya. Wan man we i laekem wok blong nidol i save laekem blong hanem kloth. Wan retaet enjinia i save laekem wan model kit we i gat bigfala pis, o sot ol hadwea blong wan projek. Wan fomer tija i save laekem blong mekem ol card.
+Tingem abaot fasin blong man ya. Wan man we i laekem wok nidol i save injoem fil blong kloth. Wan man we i wok long masin i save laekem wan model kit wetem bigfala pis, o sortem hadwea blong wan project. Wan fomer tisa i save laekem mekem kad.
 
-## Wae i stret blong fokus long process, no long product?
+## Wae nao i stap fokas long proses, no long samting we i finis?
 
-Bikos taem we yufala i spendem wetem tugeta i wan main samting. Alzheimer's Association i gat wan gaed long [ol aktiviti long haos](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) we i talem blong konsentret long process, no long rijolt. Wan pentin we i "blu nomo" i stil wan pentin. Wan collage we i gat tri pikjas i stil wan collage.
+Bikos taem we oli stap wetem i nao i pointi. Gaed blong Alzheimer's Association abaot [aktiviti long hom](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) i talem blong fokas long proses, no long resalt. Wan pentin we i "blu nomo" i stil wan pentin. Wan kolaj we i gat tri pija i stil wan kolaj.
 
-Association i talem tu se wan profesonal artist i ken kros taem ol wok blong hem i jenis, be wan man we i no profesonal i ken injoe wan nyufala jans blong soem tingting blong hem. Sipos man ya i wan gud artist, traem wan narafala midium we i no sem wan we hem i save gud finis, blong i luk olsem pleiing i no olsem komparesen.
+Association i talem tu se wan profesenol atis save fil hevi taem ol jenj i kam long wok blong hem, be wan man we i no profesenol save injoem wan nyu jans blong expres fasin blong hem. Sipos man we i wok gud long art, traem wan narafala midiam we hemi no bin mastem, blong i kam olsem play, no olsem komperisen.
 
-## Ol art mo kraft aedia blong traem
+## Ol art mo kraf aedia blong traem
 
-Long wan aedia i gat hao blong mekem hem i simpol sipos hem i kamap hadwok.
+Wan aedia i gat ol hao blong mekem i simpol sipos i kam hard.
 
-1. **Watercolor wash.** Wetem wan sit blong heavy watercolor paper, mekem i wet mo letem man ya i tanem kala long hem wetem wan bigfala brush. Ol kala oli spredem olgeta, so i no gat rong rizolt. *Simpol:* givim tu kala nomo, o pentem wetem wota long dak pepa we i soem ol wet mak.
-2. **Magazine collage.** Katem ol pikjas bifoa long ol magazine long gaden, kukin, ka, travel o ol old hobi blong man ya. Letem hem i jusum mo i gluem ol pikjas long card stock. *Simpol:* givim fo pre-katem pikjas mo wan glue stick, mo gluem tugeta.
-3. **Flower arrangement.** Alzheimer's Foundation of America i sajestem [arenjem ol katem flower mo grin lif](https://alzfdn.org/dementia-activity-gardening/) long ol simpol displei blong seasen. Yusum wan heavy, stebol vaes mo ol stem we oli trim finis. *Simpol:* putum sam stem long wan smol kap, wan wan.
-4. **Pres flower card.** Pres ol flower long wan bouquet long ol buk pej long wan wik, then gluem olgeta long ol folded card stock. *Simpol:* yu putum glue, hem i presem flower i go daon.
-5. **Adult coloring pej.** Jusum ol pej wetem klia aotlaen mo ol real samting. Ol [coloring pej](/games/coloring/) blong mifala i ken printem o tu kalarem long skrin taem yu tajem wan kala, then wan pat blong pikja. *Simpol:* ol bigfala eria, lesa kala, ol tik marka.
-6. **Clay o soft dough.** Rolem, presem mo sepem air-dry clay o soft modeling dough. Presem wan lif i go long clay i mekem wan simpol imprint tail. *Simpol:* jas skwizem mo rolem i wan fulfala aktiviti. Lukaotem se man ya i no putum clay long maot.
-7. **Card making.** Alzheimer's Association i sajestem blong fremem i olsem wan real wok: "Mifala i salem wan card blong gudfala long wan fren. Yu ken helpem mifala?" Pre-katem card stock mo sam sticker blong flower o stamp i wok gud.
-8. **Scrapbooking.** Putum ol kopi blong ol old pikjas, postkad o tiket stab long ol album pej wetem tugeta. Toktok long wanwan taem yu stap wok. Luk [gaed blong reminiscence](/activities/reminiscence/) blong ol soft fasin blong toktok long past.
-9. **Kloth mo tekstja bod.** Gluem ol swatch blong corduroy, velvet, burlap mo silk long wan stiff card. Mekem hem i aktiviti; tajem hem bihaen i wan narafala aktiviti. Moa aedia i stap long [gaed blong sensory aktiviti](/activities/sensory/) blong mifala.
-10. **Simpol wud finishing.** Blong wan man we i laekem wud wok, sanem wan smol blok blong wud o pentem wan birdhaos kit i ken fílim fomiliar. Sotem ol sap tul mo wajem yu lukluk.
-11. **Pentem long musik.** Putum wan fevrit rekod mo pentem sep o kala we i matem wetem fílin. Hem i joenem tu aktiviti we plante man i laekem. Luk [ol musik aktiviti](/activities/music/).
+1. **Pent long wota.** Mekem wan sit blong heve pepa blong pent i wet long wota, mo letem man i drop kolas long hem wetem bigfala bras. Ol kolas bambae oli spred bitim blong olgeta, so i no gat rong sawt. *Simpler:* ofem tu kolas nomo, o pentem wetem wota long dak pepa we i sowem ol wet mak.
+2. **Kolaj long magasin.** Katem ol pija long magasin bifo, long ol samting olsem gaden, kukum, ka, trevel o ol hobi blong man long bifo. Letem hem i jusum mo glu ol pija long kad pepa. *Simpler:* ofem fo pija we yu katem finis mo wan glu stik, mo yu mo hem i glu wok togeta.
+3. **Flaoa arenjmen.** Alzheimer's Foundation of America i sajestem [arenjem katem flaoa mo grin](https://alzfdn.org/dementia-activity-gardening/) long ol simpol displei blong ol seson. Yusum wan hevi, stedi vaes mo ol stem we oli trim finis. *Simpler:* putum sam stem long wan smol kap, wan wan.
+4. **Kad blong pressed flaoa.** Pressem flaoa long ol pej blong wan buk for wan wik, then glu long ol fold kad pepa. *Simpler:* yu putum glu, mo hem i pressem flaoa daon.
+5. **Pej blong kalarem blong adult.** Jusum ol pej we i gat klia aotlaen mo ol sabjek we oli real. Ol [pej blong kalarem](/games/coloring/) blong yumi we yu save printem, oli save tu kalarem long skrin taem yu tajem wan kolas, then wan pat blong pija. *Simpler:* ol eria we oli bigfala, ol kolas we oli smol, mo ol marka we oli tik.
+6. **Kle o soft dough.** Rolem, pressem mo sheipem air-dray kle o soft modeling dough. Pressem wan lif i go long kle i mekem wan simpol tile wetem imprint. *Simpler:* jus skwiz mo rolem i wan fulfil aktiviti. Lukaotem se man i no putum kle long mausen.
+7. **Mekem kad.** Alzheimer's Association i sajestem fremem i wan riel wok: "Mifala i sendem wan kad blong gud long wan fren. Yu save helpem mi?" Ol prekat kad pepa mo sam sitika blong flaoa o stamp oli wok gud.
+8. **Skrapbuk.** Putum ol kopi blong ol olfala pija, postcard o tiket long ol album pej togeta. Toktok abaot each wan taem yu wok. Lukim [gaed blong rimemba](/activities/reminiscence/) blong ol gentel wei blong toktok abaot pas.
+9. **Kloth mo tekstja bod.** Glu ol smol pis blong kodrɔy, velvet, burlap mo silk long stiff kad. Mekem hemi wan aktiviti; tajem hemi bihaen i wan narafala. Mo aedia i stap long [gaed blong sensory aktiviti](/activities/sensory/).
+10. **Simpol wud finisin.** Blong man we i laekem wud wok, sanem wan smol blok wud i stap smut, o pentem wan birdhaos kit i save fil olsem wan samting we hem i save. Tekemaot ol sap tul mo lukaotem.
+11. **Pentem long musik.** Putum wan favorit rekod mo pentem ol sep o kolas we i makem wetem fil. Hemi joenem tu aktiviti we plande man i enjoem. Lukim [aktiviti long musik](/activities/music/).
 
-## Hao blong setup wan art sesen?
+## Hao nao mi save setapem wan sesen blong art?
 
-1. **Redi fastfas.** Katem, trimim mo putum evrisamting aot bifoa yu invitem man ya. Taem yu stap luk ol sisa, moment ya i ken lus.
-2. **Kipim i smol.** Tu o tri kala, wan brush, wan sit pepa. Tumas jus i ken mekem hem i hevi.
-3. **Protectem tebol.** Wan plastik kaliko o wan olfala sit i mekem mes i no wari.
-4. **Sitdaon klosap.** Wokem pis blong yu bigfala long saed blong olgeta. Hem i fílim olsem wan wok we yufala i sharem, no olsem wan we yu stap lukluk.
-5. **Helpem olgeta stat.** Alzheimer's Association i talem se yu ken nidim blong stat brush mouvmen wetem man ya. Taem i stat finis, plante man i save kisap.
-6. **Toktok taem yu stap wok.** Komentem ol kala mo tekstja, o letem art i lidim ol stori. Ples ol kwestin olsem kwis, olsem "Wanem hemi?"
-7. **Givim bigfala taem.** Wan projek i no nid blong finis long wan sesen nomo.
+1. **Prepea fos.** Katem, trim mo putumaot evri samting bifo yu invitem man ya. Wet taem yu serjem ol sisa i save lusum moment.
+2. **Kipem i smol.** Tu o tri kolas, wan bras, wan pis pepa. Tumas jus i save kasem.
+3. **Protectem tebol.** Wan plastik kaman o wan ol sit i mekem mes i no wan wari.
+4. **Sitdaon sait bae sait.** Wok long pis blong yu klosap long blong olgeta. I filim olsem wan samting we yumi sherem, no olsem wan we yu lukaotem.
+5. **Helpem olgeta i stat.** Alzheimer's Association i talem yu save nidim stat bras movmen wetem man ya. Taem i stat, plande man i save kontinyu.
+6. **Toktok taem yu wok.** Komentem ol kolas mo tekstja, o letem art i lidim ol stori. Avoidem ol kwestin olsem kwis: "Wanem nao ia?"
+7. **Letem plande taem.** Wan project i no nid blong finisim long wan sitting.
 
-## Hao blong adjustem art taem dementia i jenis?
+## Hao nao mi save adaptem art taem dementia i jenj?
 
-| Stej | Wanem i tendem blong wok | Wanem blong adjustem |
+| Stej | Wanem i wok | Wanem blong jenjem |
 | --- | --- | --- |
-| Erli | Klas, detailed coloring, scrapbook, card making, pentem long wan pikja | Givim jusum long ol projek; kipim i sosial |
-| Midol | Pre-katem collage, watercolor wash, flower arrangement, coloring long bigfala eria | Wan step long wan taem; yu blong katem mo gluem |
-| Leitem | Bigfala brush stroke, skwizem clay, tajem kloth, luk yu stap pentem | Fokus long ol sens; gaedem han gently sipos i gudfala |
+| Stat | Kas, detel kalarem, skrapbuk, mekem kad, pentem long pija | Ofem jes blong project; kipem i sosol |
+| Midol | Kolaj we oli katem finis, wash blong pent long wota, flaoa arenjmen, kalarem wetem bigfala ples | Wan step long wan taem; yu save katem mo glu |
+| Las | Bigfala strok long bras, skwiz kle, tajem kloth, lukim yu stap pentem | Fokas long sens; gaedem han gently sipos i welkam |
 
-NHS i sajestem se long ol leit stej, ol aktiviti oli ofen i simpol mo fokus long ol sens. Luk narafala man i pentem, mo toktok long ol kala, i wan real wei blong tekem pat. Blong moa aedia long stej-long-stej, luk [aktiviti blong evri stej](/activities/ideas/).
+NHS i talem se long las stej, ol aktiviti oli oftenn simpolem mo fokas long sens. Lukim narafala man i stap pentem, mo toktok abaot ol kolas, hemi wan riel wei blong tekem pat tu. Blong ol moa aedia stap-bae-stap, lukim [aktiviti blong evri stej](/activities/ideas/).
 
-## Sefti wetem art material
+## Seifti wetem ol art sepleis
 
-- Jusum non-toxic pent, marka mo glue stick.
-- Kipim sisa, kraft naef mo hot glue gan we oli no kasem. Mekem ol katem yu seleva, bifoa.
-- Lukaotem sipos eni man i putum clay, pent o smol samting long maot.
-- Yusum stebol, heavy kontena blong wota mo vaes.
+- Jusum ol pent, ol marka mo ol glu stik we oli no gat toksik.
+- Kipem sisa, naef blong kraf mo hot glu gan i farawe long reach. Yu wan nomo i katem long taem bifo.
+- Lukaot long man we i putum kle, pent o smol samting long mausen.
+- Yusum ol stedi, hevi kontena blong wota mo vaes.
 
-## Wanem taem blong stopem?
+## Wanem taem nao mi save stopem?
 
-Stopem taem atensen i wakabaot o taem frastresen i soem. Alzheimer's Association i sajestem blong finisim o jenisim wan aktiviti taem atensen i sotwan o frastresen i kamap bigwan. Putum projek long wan sef ples mo ofrem samting we i rilakis. Yu ken kambak long hem tumoro, o nating. Eni wan i oraet.
+Stopem taem atensen i go, o frustrasen i sho. Putum projek i stap long wan seif ples mo ofem wan samting we i restful. Yu save kam bak tumora, o yu no kam bak nating. Eni wan i fin.
 
-## Soem wok, sipos man ya i wantem
+## Soem wok blong soem, sipos man ya i wantem
 
-Pinim wan pentin long frij o fremem wan collage i ken wan kwaet fasin blong soem rispek. Askem fes. Sam man i laekem luk ol wok blong olgeta long wol; ol narafala oli wantem nating.
+Pinem wan pentin long fridj o fremem wan kolaj i save wan kwaet wei blong soem rispekt. Askem fastaem. Sam man oli laekem luk wok blong olgeta long wol; ol narafala oli no wantem.
 
-## Pea art wetem ol gem blong mifala
+## Pemem art wetem ol gem blong mifala
 
-Long ol de we setup ol pent i tumas, [Coloring](/games/coloring/) i wok long wan tablet we i no gat mes. [Picture Puzzle](/games/picture-puzzle/) i kipim fulpija i luk long ai olsem wan gaed taem yu stap jenisim ol pis. [Conversation Cards](/games/conversation-cards/) i givim open prompt we i ken lidim from wan pikja i go long wan stori. Evriwan oli no gat taem o skor. Yu ken tu printem ol pej long [ol printable aktiviti](/activities/printable/) collection blong mifala.
+Long ol dei we setapem ol pent i tumas, [Kalarem](/games/coloring/) i wok long tablet wetem no mes. [Pikja Puzol](/games/picture-puzzle/) i kipem olgeta pija i luk ol long gaed taem yu jenjem ol pis. [Konvesesen Kad](/games/conversation-cards/) i ofem ol open promt we i save lidim long wan pija i go long wan stori. Olgeta oli no gat taem o skoa. Yu save tu printem ol pej long [printabol aktiviti](/activities/printable/) kalekson blong mifala.
