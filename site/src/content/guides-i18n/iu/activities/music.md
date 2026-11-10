@@ -1,32 +1,28 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "ᐃᖕᒥᒃᓴᓂᒃ ᖃᓄᐃᓕᐅᕐᓂᑦ ᐱᑐᖃᕐᓗᒋᑦ ᐃᓄᒃᑎᑐᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖃᕐᓗᒋᑦ"
+seoTitle: "ᐃᖕᒥᒃᓴᓂᒃ ᖃᓄᐃᓕᐅᕐᓂᑦ ᐱᑐᖃᕐᓗᒋᑦ: ᐃᖕᒥᒃᓴᐃᑦ ᐊᒻᒪ ᐃᓱᒪᒋᔭᐅᔪᑦ"
+description: "ᖃᓄᖅ ᐃᖕᒥᒃᓴᓂᒃ ᐊᑐᖃᑦᑕᕐᓂᖅ ᐃᓄᒻᒧᑦ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖃᕐᑐᒧᑦ: ᓇᖕᒥᓂᖅ ᐃᖕᒥᒃᓴᓂᒃ ᑎᑎᕋᕐᓗᑎᑦ, 15 ᐊᔪᕈᓐᓃᖅᑐᑦ ᖃᓄᐃᓕᐅᕐᓂᑦ, ᐊᒻᒪ ᐃᑲᔫᑎᑦ ᑕᒪᐃᓐᓂ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᓂ."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  ᐃᖕᒥᒃᓴᐃᑦ ᐊᔪᕈᓐᓃᖅᑐᑦ ᖃᓄᐃᓕᐅᕐᓂᐅᔪᑦ ᐃᓄᒻᒧᑦ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖃᕐᑐᒧᑦ. ᑎᑎᕋᕐᓗᑎᑦ ᓇᖕᒥᓂᖅ ᐃᖕᒥᒃᓴᓂᒃ ᒪᒃᑯᒃᑐᓂᒃ ᐃᓐᓇᐅᓂᕐᒥᓂᑦ, ᐅᒃᐱᕐᓂᖃᕐᓂᕐᒥᓂᑦ ᐊᒻᒪ ᐃᓚᒌᒍᓯᕐᒥᓂᑦ ᐃᖕᒥᒃᓴᓂᒃ, ᓂᐸᖅᑎᑦᑎᓗᑎᑦ ᓇᓗᓇᐃᖅᑕᐃᓕᒪᓂᖏᓐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓂᐸᖅᑎᑎᑦᑎᓂᖏᓐᓂᒃ ᐊᕙᑎᓕᕆᓂᖏᓐᓂᒃ, ᐃᖕᒥᕐᓗᑎᑦ, ᐸᑦᑕᑎᕆᓗᑎᑦ, ᐊᐅᓪᓚᖅᑎᑕᐅᓗᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓈᓚᖃᑦᑕᕐᓗᑎᑦ ᑲᑐᔾᔨᓗᑎᑦ. ᓂᕈᐊᕐᓗᑎᑦ ᓴᐃᓕᒪᓂᖅᑐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐆᒻᒪᕆᒃᑐᓂᒃ ᐃᖕᒥᒃᓴᓂᒃ ᐱᔭᕇᖅᓯᒪᔪᒧᑦ ᒪᓕᒃᓗᒍ, ᓂᐸᖅᑎᑎᑦᑎᓗᑎᑦ ᓴᐃᓕᒪᓂᖃᑦᑎᐊᕐᓗᒍ, ᐊᒻᒪ ᓄᖅᑲᕐᓗᑎᑦ ᐃᖕᒥᒃᓴᖅ ᐃᓄᒻᒧᑦ ᐊᓕᐊᓇᐃᒍᓯᒪᒃᐸᑦ.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "ᓇᖕᒥᓂᖅ ᐃᖕᒥᒃᓴᐃᑦ ᐱᐅᓂᖅᓴᐅᔪᑦ: ᒪᒃᑯᒃᑐᓂᒃ ᐃᓐᓇᐅᓂᕐᒥᓂ ᓂᕈᐊᕐᓂᖃᑦᑎᐊᖅᑕᖏᑦ, ᐊᒻᒪᓗ ᐅᒃᐱᕐᓂᖃᕐᓂᕐᒥᓂᑦ, ᐱᖅᑯᓯᕐᒥᓂᑦ ᐊᒻᒪ ᐃᓚᒌᒍᓯᕐᒥᓂᑦ ᐃᖕᒥᒃᓴᐃᑦ."
+  - "ᐊᑕᐅᓯᕐᒥᒃ ᓂᐸᖅᑎᑦᑎᓗᑎᑦ ᑕᐃᒪᐃᓐᓇᖅ, ᓇᓗᓇᐃᖅᑕᐃᓕᒪᓂᖏᓐᓂᒃ ᐊᒻᒪ ᑕᓚᕖᓴᖅ ᖃᒪᓗᒍ."
+  - "ᐃᖕᒥᕐᓂᖅ, ᐸᑦᑕᑎᕆᓂᖅ, ᐊᐅᓪᓚᖅᑎᑕᐅᓂᖅ ᐊᒻᒪ ᓈᓚᖃᑦᑕᕐᓂᖅ ᑕᒪᕐᒥᒃ ᐃᓚᐅᔪᓐᓇᖅᑐᑦ ᖃᓄᐃᓕᐅᕐᓂᐅᔪᑦ."
+  - "ᐊᑐᕐᓗᑎᑦ ᓴᐃᓕᒪᓂᖅᑐᓂᒃ ᐃᖕᒥᒃᓴᓂᒃ ᓴᐃᓕᒪᑎᑦᑎᓂᐊᕐᓗᑎᑦ, ᐆᒻᒪᕆᒃᑐᓂᒡᓗ ᖁᕕᐊᓇᕐᓂᖅᑎᑦᑎᓂᐊᕐᓗᑎᑦ, ᐊᒻᒪ ᖃᐅᔨᒋᐊᕐᓗᑎᑦ ᐃᓄᖅ ᖃᓄᖅ ᐊᑦᑐᐃᓂᖃᕐᒪᖔᖅ."
+  - "ᖃᐅᔨᓴᕐᓂᐅᔪᑦ ᐋᖅᑭᒃᓯᒪᓂᖃᖅᑎᓪᓗᒋᑦ ᐃᖕᒥᒃᓴᓂᒃ ᖃᓄᐃᓕᐅᕐᓂᕐᓂᒃ ᐊᒥᓲᙱᑦᑐᑦ; ᐅᕙᒍᑦ ᐃᖕᒥᒃᓴᐃᑦ ᐅᖃᐅᔾᔨᕗᑦ ᖁᕕᐊᓇᖅᑐᒦᑦᑎᐊᕐᓗᒋᑦ ᐊᑐᖃᑦᑕᕐᓂᖅ, ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᖅ ᐱᓇᓱᐊᕈᓯᕐᓂᒃ ᐋᖅᑭᒃᓯᒪᓂᖅ ᐱᖓᓱᓂᒃ."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "ᖃᓄᖅ ᐃᖕᒥᒃᓴᐃᑦ ᐱᐅᓂᖅᓴᐅᕙ ᐃᓄᒻᒧᑦ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖃᕐᑐᒧᑦ?"
+    a: "ᐃᖕᒥᒃᓴᐃᑦ ᐃᓄᖅ ᐅᖃᐅᓯᖃᕐᓂᖃᑦᑎᐊᖅᑕᖏᑦ ᐊᒻᒪ ᓂᕈᐊᕐᓂᖃᑦᑎᐊᖅᑕᖏᑦ ᐊᑯᓂᐅᔪᒥᒃ, ᐊᒥᓲᓂᖅᓴᐅᑎᒍᑦ ᐃᓐᓇᐅᓂᕐᒥ ᐊᕐᕌᒍᒋᔭᖏᓐᓂ 20-ᓂᒃ ᐊᒻᒪ 30-ᓂᒃ, ᐊᒻᒪᓗ ᐃᖕᒥᒃᓴᐃᑦ ᐅᒃᐱᕐᓂᖃᕐᓂᕐᒥᓂᑦ, ᐱᖅᑯᓯᕐᒥᓂᑦ ᐊᒻᒪ ᐃᓚᒌᒍᓯᕐᒥ ᖁᕕᐊᓱᒍᑎᖃᕐᓂᕐᒥᓂᑦ. ᐱᔪᓐᓇᕐᐸᑦ, ᐃᓄᖅ ᓇᖕᒥᓂᖓ ᓂᕈᐊᕐᓗᒍ. ᑭᓇᒥ ᐊᒻᒪ ᑎᒥᖓ ᖃᐅᔨᒋᐊᕐᓗᒍ ᖃᓄᖅ ᖁᕕᐊᓇᕐᓂᖃᕐᒪᖔᖅ, ᐊᒻᒪ ᐃᖕᒥᒃᓴᖅ ᐊᓕᐊᓇᐃᒍᓯᒪᒃᐸᑦ ᓄᖅᑲᕐᓗᒍ."
+  - q: "ᓯᐅᑎᒥᒃ ᓈᓚᒃᑐᒥᒃ ᐊᑐᕐᓂᐊᖅᐳᖓ?"
+    a: "ᐃᓚᖏᑦ ᐃᓄᐃᑦ ᓯᐅᑎᒥᒃ ᓈᓚᒃᑐᒥᒃ ᖁᕕᐊᓇᕐᓂᖃᕐᐳᑦ ᓂᐸᖅᑎᑎᑦᑎᓂᖏᑦ ᓄᓇᖃᑎᒌᙱᑦᑎᐊᕐᒪᑕ, ᐊᓯᖏᑦ ᑕᒪᓐᓇ ᐱᔭᕆᐊᖃᙱᑦᑐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑐᑭᓯᐅᒪᔪᒃᓴᐅᙱᑦᑐᒥᒃ ᐃᓱᒪᒋᔭᐅᔪᓐᓇᖅᑐᖅ. ᓂᐸᖅᑎᑎᑦᑎᔪᒥᒃ ᐆᑦᑐᕋᐅᑎᒥᒃ ᐊᑐᕐᓗᑎᑦ ᓯᕗᓪᓕᕐᒥᒃ ᑲᑐᔾᔨᓗᑎᑦ ᓈᓚᖃᑦᑕᕐᓂᐊᕐᓗᑎᑦ. ᓯᐅᑎᒥᒃ ᓈᓚᒃᑐᒥᒃ ᐊᑐᕐᓂᐊᕐᐸᑦ, ᓂᐸᖅᑎᑎᑦᑎᓗᑎᑦ ᓴᐃᓕᒪᓂᖃᑦᑎᐊᕐᓗᒍ ᐊᒻᒪ ᖃᓂᒋᔭᖓᓂ ᐃᑎᑦᑎᓗᑎᑦ."
+  - q: "ᐃᖕᒥᒃᓴᐃᑦ ᐃᑲᔫᔪᓐᓇᖅᐲᑦ ᓄᓇᙳᐊᖅᑐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓕᐊᓇᐃᒍᓯᒪᓂᕐᒥᒃ?"
+    a: "ᓴᐃᓕᒪᓂᖅᑐᑦ, ᐅᖃᐅᓯᖃᕐᓂᖃᑦᑎᐊᖅᑕᐅᔪᑦ ᐃᖕᒥᒃᓴᐃᑦ ᐃᑲᔫᔪᓐᓇᖅᑐᑦ ᓴᐃᓕᒪᑎᑦᑎᓂᐊᕐᓗᑎᑦ ᐊᕙᑎᒥᒃ, ᐊᒻᒪ Alzheimer's Association ᐅᖃᐅᔾᔨᕗᖅ ᐃᖕᒥᒃᓴᓂᒃ ᐊᑐᕐᓗᑎᑦ ᐊᕙᑎᒥᒃ ᐱᔭᕇᖅᓯᒪᔪᒧᑦ ᒪᓕᒃᓗᒍ ᓴᖅᑭᑦᑎᓂᐊᕐᓗᑎᑦ. ᑕᒪᓐᓇ ᐊᑐᖅᑕᐅᓯᒪᙱᑦᑐᖅ ᐊᑐᖅᑕᐅᓂᕐᒧᑦ ᑕᒪᐃᓐᓂ. ᐃᓄᖅ ᐊᓕᐊᓇᐃᒍᓯᒪᒃᐸᑦ, ᖃᐅᔨᒋᐊᕐᓗᑎᑦ ᐋᓐᓂᐊᖃᕐᓂᖓᓂᒃ, ᑲᐃᒍᓂᖓᓂᒃ, ᓂᐸᖅᑎᑎᑦᑎᓂᖏᓐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑕᖃᓕᖅᑐᓂᖓᓂᒃ."
+  - q: "ᐃᓄᐃᑦ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖃᕐᓂᖏᑦ ᓄᖑᓪᓚᒃ ᖁᕕᐊᓇᕐᓂᖃᕐᓱᒍ ᐃᖕᒥᒃᓴᓂᒃ?"
+    a: "ᐊᒥᓱᑦ ᖁᕕᐊᓇᕐᓂᖃᕐᓱᒍ. Alzheimer's Association ᐅᖃᐅᔾᔨᕗᖅ ᐃᓄᖅ ᓄᖑᓪᓚᒃ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖃᕐᑐᖅ ᐸᑦᑕᑎᕆᔪᓐᓇᕐᓂᖃᕐᓱᒍ ᐅᕝᕙᓘᓐᓃᑦ ᐃᖕᒥᕐᓗᑎᒃ ᐃᓚᒋᐊᕐᓗᑎᒃ ᐃᖕᒥᒃᓴᒥᒃ ᒪᒃᑯᒃᑐᒥᒃ ᓇᓗᓇᐃᔭᖅᑕᒥᓂᒃ. ᖃᓂᒋᔭᖓᓂ ᐃᖅᑲᓇᐃᔭᕐᓗᑎᑦ, ᐃᖕᒥᒃᓴᓂᒃ ᓴᐃᓕᒪᑎᑦᑎᓗᑎᑦ ᓂᐸᖅᑎᑦᑎᓗᑎᑦ ᐊᒻᒪ ᐊᒡᒐᖏᑦ ᑎᒍᒥᐊᕐᓗᒍ ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᓪᓚᖅᑎᑕᐅᓗᑎᑦ ᑲᑐᔾᔨᓗᑎᑦ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +41,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+ᐃᖕᒥᒃᓴᐃᑦ ᐊᔪᕈᓐᓃᖅᑐᑦ ᐱᐅᔪᑦ ᐊᑐᖃᑦᑕᕐᓂᐊᕐᓗᑎᑦ ᐃᓄᒻᒧᑦ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖃᕐᑐᒧᑦ. ᑕᒪᓐᓇ ᐊᑐᐃᓐᓇᐅᔪᓂᒃ ᐊᐱᖅᑯᑎᑦᑎᙱᑦᑐᖅ: ᑭᐅᔪᑦ ᑭᐅᔾᔪᑎᖃᙱᑦᑐᑦ, ᒪᓕᒃᑕᐅᔭᕆᐊᖃᙱᑦᑐᑦ. ᐅᖃᐅᓯᖃᕐᓂᖃᑦᑎᐊᖅᑕᖅ ᐃᖕᒥᒃᓴᖅ ᖁᕕᐊᓇᕐᓂᕐᒥᒃ, ᐃᓯᒋᐊᕐᒥᒃ ᐸᑦᑕᑎᕆᓂᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᐅᓯᓂᒃ ᐃᓚᒋᐊᕐᓗᑎᒃ ᐃᖕᒥᕐᓂᕐᒥᒃ ᐱᔪᓐᓇᖅᑎᑦᑎᔪᓐᓇᖅᑐᖅ, ᐅᖃᓕᒫᕐᓂᖅ ᐊᔪᕈᓐᓃᕐᓂᖃᕐᐸᑦ. ᐱᔭᕇᖅᓯᒪᔪᖅ ᐃᖕᒥᒃᓴᓂᒃ ᑖᔅᓱᒥᖓ ᐃᓄᒻᒧᑦ ᐊᒻᒪ ᓴᐃᓕᒪᓂᖅᑐᒥᒃ ᐱᕕᒃᓴᒥᒃ ᓂᐸᖅᑎᑦᑎᓂᐊᕐᓗᑎᑦ.
 
-## What music activities work for people with dementia?
+## ᖃᓄᖅ ᐃᖕᒥᒃᓴᓂᒃ ᖃᓄᐃᓕᐅᕐᓂᑦ ᐱᐅᔪᑦ ᐃᓄᓐᓄᑦ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖃᕐᑐᓄᑦ?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+ᓈᓚᖃᑦᑕᕐᓂᖅ, ᐃᖕᒥᕐᓂᖅ, ᐸᑦᑕᑎᕆᓂᖅ, ᐊᐅᓪᓚᖅᑎᑕᐅᓂᖅ ᐊᒻᒪ ᐃᖕᒥᒃᓴᓂᒃ ᐅᖃᓕᒫᕐᓂᖅ ᑕᒪᕐᒥᒃ ᐱᐅᔪᑦ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ᐅᖃᐅᔾᔨᕗᖅ ᐃᖕᒥᒃᓴᓂᒃ ᓂᐸᖅᑎᑎᑦᑎᓂᕐᒥᒃ, ᐃᖕᒥᒃᓴᓂᒃ ᐊᒻᒪ ᐃᖕᒥᕐᑎᒥᒃ ᐅᖃᓕᒫᕐᓂᕐᒥᒃ, ᐃᖕᒥᕐᓂᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᒧᒥᕐᓂᕐᒥᒃ ᐅᖃᐅᓯᖃᕐᓂᖃᑦᑎᐊᖅᑕᓂᒃ ᐃᖕᒥᒃᓴᓂᒃ ᒪᓕᒃᓗᒋᑦ, ᐊᒻᒪ ᓄᓇᓕᖕᓂ ᐃᖕᒥᒃᓴᓂᒃ ᑕᑯᔭᖅᑐᐃᓂᕐᓂᒃ ᐃᓚᐅᓂᕐᒥᒃ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ᐅᖃᐅᔾᔨᕗᖅ ᐊᐅᓚᖅᑎᑕᐅᓂᖅ ᓲᕐᓗ ᐸᑦᑕᑎᕆᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᒧᒥᕐᓂᖅ ᖁᕕᐊᓇᕐᓂᕐᒥᒃ ᐃᓚᓯᔪᓐᓇᕐᒪᑕ, ᐊᒻᒪ ᐃᖕᒥᒃᓴᐃᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᕐᓂᖃᕐᓱᒋᑦ ᐊᒃᑐᐃᓂᐊᕐᓂᐊᕐᓗᑎᑦ ᐅᖃᐅᓯᑦ ᐊᔪᕈᓐᓃᕐᓂᐊᕐᐸᑦ.
 
-## How do you build a personal playlist?
+## ᖃᓄᖅ ᓇᖕᒥᓂᖅ ᐃᖕᒥᒃᓴᓂᒃ ᑎᑎᕋᕐᓂᐊᖅᐳᖓ?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+ᐱᐅᓂᖅᓴᐅᔪᖅ ᓴᖅᑭᑦᑎᔪᓐᓇᕐᑕᐃᑦ ᐃᖕᒥᒃᓴᓂᒃ ᑎᑎᕋᕐᓂᖅ ᑖᔅᓱᒥᖓ ᐃᓄᒻᒧᑦ ᐱᒻᒪᕆᐅᔪᓂᒃ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ᐅᖃᐅᔾᔨᕗᖅ ᐃᖕᒥᒃᓴᓂᒃ ᓇᖕᒥᓂᖅ ᐱᒻᒪᕆᐅᔪᓂᒃ. ᐅᕙᓂ ᐊᔪᕈᓐᓃᖅᑐᒦᑦ ᓴᖅᑭᑦᑎᔪᓐᓇᕐᓂᐊᕐᓗᑎᑦ.
 
-### Start with their life
+### ᐱᒋᐊᕐᓗᑎᑦ ᐃᓅᓯᖓᓂᑦ
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **ᐃᓐᓇᐅᓂᕐᒥ ᐊᕐᕌᒍᒋᔭᖏᑦ ᐊᒻᒪ 20-ᒋᔭᖏᑦ.** ᐃᖕᒥᒃᓴᐃᑦ ᓈᓚᒃᑎᑕᐅᓯᒪᔪᑦ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᓗᑎᒃ, ᒧᒥᕐᕕᓂ, ᐊᒻᒪ ᑕᕐᕆᔭᓕᐅᕐᓂᕐᓂ ᒪᒃᑯᒃᑐᓂ ᐃᓐᓇᐅᓂᕐᒥ.
+- **ᐱᒻᒪᕆᐅᔪᑦ ᐱᕕᒃᓴᐃᑦ.** ᑲᑎᑎᓂᕐᒥ ᐃᖕᒥᒃᓴᖅ, ᓯᕗᓪᓕᖅ ᒧᒥᕐᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᓚᒌᒍᓯᕐᒥ ᐊᖅᑯᑎᒧᑦ ᐃᖕᒥᒃᓴᖅ ᓂᕈᐊᕐᓂᖃᑦᑎᐊᖅᑕᖓ.
+- **ᐅᒃᐱᕐᓂᖅ ᐊᒻᒪ ᐱᖅᑯᓯᖅ.** ᐅᒃᐱᕐᓂᕐᒧᑦ ᐃᖕᒥᒃᓴᐃᑦ, ᐅᒃᐱᕐᓂᖃᕐᓂᕐᒧᑦ ᐃᖕᒥᒃᓴᐃᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᖕᒥᒃᓴᐃᑦ ᓯᕗᓪᓕᖅ ᐅᖃᐅᓯᖓᓂ.
+- **ᐱᓕᕆᓂᖅ ᐊᒻᒪ ᐱᔨᑦᑎᕋᕐᓂᖅ.** ᐱᓯᒪᔪᑦ ᐃᖕᒥᒃᓴᖏᑦ, ᐱᓕᕆᓂᕐᒧᑦ ᐃᖕᒥᒃᓴᐃᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᖕᒥᒃᓴᐃᑦ ᐊᑐᖅᑕᐅᓯᒪᔪᑦ ᐅᓇᑕᖅᑐᓄᑦ ᐱᔨᑦᑎᕋᕐᓂᕐᒧᑦ.
+- **ᐃᓚᒌᒍᓯᑦ ᐃᖅᑲᐅᒪᔭᖏᑦ.** ᐊᐱᕆᓗᑎᑦ ᓇᖕᒥᓂᖃᖅᑎᖏᓐᓂᒃ, ᖁᑦᑎᖕᓂᖃᖅᑎᖏᓐᓂᒃ ᐊᒻᒪ ᐱᕈᖅᑐᓂᒃ ᐃᖕᒥᒃᓴᓂᒃ ᓂᐸᖅᑎᑦᑎᓯᒪᓂᖃᑦᑎᐊᖅᑕᖏᓐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᖕᒥᕐᓂᖃᑦᑎᐊᖅᑕᖏᓐᓂᒃ.
 
-### Think in genres, not just songs
+### ᐃᓱᒪᒋᐊᕐᓗᑎᑦ ᖃᓄᐃᑦᑑᓂᖏᓐᓂᒃ, ᐃᖕᒥᒃᓴᐃᑦ ᑭᓯᐊᓂ ᐱᓇᓱᒐᖅ
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+ᓇᓗᓇᕐᓂᕐᒧᑦ ᐱᒋᐊᕈᑎᖃᙱᒃᐸᑦ, ᐆᑦᑐᕋᐅᑎᓂᒃ ᐃᓚᖏᓐᓂᒃ ᐊᑐᕐᓗᑎᑦ ᐊᒻᒪ ᖃᐅᔨᒋᐊᕐᓗᑎᑦ ᖃᓄᖅ ᐊᑦᑐᐃᓂᖃᕐᒪᖔᖅ: big band ᐊᒻᒪ swing, doo-wop, Motown ᐊᒻᒪ soul, early rock and roll, country ᐊᒻᒪ western, bluegrass, gospel ᐊᒻᒪ ᐅᒃᐱᕐᓂᕐᒧᑦ ᐃᖕᒥᒃᓴᐃᑦ, Broadway ᑕᑯᔭᖅᑐᐃᓂᕐᒧᑦ ᐃᖕᒥᒃᓴᐃᑦ, jazz standards, Latin ᐃᖕᒥᒃᓴᐃᑦ ᓲᕐᓗ boleros ᐅᕝᕙᓘᓐᓃᑦ mariachi, polka, folk ᐊᒻᒪ classical. ᖁᕕᐊᓇᕐᓂᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓯᒋᐊᕐᒥᒃ ᐸᑦᑕᑎᕆᓂᕐᒥᒃ ᓴᖅᑭᑦᑎᔪᑦ ᑎᑎᕋᕐᓗᑎᑦ; ᐃᓄᒻᒧᑦ ᐊᓕᐊᓇᐃᒍᓯᒪᒃᐸᑦ ᓄᖅᑲᕐᓗᑎᑦ.
 
-### Make it easy to play
+### ᐊᔪᕈᓐᓃᖅᑎᑦᑎᓗᑎᑦ ᓂᐸᖅᑎᑎᑦᑎᓂᐊᕐᓗᒍ
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **ᓇᓗᓇᐃᖅᑕᐃᓕᒪᓂᖏᓐᓂᒃ ᐱᖃᙱᑦᑐᖅ.** Alzheimer's Association ᐅᖃᐅᔾᔨᕗᖅ ᓇᓗᓇᐃᖅᑕᐃᓕᒪᓂᑦ ᑐᑭᓯᐅᒪᔪᒃᓴᐅᙱᑦᑎᔪᓐᓇᕐᒪᑕ. ᐊᑐᕐᓗᑎᑦ ᐃᖕᒥᒃᓴᓂᒃ ᐱᔭᐅᓯᒪᔪᓂᒃ, CD-ᓂᒃ, ᓂᐸᖅᑎᑎᑦᑎᔪᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓇᓗᓇᐃᖅᑕᐃᓕᒪᓂᖃᙱᑦᑐᒥᒃ ᐱᔨᑦᑎᕋᕐᕕᒃᓴᒥᒃ.
+- **ᐊᑕᐅᓯᕐᒥᒃ ᐊᔪᕈᓐᓃᖅᑐᒥᒃ ᐱᔨᑦᑎᕋᕐᕕᒃᓴᒥᒃ.** ᓂᐸᖅᑎᑎᑦᑎᔪᖅ ᐊᑐᖅᑎᒥᒃ ᐊᖏᔪᒥᒃ ᓇᕿᑦᑕᕐᕕᖃᕐᓗᓂ, ᐅᕝᕙᓘᓐᓃᑦ ᑎᑎᕋᖅᓯᒪᔪᖅ ᐃᖕᒥᒃᓴᓂᒃ ᑎᑎᕋᖅᓯᒪᓗᑎᒃ ᐱᔭᕇᖅᓯᒪᓗᑎᒃ, ᑭᓇᑐᐃᓐᓇᖅ ᐱᒋᐊᕈᓐᓇᕐᓗᒍ.
+- **ᒪᕐᕉᒃ ᓇᐃᓪᓕᒫᖅ ᑎᑎᕋᖅᓯᒪᔪᖅ.** ᓴᐃᓕᒪᓂᖅᑐᖅ ᑎᑎᕋᖅᓯᒪᔪᖅ ᓴᐃᓕᒪᑎᑦᑎᓂᐊᕐᓗᓂ, ᐆᒻᒪᕆᒃᑐᖅ ᑎᑎᕋᖅᓯᒪᔪᖅ ᖁᕕᐊᓇᕐᓂᖅᑎᑦᑎᓂᐊᕐᓗᓂ.
+- **ᑎᑎᕋᕐᓗᒍ ᓇᓗᓇᐃᒃᑯᑕᖅ.** ᐃᓄᐃᑦ ᐊᑎᖓ ᐊᒻᒪ «ᓂᕈᐊᕐᓂᖃᑦᑎᐊᖅᑕᖏᑦ ᐃᖕᒥᒃᓴᐃᑦ» ᐱᔨᑦᑎᕋᕐᕕᒃᓴᒧᑦ ᑎᑎᕋᕐᓗᒍ ᐃᓚᒌᒍᓯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐱᔨᑦᑎᕋᕐᓂᕐᒧᑦ ᐃᑲᔪᖅᑎᑦ ᐊᑐᕐᓂᐊᕐᓗᑎᑦ.
 
-## 15 music activities to try
+## 15 ᐃᖕᒥᒃᓴᓂᒃ ᖃᓄᐃᓕᐅᕐᓂᑦ ᐆᑦᑐᕋᐅᑎᒋᔭᐅᔪᑦ
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **ᑲᑐᔾᔨᓗᑎᑦ ᓈᓚᖃᑦᑕᕐᓂᖅ.** ᓴᓂᒋᔭᐅᓗᑎᑦ ᐃᖅᑲᓇᐃᔭᕐᓗᑎᑦ ᐊᓯᖏᓐᓂᒃ ᐱᓕᕆᓂᖃᙱᓗᑎᑦ. ᓈᓚᖃᑦᑕᕐᓂᖅ ᓇᒻᒥᓂᖅ ᖃᓄᐃᓕᐅᕐᓂᐅᔪᖅ.
+2. **ᐃᖕᒥᕐᓗᑎᑦ ᐃᓚᒋᐊᕐᓗᑎᑦ.** ᐃᓕᒃᑲᓐᓂᕐᓗᑎᑦ ᐃᖕᒥᕐᓗᑎᑦ ᐱᒋᐊᕐᓗᑎᑦ. ᐃᖕᒥᕈᓐᓇᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᐅᓯᓂᒃ ᖁᓕᒃᑯᓗᒋᑦ ᐊᐅᓚᑦᑎᓂᖅ ᓇᒻᒥᓂᖅ ᐃᓚᐅᔪᖅ.
+3. **ᐸᑦᑕᑎᕆᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑎᑎᕋᐅᑎᒥᒃ ᒪᓕᒃᓗᒍ ᐸᑦᑕᑎᕆᓂᖅ.** ᓯᕐᖁᐃᑦ ᐸᑦᑕᑎᕆᓗᑎᑦ, ᓯᕐᖁᒥᒃ ᐸᑦᑕᑎᕆᓗᑎᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᒥᑭᔪᒥᒃ ᐊᒡᒐᓂᒃ ᐸᑦᑕᑎᕆᔪᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓴᔭᓚᐅᑎᒥᒃ ᐊᑐᕐᓗᑎᑦ.
+4. **ᓴᐃᓕᒪᑎᑦᑎᓗᑎᑦ ᒧᒥᕐᓂᖅ.** ᐊᒡᒐᖃᑦᑕᕐᓗᑎᑦ ᐊᒻᒪ ᐊᐅᓪᓚᖅᑎᑕᐅᓗᑎᑦ ᐃᒡᓗᕈᓯᕐᒥ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᖅᑲᓇᐃᔭᕐᓗᑎᑦ ᒧᒥᕐᓗᑎᑦ, ᑕᓪᓕᖃᑦᑕᕐᓗᑎᑦ ᐊᐅᓚᖅᑎᑕᐅᓗᑎᑦ.
+5. **ᐊᓐᓄᕌᓂᒃ ᒧᒥᕐᓂᖅ.** ᐅᖅᓱᐊᓗᖕᓂᒃ ᐊᓐᓄᕌᓂᒃ ᓴᔭᓚᐅᑎᓂᒃ ᐊᐅᓪᓚᖅᑎᑕᐅᓗᑎᑦ ᐃᖕᒥᒃᓴᖅ ᒪᓕᒃᓗᒍ, ᓇᖕᒥᕐᓗᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐃᖅᑲᓇᐃᔭᕐᓗᑎᑦ.
+6. **ᐃᖕᒥᒃᓴᓂᒃ ᐅᖃᓕᒫᕐᓂᖅ.** ᐊᐱᖅᑯᑎᑦᑎᓗᑎᑦ, ᐊᑐᐃᓐᓇᐅᔪᓂᒃ ᐊᐱᖅᑯᑎᑦᑎᓂᕐᓂᒃ ᐱᔾᔪᑎᑦᑎᓂᕐᓂᒃ: «ᑖᓐᓇ ᒧᒥᕐᕕᒻᒧᑦ ᐊᔾᔨᒌᙱᑦᑐᖅ. ᒧᒥᕐᓂᕐᒥᒃ ᐅᖃᐅᑎᑎᒍᒃ.» ᑕᐃᒪᐃᓐᓇᖅ ᐊᐱᖅᑐᐃᓃᕐᓗᑎᑦ «ᐃᖕᒥᒃᓴᖅ ᑖᓐᓇ ᐃᖅᑲᐅᒪᕕᐅᒃ?»
+7. **ᐊᑕᐅᓯᕐᒥᒃ ᐃᖕᒥᒃᓴᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᒥᒃ ᓂᐸᖅᑎᑎᑦᑎᓂᖅ.** ᓂᐸᖅᑎᑎᑦᑎᔪᒥᒃ ᓂᕈᐊᕐᓂᖃᑦᑎᐊᖅᑕᖓ ᐱᒋᐊᕐᓗᒍ ᐱᐊᓂᒃᑐᖅ, ᑳᐱ ᐃᒻᒥᕐᓗᑎᑦ.
+8. **ᐃᖕᒥᒃᓴᓂᒃ ᐳᐃᔨᖏᓐᓂᒃ ᑕᑯᓂᖅ.** ᐃᑦᑐᖅᑕᐅᓯᒪᔪᑦ ᓂᐸᖅᑎᑎᑦᑎᔪᑦ ᐳᐃᔨᖏᑦ ᐱᐅᔪᑦ ᐅᖃᓕᒫᕐᓂᐊᕐᓗᑎᑦ ᐊᓐᓄᕌᓂᒃ, ᐊᖅᑯᑎᓂᒃ ᐊᒻᒪ ᑮᓇᐅᔭᓂᒃ.
+9. **ᑕᑯᓂᖅ ᐃᖕᒥᒃᓴᓂᒃ ᑕᑯᔭᖅᑐᐃᓂᕐᒥᒃ.** ᑕᕐᕆᔭᓕᐅᖅᑕᐅᓯᒪᔪᖅ ᐃᖕᒥᒃᓴᓂᒃ ᑕᑯᔭᖅᑐᐃᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑲᑎᙵᔪᑦ ᐃᖕᒥᕐᓂᖅ ᐱᕕᒃᓴᖓᓂ ᐱᐅᔪᖅ ᐅᓐᓄᒃᑯᑦ. ᓄᖅᑲᕐᓗᑎᑦ ᓄᖃᕈᓐᓃᕐᓂᐊᕐᓗᑎᑦ.
+10. **ᐃᖕᒥᒃᓴᓂᒃ ᐱᔨᑦᑎᕋᕐᕕᒃᓴᒥᒃ ᓂᐸᖅᑎᑎᑦᑎᓂᖅ ᖃᐅᔨᒪᔭᖓᓂᒃ.** ᐃᖕᒥᒃᓴᓂᒃ ᓂᐸᖅᑎᑎᑦᑎᓯᒪᓂᖃᑦᑎᐊᖅᑐᖅ ᖁᕕᐊᓇᕐᓂᖃᕐᓱᒍ ᐊᔪᕈᓐᓃᖅᑐᒦᑦ ᓂᐸᖅᑎᑎᑦᑎᓂᕐᒥᒃ. ᐅᓄᕐᓂᖅᓴᐅᓕᕐᐸᑦ, ᐃᓚᖏᓐᓂᒃ ᓂᐸᖅᑎᑎᑦᑎᔪᓂᒃ ᐆᑦᑐᕋᐅᑎᓂᒃ ᓂᐸᖅᑎᑎᑦᑎᓂᖅ ᓇᒻᒥᓂᖅ ᐱᐅᔪᖅ.
+11. **ᐃᖕᒥᒃᓴᐃᑦ ᐱᓕᕆᓂᕐᒥ.** ᓂᕈᐊᕐᓂᖃᑦᑎᐊᖅᑕᓂᒃ ᐃᖕᒥᒃᓴᓂᒃ ᓂᐸᖅᑎᑦᑎᓗᑎᑦ ᐊᓐᓄᕌᓂᒃ ᐃᒪᖅᑎᑦᑎᓂᕐᒥ ᐅᕝᕙᓘᓐᓃᑦ ᓂᕿᓂᕐᒧᑦ ᓴᖅᑭᑦᑎᓂᕐᒥ.
+12. **ᐅᓪᓛᒃᑯᑦ ᐃᖕᒥᒃᓴᖅ.** ᐅᓪᓗ ᑕᒪᐃᓐᓇᖅ ᐱᒋᐊᕐᓗᒍ ᐊᔾᔨᒌᒃᑐᒥᒃ ᖁᕕᐊᓇᖅᑐᒥᒃ ᐃᖕᒥᒃᓴᒥᒃ ᐱᓕᕆᓂᕐᒧᑦ ᐃᓚᒋᐊᕐᓗᒍ.
+13. **ᐅᒃᐱᕐᓂᕐᒧᑦ ᐃᖕᒥᒃᓴᐃᑦ ᐃᖕᒥᕐᓂᖅ.** ᐅᒃᐱᕐᓂᖃᕐᓂᕐᒥᓂᑦ ᐃᖕᒥᒃᓴᓂᒃ ᓂᐸᖅᑎᑦᑎᓗᑎᑦ ᐊᒻᒪ ᑲᑐᔾᔨᓗᑎᑦ ᐃᖕᒥᕐᓗᑎᑦ.
+14. **ᐃᖕᒥᕐᓂᕐᒧᑦ ᑲᑎᙵᔪᓄᑦ ᐃᓚᐅᓂᖅ.** NHS ᐅᖃᐅᔾᔨᕗᖅ ᐃᖕᒥᕐᓂᕐᒧᑦ ᑲᑎᙵᔪᑦ ᐱᐅᔪᓂᒃ ᖁᕕᐊᓇᕐᓂᕐᒧᑦ ᐊᒻᒪ ᐃᓕᑕᕆᓂᕐᒧᑦ. ᓄᓇᓕᖕᓂ ᐊᐱᕆᓗᑎᑦ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖃᕐᑐᓄᑦ ᐃᖕᒥᕐᓂᕐᒧᑦ ᑲᑎᙵᔪᓂᒃ.
+15. **ᑕᑯᓂᖅ ᓴᖅᑭᔮᖅᑎᑕᐅᔪᒥᒃ ᐃᖕᒥᒃᓴᓂᒃ.** ᓇᐃᓪᓕᒫᖅ ᓄᓇᓕᖕᓂ ᑲᑎᙵᔪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓯᓚᒥ ᐃᖕᒥᒃᓴᓂᒃ ᓂᐸᖅᑎᑎᑦᑎᔪᑦ. ᐊᓂᕝᕕᒃᓴᐅᑉ ᖃᓂᒋᔭᖓᓂ ᐃᖅᑲᓇᐃᔭᕐᓗᑎᑦ ᐊᒻᒪ ᐊᐅᓪᓚᖅᑐᐃᓐᓇᕐᓗᑎᑦ ᐱᔭᕇᖅᓯᒪᓗᑎᑦ.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+ᐅᖃᐅᓯᓂᒃ ᐱᙳᐊᖅᑐᒦᑦ ᖃᓄᐃᓕᐅᕐᓂᕐᒥᒃ ᐅᖃᐅᓯᖃᕐᓂᖃᑦᑎᐊᖅᑕᓂᒃ, ᐆᑦᑐᕋᐅᑎᒋᐊᕐᓗᒍ [finish the saying](/games/finish-the-saying/), ᑕᒪᓐᓇᓂ ᐃᓱᐊᓂᒃ ᑕᑯᔭᐅᑎᑦᑎᔪᓐᓇᖅᑐᑎᑦ ᐊᑐᖅᑕᐅᓯᒪᙱᑦᑐᒥᒃ.
 
-## Matching music to the moment
+## ᐃᖕᒥᒃᓴᓂᒃ ᓂᕈᐊᕐᓂᖅ ᐱᕕᒃᓴᒧᑦ ᒪᓕᒃᓗᒍ
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association ᐅᖃᐅᔾᔨᕗᖅ ᐃᖕᒥᒃᓴᓂᒃ ᐊᑐᕐᓗᑎᑦ ᐊᕙᑎᒥᒃ ᐱᔭᕇᖅᓯᒪᔪᒧᑦ ᒪᓕᒃᓗᒍ ᓴᖅᑭᑦᑎᓂᐊᕐᓗᑎᑦ: ᓴᐃᓕᒪᓂᖅᑐᑦ ᐃᖕᒥᒃᓴᐃᑦ ᓴᐃᓕᒪᑎᑦᑎᓂᐊᕐᓗᑎᑦ, ᐊᒻᒪ ᐆᒻᒪᕆᒃᑐᑦ ᐃᖕᒥᒃᓴᐃᑦ ᐃᓐᓇᐅᓂᕐᒥᓂᑦ ᖁᕕᐊᓇᕐᓂᖅᑎᑦᑎᓂᐊᕐᓗᑎᑦ.
 
-| Moment | Try | Tip |
+| ᐱᕕᒃᓴᖅ | ᐆᑦᑐᕋᐅᑎᒋᐊᕐᓗᒍ | ᐃᑲᔫᑎ |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| ᒪᒃᑯᓄᖓ ᐱᒋᐊᕐᓂᖅ | ᐅᖃᐅᓯᖃᕐᓂᖃᑦᑎᐊᖅᑕᖅ, ᖁᕕᐊᓇᖅᑐᖅ ᐃᖕᒥᒃᓴᖅ | ᐅᓪᓗ ᑕᒪᐃᓐᓇᖅ ᐊᔾᔨᒌᒃᑐᒥᒃ ᐃᖕᒥᒃᓴᒥᒃ ᐱᒋᐊᕐᓂᖅ ᓴᐃᓕᒪᓂᖅᑐᒥᒃ ᓇᓗᓇᐃᒃᑯᑕᒧᑦ ᐃᓕᔪᓐᓇᖅᑐᖅ |
+| ᐱᓕᕆᓂᑦ | ᐆᒻᒪᕆᒃᑐᑦ ᓂᕈᐊᕐᓂᖃᑦᑎᐊᖅᑕᑦ | ᐃᖕᒥᒃᓴᐃᑦ ᐱᓕᕆᓂᕐᒥᒃ ᐃᓚᒋᐊᖃᑦᑕᕐᓂᕐᒧᑦ ᐊᔾᔨᒌᙱᑦᑎᔪᓐᓇᖅᑐᑦ |
+| ᓂᕿᓂᖅ | ᓴᐃᓕᒪᓂᖅᑐᑦ ᐱᔨᑦᑎᕋᕐᕕᖃᙱᑦᑐᑦ ᐃᖕᒥᒃᓴᐃᑦ | ᓴᐃᓕᒪᑎᑦᑎᓗᑎᑦ ᓂᕿᓂᕐᒥᒃ ᐊᑲᐅᙱᑦᑎᓂᐊᕐᓗᒍ |
+| ᐅᓐᓄᒃᑯᑦ ᓄᖑᓕᕋᖅ | ᓴᐃᓕᒪᓂᖅᑐᑦ, ᐅᖃᐅᓯᖃᕐᓂᖃᑦᑎᐊᖅᑕᑦ ᐃᖕᒥᒃᓴᐃᑦ ᖃᐅᒻᒪᖅᑯᑎᒥ | ᑕᑯᓗᒍ [late-day restlessness](/caregiving/late-day-restlessness/) |
+| ᓯᓂᒃᑎᕆᓂᖅ | ᓱᒃᑲᔪᑦ, ᓴᐃᓕᒪᓂᖅᑐᑦ ᐃᖕᒥᒃᓴᐃᑦ | ᓂᐸᖅᑎᑎᑦᑎᓂᖅ ᓴᐃᓕᒪᑎᑦᑎᓗᒍ ᐊᒻᒪ ᖃᐅᒻᒪᖅᑯᑎᓂᒃ ᒥᑭᑦᑎᓗᑎᑦ ᑲᑐᔾᔨᓗᑎᑦ |
+| ᓄᖑᓪᓚᒃ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖅ | ᓂᕈᐊᕐᓂᖃᑦᑎᐊᖅᑕᖏᑦ ᐃᖕᒥᒃᓴᐃᑦ, ᓴᐃᓕᒪᑎᑦᑎᓗᑎᑦ | ᖃᓂᒋᔭᖓᓂ ᐃᖅᑲᓇᐃᔭᕐᓗᑎᑦ ᐊᒻᒪ ᐊᒡᒐᖏᑦ ᑎᒍᒥᐊᕐᓗᒍ |
 
-## Tips for a good experience
+## ᐃᑲᔫᑎᑦ ᐱᐅᔪᒥᒃ ᐊᑐᖅᑕᐅᓂᐊᕐᓗᓂ
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **ᐊᓯᖏᑦ ᓂᐸᖅᑎᑎᑦᑎᓂᐅᔪᑦ ᖃᒪᓗᑎᑦ.** Alzheimer's Association ᐅᖃᐅᔾᔨᕗᖅ ᐃᒡᓗᕈᓯᕐᒧᑦ ᒪᑐᐃᖅᓯᕐᕕᓂᒃ ᐊᒻᒪ ᐅᒃᑯᐃᖓᔪᓂᒃ ᒪᑐᐃᖅᑕᐅᓗᑎᑦ ᐊᒻᒪ ᑕᓚᕖᓴᖅ ᖃᒪᓗᒍ ᐃᖕᒥᒃᓴᐃᑦ ᑭᓯᐊᓂ ᓂᐸᖅᑎᑎᑦᑎᓗᑎᑦ.
+- **ᓂᐸᖅᑎᑎᑦᑎᓂᖅ ᓴᐃᓕᒪᑎᑦᑎᓗᒍ.** ᐃᖕᒥᒃᓴᐃᑦ ᓴᐃᓕᒪᓂᖃᑦᑎᐊᕆᐊᖃᖅᑐᑦ, ᓂᐸᖅᑎᑎᑦᑎᓂᖅ ᐊᖏᔪᖅᑳᙱᑦᑐᖅ. ᐃᓄᖅ ᑐᓵᑦᑎᐊᕈᓐᓇᕐᓂᕐᒧᑦ ᐃᑲᔫᑎᓂᒃ ᐊᑐᕐᐸᑦ, ᐃᓕᓯᒪᓂᖏᑦ ᐊᒻᒪ ᐱᓕᕆᓂᖃᕐᓂᖏᑦ ᖃᐅᔨᒋᐊᕐᓗᒍ; ᑕᑯᓗᒍ [hearing](/brain-health/hearing/).
+- **ᐊᓕᐊᓇᐃᒍᓯᒪᔪᓂᒃ ᐃᖅᑲᐅᒪᔭᐅᔪᓂᒃ ᖃᐅᔨᒋᐊᕐᓗᑎᑦ.** ᐃᓚᖏᑦ ᐃᖕᒥᒃᓴᐃᑦ ᐃᖅᑲᐅᒪᔭᐅᔪᓐᓇᖅᑐᑦ ᐊᓕᐊᓇᐃᒍᓯᒪᓂᕐᒥᒃ, ᐅᓇᑕᖅᑐᓂᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᐅᔨᓂᕐᒥᒃ. ᐃᖕᒥᒃᓴᖅ ᐃᓄᒻᒧᑦ ᐊᓕᐊᓇᐃᒍᓯᒪᒃᐸᑦ, ᓴᐃᓕᒪᑎᑦᑎᓗᒍ ᐊᒻᒪ ᐊᓯᐊᒍᑦ ᐃᖕᒥᒃᓴᖅ.
+- **ᐃᓄᖅ ᓯᕗᓕᖅᑎᖁᔨᓗᒍ.** ᐱᔪᓐᓇᕐᐸᑦ, ᐃᓄᖅ ᓇᖕᒥᓂᖓ ᐃᖕᒥᒃᓴᓂᒃ ᓂᕈᐊᕐᓗᒍ, ᐊᒻᒪ «ᐋᒃᑲ» ᐅᖃᐅᓯᖓ ᐊᑐᓕᕐᓗᒍ.
+- **ᓄᖅᑲᕐᓗᑎᑦ ᖃᓄᖅ ᐱᔭᕇᖅᓯᒪᓗᑎᑦ.** 5 ᒥᓂᑦᓰᑦ ᐃᖕᒥᒃᓴᓂᒃ ᐱᐅᔪᖅ ᖃᓄᐃᓕᐅᕐᓂᐅᔪᖅ. ᓄᖅᑲᕐᓗᑎᑦ ᐊᒻᒪ ᓴᐃᓕᒪᑎᑦᑎᓗᑎᑦ ᐃᖅᑲᓇᐃᔭᕐᓂᖅ ᐊᔾᔨᒌᙱᑦᑐᖅ.
 
-## What does the research say about music and dementia?
+## ᖃᐅᔨᓴᕐᓂᐅᔪᑦ ᖃᓄᖅ ᐅᖃᐅᔾᔨᕙ ᐃᖕᒥᒃᓴᓂᒃ ᐊᒻᒪ ᐱᑐᖃᕐᓗᒋᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᕐᒥᒃ?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+ᖃᐅᔨᔭᐅᔪᑦ ᐊᒥᓲᙱᑦᑐᑦ. [2025 Cochrane ᖃᐅᔨᓴᕐᓂᖅ](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ᖃᐅᔨᓴᖅᑕᖏᑦ 30 ᖃᐅᔨᓴᕐᓂᐅᔪᑦ ᐋᖅᑭᒃᓯᒪᓂᖃᖅᑎᓪᓗᒋᑦ ᐃᖕᒥᒃᓴᓂᒃ ᖃᓄᐃᓕᐅᕐᓂᕐᓂᒃ, ᐊᒥᓲᓂᖅᓴᐅᑎᒍᑦ ᑲᑎᙵᔪᓂ ᐃᓅᓯᕐᒧᑦ ᐃᒡᓗᓕᕆᓂᕐᒧᑦ ᑐᖅᑯᖅᑎᕆᓂᕐᒧᑦ. ᓇᓗᓇᐃᖅᑕᖓ ᑖᒃᑯᐊ ᖃᓄᐃᓕᐅᕐᓂᑦ ᐊᓕᐊᓇᐃᒍᓯᒪᓂᕐᒥᒃ ᐊᒃᑐᐃᓂᖃᕐᓂᕐᒥᒃ ᒥᑭᑦᑐᒦᑦ ᐃᑲᔫᔪᓐᓇᕐᓂᖃᕐᓱᒋᑦ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐱᓕᕆᓂᕐᓂᒃ ᒪᓕᒃᓗᒍ, ᑭᓯᐊᓂ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᖃᙱᑦᑐᖅ ᓄᓇᙳᐊᖅᑐᓂᒃ, ᐃᓕᑕᕆᓂᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓱᒪᓂᕐᒥᒃ ᐊᒻᒪ ᐃᖅᑲᐅᒪᓂᕐᒥᒃ, ᐊᒻᒪ ᐱᓕᕆᓂᑦ ᐱᐊᓂᒃᑐᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᙱᑦᑐᑦ ᐱᓕᕆᓂᑦ ᐱᐊᓂᒃᑎᓪᓗᒋᑦ.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+ᐅᕙᒍᑦ ᐃᖕᒥᒃᓴᓂᒃ ᐊᑐᖃᑦᑕᕐᑐᒍᑦ ᖁᕕᐊᓇᖅᑐᒦᑦᑎᐊᕐᓗᒍ, ᐊᑲᐅᙱᑦᑐᒦᑦᑎᐊᕐᓗᒍ ᐱᕕᒃᓴᒥᒃ ᑲᑐᔾᔨᓗᑎᑦ ᐊᑐᖃᑦᑕᕐᓂᐊᕐᓗᑎᑦ, ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᖅ ᐱᓇᓱᐊᕈᓯᕐᓂᒃ ᐋᖅᑭᒃᓯᒪᓂᖅ ᐱᖓᓱᓂᒃ. ᑲᑎᙵᔪᓂ ᐱᕕᒃᓴᓄᑦ, ᑕᑯᓗᒍ [care home group activities](/activities/care-home-groups/); ᐃᖕᒥᒃᓴᓂᒃ ᐊᑐᕐᓗᑎᑦ ᐊᔾᔨᙳᐊᓂᒃ ᐊᒻᒪ ᐅᓂᒃᑳᓂᒃ ᐃᓚᒋᐊᕐᓗᑎᑦ, ᑕᑯᓗᒍ [reminiscence activities](/activities/reminiscence/).

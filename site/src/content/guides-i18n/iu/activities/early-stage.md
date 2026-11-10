@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "ᐱᓕᕆᐊᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ"
+seoTitle: "ᐱᓕᕆᐊᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ: ᐃᓱᒪᒋᔭᐅᔪᑦ"
+description: "ᐱᓕᕆᐊᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ ᐃᓄᒻᒧᑦ: ᐱᔪᒥᓂᖅᓴᐃᑦ, ᐱᙳᐊᖃᑦᑕᐅᑎᑦ, ᐊᐅᓪᓚᖃᑦᑕᕐᓂᖅ, ᑎᑎᕋᖅᓯᒪᓂᖅ ᐊᒻᒪ ᑲᑐᔾᔨᓗᑎᑦ ᐸᕐᓇᐅᑎᓂᒃ, ᒥᑭᔪᓂᒃ ᐋᖅᑭᒋᐊᕈᑎᓂᒃ ᐃᓄᖕᒧᑦ ᖁᕕᐊᓱᒍᑎᖃᕐᓂᐊᖅᑎᓪᓗᒍ ᐊᒻᒪ ᓇᖕᒥᓂᖅ ᐊᐅᓚᑦᑎᔨᐅᓂᐊᖅᑎᓪᓗᒍ."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ, ᐃᓄᐃᑦ ᐊᒥᓱᐃᑦ ᑲᔪᓯᔪᓐᓇᖅᐳᑦ ᖁᕕᐊᒋᔭᒥᓂᒃ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᕐᒥᓂᒃ:
+  ᐱᔪᒥᓂᖅᓴᑦ, ᐳᐊᒃᑯᑦ ᐊᒻᒪ ᓯᑯᕋᖅᑕᐅᑦ ᐱᙳᐊᖃᑦᑕᐅᑎᑦ, ᓂᕿᓂᖅ, ᐱᕈᕐᓰᓂᖅ, ᐱᓱᒃᑲᓐᓂᕐᓂᖅ,
+  ᑲᑎᙵᔪᑦ, ᐅᒃᐱᕐᓂᖅ ᐊᒻᒪ ᐃᑲᔪᖅᑐᐃᓂᖅ. ᐋᖅᑭᒋᐊᕈᑎᑦ ᐅᑯᐊ ᐊᑐᖅᑕᐅᓴᕈᖅᑐᑦ:
+  ᒥᑭᓂᖅᓴᐃᑦ ᑲᑎᙵᔪᑦ, ᓇᐃᑦᑐᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᐃᑦ, ᐊᔾᔨᒌᙱᑦᑐᑦ ᑎᑎᕋᖅᓯᒪᓯᒪᔪᑦ ᐸᕐᓇᐅᑎᑦ
+  ᐊᒻᒪ ᐃᑲᔪᖅᑎ ᖃᓂᒋᔮᖓᓂ. ᐊᐱᕆᓗᑎᑦ ᐃᓄᒻᒧᑦ ᖃᓄᖅ ᐃᑲᔪᕐᓂᖃᕈᒪᒃᖢᑎᒍ ᐊᒻᒪ ᓇᖕᒥᓂᖅ ᓯᕗᓕᖅᑎᑎᓪᓗᒍ.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "ᐃᓄᐃᑦ ᐊᒥᓱᐃᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ ᓇᖕᒥᓂᖅ ᐃᓅᓯᖃᖅᐳᑦ. ᐱᓕᕆᐊᑦ ᐊᑐᖅᑕᐅᓴᕈᖅᑐᑦ ᒥᑭᓗᒋᑦ, ᐊᓯᔾᔨᖅᑕᐅᓂᖏᑦ ᐱᔾᔪᑎᖏᑦ ᐊᓯᑦᔨᕈᓐᓇᙱᓗᑎᑦ."
+  - "ᐊᐱᕆᓗᑎᑦ ᐃᓄᒻᒧᑦ ᖃᓄᖅ ᐃᑲᔪᕐᓂᖃᕈᒪᒃᖢᑎᒍ, ᐊᒻᒪ ᐊᖏᖃᑎᒌᒍᑎᒃ ᓇᓗᓇᐃᖅᑕᐅᓗᑎᑦ ᐃᑲᔪᖅᑕᐅᔪᓐᓇᒻᒪᖔᑦ."
+  - "ᒥᑭᓂᖅᓴᐃᑦ ᑲᑎᙵᔪᑦ, ᓂᐱᖃᙱᑦᑐᑦ ᐃᓂᒃᓴᐃᑦ ᐊᒻᒪ ᓇᐃᑦᑐᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᐃᑦ ᐊᒥᓱᓂᒃ ᐃᑲᔪᕋᔭᖅᑐᑦ."
+  - "ᐅᓪᓗᒥ ᐃᓄᒻᒧᑦ ᓇᖕᒥᓂᖅ ᓯᕗᓕᖅᑎᑎᔪᓐᓇᖅᑐᖅ ᐱᓕᕆᐊᓂᒃ ᐃᓅᓯᒧᑦ ᒥᒃᓵᓄᑦ, ᓲᕐᓗ ᐅᓪᓗᑦ ᑕᒪᐃᓐᓄᑦ ᑎᑎᕋᖅᓯᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓅᓯᕐᒥᒃ ᐅᓂᒃᑳᖅ."
+  - "ᐱᙳᐊᖃᑦᑕᐅᑎᑦ ᓂᕈᐊᕐᓗᒋᑦ ᖁᕕᐊᓱᒍᑎᒧᑦ. ᐅᖃᐅᓯᕐᒥᒃ ᐆᒃᑐᕋᐅᑎᑦᑎᓐᓄᑦ ᐃᒃᐱᒋᔭᐅᔪᓂᒃ ᐊᑐᕈᓐᓇᕐᓂᕐᓄᑦ ᐱᔭᕇᕐᓗᒍ."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "ᖃᓄᑐᐃᓐᓇᑦ ᐱᓕᕆᐊᑦ ᐱᐅᔪᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ?"
+    a: "ᐊᒥᓱᓂᒃ ᐱᓕᕆᐊᑦ ᑕᐃᒪᐃᑦ ᐃᓄᐅᑉ ᖁᕕᐊᒋᔭᖏᑦ: ᐳᐊᒃᑯᑦ, ᓯᑯᕋᖅᑕᐅᑦ ᐱᙳᐊᖃᑦᑕᐅᑎᑦ, ᓂᕿᓂᖅ, ᐱᕈᕐᓰᓂᖅ, ᐱᓱᒃᑲᓐᓂᕐᓂᖅ, ᐃᙱᖅᑐᐃᑦ, ᐅᒃᐱᕐᓂᖅ, ᑲᑎᙵᔪᑦ ᐊᒻᒪ ᐃᑲᔪᖅᑐᐃᓂᖅ. ᓇᐃᑦᑐᖅ, ᓂᐱᖃᙱᓐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᔾᔨᒌᙱᓐᓂᖅ ᐱᔭᐅᔪᓐᓇᖅᑐᖅ. ᐅᓪᓗᑦ ᑕᒪᐃᓐᓄᑦ ᑎᑎᕋᖅᓯᒪᓂᖅ, ᐊᓪᓚᒍᓯᖃᑦᑕᐅᑎᓄᑦ ᑎᑎᕋᖅᓯᒪᓂᖅ ᐊᒻᒪ ᐃᓅᓯᕐᒥᒃ ᐅᓂᒃᑳᖅ ᓴᓇᓂᖅ ᐱᓕᕆᐊᒥᒃ ᑖᔅᓱᒧᖓ ᐱᐅᔪᓐᓇᖅᑐᑦ."
+  - q: "ᖃᓄᖅ ᐃᑲᔪᕈᓐᓇᖅᐳᖓ ᓇᖕᒥᓂᖅ ᐊᐅᓚᑦᑎᔨᐅᙱᓐᓇᒃᑯᑦ?"
+    a: "ᐊᐱᕆᓗᑎᑦ ᖃᓄᖅ ᐃᑲᔪᕐᓂᖃᕈᒪᒃᖢᑎᒍ, ᐊᒻᒪ ᖃᐅᔨᒋᐊᕐᓗᒍ ᑲᑕᕐᓗᒍ. ᐊᖏᖃᑎᒌᒍᑎᒃ ᐅᖃᐅᓯᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓇᓗᓇᐃᖅᑕᐅᓂᕐᒥᒃ ᐊᑐᕈᓐᓇᖅᓯᓗᑎᑦ ᐃᓕᓐᓂᐊᕐᓂᕐᒧᑦ, ᓲᕐᓗ ᐅᖃᐅᓯᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑎᖅ ᐃᖅᑲᐅᒪᔭᐅᔪᓐᓇᙱᑦᑐᖅ ᐱᙳᐊᖃᑦᑕᐅᑎᒥ. ᐊᑦᑕᕐᓇᖅᑕᐃᓕᒪᙱᑦᑐᖅ ᐱᑕᖃᕈᓐᓇᖅᐳᖅ, ᓇᖕᒥᓂᖅ ᐊᑐᕐᓗᑎᑦ, ᐅᓐᓄᓴᐅᓕᕐᓗᓂ ᐊᑲᐅᓂᖅᓴᐅᓕᕐᓗᓂ."
+  - q: "ᐃᓄᖅ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ ᐱᓕᕆᐊᒥᒃ ᓄᑖᒥᒃ ᐆᒃᑐᕋᕈᓐᓇᖅᐸᖓ?"
+    a: "ᐄ, ᐱᔪᒪᒃᐸᑦ. ᖃᐅᔨᒪᔭᒥᓂᒃ ᐱᓕᕆᐊᑦ ᐊᔾᔨᒌᙱᓐᓂᖅᓴᐅᔪᑦ, ᑭᓯᐊᓂ ᐃᓄᐃᑦ ᐊᒥᓱᐃᑦ ᖁᕕᐊᓱᖃᑦᑕᕐᐳᑦ ᓄᑖᒥᒃ, ᓲᕐᓗ ᐳᐃᖅᓯᕝᕕᒻᒧᑦ ᐋᖅᑭᔅᓱᐃᔪᑦ ᐱᓱᒃᑲᓐᓂᖅᑐᑦ ᑲᑎᙵᔪᑦ, ᓴᓇᐅᒐᕐᓂᒃ ᐃᓕᓐᓂᐊᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᙱᖅᑐᓄᑦ ᑲᑎᙵᔪᑦ. ᐊᑕᐅᓯᕐᒥᒃ ᐆᒃᑐᕐᓗᑎᑦ ᐊᑕᖏᖅᑐᖅᑕᐅᙱᓐᓇᒃᑯᑦ ᐊᒻᒪ ᖃᓄᖅ ᐃᒃᐱᒋᔭᐅᒃᖢᑎᒍ ᑕᑯᓗᒍ."
+  - q: "ᐃᖅᑲᐅᒪᔪᓄᑦ ᐱᓕᕆᐊᕐᓂᕐᒧᑦ ᐊᑐᖅᑐᑦ ᐱᐅᔪᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ?"
+    a: "ᐃᓄᐃᑦ ᐃᓚᖏᑦ ᖁᕕᐊᓱᖃᑦᑕᕐᐳᑦ ᐃᖅᑲᐅᒪᔪᓂᒃ ᐅᖃᐅᓯᖃᕐᓂᕐᒥᒃ ᐱᙳᐊᖃᑦᑕᐅᑎᓂᒃ, ᑖᓐᓇ ᖁᕕᐊᓱᒍᑎᖅ ᓇᒻᒥᓂᖅ ᐱᔾᔪᑎᖃᖅᐳᖅ. ᐊᑐᖅᑐᖅ ᐱᙳᐊᖃᑦᑕᐅᑎᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐱᓕᕆᐊᖅ ᑕᑯᒃᓴᐅᑎᑕᐅᓯᒪᙱᑦᑐᖅ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓂᒃ ᒪᒥᑦᑎᕆᐅᑎᓪᓗᓂ, ᓄᖑᑎᑦᑎᕆᐅᑎᓪᓗᓂ ᐅᕝᕙᓘᓐᓃᑦ ᐱᔭᕇᖅᑎᑦᑎᕆᐅᑎᓪᓗᓂ ᐳᐃᖅᓯᕝᕕᒥᒃ. ᐱᙳᐊᖃᑦᑕᐅᑎᖅ ᐃᒃᐱᒋᔭᐅᓯᒪᔪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓄᒻᒧᑦ ᐃᒃᐱᒋᔭᐅᒃᖢᑎᒍ ᐊᔪᕈᓐᓃᖅᑐᖅ, ᐱᔭᕇᕐᓗᒍ."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ, ᐃᓄᐃᑦ ᐊᒥᓱᐃᑦ ᐃᓅᓯᖃᑦᑕᕐᓂᖏᑦ ᓱᓕ ᑐᙵᕕᒋᔭᕐᓂᖏᑦ ᐊᔾᔨᒌᙱᑦᑐᖅ. ᐃᖅᑲᓇᐃᔭᖃᑦᑕᕐᓂᖅ, ᐃᑲᔪᖅᑐᐃᓂᖅ, ᐃᓚᒌᒍᓯᕐᓂᒃ ᑕᑯᔭᖅᑐᐃᓂᖅ ᐊᒻᒪ ᐅᓪᓗᒥ ᐱᓕᕆᐊᒥᓂᒃ ᐊᒥᓱᓂᒃ ᓇᖕᒥᓂᖅ ᐊᐅᓚᑦᑎᔪᓐᓇᖅᐳᑦ. ᐱᓕᕆᐊᑦ ᐊᓯᔾᔨᖅᑕᐅᓂᖏᑦ ᐱᔾᔪᑎᖏᑦ ᐊᑐᖅᑕᐅᓴᕈᖅᑐᑦ ᒥᑭᔪᓂᒃ ᐋᖅᑭᒋᐊᕈᑎᓂᒃ, ᖁᕕᐊᓱᒍᑎᖃᕐᓂᐊᖅᑎᓪᓗᒋᑦ. ᐱᓕᕆᐊᕆᔭᕐᓂᑦ ᐃᑲᔪᖅᑎᐅᓂᖅᓴᐅᓂᐊᖅᑐᑎᑦ: ᐃᑲᔪᖅᑐᖅ, ᑲᑐᔾᔨᓗᑎᑦ ᐸᕐᓇᐅᑎᓂᒃ ᐊᒻᒪ ᐃᓕᓐᓂᐊᕐᓂᖅ ᐊᐱᖅᑯᑎᒧᑦ ᑕᐃᒪᙵᑦ ᐱᔭᐅᒻᒪᖔᑦ.
 
-## What activities are good in early-stage dementia?
+## ᖃᓄᑐᐃᓐᓇᑦ ᐱᓕᕆᐊᑦ ᐱᐅᔪᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+ᐱᓕᕆᐊᑦ ᐱᐅᔪᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ ᐊᒥᓱᓂᒃ ᑕᐃᒪᐃᑦ ᐃᓄᐅᑉ ᖁᕕᐊᒋᔭᖏᑦ, ᒥᑭᓗᒋᑦ ᐊᔾᔨᒌᙱᓐᓂᖅᓴᐅᑎᑦᑎᓪᓗᒋᑦ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ᐅᖃᐅᓯᖃᖅᑐᑦ ᐱᓕᕆᐊᓂᒃ ᓲᕐᓗ ᐳᐊᒃᑯᑦ ᐊᒻᒪ ᓯᑯᕋᖅᑕᐅᑦ ᐱᙳᐊᖃᑦᑕᐅᑎᑦ, ᐅᖃᐅᓯᕐᓂᒃ ᓇᓂᓯᓂᖅ, ᐱᓱᒃᑲᓐᓂᕐᓂᖅ, ᒧᒥᖅᓯᓂᖅ, ᐱᕈᕐᓰᓂᖅ, ᐱᕈᕐᔪᐊᓂᒃ ᐋᖅᑭᒃᓱᐃᓂᖅ, ᐅᓂᒃᑳᕐᓂᖅ, ᐊᓪᓚᖑᐊᕐᓂᖅ, ᐃᙱᖅᑐᐃᑦ, ᐅᓪᓗᑦ ᑕᒪᐃᓐᓄᑦ ᑎᑎᕋᖅᓯᒪᓂᖅ, ᐊᓪᓚᒍᓯᖃᑦᑕᐅᑎᓄᑦ ᑎᑎᕋᖅᓯᒪᓂᖅ, ᐊᔾᔨᙳᐊᓂᒃ ᑲᑎᑎᑦᑎᓂᖅ, ᓂᕿᓂᖅ ᐊᒻᒪ ᖁᕕᐊᓲᑎᖃᕐᓂᐅᑉ ᐱᐅᓯᖏᑦ.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+ᐊᓯᔾᔨᖅᑐᖅ ᐊᒥᓱᓂᒃ ᐃᓂᒃᓴᖅ, ᐱᓕᕆᐊᖅ ᙱᓚᖓ ᐋᖅᑭᒋᐊᕈᑎᖓ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ᐅᖃᐅᓯᖃᖅᑐᖅ ᐃᓄᐃᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ ᐱᓕᕆᐊᓂᒃ ᖁᕕᐊᒋᔭᒥᓂᒃ ᐊᑐᕈᓐᓇᓂᖏᓐᓂᒃ ᓄᖅᑲᖅᑎᑦᑎᓯᒪᔪᓐᓇᖅᑐᑦ, ᐊᒻᒪ ᐅᖃᐅᓯᖃᖅᐳᖅ ᐃᓄᖅ ᐊᖏᔪᒥ ᑲᑎᙵᓂᕐᒥ ᐃᒃᐱᒋᔭᐅᔪᖅ ᒥᑭᓂᖅᓴᒥ ᑲᑎᙵᓂᕐᒥ ᐱᐅᓂᖅᓴᐅᔪᓐᓇᖅᑐᖅ. ᐅᖃᐅᔾᔪᐊᕐᓗᑎᑦ ᐊᔪᕈᓐᓃᓂᖅᓴᐅᔪᓂᒃ, ᐊᒻᒪ ᑲᑐᔾᔨᓗᑎᑦ ᐋᖅᑭᒋᐊᕐᓗᒋᑦ.
 
-## Ask first, and agree on how to help
+## ᐊᐱᕆᓗᑎᑦ ᓯᕗᓪᓕᖅᐹᒥ, ᐊᒻᒪ ᐊᖏᖃᑎᒌᒍᑎᒃ ᖃᓄᖅ ᐃᑲᔪᕐᓂᐊᕐᓂᕐᒧᑦ
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association ᐊᑐᐊᒐᖏᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓄᑦ](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ᐅᖃᐅᓯᖃᖅᑐᑦ ᐱᓕᕆᐊᓄᑦ ᐃᑲᔪᕈᓐᓇᖅᑐᓂᒃ:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **ᐊᐱᕆᓗᑎᑦ ᑐᕌᖓᑦᑎᓪᓗᒍ.** ᓲᕐᓗ «ᖃᓄᖅ ᐅᖃᓕᒫᒐᐃᑦ ᑲᑎᙵᔪᖏᑦ ᐊᔾᔨᒌᙱᓐᓂᖅᓴᐅᔪᓐᓇᖅᐸᑦ ᐃᓕᓐᓂᐊᕐᓂᐊᕐᓗᑎᑦ?» ᐱᐅᓂᖅᓴᒥᒃ ᑭᐅᔾᔪᑎᖃᖅᐳᖅ ᐃᓱᒪᒋᐊᖅᓯᒪᓂᕐᒥᑦ.
+- **ᐱᔪᓐᓇᖅᑐᖅ ᐃᓱᒪᓗᑎᑦ.** ᐊᑦᑕᕐᓇᖅᑕᐃᓕᒪᙱᑦᑐᖅ ᐱᑕᖃᕈᓐᓇᖅᐳᖅ, ᐃᓄᒻᒧᑦ ᐆᒃᑐᕋᕈᓐᓇᖅᑎᑕᐅᓗᑎᑦ, ᐊᒻᒪ ᐃᑲᔪᕐᓗᒍ ᓇᖕᒥᓂᖅ ᐊᐅᓚᑦᑎᔨᐅᙱᓐᓇᒃᑯᑦ.
+- **ᐊᖏᖃᑎᒌᒍᑎᒃ ᓇᓗᓇᐃᖅᑕᐅᓗᑎᑦ.** ᐅᖃᐅᓯᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓇᓗᓇᐃᖅᑕᐅᓂᕐᒥᒃ ᓂᕈᐊᕐᓗᑎᑦ ᐅᖃᖅᓱᐃᓂᐊᕐᓂᐊᕐᓗᑎᑦ «ᐃᓕᓐᓂᐊᕈᓐᓇᖅᐳᑎᑦ», ᓲᕐᓗ ᐊᑎᖅ ᐃᖅᑲᐅᒪᔭᐅᔪᓐᓇᙱᑦᑐᖅ ᐱᙳᐊᖃᑦᑕᐅᑎᒥ.
+- **ᖃᐅᔨᒋᐊᕐᓗᒍ ᑲᑕᕐᓗᒍ.** ᐊᐱᕆᓗᑎᑦ ᐃᑲᔪᖅᑐᖅ ᓈᒻᒪᒃᐸ, ᐊᒥᓱᒃᐸ ᐅᕝᕙᓘᓐᓃᑦ ᐃᑲᔪᙱᓐᓂᖅᓴᐅᒃᐸ.
 
-## Activity ideas for the early stage
+## ᐱᓕᕆᐊᓄᑦ ᐃᓱᒪᒋᔭᐅᔪᑦ ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓᓂ
 
-### Keep up roles and hobbies
+### ᐱᓕᕆᐊᕆᔭᑦ ᐊᒻᒪ ᐱᔪᒥᓂᖅᓴᐃᑦ ᑲᔪᓯᑎᑦᑎᓗᒋᑦ
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **ᐱᓕᕆᐊᖃᑦᑕᕐᓗᑎᑦ ᑲᑕᕐᓗᒍ.** ᐱᓇᓱᐊᕈᓰᑦ ᐃᑲᔪᖅᑐᐃᓂᖅ, ᐃᙱᖅᑐᓄᑦ ᑲᑎᙵᔪᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑲᑎᙵᔪᑦ ᐱᓇᓱᐊᕈᓰᑦ ᐋᖅᑭᒃᓱᐃᔪᓐᓇᖅᐳᑦ. ᐃᒃᐱᒋᔭᐅᓯᒪᔪᖅ ᐱᑕᖃᕈᓐᓇᖅᐳᖅ, ᓇᐃᑦᑐᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓂᐱᖃᙱᓐᓂᖅᓴᖅ ᐱᓕᕆᐊᖅ ᐱᐅᓂᖅᓴᐅᔪᓐᓇᖅᑐᖅ.
+- **ᓂᕿᓂᒃ ᑲᑐᔾᔨᓗᑎᑦ ᐸᕐᓇᐅᑎᓂᒃ.** ᓂᕿᓂᒃᓴᓂᒃ ᓂᐅᕕᐊᒃᓴᖃᕐᓂᖅ ᐃᒃᐱᒋᔭᐅᓯᒪᔪᖅ ᐱᑕᖃᕈᓐᓇᖅᐳᖅ, Alzheimer's Association ᐅᖃᐅᓯᖃᖅᐳᖅ ᐃᓄᒻᒧᑦ ᐊᐱᕆᔪᓐᓇᖅᑐᑎᑦ ᐱᓇᓱᐊᕈᓰᑦ ᓂᕿᓂᒃ ᐸᕐᓇᐅᑎᓂᒃ ᐃᑲᔪᖅᑎᐅᔪᓐᓇᖅᑐᖅ ᐊᒻᒪ ᑎᑎᕋᕐᓗᑎᑦ ᑎᑎᕋᖅᓯᒪᓂᕐᒥᒃ.
+- **ᓂᕿᓗᑎᑦ ᐊᒻᒪ ᑭᖑᓪᓕᖅᐹᒥ ᐆᑦᑎᓗᑎᑦ.** ᖁᕕᐊᒋᔭᐅᔪᒥᒃ ᓂᕿᓂᕐᒧᑦ ᒪᓕᒐᕐᒥᒃ ᑲᑐᔾᔨᓗᑎᑦ ᐊᑐᕐᓗᑎᑦ. ᓂᕿᓂᒃᓴᐃᑦ ᑎᑎᕋᖅᓯᒪᓂᕐᒧᑦ ᐋᖅᑭᒃᓱᐃᓗᒋᑦ ᐱᒋᐊᕈᓐᓇᑎᓪᓗᒍ, ᒪᓕᒃᑕᐅᔪᑦ ᑕᑯᔭᐅᔪᓐᓇᖅᑎᓪᓗᒋᑦ.
+- **ᐱᕈᕐᓰᓗᑎᑦ.** ᐱᕈᕐᓰᕕᒃ ᐸᕐᓇᐅᑎᓂᒃ ᐋᖅᑭᒃᓱᐃᓗᑎᑦ, ᐱᕈᕐᔪᐊᓂᒃ ᓇᓗᓇᐃᖅᓯᓗᑎᑦ ᐊᒻᒪ ᑲᑐᔾᔨᓗᑎᑦ ᐱᓕᕆᐊᕐᓗᑎᑦ. ᐱᓇᓱᐊᕈᓰᑦ ᐱᕈᕐᓰᕕᒻᒥ ᐱᓕᕆᐊᑦ ᑎᑎᕋᖅᓯᒪᓂᖏᑦ ᐃᑲᔪᕋᔭᖅᑐᑦ.
+- **ᐊᒡᒍᖅᓱᖅᑕᐅᔪᓂᒃ ᐱᓕᕆᐊᖃᑦᑕᕐᓗᑎᑦ.** ᕿᔪᖅᑎᑦᑎᓂᖅ, ᒥᕐᖑᐃᓂᖅ, ᐃᕙᓗᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓴᓇᔭᐅᔪᓂᒃ ᓴᓇᓂᖅ ᑲᔪᓯᔪᓐᓇᖅᐳᑦ ᐊᔾᔨᒌᙱᓐᓂᖅᓴᓂᒃ ᐋᖅᑭᒃᓱᐃᓂᕐᒥᒃ ᐊᒻᒪ ᖃᐅᒻᒪᖅᑯᑎᒃᑯᑦ ᖃᐅᒻᒪᖅᑯᑎᖃᕐᓗᑎᑦ.
 
-### Games for enjoyment
+### ᐱᙳᐊᖃᑦᑕᐅᑎᑦ ᖁᕕᐊᓱᒍᑎᒧᑦ
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **ᐳᐊᒃᑯᑦ ᐊᒻᒪ ᓯᑯᕋᖅᑕᐅᑦ ᐱᙳᐊᖃᑦᑕᐅᑎᑦ ᐱᙳᐊᕐᓗᒋᑦ.** ᖃᐅᔨᒪᔭᐅᔪᑦ ᐱᙳᐊᖃᑦᑕᐅᑎᑦ ᐊᔾᔨᒌᙱᓐᓂᖅᓴᐅᔪᑦ. ᑲᑎᙵᓗᑎᑦ ᐱᙳᐊᕐᓗᑎᑦ ᑭᓯᐊᓂ ᑭᓇᑐᐃᓐᓇᕐᒥᒃ ᐅᖃᐅᓯᕐᒥᒃ ᐆᒃᑐᕋᐅᑎᑦᑎᔪᖅ ᐱᑕᖃᕈᓐᓇᙱᑦᑐᖅ, ᐊᒻᒪ ᓈᓴᐅᑎᓂᒃ ᓈᓴᐅᑎᖃᕐᓂᖅ ᐃᑲᓯᒋᐊᕐᓗᒍ ᐅᕝᕙᓘᓐᓃᑦ ᐱᔭᕇᕐᓗᒍ.
+- **ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᓂᕐᒥᒃ ᐅᖃᐅᓯᕐᓂᒃ ᓇᓂᓯᓂᖅ ᐆᒃᑐᕐᓗᒍ.** ᐅᕙᑦᑎᓐᓂ [ᐅᖃᐅᓯᕐᓂᒃ ᓇᓂᓯᓂᖅ](/games/word-search/) ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑎᑎᕋᖅᑕᐅᓗᓂ ᓂᐱᖃᙱᑦᑐᒧᑦ ᐱᓕᕆᐊᒧᑦ.
+- **ᐊᔾᔨᙳᐊᓂᒃ ᐃᓚᒋᐊᕈᑎᑦ ᓴᓇᓗᒋᑦ.** ᐃᓚᒋᐊᕈᑎᑦ ᓈᓴᐅᑎᖏᑦ ᓂᕈᐊᕐᓗᒋᑦ ᓴᐃᓕᒪᓂᖃᖅᑐᑦ, ᐊᔪᕈᓐᓃᖅᑎᑦᑎᔪᑦ ᙱᓚᖏᑦ. [Picture puzzle](/games/picture-puzzle/) ᓇᐃᑦᑐᖅ ᖃᕆᑕᐅᔭᒃᑯᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ, ᐊᒻᒪ ᐅᕙᑦᑎᓐᓂ ᐊᑐᐊᒐᖅ [ᐳᐃᖅᓯᕝᕕᒧᑦ ᐃᓚᒋᐊᕈᑎᑦ](/activities/puzzles/) ᐅᖃᐅᓯᖃᖅᐳᖅ ᓂᕈᐊᕐᓂᕐᒧᑦ.
+- **ᑲᑎᙵᓗᑎᑦ ᐊᐱᖅᑯᑎᓄᑦ ᑭᐅᔾᔪᑎᓄᑦ ᖁᕕᐊᓱᒍᑎᒧᑦ ᐃᓚᐅᓗᑎᑦ.** ᐃᓄᐃᑦ ᐃᓚᖏᑦ ᖁᕕᐊᓱᖃᑦᑕᕐᐳᑦ ᑲᑎᙵᓗᑎᑦ ᐊᐱᖅᑯᑎᓄᑦ ᑭᐅᔾᔪᑎᓄᑦ ᐅᓐᓄᒃᑯᑦ. ᐅᖃᐅᓯᕐᒥᒃ ᐆᒃᑐᕋᐅᑎᑦᑎᓐᓄᑦ ᐃᒃᐱᒋᔭᐅᔪᖅ ᐱᑕᖃᕈᓐᓇᖅᐳᖅ, ᐊᓯᐊᒍᑦ ᓂᕈᐊᕐᓗᒍ, ᐅᕝᕙᓘᓐᓃᑦ ᐆᒃᑐᕐᓗᒍ ᐅᕙᑦᑎᓐᓂ [ᐊᔾᔨᒌᙱᑦᑐᑦ ᐊᐱᖅᑯᑎᓄᑦ ᑭᐅᔾᔪᑎᑦ](/activities/trivia/), ᑭᐅᔾᔪᑎᓄᑦ ᓂᕈᐊᕐᓂᕐᒧᑦ ᐃᓚᒋᔭᐅᔪᓂᒃ ᐊᒻᒪ ᓈᓴᐅᑎᖃᙱᑦᑐᓂᒃ.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+ᐱᙳᐊᖃᑦᑕᐅᑎᑦ ᖁᕕᐊᓱᒍᑎᒧᑦ ᐱᔾᔪᑎᖃᖅᑐᑦ. ᐱᙳᐊᖃᑦᑕᐅᑎᖅ ᑕᑯᒃᓴᐅᑎᑕᐅᓯᒪᙱᑦᑐᖅ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓂᒃ ᒪᒥᑦᑎᕆᐅᑎᓪᓗᓂ, ᓄᖑᑎᑦᑎᕆᐅᑎᓪᓗᓂ ᐅᕝᕙᓘᓐᓃᑦ ᐱᔭᕇᖅᑎᑦᑎᕆᐅᑎᓪᓗᓂ ᐳᐃᖅᓯᕝᕕᒥᒃ; ᐅᖃᐅᔾᔪᐊᕐᓗᑎᑦ ᐅᕙᓂ [ᐃᖅᑲᐅᒪᔪᓄᑦ ᐱᙳᐊᖃᑦᑕᐅᑎᑦ: ᖃᐅᔨᓴᕐᓂᖅ ᐅᖃᐅᓯᖃᖅᑐᖅ](/brain-health/brain-games/).
 
-### Write, reflect and record
+### ᑎᑎᕋᕐᓗᑎᑦ, ᐃᓱᒪᒋᐊᕐᓗᑎᑦ ᐊᒻᒪ ᑎᑎᕋᖅᓯᒪᓗᑎᑦ
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **ᐅᓪᓗᑦ ᑕᒪᐃᓐᓄᑦ ᑎᑎᕋᖅᓯᒪᓗᑎᑦ.** Alzheimer's Association ᐅᖃᐅᓯᖃᖅᐳᖅ ᐅᓪᓗᑦ ᑕᒪᐃᓐᓄᑦ ᑎᑎᕋᖅᓯᒪᓂᖅ ᐃᑲᔪᕈᓐᓇᖅᑐᖅ ᐃᓱᒪᓂᒃ ᐋᖅᑭᒃᓱᐃᓂᕐᒧᑦ ᓇᓗᓇᐃᒃᑯᑕᐅᓂᖅ ᖃᐅᔨᔭᐅᓯᒪᒻᒪᖔᑦ. ᐅᓪᓗᑦ ᑕᒪᐃᓐᓄᑦ ᖃᑦᓯᐊᓂᒃ ᑎᑎᕋᕐᓂᖅ ᓇᒻᒥᓂᖅ ᐱᔾᔪᑎᖃᖅᐳᖅ.
+- **ᐃᓅᓯᕐᒥᒃ ᐅᓂᒃᑳᖅ ᓯᕗᓕᖅᑎᑎᓗᒍ.** ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓ ᐱᐅᔪᖅ ᐃᓄᐅᑉ ᓇᖕᒥᓂᖅ ᐊᔾᔨᙳᐊᒥᓂᒃ ᓂᕈᐊᕐᓂᐊᕐᓂᖓᓄᑦ ᐊᒻᒪ ᑎᑎᕋᕐᓂᐊᕐᓂᖓᓄᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᖅᑎᑕᐅᓂᐊᕐᓂᖓᓄᑦ ᐅᓂᒃᑳᓂᒃ ᑕᐃᒪᐃᓐᓂ. ᑕᑯᓗᒍ [ᐃᖅᑲᐅᒪᔭᐅᔪᓂᒃ ᐅᖃᐅᓯᖃᑦᑕᕐᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ](/activities/reminiscence/).
+- **ᐊᓪᓚᒍᓯᖃᑦᑕᐅᑎᓄᑦ ᑎᑎᕋᕐᓗᑎᑦ.** ᐊᓪᓚᒍᑎᖅ ᐎᕇᓄᑦ, ᐃᓚᒌᒍᑎᓄᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐃᖅᑲᓇᐃᔭᖃᑦᑎᐊᓚᐅᖅᑐᓄᑦ ᐱᒻᒪᕆᐅᔪᓐᓇᖅᑐᖅ ᑕᒪᕐᒥᑦ.
+- **ᐊᔾᔨᙳᐊᓂᒃ ᐅᖃᐅᔾᔪᐊᕐᓗᑎᑦ.** [Photo pairs](/games/photo-pairs/) ᐃᓚᒌᒍᑎᐅᑉ ᐊᔾᔨᙳᐊᖏᑦ ᐱᙳᐊᖃᑦᑕᐅᑎᒧᑦ ᓇᓕᒧᒌᒍᑎᒧᑦ ᐊᑐᖅᑎᑦᑎᔪᖅ, ᐊᒻᒪ [conversation cards](/games/conversation-cards/) ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐅᖃᐅᔾᔪᐊᕐᓂᕐᒧᑦ ᐱᒋᐊᕈᑎᓂᒃ ᑐᓂᔭᐅᔪᖅ.
 
-### Go out and move
+### ᐊᓂᓗᑎᑦ ᐊᒻᒪ ᐊᐅᓚᖃᑦᑕᕐᓗᑎᑦ
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[NIA (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ᐅᖃᐅᓯᖃᖅᐳᖅ ᖃᐅᔨᒪᔭᐅᔪᓂᒃ ᐊᓂᓂᕐᒥᒃ ᑲᔪᓯᑎᑦᑎᓗᑎᑦ ᑕᒪᕐᓱᒃ ᖁᕕᐊᓱᒃᖢᑎᒃ. ᐸᕐᓇᐅᑎᓂᒃ ᐋᖅᑭᒃᓱᐃᓗᒋᑦ ᐃᓄᐅᑉ ᐱᐅᓂᖅᓴᐅᔪᖅ ᐅᓪᓗᕐᒥ, ᐊᒻᒪ ᐅᓐᓄᓴᐅᙱᓐᓂᖅᓴᐅᑎᑦᑎᓗᒋᑦ.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **ᓇᐃᑦᑐᑦ ᐱᓕᕆᐊᑦ ᐊᓂᔪᖅ.** ᑕᑯᔭᒐᖃᕐᕕᒃ, ᐅᓪᓗᒥ ᑕᑯᕋᓐᓈᕐᕕᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓴᓇᐅᒐᕐᓂᒃ ᑕᑯᔭᒐᖃᕐᕕᒃ, ᓂᐱᖃᙱᑦᑐᒥ ᐱᓕᕆᐊᒧᑦ.
+- **ᐊᓪᓚᖅᑎᑦᑎᓂᖅ.** NIA ᐅᖃᐅᓯᖃᖅᐳᖅ ᐊᓪᓚᖅᑎᑦᑎᕕᒃ ᓴᐃᓕᒪᓂᖃᙱᑦᑐᒥ ᐅᓪᓗᕐᒥ.
+- **ᐱᓱᒃᑲᓐᓂᖅᑐᑦ ᑲᑎᙵᔪᑦ ᐊᒻᒪ ᒧᒥᖅᓯᓂᕐᒧᑦ ᐃᓕᓐᓂᐊᕐᓂᐃᑦ.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ᐅᖃᐅᓯᖃᖅᐳᖅ ᒧᒥᖅᓯᓂᕐᒥᒃ, tai chi, yoga, ᐊᓪᓚᖅᑎᑦᑎᓂᕐᒥᒃ ᐊᒻᒪ ᐱᓱᒃᑲᓐᓂᖅᑐᓂᒃ ᑲᑎᙵᔪᓂᒃ, ᐊᒻᒪ ᐳᐃᖅᓯᕝᕕᒧᑦ ᐋᖅᑭᔅᓱᐃᔪᓂᒃ ᐱᓕᕆᐊᓂᒃ ᐱᑕᖃᕈᓐᓇᖅᐸᑦ.
+- **ᐃᙱᖅᑐᓄᑦ ᑲᑎᙵᔪᑦ ᐊᒻᒪ ᐃᖅᑲᐅᒪᔭᐅᔪᓂᒃ ᐅᖃᐅᔾᔪᐊᕐᕕᒃ.** ᓴᐃᓕᒪᓂᖃᖅᑐᑦ ᑲᑎᙵᔪᑦ ᐳᐃᖅᓯᕝᕕᒻᒥᒃ ᐊᑐᖅᑕᐅᓂᖃᖅᑐᑦ ᐃᓄᐃᑦ ᐊᒻᒪ ᐃᑲᔪᖅᑎᖏᑦ ᐊᓯᖏᓂᒃ ᑲᑎᒪᔪᓐᓇᖅᑐᑦ ᐊᔾᔨᖃᑎᒌᓐᓂᖃᖅᑐᓂᒃ.
 
-## Small changes that keep activities enjoyable
+## ᒥᑭᔪᑦ ᐋᖅᑭᒋᐊᕈᑎᑦ ᐱᓕᕆᐊᑦ ᖁᕕᐊᓱᒍᑎᖃᕐᓂᐊᖅᑎᑦᑎᔪᑦ
 
-| If this is getting harder | Try this |
+| ᑖᓐᓇ ᐊᔪᕈᓐᓃᓂᖅᓴᐅᔪᖅ ᐱᑕᖃᕈᓐᓇᖅᐳᖅ | ᑖᓐᓇ ᐆᒃᑐᕐᓗᒍ |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| ᐃᓄᐃᑦ ᐊᒥᓱᐃᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓂᐱᖃᖅᑐᑦ ᐃᓂᒃᓴᐃᑦ | ᓂᐱᖃᙱᑦᑐᓂ ᐱᓕᕆᐊᕐᓗᑎᑦ, ᒥᑭᓂᖅᓴᓂᒃ ᑲᑎᙵᔪᓂᒃ ᓂᕈᐊᕐᓗᑎᑦ, ᐃᒡᓗᕈᓯᐅᑉ ᓯᓈᖓᓂ ᐃᖅᑲᓇᐃᔭᕐᓗᑎᑦ |
+| ᓄᑖᑦ ᐊᑎᖏᑦ ᐃᖅᑲᐅᒪᓂᖏᑦ | ᐃᓄᐃᑦ ᐊᑎᖏᑦ ᐅᖃᖅᑕᐅᓗᑎᑦ ᐊᑐᕐᓂᕐᒥ; ᑲᑎᙵᔪᓂᒃ ᐊᑎᖅᑕᖃᖅᑎᑕᐅᓗᑎᑦ ᐊᐱᕆᓗᒋᑦ |
+| ᐊᒥᓱᓂᒃ ᒪᓕᒃᑕᐅᔪᓂᒃ ᐸᕐᓇᐅᑎᓂᒃ ᒪᓕᒃᓗᒋᑦ | ᒪᓕᒃᑕᐅᔪᑦ ᑎᑎᕋᕐᓗᒋᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᑭᓱᓕᒫᑦ ᑎᑎᕋᖅᓯᒪᓂᕐᒧᑦ ᐋᖅᑭᒃᓱᐃᓗᒋᑦ ᓯᕗᓪᓕᖅᐹᒥ |
+| ᑕᖃᓕᒪᓂᖅ | ᓇᐃᑦᑐᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓂᐃᑦ, ᑭᖑᓂᐊᒍᑦ ᒪᖕᒍᐃᕐᓂᖅ, ᐅᓪᓗᒥ ᑕᐃᒪᓕ ᐊᓯᐊᒍᑦ ᐸᕐᓇᐅᑎᖃᙱᓗᑎᑦ |
+| ᐱᙳᐊᖃᑦᑕᐅᑎᒥ ᒪᓕᒃᓗᒍ | ᑲᑎᙵᓗᑎᑦ ᐱᙳᐊᕐᓗᑎᑦ, ᒪᓕᒐᐃᑦ ᐊᔾᔨᒌᙱᓐᓂᖅᓴᐅᑎᑦᑎᓗᒋᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᓈᓴᐅᑎᓂᒃ ᓈᓴᐅᑎᖃᕐᓂᕐᒥᒃ ᐱᔭᕇᕐᓗᒍ |
+| ᐅᖃᐅᓯᕐᓂᒃ ᓇᓂᓯᓂᖅ ᐊᔪᕈᓐᓃᖅᑐᖅ | ᐅᑕᖅᑭᔪᓐᓇᖅᑎᑕᐅᓗᑎᑦ; ᐅᖃᐅᓯᕐᒥᒃ ᑐᓂᓯᓗᑎᑦ ᐊᖏᖃᑎᒌᒍᑎᑦ ᓇᓗᓇᐃᖅᑕᐅᔪᖅ ᐅᖃᖅᑐᖅ ᐱᑕᖃᕈᓐᓇᖅᐳᖅ |
 
-## When to slow down
+## ᖃᖓ ᓴᐃᓕᒪᓂᖃᕐᓂᐊᕐᓂᖅ
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+ᐱᓕᕆᐊᖅ ᓄᖅᑲᖅᑎᑦᑎᓗᒍ ᐅᕝᕙᓘᓐᓃᑦ ᐋᖅᑭᒋᐊᕐᓗᒍ ᐃᒃᐱᒋᔭᐅᓂᖅ ᖁᕕᐊᓱᒍᑎᒥᑦ ᐊᖏᓂᖅᓴᐅᒻᒪᖔᑦ. ᑲᑕᕐᓗᒍ ᐃᒃᐱᒋᔭᐅᓂᖅ, ᐱᓕᕆᐊᕐᒥᒃ ᖁᕕᐊᓇᙱᓐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᕐᓂᖅ «ᓴᓇᔪᓐᓇᙱᑦᑐᖓ» ᓴᐃᓕᒪᓂᖃᖅᑐᓂᒃ ᐅᖃᐅᔾᔪᐊᕐᓂᖃᕆᐊᖃᖅᐳᖅ, ᐊᑕᖏᖅᑎᑦᑎᓂᖅ ᙱᓚᖓ. ᐊᒥᓱᓂᒃ ᑭᐅᔾᔪᑎᖓ ᒥᑭᓂᖅᓴᖅ ᐊᔾᔨᒋᔭᐅᔪᖅ ᑕᐃᒪᐃᓕᒫᖅ. ᐃᓄᐅᑉ ᐃᑲᔪᖅᑕᐅᓂᖅᓴᒥᒃ ᐱᔭᐅᔪᒪᒃᐸᑦ ᐱᒋᐊᕐᓂᕐᒧᑦ ᐊᒻᒪ ᒪᓕᒃᑕᐅᔪᓂᒃ ᒪᓕᒃᓂᕐᒧᑦ, ᐃᓱᒪᒋᔭᐅᔪᑦ ᐅᕙᓂ [ᐳᐃᖅᓯᕝᕕᐅᑉ ᕿᑎᐊᓃᑦᑐᖅ ᐱᓕᕆᐊᖏᑦ](/activities/middle-stage/) ᐱᐅᓂᖅᓴᐅᔪᓐᓇᖅᑐᑦ. ᐃᑲᔪᖅᑐᓂᒃ ᐅᖃᐅᔾᔪᐊᕐᓂᕐᒧᑦ ᑐᑭᓯᒋᐊᕈᑎᓂᒃ, ᑕᑯᓗᒍ [ᐅᖃᐅᔾᔪᐊᕐᓂᕐᒧᑦ ᐃᑲᔪᖅᑐᑦ](/caregiving/communication-tips/), ᐊᒻᒪ ᐊᒥᓱᓂᒃ ᐃᓱᒪᒋᔭᐅᔪᓂᒃ, ᑕᑯᓗᒍ [101 ᐱᓕᕆᐊᑦ](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+ᐃᑲᔪᖅᑏᑦ ᐃᑲᔪᖅᑕᐅᔪᓂᒃ ᐱᔭᐅᔪᓐᓇᖅᐳᑦ ᐃᓅᖃᑎᒋᔭᒥᓂᑦ. ᐳᐃᖅᓯᕝᕕᐅᑉ ᐱᒋᐊᕈᑎᖓ ᐱᐅᔪᖅ ᐃᓕᓐᓂᐊᕐᓂᐊᕐᓗᑎᑦ ᐃᑲᔪᖅᑎᖃᕐᓂᕐᒧᑦ; ᑕᑯᓗᒍ [ᐃᑲᔪᖅᑎᐅᑉ ᐃᓅᖃᑎᒋᔭᒥᓂᒃ ᐱᔨᑦᑎᕋᕐᓂᖓ](/caregiving/caregiver-self-care/).

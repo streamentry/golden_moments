@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "ᐊᓪᔨᒪᐃᕐᓯᒪᔪᓄᑦ ᐱᓕᕆᐊᑦ ᐱᙳᐊᕈᑎᓪᓗ"
+seoTitle: "ᐊᓪᔨᒪᐃᕐᓯᒪᔪᓄᑦ ᐱᓕᕆᐊᑦ: ᐃᓱᒪᒋᔭᐅᔪᑦ"
+description: "ᐊᓪᔨᒪᐃᕐᓯᒪᔪᓄᑦ ᐱᓕᕆᐊᑦ ᐱᙳᐊᕈᑎᓪᓗ ᖃᓄᐃᓕᖓᓂᖃᑦᑕᖅᑐᓄᑦ, ᐊᑭᖃᑦᑕᖅᑐᓂᒃ ᐱᔪᓐᓇᐅᑎᓂᒃ ᐃᖅᑲᐅᒪᔭᓂᒃ ᑐᙵᕕᒋᓪᓗᒋᑦ, ᐊᑭᖃᑦᑕᖅᑐᓂᒃ ᐱᙳᐊᕈᑎᓂᒃ ᑲᑐᔾᔨᖃᑎᒌᒍᑕᐅᔪᓂᒃ."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ ᐱᓕᕆᐊᑦ ᐱᐅᔪᑦ ᑐᙵᕕᒋᔪᑦ ᐊᑭᓪᓕᒃᑲᒥᒃ ᐱᔪᓐᓇᐅᑎᓂᒃ: ᐅᖓᑖᓂ
+  ᐃᓕᓐᓂᐊᖅᑕᐅᓯᒪᔪᑦ ᐱᔪᓐᓇᐅᑎᑦ, ᐃᓄᒃᑐᑦ ᐃᙱᖅᑐᐃᑦ, ᓇᓗᓇᐃᔭᖅᓯᒪᔪᑦ ᐱᓕᕆᐊᑦ
+  ᐊᒻᒪ ᑐᒃᓯᐊᕐᓂᖅ. ᐱᒋᐊᕐᓂᕐᒥ, ᑲᑎᑎᑦᓯᓂᖅ, ᐱᙳᐊᕈᑎᑦ ᓴᖅᑭᑕᐅᔪᑦ, ᓂᕿᓂᖅ
+  ᐊᓂᕝᕕᒋᐊᕐᓂᕐᓗ ᐱᐅᔪᓐᓇᖅᑐᑦ. ᕿᑎᕐᒥ, ᐃᒪᕐᓗᐃᑦ ᐃᒣᑦᑎᓂᖅ, ᐊᕕᒃᑐᖅᓯᓂᖅ,
+  ᐃᙱᖅᓯᓂᖅ, ᐊᔾᔨᙳᐊᓂᒃ ᑕᑯᓂᖅ ᐊᒻᒪ ᐊᔪᕈᓐᓃᖅᑐᑦ ᐊᔾᔨᙳᐊᓄᑦ ᐱᙳᐊᕈᑎᑦ
+  ᐱᐅᔪᓐᓇᖅᑐᑦ. ᑭᖑᓪᓕᕐᒥ, ᐃᙱᖅᑐᐃᑦ, ᐊᒃᑐᐃᓂᖅ ᐊᒻᒪ ᐃᓚᖃᑎᖃᕐᓂᖅ
+  ᐱᒻᒪᕆᐅᔪᑦ. ᐅᓪᓗᒥ ᖃᓄᐃᑦᑑᓂᖓᓂᒃ ᐃᓅᓯᖓᓂᒃ ᓇᓗᓇᐃᕐᓗᒍ.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "ᐊᓪᔨᒪᐃᕐᓯᒪᔪᖅ ᐊᒥᓱᓂᕐᓴᐅᔪᖅ ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᐅᔪᖅ, ᑕᐃᒪᐃᒻᒪᑦ ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᐃᓱᒪᒋᔭᐅᔪᑦ ᑖᔅᓱᒧᖓᐅᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᑦ."
+  - "ᓄᑖᑦ ᑐᑭᓯᒋᐊᕈᑎᑦ ᐊᔪᕈᓐᓃᖅᑐᑦ ᐱᒋᐊᕐᓂᕐᒥ, ᑭᓯᐊᓂ ᐅᖓᑖᓂ ᐃᓕᓐᓂᐊᖅᑕᐅᓯᒪᔪᑦ ᐱᔪᓐᓇᐅᑎᑦ ᐃᙱᖅᑐᐃᓪᓗ ᐊᑭᓪᓕᒃᑲᒥᒃ ᐱᔪᓐᓇᐅᔪᓐᓇᖅᑐᑦ. ᑖᒃᑯᓇᓂᒃ ᑐᙵᕕᒋᓗᑎᑦ."
+  - "ᖃᓄᐃᓕᖓᓂᖃᑦᑕᖅᑐᑦ ᑲᑎᖃᑦᑕᖅᑐᑦ ᐊᒻᒪ ᐱᐅᔪᑦ ᐅᓪᓗᑦ ᐊᔪᕈᓐᓃᖅᑐᑦ ᐱᔾᔪᑎᒋᓗᒍ. ᐅᓪᓗᒥ ᐱᔪᓐᓇᕐᓂᖏᓐᓂᒃ ᖁᕕᐊᓱᓂᖏᓐᓂᒃᓗ ᓇᓗᓇᐃᕐᓗᒍ."
+  - "ᐱᙳᐊᕈᑎᑦ ᓂᕈᐊᕐᓗᑎᑦ ᓈᓴᐅᑎᖃᙱᑦᑐᓂᒃ, ᓈᓴᐅᓯᕆᓂᖃᙱᑦᑐᓂᒃ ᐊᐱᖅᓱᖅᑕᐅᓂᖃᙱᑦᑐᓂᒃᓗ, ᐊᔾᔨᙳᐊᓪᓗ ᑕᑯᔭᐅᔪᓐᓇᖁᓪᓗᒋᑦ."
+  - "ᑕᑯᓂᖅ, ᐊᒃᑐᐃᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑲᑎᒪᖃᑎᖃᕐᓂᖅ ᐃᓚᐅᓂᖅ ᐱᓕᕆᐊᒧᑦ ᐃᓚᐅᓂᐅᔪᖅ."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "ᖃᓄᑐᐃᓐᓇᑦ ᐱᓕᕆᐊᑦ ᐱᐅᔪᑦ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ?"
+    a: "ᓇᓗᓇᐃᔭᖅᓯᒪᔪᑦ ᐱᓕᕆᐊᑦ ᐊᔪᕈᓐᓃᖅᓯᒪᖅᑕᐅᔪᑦ: ᐃᒪᕐᓗᐃᑦ ᐃᒣᑦᑎᓂᖅ, ᓂᕆᔭᒃᓴᓄᑦ ᓴᖅᑭᑎᑦᑎᓂᖅ, ᑲᑐᔾᔨᖃᑎᒌᒍᑎᒃ ᓂᕿᓂᖅ, ᐃᙱᖅᑐᐃᑦ ᐃᙱᖅᓯᓂᕐᓗ, ᐊᔾᔨᙳᐊᓂᒃ ᑕᑯᓂᖅ, ᐱᓱᒃᑎᓂᖅ, ᐱᕈᕐᓰᓂᖅ ᐊᒻᒪ ᐆᒪᔪᒧᑦ ᑲᑎᒪᖃᑎᖃᕐᓂᖅ. ᐊᔪᕈᓐᓃᖅᑐᑦ ᐊᔾᔨᙳᐊᓄᑦ ᐱᙳᐊᕈᑎᑦ, ᐊᔪᕈᓐᓃᖅᑐᑦ ᐱᔭᕆᐊᖃᖅᑐᑦ ᐊᒻᒪ ᐅᖃᓕᒫᒐᓛᑦ ᐊᒥᓱᓄᑦ ᐱᐅᔪᓐᓇᖅᑐᑦ. ᐃᓅᓯᖓᓄᑦ ᖁᕕᐊᓱᑦᑕᖅᑕᖓᓂᒃ ᓂᕈᐊᕐᓗᒍ ᑲᑐᔾᔨᖃᑎᒌᓪᓗᑎᑦ."
+  - q: "ᐱᙳᐊᕈᑎᑦ ᐱᐅᔪᑦ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᓄᑦ?"
+    a: "ᐱᙳᐊᕈᑎᑦ ᖁᕕᐊᓲᑎᖃᕐᓂᖃᕐᓗᑎᒃ ᑲᑎᒪᖃᑎᒌᓐᓂᕐᒧᑦ ᐱᐅᔪᓐᓇᖅᑐᑦ, ᖁᕕᐊᓱᒍᑎᒃᐸᑦ. ᐱᙳᐊᕈᑎᒃ ᑕᑯᔭᐅᓯᒪᙱᑦᑐᖅ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒥᒃ ᐋᓐᓂᐊᖅᓯᔾᔪᑎᓂᒃ, ᓴᙱᓂᖅᓴᐅᑎᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓄᖅᑲᖅᑎᑦᑎᓂᒃ, ᑕᐃᒪᐃᒻᒪᑦ ᐱᙳᐊᕈᑎᑦ ᓂᕈᐊᕐᓗᑎᑦ ᖁᕕᐊᓲᑎᖃᕐᓂᕐᒧᑦ: ᐊᖏᔪᑦ ᐊᔾᔨᙳᐊᑦ, ᐃᑦᑐᐃᓐᓇᖅᑐᑦ ᓂᕈᐊᕈᑎᑦ, ᓈᓴᐅᑎᖃᙱᑦᑐᑦ, ᓈᓴᐅᓯᕆᓂᖃᙱᑦᑐᑦ ᑕᒻᒪᖅᓯᒪᙱᑦᑐᑦ ᓂᐱᖃᙱᑦᑐᓪᓗ."
+  - q: "ᐊᔾᔨᒌᙱᑦᑐᖅ ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ ᐱᓕᕆᐊᓄᑦ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᓄᑦ ᐱᓕᕆᐊᓄᓪᓗ?"
+    a: "ᐊᒥᓱᓂᒃ ᐊᔾᔨᒌᙱᑦᑐᖅ. ᐊᓪᔨᒪᐃᕐᓯᒪᔪᖅ ᐊᒥᓱᓂᕐᓴᐅᔪᖅ ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᐅᔪᖅ, ᑕᐃᒪᐃᒻᒪᑦ ᐊᔾᔨᒌᒃᑐᑦ ᐱᓕᕆᐊᑦ ᐃᓱᒪᒋᔭᐅᔪᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᑦ. ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ ᐃᑲᔪᖅᑐᖅ ᖃᐅᔨᒪᓂᖅ ᖃᓄᖅ ᐅᓪᓗᒥ ᐃᖅᑲᐅᒪᔭᑦ ᒪᓂᕋᖅᑐᑦ ᓯᕗᓪᓕᖅᐹᒥ, ᑕᐃᒪᐃᒻᒪᑦ ᐱᓕᕆᐊᑦ ᐃᓄᒃᑐᓂᒃ ᐱᔪᓐᓇᐅᑎᓂᒃ, ᐃᙱᖅᑐᓂᒃ ᐊᒻᒪ ᐱᔨᑦᑎᕋᖅᓯᒪᔪᓂᒃ ᑐᙵᕕᒋᔪᑦ ᐊᔪᕈᓐᓃᖅᐸᑦᑐᑦ."
+  - q: "ᑭᖑᓪᓕᕐᒥ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᖃᕐᓗᓂ ᓴᐃᓕ ᖁᕕᐊᓱᒍᓐᓇᖅᐸᖓ ᖃᓄᐃᓐᓇᖅ?"
+    a: "ᓇᕿᑦᑕᒐᖏᑦ ᐃᙱᖅᑐᐃᑦ, ᓴᐳᒻᒥᔭᐅᔪᖅ ᐊᓪᒡᒍᓄᑦ ᐊᒃᑐᐃᓂᖅ, ᓴᐳᒻᒥᔭᐅᔪᑦ ᐊᒃᑐᐃᔭᐅᔪᓐᓇᖅᑐᑦ, ᐅᖃᓕᒫᖅᑕᐅᓂᖅ, ᓯᓚᑖᓂ ᐃᖃᓗᓂ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒐᓛᕐᔪᐊᒥ ᑕᑯᓗᓂ ᐆᒪᔪᑦ ᑕᑯᓂᖅ, ᐊᒻᒪ ᐅᒃᐱᕐᓇᖅᑐᒥᒃ ᐃᓄᒃ ᐃᓚᖃᑎᖃᕐᓂᖅ. ᓇᐃᑦᑐᑦ ᐊᒻᒪ ᓴᐃᒻᒪᖅᑐᑦ ᐱᓕᕆᐊᕐᓗᒋᑦ, ᑮᓇᖓ ᑎᒥᖓᓗ ᑕᑯᓂᐊᕐᓗᒋᒃ ᖃᓄᐃᓐᓇᖅ ᖁᕕᐊᓱᒍᑎᖃᕐᓂᖓᓂᒃ."
+  - q: "ᖃᓄᖅ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᖅ ᐱᓕᕆᐊᒧᑦ ᐱᔪᒪᓂᖃᑦᑎᐊᕈᒪᓂᐊᖅᐸᖓ?"
+    a: "ᐃᑲᔪᖅᑕᐅᓂᕐᒥᒃ ᐊᐱᕐᓗᒍ ᐱᓕᕆᐊᒥᒃ ᐅᖃᐅᓯᖃᙱᓪᓗᑎᑦ, ᑕᒪᐃᓐᓂᒃ ᓴᖅᑭᑎᑦᑎᓗᒍ ᐱᒋᐊᕐᓂᕐᒧᑦ, ᐊᒻᒪ ᐃᕝᕕᑦ ᐱᒋᐊᕐᓗᒍ ᐃᓚᐅᔪᓐᓇᖁᓪᓗᒍ. ᐅᓪᓗᖓ ᓂᕈᐊᕐᓗᒍ ᐱᐅᔪᒻᒪᕆᐅᓛᕐᒥ ᐱᐅᔪᓐᓇᖅᑐᖅ ᐊᒃᑐᐃᓂᖃᕐᓗᑎᒃ. ᐄᒃᑲᓐᓂᕐᒪᖔᑦ, ᐅᑎᖅᑎᒍ ᑭᖑᓪᓕᕐᒥ ᐅᕝᕙᓘᓐᓃᑦ ᒥᑭᓛᒥᒃ ᐱᓕᕆᐊᒥᒃ ᑐᓂᓯᓗᒍ."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+ᓇᕿᑦᑕᕐᓯ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒃᑯᑦ ᐃᓅᓯᖃᕐᐸᑦ, ᖃᐅᔨᒪᔭᕐᓱᐃᑦ ᐃᓚᖏᑦ ᐱᔾᔪᑎᑦ ᑐᐃᓐᓇᖅ ᑕᒪᕐᒥᒃ ᐊᓯᔾᔩᑦᑐᑦ, ᐃᓚᖏᑦ ᐊᑭᓪᓕᒃᑲᒥᒃ ᐱᔪᓐᓇᐅᓯᒪᕐᓗᑎᒃ. ᐅᓪᓗᒥ ᐅᖃᖃᑎᒌᓐᓂᖅ ᐳᕆᑎᑦᑎᓯᒪᔪᖅ ᐃᖅᑲᐅᒪᔪᓐᓇᖅᑐᑦ, ᑭᓯᐊᓂ ᐃᙱᖅᑐᐃᑦ ᐃᓄᒃᑐᑦ ᑕᒪᐃᓐᓂᒃ ᐃᙱᐅᖅᑕᐅᔪᓐᓇᖅᑐᑦ, ᐃᒪᕐᓗᒃ ᐃᒣᑦᑎᔪᓐᓇᖅᑐᖅ ᐃᓕᖅᑯᓯᒥᖓᓂᒃ, ᐅᕝᕙᓘᓐᓃᑦ ᑲᑎᑎᑦᓯᓂᕐᒧᑦ ᐱᙳᐊᕈᑎᓂᒃ ᐃᓱᒪᒋᐊᖅᑎᑦᑎᙱᓪᓗᑎᒃ ᑐᓂᔭᐅᔪᓐᓇᖅᑐᖅ. ᐱᐅᔪᑦ ᐱᓕᕆᐊᑦ ᑖᒃᑯᓇᓂᒃ ᐊᑭᓪᓕᒃᑲᒥᒃ ᐱᔪᓐᓇᐅᑎᓂᒃ ᑐᙵᕕᒋᔪᑦ. ᑖᓐᓇ ᒪᒃᐱᖅᑐᒐᖅ ᓇᓗᓇᐃᖅᓯᔪᖅ ᓱᒻᒪᖅ, ᑕᐃᒪᐃᓕ ᑐᓂᓯᔪᖅ ᐃᓱᒪᒋᔭᐅᔪᓂᒃ ᖃᓄᐃᓕᖓᓂᖃᑦᑕᖅᑐᓄᑦ ᐊᒻᒪ ᐱᙳᐊᕈᑎᓂᒃ ᐊᑭᖃᑦᑕᖅᑐᓂᒃ ᑖᔅᓱᒥ ᐃᓂᒥ ᐱᐅᔪᓂᒃ.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## ᐊᓪᔨᒪᐃᕐᓯᒪᔪᖅ ᐊᔾᔨᒌᖅᐸ ᐳᕋᓱᒋᐊᕐᓂᕐᒥᑦ ᐱᓕᕆᐊᓄᑦ ᒥᒃᓵᓄᑦ?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+ᐊᒥᓱᓂᒃ ᐊᔾᔨᒌᙱᑦᑐᖅ. ᐳᕋᓱᒋᐊᕐᓂᖅ ᐅᖃᐅᓯᐅᔪᖅ ᐊᒥᓱᓂᒃ ᐱᖃᓯᐅᔾᔨᔪᓄᑦ, ᐊᓪᔨᒪᐃᕐᓯᒪᔪᕐᓗ ᐊᒥᓱᓂᕐᓴᐅᔪᖅ ᐱᔾᔪᑎᐅᔪᖅ ᑖᔅᓱᒧᖓ: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ᐅᖃᖅᑐᖅ 60-ᒥᑦ 80 ᐳᓴᓐᑎᒧᑦ ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᐅᔪᖅ. ᐊᒥᓱᐃᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ ᐱᓕᕆᐊᓄᑦ ᒥᒃᓵᓄᑦ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᑦ, ᐃᓚᖃᓪᓗᓂ [101 ᐱᓕᕆᐊᑦ ᐃᓱᒪᒋᔭᐅᔪᑦ](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+ᐃᓱᒪᒋᔭᐅᔪᖅ ᐱᐅᔪᖅ ᖃᓄᖅ ᐊᓯᔾᔨᖅᑕᐅᓲᖅ ᑐᑭᓯᔪᓐᓇᕐᓂᖅ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) ᓇᓗᓇᐃᖅᓯᔪᖅ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᖅ ᓯᕗᓪᓕᖅᐹᒥ ᐊᓯᔾᔨᖅᓯᔾᔪᑎᖃᖅᑐᖅ ᑭᐅᔪᓄᑦ ᐃᓚᒋᔭᐅᔪᓄᑦ ᐃᖅᑲᐅᒪᔭᓄᑦ, ᑭᖑᓪᓕᕐᒥᓗ ᐅᖃᐅᓯᕐᒧᑦ, ᐃᓱᒪᒋᓂᕐᒧᑦ ᐊᒻᒪ ᐃᓄᖕᓂᒃ ᐃᓚᖃᑎᖃᕐᓂᕐᒧᑦ ᐊᒃᑐᐃᓂᖃᖅᑐᖅ. Alzheimer's Association ᐅᖃᖅᑐᖅ ᐊᒥᓱᓂᕐᓴᐅᔪᖅ ᓯᕗᓪᓕᕐᒥ ᓇᓗᓇᐃᖅᓯᒪᔪᖅ ᐊᔪᕈᓐᓂᖅ ᓄᑖᓂᒃ ᐃᓕᓐᓂᐊᖅᑕᐅᓯᒪᔪᓂᒃ ᐃᖅᑲᐅᒪᓂᕐᒥᒃ. ᑭᓇᐅᓂᕐᒥᐅᑕᐅᓗᑎᒃ ᐊᔾᔨᒌᖏᑦᑐᑦ, ᐊᒥᓱᓪᓗ ᐃᓄᑦ ᐊᔾᔨᒌᒃᑐᓂᒃ ᐱᔾᔪᑎᖃᖅᑐᑦ, ᑭᓯᐊᓂ ᑖᓐᓇ ᐃᓕᖅᑯᓯᖅ ᐃᑲᔪᖅᑐᖅ ᖃᓄᐃᓐᓇᑦ ᐱᐅᔪᓐᓇᕐᓂᖓᓂᒃ.
 
-## What kinds of activities suit Alzheimer's best?
+## ᖃᓄᑐᐃᓐᓇᑦ ᐱᓕᕆᐊᑦ ᐱᐅᔪᑦ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+ᐱᓕᕆᐊᑦ ᐃᓄᒃᑐᓂᒃ ᐅᖓᑖᓂ ᐱᔪᓐᓇᐅᑎᓂᒃ ᑐᙵᕕᒋᔪᑦ ᐊᔪᕈᓐᓃᖅᐸᑦᑐᑦ ᓄᑖᒥᒃ ᐃᓕᓐᓂᐊᕐᓂᕐᒥᒃ ᐃᖅᑲᐅᒪᔭᕐᓂᕐᒥᒃ ᑐᙵᕕᒋᔪᓂᑦ.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **ᐅᖓᑖᓂ ᐃᓕᓐᓂᐊᖅᑕᐅᓯᒪᔪᑦ ᐱᔪᓐᓇᐅᑎᑦ.** Alzheimer's Association ᐅᖃᖅᑐᖅ ᐃᓄᒃ ᓯᕿᓂᐊᖅᑎᑦᑎᔪᓐᓇᖅᑐᖅ ᐊᔪᕈᓐᓃᖅᑐᓂᒃ ᐃᙱᖅᑐᓂᒃ ᐅᖓᑖᓂ ᐱᐊᓄᒧᑦ ᐃᓕᓐᓂᐊᖅᑕᒥᓂᒃ. ᐃᕙᓗᕐᓂᖅ, ᕿᕿᑦᑐᓂᒃ ᓴᓇᓂᖅ, ᑲᑎᑎᑦᓯᓂᕐᒧᑦ ᐱᙳᐊᕈᑎᓂᒃ ᐊᑐᕐᓂᖅ, ᐸᓚᐅᒑᖅ ᐊᑐᕐᓂᖅ ᐊᒻᒪ ᐃᒪᕐᓗᐃᑦ ᐃᒣᑦᑎᓂᖅ ᑕᐃᒪᐃᓕᒫᖅ ᐊᔾᔨᒌᒃᑐᑦ.
+- **ᐃᓄᒃᑐᑦ ᐃᙱᖅᑐᐃᑦ ᓇᓗᓇᐃᔭᖅᓯᒪᔪᑦ ᐃᙱᖅᑐᐃᓪᓗ.** ᐊᒥᓱᑦ ᐃᓄᑦ ᐃᖅᑲᐅᒪᔪᓐᓇᖅᑐᑦ ᐃᙱᖅᑐᐃᑦ ᒪᒃᑯᒃᑐᓂᒃ ᐃᓄᓐᓂᒥᓂᒃ ᐃᓕᓐᓂᐊᖅᑕᒥᓂᒃ, ᒪᒃᑯᒃᑐᓂᒃ ᐃᙱᖅᑐᓂᒃ ᐊᒻᒪ ᑲᑎᑎᓂᕐᒧᑦ ᐃᙱᖅᑐᓂᒃ. ᑕᑯᓗᒍ [ᐃᙱᖅᑐᓄᑦ ᐱᓕᕆᐊᑦ](/activities/music/).
+- **ᐅᓪᓗᑕᒫᑦ ᐱᓕᕆᐊᑦ ᐱᔾᔪᑎᖃᕐᓗᑎᒃ.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ᑎᑎᕋᖅᓯᔪᖅ ᓴᓇᕕᒃ ᓴᓗᒪᑎᑦᑎᓂᖅ, ᓂᕆᔭᒃᓴᓄᑦ ᓴᖅᑭᑎᑦᑎᓂᖅ, ᐊᓪᓕᒋᔭᐃᑦ ᐊᕕᒃᑐᖅᓯᓂᖅ ᐊᒻᒪ ᐃᒪᕐᓗᐃᑦ ᐃᒣᑦᑎᓂᖅ ᐱᓕᕆᐊᓂᒃ ᖁᕕᐊᓱᒍᓐᓇᖅᑕᖏᓂᒃ. ᐃᑲᔪᖅᑐᐃᔪᓐᓇᕐᓂᖅ ᐱᒻᒪᕆᐅᔪᖅ.
+- **ᐃᓕᓴᕆᓂᖅ ᐃᖅᑲᐅᒪᓂᕐᒧᑦ ᑐᙵᕕᙱᓪᓗᓂ.** ᐊᔾᔨᙳᐊᖅ ᓇᓕᒧᒌᒃᑐᖅ ᓇᓗᓇᐃᓂᖅ ᐊᔪᕈᓐᓃᖅᐳᖅ ᐊᑎᖓᓂᒃ ᐅᖃᓗᓂ ᐃᖅᑲᐅᒪᔪᓐᓇᕐᓂᕐᒥᑦ. ᑕᐃᒪᐃᒻᒪᑦ ᐊᔾᔨᙳᐊᓄᑦ ᐱᙳᐊᕈᑎᑦ ᑕᒪᐃᓐᓂᒃ ᑕᑯᔭᐅᔪᓂᒃ ᐱᐅᔪᑦ ᐊᐱᖅᓱᖅᑕᐅᓂᕐᒥᑦ ᐱᐅᓛᖅᑐᑦ.
+- **ᑐᒃᓯᐊᕐᓂᖅ.** ᐊᒃᑐᐃᓂᖅ, ᑎᐱᖓ, ᐅᖅᑰᓯᕙᓪᓕᐊᓂᖅ, ᒪᒪᕋᓛᖅ ᐊᒻᒪ ᓂᐱ ᐱᒻᒪᕆᐅᔪᓐᓇᖅᑐᑦ ᐅᖃᐅᓯᑦ ᐊᔪᕈᓐᓃᖅᑎᓪᓗᒋᑦ. ᑕᑯᓗᒍ [ᑐᒃᓯᐊᕐᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+ᐊᔪᕈᓐᓃᖅᐸᑦᑐᑦ ᐱᓕᕆᐊᑦ: ᓈᓴᐅᑎᖃᖅᑐᑦ, ᓄᑖᑦ ᒪᓕᒐᓕᕆᓂᖅ ᐃᓕᓐᓂᐊᕐᓂᖅ, ᐊᒥᓱᑦ ᑲᑎᙵᔪᑦ ᐃᖅᑲᐅᒪᔭᕆᐊᖃᖅᑐᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᐱᖅᓱᖅᑕᐅᔪᑦ ᐃᖅᑲᐅᒪᔭᕐᓂᕐᒥᒃ ᐆᒃᑐᕋᖅᑕᐅᔪᑦ, ᓲᕐᓗ «ᐃᖅᑲᐅᒪᕕᐅᒃ ᑖᓐᓇ ᑭᓇᐅᔭᖅ?» ᑖᒃᑯᐊ ᐊᔪᕈᓐᓃᖅᑐᑦ ᐃᓚᖏᑦ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ ᓴᖅᑭᑕᐅᔪᑦ.
 
-## Activities for early-stage Alzheimer's
+## ᐱᓕᕆᐊᑦ ᐱᒋᐊᕐᓂᕐᒥ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+ᐱᒋᐊᕐᓂᕐᒥ, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) ᐅᖃᖅᑐᖅ ᐃᓄᒃ ᐊᖅᑯᑎᖃᕐᓂᐊᖅᑐᖅ, ᐃᖅᑲᓇᐃᔭᖅᓯᓂᐊᖅᑐᖅ ᐊᒻᒪ ᐃᓄᖕᓂᒃ ᐃᓚᖃᑎᖃᕐᓂᐊᖅᑐᖅ, ᐃᖅᑲᐅᒪᔪᓐᓇᖅᓗᓂ ᐊᓯᔾᔩᓂᕐᓂᒃ ᓲᕐᓗ ᓇᓗᓇᐃᔭᖅᓯᒪᔪᓂᒃ ᐅᖃᐅᓯᓂᒃ ᐳᐃᒍᓂᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓇᓂ ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ ᐃᓂᖃᕐᓂᖏᑦ. ᐱᐅᓛᖅᑐᖅ ᑲᑐᔾᔨᖃᑎᖃᕐᓂᖅ: ᐊᐱᕐᓗᒍ ᖃᓄᐃᓐᓇᑦ ᑲᔪᓯᔪᒪᕙᑦᑐᖏᓐᓂᒃ ᐊᒻᒪ ᖃᓄᐃᓐᓇᖅ ᐃᑲᔪᖅᑕᐅᔪᒪᕙᑦᑐᖏᓐᓂᒃ.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **ᐱᔨᑦᑎᕋᖅᓯᒪᔪᑦ ᖁᕕᐊᓱᒍᑎᒋᔭᑦ ᑲᔪᓯᓗᒋᑦ.** ᒥᓇᕋᓱᖕᓂᖅ, ᑲᑎᑎᑦᓯᓂᖅ, ᒥᕐᖑᐃᓂᖅ, ᐃᙱᖅᑎᓄᑦ ᑲᑎᒪᔨᐅᓂᖅ ᐊᒻᒪ ᐊᒡᓚᕝᕕᒃ, ᒥᑭᓂᒃ ᐊᓯᔾᔨᖅᑕᐅᓯᒪᓗᑎᒃ ᓲᕐᓗ ᒥᑭᓂᖅᓴᓂᒃ ᑲᑎᒪᔨᐅᓂᖅ ᐊᒻᒪ ᓂᐱᖃᙱᓛᕐᓂᖅ ᐱᕕᖃᕐᓂᖅ.
+2. **ᓇᓗᓇᐃᔭᖅᓯᒪᔪᓂᒃ ᑲᑎᑎᑦᓯᓂᕐᒧᑦ ᐱᙳᐊᕈᑎᓂᒃ ᐱᙳᐊᕐᓗᑎᑦ.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ᑎᑎᕋᖅᓯᔪᖅ ᐅᖃᐅᓯᓕᕆᓂᕐᒥᒃ, ᐅᖃᐅᓯᓂᒃ ᓇᓂᓯᓂᕐᒥᒃ, ᑲᑎᑎᑦᓯᓂᕐᒧᑦ ᐱᙳᐊᕈᑎᓂᒃ ᐊᒻᒪ ᓴᖅᑭᑕᐅᔪᓂᒃ ᐱᙳᐊᕈᑎᓂᒃ ᐱᒋᐊᕐᓂᕐᒧᑦ. ᑲᑐᔾᔨᖃᑎᒌᒍᑎᒃ ᐱᙳᐊᕐᓗᑎᑦ ᓈᓴᐅᓯᕆᓂᖅ ᐊᓪᓚᖑᔪᓐᓇᖅᐸᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᓈᓴᐅᓯᕆᓂᖅ ᐱᔨᕈᓐᓇᕐᓗᒍ.
+3. **ᑲᑐᔾᔨᖃᑎᒌᒍᑎᒃ ᓂᕿᓗᑎᑦ.** ᓇᓗᓇᐃᔭᖅᓯᒪᔪᒥᒃ ᓂᕿᓂᕐᒥᒃ ᐱᓕᕆᖃᑦᑎᐊᕐᓗᒍ, ᐃᕝᕕᓪᓗ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐅᖃᓕᒫᕐᓗᒍ.
+4. **ᐃᓅᓯᕐᒥᒃ ᐅᓂᒃᑳᖅ ᐱᓕᕆᐊᖅ ᐱᒋᐊᕐᓗᒍ.** ᐊᔾᔨᙳᐊᑦ, ᓂᕿᓂᕐᒧᑦ ᐱᔨᑦᑎᕋᕐᓂᖅ ᐊᒻᒪ ᐅᓂᒃᑳᑦ ᐊᔾᔨᒌᙱᑦᑐᓄᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᑎᑎᕋᕐᓗᒋᑦ. ᑕᑯᓗᒍ [ᐃᖅᑲᐅᒪᔭᓂᒃ ᐅᖃᓕᒫᓂᖅ](/activities/reminiscence/).
+5. **ᐊᓂᕝᕕᒋᐊᕐᓗᑎᑦ.** ᓂᕆᔭᒃᓴᕕᒃ ᖁᕕᐊᓱᒍᑎᖃᖅᑕᖅ ᓂᐱᖃᙱᓛᕐᒥ, ᑕᑯᔭᒐᕐᕕᒃ ᓇᐃᑦᑐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᒥᕐᖑᐃᓯᕐᕕᒻᒥ ᐱᓱᒃᓂᖅ.
+6. **ᐱᔭᕆᐊᖃᖅᑐᑦ ᐱᙳᐊᕈᑎᑦ ᐆᒃᑐᕋᕐᓗᒋᑦ.** ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐅᖃᐅᓯᓕᕆᓂᖅ, ᐅᖃᐅᓯᓂᒃ ᓇᓂᓯᓂᖅ ᐊᒻᒪ ᐱᔭᕆᐊᖃᖅᑐᑦ. ᑕᑯᓗᒍ [ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ ᐱᔭᕆᐊᖃᖅᑐᑦ](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+ᐃᓱᒪᒋᔭᐅᔪᑦ ᐱᓕᕆᐊᑦ: [ᐱᒋᐊᕐᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## ᐱᓕᕆᐊᑦ ᕿᑎᕐᒥ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association ᐅᖃᖅᑐᖅ ᕿᑎᖓ ᐊᑭᓪᓕᒃᑲᒥᒃ ᑕᑭᓂᖅᓴᐅᔪᖅ, ᐊᒻᒪ ᐊᕐᕌᒍᑕᒫᑦ ᐊᒥᓱᑦ ᑕᑭᔪᓐᓇᖅᑐᖅ. ᐅᖃᐅᓯᑦ ᐊᑯᓐᓂᖃᑦᑎᐊᖅᑐᑦ, ᐊᓪᓚᖑᓂᖅ ᑐᐃᓐᓇᖅ ᐱᔪᓐᓇᖅᑐᖅ, ᐊᒻᒪ ᐃᓄᒃ ᐃᑲᔪᖅᑕᐅᔪᓐᓇᕐᓂᖃᑦᑎᐊᖅᑐᖅ. Alzheimer's Foundation of America ᐅᖃᖅᑐᖅ ᐊᒥᓱᑦ ᐃᓄᑦ ᐃᑲᔪᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐱᓕᕆᐊᓂᒃ ᐱᒋᐊᕐᓂᕐᒧᑦ ᑲᔪᓯᓂᕐᒧᓪᓗ. ᐱᓕᕆᕆᐊᖃᕋᓱᒋᑦ ᓴᖅᑭᑎᑦᑎᓂᖅ, ᑕᑯᒃᓴᐅᑎᑦᑎᓂᖅ ᐅᖃᐅᓯᖃᙱᓪᓗᑎᑦ, ᐊᒻᒪ ᐊᔪᕈᓐᓃᖅᑐᑦ ᐃᓚᖏᑦ ᐱᓕᕆᓂᖅ.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **ᐃᒣᑦᑎᓂᖅ, ᐊᕕᒃᑐᖅᓯᓂᖅ ᐊᒻᒪ ᓇᓕᒧᒌᖅᑎᑦᑎᓂᖅ.** ᐃᒪᕐᓗᐃᑦ, ᐊᓪᓕᒋᔭᐃᑦ, ᓴᕕᕋᔭᐃᑦ ᓂᕆᓂᕐᒧᑦ, ᓇᕿᑦᑕᐃᑦ ᖃᓄᐃᑦᑑᓂᖏᓐᓄᑦ. ᐱᔭᕆᐊᖃᖅᑐᑦ ᐱᓕᕆᐊᑦ, ᑲᑐᔾᔨᖃᑎᒌᒍᑎᒃ ᐱᓕᕆᔭᐅᔪᑦ.
+2. **ᐃᙱᖅᓯᓂᖅ ᐊᒻᒪ ᐃᙱᖅᑐᓄᑦ ᐊᐅᓚᓂᖅ.** ᐊᓪᒡᒍᑎᒃ ᐸᑎᖅᑎᓂᖅ, ᐊᐅᓚᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᒧᒥᖅᓯᓂᖅ ᓂᕿᓂᕐᒥ. ᐃᕝᕕᑦ ᐃᙱᕐᓗᑎᑦ ᐃᓚᐅᔪᓐᓇᖁᓪᓗᒍ.
+3. **ᐊᔾᔨᙳᐊᓄᑦ ᑕᑯᓂᖅ.** ᑕᑯᓯᒪᔪᓂᒃ ᐅᖃᐅᓯᕆᓗᑎᑦ ᐊᒻᒪ ᐅᓂᒃᑳᒧᑦ ᑲᐃᔪᓯᓗᑎᑦ: «ᑕᒪᓐᓇ ᐊᖅᑯᑎᖅ ᐱᐅᔪᖅ. ᐅᓂᒃᑲᐅᑎᒋᓗᖓ.» ᐊᑎᖏᑦ ᐊᑐᖅᑕᖏᑦ ᓇᓗᒐᕐᓗᒋᑦ.
+4. **ᐊᔪᕈᓐᓃᖅᑐᑦ ᐊᔾᔨᙳᐊᓄᑦ ᐱᙳᐊᕈᑎᑦ.** [Picture pairs](/games/picture-pairs/) 4-ᒥᑦ 6-ᒧᑦ ᐊᔾᔨᙳᐊᓂᒃ ᑕᑯᔭᐅᔪᓐᓇᖅᑐᓂᒃ, ᐅᕝᕙᓘᓐᓃᑦ [Find the same](/games/find-the-same/) 2-ᓂᒃ 3-ᓄᓪᓗ ᓂᕈᐊᕈᑎᓂᒃ.
+5. **ᓇᓗᓇᐃᔭᖅᓯᒪᔪᓂᒃ ᐅᖃᐅᓯᓂᒃ ᐱᐊᕆᓗᒋᑦ.** «ᐋᐳ ᐊᑕᐅᓯᖅ ᐅᓪᓗᑕᒫᑦ…» ᐅᖓᑖᓂ ᐃᓕᓐᓂᐊᖅᑕᐅᓯᒪᔪᑦ ᐅᖃᐅᓯᑦ ᐊᔪᕈᓐᓃᖅᐸᑦᑐᑦ. ᐆᒃᑐᕋᕐᓗᒍ [Finish the saying](/games/finish-the-saying/), ᑕᒪᓐᓇ ᑭᖑᓪᓕᖅᐹᖅ ᐅᖃᐅᓯᖅ ᑕᑯᒃᓴᐅᑎᑦᑎᔪᓐᓇᖅᑐᖅ ᐊᑕᐅᓯᕐᒥᒃ ᓇᕿᓪᓗᒍ.
+6. **ᐱᕈᕐᓰᑦ ᐃᒥᕐᓗᒋᑦ ᒪᒥᖅᓯᓗᒋᑦᓗ.** ᐃᓪᓗᒥ ᐱᕈᕐᓰᑦ ᐅᕝᕙᓘᓐᓃᑦ ᖁᑦᑎᖕᓂᖅᑐᑦ ᐱᕈᕐᓰᕕᑦ, ᒥᑭᓂᒃ ᐃᒥᕐᓗᑎᒃ.
+7. **ᐃᓚᒋᔭᓯ ᐊᔾᔨᙳᐊᓂᒃ ᓇᓕᒧᒌᖅᑎᑦᑎᓂᕐᒧᑦ ᐱᙳᐊᕈᑎᒃ.** [Photo pairs](/games/photo-pairs/) ᐊᑐᖅᑐᖅ ᐊᔾᔨᙳᐊᓂᒃ ᓂᕈᐊᖅᑕᓂ ᐱᖁᑎᕐᒥ, ᐊᒻᒪ ᐱᖁᑎᕐᒥ ᐃᓂᖃᕐᓱᐃᖏᑦᑐᑦ.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+ᐃᓱᒪᒋᔭᐅᔪᑦ ᐱᓕᕆᐊᑦ: [ᕿᑎᕐᒧᑦ ᐱᓕᕆᐊᑦ](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## ᐱᓕᕆᐊᑦ ᑭᖑᓪᓕᕐᒥ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+ᑭᖑᓪᓕᕐᒥ, Alzheimer's Association ᐅᖃᖅᑐᖅ ᐃᓄᑦ ᐱᔪᓐᓇᕐᓂᖏᓐᓂᒃ ᐊᓯᔾᔩᑦᑐᑦ ᐊᕙᑎᒥᒃ ᑭᐅᔪᓐᓇᕐᓂᕐᒥᒃ ᐊᒻᒪ ᐅᖃᖃᑎᒌᓐᓂᕐᒥᒃ, ᑭᓯᐊᓂ ᐅᖃᐅᓯᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᐅᓯᓕᒫᓂᒃ ᐅᖃᖅᑎᑦᑎᔪᓐᓇᖅᑐᑦ. ᐱᓕᕆᐊᖅ ᒫᓐᓇ ᓴᐃᒻᒪᖅᓯᓂᖅ ᐊᒻᒪ ᑲᑎᒪᖃᑎᖃᕐᓂᖅ, ᐃᓅᓯᖃᕐᓂᖓᓄᑦ ᐊᐅᓪᓚᖃᑦᑕᕐᓗᒍ.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **ᓇᕿᑦᑕᒐᖏᑦ ᐃᙱᖅᑐᐃᑦ ᓂᐱᖃᙱᑦᑐᒥᒃ ᐱᓕᕆᓗᒍ.**
+2. **ᐊᓪᒡᒍᓄᑦ ᓴᐳᒻᒥᔭᐅᔪᖅ ᐊᒃᑐᐃᓂᖅ** ᑎᐱᖃᖅᑐᒥᒃ ᒥᖅᓱᖅᑕᐅᒥᓂᒃ ᖁᕕᐊᓱᒍᑎᖃᕐᓗᓂ.
+3. **ᓴᐳᒻᒥᔭᐅᔪᑦ ᐊᒃᑐᐃᔭᐅᔪᓐᓇᖅᑐᑦ ᑐᓂᓯᓗᒋᑦ:** ᐅᖅᑰᓯᕙᓪᓕᐊᔪᖅ ᐊᓪᓚᐃᑦ, ᒥᖅᑯᓯᑐᖃᖅ ᐊᓐᓄᕌᖅ, ᓴᓗᒪᔪᖅ ᐅᔭᕋᖕᓂᐊᖅᑐᖅ.
+4. **ᐅᖃᓕᒫᕐᓗᒍ** ᒪᒃᑯᒃᑐᓂᒃ ᐅᖃᐅᓯᓂᒃ, ᐅᖃᐅᓯᓕᒫᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓇᓗᓇᐃᔭᖅᓯᒪᔪᒥᒃ ᐅᓂᒃᑳᒥᒃ. ᐃᙱᖅᑐᐃᑦ ᑲᔪᓯᑎᑦᑎᔪᑦ ᑐᑭᖓᓂᒃ ᐱᒻᒪᕆᐅᓛᖅᑐᑦ.
+5. **ᓯᓚᑖᓂ ᐃᖃᓗᑎᑦ** ᑕᕐᕿᒥ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᒐᓛᕐᔪᐊᒥ ᑎᒥᖃᕐᓗᑎᑦ ᐆᒪᔪᑦ ᑕᑯᔪᓐᓇᖅᑐᓂᒃ.
+6. **ᐊᑕᐅᓯᕐᒥᒃ ᐊᖏᔪᒥᒃ ᐊᔾᔨᙳᐊᒥᒃ ᑲᑐᔾᔨᖃᑎᒌᒍᑎᒃ ᑕᑯᓗᑎᑦ.** ᓯᕿᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᕿᒻᒥᖅ ᓴᖅᑭᑕᐅᔪᖅ ᑕᑯᔭᐅᔪᓐᓇᖅᑐᖅ, ᐃᕝᕕᓪᓗ ᑕᑯᓯᒪᔪᓂ ᐅᖃᐅᓯᕆᓗᒍ.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+ᐃᓱᒪᒋᔭᐅᔪᑦ ᐱᓕᕆᐊᑦ: [ᑭᖑᓪᓕᕐᒧᑦ ᐱᓕᕆᐊᑦ](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## ᖃᓄᑐᐃᓐᓇᑦ ᐱᙳᐊᕈᑎᑦ ᐱᐅᔪᑦ ᐊᓪᔨᒪᐃᕐᓯᒪᔪᒧᑦ?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+ᐱᙳᐊᕈᑎᑦ ᓂᕈᐊᕐᓗᑎᑦ ᑕᒪᓐᓇ ᐊᔪᕈᓐᓃᖅᑐᖅ. ᑕᒪᕐᒥᒃ ᐱᙳᐊᕈᑎᑦ ᑖᔅᓱᒥ ᐃᓂᒥ ᐊᑭᖃᑦᑕᖅᑐᑦ, ᖃᕆᑕᐅᔭᒃᑯᑦ ᐱᙳᐊᕈᑎᐅᔪᑦ ᐊᒻᒪ ᓈᓴᐅᑎᖃᙱᑦᑐᑦ, ᓈᓴᐅᓯᕆᓂᖃᙱᑦᑐᑦ ᐊᑎᓕᐅᕐᓂᖃᙱᑦᑐᓪᓗ.
 
-| Game | What you do | Often suits |
+| ᐱᙳᐊᕈᑎᖅ | ᖃᓄᐃᓕᐅᕐᓂᖅ | ᐱᐅᔪᓐᓇᖅᑐᖅ |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | ᐊᖏᔪᑦ ᐊᔾᔨᙳᐊᑦ ᓇᓕᒧᒌᖅᑎᑦᑎᓗᒋᑦ; ᑕᑯᔭᐅᔪᓐᓇᖅᑐᑦ | ᐱᒋᐊᕐᓂᖅ ᐊᒻᒪ ᕿᑎᖓ |
+| [Find the same](/games/find-the-same/) | ᐊᔾᔨᙳᐊᖅ ᖁᓛᓂ ᐃᓪᓗᐊᓂ ᐊᔾᔨᒌᒃᑐᖅ ᓇᕿᓪᓗᒍ | ᕿᑎᖓ ᐊᒻᒪ ᑭᖑᓪᓕᖓ, ᐃᑲᔪᖅᑕᐅᓗᓂ |
+| [Finish the saying](/games/finish-the-saying/) | ᓇᓗᓇᐃᔭᖅᓯᒪᔪᖅ ᐅᖃᐅᓯᖅ ᑭᖑᓪᓕᖅᐹᖓ ᓂᕈᐊᕐᓗᒍ, ᐅᕝᕙᓘᓐᓃᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᓗᒍ | ᐱᒋᐊᕐᓂᖅ ᐊᒻᒪ ᕿᑎᖓ |
+| [Picture puzzle](/games/picture-puzzle/) | 4 ᐅᕝᕙᓘᓐᓃᑦ 9 ᐃᓚᒋᔭᐃᑦ ᐃᓂᖏᓐᓄᑦ ᒧᒥᖅᑎᑦᑎᓗᒋᑦ, ᐊᔾᔨᙳᐊᖅ ᑕᑯᔭᐅᓗᓂ | ᐱᒋᐊᕐᓂᖅ ᐊᒻᒪ ᕿᑎᖓ |
+| [Conversation cards](/games/conversation-cards/) | ᐊᔾᔨᙳᐊᖅ ᐊᒻᒪ ᐅᖃᓕᒫᕈᓐᓇᕐᓂᕐᒧᑦ ᑲᐃᔪᓯᔪᖅ | ᖃᓄᐃᓕᖓᓂᕐᒥᑐᐃᓐᓇᖅ, ᐅᖃᖃᑎᖃᕐᓗᓂ |
+| [Photo pairs](/games/photo-pairs/) | ᓇᓕᒧᒌᖅᑎᑦᑎᓂᕐᒧᑦ ᐱᙳᐊᕈᑎᖅ ᓇᓕᒧᒌᑦ ᐊᔾᔨᙳᐊᓂᒃ ᓴᓇᔭᐅᔪᖅ | ᐱᒋᐊᕐᓂᖅ ᐊᒻᒪ ᕿᑎᖓ |
+| [Coloring](/games/coloring/) | ᖃᓄᐃᑦᑑᓂᖓ ᓂᕈᐊᕐᓗᒍ, ᑕᐃᒪᐃᓕ ᐊᔾᔨᙳᐊᖅ ᐃᓚᖓ; ᐅᕝᕙᓘᓐᓃᑦ ᑎᑎᕋᖅᓯᓗᒍ | ᖃᓄᐃᓕᖓᓂᕐᒥᑐᐃᓐᓇᖅ, ᐃᑲᔪᖅᑕᐅᓗᓂ |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+ᖃᓄᖅ ᐃᖃᑎᒌᖕᓂᖅ, ᖃᓄᖅ ᐃᑲᔪᖅᑕᐅᓂᖅ ᐊᒻᒪ ᖃᖃ ᓄᖅᑲᕐᓂᖅ, ᐅᖃᓕᒫᕐᓗᒍ [ᖃᓄᖅ ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ ᐃᓄᒃ ᐱᙳᐊᖅᑎᑦᑎᓂᖅ](/caregiving/how-to-play-together/). «ᐃᖅᑲᐅᒪᔭᕐᓂᕐᒧᑦ ᐱᙳᐊᕈᑎᑦ» ᒥᒃᓵᓄᑦ ᐃᓱᒪᒋᔪᒪᒍᕕᑦ, ᑕᑯᓗᒍ [ᐃᓐᓇᐃᑦ ᐃᖅᑲᐅᒪᔭᕐᓂᕐᒧᑦ ᐱᙳᐊᕈᑎᖏᑦ ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ](/activities/memory-games/).
 
-## How to make any activity easier
+## ᖃᓄᖅ ᐱᓕᕆᐊᑦ ᐊᔪᕈᓐᓃᖅᑎᑦᑎᔪᓐᓇᕐᓂᖅ
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA ᐅᖃᐅᓯᖏᑦ ᐃᒪᓐᓇᐅᔪᑦ: ᐱᓕᕆᐊᖅ ᐃᓄᐃᑦ ᐱᔪᓐᓇᕐᓂᖏᓐᓄᑦ ᓇᓗᓇᐃᕐᓗᒍ, ᐱᒋᐊᕐᓂᕐᒧᑦ ᐃᑲᔪᕐᓗᒍ, ᐊᓪᓚᖑᓂᕐᒥᒃ ᑕᑯᓗᒍ, ᓇᓗᒍ ᐱᔪᓐᓇᖅᑐᒥᒃ ᐃᓱᒪᒋᔪᓐᓇᖁᓪᓗᒍ, ᐊᒻᒪ ᑕᑯᓂᕐᒥᒃ ᑕᐃᒃᑯᓄᖕᒐ ᖁᕕᐊᓱᒍᑎᒃᐸᑦ ᐱᔨᕈᓐᓇᕐᓗᒍ.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **ᐅᓪᓗᖓ ᓂᕈᐊᕐᓗᒍ ᐱᐅᔪᒻᒪᕆᐅᓛᕐᒥ,** ᐊᒻᒪ ᓇᐃᑦᑐᑦ ᐱᓕᕆᐊᕐᓗᒋᑦ.
+- **ᑕᒪᐃᓐᓂᒃ ᓴᖅᑭᑎᑦᑎᓗᒍ ᐱᒋᐊᕐᓂᕐᒧᑦ** ᑐᐃᓐᓇᖅ ᐱᒋᐊᕐᔪᓐᓇᖁᓪᓗᑎᑦ.
+- **ᑲᐃᔪᓯᓗᒍ, ᐱᖁᔭᖅᑎᑦᑎᓃᑦ.** «ᐃᑲᔪᕐᓂᐊᖅᐸᖕᓇ?» ᐱᐅᓛᖅᑐᖅ «ᐱᓕᕆᐊᖅ ᒫᓐᓇ ᐱᒋᐊᕐᓂᐊᖅᑐᖅ» ᐅᖃᐅᓯᕐᒥᑦ.
+- **ᓯᕗᓪᓕᖅᐹᒥᒃ ᐱᓕᕆᓗᒍ** ᐃᓚᐅᔪᓐᓇᖁᓪᓗᒍ.
+- **ᐊᑕᐅᓯᕐᒥᒃ ᐱᓕᕆᐊᖅ ᐊᒻᒪ ᐊᑕᐅᓯᕐᒥᒃ ᓂᕈᐊᕈᑎᖅ ᑐᓂᓯᓗᒍ.**
+- **ᖃᓄᐃᓕᐅᕐᓂᖏᑦ ᐱᔨᕈᓐᓇᕐᓗᒋᑦ.** ᐃᒣᑦᑎᔪᑦ ᓇᓕᖅᑲᐃᙱᑦᑐᑦ ᐱᐅᔪᑦ.
+- **ᖁᕕᐊᓱᒃᑲᓐᓂᕐᓗᒍ ᓄᖅᑲᕐᓗᒍ.** ᐱᒋᐊᕐᓂᕐᒥ ᓄᖅᑲᕐᓂᖅ ᐱᐅᔪᖅ, ᐊᔪᕈᓐᓃᓂᖅ ᐱᓐᖑᙱᑦᑐᖅ. ᐄᒃᑲᓐᓂᕐᒪᖔᑦ, ᑕᑯᓗᒍ [ᐳᕋᓱᒋᐊᕐᓂᕐᒧᑦ ᐃᓄᒃ ᐄᒃᑲᓐᓂᕐᒪᖔᑦ](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ᐅᖃᖅᑐᖅ ᐊᔪᕈᓐᓃᑦᑐᒥᒃ: ᖁᕕᐊᓱᓂᕐᒧᑦ ᑐᕌᕐᓗᑎᑦ, ᐱᔪᓐᓇᕐᓂᕐᒧᑦ ᐱᓐᖑᙱᓪᓗᑎᑦ.
