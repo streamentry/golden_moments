@@ -116,3 +116,12 @@ Application: the Today tool now labels U.S. phone lines and gives local emergenc
 - [Alzheimer's Society: Using technology](https://dementiaconnect.alzheimers.org.uk/get-support/living-with-dementia/advice-on-using-technology) emphasizes consent and considering privacy and what information other people can see.
 
 Application: Today already stores caregiver notes only in the current browser, but required one Remove action per note. The new confirmed clear-all option removes only that notes key, not browser preferences or other site data. This is a privacy and mistake-recovery inference, not a clinical claim.
+
+## Round 52: home safety and adaptations (read 2026-11-11)
+
+- [Alzheimer's Association: Alzheimer's and Dementia Home Safety Tips](https://www.alz.org/help-support/caregiving/safety/home-safety) — opened. Its checklist covers common household areas and reminds caregivers to support the person's needs and independence.
+- [Alzheimer's Society: What equipment can improve the home of a person with dementia?](https://www.alzheimers.org.uk/get-support/living-with-dementia/what-equipment-improve-adapt-home-person-dementia) — opened. It says small adaptations can support daily routines and recommends advice from health or social-care professionals before choosing equipment or changing a home.
+- [Alzheimer's Society: Tips about staying safe and secure at home after a dementia diagnosis](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/tips-staying-safe-secure-home-dementia) — opened. This community advice includes emergency contacts, lighting, trip hazards and getting help with changes.
+- [National Institute on Aging: Alzheimer's Caregiving: Home Safety Tips](https://www.nia.nih.gov/health/safety/home-safety-checklist-alzheimers-disease) — found in search, but opening returned HTTP 405. Not used for this round.
+
+Application: the site had safety details inside activity and sleep guides but no single page for a caregiver to review home hazards and decide which changes suit their household. The new guide gives a room-by-room starting point and highlights professional advice for equipment or structural work. It is a content-design inference, not a home assessment or clinical claim.
