@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Athafnir og leikir fyrir fólk með Alzheimers-sjúkdóm"
+seoTitle: "Alzheimers: athafnir og leikir eftir stigum"
+description: "Athafnir og leikir fyrir fólk með Alzheimers-sjúkdóm á hverju stigi, byggðir á kunnáttu og minningum sem oft endast lengi, með ókeypis leikjum."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Góðar athafnir fyrir einhvern með Alzheimers-sjúkdóm byggja á því sem endist
+  lengst: kunnáttu sem æfð hefur verið lengi, gömlum lögum, kunnuglegum
+  heimilisverkum og skynjun. Snemma í sjúkdómnum virka spil, borðspil, matreiðsla
+  og útivist oft vel. Á miðstigi er hægt að prófa að brjóta saman þvott, raða,
+  syngja, skoða ljósmyndaalbúm og einfalda myndaleiki. Seint í sjúkdómnum skipta
+  tónlist, snerting og félagsskapur mestu máli. Miðið við hvernig viðkomandi
+  líður í dag.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimers-sjúkdómur er algengasta orsök heilabilunar, svo hugmyndir að athöfnum fyrir fólk með heilabilun eiga líka við."
+  - "Nýjar upplýsingar eru yfirleitt erfiðastar fyrst, á meðan kunnátta og lög sem lærðust fyrir löngu halda sér oft lengur. Byggið á því."
+  - "Stig skarast og góðir og erfiðir dagar eru eðlilegir. Veljið eftir því hvað viðkomandi ræður við og hefur gaman af í dag."
+  - "Veljið leiki án klukku, stiga eða spurninga, og látið myndirnar vera sýnilegar."
+  - "Að horfa á, halda á einhverju eða einfaldlega sitja saman telst allt sem þátttaka."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Hvaða athafnir henta vel fyrir einhvern með Alzheimers-sjúkdóm?"
+    a: "Kunnuglegar athafnir gerðar aðeins einfaldari: að brjóta saman þvott, leggja á borð, elda saman, hlusta á tónlist og syngja, skoða ljósmyndir, fara í göngutúr, garðvinna og eyða tíma með gæludýri. Einfaldir myndaleikir, auðveld púsl og spjallspjöld henta líka mörgum vel. Veljið það sem viðkomandi hefur alltaf haft gaman af og takið þátt saman."
+  - q: "Eru leikir góðir fyrir fólk með Alzheimers-sjúkdóm?"
+    a: "Leikir geta verið skemmtileg leið til að eyða tíma saman ef viðkomandi hefur gaman af þeim. Enginn leikur hefur sýnt fram á að hann meðhöndli, hægi á eða stöðvi Alzheimers-sjúkdóm, svo veljið leiki til ánægju: stórar myndir, fáir valkostir og engin klukka, stig eða hljóð við röng svör."
+  - q: "Er munur á athöfnum fyrir fólk með heilabilun og athöfnum fyrir fólk með Alzheimers-sjúkdóm?"
+    a: "Að mestu leyti ekki. Alzheimers-sjúkdómur er algengasta orsök heilabilunar og sömu hugmyndir að athöfnum eiga við. Það sem hjálpar þegar um Alzheimers er að ræða er að vita að nýlegar minningar dofna yfirleitt fyrst, svo athafnir sem byggja á eldri kunnáttu, lögum og venjum ganga oft betur."
+  - q: "Hvað getur einhver á lokastigi Alzheimers-sjúkdóms samt haft gaman af?"
+    a: "Uppáhaldstónlist, léttan handanudd, mjúka hluti til að halda á, að fá lesið fyrir sig, að sitja úti og félagsskap einhvers sem viðkomandi treystir. Haldið því stuttu og rólegu og fylgist með svipbrigðum og líkamsmáli til að sjá hvað viðkomandi líkar."
+  - q: "Hvernig get ég vakið áhuga einhvers með Alzheimers-sjúkdóm á athöfn?"
+    a: "Biðjið um hjálp í stað þess að boða athöfn, leggið allt til áður en byrjað er og byrjaðu sjálf(ur) svo að viðkomandi geti tekið þátt. Það skiptir miklu máli að velja þann tíma dags þegar viðkomandi er hressastur. Ef svarið er nei, reynið aftur síðar eða bjóðið upp á einfaldari útgáfu."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ef einhver sem þér þykir vænt um er með Alzheimers-sjúkdóm hefurðu sennilega þegar tekið eftir því að sumt hverfur fljótt á meðan annað helst. Viðkomandi gleymir kannski símtali frá því í morgun en man samt hvert orð í sálmi, brýtur handklæði eins og alltaf hefur verið gert eða gefur spil á spil án þess að hugsa. Góðar athafnir byggja á þessari kunnáttu sem endist. Þessi síða útskýrir hvers vegna og gefur síðan hugmyndir fyrir hvert stig og ókeypis leiki á þessari síðu sem henta.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Er munur á Alzheimers og heilabilun þegar kemur að athöfnum?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ekki mikill. Heilabilun er samheiti og Alzheimers-sjúkdómur er algengasta orsök hennar: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) segir að hann valdi 60 til 80 prósentum tilfella heilabilunar. Nánast allt sem fjallað er um athafnir fyrir fólk með heilabilun á líka við um Alzheimers, þar á meðal [101 hugmynd að athöfnum](/activities/ideas/) hjá okkur.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Það sem er gagnlegt að vita er venjuleg röð breytinga. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) útskýrir að Alzheimers-sjúkdómur skaðar fyrst þá hluta heilans sem tengjast minni og síðar tungumál, rökhugsun og félagslega hegðun. Alzheimer's Association segir að algengasta einkenni snemma sé erfiðleiki við að muna nýjar upplýsingar. Allir eru ólíkir og margir eru með blandaðar orsakir, en þetta mynstur hefur áhrif á það sem oft virkar vel.
 
-## What kinds of activities suit Alzheimer's best?
+## Hvaða athafnir henta Alzheimers-sjúkdómi best?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Athafnir sem byggja á gamalli, vel æfðri kunnáttu ganga yfirleitt betur en þær sem krefjast þess að læra eitthvað nýtt og halda því í huga.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Kunnátta sem æfð hefur verið lengi.** Alzheimer's Association bendir á að viðkomandi geti samt spilað einföld lög sem lærð voru á píanó fyrir mörgum árum. Prjón, að pússa við, að stokka spil, að hnoða deig og að brjóta saman þvott er svipað.
+- **Gömul lög og kunnugleg tónlist.** Margir kunna enn hvert orð í lögum frá unglingsárunum og tvítugsaldri, sálmum og lögum frá brúðkaupinu sínu. Sjá [tónlistaratferðir](/activities/music/).
+- **Dagleg verk með tilgangi.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nefnir meðal annars að þvo upp, leggja á borð, raða sokkum og brjóta saman þvott sem athafnir sem fólk getur haft gaman af. Það skiptir máli að finnast maður nýtilegur.
+- **Að þekkja fremur en að rifja upp.** Það er auðveldara að benda á myndina sem passar en að nefna hana úr minni. Þess vegna virka myndaleikir þar sem allt er sýnilegt betur en spurningaleikir.
+- **Skynjunin.** Áferð, lykt, ylur, bragð og hljóð eru enn mikilvæg löngu eftir að orð verða erfið. Sjá [skynrænar athafnir](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Það sem gengur oft verr: allt sem er með klukku, nýjar reglur sem þarf að læra, mörg skref sem þarf að muna eða spurningar sem reyna á minnið, eins og „Manstu hver þetta er?“ Slíkt leggur áherslu á það sem er erfiðast við Alzheimers-sjúkdóm.
 
-## Activities for early-stage Alzheimer's
+## Athafnir á frumstigi Alzheimers-sjúkdóms
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Á frumstigi segir [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) að viðkomandi geti enn ekið bíl, unnið og tekið þátt í félagslegum athöfnum, þó að hann taki eftir minnisglöpum eins og að gleyma kunnuglegum orðum eða hvar hlutir eru. Besta leiðin er samstarf: spurðu hvað viðkomandi vill halda áfram að gera og hvaða hjálp hann vill fá.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Haldið áfram með áhugamál sem fyrir eru.** Golf, bridge, saumur, kór og söfnuðir, með litlum breytingum eins og minni hópum og rólegri tímum.
+2. **Spilið kunnugleg spil og borðspil.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nefnir fróðleiksleiki, orðaleiti, spil og borðspil fyrir frumstig. Spilið sem lið ef stigatal fer að trufla viðkomandi, eða sleppið stigagjöf alveg.
+3. **Eldið saman.** Látið viðkomandi sjá um uppskrift sem hann kann utanbókar á meðan þú sérð um að lesa skrefin.
+4. **Byrjið á lífssöguprojecti.** Myndir, uppskriftir og sögur í dagbók sem viðkomandi stýrir. Sjá [minningaratferðir](/activities/reminiscence/).
+5. **Farið í útilegur.** Á uppáhald veitingastað á rólegum tíma, stutta heimsókn á safn eða göngutúr í garðinum.
+6. **Prófið þrautir sem viðkomandi velur.** Krossgátur og orðaleitir með stóru letri og púsl. Sjá [þrautir fyrir fólk með heilabilun](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Fleiri hugmyndir: [athafnir á frumstigi](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Athafnir á miðstigi Alzheimers-sjúkdóms
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association lýsir miðstigi sem yfirleitt lengsta stiginu og segir að það geti varað í mörg ár. Orð ruglast, pirringur kemur auðveldara upp og viðkomandi þarf meiri aðstoð. Alzheimer's Foundation of America bætir við að margir þurfi hjálp við að byrja eða halda áfram með athafnir. Hlutverk þitt færist í að undirbúa, sýna fremur en útskýra og taka yfir erfiðu hlutana.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Brotna, raða og para saman.** Handklæði, sokka, hnífapör, hnappa eftir lit. Raunveruleg verk unnin saman.
+2. **Syngið og hreyfið ykkur við tónlist.** Klappið, sveiflist eða dansið í eldhúsinu. Byrjaðu sjálf(ur) að syngja og leyfðu viðkomandi að taka undir.
+3. **Skoðið ljósmyndaalbúm.** Lýstu því sem þú sérð og bjóddu upp á sögur: „En fallegur bíll. Segðu mér frá honum.“ Fylgstu með hvaða nöfn sem viðkomandi notar.
+4. **Spilið einfalda myndaleiki.** [Picture pairs](/games/picture-pairs/) með fjórum til sex flísum og myndirnar sýnilegar, eða [Find the same](/games/find-the-same/) með tveimur eða þremur valkostum.
+5. **Ljúkið við kunnugleg orðatiltæki.** „Epli á dag…“ Orðatiltæki sem lærðust fyrir löngu koma oft auðveldlega. Prófið [Finish the saying](/games/finish-the-saying/), þar sem hægt er að sýna hvaða endingu sem er með einu ýti.
+6. **Vökvið og annist plöntur.** Inniplöntur eða upphækkað blómabeð og lítil kanna.
+7. **Búið til paraleik úr fjölskyldumyndum.** [Photo pairs](/games/photo-pairs/) notar myndir sem þú velur í tækinu þínu og þær fara aldrei út úr því.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Fleiri hugmyndir: [athafnir á miðstigi](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Athafnir á lokastigi Alzheimers-sjúkdóms
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Á lokastigi segir Alzheimer's Association að fólk missi hæfileikann til að bregðast við umhverfi sínu og halda uppi samræmi, þó að það geti enn sagt orð eða setningar. Athöfn þýðir nú þægindi og tengsl, þar sem viðkomandi hvílir sig.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Spilið uppáhaldstónlistina** rólega, án þess að sjónvarpið trufli.
+2. **Gefið handanudd** með kremi sem hefur ilm sem viðkomandi líkar.
+3. **Bjóðið upp á mjúka hluti til að halda á:** hlýja teppi, flíspeysu, sléttan stein.
+4. **Lesið upphátt** sálma, ljóð eða kunnuglega sögu. Taktur skiptir meira máli en merkingin.
+5. **Sitjið úti** í skugga eða við glugga þar sem hægt er að horfa á fugla.
+6. **Skoðið eina stóra mynd saman.** Sólblóm eða hund sem fyllir spjaldtölvuskjáinn, á meðan þú lýsir því sem þú sérð.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Fleiri hugmyndir: [athafnir á lokastigi](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Hvaða leikir henta einhverjum með Alzheimers-sjúkdóm?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Veljið leiki þar sem ekki er hægt að gera mistök. Allir leikir á þessari síðu eru ókeypis, keyra í vafra og eru án klukku, stiga eða innskráningar.
 
-| Game | What you do | Often suits |
+| Leikur | Hvað á að gera | Hentar oft |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Para saman stórar myndir; þær geta verið uppsnéttar | Frum- og miðstig |
+| [Find the same](/games/find-the-same/) | Ýttu á myndina sem passar við þá sem er efst | Mið- og lokastig, með aðstoð |
+| [Finish the saying](/games/finish-the-saying/) | Veldu síðasta orðið í kunnuglegu orðatiltæki, eða sýndu það | Frum- og miðstig |
+| [Picture puzzle](/games/picture-puzzle/) | Færðu 4 eða 9 bita á sinn stað, með myndina sýnilega | Frum- og miðstig |
+| [Conversation cards](/games/conversation-cards/) | Mynd og opið viðfangsefni til að tala um | Hvaða stig sem er, með einhverjum til að tala við |
+| [Photo pairs](/games/photo-pairs/) | Paraleikur gerður úr þínum eigin myndum | Frum- og miðstig |
+| [Coloring](/games/coloring/) | Ýttu á lit og síðan á hluta af mynd; eða prentaðu hana | Hvaða stig sem er, með aðstoð |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Til að lesa um hvernig þið getið setið saman, hversu mikla aðstoð á að veita og hvenær á að hætta, sjá [hvernig á að spila leiki með einhverjum sem er með heilabilun](/caregiving/how-to-play-together/). Ef þú ert að velta fyrir þér „minnisleikjum“, sjá [minnisleikir fyrir aldraða með heilabilun](/activities/memory-games/).
 
-## How to make any activity easier
+## Hvernig á að gera hvaða athöfn sem er auðveldari
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Ráðleggingar NIA snúast í grunninn um nokkur atriði: miðaðu athöfnina við það sem viðkomandi ræður við, hjálpaðu til við að byrja, fylgstu með pirringi, sjáðu til þess að viðkomandi upplifi árangur og leyfðu honum að horfa á ef það er það sem hann vill.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Veldu þann tíma dags þegar viðkomandi er hressastur** og haltu lotunum stuttum.
+- **Leggðu allt til áður en byrjað er** svo þið getið byrjað strax.
+- **Bjóddu frekar en að gefa fyrirmæli.** „Gætirðu rétt mér hjálparhönd?“ virkar betur en „Nú er komið að athöfn.“
+- **Taktu fyrsta skrefið sjálf(ur)** og leyfðu viðkomandi að taka þátt.
+- **Bjóððu upp á eitt skref og einn valkost í einu.**
+- **Leyfðu því að vera gert á hans hátt.** Skökk handklæði eru í lagi.
+- **Hættu á meðan það er enn skemmtilegt.** Að hætta snemma er góður árangur, ekki mistök. Ef viðkomandi neitar, sjá [þegar einhver með heilabilun segir nei](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) orðar það einfaldlega: leggðu áherslu á ánægju, ekki árangur.

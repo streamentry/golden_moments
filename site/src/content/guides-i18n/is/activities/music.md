@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Tónlist fyrir fólk með heilabilun"
+seoTitle: "Tónlist og heilabilun: Lagalistar og hugmyndir"
+description: "Hvernig á að deila tónlist með einstaklingi með heilabilun: persónulegur lagalisti, 15 einfaldar hugmyndir og ráð fyrir hvert stig."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Tónlist er ein auðveldasta athöfnin til að deila með einhverjum sem lifir með
+  heilabilun. Settu saman persónulegan lagalista með tónlist frá æskuárum,
+  trúarlífi og fjölskylduviðburðum. Spilaðu tónlistina án auglýsinga og
+  bakgrunnshljóðs og syngið, klappið, sveiflist eða hlustið bara saman. Veldu
+  rólega eða líflega tónlist eftir stundinni, hafðu hljóðstyrkinn hóflegan og
+  hættu ef lag virðist valda vanlíðan.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Persónuleg tónlist virkar best: tónlistin sem viðkomandi elskaði sem ungur fullorðinn, ásamt tónlist tengdri trú, menningu og fjölskylduviðburðum."
+  - "Spilaðu eitt í einu, án auglýsinga og með slökkt á sjónvarpinu."
+  - "Söngur, klapp, sveiflur og einfaldlega að hlusta eru allt leiðir til að taka þátt."
+  - "Notaðu rólega tónlist til að skapa ró og líflega tónlist til að hressa upp á stemninguna, og fylgstu með viðbrögðum viðkomandi."
+  - "Rannsóknir á skipulögðum tónlistarstundum eru takmarkaðar; við leggjum til tónlist sem eitthvað ánægjulegt til að deila, ekki sem meðferð."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Hvers konar tónlist hentar best fyrir einhvern með heilabilun?"
+    a: "Tónlist sem viðkomandi hefur þekkt og elskað lengi, oft frá unglingsárum og tvítugsaldri, ásamt tónlist tengdri trú, menningu og fjölskylduhátíðum. Ef mögulegt er, láttu viðkomandi velja. Fylgstu með svipbrigðum og líkamsmáli til að sjá hvað viðkomandi hefur gaman af, og hættu að spila það sem virðist valda vanlíðan."
+  - q: "Ætti ég að nota heyrnartól?"
+    a: "Sumir hafa gaman af heyrnartólum vegna þess að þau draga úr hávaða, á meðan aðrir finna fyrir óþægindum eða ruglingi. Prófaðu fyrst hátalara svo þið getið hlustað saman. Ef þú notar heyrnartól, hafðu hljóðstyrkinn lágan og vertu nálægt."
+  - q: "Getur tónlist hjálpað við eirðarleysi eða vanlíðan?"
+    a: "Róleg, kunnugleg tónlist getur hjálpað til við að skapa friðsæla stemningu og Alzheimer’s Association leggur til að nota tónlist til að móta þá stemningu sem óskað er eftir. Þetta virkar ekki í hvert skipti. Ef viðkomandi er í uppnámi skaltu líka athuga hvort sársauki, hungur, hávaði eða þreyta geti verið að valda."
+  - q: "Geta fólk á síðustu stigum heilabilunar samt notið tónlistar?"
+    a: "Margir geta það. Alzheimer’s Association bendir á að einstaklingur á síðasta stigi geti samt sláið taktinn eða sungið með lagi frá barnæsku. Setjistu nálægt, spilaðu tónlistina lágt og haltu í höndina á viðkomandi eða sveiflist saman."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Tónlist er eitt það einfaldasta sem þú getur deilt með einstaklingi sem lifir með heilabilun. Hún krefst einskis: engin rétt svör, engin skref til að fylgja. Kunnuglegt lag getur kallað fram bros, taktfastan fót eða nokkur orð sungin með, jafnvel á degi þegar erfitt er að eiga samtal. Allt sem þú þarft er rétta tónlistin fyrir þennan einstakling og rólega stund til að spila hana.
 
-## What music activities work for people with dementia?
+## Hvaða tónlistartengdar athafnir henta fólki með heilabilun?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Að hlusta, syngja, klappa, sveiflast og tala um tónlist virkar allt vel. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) leggur til að spila tónlist, tala um tónlistina og flytjandann, syngja eða dansa við vel þekkt lög og fara á tónleika eða tónlistarviðburði í nærumhverfinu. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) bætir við að hreyfing, eins og klapp eða dans, geti aukið ánægju og að tónlist geti verið leið til að tengjast þegar orð duga ekki lengur.
 
-## How do you build a personal playlist?
+## Hvernig seturðu saman persónulegan lagalista?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Það gagnlegasta sem þú getur gert er að setja saman lagalista með tónlist sem þýðir eitthvað fyrir þennan einstakling. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) leggur einnig áherslu á tónlist með persónulega merkingu. Hér er einföld leið til að setja hann saman.
 
-### Start with their life
+### Byrjaðu á lífi viðkomandi
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Unglingsár og tvítugsaldur.** Hugsaðu um hvað var í útvarpinu, á dönsum og í kvikmyndum þegar viðkomandi var ungur.
+- **Stór augnablik.** Tónlistin í brúðkaupinu, fyrsti dansinn eða uppáhalds lagalistinn í fjölskylduferðum.
+- **Trú og menning.** Sálmar, gospeltónlist, helgisiðir eða lög á móðurmáli viðkomandi.
+- **Vinna og þjónusta.** Lúðrasveitir, vinnulög eða tónlist tengd herþjónustu.
+- **Það sem fjölskyldan man.** Spurðu systkini, börn og gamla vini hvað viðkomandi spilaði eða söng alltaf.
 
-### Think in genres, not just songs
+### Hugsaðu í tónlistarstefnum, ekki bara einstökum lögum
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ef þú ert ekki viss um hvar á að byrja skaltu prófa nokkrar mínútur úr hverjum þessara flokka og fylgjast með viðbrögðum: stórsveitartónlist og sveiflutónlist, doo-wop, Motown og sálartónlist, snemma rokk og ról, kántrí og vestur, bluegrass, gospell og sálmar, Broadway-lög, djassstaðlar, latnesk tónlist eins og bóléró eða maríachí, pólka, þjóðlagatónlist og klassísk tónlist. Haltu því sem kallar fram bros eða takt og slepptu því sem kallar fram fýlu.
 
-### Make it easy to play
+### Gerðu það auðvelt að spila
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Engar auglýsingar.** Alzheimer’s Association varar við því að auglýsingar geti valdið ruglingi. Notaðu sótta tónlist, geisladiska, hljómplötur eða auglýsingalausa þjónustu.
+- **Eitt einfalt tæki.** Hátalari með einum stórum hnappi eða lagalisti vistaður og tilbúinn, svo hver sem er geti sett hann af stað.
+- **Tveir stuttir listar.** Rólegur listi til að róa og líflegur listi til að hressa upp á.
+- **Merktu hann.** Skrifaðu nafn viðkomandi og „uppáhaldstónlist“ á tækið svo að fjölskylda í heimsókn og starfsfólk geti líka notað það.
 
-## 15 music activities to try
+## 15 tónlistartengdar hugmyndir til að prófa
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Hlustið saman.** Setjist hlið við hlið án þess að gera neitt annað. Að hlusta er fullgild athöfn.
+2. **Syngið með.** Byrjaðu sjálf(ur) að syngja. Að raula eða hreyfa varirnar með textanum er nóg.
+3. **Klappið eða sláið taktinn.** Klappið á læri, bankið á borðið eða notið litla trommu eða hristu.
+4. **Dansið rólega.** Haldið höndum og sveiflist í eldhúsinu, eða dansið sitjandi og hreyfið hendurnar saman.
+5. **Klútadans.** Veifið léttum klútum í takt við tónlistina, standandi eða sitjandi.
+6. **Talið um tónlistina.** Bjóðið fram, en prófið ekki: „Þetta hljómar eins og danssalur. Segðu mér frá dönsum.“ Spurðu aldrei „Manstu þetta lag?“
+7. **Spilaðu heila hljómplötu.** Settu á uppáhaldsplötu viðkomandi frá byrjun til enda, með kaffi.
+8. **Skoðið plötuumslög.** Gömul plötuumslög eru góð til að tala um fatnað, bíla og andlit.
+9. **Horfið á söngleik.** Söngleikur eða tónleikar á filmu frá tímum viðkomandi geta verið góð kvöldskemmtun. Gerið hlé þegar þörf er á.
+10. **Spilaðu á hljóðfæri sem viðkomandi þekkir.** Sá sem áður spilaði á píanó eða gítar gæti notið þess að spila einfaldlega. Seinna nægir að finna nokkur nótur saman.
+11. **Tónlist við verk.** Spilaðu uppáhaldslög á meðan þið brjótið saman þvott eða setjið á borð.
+12. **Morgunlag.** Byrjaðu hvern dag á sama glaða laginu sem hluta af daglegri rútínu.
+13. **Syngið sálma eða helgitónlist.** Spilaðu tónlist úr trúarhefð viðkomandi og syngið saman.
+14. **Taktu þátt í sönghópi.** NHS lýsir sönghópum sem góðum fyrir skap og vellíðan. Spurðu í nærsamfélaginu um kóra sem eru vinir fólks með heilabilun.
+15. **Farðu á lifandi tónlist.** Stuttur tónleikar í nærumhverfinu eða úti. Setjist nálægt útgangi og farið þegar þið viljið.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Fyrir léttari orðaleik með kunnuglegum orðatiltækjum, prófaðu [ljúktu við orðatiltækið](/games/finish-the-saying/), þar sem þú getur alltaf sýnt endinguna.
 
-## Matching music to the moment
+## Að laga tónlist að stundinni
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer’s Association leggur til að nota tónlist til að skapa þá stemningu sem óskað er eftir: rólega tónlist fyrir friðsæla stemningu og líflegt lag frá æsku viðkomandi til að lyfta skapinu.
 
-| Moment | Try | Tip |
+| Stund | Prófaðu | Ábending |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Að vakna | Kunnuglegt, glaðlegt lag | Sama lagið á hverjum morgni verður að mildri vísbendingu |
+| Heimilisverk | Lífleg uppáhaldslög | Tónlist getur látið vinnu líða betur |
+| Máltíðir | Hógvær hljóðfæratónlist | Hafðu tónlistina lága svo hún trufli ekki át |
+| Síðdegis | Róleg, kunnugleg tónlist í góðu ljósi | Sjá [eirðarleysi seinnipart dags](/caregiving/late-day-restlessness/) |
+| Háttatími | Hæg, mild tónlist | Lækkaðu hljóðið og birtuna saman |
+| Síðasta stig | Uppáhaldslögin, mjög lágt | Setjstu nálægt og haltu í hönd |
 
-## Tips for a good experience
+## Ráð fyrir góða upplifun
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Slökktu á öðrum hávaða.** Alzheimer’s Association leggur til að loka gluggum og hurðum og slökkva á sjónvarpinu svo tónlistin sé eina hljóðið.
+- **Hafðu hljóðstyrkinn hóflegan.** Tónlistin á að vera þægileg, ekki hávær. Ef viðkomandi notar heyrnartæki skaltu ganga úr skugga um að þau séu í lagi og virki; sjá [heyrn](/brain-health/hearing/).
+- **Fylgstu með sorglegum tengingum.** Sum lög minna á sorg, stríð eða missi. Ef lag veldur vanlíðan skaltu hughreysta viðkomandi og skipta um lag.
+- **Láttu viðkomandi ráða.** Ef mögulegt er, láttu einstaklinginn velja tónlistina og virðu það ef hann vill ekki hlusta.
+- **Hættu hvenær sem er.** Fimm mínútur af tónlist er fín athöfn. Það er líka í lagi að slökkva og sitja í kyrrð.
 
-## What does the research say about music and dementia?
+## Hvað segja rannsóknir um tónlist og heilabilun?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Þekkingin er takmörkuð. [Cochrane-yfirlit frá 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) skoðaði 30 rannsóknir á skipulögðum tónlistarstundum, aðallega með hópum á hjúkrunarheimilum. Niðurstaðan var sú að þessar stundir drógu líklega örlítið úr einkennum þunglyndis samanborið við venjulega umönnun, en engin skýr áhrif fundust á eirðarleysi, líðan eða hugsun og minni, og engin áhrif héldust eftir að stundunum lauk.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Við deilum tónlist vegna þess að hún er ánægjuleg og afslöppuð leið til að eyða tíma saman, ekki sem meðferð. Fyrir hópastillingar, sjá [hópastarf á hjúkrunarheimilum](/activities/care-home-groups/); til að nota tónlist ásamt myndum og sögum, sjá [minningatengdar athafnir](/activities/reminiscence/).

@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Quale selektar aplikaji e ludi pri dementeso"
+seoTitle: "Quale selektar aplikaji e ludi pri dementeso: Kontrol-listo"
+description: "Kontrol-listo por sorganti pri aplikaji e ludi pri dementeso: komencez kun vua skopo, evitez horloji e reklami, kontrolez privateso, e lektez prudente pri pruv-alegaji."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Komencez per to, quon vu volas ke l'aplikajo facez: dolca stimulado,
+  rememorado, kalmeso o konekto. Pose selektez ula qua konvenas a la nuna
+  kapablesi di la persono, kun granda imaji, sen horloji, punti o reklami,
+  e kun facila maniero haltar. Kontrolez quale informi ol kolektas e kad vu
+  povas efacar li. Eskez prudenta pri alegaji ke aplikojo preventas o
+  traktas dementeso; un studiado sola ne esas pruvo.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Decidez l'skopo unesme: stimulado, rememorado, kalmeso o konekto bezonas diferanta aplikaji."
+  - "Adaptez a la nuna kapablesi di la persono, ne a stadio-etiketo, e mantenes la kontroli simpla."
+  - "Evitez aplikaji kun horloji, punti, vivi, serii, reklami o invitaji a kompro."
+  - "Kontrolez la kolekto, parto e efaco di informi. HIPAA ordinare ne protektas konsumanto-aplikaji."
+  - "Eskez skeptika pri alegaji \"preventas dementeso\". Un probo, o plu bona rezulti en l'aplikajo, ne esas pruvo."
+  - "Golden Moments esas ludala ago. Ol facas nula klinikala alegaji."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Ka cerebral ludi povas preventar dementeso?"
+    a: "Existas nula bona pruvo ke komercala cerebral lud-aplikaji preventas o lentigas dementeso. La National Institute on Aging dicas ke ne existas suficanta pruvo ke komerce disponebla cerebral trejno-aplikaji havas la sama efekto kam la strukturizita trejno probita en granda studiado. Selektez aplikaji por plezuro e konekto, ne kom medikamento."
+  - q: "Ka aplikojo pri dementeso esas kovrata da HIPAA?"
+    a: "Ordinare no. HIPAA generale aplikesas a saneso-furnisanti, saneso-plani e lia afero-partneri. Aplikojo quan vu ipsa deskargas ordinare ne esas kovrata, ecepte se ol esas furnisata da unu ek li. La Health Breach Notification Rule dil FTC kovras multa saneso-aplikaji quin HIPAA ne kovras."
+  - q: "Quale bona ludo pri dementeso devas aspektar?"
+    a: "Granda, klara imaji e texto, un evidenta kozo por facar sur singla ekrano, nula horlojo o punto, nula soni por erori, nula reklami, e facila maniero pauzar o haltar. Ol devas aspektar quale facita por adulti e esar facila por ke duesma persono partoprenez."
+  - q: "Ka Golden Moments alegas ke ol helpas la memorado?"
+    a: "No. Golden Moments ofras simpla komuna agadi por plezuro e konverso. Ol ne diagnozas, traktas, preventas o mezuras dementeso, e ni facas nula alegaji pri memorado o pensado."
+  - q: "Ka me devas pagar por aplikojo pri dementeso?"
+    a: "Probez unesme gratuita opcioni o gratuita probi-periodi, e observas quale la persono respondas dum kelka semani. Pagar por aplikojo ne facas ol plu efikiva. Kontrolez quale nuligar ante ke vu abonas."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Aplikajo-butikii esas plena de ludi markizita por oldi, memorado o dementeso. Uli esas penseme facita. Altri adjuntas alegaji qui semblas medikala, horloji qui chanjas ludo en provo, o reklami e informo-kolekto. Ca pagino donas a vu maniero judikar irga aplikojo ipsa. Ni ne rangizas o recensas altra produkturi.
 
-## What should I decide before choosing a dementia app?
+## Quon me devas decidar ante selektar aplikojo pri dementeso?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Decidez quon vu volas ke l'aplikajo facez. "Ludo por mea matro" povas signifikar tre diferanta kozi, e la maxim bona selekto por un skopo ofte esas mala por altra.
 
-| Goal | What it looks like | What to look for |
+| Skopo | Quale ol aspektas | Quon serchar |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Dolca stimulado | Kombinar, ordinar, simpla puzli, vort-ludi | Ajustebla desfacileso, imaji qui restas videbla, nula tempo-preso |
+| Rememorado | Anciena fotografuri, familiara dicaji, muziko de lia yuneso | Vua propra fotografuri, apertita questioni, nula quiz-questioni |
+| Kalmeso | Lenta vidaji, quieta soni, respiro, naturo | Facila por komencar e haltar, nulo brilanta, nula surprizi |
+| Konekto | Ludar o parolar kune, persone o per video | Facita por du personi, questioni por konverso |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+La studii pri strukturizita "kognitiva stimulado" por personi vivanta kun dementeso maxim ofte inkluzas grupo-sesioni guidata da trejnita laboristi, kun diskutado, vort-ludi, puzli, muziko e kreiva agadi. [Revuo di Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) trovis mikra benefiki mez-valore, qui diferis inter studii. Tala sociala, variita programo ne esas sama kam sola aplikojo, do konsideres irga aplikojo kom un komuna ago inter multa.
 
-## How do I know if an app fits the person's abilities?
+## Quale me povas savar se aplikojo konvenas a la kapablesi di la persono?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Observez quale lu respondas, vice judikar segun diagnozo o stadio-etiketo. Du personi en la "sama stadio" povas diferar multe pri vidado, audado, manuo-kontrolo, linguo e komforto kun ekrani. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sugestas konsiderar antea interesi e nuna kapablesi, e fokusar plezuro, ne suces-achivado.
 
-Signs of a good fit:
+Signi ke ol konvenas bone:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- lu komencas o partoprenas sen multa persuasado;
+- lu ridetas, komentas o rakontas historio;
+- erori semblas ne trublar lu;
+- lu esas kontenta haltar kande esas tempo.
 
-Signs it is a poor fit:
+Signi ke ol ne konvenas:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- ripetita "me ne povas" o "to esas stupida";
+- konfuzo pri quo tuchez;
+- frustrado, shamo o repulsar l'aparato;
+- ol nur funcionas se vu facas preske omno.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Distreso esas signalo, ne kozo por persistar. Videz [quo facar kande lu dicas no](/caregiving/when-they-say-no/). Por idei segun stadio plu kam aplikaji, videz agadi por [frua stadio](/activities/early-stage/) e [tarda stadio](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Quali desegno-traiti me devas serchar o evitar?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Serchez kalma, simpla, adulta desegno, e evitez irgo qua adjuntas preso.
 
-| Look for | Be wary of |
+| Serchez | Eskez prudenta pri |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Granda imaji e texto, alta kontrasto | Mikra ikoni, plenigita ekrani |
+| Un klara ago sur singla ekrano | Multa butoni, menui o plura-paza instrukti |
+| Nula horlojo, o horlojo quan vu povas deskapabligar | Retrokonti, rapideso-premii, "batas vua tempo" |
+| Nula punto, o dolca respondo | Punti, vivi, serii, rangizi, "cerebral evo" |
+| Erori traktata quiete | Sonalarmi, reda X-marki, mesaji "Maljusta" |
+| Adulta, real-monda imaji | Kartunala o infantala temi |
+| Funciones sen konekto, nula konto necesa por komencar | Mustas enrejistrar, enirar o deskargar kontenajo unesme |
+| Facila pauzo e halto | Pop-up fenestri qui petas durar ludar o evaluar l'aplikajo |
+| Nula reklami, klara unfoya o abono-preco | Reklami, "loot boxes", frequa invitaji a kompro |
+| Facila por ke duesma persono partoprenez | Nur por un ludanto, konkurala desegno |
 
-Ads and purchase prompts are easy to tap by accident.
+Reklami e invitaji a kompro esas facile tuchebla hazarde.
 
-## How do I check an app's privacy?
+## Quale me kontrolez la privateso di aplikojo?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Kontrolez quale informi l'aplikajo kolektas, kun qui ol partigas li, e kad vu povas efacar li. Ante instalar:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Lektez la rezumo pri privateso en la butiko.** [La sekciono pri datala sekureso en Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) e [la sekciono pri privateso-informo en App Store](https://support.apple.com/en-us/102399) listigas la tipi di informi quin aplikojo povas kolektar e partigar. Amba kompanii notas ke developeri ipsa furnisas ca informi, do ol esas komenco-punto, ne kontrolo.
+2. **Questionez kad ol bezonas konto.** Se aplikojo nur montras imaji o simpla ludi, forsan ne existas motivo por ke ol savas vua nomo, e-posto o nasko-dio.
+3. **Kontrolez permisi.** Ka kombino-ludo vere bezonas loko, kontakti, mikrofono o vua tota fotografuro-biblioteko? Deskapatigez irgo quon ol ne bezonas.
+4. **Serchez reklami e analitiko.** Utensili por reklamo e sequado povas sendar informi pri quale l'aplikajo uzesas a altra kompanii.
+5. **Trovez ube fotografuri iras.** Se vu adjuntas familia fotografuri, ka li restas sur l'aparato o sendesas a servero? Ka vu povas removar li?
+6. **Kontrolez efaco.** Serchez en la privateso-politiko o datala rezumo quale efacar informi e la konto. Aplikojo qua dicas ke informi ne povas esar efacita meritas plu granda prudenteso, precipue se ol havas fotografuri o saneso-detali.
+7. **Lektez la privateso-politiko** por klara respondi pri quo kolektesas, pro quo, dum qua tempo, e kun qui ol partigesas.
 
-### Does HIPAA protect information in dementia apps?
+### Ka HIPAA protektas informi en aplikaji pri dementeso?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Ordinare no, e to surprizas multa personi. La U.S. Department of Health and Human Services [explikas](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ke HIPAA aplikesas a saneso-plani, maxim multa saneso-furnisanti, saneso-informo-klarigei e lia afero-partneri. Maxim ofte ol ne protektas informi quin vu enskribas en aplikojo por personala uzo, ecepte se ento o afero-partnero kovrata da HIPAA furnisis l'aplikajo. "Aplikojo pri dementeso" de aplikojo-butiko ofte esas exter HIPAA, mem se ol parolas pri saneso.
 
-### What protects health data in apps that HIPAA does not cover?
+### Quo protektas saneso-informi en aplikaji quin HIPAA ne kovras?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+La Health Breach Notification Rule dil Federal Trade Commission kovras multa ek li. En 2024 la FTC [finigis chanji](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) qui klarigas ke la regulo aplikesas a saneso-aplikaji e simila teknologii ne kovrata da HIPAA. "Rupto" inkluzas neautorizita divulgadi, ne nur piratado, e kompanii mustas avizar afektita personi e la FTC. To esas sekureso-reto pos ke ulo mala eventis, ne promiso ke aplikojo kolektas nur to quon ol bezonas.
 
-## How should I read claims about research and evidence?
+## Quale me devas lektar alegaji pri studii e pruvo?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Lektez alegaji pri pruvo lente, e esez maxim skeptika pri la maxim granda promisi. Questioni por demandar:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Quo precize studiesis?** Studiado pri un trejno-programo ne montras ke omna ludi en aplikojo funcionas same.
+- **Qui studiesis?** Rezulti che sana oldi povas ne aplikesar a persono vivanta kun dementeso.
+- **Quo mezuresis?** Progresar en la ludo ipsa esas diferanta kam chanji en omnadia vivo, konverso, humoro o nedependo.
+- **Quale forta esas la studiado?** Hazardizita kontrolita probo (RCT) komparas grupo qua uzas l'aplikajo kun grupo qua ne uzas ol. Ol esas bona desegno, ma un mikra o kurta RCT ne esas pruvo. Serchez plura studii, da nedependanta exploristi, qui konkordas.
+- **Ka ol alegas chanjar la morbo?** Studiado qua montras mikra plubonigi en testo ne esas pruvo ke aplikojo lentigas, preventas o traktas dementeso.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+La pagino dil National Institute on Aging pri [kognitiva saneso e oldi](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) deskriptas granda NIH-financita probo pri strukturizita kognitiva trejno, e pose avertas lektanti esar prudenta pri alegaji ke certa komputero- e reto-ludi povas plubonigar memorado e pensado. Ol dicas ke ankore ne existas suficanta pruvo ke komerce disponebla cerebral trejno-aplikaji havas la sama efekto kam la trejno probita en ta probo. Vu povas lektar plu en nia guidilo pri [cerebral ludi e la pruvo](/brain-health/brain-games/) e [quon la studii dicas pri preventar dementeso](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Quala esas publika exemplo pri trompiva alegajo?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+En januaro 2016, la FTC [anuncis aranjo](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) kun la kreinti di Lumosity, "cerebral trejno"-programo. La FTC alegis ke la kompanio alegis, sen suficanta pruvo, ke olua ludi povis retardar evo-relatata kognitiva deklino e protektar kontre mikra kognitiva domajo, dementeso e Alzheimer-morbo. La kompanio aceptis pagar $2 milion e mustas havar kompetenta e fidinda ciencala pruvo ante facar tala alegaji en futuro. La kazo esas utila memorigo ke merkato-linguo ne esas pruvo.
 
-### Which words are red flags?
+### Quali vorti esas averto-signi?
 
-Be cautious when an app or ad says it:
+Eskez prudenta kande aplikojo o reklamo dicas ke ol:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- "preventas", "inversigas", "haltigas" o "kuracas" dementeso o Alzheimer-morbo;
+- esas "klinikale pruvita" sen nomizar la studiado, qui esis en ol, e quo mezuresis;
+- donas "cerebral evo" o memorado-punto qua implikas diagnozo;
+- "akutigas", "plufortigas" o "trejnas" la cerebro;
+- uzas atesti kom pruvo.
 
-If you are unsure about a claim, ask the person's doctor.
+Se vu ne esas certa pri alegajo, questionez la mediko di la persono.
 
-## Where does Golden Moments fit?
+## Ube Golden Moments situesas?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ofras simpla komuna agadi, ne memorado-provo, terapio o medikala konsilo. Nia ludi, quale [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) e [Calm Breathing](/games/calm-breathing/), esas facita por plezuro e konverso. Li ne diagnozas, traktas, preventas o mezuras dementeso, e ni facas nula alegaji pri memorado o pensado.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Ni anke facas gratuita aplikojo, [Golden Moments por iPhone, iPad e Android](/app/). Ol havas dolca imajo-kombino kun granda kaieli, ludi kun familia fotografuri quin vu selektas, e imajo-paki qui funcionas sen konekto, sen konto, reklami, horlojo o punto. La sama kontrol-listo aplikesas: lua privateso-etiketo en App Store dicas "Data Not Collected", e la [privateso-politiko dil aplikojo](/app-privacy/) explikas ube kopiuri di fotografuri konservesas.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Ni preferas ke vu judikez ni kam ke vu fidez ni. Uzez la kontrol-listo sur ca pagino, lektez nia [pagino pri privateso](/privacy/) e [medikala declaro](/medical-disclaimer/), e haltez uzar irgo, inkluzante nia kozi, qua ne konvenas a la persono quan vu sorgas.
 
-## What is a sensible way to try a new app?
+## Quala esas racionoza maniero probar nova aplikojo?
 
-Try it together for a couple of weeks and watch what happens.
+Probez ol kune dum kelka semani e observas quo eventos.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Preparez ol unesme** uzante nia [guidilo pri aranjo di tableto e telefonilo](/caregiving/tablets-and-screens/), e komencez ye la maxim facila nivelo.
+2. **Mantenes la sesioni kurta,** remarkez rideti, konverso e kalmeso, e finez ye bona momento.
+3. **Lasez ol se ol kauzas frustrado,** irge quale bone ol judikesas da altri.

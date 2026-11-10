@@ -1,36 +1,35 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Kande ulu kun dementio demandas la sama demando ripete e ripete"
+seoTitle: "Dementio e ripetanta demandi: quo dicas e faces"
+description: "Pro quo persono vivanta kun dementio demandas la sama demando plura foyi, trankvila manieri por respondar, simpla utensili qua helpas, e kande subita chanjo bezonas medicisto."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Ripetanta demandi esas ofta en dementio: la persono ordinare ne memoras ke il demandis, e
+  la demando ofte portacas supro. Respondar trankvile e breve kom se unesma foyo, respondar
+  a la sento do la demando venas, e nultempe dicas "tu ja demandis ico". Skribar la respondo
+  ube ilu povas vidar ol, mencionar eventaji nur balde ante li, e ofrar agrabla agado. Subita
+  chanjo bezonas medicisto.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "La persono ordinare ne memoras ke il demandis; ico ne esas intenciona."
+  - "La demando ofte celas sento, quale zorgo pri rendevuo o deziro sentir su sekura."
+  - "Respondar trankvile, breve e afable, kom se esus la unesma foyo. Nultempe dicas \"tu ja demandis ico.\""
+  - "Noto, blanka tablo, horlojo o kalendario videbla povas respondar la demando vice vu."
+  - "Mencionar eventaji kun streso nur balde ante ke li eventas."
+  - "Prenar kurta breako kande vu bezonas ol, e vokar mediciston pri irga subita chanjo."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Pro quo mea patro kun dementio siempre demandas la sama demando?"
+    a: "Dementio afektas la kurta-memoro, do ilu povas vere ne memorar ke il demandis o audis la respondo. Ofte la demando anke portas sento, quale zorgo pri quo venos pose o bezono pri trankviligo. Respondar a ica sento ordinare helpas plu kam ripetar fakti."
+  - q: "Ka me devas dicir ad ilu ke il ja demandis ico?"
+    a: "No. Ico ne povas helpar ilu memorar, e ol povas sentar su kom korekteso. Organizi pri dementio rekomendas respondar trankvile chak foyo, kom se esus la unesma foyo, e mantenar la respondo kurta."
+  - q: "Ka skribar la respondo helpas?"
+    a: "Ol povas helpar, dum ke la persono ankore povas lektar. Noto, blanka tablo kun la plano di hodie, granda horlojo o kalendario ube ilu ofte regardas permisas al ilu kontrolar la respondo per su ipsa. Indikar ol afable plu kam dicir \"me ja skribis ico por vu.\""
+  - q: "Kande me devas parlar pri rendevui o exkursi?"
+    a: "Proxime a la tempo. Mencionar rendevuo che medicisto o exkurso dii ante povas igar horo di demandi kun zorgo. Dicar ol balde ante l'evento, trankvile, e explikar quo venos pose."
+  - q: "Kande ripeto esas motivo por vokar mediciston?"
+    a: "Se demandi, konfuzo o konduto chanjas subite o multe pliagresas dum hori o dii, vokar lia medicisto sen tarda. Infekto, nova medikamento, doloro, konstipo o deshidrato povas igar subita konfuzo nomizita deliriumo, qua bezonas rapida kuraco."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +57,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+"Quanta horo esas la rendevuo che medicisto?" Dek minuti pose: "Quanta horo esas la rendevuo che medicisto?" Audar la sama demando ripete e ripete esas un ek la maxim fatiganta partii kande vu prizorgas persono vivanta kun dementio. Ico esas tre ofta, ol ne facesas intencione, e existas trankvila manieri por respondar qua igas la dio plu facila por vu amba.
 
-## Why does someone with dementia ask the same question over and over?
+## Pro quo persono kun dementio demandas la sama demando ripete e ripete?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Precipe pro la memoro. Dementio afektas la kurta-memoro, do la persono ofte ne memoras ke il demandis, o ne memoras la respondo. La [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) explikas ke demandar plura foyi esas ofta e atendita.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Anke la demando ofte portas sento. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explikas ke ripetanta demando povas expresar zorgo, demando pri helpo, o angoro e nesekureso, e ke la persono ofte serchas trankviligo e familiareso. "Kande ni iras?" povas signifikar vere "Me esas nervoza pri irar." Enuo, timo, bruo e chanji en la rutina povas omna igar ol, e ripetanta demando povas anke indikar bezono, quale irar al toileto ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Quo me devas dicir?
 
-Answer calmly and briefly, as if it were the first time.
+Respondar trankvile e breve, kom se esus la unesma foyo.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Mantenar la respondo kurta e sama.** "La rendevuo che medicisto esas a du hori. Me esos kun vu." Respondo konstanta esas plu facila por absorbar.
+- **Respondar a la sento.** "Vu demandas pri la rendevuo che medicisto. Ol esas posdimeze, e me kondukos vu. Vu ne devas facar irgo."
+- **Uzar trankvila voco e afabla tucho,** se la persono prizas tucho. La Alzheimer's Association rekomendas restar trankvila e ne uzar logiko o argumentar.
+- **Donar la respondo qua ilu serchas,** tante foyi kam ilu demandas ol. La Alzheimer's Association dicas ke vu devas ripetar ol tante foyi kam ilu demandas.
 
-## What should I avoid?
+## Quo me devas evitar?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **"Vu ja demandis ico a me."** La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) konsilas ne monstrar ke ilu jus demandis. Ico ne povas helpar ilu memorar, e ol povas sentar su kom se ilu recevus riprocho.
+- **Longa expliki.** Plu multa vorti donas plu multa por obliviar.
+- **Suspiro, ruloj di okuli o akra tono.** La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) konsilas pacienteso e ne montrar frustraceso. Ico esas desfacila; vidar la sekcion pri breaki adinfre.
 
-## Simple tools that answer the question for you
+## Simpla utensili qua respondas la demando vice vu
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Dum ke la persono ankore povas lektar, skribita respondo qua ilu povas vidar ofte helpas plu kam parolata respondo.
 
-| Tool | How to use it |
+| Utensilo | Quale uzar ol |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Noto en granda literi | "Medicinisto hodie a 14h. Maria kondukos vu." Pozar ol ube ilu maxim ofte regardas |
+| Blanka tablo | La plano di hodie en tri o quar linioi; efacar e skribar nova chak matino |
+| Granda horlojo kun dio e dato | Helpas pri "Quo dio esas hodie?" e "Ka esas tempo ja?" |
+| Kalendario | Krucizar chak dio; cirkumar la sequanta rendevuo |
+| Familiar fotografuri | Fotografuro di la persono qua venos povas respondar "Qua venos vizitar?" |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Ica idei venas del [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) e [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Indikar la noto afable ("Ni regardez la tablo kune") plu kam dicir "Me skribis ico por vu."
 
-## Tell them about events close to the time
+## Dicar ad ilu pri eventaji proxime a la tempo
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Mencionar rendevuo o exkurso dii ante povas igar horo di demandi kun zorgo. La Family Caregiver Alliance e Alzheimer's Los Angeles amba konsilas parlar pri plani, specale eventaji kun streso quale rendevui che medicisto o banado, nur balde ante ke li eventas. Pose dicar quo venos pose, un paso pos altra.
 
-## Activities that can shift attention
+## Agadi qua povas desviar la atenco
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Pos ke vu respondis e agnoskis la sento, trankvila e agrabla agado povas helpar, specale se enuo esas la kauzo di la demandi. Omna supra fonti konsilas desviar a irgo qua la persono prizas.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Kurta e facila ludo kune.** [Pari di imaji](/games/picture-pairs/) mantenas la imaji videbla, do nulo devas esar memorigata.
+2. **Familiar labo.** Plegar manteli, klasifikar shui o posar sur tablo. [Klasifikar kune](/games/sort-together/) esas versio en ekran.
+3. **Parolar pri irgo qua ilu amas.** [Karteti por konversado](/games/conversation-cards/) donas aperta demandoi sen korekta respondo.
+4. **Muziko, promenado o snacko.** La National Institute on Aging listas ica inter simpla manieri por desviar.
+5. **Trankvila pauzo.** Sitar kune, regardar ek la fenestro, o probar kune momento di [trankvila respirado](/games/calm-breathing/).
 
-If they return to the question, answer it again, kindly. That is fine.
+Se ilu retrovenas a la demando, respondar ol itere, afable. Ico esas okey.
 
-## Look for patterns
+## Observar regulozi
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+La Alzheimer's Association konsilas rimarkar ka la demandi venas en certa hori di dio, cirkum certa personi o en certa loki. Se li sempre komencas ante ke vizitanti venas, o vespere, vu povas preparar avan: noto pri la vizito, familiar agado pronta, kamero plu trankvila. Nia guidilo pri [trankvila agadi vespere](/caregiving/late-day-restlessness/) povas helpar se la vesperi esas la maxim desfacila.
 
-## Take care of yourself
+## Zorgar pri vu ipsa
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Respondar la sama demando al dudekesma foyo esas extenuanta. Se vu sentas ke vua pacienteso diminutas e la persono esas sekura, irar en altra chambro dum kelka minuti e respirar, kom la [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) sugestas. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) instigas prizorganti demandar helpo e konsiderar respiro-prizorgo. Plu multa idei esas en nia [guidilo pri prizorganta suprizorgo](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Kande me devas vokar mediciston?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Vokar lia medicisto sen tarda se demandi, konfuzo o konduto chanjas subite o multe pliagresas dum hori o dii. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dicas ke subita o rapide chanjanta konduto, specale pos infekto o chanjo di medikamento, devas esar riportata a medicisto sen prokrasto. La [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explikas ke infekto, medikamenti, deshidrato, doloro o konstipo povas igar deliriumo, subita e severa konfuzo qua bezonas rapida kuraco. Vokar la lokala urjenca numero se ulu esas en danjero.

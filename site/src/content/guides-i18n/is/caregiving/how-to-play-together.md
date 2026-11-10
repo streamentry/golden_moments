@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Leikir með manneskju sem lifir með heilabilun"
+seoTitle: "Leikir með manneskju sem lifir með heilabilun"
+description: "Hagnýt leiðbeining um leiki með manneskju sem lifir með heilabilun: undirbúningur, taktur, að leiðrétta ekki, einfalda leiki og hvenær á að hætta."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Líttu á leikinn sem samverustund, ekki próf. Veldu rólegan tíma dags, sitjið
+  hlið við hlið í hljóðlátu rými og bjóðið upp á einn einfaldan leik. Leyfðu
+  viðkomandi að ráða takti, leiðréttu ekki meinlaus mistök, gerðu leikinn
+  einfaldari við fyrstu merki um erfiðleika og notaðu myndir sem upphaf að
+  samræðum. Hættið á meðan það er enn gott. Að hætta snemma, eða einfaldlega
+  horfa saman, er góður árangur.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Markmiðið er ánægja og samvera, ekki að klára eða fá rétt svör."
+  - "Undirbúðu fyrst: rólegt rými, gott ljós, gleraugu og heyrnartæki á, slökkt á sjónvarpi, einn leikur tilbúinn."
+  - "Leiðréttu ekki meinlaus mistök. Segðu „Við skulum prófa svona“ eða haltu bara áfram."
+  - "Gerðu leikinn einfaldari áður en pirringur byggist upp: færri myndir, færri valkostir, myndir sýnilegar."
+  - "Notaðu myndir sem upphaf að sögum með „Segðu mér frá...“ í stað „Manstu...?“"
+  - "Hættið við fyrstu merki um þreytu eða óþægindi. Að hætta snemma er árangur, ekki mistök."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Hve lengi ættum við að spila?"
+    a: "Það er enginn réttur tímalengd. Fyrir marga duga nokkrar mínútur vel, og sumum dögum nægir ein umferð. Fylgstu með viðkomandi frekar en klukkunni og hættu á meðan hann eða hún virðist enn afslappaður."
+  - q: "Ætti ég að láta viðkomandi vinna eða láta sem ég taki ekki eftir mistökum?"
+    a: "Í sameiginlegum, afslöppuðum leik er ekkert að vinna eða tapa. Ef mistök trufla viðkomandi ekki skaltu láta þau liggja á milli hluta. Ef þau virðast trufla, hjálpaðu hljóðlega eða gerðu leikinn einfaldari án þess að benda á þau."
+  - q: "Hvað ef viðkomandi vill frekar horfa á mig spila?"
+    a: "Það er í lagi. Heilbrigðisstofnunin National Institute on Aging bendir á að það sé gott að láta viðkomandi bara horfa ef honum eða henni finnst það skemmtilegra. Talaðu um það sem þú sérð og bjóddu viðkomandi að benda eða velja hvenær sem hann eða hún vill."
+  - q: "Eru þessir leikir leið til að prófa minni?"
+    a: "Nei. Leikirnir okkar eru einfaldar sameiginlegar athafnir til ánægju og samræðna. Þeir eru ekki minnispróf, mæla ekkert og eru ekki meðferð við heilabilun."
+  - q: "Hvaða leik er best að byrja á?"
+    a: "Byrjaðu á einfaldasta leiknum sem hentar viðkomandi. Picture Pairs með fjórum reitum og myndum sýnilegum, eða Find the Same með tveimur valkostum, eru mildir upphafspunktar. Conversation Cards hentar vel ef viðkomandi vill frekar tala en smella."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Góður leikur með manneskju sem lifir með heilabilun lítur ekki út eins og keppni. Hann lítur út eins og tvær manneskjur sem sitja nálægt hvor annarri, benda á myndir, hlæja að málshætti og tala um það sem upp kemur. Leikurinn er bara ástæða til að eyða tíma saman.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Þessi leiðarvísir fjallar um hvernig á að undirbúa, hvernig á að halda réttu takti, hvað á að segja þegar eitthvað fer „úrskeiðis“, hvernig á að gera hvaða leik sem er einfaldari eða aðeins erfiðari, hvernig á að breyta leiknum í samræður og hvernig á að vita hvenær á að hætta. Hann á við um [leiki okkar](/games/) og um spil, púsl og borðspil sem þú átt nú þegar.
 
-## What is the best way to play a game with someone who has dementia?
+## Hver er besta leiðin til að spila leik með manneskju sem lifir með heilabilun?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Leggðu áherslu á ánægju, ekki afrek. Það er meginráðleggingin í [leiðbeiningum Alzheimer’s Association um athafnir](https://www.alz.org/help-support/caregiving/daily-care/activities): byggðu á þeim færni sem viðkomandi hefur enn, hjálpaðu til við að byrja, kláraðu erfiðu hlutana sjálf(ur) og gagnrýndu ekki né leiðréttu meinlausar athafnir.
 
-In practice that means:
+Í framkvæmd þýðir þetta:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Sitjið hlið við hlið, ekki á móti hvor öðrum.** Þegar þið sitjið saman hlið við hlið sjáið þið bæði skjáinn eða borðið og hjálpin lýtur út eins og samvinna frekar en eftirlit.
+- **Bjóðið upp á einn leik í einu.** Valmynd með mörgum valkostum getur fundist eins og próf áður en nokkuð byrjar.
+- **Fylgið forystu viðkomandi.** Ef hann eða hún vill smella á myndirnar í sinni eigin röð, tala um eina mynd í tíu mínútur eða hætta eftir tvær umferðir, þá er það leikurinn í dag.
+- **Teljið góðu augnablikin, ekki kláraðar umferðir.** Bros, saga eða róleg hálftími er sá árangur sem þú ert að leita að.
 
-## How do I set up before we start?
+## Hvernig undirbý ég áður en við byrjum?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Nokkrar mínútur í undirbúning koma í veg fyrir mest af þeim pirringi sem fólk kennir leiknum sjálfum um.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Veldu besta tíma dagsins fyrir viðkomandi.** [Leiðbeiningar National Institute on Aging (NIA) um að aðlaga athafnir](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mæla með að skipuleggja athafnir á þeim tíma dags þegar viðkomandi er í sínu besta formi. Fyrir marga er það um miðjan morgun. Síðdegis og seint um daginn er oft erfiðara; sjá [rólegar athafnir síðdegis](/caregiving/late-day-restlessness/).
+2. **Hafðu rólegt í herberginu.** Slökktu á sjónvarpi og útvarpi og lokaðu hurðinni ef hægt er. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) mælir með að takmarka hávaða og truflanir áður en þú reynir að tala.
+3. **Athugaðu þægindi fyrst.** Drykkur nálægt, salernisferð áður, þægilegur stóll og gleraugu og heyrnartæki á.
+4. **Lýstu rýmið vel.** Björt, jöfn lýsing án glampa á skjánum gerir myndir auðveldari að sjá.
+5. **Gerðu leikinn tilbúinn áður en þið setjist niður.** Opnaðu hann, veldu stillingar og stilltu hljóðið sjálf(ur). Snúðu síðan skjánum að viðkomandi. Fyrir ábendingar um spjaldtölvur, sjá [að setja upp spjaldtölvu eða síma](/caregiving/tablets-and-screens/).
+6. **Settu tækið upp.** Standur eða hulstur sem heldur spjaldtölvunni uppréttri þýðir að enginn þarf að halda á henni og auðveldara er að benda.
 
-## How do I invite them without pressure?
+## Hvernig býð ég viðkomandi að vera með án þrýstings?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Gerðu boðið afslappað og auðvelt að hafna. Nokkrar setningar sem oft virka vel:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- „Ég fann nokkrar garðmyndir. Viltu skoða þær með mér?“
+- „Gætirðu hjálpað mér með þetta púsl? Ég er föst.“
+- „Viltu frekar blómin eða fuglana í dag?“ (val á milli tveggja er auðveldara en opin spurning)
+- „Ég er að búa til kort fyrir systur þína. Hvaða lit ætti þetta að vera?“
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer’s Association leggur til að útskýra tilgang athafnar, eins og að búa til kort fyrir vin, því ástæða gefur henni merkingu. Að biðja um hjálp virkar líka vel því það lætur viðkomandi finna fyrir gagnsemi.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ef viðkomandi segir nei skaltu virða það. Prófaðu aftur síðar eða bjóððu upp á eitthvað annað. Leiðarvísirinn okkar um [hvað á að gera þegar viðkomandi segir nei](/caregiving/when-they-say-no/) fer nánar út í það.
 
-## How long should a game last, and how fast should we go?
+## Hve lengi ætti leikur að vara og hversu hratt ættum við að fara?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Leyfðu viðkomandi að ráða takti og gerðu ráð fyrir stuttum lotum. Það er engin rannsóknarbyggð kjörtímalengd fyrir sameiginlegan leik. Tvær til fimm rólegar mínútur geta verið heil athöfn.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Bíddu lengur en þér finnst eðlilegt.** NIA ráðleggur að gefa viðkomandi meiri tíma til að svara og reyna að trufla ekki. Teldu að tíu í huganum áður en þú hjálpar.
+- **Eitt skref í einu.** Gefðu eina stutta leiðbeining („Smelltu á mynd“), bíddu síðan. Sýndu frekar en að útskýra: bentu á hvar á að smella.
+- **Gerið hlé þegar þarf.** Ef viðkomandi stoppar til að tala um mynd getur leikurinn beðið. Engin ástæða er til að flýta sér.
+- **Leyfðu viðkomandi að horfa.** NIA bendir á að sumir kjósi að horfa og það er gildur kostur.
 
-## Should I correct wrong answers?
+## Ætti ég að leiðrétta röng svör?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Nei. Að leiðrétta einhvern mjúklega aftur og aftur segir viðkomandi að hann eða hún sé að mistakast, jafnvel þótt þú meinir það vel. Alzheimer’s Association ráðleggur að gagnrýna ekki né leiðrétta meinlausar athafnir. Í leik eru næstum öll mistök meinlaus.
 
-| Instead of | Try |
+| Í stað þess að segja | Prófaðu frekar |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| „Nei, þetta er rangt.“ | „Við skulum prófa svona.“ (dæmi sem NIA gefur) |
+| „Þetta passar ekki. Skoðaðu aftur.“ | Segðu ekkert og taktu næstu umferð, eða „Ó, þessi eru bæði rauð.“ |
+| „Manstu hver þetta er?“ | „Segðu mér frá þessari mynd.“ |
+| „Þú gerðir þessa nú þegar.“ | „Þessi er góð. Við skulum gera hana aftur.“ |
+| „Æjæ, þú veist þetta.“ | „Viltu að ég sýni endinn?“ |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Ef mistök pirra viðkomandi augljóslega skaltu hjálpa hljóðlega. Bendu á réttu myndina, taktu umferð sjálf(ur) eða gerðu leikinn einfaldari í næstu umferð. Ef málsháttur fær fyndinn rangan endi skaltu hlæja með. Ending viðkomandi gæti verið betri.
 
-## How do I make a game easier or harder?
+## Hvernig geri ég leik auðveldari eða erfiðari?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Aðlagaðu leikinn að viðkomandi hverjum degi fyrir sig, ekki út frá stigi. Sami einstaklingurinn gæti þurft einfaldari útgáfu að kvöldi en að morgni. Fyrsta ráð NIA er að velja athöfn sem hæfir getu viðkomandi og tryggja að honum eða henni líði vel með árangurinn.
 
-| Game | Make it easier | Make it a little harder |
+| Leikur | Gerðu einfaldara | Gerðu aðeins erfiðara |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Byrjaðu með 4 reiti og hafðu myndir sýnilegar | Fleiri reitir, eða feldu myndir ef það er þægilegt |
+| [Find the Same](/games/find-the-same/) | 2 valkostir | Allt að 4 valkostir |
+| [Sort Together](/games/sort-together/) | Þú heldur á myndinni, viðkomandi bendir á körfuna | Viðkomandi smellir bæði á mynd og körfu sjálf(ur) |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 bitar, talið fyrst um alla myndina | 9 bitar |
+| [Finish the Saying](/games/finish-the-saying/) | Sýndu endinguna og segið hana síðan saman | Leyfðu viðkomandi að segja endinguna áður en smellt er |
+| [Word Search](/games/word-search/) | Prentaðu hann, leitið að einu orði saman, bentu á fyrsta stafinn | Leyfðu viðkomandi að velja næsta orð til að finna |
+| [Coloring](/games/coloring/) | Þú velur tvo liti, viðkomandi velur á milli þeirra | Viðkomandi velur alla litina |
+| [Conversation Cards](/games/conversation-cards/) | Bara horfa á myndina saman | Notaðu opnu spurningarnar á spjaldinu |
+| [Photo Pairs](/games/photo-pairs/) | Nokkrar ástsælar fjölskyldumyndir | Bættu við fleiri myndum |
+| [Picture Bingo](/games/picture-bingo/) | Aðstoðarmaður situr hjá hverjum spilara | Spilarar merkja við á eigin spjöld |
+| [Calm Breathing](/games/calm-breathing/) | Sitjið bara og horfið saman | Andið rólega með |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Merki um að leikurinn sé of erfiður: langar þagnir sem virðast uggandi frekar en hugsi, endurtekið „ég get þetta ekki“, að ýta tækinu frá sér eða mistök sem valda vanlíðan. Merki um að hann gæti verið of auðveldur: leiðindi eða að viðkomandi segi að hann sé barnalegur. Ef það gerist skaltu virða það og skipta yfir í eitthvað sem virðist fullorðinslegra, eins og orðaleit, púsl af raunverulegri ljósmynd eða samræður um mynd af fyrra starfi viðkomandi.
 
-## How do I turn a game into a conversation?
+## Hvernig breyti ég leik í samræður?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Notaðu hverja mynd sem boð um að tala og líttu á allt sem viðkomandi segir sem gott svar. Fyrir margar fjölskyldur er þetta besti hluti leiksins.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Spyrðu opinna spurninga sem ekki er hægt að svara rangt.** „Hvað tekurðu eftir?“ „Hverjum líkar þér best við þessa?“ „Segðu mér frá svona eldhúsi.“
+- **Deildu fyrst.** „Amma mín átti svona hund.“ Sagan þín gerir viðkomandi auðveldara að deila sinni.
+- **Fylgdu frávikunum.** Ef mynd af bíl leiðir að sögu af bílferð er sagan athöfnin. Leyfðu leiknum að bíða.
+- **Ekki leiðrétta staðreyndir.** Í endurminningum skiptir skemmtilegt samtal meira máli en nákvæmar upplýsingar. Ef sagan breytist frá því síðast skaltu njóta nýju útgáfunnar.
+- **Notaðu innbyggðu hvatningarnar.** [Finish the Saying](/games/finish-the-saying/) fylgir hverjum málshætti með spurningu til að ræða, og [Conversation Cards](/games/conversation-cards/) eru hönnuð einmitt fyrir þetta. [Photo Pairs](/games/photo-pairs/) notar ykkar eigin fjölskyldumyndir, sem vekja oft ríkustu sögurnar.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Fleiri hugmyndir eru í leiðbeiningunum okkar um [endurminningar](/activities/reminiscence/) og [ráð um samskipti](/caregiving/communication-tips/).
 
-## When should we stop?
+## Hvenær ættum við að hætta?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Hættið við fyrstu merki um þreytu eða óþægindi, og helst aðeins áður. Alzheimer’s Association ráðleggur að hætta eða breyta athöfn þegar athygli dvínar eða pirringur eykst.
 
-Watch for:
+Fylgstu með:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- geispum, því að síga saman eða því að augun hverfa frá skjánum,
+- eirðarleysi, því að standa upp eða biðja um að fara,
+- andvörpum, stuttum svörum eða „ég er ekkert góð(ur) í þessu“,
+- handahófskenndum smellum eða því að ýta tækinu frá sér,
+- tárum, pirringi eða skyndilegri breytingu á skapi.
 
-How to stop well:
+Hvernig á að hætta vel:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Endaðu á einhverju auðveldu.** Ein síðasta pörun sem tekst, eða ein lokamynd til að dást að.
+- **Leggðu það á þig.** „Mig langar í tebolla. Eigum við að hætta hér?“ forðast að gefa í skyn að viðkomandi hafi staðið sig illa.
+- **Farið yfir í eitthvað líkamlegt eða róandi.** Stutt gönguferð, snarl, að brjóta saman þvott eða tónlist.
+- **Segðu eitthvað hlýlegt.** „Mér fannst gott að gera þetta með þér.“ Engin hrós fyrir að „gera rétt“, bara ánægja af samverunni.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Að hætta snemma, breyta áætlun eða hætta við leikinn og bara sitja saman eru allt góðir árangrar.
 
-## Can we play in a group or over a video call?
+## Getum við spilað í hópi eða í myndsímtali?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Já, með smá auknum undirbúningi. Í hópi skaltu halda hópnum litlum, láta aðstoðarfólk sitja hjá þeim sem þurfa á því að halda og velja leik með skýrum sameiginlegum fókus. [Picture Bingo](/games/picture-bingo/) er með prentanleg spil og bingóstjóra á skjánum fyrir hópa. Sjá [athafnir fyrir hópa á hjúkrunarheimili](/activities/care-home-groups/) fyrir fleiri upplýsingar.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Í myndsímtali getur sá sem er í símtalinu lýst mynd á meðan einhver í herberginu bendir og smellir. Hafðu símtöl stutt og kunnuleg. Leiðarvísirinn okkar um [síma- og myndsímtöl](/activities/phone-and-video-calls/) hefur fleiri ábendingar.
 
-## What if a game just isn't working?
+## Hvað ef leikur virkar bara ekki?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Sumir dagar gengur ekkert upp og það endurspeglar hvorki þig né viðkomandi. Leggðu leikinn til hliðar og prófaðu aftur á öðrum tíma dags, með öðrum leik eða án leiks. Margar góðar athafnir hafa ekkert með skjái að gera: tónlist, að brjóta saman handklæði, að skoða ljósmyndaalbúm eða stutt gönguferð. Skoðaðu [hugmyndir að athöfnum](/activities/ideas/) til að fá fleiri hugmyndir.

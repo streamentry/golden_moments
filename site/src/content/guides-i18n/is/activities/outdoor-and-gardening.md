@@ -1,32 +1,32 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Útivist og garðvinna fyrir fólk með heilabilun"
+seoTitle: "Garðvinna og útivist við heilabilun"
+description: "Hugmyndir að garðvinnu og útivist fyrir fólk með heilabilun, með upphækkuðum beðum, pottum og öryggisráðum um hita, sól og flakk."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Garðvinna og tími úti geta verið róleg og kunnugleg iðja fyrir einstakling
+  sem lifir með heilabilun. Prófið að vökva, setja jurtir í potta, nippla af
+  visnuð blóm eða fara í stutta göngutúr í afgirtum garði. Notið upphækkuð
+  beð eða borð svo enginn þurfi að krjúpa, forðist beitt verkfæri og eitruð
+  plöntur, farið út þegar svalast er á daginn og verið alltaf með viðkomandi.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Einföld garðverk, eins og að vökva, sá í potta, þefa af jurtum og tína blóm, er hægt að gera standandi eða sitjandi."
+  - "Upphækkuð beð, pottar og borð með þaki færa garðinn í mittishæð og draga úr hættu á byltum."
+  - "Forðist beitt verkfæri, þyrna eða ertandi plöntur og allt sem er eitrað. Fylgist með því að mold sé ekki misskilin sem matur."
+  - "Hiti getur verið hættulegur eldri fullorðnum. Farið út snemma eða seint, hafið vatn og skugga við höndina og farið inn strax við fyrstu merki um óþægindi."
+  - "Margir sem lifa með heilabilun flakka að einhverju leyti. Verið alltaf með viðkomandi úti og hafið nýlega mynd og skilríki við höndina."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Hvers konar garðvinnu getur einstaklingur með heilabilun sinnt?"
+    a: "Að vökva plöntur, sá fræjum í litla potta, þefa af og snerta jurtir, nippla af visnuð blóm, tína grænmeti, raða skornum blómum og sópa stíg eru allt góðir valkostir. Inni er hægt að nota jurtapott í gluggakistunni eða bakka með mold á borði með þaki. Veljið verkefnið út frá því hvað viðkomandi hafði áður gaman af og ræður nú við."
+  - q: "Hvernig get ég tryggt öryggi einhvers með heilabilun í hita?"
+    a: "Skipuleggið útiveru á svalari tíma dags, snemma að morgni eða seint að kvöldi, haldið henni stuttri og bjóðið reglulega upp á vatn. Veljið skugga, hatt með breiðum barmi, létt og laus föt og sólarvörn. Eldri fullorðnir eru í meiri hættu á hitasjúkdómum, og rugl, svimi eða ógleði geta verið viðvörunarmerki, svo farið inn og kælið viðkomandi strax ef þið takið eftir þessu."
+  - q: "Hvernig getum við farið út ef viðkomandi hefur tilhneigingu til að flakka?"
+    a: "Verið með viðkomandi allan tímann, notið afgirtan garð með læstri hlið og gætið þess að viðkomandi sé með auðkennisarmband eða hafi skilríki á sér. Hafið nýlega mynd við höndina. Ef viðkomandi hverfur ráðleggur Alzheimer-samtökin (Alzheimer's Association) að hringja í 112 ef hann finnst ekki innan 15 mínútna."
+  - q: "Hvað ef við eigum engan garð?"
+    a: "Nokkrir pottar á verönd, gluggakassi eða bakki með jurtum á eldhúsborðinu duga vel. Þið getið líka heimsótt almenningsgarð, grasagarð eða samfélagsgarð. Að sitja úti og hlusta á fuglasöng telst líka útivist."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +51,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Fyrir marga er garðurinn einn kunnuglegasti staðurinn sem þeir þekkja. Að moka, vökva og tína blóm nýtir færni sem lærðist fyrir löngu, og útiveran býður upp á ferskt loft, sólarljós og fuglasöng. National Institute on Aging telur umhirðu plantna, gróðursetningu blóma og grænmetis og [að tala um hvernig plönturnar vaxa](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) meðal athafna sem fólk með Alzheimer-sjúkdóm kann að hafa gaman af. Á þessari síðu er fjallað um hvað hægt er að prófa, hvernig hægt er að auðvelda notkun garðsins og hvernig hægt er að tryggja öryggi í hita, sól og þegar viðkomandi flakkar.
 
-## What outdoor and gardening activities work well?
+## Hvaða útivist og garðvinna hentar vel?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Bestu verkefnin eru einföld, kunnugleg og hægt að vinna þau standandi eða sitjandi. Veljið út frá því hvað viðkomandi hafði áður gaman af.
 
-### In the garden
+### Í garðinum
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Vökva.** Lítil, létt kanna eða mjúkur stútur á slöngu og nokkrir pottar í færi. Vökvun hefur skýran upphafs- og endapunkt og er erfitt að gera rangt.
+2. **Sá fræjum í potta.** Alzheimer's Foundation of America stingur upp á að sá fræjum í litla potta og [fylgjast með þeim vaxa](https://alzfdn.org/dementia-activity-gardening/). Stór fræ eins og baunir, sólblóm eða grænar baunir eru auðveldari í meðförum.
+3. **Nippla af visnuð blóm.** Að kippa visnuðum blómum af með höndunum er milt og endurtekið verkefni. Veljið plöntur án þyrna.
+4. **Tína grænmeti eða jurtir.** Kirsuberjatómatar, baunir og jurtir eru auðveldar að tína og gott að bragða á. Takið þær inn til að nota í hádegismat.
+5. **Þefa af og snerta jurtir.** Rósmarín, mynta og lavender hafa sterkan, notalegan ilm. Nuddið laufblaði á milli fingranna og réttið það að viðkomandi.
+6. **Sópa stíg eða verönd.** Léttur sópi á sléttu, þurru yfirborði, ef jafnvægið er gott.
+7. **Fylla á fuglafóður.** Setjist svo saman niður og fylgist með hverjir koma í heimsókn.
 
-### Indoors, when going out is not possible
+### Inni, þegar ekki er hægt að fara út
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Jurtagarður í gluggakistunni** með basil, steinselju eða graslauk.
+- **Pottun á borði með þaki.** AFA stingur upp á að nota bakka í mötuneytisstíl til að halda moldinni á einum stað og færa mold með litlum bollum.
+- **Blómaskreytingar** með skornum blómum og gróðri úr garðinum eða matvöruversluninni.
+- **Þurrkuð blóm** úr blómvendi, sem síðar er hægt að líma á kort. Sjá [listir og handverk](/activities/arts-and-crafts/) til að fá fleiri hugmyndir.
+- **Ilmpokar með lavender eða rósum**, önnur hugmynd frá AFA sem færir ilm garðsins inn.
 
-### Getting out and about
+### Að fara út fyrir stykkið
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Stuttur göngutúr** um hverfið, í garð eða garðyrkjustöð, í hægum takti og með stað til að setjast.
+- **Að sitja úti** á verönd eða bekk, hlusta á fugla og finna fyrir golunni. Þetta er fullgild iðja út af fyrir sig.
+- **Heimsókn í almenningsgarð** á rólegum tíma dags. NHS bendir á að sumir staðir bjóði upp á skynjunargarða með ilmplöntum, áferð og vatni.
+- **Að gefa öndum eða fylgjast með fuglum** við staðbundna tjörn, og halda öruggri fjarlægð frá vatnsbrúninni.
 
-## How do I make a garden easier to use?
+## Hvernig get ég auðveldað notkun garðsins?
 
-Bring the garden up to the person, not the other way around.
+Færið garðinn að viðkomandi, ekki öfugt.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Upphækkuð beð eða háir pottar** í um það bil mittishæð þýða að ekki þarf að krjúpa eða beygja sig.
+- **Pottar á borði** henta vel fyrir fólk sem notar hjólastól eða kýs að sitja.
+- **Breiðir, sléttir stígar** án lausra steina eða slöngna sem liggja þvert yfir draga úr hættu á hrösun.
+- **Sæti með handriðum og skugga** meðfram leiðinni, svo alltaf sé hægt að hvíla sig.
+- **Verkfæri með þykkum, mjúkum handföngum** sem auðvelt er að halda um. Sleppið klippurum, hnífum og öllu beittu.
+- **Afgirt svæði með læstri hlið** sem viðkomandi getur kannað að vild á meðan þú ert nálægt.
 
-## Which plants should I avoid?
+## Hvaða plöntur ætti ég að forðast?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Veljið plöntur sem eru öruggar að snerta og helst öruggar ef bragðað er á þeim. AFA ráðleggur að nota plöntur sem ertir venjulega ekki húð, athuga með ofnæmi og fylgjast vel með öllum sem gætu misskilið mold sem mat. Öryggisráð NIA fyrir heimilið fela í sér að fjarlægja eða læsa inni eitruðum plöntum.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Forðist rósir með þyrnum, kaktusa og plöntur með safa sem ertir húð.
+- Athugið allar plöntur sem þið eruð ekki viss um hjá eitrunarmiðstöð eða garðyrkjustöð áður en þið gróðursetjið þær.
+- Kunnuglar uppáhaldsplöntur geta vakið ánægjulegar tilfinningar. AFA nefnir rósir og jólaþyrnikaktus sem dæmi. Veljið afbrigði án þyrna.
+- Hafið áburð, skordýraeitur og illgresiseyði læst inni og notið þau ekki á svæðum þar sem viðkomandi nær til.
 
-## How do I stay safe in the heat and sun?
+## Hvernig tryggjum við öryggi í hita og sól?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Skipuleggið útiveru í samræmi við veðrið. NIA útskýrir að eldri fullorðnir eru í meiri hættu á [hitasjúkdómum](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), meðal annars vegna þess að líkaminn aðlagast hitabreytingum síður og sum lyf hafa áhrif á hvernig líkaminn tekst á við hita.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Farið út snemma eða seint.** Forðist miðjan daginn á hlýrri mánuðum. Athugið hitavísitöluna, ekki bara hitastigið.
+- **Bjóðið reglulega upp á vatn.** Bíðið ekki eftir að viðkomandi segi að sér sé þyrst. Forðist áfengi og koffíndrikki í hita.
+- **Klæðist í samræmi við veðrið.** Ljós, laus föt, hattur með breiðum barmi og sólgleraugu.
+- **Notið sólarvörn.** NIA mælir með breiðvirkri sólarvörn með SPF 15 eða hærra, sem borið er aftur á yfir daginn.
+- **Veljið skugga.** Setjið pottaborðið undir tré eða sólhlíf.
+- **Haldið því stuttu.** Stutt stund úti getur verið nóg, sérstaklega á hlýjum dögum.
+- **Fylgist með viðvörunarmerkjum.** NIA nefnir höfuðverk, rugl, svima eða ógleði sem möguleg einkenni hitasjúkdóma. Einstaklingur með heilabilun segir kannski ekki frá því að honum líði illa, svo fylgist með andliti og hegðun. Farið inn, kælið viðkomandi með vatni og köldum klút og leitið læknisaðstoðar ef líðan batnar ekki fljótt. Hitakast, með einkennum eins og yfirlið, rugli eða þurrri, roðnandi húð, er læknisfræðilegt neyðartilvik: hringið í 112.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Kalt veður skiptir líka máli. Á veturna skal halda útiveru stuttri og gæta þess að hendur og fætur haldist hlýjar og þurrar.
 
-## How do I handle wandering when we go outside?
+## Hvernig höndum við flakk þegar við förum út?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Verið með viðkomandi alltaf þegar hann er úti. Alzheimer-samtökin (Alzheimer's Association) segja að [sex af hverjum tíu sem lifa með heilabilun](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) muni flakka að minnsta kosti einu sinni, og margir gera það oftar. Það getur gerst á hvaða stigi sem er.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+[Ráð NIA um flakk og að villast](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) fela í sér:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Gætið þess að viðkomandi sé með auðkennis- eða læknisfræðilegt armband með nafni, heimilisfangi og símanúmeri þínu, eða merkið fötin.
+- Hafið nýlega mynd eða myndband af viðkomandi.
+- Látið nágranna vita að viðkomandi gæti flakkað.
+- Tryggið garðinn með girðingu og læstri hlið.
+- Skiljið ekki einhvern sem hefur áður flakkað eftir án eftirlits.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer-samtökin (Alzheimer's Association) stinga einnig upp á að búa til innanhúss- og utanhússsvæði sem hægt er að kanna á öruggan hátt, og skipuleggja athafnir á þeim tíma dags þegar eirðarleysi er líklegast. Göngutúr í öruggum, afgirtum garði getur hentað vel þegar eirðarleysi eykst seinnipartinn. Sjá leiðbeiningar okkar um [eirðarleysi seinnipartinn](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Ef viðkomandi hverfur ráðleggja Alzheimer-samtökin (Alzheimer's Association) að leita strax á nærliggjandi svæði og hringja í 112 ef hann finnst ekki innan 15 mínútna. Segið lögreglunni að viðkomandi sé með heilabilun.
 
-## How do I adapt gardening as things change?
+## Hvernig aðlaga ég garðvinnu eftir því sem ástandið breytist?
 
-| If this has become hard | Try this instead |
+| Ef þetta er orðið erfitt | Prófið þetta í staðinn |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Að planta í heilt beð | Að sá einu fræi í einn pott |
+| Illgresi (að greina illgresi frá plöntum) | Vökvun, eða að nippla af augljóslega visnuðum blómum |
+| Að ganga um garðinn | Að sitja við borð með bakka af mold og plöntu |
+| Að fara út yfir höfuð | Pottur með jurtum á eldhúsborðinu, eða sæti við opinn glugga |
+| Að gera hvaða verkefni sem er | Að sitja úti saman, hlusta og horfa |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Sumir kjósa að horfa á þig vinna. NIA bendir á að það sé í lagi að láta viðkomandi bara horfa ef það er það sem hann hefur gaman af.
 
-## When should we head inside?
+## Hvenær ættum við að fara inn?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Farið inn þegar viðkomandi virðist þreyttur, heitur, kaldur, órólegur eða tilbúinn að hætta. Stuttar, ánægjulegar tíu mínútur eru betri en langur síðbúinn dagur sem endar í vanlíðan. Að hætta snemma er góður árangur.
 
-## Bring the garden indoors on screen
+## Færið garðinn inn á skjá
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Á rigningardögum er garðkörfa í [Sort Together](/games/sort-together/) til að flokka myndir, og [Conversation Cards](/games/conversation-cards/) innihalda opnar spurningar sem geta leitt að sögum úr garðinum. Ef þið komið inn úr hitanum og finnið fyrir flýti, býður [Calm Breathing](/games/calm-breathing/) upp á rólega, hljóðláta pásu sem þið getið deilt. Fyrir fleiri hugmyndir sem byggja á snertingu, lykt og hljóði, sjá leiðbeiningar okkar um [skynörvandi athafnir](/activities/sensory/).
