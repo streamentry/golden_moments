@@ -81,6 +81,10 @@ The website now lets a person look at one selected photo without matching; two o
 
 The Today tool now reveals one suggestion first and keeps alternatives behind a native disclosure. It adds no timer, score, storage or telemetry. The 1,857 site tests, TypeScript, full build and site checker pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); this website-only change does not establish new browser, caregiver or person-with-dementia usability evidence.
 
+## Round 47 score update (2026-11-11)
+
+Photo Pairs now shows one 14-word setup reminder before photo selection. Existing site styles handle the text, and the English key falls back on untranslated pages. The full site suite, TypeScript, build and checker pass; Python and metadata checks pass. This adds one untranslated string until reviewed translations are available. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no new aggregate score or live usability evidence is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
