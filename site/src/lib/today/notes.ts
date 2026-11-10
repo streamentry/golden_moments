@@ -37,6 +37,7 @@ export const OUTCOMES: readonly Outcome[] = ['helped', 'not_really', 'not_tried'
 
 type ReadStorage = Pick<Storage, 'getItem'>;
 type WriteStorage = Pick<Storage, 'setItem'>;
+type RemoveStorage = Pick<Storage, 'removeItem'>;
 
 const DATE = /^\d{4}-\d{2}-\d{2}$/;
 
@@ -128,6 +129,17 @@ export function saveNotes(storage: WriteStorage | undefined, notes: readonly Not
   if (!storage) return false;
   try {
     storage.setItem(STORAGE_KEY, JSON.stringify(notes));
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+/** Removes only the Today notes key; returns false if browser storage refused. */
+export function clearNotes(storage: RemoveStorage | undefined): boolean {
+  if (!storage) return false;
+  try {
+    storage.removeItem(STORAGE_KEY);
     return true;
   } catch {
     return false;
