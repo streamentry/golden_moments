@@ -109,6 +109,10 @@ The new caregiving guide turns opened home-safety sources into a room-by-room re
 
 Japanese Photo Pairs now describes the one-photo viewing choice and its controls in Japanese instead of falling back to English. The translation is machine-made and has no native-speaker review. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 54 score update (2026-11-11)
+
+The new English travel guide offers a flexible preparation checklist while leaving individual suitability and provider rules to the person, care team and current transport providers. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
