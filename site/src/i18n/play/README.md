@@ -77,8 +77,13 @@ already have all 83 drawing names; it is not used by the browser games.
   needs all six; Japanese, Korean, Chinese, Thai, Vietnamese and Indonesian
   need only `other`). The test checks this with `Intl.PluralRules`.
 - `photoPairs.intro`: text between `**` is shown in bold. Keep one bold run.
+- `photoPairs.atLeastOne` asks for a valid photo if none could be loaded;
+  `atLeastTwo` explains that matching needs a second photo after one is chosen.
 - `photoPairs.photoComfort` is a short reminder to follow the person's response
-  to selected photos. It is an English fallback until translated.
+  to selected photos. `lookOnly`, `lookGuidance`, `photoPosition`,
+  `previousPhoto` and `nextPhoto` label the optional one-at-a-time photo view.
+  A single selected photo starts in that view; matching needs at least two.
+  These new labels are English fallbacks until translated.
 - `photoPairs.captionSummary`, `captionHelp` and `captionLabel` label optional,
   page-only photo captions. They remain English fallbacks on translated pages
   until reviewed translations are added; caption text is not stored or uploaded.
