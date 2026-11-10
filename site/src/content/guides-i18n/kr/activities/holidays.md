@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Sálá loktu bǝye am dementia-a karga ro"
+seoTitle: "Sálá loktu bǝye-a Thanksgiving-a"
+description: "Sálá loktu bǝye am dementia-a karga ro: cidawa dəgərambe, jili faidatə, yakkata, foto-a kallo video-a, kuru sálá naptǝram."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Sálága gana, sǝr kawu-a cidǝna-a kuru adǝyǝ kam dǝye kǝla loktuye cidin
+  dǝga kalkalro gǝnatin. Cida amanna kuru nzunduwo kam dǝro cin, misallo
+  tebur faidatǝ, karuwu tultǝ, karəngǝ saktǝ au jili faidatǝ. Yakkata
+  notǝna-a foto kərmaibe-a kǝltǝn faidatǝn, kusottowu dǝa kawu isǝnin dǝro
+  gultǝgǝ, kuru na naptǝrambe fal daatǝ. Abiso raktǝ cida dǝga cidǝ; sálá
+  gana kuru naptǝramma, shima ngǝla.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Sálága sǝr kawu-a cidǝna, misallo kǝmbu au kǝmbu cidiya, ashir hangal kǝla kajiri sǝriyebe ngəwu cidiya."
+  - "Cidawa amanna cin: tebur faidatǝ, karuwu tultǝ, karəngǝ saktǝ, jili faidatǝ au kǝmbu sǝkkǝram faidatǝ."
+  - "Yakkata notǝna, yakkata sáláye-a albəm foto kərmaibe-a, sálá dǝga kǝltǝn faidatǝro dalil ngǝla."
+  - "Kusottowu dǝa kawu isǝnin dǝro gultǝgǝ, kuru foto am isidǝbe dǝa kam dǝro fəletǝgǝ."
+  - "Na naptǝrambe fal daatǝ, bǝlinci au kaftan kam dǝye manazǝna-a, kuru kusottowu gana gana isatǝ."
+  - "Abiso hangal cəmba dǝga koltǝ, misallo jili kǝmburo lejin-a kuru kǝnnu kǝriwutǝ ngəwu-a."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Awi kam dementia-a karga dǝye Thanksgiving lan cidin?"
+    a: "Cida gana, amanna kuru ku kama dǝye raktǝ cidin dǝga cin: karuwu tultǝ, cranberry sauce gǝrtǝ, tebur faidatǝ, tawul naptǝ au kǝmbu sǝkkǝram plato lan gǝnatǝ. Ngawon, foto yalla kərmaibe-a kǝltǝn rui au yakkata notǝna-a rokko yiktǝ. Sálá dǝn dagǝ dǝ, cidama futu walyeno dǝn kojǝna."
+  - q: "Yalla kura sammatǝ mbejiyende wa?"
+    a: "Sai rakkiye dǝga cidinma. Jama ngəwu-a kowo-a hangal cəmbandǝro waljin, adǝ nankaro yalla kada samno dǝga yalla gana, kǝmbu walte cidiya, au kusottowu gana gana isǝro kaltǝyin. Alzheimer's Association, am kǝla kam dǝye kulashi cizayin dǝa, abiso raktǝ kuru amanna cidin dǝga cidǝro shawari cəzayin."
+  - q: "Futu yalla sa kədəna isǝnyi dǝa dazəkke?"
+    a: "Kawu isǝnin dǝro, faltǝwa suron lero dǝa gultǝgǝ, kuru faltǝwa anyi kwasa dǝn isǝna, kam dǝn gani. Tǝsǝwutǝnyi au kǝla kǝndoram kǝndoro wultǝnyi, fal fal manazai kuru jaawu rotǝro loktu cinro gultǝgǝ. Kawu dǝro isǝnin, foto kusottowube dǝa kam dǝro fəletǝye banazǝyin."
+  - q: "Karəngǝ futu am dementia-a karga ro kalkal?"
+    a: "Awo gana, amanna kuru karma dǝye raktǝ faidatǝ dǝ: kǝmbu manazǝna, bǝlinci au kaftan ləm-ləm, yakkata notǝna, au albəm foto yallabe. Naura lura kakkadǝbe, karewa-a bǝri bǝri bǝlin kakkadǝbe-a koltǝ. Shi dǝye karəngǝ cin lan dagǝ, misallo karəngǝ saktǝ au biskit shiye bana tǝdǝna dǝa kartongǝro gǝnatǝ, shi dǝma karəngǝro waljin."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Sáláwa dǝye tǝkǝrma ngəla ngəwu dǝa isǝro walzayin, kuru kowo, jama ngəwu-a faltǝ kǝla loktu yaye adǝbe-a isǝro walzayin. Kam dementia-a karga ro, sálá ngǝla dǝ, ngəwurotǝ gana, dǝladǝlan, kuru awo shiye karma raktǝ faidatǝbe dǝn dagatǝ. Shawari anyi Thanksgiving, Christmas, Hanukkah, Sǝgǝri Bǝlin-a sálá yalla yaye-a ro faidajin.
 
-## How do I plan a calmer holiday?
+## Futu sálá naptǝramma dazəkke?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Adǝyǝ kam dǝye kǝla loktuye cidin dǝn badinǝm kuru kawu dǝga kǝla adǝn daatǝ. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) dǝye, sálá dǝga sǝr kawu-a cida dǝro shawari cəzayin, dalil dǝ hangal-a naptǝnba-a ngəwurotǝ kajiri sǝriye-a bune-a lan səwandin (sa lanso «sundowning» lan bowojin). Kǝmbu sáláye kausu au sǝr kawu-a, kǝmbu bune-a ye dǝn ngǝlaro waljin.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Sálá dǝga kǝla kǝmta adǝbe nǝm.** Yalla gana, sálá walte, au kusottowu gana gana isǝ, ngəwurotǝ tebur falro jama samnon dǝn ngəla.
+- **Cidawa gǝratǝ.** Yalla am dǝa kǝmbu kutǝ isaro, kasuwuro lero au nya kǝmbu ditǝ sa kam dǝ-a rokko napsaro gultǝgǝ. Awi bana cizayin dǝga bayinno gultǝgǝ.
+- **Jili faidatǝbe gana koltǝ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) dǝye bayinjin, kǝnnu kǝriwutǝ hangalga cambin, kuru karam karam au tadaa jiliro faidatǝna dǝa kǝmburo tamoyin.
+- **Awi koltəbe dǝga naptǝ.** Ada kərmaye fal hangal au tajirwa kuttǝ gǝna dǝyia, koltǝ au faltǝ gana naptǝramma cida dǝga ngəla.**
 
-## What holiday activities can we do together?
+## Sálá loktube cidawa awiye rokko cidin?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Cida-a bǝri-a kam dǝye ku raktǝ cidin dǝga kartǝ. Sálá dǝn dagǝ dǝ, cidama futu walyeno dǝn kojǝna.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Rokko tebur faidatǝ.** Burwon plato dǝa gǝnatǝ, ngawon tawul, kərma dǝ cuwa. Tawul naptǝ cida napkada lan cidinma ngǝla.
+2. **Karuwu tultǝ kuru jili faltǝ.** Dankali tultǝ au kǝləsho kǝskabe kǝrtǝ tebur dəgərambe lan, am burwon dəgəram cida cizǝna so ro amanna kuru notǝna.
+3. **Gǝrtǝ, kaltǝ au plato lan gǝnatǝ.** Cranberry sauce gǝrtǝ, awo gana kaltǝ au biskit plato lan gǝnatǝ, mukko dǝa cidalan naptǝyin, kannu-a yio-a dǝn cidiya.
+4. **Karəngǝ saktǝ.** Waraqǝ-a tef-a katǝ, kam dǝro saktǝ-a ləmmo-a koltǝ. Saktǝ shawa dǝ awo kura gani.
+5. **Jili gana faidatǝ.** Jili namdənyi dǝa kartǝ kuru na gana, misallo wuro au kǝska gana.
+6. **Awo mukkobe gana tǝdǝ.** Silsila waraqǝbe, kǝləsho kollajibe au katǝ sálábe tambu-a faidajin. Shawari gade [mukko-a awo tǝdǝ-a kǝla bayannabe](/activities/arts-and-crafts/) lan tǝwandǝ.
+7. **Yikko kuru fanǝ.** Yakkata sálábe notǝna dǝa rokko yiktǝ ro ngǝla, kam mana gana cidinma yaye. Lista yakkata tǝdǝro [bayanna yakkatabe](/activities/music/) rui.
+8. **Foto sáláye kərmaibe rui.** Albəm sálá ngawo cidǝnabe dǝa kutǝ, kuru labar kǝndoro gultǝ ("Kǝla tebur adǝbe wulsǝgǝne") amma wunduma wunduro koro wultǝnyi. [Bayanna tǝkǝrmabe](/activities/reminiscence/) dǝye futu cida adǝye bayinjin.
+9. **Bǝri yallabe ləm-ləm bǝrzǝ.** [Picture bingo](/games/picture-bingo/) dǝga minut gana lan rəptǝyin kuru saa sammaro faidajin, kuru [conversation cards](/games/conversation-cards/) dǝye am sammaro awo mana cidǝbe cin.
+10. **Rokko rəngǝ gǝnatǝ.** [Warak rəngǝ gǝnatǝye](/games/coloring/) gana dǝa rəptǝyin, tada-a kǝrma-a rokko tebur lan cida ro.
+11. **Filim sáláye manazǝna rui.** Filim notǝna naptǝramma, kuru dawun dǝga gana run dǝyia ngəla.
+12. **Kǝnnu ruyero tǝri gana cidǝ.** Fato jili faidatǝnabe dǝn kowo ba lan kotǝ dǝ, ngəwurotǝ na jama samnon dǝn ngǝlaro waljin.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Dəgəram kam dǝye ro awo kura wo dǝyia, [bayanna cidawa fato yaye](/activities/household-tasks/) lan, futu cidawa dəgərambe amanna kuru kǝnji faidatǝbe bayinjin.
 
-## How do I prepare guests?
+## Futu kusottowu dazəkke?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Kawu isǝnin dǝro kusottowu dǝa gultǝgǝ, tǝmaana yalla sa kədəna isǝnyi dǝa. Alzheimer's Association dǝye, faltǝwa kǝla hangalbe-a halbe-a kwasa dǝn isǝna, kam dǝn ganiro bayintǝro shawari cəzayin.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Shawari gana gana gǝratǝ:** fal fal manazai, tǝkǝrma cidatǝro loktu cin, tǝsǝwutǝnyi au koro wultǝnyi, kuru mana dǝ ashirro dǝyia hal nzunduwo dǝro jaawu cin.
+- **Awi bana cizayin kuru awi hangal cəmba dǝa gultǝ.** Kowo kura, dǝganatǝ au mana laa hangal cəmba dǝyia, wulgǝ.
+- **Kawu isǝnin kusottowu dǝa notǝgǝ.** Foto am isidǝbe dǝa kam dǝro fəletǝ kuru labar gana gana gultǝgǝ, au kallo video gana tǝri kawu sáláye dǝro cidǝ.**
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Bayanna ndəye [kǝla mana nzaatǝye](/caregiving/communication-tips/) lan bayin kada mbeji.
 
-## What if it gets to be too much?
+## Awo dǝ ngəwuro waljia fa?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Kawu kusottowu isǝnin dǝro, na naptǝrambe fal, kowo dǝn cidiya, awo kǝnji faidatǝbe-a, misallo bǝlinci au kaftan manazǝna, au cida gana-a rokko daatǝ. Waktu-a ngəwuwa-a cin: "Na naptǝramma lan gana napkain wa?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Tebur dǝ koltǝ, kawu naptǝro letǝ au sálá dawun koltǝ dǝ, awo ngəla, tǝsǝwutǝ gani. Kam dǝ hangaljin dǝyia, kowo naptǝramma, yakka notǝna au na gadero letǝ, ngəwurotǝ dalil bayintǝ dǝn bana cəzayin. Bayanna ndəye [hangal kajiri sǝriyebe](/caregiving/late-day-restlessness/) lan shawari gade bune ro mbeji.
 
-## How can family far away take part?
+## Futu yalla cidiya napsǝna dagatǝro walzayin?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Kallo video dǝye yalla am dǝa sálá dǝro kǝltǝro bana cəzayin, jama dǝa səgawutǝnyi. Alzheimer's Association dǝye, kallo dǝro fasal gana cinro shawari cəzayin, misallo yakkata sáláye yiktǝ, foto sálá ngawo cidǝnabe fəletǝ, kǝmbu tilo rokko dəgǝ au filim sáláye sa tilo lan rui. Kallo dǝa tǝri gǝnatǝ, kuru am dǝa fal fal manazaro gultǝgǝ, dalil dǝ mana samnon ashirro dǝ kəskə. [Bayanna kallo-a kallo video-abe](/activities/phone-and-video-calls/) lan shawari faltǝ faltǝ mbeji.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Kam dǝ na kǝla hangal nzǝkkǝrambe (memory care) lan napciya, kǝndoram kǝnngatǝye dǝa koro kuru cidawu dǝa kallo daatǝro bana canaro gultǝgǝ. Bayanna ndəye [kam na kǝla hangal nzǝkkǝrambe ziyaraye](/activities/visiting/) lan, awi yadowobe-a futu ngəla lan koltəbe-a bayinjin.
 
-## What gifts suit someone with dementia?
+## Karəngǝ futu am dementia-a karga ro kalkal?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Karəngǝ gana, amanna kuru karma raktǝ faidatǝ dǝ ngǝla: kǝmbu manazǝna, bǝlinci au kaftan ləm-ləm, yakkata notǝna, kalando ruwotǝ kura kura, au albəm foto yallabe. Alzheimer's Association dǝye, karewa tajirwa mbeji, naura lura kakkadǝbe-a bǝri bǝri bǝlin kakkadǝbe-a koltəro shawari cəzayin.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Ci dǝ, kǝmtǝ dǝn ngəwu nankaro waljin. Biskit kam dǝye bana tǝdǝna dǝa kartongǝro gǝnatǝ, au shiye karəngǝ nya yamiya dǝa saktǝro koltǝ dǝye, shi dǝa sálá dǝro kǝltǝro bana cəzayin. Bǝri foto yallabe yaye shawari gade: [photo pairs](/games/photo-pairs/) dǝye foto kartǝna gana laa dǝa bǝri matcin ləm-ləmro browser lan kaltin.
 
-## Look after yourself too
+## Kǝlanəmma yaye kulashi
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Sáláwa dǝye cida kǝla kam kulashibe ro səgawin. Kam gadero na dǝa cin au kǝmbu sáláye dǝa dəgəro koltǝ, sálá kəskəso dǝa “a’a” wulgǝ, kuru am gade kam dǝ-a napsǝna sa naptǝram matǝ. Nyi au kam nya kulashi cinma dǝ, dondi dǝyia, kǝnnabe cinna dǝn mukko fəletǝ au kallo video cida dǝ ziyarama ngǝla. Bayanna ndəye [kǝlanǝm kulashibe](/caregiving/caregiver-self-care/) lan bana gade mbeji.

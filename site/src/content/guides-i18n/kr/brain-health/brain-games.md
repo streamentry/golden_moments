@@ -1,33 +1,33 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Bǝri hangalbe dementia-a dajin ba wa? Shaida so"
+seoTitle: "Bǝri hangalbe dementia-a dajin ba wa?"
+description: "Kǝla bǝri hangalbe-a dementia-a shaida kulashiye manajin: cognitive stimulation, bǝri komfuta, jarabtǝ ACTIVE-a FTC Lumosity-ye, bayin tǝlaa."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Bǝri hangalbe falma dementia-a dajinro fǝlezǝna ba. Bǝri komfuta hangalbe-a
+  hangal kǝla awo am do kǝlanjin maa tǝrasin. Jarabtǝ fal ACTIVE lan, bǝri
+  kǝskǝye (speed training) kuru bǝri bannabe-a kǝltǝna so, saa 20 ro dementia
+  tǝlamtǝna-a gana fǝlezǝna, amma adǝ shaida kǝskǝye. Am dementia-a kǝlanza
+  ro, samno kǝla hangalbe-a (cognitive stimulation) faida gana-a kǝskǝ-a cedin.
+  Bǝri-a kǝjiro-a kǝltǝro-a mbejiro faidatǝ.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Jarabtǝ bǝri hangalbe ye fǝlejin am so awo kǝlanjin maa lan ngǝla kǝla tǝradin; shaida faidanzǝ ro waltǝ-a kǝndaram kuli ro naadǝ gana."
+  - "Jarabtǝ ACTIVE lan, am bǝri kǝskǝye (speed training) kuru bǝri bannabe-a kǝltǝna so runzǝ maa saa 20 ro dementia tǝlamtǝna-a gana fǝlezǝna. Bǝri kǝskǝye bǝri bannabe ba, kuru bǝri tǝkǝrri-a bǝri hangal-a adǝ fǝlejin ba."
+  - "Saa 2016 lan, kam Lumosity tǝdǝna ye dala miliyon 2 FTC ro cin, dalilnzǝ shaida bawo nǝm dementia-a dajinna lan manajin."
+  - "Am dementia gana-a suro-a kǝlanza ro, samno kǝla hangalbe-a faida gana-a kǝskǝ-a hangal ro, kuru faida kura-a mana-a kǝltǝ-a cedin."
+  - "Bǝri Golden Moments so kǝjiro-a kǝltǝro loktu faltǝ-a ro. Kurǝwu gǝnyi, kuru dementia-a dajin ba, gana kǝltǝyin ba."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Bǝri hangalbe so Alzheimer's dajin wa?"
+    a: "Bǝri hangalbe falma Alzheimer's-a bi dementia gade-a dajinro fǝlezǝna ba. National Institute on Aging ye manajin shaida sammaa bawo bǝri hangalbe kasuwu ye faida jarabtǝ sayansiye lan tǝdǝna-a cǝdǝna ro. Amma bǝri so loktu kǝjiro faltǝro faidajin."
+  - q: "Jarabtǝ ACTIVE ye awi fǝlezǝna kǝla bǝri kǝskǝye-a dementia-a lan?"
+    a: "Saa 2026 lan, kuru kǝla jarabtǝ ACTIVE ye amnzǝ-a Medicare kǝndaramnzǝ-a saa 20 ro kǝltǝna. Am bǝri kǝskǝye (speed-of-processing) kuru bǝri bannabe fal bi yirai kǝltǝna so, dementia tǝlamtǝna-a am bǝri kǝltǝnyi-a lan gana. Bǝri kǝskǝye bǝri bannabe ba-a, kuru bǝri tǝkǝrri-a bǝri hangal-a faida kura adǝ fǝlejin ba."
+  - q: "Lǝbar-a bǝri-a am dementia-a kǝlanza ro faidajin wa?"
+    a: "Faidajin, amma kamdə kamanzǝro kǝjiya maa. Samno kǝla hangalbe-a, kǝla mana-a, lǝbar-a, musko-a mana-a kǝltǝna-a, hangal ro faida gana-a kǝskǝ-a, kuru mana-a kǝltǝ-a faida kura-a cedin. Nadiya kǝjiro, jarabtǝ faida gǝnyi."
+  - q: "Ndayin FTC ye Lumosity ro jarima cina?"
+    a: "Saa 2016 lan, Federal Trade Commission ye Lumos Labs ro sǝkkǝna, dalilnzǝ bǝrinzǝ ye faida kǝri ngǝla-a dementia-a dajin-a manajin, amma shaida sayansiye nzǝro bawo. Kamfanin də dala miliyon 2 ciro kasatǝna, kuru fuwun manano adǝ gai kǝltǝninro shaida sayansiye ngǝla mbejinro kasatǝna."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +58,88 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Bǝri hangalbe ndaran dəgana, kuru kada hangalnǝm kǝriro kǝltǝyinro manajin. Kam dementia-a kǝlanza ro hangalninma, bi nyi kǝlanǝm tǝkǝrrinǝm lan karǝgǝnǝmma, bǝri adǝye banajin wa tǝma kǝroro waljin. Na adǝro shaida sayansiye awi fǝlejin, awo tamtam-a kuru awo tamtam gǝnyi-a soro.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Adǝ bayanna kǝla nǝlefa dǝwo, shawari likita gǝnyi. Kǝla bayanna kura-a ro [bayanna likita ye ba](/medical-disclaimer/) rui.
 
-## Do brain games prevent dementia?
+## Bǝri hangalbe so dementia-a dajin wa?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Bǝri hangalbe falma dementia-a dajinro fǝlezǝna ba. National Institute on Aging (NIA) ye am so manajin bǝri komfuta-a internet-a tǝkǝrri ngǝla kǝltǝyinro manaza-a ro hangal kǝlanzaro waltǝ, kuru shaida sammaa bawo bǝri hangalbe kasuwu ye faida jarabtǝ sayansiye lan tǝdǝna-a cǝdǝna ro ([NIA kǝla Alzheimer's dajinna](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Adǝ maanaanzǝ bǝri so faida bawo gǝnyi. Maanaanzǝ faidanzǝ kǝjiro, kǝltǝro, kuru kuli ro, amma dementia-a dajinna gǝnyi.
 
-## What is "near transfer", and why does it matter?
+## "Near transfer" awima, kuru ndayin faidatǝ?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Sa awo fal kǝlanǝm, ngawo awo adǝ lan ngǝla walǝmin. Kuru sayansiye lan adǝro faida kǝla hangalbe lan (training effect) can. Kǝrǝwo kura dǝ shima ngǝlanzǝ awo gade ro **waltǝyin** wa: awo sammaa ro (near transfer) bi kǝndaram kuli ro, misallo loktu tǝkǝrri bi kungǝna hangal ro (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Kuru saa 2016 lan, kǝla kuru kura fal jarabtǝ bǝri hangalbe kamfani so manazǝna-a ruyeno. Fǝlezǝna am so awo kǝlanza maa lan ngǝla tǝradin, shaida gana awo sammaa ro waltǝ-a, kuru shaida gana kǝndaram kuli hangal ro waltǝ-a. Jarabtǝ kada ye kuru laifi kǝla tǝdǝnza mbeji, adǝye bayanna tabbataccen kǝndoro dunon ([Simons-a am-a, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Kuru sayansiye kǝla bǝri komfuta hangalbe-a awi manajin?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Kuru Cochrane, jarabtǝ ngǝla so samjin, bǝri komfuta hangalbe satiye 12 bi yirai kǝlanza-a kǝrǝwuna:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Am ngǝla saa 65-a yirai-a:** jarabtǝ 8, am 1,183. Shaida dǝ ngǝla gǝnyi bi gana. Faida gana kǝskǝ bǝri dajinna sammaro mbeji, amma shaida bawo adǝ sawanjuinro fǝlejin ([Cochrane review, am kura ngǝla](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Am laifi hangalbe gana-a (mild cognitive impairment):** jarabtǝ 8, am 660. Jarabtǝ falma am so fuwun dementia-a tǝbandǝna wa manajǝnyi, kuru shaida dǝ dunon bayanna tabbataccen ciro ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Jarabtǝ ACTIVE ye awi fǝlezǝna?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE jarabtǝ kura Amerika lan, saa 1998 lan baditǝna am 2,802 saa 65-a yirai-a, kǝlanzan dasaanzǝn ngǝla, kuru laifi hangalbe kura bawo. Am so samno kǝskǝ 3 ro (bǝri kǝskǝye, bǝri tǝkǝrri, bi bǝri hangal) bi samno bǝri bawo ro tǝsakkǝna. Bǝri dǝ satiye 5-6 ro loktu bǝri 10 gai. Am laa bǝri ngǝwu dajǝna so fuwunro **bǝri bannabe** saa fal-a saa yakku-a ngawon cibe ro tǝsakkǝna.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Bǝri kǝskǝye dǝ awo surin rui-a kuru hangalnzǝn kǝskǝro fasaltǝ-a, kǝla ngǝlanzǝn waltǝ-a.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Saa 2026 lan, kuru am 2,021 Medicare kǝndaramnzǝ-a saa 20 ro kǝltǝna ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Awo fǝlezǝna dǝ:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Bǝri kǝskǝye kuru bǝri bannabe fal bi yirai-a:** dementia tǝlamtǝna-a samno bǝri bawo-a lan gana (hazard ratio 0.75, maanaanzǝ gana 25% gai).
+- **Bǝri kǝskǝye bǝri bannabe ba:** gana bawo.
+- **Bǝri tǝkǝrri bi bǝri hangal:** faida tabbataccen dementia tǝlamtǝna-a ro bawo.
+- **Samno bǝri kǝla kǝla-a samno bǝri bawo-a ro:** gana fǝlejin kura, amma tabbataccen gǝnyi.
 
-### The limits of this finding
+### Awo adǝye kǝskǝnzǝ
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Adǝ **bǝri kǝskǝye kǝskǝ fal, hangal kǝlanza ro kuru bǝri bannabe-a** ro, bǝri hangalbe sammaa ro gǝnyi.
+- Faida tabbataccen dǝ **samno kǝskǝ** (am bǝri burwoye ngǝwu dajǝna-a bǝri bannabe tǝdǝna-a) lan tǝbandǝna, samno bǝri kǝskǝye samma gǝnyi.
+- Dementia dǝ **lambar tǝlamtǝna Medicare kǝndaramnzǝn** lan kǝrtǝna, am kǝla kǝla-a ruyi ba. Am burwoye 25% gai kǝltǝnyi, dalilnzǝ Medicare Advantage lan mbeji, kǝndaramnzǝ samma bawo.
+- Am bǝri baditǝna sa laifi hangalbe kura bawo. Nǝtiyi dǝ bǝri am **dementia-a kǝlanza** ro kǝla awima manajin ba.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Adǝ shaida kǝjiro, kuru kǝla nzǝm kǝla kura maanajin. Amma bǝri app falma dementia-a dajinro fǝlejin ba.
 
-## What did the FTC say about Lumosity?
+## FTC ye awi manajǝna kǝla Lumosity lan?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+January 2016 lan, Lumos Labs, kam Lumosity tǝdǝna ye, dala miliyon 2 ciro Federal Trade Commission manano kǝla sǝrǝttǝnzǝ lan kasatǝna. FTC ye manajǝna kamfanin də, shaida sayansiye bawo lan, bǝrinzǝ ye cidawa-a kǝrǝwo-a ngǝla kǝltǝyin, kuru kǝri ngǝla-a, laifi hangalbe gana-a, dementia-a, kuru Alzheimer's-a dajinro manajǝna. Wada adǝye kamfanin də fuwun manano adǝ gai kǝltǝninro shaida sayansiye ngǝla mbejinro wajibtǝ ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Kǝla yalla-a ro: bǝri, app, bi porogram tǝkǝrri kǝlanzǝro bi dementia-a dajinro manajinma yaye, hangalnǝm kǝlanzaro waltǝ.
 
-## Can games help someone who already has dementia?
+## Bǝri so am dementia-a kǝlanza ro banajin wa?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Kawu kǝjiro kǝltǝro banajin, adǝ kura. Kǝla adǝ lan shaida ngǝwu dǝ **cognitive stimulation**: awo kǝjiro samnon, misallo mana, tǝkǝrri, bǝri mana-a, lǝbar-a, kuru musko-a, ngawo samno gana lan kam hangal kǝlanza-a.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Cochrane review saa 2023 ye, jarabtǝ 37 am 2,766 dementia gana-a suro-a kǝlanza lan, fǝlezǝna ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **faida gana-a kǝskǝ-a** jarabtǝ hangalbe ro (shaida suro);
+- **faida kura mana-a kǝltǝ-a lan** (shaida ngǝla, jarabtǝ gana lan);
+- **faida gana** kǝndaram kǝjiro, karǝgǝ kǝji, kuru hal ro.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Faida so ngawo porogram satiye 10 gai dajinna ngawon kǝrtǝna, kuru jarabtǝ gana sawanjuinro ruyi ba. Cognitive stimulation samno kǝla hangalbe dǝwo, adǝma nǝtiyi dǝ kam falnzǝ tablet lan bǝrijinma ro waljin ba.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission saa 2024 ye kuru manajin porogram awo kǝltǝ-a am dementia-a kǝlanza ro faidatǝ, kǝjiro-a nadiya-a kǝlanza ro ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Bǝri so awo jiren faidajin?
 
-When chosen well, games can offer:
+Sa ngǝlaro kartǝnama, bǝri so cǝdin:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Kǝji.** Loktu kǝji fal kǝlanzǝ faidatǝ.
+- **Kǝltǝ.** Rokko bǝrijin sa mana dunonjima, awo sammaa faltǝro cin. [Futu rokko bǝrijin](/caregiving/how-to-play-together/) rui.
+- **Kuli.** Awo noata kawu kǝla kǝla loktu fallan kǝltǝ tamtamro cǝdin.
+- **Yardarǝ.** Awo kamdə kǝla ngǝla kǝltǝyin-a ro kartǝnama, kamdə ngǝla yanzǝn hangaljin, jarabtǝ gǝnyi.
+- **Mana.** Foto bi mana noata kǝla lawar badizǝyin. [Conversation cards](/games/conversation-cards/) bi [finish the saying](/games/finish-the-saying/) jarap.
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Awo waltǝnǝm: loktu kǝrǝmtǝ, lambar, streak, kuru awo sammaa jarabtǝ tǝkǝrri gai. Kamdə karǝgǝnzǝ tǝssǝnama, daatǝ. Burnin datǝ bi rokko naatǝ so nǝtiyi ngǝla. Bayanna ye [futu bǝri-a app-a kartǝ](/caregiving/choosing-apps-and-games/) checklist cǝdin.
 
-## Where Golden Moments fits
+## Na Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Bǝri Golden Moments, misallo [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) kuru [large-print word search](/games/word-search/), kǝjiro-a kǝltǝro loktu faltǝ-a ro tǝdǝna. Loktu bawo, lambar bawo. **Kurǝwu gǝnyi**, kuru dementia-a **dajin ba, gana kǝltǝyin ba**. Adǝ tǝlaa nǝmro mananǝm, bǝri falma cǝdin ba manaro ngǝla.
 
-## Talk with a doctor
+## Likita-a mana
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Tǝkǝrri faltǝ kǝla nǝm bi kam hangalnǝmma lan karǝgǝnǝmma, likita ro lenǝm, app ro gǝnyi. Likita ye dalil kurǝwu mbeji-a ruyin kuru shaida ngǝla mbeji-a manajin, misallo buwu ro hangal kǝltǝ kuru kǝnǝm ngǝla ro rui. Kǝla bayanna gade ro [Dementia-a dajin wa?](/brain-health/can-dementia-be-prevented/) rui. Hangal sammaa faltǝ bi faltǝ kǝskǝro tǝbandǝnama, banatǝ likita ye kǝskǝro marnǝm.

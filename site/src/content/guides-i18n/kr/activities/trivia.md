@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Kəla suro kulashiye am dementia-a kargata ro, kasuwa ba"
+seoTitle: "Kəla suro am dementia-a kargata ro, jawawu-a"
+description: "Kəla suro 50 am dementia-a kargata ro, jawawu-a kuru manano-a, kuru futu kəla adə kasuwa ba ro lezəyi."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Kəla suro am dementia-a kargata ro, mana adə shima mana kəlanzə kaman, jarabta
+  gəni. Kəla awo burwoyen nozəna lan koro: yina kəribe, mana kəribe, bərni
+  kəribe-a kəndo kəribe-a. Sabiye jawawu indi-au yakkə-a fǝlezə. Jawawu-a
+  kəjiro gulzə, kam falma cidajin ba, lamba ba, kuru jawawu fal-a mana-a
+  badizayin. Sədə-a jawawu kartə-a diwo badijinro, kəla «adə au adə»-a jawawu
+  diwi ba-a fǝlezə.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Awo burwoyen nozəna lan koro: yina, mana kəribe, bərni, kəmbo-a kəndo kəribe-a."
+  - "Jawawu indi-au yakkə-a fǝlezə, kam adə asutu ro cizəyin ba, hangalnzən nozəyin."
+  - "Jawawu-a kəjiro gulzə kuru fuwuro lene. Zanyi mana badizəyinma shima zanyi ngəla."
+  - "Lamba ba, gərəgərə ba, kam falma bowotin ba. Nasha sammaro jawawu cido."
+  - "Jawawu kartə-a zaktu badijinro, kəla «adə au adə»-a jawawu kalkal ba-a ro gade."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Kəla suro shima cidawa ngəla am dementia-a kargata ro wa?"
+    a: "Aa, kəla adə hangal kəji-a ro sadinro wal. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kəla suro-a cidawa badiyarambe burwoyen lan bowoje. Kəla awo burwoyen nozəna lan koro, jawawu-a fǝlezə, kam falma cidajin ba, kuru jawawu-a mana-a badizəyinro faidatə."
+  - q: "Awo jiri fiye kəla suro dementia-be ro ngalwo wa?"
+    a: "Awo burwoyen nozəna: yina-a yindima-a sa kamnzəyen, mana kəribe, bərni, kəmbo, wasanni-a kəndo kəribe-a, misallo kambo-a suro-a. Labar bərinbe au awo sa adəben asutu ro mowo məradəzəna-a kolne."
+  - q: "Futu kəla suro nasha jamabe lan kam falma nangujiro sadin?"
+    a: "Kəla fal fallan nasha sammaro korane, jawawu-a fǝleza au gulne, kuru kam yaye jawawu cinma-a kəbbu. Kam falma bowotin ba, lamba gotənyi ba. Jawawu-a kəjiro gulne, kəla adəgaima cizəna yaye, kuru kəla «nda ndu bən di-a cinema wa?» alama gulne mana-a badizəyinro."
+  - q: "Sədə ngawon dawun awo jiri fiye kəla suro-a badizəna?"
+    a: "Kəla jawawu diwi ba-a ro gade, misallo «kofi au shayi?» au «teku au kau?» kuru mana-au yina nozəna-a sammaro dazəgə. Foto-a rui kuru kəlanzan manazə adəma ngəla."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Kəla suro shima cidawa nasha jamabe-a cidawa kawube-a lan zauro məradətəna, kuru yalla ngəwu dabu kəndobe lanma sadin. Adatə lamba-a kam falma jawawu cibe-a lan sadinro, kam dementia-a kargata-a kasuwa ro cizəyin. Hangal kəji-a lan sadinro, shima dalil ngəla mana fanjinə. Cidiya adən kəla suro 50 jawawu-a kuru mana-a badizəyinro awo-a, kuru ngawo adən futu sa adə lezəyin.
 
-## How do you make trivia work for someone with dementia?
+## Futu kəla suro am dementia-a kargata ro faidajin?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Awo burwoyen asutu-a kuru hangalnzan nozəna-a ro kəla de, kuru jawawu yaye ngəla ro kəbbu.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Awo burwoyen kəlanzan koro.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) gulzəna, alamaram badiyaram Alzheimer's-be zauro fəlifitəna shima awo bərin asutə-a mənjin. Yina, mana kəribe-a kəndo kəribe-a saa ngəwu kawuyen adə shima dalil ngəla waljin.
+2. **Sabiye jawawu-a fǝlezə.** Jawawu kalkal-a indi-au yakkə-a lan kartə adə asutu ro gulnəmma ngalwo.
+3. **Kəla-a kura ro korane kuru kura ro fǝlezə.** Allo kərabe au tablɛt kura ro gotə am fanjaro kasuwa sadinma-a banajin.
+4. **Jawawu-a kəjiro gulzə.** Nduma nozəniya, kəjiro gulne kuru fuwuro lene. «Nonəmma, noŋa!» gulnəmmi.
+5. **Lamba ba.** Kam fal ro ba, tebur fal ro ba. Am lamba cizəyiya, lamba nasha sammabe fal gotə.
+6. **Kam falma bowotin ba.** Kam yaye jawawu cizo. Kam fal-a kəla sadinro, sammaro jawawu de: «Wuma piano-a ngawon. Nyi ye futu tammanəm?»
+7. **Mana badizəyin-a faidatə.** Jawawu shima badiyaram gəni, daji gəni. Mana fanjə shima nia kalkal.
+8. **Kursu ro gotə.** Kəla suro mewu, dawunzan mana-a, adəma məradə.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dokari kalkal adəgaima bayanzəna: kərtəgə-a rui kuru kam adə nasara fandona ro yizzənaro tawakkə. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kəla suro-a cidawa badiyarambe burwoyen lan bowoje. Dawunbe lan, jawawu indi-a gotə kuru mana badizəyin-a faidatə. Ngawon, cidiya adəben kəla «adə au adə»-a jawawu diwi ba-a ro gade.
 
-## Music and entertainment trivia
+## Kəla suro yina-a cidawa kənjobe-a lan
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Jawawu shima **kura** ro. Kəla adə kam adə ro lezə: kam Motown lan kura kənama-a yindima gade məradəjin, kam yina kura kəribe lan kura kənama-a gade məradəjin.
 
-| Question | Choices | Talk about |
+| Kəla | Jawawu-a | Mana-a badizə |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Nduma Mai Rock and Roll ro bowono? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Elvis-a TV lan ruyem wa? |
+| Nduma yindima-a Ol' Blue Eyes ro bowono? | Dean Martin, **Frank Sinatra**, Perry Como | Yina Sinatra-be jiri fiye raammana? |
+| Bing Crosby kənəshim ngəlin kəna laa... | **Christmas**, lərusa, fato | Layər fal sammaro yine |
+| Louis Armstrong «What a Wonderful...» yikəna | Yimbi, **Dunya**, Ro | Awi dunyabe-a ngəla ro sadin? |
+| «Over the Rainbow»-a Judy Garland filim jiri fin lan yikəna? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Nda filim raammana-a ruyem? |
+| Ndu «I Love Lucy» lan Lucy ro sadəna? | **Lucille Ball**, Doris Day, Betty White | Filim wa fiye yallan ruwiye? |
+| Nduma kowboy fǝr-a Trigger lan bowona-a kərjin? | **Roy Rogers**, Gene Autry, John Wayne | Tada ro walne kowboy ro biskanem wa? |
+| Nduma saa 30 ro «The Tonight Show»-a cidazəna? | Ed Sullivan, **Johnny Carson**, Bob Hope | Bune TV ruyinro walne wa? |
+| Suro jiri fin kibi 88-ye mbeji? | Gita, **piano**, kakaki | Kam yallan suro-a bibjin wa? |
+| Biskari jiri fi fal-indi-yakkə, fal-indi-yakkə lan isabtə? | **Waltz**, twist, tango | Nda biskariro lenem? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Yina-a kəla kəraanzəyinro, [cidawa yina-be am dementia-a kargata ro](/activities/music/) rui.
 
-## Everyday life trivia
+## Kəla suro kəndo kəribe
 
-| Question | Choices | Talk about |
+| Kəla | Jawawu-a | Mana-a badizə |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Firiji kawu isənro, fato ngəwu kəmbo-a suro lan gəzayin... | **Suro kanzəbe (icebox)**, suro kəmbube, sama fato | Ndu kanzə adə-a kudin? |
+| Ndu kambo-a kwalba gilasan lan cinna ro cudin? | Wotiwasilabe, **kam kambo kudibe**, wotiwarakabe | Awo gade jiri fiye fatoro cudin? |
+| Futu telefon kura kəribe-a lulin? | Buton rannin, **keke-a kəritin**, manajin | Telefon fandonzəyen manano |
+| Kamfani jiri fiye mota Model T-a dəgana? | **Ford**, Chevrolet, Buick | Mota raammana manano |
+| Nda «soda jerk»-a fandin? | **Nasha lemoabe lan**, nasha burodiye lan, banki lan | Awo counter lan məradəm? |
+| Biski jiri fiye karfe keke kaman, shima jenda kozən loru cizəyin? | Yo-yo, **Slinky**, hula hoop | Biski jiri fiye raammana? |
+| «Drive-in» shima nasha awo ruyin... | **Filim motan kargata ro**, wasanni bɔl, laya | Nduso-a ro lenem? |
+| Kam kamuye dalar falnzo lan? | Lincoln, **George Washington**, Jefferson | Saden dalar fal awi ci cizəna? |
+| Kam kamuye «penny» lan? | **Abraham Lincoln**, Washington, Franklin | Saden penny-a kwalba lan gəzanəm wa? |
+| Mota makaranta-be kala jiri fiye ngəwu zauro? | Kimme, **kime-kime (yellow)**, kəli | Futu makarantaro lenem? |
 
-## Holidays, nature and places
+## Bərni, kəla alabe-a nasha-a
 
-| Question | Choices | Talk about |
+| Kəla | Jawawu-a | Mana-a badizə |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Bərni jiri fiye Novemberbe alhamis ngawo dəyinben? | Labor Day, **Thanksgiving**, Memorial Day | Sabiye awima tebur nzəben mbeji? |
+| «Jack-o'-lantern»-a bərni jiri fin sadin? | **Halloween**, Easter, Christmas | Nasha kura kənambe lan Halloween manano |
+| Yimbi 4 July shima Declaration of...-a ngurnojin | Hakkiwa, **Kamelaye (Independence)**, Kambu | Nda kəna-a ruyem? |
+| Bərni Ya-be kəntagə jiri fin? | April, **May**, June | Yallanzə futu ngurnozəna? |
+| Shillewa ndawu bandera Americabe lan mbeji? | 48, **50**, 52 | Bandera adə shillewa 48-ye mbeji saa 1959 ro. Jawawu indi yaye shima takkar ngəla |
+| Teku jiri fiye fǝlete gabasben? | Pacific, **Atlantic**, Arctic | Tekuro lenem wa? |
+| Bərni jiri fin lan Alama Kambube (Statue of Liberty) mbeji? | Boston, **New York**, Philadelphia | New York ro lenem wa? |
+| Kanzana awi sadin? | Kambo, **kənzə (honey)**, harir | Kənzə burodi lan au shayi lan? |
+| Tada feye-a... cani | Tada fǝr, **tada fe (calf)**, tada ngəna | Kulo cidaramaye-a karganəm wa? |
+| Fure kime-kime kuruwu, kəngal fǝlezəyinro nozəna jiri fi? | Fure rose, **fure kəngalbe (sunflower)**, tulip | Awi kulo fandonzəyen culuwo? |
+| Yimbi ndawu saa «leap year» lan mbeji? | 365, **366**, 360 | Yimbi kənambo takkanəm fal manano |
+| Sədə jiri fiye bintiben isin? | Nəmngalibe, **bǝlin**, be | Sədə jiri fiye raammana? |
 
-## Food and sports trivia
+## Kəla suro kəmbo-a wasanni-a
 
-| Question | Choices | Talk about |
+| Kəla | Jawawu-a | Mana-a badizə |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| «Raisins» shima... ngorobe | Plum, **inab**, cherry | Raisins-a kəmbo kəlebero yikkenəm wa? |
+| «Prunes» shima... ngorobe | **Plum**, tarmus, tufa | Yallanzəyen ndu prunes-a raana? |
+| «Peanut butter» kuru... | **Jelly**, cuku, dawu | Ngalwo au lamiya? |
+| «Guacamole»-a zauro sadin shima... | Ngalo, **avocado**, cucumber | Bərni lan awo jiri fiye cizin? |
+| Pai jiri fiye Thanksgiving lan zauro məradətəna? | **Pai kabewa (pumpkin)**, lemun, cherry | Pai jiri fiye dəganəm? |
+| Fǝramlan wasanni bɔlbe (baseball) lan am ndawu cidajin? | 7, **9**, 11 | Kawu jiri fiye banajanəm? |
+| «Strike» ndawu kam fal culuwo ro sadin bɔlbe lan? | Indi, **yakkə**, dewu | Bɔl biskanəm wa? |
+| Babe Ruth wasanni jiri fin lan nozəna? | Kərtəgə, **bɔlbe (baseball)**, golf | Bɔl ruyinro lenem wa? |
+| Kulo golf kalkalbe lan kuwo ndawu mbeji? | 9, **18**, 24 | Golf biskanəm wa, au mini golf? |
+| Wasanni jiri fin lan «touchdown» fandin? | **Futbɔl Amerika**, hockey, basketball | Fatonzəyen ndu futbɔl Amerika-a rujin? |
 
-## Familiar sayings
+## Mana kəribe nozəna
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Mana kəribe-a dazəgə adə shima tǝlam burwoyen asutu-a faidajin kuru ngəwu kasuwa ro waljin. Kəndorammande [Mana-a dazəgə](/games/finish-the-saying/) lan ngəwu kuru mbeji, ranne daji yaye fǝlezəyin.
 
-| Saying | Choices | Talk about |
+| Mana | Jawawu-a | Mana-a badizə |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Tufa fal yim fal yen likita-a... | **Cidinba (dujayin ba)**, ingi-a cidinba, ngəwu-a cidinba | Ndu adə-a nyiro guljin? |
+| Ngudobe badiyaramma shima kuli-a... | Mota, **tajin**, jirgi | Nyi kam badiyarambe wa? |
+| Kuwui nganzə-a isaaduro gawo... | **Isaanzayen (hapcinzayen)**, kənəminzayen, yinzayen | Yallanzə kuwui-a gəzana wa? |
+| «Penny» gəzatəna shima «penny»... | **Fandəna**, faccəgəna, faidatəna | Yallanzəyen ndu gəzatəma? |
+| Fato shima nasha...-abe | Kulo mbeji, **karəgə mbeji**, falo kəmbube mbeji | Awi nasha fal-a fato kaman sadin? |
+| Ngawo isə shima ngəla, amma... ngalwo | Badiyaram, **isənyi**, nadə | Sabiye nduma ngawo isin? |
+| Fowo yaye dawunzən nzundu nurrabe... | **Mbeji (kənasar mbeji)**, cokali, kumbu | Sa ngəla fal fandəmma manano |
+| Cidawa shima mana-a kojəna... | **Kozəna**, yina, kərigə | Kam adə-a gulzənama manano |
 
-## This-or-that questions with no wrong answer
+## Kəla «adə au adə»-a jawawu diwi ba
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Kəla adə shima sədə yayero ngəla, har ngawonma, dalilnzə jawawu diwi ba. Koro, fanə, kuru nyima jawawu num-a gulne.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kofi au shayi?
+- Teku au kau?
+- Kəri au ngəwu?
+- Be au bintibe?
+- Pai au kek?
+- Biskari au rui?
+- Kəngal culuwo au kəngal gapkəta?
+- Fǝrambe fuwu au ngawo fuwu?
+- Radiyo au rekod?
+- Pankek au ngəwul?
+- Fure rose au fure daisy?
+- Balbal jirgibe au balbal motabe?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Mana badizəyinro kəla foto-a, [katiwu mana-be](/games/conversation-cards/) andiye-a jarapne.
 
-## How do you run a trivia session in a care home or group?
+## Futu kəla suro nasha jamabe lan au nasha cidaramaye lan lezəyin?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Am-a nasha ruyinro-a fanjinro napkə.** Suro fanjobe-a gotə, gilashi shim lan, TV cukkuro.
+2. **Adə-a mana kaman badizə.** «Kəla laa sa kəribe lan mbeji, kuru wu tamanjagana nayima wua kojəna nonuwwa.»
+3. **Kəla fal-a yindi korane kuru jawawu-a kura ro fǝlezə.**
+4. **Nasha ndaran yaye jawawu cinma-a kəbbu.** Jawawu ngəla-a waltə am samma fanjaro.**
+5. **Jawawu-a nasha sammaro gulne,** kuru ngawo adən mana badizəyin-a nasha sammaro koro.
+6. **Karəgə nashabe-a ga.** Kəla fal mana minti mewu culuwozinro, kolne cido.
+7. **Yina lan au kəla «adə au adə» lan dazəgə,** am samma awo kasuwa lan dazaro.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Nasha gade cidawa ro, misallo bingo foto-be-a yina-a, [cidawa nasha jamabe nasha cidaramaye lan](/activities/care-home-groups/) rui.
 
-## When to change the plan
+## Sabiye fuwun nəmkəltə gərtəji
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Kam laa kərtəgənatə ruyemro, cidajinba ro walyeno au «wuma noskəni» gulzənaro, adə-a kasuwaro de: jawawu-a indiro suwutə, sammaro jawawu de, au kəla «adə au adə»-a ro gade. Nasha adə kəla fal lan kawu samma manazəyiya, adəma nasara. Nia shima jawawu kalkal gəni. Nia shima sa ngəla kəla ngəla-a lan kənasar.

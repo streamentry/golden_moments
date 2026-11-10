@@ -1,33 +1,32 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Cida Jama-a Dementia-be: Fato Nzəkko-a Ruwo Kǝla-be"
+seoTitle: "Cida Jama-a Dementia-be: Bingo, Yirwo, Labari"
+description: "Cida jama-a nzəkko kəlanzəbe, nasha-a kuru kǝla adinbe ro: foto bingo, yirwo jama-a, labari gǝrtǝ-a, kuru naptǝ-a jama-a kǝrabe bayanna."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Cida jama-a ngəla nzəkko kəlanzəbe-a kǝla adinbe-a lan, kǝrtsa, notəna-a kuru
+  am kəla kǝla nzu-a shiga maa: foto bingo, yirwo jama-a, labari gǝrtǝ-a,
+  kǝndoram kǝrtsa-a kuru kǝla kalma-be kǝltǝ-a. Jama-a gana kǝla ro raktə,
+  amsam-a da, kǝle nduso kuru fanza, kǝla fal fala-a, kuru kam shiga nzə
+  maa ro kǝla sau-a kuru naptǝ napcin kǝla suluwu-a dabbarǝ.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Jama-a gana, kǝla jama kura fal mbejiya lan, am ngəwu-a shiga kǝltǝ ro bawo-a kuru am-a kǝriro yeyo."
+  - "Am-a dawuye kǝltǝ kura-au kuru dawuye da-a ro napkə, mai manabe-a kərən ro, kuru kǝrǝnzu-a fanza kuru kuruwo-a hangalro tǝkǝ."
+  - "Cida kəla nzu-a kǝla indi-au kuru yaskə-a ro dabbarǝ, am nzundu nzundu-a shiga maa ro."
+  - "Koro, lamba kuru kəmari wa-a koltə. Foto bingo-a amsam-a kardu-a nzə sammaa ro cidatə."
+  - "Gana luwo, yewo, au kǝnəm bawo-a ngəla. Kam cidawu fal-a kǝn, kam na suluwu cina mbeji-a bawo ro."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Jama-a dementia cida-be ro adin-a ngəla fiye?"
+    a: "Adin fal kalkal bawo, am ngawo-a, nasha-a kuru cidawu adin-a ngawo-a ro takcina. Jama ngəwu-a jama gana lan amsam-a kuruwo, fanza kuru shiga maa ro asutə, amma jama kura nasha kura lan am ngəwu-a yero daatə. Jama kura cidin ya, cidawu-au kuru bawo-a am dǝganabe-a kǝskǝ lan napkə, kam fal-au indi-a bawo ro."
+  - q: "Jama am nzundu nzundu-a mbeji-a futu cidanyi?"
+    a: "Cida kəla nzu-a shiga kǝla ngəwu dabbarǝ. Yirwo jama-a lan, laaye kəla sammaa yiritə, laaye mukko yitə au yirwo gana yitə, laaye kuru shaker gozatə. Foto bingo-a lan, laaye foto-a nzǝ kǝlan matǝ, laaye-a bawo kəm faltə. Am bawo ngəwu manabe-a cidawu-au kuru bawo kəm-a kǝskǝ lan napkə."
+  - q: "Foto bingo-a futu kəmari ba cidanyi?"
+    a: "Foto sammaa-a bowotə har amsam-a kardu nzə sammaa ro, kam fal koljinba. Foto kəla nzu-a kaltəgə sa manabe-a, kuru kəmari kəm lan ladǝ wa-a koltə au amsam-a ro abu fal kalkal ye. Nia-a hangal gǝrtǝ-a kuru manano kǝltǝ, kam buro cizəna-a bawo."
+  - q: "Cida-a kandə-a nasha kura lan faidatə raktǝ wa?"
+    a: "Aa. Cida-a ande-a web browser lan cidatə, laptop-au kuru tablet TV-au kuru projector-a kǝltǝna lan kataptə raktə. Picture Bingo-a kardu print cidabe-a kuru caller nasha lan mbeji. Finish the Saying-a kuru Picture Pairs-a nasha kura lan ngəla, kam fal-a kǝla jama-be ro taptə."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +51,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Fato adə, mai cida dabbarabe, jama nzəkko kəlanzəbe-a kuru kǝla adin cidabe-a ro. Cida jama-a ngəla, nasha dabbarǝ, cida fal am nzundu nzundu-a ro fasaltǝ, kuru kardu bingo print cidabe-a nasha kura lan faidatǝ bayantə. Awowa sammaa-a suro, kǝltǝ-a kuru kartǝ ro sadin. Awowa adə lan koro fal bawo.
 
-## What makes a group activity work in memory care?
+## Cida jama-a nzəkko kəlanzəbe lan awi-a ngəla yitə?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Cida jama-a ngəla notəna, kǝrtsa, kǝla kəla nzu-a ro shiga sau-a kuru kǝndoram ba. [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) Alzheimer's Association-be-a, shiga maana-a kam fal-a kǝra nzə-a kuru kartǝ nzə-a bawo yitə, kuru kartǝ-a nasara-a bawo yitə, dementia-a ngəwuro walzəna yaye. Takarda adəgaima-a kuru bayanzəna, cida notəna-a kǝla fal-au indi kura kawu lan cidatə, am ngəwu-a shiga ba, kǝriro yeyero.
 
-That points to a few practical rules:
+Adə-a kǝla ndǝla gana bawo yitə:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Notəna bǝlin-a ngalwo.** Yirwo, kalma notəna, foto-a kuru kare am-a kərmabe-a sa nzu-a lan, shiga-a sauro walzə.
+- **Kǝrtsa kura-a ngalwo.** Jama nzə-a hangal nzə adin-a kǝskǝ ro dabbarǝ, dawu nzaye da-a yaye.
+- **Cida, yewo-a ngalwo.** Kam kəla nzu-a ro abu goza, tap kəla, kartǝ au manabe bawo.
+- **Kǝla ngəwu, cida fal.** Kǝla sau-a kuru kǝla ngəla shiga ro dabbarǝ.
+- **Kəmari ba, lamba ba.** Kəmari-a kam laaye-a kasarga maa ro kǝlanzayin.
 
-## How big should the group be?
+## Jama-a adin ngəwuro walzə?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Gana mbeji-a ngəla so. Alzheimer's Association-a bayanzəna, kam jama kura lan kǝndoram fanza mbeji-a, jama gana lan kǝltǝ ngəla matǝ. Adin fal kalkal bawo. Am ngawo-a, nasha-a kuru cidawu-a bawo kəm adin-a mbeji-a ro takcina.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Jarabtǝ ngəla fal: kam kəla nzu-a mai manabe-a fǝlezə raktǝ, ngəlaro fanza raktǝ, kuru bawo kəm-a sa gana lan cizə raktǝ wa? Aa bawo ya, jama-a yaktə, bawo kəm yirai, au nasha gana ro le.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Kǝla kura ro, misal kǝla adin kura lan, cidawu-a kuru bawo kəm-a am dǝganabe-a kǝskǝ lan napkə, garu-a lan bawo.
 
-## How should I set up the room and seating?
+## Nasha-a kuru naptǝ futu dabbaranyi?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Dawuye kǝltǝ kura-au kuru dawuye da-a.** Fato notəna-a bayanzəna, kǝltǝ gǝrtǝ-a nasha kura lan ngəla, amsam-a dawuye fal ro naptə, kuruwo gade ba.
+- **Mai manabe-a kərən ro kuru shima kǝskǝ ro.** Raktəna ya, da, bawo.
+- **Fanza-a kuru kuruwo-a buron.** Am kǝmo fanza nzə bawo-a mai manabe-a kərən ro napkə, kǝmo nzə ngəla nzu-a lan. Gilas-a kuru kǝmo fanza kare-a gozana ro asutə. Alzheimer's Association-a bayanzəna, kuruwo-a kuru fanza-a bawo mbeji-a manano-a kǝskǝ yizayin.
+- **Nur-a am ngawo-a ngawon, nyi ngawon bawo.** Kam fal window nur ngəla fǝlejin ro napkəba.
+- **TV-a kuru rediyo-a cimtə.** Alzheimer's Association-a, cida yirwo-be sa, kuruwo gade-a cimtəro manazəna.
+- **Manano fal, sa fal.** Manano ngəwu kǝltǝ-a am dementia-a kərma-a kuru am kǝmo fanza nzə bawo-a ro kǝskǝ, futu Alzheimer's Association-a [fato adin kura-be](https://www.alz.org/help-support/caregiving/holidays) lan bayanzəna.
+- **Luwobe dalil-a kuru na suluwu.** Kam luwo cina-a, sauro luwo, cidawu fal-a kǝltǝ lejin ro.
 
-## Group activity ideas
+## Shawari cida jama-be
 
-### Picture bingo
+### Foto bingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Foto bingo-a lamba-a foto-a ro faltə, misal shayi buta, kəri au gul, kam fal lamba kura gozabe au ruwo gana karantǝbe-a manajinba.
 
-**How to run it:**
+**Futu cidabe:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Kam kəla nzu-a ro kardu fal, [Picture Bingo](/games/picture-bingo/) nasha-a lan Print button faidatə print kəla. Kǝrdu ngəla goza sau. Faidatə kǝrtǝbe ro laminate kəla.
+2. Abu kura, sauro gozatə, misal poker chip, kwalba murfi au kǝrdu kǝrtǝna ye.
+3. Caller nasha lan TV-au kuru projector lan faidatə, amsam-a foto-a kuru su nzə-a kǝltǝ sa fal lan yeyi.
+4. Foto kəla nzu-a ngawon da, kuru manano gana bowo: «Kam laaye kəri notəna-a kalaktə cina wa?» au «Awo adə lan awi-a rui?»
+5. Bowotə har kardu sammaa-a sammaa. Amsam-a dazəna.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Fasaltǝ:** Am laaye-a kardu sammaa ngəwuro asuyin ya, square gana ye. Bawo kəm-a kam bawo manabe-a foto kalkal-a fǝlezayin. Laaye-a foto caller-be goza kuru jama-a fǝleza cina.
 
-### Sing-alongs
+### Yirwo jama-a
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Yirwo-a cida jama-a am ngəwu-a kǝraanzəna fal. Alzheimer's Association-a bayanzəna, kǝrma ngawon sa yaye, kam fal [sawu bǝbe au yirwo ngawo nzə kǝrma sa nzu-a yirotǝ](https://www.alz.org/help-support/caregiving/daily-care/art-music) raktə.
 
-**How to run it:**
+**Futu cidabe:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Yirwo am-a kərmabe-a sa nzu-a kartǝ, mai manabe-a nzə bawo. Fado-a koro kam kəla nzu-a awi-a kǝranzəna.
+- Yirwo talla ba faidatə, Alzheimer’s Association-a bayanzəna talla-a hangal-a jakktə raktə.
+- Ruwo yirwo-be kǝla kura lan print kəla, karantǝ raktəbe-a ro, amma faral bawo.
+- Shaker, ganga mukko au mayafi ye.
+- Mukko bǝbe-a kuru kǝndoram-a bawo, kuruwo-a ngəla koltə.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Fasaltǝ:** Laaye kəla sammaa yiritə, laaye yirwo gana yitə, laaye shi nzə taptə, laaye kuru kǝriro fanjitə. Adə sammaa shiga. Kuru bayanna ro [fato cida yirwo-be](/activities/music/) rui.
 
-### Reminiscence groups
+### Kǝltǝ labari gǝrtǝ-a
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Kǝltǝ labari gǝrtǝ-a, misal madərsa, mota buron, futo au bǝne, foto, kare-a kuru yirwo-a lan kǝltə. Nia-a manano kǝji, taktǝ kalkal bawo.
 
-**How to run it:**
+**Futu cidabe:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Abu fal kartǝ, kuru kare gana am-a goza raktə ye: mixer mukko, baseball glove, fula, bǝne kǝrdu.
+2. Abu fal sa fal yita. Koro farra kəla: «Adə-a wulse», «Awi-a rui?» «Wunduma adəgaima faidatəna?»
+3. Jawaap kəla nzu-a ngəlaro go. Sa-au kuru awo kalkal-a fasaltəba.
+4. Manano-a labari kǝji ro kəliwo. Fato notəna-a bayanzəna, cidawu-a labari gǝrtǝ-a labari kǝji ro kəliwo, kǝndoram zau bawo ro.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) foto kardu koro farra-a kǝltǝ manano-be ro ngəla. Shawari gade-a [fato labari gǝrtǝ-be](/activities/reminiscence/) lan mbeji.
 
-### Finish the saying
+### Kalma notəna-a dazə
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Kalma notəna (misal «Kwuwa kǝna, kwuwa...»), amsam-a kǝltǝ fal ro dazaro bowotə. [Finish the Saying](/games/finish-the-saying/) nasha kura lan fǝleza, kuru jama-a kǝla fal ro jawaptə. Kalma kəla nzu-a ngawon koro manano mbeji. Kam fal dazənba ya, fǝleza kuru fuwu le. Kalkal au diwi bawo.
 
-### Large-print word search, together
+### Kalma matǝ kǝrdu kura lan, kǝltǝ
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+[Word Search](/games/word-search/) kǝrdu kura-a nasha lan fǝleza, kuru jama-a ro kalma-a mata, au kam nzǝ-a runzǝna kǝlan cidaro cina ya, kǝrdu-a print kəla. Kalma-a futu-au kuru cidiyan runzə.
 
-### Gentle movement
+### Kǝndoram kǝrtsa
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Naptǝna lan kǝndoram, bɔl kǝrtsa-au kuru balon yita, au yirwo notəna-a lan kǝndoram. Kǝndoram kəla nzu-a bayanna, manabe bawo.
 
-### Sorting and matching at the table
+### Yaktǝ-a kuru kalkaltǝ tebur lan
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Tebur gana, am yaskə-au dewu, foto, kǝrdu kǝltǝ au lafuli kǝltǝ yaktə. Nasha lan, [Picture Pairs](/games/picture-pairs/) foto-a farra ro kolzəna lan cidatə raktə, kam fal taptə, tebur-a foto kəla nzu-a manajin.
 
-## How do I use your games on a big screen?
+## Cida-a futu nasha kura lan faidatanyi?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Cida-a ande-a web browser lan cidatə, TV-au kuru projector lan faidatəro abu gade install kəla bawo.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Cida-a laptop-au kuru tablet nasha-a lan kǝltǝna lan, cable-au kuru casting lan katap.
+2. Browser-a nasha sammaa ro kəla, kuru kuruwo-a ngəla ro da.
+3. Mai manabe fal tap kəla, jama-a kartǝ nzə-a manajin. Au kam kartǝ nzə-a cina mbeji-a tablet yitə.
+4. Jama-a dǝna sa da. Cida-a sa, lamba au dazǝ faral ba.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) kuru [Conversation Cards](/games/conversation-cards/) jama-a ro ngəla so. Kǝla sammaa-a [nasha cida-be](/games/) lan rui.
 
-## How do I adapt one activity for mixed abilities?
+## Cida fal-a am nzundu nzundu-a ro futu fasaltanyi?
 
-Plan at least three ways to join every activity.
+Cida kəla nzu-a ro shiga kǝla yaskəro dabbarǝ.
 
-| Activity | More independent | Some support | Most support |
+| Cida | Kǝlan cidama | Bawo gana-a mbeji | Bawo ngəwu-a mbeji |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Foto bingo | Foto nzə-a mata kuru rufa | Bawo kəm-a fǝlezayin; shi-a rufajin | Kardu foto gozatə; fanjitə kuru yeyin |
+| Yirwo jama-a | Yiritə, yirwo fuwube kartǝ | Yirwo gana yitə, mukko yitə, shaker faidatə | Fanjitə, mayafi gozatə, mukko taptə |
+| Labari gǝrtǝ | Labari wuljin | Aa/aa'a-au kuru fǝleza | Abu-a gozatə kuru kǝlanzayin |
+| Kalma matǝ | Kǝrdu nzə-a lan cidatə | Nasha kura lan bawo kəm-a kǝltǝ mata | Kalma-a karantə sa fanjitə |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Am kǝrma ngəwu-a mbeji-a ro, NHS-a bayanzəna, cida-a sauro walzə kuru kǝla kǝndoram-be ro hangal yitə, misal yirwo, abu lezatəbe-a kuru mukko kǝla. Jama-a dǝganabe sa-au kuru ngawon, kam fal-a kǝltǝ sa ngəla, jama nzu-a ngalwo walzə. [Cida kǝrma ngəwu-be](/activities/late-stage/) rui.
 
-## How should leaders talk during a group?
+## Mai manabe-a futu jama-a lan manazə?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Kəla kəla nzu-a kǝlan nzəro wulse, kuru kam kəla nzu-a su nzə kǝraanzəna faidatə.
+- Sauro mane, kǝla fal sa fal ye, kuru wulnəm bǝlin fǝleza.
+- Koro farra («Adə-a wulse...») au kartǝ sau, koro bawo («Taktə wa?»).
+- Fasaltəba. Kam kəla nzu-a bawo nzə-a ro askǝr.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Adə-a lan bayanna gade [shawari manano-be](/caregiving/communication-tips/) lan mbeji.
 
-## Ending well, and letting people leave
+## Ngəlaro dazǝ, kuru am-a luwo koltə
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Dazǝ-a awo ngəla. Kam laaye tawatəna, kǝndoram bawo au kǝji bawo asuyin ya, kuru bawo kəm-a lewo-au kuru na suluwu ro boworo manazə. Kam yirwo jama-a lan kǝnəmbo mbeji-a, suro nzə ro walzə.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Jama kəla nzu-a kǝla fal ro dazə, yirwo notəna-au kuru askǝr gana-a lan, dazǝ-a suluwu kuru notəna ro walzə. Ngawon, awi ngəla kuru kam wundu kǝjizəna ruwo, adə-a jama fuwube-a ngəlaro yizəyin.

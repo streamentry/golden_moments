@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Bìwá tákǝrbè am dementia-a ro kənzanamabe: Nzǝndo kǝla"
+seoTitle: "Bìwá tákǝrbè dementia-be: Nzǝndo kǝla"
+description: "Bìwá kǝltǝ, foto-a kàrtà-be am kura dementia-a ro kənzanamabe, kuru futu bìwanzǝ jarabtǝ gənatənyi: foto-a fəletə, kǝltǝ gana, lamba bawo, kǝltǝ ro bìwò."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Bìwá tákǝrbè am kura dementia-a ro kənzanamabe ngəla kǝla tákǝrbèro
+  gərtəyinba ma. Bìwá kǝltǝbe foto-a fəletəlan bìwò, tayil 4 au 6 faidatə,
+  kǝltǝ ro bìwò kuru lambabe koltə. Foto ruyinma asutəna tákǝrbèn,
+  adə nankaro bìwá-a suro foto sammaa fəlezəna faidatə. Kǝnji bìwabe,
+  kuru awo alagənyi, nasha bìwabe wo.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Bìwá tákǝrbè adəbe kàrtà-a grəzəna, adəma awo dementia-a kǝskǝ zaktə jarabzəna. Nankaro foto-a fəletə kolnə."
+  - "Awo bìwabe gana, foto kura-a kuru awo falro kǝrtaa bìwabe kǝjiro zaktə."
+  - "Kǝltǝ ro bìwò, sa-a faltə bana bənatə kuru lambabe koltə. Nduso kam falro fǝlezəyinba."
+  - "Bìwá tákǝrbè falma dementia-a kǝndoro, kǝlanzəro au dazəro tətawuna tǝdǝnyi. Kǝnji kǝltǝ ro sa ngəla zaktəbe nankaro bìwònə."
+  - "Sawu kǝnjiyin ma daatə. Kǝla fotobero mana badiyo nasha ngəla."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Bìwá tákǝrbè finte kam dementia-a ro kənzanamaro ngəla wo?"
+    a: "Bìwá kǝltǝ foto kura-a nozəna-a fəletə kəllan bìwo ma, misallo [Picture pairs](/games/picture-pairs/) tayil 4 au 6 ro dazəna. Foto ruyinma kǝltǝnzə matə kǝnjiyin, tákǝrbè ganaro jarabnyi. [Find the same](/games/find-the-same/) adǝn yaye asutəna, foto fal kǝltǝ indi au dewu suro kǝrtaa."
+  - q: "Bìwá tákǝrbè-a dementia-a banazayin wa?"
+    a: "Bìwá tákǝrbè falma dementia-a kǝndoro, kǝlanzəro au dazəro tətawuna tǝdǝnyi; kulashi Cochrane lan tǝdǝna dalil kǝla tǝlimi kǝmputa-be dementia-a dazəyinro kǝla bayin gana. Amma bìwá-a kǝltǝ ro sa ngəla zaktəro faidatəyin. Kǝnji-a kǝltǝbero kǝrənə."
+  - q: "Bìwá Concentration adəbe kam dementia-a ro kənzanama-a rokko bìwoyin wa?"
+    a: "Badiyaramnza lan, am laaye shiye kǝnjizayin, kàrtà gana-a faidatana ma. Kàrtà ndaran dagənaro tákǝrbè kǝləshiro badizəna ma, kàrtà-a fəletə kuru kǝltǝnzǝ-a kǝltǝ ro matə. Adǝgaiman kǝltǝ dagai amma jarabtǝ tákǝrbèbe kolzəna."
+  - q: "Bìwá tákǝrbè finte jama ro am kuraro ngəla wo?"
+    a: "Picture bingo bowotǝma skrinbe-a, mana nozəna-a samnaro, kuru kàrtà manabe jama ro cistə. Nduso kàrtànzǝ sammaa kǝlanzəyinro bìwònə kuru kam jaawu kiro fǝlezəyinba, nduso kam fal kǝlanzə gənatənyi ro."
+  - q: "Bìwá tákǝrbè am kuraro onlayn lan mbu wa, ram bawo?"
+    a: "Aa, mbeji. Bìwá-a na adəben dagana, [Picture pairs](/games/picture-pairs/), [Find the same](/games/find-the-same/), [Photo pairs](/games/photo-pairs/) kuru [Picture puzzle](/games/picture-puzzle/)-a, ram bawo, ruwo bawo kuru wayel, tablɛt-a kǝmputa-aben cidazayin. Falmanzǝn sa au lamba bawo."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+"Memory games for seniors" matəma, awo ngəwun kǝndomma am kǝla-a cidaa kǝskǝro kərzəna ma: kàrtà grəzəna, sa ləptəna, shima-a lamba-a. Kam dementia-a ro kənzanamaro, awo anibe bìwabe jarabtǝ awo kǝskǝ zaktənaro kalaktə. Bìwá adəgaima nzǝndo kǝlan bìwo mbeji. Warak adə futu adə tǝdin kuru bìwá-a shima sammaro ngəla-a fǝlejin.
 
-## Why do classic memory games frustrate people with dementia?
+## Ndayin bìwá tákǝrbè adəbe am dementia-a ro kənzanamaro kǝləshi zaktə?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Dalilnzǝ shiye awo bǝlin hangalnza ro rotəro gərtəyin, adǝma burwon Alzheimer's, dalil dementia-be ngəwuro kura-a, zaktə. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers)-ye gulzəna alama badiyaram Alzheimer's-be ngəwun burwonzə awo bǝlin kərzənaro tákǝrbè kǝskǝ. Bìwá Concentration adəben, kàrtà indi fəletə, ndaran dagənaro tákǝrbètə, kuru dəgan minut falnza faidatə. Adǝ awo bǝlin, rotəna kuru tákǝrbəna.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Sa, lamba au kowo jaawu kǝla faltəbe yiraiya, kamdə awo cidaajinba-a fǝlezəyin, kam ngəla-a ra,amma-a fuwun. Am laaye sətro bìwaro waza cizayin.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Awo ruyinma asutəna cidi kǝla gade, ngəwun asutəna. Kopti indi-a suronzan ruyin ma, shi fǝlezəyin kǝnji. Adə nankaro nzǝndobe shi kǝltǝbe koltə kuru jarabtǝ tákǝrbèbe gaptə.
 
-## How do you make a memory game gentle?
+## Futu bìwá tákǝrbèbe nzǝndo ro zaktə?
 
-These adjustments work for card games, board games and games on a screen.
+Faltǝ adǝbe bìwá kàrtà-be, bìwá teburbe-a bìwá skrinbe-alan cidazayin.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Foto-a fəletə kolnə.** Foto ruyinma-a kǝltə bìwá jili, ngəwun kǝnji kənzawo.
+2. **Awo bìwabe gana faidatə.** Kǝltǝ indi au yaskə lan badinə. Adǝgaiman asutəna kuru ngəwu mayin ma gaptə.
+3. **Foto kura-a, nozəna-a kam kurabe kǝrənə.** Kop, shuwuray, maara. Kartun gəni, kuru foto zauro kǝltǝna yaye gəni.
+4. **Kǝltǝ ro bìwònə.** "Kiribe matənye" wulnə, "sanyi sa" gəni. Sa-a faltə fǝlezə kuru bana bənatə.
+5. **Lambabe koltə.** Nduso nasara mbejimba. Kamdə koro ma, "andeye tǝkǝna" bas.
+6. **Saro gərgayinba.** Sa lǝptəma bawo, kuru sa faltəben duwaro bawo.
+7. **Kǝla fotobero mana badiyo.** "Maara adə rui. Saan maara lan lenəm wa?" Mana adǝ ngəwun awo ngəla kǝnzauma.
+8. **Sawu kǝnjiyin ma daatə.** Kǝltǝ fal ngawo daatə, sawu shi kǝnjiyin ma.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)-ye shawar adǝgaima kənjo: cida kamdə cidaajinma-a kǝltənə, kǝləshi-a rui, kuru shiye nasara fǝlezəna ro tǝkkə.
 
-## Gentle memory and matching games to try
+## Bìwá tákǝrbè-a kǝltǝ-be nzǝndo jarabtəro
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (kǝltǝ foto fǝlezəna-a)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) bìwá kǝltǝ foto kura-a tayil 4 au 12-a. Foto-a fǝlezəyin, adə nankaro kǝltǝnzǝ matə, ndaran dagənaro tákǝrbè gəni. Tayil dewu lan badinə. Kam badiyaramnzǝn dagana kuru cida ngəwu mayin ma, **Hidden pictures** ro faltəyin, amma kǝnji dazəna sa sammaro foto fǝlezəna ro walnə.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) foto fal samnza fǝlejin kuru kǝrta indi au dewu cidiyan. Kǝltǝma-a rənnə. Na adəben bìwá kǝltǝbe asutəna kuru am grid sammaa zauro kǝltǝna fǝlezayiro ngəla, ngəwun am shima daryen kam laaye-a rokko.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (bìwá tákǝrbè foto yallabe)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) foto nyiye kǝrnəmma-a bìwá kǝltǝbero kalaktə: kiri, kulo, fato ingi-a. Fǝkka-a na nozənama ngəwun mana-a foto gadero ngəwu cizayin. Foto-a browser nəmben napcana, nduma ro yadezayinba.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) foto sammaa zabelan daganaro ndaronzaro yikko gorin, misallo dawu au kulo. Kǝltǝ adǝ ilmu dinyabe futu cida-a nozənaro gərtəyin, tákǝrbè ganaro gəni.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) foto fal katap 4 au 9 ro kərjin. Katap indi rənnə kuru faltənə har foto sammaa kǝlanzəyinro. Foto kǝlanzəna skrinben dagai shawari ro.
 
-### Real cards on the table
+### Kàrtà jili teburben
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Skrin mbutə gərnyi. Kǝltǝ kàrtà indi deck indin au kàrtà fotoben gotə. Lain indin fəletə kuru kǝltǝnzǝ-a kǝltǝ ro matə. Ngawon, kǝla kalaro au alamaro kǝltə. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)-ye bìwá kàrtà-a bìwá teburbe-a cida badiyarambero kǝlanzəna.
 
-## Which memory games suit each stage?
+## Bìwá tákǝrbè finte shima sammaro ngəla?
 
-Stages are loose labels. Go by what the person enjoys today.
+Shima-a alamaram gana. Kamdə ku kǝnji cizənaro rui.
 
-| Stage | Games that often fit | How to set them up |
+| Shima | Bìwá-a ngəwun ngəla | Futu dazə |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Badiyaram | Picture pairs, Photo pairs, Picture puzzle katap 9-a, bìwá kàrtà nozəna | Shi kǝratə. Kǝnjizəyin ma tayil faltəyin; lambadə shi kǝləshi zaktə ma koltə |
+| Dawu | Picture pairs tayil 4 au 6 fəlezəna, Find the same, Sort together | Foto sawisoro fǝlezəna. Kǝngainzən naptə kuru sa-a faltə banatə |
+| Darye | Find the same kǝrta 2-a, foto kura fal rokko kǝltǝ ro rui | Loktu gana. Tablɛt-a nyi rotə; shi fǝlejin, au kurum rui kuru fanzin |
 
-## Do memory games help with dementia?
+## Bìwá tákǝrbè-a dementia-a banazayin wa?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Bìwá tákǝrbè falma dementia-a kǝndoro, kǝlanzəro au dazəro tətawuna tǝdǝnyi. [Kulashi Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) tǝlimi kǝmputa-be kǝla am kǝskǝnzǝn kǝləshi ganabe-a ro, dalil dementia-a dazəyinro gulzəro gana. Shawarinde [bìwá kǝla-a dementia-a](/brain-health/brain-games/) kǝla kulashi-a awo fǝlezəna-a fǝlezəyinba-a bayinjin.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Adə dalil bìwá koltǝro gəni. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)-ye kǝnjiro hangal yikko shawarzəna, nasararo gəni. Minut mewu foto-a kǝltǝro kuru kǝlanzəro manaro sa ngəla kawube yaktə.
 
-## What about memory games for seniors without dementia?
+## To, am kura dementia bawo-a ro bìwá tákǝrbè fa?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Kam kura tákǝrbènzǝn kǝləshi bawo, bìwá sa-a, lamba-a kuru shima kǝskǝ-a mayin ma, awo diwi fal bawo. Amma adəgaiman dementia-a dazəyinro hangal gərtəyinba; bìwá falma adə tǝdǝna tǝdǝnyi. Nzǝndo kǝla sammaro-a yaye ngəla, sa jama gade rokko bìwo ma: kaka dementia-a ro kənzanama-a tadanzə gana-a rokko foto-a kǝltǝ ro bìwo mbeji, nduson jarabtənyi.
 
-## When should you stop or change the game?
+## Sa yaye bìwabe daatə au faltəye?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Shetkə, tablɛt gaptə, "wuma rakkinba" wultə au hangal kǝləshi fǝlejinma adǝ alamaram asutəro au dazəro. Tayil gana tǝkkə, foto-a fəletə, [Find the same](/games/find-the-same/) ro faltə, au kurum foto-a rui kuru mana badiyo. Bìwaro waza cimaro ra,amma ma, ngəla. Shawarinde [futu kǝltǝ ro bìwo](/caregiving/how-to-play-together/) kǝla sa-a banabe-a bayinjin.

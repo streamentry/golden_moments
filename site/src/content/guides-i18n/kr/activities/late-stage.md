@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Cida dementia kəriwutəbero: Dəgaro-a kursiro-a lan"
+seoTitle: "Cida dementia kəriwutəbero: Dəgaro-a kursiro-a"
+description: "Cida lalanza kəla dementia kəriwutəbero, dəgaro-a kursiro-a lan: musiki, ləptə, kəra karatə, kowo-a kəltəro kəlakəlanzə, amari kənjo-a."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Dementia kəriwutəbero, cidaso hangal kənza-a kuru kəltəro kəlakəlanza nəmma-a ro
+  tustuna: musiki kam manazəna yitagattəgə, musko rotə, musko lalan ləptə,
+  kəra karatə, foto rui, kowo alabe-a kandəga aw windowben naptə aw deyan naptə.
+  Awo aniso dəgaro-a kursiro-a lan tədin. Loktu gana gana cida də, fǝska-a
+  musko-a yintə-a ro kənjo rui, kuru awo laa kamdə hangalnzə bannatəgə shiro
+  letǝgə, kəltəro kəlanzə kəlanzəman cidama.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Kəltəro kəlanzə kərmai tədin. Kəriwu ngəwoben, duniabe hangal kənza lan zauro asutəna."
+  - "Musiki, ləptə lalan, kowo kam nonəmma-a, kuru awo lalan rotta tədinma, manaso cidajin loktu ma kamdə mana cədinba."
+  - "Awo ngəwu na aden dəgana kusǝnso kam dəgaro aw kursiro lan napkənama ro tədin."
+  - "Kənjo-a hangal bannatəgə-a fǝska, musko-a yintə lan rui, kuru alamaram laa fuleta yaye da."
+  - "Awo gana gana koltəgəne, kuru kəmbu aw nzundoso shima sa cidawu jamabe gulzana dəro, nzutə ngəla kəlanzə bannatəgə tədin."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Awo awi kam dementia kəriwutəbe dəgaron napkənama-a rokko cida tədin?"
+    a: "Musikinzə kam manazəna yitagattəgə, muskonzə rotə, loshion lan muskonzə lalan ləptə, kəra kitab aw adinazə kam manazəna lan karatəgə, fotowa fǝletəgə, aw kowo alabe lalan yitagattəgə. Kandəga curuiro window katəgə. Loktu gana gana, kənjo lan, awo falro cida tədinma ngəla."
+  - q: "Am dementia kəriwutəbe so musiki lan kənəshimari fandajin wa?"
+    a: "Am laa fandajin. Alzheimer's Association ye bayanzəna kəriwu ngəwoben ma kamdə laa beat ro kambe yitagattəgin aw sawa gananzəben yirajin. Musiki sa ngəla nəmgananzəben manazəna kartəgə, kuru kowo gana koltəgə."
+  - q: "Futu awi lan cidama adə shiro kənəshimari kənzakkəno?"
+    a: "Alamaram gana gana rui: ngabbu kənjobe, fǝska lalan, shim kəltə, sawa gana yitə, musko kamtə, aw yintə lalan. Fǝska kəltə, kata, nəmbarinba, aw ngərtə hangal bannatəgə aw kəna fǝlejin. Awo aniso ruima da, kuru ngəwuso gawono yaye cidawu jamabe ro gulne."
+  - q: "Shima shi wuma asunyi ma, lezəna shilan faida mbeji wa?"
+    a: "Aa, faida mbeji. National Institute on Aging ye bayanzəna kəltəro kəlanzə kəlanzəman hangal kənjobero waljin, kuru ləptə, musiki-a lawarwa-a so dementia ngəwuben kənjo kənzajin. Kowonəm-a muskonəm-a so kəlanzəro asutə tədin, cunəm asutənyi yaye."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Dementia kəriwutəbero, kam laa mana gana cədin, cida kantəgeben bana sammaso məradəjin, kuru kawunzə ngəwu dəgaron aw kursiron cidajin. Roktəma awo kəltəro tədinma gənatənyi alama. Amma mbeji. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ye bayanzəna kəlnzə kəmben dawunzə gana gapkəna tədin, kuru kəriwu adəben duniabe hangal kənza lan zauro asutəna. Musiki, ləptə, kowo kam nonəmma-a, kuru kəltəro kəlanzə kənjonəm-a so kənjo-a loktu kəltəbero gana-a kənzajin.
 
-## What activities help in late-stage dementia?
+## Cida awiso dementia kəriwutəbero banajin?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Cida hangal kənzabe lalanza-a kəltəro kənjo lan naptə-a so kəriwu ngəwuben zauro banajin. Alzheimer's Association ye musiki kam manazəna yitagattəgə, kəra kitab faidabema gana karatəgə, loshion kənsə kam manazəna lan tibi ro ləptəgə, kuru kawu ngəlan deyan rokko naptəgə shawari kənzəna. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ye lawarwa gultə, fotowa fǝletə, ləptə lalan aw masaji, kuru musiki, kowo fufube aw kowo alabe yira kəlzəna, kuru kəltəro nəmnəmma kəlanzəma hangal kənjobero waljin cənna.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ye bayanzəna am kəriwu ngəwuben dəgana so awo laa karəngən rotta məradə kəskelan kənzajin, kuru cida hangal kənzabe lalanza, tərəm lalan, lədərəmbe lan kəndobe, musiki, dabba isana rui, kəmi ləptə-a awo suron alabe cidatə gəni-a shawari kənzəna.
 
-## Activities for someone in bed or a chair
+## Cida kam dəgaron aw kursiron napkənama ro
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Musikinzə yitagattəgə.** Sawa sa ngəla nəmgananzəben, adinanzəben aw yallanzəben kartəgə. Kowo gana koltəgə, kuru karəngən napne. Kərma yaye, am laa ulunzə kambe yitagattəgin aw sawa gana yirajin. [Cida musikiye](/activities/music/) rui.
+2. **Muskonzə rotə.** Musko rotə, ulunəm lan lalan ləptə, kəlanzəma cidama. Buro awo dimidə gulne.
+3. **Muskonzə lalan ləptə.** Loshion gana muskonəmben kange kuru muskonzəben ulnzəro ləptə. Loshion kənsənni kartəgə, aw kənsə shi saa manazəna, tibiye gozəna ma.
+4. **Kəra karatəgə.** Shairi kam manazəna, kəra kitab kam cəratəna, ayawa aw kəla wasilabe. Kowonəmbe ritimdə manabe kozəna.
+5. **Lawar gultəgə.** Kəla bəlon yallaye aw kawu nyiya kəndobe gultəgə. Jaawu məradənnyi.
+6. **Fotowa fǝletəgə.** Foto kura falro shiro shimnzəben rotə kuru kənjo lan bayanne. Nduso foto dəro koro.
+7. **Awo lalan rottəro kənzə.** Tawul gana naptənama, lədərəm gana aw dabba lalan alabe. NIA ye kamdəro tawul rottəro kənzə shawari kənzəna, loktu shitə cintabe, shi nyi aw kajim ro kamtəgənyi.
+8. **Kowo alabe yitagattəgə.** Ingi sam, kowo təgərambe aw ngudowa kowo ganalan kənjo gadero waljin.
+9. **Deya fatobero kude.** Kandəga fatəgə, ngudo kandəga windowben yikke, aw fure ngəla aw kəli gana curo kudo ruiro-a ləptəro-a.
+10. **Deyaro lene.** Kamdə kursi tərəmbero napkəna tədinma, minti gana gana kawu zəzəyiya lan kaunun ngəla tədin.
+11. **Kəndərinza sase aw tawul kange kənzə.** Kəndəri sasetə lalan-a musko-a fǝska-a tawul kange lan tultə-a kəriso fǝlejin.
+12. **Musiki-a rokko lalan kəndo.** Lədərəm gana kəltəro tatəgə, aw muskonza sawa ritimben kəndone. Tərəm-a ngurum kəndobe-a ro, fizioterapist aw nas ro koro futu amarbe ngəla fǝletənəmin.
+13. **Awo suron alabe de.** Fenti zayenni warak kura ro spanji aw musko lan yikke, muskonəm lan. Tamam ngəla gənatənyi.
+14. **Dabba isana amarma de.** Karam lagaran dəgaron aw suron, kamdə buron dabba manazəna kuru na adə amarma ma.
+15. **Kəltəro yintə lalan yo.** Karəngən napne kuru yintə lalan, kowo fǝletəna lan yo. [Yintə kənjobe](/games/calm-breathing/) nyi-a shi-a yintəbe nəmnzə fǝlejin, kuru nəm baditə-a datə-a so nyilan.
+16. **Kəltənzən napne.** Karəngən napne, sawa gana yi, kawo de, aw kənjo lan kara. Kəltəro naptəma kəla naptəna.
 
-## How to share an activity at this stage
+## Futu cida adə kəriwu adəben rokko tədin
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Fǝskanzəben isene.** Cunzə-a cunəm-a gulle, kuru ləptənəm kamin mananəm lalan-a kənjo-a gulle.
+- **Awo falro loktu fal ye kənzə.** Muski yitənəmin kamin TV də səkkəne. Hanga falro loktu fal ye cida də.
+- **Loktu gana koltə.** Minti gana ma kəla. Kawu falben loktu gana gana ngəwu, loktu kuruwu fal kozəna.
+- **Buron kənjonzə rui.** Kamdə ngəla bannatəna rui. NIA ye napkənama ma muskonzə naptəro-a kəlinza bannatəro-a lap board faidajin cənna.
+- **Jaawunzə rui.** Musko kənjo, fǝska lalan, shim kəltə aw sawa gana yitə kənjo fǝlejin. NIA ye bayanzəna ngərtə, fǝska kəltə, tibi na fal hangatə aw hangal dəgaitə battin kəna alamaramma tədin. Da, kuru cidawu jamabe ro gulne.
 
-## A quick guide by sense
+## Hanga lan futu rui
 
-| Sense | Ideas | Take care |
+| Hanga | Misallo | Hangal gənatə |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Fanotə | Musiki kam manazəna, kowonəmbe karatə, kowo alabe | Kowo gana koltə; loktu falben kowo fal |
+| Ləptə | Musko masaji, musko rotə, lədərəm lalan, tawul kange | Buro koro aw gulle; tibi bannatənyi aw kamatənyi rui |
+| Rui | Fotowa, furewa, kandəga windowben, bidiyo alabe lalan | Awo shimnzəben rotə; nur ngəla, kəngal gəni |
+| Kənsə | Loshion kam manazəna, fure ngəla, kafe kange karəngəben | Kənsə duno koltəgəne; alaji-a yintə-a rui |
+| Tambu | Awo kam manazənabe tambo gana | Kəmbu-a nəmnaptə-a cidawu jamabe amarnazəna bas |
 
-## Safety at this stage
+## Amari kənjo kəriwu adəben
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Nzutə ngəla kəriwu ngəwuben kəskero waljin, kuru NIA ye adə nzutə katawu riskinzə cǝsaptin cənna. Awo gana gana kamdə lezəna na ro koltəgəne, kuru kəmbu-a nzundo-a so cidawu jamabe nəmnzə-a nəmnaptə-a amarnazəna lan bas kənzə. Loktu ləptə cidabe tibi lalan rui, tibi ngəlaro kamatə aw namtə tədin. Awo hangal kənzabe amarbe manama ro, [cida hangal kənzabe](/activities/sensory/) rui.
 
-## Looking after yourself too
+## Kəlanəmma kəlanzəro hangal gənatə
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Kəriwu ngəwube cidawu tibi-a hangal-a ro zauro kəskema, fatoben aw cidawu naptoramaro lezəna yaye. Jamabe hospice-a palliative care-a so kənjo, banatə-a ngəmari-a ro banajin, kuru NIA ye sandima bana mbejiye falro gulzəna. Lezəna gana gana, kənjo lan faidabe: [kam dementia-a kəlanzəna ro lezəna](/activities/visiting/) rui. Jamaa ro cidawa cidama yaye, [cida jama cidawu naptoramabe](/activities/care-home-groups/) na adəro samnəm kənzajin. Kuru [kəlanəm kəlanzəbe hangal gənatə](/caregiving/caregiver-self-care/) kara: tusutəma cidawu ngəla dǝmbe nasha.

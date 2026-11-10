@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Cida kənzəbuye am dementia-a kərma bəzənaro"
+seoTitle: "Cida kənzəbuye dementia-a: Futuwa-a kəliwo-a"
+description: "Cida kənzəbuye am dementia-a kərma bəzənaro: musko letəbe, kazəmu duno, kəla kənəbu kura-a, kəliwo nəmzəliwo-a kura-a kəlle."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Cida kənzəbuye cidawa letə, kənəbu, tambu, fanə, kuru ruye-a faidatə:
+  musko letəbe hangal hangal, kazəmu duno sanduk nzəkko, kənəbu kura
+  fando, kəla kənəbu kura fanə, aw window lan ngudowa ruye. Awo ani
+  naptəram kəriye sammaso-a faidajin, kuru ngawo-a naptəram ngawo so ro
+  faida kərma. Buro salak nəmzəliwo, allergy, kəliwo kazəmu-a kuru kənəbu
+  kənzəbu-a rui; awo fal hangal hangal fǝle; kuru kamdə kənashin ba
+  kərtəgəna dəga diwo.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Cida kənzəbuye jawabu kalkal mbeji, adə naptəram kəriye sammaso lan cidajin, dǝga ro aw kursi ro bəzəna ma."
+  - "Daji fal hangal hangal, na ladiye lan fǝle, kuru letənyin kawu suro aw bayinro gulne."
+  - "Awo gana-a kuru awo kəmbe alama sədin amma kəmbe gənyi-a kolne, am so awo-a ci nzaro tain."
+  - "Lotion, kənəbu aw kəmbe faidatənyin kawu, allergy, kəliwo kazəmu-a kuru kəliwo yintəbe-a rui."
+  - "Dalil kərma aromatherapy ye alamaram dementia-a banajin ba; kənəbu nəmkəladoye faidatə mbu, amma kasadəro."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Cida kənzəbuye jiri fiye kam dementia-a kərma bəzənaro ngəla?"
+    a: "Futuwa sandi so: musko letəbe hangal hangal lotion-a, kazəmu duno letə, kənəbu kura aw gahawa kənəbu, sawa ngəla aw kəla kənəbu fanə, window lan ngudowa aw buni sam no ruye, kuru kəmbe ngəla tambu nəmzəliwo lan. Awo fal hangal hangal fǝle kuru futu kamdə cidajin dəga rui."
+  - q: "Cida kənzəbuye nəmzəliwo wa kam awo-a ci nzaro tin ma ro?"
+    a: "Aa, hangal hangalro. Awo kura so taiyinzə nduwu nzənyi faidane, awo gana aw fasartə ma kolne, kuru lotion, sabul aw awo kənəbu-a ngawo cidabe dəgin yaye, dalil sandi kəmbe alama sədin. Kulli wakkil kamdə-a kəlle bəzəne."
+  - q: "Aromatherapy ye alamaram dementia-a banajin wa?"
+    a: "Kərwu Cochrane ye dalil kərma aromatherapy ye am dementia-a bənazəna banajin tədinba, kuru kərwu so gana-a kalkal nzəkko. Kamdə kənəbu hangal nojin maa, ngəla, amma mai kənəbu duno kolne, musamman kəliwo yintəbe aw allergy bəzəna ma ro."
+  - q: "Fidget apron aw activity apron awi?"
+    a: "Shi kazəmu, apron aw bərni lap ro kəlzəkcin ma, awo letəbe kura so kəlle kərtəkkata tədinna, misallo buton kura, zippers, ribbons-a kuru kazəmu alamaram-a. Musko cidaramma ro awo letəbe mbeji. Kullum awo kəsəkkata tartəgə dəga rui."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,86 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Cida kənzəbuye kənzəbu usku faidatə: letə, kənəbu, tambu, fanə, kuru ruye. Takte, nəmzəm aw jawabu kalkal mərazinba, adə naptəram kəriye sammaso lan cidajin. Ngawo naptəram so, faida nzə ngəwuro waljin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ye gulzəna naptəram ngawo lan duniya kənzəbuye lan kuru ro asutin, kuru nəmngəla letə, fanə, ruye, tambu-a kənəbu-a lan fǝletin. Kəliwo nəmzəliwo gana so, cida ani am sammaso ro kəlado sədin.
 
-## What are sensory activities for dementia?
+## Cida kənzəbuye dementia-a awi?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Cida kənzəbuye shi kərmai sandi kənzəbu fal hangal hangal ro kəlzəkcin ma, misallo kazəmu letə, kənəbu kura kənəbu, aw ingi fanə. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ye gulzəna naptəram ngawo lan cidawa kənzəbuye ro nguwu hangal tain, kuru sawa, awo letəbe-a letəbe-a, kuru musko letəbe-a bayin. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ye gulzəna am naptəram ngawo lan bəzəna so, awo laa karəngən zaptəro mərəza kərma mbeji.
 
-## Sensory ideas, sense by sense
+## Futuwa cida kənzəbuye, kənzəbu kəriye ro
 
-### Touch
+### Letə
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Musko letəbe.** Lotion gana muskonəm lan kəmzəgəne kuru hangal hangal musko ngawo lan musko ngulbe ro letne. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ye lotion kənəbu ba-a musko letəbero kəlado ro bayin.
+- **Kazəmu duno sanduk.** Kazəmu kura velvet, corduroy, fleece, satin-a sufa-a letəro, kətəptəro kuru manaro.
+- **Kazəmu kəmzəgəna.** Kazəmu kəmzəgəna, nəmngudi-a musko ro kənəm bərwu ma. Buro muskonəm gadero jarabtəne.
+- **Activity apron aw bərni lap.** Buton kura, zippers, ribbons-a kazəmu alamaram-a kərtəkkata tədinna.
+- **Kətəp-a nəmnadi-a.** Kazəmu tulta aw napkin tayir sanduk nzəkko kətəpro, tərtəpro kuru kətəptəpro.
+- **Awo duno zaptəro.** Bərni fleece, kashin aw dabba duno ngəla, sadəro fǝle, biskaramro gənyi.
 
-### Smell
+### Kənəbu
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Kənəbu kura.** Mint, rosemary, basil aw lavender muskonəm lan kəttəgəne kuru isonəm ro yade.
+- **Fato kənəbu.** Gahawa nəmzəgə, burodi nəmrəkkə, cinnamon aw lemu nəmfiltə karəngən.
+- **Fure.** Fure ngəla gana bustani aw kasuwa lan yade.
+- **Awo kəla sədin ma.** Sabul aw lotion shi kullum faidatənadə, kazəmunzə amartəna maa.
 
-### Taste
+### Tambu
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Dadi ngəla.** Awo shi kərawojin gana, misallo applesauce, pudding aw ice cream, nəmzəliwo shi nəmzəliwo lan tambu tin ma.
+- **Burodi tado lan bana.** Tǝmari aw frosting gana tambu sa nayia burodi tadoye.
+- **Kəmbe naptərambe.** Kənəm bərwu lan watermelon, kənəm ngawo lan cider kəmzəgəna, nəmzəliwo zəzəkkəna lan.
 
-### Sound
+### Fanə
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Sawa ngəla.** Sawa nojin ma hangal lan; [cida sawa](/activities/music/) rui.
+- **Kəla kənəbu kura.** Ingi, kəmawu aw ngudowa kəla. NIA ye gulzəna sawa, kəla fufu-a kəla kənəbu kura-a am laa ro kəlado sədin.
+- **Kəlanəm.** Karatə kəla lan, ngulwu, aw labar gul.
+- **Awo kəla sandi.** Ganga gana, shaker aw bell sawa-a kəlle biptəro.
 
-### Sight
+### Ruye
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Window lan ruye.** Ngudowa tədaram window deyia, yalla bərni ro lejin, aw kərwu cedin.
+- **Buni sam aw video hangal.** Letəgə hangal kəla duno ba.
+- **Foto kura.** Foto fal kalkalro, shim ro kəskero gotə.
+- **Kala-a alama-a.** Kazəmu kala-a, fure aw napkin kala-a tərtə, aw shafi kala tado sandi [kala tado](/games/coloring/) yaye lan.
+- **Deya.** NHS ye bustani kənzəbuye kənəbu kura, letəbe-a nəmnji-a kəlle shawariyin. [Cida deya-a bustani-a](/activities/outdoor-and-gardening/) rui.
 
-## How to make a sensory box
+## Futu sanduk kənzəbuye tadoye
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Kəla fal karne** kamdə kərmai nzə-a kəlle: ci bəram, bustani, fato, cida na, aw tando.
+2. **Awo kura nəmzəliwo usku aw arasku karne,** misallo kənga kura, cokali kəska, mayafi duno, kazəmu lavender ngurmuna kəlle kərtəkkata, aw kəska kənadiye.
+3. **Awo kəriye sammaro rui** awo gana, ci tajim, zare kəsəkkata aw awo fasartə ma mbejiya.
+4. **Awo fal hangal hangal fǝle.** Kamdə ro yikke, bayinne, kuru kamdə-a letəro kolne.
+5. **Ngawo cidabe sanduk dəga yaye** adəga awo so ngəla walzə kuru kawu ishin dəgin kuru ro rui.
 
-## Safety first
+## Kəliwo nəmzəliwo buro
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
-
-| Risk | What to do |
+Cida kənzəbuye hangal, amma tajirwa laa faida mbeji. Am dementia-a kərma bəzəna laa awo kəmbe gənyi-a kəmbero tamanzayin, kuru nduwu nəmzəliwo wa ngawo wakkil ngəwu waljin; NIA ye gulzəna naptəram ngawo lan tajirwa nduwuye nəmzəliwo tərtəgə kərma.
+| Tajirwa | Awi dio |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Nəmzəliwo | Awo nduwu tinzə taiyinzə kura so faidane. Buton, beads, kudi, marbles aw biskaram gana sanduk nzəkko kolne. Kəmbe nəmzəliwo jama kəliwobe amartəna dəgi ma ro. |
+| Awo kəmbe alama sədin | NIA ye lotion, sabul, shampoo-a turare-a kəskero gororo shawariyin, dalil sandi kəmbe alama sədin; tǝmari naptərambe-a dəga yaye. Ngawo cidabe awo kənzəbube dəga yaye. |
+| Allergy | Buro badizənyin kawu allergy kuli kəskabe, latex, sufa, kəli kura aw kənəbu-a rui. |
+| Kənəbu duno | Turare duno-a mai kənəbu duno-a kolne, musamman asthma aw kəliwo yintəbe gade-a bəzəna ma ro. Kənəbu kənəbuye hangal nəmzəliwo. |
+| Kazəmu | Buro musko letənyin kawu, kazəmu nəmzəgəna, kataptəna aw nəmzəliwo ba-a rui. Letə hangal faidane kuru shi kəmgənadəga diwo. |
+| Nəmzəgə | Kazəmu kəmzəgəna-a nəmsha-a buro muskonəm gadero jarabtəne. |
+| Awo tajim aw sum | Awo tajim, gilashi aw awo cida sumbe kolne. |
 
-## Does aromatherapy help?
+## Aromatherapy ye banajin wa?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Alama kərma lan, alagə ba. [Kərwu Cochrane aromatherapy dementia-a ro](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ye kərwu 13 am 708-a ruyeno, samma na kənzəgəbe lan, kuru dalil kərma faidabe tədinba. Kərwu so gana, jawapsu kalkal nzəkko, kuru alamaram tajirwabe-a ngəwuro bayinba. Kamdə kənəbu hangal nojin maa, misallo lavender bustani lan, adə awo ngəla kəlle taro dalil ngəla. Shi kəla kəliwobe gənyi.
 
-## How to offer a sensory activity
+## Futu cida kənzəbuye fǝleye
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Naptəram ladiye karne** kuru TV dəga datə.
+- **Fuwu nzəkko isho,** sunzə bowone, kuru letənyin kawu suro aw bayinro gulne: «Lotion laa mbeji. Muskonəm letəkkiya raamma wa?»
+- **Awo fal hangal hangal fǝle** adəga shi ngəwu waljinro.
+- **Futu cidajin dəga rui.** Fǝska hangal, musko nəmkəlado aw kasəm alama ngəla. Cintə, fǝska kəptə aw nəmkərtə alama diwo ma.
+- **Gana kərtə.** Minti usku hangal cida ngəla.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Yintə hangal kəlle, misallo [yintə hangal](/games/calm-breathing/), cida-a hangalro datəro dalil ngəla. Futuwa gade dǝga ro, [cida naptəram ngawo](/activities/late-stage/) rui, kuru kajiri une-a, [kajiri nəmkərtə](/caregiving/late-day-restlessness/) rui.
