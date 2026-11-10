@@ -61,6 +61,10 @@ The two-choice panel reuses the existing game artwork and content. Its links hav
 
 The added raster labels follow the existing locale coverage: 44 of 64 app locales have translated labels and 20 retain the English fallback. The new data regression test checks all 100 labels against the illustration manifest and generated mobile catalog. This does not change the rubric's existing coverage ratio. The site suite has 725 passing tests and TypeScript is clean; the full build still stops on the Tibetan guide description, `check-site` did not run, and Flutter is unavailable. Keep the recorded score at **9.62**, with verification health at **7.5**; native-speaker and device checks are not verified and are not scored.
 
+## Round 42 score update (2026-11-10)
+
+Conversation Cards now starts with only its image and theme; the prompt remains available through its existing checkbox. Focused behavior tests, all 725 site tests and TypeScript pass. The full site build still stops on the Tibetan guide description, and Flutter is unavailable. The Playwright wrapper is blocked by the environment's `npx` package guard; Astro dev exits before ready, so no live browser inspection ran. The current rubric dimensions do not change; keep the weighted score at **9.62**, with verification health at **7.5**. Caregiver and participant feedback is also not verified.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

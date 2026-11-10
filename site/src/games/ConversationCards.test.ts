@@ -5,12 +5,13 @@ import { playProps } from '../i18n/play';
 import ConversationCards from './ConversationCards';
 
 describe('ConversationCards', () => {
-  it('starts with the conversation prompt available and checked', () => {
+  it('starts with the prompt hidden but available by choice', () => {
     const html = renderToStaticMarkup(createElement(ConversationCards, playProps('en', 'conversation-cards')));
 
     expect(html).toContain('Show a conversation prompt');
-    expect(html).toMatch(/type="checkbox" checked=""/);
-    expect(html).toContain('class="talk-card__prompt"');
+    expect(html).toMatch(/type="checkbox"/);
+    expect(html).not.toMatch(/<input type="checkbox"[^>]*\bchecked(?:=""|(?=\s|\/?>))/);
+    expect(html).not.toContain('class="talk-card__prompt"');
   });
 
   it('uses the English source label until a locale has a reviewed translation', () => {

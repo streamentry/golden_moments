@@ -16,7 +16,7 @@ export default function ConversationCards(props: PlayProps) {
   const { cards, themes } = content.conversation;
   const pictureName = pictureNamer(props);
   const [theme, setTheme] = useState<TalkTheme | 'all'>('all');
-  const [showPrompt, setShowPrompt] = useState(true);
+  const [showPrompt, setShowPrompt] = useState(false);
   const [seed, setSeed] = useState(0);
   const [index, setIndex] = useState(0);
 

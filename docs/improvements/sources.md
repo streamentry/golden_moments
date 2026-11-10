@@ -75,3 +75,10 @@ Application: in the existing `/today/` advice, “nothing to do” already recom
 - [Alzheimer's Association: Communication and Alzheimer's](https://www.alz.org/help-support/caregiving/daily-care/communications) — read. It notes that communication can change, including difficulty finding familiar words or returning to a native language.
 
 Application: the app's 100 newer raster illustrations previously supplied English screen-reader labels in every locale. The shared picture-name map now contains machine translations for the 44 app locales whose existing drawing names are complete. The 20 low-confidence locales remain on the English fallback; their earlier picture-name gap is still recorded above. This is an accessibility inference, not evidence that localized labels improve health outcomes. None of the new labels has native-speaker review.
+
+## Round 42: make conversation prompts opt-in at the point of use (read 2026-11-10)
+
+- [Alzheimer's Society: Who can support with memory problems?](https://www.alzheimers.org.uk/get-support/living-with-dementia/support-with-memory-problems) — read. It suggests family and friends support the person by not testing them with questions such as “Do you remember who this is?”
+- [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) — read. It advises against detailed memory responses, and suggests simple yes/no questions or a few choices. The page also recognizes that reminiscence can be a useful shared activity; this change does not remove prompts.
+
+Application: website Conversation Cards already allowed a helper to hide or show its question, but the question started visible. The game now opens on the picture and theme with the checkbox unchecked. A helper can show a prompt if it seems welcome; the existing speech logic keeps a hidden question out of Read aloud. This is a low-pressure default inferred from the guidance, not evidence of a clinical benefit.
