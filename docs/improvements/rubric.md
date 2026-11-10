@@ -73,6 +73,10 @@ Optional captions now name selected Photo Pairs images for screen readers; blank
 
 Photo Pairs now displays a one-line comfort reminder before selection. It adds no new control or state. The 727 site tests and TypeScript pass; the full build remains blocked by the Tibetan guide description, and the new English string is not yet translated. Keep the recorded weighted score at **9.62**, with verification health at **7.5**; live browser and caregiver/person checks remain unverified.
 
+## Round 45 score update (2026-11-10)
+
+The website now lets a person look at one selected photo without matching; two or more photos are required for matching and navigation. The site suite (1,855 tests), TypeScript, 12,491-page build and `check-site` pass with 0 errors. The prior weighted score of **9.62** and lowest dimension **7.5** remain the last measured repository-wide score. I did not recalculate it: Flutter is unavailable, PR #184 included app changes that have not been tested here, and the dynamic photo view did not receive browser or assistive-technology testing. These checks remain unverified, not release claims.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

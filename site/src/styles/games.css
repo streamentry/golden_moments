@@ -790,6 +790,37 @@
   outline: 3px solid var(--gm-primary);
   outline-offset: 2px;
 }
+.photo-pairs__viewer {
+  box-sizing: border-box;
+  display: grid;
+  justify-items: center;
+  gap: var(--space-md);
+  width: 100%;
+  margin: 0;
+  padding: var(--space-lg);
+  background: var(--gm-surface);
+  border: 2px solid var(--gm-outline);
+  border-radius: var(--radius-lg);
+}
+.photo-pairs__viewer img {
+  display: block;
+  max-width: 100%;
+  max-height: min(55vh, 560px);
+  object-fit: contain;
+  border: 1px solid var(--gm-outline);
+  border-radius: var(--radius-md);
+  background: var(--gm-surface-raised);
+}
+.photo-pairs__viewer figcaption {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  font-size: var(--text-lg);
+  font-weight: 700;
+  text-align: center;
+}
+.photo-pairs__viewer .btn-row {
+  justify-content: center;
+}
 
 /* Bingo caller */
 .caller {
@@ -1247,6 +1278,12 @@
     outline: 3px solid #000000;
     outline-offset: 2px;
   }
+  .photo-pairs__viewer {
+    border: 3px solid #000000;
+  }
+  .photo-pairs__viewer img {
+    border: 2px solid #000000;
+  }
   .photo-pick label.btn:has(input:focus-visible) {
     outline: 4px solid #000000;
     outline-offset: 3px;
@@ -1410,6 +1447,12 @@
   .photo-pick__caption-input:focus-visible {
     outline: 3px solid Highlight;
     outline-offset: 2px;
+  }
+  .photo-pairs__viewer {
+    border: 2px solid CanvasText;
+  }
+  .photo-pairs__viewer img {
+    border: 2px solid CanvasText;
   }
   .photo-pick label.btn:has(input:focus-visible) {
     outline: 3px solid Highlight;
