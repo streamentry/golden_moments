@@ -1,4 +1,4 @@
-# Sources learned from (accessed 2026-11-07)
+# Sources learned from (updated 2026-11-10)
 
 Purpose: the dementia, Alzheimer's and caregiver material this project learns from. Each entry says what was **read** (fetched and checked) and what was only **seen in search results**, because a search snippet is not evidence. Where a source could not be opened, that is stated.
 
@@ -54,3 +54,11 @@ Not used: Alzheimer's Society font and contrast figures reported by a blog ("san
 - The Alzheimer's Society Dementia Digital Design Guidelines spreadsheet (not opened directly; only summary accessible).
 - Alzheimer's Association guidance beyond the page read.
 - Any 2025 usability trial of a dementia photo app (none found).
+
+## Round 39: optional conversation prompts (read 2026-11-10)
+
+- [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) — opened again. It advises caregivers to notice when a person seems happy, anxious, distracted or irritable; adjust or end an activity when attention fades or frustration rises; and focus on enjoyment rather than achievement.
+- [Dementia Australia: Activities for people with dementia](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) — read. It recommends starting an activity together, giving one step at a time, keeping activities simple and short, and trying another time if the person is not interested that day.
+- [NIA: Adapting Activities for People With Alzheimer's Disease](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) — search result seen, but the page returned HTTP 405 when opened. No Round 39 claim relies on that page.
+
+Application: the mobile app already has a picture-viewing activity with optional prompts. Website Conversation Cards showed a question on every card and offered no way to look without it. A visible checkbox now lets the caregiver hide or restore the question; hiding it also keeps that question out of Read aloud. This is a low-risk extension of existing behavior, not evidence that the change improves health outcomes.

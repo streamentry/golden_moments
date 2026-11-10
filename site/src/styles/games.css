@@ -143,6 +143,10 @@
   outline: 3px solid var(--gm-primary);
   outline-offset: 3px;
 }
+.conversation-cards__prompt-toggle {
+  justify-self: start;
+  max-width: 100%;
+}
 
 /* Picture tiles: rounded rectangles, never pill shaped */
 .board {
