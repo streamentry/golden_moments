@@ -99,3 +99,12 @@ Application: on the website, selected Photo Pairs tiles previously used only num
 - [Alzheimer's Society: The Activities Handbook](https://www.alzheimers.org.uk/sites/default/files/2020-11/AS_77AC_The-Activities-Handbook.pdf) — read. In the life-story section, it notes that some photographs may bring painful memories. If the person is upset, let them express their feelings and ask whether they want to continue or do something else.
 
 Application: Photo Pairs now puts one short reminder next to photo selection: choose photos the person enjoys and stop or switch if a picture upsets them. This is a point-of-use cue, not a clinical safeguard or evidence of a health outcome.
+
+## Round 50: regional scope of Today help numbers (read 2026-11-11)
+
+- [USAGov: Report a crime](https://www.usa.gov/report-crime) and the [National 911 Program](https://www.911.gov/) direct U.S. emergencies to 911.
+- [U.S. Department of State: Communicating While Abroad](https://travel.state.gov/en/international-travel/planning/guidance/communication-abroad.html) says emergency numbers differ by country and advises travelers to learn local emergency services.
+- [988 Lifeline: Get Help](https://988lifeline.org/get-help/) says its crisis support serves the United States and its territories.
+- [Administration for Community Living: Finding Help](https://acl.gov/help) lists the Eldercare Locator as a U.S. resource; the [Alzheimer's Association 24/7 Helpline](https://www.alz.org/help-support/resources/helpline) lists its 800.272.3900 line for dementia support.
+
+Application: the Today tool now labels U.S. phone lines and gives local emergency/crisis-service wording for readers elsewhere. The site does not infer a visitor's location or claim to provide a global service directory.

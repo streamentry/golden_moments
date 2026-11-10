@@ -188,3 +188,13 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Data boundary | The band uses the existing Today notes in this browser's localStorage. The storage key is unchanged; old notes without `timeOfDay` still load, and unrecognized values are dropped without discarding the rest of the note. | No new storage location, network request, account or telemetry. |
 | Tests | `notes.test.ts` and `TodayTimePicker.test.ts`: 11 focused tests pass, including legacy notes and optional values. `pnpm --dir site verify`: 1,862 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
 | Not verified | The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. No live browser, caregiver/person or device check. | Open; do not claim usability validation. |
+
+## Round 50: label U.S. help numbers in Today
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | USAGov and the National 911 Program direct U.S. emergencies to 911. The State Department says emergency numbers vary by country. The 988 Lifeline serves the U.S. and its territories; ACL's Eldercare Locator and the Alzheimer's Association helpline are U.S. resources. | The page must distinguish U.S. numbers from local emergency/support services. |
+| Gap and change | `/today/` showed 911 in every help response and 988 plus U.S. helpline numbers without geographic labels. | Help text now says when 911, 988, the Alzheimer's Association helpline and Eldercare Locator are U.S. resources, and tells readers elsewhere to use local emergency or crisis services. |
+| Data boundary | This is static copy. No location detection, geolocation permission or external request was added. | Today remains English-only; the text does not select a number based on inferred location. |
+| Tests | `situations.test.ts`: 5 pass, including the regional wording. `pnpm --dir site verify`: 1,862 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
+| Not verified | No live browser, caregiver/person or native-speaker check. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim regional or user comprehension testing. |
